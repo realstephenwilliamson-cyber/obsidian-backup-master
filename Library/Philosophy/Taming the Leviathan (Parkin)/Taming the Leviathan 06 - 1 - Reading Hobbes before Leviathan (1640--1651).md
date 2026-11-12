@@ -21,7 +21,9 @@ T H E E L E M E N T S O F L A W
 Before 1640, Hobbes, secretary to the Earls of Devonshire, was known to the literate public as humanist scholar, a poet and a translator.[^1] Hobbes had been responsible for the standard English version of Thucydides’ Eight bookes of the Peloponnesian Warre (1629),[^2] and he was also the author of De mirabilibus pecci (1627), an occasionally obscene country house poem that Hobbes ultimately despised, but which remained popular throughout the century.[^3] To a smaller circle of scientists associated with Hobbes’s Cavendish patrons, the Earls of Devonshire and Newcastle, Hobbes was a respected natural philosopher, a former amanuensis to Francis Bacon who, although he had come late to the study of mathematics and natural philosophy, nevertheless promised much.
 
 [^1]: Hobbes has also been credited with writing three of the essays in Edward Blount’s Horae Subsecivae (1620), which is mentioned very occasionally by contemporaries. See for example G. Langbaine (1691), An account of the English dramatick poets (1691), p. 328. For the attribution of the essays to Hobbes see Thomas Hobbes, Three Discourses (1995), ed. N. B. Reynolds and A. W. Saxonhouse.
+
 [^2]: Hobbes’s translation of Thucydides was reissued in 1634 and 1648, and only reprinted in 1676. The reissues suggest that the edition didn’t sell particularly well.
+
 [^3]: Ad nobilissimum dominum Guilielmum Comitem Devoniae, &c. De mirabilibus pecci, Carmen Thomae Hobbes, written in 1627, although Aubrey suggests that it was published in 1636 (Aubrey, Brief Lives, ed. A. Clark, 2 vols. (Oxford, 1898, I, p. 360)). Wing records editions in 1666 (two editions), 1675, 1678 and 1683 (the last two editions including an English translation by Charles Cotton). As Quentin Skinner has noted, Hobbes’s critics would sometimes draw attention to the obscenity in the poem (a cave at one point is compared to a woman’s genitalia); see for example John Wallis, Due correction for Mr Hobbes. Or Schoole discipline, for not saying his lessons right (Oxford, 1656), p. 3; Seth Ward, In Thomae Hobbii philosophiam exercitatio epistolica (Oxford, 1656), p. 240. Thomas Tenison’s divine travels to the Peak after reading De Mirabilibus and meets Hobbes in St Anne’s Well, Creed of Mr. Hobbes examined (1670), p. 4. De Mirabilibus is cited and quoted by Thomas Fuller in his The history of the worthies of England (1662), pp. 230–1 as part of a guide to Derbyshire. Edward Phillips, Milton’s nephew, noted that the poem was well-received (Theatrum poetarum (1675), p. 177 \[second pagination\]). Skinner notes De Mirabilibus’s distinguished readership. Robert Burton owned a copy; it was one of three works by Hobbes that Locke possessed and was the only work by Hobbes that Newton ever purchased. Robert Hooke also borrowed the work in 1675. Q. Skinner, Reason and
 
 *[p. 19]* ^pg32
@@ -31,8 +33,11 @@ Hobbes got his first taste of direct involvement in the politics of the 1640s as
 The 1630s had seen Hobbes busied with the development of his broader philosophical system, a project which had political dimensions from the start. Hobbes’s comprehensive scientific project aspired to treat of the nature of body, of man, and of the citizen. But at the command of William Cavendish, the Earl of Newcastle, Hobbes put this work aside to complete a short manuscript detailing the third part of his project, which he titled The Elements of Law.[^6] Newcastle, at this point politically engaged as a Privy Councillor and Governor to the Prince of Wales, had increasingly acted as patron to Hobbes’s intellectual activities; as Hobbes’s dedicatory epistle to The Elements make clear, he and Newcastle had discussed political theory ‘in private discourse’ and now Hobbes had drawn up his principles ‘into a method’.[^7] Hobbes’s ambitions were characteristically large; an original treatment of the foundations of justice and policy which would be of ‘incomparable benefit’ to the commonwealth if every
 
 [^4]: Skinner, Reason and Rhetoric, p. 228; Hobbes, De Cive: The Latin Version, ed. H. Warrender (Oxford, 1983) \[henceforth DCL\], Introduction, p. 4; P. Zagorin, ‘Thomas Hobbes’s Departure from England in 1640: An Unpublished Letter’, Historical Journal 21 (1978), pp. 157–60.
+
 [^5]: Skinner, Reason and Rhetoric, p. 229.
+
 [^6]: For the composition of the work, see D. Baumgold’s, ‘The Composition of Hobbes’s Elements of Law’, History of Political Thought 25: 1 (2004), pp. 16–43.
+
 [^7]: T. Hobbes, The Elements of Law, Natural and Politic, ed. F. Tönnies, second edition (1969) \[henceforth EL\], Ep. ded, pp. xv–xvi.
 
 *[p. 20]* ^pg33
@@ -44,10 +49,15 @@ who might be most nearly concerned. The Short Parliament had been dissolved for 
 This seems to be borne out by the relatively wide distribution of the text. We are used to thinking that manuscript circulation involves limited distribution to small circles of intimates, but in the case of the Elements the manuscript phase of dissemination may have reached a broader readership than the first printed version of Hobbes’s political theory, the 1642 edition of De Cive. Hobbes himself reported that ‘many gentlemen had copies’ of the Elements of Law which, Hobbes claims, ‘occasioned much talk of the author’.[^11] It is well known that a surprisingly large number of manuscript copies of the Elements survive, no fewer than five at the British Library and three at Chatsworth.[^12] The surviving manuscripts give us a sense of how they were distributed; as Martin Dzelzainis has shown, Hobbes appears to have produced a number of copies which were circulated through various networks of readers, copied in their turn and returned, sometimes to be corrected or altered by Hobbes himself, presumably with a view to further circulation or perhaps ultimately publication.[^13] Hobbes’s close friend Robert Payne, then canon of Christ Church,
 
 [^8]: Ibid.
+
 [^9]: T. Hobbes, The English Works of Thomas Hobbes of Malmesbury, ed. W. Molesworth (1839–45) \[henceforth EW\], IV, p. 414.
+
 [^10]: Ibid.
+
 [^11]: Ibid.
+
 [^12]: British Library Harleian MS 1325, 4235, 4236, 6858 and Egerton MS 2005. See DCL, Introduction, pp. 3–4 and notes.
+
 [^13]: M. Dzelzainis, ‘Edward Hyde and Thomas Hobbes’s Elements of Law, Natural and Politic’, Historical Journal 32: 2 (1989), p. 310.
 
 *[p. 21]* ^pg34
@@ -59,6 +69,7 @@ More representative of Hobbes’s intended audience was the lawyer Edward Hyde, 
 Hyde appears to have read The Elements of Law at some point in September or October of 1640, that is, just before the opening of the Long Parliament, and we can get some sense of his reaction to it from extracts and notes that he appears to have made from the text, now preserved in the Clarendon manuscripts.[^15] Unsurprisingly the passages noted sections of the text dealing with those issues that had come to dominate the political agenda of the Short Parliament, particularly sections dealing with the extent of sovereign power, the nature of the relationship between the sovereign and Parliament, and more specifically, those
 
 [^14]: J. C. Hayward, ‘The mores of Great Tew: Literary, Philosophical and Political Idealism in Falkland’s Circle’, Cambridge University PhD (1982).
+
 [^15]: Bodleian Library, MS Clarendon 126. The extracts are discussed in M. Dzelzainis, ‘Edward Hyde and Thomas Hobbes’s Elements of Law, Natural and Politic’.
 
 *[p. 22]* ^pg35
@@ -70,8 +81,11 @@ Hyde’s view of the English constitution appears to have been fully formed by t
 Hyde’s complicated understanding of what constituted just limits is the crucial feature distinguishing his position from Hobbes. Although Hyde believed in a unitary account of sovereignty, he also believed that the exercise of sovereignty had been moderated historically; the crown had become legally self-limiting through voluntary agreements to act within a system of institutions which it could not change by itself.[^18] This commitment to the rule of law gave Hyde a strong historical sense of the legal powers and language proper to the crown, enabling him to present himself as a defender of the just prerogative when the crown exceeded its powers but also when its opponents demanded excessive concessions. In the Short Parliament, Hyde publicly aligned himself with the crown’s opponents, leading the attack upon the Earl Marshal’s Court as an illegal innovation.[^19] In the early months of the Long Parliament, Hyde, together with Falkland,
 
 [^16]: M. Dzelzainis, ‘Edward Hyde and Thomas Hobbes’, p. 315.
+
 [^17]: Clarendon, Selections from The History of the Great Rebellion, ed. G. Huehns (Oxford, 1955), p. 31.
+
 [^18]: B. Wormald, Clarendon: Politics, History & Religion 1640–1660 (Cambridge, 1951), p. 224.
+
 [^19]: R. Ollard, Clarendon and His Friends (London, 1987), p. 49.
 
 *[p. 23]* ^pg36
@@ -81,7 +95,9 @@ took the lead in denouncing the crown view of the Ship Money issue. In both case
 The passages copied or noted by Hyde show a particular concern with positions in the Elements which comment directly upon the kind constitutionalism motivating his opposition to the crown. For example, a large group of extracts are taken from Part 2, chapter 1, sections 13–19, which assault the notion that there can be such a thing as a limited or moderated sovereignty.[^21] Hobbes’s position is that conditional sovereignty is no sovereignty at all. Limitation of the sovereign’s right to tax, for example, inevitably undermines the ability to provide effective protection. Equally, distribution of power to assemblies undermines sovereignty, which on Hobbes’s account must be absolute and indivisible. Although Hyde could agree with Hobbes on the necessity of indivisible sovereignty, he would resolutely defend the idea that it could involve the possibility of legal self-limitation, an option that Hobbes simply rejected as an absurdity. Hyde’s concern about the drift of Hobbes’s position comes in a second cluster of extracts covering sections from Part 2, chapters 3 and 4. The treatment of the rights of slaves in chapter 3 made it clear that in servile relationships, servants could hold no property rights against their masters, and that masters can do what they like with servants and their goods. The political relevance of these sections becomes apparent in the immediately following extract from chapter 5, recorded on the same sheet, where Hobbes states bluntly that the ‘subjection of them who institute a commonwealth amongst themselves is no less absolute, than the subjection of servants’.[^22] It is hard to see that Hyde’s noting of these passages indicated his approval of any of them, given his political stance at the time. Indeed, if
 
 [^20]: Dzelzainis, ‘Edward Hyde and Thomas Hobbes’, p. 315.
+
 [^21]: MS Clarendon, fo. 126r–131v.
+
 [^22]: Hobbes, EL, 2.4.9, p. 134.
 
 *[p. 24]* ^pg37
@@ -93,6 +109,7 @@ It has been claimed that many of Hobbes’s contemporaries, particularly those c
 If Hobbes had hoped to convince Hyde, the latter’s actions over the following months indicate that he failed. Both Hyde and Falkland took the lead in opposing Ship Money, they investigated the judges responsible for the decision, and they both voted in favour of the attainder of the Earl of
 
 [^23]: MS Clarendon 126, f. 130v, see Dzelzainis, ‘Edward Hyde and Thomas Hobbes’, p. 315.
+
 [^24]: Ibid. These include situations where a sovereign voluntarily relinquishes sovereignty, a subject’s exile, conquest and situations in which a successor’s identity is not known.
 
 *[p. 25]* ^pg38
@@ -102,8 +119,11 @@ Strafford. To Hobbes’s alarm, writings in favour of the king’s prerogative b
 This might have been the end of Hyde’s engagement with Hobbes but for the growing demands for root and branch reform of the church that came to dominate the proceedings of the Long Parliament. When it came to the question of the church, both Falkland and Hyde were critical of Laudian innovation and, in common with other Great Tew habitués, they rejected simple jure divino accounts of episcopacy. This was, of course, something that they had in common with Hobbes. Although he had only touched upon the issue of church government in the Elements very briefly, Hobbes had argued that any claim to do something by divine right was simply a confusion about the relationship between rights and laws, a passage extracted by Hyde.[^28] However, at this point the similarities ended. Although Hyde and Falkland both saw the Church of England in broadly Hookerian terms as a human construct, the same sense of history that shaped their constitutionalism also defined their attitude towards the church as it had been established by law. Just as the constitution had evolved to include a range of historical legal obligations, the church had similarly become established through consecrated arrangements that although they were not, strictly speaking, the direct expression of divine right, nevertheless represented obligations with a divine as well as a human dimension. Any violation of the church or its property by law established
 
 [^25]: T. Hobbes, The Correspondence, ed. N. Malcolm, 2 vols. (Oxford, 1994) \[Henceforth CTH\], I, p. 116 n5.
+
 [^26]: Ibid., I, p. 115.
+
 [^27]: P. Zagorin, ‘Thomas Hobbes’s Departure from England in 1640: An Unpublished Letter’, Historical Journal 21 (1978), pp. 157–60.
+
 [^28]: Hobbes, EL, 2.9.5; cf. Clarendon MS 126, fo. 134.
 
 *[p. 26]* ^pg39
@@ -115,9 +135,13 @@ The combination of Charles’s constitutional concessions and concerns about the
 It is no surprise that in circumstances where all sides were often determined to give at least the appearance of moderation and constitutional
 
 [^29]: See particularly M. Dzelzainis, ‘‘‘Undoubted Realities’’: Clarendon on Sacrilege’, Historical Journal
+
 [^33]: T. Hobbes, Behemoth; or, The Long Parliament, ed. F. Tönnies (Chicago, 1990), pp. 116–17, 125.
+
 [^30]: CTH, I, p. 120.
+
 [^31]: D. Smith, Constitutional Royalism and the Search for Settlement (Cambridge, 1994), pp. 89–90.
+
 [^32]: Answer to the XIX Propositions, c2r–v, quoted in R. Tuck, Philosophy and Government, 1572–1651 (Cambridge, 1993), p. 233. Hyde was clear that the king was not an estate but rather the head and sovereign; the bishops made up the third estate. M. Mendle, Dangerous Positions (Alabama, 1985),
 
 *[p. 27]* ^pg40
@@ -127,7 +151,9 @@ propriety, the arguments of the Elements would not thrive outside the private co
 Henry Parker’s Observations upon some of His Majesties late answers and expresses, published anonymously at the beginning of July 1642, was designed to respond to the Answer to the XIX Propositions and Hyde’s pamphlets accusing Parliament of absolutist behaviour. Parker, nephew of Viscount Saye and Sele, and by this stage an experienced parliamentary pamphleteer, changed the shape of the debate over the constitution by largely accepting Hyde’s accusation of parliamentary absolutism and turning it back upon his Royalist opponents. Moving away from the traditional legal and constitutional framework, Parker deployed what was still an exotic natural law argument that the origins of power lay in the people, who could choose their form of government. From this position, Parker went on to assert two subordinate maxims concerning the powers of monarchy; the first that although the king ‘be singulis Major \[greater than any individual\], yet he is universis minor \[less than them all\]’.[^35] Parker reinforced the account of popular sovereignty by arguing that as the people were the efficient cause of power, so it was a rule in nature that ‘quicquid efficit tale, est magis tale \[whatever produces something is greater than it\]’. The people were the final cause of regal authority as well as the efficient cause; as a result salus populi was the paramount law of all politics. Not content with making the monarch subordinate to the people, Parker went on to make Parliament, and particularly the Commons, the body that most truly represented the people and therefore the body best placed to judge the public good. As Parker argued later in the Observations, Parliament was the state itself, a body endowed with the arbitrary supremacy necessary to secure the safety of the people.[^36] As Michael Mendle comments, ‘Parker’s drift from known law and constitution into equity, popular sovereignty, and the law of nature released what had been the constitutional stream of the official war of words into broader political,
 
 [^34]: The army plotters of 1641 included several individuals later associated with, or accused of, Hobbism, particularly Henry Percy and William Davenant. Henry Jermyn, who was later responsible for employing Hobbes as the Prince of Wales’s tutor, was also involved. The plotters all fled to France after the plot was exposed in May 1641. See C. Russell, ‘The First Army Plot of 1641’, Transactions of the Royal Historical Society 37 (1988), pp. 85–106.
+
 [^35]: H. Parker, Observations upon some of His Majesties late answers and expresses (1642) p. 2.
+
 [^36]: Mendle, Dangerous Positions, pp. 85–6.
 
 *[p. 28]* ^pg41
@@ -139,6 +165,7 @@ Of the various strategies available to Royalist writers dealing with the Observa
 Digges’s Hobbesian passages are identifiable through their verbal resemblance to Hobbes’s arguments in the Elements. The first examples appear in the anonymous Answer to a printed book (Parker’s), which appeared in November 1642, and which can plausibly be attributed to Digges’s hand.[^37] Here Digges used a contractual argument against Parker that appears to paraphrase several sections of the Elements dealing with the state of nature.[^38] Distinctive Hobbesian elements appear in an emphasis upon natural equality and the observation that there is no injustice prior to law. The fatal divisions of the state of nature prompt individuals in that state to restrain their own judgement and to part with their natural right.
 
 [^37]: \[Anon.\] An answer to a printed book intituled, Observations vpon some of His Majesties late answers and expresses (Oxford, 1642). Although attributed to Falkland, Chillingworth, Digges ‘& ye rest of ye University’ on Thomason’s copy, Mendle notes that in later work Digges referred back to ‘my Answer to the Observations’ which suggests that he may well have been the sole author. The two distinctively Hobbesian passages can be found on pp. 1–2, 13–14.
+
 [^38]: Ibid., pp. 1–2: Cf. EL, 1.16.1; 1.19.1; 1.19.7; 2.1.4.
 
 *[p. 29]* ^pg42
@@ -176,7 +203,9 @@ If we looke back to the law of Nature, we shall finde that the people would have
 So Digges was not simply paraphrasing Hobbes but was rather using Hobbes’s conceptual tools to underpin his own arguments against Parker. Perhaps inevitably this meant that Digges’s Hobbism would only go so far. Once natural right had been disarmed with Hobbesian distinctions, Digges could revert to more traditional positions, as several commentators have observed. In particular, although Digges builds his argument upon a consent theory in a manner similar to Hobbes’s,[^47] he is keen to point out that it is God who validates that consent and God alone who can impart to the magistrate the jus gladii, or the right to take away life. Digges is also happy to underwrite the arguments of constitutional royalism, subscribing to the rhetoric of the self-limiting monarch; English kings, he argued ‘did enlarge the Subjects Priviledges by divers Acts of Grace’, but Digges was clear that such could not be taken for either conditional contracts or divisions of sovereignty. He agreed with Hobbes that the concept of mixed monarchy considered in the abstract was indeed a contradiction but redefined what it meant: ‘By a mixt Monarchy’, he wrote, ‘. . . nothing
 
 [^45]: Digges, Unlawefulnesse, p. 14.
+
 [^46]: This reappropriation strengthened the absolutism of Hobbes’s theory, but created a tension with Hobbes’s thought that individuals always retain a right to self-defence. Digges, by contrast, had no problem at all with the restriction of that right. Ibid., p. 120.
+
 [^47]: Digges even justifies the Norman Conquest as an example where de facto power was converted into de jure power by consent, and his account of consent looks forwards to Hobbes’s own.
 
 *[p. 32]* ^pg45
@@ -190,6 +219,7 @@ D E C I V E
 What was planned as part three of Hobbes’s philosophical trilogy eventually appeared as the first published version of Hobbes’s political theory, dedicated not to Newcastle this time, but to his employer, the Earl of Devonshire. The title, Elementorum philosophiae sectio tertia, emphasised that it was part of larger project. As with the manuscript of the Elements of Law, Hobbes’s larger, perhaps utopian,[^49] ambitions are in evidence from the beginning, setting out an agenda for what a properly realised moral science (in other words, Hobbes’s own) could do for mankind: For if the patterns of human action were known with the same certainty as the relations of magnitude in figures, ambition and greed, whose power rests on the false opinions of the common people about right and wrong, would be disarmed, and the human race would enjoy such secure peace that (apart from conflicts over
 
 [^48]: Digges, Unlawefulnesse, p. 68.
+
 [^49]: See R. Tuck, ‘The Utopianism of Leviathan’, in T. Sorell and L. Foisneau (eds.), Leviathan after 350 Years (Oxford, 2004), pp. 125–38.
 
 *[p. 33]* ^pg46
@@ -199,6 +229,7 @@ space as the population grew) it seems unlikely that it would ever have to fight
 The ‘scientific’ character of the work has led many historians to see De Cive as the most sober expression of Hobbes’s political ideas, uncluttered by the rhetorical extravagance and unusual theology that characterise Leviathan. This account of De Cive also gives rise to the thought that, in contrast to Leviathan, Hobbes’s earlier work was more acceptable to his readers. Going further, one even encounters the suggestion that the work was not only acceptable, but that it was positively approved. Hobbes made this claim himself, most eloquently in his verse autobiography.[^51] Following Hobbes’s own positive spin, Richard Tuck suggests that Anglican clergy-men did read it with approval and Al Martinich goes so far as to suggest that the De Cive won admiration from many people, including officials of
 
 [^50]: Hobbes, On the Citizen, p. 5.
+
 [^51]: Hobbes, The life of Mr. Thomas Hobbes of Malmesbury (1680), p. 8: Hobbes claims that De Cive ‘Gratifi’d Learned Men, which was the Cause/It was Translated, and with great Applause/By several Nations, and great Scholars read/So that my name was Famous, and far spread.’
 
 *[p. 34]* ^pg47
@@ -210,6 +241,7 @@ The publishing and initial distribution of the first edition of De Cive was an e
 I like what he says in favour of kings, but I cannot approve the foundation on which he builds his opinions. He thinks that all men are naturally at war with one another, and has some other principles which differ from my own. For example, he thinks it is the duty of each private individual to follow the official religion of
 
 [^52]: Tuck, Philosophy and Government, p. 319; A. Martinich, Hobbes: A Biography (Cambridge, 1999), p. 180. Even a sceptical Lodi Nauta refers to ‘the favourable reception of De Cive among Hobbes’s Anglican Royalist friends such as Henry Hammond, Robert Payne and Edward Hyde’. L. Nauta, ‘Hobbes on Religion and the Church between the Elements of Law and Leviathan: A Dramatic Change of Direction?’ Journal of the History of Ideas 63: 4 (2002), pp. 577–98.
+
 [^53]: N. Malcolm, Aspects of Hobbes (Oxford, 2002), p. 472.
 
 *[p. 35]* ^pg48
@@ -217,8 +249,11 @@ I like what he says in favour of kings, but I cannot approve the foundation on w
 his country – if not with internal assent, then at least with outward observance. There are some other things I cannot approve of. I do not think that the book is for sale, but I will inquire. I shall be glad if the King’s cause is defended as it should be.[^54] About the only thing that Grotius could recommend about the book was that it could be used to defend monarchy; just about everything else seems to have been problematic, not least the discussion of religion. The sections on religion were also a problem for another early reader, Gabriel Naudé, sometime physician to Louis XIII and now librarian to Cardinal Francesco Barberini. Writing to Barberini in June 1642, Naudé reported that he had been passed a book, ‘full of new and audacious ideas’ which would prove testing for ordinary readers. Religion again was the central issue. Naudé singled out Hobbes’s view that the only article of faith required by Christians was the belief that Jesus was the Christ, cutting through debates between Catholics and Protestants by referring all controversies to the civil power. ‘There are many ideas odder than this’, commented Naudé, ‘but they are presented so clearly and pleasantly, that if it was popularised, the book could cause great confusion.’[^55] At Mersenne’s end some his correspondents’ comments left him in no doubt that Hobbes’s work was as controversial as he feared. In September 1642 Baptiste Masoyer-Deshommeaux wrote of De Cive that ‘It is a rhapsody of heresies. Its basic principles are pernicious and absurd, namely, that society is founded on mutual fear and on the avoidance of violent death . . . He wants to unite sovereign priesthood with princely power, with the result that there will be as many heads of religion as there are princes . . . The only sort of correction this book deserves is that made by fire.’[^56] The criticism was such that when Mersenne wrote to the Calvinist theologian Andre Rivet in October, he felt it necessary to add that he knew in advance that Rivet’s opinion would be ‘without doubt unfavourable, where many sections of the book are concerned’.[^57] Descartes commented to a Jesuit priest some time in 1643 that he found Hobbes better at moral philosophy than he was at physics or metaphysics, but he couldn’t approve of all of Hobbes’s principles and
 
 [^54]: Grotius, Epistolae (Amsterdam, 1687), pp. 951–2. It is hard to find in these words the ‘discernible sympathy’ identified by Tuck in Philosophy and Government, p. 200.
+
 [^55]: A. L. Schino, ‘Tre lettere inedite di Gabriel Naudé’, Rivista di storia della filosofia 4 (1987), pp. 697–708.
+
 [^56]: Quoted in Malcolm, Aspects, p. 473.
+
 [^57]: Ibid. See also the responses of Thomas de Martel, who found the book to contain ‘many paradoxes about the state and Religion’ and Samuel Sorbie\`re, who was allowed by Mersenne to read a manuscript of the work for fifteen minutes early in 1643, Hobbes, De Cive, ed. H. Warrender, p. 300.
 
 *[p. 36]* ^pg49
@@ -230,7 +265,9 @@ The early European reception thus suggests that De Cive ran into a hail of criti
 We know that the first edition of De Cive did circulate amongst the English community in Paris. The British Library copy, for example, was owned by Richard Browne, English ambassador to Paris, before he gave it to his son-in-law, John Evelyn. Others encountered De Cive when the fortunes of war drove them to seek refuge in France. After a spell in the Tower for plotting to seize London for the king, Edmund Waller (another Tevian) was exiled to France in November 1644 and in the following year, with Hobbes directing the studies of his son Robert, he appears to have conceived a plan to translate De Cive into English, perhaps the best evidence that we have for an approving English reader.[^59] Hobbes’s unenthusiastic response to this proposal reflects the philosopher’s awareness that the project was unlikely to receive a warm welcome; in a letter of August 1645 he warns that although all the honour would come to Waller’s English translation, ‘so will the enuy also. I will not presse you to it but I must thank you for hauing once entertayned the thought.’[^60] Hobbes had good reason to warn Waller off; his letter was written shortly after he had faced
 
 [^58]: Quoted in Malcolm, Aspects, p. 473.
+
 [^59]: CTH, II, p. 914; Aubrey, Brief Lives, II, p. 277. As an associate of the Tew Circle Waller may well have known of Hobbes’s work in the Elements. His recent political experience probably confirmed for him the value of a political theory built around self-preservation (Waller had turned informer to save himself in London). Waller also strongly approved of Hobbes’s anti-clericalism. Aubrey, Brief Lives, I, p. 372; see discussion in CTH, II, p. 915.
+
 [^60]: Ibid., I, p. 124. The translation was never produced. Aubrey would later claim that this was because Waller had seen Hobbes’s own sample translation, which he ‘would not meddle with, for that nobody els could doe it so well’. Aubrey, Brief Lives, II, p. 277. In the light of Hobbes’s warning this may be a face-saving account. Aubrey recorded that on another occasion Waller had thought about penning some verses in praise of Hobbes, but did not because he was ‘afrayd of the Churchmen’. Similar fears may have sapped his motivation in this case. Bodleian MS Aubrey 9, fo. 54, see also CTH, II, p. 915.
 
 *[p. 37]* ^pg50
@@ -244,8 +281,11 @@ In 1643 he published The serpent-salve, a systematic attack upon Parker’s natu
 But just as Bramhall follows the other Royalists in doing his best to make the initial contract more binding, so he is also keen to dispel the authoritarian odour of voluntary slavery that comes with the process, and here his
 
 [^61]: Bramhall, The serpent-salve (York, 1643), p. 30.
+
 [^62]: Ibid., p. 46.
+
 [^63]: Ibid., p. 200.
+
 [^64]: Ibid., p. 26.
 
 *[p. 38]* ^pg51
@@ -255,8 +295,11 @@ account echoes the other constitutional Royalist writers. The sovereignty may be
 The military disaster that engulfed Newcastle’s forces at Marston Moor in July 1644 was the event that precipitated Bramhall’s flight to France. In the immediate aftermath of the battle, Bramhall, together with Newcastle and his brother Sir Charles Cavendish, boarded a ship at Scarborough which took them to Hamburg to begin an exile that would last, in Bramhall’s case, for nearly fourteen years. Bramhall made his way to Brussels, where he would stay with the British ambassador, Sir Henry de Vic for most of the next four years. Newcastle remained in Hamburg until April 1645 when he moved to Paris, and it was at Newcastle’s house in Paris that Bramhall would meet Hobbes for the first time, some time between April and July 1645.[^67] The occasion is represented in the two men’s writings as having something of the quality of a formal debate, staged at Newcastle’s request, an intellectual sparring match of sorts, but on a topic in which Newcastle and his brother were clearly interested. Newcastle’s interest in applying the new science to human psychology, and ultimately to politics, seems to date back to the mid-1630s.[^68] The Elements of Law, with its opening discussion of human psychology, clearly addresses the
 
 [^65]: Ibid., p. 33.
+
 [^66]: Ibid., p. 230, the quotation is from [[Proverbs 22#^22-28|Proverbs 22:28]].
+
 [^67]: A range suggested by the arrival of Newcastle in Paris and Hobbes’s departure for Rouen in July.
+
 [^68]: See Malcolm’s discussion in Aspects, pp. 134–9.
 
 *[p. 39]* ^pg52
@@ -268,7 +311,9 @@ The verbal exchange between the two men appears to have been polite but unsatisf
 Bramhall’s first discourse of liberty and necessity marks the beginning of a debate that would ultimately result in the very public feud between Hobbes and the bishop in the mid-1650s. It was also a debate in which the political and religious consequences of Hobbes’s necessitarianism featured prominently from the very beginning. Bramhall proposed to reject Hobbes’s account of necessity by presenting evidence from scripture and reason. The scriptural evidence drew attention to those passages in the Bible which seemed to presuppose the thought that God had created men with free will;[^70] it also drew attention to the dangerous consequences of denying man’s freedom. If Hobbes argued that all men were necessitated to what they do, then it followed that Adam was necessitated to commit those actions that brought about the Fall of man. The implication that Adam might not be responsible for his sin also brought into question the thought that men more generally could be judged for their sins.[^71] The same
 
 [^69]: Bramhall, Works, IV, p. 647. A flavour of this encounter might well be echoed in Hobbes’s letter to Waller in August, where Hobbes describes his various encounters with his antagonists during the period, CTH, I, p. 124.
+
 [^70]: V. Chappell, Hobbes and Bramhall on Liberty and Necessity (Cambridge, 1999), p. 3.
+
 [^71]: Ibid., p. 4.
 
 *[p. 40]* ^pg53
@@ -280,9 +325,13 @@ But this treatment of the issue of liberty was not the only piece that Bramhall 
 I did indeed intend to have answered those exceptions as finding them neither political nor theological, nor that he alleged any reasons by which they were to be justified. But shortly after, intending to write in English, and publish my thoughts concerning Civil Doctrine in that book which I entitled Leviathan, I thought his objections would by the clearness of my method fall off without an answer.[^76]
 
 [^72]: Ibid.
+
 [^73]: Ibid, p. 5.
+
 [^74]: Ibid., p. 15: ‘I had once resolved to answer my Lord Bishop’s objections to my book De Cive in the first place, as that which concerns me most, and afterwards to examine his discourse of liberty and necessity.’
+
 [^75]: Bramhall, Works, IV, p. 20.
+
 [^76]: Hobbes, EW, V, p. 26.
 
 *[p. 41]* ^pg54
@@ -294,7 +343,9 @@ Although we do not have Bramhall’s objections as they were originally formulat
 Bramhall’s objections in 1645 were undoubtedly put much more tactfully than they were in the Catching of Leviathan; the bishop himself recalled that he wrote about De Cive ‘with more respect than either he \[Hobbes\] or it deserved’.[^79] Nevetheless, the critique was severe enough to add up to sixty objections and to worry Hobbes. A glance at the attack on De Cive in the Catching of Leviathan soon reveals why this might have been. Although it is a common assumption that Hobbes’s theological heterodoxy only became an issue in Leviathan, it is clear that Bramhall, in common with De Cive’s continental readers, had problems with Hobbes’s theological position in De Cive from the start. Although prepared to acknowledge Hobbes’s discussion of God and his attributes, Bramhall was clearly struck by the way that Hobbes’s natural jurisprudence appeared to leave God out of the equation, replacing the divine obligation to natural law with
 
 [^77]: J. W. Daly noted that there was a close correspondence between Bramhall’s work of the 1640s and his critique of Hobbes in the 1650s which he ascribed to Bramhall’s theoretical consistency. He did not consider the possibility that the critique of Hobbes was produced during the 1640s: ‘John Bramhall and the Theoretical Problems of Royalist Moderation’, The Journal of British Studies 11: 1 (1971), pp. 26–44.
+
 [^78]: Two more features of the critique suggest that Bramhall was working from his earlier draft of objections; firstly Bramhall explicitly states that he is commenting upon the first edition of De Cive and secondly, if one adds up the number of political and theological passages discussed in the first two chapters, there are fifty-five. See Bramhall, Works, IV, p. 597.
+
 [^79]: Bramhall, Castigations of Mr. Hobbes his last animadversions in the case concerning liberty and universal necessity (1657), p. 448.
 
 *[p. 42]* ^pg55
@@ -304,10 +355,15 @@ discussion of pacts, surrenders and translations of power.[^80] Even more distur
 If Bramhall was pointing out Hobbes’s equivocation over atheism, it seems likely that the thirty of his sixty objections dealing with theology included comments upon Hobbes’s unusual views, even in De Cive. The Catching naturally assaults Hobbes’s idiosyncratic account of the Trinity and the nature of God in Leviathan, but the theology of the De Cive is also subjected to independent scrutiny, particularly Hobbes’s account of Christ’s government. For Hobbes in De Cive Christ’s kingdom was wholly otherworldly and would remain so until the day of judgement, something Bramhall regarded as a deposition of Christ from his ‘true kingly office’.[^84] One consequence of this that appalled Bramhall was the rejection of the notion that there could be such a thing as a universal church. Hobbes was determined in De Cive to redefine the idea of the church in such a way that it could never claim any independent spiritual jurisdiction. It became, in effect, the same thing as the political community, subject to the sovereign in all things.[^85] Although the temporal subordination of church to state was an Anglican commonplace, Hobbes’s collapsing of church and state in De Cive involved consequences that few Anglicans would have accepted. Bramhall notes that in De Cive Hobbes makes the word of the interpreter
 
 [^80]: Bramhall, Works, IV, p. 520.
+
 [^81]: Ibid., p. 521. Cf. Hobbes, On the Citizen, p. 187.
+
 [^82]: Bramhall, Works, IV, p. 522. Cf. Hobbes, On the Citizen, p. 164.
+
 [^83]: Ibid. See below, p. 57.
+
 [^84]: Ibid., 17.5, 6; Bramhall, Works, IV, p. 527.
+
 [^85]: Hobbes, On the Citizen, 17.21, 18.1.
 
 *[p. 43]* ^pg56
@@ -317,10 +373,15 @@ of scripture (the sovereign) the word of God.[^86] De Cive, of course, did allow
 When we move to the political dimensions of Bramhall’s theological objections to Hobbes, we can see some of the anxiety about the implications of Bramhall’s own absolutism, as it had been discussed in the Serpent-salve, coming to the fore. One of Bramhall’s major concerns about Hobbes’s theory was the extent to which it appeared to invert the usual relationship between civil law and divine or natural law. The paradoxes which particularly draw Bramhall’s attention are those suggesting that civil laws are the rules of good and evil,[^88] and that the concepts of just and unjust are simply products of command. Bramhall found himself in a difficult position here, because as the discussion of Serpent-salve demonstrated, he too was committed to the thought that divine or natural law should not serve as an excuse for political disobedience: ‘We acknowledge’, he writes in exactly the terms that he used in the Serpent-salve, ‘that though the laws or commands of a sovereign prince be erroneous, or unjust, or injurious, yet he is bound to acquiesce, and may not oppose or resist, otherwise than by prayers and tears, and at most by flight.’[^89] In doubtful cases it was true that the subject should presume that the sovereign and laws were in the right, but Hobbes’s version of thesis seemed to push this position into one more akin to Asiatic despotism.[^90] It was important to Bramhall to keep some idea of divine obligation which led him to restate the view, again developed in his answer to Parker, that ‘in plain and evident cases, which admit no doubt, it is always better to obey God than man.’[^91] The relentlessly secular absolutism of De Cive clearly worried Bramhall because of the proximity of its apparently godless theory of obligation to his own. As would so often be the case, Hobbes’s theory, with its uncompromisingly paradoxical
 
 [^86]: Bramhall, Works, IV, p. 532.
+
 [^87]: Hobbes, On the Citizen, 17.21
+
 [^88]: Ibid., 12.1.
+
 [^89]: Bramhall, Works, IV, p. 543.
+
 [^90]: Ibid., p. 542.
+
 [^91]: Ibid., pp. 543–4.
 
 *[p. 44]* ^pg57
@@ -334,8 +395,11 @@ Bramhall’s frequently repeated charge is that Hobbes introduces an abstract la
 The biggest danger that Bramhall identifies in Hobbes’s new scientia is the conditionality that made Henry Parker’s work so destructive of any form of political obligation. Bramhall is particularly scathing about Hobbes’s refusal to privilege oaths and promises, the glue binding the webs of authority. To say that oaths bind no more than naked covenants was for Bramhall to open the way to perpetual diffidence and distrust. In the context of international relations it ‘openeth a large gap to foreign war’.[^95] Possibly with Parker’s seditious absolutism in mind, Bramhall could also find subversive material in De Cive. Bramhall quotes 6.3 of De Cive in the Catching as his primary piece of evidence that Hobbes’s emphasis upon self-preservation could destroy sovereignty as well as sustain it. The worry about self-defence superseding all other duties, was, of
 
 [^92]: Ibid., p. 555.
+
 [^93]: Ibid., p. 550.
+
 [^94]: Ibid., p. 575.
+
 [^95]: Ibid., pp. 550–1.
 
 *[p. 45]* ^pg58
@@ -345,6 +409,7 @@ course, a major concern about Parker’s appeal to the charter of nature. Bramha
 The concerns of the mid-1640s are also evident when Bramhall examines the last sections of chapter 7 of De Cive examining the conditions under which sovereignty is effectively relinquished. We have already seen Hyde querying those sections of the Elements of Law dealing with the same issue, but in the summer of 1645, one can imagine that Hobbes’s discussion of what constitutes the end of sovereignty would have been a topic of some importance for defeated Royalists. Hobbes had argued that subjects were released from obedience in four ways; if the monarch abdicates; if the commonwealth has fallen into the power of enemies and resistance is impossible; if there is no successor to the sovereign; or if the sovereign has exiled the subject. Bramhall’s objections make clear his distrust of Hobbes’s broad conditions; for example, did Hobbes mean that one was at liberty after the loss of a battle or a final conquest? Did this mean loss of de jure or de facto sovereignty?[^97] These were, according to Bramhall, questions upon which Hobbes was suspiciously silent, when to Bramhall it was clear that it would take more than conquest alone to extinguish a sovereign’s legitimate right. Although Bramhall had made his mind up about Hobbes’s disloyalty by 1658, it seems likely that he suspected those passages in 1645, and we shall see that other readers of De Cive felt exactly
 
 [^96]: See Bramhall, Castigations (1657), pp. 514–15 (cf. p. 270). Cf. Serpent-salve, p. 39.
+
 [^97]: Bramhall, Works, IV, pp. 557–8.
 
 *[p. 46]* ^pg59
@@ -358,6 +423,7 @@ Bramhall goes on to give a summary of the constitutional theory from the Serpent
 It is appropriate that Bramhall closes chapter 2 of The catching of Leviathan with the very same quotation of Proverbs that he had used to
 
 [^98]: Ibid., p. 564.
+
 [^99]: Hobbes, On the Citizen, 7.4n, pp. 93–4.
 
 *[p. 47]* ^pg60
@@ -371,8 +437,11 @@ Hobbes’s written reply to Bramhall’s first discourse had moved him to provid
 For Hobbes, God’s power alone justified his actions, and that meant that God could commit no sin, even though he could necessarily cause sin in Adam. Adam is punished not for his choice, but for his violation of God’s law. The same argument applied to Bramhall’s political objections. Individuals might well be necessitated to their criminal acts, but this does
 
 [^100]: Bramhall, Works, IV, p. 575.
+
 [^101]: Ibid., pp. 23–4.
+
 [^102]: Ibid., pp. 21, 24, 27. Hobbes’s awareness that such views might be dangerous if expressed openly lend weight to the thought that his public utterances do not necessarily represent his private views, a point that may be of some moment when considering the question of Hobbes’s atheism, for example.
+
 [^103]: Ibid., p. 22.
 
 *[p. 48]* ^pg61
@@ -384,9 +453,13 @@ Predictably this answer had done little to appease Bramhall and indeed it had pr
 Bramhall was fundamentally unable to come to terms with Hobbes’s theology, which demanded that God’s role as first cause could not be classified according to human categories of justice and injustice. Hobbes’s statement that God’s power made his actions just also raised the spectre of a divine tyrant unfettered by traditional understandings of good and evil. For a scholastic thinker like Bramhall, a crucial attribute of God was his essential justice. A recurrent problem within scholastic philosophy was the status of divine justice. If God were bound by laws, then this denied his omnipotence. If God’s power defined his justice, he was an arbitrary tyrant. Neither argument provided a satisfactory account of the character of God’s will or his perfections. Bramhall’s scholastic solution, adopted by many Anglican clergymen in response to the problem, combined an account of God’s omnipotence with a theory of self-obligation. God was an absolute and omnipotent monarch who chose freely to will what was just, thus subjecting himself to the rules of justice.[^108] This was, of course, the same solution adopted by Bramhall in his political theory of sovereignty, where the sovereign was theoretically all-powerful but voluntarily self-limiting. Bramhall in turn was not slow to pick up on the parallels to be found between his opponent’s theology and his politics:
 
 [^104]: Ibid., p. 27.
+
 [^105]: Ibid., p. 57.
+
 [^106]: Ibid., p. 63.
+
 [^107]: Ibid., p. 72.
+
 [^108]: Ibid., p. 77.
 
 *[p. 49]* ^pg62
@@ -396,8 +469,11 @@ The same privilege which T. H. appropriates here to ‘power absolutely irresist
 Hobbes’s refusal to acknowledge the effective existence of divine justice also resulted in mistakes elsewhere in his politics, not least where his assumptions led him to conclude that law was not something that could be derived from divine justice, but from consent. For Bramhall this ignored the matrix of divine and human laws to which man was already obliged without his consent, not least those laws of God and nature which vested government in fathers of families.[^111] Hobbes’s ascending theory of authority simply constituted a series of mistakes. The juridical void that was Hobbes’s state of nature simply never existed: ‘. . . there never was any such time when mankind was without governors and laws and ‘‘societies’’.’[^112] Any anti-social lawlessness ‘was an abuse, and a degeneration from the nature of man, who is a political creature’.<sup>113</sup> God’s prior law meant that it was never lawful for private men to kill one another, and the right of self-defence is only a privilege granted by God for emergencies. The political implication of this last point is that the people could never grant the right of life and death to the sovereign, because they never had that general right to give away in the first place. Only God could grant such a power to sovereigns.
 
 [^109]: Ibid., p. 78.
+
 [^110]: Ibid.
+
 [^111]: Ibid., p. 90.
+
 [^112]: Ibid., p. 95.
 
 *[p. 50]* ^pg63
@@ -407,7 +483,9 @@ Bramhall’s discussion of Hobbes’s theology thus allowed him to open another 
 The debate with Bramhall, however politely it began, soon degenerated into abusive and hostile recrimination as the two men explored the political and theological roots of their differences. That said, other readers of De Cive, whatever their true feelings about Hobbes’s project, adopted a less confrontational approach. In the Clarendon manuscripts we are fortunate enough to have an extensive Latin commentary on passages extracted from the first edition of De Cive. The evidence strongly suggests that these notes were prepared by Edward Hyde, and addressed to Hobbes himself, although the fact that they remained unfinished suggests that they were never sent.[^116] By 1646 Hyde was in Jersey, reading and reflecting on the course of events that he would write about in his History. His studies included reflections upon political theorists such as Grotius, Machiavelli and Thucydides, and it would have been natural for Hyde to include the
 
 [^114]: Ibid., p. 130.
+
 [^115]: Ibid., p. 196.
+
 [^116]: See J. C. Hayward’s comments on the manuscript in ‘The mores of Great Tew’, esp. pp. 195ff. and, more accessibly, in his article ‘New Directions in Studies of the Falkland Circle’, Seventeenth Century 2 (1987) pp. 36–8, 43. The problem of attribution comes from the fact that the notes are not in Clarendon’s hand, but it is entirely possible that they are the work of an amanuensis. Clarendon’s handwriting is extremely hard to read, and the notes look like a fair copy. The extracts chosen, together with the commentary, correspond very closely to the concerns raised by Hyde in 1640 and later discussed by him in his important book on Leviathan, A brief view and survey, published in 1676.
 
 *[p. 51]* ^pg64
@@ -419,8 +497,11 @@ Even though the tone is generally, as J. C. Hayward has noted, one of constructi
 But if security is especially to be seen in natural law, then why should the same not apply in the case of civil law to the same extent as in nature? This is ordained for the same nature. Yet you are not, I hope, asserting that civil law is not binding in the external forum, when, owing to the violence of rebels and the power of wicked
 
 [^117]: The second edition had been printed in January, but Hobbes did not receive any copies of the run until 22 March. The only version of De Cive in Clarendon’s library is the 1642 edition. See Dzelzainis, ‘Edward Hyde and Thomas Hobbes’, p. 304 n.6, for a detailed discussion of the issue.
+
 [^118]: Copies of the early edition were usually given out on condition that the reader return comments; the notes may well represent Hyde’s contribution. This may also give us the reason why the notes weren’t completed. The second edition of De Cive was already in existence in the spring of 1647 complete with annotations responding to criticism.
+
 [^119]: MS Clarendon 126, f. 8r.
+
 [^120]: For example, where Hobbes rejects Aristotle’s claim that natural inequalities entitled some to rule, Hyde argues that some men could be naturally more talented at ruling than others. Ibid., f. 10r. Clarendon would deal with exactly the same objection in his Brief view and survey (1676), pp. 31–2 with a similar answer.
 
 *[p. 52]* ^pg65
@@ -432,8 +513,11 @@ This anxiety is a recurrent theme in Hyde’s notes. One of the central features
 In response to Hobbes, Hyde argued that ‘it is certain that we may be bound by a vow to the Divine Majesty, and that we are bound to him alone and not to his representatives . . . A votive agreement needs no mediator.’[^123] Considering the political dimension of the issue, Hyde comments that: Anyone may place himself under an obligation to himself, that is, may come to an agreement with himself, that unless he abides by these or those conditions, or unless he observes the civil laws, he will suffer some punishment or some fine, and although his subjects may not demand it, yet provided it occurs without any reduction of the supreme authority, he should demand it from himself with the same good faith as he does from others.[^124] Hobbes’s account of promises and oaths effectively dissolved the glue that was essential for any plausible account of constitutional royalism. Even
 
 [^121]: Ibid.
+
 [^122]: M. Dzelzainis ‘‘‘Undoubted Realities’’’.
+
 [^123]: MS Clarendon, 126, fo. 8v–9r.
+
 [^124]: Ibid., fo. 10v.
 
 *[p. 53]* ^pg66
@@ -443,7 +527,9 @@ worse, his emphasis upon self-preservation and security threatened to undermine 
 Hyde also comments on Hobbes’s religious ideas in Part 3 of De Cive, and although there are signs of some agreement between the two men on a few issues, serious differences are not far beneath the surface. A crucial difference is Hyde’s suspicion that Hobbes simply reduces religion to the observance demanded by the magistrate. In response to the Hobbesian suggestion that the commonwealth must be obeyed if it orders something with consequences insulting to God (for example, worshipping an image), Hyde counters that such an action is to be rejected immediately.[^127] Hobbes was clearly going too far in making faith subordinate to reason, and in turn making reason an alibi for state control. Hyde reiterated Augustine’s view that we believe in order to understand rather than understand in order to
 
 [^125]: Ollard, Clarendon and His Friends, pp. 115–16.
+
 [^126]: Clarendon MS 126, fo. 11r–v: Cf. Clarendon, Brief view and survey, pp. 93–5.
+
 [^127]: Hobbes, On the Citizen 15.18; Clarendon MS 126, fo. 16v.
 
 *[p. 54]* ^pg67
@@ -457,6 +543,7 @@ T H E S E C O N D E D I T I O N O F D E C I V E
 Up to 1647, the reception of Hobbes’s theory had been a largely private affair, but it had been marked by a good deal of hostility and criticism. The accusation of atheism had already been raised, as had the suspicion that
 
 [^128]: Hyde extracts sections of De Cive dealing with Christ’s authority (11.6, p. 129; 17.4, p. 206; 17.6, pp. 208–9), probably to make the suggestion that he would later make in the Brief view and survey, that they were inconsistent. Other extracts (from 11.6. p. 130 and 16.14, p. 207, quoted at Clarendon MS 126, fo. 13v and 16v respectively) are used by Hobbes to demonstrate a scriptural warrant for the sovereign’s power over the church. Hyde provides a remark on the last of these arguments in Brief view and survey, p. 241, which makes it clear that he has no time for Hobbes’s problematic readings of scripture.
+
 [^129]: Dzelzainis, ‘Edward Hyde and Thomas Hobbes’, pp. 317, 312 n.21.
 
 *[p. 55]* ^pg68
@@ -468,6 +555,7 @@ If the initial response to the first edition of De Cive acted as a deterrent to 
 The annotations offer a fascinating glimpse into the sort of criticism that the first edition encountered, or at least the criticism that Hobbes chose to take seriously. There are no quick or straightforwardly disingenuous fixes. There are some blunt and disturbing admissions: in response to the thought that his shocking emphasis on fear would discourage sociability rather than foster it, Hobbes replies that fear could drive men to negotiate or to war, but either way a commonwealth would result. In an
 
 [^130]: Robert Baillie, Letters and Journals, ed. D. Laing, 3 vols. (Edinburgh, 1841–2), II, p. 388; see also II, p. 395. Hobbes seems to have procured the post through the patronage of Henry Jermyn, a former associate of Newcastle and by the mid-1640s a dominant figure in the court of Henrietta Maria. See Sir Charles Cavendish’s comments to John Pell in John Pell (1611–1685) and his Correspondence with Sir Charles Cavendish, ed. N. Malcolm and J. Stedall (2004), p. 495.
+
 [^131]: Hobbes, On the Citizen, p. 15.
 
 *[p. 56]* ^pg69
@@ -487,8 +575,11 @@ divine obligation as well as a recognisable account of self-limitation. Hobbes a
 Hobbes treads carefully in the religious sections, but again his strategy appears to be to make concessions or frame explanations that work within the logic of his larger theory. Again there are some blunt admissions: Hobbes simply restates that God rules through his power (as opposed to his goodness). He also defends his position on atheism: ‘Many critics’, he writes ‘have taken me to task for classing atheism as imprudence not as injustice; in fact some have taken it prove that I have not shown myself a keen enough adversary of atheism.’[^135] Hobbes’s response to the criticism (which follows the charges as they are made by Bramhall) is to argue that atheists cannot, indeed, be charged with injustice; citing [[Psalms 014#^14-1|Psalm 14.1]] that ‘the fool hath said in his heart: there is no God’ Hobbes argues that God himself has classed the atheist among the imprudent. As such the atheist is the enemy of God and thus liable to punishment by God and by sovereigns.
 
 [^132]: Ibid., p. 83.
+
 [^133]: Ibid., p. 94.
+
 [^134]: Ibid., 6.15.
+
 [^135]: Ibid., p. 164 (14.19).
 
 *[p. 58]* ^pg71
@@ -498,7 +589,9 @@ Hobbes is superficially more accommodating when he comes to reconsider his contr
 Although Hobbes’s reformulations here drew him a lot closer to positions that could be defended by Anglicans, we should be careful not to assume that the annotations were necessarily designed to make his theory unproblematically and conventionally Anglican. Some commentators have drawn attention to small textual changes which appeared to offer a more significant role for bishops.[^137] At the same time, however, other annotations made clear his continued suspicion of the case made by Anglican bishops about their spiritual authority. In the annotation to 6.11 Hobbes adds to his list of subversive doctrines the various sorts of religious ideas grounding claims to obedience to men other than the sovereign: I do not conceal that this applies to the authority in foreign countries which many attribute to the Head of the Roman Church, and also to the power which bishops elsewhere, outside the Roman Church, demand for themselves in their own commonwealth, and finally to the liberty which even the lowest citizens claim for themselves on the pretext of religion.[^138] Hobbes unmistakably had Anglican iure divino defences of bishops in his sights and the charge that their position was subversive would be duly noted by the Anglican defenders of episcopacy. Rather than tweaking his position to accommodate conventional Anglican arguments, it might be better to suggest that Hobbes’s amendments at best allowed a case for
 
 [^136]: Ibid., pp. 240–1.
+
 [^137]: Ibid., p. 224.
+
 [^138]: Ibid., 6.11n., p. 81.
 
 *[p. 59]* ^pg72
@@ -510,6 +603,7 @@ Hobbes’s correspondence with Sorbie\`re over the publication of the book revea
 Perhaps to reassure Hobbes that things were not quite as bad as he had feared, Sorbie\`re wrote back to the philosopher that a sympathetic audience
 
 [^139]: Warrender, DCL, p. 297.
+
 [^140]: Ibid., p. 310, n.2.
 
 *[p. 60]* ^pg73
@@ -519,7 +613,9 @@ awaited the publication of De Cive, citing a list of ‘excellent men and sound 
 It would take until March 1647 for Hobbes to see the first sheets of the finished book, rechristened simply De Cive (in accordance with his wishes), but what he saw there horrified him. Sorbie\`re had added an inscription to Hobbes’s portrait labelling the philosopher ‘Tutor to his serene Highness the Prince of Wales’.[^143] Hobbes immediately wrote to Sorbie\`re ordering him to take the portrait out of the copies remaining in stock. His stated reasons for doing this reveal the tensions surrounding his ideas and his reputation. Hobbes suggested first of all that the connection with the prince could be used by the authorities in England ‘to stir up popular ill feeling against the royal family’. When they saw the prince’s name associated with a theory ‘which offends the opinions of almost everyone’, his enemies would attack him, claiming that he is ‘now revealing what sort of sovereignty he expects, and intends to demand’. Hobbes clearly had few illusions about how his political theory was likely to be received, and how poorly his absolutism would fit into mainstream political debate, even if he
 
 [^141]: CTH, I, p. 130, nn.2–5.
+
 [^142]: What links many of the Dutch thinkers listed here is their general interest in natural philosophy, but also more particularly a certain amount of disillusion with the Cartesian project. Hobbes, along with Gassendi, appeared to offer new and very different systematic theories, and this may partly explain their collective enthusiasm for the Englishman’s new work. Although we can reconstruct some of the Dutch writers’ reactions to Hobbes’s political theory, we can be less certain about Boswell and Johnson. The former died in 1649, but there is a tantalising clue that Johnson may well have been impressed with Hobbes’s theory. We know from Hobbes’s correspondence that Hobbes knew Johnson: he wrote to Sorbie\`re that Johnson had promised to send him a work by Regius. CTH, I, p. 133. In August 1652, Hyde wrote to Sir Edward Nicholas that when he had last seen his ‘old friend Dr Johnson’ he had expressed ‘a great reverence for Mr Hobbs, and it seems is of his faith in all things’. Calendar of Clarendon State Papers, II, p. 142; CTH, I, pp. 129–30, n.2.
+
 [^143]: Thom. Hobbes Nobilis Anglus Ser. Principi Walliae a Studiis praep.\[ositus\].
 
 *[p. 61]* ^pg74
@@ -545,8 +641,11 @@ As we have seen, Hobbes’s amendments at best left room for an Anglican argumen
 That this Hobbesian account was less than attractive is suggested by what we know of the second edition’s reception amongst Anglican clergy-men. John Cosin is an interesting example of an early reader who perhaps had fewer reasons than most to suspect Hobbes of heterodoxy. Cosin ministered to the exile community in Paris, and to Hobbes, when he suffered his near-fatal illness in 1647. The story goes that Cosin offered to pray with, and administer communion to, the stricken philosopher. Hobbes apparently agreed, provided that the English prayer book were used. Hobbes himself later used the anecdote as a rejoinder to accusations of atheism, referring his accusers to Cosin.[^147] This connection makes Cosin’s annotations to his copy of the second edition, now in the Palace Green Library in Durham, particularly interesting.[^148] Cosin read through the new preface and Part 3, dealing with religion, marking points that he approved with a trefoil and those of which he disapproved with crosses. In general it is clear that Cosin approved of the Royalist sentiments that characterised Hobbes’s new preface, particularly his indictment of the false opinions that had led men to revolt against their sovereigns. But Cosin wasn’t happy with Hobbes’s occasional equivocations over the status
 
 [^145]: CTH, I, p. 161.
+
 [^146]: One sign of this was that when Hobbes’s translation of Thucydides was reissued in London in 1648 the title page referred to the fact that the translator was ‘Thomas Hobbes the author of the booke De Cive’.
+
 [^147]: Hobbes, EW, VII, pp. 4–6.
+
 [^148]: Palace Green Library Shelfmark Cosin T.5.57. For discussion of Cosin’s library and his copy of De Cive see A. I. Doyle, ‘John Cosin (1595–1672) as a Library Maker’, Book Collector 40: 3 (1991),
 
 *[p. 63]* ^pg76
@@ -558,12 +657,19 @@ Cosin then appears to have turned straight to the section on religion, thereby m
 A similar reaction can be found in the first published response to De Cive in English, a hitherto unnoticed section of Henry Hammond’s Of the
 
 [^149]: Hobbes, On the Citizen, Preface, p. 14. I have referred to the modern translation for ease of reference.
+
 [^150]: Ibid., 15.15, especially p. 181 where the instruction for ‘public uniformity’ receives a double trefoil.
+
 [^151]: Ibid., 15.5–6, pp. 174–5.
+
 [^152]: Ibid., 15.17, p. 183.
+
 [^153]: Ibid., 15.18, pp. 184–5.
+
 [^154]: Ibid., 17.24, p. 223.
+
 [^155]: Ibid., 18.6, pp. 239–40.
+
 [^156]: Ibid. 18.11, p. 244.
 
 *[p. 64]* ^pg77
@@ -571,8 +677,11 @@ A similar reaction can be found in the first published response to De Cive in En
 power of the keyes, published in September 1647.[^157] Hammond, who may have known Hobbes personally from his association with Great Tew, was at that point a Canon of Christ Church where he was friends with Hobbes’s scientific collaborator Robert Payne and Gilbert Sheldon. The power of the keyes was designed to promote a moderate episcopal religious settlement in a manner designed to appeal to Presbyterians, Independents and Erastians, but in the course of the argument, Hammond digresses to discuss the anonymous work of an unnamed author.[^158] The author is in fact Hobbes and the page references and quotations come from the newly published second edition of De Cive. Hammond of course realised that the Marsilian Hobbes had collapsed church and state into one entity, so that whenever Hobbes referred to the ‘church’ and its functions in De Cive he was, according to Hammond, referring to ‘the Church in that notion of his, ie. to the city or Common-wealth (which with him also signifies the civil magistrate, or as he saith, judicem summum, the supreme judge).’[^159] Hobbes’s redefinition of the church simply gave the power of excommunication, and every other function, to the sovereign. But having registered this and dismissed the scriptural exegesis that Hobbes had used to support his case, Hammond then, perhaps surprisingly, offers an olive branch ‘by way of compounding the Controversie with this Gentleman’.[^160] The olive branch consists of the acknowledgement that if the civil magistrate is a Christian, then he can be involved in the process of excommunication, specifically through the nomination of the ecclesiastical judge, the setting of procedural rules or laws and the right to bring cases. Hammond recognises that Hobbes seems to want more than this for the summum judex, but this is as far as he is prepared to go.<sup>161</sup> The real obstacle, suggests Hammond, is that Hobbes has got the wrong end of the stick about the clergy’s powers of binding and loosing. Anglican bishops don’t pretend to a power of saving and damning men; in fact what they do is what Hobbes says that they should do, merely persuade the sinner of the error of his ways and ‘much less to invade any part of the civil judicature, or loosen the bounds thereof by these spiritual pretences’. At this point Hammond brings up the ‘Annotation affixt to his last edition’ where Hobbes appeared to extend the charge of subversion to Anglican episcopalians: ‘I must hope’, he wrote carefully, ‘that it was a mistake, or which I rather think
 
 [^157]: Henry Hammond, Of the power of the keyes: or, of binding and loosing (1647). I would like to thank Sarah Mortimer for drawing my attention to these references.
+
 [^158]: Ibid., p. 80.
+
 [^159]: Hammond, Keyes, p. 81. Cf. Hobbes, On the Citizen, 17.21, p. 221.
+
 [^160]: Hammond, Keyes, p. 84.
 
 *[p. 65]* ^pg78
@@ -594,8 +703,11 @@ the right of the church in a Christian state, written some time after 1647 but o
 One of Thorndike’s biggest worries, and one usually thought to loom large only in Leviathan, was the power Hobbes apparently reserved to the sovereign to interpret scripture and controversies of faith. Hobbes had provocatively suggested that the word of the interpreter (the sovereign) was effectively the word of God in such cases.[^166] Thorndike exploits Hobbes’s own statements elsewhere to suggest that, on the contrary, the word of God can only be what has been revealed in scripture, latterly through Christ and the Apostles, and therefore is not subject to such arbitration. That all such interpretation defaulted to the magistrate in Hobbes left Thorndike with
 
 [^163]: For a recent discussion of Thorndike’s critique of Hobbes see J. Collins, The Allegiance of Thomas Hobbes (Oxford, 2005), pp. 245–55.
+
 [^164]: H. Thorndike, The Theological Works, ed. J. H. Parker, 6 vols. (Oxford, 1844–56), I, Pt ii, p. 711; cf. Hobbes, De Cive, 17.27.
+
 [^165]: Thorndike, Works, i. Pt ii, pp. 711–12.
+
 [^166]: Hobbes, De Cive, 17.17.
 
 *[p. 67]* ^pg80
@@ -609,8 +721,11 @@ On the basis of the church’s spiritual independence, Thorndike carves out a se
 Thorndike concludes his attack on Hobbes’s Erastianism by arguing that his credal minimalism does not do the job that he thinks it does.[^170] In reducing those essentials of faith for salvation to belief in Christ, Hobbes had hoped to limit them to non-sacramental beliefs. Sacraments such as baptism could then be redescribed as secondary matters of obedience,
 
 [^167]: Thorndike, Works, I, Pt ii, pp. 717–18. Thorndike fastens on a passage (17.28) often cited to demonstrate that Hobbes did leave a doctrinal role for the clergy. Here Hobbes comments that Christ promised doctrinal infallibility to the Apostles and their successors. Thorndike suggests that all that Hobbes is doing here is to point out that Christ failed his church, countering with the argument that no such infallibility was promised anyway. In fact the infallibility was a product of the chief pastor, the sovereign, as Hobbes went on to explain in his 1656 Questions Concerning Liberty, Necessity and Chance, EW, V, p. 269.
+
 [^168]: Thorndike, Works, I, Pt ii, p. 718.
+
 [^169]: Ibid., pp. 722–4.
+
 [^170]: Ibid., pp. 737–8.
 
 *[p. 68]* ^pg81
@@ -630,6 +745,7 @@ Hobbes was largely indifferent to the precise form of ecclesiastical government,
 Payne’s rather daring rewriting of Anglicanism shows just how far he was prepared to go to try to keep Hobbes within the Episcopalian fold. It isn’t clear how such arguments went down with the other Anglicans, but the presence of the letter in Sheldon’s correspondence indicates that he certainly knew about them. Throughout the period Payne kept Sheldon informed of the progress of the discussion;[^173] by February 1649/50, he wrote to Sheldon that the only sticking point was whether ‘there should be a power in a state independent of the supreme with right to execute the
 
 [^172]: There are a number of candidates for Hobbes’s antagonists: Cosin and Bramhall are high up the list.
+
 [^173]: Although it seems to have been Sheldon alone – Hammond didn’t know (‘Illustrations of the State of the Church during the Great Rebellion’ in The Theologian and Ecclesiastic, p. 92).
 
 *[p. 70]* ^pg83
@@ -639,6 +755,7 @@ acts thereof without leave from the Sovereign’.[^174] However, for all of Payn
 Payne doesn’t name names here but in March 1649/50 he had informed Sheldon of Hobbes’s remark that ‘he had lost the reward of his labours with the Pr\[ince\] by the sinister suggestions of some of the clergy as to their purpose.’ However conciliatory Payne was prepared to be, the exiled clergy had already taken action against Hobbes by spreading rumours about the way that the king’s mathematics tutor might have been abusing his position. Likely candidates here are Clarendon’s friends John Earles (who had been monitoring Hobbes’s activities as a tutor) and John Cosin. After Charles I’s execution, the exiled Episcopalians were increasingly marginalised at court, and thus unable to do as much to control Hobbes’s influence; their resort to rumour in order to get Hobbes sacked may have marked
 
 [^174]: ‘Illustrations’, p. 167. Payne summarises for Sheldon the thrust of his arguments, that bishops should be dependent on the civil power for the execution of all acts belonging to their independent power and that the ordination rite should include an acknowledgement of the sovereign’s authority.
+
 [^175]: ‘Illustrations’, p. 173.
 
 *[p. 71]* ^pg84
@@ -652,7 +769,9 @@ H O B B E S A N D P O L I T I C S 1648 – 1651
 If the publication of De Cive had begun to drive a wedge between Hobbes and his Anglican Royalist friends on the basis of his religious views, the reception of his work between 1648 and the appearance of Leviathan in the spring of 1651, eventually served to confirm the worst fears of those, like Bramhall and Clarendon, who had seen in Hobbes’s contract theory the potential for a dangerously conditional account of allegiance. It is,
 
 [^176]: P. Scot, A treatise of the schism of England. Wherein particularly Mr. Hales and Mr. Hobbs are modestly accosted (Amsterdam \[i.e. London\] 1650), p. 51.
+
 [^177]: Ibid., pp. 202–4.
+
 [^178]: Ibid., p. 213.
 
 *[p. 72]* ^pg85
@@ -662,7 +781,9 @@ however, important to stress that it was far from evident to other early readers
 The occasion for this debate was a pamphlet published by Hammond in mid-January 1649, which rehearsed the Royalist argument that once individuals had parted with their natural liberty they were indissolubly bound to obedience to a sovereign empowered by God with a right of life and death. In the wake of the regicide, Hammond’s claims were attacked by supporters of the new regime. In May a writer with the pseudonym Eutactus Philodemius[^181] published a pamphlet called The original and end of civil power, in which he rejected Hammond’s one-way account of rights transfer and defended the idea of popular sovereignty. Part of the discussion focused on property rights, considered by Eutactus to be natural
 
 [^179]: A. Ascham, A discourse, wherein is examined, what is particularly lawfull during the confusions and revolutions of government (1648).
+
 [^180]: Skinner, Visions, III, p. 278.
+
 [^181]: ‘Disciplined Friend of the People’. This is often supposed to be Ascham, and the Oxford theologian John Fell suggested that Hammond’s reply to Eutactus was a reply to Ascham, Hammond, Works, I, p. 9, but Richard Tuck points out that Eutactus appears to be far more republican in his sentiments than Ascham is in his published works. Tuck, Philosophy and Government, p. 257.
 
 *[p. 73]* ^pg86
@@ -672,8 +793,11 @@ rights that should not be violated by arbitrary authorities. Hobbes was accused 
 also be seen in another work of 1649, the second edition of Ascham’s Discourse, now retitled Of the confusions and revolutions of governments. Ascham had extended some of the arguments including those in Part II dealing with the natural state of man. It is clear that by this stage Ascham had read the second edition of De Cive and he was sufficiently taken with it to produce his own interpretation of Hobbes’s state of nature. In De Cive Hobbes had complicated his simple juridical model of the state of nature with an annotation to 1.10 suggesting that in fact men are always born under the authority of their fathers, thereby readmitting a vaguely patriarchal theory of authority. Ascham conflates the two models to produce a much more historicised account of a state of war between families.[^183] This version of the state of nature still requires an account of the development of political authority, and in line with his de facto theory, Ascham finds it useful to quote Hobbes’s theology in chapter 15. Just as Hobbes points out that God’s power is the basis of his dominion, so power in general is the basis of subjection: ‘So that Mr Hobbs his supposition (if there were two Omnipotents, neither would be obliged to obey the other) is very pertinent and conclusive to this subject.’[^184] Ascham also borrows from another section of De Cive, this time what seems to be the end of chapter 7, to confirm a technical distinction between the overrunning of a country and its proper conquest: the first, states Ascham, brings about no change in property or right whereas the second does change property and right ‘if (as Grotius and Mr Hobbes say) there be a dereliction of command in the person of whom we speak, or if the country be so subdu’d, that the Conquerours can no longer be resisted, and after the subjects have us’d all their endeavours to oppose such a new power.’[^185] Ascham here paraphrases two of Hobbes’s conditions for the end of obligation in 7.18, the very passages that caused Hyde and Bramhall so much concern. In citing
 
 [^182]: Eutactus Philodemius, The Original and End of Civil Power (1649), p. 15. Cf. Hobbes, On the Citizen, Dedicatory Epistle, pp. 5–6. Eutactus only appears to have read the dedicatory letter.
+
 [^183]: Hobbes, On the Citizen, 1.10.
+
 [^184]: Ascham, Of the confusions and revolutions of governments (1649), p. 108; cf. Hobbes On the Citizen, 15.7n, p. 175. Cf. 1.14 also. The section on pp. 107–8 follows On the Citizen, 15.5–7. See also A reply to a paper of Dr. Sandersons (1650), p. 12.
+
 [^185]: Ascham, Of the confusions, p. 119; cf. Hobbes, On the Citizen, 7.18
 
 *[p. 74]* ^pg87
@@ -685,6 +809,7 @@ H U M A N E N A T U R E A N D D E C O R P O R E P O L I T I C O
 By the end of 1649, Hobbes’s De Cive had become embroiled in domestic discussion about ecclesiology and dragged into the debates over the new regime. It was perhaps inevitable that this should create an interest in the publication of his work in English. Although Hobbes had plans to do this in Leviathan, others saw opportunities to satisfy the growing demand for accessible versions of his ideas through the unauthorised publication of the only English version of his work, The Elements of Law. In November 1648, Thomas Pakeman entered the title De Cive – or the elements of law naturall & pollitique by Thomas Hobbs in the Stationers’ Register, but the work never appeared. It isn’t clear whether this was an unauthorised translation or, as seems more likely, an attempt to package The Elements as a
 
 [^186]: Ascham, Of the confusions, p. 120.
+
 [^187]: Ibid., p. 121.
 
 *[p. 75]* ^pg88
@@ -694,7 +819,9 @@ translation of De Cive.[^188] In December 1649, however, the Oxford publisher Fr
 The back-story to this edition is provided by Payne. Writing to Sheldon towards the end of March 1650 Payne recommends that he might read ‘a little tract of human nature, printed lately by Fr. Bowman out of a MS copy of Mr Lockey’s, who persuaded Bowman to publish it as the second part of Mr Hobbes’ intended work.’[^189] Thomas Lockey, Bodley’s Librarian and a colleague of Payne’s at Christ Church, had apparently made a copy of the original manuscript that Payne had loaned to Sheldon in 1640. It isn’t clear exactly why Lockey chose this moment to publish the work, which seems to have been known in Oxford for the best part of a decade, but part of the reason may well have been Hobbes’s tardiness in publishing the rest of his promised system of philosophy. It is clear that however Hobbes’s scientific readership might have felt about De Cive, many were waiting with baited breath for the work of a philosopher who promised to be England’s answer to Descartes and Gassendi. This scientific context is suggested by the extended title which although it capitalises upon the growing notoriety of De Cive in matters of policy, nevertheless focuses upon the investigation of the ‘faculties, acts and passions of the soul of man’, a formula that echoes Descartes’s Les passions de l’ame (1649) and the subject matter of other works by de la Chambre and Senault, recently translated into English.[^190] The epistle to the reader draws attention to Hobbes’s new system of philosophy, which was based ‘upon such Principles and in such Order as are used by men conversant in Demonstration’, before going on to claim
 
 [^188]: H. Warrender, DCE, p. 14, n.3.
+
 [^189]: ‘Illustrations’, pp. 170–1.
+
 [^190]: Senault’s De l’Usage des passions (1641) appeared as The use of the passions in 1649, and de la Chambre’s Les characteres des passions (1640) was published as The characters of the passions in March 1650, shortly before the translation of Descartes’s work in May. Humane Nature clearly fits into this trend and may well have done much to fuel the interest in this literature. The extent to which a more general interest in the psychology and political implications of the passions may have created a fertile proto-Hobbism amongst readers before they were exposed to a work like Leviathan is suggested by Kevin Sharpe’s study of William Drake’s reading. See Reading Revolutions: The Politics of Reading in Early Modern England (Yale, 2000), see particularly the discussion on p. 211.
 
 *[p. 76]* ^pg89
@@ -704,8 +831,11 @@ The back-story to this edition is provided by Payne. Writing to Sheldon towards 
 Lockey had enlisted other members of Oxford’s scientific community in the production of the piece. Apart from Bowman’s name, the only other to appear in the text apart from Hobbes was that of Ralph Bathurst, who wrote the appended verses praising Hobbes and his work.[^192] A Fellow of Trinity College, Bathurst was particularly interested in medical science and chemistry, and had assisted the noted physician Thomas Willis during the 1640s. He attended the weekly scientific meetings in William Petty’s lodgings. Petty, of course, knew Hobbes well and provided a direct link to the philosopher in France.[^193] Another associate of Bathurst was Seth Ward, the Cambridge-educated mathematician recently intruded into the Savilian Chair of Astronomy at Oxford. Although the dedicatory epistle to the reader in Humane Nature is signed F. B. \[Francis Bowman\], Anthony Wood later suggested that Ward was the true author.[^194] That some of the leading lights of Oxford’s scientific community were involved in the production of Humane Nature tells us much about the esteem in which Hobbes was held as a scientific thinker. Their attitude towards Hobbes’s political and religious theory, however, is less clear. The dedicatory epistle to the work suggests that it should be considered alongside Hobbes’s political theory, and invites the reader ‘to consider the relations
 
 [^191]: ‘Illustrations’, p. 171.
+
 [^192]: John Glanvill produced a translation of Bathurst’s verses in his Poems: Consisting of originals and translations (1725), pp. 268–71.
+
 [^193]: CTH, II, pp. 787–9.
+
 [^194]: A. Wood, Athenae Oxoniensis, ed. P. Bliss, 4 vols. (1813–20), III, col. 1209. Kinch Hoekstra suggests that Seth Ward was the author of the epistle to De Corpore Politico, following Hobbes’s claim that he had been told this ‘for certain’ (EW, VII, p. 336). See K. Hoekstra, ‘The de facto Turn in Hobbes’s Political Philosophy’, in T. Sorrell and L. Foisneau (eds), Leviathan after 350 Years (Oxford, 2004), p. 33, n.2. It could be argued that Ward’s silence on this point in his response to Hobbes in the appendix to his Exercitatio constitutes a tacit admission of his authorship, but given the tentative nature of Hobbes’s charge (‘But whether you did so or not, I am not certain. If it were not you, it was some body else whose Judgement has as much weight at least as yours’) I am not sure that this constitutes particularly strong evidence one way or the other. The epistle’s slightly windy rhetoric doesn’t remind one of Ward’s prose style, even at its most polemical.
 
 *[p. 77]* ^pg90
@@ -725,8 +855,11 @@ position and making his argument available to the defenders of the new regime. I
 Republican writers were not slow to see the implications of Hobbes’s position as stated in the De Corpore Politico, not least the space that Hobbes appeared to leave for popular sovereignty.[^196] Just over a week after the book appeared, it was being used to undermine the Royalist cause, again as part of the ongoing pamphlet war surrounding Hammond’s Address. One pamphleteer made a note that Hobbes actually agreed with Eutactus that coercive power came from the people.[^197] Although the writer was clear that Hobbes’s political allegiance lay with the Royalists, he exploited the fact that the philosopher’s arguments could be used to support the new regime. The possibilities for using De Corpore Politico in this way so impressed the republican journalist Marchamont Nedham that in the second edition of The case of the Common-wealth of England stated, published in October 1650, he included an appendix listing extracts from the work. As he made clear in his preamble, his quotation of Hobbes alongside Salmasius came not because he felt that they were authoritative upon the matters stated, ‘but onely in regard of the great reputation allowed unto those Books by the two Parties, Presbyterian and Royall; And I suppose no man may triumph, or cry a victory, more honourably then my selfe, if I can foile our Adversaries with weapons of their own approbation.’[^198] It suited Nedham’s purpose to talk up the popularity of De Corpore Politico amongst the Royalists; but it seems unlikely that they were particularly pleased with Hobbes’s theory in this form, as the quotation from it suggested. The first passages Nedham chose predictably focused upon the central role of security in Hobbes’s theory.[^199] In both cases Nedham glossed the quotations emphasising that security was no otherwise to be had than from the current regime. In addition he quoted from sections that emphasised the
 
 [^196]: This included the unusual claim, later removed from De Cive and Leviathan, that democracy was the original form of all government (2.2). For discussion of the changes to this argument, see D. Baumgold, ‘The Composition of Hobbes’s Elements of Law’, History of Political Thought 25: 1 (2004), 16–43.
+
 [^197]: Anon., An Answer to the Vindication of Doctor Hamond against the exceptions of Eutactus Philodemius (1650), p. 16n: ‘Mr Hobbs, one of this Doctor’s party, though a man of dangerous, and unsound principles in other respects, yet in this agrees with EP That power of Coertion, of the Sword, and consequently of Life, is transferred from the People to the Magistrate. Hobs de corp polit par 2 c.1.’
+
 [^198]: M. Nedham, The case of the Common-wealth of England stated (1650), p. 103.
+
 [^199]: Ibid., pp. 108–11. Nedham first quotes from 1.19.11 and 2.20.5 where Hobbes makes clear that the reason for submission is protection.
 
 *[p. 79]* ^pg92
@@ -736,10 +869,15 @@ importance of unitary judicial authority for security.[^200] Inevitably, passage
 The damage being done to the Royalist cause by the appropriation of De Corpore Politico and the subversive readings of De Cive may well have encouraged supporters of the crown to try to promote a Royalist version of Hobbes’s theory. In early November 1650, the Stationer’s Company records show an entry by Richard Royston for a book titled The true citizen or the Elements of Philosophy. Royston was the leading Royalist publisher; he had published the Eikon Basilike in 1649 and all of Hammond’s polemical works in the later 1640s. The book finally appeared in March 1651 under the full title: Philosophicall rudiments concerning government and society. Or, A dissertation concerning man in his severall habitudes and respects, as the member of a society, first secular, and then sacred. This was the first English translation of the second edition of De Cive,[^205] and to allay any concerns about the character of the argument the publisher had gone to some lengths to identify it as a Royalist tract. This is most obvious is the inclusion of the engravings which precede the three sections of the work. The plates came from Wenceslaus Hollar’s
 
 [^200]: De Corpore Politico 2.20, 8, 9, 10.
+
 [^201]: Ibid., 2.22.2, 2.21.15.
+
 [^202]: Ibid., 2.25.11, 12.
+
 [^203]: Mercurius Politicus 31 (2–9 January 1650/1): 503, prints the extracts from De Corpore Politico 1.19.11; Mercurius Politicus 32 (9–16 January 1650/1): 519, prints the extracts from 2.20.5; Mercurius Politicus 33 (16–23 January): 535–6, prints the extracts from 2.20.8; Mercurius Politicus 34 (23–30 January): 551–2, prints the extracts from 2.25.11, 12 and 2.22.2, 2.21.15.
+
 [^204]: J. Hall, The grounds and reasons of monarchy considered (Edinburgh, 1650), pp. 49–50. Cf. Hobbes, On the Citizen, p. 14.
+
 [^205]: The text clearly follows the 1647 edition of De Cive. The verses by Bruno and the portrait that appeared on the first version of the 1647 edition are missing. The title-page engraving also reproduces the 1647 iconography.
 
 *[p. 80]* ^pg93
@@ -749,9 +887,13 @@ Emblemata nova, a collection of allegorical emblems, in this case illustrating s
 The translation itself had probably been around for a while. As Noel Malcolm has demonstrated, it had been made by the 20-year-old poet Charles Cotton, who came from a Derbyshire-based Royalist family.[^208] Cotton’s interest in Hobbes may have been stimulated by his tutor, an ejected Royalist don from Oxford named Ralph Rawson, who joined the Cotton family at Beresford Hall in 1648, possibly bringing with him a manuscript copy of The Elements of Law. Rawson was a friend of Sheldon, who was also staying with a gentry family nearby after his release from prison during the same period. It seems likely that Sheldon knew of Cotton’s activities and had told Payne about them, hence Payne’s mistaking the De Corpore Politico for the expected translation of De Cive. Cotton’s dedicatory letter to Lady Ann Fane gives a few clues as to his interest in Hobbes, and also to his awareness of the controversial nature of the text. Hobbes is a man ‘well practis’d in the Lawes of Nature’ and ‘eminent in their speculation’, who ‘hath transcended all that have gone before him’ although Cotton also notes the opposition Hobbes’s views had attracted. From the ‘contradictions’ that Hobbes himself has met, Cotton surmises that ‘he will the more easily guesse at the severall brunts and conflicts his weaker, yet constant Admirers have undergone from obstinate and self-opinion’d men.’[^209] It isn’t clear whether Cotton is referring to himself here, but the intention seems to be to flag up the daring of his translation of this bold new theory. Cotton comments that he found Hobbes’s doctrine on taxation difficult to understand,[^210] but the fact that this was the only difficulty he thought worth mentioning suggests that, unlike many contemporary readers, he had been convinced by Hobbes’s arguments. That said, Cotton’s enthusiasm has a touch of teenage hubris about it; Hobbes’s
 
 [^206]: See M. Goldsmith, ‘Hobbes’s Ambiguous Politics’, History of Political Thought 11 (1990), pp. 639–73; Malcolm, Aspects, pp. 236–7.
+
 [^207]: Ibid.
+
 [^208]: Ibid., pp. 234–58.
+
 [^209]: Warrender DCE, Appendix A, p. 269.
+
 [^210]: Ibid., p. 271, cf. De Cive, 13.11.
 
 *[p. 81]* ^pg94
@@ -773,7 +915,9 @@ reading audience by Humane Nature, a text that confirmed Hobbes as a thinker of 
 Davenant’s colourful career in the 1640s had seen him serve with Newcastle’s army and engaged in gun-running for the Royalist cause. In the later 1640s he was based in the Louvre court, effectively working for Henry Jermyn. The context for Davenant’s experimental epic appears to have been the Newcastle circle’s ongoing interest in the psychological basis of social order. Davenant’s particular interest was in exploring the role of rhetoric and poetry as a means of social control. He argued in his preface to Gondibert that the traditional aids of government (religion, arms, policy and law) had been defectively applied. Attempts to impose authority upon bodies had failed; Davenant suggested that a better approach was use to powers of persuasion to shape men’s minds, and crucial to carrying this out were poets, ‘whose operations are as resistlesse, secret, easy, and subtle, as is the influence of Planetts’. Gondibert would be the prototype for this new civic drama, a heroic poem designed for the moral improvement of the aristocratic elite.[^214] Part of Davenant’s manifesto for the new project was an ostentatious rejection of classical tradition, eschewing the supernatural and the fantastic for a naturalistic and therefore more persuasive mode of moral instruction. Davenant himself acknowledged Hobbes’s involvement with the new poem in his preface: Hobbes had done him the honour of a ‘daylie examination as it was writing’. That said, although Davenant shared Hobbes’s naturalism, it is far from clear that Davenant was simply Hobbes’s disciple. Hobbes’s ‘Answer’ to Davenant’s ‘Preface’ reveals the complications of the relationship between the poet and the philosopher. Although Hobbes approves of Davenant’s engagement with nature, there is a tension about the role that Davenant seeks to create for poets. Whereas
 
 [^212]: W. Charleton, Deliramenta catarrhi (1650), Sig A1v.
+
 [^213]: Mercurius Politicus 29, 19–26 December 1650, p. 486.
+
 [^214]: Davenant would develop the more popular use of dramatic entertainments later in the 1650s, see J. R. Jacob and T. Raylor, ‘Opera and Obedience: Thomas Hobbes and ‘‘A proposition for Advancement of moralitie’’ by William Davenant’, Seventeenth-century Studies 61 (1991),
 
 *[p. 83]* ^pg96
@@ -785,10 +929,15 @@ Gondibert ultimately came in for a certain amount of ridicule from the literary 
 That de Cive and de Homine \[Humane Nature\] I think may serve men to chew upon a while. His aime to demonstrate the nature of man and of human actions as distinctly as the mathematicians have don that of quantity in geometricall figures is the highest reach of man’s witt. I find he digs very deepe (as he had need) to lay his foundation; however he fares among philosophers, the divines and civilians being sure to question his superstructure for their severall faculties.[^220]
 
 [^215]: W. Davenant, Gondibert, ed. F. Gladish (Oxford, 1971), p. 50.
+
 [^216]: For this concern see P. Davis, ‘Thomas Hobbes’s Translations of Homer: Epic and Anticlericalism in Late Seventeenth-century England’, Seventeenth Century 12: 2 (1997), pp. 231–55.
+
 [^217]: Davenant, Gondibert, p. 54.
+
 [^218]: For this possibility see Skinner, Reason and Rhetoric, pp. 332–3, 430–1; T. H. Miller, ‘The Uniqueness of Leviathan’, in Sorrell and Foisneau (eds.), Leviathan after 350 Years, pp. 75–104, esp. pp. 81–9.
+
 [^219]: J. Denham, Certain verses written by severall of the authors friends (1653), p. 9; R. Wild, The incomparable poem Gondibert vindicated from the wit-combats of four esquires (1655), pp. 6, 14, 24–5.
+
 [^220]: The Correspondence of Bishop Brian Duppa and Sir Justinian Isham 1650–1660, ed. G. Isham, Northamptonshire Record Society xvii (1951), p. 34.
 
 *[p. 84]* ^pg97

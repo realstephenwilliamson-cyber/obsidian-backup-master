@@ -69,117 +69,231 @@ Now it is clear why charity is referred to as an “act,” as it is written: �
 And, analogously speaking, though not to be compared in the least, just as a human being speaks only to others ([^114]and not when he is alone), and then [when speaking to them] he contracts his intellect and thought.[^115] And the intelligent will understand.
 
 [^1]: [[II Samuel 08#^8-13|II Samuel 8:13]].
+
 [^2]: Ibid., 15.
+
 [^3]: *Zohar* [[Zohar 8.06 - Parashat Be-Huqqotai#^z3-113a|III:113a]], b.
+
 [^4]: [[Isaiah 26#^26-4|Isaiah 26:4]].
+
 [^5]: These two letters combined form a name of G–d, reading: “For in G–d, the L–rd….”
+
 [^6]: *Tosafot* on *Berachot* [[Berakhot 51#51a|51a]] (s.v. *Zocheh*) enlightens this interpretation by quoting a version which does not appear in our text of the Talmud: “do not read *tzur* (rock), but *tzar* (formed, designed).” This version does appear in the *Zohar* [[Zohar 4.04 - Parashat Va-Era#^z2-22b|II:22b]], though emending *tzur* to *tzayar* (former, designer), an emendation that appears elsewhere in the Talmud (relating to other verses), e.g., *Berachot* [[Berakhot 10#10a|10a]], etc.
+
 [^7]: The letter *hey* (second letter of *Yud-hey*).
+
 [^8]: The letter *yud* (first letter of *Yud-hey*).
+
 [^9]: *Menachot* [[Menachot 29#29b|29b]]; *Midrashim* on [[Torah 01 - Bereshit#^2-4|Genesis 2:4]].
+
 [^10]: See above, Epistle 1, note 21.
+
 [^11]: Cf. *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-129b|I:129b]] and [[Zohar 10.08 - Parashat Toledot#^z1-135b|135b]].
+
 [^12]: *Zohar* [[Zohar 2.158a|II:158a]]; *Zohar Chadash* 93a (beg. of *Tikkunim Chadashim*). See below, Epistle 29.
+
 [^13]: *Chochmah* is the first, and as such the source of all succeeding *sefirot*. *Binah* is merely the elucidation and expansion of *chochmah*; the comprehensive knowledge following upon the conceptual wisdom of *chochmah*. Thus, *binah* is referred to as “understanding (or: deriving) one thing out of another” (i.e., out of *chochmah*, the original concept). See Addendum, *Mystical Concepts in Chassidism*, s.v. *Chochmah-Binah*.
+
 [^14]: Consciousness, and thus comprehension, is still concealed.
+
 [^15]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-6a|I:6a]]; *Tikkunei Zohar*, Introduction 12b; *et passim*. Cf. also *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-15a|I:15a]] ff. “Dot”—*chochmah*; “palace”—*binah*; see Addendum, ibid.
+
 [^16]: I.e., a simple, nondimensional point.—The four letters of the Ineffable Name—Y-H-V-H, pronounced in conversation *Havaya*—signify the ten *sefirot*: *Yud*—*chochmah*; (the first) *Hey*—*binah*; *Vav*—*tiferet*, or/and the totality of the six attributes (*chesed* to *yesod*); (the latter) *Hey*—*malchut*. (The thorn of the letter *yud* signifies *keter*, which precedes *chochmah* and is often counted as one of the ten *sefirot* instead of *daat*; see Addendum, ibid.) Cf. *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-17a|III:17a]], 258a; *et passim*. See *Iggeret Hateshuvah*, ch. 4.
+
 [^17]: *Zohar* [[Zohar 9.15 - Idra Zuta#^z3-290a|III:290a]]; see also *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-90a|II:90a]].—*Eden* (*chochmah*) is to be distinguished from *olam haba* (*binah*).
+
 [^18]: [[Isaiah 64#^64-3|Isaiah 64:3]].
+
 [^19]: See *Berachot* [[Berakhot 34#34b|34b]]; *Tikkunei Zohar*, Introduction 12a.
+
 [^20]: *Chochmah*.
+
 [^21]: *Malchut*.
+
 [^22]: *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-248a|III:248a]], 256b, and 258a (commenting on [[Proverbs 03#^3-19|Proverbs 3:19]]). See Nachmanides on [[Torah 01 - Bereshit#^1-1|Genesis 1:1]]: “The word *Bereishit* alludes that the universe was created by the ten *sefirot*, and indicates the *sefirah* which is called *chochmah* (see below, notes 80-82)*—in which is the foundation of everything*, as it is said: “The L–rd in *chochmah* founded the earth.’” Everything thus is founded in *chochmah*, but the most immediate “agent” to the egression of the universe into substantiality and manifestation is the last *sefirah*—*malchut* (which, of course, ultimately originates in *chochmah*); cf. below, Epistle 8, note 44; Epistle 20; and *Likkutei Amarim*, Part I, ch. 52. The earth, therefore, signifies *malchut*, and likewise does “*the word of the L–rd*,” the letters of speech (the Ten Fiats) wherewith the world was created. See Addendum, *Mystical Concepts in Chassidism*. This is “*abba* founded *barta*.” The author proceeds now to elaborate on this theme.
+
 [^23]: Larynx, palate, tongue, teeth, and lips.—See *Sefer Yetzirah* 2:3; cf. *Zohar* III:227b, 228a, [[Zohar 9.15 - Idra Zuta#^z3-295b|295b]]; *Tikkunei Zohar* 70 (132a); *et passim*.
+
 [^24]: פ-מ-ו-ב.
+
 [^25]: The Hebrew terms for these vowels *(komatz* and *patach*) imply these very actions of the lips.
+
 [^26]: The following passage by the author’s grandson and disciple, R. Menachem Mendel of Lubavitch, will illuminate the above: “With respect to the formation (i.e., coming into being) of the letters of thought and speech, we see that they are born and issue from the (emotive) attributes that are in the heart; for from the heart (a desire) ascends to the mind to meditate and think with respect to the desire and passion that are in one’s heart, or with respect to the fear and fright (that are in one’s heart), and as explained in *Likkutei Amarim*, Part I, end of ch. 20. And from this it issues, afterward, in the letters of speech: to speak of that matter. On the other hand, one does not think or speak at all pertaining to something to which one has no wish and will in his heart. Conclusively we see that speech is subject to the emotive attributes, for it flows and issues from there. “In fact, however, we see also a contradiction to this, viz., that the formation of speech, and its root, is not only from the emotive attributes alone. Rather, its root is of a higher (source), namely—issuing from the very intellect in the articulate soul, and as empirically evident that a suckling child is unable to speak, even though it possesses emotions; moreover, its emotive attributes are stronger than those of an adult, for when it has a desire there is no stopping whatsoever of its spirit, and it screams and becomes angry. Nevertheless, the child cannot articulate what is in its heart, but merely screams and cries with a simple voice (nonintelligible sound). Hence we see that the root of the formation of speech is not from the emotive attributes only, not even from the apprehended intellect—for the child understands everything and is yet unable to speak. Rather, it issues and is formed from the concealed intellect and the primordium of the intellect in the articulate soul (and as explained in *Iggeret Hakodesh*, Epistle 5). “And this is the meaning of ‘*abba* founded *barta*.’ For from *abba—*the essence of the Supreme *chochmah*, which transcends *binah* and the apprehended intellect—is the root of speech, which is the aspect of *malchut* of *Atzilut*, referred to as *barta*…” “In fact, the formation of the nature of the letters as they are in speech originates only in the emotive attributes. But, nevertheless, it is by means of a radiation of *chochmah—*which issues into the attributes; and without the radiation from *chochmah* into the attributes, the letters would not come into being from the attributes…” “Accordingly, it is understood that though the foundation of the letters is (ultimately) only from the rank of *chochmah*, nevertheless, the letters are not born and do not issue from *chochmah*, except when it passes and issues by way of the attributes.” (*Or Hatorah*, *Shemot*, vol. 1, p. 40.) See also *Likkutei Amarim*, Part II, ch. 8 and *Biurei Hazohar*, *Beshalach* 44d.
+
 [^27]: See *Or Hatorah*, *Bereishit*, vol. 2, 445b; cf. *Iggeret Hateshuvah*, ch. 4.
+
 [^28]: See *Tikkunei Zohar* 22 (63b).
+
 [^29]: The letters follow this order in all the texts (see above, note 23, and also *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-80a|I:80a]]; [[Zohar 5.04 - Sava de-Mishpatim#^z2-123a|II:123a]]; *Tikkunei Zohar* 13b; etc.) with the *hey* following upon the *chet*, even though it comes first in the order of the alphabet. In *Zohar* [[Zohar 5.04 - Sava de-Mishpatim#^z2-123a|II:123a]] and [[Zohar 9.15 - Idra Zuta#^z3-295b|III:295b]] this particular sequence is interpreted to follow a distinct pattern, see there. Cf. also H. V. on this passage.
+
 [^30]: [30]“The light letter, to which there is no substance”; *Piyut Akdamut*, verse 6. The letter *hey* is called the light letter or the “easy letter,” because (being a mere aspirate) “its pronunciation does not demand any effort” (*Bereishit Rabbah* 12:10), and, thus, involves less of the breath than all other letters.
+
 [^31]: *Barta-malchut*.
+
 [^32]: *Malchut*. Cf. *Tikkunei Zohar* 22 (63b), and above, note 16.
+
 [^33]: This name of G–d forms the first half of *Havaya*, thus, the *hey* wherewith this world was created would appear to be the first, the “upper” *hey*.
+
 [^34]: The first letter, *chochmah*.
+
 [^35]: The second letter (the first, or upper *hey*), *binah*.
+
 [^36]: Cf. *Tikkunei Zohar* 22 (63b), and see *Iggeret Hateshuvah*, ch. 4.
+
 [^37]: The *yud*, *chochmah*.
+
 [^38]: Implementing the *chochmah* expanded by *binah* (see Addendum, *Mystical Concepts in Chassidism*; cf. *Likkutei Amarim*, Part I, ch. 3; below, Epistle 15).
+
 [^39]: Introduction [[Tikkunei Zohar 017a|17a]]; cf. ibid., 22 (63b).
+
 [^40]: See Addendum, ibid., for an explanation of all these terms and concepts.
+
 [^41]: See *Tikkunei Zohar* 22 (63b).
+
 [^42]: The fourth letter (of *Havaya*), *malchut*.
+
 [^43]: *Malchut*. Cf. *Iggeret Hateshuvah*, ch. 4.
+
 [^44]: Par. Psalms 143:13.
+
 [^45]: [[Psalms 033#^33-6|Psalms 33:6]]—the “Word of G–d” (*malchut*; see Addendum, ibid.) by which the universe was created; see below (esp. notes 75 ff.).
+
 [^46]: [[Ecclesiastes 08#^8-4|Ecclesiastes 8:4]].
+
 [^47]: *Iggeret Hateshuvah*, ch. 4.
+
 [^48]: Brackets appear in the text.
+
 [^49]: Brackets appear in the text.
+
 [^50]: Shrines, palaces. Worlds, shrines, hosts, etc., all refer to the different levels of the Divine emanations that are brought about by means of *tzimtzum*. Cf. Addendum, ibid.
+
 [^51]: [[Job 25#^25-3|Job 25:3]].
+
 [^52]: See [[Daniel 07#^7-10|Daniel 7:10]]; cf. *Chagigah* [[Chagigah 13#13b|13b]] and *Likkutei Amarim*, Part I, ch. 46.
+
 [^53]: Scripture uses these five terms for the soul. (See *Bereishit Rabbah* 14:9; *Devarim Rabbah* 2:37.) They are not synonyms, but every term denotes a different gradation of soul. *Nefesh*, the lowest grade, is the natural soul, the simple life of man. *Ruach*, the next grade, is the spiritual life of man. *Neshamah*, still higher, is the soul proper, the Divine soul. Still higher grades are *chaya* (living) and *yechidah* (single, or unique). Generally we speak only of the lower three grades (*nefesh*, *ruach*, and *neshamah*), sometimes of *chaya*, and hardly ever of *yechidah*. This will be understood by the analogy to the five worlds, the ten *sefirot* (and the letters of *Havaya*), to which these five grades correspond. *Yechidah* corresponds to *Adam Kadmon*, the *sefirah* of *keter* (the thorn of the *yud*). It is the actual Divine spark, thus totally concealed and hidden. *Chaya* corresponds to *Atzilut*, the *sefirah* of *chochmah* (the *yud*), thus the beginning of Divine manifestation and source of all subsequent levels, though itself inapprehensible. It is the “soul” of all subsequent levels and, therefore, called *neshamah l’neshamah (neshamah* of the *neshamah*). Just as in the creative process concrete and apprehensible manifestation begins at the level of *Beriah*, and we speak mainly of the lower three worlds, so, too, it is with the gradations of the soul. *Neshamah* corresponds to *Beriah*, the *sefirah* of *binah* (in which the point of *chochmah* is vested, expanded, and first apprehended; the upper *hey*). *Ruach* corresponds to *Yetzirah*, *and* the *middot* (the attributes of *chesed* of *yesod*; the letter *vav*). *Nefesh* corresponds to *Asiyah*, the *sefirah* of *malchut* (the latter *hey*). More specifically, in man, the *neshamah* denotes the soul’s intellect-powers; *ruach*, the soul’s emotion-powers; *nefesh*, the soul’s outer manifestations or garments, viz., the faculties of thought, speech, and action. (See *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-79b|I:79b]] ff.; ibid., [[Zohar 3.07 - Parashat Va-Yhi#^z1-245a|245a]]; *Zohar Chadash* 34b and 78c; *Etz Chaim* 42:1; *Torah Or*, *Miketz* 42b; cf. also below, Epistle 27b.) The higher ranks of the soul are conceived as latently present in man’s *nefesh*, just as the higher worlds and *sefirot* are latently present in the lower ones (by means of successive *tzimtzum*). By the observance of Torah and *mitzvot*, i.e., by the service of G–d as behooves, man merits to attain these higher ranks in ever increasing manifestation. (See *Zohar* [[Zohar 3.06 - Parashat Va-Yiggash#^z1-206a|I:206a]]; ibid., [[Zohar 5.03 - Parashat Mishpatim#^z2-94b|II:94b]]; *Biurei Hazohar*, *Vayigash* 26c ff.) The different gradations in the soul thus denote different levels. These levels are prevalent within the various worlds as well, for “they all are in the likeness of man.” (See R. Chaim Vital, *Mevo She’arim*, 6 beg. of Part II; *Etz Chaim* 6:2; *et passim*.)
+
 [^54]: Cf. *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-159a|I:159a]]; *Tikkunei Zohar*, Introduction 14b; etc.
+
 [^55]: See *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-151b|II:151b]]-152a; cf. *Berachot* [[Berakhot 55#55a|55a]] and comment of Rashi, ad loc. (s.v. *Otiyot*; also, *Rashi* on [[Job 28#^28-23|Job 28:23]].
+
 [^56]: See above, note 45.
+
 [^57]: *Sefer Yetzirah* 4:12.
+
 [^58]: “Seven stones (= letters) build 3040 houses (= words).” Using the formula of factorial (3 letters: 3x2x1 words; 4 letters: 4x3x2x1 words; 5 letters: 5x4x3x2x1 words; etc.), the immense multitude of possible words is easily grasped. See the commentary attributed to R. Abraham ibn Daud (on this passage) for the phraseology of “stones” and “houses.”
+
 [^59]: By the rules of substitution *alef* (first letter) can be substituted by *tav* (last letter), *bet* (second letter) by *shin* (second-last letter), etc. See *Shabbat* [[Shabbat 104#104a|104a]] and the comment by *Maharsha*, ad loc. Cf. *Shomer Emunim* 1:20-23.
+
 [^60]: There are also other schemes of substitution, e.g., of equally sounding letters; letters that have the same source of articulation; letters with certain numerical relationships; etc.
+
 [^61]: Brackets appear in the text.
+
 [^62]: Of *Likkutei Amarim*, Part II.
+
 [^63]: I.e., too finite and limited.
+
 [^64]: *Havalim*, in Hebrew (conventionally translated: vanities).
+
 [^65]: [[Ecclesiastes 01#^1-2|Ecclesiastes 1:2]]: Vanity (1) of vanities (plural, thus 2)…vanity (1) of vanities (2), all is vanity (1), thus altogether seven. See *Kohelet Rabbah* on this verse, and comment., ad loc.
+
 [^66]: *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-146b|I:146b]]; [[Zohar 7.06 - Parashat Tazri'a#^z3-47b|III:47b]].
+
 [^67]: [[Torah 46 - Eikev#^8-3|Deuteronomy 8:3]]; cf. *Zohar* [[Zohar 7.06 - Parashat Tazri'a#^z3-47b|III:47b]].
+
 [^68]: Brackets appear in the text.
+
 [^69]: Cf. *Etz Chaim* 47:2, and *Yefeh Shaah* (comment. on the *Etz Chaim*; Tel Aviv 1960), by R. Solomon Hakohen, on this chapter; cf. also *Etz Chaim* 4:1, 2.
+
 [^70]: See Addendum, *Mystical Concepts in Chassidism*, for the meaning of this phrase and the statement in toto.
+
 [^71]: Cf. *Tikkunei Zohar* 6 ([[Tikkunei Zohar 023a|23a]]), in the light of *Etz Chaim* 42, end of ch. 4 (where this phrase appears in these very words).
+
 [^72]: Supreme *chochmah*.
+
 [^73]: *Malchut* of *Atzilut*, which ultimately vests itself in *Asiyah*.
+
 [^74]: See Addendum, *Mystical Concepts in Chassidism*.
+
 [^75]: [[Psalms 033#^33-6|Psalms 33:6]]; cf. note 67.
+
 [^76]: [[Torah 01 - Bereshit#^2-4|Genesis 2:4]].
+
 [^77]: The word בהבראם (when He created them) is divisible into two parts, forming these two words.—*Menachot* [[Menachot 29#29b|29b]]; *Midrashim* on [[Torah 01 - Bereshit#^2-4|Genesis 2:4]].
+
 [^78]: The *hey*, *malchut* of *Atzilut*, in which *chochmah* of *Atzilut* is vested.
+
 [^79]: “The universe was created by ten fiats”—(*Avot* 5:1; cf. *Zohar* I:256b; *Tikkunei Zohar*, Introduction 10b; *Zohar Chadash*, beg. of *Midrash Hane’elam*) the first of which is generally all-inclusive.
+
 [^80]: The initial word of the Torah, *Bereishit*, may mean in, or with *reishit* (the beginning).
+
 [^81]: *Rosh Hashanah* [[Rosh Hashanah 32#32a|32a]]; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-15a|I:15a]]; see also *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-16b|I:16b]].
+
 [^82]: [82]*Reishit*—the *beginning*, i.e., the first *sefirah*—see *Sefer Habahir* 3; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-3b|I:3b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-31b|31b]], and 256b; *Zohar Chadash*, *Midrash Hane’elam*, [[Zohar 10.03 - Parashat Be-Reshit#^zh-3a|3a]]; see also *Targum Yerushalmi* on [[Torah 01 - Bereshit#^1-1|Genesis 1:1]].
+
 [^83]: See *Etz Chaim* 8: end of ch. 6; cf. *Moreh Nevuchim* 3:53.
+
 [^84]: See [[Torah 01 - Bereshit#^2-5|Genesis 2:5]] (and see below, note 89).—There was no man yet to arouse and elicit the Divine *chesed* by appropriate actions (i.e., the performance of the commandments).
+
 [^85]: [[Micah 7#^7-18|Micah 7:18]].
+
 [^86]: [[Psalms 089#^89-3|Psalms 89:3]].
+
 [^87]: *Bereishit Rabbah* 12:9; cf. *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-230b|I:230b]].—By a slight permutation בהבראם can be changed to באברהם.
+
 [^88]: [[Micah 7#^7-20|Micah 7:20]]. Abraham signifies *chesed* (see above, Epistle 2, note 9), thus “when He created them,” He created them “because of (or: by) Abraham,” i.e., out of a motive of *chesed*. Creation is the effect of G–d’s *chesed*, to actualize the “nature of the Benevolent to do good.” (See Addendum, *Mystical Concepts in Chassidism*.)
+
 [^89]: [[Torah 01 - Bereshit#^2-15|Genesis 2:15]] (see *Pirkei d’R. Eliezer*, ch. 12; *Targum Yerushalmi* and *Targum Yonatan*, ad loc.; *Sifrei* on [[Torah 46 - Eikev#^11-13|Deuteronomy 11:13]]; *Bereishit Rabbah* 16:5; *Zohar* [[Zohar 1.027a|I:27a]]; [[Zohar 5.05 - Parashat Terumah#^z2-165b|II:165b]]; *Tikkunei Zohar* 21 ([[Tikkunei Zohar 062a|62a]]); *Zohar Chadash* [[Zohar 10.03 - Parashat Be-Reshit#^zh-18c|18c]]). Man was created to carry out G–d’s will, i.e., to perform the commandments of the Torah. When doing so, man elicits the Divine *chesed*.
+
 [^90]: See above, note 83.
+
 [^91]: *Yevamot* [[Yevamot 109#109b|109b]].
+
 [^92]: Cf. *Yevamot* [[Yevamot 105#105a|105a]]; *Zohar* II:119a [cf. *Sefer Hamaamarim 5708* (Kehot, 1958), in the marginal notes by the Lubavitcher Rebbe, R. Menachem M. Schneerson, on p. 266, end of note 7]. See also *Masechet Chibut Hakever* (*Reishit Chochmah*, *Shaar HaYirah*, ch. 12), ch. 4 ff. and Maharal, *Netivot Olam*, s.v. *Gemilut Chasadim*, ch. 2.
+
 [^93]: *Zohar* [[Zohar 5.04 - Sava de-Mishpatim#^z2-121a|II:121a]]; etc. (see above, Epistle 1, note 37).
+
 [^94]: *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-200a|II:200a]]; cf. *Avot* 1:2; *Shabbat* [[Shabbat 88#88a|88a]].
+
 [^95]: *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-47a|I:47a]], [[Zohar 7.04 - Parashat Tsav#^z3-35a|III:35a]].
+
 [^96]: V. L.: “inspirations,” or: “indwellings.”
+
 [^97]: *Berachot* [[Berakhot 64#64a|64a]]; *Yevamot* [[Yevamot 122#122b|122b]]; etc. Cf. above, note 58.
+
 [^98]: Water, the nature of which is to flow downward, is symbolic of *chesed*.—See below, Epistle 8, and notes 14 ff., ad loc.
+
 [^99]: I.e., the kindness expressed and performed below, by man.
+
 [^100]: Par. [[Isaiah 57#^57-15|Isaiah 57:15]].
+
 [^101]: [[Jeremiah 09#^9-22|Jeremiah 9:22]] f.
+
 [^102]: When man performs *chesed*, he elicits the “lights and inspirations of the Supreme *chochmah*,” thus sharing, as it were, in the Supreme *chochmah*. When there is no human act of kindness, the Supreme *chochmah* remains, so to speak, passive and will not issue downward: it remains “His (i.e., G–d’s) *chochmah*” only. See *Maamarei Admur Hazaken—Hanachot HaRaP* (Kehot, 1957), p. 78 ff. Cf. *Taanit* [[Taanit 7#7a|7a]] (on [[Proverbs 05#^5-17|Proverbs 5:17]]), and see also *Tikkunei Zohar* 22 (65a).
+
 [^103]: Rabbi Yitzchak Luria Ashkenazi, of blessed memory (1534-1572).
+
 [^104]: Cf. *Biurei Hazohar*, *Vayeshev* 25a-b (on *Zohar* [[Zohar 3.04 - Parashat Va-Yeshev#^z1-182a|I:182a]]).
+
 [^105]: That is, the Torah which is studied and transmitted by word of mouth, referring to the Talmud and Rabbinic writings. The influence of the Oral Torah extends only as far as *Yetzirah*, Gemara as far as *Beriah*, and Mishnah as far as *Yetzirah*; see *Likkutei Amarim*, Part I, end of ch. 40 and ch. 52; below, Epistle 26.
+
 [^106]: *Malchut* of *Atzilut*, the recipient and channel of the Supreme *chochmah*.
+
 [^107]: In other words, their principal occupation is with the performance of kindness. But they, too, have to appoint and set aside times for the study of Torah (just as the scholars of Torah have to perform commandments as well); cf. *Hilchot Talmud Torah* by the author, ch. 3 and *Kuntres Acharon*, ad loc.
+
 [^108]: Brackets appear in the text.
+
 [^109]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-8a|I:8a]] (cf. [[Proverbs 03#^3-18|Proverbs 3:18]] and *Vayikra Rabbah* 25:1).
+
 [^110]: *Zohar* [[Zohar 7.07 - Parashat Metsora#^z3-53b|III:53b]].—In the “man image” of the *sefirot*, *netzach* and *hod* signify the “thighs” and the “loins”—which support the “body” (Torah); see *Tikkunei Zohar*, Introduction [[Tikkunei Zohar 017a|17a]] and above, Epistle 1. (Cf. Addendum, *Mystical Concepts in Chassidism*.)
+
 [^111]: Cf. *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-8a|I:8a]], [[Zohar 7.07 - Parashat Metsora#^z3-53b|III:53b]].
+
 [^112]: [[Isaiah 32#^32-17|Isaiah 32:17]]; cf. below, Epistle 12.
+
 [^113]: Cf. below, Epistle 9. *Asiyah* means an act, or deed.
+
 [^114]: Brackets appear in the text.
+
 [^115]: Speech is the outer manifestation of mind, of intellect, and thought; it reveals the inner thought. Thought itself is self-containing; it exists in isolation. Speech reveals nothing to the speaker, for he knows already, he has the original thought of which speech is a mere manifestation. Thus speech reveals to others. It is a communication directed to another. At the same time, speech is of necessity a limitation on thought. On the preverbalizing level one must seek the right letters, words, and expressions to reveal the inner thought. The intuitive concept, as it is in itself in the inner thought, cannot be expressed; it is too compact and concentrated. It needs to “come down,” to be analyzed and made intelligible in all its details. The words uttered are but vessels that contain, and are able to channel and reveal, the detailed ideas of the original, germinal thought. Cf. below, Epistle 20, and note 51, ad loc.

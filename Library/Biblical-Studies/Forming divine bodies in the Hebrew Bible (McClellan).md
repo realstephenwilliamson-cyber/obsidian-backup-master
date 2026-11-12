@@ -53,6 +53,7 @@ reasoning to the justification, explanation or elaboration of an *intuitive* res
  In the ancient world, mortuary spaces performed much the same functions. Meals were provided for the deceased and shared with the deceased, while stelae served as proxy bodies for the unseen agency of the deceased. One of the clearest articulations of this framework was found in the so-called mortuary chapel of Katumuwa at Sam’al (Sanders 2013 ; Herrmann and Schloen 2014 ; Steiner 2015 ). The space included a stele that depicts Katumuwa in a banquet scene and is inscribed with a text prescribing meal offerings for his *nbš* (‘self ’ or ‘life’), which, according to the inscription, will be ‘in this stele’ ( *bn ṣ b.zn* ). [^1] These meal offerings, associated with primary burial/memorialization and then repeated at intervals, were among a series of actions perpetuating the afterlife of the deceased through ritual memorialization. [^2] The inscription or utterance of the deceased’s name was one of the most salient mechanisms for perpetuating their existence, as personal names were symbolic of identity and thus intuitively linked with agency. Where remains were inaccessible or buried at a distance, a stele or other ritual objects could host the deceased’s locus of agency. Katumuwa’s patron in life, Panamuwa, for instance, arranged for his own post-mortem welfare by having the following inscribed on a statue of Hadad that 
 
 [^1]: On the relationship of the Sam’alian *nbš* to the Hebrew , נפש see Steiner ( 2015 : 137–9).
+
 [^2]: For archaeological evidence of meal offerings to the deceased in ancient Israel and Judah, see Bloch-Smith ( 1992 : 218). These offerings appear to have played a role in maintaining social relationships with the dead of the household, as discussed by Stavrakopoulou ( 2016 ). While the Hebrew Bible prohibits offerings to the dead in some places ([[Psalms 106#^106-28|Ps. 106.28]]), in others it seems to treat them favourably or at least neutrally, as long as food offerings to YHWH do not come from the same source as offerings to the deceased ([[Torah 50 - Ki Tavo#^26-14|Deut. 26.14]]).
 
 *[p. 174]* ^pg4
@@ -68,7 +69,9 @@ was discovered at a cultic installation in Sam’al: ‘\[May the *n* \] *bš* o
  The most explicit discussions of these rituals are limited to a few surviving Akkadian fragments from first millennium BCE Mesopotamia (Boden 1998 ; Walker and Dick 1999 , 2001 ; McDowell 2015 ). The number and order of incantations and ceremonies differ between the surviving fragments, but the core of the process was the ceremonial washing of the mouth, which purified the image for contact with the deity, and the ceremonial opening of the mouth, [^5] which enabled the image to breathe, smell, eat and drink. As lines in the incantation preserved on the Sultantepe tablet (STT 200) illustrate, ‘This 
 
 [^3]: Related conceptualizations of the material presencing of the deceased and their provisioning are found among elite burials in Egypt and Mesopotamia and are obliquely attested in the biblical texts; see further Asher-Greve ( 1997 ); Taylor ( 2001 ); Wyatt ( 2012 ); MacDougal ( 2014 ).
+
 [^4]: As an example, the *m ī s pî* and *p ī t pî* rituals (discussed below) were used for the animating of divine images as well as cultic images of deceased kings, as discussed in Winter ( 1992 ); Walker and Dick ( 1999 : 58); Machinist ( 2006 ).
+
 [^5]: The opening of the mouth could also be performed for images representing living kings and other persons; see Walker and Dick ( 2001 : 13).
 
 *[p. 175]* ^pg5
@@ -80,8 +83,11 @@ statue without its mouth opened cannot smell incense, cannot eat food / nor drin
  While these materials could be considered divine in origin (scattered or hidden in the earth by the deities) or especially suited to transmitting or housing divinity, whether inherently or otherwise, certain acts were required (and demanded by the gods themselves) to commission them for divine inhabitation. The washing and opening of the mouth ceremonies transitioned the image from an earthly creation to a self-created divine entity, and some concomitant ritual was needed to signal the dissociation of the image from its natural/human origins. [^9] This would have amplified the perception of the image as inhabitable by divine agency and was accomplished most conspicuously through the 
 
 [^6]: As Walker and Dick ( 1999 : 71) observe, while the opening of the mouth seems more critical to the process of enlivenment, it ‘was evidently subordinated in the first millennium to the concept of mouth-washing’.
+
 [^7]: While this may indicate the deity is compelled to inhabit the image, the Sumerogram GIŠ. ḫ UR.ME could also be read as the Akkadian *gišhuru* , which would be ‘magic circle’, reflecting the notion of the ‘magic circles of the gods’; see Walker and Dick ( 1999 : 81–2 n.81).
+
 [^8]: McDowell ( 2015 : 75) summarizes: ‘The tamarisk from which the buginnu was made … may have been understood both as a component of the divine statue’s formation, perhaps its skeletal system, and as a cleansing and purifying agent, possibly for the womb and the gestating divine embryo.’
+
 [^9]: Note the following comments from Pongratz-Leisten and Sonik ( 2015 : 8): The Greek term *archeiropoieta* … identifies miraculous portraits or representations that were ‘not made by any \[human\] hand’, encompassing in the Christian tradition such images as the Mandylion (Image of Edessa). The *archeiropoieta* are not limited to this context, however; ancient Greek sources include various accounts of divine images that had miraculously *appeared* , having fallen perhaps from the heavens or yielded by the seas, and that were understood as products of the divine rather than human agency.
 
 *[p. 176]* ^pg6
@@ -95,7 +101,9 @@ symbolic amputation of the artisan’s hands and declarations such as *an ā ku 
  Although we have no direct attestation of prescriptions for animating rituals in the material remains from the regions inhabited by Iron Age Israel and Judah, there is a rich tradition in the region of materially representing and presencing deity that reaches back into Neolithic periods. In the Bronze and Iron Ages, this tradition drew from the same conventions and intuitive concepts of personhood and deity which were circulating in the surrounding cultures. [^12] Finds from Iron I–IIA that depict 
 
 [^10]: A similar ‘opening the mouth’ ritual is attested in a range of Egyptian texts. Its full name was ‘Performing the Opening of the Mouth in the Workshop for the Statue of PN’, but it could also be referred to as the ‘Opening of the Mouth and the Eyes’ or just ‘Opening of the Mouth’ ( *wpt-r* or *wn-r* ). See further Roth ( 1992 ); McDowell ( 2015 : 85–109). For a comparison of the Mesopotamian and Egyptian rituals, see McDowell ( 2015 : 109–15). There is also a relevant Hittite text from the late fifteenth or early fourteenth century BCE that prescribes an eightor nine-day regimen for commissioning a satellite cult installation for the ‘Deity of the Night’ (here the goddess Pirinkir); see further Beal ( 2002 ); Miller ( 2004 : 259–311); Beckman ( 2010 : 80–5). The process for installing the deity is long and complex, but on the fifth day, before leaving the old temple behind, the text in section 22 prescribes the following utterance: ‘Honoured deity! Preserve your being, but divide your divinity! Come to that new house, too, and take yourself the honoured place!’ (translation is from Miller 2004 : 290). Niehr ( 1997 : 78) notes related features of some Phoenician and Aramaic inscriptions: ‘After a Phoenician temple had been built or restored, the divine statue had to be erected in the sanctuary. This is referred to with the phrase “I/we caused the deity to dwell in it” ( *yšb yiphil* )’.
+
 [^11]: The question of whether or not the image is a ‘full’ or ‘partial’ deity would have emerged situationally and would have been addressed within the relevant rhetorical contexts. There is no need to impose a systematic ontology onto the discussion.
+
 [^12]: According to Keel and Uehlinger ( 1998 : §§ IV–V), the material representation of deity in the highlands in the Late Bronze Age reflected heavy Egyptian influence, particularly in the prevalence of enthroned male Egyptian deities, and especially those who represented political domination and war. Bull imagery was particularly prominent, but while in earlier periods it could represent either fecundity or ferocity, by the Iron Age, it almost exclusively reflected the latter. The role of the goddess was diminished in Egypt, but southern Levantine artisans appear to have carried on a simplified version of a popular ‘naked goddess’ motif through the production of much more inexpensive terracotta plaques. The effacement of Egyptian influence meant the similar withdrawal of the wealth and markets it facilitated, so locally produced plaques, statuettes, stelae and cult stands became less expertly and more inexpensively produced. By Iron Age I, the fertility aspects of the divine were depicted primarily through symbols and ‘substitute entities’ like a tree, a scorpion or a suckling mother animal; see Keel and Uehlinger ( 1998 : 128).
 
 *[p. 177]* ^pg7
@@ -133,9 +141,13 @@ adapted in Greek as βαίτυλος , ‘betyl’. By the seventh century BCE ,
  The model shrine may have been another means of divine embodiment and presencing in ancient Southwest Asia. These shrines have been discovered at many ancient sites in Israel/Palestine, including Dan, Tel Rekhesh, Tel Re ḥ ov, Tirzah, Megiddo, Jerusalem and Khirbet Qeiyafa (Zevit 2001 : 328–43; Mazar and Panitz-Cohen 2008 ; Garfinkel and Mumcuoglu 2015 ; Mazar 2015 : 36–8; Garfinkel, Ganor and Hasel 2018 : 146–55). Temples were not as scarce in Iron Age Israel and Judah as previously thought, but the 
 
 [^14]: According to Mettinger ( 1995 : 191–2), stelae functioned primarily to facilitate sacrifices and shared communal meals. Note the communal meal mentioned in [[Torah 18 - Mishpatim#^24-11|Exod. 24.11]] after the elders of Israel ‘saw the God of Israel’ ( יראו .) את אלהי ישראל Smith ( 2008 : 58–61) elaborates on the importance of the communal meal to covenant ritual.
+
 [^15]: A recently excavated Judahite temple from Tel Moza features a room near the entrance with five stelae at the base of a bench. See Kisilevitz ( 2015 : 51).
+
 [^16]: In Zevit (2001: 123) and Hitchcock ( 2011 ), these installations are designated ‘cult corners’.
+
 [^17]: Some already suspect certain idiosyncrasies were adopted as identity markers to distinguish Israel and Judah from the societies surrounding them, and this certainly may have been an additional way to distinguish themselves in their relationship to their deity/deities.
+
 [^18]: Sommer ( 2009 : 49) rhetorically asks, ‘Is it possible that, in these passages, anointing transforms the stele and thus functions in a manner comparable to the *m ī s pî* ritual in Mesopotamia?’ As he notes in a footnote ( 2009 : 207 n.67), several midrashim insist the oil that anointed these stelae came down directly from heaven, which is reminiscent of the insistence at the end of the Mesopotamian ritual that the statue was not made by human hands.
 
 *[p. 179]* ^pg9
@@ -151,6 +163,7 @@ texts).
  Brian Doak ( 2015 : 129) contends that several observations support interpreting the stand as entirely devoted to a goddess. First, the clearest indications of the stand’s referent are the bottom and third friezes, which depict a female deity anthropomorphically and as a tree. The other two friezes contain the empty space – likely representing the entryway – and the equid underneath the sun disc. Next, the equid is used predominantly to represent Anat and Astarte, as noted by Izak Cornelius (2008: 40–5) as well as Othmar Keel and Christoph Uehlinger (1998: 160), who also note that Early Iron Age terracotta figures predominantly represent female agents. [^20] The multiple manifestations of the goddess may have been intended to represent the iconography of the different rooms of the temple and her manifestations within them, or to increase the accessibility or compound the potency of her agency. Model shrines were generally too elaborate for widespread private use, but 
 
 [^19]: There has been some debate about these representations, and particularly regarding the animal in the upper register. Early interpreters understood it as a bull, perhaps as a result of the interpretation of the stand as Yahwistic in orientation. On the protective role of the naked female and her attendant animals on cult stands, see Darby ( 2014 : 330–8).
+
 [^20]: Darby ( 2014 : 333) also notes that ‘almost every cult stand combines female figurines with zoomorphic images’. The fifty-seven clay figurines and zoomorphic vessels discovered at Tel Re ḥ ov further support this observation. Almost half of the figures were anthropomorphic, and almost all were female, while nearly a third of the twenty-nine zoomorphic figurines and vessels depicted equids. See Mazar ( 2015 : 38–9).
 
 *[p. 180]* ^pg10
@@ -225,6 +238,7 @@ worship before divine images. The use of the לפני יהוה formula indicates
 presencing of the deity’s agency, which was most likely reified through the divinely given words of the covenant that were written on the stones. These words would have included the deity’s first-person speech and numerous iterations of the divine name. Writing the text on the stones may thus be thought of as sacralizing or commissioning the object, 
 
 [^22]: For a fascinating discussion of how the ubiquity of abducted divine images may have undermined neo-Assyria’s traditional conceptualization of the relationship of cult statues to their deities, see Richardson ( 2012 ).
+
 [^23]: It is not until [[Torah 52 - Vayeilech#^31-11|Deut. 31.11]] that the Sinai event is re-enacted with the reading of the entire law. See also [[Joshua 08#^8-30|Josh. 8.30-35]], which has Joshua writing the law on the stones (apparently of the altar) and then reciting every last word before the Israelites. Cf. Schaper ( 2007 ).
 
 *[p. 184]* ^pg14
@@ -239,8 +253,11 @@ or other ritual. As noted by Francesca Stavrakopoulou ( 2013 : 228), ‘The narr
  There is a sense in which the promiscuous presencing of the words of the deity democratized access that had frequently been restricted in earlier periods, perhaps for some even privatizing the temple/cult site experience. By reframing that presence in terms of the Torah instead of the deity, however, the goal also (or rather) appears to have been to extend the centralized cult’s reach out into the diaspora, transferring the people’s socio-material focus away from YHWH and onto the scribal class’ institutional 
 
 [^24]: I use ‘and/or’ to reflect the reality that even those who could not read could recognize writing or even identify some words – especially those widely understood to be powerful. A person who could not read could conceivably reproduce a crude version of the Torah by copying the shapes, but they would still need some kind of access to it. Sanders ( 2019 ) finds that the inclusion of memorial inscriptions on mortuary stelae (and specifically inscriptions that presenced the dead and demanded their feeding) was an innovation of the early Iron Age in the West Semitic world.
+
 [^25]: Note Stavrakopoulou ( 2013 : 234): ‘In robust materialist perspective, socio-religious and economic power is thus held by those who literally and literarily hold Torah – to the exclusion of those who do not and cannot participate in the textuality of the covenant.’ Another text, [[Joshua 24#^24-25|Josh. 24.25-27]], reflects a similar renegotiation of the relationship of text and cult but employs the motifs differently (cf. Stavrakopoulou 2013 : 229). There the words of the deity are materially manifested on a scroll rather than a stele, but that scroll is immediately backgrounded as a stele is erected to monitor the people’s commitment to the covenant into which they have ritually entered. Again, pre-existing conventions of divine presencing are adopted to this textualization of the deity’s words, even as those conventions are renegotiated to fit the new paradigm. The stone does not so much presence the deity as function as an independent agent, having heard the words of the deity and having witnessed the people’s entry into the covenant. Functionally, the stone acts as a ‘witness’ by reminding viewers of the covenant, but its presence alone is enough to reify a sense of unseen monitoring, whether or not it was identified with a specific unseen agent.
+
 [^26]: I use ‘emblems’ here to gloss . טוטפת The word is unattested in the Hebrew Bible outside of these verses but may have indicated some kind of adornment for the head. See further Tigay ( 1982 ); Cohn ( 2008 : 33–53).
+
 [^27]: The word traditionally translated ‘meditate’ in [[Joshua 01#^1-8|Josh. 1.8]] ( √ ) הגה means to read in an undertone or to mutter, not to silently ponder.
 
 *[p. 185]* ^pg15
@@ -262,6 +279,7 @@ purview: the Torah. As with the passages discussed above, the words of the text 
 of Egypt, from the house of slavery’ ([[Torah 17 - Yitro#^20-2|Exod. 20.2]]). Whether read or heard, the agency 
 
 [^28]: See Sanders ( 2010 : 114): The stela of Mesha is the first known alphabetic inscription to address an audience in the first-person voice of the king. It presents a man who claims, in Moabite, to be the king of Moab. The shift in participants from earlier alphabetic royal inscriptions is decisive. The inscription now designates itself by the speaker, not the object. No longer ‘(this is) *the stela* which Mesha set up’ but ‘ *I am* Mesha, son of Kemoashyat, King of Moab, the Dibonite’. The inscription presents royal power by making the king present in language, ventriloquizing Mesha as if he were standing in front of us.
+
 [^29]: I have followed Hogue ( 2019a ) in understanding the verb *qny* to reflect creation in certain contexts. Hogue bases his argument on the conventions of Luwian monumental inscriptions.
 
 *[p. 186]* ^pg16
@@ -273,8 +291,11 @@ of the deity is essentially made present by the first-person voice of the text. 
  In later religious practice, the treatment of the divine name and texts bearing the divine name further attest to its conceptualization as a species of presencing media. The Jerusalem temple had been rebuilt in the late sixth century BCE , but the Torah was now presented as an equally powerful locus of divine presencing, and legal authorities were in no hurry to relinquish the access to, and influence over, divine agency their stewardship of the texts afforded them. Throughout the Second Temple period, Yahwistic theophoric elements were appearing less frequently in personal names, likely out of reverence for, and avoidance of saying aloud, the Tetragrammaton. [^32] In a sense, avoiding writing or pronouncing the divine name in common circumstances evinced a desire not to invoke the deity’s presence in ‘profane’ contexts. [^33] 
 
 [^30]: In [[Torah 21 - Ki Tisa#^32-19|Exod. 32.19]], Moses goes on to shatter these tablets, but in 34.1, YHWH commands Moses to carve two new tablets, on which YHWH will again write the words of the Torah. According to 34.28, however, Moses writes on the tablets.
+
 [^31]: See Watts ( 2016 : 21): ‘the Pentateuch was shaped to lay the basis for Torah scrolls to replace the ark of the covenant as the iconic focus of Israel’s worship’. Cf. Schniedewind ( 2009 : 78–9).
+
 [^32]: See Schniedewind ( 2009 : 75): ‘By the end of the Second Temple period these names will have disappeared completely, corresponding to the increasing reverence for the Tetragrammaton that is evident in the late Second Temple period.’
+
 [^33]: This reverence for the texts bearing the divine name is demonstrated by practical observances associated with their transcription. For example, nearly thirty of the Dead Sea Scrolls manuscripts were written in the square Aramaic script, but represented the Tetragrammaton in a palaeo-Hebrew script. In many cases, scribes left gaps in the transcription where the divine name was to appear, and more senior scribes would come through later and insert the divine name in the palaeo-Hebrew script. That this was not just a stylistic consideration, but evidence of special treatment, is indicated by one manuscript, 11QPs <sup>a</sup> , in which twenty-eight words were erased from the transcription, except for the Tetragrammaton. In another eight manuscripts, the divine name was substituted with four dots, sometimes called the ‘Tetrapuncta’. See Tov ( 2004 ); Lichtenberger ( 2018 ); cf. Parry ( 1996 ).
 
 *[p. 187]* ^pg17
@@ -288,6 +309,7 @@ of the deity is essentially made present by the first-person voice of the text. 
  A significantly more restricted and idiosyncratic view of divine embodiment remained after the projection of these socio-material conventions through the reflective filters of the authors and editors of the Hebrew Bible. Fewer instantiations of divine embodiment were permitted to be represented in a favourable light. The primary concerns, however, 
 
 [^34]: For a brief discussion of the reception of translations of the Hebrew Bible as holy writings, see Smelik ( 1999 ). See also the contributions in Law and Salvesen ( 2012 ).
+
 [^35]: For the development of the codex as diagnostic of Christian literature, see Nongbri ( 2018 : 21–46).
 
 *[p. 188]* ^pg18

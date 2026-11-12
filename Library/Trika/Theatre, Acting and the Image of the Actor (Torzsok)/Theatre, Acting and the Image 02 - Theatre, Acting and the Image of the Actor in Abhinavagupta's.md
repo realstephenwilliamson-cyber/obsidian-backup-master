@@ -21,6 +21,7 @@ JUDIT TÖRZSÖK
 A considerable number of Sanskrit plays that depict *śaiva* tantric practitioners have been subject to detailed analysis to obtain more information about tantric currents in classical India. This is perhaps particularly true for *kāpālika*s, who figure conspicuously in several classical plays.[^1] This paper proposes to look at the question the other way round and show how *śaiva* tantric sources use theatrical terms and the image of the actor and how they incorporate theatre or some form of acting in their rituals. For, rather surprisingly, a number of *śaiva* tantric passages show awareness of the classical theatrical tradition and theory of drama. I shall focus on sources available to Abhinavagupta, whose major works treat theoretical questions concerning both tantra and drama. In fact, Abhinavagupta himself is the most important link between these two areas, for he is an exceptional author in that he produced original and influential works on both subjects. It is to be hoped that by studying points of contact between these fields we shall better understand the intellectual history of Kashmir in the early middle ages 
 
 [^n0]: I am greatly indebted to Prof. Lyne Bansat-Boudon for her corrections, suggestions and critical remarks as well as for her prompt help at various stages during the writing of this paper. I would also like to thank Csaba Kiss for his corrections of the final text and for his remarks concerning the general argument. I am very grateful to the editors, Prof. Eli Franco and Prof. Isabelle Ratié, whose suggestions, corrections and insightful remarks greatly improved this paper, both in content and form. All the remaining errors are mine, of course.
+
 [^1]: For some general information and debate on the identity of *kāpālika*s, see SANDERSON 2011 and TÖRZSÖK 2011. The most important and well-known classical plays studied in this context are Mahendravikramavarman’s *Mattavilāsaprahasana* and Bhavabhūti’s *Mālatīmādhava*.
 
 *[p. 452]* ^pg11
@@ -75,10 +76,15 @@ bally, and her performance cannot be controlled by the prescribed rules.
 While it may be forced to see allusions to aesthetic experience and theatre in the descriptions of various dancing Kālīs,[^12] it may be of some interest to point out the existence of a so-called “Dancer-Goddess”: Naṭṭeśvarī[^13] or Nāṭyeśvarī. At least three *śaiva* sources mention this goddess,[^14] whose name appears alternatively as Naṭṭeśvarī (JY chapter 4.64), Nāṭeśvarī (*Agnipurāṇa* 1.50.32b) and Nāṭyeśvarī (*Pratiṣṭhālakṣaṇasārasamuccaya* 6.171).[^15] The earliest source, the JY, clearly names her Naṭṭeśvarī[^16] and describes her as a dancing goddess dominating the cycle of withdrawal (*saṃhāra-cakra*) and wearing bone ornaments or being skeleton-like (*karaṅ-kiṇī*). The other two sources first identify her with Cāmuṇḍā (*rudra-cāmuṇḍā*), suggesting that she has this name because she holds severed heads (*śiras/muṇḍa*); but they also give her the name Na-ṭeśvarī or Nṛtyatī, apparently because she also holds a *ḍamaru* drum.[^17] In all these sources, she seems to be the female equivalent 
 
 [^12]: One of them may still be worth mentioning, for it uses the word *rasa*, although it is possible that no allusion to the term *rasa* describing aesthetic experience is meant: *kālī karālā kalanapratṛptā cakrakṣayākāramahograrūpā ||* *narttanti sarvagrasanodbhaṭākṣī kṣībā parānandarasāsavena |* (JY 2.5.15cd-
+
 [^16]: *evaṃ tava samākhyātā nāmnā naṭṭeśvarī śivā* 4.64.36cd; and the name also figures in the colophon.
+
 [^13]: The word *naṭṭa-* seems to come from Middle Indic *ṇaṭṭa-*, which can be derived from *naṭa, nṛtya* or *nāṭya*, cf. the entry *naṭṭa-* in the *Pāia-sadda-mahaṇṇavo* (SHETH 1928). Judging from the Sanskrit forms, the last derivation may be the most likely.
+
 [^14]: These parallels have been pointed out by Olga Serbaeva in her personal notes to the e-text of the JY.
+
 [^15]: The last of these sources was certainly not available to Abhinavagupta, but it includes a close parallel to the *Agnipurāṇa* passage.
+
 [^17]: This appears to be the implication in the following verse: *sā caivāṣṭabhujā devī śiroḍamarukānvitā* | *tena sā rudracāmuṇḍā naṭeśvary atha nṛtyatī* || *Agnipurāṇa* 1.50.31cd-32ab. or made offerings,<sup>21</sup> yet some others offered songs and dances.<sup>22</sup>
 
 *[p. 456]* ^pg15
@@ -92,7 +98,9 @@ of Śiva destroying the universe as the Lord of Dance (*naṭeśa*).[^18]
 Some did pilgrimage, others undertook fasts, fire rituals, mantra recitations, yet others, wishing their desire to be fulfilled, performed worship, 
 
 [^18]: Let us remark here that while the South Indian bronze image of a gracefully dancing Śiva has always dominated Western secondary literature, the earliest North Indian images of the dancing Śiva (from the 6th-7th centuries CE) seem to be bhairavic forms, carrying perhaps a skull-staff, such as the famous image (the west panel of the north entrance) in Elephanta (see e.g. COLLINS 1988, p. 24 and BURGESS 1871, p. 41).
+
 [^19]: The date of this text is uncertain, as is that of its commentator, Kauṇḍinya. The latter’s dating, based on scanty evidence, is usally given between 400 and 600 CE, while the founder of the *pāśupata* movement, Lakulīśa, may have lived near the beginning of the Christian era (see e.g. HARA 2002, pp. 198-199). Inscriptions confirm that *pāśupata*s were actively involved in public religion by the fourth century CE (see e.g. RĀMESH AND TEWARI 1990, pp. 4ff. and 21ff.)
+
 [^20]: *hasitagītanṛttahuṃḍuṃkāranamaskārajapyopahāreṇopatiṣṭhet.* The odd word to be pronounced, which resembles the bull’s cry according to Kauṇḍinya, is written in different forms *ḍuṃḍuṃ, huṃḍuṃ, huḍuṃ, huḍuk* in various sources. For a discussion, see HARA 2002, p. 216 and ACHARYA 2013.
 21\. Note that here, *upahāra* clearly seems to refer to offerings, unlike in the PSū passage, at least if we follow Kauṇḍinya’s interpretation. Dancing and singing is a very commonly cited *śaiva* way of worship from the earliest tantras onwards, see for instance, the way in which various semi-divine beings worship Śiva in *Niśvāsa Mūla* 1.4-6: *kecit stunvanti deveśaṃ kecin nṛtyanti cāgrataḥ |* *kecid gāyanti hṛṣṭās tu kecit praṇatamūrdhabhiḥ || kecid ramanti gāyanti kecit puṣpaṃ kṣipanti ca | kecid dhyāyanti niratā vādyaṃ vādyanti cāpare || siṃha-*
 
@@ -162,7 +170,9 @@ And dancing is performed without being attached to the conventions of the *Nā�
 More light may be shed on the question if Kauṇḍinya’s description or gloss on *nṛtta* is better understood. HARA 2002 (p. 216) takes the upward and other movements (*utkṣepaṇādi*) to denote the five types of motion and refers to *Vaiśeṣikasūtra* 1.1.6,[^39] whose list 
 
 [^37]: *nṛttam api nāṭyaśāstrasamayānabhiṣvaṅgeṇa hastapādādīnām utkṣepaṇam avakṣepaṇam ākuñcanam prasāraṇaṃ calanam anavasthānam.* While the four elements *utkṣepaṇam*, *avakṣepaṇam*, *ākuñcanam*, *prasāraṇaṃ* must be construed with ‘hands, feet etc.’, the last two words cannot. I understand them to add a more general element of the definition of dance, namely the fact that it implies moving without stopping. I thank Prof. Eli Franco for calling my attention to the problem here, although his understanding is slightly different from mine in that he takes *anavasthānam* to qualify all the other movements. Note that the *Daśarūpaka* defines dance itself (*nṛtta*) as being “various ways of throwing the limbs” (*gātravikṣepa*, see BANSAT-BOUDON 1992, pp. 408- 409). This dance must, of course, conform to rules (cf. NŚ, cg. 4 and BANSAT-BOUDON 1992, p. 40).
+
 [^38]: *gāndharvaśāstrasamayānabhiṣvaṅgena.* The term *gāndharva(śāstra)* refers in particular to the teaching of the NŚ on music, see BANSAT-BOUDON 1992, pp. 193ff.
+
 [^39]: This is cited as 1.1.7 by Hara, but editions of the text commonly number this *sūtra* as 1.1.6, including Jambuvijayaji’s edition used by Hara.
 
 *[p. 461]* ^pg20
@@ -172,7 +182,9 @@ indeed agrees with Kauṇḍinya’s on the whole. What this betrays is not that
 From the *pāśupata*’s dance, the dancing *mudrā* and the dancing goddesses, the conclusion one can draw is that the dances described do not normally appear to conform to śāstric norms. The dance of the goddesses is meant to express their total freedom, which is not determined by śāstric prescriptions. This “wild dance” is in turn probably what is imitated by the dancing devotees, whether *pāśupata* or *śākta*, in order to strengthen their identity with the deity[^42] and/or to enact possession by them (in the case of the *mudrā* at least). Accordingly, they may involve any kind of movement and are compared to the uncontrolled behaviour of children or madmen. However, one may occasionally encounter a more structured type of dance when the practitioner invokes *yoginī*s. Dancing with *yoginī*s seems to require a more controlled performance – perhaps so that the practitioner should remain the controller of these female powers, rather than abandon himself to them (and thus become their play-thing, *paśu*). 
 
 [^40]: *niyamakāle niyamārthe geyasahakṛtaṃ nṛttaṃ prayoktavyam.*
+
 [^41]: Unless we assume that he asks someone else to sing for him, which is highly unlikely. However, the two may not be performed simultaneously.
+
 [^42]: On this idea in the *pāśupata* case, see HARA 2002, pp. 216ff.
 
 *[p. 462]* ^pg21
@@ -186,6 +198,7 @@ This ontological image takes on an epistemological aspect in the writings of the
 The idea of placing various religious systems in the hierarchy of *tattva*s seems to come from a scriptural source, as Kṣemarāja himself points out. The unidentified citation given by Kṣemarāja and 
 
 [^43]: For another usage of the actor analogy, see Lyne Bansat-Boudon’s article in this volume, in which she examines *Tantrāloka* (henceforth TĀ) 1.332 and the commentary thereon.
+
 [^44]: *tadbhūmikāḥ sarvadarśanasthitayaḥ.* On this passage and its commentary, see also BANSAT-BOUDON AND TRIPATHI 2011, p. 160, n. 689.
 
 *[p. 463]* ^pg22
@@ -195,8 +208,11 @@ starting with “Buddhists are at the level of intellect (*buddhi*)” appears i
 In addition to Śiva’s roles being identified with schools, Kṣemarāja also hints at a further series of identifications between these schools and the sets of cognizing subjects (*pramātṛ*).[^48] For in Kṣemarāja’s above account, the Sāṃkhya and (some unidentified) others are said to be attached to the level (*bhūmi*) of the *vijñānaka-la*s. The *vijñānakala*s or *vijñānākala*s form a group of cognizing subjects who are “inert in gnosis” (SANDERSON 1986, p. 191), and are only tainted with the *āṇavamala* (impurity of believing one’s self to be limited). They are one of the (usually) seven groups of cognizing subjects (*pramātṛ*). The identification of Śiva’s roles and the seven cognizing subjects is brought out in Kṣemarāja’s *Spandanirṇaya* 1.1.: 
 
 [^45]: Note that *guṇa* or the *guṇa*s are not usually included in the standard list of *tattva*s, but they do figure among them in some scriptures, see the entry *guṇa* in TAK II.
+
 [^46]: The longest version of the quote is in *Nareśvaraparīkṣāprakāśa* ad 3.80: *buddhitattve sthitā bauddhā guṇeṣu tv aṁatāḥ sthitāḥ | guṇamūrdhni sthitāḥ sāṃ-khyā avyakte pāñcarātrikāḥ | sthitā vedavidaḥ puṃsi*... The *Īśvarapratyabhijñāvivṛtivimarśinī* (henceforth ĪPVV), vol. III, p. 98, gives only *buddhitattve sthitā bauddhā avyakte pāñcarātrikāḥ*, while Jayaratha ad [[Tantraloka 06.151|TĀ 6.151]] omits the Sāṃkhya: *buddhitattve sthitā bauddhā guṇeṣv apy āṁatāḥ sthitāḥ | sthitā vedavidaḥ puṃsi tv avyakte pāñcarātrikāḥ ||*. On the different conceptions of the Self, see also PS 33 (BANSAT-BOUDON AND TRIPATHI 2011, pp. 169-173 and 338-342).
+
 [^47]: In particular the inclusion of Bhartṛhari, who does not figure in the scriptural version at all, but who is placed very high in Kṣemarāja’s hierarchy. On the importance of Bhartṛhari for Kashmirian nondualist Śaivism, see e.g. TOREL-LA 2008 and 2013, pp. 465ff. See also a possible reference to Bhartṛhari in PS 27 (in BANSAT-BOUDON AND TRIPATHI, p. 157, n. 675).
+
 [^48]: For discussions of the seven *pramātṛ*s, see BANSAT-BOUDON AND TRIPATHI 2011, pp. 330ff and VASUDEVA 2004, pp. 151ff.
 
 *[p. 464]* ^pg23
@@ -210,7 +226,9 @@ A similar idea appears in Kṣemarāja’s disciple’s, Yogarāja’s commentar
 Although it is in Kṣemarāja’s works that the epistemological aspect of Śiva’s “roles” appears in the foreground, something of this shift is perceptible already in Abhinavagupta’s TĀ 4.29ff. Without using the image of Śiva as actor, Abhinavagupta speaks of various theological and philosophical currents (*vaiṣṇava*s, *vedāntin*s, *vai-bhāṣika*s) as being at different levels of the cognizing subject (*pramātṛ*),[^50] in particular at the double level of *pralayākala*s (“those inert in dissolution”), which comprises *prāṇapramātṛ*s (those conceiving the self as inner breath) and *śūnyapramātṛ*s (those conceiving the self as void). In the same passage, he also cites the (lost) *Kāmika* and points out that the Sāṃkhya, Pāñcarātra, Buddhists and Jains are tainted by limited knowledge (*vidyā*) and passion (*rāga*), as well as by *niyati*. He gives us only a cursory account of where different schools are placed in the hierarchy of the universe and the cognizing subjects and does not elaborate on the question further; this short passage is nevertheless enlightening not only because of the placement of rival theories in the scheme of cognizing subjects, but also because of the context of this placement. For after explaining that all those following a \[false, *asat*\] master of these rival schools of thought are fettered by Māyā, he goes on to say that thanks to the practice of right reasoning (*sattarkayogena*), such a person will be led to a true master (*sadguru*). To support this, he cites *Mālinīvijayottara* 1.44, but with a slight alteration. The scriptural passage clearly states[^51] that turning to the right *guru* 
 
 [^49]: The hierarchy of schools is expounded in his commentary on Kārikā 27 (see BANSAT-BOUDON AND TRIPATHI 2011, pp. 152ff). However, the image of the actor appears only elsewhere, in his commentary on Kārikā 1 and 5 (BANSAT-BOUDON AND TRIPATHI 2011, pp. 68 and 87ff).
+
 [^50]: The cognizing subject (*pramātṛ*) and the subject of experience (*bhoktṛ*) is considered to be a knower (*jñātṛ*) in śaivism as well as in other systems, see e.g. VASUDEVA 2014, p. 15.
+
 [^51]: Note that Abhinavagupta cites the full *śloka* elsewhere (as in 13.202 or 13.249).
 
 *[p. 465]* ^pg24
@@ -222,7 +240,9 @@ In this light, the passage preceding the verses about such a conversion gains mo
 Thus, it is potential conversion that forms the wider context of presenting religious currents as cognizing subjects in the TĀ. And conversion also seems to be the wider context of Kṣemarāja’s PH and Yogarāja’s commentary on the PS*,* in which similar passages are found. For both are short introductory texts, meant to explain the *śaiva* doctrine to those who are not yet initiated into its intricacies
 
 [^52]: The verse starts by saying that such a person is *rudraśaktisamāviṣṭo*, possessed by the Power of Rudra.
+
 [^53]: For the soteriological importance of *tarka* in the Pratyabhijñā, see RATIÉ 2013, pp. 425ff.
+
 [^54]: Abhinavagupta in fact goes even further than this: he claims that the person who realizes himself the *śaiva* truth or doctrine through right reasoning is superior to others and will have also mastered all the *śāstra*s, again thanks to his true reasoning. Here, he turns his scriptural source upside down again. For the *Mālinīvijayottara* describes someone possessed by *śakti* as suddenly (i.e. miraculously) becoming the master of all *śāstra*s (this is a sign or proof showing that he is really possessed); while Abhinavagupta attributes such knowledge to right reasoning (*sattarka*): *sa samastaṃ ca śāstrārthaṃ sattarkād eva manyate* (4.44cd). Abhinavagupta and his commentator painstakingly point out that when the *Mālinīvijayottara* says that such knowledge appears “suddenly” (*akasmāt*), it must be understood as a way of saying that ordinary people do not see where this knowledge comes from, rather than as really meaning “out of the blue.”
 
 *[p. 466]* ^pg25
@@ -248,8 +268,11 @@ The passage of the *Bodhicaryāvatāra* summarizes the debate between the Sāṃ
 *tad evānyena rūpeṇa naṭavat so ’py aśāśvataḥ |* *sa evānyasvabhāvaś ced apūrveyaṃ tadekatā ||* \[If you argue\] it is the same thing taking on a different form, like an actor \[we reply:\] he too would not remain permanent. \[If you say\] it is the
 
 [^57]: *tajjāgarādinānābhūmikāprapañcam.*
+
 [^58]: Similarly, Maheśvarānanda follows this line of interpretation. For more details, see COX 2006, pp. 147 ff and 369ff.
+
 [^59]: The parallel is remarked in BANSAT-BOUDON AND TRIPATHI 2011, p. 68. It must also be noted that the dancer is always female in the Sāṃkhya as opposed to the male one in the *śaiva* system, as Prof. Eli Franco pointed out to me (personal communication).
+
 [^60]: *puruṣārthahetukam idaṃ nimittanaimittikaprasaṅgena | prakṛter vibhutvayo-gān naṭavad vyavatiṣṭhate liṅgam* || (42). The *Sāṃkhyakārikā*s also use the image of the female dancer (*nartakī*) for *prakṛti* in 59, 65 and 66. However, this usage cannot be the source of inspiration for the *śaiva* version.
 
 *[p. 468]* ^pg27
@@ -324,7 +347,9 @@ and does not imply or require an underlying nondualist ontology. Similarly, ritu
 The closest early parallel to this view is then not found in the Sāṃkhya, but rather in the PSū (5.20), which insist on the fact that the perfected yogin is not tainted by any *karman* or sin: *siddhayogī* 
 
 [^68]: I understand *paśya* as an imperative standing for the third person singular, or rather that the second and third persons are used alternatively in the prescription, which is meant for the *sādhaka*. It is also possible that *paśya* stands for *drṣṭvā*.
+
 [^69]: The idea certainly belongs to a kind of pan-Indian heritage or what TORELLA 1999 calls Sāṃkhya as *sāmānyaśāstra*; Torella mentions on the first page of his paper that the paradigm of spirit-consciousness-inactivity as opposed to matter-unconsciousness-productivity is wide-spread throughout Indian civilization. VASUDEVA 2014, p. 10 also mentions that what appears like a borrowing from the Sāṃkhya in Śaivism may often come from other schools which assimilated Sāṃkhya tenets in their own way. It must also be mentioned that Sāṃkhya itself appears in different forms and what appears in tantric sources may well be closer to various versions of what is called epic Sāṃkhya, which is often theistic. On the problem of epic Sāṃkhya, a discussion of which is beyond the scope of the present study, see for instance BROCKINGTON 1999, who also points out that some tenets we consider to belong to the Sāṃkhya may have been common currency already by the epic period (BROCKINGTON 1999, p. 489). Brockington 1999, p. 485 also mentions that in the *Mokṣadharma* the perceiving self is not the real doer and enjoyer but simply the pure witness-consciousness.
+
 [^70]: For the experiencer as an active entity in Abhinavagupta’s works, see VASU-DEVA 2014. For an analysis of Abhinavagupta’s conception of the actor, who is a “receptacle” (*pātra*), see BANSAT-BOUDON 1992, p. 150 and 430.
 
 *[p. 473]* ^pg32
@@ -338,6 +363,7 @@ Another scriptural occurrence, from the JY (1.30.19), also seems to stress “de
 Such technical terms can also be found elsewhere, for instance the word *vibhāva* (“stimulants” which contribute to creating a particular aesthetic reaction)[^71] in the following passage, taken from the lost *Triśirobhairava*. Here, however, the purpose of the demonstration is clearly to show the freedom of the enlightened actor-self in his play and suggests a nondualist conception of the self, which is identical with the godhead. In this light, it is possible that the above verse is also intended to stress the same freedom, in which case both citations would imply an underlying nondualist conception, whereby the enlightened Self is the omnipotent godhead playing at will. This enlightened and free actor-Self is contrasted below with the limited Self that does not recognize his identity with the godhead:[^72] 
 
 [^71]: For more on *vibhāva*, translated into French as “déterminants,” see BANSAT-BOUDON 1992, pp. 111-114.
+
 [^72]: The passage is cited by Jayaratha ad [[Tantraloka 01.136|TĀ 1.136]]. The source, the lost *Triśirobhairava*, was probably a Trika scripture prescribing the worship of a three-headed Bhairava. See TAK III at *trika* citing Sanderson.
 
 *[p. 474]* ^pg33
@@ -417,9 +443,13 @@ The practitioner should hold a bow and five arrows \[and remain vigilant?\] like
 The same *vrata* is also said to have been practiced by *lākula*s as pointed out in SANDERSON 2006, p. 209. Abhinavagupta mentions in his commentary on NŚ 12.85 that it existed for *lākula*s, in the so-called “stage of the highest yogi.”[^89] A similar *vidyāvrata*, under the name of *gaṇavrata*, but still with the prescription to behave like a madman, is also found in the earliest tantra, the *Niśvāsa*.[^90] Subsequently, it becomes recurrent in *śākta* tantras, often echoing the PSū and their commentary,[^91] as in the following passage of the BY 
 
 [^87]: It is not clear to me what this comparison to a guardian of a direction implies. Since the practitioner takes on the appearance of Kāma, it is unlikely (but not impossible) that he should look menacing (like a guardian of a direction).
+
 [^88]: *laukikaparīkṣakāṇāṃ sammohanārtham uktam unmattavad iti.*
+
 [^89]: *paramayogyavasthāyāṃ lākuladarśanapratipannānām unmattavratam apy asti*. Cited in SANDERSON 2006, p. 209.
+
 [^90]: *nṛtyate gāyate caiva unmatto hasate bruvan || bhasmāṅgī cīravāsaś ca gaṇa-vratam idaṃ smṛtam |* (*Niśvāsaguhya* 3.32cd-33ab). Note that the *Niśvāsaguhya* also has an observance in which one must be disguised as a woman, as in the *devīvrata: gāyate nṛtyate jāpī strīrūpī valabhūṣitaḥ* (3.35cd).
+
 [^91]: Cf. Kauṇḍinya on PSū 4.6 (*tato vaktavyaṃ māheśvaro ’haṃ kaumāro ’ham iti*) with verse 20 above. Parallel identified in KISS forthcoming, p. 30.
 
 *[p. 480]* ^pg39

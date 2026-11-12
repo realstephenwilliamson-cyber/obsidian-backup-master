@@ -33,8 +33,11 @@ Response
 47.2. The “voice of the one who” from the beginning “cries out in the wilderness”—by which I mean in human nature or in this world—is quite clearly every saint of God the Word, who, like Abel, rightly and sincerely offers the first movements of his soul’s contemplation, fattened by the virtues.[^3] \[1\] Or like Enosh, who by means of the steadfast hope of faith, took hold of the good things to come, for which he had hoped, and vigorously called out to God.[^4] \[2\] Or like Enoch, who, having pleased God by all his virtues, and having completely removed his intellect from its relation to and knowledge of beings, was completely and unconditionally translated to the Cause that is beyond 
 
 [^1]: [[Luke 03#^3-4|Lk 3.4]]; cf. Is 40.3–5.
+
 [^2]: [[Luke 03#^3-4|Lk 3.4–6]].
+
 [^3]: Cf. [[Torah 01 - Bereshit#^4-4|Gn 4.4]]; [[Ezekiel 39#^39-18|Ezek 39.18]].
+
 [^4]: Cf. [[Torah 01 - Bereshit#^4-26|Gn 4.26]].
 
 *[p. 258]* ^pg277
@@ -42,12 +45,19 @@ Response
 intellection.[^5] \[3\] Or like Noah, who, having contemplated by faith the future forms of the divine judgment, built for himself, after the manner of an ark, an ascetic way of life, covering him “from the coming wrath”[^6] \[4\] and secured on all sides by the fear of God.[^7] Or like Abraham, who, having seen with the pure eye of faith the beauty of the good things to come,[^8] readily obeyed the command to depart from his country, and his kindred, and his father’s house,[^9] \[5\] and, leaving behind relation and attachment to flesh, sensation, and sensory things, and being above nature in the time of testing and struggles, he preferred the Cause of nature over nature, just as he, the great Abraham, preferred God over Isaac.[^10] Or like Isaac, who, through extreme dispassion and the beautiful greediness of his soul for contemplation, possessed a habit of virtue and knowledge that was immovable\[6\] from the truth, even when he was under attack by wicked spirits. Or like Jacob, who purified his intellect of the hairiness of material things and the tangled confusion that surrounds them, making it smooth; and who, by covering himself with the skins of goats—by which I mean the rough treatment of the flesh through a godly life—acquired power from God to rule over the mind of the flesh.[^11] Fearing, however, the insurrection of the passions, and yearning for loftier instruction according to experience, he relocated to Harran,[^12] by which I mean he advanced to natural contemplation, from which he received, through many practical labors, the whole spiritual understanding of the visible world, a knowledge gathered up from various thoughts and concepts, after which he returned to his father’s land and home, that is, the knowledge of intelligible realities, bringing with him, as if they were women and servants, the fixed habits of mind and activities that were born to him equally from ascetic practice and contemplation, along with the 
 
 [^5]: Cf. [[Torah 01 - Bereshit#^5-19|Gn 5.19–24]].
+
 [^6]: [[Luke 03#^3-7|Lk 3.7]].
+
 [^7]: Cf. [[Matthew 03#^3-7|Mt 3.7]]; [[Luke 03#^3-7|Lk 3.7]].
+
 [^8]: Cf. [[Hebrews 11#^11-1|Heb 11.1]].
+
 [^9]: [[Torah 03 - Lech Lecha#^12-1|Gn 12.1]].
+
 [^10]: Cf. [[Torah 04 - Vayera#^22-1|Gn 22.1–8]].
+
 [^11]: Cf. [[Romans 08#^8-6|Rom 8.6]].
+
 [^12]: Cf. [[Torah 06 - Toldot#^27-11|Gn 27.11–16]], [[Torah 06 - Toldot#^27-23|23–28]].
 
 *[p. 259]* ^pg278
@@ -59,8 +69,11 @@ sons who were born to him from these, whoever they might happen to be.[^13] \[7\
 47.4. To begin, then, the “wilderness,” as I said a moment ago, is human nature, as well as this world, and each particular soul, which because of the ancient transgression is barren of good things. The “voice of the Word that cries out” is each person’s conscious awareness of his offenses, crying out, as it were, from the hidden place of the heart: “Prepare the way of the Lord.”[^16] To be sure, a clear and obvious “preparation” of the divine way is the transformation and correction of one’s manner of life and thought to what is better, along with the purification of former defilements. The good and glorious “way” is the life of virtue, on which, as if on a way, the Word unfolds the course of salvation in each person through faith, indwelling and walking about by means of the various ordinances and doctrines consistent with virtue and knowledge. The “paths” of the Word are the different modes of the virtues and the different
 
 [^13]: Cf. [[Torah 07 - Vayetzei#^31-17|Gn 31.17–21]].
+
 [^14]: Cf. *Amb*. 21.14 (DOML 1:440–41), where Maximos discusses this notion at length.
+
 [^15]: [[John 01#^1-29|Jn 1.29]].
+
 [^16]: [[Luke 03#^3-4|Lk 3.4]].
 
 *[p. 260]* ^pg279
@@ -80,7 +93,9 @@ modes of living according to God, that is, behaviors consistent with God. These 
 47.8. “Crooked things” will be “made straight”\[10\] when the intellect, having freed the members of the body (that is, the faculties of sense perception) from the passions, and having cut off the rest of its activities linked to pleasure, will teach them to move according to their simple principle of nature, guiding them in a straight line to the Cause by which they came into being
 
 [^18]: [[2 Corinthians 10#^10-5|2 Cor 10.5]].
+
 [^19]: Or “vice” (κακ α).
+
 [^20]: See above, Qu. 26.3–4; and below, Qu. 58.2, 10–12.
 
 *[p. 262]* ^pg281
@@ -88,10 +103,15 @@ modes of living according to God, that is, behaviors consistent with God. These 
 . The “rough ways,” that is, the attacks of involuntary trials,\[11\] will become “smooth” when the intellect rejoices and accepts infirmities, tribulations, and distress,[^21] removing, by means of involuntary sufferings, all the power of the voluntary passions. For whoever desires true life, and who recognizes that every pain, whether voluntary or involuntary, is the death of pleasure, which is the mother of death,\[12\] will accept with gladness all the “rough” attacks of involuntary passions. And he finds joy in his patient endurance, and makes his troubles into “ways that are broad and smooth,” and, piously making his course along them, they convey him undeviatingly toward the “reward of his calling from on high.”[^22] Anyone, then, who through chaste self-control has unraveled the twisted and tangled threads of pleasure, which in many different ways have been interwoven equally with all the faculties of sense perception, has “made the crooked ways straight.” And anyone who with patience has trampled down the impassable and “rough” attacks of sufferings, has “made the rough ways smooth.” Thus, as the prize of virtue\[13\] and of labors undertaken for virtue—since he contended nobly and “according to the rules of the contest,”[^23] and defeated pleasure by his longing for virtue, and trampled down pain by his ardent love of knowledge, and through both nobly passed through the divine contests—he will see the salvation of God. For it says that: “All flesh will see the salvation of God,”[^24] in accordance with the promise: “I will pour out my Spirit upon all flesh.”[^25] That is, all flesh that is *faithful* will see the salvation of God, not all flesh in general—and certainly not the flesh of the impious, if the word is true which said: “Let the impious be taken away, so that he may not see the glory of the Lord”[^26]—but specifically all flesh that is faithful. To be sure, the word of Scripture customarily uses a part to refer to the whole, and in this case the “flesh” refers to the whole human being, as if 
 
 [^21]: [[2 Corinthians 06#^6-4|2 Cor 6.4]], [[2 Corinthians 12#^12-10|12.10]].
+
 [^22]: [[Philippians 03#^3-14|Phil 3.14]].
+
 [^23]: 2 Tm 2.5.
+
 [^24]: Cf. [[Luke 03#^3-6|Lk 3.6]]; Is 40.5.
+
 [^25]: [[Acts 02#^2-17|Acts 2.17]]; Jl 3.1.
+
 [^26]: Is 26.10.
 
 *[p. 263]* ^pg282
@@ -101,8 +121,11 @@ Scripture were proclaiming: “Every human being will see the salvation of God.�
 47.9. Consistent with this, it is possible for those who seek the loftier contemplations perhaps to view this passage differently, understanding the soul—as if “in a wilderness” barren of the passions—as the “voice” of divine wisdom and knowledge invisibly crying out through the virtues.\[15\] For in proportion to each, the one and the same Word becomes “all things in all,”[^29] entering into each, and, like a precursory voice, gives in advance the grace that prepares each one for His coming.[^30] In some, this grace is repentance as a precursor to the coming righteousness; in others, it is virtue as preparation for the 
 
 [^27]: [[2 Corinthians 10#^10-5|2 Cor 10.5]].
+
 [^28]: [[Matthew 05#^5-8|Mt 5.8]].
+
 [^29]: [[1 Corinthians 09#^9-22|1 Cor 9.22]].
+
 [^30]: Cf. *Amb.* 21.14–16 (DOML 1:440–47).
 
 *[p. 264]* ^pg283
@@ -116,14 +139,23 @@ Scholia
 \[2\] The one who has recognized and truly hoped for[^39] the things of the future never ceases to call out, through his practice, for that which he hopes, and becomes another Enosh, calling upon God.[^40]
 
 [^31]: Cf. above, Qu. 15.5.
+
 [^32]: Cf. [[Hebrews 11#^11-32|Heb. 11.32]].
+
 [^33]: Cf. [[LXX Psalms 83|Ps 83.5]].
+
 [^34]: “Manifestations” renders the Greek word *epinoias* (ἐπ νο ας) which Maximos uses in this same sense in *Amb.* 31.9; *Amb*. 32.4; *Amb*. 62.2 (DOML 2:50; 56; DOML 2:268); and below, Qu. 63.7. Normally translated as “notion” or “concept” (in the sense of a rational or mental construct), *epinoia* here means something like “idea” or “aspect” in the sense of “principle” (*LSJ,* s.v., lists “purpose” as well as “design”). The relation of these usages to Origen’s use of the term is not immediately clear, since Origen distinguished between *epinoiai* belonging to the Logos in Himself (and in His relation to God), and those He possessed in His relation to creation. God the Father had no such *epinoiai* because of His absolute simplicity. The Logos, on the other hand, was multiform from a soteriological point of view, as well as in respect of His ontological constitution. When this latter concept was radicalized by the Neo-Arians, for whom multiplicity signaled the inferior ontological status of the Logos, the Cappadocians were forced to reduce the term to human notions about Christ, in order to avoid positing multiplicity in the divine essence; cf. Aloys Grillmeier, *Christ in Christian Tradition,* vol. 1, trans. John Bowden (Westminster: John Knox, 1975), 141–43.
+
 [^35]: 1 Cor 9 22.
+
 [^36]: [[Romans 02#^2-4|Rom 2.4]].
+
 [^37]: Cf. [[Ezekiel 39#^39-18|Ezek 39.18]].
+
 [^38]: [[Torah 01 - Bereshit#^4-4|Gn 4.4]].
+
 [^39]: Cf. [[Torah 01 - Bereshit#^4-26|Gn 4.26]].
+
 [^40]: Cf. ibid.
 
 *[p. 265]* ^pg284
@@ -147,7 +179,9 @@ Scholia
 \[11\] He called the occurrences of involuntary trials “rough ways,” which can be transformed into “ways that are smooth” through patient endurance and gratitude.
 
 [^41]: [[Torah 01 - Bereshit#^5-24|Gn 5.24]] (all quotations in this sentence).
+
 [^42]: Cf. [[Luke 03#^3-7|Lk 3.7]].
+
 [^43]: Cf. [[Torah 06 - Toldot#^26-2|Gn 26.2–6]]; [[Torah 12 - Vayechi#^47-28|47.28]]; [[Torah 12 - Vayechi#^50-1|50.1–3]].
 
 *[p. 266]* ^pg285

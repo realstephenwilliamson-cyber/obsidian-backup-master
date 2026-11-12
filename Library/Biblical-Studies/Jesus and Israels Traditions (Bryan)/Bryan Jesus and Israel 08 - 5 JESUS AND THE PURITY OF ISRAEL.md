@@ -41,10 +41,15 @@ Sanders has successfully demonstrated that Neusner wrongly deduced that the Phar
 Sanders allows that the Pharisees sought a higher state of purity than did the *am ha aretz* in four ways. They sought to avoid (1) ‘fly-impurity’, that is, the impurity imparted by the carcass of a ‘swarming thing’ especially to tables, vessels, liquids and moistened foods;[^7] (2) *midras*-impurity, that is, the secondary impurity of things touched by someone with a discharge,
 
 [^2]: See e.g. J. Neusner, *Rabbinic Traditions About the Pharisees Before 70* (Leiden: E. J. Brill, 1971), vol. II, pp. 294 –300.
+
 [^3]: E. P. Sanders, *Jewish Law*, p. 188.
+
 [^4]: Ibid., pp. 245–6.
+
 [^5]: Ibid., p. 192.
+
 [^6]: Ibid., pp. 245–6.
+
 [^7]: W. Houston (*Purity and Monotheism: Clean and Unclean Animals in Biblical Law* (JSOTSup; Sheffield Academic Press, 1993), p. 51 n. 1) comments that Sanders ‘is of course quite incorrect in referring to the dietary pollution conveyed under this law \[[[Torah 26 - Shmini#^11-29|Lev. 11:29–35]]\] as “fly-impurity”. Flies, which were not “swarming things that swarm upon the ground” but swarming things of the air, could not convey ritual impurity.’ Sanders (*Judaism*, pp. 520–1 n. 17) has acknowledged the mistake.
 
 *[p. 132]* ^pg150
@@ -54,10 +59,15 @@ a menstruant or woman in the first stage of childbirth-impurity; (3) corpse-impu
 In this respect, at least, Neusner has the better part. In considering the biblical stipulation that intercourse with a menstruant pollutes the Land, Neusner detects in Scripture the principle which in his view would be greatly expanded by the Pharisees, namely, the idea that pollution of the Land cannot be separated from pollution of the cult. ‘\[T\]he Land is the locus of the Temple’; there is ‘no way to distinguish cult from people and Land, and the cleanness of the latter is directly and repeatedly related to the preservation of the holiness of the former’.[^13]
 
 [^8]: For a summary, see E. P. Sanders, *Jewish Law*, pp. 231–5.
+
 [^9]: Ibid., pp. 204–5. So also J. Milgrom, *[[Torah 24 - Vayikra#^1-1|Leviticus 1]]–16: A New Translation with Introduction and Commentary* (AB; New York: Doubleday, 1991), p. 1006.
+
 [^10]: E. P. Sanders, *Jewish Law*, p. 235.
+
 [^11]: For a similar argument, cf. B. Chilton, ‘The Purity of the Kingdom as Conveyed in Jesus’ Meals’, *Society of Biblical Literature 1992 Seminar Papers* (ed. E. H. Lovering, Jr; Atlanta: Scholars Press, 1992), pp. 478–9.
+
 [^12]: For instance, Sanders (*Jewish Law*, pp. 149–51) makes much of the fact that it would have been economically unfeasible for a Pharisee to expel his wife during menstruation and after childbirth in order to live like a priest. But would priests have found such expulsion any more feasible?
+
 [^13]: J. Neusner, *A History of the Mishnaic Law of Purities* (Leiden: Brill, 1974–77), vol. XXII, pp. 29–35. On the connection between the purity of the Temple and the Land, see below.
 
 *[p. 133]* ^pg151
@@ -71,7 +81,9 @@ In a moment I shall attempt to fill out Neusner’s suggestion that the connecti
 We are left with something of a conundrum. On the one hand, Neusner is partially correct: the Pharisees *did* attempt to adopt some of the purity regulations that had been laid down for priests; on the other hand, Sanders has demonstrated that this Pharisaic programme stopped short of an
 
 [^14]: Ibid., vol. XVI, p. 211.
+
 [^15]: In this respect, the views of Sanders and Neusner oddly converge, except that the apparently nonsensical view of cleanness that Neusner attributes to Scripture is held by Sanders to apply also to the Pharisees and many other Jews.
+
 [^16]: Milgrom, *[[Torah 24 - Vayikra#^1-1|Leviticus 1]]–16*, pp. 1004–9.
 
 *[p. 134]* ^pg152
@@ -107,7 +119,9 @@ It is this latter proposition that must now be investigated. I concede that Sand
 The idea that minor uncleanness could be considered as cleanness for common food is frequent in rabbinic writings. The assertion ‘third-grade uncleanness counts as clean in common food’ is repeated like a mantra in *m. T. Yom.* 4.1–3. But how early is this idea? In *t. Ter*. 3.12 the Houses debate when a vat for winepressing can be made unclean. Neusner, following Lieberman, explains that the vat may have been intentionally rendered unclean so as to leave no doubt as to its status and thus to encourage care in permitting clean things to touch it.[^22] Whether or not this explanation is valid, the debate concerns the point at which the cleanness of the vat ceases to matter with respect to the sacred portions of its contents. Shammaites said it no longer matters after the first tithe has been removed, that is, the portion from which heave offering of tithe would be taken. Hillelites, by contrast, permitted the vat to be made unclean only after second tithe had been removed. Clearly, the Hillelite position is more stringent, but for present purposes the Shammaite position is more interesting. It presupposes that the vat can be rendered unclean *while second tithe is still*
 
 [^20]: Ibid., p. 197.
+
 [^21]: See, for example, [[Torah 26 - Shmini#^11-39|Lev. 11.39–40]] where only sunset is specified but immersion is probably implied for eating the flesh of a permitted animal which has died naturally.
+
 [^22]: Neusner, *Rabbinic Traditions*, vol. II, p. 87.
 
 *[p. 137]* ^pg155
@@ -127,6 +141,7 @@ A similar point emerges in regard to handwashing. It is true, as Sanders emphasi
 The point follows from several considerations. The Houses decreed that the one who ate food which was unclean in the second degree could invalidate heave offering, that is, communicate to it third-degree uncleanness by touch (*m. Zab* 5.12; *y. Shab*. 1.4; *b. Shab*. [[Shabbat 13#13b|13b]]).[^24] In addition, heave offering could be similarly invalidated by direct contact with food of second-degree impurity (or, for that matter, with anything of second-degree impurity).[^25] In other words, second-degree impure food and the eater of second-degree impure food have the same defiling effect on heave offering. What this suggests is that, in this case at least, *consumption communicates impurity more completely than contact, for the eater*
 
 [^24]: There is widespread acceptance of the Palestinian and Babylonian Talmud’s report that the so-called Eighteen Decrees (of which ten are the rules concerning what invalidates heave offering, *m. Zab*. 5.12) go back to the Houses. But as G. Alon (‘The Levitical Uncleanness of Gentiles’, *Jews, Judaism and the Classical World: Studies in the Times of the Second Temple and Talmud* (trans. I. Abrahams; Jerusalem: Magnes Press, 1977), p. 156) notes, the Decrees should not be read as if they were innovations made at the time they were issued but as a consolidation of earlier *halakhah*, making it likely that the *halakhah* concerning the eating of second-degree impure food was already current in Jesus’ day. Cf. the similar conclusion of R. P. Booth, *Jesus and the Laws of Purity: Tradition History and Legal History in Mark 7* (JSNTSup; Sheffield: JSOT Press, 1986), pp. 184–5.
+
 [^25]: The point follows from the principle, which is basic to both the purity code of Scripture and the Mishnaic system, that the defiling subject communicates one degree less uncleanness to the defiled object. But the principle is made explicit for the specific case we are considering in the anonymous *m. Toh*. 2.3 where common food with second-degree uncleanness renders heave offering invalid.
 
 *[p. 139]* ^pg157
@@ -138,7 +153,9 @@ But what happens to ordinary food when touched with unwashed hands? Two initial 
 I can now add this conclusion to the preceding observation that common food of second-degree impurity defiled the one who ate it not in the third but in the second degree. This means that clean persons who ate with unwashed hands would defile themselves to the second degree. What were the practical consequences of this? Such persons were (1) capable of invalidating heave offering; (2) obliged to immerse themselves and wait for sunset in order to return to a state of cleanness. The latter obligation is plain from the fact that second-degree uncleanness of hands required
 
 [^26]: The hypothesis of J. C. Poirier (‘Why Did the Pharisees Wash Their Hands?’, *JJS* 47 (1996), 217–33) that the Pharisees believed ingestion of unclean food would defile their inward parts is rendered unlikely not only by the meagreness of the evidence that a distinction between external and internal defilement was made, but by the fact that the rabbinic writings treat uncleanness resulting from the ingestion of unclean food in the same way as other sorts of uncleanness. Poirier says that the Pharisees did not believe immersion rectified interior uncleanness, but in that case we would expect to find discussions of purification procedures for inward uncleanness. It is debatable whether the Pharisees would have also held that the eater is rendered impure in the same degree as that which was eaten in the case of one who eats food of *first*-degree uncleanness. Rabbis Eliezer and Joshua were still debating the defiling effect of eating first-degree impure food at the end of the first century (*m. Toh.* 2.2). But the principle of the ten decrees that the one who eats second-degree impure food contracts second-degree uncleanness remained undisputed.
+
 [^27]: See E. P. Sanders, *Jewish Law*, pp. 228–9; Neusner, *Rabbinic Traditions*, vol. I, p. 317.
+
 [^28]: See Booth, *Jesus*, p. 184.
 
 *[p. 140]* ^pg158
@@ -178,8 +195,11 @@ Jenson’s chart does illustrate the fact that the degree of cleanness required 
 Though Jenson does not note it, the spectrum he lays out is a subset of a larger structure which corresponds roughly to the first of his four dimensions: sanctuary, Land, foreign territory. As Wright indicates, this structure echoes on a larger scale the structure of the wilderness camp with its three grades: sanctuary, camp, outside the camp.[^34] Similarly analogous is the tripartite structure of the sanctuary itself: holy of holies (adytum), holy place (shrine), court. The court of Herod’s Temple assumed a threefold division into the court of Israel, the court of women and the outer court. There is also evidence for the development of another gradation – sanctuary, city (Jerusalem), Land. These latter two substructures
 
 [^31]: D. P. Wright, ‘The Spectrum of Priestly Impurity’, in *Priesthood and Cult in Ancient Israel* (ed. G. A. Anderson and S. M. Olyan; JSOTSup; Sheffield Academic Press, 1991), p. 153.
+
 [^32]: D. P. Wright (‘Review of *Graded Holiness: A Key to the Priestly Conception of the World*’, *HS* 35 (1994), 162) suggests that separate graded scales are needed for holiness and impurity.
+
 [^33]: This corresponds to the basic anthropological insight of M. Douglas, *Purity and Danger: An Analysis of the Concepts of Pollution and Taboo* (London: Routledge & Kegan Paul, 1966), p. 41: ‘Defilement is never an isolated event’ and ‘cannot occur except in view of a systematic ordering of ideas’.
+
 [^34]: D. P. Wright, ‘Unclean and Clean (OT)’, in *ABD* (ed. D. N. Freedman; New York: Doubleday, 1992), vol. VI, p. 740.
 
 *[p. 143]* ^pg161
@@ -203,10 +223,15 @@ Tolerated impurities, however, are more than simply passive reflections of prohi
 It must be emphasized that this is not the standard division of ‘ritual’ and ‘moral’ which cannot account for the fact that severe bodily impurity and prohibited impurity alike pollute the sanctuary and the Land and lead to concrete consequences for the individual. Sanders seems aware that the traditional distinction between ‘ritual’ and ‘moral’ impurity is inadequate. But he nevertheless continues to make the distinction and, corresponding to this, isolates ‘ritual’ impurity from prohibited impurity.[^40] The decision is fateful, for it means that he cannot see the fundamental relationship between purity, holiness and, ultimately, election.[^41] And this, in turn,
 
 [^36]: D. P. Wright, ‘Spectrum’, pp. 170–4.
+
 [^37]: Ibid., pp. 174–5.
+
 [^38]: Ibid., p. 177.
+
 [^39]: Ibid., pp. 178–9.
+
 [^40]: E. P. Sanders, *Jewish Law*, pp. 137–9.
+
 [^41]: Cf. M. Hengel and R. Deines, ‘E. P. Sanders’ “Common Judaism”, Jesus, and the Pharisees’ (trans. D. P. Bailey), *JTS* 46 (1995), 46.
 
 *[p. 146]* ^pg164
@@ -222,8 +247,11 @@ Having established a broader framework, I now look more carefully at the way tha
 This, however, is not to say that the connection between sanctuary and Land defilement is totally specified, and texts which speak of the pollution of the people complicate the matter further. Still, certain parallels emerge. In particular, it appears that both pollution of the Land and defilement of the sanctuary have a cumulative effect. Only in the case of murder is a Land-polluting sin explicitly made eligible for purification: the Land is cleansed through the death of the perpetrator ([[Torah 43 - Masei#^35-33|Num. 35.33]]). Perhaps we should extrapolate this principle to other Land-polluting sins,[^45]
 
 [^42]: Intercourse with a relative’s wife, child sacrifice, homosexuality, bestiality ([[Torah 29 - Achrei Mot#^18-20|Lev. 18.20–5]]), making one’s daughter a prostitute ([[Torah 30 - Kedoshim#^19-29|Lev. 19.29]]), consultation with mediums, all manner of sexual perversion and incest ([[Torah 30 - Kedoshim#^20-6|Lev. 20.6–23]]), murder ([[Torah 43 - Masei#^35-30|Num. 35.30–4]]), allowing an executed criminal to hang on a tree overnight ([[Torah 49 - Ki Teitzei#^21-22|Deut. 21.22–3]]), and retaking a first wife after she has been married to another ([[Torah 49 - Ki Teitzei#^24-4|Deut. 24.4]]).
+
 [^43]: See Milgrom, *[[Torah 24 - Vayikra#^1-1|Leviticus 1]]–16*, p. 258.
+
 [^44]: D. P. Wright, ‘Spectrum’, p. 162.
+
 [^45]: So e.g. E. P. Sanders, *Jewish Law*, p. 139.
 
 *[p. 147]* ^pg165
@@ -235,6 +263,7 @@ the bringing of the think of texts which speak of the pollution of people in thi
 The close intertwining of purity, Temple and Land is evident also at Qumran where the perceived pollution of the Land presents an acute problem for the community in view of their strong belief in the imminent eschatological action of God. How could this action take place and the hopes of the community to possess the Land be fulfilled when the Land had been defiled by the wickedness of the nation? Still the hopes remained. Indeed the community conceived of itself as an end-time ‘planting in the Land’, the congregation of the poor who were about to inherit the
 
 [^46]: So D. P. Wright, ‘Spectrum’, p. 162.
+
 [^47]: Priests as well as prophets could envision circumstances in which God refused to accept the people’s sacrifices!
 
 *[p. 148]* ^pg166
@@ -260,7 +289,9 @@ in [[Torah 17 - Yitro#^19-6|Exodus 19.6]], it is taken up and repeated verbatim 
 It is God who has saved all his people, and has returned the inheritance to all, and the kingship and priesthood and consecration (τὴν κληρονομίαν πᾶσιν καὶ τὸ βασίλειον καὶ τὸ ἱεράτευμα καὶ τὸν ἁγιασμόν), ἔ as he promised through the law. We have hope in God that he will soon have mercy upon us and will gather us from everywhere under heaven into his holy place, for he has rescued us from great evils and has purified the place. Here ; βασίλειον is construed not adjectivally as it was in the LXX of [[Torah 17 - Yitro#^19-6|Exodus 19.6]] but as a substantive in its own right.[^50] Against the NRSV, βασίλειον in [[LXX 2 Maccabees 02#^2-17|2 Maccabees 2.17]] should be rendered ‘kingdom’ rather than ‘kingship’, and ‘kingdom, priesthood and consecration’ understood as constituent elements along with the Land (the probable meaning of ‘inheritance’) of the restoration which God had lately granted to ‘all the people’.[^51] The eschatological context is significant: already the restoration that would soon include the regathering of dispersed Jews had yielded the return of Israel’s inheritance, the establishment of the kingdom, and their unique identity as his priestly and holy people.
 
 [^49]: Of course, it is not possible to know whether the insertion belonged to the original translation, though the evidence indicates it was quite early. So J. W. Wevers, *The Textual History of the Greek Exodus* (G ¨ottingen: Vandenhoeck & Ruprecht, 1992), p. 246. D. R. Schwartz (‘ “Kingdom of Priests” – a Pharisaic Slogan?’, *Studies in the Jewish Background of Christianity* (WUNT; T ¨ubingen: J. C. B. Mohr (Paul Siebeck), 1992), p. 59 n. 7) attributes the repetition to scribal error, but this is a speculation for which there is neither textual nor internal support. The fact that the introductory words of 19.5 have been modified to fit this new context indicates that the duplication was deliberate. The translator may have wanted to frame the account of the giving of the law with the words of 19.6, thus emphasizing that the fulfilment of 19.6 would hinge on Israel’s obedience to the law, see O. Camponovo, *K ¨onigtum, K ¨onigsherrschaft und Reich Gottes in den fr ¨uhj ¨udischen Schriften* (OBO; Freiberg: Universiẗatsverlag; G ¨ottingen: Vandenhoeck & Ruprecht, 1984), p. 385.
+
 [^50]: See J. A. Goldstein, *II Maccabees: A New Translation with Introduction and Commentary* (AB; Garden City: Doubleday, 1983), p. 188. The LXX of [[Torah 17 - Yitro#^19-6|Exod. 19.6]] is somewhat ambiguous because of the construction βασίλειον ἱεράτευμα: βασίλειον may be either an adjective or a substantive. In 2 Maccabees, it is clearly taken as a substantive. The author of [[LXX 2 Maccabees 02#^2-17|2 Macc. 2.17]] could hardly have understood Ϊ βασίλειον in [[LXX Exodus 19#^19-6|Exod. 19.6]] LXX as ‘kingship’. In other texts where a conjunction has been inserted between the two terms, it is ‘kingdom’ rather than ‘kingship’ that is in view. See *Jub.* 16.18; 33.20; [[Revelation 01#^1-6|Rev. 1.6]]; [[Revelation 05#^5-10|5.10]]; *Tg. Onq.* and *Tg. Ps.J.* of [[Torah 17 - Yitro#^19-6|Exod. 19.6]].
+
 [^51]: The emphasis on God’s salvation and return of the inheritance to *all* the people (πάντα *. . .* . πᾶσιν *. . .* ) may indicate a concern to show that God’s deliverance extends to the Diaspora (see [[LXX 2 Maccabees 02#^2-18|2 Macc. 2.18]]).
 
 *[p. 150]* ^pg168
@@ -270,6 +301,7 @@ Similarly, *Jubilees* 16.18 takes up [[Torah 17 - Yitro#^19-6|Exodus 19.6]] and 
 These texts in *Jubilees* are particularly significant for two reasons. First, *Jubilees* provides an indication of the nature of Israel’s priesthood in relation to that of Levi’s descendants. *Jubilees* does not take the application of [[Torah 17 - Yitro#^19-6|Exodus 19.6]] to the whole of Israel to displace the unique priestly role of Levi’s descendants, which chapters 31–3 stress. However, *Jubilees* also indicates that it does not view the priesthood of Levi as completely distinct from that of Israel. This is perhaps best seen in the use of the priestly codes of [[Torah 31 - Emor#^21-1|Leviticus 21]] in the rhetoric of *Jubilees* 30 against intermarriage. The priestly regulation of [[Torah 31 - Emor#^21-9|Leviticus 21.9]] states, ‘When the daughter of a priest profanes herself through prostitution, she profanes her father; she shall be burned to death.’ But, as Endres observes, in *Jubilees* 30 this regulation is applied to any woman who marries a foreigner. The underlying narrative of the rape of Dinah by Shechem records the refusal of the sons of Jacob ‘to give *our sister* to a man who is uncircumcised’ ([[Torah 08 - Vayishlach#^34-14|Gen. 34.14]]). By contrast, *Jubilees* 30.12, aligning the wording with [[Torah 31 - Emor#^21-9|Leviticus 21.9]], has them assert, ‘We will not give *our daughter*’ to a man who is uncircumcised and then omits the biblical detail that Shechem and his clan had in fact undergone circumcision. *Jubilees* equates intermarriage with prostitution by the daughter of a priest and applies the law not only to daughters of priests but to all the daughters of Israel.[^53] Against Endres, it is not apparent that *Jubilees* makes priestly purity the norm for all Israel,
 
 [^52]: D. R. Schwartz, ‘Introduction: On the Jewish Background of Christianity’, *Studies in the Jewish Background of Christianity* (WUNT; T ¨ubingen: J. C. B. Mohr (Paul Siebeck),
+
 [^53]: J. C. Endres, *Biblical Interpretation in the Book of Jubilees* (CBQMS; Washington, DC: Catholic Biblical Association of America, 1987), pp. 137–42.
 
 *[p. 151]* ^pg169
@@ -281,8 +313,11 @@ Second, the broader context of *Jubilees* reveals that the *halakhah* laid down 
 It must be emphasized that none of these texts eliminate a special priestly class within Israel, despite their designation of the whole of (eschatological) Israel as a priesthood. This observation points up the false dichotomy set up by D. Schwartz’s study of this text. In considering the Jewish use of [[Torah 17 - Yitro#^19-6|Exodus 19.6]], Schwartz distinguishes between two possible applications: (1) to serve as a slogan for setting Jews above Gentiles; or (2) to agitate for the elimination of a priestly class within Israel. None of the texts just considered envision the elimination of a specially consecrated priesthood within Israel. Consequently, for Schwartz, those texts which do refer to all Israel as a priesthood should be read as innocuous references to the special holiness of Israel *vis \`a vis* the other nations.[^57] But the eschatological context of at least some of the references points to a third possibility, one that could easily serve as a rationale for submitting oneself to *some* but not all of the purity obligations laid on priests, which is precisely what some Jews did. My contention is that [[Torah 17 - Yitro#^19-6|Exodus 19.6]] was taken as an indication that eschatological Israel would live out its vocation as ‘a holy nation’ by taking on itself stipulations laid down for the priesthood which were not perceived to be intrinsic to the special role and consecration of the priestly class. Viewed in this way it is entirely
 
 [^54]: See C. Hayes, ‘Intermarriage and Impurity in Ancient Jewish Sources’, *HTR* 92 (1999), 3–36.
+
 [^55]: M. Himmelfarb’s analysis of what she calls ‘the democratization of the priesthood’ in *Jubilees* is useful, but she fails to note the eschatological framework in which it is placed; ‘ “A Kingdom of Priests”: The Democratization of the Priesthood in the Literature of Second Temple Judaism’, *JJTP* 6 (1997), 89–98.
+
 [^56]: For the use of [[Torah 17 - Yitro#^19-6|Exod. 19.6]] by Philo, see *De Sobr*. 66; *De Abr*. 56. Note also the fact that at Qumran, although no specific reference is made to [[Torah 17 - Yitro#^19-6|Exod. 19.6]], the whole community could be assigned priestly identity quite apart from priestly lineage, though without elimination of a special priestly class. Cf. e.g. CD 3.21–4.4.
+
 [^57]: Schwartz, ‘Introduction’.
 
 *[p. 152]* ^pg170
@@ -304,6 +339,7 @@ On that day there shall be inscribed on the bells of the horses, ‘Holy to the 
 (14.20–1) The text follows a description of the pilgrimage of nations to observe the yearly festival of booths in the eschaton and envisions the eschaton as a time in which the distinction between sacred and profane will have been obviated. Both the participation of the nations in the ancient festival marking God’s covenant with his holy people and the sacralization of
 
 [^59]: See further M. Newton, *The Concept of Purity at Qumran and in the Letters of Paul* (Cambridge University Press, 1985), pp. 36–8.
+
 [^60]: N. T. Wright (*Jesus*, p. 382) perceptively criticizes Sanders for viewing Jesus within the framework of restoration eschatology but then discussing questions of purity and the law ‘within the non-eschatological category of “patterns of religion” ’. I agree that for the Pharisees and others the purity pursuits were eschatologically motivated. Wright, however, does not give due consideration to the ways in which eschatological concerns shaped the particular forms which the pursuit of purity assumed in the first century. It is not simply a heightened zeal for Jewish identity markers which reveals the eschatological motivations of Jesus’ contemporaries but rather the specific approaches which were taken to matters such as purity in the light of Jewish expectations concerning the eschaton.
 
 *[p. 154]* ^pg172
@@ -317,6 +353,7 @@ They shall bring all your kindred from all the nations as an offering to the LOR
 ([[Isaiah 66#^66-20|Isa. 66.20–1]]) The text is difficult, not least because of the uncertain antecedents of several of the pronouns. Most scholars agree that the kindred being brought from the nations are dispersed Israelites. Those who bring them are from among the ‘survivors’ of the nations who have come up to Jerusalem. But from whom is the LORD to take some as priests and Levites? Grammatically either the Israelite ‘kindred’ or the Gentile ‘survivors’ of verse 19 are possible. If the former, the idea is radical in its own right – the democratization of the priesthood.[^61] But is this radical with ‘also’, but if the term enough? The NRSV translates the adverb intensifies, ‘the phrasing “*even* from them” suggests that the more surprising of the options is more likely – that the prophet does anticipate priestly service performed by foreigners’.[^62] Either way, but all the more if foreign priests are in view, it seems that the author envisions a time in which the Torah-enshrined distinctions between what is holy and common will have disappeared. This is confirmed by the peculiar analogy of verse 20, for it requires us to understand the sundry means of transport by which dispersed Jews are brought to the holy mountain as suitably pure for contact with sancta. If the notion differs slightly from that of Zechariah it is in the vision of uniform purity rather than universal holiness. But the result is much the same. If even common things are insusceptible to
 
 [^61]: Cf. B. Schramm, *The Opponents of Third Isaiah: Reconstructing the Cultic History of the Restoration* (JSOTSup; Sheffield Academic Press, 1995), p. 172.
+
 [^62]: B. D. Sommer, *A Prophet Reads Scripture: Allusion in [[Isaiah 40#^40-1|Isaiah 40]]–66* (Stanford University Press, 1998), p. 148.
 
 *[p. 155]* ^pg173
@@ -326,6 +363,7 @@ impurity, a principal way of marking the distinction between common and holy is 
 The idea is not developed in any meaningful way in the intertestamental literature but there are texts which anticipate a time when all impurity will have disappeared. In *Jubilees* 4.26, as in Zechariah, the expectation is connected to a vision of universal holiness: Mount Zion ‘will be sanctified in the new creation for the sanctification of the earth. For this reason the earth will be sanctified from all its sins and from its uncleanness into the history of eternity.’ A similar perspective recurs at the end of the book: ‘The jubilees will pass by until Israel is pure of every sexual evil, impurity, contamination, sin and error. They will live confidently in the entire land. They will no longer have any satan or any evil person. The land will be pure from that time until eternity’ (50.5). So also, the exaggerated view of the diluvian purgation in *1 Enoch* 10.22, which anticipates final judgement: ‘And all the children of men are to become righteous and all nations shall serve and bless me and all shall worship me. And the whole earth shall be freed from all defilement and from all uncleanness *. . .*’[^63] Most of these references pertain to moral impurity and are commonly taken in a merely metaphorical sense. But while I would not deny that it is possible to speak of impurity in a metaphorical way, it seems clear from the foregoing considerations that moral impurity was frequently perceived as being every bit as real and its consequences just as concrete as its so-called ‘ritual’ counterpart.[^64] Moreover, it is easy to see how the abolition of even physical impurities could be associated with the still more widely attested anticipation of absolute Torah-conformity in the eschaton, for physical impurities could be seen as the direct or indirect result of moral failure. Even in Scripture, impurity is sometimes inflicted as punishment for sin (e.g. [[II Samuel 03#^3-29|2 Sam. 3.29]]; [[Torah 36 - Beha'alotcha#^12-10|Num. 12.10]]; [[II Kings 15#^15-5|2 Kings 15.5]]). At Qumran, at least, the connection is absolutized, for even tolerated physical impurity was thought to be a result of sin. Thus does 4Q512 ‘include formulae of repentance within a blessing that is presumably to be recited upon purification from menstrual impurity’, and 4Q274 stipulate that those with genital emissions must sit alone in sorrow until they have been purified.<sup>65</sup> The close association between purity and their self-identity as ‘the men of perfect holiness’ (CD 20.2, 5, 7; 1QS 8.20) as well as the refusal to admit any with bodily impurity to the eschatological assembly (1QSa 2.3–9; 1QM 7.4, 5) suggest that the covenanteers struggled to
 
 [^63]: Black’s translation.
+
 [^64]: Cf. the conclusion of Klawans (‘Immorality’, 15) ‘that many of the \[references to moral impurity\] that have been assumed to be metaphorical are not’.
 
 *[p. 156]* ^pg174
@@ -355,6 +393,7 @@ Nearly all discussion of ‘the unpardonable sin’ ([[Mark 03#^3-28|Mark 3.28�
 In chapter 3, I examined a number of texts which regarded certain sins as equivalent to apostasy and therefore not subject to repentance and forgiveness. A few texts specifically associate such sins with impurity. So, for instance, in 1QS 8.20–6 where deliberate sin results in permanent expulsion, inadvertent sin, extended exclusion from the pure Meal and the Council. It would be difficult to state the matter more emphatically. Inadvertent sin called a member’s election into question; deliberate sin invalidated the claim altogether. Inadvertent sin rendered the offender ‘ritually’ impure; deliberate sin rendered the offender perpetually impure.[^67] *Jubilees* reflects a similar perspective in its declaration
 
 [^66]: Luz (*Matth ¨aus: 2 Teilband*, pp. 263–7) observes that the saying assumes the Jewish distinction between forgivable and unforgivable sins, but the observation is dropped and plays no part in his exegesis.
+
 [^67]: CD 10.3 appears to have a more moderate stance in its disqualification as a witness against others of ‘someone who has deliberately transgressed any precept until he has been purified to return’. The contradiction with 1QS may be ameliorated if, as Schiffman (*Sectarian Law*, p. 61) argues, a distinction was made between transgression of sectarian precepts and violation of a clear stipulation of Torah, with the former being in view in CD 10.3. Whatever the case, it is clear that even transgression of sectarian precepts rendered the offender impure.
 
 *[p. 158]* ^pg176
@@ -366,10 +405,15 @@ The perspective of Torah is similar, though Milgrom has recently argued that Tor
 The rabbis exercised themselves not a little over the question of what counted as unpardonable sin. Some rabbinic writings indicate that the primary reference in [[Torah 37 - Sh'lach#^15-30|Numbers 15.30–1]] is idolatry,[^71] though other sins which ‘dishonour Torah’ are not thereby excluded.[^72] Some later rabbinical material substantially develops the principle Milgrom believes to be already at work in Torah itself: ‘R. Simeon B. Lakish said: Great is repentance, which converts intentional sins into unintentional ones’ (*b. Yoma* [[Yoma 86#86b|86b]]). Unlike Torah, this implies that there are no inherently unpardonable sins; only sins for which no repentance is made are unforgivable.[^73] Another form of rabbinic leniency in the application of [[Torah 37 - Sh'lach#^15-30|Numbers 15.30–1]] turns in part on the contemplation of non-cultic means of atonement, namely, suffering and death. Thus, in *t. Yoma* 4.6–8, the deliberate violation of a command for which *k* ¯*ar*¯*et* or capital punishment is required is atoned for through repentance and the Day of Atonement (to suspend the punishment) but also suffering for the rest of the year to wipe away the sin; desecration of the divine name is atoned for through repentance, the Day
 
 [^68]: Milgrom, *[[Torah 24 - Vayikra#^1-1|Leviticus 1]]–16*, pp. 365–78.
+
 [^69]: See Milgrom, *[[Torah 24 - Vayikra#^1-1|Leviticus 1]]–16*, pp. 371–2. Note the translation of [[Torah 37 - Sh'lach#^15-30|Num. 15.30]] in *Tg.* *Onqelos* and *Tg. Neofiti*: ‘publicly’.
+
 [^70]: Rejecting Milgrom’s position, R. H. Bell (‘Sin Offerings and Sinning with a High Hand’, *JPJ* 4 (1995), 29–35) argues that [[Torah 37 - Sh'lach#^15-30|Num. 15.30–1]] covers all deliberate sins.
+
 [^71]: See G. A. Anderson (‘The Interpretation of the Purification Offering in the *Temple Scroll* (11QTemple) and Rabbinic Literature’, *JBL* 111 (1992), 33–5) who cites *b.* *Hor.* 8b and *Sifre* 111–12.
+
 [^72]: Bell, ‘Sin Offerings’, 47–9.
+
 [^73]: Cf. *Tg.* [[Hosea 03#^3-1|Hos. 3.1]] which, at least for the nation, permits repentance even for idolatry.
 
 *[p. 159]* ^pg177
@@ -381,8 +425,11 @@ This evidence along with that considered in chapter 3 seems to point to a fairly
 The virtual elimination of an entire category of unpardonable sin is germane to Jesus’ view on purity precisely because within the purity code such sins are marked as particularly dangerous because of their generation of irremediable impurity; the unpardonability of certain sins is closely tied to their generation of irremediable impurity. At least part of the reason why Jesus’ association with tax collectors and prostitutes was scandalous very probably had to do with the perception that the brazen sinfulness of such people infected the Land with impurity that compromised the holiness appropriate to it.[^77] If the position of Wright and Klawans sketched above is correct, the constant reinforcement of the danger of severe moral failure is the *raison d’ˆetre* of the purity code as a whole. Consequently, for Jesus to say that a class of sins should no longer be regarded as unpardonable suggests that such sins no longer produced irremediable defilement of the Land and the corresponding pollution of
 
 [^74]: Note the comment of W. Krauss, *Der Tod Jesu als Heiligtumsweihe: Eine Untersuchung zum Umfeld der S ¨uhnevorstellung in R ¨omer 3,25–26a* (WMANT; Neukirchen-Vluyn: Neukirchener Verlag, 1991) 86: ‘In der rabbinischen Tradition gelten *. . .* auch die vors̈atzlichen S ¨unden als s ¨uhnbar, weil man versucht, sie als unbeabsichtigt, und deshalb als s ¨uhnbar zu erweisen.’ But even this attempt presupposes the unforgivability of truly high-handed sin.
+
 [^75]: Cf. Bell (‘Sin Offerings’) who argues that the distinction between inadvertent sin and deliberate sin for which repentance was not possible was generally maintained throughout the Second Temple period.
+
 [^76]: Cf. J. Weiss (*Jesus’ Proclamation of the Kingdom of God* (from the 1st German edn \[1892\]; translated, edited and with an introduction by R. H. Hiers and D. L. Holland; Philadelphia: Fortress, 1971), p. 100) who made a similar statement more than a hundred years ago, though without considering OT assertions concerning high-handed sins or the connection of such sins with impurity.
+
 [^77]: It must be stressed that the impurity generated by transgression was not contagious like some forms of bodily impurity and would not have been the reason why association with sinners was scandalous.
 
 *[p. 160]* ^pg178
@@ -400,6 +447,7 @@ One aspect of Jesus’ ministry which has not received sufficient attention is t
 But in the Gospel traditions, the connection between the demonic and impurity is re-established. There is a preponderance of references to ‘unclean’ spirits in Mark, but an occurrence in Q ([[Matthew 12#^12-43|Matt. 12.43–5]]/[[Luke 11#^11-24|Luke 11.24–6]]) as well suggests that we may be dealing not simply with a redactional tendency of Mark but with a characteristic expression of Jesus. Moreover, the account of the Gerasene demoniac in the triple tradition
 
 [^78]: S. McKnight (‘A Parting Within the Way: Jesus and James on Israel and Purity’, in *James the Just and Christian Origins* (ed. B. Chilton and C. A. Evans; Leiden: E. J. Brill, 1999), p. 96 n. 24) notes that one of the most thorough and recent studies of Jesus’ role as exorcist – that of G. H. Twelftree (*Jesus the Exorcist: A Contribution to the Study of the Historical Jesus* (T ¨ubingen: J. C. B. Mohr (Paul Siebeck), 1993)) – ‘omits any exploration of the significance of “unclean” with respect to the demons and Jesus’ mission’.
+
 [^79]: D. P. Wright, *The Disposal of Impurity* (SBLDS; Atlanta: Scholars Press, 1987),
 
 *[p. 161]* ^pg179
@@ -421,6 +469,7 @@ The possible points of contact with the Q saying emerge with the observation tha
 I have noted above that the Levitical code retains a connection between impurity and the demonic only in the sending of the live goat into the wilderness bearing the transgressions of the people. Despite the attempt of some to segregate rigidly the functions of the sacrificial goat and the scapegoat – the former to remove impurity, the latter, transgression[^82] – no such separation can be made. The point here is that although the scapegoat is only said to bear Israel’s transgressions the goat must be seen as carrying away impurity as well, as is evident in the fact that the one who leads the
 
 [^81]: The time period is implicit to [[Torah 28 - Metzora#^14-43|Lev. 14.43]], though the rabbis make it explicit (*m. Neg.* 3.8; 12.7). See Milgrom, *[[Torah 24 - Vayikra#^1-1|Leviticus 1]]–16*, pp. 874–9.
+
 [^82]: E.g. S. K. Stowers, *A Rereading of Romans: Justice, Jews, and Gentiles* (New Haven: Yale University Press, 1994), pp. 208–10.
 
 *[p. 163]* ^pg181
@@ -472,6 +521,7 @@ Although some have understood the saying of verse 15 as an absolute rejection of
 Jesus’ apparent rejection of the necessity of handwashing indicates that he very probably rejected measures designed to preserve Israel’s purity which went beyond the explicit stipulations of Torah. I am inclined to think that he did keep Torah’s requirements on the rectification of impurity, a likelihood suggested, for instance, by his directive to a cleansed leper to show himself to the priest and offer what Moses required ([[Mark 01#^1-34|Mark 1.34]] pars.). On the other hand, to assert that bodily impurity posed no threat to holiness, to remain silent on the capacity of physical purity to
 
 [^85]: E. g. Riches, *Jesus*, pp. 136–8.
+
 [^86]: J. D. G. Dunn, ‘Jesus and Ritual Purity: A Study of the Tradition-History of [[Mark 07#^7-15|Mark 7.15]]’, *Jesus, Paul, and the Law: Studies in Mark and Galatians* (London: SPCK, 1990), p. 51; S. Westerholm, *Jesus and Scribal Authority* (ConB; Lund: Gleerup, 1978), p. 83; Booth, *Jesus*, pp. 68–71.
 
 *[p. 168]* ^pg186
@@ -487,7 +537,9 @@ Both the emphasis of the Pharisees and that of Jesus were based on ideas rooted 
 One of the most puzzling features of the Jesus tradition, given its strong eschatological overtones, is the virtual absence of any discussion of Israel’s Land. In his important study on the topic, W. D. Davies finds only four possible references to the Land: [[Luke 13#^13-6|Luke 13.6–9]]; [[Matthew 05#^5-5|Matthew 5.5]]; [[Matthew 25#^25-14|Matthew 25.14–30]]; Matthew 19.28. Davies is sure of none of these and doubts whether the first and third are authentic.[^88] Assuming for the moment that these texts are authentic, it is immediately evident that each is also subject to quite different understandings. I earlier concluded that the Land motif is not present at all in [[Luke 13#^13-6|Luke 13.6–9]], and it is widely acknowledged that the concept has been transformed and universalized in [[Matthew 05#^5-5|Matthew 5.5]].[^89] An allusion to the Land promise is most doubtful in [[Matthew 25#^25-14|Matthew 25.14–30]]; it is suggested only by the fact that ι γῇ: in verse 25 is articular. But in verse 18
 
 [^87]: Cf. the comment of Klawans, ‘Immorality’, 15: ‘Jesus nowhere defends ritual purity as a symbol of moral purity. Prioritizing moral purity, without underscoring any connection between ritual and moral purity, leaves ritual purity without a leg to stand on. If Jesus did not explicitly reject these laws himself, the sayings attributed to him in the synoptic gospels point the way in that direction.’
+
 [^88]: W. D. Davies, *The Gospel and the Land: Early Christianity and Jewish Territorial Doctrine* (Berkeley: University of California Press, 1974), pp. 355–65.
+
 [^89]: Cf. [[LXX Sirach 44#^44-21|Sir. 44.21]]; *Jub.* 22.14; 32.19; *2 Bar.* 14.13; 51.3; 4 Ezra 6.59; [[Romans 04#^4-12|Rom. 4.12]]. It is not unlikely that the LXX of [[LXX Psalms 36#^36-9|Ps. 36.9]], [[LXX Psalms 36#^36-11|11]] would have been read in this way as well.
 
 *[p. 169]* ^pg187
@@ -499,7 +551,9 @@ A text not included in Davies’ list is [[Matthew 08#^8-11|Matthew 8.11–12]]/
 Much more likely is the possibility, considered though not accepted by Davies, that the Land promise stands behind the saying in [[Matthew 19#^19-28|Matthew 19.28]] which asserts that the disciples will sit on twelve thrones judging the twelve tribes of Israel. If present, reference to the Land remains implicit. Sanders, in particular, has used this text as evidence that Jesus’ eschatology retained as central the common expectation that the twelve tribes would be re-established in the Land. But it is possible to read this saying not so much as an anticipation of the re-establishment of the tribes in the Land as a pointed *rejection* of that expectation! Several commentators have laid out the probable links between this text and Daniel 7. There, thrones are set up in a court of judgement where one like a son of man is invested with a kingdom and dominion, evidently to act as the agent of
 
 [^90]: Davies and Allison, *Matthew*, vol. II, pp. 27–8. Luke, at least, may regard a significant number of Diaspora Jews as among those who come from east and west, though not as part of an eschatology of the Land. See J. B. Green, *The Gospel of Luke* (NICNT; Grand Rapids: Eerdmans, 1997), p. 532; and Nolland, *[[Luke 09#^9-21|Luke 9:21–18:34]]*, p. 735.
+
 [^91]: Even Davies and Allison, *Matthew*, vol. II, p. 29, who interpret the logion in terms of the pilgrimage of dispersed Jews back to Zion, are reluctant to see any implied convictions regarding the Land.
+
 [^92]: Davies, *The Gospel and the Land,* p. 353 n. 51.
 
 *[p. 170]* ^pg188
@@ -509,6 +563,7 @@ God’s judgement on the kingdoms of the world (7.9–14). But in 7.22–7 this 
 That Jesus could think in similar terms is at least suggested by Matthew 12.41/[[Luke 11#^11-32|Luke 11.32]] where he involves the penitent of a past generation in the judgement of ‘this generation’, a designation which we have seen to be decidedly national in scope.[^94] Moreover, in their mission to Israel, the twelve exercise a punitive function as witnesses who symbolically consign unbelieving towns to judgement ([[Matthew 10#^10-14|Matt. 10.14]]/[[Mark 06#^6-11|Mark 6.11]]/Luke
 
 [^93]: Against I. Broer, ‘Das Ringen der Gemeinde um Israel’, in *Jesus und der Menschensohn* (ed. R. Pesch and R. Schnackenburg; Freiburg: Herder, 1975), p. 160), who rejects the possibility that the community anticipated a punitive role against Israel because it believed itself to be Israel. This, however, is to ignore the bivalent way in which ‘Israel’ was used at Qumran.
+
 [^94]: Cf. [[1 Corinthians 06#^6-2|1 Cor. 6.2]] where Paul takes as given the idea that ‘the saints will judge the world’.
 
 *[p. 171]* ^pg189
@@ -518,8 +573,11 @@ That Jesus could think in similar terms is at least suggested by Matthew 12.41/[
 Sanders agrees that the judgement in view is punitive, but limits this judgement to ‘some’ Jews against the broader context of salvation for ‘all’ Israel. Nevertheless, in view of Sanders’ own evidence for a widespread expectation of a re-established tribal league, it is not difficult to hear polemical overtones in Jesus’ promise: the tribes of Israel will not be reconstituted but judged. Moreover, Sanders’ view rests on the unquestioned assumption that Jesus had taken up unchanged common expectations concerning the Land.[^98] This rather large assumption is itself based on an argument from silence: if the expectation of the Land is so central, why is its presence in the Jesus tradition so tenuous? It is possible, as Sanders would presumably argue, that the silence of the tradition stems
 
 [^95]: C. A. Evans, ‘In What Sense “Blasphemy”? Jesus Before Caiaphas in [[Mark 14#^14-61|Mark 14:61– 64]]’, *Jesus and His Contemporaries: Comparative Studies* (AGJU; Leiden: E. J. Brill, 1995), pp. 427–8. So also Horsley, *Spiral of Violence*, p. 203 who likewise understands ‘judge’ as ‘rule’. J. Dupont (‘Le logion des douze tr ˆones (Mt 19,28; Lc 22,28–30)’, *Biblica* 45 (1964), 372) observes that no other occurrence of Γ κρίνω in the New Testament has the meaning ‘rule’. Luz (*Matth ¨aus: 3 Teilband*, p. 129) regards the assertion that \[ κρίνω can mean ‘to rule’ as a ‘philological fairytale’: ‘Es basiert auf einer Verwechslung der *historischen* Tatsache, daß in Israel Richter herrschten und K ¨onige richteten, mit der *semantischen* Bedeutung von \] κρίνω» This confusion is especially evident in the assertion of Davies and Allison (*Matthew*, vol. III, p. 55) that for Matthew and his tradition 1 κρίνοντες corresponds to the . Hebrew
+
 [^96]: Evans, ‘In What Sense “Blasphemy” ’?, pp. 417–23. Though Jesus’ words are addressed to Caiaphas and other members of the council, we have seen in chapter 3 the way in which the nation as a whole is often implicated in the failure of its leaders.
+
 [^97]: I. H. Marshall (‘The Hope in a New Age: The Kingdom of God in the New Testament’, *Them* 11 (1985–6), 11) and G. R. Beasley-Murray (*Jesus and the Kingdom,* pp. 75–6) likewise view the judgement of [[Matthew 19#^19-28|Matt. 19.28]] as a punitive judgement on the nation. Luz (*Matth ¨aus: 3 Teilband*, p. 130) allows it for the pre-Matthean tradition; cf. Broer, ‘Das Ringen der Gemeinde um Israel’, p. 164.
+
 [^98]: The link between the expectation that the twelve tribes would be established and hopes concerning Israel’s possession of the Land is fundamental in Second Temple Jewish literature. See Mendels, *Land of Israel*, p. 4, qualifying W. D. Davies, *The Territorial Dimension of Judaism: With a Symposium and Further Reflections* (Minneapolis: Fortress, 1991), p. 22.
 
 *[p. 172]* ^pg190
@@ -533,6 +591,7 @@ A frequent but little-noticed corollary to the expectation of the re-establishme
 I turn now to several texts which reveal the anti-Samaritan component within Jewish expectations concerning the Land. The first text comes from Sirach. I have devoted considerable attention to Sirach’s expansion of the returning Elijah’s role to include the restoration of the tribes of Jacob (48.10). The text echoes the petition of 36.13: ‘Gather all the tribes of Jacob and give them their inheritance, as at the beginning.’[^99] [[LXX Sirach 48#^48-10|Sirach 48.10]] itself falls within Sirach’s fond reminiscence for Israel’s golden age when the whole of the Jewish people lived in peace in the Land and the expression of a desire that it would again be so one day.[^100] In chapter 49 he praises Simon son of Onias who, in repairing the Temple, had once again ‘made the court of the sanctuary glorious’ (50.13) and follows this with a prayer that God will grant ‘peace in our days, in Israel as in days
 
 [^99]: See also the sixth line of the prayer which appears in the Hebrew between 51.12 and 51.13: ‘Give thanks to him who gathers the dispersed of Israel, for his mercy endures for ever.’
+
 [^100]: Mendels, *Land of Israel*, p. 16.
 
 *[p. 173]* ^pg191
@@ -552,9 +611,13 @@ and the foolish people that live in Shechem.
 Samaritans and again Land eschatology fuels the antagonism. The dating
 
 [^101]: A serendipity for Jewish polemicists was the fact that Shechem was also the name of Samaria’s capital city.
+
 [^102]: J. Zangenberg β ( ΣΑΜΑΡΕΙ͂Α:. *Antike Quellen zur Geschichte und Kultur der Samaritaner in deutscher ¨Ubersetzung* (TANZ; T ¨ubingen: Francke Verlag, 1994), p. 43) argues that the elimination of ‘Seir’ was made possible by the conquest and forced Judaization of the Edomites in 129 BCE. This suggests a slightly later date than that proposed by others.
+
 [^103]: Against the sharp distinction of R. Hanhart (‘Zu den ¨altesten Traditionen ¨uber das samaritanische Schisma’, *ErIsr* 16 (1982), 106–7) who does not adequately note that all the hill country of Samaria was claimed by the Samaritans and the likelihood that the Gerizim temple had been supported by the region as a whole and not just the people of Shechem (*Ant*. 302–47).
+
 [^104]: R. Smend (*Die Weisheit des Jesus Sirach* (Berlin: Georg Reimer, 1906), p. 491), missing the polemical intent, emends the text, precisely because the reference to Shechem is geographically identical to ‘the mountains of Samaria’.
+
 [^105]: For a discussion of Jewish–Samaritan antipathy in the time of Simon II (the Just), with whose praise this invective is linked, see J. D. Purvis, ‘Ben Sira and the Foolish People of Shechem’, *The Samaritan Pentateuch and the Origin of the Samaritan Sect* (HSM; Cambridge, MA: Harvard University Press, 1968), pp. 119–29.
 
 *[p. 174]* ^pg192
@@ -576,9 +639,13 @@ only Shechem committed the crime; in *T. Levi* the crime is imputed to all Shech
 Brief mention should also be made of 4Q371–2, a text which dates to the Hasmonean period and recalls the dispersion of the tribe of Joseph to foreign lands.[^113] After their removal from the Land, the mountains were appalled to see ‘fools’ make ‘a high place on a high mountain’ and blaspheme the ‘Tent of Zion’ in order to arouse the jealousy of Israel. The text laments the loss of the northern tribes: ‘My land \[has been taken\]
 
 [^109]: The correspondence between the circumcision of Shechem and the circumcision-practising Samaritans who lived in Shechem was doubtless a happy one for Jews wishing to exploit the story for anti-Samaritan purposes.
+
 [^110]: According to the text adopted by Kee and Charles against Hollander and de Jonge.
+
 [^111]: Two recent discussions helpfully explicate the literary and textual issues of this narrative but pass over its ideological aims. See J. Kugel, ‘The Story of Dinah in the *Testament of Levi*’, *HTR* 85 (1992), 1–34; and T. Baarda, ‘The Shechem Episode in the Testament of Levi: A Comparison with Other Traditions’, in *Sacred History and Sacred Texts in Early Judaism: A Symposium in Honour of A. S. Van der Woude* (ed. J. N. Bremmer and F. Garćıa Mart´ınez; Kampen: Kok Pharos, 1992), pp. 11–73.
+
 [^112]: See A. Hultg̊ard, *L’eschatologie des Testaments des Douze Patriarches: interpr´etation des textes* (Stockholm: Almqvist & Wiksell, 1977), pp. 200–2, and especially D. Mendels (*The Rise and Fall of Jewish Nationalism* (ABRL; New York: Doubleday, 1992), p. 95; and *Land of Israel*, pp. 89–108) who argues that, not least in their anti-Samaritan polemic, the *Testaments* reflect ‘a claim made by the Jews to the whole of Palestine, which is symbolized in this document by the twelve tribes of Israel’.
+
 [^113]: I am grateful to Professor R. Bauckham for calling this text to my attention. For a transcription, translation and brief commentary, see E. Schuller, ‘4Q372 1: A Text About Joseph’, *RevQ* 14 (1990), 349–76.
 
 *[p. 176]* ^pg194
@@ -590,8 +657,11 @@ Finally, two passing references in Judith, a book often dated to the Hasmonean p
 These examples indicate the way in which eschatological expectations concerning the Land, especially in connection with the idea of the restoration of the twelve tribes, helped to generate strong anti-Samaritan feelings. This connection has not been sufficiently noticed, most especially in relation to the treatment of Samaritans in the Jesus tradition. Certainly, the four Gospels bear ample witness – much of it incidental – to the continued existence of Jewish anti-Samaritan hostility in the first century.[^116] But there are also a number of texts which indicate that Jesus distanced himself from that antagonism, even if the focus of his mission remained Israel ([[Matthew 10#^10-5|Matt. 10.5–6]]).[^117] It is not my purpose here to review the disputes over the authenticity of the various incidents. It is my intention
 
 [^114]: Lines 19–21. The translation follows E. Qimron, ‘Observations on the Reading of “A Text About Joseph” (4Q372,1)’, *RevQ* 15 (1992), 604.
+
 [^115]: M. Delcor, ‘The Apocrypha and Pseudepigrapha of the Hellenistic Period’, in *The Cambridge History of Judaism*, vol. II: *The Hellenistic Age* (ed. W. D. Davies and L. Finkelstein; Cambridge University Press, 1989), p. 445.
+
 [^116]: Other examples of Jewish anti-Samaritanism closer to the time of Jesus may be found in Pseudo-Philo, Josephus and *Joseph and Asenath*.
+
 [^117]: Note, for example, Jesus’ rebuke of James and John when they offered to call down fire to consume a Samaritan village, Luke 9.51–6. Like much of the literature just reviewed, the disciples evidently did not believe the annihilation of Samaritans to be outside the purview of God’s eschatological purposes.
 
 *[p. 177]* ^pg195
@@ -603,7 +673,9 @@ to build on the recent work of R. Bauckham on the parable of the good Samaritan,
 Bauckham successfully shows that the parable sets up a *halakhic* situation in which a priest is confronted with a choice between obedience of the prohibition of corpse-impurity for priests and the command to love one’s neighbour.[^119] The point thus indicated is that Jesus treated the love commandment not as some overarching principle which points up the general intent of the law, but rather as a commandment in its own right, capable of overriding other commandments.[^120] The significance of the Samaritan in the story is that Samaritans claimed to be under the Mosaic law, but yet were regarded by Jews as suspect in their observance of the law. Beyond this, the geographical location of the episode probably implies the Jewish–Samaritan debate over the Temple. According to Bauckham, the Samaritan would have been regarded as impure since corpse-impurity could only be removed by recourse to the red heifer ceremony in the Jerusalem Temple. This makes all the more emphatic Jesus’ assertion of the superiority of the love commandment to the purity laws. The Samaritan disregards the purity laws – not by his actions *vis \`a vis* the wounded man but by being a Samaritan – but still keeps the more important
 
 [^118]: For responses to the odd dissenting voice, see Nolland, *[[Luke 09#^9-21|Luke 9:21–18:34]]*, pp. 588–600.
+
 [^119]: R. J. Bauckham, ‘The Scrupulous Priest and the Good Samaritan: Jesus’ Parabolic Interpretation of the Law of Moses’, *NTS* 44 (1998), 477–8. While Bauckham is not the first to see purity concerns at work in the parable (see e.g. Fitzmyer, *Luke* vol. II, p. 883; Dunn, *Partings*, p. 41; E. P. Sanders, *Jewish Law*, pp. 41–2), his treatment of such concerns advances the discussion in several important ways. M. Gourgues (‘The Priest, the Levite, and the Samaritan Revisited: A Critical Note on [[Luke 10#^10-31|Luke 10:31–35]]’, *JBL* 117 (1998), 709–10) has recently assembled the objections to reading the parable with purity issues in mind, but they do not withstand scrutiny: (1) whether or not Luke tends to put scribes and Pharisees rather than priests on stage when he is depicting strict observance of the law is irrelevant if the parable goes back to Jesus; (2) the observation that the priest was on his way back from Jerusalem does not mean that he would have been any less concerned about contracting corpse-impurity, since corpse-impurity is proscribed for priests even outside the cult except in the case of a close relative; (3) though it is true that ‘the narrative provides no grounds for equating the body of the beaten man with a corpse’, the narrative’s description of the man as ‘half dead’ *does* provide grounds for suspicion on the part of the priest and the Levite that the man could well have been dead. A further objection, voiced by Green (*Luke*, p. 430), is that even priests would have been obliged to bury a neglected corpse. But even if the parable caricatures the actions of the priest and the Levite, all would have recognized the purity issue involved.
+
 [^120]: Bauckham, ‘Scrupulous Priest’, 484–5.
 
 *[p. 178]* ^pg196
@@ -625,7 +697,9 @@ Third, in [[Torah 36 - Beha'alotcha#^8-21|Numbers 8.21]] part of the Levites’ 
 Fourth, the parable itself suggests that the Levite’s motive for passing by the injured man was exactly that of the priest: the avoidance of corpse-impurity. The key is in a detail which has not yet been adequately explored: both the priest and the Levite pass by *on the other side*. As Bauckham is aware, a corpse pollutes aerially. But how and where? The fact that investigating the man’s condition would require close proximity to the man explains the concern over corpse-impurity should the man prove dead. But just what sort of proximity would contaminate? There is no direct evidence for what first-century priests deemed a safe distance from a corpse. Bauckham here follows Harrington in her contention that the aerial transmission of corpse-impurity was limited to vertical motion.[^126] Bauckham,
 
 [^124]: So also J. Milgrom, ‘The Shoulder for the Levites’, in *The Temple Scroll* (Y. Yadin; Jerusalem: Israel Exploration Society, 1983), p. 169 n. 1. By the time of the Palestinian Talmud, the differentiation of purity obligations had been formalized: if a priest and a Levite find a neglected corpse, the Levite defiles himself; if a Levite and an Israelite, the Israelite defiles himself ( *y. Naz.* 7.1, 15a–b).
+
 [^125]: B. A. Levine, *Numbers 1–20* (AB; New York: Doubleday, 1993), p. 278. Cf. Num.
+
 [^126]: H. K. Harrington, *The Impurity Systems of Qumran and the Rabbis: Biblical Foundations* (SBLDS; Atlanta: Scholars Press, 1993), p. 155.
 
 *[p. 180]* ^pg198
@@ -633,8 +707,11 @@ Fourth, the parable itself suggests that the Levite’s motive for passing by th
 assuming that the road was relatively narrow, suggests that by passing on the other side the priest and the Levite sought to avoid defilement by overhang. The Jericho–Jerusalem road, however, was probably more than a narrow footpath.[^127] Moreover, though it is true that the *common* person was threatened by corpse-impurity only by overhang, Harrington’s contention that impurity moved only vertically is misleading. The possibility that a holy person would fear corpse-impurity in open space is suggested by considering two questions: first, does impurity move horizontally? And, second, are holy persons and things more susceptible to defilement than common persons and things? If the world-view which Milgrom ascribes to the priestly legislators remained intact during the first century, the answer to both of these questions is clear: impurity assaults the sanctuary from afar and thus necessarily travels horizontally precisely because of the attraction of impurity to sancta.[^128] Though Milgrom suggests that the aerial movement of impurity was sharply curtailed by the rabbis, there is evidence that such a view persisted in a more limited form into the rabbinic period. The example cited by Milgrom is instructive for it addresses both of the questions. In *m. Sanh.* 2.1, there is a debate over whether or not the high priest should be allowed to follow after the bier when one of his next of kin dies.[^129] The more lenient view of R. Meir was that he was permitted provided he had no eye contact with the bier. The concern that the high priest should not even see the bier cannot be explained if the fear is contamination by overhang. Horizontal movement of impurity is presupposed, and its attraction to the high priest feared.[^130] More direct confirmation that first-century Jews believed that impurity could move horizontally is found in the assumption of the Houses that ‘corpse-contamination flows through a passage of a specified
 
 [^127]: D. A. Dorsey (*The Roads and Highways of Ancient Israel* (Baltimore: Johns Hopkins University Press, 1991), pp. 11–12) adduces evidence from the OT period for the widespread use of both chariots and wheeled carts even in the hill country for commercial and personal as well as military purposes. He concludes that ‘a network of wider roads must have existed throughout Israel’ during this period. As the main artery for traffic from the plain of Jericho, the fords of the Jordan and the Transjordanian region, the road from Jericho was probably such a road. Based on archaeological evidence for vehicles in the ancient near east, the road must have been 1.5–2 metres wide. Though its dating is uncertain, the Mishnah specifies that for purposes of compensation, the prescribed width of a private (one-lane) road should be 4 cubits, i.e. 1.8 metres (*m. B. Bat.* 6.7). In 69 CE the road from Jericho was used by the Roman tenth legion in their approach to Jerusalem (*J.W.* 5.42, 69), a fact which may suggest a road sufficient to accommodate vehicles.
+
 [^128]: Milgrom, *[[Torah 24 - Vayikra#^1-1|Leviticus 1]]–16*, pp. 254–8.
+
 [^129]: Only the high priest and Nazarites were to avoid all corpse-impurity.
+
 [^130]: R. Judah disagrees but only because he thinks that avoidance of eye contact with the bier was an inadequate precaution from defilement, as [[Torah 31 - Emor#^21-12|Lev. 21.12]] indicates. See the discussion of Milgrom, *[[Torah 24 - Vayikra#^1-1|Leviticus 1]]–16*, p. 980.
 
 *[p. 181]* ^pg199
@@ -646,6 +723,7 @@ we should not think that priests (and those Levites who submitted to priestly pu
 Consequently, the Levite in the parable of the good Samaritan would quite possibly not have been perceived as a transitional figure as Bauckham suggests, that is, a person whose corpse-impurity obligations were somewhere between that of the priest and the Samaritan, who as a lay person would not have been obliged. Rather the Levite would have been perceived as one who had taken up the stricter interpretation of an ambiguity within the OT purity code. This complements the point argued by Bauckham that the priest’s decision would probably have been disputed within the first century and represents the stricter application of the purity requirements in an ambiguous situation. But if the priest’s situation is ambiguous, the Levite’s is doubly so; his avoidance of corpse-impurity requires a resolution of ambiguity concerning the permissibility of corpse-impurity for Levites and, having decided that it was proscribed, the resolution of the same ambiguity as that of the priest. *So if the priest has resolved an ambiguity in the direction of strict maintenance of purity,*
 
 [^131]: Neusner, *Purities*, vol. XXII, p. 55. *See* also *m. Ohol.* 3.7 where this pre-first-century principle is explicit: ‘it is the way of uncleanness to issue forth and not to enter in’. Cf. 11.1.
+
 [^132]: [[Torah 39 - Chukat#^19-16|Num. 19.16]] implies that a corpse’s power of contagion is lower in an open field than in a house: only direct contact defiles ordinary Israelites in the open, whereas even being in the same house as a corpse makes one unclean, even if no direct contact occurs. But if mere proximity to a corpse within a house can defile an ordinary Israelite, proximity to a corpse in open space could easily have been seen as a danger to holy persons.
 
 *[p. 182]* ^pg200
@@ -671,6 +749,7 @@ When Alexander died, his empire was partitioned among his successors (the Diadoc
 Here, it seems to me, we have a clear instance of exaggeration driven by anti-Samaritan bias. The specified sins are the quintessential marks of apostasy precisely because keeping the food laws and the Sabbath were central markers of Jewish identity. Josephus’ reference to ‘any such sin’ indicates that he is thinking of a particular category of sins. And the category in view can only be the covenant-rejecting sins which generate irremediable impurity, defile the sanctuary and the Land and are not subject to forgiveness – hence, the expulsion from the community. But are we really to believe that *all* Jewish apostates immediately took refuge among the Samaritans? No, it seems rather that for Josephus this
 
 [^135]: Ibid., 486–8.
+
 [^136]: See J. Bowman (‘Did the Qumran Sect Burn the Red Heifer?’, *RevQ* 1 (1958), 73–84) for the case that although the Qumran community did not offer sacrifices after their withdrawal from the Temple, they did continue to burn the red heifer. Though it is likely that the red-heifer ceremony ceased not long before the Temple’s destruction or perhaps shortly thereafter (the ashes were not all kept in the Temple complex, allowing for its continuation), the reasons for this are not clear and may have had little to do with the necessity of the Temple for the rite itself. In Bauckham’s favour, however, is the fact that some of the blood from the red heifer was to be sprinkled toward the front of the tent of meeting ([[Torah 39 - Chukat#^19-4|Num. 19.4]]). In any case, I am not disputing his contention that Samaritans were assumed to be corpse-impure, only that the Samaritan’s corpse-impurity is crucial to understanding the parable.
 
 *[p. 184]* ^pg202
@@ -680,7 +759,9 @@ is simply a way of commenting on their status. Like seeks like, and Samaritans, 
 The texts from Josephus simply make explicit what might have been guessed from my previous examination of anti-Samaritan polemics: Samaritans had put themselves under the law, but their refusal to keep the law in the right way and rejection of the Temple meant that they were worse than Gentiles;[^139] like apostates, they had knowingly and wilfully rejected the covenant. The crucial point, then, is not simply that Samaritans were regarded as *perpetually* impure, as Bauckham argues, but that they
 
 [^137]: The association of Samaritans and apostates may shed light on the otherwise uncertain use of ‘Samaritan’ as a slur in [[John 08#^8-48|John 8.48]].
+
 [^138]: Cf. [[LXX 2 Maccabees 06#^6-2|2 Macc. 6.2]] which does not indicate whether the Samaritans renamed the Temple willingly. J. P. Meier (‘The Historical Jesus and the Historical Samaritans: What Can Be Said?’, *Bib* 81 (2000), 206–18) expends much energy in attempting to prove that the historical Samaritans did not adhere to a ‘syncretistic polytheism combined with Jewish elements’. However, the perhaps more important fact which Meier’s quest for the historical Samaritans underplays is that this was often precisely the way Jews perceived Samaritans.
+
 [^139]: Against the common supposition that Samaritans were regarded as equivalent to Gentiles, as e.g. F. Dexinger, ‘Limits of Tolerance in Judaism: The Samaritan Example’, in *Jewish and Christian Self-Definition*, vol. II: *Aspects of Judaism in the Graeco-Roman Period* (ed. E. P. Sanders, A. I. Baumgarten and A. Mendelson; Philadelphia: Fortress,
 
 *[p. 185]* ^pg203

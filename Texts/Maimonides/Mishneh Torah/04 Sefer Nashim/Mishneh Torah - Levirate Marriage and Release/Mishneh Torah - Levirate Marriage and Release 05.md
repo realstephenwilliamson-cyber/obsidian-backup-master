@@ -170,87 +170,156 @@ If the *yavam* first enters into relations with the deaf-mute, and then he or on
 If he first enters into relations with the minor, and then he or one of his brothers engages in relations with the woman past majority, we should instruct the minor to dissolve her marriage through *mi'un*,[^70] and he should remain married to the woman past majority. [The rationale is that] relations with her establish a fully binding marriage bond. ^5-30
 
 [^1]: This refers to a *get* given before the brother made a statement of intent to marry the *yevamah* (*ma'amar*). See Halachot 4 and 5.
+
 [^2]: See Chapter 2, Halachah 1.
+
 [^3]: In his Commentary on the Mishnah (*Yevamot* 3:5), the Rambam writes that at the outset, the *get* should precede the *chalitzah*.
+
 [^4]: I.e., the *get* nullifies the *kiddushin* brought about by the *ma'amar*.
+
 [^5]: Whenever the Rambam uses the expression "It appears to me," he is referring to a ruling that is not specifically mentioned in the Talmud. In this instance, Rashi (*Yevamot* [[Yevamot 32#32a|32a]], 52a) agrees with the Rambam, but the Ra'avad and *Tosafot* differ and maintain that if the *yavam* who gave her the *ma'amar* and the *get* desires, he may still perform *yibbum* with her. The *Shulchan Aruch* (*Even HaEzer* 170:15) quotes both opinions, but appears to favor that of the Rambam.
+
 [^6]: In Halachah 1. The Rambam is adding that even if the *yavam* had already given the *yevamah* a *ma'amar*, this ruling still applies.  
     If the *yavam* gives a *get* without specifying the reason, we assume that his intent is to sever his connection with the *yevamah* and not merely to nullify his *ma'amar* (Rashi, *Yevamot* [[Yevamot 32#32a|32a]]; Ramah, *Even HaEzer* 170:15).
+
 [^7]: Once a *yavam* has performed *chalitzah*, neither he nor his brothers may perform *yibbum* afterwards. Similarly, once a *get* has been given, the *yavam* is obligated to perform *chalitzah* and may not perform *yibbum*. Since *yibbum* is not relevant, the *ma'amar* is not acceptable.
+
 [^8]: For only one of the wives of the deceased brother may be married by a *yavam*, as stated in Chapter 1, Halachah 9.
+
 [^9]: Since a *ma'amar* does not complete the bond between the *yavam* and the *yevamah*, the connection between them can be disqualified because of undesirable actions, such as those mentioned by the Rambam.
+
 [^10]: Although the *ma'amar* that follows the relations is nullified, the marriage bond established by the relations remains in effect (Rav David Arameah).
+
 [^11]: This *ma'amar* is disqualified by the actions that follow it.
+
 [^12]: This *ma'amar* is disqualified by the actions that preceded it.
+
 [^13]: Although the *ma'amar* is unacceptable and *yibbum* is not allowed, a *get* is necessary (from both brothers, when two *ma'amarim* are involved), nevertheless, to nullify the *kiddushin*. Afterwards, one of the brothers should perform *chalitzah* to enable the woman to marry another man.
+
 [^14]: According to Rabbinic law, the *yavam* should give the *yevamah* a *ma'amar* before entering into relations with her. Nevertheless, after the fact, if he failed to give her such a *ma'amar*, their relations still establish a marriage bond between them that the Sages allowed to continue.
+
 [^15]: In all these instances, the *yavam* must divorce the *yevamah* with a *get*, because of their relations in which they engaged, and also perform *chalitzah* because of his original obligation to her. Similarly, he and/or his brothers must give a *get* to any of his deceased brother's other wives if she was given a *ma'amar* in such an instance (*Maggid Mishneh*, based on *Yevamot* [[Yevamot 50#50b|50b]]).
+
 [^16]: See Halachah 12. See also Chapter 7, Halachah 9, from which it is apparent that whenever a *yavam* cannot perform *yibbum* with his *yevamah*, the *chalitzah* he performs with her is deemed "inferior."
+
 [^17]: I.e., the deceased was married to many wives.
+
 [^18]: I.e., as mentioned above, unacceptable relations and/or an unacceptable *ma'amar* have an effect and nullify the possibility of performing *yibbum* with any of the deceased's other wives.
+
 [^19]: There is a question among the commentaries if the word "each" is included in the text of the *Mishneh Torah* or not. The *Maggid Mishneh* maintains that this word should be included in the text. According to his interpretation, even if the *yavam* performs *chalitzah* with one of the deceased's wives who did not receive a *ma'amar* or engage in relations with the *yavam*, this *chalitzah* does not remove the obligation from the deceased's other wives, and each of them must perform *chalitzah*.  
     The *Lechem Mishneh* differs and maintains that the word "each" is a later addition. (And indeed most authoritative manuscripts and early printings of the *Mishneh Torah* substantiate this contention.) According to this view, if the *yavam* performs *chalitzah* with one of the deceased's wives who did not receive a *ma'amar* or engage in relations with the *yavam*, this *chalitzah* removes the obligation from the deceased's other wives, and none of them is required to perform *chalitzah*.  
     Even according to this view, if the *yavam* performs *chalitzah* with the *yevamah* who received an unacceptable *ma'amar* or engaged in unacceptable relations, this *chalitzah* does not remove the obligation from the deceased's other wives, and each of them must perform *chalitzah*.  
     The *Shulchan Aruch* (*Even HaEzer* 170:19) quotes the *Maggid Mishneh's* interpretation of the Rambam's ruling, but mentions that other authorities differ.
+
 [^20]: In which instance she is forbidden to him by Rabbinic decree, as stated in Chapter 1, Halachah 12.
+
 [^21]: I.e., consecrating the woman by engaging in sexual relations with her, as stated in *Hilchot Ishut* 1:2.
+
 [^22]: In which case the relations with the second *yevamah* violate a positive commandment of the Torah, as stated in Chapter 1, Halachah 12.
+
 [^23]: For even when the relations violate a Rabbinic prohibition or a positive commandment, a marriage bond is effected, as stated in *Hilchot Ishut* 4:14.
+
 [^24]: Halachah 2.
+
 [^25]: As mentioned in Halachah 1, it is only through *chalitzah* that the connection is completely dissolved.
+
 [^26]: As explained in the following halachah.
+
 [^27]: The intent is that the relations are of no consequence with regard to the laws of *yibbum*. They are, however, adulterous relations, and if the *yevamah* engages in them willingly, she is not permitted to remain married to her husband.
+
 [^28]: A person is forbidden to marry the women who are closely related to his divorcee. In this instance, although neither of these *gittin* is necessary, the prohibition is still applied in both cases.  
     In this instance, both women are required to perform *chalitzah* in order to marry another man. See *Shulchan Aruch* (*Even HaEzer* 170:5).
+
 [^29]: Both brothers are not required to perform *chalitzah* in order for her to be permitted to marry others. Performing *chalitzah* with her does not, however, cause the deceased's other wives to become permitted, as explained in Halachot 11 and 12.
+
 [^30]: See Halachah 13.
+
 [^31]: As mentioned in Chapter 1, Halachah 14, the same relatives who are forbidden to a man who divorces his wife are forbidden to a man who performs *chalitzah*.
+
 [^32]: This refers to "acceptable relations," as stated in Halachah 11. If the relations are "unacceptable," different laws apply (*Maggid Mishneh*).
+
 [^33]: If, however, the *yevamah* engages in these relations willingly, she must be divorced by her husband for committing adultery.
+
 [^34]: See Halachah 13.
+
 [^35]: I.e., the deceased left two or more wives and was survived by two or more brothers. One brother decided to perform *yibbum* with one of the widows. Unknowingly, another brother decided to perform *yibbum* with another widow, and it is not known who performed *yibbum* first.
+
 [^36]: For the marriage of one of them is sinful, transgressing a positive commandment. Since it cannot be determined whose marriage is sinful, both are required to divorce.  
     See also the *Beit Yosef* (*Even HaEzer* 170), who quotes a responsum of the *geonim* that also requires that one of the brothers perform *chalitzah*. The rationale is that perhaps one of the brothers gave his *yevamah* a *ma'amar*, and then the other one performed *yibbum*. Since these are "unacceptable relations," *chalitzah* is also necessary, as explained above.
+
 [^37]: For it is not known that his brother performed *yibbum*, and even if he did perform *yibbum*, perhaps he did so after this brother performed *yibbum*. Since there are several doubts involved (םפק םפקא), the *yavam* is not forced to divorce until he has determined that his brother has also performed *yibbum*.
+
 [^38]: The commentaries have questioned this ruling, based on Chapter 3, Halachah 16, which requires a woman to wait until she discovers what has taken place overseas, lest the *chalitzah* be unnecessary, she discover that fact and marry a priest and an onlooker not know all the details of the situation. Such a scenario could also happen in the present situation.  
     There are commentaries that try to reconcile the Rambam's ruling. For example, *Mishneh LaMelech* explains that in the present instance, the doubt could be protracted indefinitely, while in the previous case, everything is dependent on a woman's giving birth, and the matter can be clarified after nine months. Nevertheless, because of these objections, the *Shulchan Aruch* (*Even HaEzer* 170:20) does not mention this element of the Rambam's ruling.
+
 [^39]: As mentioned in Chapter 1, Halachah 15 (and *Hilchot Ishut* 11:3), when a boy over nine years old enters into sexual relations with a woman, his actions are considered of consequence in certain contexts.  
     The *Maggid Mishneh* and Rashi (*Kiddushin* [[Kiddushin 19#19a|19a]]) explain that when a minor above nine years old enters into relations with a woman, he acquires her as his wife according to Scriptural law. (Nevertheless, if another man enters into relations with her, the other man is not executed for committing adultery.) Our Sages, however, reduced the level of connection established and caused their marriage bond to have only the effectiveness of a *ma'amar*.  
     [The rationale why *yibbum* performed by a minor is effective although a minor does not possess the intellectual maturity to take responsibility for his conduct is that we find that *yibbum* does not require intent at all; what is significant is the act of sexual relations. (See Chapter 2, Halachah 3.)]  
     *Tosafot* differ and maintain that, in this context, the relations of a nine-year old are of no consequence according to Scriptural law. Nevertheless, the Rabbis enforced a stringency and considered these relations to be equivalent to a *ma'amar*.
+
 [^40]: This concept is illustrated in the halachah that follows, as is another consequence of the principle that the sexual relations that this youth engages in are considered equivalent to a *ma'amar* given by an adult.
+
 [^41]: As mentioned in Chapter 4, Halachah 16, *chalitzah* performed by a minor is of no consequence, because the passage concerning *chalitzah* explicitly mentions an איש - i.e., a male past majority. Since *chalitzah* performed by a minor is of no consequence, a *get* given by him is of no consequence, because the disqualification caused by a *get* is an extension by the Rabbis of the Scriptural prohibition caused by *chalitzah*.  
     Significantly, the Rambam's statements here represent a reversal of his ruling in his Commentary on the Mishnah (*Yevamot* 10:6), in which he rules that a *get* given by a minor does disqualify a *yevamah* from performing *yibbum* with the minor's brothers.
+
 [^42]: Had the younger brother been past the age of majority, he would have disqualified the *yevamah* from performing *yibbum* with his older brother, as stated in Halachot 7 and 14.
+
 [^43]: See Halachot 7 and 14.
+
 [^44]: Since the minor's relations possess only the strength of a *ma'amar*, their effectiveness can be nullified by the actions of an older brother.
+
 [^45]: For the relations in which they engaged after the *yavam* attained majority complete the marriage bond.
+
 [^46]: As explained in *Hilchot Ishut* 2:11, a male who does not manifest signs of impotency is considered a minor until he attains the age of 35.
+
 [^47]: See *Hilchot Ishut* 4:7-9.
+
 [^48]: As explained in *Hilchot Ishut* 4:7 and *Hilchot Gerushin* 11:1, when a girl's father died and she is below the age of majority, our Sages ordained that her mother and/or brothers can arrange a marriage for her. This marriage is not binding according to Scriptural law. Accordingly, when creating this option, our Sages gave the girl the possibility of nullifying the marriage before she reaches majority merely by making a verbal statement.
+
 [^49]: If, however, she marries, they would respect the limits of modesty and her husband would protect her (*Yevamot* [[Yevamot 112#112b|112b]]).
+
 [^50]: If, however, one is a mentally capable woman past the age of majority, *yibbum* or *chalitzah* should be performed with her - for her marriage is binding according to Scriptural law - and not with those whose marriage is binding only by virtue of a Rabbinic ordinance.
+
 [^51]: For their marriage bonds all share the same status.
+
 [^52]: The marriage relationship of each one possesses an advantage over the other. The marriage with the minor, had it not been interrupted, could have blossomed into a marriage bond binding according to Scriptural law. On the other hand, there is an advantage to the marriage to the deaf-mute, because the minor had the option of ending her marriage at will, while that of the deaf-mute was binding. As evident from Halachot 27 and 28, the marriage to the minor is preferable.
+
 [^53]: For just as she can dissolve her relationship with her husband while he is alive, she can nullify it afterwards, freeing herself from any obligation to the *yavam* (*Hilchot Gerushin* 11:3).  
     The Ra'avad differs and maintains that a minor is permitted to free herself from an obligation to the *yavam* through *mi'un* only when this facilitates the establishment of a marriage bond that is binding according to Scriptural law. (See Halachah 30 and Chapter 7, Halachah 15.) In this instance, however, she is not given the privilege. Instead, she must wait until she attains majority and then perform *chalitzah*. The *Shulchan Aruch* (*Even HaEzer* 171:1) quotes the Rambam's view.
+
 [^54]: Since the deaf-mute is not considered responsible for her actions, she cannot perform *chalitzah*. She must either perform *yibbum* or remain unmarried for the remainder of her life.  
     If the *yavam* performs *yibbum* with the minor, he may not perform *yibbum* with the deaf-mute, for he is permitted to perform *yibbum* only with one of his deceased brother's wives.
+
 [^55]: The deaf-mute is not considered responsible for her actions. Nevertheless, since according to Scriptural and Talmudic law a *get* may be given without the woman's consent, the divorce is binding (*Hilchot Gerushin* 10:23).
+
 [^56]: And performing *yibbum* with a woman who is consecrated only according to Rabbinic law does not free a woman who is consecrated according to Scriptural law from her obligation.
+
 [^57]: For, as mentioned in Halachah 14, after a *yavam* engages in relations with his *yevamah*, their relationship cannot be disqualified.
+
 [^58]: If the second wife does not perform *mi'un*, her consecration is also binding. Nevertheless, it involves the violation of a positive commandment. Moreover, a *get* is required for nullifying this marriage, and she becomes forbidden to the priesthood. If, however, she dissolves her marriage through *mi'un*, a *get* is not required.
+
 [^59]: For relations with her are forbidden, and yet her consecration is binding.
+
 [^60]: Although the Ra'avad differs with the Rambam and maintains that it is forbidden to remain married to the minor, the *Shulchan Aruch* (*Even HaEzer* 171:7) follows the Rambam's ruling.
+
 [^61]: For the marriage to the minor is preferable to that of the deaf-mute.
+
 [^62]: Since the *yavam* entered into relations with the deaf-mute first, he is not able to remain married to the minor. She should therefore dissolve her obligation to him through *mi'un*. The Sages preferred this option rather than having her wait until she attains majority and receives a *get* and *chalitzah*, because of the impression that the latter process might create (*Or Sameach*). Moreover, far fewer legal details are involved (*Kin'at Eliyahu*).  
     Note the *Tur* (*Even HaEzer* 171), which interprets the Ra'avad's comments on this halachah as implying that the *yavam* should remain married to the minor. The *Tur* does not accept this view.
+
 [^63]: Once the minor has performed *mi'un*, it appears that there is no obligation for the deaf-mute to be divorced, for the minor has uprooted her connection to her deceased husband, and as such, the relations with her seemingly should not affect the status of the deaf-mute. Nevertheless, our Sages ruled that the deaf-mute must be divorced, as a penalty, because the *yavam* should have waited to engage in relations with her until the minor performed *mi'un* (*Or Sameach*).  
     The *Tur* (*loc. cit*) differs and maintains that the *yavam* may remain married to the deaf-mute. The *Shulchan Aruch* (*Even HaEzer* 171:8) quotes the Rambam's view, while the Ramah mentions that of the *Tur*.
+
 [^64]: For her marriage was established through "acceptable relations." Even if the other wife of the deceased was mentally competent, relations with her would not disqualify the *yavam's* marriage to the first *yevamah*.
+
 [^65]: Because the relations with her consecrated her. Nevertheless, continuing this marriage involves a prohibition.
+
 [^66]: Since the marriage to the mentally competent woman is binding according to Scriptural law, it supersedes the marriage to the deaf-mute.
+
 [^67]: She must be divorced, because the relations with the deaf-mute cause relations with her to be considered as "unacceptable relations." Therefore, she must receive a *get* to nullify the consecration brought about by the relations, and *chalitzah* to nullify her obligation to her *yavam*.
+
 [^68]: For these are "acceptable relations."
+
 [^69]: Since the *yavam* entered into relations with the woman past majority first, he is not able to remain married to the minor. She should therefore dissolve her obligation to him through *mi'un*, rather than having her receive a *get*, because in this manner she is not disqualified from the priesthood.
+
 [^70]: In this way, the minor dissolves all connection to the *yavam*, and there is no prohibition against his remaining married to the woman past majority. This option is preferred so that the *yavam* will have performed an act of *yibbum* that is binding according to Scriptural law.

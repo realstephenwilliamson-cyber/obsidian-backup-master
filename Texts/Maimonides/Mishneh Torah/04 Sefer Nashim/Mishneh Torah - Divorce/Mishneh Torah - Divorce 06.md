@@ -179,70 +179,126 @@ If [a person in one of these situations gave] a *get* to an agent, the agent sho
 **30.** When a husband sends his wife a *get*, he is obligated to provide her with support and fulfill the other stipulations of the marriage contract, until the *get* reaches [his wife] or a *sh'liach kabbalah* she has appointed.[^57] ^6-30
 
 [^1]: And from that time onward, the husband cannot recant.
+
 [^2]: That is, when does the requirement for witnesses apply?
+
 [^3]: See Chapter 1, Halachah 16.
+
 [^4]: See Chapter 1, Halachah 15.
+
 [^5]: A divorce is considered to be undesirable and detrimental for a woman. Therefore, an agent cannot be appointed for her without her consent. For an activity that is detrimental to a person cannot be performed on his or her behalf without his will (*Gittin* [[Gittin 62#62b|62b]]).
+
 [^6]: See *Hilchot Ishut* 3:15, where the Rambam states: "For the only purpose witnesses would serve with regard to the agency... is to make known the truth of the matter."  
     According to the Rambam, the distinction between these agents and a *sh'liach kabbalah* appointed by the woman is that through the acceptance of the *get* the marriage bonds are annulled, and "no matters involving forbidden sexual relations [are established if] fewer than two witnesses are present (*Yevamot* [[Yevamot 88#88a|88a]])." Since the *sh'liach kabbalah* is concerned only with receiving the *get*, his agency involves nothing else but the actual divorce. Hence, witnesses must be present to acknowledge the appointment of this agent. In contrast, the agency of a *sh'liach holachah* and a *sh'liach hava'ah* also involves transporting the *get*, an activity that is merely a preparatory step for the divorce. Hence, witnesses are not required for his appointment.  
     It must be emphasized that the Ra'avad and others offer a far more straightforward rationale clarifying the distinction between these agents. A *sh'liach holachah* and a *sh'liach hava'ah* each carry the *get* with them. Hence, they need no further proof of their agency. A *sh'liach kabbalah*, by contrast, does not have possession of the *get* before the divorce. Hence, his position must be strengthened by having his appointment observed by witnesses.  
     In practice, it has already become customary for the appointment of a *sh'liach holachah* to be certified by a written document. There are opinions that differ and require that the appointment of a *sh'liach holachah* also be observed by witnesses. (See *Shulchan Aruch*, *Even HaEzer* 141:11, 30, 40.)
+
 [^7]: The Rambam's statements are intended to negate the opinion of his teacher, Rabbi Yosef Migash, who maintains that a servant may serve as a *sh'liach holachah*. The *Shulchan Aruch* (*Even HaEzer* 141:31) quotes both views, but appears to favor the Rambam's view.
+
 [^8]: See Chapter 3, Halachah 15, and *Hilchot Ishut* 3:17.
+
 [^9]: The Ramah (*Even HaEzer* 141:33) states that *a priori*, it is proper that the agent not share any family ties with the husband, his wife, or the judges executing the divorce.
+
 [^10]: It would appear that even if the signatures of the witnesses have not been verified, and the acceptability of a *get* depends on the agents' statements, these individuals may serve as agents.
+
 [^11]: That the divorce is unacceptable, but not void.
+
 [^12]: As can be seen in the various manuscript copies of the Rambam's Commentary on the Mishnah (*Gittin* 2:6), the Rambam changed his opinion regarding the acceptance of these individuals as agents when the veracity of the signature on a *get* has been established. The standard text of the Commentary on the Mishnah states that if the witnesses' signatures have been verified, the *get* is acceptable unless the person worships false gods or violates the Sabbath in public. This is also the view of other authorities and is the ruling favored by the *Shulchan Aruch* (*Even HaEzer* 141:33).
+
 [^13]: See also Chapter 12, Halachah 17. Based on the objections of the Ra'avad, the *Kessef Mishneh* modifies the Rambam's ruling slightly, explaining that the intent is that the woman may not remarry, and not that the *get* is void. If, however, she does remarry, her second husband is also required to divorce her.  
     The *get* she received from her first husband is not void, because it is possible that witnesses will come and verify the signatures on the *get*. In such an event, the divorce will be effective retroactively. Nevertheless, since those signatures have not been verified as of yet, her second husband must divorce her.  
     Rav David Arameah explains that the Rambam's intent is that the *get* is still viable, but it should be given to another agent to effect the divorce. Note the *Maggid Mishneh* and others, who question the source for the Rambam's ruling.
+
 [^14]: In all these instances, since the agent was not fit to serve in that capacity at the time the agency was delegated to him, it is as if the agency had never been conveyed upon him.
+
 [^15]: The fact that, in the interim, he was unfit to serve as an agent is of no significance. Note the *Or Sameach*, who on this basis questions what the law would be if the husband negates the agency and then desires to reestablish it. Must he reappoint the agent or not?
+
 [^16]: *Gittin* [[Gittin 63#63b|63b]] states that our Sages entertained a hypothesis that this involves a disregard for the honor of the husband, and therefore the divorce should be void, but they did not accept this theory.
+
 [^17]: And thus, if a *get* were placed in her courtyard, the divorce would be acceptable. Moreover, the effectiveness of a courtyard in the acceptance of a *get* is associated with the concept of agency. (See *Bava Metzia* [[Bava Metzia 10#10b|10b]] and the gloss of the *Maggid Mishneh* on Chapter 5, Halachah 2.)
+
 [^18]: The Ra'avad disagrees with the Rambam and maintains that the rationale is that a minor is never empowered to appoint an agent. And thus, a woman below majority may not appoint a *sh'liach hava'ah* either. It must be noted that in *Hilchot Sh'luchin V'Shutafin* 2:2, the Rambam indeed states that in no instance may a minor appoint an agent. See the *Lechem Mishneh* and Rav Kapach, who emphasize that a special law applies with regard to an agent to receive a *get*, for he is considered to be the extension of the woman's hand. Note the Rambam's wording in Chapter 1, Halachah 1.
+
 [^19]: Hence, the divorce does not become final when the agent receives the *get*. It is only when the *get* reaches the woman's hand that the divorce takes effect.
+
 [^20]: I.e., the husband's statements imply that he is unwilling to give the agent the *get* in his original capacity, but that he is willing to charge him with a different agency - bringing the woman the *get* as agent of the husband.  
     This ruling is not accepted by all authorities. The Rashba and Rabbenu Nissim differ, maintaining that in such an instance, the status of the divorce is in doubt. The Rambam's opinion is quoted by the *Shulchan Aruch* (*Even HaEzer* 140:6), while the other views are cited by the Ramah.
+
 [^21]: Although with regard to the transfer of a present the Rambam maintains that the expression "Give it to him" is equivalent to saying "Acquire it on his behalf" (*Hilchot Zechiyah UMatanah* 4:4), because the husband said "Bring it to her" it is clear that he desired the agent to serve in the capacity of a *sh'liach holachah*.
+
 [^22]: The *Shulchan Aruch* (*Even HaEzer* 140:8) explains that the phrase "in the capacity in which she appointed you" is of primary significance here. If the husband does not add that phrase and says merely: "Bring the *get* to her," he is appointing the agent to be a *sh'liach holachah*, and by taking the *get* the agent is accepting this appointment. Therefore, if the agent delivers the *get* to the woman, the divorce is effective.
+
 [^23]: By serving as a *sh'liach hava'ah*, the agent accepts far more responsibility and difficulty than by serving as a *sh'liach kabbalah*. If he served as a *sh'liach kabbalah*, the divorce would be completed after he received the *get*. As a *sh'liach hava'ah*, the agent must trouble himself to bring the *get* to the woman. As such, we assume that since the woman was willing to accept the agent as a *sh'liach kabbalah*, she is certainly willing to accept him as a *sh'liach hava'ah*.  
     Note the *Lechem Mishneh* and Rabbenu Nissim, who explain that it is possible that the husband relied on the words of the agent, or it is possible that he was concerned with the words of his wife. Indeed, with regard to questions of commercial law, there is an unresolved question in *Bava Metzia* [[Bava Metzia 76#76a|76a]] regarding this matter. Following this rationale, even if the *get* never reached the woman, as long as it reached the agent the status of the divorce is in doubt. This ruling is also cited by the *Shulchan Aruch* (*Even HaEzer* 140:9).
+
 [^24]: With this expression, the woman's intent is that the agent should begin acting as her agent and hold the *get* for her. For keeping the *get* as an entrusted article violates the instructions that her husband gave him (Rabbenu Nissim).
+
 [^25]: The doubt is whether an agent can begin acting in the capacity of the woman's agent before he has completed executing the agency with which he was charged by the husband (*Gittin* [[Gittin 63#63b|63b]]).
+
 [^26]: See Chapter 1, Halachah 16.
+
 [^27]: See Chapter 1, Halachah 19.
+
 [^28]: See Chapter 1, Halachah 21.
+
 [^29]: The Rambam rules that after the fact, a *get* given in private is acceptable. There are, however, *geonim* who hold that such a *get* is unacceptable (Chapter 1, Halachah 16). Since the status of an agent is weaker than that of the husband himself, a second transfer of the *get* is required in this instance *a priori* (*Maggid Mishneh*).
+
 [^30]: See Halachah 26. The *Shulchan Aruch* (*Even HaEzer* 141:59) rules that at the outset, a husband should not nullify a *get* unless either the agent he appointed or his wife is present. Otherwise, it is possible that the woman may receive the *get* - and marry another man - before receiving notice that her *get* was nullified.
+
 [^31]: I.e., people other than the agent. If he nullifies the *get* in the presence of the agent, no one else need be present.
+
 [^32]: Note the Ramah (*Even HaEzer* 141:59), who cites an opinion that allows the husband to nullify the *get* by speaking to two people, one outside the presence of the other.
+
 [^33]: For the divorce has already taken effect.
+
 [^34]: In this context, the words "a very brief time" are a loose translation. The Hebrew term *toch k'dei dibbur* has a very specific meaning: the amount of time necessary to say "*Shalom alecha, rabbi umori*."
+
 [^35]: The rationale is that divorcing a wife is a very serious matter, and a man would not make such a decision unless he were resolute. Therefore, his change of mind is not considered to be a clarification of his original position (as in certain other instances - e.g., a retraction of a business commitment), but rather an entirely new decision. (Note the parallels to *Hilchot Ishut* 7:22, *Hilchot Avodah Zarah* 2:9 and *Hilchot Sh'vuot* 2:17.)
+
 [^36]: The fundamental principle involved is that Torah law depends on a person's acts and statements, not his feelings. Although it is obvious that the husband desired to nullify the *get*, since he was not able to take binding action the divorce is valid. (See also Halachah 25.)
+
 [^37]: See Chapter 9, Halachah 27.
+
 [^38]: The Ra'avad differs with Rambam and maintains that although a person may nullify the agency of one of the two (or ten), doing so does not nullify the agency of the other(s), and if they give the woman the *get*, the divorce is effective. Although the Rambam's opinion is also mentioned, it is that of the Ra'avad that is favored by the *Shulchan Aruch* (*Even HaEzer* 149:61).
+
 [^39]: The Ramah (*Even HaEzer* 134:1) states that even when the husband makes statements to two witnesses individually, the objection is binding.
+
 [^40]: In *Hilchot Mechirah*, Chapter 6, the Rambam explains the details of lodging an objection with regard to a sale. There he explains that when a person is compelled to make a sale against his will, he can nullify the transaction by issuing an objection stating that he was compelled to make this sale. With regard to an objection to a *get*, other authorities (see *Tur* and *Shulchan Aruch*, *Even HaEzer*, Chapter 134) also mention the concept of compulsion. The Rambam, however, omits mention of the subject entirely.  
     As reflected in Halachah 27, our Sages considered lodging an objection to a *get* in a very negative light.
+
 [^41]: The situation mentioned by the Rambam in the previous halachah is not merely a theoretical question. In many instances, a husband who was compelled to divorce his wife would seek to have the *get* nullified so that their marriage could continue. Similarly, apostates and men whose feelings toward their wives have soured have sought to nullify their divorces in order to cause their wives difficulties.
+
 [^42]: Many of the other commentaries differ with the Rambam concerning this point. Some - e.g., the Rashba - are more stringent, for they maintain that the husband can word his objection to nullify even such a statement. They explain that to insure that the *get* is not nullified, the husband must also disqualify the testimony of any witness who heard his objections.  
     Others - e.g., Rabbenu Asher - are more lenient and maintain that all that is necessary is for the husband to say that all objections to the *get* are nullified. The *Shulchan Aruch* (*Even HaEzer* 134:3) rules according to the Rashba. The Ramah maintains that Rabbenu Asher's ruling is halachically acceptable; however, he counsels following the Rashba's ruling to eliminate all doubts.
+
 [^43]: Despite the statements that he had made previously, if the husband nullified the *get* afterwards, his statements would be effective and the divorce void (*Maggid Mishneh*).
+
 [^44]: There are authorities who differ with the Rambam on this point, based on their version of *Gittin* [[Gittin 32#32b|32b]]. According to these authorities, since the *get* was written according to law, it is always able to be used for a divorce and can never be nullified by the husband. In consideration of the opinion of these authorities, the *Shulchan Aruch* (*Even HaEzer* 141:66), when quoting this law, rules that the status of the divorce is in doubt.
+
 [^45]: The point is that these expressions all indicate that the husband no longer desires to use this *get* to divorce his wife.
+
 [^46]: For all the statements quoted above are false. The *get* is effective; it is the husband who no longer desires to use it.
+
 [^47]: The Rambam implies that the question is whether the word לטב implies a future tense - i.e., that his intent is to nullify the *get* - in which instance the divorce would not be effective. Or whether it implies the past tense, in which case, as in the previous halachah, the husband would be giving us incorrect information.  
     Rashi offers a slightly different interpretation of the passage in *Gittin* [[Gittin 32#32b|32b]] that serves as the source for this halachah. The *Shulchan Aruch* (*Even HaEzer* 141:63) quotes both opinions.
+
 [^48]: If, however, the man nullifies the *get* in the presence of the agent or in the presence of his wife, there is no difficulty.
+
 [^49]: The primary reason for giving such a *get* - for the marriage is terminated with the husband's death regardless - is to free a childless woman from the obligations of *yibbum* and *chalitzah*. If the *get* was given before the husband's death, these rites are not necessary. Otherwise, they are. With the current advances in record keeping and communication, it is usually possible to eliminate the doubt mentioned in this halachah.
+
 [^50]: The *Shulchan Aruch* (*Even HaEzer* 141:69) states that this law applies only when a city is surrounded by the army of the ruling authority. If it is surrounded by an army from another country, we no longer operate under the presumption that the husband is alive.
+
 [^51]: In his Commentary on the Mishnah (*Gittin* 3:4), the Rambam defines a ship in distress as follows: "One that faces a tempest-torn sea that threatens to sink it. The sailors are unable to control its path as they desire.... Nevertheless, all the oars and the other instruments remain intact."
+
 [^52]: This applies regardless of whether the person is being tried by a Jewish court or a gentile court.
+
 [^53]: In his Commentary on the Mishnah (*loc. cit.*), the Rambam defines this as referring to a ship whose oars, steering mechanism and other navigational tools have been broken, and it is totally at the mercy of the waters.  
     The laws that apply when a ship has sunk are described in Chapter 13, Halachah 16.
+
 [^54]: The implication is that if the person was sentenced to death by a Jewish court, we presume that the sentence was carried out. (See *Hilchot Terumot* 9:2.) In contrast, there is a possibility that a gentile court will accept a bribe.
+
 [^55]: Lest the husband have died already.
+
 [^56]: For we do not know which came first, the husband's death or the giving of the *get*.
+
 [^57]: Although the husband desires to divorce her, she remains his wife until the *get* reaches her. Therefore, the husband remains obligated by the marriage contract.

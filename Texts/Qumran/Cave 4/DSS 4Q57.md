@@ -22,34 +22,34 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1-2 | Isa 9:3-12 |
-| Frag. 6 | Isa 11:4-11 |
 | Frag. 3-5 | Isa 10:23-33 |
+| Frag. 6 | Isa 11:4-11 |
 | Frag. 7 | Isa 11:14 - 12:1 |
 | Frag. 8 | Isa 14:1-5 |
-| Frag. 28 | Isa 48:10-11 |
 | Frag. 51 | Isa 14:13? |
-| Frag. 29 | Isa 48:12-13 |
 | Frag. 9 i | Isa 22:10-14 |
-| Frag. 30 | Isa 48:14-15 |
 | Frag. 10 | Isa 22:23 |
-| Frag. 31 | Isa 48:17-19 |
-| Frag. 32 | Isa 49:22 |
 | Frag. 13 | Isa 24:19 - 25:2 |
 | Frag. 12 ii, 14-15, 53 | Isa 25:8 - 26:9 |
 | Frag. 16-17 | Isa 28:6-14 |
-| Frag. 36-38 | Isa 52:10 - 53:3 |
 | Frag. 18-20 | Isa 30:8-17 |
-| Frag. 39 | Isa 53:6-8 |
 | Frag. 21-22 | Isa 33:2-8 |
-| Frag. 40 | Isa 54:3-5 |
 | Frag. 23 | Isa 33:16-23 |
-| Frag. 41 | Isa 54:7-8 |
 | Frag. 24 | Isa 44:3-7 |
-| Frag. 43 | Isa 54:9 |
 | Frag. 54 | Isa 44:23 |
-| Frag. 44-47 | Isa 54:9 - 55:7 |
 | Frag. 25-26 | Isa 45:1-4.6-8 |
-| Frag. 48 | Isa 66:20-24 |
 | Frag. 27 | Isa 45:8-13 |
+| Frag. 28 | Isa 48:10-11 |
+| Frag. 29 | Isa 48:12-13 |
+| Frag. 30 | Isa 48:14-15 |
+| Frag. 31 | Isa 48:17-19 |
+| Frag. 32 | Isa 49:22 |
+| Frag. 36-38 | Isa 52:10 - 53:3 |
+| Frag. 39 | Isa 53:6-8 |
+| Frag. 40 | Isa 54:3-5 |
+| Frag. 41 | Isa 54:7-8 |
+| Frag. 43 | Isa 54:9 |
+| Frag. 44-47 | Isa 54:9 - 55:7 |
+| Frag. 48 | Isa 66:20-24 |
 
 [[DSS 4Q56|← 4Q56]] · [[Qumran|index]] · [[DSS 4Q58|4Q58 →]]

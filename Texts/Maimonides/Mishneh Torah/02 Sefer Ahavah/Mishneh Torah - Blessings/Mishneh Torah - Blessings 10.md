@@ -199,48 +199,89 @@ I thank You, God, my Lord, for allowing me to depart in peace. As You have allow
 **26.** The general rule is: A person should always cry out [to God] over future possibilities, asking for mercy. He should thank [God] for what has transpired in the past, thanking Him and praising Him according to his capacity. Whoever praises and thanks God abundantly and continuously is worthy to be praised. ^10-26
 
 [^1]: In Chapter 1, Halachah 5, the Rambam attributed the composition of the text of all the blessings to Ezra and his court, the *Anshei K'nesset Hagedolah*.
+
 [^2]: The previous chapters described the *birkat hanehenim*, the blessings recited in acknowledgement of the benefit received from food or fragrance, based on the principle, "it is forbidden to receive benefit from this world without a blessing." In this chapter, the Rambam mentions other blessings that are recited in connection with events, sights, or news that are out of the ordinary. By reciting a blessing over these occurrences, we focus our awareness on the Divine origin of everything that occurs in this world.
+
 [^3]: See Halachot 19-25.
+
 [^4]: The words, "Blessed are You, God, our Lord, King of the World," which are used to begin blessings. (See *Hilchot Kri'at Shema* 1:7 and commentary.)
+
 [^5]: The words, "Blessed are You, God," which are used to conclude blessings. (See *Hilchot Kri'at Shema*, *ibid.*)
+
 [^6]: See Chapter 1, Halachah 4, which states that these blessings were instituted "to remember the Creator at all times and to fear Him."
+
 [^7]: See *Hilchot Tefillah*, Chapter 7, which mentions the morning blessings.
+
 [^8]: Rav Shneur Zalman of Liadi (*Piskei Siddur* 12:2) also mentions purchasing a new house.
+
 [^9]: The *Shulchan Aruch* (*Orach Chayim* 223:4) states that the blessing should be recited when the article is purchased, and not when it is first used. One feels greater satisfaction when purchasing the article than when using it.
+
 [^10]: This also refers to articles that are new for the purchaser (e.g., a used car). The world "new" is intended to exclude articles that were sold and repurchased (*Shulchan Aruch*, *ibid.*:3).
+
 [^11]: i.e., garments or household goods (*Mishnah Berurah* 223:13). This blessing should be recited only on the acquisition of important articles, whose purchase brings one considerable satisfaction. See *Shulchan Aruch* (*ibid.*:6) and *Mishnah Berurah* (*ibid.*).
+
 [^12]: As mentioned in Halachah 7, this blessing is associated with "all benefits that a person appreciates alone." Similarly, it is recited in praise of God for allowing us to fulfill certain mitzvot.
+
 [^13]: According to the Rambam, this refers to articles acquired through inheritance. If one has already purchased such an article, he should not recite a blessing. The *Shulchan Aruch* (*ibid.*:3, based on the decisions of Rabbenu Yitzchak Alfasi and Rabbenu Asher), however, states that the blessing should be recited even when he had purchased such articles before.
+
 [^14]: This decision is based on the Rambam's analysis of *Berachot* [[Berakhot 59#59b|59b]]-60a.
+
 [^15]: *Tosafot, Berachot* 58b, states that this refers to a friend who is dear and whose sight brings one satisfaction.
+
 [^16]: The *Mishnah Berurah* 225:2 mentions opinions that maintain that if one has heard news of one's friend's well-being or received a letter from him during this period, the blessing should not be recited. Note, however, Rav Shneur Zalman of Liadi's *Piskei Siddur* 12:11, in which he negates these opinions, stating that a person feels genuine satisfaction only when he sees a friend face to face.
+
 [^17]: Thirty days is considered a significant period regarding various matters of Scriptural Law.
+
 [^18]: mentioned in the previous halachah.
+
 [^19]: Although the *Panim Me'irot* states that the words "our Lord, King of the universe" need not be mentioned, the consensus of halachic opinion (see *Mishnah Berurah* 225:3) is that they should be recited.
+
 [^20]: *Berachot* [[Berakhot 58#58b|58b]] states that just as a dead person is forgotten after a year's time, so, too, a friend whom one has not seen for such a period is as if he has ceased to exist.
+
 [^21]: Although from *Bereishit Rabbah* 29:2, it is clear that the blessing should be recited whether he eats the fruit or not, the *Shulchan Aruch* (*Orach Chayim* 225:3) states that it is customary to recite the blessing before partaking of the fruit.
+
 [^22]: whether of trees or of the earth. For example, *Eruvin* [[Eruvin 40#40b|40b]] states the blessing should be recited over squash.
+
 [^23]: The Ramah (*Orach Chayim* 225:6) states that the blessing should be recited even if the fruit has two seasons a year in which it grows. The intent is to exclude fruits and vegetables that grow throughout the year.
+
 [^24]: *Eruvin*, *ibid.*, emphasizes that we are not obligated to recite this blessing (*Mishnah Berurah* 225:9).
+
 [^25]: The Ramah (*Orach Chayim* 225:3) writes that a person who did not recite the blessing the first time he saw the fruit may recite the blessing when he sees it a second time. The *Mishnah Berurah* 225:13 supports this opinion, noting that, at present, it is customary not to recite the blessing until one partakes of the fruit. Nevertheless, should he taste the fruit without reciting the blessing, it should not be recited at a later time.
+
 [^26]: This halachah is complemented by Halachah 7, which explains that the blessing *hatov v’hameitiv* is recited when the positive nature of the tidings effect others as well as oneself. If the favorable tidings are individual in nature, the blessing *shehecheyanu* should be recited. The Rambam mentions *hatov v’hameitiv* in this halachah, because he is referring to - although not quoting exactly - the text of the Mishnah, *Berachot* 9:2.
+
 [^27]: As mentioned in Chapter 4, Halachah 9, this same blessing is also recited when different wine is served during a meal.
+
 [^28]: This blessing has the implication that, although one personally feels upset over the event, he realizes that since everything is controlled by God and He is "the true Judge":  
     a) the occurrence, however tragic, was just,b) ultimately, it is intended for the good. God, who is truly good, cannot be the source of evil.
+
 [^29]: *Dayan ha'emet*
+
 [^30]: *shehecheyanu* or *hatov v’hameitiv*.
+
 [^31]: The Hebrew word translated as "your might," מאודך, is related to the word, מאוד, meaning "very." This implies that this is a dimension of love above the ordinary.
+
 [^32]: Loving God is one of the 613 mitzvot of the Torah. (See *Hilchot Yesodei HaTorah* 2:1-2.) The verse cited above is the proof-text for that commandment. Thus, the mitzvah to love God includes this "extra dimension of love."
+
 [^33]: This halachah is based on*Berachot* 9:5. Because of the deep message communicated by that Mishnah, it is worthy to quote it and the Rambam's commentary upon it:  
     We are obligated to bless [God] for undesirable occurrences in the same manner as we bless [Him] for desirable occurrences. [This is implied by [[Torah 45 - Vaetchanan#^6-5|Deuteronomy 6:5]]]: "And you shall love God, your Lord with all your heart, with all your soul, and with all your might.""With all your heart": with both your inclinations; the good inclination and the evil inclination;"With all your soul": even if it takes your soul; "With all your might": with all your money. Alternatively, the expression בכל מאדך [can be associated with the words בכל מדה and interpreted to mean] for every measure that He deals you be very, very thankful to Him.  
     On this Mishnah, the Rambam comments:  
     [The Mishnah] states: In the same manner as one blesses Him for good... [i.e.,] he should accept them with happiness, overcome his feelings, and compose his mind when reciting the blessing *Dayan ha'emet* to the extent that he should appear in the same state as when reciting the blessing *hatov v’hameitiv*.Our Sages declared... "Everything Heaven does is for good."... Although many matters may originally look unfavorable, ultimately they will bring great good. Conversely, there are many things which, at the outset, appear good, and ultimately are very bad. Therefore, an understanding person should not become aggrieved when beset with difficulties... because he does not know the ultimate outcome.A person should concentrate his thoughts [on the following objective] and ask God [for it to be realized]: That everything that happens to him in this world, both positive and unfavorable occurrences, should be with the intent of bringing him the ultimate happiness, [a portion in the world to come].
+
 [^34]: In his Commentary on the Mishnah (*Berachot* 9:3, based on *Berachot* [[Berakhot 60#60a|60a]]), the Rambam gives an example of such a situation: A person who found a lost object in *Eretz Yisrael* in Talmudic times. The Romans would punish anyone who did not deliver a lost object he discovered to the government authorities. Thus, one could ultimately be reported for having found a lost object and be forced to pay an exorbitant fine for it. Nevertheless, at the time the object is found, it is an obvious good.
+
 [^35]: The Rambam (*ibid.*) exemplifies this situation as follows: A person's fields were flooded, damaging his crops. Although the fact that his fields were watered will ultimately prove advantageous, he should recite *Dayan ha'emet*, since, immediately, he suffered a loss.
+
 [^36]: The *Rishon LeTzion* relates that the Rambam's choice of phraseology implies that even when one is certain that the opposite quality will ultimately become manifest, he should recite the blessing appropriate for the situation at present.
+
 [^37]: Rabbenu Asher maintains that even if one owns a field individually, if there are other Jews in the area who will benefit from the rain, he should recite *hatov v’hameitiv*.
+
 [^38]: Significantly, this blessing does not begin: "Blessed are You, God...."
+
 [^39]: One continues, reciting the text of the *Nishmat* prayer recited on Sabbath mornings.
+
 [^40]: The *Bayit Chadash* and the Ramah (*Orach Chayim* 221:1) state that it is not customary to recite this blessing in European countries. Since rain is plentiful there, people do not appreciate it as much. Nevertheless, should there be a drought in these countries, this blessing should be recited (*Mishnah Berurah* 221:2).
+
 [^41]: *Ta'anit* [[Taanit 6#6b|6b]], the source for this halachah, describes this situation metaphorically, "when the groom goes out to greet the bride." (See also *Berachot* [[Berakhot 59#59b|59b]].)
+
 [^42]: The same holds true for other circumstances that are, simultaneously, of both a positive and undesirable nature. For example, Ramah (*Orach Chayim* 223:1) mentions the recitation of the two blessings (*shehecheyanu* and *Dayan ha'emet*) when a man's wife dies after giving birth to a son.

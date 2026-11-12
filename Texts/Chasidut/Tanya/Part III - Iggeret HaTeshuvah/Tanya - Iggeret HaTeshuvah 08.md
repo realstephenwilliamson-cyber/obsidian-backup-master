@@ -31,9 +31,15 @@ After the cleansing spirit passes over and purifies them, then their souls are e
 This state of unity and this return are called *teshuvah ilaah*, the superior return, that follows *teshuvah tataah*, the inferior return. The *Zohar*, in *Raaya Mehemna* on *Nasso*, explains that *teshuvah ilaah* is being occupied with Torah study in reverence and fear of the Holy One…, for this is *ben yud-hey*—*binah*….[^6] (Here, the superiority of the penitent over the perfectly saintly, as the *Zohar* states in *Chayei Sara*, is that “they draw upon themselves with a more intense longing of the heart, and with greater forcefulness, to approach the King….”)[^7]
 
 [^1]: [[Psalms 051#^51-3|Psalms 51:3]].
+
 [^2]: Cf. [[Torah 21 - Ki Tisa#^34-6|Exodus 34:6-7]]. The Lubavitcher Rebbe, Rabbi Menachem M. Schneerson, has made this observation: The original verse ([[Torah 21 - Ki Tisa#^34-7|Exodus 34:7]]) quoted here includes the word “*v’chataah*,” the unintentional sin, as well as the other two, intentional sins. *Iggeret Hateshuvah* omits this one word. The reason for the omission is that in our text the Thirteen Attributes of Compassion are called forth to “correct all defects,” referring to deliberate sins for which no offering is provided. Supreme mercies alone can avail the sinner. The *chataah*, unintentional sin, does have the *chatat* offering and is commuted without calling upon “supreme” mercies. On the other hand, the verse describing the Thirteen Attributes does include *chataah* because of the following words—“He cleanses, and cleanses not,” meaning that He forgives those who return, but not the recalcitrant, as our text will shortly note. Even for unintentional sins, the verse declares, “return” is required (*Likkutei Sichot*, vol. 4, p. 1058, note 14).
+
 [^3]: [[Isaiah 59#^59-2|Isaiah 59:2]].
+
 [^4]: *Yoma* [[Yoma 86#86a|86a]].
+
 [^5]: *Sotah* [[Sotah 3#3b|3b]]. “Whoever commits one transgression in this world, it envelops him and precedes him for the Day of Judgment.” Man’s good works precede him in the World to Come, and his sins envelop him.
+
 [^6]: As noted earlier, *yud* or *chochmah* is the germ of the idea and *hey* or *binah* is its amplification and development. In *binah* there is the beginning of an emotive response to the intellectual comprehension, even before the emotions are actually manifest. This state of “intellectual” love and fear is *ben yud-hey*, the “offspring” of intellect, the same Hebrew letters as *binah*.
+
 [^7]: *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-129b|I:129b]]; *Berachot* [[Berakhot 34#34b|34b]].

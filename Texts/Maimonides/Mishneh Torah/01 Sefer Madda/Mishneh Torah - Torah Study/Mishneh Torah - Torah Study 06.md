@@ -206,172 +206,299 @@ w) a sage whose reputation is unsavory;
 x) a person who places a person under ban when the latter does not deserve [such punishment]; ^6-14
 
 [^1]: and stand up in deference to him as implied by the verse quoted
+
 [^2]: In *Sefer HaMitzvot* (Positive Commandment 209), the Rambam counts this as one of the Torah's 613 mitzvot. (See also *Sefer HaChinuch*, Mitzvah 257.)  
     In the Guide to the Perplexed (Vol. III, Chapter 36), the Rambam explains the motivating principle for this mitzvah: If respect is not shown to the Sages, their teachings will not be upheld and Torah study will be neglected.
+
 [^3]: in which case more severe measures of honor are necessary, as mentioned in the previous chapter.  
     The Ramah (*Yoreh De'ah* 244:1) states that this obligation applies only to another sage who surpasses oneself in knowledge.
+
 [^4]: *zeh shekanah chochmah,*
+
 [^5]: even if he is young.  
     The definition of a Torah sage is a matter of question. *Kiddushin* [[Kiddushin 49#49b|49b]] states:  
     "On the condition that I am a student" - we do not say that he must be comparable to Shimon ben Azzai or Shimon ben Zoma. Rather, anyone who can be asked about any matter in the area where he is studying and can reply..."On the condition that I am a wise man" - we do not say that he has to be like the Sages of Yavneh....Rather, anyone who can be asked about any Torah subject and can reply...  
     The Rambam quotes this statement in *Hilchot Ishut*. Nevertheless, since he does not specify such a definition here, in *Hilchot Talmud Torah*, one may therefore assume that in this context, he does not limit himself to that definition. The *Siftei Cohen* (*Yoreh De'ah* 244:2) addresses himself to this issue and explains that here we are referring to a Torah sage who possesses a prodigious amount of knowledge and is considered unique within his community.
+
 [^6]: *Kiddushin* [[Kiddushin 33#33a|33a]] states that once the sage comes this close, standing before him can easily be appreciated as a sign of respect. Note the contrast between this halachah and the measure of respect due one's own teacher, as mentioned in Chapter 5, Halachah 7.
+
 [^7]: However, once he passes, one may sit, in contrast to the requirement regarding one's teacher mentioned in the previous halachah.
+
 [^8]: i.e., in the inner rooms where people stand undressed. The general principle followed is: in the places where it is permitted to recite words of Torah, one must honor a sage; where one may not recite words of Torah, one should not honor a sage (*Kessef Mishneh*).
+
 [^9]: This law is not mentioned with regard to one's own teacher, since, as stated in Chapter 5, Halachah 6, one may not enter a bathhouse together with one's teacher (Rav Kapach).  
     Craftsmen are not obligated to stand before the Torah Sages while they are involved in their work - The commentaries disagree whether a craftsman may interrupt his work to show a sage this token of respect or not. The *Kessef Mishneh* states that a craftsman is permitted to do so, and rules accordingly in the *Shulchan Aruch* (*Yoreh De'ah* 244:5). In contrast, Rabbenu Nissim (*Chulin* [[Chullin 54#54b|54b]]) maintains that a craftsman is not permitted to stand, because the general impression that will be created - i.e., some craftsmen standing in honor of the sage and some not - will not be favorable.  
     This difference of opinion exists only with regard to craftsmen working independently. All authorities agree that a craftsman hired by others may not stand. His time is not his own, and by standing, he steals time from his employer.  
     for it is stated: "Stand up...and respect...." [It can be inferred that] just as showing respect does not involve a financial loss, standing need not involve a financial loss. - The *Lechem Mishneh* objects to these statements, noting that the Rambam's phraseology is not an exact quote from *Kiddushin* [[Kiddushin 33#33a|33a]], which is his source. Nevertheless, it can be explained that the Rambam is not quoting that Talmudic passage, but rather explaining a concept that can be inferred from it.
+
 [^10]: *Kiddushin* (*ibid.*) states that we would not suspect that a person would fail to honor a sage when the latter is actually in proximity to him. Rather, this implies that it is forbidden for one to turn away when he sees the sage approaching from afar, so that when the latter approaches, he will not be obligated to stand.
+
 [^11]: who probes man's heart and understands his inner feelings.
+
 [^12]: *Kiddushin* [[Kiddushin 33#33b|33b]] derives this concept through the exegesis of the verse from Leviticus quoted above.
+
 [^13]: *Kiddushin* [[Kiddushin 33#33a|33a]] promises a sage long life for following this practice.
+
 [^14]: *Kiddushin* (*ibid.*) mentions that Abbaye and Rabbi Zeira would follow this practice.  
     The *Bnei Binyamin* notes an apparent contradiction between the Rambam's statements and *BaMidbar Rabbah* 15:17. There, the *Midrash* relates that Rav Abba Cohen would always avoid crowds, lest he trouble them by causing them to rise. When he mentioned this to Rabbi Yosse, the son of Rabbi Zevida, the latter reprimanded him, explaining that he would be doing them a great favor by having them stand before him, because this would lead to the fear of God, as implied by Leviticus (*ibid.*): "Stand up before a white-haired [man]...and you shall fear your God."  
     The *Bnei Binyamin* explains that everything depends on the sage's intention. A righteous man who is not at all motivated by self-interest may appear before crowds. However, a person who is concerned with his own pride should avoid them.
+
 [^15]: i.e., we do not say that since the sage is seated on his beast, it is not considered as if he is walking. However, in other contexts - see *Hilchot Kri'at Shema* 2:2-3 - the Rambam considers riding as comparable to sitting.
+
 [^16]: *Kiddushin* [[Kiddushin 33#33a|33a]] relates that Abbaye would stand as soon as he saw the donkey of Rav Yosef, his teacher, approach.
+
 [^17]: should follow slightly behind him...
+
 [^18]: However, one who walks alongside his teacher is considered a boor (*Yoma* [[Yoma 37#37a|37a]]; see *Kessef Mishneh* and also Chapter 5, Halachah 6 above).
+
 [^19]: should follow the sage...
+
 [^20]: *Yoma* (*ibid.*) derives this formation from the pattern in which the angels who visited Abraham (Genesis, Chapter 18) walked. This formation was also employed by the High Priest and his subordinates when he would serve in the Temple.  
     The *Pri Chadash* and other commentaries question the *Kessef Mishneh*'s interpretation. One point of difficulty with the halachah in general is that it appears to refer to one's personal teacher, and thus it would more appropriately have been mentioned in the previous chapter.
+
 [^21]: This halachah in its entirety is quoted from the *Midrash Hagadol, Shemot* 33:8. (With slight textual differences, it also appears in *Kiddushin* [[Kiddushin 33#33b|33b]].) Nevertheless, the question arises: Why does the Rambam mention this particular clause? It appears redundant in light of Halachah 1. Perhaps his intent was to emphasize the contrast between an ordinary Sage and others of greater stature.
+
 [^22]: The sage second in stature to the *nasi*, and who acts as the latter's assistant (*Hilchot Sanhedrin* 1:3).  
     The laws regarding a *nasi* and an *av beit din* are also quoted in the *Shulchan Aruch* (*Yoreh De'ah* 244:13-15), which, in contrast to the *Mishneh Torah*, mentions only those halachot that are applicable in the present age. The *Siftei Cohen* (244:11) questions that inclusion, noting that today's *rashei yeshivot* and *avot batei hadin* are not paid the same tokens of respect as the *nasi* and *av beit din* mentioned here.
+
 [^23]: the *av beit din*
+
 [^24]: i.e., as soon as the *av beit din* appears on the horizon
+
 [^25]: at which point, he may sit.
+
 [^26]: In *Hilchot Sanhedrin* (*ibid.*), the Rambam describes this position as follows:  
     The wisest sage among them is appointed to be the head. He is the Rosh Yeshivah. He is the person whom the Sages referred to as *nasi* in all the sources, taking the place of Moses, our teacher.
+
 [^27]: as far away as he can see. - as explained with regard to the *av beit din*.
+
 [^28]: *Kiddushin* (*ibid.*) derives this from [[Torah 21 - Ki Tisa#^33-8|Exodus 33:8]], which relates that:  
     Whenever Moses went out to the tent, all the people would rise. Each person would stand near his tent, gazing at Moses until he came to the tent.  
     Should a nasi [desire to] waive the honor due him, he may forgo it. - i.e., although people are obligated to honor the *nasi*, should he desire to forgo those honors, there is no objection. In contrast, a king may never forgo his honor and must constantly be treated with reverence. (See *Hilchot Melachim* 2:3.)  
     *Kiddushin* [[Kiddushin 32#32b|32b]] relates the following discussion of this law:  
     An incident occurred when Rabbi Eliezer, Rabbi Yehoshua, and Rabbi Tzadok were participating in the wedding feast of Rabban Gamliel's son, and Rabban Gamliel poured drinks for them. He offered a cup to Rabbi Eliezer, and he refused to accept it. He offered a cup to Rabbi Yehoshua and he accepted it.Rabbi Eliezer told him: "Yehoshua, what is this? We are sitting and Rabban Gamliel is pouring drinks for us!"He replied to him: "We find [a precedent when] a person of greater stature served others. Abraham surpassed all others in his generation, yet \[[[Torah 04 - Vayera#^18-8|Genesis 18:8]]] relates that 'he stood over them [to serve them']. Do not think that he thought they were angels; he thought they were Arabs. If so, why shouldn't we let Rabban Gamliel serve us?"  
     The above laws refer to instances when a sage is sighted in the public thoroughfare. The following laws apply when he enters the house of study (*Hagahot Maimoniot*). (See *Horayot* [[Horayot 13#13b|13b]].)
+
 [^29]: the house of study
+
 [^30]: as a sign of respect to him.
+
 [^31]: for he is the spiritual leader of the entire nation and deserves such honor.
+
 [^32]: the house of study
+
 [^33]: At present, when we are used to auditoriums with fixed seats, the setting for this law is difficult to picture. However, in Talmudic times, the people would sit on the floor. When the *av beit din* arrived, the people sitting between the entrance and his place would stand and create a path for him two rows wide.
+
 [^34]: in the house of study are not obligated to rise as a sign of respect and may...
+
 [^35]: On the surface, it is difficult to understand why the *av beit din* is given lesser honor in the house of study than in the marketplace. Perhaps the reason is to minimize the neglect of Torah study.  
     *Horayot* [[Horayot 13#13b|13b]] relates that, originally, the people would show the same token of respect to the *av beit din* and other sages as to the *nasi*. In order to preserve the authority of his office, Rabbi Shimon ben Gamliel, the *nasi*, ordained that a lesser degree of respect be shown to all other sages.
+
 [^36]: of lesser stature than those mentioned in the previous halachah...
+
 [^37]: the house of study, a path is not made for him. Rather, he should proceed toward his place...
+
 [^38]: *Avodat HaMelech* notes that this figure is not found in *Horayot* [[Horayot 13#13b|13b]], the source for this law. Rather, it was added by the Rambam, based on the logic that no less respect should be paid to a sage when he enters the house of study than is paid to him in the marketplace.
+
 [^39]: sitting in the house of study,...
+
 [^40]: and allow him to pass.
+
 [^41]: person sitting in the house of study
+
 [^42]: to allow the sage to pass
+
 [^43]: after he has passed
+
 [^44]: the Sage
+
 [^45]: enters and sits in his place.
+
 [^46]: i.e., there are many students whose presence is an invaluable asset to their teacher, for through their questions they enable their teacher to penetrate to the core of the subject matter. Therefore, they are allowed to proceed to their places at the front of the house of study, even if doing so is somewhat discourteous to the people who have already taken places.  
     In this vein, *Yevamot* [[Yevamot 105#105b|105b]] states: Those who are required by the holy nation may step over the heads of the holy nation. However, how dare one who is not required by the holy nation step over the heads of the holy nation!
+
 [^47]: Indeed, *Berachot* [[Berakhot 43#43b|43b]] lists this as one of six undesirable tendencies that a sage should guard himself against acquiring.
+
 [^48]: doing so is considered an act of laziness, which causes unnecessary difficulty to the people sitting there.
+
 [^49]: i.e., to use the toilet (*Horayot ibid.*). Alternatively, the term *litzorech* can be translated as "for a necessary purpose" - i.e., for a purpose that benefits the people at large (*Tosafot, Yevamot* 105b).
+
 [^50]: Forcing the people to stand for him a second time, or the sage's stepping over them is not considered to be discourteous, since he was compelled to leave by forces beyond his control. However, if he leaves for other reasons, he should try not to return to his original place.
+
 [^51]: are not mature enough to merit a distinguished position in the house of study in their own right are allowed to sit before their parents as a gesture of respect to the high communal position the latter have attained (Rashi, *Horayot* [[Horayot 13#13b|13b]]). If they...  
     **have enough knowledge to listen turn their faces toward their father. If they lack the knowledge to listen, they turn their faces to the people. -** *Horayot* (*ibid.*) states that the children are allowed this privilege only during their father's lifetime, but not afterwards.
+
 [^52]: *Tosafot* (*ibid.*) notes that the expression *eino rashei* can be rendered "is not obligated," and suggests that meaning in this context. However, since rising more frequently can be construed to be an affront to God, it is questionable whether that interpretation can be accepted.
+
 [^53]: the teacher
+
 [^54]: i.e., twice daily we accept the yoke of God's service by reciting the *Shema* (*Kessef Mishneh*).
+
 [^55]: The *Shulchan Aruch* (*Yoreh De'ah* 244:1) explains this as referring to a man of seventy. Others, emphasizing that the Rambam uses the term "exceedingly advanced age," see that as a reference to *Gittin* [[Gittin 28#28a|28a]], which describes a person ninety years old with such terminology.
+
 [^56]: The Ramah (*Yoreh De'ah* 244:1) emphasizes that there is no obligation to stand before a wicked man.  
     The commentaries have raised questions concerning this law, noting that it reflects a difference of opinion between two Talmudic sages, and yet the Rambam's statements do not conform exactly to either position.  
     *Kiddushin* [[Kiddushin 32#32b|32b]] states:  
     "Stand up before a white-haired [man]." Does this apply even with regard to a common person of advanced age? The Torah continues [mentioning] "an elder." [The term] "elder" refers only to a wise man, as implied by \[[[Torah 36 - Beha'alotcha#^11-16|Numbers 11:16]]]: "Assemble seventy of Israel's elders."Rabbi Yosse Hag'lili states: [The word] "elder" means "one who has acquired wisdom..."Issi ben Yehudah states: "Stand up before a white-haired [man]" - Every white-haired man is included therein.  
     The Talmud explains that although the first opinion is similar to that of Rabbi Yosse Hag'lili, there are minor differences between them.  
     From the Rambam's statements in Halachah 1, it would appear that he follows Rabbi Yosse Hag'lili's position. However, this halachah appears to echo Issi ben Yehudah's view.
+
 [^57]: i.e., the sage of youthful age
+
 [^58]: However, anyone other than a sage is obligated to rise to his full height (*Tur, Yoreh De'ah*, 244).
+
 [^59]: *Kiddushin* [[Kiddushin 33#33a|33a]] relates that Rabbi Yochanan would stand in deference to an aged gentile, explaining: "How many experiences has he gone through!"
+
 [^60]: *Kiddushin* (*ibid.*) notes that Rabbah would follow this practice.
+
 [^61]: *Kiddushin* (*ibid.*) notes that Abbaye would follow this practice.
+
 [^62]: The commentaries question: If, in fact, the verse refers even to gentiles, and Rabbi Yochanan would follow such a practice, why doesn't the Rambam obligate standing in the presence of an aged gentile?
+
 [^63]: However, the sages must bear their share of the cost of such projects (*Hilchot Sh'chenim* 6:6). The *Shulchan Aruch* (*Yoreh De'ah* 243:1-2) adds that they are obligated to pay only the cost of the raw materials. They need not hire workers to take their place. This applies only when the work is performed by the members of the community. However, if workers are hired by the community to complete the task, the sages must also pay their share.
+
 [^64]: e.g., building, digging, or the like - [to improve] the city - In *Hilchot Sh'chenim* (6:6-7), the Rambam gives some examples of such projects: fixing roads and thoroughfares and digging irrigation channels.
+
 [^65]: *Bava Batra* [[Bava Batra 8#8a|8a]] explains that if the common people see the sages performing menial tasks, they might cease to respect them.
+
 [^66]: In *Hilchot Sh'chenim* (*ibid.*), the Rambam explains the rationale for this law. Torah sages are freed from any obligation incurred to ensure the city's protection, because they are protected by the merit of their study.
+
 [^67]: The order in which this law is taught is somewhat questionable. *Bava Batra* [[Bava Batra 8#8a|8a]], the source for these laws, mentions a sage's lack of obligation to contribute to a present for the king as part of his absolution from taxes, and not as a leniency granted to him because "his Torah protects him."
+
 [^68]: neither [their share in] a tax levied on the city as a whole nor a head tax levied on each individual - *Bava Batra* (*ibid.*) also mentions that Artashta, the Persian king who sent Ezra to rebuild Jerusalem, freed all those involved in this holy work from all forms of taxes and tribute. (See [[Ezra 07#^7-24|Ezra 7:24]].)  
     The Ramah (*Yoreh De'ah* 243:2) states that even if the gentile government levies taxes on a Torah sage, the community is obligated to pay the tax on his behalf.  
     The commentaries question whether there are sages today who are worthy of these benefits. The *Shulchan Aruch* (*Yoreh De'ah* 243:2) explains that these privileges should be extended only to those sages who devote the majority of their time to Torah study and limit their business involvement to the minimum necessary to earn a livelihood. Other authorities have voiced other opinions, some stricter and some more lenient. (See *Siftei Cohen, Yoreh De'ah* 243:7; *Choshen Mishpat* 163:14.)
+
 [^69]: an allusion to the payment of taxes
+
 [^70]: an allusion to the sages' exemption
+
 [^71]: Rav Kapach notes that in the original, there is no *vav* before the word ????. However, the quotation of the verse in *Bava Batra* (*ibid.*) does include one.  
     Similarly, if a Torah sage has merchandise to sell, he is allowed to sell it first, and no other person at the marketplace is allowed to sell until he does. - Although the Rambam harshly forbade a Torah sage from taking money from charity because of his knowledge (see Chapter 1, Halachah 7 and Chapter 3, Halachah 10), he allows a sage these privileges in earning his livelihood.  
     The *Shulchan Aruch* (*Yoreh De'ah* 243:4) states that this law applies only when the market is controlled by Jews. However, if there are gentiles who will sell their goods regardless, the other Jewish merchants are not obligated to risk suffering a loss.
+
 [^72]: i.e., a case to be tried at court
+
 [^73]: *Sh'vuot* [[Shevuot 30#30a|30a]] relates:  
     Rav Olah, the son of Rav Ellai, was involved in a judgment before Rav Nachman. Rav Yosef sent [Rav Nachman a message:] "Olah is our colleague in Torah and mitzvot."Rav Nachman said: "Why did he send this [notice] to me? To curry favor before me." Afterwards, he said: "[His purpose was] so that I try his case first."  
     *Tosafot* questions this teaching, noting that there is a positive commandment to try every case in the order that it comes before the court. Two resolutions are offered:a) If both cases come to the court at the same time, the court should try the case of the sage first;b) The positive commandment to honor a sage overrides this positive commandment. Hence, the sage's case is tried first, even if it came before the court later.  
     The *Tur* and the *Shulchan Aruch* (*Choshen Mishpat* 15:1) accept the latter position. (See also *Hilchot Sanhedrin* 21:6.)
+
 [^74]: *Sh'vuot* (*ibid.*) states: 'And the two men shall stand' ([[Torah 48 - Shoftim#^19-17|Deuteronomy 19:17]] : it is a mitzvah for the litigants to stand." Nevertheless, as a token of respect for the sage, he is invited to sit.  
     The same privilege is also granted to the litigant opposing him, because otherwise, this gesture would be considered to be an unfair advantage granted to the sage. It is worthwhile to note that in *Hilchot Sanhedrin* 21:5, the Rambam writes that, at present, it is customary to seat all litigants, "for we do not have the potential to carry out the judgments of the Torah in the proper way." These laws are quoted in the *Shulchan Aruch, Choshen Mishpat* 17:2-3.
+
 [^75]: *Sanhedrin* [[Sanhedrin 99#99b|99b]] equates such sinners with *epikorsim* - total unbelievers.  
     *Shabbat* [[Shabbat 119#119b|119b]] relates:  
     Jerusalem was not destroyed - This refers to the destruction of the city by the Babylonians.
+
 [^76]: i.e., they would scorn those who taught His words. - although the teaching is quoted from the Talmud, the Talmud does not itself define which of the verse's clauses refers to the disgrace heaped upon the sages. It is interesting to note that the Rambam's interpretation differs from that of Rashi - who equates the Sages with "His prophets" - and of the Maharsha, who interprets "the messengers of God" as the reference to the Sages. (See also Guide to the Perplexed, Vol. II, Chapter 42 and *Lechem Mishneh*.)
+
 [^77]: which precedes the list of curses to befall the Jews
+
 [^78]: See *Sifra, Bechukotai*.
+
 [^79]: In *Hilchot Teshuvah* 3:14, the Rambam mentions the sin of disgracing the sages in a list of transgressions concerning which he writes: "a person who frequently commits these sins will not receive a portion in the world to come."
+
 [^80]: i.e., even though, as stated in the previous halachah, a person who disgraces a sage will receive the ultimate punishment after his death, he is also subject to punishment in this world.
+
 [^81]: The *Siftei Cohen, Yoreh De'ah* 334:96, states that proper witnesses are not required, and even the testimony of women or slaves may be accepted.
+
 [^82]: The details of this ban are discussed in the following chapter - in particular, in Halachah 4 there. An example of a sage placing individuals under such a ban for embarrasing a sage can be found in *Mo'ed Katan* [[Moed Katan 16#16a|16a]].
+
 [^83]: The *Beit Yosef, Yoreh De'ah* 243, cites an example of the public announcement of such a ban from *Kiddushin* [[Kiddushin 70#70a|70a]]. However, the section he quotes is not mentioned in our text of the Talmud.
+
 [^84]: a Talmudic measure equal to approximately 168 grams...
+
 [^85]: *Hilchot Chovel UMazik* 3:5-6 relates: One who embarrasses a sage is obligated to pay him the full extent of the damages even though he embarrassed him only verbally. The decision has already been rendered that whoever embarrasses a sage - even with words alone - is fined...eight and three quarter *sela'im* of gold. It is an accepted tradition that this fine is collected everywhere, whether in *Eretz Yisrael* or in the Diaspora. Decisions of this nature were frequently rendered before us in Spain. Some sages would forgo payment, and that is commendable. Others would demand payment, but accept a compromise. However, the judges would tell the person who caused the embarrassment: "you are obligated to give him a *litra* of gold."  
     The Ramah (*Yoreh De'ah* 243:7) states that, at present, there are no sages whose stature is that great that they are to be awarded "a litra of gold," if they are publicly shamed. However, a person who embarrasses a sage is obligated to pay damages. This is the general opinion of most authorities at present. However, in the generations before the Ramah - and in certain communities, even after his decision - this fine was, in fact, imposed if someone publicly embarrassed a sage.
+
 [^86]: The use of this term implies that this is a lesser transgression than embarrassing a sage in his lifetime (Rivash, Responsum 120).
+
 [^87]: *Eduyot* 5:6 relates that the court imposed such a ban when someone made disparaging remarks about the sages Shemayah and Avtalion. (See also *Berachot* [[Berakhot 19#19a|19a]].)
+
 [^88]: The *Kessef Mishneh* notes that the Rambam's statements appears to imply that the ban is not lifted until the offender actually appeases the sage. He questions that decision, since it is possible that even though the offender genuinely asks for forgiveness, the sage will refuse to grant it.  
     Note *Hilchot De'ot* 6:6 and *Hilchot Teshuvah* 2:10, which advise a person who has been wronged to be generous and forgive the offender for his actions.
+
 [^89]: act on his own initiative, without bringing the matter to a court...
+
 [^90]: The *Kessef Mishneh* states that this expression implies that although a sage can be placed under ban for embarrassing a sage of greater stature, that ban may not be issued by the sage alone, and can be put into effect only by a Rabbinic court. Nevertheless, he postulates that if the sage who was embarrassed is of far greater stature than the sage who made the insult, the former is allowed to issue the ban himself, without a court.
+
 [^91]: See *Kiddushin* [[Kiddushin 70#70a|70a]]
+
 [^92]: The Ramah (*Yoreh De'ah* 243:8) mentions a difference of opinion whether, at present, there are sages of the stature that allows them to issue a ban of ostracism without taking the matter to court. See also *Pitchei Teshuvah* 243:7.
+
 [^93]: i.e., the ban may be imposed without following the standard judicial process.
+
 [^94]: See note above.
+
 [^95]: even individuals who are not sages worthy of sitting on a Rabbinic court (Chapter 7, Halachah 7)
+
 [^96]: The Rambam does not require him to ask forgiveness from the sage (see *Hilchot Teshuvah* 2:11) or repent. Perhaps this leniency is granted because the ban was imposed by the sage himself and not by an objective court.
+
 [^97]: Note Chapter 7, Halachah 13, which explains that this is the general practice of Torah sages, who are willing to forgo insults to them. However, that halachah specifies that such leniency can be granted only when the insult was made in private. If the sage was publicly disgraced, disciplinary action must be taken, or else the honor of the Torah would suffer.
+
 [^98]: The *Mishneh LaMelech* notes that this leniency is granted only regarding matters between man and man. If a person is obligated to be placed under a ban of ostracism for matters between man and God - e.g., uttering God's name in vain - the ban must be put into effect even though the individual repents. (See also *Tosafot, Yevamot* 22b.)
+
 [^99]: i.e., the case was not tried in court, but the teacher issued the ban of ostracism on his own initiative, as mentioned in the previous halachah.
+
 [^100]: for they are obligated to protect his honor...
+
 [^101]: described in Chapter 7, Halachah 4. The *Beit Yosef* (*Yoreh De'ah* 334) maintains that one can infer from the Rambam's words that the ban need not be observed by the other sages, even those of lesser stature than the teacher, who are not his students.
+
 [^102]: is not obligated to honor his student to this extent. Hence, he...
+
 [^103]: of a lesser Torah stature (*Beit Yosef*, *Yoreh De'ah* 334)
+
 [^104]: As mentioned in the following halachah, this applies only when the student imposed the ban to protect his honor. If he imposed the ban because the person violated a prohibition, his teacher would be obligated to observe it.
+
 [^105]: an affront to the honor of...
+
 [^106]: for all Israel are required to honor him.
+
 [^107]: whom all Israel are obligated to honor. This law is also quoted by the *Shulchan Aruch, Yoreh De'ah* 334:21. Note the commentary on Halachah 6, which questions the applicability of the term *nasi* within the context of our present-day experience.
+
 [^108]: for he is not obligated to honor others to this degree. In this case as well, were the ban imposed for other reasons, the *nasi* would be bound by it.  
     When a person is placed under a ban of ostracism because of - an affront to the honor of...
+
 [^109]: this also refers to a ban imposed only because of an affront to the person's honor
+
 [^110]: The *Beit Yosef* and the Ramah (*Yoreh De'ah* 334:20) maintain that even a city whose Torah stature exceeds that of the city which issued the ban is obligated to abide by it.
+
 [^111]: because he treated them disrespectfully
+
 [^112]: but other cities of lesser Torah stature are required to observe it (Ramah, *ibid.*).
+
 [^113]: leniency that frees certain people from abiding by the requirements of the ban of ostracism
+
 [^114]: The *Hagahot Maimoniot* notes that a ban can be imposed only because of disrespectful behavior. However, this punishment may not be administered for failing to honor the sage.
+
 [^115]: Many commentaries have noted the difficulty in the Rambam's words. This statement implies that there is a certain leniency with regard to a ban imposed because of the embarrassment of a Torah sage. However, the first of the 24 reasons the Rambam lists for imposing a ban of ostracism that must be observed by every Jew is disgracing a Torah sage. (See *Avodat Hamelech*.)  
     Among the resolutions of the difficulty offered is that there is a difference between a ban imposed by a court according to Torah law and a ban issued by a sage individually to protect his own honor.
+
 [^116]: as are enumerated below
+
 [^117]: the nasi and all Jews are obligated to abide by the terms of the ban - *Mo'ed Katan* [[Moed Katan 17#17a|17a]] relates that Rabbi Yehudah HaNasi's maidservant declared a ban of ostracism on a person, and the entire Jewish people observed that ban for three years.
+
 [^118]: See Chapter 7, Halachah 7.
+
 [^119]: either man or woman - Most of the instances where the Talmud mentions a ban of ostracism concern men. However, a number of cases (see *Rosh HaShanah* [[Rosh Hashanah 31#31b|31b]], *Mo'ed Katan* [[Moed Katan 16#16b|16b]], and *Nedarim* [[Nedarim 7#7b|7b]] and 50b) also involve women.
+
 [^120]: *Berachot* [[Berakhot 19#19a|19a]] mentions that this is the number of reasons for which a person can be placed under ban, but explains only several of these twenty-four reasons. A significant number of reasons are also mentioned in the Jerusalem Talmud (*Mo'ed Katan* 3:1); however, the majority of the reasons mentioned by the Rambam below were gathered by him from many different passages throughout the Talmud.
+
 [^121]: as explained above
+
 [^122]: *Berachot* [[Berakhot 19#19a|19a]] relates that a ban was imposed on a person for disgracing the sages Shemayah and Avtalion, even after their passing.
+
 [^123]: *Kiddushin* [[Kiddushin 70#70b|70b]] relates that Rav would impose a ban of ostracism for this reason.
+
 [^124]: See *Kiddushin* [[Kiddushin 28#28a|28a]].
+
 [^125]: See *Bava Kama* [[Bava Kamma 112#112b|112b]] and also *Hilchot Sanhedrin* 25:8.
+
 [^126]: *Eduyot* 5:6 relates that Eliezer ben Chanoch was placed under ban for raising difficulties regarding the practice of washing one's hands, a Rabbinic ordinance.
+
 [^127]: The *Kessef Mishneh* notes that the Rambam uses the expression, "treats with disrespect." If a person transgresses a command, he is punished by other means. However, ostracism is imposed for causing others to view a Torah or Rabbinic law disparagingly.
+
 [^128]: *Bava Kama* [[Bava Kamma 113#113a|113a]] serves as the source for this law. Note the slight difference between the Rambam's statements here and those in *Hilchot Sanhedrin ibid.*  
     **g) a person who possesses an entity that can cause damage - e.g., a dangerous dog or a faulty ladder - is placed under ban until he removes that entity -** This concept, with these two examples, is quoted from *Bava Kama* [[Bava Kamma 15#15b|15b]].  
     **h) a person who sells land to a gentile is placed under ban until he accepts responsibility for any damages which the gentile may cause his Jewish neighbor -** *Bava Kama* [[Bava Kamma 112#112a|112a]] mentions this point.  

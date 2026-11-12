@@ -98,55 +98,103 @@ With regard to *challah*, [*ibid.*] states: "You shall separate *challah* as *te
 **22.** Anyone who partakes of *terumah* should recite the blessing for that particular food and then recite the blessing:[^48] "[Blessed are You... who has sanctified us with the holiness of Aaron and commanded us to partake of *terumah*."[^49] We have received the tradition and observed that people would recite this blessing even when partaking of *challah* separated in the Diaspora.[^50] For even partaking of sacred foods from the boundaries [of our Holy Land] is like service [in the Temple],[^51] as \[[[Torah 38 - Korach#^18-7|Numbers 18:7]]] states: "I have granted you your priestly service as a gift." ^15-22
 
 [^1]: This follows the principle *devar shebiminyan lo betal*: "The presence of an object that is sold by number is never considered insignificant." Since these objects are sold by number, each one is considered important and it is not appropriate to say that one is insignificant (*Hilchot Ma'achalot Assurot* 16:1-3).
+
 [^2]: For once the barrels are opened, they are no longer considered as important. It is, however, forbidden to open the barrels, for this would be considered as purposefully nullifying a forbidden substance and that is prohibited (Radbaz).
+
 [^3]: And give it to a priest. The Jerusalem Talmud (*Terumot* 4:7) records a difference of opinion concerning this matter between Reish Lakish and Rabbi Yochanan. Reish Lakish's opinion is the one cited by the Rambam. Rabbi Yochanan, however, differs and maintains that the same law applies even with regard to figs. The Rambam rules according to Reish Lakish's opinion, for the Babylonian Talmud (*Zevachim* [[Zevachim 74#74b|74b]]) mentions his view only and not that of Rabbi Yochanan. See also *Hilchot Avodat Kochavim* 7:10 where the Rambam issues a similar ruling.  
     The Ra'avad does not accept this ruling. He maintains that the Babylonian Talmud mentions Reish Lakish's opinion only in connection with the discussion of another minority view. Hence, it is not necessary to mention Rabbi Yochanan's view.
 [^4]: Inadvertently. It is forbidden to open such a barrel intentionally.
+
 [^5]: More precisely, 1/101. I.e., the percent of the mixture that is *terumah*. This is given to a priest.
+
 [^6]: It is true that this ruling is somewhat problematic. For if the barrel is in fact *terumah*, the entire barrel, not only the hundredth portion, must be given to the priest. And if it is not *terumah*, it is permitted to drink it in its entirety. Nothing need be given to the priest.  
     The *Ma'aseh Rokeach* explains the reason for the stringency. Were this safeguard not taken, one might permit the barrels even when they were all opened.
 [^7]: Although when considering those barrels, it is necessary to give a barrel to a priest because of the suspicion that one is *terumah*, we are still stringent regarding those remaining.
+
 [^8]: Chapter 16, Halachah 1.
+
 [^9]: Based on *Hilchot Ma'achalot Assurot* 16:26, the Radbaz states that this same law applies if *terumah* is used to cause cheese to harden.
+
 [^10]: I.e., the standard ration of 1/101 is not effective to nullify the *terumah*. In his Commentary to the Mishnah (*Orlah* 2:4; *Terumot* 10:2), the Rambam explains that since the effects of the *terumah* are evident in the food - it rises or it is spiced because of it - we cannot say that the *terumah* is nullified.
+
 [^11]: We are speaking about a situation where the egg is cooked whole. Thus despite the fact that the yolk is on the inside and covered by the whites, a spice intended for it can cause it to be forbidden, because it absorbs (Radbaz, *Kessef Mishneh*).
+
 [^12]: Since the yeast was removed, we do not say that it caused the dough to rise. Instead, we assume that the dough rose on its own accord (Radbaz).
+
 [^13]: Chapter 13, Halachah 2; *Hilchot Ma'achalot Assurot* 15:1,6.
+
 [^14]: How do we know whether the flavor of the *terumah* was imparted to the mixture. We give it to a priest to taste (*ibid.* 15:29).
+
 [^15]: In his Commentary to the Mishnah (*Terumot* 10:1), the Rambam explains that this applies whether the onion is *terumah* and the lentils ordinary produce or the reverse. In both instances, since the lentils are already cooked and the onion is whole, there is little likelihood that one will absorb the flavor from the other.
+
 [^16]: Here also the same principle applies whether it is the onion or the lentils which are *terumah*. Since the onion is diced, it will both impart and absorb flavor easier.
+
 [^17]: Since the onion is cooked, even if it is whole, it can both impart and absorb flavor easily.
+
 [^18]: I.e., in addition to the lentils.
+
 [^19]: As the Rambam proceeds to explain, lentils are considered as being unique. Once they are cooked, they do not absorb flavor from other foods easily. Other foods are more absorbent. Even after they have been cooked, they may absorb the flavor of the onion.
+
 [^20]: The *Kessef Mishneh* suggests that the text should read *rabbim*, "many," instead of *rachim*, "soft;" i.e., one onion that is whole will not impart that much flavor, but several onions will.
+
 [^21]: Once the tip or the outer shell is removed, its flavor will be imparted easily even though it is still whole.
+
 [^22]: In certain contexts (see *Hilchot Ma'achalot Assurot* 15:34), pickling is considered as cooking. Nevertheless, in this instance, the Rambam rules leniently.
+
 [^23]: Because their sharp and pungent taste nature causes their flavor to be imparted to any vegetables pickled with them [the Rambam's Commentary to the Mishnah (*Terumot* 10:10)].
+
 [^24]: For the onion will not absorb the flavor of the other produce.
+
 [^25]: When olives are crushed, they will absorb easier [the Rambam's Commentary to the Mishnah (*Terumot* 10:7)].
+
 [^26]: For the brine imparts its flavor to the objects pickled in within it.
+
 [^27]: For it has absorbed the flavor of the *terumah*.
+
 [^28]: Anise is used as flavoring. Once it has flavored other foods, it is discarded. Hence, until it has flavored other foods, it is significant and the laws of *terumah* apply. Afterwards, it is considered as a wasteproduct (Radbaz).
+
 [^29]: Even though the bread may absorb the fragrance of the wine, it does not absorb its substance and the fragrance alone is of no consequence. This is a general principle that applies with regard to all prohibited foods; see *Hilchot Ma'achalot Assurot* 15:33.
+
 [^30]: It is considered as the actual substance of the wine has been imparted to the bread.
+
 [^31]: In *Hilchot Ma'achalot Assurot* 16:22, the Rambam writes that when an oven is heated with shells of produce that is *orlah* or mixed species in a vineyard, whatever is cooked in the oven is forbidden. The commentaries note, however, that there is a fundamental distinction between the two instances. It is forbidden to benefit from - not only to eat - the prohibited substances mentioned in *Hilchot Ma'achalot Assurot.* It is, by contrast, permitted to benefit from *terumah*.
+
 [^32]: This concept also applies with regard to all the Torah's prohibitions; see *Hilchot Ma'achalot Assurot* 15:28.
+
 [^33]: A pungent herb.
+
 [^34]: I.e., without the influence of the plant whose flavor is similar to that of the seeds. The rationale is that the plant is not considered as *terumah* [the Rambam's Commentary to the Mishnah (*Terumot* 10:5)]. See also Chapter 2, Halachah 4.
+
 [^35]: And the ordinary wine is less than 100 times the amount of *terumah* wine.
+
 [^36]: See Chapter 13, Halachah 9, which explains that the water is not combined with the ordinary wine to create a mixture 100 times the amount of the *terumah*.
+
 [^37]: The Radbaz notes that in *Hilchot Ma'achalot Assurot* 16:32, the Rambam writes a similar law with regard to wine associated with idol worship that fell on produce. There, however, he rules stringently, stating that the fruits are forbidden if the wine is poured upon them while they are broken open. The Radbaz explains that the Rambam did not mention the point here, because he relied on what he had stated earlier. Indeed, if the fruit was broken open and the wine improved its flavor, it should be sold to a priest at the price of *terumah*.
+
 [^38]: Even though oil is more likely to cling to fruit than wine, it is sufficient to wash the fruit. Generally, oil does not improve the taste of fruit (Radbaz).
+
 [^39]: For in this way, the oil can be removed without it mixing with the wine. Similarly, oil impairs the flavor of wine (*ibid.*).
+
 [^40]: This stringency is necessary, because oil improves the flavor of brine (*ibid.*).
+
 [^41]: The Ra'avad questions the Rambam's ruling, asking why this instance is different from the laws involving non-kosher food absorbed in a utensil. In that instance, it is not sufficient to wash out the utensil, one must perform *hagalah*, boiling water in the utensil to purge the absorbed matter. The Radbaz explains that the Rambam maintains that this concept applies with regard to sanctified foods and other prohibitions, but not with regard to *terumah*. The rationale is that if the priests consider the *terumah* insignificant - as would be the case with regard to *terumah* absorbed in a pot - it is no longer of consequence. He draws support for this explanation from the mishnah in *Terumot* 11:8 (quoted in Chapter 11, Halachah 15) which states that after one pours out the contents of a jug of wine of *terumah*, one can pour ordinary wine into the container even if there is a small amount of residue from the previous wine. This explanation is also given in one of the responsa ascribed to the Rambam in a response to a question concerning this subject by the sages of Lunil. The *Kessef Mishneh* also cites these ideas and states that the reason the Rambam requires that the pot be washed out is because the contents are being cooked. If they were not to be cooked, even washing would not be necessary.
+
 [^42]: This leniency applies only with regard to *terumah* and not to prohibited food absorbed in a utensil. The rationale is the same as in the previous note: Since the priests consider this *terumah* insignificant, we do not show concern about it (Radbaz).
+
 [^43]: The portion of dough that must be separated and given to a priest.
+
 [^44]: See Chapter 10, Halachah 4.
+
 [^45]: This verse refers to *challah*; or it is comparing *challah* to the great *terumah*. Perhaps a scribal error crept into the text and this was intended as support for the following clause. The Radbaz, however, gives an explanation why it was included here.
+
 [^46]: I.e., to cause a mixture to be forbidden to non-priests.
+
 [^47]: Produce from which we are unsure that the tithes have been separated.
+
 [^48]: For partaking of *terumah* is a mitzvah and we are required to recite a blessing before the observance of all mitzvot (*Kessef Mishneh*).
+
 [^49]: See *Hillchot Bikkurim* 1:2.
+
 [^50]: Even though it is only a Rabbinic commandment.
+
 [^51]: *Pesachim* [[Pesachim 72#72b|72b]] relates that one day Rabbi Tarfon did not come to the House of study. Rabban Gamliel rebuked him for his absence. Rabbi Tarfon answered that he was carrying out priestly worship. Rabban Gamliel asked him how that was possible, for they lived in the era of the Temple's destruction. Rabbi Tarfon replied that partaking of *terumah* was equivalent to serving in the Temple.

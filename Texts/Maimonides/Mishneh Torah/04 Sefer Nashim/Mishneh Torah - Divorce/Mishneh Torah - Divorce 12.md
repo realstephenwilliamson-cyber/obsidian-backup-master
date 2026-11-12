@@ -152,69 +152,127 @@ If one says, "My husband died," and her husband's other wife denies this, saying
 If one says, "[My husband] died," and the other says, "He was killed," they both are granted permission to remarry, for they both are testifying that he is no longer alive.[^59] ^12-24
 
 [^1]: She is not contradicting her original statements, but rather adding information, and that information serves as the basis for changing her status. This ruling applies even if she makes her second statement after a significant time has passed since she made her first statement (*Maggid Mishneh*). Rav Moshe HaCohen objects, maintaining that her second statement must be made directly after her first statement. Although the *Shulchan Aruch* (*Even HaEzer* 152:6) quotes both opinions, it appears that the Rambam's opinion is favored.
+
 [^2]: I.e., we do not know for certain that she has been married, but she and her husband have lived together as man and wife. See *Sefer HaKovetz*, which notes that the Rambam's wording deviates from his source (*Ketubot* 2:5), which mentions that witnesses say that the woman was married.
+
 [^3]: Instead, she is considered to be married to her husband until she brings proof to the contrary. If she remarries, she is forced to leave her second husband (*Maggid Mishneh; Shulchan Aruch*, *Even HaEzer* 152:7). There is a difference of opinion among the authorities regarding whether her second husband is required to give her a formal divorce. (See *Beit Shmuel* 152:12.)
+
 [^4]: I.e., should her present husband die, she would not be allowed to marry a priest. (See Halachah 3.)
+
 [^5]: I.e., we do not accept her statements entirely, and therefore require her to undergo *chalitzah*. Nevertheless, because there is a possibility that her statements are true, we do not allow her to undergo *yibbum*, for if she had in fact been divorced, relations with her late husband's brother would be forbidden.
+
 [^6]: Chapter 7, Halachah 24. As mentioned in the notes on that halachah, the Ra'avad differs with the Rambam concerning this issue. Both opinions are quoted by the *Shulchan Aruch* (*Even HaEzer* 142:13-14), but later (*loc. cit.* 152:9), the *Shulchan Aruch* mentions only the Rambam's view.
+
 [^7]: I.e., these two phrases are part of a single claim. This translation is based on manuscripts of the *Mishneh Torah that state ומזוייף, "And it is a forgery." The standard printed version omits the first vav* leading to the conclusion that the Rambam is speaking about two claims. This conception is also reflected in the statement of the law in the *Shulchan Aruch* (*Even HaEzer* 152:10).
+
 [^8]: See Chapter 7, Halachah 2.
+
 [^9]: See Halachah 1.
+
 [^10]: I.e., although we do not accept her statements, we require her to abide by all the stringencies they imply.
+
 [^11]: There are several qualifications to this principle: First, the woman must make this statement in the presence of her husband. If he is not present, we fear that she will speak brazenly (*Hilchot Ishut* 4:13). And, as implied by Halachot 6 and 14 of this chapter, if there is one witness who supports the woman's statements, her word is not accepted. We fear that the support the witness gives her will encourage her to lie. Similarly, as reflected in the following halachah, if her husband supports her, her word is not accepted.  
     In *Hilchot Ishut* (*loc. cit.*), the Ra'avad states that the woman's word should be accepted only insofar as to require her to receive a *get* if she remarries. She is not given license to remarry, nor may she collect the money due her by virtue of her *ketubah* from her first husband unless she proves that she has been divorced. The Ramah (*Even HaEzer* 17:2) quotes both views. He states, however, that in the present age, since brazen behavior is more common, the presumption upon which the Rambam's ruling rests is no longer a viable support.
+
 [^12]: See Chapter 10, Halachah 3.
+
 [^13]: I.e., that she will remarry and then he will prove that her second marriage is adulterous, in which case she will be bound by all the stringencies stated in Chapter 10, Halachot 4 and 7.
+
 [^14]: As reflected by Halachah 8, in this instance the testimony of the witnesses must be to the effect that the divorce was not carried out in an adequate manner.
+
 [^15]: This assumption has sufficient legal power to counterbalance the prevailing assumption that the woman is still married. (See *Beit Shmuel* 152:5.)
+
 [^16]: If they do not all live in such proximity, there is no question, and *a priori,* she is given permission to remarry (*Beit Shmuel* 152:6).
+
 [^17]: We assume that if in fact she had been divorced, the matter would have attracted the attention of all those dwelling in the courtyard.
+
 [^18]: I.e., both the witnesses say that she was married, and only one says that she was divorced. Note the contrast to the parallel situation with regard to *kiddushin* as mentioned in *Hilchot Ishut* 9:31.
+
 [^19]: See Halachah 3. In this respect, there is no difference between the woman's agent and herself.
+
 [^20]: The Rambam's ruling applies even when the husband, the wife and the agent are all in the same city. Even though one might think that in such an instance, if the husband's intent was to divorce his wife, he would have given the *get* to her directly and not to an agent, the agent's word is accepted.  
     There is another opinion in *Gittin* [[Gittin 64#64a|64a]], which maintains that in the same city, the agent's word is not accepted, and several *Rishonim* follow this view. Both opinions are mentioned by the *Shulchan Aruch* (*Even HaEzer* 141:55), but the Rambam's opinion appears to be favored. The Ramah states that the agent's word is accepted only while he is in possession of the *get*.
+
 [^21]: When quoting this law, the *Shulchan Aruch* (*loc. cit.*) appears to favor an opinion that accepts the woman's corroboration of the agent's statement, even when she is not in possession of the *get*.
+
 [^22]: I.e., even though the agent is no longer in possession of the *get*, his word is accepted. Since the woman has the potential to return it to him, it is considered as if it is still in his possession (*Beit Shmuel* 141:83).
+
 [^23]: When quoting this law, the *Shulchan Aruch* (*Even HaEzer* 141:56) states that it applies when there are no witnesses who saw the *get* in the woman's possession.
+
 [^24]: This halachah is speaking about an agent who acts on behalf of the husband, giving the *get* to his wife.
+
 [^25]: On one hand, there is a legal principle: "One can assume that an agent has carried out his mission," and yet our Sages maintain that this construct should be accepted only with regard to the stringencies it implies (*Gittin* [[Gittin 64#64b|64b]]). As such, with regard to marrying into the priesthood and the like, the woman is considered as if she has been divorced. Nevertheless, she is not given permission to remarry unless she has the signatures of the witnesses to the *get* verified, or if the witnesses to its transfer testify to that effect.
+
 [^26]: See Chapter 9, Halachah 32 and the gloss of the *Maggid Mishneh* on that halachah.
+
 [^27]: See Halachot 4 and 6.
+
 [^28]: The reference is to Halachah 11. There is a slight difference in this instance, because the original agent is not necessarily making these statements to the court himself. Nevertheless, as long as witnesses saw the *get* in the possession of the original agent, the statements of the agent who gave the *get* to the woman are accepted.
+
 [^29]: As mentioned in the notes on Halachah 11, there are opinions that maintain that this applies only when the husband, the agent and the woman are located in different cities. If all three are located in the same city, these opinions maintain that the husband's word should be accepted if he states that he gave the agent the *get* for safekeeping. In this instance, as well, although both views are mentioned by the *Shulchan Aruch* (*Even HaEzer* 141:57), the Rambam's view is favored.  
     Moreover, as mentioned in those notes, the Ramah maintains that if the *get* is no longer in possession of the agent, his word is not accepted.
+
 [^30]: As will be explained, different rules apply if the couple is known to quarrel (Chapter 13, Halachah 1), or war prevails throughout the world (Chapter 13, Halachah 2).
+
 [^31]: As reflected by the Rambam's statements at the conclusion of Chapter 13, it appears that according to Scriptural law, the testimony of one witness is accepted in instances of this nature.
+
 [^32]: The testimony of such individuals is never accepted according to Scriptural law. The acceptance of such testimony in this instance is a leniency adopted by the Sages so that Jewish women will be able to remarry. (See the conclusion of Chapter 13.)  
     This halachah begins the discussion of the subject of *agunot*, women whose husbands are missing and presumed to have died. In previous generations, this was a recurrent difficulty, for business journeys were replete with danger, and moreover, pogroms and persecution were constant threats. Often, men disappeared and were presumed to have died or to have been killed, and yet there was no conclusive proof to that effect. Indeed, a significant amount of the Rabbinic literature of previous generations was devoted to questions of this nature.  
     In the present age, with the communications revolution and the advent of more highly developed means of identification, these problems have been minimized. But they still arise. After each of Israel's wars, lengthy investigations were necessary before permission to remarry was granted to the wives of the casualties. And when, heaven forbid, there are Jews killed in plane crashes and the like, Rabbis must make careful inquiries based on the principles reflected in the halachot that follow.
+
 [^33]: See Halachah 24, which states that the testimony of these women is not considered at all, regardless of whether they say that the woman's husband is alive or that he has died.
+
 [^34]: I.e., we fear that out of hatred, these women will testify that a woman's husband has died so that she will marry another person, and when her first husband returns she will be forced to leave both relationships.  
     The *Kessef Mishneh* states that the phrase "although he is still alive" is meant to exclude an instance in which a woman's husband died and she remarried. The five women who share these close family ties with her first husband are not disqualified from giving testimony with regard to the death of her second husband. The implication is that these women's hatred has a specific objective: to cause the woman to be divorced from her husband. Once she is no longer married to him, they no longer harbor such feelings.  
     The *Beit Shmuel* 17:13 and Rabbi Akiva Eiger question this ruling on the basis of the Rambam's wording in Chapter 7, Halachah 3, which states: "These are the women who we presume hate each other . . . another woman married to the same man - this applies even if this woman has since remarried." Nevertheless, this halachah can be interpreted to mean that although the other woman has remarried, she wants the woman who was married to her first husband also to be forbidden to him.
+
 [^35]: Who we assume would identify with her mother. Moreover, the daughter of the mother-in-law may have a personal grudge, because the other woman will enjoy the inheritance of her parents' estate.
+
 [^36]: I.e., the woman married to her husband's brother, whom her husband would have to marry if his brother died without children. Since it is possible that they will share the same husband, there may be enmity between them.
+
 [^37]: I.e., she is jealous of the woman who took her mother's place.  
     Because of the bad feelings that characterize the relationship between these pairs, testimony is also disqualified in the reverse of the above situations. For example, if the husband of the daughter of a woman's husband is missing, the woman may not testify about the matter, although she has no natural reason to hate the other woman.
+
 [^38]: See Chapter 13, Halachah 11, which explains that when the gentile makes statements casually, relating events that took place, his word is accepted.
+
 [^39]: This refers to two categories of individuals: a) one who transgresses a prohibition punishable by lashes, and b) one who violates a prohibition of the Torah that involves taking money unjustly. (See *Hilchot Edut*, Chapter 10.)
+
 [^40]: We fear that he is able to be bribed to give false testimony.
+
 [^41]: E.g., a person who takes interest forbidden by Rabbinic law, or a gambler (*Hilchot Edut* 10:3). (See also *Hilchot Edut* 11:1-5, which mentions other base individuals whose testimony was disqualified.)
+
 [^42]: Although our Sages disqualified the testimony of such individuals in other instances, they relaxed this restriction in this regard, so that the woman would be granted the opportunity to remarry.
+
 [^43]: The Ramah (*Even HaEzer* 17:37) follows the ruling of Rabbenu Asher, who maintains that the woman should not remarry because of the gossip that might ensue.
+
 [^44]: Or, as in the case at hand, the testimony of one witness that is considered to be equivalent to that of two.
+
 [^45]: When the *Shulchan Aruch* (*Even HaEzer* 17:37) quotes this law, it states that the witness who says that the husband did not die came before the woman was granted license to remarry. See *Beit Shmuel* 17:110.
+
 [^46]: In the previous instance, a ruling was already delivered, and the testimony of one witness is not sufficient to detract from that ruling. In this halachah, by contrast, a ruling has not been issued, and one witness has no more halachic power than the other.
+
 [^47]: See *Hilchot Shegagot* 8:3, where the Rambam states that the woman and her second husband are obligated to bring the guilt offering sacrificed to bring atonement when one is in doubt of whether or not one committed a transgression.
+
 [^48]: This is interpreted by most commentaries to mean: "I know that he died." Rashi (*Ketubot* [[Ketubot 22#22b|22b]]) states that it means: "I know that if he were alive, he would have returned by now," but this interpretation is not accepted by the later authorities.
+
 [^49]: The rationale for this decision is stated above in Halachah 7. At the outset, however, she should not remarry, not even to this witness (*Beit Shmuel* 17:113). There are, moreover, significant halachic authorities who rule that she must leave her second husband. Their opinion is also mentioned in the *Shulchan Aruch* (*loc. cit.*), but the Rambam's opinion appears to be favored.
+
 [^50]: I.e., the stringency mentioned at the conclusion of the previous halachah.
+
 [^51]: I.e., the number is not significant. The same law applies whether two or 200 come.
+
 [^52]: Thus, she may not marry at all (and if she marries, may not remain married to her second husband unless she marries the witness, as the Rambam continues in Halachah 19). The *Maggid Mishneh* and the Ramah (*Even HaEzer* 17:37) emphasize that this applies only when the women or the witnesses who are usually disqualified come before the woman is granted permission to marry. If, however, she is granted permission to marry on the basis of the testimony of an acceptable witness, the testimony of these individuals does not cause that license to be rescinded.
+
 [^53]: The wording used by the Rambam is slightly confusing, for we are speaking about an instance when only one acceptable witness testifies on her behalf. (See *Beit Shmuel* 17:118.)
+
 [^54]: According to the *Maggid Mishneh*, this applies even if the woman was granted license to remarry before the other witness came. This opinion is reflected in the ruling of the *Shulchan Aruch* (*Even HaEzer* 17:38). If, however, two women testify that a woman's husband has died, and permission is granted for the woman to remarry, the testimony of a single acceptable witness is not sufficient for that license to be revoked (*Maggid Mishneh*; Ramah, *Even HaEzer* 17:38).
+
 [^55]: I.e., if the same situation occurred with regard to acceptable witnesses, the laws stated in the following halachah would apply. With regard to acceptable witnesses, as long as two witnesses dissent, it makes no difference how many witnesses support the other opinion.
+
 [^56]: This applies even when the woman married after receiving license from a Rabbinic court. If two witnesses come afterwards and testify that her first husband is still alive, we give credence to their statements (*Beit Shmuel* 17:128).
+
 [^57]: See Halachah 15.
+
 [^58]: I.e., she is marrying with the intent that the other wife will follow suit and also marry. Then her first husband will return, and they will both become forbidden to him. In describing this sequence, *Yevamot* [[Yevamot 120#120a|120a]] recalls Samson's prayer ([[Judges 16#^16-30|Judges 16:30]] : "May I die together with the Philistines" - i.e., she will harm herself in order to harm her rival.
+
 [^59]: The fact that their testimonies contradict each other is not significant.

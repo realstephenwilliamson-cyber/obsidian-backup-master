@@ -131,82 +131,144 @@ The laws that apply to a person who forgot and did not join in a *shituf* with t
 For this reason, a *shituf* is not established in half a city.[^63] Either the entire city joins in the *shituf* or [separate *shitufim* are made], each lane for itself. Each lane should build a pillar at its entrance to keep its domain distinct from the others, so that it will not cause [the inhabitants of] the other lanes to be forbidden [to carry]. ^5-24
 
 [^1]: A *shituf* established by the inhabitants of a lane is mentioned because it can be established with other types of food besides bread. In contrast, an *eruv* for a courtyard may be established only with bread (Chapter 1, Halachah 8). The Rashba (as quoted by the *Maggid Mishneh*) states that the same principle would apply if the inhabitants of a courtyard established a business partnership for the sale of bread.
+
 [^2]: The *Tur* (*Orach Chayim* 366) states that even if the partnership involves several types of produce, as long as it is stored in a single container, the inhabitants may rely on it for the sake of the Sabbath. The Ramah (*Orach Chayim* 386:3) quotes this ruling.
+
 [^3]: The Rambam's ruling is based on *Eruvin* [[Eruvin 68#68a|68a]]. In his commentary on that passage, Rashi explains that this refers to the food set aside for the *shituf*. If the person asks for some of this food and it is not given to him, the *eruv* is nullified.  
     Although this does not appear to be the Rambam's intent, the *Kessef Mishneh* explains that his words can be interpreted in this manner. [And in the *Shulchan Aruch* (*Orach Chayim* 366:5), Rav Yosef Karo rules according to his explanation in the *Kessef Mishneh*]. The Ra'avad goes further and explains that this law applies only when one person has granted others a share in his produce for the purpose of establishing a *shituf*. If, afterwards, he refuses to allow one of the members of the lane to take from the *shituf*, the *shituf* is nullified.
+
 [^4]: With the intent of nullifying the *shituf*.
+
 [^5]: I.e., in contrast to the previous law, this person was not a regular participant in the *shituf*.
+
 [^6]: I.e., the communal court may compel him to join the *shituf*. Nevertheless, in contrast to the previous law, the matter may not be dealt with by the inhabitants of the lane themselves (*Maggid Mishneh*). This ruling is quoted by the *Shulchan Aruch* (*Orach Chayim* 367:1).  
     The *Noda BiY'hudah* (Vol. II, *Choshen Mishpat*, Responsum 39) points to *Hilchot Sh'chenim* 5:12 (quoted in the *Shulchan Aruch, Choshen Mishpat* 162:1), which appears to contradict this interpretation, for it states that the members of the lane may compel each other to build a pole or a beam for a courtyard. The *Noda BiY'hudah* explains, however, that there is a difference between the structure of a courtyard (i.e., the pole or the beam) and participation in an *eruv*.
+
 [^7]: According to most authorities, the inhabitants of such a courtyard have the right to establish a *shituf* with the inhabitants of both lanes, if they desire. If they chose this option, they may bring articles to and from both lanes. The *Maggid Mishneh* maintains that the Rambam accepts this view, as well.  
     There are opinions (see Rabbenu Yehonatan) that maintain that Rabbenu Yitzchak Alfasi differs with this view, and maintains that in such a situation, the inhabitants of the courtyard may join in a *shituf* with the inhabitants of only one lane. Some maintain that the Rambam also accepts this view. This is surely the opinion of the Ra'avad, who objects to the Rambam's ruling here.  
     This interpretation cannot be justified in light of the Rambam's ruling in Halachah 7. Accordingly, *Merkevet HaMishneh* offers a different interpretation of Rabbenu Yitzchak Alfasi's view, as is explained in the following note.
+
 [^8]: In Chapter 1, Halachah 20, the Rambam states: "A person need not inform the inhabitants of a lane or a courtyard that he has granted them [a portion of food] and established an *eruv* for them, for these deeds are to their benefit, and a person may grant a colleague benefit without the latter's knowledge."  
     The rationale behind that ruling is that it is surely to the benefit of the inhabitants of a courtyard to be able to bring articles to and from areas outside their courtyard. In this instance, however, the establishment of a *shituf* is not necessarily to the benefit of the inhabitants of that courtyard, and they must therefore be notified beforehand.  
     The *Maggid Mishneh* explains that the *shituf* is not necessarily to their benefit, because they have another alternative to transfer articles to and from the courtyard from outside. Hence, it is possible that the inhabitants of the courtyard do not desire to join in the *shituf* with this lane, lest doing so increase the amount of human traffic in their courtyard.  
     According to Rabbenu Yitzchak Alfasi's view, the question facing the inhabitants of this courtyard is: If they do not join in a *shituf* with either of the lanes, they are allowed to transfer articles left in the courtyard at the commencement of the Sabbath to and from both the lanes. Should they join in a *shituf* with only one of the lanes, although their opportunities are greatly increased with regard to transferring articles to and from the lane with which they established the *shituf*, they lose the opportunity to transfer articles to and from the other lane. Perhaps they would desire to maintain the situation as it was originally rather than forfeit this opportunity.
+
 [^9]: In this ruling, the Rambam's interpretation of *Eruvin* [[Eruvin 80#80a|80a]] (the source for this halachah) parallels that of Rabbenu Chanan'el. Rashi, the Ra'avad, and others offer a directly opposite interpretation of that passage. The *Shulchan Aruch* (*Orach Chayim* 367:1) follows the latter view.  
     The Ra'avad's objection to the Rambam's ruling revolves around the interpretation of the passage cited above, which begins:  
     A [gentile] officer lived in Rabbi Zeira's neighborhood. [The Jews] offered to rent his domain on the Sabbath, but he refused.  
     They came to Rabbi Zeira and asked whether they could rent it from his wife. He told them, "...A person's wife may establish an *eruv* on his behalf without his knowledge."  
     According to the Rambam, the law Rabbi Zeira cites as support is not entirely analogous to the situation regarding which he was asked. A Jew's wife may establish an *eruv* without his knowledge, but not against his will. A gentile's wife, by contrast, may rent out his domain even when he has already refused (*Sefer HaKovetz*).
+
 [^10]: Since they agreed to join in the *shituf* previously, we assume that they desire to continue the arrangement (*Levush, Orach Chayim* 368:1).
+
 [^11]: Rashi (*Eruvin* [[Eruvin 80#80b|80b]]) explains that this refers to establishing the second *shituf* with a different type of produce, rather than establishing the first *eruv* with two types of produce. His approach is cited by the *Shulchan Aruch* (*Orach Chayim* 368:1).
+
 [^12]: Note Chapter 1, Halachah 11, where the Rambam states that a *shituf* can be established using two types of produce. The Ra'avad objects both there and here.
+
 [^13]: See Chapter 1, Halachah 9.
+
 [^14]: *Merkevet HaMishneh* explains that, even according to the Rambam, using two types of produce for a *shituf* is undesirable. Therefore, if the *shituf* must be established anew, it is necessary to check whether the inhabitants of the lane consent.
+
 [^15]: For perhaps they would desire to establish the *shituf* with the inhabitants of the other lane.
+
 [^16]: See the notes on Halachah 4.
+
 [^17]: Unless they join together in a *shituf*.
+
 [^18]: Since there is a courtyard in their lane that has not joined in the *shituf*, all the inhabitants of the lane are forbidden to carry.
+
 [^19]: Unless they join in a *shituf*.
+
 [^20]: Even when they do not join in a *shituf*.
+
 [^21]: Provided they establish an *eruv* for themselves.
+
 [^22]: Based on the principles stated in the previous halachah, it would seem that the fact that the inhabitants of this courtyard have not joined in the *shituf* of the lane through which they usually pass would cause carrying to be forbidden in this lane. Nevertheless, since the inhabitants of this courtyard have another alternative, they are considered part of the courtyard through which they do not usually pass. The rationale is that through this decision, one group of people (the inhabitants of the lane who established a *shituf*) benefits (for their *shituf* is considered acceptable), and another group (the inhabitants of the courtyard in question) does not lose (for they are forbidden to carry regardless) [*Eruvin* 49a].
+
 [^23]: As the Rambam explains in *Hilchot Shabbat* 16:3, this is an area of 5000 square cubits. The Sages forbade carrying in such an area, even when it is surrounded by a proper partition (*loc. cit.*:1-2).
+
 [^24]: I.e., we assume that the entrance that is more important to them is the entrance to the enclosed area and not the entrance to the lane. Hence, the fact that they have an entrance to the lane is of no significance.
+
 [^25]: See Chapter 4, Halachah 13.
+
 [^26]: See also Halachah 24 and Chapter 4, Halachah 16.
+
 [^27]: See Chapter 2, Halachot 1-5.
+
 [^28]: Chapter 4, Halachah 1.
+
 [^29]: I.e., an *eruv* established within a courtyard will be seen by the children, and they will know that it is only because of this *eruv* that the restrictions against carrying are relaxed. If, however, there is only a *shituf* in the lane, it is unlikely to be noticed by the children, and they will not know about the restrictions established by our Sages (*Eruvin* [[Eruvin 73#73b|73b]]). (See, however, the notes on the following halachah.)
+
 [^30]: For the *shituf* requires the participation of all the inhabitants of the lane.
+
 [^31]: See Halachah 15.
+
 [^32]: I.e., if one person will give a colleague bread - other than the bread of the *shituf* - when asked (Ra'avad, *Maggid Mishneh*, based on the Jerusalem Talmud, *Eruvin* 6:8).
+
 [^33]: Rav Moshe HaCohen notes an apparent contradiction between this halachah and Chapter 1, Halachah 19, which states that if a *shituf* was established with bread, there is no need for *eruvin* within the courtyards, because the children will be aware of the collection of loaves of bread. He maintains that this leniency may be accepted at all times. The *Shulchan Aruch* (*Orach Chayim* 387:1) accepts this view.  
     The Ramah mentions an even greater leniency. He maintains that we may rely on the *shituf* although *eruvin* were not established, even when the *shituf* was established with wine or other foods. His rationale is that in Talmudic times, the *shituf* was established by one member of each courtyard, who acted on behalf of all the inhabitants. At present, however, all the inhabitants of the lane contribute individually to the *shituf*.  
     This rationale is not accepted by the later authorities; *Shulchan Aruch HaRav* 387:1 and the *Mishnah Berurah* 387:12 suggest following the opinion of the *Shulchan Aruch*.
+
 [^34]: The Rambam's ruling is based on his conception [*Hilchot Shabbat* 17:8; Commentary on the Mishnah (*Eruvin* 6:8)] that a lane must have several courtyards and several houses open to it.  
     The Ra'avad, Rav Moshe HaCohen, and others object to the Rambam's ruling, explaining that it follows the opinion of Rav (*Shabbat* [[Shabbat 131#131a|131a]]). Nevertheless, the halachah ultimately follows the view of Shmuel (*Eruvin* [[Eruvin 74#74a|74a]]), who maintains that the lane and the courtyards are considered to be a single entity. According to this view, when a *shituf* has not been established, there is no difference whether or not *eruvin* have been established within the courtyards. *Shulchan Aruch HaRav* 388:1 and the *Mishnah Berurah* 388:4 rule according to this view.  
     The *Mishnah Berurah* adds that the stringency suggested by the Rambam applies only when the open side of the lane is adjusted with a pole or a beam. If, however, the open side is adjusted with a frame of an entrance, even the Rambam would agree that one is permitted to carry articles that were left in the lane at the beginning of the Sabbath.
+
 [^35]: See Chapter 3, Halachot 18-19.
+
 [^36]: See Chapter 2, Halachah 10.
+
 [^37]: See Chapter 2, Halachah 16.
+
 [^38]: See Chapter 2, Halachah 9.
+
 [^39]: See Chapter 4, Halachah 1.
+
 [^40]: We have translated the Hebrew פתח as "opening," rather than "entrance," in light of the ruling of the *Shulchan Aruch* (*Orach Chayim* 389:1) that a window is sufficient.
+
 [^41]: As reflected by Halachah 10, when a person has one entrance that is semi-private and another that is more public, the entrance that is more private is considered to be the one he will prefer. Since the gentile has an alternative of this nature, his presence does not cause carrying to be forbidden within the lane.
+
 [^42]: Because of its small size.
+
 [^43]: Significantly, these laws are directly opposite to those applying to a Jew, as mentioned in Halachah 10.
+
 [^44]: I.e., one might think that since they are joined together as a single entity, the leniency mentioned in the final clause of Halachah 16 would apply. This, however, is not the case, as the Rambam proceeds to state.
+
 [^45]: See Chapter 2, Halachah 15.
+
 [^46]: This refers to a city surrounded by a wall that has gates, for in this way it is a private domain according to the Torah (*Maggid Mishneh*). Other authorities - and these are the views accepted by many today - accept the possibility of a city's being encompassed by an *eruv* consisting of wires or string that forms an imaginary wall. The acceptability of such an enclosure is discussed in *Hilchot Shabbat* 16:16 and notes.
+
 [^47]: I.e., in contrast to the situation mentioned in the following halachah, there is no need to set a certain area outside the *eruv*.
+
 [^48]: Since the city has only one entrance, it does not resemble a public domain, and the chance that people will develop a misconception is far less. Hence, no additional measure is necessary (*Mishnah Berurah* 292:5).
+
 [^49]: This represents the Rambam's interpretation of *Eruvin* [[Eruvin 59#59a|59a]],b. The Rashba and the Ritba offer similar, but slightly different interpretations of the passage. Significantly, Rashi interprets the Hebrew עיר של רבים as referring to a city populated by more than 600,000. His view is cited in *Shulchan Aruch HaRav* 392:1 and the *Mishnah Berurah* 392:7 as an explanation for the reason that this law is not practiced at present.
+
 [^50]: For the reasons explained in the following halachah.
+
 [^51]: Since the city resembles a public domain, allowing people to carry might create a misconception. Unless a portion of the city were set aside, it is possible that some might entirely lose awareness of the prohibition against carrying.
+
 [^52]: Or even several ladders (*Shulchan Aruch, Orach Chayim* 392:2).
+
 [^53]: Although at times a ladder is considered to be an entrance (e.g., Chapter 3, Halachah 2), this instance is judged by different criteria.
+
 [^54]: These individuals are less likely to be upset about being excluded from the *eruv* of the city. (See *Eruvin* [[Eruvin 60#60a|60a]].)
+
 [^55]: See Chapter 1, Halachah 20.
+
 [^56]: The *Maggid Mishneh* (cited also by the *Mishnah Berurah* 392:34) notes that the Rambam's wording implies that if only a portion of the inhabitants of a city join in the *shituf*, we do not automatically assume that a person would prefer to be part of them. Perhaps he would prefer to be associated with those who were not included.
+
 [^57]: See Chapter 2, Halachah 1.
+
 [^58]: See Chapter 4, Halachah 13.
+
 [^59]: See Chapter 2, Halachah 9; Chapter 4, Halachah 13; and Halachah 16 of the present chapter.
+
 [^60]: Today, when *eruvin* are made in cities where Jews and gentiles live together, the gentiles' domains are usually rented through an arrangement negotiated with the municipal authorities. Since these authorities have a certain dimension of control over all land under their jurisdiction, and can enter all homes with a court order, they are entitled to rent the domain for all the gentiles living in this area.
+
 [^61]: *Merkevet HaMishneh* explains that the Rambam's wording implies that the inhabitants must either join in the *shituf* or erect a pillar.
+
 [^62]: See Chapter 4, Halachah 16; and Halachah 11 of the present chapter.
+
 [^63]: The *Maggid Mishneh* (in his gloss on Halachah 19) and the *Shulchan Aruch* (*Orach Chayim* 392:5) interpret this to be referring to a city that is surrounded by a wall with gates.  
     The Rambam's intent is interpreted to mean that if the pillar is erected in the middle of the public domain, it is not sufficient to divide one part of the city from the other.  
     If the city is not surrounded by a wall, it is not a private domain according to Torah law. It is possible to enclose a portion by using a Halachic conception of an enclosure, a *tzurat hapetach*, "a frame of an entrance," but the entire city may not be enclosed in this manner.

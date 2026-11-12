@@ -43,6 +43,7 @@ There is no standard definition of a *stotra*, despite the common assumption of 
 Historically, *stotra*s are closely linked to a number of other genres and literary developments. Many *stotra*s share important continuities with Vedic hymns, and they also share features with other lyrical poetry, such as *gītā*s, and specifically with other eulogistic poetry, such as *māhātmya*s that praise particular places and sites. *Stotra*s have been popular across traditions and communities, and there are shared patterns between hymns composed by Buddhists, Jains, Śaivas, Vaiṣṇavas, and so on. Many *stotra*s are found within larger compositions, including various 
 
 [^2]: Additional concepts, like theology and tradition, are central to the arguments of specific chapters and are considered therein.
+
 [^3]: N. R. Ācārya, ed., *Bṛhatstotraratnākaraḥ*, Vols. 1–2 (Varanasi: Chaukhambha, 1983); see also Rāmateja Pāṇḍeya, ed., *Bṛhatstotraratnākaraḥ* (Varanasi: Chaukhambā Vidyābhavan, 2005).
 
 *[p. 3]* ^pg22
@@ -54,6 +55,7 @@ The formal features and functions of *stotra* literature vary widely. Some, like
 In recent years, scholars have begun to adopt approaches to *stotra* literature that reflect the complexity and creativity of their subjects. Some have focused on how *stotra*s make interventions in religious contexts as theological texts;[^4] others have considered the pedagogical potential of the *stotra* form.[^5] In some regions authors composed Sanskrit *stotra*s alongside devotional poetry in other languages, 
 
 [^4]: Most notably:  Friedhelm Hardy, “The Philosopher as Poet:  A Study of Vedāntadeśika’s *Dehalīśastuti*,” *Journal of Indian Philosophy* 7 (1979):  277–325; Nancy Ann Nayar, *Poetry as Theology:  The Śrīvaiṣṇava Stotra in the Age of Rāmānuja* (Wiesbaden:  Otto Harrassowitz, 1992); and David Buchta, “Pedagogical Poetry: Didactics and Devotion in Rūpa Gosvāmin’s *Stavamālā*” (Ph.D. diss., University of Pennsylvania, 2014).
+
 [^5]: See Yigal Bronner, “Singing to God, Educating the People: Appayya Dīkṣita and the Function of *Stotras*,” *Journal of the American Oriental Society* 127, no. 2 (2007): 113–130; Christian K. Wedemeyer, “Appraising Praises:  Buston’s ‘Praise Entitled “All Wishes Fulfilled” ’ and its Genre in South Asian Buddhist Literature,” in *In Vimalakīrti’s House: A Festschrift in Honor of Robert A.F. Thurman on the Occasion of his 70th Birthday*, ed. Christian K. Wedemeyer, John D. Dunne, and Thomas F. Yarnall (New York: The American Institute of Buddhist Studies at Columbia University in New York, 2015); and Buchta, “Pedagogical Poetry.”
 
 *[p. 4]* ^pg23
@@ -67,6 +69,7 @@ The general corpus of Sanskrit *stotra*s may be like a great ocean, but the *sto
 Poetry has been well represented within religious traditions in South Asia. In general, such heightened use of language is set apart from normal speech. As Frank Burch Brown observes, “in a variety of ways poetry estranges itself from the familiar and creates a measure of creative disorientation.”[^7] Poetry highlights a dichotomy that has been discussed in varying terms—the dichotomy of imagination 
 
 [^6]: E.g., Steven Paul Hopkins, *Singing the Body of God: The Hymns of Vedāntadeśika in Their South Indian Tradition* (Oxford: Oxford University Press, 2002).
+
 [^7]: Frank Burch Brown, “Poetry: Poetry and Religion,” in *The Encyclopedia of Religion*, Vol. 11 (2nd ed.), ed. Lindsay Jones (Detroit: Macmillan Reference, 2005), 7204.
 
 *[p. 5]* ^pg24
@@ -82,8 +85,11 @@ It is not surprising that religious traditions have harnessed the power of liter
 While the earliest hymns of the *Ṛgveda* are metrical and poetic, both the Sanskrit literary tradition and modern scholarship recognize the beginnings of a new type of literature called *kāvya* around the time of the composition of Vālmīki’s *Rāmāyaṇa*. According to the Sanskrit literary tradition, Vālmīki was the first poet (*ādikavi*), and his epic poem describes the origins of literature and its paired emphasis on sound and sense in one of its most famous passages.[^10] In his analysis of the beginnings of Sanskrit literature, Pollock argues for a remarkable expansion of the Sanskrit literary world around the beginning of the Common Era, when Sanskrit shifted from the language of liturgy to the language of literature, and particularly to being a literary language closely related to political self-presentation.[^11] *Kāvya* itself is a complex category. There is no single canonical definition, and the first evidence we have for the theorization of *kāvya* comes surprisingly late, 
 
 [^8]: See Sheldon Pollock, *The Language of the Gods in the World of Men: Sanskrit: Culture, and Power in Premodern India* (Berkeley: University of California Press, 2006), 3.
+
 [^9]: “What Was Bhaṭṭa Nāyaka Saying? The Hermeneutical Transformation of Indian Aesthetics,” in *Epic and Argument in Sanskrit Literary History:  Essays in Honor of Robert P. Goldman*, ed. Sheldon Pollock (Delhi: Manohar, 2010), 147.
+
 [^10]: See the discussion and relevant citations in Chapter 6.
+
 [^11]: *Language of the Gods in the World of Men*, 75. According to Pollock, until that time Sanskrit had been socially bounded through “ritualization (the restriction of Sanskrit to liturgical and related scholastic practices) and monopolization (the restriction of the language community, by and large, to the ritual community)” (ibid., 12).
 
 *[p. 6]* ^pg25
@@ -95,6 +101,7 @@ As one would expect (but scholarship often ignores), the capacities and resource
 But it is the discipline of poetics and literary theory (*alaṅkāraśāstra*) that is most closely associated with the history and reception of *kāvya*. The earliest formal analysis of aesthetics anywhere in South Asia is found in Bharata’s *Nāṭyaśāstra* (c. 300 CE?), which presents a systematic theory of drama (*nāṭya*) and introduces many of the ideas and terms that have continued to be debated within Indian 
 
 [^12]: This evidence is the works of Bhāmaha and Daṇḍin. For a list of prominent definitions of *kāvya*, see Sigfried Lienhard, *History of Classical Poetry:  Sanskrit, Pali, Prakrit* (Wiesbaden: Harrassowitz, 1984), 11n30.
+
 [^13]: Yigal Bronner, *Extreme Poetry:  The South Asian Movement of Simultaneous Narration* (New York: Columbia University Press, 2010), especially 13–16. By the second millennium of the Common Era, the aesthetic power of Sanskrit had been greatly expanded. The growing popularity of simultaneously narrating the *Rāmāyaṇa* and the *Mahābhārata* that Bronner studies is one example; others include experiments with *citrakāvya* and transformations in the field of literary theory and criticism.
 
 *[p. 7]* ^pg26
@@ -106,9 +113,13 @@ A number of developments within Sanskrit poetics advanced by authors in Kashmir 
 Ānandavardhana is just one of the impressive collection of authors who pursued important literary agendas in Kashmir. Some of them expanded and revised Ānandavardhana’s groundbreaking ideas, and some rejected them or went in altogether different directions. Bhaṭṭa Nāyaka (c. 900[^18]), who criticized Ānandavardhana, brought about a lasting transformation in aesthetic discourse by shifting the focus of analysis from the characters of the play or work of 
 
 [^14]: Sheldon Pollock, *A Rasa Reader:  Classical Indian Aesthetics* (New  York:  Columbia University Press, 2016), 6–7.
+
 [^15]: See Yigal Bronner, “Sanskrit Poetics,” in *The Princeton Encyclopedia of Poetry and Poetics* (4th ed.), ed. Roland Greene and Stephen Cushman (Princeton, NJ:  Princeton University Press, 2012), for an overview of the history of Sanskrit poetics, and pp.  1245–1248 for the discussion of these developments in Kashmir.
+
 [^16]: Though this is how the text is commonly known, Daniel H. H. Ingalls has argued persuasively that its original title was most likely *Sahṛdayāloka* (Daniel H.  H. Ingalls et  al., trans., *The* Dhvanyāloka *of Ānandavardhana, with the Locana of Abhinavagupta* \[Cambridge, MA: Harvard University Press, 1990\], 12–13).
+
 [^17]: Lawrence McCrea, *The Teleology of Poetics in Medieval Kashmir*, Harvard Oriental Series 71 (Cambridge, MA: Published by the Dept. of Sanskrit and Indian Studies, Harvard University; Distributed by Harvard University Press, 2008), 442.
+
 [^18]: Bhaṭṭa Nāyaka’s specific dates are uncertain; he wrote sometime between 875 and 975 CE, but most likely around 900 CE (Pollock, “What Was Bhaṭṭa Nāyaka Saying?,” 138, and *Rasa Reader*, 144–145).
 
 *[p. 8]* ^pg27
@@ -133,7 +144,9 @@ the history of *stotra*s—except that *stotra* literature has received even *le
 Prayer, like *stotra*, is a flexible term that resists strict definition.[^20] One reason that it is difficult to define prayer is that the term can refer to either the *text* of a prayer or the *performance* or act of prayer, or their combination.[^21] What prayer means, moreover, changes based on the context of its performance and interpretation. Any definition of prayer, therefore, will be heuristic and can be articulated in broader or narrower terms. Some theologians, for example, have offered capacious (and ambiguous) characterizations of prayer, such as the claim that “prayer is spirituality.”[^22] Scholars often offer broad definitions and then move on from any discussion of the category itself. In the introduction to an anthology of prayer, for example, the editor glosses prayer as “an address to or celebration of 
 
 [^20]: For a discussion of the impossibility of a cross-cultural definition of prayer, see Simon Pulleyn, *Prayer in Greek Religion* (Oxford:  Oxford University Press, 1997), 1–2, and also Yehuda Septimus, *On the Boundaries of Talmudic Prayer* (Tübingen: Mohr Siebeck, 2015), 1n1. I agree with Septimus that prayer is still a valuable category for heuristic and comparative purposes. For a more detailed discussion of prayer as an analytic category, see Chapter 5 in the present work.
+
 [^21]: Sam Gill unpacks this in his *Native American Religious Action: A Performance Approach to Religion* (Columbia: University of South Carolina Press, 1987): Seen in one way, an act of prayer is clearly an intelligible communication between human beings and higher powers. It is a language act open to translation, interpretation, and analysis. But seen in another way, prayer is poetic in language and is performed as a highly complex ritual act. In this view whatever message exists in the prayer language is not nearly as important as its power to evoke a network of images related to sense experiences, moods, emotions, and values. (97; see also 147–152)
+
 [^22]: This definition comes from a letter from Benedicta Ward quoted by Roy Hammerling, “Introduction: Prayer—A Simply Complicated Scholarly Problem,” in *A History of Prayer: The First to the Fifteenth Century*, ed. Roy Hammerling (Boston: Brill, 2008), 2. This is not to say that such proclamations about prayer are not valuable in their own way for specific communities. Efforts to characterize activities like walking, for instance, as a type of prayer have been a common and seemingly inspiring strategy for many religious teachers.
 
 *[p. 10]* ^pg29
@@ -141,10 +154,15 @@ Prayer, like *stotra*, is a flexible term that resists strict definition.[^20] O
 a deity” without much further analysis.[^23] To match the interpretive needs of specific contexts, other scholars have focused on particular ways of thinking about prayer. Thus, for his work on Chinese Buddhist prayers of healing, Stephen Teiser proposes a performative definition of prayer as “the words accompanying the performance of ritual” and seeks to link prayers with the inculcation of virtues in different rituals.[^24] Yehuda Septimus also considers prayer as performance in his study of Talmudic prayers, but he focuses on prayer itself as ritual speech.[^25] Stephanie Clark takes a different approach in her work on petitionary prayer in Anglo-Saxon England. She argues that to understand these prayers we have to appreciate the language of exchange that pervades them; we have to interpret such prayer, in other words, as a kind of gift economy.[^26] Other studies of prayer cast a wide net, recognizing various types of nonverbal prayers—from sighs and the breath to dance movements and jazz music.[^27] Scholars working on the materiality of prayer have characterized it as “a particular sensory attunement emerging at the interface between the assumed everyday capacities of the body and its technological extensions and material supplementations.”[^28] As these examples suggest, scholarly understandings of and approaches to prayer have multiplied dramatically in recent years, and this book contributes to this growing body of scholarship.
 
 [^23]: Mark Kiley, “General Introduction,” in *Prayer from Alexander to Constantine: A Critical Anthology*, ed. Mark Kiley (New York: Routledge, 1997), 1.
+
 [^24]: Stephen F. Teiser, “Prayers for Healing in Chinese Buddhism” (http://forums.ssrc.org/ ndsp/2013/02/26/prayers-for-healing-in-chinese-buddhism/, accessed August 15, 2018). There are, of course, limitations to this definition, but such definitions support particular research projects.
+
 [^25]: More specifically, Septimus uses speech act theory to define prayer as “any ritualized devotional communication that has God as one of its essential illocutionary targets” (*On the Boundaries of Talmudic Prayer*, 44).
+
 [^26]: Stephanie Clark, *Compelling God: Prayer in Anglo-Saxon England* (Toronto: University of Toronto Press, 2017), 3.
+
 [^27]: Two good studies of the materiality of prayer in the form of sighs and breath are, respectively, Naya Tsentourou, *Milton and the Early Modern Culture of Devotion:  Bodies at Prayer* (New  York:  Routledge, 2018), Chapter  3, and Anderson Blanton, *Hittin’ the Prayer Bones: Materiality of Spirit in the Pentecostal South* (Chapel Hill: University of North Carolina Press, 2015), Chapter 3. On dance as prayer, see Sarah M. Pike, “Sweating Our Prayers in Dance Church” (http://forums.ssrc.org/ndsp/2014/04/04/sweating-our-prayers-in-dance- church/, accessed August 15, 2018); on jazz prayers, see Jason C. Bivins, “Take It to the Bridge:  Jazz Prayers” (http://forums.ssrc.org/ndsp/2014/03/28/take-it-to-the-bridge-jazz- prayers/, accessed August 15, 2018).
+
 [^28]: Anderson Blanton, “The Materiality of Prayer:  A Curatorial Introduction” (http:// forums.ssrc.org/ndsp/2013/02/20/the-materiality-of-prayer-a-curatorial-introduction/, accessed August 15, 2018).
 
 *[p. 11]* ^pg30
@@ -154,8 +172,11 @@ In the present context, my focus is on the interpretation of literary hymns of p
 There are many dimensions to prayer that make it a valuable category in the analysis of religious traditions. Prayer can be private and deeply personal, but more frequently it is public, with multiple audiences.[^31] Some scholars have focused on theories of “prayer-as-connection” in a general sense that includes prayers focused on oneself, others, and some form of the divine.[^32] Prayer can be an individual practice, including the practice of meditation on and visualization of a deity, but it can also be part of communal, liturgical worship that brings people together in a shared ritual practice and the articulation of a shared religious vision. Prayers can articulate individual or collective aspirations, or serve as a technology 
 
 [^29]: On the inclusion of a variety of “communicative practices under the heading of ‘prayer’,” see Sonja Luehrmann, “Introduction: The Senses of Prayer in Eastern Orthodox Christianity,” in *Praying with the Senses:  Contemporary Orthodox Christian Spirituality in Practice*, ed. Sonja Luehrmann (Bloomington: Indiana University Press, 2018), 8. However, this edited volume includes a wider range of approaches and characterizations of prayer— including nonverbal forms of prayer and the intriguing idea of prayer as “remembrance”— than I do in this study (ibid., 9).
+
 [^30]: Buchta notes an example of a South Asian typology of prayer: Rūpa Gosvāmin “speaks of three types of *vijñapti* (prayer), each of which is a common component of *stotra*s:  petitionary prayer (*saṃprārthanātmikā*), the confession of humility (*dainyabodhikā*), and prayer filled with ardent longing (*lālasāmayῑ*)” (“Pedagogical Poetry,” 27). For an example of social scientific attempts “to empirically define the multidimensional characteristics of prayer,” see Kevin L. Ladd and Bernard Spilka, “Inward, Outward, and Upward: Cognitive Aspects of Prayer,” *Journal for the Scientific Study of Religion* 41, no. 3 (2002): 475–484.
+
 [^31]: For an example of a study of public prayer, see Tom Boylston, “Sharing Space: On the Publicity of Prayer, between an Ethiopian Village and the Rest of the World,” in *Praying with the Senses:  Contemporary Orthodox Christian Spirituality in Practice*, ed. Sonja Luehrmann (Bloomington: Indiana University Press, 2018). On the idea of the “public,” and “publics,” see Christian Novetske, *Religion and Public Memory: A Cultural History of Saint Namdev in India* (New York: Columbia University Press, 2008), especially 13–23.
+
 [^32]: Ladd and Spilka, “Inward, Outward, and Upward: Cognitive Aspects of Prayer.”
 
 *[p. 12]* ^pg31
@@ -165,8 +186,11 @@ of the self that cultivates virtues or otherwise changes the one who prays.[^33]
 The need for more varied and rigorous analysis of prayer is especially true for prayer in South Asia. It is significant that Jan Gonda’s study of “prayer and blessing” in the Vedic tradition has not been complemented by similar studies of these phenomena in later Indian history.[^35] In general, it is surprising how infrequently *stotra*s have been analyzed in terms of prayer, at least until recently.[^36] But there are certainly indications that many have thought of *stotra*s in terms of prayer already. 
 
 [^33]: Mohandas K.  Gandhi regularly presented prayer as aspirational, and as a key part of personal and collective discipline. In his “Speech at Prayer Meeting, Sabarmati Ashram” in January 1930, he argues that “even when \[prayer\] is petitional, the petition should be for the cleansing and purification of the soul, for freeing it from the layers of ignorance and darkness that envelop it” (*The Collected Works of Mahatma Gandhi \[Electronic Book\]*, Vol. 48 \[November 21, 1929–April 2,  1930\] \[New Delhi:  Publications Division, Government of India, 1999\], 243, http://www.gandhiserve.org/cwmg/VOL048.PDF). The day before he led the Salt March to Dandi, and anticipating the arrest of the participants, Gandhi urged his followers: “Let no one commit a wrong in anger. This is my hope and prayer” (“Speech at Prayer Meeting, Sabarmati Ashram, March 11, 1930,” in *The Collected Works of Mahatma Gandhi \[Electronic Book\],* Vol. 48, 403–404). On prayer as a technology of the self, see Luehrmann, “Introduction,” 9.
+
 [^34]: For example, Gonda argues that in the Vedic context “praise is a form of truth which should always be repeated” (Jan Gonda, *Vedic Literature* \[Wiesbaden:  Harrassowitz, 1975\], 106).
+
 [^35]: Gonda, *Prayer and Blessing: Ancient Indian Ritual Terminology* (Leiden: Brill, 1989).
+
 [^36]: For an example of a recent study that uses prayer in relation to *stotra*s—in dialogue with my own earlier work (Hamsa Stainton, “Poetry and Prayer:  Stotras in the Religious and Literary History of Kashmir” \[Ph.D.  diss., Columbia University, 2013\], and “Poetry as Prayer:  The Śaiva Hymns of Jagaddhara Bhaṭṭa of Kashmir” \[*International Journal of Hindu Studies* 20, no. 3 (December 2016)\]:  339–354—see Buchta, “Pedagogical Poetry,” especially 49–52.
 
 *[p. 13]* ^pg32
@@ -176,8 +200,11 @@ In his important survey of *stotra* literature from 1977, for example, Gonda not
 The *stotra* is just one of many genres in which praise and prayer are central over the past two thousand years. Studying *stotra*s as prayer reveals both the advantages and challenges of using prayer as an analytic category. As I  argue in Chapter 5, for example, at least some Kashmirian *stotra*s challenge the lingering presumption in the study of Hinduism and other traditions that “true” prayer is spontaneous and natural, an outpouring of emotion from the heart. Without denying that there may indeed be some forms of prayer that match this description, this study of *stotra*s shows how prayer frequently is well crafted, even dense, and attentive to complex contexts and audiences. Sophisticated poetry can also be prayer, and this invites more nuanced appreciation for the ways that poets employ language in their devotional poetry. In Kashmir, as we will see throughout this book, many *stotra* authors were deeply concerned with the relationship between prayer and poetry, and also poetics. Investigating these can revise not only our approach to South Asian sources but also the comparative study of prayer and devotional poetry across regions and disciplines.
 
 [^37]: *Medieval Religious Literature in Sanskrit* (Wiesbaden: Otto Harrassowitz, 1977), 242.
+
 [^38]: Ingalls et al., trans., Dhvanyāloka *of Ānandavardhana*, 242, 532.
+
 [^39]: *Prayers, Praises and Psalms*, trans. V. Raghavan (Madras: G.A. Natesan & Co., 1938). While the collection includes verse excerpted from a wide variety of sources, from the Upaniṣads to “classical poetry” to “the Acharyas,” Raghavan and the publisher, G. A. Natesan, both make it clear that they conceived of the volume as a collection of *stotra* verses. Raghavan calls it “the first, biggest and most representative collection of Sanskrit hymns” translated into English, and Natesan describes how its publication was impelled by his contemplation of the need for a “comprehensive collection of Stotras” (ibid., vi–vii and xi–xii).
+
 [^40]: *Stotra Sindhu: Sanskrit Prayers* (60 minutes), published by Swaminarayan Aksharpith, Ahmedabad, India. I am grateful to Kalpesh Bhatt and Hanna Kim for pointing me to this publication.
 
 *[p. 14]* ^pg33
@@ -189,9 +216,13 @@ Some of the greatest contributions to our understanding of religious history in 
 But scholars have worked to challenge the coherence of this neat and idealistic narrative. Recent scholarship—most notably John S.  Hawley’s *A Storm of Songs: India and the Idea of the Bhakti Movement*—has made great strides in understanding the historiography of this idea, which has its own history that cannot simply be ignored.[^43] Hawley argues that this narrative crystallized in the 1920s and 1930s and was actively promoted as part of a project of national integration. At the same time, phenomena explained by the idea of “the *bhakti* movement” have existed for centuries. Hawley suggests other ways of describing this history, including the idea of a *bhakti* network, one in which there is indeed movement but not necessarily always the populist, progressive agitation or implicit teleology suggested by the phrase “the *bhakti* movement.”[^44] Other studies on regional traditions of poetry and performance, such as Christian Novetzke’s work on Nāmdev, have shown some of the complex relationships between personal devotion, communal identities, and the interpretation and narrativization of the past.[^45] Overall, the study of *bhakti* in vernacular contexts—both as a phenomenon and as an 
 
 [^41]: For a scholarly overview of trends and challenges in the study of *bhakti*, particularly from the perspective of vernacular traditions, see Novetzke, *Religion and Public Memory*, 7–13.
+
 [^42]: On *bhakti* as “religion,” see ibid., 7–8.
+
 [^43]: *A Storm of Songs: India and the Idea of the Bhakti Movement* (Cambridge, MA: Harvard University Press, 2015), and “The Bhakti Movement—From Where? Since When?” *IIC Occasional Paper #10* (New Delhi: India International Centre, 2009).
+
 [^44]: *A Storm of Songs*, 295–312.
+
 [^45]: *Religion and Public Memory*.
 
 *[p. 15]* ^pg34
@@ -203,7 +234,9 @@ The problem, however, is that the vibrancy of this subfield often colors the int
 Notably, many of the exceptions that *do* study *bhakti* poetry in Sanskrit in the second millennium focus on examples that are closely linked to vernacular practices and are themselves exceptions within Sanskrit literary culture. The *Gītagovinda*, for instance, enjoyed great popularity first in eastern India, where it was composed, and then throughout the subcontinent. But part of its success was because of the uniqueness of this text, based on a Sanskrit lyricism that drew from both classical Sanskrit sources and vernacular poetic traditions.[^48] Yet some 
 
 [^46]: In his work on Vedāntadeśika, who self-consciously composed poetry in multiple languages, Steven Hopkins notes that the “equation of bhakti with the vernacular alone is also an inadequate model to use in assessing the Sanskrit and Tamil devotional poetry of the later generation of Ācāryas and is perhaps partly responsible for their relative neglect in the study of South Indian bhakti literature until fairly recently” (*Singing the Body of God*, 40).
+
 [^47]: See, for example, Hopkins, *Singing the Body of God*, and Nayar, *Poetry as Theology*.
+
 [^48]: For the best introduction to the text, see Barbara Stoler Miller’s introduction and translation: *Love Song of the Dark Lord: Jayadeva’s Gītagovinda* (New York: Columbia University Press, 1977). See also Lee Siegel, *Sacred and Profane Dimensions of Love in Indian Traditions as Exemplified in the* Gītagovinda *of Jayadeva* (London: Oxford University Press, 1978) and Stella Sandahl-Forgue, *Le Gītagovinda:  Tradition et innovation dans le kāvya*, Acta Universitatis Stockholmiensis: Stockholm Oriental Studies 11 (Stockholm: Almqvist & Wiksell, 1977).
 
 *[p. 16]* ^pg35
@@ -215,6 +248,7 @@ Much of the extant scholarship on the Sanskrit discourse around *bhakti* takes a
 The Sanskrit *stotra* is the genre closest to the vernacular poetry at the heart of the narrative of “the *bhakti* movement,” not just in its content but also in its popularity and ubiquity in India. *Stotra*s are arguably the most widespread and popular form of Sanskrit devotionalism. Yet scholarship on *bhakti* traditions largely ignores the history of Sanskrit devotional hymns by following the biases inherent in “the *bhakti* movement” narrative itself: namely, that Sanskrit represents what the vernacular traditions were revolting against—dry scholasticism and rigid authority. Bringing *stotra*s into this analysis directly challenges these historiographical assumptions and raises new questions for the study of *bhakti* across regions and periods.
 
 [^49]: See Lawrence McCrea’s critique of Edwin Gerow’s interpretation of the text in this way in *Teleology of Poetics*, 11–19. The *Gītagovinda* did, however, influence many subsequent authors. For a discussion of how Rūpa Gosvāmin’s style was modeled on Jayadeva, for example, see Buchta, “Pedagogical Poetry,” 211–233.
+
 [^50]: See, for instance: V. Raghavan, *The Number of Rasas* (Adyar: The Adyar Library, 1940); David L. Haberman, *Acting as a Way of Salvation:  A Study of Rāgānugā Bhakti Sādhana* (Delhi: Motilal Banarsidass, 1988); Barbara A. Holdrege, *Bhakti and Embodiment: Fashioning Divine Bodies and Devotional Bodies in Kṛṣṇa Bhakti* (New York: Routledge, 2015); and David Buchta, “Pedagogical Poetry,” and “Evoking *Rasa* through *Stotra*: Rūpa Gosvāmin’s *Līlāmṛta*, A  List of Kṛṣṇa’s Names,” *International Journal of Hindu Studies* 20, no. 3 (December
 
 *[p. 17]* ^pg36
@@ -228,7 +262,9 @@ Kashmir boasts a dynamic religious and literary history that makes it an ideal c
 Kashmir has a remarkable history of literary production and transmission across intellectual and religious fields, justifying its frequent designation as the abode of Śāradā, the goddess of learning.[^53] Between the ninth and twelfth centuries it was arguably the most vibrant hub of Sanskrit literary production in South Asia, and it continued to be the site of new production even after this heyday. Sophisticated and innovative works of literature, philosophy, aesthetic theory, Tantric theology, and ritual theory produced during this period circulated far beyond the Kashmir valley. While important philosophical works like Jayanta 
 
 [^51]: The definitive work on the pre-Islamic religious history of Kashmir, as well as the Sanskrit- based religious activity during Islamic rule, has been done by Alexis Sanderson over the last three decades. See, in particular, “The Śaiva Exegesis of Kashmir,” in *Tantric Studies in Memory of Hélène Brunner*, ed. Dominic Goodall and André Padoux (Pondicherry: Institut français d’Indologie / École française d’Extrême-Orient, 2007), and “Kashmir,” in *Brill’s Encyclopedia of Hinduism, Volume One:  Regions, Pilgrimage, Deities*, ed. Knut A. Jacobsen (Leiden: Brill, 2009).
+
 [^52]: See Walter Slaje, *Medieval Kashmir and the Science of History* (Austin: South Asia Institute, University of Texas at Austin, 2006), Walter Slaje, ed. and trans., *Kingship in Kaśmīr (AD 1148–1459):  From the Pen of Jonarāja, Court Paṇḍit to Sulṭān Zayn al-‛Ābidīn* (Halle an der Saale:  Universitätsverlag Halle-Wittenberg, 2014), and Luther James Obrock, “Translation and History:  The Development of a Kashmiri Textual Tradition from ca. 1000–1500” (Ph.D. diss., University of California, Berkeley, 2015).
+
 [^53]: The transmission of manuscripts in Kashmir, like in Nepal, has been facilitated by weather conditions more conducive to preservation than other parts of India.
 
 *[p. 18]* ^pg37
@@ -238,10 +274,15 @@ Bhaṭṭa’s *Nyāyamañjarī* and literary compositions like Ratnākara’s *
 The religious history of Kashmir is particularly rich and complex. Those less familiar with the region may associate it primarily with Śaivism and then Islam, but Kashmir was also an important site of Buddhism, brahmanical Smārtism, the worship of the sun-god, and Vaiṣṇavism, in addition to an astonishing diversity of Śaiva and Śākta-Śaiva traditions.[^55] The earliest firm evidence for religion in Kashmir is Buddhist. The Sarvāstivādin Buddhist tradition was present by the first centuries of the Common Era,[^56] and Kashmir was linked closely with Buddhist strongholds to the west.[^57] Brahmanical traditions were well established by the middle of the first millennium and may go back much further. The worship of the sun-god, seen most dramatically in the great Mārtaṇḍa temple at modern- day Maṭan, flourished for a time before fading and becoming assimilated into later Śaiva traditions.[^58] For centuries it was actually Vaiṣṇavism that was the dominant religion among the elites of Kashmir, particularly during the rule of the Kārkoṭa kings (c. 626–855), which was also a period of great power and prosperity for the region.[^59] There was a Vaiṣṇava orientation to the brahmanical tradition in 
 
 [^54]: As Collins describes it, “the structural crunch is a pattern of both network density and creativity driven by conflict” (*The Sociology of Philosophies:  A Global Theory of Intellectual Change* \[Cambridge, MA: Belknap Press of Harvard University Press, 1998\], 76).
+
 [^55]: Many Kashmirian sources directly or indirectly acknowledge the vibrant diversity of Kashmir’s religious culture. See, for instance, the satirical play by Jayanta Bhaṭṭa, *Āgamaḍambara* (*Much Ado About Religion*, trans. Csaba Dezső \[New  York:  New  York University Press, 2005\]).
+
 [^56]: Sanderson, “Kashmir,” 101–102.
+
 [^57]: Ibid., 102.
+
 [^58]: Alexis Sanderson, “The Śaiva Age:  The Rise and Dominance of Śaivism During the Early Medieval Period,” in *Genesis and Development of Tantrism*, ed. Shingo Einoo, Institute of Oriental Culture Special Series, 23 (Tokyo:  Institute of Oriental Culture, University of Tokyo, 2009), 57; Bettina Bäumer, “Sūrya in a Śaiva Perspective:  the *Sāmbapañcāśikā*, A Mystical Hymn of Kashmir and Its Commentary by Kṣemarāja,” in *Sahṛdaya: Studies in Indian and South East Asian Art in Honour of Dr. R. Nagaswamy,* eds. Bettina Bäumer et al. (Chennai: Tamil Arts Academy, 2006), 2.
+
 [^59]: Sanderson, “Kashmir,” 107–109.
 
 *[p. 19]* ^pg38
@@ -251,10 +292,15 @@ Kashmir, as well as the program of calendric rites and festivals, until they wer
 Scholars have made great strides in understanding the tangled history of Śaivism in Kashmir, and in North India in general, in recent decades. This is due, most notably, to the scholarship of Alexis Sanderson and several of his colleagues and former students, and this progress is compounding. This is not the place to attempt a summary of such a vast and complex body of scholarship, but some of the broad trends in this history provide important background information for the chapters that follow. Most scholarship on Kashmir has focused on the period between the ninth and the twelfth centuries, certainly the most creative period of Kashmirian Śaiva literature. This is not to say that Śaiva traditions did not flourish in Kashmir before this period; the *Haravijaya* of Ratnākara, composed in the first part of the ninth century, demonstrates knowledge of multiple Śaiva and Śākta-Śaiva traditions. Śaiva Siddhānta, in particular, seems to have been well established by this time, for Ratnākara echoes several of its scriptures as well as some of its early exegetes.[^62] But in the ninth century we see evidence for numerous innovations in both scriptural and post-scriptural Śaivism. Non-dualistic Śaivism developed in Kashmir in the ninth century, as did the Śaiva-Śākta Krama tradition propagated by Jñānanetra. The *Netratantra*, a Kashmirian Śaiva scripture teaching the popular worship of Amṛteśvara, was likely produced during this period as well.[^63] During the latter half of the ninth century, Śaiva-Śākta texts like the *Śivasūtra* and the *Spandakārikā* presented “a non-dualistic metaphysics and gnostic soteriology in opposition to the dualistic and ritualistic exegesis of the Śaiddhāntika Śaiva scriptures.”[^64] Distinct to this trend, particularly in its early phase, was the view that these teachings came not from Śiva directly but from certain enlightened beings, usually called *siddha*s.[^65]
 
 [^60]: Ibid., 19.
+
 [^61]: As Sanderson notes, there were at least two different forms of Pāñcarātra Vaiṣṇavism in Kashmir, and these influenced Vaiṣṇava developments outside of Kashmir (ibid., 14–17).
+
 [^62]: Sanderson, “Śaiva Exegesis,” 425.
+
 [^63]: Sanderson, “Kashmir,” 119; also Alexis Sanderson, “Religion and the State:  Śaiva Officiants in the Territory of the Brahmanical Royal Chaplain” \[with an appendix on the provenance and date of the *Netratantra*\], *Indo-Iranian Journal* 47.3–4 (2004): 273 ff.
+
 [^64]: Sanderson, “Śaiva Exegesis,” 426.
+
 [^65]: As Sanderson points out, “it is not without good reason, then, that the historian Kalhaṇa speaks of the reign of Avantivarman (*c.* 855/6-883) as one that was marked by the descent of Siddhas among men for the benefit of the world” (ibid., 427).
 
 *[p. 20]* ^pg39
@@ -264,8 +310,11 @@ The tenth and eleventh centuries were a time of remarkable exegetical activity i
 Śaivism in Kashmir continued to evolve in the second millennium. After the thirteenth century, this often meant contraction and revision in the face of major demographic changes—in particular the large-scale adoption of Islam—but there were also areas of expansion and innovation. Śaiva Siddhānta declined precipitously, probably (like Buddhism) because of a decline in patronage to its public institutions that formed the core of its religious life.[^69] The Śaiva-Śākta traditions of 
 
 [^66]: Ibid.
+
 [^67]: John Nemec, *The Ubiquitous Śiva:  Somānanda’s* Śivadṛṣṭi *and His Tantric Interlocutors* (Oxford: Oxford University Press, 2011), 2; one of the most accessible accounts of the Trika is found in Sanderson, “Śaiva Exegesis,” 370–381.
+
 [^68]: Sanderson, “Śaiva Exegesis,” 433–434.
+
 [^69]: Sanderson, “Kashmir,” 100.
 
 *[p. 21]* ^pg40

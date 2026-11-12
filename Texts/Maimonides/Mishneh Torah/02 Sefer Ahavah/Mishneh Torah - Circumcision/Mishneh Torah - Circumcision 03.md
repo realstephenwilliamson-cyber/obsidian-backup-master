@@ -96,41 +96,63 @@ In contrast, thirteen covenants were established with Abraham, our Patriarch, wi
 "And I will establish My covenant with Isaac" [*ibid.*:21]. ^3-9
 
 [^1]: The Rambam's ruling depends on his statement (*Hilchot Berachot* 11:13) that if someone performs a blessing on behalf of another person, he should use the form "who has sanctified us with Your commandments and commanded us concerning...."
+
 [^2]: In *Hilchot Berachot* 11:12, the Rambam states that when one fulfills a mitzvah on one's own behalf, one should use the form "who has sanctified us with Your commandments and commanded us to..."  
     Although the *Shulchan Aruch* (*Yoreh De'ah* 365:2) mentions the Rambam's opinion, the Ramah states that it is customary to recite the blessing "... concerning the circumcision," at all times.  
     It is possible to explain that the Ramah does not accept the Rambam's general principle and prefers a universal form for a blessing to be recited every time a particular mitzvah is fulfilled. It is, however, also possible to interpret their difference of opinion as relating to the definition of the mitzvah of circumcision itself. The Rambam's text of the blessing, which uses the form "... to...," indicates that the nature of the mitzvah of circumcision focuses on the act of circumcision. In contrast, the Ramah's text for the blessing can be interpreted to imply that the nature of the mitzvah is to bring a person to the state that he is no longer uncircumcised. Therefore, the form "... concerning..." is more appropriate (*Kinat Eliyahu*).
+
 [^3]: The time when this blessing is recited is a matter of question. In two of his responsa, the Rambam writes that it makes no difference whether this blessing is recited before the circumcision or afterwards. Nevertheless, Rav Avraham, his son, and Rav Yitzchak, his grandson, state that it was the Rambam's custom to recite this blessing before the mitzvah.  
     The *Shulchan Aruch* (*Yoreh De'ah* 265:1) quotes the opinion of Rabbenu Asher, who states that this blessing should be recited between the *milah* and the *pri'ah*.
+
 [^4]: *Tosafot, Pesachim* 7a, explain that this blessing is not one of the blessings connected with the performance of a mitzvah, but a blessing that expresses our thanks and appreciation to God for granting us this mitzvah.
+
 [^5]: The Ra'avad objects to the Rambam's decision and rules that, in the absence of the father, the *sandak* (the person who holds the baby during the circumcision) should recite this blessing. The Ramah (*Yoreh De'ah* 265:1) quotes this decision.
+
 [^6]: The literal translation of the Rambam's phraseology is "If others are standing there." The commentaries explain that his intent is also to emphasize that it is necessary to stand while attending a *brit*. (See the *Shulchan Aruch*, *Yoreh De'ah* 265:6, which states that, if possible, it is preferable to perform a circumcision with at least ten adult males in attendance.)
+
 [^7]: The Rambam's version of this statement is found also in the Jerusalem Talmud (*Berachot* 9:3) and is quoted by the *Shulchan Aruch* (*Yoreh De'ah* 265:1). At present, however, it is customary to follow Rabbenu Asher's opinion and say, "Just as he has entered the covenant, so may he enter..." without mentioning the father's role. Significantly, this version is found in our texts of *Shabbat* [[Shabbat 137#137b|137b]] where this custom is mentioned.
+
 [^8]: We wish that the merit of the circumcision will lead to a life full of genuine Jewish conduct.
+
 [^9]: It appears that the Rambam considers this the only blessing recited in connection with the circumcision of converts, and would have this blessing recited before the circumcision. In contrast, the *Tur* and the *Shulchan Aruch* (*Yoreh De'ah* 268:5) explain that two blessings should be recited in connection with the circumcision of a convert:  
     a) one blessing before the circumcision, "... who has sanctified us... and commanded us to circumcise converts,"  
     b) one blessing after the circumcision, the blessing quoted by the Rambam with the conclusion, "Blessed are You, God, who establishes a covenant."  
     According to the *Shulchan Aruch's* perspective, like the blessing mentioned in the previous halachah, this blessing is not a blessing connected with the performance of the mitzvah, but an expression of praise for God for granting us the opportunity to perform such a unique mitzvah.  
     According to the Rambam's view, it is somewhat difficult to understand: Why is this blessing so lengthy? In this context, the*Sefer HaMaor* explains that this blessing was instituted to reassure converts and strengthen their resolve before they fulfill a mitzvah that is associated with pain and suffering.
+
 [^10]: The *Kessef Mishneh* explains that this is a reference to the extraction of blood from converts who were circumcised previously. Other commentaries object to this interpretation, noting that in Halachah 6, the Rambam does not require a blessing in such an instance.
+
 [^11]: I.e., when the master performs the circumcision himself.
+
 [^12]: In this instance as well, the *Tur* and the *Shulchan Aruch* (*Yoreh De'ah* 267:12) rule that two blessings should be recited. See Note 9.
+
 [^13]: The reason for the change of text depends on the Rambam's statements (*Hilchot Berachot* 11:11) that a person who performs a blessing on his own behalf should use the form, "who has sanctified us... and commanded us to..." In contrast, one who performs a blessing on behalf of others should use the form, "...and commanded us concerning...."
+
 [^14]: This is because, as explained in *Hilchot Kri'at Shema* 3:16, it is forbidden to recite holy words in the presence of an exposed sexual organ.  
     There is somewhat of a problem, however, with the Rambam's statements. Here, it appears that one need not cover the penis of a baby before reciting the blessing, yet in *Hilchot Kri'at Shema* (*ibid.*), the Rambam writes that the *Shema* may not be recited in the presence of a minor whose sexual organ is exposed.  
     In one of his responsa, the Rambam resolves this difficulty, explaining that the prohibition begins when the child - either male or female - possesses some sexual potency. (See also *Siftei Cohen* 265:18.)
+
 [^15]: In both cases, there is a doubt whether or not it is necessary to perform this circumcision. (See Chapter 1, Halachah 7.) Therefore, the circumcision is performed, but a blessing is not recited, lest there be no obligation to perform this activity, and thus, the blessing would be recited in vain. (See *Hilchot Berachot* 11:16.)
+
 [^16]: The Ra'avad contests this point, noting that when there is a doubt whether a certain activity fulfills a mitzvah or not, one should recite a blessing, and cites the recitation of blessings on the second day of festivals in the diaspora as an example of this principle.  
     Rav Kapach explains that the difference between the Rambam and the Ra'avad depends on their conception of the status of an *androgynous*. The Ra'avad maintains that an *androgynous* is considered a male whose status is in doubt. Therefore, since a mitzvah from the Torah is involved, a blessing should be recited. The Rambam maintains that an *androgynous* is in a category of his own, and the question is whether the obligation to circumcise falls on people in this category. Hence, no blessing is recited. See also their difference of opinion in *Hilchot Shofar* 2:2.
+
 [^17]: In *Hilchot Avodat Kochavim* 10:1-2, the Rambam writes:  
     If we see an idolater being swept away or drowning in the river, we should not help him. If we see that his life is in danger, we should not save him. It is, however, forbidden to cause one of them to sink or to push him into a pit or the like, since he is not waging war against us....  
     From the above, we can infer that it is forbidden to offer medical treatment to an idolater even when offered a wage. If, however, one is afraid of the consequences or fears that ill feeling will be aroused, one may treat them for a wage, but to treat them for free is forbidden.  
     [Regarding] a *ger toshav*, since we are commanded to secure his well-being, he may be given medical treatment at no cost.  
     Many authorities maintain that the laws applying to a *ger toshav* can be applied to all gentiles who are not idolaters. Furthermore, since at present, a doctor would have much difficulty if he refused to treat gentiles, leniency should be shown in this regard.  
     From the above, it would appear that a doctor who operates a medical practice today is allowed to treat gentile patients. Indeed, throughout the ages, many great Rabbinic authorities, including the Rambam himself, served as doctors to gentiles.
+
 [^18]: In *Hilchot Melachim* 10:10, the Rambam writes that a gentile who desires to fulfill any mitzvah should be given the opportunity.  
     There are other authorities who differ with the Rambam on this matter. They explain that circumcision is a sign given to the Jewish people that establishes their uniqueness and it is improper that gentiles should be given the opportunity of possessing this property.
+
 [^19]: See the Guide to the Perplexed, Vol. III, Chapter 49, where the Rambam criticizes a hedonistic approach to life and explains that circumcision comes "to complete the perfection of our emotions... to reduce a person's lust and wild cravings."
+
 [^20]: In the Hellenistic era, there were some Greek sympathizers among the Jewish people who would cause their foreskin to appear extended, so that they would not be distinguished from gentile athletes. The Sages were extremely critical of these individuals.
+
 [^21]: See *Avot* 3:11 and *Hilchot Teshuvah* 3:6.
+
 [^22]: As [[Torah 13 - Shemot#^4-24|Exodus 4:24-26]] relates, when Moses returned to Egypt, he took his newborn son, Eliezer, with him. He did not circumcise him immediately and, therefore, an angel came in the form of a snake and swallowed him. Tziporah his wife realized the source of the problem and circumcised her son. After this, the angel retracted. (See *Nedarim* [[Nedarim 32#32a|32a]].)
+
 [^23]: In the Guide to the Perplexed, Vol. III, Chapter 49, the Rambam writes that the *brit* is a sign of the covenant of the oneness of God. "When a person is circumcised he enters into the covenant of Abraham which obligates him to know [God's] unity." This covenant of unity defines the nature of the Jewish people. It is natural that when people share a common sign, love and mutual assistance among them grow.

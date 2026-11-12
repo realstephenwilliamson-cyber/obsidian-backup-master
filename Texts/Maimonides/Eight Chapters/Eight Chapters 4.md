@@ -48,62 +48,121 @@ Thou knowest, also, that God said to our teacher Moses, the master of former and
 Now, let me return to my subject. If a man will always carefully discriminate as regards his actions, directing them to the medium course, he will reach the highest degree of perfection possible to a human being, thereby approaching God,[^58] and sharing in His happiness. This is the most acceptable way of serving God which the sages, too, had in mind when they wrote the words, "He who ordereth his course aright is worthy of seeing the salvation of God, as it is said, 'to him that ordereth his course aright will I show, will I show the salvation of God!'[^59] Do not read *wesam* but *wesham derek*".[^60] *Shumah* means "weighing" and "valuation". This is exactly the idea which we have explained in this chapter. This is all we think necessary to be said on this subject.
 
 [^1]: To this chapter, in which the Aristotelian doctrine of the *Mean* (Μεσότες, balance) is applied to Jewish ethics, M. later supplemented *H. Deot*, I, 1—7; II, 2, 3, 7; and III, 1. Cf. *Eth. Nic.* II, 5—9; III, 8—14; IV. Although M. follows Aristotle in defining virtue as a state intermediate between two extremes, the *too little* and the *too much*, he still remains on Jewish ground, as there are biblical and Talmudical passages expressing such a thought. Such passages are Prov. IV, 26, "Balance well the track of thy foot, and let all thy ways be firmly right"; ibid., XXX, 8, "Neither poverty nor riches give thou unto me"; Eccles. VII, 16, "Be not righteous overmuch; neither show thyself overwise" (quoted in *H. Deot*, III, 1); etc. In *Moreh*, I, 32, M. interprets "neither show thyself overwise" and "To eat too much honey is not good" (Prov. XXV, 27) as a warning against attempting to exceed the limits of one's intellectual powers, and as an admonition to keep knowledge within bounds. In the Palestinian Talmud (*Ḥagigah*, II, 77 a *bot.*), there is found an interesting passage which sums up well the thought of this chapter, and it is curious that M. did not refer to it. It reads, "The ways of the Torah may be likened to two roads, on one of which fire and on the other snow is encountered. If one go along one path, he will be burned to death, and if he proceed along the other, he will perish in the snow. What, then, should one do? He must go between the extremes." A similar passage is found in *Tosefta Ḥagigah* 2 (cf. *Yer. Ḥagigah*, p. 20), "They make it incumbent upon man to go between the extremes, and not to incline to this side or to that." See, also, *Soṭah*, 5a, "he (the scholar) in whom there is pride deserves excommunication, and also he in whom there is no pride at all." For a discussion of Aristotle's doctrine of the Μεσότες, see Grant, *The Ethics of Aristotle*, vol. I, pp. 251—262. For that of M., see Jaraczewski, *ZPhKr*, XLVI, pp. 11—12; Rosin, *Ethik*, p. 26, n. 1; p. 79 ff.; Lazarus, Ethik, vol. I, *Abhang* XIV (Eng. ed. vol. I, p. 273 f.); Wolff, *Acht Capitel*, Introd., pp. XIII—XIV; Yellin and Abrahams, *Maimonides*, pp. 78—83; Cohen, *Charakteristik*, etc., in Moses ben Maimon, I, p. III ff.; A. Löwenthal in *JE*., II, p. 101; Lewis, in *Aspects of the Hebrew Genius*, (London, 1910) pp. 82—83. On the mean in Jewish religious philosophy, see Rosin, *Ethik*, pp. 10, 12, 14, 19, 24; H. Malter, *JQR* (new series) vol. I, p. 160, n. 15.
+
 [^2]: השױם, *the equidistant* (equivalent to the Aristotelian ίσον, *the exactly equal, the normal,* or *equibalanced*); cf. *Moreh*, II, 39, “It is clear, then, that the Law is normal (משוױה) in this sense; for it contains the words, ‘Just statutes and judgments’ (Deut. IV, 8); but ‘just’ is here identical with ‘equibalanced’ (שוױם).”
+
 [^3]: הממוצעים, *the mean* (Aristotelian μέσον). *Nic. Eth.*, II, 6, “By an objective mean, I understand that which is equidistant from the two given extremes, and which is one and the same to all, and by a mean relatively to the person, I understand that which is neither too much nor too little.”
+
 [^4]: Cf. *ibid.*, “Virtue, then, is a disposition of the moral purpose in relative balance, which is determined by a standard, according as the thoughtful man would determine. It is a middle state between two faulty ones, in the way of excess on one side, and defect on the other; and it is so, moreover, because the faulty states on one side fall short of, and those on the other side exceed, what is right, both in the case of the emotions and the actions; but virtue finds, and, when found, adopts the mean.” Cf. *H. Deot*, I, 4, and II, 2.
+
 [^5]: הקצה הראשון, is *the extreme of excess* (Aristotle's ὐπερβολή), and הקצה האחרון *the extreme of deficiency* (ἔλλειψις). Cf. *H. Deot*, I, 5; III, 1; ואתרחק לצד האחרון עד שלא יאכל בשר ולא ישתה יין וכ׳, where צד האחרון clearly means the extreme of the *too little*.
+
 [^6]: See Hebrew text, c. IV, pp. 19—20, n. 17. On the gloss והגחת ממוצעת וכ׳, introduced here in some Mss. and edd., see Hebrew text, c. IV, p. 20, note. This gloss seems to go back to *Eth. Nic.*, II, 7, “He that is as he should be may be called friendly, and his mean state friendliness; he that exceeds, if it be without any interested motive, somewhat too complaisant, if with such motive, a flatterer; he that is deficient and in all instances unpleasant, quarrelsome and cross."
+
 [^7]: The virtue which I. T. explains here, owing to the inadequacy of the Hebrew terms, is the one which Aristotle calls *magnificence* (I. T.'s טוב לב). The excess is *want of taste* or *vulgar profusion* (יתרון טוב הלבב), and the defect *paltriness* (הגבלה). See *Eth. Nic., loc. cit.* According to Aristotle, *magnificence* is a higher kind of liberality (נדיבות), and consists of the spending of money on a grand scale, with taste and propriety. It is prompted by a desire for what is noble, concerning itself with the services of religion, public works, and so forth. The vulgar man, whose object is ostentation, offends with excessive splendor, while the mean man, on the other hand, through timidity and constant fear of expense, even though he does expend large amounts, mars the whole effect by some petty characteristic of meanness (*ibid.*, IV, 2). I. T. has, accordingly, incorrectly explained the terms גבלה ,לב מוב, and יתרון טוב הלבב.
+
 [^8]: See *H. Deot*, I, and II for a list and discussion of the virtues. Aristotle mentions and discussess the following virtues in *Eth. Nic.*; courage (II, 7, and III, 6-9), perfected self-mastery or temperance (II, 7, and III, 10-11), liberality (II, 7, and IV, 1), magnificence (II, 7 and IV, 2), greatness of soul (II, 7, and IV, 3), love of honor (II, 7, and IV, 4), gentleness (II, 7, and IV, 5), friendliness (II, 7, and IV, 6), truthfulness (II, 7. and IV, 7), jocularity or liveliness (II, 7, and IV, 8), and modesty (II, 7, and IV, 9). Cf., also, *Eudemian Ethics*, II, 3, where a formal table is given contaning fourteen virtues and their respective pairs of extremes; and *Mag. Mor.* I, 20 ff.
+
 [^9]: *Abot*, II, 5.
+
 [^10]: *Abot*, V, 20.
+
 [^11]: See Hebrew text, c. IV, p. 21, n. 16.
+
 [^12]: Aristotle also mentions the paucity of terms to express the nice distinctions he makes (*Eth. Nic.*, II, 7).
+
 [^13]: Better, "the apathetic"; see Hebrew text, c. IV, p. 21, n. 27.
+
 [^14]: Cf. *Eth. Nic.*, II, 9, "for we ourselves sometimes praise those who are defective in this feeling (anger), and we call them gentle; at another, we term the hot-tempered manly and spirited."
+
 [^15]: Cf. *Yoma*, 86 b; *Sotah*, 22a, "As soon as a man has committed a sin and repeated it, it becomes to him a permitted act".
+
 [^16]: Cf. *H. Deot*, "VI, 1, "The natural disposition of the human mind occasions man to be influenced in his opinions and actions by those with whom he associates, and his conduct to be dependent on that of his friends and countrymen".
+
 [^17]: On the acquisition of virtues and vices, see *Eth. Nic.*, II, 1—3; and *H. Deot*, I, 2, 7. See below c. VIII, p. 85ff.
+
 [^18]: Cf. *Eth. Nic.*, II, 2, "for excessive training impairs the strength as well as deficient; meat and drink, in like manner, in too great or too small quantities, impair the health; while in due proportion they cause increase, and preserve it".
+
 [^19]: Cf. *H. Deot*, II, 2. The same thought is expressed by Aristotle in *Eth. Nic.*, II, 9. If we find ourselves at one of the faulty extremes, we must drag ourselves away in the opposite direction, for by bending ourselves a long way back from the erroneous extreme, allowing for the recoil, as when one straightens a crooked piece of timber, we shall at length arrive at the proper mean. Punishment of sin also, according to M., forces the culprit to the other extreme of the sin committed. Thus, if a man sin as regards property, he must spend his money liberally in the service of God; if he has indulged in sinful bodily enjoyments, he must chastise his body with fasting, privation, and the like. This practice should even extend itself to man's intellectual failings, which may cause him to believe some false doctrine, a fault that is to be remedied by turning one's thoughts entirely away from wordly affairs, and devoting them exclusively to intellectual exercises, and carefully reflecting upon those beliefs in which he should have faith (*Moreh*, III, 46). Compare with this Aristotle's theory as regards correction, according to which the remedies are of such a nature as to be the contraries of the ills they seek to cure (*Eth. Nic.*, II, 2).
+
 [^20]: Cf. *H. Deot*, II, 2, "How shall he cure them (the moral ills)? The sages tell the wrathful man that if he is accustomed to scold and curse he should train himself never to give vent to these feelings, and that he should continue this course a long while, until he has eradicated wrath from his heart. If he is haughty let him train himself to be humble, let him clothe himself in ragged garments which humiliate those who wear them, and let him do similar acts, until he has uprooted his pride, and returned to the middle course which is the moral one; and, when he has done so, let him continue in it all his days. He should act in a similar way with all his characteristics. If he is far from the middle course, at one extreme, let him force himself to go to the other, and accustom himself fully to it, until he returns to the proper course, which is the medial trait as regards each characteristic”.
+
 [^21]: See *infra*, c. VI; and M.'s *Commentary on Abot*, V, 7. 11.
+
 [^22]: M. departs from strict adherence to the Aristotelian doctrine of the mean, which Aristotle himself does, at times, and especially as regards the virtue of justice. M. states here that the deviation from the mean on the part of the saints was because of caution and restraint. Later, in *H. Deot*, I, 5, he expands this thought in drawing a distinction between the wise man (חכם) and the saint (חסיד). Wise men cling to the exact middle course, but “the early saints were accustomed to deviate in their characteristics from the middle course towards either one or the other extreme, now making one characteristic tend towards the extreme of deficiency, and now another towards that of excess. This is doing ‘more than the strict letter of the law demands’.” In regard to the two characteristics, pride and anger, M. states, in some instances, the Aristotelian view which considers the medium course the virtue, only to depart from it at other times, and, following the Bible and Talmud, considers the extreme the virtue. Thus, in this chapter, pride (גאוה) is the one extreme, self-abasement (שפלות הרוח) the other, and humility (ענוה), the mean, is the virtue; anger (כעס) is the excess, insensibility to shame and disgrace (העדר הרגשה חרפה ובוז) the deficiency, and mildness (סבלנות), the mean, is the virtue. In *H. Deot*, I, 4, the medium course (בינוני), likewise, in respect to anger, is designated as the virtue. Man should not be insensible to anger (ולא כמת שאינו מרגיש), although he should give vent to his wrath only at great provocation (ולא יכעוס אלא על דבר גדול). In his *Commentary on Abot*, IV, 4 (Rawicz, *Commentar*, pp. 78—80), and in *H. Deot*, II, 3, M. asserts, however, that excessive humility and complete absence of anger are the virtues, and not the medium course. The passage in *Deot* is as follows, “There are, however, some dispositions in regard to which it is wrong to pursue even a middle course, but the contrary extreme is to be embraced, as, for instance, in respect to pride. One does not follow the proper path by merely being humble. Man should be very humble and extremely meek. To this end, Scripture says of Moses, our master, that he was ‘very humble’ (Num. XII, 3), and not that he was simply humble. Therefore, the sages command us, ‘Be thou very humble’ (Abot, IV, 4), and say, furthermore, that all who are proud-hearted deny an important principle of our faith, for Scripture says, ‘Thy heart will become uplifted, and thou wilt forget the Lord thy God’ (Deut. VIII, 14), and they also say, ‘he who is presumptuous, even to a slight degree deserves excommunication’. In like manner, anger is a very bad characteristic; one should go to the opposite extreme and school himself to be without wrath, even as regards a matter at which it might seem proper to show anger....... The Rabbis of old said, ‘Whoever allows himself to be carried away by his wrath is like a worshipper of idols’ (*Nedarim*, 22a). Futhermore, they said, ‘If a wise man becomes angry, his wisdom forsakes him; if a prophet, his inspiration departs from him’ (*Pesaḥim*, 66b), and, ‘Those that abandon themselves to their angry passions do not deserve to live’ (*Pesaḥim* 113b). Therefore, they recommend total absence of anger, so that a man may thus train himself never to feel it, even at those things which naturally would provoke one to wrath. The proper course to pursue, and the way of the righteous, is that ‘they are insulted, but do not insult; they hear themselves reviled, and answer not; they do good from pure motives of love; they rejoice amidst their sufferings, and of them it is said, ‘Those that love him are like the sun going forth in its might’ (Judges V, 31, *Shabbat*, 38b)”. See Rosin, *Ethih*, p. 87, n. 5; Cohen, *Charakteristik*, in *Moses ben Maimon*, I, pp. 112—116. See, however, *supra*, p. 54, note 1, for biblical and Talmudical passages which support the doctrine of the medium course.
+
 [^23]: *Baba Meẓï‘a*, 35a: עשית הישר והטוב זו לפנים משורת הדין.
+
 [^24]: To study *Torah*.
+
 [^25]: Cf. *H. Deot*, VI, 1, and *H. Nedarim*, XIII, 23.
+
 [^26]: Jer. IX, 1.
+
 [^27]: Ps. XIX, 9.
+
 [^28]: Num. VI, 11.
+
 [^29]: *Nazir*, 19a, 22a; *Ta'anit*, 11a; *Baba Ḳamma*, 91b; *Nedarim*, 10a; cf. M.'s *Commentary on Abot*, V, 15.
+
 [^30]: Zech. VII, 3.
+
 [^31]: *Ibid.*, VII, 6.
+
 [^32]: *Ibid.*, VII, 9.
+
 [^33]: *Ibid.*, VIII, 9.
+
 [^34]: Cf. *Moreh*, III, 35, and *H. Deot*, III.
+
 [^35]: Cf. *Moreh*, III, 39.
+
 [^36]: Lev. XIX, 18.
+
 [^37]: Ex. XXIII, 5.
+
 [^38]: Deut. XXII, 4.
+
 [^39]: *Ibid*., XXII, 1.
+
 [^40]: Lev. XIX, 32.
+
 [^41]: Ex. XX, 12.
+
 [^42]: Deut. XVII, 11.
+
 [^43]: Lev. XIX, 17.
+
 [^44]: Deut. XVIII, 22.
+
 [^45]: *Yer. Nedarim*, IX, 1; ed. Krotoschin, 41b: אלא שאתה מבקש לאסור עליך.
+
 [^46]: Cf. *Moreh*, III, 36.
+
 [^47]: Cf. M.'s *Commentary on Abot*, V, 14 (Rawicz, *Commentar*, p. 100). See *Eth. Nic.*, VII, 1, "it is a rare thing for a man to be godlike".
+
 [^48]: Job IV, 18.
+
 [^49]: *Ibid*., XXV, 4.
+
 [^50]: Eccl. VII, 20.
+
 [^51]: Num. XX, 12.
+
 [^52]: *Ibid*., XX, 24.
+
 [^53]: Deut. XXXII, 51.
+
 [^54]: Num. XX, 10.
+
 [^55]: *Mekilta* to בשלח (Ex. XV, 2).
+
 [^56]: See *Moreh*, I, 4, on the interpretation of Ex. XXIII, 8.
+
 [^57]: Num. XX, 8.
+
 [^58]: See below, c. VII, n. 5a. On nearness to God (התקרבות), see Cohen, *Charakteristik*, etc., in *Moses b. Maimon*, vol. I, pp. 106, and 124.
+
 [^59]: Ps. L, 23.
+
 [^60]: *Sotah*, 5b; *Mo'ed Ḳaṭan*, 5a.

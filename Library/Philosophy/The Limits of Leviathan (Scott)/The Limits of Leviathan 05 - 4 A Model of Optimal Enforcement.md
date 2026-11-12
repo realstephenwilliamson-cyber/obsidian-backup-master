@@ -55,6 +55,7 @@ Alternatively, parties may respond to a high level of uncertainty by writing a s
 To illustrate the relevance of the verification problem, consider the following example.[^3] Assume that a buyer in New York wishes to get a single shipment of
 
 [^2]: For discussion of rules-standards combinations, see *id.* at 851 –56.
+
 [^3]: The following example draws on Robert E. Scott, *A Theory of Self-Enforcing Indefinite Agreements*, 103 Colum. L. Rev. 1641, 1667 (2003).
 
 *[p. 87]* ^pg97
@@ -68,6 +69,7 @@ Thus, if the only contracting option is formal enforcement, the buyer will propo
 Functionally equivalent problems arise in international agreements. Consider the example we used in Chapter 3 , where rich countries propose to
 
 [^4]: The standard of merchantable quality is verifiable because there are objective proxies readily available; specifically, the evidence of the level of quality the market regards as acceptable. *See*, *e.g.*, Uniform Commercial Code §2–314 (2)(a), which provides that goods must be “at least such as would pass without objection in the trade under the contract description.” Thus, under this standard a court can determine if the attributes of the goods are consistent with the contract description and also are “fit for their ordinary purposes for which such goods are used” by considering evidence from experts as to the general standard of merchantable quality. Uniform Commercial Code
+
 [^5]: *Id.* §§2–714(2), 2–715; Robert E. Scott & Jody S. Kraus, Contract Law and Theory 1109–1122 (Rev. 3 rd ed. 2003).
 
 *[p. 88]* ^pg98
@@ -81,6 +83,7 @@ The power of informal enforcement has been well understood since the classic wor
 But any argument for informal enforcement as the preferred alternative to an expansive regime of legal enforcement must overcome a major difficulty. Scholars have long understood that reputational sanctions and the discipline of repeated interactions are effective means of enforcing commitments under certain conditions. But, as we suggested in Chapter 3 , these conditions for self-enforcement are quite stringent. Ongoing relationships inevitably come to an
 
 [^6]: Stuart Macaulay, *Non-Contractual Relations in Business*, 28 Am. Soc. Rev. 555 (1963). Anticipating by forty years the experimental evidence, summarized later, that formal enforcement may “crowd out” informal enforcement, Macaulay’s subjects reported that legal sanctions were not only unnecessary but might well have undesirable effects, as the invocation of legal enforcement might be seen as a betrayal of trust or an instinct to engage in sharp practice. *Id.* at 558.
+
 [^7]: *See generally* Robert E. Scott, *Conflict and Cooperation in Long-Term Contracts*, 75 Calif. L. Rev.
 
 *[p. 89]* ^pg99
@@ -92,7 +95,9 @@ Recent work in experimental economics suggests, however, that the domain of info
 Under the inequity aversion theory, a person is altruistic to others if her payoffs are above an equitable benchmark and is envious of the others if their payoffs exceed that benchmark. In other words, people compare themselves with others in their group (and with the other party in a two-person relationship) by using a benchmark of equality of distribution. Thus, inequity aversion (which also can be termed a *preference for reciprocal fairness*) holds that many
 
 [^8]: Alan Schwartz & Robert E. Scott, *Contract Theory and the Limits of Contract law*, 113 Yale L. J. 541, 557 (2003). As we suggest in the text, small, homogeneous communities are best suited to use reputation as a means of self-enforcement. In these settings, contracting behavior soon becomes common knowledge, and sanctions against untrustworthy parties can effectively be imposed. *See* Janet Landa, *A Theory of the Ethnically Homogenous Middleman Group: An Institutional Alternative to Contract Law*, 10 J. Legal Stud. 349 (1981); Avner Grief, *Informal Contract Enforcement: Lessons from Medieval Trade* in 2 The New Palgrave Dictionary of Economics and Law 287 (Peter Newman, ed. 1998). Reputation is also effective where industries establish trade associations that can identify bad behavior and impose appropriate sanctions, such as boycotts. The contracting behavior of the members of the association thus becomes part of the group’s collective memory. *See* Lisa Bernstein, *Private Commercial Law in the Cotton Industry: Creating Cooperation through Rules,* *Norms and Institutions*, 99 Mich. L. Rev. 1724 (2001); Lisa Bernstein, *Merchant Law in a Merchant Court: Rethinking the Code’s Search for Immanent Business Norms*, 144 U. Pa. L. Rev. 1765 (1996).
+
 [^9]: *See*, *e.g.*, Matthew Rabin, *Incorporating Fairness into Game Theory and Economics*, 83 Am. Econ. Rev. 1281 (1993); David K. Levine, *Modeling Altruism and Spitefulness in Experiments*, 1 Rev. Econ. Dynam. 593 (1998); Ernst Fehr & Klaus Schmidt, *A Theory of Fairness, Competition and Cooperation*, 114 Q. J. Econ. 817 (1999); Ernst Fehr, Simon Gächter, & Georg Kirchsteiger, *Reciprocity as a Contract Enforcement Device: Experimental Evidence*, 65 Econometrica 833 (1997). For a review of the literature, see Ernst Fehr & Klaus Schmidt, *Theories of Fairness and Reciprocity – Evidence and Economic Applications*, in Advances in Economics and Econometrics: Theory and Applications, Eighth World Congress, Volume I, at 208 (Mathias Dewatripont, Lars Peter Hansen, & Stephen J. Turnovsky, eds. 2003).
+
 [^10]: Ernst Fehr & Klaus M. Schmidt, *A Theory of Fairness, Competition and Cooperation,* note 9 *supra*.
 
 *[p. 90]* ^pg100
@@ -106,7 +111,9 @@ The key challenge is to explain why people would incur costs to impose such puni
 To clarify what underlies the inequity aversion theory, let us summarize the three key findings of a substantial body of experimental evidence. First, many people behave in a reciprocal manner that deviates from purely self-interested behavior.[^12] Reciprocity means that individuals respond cooperatively to generous acts, and, conversely, punish noncooperative behavior.[^13] Second,
 
 [^11]: Robert Boyd & Peter J. Richerson, Solving the Puzzle of Human Cooperation (2005).
+
 [^12]: Experimental economists have gathered overwhelming evidence that systematically refutes the self-interest hypothesis. The recent experimental evidence suggests that people differ with regard to how selfishly or fair-mindedly they behave. This difference has important economic and legal consequences. For discussion, see Robert E. Scott, note 3 *supra*.
+
 [^13]: Ernst Fehr & Klaus Schmidt, *Theories of Fairness and Reciprocity*, note 9 *supra*, at 209–10.
 
 *[p. 91]* ^pg101
@@ -120,7 +127,9 @@ The reciprocal fairness experiments indicate, for example, that it pays to write
 Even more interesting, for our purposes, are the experiments that ask anonymous subjects to enter into agreements that have the potential of enhancing the joint surplus if both act cooperatively and decline opportunities to shirk. The parties can choose self-enforcement or third-party enforcement with formal
 
 [^14]: Ernst Fehr & Simon Gächter, *Fairness and Retaliation: The Economics of Reciprocity*, 14 J. Econ. Persp. 159 (2000).
+
 [^15]: *Id.*
+
 [^16]: Ernst Fehr & Klaus Schmidt, *Theories of Fairness and Reciprocity*, note 9 *supra*, at 246–48.
 
 *[p. 92]* ^pg102
@@ -138,7 +147,9 @@ Alternatively, some theorists have suggested that strangers may signal to each o
 Theorists of cultural evolution also have adduced persuasive reasons why cultures generate norms of moralistic reciprocity. These norms are part of a
 
 [^17]: For discussion, see Robert E. Scott, *A Theory of Self-Enforcing Indefinite Agreements*, note 9 *supra*, at 1682–85.
+
 [^18]: *Id.* at 1674–75.
+
 [^19]: Karthik Panchanathan & Robert Boyd, *A Tale of Two Defectors: The Importance of Standing for Evolution of Indirect Reciprocity*, 224 J. Theoretical Biology 115 (2003).
 
 *[p. 93]* ^pg103
@@ -152,9 +163,13 @@ In modern society, however, these tribal instincts favor smaller groups (coaliti
 That these work-arounds are only awkward compromises may explain the heterogeneity of preferences that are uniformly observed in the experiments on
 
 [^20]: For a discussion of this literature and its implications, see Peter J. Richerson, Robert T. Boyd, & Joseph Henrich, *Cultural Evolution of Human Cooperation* in Genetic and Cultural Evolution of Cooperation 357 (2003).
+
 [^21]: Ernst Fehr & Urs Fischbacher, *Social Norms and Human Cooperation*, 8 Trends in Cognitive Science 185, 189 (2004).
+
 [^22]: See Robert T. Boyd & Peter J. Richerson, Culture and the Evolutionary Process (1985).
+
 [^23]: Peter J. Richerson, Robert T. Boyd & Joseph Henrich, note 20 *supra*, at 368. For the incorporation of this work into economic theory, see Paul Seabright, The Company of Strangers: A Natural History of Economic Life (2004).
+
 [^24]: Peter J. Richerson, Robert T. Boyd, & Joseph Henrich, note 20 *supra*, at 372–73.
 
 *[p. 94]* ^pg104
@@ -198,8 +213,11 @@ On balance, however, this rejoinder seems far fetched. By and large, uncooperati
 Studies indicate that even military bureaucracies exhibit some preference for reciprocal fairness. In the arms control field, for example, states have committed to confidence-building measures as a means of reducing the risk of conflict with their adversaries. The Treaty on Conventional Armed Forces in Europe exemplifies such arrangements.[^30] One might think that professional military
 
 [^27]: The following discussion is drawn from Robert E. Scott & Paul B. Stephan, note 23 *supra*, at 593 –96.
+
 [^28]: Max Weber, The Theory of Social and Economic Organization (A. M. Henderson & Talcott Parsons, trans. 1947); William A. Niskanen, Jr., Bureaucracy and Public Economics (1994); William A. Niskanen, *Bureaucrats and Politicians*, 18 J.L. & Econ. 617 (1985).
+
 [^29]: Noam Chomsky, Hegemony or Survival: America’s Quest for Global Dominance (The Global Empire Project) (2003); Gar Alperwitz, Atomic Diplomacy: Hiroshima and Potsdam: The Use of the Atomic Bomb and the American Confrontation With Soviet Power (1985).
+
 [^30]: Treaty on Conventional Armed Forces in Europe, Nov. 19, 1990, S. Treaty Doc. No. 102–8 (1991). *See generally* S. V. Kortunov, *Basic Principles of Reduction and Limitation of Conventional Forces* in International Law and International Security – Military and Political Dimensions 186 (Paul B. Stephan & Boris M. Klimenko, eds. 1991) (analysis of Treaty and its implications by leading Soviet expert).
 
 *[p. 97]* ^pg107
@@ -211,6 +229,7 @@ Additional evidence of the existence of a preference for reciprocal fairness wit
 Further research, we believe, would document convincingly that a substantial and significant portion of the interactions among people that leads to the establishment of international rules and norms takes place with the participation of groups that share a common professional, technical, or bureaucratic identity that, in turn, is conducive to the development of a preference for reciprocal fairness. As a result, the domain of informal enforcement of international law should be relatively broad. Even though the fragility of regimes might limit the value of sanctions based on future dealings and reputation, the conduct of international lawmaking through specialist groups will increase the likelihood of compliance with costly obligations in the absence of formal enforcement.
 
 [^31]: Abram Chayes & Antonia Handler Chayes, The New Sovereignty – Compliance with International Regulatory Agreements 147 (1995).
+
 [^32]: For expression of this skepticism, see Paul B. Stephan, *Accountability and International Lawmaking:*
 
 *[p. 98]* ^pg108
@@ -224,6 +243,7 @@ Recall, for example, the buyer who wished to acquire high-quality furniture fabr
 But imagine that the parties entered into a different agreement. The buyer might instead propose a legally unenforceable bonus agreement as a supplement to their formal contract. This agreement might propose a lower base price (say, \$40,000) for goods that are sold “As Is,” subject only to a minimum contract description.[^34] In addition, the buyer would promise to pay a bonus of *as much as* \$20,000 if the seller delivers high-quality goods satisfactory to the buyer. Here, in other words, the buyer is offering to share a portion of the greater contractual surplus with the seller in return for the enhanced effort necessary to produce the specialized high-quality goods that maximize the buyer’s value. But this proposal has a twist. Under the common law indefiniteness doctrine,
 
 [^33]: Robert E. Scott, *The Death of Contract Law*, 54 U. Toronto L. Rev. 369, 385 –86 (2004).
+
 [^34]: Under an “As Is” contract, the seller makes no warranties of quality (see Uniform Commercial Code §2–316(3)(a)), but the seller is responsible for delivering goods meeting the basic contract description (*e.g.*, “six rosewood tables, four carved trunks,” etc.). *See* Uniform Commercial Code §2–313 (1)(b) (express warranties are created by any description of the goods which is made part of the basis of the bargain). Comment 4 to §2–313 explains that a clause generally disclaiming all warranties of quality under §2–316 (such as an “As Is” disclaimer) cannot reduce the seller’s obligation to supply goods sufficient to meet the contract description.
 
 *[p. 99]* ^pg109
@@ -279,7 +299,9 @@ This result makes sense. Informal sanctions are imposed implicitly and ex post. 
 How, then, do formal legal obligations to abide by the terms of a contract interact with motivations of fairness and reciprocity? At first blush, the robust evidence that many people exhibit reciprocal behavior may seem to argue for the law explicitly to incorporate similar norms of fair treatment. To illustrate this point, consider a hypothetical problem, *The Case of the Falling Phosphate Prices*, that states the question more concretely.[^39] Assume that a fertilizer manufacturer in the United States enters into a five-year contract with a Brazilian supplier of phosphate. The contract requires the buyer to purchase 250,000 tons of phosphate each year at a stated price. The contract contains a merger clause, stating that the written agreement represents the entire agreement of the parties and supersedes all prior understandings. Two years into the contract, the bottom falls out of the phosphate market and prices fall dramatically. Consequently, the buyer only orders 50,000 tons, one-fifth of the contract quantity.
 
 [^37]: Martin Brown, Armin Falk, & Ernst Fehr, Incomplete Contracts and the Nature of Market Interactions, Institute for Empirical Research in Economics, University of Zurich, Working Paper No. 38 (2002). *See also* Ernst Fehr & Klaus M. Schmidt, *Theories of Fairness and Reciprocity*, note 9 *supra*, at 214–15; Ernst Fehr, Simon Gächter, & Georg Kirchsteiger, *Gift Exchange and Reciprocity in Competitive Experimental Markets*, 42 Eur. Econ. Rev. 1 (1998); Gary Charness, *Responsibility and Effort in an Experimental Labor Market*, 42 J. Econ. Behav. & Org. 375 (2000); Ernst Fehr & Armin Falk, *Wage Rigidity in a Competitive Incomplete Contract Market*, 107 J. Pol. Econ. 106 (1999); Simon Gächter & Armin Falk, *Reputation and Reciprocity: Consequences for the Labour Relation*, 104 Scand. J. of Econ. 1 (2002).
+
 [^38]: Robert E. Scott & Paul B. Stephan, note 25 *supra*, at 577–79.
+
 [^39]: The hypothetical is loosely based on the facts in *Columbia Nitrogen Corp. v. Royster Co.*, 451 F.2d 3 (4th Cir. 1971), and the discussion in Robert E. Scott, note 33 *supra*, at 372–74.
 
 *[p. 103]* ^pg113
@@ -305,8 +327,11 @@ As applied to the hypothetical *Case of the Falling Phosphate Prices,* these exp
 But the experimental evidence of crowding out undermines the claims of many contemporary scholars that courts should go further and hold that relational contracts (such as the phosphate contract described earlier) create reciprocal “relational” duties.[^44] In our hypothetical case, for example, the changed circumstances that materialized after the parties made the contract would impose severe losses on the buyer unless the court granted relief from the contract’s specific quantity obligations. Scholars have argued that the severity
 
 [^41]: Robert E. Scott, *A Theory of Self-Enforcing Indefinite Agreements*, note 3 *supra*, at 1689–90.
+
 [^42]: *See*, *e.g.*, Bruno S. Frey & Reto Jegan, *Motivation Crowding Theory*, 15 J. Econ. Surveys 589 (2001); Bruno Frey & Matthias Benz, Motivation Transfer Effect, University of Zurich, Institute for Empirical Research in Economics (2001); Iris Bohnet, Bruno S. Frey, & Steffen Huck, note 40 *supra*; Ernst Fehr & Simon Gächter, note 40 *supra*.
+
 [^43]: Sergio Lazzarini, Gary J. Miller, & Todd R. Zenger, *Order with Some Law: Complementarity versus Substitution of Formal and Informal Arrangements*, 20 J. L. Econ. & Org. 261 (2004).
+
 [^44]: Robert Hillman, *Court Adjustment of Long-Term Contracts: An Analysis Under Modern Contract Law*, 1987 Duke L. J. 1.
 
 *[p. 105]* ^pg115

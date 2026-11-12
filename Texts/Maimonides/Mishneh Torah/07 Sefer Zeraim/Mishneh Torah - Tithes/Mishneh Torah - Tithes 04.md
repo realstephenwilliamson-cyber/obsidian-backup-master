@@ -81,73 +81,138 @@ If one was eating a cluster [of grapes] in a garden and brought it into a courty
 **18.** When coriander[^65] is planted in a courtyard,[^66] one may pick it leaf by leaf and partake of it. If one gathers them together, he is obligated to tithe. Similar laws apply in all analogous situations. ^4-18
 
 [^1]: Produce from which the tithes (and/or *terumah*) have not been separated. In his Commentary to the Mishnah (*Berachot* 7:1), the Rambam interprets this as a composite of the words *tav lo*, meaning "it is not good."
+
 [^2]: From Chapter 3, Halachah 7, and Halachah 5, of this chapter, one might surmise that this applies whether the owner of the produce or another person brought it into the owner's home.
+
 [^3]: From Chapter 3, Halachah 4, it appears that this refers to produce for which all the tasks necessary to prepare it were completed.
+
 [^4]: Although according to Rabbinic Law, it is sufficient to bring the produce into one's courtyard as stated in Chapter 3, Halachah 3, according to Scriptural Law, it must be brought into one's home.
+
 [^5]: More particularly, the term *karfef* used by the Rambam, refers to an unprotected yard.
+
 [^6]: He is, however, liable according to Rabbinic Law, in these instances. In his notes to *Berachot* [[Berakhot 35#35b|35b]], the Meiri writes that even according to Scriptural Law, it is forbidden to do this as an initial preference; the leniency is granted only after the fact.
+
 [^7]: This expression introduces a deduction for which the Rambam has no definite prior source in the Rabbinic literature. The *Kessef Mishneh* questions why the Rambam uses this expression when the Jerusalem Talmud (*Ma'aserot* 3:1) explicitly states that the obligation established by three of the six situations is Rabbinic in origin. He explains that there is no explicit source for the other three. Hence, this expression is appropriate.
+
 [^8]: In the previous halachah.
+
 [^9]: In Chapter 3, Halachah 3.
+
 [^10]: See Chapter 2, Halachah 1.
+
 [^11]: Since it is so small, it is not fit to serve as a dwelling. Based on *Hilchot Mezuzah* 6:2, one might assume that tithes are required if the home comprises this area even though it is not square in shape.
+
 [^12]: For roofs are not considered as dwellings.
+
 [^13]: I.e., since the roof is small, it is not considered as an independent entity, but instead, is considered as part of the home (*Kessef Mishneh*).
+
 [^14]: Shelters made of branches and wood [the Rambam's Commentary to the Mishnah (*Ma'aserot* 3:7].
+
 [^15]: Our translation is based on the Rambam's Commentary to the Mishnah (*ibid.*).
+
 [^16]: Structures constructed to provide shade from the summer sun.
+
 [^17]: Booths that do not have permanent roofs.
+
 [^18]: This is the meaning of the term *sukkot Ginosar* in the mishnah (*loc. cit.*). Ginosar (the area around Lake Kinneret) was known for the quality and abundance of its produce. Workers would be hired to pick this produce during the harvest and they would construct semi-permanent structures in which they would dwell over the summer.
+
 [^19]: Potters would construct *sukkot* with two rooms. The inner room would be their dwelling, while the outer room would serve as a workshop and storefront. If produce was brought into the inner *sukkah*, the obligation to tithe is established. See the notes to Halachah 9 with regard to this ruling.
+
 [^20]: Note the clarification in the following halachah.
+
 [^21]: I.e., if the owners of these structures bring produce into them, they are obligated to tithe it before partaking of it.
+
 [^22]: I.e., if a person brings produce into a house belonging to a colleague, he is not obligated to tithe it. On the surface, the question may be raised: Even if a person brings produce into a colleague's home, he is not obligated to tithe it, as stated in Halachah 1. Why then are a leanto and a guardhouse singled out here?  
     It is possible to explain, however, that if a person makes it a practice of bringing produce into a colleague's home, he becomes obligated to tithe it when he does so. In contrast, even if he makes a practice of bringing produce into his colleague's leanto, an obligation to tithe is not established, because a leanto is not a permanent dwelling.
+
 [^23]: From the Jerusalem Talmud (*Ma'aserot* 3:7), it appears that the term "school" refers to a school where young children are taught Scripture, while the term "house of study" refers to a study center where older students are taught the Oral Law.
+
 [^24]: Even if he does not have an apartment there, since he is continually there, it is considered as his established abode (Radbaz, gloss to Halachah 6).
+
 [^25]: In contrast to the house of study mentioned in the previous halachah, this is a house of study for adults where they meet and share ideas (Radbaz).
+
 [^26]: For the sexton, as was common in certain situations.
+
 [^27]: Since it contains a dwelling for the sexton, even the portion of the structure that serves as a synagogue or a house of study is considered as part of a dwelling (Radbaz). See also parallel rulings in *Hilchot Mezuzah* 6:6 and *Hilchot Shabbat* 28:4.
+
 [^28]: Our translation is based on the gloss of Rabbi Yosef Korcus who cites [[II Chronicles 09#^9-25|II Chronicles 9:25]].
+
 [^29]: For until the produce has been brought to a dwelling or the marketplace, it is still considered as being in an intermediate phase of preparation.
+
 [^30]: In this instance as well, if the structure contains an apartment, e.g., for a guard or the like, bringing produce into any part of the structure establishes an obligation to tithe.
+
 [^31]: A distinction must, however, be made. The obligation to tithe produce brought into a home is Scriptural in origin and the obligation to tithe produce brought into a courtyard is of Rabbinic origin.
+
 [^32]: In Halachah 1, the Rambam makes such statements with regard to bringing produce into a home. He deduces that similar concepts apply with regard to bringing it into a courtyard.
+
 [^33]: All of these signs are indications that the courtyard is regarded as private property and not the public domain.
+
 [^34]: I.e., although two people share it, and one may carelessly leave it open, since the other locks it, it is regarded as private property. Hence bringing produce into it establishes the obligation to tithe.
+
 [^35]: A structure common in Greek and Roman times with two or three walls and a roof. (Occasionally, there would be an opening in the roof.)
+
 [^36]: In and of themselves, these structures are not considered dwellings and bringing produce into them would not create an obligation. Nevertheless, since they lead to and/or are auxiliaries to an area that is considered part of a permanent dwelling, they are considered as part of that dwelling.  
     The Radbaz notes that in Halachah 4 and in the following halachah, the Rambam states that bringing produce into a potter's outer *sukkah* does not create an obligation, while bringing it into the inner *sukkah* does. Why don't we, he asks, apply the same principle? Let us say that the outer *sukkah* is an entrance and/or auxiliary to the inner one. He explains that for the inner *sukkah* to create an obligation is itself a new development and the obligation is not strong enough to be extended to the outer *sukkah*.
+
 [^37]: For as above, in and of themselves, these structures are not considered significant dwellings.
+
 [^38]: For they are both considered as permanent structures, leading to and auxiliary to the home.
+
 [^39]: See the notes to Halachah 4 and those to the previous halachah. The commentaries question why the Rambam repeats the same law in such close proximity.
+
 [^40]: Since a person spends much time in his store, it is considered as equivalent to a home for him.
+
 [^41]: The Radbaz emphasizes that if the person spends a Sabbath on his journey, the commencement of the Sabbath establishes an obligation to tithe as stated in Chapter 3, Halachah 3.
+
 [^42]: I.e., if he does not transport the produce to his intended destination, but instead, changes his mind in the middle, and returns with it (*Kessef Mishneh*).
+
 [^43]: Who sell perfumes to women [the Rambam's Commentary to the Mishnah (*Ma'aserot* 2:3)].
+
 [^44]: This is speaking about their own produce or produce which was given to them to partake of (*ibid.*). If they were intending to sell the produce, there is an immediate obligation to tithe it. It is like bringing it to the marketplace (see Chapter 3, Halachah 2).
+
 [^45]: Rav Yosef Korcus explains that in this instance - in contrast to the previous halachah - the obligation falls before they reach their ultimate destination. The rationale for the distinction is that since these traveling salesmen do not have an ultimate goal, wherever they spend the night is significant for them.
+
 [^46]: I.e., one which is not guarded (Halachah 8).
+
 [^47]: For bringing produce into his home does not establish an obligation to tithe unless the person brings them there intentionally (see Chapter 3, Halachah 5). The person must, however, remove them from the home. He may not partake of them in the home without tithing them.
+
 [^48]: For bringing produce to a roof does not establish an obligation to tithe (Halachah 3).
+
 [^49]: This is the version in the standard printed texts of the *Mishneh Torah* and is also found in authoritative manuscripts and early printings. The version of the *Mishneh Torah* which the Radbaz and Rav Yosef Korcus followed states: "brought them to dry them on the roof."
+
 [^50]: The Ra'avad differs with the Rambam's ruling, explaining that bringing produce into a friend's courtyard does not establish an obligation to tithe unless one does so intentionally, but not when one does so out of forgetfulness. He also cites a version of the *Tosefta* (*Ma'aserot* 2:10) which supports his understanding.  
     Rav Yosef Korcus offers two justifications for the Rambam's ruling. First of all, he states that the phrase "he should not partake of them" could be interpreted as referring to the owner of the courtyard and not to the owner of the produce. Alternatively, he explains that even if it refers to the owner of the produce, since the courtyard he brings it into is part of a permanent dwelling, he should not partake of it until he tithes it. Leniency was given to traveling salesmen (Halachah 13), because they brought the produce into the courtyard with the intent of removing it immediately. In this instance, however, the owner does not necessarily intend to remove it immediately. Why then should he not be obligated to tithe?  
     In his gloss to Chapter 5, Halachah 8, the Ra'avad notes a seeming contradiction to the Rambam's ruling here. In his gloss to that halachah, the Radbaz explains that the stringency here is to correct a misimpression that might result in the eyes of an observer. The *Kessef Mishneh*, however, finds the Rambam's rulings difficult to reconcile and suggests that there is a printing error here.  
     Nevertheless, Rav Yosef Korcus continues, the Rambam's statements appear to be self-contradictory, because in the previous clause it appears that if one brings produce into a home after forgetting, he is not obligated to tithe it, but this clause states that if he brings it into his colleague's courtyard, he is. Seemingly, bringing it into one's own home would be a stronger factor than bringing it into a colleague's courtyard. Among the resolutions he offers is that when a person forgets and brings the produce into his own home, he is certainly acting inadvertently, without intent. If, however, he brings it into his colleague's courtyard, that could be considered as a conscious change of mind.
+
 [^51]: I.e., it is no longer considered as an extension of the home, but as a separate entity like a field.
+
 [^52]: For once he has plowed the majority, he will certainly plow the remainder.
+
 [^53]: But not the entirety of the courtyard.
+
 [^54]: The rationale is that since he did not sow the entire courtyard, we assume that his sowing is only temporary and soon, he will revert to considering the courtyard as that and not as a field.
+
 [^55]: The Ra'avad differs with the Rambam on this point, maintaining that planting trees does not remove land from the category of a courtyard. He explains that the Rambam used an incorrect version of the Jerusalem Talmud (*Ma'aserot* 3:10). For the Rambam's version of that passage conflicts with the rulings of *Eruvin* [[Eruvin 23#23a|23a]] regarding *eruvin*. The *Kessef Mishneh* explains that the obligations of *eruvin* and tithes are governed by different principles and deductions cannot necessarily be made from one situation to the other.
+
 [^56]: This indicates that he is not intending to uproot them and return the area to the function of an ordinary courtyard. Hence, it is considered as an orchard and he may snack from the produce before tithing.
+
 [^57]: In this and in the following halachot, the intent is to snack, not to eat a significant meal.
+
 [^58]: For he is then considered to have completed the work associated with harvesting figs and they are in a courtyard. Compare to Chapter 5, Halachah 3.
+
 [^59]: I.e., any place above three handbreadts off the ground (Radbaz).
+
 [^60]: I.e., he can collect them instead of eating from them one by one.
+
 [^61]: In other instances (see *Ma'aserot* 3:10), the foliage of the tree is considered as being in the same domain as its trunk. In this instance, however, the ruling depends on the domain in which the produce is collected.
+
 [^62]: Following the same logic stated in Halachah 15.
+
 [^63]: This applies to an instance where one intentionally brought the produce into the courtyard. If one did so unintentionally, there is no obligation to tithe as stated in Halachah 13.
+
 [^64]: I.e., once the produce has entered the courtyard, the obligation to tithe is irrevocably established.
+
 [^65]: Our translation is taken from Rav Kappach's translation of the Rambam's Commentary to the Mishnah (*Ma'aserot* 3:10).
+
 [^66]: One in which the majority was sown as stated in Halachah 14.

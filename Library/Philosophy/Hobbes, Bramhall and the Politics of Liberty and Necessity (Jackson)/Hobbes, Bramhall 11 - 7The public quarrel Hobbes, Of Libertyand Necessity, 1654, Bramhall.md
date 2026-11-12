@@ -31,12 +31,19 @@ Théophile Brachet de la Milletière was counsellor-in-ordinary to the king of F
 to Charles II, recently returned from England.[^1] The epistle was written and published late in 1651 as a preface to Milletière’s ‘The Victory of Truth’.[^2] Presumably with the approval of the young Louis XIV or one of his ministers, Milletière appealed to Charles to convert to Roman catholicism.[^3] In the epistle Milletière argues that Charles II has been suffering for the sins of his fathers who abandoned the true church.[^4] Milletière reasons that Charles I’s death was God’s judgment visited upon him and the English for the sin of schism – and also a warning to other princes of schismatical (protestant) churches.[^5] Milletière is not so crass as to say so explicitly, but the message is that to turn Romanist would considerably improve Charles’s chances of gaining the continental support necessary for establishing himself as king of England. However, at one point he speaks explicitly enough in urging Charles to consider: ‘Will you doubt, but that in thus seeking His Kingdom, you will find also your own?’[^6] In the penultimate paragraph, Milletière makes an appeal by prophecy: ‘when He shall have restored you to His Church, the throne, that was unjustly rent away both from her and from you, may be restored to you in the midst of your subjects, there to re-establish, by the same grace, the Kingdom of Jesus Christ’.[^7] If only between the lines Milletière was asking: Is not England worth a mass?[^8]
 
 [^1]: Milletière had been an elder of the consistory of Charenton, and sometime confidant and assistant of Pierre Du Moulin, before, in 1645, being excommunicated by the synod of Charenton (for some heterodoxy in his irenicist programme), and turning Roman catholic. R. J. M. Van de Schoor, *The Irenical Theology of Théophile Brachet de la Milletière (1588–1665)* (Leiden: E. J. Brill, 1995), 15, 28; for an episode involving Milletière and Du Moulin and Moise Amyraut when the former was still within the protestant fold, see Brian G. Armstrong, *Calvinism and the Amyraut Heresy: Protestant Scholasticism and Humanism in Seventeenth-* *Century France* (Madison: University of Wisconsin Press, 1969), 88, 96–9.
+
 [^2]: ‘La Victoire de la Verité pour la Paix de l’Eglise, au Royalisme de la Grande Brétagne. Pour convier Sa Majesté d’embrasser la Foy Catholique.’ A translation of the dedicatory epistle to Charles II is in *BW*, i, cxxi–cl. All quotations of Milletière are from this volume. There is internal evidence that Milletière wrote in late 1651, after Charles’s defeat at Worcester. See *BW*, i, cxlv.
+
 [^3]: In February 1652 Milletière sent a copy of his address to Charles II. In a letter dated 12 February 1652, Paris, to be carried by Gabriel Naudé to Mazarin, who had not yet been able to return to the city because of Fronde disorders, he wrote: ‘Je lui \[Naudé\] ai aussi mis entre les mains, pour l’envoyer a Votre Eminence un petit ouvrage que j’ai addressé au Roi de la Grande Bretagne pour sa conversion a la foi Catholique, dont j’espère que l’evenement, qui doit suivre le moyen que j’en propose, trouvera sa conjuncture favorable dans le bonheur de la paix, que j’augure comme une suite du retour de Votre Eminence.’ Quoted in Van de Schoor, *Irenical Theology*, 249–50, transcription of ms. 881, ff. 261–2 in Archives des Affaires Etrangères, Mémoires & Documents de France.
+
 [^4]: Dedicatory epistle, ‘Victory of Truth’, *BW*, i, cxxvi.
+
 [^5]: See Spurr, *Restoration Church*, 11, for the popularity of this argument of the Roman catholics.
+
 [^6]: Dedicatory epistle, ‘Victory of Truth’, *BW*, i, cxliv.
+
 [^7]: Dedicatory epistle, ‘Victory of Truth’, *BW*, i, cxlix.
+
 [^8]: Charles II’s French grandfather, Henri IV, is supposed to have remarked ‘Paris vaut bien une messe’ on converting, *à la politique*, from protestant to Roman catholic.
 
 *[p. 182]* ^pg202
@@ -46,11 +53,17 @@ Probably early in 1652, Bramhall wrote for Charles II a reply to Milletière’s
 I hope Mr Crowther hath presented to you my answer to Milletière.[^11] Perhaps some things in it may appear too sharp, which I gave order to be marked in the margin that His Majesty and yourself might view particularly and expunge them or change them as you thought fit. The other treatise[^12] which is to vindicate our church from schism and lay it at the right door I shall bring along with me, which I think will say more than hath yet been said in that cause in defence of our Kings and Church.[^13] Thus, through Joseph Crowther, the Duke of York’s chaplain, Bramhall was submitting anglican propaganda to Ormonde and Charles for editorial review. Perhaps the bishop’s cleverest (or most spiteful) point in reply to Mil-letière is that Charles II cannot *convert* to catholicism because he is already a catholic: the church of England is as catholic as any church on earth.[^14] Rather, Milletière and his fellow papists need to convert from Romanism to catholicism.[^15] It is the Roman catholics, not the Christians of the church of
 
 [^9]: As we saw at the end of chapter 6, Bramhall was in Paris in October 1651, and at Charles’s court, 30 December 1651. Haddan supposed that it was precisely at this time that Bramhall composed the *Answer to Milletière*. *BW*, i, xi, ‘u’.
+
 [^10]: ‘this kingdom’: *Answer to Milletière*, *BW*, i, 23.
+
 [^11]: Here and elsewhere Bramhall misspelled Milletière, but I have quietly corrected the spelling in all quotations.
+
 [^12]: I.e., *Just Vindication*, for which see below.
+
 [^13]: Bramhall to Ormonde, 28 February/9 March 1652, Calais, *HMC Ormonde*(b), i, 262–3. Bramhall’s answer was only published about a year after this letter, and anonymously, at The Hague, 1653. Apparently this publication was not authorised by Bramhall: see Haddan, *BW*, i, xxvi. In Bramhall’s *Just Vindication*, published in 1654, he acknowledged the reply to Milletière as his work. The *Answer to Milletière* was re-published at The Hague in 1654. According to the editor of the French translation of Bramhall’s book (‘Réponse faite par le Commandement du Roi de la Grande Brétagne à l’Epitre Dedicatoire du Triomphe Imaginaire de M. de la Milletière’) published in Geneva, in 1655, Charles II had commissioned Bramhall to write this answer: see Haddan, *BW*, i, xxvi. But this Geneva editor’s source is not disclosed. Bramhall himself later noted that his book had been approved at Geneva and translated into French. *Vindication of Episcopal Clergy*, *BW*, iii, 547.
+
 [^14]: *Answer to Milletière*, *BW*, i, 24–5. The full title: ‘An Answer to M. de la Milletière, his impertinent Dedication of his imaginary Triumph (entitled ‘The Victory of Truth’), or his Epistle to the King of Great Britain King Charles II, wherein he inviteth his Majesty to forsake the Church of England, and to embrace the Roman Catholic Religion: with the said Milletière’s Epistle prefixed’. Haddan’s edition is in *BW*, i, 7–81, from which I quote.
+
 [^15]: Near the conclusion of the book Bramhall offers the following syllogism: ‘That Church which hath changed the Apostolical Creed, the Apostolical sucession, the Apostolical regiment, and the Apostolical communion, is no Apostolical, orthodox, or Catholic Church. But the Church of Rome hath changed the Apostolical Creed, the Apostolical succession, the Apostolical regiment, and the Apostolical communion. Therefore the Church of Rome is no Apostolical, orthodox, or Catholic Church.’ *Answer to Milletière*, *BW*, i, 72.
 
 *[p. 183]* ^pg203
@@ -64,8 +77,11 @@ And with regard to Charles II’s present sufferings as an exile, Bramhall argue
 In the course of answering Milletière, Bramhall reveals his opposition to a Hobbesian conception of the civil sovereign as supreme pastor or priest. He claims that no English sovereign – not even Henry VIII – ever intended to arrogate to himself (or herself) either a ‘spiritual Headship’ or ‘ecclesiastical Headship’. Furthermore, Bramhall wishes to speak for all his compatriots, clergy and laity, in declaring that: ‘we did never believe, that our Kings in their own persons could exercise any act pertaining either to the power of order
 
 [^16]: *Answer to Milletière*, *BW*, i, 67.
+
 [^17]: *Answer to Milletière*, *BW*, i, 73. Bramhall refers to the story of Jeroboam in i Kings
+
 [^18]: *Answer to Milletière*, *BW*, i, 24.
+
 [^19]: *Answer to Milletière*, *BW*, i, 29.
 
 *[p. 184]* ^pg204
@@ -75,11 +91,17 @@ or jurisdiction’.[^20] This is a direct contradiction of Hobbes’s view as en
 According to the letter he wrote to Ormonde in March 1652, Bramhall had been working on a treatise ‘to vindicate our church from schism’.[^23] This treatise was originally conceived as an appendix to the *Answer to Mil-letière*. In the latter, he wrote: ‘I have shaped a coat for a schismatic, and had presented it to you in this Answer; but, considering that the matter is of moment, and merits as much to be seriously and solidly weighed as your naked crimination without all pretext of proof deserves to be slighted, lest it might seem here, as an impertinent digression, to take up too much place in this short discourse, I have added it at the conclusion of this Answer in a short tract by itself, that you may peruse it if you please.’[^24] Thus, by early 1652, Bramhall had been working not only on a reply to Milletière’s epistle, but also on a systematic treatise vindicating the church of England from various Roman catholic charges and criticism. Bramhall continued to work on this book after March 1652. As late as May 1653, Bramhall was still adding passages.[^25] This book was to be published in 1654, in London, as *A Just Vindication of the Church of England from the Unjust Aspersion of Criminal Schism*.[^26] This apologetic was occasioned by several writings by
 
 [^20]: *Answer to Milletière*, *BW*, i, 29. For Bramhall’s similar formulation in *Just Vindication*, see *BW*, i, 272, where the sovereign’s spiritual power is said to be merely ‘architectonical’.
+
 [^21]: Hobbes stressed that the civil sovereign could perform any act *if he wished*, but that he would probably be too busy with other matters to have any desire to do so.
+
 [^22]: *Answer to Milletière*, *BW*, i, 30. As noted earlier, Hobbes does not seem to have recognised his deviation from this legal statement of the civil sovereign’s *lack* of sacerdotality, effectively a limitation of the royal supremacy.
+
 [^23]: Bramhall to Ormonde, 28 February/9 March 1652, Calais, *HMC Ormonde*(b), i, 262–3.
+
 [^24]: *Answer to Milletière*, *BW*, i, 36.
+
 [^25]: Chapter vii includes a discussion in which Bramhall refers to a recent event of 12 May 1653. *Just Vindication*, *BW*, i, 236.
+
 [^26]: The title elaborates: ‘Wherein the nature of criminal schism, the divers sorts of schismatics, the liberties and privileges of national churches, the rights of sovereign magistrates, the tyranny, extortion, and schism of the Roman Court, with the grievances, complaints, and opposition, of all princes and states of the Roman Communion, of old and at this very day, are manifested to the view of the world.’ Just several years later it was re-published, bound with the same title page, with *Replication to the Bishop of Chalcedon* (1656), in London, 1661. A. W. Haddan, *BW*, i, xxvii.
 
 *[p. 185]* ^pg205
@@ -89,10 +111,15 @@ English Roman catholics in which the anglican church was accused of schism and, 
 It was probably sometime during 1654 that Bramhall presented a collection of his writings to members of the royal family and his fellow royalists
 
 [^27]: In chapter ii (at *BW*, i, 99), Bramhall refers to Henry Holden’s *De Resolutione Fidei* (which included an appendix, ‘De Schismate’) (Paris, 1652) and Knott’s *Infidelity Unmasked* (Ghent, 1652). Another defence of the church of England was made by Bramhall’s fellow polemicist in England, Henry Hammond, who published *Of Schism* in London, in 1653. In the same year Ferne published *Of the Division between the English and Romish Church upon the Reformation* in London, 1653; and after Bramhall’s *Just Vindication* appeared in 1654, Roger Twysden published *Historical Vindication of the Church of England in point of Schism* (London, 1657).
+
 [^28]: Haddan, *BW*, i, xxviii.
+
 [^29]: For the doctoral thesis, see Jackson, ‘Hobbes vs. Bramhall’, Appendix i, 375–7.
+
 [^30]: *Just Vindication*, *BW*, i, 96.
+
 [^31]: Chapter iv, *BW*, i, 129–52; see also 196–7. Bramhall concludes the chapter by arguing that Henry VIII did not innovate any more than his predecessors had done: ‘the laws made by King Henry . . . were not operative but declarative; not made to create any new law, but only to vindicate and restore the ancient law of England, and its ancient jurisdiction to the crown’. *BW*, i, 151.
+
 [^32]: Bosher, *Restoration Settlement*, 64. Bosher notes that it was very widely read and appreciated: in one of his letters Henry Hammond spoke of *Just Vindication* as ‘B. B.’s excellent book on Schism’. *Restoration Settlement*, 36, 65. For George Morley’s (Hyde’s chaplain’s) similar appreciation, see Vesey, AH, xxx–xxxi. For the Roman catholic answers that *Just Vindication* provoked, see chapter 8. And for a good summary of Bramhall’s arguments in *Just Vindication*, see Spurr, *Restoration Church*, 117–18.
 
 *[p. 186]* ^pg206
@@ -100,9 +127,13 @@ It was probably sometime during 1654 that Bramhall presented a collection of his
 in exile. In a letter that Sir George Radcliffe wrote from Paris, he informed his old Yorkshire friend and former colleague in Ireland, then at The Hague: ‘Your Lordship’s five books I got to be bound, and presented them as you appointed, to the Duke \[of York\] the Dean \[Cosin\], Mr Bennett, and Mr Crowther, and my own. Mr Crowther lent his to my Lord Dunkald, who bade me write to your Lordship for one for him.’[^33] Bramhall’s engagement in royalist affairs in these years was not confined to anti-Roman catholic polemic. In fact, perhaps only a small fraction of his time was spent on such literary toil. That Bramhall was occasionally commissioned to write things on behalf of the king and the church of England, we know from the case of the reply to Milletière. Sometime in 1653 Bramhall seems to have considered composing a declaration for the king, apparently for striking some sort of deal with a dissident group in England. But he thought better of doing so without the king’s commission, writing to Ormonde, then in Paris: ‘I had thought to have made a draft. But I durst not be so saucy without command.’[^34] The bishop’s travels on the continent seem to have been frequent and his activity quite varied. It was probably in 1651 or 1652, for example, that he ran another errand in Spain.[^35] He may have gone into Spain in order to explore some kind of anglican–Roman-catholic compromise which would enable a Habsburg (or Habsburg-related) princess to marry Charles II. Since Vesey related that around this time (early 1650s) Bramhall made a trip into Spain for some liturgical project (and nearly suffered persecution at the hands of the Inquisition), perhaps Bramhall was involved in an attempt to devise some religious form that a Spanish queen would be permitted to practise in England.[^36] In any case, we can wonder whether the Spanish excursion was for some such marital or alliance project, as conceived by Charles and his advisors.[^37] Bramhall’s correspondence shows that his travels were mostly along the coasts of the southern Netherlands and
 
 [^33]: *Rawdon Papers*, No. xxxix. The letter’s editor, Berwick, offered no approximate dating, but reference to the ‘Protector’ places it after December 1653, and reference to Charles II’s presence in France places it before 1655.
+
 [^34]: Received 8/18 June 1653, Bramhall to Ormonde, *HMC Ormonde*(b), i, 294. Incidentally, this letter indicates that Bramhall sometimes corresponded with Henry Bennett, sometime secretary of the Duke of York and, thus, another exile at the centre of Stuart affairs.
+
 [^35]: On 17/27 February 1653 (*Rawdon Papers*, No. xlii), he wrote to his eldest son John at Ripon: ‘I made a tedious and chargeable voyage into Spain, where I received some money from Mr Jackson, and gave him acquittance for the same; and after a year or two my friend received other moneys from him, to whom I gave power to acquit him so much as he received, but not otherwise.’ For Bramhall’s first excursion into Spain, see chapter 5, 125.
+
 [^36]: AH, xxxiii.
+
 [^37]: In the letters appended to Bray’s edition of Evelyn there is a note on a Spanish intrigue in which Bramhall might have played a part. See Evelyn, *Diary and Correspondence*, iv, 259, n.1.
 
 *[p. 187]* ^pg207
@@ -112,9 +143,13 @@ northwest France.[^38] These were the travels required of an effective royalist 
 Perhaps a bishop’s entry into such occupation was bound to cause some murmuring. Relations between Bramhall and Hyde were already uneasy because the bishop had scolded the latter for tardiness in the fitting out of privateers. According to Hyde, Bramhall ‘read me such a lecture as I never heard’. A week later Hyde wrote to Nicholas that the bishop ‘hath lately had as rough an encounter with me as ever I met within my life, and tho’ he complains of me for using some sharp expressions to him, trust me he gave me greater provocations than can be imagined’.[^41] Nicholas replied: ‘I am very sorry that a person of the Bp. of Derry’s calling should abuse his function so much as to busy himself with such affairs as it seems by yours he pretends to.’[^42] But in the next letter from Nicholas to Hyde it emerges that the former’s reproach was not without at least the hint of an ulterior motive. Nicholas seems to have wished that the post would be assigned to his son: I humbly thank you for your care of my request to the K. and D. of York on behalf of my son Ned. If that employment \[of receiving the fifths of the prizes\] had not been disposed of to others before my letter came, I am confident my son would have therein done very good and faithful service. And indeed I cannot marvel enough why the Bp.
 
 [^38]: In the years 1651–4 he wrote at least one letter from each of the following cities: The Hague, Rotterdam, Vlissingen, Ghent, Antwerp, Brussels, Calais, Paris.
+
 [^39]: Bickley, *HMC Hastings*, iv, xxvi.
+
 [^40]: J. R. Jones, *Britain and Europe in the Seventeenth Century* (New York: W. W. Norton, 1966), 37. Bramhall’s presence in Flushing in the latter months of 1653 is confirmed by various letters of intelligence in *Thurloe State Papers*, i, 464, 514, 585–6, and *CCSP*, ii, 270, 300. Bramhall seems to have been in such perpetual motion that we can hardly say he resided anywhere. In December 1653 he went from Paris to Nantes to assist O’Sullivan Beara in the purchase of arms for Ireland. *Catalogi Codicum Manuscriptorum Bibliothecae Bodleianae Partis Quintae* A.9.87.
+
 [^41]: Hyde to Taylor, 2 November 1652, *CCSP*, ii. 153; Hyde to Nicholas, 9 November 1652, *CCSP*, iii, 111.
+
 [^42]: Nicholas to Hyde, 4/14 November 1652, *Nicholas Papers*, i, 317.
 
 *[p. 188]* ^pg208
@@ -124,11 +159,17 @@ of Derry should covet so improper a province. I believe he is the first bishop t
 Tensions must have been running especially high among the royalist exiles in these trying years in the wilderness. And it was precisely at this time
 
 [^43]: *Nicholas Papers*, i, 318. A letter in the *Thurloe State Papers* contains similar derision: ‘The Bishop of Londonderry, from a fisher of men (if ever he was that) is also turned caper, having this day held a vendition here \[Vlissingen\] of several goods which were surprised in the River Thames by Robert Hall, a Scotchman, in a ketch called the Swallow, bound for Edinburgh.’ *Thurloe State Papers*, i, 464.
+
 [^44]: It might be worth pointing out that insofar as Hyde had been, in the Short and Long Parliaments, a critic of Strafford and Laud, he had been, by extension, a critic of Bramhall. Thus, in the late 1640s and 1650s, there would naturally have been a little bit of hard feelings or awkwardness. In 1641, Hyde had probably voted for the attainder of the bishop’s friend and colleague.
+
 [^45]: *CCSP*, ii, 259, 279.
+
 [^46]: *CCSP*, ii, 263, 270, 279. An exculpatory letter regarding the Grenville–Hyde affair was written by Bramhall, at Vlissingen, to Ormonde: 6/16 October 1653, *HMC Ormonde*(b), i, 296–7; another one was written to George Radcliffe, dated Vlissingen, 6 November 1653, *CCSP*, ii, 270.
+
 [^47]: Nicholas to Hyde, 19/29 May 1653, *Nicholas Papers*, ii, 13.
+
 [^48]: *CCSP*, ii, 237.
+
 [^49]: Nicholas to Hyde, 9/19 February 1654, *Nicholas Papers*, ii, 61.
 
 *[p. 189]* ^pg209
@@ -142,10 +183,15 @@ Then home I came, not sure of safety there \[France\], Though I cou’d not be s
 At London, lest I should appear a spy, Unto the state myself I did apply; That done, I quietly retired to Follow my study, as I us’d to do.[^51] After Hobbes returned to England in early 1652, he lived mainly in London, in Fetter Lane, where the Earl of Devonshire owned a house.[^52] There he enjoyed the conversation of such *cognoscenti* as John Selden, William Harvey and John Vaughan.[^53] On at least several occasions he had the company of William Brereton and Sir Charles Cavendish, Newcastle’s younger brother, who had returned to England in November 1651 in order to compound.[^54] A more recent biographer of Hobbes has substantially confirmed Aubrey’s account, reporting that from his return in 1652 to the Restoration in 1660, Hobbes spent little time at Hardwick or Chatsworth, Devonshire’s two seats in Derbyshire.[^55] As we have noted, Bramhall seems to
 
 [^50]: The bad blood between Bramhall and Hyde may not have lasted very long. It was their mutual interest to get along, and their friend Ormonde might well have effected some reconciliation promptly. Although they were never close friends, relations between Bramhall and Hyde grew cordial as exile wore on. At least by the late 1650s, there is evidence that they were on amicable terms. In a letter from 1 January 1659 (N.S.), Hyde, in Brussels, expressed his hearty good wishes to Bramhall, at Utrecht, on the new year; and offered generous praise for his recent book, *Schism Guarded*. In the same letter Hyde also spoke of visiting him in the near future. *HMC Hastings*, iv, 98. Bramhall’s reply to this letter of 1 January 1659 is dated 31 December 1658 (O.S.), Utrecht. *CCSP*, iv, 126.
+
 [^51]: Verse Life, *Elements of Law*, ed. Gaskin, 260; ‘In patriam redeo tutelae non bene certus, /Sed nullo potui tutior esse loco: / . . . Londinum veniens, ne clam venisse viderer, / Concilio Status conciliandus eram. / Quo facto, statim summa cum pace recedo, / Et sic me studiis applico, ut ante, meis.’ ‘Vita Carmine Expressa’, *OL*, i, xciii. ‘Concilio Status conciliandus eram’ suggests but does not prove that Hobbes took the Engagement. I thank Chris Kyle for urging this point.
+
 [^52]: Aubrey, *Brief Lives*, i, 337. Hobbes’s presence in London in 1652 is verified by journal entries of Loedwijk Huygens, who paid him a visit there. *The English Journal, 1651–1652*, eds. and trans. A. G. H. Bachrach and R. G. Collmer (Leiden: E. J. Brill/Leiden University, 1982), 74, 151. For Hobbes in London in the 1650s, see also Collins, *Allegiance of Hobbes*, 162–6.
+
 [^53]: Aubrey, *Brief Lives*, i, 337. Vaughan was to become chief justice of the common pleas, 1668–74. Hobbes’s circle in London probably included Edmund Waller, Abraham Cowley, Thomas White and William Davenant.
+
 [^54]: William Brereton to John Pell, London, 5/15 March 1652, BL MS Add. 4278, fo. 104r; *Pell-Cavendish*, 139.
+
 [^55]: Rogow, *Thomas Hobbes*, 205; see also Collins, *Allegiance of Hobbes*, 159–60. For Hobbes’s movements in the 1650s, see Schuhmann, *Une Chronique*, 114–68.
 
 *[p. 190]* ^pg210
@@ -159,10 +205,15 @@ Afterwards \[in 1645\] the Bishop sent to his Lordship \[Newcastle\] his opinion
 Before I received the bishop’s reply \[‘Vindication’\], a French gentleman of my acquaintance in Paris, knowing that I had written something of this subject, but not understanding the language, desired me to give him leave to get it interpreted to him by an English young man that resorted to him; which I yielded to. But this young man taking his opportunity, and being a nimble writer, took a copy of it for himself, and printed it here, all but the postscript, without my knowledge, and (as he knew) against my will; for which he since hath asked me pardon.[^61]
 
 [^56]: ‘Antwerp received all the news-sheets and pamphlets published by the Dutch, who followed English affairs closely.’ Trease, *Portrait of a Cavalier*, 166.
+
 [^57]: He was at Brussels in September 1654, according to a report in *Thurloe State Papers*, ii, 601.
+
 [^58]: The full title: *Of Liberty and Necessity: A Treatise, Wherein All Controversy Concerning Predestination, Election, Free-Will, Grace, Merits, Reprobation, &c is fully decided and cleared; in answer to a treatise written by the Bishop of Londonderry, on the same subject*. For ease of reference I have used the edition by Molesworth in *EW*, iv, 229–78.
+
 [^59]: See chapter 8 for more details about the quarrel between Bramhall and Smith.
+
 [^60]: *Questions*, *EW*, v, 2.
+
 [^61]: *Questions*, *EW*, v, 25–6.
 
 *[p. 191]* ^pg211
@@ -172,9 +223,13 @@ Presumably this young nimble writer might also have penned the unsigned anticler
 not being a clergyman or theologian, has, in just a few pages, ‘performed more than all the voluminous works of the priests and ministers, and that in points of soul-concernment and Christian interest . . . and human salvation’.[^64] The brilliant Hobbes is favourably compared to the clergy, the ‘black-coats’, who are ‘a sort of ignorant tinkers, who in matters of their own profession, such as in the mending and soldering of men’s consciences, have made more holes than they found’.[^65] The address to the reader is concluded with the scoffing boast that Hobbes’s treatise ‘will cast an eternal blemish on all the cornered caps of the priests and Jesuits, and all the black and white caps of the canting tribe’. Hobbes is commended to the reader as ‘that man, who, in matters of so great importance as those of thy salvation, furnishes thee with better instructions, than any thou hast ever yet been acquainted with, what profession, persuasion, opinion, or church sover thou art of’.[^66] Since Hobbes disclaimed any involvement in or knowledge of the publishing of his essay, and since references to him are in the third person, one would assume that the vitriolic epistle was not written by the philosopher himself. Yet it would be imprudent to ignore two facts. Firstly, Hobbes was, throughout his life, markedly anticlerical. Even if he had no
 
 [^62]: *Of Liberty and Necessity* (*OLN* hereafter), ‘To the Sober and Discreet Reader’, *EW*, iv, 231.
+
 [^63]: *OLN*, ‘To the Sober and Discreet Reader’, *EW*, iv, 232, 233.
+
 [^64]: *OLN*, ‘To the Sober and Discreet Reader’, *EW*, iv, 235; similarly: ‘This book, how little and contemptible soever it may seem, contains more evidence and conviction in the matters it treats of, than all the volumes, nay libraries, which the priests, Jesuits, and ministers have, to our great charge, distraction, and loss of precious time, furnished us with.’ *EW*, iv, 236.
+
 [^65]: *OLN*, ‘To the Sober and Discreet Reader’, *EW*, iv, 235.
+
 [^66]: *OLN*, *EW*, iv, 238.
 
 *[p. 192]* ^pg212
@@ -184,11 +239,17 @@ part in writing this letter, doubtless, he had said and written similar things.[
 The ‘young nimble writer’ was identified in the seventeenth century by Anthony Wood and John Aubrey. According to Wood in *Athenae Oxonienses*, it was John Davies of Kidwelly, Wales.[^68] Among Aubrey’s miscellaneous notes for a catalogue of Hobbes’s books is to be found the following passage: ‘A letter to the duke of Newcastle about liberty and necessity \[‘Treatise’\], printed 1676, and 1677. I have this somewhere among my books, printed about 30 years since. It was edited first \[in 1654\] by John Davys of Kidwelly.’[^69] As the most prolific and versatile English translator of French literature in the seventeenth century, Davies was more than competent to translate Hobbes’s ‘Treatise’ into polished French.[^70] According to a contemporary source, Davies was in France from 1649 to late 1651.[^71] If he was the one who made the translation, at the time Hobbes specified – that is, 1645 or 1646 – then he must have been there a few years earlier as well. In these years he might easily have translated the short paper for Hobbes’s French friend and, in the process, made a copy ‘surreptitiously’ for himself. Having returned to England, Davies spent the next twenty-five years between Wales and London.[^72] Thus, Hobbes and Davies could have mingled in the 1650s. Davies seems to have moved freely amongst various London literary circles.[^73] But if Davies was the translator, we need not
 
 [^67]: Compare passages in ‘Treatise’, *EW*, iv, 264, and *Lev*., xii, 73–4, with the prefatory letter’s ‘the practices of such men \[(clergy) have been\] the greatest disturbance, burden, and vexation of the Christian part of the world’. *OLN*, *EW*, iv, 232. Hobbes’s later *Historia Ecclesiastica*, *OL*, v, 341–408, completed in 1671, harped upon the same theme. For the origin and dating and discussion of this verse history, see Patricia Springborg, ‘Hobbes, Heresy, and the *Historia Ecclesiastica*’, *Journal of the History of Ideas* 55, 4 (1994): 553–71.
+
 [^68]: *Athenae Oxonienses*, iv, 382–5.
+
 [^69]: Aubrey, *Brief Lives*, i, 359.
+
 [^70]: Joseph E. Tucker, ‘John Davies of Kidwelly (1627?–1693), Translator from the French, with an Annotated Bibliography of His Translations’, *The Papers of the Bibliographical Society of America* 44 (1950): 119.
+
 [^71]: Tucker, ‘John Davies’, 120; David Hook, ‘John Davies of Kidwelly: A Neglected Literary Figure of the Seventeenth Century’, *Carmarthenshire Antiquary* 11 (1975): 108.
+
 [^72]: Hook, ‘John Davies’, stresses that scholars like Tucker have underestimated how much time Davies spent in his native Wales rather than London.
+
 [^73]: Remarkably active, in the next few decades there was rarely a year that did not see something of his published. While Davies translated all genres of French literature (except poetry and drama), he devoted most of his labour to novels. Tucker, ‘John Davies’, 121, 123.
 
 *[p. 193]* ^pg213
@@ -198,7 +259,9 @@ assume that he was the author of the anticlerical preface. If there is no reason
 Hobbes disavowed any involvement in the publication of his paper, but assuming he thought that Bramhall had been at least partially responsible for his loss of a royal pension and disgrace in Paris, he had motive enough to desire the airing of a portion of a private debate whereby the bishop’s intellectual inferiority and charlatanry could be exposed to public view. According to this line of conjecture, the publication of the ‘Treatise’ as *Of Liberty and Necessity* could have been Hobbes’s revenge for Bramhall’s hostility in France. The first edition of *Of Liberty and Necessity* in 1654 represented Hobbes as having signed his letter to Newcastle at Rouen on 20 August 1652; the second edition of 1654 presented the date of the letter as Rouen, 20 August 1646.[^75] As we were able to determine in chapter 3, neither of these dates was accurate, for Hobbes must have written the ‘Treatise’ in August 1645. But 1646 is much more accurate than 1652. So, presumably someone involved in the publication of the second edition of *Of Liberty and Necessity* knew that 1652 was far wide of the truth. One might suspect that Hobbes informed this person involved in the printing. Who else in London at the time knew that 1652 was quite far from the mark? It is true that some of his friends in London would have known, but perhaps none of them would have provided any information to those involved in an unauthorised publication. The alteration of the date from the first to the second edition in 1654 at least hints at Hobbes’s (or one of his friends’) complicity in at least the latter edition.[^76] To be sure, Davies himself knew that 1652 was incorrect, so it is quite possible that he alone was responsible for the alteration in the second edition. But assuming Hobbes’s willingness to deceive, we may wonder whether the false date of 1652 was, in fact, put in the first edition by him. Such an act would have had the merit of providing ‘plausible deniability’. If *he* had been involved, so the reasoning would go, the date would not have been inaccurate. Two years later, in 1656, Hobbes was to urge precisely
 
 [^74]: Hobbes’s independent and Cromwellian admirers in England in the 1650s are examined by Collins, *Allegiance of Hobbes*, 159–241.
+
 [^75]: *Of Liberty and Necessity* was not published by Hobbes’s customary printer Crooke. Rather, it was published by ‘W. B.’ for F. Eaglesfield at the Marygold in St Paul’s Churchyard. Macdonald and Hargreaves, *Hobbes Bibliography*, 38, provided William Bentley, printer in Finsbury, 1645–56, for these initials.
+
 [^76]: For this line of speculation I am indebted to Rogow, *Thomas Hobbes*, 181, who concludes that Hobbes was, at best, not ignorant of or concerned about the publishing of the second edition of 1654.
 
 *[p. 194]* ^pg214
@@ -208,7 +271,9 @@ this as proof of his not being privy: ‘He \[Bramhall\] might have perceived al
 As for the savagely anticlerical address to the ‘Sober and Discreet Reader’, we must concede that while its tenor is Hobbesian enough, its style is not. But, then, if Hobbes had anything to do with it, and wished to keep this unknown, what better way than to adopt an uncharacteristic style? Thus, it is not impossible, though admittedly far fetched, that Hobbes mischievously penned this letter himself. Was Hobbes above such a prank? Very likely. We would assume that Hobbes was insufficiently imprudent to risk the repercussions of such guile. If detected, the dishonour of such deceitfulness would be enormous. Furthermore, the possible cost would be much greater than any possible profit – say, the humour of an inside joke. However attractive the theory of Hobbes’s direct involvement in an unauthorised publication may be, there is not enough material for us to consider it better than a ‘conspiracy theory’. We cannot assume that whenever something of Hobbes was published, he had something to do with it. In the seventeenth century unauthorised publication was far from rare. With the copying and circulation of books in manuscript form, this was a predictable occurrence. Such unauthorised publishing happened to Hobbes as well as to many other authors. Unauthorised publication of sections of the *Elements of Law* and of a translation of *De Cive* took place in England while Hobbes was in France.[^79] And later his *Behemoth* was apparently published without his consent. All things considered, we can accept that Hobbes was probably just as surprised (but not annoyed) as Bramhall to discover that his paper had been published by a certain ‘W. B.’ Nevertheless, since Hobbes was not always perfectly honest or precise in recollection, I do not think it is unwise to leave open the possibility that Hobbes participated in the publication of his ‘Treatise’ more than he ever acknowledged. Should we not at least suppose that he didn’t lift a finger to prevent the second edition of *Of Liberty and Necessity*? If he really did permit the publication of his paper, there would be some irony to observe. For he was the one who had been most concerned about keeping their debate private:
 
 [^77]: *Questions*, *EW*, v, 25.
+
 [^78]: ‘Not uncharacteristic’ in light of the inaccuracies and gaps to be found in his various autobiographies; for a description of the latter, see Robertson, *Hobbes*, 2, n.1.
+
 [^79]: Of course, one could wonder whether these, too, were not so unauthorised as has always been assumed.
 
 *[p. 195]* ^pg215
@@ -218,7 +283,9 @@ I must confess, if we consider the greatest part of mankind, not as they should 
 In 1655, Bramhall seems to have been living just as nomadically as he had been in earlier years of exile.[^82] In the mid-1650s, the ultimate objective of the royalist exiles was to destroy Cromwell’s Protectorate. Bramhall might have considered Hobbes one of the regime’s defenders. In any case, he understood that Hobbes’s political teachings, whether read in *De Cive* or *Leviathan*, justified submission to Cromwell’s government. Bramhall may also have been considering the problem of Hobbes’s broader influence, beyond England. The philosopher’s principles might still be adopted by a king who might one day be restored. A serious concern of Bramhall and the other émigré anglicans (lay and clerical) was to prevent any policy that would sever the Stuart cause from the form of Christianity and church government that had been established before the rebellions and wars. For the exiled bishop of Derry, Hobbes represented one formidable threat to the preservation of a union of Charles II and Laudian (Bramhallian) anglicanism. Hobbes’s philosophy and theology undermined the credibility of that anglicanism, and
 
 [^80]: ‘Treatise’, *EW*, iv, 256–7.
+
 [^81]: That *OLN* was popular I extrapolate from a point made by Mark Goldie, who claims that Hobbes’s next contribution to the debate, *Questions concerning Liberty, Necessity and Chance* (1656), may have been more widely read than Hobbes’s major works (e.g., *Lev*.). ‘The Reception of Hobbes’ in *Cambridge History of Political Thought, 1450–1700*, ed. J. H. Burns, with the assistance of Mark Goldie (Cambridge: Cambridge University Press, 1991), 607.
+
 [^82]: From *CCSP*, iii, 22, we know he was at Flushing in March 1655. He had been attending Charles’s court at Aachen in September of the preceding year. Letter of Intelligence, Aachen, 22 September 1654, *Thurloe State Papers*, ii, 601.
 
 *[p. 196]* ^pg216
@@ -228,8 +295,11 @@ called into question the authority of its bishops. As we will see in the next ch
 Whether or not we have sufficient reason to suppose that Hobbes had been complicit in the publication of his ‘Treatise’ in 1654, Bramhall seems to have suspected it. When the bishop first heard that Hobbes’s private paper had been published it was natural for him to assume that Hobbes had played some part in the production. Bramhall did, however, allow for the possibility of an unauthorised publication.[^85] But he still portrayed himself indignant at the breach of their privacy pact, and professed himself quite annoyed that Hobbes’s paper was unaccompanied by his rejoinder. He must have immediately resolved to set the record straight, for shortly afterwards he had published in London both the papers he composed in 1645–6, the ‘Discourse’ and the ‘Vindication’ (the answer to Hobbes’s ‘Treatise’). Thus, in 1655 appeared Bramhall’s *A Defence of True Liberty from Antecedent and Extrinsical Necessity*.[^86] Under this title Bramhall printed the dedicatory epistle of the ‘Vindication’ that he had addressed to Newcastle. In this letter he
 
 [^83]: For Bramhall’s own description of the hardships of exile, written in 1653–4, see *Just Vindication*, *BW*, i, 276–7.
+
 [^84]: For a concise description of the plight of the anglican clergy in exile at this time, see Bosher, *Restoration Settlement*, 52; for one nearly contemporary representation of the difficulties of the anglican clergy in England, worry about the interruption of the apostolic succession and measures taken to prevent it, see Peter Barwick, *The Life of Dr John Barwick, Dean of St Paul’s*, trans. Hilkiah Bedford, ed. G. F. Barwick (London: E. E. Robinson and Co., 1903), 105–10. I say ‘nearly contemporary’ because Peter Barwick began writing the biography of his brother in about 1671.
+
 [^85]: ‘*if* the edition were with his own consent’: Preface, *Defence*, *BW*, iv, 19; emphasis added.
+
 [^86]: The full title is *A Defence of True Liberty from Antecedent and Extrinsecal Necessity; being An Answer to a late book of Mr Thomas Hobbes of Malmesbury, entitled A Treatise of Liberty and Necessity*. I quote from Haddan’s edition in *BW*, iv, 3–196. Assuming that the copy of the *Defence* now in the Lincoln Cathedral Library was Michael Honywood’s, dean of Lincoln after the Restoration, Honywood probably received his copy, inscribed ‘ex dono authoris’, while in Utrecht in 1655. The corrections in this copy appear to be Bramhall’s own.
 
 *[p. 197]* ^pg217
@@ -239,10 +309,15 @@ had identified himself with the cause of ‘God and man, religion and policy, Ch
 paragraph of Bramhall’s ‘Letter to the Christian Reader’ is of particular interest. Now that Hobbes’s ‘Treatise’ had been published, the public knew that the bishop had written a critique of *De Cive*. For in that letter addressed to Newcastle, Hobbes had referred to the objections that Bramhall had submitted in or shortly before the summer of 1645. So in the last paragraph of the prefatory letter of the *Defence*, Bramhall clarifies that ‘ten years since’ he had given Hobbes sixty strictures, half of them political, half of them theological.[^92] But, Bramhall points out, Hobbes has not answered them. Now, however, Bramhall would not care to receive any answer concerning *De Cive*, for since he wrote his critique of that book something much more perverse has reared its head, *Leviathan*: ‘Monstrum horrendum, informe,
 
 [^87]: *Defence*, *BW*, iv, 19–21.
+
 [^88]: *Defence*, *BW*, iv, 19.
+
 [^89]: *Defence*, *BW*, iv, 19. Bramhall’s mention of 1652 suggests that Bramhall had only got his hands on the first edition of *OLN*, for the second edition, it will be recalled, bore the date 1646.
+
 [^90]: The ruler Dionysius of Sicily was a seventeenth-century byword for tyrant, as Hitler or Stalin is now a byword for dictator.
+
 [^91]: *Defence*, *BW*, iv, 19–20.
+
 [^92]: *Defence*, *BW*, iv, 20.
 
 *[p. 198]* ^pg218
@@ -252,8 +327,11 @@ ingens, cui lumen ademptum.’ This menacing ‘monstrous bulk, deformed, depriv
 As we have noted, Bramhall stated that the contents of the *Defence* were ‘all that passed between us upon this subject, without any addition, or the least variation from the original’.[^96] What follow Bramhall’s prefatory letter are not only his two papers (the ‘Discourse’ and ‘Vindication’) but also Hobbes’s ‘Treatise’ – which had come between. Bramhall cut and pasted the three texts and distributed them in thirty-eight different sections. The first twenty-four contain passages from Bramhall’s ‘Discourse’, Hobbes’s ‘Treatise’ and Bramhall’s ‘Vindication’ (so that the reader could read point, counterpoint, counter-counterpoint); the final fourteen sections contain passages from only the last two (so that the reader could read
 
 [^93]: *Defence*, *BW*, iv, 20. The quotation is Virgil’s description of the Cyclops in *Aeneid*, iii.658, and I have given the translation of Dryden. At Sidney Sussex Bramhall probably filled a commonplace book with such quotations. See William Costello, *The Scholastic Curriculum in Early Seventeenth-Century Cambridge* (Cambridge: Harvard University Press, 1958), 32, for these student books. All of Bramhall’s writings are intercalated with Latin tags.
+
 [^94]: *Defence*, *BW*, iv, 20–1. The identity of these authors I have not been able to determine. It is unlikely that ‘one of our own Church’ refers to William Lucy, whose *Examinations,* *Censures and Confutations of Divers Errours in the Two First Chapters of Mr Hobbes His Leviathan* was to appear in 1656 (under the pseudonym William Pike), for some remarks in the epistle to the reader suggest Bramhall had no knowledge of Lucy’s intentions or toil. See chapter 8, n . Only slightly more likely is that the phrase refers to George Lawson, because 20. the latter’s *An Examination of the Political Part of Mr Hobbes his ‘Leviathan’* did not appear until 1657. It is possible that Bramhall was referring to Seth Ward, whose *In Thomae Hobbii Philosophiam Exercitatio Epistolica* appeared in 1656 or, less likely, Thomas Pierce, because the latter’s *The Self-Avenger Exemplified* did not appear until 1658. See Samuel I. Mintz, *The Hunting of Leviathan: Seventeenth-Century Reactions to the Materialism and Moral Philosophy of Thomas Hobbes* (Cambridge: Cambridge University Press, 1962), 157, for these and other candidates.
+
 [^95]: *Defence*, *BW*, iv, 21.
+
 [^96]: *Defence*, *BW*, iv, 19.
 
 *[p. 199]* ^pg219
@@ -263,7 +341,9 @@ point-counterpoint). In chapter 4 we reviewed all these writings; the point to s
 In the *Questions* itself, Hobbes offered a lengthy description of his motivation for replying to Bramhall. Near the conclusion he wrote that: A little before the last parliament of the late king, when every man spake freely against the then present government, I thought it worth my study to consider the grounds and consequences of such behaviour, and whether it were conformable or contrary to reason and to the Word of God. And after some time I did put in order and publish my thoughts thereof, first in Latin, and then again the same in English; where I endeavoured to prove both by reason and Scripture, that they who have once submitted themselves to any sovereign governor, either by express acknowledgement of his power, or by receiving protection from his laws, are obliged to be true and faithful to him, and to acknowledge no other supreme power but him in any matter or question whatsoever, either civil or ecclesiastical. In which books of mine, I pursued my subject without taking notice of any particular man that held any opinion contrary
 
 [^97]: All the correspondence from 1655 indicates that he was in London. Furthermore, in November Evelyn reported his visiting Hobbes there. *Diary and Correspondence*, iii, 163.
+
 [^98]: ‘Treatise’, *EW*, iv, 256–7.
+
 [^99]: Philip Tanny’s letter to Hobbes of 13–14/23–4 May 1656 suggests that *Questions* was published before that date. *Corr*., i, 276.
 
 *[p. 200]* ^pg220
@@ -271,6 +351,7 @@ In the *Questions* itself, Hobbes offered a lengthy description of his motivatio
 to that which I then wrote; only in general maintained that the office of the clergy, in respect of the supreme civil power, was not magisterial, but ministerial; and that their teaching of the people was founded upon no other authority than that of the civil sovereign; and all this without any word tending to the disgrace either of episcopacy or of presbytery. Nevertheless I find since, that divers of them, whereof the Bishop of Derry is one, have taken offence especially at two things; one, that I make the supremacy in matters of religion to reside in the civil sovereign; the other, that being no clergyman, I deliver doctrines, and ground them upon words of the Scripture, which doctrines they, being by profession divines, have never taught. And in this their displeasure, divers of them in their books and sermons, without answering any of my arguments, have not only exclaimed against my doctrine, but reviled me, and endeavoured to make me hateful for those things, for which (if they knew their own and the public good) they ought to have given me thanks. . . . I have been publicly injured by many of whom I took no notice, supposing that that humour would spend itself; but seeing it last, and grow higher in this writing \[the *Defence*\] I now answer, I thought it necessary at last to make of some of them, and first of this Bishop, an example.[^100] In other words, Bramhall and other clergymen have resented and attacked him because he has denied them authority *jure divino*, arguing, instead, that they possess no authority save what is conferred upon them by the civil sovereign. One can only wonder how Hobbes could have thought that this would not be taken as ‘disgrace of episcopacy’ when so many anglicans held that bishops possessed some authority as successors of the apostles, and not simply as appointees of the civil sovereign. This passage from the *Questions* also shows clearly Hobbes’s awareness of the objection that he himself, as a mere private subject, had usurped authority to pronounce upon religious questions. Hobbes’s defence here seems to be that he has grounded all his pronouncements upon Scripture, so that his authority is not his own but that of the Word of God. But in other writings Hobbes himself had recognised what a specious justification this was: any man could claim such scriptural warrant, no matter how bizarre or heretical the doctrine. A commonwealth would be reduced to chaos and violence unless all subjects conformed to the interpretation made or licensed by the civil sovereign and his or its ministers. As early as the *Elements of Law* Hobbes had emphasised that Scripture had to be interpreted, and that one could not avoid falling into one of the theological camps: ‘Nor can a man be said to submit himself to Holy Scripture, that doth not submit himself to some or other for the interpretation thereof; or why should there be any church governmentt at all instituted, if the Scripture itself could do the office of a judge in controversies of faith?’[^101] To what interpretation was Hobbes submitting himself? Seemingly, the Hobbesian – or calvinist; certainly not the arminian.
 
 [^100]: *Questions*, *EW*, v, 453–5.
+
 [^101]: *Elements of Law*, xxv.13, ed. Gaskin, 153–4.
 
 *[p. 201]* ^pg221
@@ -280,8 +361,11 @@ In the next section, ‘The Fountains of Argument in this Question’, Hobbes de
 Hobbes does feel obliged to acquit himself of the charge of complicity in the publication of the ‘Treatise’. Reviewing Bramhall’s letter to the Christian Reader of *Defence*, Hobbes comments:
 
 [^102]: *Questions*, *EW*, v, 6.
+
 [^103]: *Questions*, *EW*, v, 17.
+
 [^104]: *Questions*, *EW*, v, 19–20.
+
 [^105]: E.g., ‘confused and empty words’, ‘*Tohu* and *Bohu*’, ‘mere confusion and emptiness’, ‘nothing but Tohu and Bohu’. *Questions*, *EW*, v, 35, 63, 77, 301.
 
 *[p. 202]* ^pg222
@@ -293,7 +377,9 @@ I said nothing, but that I would have my Lord of Newcastle to communicate it onl
 The tone of the *Questions* proves significantly more acrimonious than that of the ‘Treatise’ (published as *Of Liberty and Necessity*). Whereas in the latter Hobbes had written somewhat sarcastically at a few points, in the *Questions* he scoffs openly throughout. In concluding his comments on Bramhall’s dedication to Newcastle, he speaks of the bishop’s concluding
 
 [^106]: I.e., the passages in which Hobbes pleads for privacy of debate: see discussion of ‘Treatise’ in chapter 4. Thus, Bramhall was slightly exaggerating when he said that the *Defence* contained only what had passed between him and Hobbes previously.
+
 [^107]: *Questions*, *EW*, v, 25–6.
+
 [^108]: *Questions*, *EW*, v, 434.
 
 *[p. 203]* ^pg223
@@ -303,9 +389,13 @@ line as ‘a buffoonly abusing of the name of God to calumny’.[^109] Hobbes th
 A wooden top that is lashed by the boys, and runs about sometimes to one wall, sometimes to another, sometimes spinning, sometimes hitting men on the shins, if it were sensible of its own motion, would think it proceeded from its own will, unless it felt what lashed it. And is a man any wiser, when he runs to one place for a benefice, to another for a bargain, and troubles the world with writing errors and requiring answers, because he thinks he doth it without other cause than his own will, and seeth not what are the lashings that cause his will?[^112] The description of a man running around for benefices and bargains fits Bramhall’s clerical career rather well. According to Hobbes, all the revenue ventures, episcopal administration and professional obligations, such as preaching, have diverted Bramhall so much as to render him unqualified to treat the difficult philosophical and scientific questions that their debate has raised.[^113] Bramhall ‘hath been obliged most of his time to preach unto the people, and to that end to read those authors that can best furnish him with what he has to say, and to study for the rhetoric of his expressions, and of
 
 [^109]: *Questions*, *EW*, v, 27.
+
 [^110]: *Questions*, *EW*, v, 34.
+
 [^111]: *Questions*, *EW*, v, 3.
+
 [^112]: *Questions*, *EW*, v, 55.
+
 [^113]: But for all his disdain for Bramhall the episcopal businessman, Hobbes was not unfamiliar with or inept at such tasks: with the second earl of Devonshire he had participated in managing the affairs of the Virginia Company – as well as having served as a secretary to the Cavendishes for many years of his employment. For the Devonshires he worked out an accounting system for handling their finances. See Noel Malcolm, ‘Hobbes, Sandys, and the Virginia Company’, *HJ* 24, 2 (1981): 297–321. I am not aware that any Hobbes biographer has suggested the possibility that the philosopher’s interest in mathematics grew out of such mundane bookkeeping activities.
 
 *[p. 204]* ^pg224
@@ -315,9 +405,13 @@ the spare time (which to a good pastor is very little) hath spent no little part
 scholasticism – old crotchets, long exposed as useless for solving the important questions of natural philosophy, or advancing the new experimental and mathematical sciences informed by mechanico-materialist metaphysics. Even so, in the *Questions*, Hobbes went to the trouble of providing a pointby-point refutation. There are replies, entitled ‘Animadversions’, to each of the thirty-eight sections of Bramhall’s *Defence*. Inevitably there is, like the *Defence*, much repetition; much of the *Questions* sees Hobbes merely putting the same points, refuting the same points, in slightly different ways, with different illustrations and usually more petulantly and contemptuously. Well before completing answers to all the sections of *Defence*, Hobbes probably felt that there was little more he could do to expose the absurdity of the libertarian-arminian view of the bishop. Hobbes might have felt that he was not so much refuting Bramhall as all those old discredited authorities irrelevant to all moderns enlightened by such men as Copernicus, Bacon, Kepler, Gilbert, Galileo and Harvey.[^117] Indeed, at one point Hobbes observes that much of Bramhall’s writing has been merely plagiarism of the sixteenth-century scholastic Francisco Suarez: ‘whosoever chanceth to read Suarez’s *Opuscula*, where he writeth of free-will and of the concourse of God with man’s will, shall find the greatest part, if not all, that the Bishop hath urged in this question’.[^118] Lombard, Aquinas, Scotus, Suarez and Bellarmine are the ‘ignorant men’ who have provided Bramhall with the ‘rash precept’ he
 
 [^114]: *Questions*, *EW*, v, 63.
+
 [^115]: *Questions*, *EW*, v, 77.
+
 [^116]: *Questions*, *EW*, v, 92. For similar comments about Bramhall’s incompetence, see *ibid*., 51, 300, 372.
+
 [^117]: This point is developed further in the Conclusion.
+
 [^118]: *Questions*, *EW*, v, 37. Hobbes seems to have been referring to Suarez, *Varia Opuscula Theologica* (Lyon, 1599). For Suarez’s position, from which Bramhall’s does not differ in any substantial way, see Sleigh, Chappell and Della Rocca, ‘Determinism and Human Freedom’, 1199–2000. For a more recent exposition of Suarez’s teaching concerning free-will, see Thomas Pink, ‘Suarez, Hobbes and the Scholastic Tradition in Action Theory’ in *The Will and Human Action: From Antiquity to the Present Day*, eds. M. W. F. Stone and Thomas Pink (London: Routledge, 2004), 127–53. I thank Dr Pink for sending me a copy of this essay.
 
 *[p. 205]* ^pg225
@@ -325,8 +419,11 @@ scholasticism – old crotchets, long exposed as useless for solving the importa
 has been uncritically following.[^119] Hobbes’s charge of Suarez-borrowing by Bramhall may be considered doubly devastating. For some of the philosopher’s learned English (predominantly protestant) readers this remark would have had something of the force of ‘you quote the devil himself on this subject’. Suarez was a Jesuit, and a Spanish one at that. Furthermore, as Bramhall had drawn directly from Aquinas at many points in his argument about free-will in the ‘Defence’ and ‘Vindication’, the bishop would have disturbed many English readers aware of the fact that the Council of Trent had established Aquinas as the Roman catholic church’s philosophical and theological authority. The Jesuits embraced Aquinas as their guide and deployed him in polemic against protestants; as for Suarez, he wrote substantial and sympathetic commentary on some of Aquinas’s books.[^120] By observing Suarez to be a primary source of Bramhall’s thinking, Hobbes was also effectively associating the bishop with a well-known (and, thus, much detested) Jesuit champion of papal power. The Spaniard’s *Defensio Fidei Catholicae*, written against James I’s *Apology for the Oath of Allegiance*, had been published in 1613. As J. H. M. Salmon has noted: ‘Gallican and Anglican royalists saw his \[Suarez’s\] *Defensio* as a singularly aggressive example of papalist theory.’[^121] Certainly Bramhall would not have wished to be linked to a Spanish Jesuit who had justified papal deposition of secular rulers (and papal incitement of revolt within the realms of such rulers) and had described circumstances in which it was right for even a private individual to undertake the assassination of a king.[^122] Hobbes highlights the disreputable Suarez–Bramhall affinity, implying that the former is the latter’s instructor in politics, when
 
 [^119]: *Questions*, *EW*, v, 61. Hobbes always found it hard to contain his contempt for such authorities. In one outburst, in *Behemoth*, he was to remark that Lombard and Duns Scotus were ‘two of the most egregious blockheads in the world, so obscure and senseless are their writings. \[From these two\] the schoolmen . . . learnt the trick of . . . \[confounding\] true reason by verbal forks; I mean, distinctions that signify nothing, but serve only to astonish the multitude of ignorant men.’ *Behemoth*, 41. For a similar passage that includes a reference to Suarez, see *Behemoth*, 17–18. Hobbes’s affinity with Prynne once again reveals itself. In 1629, the latter had denounced the ‘poisonous works of Aquinas, Lombard, Scotus, Suarez, Bellarmine and such like Popish schoolmen . . . read by too many, whence they smell and stink of Popery’. *The Church of England’s Old Antithesis to the New Arminianism* (1629), as quoted in White, *Predestination, Policy and Polemic*, 2.
+
 [^120]: M. W. F. Stone, ‘Aristotelianism and Scholasticism in Early Modern Philosophy’ in *Companion to Early Modern Philosophy*, ed. Steven Nadler (Oxford: Blackwell, 2002), 16. Since Hobbes harped on Bramhall’s lack of originality, it is only fair to point out that the former’s originality has often been overestimated. That Hobbes was heavily indebted to one current of late scholasticism, the Ockhamist-voluntarist tradition, has been thoroughly demonstrated by Malcolm, ‘Hobbes and Voluntarist Theology’. More recently Jurgen Overhoff has offered a well-informed assessment of the originality of Hobbes’s determinism. *Hobbes’s Theory of the Will*, 232–3. The question of Hobbes’s indebtedness to Luther and Calvin will be treated in the Conclusion.
+
 [^121]: ‘Catholic Resistance Theory’, 240.
+
 [^122]: Salmon, ‘Catholic Resistance Theory’, 239–40.
 
 *[p. 206]* ^pg226
@@ -336,10 +433,15 @@ he asks: ‘Did he \[Bramhall\] ever read in Suarez of any tyrant that made a la
 Hobbes often recurs in the *Questions* to the proposition that Bramhall is either a dullard or a con-man: ‘If he has not been able to distinguish between these two questions, he has not done well to meddle with either: if he has understood them, to bring arguments to prove that a man is free to do if he will, is to deal uningenuously and fraudulently with his readers.’[^124] Thus, he does not insist that Bramhall is an ignoramus: he might only be an obscurantist, attempting to make ignorance appear profundity; concealing himself behind inscrutable terminology. Hobbes suggests this possibility in observing: ‘It is very possible I may have mistaken him; for neither he nor I understand him. If they be one, why did he without need bring in this strange word, “spontaneous”? Or rather, why did the School-men bring it in, if not merely to shift off the difficulty of maintaining their tenet of free-will?’[^125] In yet another passage, Hobbes implies that the bishop may be stupid or he might simply be deceitful: ‘here putting together two repugnant suppositions, either craftily or (be it spoken with all due respect) ignorantly, he would have men believe . . .’[^126] One may wonder how Hobbes – or anyone – can with ‘due respect’ accuse a man of acting ignorantly. The incivility of the *Questions* continues in Hobbes’s review of various phrases and sentences of Bramhall, which ‘are all nonsense, unworthy of a man, nay, and if a beast could speak, unworthy of a beast, and can befall no creature whose nature is not depraved by \[scholastic\] doctrine’.[^127] Hobbes complains that instead of simply admitting that he does not know, Bramhall introduces pseudo-explanatory, vacuous jargon: ‘I may tax therein the want of ingenuity in him that had rather say, that heavenly bodies do “work by an occult virtue”, than that they “work he knoweth not how”; which he would not confess, but endeavours to make “occult” be taken for a “cause”.’[^128] In the same
 
 [^123]: *Questions*, *EW*, v, 176. Whereas he never quotes from the notorious *Defensio Fidei* in any of his published writings, Bramhall does quote from Suarez’s *De Legibus* in *Just Vindication*, *BW*, i, 165.
+
 [^124]: *Questions*, *EW*, v, 5. Similarly: ‘The Bishop is either mistaken, or else he makes no scruple to say that which he knows to be false, when he thinks it will serve his turn.’ *Questions*, *EW*, v, 353. Later Hobbes complains that Bramhall is full of either ‘childish deceit or childish ignorance’. *Ibid.*, 423.
+
 [^125]: *Questions*, *EW*, v, 91.
+
 [^126]: *Questions*, *EW*, v, 101.
+
 [^127]: *Questions*, *EW*, v, 113.
+
 [^128]: *Questions*, *EW*, v, 113. As Stephen Menn has noted, in such lines Hobbes was echoing such anti-Aristotelian humanists as Gianfrancesco Pico della Mirandola (1469–1533), who complained that scholastics had contrived abstract nouns in lieu of real (or informative) causal explanation. ‘The Intellectual Setting’ in *Cambridge History of Seventeenth-Century Philosophy*, eds. Daniel Garber and Michael Ayers, 45–6. See also, Conclusion, 299, for discussion of the context of Hobbes’s anti-Aristotelian discourse.
 
 *[p. 207]* ^pg227
@@ -349,10 +451,15 @@ way, Hobbes complains that the bishop does nothing but employ the term free-will
 Hobbes also responds to Bramhall’s complaint that the renegade philosopher, or ‘third Cato’, would like to abolish all technical vocabulary. The scholastic terms he has rejected are only words devised ‘to blind the understanding’ and are useful for nothing more than ‘to seduce young students’. Hobbes’s advice to Bramhall is curt: ‘fling them away’.[^130] As for the metaphysician (implicitly Bramhall), Hobbes sneers: ‘I would have him quit both his terms and his profession, as being in truth (as Plutarch saith) not at all profitable to learning, but made only for an essay to the learner.’[^131] For his part, Hobbes complains that writings of the schoolmen ‘have troubled my head more than they should have done, if I had known that amongst so many senseless disputes, there had been so few lucid intervals’.[^132] But Hobbes thinks that Bramhall has not been so fortunate as to recognise the madness of the scholastics. With enormous condescension he remarks: ‘And if this be contrary to all the rules of right reason, that is to say, of logic, that he hath learned, I should advise him to read some other logic than he hath yet read, or consider better those he did read when he was a young man and could less understand them.’[^133] The bishop has written such ‘perfect nonsense’ as a man might deliberately write to arouse laughter: ‘And all that he hath elsewhere and here dilated upon it, is as perfect nonsense, as any man ever writ on purpose to make merry with.’[^134] Hobbes suggests that Bramhall is so intoxicated with scholastic Latin jargon that he has become a stranger to his own native tongue: ‘So that this objection of his proceedeth only from this, that he understandeth not sufficiently the English tongue. . . . An English reader, who hath not lost himself in School-divinity, will very easily conceive
 
 [^129]: See also Conclusion, 295, for analysis of Hobbes’s view of the absurdity of Bramhall’s libertarian position. For other passages in which Hobbes accuses Bramhall of subterfuge to cover his ignorance see *Questions*, *EW*, v, 313, 314; for another passage in which he proposes that Bramhall is either stupid or deceitful, see *ibid.*, 353.
+
 [^130]: *Questions*, *EW*, v, 267.
+
 [^131]: *Questions*, *EW*, v, 268. In *Anti-White* Hobbes had written disdainfully, ‘as though metaphysics . . . were nothing but a freedom to utter rash words about God’. *Anti-White*, xxviii.9 (1976), 347. In *Questions* Hobbes strikes the same note he had harped upon in *Anti-White*, and sounded in the postscript to the ‘Treatise’, that treating God in a ‘philosophical’ or ‘scientific’ way only produces nonsense or blasphemy: ‘By which we may see, what fine stuff it is that proceedeth from disputing of incomprehensibles.’ *Questions*, *EW*, v, 424.
+
 [^132]: *Questions*, *EW*, v, 342.
+
 [^133]: *Questions*, *EW*, v, 372.
+
 [^134]: *Questions*, *EW*, v, 343.
 
 *[p. 208]* ^pg228
@@ -362,12 +469,19 @@ what I have said.’[^135] Hobbes derides Bramhall for uncritically repeating ca
 To reiterate, Hobbes presents the reader with the choice of thinking Bramhall deeply deceived or cynically deceiving. Neither of these would be particularly appropriate traits in a Christian bishop, a pastor of pastors, a shepherd of many flocks. The overall effect of the *Questions* is thus not only to suggest Bramhall’s intellectual ineptitude but also to cast doubt upon his fitness to hold an office traditionally reserved for only the most holy of men. Is such a man worthy to exercise ‘spiritual’ or any other kind of authority? Hobbes accuses Bramhall of bad manners, lack of discretion and crudity: ‘And whereas he says, “consent takes away the rape”; it may perhaps be true, and I think it is; but here it not only inferreth nothing, but was also needless, and therefore in a public writing is an indecent instance, though sometimes not unnecessary in a spiritual court.’[^141] Hobbes observes another such instance: ‘It had been fitter for a man in whom is required gravity and sanctity more than ordinary, to have chosen some other kind of instance.’[^142]
 
 [^135]: *Questions*, *EW*, v, 352–3. For similar remarks see *Questions*, *EW*, v, 355, 370, 382.
+
 [^136]: *Questions*, *EW*, v, 359. For similarly cutting remarks on Bramhall’s thoughtlessness, see *ibid*., 377, 397, 399.
+
 [^137]: *Questions*, *EW*, v, 399.
+
 [^138]: *Questions*, *EW*, v, 400.
+
 [^139]: *Questions*, *EW*, v, 388.
+
 [^140]: ‘In these few lines he hath said the cause of the generation of a monster is sufficient to produce a monster, and that it is insufficient to produce a monster. How soon may a man forget his words, that doth not understand them. This term of *insufficient* cause, which also the School calls *deficient*, that they may rhyme to *efficient*, is not intelligible, but a word devised like *hocus-pocus*, to juggle a difficulty out of sight.’ *Questions*, *EW*, v, 383–4.
+
 [^141]: *Questions*, *EW*, v, 286.
+
 [^142]: *Questions*, *EW*, v, 362–3.
 
 *[p. 209]* ^pg229
@@ -377,11 +491,17 @@ Hobbes upbraids Bramhall for an unbishoply line of interrogation: ‘Subtle ques
 He further says that ‘just laws are the ordinances of right reason’; which is an error that hath cost many thousands of men their lives. Was there ever a King, that made a law which in right reason had been better unmade? And shall those laws therefore
 
 [^143]: *Questions*, *EW*, v, 405.
+
 [^144]: *Questions*, *EW*, v, 448.
+
 [^145]: Hobbes also takes the opportunity in his conclusion to associate Bramhall with the wicked deceivers of the ‘kingdom of darkness’, the Roman catholics whose distinctive tenets Hobbes had debunked so insultingly in the fourth book of *Lev*. Bramhall’s ‘elocution’ is ‘the same language with that of the kingdom of darkness’. *Questions*, *EW*, v, 448.
+
 [^146]: *Questions*, *EW*, v, 212.
+
 [^147]: *Questions*, *EW*, v, 175.
+
 [^148]: As expressed in the old Roman legal maxim: *volenti non injuria*.
+
 [^149]: *Questions*, *EW*, v, 178–9. Or as he formulates it several pages later: ‘all laws are just, as laws, and therefore not to be accused of injustice by those that owe subjection to them’.
 
 *[p. 210]* ^pg230
@@ -393,7 +513,9 @@ To disparage the bishop still further in the *Questions* Hobbes insinuates that 
 No further quotation of the *Questions* should be necessary to establish that throughout this book Hobbes addresses Bramhall with enormous disrespect. But was not Bramhall still ‘Johannes Derensis’, ‘John, the Right Reverend
 
 [^150]: *Questions*, *EW*, v, 176. Similarly, Hobbes points out that: ‘he who holds that laws can be unjust and tyrannical, will easily find pretence enough, under any government in the world, to deny obedience to the laws, unless they be such as he himself maketh, or adviseth to be made’. *Questions*, *EW*, v, 235. Hobbes later in the section explains what takes the place of Bramhall’s ‘right reason’: ‘because neither mine nor the Bishop’s reason is right reason fit to be a rule of our moral actions, we have therefore set up over ourselves a sovereign governor, and agreed that his laws shall be unto us, whatsoever they be, in the place of right reason, to dictate to us what is really good. In the same manner as men in playing turn up trump, and as in playing their game their morality consisteth in not renouncing, so in our civil conversation our morality is all contained in not disobeying of the laws.’ *Questions*, *EW*, v, 194.
+
 [^151]: For the possibility of Bramhall’s trimming in the late 1620s, see chapter 1.
+
 [^152]: *Questions*, *EW*, v, 1–2.
 
 *[p. 211]* ^pg231
@@ -403,7 +525,9 @@ Bishop of Derry’? In 1656 it is plain that Hobbes did not regard Bramhall as a
 In maintaining that episcopacy *jure divino* was not incompatible or subversive of the king’s sovereignty, Laudians like Bramhall insisted on the distinction between a right and an exercise of right. Bishops had a divine right as successors of the apostles but they could not exercise that right within any realm without the consent of the sovereign. Similarly, Bramhall had argued in the ‘Vindication’ that there was a distinction between a power to act in
 
 [^153]: *Questions*, *EW*, v, 63; emphasis added.
+
 [^154]: *Questions*, *EW*, v, 63; emphasis added.
+
 [^155]: *Marks of an Absurd Geometry*, *EW*, vii, 397.
 
 *[p. 212]* ^pg232
@@ -413,6 +537,7 @@ general and a power to act in particular – or the power to act and the exercis
 As if there were a power that were not the power to do some particular act; or a power to kill, and yet to kill nobody in particular. . . . This argument is much like that which used heretofore to be brought for the defence of the divine right of the bishops to the ordination of ministers. They derive not, say they, the right of ordination from the civil sovereign, but from Christ immediately. And yet they acknowledge that it is unlawful for them to ordain, if the civil power do forbid them. But how have they right to ordain, when they cannot do it lawfully? Their answer is, they have the right, though they may not exercise it; as if the right to ordain, and the right to exercise ordination, were not the same thing.[^156] No one, then, has a right if he does not have the right to *exercise* it: to say that one has a right but no right to *exercise* it is just a long-winded way of saying that one has no right at all. Hobbes would insist that if the sovereign had granted them a right to ordain, then they had a right to ordain. If the sovereign had not so granted, they had no such right. For without the ‘exercise’ from the king, the ‘right’ amounted to nothing. In rejecting the distinction between right and exercise of right, Hobbes was, like any fellow-traveller of Prynne, flatly rejecting Laud’s point urged at the end of the 1630s: ‘Our being bishops *jure divino*, by divine right, takes nothing from the king’s right or power over us. For though our office be from God and Christ immediately, yet we may not *exercise* that power, either of order or jurisdiction, but as God hath appointed us, that is, not in his Majesty’s or any Christian king’s kingdoms, but by and under the power of the king given us so to do.’[^157] Since Hobbes rejected this notion of a right distinct from the exercise of it within a particular commonwealth, the clear implication is that in 1656, at the writing of *Questions*, Bramhall had no right whatever. He was nothing more than a former bishop, a *former* ‘duly ordained ecclesiastic’. Perhaps, then, there was some sarcasm in Hobbes’s addressing him as *Bishop* Bramhall in print. Hobbes implies that Bramhall has no more power than he does to offer a solution to any theological conundrum: ‘He approveth my modesty in suspending my judgment concerning the manner of how the good angels do work, necessarily or freely, because I find it not set down in the articles of our faith, nor in the decrees of our Church. But he
 
 [^156]: *Questions*, *EW*, v, 142–3.
+
 [^157]: Emphasis added; for full quotation and discussion of this speech by Laud, see chapter 2, 56ff.
 
 *[p. 213]* ^pg233
@@ -426,7 +551,9 @@ And for the infallibility of the ecclesiastical doctors by me attributed to them
 I take, he says, too much upon me . . . This is it that he finds fault within me, when he says that I am a private man, that is to say, no prophet, that is to say, no bishop. By which it is manifest, that the Bishop subjecteth not his spirit but to the Convocation of bishops. I admit that every man ought to subject his spirit to the prophets. But a prophet is he that speaketh unto us from God; which I acknowledge none to do, but him that hath due authority so to do. And no man hath due authority so to do immediately, but he that hath the supreme authority of the commonwealth; nor mediately, but they that speak such things to the people, as he that hath the supreme authority alloweth of. And as it is true in this sense, that ‘the spirits of the prophets are subject to the prophets’; so it is also true that ‘we ought not to believe every spirit, but to try the spirits, whether they are of God; because many false prophets are gone out into the world’ ([[1 John 04#^4-1|I John 4.1]]). Therefore I that am a private man, may examine the prophets; which to do, I have no other means but to examine whether their doctrine be agreeable to the law; which theirs is not, who divide the commonwealth into two commonwealths, civil and ecclesiastical.[^160]
 
 [^158]: *Questions*, *EW*, v, 264. Thus, Hobbes considers himself just as qualified as Bramhall to determine the nature of devils as found in Scripture. He delivers a short lecture on the subject at *Questions*, *EW*, v, 210–11.
+
 [^159]: *Questions*, *EW*, v, 269. Notice that at the end of this passage Hobbes takes yet another opportunity to insinuate that Bramhall has been the typical clerical careerist whose chief preoccupation has been worldly preferment.
+
 [^160]: *Questions*, *EW*, v, 269–70.
 
 *[p. 214]* ^pg234
@@ -444,7 +571,9 @@ If it be lawful for Christians to institute amongst themselves a commonwealth an
 No; but, saith he, Christ is the Supreme Judge, and we are not to obey men rather than God. Is there any Christian man that does not acknowledge that we are to be judged by Christ, or that we ought not to obey him rather than any man that shall be his lieutenant upon earth? The question therefore is, not of who is to be obeyed, but of what be his commands.[^163] If the Scripture contain his commands, then may every Christian know by them what they are. And what has the Bishop to do with what God says to me when I read them, more than I have to do with what God says to him when he reads them, unless he have authority given him by him whom Christ hath constituted his lieutenant? This lieutenant upon earth, I say, is the supreme civil magistrate, to whom belongeth the care and charge of seeing that no doctrine may be taught the people, but such as may consist with the general peace of them all, and with the obedience that is due to the civil sovereign.[^164] Yet again Hobbes emphatically denies Bramhall any authority as, say, an apostolic successor whose intercession is necessary for salvation; Hobbes pushes his anti-sacerdotalism to extremity. The clause ‘unless he have authority given him by him whom Christ hath constituted his lieutenant’ presupposes that Bramhall has no such authority given to him. Notably, Hobbes neglects to name the ‘supreme civil magistrate’. Writing in 1656, in England, was it not, for Hobbes, Oliver Cromwell? Hobbes then explores the problems entailed by the alternative view, in which the bishops possess a divine authority not derived from the civil sovereign: ‘In whom would the Bishop have the authority reside of prohibiting seditious opinions, when they are taught (as they are often) in divinity books and from the pulpit? I could hardly guess, but that I remember that there have been books written
 
 [^162]: *Questions*, *EW*, v, 444; emphasis added.
+
 [^163]: To be fair to Hobbes let me clarify that he never once disputed obedience to the injunction ‘Obey God, not man’; what he did dispute was the validity of his contemporaries’ (especially the puritans’) frequent appeal to and application of it. This frequent appeal was regarded as appallingly wanton, so Hobbes pointedly asked how ‘godly’ men could be so confident that *they* were the ones who knew God’s will and were following it, against that ‘man’ opposed to God, namely a superior. As quoted above as well, he remarks in *Questions*: ‘All men . . . equally acknowledging, that the High and Omnipotent God is to be obeyed before the greatest emperors; every one may pretend the commandment of God to justify his disobedience. And if one man pretendeth that God commands one thing, and another man that he commands the contrary, what equity is there to allow the pretence of one more than of another?’ *EW*, v, 289–90.
+
 [^164]: *Questions*, *EW*, v, 444–5.
 
 *[p. 216]* ^pg236
@@ -456,8 +585,11 @@ The Bishop knows that the kings of England, since the time of Henry VIII, have b
 Hobbes does indicate an awareness of having spoken disrespectfully of Bramhall in the *Questions*. But he wishes the reader to believe that he has merely been provoked into incivility; that he is only paying Bramhall back in his own coin: ‘And though the Bishop’s modest entreaty had been no part of the cause of my yielding to it \[the request to reply to the “Discourse”\], yet certainly it would have been cause enough to some civil man, to have requited me with fairer language.’[^167] In his critical review of Bramhall’s dedicatory letter to Newcastle, Hobbes accuses the bishop of having written without civility. He says that in the *Defence* there is ‘abundance’ of ‘passionate’ and ‘uncivil’ words, including objections of ‘blasphemy or atheism’ against him.[^168] And as we have noted already, in criticising Bramhall’s epistle to the Christian reader, Hobbes complains of Bramhall’s editorial finesse in the *Defence*: ‘It is true that it was not my intention to publish any thing in this question. And the Bishop might have perceived, *by not leaving out those four passages*, that it was without my knowledge the book was printed: but it pleased him better to take this little advantage to accuse me of want of
 
 [^165]: *Questions*, *EW*, v, 445–6.
+
 [^166]: *Questions*, *EW*, v, 446–7.
+
 [^167]: *Questions*, *EW*, v, 36.
+
 [^168]: *Questions*, *EW*, v, 22.
 
 *[p. 217]* ^pg237
@@ -467,9 +599,13 @@ ingenuity.’[^169] In the conclusion he recognises the possibility that his rea
 Taking offence at me for blaming in part the discipline instituted heretofore, and regulated by the authority of the Pope, in the universities, \[Ward\] not only ranks me amongst those men that would have the revenue of the universities diminished, and says plainly I have no religion, but also thinks me so simple and ignorant of the world as to believe that our universities maintain Popery. And this is the author of the book called *Vindiciae Academiarum*. If either of the universities had thought itself injured, I believe it could have authorised or appointed some member of theirs, whereof there be many abler men than he, to have made their vindication. But this Vindex \[Ward\] (as little dogs to please their master use to bark, in token of their sedulity, indifferently at strangers, till they be rated off), unprovoked by me hath fallen upon me without bidding. I have been publicly injured by many of whom I took no notice, supposing that that humour would spend itself; but seeing it last, and grow higher in this writing I now answer, I thought it necessary at last to make of some of them, and first of this Bishop, an example.[^172] Hobbes now feels it necessary to bare his fangs. In 1655 John Wallis, a presbyterian minister and the Savilian professor of geometry at Oxford, had published *Elenchus Geometriae Hobbianae*, a refutation of the geometry in Hobbes’s *De Corpore*.[^173] In 1656, Hobbes added an appendix to the English translation of *De Corpore*, in which he attacked not only Wallis, but also Ward, Savilian professor of astronomy at Oxford. Ward was the one Hobbes had in mind when he referred in the *Questions* to the author of *Vindiciae*
 
 [^169]: *Questions*, *EW*, v, 25; emphasis added.
+
 [^170]: *Questions*, *EW*, v, 453.
+
 [^171]: *Questions*, *EW*, v, 454.
+
 [^172]: *Questions*, *EW*, v, 453–5.
+
 [^173]: Douglas Jesseph, *Squaring the Circle: The War between Hobbes and Wallis* (Chicago: University of Chicago Press, 1999), 10–11. Wallis was a prominent presbyterian who had served as secretary to the Westminster Assembly in the years 1643–9.
 
 *[p. 218]* ^pg238
@@ -479,9 +615,13 @@ Taking offence at me for blaming in part the discipline instituted heretofore, a
 Wallis promptly answered Hobbes with the derisive *Due Correction for Mr Hobbes; or School Discipline, for Not Saying his Lessons Right*.[^178] In 1657, Hobbes again attacked Wallis with *Marks of the Absurd Geometry,* *Rural Language, Scottish Church Politics, and Barbarisms of John Wallis,* *Professor of Geometry and Doctor of Divinity*. In the 1660s and 1670s Hobbes was to write yet more against Wallis. But as the modern authority
 
 [^174]: Ward published *Vindiciae Academiarum* anonymously, so in 1656 Hobbes could only suspect that ‘Vindex’ was Ward. Ward wrote *Vindiciae* primarily in answer to John Webster’s *Academiarum Examen*, a critique of the universities. It was in the appendix to *Vindiciae* that Ward wrote against Hobbes. See Jesseph, *Squaring the Circle*, 67, and for Ward’s dispute with Webster, see Allen Debus, *Science and Education in Seventeenth-Century England:* *The Webster–Ward Debate* (London: Macdonald; New York: American Elsevier, 1970).
+
 [^175]: *Six Lessons*, *EW*, vii, 205. ‘If you reject it’ refers to Euclid’s definition of figure, which allows no difference between definitive and circumscriptive, a distinction that ‘theologers’, including Bramhall, used to maintain that God is at the same time in no one place and somewhere.
+
 [^176]: *Six Lessons*, *EW*, vii, 297.
+
 [^177]: *Six Lessons*, *EW*, vii, 333.
+
 [^178]: Published in 1656; in the same year, Ward published another attack on Hobbes, *In Thomae Hobbii Philosophiam Exercitatio Epistolica*, which was more a refutation of Hobbes’s metaphysics than a critique of his mathematics. See Jesseph, *Squaring the Circle*, 11, 69.
 
 *[p. 219]* ^pg239
@@ -489,5 +629,7 @@ Wallis promptly answered Hobbes with the derisive *Due Correction for Mr Hobbes;
 on Hobbes’s controversy with Wallis has noted: ‘By the mid-1660s . . . Hobbes had lost essentially all credibility with the mathematical public and his works were largely disregarded.’[^179] From 1656 onwards, Hobbes was to be more concerned with his mathematics dispute with Wallis than his long-standing quarrel with Bramhall. In any case, *Questions* was the last writing against Bramhall that Hobbes published. Soon Hobbes was battling not only Wallis but the chemist Robert Boyle as well. Hobbes was to begin his criticism of Boyle in 1661 with *Dialogus Physicus*, followed by the *Problemata Physica* of 1662.[^180] But if Hobbes’s intellectual and polemical focus shifted away from Bramhall after 1656, the latter’s had been shifting towards Roman catholics. Thus, some symmetry can be observed in the controversial endeavours of Bramhall and Hobbes in the mid- and late 1650s. While Hobbes duelled both Bramhall and his mathematical and scientific adversaries, Bramhall duelled both Hobbes and his Romanist adversaries. One might suppose that Hobbes wished to end his dispute with Bramhall with *Questions*, but this appears unlikely in view of how provocatively Hobbes had written. Hurling taunts such as the following, the philosopher cannot have expected to induce silence in the bishop: ‘By this short passage . . . I have no reason to expect a very shrewd answer from him to my *Leviathan*.’[^181]
 
 [^179]: Jesseph, *Squaring the Circle*, 10. For Hobbes’s dispute with Wallis and Ward, see also Collins, *Allegiance of Hobbes*, 214–24.
+
 [^180]: See Steven Shapin and Simon Schaffer, *Leviathan and the Air-Pump: Hobbes, Boyle, and the Experimental Life* (Princeton: Princeton University Press, 1985).
+
 [^181]: *Questions*, *EW*, v, 188.

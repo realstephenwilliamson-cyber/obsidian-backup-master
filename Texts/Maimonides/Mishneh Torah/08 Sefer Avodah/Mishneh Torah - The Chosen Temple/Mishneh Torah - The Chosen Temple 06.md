@@ -144,32 +144,51 @@ Thus, as explained in *Hilchot Terumah*, it is necessary to keep the laws of the
 [^1]: This concept is explained in this and the following four halachot. Note the accompanying diagram.  
     There is a homiletic aspect to the placement of the Temple on the incline of a mountain. A Jew must realize that his advance in holy matters resembles the climbing of a mountain.  
     When ascending a mountain it is difficult to remain in one position. One must either climb further upward or descend. Similarly, a Jew must always strive to advance in his spiritual service. Otherwise, he is likely to fall to a lower level.
+
 [^2]: As explained in the commentary to Chapter 5, Halachah 6, a distance of approximately 213 cubits separated between the exterior wall surrounding the Temple Mount and the Eastern Wall of the Temple Courtyard. The Women's Courtyard was 135 cubits long. A thick wall surrounded it, leaving approximately 68 cubits between that wall and the exterior wall.  
     According to the Rambam's diagrams, see Chapter 5, Halachah 6, the ratio of space between the *chayl* and the exterior wall, and the space between the *chayl* and the Women's Courtyard, was approximately 3:1. Thus, the distance mentioned here was approximately 51 cubits.
+
 [^3]: Thus, he ascended six cubits when climbing these steps.  
     This was the size of all the steps in the Temple complex, except for the step dividing the Courtyard of the Israelites from the Priestly Courtyard.
+
 [^4]: 135 cubits.
+
 [^5]: The steps leading to the Temple Courtyard did not take up the entire width of the Courtyard, and the area on both sides was on the same level as the remainder of the Courtyard.
+
 [^6]: Seven and a half cubits.
+
 [^7]: *Middot* 2:5 relates that the steps were semicircular in shape. In the *Simchat Beit HaShoevah* celebrations, during the holiday of Sukkot, the Levites stood on these steps, sang, and played music.
+
 [^8]: A distance of eleven cubits.
+
 [^9]: This step departed from the standard height of half a cubit. It served as a clear line of demarcation between the two regions.
+
 [^10]: On which the Levites would stand and chant while sacrifices were being offered, as described in Halachah 6.
+
 [^11]: Thus, the height of the platform was 3 x 1/2, for a total height of one and a half cubits.
+
 [^12]: The Priestly Courtyard was eleven cubits long. However, one and a half cubits were taken up by the Levites' platform.
+
 [^13]: 32 cubits in length. See Chapter 5, Halachah 12.
+
 [^14]: 22 cubits in length,
+
 [^15]: See the commentary to Chapter 4, Halachah 9.
+
 [^16]: The *Kessef Mishneh* questions this statement. It appears to contradict two explicit statements of the Mishnah. *Middot* 2:3 states: "All the steps there [in the Temple complex] were half a cubit high and half a cubit wide, except for the steps of the Entrance Hall."  
     Similarly, *Middot* 2:6 states: "Twelve steps [led to the Entrance Hall]. They were half a cubit high and a cubit wide."  
     However, *Yoma* [[Yoma 16#16a|16a]] quotes the latter mishnah, using the same text as the Rambam uses in this halachah.
+
 [^17]: The commentaries explain that the differing heights of the various sections of the Temple Mount reflected their levels of holiness. Each level which was more sacred was actually physically higher than the preceding level. Since, as stated in the commentary to Chapter 1, Halachah 5, the Entrance Hall and the two inner chambers of the Sanctuary were considered one integral unit, there was no difference in altitude between them.
+
 [^18]: The 22 cubits can be broken down as follows:  
     The steps leading to the Woman's Courtyard, 6 cubits  
     The steps leading to the Temple Courtyard, 7.5 cubits  
     The steps leading to the Priestly Courtyard, 2.5 cubits  
     The steps leading to the Entrance Hall, 6 cubits
+
 [^19]: The standard height of the gates in the Temple complex.
+
 [^20]: Five gates were placed in a straight line:  
     the Eastern Gate,  
     the gate to the *chayl*,  
@@ -177,90 +196,152 @@ Thus, as explained in *Hilchot Terumah*, it is necessary to keep the laws of the
     the gate of Nicanor, and  
     the gate of the Entrance Hall.  
     Thus, had the Temple been built on flat ground, one would have been able to see through all the gates at once. However, because the person would be looking through the gates on an upward incline, he would only be able to see the steps leading to the Entrance Hall.
+
 [^21]: All the other walls to the Temple Mount were very high. However, the eastern wall was only six cubits higher than the gate (*Tifferet Yisrael*, *Middot* 2:4).
+
 [^22]: The *Parah Adumah* [Red Heifer] was necessary to purify those who had come in contact with a human corpse. Regarding its slaughter, [[Torah 39 - Chukat#^19-3|Numbers 19:3-4]] commands: "He shall take it outside the camp and ... take from the blood of the heifer and sprinkle it opposite the front of the Tent of Meeting." Similarly, in later generations, the *Parah Adumah* had to be sacrificed outside the Temple premises, but in view of the Sanctuary. Therefore, it was slaughtered on the Mount of Olives.
+
 [^23]: The Mount of Olives is situated directly behind the Temple Mount, with the Kidron Valley in between. The priest stood on the Mount of Olives looking toward the Temple.
+
 [^24]: As mentioned above, the mountain rose seven and a half cubits at this point. Thus, there was ample room to create storage chambers in the wall.
+
 [^25]: The Sages explain that a harp and a lyre were similar in appearance, but the lyre had more strings.
+
 [^26]: The Levites chanted Psalms while the daily communal sacrifices were offered and accompanied these songs with music. Also, on special occasions like the *Simchat Beit HaShoevah* celebrations, they played music for the people. See *Hilchot K'lei HaMikdash* 3:2.
+
 [^27]: The *Har HaMoriah* noted that in a number of places the Talmud states that this platform was used by the Levites in the manner described above (e.g., *Yoma* [[Yoma 20#20a|20a]] and 53a, *Arichin* 13b). Nevertheless, the platform was also used for other purposes. *Chagigah* [[Chagigah 16#16a|16a]] and *Rosh Hashanah* [[Rosh Hashanah 31#31b|31b]] relate that the priests stood on this platform when they blessed the people. Indeed, the Hebrew name for the platform, *Duchan*, has become synonymous with the priestly blessing. (It must be noted that in *Hilchot Nesiat Kapaim* 14:14, the Rambam writes that the priests would stand on the steps before the Entrance Hall when they blessed the people.)
+
 [^28]: In this and the following two Halachot, the Rambam defines which structures of the Temple Courtyard share the sanctity of the area. This determination is significant in regard to three matters:  
     a) Sacrifices of the highest holy order of sanctity must be eaten within the Temple Courtyard.  
     b) Sacrifices of lesser degree of sanctity must be slaughtered within the Temple Courtyard.  
     c) Entry to the Temple Courtyard is forbidden when ritually impure.  
     See the Rambam's Commentary to *Ma'aser Sheni* 3:8.
+
 [^29]: And does not share the sanctity of the Courtyard.
+
 [^30]: And shares that level of holiness.
+
 [^31]: *Pesachim* [[Pesachim 86#86a|86a]] explains that an exception to the latter principle was made regarding the upper storey of the Temple building itself.  
     [[I Chronicles 28#^28-11|I Chronicles 28:11]] states: "Then David gave Solomon his son the design of the Entrance Hall, its houses, its treasure stores, its upper storeys, its inner chambers, and the place for the ark," implying that the upper storey shared the same level of holiness as the remainder of the Temple building.
+
 [^32]: Sin offerings, guilt offerings, and communal peace offerings.
+
 [^33]: [[Torah 25 - Tzav#^6-6|Leviticus 6:6]] requires the guilt offering to be eaten "in a sacred place," i.e. within the Temple courtyard. The same ruling applies to the other sacrifices of similar status.
+
 [^34]: for example, individual peace offerings, thanksgiving offerings, or the Passover sacrifice.
+
 [^35]: [[Torah 24 - Vayikra#^3-8|Leviticus 3:8]] states that individual peace offerings must be slaughtered "before the tent of meeting." In the Temple, that phrase refers to the Temple Courtyard. The same ruling applies to other sacrifices of similar status (*Zevachim* [[Zevachim 55#55a|55a]]).
+
 [^36]: Among the chambers included in this category were those on the southern side of the Chamber of the Hearth. Though the latter was positioned outside the Temple Courtyard, these chambers were open to it. See Chapter 5, Halachah 10.
+
 [^37]: *Zevachim* [[Zevachim 56#56a|56a]] explains that these chambers are by nature unconsecrated. However, the Torah made an exception in regard to the consumption of these sacrifices.
+
 [^38]: Though there is no Scriptural prohibition against entering these chambers while ritually impure, the Sages forbade such an act.
+
 [^39]: There is not even a Rabbinic prohibition against one who is ritually impure ascending to them.
+
 [^40]: As mentioned above, many underground passageways were constructed on the Temple Mount.
+
 [^41]: And all the laws applying to the Courtyard apply to them.
+
 [^42]: Therefore, a ritually impure individual may enter them, as described in Chapter 5, Halachah 11.
+
 [^43]: I.e., the apertures in the wall.
+
 [^44]: I.e., the upper surface.
+
 [^45]: The Ra'avad and the *Kessef Mishneh* question these statements. *Pesachim* [[Pesachim 86#86a|86a]] states that the wall's upper surface is only considered an extension of the Courtyard when it is on the same level as the Courtyard (as the roofs of the chambers mentioned in Halachah 7.) If the wall is higher than the Courtyard, it is not considered consecrated.  
     The following explanation may be offered for the decision rendered by the Rambam: Rashi (*Pesachim, loc. cit.*) relates that the *chayl* was the major wall around the inner Temple complex and the wall of the Courtyard itself was not high. Since the Temple was built on an incline, it was possible that the latter wall would be on the same level as the floor of the Courtyard, even though the Courtyard wall was raised above the ground in front of it.  
     However, the Rambam himself definitely cannot accept such an interpretation. He already stated (Chapter 5, Halachah 3) that the *chayl* was only 10 cubits high. Therefore, it is highly unlikely that it would be the major wall surrounding the inner Temple complex. That likelihood is further reduced by the fact that the *chayl* was set off from the Temple Courtyard by a considerable distance, especially on the northern and southern sides. See also *Tosefot Yom Tov*, *Middot* 2:3.  
     The above three halachot also apply to the city of Jerusalem as a whole. As stated above, the sacrifices of the most holy order could only be eaten within the Temple Courtyard. Similarly, a limitation was placed on where the sacrifices of lesser sanctity could be eaten. One could only partake of those offerings within the confines of the city of Jerusalem, and the definition of the city's limits were therefore of consequence. The particular decisions regarding the Courtyard's chambers, underground passageways, and upper surfaces of the wall, refer to the counterparts of these structures at the city's outer wall.
+
 [^46]: This decision can only be made by the Supreme *Sanhedrin*, the court of 71 judges who were seated in the Chamber of Hewn Stone.
+
 [^47]: And thus, extend the area in which sacrifices of lesser sanctity may be eaten.
+
 [^48]: And thus, extend the area to which the three mitzvot mentioned in the notes to Halachah 7 apply.
+
 [^49]: *Tosafot* (*Zevachim* [[Zevachim 33#33a|33a]]) explains that since the design for the Temple was conveyed by *Ruach HaKodesh*, Divine inspiration, even the *Sanhedrin* could not add to the limits of the Courtyard unless they could find a verse in the *Tanach* to support their decision.  
     The passage cited in *Zevachim* and similarly, *Sukkot* 51b, reinforce the position of the *Tosafot*. However, the *Yeriot Shlomo* and other commentaries question whether the Rambam accepts that principle
+
 [^50]: The *Or Sameiach* cites allusions from the Tanach which appear to limit the size of the Courtyard to the Temple Mount. [[Isaiah 02#^2-3|Isaiah 2:3]], [[Zechariah 08#^8-3|Zechariah 8:3]], and other prophets frequently referred to "the mountain of God," implying that the Temple could only be situated on that peak.
+
 [^51]: Here, no restrictions are placed. Indeed, the *Midrash* relates that in the Messianic age, Jerusalem will encompass all of *Eretz Yisrael*, extending until Damascus.
+
 [^52]: As the Rambam explains, the construction of the Temple and the establishment of its limits must conform to the pattern followed in the construction of the *Shechinah's* first resting place, the Sanctuary in the desert. See *Sh'vuot* [[Shevuot 14#14a|14a]],b. Therefore, the expansion cannot take place unless the conditions mentioned by the Rambam are met.
+
 [^53]: Moses was the master of all prophets.
+
 [^54]: The stones of the breastplate of the High Priest. They served as oracles, and were consulted on all matters of national importance. See the commentary to Chapter 4, Halachah 1.  
     *Tosafot* (*Sh'vuot* [[Shevuot 15#15a|15a]]) questions the necessity for the *Urim V'Tumim* to be used in the establishment of the Courtyard's limits. Aharon, the High Priest, did not don the *Urim V'Tumim* until after the Sanctuary was constructed and its limits established. Since these requirements were set on the basis of the pattern followed when dedicating the Sanctuary, the *Urim V'Tumim* should not be required for dedicating future Sanctuaries.  
     Among the answers given to that question are that until Aharon's installation as High Priest, Moses served in that capacity and wore al the priestly garments (Ritbah).
+
 [^55]: Some authorities maintain that the *Sanhedrin* was established before the Sanctuary was built. Other opinions maintain that the *Sanhedrin* was only established later. Nevertheless, Moses' participation is considered equivalent to that of the *Sanhedrin*.
+
 [^56]: The commentaries explain that [[Torah 54 - V'Zot HaBerachah#^33-5|Deuteronomy 33:5]]: "And he was a king in Yeshurun," refers to Moses.
+
 [^57]: The entire procession described by the Rambam is described in detail in *Sh'vuot* [[Shevuot 15#15a|15a]]-16a.  
     The source for these practices is the description of the dedication of Jerusalem in Nechemiah 12:27-44. There, it is related that:  
     At the dedication of the wall of Jerusalem, they sought Levites...to bring them to Jerusalem to carry out the dedication with joy and thanksgiving, with songs, with cymbals, with harps, and with lyres....Then, I asked the princes of Judah to ascend the wall, and I brought up the greater portion of two thanksgiving offerings....They ascended to the wall by the stairs of the city of David....They offered great sacrifices that day, for God had made them rejoice with great joy....and the joy of Jerusalem was heard from far away.
+
 [^58]: A thanksgiving offering includes three elements: the leavened breads, an animal which is sacrificed and loaves of unleavened bread.  
     *Sh'vuot, loc. cit.*, explains that the leavened breads were chosen because Nechemiah's description of Jerusalem's dedication relates that he "brought up the greater portion of two thanksgiving offerings." That phrase alludes to the leavened breads of the thanksgiving offerings which rose, and thus, were more substantial than the unleavened breads.
+
 [^59]: The bracketed addition was made on the basis of Rashi's commentary, *Sh'vuot* [[Shevuot 16#16b|16b]].
+
 [^60]: *Sh'vuot, loc. cit.* relates that the leaders of the people, the *Sanhedrin*, followed the thanksgiving offerings when Ezra and Nechemiah dedicated the city of Jerusalem.  
     This halachah is taken from the Mishnah, *Sh'vuot* 2:2. Many versions of that mishnah, including the one quoted in the Talmud, add the phrase: "And all of Israel followed after them." However, the Rambam's version of the text omits that phrase. Hence, it is also not included in this halachah.
+
 [^61]: Similarly, in Nechemiah's narrative, the two offerings were separated.
+
 [^62]: Psalm 30 is called "the song of the dedication of the House." Hence, it is appropriate for this occasion.  
     *Sh'vuot, loc. cit.*, also relates that other Psalms, including 3, 91, and 100, were recited.
+
 [^63]: This procedure was carried out at Nechemiah's dedication of Jerusalem. The prophets Chaggai, Zechariah, and Malachi participated in that dedication, and advised Nechemiah of the procedure to follow.
+
 [^64]: There is no record of this practice ever being carried out. Rather, the Temple Courtyard remained the same size from the time it was dedicated by Ezra.
+
 [^65]: [[Torah 24 - Vayikra#^2-1|Leviticus 2:1-3]] states: "When a man offers a meal offering to the Lord, his offering shall be of fine flour....the priest shall burn the memorial part of it on the Altar....and the remnant of the meal offering shall be Aharon's and his sons. It is of the sacrifices of the highest order of holiness." Hence it must be eaten in the Temple Courtyard.
+
 [^66]: Ri Migash, the Rambam's teacher, commenting on *Sh'vuot, loc. cit.*, emphasizes that eating the offerings are not merely signs that the consecration of the city or the Courtyard had been carried out, but rather, the consecration becomes effective by eating of these offerings. The Rambam's statements here appear to be based on that principle.
+
 [^67]: The expression used "not thoroughly consecrated" is somewhat problematic. The Maharit explains that this expression can be understood within the context of the Mishnah's statements (*Sh'vuot, loc. cit.*): "[In regard to] any place [in the Temple Courtyard] which was not consecrated with all of these [i.e., a king, a prophet, etc.], one who enters [while ritually impure] is not liable [for a sin offering]."  
     Generally, throughout the Talmud, such an expression implies that though a sin offering is not required, the act is forbidden. Similarly, in this context, a consecration which lacks all the elements listed previously in the Mishnah is not totally effective. Therefore, entering the portion of the Courtyard consecrated in this manner does not obligate an impure individual to bring a sacrifice. Nevertheless, there is a Rabbinic prohibition against entering that area.
+
 [^68]: As described in the passage from Nechemiah quoted above
+
 [^69]: See Chapter 4, Halachah 1.
+
 [^70]: Although the dedication procedure carried out by Ezra and Nechemiah was merely a testimonial act, having no Halachic significance, we are forced to say that the testimonial was carried out in precise detail as if the city was actually being consecrated. Therefore, the description of their procedure can demonstrate the process necessary to actually dedicate the city.
+
 [^71]: Since all sacrifices were offered there, we must conclude that it was indeed consecrated.
+
 [^72]: This concept is the subject of a debate in the Talmud (*Sh'vuot* [[Shevuot 16#16a|16a]], *Makkot* [[Makkot 19#19a|19a]], *Megillah* [[Megillah 10#10a|10a]]) and is discussed by the Rambam in the following two halachot.
+
 [^73]: See the commentary to Chapter 2, Halachah 4 which explains that the exiles who returned from Babylon built an Altar before they completed the construction of the Second Temple. The prophets assured them that "all sacrifices could be offered on that Altar, even though the Temple itself was not [built] there [yet.]" The construction of the Temple took another twenty two years to complete.  
     Even in later generations, our spiritual leaders have desired to offer sacrifices on the Temple Mount. In the Middle Ages, the Sage, Rabbi Chayim (according to other sources, Rabbi Yechiel) of Paris made *Aliyah* and settled in Jerusalem. He was prepared to offer sacrifices on the Temple site and refrained from doing so only after his colleagues explained that sacrifices could not be offered because they were unaware of the proper location, size, and dimensions of the Altar.
+
 [^74]: Twenty two years passed between the time that the exiles return to Jerusalem and the completion of the Second Temple. During that time, all the sacrifices were offered and eaten even though the walls of the Temple and the Courtyard were not built.
+
 [^75]: The second tithe. After the first tithe was separated, a second tithe also had to be set aside. In four years out of the seven year agricultural cycle, *Ma'aser Sheni* was brought to Jerusalem and eaten there. See Deuteronomy*:22-26,* Hilchot Ma'aser Sheni.
+
 [^76]: This statement is extremely problematic. In *Hilchot Ma'aser Sheni* 2:1, the Rambam himself writes that "*Ma'aser Sheni* is only eaten in Jerusalem while the Temple is standing." Though some authorities have explained that the statement in *Hilchot Beit HaBechirah* refers to the time when the Altar is standing, there is no indication in the Rambam's words to that effect. Furthermore, there are other inconsistencies between the Rambam's statements here and in *Hilchot Ma'aser Sheni*.  
     Even according to the Rambam's statements here, we are now prohibited from eating *Ma'aser Sheni* in Jerusalem. We are all ritually impure, and *Ma'aser Sheni* must be eaten in a state of ritual purity.
+
 [^77]: **In the previous halachot, the Rambam stated that the sanctity of the Temple Mount and Jerusalem would remain for eternity, because of the initial consecration by David and Solomon. Thus, when Ezra rededicated Jerusalem, as described in the Book of Nechemiah, his act was merely testimonial in nature. There was no need to reconsecrate the Temple, because its original holiness had never been nullified.**  
     This seemingly contradicts the Rambam's statements in *Sefer Zeraim*, the portion of the *Mishneh Torah* which deals with the agricultural laws to be observed in *Eretz Yisrael*. There, the Rambam states that the original consecration of *Eretz Yisrael* was nullified after the Babylonian conquest. When Ezra returned from Babylon, he reconsecrated the Land, causing the various agricultural laws to be in effect again, though only *M'd'Rabbanen*, according to Rabbinic decree.  
     The portion he consecrated was considerably smaller than the original boundaries of *Eretz Yisrael*. Nevertheless, his consecration remained in effect even after the Gentiles' subsequent conquests. Indeed, on the basis of that consecration, these agricultural laws must be observed in *Eretz Yisrael* today.  
     To resolve that contradiction, the Rambam explains that the "consecration" of Jerusalem and of the Temple differs from the "consecration" of *Eretz Yisrael* as a whole. Jerusalem and the Temple were consecrated by the revelation of the *Shechinah* in the Temple. That Divine act can never be nullified by man's deeds. In contrast, the consecration of *Eretz Yisrael* as a whole was brought about by the Jewish people. It can thus be nullified by the Gentiles.
+
 [^78]: As stated above in Halachot 14 and 15.
+
 [^79]: In *Hilchot Terumah* (1:5), the Rambam states:  
     Every [place] which those ascending from Egypt took possession of was consecrated in the initial consecration. When [the Jewish people] were exiled, that sanctity was nullified. The first consecration... sanctified the land for that time, but not for eternity.
+
 [^80]: See the commentary to Chapter 4, Halachah 1.
+
 [^81]: *Megillah* [[Megillah 28#28a|28a]].
+
 [^82]: Support for this statement can be brought from God's response to King Solomon, [[II Chronicles 07#^7-15|II Chronicles 7:15]]: "For now, I have chosen and sanctified this house, that My Name be there for eternity, and My eyes and My heart will be there forever."  
     Similarly, *Sh'vuot* [[Shevuot 16#16b|16b]] states that the Temple was consecrated forever.  
     Nevertheless, that statement is not accepted by all Halachic authorities. Both Rashi and the *Tosafot* interpret the Talmud's statements in *Sh'vuot* in a manner which indicates that they do not accept its simple meaning.  
@@ -269,9 +350,13 @@ Thus, as explained in *Hilchot Terumah*, it is necessary to keep the laws of the
     Even R. Yossi who maintains that the second consecration consecrated the land for eternity made that statement only in regard to the remainder of *Eretz Yisrael* and not in regard to the Temple and Jerusalem.  
     Ezra knew that ultimately [the status] of the Temple and Jerusalem would ultimately change and that they would be eternally consecrated by God's glory [in the Messianic age]. Hence, he did not consecrate it when consecrating the remainder of *Eretz Yisrael*.  
     The above was revealed to me, [as it is said:] "The secrets of God [are conveyed] to those who fear Him."
+
 [^83]: In contrast, lands that were conquered by only a certain portion of the Jewish community, for example, Syria, were not bound by these laws.
+
 [^84]: After the Babylonians conquered *Eretz Yisrael* and exiled the people, the sanctity of the land was nullified. There was no obligation to keep any of the agricultural laws that apply in *Eretz Yisrael* during the seventy years of the Babylonian exile.
+
 [^85]: *Chazzakah* is a manifestation of ownership. It is accepted by Torah law as one of the certain formal acts of contract which acknowledge the transfer of property from one person to another.
+
 [^86]: The *Kessef Mishnah* finds these statements difficult to accept because of the following questions:  
     a) On what basis is *Chazzakah* considered a more effective means of acquisition than conquest?  
     b) After the initial conquest of *Eretz Yisrael*, the Jewish people manifested their ownership over it and thus, effected a *Chazzakah*. If so, why is Ezra's *Chazzakah*, which was not preceded by conquest, more effective than the *Chazzakah* which followed the original conquest? Why should the conquest detract from the consecration of the land?  

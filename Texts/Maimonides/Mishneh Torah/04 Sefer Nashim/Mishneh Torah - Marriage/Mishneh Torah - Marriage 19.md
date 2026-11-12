@@ -138,48 +138,85 @@ Similarly, I maintain that support for [a man's] daughter takes precedence over 
 **22.** When a man dies and leaves older daughters and younger daughters, without leaving a son, we do not say that the younger daughters should be granted their sustenance until they reach the age of *bagrut*, and then the entire estate should be divided equally. Instead, the entire estate should be divided equally [immediately]. ^19-22
 
 [^1]: This and the laws that follow are relevant only in situations where a man has children from two different wives and he did not divorce the wives before their death. When a man's wives die before he does, he inherits their *nedunyah* and is not required to pay them the money due them by virtue of their *ketubot*. Nevertheless, our Sages ordained that a woman's children should benefit from her investment in the household and the commitment made to her. Hence, before the father's estate is divided among all the heirs, the children of each of his wives are entitled to receive the monies mentioned above.
+
 [^2]: Note the statements of the Ramah (*Even HaEzer* 111:16), who states that this practice is not followed in the present age. The rationale is that the practice was instituted in the Talmudic era to encourage a father to give his daughter a generous *nedunyah*. (For because of this practice, he can be assured that the money he gives will remain within his family.) In the present age, however, this encouragement is not necessary, for it has become customary for parents to endow their daughters generously before marriage.
+
 [^3]: As the Rambam stated in Chapter 16, Halachah 7, the children's inheritance of the money due their mother by virtue of her *ketubah* applies only when there is enough landed property remaining in the estate to pay for both *ketubot*.  
     From the wording of the Rambam, it would, nevertheless, appear that it is sufficient that the additional *dinar* be movable property; it need not be landed property. This indeed is the ruling of the *Shulchan Aruch* (*Even HaEzer* 111:14). If this is the intent, it would reflect a change in the Rambam's decision from his ruling in his Commentary on the Mishnah (*Ketubot* 10:3).
+
 [^4]: I.e., once the woman took the oath required of her, the money due her by virtue of her *ketubah* is considered to be justly hers. Her children then inherit her property.
+
 [^5]: In this instance, they are entitled to inherit the money due their mother by virtue of her *ketubah* even if the estate is not large enough to allow for the division of the inheritance according to Scriptural law afterwards (*Ketubot* [[Ketubot 91#91a|91a]]; *Shulchan Aruch, Even HaEzer* 111:8).
+
 [^6]: Since the woman did not take the oath required of a widow, there is room to suspect that her husband already gave her the money due her by virtue of her *ketubah*, or that she took possession of it herself. Therefore, her sons are not entitled to collect her *ketubah*.
+
 [^7]: Nor are the sons entitled to inherit the money due their mothers by virtue of their *ketubot* based on the provision mentioned above, because this is applicable only when the woman dies in her husband's lifetime.
+
 [^8]: The sons of the widow who did not take the oath are not entitled to inherit the money due their mother by virtue of her *ketubah*.
+
 [^9]: See Chapter 21, Halachah 18, which states that the daughters are granted this right even when their father divorced their mother before his death, and they took up residence with their mother.
+
 [^10]: Once the daughter is consecrated by a husband, her support is no longer the responsibility of her father's estate. (See also Halachah 15.)
+
 [^11]: During a man's lifetime, he is required only to provide his daughters with their sustenance until the age of six (Chapter 12, Halachah 14). After his death, however, they are entitled to support until the age of twelve and a half.
+
 [^12]: From the Rambam's wording, it would appear that he maintains that a girl forfeits her right to support if she becomes consecrated while she is a minor. This ruling is not universally accepted by the *Rishonim*. The *Maggid Mishneh* quotes Rabbenu Chananel and the Rashba as saying that she does not forfeit this right in such an instance. The *Tur* (*Even HaEzer* 112) mentions a third view: that if she consecrates herself, she forfeits her support, but if her brothers are involved in her consecration, she is still entitled to support. The *Shulchan Aruch* (*Even HaEzer* 112:3) quotes the Rambam's view, while the Ramah mentions the other opinions.
+
 [^13]: Although during his lifetime, her father is entitled to her earnings and the objects she discovers, this right is not given to his sons. The rationale is that the father would prefer for his daughter to receive her own earnings than to have them given to his sons.
+
 [^14]: Although a widow is not required to take an oath when collecting her support, this is because she is required to take an oath when she collects the money due her by virtue of her *ketubah*. Therefore, one might think that a daughter would be required to take such an oath. Indeed, the *Beit Shmuel* 112:15, based on the statements of *Tosafot*, requires that such an oath be taken.
+
 [^15]: The Ra'avad and the *Maggid Mishneh* question the Rambam's ruling with regard to the support the man's daughters receive for their sustenance. They maintain that this support is not dependent on whether the mother receives the money due her by virtue of her *ketubah* (and therefore, the waiver of that payment has no effect). The Rambam's opinion appears to be based on his statements in Chapter 17, Halachah 19, in which he states that a woman who waives payment of her *ketubah* forgoes all the provisions of her *ketubah*. The *Shulchan Aruch* does not mention this issue, and the Ramah (*Even HaEzer* 112:1) cites the opinion of the Ra'avad.
+
 [^16]: The rationale is that the obligation took effect at the time of his marriage, and he is incapable of negating it at a later time.
+
 [^17]: An oral will refers to a person's disposition of his property verbally before his death. As explained in *Hilchot Zechiyah UMatanah*, Chapter 8, our Sages ordain that such a disposition of property is acceptable.
+
 [^18]: *Hilchot Zechiyah UMatanah* 8:8. (See also *Hilchot Nachalot* 8:9.)
+
 [^19]: The Ra'avad differs with the Rambam with regard to the rights of a person's sons and daughters. Nevertheless, the *Shulchan Aruch* (*Even HaEzer* 111:17) follows the Rambam's view.
+
 [^20]: This ruling has been contested by other authorities on several grounds. First, the Ra'avad challenges the Rambam, asking: how is it possible for a girl who nullifies her marriage through *mi'un* to have a child? By definition, *mi'un* is possible when a girl is a *k'tanah*, a minor (see Chapter 4, Halachah 7), and while she is a minor it is impossible for her to conceive a child. He explains that *Ketubot* [[Ketubot 53#53b|53b]] is speaking about a girl who leaves her husband through *mi'un* - she is entitled to return to her deceased father's home and receive support for her sustenance.  
     Second, the *Maggid Mishneh* accepts the fact that a girl can conceive a child while a minor, but asks: Since the mother nullifies the marriage through *mi'un*, it is as if her husband had never had any obligations to her at all. Her *ketubah* and all of its provisions are nullified entirely. Why then is his estate liable for the support of his daughter after his death? See the *Beit Shmuel* 112:11 for a possible explanation.
+
 [^21]: When a man dies childless, his brother (the *yavam*) inherits his entire estate, and that estate is responsible for the *ketubah* of the *yevamah* (the widow who is married by the *yavam*). If a *yevamah* bears a girl, the deceased brother's estate is not liable for the girl's support after her father's (the *yavam's*) death, for she is not the daughter of the deceased brother. Nor is the *yavam's* estate responsible for her support, for he never gave a *ketubah* to the *yevamah*.  
     Note, however, the *Shulchan Aruch* (*Even HaEzer* 112:5), which states that if the deceased brother did not leave an estate, the *yavam* must give the *yevamah* a *ketubah* from his own property. Hence, in this instance, his estate becomes liable for the support of his daughters.
+
 [^22]: Since the mother's marriage is forbidden, our Sages did not grant her a *ketubah*. *Ketubot* [[Ketubot 54#54a|54a]] questions whether they also did not grant her the rights stemming from the *ketubah's* provisions, including her daughter's right to support in this instance. Since the question is left unresolved, her daughter is not granted this privilege.
+
 [^23]: Who was born before the couple entered the phase of *nisu'in* (*Shulchan Aruch, loc. cit.*). Since the *ketubah* takes effect only after *nisu'in*, this daughter is not entitled to support.
+
 [^24]: The term *anusah* refers to a virgin who was raped. The rapist is required to marry her and is forbidden to divorce her ([[Torah 49 - Ki Teitzei#^22-28|Deuteronomy 22:28]] . Since he is forbidden to divorce her, she is not granted a *ketubah*. Our Sages (*ibid.*) question whether or not she was not granted the provisions of a *ketubah*. This question is also left unresolved, and her daughter is not granted the privilege of deriving her livelihood from her father's estate. Similarly, the daughter of a woman who was raped and never married by the rapist is not entitled to support from her father's estate.
+
 [^25]: The *Beit Shmuel* 112:6 interprets the Rambam's wording as implying that after the girl reaches the age of *bagrut*, she is required to support herself.  
     The *Beit Shmuel* also mentions that other *Rishonim* interpret *Ketubot* [[Ketubot 53#53b|53b]], the source for this halachah, differently. According to their interpretation, the husband is not liable for the girl's support. If the husband desires, continues the *Beit Shmuel*, he may rely on this opinion.
+
 [^26]: It is as if he had made a commitment to support her when he consecrated her.
+
 [^27]: The *Shulchan Aruch* (*Even HaEzer* 112:4) cites the Rambam's view. The Ramah differs, however, citing the opinion of Rabbenu Asher, who maintains that from the time a girl becomes consecrated after her father's death, and onward, she is not entitled to support from his estate.
+
 [^28]: The estate is given to them, and they may use it as they see fit. They are, however, forbidden to sell the property except in an extreme situation - e.g., to use the proceeds to redeem captives (Ramah, *Even HaEzer* 112:11). Moreover, if the court sees that the sons are spending lavishly and abusing the resources of the estate, they should set aside the daughters' portion.
+
 [^29]: They are entrusted to a guardian appointed by the court.
+
 [^30]: For it is more common for males to beg for alms than for females to do so (*Ketubot* [[Ketubot 67#67a|67a]]). This principle is also followed with regard to the distribution of charity. If there is a needy male and a needy female, and the communal fund cannot provide both of them with their needs, the female is given priority (*Hilchot Matnot Aniyim* 8:15).
+
 [^31]: The Ramah (*Even HaEzer* 112:12) states that according to the custom to include within the *ketubah* a clause stating that the obligations of the estate are binding on movable property as well, the estate is considered to be meager and the support for the daughters is set aside.
+
 [^32]: I.e., the property should remain in the possession of the sons, and they must continue to provide for their sisters' sustenance. It is not expropriated from the sons and given to a guardian.
+
 [^33]: The *Maggid Mishneh* mentions a difference of opinion with regard to the interpretation of the word "afterwards." Rashi (*Ketubot* [[Ketubot 91#91a|91a]]) maintains that this means "after the man's death, but before the matter is brought to the court and a guardian appointed." Others (Rabbenu Yitzchak Alfasi and the Rashba) maintain that even after a guardian is appointed, the property can be given to the heirs if its value increases.  
     The *Shulchan Aruch* (*Even HaEzer* 112:14) quotes the Rambam's wording without relating to this issue. The Ramah mentions the latter view.
+
 [^34]: The opinion of *Tosafot, et al.* is that even if the property has been entrusted to a guardian, if it is sold by the heirs the sale is binding. The Ramah (*loc. cit.*), however, appears to follow the view that the sale is binding only before the property has been entrusted to a guardian.  
     According to Rabbenu Asher, the daughters have no lien on the money received from the sale. Although Rav Hai Gaon differs, it appears that Rabbenu Asher's view is favored (*Chelkat Mechokek* 112:30).
+
 [^35]: See Chapter 23, Halachah 17.
+
 [^36]: The *Shulchan Aruch* (*Even HaEzer* 112:15) states that the payment of the money due the widow by virtue of her *ketubah* is, however, considered in determining whether the estate is ample or not.
+
 [^37]: This ruling entitles the sons to derive their sustenance from the estate together with the daughters until the funds are depleted.
+
 [^38]: According to the Rambam, the property set aside for the widow's support should be given to a third party, and he should follow the guidelines set in Chapter 18, Halachah 21 (*Maggid Mishneh*).  
     There are opinions that maintain that property is set aside for the widow's support only when there is a son and a daughter, and the estate is too meager to support both of them. In that instance, since property is being set aside for the daughters' support, and the widow takes precedence over the daughters, property is also set aside for her. When property is not required to be set aside for the daughters, it is not set aside for the widow's support either. Instead, she, the daughters and the sons, all derive their sustenance from the estate together.  
     The *Shulchan Aruch* (*Even HaEzer* 93:4) mentions both opinions, and the *Beit Shmuel* 93:9 states that the latter view is favored by most authorities. This difference of opinion also leads to another (*Shulchan Aruch*, *Even HaEzer* 112:15): Does the obligation to support the widow cause the estate to be considered meager or not? According to the Rambam it does, but according to the other authorities it does not.

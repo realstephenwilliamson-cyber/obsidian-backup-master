@@ -117,55 +117,105 @@ The same laws apply to a *zav*[^48] with regard to all these inspections if he f
 **23.** Whenever there is a doubt whether a woman is *niddah* or a *zavah*, she must count seven "spotless" days[^49] because of the doubt. She immerses herself on the night preceding the eighth day[^50] Afterwards, she is permitted to her husband. She must bring the sacrifice of a *zavah*, but it is not eaten as will be explained in the appropriate place.[^51] ^6-23
 
 [^1]: See Chapter 7, Halachah 1.
+
 [^2]: See Chapter 4, Halachah 2,5.
+
 [^3]: *Niddah* 96b states: "It [comes from] one source. [Here,] the Torah ruled it impure, and [here,] the Torah ruled it pure."
+
 [^4]: I.e., this is speaking about a woman who has a regular day of the month or interval at which she menstruates.
+
 [^5]: I.e., in addition to the impurity associated with *niddah*, ordinary menstrual bleeding, the Torah establishes a category of impurity when a woman suffers uterine bleeding at times other than the days she is a *niddah*. This category is referred to as *zivah.* A woman enters this category when she suffers uterine bleeding between the day following the seven days associated with her ordinary menstrual bleeding and the eighteenth day following those days. As will be explained in the commentary to the following halachot, there is a difference of opinion between the Rambam and the other *Rishonim* with regard to the definition of these seven days.
+
 [^6]: As will be explained, according to the Rambam, the definition of days as "the days of *niddah*" is not dependent on whether a woman actually menstruates or not, but on the day when, according to the schedule established previously, she could be expected to menstruate.
+
 [^7]: As occurs after birth, as stated in Chapter 7, Halachah 2.
+
 [^8]: The simple meaning of the Rambam's words is that the same 18 day pattern - 7 days *niddah*, 11 days *zivah* - continues throughout a woman's life whether or not she menstruates on those days or not. When she menstruates she must see whether she is in the midst of the days of *niddah* or the days *zivah* and follow the appropriate laws.  
     Rashi and Ramban offer a different interpretation. According to their view, the day's of *niddah* and *zivah* depend on a woman's circumstances each month. When she menstruates, she begins the days of *niddah*. If she continues bleeding beyond seven days or if she discovers uterine bleeding after these seven days (but within the next eleven days), she becomes a *zavah*. She remains in that category until seven "spotless" days pass. After those seven days, when she discovers uterine bleeding again, she becomes a *niddah*. Similarly, if she does not discover uterine bleeding within the eleven days, the next time she discovers uterine bleeding, she is considered as a *niddah*.  
     There are Talmudic passages which appear to support both positions. The position of Rashi and the Ramban appears to be closer to a woman's actual physical pattern and the commentaries question why the Rambam - a doctor - did not take note of this dimension. The *Tur* (*Yoreh De'ah* 183) follows the view shared by Rashi and the Ramban. In practice, however, this difference of opinion is not relevant at all, for as stated in Chapter 11, at present, Jewish women have accepted the stringency of counting seven "spotless" days whenever they discover even the slightest uterine bleeding. Hence, whatever their status actually is, they will certainly not transgress.
+
 [^9]: Chapter 7, Halachah 2.
+
 [^10]: The distinctions between a minor *zavah* and a major *zavah* are discussed in the following halachah.
+
 [^11]: As indicated in the following two halachot, the intent is that for the day(s) she is impure, she must observe one "spotless" day.
+
 [^12]: See *Hilchot Mechusrei Kapporah*, ch. 1, for a description of this sacrifice.
+
 [^13]: I.e., take note if there is any bleeding. It is sufficient to check and see on the following morning if there are any signs of bleeding.
+
 [^14]: She may not, however, touch any articles that are ritually pure or engage in relations with her husband until nightfall, as explained in Halachot 13 and 14.
+
 [^15]: If, however, there are signs of bleeding, her immersion is disqualified retroactively and it is as if she was impure for the entire day.
+
 [^16]: Lest she discover uterine bleeding and become impure retroactively.
+
 [^17]: The one day is sufficient. There is no need for two days, one for each of the impure days.
+
 [^18]: See Rabbi Akiva Eiger who questions whether the Rambam would accept the immersion of a woman who immerses herself between dawn (*alot hashachar*) and sunrise.
+
 [^19]: I.e., the immersion must be made after sunrise.
+
 [^20]: Even if she later discovers uterine bleeding and is therefore considered impure, they are not considered to have transgressed intentionally, because at the time, the woman was potentially in a state of ritual purity.
+
 [^21]: I.e., as stated in the following halachah, she can retroactively be considered impure.
+
 [^22]: For inadvertently violating the transgression against relations with a *zavah*.
+
 [^23]: If, however, the bleeding is not discovered until after nightfall, she is considered to have regained ritual purity and then become impure anew as a minor *zavah*.
+
 [^24]: I.e., it is not only that she loses the one day; all of the days that she had counted previously are also invalidated. The seven "spotless" days must be consecutive [*Shulchan Aruch* (*Yoreh De'ah* 196:10)].
+
 [^25]: I.e., she engaged in relations with a man and then discharged his semen from her vagina. This is speaking about a situation in which the couple engaged in relations when forbidden. Alternatively, she engaged in relations before becoming a *zavah* and discharged the semen after entering that state of impurity. For the semen to render her impure, it must be less than three full days old. See *Shulchan Aruch* (*Yoreh De'ah* 196:11).
+
 [^26]: See *Hilchot Mechusrei Kapparah* 3:2.
+
 [^27]: As stated in Halachot 5 and 6, there are only eleven days of *zivah*. Afterwards, the days of *niddah* begin again.
+
 [^28]: See Halachah 4 which states: "Any blood discovered during these days is considered as the blood of *niddah*." Thus she will have only discovered blood on two days of *zivah*. That is not sufficient to render her a major *zavah*.
+
 [^29]: I.e., we do not say that her menstrual bleeding is extended. Instead, this bleeding is considered as a new phase, governed by different laws.
+
 [^30]: For she is required to wait for one "spotless" day before engaging in relations (Ra'avad). The *Maggid Mishneh* explains that this is a Rabbinic requirement.
+
 [^31]: Needless to say, however, she is forbidden to engage in such relations.
+
 [^32]: By Rabbinic Law as stated in Halachah 14 and notes. She may, however, touch articles that are ritually pure, as stated in *Hilchot Mitamei Mishkav UMoshav* 5:8.
+
 [^33]: Since she immersed herself, her previous impurity departs and any new bleeding is not associated with the bleeding of *zivah* as the Rambam continues to explain.
+
 [^34]: The period between sunset and the appearance of three stars. There is an unresolved doubt among the Rabbis if this time is considered as the conclusion of the previous day, the beginning of the following day, or a separate time of its own. See *Hilchot Shabbat* 5:4.
+
 [^35]: I.e., she is certainly a minor *zavah*.
+
 [^36]: She must count seven "spotless" days before engaging in relations. Also, she brings a sacrifice, but it is not eaten, as explained in *Hilchot Mechusrei Kapparah* 1:6.
+
 [^37]: On the first day, however, such an inspection is of no consequence, for as the Rambam states at the conclusion of the halachah, on the first day, we assume that she will continue to bleed.
+
 [^38]: I.e., uterine bleeding.
+
 [^39]: I.e., we do not consider her to have bled for the entire time from the time she first inspected herself until the time that she discovered the bleeding.
+
 [^40]: I.e., we say that the uterine bleeding did not begin until it was discovered. This reflects a general principle: Once uterine bleeding is known to have stopped, we do not think that it has begun again until it is discovered. The *Maggid Mishneh* explains that this law applies whether the woman immersed herself or not.
+
 [^41]: For perhaps she had continued bleeding from the conclusion of her days of *niddah* until shortly before she made an inspection. We have no way of knowing either way and hence, give her the status of a *zavah* because of the doubt.
+
 [^42]: Although we do not have certain evidence that she continued to bleed for this entire time, we operate under that assumption for the reason the Rambam mentions.
+
 [^43]: From the statements of the *Shulchan Aruch* (*Yoreh De'ah* 196:2) and the notes of the *Dagul Mervavah*, it would appear that if the woman's flow stops in the late afternoon of the first day, it is considered to have ceased.
+
 [^44]: After making a *hefsek taharah*, an inspection that determines that the bleeding has ceased on the previous afternoon, before sunset.
+
 [^45]: Nevertheless, at the outset, a woman should inspect herself twice on each of these seven days [*Shulchan Aruch* (*Yoreh De'ah* 196:4)].
+
 [^46]: I.e., despite the fact that she waited an extra day and did not immerse herself as soon as she was allowed, she is still considered as pure.
+
 [^47]: See *Shulchan Aruch* (*Yoreh De'ah* 196:4) which mentions a difference of opinion on this matter, quoting also the opinion of *Sefer Mitzvot Gadol* who maintains that one must make an inspection on both the first and the seventh day.
+
 [^48]: Who must also inspect himself and count seven "spotless" days. See *Hilchot Mechusrei Kapparah*, ch. 3.
+
 [^49]: As is required of a *zavah*.
+
 [^50]: Like a *niddah* who may not immerse herself during the day.
+
 [^51]: *Hilchot Mechusrei Kapparah* 1:6.

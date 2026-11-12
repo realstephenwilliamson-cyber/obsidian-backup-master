@@ -36,7 +36,9 @@ More proximately to my concerns here, the theme of alterity has been central to 
 A Zoharic text, drawn from one of the two Palaces (“*Hekhalot*”) treatises in the Zoharic literature, provides a kind of anticipatory allegory for the stance of the modern academic study of kabbalah toward the demonic.[^25] These treatises portray a series of metaphysical palaces through which prayers pass on their way upwards through the divine realm, and through which the soul ascends after death.[^26] The palaces also form progressively ascending stages in the 
 
 [^24]: Aside from his well-known preoccupation with the “false messiah” Sabbatai Tsevi, Scholem’s “demonic” interests extended to tracking the detailed genealogy of demonic *personae*. See Scholem, *Shedim, Ruḥot u-Neshamot, passim*. On Wolfson, see, e.g., *Venturing Beyond: Law and Morality in Kabbalistic Mysticism, passim*. I note that, far beyond this one book, a large part of Wolfson’s vast and influential oeuvre is relevant here. The debt to which I, and most other contemporary scholars owe to his transformation of the field extends far beyond particular citations.
+
 [^25]: There are two *Hekhalot* sections, one printed in the pericope *Breishit*, the other in the pericope *Pekude*.
+
 [^26]: I note that, for the sake of convenience, I will use the term “the Zohar” as shorthand for the collection of texts in the standard printed editions of the “Sefer ha-Zohar,” taking the Margoliot edition as my basis, but excluding the *Ra’ya Mehemena* sections,. The *Hekhalot* sections are two related compositions printed in *Zohar Bereshit* I, 38a–48b, and *Pekude* II, 244b–268b. As will become evident in this Introduction, I am fully cognizant of the many critiques directed against the notion that the Zohar is a unitary book with a single author or even a unified group of authors. Some prominent examples of such critiques are Yehudah Liebes, ‘Ketsad Nitḥaber Sefer Ha-Zohar’, 1–87; Daniel Abrams, *Kabbalistic Manuscripts,* esp. 224–428. A more accurate, if somewhat cumbersome, label for the texts in the printed editions is “the Zoharic literature” or, more ponderously, “the texts written in the late 13th century that came to be collected and printed together in the 16th century and called the ‘Sefer Ha-Zohar.’ ” Nonetheless, for reasons that should become clear in this Introduction, I think there are good reasons for reading the texts of “the Zoharic literature” together, even while rejecting any *a priori* assumptions about common authorship.
 
 *[p. 18]* ^pg33
@@ -61,7 +63,9 @@ Like Hosea, modern kabbalah studies may be viewed as having been situated, from 
 A vantage point from something like the “first palace” – the point of contact between two opposed realms – also deeply informs one strand of the Scholem tradition’s most well-known characterizations of kabbalah’s place within Judaism. Scholem writes that the “original religious impulse in Judaism” was a “reaction to mythology,” an attempt to “open up a region … from which mythology would be excluded,” a “tendency to liquidate myth.”[^30] Kabbalah, with its elaborate mythology, thus represents the “vengeance of myth against 
 
 [^28]: Scholem used the notion of the “Gnostics of Castile” as a way of describing a group that includes Yitsḥak Ha-Kohen, Moshe of Burgos, and Todros Abulafia. See Gershom Scholem, *Kabbalah*, 55–56. Some scholars have criticized Scholem’s notion that 12th and 13th century kabbalah can be understood as a Gnostic incursion into Judaism. See, e.g., Idel, *Kabbalah: New Perspectives*, 30–33. Others have questioned the coherence and value of a general category of “Gnosticism” for describing a vast number of heterogeneous phenomena in late Antiquity. See, e.g., King*, What is Gnosticism?, passim; Williams, Rethinking* *‘Gnosticism’: An Argument for Dismantling a Dubious Category, passim*. I do not take a position on this debate among historians of late antiquity, but generally place “Gnosticism” within scare-quotes to indicate this controversy. I limit my use of Scholem’s “Castilian Gnostics” to providing a convenient label for the specific group of figures Scholem has in mind. I limit my use of the word “Gnosticism” to my discussions of the Scholem traditions’ grand historical narratives, which recent scholarship has compelled us to critically examine.
+
 [^29]: See, e.g., Scholem, *Shedim, Ruḥot u-Neshamot*, 9–102.
+
 [^30]: Scholem, *On the Kabbalah and its Symbolism*, 88.
 
 *[p. 20]* ^pg35
@@ -79,8 +83,11 @@ More recent scholars, notably Yehuda Liebes and Moshe Idel, have cast doubt on t
 Scholem’s narrative of conflict between two tendencies within Judaism, like that between Tishby’s two tendencies within kabbalah, replays, in a 
 
 [^31]: *Ibid*., 99.
+
 [^32]: Scholem, *Major Trends in Jewish Mysticism*, 35.
+
 [^33]: *Ibid*., 36. Tishby, *Torat Ha-Ra ve-ha-Kelipah be-Kabbalat Ha-Ari* 47: סלע המחלוקת בין הנטיה המיתית 34 והדרישה התיאולוגית.
+
 [^35]: See, e.g., Idel, Kabbalah: New Perspectives, 112–136; Liebes, ‘Ha-Mythos Ha-Kabbali be-fi Orfeus’; Liebes, ‘De Natura Dei – Al Ha-Mitos Ha-Yehudi ve-Gilgulo’.
 
 *[p. 21]* ^pg36
@@ -96,6 +103,7 @@ images and narratives,” on the one hand, “speculative-philosophical concepts
 The notion that a kabbalistic text is a terrain of struggle between “gnosis and Platonism” – either as a reflection of the conflict between these vast historical movements or of a split within an individual author’s subjectivity – shapes such analysts’ treatment of particular symbols and passages and their explanation of textual paradoxes and contradictions. At a methodological level, such an approach entails the construction of rival models of coherent concepts and/or images, followed by the interpretation of particular Zoharic passages as 
 
 [^36]: Scholem, *On the Kabbalah and its Symbolism*, 96. מיתיים - פנים של הגשמה בציורים ובעלילות חזותיים Tishby, *Netive Emunah u-Minut* , 23: 37 פילוסופיים. - ופנים של הפשטה במושגים ובהגיונות עיוניים
+
 [^39]: *Ibid*. 97. See also Scholem, *Kabbalah*, 45.
 
 *[p. 22]* ^pg37
@@ -111,7 +119,9 @@ The first of these texts is from the “Castilian Gnostic” Moshe of Burgos (ca
 In the matters of the secrets of the left emanation, which is the existence of an other, comprehensive world, separate in its own substance: … Few are those who know and understand the essence of the existence of \[this\] 
 
 [^40]: Liebes, *Ha-Mashiaḥ shel Ha-Zohar*, 35–38.
+
 [^41]: On the “circle of the Zohar” \[ ,\]חוג הזהר see generally, Liebes, ‘Ketsad Nitḥaber Sefer Ha-Zohar’.
+
 [^42]: Liebes, *Ha-Mashiaḥ*, 36–37.
 43\. Moshe of Burgos, ‘Sefer Amud Ha-Semali’, 208 & 210.
 
@@ -140,6 +150,7 @@ To be sure, one may be tempted to read this last line as merely suggestive, with
 With this paradoxical ontological and epistemological association between demonic depth and divine height, we come upon a remarkable affinity between the most esoteric dimensions of 13th century kabbalah and key features of the cultural matrix out of which Scholem – and thus modern kabbalah studies – emerged.[^46] At both the personal and intellectual levels, Scholem must be 
 
 [^45]: In addition to the *Seder Rabah di-Bereshit*, see also *Pirke Rabbi Eliezer*, 23a-b (ch. 8): “On the fifth day he caused the water to spawn Leviathan, the extending serpent, whose dwelling-place is the lower waters. And between his two fins, the central bar of the earth בחמישי השריץ מן המים לויתן נחש בריח מדורו במים התחתונים ובין שני סנפיריו stands” \[ הבריח התיכון של ארץ עומד .\]
+
 [^46]: I am using “cultural Modernism” here in a specific historical sense to refer to the wave of transformations of European high culture that swept across a wide range of domains approximately between the 1880s and the 1930s. The nature, extent, chronology, and geography of the transformations in each domain differed widely, a complexity I need not discuss here.
 
 *[p. 25]* ^pg40
@@ -149,8 +160,11 @@ seen against the backdrop of that artistic/theoretical/political/religious cruci
 Paul Tillich (1886–1965), the influential German Protestant theologian, just slightly older than Scholem, made explicit the link between the religious and artistic ferment of early 20th century Europe. Writing in the midst of the upheavals of post-World War I Berlin, Tillich stressed the link between the “primitives” of artistic modernism’s imagination and the “demonic” of the religious imagination.[^49] He also proclaimed that the “higher … forms of religion” emerged from the “demonic depths.”[^50]
 
 [^47]: The literature on Modernist primitivism is vast. See, e.g., Middleton, ‘The Rise of Primitivism and its Relevance to the Poetry of Expressionism and Dada’, 185–203; Goldwater, *Primitivism in Modern Art*, *passim*. Scholem’s early advocacy of re-conceptualizing the Jews as “orientals” as part of a critique of European culture participated in this general cultural movement. See Lazier, ‘Writing the Judenzarathustra: Gershom Scholem’s Response to Modernity, 1913–1917’, 33–65.
+
 [^48]: Middleton, ‘The Rise of Primitivism’, 194: “The alliance of primitivism and abstraction is one of the most copiously documented facts of the \[cultural-modernist\] period.” I have argued, in a long series of studies, for the usefulness of this “alliance” in understanding the transformation of international law after World War I. See, e.g., ‘Modernism, Nationalism, and the Rhetoric of Reconstruction’, 351–380.
+
 [^49]: Tillich, ‘The Demonic: A Contribution to the Interpretation of History’, 85.
+
 [^50]: *Ibid.*, 107.
 
 *[p. 26]* ^pg41
@@ -162,7 +176,9 @@ In a quintessential cultural-modernist gesture, Scholem explicitly cast his turn
 Removing the irrational stinger and banishing demonic fervor from Jewish history through hyperbolic theologization and spiritualization: this, in essence, is the original sin \[of the “Science of Judaism”\]. …This terrifying giant – our history – is called to account … and this mighty creature, filled with explosive power, composed of vitality, evil, and perfection, lowers its stature, contracts itself, and proclaims that it is a nothing; the demonic giant is merely a simple fool who acts in the manner of a good citizen who only desires progress; and every proper bourgeois in Israel can greet him in the streets of the city, the clean city of the 19th century – and not be embarrassed by being publicly associated with him.[^53] Scholem’s portrayal of the “terrifying giant” of Jewish history, and the “demonic fervor” animating it, is a paradigmatic instance of cultural-modernist ambivalence in relation to the “primitive.” Scholem celebrates this demonic giant, and 
 
 [^51]: Compare Amos Goldreich’s important study comparing the writing of the *Tikune Ha-* *Zohar* with techniques of automatic writing in the early 20th century avant-garde. Goldreich, *Shem Ha-Kotev u-Ketivah Automatit be-Sifrut Ha-Zohar u-ve-Modernism*.
+
 [^52]: Biale, *Gershom Scholem: Kabbalah and Counter-History*, 3–4.
+
 [^53]: Scholem, ‘Mi-Tokh Hirhurim al Ḥokhmat Yisra’el’, 396.
 
 *[p. 27]* ^pg42
@@ -192,6 +208,7 @@ The first two phenomena have been the focus of a key arena of Zohar scholarship 
 Yehuda Liebes and those inspired by his work tend to postulate a “circle of the Zohar,” a group of writers, most of whose names are known to us from their other works, writing a vast body of stylistically and substantively related texts that came to be collected as *Sefer Ha-Zohar*. Others, notably Daniel Abrams, tend to reject the notion that one can assume the social existence of such a circle.[^56] Such critics reject the notion that the Zohar can even be considered a 
 
 [^55]: For some prominent (though far from identical) examples, see Liebes, ‘Ketsad Nitḥaber Sefer Ha-Zohar’; Abrams, *Kabbalistic Manuscripts*, esp. 224–428; Abrams, ‘The “Zohar” as Palimpsest’; and Huss, *Ke-Zohar Ha-Raki’a*.
+
 [^56]: Abrams, *Kabbalistic Manuscripts*, 398–399.
 
 *[p. 29]* ^pg44
@@ -205,10 +222,15 @@ In my judgment, we can still profitably refer to these passages as expressive of
 Text-critical work and interpretive work are currently proceeding in the field at the same time, sometimes by the same scholars. By examining the internal 
 
 [^57]: Meroz, ‘The Middle Eastern origins of Kabbalah’, *passim*.
+
 [^58]: Huss, *Ke-Zohar Ha-Raki’a*, 84–139.
+
 [^59]: Wolfson, ‘Zoharic Literature and Midrashic Temporality’, 323–324.
+
 [^60]: Wolfson, *Language, Eros, and Being*, 48.
+
 [^61]: The classic description is in Lévi-Strauss, *Structural Anthropology*, 206–231.
+
 [^62]: Hellner-Eshed, *Ve-Nahar Yotse Me-Eden*, 231 n. 81.
 
 *[p. 30]* ^pg45
@@ -220,7 +242,9 @@ The second striking feature of the Zoharic literature that has spurred recent sc
 In his seminal article, ‘Zohar and Eros,’ Liebes cautions against reducing Zoharic writing to its “doctrine” – thereby dramatically departing from, while acknowledging his debt to, the monumental work of Scholem and Tishby in teasing out that doctrine.[^64] Playing on the meanings of the word “*zohar*” (radiance, luster, splendor), Liebes declares his dedication not “to the ‘doctrine of the Zohar,’ but to the ‘*zohar* in the doctrine’ – the creativity, open hermeneutics, humor, sex, friendship….”[^65] Indeed, he proclaims that the concept closest to the Zoharic meaning of “*zohar*” is “Eros.”66 Liebes and his disciples 
 
 [^63]: This literature is now too large to cite in full here. Some of the key works are: Liebes, ‘Ha-Mashiaḥ shel Ha-Zohar; Liebes, ‘Zohar ve-Eros’; Boaz Huss, \`Ḥakham Adif me-Navi’, in *Ke-Zohar Ha-Raki’a*, 11–42; Wolfson, *Language, Eros, Being: Kabbalistic Hermeneutics and Poetic Imagination*, 190–295; Lévy-Valensi, *La poétique du Zohar*; Meroz, ‘Zoharic Narratives and their Adaptations’; Wolski, ‘Mystical Poetics: Narrative, Time and Exegesis in the Zohar’; Hellner-Eshed, *Ve-Nahar Yotse Me-Eden*; Fishbane, ‘Representation and the Boundaries of Realism: Reading the Fantastic in Zoharic Fictionʼ, Yisraeli, *Temple Portals:* *Studies in Aggadah and Midrash in the Zohar*.
+
 [^64]: Liebes, ‘Zohar ve-Eros’, *passim*. This essay begins with a critique of the monumental work by Tishby, *Mishnat Ha-Zohar* \[henceforth cited as *MZ*\]. Although this work has been translated as *The Wisdom of the Zohar*, a more straightforward translation would be “*The Doctrine of the Zohar*,” and it is this sense that Liebes takes up in his essay. I note that Liebes’ practice of adding to, or amending, his published essays in their on-line versions makes citing the latter often more appropriate.
+
 [^65]: Zohar ve-Eros’, 2.
 
 *[p. 31]* ^pg46
@@ -232,9 +256,13 @@ This emphasis on the literary features of Zoharic writing offers the promise of 
 The error of refusing to truly *read* a text, of viewing rhetorical structure as a mere vehicle for conceptual doctrine, is known to literary theory as the “heresy of paraphrase,”[^69] a slogan coined by the “New Critic” Cleanth Brooks in his essays on poetry. Paraphrastic interpretation reduces a poem to its propositional content, refusing to take the poetic work seriously, indeed bypassing it altogether. For Brooks, by contrast, a poem is a multifaceted “structure of meanings,” which “unites the like with unlike,” and refuses to “reduce the contradictory attitudes to harmony by a process of subtraction.” Rather, it achieves a “positive unity” that can best be described with terms like “ambiguity,” “paradox,” and a “complex of attitudes.”[^70] Even conceptual propositions which explicitly appear in a poem must not be read as the definitive view of the poem, but rather, as part of its dramatic unfolding, to be treated as one would the pronouncements of a particular character within a novel or a play. Liebes states much the same notion when he writes of Zoharic texts’ self-awareness of their contradictoriness, sometimes expressed by putting different views in the mouths of different sages.[^71] The intertwining and mirroring that the Liebes school often demonstrates between Zoharic “frame stories” and their substantive homilies provide instantiations of the dramatically achieved harmonies to which New Critics like Brooks called our attention.
 
 [^67]: A vital, two-volume collection of such studies has just been published. Liebes, Benarroch, & Hellner-Eshed (eds.), *Ha-Sipur Ha-Zohari*.
+
 [^68]: ‘Zohar ve-Eros’, 1.
+
 [^69]: See Brooks, *The Well-Wrought Urn*, 192–201.
+
 [^70]: *Ibid*., 195.
+
 [^71]: ‘Zohar ve-Eros’, 1.
 
 *[p. 32]* ^pg47
@@ -246,7 +274,9 @@ Zoharic texts strategically and overtly juxtapose heterogeneous conceptual eleme
 At least two reservations must, however, be registered in relation to treating Zoharic texts as harmonious literary wholes, in which the conflicting elements are balanced in a “pattern of resolved stresses.”[^74] First, even beyond today’s consensus rejection of a single Zoharic author, the text-critical enterprise sketched above should make one extremely reticent to presuppose a bounded unity even of individual passages. The coherence of any particular passage is something that has to be demonstrated through interpretation, rather than presumed by appealing to a unitary authorship or even editorship. That any such demonstration can only be more or less persuasive, supported by more or less contestable interpretive assumptions, simply means it partakes of the kind of reasoning common in the humanities, rather than in the exact sciences. Moreover, as I shall show, the drive to internal Zoharic proliferation suggests that there may be an intrinsically unfinished quality to many, if not most, Zoharic passages – a sense that they could go on indefinitely and that the 
 
 [^72]: *Zohar* II, 176a–b.
+
 [^73]: ‘Zohar ve-Eros’, 3.
+
 [^74]: Brooks, *The Well-Wrought Urn*, 203.
 
 *[p. 33]* ^pg48
@@ -272,6 +302,7 @@ I thus seek to look at the innermost workings of Zoharic texts, while avoiding a
 The approach taken here thus seeks to vindicate some of the crucial critiques of the Scholem tradition, while drawing on what I believe to be some of its deepest wellsprings.[^76] Some of the most characteristic and profound dimensions of the Zoharic tradition emerge from the never definitively achieved drive to distinguish divine and demonic, generating endlessly proliferating discourses and ritual practices. Moreover, Zoharic texts, and much of kabbalistic writing generally, are replete with portrayals of the ways divine and demonic entities and *personae* continually enter into dangerous and scandalous relationships with each other. The vast discursive and ritual production generated 
 
 [^75]: See my discussion of “Solomon’s error” in Chapter 2.
+
 [^76]: My position has something in common with Mopsik in ‘A Propos d’une polémique récente concernant l’oeuvre de G. Scholem’, 13–25. Mopsik argues that the persuasive critique of Scholem’s notion of a Gnostic incursion only deepens the paradox that Scholem cherished: the provocative relationship of halakhic Judaism to the latently antinomian mythology by which it has long been accompanied.
 
 *[p. 35]* ^pg50
@@ -295,9 +326,13 @@ participation by the subject in ontological forces, specifically the archetypes 
 Indeed, some have even interpreted Freud, from whose work the notion of ambivalence entered into wide usage, in this objective sense, even if against his own intentions. Freud’s elaboration of the dynamics of ambivalence was always intimately bound up with his dualism, a key, persistent feature of his thought, though taking ever-changing forms.[^80] His increasing turn to mythological imagery, most overtly in his embrace of Empedocles’ opposition between “love and strife,” cannot be dissociated from the final version of his instinctual dualism, the conflict between “Eros and destructiveness.”[^81] In these late formulations, dualism is ultimately located not in the psychological stances of the subject towards the object, but in the “forces” that precede or transcend the subject.[^82] In the provocative interpretation of one commentator: against the “the radically demythologizing milieu and intent of Freud’s psychoanalysis,” he bequeaths us a vision of these forces as “silent, invisible Movers that take the place of the prior idols that psychoanalytic theory has dispatched,” forces that “cannot be demythologized.”[^83] But whatever its shifting meanings in various versions of psychoanalysis, the dynamics of ambivalence can provide guidance through many of the mysteries of Zoharic texts on the divine/demonic relationship – in which the most radically other may prove to be the most intimate, the most denigrated fatefully linked to the most idealized, the most contaminated intermingled with the most holy in myriad ways.
 
 [^78]: *Zohar* II, 182a: עקר קדושא דא עלאה מאתריה למשרי באתרא סטרא אחרא אל זר … ממש שארי בגויה *Zohar* II, 182a–b: 79
+
 [^80]: Freud, *Beyond the Pleasure Principle*, 53; Ricoeur, *Freud and Philosophy*, 292.
+
 [^81]: Freud, ‘Analysis Terminable and Interminable’, 246.
+
 [^82]: Ricoeur, Freud and Philosophy, 293.
+
 [^83]: King, ‘Freud’s Empedocles: The Future of a Dualism’, 24.
 
 *[p. 37]* ^pg52
@@ -327,7 +362,9 @@ However ubiquitous and productive of subjects and objects, splitting is also des
 The pertinence of these dynamics to the demonic was already suggested by Freud, who repeatedly proposed splitting as the psychological mechanism that generates the Devil. Significantly, he offers at least two distinct versions of this mechanism, one on the level of the object, the other of the subject. The first concerns the splitting of the image of the father into good and bad variants, the other concerns the splitting of the self.[^86] In the first version, Freud argues that “God and the Devil were originally identical – were a single figure which was later split into two figures with opposite attributes.”[^87] This single figure was modeled on, or was a daunting projection of, the human father. The benefit gained by its splitting into two opposed variants was the management of the “ambivalence which governs the relation of the individual to his personal father.”88 In the second version, by contrast, Freud attributes the origin of the Devil to a splitting of the ego, an attempt by the individual to safeguard the coherence of his self-image against its fragmentation by unruly desires: “the devil is certainly nothing else than the personification of the repressed unconscious 
 
 [^85]: The classic text is Freud, ‘The ‘Uncanny’, 217–256. The analysis of the literary, cultural, and psychoanalytical implications of “the double” is vast. Freud drew on the work of Rank, *The Double. A Psychoanalytic Study*. The theme, pervasive in both Western and non-Western cultures, was particularly prominent in European Romantic literature, from Dostoevsky to Maupassant. Among the writers that have influenced my own understanding of this theme, beyond Freud, Klein, and Rank, are the anthropologist Claude Lévi-Strauss and the philosophers Jacques Derrida and Sarah Kofman.
+
 [^86]: Rizzuto, ‘Freud, God, the Devil and the Theory of Object Representation’, 168.
+
 [^87]: Freud, ‘A Seventeenth-Century Demonological Neurosis’, 85.
 
 *[p. 39]* ^pg54
@@ -343,10 +380,12 @@ as it crystallized in the 13th century, was appropriated and adapted from a long
 A review of Zoharic texts yields a wide range of terms shared by the divine and demonic realms: each has ten sefirot, seven palaces, and so on.[^93] Indeed, a more Zoharic translation for the Ecclesiastes verse would be “ ‘this’ confronted 
 
 [^89]: Freud, ‘Character and Anal Erotism’, 173. See generally de Urtubey, *Freud et le diable*, *passim*.
+
 [^90]: *bḤagigah*, 15a: שאל אחר את רבי מאיר לאחר שיצא לתרבות רעה אמר ליה מאי דכתיב גם את זה לעומת זה עשה האלהים אמר לו כל מה שברא הקדוש ברוך הוא ברא כנגדו ברא הרים ברא גבעות ברא ימים ברא נהרות אמר לו רבי עקיבא רבך לא אמר כך אלא ברא צדיקים ברא רשעים ברא גן עדן ברא גיהנם Aḥer, after he had taken the evil path, asked Rabbi Me’ir: “what is the meaning of that which is written, ‘Also this confronted with this hath made the Elohim’? He replied: “For everything that the blessed Holy One created, he created a counterpart. He created mountains, he created valleys; he created seas, he created rivers.” Rabbi Akiva said to him: “Not thus did your master speak. Rather, He created righteous people, he created wicked people; he created the Garden of Eden, He created Hell.”
 91\. *Sefer Yetsirah Ha-Shalem*, 145: . גם כל חפץ זה לעומת זה ברא האלהים, טוב לעומת רע Also, in relation to every object, “this confronted with this hath made the Elohim” – good confronted with evil.
 
 [^92]: *Sefer Ha-Bahir*, 7: ומאי גם את זה לעומת זה עשה האלהים (קהלת ז’ יד), ברא בהו ושם מקומו בשלום וברא תהו ושם מקומו ברע And what is “Also this confronted with this hath made the Elohim” (Ecc. 7:14)? He created *Bohu* and posited its place in peace; and he created *Tohu* and posited its place in evil.
+
 [^93]: See Cordovero, *Pardes Rimonim*, Pt. 2, 55a; Tishby, *MZ,* I, 288.
 
 *[p. 40]* ^pg55
@@ -362,9 +401,13 @@ The employment of antithetical homonyms, which first appears in 13th century tex
 Three 13th century examples of this rhetorical technique can serve to highlight its importance. First, Zoharic texts interpret the biblical usage of the demonstrative pronoun “these” \[ ,\]אלה an abstract signifier for the designation of proximate objects, to refer both to the demonic couple of Sama’el and Lilith and to the six Sefirot that together compose the blessed Holy One – and, in some places, the seven Sefirot that compose the blessed Holy One and his female consort, the Shekhinah.[^96] As the 16th century Safed kabbalist Moshe Cordovero writes with reference to the Zohar: “just as there are ‘these’ on the side of the demonic,[^97] so there are ‘these’ on the side of holiness”[^98] – potentially introducing an element of lethal indeterminacy into any gesture of designation. A second example concerns the term at the core of this book, the “Other,” highlighting its intrinsically perspectival quality. In the *Book of the Left Column*, 
 
 [^94]: My translation also suggests that the second part of the clause “God hath made” should be Zoharically read as “hath made the Elohim,” with “the Elohim” as the object of the verb – for this would accord with the Zoharic notion that the divine name “Elohim,” associated with the side of judgment, the ultimate source of the demonic and even one name for it (in the expression “*Elohim Aḥerim*,” “Other Elohim”), may be a product of this division – a notion closer to the themes of Part Two.
+
 [^95]: For a warning, from within Sabbateanism, about the dangers of cognitive and religious error due to homology between the divine and the demonic, see Cardoso, ‘Al Shene ha-Meshiḥim di-Kedushah u-Shene Ha-Meshiḥim di-Kelipah’, 288–289.
+
 [^96]: Compare *Zohar* II, 236b (demonic interpretation) and *Zohar* I, 2a (divine interpretation).
+
 [^97]: The term Cordovero uses here is *kelipah*, literally, “husk” or “shell,” one of the general terms for the demonic, which I discuss in detail in Chapters 2 and 3.
+
 [^98]: *Pardes*, II, 5c: וכמו שיש אלה בצד הקליפה כן יש אלה בצד הקדושה
 
 *[p. 41]* ^pg56
@@ -386,7 +429,9 @@ statements can produce a paradoxical metaphysical pun about the relationship bet
 indeed, are the “death” of each other.
 
 [^99]: Moshe of Burgos, ‘Sefer Amud Ha-Semali’, 223.
+
 [^100]: *Zohar* I, 55a. I note that this passage concerns Abel, as does the example given by Moshe of Burgos.
+
 [^101]: *Pardes*, II, 42b: פעמים בזוהר קורא סטרא דשמאלא אל הטמא, ופעמים אל הטהור. וצריך להבחין מתוך הענין
 102\. See Moshe of Burgos, ‘Sefer Amud Ha-Semali’, 211.
 
@@ -403,8 +448,11 @@ becomes king … and a bondwoman who supplants her mistress” \[ תחת עבד
 The projection of a normatively inferior realm that rhetorically and/or ontologically mirrors the holy realm, but that also menaces, destabilizes, and may even come to dominate it, strongly resembles the power dynamics of “mimicry” described by the literary theorist Homi Bhabha, whose work is guided by psychoanalytic writing on ambivalence. Bhabha elaborates this concept in portraying attempts by colonizers to recreate the colonized in their own cultural image. Bhabha argues that two characteristic limits become manifest in such projects. First, in order for the condition of the colonized to serve as a continuing legitimation of the colonizer’s power, a difference with the colonizer must always be maintained – i.e., the colonized must be set up to fail in its mimicry in order to justify its subordination. Second, however, the colonized’s mimic presence destabilizes the colonizer’s own identity, parodying, and thereby undermining, its authority and integrity. The colonized’s failure to completely assimilate to the colonized’s culture, a failure that legitimizes the colonizer’s power, also undermines that power. The troubling presence of the subordinated “double” thus comes to undermine the self-certainty, even the identity, of the “original.” Bhabha asserts that the colonial cultural project thereby often results in the simultaneous production of both “resemblance and menace.”[^107] The colonized Other oscillates between “mimicry – a difference that is almost nothing but not quite” and “menace – a difference that is almost total but not quite.”[^108]
 
 [^105]: *Zohar* I, 146b–47a (*Sitre Torah*). This theme is a minor theme in the Zoharic literature and appears more prominently in the *Tikune Ha-Zohar*. E.g., *Tikune Ha-Zohar*, 10b, 12a, 73a.
+
 [^106]: I here bypass the KJV translation for a rendering more in keeping with the Zoharic usage. See *Zohar* I:122b, III:69a, III:226b.
+
 [^107]: Bhabha, *The Location of Culture,* 86.
+
 [^108]: *Ibid*., 91. As I note above, many kabbalistic texts portray the demonic as originating in a force that was designed to serve holy ends but then became improperly independent and began to work against its true master. See, e.g., Gikatilla, *Sod Ha-Naḥash u-Mishpato*, *passim*. In a closely analogous vein, Bhabha quotes Sir Edward Cust who, in 1939, attacked the British habit of endowing “every colony with a mimic representation of the British Constitution.” Cust declared that “the creature so endowed has sometimes forgotten its real insignificance and under the fancied importance of speakers and maces, and all the paraphernalia and ceremonies of the imperial legislature, has dared to defy the mother country.” *Location*, 85. Cust may as well have been describing the parallelism established between the divine and the demonic, and the penchant of the latter for rejecting the notion that it should be subservient to the former. He could, indeed, have used one of the kabbalists’ favorite scriptural citations for this process: “a slave who becomes king … and a bondwoman who supplants her mistress” (Prov. 30:22–23).
 
 *[p. 43]* ^pg58
@@ -467,8 +515,11 @@ Both images portray an intimate, dependent relationship between the divine and t
 Scholarly attempts to explain the paradox emerging from such images, the portrayal of Other Side as at once an independent, adversarial realm *and yet* as intimately bound to the divine, often serve only to heighten its baffling quality. For Isaiah Tishby, Zoharic portrayals of the dependence of the demonic on the divine – especially of the demonic as somehow emerging from the divine – should be seen as attempts to mitigate a theologically unacceptable dualism.[^117] 
 
 [^114]: *Zohar* III, 70a: .אחידן בזוהמא דטופרא See also *Zohar* II, 207b–208b and Dorit Cohen-Alloro, ‘Me-Ḥokhmeta Ila’ah Le-Ḥokhmeta De-Tarfe De-Ilana: Ha-Kishuf Be-Sefer Ha-Zohar’, 31–66.
+
 [^115]:  :עולם אחר כללי Moshe of Burgos, ‘Sefer Amud Ha-Semali’, 208.
+
 [^116]: *Sefer Tashak*, 267–268 & 278–279. See my discussion of this passage in Chapter 3.
+
 [^117]: Tishby, *MZ*, I, 292.
 
 *[p. 46]* ^pg61
@@ -490,12 +541,19 @@ of catharsis in the Western tradition and a corresponding range in kabbalah scho
 Some of the key historical meanings include the Platonic literal or figurative detachment of the soul from the body,[^119] the medical expulsion of toxicities from the body, and perfection of the body through physical training.[^120] The latter two, in the *Sophist*, also have their analogues at the level of the soul – on the one hand, ridding the person of such vices as cowardice, intemperance, and injustice, and, on the other hand, curing ignorance through instruction.[^121] Aristotle, for his part, employed the term to refer to the effect produced by the theatrical representation of highly charged dramatic situations, a usage that gave rise to centuries of still-unresolved debate. One commentator divides the various participants in this debate into those who see catharsis as more of a *purgation*, the expulsion of “undesirable or excessive emotion,” and those who see it as more of a *purification*, in the sense of the positive transformation of potentially valuable emotions.[^122] These two broad categories may be roughly associated with the second and third meanings of catharsis in the *Sophist*. Commentators have even debated whether Aristotle’s notion of the rectification achieved through dramatic representation concerns the subjectivity of the audience or rather the objective situation enacted on the stage[^123] – or, alternatively, whether the term has both “internal and external” references,[^124] or even was chosen deliberately for its ambiguity, its capacity for bearing a range of meanings.[^125] Finally, Freud’s notion of catharsis builds on, while thoroughly transforming, a number of these positions: it refers to the discharge of something painful to the subject, something that was once part of the subject but has become dissociated from it through repression. This discharge occurs through a re-enactment, produced not on the stage as a public spectacle, but out of the interiority of the subject in the privacy of the analytical situation.[^126] Each of these distinct notions of catharsis has a correlate in kabbalah scholarship, and, far more obliquely, in the kabbalistic texts themselves. Rather than go through those correlates in detail here, I note two key questions about the 
 
 [^119]: E.g., Plato, *Phaedo*, 67c–68b, in *Collected Dialogues of Plato*, 50.
+
 [^120]: For the last two of these, see Plato, *Sophist*, 226d–231b, in *Collected Dialogues of Plato*, 970–971.
+
 [^121]: *Ibid*.
+
 [^122]: Keesey, ‘On Some Recent Interpretations of Catharsis’, 193.
+
 [^123]: Keesey, ‘On Some Recent’*,* 197–199, summarizes the latter position, that of G.F. Else, and that of its critics. See also Golden, ‘The Clarification Theory of Katharsis’, 437–452.
+
 [^124]: Paskow, ‘What Is Aesthetic Catharsis?’, 64.
+
 [^125]: Sparshott, ‘The Riddle of Katharsis’, 26.
+
 [^126]: For a comparison of the Aristotelian and Freudian notions, see Rieff, *Freud, the Mind of the Moralist*, 347–348.
 
 *[p. 48]* ^pg63
@@ -507,6 +565,7 @@ In relation to divine catharsis, it is not self-evident whether purgation or pur
 Furthermore, all the meanings of catharsis cited above seem ill-equipped to account for the distinctive Zoharic narratives of the ongoing relationships between the divine and the demonic: in which the impurities purged in the process of catharsis come to form a mighty realm, the match in power and structure of the subject that purges them, presenting ceaseless challenges, menaces, and temptations to that subject. Nor can they account for the persistence in the kabbalistic tradition of acute ambivalence in relation to the ultimate fate of the Other Side. As Scholem affirms, the antithetical notions that the Other Side is destined to be annihilated and that it is to be integrated into the divine realm are both equally “plausible” within the kabbalistic tradition.[^128] 
 
 [^127]: Tishby, *Torat Ha-Ra*, 42–43.
+
 [^128]: See Scholem, *On the Mystical Structure of the Godhead*, 77.
 
 *[p. 49]* ^pg64
@@ -535,6 +594,7 @@ That from which the proto-subject separates itself, consequently, does not appea
 The abject confronting the nascent subject is thus a source of terror, threatening the subject with collapse back into the state of undifferentiation from which it emerged. The emergence of the subject is indissociable from the emergence of this terrifying abject. This terror is heightened, rather than mitigated, 
 
 [^130]: *Ibid*., 17.
+
 [^132]: *Ibid*., 20.
 
 *[p. 51]* ^pg66
@@ -546,6 +606,7 @@ I expel *myself*, I spit *myself* out, I abject *myself* through the same moveme
 Experiences that evoke the abject, particularly those that put clearly defined boundaries into question, can severely shake the subject’s precarious sense of its own bounded identity. Such experiences include not only the “absence of *propreté*” (a polysemous French term that Kristeva uses to signify cleanliness, propriety, and the domain of the self), but anything that “disturbs an identity, a system, an order.”[^134] At its most primal, the experience of abjection can be provoked by rot, feces, refuse, all that physical *stuff* that has no boundaries and thereby threatens to erode the boundaries of the *propre*. On the social level, it can be evoked by everything that “does not respect limits, places, rules. The in-between, the ambiguous, the hybrid. The traitor, the liar, the criminal with a good conscience, the rapist without shame, the killer who purports to save.”135 Horrifyingly and inexplicably, the inchoate elements, those the subject must expel to its outer borders in order to achieve a bounded identity, eventually crystallize and confront the subject as a determinate and antagonistic object. We have encountered this transition from inchoate refuse to a crystallized adversary in other forms: in Freud’s depiction of repressed instincts that crystallize into the Devil, as well as in the Zoharic “fingernail slime” of the divine that serves as the basis for the entire realm of the Other Side, and we shall see it numerous times in Zoharic texts in Chapter 3.
 
 [^133]: *Ibid*., 11.
+
 [^134]: *Ibid*., 12.
 
 *[p. 52]* ^pg67
@@ -561,7 +622,9 @@ It is within this paradoxical framework that Kristeva locates all those cultural
 Kristeva’s portrayal of abjection also shows the ultimate impossibility of any definitive “logification” of this kind. The terror of abjection – as well as the temptation it poses – re-surfaces whenever the necessarily incomplete exclusion of the abject breaks through the fabric of its “logification” by the symbolic order. The abject is that which is “rejected, yet from which one cannot separate oneself, that from which one cannot protect oneself as from an object … it beckons to us and ends by swallowing us up.”[^138] It should be clear by now, therefore, why any definitive “catharsis” of the abject – in either the “perfection” or “purgation” sense – is as impossible as it is urgent.
 
 [^136]: *Zohar* II, 91a.
+
 [^137]: Kristeva, *Pouvoirs*, 110.
+
 [^138]: *Ibid*., 12.
 
 *[p. 53]* ^pg68
@@ -573,7 +636,9 @@ Kristeva argues that the confrontation with abjection goes to the heart of relig
 *To each abjection, its sacred* – Abjection accompanies all religious constructions, and it reappears at the moment of their collapse…. We can distinguish a variety of structures of abjection, which in turn determine the types of the sacred…. The diverse modes of the purification of the abject, the diverse catharses, constitute the history of religions….[^141] The weakening, or collapse, of traditional codifications of the abject results in the latter’s re-emergence, threatening the bounded coherence of subjectivity, as well as of religious systems. Such moments give rise either to new systematic “logifications” of the abject, or to more daring attempts to give it symbolic expression in “un-logified” form. For Kristeva, the most daring of such attempts 
 
 [^139]: *Ibid*., 123.
+
 [^140]: Freud, ‘The Uncanny’, 140. Freud is here quoting Schopenhauer.
+
 [^141]: Kristeva, *Pouvoirs*, 17.
 
 *[p. 54]* ^pg69
@@ -610,7 +675,9 @@ Such texts first advance a “trope of limitation”: a turn from an image of un
 Such a trope of limitation is then followed by a “trope of representation,” in which an evanescent or repulsive byproduct is succeeded by the crystallization of distinct divine and demonic structures and *personae*. Such tropes are *prosopopeia*, a trope that personifies, “makes a face” or a “*persona*” (the Latin equivalent of *prosopon*); and *morpho-poeisis*, a trope that “makes a form” (like prosopopeia, but where the forms in question are not “faces”).[^145] Prosopopeia is a particularly apt term for kabbalistic discourse, much of which is preoccupied with, in Lurianic terminology, “*tikun ha-partsufim*” (the “repair,” “adornment” or preparation” of the *personae*).[^146] “*Tikun ha-partsufim*” is itself almost a direct translation of the term prosopopeia. I recall here the discussion in the Introduction of my choice of the word *personae* to designate the divine and demonic figures in the Zoharic literature – figures to which later kabbalistic literature refers as *partsufim*, the Aramaicized variant of the Greek *prosopa*. In the Zoharic corpus, particularly in the treatises called the *Idrot* \[Assemblies\], this *tikun* is largely an affair of poetic description.
 
 [^144]: See, e.g., Bloom, *A Map of Misreading*, 88. One commentator explains these as follows: tropes of limitation are “figures that undermine the poetical sufficiency of extant visions – literal or fictional – by exposing their referents to be more or less or other than they seem”; tropes of representation are “figures that replace extant visions with visions of new objects, whether parts of previously extant (but no longer literal) wholes, or wholes of previously extant (but no longer independent) parts.” Faubion, *Modern Greek Lessons:* *A Primer in Historical Constructivism*, xxii.
+
 [^145]: On “morphopoiesis,” see Tamisari, “The Meaning of the Steps is in Between: Dancing and the Curse of Compliments’, 274–286. Tamisari defines “morphopoiesis” as “speaking forms into place.” It provides a useful rhetorical term when “prosopopeia” is not strictly applicable.
+
 [^146]: Literally: the “repair,” “adornment” or “preparation” of the “faces.” Tikun has a broad semantic range in Zoharic writing. It is generally the case that the text intends to signify the entire range, even if it emphasizes one of the meanings.
 
 *[p. 57]* ^pg72

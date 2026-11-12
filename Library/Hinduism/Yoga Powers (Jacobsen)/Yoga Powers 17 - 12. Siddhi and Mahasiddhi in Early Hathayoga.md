@@ -23,10 +23,15 @@ James Mallinson In a forthcoming monograph on pre-modern *haṭhayoga* and its p
 The oldest traditions of *haṭhayoga* are informed by tantric yoga, both Śaiva and Pāñcarātrika, and traditions of brahmanical yoga found in, for example, the original *Skandapurāṇa* and the *Mārkaṇḍeya* *purāṇa*.[^5] In a secondary stage of its development *haṭhayoga* was appropriated by practitioners in the traditions of Western Transmission (Paścimāmnāya) and, subsequently, Southern Transmission (Dakṣiṇāmnāya) Kaula Śaivism.[^6] It is this Kaula-influenced form of 
 
 [^1]: James Mallinson, *Yoga and Yogis: The Texts, Techniques and Practitioners of Traditional Haṭhayoga* (forthcoming).
+
 [^2]: These works are the *Amṛtasiddhi*, *Dattātreyayogaśāstra*, *Gorakṣaśataka*, *Vivekamārtaṇḍa*, *Khecarīvidyā*, *Yogabīja*, *Amaraughaprabodha* and *Śivasaṃhitā*. To these may be added the *Amaraughaśāsana*, which, although not used to compile it, is likely to predate the *Haṭhapradīpikā* and teaches variants of the practices classified therein as *mudrā*s, practices which set *haṭhayoga* apart from other varieties of yoga. There is one text not written in Sanskrit which teaches the haṭhayogic *mudrā*s and predates the *Haṭhapradīpikā*: the Old Marāṭhī *Jñāneśvarī*, on which see Catherine Kiehnle, “The Secret of the Nāths: The Ascent of Kuṇḍalinī according to Jñāneśvarī
+
 [^6]: The Western Transmission appropriation is evinced by the *Gorakṣaśataka*, *Vivekamārtaṇḍa* and *Khecarīvidyā*; that of the Southern Transmission (or at least its later reformation) by the *Śivasaṃhitā*.
+
 [^3]: The *Haṭhapradīpikā* can be dated to approximately 1450 ce (Christian Bouy, *Les Nātha-Yogin et les Upaniṣads* \[Paris: Diffusion de Boccard, 1994\], 81-85).
+
 [^4]: They can also arise as a result of birth, herbal preparations or asceticism: *janm* *uṣadhimantratapaḥsamādhijāḥ siddhayaḥ* (*Yogasūtra* 4.1).
+
 [^5]: These oldest traditions of *haṭhayoga* are found in the *Amṛtasiddhi* and *Dattātreyayogaśāstra*.
 
 *[p. 328]* ^pg341
@@ -40,7 +45,9 @@ In its earliest manifestations, *haṭhayoga* was the preserve of the *mumukṣu
 Intentional and Unintentional *Siddhis* Only two texts in the corpus of Sanskrit works on early *haṭhayoga*, the *Dattātreyayogaśāstra* and the *Yogabīja*, voice explicitly the understanding of *siddhi*s which is implicit throughout most of the corpus. In the *Dattātreyayogaśāstra* the many powerful *siddhi*s which arise in the second of *haṭhayoga’s* four *avasthā*s or ‘stages’, the *ghaṭāvasthā*, are said to be obstacles to *mahāsiddhi*, ‘the great *siddhi*’, and the wise yogi is instructed not to delight in his powers, nor to show them to anyone else. He should behave like a fool in order to keep his powers hidden; if not he will attract a large number of disciples, busy with whom he will neglect his practice and become absorbed in worldly concerns.[^9] The *Yogabīja* distinguishes between two types of *siddhi*: 
 
 [^7]: Alexis Sanderson, “Śaivism and the Tantric Traditions,” in *The World’s Religions*, ed. S. Sutherland, L. Houlden, P. Clarke and F. Hardy (London: Routledge, 1988), 660–704, 667.
+
 [^8]: *Ibid*., 664.
+
 [^9]: This is a paraphrase of *Dattātreyayogaśāstra* 193-197. The exact same sentiment was expressed to me by a Dasnāmī Nāgā Saṃnyāsī of the Jūnā Akhāṛā in 2006 when I asked him in the course of an interview at his *kuṭiyā* in Chauntra, Kangra District, Himachal Pradesh, whether he thought it was possible for yogis to fly. This part of the interview can be seen at http://www.youtube.com/watch?v=p5jWGRn3t8c. The yogis of the Jūnā Akhāṛā, whose *iṣṭadevatā* is Dattātreya, are direct heirs of the yoga tradition of the *Dattātreyayogaśāstra*.
 
 *[p. 329]* ^pg342
@@ -50,7 +57,9 @@ Intentional and Unintentional *Siddhis* Only two texts in the corpus of Sanskrit
 The attitude towards *siddhi*s made clear in the *Dattātreyayogaśāstra* reflects that found in the *Yogasūtra*, namely that *siddhi*s are obstacles to the goal of yoga practice.[^11] In the *Yogasūtra*, however, explicit instructions are given on how to achieve the various *siddhi*s. If the yogi wants divine hearing, for example, he should practice *saṃyama* on the relationship between hearing and the ether (3.41). Intentional *siddhi*s of this sort are not taught in mainstream haṭhayogic texts.[^12] The lack of importance given to *siddhi*s in the majority of the texts of *haṭhayoga* results in their *akalpitā* variety not always being distinguished from trivial or even undesirable by-products of practice, particularly in its early stages. Thus at *Amaraughaśāsana* 9.2, Kuṇḍalinī’s ascent of the central channel is said to bring about trembling and fainting as well as the ability to attract and see distant objects. In the *Dattātreyayogaśāstra*, the perfection of unassisted breath retention (*kevala kumbhaka*) means that nothing in the three worlds is difficult to attain. Increasing durations of its practice result in, in sequence, sweating, trembling, jumping about like a frog (*dardurī*), leaving the 
 
 [^10]: This is a paraphrase of *Yogabīja* 173c-182d. For descriptions of *akalpitā siddhi*s achieved in the course of the practice of *haṭhayoga*, see e.g. *Yogabīja* 164a-170b, *Khecarīvidyā* 2.106a-110b, *Amaraughaśāsana* 10.33-37, *Jñāneśvarī* 6.259-270, 6.296- 298.
+
 [^11]: *Yogasūtra* 3.37: *te samādhau upasargā vyutthāne siddhayaḥ |.* See Hara 1999 on similarly anti-*siddhi* stances taken by the Buddha and Pāśupatas.
+
 [^12]: One exception to this is the practice of the elemental *dhāraṇā*s, in which concentration on an element leads to its conquest and concomitant *siddhi*s (see e.g. *Dattātreyayogaśāstra* 221-242, *Vivekamārtaṇḍa* 132-140 \[= Nowotny, *Gorakṣaśataka* 153-161\]). These *dhāraṇā*s are stages in a type of *layayoga* in which the elements and other *tattva*s are sequentially resorbed into the supreme element.
 
 *[p. 330]* ^pg343
@@ -60,10 +69,15 @@ ground,[^13] indifference to eating a lot or a little, diminished excretions and
 Identifying what constitutes a haṭhayogic *siddhi* is made more difficult by the ambiguity of the word *siddhi* itself, which in haṭhayogic works is more often used to mean ‘success’ than ‘supernatural power’. *Śivasaṃhitā* 3.19-20, for example, teaches the seven signs of *siddhi*. In haṭhayogic works the eight classical *siddhi*s[^15] are called *guṇa*s, not *siddhi*s.[^16] Thus, apart from those few instances where *siddhi*s are explicitly identified, there are no criteria by which to draw a line between the relatively mundane benefits of yogic practice (e.g. increased digestive fire)[^17] and those that are more impressive (e.g. the ability to eat nothing or huge amounts of food with equal indifference).[^18] Rather than attempt either to define a haṭhayogic *siddhi* or to give a comprehensive enumeration and typology of the benefits of yogic practice as described in all the texts of early *haṭhayoga* (which would be prohibitively long and for the most part unenlightening), I shall examine their treatment in just two works of the corpus, the *Amṛtasiddhi* and the *Śivasaṃhitā*. Not only will this give an overview of the types of *sid-*
 
 [^13]: ‘Leaving the ground’ (*bhūmityāga*) is not necessarily beneficial, or even fun. Lāl Jī Bhāī, a yogi I met in Rishikesh in 1997, reported that often when meditating while practicing *khecarīmudrā* he would involuntarily fly across the room, which would occasionally result in his *jaṭā* becoming caught in his fan.
+
 [^14]: *Dattātreyayogaśāstra* 146-165. This final side-effect, becoming as handsome as the god of love, has the deleterious result of women lusting after the yogi; he must carefully guard against wasting his *bindu*.
+
 [^15]: *Yogasūtrabhāṣya ad* 3.45.
+
 [^16]: *Dattātreyayogaśāstra* 245, 254; *Vivekamārtaṇḍa* 129, 155 ( = Nowotny *Gora* *kṣaśataka* 150, 178); *Khecarīvidyā* 2.109, 3.6; *Amaraughaprabodha* 43; *Śivasaṃhitā* 3.90, 4.108, 5.57, 5.106, 5.179, 5.207; *Haṭhapradīpikā* 3.126. In the *śaivāgama* too *guṇa* is the preferred name for the eight classical powers. See e.g. *Netratantra* 1.29,
+
 [^18]: *Dattātreyayogaśāstra* 157.
+
 [^17]: *Dattātreyayogaśāstra* 135.
 
 *[p. 331]* ^pg344
@@ -73,8 +87,11 @@ Identifying what constitutes a haṭhayogic *siddhi* is made more difficult by t
 *Siddhi* in the *Amṛtasiddhi* The sectarian origins of the *Amṛtasiddhi* are unclear. In its colophons it is ascribed to either Mādhavacandra or Avadhūtacandra and is said to represent the teachings of Virūpākṣa. Although it has been claimed that this means that the text was produced by the Nātha *saṃpradāya* on the grounds that Virūpākṣa was a ‘Nātha Siddha’,[^19] this is unlikely, not least because the text predates the appearance of a Nātha *saṃpradāya* by several centuries[^20] and possibly also the life of its alleged founder, Gorakṣa.[^21] External evidence suggest that the *Amṛtasiddhi* may have been produced by forerunners of the Dasnāmī Saṃnyāsīs.[^22]
 
 [^19]: Kurtis R. Schaeffer, “The Attainment of Immortality: from Nāthas in India to Buddhists in Tibet,” *Journal of Indian Philosophy* 30 (2002): 515-533. I enclose the phrase ‘Nātha Siddha’ within quotation marks because it is not to be found in pre-modern Indic literature.
+
 [^20]: The earliest example that I have found of the word ‘Nātha’ being used to describe a *saṃpradāya* of yogis is in a manuscript from Jodhpur of a text called the *Ādeśapadavyākhyā*. The manuscript appears to have been written in the early part of the nineteenth century, when the Nāthas had a brief period of influence over the Jodhpur court. The c.1700 *Siddhasiddhāntapaddhati* mentions *nātha* as one of five yogi lineages (5.43). The earliest reference to yogis being divided into twelve *panth*s, an important (if only nominal) feature of Nātha identity to this day, is in a *vār* written by Bhāī Gurdās in 1604 (*Vāraṅ Bhāī Gurdās* 8.13).
+
 [^21]: The earliest datable reference to Gorakṣa is in the *Amṛtakaṇikodyotanibandha*, a sub-commentary on the *Āryamañjuśrīnāmasaṃgīti* (p. 202, l.18) of Vibhūticandra, who flourished in the first half of the thirteenth century (Stearns 1996). I am grateful to Professor Harunaga Isaacson for drawing my attention to this reference.
+
 [^22]: Śiva as Virūpākṣa was the tutelary deity of the first rulers of Vijayānagara, who in the fourteenth century patronised an *advaita maṭha* at Śṛṅgeri which later became one of the first Dasnāmī Saṃnyāsī monastic institutions. The Vijayānagara monarchs had earlier had Kālāmukha gurus who may have introduced them to the cult of Virūpākṣa. (Matthew Clark, *The Daśanāmī-Saṃnyāsīs: The Integration of Ascetic Lineages into an Order* \[Leiden: Brill, 2006\], 198). 19 verses from the *Amṛtasiddhi* are found in the *Śivasaṃhitā*, suggesting a link with the latter’s Saṃnyāsī tradition (on which see p. 333).
 
 *[p. 332]* ^pg345
@@ -103,8 +120,11 @@ Interpolated in the description of the four *avasthā*s is a passage on the thin
 breath (3.46-48). The yogi should observe the rules of yoga until his sleep, feces and urine diminish. He is freed from disease and unhappiness. Sweat, slobber and worms, and imbalances of the three humors do not arise in his body. He can eat as much or as little as he likes. He obtains *bhūcarīsiddhi*.[^27] Then, by means of *prāṇāyāma*, he destroys his past karma, attains the eight classical *siddhi*s and becomes the lord of the three worlds (3.58). Once he can hold his breath for three *ghaṭikā*s (72 minutes), he is sure to achieve complete success (*sakalā siddhi*) (3.59). This includes mastery of speech, the ability to go where he wants, long-distance vision and hearing, subtle sight and the powers of entering another’s body, producing gold by smearing objects with his feces and urine, making things invisible and moving through space (3.60-61).
 
 [^24]: The *Śivasaṃhitā* directly borrows 19 verses from the *Amṛtasiddhi*. None is in the *Śivasaṃhitā*’s third *paṭala* but the latter’s teachings on the four *avasthā*s of yoga are derivative of those found in the *Amṛtasiddhi*.
+
 [^25]: Compare *Śivasaṃhitā* 3.44c-52 with *Dattātreyayogaśāstra* 143-162 (the *editio princeps* of the *Dattātreyayogaśāstra* is numbered by half-verses).
+
 [^26]: Assisted breath retention (*sahita kumbhaka*) involves particular methods of inhalation and exhalation, and holding the breath for specified lengths of time. Unassisted breath retention (*kevala kumbhaka*) has no such strictures and can be performed comfortably for as long as the yogi wishes.
+
 [^27]: The ability to move like animals which are hard to catch when one claps one’s hands (3.52).
 
 *[p. 335]* ^pg348
@@ -138,7 +158,9 @@ taught in the *Amṛtasiddhi*, it adds several extra *siddhi*s, to the extent th
 The *Śivasaṃhitā’s* promotion of *siddhi*s is concomitant with its Kaula *bubhukṣu* heritage. The most explicitly Kaula text in the early corpus of haṭhayogic texts, the *Khecarīvidyā*, takes a similar position. At the end of its first *paṭala*, *khecarīmudrā* is said to bestow a wide range of *siddhi*s—in fact it is said to bestow all the *siddhi*s that exist in the three worlds—including ones not mentioned elsewhere in the haṭhayogic corpus but common in Kaula works (where they are usually *kalpitā*, ‘intentional’) such as finding buried treasure, entering subterranean realms, controlling the earth, mastering alchemy,[^30] winning power over male and female genies, and procuring magical sandals, swords and elixirs.[^31] In the second *paṭala*, accessing the different stores of *amṛta* in the body is said to make the whole gamut of *siddhi*s available to the yogi.[^32] In the *Khecarīvidyā’s* fourth *paṭala* various herbal preparations are said to bestow various physical benefits, in particular rejuvenation.
 
 [^30]: *Pace* David Gordon White, *The Alchemical Body: Siddha Traditions in Medieval India* (Chicago: University of Chicago Press, 1996) who argues (p. 10) that “if they were not one and the same people, \[*haṭhayogi*s and alchemists\] were at least closely linked in their practice”, the *Khecarīvidyā*’s assertion that *khecarīmudrā* can give the yogi the *siddhi* of alchemy suggests that the practitioners of *haṭhayoga* and alchemy were quite distinct. This is also implied by the *Khecarīvidyā*’s deliberate trumping of alchemical practice with its technique of *aṅgamardana* (*Khecarīvidyā* 2.72-79, on which see Mallinson, *The Khecarīvidyā of Ādinātha*, 220 n.328). Other works also teach that the techniques of *haṭhayoga* can bestow alchemical *siddhi*. In both the *Śivasaṃhitā* (3.61) and *Dattātreyayogaśāstra* (197) it is said that the yogi in the *ghaṭāvasthā* can turn objects into gold by smearing them with his faeces and urine. *Śivasaṃhitā* 5.112 teaches that meditation on the Maṇipūra lotus gives the power to create gold. In the *Dattātreyayogaśāstra*, alchemy is said to be one of the obstacles to success in the practice of yoga (103).
+
 [^31]: *Khecarīvidyā* 1.65-77. The Kaula *siddhi*s are listed at 1.68 and 1.75c-1.76b; see the notes *ad loc*. for parallels in Kaula works, including the *Matsyendrasaṃhitā*.
+
 [^32]: *Khecarīvidyā* 2.1-69.
 
 *[p. 339]* ^pg352
@@ -148,6 +170,7 @@ The *Śivasaṃhitā’s* promotion of *siddhi*s is concomitant with its Kaula *
 The haṭhayogic tradition represented by the *Amṛtasiddhi* and *Dattātreyayogaśāstra* is likely, at least on textual evidence, to predate that linked with Matsyendra and Gorakṣa. The former teaches a yoga that uses the breath to raise *bindu* upwards along the central channel, piercing three knots along the way. The latter superimposes Kuṇḍalinī and the *cakra*s or *padma*s onto this system.[^34] This superimposition results in some problems. The aim of the *bindu*-oriented yoga is to keep *bindu* in the head; the Kuṇḍalinī-based systems want to flood the body with *amṛta*, *bindu*’s analogue. The primacy of the *bindu* paradigm can be inferred from its being found in the systems of yoga taught in the *Amṛtasiddhi* and *Dattātreyayogaśāstra* in which Kuṇḍa
 
 [^33]: Kapila, who is the first *siddha* to be associated with *haṭhayoga* (*Dattātreya* *yogaśāstra* 57) is also not mentioned in the *Haṭhapradīpikā*. Vasiṣṭha is mentioned once, at 1.18, in the context of *āsana*. The rivalry between the yogi followers of Dattātreya and those of Gorakṣa persists in North India. In the Deccan region they were reconciled in the 17th or 18th centuries, a reconciliation legitimized in texts such as the *Gorakṣasiddhāntasaṃgraha* and *Yogisaṃpradāyāviṣkṛti*.
+
 [^34]: These two paradigms of the practice of *haṭhayoga* are summarized at *Śārṅgadharapaddhati* 4365a-4371b; for a translation and commentary, see Mallinson, *The Khecarīvidyā of Ādinātha*, 28-30.
 
 *[p. 340]* ^pg353
@@ -159,10 +182,15 @@ The *Vivekamārtaṇḍa*, perhaps the earliest text to impose the subtle physio
 The *Haṭhapradīpikā*’s attitude towards *siddhi* is in keeping with *haṭhayoga*’s rejection of the exclusivity, complexity and esotericism of 
 
 [^35]: Kuṇḍalinī is not mentioned in the *Amṛtasiddhi*; she is mentioned in passing at *Dattātreyayogaśāstra* 213.
+
 [^36]: There are two texts which present Kuṇḍalinī-based systems of *haṭhayoga* almost entirely free of any mention of *bindu*: the *Khecarīvidyā* and the *Gorakṣa* *śataka*. The former is among the later texts of the corpus since it mentions the *Vivekamārtaṇḍa* (1.14). The latter (on which see James Mallinson, “The Original Gorakṣaśataka,” in *Yoga in Practice*, edited by David Gordon White (Princeton: Princeton University Press, forthcoming 2011), 257-272, can be tentatively dated to 1400 ce but the similarities between its yoga techniques and those of the *Jñāneśvarī* suggest that they were well established by the time of its composition. They might thus represent a Kuṇḍalinī-based *haṭhayoga* tradition independent of the *bindu*- oriented tradition.
+
 [^37]: E.g. *bhastrikā kumbhaka*’s removal of the knot of phlegm (*kapha*) which blocks the mouth of the *brahmanāḍī* thereby enabling Kuṇḍalinī to pierce the three *granthi*s (*Haṭhapradīpikā* 2.66c-67b = *Gorakṣaśataka* 48).
+
 [^38]: See *Haṭhapradīpikā* 3.49, 3.94, 3.98.
+
 [^39]: On *parakāyapraveśana* see Mallinson, *The Khecarīvidyā of Ādinātha*, 237 n.439.
+
 [^40]: On *utkrānti* see ibid.: 238 n.448.
 
 *[p. 341]* ^pg354
@@ -174,8 +202,11 @@ Like much of its technical vocabulary and soteriological framework, *haṭhayoga
 Thus, in contrast to what one might expect, the *Haṭhapradīpikā* and the majority of the texts of early *haṭhayoga* are less concerned with the supernatural than the *Yogasūtra* (and many tantric works), since they proscribe intentional striving after *siddhi*s and make no reference to occult *siddhi*s such as *parakāyapraveśana* and *utkrānti* which are taught, or at least mentioned, in the *Yogasūtra* and Kaula-influenced haṭhayogic works such as the *Khecarīvidyā* and *Śivasaṃ* *hitā*.[^44]
 
 [^41]: Particularly noteworthy is the absence of *cakra*s or *padma*s in the *Haṭha* *pradīpikā’s* subtle physiology, in spite of Kuṇḍalinī’s primacy in the text. Perhaps, in his quest for inclusivity, amidst a plethora of different *cakra* systems (the six/seven *padma* system of the Paścimāmnāya was yet to achieve hegemony) Svātmārāma did not want to alienate any groups by prioritising one particular system.
+
 [^42]: See, for example, the benefits associated with the *kumbhaka*s and *ṣaṭkarma*s taught in the *Haṭhapradīpikā’s* second *upadeśa*.
+
 [^43]: See, for example, the *Dattātreyayogaśāstra*, in which the *siddhi*s obtained by means of *mantra*°, *laya*° and *rājayoga* are very similar to those obtained by *haṭhayoga*, or the *Amanaskayoga*, which roundly condemns the practices of *haṭhayoga* (see in particular *Amanaskayoga* 2.31 and 2.42), but whose non-physical yoga is said to achieve a wide range of *siddhi*s similar to those found in haṭhayogic texts.
+
 [^44]: *Parakāyapraveśana* and *utkrānti* are the results of particular *saṃyama*s taught at *Yogasūtra* 2.38-39. *Parakāyapraveśana* is mentioned as a *siddhi* at *Śivasaṃhitā* 3.60 and 5.111. *Utkrānti* is taught at *Khecarīvidyā* 3.48-53. Intentional *siddhi*s and practices such as *parakāyapraveśana* and *utkrānti* do resurface in later formulations
 
 *[p. 342]* ^pg355

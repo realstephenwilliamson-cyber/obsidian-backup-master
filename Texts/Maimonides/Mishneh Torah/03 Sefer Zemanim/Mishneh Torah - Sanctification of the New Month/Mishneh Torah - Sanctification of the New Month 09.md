@@ -54,35 +54,63 @@ When we add five days to Rosh Chodesh Nisan, which is Thursday, we reach Monday.
 **8.** Although we said that one should continue to add days until one reaches the day of the week on which the equinox takes place, one should never have to add more than one, two, or three days[^28] - or in a most unusual case - four days.[^29] If you find it necessary to add any more days than this, know that you have made an error in your calculations, and you should recalculate carefully. ^9-8
 
 [^1]: Shemuel (*Eruvin* [[Eruvin 56#56a|56a]]).
+
 [^2]: Rav Ada (*Ibid.*). His opinion is discussed in the following chapter.
+
 [^3]: Ptolemy and Albatani, astronomers whose opinions were valued by the Rambam, from Greece and Arabia respectively, both maintain that the length of a solar year is less than 365 days and six hours. There is, however, a difference between the figures each of them suggests. According to contemporary science, the length of a tropical solar year is 365 days, 5 hours, 48 minutes and 45 1/2 seconds. It is decreasing at the rate of 0.530 second per century.
+
 [^4]: Chapter 6, Halachah 10.
+
 [^5]: This figure is based on the following principles: The times of the seasons are calculated according to the opinion of Rabbi Yehoshua, who maintains that the world was created in Nisan. Although the lunar calendar is calculated according to the opinion of Rabbi Eliezer, who maintains that the world was created in Tishrei, our Sages did not see a contradiction in interrelating the two conceptions, as we will continue to explain.  
     The conjunction of the month of Tishrei is the hour of man's creation, the fourteenth hour of Friday, the sixth day of creation. Based on this figure, by subtracting six times 1 day, 12 hours, and 793 units (the remainder of a lunar month), we can calculate that the conjunction of the month of Nisan - six months before creation - took place on Thursday, nine hours and 642 units after nightfall.  
     The vernal equinox is calculated according to the conception that the world was created in Nisan. The sun was created in the first hour of the fourth day of creation. This is considered the first vernal equinox. Thus, the autumnal equinox (half a year later) took place on Wednesday, three hours after daybreak, one day and twenty-three hours before the conjunction of Tishrei.  
     Since there is a difference of five days, ten hours, and 642 units between six months according to the lunar calendar, and half a year according to the solar calendar, it follows that the conjunction of Nisan was seven days, nine hours, and 642 units after the vernal equinox (*Perush*).
+
 [^6]: For the calculations will be based on Rosh Chodesh Nisan, which took place this amount of time after the vernal equinox.
+
 [^7]: A significant point arises from these statements, when one calculates the progression of the date and time of the vernal equinox by adding one hour and 485 units for each nineteen-year cycle. It follows that within the entire six millennia of the world's existence, the vernal equinox will have advanced approximately fifteen days. Thus, from the standpoint of the solar calendar, it will always be possible for Pesach, the fifteenth of Nisan, to occur in the spring.
+
 [^8]: The difference between a lunar year and a solar year, as stated in Chapter 6, Halachah 4.
+
 [^9]: I.e., calculate every group of 1080 units as an hour, and every group of 24 hours as a day.
+
 [^10]: By making this subtraction, one bases the calculation on the conjunction of the month of Nisan, and not on the time of the first vernal equinox, which preceded that conjunction by this number of days and hours.
+
 [^11]: Until this point in the calculation, the Rambam has not taken into consideration the existence of leap years. He does this now by grouping the remainder into months and subtracting the complete months. The number of complete months subtracted represents the number of leap years that have passed in the nineteen-year cycle.
+
 [^12]: There are 30 hours between the time of the equinox (or solstice) of one year and the next. Since the first vernal equinox took place at nightfall between Tuesday and Wednesday, the second vernal equinox took place at midnight between Wednesday and Thursday, the third at daybreak on Friday, and the fourth at noon on the Sabbath. Similarly, in subsequent years, the time of the equinox will continue to advance in six (i.e., 30) hour intervals according to such a pattern.
+
 [^13]: There is a difference of seven and a half hours between the time of the vernal equinox and the time of the summer solstice. Since the first vernal equinox took place at nightfall, the first summer solstice took place at 1:30 AM. Afterwards, the time of the summer solstice advances in six- (i.e., 30-) hour intervals every year, in a manner parallel to the progression of the vernal equinox, as described in the previous note.
+
 [^14]: The first autumnal equinox took place at 9 AM. Afterwards, the time of the equinox has advanced in six-hour intervals, as explained.
+
 [^15]: The first winter solstice took place at 4:30 PM. Afterwards, the time of the solstice has advanced in six-hour intervals, as explained.
+
 [^16]: This number is chosen because after twenty-eight years, the equinox takes place on the same day of the week and the same hour as it did originally. This figure can be calculated as follows: 1 and 1/4 days (the difference between the time of the equinox in two successive years) times 28 equals 35 days. Thirty-five days are five full weeks.  
     Based on this calculation, it is each twenty-eight years that the sun returns to its original position at the time of creation. To commemorate this occurrence, a special blessing, *Birkat HaChamah*, is recited. (See *Hilchot Berachot* 10:18.)
+
 [^17]: The difference in the time of the equinox from one year to the next.
+
 [^18]: I.e., the night between the Sabbath and Sunday.
+
 [^19]: I.e., the night between Tuesday and Wednesday. By making this addition, it is possible for these calculations to start from the beginning of the week.
+
 [^20]: The commentaries understand this as an indication that this portion of the *Mishneh Torah* was composed during that year.
+
 [^21]: The date of the equinox also can be determined by the calculations mentioned in Halachah 4. In this and the following halachot, however, the Rambam offers a simpler calculation, which uses approximations, but ultimately enables one to arrive at the same result.
+
 [^22]: The Rambam is using an approximation. The difference between a lunar year and a solar year is ten days, twenty-one hours, and 204 units. However, to simplify the calculation, the Rambam rounds off the figure to eleven days.
+
 [^23]: I.e., in the Rambam's time. The figure of seven days is reached as follows: In the year 4930, 259 nineteen-year cycles had passed. When an hour and 485 units are added for every nineteen-year cycle, a total of 15 days, 15 hours, and 335 units is obtained. Since the first equinox took place more than seven days before the conjunction of Nisan, eight days are subtracted from this figure, leaving a remainder of approximately seven days.
+
 [^24]: To account for any leap years. Here, too, the Rambam is rounding off the figure; the length of a lunar month is slightly less.
+
 [^25]: Since the calculation suggested by the Rambam contains several approximations, it may not be exact, and days may have to be added to reconcile the discrepancy.
+
 [^26]: There will be more than thirty days remaining. Therefore, the reckoning should be made from Rosh Chodesh Adar.
+
 [^27]: Further calculations are necessary, for in this instance, it is impossible that the equinox will take place on the first of the month, the eighth, or the fifteenth.
+
 [^28]: I.e., although the calculation mentioned by the Rambam operates using approximations, the difference between these approximations and the actual data will hardly ever exceed three days.
+
 [^29]: The maximum difference between the approximations employed by the Rambam and the actual data is three and one half days. Thus, it is possible, but highly improbable, that there be a four-day difference.

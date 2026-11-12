@@ -22,6 +22,7 @@ The integral connection of religion or spirituality to Asian martial arts has lo
 “Martial art” is a modern term for Asian combative practices and the discourses arising from them spanning long centuries of transmission. Martial arts are a whole comprised of philosophy, religion, magic, medicine, and the combat skills needed to defend the self, family, community, religion, and state; as such they are microcosms of culture *par excellence*. By “martial art” I am referring to an ontological and an epistemological category; a martial art is composed from a series of parts (philosophy, religion, magic, medicine, and combat skills), conceived and configured into an analytical whole. Therefore martial arts may be understood as a complex “multiplicity” (Deleuze and Guattari 2002: 8).[^2]
 
 [^1]: Malaysian informants use the term *silat* to describe Malay martial arts. Following their use I employ *silat* as a noun, and *bersilat* as a verb meaning to “play” *silat. Bersilat* is abbreviated from “*bermain silat*,” which literally means “to play *silat*.” *Pesilat* refers to what Malays call the “*silat* player” or practitioner. There is a formidable arsenal of terms used to refer to martial arts in Southeast Asia, and many problems of definition, semantics and synonyms. In Malaysia, Malay martial arts are referred to as *seni silat* (the art of *silat*), *bersilat, ilmu silat*, (*silat* science/magic), and *seni-beladiri* (self defence). *Gayong* is another synonym for *silat* in Malaysia and Sumatra. There are many variations in Indonesia, but basically in Sumatra *silat* is called *silek*, and in Java *silat* is known as *pencak silat*. Chinese kung fu fused with *silat* is known as *kuntao*.
+
 [^2]: Martial arts offer insights into discourses of power, body, self, identity (Zarrilli 1998), gender, sexuality, health, colonialism, nationalism (Alter 1992, 2000), history, culture (Sheppard 1972), emotions (Rashid 1990), and warrior cults (Elliot 1998). Ethnographic literature documenting the martial arts began to flower in the 1990s including, for example, Lowell Lewis (1992) on the Brazilian martial art *capoeira*; Wiley’s (1997) *Filipino Martial Culture*; and Zarrilli’s (1998) work on *kalaripayattu*.
 
 *[p. 4]* ^pg19
@@ -49,7 +50,9 @@ Prologue
 This account of the Malay martial art *silat* focuses upon a particular *silat* organization called Seni Silat Haqq Melayu. Pa’ Ariffin, who is a follower and bodyguard (*hulubalang*) of the Malaysian Prince H.R.H Shaykh Raja Ashman, leads Seni Silat Haqq Melayu.[^5] Raja Ashman is the son of the Sultan of Perak, and a foremost figure (*caliph*) of a transnational organization of Islamic mystics known as the Haqqani-Naqshbandi Sufi Order (*tarekat*).[^6] The Haqqani branch of the Naqshbandi Order—there are many branches, see Nicholson \[1914\] (1963), Trimingham (1971), and van Bruinessen (1992, 1998)—is headed by Shaykh Nazim, who is venerated as a living Saint, and regarded 
 
 [^4]: Wilkinson is perceptive when he says that Islamic mysticism “when it takes the pantheistic form of self-identification with emanations from a divine principle” is the source of many performances such as the *dabus* (where “aspirants” stab themselves with *keris*) (Wilkinson 1906: 16).
+
 [^5]: In the Malay language (*Bahasa Melayu*) *pak* abbreviates *pak cik* meaning “uncle,” *mak* abbreviates *mak cik* (aunt), and these are used as an honorific prefix by *silat* elders, and connote a kind of fictive kinship. In Malaysia many *silat* masters may prefix their name with *cikgu* (teacher) rather than *guru silat*, although the terms can be used interchangeably. Many students simply refer to the teacher as “*Pak*” (said *Pa*’ as the “k” is not aspirated in Malay). Javanese Malays may use the term *wak* (Uncle) or *embok* (Aunt) in much the same way (only here the “k” is aspirated). In Indonesia, *guru silat* may be called *ibu* (mother) or *pak* (father, from *bapak*) (Farrer 2006a: 29 n13). Pa’ Ariffin uses the old style *Pa’* in writing his name and his overseas students run the words together calling him something like the incenderary liquid “paraffin.” I have adopted this usage throughout.
+
 [^6]: *Caliph* means deputy, ruler of the community of Islam.
 
 *[p. 6]* ^pg21
@@ -65,6 +68,7 @@ Here the *guru silat* and many of his followers gathered together with two conta
 At the time I was reading *When Prophecy Fails*, and this curious ethnography of a millenarian cult in 1950s America prompted me to attempt a lone ethnography of 
 
 [^7]: In Peninsular Malaysia the term *seni* (art) differentiates Malay *silat* from Indonesian *pencak silat*.
+
 [^8]: Nielson (1998: n.p.) notes the same phenomenon in Lebanon where Naqshbandis gathered to wait out the New Millennium after stark predictions of the world’s demise from the group’s leader Shaykh Nazim.
 
 *[p. 7]* ^pg22
@@ -78,6 +82,7 @@ Later, other camps were spoken of, this time more for *silat* than anything else
 Upon his return to London Pa’ Ariffin began to concentrate his efforts upon introducing *silat gayong* to the U.K. The remaining students of Seni Silat Haqq Melayu expressed a strong dislike for their new uniforms, with their three-quarter length trousers and pointy hats (*tanjat*), and regarded the idea of shifting from Seni Silat Haqq Melayu to Silat Seni Gayong U.K. as an inverted metamorphosis, a “status degradation,” where the polished style of the aristocrats was to be replaced by what they regarded as a crude peasant prototype.[^10] Late in 2002 Pa’ Ariffin brought a contingent of Silat Seni Gayong Malaysia students (*pesilat*) to the U.K., and using funds derived from a few of his diehard British students set up a theatre show in London called *Silat: Dance of the Warriors*. The show ran for one week and although it 
 
 [^9]: For a useful discussion of literature concerning cognitive dissonance see Luhrmann (1989: 268–273).
+
 [^10]: Finkelstein (1996: 678) points out that: “Although he \[Garfinkel\] listed eight conditions required to achieve status degradation the notion hinges on the way in which ‘moral indignation brings about the ritual destruction of the person being demeaned’ (1956: 421) so that ‘he must be defined as standing at a place “outside,” he must be made strange’ (op. cit.: 423).” Finkelstein uses this notion to explain the collapse of authority in the prison when a new governor refused to implement the Christmas staff rota, leading to his inability to run the prison, and his subsequent replacement. Finkelstein argues that the governor’s appointed task was to degrade the prison from “a tough place for hard men to a closed training prison. In attempting to accomplish this task the governor was made “strange” and in the process orchestrated his own degradation” (Finkelstein 1996: 682). As we shall see, a similar process is at work in Seni Silat Haqq Melayu with the collapse of the authority of Pa’ Ariffin when he shifted his attention from Seni Silat Haqq Melayu to Silat Gayong Malaysia U.K.
 
 *[p. 8]* ^pg23
@@ -93,6 +98,7 @@ This development of *dakwah* (lit. to summon or to call to Islam) Shamsul dubs �
 To control the *dakwah* movement the Malaysian government must define its position and trajectory, and oppose those nonhegemonic *dakwah* elements it deems extreme or deviationist. By the year 2000, The Islamic Development Department of Malaysia (Jakim) had compiled a list of 125 so-called “deviationist” religious cults which are said to move “about the country as *silat* groups or as people imparting lessons on the art of self-defence.”[^12] These groups include the “Qadiani, Taslim, \[a\] movement spreading the teachings of Hussein Anak Rimau, Budi Suci,” Nasrul 
 
 [^11]: As Shamsul points out “*dakwah* is an Arabic word meaning salvation, including evangelical activity” (Shamsul 1994: 101). See also Mutalib (1993). Kessler (1986) discusses the acrimonious dispute between Shamsul (1983) and Nagata (1980, 1984) concerning the *dakwah* phenomenon.
+
 [^12]: Jakim Research Division Director, Mustafa Abdul Rahman, quoted in *The Straits Times*, 18 July
 
 *[p. 9]* ^pg24
@@ -106,6 +112,7 @@ Elsewhere, Shamsul notes that it is important to distinguish “the longstanding
 Nagata (2004: 113) briefly considers several possible models for such an Islamic state from the Middle East and from the seventh century CE city-state of Medina, and notes the exemplary living in alternative religious communities has the potential to demoralize “incumbent political regimes” and that this is “disturbing” to the authorities. Nagata concludes by mentioning the traditional diasporic and proselytizing function of Sufi *tarekat*, and says that: “It may be tempting, further, for outsiders to view these linkages as an infrastructure which may opportunistically serve, on occasion, as a conduit for less quiescent activities, including terrorism. In a post-9/11 climate, there is always the temptation, looking backwards at such networks, to see more teleology, conspiracy, or militancy, and to tar all Islam with the same subversive caricature.” Although Nagata makes several references to the Naqshbandi Sufis under Sheikh Nazim, in this article she mainly reworks and repackages old material concerning Al Arqam. Furthermore, her message regarding the Naqshbandi Sufi *tarekat* is not clear: are they an alternative form of governance, or merely a religious movement?
 
 [^13]: For an account of Nasrul Haqq see Nagata (1980: 433–434; 1984: 64–69).
+
 [^14]: Al-Ma’unah are also known as the Al-Ma’unah arms heist gang, so-called because they raided a military armoury on 2 July 2000 and stole more than one hundred assault rifles, grenade launchers and ammunition. Before surrendering after a tense five-day standoff the group killed two of its four hostages (*The Straits Times*, 13 July 2000. “Al-Arqam Cult Back Under Different Name”). According to the police, the Al-Ma’unah cult were terrorists who planned a violent uprising to overthrow Prime Minister Mahathir Mohammad’s government (*The Straits Times*, 12 July 2000. “Cult’s Killings Go Against Islam”).
 
 *[p. 10]* ^pg25
@@ -123,6 +130,7 @@ Entry to the Group
 My initial entry into the group occurred in 1996 after I saw an advert for black-belt training in the gymnasium of Middlesex University.[^16] I turned up to winter class and spent an evening rolling around the floor on mats. After two sessions Pa’ Ariffin 
 
 [^15]: I adapted the notion of “the tain of the mirror” from Gasche (1986).
+
 [^16]: I first began training martial arts in England at the age of eight in the 1970s. Later I studied Chow’s Family Praying Mantis Kung Fu as an indoor student under *Sifu* Paul Whitrod from 1988– 1996. An “indoor student” trains full-time, and teaches instead of paying for classes: adopted by the master, they are taught beyond the regular syllabus. Normally I would train three to five hours daily. On the day of my “graduation” my instructor told me to study another martial art, and explore it thoroughly before returning. After some deliberation, I took up *silat*. Hence this project may be viewed in relation to the anthropology of experience (Laderman 1994; Turner and Bruner 1986; Turner et al. 1992).
 
 *[p. 11]* ^pg26
@@ -136,6 +144,7 @@ At the end of the class the lights were switched on and I was asked to spar with
 Subsequently, I have had so many entries into and exits from the group that it is impossible to summarize them all. For the most part Pa’ Ariffin treated me with respect, and extended a warm friendship, especially when I first visited Malaysia in 1999, and met him at the *zawiya* (Sufi lodge) in Kuala Lumpur. Except for the time I knocked out the European *silat* champion, Abdul Rahman, in a match in 1998, I have never fought any of his other students. During training I was partnered with Chief, a diminutive adolescent, for the next two years, and irrespective of my 
 
 [^17]: I realized later that this was Shaykh Kabbani, the son-in-law of Shaykh Nazim, and one of the leaders of the Haqqani Order.
+
 [^18]: This hammer-hand strike (*gau choi*) derives from Chow’s Family Praying Mantis Kung Fu.
 
 *[p. 12]* ^pg27
@@ -159,8 +168,11 @@ My main sample includes nine *guru silat*.[^20] Some prefer to be called *cikgu*
 By examining the social identities of various *guru silat* a composite picture can be produced. This composite, whilst not existing in real life, does seem to offer some useful boundaries helpful in defining the *guru silat*. All of the *guru silat* have knowledge and experience of the main roles—it is a question of how much emphasis an individual places on a particular role and the recognition the individual receives from the community. Rashid however points out that in the Malay village the *imam, guru silat*, and *shaman* belong to different traditions and schools 
 
 [^20]: Whilst taking an instructor’s course in *silat* I also met and trained daily with forty Singaporean and Indonesian *silat* instructors and their senior students for three weeks in Singapore in July– August 2001.
+
 [^21]: A “star group” is characterized by highly intensive relations as “the group one most desires to belong to and enjoys belonging to” (Turner 1988: 44–45). Turner (ibid.) differentiates the star group from the primary group, in-group, reference group, membership group, friendship group and kinship group.
+
 [^22]: For Turner “A mystical character is assigned to the sentiment of humankindness in most types of liminality, and in most cultures this stage of transition is brought closely in touch with beliefs in the protective and punitive powers of divine or preterhuman beings or powers” (Turner 1969: 105).
+
 [^23]: Regarding *kuda kepang* see Burridge (1961) and Heinze (1988: 235).
 
 *[p. 14]* ^pg29
@@ -186,6 +198,7 @@ Given Malinowski’s (1948) hypothesis that magic is seen in situations of chanc
 Magical roles are difficult to sustain nowadays given the pariah status modern Islam in Malaysia and Singapore attaches to so-called “Islamic deviation.” However, there is still a demand from the Malay community for the services of *guru silat* in a *bomoh* (indigenous healer) capacity. For example, *guru silat* Samat is regularly called to deal with cases of possession (*rasuk*). Upon arriving at a house in the middle of the night *guru silat* Samat found upset parents who said that their son was possessed. He examined the son, who was hiding in the toilet, and then proceeded to slap him hard. Eventually the son confessed that his spasms and convulsions were withdrawal symptoms from his addiction to heroin, a condition unknown to his parents, but readily apparent to *guru silat* 
 
 [^25]: Malinowski said: “Again, in warfare the natives know that strength, courage, and agility play a decisive part. Yet here also they practice magic to master the elements of chance and luck” (Malinowski 1948: 14).
+
 [^26]: Sir Hugh Clifford, the former Pahang Resident, provides the following description of the Malay *hulubalang*: “In every Independent Malay State there is a gang of fighting men which watches over the person of the King and acts as his bodyguard. It is recruited from the sons of the chiefs, nobles and men of the well-bred classes; and its members follow at the heels of the King whenever he goes abroad, paddle his boat, join with him in the chase, gamble unceasingly, do much evil in the King’s name, slay all who chance to offend him, and flirt lasciviously with the girls within the palace. They are always ready for anything, ‘from pitch-and-toss to manslaughter,’ and no Malay King has to ask twice in their hearing, ‘Will nobody rid me of this turbulent enemy?’ Their one aim in life is to gain the favour of their master and, having won it, to freely abuse their position” (Clifford \[1897\] 1989: 145–146).
 
 *[p. 16]* ^pg31
@@ -265,6 +278,7 @@ One of the sayings of the Prophet Mohammad is “keep what you are doing secret�
 In other words, it is Satanic to ask questions, and Satanic to propose—let alone live by—a discreet model of the self. So much for dialogical consultation.[^32] Pa’ Ariffin 
 
 [^31]: I have learned bits and pieces from many *silat* styles and have been given permission to teach three. First, on 17 December 1997 after two years of full-time training in Seni Silat Haqq Melayu, I was invited to teach the style. During 1998 I took private lessons in Silat Lima Beradik (in Singapore), graduating with a ritual feast (*kenduri*) and the gift of a Malay knife (*keris*). Together with Pa’ Ariffin I undertook an accelerated instructor’s course with Silat Seni Gayong in Malaysia in 2001. In the same year I took and passed an instructor’s course in Singapore in *silat olahraga* (sport *silat*). *Silat olahraga* is a modern composite comprised of four sets of movements consisting of techniques drawn from Indonesia, Malaysia, Brunei, and Singapore. In 2002 I took lessons in Pencak Silat Cimande and Silat Grasio. In Malaysia, in 2003, I studied Silat Kuntao Melaka, (a codename for the banned Seni Silat Hulubalang Melaka), and returned to Silat Seni Gayong to learn more knife fighting (*buah pisau*). Since 2002 I have been learning *silat* taught to me in secret by elders of my wife’s family. Aside from this over the past six years I have observed hundreds of commercial *silat* classes, watched eighty-eight demonstrations of wedding *silat*, and interviewed over one hundred *silat* masters (*guru silat*), and their students in Malaysia and Singapore.
+
 [^32]: The injunction against questions makes it pointless to attempt a survey approach (questionnaires or structured interviews) to Seni Silat Haqq Melayu, after the style of Barker (1984) who, after a twelve year ethnography surveyed Moonies, ex-Moonies, and those considering joining the Moonies to see if they joined out of free will (choice), or because of “brainwashing.” The use of the survey approach to confirm ethnographic results is a popular adaptation by sociologists to anthropological field methods to attempt to ensure their social scientific reliability (Agar 1996; Alfred 1976; Babbie 2001; Pelto 1970). However, some anthropologists regard survey triangulation as simply evidence of weak ethnography and of sociological insecurity with the method.
 
 *[p. 21]* ^pg36
@@ -302,8 +316,11 @@ So much talk of secrecy alerted me to observe all the more carefully. Given the 
 The nature of social research is partial, not absolute. The issue of secrecy hinges on trust, and trust only develops over time with the development of a shared understanding. Where informants have requested that I keep data secret I have done so, 
 
 [^35]: Evans-Pritchard is instructive in the matter of perseverance in the face of difficult ethnography. Upon arrival in Sudan, he travelled miles out into the Nuer territory, and made contact, whereupon his servants abandoned him in his tent (Evans-Pritchard 1940: 10).
+
 [^36]: Islam prohibits alcohol as it is perceived to be an intoxicant that makes the individual lose their sense of self in submission to God.
+
 [^37]: *Jinn* in Arabic, means “hidden.” The *alam ghaib* includes spirits from the Islamic pantheon such as *jinn Islam* (good Muslim spirits), and *jinn kafir* (evil non-Muslim spirits), as well as indigenous Malay entities such as ghosts (*hantu*), faeries (*pari pari*), and vampires (*pontianak*). Chittick points out that: “In the Islamic intellectual tradition the Arabic words used to name the substance of these intermediate, fiery creatures can best be translated as ‘image’ (*mithâl*) or ‘imagination’ (*khayâl*). This does not mean that the *jinn* are ‘imaginary’—far from it. In fact, they are more real than creatures made only from clay, since they possess more of the attributes of light, which are the attributes of true existence” (Chittick 1992: 133).
+
 [^38]: Finkelstein’s approach is influenced by La Peirre (1934: 230–237), who challenges (Weberian) claims that attitudes (the Protestant Ethic) dictate actions (capitalist behaviour). La Peirre visited 137 hotels, guesthouses and trailer parks in 1930s America accompanied by a Chinese couple. In a follow up survey La Peirre asked each establishment if they would serve Asian guests, and fifty percent (of those who replied) said they would not. However, La Peirre whilst on his travels with the Chinese couple had only been refused service once.
 
 *[p. 24]* ^pg39
@@ -371,6 +388,7 @@ Many Southeast Asian *silat* performers, especially Javanese and Sumatran immigr
 Hundreds of different *silat* styles exist across the major islands of the Indonesian archipelago, especially Java, Sumatra, Aceh, Sulawesi, and the Riau Archipelago. Distinct styles of *silat* are also to be found in Brunei, East and West Malaysia, the 
 
 [^42]: Andaya and Andaya (2001: 26) say the power of Srivijaya derived from its rulers’ influence over the Orang Laut, whom they describe as a piratical fierce fighting force. This holds good for the Malay system of governance with the *laksamana* (admiral) in charge of exercising this force. Indeed, the *laksamana* may have been Orang Laut, as was Hang Tuah himself (Andaya and Andaya 2001: 74).
+
 [^43]: Historically the Malay societies of Peninsular Malaysia, Singapore, and the Riau Archipelago were stratified into three classes: the royal family (sultans and rajas), the aristocracy (*bangsawan*), and the peasants (*ra’ayat*) (Andaya and Andaya 2001: 46–51; Farrer 2006a: 26; Gullick 1958:
 
 *[p. 29]* ^pg44
@@ -384,8 +402,11 @@ It is difficult to assess how many people practise some form of *silat* in Penin
 The word *silat* is said to derive from *silap* (to make a mistake). This means that you use the opponent’s strength against them—in their strength lies their weakness. This strength could be physical or psychological. Other etymological roots suggested by informants include *sekilat* meaning “as fast as lightening” derived from *kilat* (lightning); *sila* (as in *silsilah* or chain) indicating the transmission of *silat* from *guru* to *murid* (disciple of *silat* or other religious or secular knowledge); and more mysteriously, from the Arabic *solat* (prayer), although linguists regard *solat* as an unlikely candidate for the etymological root of *silat*.[^47] Other contenders for the etymological root of *silat* include the Orang Selat (an indigenous Malay people of Singapore), and *selat* as in Selat Melaka (the Straits of Malacca).
 
 [^44]: In Thailand a relative of *silat* appears in the form of the traditional Thai martial art, known as *krabbi krabong*.
+
 [^45]: Interview with Haji Abdullah Shafiie, President of PERSISI (Persekutuan Silat Singapura—established in 1973) in Singapore, August 2001.
+
 [^46]: *Tengku* is a royal Malay title.
+
 [^47]: Geoffrey Benjamin, personal communication 10 October 2002.
 
 *[p. 30]* ^pg45
@@ -401,6 +422,7 @@ To prefix *silat* with either *pencak* or *seni* is a political issue given the 
 Al-Attas notes that the Holy Quran can be read in its exoteric or esoteric aspects and that “it is the latter, like a Rosetta Stone which when deciphered would reveal inexhaustible treasures that comprises the ‘wellspring’ from which Sufism develops” (al-Attas 1963: 4). This insight applies to *silat*, where *pencak silat* is the exoteric aspect, and *seni silat* is the esoteric aspect. In other words, *pencak* (fighting) can be regarded as the z*ahir* (outer/exoteric knowledge), whilst *seni* pertains to 
 
 [^48]: Pa’ Ariffin is making an implicit reference to Sun Tzu’s classic text *The Art of War*.
+
 [^49]: *Pulut* denotes sticky rice, and is often associated with special festival food.
 
 *[p. 31]* ^pg46
@@ -470,6 +492,7 @@ There is another *silat* club called “Seni Silat Haqq” based at the Universi
 Seni Silat Haqq Melayu must also be differentiated from “Seni Silat Al-Haq,” a style of *silat* originating from Singapore; the latter is one of eighteen styles 
 
 [^55]: Anthropological or sociological accounts of Sufism have focused primarily upon the Sufi organization and the charisma of the saints (Evans-Pritchard 1949; Gellner 1969; Gilsenan 1973; Lindholm 1990). There are few works specifically concerning the Naqshbandi Sufi *tarekat* in Southeast Asia (al-Attas 1963; van Bruinessen 1998, 1992). Recent scholarship has turned towards the study of transnational Sufism (Nielson 1998; Werbner 2003; Werbner and Basu 1998; Zhelyazkova and Nielson 2001).
+
 [^56]: See http://www.umich.edu/%7Esilat/pencaksilatpentjaksilatsenihaqqminangkabausatriamudainstructorpr ofile.html>.
 
 *[p. 36]* ^pg51
@@ -481,6 +504,7 @@ The Haqqani Sufi *tariqa* (*tarekat* in Malay) of Shaykh Nazim al-Qubrusi al-Haq
 Though the Haqqanis adopt so-called “folk” religious practices such as the use of talismans, due to their royal orientation they would shun the idiom of “folk Islam.” Shaykh Nazim’s group seems to collapse the distinction between “high” and “popular” (folk) Sufism established by Nicholson \[1914\] (1963: 131, 139), as their mission is to diffuse “high” Sufism among the masses. The Shaykhs establish and maintain extensive transnational links through their first-class-jet-set lifestyles, supplemented with the use of substantial websites, a host of publications and email. Centres have been established in North America, Britain, most of Western Europe, the Middle East, South Asia and Southeast Asia (Nielson 1998: n.p.). I would agree with Neilson who says that it is difficult to establish the number of members worldwide “as the very concept of membership is nebulous, and declaration of adherence (*bay’a*) at a meeting led by Shaykh Nazim is easy, as distinct from most other Sufi groups which require an often lengthy initiation process” (Nielson 1998: n.p.).
 
 [^57]: Interview with Cikgu Jamal of Silat Serentau, Singapore (Pa’ Hosni’s former student).
+
 [^58]: According to Andaya and Andaya (2001: 55) no necessary connection may be made between Aceh and the historic Melaka Sultanate: evidence of the Sufi connection to the Melaka Sultanate is still unclear. My point is that the *Naqshbandiyyah* have had connections with Southeast Asian royalty for centuries.
 
 *[p. 37]* ^pg52
@@ -511,6 +535,7 @@ Despite their arduous religious observances and claims to tradition it is surely
 Nevertheless, the Haqqani-Naqshbandi Sufi *tarekat* are approached by many of the British (though not necessarily Caucasian) adherents as a type of New Age religion, which causes all sorts of upsets. For example, Pa’ Ariffin, whilst a Haqqani *Imam* (roughly a priest) in London, would bitterly complain that the female converts left their used tampons stuffed behind the radiators of Peckham Mosque, something unimaginable in Malaysia where menstruating women would not enter the mosque as a matter of course. Pa’ Ariffin narrates that he always had a problem in the United Kingdom with mothers: “This is not your mosque, this is Allah’s mosque,” they would say to him, to which he would reply, “Do you see Allah here or me here? If your kid misbehaves someone must tell them off.” More positively, consider Cecily, a petite Goth enchantress with long blue hair, who, scantily clad in black leather loved to dance in the firelight to feral music, in the midst of beer swilling drugged people at Glastonbury festival, casting her spell with a *pedang* (sword) in the “traditional” style of the Malay aristocracy.[^61] In bringing Islam to the west the Haqqani certainly have their work cut out for them. But this is to run ahead with the story, and for now I will turn to a brief outline of the forthcoming chapters.
 
 [^60]: Werbner (2003: 1 n1) usefully distinguishes between transnationalism, globalization (the global diffusion of ideas, images and consumer goods), and internationalism (which denotes relations between states in the international arena).
+
 [^61]: As Sarah Pike points out: “Native American jewellery and buckskins, pentagrams and crystals, anything in black or purple, flowery gauze skirts and “ethnic” clothes, leather bodices, boots or other medieval wear .… are part of a distinctively Pagan style” (Pike 1996: 132).
 
 *[p. 39]* ^pg54

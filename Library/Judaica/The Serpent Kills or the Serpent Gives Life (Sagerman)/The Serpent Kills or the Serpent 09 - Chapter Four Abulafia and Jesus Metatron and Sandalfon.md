@@ -30,11 +30,17 @@ analysis of this passage will be helpful at the outset of our effort.[^2] We may
 . . . And this for us is the secret of “forbidden and permitted,” because it “binds the seed,” “and releases the ten words \[or “things,” *devarim*\].”[^5] And revealed from it is the “knot of the arm”[^6] of the left that is called the knot of tefillin, which are strings called “threads of the sins” and they are created from “food” of wheat, and it is “thread and blood” and their secret is “raw matter, *Hokhmah* \[the second highest *sefira*, Wisdom\] and *Binah* \[the third highest *sefira*, Understanding\],”[^7] “raw matter, sun and moon,” and from there “the mind and the heart and the blood”[^8] and the liver and all the limbs, one in the other; and this was revealed before in the matter of the cycle \[illegible\] And know that if you wish to release the order ( erekh) that is made straight (nehlaf *l ha-yashar*), you decrease the first number (ro sh *misparo*) from the second, and remaining in your hand will be three, which are equivalent, or configured upon one root, which is near to equivalent \[here follow mathematical operations based on the numbers one, two and three\] . . . And so all the configurations, when you release the knots and their exchange, return to the straight configuration. And from here the sages said that this hints to man in the knots of the world, year and soul, because he is connected to them by nature, and if he will release their knots from him he will cleave in him who is above them, with the preservation of his soul . . . \[ Those who accomplish this\] are called scattered singular ones, sequestered (*mitbodedim*) to know God, blessed be His name, and they subdue themselves from pursuing 
 
 [^2]: In differing contexts and for divergent purposes, a number of these motifs have been observed by Scholem, Idel and Wolfson, as will be noted as we proceed. Idel, *The Mystical Experience in Abraham Abulafia*, p. 135, translates a portion of this passage.
+
 [^3]: See above, pp. 85–87.
+
 [^4]: *\[illegible\] Eden Ganuz*, MS Oxford-BL 1580, fols. 23b–24a; printed edition, pp. 47–48.
+
 [^5]: “Forbidden and permitted” shares the same numerical value as “binds the seed,” eight hundred and eight-eight. “And releases the ten words” has a numerical value of one thousand eight hundred and eighty-seven; however, Abulafia will frequently take the value of the number one thousand and transpose it, adding it to the single digit position, which in this case would yield the value of “forbidden and permitted,” eight hundred and eight-eight. For another example of this practice, see above, p. 103 n. 207.
+
 [^6]: Having as well a numerical value of eight hundred and eight-eight.
+
 [^7]: The numerical values of “threads,” “the sins,” “food of wheat,” “thread and blood,” “raw matter,” \[illegible\] and “and *Binah*” are all seventy-three.
+
 [^8]: The numerical values of “sun and moon” and “the mind and the heart and the blood” are one hundred and forty-six and one hundred and fifty-one, respectively. The difference could be the result of a scribal error, where a definite article, whose numerical value is five, may have been added to the second phrase.
 
 *[p. 181]* ^pg196
@@ -54,7 +60,9 @@ secret of twenty-two letters, from which is created “my flesh ( ”.)בשרי 
 ers, in good lines, if they will listen and if they will refrain from what he also announces (*be-mah she-besarohu gam hw’)* ), until they apprehend what he apprehends and they rejoice in that in which he rejoices. Because the straight region comes from one likeness, corresponding to the supernal likeness which dwells alone, and there is no god apart from Him and there is nothing more apart from Him. And He is the All and from Him is the All, and in Him is the All and He is the beginning of the All . . . And to Him will return the spirit of the All, with the binding of the parts, and the All is bound in all and from all and all. And in this it establishes the secret of all of the beginnings and the secrets of all prayers. And these are the uses and the great ascents which are gathered within the enlightened person with his knowing the secret of the *sefirot* and the arrangements, which are contained in the songs of ascents and in the orders of the received paths, which answer to the intellective. Throughout this passage are motifs that refer to the *shefa’,* or divine efflux. The latter partakes, as discussed, of two attributes, one divine 
 
 [^9]: I have opted to translate this enigmatic expression, ,מחי חצי as *mehi hasi,* “Blow of the Arrow,” but it could also read something like “My Mind, One Half ” (mohi *hasi)* or “One Half of a Blow” (mhi *hasù). \]* I believe that the expression is meant to suggest insemination, given what follows.
+
 [^10]: The phrase “The Source of Life for Life” has the same numerical value as that for “ ‘Blow of the Arrow’ is His name,” one hundred and sixty-six.
+
 [^11]: The word “weaving” and the phrases “in the Tanin” and “my flesh” all have the same numerical value, five hundred and twelve.
 
 *[p. 182]* ^pg197
@@ -66,8 +74,11 @@ At the outset of this passage, Abulafia seeks to draw a rough equivalence betwee
 An interesting analogy is presented here between the hand tefillin and man’s imaginative faculty. The latter, we have said, is of a material and sensual and, hence, satanic nature. Nevertheless, following in the perspective of Maimonides, the imagination is indispensable for achieving prophetic revelation. It must be subjugated and then utilized. In this respect, Abulafia’s attitude toward the tefillin of the hand is significant.[^15] It is a *misvah* to wear the bound hand tefillin (and, 
 
 [^12]: See, for example, Scholem, *Major Trends in Jewish Mysticism*, p. 131 for this theme.
+
 [^13]: For Abulafia’s equation of Torah with the ten *sefirot* and with the Active Intellect, see Scholem, *Major Trends in Jewish Mysticism*, p. 141; Idel, *Language, Torah, and Hermeneutics in Abraham Abulafia*, p. 33; Wolfson, *Abraham Abulafia*, p. 141.
+
 [^14]: See ibid., p. 149. The linkage of the raw or prime matter with evil is associated with an equivalence between the demonic Sandalfon and this matter. Idel, *Language,* *Torah, and Hermeneutics in Abraham Abulafia*, p. 119. Abulafia also adapts the polemic from *Toledot Yeshu* discussed earlier, writing that Jesus was conceived during Mary’s menses, the blood of which is the primordial matter. Idel, *Studies in Ecstatic Kabbalah*, p. 52.
+
 [^15]: See Wolfson, *Abraham Abulafia*, pp. 88, 150 n. 153, 194, 224 n. 137, to be discussed more fully below. Abulafia views the knot of the head tefillin as the counterbalance to the evil reflected in the hand tefillin. See Wolfson’s translation of a passage from *Hayyei ha-Nefesh*: “And the secret of the head and hand phylacteries is the two opposites \[mercy and judgment\].” Ibid., pp. 149–150 n.153. Nevertheless, a different perspective on Abulafia’s part will be discussed presently.
 
 *[p. 183]* ^pg198
@@ -79,7 +90,9 @@ Abulafia evinces the same attitude toward raw matter, which he identifies above 
 Abulafia’s ambivalence toward the raw matter may be displayed as well in its synonymity with bread. The “threads of the sins” of the hand tefillin’s knot are seen as “created from food of wheat,” which is “thread and blood.” In this obscure reference to bread, there appears again to be a resonance with the motif of eucharistic bread. We have seen earlier manna, likened to bread ([[Torah 46 - Eikev#^8-3|Deut. 8:3]]), associated by Abulafia with materialized intellection.[^18] The eucharistic bread, as discussed, 
 
 [^16]: See Scholem’s translation of a passage from *Hayyei ha-Olam ha-Ba'’. Major Trends in Jewish Mysticism*, p. 136.
+
 [^17]: See, for instance, Idel, *Language, Torah, and Hermeneutics in Abraham Abulafia*, pp. 100–101. See above, n. 14, and below for the identification of raw matter with blood, representative of the evil nature of corporeality.
+
 [^18]: See above, pp. 123–126, 150–151. There, the bringing forth of bread is elicited as a metaphor for the intellective product of letter permutation. In the current context, a eucharistic association may be strengthened in that bread is mentioned along with blood.
 
 *[p. 184]* ^pg199
@@ -91,7 +104,9 @@ Raw matter Abulafia will go on to describe in conjunction with man’s physical 
 In terms of the human body, as noted, the concept of *\[illegible\]* evokes the unclean blood of the menstrual cycle.[^21] Thus, as I have suggested, 
 
 [^19]: See *Sheva Netivot ha-Torah*, in Jellinek, *Philosophie und Kabbala*, p. 4, discussed above, p. 91. Idel, *Language, Torah, and Hermeneutics in Abraham Abulafia*, pp. 97, 140. Abulafia describes the mystic’s repeated derivation of fresh significations for the letters as their returning to their primal state. Ibid., p. 22. See also Wolfson, *Abraham Abulafia*, p. 108.
+
 [^20]: See Scholem, *Origins of the Kabbalah*, pp. 457–460, for the term’s usage among the Gerona kabbalists.
+
 [^21]: See above, n. 14, for Abulafia’s recourse to the *Toledot Yeshu* polemic with respect to menstrual blood. See also Wolfson, *Abraham Abulafia*, p. 220 n. 124, where menstrual blood is seen as cleansing of the woman after the fashion of the blood of circumcision for the man. For the zoharic conception of the uncleanness of menstrual blood as the effluence from the left, see Koren, “The Woman from Whom God Wanders,’ ” pp. 159–162; Wolfson, *Language, Eros, Being*, p. 60.
 
 *[p. 185]* ^pg200
@@ -126,6 +141,7 @@ In the current passage, “life” is the consequence of the unification of the 
 A merging of the two types of blood, good and evil, Abulafia discusses next as the “weaving” together of the front and back of the Tanin, the scriptural creature (Is. 51:9) which Abulafia takes, consistent with tradition, to be the Teli.[^27] This weaving is accomplished by means of the letters of the alphabet, that is, through letter permutation. From these operations “flesh” is created, but this is a now divinized flesh, as may be understood through the shared consonants of the expressions “in my flesh” and “Prince in me.” Procreative implications are apparent in this discussion of the generation of flesh, and the merging of the two types of blood may thus be perceived along the same lines as the merging of male and female emissions during sexual intercourse.[^28] Here the union occurs within the mystic at the moment of *devequt*, taking the form of a bodily transubstantiation, the likes of which we have considered already with respect to its Christian connotations. It is because this process occurs within the mystic’s own 
 
 [^27]: Sharf, *The Universe of Shabbetai Donnolo*, p. 184.
+
 [^28]: This is particularly likely given the medieval medical identification of blood with semen. Nirenberg, *Communities of Violence*, p. 155.
 
 *[p. 188]* ^pg203
@@ -135,7 +151,9 @@ being that the divinization is discussed as the presence of the “Prince” wit
 *Devequt* is next articulated as the return, with the liberation that it engenders, of the “spirit of the All” to the “All” itself. This discussion parallels that engaged in by medieval alchemists with respect to the prime matter, as befits the current passage. The hyle is embodied in its essence in the terrestrial philosopher’s stone of medieval alchemy, and the success of alchemical transmutation resides in a return of the hyle’s lower manifestation to its supernal source.[^30] And, indeed, it is apparent that Abulafia conceives of the All in terms of hylic matter.[^31] The connection of the All to the *sefira Yesod* by Abulafia is in this respect significant, for the word *yesod* had in Abulafia’s time become the accepted Hebrew term for “hyle” in texts translated from Arabic, as in the case of the anonymous translation of Saadia’s commentary 
 
 [^29]: This latter blood is referenced by Wolfson. *Abraham Abulafia*, p. 59 n. 167. See also ibid., p. 220 n. 124, noted above.
+
 [^30]: Patai, *The Jewish Alchemists*, p. 18. See as well, Pereira, “Heavens on Earth,” p. 137: “The stone that alchemy seeks to find might therefore be compared to the image of matter given in an anonymous twelfth century philosophical commentary on Plato’s *Timaeus*, where hyle, prime matter, is said to be the one and yet double root of everything: father and mother, form and matter of all bodies.” The discussion recalls the Aristotelian orientation adopted by Abulafia, who is very much concerned with the masculine nature of form, as against the femininity of matter. These, in turn, conform to Abulafia’s conception of ink and blood. Abulafia perceives these as well to be the two components of the divine name. *Mafteah \[illegible\]* MS Vatican-BA ebr. 291, fols. 33a; printed edition, p. 34; *Gan Nal,* MS Munich-BS 58 fol. 328a; printed edition, p. 41.
+
 [^31]: In *Sefer ha-Meliş* we find the Active Intellect referred to as “the material, human, hylic intellect.” MS Munich-BS 285 fol. 13b; printed edition \[illegible\] *ha-Sekhel* ), p. 19. Here we see the connection specifically drawn between the Active Intellect and the hyle. Elsewhere, Abulafia will elaborate further, both on the identification of the Active Intellect with the All and of the latter with the hyle. In particular, Abulafia draws an identification between the Active Intellect and the All in his discussion of the *sefira Yesod*. See *Gan \[illegible\]* MS Munich-BS 58 fol. 335a; printed edition, p. 65, where Abulafia associates *Yesod* with the Tanin and with the hyle. See also *Mafteah* *\[illegible\]* MS Vatican-BA ebr. 291, fols. 31a–b, printed edition, pp. 29–30, where the All is discussed as the “point” from which matter arises. The All, Abulafia relates, stems in turn from the three letters of the Tetragrammaton. Ibid., MS Vatican-BA ebr. 291, fol. 32a; printed edition, p. 31. See Wolfson, *Abraham Abulafia*, p. 145, for the identification of the Active Intellect as the All. See also idem, “Kenotic Overflow and Temporal Transcendence,” pp. 172–174, for the Active Intellect as the All and as the *sefira Yesod.*
 
 *[p. 189]* ^pg204
@@ -183,9 +201,13 @@ The reference to the Prince of the Countenance is to Metatron, whom we have cons
 In the current passage, one of the two aspects of Metatron, that aspect which is concealed, acts as an obstruction to revolving. The reference here is to the revolving of letters in the mystic’s activity of letter permutation.[^40] This conception of an obstruction to communion with the divine on the part of a portion of the Active Intellect conforms to what we observed earlier regarding the twofold *shefa’,* or divine efflux; the lower portion is the demonic, idolatrous obstruction which fills the mind of the mystic with deceptive products of the imagination.[^41] In the current context, that Prince, or the portion thereof that has dominion over the one who obstructs, would naturally be the higher, intellective component of the Active Intellect. In this respect there is a mobility to the terminology that Abulafia employs, one which we will encounter 
 
 [^37]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fol. 30a; printed edition, p. 56.
+
 [^38]: Wolfson, *Abraham Abulafia*, p. 83.
+
 [^39]: Wolfson observes Abulafia’s ascription of the attributes of head and tail, alluding to the first and last *sefirot*, to Metatron. Ibid., pp. 83–85. The same we have seen with respect to the Teli. The twofold conception of Metatron finds its roots in rabbinic tradition, where we encounter the notion of a twofold angelic Jacob/Israel, a theme elaborated upon by the German Pietists. See idem, *Along the Path*, pp. 5, 14, 20, 24, 145.
+
 [^40]: Idel describes this revolving with respect to the returning of the letters to their prime matter, from which they are subsequently recombined. *Language, Torah, and Hermeneutics in Abraham Abulafia*, p. 10.
+
 [^41]: Idel has noted Abulafia’s equation of the word “daemon” with the Hebrew “*dimyon*,” or “imagination.” *Language, Torah, and Hermeneutics in Abraham Abulafia*, p. 56. See above, p. 130 n. 60.
 
 *[p. 193]* ^pg208
@@ -195,13 +217,16 @@ frequently, and one which relates to the characteristic flux to Abulafia’s con
 And also according to our words as well \[as well as those of Maimonides concerning the front and back of the divine\] his \[Metatron’s\] concern is that he is Prince of the World, and thus “Prince of the World” and “the explicit name” are numerically equivalent.[^43] And there is no doubt on our part that one of the ways of the matters called “front and back” is that their secret is “spirit of the *\[illegible\]* as is written (Ez. 1:20), “Because the spirit of the *hayyah”* was in the *ofanim;”* it revolves the Torah, that is, the revolution of the twenty-two letters, and weighs them and exchanges them and permutes them in the first two hundred and thirty-one gates, in pairs of letters, as is written in *Sefer Yesirah* . . . And regarding this it says there, “Return the revolution front and back. There is no good higher than *oneg* (pleasure) and there is no evil below *\[illegible\]* (plague)”[^46] . . . And you will take whichever of them that you choose in your revolving of the wheel of the letters, because the two powers are in your hand.” We should note first that the title of “Prince of the World” belongs to the Teli.[^47] We learn that the “spirit” of the *hayyah* causes the “wheels” to “revolve.” This assertion alludes to the idea that the Holy Spirit is to be identified with the efflux from the Active Intellect;[^48] it is the divine potency that comes to the mystic as a result of his permutation, or revolution, of letters, and it is that through which he arrives at the 
 
 [^42]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fols. 30a–b; printed edition, pp. 56–57.
+
 [^43]: Both have numerical values of nine hundred and eighty-two.
 44\. These phrases both have numerical values of three hundred and one. The \[illegible\] are the angelic “wheels” in Ezekiel’s vision of the chariot.
 
 45\. One of the angelic “living beings” (plural, *hayyoi)* in Ezekiel’s vision.
 
 [^46]: *Sefer Yesirah,* Gruenwald ed., 2:2, 4 (paragraphs 18, 19).
+
 [^47]: This stems from the latter’s characterization as king of the world in *Sefer Yesirah.* Ibid., 6:1–2 (para. 59).
+
 [^48]: See above, pp. 88–89.
 
 *[p. 194]* ^pg209
@@ -215,8 +240,11 @@ And he \[Maimonides\] called the essence of matter and form that which is after 
 Here we learn more regarding Abulafia’s conception of the knots of the tefillin. He draws upon a talmudic tradition regarding the knot of the head tefillin as the backside of God that was shown to Moses. In this context, it is the knot of the head tefillin that Abulafia implicitly links with the imaginative aspect of the Active Intellect, as is apparent in his distancing of this knot, at the rear of God’s head, from His essence. The linkage of this knot with matter and form recalls the earlier discussion from *\[illegible\] Eden Ganuz*, where the knot of the hand tefillin was related to raw matter.[^52] In several places Abulafia relates 
 
 [^49]: Elsewhere in *Sitrei Torah*, the *hayyot* are perceived to be of an intellective nature, while the \[illegible\] are viewed as partaking of terrestrial generation and destruction. MS NY-JTSA Mic. 2367, fol. 52b; printed edition, p. 162. Further on, the \[illegible\] are collectively equated with Sandalfon, who is referred to as the Prince of the \[illegible\] the “rear” or “backside.” Ibid., MS NY-JTSA Mic. 2367, fol. 53a; printed edition, p. 164.
+
 [^50]: For background to this theme, see Segal, *Two Powers in Heaven*.
+
 [^51]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fols. 30b–31a; printed edition, p. 58.
+
 [^52]: The raw matter is often associated by Abulafia with matter without form, where the form is intellective, although here they both are linked with raw matter. See above, pp. 183–184, for a closely related discussion of the nature of raw matter. See also p. 94 above, where matter and form are associated with the lesser wisdom of the gentile sages.
 
 *[p. 195]* ^pg210
@@ -228,7 +256,9 @@ And the *gematria* \[of the expression, “the knot of the tefillin,” from *Be
 The phrase, “knot of the hosts of the sphere,” derived from a *gematria* intended to refer back to the knots of the tefillin and to prophecy, alludes to the celestial bodies assigned a status beneath their overlord, the Teli, from which, we have noted, emanate the imprisoning knots of the material world. Through this reference to the celestial hosts, Abulafia effects a transition from a discussion of the backside \[illegible\] of the divinity to one of other (aherim) gods. Abulafia reveals that he views that aspect of the Active Intellect (or Metatron) that is “behind,” in kind with the knot of the head tefillin, to be representative of the idolatrous impulse toward polytheism. This transgression, we have already seen, is exemplified most egregiously, in Abulafia’s estimation, by Christianity. That “which is one in nature and two by definition” appears to be matter and form here, such that these 
 
 [^53]: Wolfson, *Abraham Abulafia*, pp. 88, 194, 224 n.137.
+
 [^54]: The *\[illegible\]* for “knot of prophecies in the heart of prophecy” appears to be four short of the *\[illegible\]* for “knot of the tefillin,” which comes to one thousand five hundred.
+
 [^55]: Having the numerical value of one thousand five hundred.
 
 *[p. 196]* ^pg211
@@ -242,6 +272,7 @@ And there are for us regarding this two faithful testimonies, the divine, separa
 Here for Abulafia the notion of a separation between the divinity and the sphere of the celestial hosts is a crucial matter, preserving a 
 
 [^56]: See n. 52 above for the issue of raw matter as including or excluding form. Against the backdrop of Abulafia’s assigning of matter and form here to the knot of the head tefillin and the idolatrous *ahor,* it is noteworthy that he refers to matter and form as “one in nature.” For, if matter and form are identified with the corporeal and intellective spheres, as is frequently the case for Abulafia, his statement resonates with the claims of Christians with regard to Jesus’ status as the incarnate Logos, the very claims that he ostensibly wishes to deride as idolatrous. In the continuation of the passage, Abulafia will respond to such Christian doctrine, following the parameters of contemporary Jewish polemics.
+
 [^57]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fol. 31a; printed edition, pp. 59–60.
 
 *[p. 197]* ^pg212
@@ -255,6 +286,7 @@ Doubtless, Abulafia has in mind Jesus here. Abulafia asserts definitively that G
 A number of the subjects that we have just encountered—the front and rear of the divine, the twofold nature of the divine efflux, the *hayyot* and *ofanim* of Ezekiel’s chariot vision, and the knots of the tefillin—all coalesce, elsewhere in *Sitrei Torah*, around the theme of Metatron and 
 
 [^58]: This distinction is present in Maimonides’ thought, as, for instance, in *The Guide of the Perplexed* 2:4. There the celestial spheres, guided by intelligences, are themselves referred to as corporeal entities.
+
 [^59]: Abulafia at times posits God’s existence, in fact, as being entirely apart from and beyond the intellective sphere. *Sitrei Torah*, MS NY-JTSA Mic. 2367, fol. 34b; printed
 
 *[p. 198]* ^pg213
@@ -268,8 +300,11 @@ Abulafia continues by observing that there is only one compartment to the hand t
 Abulafia next identifies Sandalfon as the *Sar \[illegible\]* or Prince of the Backside, in opposition to Metatron, the *Sar ha-Panim*, or Prince of the Countenance.[^63] The expression “Prince of the Backside,” Abulafia 
 
 [^60]: Ibid., MS NY-JTSA Mic. 2367, fol. 53a; printed edition, p. 164.
+
 [^61]: Ibid., MS NY-JTSA Mic. 2367, fol. 52b; printed edition, p. 162: “. . . because all was in the vision of prophecy without a doubt, and all in the apprehension of the human intellect alone at first that is called the intellectual of forms, called the *\[illegible\]* and after this he recognizes that man, alone among all generation and destruction, who has a form divided above in two parts, and he receives efflux from two sides, and his efflux is called the Glory of God . . .” The passage proceeds in parallel with Abulafia’s citations from Ezekiel’s chariot vision, where Abulafia refers first to the *hayot,* then to the \[illegible\] and then to the enthroned male figure. Thus, the unnamed efflux opposite to that of the intellective *hayot* stems from the \[illegible\]
+
 [^62]: See BT. *Hagigah* [[Chagigah 13#13b|13b]]; *Pesiqta Rabbati*, 20.
+
 [^63]: Abulafia observes that Sandalfon is taller than his companions by five hundred arm’s lengths, and that there is another five hundred arm’s lengths from the earth to the firmament, yielding one thousand, the numerical value of the phrase “Sandalfon, *Sar ha-Ahor.”*
 
 *[p. 199]* ^pg214
@@ -283,8 +318,11 @@ In the present passage from *Sitrei Torah*, Abulafia next concerns himself with 
 letters \[of the name Shaddai\] are ”,ין לת וד writes Abulafia. Here, the 
 
 [^64]: Both have a numerical value of seven hundred and twenty.
+
 [^65]: That is, three hundred and fourteen. Wolfson, *Abraham Abulafia*, p. 148.
+
 [^66]: For Abulafia’s messianic self-identification with the name Shaddai and with the angel Raziel, see above, pp. 45–46. Abulafia identifies himself both as Raziel and as Metatron. From this we can see the association of the name Shaddai with the Active Intellect. For Abulafia’s identification of *Yesod* with the Active Intellect, see above, pp. 161 n. 138, 188–189.
+
 [^67]: See above, p. 140.
 
 *[p. 200]* ^pg215
@@ -300,7 +338,9 @@ Because, as the number for Metatron testifies and says, “I was created,” and
 As is so often the case, the “hint” mentioned is an elusive one. However, by working through the *gematriyot,* we find that the expression, “He bestows the nature of the blood,” is numerically equivalent to the phrase, “Sandalfon, Prince of the Backside,” discussed earlier.[^69] The word “Prince,” which Abulafia next adduces, has a numerical value of five hundred. A close interplay is at work between Metatron and Sandalfon beneath the surface of this passage. We have seen blood linked earlier with the demonic aspect of the tefillin, so we may expect Sandalfon to be the subtext of this reference, and this expectation is in accord with the numerical association drawn between blood and Sandalfon. Furthermore, the word “Prince” possesses the numerical value associated earlier with Sandalfon’s stature.[^70] Abulafia appears, then, to suggest that the “created” aspect of Metatron, the materialized 
 
 [^68]: Along parallel lines, see Wolfson, “Left Contained in the Right: A Study in Zoharic Hermeneutics,” pp. 27–52.
+
 [^69]: The numerical value of both is one thousand. See above, p. 198 n. 63.
+
 [^70]: We may note as well that Abulafia earlier pointed to the *gemalria* of the phrase “knot of the tefillin,” which comes to one thousand five hundred. This is the same numerical value as the sum of the words “He bestows the nature of the blood” (or, alternatively, “Sandalfon, Prince of the Backside”) and “Prince” in the current context.
 
 *[p. 201]* ^pg216
@@ -314,7 +354,9 @@ The knots suggested in this passage thusfar have both been seen to allude to San
 Here again, however, the numbers tell a tale in this discussion of the binding of Metatron with Sandalfon. The sums for “Sandalfon and Metatron” and “knot” are both six hundred. The sum for “the front rear” is four hundred. The sum for “two that are bound, knot 
 
 [^71]: In fact, Abulafia hints above that the two secrets are the same. He writes that “. . . the number for Metatron testifies and says, ‘I was created,’ and its secret is, ‘Understand my hint’ . . .” The latter two phrases each have the numerical value of three hundred and fourteen, the same as that for the name Shaddai, which, we can see, is “the number for Metatron.” So the secret disclosed concerning Sandalfon and blood is also seen as encrypted within the name Shaddai, as in the case of the name’s hidden letters.
+
 [^72]: Idel notes that Abulafia elsewhere equates Sandalfon with the prime matter, a notion derived from Maimonides’ conception of the E ofa nim, the tallest of which is deemed to be Sandalfon, as the prime matter. *Language, Torah, and Hermeneutics in Abraham Abulafia*, p. 119.
+
 [^73]: See Gikatilla, *Sha'arei Orah,* vol. 1, pp. 60, 89, 93–94; Scholem, *Major Trends in Jewish Mysticism*, pp. 240–241.
 
 *[p. 202]* ^pg217
@@ -326,6 +368,7 @@ And from it you will understand “knot of the tefillin” and it is “knot of 
 Abulafia proceeds from the observation that the letters of the word tefillin may be placed in an alternate sequence (a *temurah*) to yield the Hebrew word for “so-and-so” in the feminine form. The woman referred to here is the demoness Lilith, as is apparent from the usage of the word *shelilat*. Reinforced once more is the demonic thrust of the entire passage, as the knot of the tefillin which joins Metatron and Sandalfon is itself seen as demonic and feminine. The four phrases that Abulafia here subjects to numerical analysis each total one thousand five hundred, suggesting a link with the numbers one thousand, earlier identified with Sandalfon, and five hundred, also assigned to Sandalfon, the “Prince.” The latter portion of the passage, concerning Lilith’s resemblance to her creator, is somewhat obscure.[^75]
 
 [^74]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fols. 35a–38a; printed edition, pp. 74–86.
+
 [^75]: Her creator, given the context, may be Sandalfon here. Alternatively, it could be that Sandalfon and Lilith are being identified with one another. Sandalfon himself was the earlier secret of the phrase, “I was created.” Or, Lilith’s creator could be God. The secret from earlier in the text to which Abulafia alludes (“secret eleven of the first part”) concerns four permutations of the four letters *lamed, lamed, yod, yod* (components of the name Lilith), which there signify day and night in a sequence that changes according to the seasons. In the same discussion, Abulafia relates how the essential name of God, as with all names, occurs in three modes. This could recall how Lilith, above, possesses three “sections” to her nature, but see also below regarding her triadic composition. Ibid., MS NY-JTSA Mic. 2367, fol. 35a; printed edition, p. 74.
 
 *[p. 203]* ^pg218
@@ -335,9 +378,13 @@ The figure of Lilith in the Middle Ages had become a nexus for anxiety with resp
 In the current context, Abulafia sees her, as well, as the embodiment of the demonic and feminine aspect of the Active Intellect. Given Lilith’s nature, we may understand an important relation, for Abulafia, between her and Jesus. In the context of our earlier discussion of Abulafia’s anti-Christian polemics, we noted that Jesus himself embodied a threat to male identity. He stripped his disciples of their masculinity and gave them feminine forms. We saw as well that the demons confronting Abulafia posed the same type of threat. We may recall also that the sin of Nadab and Abihu, in the mind of the zoharic authorship, was their bringing of the divine into an erotic union with Lilith, 
 
 [^76]: See Sabar, “Childbirth and Magic,” for the rabbinic background of these conceptions of Lilith. See also *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-19b|1:19b]], one of many such examples concerning Lilith. For Lilith as a threat in childbirth, see also Patai, “Lilith,” p. 298.
+
 [^77]: In rabbinic tradition, she was seen to have been expelled from the Garden of Eden for assuming a sexually dominant role over Adam. Sabar, “Childbirth and Magic,” pp. 673–674. See also Patai, “Lilith,” p. 302, for Lilith as a succubus.
+
 [^78]: Wolfson discusses procreation in the *Zohar* as the engenderment of masculinity in the husband and as the consummation of the unification of the *sefirot*. “Crossing Gender Boundaries in Kabbalistic Ritual and Myth,” in Ostow, ed., pp. 284–285. Part and parcel of this, as we have seen, is the masculinization of the female partner. See also ibid., pp. 290–296.
+
 [^79]: See above, p. 140.
+
 [^80]: See above, p. 161 n. 138.
 
 *[p. 204]* ^pg219
@@ -349,6 +396,7 @@ Abulafia, in the current passage, does not distinguish between a good and an evi
 As Abulafia continues in his discussion from *Sitrei Torah*, a kind of reestablishment of Metatron occurs. Abulafia explains that the spirit of 
 
 [^81]: See above, pp. 139–140, where Abulafia equates Lilith (as “sorceress”) with the Teli—the Active Intellect, or its evil nature.
+
 [^82]: Isaac ben Jacob ha-Cohen, a contemporary of Abulafia, appears to put forward a doctrine parallel to the one presented by Abulafia here. Isaac describes a wholly evil interaction of a triad of forces. This triad is comprised of the masculine Samael and his mate, the feminine Lilith, with the Tanin intervening between them. Dan, “Samael, Lilith, and the Concept of Evil in Early Kabbalah,” p. 38. In Abulafia’s evil triad, we find the masculine Metatron and the feminine Sandalfon, with Lilith intervening between them. We find, then, Metatron and Sandalfon, in Abulafia’s formulation, paralleling Samael and Lilith, in Isaac’s, while Lilith, whom we have recognized as embodying the nature of the Teli in Abulafia’s formulation, in that she constitutes the evil knot binding Metatron and Sandalfon together, parallels the Tanin, also known as the Teli, in Isaac’s. This may encompass Lilith’s tripartite nature. The notion that we will continue to pursue, in Abulafia’s thought, of the oscillation in the Active Intellect between full goodness and full evil is paralleled by Dan’s sense that, for his own part, Isaac conceived “. . . of two systems of divine emanations, similar in many details but one of good and one of evil.” Ibid., pp. 39–40.
 
 *[p. 205]* ^pg220
@@ -368,6 +416,7 @@ It is important to avoid construing Abulafia’s shifting perspective on the dem
 Accompanying motifs such as the front and rear, head and tail and Metatron and Sandalfon as modes of characterization of the bifold nature of the Active Intellect, another pairing will concern us now. Abulafia indexes the Active Intellect in his bifurcation of the Tetragrammaton, YHVH, into two component parts, YH and VH. Two significant passages elucidate this theme. In one, from *Mafteah ha-Shemot* (*The Key of Names*), written toward the end of the 1280s, Abulafia writes that Jesus is to be associated with the sixth day of the week, while the seventh day, half of the Tetragrammaton, is to be associated with the Jewish messiah.[^85] The other is from *Hayyei ha- Olam ha-Ba’,* written earlier, around the same time as *Sitrei Torah*. In it, the following linkages are established: The Jewish messiah is again linked with the seventh day, while Satan is linked with the month of Tammuz. As well, the month of Tebet is linked with the YH, the month of Nissan and the constellation Aries, while the VH is linked with Tammuz, the month of Tishrei, and the constellation Libra.[^86] Since Satan is linked with 
 
 [^85]: *Mafieah ha-Shemot*, MS NY-JTSA Mic. 1897, fol. 80a; printed edition, p. 125.
+
 [^86]: *H ayyei \[illegible\] ha-Be’,* MS Oxford-BL 1582, fol. 71b; printed edition, p. 183. Abulafia, as Idel interprets him, links the VH with the messiah, the seventh day, the month of Tebet, and Aries. The YH is linked, according to Idel, with Satan, the month of Tammuz, and Libra. *Studies in Ecstatic Kabbalah*, p. 51. See also idem, “The Writings of Abraham Abulafia and His Teaching,” pp. 413–414 (in Hebrew). However, these assignations of the YH and VH do not appear to be consistent with the text, which reads, “And from the secret of the season of the month of Tebet, which the kabbalists understand, you will understand the matter of the first half of the name (hasi. *ha-shem ha-had* ), and from the secret of the season of the month of Tammuz you will understand the second half of the name (hasi *ha-shem \[illegible\]* Idel reads the text as follows, “The mystery of the season of the month of Tebet . . . explains the matter of *one half* of the Name; the mystery of the season of the month of Tammuz explains the secret of the *other half* of the Name \[emphasis mine\].” Idel does not read the mention of Tebet and Tammuz as sequential with respect to the Tetragrammaton. That is, he will ultimately perceive in Tebet a reference to the VH and in Tammuz a reference to the YH. Since Tammuz is linked by Abulafia to Satan, Idel considers Satan to be assigned to the YH, with the Jewish messiah assigned to the VH. This is likely done by Idel in order to harmonize this passage from *Hayyei ha-Olam ha-Ba* with that from *Mafieah ha-Shemot*, to be discussed below. Also, Idel likely does this because Abulafia has a tendency to assign the YH to Libra (linked in *\[illegible\] ha-Olam ha-Ba* with Tammuz) and the VH to Aries (linked in *Hayyei ha- ‘Olam ha-Ba ?* with Tebet). Abulafia, elsewhere in his writings, observes that the numerical value of YH squared yields the value of the phrase “the constellation Libra,” while the numerical value of the VH squared yields the value of the phrase “the constellation Aries.” These assignations actually contradict those of the current passage. In the current context, Idel errs in this regard, writing that the squaring of the numerical value of the letters YH yields one hundred and twenty-one, the numerical value of the phrase “the constellation Aries.” *Studies in Ecstatic Kabbalah*, p. 52.
 
 *[p. 207]* ^pg222
@@ -379,6 +428,7 @@ There are, however, some complications regarding these assignations with respect
 In another text, *Sefer \[illegible\]* (*The Book of the Interpreter*), written around 1282, Abulafia engages in a related discussion of Satan, for whom we would expect a parallel categorization as that which is applied to Jesus. And indeed, a similar situation does prevail with respect to Satan. He is associated with Aries, seen above to be linked to the VH. Abulafia as well brings into this association the tail (of the Teli, which we would expect to be associated with the “tail” or back of the Tetragrammaton, the VH), the evil inclination, and Romulus, the “old king.” Abulafia 
 
 [^87]: Ibid., p. 59 n. 30.
+
 [^88]: See above, n. 86.
 
 *[p. 208]* ^pg223
@@ -390,7 +440,9 @@ Elsewhere, however, we discover that Abulafia is not consistent in his assignati
 Nevertheless, there is a problem in these categorizations. Hames analyzes the aforementioned assignation of Jesus to the sixth day of creation and of the true messiah to the seventh in *Mafteah ha-Shemot*. He explicates the linkage of Jesus with the YH, and not the VH, based on the association of Jesus with the sixth day. The first letters of the Hebrew words for “Jesus the Nazarene,” *Yeshu ha-Nosri,* are YH, the same letters which begin the Hebrew words for “the sixth day,” *yom ha-shishi.* Hames goes on to observe that these are the last two words of [[Torah 01 - Bereshit#^1-31|Genesis 1:31]]. The next two words in Genesis, from verse 2:1, the words which begin the section of the text that concerns the Sabbath, or seventh day, begin with the letters VH. Hames observes that Abulafia makes mention of the first of these words, *Va-yekhulu* (“were completed,” concerning the heavens and the earth). From this, Hames 
 
 [^89]: *Sefer ha-Melis,* MS Munich-BS 285 fols. 11a, 12b; printed edition | (Mi asref *ha-Sekhel* ), pp. 11, 12, 14. Idel discusses this battle with Romulus, or Jesus, as that between the body, represented by these figures, and the intellect. “The Writings of Abraham Abulafia and His Teaching,” p. 415 (in Hebrew). The battle between the two “kings” is also one between the two traditional messiahs, Messiah ben Joseph and Messiah ben David; the former stands, in Abulafia’s conception, for the body and for Jesus ( Joseph being Jesus’ father), the latter stands for Abulafia himself, the true messiah from the lineage of David. Ibid., p. 414.
+
 [^90]: Hames notes that in the doctrine of Ibn | al-‘Arabi, likely influential upon Abulafia, it was probably Jesus who was intended with the epithet “the Imam of the Left.” Nevertheless, for Ibn \[illegible\] Jesus bore positive associations. Hames, “A Seal within a Seal,” p. 154. See above, p. 189 n. 35. For Baruch Togarmi’s association of Aries with Sandalfon, see *Sefer \[illegible\] ha-Kabbalah*, p. 236.
+
 [^91]: Hames points out Jesus’ status, for Abulafia, as the imagination. “A Seal within a Seal,” p. 164.
 
 *[p. 209]* ^pg224
@@ -400,7 +452,9 @@ concludes that Jesus is to be associated with the YH and the sixth day, while th
 It is important to render explicit a point that has only been implied thusfar. Idel writes,[^94] “. . . the relation between the Messiah and the body of Satan is one of ruler and subject, which, in Abulafia’s opinion, expresses the relation between the Jewish Messiah and Jesus.” Idel observes that in the two passages that he examines, Satan and Jesus occupy the same positions. Thus, in the lengthier passage, from *\[illegible\] ha- Olam ha-Ba’, :* in which Abulafia mentions only Satan and not Jesus, it is appropriate to understand that he has Jesus in mind. As Idel observes as well, the Jewish messiah and Jesus in this formulation occupy the roles of the human intellect and imagination, respectively. If we play out these notions, then, we find that Jesus stands as a component of the mystic’s own psyche, the imaginative half of his nature, which must be subdued.
 
 [^92]: Hames refers the entire Tetragrammaton to the messiah in ibid., p. 163, while the VH he specifically assigns to the messiah in *Like Angels on Jacob’s Ladder*, p. 79. We should note that it was the YH, and not the VH, that stood for Abulafia as both half of the name and as the whole name in *\[illegible\] \[illegible\] ha-Ba’.*
+
 [^93]: One answer to the apparent contradiction is that it may be that Abulafia is chiefly interested, in the passages adduced by Hames, in associating Jesus with the sixth day and the messiah with the seventh based only on *gematriyot.* That is, he may not be focused on the parsing of the YH and the VH in this context. Although he does do so in *\[illegible\] ha-Shemot*, in a like passage from *Mafteah ha-Hokhmot,* also adduced by Hames, Abulafia does not make mention of the words in question from [[Torah 01 - Bereshit#^2-1|Genesis 2:1]], from which, Hames indicates, the VH would be derived. And there is thus also no way to know whether Abulafia had in mind the connection between the first letters of *Yeshu ha-Nosri,* “Jesus the Nazarene,” and of *yom ha-shishi*, “the sixth day,” from which the YH would be derived. The *\[illegible\]* that seem to have more concerned Abulafia go as follows: As Hames also notes, the letters that spell *Yeshu ha-Nosri* have the same numerical value as those for *yom ha-shishi* (six hundred and seventy-one), while those that spell *melekh ha-mashiah,* “King Messiah,” have the same numerical value as those for *yom \[illegible\]* “the seventh day” (four hundred and fifty-three). In terms of the inconsistency under discussion, Idel also makes mention of passages from Abulafia’s students, and from Abulafia himself, which link the YH with the Jewish messiah, a linkage that Idel notes to be in contradiction to the one that he presents. *Studies in Ecstatic Kabbalah*, p. 58 n. 29.
+
 [^94]: Ibid., p. 51.
 
 *[p. 210]* ^pg225
@@ -410,9 +464,13 @@ There are erotic ramifications to these observations that bear exploration. Abul
 The sense of erotic implications, in Abulafia’s thought, to theurgical operations bearing on the latter union has much in common with the thought of other kabbalists. The unification of the name was accorded an erotic dimension among medieval kabbalists generally, and the sublimation of sexuality into what Wolfson terms “holy eroticism” prevailed as well among kabbalists within Abulafia’s doctrinal tradition.[^97] A sense of homoeroticism to the relationship between the Jewish messiah and Jesus, as Abulafia delineates it, may be contextualized within a wider such tendency with respect to the Jewish mystical relationship to God.[^98] This wider homoerotic dynamic carries with it a sense of autoeroticism. A unification is enacted between two aspects of the divine self, following upon the construction of a feminine other, the *Shekhinah*.[^99] The same autoerotic mechanism is present in Abulafia’s doctrine, where the feminine Jesus, as the imaginative element, is a feature of the mystic’s own psychic landscape. This autoerotic dynamic undermines somewhat the homoerotic implications of 
 
 [^95]: Idel, *The Mystical Experience in Abraham Abulafia*, pp. 143, 188.
+
 [^96]: This notion finds expression as well with respect to Samael’s riding of the serpent, a motif that, we have seen, Abulafia references in the context of Eve’s sin, of a sexual nature, in the Garden of Eden. See *Pirkei de-Rabbi Eliezer*, chap. 13; Maimonides, *The Guide of the Perplexed* 2:30.
+
 [^97]: Wolfson, *Language, Eros, Being*, p. 263.
+
 [^98]: Ibid., pp. 324, 327, 329, 366. This pertains both to the relationships of God and the mystic to the phallicized female, part and parcel of the male divine androgyne. Homoeroticism with respect to the kabbalistic unification of the name is distinguished by Wolfson from homosexuality, in that kabbalists who sought to unify the name aspired to overcome any vestige of carnal sexuality. Ibid., p. 367. The same can be said regarding the mystic’s role in the homoerotic dynamic of the union of the YH with the VH in Abulafia’s thought.
+
 [^99]: Ibid., pp. 271, 285, 307.
 
 *[p. 211]* ^pg226
@@ -424,8 +482,11 @@ When we inquire into the implications of the homoerotic tendency that remains pe
 Abulafia’s intense interest in the motifs surrounding the theme of the unification of the name merits further investigation. In a passage from *Sitrei Torah*, Abulafia embarks upon a discussion that runs somewhat parallel to what we have seen thusfar. He focuses upon the celestial figure of the Teli.[^100] Guided overall by the reference in *Sefer Yesirah* to the dominion of the Teli, sphere and heart, respectively, over world, year and soul,[^101] Abulafia writes that there are twelve leaders in both the soul and the year.[^102] The latter are the twelve constellations, which govern the months of the year. Regarding the months and their constellations, Abulafia writes, somewhat cryptically, “three, three in the nature of the explicit name, which expresses every hidden secret and every secret nature and every concealed wonder that may be apprehended.” In dividing the twelve constellations or months by three, we find that we have four groups—the seasons—which now correspond to the letters of the Tetragrammaton. Adapted here is the tripartite quaternity with respect to the Tetragrammaton that we discussed earlier.[^103]
 
 [^100]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fol. 23b; printed edition, pp. 32–34. A portion of this passage is translated by Wolfson, *Abraham Abulafia*, p. 150 n. 153.
+
 [^101]: *Sefer Yesirah,* Gruenwald ed., 6:1–2 (para. 59).
+
 [^102]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fol. 23b; printed edition, p. 32.
+
 [^103]: See above, pp. 49–50, 147, as well as the continuation, below, of the current passage.
 
 *[p. 212]* ^pg227
@@ -453,6 +514,7 @@ And it was said ([[Torah 13 - Shemot#^4-3|Ex. 4:3]]), “ ‘Put your hand out a
 ( \[ ”.)בכפו This should be read\] “In twenty-six ( ”,)בכ"ף ו"ו because with six in his hand ( )בו"ו בכפ"ו are, “In his hand are six ( ”.)בכ"ף ו"ו
 
 [^106]: Further indications are present, in the current instance, that Abulafia has Jesus in mind. It is significant that the staff around which the current discussion centers was used against pharaoh’s sorcerers. In accord with this notion, we see Jesus, in the tradition reflected in *Toledot Yeshu*, characterized as a sorcerer. Idel, *Studies in Ecstatic Kabbalah*, p. 59 n. 37. Idel observes that Abulafia characterizes Jesus as overlord of Egypt. See *Mafteah ha-Shemot*, MS NY-JTSA Mic. 1897, fol. 71a; printed edition, p. 89, where pharaoh is equated with the Teli; both are personae that we see as associated with Jesus by Abulafia. As well, pharaoh is here linked with hot-bloodedness and the demonic (as well as the sorcerial ), an association which recalls Abulafia’s labeling of Jesus and Christendom as carnal. See Hames, *Like Angels on Jacob’s Ladder*, pp.
+
 [^107]: See above, pp. 6, 107.
 
 *[p. 214]* ^pg229
@@ -477,7 +539,9 @@ Abulafia avers, in the continuation of the passage from *Sitrei Torah*, that the
 Abulafia observes above that the secret of the man on the throne, who is called “hashmal,” is made known through the inversions of the serpent. This we may understand as referring, on the one hand, to the process of letter permutation, as symbolized by the serpent’s changeability. As Abulafia himself demonstrates, scrutiny of the chapters in Ezekiel using the method of letter permutation brings to light the secrets of the chariot. On the other hand, Abulafia certainly also has in mind the serpent’s bipartite nature, composed as it is of head and tail, YH and VH, a composition which has so occupied him in this passage.[^113] This nature to the serpent sheds light upon that of the man upon the throne, in that this man himself partakes of a bipartite essence. In 
 
 [^111]: See ibid., pp. 43–44; *Sefer Yesirah,* Gruenwald ed., 4:4 (para. 40).
+
 [^112]: Idel observes Abulafia’s conception of the act of creation as a product of speech, executed via the letters of the alphabet. *Language, Torah, and Hermeneutics in Abraham Abulafia*, p. 107.
+
 [^113]: Wolfson makes reference to Abulafia’s equation of the transformation of the rod into the serpent and “inversion,” and relates it to Abulafia’s collapsing of binaries such as right and left, Israel and the nations and Metatron and Samael. *Abraham Abulafia*, p. 59 n. 167.
 
 *[p. 216]* ^pg231
@@ -489,8 +553,11 @@ Wolfson’s observation that, for Abulafia, the *hashmal* represents Metatron[^1
 Despite this apparent reciprocity, we should not lose sight of our earlier observation that Abulafia frequently refers to a battle that rages between the Active Intellect’s two components and, as well, between Abulafia’s own two inclinations. Though we have observed a degree of harmony between the two components of the Active Intellect, which “testify to each other,” as Abulafia phrases it, in the forms of the working of the chariot and the working of creation and of the head and hand tefillin, we should not be misled. In *\[illegible\] Eden Ganuz*, Abulafia relates that the two astrological constellations which embody the head and tail are two messengers of the name who are “always at war” with one another.[^117]
 
 [^114]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fol. 52b; printed edition, p. 162.
+
 [^115]: Ibid., MS NY-JTSA Mic. 2367, fol. 53b; printed edition, p. 168.
+
 [^116]: Wolfson, *Abraham Abulafia*, p. 198.
+
 [^117]: *Oşar Eden Ganuz*, MS Oxford-BL 1580, fols. 28a-b; printed edition, pp. 57–58. Jesus’ role in this war is significant. In a sense, it is appropriate to understand Jesus as a component of the perfected Jewish messiah. In this fashion, Jesus may be understood to play a part in the redemption. This surmise, rendered apparent, in another fashion, in Abulafia’s account of the eschatological battle to be waged between the two “kings,” discussed in *Sefer ha-Melis,* may bear signs of the further influence of Ibn \[illegible\] *Sefer ha-Melis,* MS Munich-BS 285 fols. 11a, 12b; printed edition \[illegible\] *ha-Sekhel* ), pp. 11,
 
 *[p. 217]* ^pg232
@@ -518,6 +585,7 @@ We find that Abulafia regards the squaring of each half of the Tetragrammaton as
 And if you wish to know the name, “pronounce” His name “thusly,” because it is “His name.” As well, it is His essence, in the manner of *yod gimel* with *yod gimel*; there is the name twenty-six. And it is two hundred 
 
 [^119]: *\[illegible\] Shefer*, MS Munich-BS 285 fols. 71a–b; MS Munich-BS 40 fols. 240a, 241b; printed edition, p. 77.
+
 [^120]: See Idel, *Kabbalah and Eros*, pp. 79–80.
 
 *[p. 219]* ^pg234
@@ -529,7 +597,9 @@ The words “pronounce” and “thusly” numerically total one hundred and twe
 The rendering accessible of God’s essence has important ramifications when viewed against the backdrop of a Christian cultural milieu, where Jesus stands as the divine essence manifest in the flesh. Abulafia’s phrase, “the two of them are born from them, ‘flesh and blood.’ ” seems to refer to the two parts of the name, which are “born” from “His name,” which is “His essence.” So we find that the divine essence, embodied in the name, gives birth to these two components.[^123] 
 
 [^121]: See also *\[illegible\] Shefer*, MS Munich-BS 285 fol. 64a; printed edition, p. 58.
+
 [^122]: Articulations of this kind are marked deviations from Maimonidean modes of thought, although Abulafia will at other times uphold the position that God is beyond such assertions concerning His essence. Wolfson, *Abraham Abulafia*, pp. 172, 196–197. The opposing views of Maimonides and Abulafia concerning the question of the essential nature of the Tetragrammaton parallel their understanding of the Hebrew language itself as conventional versus divine, respectively. Ibid., p. 58; Idel, “Abulafia’s Secrets of the Guide,” pp. 294, 305; *Language, Torah, and Hermeneutics in Abraham Abulafia*, pp. 13, 16, 149; *Maïmonide et la mystique juive*, pp. 77–78.
+
 [^123]: Interestingly, Abulafia notes elsewhere that the seed (semen), which gives rise to individual corporeality, is spherical in form; its length, width and height are all equal. *\[illegible\] Shefer*, MS Munich-BS 285 fol. 69b; printed edition, p. 70. Regarding these three dimensions, Abulafia observes, in the current context, that they are all equal as well for the YH and the VH when they are cubed. Although in the present instance these two components of the name are themselves materialized, it is quite possible that Abulafia conceives of them along the lines of the agent of materialization, the spherical seed. This is particularly apparent in that, as Abulafia proceeds in his discussion of the seed, he likens its three dimensions to God’s name rendered in a triadic form as \[illegible\] ’Asher \[illegible\] as well as “YHVH YHVH YHVH,” and “*Qadosh, qadosh, qadosh* (Holy, holy, holy).” He makes the same association as well with respect to the sefirotic triad of *Hokhmah, Binah* and *\[illegible\]* Thus, all of these triads, the Tetragrammaton being most noteworthy for our current purposes, are linked directly to the notion of corporealization. Indeed, the very idea of a divine triad being linked to corporealization is, once again, evocative of Christian influence.
 
 *[p. 220]* ^pg235
@@ -541,6 +611,7 @@ To this point we may recognize that Abulafia understands the bipartite Teli as t
 And I have already told you that the secret of two hundred and six is “His essence.” If so, His essence is *Hokhmah,* and His essence is *Binah*. And thus His qualities are His essence. And also the secret of two hundred and six is “word.” If so, His name announces to us the “word” *Hokhmah* and the “word” *Binah*, as is written in a hint ([[Daniel 01#^1-20|Dan. 1:20]]), “And in every word of wisdom , (hokhmah) ; and every word of understanding (*binah*).” And so too it is said ([[Psalms 033#^33-6|Ps. 33:6]]), “By the word of God the heavens were made.” The first letters and the last letters total six hundred and thirteen. And their secret is “the second matter” YH \[is\] “my name” ([[Torah 13 - Shemot#^3-15|Ex. 3:15]]) \[and\] three hundred and sixty-five, VH \[is\] “my remembrance” (Ibid.) \[and\] two hundred and forty-eight.
 
 [^124]: Elsewhere, *\[illegible\] Shefer*, MS Munich-BS 285 fol. 69b; printed edition, p. 70, Abulafia observes that every body’s corporeality is contingent upon these three dimensions.
+
 [^125]: [[John 01#^1-14|John 1:14]].
 
 *[p. 221]* ^pg236
@@ -550,6 +621,7 @@ Abulafia had established, earlier in this same text, that *Hokhmah* and *Binah*,
 Ultimately Abulafia will play out the numerical consequences of ascribing three dimensions to the YH and the VH. The value of YH 
 
 [^126]: Abulafia assigns the phrase “this in this” to YH and VH and then observes that the letters for “this,” when spelled in full, have the same numerical value as both “Hokhmak” and “and *Binah*.” “This” multiplied by two has, as well, the same value as “sun and moon,” which Abulafia regularly assigns to *Hokhmah* and *Binah*, respectively. Referring to the word “in” in the phrase “this in this,” Abulafia observes that its single letter, when spelled in full, has the same spelling as the Hebrew word for “house.” “House,” Abulafia next observes, is numerically equivalent to the phrase “it is two,” which is as well two hundred and six multiplied by two. The number two hundred and six, of course, Abulafia had already focused on with respect to the two halves of the Tetragrammaton and the phrase “His essence,” and it is as well the same value as the word “word.” The *sefirot Hokhmah* and *Binah* were significant in Abulafia’s conception of the upper triad of *sefirot*. See above, pp. 85, 183.
+
 [^127]: As well, Idel observes Abulafia’s equation of the Torah with the *Kavod*, God’s terrestrial manifestation. Idel, *Language, Torah, and Hermeneutics in Abraham Abulafia*, p. 36. See also Wolfson, “The Mystical Significance of Torah Study,” pp. 55, 63–68, for the same perspective among the German Pietists.
 
 *[p. 222]* ^pg237
@@ -563,7 +635,9 @@ Nevertheless, there is as well a countercurrent present in the passage. When we 
 128\. Actually, it yields three thousand three hundred and seventy-five, which Abulafia, in a transposition not unusual in his writings, converts into three hundred and seventy-eight by converting the number three thousand into the number three. See above, pp. 103 n. 207, 180 n. 5.
 
 [^129]: See also *Imrei Shefer*, MS Munich-BS 285 fol. 64a; printed edition, p. 57.
+
 [^130]: By the same method as that mentioned above, n. 128, one thousand three hundred and thirty-one becomes three hundred and thirty-two.
+
 [^131]: Baer notes the kabbalistic tendency to discuss God’s being as “garbed” with His names, a tendency which runs parallel with Christian notions of divine corporealization. “The Kabbalistic Doctrine in the Christological Teaching of Abner of Burgos,” p. 287. Wolfson discusses Joseph Gikatilla’s notion of God’s disrobing before the mystic as His cognomens are removed to reveal the Tetragrammaton. “Eunuchs Who Keep the Sabbath,” p. 173.
 
 *[p. 223]* ^pg238
@@ -577,8 +651,11 @@ Despite this significance to circumcision, it is nevertheless the task of the my
 We have touched upon several interrelated features in Abulafia’s conceptualization of Jesus. All of these relate, in some fashion, to Abulafia’s perspective on sorcery and its connection with the Active Intellect. The ramifications of this theme merit further analysis. In close proximity, as it happens, to the discussion in *\[illegible\] Shefer* regarding the YH and VH and their corporealization, we find an entryway into this topic. Abulafia commences with an analysis of the phrase “. . . that it was good” from the first chapter of Genesis.[^135] 
 
 [^132]: Idem, *Language, Eros, Being*, p. 191. Nevertheless, Wolfson observes this same reverse modality to be present as well in Christian thought. Ibid., p. 255.
+
 [^133]: Wolfson has analyzed a bahiric refutation of Christian messianic incarnationism. *Alef, Mem, Tau*, pp. 145–152.
+
 [^134]: Idem, *Language, Eros, Being*, p. 193.
+
 [^135]: *\[illegible\] Shefer*, MS Munich-BS 285 fol. 71a; printed edition, p. 79.
 
 *[p. 224]* ^pg239
@@ -601,6 +678,7 @@ It is clear, then, why Abulafia engages in the numerical association of the phra
 137\. See above, p. 214 n. 109.
 
 [^138]: See above, pp. 199–200.
+
 [^139]: By contrast, see *Oşar Eden Ganuz*, MS Oxford-BL 1580, fol. 130a; printed edition, p. 286. There, the hidden letters of the name Shaddai are said to indicate the “Prince,” Metatron. In that context, there is no overt reference to Sandalfon, although he may be implied again, as a component of the bifold Metatron, in a subsequent reference to the “spilling of seed,” which carries a sinful connotation.
 
 *[p. 225]* ^pg240
@@ -610,8 +688,11 @@ is that Abulafia here discusses this capacity of Shaddai in direct connection wi
 ply,” and sorcery appears in *Mi afieah ha- Tokhahot.* Referring to the name Shaddai as harboring the secret of the phrase, “Be fruitful and multiply,” Abulafia introduces the theme of levirate marriage, suggesting that he will divulge its secret.[^142] He refers first to Boaz and Ruth.[^143] 
 
 [^140]: See above, pp. 115–116, 166.
+
 [^141]: For the linkage of Jesus with sorcery, see above, p. 213 n. 106. Abulafia picked up on the traditional accusation of sorcery leveled by Jews against Jesus. In this regard, the association by Abulafia of Jesus with Egypt, the land, in his estimation, of both carnality and sorcery, is significant. See also p. 42 n. 56 above regarding zoharic associations of Egypt with femininity. Idel notes that Abulafia conceived of the exodus from Egypt as the vanquishing of the imaginative faculty. *Language, Torah, and Hermeneutics in Abraham Abulafia*, p. 69.
+
 [^142]: *Mafteah ha-Tokhahot,* MS Oxford-BL 1605, fols. 77a–b; printed edition, p. 94. Levirate marriage refers to the marriage of one’s deceased brother’s widow, at times referred to as obligatory when the deceased brother lacked a male heir. See Deut.
+
 [^143]: Although the redemption in this biblical narrative is not, strictly speaking, an example of levirate marriage.
 
 *[p. 226]* ^pg241
@@ -621,7 +702,9 @@ Abulafia seems to be most interested in both the notion of redemption in this st
 Regarding the child of levirate marriage, the phrase ([[Torah 49 - Ki Teitzei#^25-6|Deut. 25:6]]) “. . . \[the firstborn\] who she bears will be named \[after the deceased brother\] . . .” is next the subject of Abulafia’s analysis, and the theme of the Teli is prevalent in the string of *gematriyot* that ensues. “The head of the Teli is above,” “the Teli is the Prince of the World,” “the world is the Prince of the Teli,” and “upon the name of the Teli” are some of the results of Abulafia’s consideration of the child who is the fruit of levirate marriage. The brother who has died, Abulafia next demonstrates through a *gematria,* is himself the Teli, who, Abulafia suggests, is given life anew through the remarriage and birth of a child: “His brother who died, the second revives the dead. That is, the second who revives the first who died in procreating ‘who the Teli preceded,’ \[from the phrase\] ([[Torah 49 - Ki Teitzei#^25-6|Deut. 25:6]]) ‘. . . \[the firstborn\] who she bears will be named \[after the deceased brother\] . . .’ ” Positing the essential unity of the two brothers in levirate marriage,[^145] Abulafia then discusses [[Torah 49 - Ki Teitzei#^25-11|Deuteronomy 25:11]]. This verse refers to a woman who defends her husband by seizing his assailant by the genitals, *bi-mevushav*. Abulafia views the assailant as the husband’s “brother,” insofar as they are both Israelites. Subsequently, this word for genitals Abulafia draws into a numerical equivalence with each word of the phrase “messiah serpent in his names.”[^146]
 
 [^144]: *Mi afieah ha-Tokhahot,* MS Oxford-BL 1605, fols. 77b–78a; printed edition, pp. 94–95.
+
 [^145]: Abulafia first writes, “. . . the deceased, the brother, is himself the Teli, because he is his brother and his son and know that they are the branch and the fruit joined together with the root.” Following this, Abulafia refers to [[Torah 49 - Ki Teitzei#^25-5|Deuteronomy 25:5]] and 25:11, which refer to “brothers together” and “men together, a man and his brother.” *Mafteah ha-Tokhahot,* MS Oxford-BL 1605, fol. 78a; printed edition, p. 96.
+
 [^146]: Ibid., MS Oxford-BL 1605, fols. 78a–b; printed edition, pp. 95–96.
 
 *[p. 227]* ^pg242
@@ -633,7 +716,9 @@ In at least two interrelated discussions, we have seen Jesus implicitly linked b
 The crux of the matter is that, as in the verses from John, the motif of the serpent for Abulafia is entwined around the themes of messiahship and resurrection. The redemption of the deceased brother through the son born to the surviving brother Abulafia discusses in messianic terms. Abulafia elaborates upon the last word of [[Ruth 4#^4-8|Ruth 4:8]], “So when the redeemer said to Boaz, ‘Acquire for yourself,’ he drew off his shoe.” He derives the phrase “locked garden”[^149] from the words “in the shoe of the brother-in-law.” The reference to the garden here represents the notion of mystical practice as the entering into the Garden of Eden and, particularly, Abulafia’s own mystical achievements. The latter entailed a messianic dimension, in Abulafia’s own estimation. The messianic subtext to Abulafia’s discourse is 
 
 [^147]: See ibid., MS Oxford-BL 1605, fol. 25b; printed edition, p. 8; *Mafteah ha-Sefirot*, MS Milan-BA 53, fol. 179a; printed edition, p. 85.
+
 [^148]: See Rubin, *Corpus Christi*, p. 130.
+
 [^149]: [[Song of Songs 4#^4-12|Song of Songs 4:12]].
 
 *[p. 228]* ^pg243
@@ -645,6 +730,7 @@ Though there is no specific reference to Jesus or the brazen serpent in this pas
 *Dar* is a precious stone referred to in the early theosophic work, the *Bahir*,[^150] that aspect of the divine indwelling in the lower world, which, that text reads, contains the commandments. As such, it naturally stands for Abulafia as that component of the Active Intellect that is materialized as the Torah in the terrestrial realm. This stone is expected by the bahiric authors to ascend in the redemptive future to the place of its partner, the stone *\[illegible\] Dar* is, additionally, linked in the *Bahir* to Jacob. To this stone, *Dar*, the bahiric authors applied [[Psalms 118#^118-22|Psalm 118:22]], “The stone that has been rejected has become the chief cornerstone.”[^151] What is noteworthy about the decision on the part 
 
 [^150]: *Bahir*, § 131, 61, 133.
+
 [^151]: It should be observed that, in the *Bahir*, the two stones *Soheret* and *Dar* are linked implicitly with the two scriptural cantillation signs *zarga’* and *segulta*. To both of these pairs are assigned [[Psalms 118#^118-22|Psalm 118:22]] and [[Torah 12 - Vayechi#^49-24|Genesis 49:24]] (“From there is the shepherd, the stone of Israel”). *Bahir*, § 61, 131, 133. Significantly, a mystical tradition centered around the *zarqa’* as the uroburus, the cosmological serpent devouring its own tail. See Wolfson, “Biblical Accentuation,” II, pp. 5–6. Abulafia certainly establishes a linkage in many of his discussions between the Teli and the uroburus, so from this it may also be apparent why he was attracted to the idea of linking the Teli with the bahiric stone *dar*. See also Giller, *The Enlightened Will Shine*, pp. 12–13, regarding *zarqa’* and *segulta* with respect to the sefirotic scheme in *Tiqqunei Zohar*.
 
 *[p. 229]* ^pg244
@@ -656,7 +742,9 @@ Abulafia’s decision to refer to the bahiric stone *Dar*—indeed, his somewhat
 Earlier we noted how Abulafia, in a passage from *\[illegible\] Shefer*, had put forth the idea of the word incarnate, made “flesh and blood” as the name in the form of the YH and the VH. These he had as well drawn into a close connection with the Teli. In the current passage from *Mafteah ha-Tokhahot,* one final, related observation should be made. Immediately after his mention of the stone *Dar*, Abulafia writes, “And thus ‘Shaddai speaks,’ and its secret is ‘lofty Gabriel;’[^154] the power of Shaddai encompasses the ‘image of God;’ it comprises the level of all speaking creatures.” Abulafia here stresses the verbal component of 
 
 [^152]: See, for instance, [[Matthew 21#^21-42|Matt. 21:42]], [[Acts 04#^4-11|Acts 4:11]], [[Mark 12#^12-10|Mark 12:10–11]], 1Pet. 2:4, 7.
+
 [^153]: See Wolfson, “The Image of Jacob.” In *0r ha-Sekhel* (*The Light of the Intellect*), Abulafia equates Jacob with the Teli. The name Yaʻaqov by a letter transposition becomes *\[illegible\]* indicating the tail of the Teli, while the letters of Jacob’s other appellation, Yisra'el, ı may be transposed to spell *\[illegible\]* indicating the head of the Teli. MS Vatican-BA ebr. 233, fol. 98a; printed edition, p. 94.
+
 [^154]: Idel observes Abulafia’s equation of Gabriel with the Active Intellect in *Hayyei ha-Olam ha-Ba.. Language, Torah, and Hermeneutics in Abraham Abulafia*, p. 33.
 
 *[p. 230]* ^pg245
@@ -670,7 +758,9 @@ And because God wished to announce to us the nature of blood, He announced first
 In his consideration of this passage,[^157] Wolfson notes that the spilling of the blood on this altar represents the defeat of “the imagination or the bodily senses,” symbolized by Satan or the serpent. Wolfson cites the passage as he makes the point that, for Abulafia, as for a number of his predecessors, ritual sacrifice receives a mystical recasting, to which 
 
 [^155]: Idel points to a related passage in *Sheva‘ Netivot ha-Torah*, in which the efflux from the Active Intellect is referred to as the “Word.” Idem, “Abulafia’s Secrets of the Guide,” p. 305.
+
 [^156]: *\[illegible\] ha-Tokhahot, f* MS Oxford-BL 1605, fols. 54b–55a; printed edition, p. 57.
+
 [^157]: Wolfson, *Abraham Abulafia*, p. 222 n. 132.
 
 *[p. 231]* ^pg246
@@ -682,8 +772,11 @@ Abulafia identifies the outer, copper altar with the brazen serpent. The serpent
 When discussing Abulafia’s interest in the precious stone *Dar*, we had noted that the bahiric authors describe the stone’s destiny, a redemptive ascent or return to its origin. For later interpreters, as we see explicitly in the above passage from Abulafia, the place of mystical return generally is the *sefira Binah*. There is a parallelism in the linkage of the notion of return, the bahiric stone *Dar* and the Teli or serpent in the earlier passage from *Mafteah ha-Tokhahot,* on the one hand, and, in the current context, the notion of return to *Binah*, sacrifice located at the outer copper altar and the brazen serpent, on the other hand. We were aware, in the former passage, of the Christian themes surrounding Jesus’ identification with the brazen serpent and in the *Bahir*’s recourse to the christologically evocative [[Psalms 118#^118-22|Psalm 118:22]]. 
 
 [^158]: Ibid., pp. 221, 223. See also Scholem, *Origins of the Kabbalah*, p. 306; Idel, *Kabbalah: New Perspectives*, pp. 53–55; Dan, “Midrash and the Dawn of Kabbalah,” p. 131; “Prayer as Text and Prayer as Mystical Experience,” p. 37; “The Emergence of Mystical Prayer,” p. 97–101.
+
 [^159]: Wolfson, *Abraham Abulafia*, p. 222 n. 132.
+
 [^160]: See, for instance, *Mafieah ha-Sefirot*, MS Milan-BA 53, fol. 179a; printed edition,
+
 [^161]: See Gikatilla, *\[illegible\] Orah,* vol. 2, pp 60–61, for *Binah* and the concept of *teshuvah* (return or repentance).
 
 *[p. 232]* ^pg247
@@ -697,6 +790,7 @@ And thus the blood spilled on the brazen altar is the blood of “accusers \[sat
 Abulafia contrasts the sacrifices of the outer altar, which are blood offerings, to be linked to the battle against Satan, and those of the inner altar, which, he will later go on to indicate, in their bloodlessness are to be seen as removed from the base sensory world. In the excerpt above, the inner altar may be placed before the ark only because its 
 
 [^162]: Fossum, *The Image of the Invisible God*, p. 131.
+
 [^163]: Ibid., pp. 117, 131. The altar stone in this regard is taken as well to be the “foundation stone” which stops up the waters of the deep. The similarity of this motif with that of the “chief cornerstone” from [[Psalms 118#^118-22|Psalm 118:22]] should be noted.
 
 *[p. 233]* ^pg248
@@ -720,7 +814,9 @@ Overall, Abulafia’s complicated attitude toward blood is apparent.[^165] It is
 Some final thoughts on the nature of sacrifice and its relatedness here to notions of Jesus are in order. We have observed Abulafia’s interest in conceiving of the *sefirot* in anthropocentric terms,[^167] as against the theocentric thrust of the theosophic kabbalah. Nevertheless, Abulafia preserves a perspective on the *sefirot* as components of the divine realm, as in his discussion of ritual sacrifice. Indeed, Abulafia is explicit 
 
 [^165]: For Abulafia’s twofold perspective on blood, see above, pp. 186–188.
+
 [^166]: The scriptural sacrifice to Azazel was not a blood sacrifice. Such sacrifices to demons were expressly forbidden.
+
 [^167]: See Wolfson, *Abraham Abulafia*, pp. 123, 145.
 
 *[p. 235]* ^pg250
@@ -734,8 +830,11 @@ It is undeniably true, as Idel has already noted, that Abulafia has removed the 
 Wolfson refers here to Abulafia’s sense of a theurgical dimension to the sacrifice as accompanying its mystical one. One may be reminded here of the Christian conception of Jesus as embodying and replacing Temple sacrifice.[^171] That is, the ancient theocentric perspective on Temple sacrifice, where human participation extends only as far as 
 
 [^168]: See ibid., p. 122.
+
 [^169]: See also ibid., p. 221. Here Wolfson presents a passage in which Abulafia equates thought with the sacrifice.
+
 [^170]: Ibid., p. 123.
+
 [^171]: Paul is most explicit in this regard. See [[1 Corinthians 05#^5-7|1Cor. 5:7]]: “. . . Christ our Passover lamb has been sacrificed.” See also [[Ephesians 05#^5-2|Eph. 5:2]]. There Jesus is described as “. . . an offering and sacrifice whose fragrance is pleasing to God.” See also [[Hebrews 09#^9-26|Heb. 9:26]], [[Hebrews 13#^13-11|13:11–12]]. In the latter example Jesus is equated directly with the sin offering made by the Temple high priest. Jesus is also cast as a model for others in this regard. See [[Romans 12#^12-1|Rom. 12:1]]: “. . . I implore you by God’s mercy to offer your very selves to him: a living sacrifice . . .”
 
 *[p. 236]* ^pg251
@@ -747,8 +846,11 @@ the presentation of an offering that may ameliorate divine judgment, is supplied
 I would like to return to two themes that we had temporarily put aside, these being the nature of the verbal element of the Active Intellect and the Teli’s presentation in the guise of Moses’ rod. In a passage from *Mafteah ha-Sefirot* (*The Key of the* Sefirot), written as well around 1289, Abulafia refers to [[Torah 39 - Chukat#^20-7|Numbers 20:7]], which concerns Moses’ procuring water from a rock. He writes, “. . . Because God, may He be blessed, sought to announce to Israel that in two forms it has the ability to alter specific natures, and they are with a blow with the rod and with speech with the tongue . . .”[^174] The connection cited by Abulafia of the “blow with the rod” and speech relates to Abulafia’s earlier discussion of Moses’ rod as the Active Intellect, the Teli and the verbal potency.[^175] 
 
 [^172]: Brody cites Azriel of Gerona’s notion of the high priest’s angelicization and ascension as a result of the sacrificial ritual. “Human Hands Dwell in Heavenly Heights,” p. 150.
+
 [^173]: Wolfson as well observes the transformation of the mystic into an angel. See, for instance, *Abraham Abulafia*, p. 148. M. Fishbane notes that Ibn Ezra conceived of himself as the Yom Kippur sacrifice. *The Kiss of God*, p. 93. Another of the modes by which this hypostatic participation in the supernal sefirotic realm is discussed by Abulafia is within the aforementioned motif of the divinized figure of Jacob. Wolfson, *Abraham Abulafia*, pp. 128–129. See also ibid., pp. 146, 150.
+
 [^174]: *\[illegible\] ha-Sefirot*, MS Milan-BA 53, fol. 179a; printed edition, p. 84.
+
 [^175]: See above, pp. 212–215.
 
 *[p. 237]* ^pg252
@@ -758,7 +860,9 @@ The ability to “alter specific natures” recalls the wonder-working that Abul
 Since Abulafia has mystical practice in mind in his treatment of this passage, the two vehicles chosen for the achievement of natural signs, the rod and the tongue, carry an added significance. Abulafia appears to intend their correspondence with the physical loci of the two covenants mentioned in *Sefer Yesirah.* That text, referring to the covenants of the tongue and the phallus, suggests that they are the means by which the depths of the *sefirot* may be plumbed.[^177] Of course, although the reference to the tongue in Abulafia’s treatment of the passage from Numbers is explicit, Abulafia alludes only to Moses’ “rod.” Shortly, however, we will examine another passage where this motif’s phallic connotation is revealed more explicitly.[^178] For the time being we may recall our earlier observation of the dangerous femininity embodied by Jesus and Sandalfon, the VH or satanic component of the Active Intellect. By contrast, Moses’ action in the passage from Numbers, as a symbol for the conduct of the masculine mystic, we should expect to signify the virile phallus. This notion runs parallel to Abulafia’s linkage of Shaddai, as the Active Intellect, to the phrase “Be fruitful and multiply.” In the current context, Abulafia does not elaborate upon the significance of the rod, but that he sees it as the serpent and as the Active Intellect is apparent.
 
 [^176]: See above, pp. 6, 107, 213. Scholem notes Abulafia’s view that the only truly efficacious magic is “spiritual and inward,” that is, in keeping with Abulafia’s kabbalah of names, and that the claims made by those who use the names with a different orientation are lies. *The Kabbalah of Sefer Temunah*, p. 181 (in Hebrew). See also idem, *Major Trends in Jewish Mysticism*, p. 145, where Abulafia’s practice is termed a “magic of inwardness.” This perspective is similar to the one observed earlier with respect to the manipulation of demonic names. Idel observes Abulafia’s accordance, in *Sheva‘ Netivot ha-Torah*, of the ability to “change any aspect of nature” to the highest level of prophecy. *Language, Torah, and Hermeneutics in Abraham Abulafia*, p. 105. Idel notes Abulafia’s indebtedness to *Midrash Tehillim*, where wonder-working and the ability to resurrect the dead are seen as the gifts accorded the one who is capable of placing the Torah in its proper order. This is taken by Abulafia to refer to letter permutation, although, as Idel notes, Abulafia’s specific interest in adapting this notion is not in wider acts of magic but specifically in the resurrection of the dead. Ibid., p. 81. See also Scholem, *The Kabbalah of Sefer Temunah*, p. 177 (in Hebrew).
+
 [^177]: *Sefer Yesirah,* Gruenwald ed., 1:3, 4 (paragraphs 3, 4).
+
 [^178]: *Mafteah ha-Tokhahot,* MS Oxford-BL 1605, fol. 25b; printed edition, p. 8.
 
 *[p. 238]* ^pg253
@@ -772,7 +876,9 @@ By the loss of “verbal holiness,” Abulafia intends God’s rendering the Act
 In the current context this perception is reinforced, for Abulafia regards it as significant that the loss of faith of the Israelites is followed closely by a discussion of Edom. Abulafia writes that Edom is the “cause of all deception,” and thus of Israel’s loss of faith. Thus we may understand that it is Edom—that is, Christianity—that results in the “deception” that Abulafia mentions.[^181] This “deception” we discussed 
 
 [^179]: *Mapfteah ha-Sefirot*, MS Milan-BA 53, fol. 179a; printed edition, pp. 84–85.
+
 [^180]: See above, pp. 116–119.
+
 [^181]: For another example of the understanding of Edom as Christendom, see above, p. 153 n. 113.
 
 *[p. 239]* ^pg254
@@ -800,6 +906,7 @@ with God’s Glory or the *Shekhinah.* Here we may sense a significant link to e
 The intricate links between Jesus, sorcery, the Teli and the Active Intellect have earlier been established. Our prior observation regarding the consistency of Abulafia’s doctrine with the model set forth in the Gospel of John, where Jesus represents the brazen serpent, is here also significant. On the basis of this network of interconnected themes, it is appropriate to conclude that, in the current context, Abulafia again articulates the view that the demonic and sorcerous threat imbedded in the nature of the Teli is encapsulated in the person of Jesus.[^184] Tellingly, there is here a profound and familiar ambivalence on Abulafia’s part regarding the Teli. We see that its potency, though genuine and salutary, is demonic. Thus, contending with the Teli in mystical practice is as perilous as is grappling with the imagination, whose nature, in the current context, it seems to echo. God’s guiding hand behind the Teli indicates the higher, intellective component of the Active Intellect, operative behind the necessary products of the imagination. The implications in terms of Jesus are noteworthy, as 
 
 [^183]: Wolfson, *Through a Speculum That Shines*, pp. 246–263. See also Dan, “The Emergence of Jewish Mysticism in Medieval Germany,” pp. 72–73. Dan discusses the Special Cherub Circle, who directed their prayers, not to the enthroned cherub, but to the *Kavod* beyond. For Eleazar of Worms’ instruction to bow to the *Kavod* while directing one’s intentionality to the Tetragrammaton, see Abrams, “The Secret of All Secrets,” p. 71 (in Hebrew).
+
 [^184]: On the identification of the Teli with Jesus, see *\[illegible\] ha-Shemot*, MS NY-JTSA Mic. 1897, fol. 82a; printed edition, pp. 130–131. There, Abulafia reports that Jesus “did not receive his power from the unique name. Rather, all of his power depended (*talui*) upon the image of the Teli, because he was hanged (*talui*) upon the tree of the knowledge of good and evil.” See Berger, “The Messianic Self-Consciousness of Abraham Abulafia,” p. 57. See above, p. 164 n. 144.
 
 *[p. 241]* ^pg256
@@ -813,6 +920,7 @@ And this is the place of the sorcery of the world, in the ingathering of the pow
 Once more the Teli is explicitly linked here with sorcery. Abulafia perceives that the relationship of the Teli to the other constellations and to the elements harbors a magical efficacy. In *Mafteah ha-Sefirot*, Abulafia referred to the supernatural acts of Moses in his discussion 
 
 [^185]: *\[illegible\] ha- Tokhahot,* MS Oxford-BL 1605, fols. 25b–26a; printed edition, p. 8, mentioned above, p. 227 n. 147.
+
 [^186]: This may indicate the pattern that we have seen earlier, where the constellations are grouped into four sets of three each, according here to the four elements. The seven migrating stars are referenced in terms of their presumed cosmological position, below the constellations and above the world of the four elements. They appear to mediate between the upper and lower elements.
 
 *[p. 242]* ^pg257
@@ -824,6 +932,7 @@ A perceptible fragility to the distinction between proper and improper occult pr
 A series of interrelated discussions in *\[illegible\] Shefer* sheds further light on this theme. In one, Abulafia begins with a consideration of the phrase “two faces,” observing that God created man as an androgyne.[^188] The letters of the words *ish* and *ishah,* man and woman, Adam’s two components, Abulafia parses out to read “fire of *yod* ” and 
 
 [^187]: Ibid., MS Oxford-BL 1605, fols. 23b–24a; printed edition, p. 5. Uriel then represents air, and Rafael earth. See Idel, *The Mystical Experience in Abraham Abulafia*, p. 27.
+
 [^188]: *Imrei Shefer*, MS Munich-BS 285 fol. 66b; printed edition, p. 62.
 
 *[p. 243]* ^pg258
@@ -835,8 +944,11 @@ Abulafia next rearranges the letters of the words “two faces” to derive the 
 The “two faces” of the priest/mystic, we see, partake of a spiritual or soulful and a demonic or sorcerous aspect. Abulafia provides two bases to distinguish these aspects in this passage. One is the talmudic testimony that sorcerers are disobedient to God’s angelic ministers. What Abulafia himself intends by this will bear further scrutiny. The other centers around the letter *lamed*. His contention is that when this *lamed* is added to sorcery, it is rendered soulful and pious. The *lamed* stands for study. So it is that study—certainly with regard to Torah—transforms the sorcerer into the mystic. The distinction of mystic from sorcerer, it would appear, thus lies more in the nature of the former’s understanding of the proper intentionality in occult practice than it does within some difference between the two types of practice themselves. This is consistent with our observation of the precarious distinction between the two that is implied in *Mafteah ha- Tokhahot.*
 
 [^189]: The letter *he* has a numerical value of five, while the letter *yod* has a numerical value of ten.
+
 [^190]: One hundred and eighty and three hundred and sixty, respectively.
+
 [^191]: Twenty-five and fifty, respectively.
+
 [^192]: See above, p. 155.
 
 *[p. 244]* ^pg259
@@ -848,6 +960,7 @@ The first of the two bases mentioned to distinguish between pious mysticism and 
 . . . And all tens, the intention in all of them, derived from the Torah, is to announce to us that He, may He be blessed, is the cause of all causes, in every respect, and from every corner. . . . And indeed, the one thousand bodies of the men of the host, they are one hundred tens, which are in their essence ten one hundreds. And if so, there is for all of them a high prince over them. And to each one hundred of them, there is a prince beneath. Thus, ten princes, one high, and nine beneath him. And to each fifty of them, a prince below rules one hundred, thus twenty princes, one prince and nineteen beneath him. And to each ten of them, a prince below rules fifty. Thus, one hundred princes, one prince and ninety-nine beneath him. And to each one thousand, \[there is\] one prince of hosts, and he is called by the name Metatron, Prince of the Countenance. And all the princes mentioned are beneath him. And the prince of the one thousand and fifty, his name is Sandalfon, Prince of the Backsides (*Sar \[illegible\]* In particular, the division of the set of ten higher princes into nine, with one above them, links the angelic host to the *sefirot*. The *sefirot*, 
 
 [^193]: Idel indicates that, with the motif of the “loosening of the knots,” Abulafia implies as well the “removal of doubts,” or the overcoming of the imagination. *The Mystical Experience in Abraham Abulafia*, p. 137.
+
 [^194]: *Imrei Shefer*, MS Munich-BS 285 fols. 59a–b; MS Munich-BS 40 fol. 231b; printed edition, pp. 42–43.
 
 *[p. 245]* ^pg260
@@ -859,6 +972,7 @@ And this secret is “sowing of seed.” And this secret is, “intercourse.” 
 Two secrets are elicited. The numerical value of “Metatron, Prince of the Countenance,” is equal to that of “sowing of seed,” while the numerical value of “Sandalfon, Prince of the Backsides,” is equal to that of “intercourse.” We have already seen, in the discussion of levirate marriage, that, in the course of identifying the Active Intellect with the Teli and the name Shaddai, the phrase “Be fruitful and multiply” was applied to the latter. The procreative dimension, discussed in the current context, of Metatron and Sandalfon, I would maintain, here refers to their erotic union with each other. This results from their conjunction with the mystic, from which proceeds the theurgical reconstitution of the divine name from its two halves.[^196] The connection of these motifs with that of the head and tail of the Teli is not mentioned here but should be borne in mind as we continue.
 
 [^195]: Abulafia’s understanding of the princes should be compared to the Aristotelian model with respect to angelic intelligences. Abulafia’s Aristotelian cosmology is tripartite, composed of the world of the separate intellects, which he also identifies as the world of the *sefirot*, the world of the heavenly bodies, and the sub-lunar world. See ibid., MS Munich-BS 40 fols. 229a, 230b; printed edition, pp. 37–38. In the Aristotelian model, the separate intellects are the angelic intelligences guiding the movements of the heavenly bodies. See, for instance, Maimonides, *The Guide of the Perplexed* 2:4–10; Altmann, “Maimonides’ Attitude Toward Jewish Mysticism,” p. 212. In this discussion of Abulafia’s, then, such beings may represent the union between the sefirotic and the celestial worlds.
+
 [^196]: Idel points to Abulafia’s identification of the efflux from the Active Intellect as “seed,” and he suggests that the ecstatic experience is one of impregnation. *The Mystical Experience in Abraham Abulafia*, pp. 191–195. See also Wolfson, *Abraham Abulafia*,
 
 *[p. 246]* ^pg261
@@ -870,7 +984,9 @@ To return to the current passage from *\[illegible\] Shefer*, Abulafia proceeds 
 Know that the secret of “lot” is “apostate,” or “exalted,” comprising the joining of “the unclean and the clean” together. And thus the secret of the name is wholly explicit, because it is that which joins the being and the body, unclean and defiled, and joined to it is the soul, which is clean and purified. And when you understand this secret, you will understand the secret of the calf and the secret of the red heifer, and why it purifies the unclean and defiles the clean.
 
 [^197]: Confirmed here is what we had suspected regarding the angelic host’s governing role, as representatives of the *sefirot*, with respect to the heavenly bodies. See above, n. 195.
+
 [^198]: *Imrei Shefer*, MS Munich-BS 285 fol. 66b; printed edition, p. 62.
+
 [^199]: Abulafia refers specifically to the festival of Purim (Lots) and to Mordecai and Esther as embodying the male and female child, respectively. For a discussion of Mordecai and Esther with respect to unification with the Active Intellect, see Wolfson, *Abraham Abulafia*, p. 148.
 
 *[p. 247]* ^pg262
@@ -896,7 +1012,9 @@ The secret of the name “flesh and blood,” that is, of the corporealization o
 We have observed in this passage an essential parallelism between the clean and unclean potencies and names, the mystical and idolatrous practices oriented, respectively, toward them and Abraham’s pious and heathen sons. Abulafia now extends the notion of such an 
 
 [^201]: Ibid., MS Munich-BS 285 fol. 71a; printed edition, p. 77.
+
 [^202]: Munich BS 285, 60b reads “every name” and not “every prince,” although the numerical value of the phrase “Be fruitful and multiply” is equal to that for the word “prince” (five hundred) and not to that for the word “name.”
+
 [^203]: Idel observes Abulafia’s equation of the intellect and imagination with the son and daughter, respectively. *Language, Torah, and Hermeneutics in Abraham Abulafia*, p. 45.
 
 *[p. 249]* ^pg264

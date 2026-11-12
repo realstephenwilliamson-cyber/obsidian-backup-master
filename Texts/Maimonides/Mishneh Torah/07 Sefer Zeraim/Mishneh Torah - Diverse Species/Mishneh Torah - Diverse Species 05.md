@@ -100,79 +100,150 @@ If the wind carried the seeds before him and he saw them fall into the vineyard,
 **24.** [The following law applies when one] sowed an onion in a vineyard,[^69] the vineyard was uprooted afterwards,[^70] and then the onions grew from the roots that were already planted. Even though the growths are more than 200 times the size of the root,[^71] the root remains forbidden, for the permitted growths cannot change the status of the forbidden root.[^72] ^5-24
 
 [^1]: The wording of the prooftext implies that one is sowing mixed species - i.e., two species that are themselves *kilayim* - in a vineyard, i.e., together with grape seeds (Radbaz).
+
 [^2]: Provided he is given a warning for each of the prohibitions (*ibid.*).
+
 [^3]: As explained in Chapter 1.
+
 [^4]: I.e., he transgresses a negative commandment, included as one of the 365 negative commandments by *Sefer HaMitzvot* (negative commandment 216) and *Sefer HaChinuch* (mitzvah 548).
+
 [^5]: Not only wheat and barley, but all five species of grain are considered as mixed species when sown with grapes and forbidden according to Scriptural Law.
+
 [^6]: For the only concept of *kilayim* that applies with regard to crops in the Diaspora is the prohibition against grafting different species of trees. The prohibition against mixed crops, like all the other laws concerning the crops of *Eretz Yisrael*, do not apply in the Diaspora.
+
 [^7]: These species, like grapes, require three years before their produce appears. For the prohibition against mixed species to apply, the produce must resemble that of the grape vine.  
     In his Commentary to the Mishnah (*Kilayim* 2:5), the Rambam writes that he does not see how it is possible for there to be a vegetable plant that does not produce fruit for three years. That is a common phenomenon for trees and vines, but not for vegetables. He writes that these species of vegetables do remain in the ground for several years and continue to produce fruit and that appears to be the Rambam's intent.
+
 [^8]: As stated in Chapter 1, Halachah 3.
+
 [^9]: As mentioned in *Hilchot Ma'achalot Assurot* 10:6, [[Torah 49 - Ki Teitzei#^22-9|Deuteronomy 22:9]] states: ...Lest the fullness of the seed which you sowed and the produce of the vineyard become hallowed.' ['Becom[ing] hallowed'] means being set apart and forbidden."  
     In contrast, mixed species in the field are forbidden to be eaten, but it is permitted to benefit from them, as stated in Chapter 1, Halachah 7.
+
 [^10]: This applies even on land belonging to a gentile. The Radbaz maintains that, according to the Rambam, this prohibition applies even on land belonging to a gentile in the Diaspora. Since it is forbidden for a Jew to plant such crops there according to Rabbinic Law, it is forbidden to help a gentile.
+
 [^11]: With the intent of destroying it.
+
 [^12]: The Radbaz asks: Since mixed substances that grow on a gentile's land are not prohibited, why are they referred to as undesirable substances? He explains that since they are forbidden when growing on a Jew's land, they are considered as undesirable even when growing on a gentile's land.
+
 [^13]: I.e., plants that do not produce edible produce. This applies even according to Rabbinic Law (*Kessef Mishneh*). See Halachah 19 for illustrations of this principle.
+
 [^14]: I.e., all types of trees may be planted in a vineyard.
+
 [^15]: The *Beit Yosef* (*Yoreh De'ah* 296) states that the Rambam's wording implies that only one species of vegetable or grain is present. Although Halachah 1 states that to be liable for lashes, he must sow two mixed species together, a prohibition is involved when even one is present.
+
 [^16]: For as stated in Halachah 2, he is not liable for lashes unless he sows the mixed species together.
+
 [^17]: From the Rambam's wording, it is clear that he does not consider this as a Rabbinic safeguard, but rather the violation of a Scriptural prohibition.
+
 [^18]: I.e., the prohibition does not apply only to the produce, but to the plants themselves. See the gloss of the Radbaz.
+
 [^19]: Moreover, if a new oven is fired with them, it is forbidden to benefit from the oven itself. For firing a new oven completes it (*Pesachim* [[Pesachim 26#26a|26a]]).
+
 [^20]: The owner of the field is not, however, liable for lashes, because he did not perform a deed.
+
 [^21]: We find this principle in several other contexts (e.g., *Hilchot Nazirut* 9:9; *Hilchot Arachin* 4:26). Nevertheless, in those instances, the consecration of the article does not reflect a physical change in its state, but rather its designation as being holy. It is logical to conceive that only the owner of an article can make such a designation. In the present instance, by contrast, the different species of produce become hallowed because of the fact that they grow together. Seemingly, it makes no difference why they grow together, whether they were planted by the owner or by another person. Indeed, if a person puts milk into a pot cooking with meat belonging to his colleague, the food becomes prohibited.  
     For this reason, although the Rambam accepts the above principle in other contexts. He found it problematic with regard to *kilayim*. Thus in his Commentary to the Mishnah (*Kilayim* 7:4), he originally favored the opinions which maintain that the above principle does not apply in this instance. Only later in life did he change his view and rule, as above, that it does apply. According to Rav Kappach, at that time, he also amended his Commentary to the Mishnah.
+
 [^22]: For in the Sabbatical year, the field is not his own. Instead, it is ownerless. As above, in this instance as well, the Rambam deviated from his original ruling in his Commentary to the Mishnah (*loc. cit.*:5).  
     The Radbaz notes that the above ruling applies to the produce, but not the wood growing in the vineyard, because the wood does not become ownerless. Therefore it is forbidden.
+
 [^23]: The Ra'avad (based on the Jerusalem Talmud, *Kilayim* 7:5) interprets this as referring to a situation where the person is working for the owner of the field. Otherwise, he maintains there is no reason to rule that he should be forbidden to benefit. Rav Yosef Corcus and the Radbaz explain the Rambam's ruling. Rav Yosef Corcus states that it applies to a person who has the right to enter his colleague's field even thought he is not working there (see also *Turei Zahav* 296:3). Otherwise, he would not have any effect on it, even for himself. The Radbaz states that the Rambam's ruling applies even to a person at large. Since he did not notify the owner about the problem, it is as if he took a vow to personally consider the produce as forbidden.
+
 [^24]: In the time of the Roman occupation, it was common for landed property to be taken by force. Our Sages addressed the possible halachic problems that arise in such a situation.
+
 [^25]: Our translation is based on the Rambam's Commentary to the Mishnah (*Kilayim* 7:6). Others interpret the term as meaning that the land is no longer referred to as belonging to the original owner.
+
 [^26]: The Radbaz explains that since the owner is forced to hide, even though in his own heart, he hopes to have the land returned, it is as if he has already given up hope (Radbaz). Although generally, we follow the ruling that land cannot be stolen (*Hilchot Gezeilah* 8:14), but instead, is always considered as belonging to the original owner, in this instance, because of the severity of the prohibition against *kilayim*, we rule stringently.
+
 [^27]: Our translation is based on authentic manuscripts and early printings of the *Mishneh Torah*. It also follows the Rambam's Commentary to the Mishnah (according to Rav Kappach's version). The standard printed text of the *Mishneh Torah* - and also that followed by the *Kessef Mishneh* - follows a different version. In all cases, the basic intent remains the same.
+
 [^28]: I.e., and in the time he did not remove them, they grew 1/200th, as stated in Halachah 22.
+
 [^29]: For, as evident from Halachah 21, a person does not cause produce to be considered *kilayim* unless he willfully allows the mixed species to grow.
+
 [^30]: In the time of the Roman occupation, it was common for landed property to be taken by force. Our Sages addressed the possible halachic problems that arise in such a situation.
+
 [^31]: Lest he be liable for maintaining *kilayim*.
+
 [^32]: The intermediate days of a festival, when there are restrictions against performing work in one's fields (see *Hilchot Sh'vitat Yom Tov*, ch. 7). Nevertheless, in this instance, he is required to do so, to avoid the violation of the prohibition against *kilayim*.
+
 [^33]: In his Commentary to the Mishnah (*Kilayim* 7:6), the Rambam gives an example. If the worker's wage was normally three *zuz* a day, he should be paid four.
+
 [^34]: I.e., it grows 1/200th.
+
 [^35]: Wheat or vegetables.
+
 [^36]: The grapes.
+
 [^37]: Before grain is ready to be harvested, the kernels dry out and harden.
+
 [^38]: In his Commentary to the Mishnah (*ibid.*:7), the Rambam explains that the prooftext describing the prohibition speaks of "the seed" and "the produce." The Hebrew terms imply produce that is in the process of developing and not produce that has already developed fully and is ready to be harvested.
+
 [^39]: I.e., according to Scriptural Law, neither the vines, nor the grain or the vegetables are forbidden.
+
 [^40]: According to Rabbinic decree. Not only may one not partake of them, it is forbidden to benefit from them.
+
 [^41]: The Ra'avad states that it is permitted to benefit from the produce of the vine, implying that it is forbidden to partake of it. The Radbaz and the *Kessef Mishneh*, however, differ and maintain that it is permitted even to partake of it.
+
 [^42]: The Radbaz and the *Kessef Mishneh* state that this ruling appears to contradict the Rambam's statements made previously, that "he is penalized and we forbid the growths," implying that it is forbidden to benefit from them. They each suggest possible resolutions of the issue.
+
 [^43]: This is speaking about a situation where the grain or the vegetables have taken root. The grain or the vegetables are forbidden, as above.
+
 [^44]: It appears that, according to the Rambam, it is forbidden to partake of their produce immediately. The Ra'avad permits one to partake of it. His rationale is that since they did not take root, it is as if they were never planted. The Radbaz explains that the prohibition against partaking of the produce is a Rabbinic safeguard.
+
 [^45]: In his Commentary to the Mishnah (*Kilayim* 7:2), the Rambam emphasizes that we are speaking about a vine that is alive and will produce grapes in the future and not one that has dried out entirely. If the vine is totally dried out, it is permissible to sow other species near it (Radbaz, *Kessef Mishneh*, commenting on the gloss of the Ra'avad).
+
 [^46]: As indicated by Chapter 1, Halachah 2, this reflects a general principle applicable in many contexts of agricultural law: If a flowerpot has a hole at its bottom, it is considered as being a part of the field, because it derives nurture there. If it does not have such a hole, it is considered as a separate entity.
+
 [^47]: The punishment administered for the violation of a Rabbinic commandment.
+
 [^48]: For it derives nurture from the ground through the hole. See the Rambam's Commentary to the Mishnah (*Demai* 5:10).
+
 [^49]: Without his knowledge.
+
 [^50]: On the contrary, they fell in the vineyard against his will [*ibid.* (*Kilayim* 5:7)].
+
 [^51]: For whenever mixed species are maintained in a vineyard, they become hallowed, as stated in Halachah 8.
+
 [^52]: But had not seen them beforehand.
+
 [^53]: Although generally, *kilayim* should be destroyed by fire, an exception is made in this instance, because - since the newly grown crops are moist and not appropriate to be burnt.
+
 [^54]: I.e., even its straw (Radbaz, *Kessef Mishneh*; this ruling appears to contradict the Rambam's Commentary to the Mishnah (*loc. cit.*).
+
 [^55]: The grain is forbidden from the time it becomes rooted in the ground. The vines are not forbidden unless they grow 1/200th of their size. Alternatively, since he did not purposely plant the grain, even if the vines grew that much, they are not forbidden as long as the person did not willfully maintain the mixed species (Radbaz).
+
 [^56]: For whenever mixed species are maintained in a vineyard, they become hallowed, as stated in Halachah 8.
+
 [^57]: In his Commentary to the Mishnah (*Kilayim* 5:8), the Rambam explains that this is also derived from the prooftext cited above. "Which you sowed" implies "what is customary for you to sow."
+
 [^58]: Compare to Chapter 1, Halachah 4.
+
 [^59]: I.e., everything depends on the prevailing local practice. What the person thinks individually is not of consequence.
+
 [^60]: Our translation is taken from Rav Kappach's notes to the Rambam's Commentary to the Mishnah (*Uktzin* 1:6).
+
 [^61]: As stated in Halachah 6, all types of trees may be planted in a vineyard.
+
 [^62]: In such an instance, each year, the trunk changes.
+
 [^63]: Compare to *Hilchot Ma'aser Sheni* 1:7. See also *Hilchot Berachot* 8:6.
+
 [^64]: I.e., he need not hurry to uproot it immediately, but may proceed at his ordinary pace, provided he does not delay.
+
 [^65]: He has transgressed, because he has maintained mixed produce in a vineyard.
+
 [^66]: As the Jerusalem Talmud (*Kilayim* 5:6) explains, a plant will grow at the same rate that it will dry out. (As the Radbaz points out, this applies over the entire span. The particular phases of its growth and drying will vary.)
+
 [^67]: As stated in the notes to Halachah 16, when such a flowerpot is left on the ground, it is considered as if the pot is connected to the earth and it as if the plants growing in it are part of the vineyard. As a safeguard, our Rabbis forbade even carrying such a flowerpot through a vineyard.
+
 [^68]: According to the Rambam, however, the produce growing in it does not become hallowed.
+
 [^69]: And thus it became forbidden as *kilayim*.
+
 [^70]: But the forbidden onion plant was left in the ground.
+
 [^71]: And mixed species are nullified in a mixture 200 times the size of the original amount.
+
 [^72]: Instead, despite the growth of the onion plant, the root remains forbidden. Rabbi Akiva Eiger notes that the Rambam rules in this manner in *Hilchot Neta Reva'i* 10:16. In *Hilchot Terumah* 11:22, he rules otherwise.  
     The Rambam's wording could be interpreted as implying that the plant that grows from the root is permitted. This is the conclusion of Rav Yosef Corcus. There are other *Rishonim* who maintain that the entire plant is forbidden. *Kin'at Eliyahu* notes that in *Hilchot Nedarim* 5:15, the Rambam rules: "If it was an entity whose seed does not decompose, even the produce that grows from the produce that grows from them is forbidden." Seemingly, the same principles would apply here.

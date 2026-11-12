@@ -76,23 +76,43 @@ All of the vessels of the Mishkan were made of acacia wood inlayed with gold, ex
 Yet the caporet, which corresponds to the heart, and the menorah, which corresponds to the eyes, with these a man must be especially vigilant that they are clean and refined, not corrupted in any way from his own desire for the pleasures of this world. This is as it is said in the Jerusalem Talmud (*Berachot*, 1:5), “the eye and the heart are the two agents of sin. The eye sees and the heart lusts.” But indeed the eye must be stripped of all the lusts of this world, and used as a pure vessel for the soul, like a clear glass through which the soul looks at the world and decides whether it is good and to receive it, or whether it is evil and to reject it. Yet, when within the eye itself there is any desire or lust for the pleasures of this world, then the eye is not a vessel for the soul, but rather a free agent, free to lust after the affairs of this world. Then the soul does not have the opportunity to distinguish the good from the evil. Therefore God commanded to be completely refined. The eye shall be clean and stripped of vain lusts, and then it will follow that the soul will only desire that which is God’s will.
 
 [^1]: The Holy Zohar says, “the blue of the *t’chellet* hints at the blue of the sky which hints at the Throne of Glory.” Thus it would inspire awe. Also, the Kotsker Rebbe explained the meaning of what Rebbe Nachman said, that looking at the sky is a *segula* for [way to come to] the fear of God. The Kotsker said, it has to do with Rashi’s explanation of *Bereshit*, [[Torah 01 - Bereshit#^1-6|1:6]], “let there be a firmament.” Rashi says that then the firmament became solid, for on the first day it was still in a flexible. It only became solid on the second day at the shout of God, who said, “let there be a firmanment.” This is as it says ([[Job 26#^26-11|Job, 26:11]]), “the pillars of the Heavens shook,” for they were not firmly fixed on the first day, and then on the second, “they were astonished at His rebuke,” like a man who is shocked and stands still at the shout of one who frighens him.” On this, the Kotsker said that when one looks at the firmament [sky] he can still feel the shout of God that fixed it in its place.
+
 [^2]: On a weekday, *Mincha* is a time of an awakening of *dinnim*, or severe judgment. However, the *Mincha* prayer on the afternoon of Shabbat is a time of great mercies. Kabbalistically speaking, this is when Zeir Anpin and Leah ascend within Abba and Imma to the level of the rectifications of the beard of Arik Anpin, considered the supreme abode of divine compassion.
+
 [^3]: The sound of the beating of the wings of 256 angels would surely inspire great fear of God.
+
 [^4]: The Hebrew term in many hasidic books is *Tekifut*, which is more than just strength, but a kind of *azut d’Kedusha*, a kind of holy brazenness.
+
 [^5]: 32 = *lev* = “heart.” Apparently it was a long cloth wrapped around the torso.
+
 [^6]: For one must understand that there is no action in this world that does not have a remnant in the world to come. *Tashlum Mei HaShiloach*.
+
 [^7]: *Yud Hei* are the first two letters in God’s ineffable name, the Tetragrammaton. *Yud Hei* signifies transmission, while the second two letters *Vav Hei* imply reception. It is one of the basic principles of Kabbalah that *Yud* signifies *Chochma*, (Wisdom), while *Hei* signifies *Binah*, (Understanding), hinted-at in the right and left brain, hidden from sight, and requiring a further flow of execution to be brought into reality. This is why the author says that “the depth of understanding in Torah knowledge” are hinted at in these two letters, and all the more so because they are revealed in the word *pitdah* only in the previous letters, signifiying a greater level of concealment that cannot be brought into a communicable form.
+
 [^8]: Which is normally interpreted to mean that Uriah had sent Bat Sheva a bill of divorce before he went to war. However, the deeper meaning that is relevant here is that David was the paramount “*ba’al teshuva*,” and when one undergoes an authentic experience of *teshuva*, then all his iniquities are turned into merits.
+
 [^9]: See how this is explained above, page 53, “and Yehuda drew close.”
+
 [^10]: Hirch translates “I am a hasid” with “for I dedicate myself.” Soncino comments, “one who loves God and is therefore deserving of God’s love.”
+
 [^11]: *Chochma m’vureret*.
+
 [^12]: The name *E-lohim* is written *plene* by *Chochma m’vureret*. This is numerically equivalent to 295. Four times this is 1,180. This is one hundred more than the 1,080 mentioned above. The author is not using our normal “sixty seconds to a minute” calculation.
+
 [^13]: not holding back, doing without looking right or left.
+
 [^14]: The Holy Isbitser does not say what the connection between *achlama* and the ability to bring Israel together in the name of God. But I will offer that *achlama* is the letters of *ach l’mah* “brother for MaH,” where MaH the numerical equivalent of the expansion of God’s name, which equals forty-five; hence, brotherhood in the name of God.
+
 [^15]: “Troop” signifies gathered together.
+
 [^16]: And the body is the primary vehicle for man’s expansion.
+
 [^17]: There, in the *Mei HaShiloach* on *Parshat Bereshit*, it reads: The onyx (“shoham”) stone hints at the love of God, for it is the stone that corresponds to Yosef, who is the *sefirah* of *Yesod* (foundation), which is filled with Divine effusion (as it receives and collects all the Divine energies from the eight *sefirot* above it).
+
 [^18]: The name of the stone jasper in Hebrew is the letters of “he has a mouth.”
+
 [^19]: And how is incense the connection of all things? Besides the similarity in the letters of *ketoret* and “connection,” *Ketirah* in Aramaic, Rabbi Yitzhak of Acco writes in his explanation “Meirat Eineihem” that smoke, *ashan*, is an acronym for *olam shana netesh*, meaning place, time, and soul, the three main components of existence, as discussed in the *Sefer Yetsirah*.
+
 [^20]: The Gemara is talking about the mitzvah of the study of Torah, that foremost he is studying for his own benefit, and only after this for the good of the rest of the world.
+
 [^21]: This means that all the vessels made from acacia wood are like actions that may be for selfish motives to gratify different parts of the body now, but will be refined for the sake of Heaven in the future.

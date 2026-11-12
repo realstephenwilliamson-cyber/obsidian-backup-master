@@ -114,44 +114,83 @@ A small belt, since it is considered as an independent garment, invalidates [one
 Blessed be the Merciful One Who grants assistance. ^10-13
 
 [^1]: From [[Torah 25 - Tzav#^6-2|Leviticus 6:2]], one might presume that the tunic is put on first, because it states: "And the priest shall put his fitted [tunic] and he shall put on linen leggings." Nevertheless, through the process of Biblical exegesis, *Yoma* [[Yoma 23#23b|23b]] derives that nothing should be put on before the leggings.
+
 [^2]: The sash was 32 cubits long, so that it will obviously be wound around him several times.
+
 [^3]: By *Zevachim* [[Zevachim 18#18b|18b]].
+
 [^4]: I.e., a place like the armpits or loins where flesh covers flesh leading to perspiration.
+
 [^5]: A renowned student of the Sage Hillel, who translated the Tanach into Aramaic.
+
 [^6]: See *Megilah* [[Megillah 3#3a|3a]] which ascribes this translation to the prophets Chaggai, Zechariah, and Malachi who accompanied the Jews back from the Babylonian exile to Jerusalem.
+
 [^7]: At elbow height.
+
 [^8]: See Chapter 8, Halachah 2. The order in which the ordinary priests put on the priestly garments is taken from [[Torah 25 - Tzav#^8-13|Leviticus 8:13]].
+
 [^9]: I.e., he puts on the first three garments in the same manner as an ordinary priest does.
+
 [^10]: [[Torah 20 - Tetzaveh#^28-31|Exodus 28:31]].
+
 [^11]: The bracketed inclusion is necessary, because in front of his head, the turban was above the forehead plate, as the Rambam proceeds to state. The order in which the High Priest put on his priestly garments is taken from [[Torah 25 - Tzav#^8-7|Leviticus 8:7-9]].
+
 [^12]: See Halachah 6.
+
 [^13]: *Sefer HaMitzvot* (positive commandment 33) and *Sefer HaChinuch* (mitzvah 99) includes this commandment among the 613 mitzvot of the Torah. The wording in *Sefer Hamitzvot* implies that the fundamental mitzvah is for the priests to wear these garments for their Temple service. Making the garments is merely a preparatory phase that enables that mitzvah to be fulfilled.
+
 [^14]: This refers to the garments of the High Priest.
+
 [^15]: This refers to the clothes of an ordinary priest.
+
 [^16]: See *Hilchot Bi'at HaMikdash* 9:1.
+
 [^17]: From the Rambam's Commentary to the Mishnah (*Zevachim* 2:1), it appears that wearing any extra garment, not only an extra priestly garment, causes one to be liable.
+
 [^18]: We see this concept in several other contexts. When there is an extra entity, it is as if it and the entity that is required to be present is lacking. See *Hilchot Shechitah* 6:2.
+
 [^19]: The Rambam is not quoting a verse exactly. Similar phrase exist in [[Torah 25 - Tzav#^6-3|Leviticus 6:3]] and 16:4.
+
 [^20]: See Halachah 3.
+
 [^21]: One can infer that he is not obligated to wear *tefillin*. We apply the principle: One who is occupied in the observance of a mitzvah - the priestly service - is exempt from another mitzvah, wearing *tefillin*.  
     The *tefillin* are not considered as an extra garment, because *tefillin* are not considered a garment (*Kessef Mishneh*).
+
 [^22]: *Zevachim* [[Zevachim 19#19a|19a]] questions whether these situations are acceptable and does not arrive at a conclusion. Accordingly, the Rambam rules that as an initial preference, one should be concerned with these matters, but the difficulty is not great enough to disqualify the service. For unless the Torah or our Sages explicitly ruled that a sacrifice is unacceptable, one cannot bring another one in its place for it is possible that one will be committing the transgression of slaughtering an ordinary animal in the Temple Courtyard (see *Hilchot Shechitah* 2:3). The slaughter of the animal might be placed in that category, because one is bringing it as a sacrifice under the conception that he is obligated to do so, when in fact that might not be so.  
     The *Kessef Mishneh* states that one may not bring a sacrifice and make a conditional stipulation: "If the previous sacrifice was unacceptable, may this be considered as my obligation and if the previous sacrifice was acceptable, this is a freewill offering." There are some sacrifices - e.g., sin offerings, guilt offerings, and communal offerings - where such a stipulation cannot be made. Hence, our Sages enforced uniformity and prevented conditional offerings in these instances.
+
 [^23]: The minimum size of a garment (see *Hilchot Keilim* 22:12; 23:7; *et al*).
+
 [^24]: It is too small to be considered as entity of consequence.
+
 [^25]: Since he is not tying a permanent not, there is no prohibition against tying. Nor is there a prohibition against performing an act of healing on the Sabbath (as is prohibited in certain instances), because such prohibitions were not applied in the Temple.
+
 [^26]: For this is a transgression of the Sabbath laws and it does not aid the Temple service (Rashi, *Eruvin* [[Eruvin 103#103b|103b]]).
+
 [^27]: See *Hilchot Bi'at HaMikdash* 5:17.
+
 [^28]: For in this instance, even if the article is not significant, an interposition invalidates the service. The Ra'avad objects to the Rambam's ruling, claiming that it is a contradiction to his ruling in the previous halachah. The *Kessef Mishneh* justifies the Rambam's position, explaining that in the previous halachah, the garment was not considered a garment because of its size. Nevertheless, that does not mean that it is not considered an interposition. As long as it intervenes, it disqualifies service regardless of its size.
+
 [^29]: *Kiddushin* [[Kiddushin 31#31a|31a]] relates that the Sages sought to purchase the stones for the High Priest's breastplate in the era of the Second Temple.
+
 [^30]: As mentioned in the notes to *Hilchot Beit HaBechirah* 4:1, the *Kessef Mishneh* explains that the Rambam considers the term *Urim* and *Tumim* as referring to the stones of the High Priest's breastplate. See also the Rambam's Commentary to the Mishnah (*Sotah* 9:20. The Ra'avad and others differ and interpret it as referring to the script of mystic names of God that were placed in the folds of breastplate.
+
 [^31]: For the stones were an integral part of the structure of the breastplate.
+
 [^32]: The spirit of prophecy.
+
 [^33]: *Yoma* [[Yoma 21#21b|21b]] explains that this is one of the five differences between the holiness of the First Temple and that of the Second Temple.
+
 [^34]: I.e., in the era of the First Temple.
+
 [^35]: As in the classic example of Chanah's prayer ([[I Samuel 01#^1-13|I Samuel 1:13]] , which is accepted as the paradigm for our *Shemoneh Esreh* prayers.
+
 [^36]: For the verse is referring to Joshua whose position was that of a king.
+
 [^37]: I.e., a person upon whom the future of the entire Jewish people depended.
+
 [^38]: See [[I Samuel 22#^22-18|I Samuel 22:18]].
+
 [^39]: Instead, it also contained sky-blue wool, scarlet wool, red wool, as related in Chapter 9, Halachah 9.
+
 [^40]: See *Hilchot Yesodei HaTorah* 7:4-5 with regard to the preparations a person would make for the spirit of prophecy to rest upon him.

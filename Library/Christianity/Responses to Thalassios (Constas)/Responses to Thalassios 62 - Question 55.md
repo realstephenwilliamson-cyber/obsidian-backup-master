@@ -35,6 +35,7 @@ Response
 55.2. To speak about these matters with precision belongs solely to those who, on account of their great purity of intellect, have received from God all the fullness of the grace of the Spirit that human beings are capable of receiving.\[1\] By means of this grace they cognitively traverse the ocean of mystical contemplations, beholding solely the inner principles of the words of Scripture stripped of their conventional figures. In general they say nothing concerning the figures by which the principles are symbolized, unless in their wisdom they should somewhere 
 
 [^1]: Cf. 1 Esd 5.41–42.
+
 [^2]: Or “inopportune,” i.e., ἀκα ρόγραφος, a word that is not otherwise attested; cf. below, Qu. 55.32 = ἄκα ρος. Eriugena paraphrases the word as *scripta simpliciter* (CCSG 7:480, line 9).
 
 *[p. 356]* ^pg386
@@ -42,6 +43,7 @@ Response
 wish\[2\] to express them in a corporeal manner for the sake of those who, because of their intellectual immaturity, cannot see beyond the level of the senses. Their hope is that such persons, having first exercised themselves with sense-perceptible figures, might acquire a longing to advance to the archetypical principles beyond the senses. Yet for us to pursue loftier interpretations by means of conjecture, following our natural capacity of desire for the knowledge of divine realities, is by no means pointless, inasmuch as conjecture offers two benefits for those who possess genuine piety for the things of God.[^3] Because those who approach divine realities conjecturally will either attain the truth of intelligible realities, and joyfully offer as a “sacrifice of praise”[^4] their gratitude to God,\[3\] who granted
 
 [^3]: “Conjecture” (στοχασ ός) is a key term in the *Ambigua,* where Maximos professes to be speaking “conjecturally and not by way of proofs” (στοχαζόενος καὶ οὐκ ἀποφα νό ενος) (*Amb.* 71.11 \[DOML 2:328–29\]); cf. *QThp.*: στοχαστ κῶς ἀλλ᾽ οὐκ ἀποφαντ κῶς (75, line 35; a phrase repeated in *Amb.* 7.11; 10.105; and 19.3); *Ep.* 5: ζητητ κῶς ἀλλ᾽ οὐ δογ ατ κῶς (PG 91:432C); *Amb.* 19.3: στοχαστ κῶς εἰπεῖν (DOML 1:402; cf. *Amb.* 19.5; 21.2); *Amb.* 20.4: κατὰ στοχασ ὸν νο ζω (DOML 1:414); and *Cap. theol.* 2.88: στοχαστ κῶς ἐρεῖ τ ς (PG 90:1165D). Philo employs “conjecture” in his biblical exegesis, as for example in *On the Creation of the World* 72–73 (LCL 1:56), but there are closer parallels in Gregory of Nyssa, where the term and its cognates appear more than 70 times (but only twice in Gregory Nazianzus, and not at all in the *corpus Dionysiacum*). In the *Life of Moses* 2.173, Nyssa leaves the more “profound examination \[of the celestial tabernacle\] to those illumined by the Spirit,” while he himself “will speak conjecturally (στοχαστ κῶς)” (SC 1bis:218–20), which is also how Maximos uses the term (cf. below, Qu. 65.2); see Mariette Canévet, *Grégoire de Nysse et l’herméneutique biblique: Étude des rapports entre le langage et la connaissance de Dieu* (Paris: Études augustiniennes, 1983), 52–55. Given Maximos’s theology of human seeking and questing, which is a process of inquiry driven by natural capacities implanted by God in the soul (cf. below, Qu. 59), “conjecture” is not simply logical deduction, inference, or speculation on the part of those lacking experience (although it may of course be invoked as a modesty topos). In classical Greek, στοχασ ός also means to “divine the future” or simply “divination,” and thus suggests a mode of contemplation relative to future or transcendent realities. Thus for Nyssa, *Commentary on the Song of Songs* 1 (GNO 6:37), the term is a function of his apophatic theology, which “conjectures about the incomprehensible.” Maximos has argued throughout the *Responses,* as he does here, that only a search by an intellect free of the passions “will attain the truth of intelligible realities,” generating a conjecture that will receive a response from the Spirit.
+
 [^4]: [[LXX Psalms 49#^49-14|Ps 49.14]]; [[Hebrews 13#^13-15|Heb 13.15]].
 
 *[p. 357]* ^pg387
@@ -51,8 +53,11 @@ them the knowledge of what they were seeking, or they will find that the meaning
 55.3. Approaching, then, as I said, the meaning of this text by way of conjecture, I begin with the things set forth in Scripture. In the preceding chapter, it is written of Zerubbabel that: “When the young man had gone forth, he lifted up his face to heaven toward Jerusalem, and blessed the king of heaven.”[^7] It is clear\[5\] that, after the presentation of the proposals to Darius the king, he “went forth” from the face of none other than the same Darius. As I have already said prior to embarking on this examination, Darius is the prevailing law of nature.[^8] Understanding him like this is clearly consistent with the interpretation of his name, which means “generation,” or “genealogy,” or “one who figures in a genealogy,” according to those with expertise in this language. Indeed the words “generation” and “genealogy” express the characteristic property of the natural law insofar as the human genus and all that figures in genealogies are subject to nature,\[6\] and a genealogy concerns the things around nature. Darius is therefore correctly taken as a 
 
 [^5]: Cf. the parallel formulation in Basil, *Hexaemeron* 2.1 (SC 26bis:138–40).
+
 [^6]: A phrase indebted to Gregory Nazianzus, *Or*. 43.1 (SC 384:118, lines 24–29).
+
 [^7]: 1 Esd 4.58.
+
 [^8]: See above, Qu. 54.4.
 
 *[p. 358]* ^pg388
@@ -62,9 +67,13 @@ symbol of the law of nature, for this law contains the genera and species that a
 55.4. Darius, then, as I said, is the law of nature. Zerubbabel, on the other hand, is the contemplative intellect that “went forth,” as if from Darius, meaning from the law of nature, and transcended the splendid array of visible realities subject to time and place, and lifted up the face of its cognitive disposition for virtue toward heaven, that is, toward the height of intelligible essences, toward the intelligible Jerusalem which is in the heavens. By this I am referring to that Jerusalem whose “walls are painted upon the hands” of the Lord,[^10] in which is the “dwelling place of all those that rejoice,”[^11] and toward which the true return of the captives takes place, who are seeking, in the words of the Apostle, their “dwelling place in heaven.”[^12] \[7\] Such captives are those who, together with the great David, are able to say: “If I forget you, O Jerusalem, let my right hand be forgotten; may my tongue cleave to my larynx, if I do not remember you.”[^13] Perhaps this is to be taken in 
 
 [^9]: The Greek phrase rendered here as “necessary conditions” (τῶν \[ὧν\] οὐκ ἄνευ) is the equivalent of the Latin *sine qua non*, indicating necessary actions or conditions without which other things cannot exist. Neoplatonic writers use the phrase to denote two or more objects or entities whose existences are mutually and qualitatively conditioned (if not necessarily mutually caused); cf. below, Qu. 64.3; and Qu. 65.23. The notion that “time and space” are among such necessary conditions, which also appears in *Amb.* 10.58; and ibid., 10.91 (DOML 1:242; 292), is attested in the *Anonymous Prolegomena to Platonic Philosophy* (ed. L. G. Westerink \[Amsterdam: North-Holland, 1963\], 16): “Time and place constitute the *sine qua non* for existence.” The phrase was also used by Philo, *On the Decalogue* 31.1: “Those who study the doctrines of philosophy say that the categories in nature, as they are called, are ten only, that is, substance, quality, quantity, relation, activity, passivity, state, position, along with the necessary conditions for the possibility of their existence, namely, time and place” (LCL 7:20–21); cf. idem, *On Arithmetical Numbers*, ed. K. Staeh-le (Leipzig: Teubner, 1931), 99, lines 4–5.
+
 [^10]: Is 49.16.
+
 [^11]: [[LXX Psalms 86#^86-7|Ps 86.7]].
+
 [^12]: [[2 Corinthians 05#^5-2|2 Cor 5.2]].
+
 [^13]: [[LXX Psalms 136#^136-5|Ps 136.5–6]].
 
 *[p. 359]* ^pg389
@@ -76,9 +85,13 @@ the sense that the “right hand” signifies the spiritual practice of divine a
 55.6. This can be seen quite clearly in the passage from Scripture that is under examination, which says: “All those of Israel, from twelve years old and upward, besides children and women, were forty-three thousand three hundred and sixty.”[^18] One cannot but admire here the precision of the words of the Spirit, which indicates that absolutely none of those numbered among Israel, who came forth from Babylon—by which I mean the confusion of this present age—were under twelve years old. 
 
 [^14]: Cf. [[LXX Psalms 33|Ps 33.8]].
+
 [^15]: Here both subjects are implied, i.e., Zerubbabel as a symbol of both the contemplative intellect and the transcendent Word of God.
+
 [^16]: Cf. [[Hebrews 02#^2-14|Heb 2.14]].
+
 [^17]: Cf. [[Galatians 04#^4-26|Gal 4.26]].
+
 [^18]: 1 Esd 5.41.
 
 *[p. 360]* ^pg390
@@ -88,6 +101,7 @@ Here the word of Scripture mystically affirms that only the person who is not su
 55.7. The “children”\[10\] may perhaps signify the thoughts of the natural and blameless passions that do not come under our control, while “women” may perhaps signify the mind’s conceptions, or the natural appetites and desires that bring no accusation to those who possess them, insofar as they are necessary concomitants of natural appetite.[^19] Ordinary food, for example, can quite naturally and apart from our own wishes produce pleasure, satisfying an outstanding need. So too does drink relieve the pangs of thirst; and sleep renews the strength exhausted through wakefulness, and so on with all our other natural passions, which are necessary for the maintenance of life, and which are used by the diligent in the acquisition of virtue.[^20] Even if such “children” are not counted together with the men, they nonetheless go forth together with every intellect fleeing from the confusion of sin. This takes place so that the intellect does not, on their account, remain a captive slave of the blameworthy and unnatural passions, the control of which lies within our power, but that instead they should have no governing principle within them other than the movement of the natural passions. And they are not numbered together with the rest,\[11\] for it is not natural that the passions, which bind our 
 
 [^19]: The natural and blameless passions are distinct from those passions that are contrary to nature and blameworthy, which are linked to human passivity and fallen human nature. Among the former, Maximos mentions the involuntary experience of hunger, thirst, and the need for sleep. The latter are constituted through the willful abuse of these passions, so that, for example, the natural and blameless need to eat degenerates into the unnatural and blameworthy vice of gluttony; cf. *Amb*. 4.4; ibid., 5.15 (DOML 1:25; 47); and above, Qu. 21.
+
 [^20]: On the “diligent” and the role of the passions in the life of virtue, see above, Qu. 1.3.
 
 *[p. 361]* ^pg391
@@ -97,9 +111,13 @@ nature to this present life, should accompany us into immortal and eternal life.
 55.8. The “forty thousand”[^22] is the tetrad of the general virtues, with which the intellect, having passed through nature and time, is restored to the blessed state of dispassion.[^23] For a myriad[^24] is recognized solely by the element of the monad,\[12\] and it is completely impossible for it to be signified through any other numerical letter or symbol, insofar as the myriad is identical with the monad on the level of its substrate—even if it admits of difference from it solely on the level of thought—for the end of the monad is the myriad, and the beginning of the myriad is the monad, or, to speak more strictly, the myriad is the monad in motion, and the myriad when motionless is the monad. In the same way, each of the general virtues has as its beginning and end the divine and ineffable Monad, by which I mean God, because each virtue is from God, having both its originating principle and final end in Him, and is identical with God, differing from Him only according to the rationale of thought, for it is clearly from God, and in God, and unto God that every virtue comes into being.[^25]
 
 [^21]: Just as the passions did not exist (or were not operative) in paradise, neither will they be found in the future life, where the human person will no longer experience biological hunger, thirst, the need for sleep, or corporeal pleasure and pain, inasmuch as the enjoyment of the righteous and the sufferings of the damned will be spiritual in nature.
+
 [^22]: 1 Esd 5.41. Literally, the “four units of ten thousand.”
+
 [^23]: Following Plato, *Republic* 4.427e and 428b–29a, the four (“cardinal”) virtues are σοφ α/φρόνησ ς (wisdom, prudence), ἀνδρε α (courage), σωφροσύνη (temperance), and δ κα οσύνη ( justice); cf. Maximos, *Ep*. 5 (PG 91:421C); *Carit.* 2.79 (ed. Caresa-Gastaldo, 132); *Pyrr.* (PG 91:309C–312A); Evagrios, *Praktikos* 89 (SC 171:680–88); idem, *Gnostikos* 44 (SC 356:172–74); and *Amb.* 21 (DOML 1:431–35). These virtues are “general” or “generic” not because they are the source of other “species” of virtue, but in the sense that they are the condition for the acquisition of other virtues and constitute the foundation on which the latter are established.
+
 [^24]: I.e., a unit of ten thousand.
+
 [^25]: In *Amb.* 7.21 (DOML 1:103), Maximos states that Christ is the “essence of the virtues.” The virtues, moreover, are not restricted to the sphere of voluntary activity, but they are an ontological reality proceeding from the divine itself. Such a conception of the virtues aligns them very closely with the divine energies, communicated to human beings as the gift of grace of the Holy Spirit, who was the focus of the previous Question.
 
 *[p. 362]* ^pg392
@@ -127,9 +145,13 @@ thousand and thus goes forth from matter and material realities, hastening towar
 55.13. The “three hundred”[^29] would here seem to hint at the principle of Providence, not simply because the physical form of the letter\[20\] signifies the power from on high directed downward, which encompasses laterally the extremities on either side (which manifests Providence as ineffably binding together the universe), but also because it is honored with the figure of the cross, on which the great, and first, and hidden mystery of Providence was accomplished.[^30] For the great mystery of the Incarnation of God is the ineffable mode of Providence, and it was perhaps by taking courage from this figure and from the name of Him who for our sakes was nailed upon it, that the great patriarch Abraham, together with the “three hundred and eighteen,”[^31] which is the figure and name of Jesus, went forth and triumphed over the opposing powers, symbolized through the kings. Because even through the physical forms of the letters of the alphabet, Scripture often reveals its own proper purpose to those who have purified themselves for the sake of that purpose.[^32]
 
 [^28]: 1 Esd 5.41.
+
 [^29]: Ibid.
+
 [^30]: As explained in the scholion, the alphabetical symbol for 300 is the Greek letter *tau,* which, like the English letter “t,” has the form of an upright cross; cf. *Amb.* 32.2–3 (DOML 2:55–57), where Maximos further expands on the form of the cross as a figure of divine providence.
+
 [^31]: [[Torah 03 - Lech Lecha#^14-14|Gn 14.14]].
+
 [^32]: On the symbolic forms of Greek letters, see Cordula Bandt, *Der Traktat* *“Vom Mysterium der Buchstaben.” Kritischer Text mit Einführung, Übersetzung und Anmerkungen* (Berlin: de Gruyter, 2007); eadem, “The Alphabet as Henotikon: The Tract *On the Mystery of Letters* against the Background of the Origenist Controversies of the 4th and 6th Centuries,” *Historia Religionum* 6 (2014): 45–57; and Guy G. Stroumsa, “The Mystery of the Greek Letters: A Byzantine Kabbalah?” *Historia Religionum* 6 (2014): 35–44.
 
 *[p. 365]* ^pg395
@@ -141,6 +163,7 @@ thousand and thus goes forth from matter and material realities, hastening towar
 55.16. It follows that the forty thousand, together with the three thousand three hundred and sixty, designate, respectively, the perfect principle concerning virtue, the venerable mystery
 
 [^33]: Cf. [[Torah 04 - Vayera#^21-1|Gn 21.1–5]].
+
 [^34]: Gn 2 2.
 
 *[p. 366]* ^pg396
@@ -152,7 +175,9 @@ of theology, the true purpose of divine providence, and the practical power of n
 55.18. The foreign manservant and the foreign maidservant, 
 
 [^35]: 1 Esd 5.41.
+
 [^36]: Cf. [[Torah 47 - Re'eh#^15-12|Dt 15.12]].
+
 [^37]: Cf. [[Torah 32 - Behar#^25-44|Lv 25.44–46]].
 
 *[p. 367]* ^pg397
@@ -162,8 +187,11 @@ on the other hand, are anger and desire, which the contemplative intellect perpe
 55.19. I suppose the number of the menservants and maidservants signifies Providence as active within time and according to reason, together with the modes of dispassion.\[26\] In accordance with this Providence, the intellect engaged with practice, pressing upon both reason and discursive thinking, as if they were the Hebrew menservants and maidservants, defines the measure of their labor in the service of virtue, making them useful for contemplation, and—taking charge of anger and desire as foreign menservants and maidservants, as a master over slaves—guiding them, with an eye on the goal, to an 
 
 [^38]: Cf. [[1 Corinthians 15#^15-54|1 Cor 15.54]]; [[2 Corinthians 05#^5-4|2 Cor 5.4]].
+
 [^39]: [[Acts 26#^26-24|Acts 26.24]].
+
 [^40]: [[2 Corinthians 05#^5-13|2 Cor 5.13]].
+
 [^41]: Cf. *Amb.* 7.10; ibid., 20.2 (DOML 1:87–89, 409–11); Gregory of Nyssa, *Homilies on the Song of Songs* 10 (GNO 6:309); and Sherwood, *Earlier Ambigua,*
 
 *[p. 368]* ^pg398
@@ -177,8 +205,11 @@ equal and honorable share in freedom.\[27\] It does this by transforming desire 
 55.22. And perhaps it was concerning such camels that the great Isaiah, prophetically proclaiming in advance the glory of the intelligible Jerusalem, said: “The camels of Midian and Ephah shall cover you,”[^45] meaning the spiritual contemplations of the natural passions.\[31\] For Midian means “secretion” or “bloody clay” or “human and maternal sweat,” while Ephah means “possession of the back,” which is contemplation elevated to a height beyond the passions pertaining to the flesh, and 
 
 [^42]: Cf. above, Qu. 1.3.
+
 [^43]: 1 Esd 5.41.
+
 [^44]: 1 Esd 5.42.
+
 [^45]: Is 60.6.
 
 *[p. 369]* ^pg399
@@ -192,8 +223,11 @@ the flesh is the “back” of the soul, as its “hind part.” It is by these 
 55.25. And this is made clear by the very number of the horses,\[33\] which is a figure of the settled state of practical philosophy with respect to the virtues. For the number seven thousand 
 
 [^46]: I.e., four hundred.
+
 [^47]: 1 Esd 5.42.
+
 [^48]: “Bile” (χολή) is linked to anger or wrath, and thus is naturally aligned with θυ ός and the irrational, animal part of the soul; cf. *Amb.* 10.111; and *Amb*. 13.5 (DOML 1:327–29; 353–55). For the use of horse bile in the treatment of ulcers, see *Hippiatrica Cantabrigiensia*, chaps. 11.13, 69.3; *Hippiatrica,* *Additamenta Londinensia ad hippiatrica Cantabrigiensia,* section 23.1 (ed. Eugene Oder and Charles Hoppe, *Corpus Hippiatricorum Graecorum* II \[Leipzig: Teubner, 1927; repr. 1971\], 159). I am thankful to Stavros Lazaris of the Centre National de le Recherche Scientifique for helpful discussion on this passage, and for providing me with references to Galen on the use of animal bile in the treatment of ulcers.
+
 [^49]: [[Habakkuk 3#^3-15|Hab 3.15]].
 
 *[p. 370]* ^pg400
@@ -205,9 +239,13 @@ seven hundred signifies, in chronological terms, swift movement in the virtues, 
 55.27. At the same time, we know that the mule also has a blameworthy meaning in Scripture, as in the verse: “Be not like the horse and the mule, which have no understanding.”[^53] Here Scripture calls the state of a soul neighing for the pleasures of the passions a “horse,” and it calls the state that neither conceives the good nor gives birth to it a “mule,” equally forbidding both states to those who desire salvation, inasmuch as the former is productive of evil, and the latter is impotent with respect to virtue. Also taken in a blameworthy sense is the mule of Absalom, upon which he sat when he went forth seeking the death of his father.[^54] Through these things the Spirit reveals that a person who is wounded by any kind of vainglory on account of virtue or knowledge vainly grows the hair of his 
 
 [^50]: 1 Esd 5.42.
+
 [^51]: Cf. above, Qu. 38.2, on “praise- and blameworthy meanings” in Scripture.
+
 [^52]: Cf. 3 Kgs 1.33.
+
 [^53]: [[LXX Psalms 31#^31-9|Ps 31.9]].
+
 [^54]: [[LXX 2 Kingdoms 18#^18-9|2 Kgs 18.9]].
 
 *[p. 371]* ^pg401
@@ -217,8 +255,11 @@ self-conceit in complicated and crossbred contrivances. Like a seemingly virile 
 55.28. To consider this passage from another point of view, it seems to me that David himself clearly designates the practical intellect, whereas Absalom signifies the self-conceit that is born from the coupling of the practical intellect with sensation. For King Geshur’s daughter signifies sensation, which David took to himself and thus begot Absalom.[^58] Geshur, moreover, means “guidance of the wall.” Here the word “wall” obviously means the body, while the “guidance” of the body is the law of the body, that is, sensation, from which Absalom is born, whose name means “father of supposed peace,” which is clearly what self-conceit is. For if we suppose that we will make peace with 
 
 [^55]: Ibid.
+
 [^56]: [[LXX 2 Kingdoms 19#^19-1|2 Kgs 19.1]].
+
 [^57]: [[Ezekiel 33#^33-11|Ezek 33.11]].
+
 [^58]: [[LXX 2 Kingdoms 03#^3-3|2 Kgs 3.3]].
 
 *[p. 372]* ^pg402
@@ -228,6 +269,7 @@ the passions, we are presumptuous and conceited. And when the great David saw su
 55.29. But let us return to the number of mules that the Jews took with them when they were released from captivity, considering, according to our ability, the spiritual meaning contained within their number. Scripture says that there were “eight hundred and forty-five mules.”[^60] This number indicates the perfect dispassion of the intellect with respect to objects of sense and sensation, according to its permanent state of sterility in relation to evil, that is, a state that does not give birth to evil. For 
 
 [^59]: Cf. [[LXX 2 Kingdoms 15#^15-13|2 Kgs 15.13–17]]; [[LXX 2 Kingdoms 17#^17-22|17.22]]. On Gilead, cf. *Exp. Ps. 59* (CCSG 23:14, lines
+
 [^60]: 1 Esd 5.42.
 
 *[p. 373]* ^pg403
@@ -237,8 +279,11 @@ the number eight hundred\[36\] taken in its praiseworthy sense signifies the cha
 55.30. “Five thousand twenty-five beasts under the yoke.”[^61] What comes “under the yoke” is the body that is yoked to the soul in order to bear the burdens of the practical life for the sake of virtue, that is, the permanent state of the body according to virtue. And it was perhaps on the backs of such beasts that the sons of the great Jacob transported the wheat from Egypt for nourishment in the Promised Land, enclosing within the “pouches” of their minds the spiritual knowledge gleaned from natural contemplation, like wheat taken from Egypt, bearing it upon their bodies through ascetic practice, and transporting it to the future life.[^62] And the number of these beasts, being a wholly spherical number,\[37\] indicates the unvarying motion of the body’s virtuous state in relation to ascetic practice, a motion which accords unchangeably with the principle of knowledge. For those who are wise in these matters say that the spherical motion alone is changeless, for of all the other motions of beings it alone possesses in all things an unparalleled evenness.[^63] 55.31. Here, then, is my interpretation of the things found in this passage, according to my ability to understand and express them. If, however, someone should wish to say that these things also foreshadow the different grades of the faithful in the Church, that is, different dispositions, as we would say, he would not be mistaken. From this point of view, “men” are those who have reached, according to the measure of their desire, “the measure of the fullness of Christ,”[^64] attaining virtue consonant with love through the spontaneous inclination of their free will. “Menservants” and “handmaidens” are those who, through fear 
 
 [^61]: 1 Esd 5.42.
+
 [^62]: Cf. [[Torah 10 - Miketz#^42-26|Gn 42.26–27]], [[Torah 10 - Miketz#^44-1|44.1]].
+
 [^63]: Alluding perhaps to the “circular motion” described by Dionysios, *DN*, 4.8–9; 9.9 (143–54; 213; 704D–705D, 916CD); cf. Maximos *Amb.* 7.6; and *Amb.* 10.9 (DOML 1:81; 163); yet Dionysios never uses the word “spherical” in any context, and thus the source seems closer to a passage in Proclus, *Theologica Platonica* 1.14 (ed. Saffrey and Westerink, 1.65, lines 4–13).
+
 [^64]: [[Ephesians 04#^4-13|Eph 4.13]].
 
 *[p. 374]* ^pg404
@@ -250,6 +295,7 @@ of the threat of eternal punishments, take on the weight of practical philosophy
 55.33. I believe that it is about such men that the Spirit has written, such menservants and handmaids, such musicians 
 
 [^65]: Cf. [[Proverbs 09#^9-10|Prv 9.10]].
+
 [^66]: Cf. [[Proverbs 03#^3-13|Prv 3.13–17]].
 
 *[p. 375]* ^pg405
@@ -265,6 +311,7 @@ Scholia
 \[3\] “Praise” is a word that expresses divine beauty. “Praising” is the relationship of the one who praises to what is praised, that is, the recounting of words expressive of divine majesty, 
 
 [^67]: Cf. *Amb.* 7.24: “God neither knows sensory things by sensation, nor intelligible things by intellection (for it is not possible that He who is beyond all beings should know beings in a manner derived from beings)” (DOML 1:109).
+
 [^68]: I.e., ἀναγωγή
 
 *[p. 376]* ^pg406
@@ -288,6 +335,7 @@ time, by means of which nature exists relative to an outward position and in ter
 \[9\] Darius, he says, is taken to mean the law of nature containing both nature and time, for Darius as the law has authority to use all things that are according to nature or which pertain to nature. The intellect, then, which goes forth from the law of nature as if from Darius, finds itself beyond time and nature, not being hindered by any mental representations of things subject to nature and time, so that it might not, by bearing about the images of corruptible realities, become a temple of idols containing multiple forms of unclean passions for veneration instead of the one God.[^70]
 
 [^69]: For an extended discussion of time and place, see *Amb.* 10.91–92 (DOML 1:291–93).
+
 [^70]: Cf. *The Anonymous Sayings of the Desert Fathers* 600: “Take careful thought, for there is an altar and a sanctuary and a virtual execrable idol in the soul. . . . For he who is a slave to fornication is an idol-worshiper, having within himself the effigy of Aphrodite. Or again, he who is the slave of anger and wrath . . . has Ares within himself as a god” (trans. John Wortley \[Cambridge: Cambridge University Press, 2013\], 481–83).
 
 *[p. 378]* ^pg408
@@ -331,8 +379,11 @@ good, on the other hand, is incorruptible, inasmuch as it exists eternally, and 
 \[21\] The number one hundred is the multiplication by ten of the divine decad of commandments, for it is the perfect comprehension of all the decads, insofar as each one is actualized through the others. And the comprehension of all of them, which is actualized through each, is absolutely complete and whole virtue. Virtue that is perfect and complete is wisdom, and wisdom is the infallible knowledge of truth. Thus whoever has infallibly known the truth has become “one hundred” years old, as was the great Abraham,[^75] and likewise understands his body to be mortified; that is, he sees life according to the senses departing into deadness, and gives birth in the spirit to “living joy,” for this is what that name Isaac means.[^76] Thus the mark of 
 
 [^73]: See Larry Hurtado, “The Origin of the *Nomina Sacra:* A Proposal,” *JBL* 117 (1998): 655–73, on the contracted form of the name of Jesus, the “first of the Christian *nomina sacra,*” which, along with its numerical significance, is traced to the Jewish abbreviation of the name YHWH, which was not a scribal space-saving device but a form of reverence toward the divine name.
+
 [^74]: [[Torah 03 - Lech Lecha#^14-14|Gn 14.14]]. Genesis notes that Abraham actively “calculated” (ἠρ θ ησε) the number in question ([[Torah 03 - Lech Lecha#^14-14|Gn 14.14]]); cf. Michel Aubineau, “Les 318 serviteurs d’Abraham (Gn 14, 14) et le nombre des Pères au concile de Nicée,” *Revue d’histoire ecclésiastique* 61 (1966): 5–43.
+
 [^75]: [[Torah 04 - Vayera#^21-5|Gn 21.5]].
+
 [^76]: According to Philo, *On the Rules of Allegory* 3, 43, 87, the name Isaac means “the soul’s joy” (ἡ τῆς ψυχῆς χαρά) (LCL 1:329, 359); cf. idem, *On the Change of Names* 131 (LCL 5:209).
 
 *[p. 382]* ^pg412
@@ -348,6 +399,7 @@ providence is not only to preserve nature intact according to its own inner prin
 \[25\] Desire that has been actualized, they say, is pleasure, when, consistent with its definition, something good is actually present. Pleasure that has not been actualized is desire, when, consistent with its definition, the actual good is in the future. Anger is the movement of premeditated rage,[^77] and rage is anger actualized.[^78] Thus, whoever subjects these powers to reason will find that his desire is changed into pleasure through the undefiled union of his soul by grace with the divine, and his anger changed into an undefiled ardor protecting his pleasure in the divine, as well as a right-minded rage consistent with the 
 
 [^77]: A free rendering of αν α, which also means “madness” and “inspired frenzy.”
+
 [^78]: See the parallel discussion in *Amb.* 10.108–11 (DOML 1:325–29).
 
 *[p. 383]* ^pg413
@@ -363,8 +415,11 @@ But as long as the world lives within us, due to our soul’s voluntary attachme
 \[28\] He calls “musicians” those whose life of practice cries out and proclaims the intentions of God.[^82]
 
 [^79]: Cf. 4 Kgs 25.4.
+
 [^80]: Cf. [[Torah 32 - Behar#^25-40|Lv 25.40–41]].
+
 [^81]: 1 Esd 5.41.
+
 [^82]: On the plural sense of the divine “intentions” or “wills,” cf. *Amb.* 7.24 (DOML 1:107–108).
 
 *[p. 384]* ^pg414
@@ -378,6 +433,7 @@ The number fifty, which generates an odd-numbered monad when it is multiplied se
 \[31\] When the “camels of Midian”[^84] are interpreted as “secretion,” they are, he says, understood as the true contemplations
 
 [^83]: I.e., ἐπ στή η.
+
 [^84]: Is 60.6.
 
 *[p. 385]* ^pg415
@@ -401,7 +457,9 @@ clear by the cyclical number, for when the number six is multiplied by itself si
 \[35\] The name Gilead, he says, interpreted as the “migration of mourning,” signifies the laborious toil of repentance. As “migration of testimony,” it signifies the voice of the conscience 
 
 [^86]: [[LXX 2 Kingdoms 16#^16-21|2 Kgs 16.21–33]].
+
 [^87]: Cf. [[LXX 2 Kingdoms 18#^18-9|2 Kgs 18.9–15]].
+
 [^88]: [[LXX 2 Kingdoms 17#^17-23|2 Kgs 17.23]].
 
 *[p. 387]* ^pg417

@@ -12,7 +12,7 @@ aliases:
 ---
 # 4Q45 (4QpaleoDeutr) · 4QpaleoDeuteronomyr
 
-[[DSS 4Q44|← 4Q44]] · [[Qumran|index]] · [[DSS 4Q47|4Q47 →]]
+[[DSS 4Q44|← 4Q44]] · [[Qumran|index]] · [[DSS 4Q46|4Q46 →]]
 
 > [!info]- Edition, photographs, parallels and bibliography
 > P.W. Skehan, E. Ulrich, J. Sanderson, DJD IX, 131-152, pl. XXXIV-XXXVI PAM 41.640, 41.645 ROC 1138, 1139 1Q4, 1Q5, 2Q10, 2Q11, 2Q12, 4Q28, 4Q29, 4Q30, 4Q31, 4Q32, 4Q33, 4Q34, 4Q35, 4Q36, 4Q37, 4Q38, 4Q38a, 4Q38b, 4Q39, 4Q40, 4Q41, 4Q42, 4Q43, 4Q44, 4Q46, 5Q1, 6Q3?, 11Q3
@@ -51,6 +51,5 @@ aliases:
 | Frag. 42-43 | Deut 33:2-8 |
 | Frag. 44 | Deut 33:29 - 34:1 |
 | Frag. 45-65 | ? |
-| Frag. 1 | Deut 26:14-15 |
 
-[[DSS 4Q44|← 4Q44]] · [[Qumran|index]] · [[DSS 4Q47|4Q47 →]]
+[[DSS 4Q44|← 4Q44]] · [[Qumran|index]] · [[DSS 4Q46|4Q46 →]]

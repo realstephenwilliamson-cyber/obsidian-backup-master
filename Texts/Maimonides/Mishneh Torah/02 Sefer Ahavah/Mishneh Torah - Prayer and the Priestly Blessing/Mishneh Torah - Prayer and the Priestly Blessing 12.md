@@ -196,219 +196,391 @@ A Torah scroll should not be rolled [from one portion to another portion] in the
 In a place where a Torah scroll is taken [from the synagogue] to another room where it is kept, the congregation[^171] is not allowed to leave until the Torah scroll is taken.[^172] They should accompany it, following it to the place where it is kept.[^173] ^12-24
 
 [^1]: See also Chapter 13, Halachah 8.
+
 [^2]: *Tosafot, Bava Kama* 82a relates that these days are days of Divine favor.
+
 [^3]: The *Mishnah Berurah* 135:1 states that, although ideally the Torah should be read in the morning service, if one fails to do so, it may be read the entire day.
+
 [^4]: *Bava Kama* [[Bava Kamma 82#82b|82b]] quotes [[Torah 16 - Beshalach#^15-22|Exodus 15:22]]: "And they travelled three days without finding water," and explains:  
     Water refers to the Torah, as [implied by [[Isaiah 55#^55-1|Isaiah 55:1]]]: "May all the thirsty go to the water." Since they travelled three days without Torah, they complained. The prophets among them arose and ordained that they read [Torah] on the Sabbath, refrain [from reading] on Sunday, read on Monday, refrain [from reading] on Tuesday and Wednesday, read on Thursday, and refrain from reading on Friday, so that they will not spend three days without [reading from] the Torah.
+
 [^5]: The Hebrew, יושבי קרנות, literally means "those who sit on the street corners." Our translation is based on Rashi's commentary (*Bava Kama*, *loc. cit.*). He explains that during the week, these people were involved with their businesses and could not attend the Torah reading. Therefore, Ezra instituted a special Torah reading for them on the Sabbath, when work is prohibited.  
     Rav David Arameah interprets the phrase literally, explaining that on the Sabbath, since work is prohibited, people would gather in the afternoon in the marketplace, and spend their time in idle conversation. Therefore, Ezra ordained the public Torah reading to draw them into the synagogue.
+
 [^6]: *Megillah* [[Megillah 21#21b|21b]] relates that the number three reflects the three divisions among the Jewish people: priests, Levites, and Israelites; alternatively, the three divisions in the Written Law (the Torah, Prophets, and Holy Writings).
+
 [^7]: In Talmudic times, the person called to the Torah would read from the Torah himself. Our custom of having one reader is discussed in the commentary on Halachah 17.
+
 [^8]: *Bava Kama* (*loc. cit.*) explains that originally either one person would read three verses, or three people would read three verses.
+
 [^9]: *Megillah* (*loc. cit.*) states that the ten verses allude to the ten commandments and the ten utterances of creation; alternatively, they represent the ten people who attend a synagogue at all times. (See Halachah 3.)
+
 [^10]: including *Chol Hamo'ed*, the intermediate days of the festival. (See Chapter 13, Halachot 8-16.)
+
 [^11]: *Soferim* 10:1 attributes the introduction of the practice of reading the Torah on all the abovementioned days to Moses. (See Chapter 13, Halachah 4, regarding the Rosh Chodesh Torah reading.)
+
 [^12]: See Chapter 13, Halachah 18.
+
 [^13]: See Chapter 13, Halachah 17.
+
 [^14]: and Mondays and Thursdays each week.
+
 [^15]: The *Pardes* states that the reading of the *haftarah* was instituted on the days when work is forbidden because the people had more time then and were able to devote themselves to Torah study. The *Avudraham* relates that the reading of the *haftarah* was instituted when the Greeks forbade the public reading of the Torah. To compensate, the Jews instituted the reading of parallel portions from the prophets. Even after the decree was nullified, the custom remained.
+
 [^16]: In *Hilchot Ta'aniot* 1:17, the Rambam states that on fast days declared because of communal distress, the *haftarah* is read in the afternoon service. However, the *Beit Yosef* (*Orach Chayim* 574) explains that the laws concerning the reading of the Torah and the *haftarah* are discussed primarily in this and the following chapter of the *Mishneh Torah*. Hence, the decision here should be followed and the *haftarah* should not be recited.
+
 [^17]: when work is not permitted
+
 [^18]: Although work is permitted on Tish'ah B'Av, as mentioned in *Hilchot Ta'aniot* 5:10, Torah Sages have accepted the custom not to work on that day, and our Sages declared that no one will see a sign of blessing from work done on tAlthough work is permitted on Tish'ah B'Av, as mentioned in *Hilchot Ta'aniot* 5:10, Torah Sages have accepted the custom not to work on that day, and our Sages declared that no one will see a sign of blessing from work done on that day. Hence, there is no difficulty in reading the *haftarah* in the morning. (See Chapter 13, Halachah 18.)  
     In Ashkenazic communities, it is also customary to read the *haftarah* on fast days in the *Minchah* service (Ramah, *Orach Chayim* 566:1).hat day. Hence, there is no difficulty in reading the *haftarah* in the morning. (See Chapter 13, Halachah 18.)  
     In Ashkenazic communities, it is also customary to read the *haftarah* on fast days in the *Minchah* service (Ramah, *Orach Chayim* 566:1).
+
 [^19]: See Chapter 8, Halachot 4-6.
+
 [^20]: See Halachah 1. *Hagahot Maimoniot* notes that the reading for Purim contains only nine verses, but explains that since this passage discusses a complete subject, an exception is made. (See also *Shulchan Aruch, Orach Chayim* 137:1.)
+
 [^21]: i.e., a verse beginning "And God said to Moses:...." Although it is merely an introductory phrase, it...
+
 [^22]: i.e., one of the required ten verses. The *Shulchan Aruch* (*Orach Chayim* 137:4) states that, after the fact, if only nine verses were read, it is sufficient.
+
 [^23]: See Halachah 1.
+
 [^24]: In addition to the 54 weekly Torah portions, the Torah is divided into 290 smaller passages (*parshiot*). (See *Hilchot Sefer Torah*, Chapter 8.)
+
 [^25]: A person who begins a new passage in the midst of his *aliyah* should read at least three verses, lest another person enter when he begins that passage and think that he has read fewer than three verses (*Megillah 22a).*
 
     *The 14Shulchan Aruch* (*Orach Chayim*, *loc. cit.*) states that if a person read only two verses, they must be read again.
+
 [^26]: lest someone who leaves before the next person reads from the Torah come to the mistaken conclusion that he has read fewer than three verses (*Megillah*, *loc. cit.*). (See Chapter 13, Halachah 4. See also *Shulchan Aruch, Orach Chayim*, 138.)
+
 [^27]: The three verses allude to the threefold division of the written law (*Megillah* [[Megillah 24#24a|24a]]). Even when an entire passage has only two verses, the reader must add at least three more verses from another passage.  
     From this halachah, it appears that the custom of reading the first *aliyah* of the portion to be read on the following Sabbath on Mondays and Thursdays was not fixed in the Rambam's time. Hence, these ground rules were necessary. (See *Mishnah Berurah* 137:4.)
+
 [^28]: for the most important person is called to the Torah first (*Megillah* [[Megillah 21#21b|21b]]).
+
 [^29]: based on the principle to "always proceed higher in holy matters" (*loc. cit.*).
+
 [^30]: regarding the Menorah, the middle branch was most important (*loc. cit.*).
+
 [^31]: *Megillah* [[Megillah 32#32a|32a]] mentions a difference of opinion between Rabbi Yehudah, who maintains that the blessings for the Torah should be recited while the Torah scroll is open (as quoted by the Rambam), and Rabbi Meir, who maintains that the Torah scroll should be closed, lest the people err and think that the blessings are written in the Torah.  
     Although the *Shulchan Aruch* (*Orach Chayim* 139:4) quotes the Rambam's decision, the *Be'ur Halachah* explains that Rabbi Yehudah maintains that one is not obligated to close the Torah scroll before reciting the blessing. However, there is nothing wrong in doing so. Therefore, in many communities the custom is to roll the Torah closed before reciting the blessing.  
     Note the *Shulchan Aruch* (*loc. cit.*, 140:3) regarding the ruling when one looks at the wrong passage in the Torah before reciting the blessing.
+
 [^32]: The *Shulchan Aruch* (*loc. cit.*, 139:6) emphasizes how *Barchu* and the blessings for the Torah should be recited in a loud voice.
+
 [^33]: the person reciting the blessing also joins in reciting the following phrase (*Shulchan Aruch*, *loc. cit.*:7)
+
 [^34]: See Chapter 9, Halachah 1.
+
 [^35]: Note the description of Ezra's reading of the Torah, in Nechemiah, Chapter 8, which relates how "Ezra opened the scroll... and blessed God."
+
 [^36]: This is the third of the blessings of the Torah mentioned in Chapter 7, Halachah 10. Even someone who had just recited the blessings before the Torah as part of his individual prayers recites this blessing as a gesture of respect for the community.  
     As mentioned in the commentary on that halachah, the Ramban considers the obligation to recite the blessings before the Torah as one of the 613 mitzvot. Some later commentaries explain that this refers only to the blessings recited before reading the Torah in public.
+
 [^37]: Note Rashi's commentary, *Berachot* [[Berakhot 21#21a|21a]]. Note also the comments of the *Hagahot Maimoniot*, Chapter 7, Halachah 15, that a person can fulfill his requirement of reciting one hundred blessings on the Sabbath by answering "Amen" to these blessings.
+
 [^38]: The *Kessef Mishneh* states that this is done in deference to Rabbi Meir's opinion mentioned above. The *Lechem Yehudah* explains that it is a gesture of respect for the Torah.
+
 [^39]: This is the text usually recited in Sephardic communities. In Ashkenazic communities, the word, תורתו (His Torah), is not included in the blessing. Interestingly, the Yemenite manuscripts of the *Mishneh Torah* also omit this word.
+
 [^40]: Our translation follows the printed text of the *Mishneh Torah*. Note the *Shulchan Aruch* (*loc. cit.* 139:10), which follows the text - חיי העולם (adding a ה as a modifier) - "the life of the world (to come)."
+
 [^41]: It is proper to recite this phrase only once the Torah has been read. Only after it has been studied, does the Torah serve as a source of life (*Avudraham*).
+
 [^42]: so that their recitation of "Amen" will not drown out the Torah reading. Today, in communities where the Torah is read by a person other than the one reciting the blessings, it is customary for the reader to prolong his recitation of "Amen" slightly, so that everyone will know when the Torah reading begins (*Mishnah Berurah* 141:17).
+
 [^43]: Rabbenu Manoach explains that this law reflects a fundamental philosophical principle. *Sanhedrin* [[Sanhedrin 99#99a|99a]] states that anyone who says that even one letter of the Torah was not given by God is considered as "one who scorned the word of God." Therefore, every letter in the Torah must be pronounced correctly.
+
 [^44]: This applies even if one has already read other verses or even recited the blessing over the verse which was read incorrectly (*Mishnah Berurah* 142:2).
+
 [^45]: for the voice of two people cannot be heard at the same time. Note the Rambam's decision, *Hilchot Shofar* 3:6. See also a contrasting decision in *Hilchot Megillah* 2:7.  
     In communities where the Torah is read by a person other than the one who recites the blessings, the person reciting the blessings should be careful not to read out loud (*Shulchan Aruch, Orach Chayim* 141:2).
+
 [^46]: In his responsa, the Rambam cites the Jerusalem Talmud (*Berachot* 5:3) to explain why this law differs from the law mentioned in Chapter 10, Halachah 4, which states that if a *chazan* cannot continue the recitation of the *Shemoneh Esreh*, the person who replaces him begins from the point where he left off. The Rambam explains that it is necessary for the second person reading the Torah to repeat the verses, because otherwise, the verses read by the initial reader will not be included in the concluding blessing.
+
 [^47]: Nevertheless, according to the Rambam, the second reader need not recite the blessing before the Torah reading. Rabbenu Asher (whose opinion is quoted by the *Shulchan Aruch*, *loc. cit.*, 140:1) does not accept this decision, and requires the person who continues reading to recite the first blessing before he begins reading the Torah.  
     The difference between the two opinions is that the Rambam considers the blessings to be associated with the Torah portion and not with the reader. In contrast, Rabbenu Asher considers the blessings as the personal responsibility of the reader in preparation for reading from the Torah.  
     Rabbenu Asher's opinion is accepted by the later authorities. Even in communities where a person other than the one who recites the blessings reads from the Torah, this law applies (Ramah).
+
 [^48]: the Rabbi or spiritual leader.
+
 [^49]: Though this law is apparent from the *Tosefta* referred to below, no explicit source is mentioned by the commentaries.
+
 [^50]: Our translation is based on Rashi's commentary (*Yoma* [[Yoma 68#68b|68b]]), which describes the *rosh hak'nesset* as the one who appoints the leader of prayer and gives out the *aliyot*.
+
 [^51]: This law is quoted from the *Tosefta, Megillah* 3:21, which explains that this restriction was instituted to prevent the synagogue functionaries from taking advantage of their position, and thus create a rift between them and the other congregants.
+
 [^52]: As discussed in the commentary on Halachah 17, the Rambam requires the person who receives an *aliyah* to read from the Torah himself. Thus, the *chazan* would read only when he, himself, received an *aliyah*.
+
 [^53]: The Jerusalem Talmud (*Megillah* 4:1) explains the source for this practice. Just as an intermediary was involved with the giving of the Torah - as [[Torah 45 - Vaetchanan#^5-5|Deuteronomy 5:5]] states: "I stood between you and God, your Lord" - so, too, another person should stand together with the reader at the reading of the Torah.  
     Note *Soferim* 14:14 (quoted by the *Mishnah Berurah* 141:16), which mentions the custom that two other people stand by the reader while the Torah is read, one on his right and one on his left.
+
 [^54]: from one passage in the Torah
+
 [^55]: to a different passage in the Torah
+
 [^56]: However, skipping from one subject to another subject is forbidden, because it may confuse the listeners. (See the *Shulchan Aruch, Orach Chayim* 144:1.)
+
 [^57]: The Rambam chooses as his example the passages read by the High Priest in the Temple on Yom Kippur. However, as explained in the Mishnah (*Yoma* 7:1), the High Priest, himself, would not skip from passage to passage in the Torah.
+
 [^58]: Leviticus, Chapter 16, which describes in detail the Yom Kippur offerings.
+
 [^59]: [[Torah 31 - Emor#^23-26|Leviticus 23:26-32]], which describes the mitzvah to fast and the prohibition of work on Yom Kippur.
+
 [^60]: Rav Kapach cites the *Midrash Tanchuma, Va'era* 5, which states:  
     A reader is forbidden to take his eyes off the Torah scroll, for the Torah was given only in writing, as \[[[Torah 21 - Ki Tisa#^34-2|Exodus 34:2]]] states: "And I will write the words on the tablets."  
     Note also *Gittin* [[Gittin 60#60b|60b]], which mentions a general prohibition against reciting verses from the written Torah by heart.
+
 [^61]: See Halachah 10.
+
 [^62]: because waiting any longer would be an affront to the congregation (*Yoma* [[Yoma 69#69b|69b]]).  
     At present, it is customary to skip from passage to passage in the reading of the Torah on public fast days alone. (See Chapter 13, Halachah 18.) Even then, the transition is made between the first and second *aliyot*, so that it will not be noticeable to the listeners.
+
 [^63]: The *Shulchan Aruch* (*Orach Chayim* 146:1) states that the prohibition applies even between *aliyot*.
+
 [^64]: The *Mishnah Berurah* 146:5 mentions that if it is necessary to prevent a person from committing a sin, one may speak even while the Torah is being read.
+
 [^65]: This describes Ezra's reading of the Torah to the people who returned to Zion on Rosh HaShanah.
+
 [^66]: This prohibition applies even though one has already heard the Torah reading oneself and there are ten other people listening to the Torah reading (*Mishnah Berurah* 146:1).  
     *Berachot* [[Berakhot 8#8a|8a]] interprets [[Isaiah 01#^1-28|Isaiah 1:28]], "Those who turn away from God will be destroyed," as a reference to a person who leaves the synagogue when the Torah scroll is open.
+
 [^67]: provided there are ten others who will remain to hear the Torah reading, and one has fulfilled (or will be able to fulfill) one's obligation to hear the Torah. Even under these circumstances, leaving the synagogue is not desirable (*Mishnah Berurah* 146:2-3).
+
 [^68]: The license for such a person to ignore the Torah reading in order to concentrate on his studies is taken from *Berachot* (*loc. cit.*), which relates that while the Torah was being taken out, Rav Sheshet would turn his back and occupy himself in his studies, saying, "Let them be occupied in what concerns them, while we will be occupied in what concerns us."  
     See *Hilchot Talmud Torah* 1:4, which states that the mitzvah of Torah study takes precedence over all other commandments. Based on this principle, Rabbi Shimon bar Yochai and his disciples would not interrupt their studies even for prayer (*Shabbat* [[Shabbat 11#11a|11a]] - see Chapter 6, Halachah 8). However, the *Shulchan Aruch* (*loc. cit.* 106:3) states that this applies only to scholars like Rabbi Shimon, who never interrupt their studies at all. However, at present, even scholars whose occupation is Torah must interrupt their studies for prayer, for they make other interruptions as well.  
     The Rabbis question whether the law under discussion applies only to scholars of Rabbi Shimon's level, or whether it is also relevant to scholars of the present day. The *Kessef Mishneh* notes that the citation of the behavior of Rav Sheshet as a source for this halachah appears to support the latter opinion. Rav Sheshet, like the other Amoraim of the Talmudic period, was not considered to be on the same level as Rabbi Shimon. In contrast, the *Mishnah Berurah* 146:9 maintains that, at present, we have no scholars who have the level of devotion to Torah study that would permit such a leniency.
+
 [^69]: The *Shulchan Aruch* (*loc. cit.* 146:2) and the *Mishnah Berurah* 146:8-10 place various restrictions on this license. There must be ten others listening to the Torah, the person must study quietly, and he should turn away and begin his studies before the Torah reading is begun.
+
 [^70]: when the Jews who returned from the Babylonian exile did not speak Hebrew fluently. (See Chapter 1, Halachah 4.)
+
 [^71]: The Book of Nechemiah, Chapter 8, describes Ezra's reading of the Torah to the people on Rosh HaShanah. Verses 7 and 8 explain that "they caused the people to understand the reading." *Megillah* [[Megillah 3#3a|3a]] explains that this refers to the translation of the Torah.
+
 [^72]: For the two voices will prevent the people from hearing either of them.
+
 [^73]: lest the translator become confused.  
     The *Tur* (*Orach Chayim* 145) writes that even in Talmudic times, it was not customary to translate the Torah in all communities. He explains that, in his age, the custom of translating the Torah had already been ceased because the people did not understand the Aramaic translation traditionally used. The rabbis did not want to translate the Torah into the languages which the people did understand, because of the possibility of error and misinterpretation. Such fears had not existed in regard to the Aramaic translation, since it had been composed with *Ruach Hakodesh* (Divine inspiration).  
     [The *Tur*, however, also mentions the opinion of Rav Natrunai Gaon, who maintains that the translation should be done freely, so that the people can understand, without referring to the traditional text.]  
     The *Tur*'s opinion is accepted by the *Shulchan Aruch* (*Orach Chayim* 145:3) and in nearly all contemporary Jewish communities, the custom of using a translator during the Torah reading is no longer practiced. For this reason, rather than present a running commentary on Halachot 11 and 12, we have limited our comments to short footnotes.1. *Berachot* [[Berakhot 45#45a|45a]] states that this principle is derived from the giving of the Torah on Mount Sinai. God, "the Reader," did not lift his voice over that of Moses, "the translator."  
     It was also customary to use a מתורגמן in teaching the oral law. Hence, parallels to many of the laws mentioned in this halachah can also be found in *Hilchot Talmud Torah* 4:3.2. The Jerusalem Talmud (*Megillah* 4:1) mentions that we should approach the Torah reading with awe, reflecting the awe experienced by the Jews at Mount Sinai.3. Rabbenu Nissim maintains that this prohibition only applied before Rabbi Yehudah HaNasi permitted the oral tradition to be recorded. Afterwards, it was permitted for the translator to use a written text. Rabbenu Nissim's position is somewhat difficult to accept, since the Jerusalem Talmud (*Megillah*, *loc. cit.*), the source for this law, was written several hundred years after Rabbi Yehudah HaNasi granted this leniency. Nevertheless, Rabbenu Nissim's view was widely accepted.4. The *Tosefta, Megillah* 3:21, cites the example of Aharon, who served as a spokesman for Moses. See also *Kessef Mishneh*.5. [[Torah 08 - Vayishlach#^35-22|Genesis 35:22]]. The direct translation of this verse would be unbecoming to both Reuven and Jacob (Rashi, *Megillah* [[Megillah 25#25a|25a]]).6. The third of the priestly blessings states: "May God turn His countenance to you...." This appears to be a direct contradiction to the description of God ([[Torah 46 - Eikev#^10-17|Deuteronomy 10:17]] as "not turning His face...." Though our Sages resolved that difficulty (*Berachot* [[Berakhot 20#20b|20b]]), a problem might come up in a simple translation of the verse.  
     Rav Kapach notes that the Yemenite texts of Targum Onkelos lack a translation for the three verses of the priestly benediction.7. Were the common people given the opportunity of hearing the full story of the golden calf, they might believe that it had spiritual power (Rashi, *loc. cit.*). Alternatively, the narrative places a major burden of responsibility on Aharon (*Tosafot, Megillah*, *loc. cit.*).8. The commentaries note that this passage is not read as a *haftarah* at present. Rav Kapach states that the need to make this statement indicates that in Talmudic times, the passages that were read as haftarot were not fixed and there was some room for choice.9. Verses from the Torah cannot be skipped in a public Torah reading. However, it is permitted to skip verses from the prophets while reading the *haftarah* (*Tos'fot Yom Tov, Megillah* 10:3).
+
 [^74]: See the commentary on Halachah 2 for a description of the origin of the custom of reading the *haftarah*.
+
 [^75]: This was instituted as a token of respect for the Torah reading. Reading from the prophets without reading from the Torah would imply an equivalence between the seven people who read from the Torah and the one who reads from the prophets (*Megillah* [[Megillah 23#23a|23a]]).
+
 [^76]: As mentioned in Halachah 3, each person called to the Torah must read at least three verses.
+
 [^77]: i.e., the concluding three lines of the Torah reading.  
     Note *Tosafot, Megillah* 23a, which states that in Talmudic times, the person who recited the *haftarah* would read a separate portion from the Torah. It is our custom that on festivals and in the special circumstances described in Chapter 13, Halachot 20-24, that the person who reads the *haftarah* reads a separate Torah portion.  
     He should not [begin] reading the *haftarah* until the Torah scroll has been rolled closed. - Rashi, *Sotah* [[Sotah 39#39b|39b]], states that the person reading the *haftarah* should wait to allow the person who rolled the Torah closed also to hear the *haftarah*. Others explain that it is not respectful to the Torah for it be open while the *haftarah* is being read.
+
 [^78]: Since an *aliyah* has a minimum of three verses, the twenty-one verses of the *haftarah* will parallel the seven *aliyot* of the Torah reading (*Megillah* [[Megillah 23#23a|23a]]).
+
 [^79]: *Megillah* (*loc. cit.*) cites the eight concluding verses from Jeremiah, Chapter 7, which were read as the *haftarah* for *Parashat Tzav*. (At present, it is customary to add a number of other verses to that *haftarah*. The *haftarah* read for *Parashat Ki Tetzey* has only ten verses.)
+
 [^80]: Rabbenu Nissim explains that after the final verse is translated, one should repeat the verse in its original to conclude with the words of the prophet. Thus, the ten verses, the ten translations, and the repetition of the verse will reach the sum of twenty-one.
+
 [^81]: Though Halachah 11 prohibits two people to serve as translators for the Torah simultaneously, this restriction is not enforced regarding the *haftarah*. Rashi, *Megillah* [[Megillah 21#21b|21b]], explains that the prohibition was instituted to prevent confusion. However, since the haftarot are concerned more with ethics than halachic concepts, the Sages did worry that much about the possibility of confusion arising.
+
 [^82]: Here, the same principle is involved. Though skipping in this manner in a Torah reading is forbidden (Halachah 8), there is no such restriction for the *haftarah*. Indeed, in many of the haftarot read at present, it is customary to skip certain verses.
+
 [^83]: for this would be too confusing (*Megillah* [[Megillah 24#24a|24a]]).
+
 [^84]: for they are considered to be a single book.
+
 [^85]: for it is improper to reverse the order of the verses as they are mentioned in the Bible.
+
 [^86]: *Megillah* (*loc. cit.*) explains that this is a practice of respect for the congregation, to prevent them from being forced to wait in silence.
+
 [^87]: Though verses from the Torah should be read to a translator one at one time (see Halachah 10), as mentioned in the previous halachah, more leniency is taken regarding verses from the *haftarah*.
+
 [^88]: *Megillah* [[Megillah 24#24a|24a]] cites the verses from [[Isaiah 52#^52-3|Isaiah 52:3-5]] (included in the *haftarah* of *Parshat Shoftim*) as an example of such a phenomenon. [It must be noted that these verses are included in two passages (and not three as stated by the Rambam) in all texts of the Bible. Note the commentary of Rabbenu Nissim, who explains two passages as "two different concepts."]
+
 [^89]: to prevent confusion.
+
 [^90]: The full text of this blessing is found in the Order of Prayers for the Entire Year. This blessing is considered to be one long blessing, which begins with *Baruch* and concludes with *Baruch* (Rav David Arameah).
+
 [^91]: Thus, he recites a total of seven blessings, corresponding to the seven people called to the Torah (*Soferim* 14:1).
+
 [^92]: which begins: "Blessed are You..."; the entire prayer is considered to be one blessing.
+
 [^93]: The *Avudraham* explains that since the object of most of the prophecies is "Zion, Elijah, and David" (i.e., the Messianic redemption), after praising God as faithful to fulfill His prophecies, we begin the second blessing, which centers on the return to Jerusalem.
+
 [^94]: as in the grace after meals. This text is also found in the siddurim of Rav Amram Gaon and Rav Sa'adiah Gaon. *Soferim* 13:12 concludes the blessing "who causes Zion to rejoice in her children." The Ra'avad and the *Kessef Mishneh* suggest concluding the blessing in this fashion. This is the commonly accepted practice today.
+
 [^95]: *Pesachim* [[Pesachim 117#117b|117b]] compares this to the conclusion of the first blessing of the *Shemoneh Esreh*, "the Shield of Abraham."
+
 [^96]: which centers on the Sabbath or festival celebrated
+
 [^97]: fourth blessing of the
+
 [^98]: See Chapter 2, Halachot 5 and 7.
+
 [^99]: the middle of
+
 [^100]: middle of the fourth blessing of the *Musaf*
+
 [^101]: However, he does not conclude the blessing with the mention of Rosh Chodesh, as he would in the *Musaf* prayer. (See Chapter 2, Halachah 11.)  
     *Shabbat* [[Shabbat 24#24b|24b]] questions whether Rosh Chodesh should be mentioned in this blessing. On one hand, when Rosh Chodesh falls during the week, the *haftarah* is not read. Hence, one might assume that there is no connection between the two and, hence, there is no need to mention Rosh Chodesh in the blessings. However, on the other hand, we find that when Yom Kippur falls on the Sabbath, the Sabbath is mentioned in the *Ne'ilah* service, despite the fact that the *Ne'ilah* service would otherwise not be recited on the Sabbath.  
     Though Rashi and Rav Yitzchok Alfasi interpret the passage in the same manner as the Rambam, Rabbenu Asher and Rabbenu Nissim rule that no mention should be made of Rosh Chodesh in this blessing. The *Shulchan Aruch, Orach Chayim* 284:2 follows the latter position.  
     [The siddurim of Rav Amram Gaon and Rav Sa'adiah Gaon include mention of Rosh Chodesh in the conclusion of the blessing as well. The text of the authoritative Yemenite manuscripts of the *Mishneh Torah* also accept this view.]
+
 [^102]: This reflects a descending order of holiness. Working on the Sabbath is punishable by execution; working on Yom Kippur by כרת (premature death by the hand of heaven); and on festivals, certain labors are permitted.
+
 [^103]: In order to distinguish each day with the measure of holiness which it is due.
+
 [^104]: This statement is quoted from the Mishnah (*Megillah* 3:2). Rabbenu Nissim explains that the license to increase the number of people called to the Torah applies only on the Sabbath, in order to clearly differentiate between the different holy days. However, Rashi (like the Rambam, here) explains that it refers to all three occasions. Since working at one's occupation is prohibited on all three occasions, there is no difficulty in adding to the number of people called to the Torah.  
     The Ramah (*Orach Chayim* 282:1) states that it is customary to follow Rabbenu Nissim's opinion.
+
 [^105]: These days are put in a category of their own, because although they are distinguished by the recitation of the *Musaf* service, work (albeit with restrictions on *Chol Hamo'ed*) is permitted
+
 [^106]: See Chapter 13, Halachah 18.
+
 [^107]: three or four, respectively
+
 [^108]: since, as stated in Halachot 1 and 3, a minimum of three people must be called to the Torah, and a distinction must be made between the days when *Musaf* is recited and when it is not recited.
+
 [^109]: On all these occasions, with the exception of the *Minchah* services of the Sabbath and Yom Kippur, work is permitted, and the Rabbis did not want to have people lose time from work by calling extra people to the Torah. On the Sabbath no additions were made, since it was customary to hold study sessions during the afternoon. Since the reading on Yom Kippur afternoon was instituted as parallel to that of the Sabbath afternoon, no additions are made then.
+
 [^110]: This decision (quoted from *Megillah* 23) implies that a woman could receive an *aliyah* and recite the blessings over the Torah. However, as a gesture of respect to the community, women were not given this privilege.  
     Note the comments of the *Magen Avraham* 282:6, who states that women are obligated to hear the weekly Torah reading.
+
 [^111]: i.e., a male under thirteen
+
 [^112]: since, as stated below, according to the Rambam, only a person who knows how to read can be called to the Torah.
+
 [^113]: i.e., understands that reciting the blessings and reading the Torah is part of the service of God. See the Rambam's Commentary on the Mishnah, *Berachot* 7:2.
+
 [^114]: There is a question among the commentaries if this refers only to the number of seven readers who must be called to the Torah on the Sabbath, or if this also refers to the three readers whom Ezra established as the minimum required to read from the Torah at all times. Rav Kapach relates that in the Rambam's Commentary on the Mishnah (*Megillah* 4:6), he originally accepted a child as one of the seven, but not as one of the three. However, afterwards, he amended the text so that it appears that he accepts a child even as one of the three.
+
 [^115]: See Halachah 20.
+
 [^116]: because the *Kaddish* marks the conclusion of the required Torah reading. In such an instance, since the required number of people were not called to the Torah, the entire Torah reading must be repeated (Rav David Arameah).
+
 [^117]: However, the *Magen Avraham* (ibid.) states that a child should be called only for maftir and even that custom is not practiced in most communities at present.  
     Similarly, the one who recites the haftarah is counted as one of the required number [of people called to the Torah], because he also reads from the Torah - although, as mentioned in Halachah 13, he reads a portion that has already been read.
+
 [^118]: to distinguish between *aliyot*
+
 [^119]: The Torah was read on a platform in the center of the synagogue. See Chapter 11, Halachah 3.
+
 [^120]: The*Tur* (*Orach Chayim* 141) explains that, at present, the custom is to have the *chazan* read for everyone. If only those who knew how to read from the Torah were given *aliyot*, two problems would arise:a) Many people who do not know how to read from the Torah would be embarrassed;b) People who do not know how to read correctly would claim that they do know how to read, and arguments might crop up between them and the synagogue officials.  
     Nevertheless, since there is a question whether it is acceptable for a person to recite the blessings when he does not actually read from the Torah, it is desirable that the person who recites the blessings read along with the *chazan* in an undertone. (See *Shulchan Aruch*, *Orach Chayim* 141:2, and commentaries.) Yemenite custom, even at present, is that each person called to the Torah reads himself.
+
 [^121]: Though our practice has its origins in the decrees of the Sages as explained below, there is also a Torah command (see *Sefer HaMitzvot*, Positive Commandment 32) to give precedence to a priest regarding the Torah reading. However, according to the Torah, this commandment applies only when the two are equal in wisdom (as mentioned below).
+
 [^122]: *Gittin* 5:8 states that this practice was instituted by the Sages to establish peace among the people. Originally, the first *aliyah* would be given to the sage of greatest stature in the community. However, strife and contention would frequently break out concerning the designation of the person deserving of that honor.
+
 [^123]: However, in Talmudic times, if a sage was obviously of a higher stature than the priests who were present, he was called first. Thus, *Megillah* [[Megillah 22#22a|22a]] relates that Rav would receive the first *aliyah* in the presence of Shmuel, although Shmuel was a priest and Rav was not.
+
 [^124]: In his Commentary on the Mishnah (*Gittin*, *loc. cit.*), the Rambam writes:  
     Know that the practice which is widely accepted everywhere, that a priest reads first in the synagogue regardless of whether he is a sage or a commoner, regardless of whether there is someone of greater stature there or not, is a matter which has no basis in the Talmud.... I wonder where this blemish came from....  
     The Rambam continues to explain that even at present, it is proper to call a sage of greater stature to the Torah before a priest of lower stature. Though the Rambam's opinion has been supported by many commentaries, in practice the commonly accepted custom has been allowed to be continued. The reason for this is quite clear. The strife and contention that existed in Talmudic times would surely return (*Beit Yosef, Orach Chayim* 135).
+
 [^125]: *Gittin* [[Gittin 60#60a|60a]] states that after the priest and the Levite, the *aliyot* should be given to "Torah sages who serve as community leaders, the sons of Torah sages who serve as community leaders, the heads of the community, and then all people."
+
 [^126]: *Megillah* 32b states that the *gollel* - the one who rolls the Torah closed - receives a reward equivalent to that of all the others who read from the Torah.  
     Apparently, the Rambam interprets this statement as referring to the person who receives the final *aliyah*, or on Sabbath and festivals, the one who reads the *haftarah*. He should also roll the Torah closed. The *Mishnah Berurah* (147:5-6) quotes a different view, explaining that the term גולל refers to the person who lifts the Torah up (what we refer to as *Magbiah*). It is customary that the person who receives this honor need not read from the Torah beforehand.
+
 [^127]: Because of the principles mentioned above, one might think that the sage of greatest stature should receive the third (or the first) *aliyah*. However, since the reward received by the גולל is greater, the sage may be given this honor.
+
 [^128]: or the priest is at a point in prayer where he is forbidden to make an interruption (*Shulchan Aruch, Orach Chayim* 135:5).
+
 [^129]: Our translation follows the statements of Rav Sa'adiah Gaon, who writes that the honor should be given to an Israelite and should not be given to a Levite. However, the Ramah (*Orach Chayim* 135:6) states that the honor may also be given to a Levite.
+
 [^130]: lest one think that the person called to the Torah before him is a priest (*Beit Yosef, Orach Chayim* 135).  
     Note the statements of Rav Sa'adiah Gaon, who maintains that in such circumstances, the Levite may be given one of the later *aliyot*. His opinion is quoted by the *Shulchan Aruch* (*loc. cit.*:10). However, the Ramah maintains that a second priest or Levite should not be given one of the first seven *aliyot*.  
     When there are no Levites present, the priest who received the first *aliyah* returns and reads [from the Torah] a second time in place of the Levite. - An Israelite should not be called, for this would create the impression that the first person called to the Torah was not a priest (*Mishnah Berurah* 135:28).
+
 [^131]: even if his father was known to be a priest, it is possible that his mother was unfit to marry a priest.
+
 [^132]: In contrast to the situation involving two Levites mentioned below, the second priest's lineage would not be doubted, for were he not a priest, he would not be given this *aliyah* either (*Mishnah Berurah* 135:28).  
     Similarly, one Levite should not read [from the Torah] after another Levite, lest others say that there is a blemish in the lineage of one of them - i.e., even if his father was a Levite, it is possible that he married a women who is a ממזרת, and thus their children are also ממזרים (*Mishnah Berurah* 135:30).
+
 [^133]: Having outlined the halachic principles governing the reading of the Torah, the Rambam turns to explaining the order of the prayer service on the days when the Torah is read. Thus, this and the following two halachot complete the description of the order of communal prayer begun in Chapter 9.
+
 [^134]: but when the *haftarah* is not recited - i.e., Rosh Chodesh or *Chol Hamo'ed*
+
 [^135]: full *Kaddish*, to indicate the completion of the morning service
+
 [^136]: The *Mishnah Berurah* 141:25 states that the Torah scroll should always be taken to the platform on the right side, as the reader faces the platform.
+
 [^137]: to the platform on which the Torah is read. Hence, the name *aliyah* (ascent) is used to refer to a person called to the Torah.
+
 [^138]: as mentioned in Chapter 9, Halachah 14, here the congregation recite *Tehillah l'David* and *U'va l'Tzion*.
+
 [^139]: half-*Kaddish*. The Rambam's statements are based on *Soferim* 21:6. It is our practice to recite *Kaddish* after the Torah reading and then, again, as an introduction to the *Musaf* prayers.
+
 [^140]: and then the [congregation] recites the *Musaf* service.
+
 [^141]: i.e., Sabbaths and festivals
+
 [^142]: Thus, the *Kaddish* differentiates between the Torah reading, which is obligatory, and the portion read by the person who recites the *haftarah*, which was instituted only as a token of respect for the Torah (*Soferim*, *loc. cit.*).  
     The Rambam does not state whether the Torah scroll should be returned before the morning service or afterwards. In one of his responsa, he writes that there is no advantage to one practice over the other, and everything depends on local custom.
+
 [^143]: Halachah 17 describes the consequences that result from this difference in custom.
+
 [^144]: i.e., *U'va l'Tzion*. See Chapter 9, Halachah 13. On Yom Kippur, it is our custom to recite these prayers before the *Ne'ilah* service, and not before *Minchah*.
+
 [^145]: a half-*Kaddish*
+
 [^146]: The congregation should stand while the Torah scroll is being taken from the ark (*Kiddushin* [[Kiddushin 33#33b|33b]]). *Soferim* 14:14 states that the congregation should walk after the Torah scroll while it is being taken from the ark to the reading platform and when it is returned.  
     The Ramah (*Orach Chayim* 149:1) mentions the custom of training children to kiss the Torah scroll as it is taken out.
+
 [^147]: The congregation should rise and accompany it back to the ark (*Shulchan Aruch* and Ramah, *Orach Chayim* 149:1).
+
 [^148]: half-*Kaddish*
+
 [^149]: and the [congregation] recites the *Minchah* service.
+
 [^150]: after the recitation of*Tehillah l'David* and half-*Kaddish*
+
 [^151]: See Chapter 13, Halachah 18.
+
 [^152]: a half-*Kaddish*
+
 [^153]: As explained in Halachah 1, the Torah reading on Sabbath afternoons was instituted for יושבי קרנות. According to the interpretation that this refers to idle people who sit on the street corners, Rabbenu Manoach explains that this reason would not apply on the festivals, when the people are involved in the preparation of their festive meals. Even according to the interpretation of the term as "shopkeepers," it is possible that in consideration of the time spent preparing the festive meals, the Rabbis did not institute the reading of the Torah in the *Minchah* service.
+
 [^154]: i.e., on Mondays and Thursdays, Purim, Chanukah, and fast days
+
 [^155]: and the supplicatory prayers have been recited
+
 [^156]: half-*Kaddish*
+
 [^157]: Interestingly, this is the custom in some Ashkenazic communities. However, in Sephardic communities, it is customary to return the Torah scroll to the ark after the recitation of the full *Kaddish* mentioned below (*Shulchan Aruch* and Ramah, *Orach Chayim* 25:13).
+
 [^158]: *U'va l'Tzion*
+
 [^159]: See Chapter 9, Halachah 13.
+
 [^160]: the full *Kaddish*, to indicate the completion of the service.
+
 [^161]: i.e., it is proper that a community possess a complete Torah scroll. The Jerusalem Talmud (*Megillah* 3:1) states that this prohibition was instituted so that the community would be upset that they were prevented from hearing the Torah readings, and therefore buy a Torah scroll. (See also Chapter 11, Halachah 1.)
+
 [^162]: Rashi, *Yoma* [[Yoma 70#70a|70a]], offers another reason: because the congregation is forced to stand idly while the scroll is being rolled.
+
 [^163]: See Chapter 18, Halachot 22-24.
+
 [^164]: See *Hilchot Avodat Yom HaKippurim* 3:10, which describes the portions read by the High Priest in the Temple on Yom Kippur. He would read one passage by heart, rather than roll the Torah scroll.  
     The *Merkevat HaMishneh* explains that if the passages read from the two scrolls deal with two different subjects, one person may read from two scrolls. See Chapter 13, Halachah 4.
+
 [^165]: Interestingly, the Rambam does not mention at all the laws which apply when a Torah scroll is found invalid. (See *Shulchan Aruch, Orach Chayim* 143.)
+
 [^166]: Apparently, in Talmudic times, one person would both lift the Torah up and roll it closed. (This practice is followed today among Chabad Chassidim.)
+
 [^167]: The Ramah (*Orach Chayim* 147:4) interprets this statement (a quote from *Megillah* 32b) to mean that when a Torah scroll is rolled closed, the blank side of the parchment should face the outside, and the writing should face the person holding the Torah scroll.
+
 [^168]: *Tosafot* (*Megillah*, *loc. cit.*) explains that if the knot is on the outside, when the Torah scroll is opened it would have to be turned over to be untied.
+
 [^169]: between the different columns of the Torah scroll
+
 [^170]: i.e., if the Torah scroll is torn because one person pulled one *etz chayim* (one of the rods on which the Torah scroll is mounted) from the other, the scroll will tear on the stitching and not on the text.
+
 [^171]: The Ramah (*Orach Chayim* 149:1) interprets the following prohibition to apply only to the community as a whole. One or two individuals are allowed to leave.
+
 [^172]: The *Tur, Orach Chayim* 149, interprets *Sotah* [[Sotah 39#39b|39b]], the source for this prohibition, as forbidding one to leave from the same exit through which the Torah will be taken, but allowing one to leave through another exit, because it is improper for a person to walk in front of the Torah scroll.  
     The Rambam does not allow this leniency, since abandoning the Torah does not show respect. The *Shulchan Aruch* (*Orach Chayim* 149:1) quotes the *Tur's* opinion.
+
 [^173]: *Sotah* [[Sotah 39#39b|39b]] derives this law from [[Torah 47 - Re'eh#^13-5|Deuteronomy 13:5]]: "Follow after God, your Lord." The Ramah (*loc. cit.*) states that similar practices should be followed when the Torah is kept in the ark, as is customary today. (See also the commentary on Halachah 21.)

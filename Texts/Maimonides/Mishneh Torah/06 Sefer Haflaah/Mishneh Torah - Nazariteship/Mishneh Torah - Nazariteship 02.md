@@ -122,78 +122,146 @@ If he took a nazirite vow, completed it, and shaved,[^59] without his master kno
 **22.** Throughout the entire time he is in the Diaspora, he is forbidden to drink wine, to become impure due to contact with the dead, and to cut his hair.[^68] He must uphold all of the requirements stemming from a nazirite vow, despite the fact that the days are not counted for him. If he transgressed and drank [wine], cut his hair, or touched a corpse or the like,[^69] he is liable for lashes. ^2-22
 
 [^1]: E.g., he said: "I will be nazirite if I ate today," and he was under the impression that he had not eaten, but in fact he had eaten (*Nedarim* [[Nedarim 25#25b|25b]]). See *Hilchot Nedarim* 8:3 and Chapter 1, Halachah 15.
+
 [^2]: I.e., people compelled him to take the nazirite vows. See *Hilchot Nedarim* 4:1.
+
 [^3]: He said: "I will be a nazirite if you do not eat at my home." See *Hilchot Nedarim* 4:3.
+
 [^4]: He said: "I will be a nazirite if I did not see an army as numerous as the Jewish people when they left Egypt." See *Hilchot Nedarim* 4:1; *Hilchot Sh'vuot* 3:5.
+
 [^5]: See *Hilchot Nedarim* 4:5.
+
 [^6]: We do not automatically say: Had he known that the animal would have been stolen he would not have taken the vow. If, however, he asks a sage to absolve the vow on this account, it is absolved. See *Hilchot Nedarim* 8:5; *Hilchot Sh'vuot* 6:12.
+
 [^7]: I.e., his vow was taken on a false assumption, for he believed that he possessed these animals. See *Hilchot Nedarim* 8:3.
+
 [^8]: I.e., as illustrated in the following halachah, he states that a nazirite vow taken by a colleague should also apply to him.
+
 [^9]: *Hilchot Nedarim* 3:3.
+
 [^10]: See Chapter 1, Halachah 5.
+
 [^11]: I.e., "just as he is forbidden to drink wine, so am I."
+
 [^12]: I.e., "just as he is forbidden to cut his hair, so am I."
+
 [^13]: This term refers to a specific span of time, the time it takes to say: *Shalom Elecha Rebbi* (*Hilchot Sh'vuot* 2:17).
+
 [^14]: I.e., each one speaking immediately thereafter his colleague.
+
 [^15]: In contrast to the person who took the vow who does not become a nazirite until the child is born (Chapter 1, Halachah 17). This is the conclusion the Rambam derives from the discussion of the issue in *Nazir* [[Nazir 13#13a|13a]]. The Ra'avad offers a different interpretation of the passage. The Radbaz and the *Kessef Mishneh* justify the Rambam's understanding.
+
 [^16]: I.e., were he not to make such a statement, it would appear that he does not have genuine love for him. Because of the above, we say that his vow was not made sincerely and he never intended to become a nazirite.
+
 [^17]: In contrast to the situation described in the previous halachah, in this instance, the person mentioned in the nazirite vow was not present when the vow was taken.
+
 [^18]: Since the person was not present, we feel that it is less likely that his statements were made merely to make an impression (see *Nazir* [[Nazir 13#13a|13a]]).
+
 [^19]: The rationale is that at the time of the completion of the vow, the person is required to offer sacrifices. Were his vow not to have taken effect, he would be slaughtering non-sacrificial animals in the Temple courtyard which is forbidden (Rabbenu Nissim).
+
 [^20]: Because as stated at the conclusion of the previous halachah, if there is a doubt where a nazirite vow is binding, we rule leniently.
+
 [^21]: A dry measure used in the Talmudic period equivalent to 30 *se'ah* (*Hilchot Arachin* 4:4).
+
 [^22]: For he desired the nazirite vow to take effect only if there was the said amount of grain in the grain heap.
+
 [^23]: A *ko'i* is a hybrid born from breeding a deer and a goat. There is an unresolved question among our Sages if it is considered as a domesticated animal (*behemah*) or a wild beast {(*chayah*) the Rambam's Commentary to the Mishnah, *Bikkurim* 2:8}. In *Hilchot Ma'achalot Assurot* 1:13, he states that the term refers to any hybrid that comes from mating a domesticated animal with a wild beast.
+
 [^24]: In his Commentary to the Mishnah (*Nazir* 5:6), the Rambam states that if one person made all these statements, he is obligated to fulfill an equivalent number of nazirite vows.
+
 [^25]: See the following halachah where the Rambam elaborates on these points.
+
 [^26]: See the following halachah where the Rambam elaborates on these points.
+
 [^27]: See *Hilchot Shechitah* 14:4.
+
 [^28]: See *Hilchot Ma'achalot Assurot* 1:13.
+
 [^29]: See *Hilchot Kilayim* 9:5.
+
 [^30]: See *Hilchot Shechitah* 12:8-9; *Hilchot Bikkurim* 9:5; 10:7; *Hilchot Sha'ar Avot HaTumah* 1:6, *et al*.
+
 [^31]: I.e., either semen or the secretion of a *zav*. See *Hilchot Mita'amei Mishkav UMoshav* 1:7; *Hilchot Mechusarei Kapparah* 3:7.
+
 [^32]: See *Hilchot Avadim* 4:1.
+
 [^33]: See *Hilchot Tzitzit* 3:9; *Hilchot Yibbum VeChalitzah* 6:8; *Hilchot Issurei Bi'ah* 22:11, *et al*.
+
 [^34]: Note the Radbaz who offers an explanation why all three illustrations of the principle are necessary.
+
 [^35]: I.e., twelve for a male and eleven for a female. He or she must also be aware of the One for whose sake they are taking vows (*Hilchot Nedarim* 11:1-4).
+
 [^36]: The Ra'avad questions this ruling, noting that there are authorities who maintain that the obligation for a minor to keep his vow is Rabbinic in origin. According to their view, it would be forbidden for the minor to bring a sacrifice, for that would be bringing non-sacramental animals as offerings. The Radbaz and the *Kessef Mishneh* maintain that those authorities follow a minority position.
+
 [^37]: The commentaries discuss this issue, noting that seemingly, the prophetess Chanah administered a nazirite vow to her son Samuel. They explain that although the inspiration for the vow came from Chanah, it was actually administered by Elkanah, Samuel's father.
+
 [^38]: I.e., his silence is considered as acceptance. If, however, he refuses to become a nazirite, he is not bound by his father's statements, as stated in the following halachah.
+
 [^39]: See Chapter 6, Halachot 3, 11.
+
 [^40]: See Chapter 8, Halachah 1.
+
 [^41]: The *Kessef Mishneh* and the Radbaz refer to the difference of opinion between Rashi and *Tosafot* (*Nazir* [[Nazir 28#28b|28b]]) whether the objection must be made immediately or whether they can be made throughout the span of the nazirite vow. In his Commentary to the Mishnah (*Nazir* 4:6), the Rambam espouses the view shared by *Tosafot* that once the son began observing the nazirite vow, he cannot object to it.
+
 [^42]: The *Minchat Chinuch* (mitzvah 368) writes that if the child agrees to observe the nazirite vow, it is binding even if the relatives object.
+
 [^43]: See the *Or Sameach* who debates whether drinking wine is also considered a deed which registers the son's objections.
+
 [^44]: For his father's authority over him is not absolute.
+
 [^45]: Becomes thirteen years old and manifests signs of physical maturity (*Hilchot Ishut* 2:2; see the Rambam's Commentary to the Mishnah, *loc. cit.*).
+
 [^46]: The verse which introduces the laws of a nazirite vow. By addressing the passage to Jews, the Torah indicates that it does not apply to gentiles.
+
 [^47]: [[Torah 35 - Nasso#^6-2|Numbers 6:2]] specifically mentions a woman taking a nazirite vow. With regard to servants, *Nazir* [[Nazir 62#62b|62b]] explains how this concept can be explained by Biblical exegesis.
+
 [^48]: See *Hilchot Nedarim*, chs. 11-13.
+
 [^49]: We are speaking about a Canaanite servant who is his master's property. Accordingly, vows he takes are dependent on his master's consent as indicated by the following halachah.
+
 [^50]: I.e., with regard to a servant, a verbal nullification of the nazirite vow is not sufficient. The master must physically compel him not to observe it.
+
 [^51]: See *Hilchot Arachin* 1:2.
+
 [^52]: I.e., as the Rambam continues to explain, the vow is void without the master having to take any action at all.
+
 [^53]: According to the Rambam (based on *Nazir* [[Nazir 62#62b|62b]]) , there are four different rulings with regard to vows or oaths a servant takes:  
     a) All oaths and valuation assessments that a servant takes are nullified automatically. The rationale is that "his body is not his property so that the oath he takes will be effective. With regard to oaths, \[[[Torah 42 - Matot#^30-3|Numbers 30:3]]] states: 'forbid something upon one's soul.' [Implied is that the verse applies to] someone whose soul is his property. It excludes a servant who is someone else's property" (*Hilchot Sh'vuot* 12:6).  
     b) Vows other than a nazirite vow that are either aggravating or prevent the servant from working are automatically nullified. The rationale is that, with regard to an oath, [[Torah 24 - Vayikra#^5-4|Leviticus 5:4]] states: "Whether he will do harm or do good." Implied is that he can take an oath - or a vow, because an association is established between vows and oaths - only when he has the choice of either doing good or doing harm to himself. This does not apply to these oaths. Since they harm his master, he has no right to take them.  
     c) Nazirite vows are not automatically nullified, because the association with vows does not apply with regard to them. Nevertheless, since the servant belongs to his master, the master has the right to nullify his vow.  
     d) Vows other than a nazirite vow that are neither aggravating nor prevent the servant from working must be fulfilled. The rationale is that in contrast to an oath in which the prohibition is incumbent on the servant (the *gavra*), for a vow, the prohibition falls upon the object (the *cheftza*). Since there is no harm to the master involved, such vows can take effect.
+
 [^54]: Since the master does not suffer any loss, there is no reason that the vow should not take effect.
+
 [^55]: When a master desires to nullify a vow taken by his servant, he must physically compel him to break it, as mentioned above. If he does not do so, but instead, verbally nullifies it, he is indicating that he no longer considers his servant as having that status, but has freed him. See parallels in *Hilchot Avadim* 8:17.  
     Based on a different version of *Nazir* [[Nazir 62#62b|62b]], the Ra'avad differs with the Rambam and does not agree that verbally nullifying a servant's vow is an indication that he must be freed. The commentaries support the Rambam's understanding.
+
 [^56]: For the verbal nullification made by his master is of no consequence.
+
 [^57]: Fleeing from his master is not equivalent to attaining his freedom (Radbaz).
+
 [^58]: The Ra'avad differs with the Rambam's ruling, noting that *Nazir* 9:1 mentions that this issue is the subject of a difference of opinion between Rabbi Meir and Rabbi Yossi. Generally, in such instances, the halachah follows Rabbi Yossi and yet the Rambam follows Rabbi Meir's view. The Radbaz explains that the fact that *Nazir* [[Nazir 61#61a|61a]] concludes by mentioning Rabbi Meir's view indicates that the halachah follows his opinion. The *Kessef Mishneh* suggests (- this, however, is not borne out by the Rambam's Commentary to the Mishnah -) that the Rambam's text of the mishnah read opposite to the standard version. Others support the Rambam's ruling, based on *Tosafot* who states that the halachah follows Rabbi Meir with regard to his decrees.
+
 [^59]: I.e., completed the process required of a nazirite at the conclusion of his vow.
+
 [^60]: We do not say that since the vow was fulfilled without the knowledge of his master, its fulfillment is of no consequence. Although his master could have nullified his vow, since in fact he did not do so, it is considered significant (Radbaz).
+
 [^61]: I.e., he must begin counting the days of his nazirite vow anew as a free man, without counting the days during which he observed as a servant.  
     The rationale why these days are not counted is that since he did not complete his vow (by shaving), the status of the vow is left open. For at any time, his master could compel him to drink wine and nullify his vow. As such, he is never considered to have completed a valid nazirite vow. Although the Ra'avad differs with the Rambam's ruling, the commentaries justify his approach.
+
 [^62]: I.e., he does not bring a sacrifice as would a free man who became impure in the midst of his nazirite vow. Instead, he begins his nazirite vow anew when he becomes pure after he attains his freedom.
+
 [^63]: See Chapter 3, Halachah 12, for a description of how this vow is observed.
+
 [^64]: This is not a point of Scriptural Law. Instead, the rationale is that since our Sages decreed that the Diaspora - its earth and even its air - conveys ritual impurity, a nazirite cannot observe his vow there (*Nazir* [[Nazir 54#54a|54a]]; see *Hilchot Tuma'at Meit* 11:1).
+
 [^65]: So that he can observe his nazirite vow in purity.
+
 [^66]: *Nazir* [[Nazir 19#19b|19b]], 20a relates that Queen Heleni took a vow that if her son would return safe from a war, she would be a nazarite for seven years. She observed her vow and came to the Temple to offer her sacrifices. The School of Hillel ruled that she should remain in *Eretz Yisrael* and observe her vow for another seven years, for the time she observed it in the Diaspora was not counted.
+
 [^67]: The Ra'avad questions what purpose will be served by ascending to *Eretz Yisrael* in the present era. We are all impure because of contact with a human corpse (or impurity that results from that) and there are no ashes from the red heifer to purify ourselves. If so, what difference is there between *Eretz Yisrael* and the Diaspora? In neither place, will one be able to complete his nazirite vow in purity. Hence, the Ra'avad concludes, it is forbidden to take a nazirite vow in the present age, whether in the Diaspora or in *Eretz Yisrael*.  
     The Radbaz states that although we are ritually impure, abiding in the Diaspora increases that impurity. Hence, it is preferable for one who takes a nazirite vow to ascend to *Eretz Yisrael*. The *Kessef Mishneh* goes further and states that since a person can prevent himself from coming into contact with the ritual impurity associated with a corpse, there is no prohibition against taking a nazirite vow in the present age.
+
 [^68]: See the parallel in Chapter 6, Halachah 7, for parallels.
+
 [^69]: For even though we are all ritually impure at present, a nazirite who is impure who comes in contact with a corpse is liable for lashes for each time he comes in contact (Chapter 5, Halachah 17).

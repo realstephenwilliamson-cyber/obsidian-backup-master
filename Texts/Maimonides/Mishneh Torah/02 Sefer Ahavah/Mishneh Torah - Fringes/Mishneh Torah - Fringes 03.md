@@ -125,125 +125,224 @@ In particular, care should be taken regarding this matter during prayer.[^99] It
 **12.** A person should always be careful regarding the mitzvah of tzitzit, because the Torah considered it equal to all the mitzvot and considered them all as dependent on it, as [implied by [[Torah 37 - Sh'lach#^15-39|Numbers 15:39]]]: "And you shall see them and remember all the mitzvot of God." ^3-12
 
 [^1]: With this expression, the Rambam could be alluding to the concept that a person is not obligated to wear tzitzit. Should a person desire to wear a garment of the type that requires tzitzit, then he has the opportunity to fulfill the mitzvah. See Halachot 10-11.
+
 [^2]: [[Torah 49 - Ki Teitzei#^22-12|Deuteronomy 22:12]] states: "Make braids on the four corners of your garments." As explained in Halachah 3, this excludes a garment with fewer than four corners.
+
 [^3]: corners; - See Halachah 3.
+
 [^4]: *Menachot* [[Menachot 41#41a|41a]] adds that the garment must be large enough for an adult to use it occasionally.  
     This requirement is particularly significant regarding a *tallit katan*. Note the *Mishnah Berurah* 16:4, which requires that a *tallit katan* be at least 0.75 of a cubit long and 0.75 of a cubit wide on each side, without including the area of the hole where one's head is inserted. Preferably, the *tallit katan* should be a cubit by a cubit on each side.
+
 [^5]: The *Tur* (*Orach Chayim* 16) defines this as referring to a child who is at least nine years old.
+
 [^6]: as explained in the following halachah.
+
 [^7]: for example, clothes of silk, cotton, camels' wool, hares' wool, goats' wool, - The term "wool" when used without any modifier refers to wool from sheep or rams alone.
+
 [^8]: are required to have tzitzit only because of Rabbinic decree - The Rambam's opinion is quoted as halachah by the *Shulchan Aruch* (*Orach Chayim* 9:1). The Ashkenazic authorities, however (see the Ramah), disagree and maintain that all four-cornered garments require tzitzit regardless of the fabric they are made of. This difference of opinion results from the interpretation of a debate between Amoraim (*Menachot* [[Menachot 39#39b|39b]]).  
     Because of this difference of opinion, the *Shulchan Aruch* (*Orach Chayim* 9:6) suggests that everyone wear a *tallit* of wool, so that he will fulfill the mitzvah as required by the Torah according to all opinions. *Shulchan Aruch HaRav* 9:4 and the *Mishnah Berurah* 9:5 suggest that a God-fearing person should have both his *tallit gadol* and his *tallit katan* made of wool. See also the commentary on Halachah 5.
+
 [^9]: Were tzitzit not required to be attached to these garments, people might not attach them to the garments which do require them.
+
 [^10]: or have more than four corners - and are of the measure mentioned above. - Even when extending the scope of the mitzvah, the Rabbis maintained these criteria, which are explained in the previous halachah.
+
 [^11]: as explained in *Menachot*, ibid.
+
 [^12]: This includes the garments to which tzitzit are attached, as [[Torah 37 - Sh'lach#^15-38|Numbers 15:38]] states: "On the corners of their garments."
+
 [^13]: Since, regarding the prohibition against mixing fabrics (*sha'atnez*, *Hilchot Kilayim* 10:1) and the laws of *tzara'at* (leprosy, *Hilchot Tumat Tzara'at* 13:1), the Torah mentions garments of wool and linen, we can assume that any place in the Torah which mentions the word "garment" is referring to one made from wool or linen unless another fabric is explicitly mentioned.
+
 [^14]: In this halachah, the Rambam departs from his usual pattern of stating a law tersely without explanation, and quotes the entire passage (*Menachot* [[Menachot 43#43b|43b]]), from which these laws are derived.
+
 [^15]: The Torah's command to attach tzitzit
+
 [^16]: since the mention of a specific number of corners obviously is intended to exclude garments which do not meet this requirement.
+
 [^17]: this phrase
+
 [^18]: i.e., why restrict the scope of the exclusion?
+
 [^19]: extra phrase, which has no apparent purpose was added to
+
 [^20]: One also "covers himself" with such garments.  
     The Talmud continues, asking
+
 [^21]: Why is the inclusion applied to a five-cornered garment and the exclusion to a three-cornered garment? Perhaps they should be reversed, after all,
+
 [^22]: a three- or five-cornered garment
+
 [^23]: The Talmud answers:
+
 [^24]: Therefore, it is logical to assume that the inclusion applies to it. This concludes the quotation from the Talmud.
+
 [^25]: Since the reason tzitzit are placed on a five-cornered garment is that it possesses four corners
+
 [^26]: Indeed, if one attaches tzitzit to more than four corners of the garment, one transgresses the prohibition against adding to a Torah commandment (*Magen Avraham* 10:2).
+
 [^27]: for, in this way, the tzitzit will be more noticeable (*Shulchan Aruch HaRav* 10:3).
+
 [^28]: There are other opinions, which maintain that a garment with more than four corners does not require tzitzit. In consideration of these opinions, it is preferable not to wear such garments at all (*Magen Avraham* 10:1).
+
 [^29]: any cloth, not only wool or linen
+
 [^30]: The same law applies when not only the corners, but also a portion of the garment itself, is leather. As long as the majority of the garment is cloth, it requires tzitzit (*Shulchan Aruch HaRav* 10:8; *Mishnah Berurah* 10:10).
+
 [^31]: In this case as well, as long as the majority of the garment is leather
+
 [^32]: This is derived from the conclusion of the verse from Deuteronomy, "with which you cover yourself." A person covers himself with the major portion of the garment (Rabbenu Manoach).
+
 [^33]: Here, the usage of a plural term implies an inclusion of garments which belong to many owners.  
     In contrast,
+
 [^34]: In this verse, the singular form of the word "your" is used.
+
 [^35]: Nevertheless, one is allowed to attach tzitzit to the garment if one chooses. Furthermore, one is allowed to borrow a colleague's tallit and recite a blessing over it - even without his knowledge (*Shulchan Aruch, Orach Chayim* 14:3-4).
+
 [^36]: Note the *Hagahot Maimoniot*, which explain that, even after thirty days, the Torah does not require a person to attach tzitzit to a garment which is not his own. The Sages, however, imposed this obligation because the garment appears to be his.
+
 [^37]: alone.
+
 [^38]: alone. Note the explanation in the following halachah.
+
 [^39]: As mentioned in the commentary on Halachah 2, there is a difference of opinion among the Rabbis whether garments made from fabrics other than wool or linen require tzitzit or not. According to the opinions which maintain that they do, the concepts that follow are derived from the exegesis of a Biblical verse. (See *Menachot* [[Menachot 39#39b|39b]].) According to the Rambam, who maintains that the requirement of tzitzit on these garments is Rabbinic in origin, we must assume that these concepts were part of the Rabbinic ordinance requiring tzitzit for these garments (*Kessef Mishneh*).
+
 [^40]: The authorities who consider the obligation to attach tzitzit to such garments as stemming from the Torah explain that, in the commandment to attach tzitzit, the Torah mentions the word "corner" an extra time, to teach that the tzitzit should be made of the same fabric as the corners.
+
 [^41]: If one chooses to make tzitzit from these fabrics, one should use them for all four tzitzit. It is questionable whether it is acceptable to make some of the tzitzit of a specific garment from wool and others from the fabric of which the garment is made (*Shulchan Aruch, Orach Chayim* 9:4).
+
 [^42]: The Ramah (*Orach Chayim* 9:2) states that at present it is customary not to make linen tzitzit at all.
+
 [^43]: *Menachot*, ibid., derives this concept from the fact that [[Torah 49 - Ki Teitzei#^22-12|Deuteronomy 22:12]] mentions the mitzvah to attach tzitzit to our garments directly after the mention of the prohibition of making garments of wool and linen. Our Sages explain, that although mixtures of wool and linen are forbidden in general, such a mixture is required in tzitzit. (See the following two halachot.) Therefore, whenever tzitzit are made, either of these two fabrics may be used.
+
 [^44]: Rabbi Meir of Rothenberg maintains, however, that wool and linen strands alone are not sufficient, and only a combination of wool and linen including strands of *techelet* can be used to fulfill the obligation of tzitzit for garments made from other fabrics. *Shulchan Aruch HaRav* 9:4 suggests considering this opinion.
+
 [^45]: Note *Shulchan Aruch HaRav* 9:5 and the *Mishnah Berurah* 9:10,13 which discuss a situation where the garment is woven from both wool and another fabric.
+
 [^46]: even though we are speaking only of the white strands without techelet? - It appears that the Rambam is asking about attaching tzitzit that have only white strands, without attaching *techelet*. Thus, one can conclude that when attaching tzitzit to a linen garment, it is forbidden to make the white strands of wool even though one includes a woolen strand of*techelet*. Though the prohibition against *sha'atnez* is lifted for this garment, it is lifted only when there is no alternative but to do so (*Kessef Mishneh*).
+
 [^47]: a mixture of wool and linen which is forbidden. (See [[Torah 49 - Ki Teitzei#^22-11|Deuteronomy 22:11]] and *Hilchot Kilayim*, Chapter 10.)
+
 [^48]: Chapter 2, Halachot 1- 2.
+
 [^49]: according to Torah law. See, however, the following halachah.
+
 [^50]: Using linen strands for a woolen garment or vice versa
+
 [^51]: Woolen strands for a woolen garment, linen strands for a linen garment, and thus skirt the prohibition entirely.
+
 [^52]: The following are general rules which apply, not only regarding tzitzit, but in other circumstances as well: for example, *Hilchot Milah* 1:9.
+
 [^53]: by fulfilling the positive commandment without breaking the prohibition
+
 [^54]: Rav Nissim Gaon explains that although the violation of a negative commandment receives a more severe punishment than the failure to observe a positive commandment, when God originally gave the negative commandments, He prescribed that they do not apply when adherence to them causes the performance of a positive commandment to be nullified.  
     The *Tanya* (*Iggeret HaTeshuvah*, Chapter 1) explains the rationale for this principle. Man's purpose in this world is to spread Godly light through the observance of mitzvot. Accordingly, the observance of these mitzvot is always given preference when there is such a conflict.  
     It must be emphasized that one must fulfill the mitzvah at the time one is violating the transgression. It is forbidden, however, in order to break a commandment to later perform a mitzvah.
+
 [^55]: as explained above.  
     144
+
 [^56]: This decree was imposed even when *techelet* was available.
+
 [^57]: even though by doing so, one does not fulfill the mitzvah of tzitzit to the fullest degree.
+
 [^58]: The Rabbis have the power to ordain that a person bypass the performance of a Torah commandment. Surely this applies in the present instance, when the mitzvah of tzitzit is not nullified entirely.
+
 [^59]: Significantly, the Rambam does not quote his apparent source (*Menachot* [[Menachot 40#40b|40b]]) exactly. The Talmud states "lest one wear a garment of the night." The Rambam's change of phraseology teaches two concepts. First, that not only a garment which is generally worn at night, but even one which is worn primarily during the day, should not have *techelet* attached to it, lest one wear it during the night.  
     This also sheds light on a more involved issue. There is a difference of opinion among the Rabbis if the exclusion of wearing tzitzit at night applies to all tzitzit, or if it applies only to garments which are worn primarily at night. According to the latter opinion, garments worn primarily at night do not require tzitzit, even when worn during the day. In contrast, a garment which is worn primarily during the day requires tzitzit, even during the night and one does not transgress the prohibition against *sha'atnez* when wearing it at that time.  
     By altering the terminology used by the Talmud, the Rambam indicates his acceptance of the first perspective. Rabbenu Asher is the primary exponent of the second position. The *Shulchan Aruch* (*Orach Chayim* 18:1) mentions both views without reaching a conclusion.
+
 [^60]: See *Hilchot Kilayim* 10:32, which mentions a similar concept regarding the priestly garments. The sash worn by the priests was made from *sha'atnez*. Therefore, the priests were allowed to wear it only when they were actually involved in the Temple service. Wearing it at other times constitutes a transgression, and not a mitzvah.  
     Significantly, Rabbenu Tam differs with the Rambam and allows the sash and tzitzit to be worn even during the times when doing so does not fulfill a mitzvah.
+
 [^61]: Note the *Magen Avraham* 8:13, which states that this verse also implies that one should wear tzitzit in a manner in which the strands can be seen.
+
 [^62]: i.e., the daytime hours. Note the *Chatam Sofer* and Rabbi Akiva Eiger (*Orach Chayim* 18), who mention opinions that maintain that the mitzvah is not limited by the times of day and night, but rather by situations when one can see the tzitzit. During a daytime eclipse, one would not be obligated.
+
 [^63]: There is no question concerning a blind man's obligation. He is required to wear tzitzit and may recite a blessing beforehand (*Mishnah Berurah* 17:1).
+
 [^64]: i.e., doing so is not a transgression of the prohibition against adding to the performance of a mitzvah.  
     The *Mishnah Berurah* 21:15 quotes the *Ari zal*, as advising one to sleep in a *tallit katan* at night.
+
 [^65]: Rabbi Yitzchak Abuhav maintains that this law applies even to tzitzit containing *techelet*. Based on the previous halachah, however, most authorities do not accept this opinion.
+
 [^66]: On the Sabbath, it is forbidden to carry in the public domain. Therefore, one might think that it is forbidden to wear a garment with tzitzit at night, for it would be considered as if one is carrying them. The Rambam is teaching us that the tzitzit are not considered to be a burden, but rather an adornment of the garment to which they are attached (*Hilchot Shabbat* 19:20).
+
 [^67]: Therefore, when a *tallit* is put on during the night - e.g., before the *Selichot* prayers - a blessing should not be recited (Ramah, *Orach Chayim* 18:3).
+
 [^68]: According to the Rambam, this question applies whether one wears his *tallit* at night or not. Nevertheless, because of Rabbenu Asher's opinion mentioned in the previous halachah, if someone slept in his *tallit katan*, he should not recite a blessing upon it in the morning. Instead, it is preferable that he recite the blessing over his *tallit gadol* with the intention of including the *tallit katan* (*Mishneh Berurah* 8:24).
+
 [^69]: This time is slightly more than midway between dawn (עלות השחר) and sunrise (הנץ החמה).  
     Note the Ramah (*Orach Chayim* 18:3), who allows the blessing to be recited from dawn onwards.
+
 [^70]: This is the blessing recited over the *tallit gadol*. For a *tallit katan*, most authorities suggest concluding *al mitzvat tzitzit*, "concerning the mitzvah of tzitzit."
+
 [^71]: Note the difference of opinion between the *Shulchan Aruch* (*Orach Chayim* 8:14) and the Ramah, whether a person who removes his *tallit* with the intention of putting it on again in the near future is obligated to recite a blessing or not.
+
 [^72]: Note *Hilchot Berachot* 11:9, which states that one should recite the blessing, *shehecheyanu*, when one acquires or makes tzitzit. (See *Shulchan Aruch*, *Orach Chayim* 22:1.)
+
 [^73]: making the tzitzit or even attaching them to the garment is only a preparatory act
+
 [^74]: See *Hilchot Mezuzah* 5:7; *Hilchot Berachot* 11:8.
+
 [^75]: since the tzitzit themselves are not considered sacred articles. *Shulchan Aruch HaRav* 21:3 and the *Mishnah Berurah* 21:14 state that it is improper to enter a lavatory wearing a *tallit gadol*. Since this garment is worn exclusively at the times of prayer, it is not fitting to wear it in a lavatory.
+
 [^76]: in contrast to sacred articles that have become worn, which must be entombed. (See *Hilchot Sefer Torah* 10:3-4.)  
     The Ramah (*Orach Chayim* 21:1) differs and maintains that even after tzitzit have been removed from a garment, they should not be treated with disrespect.
+
 [^77]: Though the tzitzit are used to perform a mitzvah, they, themselves, do not become sacred.
+
 [^78]: and we are afraid that he will deface it. (See *Hilchot Mezuzah* 5:11.)
+
 [^79]: Note *Hilchot Rotzeach UShemirat HaNefesh* 12:7, which forbids traveling together with a gentile.
+
 [^80]: Women are not required to fulfill any mitzvot whose observance is linked to a specific time. (See *Hilchot Avodat Kochavim* 12:3.) Since tzitzit are worn only during the day, women are not obligated to wear them.
+
 [^81]: i.e., gentile servants, who are required to fulfill only the mitzvot for which women are obligated. (See *Hilchot Tefilah* 1:2 and *Hilchot Issurei Bi'ah* 12:11, 14:9.) A Jew sold as a slave is required to fulfill all the mitzvot.
+
 [^82]: The Torah does not place any obligations on minors.
+
 [^83]: *Likkutei Sichot* (Vol. 17) notes that the Rambam's choice of phraseology appears to indicate that the requirement to become trained in the performance of mitzvot obligates the child himself. Generally, it is understood that the obligation is on the child's parents, who are required to train him in Torah observance.  
     The contention that the obligation is on the child himself is supported by *Hilchot Berachot* 5:15-16, which states that an adult who has eaten only a small meal can fulfill his obligation to recite the grace by answering "Amen" to the blessings recited by a child who has reached the age of education. This ruling is based on the rationale that both the child and the adult share the same degree of obligation, a Rabbinical decree. This appears to indicate that the Sages placed the obligation to recite grace on the child himself.
+
 [^84]: The Ramah (*Orach Chayim* 17:3) interprets this to mean, "knows how to wrap himself in tzitzit in the ritual manner."
+
 [^85]: In many communities, it is customary to begin training a child to wear a *tallit katan* from the time he is toilet trained. In other communities, a child begins to wear tzitzit from the age of 6.
+
 [^86]: The Ramah (*Orach Chayim* 17:1), however, advises against women wearing tzitzit, explaining that doing so would be a sign of conceit.
+
 [^87]: Since they are not obligated to fulfill these commandments, it is improper for them to say the blessing which praises God "who has commanded us" to perform the mitzvot.  
     This perspective is not accepted by Ashkenazic authorities. The*Magen Avraham* 17:1 explains that the fact that, as our Sages relate, women are given some measure of reward for the fulfillment of these commandments indicates that the commandment applies - albeit not completely - to them as well.
+
 [^88]: The word *tumtum* has its roots in the word *atum*, which means "a solid block." It refers to a person whose genitalia are covered by skin, so that it is impossible to determine whether he is male or female. (See also *Hilchot Avodat Kochavim* 12:4, *Hilchot Ishut* 2:25.)  
     Should a *tumtum* undergo an operation and it be revealed that he is either male or female, he is bound by the laws which apply to that gender.
+
 [^89]: *Androgynous* is a combination of the Greek words meaning "man" and "woman." It refers to a person who possesses the sexual organs of both genders. (See also *Hilchot Ishut* 2:24.)
+
 [^90]: i.e., it is doubtful whether they are governed by the laws applying to a man or those applying to a woman. The doubts are, however, different in nature. With regard to a *tumtum*, we are uncertain what is his true gender. With regard to an *androgynous*, however, the question revolves around the Sages' failure to define his status.  
     **Therefore, they fulfill [all these positive commandments] -** lest they be considered men.  
     **without reciting a blessing. -** lest they be considered women. Needless to say, according to Ashkenazic practice, they would be required to recite blessings as well.
+
 [^91]: i.e., adult males, as explained in the previous halachah
+
 [^92]: See Halachot 1-4.
+
 [^93]: if he desires to do so.
+
 [^94]: 13The Rambam wants to emphasize that
+
 [^95]: The Rambam's statements in this halachah revolve around a difference of opinion of our Sages, *Menachot* [[Menachot 42#42b|42b]]. There are Sages who maintain that tzitzit is an obligation that depends on the garment - i.e., the mitzvah is completed by placing tzitzit on every garment which requires them. The other opinion states that tzitzit are an obligation incumbent on a person, that a person is required to attach tzitzit to his garments. The Rambam rephrases the latter opinion as follows:
+
 [^96]: With this choice of phraseology, he desires to indicate that - in contrast to other mitzvot (e.g., tefillin) - there is no obligation from the Torah to wear tzitzit every day. Only when a person desires to wear a garment that requires tzitzit is he obligated to fulfill the mitzvah.  
     This conception represents a change of position for the Rambam. Rav Yitzchak Alfasi, whose decisions the Rambam frequently followed, maintains that each person is obligated to wear tzitzit, apparently indicating that tzitzit, like tefillin, are an obligation which a person is required to fulfill.  
     The Rambam apparently held this view himself at one time. Therefore, in *Sefer HaMitzvot*, at the conclusion of the listing of the positive commandments, he lists tzitzit (together with tefillin) as one of the positive commandments whose observance we must pursue. Here, his choice of phraseology indicates that, although the mitzvah is incumbent on the person, it does relate to the garment. Only when a person wears a garment which requires tzitzit is he obligated to fulfill the mitzvah.
+
 [^97]: as explained in the previous halachah.
+
 [^98]: because of the importance of this mitzvah, as mentioned in the following halachah.  
     The Rambam mentions being "wrapped in a garment requiring tzitzit," an expression which appears to refer to a *tallit gadol*, a garment of the size and cut appropriate for "wrapping oneself." Significantly, throughout these halachot, he has used that term and never makes any reference to a *tallit katan*, the smaller garment which is colloquially called "tzitzit" today.  
     In Talmudic times, draping oneself with a garment that resembled our *tallitot gedolot* was common, but in different lands and different eras, the style of dress changed and, except for sages who would spend their day involved in study, it was rare that a person would wear a *tallit gadol* throughout the day. Accordingly, the people took to wearing the smaller *tallit katan*, which could be accommodated to other styles of dress more easily.  
     There is no explicit mention of a *tallit katan* in the Talmud, although a story related in *Menachot* [[Menachot 44#44a|44a]] appears to indicate that such garments were worn in that era as well. The writings of the early Ashkenazic and later Sephardic rabbis of the Middle Ages mention the wearing of a *tallit katan* as an accepted practice.
+
 [^99]: The Rambam does not specify the morning service. Perhaps he refers to the afternoon service as well.
+
 [^100]: See *Rosh HaShanah* [[Rosh Hashanah 17#17b|17b]], which relates that when God revealed the thirteen qualities of mercy to Moses, "He wrapped Himself [in a tallit] like a leader of prayer and taught him the order of prayer."

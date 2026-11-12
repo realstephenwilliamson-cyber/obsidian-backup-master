@@ -27,10 +27,15 @@ he considers the things of immediate importance to be the most urgent. The man o
 7B:24. Mencius said, "It is due to our nature that our mouths desire sweet taste, that our eyes desire beautiful colors, that our ears desire
 
 [^126]: See above, comment on 3A:4.
+
 [^127]: On the *Book of History*, see ch. 1, n.4.
+
 [^128]: Literally "slabs." Ancient books consisted of bamboo slabs.
+
 [^129]: Actually, according to the *Book of History,* the bloodshed was caused by King Chou's own troops turning against one another. See Legge, *Shoo King,* p. 315. Commentators have said that Mencius may have thought that there should have been no bloodshed at all, since in his own philosophy, people flocked to a man of humanity as water flows downward. See above, Additional Selections, 4A:9.
+
 [^130]: Cf. above, Additional Selections, 4B:3; 5A:5.
+
 [^131]: See comment on *The Mean,* ch. 20, where a similar saying appears.
 
 *[p. 82]* ^pg109
@@ -44,8 +49,11 @@ pleasant sounds, that our noses desire fragrant odors, and that our four limbs d
 7B:31. Mencius said, "All men have some things which they cannot bear. Extend that feeling to what they can bear, and humanity will be the result. All men have some things which they will not do. Extend that feeling to the things that they do, and righteousness will be the result. If a man can give full development to his feeling of not wanting to injure others, his humanity will be more than what he can ever put into practice. If he can give full development to his feeling of not wanting to break in to steal, his righteousness will be more than what he can ever put into practice. If a man can give full development to his real dislike
 
 [^132]: See above, Additional Selections, comment on 7A:1.
+
 [^133]: A man of Ch'i.
+
 [^134]: An official of Lu.
+
 [^135]: Fung, *History of Chinese Philosophy,* vol. 1, pp. 129-131, See also his *Spirit of Chinese Philosophy,* pp. 24-27.
 
 *[p. 83]* ^pg110
@@ -67,6 +75,7 @@ THE IMPORTANCE of this little Classic is far greater than its small size would s
 It is no less important from the philosophical point of view. Although the treatise does not discuss metaphysical problems, it does present the investigation of things as the starting point in moral and social life. This is of course perfectly consonant with the Confucian emphasis on learning. However, Confucianists have never agreed on how to learn, and the different interpretations of the investigation of things in this Classic eventually created bitter opposition among Neo-Confucianists. To Chu Hsi (1130-1200), *ko-wu* meant to investigate things,[^2] both inductively and deductively, on the premise that principle (*li*), the reason of being, is inherent in things. He believed that only with a clear knowledge of things can one's will become sincere. He therefore rearranged the ancient text of the Classic to have the sections on the investigation of things appear before those on sincerity of the will. Wang Yang-ming (Wang Shou-jen, 1472-1529), on the other hand, believing that principle is inherent in the mind, took *ko* to mean "to correct," that is, to correct what is wrong in the mind. To him, sincerity of the will, without which no true knowledge is possible, must come before the investigation
 
 [^1]: See *Analects,* 4:15. The word *jen* has been variously translated as benevolence, love, human-heartedness, true manhood, etc. For a discussion of *jen,* see Appendix.
+
 [^2]: *Ta-hsüeh chang-chü* (Commentary on the *Great Learning*), ch. 5.
 
 *[p. 85]* ^pg112
@@ -82,7 +91,9 @@ THE GREAT LEARNING[^5]
 *Chu Hsi*'*s Remark.* Master Ch'eng I said,<sup>6</sup> "The *Great Learning* is a surviving work of the Confucian school and is the gate through
 
 [^3]: *Ch'uan-hsi lu* (Instructions for Practical Living), sec. 129, 135-137, 172- 175, and 201. See Chan, trans., *Instructions for Practical Living.*
+
 [^4]: His philosophy is summed up in his "Inquiry on the *Gre*a*t Learning"* See below, ch. 35.
+
 [^5]: The *Great Learning* is originally ch. 42 of the *Li chi* (*Book of Rites*). Not much attention was paid to it until the time of Ssu-ma Kuang (1019-1086), who wrote a commentary on it, treating it as a separate work for the first time. This commentary is now lost. Ch'eng Hao (Ch'eng Ming-tao, 1032-1085) and his younger brother Ch'eng I (Ch'eng I-ch'uan, 1033-1107) each rearranged the text. Chu Hsi did the same and, moreover, added a "supplement." He further divided the work into one "text" and ten "chapters of commentary," and contended that the former was Confucius' own words handed down by his pupil Tseng Tzu (505-c.436 B.C.) and that the latter were the views of Tseng Tzu recorded by his pupils. There is no evidence for this contention. Recent scholars, equally without evidence, have dated the work as late as around 200 B.C. Regardless of its date and authorship, which has also been attributed to Confucius' grandson Tzu-ssu (492-431 B.C.), it was Chu Hsi who made it important in the last 800 years. He grouped it with the *Analects,* the *Book of Mencius,* and the *Doctrine of the Mean* as the "Four Books" and wrote commentaries on them. Since then they were honored as Classics, and from 1313 till 1905 they were the basis of civil service examinations. Thus they replaced the other Classics in importance and influence. The Chinese title, *Ta-hsüeh,* literally means education for the adult. In contrast to the education for the young, which consisted of good manners, daily behavior, etc., education for the adult involves moral cultivation and social order. It means, therefore, education for the good man or the gentleman, or using the word in the sense "great," education for the great man. Among Western translations, that by Hughes in his *The Great Learning and the* Yutang, "The Great Learning," follow Chu Hsi's text. This text is called *Ta-hsüah chang-chü,* literally "Punctuation and redivision of the *Great Learning* into Chapters." It contains Chu Hsi's own "Remarks." In the following translation, Chu Hsi's text is used.
 
 *[p. 86]* ^pg113
@@ -100,7 +111,9 @@ The ancients who wished to manifest their clear character to the world would fir
 6\. What follows is a paraphrase of Ch'eng's words. See his *I-shu* (Surviving Works), 2A:4a, 22A:1a and *Ts'ui-yen* (Pure Words), 1:25a, both in ECCS.
 
 [^7]: This and the rest of the "Remarks" on the *Great Learning* are by Chu Hsi.
+
 [^8]: According to Ch'eng I, the character *ch'in* (to love) should be read *hsin* (to renovate). See his revision of the text of the *Great Learning* in *Ching-shuo* (Explanation of the Classics), 5:3a, in ECCS.
+
 [^9]: The word *chih* is used in this work in its various meanings of abiding, staying, and resting.
 
 *[p. 87]* ^pg114
@@ -118,11 +131,17 @@ vated, the family will be regulated; when the family is regulated, the state wil
 2\. The inscription on the bath-tub of King T'ang[^14] read, "If you can renovate yourself one day, then you can do so every day, and keep doing so day after day." In the "Announcement of K'ang," it is said, "Arouse people to become new."[^15] The *Book of Odes* says, "Although Chou is an ancient state, the mandate it has received from Heaven is new."[^16] Therefore, the superior man tries at all times to do his utmost \[in renovating himself and others\].
 
 [^10]: Ch'eng I's rearrangement of the work is found in *Ching-shuo,* 5:3a-5b. His elder brother Hao's rearrangement, which is different from his, is found in 5:1a- 3a. Actually, Chu Hsi's rearrangement is different from both.
+
 [^11]: *History,* "Announcement of K'ang." Cf. translation by Legge, *Shoo King,* p. 383.
+
 [^12]: *ibid.,* "T'ai-chia." Cf. Legge, p. 199.
+
 [^13]: *ibid.,* "Canon of Yao." Cf. Legge, p. 17.
+
 [^14]: Founder of the Shang dynasty (r. 1751-1739 B.C.?)
+
 [^15]: *History,* "Announcement of K'ang." Cf. Legge, p. 388.
+
 [^16]: Ode no. 235.
 
 *[p. 88]* ^pg115
@@ -142,11 +161,17 @@ The *Book of Odes* says, "Look at that curve in the Ch'i River. How luxuriant an
 *Chu Hsi's Remark.* The above fourth chapter of commentary explains the root and the branches.
 
 [^17]: About one-third of a mile.
+
 [^18]: Ode no. 303.
+
 [^19]: Ode no. 230.
+
 [^20]: Ode no. 235. King Wen was the founder of the Chou dynasty. He reigned
+
 [^21]: Ode no. 55.
+
 [^22]: Ode no. 269.
+
 [^23]: *Analects,* 12:13. 1171-1122 B.C.
 
 *[p. 89]* ^pg116
@@ -160,6 +185,7 @@ THE *GREAT LEARNING*
 6\. What is meant by "making the will sincere" is allowing no self-deception, as when we hate a bad smell or love a beautiful color. This is called satisfying oneself. Therefore the superior man will always be watchful over himself when alone. When the inferior man is alone and leisurely, there is no limit to which he does not go in his evil deeds. Only
 
 [^24]: In the Cheng Hsüan text these two sentences come at the end of the "text." Then come sections on sincerity of the will, rectification of the mind, cultivation of the personal life, regulation of the family, order of the state, and peace throughout the world. The first two items, on the investigation of things and perfection of knowledge, are thus missing. This is the reason why Chu Hsi moved the two sentences here and asserted that they are on the investigation of things and the extension of knowledge, and offered a "supplement" to fill in the ideas. Thus he put the investigation of things ahead of sincerity of the will, which is the subject of the next chapter. Chu Hsi's revision here makes the work much more logical, although the revision is arbitrary.
+
 [^25]: Cheng Hsüan in his commentary on the *Book of Rites* (see the *Li chi cheng-i* or Correct Meaning of the *Book of Rites,* in the Thirteen Classics Series) interprets *ko* to mean to teach, that is, when one has the knowledge of good, good things will reach him. Chu Hsi, in his *Ta-hsüeh chang-chü,* also interprets *ko* as to reach, but according to him, it means to reach things, that is, to get at the principle of things to the utmost. See below, ch. 32, comment on sec. 44 and ch. 34, B, 1g, comment on sec. 30.
 
 *[p. 90]* ^pg117
@@ -189,8 +215,11 @@ The *Book of Odes* says, "How young and pretty is that peach tree! How luxuriant
 no. 152.
 
 [^27]: Legendary rulers of the 3rd millennium B.C. the Hsia and Shang dynasties, respectively.
+
 [^29]: Cf. *Analects,* 15:20.
+
 [^31]: Ode
+
 [^32]: Ode no. 173.
 
 *[p. 92]* ^pg119
@@ -208,9 +237,13 @@ What a man dislikes in his superiors, let him not show it in dealing with his in
 The *Book of Odes* says, "How much the people rejoice in their prince, a parent of the people!"[^33] He likes what the people like and dislikes what the people dislike. This is what is meant by being a parent of the people. The *Book of Odes* says, "Lofty is the Southern Mountain! How massive are the rocks! How majestic is the Grand Tutor Yin (of Chou)! The people all look up to you!"[^34] Thus rulers of states should never be careless. If they deviate from the correct path, they will be cast away by the world. The *Book of Odes* says, "Before the rulers of the Yin (Shang) dynasty[^35] lost the support of the people, they could have been counterparts of Heaven.[^36] Take warning from the Yin dynasty. It is not easy to keep the Mandate of Heaven."[^37] This shows that by having the support of the people, they have their countries, and by losing the support of the people, they lose their countries. Therefore the ruler will first be watchful over his own virtue. If he has virtue, he will have the people with him. If he has the people with him, he will have the territory. If he has the territory, he will have wealth. And if he has wealth, he will have its use. Virtue is the root, while wealth is the branch. If he regards the root as external (or secondary) and the branch as internal
 
 [^34]: Ode
+
 [^35]: 1384-1112
+
 [^33]: Ode no. 172. no. 191. B.C.
+
 [^36]: Heaven will accept their sacrifice, according to Cheng Hsüan, or can face Heaven, according to Chu Hsi.
+
 [^37]: Ode no. 235.
 
 *[p. 93]* ^pg120
@@ -220,9 +253,13 @@ THE *GREAT LEARNING*
 (or essential), he will compete with the people in robbing each other. Therefore when wealth is gathered in the ruler's hand, the people will scatter away from him; and when wealth is scattered \[among the people\], they will gather round him. Therefore if the ruler's words are uttered in an evil way, the same words will be uttered back to him in an evil way; and if he acquires wealth in an evil way, it will be taken away from him in an evil way. In the "Announcement of K'ang" it is said, "The Mandate of Heaven is not fixed or unchangeable."[^38] The good ruler gets it and the bad ruler loses it. In the *Book of Ch'u* it is said, "The State of Ch'u does not consider anything as treasure; it considers only good \[men\] as treasure. Uncle Fan (maternal uncle to a prince of Chin in exile) said, 'Our exiled prince has no treasure; to be humane toward his parents is his only treasure.' "[^39] In the "Oath of Ch'in" it is said, "Let me have but one minister, sincere and single-minded, not pretending to other abilities, but broad and upright of mind, generous and tolerant toward others. When he sees that another person has a certain kind of ability, he is as happy as though he himself had it, and when he sees another man who is elegant and wise, he loves him in his heart as much as if he said so in so many words, thus showing that he can really tolerate others. Such a person can preserve my sons, and grandsons and the black-haired people (the common people). He may well be a great benefit to the country. But when a minister sees another person with a certain kind of ability, he is jealous and hates him, and when he sees another person who is elegant and wise, he blocks him so he cannot advance, thus showing that he really cannot tolerate others. Such a person cannot preserve my sons, grandsons, and the black-haired people. He is a danger to the country."[^40] It is only a man of humanity who can send away such a minister and banish him, driving him to live among the barbarian tribes and not allowing him to exist together with the rest of the people in the Middle Kingdom (China). This is what is meant by saying that it is only the man of humanity who can love or who can hate others.[^41] To see a worthy and not be able to raise him to office, or to be able to raise him but not to be the first one to do so—that is negligence.[^42] To see bad men and not be able to remove them from office, or to be able to remove them but not to remove them as far away as possible—that is a mistake. To love what the people hate and to hate what
 
 [^38]: *History,* "Announcement of K'ang." Cf. Legge, *Shoo King,* p. 397.
+
 [^39]: For this story see *Book of Rites,* "T'an-kung," pt. 2. Cf. Legge, trans. *Li Ki,* vol. 1, p. 166.
+
 [^40]: *History,* "Declaration of Ch'in." Cf. Legge, *Shoo King,* pp. 629-630.
+
 [^41]: *Analects,* 4:3.
+
 [^42]: The word *ming,* ordinarily meaning fate, here denotes negligence, according to Cheng Hsüan.
 
 *[p. 94]* ^pg121
@@ -254,7 +291,9 @@ Even before this Classic attracted the Neo-Confucianists, its subtle doctrines h
 What attracted the Taoists, Buddhists, and the Neo-Confucianists were the two main subjects of the book, the very subjects on which Confucius' pupils "could not hear his views,"[^3-p95] namely, human nature and the Way of Heaven. Human nature, endowed by Heaven, is revealed through the states of equilibrium and harmony, which are themselves the "condition of the world" and the "universal path." The Way of Heaven transcends time, space, substance, and motion, and is at the same time unceasing, eternal, and evident.
 
 [^1-p95]: The word "nature" appears only once in the *Great Learning* (ch. 10) and the word "mind" is not found in *The Mean* at all, except in Chu Hsi's and Ch'eng I's remarks.
+
 [^2-p95]: Cf. *The Mean*, ch. 20 and *Mencius,* 4A:12; 7B:16.
+
 [^3-p95]: *Analects,* 5:12.
 
 *[p. 96]* ^pg123
@@ -286,7 +325,9 @@ THE DOCTRINE OF THE MEAN[^6-p97]
 *Chu Hsi's Remark:* "Master Ch'eng I (Ch'eng I-ch'uan, 1033- 1107) said, 'By *chung* (central) is meant what is not one-sided, and by *yung* (ordinary) is meant what is unchangeable. *Chung* is the correct path of the world and *yung* is the definite principle of the world.' 'This work represents the central way[^7-p97] in which the doctrines of the Confucian school have been transmitted.' Fearing that in time errors should arise, Tzu-ssu wrote it down and transmitted it to Mencius. The book 'first speaks of one principle, next it spreads out to cover the ten thousand things, and finally returns and gathers them all under the one principle.' Unroll it, and it reaches in all directions. Roll it up, and it withdraws and lies hidden in minuteness. 'Its meaning and interest are inexhaustible.'[^8-p97] The whole of it is solid learning. If the skillful reader will explore and brood over it and apprehend it, he may apply it throughout his life, and will find it inexhaustible."
 
 [^6-p97]: Originally a chapter in the *Li chi* (*Book of Rites*), evidently it existed in the early Han dynasty (206 B.C.-A.D. 220) independently, Moreover, commentaries in the Han and Liang (502-557) times were written on it as an independent work, although these commentaries are no longer extant. As in the case of the *Great Learning,* great interest in it arose in the Sung period (960-1279). Both Ssu-ma Kuang (1019-1086) and Ch'eng Hao (Ch'eng Ming-tao, 1032-1085) wrote commentaries on it. But it was Chu Hsi who brought it into prominence. He redivided the old text, the one used in Cheng Hsüan's (127-200) commentary, the *Li chi cheng-i* or Correct Meanings of the *Book of Rites* (in the Thirteen Classics Series), into thirty-three sections without altering the order of the text. Thus the text became much clearer. He accepted the account in Ssu-ma Ch'ien's *Shih-chi* (Records of the Historian), ch. 47. (See French translation by Chavannes, *Les mémoires historiques,* vol. 5, p. 431), that Confucius' grandson Tzu-ssu (492-431 B.C.) was the author. Many modern scholars refuse to accept the theory; some have dated it around 200 B.C. The work is not consistent either in style or in thought. It may be a work of more than one person over a considerable period in the fifth or fourth century B.C. English translations by Legge, "The Doctrine of the Mean," and Ku Hung-ming, "Central Harmony," follow Chu Hsi's sectioning, while Hughes, "The Mean-in-Action," follows the Cheng Hsüan text. In our translation, Chu Hsi's arrangement is followed.
+
 [^7-p97]: The term *hsin-fa* is Buddhist, meaning transmission from mind to mind without the use of words. Ch'eng borrowed the term but used it in an entirely different sense, taking *hsin* (mind) to mean "central," and emphasizing the use of words.
+
 [^8-p97]: *I-shu* (Surviving Works), 7:3b, 14:1a, 18:30a; *Wai-shu* (Additional Works), 11:1b, both in ECCS.
 
 *[p. 98]* ^pg125
@@ -302,6 +343,7 @@ Before the feelings of pleasure, anger, sorrow, and joy are aroused it is called
 2\. Chung-ni (Confucius) said, "The superior man \[exemplifies\] the Mean (*chung-yung*).l1 The inferior man acts contrary to the Mean. The
 
 [^9-p98]: Interpretation according to Cheng Hsüan, *Chung-yung chu* (Commentary on the *Doctrine of the Mean*).
+
 [^10-p98]: Although none of the commentators in the *Chung-yung chang-chü* (Commentary on the *Doctrine of the Mean*) in the *Ssu-shu ta-ch'üan* (Great Collection of Commentaries on the Four Books) mentioned the name of the man, this refers to Yang Shih (Yang Kuei-shan, 1053-1135). In his *Chung-yung huo-wen* (Questions and Answers on the *Doctrine of the Mean*), Chu Hsi repeatedly commented on Yang's theories. The particular remark in question, however, is not found in the *Yang Kuei-shan chi* (Collected Works of Yang Shih). It was probably transmitted orally and was well known to scholars.
 11\. The term *chung-yung,* literally "centrality and universality," has been translated as moderation, the Mean, mean-in-action, normality, universal moral order, etc. According to Cheng Hsüan, *yung* means the ordinary and *chung-yung* means using the Mean as the ordinary way. According to Chu Hsi, it means neither one-sided nor extreme but the ordinary principle of the Mean. The Mean is the same as equilibrium and harmony in ch. 1.
 
@@ -327,10 +369,15 @@ superior man \[exemplifies\] the Mean because, as a superior man, he can maintai
 10\. Tzu-lu[^17-p99] asked about strength. Confucius said, "Do you mean the strength of the South, the strength of the North, or the strength you should cultivate yourself? To be genial and gentle in teaching others and not to revenge unreasonable conduct—this is the strength of the people
 
 [^12-p99]: Following Wang Su's (195-256) text.
+
 [^13-p99]: A similar saying is found in *Analects,* 6:27.
+
 [^14-p99]: Some eleventh-century scholars thought that the word "pursued" and "understood" should be interchanged, for intelligence and stupidity pertain to understanding while worthiness and unworthiness pertain to action.
+
 [^15-p99]: Legendary sage-emperor (3rd millennium B.C.).
+
 [^16-p99]: Name of Confucius' favorite pupil, Yen Yüan (521-490 B.C.).
+
 [^17-p99]: Confucius' pupil, whose family name was Chung and private name Yu (542-480 B.C.).
 
 *[p. 100]* ^pg127
@@ -358,7 +405,9 @@ handle to hew another axe handle and look askance from the one to the other, we 
 *Comment.* It is often said that Confucianism teaches only the "negative golden rule," not to do to others what one does not want them to do to him. However, the golden rule is here positively stated, that is, to do to others what one expects others to do to him. There is no question about the positive character of the Confucian doctrine which is clearly stated in terms of conscientiousness and altruism.[^21-p101] 14. The superior man does what is proper to his position and does not want to go beyond this. If he is in a noble station, he does what is proper to a position of wealth and honorable station. If he is in a humble station, he does what is proper to a position of poverty and humble station. If he is in the midst of barbarian tribes, he does what is proper in the midst of barbarian tribes. In a position of difficulty and danger, he does what is proper to a position of difficulty and danger. He can find himself in no situation in which he is not at ease with himself. In a high position he does not treat his inferiors with contempt. In a low position he does not court the favor of his superiors. He rectifies himself and seeks nothing from others, hence he has no complaint to make. He does not complain against Heaven above or blame men below.[^22-p101] Thus it is that the superior man lives peacefully and at ease and waits for his destiny (*ming*, Mandate
 
 [^20-p101]: See above, ch. 2, comment on *Analects,* 2:18.
+
 [^21-p101]: *ibid.,* comment on *Analects,* 4:15. For a discussion on *chung-shu,* see Appendix.
+
 [^22-p101]: A similar saying is found in *Analects,* 14:37.
 
 *[p. 102]* ^pg129
@@ -374,8 +423,11 @@ of Heaven, fate),[^23-p102] while the inferior man takes to dangerous courses an
 17\. Confucius said, "Shun was indeed greatly filial! In virtue he was a sage; in honor he was the Son of Heaven (emperor); and in wealth he owned all within the four seas (China). Temple sacrifices were made to him, and his descendants preserved the sacrifices to him. Thus it is that he who possesses great virtue will certainly attain to corresponding position, to corresponding wealth, to corresponding fame, and to corresponding long life. For Heaven, in the production of things, is sure to be bountiful to them, according to their natural capacity. Hence the tree that is well taken care of is nourished and that which is about to fall is overthrown. The *Book of Odes* says, 'The admirable, amiable prince displayed conspicuously his excellent virtue. He put his people and his officers in concord. And he received his emolument from Heaven. It protected him, assisted him, and appointed him king. And Heaven's blessing came again and again.'<sup>27</sup> Therefore he who possesses great virtue will surely receive the appointment of Heaven."
 
 [^23-p102]: On the doctrine of waiting for destiny, see above, ch. 3, comment on *Mencius,* Additional Selections, 7A:1.
+
 [^24-p102]: Ode no. 164.
+
 [^25-p102]: This is Chu Hsi's interpretation of *t*'*i*-*wu* in his *Chung-yung chang-ch'ü.* See also below, ch. 30, n.83.
+
 [^26]: Ode no. 256. <sup>27</sup> ode no. 249.
 
 *[p. 103]* ^pg130
@@ -389,7 +441,9 @@ THE *DOCTRINE OF THE MEAN*
 19\. Confucius said, "King Wu and Duke Chou were indeed eminently filial. Men of filial piety are those who skillfully carry out the wishes of their forefathers and skillfully carry forward their undertakings. In spring and autumn they repaired their ancestral temple, displayed their ancestral vessels and exhibited the ancestral robes, and presented the appropriate offerings of the season. The ritual of the ancestral temple is in order to place the kindred on the left or on the right according to the order of descent. This order in rank meant to distinguish the more honorable or humbler stations. Services in the temple are arranged in order so as to give distinction to the worthy \[according to their ability for those services\]. In the pledging rite the inferiors present their cups to their superiors, so that people of humble stations may have something to do. In the concluding feast, honored places were given people with white hair, so as to follow the order of seniority. To occupy places of
 
 [^28]: King Wen (r. 1171-1122 B.C.) was the founder of the Chou dynasty. King Wu (r. 1121-1116 B.C.) was his successor.
+
 [^30]: King Wu's brother (d. 1094 B.C.).
+
 [^29-p103]: King Chi's father.
 
 *[p. 104]* ^pg131
@@ -403,8 +457,11 @@ their forefathers, to practice their rites, to perform their music, to reverence
 20\. Duke Ai[^31-p104] asked about government. Confucius said, "The governmental measures of King Wen and King Wu are spread out in the records. With their kind of men, government will flourish. When their kind of men are gone, their government will come to an end. When the right principles of man operate, the growth of good government is rapid, and when the right principles of soil operate, the growth of vegetables is rapid. Indeed, government is comparable to a fast-growing plant.[^32-p104] Therefore the conduct of government depends upon the men. The right men are obtained by the ruler's personal character. The cultivation of the person is to be done through the Way, and the cultivation of the Way is to be done through humanity. Humanity (*jen*) is \[the distinguishing characteristic of\] man,[^33-p104] and the greatest application of it is in being affectionate toward relatives. Righteousness (*i*) is the principle of setting things right and proper, and the greatest application of it is in honoring the worthy. The relative degree of affection we ought to feel for our relatives and the relative grades in the honoring of the worthy give rise to the rules of propriety. \[If those in inferior positions do not have the confidence of their superiors, they will not be able to govern the people\].[^34-p104] *Comment.* The sentence "Humanity is \[the distinguishing characteristic of\] man" is perhaps the most often quoted on the subject of humanity (*jen*). In Chinese it is "*jen* is *jen*," the first *jen* meaning humanity and the second referring to man. It is not just a pun, but an important definition of the basic Confucian concept of humanity, for to Confucianists, the virtue of humanity is meaningless unless it is involved in actual human relationships. This is the reason Cheng Hsüan defined it as "people living together," the definition
 
 [^31-p104]: Ruler of Lu (r. 494-465 B.C.).
+
 [^32-p104]: Some say that Confucius' words stop here, the rest being Tzu-ssu's elaboration,
+
 [^33-p104]: Cf. *Mencius,* 7B:16.
+
 [^34-p104]: Cheng Hsüan correctly pointed out in his commentary that this sentence is duplicated near the end of the chapter and is therefore superfluous.
 
 *[p. 105]* ^pg132
@@ -424,6 +481,7 @@ Confucius said, "Love of learning is akin to wisdom. To practice with vigor is a
 "There are nine standards by which to administer the empire, its states, and the families. They are: cultivating the personal life, honoring the worthy, being affectionate to relatives, being respectful toward the great ministers, identifying oneself with the welfare of the whole body of officers, treating the common people as one's own children, attracting the various artisans, showing tenderness to strangers from far countries, and extending kindly and awesome influence on the feudal lords. If the ruler cultivates his personal life, the Way will be established. If he honors the worthy, he will not be perplexed. If he is affectionate to his relatives, there will be no grumbling among his uncles and brothers. If he respects the great ministers, he will not be deceived. If he identifies himself with the welfare of the whole body of officers, then the officers will repay him heavily for his courtesies. If he treats the common people as his own
 
 [^35-p105]: See Chan, "The Evolution of the Confucian Concept *Jen*," *Philosophy East and West,* 4 (1955), 295-319.
+
 [^36-p105]: See above, ch. 3, comment on *Mencius,* Additional Selections, 3A:4.
 
 *[p. 106]* ^pg133
@@ -473,6 +531,7 @@ the nature of others. If they can fully develop the nature of others, they can t
 *Comment.* In no other Confucian work is the Way (Tao) given such a central position. This self-directing Way seems to be the
 
 [^39-p108]: See below, pp. 524, 666, 752.
+
 [^40-p108]: It is not clear whether this refers to sincerity, the character of the nature, or the Way.
 
 *[p. 109]* ^pg136
@@ -486,8 +545,11 @@ same as the Tao in Taoism. But the difference is great. As Ch'ien Mu has pointed
 The Way of Heaven and Earth may be completely described in one sentence: They are without any doubleness and so they produce things in an unfathomable way. The Way of Heaven and Earth is extensive, deep, high, brilliant, infinite, and lasting. The heaven now before us is only this bright, shining mass; but when viewed in its unlimited extent, the sun, moon, stars, and constellations are suspended in it and all things are covered by it. The earth before us is but a handful of soil; but in its breadth and depth, it sustains mountains like Hua and Yüeh without feeling their weight, contains the rivers and seas without letting them leak away, and sustains all things. The mountain before us is only a fistful of straw; but in all the vastness of its size, grass and trees grow upon it, birds and beasts dwell on it, and stores of precious things (minerals) are discovered in it. The water before us is but a spoonful of liquid, but in all its unfathomable depth, the monsters, dragons, fishes, and turtles are produced in them, and wealth becomes abundant because of it \[as a result of transportation\]. The *Book of Odes* says, "The Mandate of Heaven, how beautiful and unceasing."[^44] This is to say, this is
 
 [^41-p109]: *Ssu-shu shih-i* (Explanation of Meanings of the Four Books), 1953.
+
 [^42-p109]: See above, *The Mean,* ch. 13.
+
 [^43]: Perhaps this is a step further than described in *The Mean,* ch. 23 and the translation should be "becomes prominent without any display, can change others without moving them, and complete \[the self and all things, as in *The Mean,* ch. 25\] without any action."
+
 [^44]: Ode no. 267.
 
 *[p. 110]* ^pg137
@@ -503,9 +565,13 @@ what makes Heaven to be Heaven. Again, it says, "How shining is it, the purity o
 28\. Confucius said, "To be stupid and like to use his own judgment, to be in a humble station and like to dictate, to live in the present world and go back to the ways of antiquity—people of this sort bring calamity on themselves. Unless one is the Son of Heaven, he does not decide on ceremonies \[of social order\], make regulations, or investigate (determine) the form and pronunciation of characters. In the world today, all carriages have wheels of the same size, all writing is done with the same characters,[^49] and all conduct is governed by the same social re-
 
 [^45]: *ibid.*
+
 [^46]: The same saying appears in *Analects,* 2:11.
+
 [^47]: Ode no. 260.
+
 [^48]: See below, ch. 33, sec. 31, and comment on it.
+
 [^49]: Many modern writers have pointed out that these were not conditions of the fourth century B.C. but of the Ch'in dynasty (221-206 B.C.) when writing and measurements were unified.
 
 *[p. 111]* ^pg138
@@ -545,12 +611,19 @@ prominent every day,[^54] whereas the way of the inferior man is conspicuous but
 The *Book of Odes* says, "Although the fish dive and lie at the bottom, it is still quite clearly seen."[^55] Therefore the superior man examines his own heart and sees that there is nothing wrong there, and that he is not dissatisfied with himself. The superior man is unequaled in the fact that he \[is cautious\] in those things which people do not see. The *Book of Odes* says, "Though the ceiling looks down upon you, be free from shame even in the recesses of your own house."[^56] Therefore the superior man is reverent without any movement and truthful without any words. The *Book of Odes* says, "Throughout the sacrifice not a word is spoken, and yet \[the worshipers are influenced and transformed\] without the slightest contention."[^57] Therefore the superior man does not resort to rewards and the people are encouraged to virtue. He does not resort to anger and the people are awed. The *Book of Odes* says, "He does not display his virtue, and yet all the princes follow him."[^58] Therefore when the superior man is sincere and reverent, the world will be in order and at peace. The *Book of Odes* says, "I cherish your brilliant virtue, which makes no great display in sound or appearance."<sup>59</sup> Confucius said, "In influencing people, the use of sound or appearance is of secondary importance." The *Book of Odes* says, "His virtue is as light as hair."[^60] Still, a hair is comparable.[^61] "The operations of Heaven have neither sound nor smell."[^62] *Chu Hsi's Remark.* In the above thirty-third chapter, Tzu-ssu returns to the ideas of "carrying out to the limit" and "exhausting the most refined" (discussed in previous chapters) to search for their source. Furthermore, he extends the discussion to include the effort of the learner who, for his own sake, learns to be careful while alone—an effort which, through earnestness and reverence, culminates in the glory of world peace. Then he further praises the
 
 [^55]: Ode no. 192.
+
 [^56]: Ode no. 256.
+
 [^54]: Cf. *Lao Tzu,* ch. 24.
+
 [^57]: Ode no. 302.
+
 [^58]: Ode no. 269.<sup>59</sup> Ode no. 241.
+
 [^60]: Ode no. 260. Both Chu Hsi and Cheng Hsüan believed that this sentence was uttered by Confucius.
+
 [^61]: Chu Hsi considered this sentence and the rest to be by Tzu-ssu. Cheng Hsüan and K'ung Ying-ta, however, considered them to be by Confucius.
+
 [^62]: Ode no. 235.
 
 *[p. 114]* ^pg141
@@ -584,9 +657,13 @@ THE HSÜN TZU[^5-p116]
 Nature (*T'ien,* Heaven) operates with constant regularity. It does not exist for the sake of (sage-emperor) Yao[^6-p116] nor does it cease to exist because of (wicked king) Chieh.[^7-p116] Respond to it with peace and order, and good fortune will result. Respond to it with disorder, and disaster will follow. If the foundations of living (*i*.*e*., agriculture and sericulture) are strengthened and are economically used, then Nature cannot bring impoverishment. If people's nourishment is sufficient and their labor in keeping with the seasons, then Nature cannot inflict sickness. If the Way
 
 [^3-p116]: In modern Shansi and its vicinity in North China.
+
 [^4-p116]: Southeast of Chao, in modern Shantung.
+
 [^5-p116]: The *Hsün Tzu* has thirty-two chapters, which are essays with clear expositions and cogent arguments on such subjects as "Against Physiognomy," "Against the Twelve Philosophers," "On Confucius," "National Wealth," "The Kingly Way versus Despots," "The Removal of Prejudices," and "The Sage-kings." Chapter 27 and subsequent chapters may have been by his pupils and are unimportant. A number of passages of the book also appear in the *Book of Rites,* perhaps for the reason that the latter's compilers selected passages from the *Hsün Tzu* to strengthen discussions on the theoretical and psychological basis of ceremonies in the *Book of Rites.* Since the *Hsün Tzu* did not enjoy the status of a Classic, its influence has been slight. Half of the chapters have been translated into English by Dubs, in *The Works of Hsüntze.* Köster, "*Hsün-tzu* Anschnitt 13," is a translation of ch. 23. Duyvendak, "Hsüntzu on the Rectification of Names," and Mei, "Hsün-tzu on Terminology," are translations of ch. 22. And Legge, *The Works of Mencius,* contains a translation of ch. 23 on the evil nature of man.
+
 [^6-p116]: Legendary ruler (3rd millennium B.C.).
+
 [^7-p116]: Chieh (c.1802-1752 B.C.?) was the last ruler of the Hsia dynasty (2183- 1752 B.C.). Chinese historians have blamed his wickedness for the fall of the dynasty.
 
 *[p. 117]* ^pg144
@@ -602,7 +679,9 @@ To accomplish without any action and to obtain without effort,[^9-p117] this is 
 The fixed stars rotate in succession, the sun and moon shine alternately, the four seasons follow one another, yin (passive cosmic force) and yang (active cosmic force) effect their great transformations, and the
 
 [^8-p117]: According to Wang Nien-sun (1744-1832), *Tu-shu tsa-chih* (Miscellaneous Notes from Reading), 1933 ed., bk. 11, p. 59, *hsiu* (to cultivate) should read *hsün* (to follow).
+
 [^9-p117]: A similar saying appears in *Lao Tzu,* ch. 47.
+
 [^10-p117]: Compare the same idea of forming a triad in *The Mean,* ch. 22.
 
 *[p. 118]* ^pg145
@@ -628,6 +707,7 @@ Heaven does not give up the winter because people dislike cold. Earth does not g
 The king of Ch'u had a thousand chariots following him—this is not wisdom. The superior man eats peas and drinks water—this is not stupidity. They do so because it is fitting to the circumstances.[^14-p119] As to cultivating one's will, to be earnest in one's moral conduct, to be clear in one's knowledge and deliberations, to live in this age but to set his mind on the ancients (as models), that depends on the person himself.
 
 [^11-p119]: Yü (c. 2183-2175 B.C.?) was the founder of the Hsia dynasty and has been regarded as a sage-king along with Yao. Chieh (r. 1802-1752 B.C.?) caused the downfall of the Hsia.
+
 [^12-p119]: Ode no. 270.
 13\. This poem is now lost. The addition is made according to Yü Yüeh (1821- 1906), "Hsün Tzu shih-shuo" (Explanations on Odes Quoted in the *Hsün Tzu*), in his *Ch'ü-yüan tsa-tsuan* (Miscellaneous Collection of Yü Yüeh), 6:14a-b.
 
@@ -644,5 +724,7 @@ When stars fall or trees make a \[strange\] noise, all people in the state are a
 Of things that have happened, human portents are the most to be feared. To plough roughly so as to injure the crops, to hoe improperly so as to miss the weed, and to follow a dangerous course in government so as the lose the support to the people, with the result that the fields are full of weeds, the harvest is bad, the price of grain goes up, people starve, and there are dead bodies on the roads—these are what is meant by human portents. When governmental measures and orders are not clear or wise, when activities and handling of affairs are not timely, and when matters concerning the foundation of living are not attended to—these are what is meant by human portents. When propriety and righteousness are not cultivated, when the distinction between the inner (women's) chamber and the outer (men's) chamber is not kept, and
 
 [^15-p120]: Often translated as "reverent." For a discussion of the translation of this term, see Appendix.
+
 [^16-p120]: According to Wang Hsien-ch'ien (1842-1917), *Hsün Tzu chi-chieh* (Collected Commentaries on the *Hsün T*z*u*), read *ch'ang* (always) as *ch'ang* (has been).
+
 [^17-p120]: According to Wang Nien-sun, *tang* does not mean frequent, as Yang Liang (fl. 818) contended in his commentary, but means occasional.

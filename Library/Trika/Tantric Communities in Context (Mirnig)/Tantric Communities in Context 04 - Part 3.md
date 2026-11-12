@@ -21,11 +21,17 @@ This discourse on fluids furnishes valuable detail concerning the *tālaka*’s 
 How a *tālaka* meets and enters into relations with potential consorts receives scattered attention. One passage speaks of him taking as consort a woman he identifies as a secret initiate.[^44] Most of the BraYā’s discussions, however, characterise the *dūtī* using kinship terms: “Mother, sister, daughter, and wife are indeed held to be consorts.”[^45] Problems attend interpretation
 
 [^39]: The recipe for these magical dildo pills appears in BraYā 22.153–155: *dra-vyaprāsya*\[*ṃ*\] *purā kṛtvā gomānsaṃ kiñcisaṃyutaṃ* | *surāṣṭhinā samāyuktaṃ piṣṭaṃ piṇḍīkṛtan tathā* || 153 || *kṣobhadravyeṇa saṃmardya liṅgākāran tu kārayet* | *pra-kṣiped yonimadhye tu nimiṣaṃ cālya pīḍayet* || 154 || *mantram uccārayen mantrī saṃkhyāyāṣṭasatan tathā* | *karṣayitvā tu taṃ liṅgaṃ guḍikāṃ kārayet tataḥ* || 155 ||. In this passage and elsewhere in the BraYā, *kiñci*/*kiṃcit* (“a little \[something\]”?) can refer to faeces, oddly enough; the meaning of *surāṣṭhi* is uncertain.
+
 [^40]: BraYā 24.110: *ekaśaktiparigrāhī āśu* \[corr.; *āśuḥ* ms.\] *sidhyati tālakaḥ* | *duśca-raṃ bhairavasyāpi ekaśaktiparigraham* || 110 || (110cd is repeated in 114cd).
+
 [^41]: Presumably the *ekaśaktiparigrāhin* is either unmarried or else married to his ritual consort, but this is not clarified.
+
 [^42]: BraYā 24.111c–112: *manasāpi hi deveśi ekaśaktiparigrahe* || 111 || *yoginyo yo-gasiddhās tu yadā tā icchayanti hi* | *tābhiḥ sārddhan na karttavyaṃ saṅgo vai siddhim icchatā* || 112 || (understanding *karttavyaṃ* as agreeing with *saṅgo*).
+
 [^43]: BraYā 24.115–117b: *bahuśaktiparigrāhī sidhyate kālagocarāt* | *sukhopāya-prakāreṇa* \[em.; °*opāyā* A\] *nānāśaktivijṛmbhakaḥ* || 115 || *īpsitāṃ* \[em.; *ipsitāṃ* ms.\] *labhate siddhiṃ samayāpālanatatparaḥ* | *bahavaḥ śaktayo yasya paripāṭyā samācaret* || 116 || *kṣobhaṃ tālakamārgge tu āhṇike cāhṇike tathā* |.
+
 [^44]: BraYā 24.85c–87b, quoted below, p. 63.
+
 [^45]: BraYā 24.32cd, quoted below.
 
 *[p. 62]* ^pg81
@@ -44,11 +50,17 @@ of these terms; as TÖRZSÖK (2014: 345) observes, it is unclear “whether they
 The verb *paśyate* implies an affective relationship: she “sees,” i.e., looks upon the *sādhaka* as brother, father, etc., a choice perhaps dictated by age difference or the nature of their interactions outside of ritual, including actual kinship. Another point of interest is the suggestion, in 33ab, that a *sādhaka* may himself initiate a woman as a *śakti*, giving her “the essence of the Tantras” and becoming, in effect, her *guru*, despite lacking formal consecration as an officiant (*ācāryābhiṣeka*).[^52] 
 
 [^46]: *smṛtāḥ* \] em.; *smṛtā* ms.
+
 [^47]: *kadācana* \] em.; *kadācanaḥ* ms.
+
 [^48]: *svaśaktiḥ* \] corr.; *svaśakti* ms. (unmetrical)
+
 [^49]: *sthitā* \] em.; *sthitāḥ* ms.
+
 [^50]: *patim* \] em.; *patis* ms.
+
 [^51]: I am unable to interpret *taraṇe* and suspect that a finite verb such as *sevate* underlies this. Csaba Kiss suggests the possibility of *tarpayet*, on a diagnostic basis.
+
 [^52]: This is consistent with indications in chapter 38 that a *sādhaka* – and not only the *ācārya* – may bestow the initiation for neophytes (*samayīkaraṇa*), an issue meriting closer study.
 
 *[p. 63]* ^pg82
@@ -62,10 +74,15 @@ Subsequent passages both enrich and complicate this picture. BraYā 24.49–61 s
 There follows a rite of reparation by which the inappropriately-bedded “sister” or “daughter” becomes fit (*yogyā*) again for ritual. In restricting coitus with consorts to ritual, prohibiting ritual coitus with pregnant women, and allowing for non-ritual coitus with one’s wife, even if pregnant, this passage evokes a realistic domestic milieu. The distinction made between “one’s own consort” (*nijā śaktiḥ*) and “mother, sister, and daughter” could also suggest that in addition to his principal consort (his wife?), a *sādhaka* might have various auxiliary consorts drawn from among kinswomen. There is little to suggest that terms such as “sister” here refer to affective relations or consort types rather than actual kinship relationships. A subsequent passage reinforces this impression, delineating a large number
 
 [^53]: *śaktiḥ* \] corr.; *śakti* ms.
+
 [^54]: °*pradāyikā* \] ms. (after correction); °*pradāyikāḥ* ms. (before correction)
+
 [^55]: *lobhā* \] em. (Cs. Kiss; understand as ablative, with loss of the final consonant); *llobho* ms.
+
 [^56]: *garbhiṇīṃ* \] em.; *garbhiṇī* ms.
+
 [^57]: Understand as ablative (°*varjyāt*), or perhaps emend to the accusative.
+
 [^58]: Understand *kuryā* as optative in sense, with loss of the final consonant.
 
 *[p. 64]* ^pg83
@@ -103,10 +120,15 @@ A number of questions arise: Does the entire passage concern the *śakti* whom a
 with Middle-Indic loss of final -t).
 
 [^65]: *svaśiṣyasyāpi* \] em.; *svaṃ siṣyāpi* ms. Alternatively, read *svaśiṣye ’pi*, as conjectured by Alexis Sanderson (in the Pondicherry Early Tantra workshop).
+
 [^66]: *karttavyo* \] em.; *karttavyā* ms.
+
 [^67]: °*kāmena* \] corr.; °*kāmeṇa* ms.
+
 [^68]: *tatkālāt* \] em. (Cs. Kiss, personal communication); *tatkālan* ms.
+
 [^69]: This interpretation depends on the conjecture of *utsṛṣṭā tu* (“\[a woman\] let go/dismissed) in 91a for the ms.’s phonetically similar and contextually unintelligible *utkṛṣṭas tu* (“\[an\] eminent \[man\]”). While the emendation is conjectural, the reading of the ms. seems implausible here. I had initially conjectured *utkṛṣṭasya* instead, in which case 91c–92b could be understood thus: “O queen of the gods, to a visiting \[*sādhaka*\] who is distinguished (*utkṛṣṭasya*) and devoted to deity worship, a *sādhaka* should undoubtedly give over his own consort, either on request or of his own accord.”
+
 [^70]: The construction in 24.95c–96b is grammatically flawed, and the interpretation somewhat speculative.
 
 *[p. 66]* ^pg85
@@ -155,8 +177,11 @@ I would suggest that this emphasis on the consort’s beauty and concupiscence i
 In contrast, the rites of the “mixed” (*miśraka*), middle-grade *sādhaka* more clearly evince the possibility of non-initiated women’s participation. His disciplines in most respects mirror those of the *tālaka* or “pure” *sādhaka*, yet, as a general rule, exclude coitus.[^81] As an exception to his ritual 
 
 [^78]: Text and translation from HATLEY (2018); see the latter for discussion of the passage’s numerous problems of text and interpretation. BraYā 40.2–8b: *pūrvva-lakṣaṇasaṃyuktāṃ yoṣitāṃ suratocchukām* | *atīvarūpasaṃpannāṃ navayauvanada-rppitām* || 2 || *hāsyalāsyavilāsinyāṃ vibhramādividhānakām* | *vastrālaṅkārasaṃpa-nnāṃ sarvvābharaṇabhūṣitām* || 3 || *hārakeyūramāṇikyamuktāvalisusaṃsthitām* | *yathāvibhavasaṃprāptāṃ svalpabhūṣaṇakāpi vā* || 4 || *sugandhamālyā kālā tu ga-ndhapaṅkāṅkitā sadā* | *pīnonnatastanopetām ābhogaparimaṇḍalām* || 5 || *cūcukā sra-gdāmaśobhā saghanā tu payodharā* | *bhaktāñ caivānuraktāñ ca valayām uttamo-ttamā* || 6 || *prakṛtyā śīlasampannāṃ vidagdhāṃ ca vilāsinīm* | *rājānayoṣitām vāpi anyavarṇṇagatām api* || 7 || *tādṛgvidhopabhogaiś ca ātmānaṃ samalaṅkaret* |.
+
 [^79]: BraYā 40.18cd: *nityavrataṃ tu niṣkramya tayā sārddhaṃ samācaret* |.
+
 [^80]: That a passage from chapter 45 is referred to as “earlier” (*pūrva*) suggests that the chapters were reordered at some point; see HATLEY 2018: 70.
+
 [^81]: On the *miśraka*’s chastity, note, e.g., BraYā 45.435a, “He is always engaged in celibacy” (*brahmacaryarato nityaṃ*); and 447cd, “And he should not have intercourcommand, O great goddess, \[the *miśraka*\] may attract and enjoy \[a woman\]; conjoined with \[this\] consort, he may accomplish all rites.” (*ādeśena mahādevi ākrṣyākrṣya bhuñjayet* | *sādhayet sarvakarmāṇi śaktiyuktas tu miśrakaḥ* ||). This accords with a discussion of the *miśraka* in BraYā 24.100c–101.
 
 *[p. 69]* ^pg88
@@ -172,9 +197,13 @@ se with women” (*strīsaṅgaṃ ca na kurvīta*).
 <sup>82</sup> The circumstances permitting coitus are first addressed in BraYā 45.439: “By 
 
 [^83]: BraYā 45.505–508 (ed. KISS 2015; translation mine): “Having repeatedly magically attracted a beautiful divine maiden, he \[the *miśraka*\] should enjoy her. Together with them \[i.e., her\], the *mantrin* should again observe what is stipulated in his ritual manual, in due sequence. The *miśraka sādhaka* should without hesitation take a woman attracted by *mantra*s as his consort, undoubtedly. Otherwise, the *miśraka* should always observe celibacy. Without a doubt, he attains *siddhi* while situated in a sacred field – not otherwise. But he must not \[in this case\] enjoy a \[woman who is\] attracted; \[if so,\] the *miśraka* must perform expiation of 12,000 *mantra* recitations.” (*ākrṣyākrṣya bhuñjīta divyakanyāṃ manoramām* | *tābhi sārdhaṃ caren mantrī kalpoktāni punaḥ kramāt* || 505 || *ākrṣṭā ya bhaven mantrai sa śaktiṃ nātra saṃśayaḥ* | *kartavyaṃ miśra-kenaiva sādhakenāviśaṅkinā* || 506 || *athavā brahmacaryeṇa vartayen miśrakaḥ sadāḥ* | *sidhyate hy avicāreṇa kṣetram āśritya nānyathā* || 507 || *ākrṣṭāṃ na tu bhuñjīta prāyaścittaṃ samācaret* | *daśasāhasrikaṃ jāpyaṃ kartavyaṃ miśrakena tu* || 508 ||).
+
 [^84]: Note for instance BraYā 45.532ab: *ākrṣyākrṣya mantrais tu divyakanyāṃ manoramām* |.
+
 [^85]: Text as per Kiss 2015, except as noted; my translation departs in a few respects and is somewhat conjectural.
+
 [^86]: *lakṣaṇānvitā* \] em.; *lakṣaṇānvitaḥ* ms., ed.
+
 [^87]: Perhaps emend to *phalaṃ yasyā*: “\[a woman\] from/of whom there are results,” i.e., who enables the fruition (*siddhi*) of the *sādhaka*’s ritual.
 
 *[p. 70]* ^pg89
@@ -190,6 +219,7 @@ As will be elaborated further below, ritual imbues a *sādhaka*’s encounters w
 Beyond the magically summoned consorts of *miśraka*s, non-initiated women are largely peripheral to the BraYā’s ritual. To some extent the cultic focus on goddesses translates into ritualised reverence for women. Respectful behaviour is mandated for those undertaking ascetic observances (*vrata*): a *sādhaka*, for instance, must address women he encounters as 
 
 [^88]: In 525d, *ādeśo* should be understood as accusative in sense; cf. EDGERTON (1953, vol. I: §8.36).
+
 [^89]: As KISS (2015) notes, *yogibhiḥ* (526a) is non-standard, occurring for the feminine *yoginībhiḥ*. I have interpreted this line somewhat differently, primarily in light of BraYā 45.184–185ab. The latter passage seems to state that one commences the *tālaka* path either by command of the *guru* or of the *yoginī*s, as received in *melaka*, a visionary encounter: *eva*\[*ṃ*\] *melakam āpanno ādiṣṭaṃ tair varānane* | *tālamārga*\[*ṃ*\] *tadā kuryād yadā śuddhas tu sādhakaḥ* || 184 || *gurvādeśena vā kuryād yogibhiś ca samarpitaḥ* |. (“Having thus attained a visionary encounter, he is commanded by them \[the *yoginī*s\], O fair woman. He should undertake the path of the *tālaka* when he becomes pure. He should do so either by the command of the *guru* or when offered over \[?\] by the *yoginī*s.”).
 
 *[p. 71]* ^pg90
@@ -201,9 +231,13 @@ Women as ritualists, women as goddesses
 A degree of ambiguity surrounds female initiation. The BraYā’s cycle of chapters devoted to initiation (*dīkṣā*) and consecration (*abhiṣeka*), *paṭala*s 32–38, is largely silent on the subject. However, its instructions for the assignation of initiatory names based upon the cast of a flower into the *maṇḍala* (*puṣpapāta*) provide a naming convention for females.[^94] This silence, punctuated by a note on women’s initiatory names, in all likelihood reflects the matter-of-fact acceptance of female initiation at this level of the tradition. As noted by TÖRZSÖK (2014: 355–361), the BraYā and 
 
 [^90]: BraYā 21.24: *striyo dṛṣṭvā namaskṛtya mātā ca bhaginīti ca* | *evaṃ saṃbhā-ṣayen mantrī kroṣaṇan tu na kārayet* ||.
+
 [^91]: E.g., BraYā 84.17cd: *divyākṛṣya* \[em; °*kṛṣyan* ms.\] *tu bhuñjīta na ca strī sa-balāt* \[em.; *śabalā* ms.\] *kvacit*. “One may draw down a divine maiden (*divyā*) and enjoy her, but must never \[take\] a woman by force.” (In 17c, *divyā* should be understood as accusative in sense; cf. *śaktyā*, discussed above in n. 59.)
+
 [^92]: BraYā 4.707–709: *pratiṣṭhāyāṃ na cāśnīyā naivedyaṃ sādhakottamaḥ* | *tato niṣkramya deveśi samayi sādhu striyān tathā* || 707 || *kumāryo* \[em.; *kumāryau* ms.\] *bhojayen mantrī antyajās tu striyo ’pi vā* | *vratīnāṃ brāhmaṇāṃ* \[em.; *brāhmaṇā* ms.\] *caiva śivaśāsanadīkṣitām* || 708 || *bhojayitvā yathāśaktyā bhakṣabhojyādivista-raiḥ* | *gandhapuṣpaṃ tato datvā kṣamāpya ca visarjayet* \[em.; *visarjayat* ms.\] || 709 ||. (One might emend *vratīnāṃ* to *vratināṃ*, but cf. EDGERTON 1953, vol. I: §10.201.)
+
 [^93]: BraYā 64.161ab: *bhavate ’naṅgavat* \[em.; *bhavete naṅgava* ms.\] *strīṇāṃ hṛda-yānandakārakaḥ* |.
+
 [^94]: BraYā 34.199c–201b: *nārīṇān* \[corr.; *nārīnān* ms.\] *tu yadā pātaḥ sthāneṣv* \[corr.; *sthānesv* ms.\] *eteṣu jāyate* || 199 || *tena gotreṇa tan nāmaṃ śaktisaṃjñaṃ tadā bhavet* | *yā yasmiṃ saṃsthitā gotre vīro vā yoginī pi vā* || 200 || *svagotraṃ rakṣa-yantīha sādhakaś cābalā* \[em.; *sādhakañ ca balā* ms.\] *tathā* |.
 
 *[p. 72]* ^pg91
@@ -213,7 +247,9 @@ other Vidyāpīṭha and Kaula sources frequently refer to practitioners as belo
  Chapter 14 of the BraYā, the “chapter of the wheel of the sky-travellers” (*khecarīcakrapaṭala*), stands out among early scriptural texts for presenting a practice system designated specifically, though not exclusively, for initiated women.[^95] Demanding though it may be, this teaching is framed as a concession to women’s supposed limitations. The goddess complains that the process of worship Bhairava had taught earlier is too elaborate. She characterises female initiates – here referred to as *yoginī*s – as weak in both intellect (*buddhi*) and spirit (*sattva*), yet dedicated to their husbands and full of devotion to the *guru*s. On this account, she requests an easy means (*sukhopāya*) for them to attain *siddhi*.[^96] The system expounded in response has as its basis an alphabetical diagram known as the “wheel of the sky-travellers” or “wheel of the flying *yoginī*s” (*khecarīcakra*). From this are formed three principal *mantra*s: the *samayavidyā* or lower (*aparā*) *kulavidyā* (“*vidyā*-*mantra* of the goddess clans”) for neophytes, the *kulavidyā* proper, and the higher (*parā*) *kulavidyā*, also called “heart of the *yoginī*s” (*yoginīhṛdaya*).[^97] Rites based on the *khecarīcakra* differ little in most respects from those of the BraYā’s various other alphabetical circles (*cakra*), such as the *vidyācakra* of chapter 17 or *bhautikacakra* of chapter 19. What may somewhat set them apart is an emphasis on the aggressive magical acts 
 
 [^95]: An edition of chapter 14 of the BraYā may be included in volume III of the *Brahmayāmala* (currently in progress).
+
 [^96]: BraYā 14.1–5: *devy uvāca* || *yoginyo svalpabuddhyās tu svalpacittālpasatvikāḥ* | *bhartuḥ śuśrūṣaṇaparā gurubhaktisamanvitāḥ* | *tāsāṃ siddhir yathā deva tan me brūhi samāsataḥ* || 1 || *evam vai pṛcchito bhaktyā saṃkṣepārthaṃ mayā purā* | *yāgan tathaiva deveśa vistaraṃ kathitaṃ tvayā* || 2 || *saṃkṣepe yāgamārgeṇa sukhopāyena caiva hi* | *kulakramañ ca vai tāsāṃ yena tāḥ siddhim āpnuyāt* || 3 || *deva uvāca* || *vistaraṃ kathitan devi sādhakānāṃ hitāya vai* | *adhunā sampravakṣyāmi yoginīnāṃ mahodayam* || 4 || *yāgakramavidhiñ caiva tan me nigadataḥ śṛṇu* | *sadā karmaratā yās tu yena siddhiṃ labhanti tāḥ* || 5 ||.
+
 [^97]: Cf. the *Siddhayogeśvarīmata*’s *mantra khphreṃ*, the “heart of the *yoginī*s” (*yoginīhṛdaya*), which, as TÖRZSÖK (2014: 361) points out, is described as particularly efficacious for women.
 
 *[p. 73]* ^pg92
@@ -280,6 +316,7 @@ though these representations are obscured by elements of visionary fantasy. Here
 The distinguishing qualities (*lakṣaṇa*) by which one recognises *yoginī*s span bodily appearance, comportment, food preferences, and the decorative 
 
 [^123]: On the purpose of coded communication (*chomma*) and the distinction in this context between “sister” initiates and semidivine “*yoginī*s,” note especially BraYā 56.98c–102: *cchommakāḥ kīdṛśā deva kulānāṃ sādhakasya ca* || 98 || *prajñāyate yathā bhrātā bhaginī vā viśeṣataḥ* | *caryāyuktasya deveśa yathā jñāsyanti yoginīḥ* || 99 || *parasparañ ca vīrāṇām ekatantrasamāśrayām* | *ālāpārthe mahādeva kathayasva prabhāṣataḥ* || 100 || *bhairava uvāca* || *śṛṇu devi pravakṣyāmi cchomakānāṃ tu lakṣaṇam* | *yena vijñāyate bhrātā bhaginī vā maheśvari* || 101 || *jñātvā ca yoginīṃ mantrī śivecchācoditātmavān* | *sādhakas tu tato dadyād vācikaṃ mudralakṣaṇam* || 102 ||. (“\[98c–100\] ‘O god, what are the secret signs of the \[goddess\] clans and *sādhaka* like, such that one may specifically recognise a brother or sister; such that one carrying out the observances (*caryā*) recognises *yoginī*s, O lord of the gods; and for the mutual conversation of heroes who follow the same Tantra? Tell \[me this\], O great god, by way of explanation (? *prabhāṣataḥ*).’ Bhairava spoke: \[101\] ‘Listen, O goddess; I shall teach the characteristics of secret signs, by which a brother or sister is recognised, O Maheśvarī. \[102\] Having recognised a *yoginī*, himself propelled by the will of Śiva, the *mantra*-bearing *sādhaka* should then give \[her\] a verbal message characterised by *mudrā* \[names\].’” For a discussion of the interpretation of this passage, see HATLEY 2007: 378–379.
+
 [^124]: The idea of “attaining the lineage teachings” appears in the context of encounters with *yoginī*s in multiple sources, often expressed in similar terms; the phrase *saṃpradāyaṃ ca vindati* occurs as *Siddhayogeśvarīmata* 27.16d and BraYā 3.230d, 45.295d, and 73.13b. Cf. *saṃpradāyaṃ na vindati*, BraYā 85.143b. Similar expressions occur in the *Tantrasadbhāva* (e.g., *dadante saṃpradāyakaṃ*, 13.60b) and *Jayadrathayāmala* (e.g., *sampradāya*\[*ṃ*\] *prayacchanti*, III, 28.21c).
 
 *[p. 77]* ^pg96
@@ -303,6 +340,7 @@ living *yoginī* may bless the *sādhaka* by prognosticating future occult attai
 After receiving the prognostication, a *sādhaka* venerates the perfected adepts (*siddha*) of the past and wanders forth until he attains a power-bestowing, visionary encounter with the specified goddesses.[^127] The embodied *yoginī* who dwells in the world, concealing her identity, hence forms a vital link between the male aspirant and the goddesses whose divine realms and powers he seeks. These encounters with worldly *yoginī*s paint a picture of autonomous, powerful living goddesses who straddle the female social world, communities based on initiatory kinship, and unseen realms. These representations, no matter how stereotyped and suffused with fantasy, may intimate the existence of female initiatory communities, oral teachings, and ritual traditions existing at some remove from the more 
 
 [^126]: BraYā 56.132–135 (HATLEY 2007: 320–321, 385–386, with minor modifications): *nāsāgre tu yadā hastau kṛtvā cālayate śiram* | *navakasya tathākhyāti melakan tu mahāvane* || 132 || *adhomukhī tu yā bhūtvā bhūmilekhanam ārabhet* | *pātālacāri-ṇīnān tu melakaṃ mātṛmandire* || 133 || *svajihvālokanaṃ yā tu kṛtvā paścāt prakampate* | *jalāntarvāsinīnāṃ tu melakaṃ kathate tu sā* || 134 || *ā pādān mūrddhaparya-ntaṅ kṛtvā hastaprakampanam* | *yā sā śivāditatvasthā tatsthaṃ melakam ādiśet* || 135 ||.
+
 [^127]: BraYā 56.136–137 (ibid.): *so ’pi mudrāpatiḥ pūjya tathā manthānabhairavam* | *bhaktyā paryaṭanaṃ kuryād yathātantraprabhāṣitam* || 136 || *namo ’stu digbhyo devebhyaḥ pūrvvasiddhavināyakāṃ* | *datvārghaṃ parayā bhaktyā tato melāpakaṃ bhavet* | *tatsāmānyaṃ mahādevi sarvvakalyāṇasampadam* || 137 ||.
 
 *[p. 79]* ^pg98
@@ -318,6 +356,7 @@ In reviewing the BraYā’s discourse on women, two divergent kinds of represent
 These contrasting representations may of course obscure the real possibility that *yoginī*s were sometimes *dūtī*s: such divergent images of women are likely in some measure to be contextual. Much as the categories *yoginī* and *devī* (“goddess”) may blend to the point of being indistinguishable,[^129] at the opposite end of its semantic field, *yoginī* overlaps with other designations
 
 [^128]: *Siddhayogeśvarīmata* 28.41–42b: *puruṣeṇādhikāro ’sti asmin strīvidhikarmaṇi* | *striyāyāḥ siddhido hy eṣaḥ kadācit puruṣasya ca* || *vaktrād vaktragataṃ strīṇāṃ na ca likhyati pustake* | (see TÖRZSÖK 2014: 361 for a translation and some discussion).
+
 [^129]: Note also the overlap of *yoginī* with terms such as *mātṛ*, *ḍākinī*, etc.; see the articles on these lexemes in the TĀNTRIKĀBHIDHĀNAKOŚA.
 
 *[p. 80]* ^pg99
@@ -417,8 +456,11 @@ That prescriptive texts are insufficient if we strive to understand to what exte
 The first time I became aware of the category “Bhasmāṅkura” was while reading a manuscript of the *Jātiviveka*. This text, attributed to Gopīnātha, was probably composed in the fifteenth century and discusses the complex network of mixed castes (*saṃkarajāti*).[^3] It has never been published or translated properly[^4] but is relatively well-known. For instance, the work has been used by Kane for his *History of Dharmaśāstra*, in which he paraphrases the *Jātiviveka*’s definition of a Bhasmāṅkura as an offspring “from a Śaiva fallen ascetic and a Śūdra prostitute” and confirms that the Bhasmāṅkura is also “called Gurava by the Jātiviveka.”[^5] More precisely, the *Jātiviveka* (2.126– 129) defines the Bhasmāṅkura as the offspring of a fallen (*patita*), i.e., outcaste, Śaiva or Pāśupata ascetic and a Śūdra prostitute:[^6] 
 
 [^3]: For more information on the *Jātiviveka* and related texts, see O’HANLON & HIDAS & KISS 2015.
+
 [^4]: Riccardo Nobile’s edition and translation of the *Jātiviveka* (“*Jātivivecana*,” NOBILE 1910) is rather fragmentary and unreliable. Note also that a great number of passages cited in the *Bālambhaṭṭi* ((1), pp. 294–305) are closely parallel with the *Jātiviveka*.
+
 [^5]: In vol. 2, part 1, p. 102.
+
 [^6]: The following conventions for Sanskrit texts are used in this article: em. (X) = emendation (by X), corr. = correction, acorr *=* ante correctionem (before correction), pcorr = post correctionem (after correction), ms(s) = manuscript(s), fol. 2r = folio 2 recto side, fol. 2v = folio 2 verso side, cod. = codicum, *‘*≈’ means ‘approximately,’ text in ()s should be eliminated from the Sanskrit text, ‘(?)’ after a letter or syllable in italics means that its reading is uncertain, text in \[\]s is supplied by the editor, text cancelled (e.g. kuhāpoha) was cancelled by the Sanskrit scribe, ‘º’ indicates that the lemma or variant is part of a longer compound or word, ‘●’ separates variants found in the same *pāda*, ‘- - -’ indicate syllables marked as missing/illegible by the scribe, IFP = Institut Français de Pondichéry/French Institute of Pondicherry, EFEO = Ecole française d’Extrême-Orient, BORI = Bhandarkar Oriental Research Institute.
 
 *[p. 85]* ^pg104
@@ -456,6 +498,7 @@ Just before the *Jātiviveka* concludes that the Bhasmāṅkura’s duties are t
 Later recensions of the *Jātiviveka* and texts that draw on it, or at least resemble it, contain several variants of the definition found in the *Jātiviveka*: The *Bṛhajjātiviveka* repeats the *Jātiviveka*’s definition, together with all the quotations from the *Śivadharmśāstra*.[^8] The probably sixteenth-century *Śatapraśnakalpalatā* gives a prose paraphrase of the *Jātiviveka*’s definition, omitting the remark on *caṇḍāṃśa*/*caṇḍīśa* and emphasising that 
 
 [^7]: Note that some mss. read *caṇḍīśa* for *caṇḍāṃśa*. In both cases, the Bhasmāṅkura may be associated with, or even represented as, (a human form of) Caṇḍeśa, “the consumer of offerings that have been made to Śiva” (GOODALL 2009: 351).
+
 [^8]: The Bhasmāṅkura in the *Bṛhajjātiviveka* (fol. 22vff.): *śaivā yāḥ pāśupatāś* \[corr.; *pāśupataś* cod.\] *caiva mahāvrataparās tathā* | *turyā*\[*ḥ*\] *kalāmukh*(*y*)*āḥ proktā*\[*s*\] *tapo* \[em.; *tayor* cod.\] *dharmaparāyaṇāḥ* \[corr.; º*parāyaṇaḥ* cod.\] *svakarma-niratās te syuḥ śūdrapaṇyāṅganāratāḥ* \[corr.; -*taḥ* cod.\] | *tebhyaś ca tābhyaś ca jāto bhasmāṅkura itīritaḥ* | *sa jaṭābhasmadhārī ca śivaliṅgaṃ prapūjayet* | *tāmbūlam akṣatā dravyaṃ gāvaḥ kṣetrāṇi śākinī* || *śivāya prāṇibhir dattam anyat kim api bhaktitaḥ* | *caṇḍīśaṃ tad iti khyātaṃ tena tasyeha jīvanam* || *dhārayec chivanirmālyaṃ bhaktyā lobhān na dhārayet* | *bhakṣaṇān narakaṃ gacchet bhūṣaṇā*\[*c*\] *caiva mūḍhadhīḥ* | *nandikeśvaraṃ prati* | *śivadharmāna uvāca*...
 
 *[p. 87]* ^pg106
@@ -501,7 +544,9 @@ Naturally, the Śaivasiddhānta’s view is different from that of Abhinavagupta
 son of a woman of ill repute, the Kuṇḍa and the Gola, they are impure: this is taught in the Devyāyāmala. Also the Punarbhū, who was attached to another religion and then returns to Śaivism (...)” (On the Svayambhūṣṇu \[a self-appointed guru\] and the Punarbhū, see TĀNTRIKĀBHIDHĀNAKOŚA III in the entry on punarbhū.) There is the theoretical possibility the *tathā* connects *bhasmāṅkura* with *svayambhūṣṇu*, as suggested by Judit Törzsök (personal communication).
 
 [^18]: Both in MONIER-WILLIAMS sub vocibus.
+
 [^19]: *Tantrāloka* 23.11 with Jayaratha’s introduction: *asmaddarśane tu jñāna-vattvam antareṇa na kaścid ayaṃ niyama ity āha* “*śrīpūrvaśāstre na tv eṣa niyamaḥ ko ’pi coditaḥ* | *yathārthatattvasaṅghajñas tathā śiṣye prakāśakaḥ* |.” “In our religion there is no such rule, except for \[the requirement that the guru\] must be knowledgeable. This is why the author says: In the root scripture, there is no such prohibition taught. \[The guru\] knows all the various ontological entities as they really are, and he exposes them to the disciple according to truth.” See also *Tantrāloka* 23.16c-17b: *ato deśakulācāradehalakṣaṇakalpanām* || *anādṛtyaiva sampūrṇajñānaṃ kuryād gurur gurum* |. “Therefore the guru creates an omniscient guru without considering his place of birth, family, conduct, and bodily features.”
+
 [^20]: *Uttarakāmika* 24.12-14 (before the 12th c.?, see SANDERSON 2009: 279, n. 663; Ācāryābhiṣeka, p. 1297): *abhakṣyabhakṣakaṃ caiva kuṇḍaṃ bhasmāṅkuraṃ tathā* | *khaṭvāṅgiśyāmadantau cāpy ārūḍhaṃ patitaṃ tu vā* ||12|| *alasaṃ vṛṣalaṃ caivaṃ vrātyaṃ vaiśyāpatiṃ* (*veśyā*-?) *tathā* | *asacchāstrakṛtaṃ* \[em.; -*chastra*- cod.\] *klībaṃ vyādhitaṃ kunakhaṃ tathā* ||13|| *atha vyasaninaṃ pāradārikaṃ vṛṣalīpatim* | *citrakaṃ gāyakaṃ caiva nartakaṃ ca vivarjayet* ||14||. “He should not allow these \[to be consecrated as ācāryas\]: anybody who consumes things that are forbidden, the son of a woman by another man than her husband while the husband is alive, the Bhasmāṅkura, one with a khaṭvāṅga \[perhaps emend to khalvāṭa- (“bald”), see commentary by Jayaratha ad [[Tantraloka 23.012|Tantrāloka 23.12]], who cites Svacchandatantra 1:24ab: *kāṇo vidveṣajananaḥ khalvāṭaś cārthanāśanaḥ*\], one with blackened teeth, one who has fallen from his elevated status \[i.e., an outcaste\], who is lazy, a Śūdra, a Vrātya, a harlots’s husband\[?\], the composers of heretic texts, an unmanly person, anyone who is ill or has ugly nails, anybody with addictions, who is with somebody else’s wife or is the husband of a Śūdra woman, a painter, a singer, or a dancer.”
 
 *[p. 90]* ^pg109
@@ -509,6 +554,7 @@ son of a woman of ill repute, the Kuṇḍa and the Gola, they are impure: this 
 Since the *Dīkṣādarśa* cites the *Kāmika* (see Appendix 2), initially the instructions here are similar to the ones above. However, when it subsequently cites the *Cintyaviśva*, it also provides further details (see verse 9 and the following). The text states that *guru*s are essentially defined by their being guardians of good conduct (*ācāra*). Those who fall from good conduct (*ācārāt tu paribhraṣṭās*) should be avoided and ignored, just as one abandons a broken stone *liṅga*. The offspring born as a result of a broken religious observance is called a Bhasmāṅkura, and he should not be allowed to grant initiation or to consecrate *liṅga*s. His offspring is named Antara, and the Antara’s offspring in turn is termed Kauśika. A transcript of a manuscript of the *Jñānaratnāvalī* reads *bhagnāṅkura* instead of *bhasmāṅkura*,[^21] but it helps in understanding the previous passage, the one in the *Dīkṣādarśa*. Here the Bhasmāṅkura’s offspring is called Kandhaka, whose offspring is named Kogika. The same text also refers to the Bhasmāṅkura with the synonym *bhasmapraroha* in a citation of the beginning of the fourth *pariccheda* of Brahmaśambhu’s unpublished *Naimittikakriyānu-sandhāna*, completed in the tenth century.[^22] The context here is categories of people that are unqualified for *abhiṣeka*, and again, the Bhasmāṅkura/Bhasmapraroha is mentioned next to the Kuṇḍa, the Golaka, and a certain 
 
 [^21]: *Jñānaratnāvalī* (12th c.?, p. 313): *tāvat te guravo jñeyā yāvad ācārapālakāḥ* || *ācārāt tu paribhraṣṭās tyājyās te bhagnaliṅgavat* | *bhagnavratāt samudbhūto yo* *’sau bhagnāṅkuraḥ smṛtaḥ* || *tajjātāḥ kandhakā jñeyās te* \[*taj*-?\]*jātāḥ kogikā matāḥ* | *dīkṣāsthāpanayoḥ* \[*ete*\] *santyājyā* \[em.; º*ātyā* cod.\] *śubhakāṃkṣibhiḥ* \[corr.; *śu-bhā*º cod.\] ||.
+
 [^22]: I am grateful to Prof. Alexis Sanderson for this reference and for sending me the e-text of this passage in the *Naimittikakriyānusaṃdhāna* edited by him, together with additional pieces of information (personal communication, August 18, 2015).
 
 *[p. 91]* ^pg110
@@ -528,9 +574,13 @@ The one who is born from the *ācārya*’s faithful wife is the *guru*’s son.
 This passage is problematic. For example, the Trikarṇa is a category obscure to me, but what seems to be taught here is that the *guru*’s illegitimate 
 
 [^23]: *Jñānaratnāvalī* (p. 407–408): *avikhaṇḍitacāritro na punarbhūr* \[em.; *punarbhin* cod.\] *na kanthakaḥ* \[em.; *kaṃdhanam* cod.\] | *nāpi bhasmaprarohākhyaḥ ṣaṇḍhaḥ* \[corr. SANDERSON; *ṣaṇḍaḥ* cod.\] *kuṇḍaś ca golakaḥ* |.
+
 [^24]: *Somaśambhupaddhativyākhyā* (p. 190): *tāvat te guravo jñeyāḥ yāvad ācārapālakāḥ* | *ācārāt tu paribhraṣṭās tyājyās te bhagnaliṅgavat* || *bhasmapradāt* \[→ *bhagnavratāt*?\] *samudbhūto yo ’sau bhasmāṅkura*\[*ḥ*\] *smṛtaḥ* | *tajjātā*\[*ḥ*\] *kalarā jñeyās tajjātāḥ kuśikā matāḥ* || *dīkṣāsthāpanayor ete santyajyāś śubhakāṅkṣibhiḥ* |.
+
 [^25]: According to SANDERSON 2014: 28.
+
 [^26]: *katthotthas*\] corr.; º*sthas* cod.
+
 [^27]: The translation of this passage, especially of the second sentence, is tentative.
 
 *[p. 92]* ^pg111
@@ -550,8 +600,11 @@ Finally, the *Īśānaśivagurudevapaddhati* mentions the Bhasmāṅkura in a pu
 As regards the names of the Bhasmāṅkura’s offspring (and in the case of the (*Pratiṣṭhā*)*lakṣaṇa*(*sāra*)*samuccaya* also that of his father), it seems certain that we are dealing with a fixed pair of terms modified by textual corruption and/or local variants. One appellation emerges from Kanthaka/Kandhaka/Kandhana/Katthaka/Kalara/Antara, the other from Kauśika
 
 [^28]: *pāṣāṇḍino*\] corr.; *paṣāṇḍino* cod.
+
 [^29]: *śāstrāvilokanād*\] em. Törzsök ; *śāstrāvalokanād* cod.
+
 [^30]: I am indebted to Judit Törzsök for the emendation in the Sanskrit of this sentence and for its translation.
+
 [^31]: *Īśānaśivagurudevapaddhati*, after 3.11.10, on who cannot be a guru: *atra yo-gaśivapaddhatau* | \[…\] *kāverīkoṅkaṇodbhūtā ninditā guravaḥ smṛtāḥ* | *kuṇḍādayaś ca rogārtā nindyāḥ syur deśajā api* || *bhraṣṭavratāc ca patitād utpanno yo narādhamaḥ* | *bhasmāṅkurāhvayau*\[?\] *tyājyau ninditau sarvakarmasu*. “gurus born near the River Kāverī and in the Koṅkaṇa area are prohibited. The Kuṇḍa etc. and those who are ill are prohibited even if they were born in proper places. The vile man, who is born \[from a man whose\] vow has been broken \[and is thus\] an outcaste, is a Bhasmāṅkura and is to be excluded, and he is to be prohibited from \[performing\] any rituals..”
 
 *[p. 93]* ^pg112
@@ -561,9 +614,13 @@ As regards the names of the Bhasmāṅkura’s offspring (and in the case of the
 As we have seen above, the descriptions of the Bhasmāṅkura point in the same direction but are richly varied. The original concept and some descriptions of the Bhasmāṅkura are possibly based on earlier models. One such model is the Brahmanical Avakīrṇin, a *sannyāsin* who has broken his *brahmacarya* vow.[^35] In the *Yājñavalkyasmṛti* (chapter 1, verses 222–224), for example,[^36] the Avakīrṇin occurs in a list of categories unfit for *śrāddha* rituals, a list that is reminiscent of those containing the Bhasmāṅkura found in the Śaiva Paddhatis and in Jātiviveka texts: 
 
 [^32]: MONIER-WILLIAMS s.v. I am grateful to Prof. Alexis Sanderson for this suggestion.
+
 [^33]: I am grateful to Prof. Alexis Sanderson for this suggestion.
+
 [^34]: Gnoli’s translation of *Tantrāloka* 23.8cd-9 (GNOLI 1999: 474, emphasis mine): “\[Riprovati come maestri in talune scritture\] sono anche coloro che portino i capelli sparsi di cenere, che siano figli di asceti, figli di donne di facili costumi, figli adulterini e di vedove. Secondo il *Devyāyāmalatantra*, riprovati sono anche coloro che, dopo aver portato segni settari, hanno sì aderito alla doctrina di Śiva, ma debbono \[per il loro passato\] nascere un’altra volta.”
+
 [^35]: See *Yājñavalkyasmṛti* 3.280ab: *avakīrṇī bhaved gatvā brahmacārī tu yoṣitam*. (“The Brahmacārin becomes an Avakīrṇin if he approaches a woman \[sexually\].”)
+
 [^36]: See also, e.g., *Āśvalāyanaśrautasūtra* 12.8.25.
 
 *[p. 94]* ^pg113
@@ -598,8 +655,11 @@ But the main question remains: to what extent can we suppose that the definition
 And how real, or how theoretical, is this category as it appears in the earlier sources, before it is associated with a well-defined *jāti* with its own rights and duties? There is no reason to suppose that Śaiva ascetics never 
 
 [^37]: See O’HANLON & HIDAS & KISS 2015: 108.
+
 [^38]: On Devalakas not being condemned in some communities, see SANDERSON 2009: 277.
+
 [^39-p95]: See, e.g., *Jātiviveka* 2.3–5 (O’HANLON & HIDAS & KISS 2015: 127, n. 53) and SANDERSON 2009: 277.
+
 [^40-p95]: See EPIGRAPHIA INDICA XV, pp. 85–94 (*goravar* in line 49, verse 14 on p. 90) and also ibid. p. 156: “*Goraga* \[…\] is the Telugu form of the Kanarese *gorava*, which according to Kittel means a Śaiva mendicant. It is now obsolete in Telugu. In the inscription \[the Bezwada Pillar Inscription of Yuddhamalla\] it is used in the sense of a Śaiva devotee or teacher.” N. 1 (ibid.) mentions “erotic *goravas*” in the “Yēwūr inscription of A.D. 1077” (EPIGRAPHIA INDICA XII, p. 290, from the translation of the inscription: “Whether it be the head of the establishment, or the Gorava, or such as are under the rules of this establishment; if there should be a man who lusts for venery in this establishment, the establishment and the king must expel him.”).
 
 *[p. 96]* ^pg115
@@ -621,6 +681,7 @@ Bhasmāṅkura as problematic. Is Abhinavagupta’s approach to categories such 
 And what is the exact problem with a Bhasmāṅkura in Śaiva texts that prohibits him to become an *ācārya*? Some sources, such as the *Dīkṣādarśa*, state that only those that belong to the four *varṇa*s, plus the offspring of the six Anuloma unions in which the father’s *varṇa* is higher or equal to that of the mother, can be consecrated as *ācārya*s. Theoretically, the child of a Śaiva ascetic and a Śūdra woman, even a prostitute, is very likely to be an Anuloma offspring, as Bālambhaṭṭa rightly tells us.[^44-p97] However, if the Bhasmāṅkura’s father is supposed to be an ascetic, then his son is certainly the result of a sin, and this fact that the ascetic has broken a vow is relevant here. The issue is not primarily a problem of caste/*jāti* that concerns possible combinations of mother and father, but rather a question of sinful conception. One’s sin makes one a *karmacāṇḍāla*, someone who would not be a *cāṇḍāla*, an outcaste, normally, but whom some sinful deed, some adharmic karma makes one. So it may be only secondarily, by his father sinking to the status of a special kind of *cāṇḍāla*, before the birth of his son, that the Bhasmāṅkura can be denied the office of *ācārya*. This is exactly what we see in the case of the Dola, a category which strikingly resembles the Bhasmāṅkura (see above, p. 94). This fact that the Bhasmāṅkura has neither truly condemnable caste-affiliations nor repulsive personal features may have acted as an important factor in his later rise to a higher status. It is also interesting to note that our texts never dwell on the impurity of the Bhasmāṅkura’s mother. On the contrary, it is always the breaking of a vow by the father that is emphasised. One reservation concerning the Bhasmāṅkura could have been that he may inherit his father’s lack of discipline, but more importantly, we may see in the rejection of the Bhasmāṅkura a hint at the office of *ācārya* being hereditary. The existence of an illegitimate son may have caused tension when the retiring *ācārya* chose his successor.[^45-p97] Prohibitions that stop a supposedly Brahmacārin *ācārya* of a *maṭha* to consecrate his son as his successor may well have been needed to maintain the integrity of the institution. 
 
 [^44-p97]: See p. 89 above.
+
 [^45-p97]: On hereditary rights of a priestly community and *guru*s choosing their successors, see SANDERSON 2009: 255 and 279.
 
 *[p. 98]* ^pg117
@@ -641,9 +702,13 @@ The *Jātiviveka* in the *Paraśurāmapratāpa* (sixteenth century?, fol. 50rff.
 *sarvatīrtheṣu yat puṇyaṃ sarvayajñeṣu yat phalaṃ* |<sup>51</sup> 
 
 [^46-p98]: ≈ *Śivadharmaśāstra* 11.18 (pp. 129ff): *rudrākṣaiḥ kaṅkaṇaṃ haste gale caiva hi mastake* | *liṅgaṃ śivāśramasthānāṃ bhasmanāṃ ca tripuṇṭrakam* ||.
+
 [^47-p98]: ≈ *Śivadharmaśāstra* 11.43c-44b: *dhvaṃsanaṃ sarvaduḥkhānāṃ rudratvaṃ samavāpnuyāt* || *sitena bhasmanā kuryāt trisandhyaṃ yas tripuṇṭrakam* |.
+
 [^48-p98]: = *Śivadharmaśāstra* 11.44cd.
+
 [^49-p98]: ≈ *Śivadharmaśāstra* 12.91cd: *mūrdhni hastopavīte vā kṛtvā rudrākṣamālikām* ||.
+
 [^50-p98]: ≈ *Śivadharmaśāstra* 12.92: *yaś ca bhuñjīta bhasmāṃgī rudrair bhuktan na saṃśayaḥ* | *rudrākṣadhāraṇan tasmān nityam eva praśasyate* ||.
 
 *[p. 99]* ^pg118
@@ -662,12 +727,21 @@ The *Jātiviveka* in the *Paraśurāmapratāpa* (sixteenth century?, fol. 50rff.
 51\. = *Śivadharmaśāstra* 11.50.
 
 [^52-p99]: ≈ *Śivadharmaśāstra* 11.52: *bhasmasnānāt paraṃ snānaṃ pavitraṃ naiva vidyate* | *uktaṃ tat sarvadevebhyaḥ snāto yena śivaḥ svayam* ||.
+
 [^53-p99]: ≈ *Śivadharmaśāstra* 11.53: *brahmādyāś ca tadārabhya munayaś ca śivārthinaḥ* | *sarvaparvasu yatnena bhasmasnānaṃ pracakrire* ||.
+
 [^54-p99]: ≈ *Śivadharmaśāstra* 11.55: *duśśīlaś śīlayukto vā yo vā ko vāpy alakṣaṇaḥ* | *bhūtir īśasya saṃyogāt saṃpūjyā rājaputravat* ||.
+
 [^55-p99]: ≈ *Śivadharmaśāstra* 12.11cd: *na gobrāhmaṇabhasmāgniliṅgacchāyān na laṃghayet* ||.
+
 [^56-p99]: ≈ *Śivadharmaśāstra* 12.12: *na laṃghayeta nirmālyam apsu bhūmau niveśayet* | *dhārayec chivanirmālyaṃ bhaktyā lobhān na dhārayet* ||.
+
 [^57-p99]: ≈ *Śivadharmaśāstra* 12.13: *bhakṣaṇān narakaṃ gacchet tadvilaṃghī ca mūḍhadhīḥ* | *na tatra snānapūjādyaṃ pratigṛhṇāti śaṅkaraḥ* ||.
+
 [^58-p99]: ≈ *Śivadharmaśāstra* 12.14ab: - - *naivedyanirmālyaṃ mardayan pūjayec chivam* |.
+
 [^59]: ≈ *Śivadharmaśāstra* 12.15ab: *asaṃspṛśyo bhavet so ’pi yathāsvāṅgamalaspṛśī* |.
+
 [^60]: ≈ *Śivadharmaśāstra* 12.15cd: *tasmān na saṃspṛśel liṅgaṃ naro nirmālyadūṣitaḥ* ||.
+
 [^61]: ≈ *Śivadharmaśāstra* 12.16: - - - *vedyanirmālyaṃ saṃkīrṇaiḥ kalaśādibhiḥ* | *snānan tu kriyate bhaktyā na tadgṛhṇāti śaṅkaraḥ* ||.

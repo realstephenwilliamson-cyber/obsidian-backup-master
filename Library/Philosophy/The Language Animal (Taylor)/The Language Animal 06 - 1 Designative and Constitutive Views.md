@@ -45,6 +45,7 @@ This is the classic case of an enframing theory. Language is understood in terms
 This control itself is, of course, something that didn’t exist before. But the theory establishes the maximal pos si ble continuity between before and after. The elements are the same, combination continues, only the direction changes. We can surmise that it is precisely this continuity which 
 
 [^2]: See Thomas Hobbes, *Leviathan,* ed. Michael Oakeshott (Oxford: Blackwell, 1989), 20; John Locke, *An Essay Concerning Human Understanding,* ed. P. H. Nidditch (Oxford: Clarendon Press, 1975), 3.3.2; Étienne Bonnot de Condillac, *Essai sur l’Origine des Connaissances Humaines* (Paris: Vrin, 2014), 1.2.4.45–46.
+
 [^3]: Johann Gottfried Herder, *Über den Ursprung der Sprache,* in *Johann Gottfried Herder’s Sprachphilosophie,* ed. Erich Heintel (Hamburg: Felix Meiner, 1960), 12–14.
 
 *[p. 6]* ^pg19
@@ -98,6 +99,7 @@ We can have this linguistic awareness even while inhibiting our standard behavio
 This linguistic awareness is of a differ ent kind than the response-triggering mode; it’s a more focused awareness of this object, as rightly called W. It involves a kind of gathering of attention which Herder describes as “reflection”, or “*Besonnenheit*”, in the passage in which he introduces this term.[^9]
 
 [^8]: The above contrast between people describing and rats in mazes might be thought to be skewed by another obvious disanalogy between the two cases, that the person describing is emitting the signals, and the rat is only responding to them. But consider this case: certain birds are genetically constituted so that when one sights a predator it cries out, and all flee. There is a “right use” of this signal— one could imagine a case of a bird with damaged vocal cords who emitted the wrong sound, with disastrous consequences. But there is likewise no answer to the question, what precise “translation” to give to the cry: “hawk!”, or “predator!”, or “skedaddle!”, or what ever.
+
 [^9]: “The human being demonstrates reflection when the force of his soul operates so freely that in the whole ocean of sensations which floods the soul through all the senses it can, so to speak, separate off , stop, and pay attention to a single wave, and be conscious of its own attentiveness. The human being demonstrates reflection when, out of the whole hovering dream of images which proceed before his senses, he can collect himself into a moment of alertness, freely dwell on a single image, pay it clear, more leisurely heed, and separate off characteristic marks for the fact that this is that object and no other.” Johann Gottfried Herder, “Treatise on the Origin of Language,” in *Herder: Philosophical Writings,* trans. Michael N. Forster (Cambridge: Cambridge University Press, 2004), 87 \[*Der Mensch beweist Refl exion, wenn die Kraft seiner Seele so frei wirkt, daß sie in dem ganzen Ocean von Empfi ndungen, der sie durch alle Sinne durchrauscht, eine Welle, wenn ich so sagen darf, absondern, sie anhalten, die Aufmerksamkeit auf sie richten und sich bewußt sein kann, daß sie aufmerke. Er beweist Refl exion, wenn er aus dem ganzen schwebenden Traum der Bilder, die seine Sinne vorbeistreichen, sich in ein Moment des wachen sammeln, auf einem Bilde freiwillig verweilen, es in helle, ruhigere Obacht nehmen und sich Mermale absondern kann, daß dies der Gegenstand und kein andrer sei*\]; Herder, *Ursprung,* 24.
 
 *[p. 10]* ^pg23
@@ -165,6 +167,7 @@ Kant undercuts this whole way of thinking by showing that it supposes, for each 
 With this point secured, Kant argues that this relationship to an object would be impossible if we really were to take the impression as an utterly isolated content, without any link to others. To see it as about something is to place it somewhere, at the minimum out in the world, as against in me, to give it a location in a world which, while it is in many respects indeterminate and unknown for me, cannot be wholly so. The unity of this world is presupposed by anything which could present itself as a particulate bit of “information”, and so what ever we mean by such a particulate bit, it couldn’t be utterly without relation to all others. The background condition for this favorite supposition of empiricist philosophy, the simple impression, 
 
 [^15]: David Hume, *An Inquiry Concerning Human Understanding,* ed. Tom L. Beauchamp (Oxford: Oxford University Press, 1999), chapter 7.
+
 [^16]: The reference in the by now canonical form is to A 104 of the first edition of Kant’s *Kritik der reinen Vernunft,* in the Berlin Acad emy edition, in *Kants Werke, vol. IV* (Berlin: Walter de Gruyter, 1968). For En glish version see *Immanuel Kant’s Critique of Pure Reason,* trans. Norman Kemp Smith (London: Macmillan Education, 1989), A 104.
 
 *[p. 16]* ^pg29
@@ -176,7 +179,9 @@ So Kant by articulating the background understanding of aboutness sweeps away th
 The second main direction of argument in the counterthrust to Cartesianism or empiricism has been the attempt to place our thinking in the context of our form of life. The original early modern epistemologies gave a notoriously disengaged picture of thinking.[^18] This was no accident. The foundationalist drive, the attempt to lay bare a clear structure of inference on the basis of original preinterpreted bits of evidence, pushed toward a disengagement from embodied thinking, and the assumptions buried in everyday custom.[^19] The move toward a more situated understanding of thinking is evident enough in the work of Wittgenstein and Heidegger. But Herder is one of its pioneers. He constantly stresses that we have to understand human reason and language as an integral part of our life form. 
 
 [^17]: Ibid., A 112.
+
 [^18]: See, for instance, Elizabeth Anscombe, who argues, “Can it be that there is something that modern philosophy has blankly misunderstood: namely what ancient and medieval phi los o phers meant by practical knowledge? Certainly in modern philosophy we have an *incorrigibly contemplative conception of knowledge.*” Anscombe, *Intention,* 2nd ed. (Cambridge, MA: Harvard University Press, 1963), 57, emphasis added.
+
 [^19]: For the suspicion toward unthinking custom, see Locke, *Essay,* 1.2.22.6. I have discussed this connection between disengagement and modern epistemology at greater length in “Overcoming Epistemology” in *Philosophical Arguments* (Cambridge, MA: Harvard University Press, 1995), 1–19; in *Sources of the Self* (Cambridge, MA: Harvard University Press, 1989), chapter 9; and in “ ‘Lichtung’ or ‘Lebensform’: Parallels between Wittgenstein and Heidegger” in *Philosophical Arguments,* 61–78.
 
 *[p. 17]* ^pg30
@@ -230,7 +235,9 @@ So Herder’s articulation of the linguistic dimension, properly understood, and
 The holism of meaning has been one of the most impor tant ideas to emerge from Herder’s new perspective. Humboldt took it up in his image of language as a web.[^25] And it took its most influential form early in the last century in the celebrated princi ple of Saussure: “in language there are only differences without positive terms” \[*dans la langue il n’y a que des diff érences sans termes positifs*\].[^26] What this slogan means is that we can’t understand linguistic meaning as an alignment of sounds (words) and things; rather we align differences in sound with diff erences in signification. So in En glish the distinction in sound between “b” and “p” yields in a given context the distinction in sense between “but” and “put”. In other words, a term gets its meaning only in the field of its contrasts. In this 
 
 [^24]: Herder, “Origin of Language,” 89; Herder, *Ursprung,* 25.
+
 [^25]: “Language can be compared to an im mense web, in which every part stands in a more or less clearly recognizable connection with the others, and all with the whole. What ever his point of departure, man always makes contract in speaking with a merely isolated portion of this fabric, but invariably does so instinctively, as if every thing this one portion must necessarily agree with were si mul ta neously present to him at the same moment.” Wilhelm von Humboldt, *On Language: The Diversity of Human Language- Structure and Its Influence on the Mental Development of Mankind,* trans. Peter Heath (Cambridge: Cambridge University Press, 1988), 69. \[*Man kann die Sprache mit einem ungeheuren Gewebe vergleichen in dem jeder Teil mit dem anderen und all mit dem ganzen in mehr oder weniger deutlich erkennbaren Zusammenhange stehen. Der Mensch berührt im Sprechen, von welchen Beziehungen man ausgehen mag, immer nur ein abgesonderten Teil des Gewebes, tut dies aber instinktartig immer dergestalt, als wären ihm zugleich alle, mit welchem jener einzelne notwendig in Übereinstimmung stehen muß, in gleichen Augenblick gegenwärtig*\]; Humboldt, *Schriften zur Sprache,* ed. Michael Bühler (Stuttgart: Reklam 1995), 65.
+
 [^26]: Ferdinand de Saussure, *Course in General Linguistics,* trans. Wade Baskin (New York: Columbia University Press, 2011), 120; Ferdinand de Saussure, *Cours de Linguistique Générale* (Paris: Patot, 1978), 166.
 
 *[p. 21]* ^pg34
@@ -244,7 +251,9 @@ But perhaps its most power ful application in philosophy is in the work of late 
 This holism of meaning is inextricably connected to the fact that human beings as linguistic animals also live in a bigger world, which goes beyond 
 
 [^27]: Humboldt, “Schriften zur Sprache,” 138–39.
+
 [^28]: See, for instance, Wittgenstein, *Philosophical Investigations,* 92.
+
 [^29]: There is an impor tant link between this holistic point and that which Brandom makes central in *Making It Explicit: Reasoning, Representing, and Discursive Commitment* (Cambridge, MA: Harvard University Press, 1994) and other works. Brandom rejects the atomism of the empiricist tradition, that one could first take in one piece of information, and then another, then link them, and see the correlation; and hence make inferences. This pro cess doesn’t make sense for Brandom. How could we take in an isolated piece of information? What sense could we make of such an isolated bit of information? Well what sense *do* we make of it? Elder says: “go, Scout, and see if there are any tiger tracks.” Scout comes back: “Elder, I saw a paw track in the sand!” That’s a particulate bit, but it makes sense here within our whole general grasp of our situation, which includes forest, tigers, the consequent danger of being eaten, our collaborative eff orts to avoid this and other dangers, and so on. This bit is relevant because it will license multiple inferences, practical and factual. Included among the former would be here: “Let’s not go there now.” So Brandom’s opening move in *Making It Explicit* is absolutely crucial. He dethrones repre sen ta tion as the primary building block of thought and language. What is crucial is inferences.
 
 *[p. 22]* ^pg35
@@ -356,8 +365,11 @@ Seeing the linguistic dimension as constituted by expression came naturally to H
 Speech is the expression of thought. But it isn’t simply an outer clothing for what could exist in de pen dently. It is constitutive of reflective, that is, linguistic thought, of thought which deals with its objects in the linguistic dimension. Later we can detach our thinking over some of its extent from public expression, and even from natu ral language. But our power to function in the linguistic dimension is tied for its everyday uses, as well as its origins, to expressive speech, as the range of actions in which it is not only communicated, but realized.
 
 [^36]: From the poem “L’Azure.”
+
 [^37]: Maurice Merleau- Ponty, *Phenomenology of Perception,* trans. Donald A. Landes (New York: Routledge, 2012), 190. Maurice Merleau- Ponty, *La Phénoménologie de la Perception* (Paris: Gallimard, 1945), 214.
+
 [^38]: Merleau- Ponty, *Phenomenology,* 196; Merleau- Ponty, *Phénoménologie,* 222.
+
 [^39]: Landes translates these terms as “speaking speech” and “spoken speech”. See Merleau- Ponty, *Phenomenology,* 202; Merleau- Ponty, *Phénoménologie,* 229.
 
 *[p. 31]* ^pg44
@@ -369,8 +381,11 @@ Nevertheless, I want to see the origin of this idea in Herder, not just because 
 This substantive point about language is an answer to the question of whether things can have this meaning for us without (real, spoken, enacted) 
 
 [^40]: See, for example, *De La Grammatologie* (Paris: Éditions de Minuit, 1967). Derrida’s almost obsessive attempt to deny altogether any special status what ever to speech in the human language capacity raises the question whether he doesn’t have more in common with the Cartesian tradition than he would like to admit. “*L’ écriture*” and “*la diff érance*”, while embedded in culture (or constitutive of it), are peculiarly disembodied functions. See also *L’Écriture et la Diff érance* (Paris: Le Seuil, 1967).
+
 [^41]: See Merleau- Ponty, *Phénoménologie*.
+
 [^42]: Herder, *Ursprung,* 24–25.
+
 [^43]: See, for instance, “How singular, that a moveable breath of air should be the sole, or at least the best, medium of our thoughts and perceptions! Without its incomprehensible connexion with all the operations of our \[soul\] which are so dissimilar to it \[this breath\] these operations would never have taken place. . . . A people have no idea for which they do not have a word: the liveliest imagination remains an obscure feeling, til the mind finds a character for it. And by means of a word incorporates it with the memory, the recollection, the understanding, and lastly the understanding of mankind, tradition: a pure understanding, without language, on Earth, is an utopian land.” Johann Gottfried Herder, *Outlines of a Philosophy of the History of Man,* trans. T. Churchill (London: Luke Hansard, 1803), 420. \[*Wie sonderbar, dass ein bewegter Lufthauch das einzige, wenigstens das beste Mittel unsrer Gedanken und Empfi ndungen sein sollte! Ohne sein unbregreifl iches Band mit allem ihm so ungleichen Handlungen unsrer Seele wären diese Handlungen ungeschehen . . . Ein Volk hat keine Idee, zu der es kein Wort hat: die lebhafteste Anschauung bleibt dunkles Gefühl, bis die Seele ein Merkmal fi ndet und es durchs Wort dem Gedächtnis, der Rückerrinerung, dem Verstande, ja endlich dem Verstande der Menschen, der Tradition einverleibt; eine reine Vernunft ohne Sprache ist auf Erden ein utopisches Land* \]; Herder, *Ideen zur Philosophie der Geschichte der Menschheit* (Berlin: Michael Holzinger, 2013), book 9, chapter 2.
 
 *[p. 32]* ^pg45
@@ -380,6 +395,7 @@ language. And the Herderian answer is “no”. Contemporary phi los o phers are
 We could sum up the point in this way. Herder’s analy sis establishes a distinction between (Ro) the case where an agent’s (nonsemantic) response to an object is *conditional* on its having certain features, and/or *because* of certain features (the rat rushes the door when this has a triangle on it, because this has been paired with reward), and (Rs) the case where the agent’s response consists (at least partly) in *identifying* the object as the locus of certain features. It is Rs that we want to call responding to a thing 
 
 [^44]: Mark Okrent off ers an argument of this form in *Heidegger’s Pragmatism* (Ithaca, NY: Cornell University Press, 1988), chapter 3.
+
 [^45]: “And it would not help either to say that it need not be a *sensation*; that when he writes ‘S’, he has *something—* and that is all that can be said. ‘Has’ and ‘something’ also belong to our common language.— So in the end when one is doing philosophy one gets get to the point where one would like just to emit an inarticulate sound.” Wittgenstein, *Philosophical Investigations,*  I.261 \[*Und es hülfe auch nichts, zu sagen: es müsse keine Empfi ndung sein: wenn er ‘E’ schreibe, habe er Etwas— und mehr könnten wir nicht sagen. Aber ‘ haben’ und ‘etwas’ gehören auch zur allgemeinen Sprache.— So gelangt man beim Philosophieren am Ende dahin, wo man nur noch einen unartikulierten Laut ausstossen möchte*\].
 
 *[p. 33]* ^pg46
@@ -515,8 +531,11 @@ When the young learn to show re spect for their elders, they really grasp this p
 We might say that they learn to embody the point; or to enact it bodily. But this doesn’t mean that articulating this point makes no difference. On the contrary, to bring the value, or good or norm, to speech makes it exist for us in a new way. It comes into focus for us. It acquires 
 
 [^54]: Pierre Bourdieu, *The Logic of Practice,* trans. Richard Nice (Cambridge: Polity Press, 1990), 69; Bourdieu, *Pratique,* 117.
+
 [^55]: “sit up straight.”
+
 [^56]: Bourdieu, *Practice,* 57; Bourdieu, *Pratique,* 95–96.
+
 [^57]: Bourdieu, *Practice,* 57; Bourdieu, *Pratique,* 96.
 
 *[p. 44]* ^pg57

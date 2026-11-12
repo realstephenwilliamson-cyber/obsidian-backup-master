@@ -87,33 +87,63 @@ chapter: 4
 **14.** When, [by contrast,] an animal ate fruit that ripened and no longer needed [the nurture of] the land, [the owner of the animal is required to] pay the full value of ripe produce. If [the animal ate] a *se'ah*, he must pay for a *se'ah*. If [it ate] two *se'ah*, he must pay for two *se'ah*. [The following laws apply if an animal] ate the fruit of one date palm, or a person gathered the fruit of a colleague's date palm and ate it. If it was a Roman date palm, whose fruit is not of very high quality, it should be measured in comparison with a orchard of date palms sixty times the size of its land. If it was a Persian date palm or the like, whose fruit is of very high quality, the date palm should be evaluated individually. An assessment should be made of its worth before the fruit was eaten and its worth after the fruit was eaten. ^4-14
 
 [^1]: For he has done all that could be expected of him to watch his sheep.
+
 [^2]: For he is considered to be negligent.
+
 [^3]: If, however, they dug under another part of the corral, the owner is not liable, for their exit has nothing to do with his negligence (Shulchan Aruch, Choshen Mishpat 396:1).
+
 [^4]: If the walls were broken during the day, and the owner did not fix them, he is considered to be negligent.
+
 [^5]: Although the damage is considered to have been caused by forces beyond the owner's control, since this damage was preceded by acts of negligence on the part of the owner, he is liable. See Chapter 2, Halachah 15.
+
 [^6]: The damage is considered to have been caused by forces beyond the owner's control. Even if the owner is informed that the gate to his corral was broken at night, he is not obligated to fix it until the following day (Shulchan Aruch, loc. cit.:2).
+
 [^7]: The Ra'avad and the Tur maintain that the person who broke the fence is not liable unless he leads the animal out. The Rambam's ruling is quoted by the Shulchan Aruch (Choshen Mishpat 396:3), while the Ramah cites the other views.See the Maggid Mishneh, who questions the difference between this law and the previous one, which states that thieves are not liable unless they actually take the animal out of the corral.
+
 [^8]: Since the owner is considered negligent in leaving the fence shaky, he is held liable for the damage the animal caused. Needless to say, the person who broke the wall down is liable for the damage to the wall, even though it was shaky.
+
 [^9]: He is considered to have been merely an indirect cause (grama).
+
 [^10]: See Chapter 2, Halachah 19.
+
 [^11]: He is considered to be a direct cause of the damage.
+
 [^12]: I.e., enclosing it behind a gate capable of withstanding winds of unusual force.
+
 [^13]: The wording of this halachah has raised questions for there is an obvious difficulty: If the watchmen guarded the animal in an excellent manner, why is the owner liable? The Maggid Mishneh explains that the liability refers only to damage caused by the animal by goring. (See Chapter 7, Halachah 1.) The Kessef Mishneh refers to a responsum purported to have been sent by the Rambam to the Sages of Lunil, which states that there was a printing error and the text should read: If, however, they guarded the animal in an excellent manner, as they should, and it got loose and caused damage, the watchman is not liable. If the watchman guarded the animal in an inferior manner, he is not held liable if he is an unpaid watchman. Instead, the owners are liable, even if the animal kills a human being. The watchman is held liable if he is a paid watchman, a renter or a borrower.In his Shulchan Aruch (Choshen Mishpat 396:8), Rav Yosef Karo quotes the interpretation of the Maggid Mishneh. The Sefer Me'irat Einayim 396:18 questions this, referring to Karo's Kessef Mishneh.
+
 [^14]: Enclosing it behind a gate capable of withstanding ordinary winds.
+
 [^15]: For an unpaid watchman is not expected to take as thorough care of an animal as a paid watchman. See, however, note 13.
+
 [^16]: Such watchmen are expected to watch the animal in a thorough manner.
+
 [^17]: The Tur and the Ramah (Choshen Mishpat 396:5) state that even if the person tied the animal with a strong rope, he is liable if it breaks loose in these circumstances.
+
 [^18]: All of these three types of people are considered mentally incompetent. They are not responsible for their actions, and the owner is considered negligent for charging them with watching his animal.
+
 [^19]: The owner is considered negligent because these individuals will frequently play with the rope, and by doing so loosen the knot, enabling the animal to break free.
+
 [^20]: Although escaping in this manner is considered to be a factor beyond the owner's control, since he was originally negligent in entrusting the animal to a mentally incompetent person, he must bear the consequences.The Ra'avad objects to the Rambam's ruling. It is, however, accepted by the Shulchan Aruch (Choshen Mishpat 396:6).
+
 [^21]: For the damage is due to his negligence.
+
 [^22]: For had they not been negligent as well, the ox would not have escaped. Although the Shulchan Aruch (Choshen Mishpat 396:7) appears to favor the Rambam's ruling, it also quotes the opinion of the Tur, which states that the person who is negligent shares the liability only when the others tell him that because of his negligence, they are withdrawing their responsibility. Otherwise, it is they who are liable, and not he.
+
 [^23]: But did not know that it had been placed in the category of a goring ox.
+
 [^24]: I.e., when an animal is sold, its status is changed with the change in ownership. (See Chapter 6, Halachah 6.) This, however, does not apply when it is merely borrowed (Kessef Mishneh).
+
 [^25]: The Ra'avad objects to the Rambam's ruling, explaining that it applies only when the court takes possession of the ox.
+
 [^26]: For it is more difficult to guard an ox that has a tendency to gore, and the borrower did not accept this responsibility.
+
 [^27]: The Rambam's statements imply that if the watchman makes no specific statement with regard to whether or not he is responsible for the damages the animal causes, he is liable for the damage it causes (Maggid Mishneh). The Ra'avad understands the Rambam as making such an implication, and he objects, maintaining that the watchman should not be held liable. The Shulchan Aruch (Choshen Mishpat 396:8) follows the Maggid Mishneh's conception. They maintain that the principle followed by the Rambam should be accepted with the exception of a goring ox.
+
 [^28]: The first watchman is considered negligent in entrusting it to a second watchman (even if an unpaid watchman entrusts it to a paid watchman). Therefore, the first watchman is liable, even in an instance when the object was destroyed by forces beyond the second watchman's control.
+
 [^29]: The rationale is that a watchman will frequently delegate an entrusted article to these individuals. The owner should have taken this into account when he entrusted the article to the watchman at the outset.
+
 [^30]: If the animal was already classified as prone to cause damages, this law would not apply, because the obligation would rest solely on the watchman's person. When, however, the animal is not placed in that category, since its own body is on lien for the damages, as stated in Chapter 1, Halachah 7, it is expropriated in lieu of payment.
+
 [^31]: Since the produce was growing, it would be unfair for the person whose animal caused the damages to be required to pay for it as if it were harvested fruit that was damaged. Instead, one considers the damaged crops as a part in a larger whole, thus reducing the amount of the damages. A compromise is accepted that takes in consideration the positions of both the owner of the land and the owner of the animal.The produce is not evaluated individually, for this would inflate the amount of damages paid. Nor is its share evaluated in comparison with the entire field, for then the amount of damages would be unfairly low. Instead, it is evaluated when compared with an area sixty times its size as explained.A se'ah is six kabbin. A kab is 1.376 kilograms according to Shiurei Torah. Thus a se'ah is 8.256 kilograms. The area where a se'ah of seeds would be sown is 50 cubits by 50 cubits.

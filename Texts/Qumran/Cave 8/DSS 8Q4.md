@@ -22,5 +22,6 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Deut 10:12 - 11:21 |
+| Frag. 2 | unidentified |
 
 [[DSS 8Q3|← 8Q3]] · [[Qumran|index]] · [[DSS 8Q5|8Q5 →]]

@@ -137,46 +137,74 @@ It is forbidden to treat the washing of hands with disdain. Our Sages have autho
 Similarly, whenever a person washes his hands after eating, he should dry them and then recite grace. One should recite grace directly after washing one's hands. No interruptions should be made. It is even forbidden to drink water after washing one's hands after eating until one recites grace. ^6-20
 
 [^1]: The commentaries explain that the modifying clause is added to include two types of grain products mentioned in Chapter 3, Halachah 9, that resemble bread, but do not require the blessing *hamotzi* unless they are eaten as the basis for an entire meal. When the blessing *hamotzi* is recited over them, the ritual washing of the hands is also required. Otherwise, it is not (*Shulchan Aruch, Orach Chayim* 158:1).
+
 [^2]: This washing is not intended for the purpose of cleanliness. Indeed, as explained in the commentary on Halachah 4, one's hands must be clean before washing them. Rather, it is a ritual matter and, therefore, requires adherence to all the particular laws mentioned in this chapter.
+
 [^3]: *Shabbat* [[Shabbat 14#14b|14b]], 15a states that the washing of the hands before partaking of sacrificial offerings was instituted by King Solomon. Hillel and Shammai extended the practice to include *terumah*, and Rabbi Eleazar ben Arach widened its scope to include even unconsecrated foods (*Chulin* [[Chullin 106#106a|106a]]).  
     The latter decree was also intended to remind the priests to keep their hands ritually pure while partaking of *terumah*. It was, however, instituted not only for the priests, but for the nation as a whole (even though non-priests may not partake of *terumah*), so that it would be a universally accepted practice.  
     Even after the destruction of the Temple, when it was no longer possible to practice ritual purity, this mitzvah was continued in the hope that the Temple will soon be rebuilt, and the priests will resume continue their previous obligations (*Shulchan Aruch HaRav* 158:1; *Mishnah Berurah* 158:1).
+
 [^4]: This washing, referred to as*mayim acharonim*, is discussed in Halachot 2 and 3.
+
 [^5]: *terumah* or sacrificial offerings.
+
 [^6]: See the commentary, Halachah 4.
+
 [^7]: Note the Rambam's Commentary on the Mishnah (*Tohorot* 7:8), where the Rambam explains that "'hands are busy' - i.e., frequently touching [objects] - and it is possible that one touched an impure substance without realizing it." See also Chapter 7, Note 17.
+
 [^8]: or washed (*Mishnah Berurah* 158:12). This requirement applies whether one dips food into liquid while eating, or whether it was dipped into liquid beforehand and left undried. If, however, it was dipped in liquid and the liquid dried, there is no need to wash before partaking of it.
+
 [^9]: Liquid in this instance refers to wine, honey, olive oil, milk, dew, and water. It does not include fruit juices or other oils (*Shulchan Aruch, Orach Chayim* 158:4).
+
 [^10]: This practice was instituted in respect for the *terumah* separated from olive oil and wine. It was extended to all liquids because the laws governing the contraction of ritual impurity by liquids are more severe than those involving other foods (Rabbenu Yonah, *Levush, Orach Chayim* 158:3).  
     *Tosafot, Pesachim* 115b, explains that after the destruction of the Temple, the practice of washing before partaking of fruits dipped in liquid was discontinued because we are all ritually impure. Although most authorities do not accept this position, they respect it to the extent that they state that a blessing should not be made before such a washing. In practice, however, there are many who are not precise in washing in these circumstances. There is, nevertheless, one instance when this practice is observed universally. At the Pesach seder, we wash before dipping the *karpas* in salt water.
+
 [^11]: whether before eating - The Rambam requires that a blessing be recited in both the instances mentioned in the previous halachah. As mentioned in the commentary, our practice is to recite a blessing only before partaking of bread, and not before partaking of foods dipped in liquids.
+
 [^12]: See *Hilchot Kri'at Shema* 3:1.
+
 [^13]: See *Hilchot Tefillah* 4:2-3.  
     The Radbaz (Vol. IV, Responsum 1365) states that although the Rambam requires that we wash before the afternoon and evening services, a blessing should be recited only when washing before the morning service. This opinion is reinforced by the fact that, when counting the hundred blessings recited each day (*Hilchot Tefillah* 7:14), the Rambam enumerates only one blessing for washing for prayer.
+
 [^14]: Rabbenu Manoach notes that the Rambam's phraseology implies that the blessing should be recited before washing one's hands. This is also indicated by Chapter 11, Halachah 7, which states:  
     There is no mitzvah for which the blessing is recited after its fulfillment except the immersion of a convert.  
     The *Shulchan Aruch* (*Orach Chayim* 158:11, based on*Tosafot, Berachot* 51a) states that it is not customary to recite the blessing before washing, lest one's hands be dirty. At present, Ashkenazic custom (see *Shulchan Aruch HaRav* 158:16; *Mishnah Berurah* 158:41) is to recite the blessing after washing, but before drying one's hands.
+
 [^15]: The word "washing" is not a precise translation of the Hebrew נטילת. Rabbenu Asher (*Berachot*, Chapter 9) explains that this term was used because in Talmudic times, the utensil with which it was customary to wash one's hands was called נטלא. The Sages phrased the blessing in this manner to emphasize that the mere rinsing of one's hands is insufficient and one must use such a utensil.
+
 [^16]: With the following sentence, the Rambam is explaining why a blessing is recited, despite the fact that this commandment was instituted by the Sages and not by God, Himself.
+
 [^17]: In Chapter 11, Halachah 3, the Rambam interprets the blessing recited over Rabbinic commandments as follows: "who has sanctified us with His commandments and commanded us to follow the instructions of the Sages who commanded us concerning...."
+
 [^18]: Note the explanation of this proof-text in *Hilchot Mamrim* 1:1-2.
+
 [^19]: Although the Ra'avad protests strongly the Rambam's ruling, it is accepted by the *Shulchan Aruch* (*Orach Chayim* 181:7). (The difference between the Ra'avad and the Rambam revolves around the rationale for this washing. See Note 3 below.)
+
 [^20]: as mentioned in the following halachah. (See also Chapter 11, Halachah 4.)
+
 [^21]: for as *Chulin* [[Chullin 10#10a|10a]] states, "Danger is more serious than a prohibition."  
     1. This washing, referred to as *mayim emtzayim*, is mentioned in *Chulin* [[Chullin 105#105a|105a]],b and the *Shulchan Aruch* (*Orach Chayim*, Chapter 173). At present, this practice is generally not followed.2. There are no fruits that are eaten as *terumah* according to Torah law. (It is wine and oil, not grapes and olives, which carry such an obligation.) Therefore, the Sages did not impose an obligation to wash before eating from such food if it was not consecrated (Rabbenu Yonah, *Berachot* 8).3. The *Tur* (*Orach Chayim* 181:1), the Ra'avad, and others offer a different rationale for this washing, quoting *Berachot* [[Berakhot 53#53a|53a]]'s interpretation of [[Torah 26 - Shmini#^11-44|Leviticus 11:44]]: "'Make yourselves holy,' this refers to the first washing; 'And you shall be holy,' this refers to the second washing." They explain that this washing is necessary as a token of respect to clean one's hands before reciting grace.4. Note *Hilchot Melachim* 6:13, which mentions other Rabbinic prohibitions that are relaxed in wartime.  
     See also *Shulchan Aruch* (*Orach Chayim* 158:8) which draws parallels to these laws and frees a person in a desert or in another dangerous situation from the obligation to wash his hands.
+
 [^22]: Although Rabbenu Asher maintains that it is only necessary to wash to the point of connection between the fingers and the hand, the *Shulchan Aruch* (*Orach Chayim* 161:4) accepts the Rambam's decision. Nevertheless, when a person has only a limited supply of water, he may rely on Rabbenu Asher's opinion (Shulchan Aruch HaRav 161:8; *Mishnah Berurah* 161:22).
+
 [^23]: It is preferable to pour a generous quantity of water over one's hands (*Shulchan Aruch, Orach Chayim* 158:10). Rav Chisda would say: "I wash with a full handful of water and [God] grants me a full handful of goodness" (*Shabbat* [[Shabbat 62#62b|62b]]).
+
 [^24]: one fourth of a larger measure known as a *log*. In contemporary measure, a *revi'it* is equivalent to 86.6 cc according to *Shiurei Torah*, and 150 cc according to the *Chazon Ish*.  
     A *revi'it* is significant in this context because immersion in a *revi'it* of water is enough to restore ritual purity to a utensil according to Torah law. The Rabbis, however, obligated the use of a *mikveh* of 40 *se'ah* for all ritual immersions.
+
 [^25]: The Rambam's decision differs from that of the Ra'avad, Rashi, the Rashba, and many other authorities. The other authorities maintain that as long as the vessel from which the water is poured contains a *revi'it*, two people may have their hands washed from it. The *Shulchan Aruch* (*Orach Chayim* 160:13) accepts the latter view.  
     Significantly, the Rambam mentions washing the hands only once before partaking of food. In *Hilchot Mikveot* 11:3, where he mentions the washing of the hands within the context of ritual purity, he mentions the need to wash hands twice: once to purify the hands, and once to wash off the water used to purify them. (See Halachah 10 and commentary.) In these halachot, he makes no mention of a second washing, seeming to imply that it is unnecessary to do so. (Rav Kapach adds that it is customary in certain Yemenite groups to wash only once before meals, and bases this practice on the Rambam's decision.)  
     The *Shulchan Aruch* and the Ramah (*Orach Chayim* 162:2) mention washing the hands two or three times before partaking of a meal. This is the accepted practice in almost all communities at present.
+
 [^26]: In *Hilchot Mikveot* 1:12, the Rambam provides this general rule:  
     Any substance that intervenes [between one's flesh and the water] and disturbs one nullifies the immersion, even if it covers only a minor portion of one's flesh.... Any substance that covers the major portion of one's flesh nullifies the immersion, even though it does not disturb one.  
     In Chapter 2 of those halachot, the Rambam mentions a long list of particular substances that nullify immersions, including filth, mud, and dough.
+
 [^27]: This implies that one should clean one's hands before washing them for this ritual purpose. The *Shulchan Aruch* (*Orach Chayim*, 161) discusses the particular laws regarding intervening substances.
+
 [^28]: This includes substances like ice and snow, which can be used to make up the measure of a *mikveh* (*Hilchot Mikveot* 7:3).
+
 [^29]: Note the *Shulchan Aruch* and the Ramah (*Orach Chayim* 160:12), which discuss the use of wine, beer, and fruit juices for washing hands.  
     5. I.e., whether before a meal or in preparation for prayer.6. The *Kessef Mishneh* explains that this expression indicates that it is not necessary to wash one's hands a second time (see the commentary on the previous halachah) or to dry them before partaking of the food. When washing one's hands for food, this is required because the water used for the first washing that remains on the hands becomes ritually impure. In contrast, the water that remains on one's hands after immersion in a *mikveh* is pure. (See *Shulchan Aruch*, *Orach Chayim* 159:19.)7. A *mikveh* must have at least 40 *se'ah* of water that has flowed into it by natural means. In contemporary measurements, 331 liters according to *Shiurei Torah*, and 648 liters according to the *Chazon Ish*.  
     The *Kessef Mishneh* notes that this applies only to water that does not emanate from a natural spring. When a person immerses his hands in such a spring, all that is necessary is that there be sufficient water to cover his hands. (See also *Hilchot Mikveot* 9:8.)  
@@ -186,26 +214,46 @@ Similarly, whenever a person washes his hands after eating, he should dry them a
     16. See *Hilchot Rotzeach USh'mirat HaNefesh* 11:6-16, which discusseshe prohibition of water left uncovered. This prohibition was enacted out of fear of the possibility that a poisonous snake or the like released venom into the water.17. *Avodah Zarah* [[Avodah Zarah 30#30b|30b]] states that washing with such water could be dangerous lest the venom seep into cuts or sores or even through the body's pores. The *Tur* (*Orach Chayim* 160) notes that since the presence of poisonous snakes and the like is no longer widespread, the prohibition against drinking - and hence, washing with - such water need not be observed at present. This ruling is accepted by the later authorities.18. The Rambam is implying that the water in a *mikveh* or in a natural stream remains acceptable for washing although it was used for other tasks (*Kessef Mishneh*).19. If, however, the bread fell into the water accidentally, the water is not disqualified (*Shulchan Aruch HaRav* 160:2; *Mishnah Berurah* 160:8).20. The Ramah (*Orach Chayim* 160:2) states that even if the baker washed his hands in the water, the water does not become unacceptable. The *Turei Zahav* (160:3) refutes this ruling. His opinion is accepted by the later authorities. 21. Slightly murky water is acceptable, as mentioned above. The determining factor is whether or not a dog will drink from the water.22. Since a *mikveh* containing such water is acceptable for the immersion of one's entire body, it is surely acceptable for the immersion of hands, which is only a Rabbinic commandment.23. These hot springs have a high mineral content and are very bitter.24. The *Kessef Mishneh* interprets this as referring to a stream that was diverted into a trench that does not contain forty *se'ah*. Although logically, this would be acceptable for the immersion of hands, the Sages forbade using such water, lest one also immerse one's hands in a container of water. Significantly, in his *Shulchan Aruch* (*Orach Chayim* 160:7), Rav Yosef Karo adds a further point, that the water was cut off from its source.25. I.e., the washing before partaking of bread.26. I.e., the washing after the meal (see Halachah 17); alternatively, the second pouring of water over one's hands, as mentioned in the commentary on Halachah 4. Note the explanation of the *Kessef Mishneh*. 27. In both instances, one must pour at least a *revi'it* of water over one's hands in a single pouring. In the first instance, while the water is being poured one gradually moves one's hands under the water, while in the second instance, one pours hurriedly, but forcefully, over the entire hand at once.28. I.e., several people stand with their hands outstretched, and a person passes in front of them pouring water over their hands.29. Although the water first passes over the hands of one person, it is still acceptable for the person whose hands are held below, because as long as it contains the required quantity and comes in one continuous stream, it does not become impure.  
     Nevertheless, *Shulchan Aruch HaRav* 160:16 and the *Mishnah Berurah* 160:68,72 state that the two people must originally have the intention to wash their hands as one, and must hold their hands close together. Otherwise, it is considered as if the second person washed with the water that was rendered impure by the first person's washing.  
     30. Note the difference of opinion on this issue between the Rambam and the other Halachic authorities mentioned in the commentary on Halachah 4.
+
 [^30]: because they are not vessels and were not made with the intent of containing water (*Kessef Mishneh*):
+
 [^31]: Broken shards of an earthenware container that are still capable of holding water. The *Tur* (*Orach Chayim* 159) states that if a broken vessel can still hold a *revi'it* when it stands unsupported, it is not disqualified for use. The later authorities (see *Shulchan Aruch HaRav* 159:6; *Mishnah Berurah* 159:12) favor the Rambam's ruling.
+
 [^32]: Our translation is based on Rav Kapach's interpretation of the Rambam's Commentary on the Mishnah (*Yadayim* 1:2 which is the source for this halachah).
+
 [^33]: Although some commentaries state that this also refers to shards, others, to avoid redundancy, state that it is referring to unshaped pieces of earthenware.
+
 [^34]: These usually contain a handle on their top, and thus cannot stand erect when turned upside down.
+
 [^35]: by breaking the handle so that it could stand erect
+
 [^36]: Although the covering was not originally made to contain liquid, since it was modified with that intention and, in its present state, it can contain a *revi'it* without being supported, it is acceptable.
+
 [^37]: by having a stand erected for it (*Sefer Mitzvot Gadol*)
+
 [^38]: The *Bayit Chadash* (*Orach Chayim* 159) questions why any modification is necessary for a wine-pouch, since it is also originally made with the intention of containing liquids. It explains that generally, if left uncovered, without a stand, a pouch will not be able to contain water. Hence, unless a stand is made for it, it is unacceptable.
+
 [^39]: [although] they have been modified - and the holes in them filled with tar to prevent water from flowing out
+
 [^40]: The *Bayit Chadash* (*loc. cit.*) explains the difference between these and the former two instances:  
     The purpose for which a covering of a jug and a wine pouch are made is related to the containing of liquids. Accordingly, although without modification they cannot serve that purpose in a manner acceptable for use in washing hands, once they are modified they are acceptable. In contrast, a sack or a basket is never used to contain liquids. Therefore, even after modification, it is unacceptable.
+
 [^41]: See *Shulchan Aruch* (*Orach Chayim* 159:6).
+
 [^42]: *Hilchot Keilim*, Chapters 6, 11, and 19, relates the following general principle: Once a vessel is broken to the point that it can no longer serve its original purpose, it is no longer considered a vessel and can no longer contract ritual impurity.  
     *Chulin* [[Chullin 107#107a|107a]] mentions that a vessel that is used for containing liquids becomes disqualified when it contains a hole large enough to allow liquids to enter when the vessel is placed within them.
+
 [^43]: In his *Kessef Mishneh*, Rav Yosef Karo states that the Rambam would consider a vessel acceptable if the hole is on the side and the portion of the vessel below the hole contains more than a *revi'it* of liquid.  
     In contrast, in his *Beit Yosef* (*Orach Chayim* 159), he explains that the Rambam would disqualify such a utensil because even though it can still contain a sufficient amount of liquid, it is a broken vessel and, as such, unsuitable for use for this mitzvah. In his *Shulchan Aruch* (*Orach Chayim* 159:1), he rules that a hole on the side disqualifies a vessel unless one is able to pour water through the hole.
+
 [^44]: e.g., utensils made from mud without being fired in a kiln
+
 [^45]: Although utensils made from these substances are not categorized as "vessels" with regard to the laws of ritual impurity, they are acceptable for this purpose.
+
 [^46]: as mentioned in the previous halachah.
+
 [^47]: i.e., is too small to contain this amount of water
+
 [^48]: is of sufficient size to contain this amount, but at the present time
+
 [^49]: This refers to pouring the first amount of water over one's hands. According to our custom of pouring water twice (or three times) over our hands, the second pouring need not contain a *revi'it*. (See *Hilchot Mikveot* 11:8.)

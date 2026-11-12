@@ -68,65 +68,127 @@ Though sometimes a person may speak while thinking of another matter, he can, th
 And this is the rank of the *achorayim* and externality of the *n.h.y.* of the *partzuf* of the higher (realm), which enters into the lower one to be a faculty of *mochin* and life-force to it, as known.
 
 [^1]: [[Psalms 104#^104-2|Psalms 104:2]].
+
 [^2]: See above, Epistle 5, note 103.
+
 [^3]: Inwardness, the highest and most profound levels (see Addendum, *Mystical Concepts in Chassidism*, s.v. *Pnimiyut*).
+
 [^4]: Father; i.e., the *partzuf* of *abba* (see below, note 11).
+
 [^5]: Macroprosopus (long or extended Countenance; see below, note 11).
+
 [^6]: Hinder, or extraneous sides; the lowest and most extraneous levels (see below).
+
 [^7]: The *partzuf* of *abba*.
+
 [^8]: Text corrected according to L. H.
+
 [^9]: The *partzuf* of *imma* (the supreme mother).
+
 [^10]: *Chesed* to *malchut*.
+
 [^11]: *Microprosopus* (the small, or lesser Countenance).—The ten *sefirot* form a configuration (*partzuf*) analogous to the image of man (consisting of the ten general categories of the *sefirot*; 248 “organs” and 365 “sinews”). The principal, or general, *partzuf* subdivides into five configurations: 1. *Keter—*the *partzuf* of *arich anpin* (including the aspect of *atik yomin* (or *atika kadisha*), the very original emanation—see Intro., note 56); 2. *Chochmah—*the *partzuf* of *abba*; 3. *Binah—*the *partzuf* of *imma*; 4. The *middot (chesed* to *yesod*; generally referred to by the all-inclusive principle of *tiferet*)*—*the *partzuf* of *z’eyr anpin* (sometimes referred to as the masculine aspect of *z’eyr anpin*); 5. *Malchut—*the *partzuf* of *nukva* (the female; sometimes referred to as the feminine aspect of *z’eyr anpin*). Both of these *partzufim* again compounds the levels of the ten *sefirot* and the 613 aspects, though the *sefirah* by which it is called is the dominant sphere of that configuration. All five proceed from, and succeed each other, in this order as different modes of Divine manifestations. Each one has two general aspects: *pnimiyut* (analogous to the relation from soul to body), and *chitzoniyut* (analogous to the relation from body to soul).—See Addendum, ibid., s.v. *Partzufim*.
+
 [^12]: The Torah as given to Moses, though originating in the supreme *chochmah*, is itself on the lower level of *z’eyr anpin*, or *tiferet*. Cf. below, Epistle 20.
+
 [^13]: Text corrected according to L. H.
+
 [^14]: Lit., “withered” (see [[Isaiah 34#^34-4|Isaiah 34:4]]), or “things that fall” (see comment. by *Maharzu* to *Bereishit Rabbah* 17:5). A withered plant is an attenuated or weaker form of a healthy plant. Similarly, the Torah is a weaker manifestation of supreme *chochmah*, but not *chochmah* as it is itself.
+
 [^15]: *Bereishit Rabbah* 17:5; 44:17. The Midrash describes several parallels, microcosms to their original: dream to prophecy, Shabbat to the Coming World, the sun to the Light Above, and Torah to the supreme wisdom. (The latter is the Midrashic equivalent of the Zoharic statement “the Torah derives from *chochmah*”; below, note 35).
+
 [^16]: [[Torah 21 - Ki Tisa#^33-23|Exodus 33:23]].
+
 [^17]: My hinderside (the aspect of *achorayim*).
+
 [^18]: My face (the aspect of *pnimiyut*; cf. above, Epistle 4, note 8).
+
 [^19]: Cf. Maimonides, *Hilchot Yesodei HaTorah* 1:10.
+
 [^20]: [[Torah 54 - V'Zot HaBerachah#^34-10|Deuteronomy 34:10]].
+
 [^21]: [[Torah 21 - Ki Tisa#^33-23|Exodus 33:23]].
+
 [^22]: [[Isaiah 06#^6-11|Isaiah 6:11]].
+
 [^23]: [[Torah 04 - Vayera#^18-1|Genesis 18:1]].
+
 [^24]: On [[Torah 04 - Vayera#^18-1|Genesis 18:1]].
+
 [^25]: Inserted acc. to H. V.
+
 [^26]: *Chachmei HaEmet* in the Hebrew—lit., the “sages of the truth” (i.e., of Kabbalah).
+
 [^27]: Text reads here too: Who is hidden, but omitted acc. to L. H.
+
 [^28]: The Sages of the Talmud.
+
 [^29]: *Bava Batra* [[Bava Batra 12#12a|12a]].
+
 [^30]: See Arizal, *Likkutei Hashass*, ad loc.; see also *Maamarei Admur Hazaken Haketzarim*, pp. 84 and 355.
+
 [^31]: Cf. also Arizal, *Shulchan Aruch*, s.v. *Keriah Bechochmat Hakabbalah*, par. 6.
+
 [^32]: See *Etz Chaim* 8:2 and below, Epistle 20.
+
 [^33]: V. L.: from (instead of and).
+
 [^34]: Thus itself beyond it.
+
 [^35]: *Zohar* [[Zohar 5.04 - Sava de-Mishpatim#^z2-121a|II:121a]]; [[Zohar 4.07 - Parashat Yitro#^z2-85a|85a]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-81a|III:81a]].
+
 [^36]: The Torah as revealed to man only originates in supreme *chochmah*, but is not *chochmah* in itself.
+
 [^37]: Cf. *Sanhedrin* [[Sanhedrin 21#21b|21b]], *Beit Habechirah* and *Maharsha* commentaries, ad loc. (see also the latter’s comment. on *Pesachim* 119); *Moreh Nevuchim* 3:26.
+
 [^38]: See ref. cited above, note 37, and see *Berachot* [[Berakhot 33#33b|33b]] and *Rashi*, ad loc. (s.v. *Middotav*), and Jerusalem Talmud, *Berachot* 5:3.
+
 [^39]: *Torah-Neviim-Ketuvim* (the Bible).
+
 [^40]: Cf. *Zohar* [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-149b|III:149b]]; [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-152a|152a]]; *Moreh Nevuchim* 3:50.
+
 [^41]: The textual reading of Scripture (*kri*) sometimes differs from the textual writ (*ktiv*).
+
 [^42]: Cf. *Pesachim* [[Pesachim 50#50a|50a]] and *Rashi*, ad loc.; *Zohar* [[Zohar 3.230a|III:230a]].
+
 [^43]: Some letters in Scripture are written larger than others. Cf. *Encyclopedia Talmudit*, vol. 1. s.v. *Otiyot*, p. 190 ff.
+
 [^44]: Cf. *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-132a|II:132a]] and [[Zohar 3.002a|III:2a]]. See also *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-3b|I:3b]] and ref. cited in *Derech Emet*, ad loc.
+
 [^45]: Maimonides, *Hilchot Yesodei HaTorah* 2:10; *Moreh Nevuchim* 3:20. See *Likkutei Amarim*, Part I, ch. 2.
+
 [^46]: Brackets appear in the text.
+
 [^47]: This reference (“above”) is not clear; cf. H. V., ad loc.
+
 [^48]: The lowest realm within the world of *Atzilut*.—The four worlds (see Addendum, *Mystical Concepts in Chassidism*) compound not only the order of the ten *sefirot* but also the general levels denoted by the names of the worlds. Thus *Atzilut* is divisible into *Atzilut* of *Atzilut*, *Beriah* of *Atzilut*, etc.; the same applies to the lower three realms (*Atzilut* of *Beriah*, etc.) R. Moses Cordovero illustrates this with an analogy to a silversmith who classifies his silver into four groups according to the purity of the metal: the first type is the most pure silver, free of base metals; the second type is less pure than the first; the third is about half pure and half impure; and the fourth contains more base metals than silver. Now, even the first class of silver cannot be wholly and absolutely pure. There always are some drosses that cannot be removed. Thus even this first class can be subdivided into more and less “wholly pure,” truly, into these four general categories. And the same applies also to the other three classes, one category differing from the other in the degree of purity (*Pardes Rimonim* 24:10).
+
 [^49]: See *Likkutei Amarim*, Part I, ch. 3 ff. and Part II, ch. 8.
+
 [^50]: V. L.: to emanate.
+
 [^51]: Emended according to H. V.
+
 [^52]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|I:11b]]. The *panim* of *chochmah* thus is completely absorbed in the Emanator.
+
 [^53]: Cf. *Etz Chaim*, *Shaar Hakelalim*, end of ch. 1; ibid., 32:8 and 37:1.
+
 [^54]: The aspects of *Asiyah—*Action, or making.
+
 [^55]: [[Torah 45 - Vaetchanan#^7-11|Deuteronomy 7:11]]; see *Eruvin* [[Eruvin 22#22a|22a]].
+
 [^56]: *Kiddushin* [[Kiddushin 40#40b|40b]].
+
 [^57]: Jerusalem Talmud, *Berachot* 1:2; ibid., *Shabbat* 1:2; *Vayikra Rabbah* 35:6; cf. below, Epistle 20.
+
 [^58]: See above, Epistle 7, note 37.
+
 [^59]: This part, to the end, does not seem to be part of the preceding, though the content is somewhat related.
+
 [^60]: Emended according to H. V.
+
 [^61]: Or: making (*Asiyah*).
+
 [^62]: Formation.
+
 [^63]: Creation.

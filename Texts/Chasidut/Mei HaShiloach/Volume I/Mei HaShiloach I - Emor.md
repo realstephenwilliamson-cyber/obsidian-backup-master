@@ -132,25 +132,47 @@ The fifth passage concerns a thanksgiving offering, of which it is said, “he s
 Corresponding to these five passages, God gave Israel the five passages about the yearly festivals. It is from (the spiritual power of the festivals) that man receives *tekifut* (unbridled strength) and an expansion of consciousness in order not to voice his greivances as mentioned above. God gave them the passage about Passover corresponding to the first passage, for Passover is the beginning of the illumination of life that God gives to Israel. Shevuot corresponds to the passage dealing with a *Cohen* who is unfit for service, for with the giving of the Torah all those who were sick or lame, deficient in any way, were healed, and Shevuot teaches us that God will heal everything. Rosh Hashanah corresponds to the passage about a *Cohen* who had become impure, for impurity is really sadness, as has been explained (in the second piece in this week’s *Parsha*). Therefore on Rosh Hashanah there is the mitzvah of sounding the *shofar* so as to drown out the sound of anything that may depress him. Yom Kippur corresponds to blemished sacrifices, for at the moment Israel abandons all forms of pleasure and benefit in this world in order to fulfill God’s will, then strength and encouragement will come to all their goodness and property. Corresponding to a thanksgiving offering, which teaches man to have the constant fear of God, they were given the mitzvah of *succa*, meaning that God will protect man and surround him (just as a *succa* does even though it is not a permanent structure). The festival of Succot is called “the time of our joy,” meaning that God will give man joy, promising never to abandon him.
 
 [^1]: *Emor* is a soft language, a whisper, as it were, as opposed to *maggid*, a stern usage. See Zohar, *Vayikra*, [[Zohar 8.04 - Parashat Emor#^z3-88b|88b]]
+
 [^2]: As a grandchild’s good or clever behavior would give *nachas* to his parents or grandparents.
+
 [^3]: The verse “you shall not offer,” refers to animals fit to offer in the temple. What about an animal where even its price cannot be used to buy a temple sacrifice?
+
 [^4]: Or damaged, for prior to this experience he was considered one of the great homiletic interpreters of the Torah in his generation.
+
 [^5]: The Gemara goes on to discuss whether or not she could have been impregnated by semen in a bathtub.
+
 [^6]: In truth there is only the difference of a hair’s breadth that the firmament separates between them, but they must be accepted according to God’s will. Similarly it is with the lamb offered with the omer-barley offering, which is placed double—two *esronim* of barley representing the lower waters and the upper waters, and the lamb hints at the firmament separating between them. *Tashlum.*
+
 [^7]: “On the outside” means he did not have a clear understanding of the mysteries of creation. The Steinsaltz Gemara quotes the explanation of the “Otsar Hakavod,” which interprets the upper and lower waters as purely spiritual matters, and the discussion is trying to find the source of supernal entities and of the lower entities. According to R. Yehoshua, on the first day of creation there is no separation between any of these entities at all, and everything existed as a single unified creation. Ben Zoma understood that the description in the Book of *Bereshit* describes the order of creation, and R. Yehoshua understood that there were elements mentioned in the creations of the first day that only came into being later.
+
 [^8]: Ben Zoma made the mistake in understanding there to be a great difference between the upper waters and the lower waters, for truly they have one source, as water signifies desire. Man possesses two kinds of desire, one that was imprinted in him from his birth, as explained in the Midrash (Rabba *Bereshit*, 8), that the world is filled with kindness (*chasadim*), and with this undiscerning kindness one could make the mistake of being merciful with the cruel. However, when man focuses his natural inborn kindness on following God’s will, this is greater than anything he could do with his intellect. And still, if a man were to direct the kindness in his lower nature to God’s will, then it is even far greater than anything he could do with his intellect. Therefore it does not say in *Tehilim* ([[Psalms 148#^148-1|148]]) “May the waters that are above heavens shall praise the name of God,” but not the waters below the heavens, for what is man, and what can he do with his intellect? Man’s godly power is actually that which he can do with his lower nature. Thus Ben Zoma understood a great difference in upper and lower desires, where truly, in the future, when God will make it clear that everything in the world came from Him, then it will be clearly seen that nothing separates between the upper waters and the lower waters. This is why, before entering into the garden of the secrets of the Torah, Rabbi Akiva warned (*Chagiga*, 14b), “when you arrive at the stones of pure marble, do not say, ‘water, water,’ ” He warned us not to identify water twice, because at their source they are one. *Giliyon Mei HaShiloach* by Gershon Chenoch Lainer, the Rebbe of Radzin ZY”A.
+
 [^9]: The more interpretive of the ancient Aramaic translations of the Torah.
+
 [^10]: Or strikes that day itself, imbuing it with cruelty (Sulam).
+
 [^11]: The Gemara says that Rava had only said this to sharpen (test) Abaye.
+
 [^12]: Shevuot is fifty days after Passover, and until then each day is ritually counted with a blessing (*sefirat ha’omer*), each day representing one of the fifty gates.
+
 [^13]: An example of this in the Talmud is although a husband and wife can agree to have whatever kind of intimate relations they want, still they are asked to “sanctify themselves, and limit the extent of their relations. “Don’t be like a rooster with the hen,” who was overly engaged. This may be applied to all permitted desires, such as money, food, and honor.
+
 [^14]: They are: above, below, east, west, north, and south, which are the six walls of the *succa. Tashlum.*
+
 [^15]: The four species waved on Succot are divided into that which has both taste and smell, that which has taste but no smell, smell with no taste, and neither taste nor smell.
+
 [^16]: R. Even Yisrael (Steinsaltz) comments that this is because palm branches are something that last a long time and are always useful. Rashi says that there was an industry surrounding them in the ancient world.
+
 [^17]: See *Devarim* [[Torah 46 - Eikev#^8-8|8:8]], where honey means dates.
+
 [^18]: See [[II Samuel 23#^23-16|Shmuel 2, 23:16]]. “And the three mighty men broke through the army of the Philistines, and drew water from the well of Beth-Lehem, that was by the gate, and took it, and brought it to David. Nevertheless he would not drink of it, but poured it out to Hashem. And he said, Be it far from me, Hashem, that I should do this; is not this the blood of the men who went risking their lives? Therefore he would not drink it. These things did these three mighty men do.”
+
 [^19]: *Tekifut* or *azut d’Kedusha*, meaning holy brazenness; see note 61, *Sefer Shemot.*
+
 [^20]: This is because *yikov* means both to bore or pierce and to blaspheme.
+
 [^21]: Meaning that one who cursed was denying the miracle where the twelve loaves in the Tabernacle stayed warm and fresh all week. *Eyts Yosef.*
+
 [^22]: He asserted that he was of the tribe of Dan, but this was so only from his mother’s side. They told him that they only camp “according to their father’s house.” So he left angry and blasphemed.
+
 [^23]: In his soul.

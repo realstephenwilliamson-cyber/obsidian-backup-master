@@ -195,133 +195,244 @@ Indeed, even if a loaf of bread or a baby are not available, one may save a corp
 If [the people in the home] have an alternative place to go, they may not remove the corpse. Instead, the corpse should be left in its place and they should depart.[^112] ^26-23
 
 [^1]: I.e., the object may be carried to perform a permitted task or because the place in which it is lying is needed (Chapter 25, Halachah 3).
+
 [^2]: The *Maggid Mishneh* writes that, for this reason, it is as though they are not considered to be utensils.
+
 [^3]: See Chapter 10, Halachah 3, and the Rambam's Commentary on the Mishnah (*Shabbat* 15:2, which mention the use of a weaver's rope.
+
 [^4]: See Chapter 21, Halachah 3, which states that one may sweep a floor on the Sabbath only if it is paved. Since sweeping is permitted in that instance, however, it is considered a permitted activity.  
     Nevertheless, according to the Ramah (*Orach Chayim* 337:2), who forbids sweeping with these brooms even on a paved floor, a broom would be considered a utensil used for a forbidden purpose. The notes on that halachah mention the views of the later authorities.
+
 [^5]: Rashi, *Shabbat* [[Shabbat 124#124b|124b]], states "to sit upon."
+
 [^6]: For this reason, a more lenient ruling is given than with regard to the row of stones mentioned in Chapter 25, Halachah 21, where one must indicate one's desire to use them on the Sabbath. (See *Mishnah Berurah* 306:73.)
+
 [^7]: Since they are not considered to be utensils. (See Chapter 25, Halachah 6.)
+
 [^8]: Although there is no utensil to cover there, since it is fit to cover a utensil one may take it to use for another purpose (*Shulchan Aruch, Orach Chayim* 306:7). Needless to say, one may carry it only less than four cubits.
+
 [^9]: As the *Maggid Mishneh* and the *Shulchan Aruch* (*loc. cit.*) emphasize, this leniency applies only to the broken pieces of a utensil. Since it was originally considered a utensil, it remains in this category as long as it can serve a useful purpose. In contrast, a stone is not considered a utensil, even though it is fit to cover another utensil, unless it is designated for this purpose.
+
 [^10]: Although it is useful, since its owner discarded it before the commencement of the Sabbath, there was no intent of using it at the time the Sabbath commenced. Therefore, it becomes forbidden. (See Ramah, *Orach Chayim* 308:7.)
+
 [^11]: If, however, it is discarded on the Sabbath itself, its use is permitted, since at the time of the commencement of the Sabbath it was still deemed to be a useful article (*Maggid Mishneh*).
+
 [^12]: Our translation is taken from the dictionary of Rabbi Tanchum of Jerusalem. The *Maggid Mishneh* renders the term מקורזלות as "sharp."
+
 [^13]: Although stones are not considered to be utensils and therefore may not ordinarily be carried, an exception is made in order to allow a person to take care of his basic hygienic needs.  
     Because of the advances in civilization, the situations described in this and the following halachah are no longer common practice. Nevertheless, the motivating principle behind these laws - that our Sages allowed certain leniencies for the sake of human dignity and hygiene - is pertinent at all times.  
     In this context, it is worthy to note the difference of opinion mentioned by the Ramah (*Orach Chayim* 312:1): According to one opinion, it is permitted to carry these stones only in one's own courtyard; i.e., only the prohibition against carrying stones is lifted. A second opinion, however, maintains that the prohibition against bringing an article from a *carmelit* into the private domain is also lifted in this instance. *Shulchan Aruch HaRav* 312:4 and the *Mishnah Berurah* 312:8 favor the latter view.
+
 [^14]: I.e., the size of all three together may not exceed a fistful (*Maggid Mishneh*).
+
 [^15]: Rashi (*Shabbat* [[Shabbat 81#81a|81a]]) relates that since the earth is likely to crumble - and then it will no longer be useful for this purpose - the prohibition against carrying it was never lifted.
+
 [^16]: Rashi (*loc. cit.*) and the *Shulchan Aruch* (*Orach Chayim* 312:1) explain that carrying the stones might entail extraordinary difficulty, which is normally forbidden on the Sabbath. An exception is made in this instance, however, for the reasons mentioned above.
+
 [^17]: There is no concern that one might be performing a derivative of the forbidden labor of grinding, nor of the forbidden labor of demolishing.
+
 [^18]: As a corollary to this principle, the *Mishnah Berurah* 312:6 mentions that it is permitted to carry toilet paper. Although paper is generally considered to be *muktzeh*, since the purpose for which this paper is used is clearly designated, it is not placed in this category. The *Mishnah Berurah*, however, emphasizes that tearing the paper on the Sabbath is forbidden.
+
 [^19]: Since a shard is sharp and might tear one's membranes (Rashi, *Shabbat* [[Shabbat 82#82a|82a]]).
+
 [^20]: Because in this instance the shard is smooth and will not tear one's membranes. Since the shard comes from a useful article, it is not *muktzeh,* as the stones are.
+
 [^21]: Since the grass is useful as animal fodder, it is not considered *muktzeh*. Therefore, using it is preferable to using the stone. Note the *Shulchan Aruch* (*Orach Chayim* 312:6), which states that one may use grasses that are still attached to the ground, provided one does not uproot them.
+
 [^22]: If the grasses are firm, there is a possibility that their sharp edges will perforate one's membranes (*Shulchan Aruch, loc. cit.*:5).
+
 [^23]: The Ramban states that if they were discarded before the commencement of the Sabbath, they are considered to be *muktzeh*. This ruling is quoted by the *Shulchan Aruch* (*Orach Chayim* 308:12).
+
 [^24]: The *Maggid Mishneh* cites the Ra'avad who states that this refers to the remnants of a *tallit* used for prayer, which are inappropriate to be used to clean filth. The Rambam, however, interprets this as referring to the remnants of all garments. Although the *Shulchan Aruch* (*loc. cit.*:13) quotes both views, *Shulchan Aruch HaRav* 308:41 favors the Rambam's opinion, explaining that even though smaller pieces of cloth are fit to be used to clean filth, this does not cause them to be considered to be a כלי, "useful article," unless they are explicitly designated for this purpose. Therefore, they are placed in the category of *muktzeh* like stones.
+
 [^25]: The minimum size of a piece of cloth that is susceptible to ritual impurity (*Hilchot Keilim* 22:20).
+
 [^26]: *Hilchot Keilim* (*op. cit.*) mentions that a cloth three thumbbreadths by three thumbbreadths is fit only for the poor. A rich person, by contrast, will not consider a cloth valuable until it is a minimum of three handbreadths by three handbreadths. *Shulchan Aruch HaRav* 308:41 and the *Mishnah Berurah* 308:52 also apply these concepts with regard to our present halachah.
+
 [^27]: See Chapter 25, Halachah 12.
+
 [^28]: And thus perform a forbidden labor. The Ramah (*Orach Chayim* 308:16) applies this concept to other articles - e.g., a bench that has one leg broken off.
+
 [^29]: Hence, moving it at all is forbidden. (See *Hilchot Eruvin* 3:7, from which one can derive the following: A ladder leading to a loft is usually left there permanently. Therefore, it is a heavy structure that is not considered to be a כלי, a utensil, but rather a permanent part of the building's structure.)
+
 [^30]: Since it is usually moved from dovecote to dovecote, it is light and is therefore considered to be a כלי. Accordingly, if there were no room for suspicion that one would snare doves, one would be allowed to move it.  
     The *Maggid Mishneh* draws attention to *Hilchot Sh'vitat Yom Tov* 5:4, which states that the only reason the Sages permitted moving such a ladder on a holiday was to allow for festive joy (i.e., to permit one to bring doves to slaughter). Therefore, on the Sabbath, when slaughtering is forbidden, there is no reason to allow one to move such a ladder. A household ladder, by contrast, may be moved (*Mishnah Berurah* 308:78).
+
 [^31]: The Rambam describes the construction and use of such a rod in his Commentary on the Mishnah (*Shabbat* 17:3).
+
 [^32]: Note the *Shulchan Aruch* (*Orach Chayim* 313:1), which states that for a reed to be "categorized as a utensil," it is not sufficient merely to think about using it for that purpose; one must actually adapt the article to fit the purpose for which it is intended to be used.
+
 [^33]: I.e., it is used as a door stop. Thus, it resembles slightly the bolt mentioned in the following halachah.
+
 [^34]: The *Shulchan Aruch* (*Orach Chayim* 313:1) mentions two perspectives on this matter. Rashi states that one must prepare the reed for use as a utensil that can be employed for other purposes. Otherwise, using it as a door stop will be considered to be building. Rabbenu Tam explains that as long as the reed is prepared for use as a door stop, it is sufficient.  
     Although in this halachah, the Rambam's perspective appears to follow that of Rashi, in his gloss to Chapter 23, Halachah 13, the *Maggid Mishneh* states that the Rambam follows the position of Rabbenu Tam. The later authorities agree that one may rely on Rabbenu Tam's view (*Shulchan Aruch HaRav* 313:2; *Mishnah Berurah* 313:7).
+
 [^35]: Rashi and others explain that the difficulty with the doors mentioned in this halachah is that since they do not meet all the criteria of ordinary doors, closing an opening with them resembles building. The Rambam, by contrast, appears to maintain that the difficulty is whether doors of this nature are considered to be כלים, useful articles, or not. The *Shulchan Aruch* (*Orach Chayim* 313:3) follows Rashi's view.
+
 [^36]: If the board used as a door lacks any sign of a hinge, it is not considered a כלי, a useful article, and carrying it is forbidden. In this instance, since it has the mark of a hinge, it was obviously used as a door in the past. Therefore, if it meets either of the other conditions mentioned by the Rambam, it may be moved on the Sabbath.
+
 [^37]: Our translation is based on Rashi (*Eruvin* [[Eruvin 101#101a|101a]]) and the *Shulchan Aruch* (*loc. cit.*). More precisely, in his Commentary on the Mishnah (*Eruvin* 10:8), the Rambam defines the Hebrew term מוקצה as "a distinct place that is not used for any purpose, nor is it required by its owner - e.g., a barn or stable."  
     The *Shulchan Aruch* emphasizes that the ruling concerning moving the partition used as a door is dependent on the fact that this enclosure is used infrequently. If an entrance that is frequently used were closed with such a partition, it would be considered as having been set aside for this purpose. However, since this is not the case, there is reason for the restrictions mentioned.
+
 [^38]: According to the Rambam, the fact that they were attached to the wall before the Sabbath indicates that they were intended to be used as a door. According to Rashi, it is sufficient to indicate that one is not building on the Sabbath.
+
 [^39]: The *Maggid Mishneh* states that the Rambam's wording appears to indicate that two criteria must be met: The partition used as a door must have at least the remnant of a hinge, and it must either be attached to the wall or be suspended above the ground. He objects to this conception, explaining that based on *Eruvin* [[Eruvin 101#101a|101a]], it would appear that if a partition is suspended above the ground, it is considered to be a door even if it never had a hinge.  
     The *Maggid Mishneh* states, however, that it is possible that the Rambam also shares this conception. (*Merkevet HaMishneh* postulates that he surely does. Otherwise, the Rambam's words would be redundant, since it is impossible for a door to be suspended above the ground unless it hangs from the wall or is attached by a hinge.) The *Maggid Mishneh's* view is quoted by the *Shulchan Aruch* (*Orach Chayim* 313:3).
+
 [^40]: As in the previous halachah, Rashi and others explain that the reason the prohibition was instituted is that this door does not resemble an ordinary door. Hence, one appears to be building when closing it. The Rambam, by contrast, explains that the prohibition stems from the fact that the door is not prepared to serve as a כלי, a useful article. Therefore, moving it is forbidden, as explained in the previous chapter.
+
 [^41]: Note the *Shulchan Aruch* (*Orach Chayim* 313:4), which states that even if the entrance has a doorstep, since it is uncommon to use a door made of a single piece of wood, such a door may not be used on the Sabbath. Moreover, the *Shulchan Aruch* continues, this prohibition applies even when the door has a hinge.  
     The *Magen Avraham* 313:8 and other later authorities, however, maintain that one may rely on the Rambam's opinion if a door is used frequently as an entrance and an exit. This is surely true in the present age, when it is very common for doors to be made from a single piece of wood.
+
 [^42]: *Eruvin* 10:10 relates that there was a synagogue in Tiberias that had such a bolt. Its congregants refrained from using it on the Sabbath until Rabban Gamliel and the elders ruled that using it was permitted.  
     In this instance as well, the *Shulchan Aruch* (*loc. cit*:1) is more stringent and requires the bolt to be tied to the door even when it has a bulb at the end. (See the following halachah and notes.)
+
 [^43]: For the fact that it is tied to the door clearly indicates that it has been set aside for a purpose.
+
 [^44]: This refers to an instance where the bolt is attached to a rope that is, in turn, attached to the door. If the bolt is removed by detaching the rope from the door and carrying the bolt and the rope together, the presence of the rope serves as an indication that the bolt has been set aside to be used for a significant purpose. Therefore, there is no prohibition involved. If, as in the following clause, the bolt is detached from the rope, there is nothing to indicate that it is a useful article. Hence, it is forbidden (*Kessef Mishneh*).  
     The Ra'avad objects to the Rambam's interpretation of the Hebrew ניטל באגדו. Instead, he offers a different explanation: that the rope with which the beam is attached to the door with a knot that is strong enough to hold the beam when it is removed. This is the interpretation that Rav Yosef Karo follows in the *Shulchan Aruch* (*Orach Chayim* 313:1).
+
 [^45]: It was permitted to use such a bolt in the Temple, because none of the Rabbinic prohibitions in the category of *sh'vut* were in effect there. Outside of the Temple, using such a bolt was prohibited for the reasons mentioned by the Rambam (or according to others, because this resembles building, *Eruvin* [[Eruvin 102#102a|102a]]).
+
 [^46]: Rav Moshe Cohen of Lunil and others question the distinction between this halachah and Chapter 22, Halachah 30, which mentions a piece of wood that is used to close a window. The *Maggid Mishneh* explains that in that instance, leniency was granted only when the piece of wood is prepared for that purpose. In the present halachah, by contrast, nothing has been done to indicate that the bolt is set aside for purposeful use.  
     It must be emphasized that the *Shulchan Aruch* (*loc. cit.*) takes a different perspective and maintains that the restrictions were instituted lest it appear that one is building when using such a door. According to this perspective, unless the conditions mentioned above are met, it is forbidden to use this bolt, even if it was prepared for this purpose before the Sabbath.
+
 [^47]: This applies even when one has not lit this candelabrum at the commencement of the particular Sabbath in question. Had the candelabrum been lit at that time, carrying it would have been forbidden, as reflected by Chapter 25, Halachah 23.
+
 [^48]: See Chapter 22, Halachah 26.
+
 [^49]: The *Kessef Mishneh* questions the phrase "because of its weight," for seemingly *Shabbat* [[Shabbat 46#46a|46a]] considers that as another rationale for stringency, not at all dependent on the fact that the candelabrum has grooves. Indeed, these rationales offered by two separate sages seem to be mutually exclusive. He and other commentators attempt to resolve this difficulty. Rav Kapach notes that many authoritative manuscripts of the *Mishneh Torah* omit this problematic phrase.
+
 [^50]: In the *Shulchan Aruch* (*Orach Chayim* 279:7), Rav Yosef Karo follows the reasoning he mentions in his *Kessef Mishneh* and forbids the use of all candelabra with grooves, whether large or small.
+
 [^51]: A new shoe will most likely be firmly fixed on the shoemaker's block, and removing it would necessitate moving the block. This is, nevertheless, permitted, because the shoemaker's block is considered to be a utensil that is used for a forbidden intent. Accordingly, it may be moved when one desires to use the space it takes up - in this instance, the space within the shoe where one puts one's foot [*Shulchan Aruch* (*Orach Chayim* 308:14)].
+
 [^52]: Rashi (*Shabbat* [[Shabbat 141#141a|141a]]) explains that putting clothes in a press is forbidden, because it appears to be an activity performed for the sake of the weekdays that follow, and not for sake of the Sabbath itself.
+
 [^53]: Rashi (*loc. cit.*) offers a different rationale for this prohibition: that setting up a professional press resembles building and opening it resembles the labor of demolishing. The *Shulchan Aruch* (*Orach Chayim* 302:4) quotes Rashi's view.
+
 [^54]: *Shabbat* [[Shabbat 49#49a|49a]],b mentions the use of such wool for the purpose of insulating food to keep it warm.
+
 [^55]: Note the *Shulchan Aruch* (*Orach Chayim* 259:1), which follows the ruling of Rabbenu Asher (in his gloss on *Shabbat* [[Shabbat 49#49a|49a]]), who permits picking up such rolls if they are used as insulation, unless they are explicitly set aside for sale. Although these rolls are generally used for spinning wool, since they are not very valuable, the fact that they are employed for the purpose of insulation is sufficient for them to be considered to have been set aside for that purpose (*Mishnah Berurah* 259:6).
+
 [^56]: Note the *Magen Avraham* 259:2, which states that they must be set aside to be used for this purpose - e.g., insulation - forever. It is not sufficient that one decide to use them for this purpose on merely one Sabbath.
+
 [^57]: These are likely to be used as mats to sit on (*Shabbat, loc. cit.*).
+
 [^58]: The Ramah (*Orach Chayim* 308:25) mentions an opinion that states that this leniency applies only to cow hides, but not to sheep hides. The later authorities, however, do not accept this view (*Mishnah Berurah* 308:107).
+
 [^59]: It would appear that the Rambam's intent is that although these repulsive entities should be forbidden to be removed since they are not כלים, it is permitted to remove them because of the discomfort their presence causes.
+
 [^60]: I.e., this term is used as an idiom to describe all repulsive entities.
+
 [^61]: Note Chapter 11, Halachah 4, for a more specific definition of the Hebrew wording used.
+
 [^62]: The Ra'avad accepts the Rambam's ruling only when the warming-pan has coals that had turned to ash before the commencement of the Sabbath. The Ra'avad offers a different explanation of the leniency, stating that it is granted because the warming-pan is the base for a permitted article (the ash that existed before the commencement of the Sabbath) and a forbidden article (the remainder of the ash and the chips of wood). The *Shulchan Aruch* (*Orach Chayim* 310:8) quotes the Ra'avad's interpretation.
+
 [^63]: Our translation is based on the *Shulchan Aruch* (*Orach Chayim* 308:36).
+
 [^64]: Although the oil had not been separated before the commencement of the Sabbath, one is allowed to partake of it on the Sabbath. As mentioned previously, the Rambam follows the view of Rabbi Shimon (*Shabbat* [[Shabbat 19#19b|19b]]) who permits the use of *nolad* (objects that come into existence on the Sabbath).
+
 [^65]: In contrast to utensils that are forbidden in this instance, as mentioned in Chapter 25, Halachah 9.
+
 [^66]: See, however, the following halachah.
+
 [^67]: As examples of this principle, the *Shulchan Aruch* (*Orach Chayim* 310:2) states that one may pick up seeds from the ground which fell before the Sabbath that have not become rooted or eggs that were laid before the Sabbath from beneath a chicken. (See also *Hilchot Sh'vitat Yom Tov* 1:18.)
+
 [^68]: I.e., fresh grapes and figs and dried grapes and figs are desirable foods. In the process by which these fruits dry out, they pass through a stage when they become repulsive.
+
 [^69]: The *Shulchan Aruch* (*ibid.*) states that there are two drawbacks to such fruit: a) it is unfit to be eaten; b) the owners intentionally set it aside, not to be used until it became dried. Therefore, the restriction is placed upon it.
+
 [^70]: See *Hilchot Rotzeach* 11:9, which explains that partaking of such foods is forbidden, because it is possible that a poisonous snake deposited venom there.
+
 [^71]: See Chapter 19, Halachah 14.
+
 [^72]: See Chapter 5, Halachah 12 and Chapter 25, Halachah 10.
+
 [^73]: From the use of the word "begin," the *Beis Yosef (Orach Chayim* 331) derives the following ruling: If one begins emptying the storehouse before the commencement of the Sabbath, one may complete the removal of its contents on the Sabbath, even if one's purpose is not directly associated with a mitzvah.  
     The *Turei Zahav* 331:1 objects to this leniency, however, for this appears to be unnecessary work that should not be permitted on the Sabbath.
+
 [^74]: In his Commentary on the Mishnah (*Shabbat* 18:1, based on *Shabbat* [[Shabbat 127#127a|127a]]), the Rambam explains the reason that this restriction was instituted. It is very likely that there are grooves or cavities in the floor of a storeroom, and a person would be tempted to level the floor if he were allowed to empty the entire room. The *Turei Zahav* 333:1 explains that the prohibition was instituted to prevent a person from exerting himself excessively.  
     Significantly, *Shulchan Aruch HaRav* 331:1 quotes both rationales, indicating that they are not mutually exclusive.
+
 [^75]: In his Commentary on the Mishnah (*loc. cit.*), the Rambam explains that this number is not intended as a limitation. Indeed, every person may take out as many containers as he needs at one time.  
     It must be emphasized that this interpretation is dependent on a version of *Shabbat* [[Shabbat 126#126b|126b]]-127a that is not accepted by many other authorities, including the *Shulchan Aruch* (*Orach Chayim* 333:1).
+
 [^76]: I.e., a single individual is not allowed to clear out the entire storehouse. Instead, each individual - or a substitute for him - must clear out the area he needs. Although one person may remove as many containers as he can carry at one time, he may not, however, return to take more (Rambam's Commentary on the Mishnah, *loc. cit.*). See also the *Shulchan Aruch* (*Orach Chayim* 333:3).
+
 [^77]: See Chapter 21, Halachah 2.
+
 [^78]: See the notes on Chapter 3, Halachah 12, for a more specific definition of the type of bean referred to.
+
 [^79]: Because they are very bitter, they are not eaten at all (*Maggid Mishneh*).
+
 [^80]: A shrub whose roots penetrate deeply into the ground.
+
 [^81]: The *Maggid Mishneh* objects to the mention of mustard seed. Although it is used as food for doves, it is also commonly used to prepare food for humans. There is a general principle that whenever a substance is considered to be food both for animals and for humans, it is considered to be set aside for use for humans and not for animals. The *Kessef Mishneh*, however, justifies the Rambam's ruling.
+
 [^82]: A person should throw the shells - and similarly, any other waste left after eating - over his shoulder so that he will not create a repulsive situation on the table before him. For, as mentioned above (Halachah 13), at the outset creating a repulsive situation is forbidden (*Maggid Mishneh*). Significantly, this point is not emphasized by the later authorities.
+
 [^83]: Or dogs (*Shulchan Aruch, Orach Chayim* 308:31).
+
 [^84]: According to most authorities, although meat must be salted to remove the blood before cooking, there is no prohibition against eating uncooked unsalted meat. (See *Shulchan Aruch*, *Yoreh De'ah* 67:2.) Nevertheless, according to the Rambam (*Hilchot Ma'achalot Asurot* 6:12), it is necessary to salt raw meat before one eats it. From the juxtaposition of these two rulings, Rav Kapach derives that, according to the Rambam, it is permitted to salt meat on the Sabbath to remove its blood.
+
 [^85]: For it is unfit for both human and animal consumption.
+
 [^86]: Rav Kapach explains that the intent is not that the broken glass is actually considered to be food by the ostriches. Instead, the intent is that ostriches have strong digestive organs, which will not be torn by the glass. As such, the glass will assist them in the process of digestion, because it will help shred the other food that they have consumed.
+
 [^87]: A wild vegetable of the onion family (Rambam's Commentary on the Mishnah, *Shabbat* 18:1).
+
 [^88]: Nevertheless, a person who owns a species of animal that is rarely found may carry whatever food is necessary for it, even though it is not usually consumed by other animals (*Shulchan Aruch, Orach Chayim* 308:29).
+
 [^89]: Preparation is necessary, because we assume that these substances would ordinarily be used for kindling (*Maggid Mishneh*). Note the *Magen Avraham* 308:53, which states that straw is usually employed at present as a mattress or for animal fodder. Hence, it is permitted to be carried even though it was not prepared before the Sabbath.
+
 [^90]: At times these substances are used for kindling, at times for animal fodder, and at times for other purposes that serve humans.
+
 [^91]: Since these substances are less likely to be used for kindling, everything depends on the person's intent when he brought them home. Note the *Magen Avraham* 321:1, which states that if one brings them home without any specific intent, they are considered to be animal fodder. (See also Chapter 21, Halachah 19.)
+
 [^92]: This is forbidden, lest one follow the same practice in an earthen feeding trough.
+
 [^93]: Note the *Mishneh Berurah* 324:41, which gives another reason for the prohibition against shifting food to the side: Some of the straw has surely become repulsive and is no longer fit to be carried.
+
 [^94]: For an ox will not hesitate to eat food from before a donkey.
+
 [^95]: Because oxen chew their cud.
+
 [^96]: The *Mishnah Berurah* 324:37 emphasizes that the intent is that an animal of another species will not eat food that is soiled with the spittle of an ox. One ox will, however, eat food that is soiled with the spittle of another ox.
+
 [^97]: The *Maggid Mishneh* explains that, in contrast to a meat hook, a fish hook is not a proper utensil and will be discarded after use. Hence, it may not be carried on the Sabbath. Rav Kapach objects to this interpretation, noting that if this explanation were correct, it would have been more appropriate to state this halachah in Chapter 25, which differentiates between entities that are considered utensils and those that are not.  
     The *Shulchan Aruch* (*Orach Chayim* 310:1) states that it is permitted to carry a fish hook, because it is not considered too repulsive to move.
+
 [^98]: All the leniencies mentioned in this halachah are intended to inhibit the process of the corpse's decomposition.
+
 [^99]: Moving the pillow, and not the corpse, by hand. Although the corpse will also be moved, this is of no consequence.
+
 [^100]: If a corpse is covered by blankets or sheets, it is possible that they will serve as insulator and keep heat from diffusing, thus causing the corpse to decompose more quickly.
+
 [^101]: For this would involve moving a limb (Rashi, *Shabbat* [[Shabbat 151#151b|151b]]).
+
 [^102]: *Shulchan Aruch HaRav* 311:13 and the *Mishnah Berurah* 311:22 relate that, based on the *Zohar*, it has become customary to close a corpse's eyes and straighten its limbs on the Sabbath, for the failure to do so will lead to danger.
+
 [^103]: Note the *Shulchan Aruch* (*Orach Chayim* 311:4), which mentions an opinion that allows a corpse to be carried if it is dressed in the clothes it wore while it was alive. *Shulchan Aruch HaRav* 311:10 accepts this ruling; the *Mishnah Berurah* 311:16, by contrast, does not.
+
 [^104]: Thus, it is as if the corpse were merely a medium to enable one to carry the bread or the baby.
+
 [^105]: This refers to carrying a corpse within a private domain. (See also Halachah 23 and notes.)
+
 [^106]: If a baby or a loaf of bread is not available, the *Shulchan Aruch* (*Orach Chayim* 311:1) allows one to move a corpse by shifting it from one bed to another. The Ramah (*loc. cit.*:2) offers another alternative - to have a gentile carry the corpse.
+
 [^107]: Spreading the mats constitutes the construction of a temporary tent. This is permitted only because of the discomfort suffered by a living person, and not for the sake of preserving the corpse. Therefore, it is necessary to undertake all the stages in this process, so that it will not be obvious that this is being done for the sake of the corpse (*Kessef Mishneh; Shulchan Aruch HaRav* 311:11; *Mishnah Berurah* 311:19).
+
 [^108]: Or will shortly reach that state (Ramah, *Orach Chayim* 311:2).
+
 [^109]: The *Maggid Mishneh* notes that the Rambam does not mention carrying the corpse with a baby or a loaf of bread on it, as in Halachah 21. The commentaries differ on whether this is necessary. The Rashba maintains that it is desirable to place another article on the corpse, so that one will be carrying the corpse for the sake of a permitted article.  
     The Ramban, by contrast, explains that since one is carrying the corpse into a *carmelit* and violating a Rabbinic prohibition associated with a forbidden labor, it is preferable to minimize the violation of that prohibition by not carrying another article. Although the prohibition against carrying an entity (the corpse) that is *muktzeh* will be violated in a more serious way, it is preferable to violate that prohibition (which is associated with a *sh'vut*) than the prohibition against carrying into a *carmelit*, which has its source in the forbidden labor of transferring articles.  
     Although the Rashba's view is accepted by the later authorities (*Shulchan Aruch HaRav* 311:2; *Mishnah Berurah* 311:9), one may rely on the Ramban's view if there is not another useful article available, and carry the corpse out without anything else.
+
 [^110]: The corpse may be carried into a *carmelit*, but not into a public domain (*Shulchan Aruch HaRav* 311:5; *Mishnah Berurah* 311:10).  
     The *Tur* allows carrying a corpse even into the public domain; since one does not intend to use the corpse, carrying it is a מלאכה שאינה צריכה לגופה, and the prohibition against performing such an activity is waived in this instance. The Rambam would surely not accept this premise, for he maintains that one is liable according to the Torah for performing a מלאכה שאינה צריכה לגופה. Even the later Ashkenazic authorities who accept the basic principle of the *Tur* do not accept this leniency.
+
 [^111]: See *Hilchot Mamrim* 1:2, which interprets this as a commandment prohibiting us from transgressing a directive instituted by the Rabbis. All the Rabbinic commandments have their source in this mitzvah from the Torah. See also *Hilchot Kilayim* 10:29.
+
 [^112]: The commentaries emphasize that this ruling indicates that according to the Rambam, the main source for leniency is the regard for the honor of the living, that they are forced to remain in a house permeated by the odor of a decaying corpse.  
     [It is possible to explain that according to the view of the Ramah cited in Note 106, the honor of the corpse is also considered, and removing it is allowed even if the people in the home have an alternative place to spend the Sabbath (*Mishnah Berurah* 311:7)].

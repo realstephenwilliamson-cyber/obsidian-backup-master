@@ -64,22 +64,35 @@ One need not pay attention to the seconds at all, neither with regard to the pos
 **11.** Since you are able to calculate the location of the sun on any desired date, you will be able to calculate the true date of the equinox or solstice for any equinox or solstice you desire,[^14] whether for the equinoxes or solstices that will take place in the future, after the date we established as a starting point, or for the equinoxes or solstices that have taken place in previous years. ^13-11
 
 [^1]: As stated in Chapter 11, the true position of the sun refers to the position at which it is seen in the heavenly sphere. The difference between the sun's true position and its mean position stems from the fact that the Earth is not located at the exact center of the sun's orbit.
+
 [^2]: The method through which both these figures can be calculated is stated in the previous chapter.
+
 [^3]: I.e., the path the sun has traveled in its orbit from the apogee until it reached its present position.
+
 [^4]: The course of the sun is an arc extending from the mean position of the sun to its apogee. The angular distance of the course is derived by drawing straight lines from the mean position and the apogee to the center of the sun's orbit.  
     If the apogee of the sun were located at O°, the angular distance of the course and the sun's mean position would be the same. Since, however, the apogee also moves within the heavenly sphere, there is a variance between these two figures.
+
 [^5]: Before the sun reaches the perigee, the point in its orbit that is closest to the Earth, its true position will always be less than its mean position. Hence, the angle referred to as the angle [determined by the] course must be subtracted from its mean position to arrive at the true position.
+
 [^6]: The angle [determined by the] course refers to the extent of the deviation between the position of the sun that can be observed in the sky and its mean position. The manner of determining this figure is described in Halachah 4.  
     To express these concepts in geometric terms: The sun's true position represents the angle at which it can be found in the sphere of the heavens of which the Earth is the center (c). When the angle that is called the angle [determined by the] course (a) is added to this angle, the sum is equivalent to the angle of the course of the sun (b).  
     How is this figure derived? Refer to the accompanying diagram: The sum of the angles of the triangle a, c, and d equals 180°, and the angles b and d equal 180°. Hence, b equals c a.  
     Thus, the true position of the sun is equivalent to its mean position minus the figure referred to as the angle [determined by the] course. Thus, when the course is less than 180 degrees, the sun's true position is always a small amount less than its mean position.
+
 [^7]: When the sun passes the perigee, its true position will always be greater than its mean position. Hence, the angle referred to as the angle [determined by the] course must be added to its mean position to arrive at the true position.  
     Why is this so? Refer to the following diagram: d refers to the true position of the sun, b to its mean position and a to the angle referred to as the angle [determined by the] course. E to its true position minus 180° and f refers to its mean position minus 180°. a + f + c equals 180. E + c equals 180. Thus, a + f equals e. Hence, the mean position plus the angle [determined by the] course will be equal to the true position.
+
 [^8]: I.e., when the sun is at the apogee or perigee, there will be one straight line between the Earth (the center of the heavenly sphere), the center of the sun's orbit, and the actual position of the sun.
+
 [^9]: The largest angle determined by the course is when the angular distance of the course itself is 96 degrees - i.e., shortly after the mean position of the sun passes directly above the center of its orbit. After this point is reached, the angle begins to decrease.  
     Significantly, the rate of the decrease does not correspond exactly to the rate of increase as the angles approach 96 degrees. The reason for this difference is that, as stated above, the position of the Earth is not at the center of the sun's orbit. Hence, at 100 and 80 degrees, although the mean position of the sun has moved an equal distance from the center of its orbit, it has moved different distances from the Earth.
+
 [^10]: Thus, our computations will be based on the negative of the angle measured previously. To put the Rambam's statements in layman's terms: The angle formed will be the same regardless of whether the mean position of the sun is measured in an increase from O° or a decrease from 360°.
+
 [^11]: Although the correspondence between the angular length of the course and the angle [determined by the] course is not uniform over a large span, within a span of ten degrees the difference between the actual figure and the approximation arrived at by the Rambam is not of consequence.
+
 [^12]: Chapter 12, Halachah 2.
+
 [^13]: The commentaries have questioned the Rambam's use of the word "approximately." Our bracketed additions are made in that light.
+
 [^14]: The calculation of the equinoxes and solstices is significant with regard to the determination of the calendar, as explained in Chapters 9 and 10. Since the vernal (spring) equinox takes place when, according to the sun's true motion, it enters the constellation of Aries, the date on which that takes place can be calculated for any particular year. Similarly, the summer solstice takes place when, according to the sun's true motion, it enters the constellation of Cancer, and that date can be calculated. Similar concepts apply regarding the autumnal equinox and the winter solstice.

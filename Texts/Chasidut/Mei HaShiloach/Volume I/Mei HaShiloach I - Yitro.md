@@ -102,29 +102,55 @@ All the hearts of Israel are called “My altar,” and this is “do not ascend
 **Torah:** [[Torah 17 - Yitro#^20-23|Exodus 20:23]]
 
 [^1]: *Amar* in Hebrew.
+
 [^2]: “*Amar*,” “he said,” occurs 595 times in the Scriptures, and in only three instances do we find it vocalized with the vowel *kamatz* under the *mem* instead of a *patach*. See *Bereshit* [[Torah 04 - Vayera#^18-17|18:17]], “and God said, shall I hide that which I do from Avraham,” and *Bereshit* [[Torah 04 - Vayera#^21-1|21:1]], “and God remembered Sarah as He said.” In the *Torat haNekudot*, where each vowel corresponds to a *sefirah*, the vowel *kamatz* corresponds to the *sefirah* of *keter*, or crown, the highest of the *sefirot*. It has to do with the surrounding light, beyond man’s comprehension. It is described in the liturgical poem “Kel Mistater” [“God, hidden in Himself,” incorporated in the liturgy of the third meal of Shabbat] as the “intellect hidden from all thought.” When connected to this, it signifies something that could be said but not discerned except by the intellect of Moshe Rabeynu. Also requiring further investigation is why the Rebbe chose to say “also to signify,” for surely there are seventy faces to the Torah, even for every vowel, but also in addition to what? Similarly, it says, “Yitro also did not understand,” meaning Yitro, Moshe and whoever else was present when he said this.
+
 [^3]: In Hebrew, the Chosen People translates as *Am Segula*. Alternatives are “The designated people,” designated to keep the Covenant, and “the treasured people” whom God treasures as they keep the Covenant.
+
 [^4]: The Holy Yehudi was contemporary of Reb Simcha Buenem, zts”l, who was in turn the author’s Rebbe, and for a while a disciple of the Seer of Lublin.
+
 [^5]: We cannot see the hidden treasures in the king’s storehouse, they are unseen and thus we cannot know their reasons. He places them there because they are valuable and precious, because the king loves them. A *segula* also refers to a ritual or action that brings God’s goodness, yet with no obvious connection to the good effected, like how smelling the wick of the *havdalla* candle after the *havdalla* ceremony is believed to save one from anger, or a woman biting off the end of the *etrog* (citron) with the stem (*pitom*) after Succot is a *segula* for her to become pregnant. There are countless other *segulot*, another reason why the Jewish People are called, “*Am Segula*.”! The “Tiferret Yosef,” Mordechai Yosef Elazar, great-grandson of the Isbitser, in the first explanation of Shevuot, explains it in this way (first selection on Shevuot, p. 92). “And you shall be My most beloved treasure [*segula*] out of all the peoples,” meaning that then God will show Israel that the love of God for Israel is a kind of *segula*. This is as Rabeynu Moreynu ZL”HH explained in the *Mei HaShiloach*, that *segula* is something without any discernible meaning, like the treasure house of a king, where no man knows how (immensely) precious the treasure really is. In this way God shows Israel that His love for Israel is without any meaning, and His love is above all order of Divine services.
+
 [^6]: This is because the verse just mentioned “peoples”: “you shall be My treasure from all the peoples, for all the earth is Mine.”
+
 [^7]: In the days of the Mishna, and still today in many Yemenite congregations, at the public Torah reading, each verse is followed with the translation of Onkles into Aramaic, which was then the spoken language of the day.
+
 [^8]: If God Himself is answering Moshe, then obviously the voice of the Creator and power of all the worlds should take precedence.
+
 [^9]: For God, “the translator,” would never raise His voice, meaning illuminate His power into, anyone more than He did for Moshe, “the reader.”
+
 [^10]: *Caf* added before a word means “like.”
+
 [^11]: A situation that would require the suspension of that law, such as how we suspend the laws of Shabbat in order to save a life.
+
 [^12]: Re: “New Age,” or more properly, ancient; idolatry of earth forces.
+
 [^13]: Meaning also taking a subordinate force in the world as the prime force.
+
 [^14]: “Before me,” is literally “at my face,” and the word for “superficial” is literally “to the face.”
+
 [^15]: The land of idolatry.
+
 [^16]: In the first redemption God first made himself known to us as a nation.
+
 [^17]: As was said, this corresponds to *Gevurah* (strength), and at Mount Sinai it is said that, “Moshe heard from the mouth of Gevurah.”
+
 [^18]: The *succa* is likened to the clouds of glory that followed us in the desert, an awesome sight to witness that inspires the fear of God, and so too the name “E-lohim” teaches of God’s attribute of judgment that is the root of this fear.
+
 [^19]: Rosh HaShanah is the beginning of the year, and he verse in the Psalms reads, “the beginning of wisdom is the fear of God.”
+
 [^20]: The word used is *hirhur*, which is more vague than a thought. It is here understood as a gleam that sprouts from the subconscious, as opposed to a tangible thought.
+
 [^21]: The name of God *YHVH* has the same letters as “being”—*HAVAYE* in Hebrew.
+
 [^22]: This is puzzling for what does it matter if it was his original will to sin or if he was led astray. Yet you might say the fault is theirs and not his. His will was high jacked.
+
 [^23]: This is the rendering of the Aramaic translation of [[Isaiah 06#^6-3|Yesahya 6:3]], “and they called one to another.”
+
 [^24]: Like a sheep, he is shorn from all his coarseness and refined into a vessel for Torah and *Kedusha*.
+
 [^25]: This implies stages of a process. First there is renouncing the vanities and pleasures of the world, and adhering to the details of the Divine law. Second, one must guard himself in his adherence from possible sin. And third, he must take care that even though he sees himself as a vessel for the Torah from the outside, he may well harbor hidden deficiencies that may prevent him from his refinement.
+
 [^26]: The Hebrew word for mention, *zachar*, is similar to the word for pure, *zach*, hence refinement.
+
 [^27]: After twenty-four years Mordechai descended in rank among the sages.

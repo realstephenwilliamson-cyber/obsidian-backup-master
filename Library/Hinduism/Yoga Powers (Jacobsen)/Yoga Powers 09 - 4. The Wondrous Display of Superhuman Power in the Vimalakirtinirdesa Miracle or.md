@@ -21,7 +21,9 @@ Chapter four
 David V. Fiordalis When looking for a scripture filled with wondrous displays of superhuman power, it is difficult to find a better example in Mahāyāna Buddhist literature than the *Vimalakīrtinirdeśa*.[^1] Wonders appear throughout the work, adding color, drama, and even a bit of humor to a work that also possesses sophisticated dialectical argumentation characteristic of the Mahāyāna school of Buddhist philosophy known as Madhyamaka. Nor are wonders superfluous to the main doctrinal themes and plotline of the *sūtra*. As Edward Hamlin says, “the success of a doctrinal argument hinges on the success of a poetics, and vice versa.”[^2] The literary dimensions of the work, especially its wonder-working episodes, combine with its dialectical arguments to support a specific set of doctrinal positions.[^3] But what doctrinal arguments do 
 
 [^1]: Scholars have previously recognized the significance of wondrous displays of superhuman power in this *sūtra*. See Luis Oscar Gómez, “Selected Verses from the Gaṇḍavyūha: Text, Critical Apparatus and Translation” (Ph.D. Dissertation: Yale University, 1967); Étienne Lamotte, trans., *L’enseignment de Vimalakirti* (Louvain: Institut Orientaliste de l’Université Catholique de Louvain, 1987 \[1962\]); Robert Thurman, *The Holy Teaching of Vimalakīrti: A Mahāyāna Scripture* (University Park: Pennsylvania State University Press, 1976); Edward Hamlin, “Magical *Upāya* in the *Vimalakīrtinirdeśa-sūtra*,” *Journal of the International Association of Buddhist Studies* 11, no. 1 (1988): 89-121; and Christine Kontler, “Note sur le prodige comme manifestation de l’inconceivable dans le *Vimalakīrtinirdeśa*,” *Bulletin d’Études Indienne* 6 (1988): 329-341.
+
 [^2]: Hamlin, “Magical *Upāya* in the *Vimalakīrtinirdeśa-sūtra*,” 89.
+
 [^3]: More specifically, the *Vimalakīrtinirdeśa* has been seen as combining elements of the two general strains of Mahāyāna Buddhist literature and philosophy. Robert Thurman, for instance, calls the *Vimalakīrtinirdeśa* an example of the “effective complementarity of the supposedly ‘positive approach’ of the *Avataṃsaka* and the ‘negative approach’ of the *Prajñāpāramitā*.” See Thurman, *The Holy Teaching of Vimalakīrti*, p. 9. Luis Gómez gives an alternate view that the *Vimalakīrtinirdeśa* is similar to other Mahāyāna *sūtra*s, such as the *Gaṇḍavyūha* and the *Śuraṃgama* *samādhi*, in that “the proliferation of powers and transformations seems to contradict or, at least, eclipse the doctrines expounded in the sūtra.” See Gómez, *Selected Verses from the Gaṇḍavyūha*, xci.
 
 *[p. 98]* ^pg111
@@ -33,7 +35,9 @@ The specific technical terminology and narrative imagery used to connect the doc
 Miracles and Marvels in Comparative Perspective Although used interchangeably in texts of the early Middle Ages, by the thirteenth century medieval Christian theologians had begun distinguishing
 
 [^4]: This task has been made easier by the discovery and publication in 2004 of the first complete Sanskrit manuscript of the *Vimalakīrtinirdeśa* by scholars at Taishō University in Japan. See Study Group on Buddhist Literature 2004 and 2006.
+
 [^5]: Hamlin, ‘Magical *Upāya* in the *Vimalakīrtinirdeśa-sūtra*, p. 101.
+
 [^6]: For book length analyses of the concept of *upāya*, see Michael Pye, *Skilfull Means: A Concept in Mahayana Buddhism*, 2nd ed. (London and New York: Routledge, 2003) and John W. Schroeder, *Skillful Means: The Heart of Buddhist Compassion* (Honolulu: University of Hawaii Press, 2001).
 
 *[p. 99]* ^pg112
@@ -43,9 +47,13 @@ between ‘miracles’ (*miracula*) and ‘marvels’ (*mirabilia*).[^7] The dis
 When we consider the case of classical South Asian religions, Indian Buddhism shares with other South Asian religious traditions the assumption that it is possible to acquire diverse superhuman powers through a variety of means, including the practice of meditation and use of magical charms, mantras, spells, and amulets. At the same time, different Buddhists at different times seem to have held differing views on the efficacy and propriety of displaying superhuman powers. The value of displaying them as a means of generating faith (*prasāda*) is acknowledged or demonstrated in sources from the *Avadānaśataka* to the *Abhidharmakośabhāṣya*, while other texts downplay the efficacy of such displays and even criticize them.[^11] In doing so, such texts often attempt to distinguish Buddhism from other contemporaneous religious traditions by contrasting the ‘miracles’ performed by its own 
 
 [^7]: Caroline Walker Bynum, *Metamorphosis and Identity* (New York: Zone Books, 2001), 49.
+
 [^8]: Thomas Aquinas, *On the Power of God*, 3 vols. (London: Burns Oates and Washbourne, 1933) vol. 2, 162-164. Quoted in Bynum, *Metamorphosis and Identity*, 41.
+
 [^9]: Bynum, *Metamorphosis and Identity*, p. 91, 108-109. See also Robert Bartlett, *The Natural and the Supernatural in the Middle Ages* (Cambridge: Cambridge University Press, 2008), and Valerie Flint, *The Rise of Magic in Early Medieval Europe* (Princeton: Princeton University Press, 1994).
+
 [^10]: Bynum, *Metamorphosis and Identity*, 41.
+
 [^11]: For a more detailed discussion, see my article, “Miracles in Indian Buddhist Narrative and Doctrine,” *Journal of the International Association of Buddhist Studies* 33 (2011).
 
 *[p. 100]* ^pg113
@@ -57,6 +65,7 @@ The best known example of the skepticism in South Asian Buddhist literature rega
 The *Kevaṭṭa-sutta* appears to rely upon an ontological distinction between different types of wonders similar to what one finds in medieval Christian discourse. Rather than arguing that the Buddha and his followers have superhuman powers acquired through true meditative mastery, however, the scripture makes a general critique of wonders. It claims that there are three types of wonder, wondrous displays of superhuman power, telepathic ability, and teaching the Dharma, and that the real ‘miracle’ occurs when the Buddha and his monks teach the Dharma. Thus, Luis Gómez may be accurate in characterizing the *Kevaṭṭa-sutta* as ‘rationalistic’ in at least two senses.[^13] First, teaching the Dharma is valued over displays of superhuman power and telepathy, and second, the wondrous is embedded in a scholastic ratiocination on the various types of wonder and the different sources of 
 
 [^12]: *D* i.211ff. Pāli texts are cited using the standard abbreviations of the Pali Text Society. For an English translation, see Maurice Walshe, trans. *The Long Discourses of the Buddha* (Boston: Wisdom Publications, 1995). The other passage most commonly cited in this context is the monastic rule prohibiting monks from displaying their superhuman powers in front of laypeople, which occurs at *V* ii.112ff. For a fuller discussion, see Fiordalis 2011.
+
 [^13]: Luis Oscar. Gómez, “The Bodhisattva as Wonder-worker,” in *Prajñāpāramitā and Related Systems*, edited by Lewis Lancaster, 221-262 (Berkeley: University of California, 1977), 221.
 
 *[p. 101]* ^pg114
@@ -68,6 +77,7 @@ It would be misleading simply to contrast the apparent devaluation of the wondro
 One ought not to assume that miracles in Mahāyāna *sūtra*s necessarily postdate those found in mainstream literature. It may be more accurate to say that mainstream and Mahāyāna Buddhist miracle stories (and non-Buddhist stories, as well) grew alongside one another and mutually influenced one other over the centuries. This stands to reason if scholars are correct that narrative versions of the miracles at 
 
 [^14]: By the same token, one can also find skepticism about superhuman powers and their display in Mahāyāna literature, most specifically in the Chan/Zen tradition in East Asia. For a discussion of some of these criticisms, see Gómez, “The Bodhisattva as Wonder-worker,” and Carl Bielefeldt, “Disarming the Superpowers: The *abhijñā* in Eisai and Dōgen.” In *Dōgen zenji kenkyū ronshū*, edited by Daihonzan Eiheiji Daionki Kyoku, 1018-1046 (Fukui-ken: Eiheiji, 2002).
+
 [^15]: These stories are found in numerous literary sources in Sanskrit and Pāli, as well as in many sources preserved in Chinese translation. Perhaps the best known versions of these stories are found in the *Dhammapada* commentary (*DhA* iii.199- 230) and the *Divyāvadāna* (Cowell and Neil 1970, pp. 143-166. English translations of these versions are available in Eugene W. Burlinghame, trans. *Buddhist Legends:* *translated from the original Pali text of the Dhammapada commentary*. 3 vols. (Cambridge: Harvard University Press, 1921) and Andy Rotman, *Divine Stories: Part I* (Boston: Wisdom Publications, 2008). These miracles are also depicted in Buddhist art (on bas-reliefs at Bharhut and Sanchi) as early as the 1st century bce. For discussions in English of the art historical record, see Ju-hyung Rhi, *Gandharan Images of the ‘Sravasti Miracle’: An Iconographic Reassessment*. Ph.D. Dissertation: University of California Berkeley, 1991 and Robert L. Brown, “The Śrāvastī Miracles in the Art of India and Dvaravati,” *Archives of Asian Art* 37 (1984): 79-95.
 
 *[p. 102]* ^pg115
@@ -77,8 +87,11 @@ One ought not to assume that miracles in Mahāyāna *sūtra*s necessarily postda
 Thus, the *Vimalakīrtinirdeśa* falls within a tradition of Buddhist miracle stories featuring wondrous displays of superhuman powers. Yet, a preeminent virtue of the *Vimalakīrtinirdeśa* is its artful combination of doctrinal argument and miracles or marvels, a combination that becomes noteworthy when seen in light of the broader tension between displays of superhuman power and teaching the Dharma, as well as between superhuman power and liberating knowledge as dual constituents of Buddhist awakening.
 
 [^16]: See Peter Skilling, “*Dharma, Dhāranī, Abhidharma, Avadāna*: What was Taught in Trayastriṃśa?” *Annual Report of the International Research Institute for Advanced Buddhology at Soka University* 11 (2008): 37-60, p. 42, and John Strong, “Miracles, Mango Trees, and Ladders from Heaven: Reflections on the Tale of Prince Kāla at Śrāvastī and the Buddha’s Descent from Trayastriṃśa,” unpublished presentation in Kyoto, Japan. February 26, 2009, pp. 2-3, n. 4.
+
 [^17]: The earliest extant Chinese translation of the *Vimalakīrtinirdeśa* was made by Zhi Qian in 222-229. Also attributed to Zhi Qian are the shorter *Prajñāpāramitā-sūtra* in 8,000 lines, and an early translation of the *Avataṃsaka-sūtra*. See Lamotte, trans. *L’enseignment de Vimalakirti*, p. 3; Jan Nattier, *A Guide to the Earliest Chinese Buddhist Translations* (Tokyo: International Research Institute for Advanced Buddhology, 2008), 136-145.
+
 [^18]: E. B., Cowell, and Robert A. Neil, eds. *The Divyāvadāna: A Collection of Early Buddhist Legends* (Amsterdam: Philo and Oriental Presses, 1970 \[1866\]), 162.
+
 [^19]: As the Buddha stands on the summit of Mt. Meru, surveying many thousands of worlds, “gods looked upon men, and men looked upon gods; in all the assembly, thirty-six leagues in circumference, all that saw the glory (Pāli: *sirī*; Sanskrit: *śrī*) of the Buddha wished \[to achieve\] the state of a Buddha.” (*DhA* iii.225.)
 
 *[p. 103]* ^pg116
@@ -90,7 +103,9 @@ Through a series of semantic equivalencies and extensions, which may be traced p
 In the Pāli Canon, the standardized list of superhuman powers includes the power to multiply the body or produce replicas, fly, pass 
 
 [^20]: Swāmī Dwārikādās Śāstrī, ed., *The Abhidharmakośa & Bhāṣya of Ācārya Vasubandhu with Sphūtārtha Commentary of Ācārya Yaśomitra* (Varanasi: Bauddha Bharati, 1998), p. 870; La Vallée Poussin, trans. *L’Abhidharmakośa de Vasubandhu*. 6 vols (Paris: Paul Guethner, 1923-1931), vol. 5, p. 112.
+
 [^21]: For a discussion of the concept of *adhiṣṭhāna*, see Douglas Osto. *Power,* *Wealth, and Women in Indian Mahāyāna Buddhism* (New York and London: Routledge, 2008) 48ff.
+
 [^22]: Luis Gómez once suggested to me that this shift in terminology may be a subtle attempt to distinguish the superhuman powers of buddhas and bodhisattvas from those of disciples, but the *Vimalakīrtinirdeśa* uses them all more or less interchangeably.
 
 *[p. 104]* ^pg117
@@ -98,10 +113,15 @@ In the Pāli Canon, the standardized list of superhuman powers includes the powe
 through walls, sink into the ground, walk on water, appear and disappear, travel to the heavenly realms, and touch the sun and moon.[^23] To this list, the *Daśabhūmika-sūtra* adds the power to shoot water and fire from the body and the ability to cause earthquakes.[^24] In later Pāli scholastic literature, such as the *Paṭisambhidāmagga* and *Visuddhi* *magga*, these powers fall under the general category of superhuman powers of ‘control’ (*adhiṭṭhāna, adhiṣṭhāna*). They are also connected to powers of transformation (*vikubbana, vikurvaṇa*) and creating ‘mind-made bodies’ (*mano-maya-kāya*).[^25] The *Abhidharmakośa* classifies superhuman powers into powers of ‘motion’ (*gamana*) and ‘creation’ (*nirmāṇa*), while the *Bodhisattvabhūmi* divides them into ‘powers of transformation’ (*pāriṇāmikī ṛddhi*) and ‘powers of creation’ (*nairmāṇikī ṛddhi*).[^26] With the superhuman power of creation, the *Bodhisattvabhūmi* tells us, “one accomplishes, with a thought of creation (*nirmāṇacitta*), the construction of whatever one desires.” The text defines ‘a created thing’ as “in brief, something without a material cause” (*samāstaḥ nirvastukaṃ nirmāṇaṃ*).[^27] In these later scholastic texts, one can see expansion in the list of powers, reflecting their diversity in narrative literature, and an effort to bring this diversity under basic principles of organization.[^28] One may also recognize 
 
 [^23]: *D* i.77, 212; *D* ii.87, 213; *D* iii.112, 281; *M* i.34; *S* ii.121; *S* v.264, 303; *A* i.170, 255; *A* v.199, etc.
+
 [^24]: Kondō 1936, p. 56ff. These additions show the influence of the Buddha’s miracles, for the Buddha famously performed miracles in which his body flamed like fire and produced streams of water. Earthquakes also commonly accompany the Buddha’s miracles, such as his birth, awakening, death, and so on.
+
 [^25]: Arnold Taylor, ed. *Paṭisambhidāmagga*. 2 vols. (London: Pali Text Society, 1905-07), vol. 2, pp. 205ff; Henry Clarke Warren, and Dharmananda Kosambi, eds., *Visuddhimagga of Buddhaghosâcariya* (Cambridge: Harvard University Press, 1950), p. 314ff; Bhikkhu Ñā ṇamoli, trans. *Visuddhimagga: The Path of Purification*. 2nd ed. (Onalaska, WA: Pariyatti, 1999 \[1975\]), p. 369ff.
+
 [^26]: Śāstri ,*The Abhidharmakośa & Bhāṣya of Ācārya Vasubandhu*, p.869; La Vallée Poussin, *L’Abhidharmakośa de Vasubandhu*, vol. 5, pp. 112-113; Nalinaksha Dutt, ed. *Bodhisattvabhūmi* (Patna: K. P. Jayaswal Research Institute, 1978), p. 40ff.
+
 [^27]: Dutt, *Bodhisattvabhūmi*, 44.
+
 [^28]: For example, the list of powers of transformation in the *Bodhisattvabhūmi* includes the following: “Shaking \[the earth\], flaming, pervading \[a room or space\], displaying (*vidarśana*) \[marvelous sights\], altering the form (*anyathībhāvakaraṇa*) \[of things\], going and coming (*gamana-āgamana*), reducing and enlarging (*saṃkṣepa-prathana*) \[the size of objects\], \[causing\] the body to enter into all forms (*sarva-rūpa-kāya-praveśana*), approaching in a form that is similar (*sabhāgatā-upasaṃkrānti*) \[to those before whom one appears\], appearing and disappearing, effecting mastery (*vaśitva-karaṇa*) \[over beings\], dominating the superhuman powers of others (*pararddhi-abhibhavana*), conferring eloquence, conferring memory, conferring happiness, and giving off radiance.” See Dutt *Bodhisattvabhūmi*, p. 40ff.
 
 *[p. 105]* ^pg118
@@ -113,8 +133,11 @@ These various superhuman powers are also subsumed within broader classifications
 Although meditation is perhaps the primary method by which ascetics acquire such powers, it is not the only way acknowledged in Buddhist discussions. Powers acquired by meditation are contrasted with those caused by magical charms and amulets, called *vijjā/vidyā*. We saw this opposition utilized in the *Kevaṭṭa-sutta*, and Pāli scholastic manuals include such powers in their classifications of *iddhi*.[^32] As we have seen, superhuman powers caused by magic are generally less worthy of respect than those acquired through meditation. Yet, this is only one of a number of strategies that Buddhist texts use to contrast 
 
 [^29]: *M* i.22.
+
 [^30]: See Étienne Lamotte, *Le traité de la grande vertu de sagesse*, 5 vols. (Louvain: Bureaux du Muséon, 1944-1980), vol. 4, p. 1815.
+
 [^31]: See, for instance, the *Catuṣpariṣat-sūtra*, an independently circulating text bearing strong similarities with the *Mūlasarvāstivāda-vinaya*. See Ernst Waldschmidt, ed., *Das Catuṣpariṣatsūtra: Text in Sanskrit und Tibetisch, Verglichen mit dem Pāli nebst einer Übersetzung der Chinesischen Entsprechung im Vinaya der Mūlasarvāstivādins.* Teil III: Textbearbeitung: Vorgang 22-28. Abhandlungen Der Deutschen Akademie Der Wissenschaften Zu Berlin. Klasse für Sprachen, Literatur und Kunst. Jahrgang 1960 Nr. 1. (Berlin: Akademie-Verlag, 1962), and Ria Kloppenborg, trans., *The Sūtra on the Foundation of the Buddhist Order* (Leiden: E.J. Brill, 1973). See also Lamotte, *Le traité de la grande vertu de sagesse*, vol. 4, p. 1824.
+
 [^32]: Arnold Taylor, ed., *Paṭisambhidāmagga*, 2 vols. (London: Pali Text Society, 1905-07), vol. 2, pp. 205, 213; Warren and Kosambi, *Visuddhimagga of Buddha* *ghosâcariya*, p. 322.
 
 *[p. 106]* ^pg119
@@ -126,7 +149,9 @@ For instance, the Pāli commentary on the *Theragāthā* tells a story about a m
 We can understand something similar in the important contrast between ‘noble’ and ‘ignoble’ superhuman powers found in the *Sam* *pasādanīya-sutta* of the Pāli *Dīgha-nikāya*.[^34] There, the standardized canonical list of superhuman powers (multiplication, flight, etc.) is called ‘ignoble’ or ‘common’, literally ‘un-Aryan’ (*an-ariya*), because as the text explains, such powers are not free of “defilements” (Pāli: *āsava,* Sanskrit: *āśrava*) and “attachments” (*upadhi*). These un-Aryan superhuman powers are contrasted with ‘noble’ or Aryan (*ariya*) superhuman power, which refers to the equanimity achieved by becoming detached from seeing things as inherently attractive or repulsive.[^35] By redefining the concept of ‘superhuman power’ in this 
 
 [^33]: *ThgA* i.53-55. This story is briefly recounted and discussed in John Strong, “When Magical Flight Fails: A Study of Some Indian Legends About the Buddha and his Disciples.” Unpublished presentation at the University of Michigan. March 28, 2008.
+
 [^34]: *D* iii.99ff.
+
 [^35]: Here is part of the description of ‘noble superhuman power’ in the *Sam* *pasādanīya-sutta*: “Now, if a monk wishes, ‘May I abide perceiving as attractive what is repulsive,’ he dwells there perceiving \[it\] as attractive. If a monk wishes, ‘May I abide perceiving as repulsive what is attractive,’ he dwells there perceiving \[it\] as repulsive….If a monk wishes, ‘May I abide attentive and aware in equanimity having gotten rid of conceptions of what is repulsive, attractive or both,’ he so abides in equanimity attentive and aware.” (*D* iii.113) This description is quoted verbatim in the *Paṭisambhidāmagga*, as well as the Mahāyāna treatise known as the *Mahāprajñā* *pāramitāśāstra*. See Taylor, *Paṭisambhidāmagga*, vol. 2, p. 211, and Lamotte, *Le traité de la grande vertu de sagesse*, vol. 4, pp. 1819. In the latter, ‘noble superhuman power’ forms a third category of superhuman power alongside powers of motion and powers of creation. It is described as ‘sovereignty over the six objects of the senses’, which the Mahāyāna treatise claims is possessed in full only by the Buddha.
 
 *[p. 107]* ^pg120
@@ -136,7 +161,9 @@ way, the scripture not only emphasizes a particularly Buddhist attainment over o
 In these examples, one can discern a tension between superhuman power and liberating knowledge that is most clearly apparent in the standard classification of the six *abhijñās*, which include both superhuman powers and knowledge that the defilements leading to future rebirth have been destroyed. According to Buddhist path manuals, such as the *Śrāvakabhūmi* and the *Visuddhimagga*, the first five *abhijñās*, including the various superhuman powers, are classified as fruits of the ‘mundane path’ (*lokiyamagga*, *laukikamārga*), while the sixth *abhijñā*, the knowledge that the defilements have been destroyed, results from following the ‘transmundane path’ (*lokuttaramagga*, *lokottaramārga*).[^37] In brief, the transmundane path consists in perceiving ‘as they really are’ (*yathābhūtaṃ*) the four noble truths, namely suffering (*duḥkha*), its origin (*samudaya*), its cessation (*nirodha*) and the path (*mārga*) to its cessation.[^38] Thus, acquiring the sixth *abhijñā* is deemed to be tantamount to cessation and liberation 
 
 [^36]: Warren and Kosambi, *Visuddhimagga of Buddhaghosâcariya*, p. 321; Ñā ṇamoli, *Visuddhimagga: The Path of Purification,* 1999, 377. For the distinction between *ārya* and *pṛthagjana*, which does not quite parallel that between ‘Buddhist’ and ‘non-Buddhist’, see Peter Masefield, *Divine Revelation in Pali Buddhism* *(*Colombo: Sri Lanka Institute of Traditional Studies; London: Allen & Unwin, 1986), pp. 1-36. Technically speaking, the class of noble ones is comprised of those disciples who have achieved the four highest levels of the path, namely that of ‘stream-enterer’ (*sotāpanna*), ‘once-returner’ (*sakadāgāmin*), ‘non-returner’ (*anāgā* *min*) and *arhat*.
+
 [^37]: Florin Deleanu, *The Chapter on the Mundane Path (Laukikamārga) in the Śrāvakabhūmi: A Trilingual Edition (Sanskrit, Tibetan, Chinese), Annotated Translation, and Introductory Study*. 2 vols. (Tokyo: International Institute for Buddhist Studies, 2006), pp. 31-34; Warren and Kosambi, *Visuddhimagga of Buddhaghosâcariya*, p. 314; Ñā ṇamoli, *Visuddhimagga,* 1999: 369
+
 [^38]: Karunesha Shukla, ed. *Śrāvakabhūmi of Ācārya Asaṅga* (Patna, K. P. Jayaswal Research Institute, 1973), p. 36, 470ff. See also the synopsis in Deleanu, *The Chapter on the Mundane Path*, pp. 31-34.
 
 *[p. 108]* ^pg121
@@ -148,7 +175,9 @@ References in the *Vimalakīrtinirdeśa* to the sets of five and six *abhijñā*
 In contrast, Vimalakīrti claims that buddhas possess a divine eye with which they can see all the lands of the buddhas without leaving their state of meditative concentration or being affected by duality. A similar point is made later when Vimalakīrti asserts that the sphere of the bodhisattvas is the six *abhijñā*s, but without the destruction of the defilements.[^41] Finally, towards the end of the scripture, Vimalakīrti again says that the bodhisattva does not abide in the unconstructed 
 
 [^39]: Not all Buddhists seem to have agreed that the five mundane *abhijñās* are achievable by non-Buddhists. According to Vasumitra’s doxography of early Buddhist schools, the Sarvāstivādins and Vātsiputriyas held that non-Buddhist ascetics could acquire them, while the Mahīśāsakas, Dharmaguptakas and Haimavatas held that non-Buddhists could only achieve superhuman powers of flight and so on by means of magical charms and spells. See André Bareau, *Les Sectes Bouddhiques du Petit Véhicule*. Publications de l’École Française d’Extrême-Orient, vol. 38 (Paris: École Française d’Extrême-Orient, 1955), pp. 116, 183, 263. The *Śrāvakabhūmi* also holds that the five mundane *abhijñā*s are fruits of following the mundane path, but also includes an intriguing passage that contrasts Aryan and un-Aryan ‘superhuman powers’ in the following manner: “The distinction between noble and ignoble superhuman powers is this: whatever thing is transformed by means of noble superhuman powers, whatever magical creation is magically created, it becomes so in reality and not otherwise. And everything can perform its function. With ignoble superhuman powers, \[the transformed or created thing\] does not become so in reality, but rather it is said to be like the mere appearances of the magician.” In this passage, magic (or marvel) and miracle are clearly distinguished in ontological terms. See Karunesha Shukla, ed., *Śrāvakabhūmi of Ācārya Asaṅga* (Patna, K. P. Jayaswal Research Institute, 1973.) p. 468; Deleanu, *The Chapter on the Mundane Path*, pp. 352, 465.
+
 [^40]: Study Group of Buddhist Literature 2006, p. 29. Abbreviated *Vkn* below.
+
 [^41]: *Vkn*, p. 54.
 
 *[p. 109]* ^pg122
@@ -158,7 +187,9 @@ In contrast, Vimalakīrti claims that buddhas possess a divine eye with which th
 germane to our comparative, hermeneutical question about how Indian Buddhism conceptualizes wondrous displays of superhuman powers. Are they marvels or miracles? Some scholars have seen in the distinction between the mundane and the transmundane something roughly comparable to the Western dichotomy between the natural and the supernatural.[^44] Consequently, superhuman powers would not 
 
 [^42]: *Vkn*, p. 107.
+
 [^43]: In this regard, the treatment of the *abhijñā*s in the *Vimalakīrtinirdeśa* shares some features with their discussion in the *Mahāprajñāpāramitāśāstra*, which suggests that bodhisattvas cultivate superhuman powers and forego the sixth *abhijñā* so that they do not fall into *nirvāṇa* before achieving complete, unexcelled and perfect buddhahood. See Lamotte, *Le traité de la grande vertu de sagesse*, vol. 4, pp. 1817- 1818, 1822-1824.
+
 [^44]: See T. W. Rhys Davids, trans. *Dialogues of the Buddha*. 3 vols. (London: Pali Text Society, 1899), Vol. 1, p. 272; Lamotte, *Le traité de la grande vertu de sagesse*, vol. 4, p. 1814. A different way of conceptualizing natural law in Buddhist literature is provided by the concept of *dharmatā*, a term that suggests an order and regularity of all things, even wonders. Take, for instance, the narrative description of the Buddha’s smile in the *Avadānaśataka*. *Dharmatā* here explains certain regularities regarding the rays of the light that radiate from the Buddha’s mouth when he smiles. See David V. Fiordalis, “Miracles and Superhuman Powers in South Asian Buddhist Literature*”* (PhD Dissertation. University of Michigan, 2008), pp. 22ff. Andy Rotman points out more instances of the use of the term in the *Divyāvadāna*. For instance, *dharmatā* is used to describe the consistent cause and effect relationship that exists between seeing a miracle, or what one takes to be a miracle, and the arising of faith (*prasāda*), and the natural regularity with which reliquaries for the Buddha are built and venerated. See Rotman, *Divine Stories*, pp. 72, 97, 104. There does not seem to be any distinction here between the natural and the supernatural. Rather, all things behave in a manner that is consistent with Buddhist teachings, which perfectly reflect reality ‘as it is’ (*yathābhūtam*).
 
 *[p. 110]* ^pg123
@@ -170,6 +201,7 @@ wondrous displays of superhuman power suggest that such displays are not made wi
 Magical Illusion Magical illusion (*māyā*) and magical creation (*nirmāṇa*) are key concepts in the *Vimalakīrtinirdeśa* and in Mahāyāna literature, more generally. Many of the wonders of the *Vimalakīrtinirdeśa* turn out to be instances of magical creation or transformation. In this respect, it is similar to other Mahāyāna *sūtra*s, such as the *Gaṇḍavyūha* and the *Bhadramāyākāravyākaraṇa*. The latter explicitly calls the Buddha a magician (*māyākāra*, s*gyu ma mkhan* in Tibetan), contrasting his ‘true magic’ with the ‘mere illusions’ of the magician Bhadra, whom 
 
 [^45]: Both the *Abhidharmakośa* and the *Bodhisattvabhūmi* affirm the parallelism between the *abhijñās* and the three ‘wonders’ (*prātihārya*). See Śāstri, *The Abhi* *dharmakośa & Bhāṣya of Ācārya Vasubandhu*, p. 868-869; Dutt, *Bodhisattvabhūmi*, p. 54.
+
 [^46]: See Strong, “Miracles, Mango Trees, and Ladders from Heaven,” and Fiordalis, “Miracles in Indian Buddhist Narrative and Doctrine”.
 
 *[p. 111]* ^pg124
@@ -181,7 +213,9 @@ The term *māyā* or magical illusion first makes its appearance in Indian Buddh
 One may also find support for the idea that reality is (like) an illusion in the well-known work of Madhyamaka philosophy, Nāgārjuna’s 
 
 [^47]: Konstanty Régamey, *The Bhadramāyākāravyākaraṇa: Introduction, Tibetan Text, Translation and Notes* (Delhi: Motilal Banarsidass, 1990 \[1938\]), p. 62. Ernst Leumann, *Das nordarische (sakische) Lehrgedicht des Buddhismus*. Ablandlungen für die Kunde des Morgenlandes, Vol. 20. (Nendeln, Liechtenstein: Kraus Reprint, 1966 \[1933-1936\]) contains an edition and German translation of Khotanese fragments of the same *sūtra*s. The Chinese version contained in the Ratnakūṭa collection is translated in Garma C. C. Chang, ed., *A Treasury of Mahāyāna Sūtras: Selections from the Mahāratnakuṭa Sūtra* (University Park: Pennsylvania State University Press), 1983.
+
 [^48]: *S* iii.140.
+
 [^49]: See Lamotte, *Le traité de la grande vertu de sagesse*, vol. 1, p. 358; Gómez, *Selected Verses from the Gaṇḍavyūha*, p. 231; *Vkn*, pp. 17-18.
 
 *[p. 112]* ^pg125
@@ -195,6 +229,7 @@ Defilements, actions, bodies, agents, and effects are all like a city of celesti
 As do other Mahāyāna *sūtra*s, the *Vimalakīrtinirdeśa* uses the metaphor of the magical illusion to describe the insubstantial nature of conditioned phenomena, but it seems to take the metaphor further, although perhaps not as explicitly as the *Bhadramāyākāravyākaraṇa* does. Although more obliquely and with a subtler sense of the dialectic between the conventional and ultimate perspectives, the *Vimala* *kīrtinirdeśa* also suggests that conventional reality is an illusion, using the concept to forge the connection between doctrinal argument and miraculous demonstration. Take, for instance, the miracle that concludes the first chapter of the *sūtra*.[^51] The Buddha tells his audience that the purity (*pariśuddha*) of the ‘Buddha’s field’ (*buddhakṣetra*), that is, his universe or sphere of influence, is equivalent to the purity of his mind. After hearing this, Śāriputra, the disciple who features 
 
 [^50]: J.W. De Jong, *Mūlamadhyamakakārikāḥ* (Madras: Adyar Library and Research Center, 1977), p. 24.
+
 [^51]: *Vkn*, p. 12ff.
 
 *[p. 113]* ^pg126
@@ -208,8 +243,11 @@ Eighty-four thousand living beings, ‘who aspired to the excellent qualities of
 On several more occasions, the *Vimalakīrtinirdeśa* suggests that reality is like an illusion. At one point in a conversation with Mahā-maudgalyāyana, Vimalakīrti explains that teaching the Dharma according to reality is like an ‘illusory person’ (*māyā-puruṣa*) teaching the Dharma to another ‘illusory person’.[^54] Later, the disciple Subhūti recounts an exchange with Vimalakīrti where the latter exhorts the former not to be troubled by his words, since “all phenomena are characterized by magical illusion and magical creation (*nirmita-māyā-svabhāva*).”[^55] In these instances, the doctrine of magical illusion is closely connected to emptiness and insubstantiality. Yet, the metaphor of the magical illusion is also coupled with the doctrine of transcendence in the sense that superhuman power (to produce magical 
 
 [^52]: *Vkn*, p. 13.
+
 [^53]: *Vkn*, p. 14. For discussion and references for the term *viṭhapana*, see Lamotte, *L’enseignment de Vimalakirti*, pp. 124-125.
+
 [^54]: *Vkn*, p. 22.
+
 [^55]: *Vkn*, p. 26.
 
 *[p. 114]* ^pg127
@@ -235,7 +273,9 @@ Vimalakīrti also makes his sickness a metaphor for his Bodhisattva vow. Mañju�
 Mañjuśrī, my illness will last as long as ignorance and thirst for existence last. When all beings become free of illness, then my illness will be eased. What is the reason for this? For, Mañjuśrī, the Bodhisattva is in *saṃsāra* for the sake of living beings, and sickness is attached to *saṃsāra*….You ask me, Mañjuśrī, from where my illness has arisen. The illness of the Bodhisattvas arises from great compassion.[^60] In this way, Vimalakīrti turns Mañjuśrī’s seemingly innocuous question into a more profound teaching about the bodhisattva path. Again, however, Vimalakīrti’s answer does little to resolve the tension 
 
 [^58]: *Vkn*, p. 33-34.
+
 [^59]: *Vkn*, p. 34. The Sanskrit here seems to follow the Tibetan, whereas Lamotte suggests that the Chinese translations may have possessed a variant reading whereby the negative qualities are applied to the living beings, not to the Buddha. For discussion and references to the five corruptions, see Lamotte, *L’enseignment de Vimalakirti,* 188.
+
 [^60]: *Vkn*, p. 46-47.
 
 *[p. 116]* ^pg129
@@ -247,6 +287,7 @@ If Vimalakīrti and Śākyamuni possess bodies of Dharma like other buddhas and 
 Elsewhere in the text, a goddess who lives in Vimalakīrti’s house teaches Śāriputra the ultimate truth by relying specifically on the metaphor of the magically created body. Ever expressing the conventional perspective, Śāriputra innocuously asks the goddess where she will be reborn when she dies. The goddess responds, “I will be reborn where a magical emanation (*nirmita*) of the Tathāgatas is reborn.” Sāriputra interjects, “but the magical emanation of the Tathāgatas is not born and does not die.” “In the same way,” the goddess replies, “all phenomena are not born and do not die.”[^62] The answer makes sense in terms of conventional truth, whereby it is true that magically created bodies are not subject to birth and death in the same way as real bodies are. However, the idea of the magically created emanations of the Buddha is extended to all phenomena in a way that stresses their ultimate emptiness. 
 
 [^61]: *Vkn*, p. 97. The text uses the term *pratisaṃhṛtya* (*prati + saṃ +* √*hṛ*) in the sense of ‘holding back’. One wonders if this word might have been chosen for poetic purposes in place of *saṃvṛti* (*saṃ +* √*vṛ*), which has the sense of concealment, hiding. The latter is also a common term for the conventional truth. In any case, the text uses *prati-sam-*√*hṛ* earlier in the *sūtra* to describe how the Buddha ‘withdraws’ (*pratisaṃharati*) his superhuman power (*ṛddhi*) to conclude the miraculous vision.
+
 [^62]: *Vkn*, p. 74.
 
 *[p. 117]* ^pg130
@@ -314,6 +355,7 @@ ways.”[^71] This suggests that wondrous displays of superhuman power serve a �
 If another of the key conceptual distinctions to be drawn between marvels (or magic) and miracles is the ontological difference between ‘natural’ and ‘supernatural’ causes, then the *Vimalakīrtinirdeśa*, with its emphasis on the doctrines of magical illusion and inconceivable liberation, can be interpreted as collapsing this distinction. For buddhas and bodhisattvas would seem to inhabit an ontological position somewhere between the mundane and the transmundane. This poses a problem for us as we seek to interpret and translate the plethora of Buddhist technical terms for superhuman power that one finds in the *Vimalakīrtinirdeśa* and throughout Indian Mahāyāna literature. Are they best described as miraculous powers, magical powers, supernatural powers, or superhuman powers? However one chooses to describe them, the concepts of magical illusion and inconceivable liberation in the *Vimalakīrtinirdeśa* work to resolve a tension between superhuman
 
 [^71]: Dutt, *Bodhisattvabhūmi*, p. 46.
+
 [^72]: The treatment of the metaphors of magical illusion and magician in Indian Mahāyāna *śāstra* literature needs more analysis. On the ‘earlier’ side, the *Mahā* *yānasūtrālaṃkāra* contains a few references. See, for instance, chapter thirteen, verse 28, where the wisdom of the bodhisattva is likened to that a magician, who understands the true nature of his illusions. See also chapter eleven, verse 27ff, for a discussion of the metaphor of the magical illusion. See Lévi 1907-1911, pp. 61ff, 89. On the ‘later’ side, one may mention the ninth chapter of the *Bodhicaryāvatāra*, verses five and following, where the meaning and significance of the metaphor of the magical illusion is elaborated in the context of the two truths. See P.L. Vaidya, ed., *Bodhi* *caryāvatāra of Śāntideva with the commentary Pañjikā of Prajñākaramati*. Buddhist Sanskrit Texts N. 12. (Darbhanga: Mithila Institute of Post-Graduate Studies and Research in Sanskrit Learning, 1960), p. 101ff.
 
 *[p. 123]* ^pg136

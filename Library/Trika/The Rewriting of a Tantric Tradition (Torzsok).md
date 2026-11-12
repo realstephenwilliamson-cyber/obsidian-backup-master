@@ -55,6 +55,7 @@ The earliest surviving scriptural sources that teach the Hindu tantric worship o
 Subsequently, a new current, kaulism, developed from these *yoginī* cults, perhaps around the 8th or 9th century CE. It internalised the whole ritual system as well as the pantheon: the *yoginī*s became the goddesses of the senses in the body (*kula*) of the practitioner, and the rituals, such as *pūjā* or fire rituals, all came to be performed as internal worship in the body, based on yogic practices and meditation. Kaulism also lay much emphasis on possession (*āveśa*), although this phenomenon was already present in the early *yoginī* cults. In what follows, I shall focus upon borrowings, changes and transformations that occur between an early text of the *yoginī* cult, the *Siddhayogeśvarīmata* (‘The Teaching of Powerful Yoginīs’) and an early *kaula* text, the *Timirodghāṭana* (‘The Removal of the Darkness \[of Ignorance\]’), whose *codex unicus* was discovered and transcribed by Somdev Vasudeva. I hope to show that despite the fact that some of the textual changes seem minor, they often imply significant transformations of doctrine and practice. In addition to these two texts, I shall draw upon other parallels of related sources, with the help of which the relative dating
 
 [^n0]: This article is dedicated to the memory of N.R. Bhatt, whose editions of *śaiva* texts constitute a milestone in the study of Āgamas and Tantras. The scriptures discussed here belong to a more esoteric tradition than what he worked on; but the method to interpret them is the same: a philological inquiry into the ways in which they were read, understood and rewritten, without which no serious investigation about their history can be made. I would like to thank Somdev Vasudeva, who not only discovered and transcribed the *Timirodghāṭana*, but made his etext available immediately to others working in the field. I am also greatly indebted to Dominic Goodall, who has kindly shared several of his transcripts and draft editions, of which I used the *Niśvāsa*, the *Mohacūḍottara* and the *Sarvajñānottara* in this paper. I am also grateful to Shaman Hatley and Csaba Kiss for sharing their work on the *Brahmayāmala*, and to Olga Servaeva and Prof. Alexis Sanderson for their etext and draft edition of the *Jayadrathayāmala*.
+
 [^1]: For the first, more detailed, account of how the *yoginī* cult was transformed in kaulism, see Sanderson 1988: 679ff., on which this short introductory summary is based.
 
 *[p. 2]* ^pg3
@@ -82,10 +83,15 @@ The first and most striking parallel can be found at the very beginning of the *
 Before looking at the more important changes, some general remarks concerning the language of these texts may not be out of place. Both texts are written with numerous tantric irregularities of language (*aiśa*). Interestingly, while there are instances in which the *Timirodghāṭana* replaces the irregular original with a grammatically correct form,[^6] in many other cases it changes the original to a grammatically less correct version.[^7] Therefore, unlike in some other cases of a later recension or borrowing, here it is not possible to affirm that the earlier source went through a grammatical and stylistic purification to produce the later, grammatically more correct version.[^8]
 
 [^3]: Arrows indicate the change of meaning from the *Siddhayogeśvarīmata*’s to the *Timirodghāṭana*’s reading. Variant readings that do not affect the meaning substantially are in italics, while more important differences are in bold. Variants that are synonymous are not signalled in the translation.
+
 [^4]: The *Timirodghāṭana* has a shorter and problematic reading, which is probably partly the result of corruption.
+
 [^5]: Here, the manuscript of the *Timirodghāṭana* is not fully legible. It perhaps reads *mahāśaṅkha*, which would be a code word for human skull.
+
 [^6]: E.g. it replaces *śaśāṅkakṛtamūrdhani* with *śaśāṅkakṛtaśekharaṃ*.
+
 [^7]: E.g. *lelihānamahājihvaṃ*, which is *lelihānaṃ mahājihvaṃ* in the manuscripts of the *Siddhayogeśvarīmata*, is changed to *lelihantamahājihvā* in the manuscript of the *Timirodghāṭana*. There are more instances of *aiśa* forms than what appears in the above edited passages. I have corrected and emended both texts in several cases and conjectured words in places where parallels could clearly show how the corruption occurred. Since these changes do not affect the meaning, I have not reproduced the apparatus here. The edition of both passages with the apparatus will be published in Törzsök forthcoming A.
+
 [^8]: Such is the case, for instance, of the earlier and later recensions of the *Svacchanda*, for which see e.g. Törzsök 1999: 198.
 
 *[p. 5]* ^pg6
@@ -97,8 +103,11 @@ In this case, one could argue that since *akṣamālā* is a more often seen exp
 Finally, it must be remarked that the context in which this ferocious Ardhanārīśvara is found is also different in the two texts. The *Siddhayogeśvarīmata* prescribes a visualisation (*dhyāna*), which explains why we have such a detailed account of all the attributes: the practitioner had to be able to create a precise mental image of the deity. Such visualisations were part of the standard quadripartite ritual in tantric texts of various currents. The four elements included
 
 [^9]: Törzsök forthcoming B.
+
 [^10]: See for instance Kreisel 1986: 64 note 202, Sharma 1976 and Hanneder 1998: 15. Bakker 2002 shows, among other things, that the four-headed representation certainly precedes the five-headed one.
+
 [^11]: See *Tantrasadbhāva* 4.17d and *Jayadrathayāmala* 2.20.60d: *śavamālāvibhūṣitām*.
+
 [^12]: One could of course argue that the *akṣara*s broke off at the edge of a leaf and that a later scribe tried to fill in the lacuna.
 
 *[p. 6]* ^pg7
@@ -112,8 +121,11 @@ and the future
 Another shared feature of the two texts is the way in which both emphasize that the practitioner must be possessed by the Power of Rudra (*rudraśaktisamāveśa*). This emphasis is of course common in other *kaula* texts too: the *Ciñciṇīmatasārasamuccaya* mentions the expression twice (7.202a and 9.53c) and the *Ūrmikaulārṇava* once in connection with initiation (2.291c). However, the compound ‘possession by the Power of Rudra’ (*rudraśaktisamāveśa*) seems to occur more frequently in the *Siddhayogeśvarīmata* and the *Timirodghāṭana* than elsewhere: the *Siddhayogeśvarīmata* has it six times (1.17c, 2.4a, 2.5a. 2.10c, 2.11a and 20.78c), while the fragmentary *Timirodghāṭana* five times (end of chapter 2, 4.15a, 4.16c, 8.4c and 9.16a).[^15] These occurrences, one could argue, do not prove much on their own, for they are not very numerous in any case. However, they occur in very similar contexts in the two Tantras. Compare, for instance, the following passages, both of which stress that mantras and rituals will not work without the power of Rudra, more precisely, without the practitioner being possessed by the power of Rudra:[^16]
 
 [^13]: For the set of *dhyānaḥ pūjā japo homaḥ*, see e.g. *Siddhayogeśvarīmata* 29.6ab and *Tantrasadbhāva* 7.123ab, 1.122cd and 14.128cd, *Kubjikāmata* 25.41cd and *Svacchanda* 7.166. A fifth element is often added, which varies in different passages. Moreover, the first element is sometimes also different, such as in *Mohacūḍottara* fol.35v, which reads *snānaḥ* for *dhyānaḥ*. See also Sanderson 2009: 62 for the series *nyāsa, pūjā, japa* and *homa*.
+
 [^14]: The *Timirodghāṭana* explicitly opposes the teaching of the *Siddhayogeśvarīmata* and similar texts when it states (fol. 45v) that there should be no invocation of *yoginī*s (*na yoginīmelakaṃ caiva*) and that the sacred places are to be found in the body, it is not necessary to wander elsewhere (*dehasthaṃ pīṭhakṣetre tu nānyakṣetraṃ paryaṭate*).
+
 [^15]: Only the *Mālinīvijayottara* comes close to this with four occurrences, but two out of those are the repetition of the same line: 2.13a, 2.17a, 8.42a (8.42ab is almost identical with 2.13ab) and 20.29c.
+
 [^16]: I highlight the parallels in bold in this case.
 
 *[p. 7]* ^pg8
@@ -158,6 +170,7 @@ The *Timirodghāṭana* places the passage after a description of supernatural p
 Since possession by the Power of Rudra is the cause of success, signs that could commonly be considered signs of possession also function to indicate that the practitioner shall certainly succeed. This is a shared doctrine in many Tantras, whether *kaula* or not. However, the following parallel shows a remarkable closeness in wording too, so much so that the *Siddhayogeśvarīmata* in fact helps us to reconstruct the illegible or lost syllables in the *Timirodghāṭana*.[^19]
 
 [^18]: The *Siddhayogeśvarīmata* has a symmetrical contruction: all the future and all the past. The *Timirodghāṭana* has a variant that may be partly the result of corruption. It mentions, rather superfluously, the future three times (*bhaviṣyam, anāgatam, bhavyam*), while the past only once (and even that single mention is completely corrupt in the manuscript).
+
 [^19]: It is again the parallel that is highlighted in bold.
 
 *[p. 9]* ^pg10
@@ -205,8 +218,11 @@ guruḥ gurutaram *param kalpoktaphalakāṅkṣiṇaḥ /* *viditātmā priyed 
 More striking than this example is that the first verse cited above occurs in almost the same form in the *Timirodghāṭana* and the *Kubjikāmata*.[^24]
 
 [^21]: This is explained in *Siddhayogeśvarīmata* 2.2.
+
 [^22]: There are several problems, among which the most disturbing one is perhaps *priyed*. As a very conjectural solution, I would propose something along these lines: *rudraśaktisamāveśād guruḥ gurutaraṃ param viditātmāp-nuyād yuktaḥ \[yaḥ\] sa guruḥ mokṣadaḥ smṛtaḥ* ‘the guru \[who\] knows his self, is devoted and obtains (*āpnuyāt*) the supreme mantra thanks to being possessed by the Power of Rudra, is known to be one who can bestow liberation’. However, *priyed* may be accepted as meaning ‘propitiate’ and *yuktaṃ* may also refer to the mantra which is ‘employed.’
+
 [^23]: *gurugurutarasvinam* at the end of ch. 2 (I cannot interpret this expression, which may be corrupt), *durlab-haṃ sa guruḥ devi durlabhaṃ gurutaraṃ mahat* 9.21cd (Somdev Vasudeva suggests that one should correct *sa guruḥ* to *sadguruḥ*, but this is not necessary, for there must have been a relative clause before, which has been transmitted in a fragmentary state), and *guruḥ gurutaram param* 11.19cd.
+
 [^24]: Bold highlights the words that became changed.
 
 *[p. 11]* ^pg12
@@ -216,6 +232,7 @@ More striking than this example is that the first verse cited above occurs in al
 ‘If a disciple has a master without power, how could he attain success \[/ supernatural powers\]? (*Timirodghāṭana*) —› liberation? (*Kubjikāmata*) If the root of a tree dies, o Goddess (*Timirodghāṭana*) —› Just as, if the root of a tree is cut off (*Kubjikāmata*), how could it produce flowers, fruit and the like?’ The version of the *Kubjikāmata* seems secondary for several reasons. It attempts to improve on the grammar by replacing the *aiśa -ādiṣu* with *-ādikam*.[^25] It tries to make the parallelism more explicit by introducing the relative pronoun *yathā*. The *Timirodghāṭana*’s two *pāda*s mentioning the tree are certainly somewhat corrupt, but the *Kubjikāmata* interferes more than necessary, probably to make the image more appropriate by replacing ‘is destroyed’ (*naṣṭa*) with ‘is cut off’ (*chinna*). And most importantly, it replaces the promise of success in general or of supernatural powers (*siddhi*) with the promise of liberation (*mukti*) – a clear indication of rewriting, making the text oriented to a more general public rather than to the somewhat eccentric wandering practitioners who aspire to obtain supernatural effects. Although the direction of borrowing and the details of the textual transformation seem to be clear, the situation is somewhat less straightforward than it appears. For the *Kubjikāmata* has an important variant that cannot be ignored: two of its manuscripts, F and G, read *siddhi* for *muktiḥ*.[^26] This variant cannot be easily discarded as representing only a deviating minority of the manuscripts. As Sanderson 2002: 9 remarks: ‘in this highly contaminated manuscript transmission truth and error have permeated everywhere in approximately equal measure. \[...\] Where all, some or one of the manuscripts of the *Kubjikāmata* agree with the source text, that reading should be adopted as original, except where there may be independent error.’ Here, if the *Timirodghāṭana* was indeed the source text, F and G agree with its reading. Moreover, among the variants Sanderson examines in this article, there is one case in which the same two manuscripts, F and G, agree with the source text, in that case the *Tantrasadbhāva*. The source as well as F and G read *dhyānāc cakrasamo* against *dhyānāc ca kramaśo*, the latter being a rather unambiguous case of corruption (and simplification). The case of *siddhi* replaced by *mukti* or vice versa is, however, different, for it shows a
 
 [^25]: Several cases of the locative plural *-ādiṣu* is found in the *Brahmayāmala* in the sense of *-ādikam* or for yet another case. It seems that the compound ending *-ādi* attracts somehow the locative plural case ending in *aiśa*. See e.g. (the spelling has been standardized) 25.283cd: *pādādiṣu samārabhya śikhāntāṃ yāvat sādhakaḥ*; 45.210cd-211ab *kharamānuṣakūrmoṣṭraśvaśṛgālahayādiṣu // tanubhiś ca varāhaś ca ity eṣāṃ phalguśais tathā* (for *phalguṣais tathā*); 45.596cd-597ab *vyālasya vānarasyaiva śarabhasya varānane // uṣṭrakasya tu citrasya vi-jakādiṣu caiva hi*. (The unrecorded word *vijaka* may be corrupt or stands perhaps for *ajaka*, goat.)
+
 [^26]: B has *mukti* without the Visarga. There are also some additional variants in other manuscripts: *chinnamūle* for *mūlacchinne* and *kathaṃ* for *kutaḥ*.
 
 *[p. 12]* ^pg13
@@ -234,7 +251,9 @@ Conclusion
 An important conclusion to be drawn independently of what exactly Abhinavagupta cites is that judging from the parallel verses the *Timirodghāṭana*’s version seems to predate the *Kubjikāmata*’s. This is true whether one accepts the reading of *siddhi* in the *Kubjikāmata* as the
 
 [^27]: On the shift from *siddhi* to *mukti*, see for example Brunner (1975).
+
 [^28]: Somdev Vasudeva points out in his transcript / draft edition that Abhinavagupta cites a passage in his *Parātriṃśikāvivaraṇa* (p. 210) which is also quoted by Kṣemarāja in his *Śivasūtravimarśinī ad* 1.4. Kṣemarāja names the *Timirodghāṭana* as his source. Although this citation cannot be found in the text, it may have been on one of the missing folios, as Somdev Vasudeva remarks.
+
 [^29]: It is of course also conceivable that he quoted this verse from a third source we no longer have access to, but the verse is less proverbial than it seems and does not occur frequently.
 
 *[p. 13]* ^pg14

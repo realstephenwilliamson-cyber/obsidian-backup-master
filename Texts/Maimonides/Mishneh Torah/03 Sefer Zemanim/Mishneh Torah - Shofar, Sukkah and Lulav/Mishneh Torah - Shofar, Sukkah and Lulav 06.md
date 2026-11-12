@@ -143,167 +143,289 @@ The wood with which the sukkah was constructed is forbidden [to be used for othe
 
 [^1]: The same laws that apply to hearing the *shofar* apply to Sukkah. Hence, women and slaves are free of obligation, as is the case regarding all mitzvot whose fulfillment is associated with a specific time. Minors have no obligations at all according to the Torah. (See the commentary on Chapter 2, Halachah 1.)  
     See also the commentary on Chapter 2, Halachah 2 regarding a woman's right to perform the mitzvah if she desires, and whether permission is granted for her to recite a blessing.
+
 [^2]: See the commentary on the above halachah for a definition of these terms and their status. Note Halachah 13 regarding their recitation of a blessing.
+
 [^3]: See the commentary on Chapter 2, Halachot 1 and 3.
+
 [^4]: *Sukkah* [[Sukkah 28#28b|28b]] offers two definitions of this term:a) a child who does not need his mother to help him after he relieves himself;  
     b) a child who does not wake up in the night and call out: "Mommy! Mommy!"Nevertheless, based on *Eruvin* [[Eruvin 82#82a|82a]], the Rambam provided us with a more definite guideline...
+
 [^5]: is obligated [to fulfill the mitzvah] of sukkah according to Rabbinic decree - According to Rashi (*Berachot* [[Berakhot 48#48a|48a]]) and the Ramban (*Milchamot Hashem, Berachot* 20b), there is no obligation incumbent on the child himself. The child's father is obligated to educate him. If he has no father, the obligation falls on his mother and on the local Rabbinic court (*Terumat Hadeshen* 99).  
     *Tosafot* (*Berachot* [[Berakhot 48#48a|48a]]) differs and explains that the Sages placed the obligation on the minor himself. From the Rambam's phraseology, it appears that he accepts this view.  
     Support for this premise can be derived from the Rambam's decision in *Hilchot Berachot* 5:15-16, which states that an adult who ate a small meal can fulfill his obligation by listening to a child reciting the grace after meals (for both are obligated by virtue of Rabbinic decree). Though others object on the grounds that the child himself is not obligated in the mitzvah, the Rambam states that such a practice is acceptable.
+
 [^6]: The Rambam mentions the same concept in *Hilchot Tzitzit* 3:9, *Hilchot Berachot* 5:1, and *Hilchot Lulav* 7:19.
+
 [^7]: Since the latter's performance of a mitzvah - tending to the sick - does not enable them to perform the mitzvah of dwelling in the sukkah, they are absolved from the obligation. (See *Sukkah* [[Sukkah 25#25a|25a]], 26a.) However, this leniency is granted only during the time the sick person requires their assistance (*Shulchan Aruch HaRav* 640:7).
+
 [^8]: who is free from the obligation to perform all mitzvot, even those as severe as the Sabbath or Yom Kippur;
+
 [^9]: or any other minor illness (Rambam, Commentary on the Mishnah, *Sukkah* 2:4).  
     This leniency is granted because of one of the basic principles related to the mitzvah of sukkah. [[Torah 31 - Emor#^23-42|Leviticus 23:42]] states: "You shall dwell in sukkot (תשבו בסכת)." On that verse, *Sukkah* [[Sukkah 26#26a|26a]] comments: תשבו כעין תדורו - i.e., dwelling in the sukkah is comparable to living in one's own home. Thus, a person is not required to dwell in a sukkah under circumstances which would cause him to leave his own home.  
     Since a person who is sick would seek the most comfortable lodgings possible and would not camp outside, he is not obligated to do so to fulfill the mitzvah of sukkah (Rabbenu Manoach).
+
 [^10]: *Sukkah* [[Sukkah 26#26a|26a]] relates that Rabban Shimon ben Gamliel was granted permission to sleep outside the sukkah for this purpose.  
     The Torah's prohibitions are suspended not only when a person's life is in danger, but also when a particular limb might be lost. Though this premise is accepted by the Rambam (see *Hilchot Shabbat* 2:4), it does not appear that he is referring to it here. Rather, it seems that he means a minor ailment comparable to a headache. See also *Tosafot* (*Sukkah*, ibid.).
+
 [^11]: based on the principle of תשבו כעין תדורו, as explained above. Just as a person would seek out a comfortable permanent dwelling, he is obligated to dwell only in a sukkah which does not cause him unpleasantness.  
     Rabbenu Manoach states that this leniency does not apply on the first night of Sukkot, on which there is a binding obligation to eat in the sukkah. (See Halachah 6.) The Ramah (*Shulchan Aruch, Orach Chayim* 640:4) quotes this statement as halachah.
+
 [^12]: Some earlier texts of the *Mishneh Torah* stated that leniency was also granted to such a person's attendants, but that is surely a printing error (Rabbenu Manoach).
+
 [^13]: The *Tur*, the *Shulchan Aruch* (*Orach Chayim* 640:4), and the Ramah emphasize that this law applies only when the discomfort is an unexpected occurrence. However, a sukkah which is constructed in a place where the discomfort will surely come is considered to be unfit to dwell in and is unacceptable for the performance of the mitzvah.
+
 [^14]: The term אבל refers to a person in the seven days of mourning which follow the burial of a father, mother, wife, brother, sister, son, or daughter. An אונן (a person in mourning for these relatives before their burial) is freed from the obligation of sukkah, because he is absolved of the duty to perform all mitzvot (*Hilchot Eivel* 4:6).  
     It must be noted that none of the mourning rites should be followed during a festival. If a close relative dies before the festival, the *shiv'ah* (seven days of mourning) is completed at the festival's commencement, even though all seven days have not passed (*Hilchot Eivel* 10:3, 8).
+
 [^15]: *Sukkah* [[Sukkah 25#25b|25b]] explains that a mourner (אבל) is obligated to fulfill all the mitzvot. Nevertheless, one might suppose that just as a person who is uncomfortable is freed from the obligation of sukkah, a mourner would also be absolved. Therefore, the Talmud includes a special teaching to emphasize the mourner's obligation, explaining that one is absolved only for discomfort which comes from external factors. In this case, the mourner brings discomfort upon himself. He should compose himself and concentrate his attention on the mitzvah.  
     Nevertheless, *Shulchan Aruch HaRav* (640:13) writes that if dwelling in a sukkah will cause a mourner more discomfort than dwelling in his home, he is allowed to choose the latter alternative.
+
 [^16]: because he is involved in the mitzvah of marriage. *Sukkah* [[Sukkah 25#25b|25b]] adds that generally, a sukkah is to small to carry out the wedding celebrations in the proper manner. Furthermore, the groom is obligated to rejoice together with his wife, and the sukkah is not an appropriate setting.
+
 [^17]: In *Hilchot Zechiyah Umatanah*, Chapter 7, the Rambam describes the custom of שושבינות (attending a groom).
+
 [^18]: They are absolved of the mitzvah only while they are involved in the mitzvah of celebrating together with the bride and groom, however, when they leave, they are obligated. Furthermore, there are many authorities who require that the meals served the groom and his attendants be served in a sukkah. (See *Mishnah Berurah* 640:33.)
+
 [^19]: It must be emphasized that the wedding must have taken place during the four days between Yom Kippur and Sukkot. Weddings are not held during the Ten Days of Repentance, nor on Chol Hamo'ed.
+
 [^20]: e.g., to study Torah, to greet a Sage under whom one studied Torah, or to redeem captives (Rashi, *Sukkah* [[Sukkah 25#25a|25a]]).
+
 [^21]: i.e., they are not required to eat, sleep, or perform any of the activities in a sukkah described in Halachot 5-9.
+
 [^22]: Rashi (*Sukkah* [[Sukkah 25#25a|25a]], 26a) states that this applies even when they are lodging overnight. Since, at night they are also involved with thinking about how to fulfill the mitzvah, they are still considered as occupied with the performance of a mitzvah and are not required to seek out a sukkah. An example of this principle quoted by the Talmud supports this interpretation: When Rav Chisda and Rabbah bar Rav Huna would attend [the lecture delivered] at the home of the exilarch on the Sabbath of the festival, they would sleep along the river banks of Sura. They explained: "We are emissaries involved in a mitzvah" (*Sukkah* [[Sukkah 26#26a|26a]]).  
     Though these Sages were visiting a city which served as a center of Jewish life and surely could have found a sukkah to lodge in, they did not see the necessity for doing so. (See also *Sukkah* [[Sukkah 10#10b|10b]].)  
     Nevertheless, *Tosafot, Sukkah* 10b, interprets the passage differently and explains that leniency is granted these emissaries only when dwelling in the sukkah would in some way prevent them from carrying out the mitzvah which they set out to perform. If it is possible to do both - perform the mitzvah they set out to do and fulfill the mitzvah of sukkah - one must endeavor to do so.  
     The *Maggid Mishneh* explains that the Rambam shares Rashi's view. However, the final halachic position followed by most Ashkenazic authorities is closer to *Tosafot*'s position: i.e., these emissaries are not obligated to trouble themselves to find a sukkah. However, if there is a sukkah available, they should make use of it. Nevertheless, if sleeping in the sukkah would prevent them from getting proper rest, and thus hold them back from fulfilling their mitzvah in a proper manner, they are not required to sleep in a sukkah (*Shulchan Aruch HaRav* 640:18; *Mishnah Berurah* 640:38).  
     (Abstractly, it is possible to differentiate between the two positions as follows. According to Rashi, there is no obligation of sukkah incumbent on this person whatsoever. In contrast, *Tosafot* would maintain that the person is obligated to perform the mitzvah. However, at all times he is bound by another commitment which takes precedence.)
+
 [^23]: i.e., while they are traveling. *Tosafot, Sukkah* 26a explains that this concept is derived from the principle: תשבו כעין תדורו - i.e., dwelling in the sukkah is comparable to living in one's own home. Since a person will occasionally leave his home on a journey, he is also entitled to leave his sukkah.
+
 [^24]: if they lodge in a settled place (*Tosafot*, ibid.).
+
 [^25]: i.e., while traveling
+
 [^26]: if they lodge in a settled area.
+
 [^27]: when they are on duty.
+
 [^28]: when they are replaced by their colleagues. Conversely,...
+
 [^29]: who spend their entire day guarding the produce (Rashi, *Sukkah* [[Sukkah 26#26a|26a]])
+
 [^30]: *Sukkah*, ibid., explains that based on this principle, the leniency is granted only to watchmen charged with guarding an entire orchard or farm. However, if a watchman is charged with guarding produce which is collected in one place, he is capable of fulfilling the mitzvah and discharging his duty. Hence, he is obligated to construct a sukkah there.
+
 [^31]: performing all the activities mentioned in this halachah and Halachot 6-9.
+
 [^32]: These statements and the Rambam's introduction to these halachot imply that each moment a person dwells in the sukkah throughout the seven days of the festival, he fulfills a mitzvah. (Accordingly, a blessing is recited whenever one makes use of the sukkah [Halachah 12]. See Halachah 7.)
+
 [^33]: *Sukkah* [[Sukkah 43#43a|43a]] derives this concept by drawing an analogy (גזרה שוה) to the seven days of preparation for the dedication of the Sanctuary. Thus, just as the priests were required to stay in the Sanctuary for seven days - day and night - similarly, the mitzvah of sukkah must be observed in the same manner.
+
 [^34]: following the principle of תשבו כעין תדורו mentioned above.
+
 [^35]: This statement is a quote from the Mishnah, *Sukkah* 2:8. In his commentary on that Mishnah, the Rambam defines קבע as "of primary importance and a constant practice."
+
 [^36]: Doing so is a sign of honor and respect for the mitzvah.
+
 [^37]: Obviously, during the meal one's plates must be in the sukkah. The Rambam's intent is that after the meal there is no necessity to keep one's plates in the sukkah, because they are not attractive and are generally stored in pantries outside the home. In contrast, it is customary in many communities not to bring pots into the sukkah, even while eating (*Mishnah Berurah* 639:5). [Needless to say, plates that must be washed must be removed from the sukkah.]  
     The printed (as opposed to certain manuscripts) text of Rashi (*Sukkah* [[Sukkah 29#29a|29a]]) also shares the Rambam's interpretation. *Tosafot* explains the passage slightly differently, rendering "utensils used for food" as "utensils used in the preparation of food" - i.e., pots and pans.
+
 [^38]: i.e., the source of light
+
 [^39]: even when it is not burning, since it is attractive.
+
 [^40]: lest it cause a fire (*Tosafot, Sukkah*, ibid.). This differs from Rashi's interpretation of *Sukkah*, ibid., which explains that the Talmud is referring to an earthenware lamp. Thus, we may assume that it should not be brought into the sukkah because it is unattractive. This, appears to justify the statements of the *Maggid Mishneh*, who writes that the lamp should not be brought into the sukkah when it is not burning. Both opinions are quoted by the later halachic authorities (*Shulchan Aruch HaRav* 639:3; *Mishnah Berurah* 639:7-8).
+
 [^41]: i.e., a meal of bread or food prepared from the five species of grain
+
 [^42]: The *B'nei Binyamin* explains that this expression includes the Sabbath and festivals, thus excluding the opinions which maintain that any meal of bread eaten on the Sabbath or festivals is significant and cannot be considered as a snack. See the commentary of Rabbi Akiva Eiger.
+
 [^43]: even of bread, outside the sukkah.  
     *Sukkah* [[Sukkah 26#26a|26a]] defines "a snack" as "what the students will eat before they enter the study sessions." In his commentary on the Mishnah, *Sukkah* 2:4, the Rambam explains it as "a small amount, [eaten] without considering it as a meal, in order to satisfy one's hunger [temporarily], until one can complete eating afterwards."  
     Rabbenu Manoach explains that though there is no prohibition involved, it is not desirable to eat even a snack of bread outside the sukkah.
+
 [^44]: The Mishnah (ibid.) relates that less than a *k'beitzah* of bread was brought once to Rabbi Tzadok and he ate it outside the sukkah.
+
 [^45]: The *Shulchan Aruch* (*Orach Chayim* 639:2) restricts the leniency to a *k'beitzah* (approximately 56 cubic centimeters according to *Shiurei Torah* and, in this instance, 41 cubic centimeters according to the *Chazon Ish*) alone (See *Tosafot, Yoma* 79a.) The same principles are also applied to cooked foods made from the five species of grain.
+
 [^46]: In contrast to eating, where there is a difference between a fixed meal and a snack, no such difference exists regarding sleep. At times, even a rest of a few moments can have a major effect on a person. (See *Sukkah* [[Sukkah 26#26a|26a]]; Jerusalem Talmud, *Sukkah* 2:5.)  
     At present, there are many communities where leniency is taken in this regard. In some climates, the cold will cause everyone to consider sleeping in the sukkah as uncomfortable and, hence, they are freed of that obligation. Furthermore, in many communities, there is also a danger involved. In addition, if a husband would sleep in a sukkah, he would deprive his wife of some of the happiness and satisfaction that should accompany a festival. (See Ramah, *Shulchan Aruch, Orach Chayim* 639:2.)  
     Nevertheless, many authorities explain that these leniencies apply only at night, but during the day one is obligated to sleep in the sukkah.
+
 [^47]: or any other beverage, including wine (*Shulchan Aruch, Orach Chayim* 639:2), outside the sukkah. There is a difference of opinion among the later halachic authorities if this decision also applies when one sits down to a party centering on drinking wine (קובע עצמו לשתות). Some (the *Bach* and *Shulchan Aruch HaRav* 639:12) require that such drinking be carried out in a sukkah. However, others (the Vilna Gaon and the *Mishnah Berurah* 639:13) are more lenient.
+
 [^48]: for these do not constitute a significant meal.  
     *Sukkah* [[Sukkah 27#27a|27a]] relates that Rabbi Elazar ben Shamu'a ate dates and grapes outside the sukkah, because "fruit does not require a sukkah."  
     Rabbenu Manoach and some other commentaries maintain that this leniency applies only to fruit. In contrast, meat, fish, cheese, and other substantial foods which form the basis of a meal must be eaten in a sukkah. While many later halachic authorities do not accept this view, some maintain that one should not sit down with company to a meal of such foods outside a sukkah. (See *Shulchan Aruch HaRav* 639:11; *Mishnah Berurah* 639:15.)
+
 [^49]: To exemplify this principle, the Mishnah (ibid.) quotes the following:Once they brought a cooked dish for Rabban Yochanan ben Zakkai to taste, and two dates and a pitcher of water for Rabban Gamliel. They said: "Take them up to the sukkah."*Sukkah* [[Sukkah 26#26b|26b]] explains that often our Sages counselled against accepting extra stringencies upon oneself, lest one take pride in one's piety. However, in this instance they make no such reservations.
+
 [^50]: *Sukkah* [[Sukkah 27#27a|27a]] draws an analogy between the first night of Sukkot and the first night of Pesach. Just as eating a *k'zayit* of matzah on the fifteenth of Nisan is a mitzvah, so too, each Jewish male is required to eat in the sukkah on the fifteenth of Tishre.
+
 [^51]: This is the minimum amount required by the Torah in all mitzvot that involve eating. In modern measurements, the figure corresponds to 28 cubic centimeters according to *Shiurei Torah*, and 48 cubic centimeters according to the *Chazon Ish*.
+
 [^52]: The difference in the requirement between the first night and the remaining days has other ramifications. As mentioned in Halachah 2, a person who is uncomfortable in the sukkah is freed from his obligation. However, this leniency applies only on the first night after the mitzvah of eating a *k'zayit* has been fulfilled (*Maggid Mishneh; Shulchan Aruch, Orach Chayim* 639:3).
+
 [^53]: including bread, or according to some authorities, other hearty foods, as mentioned above
+
 [^54]: which may be eaten...
+
 [^55]: The *Lechem Yehudah* explains that the Rambam is speaking only from the perspective of the mitzvah of sukkah. However, one is obligated to eat three meals on the Sabbath as an expression of the mitzvah of honoring the Sabbath and taking pleasure in its celebration. (See *Hilchot Shabbat* 30:9.) Similarly, one is required to eat festive meals on the first day of Sukkot in honor of the holiday. These meals must be eaten in the sukkah.
+
 [^56]: The Rambam's intent is that, as explained in *Hilchot Chametz U'matzah* 6:1, after the first night of the festival a person is not obligated to eat matzah and may subsist on other foods. Similarly, on Sukkot one may eat foods that do not require consumption within a sukkah.  
     However, according to most authorities, his choice of words is not exact. The mitzvah of sukkah differs from that of matzah. In the latter instance, there is no mitzvah involved in eating matzah after the first night of the holiday. In contrast, every activity performed in the sukkah constitutes a further fulfillment of the mitzvah.  
     Accordingly, after the first night of the festival no special blessing is recited before partaking of matzah. In contrast, as stated in Halachah 12, a blessing is recited every time we make use of the sukkah. See also the Moznaim publication of *Hilchot Chametz U'Matzah* 6:1.
+
 [^57]: The Mishnah (*Sukkah* 2:6) records a difference of opinion on this matter between the School of Shammai and the School of Hillel. In this instance, the halachah follows the School of Shammai.
+
 [^58]: The Mishnah (ibid.) continues:An incident occurred when the elders of the School of Shammai and the elders of the School of Hillel went to visit Rabbi Yochanan ben Hachoroni and found him sitting with his head and the majority of his body in the sukkah while his table was in his house...  
     The elders of the School of Shammai told him: "If this has been your practice, you have never fulfilled the mitzvah of sukkah."Rabbenu Nissim questions how the Sages' decree can negate the fulfillment of a mitzvah, and thus explains the last phrase to mean: "You have never fulfilled the mitzvah as desired by our Sages." However, *Tosafot, Sukkah* 3a explains that the Sages' decree is powerful enough to nullify the person's actions entirely, and it is considered as if he never fulfilled the mitzvah at all.
+
 [^59]: Since the person must regard his sukkah as his home throughout the festival, in addition to eating and sleeping, he must perform all his other day-to-day functions inside of it. Hence, he should also read in the sukkah.
+
 [^60]: *Sukkah* explains that any time it is necessary to study a concept in depth, one should do so outside the sukkah...
+
 [^61]: while he studies. The *Magen Avraham* 639:13 adds a further reason to study at home: the difficulty in bringing one's texts back and forth from the sukkah. The *Magen Avraham* explains that this matter also depends on the individual person. If he is as comfortable studying in the sukkah as studying at home, he is obligated to do so.
+
 [^62]: at a time when he is unable to pray in the synagogue (*Magen Avraham* 639:14)
+
 [^63]: depending on where he will be able to concentrate more.
+
 [^64]: The descent of rain on Sukkot implies that our actions are not desired by God. The Mishnah (*Sukkah* 2:8) compares the matter to a servant who came to serve his master drink and the latter poured the pitcher in his face.  
     *Tzafenat Paneach* explains that there is a fundamental difference between this law and the case of a person who is uncomfortable while in the sukkah. In the latter instance, in essence, the person is obligated to fulfill the mitzvah. However, because of his discomfort, his obligation is temporarily waived. In contrast, when rain descends it is impossible to fulfill the mitzvah at all, because the sukkah is not fit to dwell in. Hence, there is no obligation whatsoever.  
     There is a practical difference between these two abstract positions regarding the question whether a person is obligated to eat in the sukkah on the first night of the holiday even when it rains. (See the commentary on Halachah 7.) According to the *Tzafenat Paneach*, under these circumstances there is no mitzvah which one is required to fulfill. Thus, one may eat at home. In contrast, most authorities do not differentiate between rain and other uncomfortable situations. Thus, since eating in the sukkah on that night is a binding obligation, they require a person to fulfill the mitzvah.  
     There is a further aspect to this concept. The Maharil explains that a person who eats in a sukkah when he is not obligated to do so is a simple person and receives no reward for his "piety." On this basis, in many communities, people make no effort to stay in the sukkah when it rains. In contrast, there are some communities where people will continue to eat in the sukkah despite pouring rain.  
     What is the difference between these two approaches? The first approach follows the perspective that, during the rain, there is no mitzvah to dwell in the sukkah whatsoever. Hence, there is no need to strain oneself to remain there. In contrast, the second perspective does not differentiate between rain and any other uncomfortable circumstances, but maintains that, in essence, dwelling in the sukkah is a mitzvah even under such circumstances. Accordingly, they remain in the sukkah, because while they are involved in fulfilling God's will they do not feel even the slightest trace of discomfort.
+
 [^65]: The Maharil writes that when a person is forced to leave the sukkah because of rain, he should depart with humility rather than with anger.
+
 [^66]: We need not wait until the food actually spoils. As soon as enough rain descends to spoil the food, one is free to enter one's home (Ramah, *Shulchan Aruch, Orach Chayim* 639:5).
+
 [^67]: i.e., a dish made from bean meal, which spoils quickly (Rambam, Commentary on the Mishnah, *Sukkah* 2:8).
+
 [^68]: were they to fall into it.
+
 [^69]: to finish his meal...
+
 [^70]: This phrase is set off by brackets because it is most likely a printing error. It is not easily understood, nor is it found in the manuscript copies of the *Mishneh Torah* or in the quotation of this halachah in the *Shulchan Aruch* (*Orach Chayim* 639:6).
+
 [^71]: However, after he concludes eating he must return to the sukkah.
+
 [^72]: The Ramah (*Shulchan Aruch, Orach Chayim* 639:7) emphasizes that even the slightest amount of rain is sufficient to free one from the obligation of sleeping in the sukkah.
+
 [^73]: The same law applies if it was raining when he desired to go to sleep, and hence, he never slept in the sukkah at all (*Mishnah Berurah* 639:39).
+
 [^74]: even if he wakes up in the middle of the night and it is no longer raining, he is not required to move to the sukkah.
+
 [^75]: The *Maggid Mishneh* and Rabbenu Manoach note that the Rambam's choice of phraseology implies that the person cannot sleep his normal measure, but must rise at dawn to return to the sukkah. They are not stringent and allow the person to remain sleeping at home until he wakes up. The *Shulchan Aruch* (*Orach Chayim* 639:7) quotes the Rambam's statements verbatim. However, the Ramah includes this leniency.
+
 [^76]: lest he require it later during the day.
+
 [^77]: Keeping one's utensils in the sukkah is included in the mitzvah of dwelling within it, as mentioned in Halachah 5. Nevertheless, one is allowed to take them home to prepare them for use on Shemini Atzeret as a sign of deference to that holiday. (See *Sukkah* 4:7.)
+
 [^78]: i.e., if he used his home as a sukkah, and thus must continue to remain there on Shemini Atzeret (see *Sukkah* [[Sukkah 48#48a|48a]])...
+
 [^79]: by opening up [a portion of s'chach]
+
 [^80]: to make the sukkah, or at least a significant portion of it, unfit for use. This safeguards against the violation of the command of בל תוסיף ([[Torah 47 - Re'eh#^13-1|Deuteronomy 13:1]] , which forbids adding to the mitzvot of the Torah. These acts will differentiate between his eating in the sukkah during the festival, when he is required to do so in fulfillment of the mitzvah, and eating there afterwards, once the mitzvah has been completed (*Shulchan Aruch, Orach Chayim* 666).  
     The Ramah adds that this requirement applies only when one desires to eat in the sukkah on Shemini Atzeret. Once that holiday passes, one may eat in a sukkah without making any changes.
+
 [^81]: even if he has removed his utensils or taken away part of the *s'chach*...
+
 [^82]: Note the commentary on Halachah 7, which explains the difference between this law and the rules governing the blessing recited before eating matzah.
+
 [^83]: The Rambam maintains that by sitting or doing any other activity which one would perform in one's home in the sukkah, one fulfills the mitzvah. Hence, the blessing is recited before one performs the mitzvah, as required by *Hilchot Berachot* 11:2.  
     The *Maggid Mishneh* questions why the blessing is not recited before one enters the sukkah, noting that the interpretation of the command לישב בסוכה is "to dwell in the sukkah," not "to sit in the sukkah." However, the *Taz* 643:2 explains that merely passing through the sukkah is not part of the mitzvah. Rather, one must perform an activity that reflects "dwelling." Hence, the blessing is not recited until one sits down, because previously it is not obvious that one wants to perform a significant activity in the sukkah.  
     The Ra'avad objects to the Rambam's decision, maintaining that one should recite the blessing only before partaking of a meal in the sukkah. This reflects the decision of the Ashkenazic authorities, who maintain that though the performance of all one's activities in the sukkah is a mitzvah, it is not customary to recite the blessing except when eating. When reciting the blessing on that occasion, one should intend to include all other activities. (See *Tur* and *Shulchan Aruch, Orach Chayim* 639:8.)
+
 [^84]: The *Maggid Mishneh* states that there is no limit to the number of times one recites the blessing each day. Nevertheless, if one left the sukkah for a brief interval or left with the intent of performing an activity which would improve the sukkah, that departure is not considered an interruption and no blessing is required upon one's return.
+
 [^85]: i.e., the blessing *shehecheyanu*, which thanks God for enabling us to reach this occasion. This blessing is recited whenever one performs a mitzvah that can be fulfilled only from time to time (*Hilchot Berachot* 11:9).  
     That halachah and, similarly, *Sukkah* [[Sukkah 46#46a|46a]], imply that, at the outset, one should recite the blessing *shehecheyanu* upon construction of the sukkah. Though the Rambam makes no mention of that concept here, the *Shulchan Aruch* (*Orach Chayim* 641:1) states that one should have the construction of the sukkah in mind when reciting *shehecheyanu* at night.
+
 [^86]: as did Rav Kahana (*Sukkah* [[Sukkah 46#46a|46a]]).
+
 [^87]: for the festival
+
 [^88]: The Ramah (*Shulchan Aruch, Orach Chayim* 643:2) states that kiddush may be recited while sitting.
+
 [^89]: Though one might presume that *shehecheyanu* would be recited first, since it is more frequent, precedence is given to *leishev basukkah*, because it is "the mitzvah of the day" (Rabbenu Manoach).
+
 [^90]: On the second night, it is Ashkenazic custom to recite to the blessing *shehecheyanu* before the blessing *leishev basukkah*, since on that occasion the blessing is associated with the celebration of the festival and not the mitzvah of sukkah. (See *Bnei Binyamin*.)
+
 [^91]: Rav Kapach notes that most of the manuscripts of the *Mishneh Torah* state רבי "the great men of" and not רבני, "the Rabbis of."
+
 [^92]: The Ra'avad objects and comments that even in Spain such a custom was not followed.
+
 [^93]: in the Diaspora and in certain places in *Eretz Yisrael* (*Hilchot Kiddush HaChodesh*, Chapter 9)
+
 [^94]: because originally, the messengers sent by the Sanhedrin could not reach there in time to notify them when the holiday should be celebrated. Hence, even now, when we follow the fixed calendar, we continue to follow this custom. (See *Hilchot Kiddush Hachodesh*, Chapters 3 and 5.)
+
 [^95]: In deference to the possibility that the festival could have begun on the second day and the seven days should be counted from then.  
     The commandment בל תוסיף ([[Torah 47 - Re'eh#^13-1|Deuteronomy 13:1]] forbids adding to the mitzvot of the Torah. Indeed, in Halachot 11 and 14, we find certain safeguards instituted because of this commandment. Nevertheless, dwelling in the sukkah on the eighth day does not constitute a violation of this commandment, because the time when the mitzvah is to be performed has already passed. Placing a fifth passage in one's tefillin during the day violates this commandment, because we are obligated to perform the mitzvah at this time. However, once the seven days of Sukkot pass, there is no mitzvah associated with the sukkah whatsoever (*Rosh Hashanah* [[Rosh Hashanah 28#28b|28b]]).  
     Nevertheless, many Ashkenazic authorities would carry out additional safeguards regarding this matter. For example, the *Tur* relates (though he opposes this practice himself) that some follow the custom of eating in the Sukkah only on the day of Shemini Atzeret, but not the night. Many of the Rabbis who would sleep in the Sukkah throughout the festival refrain from doing so on Shemini Atzeret. (See *K'tav Sofer*, Responsum 120.)
+
 [^96]: As its name implies, Shemini Atzeret is the eighth day of Sukkot. However, it also has certain aspects in which it is considered a holiday in its own right (*Sukkah* [[Sukkah 48#48a|48a]]).
+
 [^97]: because as the Rambam explains, a blessing is not recited when a mitzvah is performed only because of a doubt.  
     *Sukkah* [[Sukkah 47#47a|47a]] relates that "Rav Huna bar Bizna and all the great Sages of the generation dwelled in a sukkah on the eighth day - which might have been the seventh day - [of the festival], but did not recite a blessing."
+
 [^98]: See Chapter 2, Halachah 1 for a definition of these terms and these individuals' status.
+
 [^99]: i.e., they are required to perform the mitzvah because of the doubt concerning their status: maybe they are to be considered men.
+
 [^100]: This follows the rationale that when there is a doubt concerning one's obligation in matters required by the Torah itself, one must follow the more stringent view. However, regarding obligations of a Rabbinic nature, one may opt towards leniency. Since the mitzvah is required by the Torah, even a person in doubt must perform it. However, the blessing is a Rabbinic requirement; hence, there is no necessity in reciting it. Furthermore, by reciting the blessing when one is not required, one uses God's name in vain.  
     This perspective is not accepted by all authorities. As explained in the commentary on Chapter 2, Halachah 1, the Ashkenazic practice is to allow women and others who are not obligated in the performance of a mitzvah to recite a blessing when fulfilling it.  
     The above applies only regarding the doubts concerning the obligations of a *tumtum* and an *androgynous*. However, on Shemini Atzeret, when there is a doubt concerning the obligation of the entire Jewish people even the Ashkenazic authorities would agree that a blessing should not be recited.
+
 [^101]: from the sukkah and bring them home, where he will eat on Simchat Torah.
+
 [^102]: and desires to continue eating in the sukkah on Simchat Torah,
+
 [^103]: safeguards adopted to differentiate between eating in the sukkah as required, and eating there afterwards.
+
 [^104]: As mentioned in Halachah 5, a candelabra should not be brought into a small sukkah for Sukkot.  
     It must be noted that the Rambam changes the text of *Sukkah* [[Sukkah 48#48a|48a]], which states: "light his lamp there." (See *Kessef Mishneh*, Halachah 5.)
+
 [^105]: which are generally kept outside the sukkah, as explained in Halachah 5.
+
 [^106]: the sukkah
+
 [^107]: as suggested in Halachah 11.
+
 [^108]: whether intentionally or unintentionally - *Sukkah* [[Sukkah 27#27b|27b]] explains that not only a person whose sukkah fell down in the middle of the festival should reconstruct it, but even one who never built a sukkah at all is entitled to do so.
+
 [^109]: The literal translation of [[Torah 47 - Re'eh#^16-13|Deuteronomy 16:13]] is: "Make the Sukkot festival for seven days." *Sukkah* [[Sukkah 27#27b|27b]] interprets this verse to mean that a sukkah may be built during the seven days of the festival.  
     The Jerusalem Talmud (*Sukkah* 2:7) explains that Rabbi Eleazar wanted to forbid a person who purposely did not build a sukkah from doing so during the festival, as a punishment for his failure to prepare for the festival. However, the Sages did not accept that premise.  
     A sukkah may not be constructed on the first day of the festival, even if the walls are already built and all that is necessary is to spread *s'chach* over it. However, even though certain types of work are forbidden on Chol Hamo'ed, there is no prohibition in this instance (*Bi'ur Halachah* 637).
+
 [^110]: See Halachah 11.
+
 [^111]: e.g., for use as a toothpick. This prohibition applies even in the event the sukkah falls. Also, in contrast to the decorations, as mentioned in the following halachah, this prohibition cannot be nullified by making a condition that one desires to use them for one's own purposes (Ramah, *Shulchan Aruch, Orach Chayim* 638:1).
+
 [^112]: *Sukkah* [[Sukkah 9#9a|9a]] derives the prohibition against using the wood of the sukkah for other purposes throughout Sukkot from [[Torah 31 - Emor#^23-34|Leviticus 23:34]]: "The Sukkot festival shall be seven days unto God." The latter term is used also regarding the *Chaggigah* offering sacrificed on the festival. Thus, its use in this context implies that the entities which enable us to celebrate the Sukkot festival must be consecrated "unto God" like those sacrifices.  
     The reason why the wood of the sukkah may not be used on the eighth day is explained below.
+
 [^113]: Rabbenu Asher differs and explains that the essential element of the sukkah is its *s'chach*. Hence, the prohibition applies only to the *s'chach* and not to the sukkah walls. The *Shulchan Aruch* (*Orach Chayim* 638:1) quotes the Rambam's opinion. However, the *Taz* (638:1) explains that the prohibition against using the walls is only Rabbinic in nature.  
     Rav Chayim Soloveitchik explains that though the word sukkah as used by the Torah refers to the *s'chach* and not to the walls, a different principle is involved in this instance. The Torah teaches us that all the entities which enable us to fulfill the mitzvah of sukkah may not be used for other purposes. Since the sukkah walls also serve that purpose, because a sukkah is not kosher without walls, they are also included in that prohibition.
+
 [^114]: Note the contrast to the etrog in Chapter 7, Halachah 27.
+
 [^115]: However, if the sukkah falls, it may be rebuilt using the same wood. Furthermore, the wood used for *s'chach* may be used for the walls and vice versa.
+
 [^116]: *Muktzeh* literally means "set aside." In this context, it refers to objects which may not be used for mundane purposes.
+
 [^117]: *Beyn hash'mashot* is the period between sunset and the emergence of three stars.
+
 [^118]: *Hilchot Shabbat* 25:10 states: "Any utensil which is forbidden to be moved during *beyn hash'mashot* is forbidden to be moved throughout the entire Sabbath, even after the factor that caused its prohibition has passed."
+
 [^119]: even if they fall (*Shulchan Aruch, Orach Chayim* 638:2). As mentioned in the commentary on Halachot 17 and 18, the sukkah decorations are not considered an independent entity, but rather as part of the sukkah itself. Furthermore, employing articles used to decorate a mitzvah for other purposes demonstrates lack of respect for the mitzvah (Rabbenu Nissim, *Beitzah*). Hence, the same restrictions that apply to the sukkah apply to it.
+
 [^120]: as is the sukkah itself.
+
 [^121]: Rabbenu Manoach questions what the law would be if the condition were made after the decorations were hung but before the holiday commences.
+
 [^122]: Everything depends on the status of the decorations at the time the festival begins. If they are not considered part of the sukkah at that time, the "sanctity of the sukkah" does not affect them throughout the festival (*Sukkah* [[Sukkah 10#10b|10b]]).  
     The Ramban and the Ramah differ, and require that the person stipulate that he will not refrain from using the decorations during the entire period of *beyn hash'mashot* of each of the eight days of the festival. If he makes the condition regarding the first day alone, the decorations become forbidden on the subsequent days of the festival.
+
 [^123]: In contrast to the walls or *s'chach*, in this instance the condition has an effect. It is possible for a sukkah to exist without decorations, but not without walls (Rabbenu Manoach).

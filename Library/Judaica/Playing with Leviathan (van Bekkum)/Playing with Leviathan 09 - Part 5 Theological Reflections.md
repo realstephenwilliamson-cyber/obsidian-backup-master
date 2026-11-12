@@ -47,7 +47,9 @@ In this contribution we first highlight in some more detail the positive theolog
 In the history of Christian theology the relationship between God and animals (or more broadly the non-human part of creation) has often been neglected.[^2] Influential interpretations of the creation story (esp. of [[Torah 01 - Bereshit#^1-28|Gen 1:28]] and 2:19) and [[Psalms 008#^8-1|Psalm 8]] defined animals exclusively in terms of their instrumental value for the well-being of human beings. As Lukas Vischer has helpfully pointed out, such views can hardly be labelled anthropocentric but should more properly be called anthropomonistic.[^3] That the Bible is anthropocentric in the sense that human beings fulfil a unique task in creation and are of central importance in the salvific purposes of God, cannot and should not be denied. This is not to say, however, that *only* human beings play a role in God’s plan, and animals—if at all—only for humans’ sake. This kind of anthropomonism, according to which the rest of creation exists merely to serve our human interests, is clearly at odds with many strands of biblical literature. In more recent decades theological discussions have highlighted the pervasive presence of animals throughout the Bible, also in contexts and narrative plots where they are not directly connected to humans and their well-being. In line with this, many have argued for a more positive evaluation of animal life from a Christian theological perspective.[^4]
 
 [^2]: By ‘animals’ I mean non-human animals. I won’t add this modifier all the time (nor retreat to such equivalents as ‘beasts’) since despite the fact that, strictly speaking, human beings are *animales* as well, the connotation of animals as referring to non-humans continues to be strongly embedded in everyday language and is clearly functional.
+
 [^3]: Lukas Vischer, “Listening to Creation Groaning: A Survey of Main Themes in Creation Theology,” in: Lucas Vischer (ed.), *Listening to Creation Groaning*, Geneva 2004, 21–22.
+
 [^4]: Cf. e.g. Andrew Linzey, *Animal Theology*, London 1994; Charles Birch, Lukas Vischer, *Living with Animals. The Community of God’s Creatures*, Geneva 1997; Andrew Linzey, Dorothy Yamamoto (eds.), *Animals on the Agenda. Questions about Animals for Theology and Ethics*, London 1998; Stephen Webb, *On God and Dogs. A Christian Theology of Compassion for Animals*, New York, NY 1998; Michael J. Gilmour, *Eden’s Other Residents. The Bible and Animals*, Eugene, OR 2014. A nuanced account of the biblical data, also acknowledging texts that seem to disregard the value of animals—such as [[Mark 05#^5-13|Mark 5:13]] par. and [[2 Corinthians 09#^9-9|2 Cor 9:9–10]]—is provided by Robert N. Wennberg, *God, Humans, and Animals. An Invitation to Enlarge Our Moral Universe*, Grand Rapids, MI 2002, 285–308. By now animals have also entered ‘official’ surveys of Christian doctrine; cf. e.g. David Fergusson, “Creation,” in: John Webster, Kathryn Tanner, Iain Torrance (eds.), *The Oxford Handbook of Systematic Theology*, Oxford 2007, 84–86, and Gijsbert van den Brink, Cornelis van der Kooi, *Christian Dogmatics. An Introduction*, Grand Rapids, MI (in press), § 6.6. Intensifying the tendency to rehabilitate animals theologically, David Clough, *On Animals: Volume 1, Systematic Theology*, London 2012, argues that the purely instrumental view of animals stems mostly from non-biblical Greek sources that were uncritically adopted into the Jewish-Christian tradition.
 
 *[p. 181]* ^pg209
@@ -55,6 +57,7 @@ In the history of Christian theology the relationship between God and animals (o
 As to the Bible, it speaks to the relative independence of land animals, that in the creation story of [[Torah 01 - Bereshit#^1-1|Genesis 1]] they are created prior to us humans on the very same sixth day. The first human beings did not have animals as their food—the eating of animals began after the state of peace with them was broken by sin.[^5] The story of Noah (Gen 6–8) shows how God provides for the preservation of all animal species that were threatened with extinction as a result of the flood. In the wake of the flood, a new covenant was made not only with Noah and his offspring, but also with “every living creature of all flesh that is on the earth” (9:16).[^6] So the very category of a covenant, which is prominent in the history of salvation, is applied to animals as well. In the Mosaic law, special attention is given to livestock; lest they be abused, they should rest on the Sabbath day like their human possessors ([[Torah 17 - Yitro#^20-8|Exod 20:8]], [[Torah 18 - Mishpatim#^23-12|23:12]]; [[Torah 45 - Vaetchanan#^5-13|Deut 5:13–14]]). Also, “when you see the donkey of one who hates you lying under its burden and you would hold back from setting it free, you must help to set it free” ([[Torah 18 - Mishpatim#^23-5|Exod 23:5]]). The interests (or, if one wishes, ‘rights’) of animals were further protected by rules forbidding the Israelites to plough with a donkey and an ox together ([[Torah 49 - Ki Teitzei#^22-10|Deut 22:10]])—presumably because that would cause them a lot of physical pain—and to harvest their lands every seventh year since its fruits should then be left for every living being who needs it, including “the wild animals in your land” ([[Torah 32 - Behar#^25-6|Lev 25:6–7]]; cf. [[Torah 18 - Mishpatim#^23-10|Exod 23:10]]). Thus, the farmer does what God does: giving food to the beasts ([[Psalms 147#^147-9|Ps 147:9]]) and “satisfying the desire of every living thing” ([[Psalms 145#^145-16|Ps 145:16]]). Especially telling is, as we saw, Ps 104, as are the chapters in the book of Job (39–41) where God’s creative and sustaining relationship to even the most monstrous animals is professed.
 
 [^5]: G. Patzig, “Animals,” in: *The Encyclopedia of Christianity* Vol. 1, Grand Rapids, MI 1999, 62.
+
 [^6]: Bible quotations are from the New Revised Standard Version.
 
 *[p. 182]* ^pg210
@@ -64,7 +67,9 @@ Even the Old Testament practice of animal sacrifice need not necessarily be seen
 Coming to the New Testament, in Jesus’ teachings the animals are never far away. In fact, he wasn’t far away himself from the wild animals at the beginning of his earthly ministry, when he stayed with them in the desert ([[Mark 01#^1-13|Mark 1:13]]).[^8] In the Sermon on the Mount Jesus uses birds as an example for proper human conduct ([[Matthew 06#^6-26|Matt 6:26]]), because of the fact that they do not plan and calculate their lives in advance (which ironically became a sign of human superiority in later philosophical and theological anthropology!),[^9] but spontaneously seem to trust God without worrying. Later on in the Gospel of Matthew, some specific animals are praised for their prudence and innocence (10:16). Also, we hear that not even a bird as common as a sparrow will fall to the ground apart from the involvement of the heavenly Father (10:29). That such involvement is not to be identified with God’s will (an identification that was often made based on a loose and incorrect translation of this text), is suggested by the story about the herd of swine drowning in the Sea of Galilee ([[Mark 05#^5-11|Mark 5:11–13]] pp.). Here, it is telling that it is the demons that have the herd drop down into the sea, not God or Jesus. Is there a mysterious connection between animal suffering and death on the one hand, and satanic powers on the other? In any case, Jesus is only indirectly involved here, as the one who allows the demons to enter (not to drown) the swines—and the question why he gave them this permission remains both unasked and unanswered.
 
 [^7]: Cf. Wennberg, *God, Humans, and Animals*, 297.
+
 [^8]: Cf. Richard Bauckham, *Living with Other Creatures. Green Exegesis and Theology*, Waco, TX
+
 [^9]: Patzig, “Animals,” 62.
 
 *[p. 183]* ^pg211
@@ -88,6 +93,7 @@ apparently allotted a limited span of time to each of the species he created? An
 (. . .) atoms that were combined for a time now part company—so what? Epicurean reasoning has cogency for animals, although it must be rejected in the case of human death because of the human difference, the transcendence of the *imago Dei* (. . .). The death of animals that are our close companions (may) make us sad, but this is a subjective projection and must be kept within bounds.[^11] Blocher is a little more hesitant with regard to animal *pain and suffering*, but considers that here as well our late-modern Western sensitivity might not be the most reliable guide. Scripture doesn’t always seem to care much about the suffering of animals (Blocher points to [[1 Corinthians 09#^9-9|1 Cor 9:9]] in this connection, and he could also have referred to Matth. 8:32 pp.). Moreover, where should we draw the line? Should we also feel concern “for the ‘suffering’ of rats, flies or lice?” And finally, it is far from self-evident that we should attribute ‘selves’ to animals: perhaps even the higher animals do not possess self-consciousness to such an extent that they are able to realize that what they experience is pain. “None can say ‘I’.”[^12] Without mentioning this, Blocher is tying in here with what has been called the neo-Cartesian denial of animal pain. This denial is named after Descartes because Descartes reputedly held that animals do not experience pain at all, since, lacking rational minds, they are unconscious automata rather than sentient beings. Leaving aside the question whether this rendering of Descartes’ views is accurate, *neo*-Cartesians usually do not go as far as that. Rather, while acknowledging that animals as a matter of fact are sentient beings, they deny that animals can suffer, because they lack something else, namely *self-consciousness over time*. As a result, animals can at best go through momentary sentient states of pain, but they cannot realize that they do so since there is no ‘I,’ no self-conscious subject, to realize anything at all. Therefore, presumably, their momentary physical sensations of pain are not morally relevant. C.S. Lewis, one of the first to explore and (tentatively) defend this view with regard to the category of ‘merely sentient’ animals, put the point this way: the nervous system of such animals “(. . .) delivers all the *letters* A, P, N, I, but since 
 
 [^11]: Henri Blocher, “The Theology of the Fall and the Origins of Evil,” in: R.J. Berry, T.A. Noble (eds.) *Darwin, Creation and the Fall*, Nottingham 2009, 167.
+
 [^12]: Blocher, “Theology of the Fall,” 168.
 
 *[p. 185]* ^pg213
@@ -97,8 +103,11 @@ they cannot read they never build it up into the word PAIN.”[^13] The fact tha
 It is notoriously difficult to show that the (neo-)Cartesian approach of animal suffering is incorrect.[^14] The approach cannot easily be dismissed as “absurd,” as Peter van Inwagen does.[^15] Still, a couple of observations make it at least implausible.[^16] First, animals of many species display non-reflexive behaviour in avoiding the return of painful sensations to which they have previously been exposed. This so-called ‘pain guarding’—e.g. limping, standing on one leg—continues for some time after the damaging stimulus has ceased. Second, the neural similarities between humans and other mammalian species (including the presence of a prefrontal cortex) offer further confirmation that our spontaneous inclination to conclude from certain types of animal behaviour to the existence of animal suffering may be correct. Third, for all we know, even vertebrates that lack the brain structures responsible for ‘real’ pain in mammals (or at least in humans), like birds, can have other brain structures that are functionally equivalent. Fourth, the level of self-consciousness that is needed to 
 
 [^13]: C.S. Lewis, *The Problem of Pain*, New York, NY 1962, 138. In response to criticisms by C.E.M. Joad, Lewis maintained his view, but emphasized that his chapter on animal suffering in *The Problem of Pain* was “confessedly speculative” and “guesswork about Beasts;” cf. C.E.M. Joad, C.S. Lewis, “The Pains of Animals. A Problem in Theology,” *Month* 189 (1950), 95–104; repr. in C.S. Lewis, *God in the Dock. Essays on Theology and Ethics*, Grand Rapids, MI 1970, 161–171. The neo-Cartesian response has been refined and elaborated by Peter Harrison, “Theodicy and Animal Pain,” *Philosophy* 64 (1989), 72–92. For an illuminating discussion, see Michael Murray, *Nature Red in Tooth and Claw. Theism and the Problem of Animal Suffering*, Oxford 2008, 43–49.
+
 [^14]: Murray, *Nature*, concludes his extensive discussion of neo-Cartesianism (41–72) by stating that “the evidence against the neo-Cartesian position is quite weak” (71).
+
 [^15]: Peter van Inwagen, *The Problem of Evil*, Oxford 2006, 131.
+
 [^16]: Cf. for this list Robert Francescotti, “The Problem of Animal Pain and Suffering,” in: Justin P. McBrayer and Daniel Howard-Snyder (eds.) *The Blackwell Companion to the Problem of Evil*, Chichester 2013, 117–121. One might also add the ethical consideration that if neo-Cartesianism is true, it is difficult to see why we should be opposed to (and have laws against) animal abuse and maltreatment (cf. Wennberg, *God, Humans, and Animals*,
 
 *[p. 186]* ^pg214
@@ -112,7 +121,9 @@ To be sure, none of these considerations (nor their cumulative force) is decisiv
 In the Christian tradition, a far more influential line of thinking with regard to the question that concerns us here is that animal pain and death are the result of *human sin*.[^19] This answer is sometimes labelled “the cosmic fall theory:” after the first human beings lapsed into sin, God’s originally perfect creation was distorted to such an extent that the natural world fell into disarray. As a result, animals gradually came to suffer from predation and other forms of natural evil. This cosmic fall theory has at least two important advantages. First, it forcefully underlines the seriousness of human sin in relation to the strong 
 
 [^17]: Cf. e.g. Mark Bekoff, *The Emotional Life of Animals*, Novato, CA 2007.
+
 [^18]: Cf. Lewis, “The Pains of Animals,” in: *God in the Dock*, 168: “It will hardly be denied that the more coherently conscious the subject is, the more pity and indignation its pains deserve.”
+
 [^19]: See for recent statements of this view several contributions in Norman C. Nevin (ed.) *Should Christians Embrace Evolution?*, Nottingham 2009, e.g. 23, 67, 79–83.
 
 *[p. 187]* ^pg215
@@ -130,9 +141,13 @@ The situation turned out to be even worse: the death of animals has always been 
 But doesn’t this view go against the grain of the Jewish and Christian canonical Scriptures? That remains to be seen. Indeed, some have argued that, upon closer scrutiny, the Bible does not suggest a cosmic fall at all. Old Testament scholar John Bimson, for example, contends that “most of the Bible is completely silent on the matter, and the doctrine \[of the cosmic fall\] actually depends on the interpretation of a few key texts”—texts that he is then keen to interpret differently himself.[^25] Now no doubt the idea of a cosmic fall gained much more traction and was elaborated in much more detail in various stages of *church history*—a process that started already in pseudepigraphical
 
 [^21]: Southgate, *The Groaning of Creation*, 29.
+
 [^22]: Cf. for some important reservations on the explanatory scope of natural selection, Thomas Nagel, *Mind and Cosmos. Why the Materialist Neo-Darwinian Conception of Nature is almost certainly False*, Oxford 2012, and Ronald Meester, *Arrogant. Waarom wetenschappers vaak minder weten dan ze denken*, Utrecht 2013.
+
 [^23]: Indeed, the view that animal suffering and death must have preceded the Fall emerged already before 1859 (the year in which Darwin’s *Origin of Species* was published). E.g., in 1839 the English theologian and geologist William Buckland (1774–1856) preached a famous sermon in which he argued that the sentence of death pronounced at the Fall of humankind did not include the realm of animals (where death was already prevalent) but was restricted to the human race. Cf. William Buckland, *An Enquiry Whether the Sentence of Death Pronounced at the Fall of Man Included the Whole Animal Creation or was Restricted to the Human Race*, London 1839.
+
 [^24]: Arthur Peacocke*, Theology for a Scientific Age*, enlarged edition, Oxford 1993, 222.
+
 [^25]: John J. Bimson, “Reconsidering a ‘Cosmic Fall’,” *Science and Christian Belief* 18 (2006), 63–81 (quote on 67).
 
 *[p. 189]* ^pg217
@@ -160,7 +175,9 @@ and its inhabitants suffer for their guilt.
 ([[Isaiah 24#^24-4|Isa 24:4–6]])
 
 [^26]: Especially telling here is *The Life of Adam and Eve*; cf. *The Apocrypha and Pseudepigrapha of the Old Testament*, trans. R.H. Charles, Oxford 1913. In addition to this, Bimson (“Reconsidering,” 63–4) also points to some of the church fathers (e.g. Theophilus of Antioch, *To Autolychus* II 17) and further suggests that the idea of a cosmic fall “was particularly influential in the sixteenth and seventeenth centuries,” referring here to Milton’s *Paradise Lost* as an example.
+
 [^27]: F.F. Bruce, *The Epistle of Paul to the Romans* (TNTC), London 1963, 169.
+
 [^28]: Murray, *Nature*, 74 (my italics).
 
 *[p. 190]* ^pg218
@@ -170,8 +187,11 @@ First of all, however, these texts do not imply that human sin has somehow disto
 Now some of those who have argued that animal suffering (as part of natural evil) is the result of human sin, have realized that this should not be spelled out in terms of the establishment of a new order for life on earth—including changed laws of nature—after the Fall. Rather than suggesting that animal suffering and death entered creation only after human sin, they have hinted at the 
 
 [^29]: Cf. C. John Collins, *[[Torah 01 - Bereshit#^1-1|Genesis 1]]–4. A Linguistic, Literary, and Theological Commentary*, Phillipsburg 2006, 164 (speaking of [[Torah 01 - Bereshit#^3-17|Gen 3:17–19]]): “The text (. . .) does not imply that the pain results from changes in the inner workings of the creation.”
+
 [^30]: Murray, *Nature Red in Tooth and Claw*, 75, overlooks this point; moreover, although [[Romans 08#^8-19|Rom 8:19–22]] does not mention the Fall, without giving a justification for this move Murray reads a reference to the Fall into this passage as well, arguing that Paul “extends the scope of the effects of the Fall from the cursed ground (. . .) to the entirety of creation” here (76; of course the passage has often been *interpreted* as referring to the Fall—but that’s another matter).
+
 [^31]: Cf. Collins, *[[Torah 01 - Bereshit#^1-1|Genesis 1]]–4*, 165–6.
+
 [^32]: Cf. on the theodicean function of the cosmic fall theory in the early church, David Fergusson, *Creation*, Grand Rapids, MI 2014, 43.
 
 *[p. 191]* ^pg219
@@ -183,7 +203,9 @@ If then God knew beforehand that the Fall of man would take place, should not Hi
 The problem with this view, however, is that it may make sense of a scenario in which the human species was created almost simultaneously with the animals, but it can hardly account for the evolutionary scenario in which animals had to suffer for millions of years before humans appeared on the scene. For why would God choose such an extremely long route full of pain and suffering just to teach human beings their lessons? “Wouldn’t God secure all the relevant goods and avoid a massive array of evil simply by creating the universe in much the way the young-universe creationist believes it was created?”[^35]
 
 [^33]: Emil Brunner, *The Christian Doctrine of Creation and Redemption*, Philadelphia, PA 1950, 131. There is also an allusion to this view in Herman Bavinck, *Reformed Dogmatics III: Sin and Salvation in Christ*, Grand Rapids, MI 2006, 182: God took account of the Fall already in creating the world by including the possibility of “futility and decay;” it was only after the Fall, however, that “(. . .) nature gradually became degraded and adulterated and brought forth thorns and thistles (. . .) and carnivorous animals” (181).
+
 [^34]: This is done by William B. Dembski, *The End of Christianity: Finding a Good God in an Evil World*, Nashville, TN 2009.
+
 [^35]: Murray, *Nature Red in Tooth and Claw*, 96.
 
 *[p. 192]* ^pg220
@@ -201,6 +223,7 @@ I hold that the sort of universe we have, in which complexity emerges in a proce
 Adopting this position opens the door to a CD of animal suffering according to which that suffering is a necessary condition for securing outweighing goods, namely, the emergence of organisms capable of imaging God in the way Christians think human beings do.[^37] 
 
 [^36]: Southgate, *The Groaning of Creation*, 29 (the italics are original).
+
 [^37]: Murray, *Nature*, 184. A “CD” is a *causa Dei*, a phrase Murray borrows from Leibniz for a possible case to be made on behalf of God over against evil, as in a trial (40).
 
 *[p. 193]* ^pg221
@@ -222,6 +245,7 @@ thereby avoiding that horrible fire. The gazelle might have lost consciousness b
 However this may be, ‘only way arguments’ (like their close cousin: ‘greater good arguments’) ascribe everything that happens in nature, no matter how horrendous it may seem, to the will of God. By ‘baptizing’ in this way what strikes us as highly troubling and disconcerting in the natural world (like forms of predation that involve the predator’s slow devouring of, or extended playful engagement with, its prey), they deeply implicate God in the causation of suffering and evil. Theologically, that is a high price to pay. Therefore, we must consider yet another interpretation of animal suffering—one that throws less doubt on God’s goodness.
 
 [^38]: Francescotti, “The Problem of Animal Pain and Suffering,” 124; the reference to the fawn hints at a famous example used by William Rowe (“The Problem of Evil and Some Varieties of Atheism,” *American Philosophical Quarterly* 30 \[1979\], 335–341) to show that some severe animal suffering is absolutely pointless. The example concerns a fawn that is trapped in a forest fire, “horribly burned,” and lying “in terrible agony for several days before death relieves its suffering” (337)—all this without any human being around who could possibly learn some lesson from the terrible event.
+
 [^39]: *Pace* Van Inwagen, *Problem of Evil*, 125–126. Cf. 123: “(. . .) we have no reason to accept the proposition that an omniscient and omnipotent being will be able so to arrange matters that the world contains sentient beings and does not contain patterns of suffering morally equivalent to those of the actual world.”
 
 *[p. 195]* ^pg223
@@ -235,6 +259,7 @@ Here, two answers have been given in theological reflection that may look differ
 Satan, so the traditional doctrine goes, is a mighty nonhuman spirit who, along with many other angels, was created long before God created man. Satan rebelled against God and has since been wreaking whatever havoc he can. The result is natural evil.[^40] So animal suffering, being part of natural evil, might be seen as due to the free actions of Satan and other fallen angels. Indeed, C.S. Lewis, Michael Lloyd and others have explicitly applied this view to animal suffering.[^41] Lewis, for 
 
 [^40]: Alvin C. Plantinga, *God, Freedom, and Evil*, Grand Rapids, MI 1974, 58. Plantinga not merely describes this view but makes clear that he takes it seriously (also thirty years later in “Supralapsarianism, or ‘O Felix Culpa’ ”, in: Peter van Inwagen \[ed.\], *Christian Faith and the Problem of Evil*, Grand Rapids, MI 2004, 1–25). Cf. for a similar view Clark Pinnock, *Most Moved Mover. A Theology of God’s Openness*, Carlisle 2001, 133–134.
+
 [^41]: Lewis, *Problem of Pain*, 134–136; Michael Lloyd, “Are Animals Fallen?,” in: Linzey, Yamamoto (eds.), *Animals on the Agenda*, 147–160. Cf. also Gregory Boyd, *Satan and the Problem of Evil*, Grand Rapids, MI 2001. In the Bible, the idea of an angelic Fall is supported by two relatively late texts (both of which draw on earlier Jewish sources): [[2 Peter 02#^2-4|2 Pet 2:4]] and Jude 6. Murray, *Nature*, 97–98, ignores these texts and instead quotes at length two Old Testament passages ([[Isaiah 14#^14-12|Isa 14:12–15]] and [[Ezekiel 28#^28-12|Ezek 28:12–19]]) that, in my view, have been less influential in Christian theological thinking.
 
 *[p. 196]* ^pg224
@@ -244,9 +269,13 @@ example, argued that it is “a reasonable supposition, that some mighty created
 Second, a more abstract and sophisticated version of what is basically the same response has been put forward by some theologians who have been influenced by Karl Barth, such as Thomas Torrance and Neil Messer. Here, the intuition that evil forces have somehow intruded into God’s creation is articulated in a more muted way. Torrance, for example, took with great seriousness the scientific picture of nature as being “red in tooth and claw”, and he concluded from that picture that “far from evil having to do only with human hearts and minds, it has become entrenched in the ontological depths of created existence.”[^44] Torrance realized that given the second law of thermodynamics, important parts of the evolutionary process (e.g. death, decomposition, etc.) could hardly be other than what they are, but he thinks things are different when it comes to such troubling aspects which are at the heart of this process, such as the predator-prey relationship and “indeed sheer animal pain.”[^45] Hence, “it is difficult not to think that somehow nature has been infiltrated by an extrinsic evil,” which gave its functions and features “a malignant twist.”[^46] Rather than representing these evil forces as fallen angels, however, Torrance, following Karl Barth, speaks more abstractly about “anti-being,” which because of God’s rejection can have only an “improper existence.” In this way, Torrance 
 
 [^42]: Lewis, *Problem of Pain*, 134–135.
+
 [^43]: Lewis, *Problem of Pain*, 134.
+
 [^44]: Thomas F. Torrance, *Divine and Contingent Order*, Oxford 1981, 116.
+
 [^45]: Torrance, *Divine and Contingent Order*, 122.
+
 [^46]: Torrance, *Divine and Contingent Order*, 123, 122; cf. Southgate, *The Groaning of Creation*, 32, and Paul D. Molnar, *Thomas F. Torrance. Theologian of the Trinity*, Farnham 2009, 88.
 
 *[p. 197]* ^pg225
@@ -258,7 +287,9 @@ In her rich recent monograph on animal suffering, Nicola Hoggard Creegan combine
 At the same time, however, there are deeply troubling aspects to the mechanisms of the evolutionary process, such as the harshness and callousness of natural selection and the relentless carnage that has gone on since pre-human times (53). When we have become sensitive to these dark aspects of evolution we “need some way of understanding animal suffering as more than just a means to a higher order of different creatures” (49). It will not do to suggest that God will ultimately redeem nature from these afflictions as long as God is regarded as their creator, since in that case “the values God reveals in creation are completely opposed to those shown in redemption” (53). Whoever baptizes 
 
 [^47]: Torrance, *Divine and Contingent Order*, 118.
+
 [^48]: Neil Messer, “Natural Evil after Darwin,” in: Michael S. Northcott, R.J. Berry (eds.), *Theology after Darwin*, Milton Keynes 2009, 139–154 (149).
+
 [^49]: Nicola Hoggard Creegan, *Animal Suffering and the Problem of Evil*, Oxford 2013, 76. Henceforth, numbers between brackets in the body of the text refer to pages of this book.
 
 *[p. 198]* ^pg226
@@ -268,6 +299,7 @@ all of life’s modes of being as “God’s will” runs the risk of minimizing
 Who or what is responsible for the tares? Somehow, the ontology of evil will always remain inscrutable to us (93). The Bible is full of images and metaphors, however, that help us to take these evil forces seriously. Animal suffering, like much human suffering (cf. [[Luke 13#^13-16|Luke 13:16]]), is part of the corrupted world, “caused in some sense by the evil known variously in Scripture as the Evil One, powers and principalities, or ‘shadow sophia’.”[^50] Hoggard Creegan is keen to grant that these demonic forces don’t have any independent authority or life in themselves (76). Such a radical dualism would indeed be sub-Christian. Still, the New Testament suggests what might be called a “provisional” or “modified” dualism, with evil, though elusive and hidden in its agency and ontology (52), as a very real destructive force that transcends the human dimension. In this way, Hoggard Creegan argues for the rehabilitation of a theology of fallenness. “(. . .) why discard the element of the demonic when the Scriptures are so full of it? A theology of fallenness enables us to say ‘no’ to the idea that suffering is necessary or a part of God’s kingdom in some way.”[^51] In sum, a revised version of the cosmic fall theory, as developed by thinkers like Lewis, Torrance and Hoggard Creegan, enables us to account for (the most troubling aspects of) animal suffering without somehow having to endorse it or explain it away. But it also helps to see that God is *opposed* to it, working all the time to redeem creation from its evil intruders. This made the Psalmist exclaim, “You save humans and animals alike, O Lord” ([[Psalms 036#^36-7|Ps 36:6]]). As Torrance reminds us, this has become most clear at the cross of Christ where the powers 
 
 [^50]: Hoggard Creegan, *Animal Suffering*, 137. The reference to “shadow Sophia” is based on Celia Deane-Drummond, *Christ and Evolution. Wonder and Wisdom*, London 2009, 185– 186, who in turn draws on the work of Sergii Bulgakov. It is not clear to me where this notion is mentioned in Scripture (as Hoggard Creegan suggests). Bulgakov uses the term in a way that calls to mind Barth’s notion of *das Nichtige*: the dark side of creation that is not willed by God but as such nevertheless exists.
+
 [^51]: Hoggard Creegan, *Animal Suffering*, 148. The famous ‘ecological’ passage in [[Romans 08#^8-19|Rom 8:19–20]] might also be interpreted along such lines, the futility to which nature is subjected in the present era being due to “the devil and his fallen angels.” Cf. Robert Jenson, *Systematic Theology* 2, Oxford 1999, 151.
 
 *[p. 199]* ^pg227
@@ -283,6 +315,7 @@ In the foregoing, we did not have space to discuss every attempt to come to term
 It is intriguing that this conclusion brings us back to the beginning of this chapter. For doesn’t the figure of Leviathan in all its mysteriousness reflect this deep-seated ambiguity of good and evil which we experience in creation at large? As has become clear in other contributions to this volume, Leviathan 
 
 [^52]: Torrance, *Divine and Contingent Order*, 116.
+
 [^53]: Cf. for this phrase Southgate, *Groaning of Creation*, ch. 5; Southgate draws on Jay McDaniel, *Of God and Pelicans*, Louisville, KY 1989, who in turn derived it from Holmes Rolston III, *Science and Religion: A Critical Survey*, New York, NY 1987, 138–140. White pelicans typically lay two eggs, but use the second one only as a spare copy; if all goes well with the first hatched chick, the second chick is driven out of the nest and usually dies of abuse or starvation.
 
 *[p. 200]* ^pg228
@@ -308,8 +341,11 @@ Van Ruler liked to articulate his views in short, provocative statements and had
 The title of this chapter is also a one-liner: “God deals more roughly with his creature than we would like.” Whoever Googles this saying (in Dutch) will find a number of websites where this saying is cited and ascribed to Van Ruler. 
 
 [^1-p201]: An edition of Van Ruler’s collected works is being prepared. So far, four parts in five volumes have appeared: A.A. van Ruler, *Verzameld Werk, Deel 1–6B*, ed. by D. van Keulen, Zoetermeer 2007–2016. Hereafter I will refer to the parts of the *Verzameld Werk* as *VW*, followed by the number of the part. For a short biography of Van Ruler, see Van Keulen, “Inleiding,” in: A.A. van Ruler, *VW1*, 17–45.
+
 [^2-p201]: Van Ruler, “De verhouding van de mens en de wetenschap in het licht van de theologie,” in: idem, *VW1*, 138.
+
 [^3-p201]: Van Ruler, “Jezus als voorbeeld,” in: idem, *VW4A*, 122.
+
 [^4-p201]: Van Ruler, “De vreugde als wezenlijk christelijk levensgevoel,” in: idem, *VW3*, 440.
 
 *[p. 202]* ^pg230
@@ -321,7 +357,9 @@ Three texts indicate that Van Ruler became interested in the figure of Leviathan
 Van Ruler’s interest in Leviathan lasted a relatively short time, but his interest, while it lasted, was intense. Van Ruler was fascinated, one could claim, by this monster in the Bible. We know this from another source, in addition to the texts cited. When I wrote his daughter Janneke that I would be speaking at a conference about Leviathan in her father’s work, she mailed me that he also talked about Leviathan to his family: “Leviathan had been portrayed to me as something very scary. . . . But Dad could get very enthusiastic about it. 
 
 [^5-p202]: H.M. Kuitert, *Het algemeen betwijfeld christelijk geloof: Een herziening*, Baarn 1992, 108: ‘Waar komt het kwaad vandaan? Het klassieke antwoord van de christelijke traditie schiet tekort. Niet alleen van de zonde, er is meer aan de hand. Er is een raadsel in de omgang tussen God en Zijn schepping. De uitspraak van Van Ruler dat God ruiger met Zijn schepsel omgaat dan ons lief is, valt mij hier opnieuw te binnen. Er is ook kwaad dat niet op ons conto staat, maar op dat van de Schepper.’ In the English translation of Kuitert’s book—‘Where does evil come from? The classic answer of the Christian traditions falls short. Not just from sin; there’s more to evil than that. There’s an enigma in the dealings between God and his creation. I think once again of Van Ruler’s statement that God is more involved in his creation than we would like. There’s also evil which is not to be put to our account, but to the Creator’s’ (H.M. Kuitert, *I Have My Doubts: How to Become a Christian without Being a Fundamentalist*, trans. J. Bowden, London 1993, 93)—the point of Van Ruler’s quote is missed. Instead of “God is more involved in his creation than we would like” I would prefer to translate: “God deals more roughly with his creature than we would like.”
+
 [^6-p202]: For the disputed character of Van Ruler’s “God en de chaos,” see Van Keulen, “Inleiding,” in: Van Ruler, *VW3*, 19–24.
+
 [^7-p202]: Aside from the three texts mentions, Leviathan does appear one other time in Van Ruler’s work, namely, in an oblique remark in a lecture in 1953: “De vreugde in bijbels perspectief (Joy in Biblical Perspective),” in: Van Ruler, *VW3*, 433–434 (note q). 8 E-mail from Janneke van Ruler to Dirk van Keulen (February 12, 2013). 9 All quotes in this paragraph are from: Van Ruler, “Het spel met de chaos,” in: idem, *Vertrouw en geniet*, The Hague, n.d. \[1955\], 88.
 
 *[p. 203]* ^pg231
@@ -357,9 +395,13 @@ Van Ruler describes that living by trusting in God with the image of the human b
 “God en de chaos” displays characteristic features of Van Ruler’s way of theologizing. There are challengingly formulated one-liners, such as this, for example: “The devil is God’s servant, at most God’s monkey.”[^14-p204] We come across his associative way of thinking. The text consists of eighteen paragraphs that are not always connected or arranged logically. Van Ruler sometimes makes associative leaps in thought. He also neglects to define terms clearly—such as the terms “chaos” and “spel” (“play”). As a result, the argument is not easy to understand.[^15-p204]
 
 [^11-p204]: All quotes in this paragraph are from: Van Ruler, “Het spel met de chaos,” 90–91.
+
 [^12-p204]: Van Ruler, “Het spel met de chaos,” 91.
+
 [^13-p204]: Van Ruler, “God en de chaos,” *Wending. Maandblad voor evangelie en cultuur* 14/5–6 (July/August 1959), 336–351. The lecture was also published earlier in *Vox Veritas* 30/3 (October 25, 1958). The text would also appear later in Van Ruler, *Theologisch Werk, deel 5*, Nijkerk 1972, 32–45, and in idem, *VW3*, 159–172. I will refer below to the edition *VW3*.
+
 [^14-p204]: Van Ruler, “God en de chaos,” 165.
+
 [^15-p204]: Cf. G.C. Berkouwer, “Over de theologie van A.A. van Ruler (IV),” *Gereformeerd Weekblad* 26/45 (May 14, 1971, 313; cf. also idem, *De zonde, deel 2. Wezen en verbreiding der zonde*, Kampen 1960, 202 (note 351): “. . . not transparent in all respects.”
 
 *[p. 205]* ^pg233
@@ -379,10 +421,15 @@ In the third part Van Ruler combines the results of the first and second part of
 In the fourth and final part he presents this thesis: “Love is the solution to the problem!” and works this out by looking at it from various angles.[^21-p205] In his argument he asserts, among other things, that chaos does not paralyze love and that we need to have the courage to see in chaos more 
 
 [^16-p205]: Van Ruler, “God en de chaos,” 159. This idea can be found often in Van Ruler’s work. See, for example, Van Ruler, “Gods voorzienigheid,” in: *VW3*, 130; idem, “Wij staan als christenen in Gods hand,” in: *VW3*, 134; idem, “De leer van de uitverkiezing,” in: *VW4A*, 749, 752–753.
+
 [^17-p205]: Van Ruler, “God en de chaos,” 159–161.
+
 [^18-p205]: Van Ruler wrote about this earlier in his 1943 work, “Orde en chaos,” in: *VW3*, 146–147.
+
 [^19-p205]: Van Ruler, “God en de chaos,” 161–164.
+
 [^20-p205]: Van Ruler, “God en de chaos,” 164–166.
+
 [^21-p205]: Van Ruler, “God en de chaos,” 166–170.
 
 *[p. 206]* ^pg234
@@ -394,9 +441,13 @@ Leviathan appears twice in the argument: in the first and fourth parts. In the f
 Whoever is quite familiar with Van Ruler’s theology is reminded of a parallel with his view of sin. It is also true of sin, in his view, that it is not absolute, divine, eternal or self-sufficient. Sin was called into existence from nothing by human beings. Because sin has come into existence, we can also be redeemed.[^24-p206] Nevertheless, the parallel between the chaotic and sin ultimately does not work. Whereas Van Ruler repeatedly emphasizes in his work that sin is accidental in character,[^25-p206] he argues in “God en de chaos” that the chaotic element in the world is “not something purely accidental in created being.” That is what we often think intuitively: the world and our life should be harmonious and not chaotic. Our intuition is of no use to us here, however: “Chaos is more essential than we . . . thought.”[^26-p206] That explains why Van Ruler also calls Leviathan “chaos as such, as a primeval element and *permanent substratum* of all being.” Permanent substratum?—that raises the question: Is the chaotic then also eternal? Is there a tension in Van Ruler’s thinking here?
 
 [^22-p206]: Van Ruler, “God en de chaos,” 161.
+
 [^23-p206]: Van Ruler, “God en de chaos,” 161.
+
 [^24-p206]: Van Ruler, “Zonnigheden in de zonde,” in: *VW3*, 361–362; idem, “De mens als zondaar,” in: *VW3*, 365–366.
+
 [^25-p206]: See, for example, Van Ruler, “De beperktheid van het theologische kennen,” in: *VW2*, 139; idem, “Vormen van omgang met de bijbel,” in: *VW2*, 341; idem, “De christelijke kerk en het Oude Testament,” in: *VW2*, 471; idem, “De ontmoeting van de mens met God,” in: *VW3*, 211; idem, “De reformatorische visie op de mens,” in: *VW3*, 243; idem, “De mens, de zin van de geschiedenis,” in: *VW3*, 314; idem, “De zonde in het besluit,” in: *VW3*, 351; idem, “Zonnigheden in de zonde,” in: *VW3*, 361; idem, “De mens als zondaar,” in: *VW3*, 366; idem, “De waardering van het aardse leven,” in: *VW3*, 413; idem, “De vreugde als wezenlijk christelijk levensgevoel,” in: *VW3*, 440; idem, “De verhouding van het kosmologische en het eschatologische element in de christologie,” in: *VW4A*, 151; idem, “De noodzakelijkheid van een pneumatologie,” in: *VW4A*, 418; idem, “Ván de Heilige Geest náár een christelijke cultuur,” in: *VW4A*, 482; idem, “Schepping en wedergeboorte,” in: *VW4B*, 303; idem, “De vocatione,” in: *VW4B*, 318; idem, “Gerechtigheid en rechtvaardigheid,” in: *VW4B*, 488.
+
 [^26-p206]: Van Ruler, “God en de chaos,” 161.
 
 *[p. 207]* ^pg235
@@ -406,10 +457,15 @@ Van Ruler then returns in this context to the idea borrowed from Ps 104 that God
 At the end of his argument Van Ruler returns to the notion of God playing with Leviathan, with chaos. He holds that this playing is “the most profound thing” that can be said about the chaos. That does not mean that everything has become comprehensible and transparent, for “perhaps we will never completely understand everything. Neither with our reason nor with our heart.”[^29-p207] There is something mysterious about chaos. But that does not prevent Van Ruler from emphasizing that chaos is determinative for our human life, for “We are the chaos” and “We are the play of God.” In that play “not only does it come down to the courage to be” (an allusion to Paul Tillich’s *Courage to Be*)[^30-p207] “but even more to the willingness to play. May I dance with you?[^31-p207] God asks us, and the core of our existence hangs on the question whether we are prepared to do so.” But that is not at all simple, according to Van Ruler. “Being as divine playing, as the play of divine love, is an investigation of being, also of the chaos in being, which could even satisfy and delight reason and the heart. But that, however, demands far-reaching maturity and a great silence before God’s face. That may be completely true only if we are on our deathbeds.”[^32-p207] Trust and surrender seem to be key words here for Van Ruler.
 
 [^27-p207]: Van Ruler, “God en de chaos,” 161 (italics his).
+
 [^28-p207]: Van Ruler, “Het spel met de chaos,” 90.
+
 [^29-p207]: Van Ruler, “God en de chaos,” 170.
+
 [^30-p207]: Paul Tillich, *The Courage to Be*, New Haven 1952.
+
 [^31-p207]: This idea is found often in Van Ruler’s work. See, for example, Van Ruler, “De wonderlijkheid van het bestaan,” in: *VW3*, 105; idem, “Evangelie en nihilisme,” in: *VW4B*, 110. He sometimes also uses the image of a marriage proposal—see: idem, “De positie van de mens in het heilsproces,” in: *VW4B*, 118; idem, “Ultragereformeerd en vrijzinnig,” in: *VW4B*, 740.
+
 [^32-p207]: Van Ruler, “God en de chaos,” 170.
 
 *[p. 208]* ^pg236
@@ -433,9 +489,13 @@ The sermon, the meditation, and the talk are not always easy to understand. The 
 Van Ruler distinguishes between two aspects in this divine dimension of chaos. First, he emphasizes, on the basis of [[Psalms 104#^104-26|Ps 104:26]], that God *created* Leviathan. That means that chaos has an inbuilt place in creation.[^35-p209] There are shadow sides in creation that God has called into existence and that God is responsible for.[^36-p209] This is expressed by means of a striking sentence from the meditation, God “does not only set the creature roughly against the nothingness. He also calls—even more roughly—the element of chaos into existence.”[^37-p209] That comes close to the one-liner I used as a title for this chapter: “God deals more roughly with his creature than we would like.” The same saying comes through even more strongly perhaps in the second aspect of that divine dimension in the chaos: God created Leviathan *to play with it*. By speaking about playing, Van Ruler is seeking—and let us recall what I quoted above from his daughter Janneke—for a way to fathom the shadow sides of reality. Or, in his own words, to search “for God through the confusion of reality.”[^38-p209] If we survey what Van Ruler wrote about Leviathan, it is clear that he presents us with extraordinarily original, intriguing, and daring ideas. That fits with his way of theologizing. Throughout the years Van Ruler always went his own way and was never afraid to go against the grain.[^39-p209] On the one hand, that is the strength of his theology. When we read Van Ruler we are constantly exposed to points of view that we would not come up with on our own. He thus provokes us to think. On the other hand, the original and challenging character of his theology often evokes questions and opposition. That is also the case with 
 
 [^35-p209]: Cf. P.F.T. Aalders, “De scheppingsnotie bij Van Ruler,” *Wapenveld* 24 (1974), 185.
+
 [^36-p209]: CF. H. Berkhof, *Christelijk geloof. Een inleiding tot de geloofsleer*, Nijkerk 1985 (reprint), 173: Van Ruler “\[seems\] to view the shadow side (including guilt) entirely as the positive and definitive will of God . . .”; W.H. Velema, *Confrontatie met Van Ruler. Denken vanuit het einde*, Kampen 1962, 69: “\[. . .\] that the relation between creation and vanity, destruction or loss is to be attributed not only to the guilt of human beings but also to God.”
+
 [^37-p209]: Van Ruler, “Het spel met de chaos,” 90.
+
 [^38-p209]: Van Ruler, “De vreugde, in bijbels perspectief,” in: *VW3*, 433 (note q).
+
 [^39-p209]: His relation to Karl Barth’s theology illustrates this. On this see Dirk van Keulen, “Van ‘His Master’s Voice’ naar respectvolle kritiek. A.A. van Rulers verhouding tot de theologie van Karl Barth,” in Dirk van Keulen, George Harinck, Gijsbert van den Brink (red.), *Men moet telkens opnieuw de reuzenzwaai aan de rekstok maken: Verder met Van Ruler*, Zoetermeer
 
 *[p. 210]* ^pg238
@@ -449,8 +509,11 @@ The second question is more methodological in nature: Can systematic-theological
 Finally, let us look at the terms “play” and “playing.”[^43-p210] These terms appear often in Van Ruler’s work. Thus, for example, the last part of his “Theocratische 
 
 [^40-p210]: Kuitert once said in an interview conducted by Puchinger: “I remember that \[Van Ruler\] . . . wrote his article *God en de chaos*, and that I said to him after reading it: ‘Since I read your article, I can once again sleep peacefully, professor.’ To which he answered, ‘Miskotte couldn’t sleep because of it!’ ” (G. Puchinger, *Is de gereformeerde wereld veranderd?*, Delft 1966, 352–353).
+
 [^41-p210]: Others have also been disturbed by the speculative character of “God en de chaos” or have raised questions on that issue. Velema, for instance, places “the drunkenness of ideas” over against the “sobriety of reflection,” whereby the first expression refers to Van Ruler and the second to himself (see Velema, *Confrontatie met Van Ruler*, 69). Aalders writes “ ‘God en de chaos’ . . . reveals a wide panorama, in which all moments are set up in a row in a theological reflection that could also be called gnosis (Aalders, “De scheppingsnotie bij Van Ruler,” 185).
+
 [^42-p210]: Van Ruler, “Het spel met de chaos,” 90.
+
 [^43-p210]: Berkouwer emphasizes that Van Ruler’s speaking of play is “least of all intended as an excuse for our making the world chaotic in so many ways.” But, Berkouwer asks, “What does play then mean and why can chaos *not* be expressed only in the metaphors of *quarrel* and *strife*?” (Berkouwer, “Over de theologie van A.A. van Ruler (IV),” 313). Miskotte writes: “Great hesitation should overcome us, in my view with respect to the thesis: ‘in the end, we can only live through the whole of reality as if it were play . . .” (K.H. Miskotte, review of: A.A. van Ruler, *Vertrouw en geniet*, in *NTT* 10 (1955–1956), 360).
 
 *[p. 211]* ^pg239
@@ -458,8 +521,11 @@ Finally, let us look at the terms “play” and “playing.”[^43-p210] These 
 grondlijnen (‘Theocratic Baselines’)” is devoted to “play moments.”[^44-p211] Although Van Ruler does not make any explicit connection anywhere, we have to see that against the background of what the historian Johan Huizinga wrote in 1938 in his *Homo ludens* about playing and play.[^45-p211] Both in the time that Van Ruler spoke and wrote as well as now, most people are not ready for what Huizinga meant. In the terms “playing” and “play” they hear associations like children, freedom, relaxation, amusement, having fun, and enjoying oneself. That is also heard when Van Ruler speaks about God playing with Leviathan, and God playing with chaos. But can one then still speak in terms of “playing” with regard to God? Does that do justice to human suffering? And does that do justice to God? Shortly after the Second World War, Van Ruler wrote a few times: “God is in the war.”[^46-p211] He thereby suggested that the war was part of the will and acts of God. That goes quite far. It goes even further to think of God playing. God does not amuse himself with war; God does not take any pleasure in war. Or we could take the case of the person who died recently at the age of forty-one after struggling with a brain tumour for eleven years. Can we say to him or his wife and children: “Yes, that is simply God playing—God invites you to dance with him”? No, that will not do. That does not do any justice to the suffering of people. Leviathan is hideous.[^47-p211] Should Van Ruler then not have devoted much more attention to the struggle of God with Leviathan, the struggle that [[Isaiah 27#^27-1|Isa 27:1]] and [[Psalms 074#^74-13|Ps 74:13–14]] speak of?
 
 [^44-p211]: Van Ruler, “Theocratische grondlijnen,” §§ XIII and XIV, in: *VW6A*, 266–293.
+
 [^45-p211]: J. Huizinga, *Homo ludens. Proeve eener bepaling van het spel-element der cultuur*, Haarlem 1938.
+
 [^46-p211]: Van Ruler, “Wij staan als christenen in een wereld in Gods hand,” in: *VW3*, 134; idem, “De betekenis van het christelijk geloof in deze tijd,” in: *VW3*, 461; idem, “De dwaasheid gekroond,” in: *VW3*, 468; idem, “De leer van de uitverkiezing,” in: *VW4A*, 752.
+
 [^47-p211]: Roozenboom correctly accentuates that: “What is remarkable is that Van Ruler does not mention anything about the hideous and anti-divine character of chaos, symbolized in the Leviathan” (S.M. Roozenboom, *Naar een bestaan volkomen. Dogmatische motieven in de fundering en verdediging van de dienst der genezing door theologen van de charismatische vernieuwing in Nederland en de omgang met deze motieven in de Nederlandse hervormde en gereformeerde theologie van de laatste honderdvijftig jaar*, n.p. 2007 (dissertation VU University Amsterdam), 273.
 
 *[p. 212]* ^pg240
@@ -489,8 +555,11 @@ This tradition emerges, for instance, in the work of leading contemporary moral 
 . . . Leviathan carries Jonah in its belly. Whether Milbank has spoken enough out of the belly of Leviathan and is ready to take on the more routine tasks of a prophet, we shall see.[^4-p213]
 
 [^1-p213]: http://www.bbc.co.uk/news/technology-23669003 (consulted December 20, 2013).
+
 [^2-p213]: Oliver O’Donovan, *The Desire of the Nations. Rediscovering the Roots of Political Theology*, Cambridge 1996, xi, 227; Oliver O’Donovan, Joan Lockwood O’Donovan, *Bonds of Imperfection.* *Christian Politics. Past and Present*, Grand Rapids, MI 2004, 37; Oliver O’Donovan, *The Ways of Judgment. The Bampton Lectures 2003*, Grand Rapids, MI 2005, 65.
+
 [^3-p213]: John Milbank, *Theology and Social Theory. Beyond Secular Reason*, Oxford 1990, 5–6, 380–434.
+
 [^4-p213]: O’Donovan, Review of John Milbank, *Theology and Social Theory*, in: *Studies in Christian Ethics* 5 (1992), 83–86.
 
 *[p. 214]* ^pg242
@@ -508,6 +577,7 @@ In the following sections, we will first turn to the political philosopher Thoma
 The philosophy of Thomas Hobbes is in the background of both Milbank’s and O’Donovan’s visions of modern state and society. The seventeenth-century philosopher and theologian’s famous book *Leviathan* (1651) is widely regarded as one of the foundational works for the development of the modern conception of the state and the rise of modern political philosophy.[^6-p214] For Milbank, Hobbes’ *Leviathan* is a major source for the contention that modern state 
 
 [^5-p214]: Ad de Bruijne, *Levend in Leviatan. Een onderzoek naar de theorie over ‘Christendom’ in de politieke theologie van Oliver O’Donovan* (Doctoral Thesis Leiden University), Kampen 2006, 7, 111–112 (Defence October 12, 2006).
+
 [^6-p214]: Thomas Hobbes, *Leviathan. Revised Student Edition.* Ed. by Richard Tuck (Cambridge Texts in the History of Political Thought), Cambridge 1996; Wolfgang Kersting (ed.), *Thomas Hobbes.* *Leviathan oder Stoff, Form und Gewalt eines bürgerlichen und kirchlichen Staates. Klassiker auslegen Band 5*, Berlin 1996.
 
 *[p. 215]* ^pg243
@@ -519,7 +589,9 @@ In *Leviathan*, Hobbes depicts the original state of humanity as consisting of a
 Hitherto I have set forth the nature of Man (whose Pride and other Passions have compelled him to submit himself to Government), together with the great power of his Governour, whom I compared to *Leviathan*, taking that comparison out of the two last verses of the one and fortieth of *Job*; where God having set forth the great power of *Leviathan*, called him King of the Proud. *There is nothing*, saith he, *on earth, to be compared with him. He is made so as not to be afraid. Hee seeth every high thing below him; and is King of all the children of pride*.[^9-p215]
 
 [^7-p215]: Milbank, *Theology*, 9–23.
+
 [^8-p215]: O’Donovan, *Desire*, xi.
+
 [^9-p215]: Hobbes (Tuck), *Leviathan*, 220.
 
 *[p. 216]* ^pg244
@@ -533,8 +605,11 @@ For by Art is created that great LEVIATHAN called a COMMON-WEALTH, or STATE, (in
 This done, the Multitude so united in one Person, is called a COMMON-WEALTH, in latine CIVITAS. This is the Generation of that great LEVIATHAN, or rather (to speak more reverently) of that *Mortall God*, to which we owe under the *Immortal God*, our peace and defence.[^13-p216] Only the third, which we have already encountered, offers something of a justification. Hobbes’ line of reasoning, however, proves that at this point, he 
 
 [^10-p216]: B.A.G.M. Tromp, “Thomas Hobbes: Een inleiding tot Leviathan,” in: Thomas Hobbes, W.E. Krul, B.A.G.M. Tromp, *Leviathan*, Meppel 1985, 7–35 (19).
+
 [^11-p216]: *The Compact Edition of the Oxford English Dictionary, Complete Text Reproduced Micrographically, Volume I, A-O*, Oxford 1971, 1610; Walter C. Kaiser jr., “Hermeneutics and the Theological Task,” *Trinity Journal* 12 (1991), 3–14 (11); Regis St. Louis, Alison Bing, *Lonely Planet USA*, London 20127, 3.
+
 [^12-p216]: Hobbes (Tuck), *Leviathan*, 9.
+
 [^13-p216]: Hobbes (Tuck), *Leviathan*, 120.
 
 *[p. 217]* ^pg245
@@ -544,7 +619,9 @@ does not intend to justify his use of this metaphor; instead, he only recapitula
 *Secondly*, despite its reception in philosophy, Hobbes’ book contains abundant biblical and theological content, which can easily be connected with the use of the genuinely biblical symbol of ‘Leviathan.’ This too leads one to suspect that the scope of the title goes beyond that of a mere metaphor. Hobbes’ *Leviathan* consists of four parts, the first two of which are philosophical in character and the last two theological. The biblical symbol of ‘Leviathan,’ however, does not occur in the theological parts. He introduces and uses it only in the philosophical sections. Some interpreters have treated the theological parts of the book as more or less redundant. After all, Hobbes’ political vision is already developed in the preceding philosophical passages. Such an approach betrays the stance of our post-theological culture, in which it is considered evident that political thought should be of a philosophical character.[^14-p217] However, anyone who positions the work in Hobbes’ own context will understand that the situation must have been very different. His main battlefront would have been precisely ecclesiastical and theological.[^15-p217] The fourth part of his work, in fact, forms the climax. In it, he depicts “the kingdom of darkness,” referring to a constellation in which the Church claims public authority.[^16-p217] Doing so, it sows the seed of internal conflict and civil war in the state. If we assume that Hobbes’ main goal was indeed theological, we could interpret his loose characterization in the first two parts as a subtle hint about the core content of the work that follows in parts three and four. The characterization ‘Leviathan’ then would be directly related to the main thesis of his work.
 
 [^14-p217]: Tromp, Inleiding, 21.
+
 [^15-p217]: G. Manenschijn, “Jezus is de Christus. Thomas Hobbes’ politieke theologie volgens ‘Leviathan’,” in: K.U. Gäbler *et al.* (red.), *Geloof dat te denken geeft. Opstellen aangeboden aan Prof. Dr. H.M. Kuitert*, Baarn 1989, 119–139 (120).
+
 [^16-p217]: Hobbes (Tuck), *Leviathan*, 417, 474, 480–482.
 
 *[p. 218]* ^pg246
@@ -552,9 +629,13 @@ does not intend to justify his use of this metaphor; instead, he only recapitula
 *Thirdly*, Hobbes must have been acquainted with the connotations of the term ‘Leviathan’ that would arise among his contemporaries. The dominant theological and exegetical traditions of the time interpreted ‘Leviathan’ as a reference to the devil or to an earthly power called forth by the devil and opposed to God’s kingdom.[^17-p218] For example, Calvin interprets the name ‘Leviathan’ in Ps 74 as denoting the Egyptian Pharaoh in his role of powerful and threatening enemy of God and his people.[^18-p218] In Isa 27 Calvin considers ‘Leviathan’ as a qualification for Satan and his kingdom.[^19-p218] In addition, the connection with the sea, which is implied in Leviathan being a sea monster, bears political overtones within the context of biblical revelation. The sea often symbolizes nations that are hostile to Israel and reject Israel’s God. In line with this is the dominant ecclesial interpretation of Rev 13, where a beast from the earth and a beast from the sea are summoned by the dragon (the devil) to fight Christ and his church. This beast from the sea can be identified with the Old Testament creature of Leviathan. In the context of Rev 13, it refers definitely to the Roman Empire. Building on this, later interpretations and applications of Rev 13 often connected the image to empires and mighty rulers who treated the church with hostility.[^20-p218] That Hobbes certainly was aware of such connotations is shown by the fact that after publishing *Leviathan* he published another work entitled *Behemoth*.[^21-p218] In it, he explicitly links the title to *Leviathan*, even presenting the work as a kind of completion thereof. Like Leviathan, Behemoth too is found 
 
 [^17-p218]: Allan Menzies, “Origen’s Commentary on John, Book I, chapter 17,” in: *The Ante-Nicene Fathers. Translations of the Writings of the Father’s down to 325. Volume X*, Grand Rapids, MI 1990, 306; Philip Schaff, Henry Wace, “Exposition of the Christian Faith by St. Ambrose, Bisshop of Milan, Book V, chapter ii,” in: *A Select Library of Nicene and Post-Nicene Fathers of the Christian Church. Second series. Volume X*, Grand Rapids, MI 1989, 288; James Barmby, “The Book of Pastoral Rule and selected Epistles of Gregory the Great, bishop of Rome, chapter xxiii, 50,” in: Philip Schaff, Henry Wace, *A Select Library of Nicene and Post-Nicene Fathers of the Christian Church. Second series, Volume XII*, Grand Rapids, MI 1989; Augustine, *The City of God against the Pagans. Edited and translated by R.W. Dyson*, Cambridge 1998, book XI, chapter 17.
+
 [^18-p218]: John Calvin, *Commentary on The Book of Psalms. Translated from the original Latin, and collated with the author’s French version by James Anderson. Volume III*, Grand Rapids, MI 1949, 174–175.
+
 [^19-p218]: John Calvin, *Commentary on The Book of the Prophet Isaiah. Translated from the original Latin, and collated with the latest French version by William Pringle. Volume II*, Grand Rapids, MI 1948, 246–247.
+
 [^20-p218]: H.R. van de Kamp, *Openbaring. Profetie vanaf Patmos*, Kampen 2000, 306–316; O’Donovan, *Bonds*, 25–47.
+
 [^21-p218]: Thomas Hobbes, *Behemoth* (The Clarendon Edition of the Works of Thomas Hobbes), Oxford 2010; see also Dietrich Braun, *Der sterbliche Gott. Oder Leviathan gegen Behemoth.* *Erwägungen zu Ort, Bedeutung und Funktion der Lehre von der Königsherrschaf Christi in Thomas Hobbes’* Leviathan, Zürich 1963.
 
 *[p. 219]* ^pg247
@@ -564,6 +645,7 @@ in Job 41, and in the ecclesial tradition has been treated as a demonic and anti
 *Fourth*, Hobbes’ use of the name ‘Leviathan’ should be connected to the illustration printed on the title page of the book, which he insisted that every edition should contain.[^23-p219] This too can be interpreted as a hint that the name contains, albeit in a coded form, Hobbes’ message. As was made clear in the quotes above, Hobbes considers the state to be an artificial super-human person, in whom all individuals within a society are united and by whom they are represented. In accordance with that, the title page shows a giant human figure that, on closer inspection, turns out to be composed of countless small individuals. Already the illustration itself refers to this figure as ‘Leviathan.’ Despite its human form, the figure indeed displays superhuman dimensions. This suits Hobbes’ characterization of ‘Leviathan’ as both “artificial man” and “mortal god.” Yet, this drawing also reveals that Hobbes must have meant more than just an association with a gigantic power. When left uninspected in detail and looked at from a distance with a casual glance, a specific optical effect occurs. Leviathan’s body, composed of numerous individuals, gives the impression of a skin with scales. Thus, the depiction that Hobbes insisted on including communicates the very same message that we have already uncovered from biblical sources, alluding to categories like ‘sea’ and ‘sea creature.’ This is confirmed by the fact that Leviathan seems to rise up upon the land from nowhere. At first sight, the figure looks to be located in emptiness. Closer inspection, however, leads to the association of a coastline between land and sea. Clearly, the illustration confirms the hypothesis that Hobbes’ choice of title contained a coded message. In this light, the interesting suggestion of the famous political theologian Carl Schmitt, namely, that the illustration hints about England as 
 
 [^22-p219]: Dietmar Herz, “Bürgerkrieg und politische Ordnung in *Leviathan* und *Behemoth*. Zum Kapitel 29 des *Leviathan*,” in: Kersting, *Hobbes*, 259–281.
+
 [^23-p219]: Hobbes (Tuck), *Leviathan*, xciii; Reinhard Brandt, “Das Titelblatt des *Leviathan*,” in: Kersting, *Hobbes*, 29–53; Horst Bredekamp, “Thomas Hobbes’s Visual Strategies,” in: Patricia Springborg (ed.), *The Cambridge Companion to Thomas Hobbes’ Leviathan*, Cambridge 2007, 29–60.
 
 *[p. 220]* ^pg248
@@ -579,9 +661,13 @@ This leads to the consideration of *the second option*, which suspects a relatio
 *A third possibility* finds a relation to the early modern context of disenchantment, which formed Hobbes’ historical frame of reference. Malcolm has uncovered an early modern tradition of thought concerning the concept of 
 
 [^24-p220]: Tomaz Mastnak, “Schmitt’s Behemoth,” in: John Tralau (ed.), *Thomas Hobbes and Carl Schmitt. The Politics of Order and Myth*, London–New York 2011, 17–38 (31).
+
 [^25-p220]: For the many aspects of the *Leviathan* see: Springborg, *Companion*; especially Johan Tralau, “Leviathan, the Beast of Myth” (Springborg, *Companion*, 61–81). Tralau rightly mentions the “strange indeterminacy” of the characterization ‘Leviathan’ given Hobbes’ passion for conceptual clarity (Tralau, “Beast,” 62). Referring to Schmitt, he reminds us of the “taste for esoteric cover-ups” in Hobbes’ times, which makes it probable to look for a symbolic meaning (Tralau, “Beast,” 67).
+
 [^26-p220]: O’Donovan, *Bonds*, 37; Manlio Simonetti, Marco Conti (eds.), *Ancient Christian Commentary on Scripture. Old Testament VI: Job*, Downers Grove, IL 2006, 210–218; Pieter G.R. de Villiers, *Leviatan aan ’n lintje. Woord en wêreld van die sieners*, Pretoria 1987.
+
 [^27-p220]: Alexander Roberts, James Donaldson (eds.), “Origen Against Celsus Book VI, chapter xxiv. chapter xxv. chapter xxxv,” in: *The Ante-Nicene Fathers. Translations of the Fathers down to A.D. 325. Volume IV: Tertullian, Part Fourth; Minucius Felix; Commodian; Origen, Parts First and second*, Grand Rapids, MI 1994, 584.
+
 [^28-p220]: Eric Voegelin, *The New Science of Politics. An Introduction*. Chicago, IL 1987, 187.
 
 *[p. 221]* ^pg249
@@ -591,9 +677,13 @@ This leads to the consideration of *the second option*, which suspects a relatio
 For this reason, we take into consideration yet a *fourth possible background* for explaining the mysterious title of the book. It consists in taking into account the Jewish renaissance, begun in the preceding century, which reached its climax in Hobbes’ own days. The Hebrew Scriptures, as well as the rabbinical 
 
 [^29-p221]: N. Malcolm, “The Name and Nature of Leviathan: Political Symbolism and Biblical Exegesis,” *Intellectual History Review* 17 (2007), 29–58 (http://www.tandfonline.com/doi/full/10.1080/17496970601140196); Patricia Springborg, “Hobbes and Schmitt on the name and nature of Leviathan revisited,” in: Tralau, *Hobbes Schmitt*, 39–57 (40–42).
+
 [^30-p221]: Hobbes (Tuck), *Leviathan*, 9, 13–15.
+
 [^31-p221]: Ernst H. Kantorowicz, *The King’s Two Bodies*, Princeton 1957.
+
 [^32-p221]: Quentin Skinner, *Visions of Politics. Volume III: Hobbes and Civil Science*, Cambridge 2002,
+
 [^33-p221]: Springborg, Hobbes and Schmitt, 46.
 
 *[p. 222]* ^pg250
@@ -603,9 +693,13 @@ tradition of exegesis and the Kabbalah, exercised a wide appeal. In a groundbrea
 Given the undeniable fact of this Jewish influence on Hobbes, it becomes interesting that the ‘Leviathan’ motif played a significant role within Jewish tradition.[^38-p222] Judaism’s image of the eschatological future comprised a battle 
 
 [^34-p222]: Eric Nelson, *The Hebrew Republic. Jewish Sources and the Transformation of European Political Thought*, Cambridge, MA 2010, 2–4.
+
 [^35-p222]: Hugo Grotius also influenced Hobbes. Grotius too referred to Leviathan and Behemoth. Cf. Hugo Grotius, *The Truth of the Christian Religion in Six Books. Translated by John Clarke*, Whitefish 2010 (reprint of Edinburgh 1819), Book V, section xvi.
+
 [^36-p222]: Nelson, *Hebrew*, 24.
+
 [^37-p222]: Nelson, *Hebrew*, 26, 122–130, 153.
+
 [^38-p222]: Joseph Gutman, “Leviathan, Behemoth and Ziz: Jewish Messianic Symbols in Art,” *HUCA*
 39\. (1968), 219–230.
 
@@ -629,6 +723,7 @@ Although Nelson’s observation is right, he wrongly suggests that this Hobbesia
 With his political conception of the kingdom of God Hobbes indeed differs from post-Reformation traditions, which conceived of God’s kingdom as primarily a spiritual reality, while at the same time Hobbes remained in line with the classical doctrine of the two kingdoms. Behind this, we may suspect the influence of the Jewish renaissance, which led to a revival of political interpretations of the kingdom of God. For most participants in that revival, however, the eschatological tension, which had characterized the classical concept, remained out of sight. This non-eschatological version of the Jewish Renaissance led many Protestants to a theocratic ideal with democratic consequences. The once again politically coloured concept of the kingdom of God was taken as a present reality. Hobbes explicitly opposed these thoughts by limiting a present divine earthly kingdom to the unique circumstance of Israel’s national existence before the monarchy, and—contrary to Nelson—to the eschatological future.[^41-p224] From a political angle, we have to deal with the 
 
 [^40-p224]: Augustine, *City*, Book I, Introduction. Book V, chapter 11. Book XV, chapter 1. chapter 4. Book XIX, chapter 26; R.A. Markus, *Saeculum. History and Society in the Theology of St. Augustine*, Cambridge 1970; O’Donovan, *Desire*, 11.
+
 [^41-p224]: Hobbes (Tuck), *Leviathan*, 83, 335, 411 (“The Day of Judgment is the day of the Restoration of the Kingdome of God . . . the Great Day of our Saviours coming to restore the Kingdome of God in Israel”) 419; (“Which second coming not yet being. The Kingdome of God is not yet come, and wee are not now under any other Kings by Pact, but under our Civill Soveraigns . . .”) 421; pace Nelson, *Hebrew*, 24 (Nelson wrongly equates rejecting God’s kingdom as a spiritual reality in the present to rejecting God’s kingdom as an eschatological earthly reality. That leads him to think that Hobbes restricted God’s kingdom to the Mosaic era); Manenschijn, “Jezus,” 128–131.
 
 *[p. 225]* ^pg253
@@ -640,6 +735,7 @@ Demythologizing the symbol of ‘Leviathan’ as an evil spiritual reality there
 Although this interpretation builds on Springborg, at the same time it leaves one of her core contentions unjustified. Under this interpretation, it is no longer necessary to assume that Hobbes deliberately wanted to shock his contemporaries with a symbol that they saw as demonic, thereby initiating a vitriolic attack upon the church. Within Hobbes’ own frame of reference, the choice for the symbol of Leviathan has now become fully understandable. In fact, none of the sources connects the shock that his work caused directly to his choice of title.[^42-p225] It is incorrect to suggest that Hobbes provocatively replaced Christ with the Antichrist, and thereby call into doubt his genuine Christian intentions. Such an interpretation considers the political theological passages in parts three and four of his work, to consist of an inherently superfluous attempt to beat the theological enemy on its own turf.[^43-p225]
 
 [^42-p225]: Samuel I. Mintz, *The Hunting of Leviathan. Seventeenth-Century Reactions to the Materialism and Moral Philosophy of Thomas Hobbes*, Cambridge 1962, vii–viii, 134–146, 154–156; G.A.J. Rogers, “Hobbes and His Contemporaries,” in: Springborg, *Companion*, 413–440; John Parkin, *Taming the Leviathan, The Reception of the Political and Religious Ideas of Thomas Hobbes in England 1640–1700*, Cambridge 2007.
+
 [^43-p225]: So Braun, *Sterbliche*; on Hobbes being a Christian or not, see A.P. Martinich, *The Two Gods of* Leviathan*. Thomas Hobbes on Religion and Politics*, Cambridge 1992; A.P. Martinich, “The Bible and Protestantism in *Leviathan*,” in: Springborg, *Companion*, 375–391; Nelson, *Hebrew*, 195 (with literature); already Hobbes’ frequent phrase “our blessed saviour” for Christ contradicts this interpretation (Hobbes \[Tuck\], *Leviathan*, 9, 59, 79, 114, 255, 267, 331, 333, 335, 337, 376).
 
 *[p. 226]* ^pg254
@@ -651,6 +747,7 @@ This also downplays the parallel that Springborg draws between Hobbes and Carl S
 Lastly, the interpretation that I propose is also able to explain the relaxed manner with which Hobbes approached the traditional combination of Leviathan and Behemoth and the Jewish conception of a final battle between the two. Both Christian and Jewish visions remain dependent on a mythological worldview in which real evil forces conspire to destroy each other. Hobbes’ demythologized conceptual framework, however, allows both to be used for phenomena within human reality. Both defining ‘Leviathan’ to denote a 
 
 [^44-p226]: Johann P. Sommerville, “Hobbes, Selden, Erastianism and the History of the Jews,” in: G.A. John Rogers, Thomas Sorell (eds.), *Hobbes and History*, London: Routledge, 2000, 73–81.
+
 [^45-p226]: Carl Schmitt, *Der Leviathan in der Staatslehre des Thomas Hobbes. Sinn und Fehlschlag eines politischen Symbols*, Stuttgart 1995 (1938); Springborg, *Hobbes and Schmitt*, 41, 49.
 
 *[p. 227]* ^pg255
@@ -666,6 +763,7 @@ Having explored the background of Hobbes’ use of the term ‘Leviathan,’ we 
 Both Milbank and O’Donovan agree with Hobbes on an important point. They all fall back on the Augustinian view that the kingdom of God is a political rather than a spiritual reality, which will become an earthly kingdom at the eschatological end of history. However, Milbank’s and O’Donovan’s vision of the primordial state is radically different from Hobbes’ conception. For Hobbes, it all begins with the individual who is involved in violent conflict with all other individuals. Thus, from the outset there exists the need for politics. O’Donovan and Milbank assume an ontology of peace, in which the original reality displays communion and harmony among human beings under the authority of the triune God. This original position does not allow for political structures in which one person can exercise coercive or even violent authority over the other. They both possess an inherent reluctance to earthly politics as compared to the kingdom of God. For them, as for Augustine, earthly politics belongs to the *civitas terrena*, of which since the fall in sin the primary ruler is the devil, identified by the Bible as “prince of this world.” There is every reason for the Bible depicting political structures as bodies that in the unfolding of their power and violence are inimical toward God, his kingdom and his people. The biblical symbol of ‘Leviathan,’ therefore, in principle fits both their visions of the state and political society.[^47-p227]
 
 [^46-p227]: Tralau, “Beast,” 75.
+
 [^47-p227]: O’Donovan, *Desire*, 8; O’Donovan, *Ways*, 59–60, 66; De Bruijne, *Levend*, 72.
 
 *[p. 228]* ^pg256
@@ -675,6 +773,7 @@ From this point onward, however, their paths separate. In one respect Milbank re
 O’Donovan, however, differs from both Hobbes as well as Milbank with regard to the question of whether this secular state can be influenced by and combined with Christian truth and morality. Milbank’s unreservedly antithetical approach excludes such a possibility and as a consequence is accompanied with an antithetical Christian public stance. Christians should not engage in ruling the existing societies of a fallen world, but in their way of living they 
 
 [^48-p228]: Milbank, *Theology*, 5–6, 9, 387–389, 419.
+
 [^49-p228]: O’Donovan, *Desire*, 3–4, 12–13, 21–23, 27, 30, 35–36, 45; De Bruijne, *Levend*, 36–44.
 
 *[p. 229]* ^pg257
@@ -684,6 +783,7 @@ should exemplify the ontology of peace for the world to see.[^50-p229] Although 
 This comparison between Hobbes, Milbank and O’Donovan can potentially clarify O’Donovan’s quotation in which he—engaging Milbank—typifies the state as Leviathan. According to O’Donovan, Milbank wrongly speaks only negatively about the modern state and society. The church (and thus Milbank himself with his prophetic message) is like Jonah in the belly of the sea monster Leviathan. It exists and speaks antithetically from a marginalized, oppressed position and it seems to accommodate itself to that. O’Donovan does not deny that such circumstances occur sometimes, since the state is in the end indeed equivalent to ‘biblical’ Leviathan. The modernist secular and sometimes downright anti-religious state in particular could develop into an exclusively antithetical reality, which leaves the church no other choice than 
 
 [^50-p229]: Milbank, *Theology*, 9, 433.
+
 [^51-p229]: O’Donovan, *Desire*, 214–215, 251, 274; De Bruijne, *Levend*, 114–122.
 
 *[p. 230]* ^pg258
@@ -693,8 +793,11 @@ Milbankian prophetic indictments. However, during the *saeculum* other constella
 This insight, finally, brings us back to the question of whether ‘Leviathan’ could be an appropriate term for modern political societies. Answering this question, I remain faithful to the Augustinian framework that happened to form the background of Hobbes, Milbank and O’Donovan alike. Elsewhere I have justified why on biblical-theological grounds this framework can be considered plausible.[^52-p230] Such Augustinian parameters grant the possibility that ‘Leviathan’ could be the appropriate characterization for a state, but does not imply this to be the case necessarily. Augustine distinguishes between states that actually are gangs of robbers, states in which justice is upheld to a certain extent, and even states where Christians reign, who insert the wisdom of Gods kingdom into the public domain.[^53-p230] Given that ‘Leviathan’ refers to a demonic power that invests itself in the sphere of the state, the use of this name would be entirely adequate only in case of the first category. As for the second category, this could be apt, but would then already be one-sided, since despite ignoring Christ, such states would still constitute instruments of God’s common grace. The fact that the Bible is suspicious of such radical qualifications, confirms this reluctance. They remain reserved for constellations in which a state actually functions as a harmful counterforce against Christ’s kingdom, in particular by persecuting the church.[^54] In other cases, apparently its usefulness to Christ weighs more heavily. Therefore, Rev 13 rather than Rom 13 characterizes the Roman emperor as “beast.”[^55] Anyone who opts for 
 
 [^52-p230]: Ad de Bruijne, “A Banner that flies across this land . . . an interpretation and evaluation of Dutch Evangelical Political Awareness since the end of the 20th century,” in: C. van der Kooi, E. van Staalduine-Sulman, A.W. Zwiep (eds.), *Evangelical Theology in Transition*, Amsterdam 2012, 86–130; Ad de Bruijne, “Niet van deze wereld. De hedendaagse Gereformeerde publieke theologie en de ‘doperse optie’,” *Theologia Reformata* 54 (2011), 366–390.
+
 [^53-p230]: Augustine, *City*, Book II, chapter 21. Book IV, chapter 4. chapter 33. Book V, chapter 20. chapter 24. Book XIX, chapter 6. chapter 7. chapter 14. Book XIX, chapter 26.
+
 [^54]: Peter J. Leithart, *Between Babel and Beast: America and Empires in Biblical Perspective*, Eugene, OR 2012.
+
 [^55]: Gerrit de Kruijf, “The Function of [[Romans 13#^13-1|Romans 13]] in Christian Ethics,” in: Craig Bartholomew, Jonathan Chaplin, Robert Song, Al Wolters (eds.), *A Royal Priesthood: The Use of the Bible Ethically and Politically. A Dialogue with Oliver O’Donovan*, Carlisle 2002, 225–237.
 
 *[p. 231]* ^pg259
@@ -732,8 +835,11 @@ Second, to capture the idea of a myth about the snake I use the Rainbow Snake na
 Xufabül lived with his elder sister and wife. His elder sister told him: Your wife and I are going to pound sago. If you stay behind and see or hear birds in alarm at a critter, at such-and-such places you can climb after it, but if at this other place then don’t go up. We don’t go there. He only heard 
 
 [^1-p233]: Dragon or snake: some myths convey the horror and blessing of a dragon, others focus on a snake. Both concentrate on the same primordial horrific animal with supernatural power and wisdom. I chose ‘snake’ as a technical term for both animals, unless the source under discussion explicitly mentions ‘dragon.’
+
 [^2-p233]: I worked in the South of Papua, Indonesia for fourteen years in mission, church planting and theological education.
+
 [^3-p233]: See YouTube for videos, e.g. http://www.youtube.com/watch?v=YnsGqF0HU1k.
+
 [^4-p233]: *Nahüom waxatum*, “Giant Snake” or “Rainbow Snake” in Korowai language as told by Sapuru Sendeh, at Desa Yaniruma, 22.III.96, tape 55. BI recap 13.102–104, collected by Rupert Stasch.
 
 *[p. 234]* ^pg262
@@ -749,6 +855,7 @@ First he goes to Wamage (*difon* below Yaniruma), and he digs it out and lies do
 The two women went home, but the elder sister says she can’t live away from him, and the wife says she’ll go far away. They became cicadas, and the elder sister says *è*—while the wife says *yum-è*. The wife went to the Eilanden,[^6-p234] and comes to visit once in a while. The snake lives at 
 
 [^5-p234]: River in the Northern part of the Korowai region.
+
 [^6-p234]: River at the West side of the Korowai region.
 
 *[p. 235]* ^pg263
@@ -784,6 +891,7 @@ In short, the snake is an ambiguous and ambivalent animal. It can help the creat
 In the Windessi village the dragon is called Karubukawi, an old double-headed snake. He once seduced a pregnant woman and they both educate the child, as mother and grandfather. The real father finally defeats the dragon and liberates the child. The dragon persecutes the three, transforming himself as a canoe. When he finds the child again he is recognized as the grandfather or father-in-law. The dragon shakes off his skin and appears to be a good man, providing food, richness and happiness to the Biak people.[^9-p236]
 
 [^8-p236]: F.J. Kamma, *‘Dit wonderlijke werk:’ Het probleem van de communicatie tussen oost en west gebaseerd op de ervaringen in het zendingswerk op Nieuw-Guinea (Irian Jaya) 1855–1972: Een socio-missiologische benadering*, Oegstgeest 1976, 160. The great flood of 1864 that destroyed many villages and caused many deaths was believed to be the work of the primordial snake hidden in the ocean. The Biak people decorate their canoes and peddles with snake symbols as a sign of the victory over him, at least as long as they observe the social order (*adat*).
+
 [^9-p236]: F.J. Kamma, *Messiaanse Koréri-bewegingen in het Biak-Noemfoorse cultuurgebied*, Den Haag
 
 *[p. 237]* ^pg265
@@ -797,6 +905,7 @@ The only way for men to keep the dragon far from the village and to avoid the de
 3.2 Baas has recorded a story of the snake among the Citak people from Vaw Aranbi at the Ndeiram river in South-West Papua, that demonstrates something of the fear of snakes, although there might be positive aspects also.[^11-p237] The story is about a young girl who is slow in growing up, disobedient to her parents, still urinating and defecating in the house. Her frustrated parents leave the girl unprotected in the jungle in order to be released from her. The snake confronts the young lady and tries to kill and eat her. Suddenly the girl realises the danger and she recalls the education of her parents on how to handle the machete. She succeeds in killing the snake, cuts of his head, cooks and eats his meat, and uses his skin with the fat as ‘cloth’ to hide herself. Then she follows the river downstream. There she meets her parents and joins them again. The parents arrange a marriage for her. On the wedding day she removes the dirty snake’s skin and she appears to be a beautiful and powerful lady, with smooth skin.
 
 [^10-p237]: Popular stories in Biak often refer to a dragon or mysterious snake. He causes the storms of the sea, he generates the huge waves at the beaches of the island. Known as “Konon” or “Faknik” the dragon is compared with the (black) Cherub angel at the closing of the Paradise in the Bible. The dragon is the dark angel, a monstrous animal who forbids mankind to return to Paradise. This view is related to the vision that the historical garden of Eden was located northeast of Biak. Told by Yosef Rumasew, March 17, 2014. For similar stories, see Ottow Rumaseb, *The Papuan Kingdom of God: A Biblic-Archaeomythological Review*, Biak \[2005\] unpublished (digital copy available from the author of this article).
+
 [^11-p237]: P.R. Baas, *Verhalen en Liederen uit de mondelinge overleveringen van enkele Citakclans*, \[unpublished photocopy\] Vol I, part 2.2.1, Story 1, 125–130.
 
 *[p. 238]* ^pg266
@@ -850,6 +959,7 @@ According to some scholars the Rainbow Snake is the archetype of the primordial 
 4.2 The Rainbow Snake in Bénin is called Adio-Hwedo. In his mouth he transported the West-African creator god Nana-Buluku in order to create and form the world. When they rested for a while the snake’s excrement became the mountains. The valleys and the rivers were created by the course of the snake. 
 
 [^15-p240]: Robert Blust, “The Origin of Dragons,” *Anthropos* 95 (2000), 519–536.
+
 [^16-p240]: Leo F. Triebels, *Enige aspecten van de regenboogslang*, Nijmegen 1958. See also http://nl.wikipedia.org/wiki/Regenboogslang (fabeldier).
 
 *[p. 241]* ^pg269
@@ -916,6 +1026,7 @@ The dragon is the main source of the delicate balance of this world. She is beyo
 Finally, the dragon has to be conquered by any and every means. One way to do that is to beat her by having a heroic warrior chop off her head or heads. This hero can be assisted by griffons, the powerful enemies of the dragon. A better way to expel the dragon is to cheat her, disturb her knowledge and wisdom. She will get confused and forget her bad purposes. So, people can banish her and forbid her to ever come back again. Yet unfortunately, the total defeat of the dragon will always be dubious. One day, somewhere, she can reappear and destroy mankind’s peace and future.
 
 [^20-p243]: As an ambiguous being the Dragon’s gender is also unclear. In many cases one prefers the female dimension in connection with wisdom, guarding the ethics and education of children, and (!) the beauty of creation. I will now use feminine pronouns to try to evoke the reader’s (uneasy?) emotions similar to the emotions of the people who invented the myths of snakes and dragons.
+
 [^21-p243]: Many Melanesian myths teach about the coming new golden age, when the Melanesians will also molt and receive white skins instead of the black ones, meaning that they will be children of Paradise, like the rich and prosperous Western people they have met.
 
 *[p. 244]* ^pg272

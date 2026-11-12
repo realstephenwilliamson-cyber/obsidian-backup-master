@@ -154,98 +154,183 @@ If one desires to purify them immediately, he should place them in boiling water
 If [the host] has an established reputation for non-observance and for not paying attention to these matters, it is forbidden to accept his hospitality. If one transgresses and accepts his hospitality, it is forbidden to eat meat and drink wine [despite] his assurances unless a person who has an established reputation for observance testifies [to their acceptability]. ^11-26
 
 [^1]: As explained in *Hilchot Avodat Kochavim* 3:3, pouring a libation and sacrificing are among the four acts of service for which one is liable to any false deity, even if this is not its mode of service.
+
 [^2]: See the following halachah.
+
 [^3]: *Sefer HaMitzvot* (negative commandment 194) includes this prohibition among the 613 mitzvot of the Torah. According to the Rambam, it is actually the last of the mitzvot which the Torah mentions.  
     Although the verse does not specifically mention a prohibition, the Rambam derives the prohibition as follows: As stated in *Hilchot Avodat Kochavim* 7:2, we are forbidden to derive benefit from anything offered to a false deity. Since the prooftext quoted establishes an equation between a libation and an offering, we conclude that just as an offering is forbidden by a negative commandment; so, too, there is a negative commandment involving a libation (see *Avodah Zarah* [[Avodah Zarah 29#29b|29b]]).  
     The Ramban (in his *Hasagot* to *Sefer HaMitzvot*) and the *Sefer HaChinuch* (Mitzvah 111) maintain that both are included in a single prohibition. They should not be counted as separate negative commandments. They all agree, however, that the prohibition against such wine is Scriptural in origin. As the Rambam explains in *Sefer HaMitzvot, loc. cit.*, there are statements of our Sages that appear to imply that the prohibition is Rabbinic in origin. Those statements, however, apply to wine handled by gentiles (see Halachah 3) and not to wine that was actually used for a libation.
+
 [^4]: This verse is most particularly related to the prohibition against benefiting from the property of a city who were drawn after idol worship (*ir hanidachat*). Nevertheless, since all false deities can be considered as "condemned," the verse applies to them as well (*Megillat Esther, Sefer HaMitzvot*, negative commandment 25). The expression "any trace" implies even the slightest amount of benefit is prohibited.
+
 [^5]: We find an allusion to this decree in Scripture itself for [[Daniel 01#^1-8|Daniel 1:8]] speaks of how Daniel refrained from drinking the king's wine. *Avodah Zarah* [[Avodah Zarah 36#36b|36b]] states that the decree against drinking wine handled by gentiles was instituted lest this lead to familiarity and ultimately, to intermarriage. From the Rambam's wording in the following halachah, however, it would appear that the prohibition was instituted as a safeguard against benefiting from idolatry (*Ma'aseh Rokeach*; see also Halachah 7 and notes).
+
 [^6]: One fourth of a *log*, 86 cc. According to *Shiurei Torah* and 150 cc. According to *Chazon Ish*. This is the standard liquid measure involved in ritual matters.
+
 [^7]: It is forbidden to drink even the slightest amount, but one is liable only for drinking a *revi'it* (*Lechem Mishneh*).
+
 [^8]: See Chapter 12, Halachot 1-2, which define what is meant by a gentile touching wine. As implied by the contrast to the following halachah, for it to be forbidden to benefit from the wine, the gentile must touch it intentionally. Similarly, he must know that it is wine (Radbaz).
+
 [^9]: Therefore even if there is no false deity present, it is possible that the gentile intended to use it as a libation. See Halachah 7 and notes which discuss which gentiles we are referring to.
+
 [^10]: See Chapter 12, Halachah 5.
+
 [^11]: Here the term child is not defined chronologically, but in terms of his relation to idolatry. Does he praise the name of a false deity or not? [*Avodah Zarah* 57a; *Tur*, *Shulchan Aruch* (*Yoreh De'ah* 124:1)].
+
 [^12]: In both instances, we cannot say that the person had the intent to use the wine as a libation. In the first instance, he did not intend to touch the wine and in the second, the child does not know about idolatrous worship. Nevertheless, the wine is still forbidden as a safeguard. See Chapter 12, Halachah 5. See also the Rama (*Yoreh De'ah* 124:24) who states that in the present era, most gentiles are not idolaters. Even so, if they touch wine unintentionally, although there are authorities who say there is room for leniency, the prevailing custom is to be stringent unless a significant loss is involved. See *Siftei Cohen* 124:71.
+
 [^13]: Thus reaching the intermediate stage of Jewish servants, as *Hilchot Issurei Bi'ah* 12:11 states, they "have departed from the category of gentiles, but have yet to enter the category of Jews."
+
 [^14]: Their "conversion" to Judaism will prevent them from offering such a libation. See the *Tur* who also mentions the opinion of Rabbenu Chananel who maintains that a gentile servant causes wine to be forbidden for twelve months.  
     The *Tur* clarifies that the debate concerns only a servant, because his acceptance of Judaism is forced. All agree that no such strictures apply to a convert who willingly accepts Judaism.
+
 [^15]: If they were not born in a Jewish domain, the circumcision alone is of no consequence and even minors cause wine to become forbidden to drink (*Kessef Mishneh*).
+
 [^16]: If they were not immersed yet, even young children cause wine they touch to become forbidden to drink (the *Kessef Mishneh's* interpretation of the Rambam's opinion). The Rashba, however, differs and maintains even if these children were neither circumcised or immersed, they do not cause wine to be forbidden. The *Turei Zahav*124:3 and the *Siftei Cohen* 124:9 differ and maintain that even the Rambam would accept the Rashba's approach.
+
 [^17]: Here the term child is not defined chronologically, but in terms of his relation to idolatry. Does he praise the name of a false deity or not? [*Avodah Zarah* 57a; *Tur*, *Shulchan Aruch* (*Yoreh De'ah* 124:1)].
+
 [^18]: I.e., it is permitted entirely, even to drink it.
+
 [^19]: The prohibitions against the worship of false deities, blasphemy, murder, theft, incest and adultery, eating the flesh of a living animal, and the obligation to establish courts. See *Hilchot Melachim* 8:10.
+
 [^20]: See *Hilchot Issurei Bi'ah* 14:7.
+
 [^21]: The *Kessef Mishneh* explains that there are two dimensions to the prohibition against drinking the wine of gentiles:  
     a) The desire to limit familiarity with gentiles, lest it lead to intermarriage. This applies to resident aliens as well. Therefore there is a prohibition against drinking their wine.  
     b) A safeguard against benefiting from wine used as libations. This does not apply with regard to resident aliens. Therefore there is no prohibition against deriving benefit from their wine.
+
 [^22]: Since we do not suspect that he will use the wine for a libation - or allow other gentiles to do so - we do not forbid one to leave it there for a short while. Nevertheless, if it is left there for a long time, we fear that the gentile will exchange it with his own wine and as stated above, it is forbidden for Jews to drink his own wine (see Rashi, *Avodah Zarah* [[Avodah Zarah 64#64b|64b]]).
+
 [^23]: The Rambam's wording has attracted the attention of the commentaries, for from the beginning of the halachah, it appears that the gentile must accept all seven mitzvot, while this clause appears to imply that it is sufficient for him to accept only the prohibition against idolatry. The *Kessef Mishneh* explains that when the entire nation does not worship false deities, then we do not fear that wine will be used as a libation. When, however, that is not the case, a gentile must accept all seven mitzvot for his wine to be permitted.
+
 [^24]: Our translation follows the standard version of the *Mishneh Torah*. The uncensored text reads: "Christians, by contrast, are idolaters. It is forbidden to benefit...." The Rama (*Orach Chayim* 155:1) rules that Christianity violates only the prohibition against *shituf*, worshipping another entity together with God, and gentiles are not prohibited against such worship. It must be emphasized that today, though many gentiles are nominally Christian, their observance is minimal and they have an awareness of monotheism.  
     See also the statements of the Rama (*Yoreh De'ah* 123:1, 124:24) who quotes opinions that maintain that in the present age, it is not customary for gentiles to pour wine as libations to false deities. Nevertheless, the prohibition against drinking such wine, however, remains intact.
+
 [^25]: For in the Rambam's age, most gentiles were idolaters. The Rabbinic authorities question whether one can make such an assumption in the present age. For many gentiles do not worship according to any religious rites at all and others, like the Arabs, have a conception of monotheism.
+
 [^26]: *Hilchot Issurei Mizbeach* 6:9 states that wine that was cooked to the extent that its taste changed is forbidden to be used as a libation on the altar. To put the concept in contemporary terms, wine that was pasteurized is included in this category.
+
 [^27]: *Avodah Zarah* [[Avodah Zarah 30#30b|30b]] relates that the Sage Shmuel actually drank boiled wine together with a gentile.  
     The *Kessef Mishneh* quotes Rabbenu Asher who asks: If the decree against wine touched by a gentile was instituted to prevent intermarriage, what difference does it make if it was boiled or not? Will boiling the wine prevent familiarity from arising with gentiles?  
     In resolution, he explains that perhaps since boiled wine is uncommon, our Sages did not apply their decree in such a situation. Even though today, it has become common to drink boiled - i.e., pasteurized wine - our Sages decree has not been expanded. It must be emphasized that this leniency applies to wine belonging to a Jew that was boiled. Wine belonging to a gentile becomes forbidden before it is boiled and thus cannot be drunken.
+
 [^28]: Although they are unfit to be used for a libation.
+
 [^29]: This includes any wine to which sugar was added.
+
 [^30]: *Hilchot Issurei Mizbeach* 6:9.
+
 [^31]: In their days, grape presses were built on an incline, so that after the grapes were pressed, the juice would flow naturally toward a cistern.
+
 [^32]: The *Turei Zahav* 123:14 states that some interpret the Rambam as speaking only about a winepress that is open. If it is plugged close, there is room to say that the prohibition does not apply. Nevertheless, the *Turei Zahav* quotes other views that maintain that the prohibition applies even in such an instance.
+
 [^33]: Implied is that a libation cannot be offered with one's feet (*Kessef Mishneh* based on *Avodah Zarah* [[Avodah Zarah 56#56b|56b]]; the *Siftei Cohen* 123:43, however, maintains that this is not the correct understanding of the Rambam's words). The *Shulchan Aruch* (*Yoreh De'ah* 124:11), however, rules that a gentile who touches the wine with his feet causes it to be come forbidden. The Rama, however, rules leniently and maintains that the prohibition applies only to drinking such wine.
+
 [^34]: The *Turei Zahav* 124:17 interprets this as referring to an instance where he does not touch the wine at all, not even with his feet. The *Kessef Mishneh*, however, explains that this is referring to a situation where the gentile touches the wine with his feet, but not with his hands.
+
 [^35]: And watching that the gentile does not touch it.
+
 [^36]: It is, however, permitted to benefit from it.
+
 [^37]: The fact that it becomes vinegar afterwards does not cause it to become permitted.The Radbaz states that one can conclude from the Rambam's wording that if a gentile touches vinegar belonging to a Jew, it is permitted, for it is no longer wine.
+
 [^38]: Our translation is based on authoritative manuscripts and early printings of the *Mishneh Torah*. The standard published text is difficult to understand. As the Radbaz and the *Shulchan Aruch* (*Yoreh De'ah* 125:6) state, the Rambam is referring to a situation where a certain amount of grape juice collects in the bottom of the baskets. Even though that juice spatters of the grapes, it does not cause the wine to be considered forbidden, for this prohibition does not apply until the wine begins to flow, as stated in Halachah 11 (Radbaz).
+
 [^39]: Even to benefit from them [*Kessef Mishneh; Shulchan Aruch* (*Yoreh De'ah* 123:14)]. See also the Rama who states that the prohibition applies only when the peels were in contact with gentile wine. If the gentiles had merely crushed the grapes, but the wine had not begun flowing from the winepress, the peels are not forbidden.
+
 [^40]: See the *Shulchan Aruch* (*ibid.* ) which quotes more stringent views in certain circumstances.
+
 [^41]: For a certain quantity of wine is absorbed in the container. Afterwards, when the kosher wine is placed in the container, it will be soaked into the container and the wine in the container will be released into it.
+
 [^42]: See the *Shulchan Aruch* (*Yoreh De'ah* 135:16) which explains that even if one used the containers for water during this period, this does not prevent the containers from becoming permitted.
+
 [^43]: I.e., if they are not covered with tar (*Kessef Mishneh*). By heating them, one will achieve the results of *libbun* and purge any absorbed wine through heat.  
     See also the *Shulchan Aruch* (*Yoreh De'ah* 135:15) which state that *hagalah*, filling the containers with boiling water is also acceptable.
+
 [^44]: It is, however, permitted to benefit from this wine (*Kessef Mishneh*).
+
 [^45]: For these substances nullify the taste of wine (Rashi, *Avodah Zarah* [[Avodah Zarah 33#33b|33b]]).
+
 [^46]: I.e., even though they appear new, we suspect that a gentile used them to store wine. Hence they must be washed. Nevertheless, the fact that they appear new indicates that they were not used for a long time. Hence, washing them is sufficient.  
     This stringency applies only with regard to containers covered with pitch. Since they are dark black, it is not evident whether they were used previously or not. With regard to other containers, it is much more clearly apparent whether or not they were used. Hence there is no need for this stringency (*Kessef Mishneh*).
+
 [^47]: The *Kessef Mishneh* notes that *Avodah Zarah* [[Avodah Zarah 74#74b|74b]] appears to require that such utensils be dried. He questions why the Rambam does not mention this point. As a possible resolution, he suggests that perhaps the Talmud is speaking about utensils belonging to a gentile, while the Rambam is speaking about those belonging to a Jew.
+
 [^48]: The Rambam's ruling is dependent on his interpretation of *Avodah Zarah* [[Avodah Zarah 33#33b|33b]]. Other authorities including Rashi and the Ra'avad have a different understanding of the passage. Their view is cited by the *Shulchan Aruch* (*Yoreh De'ah* 135:4).
+
 [^49]: The *Kessef Mishneh* explains that we are speaking of an instance where the glazing of the lead or the pitch was not completed in a thorough manner and the surface of the utensil is not smooth. Therefore such a utensil will absorb wine more easily than an ordinary earthenware utensil. Hence, three washings are required. The following halachah, by contrast, is speaking about a utensil that is glazed in a more thorough manner, producing a smooth surface. Hence it is less likely to absorb the wine than an ordinary earthenware utensil.
+
 [^50]: As mentioned above, the *Kessef Mishneh* interprets this to mean that they were glazed in a manner that produced a smooth surface. Hence they do not absorb the wine easily.
+
 [^51]: After being washed alone.
+
 [^52]: In order to produce a green color, a substance called *netar*, alum crystals [Rama (*Yoreh De'ah* 135:5)], is mixed into the glazing. This substance is very absorbent. The *Shulchan Aruch* (*Yoreh De'ah, loc. cit.*) states that utensils made from this substance can never be purified.
+
 [^53]: I.e., the glazing does not cover the entire utensil.
+
 [^54]: Until the wine is purged as mentioned in Halachah 15.
+
 [^55]: The *Kessef Mishneh* quotes the Rashba as stating that from the fact that these statements are made about earthenware utensils, one can conclude that metal utensils do not absorb even when gentile wine was placed in them for an extended period of time. They will absorb only when liquids are heated.
+
 [^56]: For even if the wine was not placed in them for an extended period, it is possible that there will be a certain amount of residue left in the container.
+
 [^57]: For over a short period of time, they will not absorb.
+
 [^58]: That is not covered with pitch (*Kessef Mishneh*) .
+
 [^59]: Rashi (*Avodah Zarah* [[Avodah Zarah 74#74b|74b]]) and the *Tur* and the *Shulchan Aruch* (*Yoreh De'ah* 138:1) explain that after pitch is applied to a vat, a small amount of wine is placed in the vat to remove the unfavorable odor of the pitch.
+
 [^60]: I.e., rubbing the walls with ashes and then washing them (*Kessef Mishneh*).
+
 [^61]: Since a larger amount of pitch is necessary, it will absorb more.
+
 [^62]: The *Shulchan Aruch* (*Yoreh De'ah* 138:1) follows the position of other *Rishonim* who maintains that even after peeling the outer layer of the pitch, one must apply ashes and water, as stated in the previous halachah.
+
 [^63]: As stated with regard to barrels in Halachah 15. The Ra'avad and most other *Rishonim* differ with regard to this ruling and require the barrel to be pealed.
+
 [^64]: Indeed, one would suspect the laws governing barrels to be more stringent, for wine is stored there for long periods. It remains in a winepress, by contrast, for only a short time.
+
 [^65]: Without having to wait any time at all.
+
 [^66]: For earthenware absorbs more readily than other substances. In the previous halachah, we assume that the winepress itself did not absorb any wine. In this case, we assume that it did (*Kessef Mishneh*).
+
 [^67]: Without peeling off the pitch as stated in the previous halachah. Here also the Ra'avad differs and rules that the pitch must be peeled off. The *Shulchan Aruch* (*loc. cit.*) follows the Rambam's ruling.
+
 [^68]: In Halachah 15.
+
 [^69]: Hair does not absorb liquid at all. Hence, it need only be washed to remove the wine that may be sticking to its surface.
+
 [^70]: Our translation follows the authoritative manuscripts and early printings of the *Mishneh Torah*. The standard printed text differs slightly.
+
 [^71]: Which is more absorbant.
+
 [^72]: So that the residue will not collect there.
+
 [^73]: Our translation is based on the Rama (*Yoreh De'ah* 135:8).
+
 [^74]: When citing this law in his *Shulchan Aruch* (*Yoreh De'ah* 138:7, 9), Rav Yosef Caro does not mention the need to untie the knots in this instance. As evident from his *Kessef Mishneh*, he follows the approach of the Rashba who maintains that when an object is left for twelve months, there is no need to untie the knots. The *Siftei Cohen* 138:8 differs and states that the Rambam's ruling should be followed.
+
 [^75]: Upon which the grapes are placed.
+
 [^76]: Used to crush the grapes (see the conclusion of the gloss of the *Lechem Mishneh* to Halachah 17).
+
 [^77]: Which are used as brooms to collect the grapes (Rashi, *Avodah Zarah* [[Avodah Zarah 75#75a|75a]]).
+
 [^78]: In his Commentary to the Mishneh, *Taharot* 10:8, the Rambam states that this refers to the restraints placed around olives (and grapes) when they are being squeezed to gather them together.
+
 [^79]: This term refers to the process of applying ashes and water mentioned above.
+
 [^80]: To purge the wine absorbed in this fashion.
+
 [^81]: Cooking them in such water will cause whatever wine that was absorbed to be sealed in its place and never to be released.
+
 [^82]: This will also purge the absorbed wine. See *Hilchot Tumat Ochalin* 11:17 which mentions these same processes in a different context.
+
 [^83]: A Jew who worships false divinities, does not observe the Sabbath, or denies the Torah and its mitzvot is considered equivalent to a gentile and his wine is forbidden just as a gentile's is (see *Hilchot Shabbat* 30:15). When *Eretz Yisrael* was populated solely by Jews, our Sages maintained that there was no need to suspect that a person fell into the above categories.
+
 [^84]: The Ra'avad objects to the Rambam's ruling, stating that a common person will not necessarily cause another to transgress. The Radbaz states that even if the common people will not necessarily transgress themselves, they will not be careful about protecting another person's observance and may sell him forbidden articles. This view is cited by the Rama (*Yoreh De'ah* 119:1).
+
 [^85]: Chapter 3, Halachah 21; Chapter 8, Halachah 7.
+
 [^86]: We assume that the host is observant and that he is giving his guest the same food that he eats himself (Radbaz).

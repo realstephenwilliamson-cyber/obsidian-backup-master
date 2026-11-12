@@ -33,7 +33,9 @@ Response
 49.2. The intellect that pursues practical philosophy with knowledge, and is girded round about with every divine discernment against the opposing power, is a Hezekiah, whose name means “divine sovereignty,”[^2] which is why he rules Jerusalem, which signifies the soul,\[1\] or the “vision of peace,” which is cognitive contemplation freed from the passions. When such an intellect sees the opposing power already moving against it, it “takes counsel”—as it ought to—“with its elders and rulers in order to seal off the waters of the springs that are outside the city.” The “rulers” belonging to such an intellect are the principles of faith, hope, and love,[^3] which, like elders, exercise power over all the divine concepts and thoughts of the soul, and wisely counsel the intellect. At the same time, they also “ join and support” the intellect against the opposing power, suggesting ways in which it might be destroyed. For without faith, hope, 
 
 [^1]: [[II Chronicles 32#^32-2|2 Chr 32.2–4]].
+
 [^2]: Cf. Lagarde, *Onomastica Sacra,* 190: “Hezekiah means ‘sovereignty.’”
+
 [^3]: Cf. [[1 Corinthians 13#^13-13|1 Cor 13.13]].
 
 *[p. 281]* ^pg300
@@ -43,7 +45,9 @@ and love, no evil thing can be completely abolished, nor can any good thing be c
 49.3. The meaning of the names of the rulers is in agreement with this. At that time, the rulers under Hezekiah were “Eliakim the son of Hilkiah, who was the steward; Shebnah the secretary; and Joah, the son of Asaph, the recorder.”[^6] Eliakim means “resurrection of God,”\[3\] and the name of his father, Hilkiah, means “portion of God.” Thus the first and only-begotten son of the “divine portion,” that is, of true knowledge, is the principle of divine resurrection that takes place within us according to faith, together with the requisite oversight according to knowledge, by which I mean discernment, properly differentiating the uprisings of voluntary and involuntary trials. The name of Shebnah the secretary means “return,”\[4\] clearly signifying through itself the most complete principle of divine hope, without which there is absolutely no return to God of any kind whatsoever, since the characteristic property of hope is symbolized by scribal activity, that is, to give signs of, and to bring before the eyes, realities to come as if they were present, and to persuade us that God, who defends us, is never absent from those who are under attack by the opposing power, since it is for God’s sake and on His account that 
 
 [^4]: Following the suggestion of L. G. Westerink, *Byzantinische Zeitschrift* 76 (1983): 48, the CCSG editors have corrected this word to “corporeal” (cf. CCSG 22:348). I have, however, adopted the reading provided by Eriugena, i.e., *incorporalium.*
+
 [^5]: Cf. [[2 Corinthians 10#^10-4|2 Cor 10.4]].
+
 [^6]: 4 Kgs 18.18. The manuscripts indicate confusion in the spelling of the names at this point. Further, while the LXX gives: Ἰωὰς ὁ υἱὸς Σαφὰτ ὁ ἀνα - νήσκων (4 Kgs 18.18), Maximos has Ἰωὰχ ὁ τοῦ Ἀσάφ ὁ ὑπο νη ατογράφος.
 
 *[p. 282]* ^pg301
@@ -53,7 +57,9 @@ the saints are under attack.[^7] Joah, the son of Asaph, the recorder, means “
 49.4. Since these things are so according to the foregoing mode of interpretation, my argument, which has proceeded through an examination of names, has in some measure aimed at the truth. Every intellect, after the manner of Hezekiah—girded about with divine sovereignty[^8]—possesses the power of reason\[6\] as if it were certain elders and rulers, and reason naturally gives birth to faith grounded in knowledge. It is through faith, moreover, that the intellect is taught by God in a manner beyond words, and because God is always present, the things of the future are present, through hope, together with Him. The same intellect also possesses the power of desire, according to which divine love is constituted, and it is through such love that the intellect, attaching itself voluntarily to longing for the inviolate divinity, possesses the indissoluble desire for that for which it longs. Not least it possesses the power of spiritedness—by which it is tightly held by divine peace—and the intellect draws the movement of this spirited desire toward divine love. Every intellect possesses these powers collaborating with it in its efforts to overthrow evil and for the constitution and maintenance of virtue.[^9] On the one hand, they collaborate like “elders,” inasmuch as they are the most senior of the 
 
 [^7]: Cf. above, Qu. 26 2, 10.
+
 [^8]: Cf. 1 Pt 1.13.
+
 [^9]: Cf. Gregory of Nyssa, *On Virginity* 12, where, in an allegorical exegesis of [[Luke 15#^15-9|Lk 15.9]], the “friends and neighbors” of the woman (who found the lost coin) symbolize the intellect’s reasoning and appetitive powers (GNO 8/1:301); and *Amb.* 31.4–5 (DOML 2:43–47).
 
 *[p. 283]* ^pg302
@@ -69,8 +75,11 @@ over us.”[^11] It is as if the discerning intellect, faced with an uprising of
 49.5. Whoever, then, at the moment when he is faced with the uprising of the passions, courageously seals off his senses, and who completely repulses the images and memories of sensible things, and who restricts on all sides the natural tendency to examine things in the external world, has, after the manner of Hezekiah, “sealed off the waters of the springs that are outside of the city,” and “cut off the brook that runs through the middle of the city,” being “assisted” by the aforementioned powers and by the “great people that were gathered together,” by which I mean the pious thoughts of each of the soul’s powers. Through the hand of God he triumphed over and put to shame the wicked and tyrannical power that had risen up against him. And through the divine commandment, as if through an “angel”—I mean through the principle that naturally destroys the passions—he slew a “hundred and eighty-five thousand,”[^14] that is, the habit of mind productive of evil, which irrationally\[11\] springs up on the three powers of the soul through sensible objects
 
 [^11]: [[II Chronicles 32#^32-4|2 Chr 32.4]].
+
 [^12]: Cf. 4 Kgs 19.1.
+
 [^13]: The mind can contemplate the spiritual dimension of visible realities, either in their inner principles or as mental representations, or in a more “carnal” manner through sensation, imagination, and memory, through which faculties it can envision the outward forms and appearances of visible realities to which the soul can become passionately attached.
+
 [^14]: 4 Kgs 19.35.
 
 *[p. 285]* ^pg304
@@ -80,10 +89,15 @@ over us.”[^11] It is as if the discerning intellect, faced with an uprising of
 49.6. It is necessary, therefore, that the intellect, which cognitively understands how to escape invisible entanglements, not engage in natural contemplation, nor do anything else during the moment when it is under attack by wicked demons. What it should do is pray, subdue the body through hardship, and work with all zeal to bring about the downfall of the earthly mind.[^15] And of course it should guard the walls of the city—by which I mean those virtues which safeguard the virtues of the soul, or those qualities which safeguard the virtues, namely, self-control and patient endurance—by means of innate good thoughts,\[12\] but in none of its thoughts should it talk back to or contradict any of the invisible combatants ranged outside.[^16] Otherwise, the intellect runs the risk of being deceived by things on the right,[^17] of being distanced from God, and having its desire stolen by the one who gives the soul to “drink from the cup of dark ruin.”[^18] The one, I mean, who through superficial goods deceptively drags down the mind seeking goods to things that are worse; who “speaks in the language of Judah,” namely, Rhapsaces, the general of Sennacherib the king of Ashpur.[^19] The name “Rhapsaces” means “he who waters with many kisses,” or “who possesses many kisses.”[^20] That is, the evil demon who, being accustomed to use weapons on the right to fight the intellect, “speaks in the language of Judah” through what appears to be virtue 
 
 [^15]: Cf. [[1 Corinthians 09#^9-27|1 Cor 9.27]]; [[1 Corinthians 15#^15-47|15.47–48]].
+
 [^16]: Cf. 4 Kgs 18.36. “Talking back” (ἀντ ρρητ κή) was a monastic practice in which one responded to demonic suggestions by reciting relevant passages of Scripture. Inspired by the example of Christ’s responses to the devil when he was tempted in the wilderness ([[Matthew 04#^4-1|Mt 4.1–11]]), the practice is attested across a wide range of late-antique monastic literature and was the subject of a special treatise by Evagrios, trans. David Brakke, *Evagrius of Pontus, Talking Back* (Col-legeville: Liturgical Press, 2009). Arguing with demons, however, was considered dangerous for all but the most advanced ascetics, and monks were generally taught to pay no attention whatsoever to demonic thoughts and images.
+
 [^17]: Cf. above, Qu. 48.20.
+
 [^18]: [[Habakkuk 2#^2-15|Hab 2.15]].
+
 [^19]: 4 Kgs 18.26.
+
 [^20]: The Greek translation of Kings understood the Hebrew word *Rab-* *Shakeh* to be the name of the Assyrian general, but the word is an Assyrian term for a military commander.
 
 *[p. 286]* ^pg305
@@ -103,7 +117,9 @@ means of the very evil thoughts generated by the devil, transferring them to the
 49.9. Hezekiah therefore, on the level of the text’s spiritual meaning, acted well and very wisely when, on account of Sennacherib the king of Assyria, he “sealed off the waters of the springs that were outside of Jerusalem.” The “springs outside the city,” that is, outside the soul, are all the senses, while their “waters” are the mental images of sensible things. The brook that flows through the middle of the city is the knowledge gathered together in natural contemplation from these mental images.\[17\] This knowledge passes through the middle of the soul because it is a kind of borderland between the intellect and sensation.[^24] For the knowledge of sensible realities is not 
 
 [^22]: 4 Kgs 19.36.
+
 [^23]: The etymology of the name Armenia is disputed by historians and philologists. “Armenia” and “Ararat” are often used interchangeably or simply identified in classical and patristic literature, and the notion of “rest” may be related to Ararat, although Cyril of Alexandria provides αρτυρ α καταβάσεως for the latter (*Glaphyra in Pentateuchum* \[PG 69:72\]). The name *Ara-m* is ultimately derived from the Proto-Indo-European word *h,rem,* which means “to rest, become quiet, calm.”
+
 [^24]: The soul was believed to stand midway between intellect and sensation, where it was productive of images and concepts; cf. Plato, *Timaeus* 35a; Origen, *On First Principles* 2.6.3: “The soul of Christ acted as a medium between God and the flesh, for it was not possible for the nature of God to mingle with a body apart from some medium” (SC 252:314); Maximos, *Amb.* 3.2 (DOML 1:18–19); Dionysius, *Ep*. 9.1: “The impassible part of the soul borders upon the simple and most deeply interiorized visions of deiform images . . . this is evident in those who, having beheld the things of God beyond the veils, subsequently shape within themselves a certain figure” (198, lines 8–14); and H. J. Blumenthal, *Plotinus’ Psychology* (The Hague: Martin Nijhoff, 1971), 88–95.
 
 *[p. 288]* ^pg307
@@ -111,6 +127,7 @@ means of the very evil thoughts generated by the devil, transferring them to the
 wholly disconnected from the intellective power, but neither is it allocated solely to the activity of sensation. To the contrary, it is found in the middle, as it were, at the convergence of the intellect toward sensation, and of sensation toward the intellect, and itself brings about the mutual conjunction of the one with the other. With respect to sensation, it impresses on it the specific outward forms of sensible realities; with respect to intellect, it transmutes these impressions into principles. This is why the knowledge of visible realities is not unreasonably called a brook running through the middle of the city, for it is the middle ground between two extremes, that is, of the intellect and sensation. Whoever seals off this knowledge when the passions initiate their disturbances, so that the intellect is not disturbed by the offensive onslaught of the outward forms of material things, and with knowledge severs the invisible entanglements of the wicked demons, slays the “one hundred and eighty-five thousand.”[^25] By this I mean the state that produces evil, which irrationally springs up, as I said, by means of sensible things, on the three powers of the soul, as well as on the activity of the senses concerned with them, that is, the irrational activity of the soul’s natural powers with regard to the senses. This is because numbers consisting of six or multiples of six—whether they are composed of units of one, ten, one hundred,[^26] or some other number—signify the state which is productive of either virtue or vice, depending on the final sum of its multiplication, and which makes present to the mind the disposition that yields the sum producing one state or the other—at least to the minds of those who apply themselves with specialized knowledge to the science of numbers. When to any number consisting of six or a multiple of six the number five is joined, added, or combined, it points obliquely to the senses, that is, to the potential, state, or activity of sense perception that is adjacent to,\[18\] or supervenes upon, or is compounded with, the natural
 
 [^25]: 4 Kgs 19.35.
+
 [^26]: Or “monads, decads, and centuries”; cf. Ps.-Iamblichus, *Theology of Arithmetic,* ed. Victor De Falco (Leipzig: Teubner, 1975), 42–54.
 
 *[p. 289]* ^pg308
@@ -120,6 +137,7 @@ powers of the soul. For example, when, by units of one, as a simple number to an
 49.10. The number six, therefore, when added to or combined with units of ten, produces the number sixty. The number sixty, when multiplied by the three general powers of the soul, with the addition of the five innate senses, produces the number one hundred eighty-five. This number manifests the state which, supervening upon the natural powers of sense perception, is productive of evil—which is why in this particular passage of 
 
 [^27]: I.e., ἐπ τηδε ότης, which means aptitude, habitual fitness, and suitability to receive something. This is a technical term related to the Aristotelian doctrine of potentiality and actuality, hinging on the notion that potentiality is a necessary condition for actuality, but not a sufficient one. “Wood” is a necessary condition for fire, but it is not necessarily sufficient, if, for example, it is soaked with water. Among Neoplatonists, the term denotes the “sufficiency” or “suitability” of the *paschon* to receive the influence of the divine cause (and thus denotes a “capacity” for divine influence). Maximos explains the concept in *Pyrr*: “Aptitude produces, through discipline, a stable habit and an execution of intention in accordance with that disposition” (PG 91:313AB). In the sense of denoting “fitness” or “suitability” characteristic of the patient in relation to the potencies of the causal agent, the term first appears in Iamblichus as applied to certain psychic states which are “suitable for receiving the influence of the gods” (*On the Mysteries of the Egyptians* 105.1); Proclus speaks of a substrate as “fit for the participation of the Forms” (*Commentary on Parmenides* 903, 36–39); cf. Gersh, *Iamblichus to Eriugena,* 37–38, 211.
+
 [^28]: On “blameworthy” and “praiseworthy” interpretations, see above, Qu.
 
 *[p. 290]* ^pg309
@@ -129,9 +147,13 @@ Scripture the number is presented as blameworthy—and it is this evil state tha
 49.11. This is perhaps what the great David recognized, experienced, and put into practice, for he, more than anyone else, had experience on the front line of battle against armies of invisible invaders. For “when,” he says, “the sinner arrayed himself before me, I was dumb, and humbled myself, and refrained from uttering even good words.”[^29] And after him, in the same spirit, the divine Jeremiah warned the people “to go not forth from the city, because the sword of the enemy lay round about it.”[^30] And there is this: if the blessed Abel\[20\] had guarded himself and had not gone “out into the plain” together with Cain,[^31] that is, into the broad place of natural contemplation prior to attaining a state of dispassion, the “law of the flesh”[^32] would not have “risen up and killed him,” springing upon him cleverly[^33] and deceiving him through things on the right during the contemplation of beings, before he had attained a perfect state of mind—for this is what “Cain” means, and was, and was called, namely, the “law of the flesh,” and consistent with the meaning of his name, he was what the first man Adam acquired as the first fruit of his transgression, giving birth to the law of sin, 
 
 [^29]: [[LXX Psalms 38|Ps 38.2]].
+
 [^30]: Cf. [[Jeremiah 06#^6-25|Jer 6.25]].
+
 [^31]: [[Torah 01 - Bereshit#^4-8|Gn 4.8]].
+
 [^32]: Cf. [[Romans 07#^7-25|Rom 7.25]]; [[Romans 08#^8-7|8.7]].
+
 [^33]: Cf. [[Torah 01 - Bereshit#^4-8|Gn 4.8]].
 
 *[p. 291]* ^pg310
@@ -143,8 +165,11 @@ Scholia
 \[1\] The unerring contemplation of beings requires that one be free of passions. This is why it is called “Jerusalem,” on account of its perfect virtue and immaterial knowledge,[^36] which is attained not simply by the privation of the passions but also by the privation of mental images derived from objects of sense, which the biblical text calls the “waters outside the city.”[^37]
 
 [^34]: Cf. Maximos’s interpretation of Cain and Abel in *QD.* 77 (CCSG 10:58).
+
 [^35]: [[Torah 08 - Vayishlach#^34-2|Gn 34.2]].
+
 [^36]: I.e., knowledge free of material-based forms.
+
 [^37]: Cf. above, Qu. 10.7.
 
 *[p. 292]* ^pg311
@@ -178,6 +203,7 @@ should not engage in natural contemplation inasmuch as the mental images of sens
 \[14\] Sennacherib means “trial of desiccation.” One reason for this is because he dries the hearts of those who are opposed to him, separating their holy thoughts from the source 
 
 [^38]: [[Romans 08#^8-6|Rom 8.6]].
+
 [^39]: [[1 Corinthians 05#^5-5|1 Cor 5.5]].
 
 *[p. 294]* ^pg313
@@ -207,8 +233,11 @@ Whoever knows the value of each number within the decad—namely, that the monad
 \[20\] Cain is the law of the flesh, whom Adam first begot when he had transgressed the commandment. Abel is the “mind of the Spirit,”[^41] who was born afterwards, when Adam repented. Before Abel attained to a perfect state, however, and while he was still preoccupied with natural phenomena, he was killed by Cain. “But whoever kills Cain,” God says, “vengeance will be taken on him sevenfold.”[^42] In the Gospels, this same one is called a “wicked spirit,” which brings along with it seven even more wicked spirits.[^43] This spirit is perhaps the thought of self-love, that is, the spirit of gluttony, which is inevitably followed by the thought of fornication, greed, sorrow, wrath, listlessness, vainglory, and pride. He, then, who according to the divine sentence kills Cain, by which I mean gluttony, will at the same time kill all those passions that arise from it, according to the 
 
 [^40]: Or “rounded” (περ φερής).
+
 [^41]: Cf. [[Romans 08#^8-27|Rom 8.27]].
+
 [^42]: [[Torah 01 - Bereshit#^4-15|Gn 4.15]].
+
 [^43]: [[Matthew 12#^12-45|Mt 12.45]].
 
 *[p. 296]* ^pg315

@@ -51,6 +51,7 @@ The seconds should be rounded off and considered to be a minute. Accordingly, th
 In a similar manner, it is possible for you to calculate the true position of the moon at the time of sighting for any date that you desire from the beginning of this year that was chosen as the starting point until the end of all time. ^15-9
 
 [^1]: I.e., the location of the moon as it appears in the sky.
+
 [^2]: The Rambam is following the notion that the Earth does not lie at the center of the moon's orbit. Hence, like the sun, the moon has an apogee and a perigee.  
     Also of significance here is the fact that, as mentioned in the notes on the previous chapter, the orbit of the moon is moving from east to west at a relatively fast pace, 11 degrees, 12 minutes and 19 seconds per day.  
     A conjunction refers to the time the sun, the moon, and the Earth are aligned in a straight line. Accordingly, the sun's rays are reflected back without being observed from the Earth, and the moon is therefore not seen in the heavens. At the time of the conjunction, the moon is always at its apogee.  
@@ -58,23 +59,40 @@ In a similar manner, it is possible for you to calculate the true position of th
     As the moon continues in its orbit, after the conjunction, it and its apogee move away from the sun in opposite directions. Significantly, the angular distance traveled by the moon and its apogee from the sun is the same.  
     To explain: The moon's mean is moving at rate of 13 degrees, 10 minutes and 35 seconds per day from west to east. Since the sun is also moving from west to east at the rate of 59 minutes and eight seconds per day, every day the moon will have traveled 12 degrees, 11 minutes and 27 seconds from the sun. Its apogee is moving from east to west at a speed of 11 degrees, 12 minutes and 19 seconds per day. When the sun's mean motion is added to that figure, the same total, 12 degrees, 11 minutes and 27 seconds, is reached. Thus, the double elongation, which is calculated by doubling the angular distance between the moon's mean and the sun's mean, represents the angular distance between the moon's mean and the apogee of its orbit.  
     (The moon also reaches its apogee when it is full. At this point, the sun, the Earth, and the moon are aligned in a straight line, and the gravitational pull of the sun draws the Earth away from the moon. According to contemporary science, however, these two figures are not alike, and the apogee reached at conjunction is greater than the apogee reached at a full moon.)
+
 [^3]: At this time, the mean position of the moon will have moved 2 1/2 degrees from the mean position of the sun. Unless it moves that distance, its crescent will be too small to be noticed in the sky. This distance will be covered by the moon in slightly less than five hours. Thus, within five hours of the conjunction of the sun and the moon, it will be possible to sight the new moon.  
     The commentaries have noted a slight incongruity between the Rambam's statements here and his statements at the beginning of Chapter 17, where he states that the longitude at the night of the sighting of the moon will not be less than nine degrees nor more than twenty-four degrees. There is a difference of approximately seven degrees between these two figures. They attempt to resolve this discrepancy by stating that in this chapter the Rambam is speaking in terms of mean distance, while in Chapter 17 he is speaking in terms of true distance. At times, there can be as great as a seven-degree fluctuation between the two figures (*Perush,* Ralbach).
+
 [^4]: At this time, 61 hours will have passed since the time of the conjunction, and the moon will have moved 31 degrees from the sun. Under such circumstances, the crescent of the moon will be large enough to be openly visible to all, and no calculations will be necessary.
+
 [^5]: The difference between the true position of the moon and its mean position depends on the progress of the moon in its epicycle - i.e., the mean of [the moon] within its path, which is moving at approximately 13 degrees a day from east to west, as stated in the previous chapter. The Rambam is stating that a further adjustment is necessary, depending on the distance between the moon and the sun.  
     During the first days of the month, as the distance between the sun and the moon increases, the moon's progress in its epicycle will vary from its standard rate of progress. According to the medieval science, this variation depends on the movement of the *nekudah hanochachit*, the point opposite the center of the moon's orbit. According to modern science, this difference depends on the gravitational pull of the sun and other celestial bodies.
+
 [^6]: I.e., the progress of the moon in its epicycle.
+
 [^7]: This refers to the angle between the line extending from the mean position of the moon to the Earth and the line extending from the adjusted position of the moon in its epicycle to the Earth.
+
 [^8]: When the correct course is less than 180 degrees, the angular distance between the moon's actual position and its mean is less than the mean distance. Hence, a subtraction should be made.
+
 [^9]: When the correct course is more than 180 degrees, the angular distance between the moon's actual position and its mean is more than the mean distance. Hence, an addition should be made.
+
 [^10]: The angle of the course of the moon is far larger than the angle of the course of the sun. The rationale for this difference is easily explainable. The moon is far closer to the Earth than the sun. Therefore, the angle between the two lines extending from either end of the course to the Earth will be greater.
+
 [^11]: The line from the Earth to the moon's mean varies only slightly, while the line from the Earth to the true position of the moon changes to a far greater degree as the moon proceeds along its epicycle, changing the size of the angle of the course. The angle of the course will be largest when the angle between the line extending from the Earth to the true position of the moon and the line extending from the true position of the moon to its mean position is ninety-six degrees - i.e., when these two lines are almost directly perpendicular to each other.  
     (The reason the largest angle is not at a direct 90-degree angle is that the line to the moon's mean is drawn from the center of the Earth, and the true position takes into consideration the fact that we are looking at the moon from the surface of the Earth, which is removed from its center.)
+
 [^12]: Our translation is based on the authentic manuscripts and early printings of the *Mishneh Torah*. The standard printed text reads 4 degrees and 20 minutes.
+
 [^13]: Here, also, there is a printing error in the standard printed texts of the *Mishneh Torah*, and those texts read 3 degrees.
+
 [^14]: For the same angle is produced regardless of whether one makes an increase or a decrease from 180° or 360°.
+
 [^15]: See Chapter 13, Halachot 5-6.
+
 [^16]: See Chapter 13, Halachah 7.
+
 [^17]: In the standard printed texts of the *Mishneh Torah*, there is a printing error, and those texts read 180 degrees.
+
 [^18]: See Chapter 13, Halachah 9.
+
 [^19]: Here also there is a printing error in the standard published text, which reads 33 minutes.

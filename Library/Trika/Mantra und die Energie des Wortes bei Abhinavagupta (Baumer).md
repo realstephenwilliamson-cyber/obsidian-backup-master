@@ -105,8 +105,11 @@ Beide Zitate deuten auf die große Kraft von Mantras im indischen Kontext, eine 
 Die Kraft der Mantras beruht nun auf einer ganzen Theologie des Wortes, der Sprache, des Alphabets, die, ausgehend vom nicht-dualistischen Śivaismus von Kashmir (Trika) die gesamte Exegese der Tantras durchdrungen hat, nicht nur der śivaitischen, sondern auch der vishnuitischen und śaktistischen. Da diese drei großen Traditionen den »Hinduismus« fast völlig durchdringen, ist der Einfluss dieser Theorien und rituell-spirituellen Praktiken kaum zu überschätzen. Wenn einer der frühen Erforscher des Tantrismus, Arthur Avalon (Sir John Woodroffe) behauptet hat : »Vom Mutterschoß bis zum Verbrennungsplatz lebt und stirbt der Hindu mit Mantras«[^5], und dieser Aussage kaum wiedersprochen
 
 [^2]: Padoux : Vāc (1992) 377.
+
 [^3]: Abhinavagupta : A Trident of Wisdom (1989) 89 (Sanskrittext), 376 (engl. Übersetzung), zit. nach a. a. O. , 376.
+
 [^4]: Dies steht im Kontext des Kommentars über die Phrase des Tantra Vers 11: asyoccāre kṙte saṁyaṅ mantramudrāgaṅo mahān.
+
 [^5]: Principles of Tantra, zit. in Padoux : »Mantras, what are they?« (1998) 296.
 
 *[p. 15]* ^pg7
@@ -120,7 +123,9 @@ Abhinavagupta stützte seine Spekulation über Mantra, über das Wort, auf zwei 
 Ich gehe zunächst auf die Tantras ein. Um nur zwei Beispiele der dort zu findenden mystischen Mantra-Praxis zu erwähnen, zitiere ich aus einem der autoritativsten Tantras der kaschmirischen Tradition, dem Vijñāna Bhairava:
 
 [^6]: Gurunāthaparāmarśa.
+
 [^7]: Vgl. eine parallele Aussage von Thomas von Aquin über Jesus und die großen nichtchristlichen Lehrer : S. Th III 42,4 : »Je hervorragender der Lehrer, desto hervorragender muß auch seine Lehrweise sein. Deshalb entsprach es Christus als einem äußerst hervorragenden Lehrer, seine Lehre den Herzen seiner Zuhörer einzuprägen. Aus diesem Grund heißt es in Mt 7, dass er ›sie lehrte wie einer der Macht hat.‹ Deswegen wollten auch bei den Heiden weder Pythagoras noch Sokrates, die äußerst hervorragende Lehrer waren, etwas niederschreiben. Denn auch das Geschriebene ist nur darauf als Ziel ausgerichtet, die Lehre den Herzen der Leser \[wrtl. der Hörenden\] einzuprägen.« (Excellentiori enim doctori excellentior modus doctrinae debetur. Et ideo Christo, tamquam excellentissimo doctori, hic modus competebat, ut doctrinam suam auditorum cordibus imprimeret. Propter quod dicitur Mt 7, quod ›erat docens eos sicut potestatem habens‹. Unde etiam apud gentiles Pythagoras et Socrates, qui fuerunt excellentissimi doctores, nihil scribere voluerunt. Scripta enim ordinantur ad impressionem doctrinae in cordibus auditorum sicut ad finem.)
+
 [^8]: Vgl. Śivasūtra 1.12.
 
 *[p. 16]* ^pg8
@@ -142,6 +147,7 @@ Aus den vielen Bedeutungen und Kontexten von Mantra in den Tantras will ich nur 
 Ebenso undeutlich bleibt es, wenn eben derselbe einsilbige Mantra als »Same des Herzens« (hṙdayabīja) oder »Same der Schöpfung« (sṙṣṫibīja) bezeichnet wird. Den Code kann nur auflösen, wer in der Tradition steht bzw. in sie initiiert wird. Diese Geheimhaltung hat eben mit der dem Mantra inhärenten Kraft zu tun, mantraśakti genannt. Seine volle Wirkkraft kann ein solcher Mantra nur im Kontext der Praxis entfalten, die eine Wiederholung, eine Rezitation (japa), ob äußerlich oder innerlich, oder eine Meditation über den Mantra in all seinen
 
 [^9]: Vgl. Maitrī Up. 6.22.
+
 [^10]: praṅava kann auch andere einsilbige Mantras bezeichnen, wie hrīṁ , huṁ .
 
 *[p. 17]* ^pg9
@@ -157,6 +163,7 @@ Wir kommen jetzt zu der zweiten Quelle der Metaphysik – und Mystik – des Wor
 Ohne ins Detail zu gehen, kann gesagt werden, dass zwei zentrale Theorien von Bhartṙhari die Philosophie von Trika und Pratyabhijñā nachhaltig beeinflussten : Die erste ist die untrennbare Verbindung von Wort oder Sprache und Bewusstsein oder Geistigkeit. Es gibt kein Bewusstsein ohne Sprache. Bhartṙhari entwickelt diese Theorie anhand der Grammatik, der Philosophie und der Psychologie und wendet sie auf die Offenbarungen des Veda und des Tantra an. Für ihn und für einen Großteil der indischen Philosophen ist die Grammatik »der kürzeste Weg zum Erlangen der höchsten Essenz des Wortes, des heiligsten aller Lichter \[…\]« (Vāk. I. 12). Der andere wichtige Beitrag, den Bhartṙhari zu
 
 [^11]: Vgl. Vasudeva : The Yoga of the Malinivijayottaratantra (2004).
+
 [^12]: Padoux : »Mantras, what are they ?« (1998) 296.
 
 *[p. 18]* ^pg10

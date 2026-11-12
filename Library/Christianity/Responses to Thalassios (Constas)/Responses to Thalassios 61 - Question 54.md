@@ -33,7 +33,9 @@ Response
 54.2. The name Zerubbabel, according to the precise rules of the Hebrew language, admits of both rough and smooth pronunciations, along with synthesis, division, and sequence. With the rough, it means “seed of confusion.”[^3] With the smooth, 
 
 [^1]: 1 Esd 4.58–60.
+
 [^2]: The figure of Zerubbabel was prominent in contemporary Jewish thought, primarily through the *Book of Zerubbabel* (*Sefer Zerubavel*), a Jewish apocalypse written in the first half of the 7th century (ca. 604–30). The work was written against the background of wars between the Byzantine Empire and Persia, which encouraged messianic hopes among some Jews, reflected in the *Book of Zerubbabel,* in which the wars were seen as eschatological events heralding the appearance of the Messiah; see W. J. van Bekkum, “Jewish Messianic Expectations in the Age of Heraclius,” in *The Reign of Heraclius (610–641):* *Crisis and Confrontation,* ed. Gerrit J. Reinink and Bernard H. Stolte (Leuven: Peeters, 2002), 95–112; Robert L. Wilken, “The Restoration of Israel in Biblical Prophecy: Christian and Jewish Responses in the Early Byzantine Period,” in *To See Ourselves as Others See Us: Christians, Jews, “Others” in Late Antiquity,* ed. Jacob Neusner and Ernest S. Frerichs (Chico, CA: Scholars Press, 1985), 443–71, esp. 453–61; and below, the note at Qu. 64.18.
+
 [^3]: Cf. Lagarde, *Onomastica Sacra,* 191: “Zerubbabel means ‘rest from confusion.’”
 
 *[p. 334]* ^pg364
@@ -43,6 +45,7 @@ Response
 54.3. It follows that Zerubbabel is the philosophical intellect, first in the sense that through repentance it sows righteousness in the confusion of the mind’s captivity to the passions. Second, in the sense of “rising out of confusion,” insofar as it reveals the shamefulness of the confusion of the passions. Third, in the sense of “rising in confusion,” for through knowledge it illumines sense perception’s confused relation to objects of sense, not permitting it to exercise itself on such objects apart from reason. Fourth, in the sense of “rising from dispersion,” since it provides the powers of the soul, dispersed among objects of sense, with the rising of works of righteousness, from which rational practice is constituted—not without a share of contemplation in knowledge—and it leads the dispersed powers back to intelligible realities. And fifth, in the sense of being “rest itself,” since it creates total peace, conjoining ascetic practice to what is naturally good, and contemplation to what is naturally true. For every ascetic practice\[1\] is naturally undertaken for the sake of the good, and every contemplation seeks after knowledge solely for the sake of the truth. When ascetic practice and contemplation have completed their course, there is absolutely nothing that can disrupt the soul’s practical activity, and neither will its contemplative activity be disturbed by any strange speculations. For it will have gone beyond every being and concept, and entered into God Himself, who alone 
 
 [^4]: “Rising” renders the Greek word ἀνατολή, which also means “dawn,” or “Orient,” which is a name of Christ; cf. [[Torah 40 - Balak#^24-17|Nm 24.17]]; Zec 6.12; [[Luke 01#^1-78|Lk 1.78]]; 2 Pt 1.19; and Rv 2.28, 22.16.
+
 [^5]: For commentary on this passage, see Blowers, *Exegesis and Spiritual Pedagogy,* 204. Maximos’s etymology is generally correct, even though he seems to be using the notion of Greek accent marks to distinguish word roots and gutturals. Professor Gary Anderson suggests a more narrative interpretation, so that “synthesis” understands the name of Zerubbabel in terms of an Israelite who is still living in Babylon during the exile (“rising amid the confusion of Babylon”); “division” as a reference to the first return under Ezra/Nehemiah (“rising away from the diaspora community in Babylon”); and “sequence” to the narrative end itself, i.e., the ingathering of all the Jewish people as a sign of the end of the exile (“rest”) (personal communication, 8 Sept., 2015).
 
 *[p. 335]* ^pg365
@@ -56,8 +59,11 @@ is goodness and truth, and who transcends every being and intellection.
 54.6. And as he lifts up his face, what does he say? “From Thee is victory,”\[6\] indicating that victory over the passions is the goal of ascetic practice, as if it were a prize won in divine contests against sin. And he also says: “From Thee is wisdom,” indicating the goal of contemplation with respect to knowledge, which negates the whole of the soul’s ignorance. And: “Thine is the glory,” giving the name of “glory” to the divine beauty that shines forth, as much as is possible, from victory 
 
 [^6]: In this instance, the “natural law” does not designate the original law of nature, which is a manifestation of its inner *logos,* but rather the condition of nature after the fall, which Maximos elsewhere calls the “law of the flesh”; cf. above, Qu. 26.
+
 [^7]: [[2 Corinthians 05#^5-2|2 Cor 5.2]].
+
 [^8]: [[Hebrews 12#^12-23|Heb 12.23]].
+
 [^9]: [[LXX Psalms 86#^86-3|Ps 86.3]].
 
 *[p. 336]* ^pg366
@@ -67,6 +73,7 @@ and wisdom—a glory which indeed constitutes the union of victory and wisdom, p
 54.7. This Zerubbabel was one of the three young men who addressed Darius the king[^11]—who I said was the natural law—
 
 [^10]: I.e., Αὐτοσοφ α; cf. above, Qu. 28.4.
+
 [^11]: Cf. 1 Esd 4.13.
 
 *[p. 337]* ^pg367
@@ -76,11 +83,17 @@ and in his address he defined the entire human capacity for divine good things i
 54.8. For “the one,” that is, the first young man, who proposes the impassioned state of bodily life, says that “wine is the strongest,”[^14] using the word “wine” to refer, in outline form, to all the deranged drunkenness of passions engrossed in pleasures, which causes one to go out of his mind, and debases the natural function of thinking. For “their wine is the wrath of dragons,” it says, “and the incurable wrath of asps,”[^15] calling the heat of carnal passions the “wine of dragons,” and the tyrannical and arrogant contempt of obedience the “wine of asps.”[^16] For the asp, as they say, more than all the other creatures of the earth, closes its ears to charms, and in its arrogance tyrannizes the charmers.[^17] 54.9. The “other,” that is, the second young man, proposes that “the king is the strongest,”[^18] giving the name of “king” to 
 
 [^12]: Cf. 1 Esd 4.13–41.
+
 [^13]: The number two, or duality, is associated with corporeal bodies, which are composed of two basic elements, i.e., matter and form; cf. *Amb.* 10.106 (DOML 1:321).
+
 [^14]: 1 Esd 3.10.
+
 [^15]: [[Torah 53 - Ha'Azinu#^32-33|Dt 32.33]].
+
 [^16]: Cf. Evagrios, *Gnostic Chapters* 5.44: “If the ‘anger of dragons is wine’ \[[[Torah 53 - Ha'Azinu#^32-33|Dt 32.33]]\], and if Nazirites \[i.e., a biblical type of the ascetic or monk\] abstain from wine, then the Nazirites have received the order to be without anger \[cf. [[Torah 35 - Nasso#^6-3|Nm 6.3]]\]” (PO 28:195).
+
 [^17]: Cf. [[LXX Psalms 57|Ps 57.5–6]]; and Gregory Nazianzus, *Or.* 40.34: “Let the Word sound in you, or rather keep the one who has sounded in you; do not close your ears to the teaching and admonition of the Lord, as a snake to charms” (SC 358:276, lines 17–19).
+
 [^18]: 1 Esd 3.11.
 
 *[p. 338]* ^pg368
@@ -90,7 +103,9 @@ every vain glory based on wealth, power, and other such superficialities. Such v
 54.10. But the “third” is the intellect presiding over virtue and knowledge, determined to free the soul from its evil slavery to the passions, and it says “women are strongest,” and “truth triumphs over all.”[^20] By “women” he means the divinizing virtues, which constitute the love that unites us with God and with one another,[^21] a love that raptures the soul away from all things subject to generation and decay, as well as from the intelligible essences that are above them, and entwines the soul with God Himself in a kind of erotic blending—to the extent that this is possible for human nature—and it mystically creates their pure and divine cohabitation. By “truth” he means the sole and unique Cause of beings, along with their governing principle, kingdom, power, and glory, from which and for which all things were made and are being made, and by which and through which they are all held together in existence, and for which those who love God expend all their effort and devote all their movement. To state the matter succinctly, through “women” he showed that the goal of the virtues is love, which is the unfailing pleasure and indivisible union of those who participate through their longing in what is good by nature. Through “truth”\[9\] he signaled the limit of all knowledge and 
 
 [^19]: [[LXX Psalms 68|Ps 68.3]].
+
 [^20]: 1 Esd 3.11–12.
+
 [^21]: Cf. [[John 13#^13-34|Jn 13.34]].
 
 *[p. 339]* ^pg369
@@ -112,8 +127,11 @@ be no envy or resentment, for the grace of the Spirit is not of a nature to be d
 54.14. Let us now turn to another mystical contemplation, which presents us with the principal truth of the biblical text. The true and new Zerubbabel, who is announced figuratively through the old one, is our Lord and God Jesus Christ, who, in the confusion of our nature, was conceived, formed in the womb, was born, and became perfect man according to nature, so that by separating our nature from confusion, He might lead it back to Himself. For He did not become a captive together with us,\[12\] neither was He dragged away into the captivity of the passions, “for He committed no sin, neither was there any guile found in his mouth.”[^25] Instead, He was born among captives as if He were also a captive, and He was “reckoned among transgressors,”[^26] “assuming the likeness of the flesh of sin\[13\] and concerning
 
 [^23]: Cf. [[Romans 12#^12-3|Rom 12.3]].
+
 [^24]: Larchet (SC 554:206, n. 1) highlights three themes here: first, that grace is given “according to the measure” (i.e., κατὰ τὴν ἀναλογ αν) of the recipient’s faith and disposition, and suggests that Maximos’s emphasis on the personal, spiritual state of the recipient marks a shift away from the Dionysian sense of “analogy,” which is determined by the hierarchical structure of beings (although there are limits to what humanity can receive, as Maximos regularly affirms); cf. Marius Portaru, “Gradual Participation according to St Maximus the Confessor,” *SP* 68 (2013): 281–93; and Maximos Constas, “Maximus the Confessor, Dionysius the Areopagite, and the Transformation of Christian Neoplatonism,” *Analogia* 1.2 (2017): 1–12, esp. 7–9. Second is the theme of “synergy” or cooperation of divine grace and human freedom, or between the divine activity/energy and the disposition of the human will. Third is the identification of the divine activity/energy with the grace given to human beings, indicating that Maximos does not restrict the notion of divine energy solely to the sense of “activity” or “operation.”
+
 [^25]: 1 Pt 2.22; Is 53.9.
+
 [^26]: Mk 15.28; Is 53.12.
 
 *[p. 341]* ^pg371
@@ -125,10 +143,15 @@ sin.”[^27] He was in the “likeness of the flesh of sin,” for whereas by na
 54.16. He is the one who brought back the true Israel from its captivity, not transferring the people from one land to another
 
 [^27]: [[Romans 08#^8-3|Rom 8.3]].
+
 [^28]: Cf. Is 53.4–5.
+
 [^29]: The Greek verb συνελήφθη means to be captured or arrested, as well as being conceived in the womb.
+
 [^30]: [[Lamentations 4#^4-20|Lam 4.20]].
+
 [^31]: Zec 6.12; [[Malachi 3#^3-20|Mal 3.20]].
+
 [^32]: On “providence and judgment,” see below, Qu. 63.17.
 
 *[p. 342]* ^pg372
@@ -142,9 +165,13 @@ sin.”[^27] He was in the “likeness of the flesh of sin,” for whereas by na
 54.19. He is Zerubbabel, who gloriously raised up the fallen house of God, about which the Holy Spirit says: “and the glory of this final house shall be greater than the former,”[^36] for the Word “communicated a second communion to nature, far more paradoxical than the first.”[^37] As much as He had previously
 
 [^33]: 1 Tm 2.4.
+
 [^34]: [[Romans 08#^8-7|Rom 8.7]].
+
 [^35]: Am 9.11.
+
 [^36]: [[Haggai 2#^2-9|Hag 2.9]].
+
 [^37]: A phrase from Gregory Nazianzus, *Or.* 38.13 (SC 358:134, lines 38–39), which is the focus of *Amb.* 36 (DOML 2:70–73).
 
 *[p. 343]* ^pg373
@@ -156,10 +183,15 @@ given what was superior, to the same degree He later voluntarily received what w
 54.21. Zerubbabel, as I have already said many times, is our Lord and God Jesus Christ. His “stone”\[20\] is faith in Him. And 
 
 [^38]: An allusion to Eve’s reception of the serpent’s words and the Virgin Mary’s conception of the Word “through hearing”; cf. Constas, *Proclus of Constantinople,* 273–90.
+
 [^39]: That is, immutability acquired through free will; cf. above, Qu. 42.
+
 [^40]: Zec 4.9.
+
 [^41]: Zec 4.10.
+
 [^42]: Or, “a plummet of tin.” The CCSG editors give κασσ τήρ νον, without citing any variants, but throughout late-antique Greek literature the word is attested more frequently as κασσ τέρ νον. The mineral “cassiterite” or “tinstone” is the principal ore of tin.
+
 [^43]: Cf. Zec 4.10.
 
 *[p. 344]* ^pg374
@@ -169,12 +201,19 @@ it is “in His hand” because faith in Christ is manifested by the practice of
 54.22. “And there will rest upon Him,” it says, seven spirits, namely, the “spirit of wisdom, the spirit of comprehension, the spirit of knowledge, the spirit of true understanding,[^48] the spirit of counsel, the spirit of might, the spirit of the fear of God.”[^49] The spirit of the fear of God\[21\] is abstention from committing evil deeds. The spirit of might is the voluntary effort and motion toward the actual keeping of the commandments. The spirit of counsel is the state of discernment, according to which we keep the divine commandments in a manner consistent with reason, distinguishing the greater from the worse.[^50] The spirit of true understanding is the true knowledge of the modes of virtuous practice, and when these inform our practice we do not err with respect to the correct judgment of reason. The spirit of knowledge is the grasping of the intelligible principles contained in the commandments, according to which the modes of the virtues are constituted. The spirit of comprehension is the assent to the modes and principles of virtues—or, strictly speaking, their transformation—according to which there comes about a mixture[^51] of our natural powers with the modes and principles of the commandments. The spirit of wisdom is the ascent toward
 
 [^44]: [[James 02#^2-26|Jas 2.26]].
+
 [^45]: Citing Gregory Nazianzus, *Or.* 40.45 (SC 358:306, lines 46–47).
+
 [^46]: Didymos, *Commentary on Zechariah* 1.330, makes the same connection between the “hand” and “practice” (SC 83:366, line 22); cf. above, Qu. 3.3.
+
 [^47]: Larchet (SC 554:212, n. 2) notes that, both here and in what follows, Maximos identifies the grace of the Holy Spirit with the “energy” of the Holy Spirit, using the word in the plural to designate the various forms according to which it is communicated to human beings.
+
 [^48]: Maximos has “true understanding” (ἐπ στή η) instead of “piety” (εὐσέβε α), which latter is found in the Septuagint; cf. below, Qu. 63.6.
+
 [^49]: Cf. Is 11.2.
+
 [^50]: Cf. [[Hebrews 05#^5-14|Heb 5.14]].
+
 [^51]: On “mixture,” see *Amb.* 10.38 (DOML 1:206–209).
 
 *[p. 345]* ^pg375
@@ -192,7 +231,9 @@ by all means condemned, for he no longer has God watching over him. And I think 
 54.25. Some have taken the “stone of tin” as a symbol of our Lord Jesus Christ, inasmuch as He is constituted from two natures, divinity and humanity.[^53] If, however, someone wishes to contemplate faith in Christ, or Christ Himself, with a greater depth of knowledge,[^54] he could say that faith in Christ and Christ Himself are “lead,” inasmuch as He disciplines the soul, chastises the flesh, punishes the passions, and condemns demons. As “silver,” He makes the mind radiant by means of the virtues, and glorifies it by knowledge, and by means of divinization makes it light, an image of the primal light. According to 
 
 [^52]: [[Luke 02#^2-34|Lk 2.34]].
+
 [^53]: An argument made by Cyril of Alexandria, *Commentary on Zechariah* 2 (ed. P. E. Pusey, *S.P.N. Cyrilli archiepiscopi Alexandrini in XII prophetas,* vol. 2 \[Oxford: Clarendon Press, 1868; repr. Brussels: Culture et civilisation, 1965\], 341–42); cf. Didymos, *On the Trinity* 2 (PG 39:705AB), the authenticity of which remains under discussion.
+
 [^54]: I.e., γνωστ κώτερον; cf. below, Qu. 63.18.
 
 *[p. 347]* ^pg377
@@ -206,10 +247,15 @@ Scholia
 \[1\] The goal of practical virtue, they say, is the good, the attainment and completion of which comes about by divine activity. The rational part of the soul leads us to this completion, using its incensive and desiring powers according to nature, and it is in this completion that the beauty of the divine likeness is naturally manifested.[^60] The goal of contemplative philosophy, they say, is the truth, which is uniform and indivisible knowledge of all the things around God. It is the pure intellect that leads us to such knowledge, after it has extinguished within
 
 [^55]: Cf. [[Romans 08#^8-6|Rom 8.6]].
+
 [^56]: Cf. ibid.
+
 [^57]: Cf. [[Colossians 03#^3-9|Col 3.9]]; [[1 Corinthians 15#^15-45|1 Cor 15.45–49]].
+
 [^58]: Cf. [[Colossians 03#^3-10|Col 3.10]]; [[1 Corinthians 15#^15-45|1 Cor 15.45–49]].
+
 [^59]: A simplified version of this paragraph was included in the *Sayings of the Desert Fathers* 717: “Abba Maximos said: ‘Just as tin that has become black shines again, so too believers, even if they are blackened by sinning, shine again when they repent. Perhaps this is why faith was compared to tin’” (trans. modified from John Wortley, *The Anonymous Sayings of the Desert Fathers* \[Cambridge: Cambridge University Press, 2013\], 569).
+
 [^60]: Cf. [[Torah 01 - Bereshit#^1-27|Gn 1.27]].
 
 *[p. 348]* ^pg378
@@ -253,7 +299,9 @@ placing a veil over the soul’s cognitive powers with respect to all that it ca
 \[12\] Here the contingent type is seen to accord well with the truth. For just as Zerubbabel was not a captive, but was born of those who at that time were captives in Babylon and became their deliverer, so too our Lord, being sinless, was reckoned as being from among us, within us, and as one from among us, 
 
 [^62]: I.e., τὸ έτρον.
+
 [^63]: I.e., κατὰ τὴν ἀναλογ αν.
+
 [^64]: Cf. [[Romans 12#^12-6|Rom 12.6]].
 
 *[p. 351]* ^pg381
@@ -267,7 +315,9 @@ having voluntarily clothed Himself in the passible part of our nature, according
 \[15\] The lover of beautiful things, he says, in accordance with Providence and by means of the principles of wisdom, voluntarily hastens toward the grace of divinization. The one who has no love for such things, on the other hand, by the just 
 
 [^65]: [[Romans 08#^8-3|Rom 8.3]].
+
 [^66]: For Maximos, there can be no separation of a nature from its natural power or potential, any more than there can be a separation of nature from its natural motion or activity. The final clause of this scholion, then, should be taken as a reference to the power of Christ’s divine nature, which of course is naturally sinless, and which makes him “unlike us.” On the larger question of the transmission of sin and its relation to biological reproduction, cf. Jean-Claude Larchet, *Maxime le Confesseur, médiateur entre l’Orient et l’Occident* (Paris: Cerf, 1998), 77–112.
+
 [^67]: Cf. Zec 6.12.
 
 *[p. 352]* ^pg382

@@ -39,9 +39,13 @@ P and later in Ezekiel.
 While the changes discussed in this chapter were primarily rooted in growing opposition to certain types and functions of cultic objects, the authors and editors did not reject them 
 
 [^2]: Sommer notes that notions of divine fluidity and multiple embodiment, “recur in rabbinic literature, in various forms of Jewish mysticism, and in Christianity” (Sommer, *The Bodies of God*, 126).
+
 [^3]: Sommer, *The Bodies of God*, 58–79.
+
 [^4]: Smith, *God in Translation*, 131–85.
+
 [^5]: See Smith, “Monotheism and the Redefinition of Divinity in Ancient Israel,” 3–19.
+
 [^6]: Although in Chapter 8 I will argue that the Torah should be understood to have functioned as a cult image.
 
 *[p. 361]* ^pg378
@@ -69,7 +73,9 @@ almost unilateral occurrence in the construct case when referencing the cultic o
 is traditionally known as the ark *of the covenant* ( ארן העדה , [[Torah 19 - Terumah#^25-22|Exod 25:22]]; ארון הברית , [[Joshua 03#^3-6|Josh 3:6]]), 
 
 [^7]: See pages 334–35 above.
+
 [^8]: As Chapter 8 will show, there was an additional rhetorical campaign toward both the textualization of the vehicles of divine agency and the ritualization of the texts of the law.
+
 [^9]: The term in cognate languages suggests closely related meanings. Issam H. K. Halayqa glosses “chest” for Ugaritic *arn*, “chest,” “box,” and “coffin,” for Phoenician *’rn*, “ossuary” and “coffin” for Punic *ʾrn*, and “sarcophagus” for Epigraphic Hebrew *’rn* (Issam H. K. Halayqa, *A Comparative Lexicon of Ugaritic and Canaanite* (Münster: Ugarit-Verlag, 2008), 61; cf. Gregorio del Olmo Lete and Joaquín Sanmartín, *A Dictionary of the Ugaritic Language in the Alphabetic Tradition*, trans. Wilfred G. E. Watson. 2 vols. \[Leiden: Brill, 2003\], 1. 104). The Septuagint primarily renders κιβωτός, “box, chest, coffer,” although the translator of the 2 Chronicles passages ([[II Chronicles 24#^24-8|2 Chr 24:8]], [[II Chronicles 24#^24-10|10–11]]) rendered γλωσσόκομον, “box, money bag, coffin.”
 
 *[p. 362]* ^pg379
@@ -87,7 +93,9 @@ the ark.” This closely parallels Akkadian conventions about treaties being pla
 In form and likely even function, however, the ark, as a container, most directly parallels the portable model shrines discussed above in Chapter 3.[^11] The storage of those shrines in cult rooms parallels the ark’s storage in the cella of the tabernacle/temple, and their portability likely facilitated their use in processions, including before military forces, which would match the function of the ark in narratives like those of [[Joshua 06#^6-4|Joshua 6:4–11]] and [[I Samuel 14#^14-18|1 Samuel 14:18]]. In ancient Egypt, model shrines took the form of boats that carried the divine image within a canopied throne. Some were even flanked by winged beings reminiscent of cherubim.[^12] The more the 
 
 [^10]: Aaron, *Biblical Ambiguities*, 172–75.
+
 [^11]: See above, pages 204–06.
+
 [^12]: See Scott B. Noegel, “The Egyptian Origin of the Ark of the Covenant,” in Levy, Schneider, and Propp, *Israel’s Exodus in Transdisciplinary Perspective*, 223–42, who argues the conceptual template for the ark of the covenant was borrowed from Egypt.
 
 *[p. 363]* ^pg380
@@ -99,9 +107,13 @@ The biblical texts nowhere explicitly mention an anthropomorphic image associate
 At the same time, there is some evidence that non-anthropomorphic statuary presenced the 
 
 [^13]: The relief is in the British Museum (118931).
+
 [^14]: The one standing image appears to be a horned storm deity in its standing pose.
+
 [^15]: The anthropomorphic statue in front of the box is holding a ring out in its left hand. We would expect a model shrine to have a door on the front that could be closed, so the divine image should not project beyond the walls of the shrine, but there may be some artistic license being taken in order to depict a portion of the contents in relief.
+
 [^16]: See Porter, “Blessings from a Crown, Offerings to a Drum,” 155–56.
+
 [^17]: Walker and Dick, *The Induction of the Cult Image in Ancient Mesopotamia*, 13.
 
 *[p. 364]* ^pg381
@@ -119,7 +131,9 @@ detail in Chapter 8, but given the ubiquity of stelai in and around Israel and J
 *The Ark Narrative* As it now stands, the ark narrative in [[I Samuel 04#^4-1|1 Samuel 4]]–6 primarily represents a Deuteronomistic redaction of multiple literary layers, with bottom layers that may extend back to social memory regarding Shiloh, which was destroyed by the tenth century BCE.[^19] Nothing survives from that period to help us better understand the ark’s function in that period, but D/Dtr emphasizes the ark’s function as a container for the tablets of the law (e.g., [[I Kings 08#^8-9|1 Kgs 8:9]]).[^20] Sommer explains, “It is no longer the footstool for God . . . Where other biblical texts put God, Deuteronomy puts words that came from God. The ark remains significant, but now it houses symbols rather than divinity.”[^21] This is a peculiar assertion in light of the widespread use of symbols, words, and 
 
 [^19]: Since Leonhard Rost’s 1926 monograph, *Die Überlieferung von der Thronnachfolge Davids* (Stuttgart: Kohlhammer, 1926), scholars have identified the ark narrative as one of the oldest literary segments incorporated into Dtr. As lengthy narrative prose, the commitment of the story to text should be dated no earlier than the late-ninth century BCE, although the story may reflect memories from an earlier time (see Pioske, *Memory in a Time of Prose*, 126–27). Other more recent treatments of the narrative include Patrick D. Miller Jr. and J. J. M. Roberts, *The Hand of the Lord: A Reassessment of the “Ark Narrative” of 1 Samuel* (Baltimore: Johns Hopkins University Press, 1977 / Atlanta, GA: Society of Biblical Literature, 2008); P. Kyle McCarter, *1 Samuel*, AB (Garden City, NY: Doubleday, 1980); Levtow, *Images of Others*, 132–43; Sommer, *The Bodies of God*, 101–07; Herring, *Divine Substitution*, 67–73; Daniel Shalom Fisher, “Memories of the Ark: Texts, Objects, and the Construction of the Biblical Past” (PhD diss., University of California, Berkeley, 2018), 126–49.
+
 [^20]: It would shift again by the time of P. David H. Aaron refers to the ark being “remythologized by the post-exilic priesthood” (Aaron, *Biblical Ambiguities*, 171).
+
 [^21]: Sommer, *The Bodies of God*, 99–100.
 
 *[p. 366]* ^pg383
@@ -131,9 +145,13 @@ Scholars have noted for some time that the nature and purpose of the ark are str
 [[I Samuel 04#^4-1|1 Samuel 4]]–6 narrate the loss of the ark in battle with the Philistines at Ebenezer, its 
 
 [^22]: See Porter, “Blessings from a Crown, Offerings to a Drum,” 153–94; Timothy Hogue, “Image, Text, and Ritual: The Decalogue and the Three Reembodiments of God” (paper presented at the Annual Meeting of the SBL, San Diego, CA, 26 November 2019), 1–23.
+
 [^23]: As Aaron notes, “it was customary to deposit important documents (especially treaties) ‘before the god’ or ‘at the feet’ of the deity in a temple” (Aaron, *Biblical Ambiguities*, 172). In light of this, the ark’s role as a container for the law may still reflect the close proximity of the deity’s presence. D puts the locus of the deity’s identity in the heavens, but its agency and even voice are explicitly described as locatable within the temple. D does not entirely secularize the temple.
+
 [^24]: For instance, Sommer suggests that “[[I Samuel 04#^4-1|1 Samuel 4]] mocks the idea that God is really in the ark or on it,” while “later chapters seem to lend credence to such a theory” (Sommer, *The Bodies of God*, 106). Jacob Milgrom insists that YHWH’s association with the ark was to be understood as “temporary, unpredictable, and symbolic” (Jacob Milgrom, *Numbers*, JPSTC \[Philadelphia: Jewish Publication Society, 1990\], 374). Hundley, promoting what I call an “ambiguity” approach, finds that the Priestly strata “take great pains not to define or limit Yhwh, even leaving the single form in which he interacts with humanity undefined” (Hundley, “Divine Fluidity?,” 40).
+
 [^25]: These campaigns were not monolithic, of course. Dtr authors and editors operating after the loss of the Jerusalem temple were engaged in far different campaigns than authors and editors of editions of Deuteronomy composed prior to that loss.
+
 [^26]: Though the veneration of the sites of worship remained salient for some time. See, for instance, [[Psalms 099#^99-5|Psalm 99:5]]: והשתחוו להדם רגליו , “And worship at his footstool.”
 
 *[p. 367]* ^pg384
@@ -141,7 +159,9 @@ Scholars have noted for some time that the nature and purpose of the ark are str
 recovery in Beth-shemesh, and its subsequent installation in Kiriath-Jearim. According to [[I Samuel 04#^4-1|1 Samuel 4]], after its retrieval from Shiloh to accompany the troops into battle, the ark fails to secure victory for the Israelites. Benjamin Sommer sees this narrative as representing a clear rejection of the fluidity model he finds in earlier biblical literature. For Sommer, the ark’s failure directly challenges the view that the ark functioned as a channel for YHWH’s power. He highlights the initial expectation that “in the eyes of the elders Yhwh’s presence in or on the ark guarantees victory,” but then suggests the story is intended precisely to undercut that expectation: “But the narrative goes on to eviscerate this theology.”[^27] He then quotes Shimon Bar-Efrat: “The ark has no intrinsic value; rather, it is only a symbol of God’s presence.”[^28] So what of the ark’s displays of power after its installation in the Philistine temple? Sommer goes on to explain that the ark later in the narrative is “mysteriously powerful,” and describes a literary tension that likely resulted from the Deuteronomistic editors “front-loading” their critique of the ark as divine image, but not altering the rest of the earlier narrative. The rhetorical message, for Sommer, is that “Owning the ark is not the equivalent of owning God.”[^29] Sommer describes all those who expect the ark to fight on Israel’s behalf as a proxy 
 
 [^27]: Sommer, *The Bodies of God*, 105–06.
+
 [^28]: Sommer, *The Bodies of God*, 106 (quoting Shimon Bar-Efrat, *1 Samuel: Introduction and Commentary* \[Tel Aviv and Jerusalem: Am Oved and Magnes Press, 1996\], 88 \[Hebrew\]).
+
 [^29]: Sommer, *The Bodies of God*, 107. Certainly this rhetorical message was in play, but it does not require the rejection of the fluidity model to obtain. Rather, the authors/editors are utilizing divine fluidity to make the abandonment motif a faster and easier conclusion. The stealing or destroying of cultic statues functioned as a rhetorical denigration or humiliation of other deities in the eyes of those doing the stealing or the destroying, but for those worshippers of the cultic statues, their theft or destruction could be rationalized as a sign of the deity’s abandonment of the statue because of some transgression on the part of their community. Sommer acknowledges as much in his discussion of fluidity in Mesopotamia: “The *ṣalmu* . . . was itself a god, assimilated into the heavenly god yet physically a distinct thing that could lose its divine status at any moment, should the deity choose to abandon it” (Sommer, *The Bodies of God*, 23). Given the fact that the communities in Mesopotamia could acknowledge the abandonment of the *ṣalmu* without rejecting the entire concept of divine fluidity (he shares a story about just such a situation on pp. 21–22), there is little reason to accept that the ark’s failure to secure a victory indicates a rejection of the very ideology present in the latter half of the narrative (and for which Sommer is at pains to account). On the abandonment motif, see Cogan, *Imperialism and Religion*, 9–21; Daniel Bodi, *The Book of Ezekiel and the Poem of Erra* (Freiburg: Universitätsverlag / Göttingen: Vandenhoeck & Ruprecht, 1991), 183–218; John F. Kutsko, *Between Heaven and Earth: Divine Presence and Absence in the Book of Ezekiel* (Winona Lake, IN: Eisenbrauns, 2000), 104–23; Block, *The Gods of the Nations*, 114–26; Steven W. Holloway, *Aššur is King! Aššur is King! Religion in the Exercise of Power in the Neo-Assyrian Empire* (Leiden: Brill, 2002), 54–55. The destruction of the temple at the hands of the Babylonians is also framed in terms of divine abandonment in Ezekiel.
 
 *[p. 368]* ^pg385
@@ -157,8 +177,11 @@ The narrative represents this power in several different ways.[^33] After the ar
 antagonistically—the identification of the image as the deity.) After the second night, it is 
 
 [^30]: See previous note.
+
 [^31]: Most scholars accept the identification of these passages with the core of the account that was integrated into 1 Samuel. See, for instance, Miller and Roberts, *The Hand of the Lord*, 27–32, 37–41; Levtow, *Images of Others*, 135; Herring, *Divine Substitution*, 68.
+
 [^32]: In attributing the loss at Ebenezer to YHWH’s scheme to kill Hophni and Phinehas, the authors appeal to the \[MORAL MONITORING\] and \[PUNISHMENT\] domains to blame the inability of the deity to protect their nation on their anger with that nation, or at least three of its most prominent leaders.
+
 [^33]: Note that Sommer’s framework dismisses these representations of the return of the deity’s power to the ark as merely literarily vestigial, while my account not only gives them a rhetorical function, but rhetorically centers them.
 
 *[p. 369]* ^pg386
@@ -176,6 +199,7 @@ text is not corrupt) may allude to the belief that humanity cannot see the face 
 Several aspects of the ark narrative employ themes that characterize the ark as a typical divine image, parallel to the function of the Philistines’ own image of Dagon and understanding 
 
 [^34]: This appears to be reflected in the Priestly requirement that the ark be shrouded in smoke when the high priest enters its presence. Note Miller and Roberts’ comments about the reason for the death of Jeconiah’s family: “Verse 19b is well nigh hopelessly corrupt in the MT, and it is probably not possible to restore the text with any certainty. Most commentators have regarded the LXX as closer to the original text at several points. The most plausible reconstruction of the text in our judgment—and the one we shall operate with—is that proposed in the textual notes to the Confraternity of Christian Doctrine (NAB) translation and translated in the text . . . The descendants of Jeconiah did not join in the celebration with the inhabitants of Beth-shemesh when they greeted the ark of the Lord, and seventy of them were struck down” (Miller and Roberts, *The Hand of the Lord*, 77).
+
 [^35]: Cf. Simeon Chavel, “The Face of God and the Etiquette of Eye-Contact: Visitation, Pilgrimage, and Prophetic Vision in Ancient Israelite and Early Jewish Imagination,” *JSQ* 19.1 (2012): 1–55.
 
 *[p. 370]* ^pg387
@@ -211,6 +235,7 @@ YHWH’s participation in battle,”[^37] which is a way for scholars today to r
 perception that YHWH’s agency was presenced and channeled by the ark while maintaining 
 
 [^36]: See Miller and Roberts, *The Hand of the Lord*, 12: “the ark narrative treats the ark as the functional equivalent of a divine image among Israel’s neighbors.” The use of the cherubim formula ( ישב הכרבים ) in connection with the ark in [[I Samuel 04#^4-4|1 Samuel 4:4]] and [[II Samuel 06#^6-2|2 Samuel 6:2]] suggests the conceptualization of the ark as a pedestal image. While this formula may be a late addition that would reflect a secondary elaboration on the ark—it is only connected to the ark in [[Torah 19 - Terumah#^25-1|Exodus 25]]–31 and 35–40—the presencing function of the image would have been the same. On the relationship of the cherubim formula to the ark, see Alice Wood, *Of Wings and Wheels: A Synthetic Study of the Biblical Cherubim* (Berlin: de Gruyter, 2008), 18–22.
+
 [^37]: Kang, *Divine War in the Old Testament and in the Ancient Near East*, 212.
 
 *[p. 371]* ^pg388
@@ -260,10 +285,15 @@ the covenant of YHWH, to stand before YHWH to minister to him, and to bless in h
 Carting off the divine images of a defeated enemy and setting them up before one’s own in their temple is also attested in multiple locations, and particularly during the Neo-Assyrian period.[^42] The much earlier Mesha Stele, however, provides a more direct example. Lines 11– 13 describe the conquest of Atarot and the seizure of the altar hearth of the city’s *dwd*,[^43] which is described as being dragged *lpny ḵmš*, “before Kemosh.” [^44] The *ḵly YHWH*, “objects of YHWH,” are also described as being taken from Nebo and dragged *lpny ḵmš* (lines 17–18).[^45] The related literature stereotypically frames the loss of a divine image as the deity’s 
 
 [^40]: The construction לפני could also be understood as “before the face of,” which would strengthen the presencing function of the ark.
+
 [^41]: Knafl, *Forming God*, 131.
+
 [^42]: See Cogan, *Imperialism and Religion*, 22–41; William W. Hallo, “Cult Statue and Divine Image: A Preliminary Study,” in *Scripture in Context II: More Essays on the Comparative Method*, ed. William W. Hallo, James C. Moyer, and Leo G. Perdue (Winona Lake, IN: Eisenbrauns, 1983), 13; Kutsko, *Between Heaven and Earth*, 109–13. See also Seth Richardson, “The Hypercoherent Icon: Knowledge, Rationalization, and Disenchantment at Nineveh,” in May, *Iconoclasm and Text Destruction in the Ancient Near East and Beyond*, 231–58.
+
 [^43]: On the phrase *’r’l dwdh*, “altar hearth of *dwdh*,” see Jackson, “The Language of the Mesha‘ Inscription,” in Dearman, *Studies in the Mesha Inscription and Moab*, 112–13.
+
 [^44]: See Jackson and Dearman, “Text of the Mesha‘ Inscription,” 93–94;
+
 [^45]: The word *ḵly* is most commonly rendered “vessels,” but my rendering suggests the term may represent more than dishes and other cultic accoutrements. Note that Mesha states on line 14, *wy’mr ly ḵmš lḵ ’ḥz ’t nbh ‘l yśr’l*, “And Kemosh said to me, ‘Go seize Nebo from Israel’” (Jackson and Dearman, “Text of the Mesha‘ Inscription,” 94).
 
 *[p. 373]* ^pg390
@@ -277,11 +307,17 @@ The abduction of a defeated enemy’s cult images to the temple of a victor’s 
 The removal of the head and hands is not common, though, and the statues were actually much more valuable when taken home and installed in one’s own sacred precincts.[^50] Miller and Roberts argue for stronger resonance with the mythopoetic battles of the deities themselves in the cognate literature.[^51] For instance, KTU 1.3.ii:11–13 describe Anat carrying severed heads and hands after battle, apparently as trophies: “She fixed heads to her back, / Fastened hands on her waist.”[^52] If a similar tradition was in literary circulation and was cued by the narrative, then it may more strongly indicate the notion of deities doing battle, with YHWH playing the role of victor. This would normally correspond to the deity who led their troops to victory, but in the ark narrative, the convention would be rhetorically turned on its head in the service of 
 
 [^46]: See note 29 above.
+
 [^47]: In [[II Samuel 05#^5-21|2 Samuel 5:21]], the Philistines abandoned their idols to be carried off by David and his men.
+
 [^48]: Miller and Roberts, *The Hand of the Lord*, 13–14, 57–58, repeatedly citing Cogan, *Imperialism and Religion*. Cf. Hanspeter Schaudig, “Death of Statues and Rebirth of Gods,” in May, *Iconoclasm and Text Destruction in the Ancient Near East and Beyond*, 130–34.
+
 [^49]: Levtow, *Images of Others*, 138.
+
 [^50]: Richardson, “The Hypercoherent Icon,” 231–58.
+
 [^51]: Miller and Roberts are concerned with the conceptual roots of both Dagon’s falls before the ark, and they argue that at least the first shows much stronger connections with a fall in battle than with worship or some other traditional framework. See Miller and Roberts, *The Hand of the Lord*, 58–61.
+
 [^52]: The translation is from Mark S. Smith and Wayne T. Pitard, *The Ugaritic Baal Cycle. Volume II:* *Introduction with Text, Translation and Commentary of KTU/CAT 1.3–1.4* (Leiden: Brill, 2009), 134.
 
 *[p. 374]* ^pg391
@@ -297,6 +333,7 @@ utilized the formula לפני יהוה to refer to activity done before the ark.
 *Implications* The Hebrew Bible consistently presents the ark of the covenant as presencing the agency of the deity of Israel, though with differing degrees of connection to the deity’s loci of identity. The ark narrative makes use of the abandonment motif to assert the severability of the deity’s agency from the ark and to account for the loss of the ark to the Philistines (pinning the blame 
 
 [^53]: Anne K. Knafl finds that the ark “represents a mobile divine presence, unbounded to the mandated cult site” (Knafl, *Forming God*, 131, note 190).
+
 [^54]: See above, pages 18–19, note 58.
 
 *[p. 375]* ^pg392
@@ -324,7 +361,9 @@ filling the tabernacle ([[Torah 23 - Pekudei#^40-34|Exod 40:34–35]]) and later
 wealth, reputation, and honor.[^57] The basic sense of “body” or some weighty constituent part of it is indicated by occurrences in parallel to several references to human corporeality, as in pre-exilic texts like [[Isaiah 17#^17-4|Isaiah 17:4]] and [[Psalms 016#^16-9|Psalm 16:9]]:[^58] 
 
 [^56]: Accordance Bible Software finds exactly 200 occurrences of כבוד (despite occurrences in [[Torah 07 - Vayetzei#^31-1|Genesis 31:1]]; [[Torah 11 - Vayigash#^45-13|45:13]]; [[Torah 12 - Vayechi#^49-6|49:6]], the term is nowhere within Genesis used in reference to the deity’s body or “glory”). For a recent monograph on the concept of the כבוד , see Pieter de Vries, *The* Kābôd *of YHWH in the Old Testament: With Particular Reference to the Book of Ezekiel* (Leiden: Brill, 2016). For a cognitive-linguistic interrogation of the concept, see Marilyn E. Burton, *The Semantics of Glory: A Cognitive, Corpus-based Approach to Hebrew Word Meaning* (Leiden: Brill, 2017).
+
 [^57]: Cf de Vries, *The* Kābôd *of YHWH in the Old Testament*, 51: “Both כְּבוֹד and יְקָר are expressed in splendor, greatness, might, brightness, etc. Texts that establish a relationship between the כְּבוֹד and the physical stature of a person are congruent with the meaning ‘be weighty’ of the root כבד . כְּבוֹד can also be connected with ornaments or clothing. Where that is so, there is a relationship both with someone’s riches and with his external appearance.”
+
 [^58]: These two examples are drawn from Sommer, *The Bodies of God*, 60. Sommer additionally refers to [[Torah 12 - Vayechi#^49-6|Genesis 49:6]]; [[Psalms 007#^7-6|Psalm 7:6]]; [[Isaiah 10#^10-3|Isaiah 10:3–4]]; [[Isaiah 10#^10-16|10:16]]; [[Isaiah 22#^22-18|22:18]].
 
 *[p. 377]* ^pg394
@@ -388,8 +427,11 @@ By the time of the Neo-Babylonian and Achaemenid periods, כבוד seems to have
 a euphemistic function, and was commonly used to refer to the radiance of the divine form and/or presence. In this way, it both represented as well as obscured that presence, and particularly as the concept of the existential threat of seeing the deity became salient within the rhetoric of the biblical authors.[^61] The dread and terror of seeing deity, as well as the brilliance of divine bodies, is found in other Semitic literature that predates that of the Hebrew Bible (as discussed in Chapters 4 and 5). *Pulḫu* and *melammu* were the main terms used to refer to the awesome and terrifying radiance that attended divine beings. [^62] However, the terror in the cognate literature seems more closely related to fear of what the deity could do rather than fear of the implications of looking upon deity.[^63] The threat posed by divine brilliance was likely an elaboration that developed among the societies responsible for the biblical texts in concert with a need to mitigate the perception of access to the deity—a need most salient in light of the absence of the Jerusalem temple. These elaborations of earlier traditions are found in the Priestly literature and in Ezekiel, where this concept of the danger of seeing the deity appears 
 
 [^60]: De Vries, *The* Kābôd *of YHWH in the Old Testament*, 56–57.
+
 [^61]: This is David Aaron’s conclusion (Aaron, *Biblical Ambiguities*, 52–54), and Sommer echoes it (Sommer, *The Bodies of God*, 60–61).
+
 [^62]: See above, page 263.
+
 [^63]: Although see [[Torah 21 - Ki Tisa#^34-29|Exodus 34:29–35]] (Smith, *The Origins of Biblical Monotheism*, 93–95).
 
 *[p. 379]* ^pg396
@@ -419,9 +461,13 @@ anthropomorphic concept—to describe the action of the כבוד upon the summit
 [[Torah 18 - Mishpatim#^24-16|Exodus 24:16]].[^68] 
 
 [^64]: On P’s priority in relation to Ezekiel, see Avi Hurvitz, *A Linguistic Study of the Relationship between the Priestly Source and the Book of Ezekiel* (Paris: J. Gabalda, 1982); Galen Marquis, *Allusive Rhetoric in the Prophecies of Ezekiel, in Proceedings of the Eleventh World Congress of Jewish Studies, Volume A*, ed. D. Assaf (Jerusalem: World Union of Jewish Studies, 1994), 131–36; Risa Levitt Kohn, *A New Heart and a New Soul:* *Ezekiel, the Exile and the Torah* (Sheffield: Sheffield Academic Press, 2002), 30–85. Against these, see Menahem Haran, “Ezekiel, P, and the Priestly School,” *VT* 58 (2008): 211–18.
+
 [^65]: Sommer states, “The first points toward the bright nature of the *kabod*, and the cloud hints at its intense luminosity, because the cloud is needed to cloak the deadly brightness” (Sommer, *The Bodies of God*, 222, n. 57).
+
 [^66]: See de Vries, *The* Kābôd *of YHWH in the Old Testament*, 120–24.
+
 [^67]: Note [[Torah 19 - Terumah#^25-22|Exodus 25:22]]: ונועדתי לך שם , “And I will meet with you there.”
+
 [^68]: Elsewhere, however, the cloud departs by ascending (√ עלה ; [[Torah 23 - Pekudei#^40-35|Exod 40:35–36]]). This may suggest the dogmatic avoidance of the term ירד more than any systematic restructuring of the entire conceptualization of the function of the cloud and the divine presence. See de Vries, *The* Kābôd *of YHWH in the Old Testament*, 124 and note 18. In [[Torah 20 - Tetzaveh#^29-43|Exodus 29:43–45]], YHWH connects their own dwelling with that of the כבוד . In verse 43, YHWH puts the כבוד parallel to itself, stating in reference to the tabernacle, ונעדתי שמה לבני ישראל ונקדש בכבדי , “I will meet with the children of Israel there, and it will be sanctified by my כבוד .” In verse 45, YHWH further states, ושכנתי בתוך בני ישראל , “I will dwell among the children of Israel.”
 
 *[p. 380]* ^pg397
@@ -447,7 +493,9 @@ writers do not presume to describe Yhwh’s activity on his own time in his home
 nature, presence and activity in the larger cosmos.” [^71] The כבוד thus added an additional 
 
 [^69]: See de Vries, *The* Kābôd *of YHWH in the Old Testament*, 122–23. See also Meredith G. Kline, *Images of the Spirit* (Grand Rapids, MI: Baker Book House, 1980), 40: “In imitation of the multiple strata of the cloud formation that enveloped the Glory-fire at Sinai (the darkness, clouds, and heavy clouds), the tabernacle had several layers of coverings.”
+
 [^70]: On this, see Susan Ackerman, “The Deception of Isaac, Jacob’s Dream at Bethel, and Incubation on Animal Skin,” in *Priesthood and Cult in Ancient Israel*, ed. Gary A. Anderson and Saul M. Olyan (Sheffield: Sheffield Academic Press, 1991), 92–120.
+
 [^71]: Hundley, “Divine Fluidity?,” 32. Thomas Wagner states, “Aus der Pentateuchtradition stammat die Vorstellung von der Umhüllung JHWHs von der Wolke, die auf den *kābôd* übertragen wird” (Thomas Wagner, *Gottes Herrlichkeit: Bedeutung und Verwendung des Begriffs* kābôd *im Alten Testament* \[Brill: Leiden, 2012\], 117).
 
 *[p. 381]* ^pg398
@@ -471,7 +519,9 @@ while at the same time mitigating direct access and reproducibility.[^73] In the
 is intentionally and conspicuously visible to the Israelites,[^74] occurring with the verb ראה more 
 
 [^72]: Sommer concludes: “For P, God has only one body, and it is located either in heaven or on earth, but not in both places” (Sommer, *The Bodies of God*, 76). Hundley notes, “In the Priestly texts, Yhwh limits his point of contact with humanity to a single place and to an indescribable form, which may not be reproduced, and gives a single protocol for interaction, thereby eliminating all other places, modes of contact and means of representation” (Hundley, “Divine Fluidity?,” 37).
+
 [^73]: See Hundley, “Divine Fluidity?,” 36–40.
+
 [^74]: Thomas Wagner notes that the visibility of the כבוד is reserved for Israel alone (Wagner, *Gottes Herrlichkeit*,
 
 *[p. 382]* ^pg399
@@ -547,9 +597,13 @@ compartmentalization appears to be the key. For instance, the כבוד was not t
 1:27), P also recasts humanity as an alternative.[^82] Similarly, Moses is rendered a deity ([[Torah 14 - Vaera#^7-1|Exod 7:1]]), even radiating divinity after his mountain-top encounter with YHWH ([[Torah 21 - Ki Tisa#^34-29|Exod 34:29–35]]).[^83] Even the tablets of the law, inscribed by the very hand of deity itself, were offered as an alternative to the golden calf, naively presented by Aaron (according to the text) as the deities 
 
 [^79]: Hundley has concerns of his own, arguing that Sommer’s model would entrap YHWH in the tabernacle, “thereby circumscribing his potentiality and potency” (Hundley, “Divine Fluidity?,” 30).
+
 [^80]: Sommer, *The Bodies of God*, 38.
+
 [^81]: Hundley agrees that this is not a rejection of the fluidity model, but rather than address agency apart from a locus of identity, he concludes, “in P the deity centralizes the point of contact between heaven and earth, limiting access to a single place so as to avoid divine fragmentation, divine overlap and competing means of and protocols for access” (Hundley, “Divine Fluidity?,” 40).
+
 [^82]: See Herring, *Divine Substitution*, 209–18; cf. McDowell, *The Image of God in the Garden of Eden*, 207.
+
 [^83]: As Herring notes, “[[Torah 21 - Ki Tisa#^32-1|Exodus 32]]–34 was consciously included in the Priestly redaction of the book of Exodus and can, therefore, be read from a Priestly perspective” (Herring, *Divine Substitution*, 127). Herring develops this argument further on pages 128–37.
 
 *[p. 385]* ^pg402

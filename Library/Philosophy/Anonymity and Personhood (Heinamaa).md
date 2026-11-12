@@ -41,8 +41,11 @@ Many contemporary commentators see Merleau-Ponty’s discourse on anonymity as a
 I will question this view and argue that Merleau-Ponty’s relation to classical phenomenology is not as simple as such readings suggest. By studying crucial sections from *Phenomenology of Perception*, I show that by anonymous perception Merleau-Ponty means neither self-less experience, nor any experience with a general or collective subject fusing together personal selves. Rather than theorizing about a special type or level of egoless experience Merleau-Ponty struggles to find philosophical expression for certain hidden ingredients of concrete sense-perception, ingredients that are implied by the necessary bodily character of the perceiving self. These ingredients include sedimented accomplishments of earlier acts, some of which are not our own acts but acts of others unknown to us and preceding us in time. Thus understood, perception is “prepersonal,” not in the sense of being an egoless stream or a collective accomplishment of several simultaneous subjects but in the sense of having a history and a “prehistory,” as Merleau-Ponty states.[^6] The aim of this article is to clarify what this means. 
 
 [^3]: Lawlor (2003; 2006); Al-Saji (2008).
+
 [^4]: Both accept Derrida’s critique of Husserlian phenomenology. For this critique, see Derrida (1976; 1973). For critical responses to Derrida’s reading, see Mohanty (1997, p.62-76); Hopkins (2011, pp. 246-263).
+
 [^5]: Some of these formulations conflate Bergsonian concepts with Deleuzian ones.
+
 [^6]: Husserl uses the concept of anonymity in two different contexts. On the one hand, he characterizes the absolute constituting (operating) self as “anonymous” (*nahmenlose*) and says that, exactly speaking, it should not be called “self” or anything at all, since naming compromises the fully active character of the ego. On the other hand, Husserl also argues that an infinity of anonymous others, “an open intersubjectivity,” is implicated in the very givenness of the perceptual thing. In addition to these Husserlian contexts of use, a third one is established by Eugen Fink in his *Sixth Cartesian Meditation*: the constituting self and its acts are constituted in inner time-consciousness and this constituting ground is called “anonymous” in the sense that it is pre-egoic. The Husserlian and the Finkian usages of the term “anonymous” must not identified with the Heideggerian idea of *das Man* as an inauthentic “neuter” mode of human life, introduced in paragraph §27 of *Being and Time*. Husserl’s constituting ego is independent of the determiner “human being” and his idea of open intersubjectivity includes all possible perceivers, not just humans, but the Heideggerian *das Man* refers to the generality of an unspecified human community.
 
 *[p. 3]* ^pg3
@@ -68,7 +71,9 @@ We are not here proposing any empirical genesis of thought: we are asking precis
 In the light of such textual evidence, it seems clear that Merleau-Ponty neither denies that perception includes self-awareness nor rejects the cogito, *I see* or *I hear*, as a simple falsification or distortion of perceptual experience. On the other hand, it seems equally clear that Merleau-Ponty’s discussion on the anonymity of sense-perception includes more than just the minimal claim that the perceiving self remains unthematized in the perception of things but can be discovered by reflection. He argues, for example, that “through reflection,” 
 
 [^8]: Merleau-Ponty (\[1945\] 1993, p. 411; 1995, p. 358, translation modified, emphasis added).
+
 [^9]: Merleau-Ponty (\[1945\] 1993, p. 514; 1995, p. 451).
+
 [^10]: Merleau-Ponty (1964, p. 191; 1975, p. 145).
 
 *[p. 5]* ^pg5
@@ -82,8 +87,11 @@ This paragraph, and other similar paragraphs, suggest that Merleau-Ponty’s phe
 From this viewpoint, the other dominant reading that we find in commentaries is not surprising: Merleau-Ponty’s concept of anonymity is claimed to denote a plurality of selves or a system of selves. The perceiving subject that is found in reflection would not be a solitary agent nor a selfless stream, but a self that already belongs to a community of other equal selves.[^14] The subject of primordial or primary perception would not be anyone of these singulars but would be their compound or collective. Thus, perceptual experience would be rendered exact not by the singular phrases “I perceive,” “You perceive,” or “Someone perceives” but by the plural “We perceive” or “They perceive.” 
 
 [^11]: Merleau-Ponty (\[1945\] 1993, p. 405; 1995, p. 352, emphasis added; cf. \[1960\] 1998, p.221; \[1964\] 1987, pp. 175).
+
 [^12]: Zahavi (2002, pp. 75-89).
+
 [^13]: Merleau-Ponty (\[1945\] 1993, p. 404; 1995, pp. 351-352, emphasis added).
+
 [^14]: See, e.g., O’Neill (1986, pp. 204-206); Soffer (1998, pp. 152); Stawarska (2004, pp. 295ff.).
 
 *[p. 6]* ^pg6
@@ -99,6 +107,7 @@ It is crucial to notice that the anonymous subject that Merleau-Ponty’s reflec
 Merleau-Ponty also characterizes the anonymous repeatedly by the French pronoun “on” which is translated into English as “someone.” The most well-know of these sections is in the chapter on “Sense experience,” where he states: “\[I\]f I wanted to render precisely the perceptual experience, I ought to say that *one perceives in me* \[*on perçoit en moi*\], and not 
 
 [^15]: Merleau-Ponty (\[1945\] 1993 pp. 408-409; 1995, pp. 355-356, translation modified). In a long footnote in the chapter on “Space,” Merleau-Ponty writes: “If consciousness is multiplicity, who is to gather together this multiplicity in order to experience it as such, and if consciousness is fusion, how shall it come to know the multiplicity of the moments which it fuses together? (…) What for us is primordial consciousness is not a transcendental I \[*Je*\] freely positing before itself a multiplicity of in-itself, and constituting it completely, it is *an I \[*Je*\] which dominates diversity only with the help of time*, and for whom freedom itself is destiny, such that I am never conscious of being the absolute creator of time, of composing the movement through which I life” (\[1945\] 1993, p. 319; 1995, p. 276, translation modified, emphasis added).
+
 [^16]: Sylvia Stoller emphasizes the mereological fact that the personal and the anonymous form a pair in Merleau-Ponty’s discourse (2000, pp. 175-176).
 
 *[p. 7]* ^pg7
@@ -112,8 +121,11 @@ Thus, there is no multiplicity or generality of subjects but a couple or a pair,
 Who or what then is this someone “in me” or “with me,” who contributes to my perception or supports it or who helps me to perceive? Even though Merleau-Ponty wavers somewhat on this issue, formulates his view in different ways in different context, he is perfectly explicit and clear in certain sections. The someone who perceives with me is my own living, sensing-moving body. Consider the following two paragraphs: 
 
 [^17]: Merleau-Ponty (\[1945\] 1993, p. 249; 1995, p. 215, emphasis added).
+
 [^18]: Compare to Wittgenstein’s analysis of the difference between the first person pronoun “I” and the third person pronouns “he,” “she” and “they” (for this, see, Heinämaa 2011, pp. 234-249). I will not take a stand on the question if the “on” in Merleau-Ponty’s discourse bears normative implications, comparable to but not identical with the implications of Heidegger’s “das Man” (cf. Crowell). This normative reading was suggested to me by Till Grohman, and I find promising, but it is beyond the limits of this paper.
+
 [^19]: Merleau-Ponty (\[1945\] 1993, p. 241; 1995, p. 208).
+
 [^20]: Cf. Husserl (1952, pp. 213-214, 269; 1993, pp. 224–226, 281–282).
 
 *[p. 8]* ^pg8
@@ -127,8 +139,11 @@ In these paragraphs, Merleau-Ponty makes clear that the one who perceives “in 
 By sensation I grasp, at the margins \[*en marge*\][^24] of my own personal life and my own acts, a life of a given consciousness from which these latter emerge, *the life of my eyes,* *my hands, my ears, which are so many natural selves*. Each time I experience a 
 
 [^21]: Merleau-Ponty uses a variety of preposition to characterize the relation between the anonymous and the personal: he resorts to the French terms “en,” “avec,” and “au-desson.” On the one hand, these spatial metaphors suggest distinction and separation but on the other hand they also suggest dependency and conditionality.
+
 [^22]: Merleau-Ponty (\[1945\] 1993, pp. 293-294, cf. pp. 239, 260, 376-377; 1995, p. 254; cf. pp. 206, 225, 326; \[1960\] 1998, p. 211; \[1964\] 1987, p. 167).
+
 [^23]: Merleau-Ponty (\[1945\] 1993, p. 277; 1995, p. 240, translation modified).
+
 [^24]: The French phrase “en marge” is translated into English as “on the fringe,” but this is terminologically (but not conceptually) misleading, since the term “fringe” has a technical usage in Husserlian phenomenology. In *The Crisis*, Husserl explains that his concept of horizon is a transcendental-phenomenological reinterpretation of William James’ concept of fringe: “W. James was alone, as far as I know, in becoming aware of the phenomenon of horizon – under the title of ‘fringes’ – but how could he inquiry into it without the phenomenologically acquired understanding of intentional objectivity and of implication” (Husserl 1954, p. 267; 1988, p. 264; cf. James \[1892\] 2001, pp. 85ff.).
 
 *[p. 9]* ^pg9
@@ -142,8 +157,11 @@ As these sections specify, it is not just my body as a sensing and moving agent 
 This should not be taken to mean that my organs would operate as independent or separable perceivers, as if they would form a community of autonomous subjects merely invited to co-operate or work together occasionally – either by my body or by my ego. Rather my sense organs form a dynamic and integrated system in which my ego traverses and takes place, and the ego, by identifying with the different sensory-motor regions and organs of the 
 
 [^25]: Merleau-Ponty (\[1945\] 1993, p. 250; 1995, pp. 215-216, translation modified and emphasis added; cf. 1964, pp. 21-27, 60, 186-187; 1975, pp. 7-11, 37, 142).
+
 [^26]: Merleau-Ponty (\[1945\] 1993, p. 399; 1995*,* p. 347, emphasis added).
+
 [^27]: In my understanding, Merleau-Ponty argues that the mere concepts of function – Aristotelian, early modern, or contemporary – are inadequate and also potentially misleading for the analysis of perception. He characterizes human eyes, hands, head, and genitals as rudimentary agent because experientially these organs are independent from our personal goals and projects and because they are not given to us merely as tools or instruments but also as sensory-motor systems (Merleau-Ponty \[1945\] 1993, p. 92, 107, 166-167, 246-247; 1995, p. 77-78, 91, 142-143, 212-213). The movements of our eyes, for example, are not subject to our interests even if they support our interests and serve the realization of our goals at large. The example of the experience of grief in *Phenomenology of Perception* illuminates this divergence of personal and anonymous teleologies: “While I am overcome by some grief and wholly given over to my distress, my eyes already stray in front of me, and are drawn, despite everything, to some shining object” (Merleau-Ponty \[1945\] 1993, p. 100; 1995, p. 84).
+
 [^28]: Merleau-Ponty (\[1945\] 1993, p. 101; 1995, p. 85). In *Remembrance of the Things Past*, Marcel Proust describes the bodily nature of perceptual memory and its constitution of the manifold memories of the different body parts in an illuminative way: “*My body*, still too heavy with sleep to move, would make an effort to construe the form which its tiredness took as an orientation of its various members, so as to induce from that where the wall lay and the furniture stood, to piece together and to give a name to the house in which it must be living. *Its memory, the composite memory of its ribs, knees, and shoulder-blades* offered it a whole series of rooms in which it had at one time or another slept; while the unseen walls kept changing, adapting themselves to the shape of each successive room that it remembered, whirling madly through the darkness. And even before my brain, lingering in consideration of when things had happened and of what they had looked like, had collected sufficient impressions to enable it to identify the room, *it, my body*, *would recall* from each room in succession what the bed was like, where the doors were, how daylight came in at the windows, whether there was a passage outside, what I had had in my mind when I went to sleep, and had found there when I awoke” (Proust \[1871\] 1988, p. 52-53; 1981, pp. 10, emphasis added).
 
 *[p. 10]* ^pg10
@@ -157,8 +175,11 @@ Thematically my perception is directed at the external thing, but at the same ti
 Moreover, Merleau-Ponty argues that my sensations – these “most rudimentary perceptions” or “little subjectivities,” as he calls them[^32] – are given to me in a special way: 
 
 [^29]: Merleau-Ponty (\[1945\] 1993, p. 250; 1995, p. 216).
+
 [^30]: Merleau-Ponty (\[1945\] 1993, pp. 502-503; 1995, pp. 440-441).
+
 [^31]: In the description of such specific forms of bodily experience, Merleau-Ponty is indebted to Sartre who depicts such processes in illuminative ways in *Being and Nothingness*: “My eyes are hurting but I should finish reading a philosophical work this evening. I am reading. The object of my consciousness is the book and across the book the truths which it points out. The body is in no way grasped for itself \[*le corps n’est nullement saisi pour lui-même*\] (…) Yet at the very moment that I am reading *my eyes hurt* (…) It is with more difficulty that the words are detached from the undifferentiated ground which they constitute; they may tremble, quiver, their meaning may be derived only with effort, the sentences which I have just read twice, three times may be given as ‘not understood’, as ‘to be re-read’” (Sartre \[1943\] 1998), pp. 371-379; 1956, pp. 436-437). Sartre points out that in the activity of reading “my body is given only *implicitly*,” and then continues: “the movements of my eyes belongs only to an observer’s glance” ((\[1943\] 1998, p. 371; 1956, p. 436). This, however, is changed when pain distracts my reading: the implicit body and its movements now come to the fore, and what was only given to the observer is now given to me and lived by me.
+
 [^32]: Merleau-Ponty (\[1945\] 1993, p. 279; 1995, p. 241; 1964, p. 186-187; 1975, p. 142).
 
 *[p. 11]* ^pg11
@@ -178,7 +199,9 @@ Thus understood, perception is passive, and the perceived thing active, in a spe
 How is this to be understood? Merleau-Ponty answers by describing the perceived thing as a sediment of prior sensory and perceptual activity. He claims that the thing is a track, a furrow, a relic or a trace of sensations and perceptions that have been performed prior 
 
 [^33]: Merleau-Ponty (\[1945\] 1993, p.250, cf. p. 503; 1995, p. 216, cf. p. 440).
+
 [^34]: Merleau-Ponty (\[1945\] 1993, p. 367; 1995, p. 318).
+
 [^35]: Merleau-Ponty (\[1960\] 1998, p. 112, 366; \[1964\] 1987, p. 89, 317).
 
 *[p. 12]* ^pg12
@@ -194,6 +217,7 @@ The idea of the perceived thing as a trace is twofold. First, it suggests that w
 36\. Merleau-Ponty (\[1945\] 1993, pp. 253ff.; 1995, pp. 219ff; cf. 1964, pp. 61ff.; 1975, pp. 38ff.).
 
 [^37]: Merleau-Ponty (\[1945\] 1993, p. 399; 1995, p. 347). Merleau-Ponty also describes the prepersonal aspect of experience by the psychoanalytical concepts of trauma, complex and repression (e.g. Merleau-Ponty \[1945\] 1993, p. 92-93, 98-99, 189; 1995, p. 77-78, 82-84, 162). This inflicts the task of explaining how a Husserlian approach – or any approach operating with the concepts of consciousness and intentionality – could possibly deal with the phenomena of unconsciousness. The task cannot be undertaken within the limits of this paper, but I want to mention three factors that are crucial for any adequate discussion of the matter. First, in *The Crisis* and related works, Husserl sketches an argument to the effect that psychoanalysis can and must be reconceptualized on the basis of his new approach to consciousness (e.g. Husserl 1954, pp. 191-192, 240-241, 473–474; 1988, pp. 188, 237-238, 386-387). Second, in *Phenomenology*, Merleau-Ponty does not reject this suggestion but, on the contrary, uses the phenomenological concepts of abstraction, formation, and memory to articulate the phenomena of repression. He writes, for example, as follows: “All repression is, then, the transition from first person existence to a sort of abstraction of that existence, which lives on a former experience, or rather on the memory of having had the memory, and so on, until finally only the essential form remains” ((\[1945\] 1993, p. 98; 1995, p. 83). Finally, inquiries into Husserl’s manuscripts have contributed to the development of a Husserlian discourse of drive-intentionality. For this, see, e.g., Lee (1993); Hart (1998, pp. 101-123); Depraz (2001); Bernet (2006, pp. 38-53); Biceaga (2010); Smith (2010).
+
 [^38]: Merleau-Ponty (\[1945\] 1993, p. 404; 1995, p. 351-352, emphasis added).
 
 *[p. 13]* ^pg13
@@ -209,6 +233,7 @@ Merleau-Ponty argues that if we follow Husserl and understand our bodies as livi
 The intentionality that ties together the moments of my exploration, the aspects of the thing, and the two series to each other is neither the spiritual subject’s connecting activity nor the pure connections of the ob-ject. It is the transition that as carnal subject I effect from one phase of movement to another, a transition which as a matter of 
 
 [^39]: Merleau-Ponty (\[1945\] 1993, pp. 293, 277; 1995, pp. 240, 254).
+
 [^40]: In *The Visible and the invisible*, Merleau-Ponty writes: “The body unites us directly with the things through its own ontogenesis, by soldering together the two outlines of which it is made, its two lips: the sensing mass that it is and the mass of the sensible wherein it is born by segregation and upon which, as seen, it remains open” (1964, p. 179; 1975, p. 136).
 
 *[p. 14]* ^pg14
@@ -224,7 +249,9 @@ This does not imply any fusion.[^44] Rather the idea is that three factors belon
 41\. Merleau-Ponty (\[1960\] 1998; p. 210; \[1964\] 1987, p. 166).
 
 [^42]: Merleau-Ponty (\[1960\] 1998, p. 211, 221; \[1964\] 1987, p. 167, 175; cf. \[1945\] 1993, pp. 250, 277; 1995, pp. 216, 240; 1964, pp. 183-188; 1975, pp. 139-142; cf. also 1962, pp. 402, 405-406; 1989b, pp. 3, 7-8).
+
 [^43]: Merleau-Ponty, (\[1945\] 1993, p. 275; 1995, p. 238).
+
 [^44]: In *The Visible*, Merleau-Ponty explicitly rejects the notion that the historical depths of perception would compromise or annual its personal form: “There is an experience of the visible thing as pre-existing my vision, but this experience is not a fusion, a coincidence (…) When I find again the actual world such as it is, under my hands, under my eyes, up against my body, I find much more than an object: (…) a visibility older than my operations or my acts. But this does not mean that there was a fusion or coincidence of me with it: on the contrary, this occurs because a sort of dehiscence opens my body in two, and because between my body looked at and my body looking, my body touched and my body touching, there is overlapping or encroament, so that we must say that the things pass into us as well as we into the things” (Merleau-Ponty 1964, p. 165; 1975, p. 123).
 
 *[p. 15]* ^pg15
@@ -238,9 +265,13 @@ The self as the absolute subject of experience is “anonymous” in the sense t
 4 Sedimented Perceptions 
 
 [^45]: Merleau-Ponty (\[1945\] 1993, p. 512, cf. p. 419; 1995, p. 448, cf. p. 365).
+
 [^46]: Merleau-Ponty (\[1945\] 1993, p. 514, cf. pp. 409-412, 496, 505; 1995, p. 451, cf. pp. 356-359, 442, 434; see also \[1960\] 1998, p. 219-220; \[1964\] 1987, p. 174); cf. Husserl (1952, pp. 81, 297-300; 1993, pp. 86, 311-313). This rephrases Husserl’s idea of the absolute constituting subject as anonymous: “In this sense it \[the I\] is not a ‘being’, but the counterpart of all that is, not an *object* \[*Gegenstand*\] but the *proto-stand* \[*Urstand*\] for all objectivity. The I ought not to be called the I, it ought not to be called anything at all, since it would then already have become an object. It is the nameless \[*Nahmenlose*\] above everything graspable, not standing above everything, not floating, not existing, but rather ‘functioning’ or ‘operating’, as apprehending, valuing.” (Husserl 2001, pp. 277-278).
+
 [^47]: Merleau-Ponty (\[1945\] 1993, p. 411; 1995, p. 358; cf. 1964, p. 101-102; 1975, pp. 72-73).
+
 [^48]: Merleau-Ponty (\[1945\] 1993, p. 275; 1995, p. 238; cf. 1964, p. 86; 1975, p. 59). This idea stems from Husserl’s discourse on the otherness or “open intersubjectivity” implicated in the perceptual thing. For Husserl’s use of the concept of anonymity, see Husserl (1954, pp. 272–285; 1968, p. 478; 1973b, pp. 28–29; 1973c, pp. 192, 497; 1988, p. 468; 2001, pp. 277–278; cf. Mohanty 2005, pp. 13–15; Zahavi 2002, pp. 79-80; 2003, pp. 90–93, 115–120).
+
 [^49]: Merleau-Ponty (\[1945\] 1993, p. 514; 1995, p. 451).
 
 *[p. 16]* ^pg16
@@ -252,8 +283,11 @@ These accounts belong to the genetic phase of Husserlian phenomenology which doe
 Moreover Husserl argues with the concept of sedimentation, that the accomplishment of an act, the objectivity, remains and stays even when the act is passed and habituated. New 
 
 [^50]: Merleau-Ponty (\[1960\] 1998, p. 218; \[1964\] 1987, p. 173; cf. \[1945\] 1993, p. 453; 1995, p. 395; 1962, p. 403; 1989b, p. 5).
+
 [^51]: Merleau-Ponty read Husserl’s works in original German editions and in French translations, but he also his studied Husserl’s unpublished manuscripts in the Husserl archives in Louvain in 1939. These included the manuscripts of *Experience and Judgment*, the second volume of *Ideas* and the third part of *Crisis*. For this connection, see Toadvine (2003, p. 234).
+
 [^52]: For Husserl’s use of these concepts, see, e.g., Husserl (1954*,* pp. 272-285; 1988*,* pp. 361-377; \[1939\] 1999, pp. 334-339; 1973a, pp. 278-284); cf. Merleau-Ponty (1998). For Merleau-Ponty’s use of these genetic concepts, see, Meacham (2008). In *Experience and Judgment*, Husserl’s main interest is in the temporal relation between predicative categorical acts and pre-predicative sensory perception. He develops a phenomenological account of the experiential origin of predication and judgments more generally, aiming to provide a phenomenological genealogy of logical forms. In *The Crisis*, Husserl uses the concepts of sedimentation to explain the development and unity of science. The development of the scientific mode of thinking is exemplified by the disciplines of geometry and theoretical physics, but the concepts are developed to account for any theoretical practice and ultimately also for phenomenology itself.
+
 [^53]: For Husserl’s explication of the main tasks of genetic phenomenology, see his *Formal and Transcendental Logic* (\[1929\] 1981, pp. 276-279; 1978, pp. 316-319). For an illuminative account of the static and genetic aspects of Husserl’s analyses of the constitution of other selves in empathy, see Lee (2002, p. 105-123).
 
 *[p. 17]* ^pg17
@@ -265,7 +299,9 @@ Merleau-Ponty uses the Husserlian concepts of sedimentation to account for the h
 In the light of the analyses offered by *Phenomenology of Perception*, the sensing-moving body seems to have the following role in perceptual experiences: In ordinary sense perception we are conscious of the perceived thing and its sensory qualities, but perception necessarily also involves an implicit consciousness of the movements of one’s own body and its sense organs.<sup>57</sup> The genetic claim about sedimentation then is that the consciousness of an external thing rests and is sedimented on an “inherited” consciousness of one’s own body as a thing. The relation is genetic, temporal, not static. My present visual experience of an external perceivable thing refers in my consciousness to earlier objectifications of my kinesthetic and proprioceptive experiences, i.e. to the experiences of the movements of my own body – to a whole complicated system of such experiences. So the claim is about the 
 
 [^54]: In *The Crisis*, the concepts of sedimentation are used in three different contexts: First, they describe the theoretical or logical-mathematical process in which new theorems are produced on the basis of already established theorems and axioms (e.g. Husserl 1954, pp. 52, 364-386; 1988, pp. 52, 353-378). Second, they are used in the account of the establishments of cultural objectivities more generally, not just theorems but also practical instruments and constructs (e.g. Husserl 1954, pp. 323; 1988 pp. 277-288). Finally, they are also used in the description of creative activities (e.g. Husserl 1954, pp. 280-281, 512-513; 1988, pp. 303, 394-395). These three cases or examples of sedimentation suggest different models for the tasks of reactivation or reawakening: logical-analytical, archeological and inspirational.
+
 [^55]: Merleau-Ponty (\[1945\] 1993, p. 249; 1995 p. 215, translation modified; cf. 1964, p. 125; 1975, p. 91); cf. Husserl (1954, p. 59; 1988, p. 58).
+
 [^56]: Merleau-Ponty (\[1945\] 1993, p. 275; 1995, p. 238). By the concepts of prehistory and tradition, Merleau-Ponty’s discourse of anonymity points beyond the mere idea of habituation and habitual embodiment.
 
 *[p. 18]* ^pg18
@@ -283,7 +319,9 @@ By this formulation Merleau-Ponty refers us back to the third part of Husserl’
 57\. Merleau-Ponty (\[1945\] 1993, p. 243-249; 1995, p. 209-215).
 
 [^58]: Cf. Husserl (1952, p. 144-151; 1993, pp. 152-158).
+
 [^59]: Merleau-Ponty (\[1945\] 1993, p. 160; 1995, p. 137).
+
 [^60]: Maurice Merleau-Ponty (\[1945\] 1993, p. 417; 1995, p. 363). Compare this to Husserl’s original text: “Thus the actual ego performs an accomplishment through which it constitutes a variational mode of itself as being (in the mode of passed). Starting from this we can trace how the actual ego, which is constantly present in the flow, constitutes itself in self-temporalization as the ego which endures through ‘its’ past. In the same way, the actual ego, already enduring in the enduring primordial sphere, constitutes in itself another as other. Self-temporalization through depresentation \[*Ent-Gegenwärtingung*\] (through recollection), so to speak, has its analogue in my self-alienation \[*Ent-Fremdung*\] (empathy as a depresentation of a higher level – depresentation of my primal presence \[*Urpräsenz*\] into a merely presentified \[*vergägenwärtigte*\] primal presence). Thus in me, ‘another ego’ comes to ontic validity, as co-present, with his own ways of being self-evidently verified, which are obviously quite different from those of a ‘sense’-perception” (Husserl 1954, p.189; 1988, p.185, translation modified).
 
 *[p. 19]* ^pg19
@@ -299,7 +337,9 @@ In my understanding, Merleau-Ponty did not abandon this methodological guideline
 As my living present opens upon a past which I nevertheless am no longer living through, and on a future which I do not yet live (...) *it can also open on to temporalities outside my living experience* and acquire a social horizon, with the 
 
 [^61]: Husserl (1954, p. 188-189; 1988, p. 185-186; 1973b, pp. 588-592; cf. 1950, p. 145; 1960, p. 115-116);
+
 [^62]: Husserl (1954, p. 189; 1988, p. 186).
+
 [^63]: For an argument to this effect, see, Heinämaa (2002, pp. 127-146; cf. 2003).
 
 *[p. 20]* ^pg20
@@ -323,6 +363,7 @@ Bergo, Bettina. 2002. Philosophy as *Perspectiva Artificialis*: Merleau-Ponty’
 Bernet, Rudolf. 2006. Zur Phänomenologie von Trieb und Lust bei Husserl. In *Interdisziplinäre Perspektiven der Phänomenologie: Neue Felder der Kooperation:* 
 
 [^64]: Merleau-Ponty (\[1945\] 1993, p. 495; 1995, p. 433, italics added).
+
 [^65]: For a full account of the idea of generative phenomenology, see, Steinbock (1995).
 
 *[p. 21]* ^pg21

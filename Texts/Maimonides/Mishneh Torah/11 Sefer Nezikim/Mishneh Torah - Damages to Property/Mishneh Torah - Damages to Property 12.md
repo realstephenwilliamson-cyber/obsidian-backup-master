@@ -124,67 +124,131 @@ chapter: 12
 **22.** When a person was digging a cistern in the public domain, and an ox fell upon him and killed him, the owner of the ox is not liable.[^64] If the ox dies, the owner of the ox may collect the value of his ox from the heirs of the owner of the cistern.[^65] ^12-22
 
 [^1]: The Rambam has completed his discussion of the first two general categories of damages: grazing and goring. He now goes on to the third category. The damages caused by a cistern.Payment of these damages is also considered one of the Torah's 613 mitzvot (Sefer HaMitzvot, Positive Commandment 238, and Sefer HaChinuch, Mitzvah 53). This mitzvah can be defined as compensating a person for the death or damage to animals he owns that came as a result of an object owned by another person, which serves as a stumbling block.
+
 [^2]: The Rambam's wording is taken from [[Torah 18 - Mishpatim#^21-33|Exodus 21:33]].
+
 [^3]: In which case the death of the animal was not caused by its fall, but by the foul air of the cistern. Even so, the owner of the cistern is held liable.
+
 [^4]: Although the cistern does not actually belong to him - for it is in the public domain - since he dug it without permission, the Torah holds him liable for the damages as if it were his own.
+
 [^5]: Since the opening of the cistern is accessible to others, its owner should have taken precautions and made certain that it was covered.The Tur (Choshen Mishpat 410) maintains that this applies only until the owner of the adjoining courtyard is made aware of the cistern's presence. Once the owner of the courtyard knows about the presence of the cistern, he is liable.
+
 [^6]: Since he declared the property ownerless, the cistern is accessible to others and therefore should be covered.
+
 [^7]: This applies even when the cistern was dug by an animal belonging to someone else. As long as a cistern accessible to the public exists within a person's domain, he is liable to cover it. Moreover, the Tur and the Ramah (Choshen Mishpat 410:4) add that even if the cistern is dug by another human being, the owner of the cistern is liable for any damages caused as soon as he discovers it.
+
 [^8]: From this, Ki'nat Eliyahu draws the conclusion that the owner is not required to check the cover continually to see that it is strong enough to serve its purpose.
+
 [^9]: The Tur and the Ramah (Choshen Mishpat 410:23) state that if, however, a camel falls into the cistern, the owner is liable. This is not considered a factor beyond his control.
+
 [^10]: For he should have protected against such a possibility.
+
 [^11]: The Ra'avad objects to the Rambam's ruling, explaining as follows: As mentioned in Chapter 2, Halachah 15, even though ultimately damage was caused because of forces beyond one's control, if one has been negligent at the outset, one is liable. Therefore, in this instance, although the decay of the cover is considered to be beyond the owner's control, since he had been negligent in not covering the cistern with a cover strong enough to support camels, he should be held liable.The Maggid Mishneh justifies the Rambam's ruling, explaining that the above principle applies when the negligence can, at least to a certain extent, be considered a cause of the loss suffered by forces beyond one's control. In this instance, however, the fact that the cover was not sufficient to support camels can in no way be considered a cause of the decay of the cover.The Maggid Mishneh's resolution is accepted by the Shulchan Aruch (Choshen Mishpat 410:24). Note the Tur and the Ramah, who develop the latter principle further.
+
 [^12]: I.e., the one who dug the cistern in the public domain, who is held responsible for its damages.
+
 [^13]: For he has merely returned the situation to its original state.Note the comments of the Maggid Mishneh, who - in response to the objections of the Ra'avad - explains that this law applies even when the owner saw the other person covering the cistern. The owner should know not to rely on a person who is not the cistern's owner (Sefer Me'irat Einayim 410:3).
+
 [^14]: It is as if the second person had dug the cistern himself (ibid.:4).
+
 [^15]: It appears that the Rambam's intent is that only the first partner is liable. Rabbenu Asher and his conception is quoted by the Tur and the Ramah (Choshen Mishpat 410:25) explains that since both partners saw the cistern uncovered, they are both liable. The Talmud's intent by saying the first is liable, is that he must share in the liability. He cannot excuse himself by saying: Since the other partner saw it after me, he must bear the entire responsibility.
+
 [^16]: Note the Lechem Mishneh who, based on Halachah 9, explains that the buckets were used as the covering for the cistern. See the commentaries of Rashi and Rabbenu Chanan'el on [[Bava Kamma 51#51b|Bava Kama 51b]].
+
 [^17]: The Tur and the Ramah (Choshen Mishpat 410:26) explain that the second partner is also given time to hire workers to cover the cistern.
+
 [^18]: The Ra'avad interprets the Rambam's words as meaning until he would ordinarily know, while the Maggid Mishneh explains that the intent is until he actually finds out.
+
 [^19]: The Ra'avad objects to the Rambam's ruling, explaining that if the cistern is covered thoroughly, the owner is not held liable. The Maggid Mishneh upholds the Rambam's ruling, and Sefer Me'irat Einayim 410:45 explains that furthermore, we have reason to believe that the mentally incompetents opened the covering themselves.
+
 [^20]: That were taken without his colleague's permission.
+
 [^21]: For he should have taken into consideration the possibility that the owner of the buckets would take them back. The owner of the buckets is not obligated to notify him.
+
 [^22]: For a cistern is usually at least ten handbreadths deep, while the others may not be that deep.See parallels to this ruling in Hilchot Shechitah 9:8 and Hilchot Rotzeach 3:7.
+
 [^23]: Even if its depth is small, if it presents a difficulty that could cause an animal to stumble and suffer damage, the owner is liable (Maggid Mishneh). See Halachah 15.
+
 [^24]: For under ordinary circumstances, a fall of less than ten handbreadths will not cause an animal to die.
+
 [^25]: The rationale is that the water impairs the quality of the air in the cistern and hastens the animal's death.
+
 [^26]: See Chapter 1, Halachah 11 and notes.
+
 [^27]: Therefore, the money is allowed to remain in the possession of the litigant - either the owner of the pit or the owner of the animal - in whose possession it is at the time the matter is brought to court.
+
 [^28]: Since each of them dug an amount sufficient to cause death, the damages are equally divided among them.
+
 [^29]: He is solely liable both for damages and for death. The rationale is that the original cistern was not deep enough to cause death. Hence, when the second person deepened it, making it deep enough to cause death, he is considered to have brought into being a new entity for which he alone is liable if it causes damages.
+
 [^30]: According to this view, once the second person deepened the cistern, it is considered to be his handiwork entirely, as if the first person no longer had any connection to it. Therefore, the second person has the responsibility of covering the cistern, and paying for any damages that might be caused.
+
 [^31]: Therefore, neither of the people who dug the cistern can be held liable. According to the views that maintain that a person who seizes property when an unresolved doubt exists is allowed to maintain possession, if the person whose property was damaged seizes property from either or both of the persons who dug the cistern, he is entitled to maintain possession (Sefer Me'irat Einayim 410:33).
+
 [^32]: I.e., ten or more handbreadths deep.
+
 [^33]: This addition is made based on the comments of Sefer Me'irat Einayim 410:24. It helps reconcile the difficulties with the Rambam's interpretation mentioned in the notes that follow.
+
 [^34]: By widening the cistern, he enabled more fresh air to circulate.
+
 [^35]: By widening the cistern, he made it more likely that an animal would fall in. Therefore, he is considered to be the owner of the cistern and is held responsible for the damages, even when the animal fell from the other side.
+
 [^36]: This addition is made on the basis of the comments of Sefer Me'irat Einayim 410:25.
+
 [^37]: And the second person improved the quality of the air. Nevertheless, he is held liable, because had he not widened the cistern, it is possible that the ox would not have fallen in.
+
 [^38]: The Rambam's ruling has attracted the attention of the commentaries, because it appears to fuse together two dissenting Talmudic opinions ([[Bava Kamma 51#51b|Bava Kama 51b]]). As the Maggid Mishneh explains, according to the first of the opinions mentioned in that passage, it appears that what is significant is whether the animal died because of the blow it received or because of the foul air in the cistern, while according to the second opinion, what is significant is the side from which the animal fell.The Kessef Mishneh reconciles the Rambam's interpretation, explaining that the Rambam did not see the two interpretations as being contradictory, for if that were the case, each one could be refuted by an obvious question. According to the first opinion: Why would the first person be held liable if the ox died because of the air in the cistern if the ox fell in from the side that the other person widened? Had he not widened it, the ox might not have fallen in.According to the second opinion, the question arises: Since the second person's action makes him liable if an ox falls in, what difference does it make from which side it fell.For these reasons, the Rambam maintains that the two opinions are complementary. See the D'rishah (Choshen Mishpat 410), which offers an alternate resolution of the Rambam's view. Rabbenu Asher, the Tur, and the Ramah (Choshen Mishpat 410:16) differ with the Rambam and follow the second opinion, which maintains that the liability depends on the side from which the ox fell.
+
 [^39]: This ruling is the subject of a difference of opinion among the Sages of the Talmud ([[Bava Kamma 50#50b|Bava Kama 50b]]). The Rambam accepts the opinion of the sage Shmuel.
+
 [^40]: For the animal is considered to have died because of forces beyond the owner's control (Sefer Me'irat Einayim 410:28).
+
 [^41]: I.e., there were substances at the bottom of the cistern that cushioned the animal's fall (Tur, Choshen Mishpat 410).
+
 [^42]: The Rambam's wording is carefully chosen. As opposed to the owner of a cistern, who can be held liable whether the animal dies from the blow it receives or from the foul air, a person who erects a mound can be held liable only when the animal dies because of the blow it receives.
+
 [^43]: See Hilchot Chovel UMazik 1:18.
+
 [^44]: In all three of these instances, the person who dug the cistern or who erected the mound is liable, for the animal is considered to be mentally incompetent and unable to appreciate the danger that the cistern or mound could cause.
+
 [^45]: In these instances, although the animal was mentally competent, since it could not see the cistern or the mound, it was unable to appreciate the danger.
+
 [^46]: This is a decree of Torah law. Commenting on [[Torah 18 - Mishpatim#^21-33|Exodus 21:33]]: If an ox or a donkey fall into it, [[Bava Kamma 28#28b|Bava Kama 28b]], 52a states: An ox' and not a man, a donkey,' and not utensils.
+
 [^47]: For the leniency is not a result of the fact that a person takes care while walking, but a result of the Torah's decree.
+
 [^48]: Although the owner must pay the full extent of the damages, he is not liable for the medical treatment, pain, embarrassment, and loss of employment suffered by the person, as stated in Chapter 14, Halachah 15.
+
 [^49]: With regard to an injury suffered by a human being, Tosafot, [[Bava Kamma 27#27b|Bava Kama 27b]] explains that the Torah freed the owner of a cistern from liability only when a person died because of a fall (as is the case in the verse cited above), and not when he became injured. Even if the injury is suffered during the day, the person is liable, because it is not common for a person to look carefully at the road on which he is walking.With regard to an injury suffered by an animal, the Rambam's ruling is the subject of a difference of opinion among our Rabbis. The Ra'avad maintains that just as the owner of the cistern is not liable for the death of a mentally competent animal that falls during the daytime, he is not liable for its injury.The Maggid Mishneh justifies the Rambam's ruling, explaining that although an animal may act with caution with regard to obstacles that can cause more severe damages, it will not be as sensitive with regard to obstacles that can cause lesser damages. The Shulchan Aruch (Choshen Mishpat 410:20) quotes the Rambam's view, while the Tur and the Ramah follow that of the Ra'avad. Note, however, the ruling of the Shulchan Aruch (Choshen Mishpat 412:3), which appears to follow the approach of the Ra'avad.
+
 [^50]: E.g., an animal that suffered a disqualifying physical blemish after being consecrated. This law applies even in the present age, with regard to a firstborn animal.
+
 [^51]: In Hilchot Chovel UMazik 6:16, the Rambam states that this leniency applies even when the animal is merely injured.
+
 [^52]: And he is permitted to benefit from it.
+
 [^53]: Note the Ra'avad, who states that this leniency applies even when the disqualified animal has already been redeemed by its owner. Although the Rambam's wording does not appear to include such an instance (for then, it is permitted to benefit from the animal), the Maggid Mishneh states that he would accept the Ra'avad's ruling.
+
 [^54]: The Ra'avad questions the Rambam's ruling, because it appears to contradict the understanding of [[Bava Kamma 52#52b|Bava Kama 52b]]-53a. First of all, the Talmud explains that this matter is dependent on a difference of opinion between Rav and Shmuel. In Halachah 15, the Rambam rules according to Shmuel, while here his ruling appears closer to that of Rav. According to the Ra'avad, if the animal fell backwards into the cistern, the owner of the cistern is not held liable, but if the owner seizes property belonging to the other, it is not expropriated from him.The Rambam's interpretation of this passage is obviously problematic. In his Commentary on the Mishnah (Bava Kama 5:6), his interpretation also appears to differ from this halachah. There he writes that if the ox falls backwards into the cistern, the owner of the cistern is liable. If he falls backwards outside the cistern, the owner of the cistern is not liable. This understanding is reflected in the ruling of the Shulchan Aruch (Choshen Mishpat 410:31).
+
 [^55]: For the animal died because of the blow it received from the land in the public domain, and not that of the cistern. The Ra'avad differs with regard to this clause as well and maintains that the property of the cistern's owner may not be seized. The Shulchan Aruch (Choshen Mishpat 410:31) also follows that understanding.
+
 [^56]: In which case, its owner is ordinarily responsible for the full extent of the damages it causes.
+
 [^57]: The ox that pushes the animal and the cistern into which it fell are considered equally responsible for the damage. Had the ox not been pushed, it would not have fallen. Had the cistern not been uncovered in the public domain, the ox would also not have fallen.
+
 [^58]: For the owner of an ox that is tam is required to pay half of the damages (in this case, half of a half), and that payment can be expropriated only from the body of the ox that did the damage. If the ox is not worth that amount, the owner is not obligated to pay any more.
+
 [^59]: I.e., one cannot say that the animal should have avoided the obstacles.
+
 [^60]: For had the cistern not been there, the animal would not have died.
+
 [^61]: As explained in the following chapter, placing any obstacle in the public domain is a derivative of digging a cistern and causes one to be liable for the damages suffered. In this instance, the person who placed the stone and the one who dug the cistern are considered to be partners in this liability, for were it not for the stone, the animal would not have fallen. And were it not for the cistern, the fall would not have resulted in its death.
+
 [^62]: This is another example of a case where two people are considered to be partners in damage that is caused. Each is considered to be liable for the entire amount. Nevertheless, since the person whose property was damaged does not have to receive more than the amount he lost, the loss is divided between the two ([[Bava Kamma 53#53a|Bava Kama 53a]]). In this instance, as in Halachah 19, the owner of the dead animal cannot collect from the owner of the ox that was disqualified as a sacrifice. Hence, he collects the entire amount from the owner of the other ox.
+
 [^63]: See Chapter 8, Halachah 1, from which it is evident that the present halachah refers to an ox that was consecrated, disqualified, but not redeemed as yet.
+
 [^64]: I.e., he does not have to pay an atonement fine, nor is the ox stoned, as reflected by the ruling in Chapter 10, Halachah 9. The person digging the cistern is considered to be negligent, and the fact that the ox fell is his responsibility.
+
 [^65]: See Hilchot Malveh V'Loveh 11:4.

@@ -141,82 +141,154 @@ We accept the word of a woman when she says: "I have a wound in the uterus which
 **22.** How does a woman check herself to see whether she has been healed from this sickness?[^69] She brings a lead tube with its edge doubled over inside of it.[^70] She inserts the tube into her vagina until the place it can reach. She then places a shaft within the tube with a cotton swab placed at its top. She pushes [the shaft] until the swab reaches the opening of the uterus and then takes out the swab. If blood is found on the top of swab, it can be assumed that the blood discovered in the midst of relations comes from the uterus.[^71] If there was no blood on the swab, it can be assumed that the blood discovered [in the midst of relations] comes from pressure on the sides of the vaginal channel.[^72] She is pure and may marry another man, as stated in *Hilchot Ishut*.[^73] ^4-22
 
 [^1]: As will be explained, the term *niddah* refers to a woman who suffers vaginal bleeding at the expected time of her monthly period.
+
 [^2]: Although a woman usually does not begin menstrual bleeding until around the age of twelve. If, however, she does have menstrual bleeding before then, she is bound by the halachic consequences.
+
 [^3]: For if a woman bleeds for three consecutive days after the seven days associated with her menstrual period, she is considered as a *zavah*. The first three days this is possible is the eighth, ninth, and tenth days of her life.  
     Altough she can become impure from the day of her birth onward, punishment is not allotted for relations with her until she becomes three. For only at that age are relations with her significant, as stated in Chapter 1, Halachah 13.
+
 [^4]: See Chapter 6, Halachah 8.
+
 [^5]: Thus establishing an association between the two.
+
 [^6]: See Chapter 10.
+
 [^7]: See Chapter 6, Halachah 8.
+
 [^8]: See Chapter 6, Halachah 8.
+
 [^9]: A ritual bath that meets the qualifications for this purpose. If she immersed herself in an ordinary bath, by contrast, that is not acceptable as explained in *Hilchot Mikveot*.
+
 [^10]: If a *niddah* immerses herself in the middle of these days, however, the immersion is of no consequence.
+
 [^11]: Although relations with gentile women are forbidden, none of these particular transgressions apply according to Scriptural Law. For all the defined states of ritual purity and impurity apply only with regard to the Jewish people. The fact that a gentile woman experiences the same physical conditions is not of consequence.
+
 [^12]: I.e., this was a decree imposed to prevent intimate contact with them, regardless of their physical condition. See *Hilchot Mitam'ei Mishkav UMoshav* 2:10.
+
 [^13]: As the Torah relates ([[Torah 27 - Tazria#^12-2|Leviticus 12:2-4]]), after the birth of a male child a woman becomes impure for seven days. Afterwards, she immerses herself to regain ritual purity. For the next 33 days, even if she suffers uterine bleeding, her state does not change and she remains ritually pure.
+
 [^14]: As *ibid.*:5 states, similar concepts apply after a woman gives birth to a female except that she originally becomes impure for 14 days. Afterwards, she remains pure for 66 days.
+
 [^15]: *Niddah* [[Niddah 36#36a|36a]] relates that there is one source of bleeding - the womb - for all 40 (or 80) days. It is just that during the first 7 (14), the Torah rules that this blood is impure and during the final 33 (66), the Torah rules that the blood is pure.
+
 [^16]: The *Kessef Mishneh* cites Chapter 7, Halachah 7, which states that the above applies only when a woman is not impure because of *zavah* bleeding before childbirth. If she is impure for such reasons, she must count seven "clean" days before she immerses herself and engages in relations with her husband.  
     Also, as will be explained (see Chapter 11, Halachot 5-6), at present the custom is not to observe the concept of blood of purity at all. Even if a woman gives birth, she must wait "seven clean days" after seeing any uterine bleeding.
+
 [^17]: I.e., she suffers uterine bleeding which would otherwise render her ritually impure.
+
 [^18]: At present when we do not make any distinctions between *niddah* and *zivah*, all women immerse themselves at night.
+
 [^19]: She cannot terminate the last day earlier by immersing herself in the daytime.
+
 [^20]: In Halachah 2.
+
 [^21]: A *niddah* or a woman after childbirth.
+
 [^22]: Although such problems are uncommon today, there are several examples - e.g., woman living in new settlements in Israel's West Bank - where these principles are relevant.
+
 [^23]: She should not, however, immerse herself on the seventh day even if she refrains from engaging in relations until nightfall [*Shulchan Aruch* (*Yoreh De'ah* 197:4)].
+
 [^24]: A fixed time when the onset of menstruation can be expected to begin, as will be explained. Since she has a fixed time when menstruation is expected, at other times, we assume that she remains ritually pure. If she does not have a fixed time when menstruation can be expected to begin, her husband must ask her concerning her state. He cannot make any assumptions (*Maggid Mishneh*, *Kessef Mishneh*).
+
 [^25]: By wearing clothes designated to be worn at this time.
+
 [^26]: Without inquiring about her ritual state.
+
 [^27]: Even if there was ample time for her to have become impure due to menstruation, to wait the appointed time, and then to immerse herself, he may assume that she did that. Since she was pure when he left her, we may assume that all of the above transpired [*Shulchan Aruch* (*Yoreh De'ah* 184:11)].
+
 [^28]: Since he knows that she was ritually impure, he cannot assume that she changed her status. Instead, she must explicitly inform him of that change [*Shulchan Aruch* (*Yoreh De'ah* 185:1)].
+
 [^29]: And he must consider her as if she is actually ritually impure.  
     The Rama (*Yoreh De'ah* 185:3) states that if she corrects her statements immediately, her word is accepted.
+
 [^30]: The *Maggid Mishneh* and the *Shulchan Aruch* (*Yoreh De'ah* 185:4) state that if she performed an act that indicated that she was impure, e.g., she wore the clothes that she wears in the *niddah* state, providing a valid explanation is not sufficient to clear the suspicions and she is considered impure.
+
 [^31]: E.g., "I originally made a mistake. I thought I was impure according to law and discovered that in fact I was pure," "I did not have strength to engage in relations and avoided them by giving this excuse" (*Hagahot Maimoniot*).
+
 [^32]: The Ramah (*Yoreh De'ah* 185:5) states that if a person withdraws while erect because he is unfamiliar with the transgression involved, he should fast for 40 days to seek atonement. These fasts need not be consecutive. He should also give generously to charity.
+
 [^33]: I.e., if a person realized his transgression while involved in relations with other *arayot*, he should not withdraw while erect.
+
 [^34]: The Rama (*loc. cit.*) adds that he should be overcome with awe concerning the transgression which he faces.
+
 [^35]: The *Maggid Mishneh* and the *Shulchan Aruch* (*Yoreh De'ah* 184:2) state that it is only necessary to refrain from relations, other expressions of closeness are permitted. Even hugging and kissing are permitted (*Siftei Cohen* 184:6). This, however, represents the mere letter of the law. There are many authorities who are more stringent and forbid these expressions of closeness (*ibid.*, *Turei Zahav* 184:3). In some communities, the custom is to observe all stringencies as if the woman was actually a *niddah*.
+
 [^36]: See ch. 8, which elaborates on this subject, speaking about situation when women have a fixed *veset* or a *veset* that has not been firmly established.
+
 [^37]: The entire concept of *vesetot*, calculating the expected time when a woman will begin menstruating is a Rabbinic injunction. Hence the citation of a Scriptural verse is merely an *asmachta*, a support, and not a direct Scriptural command (*Maggid Mishneh*).
+
 [^38]: The *Siftei Cohen* 184:7 states that this applies only when a woman is accustomed to begin menstruating at a given time during the day or night. If, however, she does not have a fixed time when she begins menstruating, relations are also forbidden during the preceding day or night. This stringency is not, however, accepted by all authorities.
+
 [^39]: During the evening, however, she is permitted. Before entering into relations, the woman should carry out an internal examination to verify that she in fact did not begin menstruation [*Tur*, Rama (*Yoreh De'ah* 184:9)].
+
 [^40]: This ruling is mentioned by the *Shulchan Aruch* (*Yoreh De'ah* 186:1) as a minority perspective. The prevailing view is that when a woman possesses a fixed *veset*, she and her husband need not carry out such inspections at all. If she does not possess a fixed *veset*, she and her husband should carry out these inspections before and after the first three times they engage in relations. If no blood is discovered, it is established that sexual relations does not cause the woman to menstruate. Hence, in the future, the couple can engage in relations without making these inspections.
+
 [^41]: Since they are worn-out, they are soft and pliable. It is possible for the woman to insert them into all the corners of the vagina.
+
 [^42]: In this way, any speck of blood will be noticeable. Needless to say, they must also be clean. Today, in many Jewish communities, special clothes are prepared for this purpose - and other inspections which a woman must undergo - and are available from the local *mikveh* and at times, even in pharmacies.
+
 [^43]: Cotton may also be used [*Kessef Mishneh*; *Shulchan Aruch* (*Yoreh De'ah* 196:6)].
+
 [^44]: As the Rambam continues to explain, this applies even if she has a fixed *veset*.
+
 [^45]: The Ra'avad and Rav Moshe Cohen object to the Rambam's ruling, explaining that the Rambam's source, *Niddah* [[Niddah 11#11b|11b]], applies only with regard to the laws of ritual purity and not with regard to relations with one's husband. Indeed, the Rambam himself appears to have equivocated back and forth concerning the issue. In the first draft (which is the standard printed text) of his Commentary to the Mishnah (*Niddah* 1:7), he follows the position advanced by the Ra'avad. It is only in the *Mishneh Torah* and the final text of the Commentary to the Mishneh (see Rav Kappach's translation) that he changes his mind.  
     Although the *Shulchan Aruch* (*Yoreh De'ah* 186:2) quotes the Rambam's ruling here as a minority view, the prevailing opinion is that such an inspection is unnecessary. Moreover, a woman should not carry out such an inspection in the presence of her husband, lest he think that she became impure.
+
 [^46]: All these four types of women are unlikely to menstruate. Nevertheless, they must take the precaution suggested by the Rambam.
+
 [^47]: Who will suffer hymeneal bleeding after the first (or more) occasions of intercourse. See Chapter 5, Halachah 19.
+
 [^48]: I.e., a woman after childbirth, as described in Halachah 5.
+
 [^49]: Thus checking to see whether or not she is bleeding will serve no purpose. This bleeding does not, however, render her ritually impure or forbidden to her husband according to Scriptural Law.
+
 [^50]: If, however, the *ed* is clean, we assume that the *ed* she used at night had also been clean.
+
 [^51]: This is speaking about an *ed* that was known to be clean beforehand (*Maggid Mishneh*).
+
 [^52]: Since the stain is extended, we assume that the woman had touched a source of bleeding. As she moved the *ed*, the stain became extended.
+
 [^53]: The *Shulchan Aruch* (*Yoreh De'ah* 190:34) states that this applies only when the stain is smaller than a *gris* (see *Chapter 9, Halachah 6). If it is larger than that measure, we do not assume that it comes from a louse, because it is unlikely that a louse will produce that much blood.*
+
 [^54]: This applies even if there is no trace of the body of the louse. We assume that when she put the ed under the pillow, she killed the louse and that produced a rounded stain. If she placed the *ed* in a box or in any place where a louse is unlikely to be found, she is considered as impure even if the stain is round (*Maggid Mishneh*).
+
 [^55]: And afterwards, placed it in a safe place.
+
 [^56]: For the likelihood of her suffering vaginal bleeding is greater than that of her killing a louse when touching the *eid* to her thigh. The *Maggid Mishneh* interprets the Rambam's ruling as applying even if the stain is round. He notes that other authorities differ and apply the principles stated in the previous law. The *Shulchan Aruch* (*Yoreh De'ah* 190:35) quotes both opinions without stating which to follow.
+
 [^57]: This refers to an *ed* which we do not know whether it was dirty or not. If, however, we know that the *ed* was dirty, she is not considered impure even if a large stain is found [Rama (*Yoreh De'ah* 190:36)].
+
 [^58]: When a stain is larger than a *gris*, we assume that it will not have come from a louse.
+
 [^59]: The *Shulchan Aruch* (*Yoreh De'ah* 187:1) emphasizes that these laws apply only when the bleeding is noticed directly after intercourse. If there is an interval before she discovers the bleeding, these laws do not apply.
+
 [^60]: For an occurrence that takes place once or twice is not usually considered to establish a recurrent pattern.
+
 [^61]: I.e., on three consecutive occasions without there being an occasion where relations did not lead to vaginal bleeding in the interim (*Siftei Cohen* 187:3).
+
 [^62]: Instead, she must be divorced. She may, however, remarry as stated in the following halachah.  
     The reason she is required to divorce is that the recurrence of a factor three times establishes a *chazzakah*, a presumption that this factor will continue to recur in the future. Thus if she began bleeding on three successive occasions in the midst of relations with her husband, we assume that she will continue to do so in the future. Since she suffered vaginal bleeding in the midst of intercourse, those relations are considered as involving a severe transgression. On the first three occasions, she and her husband are not held responsible for this is obviously a deviation from the norm. If, however, a pattern is established, this is considered the norm and if she would bleed in the midst of relations in the future, the transgression would be considered as willful. To prevent that from happening, we require divorce.  
     It must be emphasized that all this applies after the woman has ceased hymeneal bleeding. It is, however, possible for her to engage in relations several times at the beginning of her marriage and continue hymeneal bleeding. See the conclusion of Chapter 5.
+
 [^63]: And thus, it is assumed that the relations are the cause of the vaginal bleeding.
+
 [^64]: Note the *Siftei Cohen* 187:16 who offers several resolutions how this is possible despite the prohibition mentioned in Halachah 12.
+
 [^65]: Unless we know that the shades of blood are different, we assume that they are the same and attribute the bleeding to the wound (*Maggid Mishneh*; *Siftei Cohen* 187:19).
+
 [^66]: Note the Rama (*Yoreh De'ah* 187:5) who emphasizes the importance of adding the words "which bleeds."
+
 [^67]: For we accept the possibility that the difficulty was particular to her first husband and would not affect her relations with other men.
+
 [^68]: Since the same condition recurred with three different men, a *chazzakah* is established and we assume that it will recur with all men.
+
 [^69]: She may check herself in this manner at any time in the process, even before being divorced by her first husband [*Maggid Mishneh*; see *Shulchan Aruch* (*Yoreh De'ah* 187:3)].
+
 [^70]: So that it will be smooth and will not scratch her.
+
 [^71]: For the swab was touched to the uterus without contact with any other part of the body.
+
 [^72]: And such bleeding does not render her impure.  
     Without minimizing the effectiveness of this method of checking devised by the Rabbis of the Talmud, today there are more effective medical tools available and it is possible to ascertain the source of a woman's bleeding in that manner. A careful inspection by a doctor or nurse under the guidance of a Rav may - and should - be employed as soon as such problems occur.
+
 [^73]: *Hilchot Ishut* 25:8. The Rambam is implying that she cannot remarry her third husband. In *Hilchot Ishut*, he explains that when a man divorces a woman for this reason, the husband must know he may never remarry her, for otherwise it would be as if he gave the divorce conditionally. If she becomes healed, it would not be effective.

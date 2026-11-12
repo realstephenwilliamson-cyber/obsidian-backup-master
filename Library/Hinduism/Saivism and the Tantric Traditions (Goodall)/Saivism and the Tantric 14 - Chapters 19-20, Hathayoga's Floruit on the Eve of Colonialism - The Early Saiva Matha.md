@@ -179,8 +179,11 @@ The earliest references to the term *haṭhayoga* are found in some Buddhist Tan
 Unlike earlier Buddhist works, Haṭhayoga in the *Amaraughaprabodha* is embedded in a fourfold hierarchy in which Rājayoga is the principal yoga. Rājayoga is defined as the absence of mental activity,[^3] a meditative state that was known by this name in other Śaiva yoga texts of the same era.[^4] In this hierarchy, Haṭhayoga was not the sole means to Rājayoga, because the latter could also be achieved by Mantra- and Layayoga. Judging by later works, such
 
 [^1]: On Maitreyanātha’s and Rāmapāla’s rejection of Haṭhayoga, see Isaacson and Sferra 2014, and Mallinson, forthcoming 2020.
+
 [^2]: On the prehistory of certain techniques which were integrated into Haṭhayoga, see Mallinson 2016, 120–122. In the case of the three physical techniques taught in the *Amṛtasiddhi* and the *Amaraughaprabodha*, it seems possible to me that the *Amaraughaprabodha* may have borrowed from a source that was older than the *Amṛtasiddhi* (Birch 2019, 964–966) and that the physical practices themselves were not the preserve of esoteric Buddhists.
+
 [^3]: *Amaraughaprabodha* 3d ( *yaś cittavṛttirahitaḥ sa tu rājayogaḥ*).
+
 [^4]: The earliest work to teach Rājayoga by name is the *Amanaska*, which can be dated to the eleventh or early twelfth century (Birch 2014, 406–409). In nearly all texts that teach Haṭhayoga, Rājayoga is mentioned as the goal of Haṭhayoga.
 
 *[p. 453]* ^pg488
@@ -192,8 +195,11 @@ The praxis common to both the yoga of the *Amṛtasiddhi* and the Haṭhayoga of
 Some of the *mudrā*s in the *Dattātreyayogaśāstra* also appear in systems of yoga of the same era that were not called Haṭhayoga as evinced, for example,
 
 [^5]: The *Dattātreyayogaśāstra* (14) states that Mantrayoga is for the lowest type of practitioner, who has a weak intellect. This is why it is the lowest yoga of the hierarchy (*alpabuddhir imaṃ yogaṃ sevate sādhakādhamaḥ* | *mantrayogo hy ayaṃ prokto yogānām adhamas smṛtaḥ* ||). A passage in the long recension of the *Amaraughaprabodha* (17cd–24), which might postdate the *Haṭhapradīpikā*, explicitly connects each of the four types of student to one of these four yogas. Both this passage and the similar one in the *Śivasaṃhitā*, mentioned above, appear to have been inspired by the *Amṛtasiddhi*’s discourse (chapters 15–18) on the four types of student in relation to the four stages of yoga.
+
 [^6]: This Vaiṣṇava form of *aṣṭāṅgayoga* is taught (without the Haṭhayogic *mudrā*s) in the *Vasiṣṭhasaṃhitā* and *Yogayājñavalkya*, which were probably composed in the twelfth and fourteenth centuries, respectively.
+
 [^7]: Recent work on nineteen manuscripts of the *Yogabīja* by the Haṭha Yoga Project has revealed an early recension that does not teach these *bandha*s and *mudrā*s. Nonetheless, it is likely that a section on four *kumbhaka*s and the three *bandha*s was added to the text before the time of the *Haṭhapradīpikā*, in an attempt to explain the practice of *śakticālana* and Haṭhayoga.
+
 [^8]: *Yogabīja*, ms. no. 29917, f. 11v, line 5 (*haṭhena grasyate jāḍyaṃ haṭhayogaḥ sa ucyate*). The “union of the sun and moon” definition was added to later recensions of the *Yogabīja*, one of which may still predate the *Haṭhapradīpikā*.
 
 *[p. 454]* ^pg489
@@ -203,6 +209,7 @@ by two Śaiva works, the *Vivekamārtaṇḍa* and the *Gorakṣaśataka*.[^9] T
 do not mention the need for initiation (*dīkṣā*) for its practice, a characteristic that appears to reflect *haṭhayoga*’s role as an auxiliary practice for people of various religions and social status, including householders (Birch 2015, 8–10). Although some of the distinguishing *mudrā*s of Haṭhayoga, such as inverting the body, may be similar to techniques of older traditions of asceticism (*tapas*), the *mudrā*s had been adapted and repurposed by tantric Buddhist and Śaiva sects by the time texts such as the *Amṛtasiddhi* and the *Amaraughaprabodha* were composed. None of the early teachings on Haṭhayoga refer to *tapas* and, in contrast to the mortifying effects of extreme methods of *tapas*, the proponents of Haṭhayoga claimed that this type of yoga would not afflict the body and would, in fact, bring about health and *jīvanmukti* (“liberation-in-life”) relatively quickly. Nonetheless, in this period there were opponents to Haṭhayoga
 
 [^9]: One might also include the *Śivasaṃhitā* as an example here. The fourth chapter of this work teaches *āsana*s, *prāṇāyāma* and ten *mudrā*s, as well as *yonimudrā*, which became an integral part of the typology of the *Haṭhapradīpikā*. Chapters 1–4 of the *Śivasaṃhitā*, in which these techniques are taught, do not refer to Haṭhayoga, which is mentioned only briefly in the fifth chapter. The first four chapters may have been an original text that was combined with the fifth sometime before the seventeenth century (Birch 2018, 107 note 13).
+
 [^10]: These are the *Amaraughaprabodha*, the *Dattātreyayogaśāstra*, the *Yogabīja* and the *Yogatārāvalī*. The other two are the *Śivasaṃhitā* and the *Aparokṣānubhūti*, whose verses on Haṭhayoga may not predate the *Haṭhapradīpikā*. On the dating of the *Śivasaṃhitā*, see Birch 2018, 107, note 13. As far as I know, the date of the *Aparokṣānubhūti* is uncertain and it is possible that its verses on Haṭhayoga were added more recently (Birch 2011, 540, notes 98–100). A Sanskrit Vīraśaiva work called the *Śaivaratnākara* by Jyotirnātha mentions in passing the four yogas in the same order as the *Yogabīja* (i.e., Mantra, Haṭha-, Laya and Rājayoga). According to Elaine Fisher (personal communication, 10 March 2019), the *Śaivaratnākara* may have been composed in the late-thirteenth or early-fourteenth century, which so happens to be the likely date of the early recension of the *Yogabīja*. A large Sanskrit compendium called the *Śārṅgadharapaddhati*, probably dated to 1363 CE, mentions Haṭhayoga in a syncretic section on yoga that borrows from earlier yoga texts. I am also aware of a Marathi text on yoga that may predate the fifteenth century, namely, the *Vivekadarpaṇa*. This work defines but rejects Haṭhayoga in favour of a gnostic type of Rājayoga. I would like to thank James Mallinson for drawing my attention to the *Vivekadarpaṇa* and Elaine Fisher for the *Śaivaratnākara*.
 
 *[p. 455]* ^pg490
@@ -214,7 +221,9 @@ The conception of Haṭhayoga in the *Haṭhapradīpikā* represents a turning p
 The *Haṭhapradīpikā* might be considered the culmination of a formative period in the development of Haṭhayoga as a system of praxis. In this sense, it marks the beginning of Haṭhayoga as a distinct method that combined both seated and non-seated *āsana*s, the eight *kumbhakas* and the ten *mudrā*s. In keeping with the earlier literature, the main goal of these techniques was Rājayoga. However, in addition to the *mudrā*s of Haṭhayoga, Svātmārāma also stipulated the practice of three other *mudrā*s for Rājayoga, namely, *śāmbhavī mudrā, khecarīmudrā*[^12] and a simplified form of *ṣaṇmukhīmudrā*, which is not named as such, but is prescribed for “fusing the mind with the internal resonance” (*nādānusandhāna*).[^13] These “meditational” *mudrā*s probably derive
 
 [^11]: Early examples of texts that critique and reject Haṭhayoga and its methods include the *Mokṣopāya*/*Laghuyogavāsiṣṭha* and the *Amanaska* (Birch 2011, 531, 544–545).
+
 [^12]: *Khecarīmudrā* is taught in chapters three and four of the *Haṭhapradīpikā*. In the fourth chapter, the practice of this *mudrā* consists of focusing the mind between the eyebrows, rather than the Haṭhayogic *khecarīmudrā* of inserting the tongue into the nasopharyngeal cavity, which is taught in the third chapter.
+
 [^13]: The *Haṭhapradīpikā* (4.68) states that the ears, eyes, nostrils and mouth should be blocked in order to hear the internal resonance (*nāda*) in the *suṣumnā* channel. Brahmānanda’s *Jyotsnā* commentary on this verse adds that the senses are blocked by the fingers, and he calls this practice *ṣaṇmukhīmudrā*. A simpler technique is also mentioned at *Haṭhapradīpikā* 4.82ab, in which the yogin presses the ears with the hands to initiate *nādānusandhāna* (*karṇau pidhāya hastābhyāṃ yaḥ śṛṇoti dhvaniṃ muniḥ*). A similar technique is described in the *Śivasvarodaya* (383), the *Rājayogāmṛtasāra* of Ānandānandanātha (1.17– 18, f. 9r–9v), the *Maṇḍalabrāhmaṇopaniṣat* (2.2.2) and the *Jogapradīpyakā* (685–688), and it is depicted in an illustrated manuscript called “seven *āsana*s of yoga” at the National Museum of New Delhi, PCWA gallery.
 
 *[p. 456]* ^pg491
@@ -232,6 +241,7 @@ A notable change in the literature that followed the *Haṭhapradīpikā* was th
 It should be noted that, on the whole, the early works were composed in a low register of Sanskrit and *anuṣṭubh* metre.[^15] They are prescriptive and elementary, which suggests that they were probably written for practitioners. In contrast to this, many of the later works, such as the *Haṭhatattvakaumudī* and the *Yogacintāmaṇi*, are more scholarly and tend to be written in higher registers of Sanskrit. Their authors utilize more complex metres, compile their material from a wider range of sources and often include commentary on the older sources, which are frequently cited with attribution.
 
 [^14]: For example, one of the earliest yoga texts to teach a *mudrā* called *śāmbhavī* is the *Amanaska*, a text on Rājayoga that explicitly rejects *prāṇāyāma* and the *mudrā*s and *karaṇa*s associated with it (Birch 2014, 406–408).
+
 [^15]: The exception is the *Yogatārāvalī*, which is composed in *triṣṭubh* and incorporates poetic images, etc.
 
 *[p. 457]* ^pg492
@@ -307,8 +317,11 @@ The extended works expatiate on the type of Haṭhayoga that was outlined in the
 *Haṭharatnāvalī* (17th c.)[^16] *Haṭhayogasaṃhitā* (17th c.)[^17] *Haṭhābhyāsapaddhati* (18th c.)[^18] *Haṭhayogamañjarī* (18th c.?)[^19]
 
 [^16]: On the date of the *Haṭharatnāvalī*, see Birch 2018, 109 note 24.
+
 [^17]: The *Haṭhayogasaṃhitā* is a compilation that borrows extensively from the *Haṭhapradīpikā*. The opening verses (1.2–3) acknowledge the seven sages, namely Mārkaṇḍeya, Bharadvāja, Marīci, Jaimini, Parāśara, Bhṛgu and Viśvāmitra, for spreading Haṭhayoga in the world. The stated aim of Haṭhayoga is to achieve purification (*śodhanaṃ*), firmness (*dṛḍhatā*), steadiness (*sthairya*), constancy (*dhairya*), lightness (*lāghava*), direct perception (*pratyakṣa*) and liberation (*nirlipta*) of the body (*ghaṭa*). Its Haṭhayoga has seven auxiliaries: the *ṣaṭkarma*, *āsana*, *mudrā*, *pratyāhāra*, *prāṇasaṃyāma*, *dhyāna* and *samādhi*. The *Haṭhayogasaṃhitā* appears to have been the basis of the *Gheraṇḍasaṃhitā* (eighteenth century), which adds a new frame story (viz., a dialogue between the teacher Gheraṇḍa and a student Caṇḍakāpāli), several elaborate visualization practices and a six-fold Rājayoga. The *Gheraṇḍasaṃhitā* calls its yoga *ghaṭasthayoga*, omits the *Haṭhayogasaṃhitā*’s teachings on *vajrolī* and redefines this *mudrā* as a handstand, thus revealing a reluctance to adopt the transgressive practices of Haṭhayoga.
+
 [^18]: The *terminus ad quem* of the *Haṭhābhyāsapaddhati* is the *Śrītattvanidhi*, which was a compendium composed by Kṛṣṇarāja Waḍiyar III, the Mahārāja of Mysore, who was active in the mid-nineteenth century (Sjoman 1996, 40). The *Haṭhābhyāsapaddhati* was a source text of the *Śrītattvanidhi* (see Birch 2018, 131–134), and probably predates it by a hundred years or so (Birch and Singleton 2019, 14–16).
+
 [^19]: Not much scholarly attention has been given to this work. Its name in the published edition is not entirely certain according to the colophons. The text begins with the heading *Haṭhayogamañjarī*. However, the second chapter’s colophon refers to the *Jogī-cintāmaṇi* of Śrīsahajānandanātha, the third chapter’s colophon to the *Śrīsarvopaniṣat*, and the final colophon to the *Gorakhajogamañjarī*. The text could be a composite work consisting of summaries or extracts of different texts. Nonetheless, the *Haṭhayogamañjarī* styles itself as a work on Haṭhayoga. The terms *haṭhayoga* and *haṭhavidyā* are used in each chapter and it contains a description of the *haṭhayogī* (p. 32). Its opening verses (2–5) state that it is an explanation of the *Haṭhapradīpikā* in a vernacular language (*bhāṣā*). It certainly covers most of the content of the *Haṭhapradīpikā*, but also includes additional material on *yama, niyama, pratyāhāra, dhyāna*, etc. A significant difference is that much of the *Haṭhapradīpikā*’s discourse on Rājayoga has been omitted. Like other Brajbhāṣā texts, such as the *Jogapradīpyakā* (1737 CE), the author of the *Haṭhayogamañjarī* equates *vajrolīmudrā* with Rājayoga. I am yet to consult a manuscript of this work or even find a reference to it in a manuscript catalogue or another yoga text. It may be the work referred to as the *Jogamañjarī* (acc. no. 6543, Rajasthan Pracya Vidya Pratisthan, Bikaner, Rajasthan) by Gharote et al. (2006a, lxvii). However, the librarian at this library in Bikaner was unable to locate this manuscript when James Mallinson and I visited on separate occasions in 2018. The *Haṭhayogamañjarī* mentions devotion to Rāma (e.g., p. 10, v. 33 and p. 18, v. 25 and the last line) and was probably compiled in the same period and milieu as the *Jogapradīpyakā*.
 
 *[p. 459]* ^pg494
@@ -320,9 +333,13 @@ In particular, the last two texts are literally extended versions of the *Haṭh
 Secondly, the repertoire of techniques in most of the texts which follow the *Haṭhapradīpikā* became larger. As shown in Table 19.2, the number of *āsana*s increases most significantly.[^23] However, it is also the case that techniques were added to the standard collections of the *ṣaṭkarma*s and *mudrā*s. The original six therapeutic interventions known as the *ṣaṭkarma* form the basis of a repertoire of twenty-one techniques in the *Haṭhayogasaṃhitā*. This work also adds fifteen *mudrā*s to the usual ten that are taught in Haṭhayoga. Furthermore, these texts provide greater detail on many of the *mudrā*s. For example, the *Haṭhābhyāsapaddhati* contains the most elaborate teachings on *vajroli*, which is taught in great detail along with its preliminary practices and medical applications. In table 19.2 the number of *kumbhaka*s remains almost the same but, generally speaking, these texts contain many more verses on *prāṇāyāma*.[^24]
 
 [^20]: On the date of the *Haṭhapradīpikā* with ten chapters, see Birch 2018a, 8 note 32.
+
 [^21]: On the date of the *Siddhāntamuktāvalī*, see Birch 2018, 127.
+
 [^22]: On the date of the *Yogamārgaprakāśikā*, see Birch 2018a, 8 note 29.
+
 [^23]: The *Haṭharatnāvalī* lists eighty-four *āsana*s but describes only thirty-six of them. Other examples from this period of yoga texts with the names and descriptions of large numbers of *āsana*s include the *Siddhāntamuktāvalī* (96 *āsana*s), the *Haṭhābhyāsapaddhati* (112 *āsana*s), the *Yogāsana* (108 *āsana*s), the *Yogāsanamālā* (110 *āsana*s) and the Ujjain manuscript (No. 3537) of the *Yogacintāmaṇi* (54 *āsana*s described and two lists of over eighty names of *āsana*s). For further information on this, see Birch 2018.
+
 [^24]: For example, the *Haṭharatnāvalī* has 97 verses in its chapter on *prāṇāyāma* whereas the *Haṭhapradīpikā* has 78. The *Haṭhatattvakaumudī* has five chapters on *prāṇāyāma* (9, 10, 12, 37–38), namely, the preliminary auxiliaries and rules of practice for *prāṇāyāma* (*prāṇāyāmapūrvāṅgasādhanavidhi*), an explanation of the names, nature and characteristics of *kumbhaka*s (*kumbhakanāmasvarūpaguṇa*), breathing methods for quelling suffering (*kleśaghnavāyusādhana*), necessary rules for *prāṇāyāma* (*prāṇāyāmakartavya-vidhi*) and an explanation of *prāṇāyāma* (*prāṇāyāmavivecana*), which total more than 240 verses. The *Siddhāntamuktāvalī* (ff. 53r–86v), the *Yogacintāmaṇi* (pp. 161–220) and the *Yuktabhavadeva* (pp. 107–143) have large sections on *prāṇāyāma* as well.
 
 *[p. 460]* ^pg495
@@ -356,8 +373,11 @@ The period in which these extended works arose was one in which physical practic
 The composition of such works indicates ongoing innovation and syncretisation in the practice of *āsana*, *prāṇāyāma* and the *ṣaṭkarma* that is also reflected in the extended Haṭhayoga texts mentioned above. The *Kumbhakapaddhati* describes over seventy varieties of breath retention (*kumbhaka*) and the *Satkarmasaṅgraha* borrowed many of its additional therapeutic interventions from
 
 [^25]: On the date of the *Kumbhakapaddhati*, see Birch 2018a, 9 note 41.
+
 [^26]: On the date of the *Satkarmasaṅgraha*, see Birch 2018a, 50.
+
 [^27]: The one available manuscript of the *Yogāsanamālā* was completed on Wednesday, 20 January 1790 CE (*miti mahīṣa sudī 5 budhavasare saṃvat 1846*).
+
 [^28]: See below for information on the date of this text.
 
 *[p. 461]* ^pg496
@@ -371,11 +391,17 @@ The composition of such works indicates ongoing innovation and syncretisation in
 Some of the extended works are the result of scholarly efforts to synthesise and elaborate on material from earlier works, whereas others appear to document, perhaps for the first time, a practice that was in use at the time of writing. A good example of a more scholarly extended work is the *Haṭharatnāvalī*, which was composed by Śrīnivāsa. At the beginning of the first chapter, he presents himself as a learned writer by informing the reader that he is an eminent astrologer who excels in the Vedas, Vedānta, the works of Patañjali, Vyākaraṇa, Tantra, Sāṅkhya, Nyāya, Vaiśeṣika, as well as various other texts and philosophies.[^30] His remarks on the *Haṭhapradīpikā* indicate that he was responding to deficiencies which he perceived in that work.[^31] In particular, his list of eighty-four *āsana*s appears to have been the creation of a scholar who felt compelled to elaborate on references to this canonical number of postures in early works, such as the *Dattātreyayogaśāstra* and the *Vivekamārtaṇḍa*.[^32] In fact, Śrīnivāsa’s list of eighty-four names of postures is preceded and followed by verses of the *Vivekamārtaṇḍa* and the *Haṭhapradīpikā*, which state that Śiva taught eighty-four *āsana*s.[^33] The compilatory nature of his collection is revealed by explicit references to and tacit borrowings from the *Haṭhapradīpikā*, the *Yogayājñavalkya*, and the *Dattātreyayogaśāstra* in his descriptions of thirty-six *āsana*s.[^34] Also, Śrīnivāsa incorporated into the list at least twelve variations of certain basic postures, which further suggests that this list was a scholarly contrivance arising from his intention to expatiate on earlier textual references to eighty-four *āsana*s.[^35]
 
 [^29]: For further details on this, see Birch 2018a, 49–56.
+
 [^30]: *Haṭharatnāvalī* 1.2 (*vede vedāntaśāstre phaṇipatiracite śabdaśāstre svaśāstre tantre prā-bhākarīye kaṇabhugabhihite nyāyaratnārṇavenduḥ* | *sāṅkhye sārasvatīye vividhamatimate tattvacintāmaṇijñaḥ śrīmajjyotirvid agre saravaratanujo rājate śrīnivāsaḥ* ||).
+
 [^31]: For example, see Śrīnivāsa’s commentary to *Haṭharatnāvalī* 1.27 and 2.86.
+
 [^32]: For references and translations of the relevant verses, see Birch 2018, 107–108.
+
 [^33]: *Haṭharatnāvalī* 3.7 (~ *Vivekamārtaṇḍa* 8–10) and 3.23 (*= Haṭhapradīpikā* 1.35).
+
 [^34]: In the *Haṭharatnāvalī* ’s section on *āsana*, the *Haṭhapradīpikā*, the *Yogayājñavalkya*, and the *Dattātreyayogaśāstra* are cited by name at 3.23, 3.35 and 3.36, respectively. *Haṭharatnāvalī* 3.42–43, 51–54, 57–58, etc., are tacitly borrowed from the *Haṭhapradīpikā*. Also, *Haṭharatñāvalī* 3.77 is a rewriting of *Vivekamārtaṇḍa* 92.
+
 [^35]: Six types of *mayūrāsana* are mentioned in *Haṭharatnāvalī* 3.10 and five are described at 3.42–47; three of *matsyendrāsana* are mentioned in 3.12 and described at 3.58–60; two of *paścimatānāsana* are mentioned in 3.13, and both are described at 3.66–68; and possibly five of *kukkuṭāsana* are mentioned in 3.17 (if one assumes that *ākārita* and *bandhacūlī*, which are included among *kukkuṭa*, *ekapādakakukkuṭa* and *pārśvakukkuṭa*, are variations of the same posture).
 
 *[p. 462]* ^pg497
@@ -385,6 +411,7 @@ The scholarly efforts of Śrīnivāsa in compiling a list of *āsana*s can be co
 There is little evidence to indicate that scholarly extended works, such as the *Haṭharatnāvalī*, and the compendiums mentioned below were sources of information for Kṛṣṇamācārya, Swāmī Śivānanda and other gurus who popularized physical yoga in the early twentieth century. These gurus deferred to the *Pātañjalayogaśāstra* and the *Haṭhapradīpikā* in their publications. Nonetheless, there is significant evidence that they surreptitiously adopted postures from traditions of *āsana* practice that were prevalent in certain regions of India in the eighteenth and nineteenth century. The traces of these traditions are discernible through texts such as the *Haṭhābhyāsapaddhati*, the *Jogapradīpyakā* and the *Yogāsana*,[^37] which preserve teachings on large distinct collections
 
 [^36]: On large collections of *āsana*s at these locations, see Vijaya Sarde 2015 and 2017, and Seth Powell 2018.
+
 [^37]: The *āsana*s of the *Yogāsana*, most of which correspond to untraced Sanskrit descriptions quoted in a commentary on the *Yogasūtra* by Śrīkṛṣṇavallabhācārya (1939), were reproduced in several early twentieth-century publications, one of which was Swāmī Śivānanda’s book *Yoga Asanas*. This will be discussed at length in a forthcoming publication.
 
 *[p. 463]* ^pg498
@@ -404,7 +431,9 @@ The compendiums to which I am primarily referring are:[^39]
 *Yogapañcāśikā* (early 16th c.)[^40]
 
 [^38]: One should consult the work of Elizabeth de Michelis (2004) and Mark Singleton (2010) for the modern elements, such as neo-Vedānta and physical culture, that also shaped the teachings of these gurus. Some significant similarities in their teachings with the sources I am discussing include the use of the *aṣṭāṅga* format, the integration of *bandha*s and *mudrā*s with *āsana* and *prāṇāyāma*, the importance of inverted *āsana*s, the identification of *samādhi* with Advaitavedānta concepts and, above all, the trans-sectarian approach to compiling their teachings.
+
 [^39]: For dating, please refer to Birch 2018a, unless otherwise indicated.
+
 [^40]: The *Yogapañcāśikā* might be the earliest attempt to integrate Haṭha- and Rājayoga with Pātañjalayoga. The text is cited by name in a Sanskrit work called the *Vivekamukura*, which was composed by Nṛsimha Bhāratīya, according to its last verse (97). If this is the same author who wrote the commentary called the *Subodhinī* on the *Vedāntasāra*, as stated by Thangaswami (1980, 360–361), then Nṛsimha Bhāratī of Varanasi was active in the late sixteenth century. Unlike other compilations in this list, the *Yogapañcāśikā* is a short work of merely fifty verses that cites only the *Pātañjalayogaśāstra*. It teaches an *aṣṭāṅgayoga*. The first four auxiliaries are Haṭhayoga, and the second four, Rājayoga. It is a Śaiva work that aims at raising *kuṇḍalinī*, uniting Śakti with Śiva and attaining *jīvanmukti*, followed by *videhamukti* when all *prārabdakarma* is extinguished. Its yoga is not intended for those who deny the validity of scripture (*nāstika*), but for male life-long brahmacārins (*nṛnaiṣṭhika*). This text is unpublished and, as far as I am aware, preserved by only one manuscript, which has several small lacunae.
 
 *[p. 464]* ^pg499
@@ -418,9 +447,13 @@ The compendiums to which I am primarily referring are:[^39]
 *Yogasārasaṅgraha* (18th c.)[^43] Yoga Upaniṣads (18th c.)[^44] *Rājatarala* (late 18th–19th c.)[^45]
 
 [^41]: Bouy 1994, 89–92.
+
 [^42]: Birch 2014, 415, 434 note 71.
+
 [^43]: The *Yogasārasaṅgraha* undoubtedly postdates the *Haṭhapradīpikā* and the *Śivayogapra-dīpikā*. The latter was probably composed in the late fifteenth century. However, the *Yogasārasaṅgraha* may post-date the *Haṭharatnāvalī* (seventeenth century), as it shares a verse on *bhujaṅgīkaraṇa*, a technique that is only taught in the *Haṭharatnāvalī* (2.31), as far as I am aware (cf. *Yogasārasaṅgraha* p. 28, lines 4–5). Also, there are other verses on Haṭhayoga that seem to follow the *Haṭharatnāvalī* rather than the *Haṭhapradīpikā* (e.g., *Yogasārasaṅgraha* p. 55, lines 8–14 ≈ *Haṭharatnāvalī* 2.32–35). The *Yogasārasaṅgraha*’s *terminus ad quem* would probably be one of its manuscripts. Several appear to be reported in the *New Catalogus Catalogorum* (hereafter NCC), but I have not had the opportunity to consult any of them.
+
 [^44]: These so-called *Yoga Upaniṣads* are part of a recent recension compiled in South India in the first half of the eighteenth century and commented on by Upaniṣadbrahmayogin (See Bouy 1994). They include the *Yogatattvopaniṣat*, the *Dhyānabindūpaniṣat*, the *Nādabindūpaniṣat*, the *Śāṇḍilyopaniṣat*, the *Yogacūḍāmaṇyupaniṣat*, the *Yogakuṇḍalinyu-paniṣat*, the *Yogaśikhopaniṣat*, the *Darśanopaniṣat*, the *Maṇḍalabrāhmanopaniṣat*, the *Saubhāgyalakṣmyupaniṣat* and the *Varāhopaniṣat*.
+
 [^45]: The *Rājatarala* is a lengthy commentary on the *Yogatārāvalī* (circa 14th c.) that was composed by Rāmasvāmipaṇḍita, who is described as a worshipper of Śaṅkarācārya’s feet (*śrīśaṃkarācāryapādakiṃkara*). He cites the *Maṇḍalabrāhmaṇopaniṣat* (ms. no. 72330, f. 29v), which means that the *Rājatarala* was composed after the corpus of one hundred and eight Upaniṣads, that is, the mid-eighteenth century (Bouy 1994, 6, 34, etc.). Also, a verse pays homage to a Dakṣiṇāmūrti in the city of Śrīśaila, near Kadalī, which appears to locate the work in Andhra Pradesh (Mahadevan 2018, 68). It is preserved by one undated palm-leaf manuscript (No. 72330) in Telugu script at the Adyar Library and Research Centre, Chennai, and an undated transcript (No. B378) in Devanagari (circa 20th century) at the Oriental Research Institute, Mysore.
 
 *[p. 465]* ^pg500
@@ -436,8 +469,11 @@ The authors of these compendiums often combined yoga teachings from different tr
 In the *Yogacintāmaṇi*, Godāvaramiśra’s method of synthesising Haṭhayoga with other yogas is typical of this genre.[^49] Godāvaramiśra was a chief minister (*mantrivara*) and preceptor (*rājaguru*) to the Orissan king Pratāparudradeva,
 
 [^46]: According to the final colophon, the *Yogasandhyā* was composed by Śrīsadāśivanārāyaṇabrahmacāri, whose guru was Śrīmajjagannāthacaitanyabrahmacāri. They belonged to the tradition of the Śṛṅgerīmaṭha. The final verse mentions the date of composition in the *bhūtasaṅkhyā* system. If the term *dharma* represents the number eight, it would have been completed in VS 1861 (= 1804 CE), when the sun was in the ninth *nakṣatra* (*tapas*) and the moon full. See *Yogasandhyā*, p. 203 (*rākeśarasadharmorvvīsammite vaikrame ’bdake* | *tapasīne ca rākāyāṃ satkṛtiḥ pūrṇatāmitā*). I would like to thank for their comments on this verse Somadeva Vasudeva, Péter Szántó, James Mallinson and, in particular, Chris Minkowski, who suggested that *dharma* could mean 4, 6 or 8.
+
 [^47]: The date of the *Gorakṣasiddhāntasaṅgraha* is not certain, although it post-dates the *Sid-dhasiddhāntapaddhati*, which might be as late as the eighteenth century (Mallinson 2014, 170–171).
+
 [^48]: Śivānanda’s *Yogacintāmaṇi*,p.9(*na tatra kiñ cid vedyaṃ saṃprajñāyata ity asaṃprajñātaḥ samādhiḥ* | *ayaṃ nirbīja iti nirvikalpa iti nirālamba iti rājayoga*—*iti cocyate*) and *Yuktabhavadeva* 1.33 (\[…\] *sa eva nirvikalpaḥ samādhiḥ sadā savikalpakajñānābhāvāt* || *sa eva ca rājayogaḥ*).
+
 [^49]: This work survives in a single, incomplete manuscript, which is dated Wednesday, 16th November 1715 CE. *Yogacintāmaṇi* (f. 132v, lines 7–8): *saṃvat* 1772 *varṣe kārttika vadi mā-vāsyā budhavāsare likhitaṃ*.
 
 *[p. 466]* ^pg501
@@ -449,8 +485,11 @@ In this text, I summarise and examine Patañjali’s doctrine, which was explain
 Although Godāvaramiśra discusses only some of the *sūtra*s of the *Pātañjalayogaśāstra* in an order that fits the design of his work, he begins with the first one (*atha yogānuśāsanam*) and, in his discussion of it, cites with attribution passages from the *Gāruḍapurāṇa* (*sic*), the *Bhagavadgītā*, the *Brahmāṇḍapurāṇa* and the *Kūrmapurāṇa*, as well as the sages Yājñavalkya (i.e., the *Yājñavalkyasmṛti*) and Maharṣimataṅga.[^53] The first half of the *Yogacintāmaṇi* is concerned with general topics, such as definitions of yoga, the types of *samādhi* and so on. The latter half is structured on the eight auxiliaries (*aṣṭāṅga*) of Pātañjalayoga, and it is in his discussions of *āsana*, diet and *prāṇāyāma* that he cites
 
 [^50]: The *Yogacintāmaṇi* (f. 131v lines 7–8) of Godāvaramiśra states that he wrote the *dvaitadarpaṇa*: “Now, they have been explained together by me in the Dvaitadarpaṇa” (\[…\] *asmāb-hir atha dvaitadarpaṇe yugapadanuvarṇitāḥ* \[…\]). However, it seems that *atha dvaitadarpaṇe* is a scribal error for *athādvaitadarpaṇe*, because *yugapadanuvarṇitāḥ* refers back to two works: the *Saṅkṣepaśārīrakavārttika*, which was composed by his paternal grandfather (*pitāmahacaraṇa*) and the *Advaitacintāmaṇi* by his father (*pitṛcaraṇa*). The NCC (vol. 6, 126) reports that Godāvaramiśra wrote the *Advaitadarpaṇa* because it is quoted in his *Hariharacaturaṅga* (p. 178, v. 22; p. 196, v. 502). This is affirmed in a summary of the *Hariharacaturaṅga* (Meulenbeld 2000, 562–563).
+
 [^51]: For more information on Godāvaramiśra’s family and works, see the NCC vol. 6, 1971, 126 and Meulenbeld 2000, 562–563.
+
 [^52]: *Yogacintāmaṇi*, f. 1v, lines 4–5 ( *yad vyāsavācaspatibhojadevaiḥ pātañjalīyaṃ niraṇāyi tattvaṃ* | *anyatra siddhaṃ yad upekṣitaṃ ca tad atra saṅkṣipya nirūpayāmi* ||3||) The codex reads *upekṣitaṃ*, but Gode (1953, 474) transcribes it as *apekṣitaṃ*. Whether he was tacitly emending *upekṣitaṃ* to *apekṣitaṃ* is not clear. He may have emended because the meaning of *apekṣita* is more consistent with *siddha*, but it seems possible that *upekṣita* was intended to contrast with *siddha*, as I have translated.
+
 [^53]: One would expect that the *Mataṅgapārameśvaratantra* is meant by this attribution. However, I have not found the cited verse in the published edition of this tantra. The verse in the *Yogacintāmaṇi* (f. 3v, lines 5–7) is *agniṣṭomādikān yajñān vihāya dvijasattamaḥ yogāb-hyāsarataḥ śāntaḥ paraṃ brahmādhigacchati* || *brāhmaṇakṣatriyaviśāṃ strīśūdrāṇāṃ ca pāvanaṃ śāntaye karmaṇām anyad yogān nāsti vimuktaye* ||. This verse is found in the *Viṣṇudharma* (98.016).
 
 *[p. 467]* ^pg502
@@ -462,6 +501,7 @@ Godāvaramiśra’s work became the basis of an ambitious attempt by Śivānanda
 Meditation along with the practices \[ancillary to it\] have been explained briefly by me according to scripture and my understanding. Listening to and contemplating \[the teachings\] which are seen in detail and at length only in the Upaniṣads, have not been discussed for fear of prolixity. I have revealed here all that which is secret in Haṭha- and Rājayoga for the delight of yogins. However, that Haṭhayoga which was practised by Uddālaka, Bhuśuṇḍa and others has not been mentioned by me, because it cannot be accomplished by contemporary \[practitioners. Also\], the procedures and so forth promoted by the *kāpālika*s have not been mentioned \[because\] they contravene the Vedas, Dharmaśāstras and Purāṇas.[^55]
 
 [^54]: The *terminus a quo* of Śivānanda’s *Yogacintāmaṇi* is Godāvaramiśra’s *Yogacintāmaṇi* (see above). The *terminus ad quem* is 1630 CE, based on two dated manuscripts of the *Yogacintāmaṇi*. The first is reported in the catalogue of yoga manuscripts by Kaivalyadhama (2005, 226–227), which gives the author (Śivānandasarasvatī), the library (the Asiatic Society in Mumbai), the manuscript number (1083) and the date (VS 1687 = 1630 CE). The second manuscript is held at the Panjab University Library and has been catalogued by the Woolner Project (Ms. no. 6922). After this manuscript’s final colophon, a scribal comment indicates that it was copied by Rāma on the 13th of the month, Kārttika, in Śāka 1552 (i.e., Sunday, 17 November 1630 CE). The possibility that Śivānanda was a resident of Varanasi is supported by a reference to his devotion to Viśveśvara, a standard claim of Śaivas who resided there. I would like to thank Alexis Sanderson for pointing this out to me, and he also noted that similar references to Viśveśvara in works of Śaivas who resided in Varanasi can be found in Jñānaśiva’s *Jñānaratnāvalī* and Viśvanātha’s *Siddhāntaśekhara*, which are both Saiddhāntika Paddhatis (personal communication, 24 April 2013).
+
 [^55]: The *Yogacintāmaṇi* pp. 281–282 (with verse numbers added for the clarity of the critical apparatus): *nididhyāsanam etat tu mayā sādhanasaṃyutam* | *yathāśāstraṃ yathābodhaṃ saṅkṣepeṇa nirūpitam* ||1|| *śravaṇaṃ mananaṃ caiva saviśeṣaṃ savistaram* | *vedānteṣv eva draṣṭavyaṃ noktaṃ vistarabhītitaḥ* ||2||| *rahasyaṃ rājayogasya haṭhayogasya yat sthitam* | *prakāśitaṃ mayā sarvaṃ prītaye yoginām iha* ||3|| *arvācīnair asādhyatvāl likhito na mayā hi saḥ* | *uddālakabhuśuṇḍādyair haṭhayogas tu yaḥ kṛtaḥ* ||4|| *kāpālikapraṇītās tu itikar-tavyatādayaḥ* | *likhitā na mayā te tu śrutismṛtivirodhinaḥ* ||5|| 2b *saviśeṣaṃ savistaram* \] 6922, Ed.; *savistaraviśeṣakam* 3537. 4a *arvācīnair* \] 3537, 6922; *sadhrīcīnair* Ed. 4b *asādhyatvāl* \] 3537; *asādhyatvāt* Ed.; *asādhyatvān* 6922. 4b *likhito na mayā hi saḥ* \] Ed.; *likhitvo na mayā hi saḥ* 3537; na *likhito hi mayā tu saḥ* 6922 (hypermetrical). 5d *virodhinaḥ* \] 3537, 6922; *virodhanāḥ* Ed.
 
 *[p. 468]* ^pg503
@@ -475,7 +515,9 @@ Both Godāvaramiśra and Śivānanda excluded the Haṭha techniques of *vajrol�
 The synthesis of various philosophies and genres of literature in the yoga compendiums under consideration was created by well-educated Brahmins who were knowledgeable in a wide range of scholarly subjects. A good example of this is the seventeenth-century Bhavadevamiśra, whose *Yuktabhavadeva* is a digest (*nibandha*) that integrated teachings of Haṭha- and Rājayoga with those of the *Pātañjalayogaśāstra* and various Upaniṣads, Purāṇas, Tantras, Dharmaśāstras and the Epics. Apart from the fact that Bhavadeva cited a wide range of Sanskrit works, the breadth of his learning is attested by the commentaries attributed to him on various *śāstra*s. Manuscript colophons state that he was a Brahmin from Mithila and that his father was Kṛṣṇadevamiśra, his elder brother Baladevamiśra and his teacher Bhavadeva Ṭhakkura. Based on this information, the Bhavadeva who wrote the *Yuktabhavadeva* also wrote commentaries on the *Pātañjalayogaśāstra*,[^57] the *Brahmasūtra*,[^58] the *Kāvyapra-*
 
 [^56]: The *Haṭhapradīpikā* (3.96d) contains a verse that points to the Kāpālika origins of *amarolī* (… *kāpālike khaṇḍamate ’marolī* ). *Amarolī* and *sahajolī* are generally considered to be variations of *vajrolī* (e.g., *Dattātreyogayogaśāstra* 31 and 158, *Haṭhapradīpikā* 3.92, etc.).
+
 [^57]: This commentary is called the *Pātañjalīyābhinavabhāṣya* and several manuscripts of it are held in the Kathmandu National Archives. The chapter colophons of E 1819-9 and A 554- 522 affirm that Bhavadeva was the son of Kṛṣṇadeva and the favourite student (*priyaśiṣya*) of Ṭhakkuraśrībhavadeva.
+
 [^58]: This commentary is called the *Candrikā*, and the NCC (vol. 15, 12) reports that it is by Bhavadeva, who was the son of Sanmiśrasrīkṛṣṇadeva and the disciple of Ṭhakkura-bhavadeva.
 
 *[p. 469]* ^pg504
@@ -483,10 +525,15 @@ The synthesis of various philosophies and genres of literature in the yoga compe
 *kāśa*[^59] and the *Vājasaneyīsaṃhitā*[^60] as well as a work on Dharmaśāstra called the *Dānadharmaprakriyā*[^61] and another on what appears to be Vaiśeṣika philosophy, the *Vaiśeṣikaratnamālā*.[^62] Some manuscript catalogues also attribute to a “Bhavadeva” a commentary called the *Abhinavabhāṣya* on the *Śāṇḍilyasūtra*, also known as the *Bhaktimīmāṃsāsūtra*,[^63] and some other works,[^64] but the catalogues I have consulted do not provide enough biographic information to prove that this was the same Bhavadeva who composed the *Yuktabhavadeva*. Nonetheless, it is clear that Bhavadeva was a scholar whose knowledge extended far beyond the theory and practice of yoga traditions.
 
 [^59]: This commentary is called the *Līlā*. The NCC (vol. 4, 98) reports that it is by Bhavadeva, son of Kṛṣṇadeva of Mithila and pupil of Bhavadeva Ṭhakkura.
+
 [^60]: This commentary is called the *Vyākhyānaratnamālā*. The NCC (vol. 28, 60) reports that it is by Bhavadeva of Mithila, son of Kṛṣṇadeva and disciple of Bhavadeva Ṭhakkura.
+
 [^61]: *Dānadharmaprakriyā* was composed by Bhavadevabhaṭṭa, son of Kṛṣṇadevamiśra (NCC vol. 9, 6) at the request of Rudradāsaśreṣṭhin in 1636–1637 CE (NCC, vol. 16, 172). Kane (1930 vol. 1, 560) points out that this work was by Bhavadeva, son of Kṛṣṇadeva of Mithila. In a latter volume (1962, vol. 5, part ii, 28), he attributes the *Prāyaścittaprakaraṇa* to Bhavadevabhaṭṭa.
+
 [^62]: The NCC (vol. 32, 64) reports that the *Vaiśeṣikaratnamālā* was written by Bhavadeva Paṇḍita, son of Kṛṣṇadevamiśra and disciple of Bhavadeva Ṭhakkura. This appears to be based on a sole manuscript at the Bhandarkar Oriental Research Institute (123 of 1881–1882).
+
 [^63]: In its entry on the commentary called the *Abhinavabhāṣya* on the *Śāṇḍilyasūtra* or *Bhaktimīmāṃsāsūtra* (also called the *Śatasūtī* or *Bhaktisūtra*), the NCC (vol. 15, 152) reports that this work is found in the manuscript libraries of the Oriental Institute in Baroda, the Prajñā Pāṭhaśālā Maṇḍala at Wai and the Sampūrṇānanda library in Varanasi. The catalogues of the first two do not give any biographic information for Bhavadeva and I have not been able to consult catalogues of the Sampūrṇānanda library (SB New DC XII 44408, 44416. ii. 107900. 107911).
+
 [^64]: Other works attributed to a Bhavadeva in the NCC (vol. 16, 172) include the *Yogasaṅ-graha*, the *Vyāptivāda* and commentaries on the *Yogadarpaṇa*, the *Yogabindu*, the *Raghuvaṃśa* (called the *Subodhinī* ) and the *Ṣaḍaṅgarudra*. Karl Potter’s Encyclopedia of Indian Philosophies Bibliography (1983, vol. 1, 475) adds commentaries by a Bhavadeva (dated to 1650) on Bhavānanda’s *Kārakacakra*, Īśvarakṛṣṇa’s *Sāṅkhyakārikā* and the *Pañcalak-ṣaṇa* section of Gaṅgeśa’s *Tattvacintāmaṇi*, as well as a work on Nyāya called the *Anu-mānaprakaraṇavyākhyā*.
 
 *[p. 470]* ^pg505
@@ -500,7 +547,9 @@ The compendiums of Godāvaramiśra, Śivānanda, Bhavadevamiśra and Sundaradeva
 In addition to the Yoga Upaniṣads and the *Upāsanāsārasaṅgraha*, which were examined by Bouy, the *Yogasandhyā* and the *Rājatarala* are large exegetical works composed in South India that weave together Pātañjalayoga and Haṭhayoga within a vedāntic framework. The other compendiums discussed in this article support Bouy’s observations and extend his hypothesis to the region of Northeast India. Godāvaramiśra lived in what is now Orissa, Bhavadeva in Mithila and both Śivānanda and Sundaradeva in Varanasi. The vedāntic overtones in the works of these authors include references to the Upaniṣads and an emphasis on achieving the liberating gnosis of Brahman. Also, various prosopographic details associate them with Advaitavedānta. Godāvaramiśra’s father Balabhadra wrote a text called the *Advaitacintāmaṇi* and he himself the *Advaitadarpaṇa*,[^66] Śivānanda mentions Ādiśaṅkara in his lineage[^67] and, according to manuscript catalogues, Bhavadeva wrote a commentary on the *Brahmasūtra*. Unlike the Yoga Upaniṣads, their works explicitly cite Haṭhayoga texts.
 
 [^65]: For information on Sundaradeva and his works, see Birch 2018a, 58–61.
+
 [^66]: *Yogacintāmaṇi* (ms. no. 220 of 1882–1883) f. 131v.
+
 [^67]: *Yogacintāmaṇi* p. 2: “Having bowed to Śrīvyāsa, the ascetic Śaṅkara, the teacher of the world, \[my\] teacher Śrīrāmacandra, whose lotus feet are intense bliss, and all of the gods of yogins, the ascetic Śivānanda has written clearly the great *Yogacintāmaṇi*, which had fallen into an ocean of various texts and has the power to explain everything” (*śrīvyāsaṃ yatiśaṅkaraṃ bhavaguruṃ śrīrāmacandraṃ guruṃ sāndrānandapadāmbujañ ca nikhi-lān natvā hi yogīśvarān* | *nānāgranthapayodhimadhyapatitaṃ śrīyogacintāmaṇiṃ niḥ-śeṣārthasamarthakaṃ yatiśivānandaḥ karoti sphuṭam* ||).
 
 *[p. 471]* ^pg506
@@ -526,6 +575,7 @@ In contrast to the scholarly compendiums of the northeast, the extended works on
 From the *Amaraughaprabodha* to the current day, Haṭhayoga has been distinguished by physical methods of practice. In the early period the practice centred on breath retentions with physical locks (*mudrā*), and it burgeoned over the centuries to include an array of complex postures, *ṣaṭkarma* and *mudrā*s. Although these physical techniques were never particular to Haṭhayoga, the textual evidence suggests that after the sixteenth century Haṭhayoga became a dominant paradigm for the practice of physical yoga across most of the Indian subcontinent, and this paradigm was significantly shaped by the content of the *Haṭhapradīpikā*. As outlined in this article, the floruit of Haṭhayoga was a period in which its techniques proliferated, particularly in praxis-orientated manuals, and its literature diversified as authors of various backgrounds, most notably erudite Brahmins, attempted to expand and integrate it with other yogas and different religions. By the eighteenth century, this extensive literary activity appears to have peaked, but the momentum behind it carried the notion of Haṭhayoga into the royal courts of Mysore and Jodhpur in the nineteenth century,[^69] and placed it firmly at the centre of the revival of postural practice in the twentieth century.[^70]
 
 [^69]: In the mid-nineteenth century, the Mahārāja of Mysore, Mummaḍi Kṛṣṇarāja Woḍeyar III, commissioned a royal compendium called the *Śrītattvanidhi*, which had a chapter on *āsana*s that was based on the *Haṭhābhyāsapaddhati* (Birch 2018, 131–132). In the early nineteenth century, the Mahārāja of Marwar had built two temples in Jodhpur (the Mahāmandir and the Udai Mandir) with murals of eighty-four Siddhas in complex *āsana*s, many of which correspond to those in the *Jogapradīpyakā* (Bühnemann 2007, 102).
+
 [^70]: Recent research is starting to reveal more premodern sources of the *āsana*s adopted by gurus who led the revival of physical yoga in the early twentieth century. For example, Kṛṣṇamācārya was inspired by the *Haṭhābhyāsapaddhati* (Birch and Singleton 2019, 49– 64) and Swāmī Śivānanda of Rishikesh borrowed the majority of the *āsana*s in his book *Yoga Asana*s (1934) from earlier sources, one of which dates to the mid-nineteenth century (Birch forthcoming).
 
 *[p. 473]* ^pg508

@@ -174,99 +174,178 @@ This is a prescript ordained by our Sages so that she will not [be divorced and 
 [The husband] is not obligated to provide her with medical treatment,[^79] nor to redeem her if she is taken captive. If he divorces her, the divorce is binding.[^80] He should remove her from his home, and he is not obligated to care for her. ^10-23
 
 [^1]: In the Talmud, by contrast, the terms *bateil* and *pasul* do not have these specific meanings. There are times when *pasul* is used to connote a *get* that is unacceptable according to Scriptural law, and *bateil* to refer to a *get* that is unacceptable according to Rabbinic law (*Maggid Mishneh*). (See also the responsum of the Rambam quoted by the *Maggid Mishneh* in his gloss on Chapter 8, Halachah 4.)
+
 [^2]: The Ra'avad differs and maintains that the priest should be forbidden to remain married to a woman he divorced with such a *get*, lest the impression be created that the prohibition against a priest's marrying a divorcee can be waived. The *Shulchan Aruch* (*Even HaEzer* 150:3), however, accepts the Rambam's ruling.
+
 [^3]: See Chapter 8, Halachah 5.
+
 [^4]: The *Maggid Mishneh* explains that the Rambam considers the proof-text that he quotes as an *asmachta* - i.e., a support from the Torah invented by the Rabbis to uphold their decree. The *Maggid Mishneh* himself differs, noting that *Gittin* [[Gittin 82#82a|82a]] appears to indicate that the prohibition is of Scriptural origin.  
     *Kin'at Eliyahu* explains that the Rambam's conception can be resolved based on his statements in *Sefer HaMitzvot* (General Principle 2), that any law that is not explicitly stated in the Torah, but rather derived through the Thirteen Principles of Biblical exegesis, is considered to be Rabbinic in origin (*midivrei soferim*). This classification does not, however, in any way diminish the status of this practice, and it is as though it were explicitly stated in the Torah. (See the commentaries on *Hilchot Ishut* 1:2.) Similarly, in this instance the prohibition is not explicit in the Torah, but rather derived through exegesis. Thus, it has the status of Scriptural law, but is considered to be Rabbinic in origin.  
     It must be emphasized that just as the woman is prohibited from remarrying a priest if divorced, she is also prohibited from remaining married to her husband, if he is a priest [*Shulchan Aruch* (*Even HaEzer* 150:3)].
+
 [^5]: I.e., according to Scriptural law, the divorce is binding. Our Sages, however, disqualified the divorce and forbade the woman from remarrying until a *get* is given that presents no halachic difficulties.
+
 [^6]: Similarly, if her first husband is a priest, he may no longer become impure while caring for her burial (*Hilchot Eivel* 2:13).
+
 [^7]: Since her divorce is effective according to Scriptural law, our Sages did not abrogate her second marriage.
+
 [^8]: I.e., in these instances, our Sages were unsure whether or not the *get* is valid according to Scriptural law. Because of the doubt, the woman is not allowed to engage in marital relations with anyone other than her first husband until an acceptable *get* is given. The first husband can no longer annul her vows, nor does he have the right to inherit her property if she dies in his lifetime.
+
 [^9]: The Rambam's intent is somewhat questionable. The *Maggid Mishneh* and the *Kessef Mishneh* explain that even in this situation, the husband must consecrate his wife a second time.
+
 [^10]: For the marriage blessings should not be recited if there is a doubt whether they are necessary. Even with regard to a *get* that was disqualified by Rabbinic law, since the woman should not remarry, the blessings should not be recited (*Maggid Mishneh*).
+
 [^11]: The marriage contract states: "When you [may] marry another person, you may collect the sum mentioned within." Since such a woman is not fit to remarry, and she could not collect the money due her by virtue of her original marriage contract, that contract remains in effect (*Maggid Mishneh*).
+
 [^12]: Although her second marriage is void, and thus, according to Scriptural law there is no need for a *get*, our Sages established such a requirement because of the impression that might be created.
+
 [^13]: When a woman commits adultery, she is forbidden to engage in marital relations both with her husband and with the adulterer (even after being divorced from her husband). In this instance, the woman's second marriage is an adulterous relationship. Therefore, she may not remain married to either of her husbands.
+
 [^14]: I.e., the abovementioned prohibition stems from Scriptural law. It applies, however, only when the prohibition against adultery was willfully violated. Nevertheless, even when adultery was committed unwittingly, the woman is forbidden to both husbands: to her second husband, because her marriage to her first husband has not been terminated, and to her first husband, because of the Rabbinical decree mentioned by the Rambam.
+
 [^15]: As explained in *Hilchot Ishut* 4:9, a deaf-mute's mental capacity is considered insufficient for him to establish a marriage bond. Nevertheless, our Sages ordained that if a deaf-mute man or woman enters into a marriage relationship, that relationship is binding according to Rabbinic law, regardless of whether the mate is also a deaf-mute or is fully mentally competent.  
     Since a deaf-mute's marriage is not effective according to Torah law, there is room to suppose that the woman should be allowed to remarry her first husband, for the difference between a deaf-mute's marriage and an ordinary marriage is obvious. And conversely, one might assume that since a deaf-mute is not held responsible for his actions, if a woman's second husband were a deaf-mute, they would be allowed to remain married. For these reasons, it is necessary to state that the stringencies apply in these instances as well.
+
 [^16]: Since the woman did not enter into forbidden marital relations, there is no reason to penalize her (*Yevamot* [[Yevamot 89#89a|89a]]).
+
 [^17]: The second husband is not entitled to the article, because he is not truly her husband. The first husband is not entitled to it because our Sages granted a husband rights to ownerless articles his wife discovers to prevent friction from arising in the home, and in this instance, since he is required to divorce her, there is no need to prevent friction (*Yevamot* [[Yevamot 90#90b|90b]]).
+
 [^18]: A husband is granted the profits from his wife's work in return for providing for her sustenance. Since neither of the husbands is required to provide for her, neither is entitled to this benefit (*Ibid.*).
+
 [^19]: The Torah granted a husband the right to annul his wife's vows so that she will remain attractive to him. In this instance, the husband should not be attracted to the wife (*Ibid.*).
+
 [^20]: Our Sages explained that the woman should have been entitled to be recompensed for these benefits. Nevertheless, they were withheld from her as a penalty for her actions. The *Shulchan Aruch* (*Even HaEzer* 17:56) does rule that the benefits that her second husband received after her first husband returned (or after the *get* was discovered void) should be returned to her.
+
 [^21]: Our Sages instituted the requirement of a marriage contract so that a husband would be deterred by the financial burden he would have to bear, and would not consider divorce a light matter. In this instance, however, our Sages desire the divorce. Therefore, they did not impose a financial burden (*Yevamot* [[Yevamot 89#89a|89a]]).
+
 [^22]: It is only when a woman is entitled to the money due her by virtue of her marriage contract that the stipulations apply (*Ibid.*).
+
 [^23]: I.e., she is judged as a woman who was divorced because of adultery, who is penalized, as stated in *Hilchot Ishut* 24:10. She is, however, entitled to take all her property that remains intact [*Shulchan Aruch* (*loc. cit.*)].
+
 [^24]: Property for which the husband takes financial responsibility (*Hilchot Ishut* 16:1).
+
 [^25]: For when she received the funds, they were not aware of the prohibition (Jerusalem Talmud, *Yevamot* 10:1).
+
 [^26]: As reflected in the following halachot, based on *Yevamot* [[Yevamot 94#94b|94b]], it appears that only when the woman has been merely consecrated is a *get* required from the second husband. For it is possible for an onlooker to think that perhaps the first *kiddushin* were given conditionally, and the marriage to the second brother is binding. Lest a misconception arise and one think that a married woman can be released without a *get*, the second husband is required to give a *get*.  
     If she was married to - not merely consecrated by - her first husband, a *get* is not required from the second husband, because when his brother returns, everyone will realize that his marriage to his brother's wife is not binding. Rabbenu Asher makes a further distinction and states that when the woman was married to - not merely consecrated by - the first brother, she and her first husband may continue living together as man and wife, despite the fact that she erred and performed the rite of *yibbum*. The *Shulchan Aruch* (*Even HaEzer* 159:4) follows the Rambam's ruling, while the Ramah follows that of Rabbenu Asher.
+
 [^27]: It is forbidden to marry two sisters in each other's lifetime. Once a man's wife dies, however, he may marry her sister. (See also *Hilchot Yibbum* 3:11.)
+
 [^28]: The intent is the Hebrew term *arayot*, a word with a specific meaning. As explained in *Hilchot Ishut* 1:5, this refers to a woman with whom sexual relations are forbidden and punishable by *karet*.
+
 [^29]: E.g., one was unaware of the family connection.
+
 [^30]: For, as mentioned, a marriage bond cannot be established with one of the *arayot*.  
     If the man married the first sister, then there is no possibility of such a misconception arising. A man will never marry a woman conditionally, for if the condition is not fulfilled, their marital relations are considered to be sinful. We assume that a person will not take that risk (*Shulchan Aruch*, *Even HaEzer* 15:27). (Note, however, *Hilchot Issurei Bi'ah* 2:10 and the gloss of the Ra'avad.)
+
 [^31]: The wording used by the Rambam here is somewhat confusing. For the scribe should give the *get* to the husband, who should give it to his wife. The intent appears to be, as in the source for this halachah, *Gittin* [[Gittin 80#80a|80a]], that the scribe gave the man the receipt and the woman the *get*, and they exchanged them. Thus, the woman was never given the *get* by her husband.
+
 [^32]: Indeed, we do not even require that, as a safeguard, the first husband give her the *get* while she is married to her second husband (*Beit Shmuel* 151:2).  
     The *Beit Shmuel* also states that this law applies even if the woman was merely consecrated by the second husband, but their marriage had not been consummated.
+
 [^33]: In his Commentary on the Mishnah (*Gittin* 8:7), the Rambam explains that the husband is acting out of spite, seeking to prevent his divorcee from remarrying. Rashi (*Gittin* [[Gittin 80#80a|80a]]) offers a different rationale.
+
 [^34]: See *Hilchot Ishut* 24:16.
+
 [^35]: This represents the Rambam's interpretation of *Gittin* [[Gittin 45#45b|45b]], 46b. Other halachic authorities view this situation slightly differently. The various views are listed in the *Shulchan Aruch* (*Even HaEzer* 10:3).
+
 [^36]: I.e., it is as if he gave her the *get* on the condition that she remain unchaste, and, because of her repentance, that condition was not fulfilled. Most authorities maintain that since this condition was not actually stated, such a complaint would not be heeded by the court. Nevertheless, since the matter might become a subject for gossip, her first husband is bound by these restrictions (*Tosafot, Gittin* 46a). From one of the Rambam's responsa, however, it appears that he maintains that the *get* would actually be void in such an instance.
+
 [^37]: If, however, she was consecrated by another man, even if she was divorced before their marriage was consummated, she may not remarry her first husband and must be divorced by him if they do remarry, as stated in Chapter 11, Halachah 12.
+
 [^38]: A woman who suffers from physical disorders and lacks female physical characteristics. She is unable to bear children. (See *Hilchot Ishut* 2:6, 15:7, 24:1.)
+
 [^39]: See *Hilchot Ishut* 25:8-9.
+
 [^40]: See Chapter 7, Halachah 5. If, however, a person brings a *get* from one place in *Eretz Yisrael* to another, the permission granted to the woman to remarry does not depend on his statements. Therefore, he is permitted to marry her (*Shulchan Aruch*, *Even HaEzer* 12:1).
+
 [^41]: See Chapter 12, Halachah 15.
+
 [^42]: I.e., a woman took a vow that caused her to be forbidden to derive benefit from her husband, in which case he is required to divorce her. She asked a sage to annul the vow, but he could not find a halachic basis to do so (*Yevamot* [[Yevamot 25#25b|25b]]).
+
 [^43]: For this would substantiate the initial rumor and make the couple a subject of gossip (*Yevamot* [[Yevamot 24#24b|24b]]). On this basis, there are authorities who rule that if the rumor is substantiated - e.g., a couple are openly living together, or were married in a secular court - the woman should be encouraged to convert, and they should be married according to Jewish law.  
     Indeed, we find a responsum of the Rambam himself regarding a man who had an attractive female servant, and it was rumored that they had spent time together in private. The Rambam advises that the man be compelled to free the servant and either marry her or send her away. He acknowledges that doing so would violate the Rabbinic decree mentioned in this halachah, but states that because of the permissive state of morals prevalent in his society, there is no alternative.
+
 [^44]: From *Yevamot* (*loc. cit.*), it would appear that the reason for this restriction is that people should not say that the man converted in order to marry. This is undesirable. (See *Hilchot Issurei Bi'ah* 13:14.) With regard to this prohibition as well, it has become customary in the present time to show leniency.
+
 [^45]: There are opinions that state that if the woman has merely been consecrated, but the marriage bond has not been consummated, the couple should be forced to separate. (See *Maggid Mishneh; Beit Shmuel* 12:2). There are other opinions, however, that maintain that the consecration is equivalent to the consummation of the marriage. Rav David Arameah cites *Hilchot Issurei Bi'ah* 21:31 as an indication that the Rambam follows the latter view.
+
 [^46]: The *Maggid Mishneh* quotes the Rashba as maintaining that a witness who brought a *get* and said "It was written and signed in my presence," should be forced to divorce the woman if he marries her. The *Shulchan Aruch* (*Even HaEzer* 12:1) quotes the Rambam's ruling. See *Chelkat Mechokek* 12:1.
+
 [^47]: The Ramah (*Even HaEzer* 12:4) writes that if the man's wife was sick at the time that the woman became eligible for marriage, the prohibition remains in effect. For it possible that he was waiting for her to die.  
     The *Chelkat Mechokek* 12:2 extends this stringency to include a man and wife whose marriage was known to be plagued by strife. Even if the divorce came at the woman's initiative, it is possible that the man expected it and had planned another alternative.
+
 [^48]: It is unlikely that two individuals will sin so that one may benefit (Jerusalem Talmud, *Yevamot* 2:12). The *Hagahot Maimoniot*, nevertheless, state that "a master of his soul" should avoid such a marriage.
+
 [^49]: Lest the woman later regret her decision (*Yevamot* [[Yevamot 109#109b|109b]]).
+
 [^50]: If the woman has remarried and divorced, however, the presumption stated does not apply, for it is forbidden for her first husband to remarry her (*Beit Shmuel* 149:2).
+
 [^51]: Although this would make it appear more likely that the man was relating to her as a prostitute and not as a wife, it is not sufficient cause for us to negate our presumption (*Gittin* [[Gittin 73#73b|73b]]).
+
 [^52]: The *Beit Shmuel* 149:3 interprets this to mean that if another person consecrates her afterwards, we consider it as if he had consecrated a married woman, and he is not required to divorce her.
+
 [^53]: It is not sufficient for one to have observed them in private at one time, and the other at a different time, for the two witnesses who observe the consecration of a woman must be together at that time.
+
 [^54]: *Hilchot Ishut* 3:5; see also *Hilchot Ishut* 14:16, which states that it is forbidden to engage in sexual relations in the presence of others.
+
 [^55]: The previous halachah dealt with an instance in which relations were observed; hence, no distinction was made whether the couple was divorced before or after their first marriage was consummated. In this instance, they merely entered into privacy together. If, however, we know for a fact that a couple shared familiarity before the marriage bond was completed, a second *get* is required (*Maggid Mishneh; Shulchan Aruch*, *Even HaEzer* 149:2).
+
 [^56]: A son borne by a maidservant is not considered to have any connection to his father. These authorities, however, suspect that the woman was freed and then married, and that the child thus shares a connection with his father. According to this opinion, *chalitzah* is, nevertheless, required.
+
 [^57]: For until the maidservant is freed, she cannot be married.
+
 [^58]: These authorities do not even require *chalitzah*.
+
 [^59]: See *Hilchot Ishut* 7:23.
+
 [^60]: The Radbaz and others state that if the witnesses know that the woman is in the *niddah* state, we do not assume that the couple entered into relations for the sake of marriage. If they are prepared to violate the prohibition of *niddah*, we assume that they will have no hesitation to conduct relations outside marriage. [Some modern authorities consider taking this concept even further. Although a man and a woman claim that their intent is "marriage," if they violate the laws of *niddah*, their conception of marriage is not *kedat Moshe viYisrael*, "according to the faith of Moses and Israel," and Torah law does not require a divorce. See the responsum of the Rivash cited below.]
+
 [^61]: The Ra'avad differs with the Rambam on this matter and maintains that if a man is in general known to be moral and observant, we assume that he will not enter into sexual relations with a licentious intent. This applies even if he entered into relations with a maidservant. If, however, the man has a reputation for wanton behavior, this assumption is not applied. The *Shulchan Aruch* (*Even HaEzer* 149:5) follows the Rambam's view.  
     In the law that follows, the *Shulchan Aruch* explains that if a Jewish man and woman marry according to gentile law, we do not consider them to be man and wife according to Torah law. This ruling is based on a ruling of the Rivash (Responsum 6), which explains that a Jewish marriage must be "according to the faith of Moses and Israel," and a couple who marry according to gentile law, regardless of their desire to live together, are not establishing their union on this foundation.
+
 [^62]: See *Hilchot Nachalot* 4:6.
+
 [^63]: In this instance, the Ra'avad accepts the Rambam's ruling, for it is impossible for a man to compel a woman to convert.
+
 [^64]: Thus, if her husband was a priest (who may not marry a divorced woman), he may remain married to her. We do not suspect that he divorced her and remarried her. (See *Hilchot Issurei Bi'ah* 17:20.)
+
 [^65]: See *Hilchot Ishut* 9:22.
+
 [^66]: The Ra'avad differs with the Rambam and interprets *Gittin* [[Gittin 88#88b|88b]], the source for this halachah, as referring to an instance where there is one rumor that says that the woman was consecrated and then divorced. Although Rashi and others interpret the passage as the Rambam does, the *Shulchan Aruch* (*Even HaEzer* 46:7) appears to merge both views into a single understanding.
+
 [^67]: If the man informs a woman that he intends to divorce her, he may marry her for a brief amount of time (*Hilchot Issurei Bi'ah* 21:28; *Shulchan Aruch*, *Even HaEzer* 119:1).
+
 [^68]: He did not intend to divorce her originally, made this decision after they married, but lives together with her as husband and wife with the thought of divorcing her in the future.
+
 [^69]: Children conceived during this time will have severely tainted personalities, as stated in *Hilchot Issurei Bi'ah* 21:12.
+
 [^70]: There is somewhat of a difficulty with the Rambam's ruling. The opinion he cites is that of the School of Shammai, as mentioned at the conclusion of the tractate of *Gittin*. The School of Hillel differs and maintains that if a woman wrongs her husband, even with regard to as insignificant a matter as burning his meal, he may divorce her. Rabbi Akiva goes even further and maintains that even if a person finds a more attractive woman, he may divorce his wife.  
     Most authorities agree that in this, as in most other instances, the halachah follows the School of Hillel. Why then does the Rambam (and the *Shulchan Aruch* [*Even HaEzer* 119:3]) follow the opinion of the School of Shammai?  
     Among the resolutions offered is that the difference of opinion between the Schools of Shammai and Hillel applies only with regard to a second marriage. With regard to a first marriage, by contrast, even the School of Hillel accepts the School of Shammai's stringency (*Beit Yosef, Even HaEzer* 119).  
     Note also the statements of the Ramah, who rules that the prohibition applied only during the Talmudic era, when a woman could be divorced against her will. In the present era, when a woman must willingly accept a divorce, this prohibition does not apply.
+
 [^71]: See *Gittin* [[Gittin 90#90b|90b]], which states that whenever a man divorces his first wife, the altar itself cries.  
     On the surface, the wording used by the Rambam is problematic. First he says that it is forbidden to divorce one's first wife, and then he states that one should not hurry, implying that one may, but that it is ethical not to be impulsive about the matter. The *Chelkat Mechokek* 119:2 offers two resolutions: a) The prohibition exists only when, as was possible in the Talmudic era, the husband is divorcing his first wife against her will. If she is willing to accept the divorce, there is no prohibition; one should, however, proceed without haste. b) Even when one hears about improper sexual conduct, one should not be hasty about the matter. Instead, the incident should be investigated carefully to determine if in fact any wrongdoing occurred.
+
 [^72]: Although divorce is undesirable, an unhealthy marriage is even more undesirable, and a marriage should be terminated if there are severe ill feelings between a couple.
+
 [^73]: The implication is both that she is continually contending with her husband and that she is immodest. In such an instance, it is a mitzvah to divorce her, even if she is a man's first bride (*Chelkat Mechokek* 119:4).
+
 [^74]: See *Hilchot Ishut* 24:12.
+
 [^75]: This refers to a situation in which a woman married while fully capable and became a deaf-mute while married. Since a deaf-mute is considered to be mentally incapable, such a person is unable to establish a marriage bond that is binding according to Scriptural law. Our Rabbis made certain provisions for the marriage of such individuals, as explained in *Hilchot Ishut* 4:9. In this instance, however, since the woman was not a deaf-mute at the time of marriage, the marriage is binding according to Scriptural law.  
     The law teaches us that since according to Scriptural and Talmudic law, a woman can be divorced against her will, the fact that the woman is mentally incapable does not prevent her husband from divorcing her. Since a woman who is a deaf-mute is not totally incapable of caring for herself, our Sages did not make provisions for her, as they did for a woman who becomes mentally unsound.
+
 [^76]: This also refers to a situation in which the woman lost control of her faculties after marriage. If, however, she was mentally unstable at the outset, any marriage that she enters into is not binding at all (*Hilchot Ishut, loc. cit.*).
+
 [^77]: He must, however, put at the woman's disposal the money due her by virtue of her marriage contract and the money due from her dowry (*Chelkat Mechokek* 119:9).
+
 [^78]: This ruling does not apply in the Ashkenazic community, nor in other places where the custom is to follow the ban of Rabbenu Gershom not to divorce one's wife against her will. In these communities, the husband is required to provide for his wife's sustenance and garments from his own resources. The rationale is that since he is not able to divorce her - for she is not capable of consenting to the divorce - he remains liable to bear the financial burden of supporting her (*Chelkat Mechokek* 119:9).  
     The husband is not, however, obligated to give her conjugal rights. The *Bayit Chadash* (*Even HaEzer* 119) and the *Chelkat Mechokek* 119:12 state that in such a situation, the husband may be granted license to marry a second wife by 100 rabbis.
+
 [^79]: Even according to the law in Talmudic times, many differ with the Rambam's thesis and maintain that the husband is obligated for his wife's medical expenses.  
     The Ra'avad protests that in many instances, a person with mental disorders can be rehabilitated, and he maintains that the husband should be required to pay for such treatment. The *Beit Shmuel* 119:11 states that even the Rambam would agree to such an obligation.  
     In the Ashkenazic community today, just as a husband is required to supply his wife with her sustenance in such a situation, he is also held liable for all her medical expenses (Ramah, *Even HaEzer* 119:6, *Chelkat Mechokek* 119:12).
+
 [^80]: As the Ra'avad mentions, in an instance when a woman has lost mental competence to the extent that she cannot safeguard the *get* she was given, all authorities agree that the divorce is not binding. Even when she has that degree of mental competence, there are many authorities that maintain that the divorce is not effective. The *Shulchan Aruch* (*Even HaEzer* 119:6) quotes the Rambam's view, as interpreted by the Ra'avad. The Ramah follows the more stringent views.

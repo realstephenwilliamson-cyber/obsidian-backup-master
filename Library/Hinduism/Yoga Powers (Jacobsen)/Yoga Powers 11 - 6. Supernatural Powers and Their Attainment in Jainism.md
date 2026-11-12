@@ -21,6 +21,7 @@ Chapter six
 Kristi L. Wiley In narratives of the Jains, there are accounts of individuals who have acquired a number of extraordinary, supernatural, miraculous, or magical powers (*ṛddhi*s/*siddhi*s), or extraordinary capacities or attainments (*labdhi*s).[^1] For example, according to the *Triṣaṣṭiśalākā* *puruṣacaritra* (*TṢŚC*) of Hemacandra (d. 1172), which contains the life-stories of sixty-three illustrious men in our current cycle of time, mind-reading knowledge (*manaḥ-paryaya*) became manifest in Mahāvīra, the twenty-fourth and final Tīrthaṅkara in our cycle of time, while he was observing a two-day fast following his renunciation.[^2] His chief mendicant disciple (*gaṇadhara*), Indrabhūti Gautama, went to Mount Aṣṭāpada in a moment by the power of traveling through the air with the speed of the wind. Although corpulent, he ascended the mountain to worship the Tīrthaṅkaras and instantly became invisible, astounding the ascetics staying there, who were eager to become 
 
 [^1]: *Labdhi* is the word used most often in Śvetāmbara sources and *ṛddhi* in Digambara texts. Thus, I have used these two words when referring to these powers in the respective sectarian traditions. The term *siddhi* is seldom used, except by Hemacandra. *Ṛddhi* means wealth and is also used in a material sense, as well as a wealth or abundance of powers. *Labdhi* is used in a number of other technical terms in Jainism. For example, the attainments that are a prelude to the soul’s acquiring a proper view of reality are *kṣayopaśama-labdhi*, *deśanā-labdhi*, and *prāyogya-labdhi*. See Padmanabh S. Jaini, *The Jaina Path of Purification* (Berkeley: University of California Press, 1979), 142-44. Also, the soul’s capacity to know sense-objects (*labdhiindriya*). See Nagin J. Shah, trans., *Jaina Philosophy and Religion* (Delhi: Motilal Banarsidass, 1998), 65-66. For other uses of *labdhi* in technical terms, see L. C. Jain, *The Labdhisāra of Nemicandra Siddhānta Cakravartī* (Jabalpur, Madhya Pradesh: Rani Durgavati University, 1994), p. 50.
+
 [^2]: Helen M. Johnson, trans., *Triṣaṣṭiśalākāpuruṣacaritra* (*TṢŚC*) or *The Lives of Sixty-Three Illustrious Persons* (Baroda: Oriental Institute, 1931-1962), vol. 6, p. 39. See also vol. 5, p. 393, where it says that mind reading arises at the initiation of all Arhats.
 
 *[p. 146]* ^pg159
@@ -32,9 +33,13 @@ Jain mendicants are also said to have certain of these powers. Vajranābha, a me
 Elders (*sthavira*) in Mahāvīra’s mendicant lineage are also accredited with having extraordinary mental and physical abilities. For example, Sthūlabhadra turned himself into a lion in order to impress his sisters, who had become Jain nuns and were coming to pay their respects to him. His preceptor, Bhadrabāhu, was so upset with Sthū
 
 [^3]: Johnson, *TṢŚC*, vol. 6, pp. 241-45. On the biography of Gautama, see Paul Dundas, “Becoming Gautama: Mantra and History in Śvetāmbara Jainism,” in *Open Boundaries: Jain Communities and Cultures in Indian History*, edited by John E. Cort (Albany: State University of New York Press, 1998), 43-44.
+
 [^4]: *TṢŚC* 1.845-880 and Johnson, vol. 1, pp. 75-80.
+
 [^5]: *Aupapātika Sūtra*, *Āgama Suttāṇi* (with *ṭīkā*), ed. Muni Dīparatnasāgara (Ahmedabad: Āgama Śruta Prakāśan, 2000), vol. 8, *sūtra* 15 (pp. 96-97). For an English translation of the mendicants in Mahāvīra’s lineage, see *Sacitra Aupapātika Sūtra* \[*Illustrated Aupapatik Sutra*\], eds. Amar Muni, Srichand Suras ‘Saras, ’ English trans., Surendra Bothara (Delhi: Padma Prakāśan, 2003), *sūtra* 24 (pp. 58-65). For a translation of the story of the *parivrājaka* Ambaḍa, see p. 260. For a discussion of it, see p. 154.
+
 [^6]: *Upāsakadaśāḥ Sūtra* (*Uvāsaga-dasāo*), ed., trans., and annotated by Dr. Chaganlal Shastri (Beawar, Rajasthan: Śrī Āgam Prakaśan Samiti, 1980), pp. 74. The story of Ānanda is the first of ten lectures. The portion of the story that relates to *avadhi-jñāna* is at 1.12-1.15. See also P. S. Jaini, *Jaina Path*, 233-40.
+
 [^7]: Dundas, “Becoming Gautama,” 40-41.
 
 *[p. 147]* ^pg160
@@ -44,8 +49,11 @@ labhadra for frightening his sisters that he forbade him from teaching certain p
 One day, holy Vajra, who had possessed from birth the power of remembering what he had once heard, extracted from the Great Knowledge section of the Behaviour Rules a spell to enable him to fly through the air, because he wished to benefit the holy congregation. Reverend Vajra said: “With this spell I have the power of flying from Rose-apple Tree Island (Jambūdvīpa) to the furthest island inhabited by human beings (Mānuṣottara).[^11]I must retain this spell, and not give 
 
 [^8]: R. C. C. Fynes, trans., *The Lives of the Jain Elders* (Oxford: Oxford University Press, 1998), canto 9, esp. verses 76-113.
+
 [^9]: Fynes, *Lives of Jain Elders*, canto 12, verses 137-160, esp. 157 and 160. According to Fynes (p. 273, note on verse 225), Jṛmbhaka gods are a type of Interstitial god who are the servants of Kubera, the god of wealth.
+
 [^10]: Fynes, *Lives of Jain Elders*, canto 12, verses 284-285.
+
 [^11]: The middle or terrestrial world (*madhya-loka*) is comprised of a series of concentric island-continents with the island on which we live, Jambūdvīpa, located in the center. On the third continent, Puṣkaradvīpa, there is a range of mountains called Mānuṣottara (‘furthest limit of human habitation’) that runs around the middle of it that defines the farthest limit of human habitation in the universe. Outside this ring of mountains, there are only animals. See Jaini, *Jaina Path*, 29-30, 127 and *TS* 3.7-3.16 (= SS 3.37).
 
 *[p. 148]* ^pg161
@@ -57,7 +65,9 @@ it to anyone else, for in the future other will be lacking in accomplishments an
 Likewise, the attainment of supernatural powers by *mantra*s will not be explored in any detail, except to compare supernatural powers in specific *mantra*s, such as the *sūrimantra* (*SūM*) with lists of powers in others sources. This subject has been discussed by Paul Dundas in his study of the *sūrimantra*, which is transmitted to *ācārya*s in the 
 
 [^12]: Fynes, *Lives of Jain Elders*, canto 12, verses 307-310.
+
 [^13]: Fynes translates *paṭa* as ‘carpet’, although some sort of woven cloth for sitting on may be the intent here.
+
 [^14]: Fynes, *Lives of Jain Elders*, canto 12, verses 311-334. For further details, see the section “Śvetāmbaras and Digambaras on Powers of Movement through the Air” (p. 176 below).
 
 *[p. 149]* ^pg162
@@ -65,8 +75,11 @@ Likewise, the attainment of supernatural powers by *mantra*s will not be explore
 Śvetāmbara image-worshiping (*mūrtipūjaka*) mendicant lineages (*gaccha*s) as part of the initiation ceremony. The homage portion of the *Vidyāpīṭha* section of the *sūrimantra* pays homage to the Jinas and to those with various types of supernatural powers, which, according to Dundas, “in its most extended form numbers fifty, although the maximum referred to in any published version of the *mantra* seems to be only forty.”[^15] He discusses the acquisition of supernatural powers through *mantra*s. “The invocations of the *sūrimantra* merge with these varieties of advanced spiritual attainments,” such as the ability to fly, curative properties of bodily wastes, and the ‘unfailing kitchen’. Thus, these invocations provided “a meditative focus for the gaining of magic and spiritual power, for each of these *labdhi* is envisaged as having twenty *vidyā*, or magic spells personified as deities, associated with it. Siṃhatilaka describes the practical effects brought about by meditation on the possessors of these *labdhi*. So, contemplation of the first, the omniscient Jinas, dispels cholera (*visūcikā*), while intoning the words of the second homage to the clairvoyant Jinas (*ohijiṇa*) cures fever.”[^16] He further observes that “the first section of the *sūrimantra* is, as its content would suggest, strongly associated with gaining magic powers. According to Rājaśekhara, after properly performing the various necessary rituals associated with it, the adept masters eight attainments or spells (*siddhi*, *vidyā*), which can benefit either himself or another.[^17] Further meditation on the twelve *labdhi* words of this section, in the contemplative form of articles of bodily decoration, can subsequently lead to kingship or mastery (*prabhutva*) and wealth… However, the real purpose of the *sūrimantra* for Rājaśekhara is not in question: ‘after recitation of the fifth section one hundred thousand times, the *sūri* becomes (*bhavati*) Gautama visibly (*pratyakṣa*), his pupils gain supernormal attainments (*labdhi*) and his lay followers wealth and family’.”[^18] 
 
 [^15]: Dundas, “Becoming Gautama,” 40.
+
 [^16]: Dundas, “Becoming Gautama,” 41.
+
 [^17]: Dundas, “Becoming Gautama,” 43 and 51, note 52. These are “bringing out wisdom or learning, curing illness, removing poison, freeing from captivity, creating prosperity, rendering fruitless another’s magic spell, destroying faults, and quieting the inauspicious.”
+
 [^18]: Dundas, “Becoming Gautama,” 43.
 
 *[p. 150]* ^pg163
@@ -75,7 +88,9 @@ Instead, the focus of this article will be on the attainment of *ṛddhi*/
 *labdhi* through one’s own actions. Śvetāmbara sources include selected canonical texts and their commentaries, including the *Āvaśyaka Niryukti* (ca. 200 ce), the *Viśeṣāvaśyakabhāṣya* of Jinabhadra Gaṇi (600 ce),[^19] as well as later textual sources, the *Yogaśāstra* of He- macandra (*YŚH*) (d. 1172) and the *Pravacanasāroddhāra* (*PSā*) of Nemicandra (eleventh century) and a commentary (1185 ce) by Siddhasenasūri (*PSāVṛ*). Digambara sources include the *Ṣaṭ* *khaṇḍāgama* (*ṢkhĀ*) (ca. 156 ce) and its commentary written by Vīrasena (816 ce) entitled *Dhavalā* (*Dh*) as well as the *Trilokaprajñapti* (*TP*) (ca. 500 ce). The *Tattvārtha Sūtra* (*TS*) (ca. 400 ce?), which is accepted by both sectarian traditions, and its commentaries, namely Śvetāmbara commentaries by Umāsvāti (*TSUm*) and Siddhasenagaṇi (ca. 760) and Digambara commentaries, Pūjyapāda’s *Sarvārthasiddhi* (*SS*) (ca. fifth century ce) and Akalaṅka’s *Rājavārtika* (*RV*) (eighth century ce), also contain information on these powers.[^20] Based on these sources, the attainment of supernatural powers will be investigated from three perspectives: 1) how they may be attained, 2) the types of powers that may be attained, and 3) who may attain them. Lists of the various powers in Śvetāmbara and Digambara sources follow the sections on how they may be attained. Powers of movement through the air are discussed in a separate section following these lists. The manner in which powers may be attained has two aspects: the action itself, such as practicing austerities,[^21] and the karmic consequences of that action, which are the efficient causes (*nimitta-kāraṇa*) for a transformation of the soul itself. Jain karma theory is a specialized area of study that can be intimidating to some because of its complexity and a myriad of technical terms. Although it is not the main 
 
 [^19]: The *Viśeṣāvaśyakabhāṣya* is a commentary on the *Āvaśyaka Niryukti*, which is a commentary on the *Āvaśyaka Sūtra*, one of the four basic scriptures (*mūlasūtra*s) in the subsidiary limb (*upāṅga*) of the Śvetāmbara canon. For these sources, I used portions quoted in Ācārya Mahāprajña, ed., *Cyclopaedia of Jain Canonical Texts*, part 1 (Ladnun: Jain Vishva Bharati Institute, 1996) under the term *labdhi*.
+
 [^20]: There is considerable debate regarding the sectarian identity of Umāsvāti as well as the dating of this work, with estimates ranging from the second to the fifth centuries ce. Digambaras attribute this work to a monk named Umāsvāmī and maintain that the *sūtra* and commentary were written by different individuals. The dating of the *sūtra* and commentaries follows Dalsukh Malvania and Jayendra Soni, eds., *Encyclopedia of Indian Philosophy*, vol. 10, pt. 1 (Delhi: Motilal Banarsidass, 2007). There are several authors named Siddhasena. Dhaky (p. 462) identifies him as the third Siddhasena, also known as Gandhahasti (ca. 690-770 ce).
+
 [^21]: *Tapas* is translated as ‘austerities’ throughout.
 
 *[p. 151]* ^pg164
@@ -89,6 +104,7 @@ Some of the powers discussed here are not unique to Jainism, but are, as Olle Qv
 Moreover, the splendour of this “Yogic Dance” \[transforms\] the \[seven\] magic powers, phlegm, excrement, secretion, “touch” and “every \[part of the body\]” into remedies and \[develops also\] miraculous powers \[such as\] the acquisition of an undivided sense-organ (*saṃbhinnaśrotṛ labdhi*). The fortune of the blossoming flowers of the \[fabulous\] wishing tree of *yoga* consists of \[supernatural attainments (*labdhi*), such as\] walking in the air (*cāraṇa*), the ability to curse and favour (*āśīviṣa*), 
 
 [^22]: Olle Qvarnström, trans., *The Yogaśāstra of Hemacandra* (YŚH), Harvard Oriental Series, vol. 60 (Cambridge, Mass.: Harvard University Press, 2002), 20.
+
 [^23]: *TṢŚC* 1.845 and Johnson, vol. 1, p. 75.
 
 *[p. 152]* ^pg165
@@ -96,7 +112,9 @@ Moreover, the splendour of this “Yogic Dance” \[transforms\] the \[seven\] m
 extraordinary perception (*avadhi*) and mind-reading (*manaḥ-paryaya*).[^24] In his commentary on this verse, Hemacandra does not elaborate on the term *yoga*, but in his translation of this text, Olle Qvarnström notes that “in accordance with classical Yoga philosophy, Hemacandra states that *yoga*, here equivalent to the ‘three jewels’ (*YŚH* I.15-18), is the cause of liberation (*mokṣa*) as well as of miraculous powers (*siddhi*/*aiśvarya*/*labdhi*).”[^25] Nevertheless, Hemacandra’s autocommentary (*YŚVṛ*) is informative for several reasons. He discusses the attainment of these powers in the context of the story of Sanatkumāra, a universal emperor (Cakravartin) who renounced the household life. He was afflicted by seven diseases, which included a skin disease that caused itching (*kacchū*), consumption (*śoṣa*), fever (*jvara*), and asthma (*śvāsa*), for seven hundred years. [^26] He undertook austerities that are difficult to endure, and although all supernatural powers were acquired by the greatness of his austerities, being indifferent to his body, he did not cure his own diseases. Two gods came to him and offered to cure him. He told them that he would accept their offer if they could cure spiritual diseases (*bhāva-roga*) in the form of anger (*krodha*), pride (*māna*), deceit (*māyā*) and greed (*lobha*), which produce endless pain in thousands of births. But if they had come to cure bodily diseases (*dravya-roga*), he told them to look at him, and he lifted his finger, which was oozing from a scab. Having smeared it with a drop of his phlegm (*kapha*), it quickly became golden, like copper with mercury. They praised him, saying that although he was accomplished in magical powers (*siddha-labdhi*), he endured the pain of diseases and practiced austerities. Here, Hemacandra associates the attainment of supernatural powers with austerities (*tapas*), but he provides no further details regarding what these austerities entailed, 
 
 [^24]: *YŚH* I.8-9 as translated by Qvarnström, p. 20. (*kaphavipruṇmalāmarśasarvauṣ adhimaharddhayaḥ / sambhinnaśrotolabdhiś ca yaugaṃ tāṇḍavaḍambaram//*). Although Hemacandra lists five, in a note Qvarnström inserts the word seven and references the Sanatkumāra story mentioned below.
+
 [^25]: Qvarnström, *YŚH*, p. 20, note 2.
+
 [^26]: The story of Sanatkumāra in *TṢŚC* is similar to the version in the commentary. In *TṢŚC* (Johnson, vol. 3, p. 194), it says, “Magic powers were acquired by him enduring all the trials hard to endure, indifferent to any expedient for relief. The seven magic powers, namely: phlegm (*kapha*), *vipruṣ*, dried perspiration (*jalla*), impurity (*mala*), excrement (*viṣṭā*), touch (*āmṛśa*), and also ‘everything’ (*sarva*), are called remedies.” Johnson provides a note on the difficulty of translating *vipruṣ*, *jalla,* and *mala* here. Cf. Śvetāmbara list, nos. 1-5 (pp. 159-160).
 
 *[p. 153]* ^pg166
@@ -106,10 +124,15 @@ although fasting and restrictions on food are the external austerities that are 
 Qvarnström also mentions that apart from Hemacandra’s commentary, the most extensive list of supernatural powers is found in Nemicandra’s *Pravacanasāroddhāra*.[^30] After listing twenty-eight *labdhi*s, Nemicandra states that “the soul acquires these *labdhi*s by particular transformations (*pariṇāma*) and by the power of specific austerities.”[^31] Although Siddhasenasūri defines these *labdhi*s in his commentary, he does not spell out the nature of the austerities undertaken to attain them nor does he give any details regarding karmic processes associated with their attainment. He merely states, “from the power of extraordinary austerities (*asādhāraṇa-tapas*) and from the power of auspicious, more auspicious, and most auspicious transformations (*śubha*, *śubhatara*, *śubhatama pariṇāma*) of the soul, there are various types of attainments (*labdhi*s) or special powers (*ṛddhi*s).”[^32] 
 
 [^27]: YŚVṛ 1.8.48.49, *TS* 9.19, as translated by Nathmal Tatia, trans., *Tattvārtha Sūtra: That Which Is* (London: Harper Collins, 1994), 232, lists six external austerities, four of which are associated with food: fasting, decreasing the amount of food consumed, restricting the varieties of food consumed, and giving up stimulating food. In earlier times, two additional external austerities were permitted for ascetics: meditating and practicing austerities in a solitary place, and mortification of the body by assuming various positions or by residing under a tree or in the open where the ascetic is subject to heat and cold. *TS* 9.20 lists the six internal austerities: penances for the transgression of vows (*prāyaścitta*), reverence for the teachings and teachers (*vinaya*), service to senior and sick ascetics (*vaiyāvṛttya*), study of the scriptures (*svādhyāya*), renunciation of attachment and passions (*vyutsarga*), and meditation (*dhyāna*).
+
 [^28]: *TS* 9.22.
+
 [^29]: *TS* 9.22, as translated by S. A. Jain, *Reality: English Translation of Śrimat Pūjyapāda’s Sarvārthasiddhi* (Madras: Jwalamalini Trust, 1960; reprint, 1992), 255.
+
 [^30]: Qvarnström, *YŚH*, p. 21, note 1.
+
 [^31]: *PSā*, 270 *dvāra*, 1492-1495 (p. 409).
+
 [^32]: *PSāVṛ*, vol. 64, p. 430.
 
 *[p. 154]* ^pg167
@@ -117,10 +140,15 @@ Qvarnström also mentions that apart from Hemacandra’s commentary, the most ex
 The list found in the *Pravacanasāroddhāra*, as Paul Dundas has observed, bears a striking similarity to a shorter list in the *Aupapātika Sūtra* (*AuSū*).[^33] In the description of supernatural powers attained by mendicants in Mahāvīra’s lineage, no details are given regarding the variety of *karma* associated with the acquisition of a specific *labdhi* nor does Abhayadevasūri comment on this.[^34] In the Hindi comments on this text, it states that “these *labdhi*s are manifested in the form of a power (*śakti*) in the soul when there is disassociation (*nirjarā*) of a specific type of *karma* by means of undertaking specific types of austerities.”[^35] The editors also observe that the *labdhi*s are effective only when the ascetic wishes and resolves to use them for the benefit of others, and they quote from the *Āvaśyaka Cūrṇi* “a *śramaṇa* (mendicant) endowed with *āmarṣauṣadhi* can cure a person or himself by his touch only when he resolves, ‘I wish to cure him’. As long as he does not resolve thus, this power does not become effective as a cure.” They also note, “however, in many scriptures there are mentions of instances where the smell or touch of excreta of some accomplished ascetics naturally cure many diseases.”[^36] However, in the account of the attainment of supernatural powers by a brahmanical renunciant (*parivrājaka*) named Ambaḍa,[^37] there is mention of certain *karma*s. Ambaḍa, along with his followers, retained their traditional non-Jain ascetic garb but paid homage to Mahāvīra and followed the conduct of Jain mendicants, undertaking the fast until death (*sallekhanā*) when food and water could not be obtained in the proper manner. Prior to this, Ambaḍa had undertaken severe bodily austerities, sitting on the scorching earth under the hot sun, and observing a series of two-day fasts, which caused auspicious transformations (*śubha pariṇāma*) of the soul with a purity that is associated with excellent determination (*adhyavasāya*) and auspicious *leśyā*s.[^38] At that time there was the *kṣayopaśama* of *karma*s that obstruct the attainments (*labdhi*) of power (*vīrya*), the power of transformation of the body (*vaikriya*), and clairvoyance (*avadhi-jñāna*). 
 
 [^33]: Dundas, “Becoming Gautama,” 41.
+
 [^34]: AuSū 15 (p. 96) = Bothara, *AuSū* 24, pp. 56-64.
+
 [^35]: Bothara, *AuSū*, p. 63 (comments in Hindi).
+
 [^36]: Bothara, *AuSū*, p. 64 (English translation).
+
 [^37]: For a translation of the story of Ambaḍa and his seven hundred followers, see Bothara, *AuSū* 82-100 (pp. 249-68). *Labdhi*s are mentioned at AuSū 92 (pp. 250-60).
+
 [^38]: *Leśyā* is a karmic stain. It is a particular color that a soul takes on that is indicative of its level of spiritual purity.
 
 *[p. 155]* ^pg168
@@ -130,6 +158,7 @@ The *Tattvārtha Sūtra* also states that the transformational body (*vaikriya-�
 The *Āvaśyaka Niryukti* and the *Viśeṣāvaśyakabhāṣya* do not give any specifics regarding *karma* and the acquisition of *labdhi*s, but state that they arise from destruction (*kṣaya*) and destruction-cum-suppression (*kṣayopaśama*) of *karma*. They list seventeen *labdhi*s, and the *Viśeṣāvaśyakabhāṣya* mentions that some think there are twenty, and 
 
 [^39]: *TS* 2.47-48 = *SS* 2.46). For a discussion on different views regarding the fiery body, see Tatia, *TS*, pp. 59-60.
+
 [^40]: Tatia (*TS*, p. 260) adds that this is because “mind reading is possible only for those ascetics who undertake very difficult austerities.”
 
 *[p. 156]* ^pg169
@@ -141,7 +170,9 @@ In his commentary on the *Sthānāṅga Sūtra*, which lists five types of perso
 Digambaras on the Attainment of *Ṛddhis* A series benedictory verses (*maṅgala-sūtra*s) paying homage to the spiritual victors (Jinas) and to the spiritual victors who have attained various supernatural powers (*ṛddhi*s) is found at the beginning of the *Vargaṇā-khaṇḍa*, the fourth *khaṇḍa* of the *Ṣaṭkhaṇḍāgama* “Scripture in Six Parts,” the earliest extant Digambara text.[^43] Vīrasena discusses 
 
 [^41]: As quoted in Mahāprajña, *Cyclopaedia of Jain Canonical Texts*, pp. 547 and 550.
+
 [^42]: *Sthānāṅga Sūtra* 5.2, *sūtra* 439-440. Abhayadevasūri defines *saṃbhinnasrotṛ* as the capacity of hearing all words simultaneously and *āśīviṣa* as the capacity to bless and curse. See 6 and 11 in the Śvetāmbara list (pp. 160, 161 below).
+
 [^43]: It is traditionally thought that knowledge contained in the Jain scriptures (Āgamas) is beginningless and uncreated, like the universe itself. After attaining omniscience (*kevala-jñāna*, each Tīrthaṅkara communicates these eternal truths to his head disciples (*gaṇadhara*s), who interpret his teachings and systematize them into the fourteen Pūrvas and the twelve Aṅgas. In the course of time, knowledge of the Pūrvas was gradually lost. According to Digambara tradition, Ācārya Dharasena, who knew two Pūrvas, was living alone near Valabhī and while seated in meditation realized that the teachings of Mahāvīra would soon be lost. He sent someone to the South to find two Digambara mendicants and he taught what he knew to these munis, whom he named Puṣpadanta and Bhūtabali. They returned to the South, and Puṣpadanta died after completing one book (*khaṇḍa*). Bhūtabali wrote the remainder of what they had learned in five more *khaṇḍa*s. It is said that this work was com-
 
 *[p. 157]* ^pg170
@@ -151,10 +182,15 @@ the forty-one *ṛddhi*s mentioned in these verses and quotes two verses that ar
 In the introduction to this volume, the editors have stated that “the same *sūtra*s are also found included in the *Yoniprābhṛta*, a work of Mantra Vidyā traditionally attributed to Dharasena, the teacher of Puṣpadanta and Bhūtabali.”[^49] They give no additional information 
 
 [^44]: *ṢkhĀ*, vol. 9, p. 58.
+
 [^45]: *SS* 3.36 and J. L. Jaini, trans. *Gommaṭsāra Jīva-Kāṇḍa* of Nemicandra. The Sacred Books of the Jainas, vol. 5. (Lucknow: The Central Jaina Publishing House, 1927. Reprint: New Delhi: Today & Tomorrow’s Printers & Publishers, 1990), verse 445.
+
 [^46]: E.g., “In that ocean (arose) the groups of excellent jewels, the mighty and illustrious munis, Gautama and others, endowed with the seven great supernatural powers.” *Epigraphia Carnatika*, vol. 2 (Mysore: Institute of Kannada Studies, University of Mysore, second revised ed., 1973), inscription 71 (64), p. 377.
+
 [^47]: *ṢkhĀ*, vol. 9, p. 128.
+
 [^48]: *ṢkhĀ*, vol. 9, p. 103; see also English Introduction (not numbered).
+
 [^49]: On Prābhṛtas (Pkt. Pāhuḍas) and their association with the Pūrvas, see Hiralal Rasikdas Kapadia, *A History of the Canonical Literature of the Jainas* (Surat, 1941), pp. 91-95 and M. B. Jhavery, *Comparative and Critical Study of Mantraśāstra* (Ahmedabad, 1944), 155-56. Kapadia states that “in the introduction (p. 6) to *Nirvāṇakalikā*, it is said: ‘Dharasena composed the *Yoni-prabhrita* about 135 ad (p. 94)’.” He cites sources (p. 93) claiming that one who knows this text can generate animate objects. He also mentions a narrative in *Prabhāvakacaritra* (*Pādalipta* *prabandha*, v. 115-127) about Rudradevasūri teaching the *Yoniprābhṛta* to his pupil and a fisherman overheard the portion dealing with the generation of fish. When the *ācārya* came to know that the fisherman was using this power, he dissuaded him from using it (p. 93). The *Prabhāvakacaritra* is a Śvetāmbara text by Prabhācandra, revised by Pradyumnasūri (1277 ce), which is considered to be a continuation of Hemacandra’s *Pariśiṣṭaparvan*. It contains the life-stories of twenty-two Jain *ācārya*s.
 
 *[p. 158]* ^pg171
@@ -188,6 +224,7 @@ the component parts of these become pleasant smelling and cure disease of others
 5\. *sarvauṣadhi*. *Sarva* means all, in the sense of the component parts of all bodily substances collected together, such as excrement, urine, hair, nails, and so forth. By this attainment they are transformed into medicines and become pleasant smelling. (*AuSū*) (*ĀvNir*) (*ViVṛ*) 6. *saṃbhinnaśrotṛ*. This attainment can be understood in three senses. It means the ability to hear with all parts of the body. Or it means that sense-objects that are grasped by the five sense organs are grasped by only one sense organ, namely the ear, in other words, the ear has the capacity to hear and to function as the other four sense-organs. A third interpretation is that the ear has the power to hear separately and distinctly the various sounds produced simultaneously by a variety musical instruments (e.g., conch, kettle drum) in the army of a Cakravartin up to a distance of twelve *yojana*s. (*AuSū*) (*ĀvNir*) (*ViVṛ*) 7. *avadhi-jñāna*. Visual knowledge of physical sense-objects by the power of the soul only, without the assistance of the sense organ of sight (clairvoyant knowledge). In the story of Ānanda in the *Upāsakadaśāḥ* he had taken the vows of a lay follower (*aṇuvrata*s), regularly practiced severe forms of fasting, and was undertaking the fast ending in death (*sallekhanā*). Because of auspicious mental effort (*śubha-adhyavasāya*), auspicious transformation (*śubha-pariṇāma*), mental coloration (*leśyā*) that was clear (*viśuddha*) this arose in him from the *kṣayopaśama* of *avadhi-jñānāvaraṇa karma*. In his notes to the Hindi translation, Dr. Chaganlal Shastri adds that this karmic 
 
 [^52]: This agrees with Hemacandra’s gloss at *YŚH* 1.8 of *vipruṣ* with *uccāra* and *purīṣa* (‘excrement’). However Johnson (*TṢŚC*, vol. 3, p. 194, note 257) also mentions that “Leumann in his Āvaśyaka-Erzählungen takes it to be ‘drops of water which fall from one’s mouth when speaking.’ He quotes from his commentary, ‘*prasravaṇādi bindavaḥ*’.”
+
 [^53]: In the list found in Sanatkumāra’s story in *TṢŚC* (Johnson, vol. 3, p. 194) both *jalla* and *mala* are mentioned, and Johnson observes that it is difficult to understand how they are different, given the definition in *PSā* and *YŚH* 1.8. She believes *jalla* may refer to dried perspiration when a distinction must be made.
 
 *[p. 161]* ^pg174
@@ -199,6 +236,7 @@ transformation was caused by austerities (*tapas*), vows (*vratas*), and restrai
 10\. *cāraṇa*. The ability of going to and returning from locations that are beyond the power of \[ordinary\] human beings. See Śvetāmbaras and Digambaras on Powers of Movement through the Air (p. 176). 11. *āśīviṣa*. The power of fearsome poison in a fang. By means of undertaking certain activities, such as severe forms of austerities, one 
 
 [^54]: *UpāSū* 1.12-1.15. and Shastri’s note, p. 74. For different levels of *avadhi*, see 1-3 in the Digambara list (p. 167) and Kristi L. Wiley, “Extrasensory Perception and Knowledge in Jainism,” in *Essays in Jaina Philosophy and Religion*, edited by Piotr Balcerowicz and Marek Mejor (Warsaw: Warsaw Indological Studies, vol. 2, 2002. Reprint, Delhi: Motilal Banarsidass, 2003), 92-97.
+
 [^55]: For further details, including a discussion about the *guṇasthāna*s in which *manaḥ-paryaya* may be attained, see Wiley, “Extrasensory Perception,” 97-106.
 
 *[p. 162]* ^pg175
@@ -212,7 +250,9 @@ is capable of undertaking activities like those of beings with poisonous fangs, 
 17\. Baladeva*.* The attainment of powers associated with becoming a Baladeva, one of the categories of illustrious men (*śalākāpuruṣa*s). They are half-Cakravartins, with half the status and power of a 
 
 [^56]: See also number 23.
+
 [^57]: Although not stated here, it is caused by *tīrthaṅkara nāma karma*. The powers here are the thirty-four *atiśaya*s, listed, with some variation, in Śvetāmbara and Digambara sources. For a translation of one of the Śvetāmbara lists, see Charlotte Krauss, ed., *Ancient Jaina Hymns*. Scindian Oriental Series, no. 2 (Ujjain: Scindia Oriental Institute, 1953), 20-22. For a translation of all thirty-four *atiśaya*s, see pp. 20-23. Digambara lists contain two *atiśaya*s of interest here: *ākāśagamana* and supremacy over *vidyā*s. See Jinendra Varṇī, *Jainendra Siddhānta Kośa* (Delhi: Bhāratīya Jñānapīṭha, 1998), vol. 1, p. 137.
+
 [^58]: On *śalākāpuruṣa*s, see John E. Cort, “An Overview of the Jaina Purāṇas,” in *Purāṇa Perennis: Reciprocity and Transformation in Hindu and Jaina Texts*, edited by Wendy Doniger (Albany: State University of New York Press, 1993), 195-202,
 
 *[p. 163]* ^pg176
@@ -241,6 +281,7 @@ The following are associated with powers of the transformational body (*vaikriya
 *mahimā*: making one’s body large, equal to the size of Mount Meru. 3) *laghutva/laghimā*: making one’s body light in weight, like the wind. 4) *gurutva/garimā*: making one’s body heavy, like a thunderbolt. 5) *prāpti*: the ability to stretch the limbs of the body to a place that one desires while remaining seated on the earth. 6) *prākāmya*: the ability to move through solid earth as if it were water and the ability of walking on water as if it were dry land. 7) *īśitva*: power over the three worlds. 8) *vaśitva*: the ability to overpower or control other living beings. 9) *apratighātitva*: the ability to come and go without resistance, having entered a solid object, such as a mountain. 10) *antar* *dhāna*: the ability to attain the state of invisibility. 11) *kāmarūpitva*. The ability to take on simultaneously various forms at will.[^60] 27. *akṣīṇa-mahānasī*. With a small amount of food placed in the bowl \[of a mendicant\] hundred of thousands of mendicants are satisfied; nevertheless, the bowl remains full. It becomes empty only when consumed by the mendicant having this attainment. Hemacandra associates this with the *gaṇadhara* Gautama. (*AuSū*) (*ViVṛ*) {*antarāya karma*}[^61] 28. *pulāka*. By the power of this attainment, a mendicant is able to battle single-handed the army of a Cakravartin for the protection of the mendicant community (*saṅgha*) and its teachings. The reference here is to the first among the five classes of mendicants at *TS* 9.48 (= *SS* 9.46). *Pulāka* means grain that is empty or blighted, devoid of pith. According to Siddhasenagaṇi’s commentary, this type of monk 
 
 [^60]: I have included corresponding terms found in *TP*. Cf. with the standard list of eight *siddhi*s mentioned in Patañjali’s *Yogasūtra* (III.45), and commentaries: *aṇimā*, *laghimā*, *mahimā*, *prāpti*, *prākāmya*, *vaśitva* (mastery, ability to control elements and other beings), *īśitṛtva* (ability to control outward appearance, disappearance, and rearrangement of elements), and *yatra-kāmāvasāyitva* (ability to manipulate elements according to desire). See Edwin F. Bryant, trans., *The Yoga Sūtras of Patañjali* (New York: North Point Press, 2009), 383-85, and James Naughton Woods, trans., *The Yoga-System of Patañjali* (Cambridge, Mass.: Harvard Oriental Series, vol. 17, 1914. Reprint Delhi: Motilal Banarsidass, 1988), 278-80.
+
 [^61]: Although not mentioned in the commentary, the sub-variety might be *dāna-antarāya*, whose operation hinders dispensing of alms.
 
 *[p. 166]* ^pg179
@@ -296,6 +337,7 @@ in all their modes are known. *TP* contains only *avadhi-jñāna* and *kevala-j�
 head, face, throat, etc., or hair on the upper lip, one knows happiness, etc., in the past, present, or future. 6) by bodily marks: seeing marks such as the lotus or thunderbolt on the palms of hands and feet, one knows happiness, etc., in the past, present, or future.[^65] 7) by indicatory marks (*cihna*): seeing marks on palaces, in towns or in the countryside, such as clothing that is torn or weapons that are broken, by means of (that were caused by) *deva*s, *dānava*s, *rākṣasa*s, humans, or animals, one knows various types of auspicious and inauspicious things, such as death, arising in the past, present, or future. 8) by dreams (*svapna*): seeing auspicious dreams, such as a dream in which the sun or moon enters one’s own lotus-face, or seeing inauspicious dreams, such as going to a foreign country, riding on a donkey or camel, or the rubbing of ghee and oil, that appeared while a person was sleeping without disturbances from the three humours; and predicting happiness or sorrow in the past, present or future based on these dreams. It is of two types. If it is based on signs alone, such as only seeing an elephant or a lion, then it is called *cihna-svapna*, but if it is associated with all aspects, then it is called *māla-svapna*. 14. *vikriya*. The power to change or transform the body in various ways. It is attained by ascetics from special types of austerities (*tapas*). The *TP* has the same eleven as those in the *PSā* commentary; *Dh* has eight (not *garimā*, *īśitva*, *apratighāta*, and *antardhāna*.[^66] However, 7) *īśatva*: one has power over all humans/all the worlds and *vaśitva*: a multitude of living beings falls under a person’s power/influence. (*TP*) Or, the power of feeding (*bhojana*) all living beings, likewise, villages, cities, and small villages. (*Dh*) Or, the power to change oneself, according to desire, into the form of a human being, an elephant, lion, a horse, and so forth. (*Dh*) 11. *kāmarūpitva*: one is able to create many 
 
 [^65]: Special marks, such as the conch, hook, and lotus, that are found on the bodies of Tīrthaṅkaras and on those of other special individuals, such as Cakravartins, Baladevas, and Vāsudevas are indicative of *ṛddhi*s. According to *Dh* 5.5.101 (vol. 13, p. 365) they are caused by *śubha nāma karma*.
+
 [^66]: A story reminiscent of the Vāmana *avatāra* of Viṣṇu is found in the Digambara *Harivaṃśa Purāṇa*, chapter 20. A minister named Bali obtained a boon from King Padma that he could rule Hastināpura for a week and began harassing the Jain mendicants staying there. The muni Viṣṇu Kumāra, who was the younger brother of the king, assumed the form of a brahmin and went to where Bali was preparing for a sacrifice. Bali told him that he could ask for anything that he wanted, and Viṣṇu Kumāra said he would like land equal to three steps. He then made his body so large that his first step was on Sumeru Mountain and his second on the Mānuṣottara mountain range, which marks the farthest limit of human occupation.
 
 *[p. 171]* ^pg184
@@ -390,9 +432,13 @@ In Hemacandra’s narrative, it is unclear how Indrabhūti Gautama acquired the 
 What is described in all of these accounts is the speed and the distance traveled in one or two jumps, either sideways (e.g., from their location on Jambūdvīpa to Rucakadvīpa) or upwards (e.g., to the summit of Mt. Meru). 
 
 [^70]: Johnson (*TṢŚC*, vol. 1, p. 79, note 114) gives a description of these: *jaṅghā-cāraṇa*: “He goes to Rucakavaradvīpa or to the top of Meru in one jump, but he requires two for the return in both cases because his power diminishes from negligence arising from zeal for practicing his art, with the resultant decrease in time devoted to penance by which he acquired the art.” *vidyā-cāraṇa*: “He goes to Mānuṣottara in one jump and arrives at Nandīśvara with the second, worships the shrines, and returns in one jump. It takes two jumps to reach the top of Meru, and only one to return. This is because learning becomes stronger with practice.”
+
 [^71]: *BhSū* 20.9 (pp. 304-5). See also Deleu, *Viyāhapannatti*, 258.
+
 [^72]: *TṢŚC* 10.9.184.
+
 [^73]: See p. 147 above.
+
 [^74]: See pp. 147-148 above.
 
 *[p. 178]* ^pg191
@@ -456,6 +502,7 @@ nating in either the suppression or destruction of harmful (*ghātiyā*) *karma*
 Observations on Attainments In looking over the lists in Śvetāmbara and Digambara sources, certain patterns emerge. The ordering of the list in the *Ṣaṭkhaṇḍāgama*, which appears to have set the pattern for lists found in subsequent Digambara texts, is in approximate order of spiritual status because this is a *maṅgala-sūtra*. Here, those who have *ṛddhi*s associated with intellect are mentioned first while those with healing powers and powers of transformation of foods, etc., are mentioned last. Although the ordering of powers in the Śvetāmbara *sūrimantra* is not identical with the Digambara lists, it does place the three *avadhi*s first, followed by *bīja-* and *koṣṭha-buddhi*, *padanusāri*, and *saṃbhinnaśrotṛ*. The lists in the Śvetāmbara canonical texts and commentaries and in the *Triṣaṣṭi* *śalākāpuruṣacaritra* are in the context of narratives, and here the powers of healing are emphasized. As mentioned earlier, Digambara sources have a fixed order for the seven or eight main *ṛddhi*s, while Śvetāmbara sources do not follow this pattern. In looking at these lists, it would be reasonable to assume that one of the main categories, *tapas*, is not found in Śvetāmbara sources. However, this is not the case, for *ugra-tapas* and *dīpta-tapas* are found in some versions of the *sūrimantra*.[^82] Given the emphasis on fasting in Jainism, the acquisition of these powers is important to mendicants, but it may be the case that lay people are motivated to become followers of munis who demonstrate powers that are of direct benefit to them, such as curing diseases and providing unlimited quantities of food. Thus, one needs to consider the context in which these powers are mentioned and recognize
 
 [^81]: *TS* 9.39 = *SS* 9.37; also *TS* 9.40 = *SS* 9.37, where it is said only those who know the Pūrvas can perform this meditation.
+
 [^82]: *SūM*, p. 3, line 7.
 
 *[p. 185]* ^pg198

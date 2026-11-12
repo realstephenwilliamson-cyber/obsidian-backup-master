@@ -116,64 +116,122 @@ If the blood has been cast [upon the altar] and afterwards some of the breads we
 **18.** If he slaughtered [the animal designated as a thanksgiving-offering] and its slaughter was disqualified because of an improper intent concerning the time or the place [where the sacrifice will be offered or eaten][^55] the bread is sanctified.[^56] If [the animal] is discovered to have a disqualifying physical blemish, it was *tereifah*,[^57] or it was slaughtered with an improper intent,[^58] the bread is not consecrated. These laws also apply with regard to the ram brought by a nazirite.[^59] ^12-18
 
 [^1]: See *Hilchot Temidim UMusafim* 8:1.
+
 [^2]: *Ibid.* 5:1.
+
 [^3]: And offered on the day following Pesach; *ibid.* 7:12; *Hilchot Ma'aseh HaKorbanot* 12:5.
+
 [^4]: See *ibid.* 9:17-22.
+
 [^5]: *Ibid.*:23.
+
 [^6]: The animal offered with the loaves.
+
 [^7]: The communal peace-offerings brought on Shavuot.
+
 [^8]: Offering the frankincense is thus equivalent to offering the blood on the altar. See also Chapter 11, Halachah 17.
+
 [^9]: In all instances, however, they are considered sanctified to the extent that they must be kept overnight and then destroyed by fire.
+
 [^10]: According to the *Kessef Mishneh*, the intent is that even the reception of the blood was not performed in an acceptable manner. See the following note.
+
 [^11]: Hence since the sacrifices were slaughtered in an acceptable manner, the accompanying offerings should be offered on the altar. The Ra'avad notes that this ruling is the subject of a difference opinion between our Sages in *Menachot* [[Menachot 79#79a|79a]]. Rabbi Elazer ben Shimon maintains that for an accompany offering to be offered, the blood of the sacrifice must be received in an acceptable manner. Rabbi Yehudah *HaNasi* differs and maintains that as long as the slaughter is acceptable, even if the blood was not received in an acceptable manner, the accompanying offering should be offered.  
     The Ra'avad maintains that the Rambam follows Rabbi Elazer ben Shimon's ruling. The *Kessef Mishneh* and R. Yosef Corcus, by contrast, elaborate to show that he accepts the position of Rabbi Yehudah *HaNasi*. Moreover, they cite the Rambam's ruling in Chapter 17, Halachah 18, as proof that this is the Rambam's understanding here. The *Kessef Mishneh* does, however, explain a way to interpret the passage according to the Ra'avad's view.
+
 [^12]: I.e., by definition an accompanying offering may not be sacrificed alone, only with a sacrifice, and in this instance, the sacrifice has been disqualified.
+
 [^13]: And does not have an accompanying offering to be brought with it.
+
 [^14]: The priests must wait until the next morning to burn them. For until a sacrifice is actually disqualified, it is forbidden to destroy it. See the Rambam's Commentary to the Mishnah (*Menachot* 7:4).
+
 [^15]: I.e., the court takes into consideration all the possible eventualities that might crop up and has the accompanying offering brought with those possibilities in mind. Hence if the sacrifice is disqualified, the basis on which the accompanying offering was brought is not nullified.
+
 [^16]: For the court does not make such stipulations about them.
+
 [^17]: I.e., when one sacrificed it with the intent that it was another type of offering, e.g., one slaughtered an animal consecrated as a burnt-offering with the intent that it was a peace-offering.
+
 [^18]: For with the exception of a sin-offering, sacrifices are acceptable if slaughtered with such a mistaken intent. And there are no accompanying offerings for a sin-offering.
+
 [^19]: See the parallels to similar questions involving a sin-offering in Chapter 4, Halachah 4.
+
 [^20]: I.e., the 40 breads offered together with a thanksgiving-offering.
+
 [^21]: The apparent meaning of the Rambam's words here and in his Commentary to the Mishnah (*Menachot, loc. cit.*) is that bread should be brought when offering both of these sacrifices. *Shoham VeYashpah*, however, cites *Menachot* [[Menachot 79#79b|79b]] which states that when both a thanksgiving-offering and an animal separated as a replacement for it are both present before us, the breads should be offered with either one and the other, offered without bread. Even such an interpretation, however, is not appropriate with regard to an animal onto which the holiness of a thanksgiving-offering was transferred. The Rambam's ruling here is also slightly problematic when compared to the following halachah.
+
 [^22]: That bread is or is not required for both of the offerings in the above situations.
+
 [^23]: I.e., he did not designate a specific animal as a thanksgiving-offering, but instead, undertook the responsibility to bring such a sacrifice.
+
 [^24]: *Rambam LeAm* explains that when an animal is designated as a thanksgiving sacrifice and is lost, there is no need to bring another instead of it. Hence the second thanksgiving-offering is considered as an independent sacrifice and bread is required for it independently.  
     With regard to an animal upon which the holiness of the thanksgiving offering was transferred, *Rambam LeAm* questions the Rambam's ruling, because seemingly, bread should not be required for such a sacrifice after the first animal was offered. Based on Halachah 13, Rav Yosef Corcus maintains that there is a printing error here and that in no instance is bread required when offering an animal on which the holiness of a thanksgiving-offering was transferred.
+
 [^25]: I.e., in any situation; see *Hilchot Temurah* 4:1.
+
 [^26]: *Rambam LeAm* maintains that this line refers only to the offspring of a thanksgiving-offering.
+
 [^27]: This law applies when the person made a vow to bring a thanksgiving-offering, accepting responsibility for the sacrifice.
+
 [^28]: The second animal was set aside in place of the first. Since the owner fulfilled his obligation with the first, there is no obligation to bring bread with the second.
+
 [^29]: For it does not have a connection to the first. Therefore it is considered as a new thanksgiving-offering which requires bread.
+
 [^30]: For the third animal takes the place of the second.
+
 [^31]: For it is not associated with the third animal.
+
 [^32]: Because the middle one is associated with both of the others. It was set aside instead of the first and the third was set aside instead of it.
+
 [^33]: For if there are funds left over from the purchase of a sacrifice, the money should be used to purchase an offering of the same type, as stated in Chapter 5, Halachah 9. Nevertheless, the additional thanksgiving-offering does not require bread as reflected by Halachah 8.
+
 [^34]: For it must be offered according to the requirements appropriate for thanksgiving-offerings.
+
 [^35]: I.e., the animal originally set aside as a thanksgiving-offering should be offered for that purpose together with the bread and the money should be used to purchase an additional thanksgiving-offering.
+
 [^36]: Since the money was originally set aside for this purpose, it should be used for the primary offering.
+
 [^37]: Setting aside a specific animal and bread.
+
 [^38]: Since he did not accept an obligation to bring a sacrifice upon himself, but rather designated an animal as a sacrifice, if that animal is lost, he is under no obligation. The fact that there is bread remaining does not obligate him as the Rambam explains.
+
 [^39]: Because the bread is referred to as a thanksgiving-offering, but the offering is not referred to as bread (*Menachot* [[Menachot 80#80a|80a]]).
+
 [^40]: Designating an animal to be offered for that purpose.
+
 [^41]: And bread should not be brought with such an offering.  
     As mentioned above, there appears to be a contradiction between this halachah and Halachah 8, for Halachah 8 appears to imply that bread is required for an animal to which the holiness of a thanksgiving offering was transferred if the original animal had been designated for the sacrifice. For this reason, Rav Yosef Corcus maintains that there is a printing error in Halachah 8.
+
 [^42]: Which requires bread.
+
 [^43]: At which time, it should be sold and the proceeds used to purchase another thanksgiving-offering and its bread. The Ra'avad maintains that the person should bring another thanksgiving-offering and bread from his own resources and the proceeds from the sale of the blemished animal should be used to purchase a thanksgiving-offering without bread. The *Kessef Mishneh* justifies the Rambam's ruling, while the *Chacham Tzvi* (Responsum 24) reinforces the Ra'avad's objection.
+
 [^44]: The breads accompanying the thanksgiving offering must be whole. The Rambam is speaking about an instance when one of these breads became broken between the slaughter of the animal and the presentation of its blood on the altar.
+
 [^45]: *Menachot* [[Menachot 12#12b|12b]] states that the High Priest's forehead plate causes those impure to be considered acceptable and the acceptability of those taken out of the Temple Courtyard is derived through Talmudic logic.
+
 [^46]: This is speaking about an instance when all of the loaves were disqualified in this manner. If only some of the loaves were disqualified, they should be replaced.
+
 [^47]: Rav Yosef Corcus and others question the Rambam's ruling, noting that he is equating the loaves becoming impure or taken outside the Temple Courtyard with their being broken when at the beginning of the halachah, he himself mentioned the difference between these categories. Also, this ruling would apparently contradict the ruling in Chapter 17, Halachah 13. Rav Yosef Corcus suggests that the Rambam's statements are referring to a situation where all the loaves became impure or were taken out of the Courtyard.
+
 [^48]: And instead must bring another thanksgiving-offering. The commentaries note that the Rambam's ruling is in direct contradiction to the standard printed text of *Menachot* [[Menachot 46#46b|46b]]. They suggest that perhaps the Rambam had a different version of that Talmudic passage.
+
 [^49]: A total of 40 loaves (10 of four different types) are offered with the thanksgiving offering. One loaf of each type is given to a priest (*Hilchot Ma'aseh HaKorbanot* 9:12, 17-18).
+
 [^50]: Since only 40 are required, the additional 40 are not consecrated.
+
 [^51]: The commentaries question why the loaves must be redeemed. Since the person stated that only 40 are being consecrated, why is it necessary to redeem the other 40? Among the answers given is that originally, when setting aside the loaves, he mentioned that all the loaves would be consecrated.
+
 [^52]: This term refers to the wall that surrounds the Temple Mount. The term relates to the phrase ([[Daniel 01#^1-5|Daniel 1:5]] : *patbag hamelech*, "the food of the king" [the Rambam's Commentary to the Mishnah (*Menachot* 7:3)].
+
 [^53]: In his Commentary to the Mishnah (*ibid.*), the Rambam explains that although the Torah states that the thanksgiving offering should be brought "on the bread," the intent is not they must be physically adjacent to each other. It is sufficient that they be close.
+
 [^54]: For in order to be associated with the sacrifice, the bread must be baked at the time that the animal is slaughtered.
+
 [^55]: See the following chapters which discuss these issues at length.
+
 [^56]: Because the disqualification came at the time of the slaughter of the animal and not beforehand. Since the bread becomes sanctified, it is considered as *piggul*
+
 [^57]: An animal that will die within a year. In these instances, since the animal was never acceptable for sacrifice - even if that was not discovered before its slaughter - the breads are not consecrated.
+
 [^58]: I.e., it was slaughtered with the intent of it being offered as another type of sacrifice. In this instance, even though the disqualifying factor took place at the time the animal is slaughtered, the bread is disqualified. For based on [[Torah 25 - Tzav#^7-12|Leviticus 7:12]], the *Sifra* states that for the bread to be consecrated, the animal must be slaughtered for the sake of a thanksgiving-offering.
+
 [^59]: I.e., for this offering is also accompanied by bread. The same concepts also apply with regard to the two loaves brought on Shavuos and the two lambs brought at that time. See Chapter 17, Halachah 18.

@@ -23,7 +23,9 @@ converted: 2026-10-07
 Within the first few weeks of November 1640, at the beginning of the Long Parliament, Thomas Hobbes left England for the continent.[^1] Early proceedings, particularly Pym’s long catalogue of grievances on 7 November and the impeachment of Thomas Wentworth, Earl of Strafford, seem to have inspired much fear in Hobbes. In a letter written several months later, dated 12 April 1641 and addressed to Lord Scudamore, Hobbes described his abrupt departure: ‘I went to your Lordship’s house in St Martin’s, but found no body at all there, and thereupon made account to come again a day or two after, but in the meantime I was seized so violently with a resolution of coming hither, as I departed within 3 days after, making nobody acquainted but my Lord, and one of his servants who was to send the little money I had after me by exchange and to see my trunk shipped.’[^2] Hobbes then explained: ‘The reason I came away was that I saw words that tended to advance the prerogative of kings began to be examined in Parliament. And I knew some that had a good will to have had me troubled, and might for any thing I saw in their honesties make both the words and the witnesses. Besides I thought if I went not then, there was nevertheless a disorder coming on that would make it worse being there than here.’[^3] As Noel Malcolm has suggested, Hobbes might have been concerned that his ‘little treatise’ of 1640, the *Elements of Law*, would be denounced in the same way that some royalist sermons had been. Hobbes’s later claim that his book was written to vindicate the absolute power of the king against those who would deprive him of it would lend credibility to the view that he feared trouble for writing the *Elements of*
 
 [^1]: Perez Zagorin offered the plausible approximate date of 15 November: ‘Thomas Hobbes’s Departure from England in 1640: An Unpublished Letter’, *HJ* 21 (1978): 158.
+
 [^2]: *Corr*., i, 114.
+
 [^3]: *Corr*., i, 115. Malcolm, reading D’Ewes’s journal and other contemporary accounts, supposes that this was a reference to Pym’s denunciation of ‘frequent preaching for monarchy’ by Dr Beale and others in the 7 November session. In August 1641, Beale, master of St John’s, Cambridge, faced articles which, among other things, complained that he had preached against liberty of subjects. *Corr*., i, 115–16.
 
 *[p. 69]* ^pg89
@@ -33,10 +35,15 @@ Within the first few weeks of November 1640, at the beginning of the Long Parlia
 These autobiographical reflections of Hobbes must be taken with a grain of salt. They were written in the 1660s and 1670s, when he was much concerned to portray himself as a perfectly virtuous royalist. His claim that the Short Parliament might have persecuted him if it had not been dissolved
 
 [^4]: *Considerations*, *EW*, iv, 414.
+
 [^5]: *Considerations*, *EW*, iv, 414.
+
 [^6]: For Sibthorpe’s and Manwaring’s controversial sermons and the response of parliament, see Hillel Schwartz, ‘Arminianism and the English Parliament, 1624–29’, *JBS* 12, 2 (1973): 59–68.
+
 [^7]: *Brief Lives*, i, 334. See also Philip Milton, ‘Hobbes, Heresy, and Lord Arlington’, *HPT* 14, 4 (1993): 501–2 and J. P. Sommerville, *Politics and Ideology in England, 1603–1640* (London and New York: Longman, 1986), 127–31.
+
 [^8]: Prose Life, *Elements of Law*, ed. Gaskin, 247. For the dating and circumstances of this autobiography see Gaskin, *ibid.*, xlix.
+
 [^9]: Prose Life, *Elements of Law*, ed. Gaskin, 247. In the Latin verse autobiography, ‘Vita Carmine Expressa’, Hobbes does not relate anything to revise the account. See Verse Life, *Elements of Law*, ed. Gaskin, 254–64.
 
 *[p. 70]* ^pg90
@@ -44,8 +51,11 @@ These autobiographical reflections of Hobbes must be taken with a grain of salt.
 is only plausible if the *Elements of Law* had been circulating well before its dedication (9 May 1640). But if that treatise was being read by MPs in April, and if it had ‘occasioned much talk’, as Hobbes later claimed, then why do we find no mention of Hobbes or his book in any of the diaries of the Short Parliament?[^10] Hobbes’s apprehension of the Long Parliament is more plausible. Quentin Skinner has suggested that Hobbes’s decision to flee was determined by his fear of the consequences of his close relationship with the Cavendishes, both the third earl of Devonshire and Newcastle.[^11] As Newcastle had, by November 1640, shown signs of being a hardline supporter of the king against the house of commons, and as Hobbes had dedicated to Newcastle a book that might be construed as anti-parliamentarian in intent, Hobbes might have had reason to fear being attacked by some MPs. Hobbes may well have intended his treatise to support the king, but one can doubt that MPs would have concerned themselves with the private scribbling of a servant of peers. It seems more likely that Hobbes suffered a little from delusions of grandeur and a bit of paranoia. But even if his fears were not well warranted, it is not impossible that he had them. Although the cool and theoretical *Elements of Law* could not have marked him a royalist in the same way that the unmistakably partisan polemic *Serpent-Salve* would have marked Bramhall, those few MPs who might have got their hands on it might still have read the treatise as Hobbes’s clever attempt to justify the king’s actions – and censure his critics in and out of parliament.[^12] But I would emphasise that we cannot, in the first place, assume that any of the parliamentary adversaries of the king read the manuscript. Furthermore, Noel Malcolm has suggested that in the summer of 1640 Hobbes may have been contemplating a move to France as much for ‘intellectual stimulus’ as for safety from parliamentary persecution. Hobbes’s finances were in very good shape at this time: ‘In September 1640 Hobbes recovered £100 which he had asked the steward of Chatsworth to invest for him; he also had £400 banked with the Cavendish family (at 6 per cent interest), so if he withdrew all his money on deposit he must have felt financially independent enough to embark on a long period of residence abroad.’[^13] It is quite possible, then, that
 
 [^10]: Milton, ‘Hobbes, Heresy, and Lord Arlington’, 502.
+
 [^11]: Quentin Skinner, *Reason and Rhetoric in the Philosophy of Hobbes* (Cambridge: Cambridge University Press, 1996), 229. But at the time of the Short Parliament the royalism of Devonshire was not yet so apparent, or relevant. In the Long Parliament he was to vote against Strafford’s impeachment, and in July 1642 he was dismissed from the house of lords and order was made for his imprisonment. Victor Stater, ‘William Cavendish, third Earl of Devonshire’, *ODNB*.
+
 [^12]: I have emphasised that it *might* have been so construed, for, as I have argued in chapter 2 (52–4), the *Elements of Law* was not explicit royalist polemic or specific commentary on speeches delivered in the Short Parliament.
+
 [^13]: Noel Malcolm, ‘A Summary Biography of Hobbes’ in *Cambridge Companion to Hobbes*, ed. Tom Sorell (Cambridge: Cambridge University Press, 1996), 28.
 
 *[p. 71]* ^pg91
@@ -55,9 +65,13 @@ Hobbes’s departure for Paris in 1640 was much more intellectual than political
 Although Hobbes had gone to Paris by the end of 1640, he probably kept himself well informed of the escalating conflict back in England. And within only two years of dedicating *Elements of Law* he had dedicated a similar treatise, *De Cive*. It is not obvious why Hobbes thought that a rendition of his ‘civil science’ at this particular time would be any more pertinent in an ancient tongue. Like the *Elements of Law*, it did not directly address any topical issues in his native land; like the *Elements of Law*, it was concerned with general principles of human nature, society and government, not with the particular details and peculiar personalities of the current situation.[^15] *De Cive* did not enter into the discourse between parliamentarians on the one side and Charles I on the other.[^16] It did not, for example, offer any criticism of the leaders of the house of commons for the legally dubious impeachment, attainder and execution of Strafford in the spring of 1641. The book also neglected the opportunity to criticise these leaders for impeaching and imprisoning Bramhall’s other friend and colleague, Laud. Just as he had in the *Elements of Law*, Hobbes in *De Cive* systematically avoided all explicit reference to men and affairs in England. In the dedicatory epistle to the third earl of Devonshire, dated Paris, 1 November 1641, he noted: ‘I have paid careful attention through the whole length of my discourse not to say anything of the civil laws of any nation, i.e. not to approach the shores which are sometimes dangerous because of rocks, sometimes because of *current storms*.’[^17] In chapter xiii he reiterated: ‘It is not my plan to descend to particular points in which princes may do things differently from each other; this must be left to experts in the practical politics of individual commonwealths.’[^18]
 
 [^14]: Noel Malcolm, ‘Thomas Hobbes’, *ODNB*. This circle of Mersenne is described below, 80–1, and in the Conclusion, 299–300.
+
 [^15]: Some indication of how scientific and abstract and non-partisan both the *Elements of Law* and *DC* were can be seen in the publication of them by non-royalists and anti-royalists in the late 1640s and 1650s. See the seminal articles of Quentin Skinner: ‘The Ideological Context of Hobbes’s Political Thought’, *HJ* 9, 3 (1966): 286–317; ‘Conquest and Consent: Thomas Hobbes and the Engagement Controversy’ in *The Interregnum: The Quest for Settlement,* *1646–1660*, ed. G. E. Aylmer (London: Macmillan, 1972), 79–98; and ‘The Context of Hobbes’s Theory of Political Obligation’ in *Hobbes and Rousseau: A Collection of Critical Essays*, eds. Maurice Cranston and Richard S. Peters (New York: Doubleday, 1972), 109– 42. Hobbes himself later noted that ‘rebels’ in England exploited *De Cive* for their own purposes. In his verse autobiography he observed: ‘those / Commend it too, whom I do most oppose.’ Verse Life, *Elements of Law*, ed. Gaskin, 258.
+
 [^16]: Thus, I disagree with Jeffrey Collins who has asserted that *DC* was ‘a piece of political commentary specifically responding to the first year of the Long Parliament’. *Allegiance of Hobbes*, 61.
+
 [^17]: Emphasis added.
+
 [^18]: *DC*, xiii.1.
 
 *[p. 72]* ^pg92
@@ -67,7 +81,9 @@ Thus, Hobbes declined to comment on the ‘current storm’ raging in England. *
 Incidentally, in the second edition of *De Cive*, published in 1647, Hobbes seems to have become more interested in reaching a wider audience, perhaps even some of his compatriots back home. There Hobbes was to come much closer to explicit reference to issues involved in the ‘current storms’. A few passages of this preface might even be construed as direct commentary on recent political events in England. It would not be difficult, for example, to read the following as a censure of some members of the commons: ‘How many rebellions have been caused by the doctrine that it is up to private men to determine whether the commands of kings are just or unjust, and that his commands may rightly be discussed before they are carried out, and in fact ought to be discussed?’[^21] Nevertheless, even in the second edition of *De Cive* Hobbes remained careful to keep aloof from the contemporary events and controversial issues in his homeland. His subsequent remarks would even allow a tendentious reader to suppose that the author considered the houses of parliament sovereign partners in an aristocratical government (king-in-parliament, with king merely *primus inter pares*) – not a rebellious group of subjects usurping authority within a purely monarchical one. In the penultimate paragraph of the 1647 preface he was to write:
 
 [^19]: Further, the use of French words in some of his illustrations shows that Hobbes was at least half-concerned with a French audience: see *DC*, viii.2 for such an example. *DC*’s detachment from the current political situation in the British Isles is consistent with a fact that Malcolm has recently emphasised, that within the ‘European Republic of Letters’ in the early 1640s, Hobbes was much better known as a metaphysician than a political theorist. *Aspects of Hobbes*, 497. *DC* was a conspicuous exception to Hobbes’s preoccupation with questions of mathematics and optics or, more broadly, natural philosophy. As we will see, his quarrel with Bramhall began with the classic metaphysical question, free-will, shortly after Hobbes had written a massive review of a discussion of Galilean science. See below, 80–1.
+
 [^20]: For details of the printing (Paris, April or May 1642) and very limited circulation of the first edition, see Tuck, *Philosophy and Government*, 315, and his editorial introduction to the translation of *DC*. In the preface to the 1647 Amsterdam (Elzevir) publication of *De Cive*, Hobbes recalled: ‘So as not to rashly publish anything that ought not to be published, I refused to allow what I had written to be made public immediately, and took the trouble to distribute to friends *a few privately printed copies*, so that after testing other people’s reactions, I might correct, soften and explain anything that seemed erroneous, harsh or obscure.’ *DC*, 1647 Preface, 14; emphasis added. Clearly, Hobbes was, at least in 1642, much more interested in a select European audience. And it was his French friend Mersenne, after all, who organised its printing. It is most reasonable to suppose, in accordance with Hobbes’s own suggestion, that in *DC* the philosopher intended (with breathtaking ambition) to offer a political treatise that might help to calm *all* of Europe’s ‘current storms’ – the storms that comprised what used to be called ‘the seventeenth-century crisis’.
+
 [^21]: *DC*, 1647 Preface, 8–9.
 
 *[p. 73]* ^pg93
@@ -75,9 +91,13 @@ Incidentally, in the second edition of *De Cive*, published in 1647, Hobbes seem
 Finally, throughout my discourse it has been my aim, first, not to give decisions on the justice of particular actions, but to leave them to be settled by the laws. Secondly, not to say anything about the laws of any particular commonwealth, i.e. to say what law is rather than what the laws are. Thirdly, not to give the impression that citizens owe less obedience to an aristocratic commonwealth or a democratic commonwealth than they owe to a monarchical commonwealth. For though I have deployed some arguments in the tenth chapter to press the point that monarchy has more advantages than other forms of commonwealth (the only thing in this book which I admit is not demonstrated but put with probability), I say everywhere explicitly that every commonwealth must be allowed supreme and equal power.[^22] In view of these lines it would be hard to deny Hobbes his claim to the objectivity of science, as professed in the concluding sentence of this preface: ‘they \[the words of *De Cive*\] are not the words of a partisan’.[^23] But in granting Hobbes his objectivity, neutrality and lack of partisanship, one would need to deny him *royalism*. It was precisely the lack of a *parti pris* that would naturally have displeased committed and outspoken royalists. Hobbes should surely have expected that his impartiality might be construed as lack of ‘party spirit’. One might argue that his vaunted ‘civil science’ (as propounded in all three of his political treatises, *Elements of Law*, *De Cive* and *Leviathan*) was simply an ingenious system of chameleonism or trimmerism: submission to the powers-that-be for the sake of self-preservation.[^24] Since his fundamental principle was self-preservation, and since he successfully adapted to many different situations, at home and abroad, there is reason to regard Hobbes as not only the consummate theorist but also a talented practitioner of political weathercockery; a man ready to be turned by the strongest wind of any given moment.[^25] A royalist (or parliamentary) critic of Hobbes could have denounced his ‘civil science’ as nothing but the principles of lack of political commitment, for individual safety’s sake. The virtue of ‘objectivity’ or ‘scientific detachment’ can be denigrated as the vice of lack of commitment and devotion to the cause.[^26]
 
 [^22]: *DC*, 1647 Preface, 14.
+
 [^23]: *DC*, 1647 Preface, 15.
+
 [^24]: One might venture further that Hobbes’s ‘civil science’ was at bottom no more than a ‘logical’, ‘deductive’ or ‘rationalist’ formulation of Romans xiii, the injunction to obey all established authority.
+
 [^25]: This point about Hobbes’s political chameleonism will be developed more fully in chapters 6 and 8. What I emphasise here is that such chameleonism (or ‘de-factoism’) did not begin in *Lev*.; one can observe it in both the *Elements of Law* and *DC*.
+
 [^26]: For Hobbes’s own awareness of this rhetorical operation of moral redescription, *paradiastole*, see Quentin Skinner, ‘Thomas Hobbes: Rhetoric and the Construction of Morality’, *Proceedings of the British Academy* 76 (1991): 1–61. One could argue that what Hobbes may have hoped is that his ‘civil science’ would demonstrate, objectively (that is, with no conspicuous *parti pris*), that MPs and subjects should obey the king. In other words, he might have hoped to strengthen the royalist cause precisely by *appearing* objective and unpartisan (unroyalist) in his argument. One might maintain that Hobbes was attempting to achieve the *effect* of royalist polemic (obedience to and victory of the king rather than parliament) without writing royalist polemic.
 
 *[p. 74]* ^pg94
@@ -87,7 +107,9 @@ We find two major structural differences between the *Elements of Law* and *De C
 But to decide questions of faith, i.e. questions about God, which are beyond human understanding, one needs God’s blessing (so that we may not err, at least on essential questions) and this comes from Christ himself by laying on of hands. For our eternal salvation we are obliged to accept a supernatural doctrine, which because it is supernatural, is impossible to understand. It would go against equity if we were left alone to err by ourselves on essential matters. Our Saviour promised this Infallibility (in matters essential to salvation) to the Apostles until the day of judgment, i.e. to the Apostles and to the Pastors who were to be consecrated by the Apostles in succession by the laying on of hands. As a Christian, therefore, the holder of sovereign power in the commonwealth is obliged to interpret holy scripture, when it is a question about the mysteries of faith, by means of duly ordained Ecclesiastics. And so in Christian commonwealths judgment of spiritual and temporal matters belongs to the civil authority. And the man or assembly which holds sovereign power is the head of both the commonwealth and the Church; for a Christian Church and a Christian commonwealth are one and the same thing.[^29] Hobbes begins with what appears to be an assertion of the doctrine of apostolic succession. And if the bishops in England could be placed within
 
 [^27]: This discussion of human nature was intended ultimately to form the second of his tri-partite Latin exposition of his philosophical system: *de corpore, de homine, de cive*. But *De Homine* had to wait until 1658 for publication.
+
 [^28]: *DC*, xv.1.
+
 [^29]: *DC*, xvii.28.
 
 *[p. 75]* ^pg95
@@ -95,7 +117,9 @@ But to decide questions of faith, i.e. questions about God, which are beyond hum
 Hobbes’s group of ‘Apostles and Pastors’, then we might suppose that he was at least indirectly supporting the doctrine of episcopacy *jure divino*.[^30] By allowing apostolic succession, Hobbes would seem to imply that the ‘Apostles and Pastors’, or ‘duly ordained Ecclesiastics’, possess an authority derived from Christ, not merely from the civil sovereign. Thus the civil sovereign, being Christian, is ‘obliged’, in essential matters, to interpret scripture as the divines (‘duly ordained Ecclesiastics’) would direct. Yet what Hobbes gives with one hand he seems to take back with the other. Just when it appears Hobbes is allowing episcopacy *jure divino*, he stresses that the judgment is ultimately the *civil* sovereign’s: he (or they) may be ‘obliged’ to consult them, but the decision is still entirely his (or their) own to make. Even after asserting their infallibility, the ecclesiastics are subordinated to the civil sovereign: ‘And so in Christian commonwealths judgment of spiritual and temporal matters belongs to the civil authority.’ Thus, though Hobbes grants at least a semblance of divine authority to ecclesiastics, he still refuses them an authority independent of the civil sovereign: the latter’s judgment on all questions, even scriptural ones, is supreme.[^31] However, in stark contrast with the *Elements of Law*, Hobbes does imply that, as the successors of the apostles, ‘duly ordained Ecclesiastics’ have an exclusive gift or capacity. This is precisely why the civil sovereign is obliged to confer with them. If the civil sovereign possessed it himself, why would he be obliged to do so? Nevertheless, it is still the case that Hobbes leaves it to the civil sovereign ultimately to decide *when* he should consult the ecclesiastics. He does not assert that the ecclesiastics possess an authority to tell the sovereign when a matter is ‘spiritual’ and when ‘temporal’. And, again, it is the civil sovereign who will render the final judgment on any question. Thus, the ‘infallibility’ of the ecclesiastics in practice only obtains where the civil sovereign says it does; in what he determines to fall within the ‘mysteries of the faith’.[^32] It is a subtle (or incoherent) scheme: the apostolic successors are infallible, but
 
 [^30]: It was in light of this passage that Richard Tuck argued that in *Lev*. Hobbes was to depart significantly from the ‘orthodox Anglicanism’ of *DC*. ‘“Christian Atheism” of Hobbes’. Lodi Nauta has offered a robust challenge to Tuck’s view in ‘Hobbes on Religion and the Church’. As I will suggest below, in one respect, Hobbes’s position on the relationship between the civil-ecclesiastical authorities in *DC* does bear some resemblance to the Laudian one. Only to that extent may one find ‘orthodox Anglicanism’ in *DC*.
+
 [^31]: Hence, in the previous section he concludes with the comment: ‘In every Christian Church, i.e. in every Christian commonwealth, the interpretation of holy scripture, i.e. the right to settle all disputes, should depend on and be derived from the authority of the man or group of men in whose hands lies the sovereignty in the commonwealth.’ *DC*, xvii.27.
+
 [^32]: One must also bear in mind what Hobbes had asserted in an earlier chapter: ‘the one man or council to whom sovereign power has been committed by the commonwealth, also has the right both to decide which opinions and doctrines are inimical to peace and to forbid their being taught’. *DC*, vi.11. See also the revealing note to this passage inserted in the 1647 edition.
 
 *[p. 76]* ^pg96
@@ -105,9 +129,13 @@ only where the civil sovereign says they are. The ecclesiastics have authority; 
 However hard it would have been for his contemporaries, especially clergy of the church of England, to see how Hobbes could have considered himself a ‘duly ordained Ecclesiastic’, this did not prevent his ending the book with a chapter on the subject ‘What is Necessary for Entry into the Kingdom of Heaven’. There he delivers the judgment he had first enunciated in the *Elements of Law*: ‘And I say that no other article of faith is required of a Christian man as *necessary* for salvation but this one, that Jesus is Christ.’[^36] In *De Cive* Hobbes again seems to arrogate to himself the authority to pronounce on religious matters. As he pointed out in the preface to the 1647 edition, he had shown ‘what duties are indispensably requisite to entrance into the kingdom of heaven’.[^37] This certainly assumes a considerable power or wisdom in the author: to judge what God requires of all men – a power or wisdom which had, traditionally, been considered the unique mark of clergy, not laymen – or, in Hobbes’s erastian/caesaro-papist scheme, the province of the civil sovereign, not a private subject unappointed to any office of religious authority. But in neither the *Elements of Law* nor *De Cive* does Hobbes explain why he thinks himself possessed of such authority. One can only assume that he thought his authority derived from his superior ‘reason’; in the *Questions concerning Necessity, Liberty and Chance* (1656), Hobbes was to claim that his opinion on a certain point was correct, and Bramhall’s
 
 [^33]: This is confirmed in the next chapter when Hobbes writes: ‘in *spiritual matters* (i.e. those which are to be settled through holy scripture) God’s commandments are the laws and doctrines of the commonwealth, i.e. of the Church (for a Christian Church and a Christian commonwealth are the same thing), published by duly ordained Pastors, *who have received authority to do so from the commonwealth*.’ *DC*, xviii.13. I have placed emphasis on the last clause: if the Pastors (apostolic successors) *have* an authority derived ultimately from Christ, by laying on of hands, it would seem that it cannot be *exercised* without the civil sovereign’s authorisation.
+
 [^34]: For Laud’s position, see chapter 2, 55–6.
+
 [^35]: For another discussion of this passage, and views of other Hobbes commentators, see Collins, *Allegiance of Hobbes*, 66–9, who describes it as a ‘puzzling’ one that ‘runs against the broader grain of the work’. For anyone hoping to render Hobbes consistent, this is a passage to ignore.
+
 [^36]: *DC*, xviii.6.
+
 [^37]: *DC*, 1647 Preface, 13.
 
 *[p. 77]* ^pg97
@@ -117,8 +145,11 @@ false, because it was he who was ‘in possession of a truth derived to me from 
 As we have noted, *De Cive* was dedicated at the beginning of November 1641, in Paris, to the third earl of Devonshire, whose father, the second earl, Hobbes had tutored all the way back in 1608, immediately after leaving Oxford. Hobbes had begun to tutor the third earl about ten years before *De Cive*, and had, more recently, in 1634–6, guided him on a tour of Europe. The younger brother of the third earl of Devonshire, Charles Cavendish,[^41] had volunteered to fight for the king as soon as the First English Civil War had commenced. He was among the cavalry that followed Prince Rupert into the battle of Edgehill in the autumn of 1642. In 1643 he formed his own regiment, funded by the family wealth, with which he scored some victories for the king in Nottinghamshire and Lincolnshire. He was slain
 
 [^38]: *Questions*, *EW*, v, 337; emphasis added.
+
 [^39]: *Elements of Law*, xxxix.8, ed. Gaskin, 180–1. In a later writing, posthumously published, Hobbes pointed out the mischief of appealing to ‘reason’ in determining the justice of a law: ‘any man, of any law whatsoever, may say it is against reason, and thereupon make a pretence for his disobedience’. *Dialogue between a Philosopher and a Student*, 54–5.
+
 [^40]: For plenty of instances of ‘right reason’ see *DC*, chapters i and ii; however, see Hobbes’s qualification of right reason (not ‘an infallible faculty’) in the note to ii.1 in the 1647 edition. Hobbes’s frequent citation of right reason (*recta ratio*) in *DC* has been noted by Malcolm, ‘Hobbes and Voluntarist Theology’, 194. Hobbes believed he had founded the *science* of politics precisely because none of his principles or deductions could be shown to be ‘against reason’. Near the conclusion of *DC*, iii, Hobbes claims that all the ‘laws of nature’ he has propounded are ‘simply the dictates of right reason’.
+
 [^41]: Not to be confused with the younger brother of Newcastle, of the same name.
 
 *[p. 78]* ^pg98
@@ -128,8 +159,11 @@ in an engagement against some of Cromwell’s forces at Gainsborough, in 1643.[^
 I have seen the Nottinghamshire petition against BBs. In it there are reckoned up abundance of abuses committed by Ecclesiastical persons and their officers, which can neither be denied or excused. But that they proceed from Episcopacy itself, is not so evidently proved. Howsoever since the covetousness and supercilious behaviour of the persons, have made the people weary of that form, I see nothing, to be misliked in the new way propounded.[^45] Here we see in Hobbes no devotion to the ‘duly ordained Ecclesiastics’ of the king, no insistence upon their authority or infallibility as derived from apostolic succession, or any evident attachment to the peculiar institution of episcopacy. It would seem that Hobbes would not mind if the king discarded the bishops for the sake of placating the people – as a king would cashier any other group of officers or ministers for the sake of obtaining popularity. As we saw above, in *De Cive* Hobbes had implied a ‘spiritual’ power in the apostolic successors, the ‘duly ordained Ecclesiastics’. This letter suggests that Hobbes’s (apparent) affirmation of apostolic succession in *De Cive* was not sincere – or that we should not read that passage from *De Cive* as
 
 [^42]: John Pearson, *Stags and Serpents: The Story of the House of Cavendish and the Dukes of Devonshire* (London: Macmillan, 1983), 41, 42.
+
 [^43]: In 1638 he had become lord lieutenant of Derbyshire; in February 1640, high steward of Ampthill; and in January 1642, joint commissioner of array for Leicestershire. *Corr*., ii, 816. For Devonshire’s notably vigorous conduct as lord lieutenant, see Lynn Beats, ‘Politics and Government in Derbyshire, 1640–1660’, PhD thesis, University of Sheffield, 1978, 54–69.
+
 [^44]: Pearson, *Stags and Serpents*, 41. He was impeached from the house of lords on 20 July 1642. Subsequently he was ordered to be detained in the Tower. *Corr*., ii, 816.
+
 [^45]: Hobbes to Devonshire, Paris, 23 July/2 August 1641, *Corr*., i, 120. For petitioning against episcopacy from other counties in the months after London’s ‘Root and Branch’ petition, see Fletcher, *Outbreak of the English Civil War*, 91–7. The ‘new way propounded’ was a non-episcopal, quasi-presbyterian ecclesiastical structure which would involve shifting powers from bishops to lay commissioners.
 
 *[p. 79]* ^pg99
@@ -139,7 +173,9 @@ any such affirmation. To be sure, the remainder of the letter makes clear that H
 Petitions to abolish episcopacy like the one that Devonshire and Hobbes had seen were drawn up not only in many other English counties, but also in parts of Ireland.[^46] In late spring 1641, such petitions from Ulster were produced for abolition of episcopacy in Ireland, to be submitted to the parliament at Westminster.[^47] The petitions from Ulster would mean, specifically, the abolition of *Bishop* Bramhall. There is no reason to think that what he had condoned in the Nottinghamshire petition Hobbes would have rejected in the Ulster ones. Thus, in effect, Hobbes was condoning the abolition of Bramhall’s office. And, in effect, Hobbes would be condoning the action of an Ulster planter, Sir John Clotworthy – a nemesis of Strafford and Bramhall in Ireland; a man who had been adversely affected by their economic policies in the 1630s, and a man who had come over to England in 1640 to take a seat in the Long Parliament in order, among other things, to compass the destruction of the lord lieutenant and his colleagues, including Bramhall. In June 1641, Clotworthy proposed that the English house of commons extend the ‘Root and Branch’ bill to provide for the abolition of episcopacy in Ireland as well.[^48] Hobbes was no Clotworthy, but he could have found no reason to object to the latter’s legislative agenda in this regard. Hobbes’s letter to Devonshire in the summer of 1641 signified acquiescence in the actions
 
 [^46]: The ultimate purpose of most of these petitions was to lend support to the earlier and grander petition, the London-based Root and Branch, which had been presented to the Long Parliament at the end of 1640.
+
 [^47]: Perceval-Maxwell, *Outbreak of the Irish Rebellion*, 113–14. There was correspondence between Ussher and Bramhall about these Ulster petitions, and Bramhall seems to have organised some contrary petitions. See Bramhall to Ussher, 26 April 1641, *Rawdon Papers*, No. xxxii, Ussher to Bramhall, n.d., *Rawdon Papers*, No. xxxiii, Ussher to Bramhall, n.d., *Rawdon Papers*, No. xxxiv, and Ussher to Bramhall, 19 June 1641, proni t 415:22.
+
 [^48]: Perceval-Maxwell, *Outbreak of the Irish Rebellion*, 113–14; Clotworthy’s attempt failed: see Robert Armstrong, ‘Protestant Churchmen and the Confederate Wars’, in *British Interventions in Early Modern Ireland*, eds. Ciaran Brady and Jane Ohlmeyer, 233.
 
 *[p. 80]* ^pg100
@@ -149,9 +185,13 @@ of anti-episcopalian politicians like Clotworthy. I am not, however, suggesting 
 Nor would I wish to suggest that in the early 1640s Hobbes’s chief preoccupation was the question of the fate of the Laudian–Caroline–episcopal church in England, let alone the one in Ireland that Bramhall had established in collaboration with Strafford. As noted in passing above, these years saw Hobbes much more concerned with questions of mathematics and optics, that is, natural philosophy. From his arrival on the continent in 1640 to his return to England at the end of 1651 Hobbes spent most of his time in and around Paris. In an autobiography composed decades later, he recalled that having returned to Paris in 1640 he became a close colleague of Mersenne and Gassendi in various mathematical and scientific pursuits.[^49] Along with Gassendi and François du Verdus, Mersenne was one of Hobbes’s closest French friends. A friar of the Minim Convent de L’Annonciade in Paris, Mersenne maintained something like a *salon* in his cell there. As Quentin Skinner has noted, the cell was perhaps ‘the most important *salon* for the learned’ in Europe in the 1640s.[^50] And as Lisa Sarasohn has noted: ‘Mersenne knew everyone in Europe involved in the new mechanical philosophy, and through his vast correspondence encouraged productivity, communication and controversy within that community.’[^51] Hobbes himself later paid handsome tribute to Mersenne, recalling how the latter had been ‘like an axis . . . each star wheel’d round, as in its orb or sphere’.[^52] Besides Gassendi, Hobbes and Descartes, Mersenne’s cell was frequented by such outstanding thinkers as Pascal, Fermat, Peiresc and Roberval.[^53] A friend
 
 [^49]: Prose Life, *Elements of Law*, ed. Gaskin, 247. In a letter from December 1644, Sir Charles Cavendish mentioned Hobbes’s ‘great friendship with Gassendi’. Cavendish to John Pell, 10/20 December 1644, *Pell-Cavendish*, 395.
+
 [^50]: Skinner, ‘Ideological Context’, 288.
+
 [^51]: Sarasohn, ‘Was *Leviathan* a Patronage Artifact?’, 611. Peter Dear has noted that Mersenne’s ‘new kind of philosophical community for studying nature’ amounted to ‘a new scientific community’. *Mersenne and the Learning of the Schools* (Ithaca and London: Cornell University Press, 1988); for Mersenne’s activities in the 1640s, see Dear, *ibid*., 201–22.
+
 [^52]: Verse Life, *Elements of Law*, ed. Gaskin, 259; ‘Circa Mersennum convertebatur ut axem/Unumquodque artis sidus in orbe suo.’ ‘Vita Carmine Expressa’, *OL*, i, xci. Mersenne has with good reason been likened to the ‘intellectual intelligencer’ Samuel Hartlib. For Hartlib, see Mark Greengrass, Michael Leslie and Timothy Raylor, eds., *Samuel Hartlib and Universal Reformation: Studies in Intellectual Communication* (Cambridge: Cambridge University Press, 1994). Curiously, in 1648 Hartlib was to be forwarding correspondence of the chemist Robert Boyle about his experiments to Hobbes in Paris. Quentin Skinner, ‘Thomas Hobbes and the Nature of the Early Royal Society’, *HJ* 12 (1969): 232.
+
 [^53]: For further information about Mersenne’s circle and Hobbes’s participation, see Quentin Skinner, *Visions of Politics*, Volume 3: *Hobbes and Civil Science* (Cambridge: Cambridge For an older but still useful treatment of the Hobbes–Mersenne relationship, see Brandt, *Hobbes’s Mechanical Conception of Nature* (Copenhagen: Levin and Munksgaard, 1928), 154–61, 167–74.
 
 *[p. 81]* ^pg101
@@ -161,9 +201,13 @@ of both Hobbes and Descartes, Mersenne served as a go-between in their ill-tempe
 University Press, 2002), 308–23, and Armand Beaulieu, ‘Les Relations de Hobbes et de Mersenne’ in *Thomas Hobbes: Philosophie Première, Théorie de la Science et Politique*, eds. Yves-Charles Zarka and Jean Bernhardt (Paris: Presses Universitaires de France, 1990).
 
 [^54]: For Hobbes’s and Gassendi’s criticism of Descartes’s *Meditations*, and the latter’s replies, all of which were assembled and published by Mersenne and Descartes, see *The Philosophical Writings of Descartes*, eds. John Cottingham, Robert Stoothoff and Dugald Murdoch (Cambridge: Cambridge University Press, 1984; 2 vols.), ii, 121–37 (Hobbes), 179–277 (Gassendi); for some recent commentary, see *Descartes and His Contemporaries: Meditations, Objections, and Replies*, eds. Roger Ariew and Marjorie Grene (Chicago and London: University of Chicago Press, 1995). Hobbes’s critique can also be read in *OL*, v, 249–74. For the Hobbes–Descartes mathematics–optics quarrel of 1641, by correspondence, through the mediation of Mersenne, see *Corr*., i, 54–120. In November 1640 Hobbes also seems to have written a lengthy (fifty-six-page) critique of Descartes’s *Dioptrique* in the form of a letter to Mersenne. See Karl Schuhmann, *Hobbes: Une Chronique: Cheminement de sa pensée et de sa vie* (Paris: J. Vrin, 1998), 63–5. This critique exhibited Hobbes’s materialist metaphysics. For Hobbes and Gassendi, see Lisa Sarasohn, ‘Motion and Morality: Pierre Gassendi, Thomas Hobbes and the Mechanical World-View’, *Journal of the History of Ideas* 46 (1985): 363–80.
+
 [^55]: For a recent treatment of the Hobbes–Galileo relationship, which emphasises Hobbes’s debt, see Douglas Jesseph, ‘Galileo, Hobbes, and the Book of Nature’, *Perspectives on Science* 12, 2 (2004): 191–211.
+
 [^56]: Beverley Southgate has characterised White’s *De Mundo* as synthetical, incorporating concepts from ‘the current new \[mechanistic\] philosophy within a traditional Aristotelian framework . . . accommodat\[ing\] Copernican heliocentric cosmology and newly revived atomic theory’. ‘Thomas White’, *ODNB*.
+
 [^57]: White has been well served by the recent biography of Southgate, *‘Covetous of Truth’: The Life and Work of Thomas White, 1593–1676* (Dordrecht, Boston and London: Kluwer Academic Publishers, 1993); there one may find the full context and a tidy exposition of White’s treatise.
+
 [^58]: This critique remained unpublished until 1973. For details of its composition, see introduction to *Critique du ‘De Mundo’ de Thomas White*, eds. Jean Jacquot and H. W. Jones (Paris: Vrin, 1973).
 
 *[p. 82]* ^pg102
@@ -173,9 +217,13 @@ philosophy before *De Corpore* (1655). As Douglas Jesseph has recently observed:
 No matter how absorbed Hobbes was in Paris with endeavours of interest to Mersenne and his circle of mathematicians and natural philosophers, he probably extended a cheerful welcome to an old English friend in the spring of 1645. From July 1644 onwards, the Marquess of Newcastle had been an impecunious exile in northwestern Europe, attempting to obtain credit by virtue of his noble name.[^61] He remained in Hamburg until 16 February 1645,[^62] at which time he sailed to Rotterdam, whence he departed for Brussels by coach, then on to Cambrai, and finally, *via* Peronne, to Paris, which he reached 20 April 1645.[^63] Presumably Newcastle shifted
 
 [^59]: Jesseph, ‘Hobbes, Galileo’, 198. Malcolm has judged this Hobbes’s ‘most thorough attack on the old \[Aristotelian\] metaphysics’. ‘Hobbes and Spinoza’, *Cambridge History of Political Thought, 1400–1700*, ed. J. H. Burns, with the assistance of Mark Goldie (Cambridge: Cambridge University Press, 1991), 533.
+
 [^60]: *Anti-White*, chapters xxxiii, xxxv, xxxvii. There were also some passages in *Elements of Law* (xii) and *DC* (v.8, vi.11 and ix.9) that treated free-will, but these were briefer than the discussion in *Anti-White*.
+
 [^61]: While Newcastle was still in Hamburg, John Constable in Rotterdam reported that the former was in quite a ‘poor condition’. Trease, *Portrait of a Cavalier*, 142; *Life of Cavendish*, 45–6. For his much-improved condition later in exile, see *Life of Cavendish*, 59.
+
 [^62]: We may presume that Newcastle lodged with his brother Charles in Hamburg. By that assumption, we obtain the inferential confirmation of Newcastle’s presence in Hamburg in August 1644, by correspondence between John Pell in Amsterdam and Sir Charles in Hamburg, July 1644–February 1645, *Pell-Cavendish*, 352–409. That the Cavendish brothers remained in Hamburg together till they both went south for Paris in late February/early March may be assumed from comments in Sir Charles’s letters to Pell; e.g., ‘my letter which I sent last week by my brother’s servant’. Charles Cavendish to John Pell, 17/27 December 1644, *Pell-Cavendish*, 397. From July 1644 to February 1645 we cannot be sure where in Hamburg the Cavendish brothers stayed. However, in the latter month, John Pell addressed a letter to Sir Charles thus: ‘M. Cavendish, English knight, at Hamburg. Directed to his brother, the Marquess of Newcastle, staying near St. John’s Church.’ Pell to Cavendish, 8/18 February 1645, *Pell-Cavendish*, 409.
+
 [^63]: Trease, *Portrait of a Cavalier*, 144–5. As late as 4/14 February 1645, Newcastle wrote from Hamburg to Prince Charles. *HMC Portland*, ii, 134. On 20 March 1645 (N.S.), Newcastle was writing from Rotterdam, possibly to John Poliander Kirkhoven. At the beginning of April 1645, Sir Charles was writing to Pell from Antwerp, and from the beginning of May, from Paris. *Pell-Cavendish*, 410–13.
 
 *[p. 83]* ^pg103
@@ -185,9 +233,13 @@ to Paris primarily to be close to Queen Henrietta Maria and a large concentratio
 In a paper Bramhall addressed to Newcastle some time after 20 April 1646, the bishop noted: ‘My conversation with him \[Hobbes\] hath not been frequent; yet I remember well, that when this question was agitated between us two in your Lordship’s chamber by your command, he did then declare himself in words, both for the absolute necessity of all events, and for the ground of this necessity, the flux or concatenation of the second causes.’[^65] From this remark we can establish that some kind of debate between Hobbes and Bramhall took place in Newcastle’s Parisian residence before April 1646. This meeting in Paris is confirmed by a later comment of Hobbes about ‘meeting with the Bishop of Derry at Paris, where we discoursed together’.[^66] This meeting cannot have been earlier than April 1645, because, as we have already noted, Newcastle had only arrived in Paris at the end of that month. The end of April 1645 is, then, our *terminus a quo*.[^67] Bramhall’s letter of 1646 to Newcastle was, we learn from the text itself, a response to a paper written by Hobbes. In this letter Bramhall comments: ‘The first day that I did read over T.H. his defence of the necessity of all things, was April 20, 1646: which proceeded not out of any disrespect to him . . . first my journey, and afterwards some other trifles (which we call business), having diverted me until then. And then my occasions permitting me, and an advertisement from a friend awakening me, I set myself to a serious examination of it.’[^68] If we interpret this as an apology for a fairly tardy response to Hobbes’s paper, Bramhall cannot have received that paper (a ‘defence of the necessity
 
 [^64]: Geoffrey Smith, *The Cavaliers in Exile, 1640–1660* (Basingstoke: Palgrave Macmillan, 2003), 26. On 10/20 November 1644, Henrietta Maria, in Paris, had written a letter to Newcastle, still in Hamburg, answering one of his, and assuring him of ‘the continuance of my esteem’. *Letters of Queen Henrietta Maria*, ed. M. A. E. Green (London: Richard Bentley, 1857), 261.
+
 [^65]: ‘Vindication’, *BW*, iv, 26.
+
 [^66]: *Questions*, *EW*, v, 2.
+
 [^67]: However, we might safely assume this *terminus* May instead of late April; Newcastle and his brother had travelled from Hamburg to Paris together, and the latter’s first letter to Pell from Paris was dated 1/11 May 1645. *Pell-Cavendish*, 412–13. Of course, this is not conclusive.
+
 [^68]: ‘Vindication’, *BW*, iv, 23–4.
 
 *[p. 84]* ^pg104
@@ -197,13 +249,21 @@ of all things’) any later than the end of 1645 or early 1646. Hobbes’s paper
 In 1645, Hobbes was, among other things, working on *De Corpore*. A letter from his French friend Samuel Sorbière verifies that he was in Paris during 1645.[^72] In this letter, dated Lyon, 11 July 1645 (N.S.), Sorbière speaks of his having met with Hobbes in Paris.[^73] As the letter’s modern editor points out, Sorbière, who lived mainly in Holland from 1642 to 1650, stayed for a short time in Paris in the early summer of 1645.[^74] Thus, Hobbes must have been in Paris at least during that season of the year. That he was not in Paris for all of 1645 is established by a letter he wrote to Edmund Waller, dated Rouen, 8 August 1645 (N.S.). In this Hobbes explains that: ‘I came hither to see my lord of Devonshire.’[^75] There is no precise indication of when Hobbes had arrived in Rouen from Paris.[^76] But he does state his intention of returning to Paris in a fortnight: ‘Though at the foot of my letter . . . you find from Rouen, and from me, I pray you believe that in my absence I have left your son and nephew such directions as they will not lose their time. And I hope within this fortnight to be with them again.’[^77] Hobbes’s concern about his tutorial charges, Waller’s son and nephew, suggests that his stay in Rouen was to be short. If he stayed another fortnight, he would have returned to Paris around 23 August (N.S.). Supposing he had arrived in Rouen about a week before he wrote to Waller, his stay in Rouen was 1–23 August (N.S.). That Hobbes was there in late July or early August 1645 is confirmed by a letter from the correspondence of Sir Charles Cavendish. In a letter to his
 
 [^69]: Bramhall subsequently clarified that Hobbes’s paper was a reply to his own original paper: ‘my first discourse, to which he wrote that answer’. ‘Vindication’, *BW*, iv, 19.
+
 [^70]: ‘Treatise’, *EW*, iv, 239.
+
 [^71]: ‘Vindication’, *BW*, iv, 17. Bramhall’s paper, ‘Discourse’, is BL Sloane 1012, ff. 1–16, and bears the date Paris, 1645.
+
 [^72]: Unfortunately for the Hobbes biographer, there are no extant letters written by or to Hobbes between August 1641 and 1/11 July 1645. Nevertheless, judging from other sources there is no reason to doubt that he spent almost all of this period in Paris.
+
 [^73]: *Corr*., i, 122.
+
 [^74]: *Corr*., i, 123.
+
 [^75]: *Corr*., i, 124.
+
 [^76]: In this period, a trip from Rouen to Paris usually took two days – staying the night at an inn.
+
 [^77]: *Corr*., i, 124. For further commentary on this letter, see Philip Wikelund, ‘“Thus I passe my time in this place”: An Unpublished Letter of Thomas Hobbes’, *English Language Notes* 4
 
 *[p. 85]* ^pg105
@@ -213,10 +273,15 @@ friend, the mathematician John Pell, dated Paris, 27 July O.S. (6 August, N.S.),
 We have already established that the meeting of Hobbes and Bramhall cannot have occurred before Newcastle arrived in Paris, at the end of April 1645 (the *terminus a quo*). We have also determined that the first two papers that followed the debate must have been written some months before April 1646, presumably no later than the end of 1645. Hobbes’s paper, the response to Bramhall’s first (‘Discourse’), was later to be published twice (in 1654), each time with a different date.[^80] In the first publication it bore the date ‘Rouen, 20 Aug. 1652’; in the other, ‘Rouen, 20 Aug. 1646’.[^81] The variation is, then, only in the year.[^82] Since Bramhall, in his paper of 1646, referred to his reading of Hobbes’s paper in *April* of that year, it could not have been composed either in August *1652* or August *1646*. But perhaps the *month* is not inaccurate: 20 August *1645* would satisfy the requirement of falling between April 1645 and April 1646. If we suppose that Hobbes was in Rouen from 1–23 August (N.S.) and bear in mind that his letter in answer to Bramhall was dated 20 August 1645, then we will have narrowed the window of the *viva voce* debate to late April–1 August 1645 (N.S.). We can narrow it further by supposing that some time, say, at least a week, must have elapsed between the oral debate and Bramhall’s first paper, and at least a week before Hobbes received it, and another week before he wrote his answer, dated 20 August 1645. Taking all this into account, the timeframe for their meeting and debate in Paris would be something like 1 May–mid-July 1645 (N.S.). We cannot narrow it further by Bramhall’s movements because these cannot be determined. Bramhall had landed in Hamburg with Newcastle on 8 July 1644. After arriving at the northern German port, the bishop eventually made his way to Brussels where, for much of the next few years, he lived with or near Sir Henry de Vic, the king’s resident. Bramhall travelled frequently in the years 1644–8.[^83] The distance between Brussels and Paris is not so great that trips back and forth would have been prohibitively
 
 [^78]: *Pell-Cavendish*, 421–2.
+
 [^79]: After the letter to Waller of 8 August 1645 (N.S.), there is no Hobbes correspondence until 16 May 1646 (N.S.).
+
 [^80]: See chapter 7, 193.
+
 [^81]: For details of the two editions, see Hugh Macdonald and Mary Hargreaves, eds., *Thomas Hobbes: A Bibliography* (London: Bibliographical Society, 1952), 37–8.
+
 [^82]: I assume that 20 August is in both cases New Style.
+
 [^83]: Vesey, AH, xxvii. In Brussels he was preaching and administering the sacraments regularly: ‘The English merchants of Antwerp, ten leagues thence \[from Brussels\] used to be monthly of his audience and communion, and were his best benefactors.’ For more information about Bramhall’s activities in the mid- and late 1640s, see chapter 5.
 
 *[p. 86]* ^pg106
@@ -226,10 +291,15 @@ costly or tedious. We know that the bishop was in Brussels, 20 June 1645.[^84] S
 Sometime in May, June or July 1645, therefore, Hobbes and Bramhall met their mutual friend Newcastle in Paris. If Hobbes and Bramhall had not been acquainted previously, that does not mean that their reputations had not preceded them.[^85] They could have anticipated each other’s opinions on some issues. Most importantly, there is no doubt that Bramhall had read *De Cive*, if not the *Elements of Law*.[^86] Since Bramhall was in close and regular contact with Newcastle – and at least infrequent contact with his brother Sir Charles, in Yorkshire from 1642 to 1644 – he might well have been able to read one of the copies of the *Elements of Law* manuscript – a writing which had, after all, been dedicated to Newcastle. Whereas we may only speculate that Bramhall had read the *Elements of Law*, it is certain that he was one of the few to read the 1642-printed version of *De Cive*. Shortly before, or at the time of their meeting in the chamber of Newcastle, Bramhall gave to Hobbes a long list of objections to that Latin treatise.[^87] Very likely one of the copies of *De Cive* had been sent to Newcastle and Sir Charles in Yorkshire shortly after its Paris printing. We can suppose that Bramhall, also in Yorkshire, was able to have a look at the copy sent to them.[^88] That Sir Charles sometimes shared manuscripts with Bramhall we know from Bramhall’s comment about a French treatise that Charles had shown him while they were both in Yorkshire.[^89] That Bramhall would have had many objections to *De Cive* cannot surprise anyone who has read *Serpent-Salve*, or reviewed the bishop’s antebellum career. There are fundamental differences between the assumptions and reasoning of *De Cive* and *Serpent-Salve*. In view of those two books (and the *Elements of Law*), and Bramhall’s long list of objections to *De Cive*, their political disagreement can, thus, be established before they met in the summer of 1645. We have no evidence that Hobbes
 
 [^84]: *BW*, i, x, ‘q’. Here he wrote ‘An Answer to two Papers brought him June the 19th, 1645, about the Protestants’ Ordination’. This little piece is dated Brussels, 20 June 1645, the day after he received the said papers.
+
 [^85]: One can, however, only *assume* that this was the first meeting of Hobbes and Bramhall.
+
 [^86]: It is unlikely but not impossible that Bramhall had read Hobbes’s critique of White’s *De Mundo*.
+
 [^87]: In 1655 Bramhall was to write: ‘Whereas Mr Hobbes mentions my objections to his book *De Cive*, it is true, that ten years since I gave him about sixty exceptions, the one half of them political, the other half theological, to that book, and every exception justified by a number of reasons; to which he never yet vouchsafed any answer.’ *Defence*, *BW*, iv, 20.
+
 [^88]: But it is still possible that Bramhall only read it later, after he had arrived on the continent, in July 1644. In either case I think it likely that he read a copy owned or obtained by Newcastle or his brother.
+
 [^89]: ‘Discourse’ and ‘Vindication’, *BW*, iv, 155.
 
 *[p. 87]* ^pg107
@@ -241,10 +311,15 @@ At this meeting, Newcastle proposed that they debate the question of free-will. 
 For the details of this live debate in Newcastle’s chamber we are left to conjecture. Neither Newcastle nor Hobbes nor Bramhall ever suggested that
 
 [^90]: While in France Hobbes might have read a great deal of the propaganda that was being printed in England by both royalists and parliamentarians. As his letter to Devonshire shows, he read, for example, the Nottinghamshire petition against episcopacy. (Perhaps Devonshire forwarded that to him.) It is also possible that Hobbes had read *Serpent-Salve* without knowing that Bramhall was its author, for the latter published anonymously. But, of course, Newcastle, among others, could have informed him of the bishop’s authorship.
+
 [^91]: *Life of Cavendish*, 46.
+
 [^92]: Aubrey, *Brief Lives*, i, 347, 349. Even in his old age Hobbes’s height was remarked. As late as 1675 a German visitor in London, Adam Ebert, noted that the octogenarian was ‘ein langer Mann’. Quoted in Noel Malcolm, ‘*Behemoth Latinus*: Adam Ebert, Tacitism, and Hobbes’, *Filozofski vestnik* 24, 2 (2003): 99.
+
 [^93]: Aubrey, *Brief Lives*, i, 348. The various portraits we have corroborate Aubrey’s description.
+
 [^94]: Vesey, AH, xliii.
+
 [^95]: The engraving of H. B. Hall, after the portrait now in the possession of the archbishops of Armagh, serves as frontispiece to the first volume of the Anglo-Catholic Library edition of his works. There is a copy of this portrait in the Sidney Sussex Library. I thank its librarian Nicholas Rogers for sending me a digital image of it.
 
 *[p. 88]* ^pg108
@@ -254,7 +329,9 @@ the nobleman had planned to have his friends debate this issue. Thus, it would n
 When my Lord was at Paris in his exile, it happened one time, that he discoursing with some of his friends, amongst whom was also that learned philosopher Hobbes, they began, amongst the rest, to argue upon this subject, namely, Whether it were possible to make man by art fly as birds do; and when some of the company had delivered their opinion, viz. That they thought it probable to be done by the help of artificial wings; my Lord declared, that he deemed it altogether impossible, and demonstrated it by this following reason. Man’s arms, said he, are not set on his shoulders in the same manner as bird’s wings are; for that part of the arm which joins to the shoulder is in man placed inward, as towards the breast, but in birds outward, as toward the back; which difference and contrary position or shape hinders that man cannot have the same flying action with his arms, as birds have with their wings. Which argument Mr Hobbes liked so well, that he was pleased to make use of it in one of his books called *Leviathan*, if I remember well.[^96] It is quite plausible, then, that the debate between Hobbes and Bramhall occurred during a wide-ranging conversation like the one described above. Incidentally, with and without Hobbes and Bramhall, Newcastle clearly liked to play host to philosophical *convivia*. He entertained such French philosophers as Descartes and Gassendi – the latter, as we have noted, a close friend of Hobbes.[^97] From late September 1644 to late July 1645, Mersenne was not in Paris, but in Rome.[^98] With the friar absent from Paris, meetings in his cell could not have taken place. So, in these several months the Mersenne circle was without a place to convene. Perhaps Newcastle presented himself as a substitute host; maybe his residence became, for this brief time, the meeting-place for the Mersenne circle. Indeed, even when Mersenne was in Paris, Newcastle’s lodgings might have served, in the years 1645–8, as something of an alternative venue for some members of the Mersenne circle to engage in discussion.
 
 [^96]: *Life of Cavendish*, 106–7. None of the editions of *Lev*. contains any parallel to this ‘man-a-faulty-bird’ discourse, which fact does serve to diminish the credibility of Margaret Cavendish.
+
 [^97]: *Life of Cavendish*, 106–7. Aubrey noted: ‘I have heard Mr. Edmund Waller say that W. Lord Marquis of Newcastle was a great patron of Dr Gassendi, and M. Des Cartes, as well as to Mr. H., and that he hath dined with them all three at the Marquis’s table, at Paris.’ Quoted by Firth, *Life of Cavendish*, 106. Newcastle and Descartes also kept up a fairly regular correspondence in the years 1645–8. See *Oeuvres de Descartes*, eds. Charles Adam and Paul Tannery (Paris: J. Vrin, 1996; 11 vols.), iv, 188–92, 325–30, 568–77; v, 133–9, 554.
+
 [^98]: *Pell-Cavendish*, 382, n.4.
 
 *[p. 89]* ^pg109
@@ -264,8 +341,11 @@ Precisely in what fashion or order Hobbes and Bramhall argued at this meeting is
 mine aim . . . was only to press home those things in writing, which had been agitated between us by word of mouth (a course much to be preferred before verbal conferences, as being freer from passions and tergiversations, less subject to mistakes and misrelations, wherein paralogisms are more quickly detected, impertinences discovered, and confusion avoided).[^100] Perhaps his experience with Hobbes strengthened his conviction that ‘agitating’ such questions in person always led to heat and lost tempers.[^101] But this is all speculative, and Hobbes later wrote: ‘He is here, I think, mistaken; for in our *verbal* conference there was not one passionate word, nor any objecting of blasphemy or atheism, nor any other uncivil word; of which in his *writing* there are abundance.’[^102] As previously noted, it was shortly after
 
 [^99]: *Questions*, *EW*, v, 2. From this passage we might guess that Newcastle was the only auditor. It is likely since Hobbes only mentions ‘the presence of my Lord of Newcastle’ in explaining Bramhall’s not being ‘in passion’. However, it is possible that Sir Charles was also in attendance at the debate, as he was in Paris at the time. As his letter to Pell, quoted above, suggests, Cavendish was in frequent correspondence and contact with Hobbes during the mid-1640s. And we have noted that Charles knew Bramhall from at least a few years before 1645, when they were both in Yorkshire during the First English Civil War.
+
 [^100]: ‘Vindication’, Dedicatory Letter, *BW*, iv, 17.
+
 [^101]: *Viva voce* was never preferred by Bramhall; it was not only in the case of Hobbes that he thought oral debates undesirable. On another occasion he wrote: ‘Conferences in words do often engender heat, or produce extravagancies or mistakes; writing is a way more calm, more certain, and such as a man cannot depart from.’ ‘To Miss Cheubien’, *BW*, v, 191. Since this remark was written during exile, one wonders how much of it was indebted to the bishop’s experience with Hobbes. Certainly, however, Bramhall’s pre-1645 career had provided numerous opportunities to engage in such debates. Early in his 1620s clerical career, as we saw in chapter 1, 23, he undertook to debate in public with two Roman catholics.
+
 [^102]: *Questions*, *EW*, v, 22; emphasis added.
 
 *[p. 90]* ^pg110
@@ -275,8 +355,11 @@ the debate in Paris that Hobbes sojourned in Rouen in early August 1645. While t
 Whether Newcastle interjected at all during the debate is an interesting and unanswerable question. And, unfortunately, he left no record of what he thought of the arguments made by his two friends. We might, however, surmise that Newcastle sympathised very little with the thoroughly scholastic-libertarian line that Bramhall took.[^105] As we will see in the following chapters, the bishop usually took the ‘school’ position in questions of philosophy and theology. Of Newcastle’s education his wife later remarked that: ‘to school learning he never showed a great inclination’.[^106] Furthermore, whereas Newcastle and Bramhall might well have grown friendly
 
 [^103]: *Corr*., i, 124.
+
 [^104]: See above, n.60.
+
 [^105]: Overhoff, in *Hobbes’s Theory of the Will*, 136, has ascribed to Newcastle a libertarian ‘conviction’ like Bramhall’s; but he cites no source.
+
 [^106]: *Life of Cavendish*, 104. That Newcastle could not, or preferred not to, read Latin is suggested by the fact that in 1646 he requested that Hobbes put his treatise on optics into English. Hobbes’s *A Minute or First Draught of the Optiques* (transcribed and illustrated by William Petty) was dedicated to Newcastle in 1646. *EW*, vii, 468.
 
 *[p. 91]* ^pg111
@@ -288,6 +371,7 @@ When this battle of wits occurred in Paris, the First English Civil War (1642–
 freewill is a thing that never was mentioned amongst them \[ancient philosophers\], nor by the Christians in the beginning of Christianity. For St Paul, that disputes that question largely and purposely, never useth the term of freewill; nor did he hold any doctrine equivalent to that which is now called the doctrine of freewill; but deriveth all actions from the irresistible will of God, and nothing from the will of him that runneth or willeth. But for some ages past, the doctors of the Roman Church have exempted from this dominion of God’s will the will of man; and brought in a doctrine, that not only man, but also his will is free, and determined to this or that action, not by the will of God, nor necessary causes, but by the power of the will itself. And though by the reformed Churches instructed by Luther, Calvin, and others, this opinion was cast out, yet not many years since it began again to be reduced by Arminius and his followers, and became the readiest way to ecclesiastical promotion; and by discontenting those that held the contrary, was in some part the cause of the following troubles; which troubles were the occasion of my meeting with the Bishop of Derry at Paris, where we discoursed together of the argument now in hand.[^108]
 
 [^107]: For Newcastle’s deep interest in the new scientific thinking and experimentation, see Malcolm, *Aspects of Hobbes*, 89–92.
+
 [^108]: *Questions*, *EW*, v, 1–2.
 
 *[p. 92]* ^pg112
@@ -299,8 +383,11 @@ He \[Hobbes\] accuseth Arminius to have been a restorer or ‘reducer’ of the 
 As has already been implied by reference to Leighton’s *Sion’s Plea* and Prynne’s *Old Antithesis*, Hobbes’s claim about the corrupt origins and harmful effects of free-will (‘Arminian’) doctrine leads us back to the late 1620s. Deliberately or not, Hobbes was echoing some speeches of MPs from that
 
 [^109]: Tyacke, *Anti-Calvinists*, 162.
+
 [^110]: *The Church of England’s Old Antithesis to the New Arminianism* (1629), as quoted in White, *Predestination, Policy and Polemic*, 3.
+
 [^111]: *Castigations*, *BW*, iv, 218–19. For some modern commentary on the contemporary misunderstanding of Arminius, of which Bramhall is here accusing Hobbes, see Peter White, ‘The Rise of Arminianism Reconsidered’, 41, n.25. White stresses that Arminius cannot be classified simply as an ‘anti-Calvinist’; likewise, it is emphasised that the Remonstrants at the Synod of Dort, 1618–19, were not so much anti-*Calvin* as anti-*Beza*.
+
 [^112]: If one admits the merit of Davies’s *Caroline Captivity*, one must allow for the possible equivalence of anti-Laudian and anti-Caroline on this point. See chapter 2, n. 85.
 
 *[p. 93]* ^pg113
@@ -312,8 +399,11 @@ The subtle and pernicious spreading of the Arminian faction; whereby they have k
 In other words, acting as a stalking-horse, arminian tenets prepare the way for popery. Less than a fortnight after this committee report, the house of commons registered an anti-arminian ‘Protestation’. In the first article of this document, dated 2 March 1629, it is resolved: ‘Whosever shall bring in innovation of religion, or by favour or countenance seek to extend or introduce popery or Arminianism, or other opinion disagreeing from the true and orthodox Church, shall be reputed a capital enemy to this Kingdom and Commonwealth.’[^116] ‘Popery’ had much the same force as ‘treason’, and
 
 [^113]: For parliamentary anti-arminian and anti-popery rhetoric in the 1620s, see Hillel Schwartz, ‘Arminianism and the English Parliament, 1624–29’, *JBS* 12, 2 (1973): 41–68. As Peter White has noted, referring to the proceedings of the house of commons regarding arminianism in 1628–9: ‘Doctrinal issues became the plaything of faction.’ White, ‘Rise of Arminianism Reconsidered’, 51.
+
 [^114]: *SC*, 133; Rushworth, i, 633. Likewise, Samuel Ward, Bramhall’s master at Sidney Sussex, had observed in May 1628 that some university men were turning arminian ‘because preferments at court are conferred upon such as incline that way’. Quoted in Tyacke, *Anti-* *Calvinists*, 49–50.
+
 [^115]: *CD*, 77. These ‘Resolutions on Religion drawn by a sub-committee of the House of Commons’ were dated 24 February 1629.
+
 [^116]: *CD*, 83; Rushworth, I, 660. In the same parliament Francis Rous delivered a speech in which, after alluding to the Armada of 1588 and the Gunpowder Plot of 1605, he described arminianism as a ‘Trojan horse’ whereby religion and liberty might be overthrown. On the same occasion, Edward Kirton linked arminianism to crypto-papist clerical ambition. Tyacke, *Anti-Calvinists*, 134–5. For quotation and discussion of these and other anti-arminian speeches of the 1628–9 parliament, see also Dewey D. Wallace, Jr, *Puritans and Predestination: Grace in English Protestant Theology, 1525–1695* (Chapel Hill: University of North Carolina Press, 1982), 88–90.
 
 *[p. 94]* ^pg114
@@ -325,6 +415,7 @@ Since there was no meeting of parliament between 1629 and 1640, the 1630s saw no
 The faint-heartedness of ministers to preach the truth of God, lest they should displease the prelates; as namely, the doctrine of predestination, of free grace, of perseverance, of original sin remaining after baptism, of the sabbath, the doctrine against universal grace, election for faith foreseen, *free-will* against antichrist, non-residents, human inventions in God’s worship; all which are generally withheld from the people’s knowledge, because not relishing to the bishops.[^117] Similarly, in the ninth article, the petitioners complain that books against arminianism (or, books that impugn the doctrine of free-will) are bowdlerised or suppressed: ‘The hindering of godly books to be printed, the blotting out or perverting those which they suffer, all or most of that which strikes either at Popery or Arminianism; the adding of what or where pleaseth them, and the restraint of reprinting books formerly licensed, without licensing.’[^118] Thus, in the Root and Branch petition a loud protest is made against the censorship of books that attack free-will, the allegedly fundamental arminian doctrine. Just a year later the house of commons itself drafted a petition, the Grand Remonstrance, not unlike Root and Branch, and presented it to the King on the 1 December 1641. The MPs denounced the wicked counsellors surrounding the king, ‘actors and promoters’ of a ‘malignant and
 
 [^117]: *CD*, 138; Rushworth, iv, 93.
+
 [^118]: *CD*, 139. See also article 10: ‘The publishing and venting of Popish, Arminian, and other dangerous books and tenets’; and 28: ‘only Papists, Jesuits, Priests, and such others as propagate Popery or Arminianism, are countenanced, spared, and have much liberty’.
 
 *[p. 95]* ^pg115
@@ -334,9 +425,13 @@ pernicious design of subverting the fundamental laws and principles of governmen
 To cite all these remonstrances, petitions and resolutions is not to argue that free-will caused the First English Civil War. What we have been able to observe is that one of the chief issues of contention and grievance leading up to the outbreak of that war was the ‘arminian’ doctrine of free-will. Denunciations of this doctrine, the definitive doctrine of arminianism, came from the mouths and pens of those who were making the noisiest protests against the regime of Charles I. Whether one calls it an ‘intellectual’, ‘theological’ or ‘philosophical’ issue, it was no less an invidious political one.[^120] Execration of ‘popish’ free-will and those who maintained or tolerated the doctrine became common in pieces of anti-government discourse. In the 1640s, one’s position on free-will could lead to summary political classification. It does not much matter that this kind of Procrustean partisan classification ignored important nuances – or ignored the fact that one could, say, be anti-arminian without being especially pro-parliamentarian.[^121] In the highly charged and increasingly polarised situation of the early 1640s, nuances were not to be regarded: it was time for drawing of battle lines and closing of ranks. No matter how much one might have liked to claim a ‘moderate’ stance on free-will, any declaration whatever might invite a simple identification of ‘puritan’ or ‘arminian’.[^122] Newcastle’s inciting a debate on free-will is all the more notable in light of the fact that one of its participants, Bramhall, had already acquired quite a reputation for arminianism.[^123] He was one of those popish, free-will ‘prelates’ against whom protests had specifically been made. Indeed, if Bramhall had lingered much longer in England, and fallen into the hands of the parliamentarians, he might have met an ugly fate similar to
 
 [^119]: *CD*, 206; Rushworth, iv, 437.
+
 [^120]: In making this point I do not intend to challenge a judgment of Kenneth Fincham, with whom I fully agree: ‘Religion may have been the central discourse of 1642 \[and earlier\], yet we must acknowledge that it embodied and mediated a host of secular concerns and values.’ ‘Introduction’ in *The Early Stuart Church, 1603–1642*, ed. Kenneth Fincham (Stanford: Stanford University Press, 1993), 22.
+
 [^121]: Bramhall’s master at Sidney Sussex, Samuel Ward, for example, had been a vehement critic of arminianism in the 1620s, but supported the king against parliament in the war. He died in 1643 a prisoner of Cromwell, his former student at Sidney.
+
 [^122]: In a similar vein, Michael Mendle has observed: ‘Everyone knew that “priest” and “presbyter” were mere variants of the same etymon, but to use one or the other was to toss in one’s lot with a religious faction.’ *Dangerous Positions: Mixed Government, the Estates of the Realm, and the Making of the Answer to the* xix *Propositions* (University of Alabama Press, 1985), 175.
+
 [^123]: For the sources of this reputation, see chapter 1.
 
 *[p. 96]* ^pg116
@@ -346,9 +441,13 @@ that of his fellow arminian Laud.[^124] Given his record as an arminian bishop, 
 The issue debated by Hobbes and Bramhall in Paris in the spring or summer of 1645 was, therefore, of significant political relevance. If nothing else, by this time it was a metaphysical problem that had recently collected much political baggage. It was just about as timely, controversial and serious an issue as they could have taken up at the time. The fact that they debated this particular question while the First English Civil War was being waged (or, in view of Naseby, only just ended) is not unfitting. For the question
 
 [^124]: At the Uxbridge Convention of January 1645, parliament excepted both Laud and Bramhall from a proposed general pardon.
+
 [^125]: Peter White has emphasised that: ‘At Laud’s trial the charge \[of arminianism\] was a virtual non-runner.’ *Predestination, Policy and Polemic*, 311; but the fact remains that the archbishop was widely perceived, portrayed and loathed as ‘arminian’.
+
 [^126]: See chapter 1, n.1.
+
 [^127]: Tyacke, *Anti-Calvinists*, 247.
+
 [^128]: The phrasing I borrow from Trevor-Roper, *Catholics, Anglicans and Puritans*, 103, who noted Prynne’s ability to see ‘popish and Jesuit conspiracies everywhere . . . especially wherever he smelt “Arminianism”’. Throughout this book, I wish to suggest that Hobbes was to Bramhall in some sense what Prynne had been to Laud (and Bramhall).
 
 *[p. 97]* ^pg117
@@ -364,8 +463,11 @@ position that was close to, if not, pelagianism, a heresy condemned in the fifth
 Both Hobbes and Bramhall might well have followed this Jansenist controversy of the 1640s. In the early 1650s, after that controversy had evolved, and grown more complicated, the bishop was to note: ‘Who hath not heard of a book composed by Jansenius Bishop of Ypres, called “Augustinus”; and of those great animosities and contentions that have risen about it in most Roman Catholic countries?’[^131] The French treatise upon which Bramhall imposed a critique in 1642–4 – the treatise shown to Bramhall by Sir Charles Cavendish while they were in Yorkshire together – was undoubtedly related to issues raised in the Jansenist controversy that had begun in 1640. The bishop’s critique had involved, or focussed upon, the harmonisation of human free-will and the prescience and decrees of God; apparently the author of the French treatise had asserted (as Hobbes was to assert) their incompatibility, arguing against ‘the prescience of things contingent’.[^132] Before he had arrived on the continent in July 1644, Bramhall must have had a pretty good idea about the free-will–predestination argument as it was being agitated in France. As Hobbes was to take a position which he himself linked to Calvin, one might say that, crudely speaking, the philosopher was taking the ‘Jansenist’ position in Paris. At any rate, if forced to choose between the sides, Hobbes would have been more inclined to the Jansenist one. Conversely, Bramhall’s libertarian position would have rendered the bishop more sympathetic to arguments made by the anti-Jansenist Jesuits (particularly Molinists), as the position of the latter was one that was in some respects very similar to the arminian one.[^133]
 
 [^130]: Alexander Sedgwick, *Jansenism in Seventeenth-Century France: Voices from the Wilderness* (Charlottesville: University of Virginia Press, 1977), 49–51; William Doyle, *Jansenism:* *Catholic Resistance to Authority from the Reformation to the French Revolution* (New York: St. Martin’s, 2000), 22–4. Tyacke has suggested that ‘Semi-Pelagianism’ may be considered ‘an early \[pre-sixth-century\] Christian equivalent of Arminianism’. *Aspects of English Protestantism*, 211. For controversies touching free-will among French protestants in the 1630s and 1640s, see Brian G. Armstrong, *Calvinism and the Amyraut Heresy:* *Protestant Scholasticism and Humanism in Seventeenth-Century France* (Madison: University of Wisconsin Press, 1969). Some of Amyraut’s opponents in the Huguenot community judged his teaching arminian.
+
 [^131]: *Just Vindication*, *BW*, i, 236. Bramhall referred to the persecution of the Jansenists by the Jesuits in *Schism Guarded*, *BW*, ii, 508.
+
 [^132]: ‘Discourse’, *BW*, iv, 153.
+
 [^133]: M. W. F. Stone has pointed out Arminius’s debt to Molina in ‘Aristotelianism and Scholasticism in Early Modern Philosophy’ in *Companion to Early Modern Philosophy*, ed. Steven Nadler (Oxford: Blackwell, 2002), 18. Bramhall’s (and other arminians’) debt to Molina has been observed by Sleigh, Chappell and Della Rocca in ‘Determinism and Human Freedom’, 1225. Molina held that ‘the will is free only in cases when it is possible not to accomplish the act it accomplishes’, Sarasohn, ‘Motion and Morality’, 372, n.35. Bramhall may be called a ‘Molinist’ inasmuch as he took precisely this position against Hobbes.
 
 *[p. 99]* ^pg119

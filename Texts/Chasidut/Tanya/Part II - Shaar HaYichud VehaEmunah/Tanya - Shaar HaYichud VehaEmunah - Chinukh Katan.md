@@ -44,43 +44,83 @@ Thus, there can be applied to this second type of love an expression of charge a
 Now, those who are familiar with the esoteric meaning of Scripture know [the explanation of] the verse, “For a *tzaddik* falls seven times and rises up again.”[^37] Especially since man is called “mobile”[^38] and not “static,” he must ascend from level to level and not remain forever at one plateau. Between one level and the next, before he can reach the higher one, he is in a state of decline from the previous level.[^39] Yet, it is written, “Though he falls, he shall not be utterly cast down.”[^40] It is considered a decline only in comparison with his former state, and not, G–d forbid, in comparison with all other men, for he is still above them in his service [of G–d], inasmuch as there remains in it an impression of his former state. The root of his service, however, is from the love of G–d to which he has been educated and trained from his youth before he reached the level of *tzaddik*. This, then, is the meaning of “Even when he will be old….” And the first thing which arouses love and fear, and their foundation,[^41] is the pure and faithful belief in His Unity and Oneness, may He be blessed and exalted.
 
 [^1]: Collected Discourses. For an introduction to this part of the *Tanya*, see Addendum, p. a.
+
 [^2]: The following is the author’s introduction which is called *Chinuch Kattan*. The complete work is referred to as *Shaar Hayichud VehaEmunah*.
+
 [^3]: The *Shema* consists of three sections of the Torah: [[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4-10]], 11:13-22, and [[Torah 37 - Sh'lach#^15-37|Numbers 15:37-42]]. Following the first verse of the first section, our Sages instituted the recital of the verse, *Blessed be the name of the glory of His kingdom for ever and ever*. See *Pesachim* [[Pesachim 56#56a|56a]].
+
 [^4]: [[Proverbs 22#^22-6|Proverbs 22:6]].
+
 [^5]: Cf. Commentary on Maimonides’ *Hilchot Yesodei HaTorah* 2:10; *Reishit Chochmah*, beg. of *Shaar HaAhavah*; Rabbi Schneur Zalman, *Shulchan Aruch*, *Hilchot Talmud Torah* 4:6.
+
 [^6]: [[Psalms 034#^34-15|Psalms 34:15]]; i.e., the fulfillment of the negative injunctions.
+
 [^7]: Ibid.
+
 [^8]: *Likkutei Amarim*, Part I, chs. 4, 41. Originally, Rabbi Schneur Zalman intended to arrange *Shaar Hayichud VehaEmunah* before the first part of *Likkutei Amarim*; hence the future tense. See *Hearot V’Tikkunim* (below, p. 792).
+
 [^9]: I.e., in addition to the negative precepts. Therefore we are to educate a child in the fear and love of G–d which will be the inspiration for the performance of all the commandments.
+
 [^10]: See Commentators *ad locum* and Rabbi Schneur Zalman, *Shulchan Aruch*, *Orach Chaim* 343:2-3.
+
 [^11]: [[Torah 46 - Eikev#^11-22|Deuteronomy 11:22]].
+
 [^12]: Cf. *Likkutei Amarim*, Part I, ch. 19.
+
 [^13]: The natural yearning of the soul can manifest itself only after the soul has freed itself of all the influences of the material body in which it is clothed. This may be attained by relinquishing all tendencies toward the gratification of gross material desires and seeking only the service of G–d.
+
 [^14]: Sing. *tzaddik*, “perfectly righteous,” one whose innate evil nature has been converted to actual goodness and who is motivated by pure love of G–d. Cf. *Likkutei Amarim*, Part I, ch. 10.
+
 [^15]: [[Psalms 097#^97-12|Psalms 97:12]].
+
 [^16]: The human soul comprises three grades: *nefesh* (vitality), *ruach* (spirit), and *neshamah* (soul). *Nefesh* is the lowest category of the three and is the vitality and life-force of the body. *Ruach* is the spiritual faculty which vivifies man’s emotion attributes and is the seat of the moral qualities. *Neshamah* is the most lofty and sublime of the three and is the Divine force which vivifies the human intellect, as it is written, “The *neshamah* of the Almighty gives them understanding” ([[Job 32#^32-8|Job 32:8]]). It is the most refined innermost spark of the soul and therefore the most divine part of man’s being. *Nefesh* is granted to all men; *ruach* may be acquired through the merit of observing the precepts of the Torah; but to realize *neshamah*, one must completely purify his physical coarseness. Cf. *Zohar* [[Zohar 11.09 - Sitrei Torah#^z1-81a|I:81a]], [[Zohar 3.06 - Parashat Va-Yiggash#^z1-206a|206a]]; [[Zohar 5.05 - Parashat Terumah#^z2-141b|II:141b]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-70b|III:70b]]; *Bereishit Rabbah* 14:9; *Shaloh* 1, 9b.
+
 [^17]: A popular ethico-kabbalistic work by Rabbi Eliyahu de Vidas, disciple of Rabbi Moshe Cordovero; completed in 1575.
+
 [^18]: Ch. 3.
+
 [^19]: There is an innate, hidden love in the heart of every Jew which is an inheritance to us from the Patriarchs. See *Likkutei Amarim*, Part I, chs. 18, 44.
+
 [^20]: Cf. [[Torah 51 - Nitzavim#^30-20|Deuteronomy 30:20]].
+
 [^21]: [[Zohar 7.08 - Parashat Aharei Mot#^z3-67a|III:67a]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-68a|68a]]. See *Likkutei Amarim*, Part I, ch. 44.
+
 [^22]: [[Isaiah 26#^26-9|Isaiah 26:9]].
+
 [^23]: [[Torah 10 - Miketz#^42-9|Genesis 42:9]]. See *Yalkut Shimoni*, ad loc.; *Kohelet Rabbah* 1:4.
+
 [^24]: [[Torah 45 - Vaetchanan#^4-20|Deuteronomy 4:20]]; [[I Kings 08#^8-51|I Kings 8:51]]; [[Jeremiah 11#^11-4|Jeremiah 11:4]]. This concept is more fully explained by Rabbi Schneur Zalman in *Torah Or*, *Yitro* 74a ff.
+
 [^25]: Lit., “the other side,” the opposite of holiness. A frequent metaphor in Kabbalistic and Chasidic literature to denote the forces of evil.
+
 [^26]: With the Giving of the Torah on Mount Sinai, for through the Torah the souls of Israel are bound to Him; and the Torah is His Name, as it is stated in *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-90b|II:90b]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-73a|III:73a]]; etc.
+
 [^27]: Ibid. [[Zohar 4.07 - Parashat Yitro#^z2-90b|II:90b]].
+
 [^28]: [[Proverbs 27#^27-19|Proverbs 27:19]]. “…so does the heart of man to man.” I.e., the love of one man for another awakens a loving response toward himself in the heart of his friend. How much more so will reflection upon the manifestation of G–d’s love toward us inspire love for Him.
+
 [^29]: *Likkutei Amarim*, Part I, ch. 46.
+
 [^30]: [[Torah 46 - Eikev#^10-12|Deuteronomy 10:12]].
+
 [^31]: See below, ch. 1, n. 5.
+
 [^32]: [[Torah 46 - Eikev#^10-14|Deuteronomy 10:14-11:1]].
+
 [^33]: Ibid. 11:22.
+
 [^34]: Ibid. 6:6.
+
 [^35]: [[Torah 38 - Korach#^18-7|Numbers 18:7]]. The priesthood symbolizes the state of *Ahavah Rabbah* which is granted as a Divine gift to the perfectly righteous. Hence it is within the reach of every Jew and is not limited to those born of the priestly class. Cf. Maimonides, *Hilchot Shemitah veYovel* 11:13.
+
 [^36]: See *Likkutei Amarim*, Part I, chs. 14, 43; *Iggeret Hakodesh*, Epistle 18.
+
 [^37]: [[Proverbs 24#^24-16|Proverbs 24:16]]. For further elaboration of this subject see Rabbi Hillel of Paritch, *Pelech Harimon*, *Bereishit*, *Hosafot* p. 302 (Kehot, 1954).
+
 [^38]: Cf. [[Zechariah 03#^3-7|Zechariah 3:7]]. See also *Torah Or*, *Vayeshev* 30a-d; Rabbi Schneur Zalman, *Likkutei Torah*, *Bechukotai* 45a; *Shelach* 38d ff. Man has been endowed with an unrestricted capacity for spiritual progress. All other creatures have a prescribed level which they cannot surpass.
+
 [^39]: See *Pelech Harimon*, *loc*. *cit*.
+
 [^40]: [[Psalms 037#^37-24|Psalms 37:24]].
+
 [^41]: The root and foundation of the observance of all the positive and negative precepts are love and fear of G–d, as explained above. And the basis of love and fear is faith. Thus, ultimately, faith is the foundation of the observance of the commandments. See *Likkutei Amarim*, Part I, ch. 33.

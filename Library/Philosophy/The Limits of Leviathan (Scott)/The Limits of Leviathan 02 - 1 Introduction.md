@@ -37,7 +37,9 @@ In Europe, vindicating rights derived from international law through an internat
 In the United States, the Supreme Court in *Sosa v. Alvarez-Machain* recently endorsed the idea that federal courts can entertain suits under international law, even in the absence of a treaty or statute explicitly authorizing the litigation.[^4] For nearly a quarter-century in advance of this decision, some lower courts had been doing this. Federal litigation based on international law has challenged the employment policies, environmental records, and mining and drilling
 
 [^2]: Union Royale Belges des Sociétés de Football Association v. Bosman (Case C-415 /93), \[1995 \] E.C.R.-I 4921 (soccer free agency); Commission v. Germany (Case 178/84), \[1987\] E.C.R. 1227 (beer purity standards); Johnston v. Chief Constable (Case 222/84), \[1986\] E.C.R. 1651 (sex discrimination).
+
 [^3]: For representative cases, see Lopez Ostra v. Spain, 20 Eur. H.R. Rep. 277 (1994) (solid waste treatment plant located near home violates right to privacy); Maria Guerra v. Italy, 26 Eur. H.R. Rep. 357 (1998) (serious environmental pollution violates right to privacy); Jordan v. United Kingdom, 37 Eur. H.R. Rep. (2001) (deficiencies in police investigation of homicide constitute a violation of European Convention’s right to life); Pretty v. United Kingdom, 35 Eur. H.R. Rep. 1 (2002) (right to die); I. v. United Kingdom, 36 Eur. H.R. Rep. 53 (2002) (failure to give legal recognition to sex change violates right to privacy); E. v. United Kingdom, 36 Eur. H.R. Rep. 31 (2002) (failure by social services to exercise due diligence in supervising children endangered by home environment violates European Convention).
+
 [^4]: 542 U.S. 692 (2004) (dismissing claim that arbitrary arrest of Mexican national by Mexican police constituted a violation of international law for which a damages remedy was available).
 
 *[p. 3]* ^pg13
@@ -47,7 +49,9 @@ practices of a host of prominent multinational firms.[^5] A recent spate of liti
 international law. Traditionally, states contracted for obligations, which they undertook to enforce through methods ranging from diplomatic protests to economic pressure to armed attack. Informal sanctions, largely involving effects on reputation and threats of retaliation, did most of the day-to-day work of ensuring compliance. International law was soft, in the sense that there existed no Hobbesian Leviathan to sanction default. The new approach, in contrast, allows private enforcement, employs independent tribunals and courts to do the enforcing, and empowers those tribunals and courts to wield the same array of tools that domestic courts traditionally use to compel compliance with their decisions. International law has become hard law, with its own Leviathan.
 
 [^5]: For a representative sample of the cases, see Aldana v. Del Monte Fresh Produce, N.A., Inc., 416 F. 3 rd 1242 (11 th Cir. 2005) (lawsuit by Guatemalan trade unionists against plantation owner for physical abuse); Alperin v. Vatican Bank 410 F.3 d 532 (9th Cir. 2005) (lawsuit against bank for assisting in human rights violations during World War II); Ungaro-Benages v. Dresdner Bank AG, 379 F.3 rd 1227 (11 th Cir. 2004) (lawsuit against banks for assisting Nazi takeover of Jewish-owned companies); Flores v. Southern Peru Copper Corp., 343 F.3 rd 140 (2nd Cir. 2003) (lawsuit against mining company for pollution-related injuries); Doe v. Unocal, 395 F.3 rd 932 (9th Cir. 2002) (lawsuit against energy company for slave labor compelled by local military on behalf of company); Aguinda v. Texaco, Inc., 303 F.3 rd 470 (2nd Cir. 2002) (lawsuit against energy company for environmental damage); Bano v. Union Carbide Corp., 273 F.3 rd 370 (2nd Cir. 2001) (lawsuit against chemical company for release of toxic gas); Bigio v. Coca-Cola Co., 239 F.3 rd 440 (2nd Cir. 2000) (lawsuit against companies that rented or purchased property that had been seized by Egypt from Jewish owners); Wiwa v. Royal Dutch Shell Corp., 226 F.3 rd 88 (2nd Cir. 2000) (lawsuit against energy company for complicity in suppression of critics of its relations with Nigerian government); Beanal v. Freeport-McMoran, Inc., 197 F.3 rd 161 (5 th Cir. 1999) (lawsuit against mining company for environmental abuses and genocide); Hamid v. Price Waterhouse, 51 F.3 rd 1411 (9th Cir. 1995) (lawsuit by depositors in collapsed bank against business associates of bank). According to press reports, the Unocal lawsuit resulted in a substantial settlement in 2004, after the Supreme Court decided *Sosa*, although the amount of the defendant’s payment remains undisclosed.
+
 [^6]: Medellin v. Dretke, 544 U.S. 660 (2005) (dismissing lawsuit in light of presidential order seeking to implement ICJ decision); *id*. at 672 (O’Connor, J., dissenting) (asserting jurisdiction to hear suit).
+
 [^7]: 543 U.S. 551 (2005). The Supreme Court currently has before it a joined case that might allow it to address these issues yet again. Sanchez-Llamas v. Oregon, No. 04-10566, and Bustillo v. Johnson, No. 05 -51, argued March 29, 2006. One of us (Stephan) filed a brief *amicus curiae* in support of the respondents in those cases.
 
 *[p. 4]* ^pg14
@@ -71,6 +75,7 @@ A dissident strain of scholarship argues that the already existing institutions 
 Both the mainstream scholarship and the dissident strands miss crucial points. The mainstream scholars do not appreciate how much formal enforcement already exists in the international system and how it has become more significant in recent years. Its expansion undermines concerns about its weakness: The trend is clearly away from impotence. International law, because of the growth of formal enforcement, has become a real force with direct and material consequences for a wide range of actors. The institution may not wield
 
 [^8]: Kenneth W. Abbott & Duncan Snidal, *Hard and Soft Law in International Governance* in Legalization and World Politics 37 (Judith L. Goldstein, Miles Kahler, Robert O. Keohane, & Anne-Marie Slaughter, eds. 2001). For a recent discussion of these concepts that proposes to substitute “legal” and “nonlegal” for “hard” and “soft,” see Jack L. Goldsmith & Eric A. Posner, The Limits of International Law 81 –100 (2005).
+
 [^9]: For recent instances, see Anupam Chander, *Globalization and Distrust*, 114 Yale L.J. 1193 (2005); Allison Marston Danner, *Enhancing the Legitimacy and Accountability of Prosecutorial Discretion at the International Criminal Court*, 97 Am. J. Int’l L. 510 (2003).
 
 *[p. 6]* ^pg16
@@ -108,6 +113,7 @@ We acknowledge that there exist many perspectives from which one might launch in
 It is enough to show that the analysis of optimal enforcement can be independent of the assessment of the underlying objectives of a cooperative product. If this is true, and if it is conceivable that some instances of international cooperation can be valuable, even if the cases we see in the present world incite controversy, then a model of optimal enforcement has value. The large body of scholarship devoted to the theory of the firm, for example, focuses on the agency costs associated with particular forms of organization and does not consider the underlying social costs or benefits produced by particular enterprises.[^13] Analytically, we do exactly the same thing: We consider only the question of how to optimize the value of a given cooperative project under conditions of costly enforcement.
 
 [^12]: From the left, see Chantal Thomas, *Globalization and the Reproduction of Hierarchy*, 33 U.C. Davis L. Rev. 1451 (2000). For the perspective of third world scholars, see Makau Mutua, *Savages, Victims,* *and Saviors: The Metaphor of Human Rights*, 42 Harv. J. Int’l L. 201 (2001). From the right, see Robert H. Bork, Coercing Virtue: The Worldwide Rule of Judges (2003); Jeremy Rabkin, *Is EU Policy Eroding the Sovereignty of Non-Member States?* 1 Chi. J. Int’l L. 273 (2000).
+
 [^13]: The seminal works include R. H. Coase, *The Nature of the Firm*, 4 Economica 386 (1937); Michael C. Jensen & William H. Meckling, *Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure*, 3 J. Fin. Econ. 305 (1976); Oliver E. Williamson, The Economic Institutions of Capitalism: Firms, Markets, and Relational Contracting (1985).
 
 *[p. 9]* ^pg19
@@ -129,7 +135,9 @@ Informal enforcement, as in the case of the ICJ and the WTO DSB, is by no means 
 The conventional wisdom holds that *only* informal enforcement applies in international law. Because international bodies lack armies or other traditional means of coercion, scholars have thought that law enforcement necessarily has depended on the uncoordinated cooperation of influential actors, principally states. As a result, contemporary discussion of the legalization of international law neglects the question of enforcement. The conventional definition of international law focuses on *opinio juris*, the idea that a practice arises from a sense of legal obligation rather than as a matter of naked preference.[^16] So framed, the
 
 [^14]: For a fuller discussion of the WTO DSB as an informal enforcement mechanism, see Kyle Bagwell & Robert W. Staiger, The Economics of the World Trading System 95 –110 (2002).
+
 [^15]: The economist Thomas Schelling and the political scientist Robert Axelrod pioneered the study of informal enforcement mechanisms in international relations. Thomas C. Schelling, The Strategy of Conflict (1963); Robert Axelrod, The Evolution of Cooperation (1984). Regime theorists also explore the incentives for international cooperation in the presence of exclusively informal enforcement. *E.g.*, Stephen D. Krasner, International Regimes (1983); Robert O. Keohane, After Hegemony: Cooperation and Discord in the World Political Economy (1984); Robert O. Keohane, International Institutions and State Power: Essays in International Relations Theory (1989).
+
 [^16]: American Law Institute, Restatement (Third) of the Foreign Relations Law of the United States §102(2) (1987).
 
 *[p. 11]* ^pg21
@@ -163,6 +171,7 @@ Formal enforcement is a central element of our positive theory about the emergen
 Enforcement, we argue, involves the commitment of resources by various actors, both states and private persons, to induce compliance with a rule. Enforcement is necessarily costly, in that it requires the diversion of time,
 
 [^18]: A. v. Secretary of State, \[2005 \] 2 W.L.R. 87 (H.L.).
+
 [^19]: The criticism is developed in Jack L. Goldsmith & Eric A. Posner, note 8 *supra*, at 27–28.
 
 *[p. 14]* ^pg24
@@ -174,6 +183,7 @@ All the instances of formal enforcement that we describe here have different ins
 Standing, that is, deciding who has the capability to engage a tribunal’s jurisdiction, is a critical determinant of the array of disputes that a tribunal can affect. If governments can control which disputes go to a tribunal, they can sacrifice interests subject to legal vindication for other considerations. During the period of superpower competition, for example, the United States did not always challenge the human rights practices of governments that sided with the West. Strategic and political interests might have justified this reluctance, but it certainly resulted in less enforcement of these rights, and arguably in less compliance with basic human rights obligations, than an alternative regime based on formal enforcement. When the Carter Administration decided to change the U.S. approach to international human rights enforcement, it focused largely on informal enforcement, but it also encouraged the U.S. courts to interpret old, seemingly irrelevant legislation as providing for formal enforcement of this body of law.[^21]
 
 [^20]: For a sample of this literature, see Legalization and World Politics, note 8 *supra*; Karen J. Alter, Establishing the Supremacy of European Law (2001); Laurence R. Helfer & Anne-Marie Slaughter, *Toward a Theory of Effective Supranational Adjudication*, 107 Yale L.J. 272 (1997).
+
 [^21]: *See* Memorandum for the United States as Amicus Curiae, Filartiga v. Peña-Irala, 630 F.2d 876 (2d Cir. 1980), reprinted in 19 I.L.M. 585 (1980).
 
 *[p. 15]* ^pg25
@@ -187,6 +197,7 @@ As we noted earlier, our definition of formal enforcement reflects our focus on 
 What does the growth of formal enforcement of international law mean? For many observers, these developments are the leading edge of a transformation in the global environment. Jürgen Habermas has spoken of “an enormous advance in the rights revolution” that, among other things, would end the
 
 [^22]: Daryl J. Levinson, *Making Government Pay: Markets, Politics, and the Allocation of Constitutional Costs*, 67 Chi. L. Rev. 345 (2000).
+
 [^23]: A recent debate over the significance and influence of permanent international courts has suffered, in our view, from a failure to distinguish between legalized dispute resolution, on the one hand, and formal enforcement power, on the other. Compare Eric A. Posner & John C. Yoo, *Judicial Independence in International Tribunals*, 93 Calif. L. Rev. 1 (2005)*,* and Eric A. Posner & John C. Yoo, *Reply to Helfer and Slaughter*, 93 Calif. L. Rev. 957 (2005), with Laurence R. Helfer & Anne-Marie Slaughter, *Why States Create International Tribunals: A Response To Professors Posner and Yoo*, 93 Calif. L. Rev. 899 (2005).
 
 *[p. 16]* ^pg26
@@ -204,7 +215,9 @@ In sum, formal enforcement of international law has become more salient, and res
 Contract Theory and International Law Enforcement This book addresses the question of international law enforcement instrumentally rather than historically. We look at how it has changed, and explore what it accomplishes. We consider two overlapping questions: Why has formal enforcement of international law become so significant? What is the particular
 
 [^24]: *America and the World – A Conversation with Jürgen Habermas, with Eduardo Mendieta*, Logos: A Journal of Modern Society & Culture 3.3 (Summer 2004).
+
 [^25]: Gregory Shaffer, Defending Interests: Public-Private Partnerships in WTO Litigation (2003); Andrew T. Guzman, *A Compliance-Based Theory of International Law*, 90 Calif. L. Rev. 1823, 1872–75 (2002); Joel P. Trachtman & Philip M. Moremen, *Costs and Benefits of Private Participation in WTO Dispute Settlement: Whose Right Is It Anyway?* 44 Harv. Int’l L.J. 221 (2003).
+
 [^26]: For a recent synthesis and defense of this account of international law, see Anne-Marie Slaughter, A New World Order (2004).
 
 *[p. 17]* ^pg27
@@ -218,7 +231,9 @@ In the field of contract law, the literature long has embraced two complementary
 We argue that essentially the same is true with respect to the enforcement of international law. To be sure, informal enforcement has been the norm historically. States that violated a norm invited retaliation by other states and also developed a bad reputation; states that adhered to their commitments both avoided retaliation and built up a reputation as a successful cooperative party. War, trade sanctions, diplomatic reprisals, the seizure of property and hostages all operated as forms of retaliation; states with reputations as effective cooperators were rewarded with more opportunities to engage in beneficial cooperation.[^29] From time to time, states turned to third parties to adjudicate their disputes, but instances where third parties had the power to compel
 
 [^27]: *E.g.*, to 22 U.S.C. §1650a (2001) (allowing claimant of an ICSID arbitral award to bring enforcement action in federal district court); 28 U.S.C. §2414 (2001) (obligating Secretary of Treasury to pay federal district court awards against United States).
+
 [^28]: *See* Robert E. Scott, *A Theory of Self-Enforcing Indefinite Agreements*, 103 Colum. L. Rev. 1641 (2003); Robert E. Scott, *The Case for Formalism in Relational Contract*, 94 Nw. U. L. Rev. 847 (2000); Robert E. Scott, *Conflict and Cooperation in Long-Term Contracts*, 75 Calif. L. Rev. 2000 (1987); Charles J. Goetz & Robert E. Scott, *Principles of Relational Contracts*, 67 Va. L. Rev. 1089 (1981).
+
 [^29]: *See generally* Andrew T. Guzman, note 25 *supra*.
 
 *[p. 18]* ^pg28

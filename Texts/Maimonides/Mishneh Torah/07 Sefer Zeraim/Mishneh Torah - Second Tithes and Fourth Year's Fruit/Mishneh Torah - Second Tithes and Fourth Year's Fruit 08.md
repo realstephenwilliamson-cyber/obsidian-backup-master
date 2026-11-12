@@ -67,60 +67,114 @@ When does the above apply? With regard to [the second tithe of] *demai*.[^52] Wi
 
 [^1]: I.e., the sacred quality of the second tithe no longer applies to it. It is as if the seller gave it to him as a present.  
     In his Commentary to the Mishnah (*Ma'aser Sheni* 1:3), the Rambam explains that when a seller is not meticulous in his business dealings and thinks that he sold only the meat and does not think about the hide, none of the money of the second tithe was used for the hide. Hence, the hide is considered as ordinary property.
+
 [^2]: For a merchant is careful about getting a full price for his merchandise and will make sure to include the value of the hide in the price. Since the person will be using the money from the second tithe for the purchase, that purchase will also encompass the hide. Hence the hide is considered as the servants and land mentioned in Chapter 7, Halachah 17, and one must eat an equivalent amount of food in Jerusalem. Although ordinarily, one may not purchase non-food items with money from the second tithe, in this instance, an exception is made, because the meat cannot be purchased without the hide. See Radbaz.
+
 [^3]: But not while they are open as the Rambam continues stating.
+
 [^4]: I.e., like the sale of the hides mentioned in the previous halachah, when an ordinary person buys or sells wine, he does not take the value of the jugs into consideration. For the container is considered as subservient to the wine it contains. Indeed, the flavor of the wine is somewhat dependent on its container. Accordingly, the two are considered as a single entity. (See *Eruvin* [[Eruvin 27#27b|27b]] which derives this concept through Biblical exegesis.) Hence, the money of the second tithe is not used for the containers.
+
 [^5]: By opening the jugs, the seller indicates that he desires to consider the jugs independently [the Rambam's Commentary to the Mishnah (*Ma'aser Sheni* 3:13)]. By opening a jug, the seller indicates that he wants the purchaser to pour it into his own containers.
+
 [^6]: Since he is selling the wine at an exact fee per measure, he is not including the price of the jug in the price of the wine (*Kessef Mishneh*).
+
 [^7]: As mentioned above, opening the container is an indication that the container should be considered as an independent entity.
+
 [^8]: Since it is customary in this place to sell the containers open, even if one sells them while sealed, he is considered to have followed the general practice of considering the container as a separate entity.
+
 [^9]: Following the same reasoning as in Halachah 1.
+
 [^10]: I.e., the basket.
+
 [^11]: For the fruit is sold independently of the baskets (Radbaz).
+
 [^12]: For they are obviously secondary to the fruit within them. Even a merchant is not concerned about them. Hence, one may benefit from them without worrying about purchasing their worth in food to be eaten in Jerusalem.
+
 [^13]: The dates together with the branches from which they are suspended.
+
 [^14]: Since the dates are crushed, the container is obviously subservient to them, for they could not be sold without it. Hence, it is not considered as a separate entity.
+
 [^15]: For the containers are considered as subservient to the dates.
+
 [^16]: As opposed to other liquids as indicated by the conclusion of the halachah.
+
 [^17]: We are speaking about a person using his own jugs. Nevertheless, the term "lends" is used because the person desires to retain possession of the jugs as ordinary property. He is merely "lending" them temporarily to be used for the second tithe. In his Commentary to the Mishnah (*Ma'aser Sheni* 3:12), the Rambam writes that the person must make an explicit statement of the above intent.
+
 [^18]: I.e., he stored wine from which the second tithe had not been separated in jugs and then desired to set aside several jugs as the second tithe. This reflects a reversal of the Rambam's understanding in his Commentary to the Mishnah (*loc. cit.*). The Radbaz explains, however, that the two rulings are not contradictory.
+
 [^19]: Thus after the wine is poured out from them, he may use the jugs as ordinary property, without any further measures.
+
 [^20]: For the wine and the container have an integral relationship as mentioned above. Indeed, our Sages compare it to separating wine in its jug to separating fruit in its peal. Thus if the value of the wine is transferred to money, the value of the jugs must also be included (Radbaz). Nevertheless, if one drinks the wine, the jug is no longer considered as consecrated to the second tithe and may be used for other purposes (*Rambam LeAm*).
+
 [^21]: A measure of 86 or 150 cc depending on which Rabbinic authority one follows.
+
 [^22]: By putting ordinary wine in the jug, he indicates that he does not desire that the jug be acquired by the second tithe.
+
 [^23]: I.e., brine that was purchased with money from the second tithe.
+
 [^24]: For in contrast to wine and its containers, the containers of these liquids are not necessary for the liquid itself and are always considered as separate from them.
+
 [^25]: Since the animal was never eaten, the hide is not considered as a separate entity. Thus since it and the animal are consecrated with the holiness of the second tithe, they must be buried. The deer may not be redeemed, because "we do not redeem consecrated entities in order to use their meat to feed dogs [the Rambam's Commentary to the Mishnah (*Ma'aser Sheni* 3:11); *Hilchot Issurei Mizbeiach* 2:10]. Rabbi Akiva Eiger questions this ruling, citing sources which indicate that in similar circumstances, the hide can be considered a separate entity and should be redeemed.
+
 [^26]: See Chapter 2, Halachah 8; Chapter 7, Halachah 1. Needless to say, this same law applies when a person purchases meat and later that meat becomes impure (Radbaz, based on the above mishnah).
+
 [^27]: In other words, the person set aside money that was consecrated from the second tithe. Nevertheless, instead of using that money, used ordinary money with the intent that the holiness associated with the second tithe is transferred to the ordinary money as that money was spent to purchase food.
+
 [^28]: The Rambam is obviously speaking in hyperbole. The ordinary exchange rate of a *dinar* is six *me'ah* (*Hilchot Eruvin* 1:12).
+
 [^29]: I.e., he must use half a *dinar* for food. Now, however, the value of that half a *dinar* in *me'ah* has doubled. The rationale is that the value of the coinage from the second tithe is calculated at the time and place it is transferred.
+
 [^30]: Again, he is using half a *dinar*, but now the value of that half a *dinar* in *me'ah* has been halved.
+
 [^31]: The Rambam's wording has attracted the attention of the commentaries who note that there is no Biblical verse which uses that exact wording. See [[Torah 33 - Bechukotai#^27-19|Leviticus 27:19]] which uses somewhat similar expressions.
+
 [^32]: The Rambam's wording has attracted the attention of the commentaries. Seemingly, the reason for the Rambam's ruling is that once the purchaser performed *meshichah*, he acquired the produce. Hence, when he pays for it, he pays the price at the time of its acquisition. This is not implied by the Rambam's wording. Indeed, as the Ra'avad emphasizes, the Rambam's wording implies the very opposite.
+
 [^33]: I.e.., he must eat the entire amount of produce according to the stringencies required of produce of the second tithe. One might think that the purchaser would profit from the rise of the value of the produce, i.e., he could eat half of it as the second tithe and use the other half as his private property. Hence, the Rambam clarifies that this is not so. The Radbaz explains the Rambam's wording, explaining that the transfer of the holiness does not take place until he pays the money, but that afterwards, the produce is acquired by the second tithe according to its price at the time of acquisition.
+
 [^34]: I.e., since he drew the produce into his possession when it was worth two *selaim*, he must pay that amount to the seller. Nevertheless, he may not pay that entire amount from the money of the second tithe, because now the produce is not worth that amount. Indeed, if the purchaser would give the seller the second *sela* from the money of the second tithe, the holiness of that money would not be transferred to the produce and the seller would be obligated to use it to purchase food which he would eat according to the stringencies of the second tithe.
+
 [^35]: In his Commentary to the Mishnah (*Ma'aser Sheni* 4:6), the Rambam explains the rationale for this ruling. Since we are speaking about *demai*, there is only a question if there is a prohibition involved. Accordingly, since a common person is more lax in his observance and will violate even more severe prohibitions, we assume that he is not precise in his observance of *demai*. Hence, it can be given to him. The commentaries question that explanation, for even though he is not careful in his observance, we should not be responsible for him possibly performing a transgression. See Halachah 13 where this concept is also mentioned.
+
 [^36]: I.e., the entire amount of produce is considered as produce of the second tithe, because as soon as the money from the second tithe is paid, its holiness is transferred to the produce.
+
 [^37]: I.e., were it ordinary produce, the law would be that the seller should keep his word and complete the transaction. Nevertheless, since according to Rabbinic Law, a transaction is not completed with the payment of money, but rather when the purchaser draws the object into his possession, the purchaser does have the option of retracting. If he does so, however, he must be given the adjuration *mi shepara* (*Hilchot Mechirah* 7:1). Should the seller choose that option and retract entirely, he must treat the produce in his possession as produce of the second tithe. If he still wants to carry out the sale at one *sela*, he must give the purchaser back a *sela*. The purchaser must consider all the produce as the second tithe, but the *sela* he was given is ordinary money.
+
 [^38]: I.e., the entire amount of produce is considered as produce of the second tithe, because as soon as the money from the second tithe is paid, its holiness is transferred to the produce.
+
 [^39]: I.e., the holiness of the second tithe is transferred to the produce. Nevertheless, from the financial point of view, the purchaser has the option of accepting the adjuration *mi shepara* and retracting from the transaction. If he takes that option, the seller must return the two *selaim* to him and from that time on, he may treat them as ordinary money. And the seller must treat the produce as produce of the second tithe.
+
 [^40]: The exchange of money for produce or vice versa.
+
 [^41]: I.e., just as a business transaction is completed when the purchaser draws it into his possession, the transfer of the holiness of the second tithe is completed upon the payment of money.
+
 [^42]: As the Rambam states at the conclusion of the following halachah, the money and the produce do not have to be in the same place when the holiness of one is transferred to the other.
+
 [^43]: In his Commentary to the Mishnah (*Ma'aser Sheni* 2:4), the Rambam mentions another general principle that can be derived from this law: the holiness of money in the second tithe can be transferred even when the money is in Jerusalem. As mentioned above, the holiness of produce from the second tithe may not be transferred when that produce is in Jerusalem.
+
 [^44]: I.e., for purposes other than food, drink, or smearing.
+
 [^45]: Which he may use at will, in Jerusalem or outside that holy city.
+
 [^46]: A person who is precise in the observance of the laws of the agricultural laws and the laws of ritual purity. See *Hilchot Ma'aser*, ch. 10.
+
 [^47]: For this produce must be eaten in a state of ritual purity and a common person is not precise in his observance of those laws. See Chapter 3, Halachot 8-9.
+
 [^48]: As mentioned in the notes to Halachah 8, since the obligation above is only Rabbinic in origin, we allow it to be given to a common person even if he might be lax in its observance.
+
 [^49]: Since the common person is not careful in his observance of the second tithe, one might think that he already separated it from his produce, but is considering it as ordinary produce regardless. Were that the case, one could not transfer the holiness of other produce from the second tithe to it [the Rambam's Commentary to the Mishnah (*T'vul Yom* 4:5)].  
     The Ra'avad cites the *Tosefta* (*Ma'aser Sheni* 4:9) which places certain limitations on making such a transfer. The Radbaz explains that it is possible that these limitations were not accepted as halachah.
+
 [^50]: I.e., he continued using that coin to redeem produce from the second tithe until all but less than a *p'rutah's* worth of the coins value had been used to redeem produce.
+
 [^51]: And may be used for purposes other than the purchase of food and drink. The rationale is that anything less than a *p'rutah's* worth of value is not financially significant [the Rambam's Commentary to the Mishnah (*Ma'aser Sheni* 4:8)].
+
 [^52]: Since the obligation is only of Rabbinic origin, we are more lenient.
+
 [^53]: In that way, when the fifth (one fifth of the new total) is added, the worth of the entire amount will be less than a *p'rutah* (*ibid.*).
+
 [^54]: The Ra'avad [based on the Jerusalem Talmud (*Ma'aser Sheni* 2:10)] states that we are speaking about a situation where the person says: "When the person eats or drinks, what he eats or drinks will be retroactively considered as the second tithe from the present time." It is necessary to make this qualification, because otherwise, at the time he eats or drinks, he will be partaking of ordinary food and the consecration would not take effect until the object no longer exists.  
     The Ra'avad also states that this ruling depends on the principle of *bereirah*, that retroactively the status of an object can be changed. The Radbaz and the *Kessef Mishneh* note that there is somewhat of a difficulty in ascribing such a position to the Rambam, for the Rambam maintains that in questions of Scriptural Law, the principle of *bereirah* does not apply. The Radbaz explains that since there is no prohibition involved, merely the question of when the transfer of holiness takes effect, all authorities agree that the principle of *bereirah* applies.
+
 [^55]: In certain instances, they may, however, touch the container in which the food is stored. See *Ma'aser Sheni* 2:10 and the Rambam's commentary for more details.  
     The commentaries suggest that the restrictions mentioned in *Hilchot Ma'achalot Assurot* 9:21 should also be observed.

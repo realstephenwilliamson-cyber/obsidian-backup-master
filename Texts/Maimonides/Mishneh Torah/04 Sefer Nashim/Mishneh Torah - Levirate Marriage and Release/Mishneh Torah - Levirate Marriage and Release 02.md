@@ -135,83 +135,155 @@ If the priest divorces [the woman] or dies, she should perform *chalitzah*.[^73]
 
 [^1]: A *ma'amar* can also be effected with a *sh'tar*, a legal document (*Maggid Mishneh*).  
     From *Yevamot* [[Yevamot 52#52a|52a]] it would appear that this practice was instituted as an expression of modesty. Just as with regard to marriage, although it is acceptable to consecrate a woman through sexual relations according to Scriptural law, our Rabbis ordered a ban of ostracism to be placed on a person who does so; so too, with regard to *yibbum*, they required that the man designate the woman as his wife before entering into marital relations with her.
+
 [^2]: The word *ma'amar* means "statement." The *Tosefot Yom Tov* explains that the term was chosen because the *yavam* must make a statement of intent. Rav Kapach offers an alternative interpretation, citing [[Torah 50 - Ki Tavo#^26-17|Deuteronomy 26:17]],18, which uses the root אמר to mean "designate," or "declare allegiance to."
+
 [^3]: See Chapter 5, Halachot 2-3.  
     The standard printed text of the *Mishneh Torah* continues "as does sexual relations." Nevertheless, authoritative manuscripts and early printings of the *Mishneh Torah* do not contain this addition. Based on that version, Rav Kapach explains that the comparison may be, not to sexual relations with a *yevamah*, but rather to the effectiveness of the transfer of money in ordinary *kiddushin*.
+
 [^4]: See *Hilchot Ishut* 4:1.
+
 [^5]: If the minor's marriage is consummated, she leaves her father's authority and acts independently. As long as she is merely consecrated, however, she is under her father's authority. See *Hilchot Ishut* 3:11-12.
+
 [^6]: See *Hilchot Ishut* 10:3 for the text of these blessings. The Ramah (*Even HaEzer* 166:2) states that the ceremony of *chuppah* should also be performed, and the *Ma'aseh Rokeach* adds that *Birkat Erusin* (*Hilchot Ishut* 3:23) should be recited.
+
 [^7]: The text of the *ketubah* to be composed by the *yavam* appears in Chapter 4, Halachah 32.
+
 [^8]: The fact that he disobeyed our Sages' wishes does not cause his deed to lose its effectiveness.
+
 [^9]: The punishment given for disobeying a Rabbinic ordinance. See *Hilchot Ishut* 3:21.
+
 [^10]: Note the *Shulchan Aruch* (*Even HaEzer* 166:9), which cites a minority opinion that differentiates between whether the *yevamah* had been married to her first husband or merely consecrated by him. In the latter instance, she must be consecrated a second time.
+
 [^11]: Our translation is based on Rashi's gloss, *Yevamot* [[Yevamot 53#53b|53b]].
+
 [^12]: Although it is improper for a husband to engage in relations with his wife when she is asleep, this does not negate the effectiveness of the *yavam's* act.
+
 [^13]: The purpose of *yibbum* is to "perpetuate the name of his brother" ([[Torah 49 - Ki Teitzei#^25-7|Deuteronomy 25:7]] - i.e., to conceive progeny. Although this objective cannot be achieved through anal intercourse, it is still an effective means of acquisition. Since both the man and the woman are capable of conceiving children, the fact that they cannot accomplish that through this sexual act does not detract from its effectiveness (*Beit Shmuel* 166:6).
+
 [^14]: Our translation is based on *Hilchot Issurei Bi'ah* 1:10.
+
 [^15]: Note the *Or Sameach*, who questions this ruling based on the Jerusalem Talmud (*Yevamot* 6:1, quoted by the Rambam in Chapter 6, Halachah 3), which states that when a mentally incompetent person performs *yibbum*, his act is binding. The *Or Sameach* explains that a mentally incompetent person may have the intent to engage in sexual relations. In this instance, however, the person has lost control of his faculties to the extent that he has no intent whatsoever.
+
 [^16]: For masturbation is not considered to be sexual relations.
+
 [^17]: For sodomy is considered to be a forbidden form of relations.
+
 [^18]: Since it is within 30 days, we accept the possibility that the *yavam* did not engage in relations with her, and compel him to perform *chalitzah* so the *yevamah* can remarry another man (*Yevamot* [[Yevamot 111#111b|111b]]).
+
 [^19]: And remain married to her.
+
 [^20]: Since he brought her home as his wife, even if he agrees that they did not engage in relations, he is required to divorce her, because it is likely that they did engage in relations (*Maggid Mishneh*; Ramah, *Even HaEzer* 167:6). Nevertheless, since she claims that they did not, and there is plausibility to her claim, he is also required to perform *chalitzah*.
+
 [^21]: After a couple have lived together for thirty days, we assume that they have engaged in relations, for a man will not restrain himself any longer. Hence, the man cannot be compelled to perform *chalitzah* (*Yevamot, ibid.*). Nevertheless, we ask him to perform this rite, for otherwise the woman will not be permitted to remarry.
+
 [^22]: He has nothing to lose in this concern, for since he divorced her without entering into relations with her, he is no longer permitted to fulfill the mitzvah of *yibbum*. Therefore, he should fulfill the mitzvah of *chalitzah* so that she can remarry.
+
 [^23]: According to the simple meaning of the verse, the subject is - as reflected in our translation - the *yevamah*. Nevertheless, in a halachic context, it is possible for one verse to have several interpretations. Accordingly, *Yevamot* 2:8 (see the Rambam's Commentary on the Mishnah) interprets this verse to be referring to the deceased's mother. (See also *Yevamot* [[Yevamot 24#24a|24a]], quoted in Chapter 6, Halachah 8, which considers the *yevamah* the subject of the phrase in a different halachic context.)
+
 [^24]: See Halachah 12.
+
 [^25]: Although the Rambam maintains that the mitzvah of *yibbum* takes priority over the mitzvah of *chalitzah*, we cannot compel a man to wed a woman with whom he does not desire to live.
+
 [^26]: For until this mitzvah is performed, the *yevamah* may not remarry.
+
 [^27]: I.e., the *yevamah* should not be subjected to an unnecessary delay, if possible.
+
 [^28]: When stating this law, the *Shulchan Aruch* (*Even HaEzer* 161:5) uses the expression "an overseas country." The *Beit Shmuel* 161:6 cites the expression used by the Rambam and explains that it refers to a country in which a different language is spoken, even if it is relatively close. He cites a ruling of Mahari Mintz, which states that if the eldest brother is in another city, and the *yevamah* does not have the funds to pay for travel there, the younger brother can be compelled to perform the mitzvah. (*Kin'at Eliyahu* notes that the Rambam often uses the word *medinah* to mean metropolis. He questions whether that is the Rambam's intent here.)
+
 [^29]: Here also, the intent is not to subject the *yevamah* to an unnecessary delay.
+
 [^30]: I.e., there is no halachic reason preventing her from doing so.
+
 [^31]: See *Hilchot Ishut* 14:8, which states that a woman who refuses to engage in marital relations because she is repelled by her husband, should be divorced by her husband, because "she is not like a captive, [to be forced] to engage in relations with someone she loathes." She does, however, forfeit the money due her by virtue of her marriage contract and any presents that her husband gave her. As mentioned in the notes on *Hilchot Ishut*, the *Shulchan Aruch* (*Even HaEzer* 77:2) follows a different perspective with regard to this ruling.  
     There is also a difference of opinion among the authorities whether a woman who refuses to engage in *yibbum* is considered to have "rebelled." As mentioned in the notes on Chapter 1, Halachah 2, the Ashkenazic authorities maintain that the mitzvah of *chalitzah* takes precedence over the mitzvah of *yibbum*. Therefore, they maintain that a woman has the right to refuse to engage in *yibbum*, and she is not judged to have "rebelled" for this reason.
+
 [^32]: The *Shulchan Aruch* (*Even HaEzer* 77:2) differs with the Rambam and maintains that a husband should not be compelled to divorce a woman who "rebels." According to that perspective, a *yavam* should also not be compelled to perform *chalitzah*.  
     According to the Ramah (*Even HaEzer* 165:1), who favors *chalitzah*, when a *yavam* desires to perform *yibbum* and the *yevamah* refuses, the *yavam* cannot be compelled by force to perform *chalitzah*. He should, however, be convinced to do so. Note the gloss of the *Beit Shmuel* 165:1, which discusses this ruling in detail.  
     All authorities agree that if the *yavam* is one of the individuals considered unfit to marry (see Halachah 14), he should be compelled to perform *chalitzah*.
+
 [^33]: This applies even if one of the other women would be willing to marry the *yavam*; the choice is his and not hers.
+
 [^34]: The *Maggid Mishneh* explains that the woman must either consent to *yibbum* or be considered to have "rebelled."
+
 [^35]: The Ra'avad and others differ with the Rambam on this point and maintain that if the eldest brother demurs, the prerogative is given to the brother who is next in the order of age. This perspective is followed by the *Shulchan Aruch* (*Even HaEzer* 161:4).
+
 [^36]: If, however, the brother she desires to marry does not desire to marry her, she is considered to have "rebelled," as stated in the following halachah.
+
 [^37]: Although, according to the Rambam, the mitzvah of *yibbum* takes priority over the mitzvah of *chalitzah*, this is the case only when *yibbum* can be performed immediately. In this instance, this brother is not forced to wait until his other brother returns, for having the obligation to perform *yibbum* or *chalitzah* is a detriment to a man, as stated in Halachah 16 (Rav David Arameah).
+
 [^38]: Generally, the court makes an effort to have the mitzvah of *yibbum* or *chalitzah* performed as soon as possible, as reflected in Halachot 8 and 9. This, however, is a measure of consideration for the woman, so that she will not be forced to remain without a husband. In this instance, it is she who desires the delay. Hence, she is given that prerogative (*Or Sameach*).
+
 [^39]: See Chapter 1, Halachah 5. (See also Chapter 3, Halachot 4, 13-14 and Chapter 6, Halachah 7.)
+
 [^40]: I.e., her first husband or his estate would have had to pay her the money due her by virtue of her marriage contract.
+
 [^41]: He has constant bad breath or a smell coming from his nose, or he works as a copper miner, a tanner, or a collector of dog feces, as stated in *Hilchot Ishut* 25:11.
+
 [^42]: A man is entitled to divorce his wife if he discovers that she possessed physical blemishes that mar her appeal before her marriage, and he is not required to pay her the money due her by virtue of her marriage contract, as stated in *Hilchot Ishut* 7:8, 25:2. Nevertheless, in this instance this law does not apply, because the connection between the *yavam* and the *yevamah* begins directly after her first husband's death.
+
 [^43]: I.e., she took a vow not to benefit from the *yavam* in her husband's lifetime for other reasons, without the explicit intent that she would free herself from obligation to him.
+
 [^44]: I.e., the woman took a vow not to benefit from any Jews. Although that vow did not take effect with regard to her husband, once her husband died it takes effect with regard to the *yavam*.
+
 [^45]: She is not allowed to marry the *yavam*, because she will derive benefit from him and thus break her vow. Nor is she considered to be a woman who rebels, because her vow was not taken to free her from the obligation of *yibbum*. (See *Yevamot* [[Yevamot 112#112a|112a]].)
+
 [^46]: Since the vow was taken specifically to free her from the obligation of *yibbum*, the *yavam* is not obligated to respect it.
+
 [^47]: If he agrees and performs *chalitzah* willingly, he is obligated to pay her the money due by virtue of her marriage contract.
+
 [^48]: In which case he is compelled to perform *chalitzah* with her, but is not required to pay her the money due by virtue of her marriage contract, as stated in Halachah 10.
+
 [^49]: Moreover, even if we are unsure of the woman's intent when taking the vow, we assume that she desired to free herself from the obligation of *yibbum*.
+
 [^50]: As stated in *Hilchot Ishut* 18:1-2, a widow is entitled to live in her deceased husband's home and derive her livelihood from his estate until she remarries.
+
 [^51]: The *Kiryat Sefer* explains that just as a man can divorce his wife against her will, so too, a *yavam* can perform *chalitzah* with his *yevamah* against her will. Even if she desires *yibbum*, she can be compelled to perform *chalitzah*. The *Maggid Mishneh* cites certain authorities who differ with the Rambam and maintain that since the mitzvah of *yibbum* takes priority, the *yevamah* cannot be forced to perform *chalitzah*.
+
 [^52]: I.e., she is willing to forego the obligation of her husband's estate to her.
+
 [^53]: For as long as there is the possibility that the *yavam* will marry the *yevamah*, other women will hesitate to marry him, for no woman would like to share her husband with another woman.
+
 [^54]: Hence, the woman is compelled to perform *chalitzah*.  
     If neither the *yevamah* nor the *yavam* desires to perform *chalitzah*, the court is under no obligation to see that the mitzvah is performed. Although the *Zohar*, Volume III, page 180a, explains that *chalitzah* brings about benefit for the deceased's soul, neither his brother nor his wife has a binding obligation to perform this act on his behalf. If they desire to, they may, but they cannot be compelled to do so. (See the Responsa of the *Chatam Sofer, Even HaEzer*, Volume II, Responsum 85.)
+
 [^55]: See Chapter 6, Halachah 13.
+
 [^56]: The *Maggid Mishneh* quotes the Ramban and the Rashba as saying that if the *yavam* desires to divorce the *yevamah* immediately, he is not required to pay her the money due her by virtue of her marriage contract. If, however, he desires to remain married to the woman, he must write a marriage contract for her, for it is forbidden for a man to remain married to a woman without a marriage contract, as stated in *Hilchot Ishut* 10:10. The Ramah (*Even HaEzer* 168:9) quotes this interpretation.  
     The *Maggid Mishneh* notes that this interpretation does not fit the Rambam's wording. In that light, the *Or Sameach* offers the following interpretation: The *yavam* is never obligated to write a marriage contract for the *yevamah*. Why did our Sages require a man to write a marriage contract for his wife? So that there would be a financial responsibility attached to divorce, and hence a husband would not consider it to be a light matter. In this instance, the *yavam* is held responsible for the additional amount that the husband added to the marriage contract. Hence, there is financial responsibility attached to divorce, and there is no imperative for a further obligation.
+
 [^57]: As mentioned in *Hilchot Ishut* 24:2-3, although her husband is not obligated for the fundamental requirement of the marriage contract, he is obligated for the additional amount that he promised her. This obligation is transferred to the *yavam*.
+
 [^58]: The *yavam* is not, however, obligated to write a marriage contract equivalent to the one that the woman's first husband gave her. It is sufficient that he write her a marriage contract for 100 *zuz*, as explained in *Hilchot Ishut* 22:14.
+
 [^59]: Both *Sefer HaMitzvot* (Negative Commandment 357) and *Sefer HaChinuch* (Mitzvah 596) include this as one of the Torah's 613 commandments.
+
 [^60]: This applies even if she married without knowing of the existence of the *yavam* (*Shulchan Aruch*, *Even HaEzer* 159:2).
+
 [^61]: If, however, the couple do not engage in relations, they are not punished with lashes.
+
 [^62]: The children are not, however, considered illegitimate. See *Hilchot Issurei Bi'ah* 15:1-2.
+
 [^63]: I.e., she is compared to a woman who engages in relations with another man while married. See *Hilchot Gerushin* 10:7.  
     She becomes forbidden to both men, even though she claims not to have engaged in sexual relations with her second husband (*Kessef Mishneh; Ma'aseh Rokeach*; see *Hilchot Issurei Bi'ah* 19:3).
+
 [^64]: The *Shulchan Aruch* (*Even HaEzer* 159:1) states that this law applies even when the man consecrates her without knowing of the existence of the *yavam*. The *Beit Shmuel* 159:1 differs and cites the opinion of the Rashba and the Ramban, who maintain that in such an instance, if the *yavam* desires to perform *chalitzah*, the woman may remain married to her second husband.
+
 [^65]: I.e., one might think that since the *yavam* cannot perform *yibbum* with her, she should be allowed to remain married to her second husband. If so, however, the man's transgression - marrying the *yevamah* - will have brought him benefit. Hence, he is required to divorce her (*Yevamot* [[Yevamot 92#92b|92b]]).
+
 [^66]: The rationale is that since the prohibition is merely a disciplinary measure, if the couple marry again they may remain married (*Maggid Mishneh*).  
     The Ramah (*Even HaEzer* 159:1) states that if the second husband knew of the existence of the *yavam* and consecrated the woman anyway, he is forbidden to remain married to her, even if he remarried her after *chalitzah*.
+
 [^67]: See *Hilchot Gerushin* 10:5,7).
+
 [^68]: The Ramah (*Even HaEzer* 159:3) states that she does, however, become forbidden to the man with whom she engaged in relations. Even if her *yavam* performs *chalitzah*, the two may not marry.
+
 [^69]: This refers to an instance where the child's physical appearance indicates that the birth was viable. Therefore, the woman is not required to perform *chalitzah* according to Scriptural law. Nevertheless, because the pregnancy was not full term, our Sages required *chalitzah*, as explained in Chapter 1, Halachah 5.
+
 [^70]: I.e., we do not force the couple to divorce, as in the previous halachah.
+
 [^71]: In his gloss on the *Shulchan Aruch* (*Even HaEzer* 164:7), Rabbi Akiva Eiger states that this leniency applies only when the priest consecrated the woman without knowing of her obligation to perform *chalitzah*. If he knew of her obligation and consecrated her nonetheless, the couple are not permitted to remain married.
+
 [^72]: The Ramah (*Even HaEzer* 164:7) states that similar laws apply when a *yevamah* was consecrated by an Israelite, and her *yavam* is abroad and cannot perform *chalitzah* for her.
+
 [^73]: I.e., the leniency is granted to the priest, because it is necessary and not to other men.

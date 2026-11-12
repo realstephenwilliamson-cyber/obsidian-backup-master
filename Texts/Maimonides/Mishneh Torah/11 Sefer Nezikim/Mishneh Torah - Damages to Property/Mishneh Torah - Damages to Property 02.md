@@ -118,58 +118,113 @@ chapter: 2
 **20.** When there are two cows in the public domain, one lying down and one walking, if the one walking kicks the one lying down, [the owner] is liable for half the damages.[^55] Even though it would be the ordinary practice for [the cow] to tread on the cow that is lying down, it is not its ordinary practice to kick it.[^56] ^2-20
 
 [^1]: The Ra'avad emphasizes that when an animal has been deemed prone to cause damage through goring or one of its derivatives, it is deemed mu'ad only with regard to the particular activity that it performed repeatedly, but not with regard to any of the other derivatives of goring.
+
 [^2]: See Chapter 1, Halachah 4-5.
+
 [^3]: For like damages caused by treading, it involves damages caused accidentally by an animal when walking in its ordinary manner.
+
 [^4]: The Lechem Mishneh raises questions regarding this point, but the Rambam's ruling is justified by the later commentaries.
+
 [^5]: See Halachah 7, which clarifies the distinction between this and other instances where half payment is required.
+
 [^6]: I.e., it is a law that was communicated orally to Moses on Mount Sinai and then transmitted orally from generation to generation. Although such laws are usually not even alluded to in the Written Law, their authority is the same as that of a law stated in Scripture. See the Rambam's Commentary on the Mishnah (Sanhedrin, Chapter 6).
+
 [^7]: Despite the fact that the animal was walking in the public domain, since the damage took place in a private domain, the owner is liable.
+
 [^8]: The damage to the first utensil is an ordinary instance of treading, while the damage to the second utensil is a case of the law illustrated in the previous two halachot.
+
 [^9]: Intentionally.
+
 [^10]: See Chapter 1, Halachah 11 and notes.
+
 [^11]: This law is the subject of an unresolved question in [[Bava Kamma 19#19a|Bava Kama 19a]]. The question is whether kicking the stone is considered like goring - for the kicking was done intentionally - in which case the owner would be liable for damage caused in the public domain, or it is considered to be an ordinary instance of stones that were propelled, and since the damage took place in the public domain, the owner is not held liable.Even according to the logic that maintains that the owner is liable, he is liable for only a fourth of the damage. This figure is arrived at as follows: When damage is caused by propelling stones, the owner is required to pay only half. Since the animal is considered to be a tam - i.e., it is not prone to cause such damages - the owner is required to pay only half of the amount for which he would be liable. Thus, one half of a half is a quarter.Since the question was not resolved by the Sages, the owner should not be held liable. Conversely, if the person whose property was damaged seized the money involved, it should not be expropriated from him.The Ra'avad raises objections to the Rambam's ruling, based on a different understanding of the Talmudic passage. The later authorities, however, follow the Rambam.
+
 [^12]: This law is an extension of the unresolved question mentioned in the previous halachah. Since the damage took place in a private domain, the owner is definitely held liable. The question is whether he is liable for half the damages or for only a quarter of the damages. According to the opinion that maintains that kicking is considered a deviation, he should be held liable for only a fourth. According to the opinion that maintains that a deviation is not significant with regard to this category of damages, he is liable to pay half the damages.Since the matter was left unresolved, the owner may be required to pay only one fourth. If, however, the person whose property was damaged seized the owner's property, he need not relinquish half the value of the damages.
+
 [^13]: The principles operating in this instance are the same as those operating in the first clause. The only reason for mentioning this law is that since it is impossible that the animal would not propel stones, one might not think that the deviation is significant, and the owner should be held liable for half the damages, as in an ordinary case of this nature. This premise is, nevertheless, not accepted.
+
 [^14]: In this instance, although the owner does not pay for the full extent of the damages, none of the leniencies stated below apply.With regard to the payment of half-damages, according to ordinary logic - and indeed, this was the practice of the secular laws at that time - since the animal was not mu'ad, prone to cause damage, one would not think to hold the owner liable. Nevertheless, to insure higher standards of respect for property, Torah law fined the owner of the animal for half the damages.
+
 [^15]: See Halachah 3.
+
 [^16]: This applies even if after a person admits that he is liable for a fine, witnesses testify to that effect (Hilchot Geneivah 3:8-9 and the Maggid Mishneh). There are also other distinctions between fines and monetary obligations; for example, cases involving fines were arbitrated only by judges who were given semichah. Thus, they are not arbitrated in the present era.
+
 [^17]: As is the case when one's animal eats produce belonging to someone else.
+
 [^18]: The parallel between this instance and stones that are propelled can be explained as follows: When an animal propels a stone and the stone causes damage, the damage is not caused directly by the animal's body, but indirectly by the power it generated. Similarly, when the rooster breaks the container by crowing, the damage is caused indirectly, as a result of the animal's energy.
+
 [^19]: I.e., a rooster is likely to stick its head into a container in order to eat food, and it is likely to crow while eating.
+
 [^20]: Since this is a deviation from the animal's ordinary pattern, one is liable only for half the damages. The Ra'avad raises the question: Since the first clause of the halachah draws an analogy between the rooster's crowing and an animal's propelling stones, how is this instance different from the law stated in Halachah 6, where the owner is held liable for only a quarter of the damages his animal caused?The Maggid Mishneh states that the Rambam's rationale is difficult to understand, but offers the following explanation. When there are no spices in the container, crowing and breaking the container is considered to be a derivative of goring, not of propelling stones.The Shulchan Aruch (Choshen Mishpat 390:9) does not resolve the issue, explaining that since a deviation from the ordinary pattern is involved, the case is considered a fine and is not arbitrated in the present era.
+
 [^21]: These are not considered departures from the norm. Instead, they are considered derivatives of the category of propelling stones. Therefore, payment is required for only half the damages.
+
 [^22]: The Ra'avad raises many questions concerning the Rambam's decision, and similarly, Rabbenu Asher interprets the passage in [[Bava Kamma 17#17a|Bava Kama 17a]] differently from the Rambam. The Shulchan Aruch (Choshen Mishpat 390:10) quotes the Rambam's interpretation, while the Ramah refers to the Rambam's rulings as satum, closed to us, and follows the approach of Rabbenu Asher.
+
 [^23]: It appears that the Rambam considers the string to be like stones propelled by an animal's feet (tz'rurot). They are not considered as a pit, an inanimate object that causes damage, for as the Ra'avad notes, one is liable for the full damages caused by a pit and not half the damages.
+
 [^24]: I.e., by the rooster's owner. If it was tied by another person, the owner is not held liable, and the others are required to pay half the damages.
+
 [^25]: As mentioned, the string is considered to be a pit. With regard to that category of damages, [[Bava Kamma 19#19b|Bava Kama 19b]] states that the pit must be brought into being by a person. If it is brought into being by an animal, the owner of the animal is not liable. In this case, since the owner did not tie the string to the rooster, he is not liable.
+
 [^26]: Other than the owner of the rooster.
+
 [^27]: As stated by the Shulchan Aruch (Choshen Mishpat 411:4), when an object belonging to a person is left in the public domain, moved by an animal and then causes damage, the owner of the animal and the owner of the article must share the cost of the damages equally.
+
 [^28]: I.e., the owner of the rooster is freed of liability, because as above, he did not tie the string to the rooster.
+
 [^29]: I.e., he did everything he could to prevent the damage from occurring.
+
 [^30]: I.e., this is comparable to an animal's breaking a utensil by treading upon it.
+
 [^31]: The wind produced by the roosters' wings is comparable to an an animal's propelling stones.
+
 [^32]: Our translation is based on the Rambam's Commentary on the Mishnah (Bava Kama 2:1).
+
 [^33]: I.e., since the roosters caused the damage in an ordinary fashion with their bodies, the owner is liable for the entire amount.
+
 [^34]: This is also comparable to an animal's propelling stones.
+
 [^35]: I.e., the roosters pushed the bucket until it fell and broke. They were thus the direct cause of its breaking, and this is considered as treading.If the bucket broke as a result of the rope's tearing, the ruling depends on whether the rope is new or worn. We assume that a rooster will peck at a rope slightly to sip its moisture. Thus, if the rope is worn, it is normal for it to snap. Hence, the owner is liable for the entire damages. If the rope is new, for the rope to tear from such pecking is not ordinary, and the owner is liable for only half the damages (Shulchan Aruch, Choshen Mishpat 390:11).
+
 [^36]: Since there is food on the rope, we assume that the roosters will peck on it exceedingly, and it will tear even if it is new.
+
 [^37]: This is considered to be a derivative of treading.
+
 [^38]: I.e., the animals' owner should have known that his animals are prone to climb to the roof, and he should have taken precautions against that happening.
+
 [^39]: [[Bava Metzia 42#42a|Bava Metzia 42a]] explains that the logic is that, if not for the negligence, the damage would never have been caused by forces beyond their control.
+
 [^40]: For this is a departure from the norm.
+
 [^41]: For this is their ordinary pattern. The Rambam's ruling follows the version of [[Bava Kamma 22#22a|Bava Kama 22a]] cited by Rabbenu Chanan'el and Rabbenu Yitzchak Alfasi. The standard version of the Talmud we possess today differs.Our translation differs from that of Rashi and the Nimukei Yosef who translate as lowered itself while hanging.
+
 [^42]: This is the ordinary pattern of a dog, who will grab food from a fire in order to eat it. And since it is likely that a coal will remain attached to the cake, the owner of the dog is liable for the place where the cake is placed down as well.
+
 [^43]: The standard printed texts of the Rambam's Commentary on the Mishnah (Bava Kama 2:3) offer the following rationale: This is a deviation from the ordinary pattern. This does not follow any of the explanations given in the Talmud. Rav Kapach's text of the Rambam's Commentary on the Mishnah explains that the burning of the rest of the grain heap is compared to stones that are kicked, for in both cases the damage is caused indirectly. This follows Rabbi Yochanan's position, [[Bava Kamma 22#22a|Bava Kama 22a]].
+
 [^44]: According to the Radbaz (Volume V, Responsum 1662), this refers to all the places over which the dog dragged the coals.
+
 [^45]: For this is considered comparable to stones that are kicked.
+
 [^46]: The Ra'avad objects to the Rambam's ruling, maintaining that the owner is forced to pay one fourth of the damages, because he considers this case comparable to propelling stones, except that a deviation from the normal pattern is involved. The Tur also follows this approach. The Shulchan Aruch (Choshen Mishpat 392:1) follows the opinion of the Rambam, while the Ramah mentions that of the Tur.The Rambam's opinion can be substantiated based on Hilchot Rotze'ach 6:15, which states that a person is not liable for ko'ach kocho, an activity that comes about as an indirect result of his exertion of energy. It appears that the Rambam considers the damage caused by propelling stones to be kocho, a direct result of the person's energy, and not ko'ach kocho (Kessef Mishneh, Radbaz). The Ra'avad, by contrast, considers propelling stones to be ko'ach kocho.
+
 [^47]: In which case, the owner of the dog is responsible for all the damages, for the fire took place because of his negligence.
+
 [^48]: For it is his negligence that made the fire possible.
+
 [^49]: For the dog caused this damage directly.The Ra'avad and the Tur, who in the previous law maintain that the owner of the dog must pay one fourth of the damages to the grain heap, maintain that he is liable for that amount in this instance as well. Hence, the owner of the fire is liable for only three fourths of the damages. In this instance as well, the Shulchan Aruch (loc. cit.) follows the opinion of the Rambam, while the Ramah mentions that of the Tur.
+
 [^50]: This reflects a fundamental principle in the laws of damages. Grama, being an indirect cause, does not generate liability.
+
 [^51]: I.e., he has a moral and ethical obligation to pay for the damages. See [[Bava Kamma 55#55b|Bava Kama 55b]], which gives several instances of grama and states that the person who indirectly caused the damage has a moral obligation to compensate for it.
+
 [^52]: Dogs do not usually bite. Therefore, the fact that the person who set the dog on the third person provoked it to do so is considered a departure from the norm, and the owner is liable for only half the damages.The Ra'avad adds that if the dog is known to be prone to bite, the owner is liable for the entire amount of the damages. The Maggid Mishneh differs, maintaining that since the dog was provoked by the person who set it, this is considered a departure from the norm. (See also Chapter 6, Halachah 5.) Sefer Me'irat Einayim 395:2 quotes the Maggid Mishneh's view.
+
 [^53]: Causing the dog to bite.
+
 [^54]: Causing the dog to bite his own master.
+
 [^55]: This is considered a derivative of goring. Since the cow is not known to be prone to kick other animals, the owner is liable for only half the damages.
+
 [^56]: The owner would not have been liable if the cow had caused the damage by treading on the other cow. Since he did cause the damage by kicking, the owner is liable.

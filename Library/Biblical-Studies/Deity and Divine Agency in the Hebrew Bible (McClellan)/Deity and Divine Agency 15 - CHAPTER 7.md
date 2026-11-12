@@ -81,7 +81,9 @@ In this section I will argue that that conflation of identities is rooted in tex
 *Accounting for the Messenger of YHWH* Four general approaches to this phenomenon have gained some degree of currency among scholars.[^5] The prevailing view, which has been called the “identity theory,” holds that the 
 
 [^3]: Alexander A. Fischer, “Moses and the Exodus-Angel,” in Reiterer, Nicklas, and Schöflin, *Angels*, 79–93.
+
 [^4]: For theophany narratives where the deity appears as an איש , see Hamori, *“When Gods Were Men”*.
+
 [^5]: For broad summaries of these different theories, see William George Heidt, *Angelology of the Old Testament: A Study in Biblical Theology* (Washington, DC: Catholic University of America Press, 1949), 69–101; A. S. van der Woude, “De *Mal’ak Jahweh*: Een Godsbode,” *NTT* 18 (1963/64): 1–13; Charles A. Gieschen, *Angelomorphic Christology: Antecedents & Early Evidence* (Leiden: Brill, 1998), 53–57; von Heijne, *The Messenger of the Lord in Early Jewish Interpretations of Genesis*, 114–120.
 
 *[p. 391]* ^pg408
@@ -97,9 +99,13 @@ Among the most conspicuous indicators that the מלאך is an interpolation is t
 messenger in the relevant passages acts in ways entirely inconsistent with the responsibilities of divine messengers within the broader Southwest Asian literary tradition. This was briefly addressed by Samuel A. Meier in his 1999 monograph, *The Messenger in the Ancient Semitic World*, but more forcefully by Dorothy Irvin in her 1978 book, *Mytharion*.[^10] While Michael B. Hundley highlights this fact in arguing for the “idiosyncratic” representation of the messenger in the biblical texts, he overlooks the fact that the messenger’s activity is not so idiosyncratic—
 
 [^6]: Heidt, *Angelology of the Old Testament*, 95–100; van der Woude, “De Mal’ak Jahweh,” 6–13; Saul M. Olyan, *A Thousand Thousands Served Him: Exegesis and the Naming of Angels in Ancient Judaism* (Tübingen: Mohr Siebeck, 1993), 89–91; Richard E. Friedman, *The Hidden Face of God* (San Francisco: HarperCollins, 1995), 13; Peter R. Carrell, *Jesus and the Angels: Angelology and the Christology of the Apocalypse of John* (Cambridge: Cambridge University Press, 1997), 27–28; Stephen F. Noll, “*mal’ak*,” *NIDOTTE* 2.942; Gieschen, *Angelomorphic Christology*, 67–69; Stephen L. White, “Angel of the Lord: Messenger or Euphemism?” *TB* 50.2 (1999): 299–305; James Kugel, *The God of Old: Inside the Lost World of the Bible* (New York: The Free Press, 2003), 18–20; Michael S. Heiser, “The Divine Council in Late Canonical and Non-Canonical Second Temple Jewish Literature” (PhD diss., The University of Wisconsin–Madison, 2004), 62–64; R. M. M. Tuschling, *Angels and Orthodoxy: A Study in their Development in Syria and Palestine from the Qumran Texts to Ephrem the Syrian* (Tübingen: Mohr Siebeck, 2007), 99–101; Erik Eynikel, “The Angel in Samson’s Birth Narrative: Judg 13,” in Reiterer, Nicklas, and Schöflin, *Angels*, 109–23; Sommer, *The Bodies of God*, 40–44.
+
 [^7]: René A. López, “Identifying the ‘Angel of the Lord’ in the Book of Judges: A Model for Reconsidering the Referent in Other Old Testament Loci,” *BBR* 20.1 (2010): 1–18. Cf. Andrew S. Malone, “Distinguishing the Angel of the Lord,” *BBR* 21.3 (2011): 297–314.
+
 [^8]: Dorothy Irvin, *Mytharion: The Comparison of Tales from the Old Testament and the Ancient Near East* (Kevelaer: Butzon und Bercker, 1978), 93–104; Samuel A. Meier, “Angel of Yahweh מלאך יהוה ,” *DDD*, 54–58.
+
 [^9]: Carol A. Newsom, “Angels,” *ABD* 1.250; Hundley, “Of God and Angels,” 1–22.
+
 [^10]: Samuel A. Meier, *The Messenger in the Ancient Semitic World* (Atlanta: Scholar’s Press, 1999), 96–97; Meier, “Angel of Yahweh,” 53–54; Irvin, *Mytharion*, 93–104.
 
 *[p. 392]* ^pg409
@@ -127,6 +133,7 @@ And Gideon saw that it was the messenger of YHWH, and Gideon said, ‘Help, Lord
 There is no such threat associated in the Hebrew Bible with communication with the deity’s messenger. Indeed, it entirely undermines the function of a divine messenger for direct communication to be deadly. From the biblical to the wider Southwest Asian contexts, the texts 
 
 [^11]: Hundley, “Of God and Angels,” 7–12. The case that the messenger is functioning as the deity is supposed to is made most directly in Irvin, *Mytharion*, 93–104.
+
 [^12]: וחי האדם יראני - לא כי פני - את לראות תוכל לא ויאמר , “And he said, ‘You will not be able to see my face, because humanity cannot see me and live.’” This is clearly distinguishable from the motif in Ugaritic and other literature wherein the deities are fearful at the approach of another deity’s messengers (e.g., KTU 1.2.i:20–24).
 
 *[p. 393]* ^pg410
@@ -186,6 +193,7 @@ Samaritan Pentateuch was selective in those passages that were emended, but it i
 *The Messenger of YHWH as Divine Agent* The interpolation theory best accounts for those passages in which the identity of the messenger overlaps or appears to be conflated with that of the deity. This does not fully explain the perpetuation and accommodation of these ostensibly conflated identities down through the ages, though. These passages grate against contemporary conceptualizations of identity built up from binary Aristotelian notions of classification, [^16] but for ancient audiences, whose intuitive perspectives regarding the individual as both partible and permeable were far more salient, and who intuitively accepted the communicability of agency in their socio-material interactions with deity, the notion of a divine messenger somehow endowed with divine agency would not have been the logical paradox it is for us today. (Of course, anyone who has ever spoken to a headstone as if to a deceased loved one should know it only becomes a paradox when a 
 
 [^15]: Most likely, אלהים in verse 4 is intended to parallel אל , “deity,” in verse 5. This results in the phrase וישר אל , “he contended with El,” at the beginning of verse 5—a handy etiology for the name ישראל . Instead, the מלאך is interpolated, אל is reread as a preposition, and the etiology vanishes.
+
 [^16]: Jonathan Jong states, “the ghost of Aristotle haunts us still” (Jong, “On (not) defining (non)religion,” 16).
 
 *[p. 396]* ^pg413
@@ -207,6 +215,7 @@ YHWH’s power and authority. According to this theory, with the interpolation o
 23—the conflated identities of YHWH and their messenger were rationalized using the notion 
 
 [^17]: The presencing of deity in the societies around Iron Age Israel and Judah prototypically used inanimate objects, however, so the messenger is a bit idiosyncratic as a medium for divine agency.
+
 [^18]: Cf. Daniel Johansson, “‘Who Can Forgive Sins but God Alone?’: Human and Angelic Agents, and Divine Forgiveness in Early Judaism,” *JSNT* 33.4 (2011): 351–74 (366–69).
 
 *[p. 397]* ^pg414
@@ -242,6 +251,7 @@ such as עזאזל , from [[Torah 29 - Achrei Mot#^16-8|Leviticus 16:8]], [[Tora
 The risk of worship appears to have been most acute in that literature which ruminated on the relationship of divine mediators and the possession of the divine name. Jarl E. Fossum explains that the appeal to the divine name in [[Torah 18 - Mishpatim#^23-20|Exodus 23:20–21]] “shows the individualization and personification of the Name of God in the figure of the Angel of the Lord. . . . this means that he has put his power into the angel and thus will be with his people through the agency of the angel.”[^21] The messenger Yahoel, from the *Apocalypse of Abraham*—whose name means “YHW is El”—is referred to by the deity as “the namesake of the mediation of my ineffable 
 
 [^20]: See Olyan, *A Thousand Thousands Served Him*, 109–111.
+
 [^21]: Jarl E. Fossum, *The Name of God and the Angel of the Lord: Samaritan and Jewish Concepts of Intermediation and the Origin of Gnosticism* (Tübingen: Mohr Siebeck, 1985), 86. Regarding the temple, Fossum asserts, “YHWH certainly inhabits the earthly temple, but not in person; he is present through the agency of his Name” (p. 87). Biblical figures besides the messenger were also endowed with the power of the divine name. Moses, for instance, is said to be “vested with prophethood and the divine Name” in the Samaritan text, *Memar Marqah* (2.4; quoted in Andrei A. Orlov, *Yahoel and Metatron: Aural Apocalypticism and the Origins of Early Jewish Mysticism* \[Tübingen: Mohr Siebeck, 2017\], 30).
 
 *[p. 399]* ^pg416
@@ -255,9 +265,13 @@ There the “Son of Humanity” is endowed before the creation of the earth with
 Through this and related literature and cult, the divine council that had once been deposed was now being reconstituted by subordinate divine messengers and other mediating entities. Following this expansion, internal prohibitions against—and external accusations of—the worship of these entities began to proliferate, which has commonly been interpreted as evidence that people were engaging in their worship to one degree or another.[^26] The mediation 
 
 [^22]: This translation and the next are from Orlov, *Yahoel and Metatron*, 73. On the connections between this tradition and [[Torah 18 - Mishpatim#^23-20|Exodus 23:20–21]], see pages 73–77.
+
 [^23]: Following Charles A. Gieschen, “The Name of the Son of Man in the Parables of Enoch,” in *Enoch and the Messiah Son of Man: Revisiting the Book of Parables*, ed. Gabriele Boccaccini (Grand Rapids, MI: Eerdmans, 2007), 240, this translation is from E. Isaac, “1 Enoch,” in *The Old Testament Pseudepigrapha*, ed. James H. Charlesworth, 2 vols. (Garden City, NY: Doubleday, 1983, 1985), 1.35, but restores the more literal rendering of “named by the name” that is relegated to the footnotes in the text.
+
 [^24]: This translation is from Orlov, *Yahoel and Metatron*, 43–44.
+
 [^25]: Gieschen, “The Name of the Son of Man in the Parables of Enoch,” 240.
+
 [^26]: See, for instance, Ehrman, *How Jesus Became God*, 55: “Ancient authors insisted that angels *not* be worshiped precisely because angels *were* being worshiped.” For the broader discussion, see Loren T. Stuckenbruck, *Angel Veneration and Christology* \[Tübingen: Mohr Siebeck, 1995\]; Gieschen, *Angelomorphic Christology*, 124; Olyan, *A Thousand Thousands Served Him*; Tuschling, *Angels and Orthodoxy*.
 
 *[p. 400]* ^pg417
@@ -273,9 +287,13 @@ the likeness of my servants who serve before me on high: not a likeness of messe
 Most of the accusations about worship came from other groups, such as Clement of Alexandria’s accusation that Jewish people were worshipping (λατρεύω) messengers.[^28] Origen of Alexandria reported in the third century CE that a Greek philosopher named Celsus accused Jewish people of worshipping messengers.[^29] Already in the Christian Epistle to the Colossians (late first century CE), the author refers to θρησκείᾳ τῶν ἀγγέλων, “worship of messengers” ([[Colossians 02#^2-18|Col 2:18]]).[^30] Beginning in the fifth century CE, petitions and incantations addressed to divine messengers appear on bowls and amulets. These practices drew from existing conventions directed at high deities, but it is not clear how early they began to be aimed at divine messengers.[^31] What *is* clear is that the intuitive compulsion to access divine agency could not 
 
 [^27]: See Jacob Z. Lauterbach, *Mekhilta de-Rabbi Ishmael. Second Edition*, 2 vols. \[Philadelphia, PA: Jewish Publication Society, 2004\], 2.344; cf. Stuckenbruck, *Angel Veneration*, 57–59.
+
 [^28]: Clement of Alexandria, *Stromata* 6.5.41.
+
 [^29]: Origen, *Contra Celsum*, 1.26.
+
 [^30]: On the influence of this passage on later Christian engagement with the veneration of divine messengers, see Rangar Cline, *Ancient Angels: Conceptualizing Angeloi in the Roman Empire* (Leiden: Brill, 2011), 137–46.
+
 [^31]: See, most recently, Shaul Shaked, James Nathan Ford, and Siam Bhayro, *Aramaic Bowl Spells: Jewish Babylonian Aramaic Bowls. Volume One* (Leiden: Brill, 2013). There is also discussion in Cline, *Ancient Angels*, 137–65 and throughout de Bruyn, *Making Amulets Christian*. For the reconstruction of an invocation of mediatory divine figures at Qumran, see Doulas L. Penney and Michael O. Wise, “By the Power of Beelzebub: An Aramaic Incantation Formula from Qumran (4Q*560*),” *JBL* 113.4 (1994): 627–50.
 
 *[p. 401]* ^pg418
@@ -303,6 +321,7 @@ identity: שם־יהוה בא ממרחק בער אפו , “The name of YHWH com
 The partibility of one’s name, and particularly a divine name, is well known from ancient Southwest Asia. Chapter 2 discussed the different ways the “name” was conceptualized as a partible agent. In addition to reifying agency, it could refer to one’s reputation or legacy, to their social presence, or to their authority. The materialization of the name through inscription 
 
 [^32]: S. Dean McBride employs the concept of “nominal realism,” which he describes as a belief in “a concrete, ontological relationship . . . between words and the things and actions which the words describe. A name is consubstantial with the thing named . . . \[or\] a physical extension of the name bearer, an attribute which when uttered evokes the bearer’s life, essence, and power” (S. Dean McBride, “The Deuteronomic Name Theology,” \[PhD diss., Harvard University, l969\], 67, as quoted in Sommer, *The Bodies of God*, 26).
+
 [^33]: This example is employed in Sommer, *The Bodies of God*, 65.
 
 *[p. 402]* ^pg419
@@ -314,7 +333,9 @@ For human persons, the most salient use of the partible “name” was in funera
 Divine names had additional functions associated with their partibility. In one of the inscriptions from Kuntillet ‘Ajrud, parallel cola bless “Baal on the day of war” and “The name of El on the day of war,” suggesting the deity (whether YHWH or Baal) personifies or employs 
 
 [^34]: Karen Radner states, “Wesentlich ist dabei, daß die Wirksamkeit des ‘geschriebenen Namens’ nicht davon abhängt, ob er gelesen wird: Seine Wesenseinheit mit dem Individuum allein reicht aus, daß dessen Fortbestand durch seine Existenz gewährleistet ist; ob eine Inschrift sichtbar oder versteckt angebracht ist, hat deshalb keinen Einfluß auf die Wirkung des ‘geschriebenen Namens.’ Besonders bei verborgenen Texten ist die Vorstellung des eigenen, selbstwirkenden Seins des ‘geschriebenen Namens’ deutlich zu erkennen, der seinen Zweck—die Wesensbewahrung des Individuums—auch ohne eine Leserschaft erfüllte und so, dem Zugriff durch unbefugte Hände und Blicke effektiv entzogen, sogar besonders machtvoll walten konnte” (Radner, *Die Macht des Namens*, 130).
+
 [^35]: See above, pages 154.
+
 [^36]: Radner, *Die Macht des Namens*, 22 (see also pp. 114–29): “Der ‘geschriebene Name’ ist in seiner Bedeutung und Anwendung dem repräsentativen Bild eng verwandt und wird häufig im Verbund mit diesem verwendet, um die Präsenz des Individuums zu sichern.”
 
 *[p. 403]* ^pg420
@@ -334,8 +355,11 @@ May Horanu break your head, ‘Athtartu-Name-of-Ba‘lu your skull[^37]
 The same epithet is restored in a fragmentary portion of the Baal Cycle (KTU 1.2.1.7–8), and even makes an appearance in the fifth-century BCE Eshmunazor inscription (KAI 14.18). These texts seem to objectify and weaponize the divine name. Theodore J. Lewis notes that several scholars understand ‘Athtartu to be functioning in the role of “hypostatic” extension of Baal, but he finds additional interpretive clues in some rhetoric from ancient Egypt.[^38] In a relief from the fourteenth-century BCE Egyptian Thutmosis IV, the name of the pharaoh is represented with a fighting cartouche that goes into battle on behalf of the pharaoh. In a twelfth-century BCE inscription from Medinet Habu, Ramses III declares, “When they (the Sea Peoples) mention my name in their land, may it consume them, while I sit on the throne of Harakhte.” These texts seem to suggest the weaponization of the name, which leads Lewis to the conclusion that ‘Athtartu is not simply an extension of Baal’s agency, but an independent agent incantationally wielding the name of Baal as a weapon. He concludes, “Certain specific words when correctly wielded by the right persons—an exorcist priest or a goddess such as ‘Athtartu—were though by the ancients to contain effectual power.”[^39] Lewis even points to several passages from the Hebrew Bible that could be read to weaponize the name of YHWH, such as [[I Samuel 17#^17-45|1 Samuel 17:45]], [[Isaiah 41#^41-25|Isaiah 41:25]], and [[Psalms 118#^118-10|Psalm 118:10–11]].[^40] 
 
 [^37]: The translation is from Theodore J. Lewis, “‘Athtartu’s Incantations and the Use of Divine Names as Weapons,” *JNES* 70.2 (2011): 207–27.
+
 [^38]: See Lewis, “‘Athtartu’s Incantations and the Use of Divine Names as Weapons,” 208–09, and note 11. Both of the following quotations are taken from page 219 of Lewis’ article.
+
 [^39]: Lewis, “‘Athtartu’s Incantations and the Use of Divine Names as Weapons,” 227.
+
 [^40]: These readings largely rely on reading the *beth* in the construction בשם as instrumental.
 
 *[p. 404]* ^pg421
@@ -359,6 +383,7 @@ be reflected in the construction לשכן שמו , which is understood according
 “to build a house for the name” ([[II Samuel 07#^7-13|2 Sam 7:13]]; [[I Kings 05#^5-3|1 Kgs 5:3]], [[I Kings 05#^5-5|5]]; [[I Kings 08#^8-16|8:16]], [[I Kings 08#^8-17|17]]). 
 
 [^41]: Following Sandra L. Richter, *The Deuteronomistic History and the Name Theology:* l<sup>e</sup>šakkēn š<sup>e</sup>mô šām *in the Bible and the Ancient Near East* (Berlin: de Gruyter, 2002); Sandra L. Richter, “The Place of the Name in Deuteronomy,” *VT* 57 (2007): 342–66. Richter shows the Deuteronomistic name theology adapted the Akkadian phrase *šuma šakānu*, “the place a name” (pp. 127–205). (In [[Torah 47 - Re'eh#^12-21|Deuteronomy 12:21]] and 14:24, the Hebrew is לשום שמו שם , “to place his name there.”) Cf., however, William Morrow, “‘To Set the Name’ in the Deuteronomic Centralization Formula: A Case of Cultural Hybridity,” *JSS* 55.2 (2010): 365–83. On the relationship of the passage in [[Torah 18 - Mishpatim#^23-1|Exodus 23]] to the Deuteronomistic literature, see Hans Ausloos, “The ‘Angel of YHWH’ in Exod. xxiii 20–33 and Judg. ii 1–5. A Clue to the ‘Deuteronom(ist)ic’ Puzzle?” *VT* 58.1 (2008): 1–12.
+
 [^42]: Gerhard von Rad, *Deuteronomium-Studien* (Göttingen: Vandenhoeck & Ruprecht, 1947). Cf. Benno Jacob, *In Namen Gottes: eine sprachliche und religionsgeschichtliche Untersuchung zum Alten und Neuen Testament* (Berlin: S. Calvary & Co., l903), on which Richter builds to argue against von Rad’s theory.
 
 *[p. 405]* ^pg422
@@ -370,10 +395,15 @@ Everywhere a king places his name, he claims exclusive ownership. Kings, in part
 Now, Schniedewind here does not consider Seth Sanders’ argument that royal self-identification in inscriptions appears to have developed as a “ventriloquilizing” presencing of the king,[^46] but he does suggest that Second Temple biblical texts that address this theme appear to reflect a “hypostatization of the Tetragrammaton.”[^47] Other scholars suggest the “put/place his name” reading supports the continuation of much earlier conceptualizations of name and presence,[^48] or have argued for the relevance of the Akkadian antecedent without denying that 
 
 [^43]: For a review of this scholarship, see Richter, *The Deuteronomistic History and the Name Theology*, 26–36.
+
 [^44]: See, for instance, Jeffrey H. Tigay, “‘To Place His Name There’: Deuteronomy’s Concept of God Placing His Name in the Temple,” in *“Now It Happened in Those Days”: Studies in Biblical Assyrian, and Other Ancient Near Eastern Historiography Presented to Mordechai Cogan on His 75th Birthday. Volume 1*, ed. Amitai Baruchi-Unna et al. (Winona Lake, IN: Eisenbrauns, 2017), 17–26, who argues that there was likely an inscription of some kind bearing the divine name in the sanctuary.
+
 [^45]: William M. Schniedewind, “Calling God names: an inner-biblical approach to the Tetragrammaton,” in *Scriptural Exegesis: The Shapes of Culture and the Religious Imagination. Essays in Honour of Michael Fishbane*, ed. Deborah A. Green and Laura S. Lieber (Oxford: Oxford University Press, 2009), 76.
+
 [^46]: See above, pages 86–87, note 179. This will also be discussed in more detail in the next chapter.
+
 [^47]: Schniedewind, “Calling God names,” 78. He elaborates: “Strikingly, the very symbol of God’s presence in the temple, namely the ark of the covenant, was absent from the Second Temple; however, the divine name serves in its stead as the symbol of God’s physical presence in the Jerusalem temple” (p. 79).
+
 [^48]: For instance, Roland de Vaux, “Le lieu que Yahvé a choisi pour y établir son nom,” in *Das ferne und nahe Wort, Festschrift Leonhard Rost zur Vollendung seines 70. Lebensjahres am 30. November 1966 gewidmet*, ed. Fritz Mass (Berlin: Alfred Töpelmann, l967), 219–28.
 
 *[p. 406]* ^pg423
@@ -385,8 +415,11 @@ In addition to the many stelai that were in use around Israel and Judah that did
 The most salient approach to “Name Theology” for this subsection is, of course, that of Sommer, who firmly sides with the reformative reading. He concludes that, 
 
 [^49]: McBride, “The Deuteronomic Name Theology.” See also Hundley, “To Be or Not to Be,” 542, citing John Van Seters, “Review of *The Deuteronomistic History and the Name Theology*,” *JAOS* 1233.4 (2003): 871–72. I would agree with Hundley that Richter’s argument regarding semantic content may not be off-target, but that does not necessarily preclude presencing. Even the use of the formula in the Akkadian literature could have a presencing dimension. William W. Hallo, for instance, insists the inscription of one’s name functioned “to proclaim one’s ownership of, or presence in, the inscribed object or place” (William W. Hallo, “The Royal Inscriptions of Ur: A Typology,” *HUCA* 33 \[1962\]: 6 \[quoted in Richter, *The Deuteronomistic History and the Name Theology*, 131\]). A good critique of Hallo and Richter is Morrow, “‘To Set the Name’,” 365–83, who concludes, ‘common to all of these interpretations surveyed is the inference that YHWH sets his name in the place he chooses in order to promote his divine presence and his claims to sovereignty” (p. 381). Morrow posits that the “Assyrianism” of the specific form of the phrase is a product of “hybridity” or “colonial mimicry”: “In the very act of mimicking the dominating culture’s linguistic forms, there is an effort to make an ideological expression that serves the interests of the colonized, not the colonizer” (p. 382).
+
 [^50]: For instance, Mettinger, *The Dethronement of Sabaoth*, 41–46, 56–59.
+
 [^51]: See, for instance, J. Gordon McConville, “God’s ‘Name’ and God’s ‘Glory,’” *TB* 30 (1979): 149–63; Ian Wilson, *Out of the Midst of Fire: Divine Presence in Deuteronomy* (Atlanta, GA: Scholars Press, 1995); Knafl, *Forming God*, 99–109, 184–87.
+
 [^52]: Anne Katrine de Hemmer Gudme, *Before the God in this Place for Good Remembrance: A Comparative Analysis of the Aramaic Votive Inscriptions from Mount Gerizim* (Berlin: de Gruyter, 2003).
 
 *[p. 407]* ^pg424
@@ -404,8 +437,11 @@ As [[Torah 50 - Ki Tavo#^26-2|Deuteronomy 26.2]] reminds us, it is the *shem* th
 Concern can be raised with the conclusions Sommer draws from the differences between earlier usage of the שם and those of D and Dtr. As the interrogation in Chapters 3 demonstrated, loci of agency were not necessarily identified or coterminous with loci of identity, and particularly for unnatural unseen agents (like deities) whose partibility was bound only by the limits of imagination and the dynamics of counter-intuitiveness. For Sommer, the deity’s body and self are the only vehicles of their presence, but just as the self could be parted from the body, other vehicles of agency could be parted from the body and the self.[^56] The location of 
 
 [^53]: Sommer, *The Bodies of God*, 65–66.
+
 [^54]: Sommer, *The Bodies of God*, 65. Sommer cites Richter’s criticisms of the notion of “nominal realism,” which is the framework McBride uses to develop his notion of divine presencing via the name (p. 190, n. 101), and levels a more lengthy critique at her work (based primarily on McBride’s arguments) on pages 218–219, note 47.
+
 [^55]: Sommer, *The Bodies of God*, 65.
+
 [^56]: Sommer briefly considers the notion of the presencing of the name in relation to the Amarna Letters, which refer to the placement of the name of the Egyptian Pharaoh in Jerusalem. Sommer asserts, “The phrase *šakan šumšu* (precisely cognate to the Hebrew לשכׁן את שמׁו ) does not mean that Abdi-Ḫeba thought that Pharaoh was physically present in Jerusalem; rather, Abdi-Ḫeba acknowledges Pharaoh’s claim over the city” (Sommer, *The Bodies of God*, 66). This constitutes a bit of a straw man, though, as the partibility and presencing capabilities of deities were considerably more dynamic than those of human beings, and the שם was being implanted within a literary tradition that already had an active tradition of divine presencing.
 
 *[p. 408]* ^pg425
@@ -435,7 +471,9 @@ And YHWH spoke to you from the midst of the fire. You all heard the sound of wor
 From the heavens he caused you to hear his voice in order to discipline you. On earth he showed you his great fire, and his word you heard from the midst of the fire. 
 
 [^57]: See Wilson, *Out of the Midst of Fire*, 152–59, 192–97; Knafl, *Forming God*, 99–109, 184–87.
+
 [^58]: See, for instance, [[Torah 47 - Re'eh#^12-7|Deuteronomy 12:7]], [[Torah 47 - Re'eh#^12-12|12]], [[Torah 47 - Re'eh#^12-18|18]]; [[Torah 47 - Re'eh#^14-23|14:23]], [[Torah 47 - Re'eh#^14-26|26]]; [[Torah 47 - Re'eh#^15-20|15:20]]; [[Torah 47 - Re'eh#^16-11|16:11]], [[Torah 47 - Re'eh#^16-16|16]]; [[Torah 48 - Shoftim#^18-7|18:7]]; [[Torah 50 - Ki Tavo#^26-5|26:5]], [[Torah 50 - Ki Tavo#^26-10|10]], [[Torah 50 - Ki Tavo#^26-13|13]].
+
 [^59]: Cf. Hundley, “To Be or Not to Be,” 537–40.
 
 *[p. 409]* ^pg426

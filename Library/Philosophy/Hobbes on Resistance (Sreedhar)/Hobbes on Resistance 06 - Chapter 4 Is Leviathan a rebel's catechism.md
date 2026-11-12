@@ -33,9 +33,13 @@ Instead of finding this reading of Hobbes to be a strength, interpreters have te
 Many of Hobbes’s contemporaries in the seventeenth century (most famously Bishop Bramhall and Edward, Earl of Clarendon) also noticed 
 
 [^2]: Andrew Levine, *Engaging Political Philosophy: From Hobbes to Rawls* (Oxford: Blackwell, 2002), 15.
+
 [^3]: Friedrich O. Wolf, “Kant and Hobbes Concerning the Foundations of Political Philosophy” in *Proceedings of the Third International Kant Congress*, ed. Lewis White Beck (New York: Humanities Press, 1972), 609.
+
 [^4]: Barry Hindess, *Discourses of Power from Hobbes to Foucault* (Oxford: Blackwell, 1996), 54.
+
 [^5]: Sabrina P. Ramet, *Whose Democracy? Nationalism, Religion, and the Doctrine of Collective Rights in Post-1989 Eastern Europe* (Lanham, MD: Rowman & Littlefield, 1997), 16. See also, D. J. C. Carmichael, “Hobbes on Natural Right in Society: The ‘Leviathan’ Account,” *Canadian Journal of Political Science* 23, no. 1 (1990), 16.
+
 [^6]: Representative examples include:  Hampton, *Hobbes and the Social Contract Tradition*; Kavka, *Hobbesian Moral and Political Theory*; Alan Ryan, “Hobbes’s Political Philosophy” in *The Cambridge Companion to Hobbes*, ed. Tom Sorell (Cambridge University Press, 1996), 208–245; Finkelstein, “Puzzle about Hobbes’s Right of Self-Defense,” 358; Curran, *Reclaiming the Rights of Hobbesian Subjects*, 186; and Steinberger, “Hobbesian Resistance,” 865.
 
 *[p. 134]* ^pg144
@@ -45,7 +49,9 @@ this implicit commitment to a right of rebellion, and some used this as a way to
 In present-day Hobbes scholarship, there has been serious and sustained debate about how best to understand Hobbes’s loyalties and allegiances in the complex and changing political arena of the seventeenth century. Some take him to be a proponent of the royalist cause, though there are disagreements in this camp about the exact nature of his particular brand of royalism. Others maintain that he was a proponent of defactoism, though, again, there are further disputes about how best to cash out the details of his commitments. Finally, some count Hobbes as a consent theorist. There are also differences of opinion about whether Hobbes consistently maintained any of these views or whether (and at what point) he changed his mind.[^9] One key question has been how to interpret the 
 
 [^7]: Bramhall, “Catching of Leviathan”; Edward, Earl of Clarendon, “A Survey of the Dangerous Mr Hobbes *His Leviathan*” in *Leviathan: Contemporary Responses to the Political Theory of Thomas Hobbes*, ed. G. A. J. Rogers (Bristol: Thoemmes Press, 1995), 180–300. Filmer raised similar concerns, though he was less worried that *Leviathan* unintentionally defends or encourages rebellion than he was that it is ambiguous or self-contradictory. Thanks to Johann Sommerville for helping me clarify the differences between Filmer and the other royalists.
+
 [^8]: Quoted in A. P. Martinich, *Hobbes: A Biography* (Cambridge University Press, 1999), 219.
+
 [^9]: To get a flavor of this debate, see Quentin Skinner, *Visions of Politics*, vol. III, *Hobbes and Civil Science* (Cambridge University Press, 2002); John Wallace, *Destiny his Choice:  The Loyalism of Andrew Marvell* (Cambridge University Press, 1968); Tuck, *Philosophy and Government*; Arihiro Fukuda, *Sovereignty and the Sword:  Harrington, Hobbes, and Mixed Government in the English Civil Wars* (Oxford University Press, 1997); Deborah Baumgold, “When Hobbes Needed History” in *Hobbes and History*, ed. G. A. J. Rogers and T. Sorell (London: Routledge, 2000), 25–43; Kinch Hoekstra, “The *De Facto* Turn in Hobbes’s Political Philosophy” in *Leviathan after 350 Years*, ed. Tom Sorell and Luc Foisneau (Oxford: Clarendon Press, 2004), 33–73; and Eleanor Curran, “A Very Peculiar Royalist: Hobbes in the Context of his Political Contemporaries,” *British Journal for the History of Philosophy* 10, no. 2 (2002), 167–208.
 
 *[p. 135]* ^pg145
@@ -57,7 +63,9 @@ as well as questions about the details of Hobbes’s position on the legitimacy 
 Even Collins acknowledges that “Hobbes was \[not\] a revolutionary firebrand … He was deeply averse, theoretically and personally, to factionalism and political resistance. There is no doubt that his initial political sympathies were with Charles I.”[^13] Even if Collins is ultimately right that 
 
 [^10]: Jeffrey R. Collins, *The Allegiance of Thomas Hobbes* (Oxford University Press, 2005), 116.
+
 [^12]: Hoekstra, “*De Facto* Turn,” 4, footnote 39.
+
 [^13]: Collins, *Allegiance of Thomas Hobbes*, 58.
 
 *[p. 136]* ^pg146
@@ -93,6 +101,7 @@ It is not clear how we should understand Hobbes’s reference to a “case \[whe
 Now, consider what this passage suggests about a group of rebels. Although their initial act of rebellion is “indeed injustice,” the continuation of the rebellion is morally permissible because if such rebels were obligated to turn themselves in without pardon, then they would be 
 
 [^16]: For example, the author of a recent article on Hobbes references this passage and simply inserts the word “rebels” in brackets to indicate that it is the intended referent of “a great many men” (Delphine Thivet, “Thomas Hobbes:  A Philosopher of War or Peace?,” *British Journal for the History of Philosophy* 16, no. 4 \[2008\], 707, footnote 38). This is just one representative example of a dominant trend in the literature; Thivet is certainly not alone in making this move and many others make it with similar ease. I think that at least some justification needs to be given for this interpretive move, since Hobbes gives no indication that he has rebels in mind, and other groups of people fit the same description. Indeed, I think it is likely that Hobbes does not *only* have rebels in mind here; my claim is simply that he is addressing a range of cases that includes those engaged in an ongoing rebellion. Scholars that have taken an interpretive interest in this particular passage tend to reach the same conclusion. Interestingly, although Kavka agrees with my interpretation of this passage, he argues that Hobbes is *not* entitled to the claim that rebels are justified in continuing their rebellion (Kavka, *Hobbesian Moral and Political Theory*, 433–436).
+
 [^17]: *Elements of Law*, II.8.2.
 
 *[p. 139]* ^pg149
@@ -116,7 +125,9 @@ First of all it is essential to peace that each man be adequately protected from
 Of course, Hobbes does not introduce this principle in order to justify rebelling against an existing political order. Rather, he uses it to explain how people can be released from their obligations to obey the commands of the state. There are two categories of cases. First, there are cases in which *all* subjects are released:  (1) when the sovereign abdicates power; 
 
 [^19]: *De Cive*, 6.3.
+
 [^20]: *Leviathan*, 21.21.
+
 [^21]: We find a version of the “no obligation without security” principle in *Leviathan*’s “Review and Conclusion” (17), in Hobbes’s reference to “the mutual relation between protection and obedience.” Many have taken this particular statement as an indication of Hobbes’s support for Cromwell’s rule and so infer that it is a justification for rebellion, but as I noted in the Introduction, this does not follow. Since legitimacy is not retroactive, even the strongest justification for Cromwell’s authority will not suffice to justify the actions necessary to establish that authority; and indeed, Hobbes thought they were not. Moreover, even if Hobbes’s theory requires individuals who accept the protection of a conqueror to submit to that conqueror and recognize his sovereignty, this in no way legitimates the act of conquest, especially if that conquest involved deposing and executing a sitting monarch. But more importantly, the right to submit to a successful usurper is logically distinct from the right to take action to usurp an existing political ruler. If one has a right of rebellion, one has the right to attempt to overthrow an *existing* political order in order to establish a new one. This is a different and much stronger right than the right to submit to the new political order once it is established. Submitting to Cromwell in 1650 does not constitute rebellion in the same way as did the actions of the members of parliament in the 1640s (i.e., declaring rebellion and gathering troops to fight). So while the “no obligation without security” principle can be used to legitimate rebellion in certain cases, it does not legitimate the rebellion that occasioned the English Civil Wars. On a side note, the principle, as it is articulated in the *Leviathan* passage, might have interesting implications for how we understand the current situation in Afghanistan: Afghanis in certain parts of the country do not enjoy the protection of the Afghani State; rather, there are warlords who serve to protect them. I think Hobbes would have to say that those people owe their allegiance to the warlords, not the Afghani State.
 
 *[p. 141]* ^pg151
@@ -162,6 +173,7 @@ The Warsaw Ghetto Uprising, on the other hand, is a paradigmatic case of a rebel
 It is clear that the residents of the Warsaw Ghetto did not lead secure lives. Indeed, their lives were likely worse than they would have been in Hobbes’s state of nature, where at least they would have been on a more equal footing with their attackers.[^26] Given this insecurity, the Warsaw Ghetto Uprising can be justified on Hobbesian principles. There are numerous other (admittedly anachronistic) examples in which the lives of certain individuals or groups under particular regimes can be described as insecure, in the Hobbesian sense of the word; these include the millions who starved as a result of Stalin’s forced collectivization, Kurds in Saddam’s Iraq, the people of Darfur in 2004 and 2005, Rwandan Tutsis and moderate Hutus in 1994, people living under Pol Pot’s Khmer Rouge, the Armenians under the Turks in the early twentieth century, and the list goes on. According to my argument, Hobbesian principles serve to justify rebellion in all of these cases (depending on the exact circumstances, of course). These are extreme cases, and it may seem that the conditions under which a person can legitimately rebel are so limited that they are of little theoretical interest. More importantly, there are significant questions about how perceptions of insecurity should be treated when they are unreasonable. I believe that there are Hobbesian responses to each 
 
 [^25]: The example of the Warsaw Ghetto Uprising is slightly complicated by the fact that the subjects were rebelling against an invading state, not their own political rulers. But we can overlook this complexity for our purposes here.
+
 [^26]: Being the prey of an all-powerful sovereign is arguably more dangerous than the Hobbesian state of nature. John Locke makes this point with his famous pole-cats and lions analogy (*Second Treatise of Government*, section 93).
 
 *[p. 145]* ^pg155
@@ -185,9 +197,13 @@ rebellious behavior. Moreover, even in successful rebellions, many of the rebels
 Hobbes also argues that rebelling is against reason, even if you attain sovereignty by doing so:  “As for the other Instance of attaining Soveraignty by Rebellion; it is manifest, that though the event follow, yet because it cannot be reasonably expected, but rather the contrary; and because by gaining it so, others are taught to gain the same in like manner, the attempt thereof is against reason.”[^32] There are two claims in this passage. First, usurping the sovereign’s power is against reason because it is self-defeating: it sends a message that such actions are possible and teaches others to do the same by example. Even if your takeover is successful, the power you inherit is, thus, unstable. Second, a successful rebellion “cannot reasonably be expected.” It is reasonable to expect failure not success, and so the attempt is “against reason.” This claim is part of Hobbes’s larger discussion of rationality and risk aversion. In his “response to the foole,” Hobbes argues that breaking one’s covenants is irrational, even if you get away with it. Gambling with one’s own well-being is precisely what is foolish: “when a man doth a thing, which notwithstanding anything can be foreseen, and reckoned on, tendeth to his own destruction, howsoever some accident which he could not expect, arriving may turne it to his benefit; yet such events do not make it reasonably or wisely done.”[^33] A covenant-breaker can only succeed thanks to the errors of others. But that they will err or remain in error cannot be relied upon. Hobbes writes:  “it is by the errors of other men, which he could not foresee, nor reckon upon as the means of his own security.”[^34] To put it bluntly, if one gets away with committing a crime, it is only by way of accident or the unforeseen errors of others, neither of which Hobbes believes can reasonably be anticipated.[^35]
 
 [^31]: *Leviathan*, 27.16.
+
 [^32]: *Leviathan*, 15.7.
+
 [^33]: *Leviathan*, 15.5.
+
 [^34]: Ibid.
+
 [^35]: This, of course, ascribes an implausible claim to Hobbes, namely, that it can never be rational to break one’s covenant or commit a crime, presumably no matter what the predicted costs or benefits may be. For an interpretation of this part of *Leviathan* that tries to read it without attributing such a claim to Hobbes, see Kinch Hoekstra, “Hobbes and the Foole,” *Political Theory* 25, no. 5 (1997), 620–654. Hoekstra’s interpretation is compatible with my general project here, because in the case of rebellion there is little or no chance that the crime will go undetected.
 
 *[p. 147]* ^pg157
@@ -213,8 +229,11 @@ The right of rebellion was commonly conceived in Hobbes’s time to be a collect
 In *Leviathan* Chapter 16, “*Of* persons, authors, and *things personated*,” Hobbes argues that only Persons, either natural or artificial, can (rightly speaking) have rights and perform actions. He makes a distinction between Persons and Multitudes saying, A multitude of men, are made *one* person, when they are by one man, or one persons, represented … For it is the *unity* of the representer, not the *unity* of the represented, that maketh the person *one*. And it is the Representer that beareth the person, and but one person: and *unity*, cannot otherwise be understood in multitude.[^39] Hobbes’s discussion of the differences between a unity and a multitude, actors and authors, representation, and authorization is quite complicated, but for present purposes the relevant point is simple. According to Hobbes, there is no such entity (the multitude) which can act or have a right to act and, therefore, can be said to have acted rightly or wrongly. For Hobbes, all actions and all rights have to be attributed to Persons.[^40] The 
 
 [^37]: *Behemoth*, 304.
+
 [^38]: Henry Parker is a good example of this view. See Chapter 1.
+
 [^39]: *Leviathan*, 16.13.
+
 [^40]: E.g., “One must not attribute to \[the crowd\] a singe action of any kind. Hence a crowd cannot make a promise or an agreement, acquire or transfer a right, do have, possess, and so on, except separately or as individuals, so that there are as many promises, agreements, rights, actions, as there are men” (*De Cive*, 6.1). Note that in his translation of *De Cive*, Tuck translates the *Multitudo* as “crowd.” In *Leviathan*, Hobbes uses the word *multitude*. The terminological differences need not concern us here.
 
 *[p. 149]* ^pg159
@@ -258,7 +277,9 @@ The *Leviathan* version of the social contract is somewhat different, though the
 Now, consider whether or not this argument from contract is inconsistent with the Hobbesian right of rebellion, as I have been explicating it. I have suggested that we should understand the right of rebellion as one of the “true liberties of subjects” and as part of the doctrine of retained rights. If this is correct, then the right of rebellion is a right that is not 
 
 [^45]: *De Cive*, 2.8; also see *Leviathan*, 14.11.
+
 [^46]: *Leviathan*, 16.13.
+
 [^47]: *Leviathan*, 18.3.
 
 *[p. 153]* ^pg163
@@ -270,6 +291,7 @@ Nor will the additional conceptual machinery of authorization serve to prohibit 
 the consent of a subject to sovereign power is contained in these words *I authorize, or take upon me, all his actions*, in which there is no restriction at all of his own former natural liberty; for by allowing him to kill me, I am not bound to kill myself when he commands me. It is one thing to say *kill me, or my fellow, if you please*, another thing to say *I will kill myself, or my fellow*.[^48] I have authorized the sovereign to make laws and enforce those laws with punishments, but I am not obligated to obey a command to inflict punishment on myself or on certain other people close to me. But from the fact that I am at liberty to disobey a command, it does not follow that I have not thereby authorized that command. On Hobbes’s account, the retained rights do not conflict with the unconditional authorization of the sovereign.[^49] This point is especially clear in Hobbes’s discussion of the specific true liberty of subjects that grants exemptions from military service. Recall that a subject who is commanded to fight can sometimes “refuse without injustice” even though the sovereign can “punish his refusal with death.” Clearly, the fact that the conscripted subject has the liberty to disobey does not entail that he has not authorized the sovereign’s use of his power to raise troops. Thus, neither the description of a mutual transfer of rights nor the account of authorization serves to ground a prohibition on 
 
 [^48]: *Leviathan*, 21.14; see also *De Cive*, 6.13.
+
 [^49]: Hobbes is being somewhat disingenuous when he attempts to prohibit rebellion on the grounds that rebellious subjects would be the authors of their own punishment:  “if he that attempt to depose his sovereign be killed, or punished by him for such attempt, he is author of his own punishment, as being, by the institution, author of all his sovereign shall do; and because it is injustice for a man to do anything for which he may be punished by his own authority, he is also, upon that title, unjust” (*Leviathan*, 18.3). If rebellion really were prohibited on these grounds, Hobbes would have to also eliminate all of the true liberties of subjects.
 
 *[p. 154]* ^pg164
@@ -299,7 +321,9 @@ is clear why he would not have wanted to make it a focus of his work.[^51] Whate
 Thus far I have construed the right of rebellion as a right held and exercised by subjects in a commonwealth against their sovereign, and my focus has been on showing that such a right is consistent with Hobbes’s explicit disavowals of rebellion. But this initial construal is controversial and requires further support. Lloyd disagrees, claiming that people who are unprotected are not *members* of a commonwealth and she understands Hobbes’s cases of justified disobedience as cases of nonmembers “resuming all of their natural liberty.”[^52] This move fits with her larger interpretation of Hobbes’s theory of political obligation as unconditional. In general, it is tempting to think of rebels (and people whose lives are unprotected) as former members of the commonwealth. After all, this move saves Hobbes from the purported inconsistency between his official statements against rebellion and the fact that his own principles seem to justify rebellion in some cases. On this reading, there is no problem of a possible right of rebellion; a rebel is simply an erstwhile subject exercising her right of nature against the sovereign. And Hobbes speaks in this way on at least one occasion. In the Latin edition of *Leviathan*, Hobbes says that “the transgression \[of rebels\] is not to be punished as a violation of the civil laws, but avenged as a hostile act. For \[transgressions of the essential rights of sovereignty\] involve rebellion, i.e., the transgression (or rather, repudiation) of all civil laws at once, and for that reason, they would be prohibited in vain by the civil law.”[^53]
 
 [^51]: This omission could also be explained by appeal to something akin to Kinch Hoekstra’s idea of a “doctrine of doctrines.” Hoekstra argues that Hobbes’s own theory prevents him from espousing certain ideas, forcing him to become a “principled trimmer” (“Tyrannus Rex vs. Leviathan,” *Pacific Philosophical Quarterly* 82, no. 3–4 \[2001\], 434). Interpreters should remember that what doctrines Hobbes can put forth are constrained by “his position that he should only express positions consistent with those of his sovereign” (Hoekstra, “*De Facto* Turn,” 54). Following this interpretive principle it becomes clearer why Hobbes would have omitted any discussion about or examples of justified rebellion. He had no intention of empowering religious minorities, which he saw as a dangerous force. Moreover, on Hobbes’s account, to acknowledge the possibility that rebellion was acceptable, if only in very rare and extreme cases, could have no positive effect, since he believed that actual rebellions had negative net consequences. So, even if he did recognize that his theory committed him to the legitimacy of rebellion under certain circumstances of necessity, he would have had good reason to remain silent on the issue.
+
 [^52]: Lloyd, *Ideals as Interests in Hobbes’s Leviathan,* 75. Others make this move as well; see Davis, “Heavenly Philosophy,” 361; Steinberger, “Hobbesian Resistance,” 865; and Ristroph, “Respect and Resistance in Punishment Theory,” 601. Many thanks to Kinch Hoekstra for pushing me to consider this possibility and helping me to develop this point.
+
 [^53]: *Leviathan* (Latin edition), 30.4.
 
 *[p. 157]* ^pg167
@@ -327,8 +351,11 @@ the king.”[^54] Philosophers of the twentieth and twenty-first centuries raise
 According to these critics, Hobbes’s retained rights of resistance and his commitment to even a limited right of rebellion are *subversive*. That is, they subvert the actual institution of sovereignty. We can pose the question in the following way: does the existence of a moral right to resist the state and even to rebel against it under some circumstances pose a significant threat to the maintenance of stable and effective political orders? Bramhall and Clarendon clearly believe that it does. In the famous quotation, Bramhall says of Hobbes’s right to resist: “there need no other bellows to kindle the fire of a civill war, and put a whole commonwealth into a combustion, but this seditious article … Why should we not change the Name of *Leviathan* into *Rebells catechism*?”[^55] Similarly, Clarendon protests that Hobbes is “so cruel as to devest his Subjects of all that Liberty, which the best and most peaceable men desire to possess, yet he literally and bountifully confers upon them such a liberty as no honest man can pretend to, and which is utterly inconsistent with the security of the Prince and People.”[^56] In recent Hobbes scholarship, this objection is most fully explicated in the work of Hampton, but we also find it in others. For example, Alan Ryan says of Hobbes’s theory, \[B\]ecause it was built on individualist and rationalist foundations, \[it\] must, in spite of its author’s intentions, leave room not only for individual resistance but also, in extremis, for fully fledged rebellion. *Leviathan* may well have framed the minds of many gentlemen to a conscientious obedience, but it also framed in many others a disposition to ask whether the sovereign had failed to secure our peace and safety or was visibly about to do so.[^57] On Ryan’s view, Hobbes’s theory is rendered incoherent because “in spite of its author’s intentions,” it must justify rebellion under some circumstances. Even though Ryan is writing three hundred and fifty years after Bramhall and Clarendon, it is clear that he is making the same general point.
 
 [^54]: Sommerville, *Hobbes: Political Ideas in Historical Context*, 35.
+
 [^55]: Bramhall, “Catching of Leviathan,” 145. For a nice discussion of Bramhall’s particular brand of royalism, see J. W. Daly, “John Bramhall and the Theoretical Problems of Royalist Moderation,” *Journal of British Studies* 11, no. 1 (1971), 26–44.
+
 [^56]: Clarendon, “Brief Survey,” 234.
+
 [^57]: Alan Ryan, “Hobbes’s Political Philosophy” in *The Cambridge Companion to Hobbes*, ed. Tom Sorell (Cambridge University Press, 1996), 208–245, at 241. For a very similar point, see George Shelton, *Morality and Sovereignty in the Philosophy of Hobbes* (New York:  St. Martin’s Press,
 
 *[p. 160]* ^pg170
@@ -356,6 +383,7 @@ Hobbes’s second response might be to point out that his notion of security is 
 Third, Hobbes might point out that not every person who judges that his life is insecure will actually rebel. He also has to judge that rebelling is the best means to his preservation, and he has to find others who have similar judgments. Hobbes could argue that even if certain people would be justified in rebelling, they are seldom likely to do so. According to Hobbes, the threat of punishment will keep people in order, even if those people judge that their lives are insecure. The prospect of failure and the fear of reprisal will always serve as deterrents; no matter how justified you take yourself to be in thinking that your life is insecure. Even if you judge correctly that your life is insecure, you very well may judge that rebelling is *not* the best means to your preservation. And, Hobbes is clear that no one is inclined to rebellion without the “hope of success.”[^59]
 
 [^58]: Some people might be tempted to use claims about insecurity as an *excuse* to rebel, when they are actually motivated by ideological concerns or the desire for gain. This is not a problem for Hobbes, because such people are not sincerely judging that their lives are insecure, and so they do not actually have a right to rebel.
+
 [^59]: *Elements of Law*, II.8.11.
 
 *[p. 163]* ^pg173
@@ -379,8 +407,11 @@ According to Hobbes, one of the most important duties of sovereigns is “publiq
 There are two important points to be made about Hobbes’s discussion of the duties of sovereigns. First, he assumes the sovereign will act in his own self-interest and that the interests of the sovereign (especially if the sovereign is a monarch) are the same as the interests of the people.[^62] The sovereign did not undertake an obligation in the social contract to fulfill any of these duties, and so he cannot be accused of injustice. But the sovereign remains bound by natural law. This means that his reason – if it operates properly – prescribes to him rules of conduct for safeguarding his life. Among these are rules minimizing the grievances that induce subjects to rebellion. The sovereign violates natural law if he acts without the intention of serving the good of the people, even though he cannot be punished for doing so. The key claim is that if the sovereign acts according to natural law, he will act in the interests of the commonwealth as well as in his own personal interest. All of these duties collectively are in the sovereign’s interests. For example, he claims that a well-reasoning sovereign will not allow his subjects to want for food because a weak citizenry will be unable to help in the nation’s, and so the sovereign’s, defense.[^63]
 
 [^60]: *Leviathan*, 30.21, 30.24.
+
 [^61]: *Leviathan*, 30.4; 30.8, 30.10, 30.13.
+
 [^62]: *Leviathan*, 30.22.
+
 [^63]: “\[I\]f the holder of sovereign power exacts so much money from the citizens that they cannot feed themselves and their families and maintain their physical strength, it is as big a disadvantage for the ruler as for themselves, since however rich he may be, he cannot protect his own wealth and power without the physical aid of the citizens” (*De Cive*, 10.2).
 
 *[p. 165]* ^pg175
@@ -392,9 +423,13 @@ And since there are some who, through no fault of their own, but because of acci
 Indeed, a preoccupation with preventing rebellion pervades Hobbes’s discussion of the duties of sovereigns. Even Hobbes’s recommendations for monetary policy reveal a concern with eliminating the conditions that foment sedition. Using the uprisings under Henry VII as an example, Hobbes argues that sovereigns should refrain from demanding heavy taxes because “great exactions, though the right thereof be acknowledged, have caused great seditions.”[^67] In addition, sovereigns have a duty to be equitable, which requires them to opt for a consumption tax instead of a tax on income or benefits. He also counsels sovereigns to rein in the “great” and make sure that “ordinary citizens” are not “oppressed” or even denigrated unfairly. He uses the Beggars’ Revolt to illustrate this, saying, “The sedition of those in Holland, called the Beggars, ought to serve as a warning how dangerous it is to the commonwealth to scorn citizens of modest means.”[^68] Interestingly, though the perpetrators of the 
 
 [^64]: *Leviathan*, 30.7.
+
 [^65]: *Elements of Law*, II.9.7.
+
 [^66]: *Leviathan* (Latin edition), 30.18.
+
 [^67]: *Elements of Law*, II.8.2; also see *De Cive*, 12.2.
+
 [^68]: *Leviathan* (Latin edition), 30.16.
 
 *[p. 166]* ^pg176
@@ -408,7 +443,9 @@ The critics are correct to worry that Hobbes’s individualism and subjectivism 
 The critics’ concerns are based on a fundamental misinterpretation or partial reading of Hobbes’s project. Everyone agrees that Hobbes’s goal was to provide a solution to the problem of political instability, to design a social and political order that would be, as much as possible, safe from internal and external threats. But his recipe for political order has *two* 
 
 [^69]: *Behemoth*, 184.
+
 [^70]: Hobbes could put a great deal of faith in the power of education to shape beliefs given that he thought the minds of common men were like “clean paper, fit to receive whatsoever by public authority shall be imprinted on them” (*Leviathan*, 30.6).
+
 [^71]: *Leviathan*, 31.40.
 
 *[p. 167]* ^pg177

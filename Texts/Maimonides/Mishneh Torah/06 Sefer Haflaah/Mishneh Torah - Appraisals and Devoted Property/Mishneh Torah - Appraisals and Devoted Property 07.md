@@ -136,80 +136,148 @@ If he did not say: "Give [the creditor...]," we do not give him this money unles
 **20.** We do not take heed of a rumor that says that a certain person declared all of his property ownerless, consecrated it, or made it a dedication offering unless there is clear proof[^69] [of its validity]. ^7-20
 
 [^1]: Articles which a person consecrated for the sake of improvements to the Temple.
+
 [^2]: This applies not only in this context, but also in many other areas of Jewish business law. See *Hilchot Sh'vuot* 7:4; *Hilchot Geneivah* 2:2, *et al*.
+
 [^3]: A promissory note itself is not worth money. It is valuable because of the debt that it records.
+
 [^4]: There is no such verse in the Tanach. The Rambam is referring to wording used by our Sages in *Kiddushin* [[Kiddushin 5#5a|5a]]. They are also referring to a verse, but have shortened and edited [[Torah 33 - Bechukotai#^27-19|Leviticus 27:19]].
+
 [^5]: This principle also applies in many aspects of Jewish business law. Objects that are worth silver may be used for the same purposes as silver (*Hilchot Nizkei Mammon* 8:10).
+
 [^6]: I.e., an object of minimal value.
+
 [^7]: See Chapter 4, Halachah 5; Chapter 5, Halachah 3, and notes. As explained there, we are speaking of a fifth of the new total, a fourth of the original amount.
+
 [^8]: Our Sages did not desire that his failure to pay the fifth prevent him from partaking of the entity, for this would reduce his Sabbath pleasure.
+
 [^9]: Since the treasurers demand payment of the fifth the person is not likely to forget. Nevertheless, this rationale itself is not sufficient reason for leniency. Hence, during the week, when the mitzvah of delighting in the Sabbath does not apply, the treasurers' reminder is not sufficient reason to permit use of the entity (see *Bava Metzia* [[Bava Metzia 54#54a|54a]]).
+
 [^10]: See Chapter 5, Halachah 11, which speaks of the redemption of such animals.
+
 [^11]: This is reflected by [[Torah 33 - Bechukotai#^27-13|Leviticus 27:13]].
+
 [^12]: See Halachah 2.
+
 [^13]: I.e., if a person was obligated to bring a sacrifice and a colleague set aside an animal from his own resources for him to offer, that person required to bring the sacrifice is not required to pay an additional fifth if he redeems the animal.
+
 [^14]: I.e., it was consecrated in the process of redeeming another article, as the Rambam proceeds to explain in the following halachah. See Halachah 11 for details regarding the redemption of an article by transferring its holiness to a second article.
+
 [^15]: In which instance, it must be redeemed whether blemished or unblemished. See Chapter 5, Halachot 5 and 12; see also *Hilchot Temurah* 1:12.
+
 [^16]: Since it is blemished, it is necessary to redeem it, as stated in Chapter 5, Halachot 11-12.
+
 [^17]: The Rambam is speaking about a practice, *temurah*, that involves transferring the holiness of an animal consecrated as a sacrifice to another animal. [[Torah 33 - Bechukotai#^27-10|Leviticus 27:10]] states that it is forbidden to make such an exchange, but if one does so both the animal originally consecrated and the one exchanged for it remain consecrated (*ibid.:33;* see *Hilchot Temurah* 1:1).
+
 [^18]: Because the animal to which the holiness was transferred was lost or unable to be used for a sacrifice for other reasons.
+
 [^19]: *Hilchot Pesulei HaMukdashim* 4:14-15.
+
 [^20]: For he is no longer obligated to bring a guilt offering, but must offer the worth of the animal as a sacrifice.
+
 [^21]: I.e., it is not the same animal that was originally consecrated. Our translation represents a slight variation from the standard published text of the *Mishneh Torah* that was made based on authentic manuscripts and early printings.
+
 [^22]: Hence although the person is not obligated to pay the additional fifth, if the Temple treasurer seizes it, he cannot be required to relinquish it.
+
 [^23]: The Rambam is speaking about a practice, *temurah*, that involves transferring the holiness of an animal consecrated as a sacrifice to another animal. [[Torah 33 - Bechukotai#^27-10|Leviticus 27:10]] states that it is forbidden to make such an exchange, but if one does so both the animal originally consecrated and the one exchanged for it remain consecrated (*ibid.:33;* see *Hilchot Temurah* 1:1).
+
 [^24]: *Temurah* [[Temurah 13#13a|13a]] relates that the concept of *temurah*, exchange, applies only with regard to sacrifices and an animal consecrated for the sake of improvements to the Temple is not considered a sacrifice.
+
 [^25]: For these expressions imply *temurah*, exchange.
+
 [^26]: I.e., using statements that indicate that he desires to redeem the animal and not exchange it.
+
 [^27]: A coin of minimal worth.
+
 [^28]: With regard to transactions between men, the laws of *ona'ah* (unfair gain) apply and a transaction can be nullified if it is sold for more or less than a sixth of its value (*Hilchot Mechirah* 12:4). These principles do not apply, however, with regard to consecrated property.
+
 [^29]: I.e., to carefully evaluate its worth. See Halachah 11.
+
 [^30]: While it is consecrated, both of these activities are forbidden according to Rabbinic Law (*Hilchot Meilah* 1:12).
+
 [^31]: With regard to transactions between private individuals, by contrast, as long as the difference between the article's value and the price for which it is sold is less than a sixth, the transaction is allowed to stand (*Hilchot Mechirah* 12:3).
+
 [^32]: See Halachah 8.
+
 [^33]: We are speaking about a cow consecrated for the sake of improvements to the Temple. If it were consecrated for sacrifice on the altar, even after its holiness were transferred to another animal, it would remain consecrated itself (Radbaz).
+
 [^34]: See Halachah 8.
+
 [^35]: As mentioned above, the fifth is one fifth of the new total including the fifth and the amount for which the article is redeemed. Since he stated the value of the article he was giving as ten *selaim*, the value of the fifth is calculated accordingly even though he is paying more than would actually have been required.
+
 [^36]: Halachah 4.
+
 [^37]: Performing *meshichah*, an act that would complete the *kinyan* (formal act of acquisition) of the article.
+
 [^38]: 100 *zuz*.
+
 [^39]: As mentioned in the notes to Halachah 1, the Rambam is not referring to an explicit verse in the Torah, but rather our Sages' restatement of the relevant verses in *Kiddushin* [[Kiddushin 28#28b|28b]].
+
 [^40]: And not when it enters his possession. Hence, he must pay the value at the time he redeems it.
+
 [^41]: See *Hilchot Mechirah* 9:2. As mentioned above, when an ordinary person completes *meshichah*, the transaction is completed and he must pay its price then. When it lost value, it was already in his possession.
+
 [^42]: One might ask: Why must he actually pay the money? Seemingly the very fact that he pledged to redeem it from the Temple treasury at 200 should be sufficient to make him liable in accordance with the principle (*Kiddushin* [[Kiddushin 28#28b|28b]], *et al*): "A person's statements to the Temple treasury are equivalent to an ordinary person drawing the article into his possession." The Radbaz explains that in this instance, that principle is not applied, because it is possible to say that the pledge was made in error. He did not expect that the article would depreciate in value. Hence, unless he paid the money, he is not liable for the higher sum.
+
 [^43]: And the depreciation is considered to have taken place in his possession as above.
+
 [^44]: Since the transaction is not completed until the purchaser draws it into his possession, with regard to ordinary transactions, the purchaser would have the right to nullify the transaction. Nevertheless, were he to do so, he is liable to have the admonition *mi shepara* administered to him by the court (*Hilchot Mechirah* 7:1). As the Rambam continues to explain, it is not appropriate to have this admonition administered to the Temple treasurers.
+
 [^45]: With regard to this admonition, *ibid.*:2 states: "He is cursed in court and told: 'May He who exacted retribution from the generation of the Flood, the generation of the Dispersion, the inhabitants of Sodom and Amorah, and the Egyptians who drowned in the sea, exact retribution from a person who does not keep his word.'
+
 [^46]: I.e., were the person to sell all his possessions to a private person, his wife and his creditors would be able to collect their due from the landed property in his domain. Since the property becomes the possession of the Temple treasury, those obligations temporarily need not be met.  
     The Ra'avad differs with the Rambam and maintains that the liens are in effect even when the property is in the possession of the Temple treasury. Our Sages' statement (*Ketubot* [[Ketubot 59#59b|59b]]) that consecration absolves prior liens applies only with regard to the consecration of articles that themselves will be used for the Temple or its sacrifices, not articles to be sold and the proceeds used.  
     One of the practical differences between the Rambam's position and that of the Ra'avad is whether a person will be liable for *me'ilah*, misappropriating consecrating property, for benefiting from this property. In *Hilchot Malveh ViLoveh* 18:7, the Rambam states similar ideas as in this halachah. In his gloss to that halachah, the *Maggid Mishneh* takes issue with the Rambam. Although, here, in his *Kessef Mishneh*, Rav Yosef Caro defends the Rambam's position in his *Shulchan Aruch* (*Choshen Mishpat* 117:7), it appears that he accepts the other view. The *Tur* and the Rama explicitly state that the Ra'avad's position should be followed.
+
 [^47]: I.e., the property is redeemed with the awareness that it is under lien and that lien will ultimately be collected. Its price is calculated accordingly, as stated in Halachah 16.
+
 [^48]: She had the right to collect the money due her by virtue of her *ketubah* from this property, but she agreed not to press her claim against this individual.
+
 [^49]: For the field remains on lien to her. The promise she gave the first purchaser is not binding with regard to the second.  
     The Ra'avad differs with the Rambam on this point as well, maintaining that the woman does not have the right to expropriate the property from the second purchaser. For by purchasing the field, he purchased every right that the first purchaser had. Moreover, if forced to pay the woman, he could seek reimbursement from the first purchaser or nullify the sale. In his gloss to *Hilchot Malveh ViLoveh* 19:8, the *Maggid Mishneh* supports the Ra'avad's view. The *Kessef Mishneh*, however, defends the Rambam's position.
+
 [^50]: Since it is on lien, obviously, no one will desire to pay its actual worth.
+
 [^51]: As stated in *Hilchot Ishut* 16:10,20 and *Hilchot Malveh ViLoveh* 22:10, we do not expropriate the field for the wife or the creditor until he or she takes an oath while holding a sacred object that the debt was not collected, waived, or sold to another person.
+
 [^52]: Chapter 3, Halachah 20; Chapter 4, Halachah 27.
+
 [^53]: Our translation is based on manuscripts and early printings of the *Mishneh Torah*. The standard printed text follows a slightly different version.
+
 [^54]: Although the initial preference is that consecrated property be redeemed for its full value (Halachah 8), that is not feasible in the present instance. Instead, the person is allowed to pay any sum he desires, for his profit may be small after paying the debt. Indeed, as the Rambam continues, he may even suffer a loss.
+
 [^55]: And the lien on the field is ignored.
+
 [^56]: This vow must be taken conditional to the consent of people at large. In this way, it can never be nullified. Note a parallel in *Hilchot Bi'at HaMikdash* 6:9.
+
 [^57]: I.e., he would remarry her and retake possession of a portion of his property in this way. See *Hilchot Ishut* 17:9-10. *Arachin* [[Arakhin 23#23a|23a]] emphasizes that we are speaking about a healthy man. If a person on his death bed divorces his wife so that she will not have to undergo *yibbum*, he is not required to take such an oath, for we do not suspect that a person on his death bed will try to deceive the Temple treasury. See Halachah 19.
+
 [^58]: For a consecration made in error can be nullified, as stated in Chapter 6, Halachah 34.
+
 [^59]: If, however, he made such statements before consecrating his property, his word is accepted (Radbaz).  
     See the *Siftei Cohen* (*Choshen Mishpat* 255:5) who elaborates on the concept that even if he makes this statement directly after consecrating his property, it is not accepted. As support, he cites *Hilchot Ma'aseh HaKorbanot* 15:1 where the Rambam writes that after a person consecrates an animal, even if he seeks to retract his consecration immediately, he cannot. The Radbaz (see his gloss to the following halachah) supports this view. The *Kessef Mishneh*, however, maintains that a healthy person can also retract his statement directly after making it.
+
 [^60]: I.e., the person claims to be holding it as an entrusted article.
+
 [^61]: And prevent a certain portion of his property from having to be redeemed.
+
 [^62]: For as stated in Halachah 14, consecration lifts liens on property.
+
 [^63]: See Halachah 16.
+
 [^64]: At such a time, when he will not derive any worldly benefit from sinning and is conscious of the retribution he will receive in the world to come, he will certainly not seek to deceive the Temple treasury.
+
 [^65]: I.e., his acknowledgement of the debt. If, however, the creditor does not have a promissory note whose authenticity has been verified, he cannot collect the debt, even though the debtor acknowledged it on his deathbed. The rationale is that (as stated in *Hilchot To'ain ViNitan* 6:7), a person is wont to state that he owes money even if he in fact does not so that his sons do not think of themselves as rich. His estate is not bound by these statements unless, as stated above, he explicitly instructed that the debt be paid or the creditor has a promissory note that has been verified. Even though in this instance, the money will be going to the Temple treasury and not to his sons, a similar rationale can still be applied. We say that he is admitting the debt so that people will not think of him as a person who hoarded money throughout his life (*Sefer Meirat Einayim* 255:12).
+
 [^66]: The Ra'avad objects to the Rambam's decision, stating that the word of a person on his deathbed is accepted even he makes his statements after consecrating the article. For at the time he consecrates an article, the statements of a healthy person are also accepted.  
     In view of this objection, the Radbaz explains that there are three different time frameworks:  
     a) before the consecration is made - in which instance the statements of both a healthy man and one on his deathbed are accepted;  
     b) immediately after (*toch k'dei dibbur*) the consecration is made - in which instance the statements of a healthy man are not accepted and those of one on his deathbed are;  
     c) some time after the consecration is made - in which instance neither the statements of a healthy man nor those of one on his deathbed are accepted.  
     The *Kessef Mishneh* follows the same basic thrust in interpreting the Rambam, but differs regarding one point, maintaining that a healthy person can also retract his statement directly after making it. The difference between a healthy person and one on his deathbed is that when a person is on his deathbed, his word is accepted as long as he is still speaking of the deposition of his property even though it is not directly after he consecrated it.
+
 [^67]: That he has not received payment for the debt.
+
 [^68]: As stated, in Halachot 14, 16. The Ra'avad adds that if we are speaking about an entrusted article which the dying man acknowledged having received for safekeeping, it is returned to its owner without being redeemed. The Radbaz states that the Rambam would not necessarily differ on this point.
+
 [^69]: Through the testimony of witnesses or a contract that has been verified.

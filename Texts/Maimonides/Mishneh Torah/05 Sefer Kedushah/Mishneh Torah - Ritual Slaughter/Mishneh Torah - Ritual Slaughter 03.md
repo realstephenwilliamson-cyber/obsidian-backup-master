@@ -130,74 +130,137 @@ With regard to a fowl, [a more stringent rule applies]:[^58] Whenever the strip 
 We compare only [a hole in] a large ring to [a hole in] a large ring or [a hole in] a small [ring] to [a hole in] a small [ring], but not [a hole in] a small [ring] to a [a hole in] a large [ring]. For the entire windpipe is made up of a series of rings. Between each [large] ring is a small, soft ring. ^3-25
 
 [^1]: The Rambam describes each of these terms in the subsequent halachot in this chapter.
+
 [^2]: I.e., a sheep or a goat.
+
 [^3]: I.e., a cow.
+
 [^4]: I.e., each animal is considered according to its category. It will take more time to deal with a large animal than a smaller one and the time factor is adjusted accordingly.
+
 [^5]: The Rambam's ruling favors the opinion of Shmuel over Rav. In his *Kessef Mishneh*, Rav Yosef Caro explains that generally, we follow the principle that the halachah follows Rav's approach with regard to the Torah prohibitions. Nevertheless, in this instance, since there are other Sages who support Shmuel's view, the Rambam favors his opinion. In his *Shulchan Aruch* (*Yoreh De'ah* 23:2), in addition to the Rambam's view, Rav Yosef Caro quotes Rashi's position which rules much more stringently with regard to *shehiyah* for a fowl. The Rama states that the common custom is to disqualify any ritual slaughter involving *shehiyah* of the slightest time for both animals and fowl.
+
 [^6]: Although the Ra'avad and Rav Moshe HaCohen dispute the Rambam's ruling, it is accepted by the *Shulchan Aruch* (*Yoreh De'ah*23:3). The Rama reiterates the stringency stated above.
+
 [^7]: In addition to the Rambam's view, the *Shulchan Aruch* (*Yoreh De'ah* 23:5) quotes the view of Rashi cited by the *Tur* that as long as the cutting of the signs is not completed, *shehiyah* can disqualify an animal. Hence, as an initial and preferred option, one should show respect for this view. The Rama rules even more stringently, stating that even after the fact, the slaughter is disqualified. For that reason, he continues, if the majority of the signs are cut, but the animal is lingering alive, rather than cut the signs further, one should hit it on its head to kill it.
+
 [^8]: For until half of the windpipe is cut, the animal is not considered as *trefe*.
+
 [^9]: He cannot return and correct the slaughter, for the animal is already considered as a *nevelah*.
+
 [^10]: Halachah 19.
+
 [^11]: As stated in Halachah 5.
+
 [^12]: As stated in Halachah 6.
+
 [^13]: If the gullet was perforated, the slaughter is unacceptable. If not, it is acceptable.
+
 [^14]: Theoretically, he could also cut the windpipe in the same place and complete the slaughter in that manner. Nevertheless, our Sages advised against doing so, for in this way, it is much easier to perforate the gullet when cutting the windpipe and thus he might disqualify the slaughter unnecessarily (*Kessef Mishneh*). See the *Turei Zahav* 23:6 who offers another rationale. As mentioned above, the Rama rules that whenever one waits during the slaughter of a fowl or an animal, the slaughter is disqualified.  
     A parallel law - slaughtering the animal in a different place - does not apply with regard to an animal. For to slaughter the animal, he must slit the gullet and we fear that he will cut at a place where it had been perforated previously (*Kessef Mishneh*).
+
 [^15]: I.e., he should cut the gullet off at its top and/or bottom and turn it inside out. If he is able to find a drop of blood, he can assume that it is perforated and it is unacceptable. An external examination of the gullet is not sufficient for the surface of the gullet is red and a drop of blood will not be noticeable. Its inner surface, however, is skin-colored and the blood will be noticed (*Kessef Mishneh*).
+
 [^16]: *Chullin* [[Chullin 20#20b|20b]] states that this term is derived from the word *chuldah* meaning "weasel," i.e., an animal that hides in the foundation of homes. Similarly, *chaladah* involves "hiding" the knife when slaughtering; i.e., inserting it in a way that the blade is not open to the eye. Implied is that the proper way to slaughter is for the slaughterer to hold the animal or fowl with its neck upward and to draw the knife back and forth across the neck.
+
 [^17]: Certainly, this applies when he inserted the knife below both signs and slaughtered the animal by moving the knife back and forth while pointed upward (*Siftei Cohen* 24:6).
+
 [^18]: In his *Kessef Mishneh*, Rav Yosef Caro quotes other authorities who explain that this is referring to a situation where the person tied the cloth around the animal's neck, attached it with wax, or the like. If, however, he merely loosely spread the cloth over the animal, the slaughter is acceptable. He concludes, however, that the Rambam's opinion should be respected. In his *Shulchan Aruch* (*Yoreh De'ah* 24:8), he rules according to the other views, but states: "One should show concern for his (the Rambam's) opinion at the outset."
+
 [^19]: The term *doreis* means "prey" or "strike," i.e., killing with a blow, rather than drawing back and forth as is required for ritual slaughter.
+
 [^20]: The *Maggid Mishneh* gives two interpretations of the term *hagramah*:  
     a) "lift up," as in [[II Kings 09#^9-13|II Kings 9:13]]; i.e., he lifted the knife above its proper place; and  
     b) "tip," as in *Bava Batra* [[Bava Batra 88#88b|88b]]; i.e., he tipped the knife upward.
+
 [^21]: The Rambam speaks only with regard to the windpipe, because he defines *hagramah* as slaughtering the animal in an improper place. If one would slit the gullet above the proper place, the animal would become disqualified as a *trefe* immediately (*Kessef Mishneh*).
+
 [^22]: The *Maggid Mishneh* states that the windpipe is made up of many rings. Over the top ring, there is a flap (cap) of flesh which is slanted. (This is the area of the larynx. See also Chapter 1, Halachah 7, and notes.) At the top of this flap, there are two kernel-like buttons of flesh. As long as the slaughterer leaves some portion of these kernels intact, the slaughter is acceptable.
+
 [^23]: The Rambam derived this concept from a comparison to the laws of *shehiyah* mentioned in Halachah 5. The same concept applies if one slaughters more than half the signs appropriately and then completes the slaughter through *chaladah*. Indeed, it can be explained that the Rambam does not mention this law with regard to *chaladah*, because it is obvious. For in *chaladah*, the slaughter is essentially correct; it is only the manner in which one inserts the knife that is unacceptable (*Kessef Mishneh*).  
     As mentioned in the notes to Halachah 5, there are opinions who differ and disqualify the slaughter. Similarly, with regard to the laws at hand, there are opinions that are more stringent, except with regard to *hagramah*. In that instance, they accept the leniency mentioned by the Rambam. The *Shulchan Aruch* (*Yoreh De'ah* 24:12) quotes both of the views without stating which should be followed. The Rama goes further and states that it is customary to rule stringently even with regard to *hagramah*, and even with regard to fowl.
+
 [^24]: This addition is necessary, for as stated above, if the gullet is perforated, the slaughter is disqualified.
+
 [^25]: For the majority of the windpipe was cut in an acceptable manner and the preliminary cutting did not cause the animal to be considered as a *trefe*.
+
 [^26]: Here also, the majority of the windpipe is cut in an acceptable manner. The fact that the two thirds were not cut directly after each other is not significant.
+
 [^27]: For the majority of the windpipe has not been slit in an acceptable manner.
+
 [^28]: The rationale for the Rambam's words has been discussed at length by the commentaries, because with regard to *chaladah*, in Halachah 10, he writes that there is an unresolved question whether the slaughter is disqualified, while here he appears to say that it is definitely unacceptable. The Rivosh (Responsum 187), the *Kessef Mishneh*, the *Maggid Mishneh*, and the *Siftei Cohen* 24:18 all offer lengthy - and somewhat forced - explanations to attempt to resolve the apparent contradiction. The core of the explanation of the *Kessef Mishneh* is that since the majority of the windpipe was slit in the proper place, it is not disqualified because a portion was not.  
     Needless to say, if one cuts the last third in either of these fashions, according to the Rambam, the slaughter is not disqualified, for it has already been completed (through slitting more than half of the sign[s] in an acceptable manner). The Rama, however, would disqualify the slaughter as stated above.
+
 [^29]: The term *ikur* means "uproot." The *Kessef Mishneh* states that, according to the Rambam, the fact that the signs have slipped from their place does not cause the animal to be deemed a *trefe* (see, however, Chapter 9, Halachah 21, and notes). Nevertheless, such a condition disqualifies the animal, for it is impossible for the ritual slaughter to be carried out in the proper manner.
+
 [^30]: For the slaughter was already completed in an acceptable manner. Compare to the following halachah.
+
 [^31]: This applies even with regard to a fowl. Although it is only necessary for one of the signs of a fowl to be cut in the appropriate manner, the other one must be fit to be slit in an appropriate manner (*Kessef Mishneh*).
+
 [^32]: In which instance it would disqualify it.
+
 [^33]: In which instance, it would be acceptable.
+
 [^34]: With regard to a fowl, the sign in question is the only sign slit. With regard to an animal, the other sign must have been slaughtered effectively.
+
 [^35]: The *Tur* and the *Shulchan Aruch* (*Yoreh De'ah* 24:18) rule more stringently and maintain that it is necessary to slaughter another animal, displace its signs afterwards, and compare the two. Only if they are similar is the slaughter accepted. Moreover, the *Shulchan Aruch* continues stating that, at present, we are not expert at making this comparison and hence, forbid an animal whenever such a condition arises.
+
 [^36]: Because the slaughterer will hold the signs in the proper position by hand.
+
 [^37]: And we do not know whether the slaughterer held it by hand or not.
+
 [^38]: See Chapter 1, Halachot 1 and 4.
+
 [^39]: Since an animal is forbidden during its lifetime, its meat is permitted only when we are certain that the slaughter was acceptable (Radbaz).
+
 [^40]: The addition is made on the basis of the gloss of the *Maggid Mishneh*.
+
 [^41]: I.e., even though the animal still has a certain vestige of vitality, it is considered as if it has died already and it imparts ritual impurity as a *nevelah* does (*Hilchot Shaar Avot HaTumah* 2:1).
+
 [^42]: In this and the following instance, the *Siftei Cohen* 33:4 rules that the animal is a *trefe* and not a *nevelah*.
+
 [^43]: If, however, the gullet was perforated at a higher point in the neck (see Halachah 12), it is considered as a *trefe* and not a *nevelah*.
+
 [^44]: I.e., skin-colored.
+
 [^45]: For the one that is not perforated is sufficient to protect the animal sufficiently for it to survive.  
     This leniency applies when the inner membrane is perforated due to sickness. If, however, it is perforated due to a thorn, we fear that the outer membrane may also be perforated, but that perforation cannot be detected [see Halachah 22; Rama (*Yoreh De'ah* 33:4)].
+
 [^46]: As above, if the gullet was perforated at a higher point in the neck (see Halachah 12), it is considered as a *trefe* and not a *nevelah* (*Kessef Mishneh*).
+
 [^47]: With regard to other organs which have two membranes, e.g., the brain and the lungs, the animal is not considered as *trefe* unless the holes correspond to each other. In this instance, however, the ruling is much more severe because the gullet is stretched and becomes extended. Thus even if the place of the holes do not correspond, they can match each other at times [*Kessef Mishneh*, *Shulchan Aruch* (*Yoreh De'ah* 33:4)].
+
 [^48]: For as the gullet expands, it is possible that the scab will open (Rashi, *Chullin* [[Chullin 42#42a|42a]]).
+
 [^49]: The Rama (*Yoreh De'ah* 33:9) rules more leniently, stating that unless a trace of blood is detected on the outer side, we do not disqualify an animal because a thorn was implanted in the gullet.
+
 [^50]: The *Shulchan Aruch* (*Yoreh De'ah* 33:9) rules that this applies even if the thorn is lying widthwise, as long as it is not implanted in the membrane. [Indeed, some versions of the *Mishneh Torah* substitute widthwise for lengthwise.]
+
 [^51]: And yet do not suffer any internal damage.
+
 [^52]: Because, as stated above (see Halachot 8, 19), since its outer membrane is red, a trace of blood will not be obvious.
+
 [^53]: I.e., the slit goes from side to side in a manner in which the majority of the cavity is slit. The Rambam (based on *Chullin* [[Chullin 44#44a|44a]],b) is emphasizing that this measure disqualifies an animal even if when including the thickness of the flesh of the windpipe, the slit would not cover the majority of the windpipe.
+
 [^54]: See Chapter 1, Halachah 7, and notes.
+
 [^55]: An Italian coin, frequently used in the Talmudic era. In his commentary to the Mishnah (*Mikveot* 9:5), the Rambam states that an *isar* is the weight of four barley corns.  
     The *Shulchan Aruch* (*Yoreh De'ah* 34:2) states that we are unfamiliar with the measure of an *isar*. Therefore, the laws applying to an animal should resemble those applying to a fowl and if the slit covers the majority of the cavity of the windpipe, it is disqualified. The Rama states that, for an animal, an *isar* is smaller than the majority of the cavity of the windpipe. Therefore he states that perhaps the intent of the *Shulchan Aruch*, is the majority of the cavity of a fowl. He cautions anyone who has a doubt to rule stringently and disqualify the animal.
+
 [^56]: When quoting this law, the *Shulchan Aruch* (*Yoreh De'ah* 33:3) speaks of perforating the windpipe "like a sifter."
+
 [^57]: In his *Kessef Mishneh* and his *Shulchan Aruch* (*Yoreh De'ah* 34:3), Rav Yosef Caro writes that as long as the flesh between the holes is not larger than the holes themselves, it is included together with them in this measure.
+
 [^58]: For the entire windpipe of a fowl may not be the size of an *isar* (Rashi, *Chullin* [[Chullin 45#45a|45a]]).
+
 [^59]: The addition is based on the gloss of the *Kessef Mishneh*. For each particular fowl, this measure is calculated individually (*Maggid Mishneh*).
+
 [^60]: Our translation is based on the gloss of the *Kessef Mishneh* who quotes the *Tur* (*Yoreh De'ah* 34) who explains that in contrast to the previous halachah which speaks of a hole the area of an *isar*, this halachah is speaking about a hole through which an *isar* can be slipped through on its side.  
     It must be emphasized that the Rambam's ruling depends on the interpretation of *Chullin* [[Chullin 54#54a|54a]] advanced by Rabbenu Yitzchak Alfasi. Rashi advances a different interpretation of that passage on which basis, the Ra'avad objects to the Rambam's ruling. The *Shulchan Aruch* (*Yoreh De'ah* 34:5-6) quotes both opinions without stating which is favored.
+
 [^61]: The *Kessef Mishneh* quotes Rashi who explains that if the windpipe is slit across we rule more stringently, for the stress of breathing will extend the windpipe and cause the slit to expand. This does not apply when it is split lengthwise.
+
 [^62]: In a manner that would disqualify the animal.
+
 [^63]: Were it to have been perforated afterwards, the perforation would not be significant.
+
 [^64]: For it is apparent that the first hole was also made after the animal's death. The Rama (*Yoreh De'ah* 34:9) states that we are not proficient in inspecting the animal in this way and should disqualify it in all situations.

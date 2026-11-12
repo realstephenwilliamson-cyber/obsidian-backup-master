@@ -102,22 +102,36 @@ In these instances, there are no verses that state "He shall not enter [the cong
 Similarly, from [the positive commandment, [[Torah 31 - Emor#^21-13|Leviticus 21:13]]]: "He [the High Priest] shall marry a virgin," we can derive that he is forbidden to marry a woman who is not a virgin. A prohibition that is derived from a positive commandment has the status of a positive commandment. ^1-8
 
 [^1]: *Sefer HaMitzvot* (Positive Commandment 213) and *Sefer HaChinuch* (Mitzvah 552) include this as one of the Torah's 613 commandments.
+
 [^2]: The Ra'avad and others object to this statement, noting that *Kiddushin* [[Kiddushin 4#4b|4b]] derives the concept that the transfer of money is an effective means of formalizing a marriage bond from a *gezerah shavah*, a correlation between two verses in the Torah, indicating that this practice also has its source in the Torah.  
     The *Maggid Mishneh* and the *Kessef Mishneh* draw attention to the Rambam's statements in *Sefer HaMitzvot* (General Principle 2), which state that any law that is not explicitly stated in the Torah, but rather derived through the Thirteen Principles of Biblical exegesis, is considered to be Rabbinic in origin (*midivrei soferim*). This classification does not, however, in any way diminish the status of this practice, and it is as if it were explicitly stated in the Torah. Thus, a marriage bond formalized through the transfer of money has the same status as one formalized through either of the other means mentioned by the Rambam.  
     Rav Kapach differs and states that the Rambam altered the text in his later years, and the correct version states, "All three are from the Torah." In explanation, he draws attention to the Rambam's Commentary on the Mishnah (*Kiddushin* 1:1) and to one of the Rambam's responsa, and on this basis differs with the above principle.  
     He maintains that whenever the Rambam uses the expression *midivrei soferim*, he means that the practice is Rabbinic in origin and does not have the status of Torah law. The only practices that are considered to be ordained by the Torah are those explicitly stated in the Torah or mentioned by the Sages as having the status of Torah law.  
     In this context, he explains the Rambam's approach. Originally [as evidenced by the Rambam's statements in *Sefer HaMitzvot* (Positive Commandment 213)], the Rambam thought that sexual relations are the only *kiddushin* that are effective according to the Torah. For not only the effectiveness of the transfer of money, but also that of the transfer of a legal document is derived by the Sages only through Biblical exegesis. Afterwards, on the basis of certain passages that state that the effectiveness of the transfer of a legal document has the status of a Torah practice, the Rambam changed his opinion and wrote that the transfer of a document is also effective according to the Torah. This opinion is reflected in the Commentary on the Mishnah and the original version of the *Mishneh Torah*. Even later, the Rambam accepted the opinion that the effectiveness of the transfer of money also stems from the Torah itself. This is reflected in Chapter 3, Halachah 20, and the corrected text mentioned above.  
     (See *Birkat Avraham*, Responsum 44, in which the Rambam's son, Rabbenu Avraham, substantiates Rav Kapach's version of the *Mishneh Torah*.)
+
 [^3]: The Ra'avad and others differ and maintain that a woman is not considered to be a harlot unless she is a professional prostitute. The difference between this approach and the Rambam's involves only the severity of the prohibition. Both agree that sexual relations outside the context of marriage are forbidden. With regard to a *pilegesh*, a woman one designates as a sexual partner but who is not consecrated as a wife, see *Hilchot Melachim* 4:4.
+
 [^4]: *Sefer HaMitzvot* (Negative Commandment 355) and *Sefer HaChinuch* (Mitzvah 570) include this as one of the Torah's 613 commandments.
+
 [^5]: These include incestuous and adulterous relationships as mentioned in Leviticus, Chapter 18. The forbidden relationships that are punishable by execution are discussed in *Hilchot Issurei Bi'ah*, Chapter 1, and those for which one is liable for *karet* and for which lashes are given are discussed in *Hilchot Sanhedrin*, Chapter 19.
+
 [^6]: See [[Torah 31 - Emor#^21-14|Leviticus 21:14]].
+
 [^7]: *Hilchot Issurei Bi'ah* 18:1 defines this term as meaning either a woman who is not Jewish, a Jewish woman who has engaged in relations with a man she is forbidden to marry, or one who engages in relations with a *challal* (a male born from relations between a priest and a woman he is forbidden to marry).
+
 [^8]: A woman who engages in relations with a priest despite a prohibition against doing so, or a female born from relations between a priest and a woman he is forbidden to marry (*Hilchot Issurei Bi'ah* 19:1).
+
 [^9]: See [[Torah 31 - Emor#^21-7|Leviticus 21:7]], 21:14.
+
 [^10]: A bastard is defined as a person born from any of the forbidden sexual relations that are punishable by execution or *karet*, with the exception of relations with a woman in the *niddah* state. This term does not refer to a child born out of wedlock. [[Torah 49 - Ki Teitzei#^23-3|Deuteronomy 23:3]] forbids a bastard from marrying a native-born Jewish male or female.
+
 [^11]: See [[Torah 49 - Ki Teitzei#^23-4|Deuteronomy 23:4]].
+
 [^12]: See [[Torah 49 - Ki Teitzei#^24-4|Deuteronomy 24:4]].
+
 [^13]: See [[Torah 49 - Ki Teitzei#^23-2|Deuteronomy 23:2]].
+
 [^14]: A *yevamah* is a childless widow, who is obligated to marry one of her deceased husband's brothers or to be discharged of that obligation through the rite of *chalitzah*. Until she and her brother-in-law fulfill this rite, she is forbidden to marry anyone else. (See [[Torah 49 - Ki Teitzei#^25-5|Deuteronomy 25:5-10]].)
+
 [^15]: The *netinim* are the Givonites, who were forbidden to marry into the Jewish people even after their conversion by Joshua. King David reinforced the ban against them. (See *Hilchot Issurei Bi'ah* 12:22-23.)

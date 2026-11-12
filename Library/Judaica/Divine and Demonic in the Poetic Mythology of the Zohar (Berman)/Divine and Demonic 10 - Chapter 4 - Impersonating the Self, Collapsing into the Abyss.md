@@ -31,6 +31,7 @@ And by means of the Knowledge, these two abysses are split – this receives and
 Moshe Cordovero[^598] ∵ In this chapter, I explore two polar consequences of the poetic mythology explored in the preceding chapters, each bearing the potential for the ultimate horror as well as the ultimate redemption. First, in a world in which the 
 
 [^597]: Vital, *Sefer Ha-Likutim*, 246b–247a.
+
 [^598]: *Pardes*, I, 15c. I have given this quote a rather literal translation that brings out its poetic and quasi-“Gnostic” quality. In context, “Knowledge” refers to *Da’at*, the hidden Sefirah between *Ḥokhmah* and *Binah*, the two “abysses” in the quote. For Cordovero, *Da’at* is the Sefirah of *Tif ’eret* in its supernal aspect.
 
 *[p. 226]* ^pg241
@@ -107,7 +108,9 @@ becomes the kernel \[*moḥa*\] of another layer” \[ עד דאשתכח דא ל
 However, and this point is crucial here, the passage’s treatment of the terms as partially overlapping does not give any sinister meaning to the term “garment” or the activity of enclothing. Indeed, it is precisely the unusually benign conception of the *kelipah* in that passage that makes its overlap with “garment” 
 
 [^602]: See generally, Cohen-Alloro, *Sod ha-Malbush u-Marʼeh ha-Malʼakh be-Sefer ha-Zohar,* *passim*.
+
 [^603]: See, e.g., *Zohar* III, 184a on the need for a proper garment for a proper *yenikah* to take place.
+
 [^604]: *Zohar* I, 20b.
 
 *[p. 232]* ^pg247
@@ -129,7 +132,9 @@ The *Ra’ya Mehemena* and *Tikune Ha-Zohar*, however, construct a sinister comp
 605\. *Ibid*. I note that this desire of Lilith seems ultimately to derive from the midrashic notion of the *shedim* as spirits without bodies. This notion is also alluded to in the assertion, at *Zohar* III, 143b, that *shedim* desire Torah sages in order to be “included in the Body.”
 
 [^606]: E.g., *Zohar* I, 210b.
+
 [^607]: E.g., *Zohar* II, 134a.
+
 [^608]: E.g., *Zohar* II, 125a.
 609\. *Zohar* II, 134a.
 
@@ -149,7 +154,9 @@ For during the week, the lower Shekhinah is enclothed in these *kelipot* of deat
 The Shekhinah is an orchard in exile. And she is the *moḥa* within. She is called a “nut,” as King Solomon said, “I went down into the garden of nuts” \[Song of Songs, 6:11\]. And she, the Shekhinah, is the fruit within, as it is written (Psalms 45:13), “The king’s daughter is all glorious within: her clothing is of wrought gold.” And the *kelipot* are the several alien domains. And on Shabbat, she disrobes from all, and dresses in beautiful clothes.[^612]
 
 [^610]: The impersonation of the divine by the demonic exists in some other sources, sometimes in order to test whether a person can see through the disguise. Thus, Moshe of Burgos declares that the angel who fought Jacob was a holy angel, “enclothed in the image of Sama’el” \[ .\]נתלבש בדמותו של סמאל Scholem, ‘Hosafot me-Ibud Ma’amaro shel R. Yitsḥak Ha-Kohen al Ha-Atsilut’, 191. See also ‘Ma’amar ‘al Ha-Atsilut Ha-Semalit,’ 91, where Yitsḥak Ha-Kohen states that because this impersonation was done to test Jacob, the angel was forbidden to tell Jacob whether his name was “Israel” or “Sama’el.” In a classic Ḥasidic transformation of these themes, Ya’akov Yosef Ha-Kohen of Polnoye tells us that the “essence of redemption” is to see that the “enemy” is really the “lover” \[ ,אויב – אוהב words that in eastern Europe would have been pronounced nearly identically\]. *Toledot Ya’akov Yosef*, 250. The Zoharic allegory of the prostitute sent by the king to test his son may also be added to this series of texts. *Zohar* II, 163a.
+
 [^611]: *Ra’ya Mehemena*, in *Zohar* III, 243b.
+
 [^612]: *Tikune Ha-Zohar*, 69a–b.
 
 *[p. 234]* ^pg249
@@ -208,6 +215,7 @@ Yet we only grasp the full horror of the situation created by the sinner when we
 618\. *Tikune Ha-Zohar*, 109a. I note that a bit earlier in the same passage, the punishment of sinners is also described as rendered possible by an intentional divine entrusting of the ten Sefirot of the Other Side to Sama’el. *Ibid*.
 
 [^619]: I explain this translation of the verse below.
+
 [^620]: For the Zoharic precursor of this usage, see *Zohar*, I, 5a.
 
 *[p. 237]* ^pg252
@@ -219,6 +227,7 @@ One may interpret the deportation of the divine into the demonic in at least thr
 The ontological and rhetorical dangers of impersonation are made even more explicit in another passage in the *Tikune Ha-Zohar*, also relying on a hyper-literal reading of the Third Commandment as a proof-text.[^621] The text recounts the story, adapted from a midrashic source, of the idol of Nebuchadnezzar, into whose mouth he inserted the divine name.[^622] This very literal instantiation of the deportation of the divine name into the demonic empowers the idol to utter the words, “I am YHVH your Elohim.” Rather than viewing it as some kind of magic trick, the *Tikune Ha-Zohar* interprets the speaking idol as an ontological intermixture of the divine and demonic: an intermixture of “the name of the blessed Holy One and idolatry,” producing the hybrid “Tree of Good and Evil.” On the rhetorical level, the idol who speaks in the name of God is a strikingly clear, as well as openly sacrilegious, image of ethopoeia.
 
 [^621]: *Tikune Ha-Zohar* 97a–b.
+
 [^622]: *Tikune Ha-Zohar*, 97b. The source I have found for this story is *Shir Ha-Shirim Rabah*, III, 61a (7:15). The biblical basis for the story is in Daniel 2 & 3.
 
 *[p. 238]* ^pg253
@@ -236,7 +245,9 @@ The Talmudic passage which is the source of the phrase, “idol worshippers in p
 623\. *Tikune Ha-Zohar*, 97b. The internal quote is from *bAvodah Zarah*, 8a.
 
 [^624]: *bAvodah Zarah, 8a.*
+
 [^625]: Cordovero elaborates on this phenomenon in several places. See, e.g., *Pardes*, I, 44c-d and *Or Yakar*, XVI, 122b.
+
 [^626]:  . לאשתמשא בשום מלאך … בשמא בעלמא … דאית ערבוביא *Tikune Ha-Zohar* , 97b. To be sure, the *Tikune Ha-Zohar* declares that those who truly “know” are able to avoid this consequence.
 
 *[p. 239]* ^pg254
@@ -254,6 +265,7 @@ In the latter contexts, and in direct opposition to the Zoharic “benign *kelip
 The fact that aggressive enclothing acquires such prominence in post-Zoharic kabbalah calls out for further reflection on the relationship between this kind of intimate divine/demonic relationship and some of the others I have discussed. The connotations of “garments” may seem, at first, far more neutral than those of the “husks” surrounding the *mo’aḥ*, the “red hair” of the *Ish*, and the foreskin of the divine phallus, let alone the rapacious “suckling” by the demonic – though, again, it may be their initially non-threatening 
 
 [^627]: *Ibid*., 63b.
+
 [^628]: *Ibid*., 116a.
 629\. See, e.g., *Ets Ḥayim*, 63d.
 
@@ -269,6 +281,7 @@ One might also have imagined that the non-organic connection between garments an
 19:20) \[ \]את מקדש יהוה טמא to describe the effects of demonic garments on 
 
 [^630]: Thus, a late attempt to mitigate the consequences of enclothing is articulated by Shlomo Elyashiv who declares that a donned garment never becomes a part of the enclothed person. *Sefer Sha’are Leshem*, 482. To be sure, the same text also highlights the danger of impersonation, declaring that the *kelipot* attempt to use the fact of enclothing to “call themselves divinity” \[ .\]הנה עי"ז מכנים את עצמם ג"כ בשם אלהות *Ibid*., 483. In any case, the danger of contamination is clearly expressed in other texts, both in the *Tikune Ha-Zohar* and in Lurianic kabbalah.
+
 [^631]: The contingency and reversibility of the “enclothing” image is highlighted by the early 19th century Yitsḥak Isaac Ḥaver. Ḥaver contrasts two images of the development of the universe: *unfolding* \[ ,\]השתלשלות which he see as linear development, associated with the Lurianic model of *igulim*, and *enclothing* \[ ,\]התלבשות which he sees as subject to reversibility due to the theurgical effects of human action, associated with the Lurianic model of *yosher*. See *Sefer Pitḥe She’arim*, II, 14a–b.
 
 *[p. 241]* ^pg256
@@ -284,6 +297,7 @@ This association of enclothing with sexual contamination brings us to the relati
 By contrast, the *Tikune Ha-Zohar*’s “contamination of the Temple,” tightly associating the Zoharic “casting of filth” with aggressive enclothing, provides not merely a link between abjection and crystallization but their simultaneity, even identification. In aggressive enclothing, crystallized “garments” paradoxically converge with miasmic filth. Far from constituting a superficial contiguity, the enclothing of the divine Sefirot by already-constituted demonic Sefirot simultaneously contaminates the interior of the divine, forcing it to undergo the experience of abjection. As a result of this “enclothing/contamination,” a monstrous hybrid then forms, the agricultural “*kil’ayim*” or sartorial 
 
 [^632]: *Tikune Ha-Zohar*, 109a. The *Tikune Ha-Zohar* also attempts to mitigate such consequences. Shortly after describing the enclothing of the divine name in the demonic, the *Tikune Ha-Zohar* declares that, at the level of *Atsilut*, contamination by the demonic garments only affects the divine garments and not the *moḥa*. These garments, however, are the divine Sefirot themselves. From the level of *Beri’ah* downward, moreover, the contamination can affect the *moḥa* as well. *Tikune Ha-Zohar*, 109a. This kind of reasoning is restated in some passages in Lurianic kabbalah with its notion that the *kelipot* of *Atsilut* are to be found in *Beri’ah*. See, e.g., *Ets Ḥayim*, I, 17b. In any event, the very attempts at such mitigation suggest the seriousness of the perceived threat of contamination from enclothing.
+
 [^633]: Leviticus 19:19.
 
 *[p. 242]* ^pg257
@@ -397,8 +411,11 @@ Moreover, drawing on the Lurianic portrayal of the construction of Lilith as a c
 Luzzatto’s exposition immediately after this fable links it to the convergence of abjection and crystallization that is the theme of this section. He associates 
 
 [^646]: *bSotah,* 47a; *bSanhedrin*, 107b.
+
 [^647]: Luzzatto, *Kin’at Hashem Tzeva’ot*, 91–93.
+
 [^648]: *Kin’at Hashem*, 104.
+
 [^649]: *Ibid*., 96: , כשגרמו העונות, ירדה השכינה ונתלבשה בלילית שפחה רעה. והשפחה הרעה הזאת ושהיתה נקודה אחת לבד, נתפשטה לעשר נקודות, ונקראת פרצוף. והנה כל מדרגות הקלי פות, כיון שרואים השכינה שם מלובשת, הנה הם חושבים שח"ו יוכלו לשלוט עליה. ובאמת הם מתקבצים בשאון גדול על לילית זונה בעבור השכינה אשר שם. ואז ברגע אחד השכינה . מסתלקת ובורחת משם, והם נשארים בטומאתם, ואינם שולטים כלל As a result of sin, the Shekhinah descended and was enclothed in Lilith, the evil bondwoman. And this evil bondwoman, who had been only one point, expanded to ten points, and was called a *partsuf* \[*persona*\]. And all the ranks of the *kelipot*, when they see that the Shekhinah is enclothed there, think, heaven forbid!, that they can dominate her. In truth, they gather in a great tumult around Lilith the whore for the sake of the Shekhinah who is there. And then, in one moment, the Shekhinah gets out of there and escapes and they remain in their impurity and do not dominate at all.
 
 *[p. 248]* ^pg263
@@ -410,7 +427,9 @@ discussed in this section, not only the convergence of abjection and crystalliza
 The full unfolding of this dynamic required two steps beyond the Zoharic literature. First, the *Ra’ya Mehemena* and the *Tikune Ha-Zohar* developed the notion of enclothing as capture of the divine by the demonic – or, conversely, as the hidden domination of the demonic by the divine. The second stage occurs in Lurianic kabbalah, in which one set of already-constituted elements, the nine upper Sefirot of *Malkhut*, are cast back and forth between the two realms – specifically between the Shekhinah and Lilith – through violent acts of expropriation of the Other that are simultaneously acts of the constitution of the Self.
 
 [^650]: *Ra’ya Mehemena*, at *Zohar* III, 276a; *Tikune Ha-Zohar* 58a.
+
 [^651]: *Kin’at Hashem*, 96: איזה פגם שצריך טהרה … והנה השידה הזאת היתה מבחינת הזוהמה של אסתר עצמה
+
 [^652]: On the Sabbatean use of Esther’s complex identity in Jewish myth, see Elkayam, ‘Masa Dumah: Esther Ha-Malkah ke-Av-Tipus Meshiḥi shel Ha-Zehut ha-Nezilah ba-Mitopoetika ha-Shabta’it’.
 
 *[p. 249]* ^pg264
@@ -463,8 +482,11 @@ dictum that, “from this *tehiru*, all the worlds were emanated \[ מהטהיר
 654\. ‘Derush Ha-Taninim,’ 19.
 
 [^655]: See my discussion of this term in Chapter 3.
+
 [^656]: *Ibid*.
+
 [^657]: Nathan’s identification of the *Tehom* with the golem is undoubtedly a distant progeny of Naḥmanides’ identification of Tohu with “hylic matter” in his commentary to *Bereshit* 1:1.
+
 [^658]: *Zohar* I, 15a. I note that these terms, particularly *tehiru*, have a very different sense in the Zoharic context.
 659\. ‘Derush Ha-Taninim’, 18.
 
@@ -588,9 +610,13 @@ The excerpt’s use of the verse from Job suggests, not the restraint of the aby
 “the mystery of ‘the abysses were congealed’ \[ ”.\]קפאו תהומות 674
 
 [^668]: *Zohar* I, 30a.
+
 [^669]: See, e.g., *bSukah* 49a.
+
 [^670]: See, e.g., *Midrash Tehilim*, 200b.
+
 [^671]: *bSukah* 53a–b; *ySanhedrin* 52b; *Midrash Shemu’el*, 41a.
+
 [^672]: E.g., *Zohar* II, 91b.
 673\. *Zohar* I, 30b.
 
@@ -642,6 +668,7 @@ Indeed, several Zoharic texts portray the two cosmic poles, the abyss and the *t
 I now turn to portrayals of the threshold between the abyss and the cosmos. Like their rabbinic precursors, Zoharic texts portray this threshold as guarded by a hard slab, either stone or pottery, that controls access in either direction. 
 
 [^679]: On this transformation of the Zoharic *Tehom* in some strands of Lurianic kabbalah, see Scholem, *Sabbatai Sevi*, 29.
+
 [^680]: Cordovero, *Pardes*, I, 15c; Horvitz, *Sefer Shefa Tal*, 48b.
 
 *[p. 260]* ^pg275
@@ -663,6 +690,7 @@ appraisals of the abyss in the three sources: in the first, as a mortal threat t
 These three narratives reappear, variously intermingled and revised, in a number of Zoharic texts. One short passage in the *Midrash Ha-Ne’elam* on *Bereshit* restates all three in barely altered form without much attempt to 
 
 [^681]: I am presenting in this paragraph a composite of three sources: *Midrash Shemu’el*, 41a; *bSukah*, 53a–b; *ySanhedrin*, 52b.
+
 [^682]: The *Midrash Shemu’el*, 41a, declares that David wanted to reach the “foundation of the Earth” \[ ,\]משתיתה של ארץ associating it with a passage in the Talmud Yerushalmi that refers to land that has never been worked as the “virgin of the Earth \[ ”.\]בתולת הארץ *yNidah* 2b.
 683\. *Midrash Tehilim* 91.
 
@@ -791,6 +819,7 @@ An important, though obscure, passage in Zohar *Bereshit* brings together many o
 700\. *Zohar* I, 161b.
 
 [^701]: Genesis 30, 37–41.
+
 [^702]: *Zohar* I, 30a–b.
 
 *[p. 266]* ^pg281
@@ -960,7 +989,9 @@ Several accounts of the “breaking of the vessels” associate the Talmudic “
 How should we situate the Zoharic literature among these options? Zoharic texts contain no explicit mention of the dunghill allegory or any association of the word “dunghill” with the divine. Nonetheless, one may find an allusion to it in Zoharic texts, particularly those recounting the myth of the “death of the Kings of Edom,” whose most elaborate form may be found in the *Idra Raba* \[Great Assembly\] section. The Zoharic texts base this myth on a seemingly superfluous digression in Genesis, reporting the names of eight kings who “reigned in the land of Edom before there reigned a king in Israel” and the 
 
 [^709]: Gaon of Vilna, *Tikune Ha-Zohar Commentary*, 32b (*Tikune Ha-Zohar Ḥadash* section); Ḥaver, *Sefer Afike Yam*, 205; Yosef Ḥayim ben Eliyahu, *Sefer Ben Yehoyada,* III, 49b.
+
 [^710]: I am using this verb here as convenient shorthand for differently conceived processes in different texts.
+
 [^711]: The midrash about the divine creation and destruction of worlds before the creation of the present world would also form a link in this tradition. It does not, however, explicitly state the notion that the present world is constructed out of, or on, the refuse of the destroyed worlds.
 
 *[p. 279]* ^pg294
@@ -1031,6 +1062,7 @@ the Hebrew, ,)ארץ אדום as a possessive, the land belonging to a *persona*
 The ultimate teaching about the Other Side is thus that the demonic Other is the primordial condition of the proper Self (human, national, or divine). As the very name “Other Side” indicates, alterity haunts the subject as its archaic secret, defying efforts to definitively lock it away in a temporal or geographical elsewhere, rendering forever impossible both its full annihilation and its wholehearted embrace. It is thus highly significant that both the Talmudic and Zoharic writers attribute the deepest secrets to “that which came before”: 
 
 [^719]: Liebes, ‘Ha-Mythos Ha-Kabbali be-fi Orpheus’, 30.
+
 [^720]: *Ibid*., n. 89. The text is R. Jonathan Eibeschütz, *And I Came this Day unto the Fountain*, 27.
 
 *[p. 283]* ^pg298
@@ -1096,6 +1128,7 @@ ments, “and they gathered” \[ ,ויצברו *va-yitsberu*\] appears twice in
 Nevertheless, this new crystallization remains shadowed by the previous abject state, the destructive appropriation of the plenitude by the demonic. The perfected cosmos of Zoharic mythology, like the wholeness of the great composition *Sefer Ha-Zohar*, can only be reconstructed by locating the missing fragments of being and language – fragments that can only be found in the abject “corners,” requiring engagement with those denizens of the abject, the moths and drips, and, above all, the demonic “terrors.”
 
 [^723]: Genesis 41:35.
+
 [^724]: Exodus 8:10.
 
 *[p. 286]* ^pg301

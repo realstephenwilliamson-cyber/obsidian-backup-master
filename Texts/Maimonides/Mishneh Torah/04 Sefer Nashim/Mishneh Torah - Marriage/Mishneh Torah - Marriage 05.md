@@ -168,6 +168,7 @@ If she said yes, she is consecrated. If she remained silent, she is not consecra
 Therefore, if the oil was not worth a *p'rutah*, the status of the *kiddushin* is doubtful. If the oil is worth a *p'rutah*, she is definitely consecrated; no attention is paid to [the value of] the cup. ^5-29
 
 [^1]: Since it is forbidden to derive benefit from the article, according to the Torah, it has no value whatsoever. For a woman to be consecrated, she must receive an article worth a *p'rutah*.
+
 [^2]: The *Maggid Mishneh* and the *Tur* (*Even HaEzer* 28) understand the Rambam as saying that all articles that are forbidden to be used by Rabbinic decree cannot establish a bond of *kiddushin*. Rav Yosef Karo (in the *Kessef Mishneh*) differs and explains that the example given by the Rambam specifies the scope of the ruling. Only when a Rabbinic commandment has its source in a prohibition from the Torah are the *kiddushin* of no effect.  
     From the Rambam's Commentary on the Mishnah (*Pesachim* 2:1), his view is clearly that even if the prohibition is entirely Rabbinic in origin, the *kiddushin* are not binding.  
     In the *Shulchan Aruch* (*Even HaEzer* 28:21), Rav Yosef Karo follows the opinion of Rabbenu Asher, who states that if the article is forbidden by force of Rabbinic decree, and that prohibition has no source in the Torah, the *kiddushin* are binding. If the prohibition has its source in the Torah, the status of the *kiddushin* is in doubt.  
@@ -175,47 +176,83 @@ Therefore, if the oil was not worth a *p'rutah*, the status of the *kiddushin* i
     The *Beit Shmuel* 28:52 justifies the *Maggid Mishneh's* interpretation of the Rambam's view, explaining that since in practice the article is worthless because of the Rabbinic decree, the woman has not been given an article of value, and the *kiddushin* are not binding. In support, he cites another example: The man must own the article he gives as *kiddushin*. If he acquired that article through a *kinyan* (contractual act) that is Rabbinic in origin and is not accepted by Scriptural law, the *kiddushin* are binding.  
     *Kin'at Eliyahu* explains that the difference between these two views can be explained using the concepts of *cheftza* (the article) and *gavra* (the person). The Rambam's perspective puts the emphasis on the person, the woman receiving the *kiddushin*. She must receive an object from which she can derive benefit. Hence, since the Rabbis forbade deriving benefit from such an object, the *kiddushin* are not binding.  
     Rabbenu Asher, by contrast, puts the emphasis on the article given as *kiddushin*. For *kiddushin* to be effective, an article that is worth a *p'rutah* must be given. Since according to Scriptural law the article has intrinsic worth, the fact that our Sages forbade using it is not relevant in this context.
+
 [^3]: See *Hilchot Avodat Kochavim* 7:9.
+
 [^4]: For goring a person. (See [[Torah 18 - Mishpatim#^21-28|Exodus 21:28]].)
+
 [^5]: Although the produce of the Sabbatical year is ownerless, once a person takes possession of it, it becomes his private property and has value. Hence, it can be used to consecrate a woman.
+
 [^6]: As the Rambam states in his Commentary on the Mishnah (*Kiddushin* 2:10, based on *Kiddushin* [[Kiddushin 58#58a|58a]]), it is forbidden to receive money for consecrating or sprinkling the water of the ashes of the Red Heifer. One may, however, take payment for drawing the water and transporting it. Thus, the woman can derive this benefit from the water and/or ashes she is given.
+
 [^7]: See *Hilchot Me'ilah* 1:3.
+
 [^8]: For dedicated property that was consciously used for a person's private purposes retains its sacred nature and does not enter the possession of the person to whom it was given. (See *Hilchot Me'ilah* 6:3.)
+
 [^9]: We are required to eat the produce of the second tithe in Jerusalem or redeem it and use the money to buy food to be eaten in Jerusalem. Although one derives personal benefit from eating this produce, it is not considered to be one's own property.
+
 [^10]: In all the latter instances, although the person receives the produce in question because of the Torah's decree - and with regard to *terumah*, it still possesses a dimension of ritual sanctity - once he has received it, it is regarded as his personal property entirely, and he may use it as he pleases. Hence, it is fit to be used to consecrate a woman.
+
 [^11]: A thief or robber cannot normally become the legal owner of an article through the owner's despair alone. The article must be given to a third party or undergo a change before it is considered to have left its original owner's property. Nevertheless, in this instance, since the woman receiving can legally acquire the article - for she is a third party - the *kiddushin* are effective (*Maggid Mishneh*).
+
 [^12]: The Rambam's intent is that if the witnesses to the consecration know that the article was stolen, they must know that the owner of the article has despaired of its return. If they do not have such knowledge, they cannot serve as witnesses. Hence, the *kiddushin* are invalid, for it is as if they were performed without being observed by witnesses (*Noda Biy'hudah, Even HaEzer*, Volume II, Responsum 77).
+
 [^13]: The commentaries have questioned this ruling, for it appears to be the Rambam's own addition. The *Noda Biy'hudah* (*Even HaEzer*, Volume I, Responsum 59) states that it would appear that this refers to a situation in which the owner is present and does not object. Nevertheless, since none of the sages of the earlier generations offered this interpretation, he is not willing to do so.  
     The *Edut BiY'hosef* (Volume II, Responsum 77) states that this ruling depends on those in the previous halachah. Since *kiddushin* are valid after the owner relinquishes his ownership of stolen property by despairing of its return, they are valid in the present instance. Since the owner does not object to the person's taking the object, he is considered to have relinquished his ownership. A similar interpretation is found in the *Chatam Sofer, Even HaEzer*, Responsum 85.  
     The *Beit Shmuel* 28:45 states that the doubt is that perhaps the owner indeed objects. The *Chatam Sofer* explains that the doubt concerns the object's worth. Although it is not of significant value in the place of the *kiddushin*, maybe it is valuable in another locale, as stated in Chapter 4, Halachah 19.
+
 [^14]: We interpret her silence as implying that she granted him the stolen object as a present and accepted it as *kiddushin* (Rashi, *Kiddushin* [[Kiddushin 52#52b|52b]]). There is a difference of opinion among the Rabbis whether or not he is obligated to return the value of the stolen property to her. The Rashba maintains that he is not required, while Rabbenu Nissim states that he is. (See the Ramah and commentaries, *Even HaEzer* 28:2.)
+
 [^15]: For she merely accepted her own property.
+
 [^16]: Since she acknowledged the *kiddushin*, the situation becomes parallel to that mentioned in Halachah 18.
+
 [^17]: The Ramah (*Even HaEzer* 28:7) notes that if the promissory note is worth a *p'rutah* and he returns it, there are opinions that maintain that the consecration is binding.
+
 [^18]: I.e., even if she has not actually spent the money, from the time she received the loan, the money is hers and not the lender's, and he cannot consecrate her with it (*Beit Yosef, Even HaEzer* 28). See also *Beit Shmuel* 28:19.
+
 [^19]: *Tosafot, Kiddushin* 19a, states that the *kiddushin* are effective even if the collateral is not returned. Although the *Shulchan Aruch* (*Even HaEzer* 28:11) appears to favor the Rambam's view, it also quotes the other opinion.
+
 [^20]: Since in addition to the eventual repayment of the debt, the person also receives the benefit of consecrating the woman, it is regarded like interest. The Rabbis (Meiri, *Ma'aseh Rokeach*) explain that the Rambam's wording is precise. The expression "like interest" implies that it is not actually considered to be taking interest, as forbidden by Scriptural law.
+
 [^21]: The Rambam is referring to Rabbenu Yitzchak Alfasi, who interprets the passage from *Kiddushin* [[Kiddushin 6#6b|6b]] as referring to a person who extends the length of a loan at the time that payment is due. The Rambam does not accept that interpretation, because it is not logical that extending the length of the loan would be more effective than forfeiting the debt entirely (*Maggid Mishneh*).  
     Rabbenu Yitzchak Alfasi's view is also followed by Rashi and the Ra'avad. The *Shulchan Aruch* (*Even HaEzer* 28:9) quotes the Rambam's interpretation (for even the opinions that differ agree that such *kiddushin* are binding). In the law that follows, it also quotes the opinion of Rabbenu Yitzchak Alfasi. Although the opinion of the Rambam is mentioned, the other view is favored. The Ramah, however, considers the status of the *kiddushin* to be doubtful because of the Rambam's view.
+
 [^22]: Although the man mentions the debt, since he also gives her a *p'rutah*, we assume that she considers the money that she actually receives together with the loan. Therefore, the *kiddushin* are binding (*Kiddushin* [[Kiddushin 46#46a|46a]]).
+
 [^23]: As stated in *Hilchot Mechirah* 6:8, when such a statement is made in the presence of all the concerned parties, our Sages accepted it as a formal means of transferring the debt. This law shows that even when money is transferred through means ordained by Rabbinic and not Scriptural law, the *kiddushin* are binding according to Scriptural law.  
     There are opinions that maintain that the woman is not consecrated. These opinions maintain that even after such a transfer has been made, the original creditor can nullify a debt that has been transferred through such a process. Since there is a possibility that the debt will be nullified, they maintain that the woman will not make the commitment required by *kiddushin*. (See Rabbenu Nissim and the *Shulchan Aruch*, *Even HaEzer* 28:13 and commentaries.)
+
 [^24]: Our translation is based on the Yemenite manuscripts and early printings of the *Mishneh Torah*. The wording of the standard printed text is somewhat confusing. It could be rendered: "If a *p'rutah's* worth of the article remains..." - i.e., even if the article is lost or stolen, if a *p'rutah's* worth remains - the consecration is binding. See the *Shulchan Aruch* (*Even HaEzer* 28:6) and commentaries.
+
 [^25]: If, however, the entrusted object or borrowed article has been lost, stolen or destroyed, even if the woman is obligated to reimburse the man for its value, that obligation is considered similar to other debts, and the woman cannot be consecrated through it.  
     Although the entrusted object or borrowed article was located in the woman's property at the time of the *kiddushin*, since she was not the legal owner, she is considered to have received sufficient benefit to make the *kiddushin* effective.
+
 [^26]: Speaking on her behalf is considered equivalent to working for her. Hence, an equation is established between this law and the following halachah.
+
 [^27]: I.e., it is not as if the man's entire wage becomes due at the time he completes his work. Instead, for each moment of work, he earns a corresponding amount of his wages. This money is considered as a loan which is not due until the end of his employment. Thus he is in fact consecrating the women with a loan.
+
 [^28]: *Kiddushin* [[Kiddushin 7#7a|7a]] compares this situation to that of a guarantor who becomes liable to pay a loan if the borrower cannot. In both instances, the benefit received by another person causes the person who made the commitment (the guarantor or the woman) to incur an obligation.  
     The *Maggid Mishneh* (4:4) and others compare this law to Chapter 4, Halachah 4, but explain that there is a difference between the two cases. In Chapter 4, the man does not respond to the woman's suggestion, while in this halachah, he makes a clear statement acknowledging the woman's offer of *kiddushin*. The Ramah (*Even HaEzer* 29:2) puts the emphasis on the fact that in this halachah, the woman initially made this suggestion, even before the man proposed the *kiddushin*. In the previous law, by contrast, her statement was made in response to his proposal, and her facetious intent becomes clear.
+
 [^29]: *Kiddushin* [[Kiddushin 7#7a|7a]] derives this law by making a twofold comparison: to a guarantor (as in the law explained in the first portion of the halachah) and to a Canaanite servant. To explain: The servant becomes free when other people give his master money for that purpose, even though he himself gives nothing at all. Similarly, the person receiving the present acquires the woman as a wife even though he did not give anything for that purpose himself. Although there is a difference between the two - because the servant's owner receives money for the sake of freeing him and the woman does not receive any money herself - the comparison to a guarantor resolves that difficulty, as explained above.
+
 [^30]: *Kiddushin, ibid.*, derives this law from a comparison to a Canaanite servant, as explained above.
+
 [^31]: The *Shulchan Aruch* (*Even HaEzer* 27:9) states that clarification is necessary to determine what is meant by "an important person." Because of the doubt involved, it is proper to require a divorce if the woman desires to become consecrated to another man (*Chelkat Mechokek* 27:21).
+
 [^32]: Thus, it is as if she has received nothing. Therefore, she is not consecrated.
+
 [^33]: The Ramah (*Even HaEzer* 28:12) quotes the *Tur* as stating that this law applies only when the security was taken at the time the loan was given. Otherwise, the *kiddushin* are not binding.
+
 [^34]: From the Rambam's wording, it appears that there is no reason to say that the woman has been consecrated. Rabbenu Asher and others maintain that according to Scriptural law, the consecration is valid, for a present of this nature is considered to be a valid transaction. It is merely that the Rabbis nullified these *kiddushin* lest they resemble *chalifin* (barter).  
     The difference between these two approaches is that the Rambam puts the emphasis on the benefit the woman receives (or does not receive). Hence in this situation, since the woman did not receive any benefit, the *kiddushin* are not binding. Rabbenu Asher, by contrast, puts the emphasis on whether or not the man performed a valid act of transfer. Since he did, the *kiddushin* would be binding, were it not for our Sages' decree (*Or Sameach*).
+
 [^35]: I.e., at the time the money was given, she was not aware of it, and afterwards to be consecrated she must explicitly express her consent. Rabbenu Yitzchak Alfasi differs and maintains that in such an instance there is a doubt whether or not the *kiddushin* are binding, and the more stringent ruling must be followed in every instance. His view is accepted by the *Shulchan Aruch* (*Even HaEzer* 28:5).
+
 [^36]: As stated in Chapter 4, Halachah 19 above.
+
 [^37]: In the *Kessef Mishneh*, Rav Yosef Karo raises a question on this ruling, noting that *Kiddushin* [[Kiddushin 46#46a|46a]] interprets this law as following the reasoning of Rabbi Shimon. In similar instances (see *Hilchot Sh'vuot* 7:10 and *Hilchot Nedarim* 4:11), the Rambam rejects Rabbi Shimon's reasoning.  
     In his gloss on *Hilchot Nedarim*, the *Kessef Mishneh* resolves that issue, explaining that we find that there is a *mishnah* in the tractate of *Kiddushin* (stated without mentioning the name of the author) that follows Rabbi Shimon's view, and a *mishnah* in the tractate of *Nedarim* that follows the opposing view. One of the principles of Talmudic law is that a *mishnah* is taught without mentioning its author to show that it is accepted by the majority of the Sages. Accordingly, one may presume that since the Rambam saw that the redactor of the *Mishnah* chose to follow Rabbi Shimon's reasoning in one instance and to differ with it in another, the Rambam followed suit.
+
 [^38]: Since the water is of little value, it is considered to have no independent importance. Hence, its value is considered together with that of the cup. The wine is not of negligible value, but - in the Talmudic era - it was worth less than the cup containing it. Hence, the wine is given independent importance and is not considered together with the cup. The oil - in the Talmudic era - was considered to be very valuable, more valuable than the cup containing it. Moreover, oil is not necessarily all used at one time. Therefore, it is apparent that the cup is subservient to the oil, and it is the value of the oil that is the determining factor.

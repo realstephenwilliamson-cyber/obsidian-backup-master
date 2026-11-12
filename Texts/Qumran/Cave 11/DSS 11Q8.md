@@ -22,21 +22,21 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Ps 6:2-4 |
-| Frag. 3 | Ps 18:26-29 |
 | Frag. 2 | Ps 9:3-6 |
+| Frag. 3 | Ps 18:26-29 |
 | Frag. 4 | Ps 18:39-42 |
 | Frag. 5 | Ps 36:13 - 37:4 |
-| Frag. 12 | Ps 78:5-12 |
 | Frag. 6 | Ps 39:13 - 40:2 |
-| Frag. 13 | Ps 81:4-9 |
 | Frag. 7 | Ps 43:1-3 |
-| Frag. 14 | Ps 86:11-14 |
 | Frag. 8 | Ps 45:6-8 |
-| Frag. 15 | Ps 115:16 - 116:1 |
 | Frag. 9 | Ps 59:5-8 |
-| Frag. 16 | Ps 78:36-37 ? |
 | Frag. 10 | Ps 68:1-5 |
-| Frag. 17 | Ps 60:9 ? |
 | Frag. 11 | Ps 68:14-18 |
+| Frag. 12 | Ps 78:5-12 |
+| Frag. 13 | Ps 81:4-9 |
+| Frag. 14 | Ps 86:11-14 |
+| Frag. 15 | Ps 115:16 - 116:1 |
+| Frag. 16 | Ps 78:36-37 ? |
+| Frag. 17 | Ps 60:9 ? |
 
 [[DSS 11Q7|← 11Q7]] · [[Qumran|index]] · [[DSS 11Q9|11Q9 →]]

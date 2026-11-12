@@ -54,5 +54,6 @@ aliases:
 | Frag. 40 | Isa 61:1-3 |
 | Frag. 41 | Isa 64:5 - 65:1 |
 | Frag. 42 | Isa 66:24 |
+| Frag. 43-47 | unidentified |
 
 [[DSS 4Q55|← 4Q55]] · [[Qumran|index]] · [[DSS 4Q57|4Q57 →]]

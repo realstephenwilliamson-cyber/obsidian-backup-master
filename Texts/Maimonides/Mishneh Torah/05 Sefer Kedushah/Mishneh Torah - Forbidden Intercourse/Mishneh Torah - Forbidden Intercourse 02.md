@@ -104,37 +104,68 @@ Even if a man is merely suspected of relations with a woman,[^26] he should not 
 **14.** When a man's father or son marries a woman, that man may marry her daughter or her mother as we explained.[^29] A person may marry the wife of his brother's son.[^30] A man may marry a woman and her sister's daughter or her brother's daughter at the same time. It is a mitzvah from the Sages for a man to marry his sister's daughter,[^31] as [alluded to by [[Isaiah 58#^58-7|Isaiah 58:7]]]: "Do not turn away from your own flesh." This law also applies to his brother's daughter.[^32] ^2-14
 
 [^1]: The singular of the term *arayot* mentioned in the first chapter.
+
 [^2]: When a man dies childless, one of the brothers of the deceased is obligated to marry his widow to propagate his name. This obligation, *yibbum* in Hebrew, is described in Deuteronomy, ch. 25, and in *Hilchot Yibbum ViChalitzah*.
+
 [^3]: I.e., if he transgresses inadvertently. If he transgresses intentionally, he is liable for execution, by stoning for relations with his father's wife and his son's wife, and by strangulation for relations with his brother's wife and the wife of his father's brother. (For the latter two transgressions are punishable by *kerait* and so he receives the penalty for adultery alone.)
+
 [^4]: See Chapter 17, Halachah 8, and notes where this concept is explained.
+
 [^5]: Since the Rambam speaks of laws that apply after the father's death, he mentions only two prohibitions. During the father's lifetime, he is liable for a third prohibition: relations with a married woman.
+
 [^6]: For the prohibition against relations with all blood relatives applies regardless of whether the person was conceived within marriage or outside of it.
+
 [^7]: *Hilchot Ishut* 1:5. This is merely a Rabbinical prohibition.
+
 [^8]: Even if they were raised in the same household like a brother and a sister, marriage between them is permitted. We are not considered with the possible impression such a union might create [*Shulchan Aruch* (*Even HaEzer* 15:11)].
+
 [^9]: And thus be required to bring two sin offerings.
+
 [^10]: This applies even if afterwards, the father marries the woman who he raped or seduced (*Minchat Chinuch*, mitzvah 196).
+
 [^11]: The fact that her mother was not married to him is not significant.
+
 [^12]: The Rambam's statements touch on an involved issue. In his *Sefer HaMitzvot* (General Principle 2), he writes that every concept derived through the principles of Biblical exegesis has the power of Scriptural Law. Nevertheless, commandments derived through these principles are not considered as part of the 613 mitzvot, but are instead "from the words of our Sages."  
     The prohibition against relations with one's daughter, the Rambam states, is not in that category. Although it is not explicitly mentioned in the Torah and *Sanhedrin* [[Sanhedrin 76#76a|76a]] uses different principles of exegesis to derive it, it is not "from the words of our Sages." Instead, it is as if it was explicitly stated in the Torah. From *Hilchot Ma'achalot Assurot* 9:2, it appears that the Rambam's intent is that since the Torah mentions the prohibition against relations with the daughter of one's daughter, the prohibition against relations with one's daughter is obvious. There is no need for the Torah to mention it. It must be mentioned that many other authorities do not follow the same understanding as the Rambam and consider concepts derived through the principles of Biblical exegesis as fully binding Scriptural Law. According to their understanding, there is no difficulty with the prohibition against relations with one's daughter being considered of Scriptural origin.
+
 [^13]: From the Ra'avad's statements, it appears that he does not require a sin offering for relations with one's daughter. The parenthesis are based on the understanding of the *Maggid Mishneh*.
+
 [^14]: As stated in the following halachah.
+
 [^15]: When stating this law, *Shulchan Aruch* (*Even HaEzer* 15:13) emphasizes that if a man rapes a woman, after her death, he may marry her daughter who was conceived by another man. The Ramah adds that even if the rapist marries her daughter during her lifetime, he is not compelled to divorce her.
+
 [^16]: This is based on the Rambam's understanding of *Sanhedrin* [[Sanhedrin 76#76b|76b]]. Rashi, the Ramban, and the Rashba differ and maintain that after the death of the man's wife, he is prohibited against relations with her close relatives, but is not liable for *kerait*.
+
 [^17]: The use of the plural term "they" should not be interpreted to mean that the man's wife should be executed by being burnt to death. For what evil has she committed? Instead, the intent is that only in her lifetime is the death penalty applied (Rashi, *Sanhedrin* [[Sanhedrin 76#76b|76b]]).
+
 [^18]: *Sanhedrin, loc. cit.*, speaks about relations with one's mother-in-law, stating that only when one's wife is alive are these relations punishable by death. Since, however, the prohibition against relations with all the other five women mentioned above is derived from the prohibition against relations with one's mother-in-law, they are bound by the same laws (*Maggid Mishneh*).
+
 [^19]: For [[Torah 29 - Achrei Mot#^18-18|Leviticus 18:18]] explicitly states that the prohibition against relations with the sister of one's wife is "in her lifetime." While the wife is alive, even if she is divorced, the man is forbidden to engage in relations with her sister [*Shulchan Aruch* (*Even HaEzer* 15:26)]. After his wife's death, however, he may marry her sister.
+
 [^20]: For his wife has not transgressed and there is no reason that she should become forbidden.
+
 [^21]: The Rambam is referring to *Hilchot Gerushin* 10:8-10 which states:  
     A man consecrated a woman, she journeyed to another country, the husband heard she died, and [then] married her sister. [If,] afterwards, it was discovered that she had not died, he must divorce both women.... Why did they require that the sister of the woman whom the man consecrated be divorced? Lest people say that the [first] *kiddushin* were given conditionally, [the condition was not fulfilled,] and thus the law would allow marriage to her sister. Since the [first] woman's sister was divorced... the man's first wife is also forbidden to him lest people think that he married his divorcee's sister.  
     The *Maggid Mishneh* explains that the Rambam maintains that a divorce is required only in such an instance. If, by contrast, he enters into promiscuous relations with the sister of the woman he consecrated, he may still marry her if she consents. This explanation resolves the protests made by the Ra'avad to the Rambam's statements.
+
 [^22]: For the verses ([[Torah 29 - Achrei Mot#^18-18|Leviticus 18:18]], 20:14) on which these prohibitions are based mention "taking," i.e., marriage.
+
 [^23]: See *Yevamot* [[Yevamot 97#97a|97a]].
+
 [^24]: After her death, however, there are no restrictions on marrying her relatives (*ibid.*, for the reason for the decree no longer applies.
+
 [^25]: For since he is married to one of her close relatives, she is an *ervah* for him.
+
 [^26]: In his Commentary to the Mishnah (*Yevamot* 11:1), the Rambam states that this applies when the suspicion is verified.
+
 [^27]: This ruling is derived from the law stated in the following clause of the halachah. The Ra' avad questions the Rambam's deduction, stating that extra stringency is appropriate with regard to one's mother-in-law, but otherwise, there is no need to enforce such a restriction. The *Maggid Mishneh* states that for that reason, lashes were given only with regard to one's mother-in-law, but agrees with the Rambam's ruling, stating that curbs should be placed on any conduct that may lead to promiscuity. See also Chapter 21, Halachah 27.
+
 [^28]: See *Hilchot Sanhedrin* 24:5 which states that a judge has the power to subject a person to lashes even if he is not liable according to Torah Law.
+
 [^29]: Halachah 3.
+
 [^30]: After she was widowed or divorced.
+
 [^31]: The *Maggid Mishneh* explains that a person has a natural affection for his close relatives. Those positive feelings provide a fertile ground of support for the marriage relationship to flourish.
+
 [^32]: Other *Rishonim* [Rashi, Rabbenu Tam (*Sanhedrin* 76) differ and maintain that the mitzvah applies only with regard to one's sister's daughter.

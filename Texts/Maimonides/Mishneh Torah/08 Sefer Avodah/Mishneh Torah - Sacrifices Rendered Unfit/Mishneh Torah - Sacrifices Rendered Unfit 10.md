@@ -46,37 +46,65 @@ Similarly, if she gave them to the priest[^23] and forgot what she gave him and 
 **5.** None of these sin-offerings should be eaten, because they are all offered because of a doubt.[^29] ^10-5
 
 [^1]: The commentaries note that there is no explicit source which states that the doves pledged by a woman should be offered as burnt-offerings. They do, however, point to *Hilchot Ma'aseh HaKorbanot* 1:14 which states that a fowl is never brought as a peace-offering. Hence, the only alternative is for them to be offered as burnt-offerings.
+
 [^2]: I.e., when she is poor, as stated in Leviticus, ch. 14; *Hilchot Mechusrei Kapparah* 1:3.
+
 [^3]: As would be appropriate in most instances, for pairs of doves are generally required to be offered, one as a sin-offering and one as a burnt-offering.
+
 [^4]: If he did not consult with her, it is his prerogative to determine which dove should be offered as a sin-offering and which as a burnt-offering, as stated in Chapter 7, Halachah 8.
+
 [^5]: To fulfill her vow to bring a pair of doves as burnt-offerings.
+
 [^6]: I.e., of one type.
+
 [^7]: Of the other type.
+
 [^8]: This is speaking about a situation where the priest offering the sacrifice forgot which type he offered on the upper portion of the altar and which type on the lower portion [Ra'avad; the Rambam's Commentary to the Mishnah (*Kinnim* 3:5)]. Were he to know which type he had offered on which portion, it would be sufficient to bring only one more dove.
+
 [^9]: I.e., to serve as the burnt-offering for the pair she was obligated to bring because of the birth, as the Rambam proceeds to explain.
+
 [^10]: And the two young doves offered on the upper portion are considered as having been brought to fulfill her vow.
+
 [^11]: As the *Kessef Mishneh* states, it is not merely that it is unlikely for a person to do so, through Biblical exegesis, the *Sifra* derives that it is forbidden to do so.
+
 [^12]: I.e., this pair of doves.
+
 [^13]: And thus he is unsure if he fulfilled the woman's instructions.
+
 [^14]: In his Commentary to the Mishnah (*loc. cit.*), the Rambam explains that since it is possible that the two doves designated for her vow were offered on the lower portion of the altar (as sin-offerings instead of burnt-offerings), it is possible that her vow was not fulfilled and she must bring two other doves instead. Were that to have been the case, of the two offered on the upper portion of the altar, only one was acceptable and another dove must be brought as a sin-offering to fulfill her obligation.  
     The above explanations are based of Rav Kappach's edition of the Rambam's Commentary to the Mishnah. The initial version (preserved in the standard printed texts) reads differently, stating that this situation is considered like a burnt-offering that became intermingled with an unspecified group. See in Chapter 8, Halachah 4.
+
 [^15]: For they are burnt-offerings which must be offered on the upper portion of the altar.
+
 [^16]: Here the difficulty is that since the woman specified that the doves for her vow should come from a specific type and the priest did not remember whether he in fact offered that pair of doves as a burnt-offering. In his Commentary to the Mishnah (*Kinnim* 3:5), the Rambam explains this law. In the original sacrifice, perhaps the two turtle doves that were intended as burnt-offerings were sacrificed on the lower portion of the altar and were thus disqualified. Thus her vow was not fulfilled and she must bring two turtle doves. The two young doves were offered on the upper portion of the altar as burnt-offerings. Hence it is necessary for another young dove to be offered on the lower portion as a sin-offering to fulfill her obligation.  
     It is, however, also possible that the two young doves were offered on the lower portion of the altar. In that instance, she would have to bring another young dove to be offered on the upper portion as a burnt-offer to fulfill her obligation. Hence she must bring a total of two turtle doves and two young doves.
+
 [^17]: In his Commentary to the Mishnah (*loc. cit.*), the Rambam explains the difference between this instance and the one mentioned in the previous halachah. In the previous halachah, we are speaking about an instance where the woman defined which doves were to be offered for which sacrifice at the time she gave them to the priest to offer and the priest forgot how he had offered them. In this instance, in addition to defining them when giving them to the priest, she pledged to bring them from a specific type and then she forgot which type of doves she pledged to bring for each particular sacrifice.
+
 [^18]: Of one type, as stated below.
+
 [^19]: The doves offered previously as a burnt-offering are of no consequence, because we are not certain that her vow was fulfilled. Because she is in doubt regarding which type she had specified in her vow, she must bring both types to fulfill it.
+
 [^20]: In his Commentary to the Mishnah (*loc. cit.*), the Rambam explains that this follows the same rationale as above. One of the burnt-offerings is acceptable. Hence it is necessary to bring a sin-offering to complete her obligation. He continues explaining that this decision is somewhat of a leniency, because it is possible that she will be offering the sin-offering from a different type of dove than the burnt-offering. Nevertheless, since we do not know of which type the original four doves were, this leniency is granted.  
     The above explanations are based on Rav Kappach's edition of the Rambam's Commentary to the Mishnah. The initial version (preserved in the standard printed texts) reads differently. Similarly, this explanation requires - as suggested by the *Kessef Mishneh* - amending the standard printed text of the *Mishneh Torah* to read:  
     it should be offered on the upper portion, for two were already offered on the lower portion as sin-offerings.
+
 [^21]: To be offered as burnt-offerings, for as above, it is possible that the ones designated as her vow were not offered as burnt-offerings and she does not remember which type she specified.
+
 [^22]: In contrast to the previous situations, she must bring two doves to fulfill her obligation. In this instance, one of those that were offered as a burnt-offering is not acceptable, because we know for certain that the offerings originally brought were of two types and we do not know which type of dove was brought as a burnt-offering so that a sin-offering could be brought from the same type of dove. Hence she must bring an entire pair to fulfill her obligation.  
     The Ra'avad differs with the Rambam's rulings based on his interpretation of the Mishnah in *Kinnim* (which is also supported by Rashi). Rav Yosef Corcus and the *Kessef Mishneh* explain the Rambam's understanding.
+
 [^23]: Four doves. This is speaking about a situation where the woman designated two doves as a burnt-offering for her vow and two for her obligation, one as a burnt-offering and one as a sin-offering. She forgot which type of doves she vowed, which she brought to the priest, and how she designated them.
+
 [^24]: To be offered as burnt-offerings. It is necessary to bring these offerings, because it is possible that no burnt-offerings were offered or those designated as burnt-offerings were not offered for that purpose. It is necessary to bring both types, because the woman does not know which type she pledged as a burnt-offering.
+
 [^25]: I.e., whether she would bring a lamb, the burnt-offering brought by a woman of means after childbirth, or a dove, the burnt-offering brought when one lacks adequate means.
+
 [^26]: Two turtle doves and two young doves. This is necessary, because she forgot what type of dove she specified that she would bring to fulfill her vow.
+
 [^27]: Of one type, either young doves or turtle doves, for perhaps she intended to bring the sacrifice of a poor woman.
+
 [^28]: In the event she intended to bring the sacrifice of a woman of means.  
     It must be noted that *Kinnim* 3:5, the source for the Rambam's ruling, does not mention a lamb at all. The Rambam mentions it, both here and in his Commentary to the Mishnah, because otherwise, there is no clear reason why an extra dove should be brought as a sin-offering (*Kessef Mishneh*).
+
 [^29]: Instead, it should be burnt, as stated in Chapter 7, Halachah 10.

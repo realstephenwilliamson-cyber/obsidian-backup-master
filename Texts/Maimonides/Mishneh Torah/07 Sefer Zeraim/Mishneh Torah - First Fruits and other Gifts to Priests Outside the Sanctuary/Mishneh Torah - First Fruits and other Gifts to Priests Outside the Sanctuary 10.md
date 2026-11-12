@@ -86,48 +86,90 @@ The intent is not that he should whiten it and give it to them. Instead, he shou
 **17.** The first shearings are ordinary property in every regard. Therefore, I maintain that they may be given to a woman of the priestly family even if she is married to an Israelite like the presents of meat.[^43] It appears to me that they are governed by the same laws. ^10-17
 
 [^1]: *Sefer HaMitzvot* (positive commandment 144) and *Sefer HaChinuch* (mitzvah 508) include this commandment among the 613 mitzvot of the Torah.
+
 [^2]: I.e., as opposed to the presents described in the previous chapter, the Levites are required to separate these shearings.
+
 [^3]: But not in the Diaspora. Thus it resembles *terumah* - for both are called "first" and hence share similarilities in many laws - and not the presents of meat. Although the *Mishnah* (*Chulin* 11:1) states that this mitzvah also applies in the Diaspora, according to the Rambam, the halachah does not follow that view.  
     The *Shulchan Aruch* (*Yoreh De'ah* 333:1) follows the Rambam's view. The *Tur* and the Rama state that theoretically, this mitzvah should also be observed in the Diaspora, but in practice, that view is not followed.
+
 [^4]: I.e., *terumah*. See *Hilchot Terumah* 1:1.
+
 [^5]: I.e., needless to say this law would apply if the animal was consecrated for the sake of sacrifice on the Altar, for in that instance, the animal is forbidden to be shorn and it is forbidden to work with it. Moreover, even if the animal is consecrated only for the sake of the Temple treasury, in which instance, it will ultimately be redeemed for personal use, since while it is consecrated, it is not "your sheep,' as the Rambam continues to explain, there is no obligation to give its first shearings.
+
 [^6]: I.e., even if the animal was consecrated only for the sake of the Temple treasury, as above, these laws apply. The rationale is that a blemished kosher animal that is consecrated to the Temple treasury is redeemed with the intent to be used as a sacrifice.
+
 [^7]: Since it was blemished at the time it was consecrated, the animal was never fit to be offered on the altar. Hence, the consecration never affected the actual physical substance of the animal. Accordingly, once it is redeemed, it is considered as an ordinary animal and its first shearings must be given to a priest
+
 [^8]: Since the temporary blemish will be healed, it is considered as if did not exist.
+
 [^9]: Since when consecrated, the animal was fit for sacrifice, the consecration affected its physical substance. Hence, even after it was redeemed, it is not considered as an ordinary animal and it is exempt from the first shearings. See the parallel in Chapter 9, Halachah 2.
+
 [^10]: Rav Yosef Corcus explains that the Rambam (based on one of the opinions in *Chulin* [[Chullin 137#137a|137a]]) is referring to the priestly garments which are made from wool and linen. For, otherwise, goats' wool is also fit to make ordinary garments. This explanation is also quoted by *Siftei Cohen* 333:2. The intent is not, however, that the first shearings should be used only for priestly garments, for as the Rambam states in the following halachah, the first shearings were given to the priests for their personal garments.
+
 [^11]: According to the Rambam, the *terumot* also include oil and other fruits.
+
 [^12]: Described in Chapter 9.
+
 [^13]: I.e., the portions of the sin offerings, guilt offerings, and peace offerings which are granted to the priests.
+
 [^14]: See *Hilchot Gezeilah*, Chapter 8.
+
 [^15]: See *Hilchot Arachin VaCharamim*, Chapter 6.
+
 [^16]: Which becomes the property of the priests; see *Hilchot Arachin VaCharamim*4:19.
+
 [^17]: See Chapters 11 and 12.
+
 [^18]: See *Hilchot Shemitah VeYovel*, Chapter 13, with regard to both these points.
+
 [^19]: He is considered to have acquired the wool because he made a significant change in its nature. This ruling applies after the fact. As an initial preference, it is forbidden to make such a change [the Rambam's Commentary to the Mishnah (*Chulin* 11:3; Rav Kappach's edition)].
+
 [^20]: For this is not considered as a significant change.
+
 [^21]: The Radbaz explains that this law depends on the concept stated in Halachah 4: If the wool of a hybrid (the offspring of a sheep or a goat) is soft, the first shearings must be separated. If not, it is exempt.
+
 [^22]: As mentioned in the notes to Chapter 9, Halachah 5, the Rambam understands the term *ko'i* as referring to an animal which our Sages were unable to classify as a domesticated animal or a wild beast.
+
 [^23]: For the animal is alive at present and the removal of its wool is considered as shearing.
+
 [^24]: The *Kessef Mishneh* explains that this is derived from the very definition of the mitzvah, 'the shearing of the sheep.' A dead sheep is not considered a sheep and cutting its wool is not considered as shearing.
+
 [^25]: The Radbaz questions why the first shearings are different than all the other presents given to the priests where such a law is not found. He explains that the other presents involve grain and meat and a granary or a slaughter house are not located at a great distance from the residential area of a city. Hence, it is not very difficult for a priest to go and collect them. Sheep, by contrast, may not be allowed to pasture near residential areas. Hence, since it is far more difficult for a priest to collect them, the Torah made the owners responsible for the shearings.
+
 [^26]: *Chulin* [[Chullin 136#136b|136b]] notes that in this respect, although they are also called "the first," the first shearings are different from *terumah* and *challah*. With regard to these separations, if one designates his entire crop as *terumah* or his entire dough as *challah*, his statements are of no consequence. The Radbaz explains that the term *terumah* - and *challah* is also called *terumah* - implies elevating one portion of a group from another portion. Hence, there must always be something left behind. The term 'the first shearings' does not have such a connotation.  
     Rav Yosef Corcus notes that *Chulin* [[Chullin 136#136b|136b]] associates this ruling with the Rabbi Ila'ai's opinion that the first shearing applies in the Diaspora as well as in *Eretz Yisrael*. Thus there is an apparent contradiction between the Rambam's ruling here and his ruling in Halachah 1 that the mitzvah of the first shearing applies only in *Eretz Yisrael*. Rav Yosef explains that the Rambam's ruling in Halachah 1 is based on custom and not on the acceptance of the opinions that differ with Rabbi Ila'ai.
+
 [^27]: This point is obvious. The Rambam (and his source, *Chulin* [[Chullin 138#138a|138a]]) mention it only because of the contrast to the following laws. Rashi, however, interprets that passage differently. The *Shulchan Aruch* (*Yoreh De'ah* 333:7) follows the Rambam's understanding, while the *Tur* and the Rama follow Rashi's view.
+
 [^28]: I.e., he never becomes the real owner of the sheep; he acquires them only for the right to shear their wool.
+
 [^29]: And that portion contains the minimum measure mentioned in Halachah 13.
+
 [^30]: Since the seller has not begun shearing the sheep at all, it would seem reasonable to say that each person should give the first shearings from his portion. Nevertheless, the ruling is not so.
+
 [^31]: And thus they remain in his portion. Selling these presents is prohibited and we assume that the person would not desire to transgress.
+
 [^32]: *Chulin* [[Chullin 138#138a|138a]] explains that the seller tells the purchaser: 'I did not sell you the first shearings. The money I took from you is for the remainder of the wool that is not the priest's portion. I merely gave you the opportunity to give the presents to the priest of your choice."
+
 [^33]: Even though one may separate the first shearings from one type of wool for another type as evident from Halachah 15, in this instance, since the two types are owned by two separate people, each should separate the first shearings from his own wool.
+
 [^34]: I.e., the priest desires to expropriate the first shearings from the owner. See the parallel in Chapter 9, Halachah 13. The Radbaz explains that this ruling follows the principle: When there is a doubt concerning a prohibition, we rule stringently. When there is a doubt concerning financial matters, we rule leniently.
+
 [^35]: *Chulin* 11:1 derives this from a non-literal interpretation of II Samuel 25:18.
+
 [^36]: A *sela* is approximately 20 grams in contemporary measure.  
     *Chulin* 11:2 states that this measure is required, for only then will the gift to the priest be significant, for it will be possible to make a small garment from it.
+
 [^37]: I.e., the Rambam follows the opinion (*Chulin* [[Chullin 135#135a|135a]]) that the partnership is not recognized as a single entity. Hence, it is necessary for the share of each of the partners to comprise at least the minimum amount. The *Kessef Mishneh* notes the parallel to Chapter 6, Halachah 20.
+
 [^38]: The Radbaz states that this is implied by the very term 'the first of.'
+
 [^39]: Because at the time he sheared the first sheep, he possessed a flock of the minimum size. The Rama (*Yoreh De'ah* 333: 12) states that this applies even if he sold some of his sheep after shearing them.
+
 [^40]: One should not, however, separate the shearings of inferior sheep for those of superior sheep [Rama (*Yoreh De'ah* 333:12)].
+
 [^41]: Because at the time he sheared the first sheep, he did not have a flock of the minimum size.
+
 [^42]: Five *selaim* is 100 grams in contemporary measure. This measure of wool was sufficient to fashion a sash (*avneit*) for a priest (*Chulin* [[Chullin 138#138a|138a]]).
+
 [^43]: See Chapter 9, Halachah 20.

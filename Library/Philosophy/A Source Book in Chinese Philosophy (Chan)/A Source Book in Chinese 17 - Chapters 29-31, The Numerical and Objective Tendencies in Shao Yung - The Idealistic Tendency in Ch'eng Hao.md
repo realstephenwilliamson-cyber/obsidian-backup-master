@@ -35,6 +35,7 @@ In this scheme of things, objective viewing of things is not only desirable but 
 In such ideas as these, he comes close to other Neo-Confucianists. Generally speaking, however, he stands in a class by himself. Historians of Chinese philosophy usually refer to the "Five Masters of the early Sung period," namely, Chou Tun-i (Chou Lien-hsi, 1017-1073), Shao Yung, Chang Tsai (Chang Heng-ch'ü, 1020-1077), Ch'eng Hao (Ch'eng Ming-tao, 1032-1085), and Ch'eng I (Ch'eng I-ch'uan, 1033- 1107). They were contemporaries and friends. But in his anthology of early Sung philosophy, Chu Hsi (1130-1200) did not include Shao Yung. The other outstanding anthologies do include him but put him after Chang Tsai, although he was nine years senior to Chang and both died in the same year.[^1] The reason for this is that Chu Hsi fixed the line of the orthodox transmission of Neo-Confucianism from Chou Tun-i through the Ch'eng brothers to Chang Tsai. Later Neo-Confucianists included Chu Hsi but not Shao Yung.[^2]
 
 [^1]: The *Chin-ssu lu* (Reflections on Things at Hand) contains selections from the works of the other four but not Shao. The other anthologies are: the *Hsing-li ta-ch-üan* (Great Collection of Neo-Confucianism) compiled by Hu Kuang (1370-1418) *et al*., 1405; Sun Ch'i-feng (1584-1675), *Li-hsüeh tsung-ch'uan* (Orthodox Transmission of Neo-Confucianism), 1666; and the *Hsing*-*li ching-i* (Essentials of Neo-Confucianism), compiled by Li Kuang-ti (1642-1718), 1717. In the *Sheng-hsüeh tsung-ch'uan* (Orthodox Transmission of the Doctrine of the Sage), compiled by Chou Ju-teng (1547-1629), 1605, however, Shao Yung is included and comes before Chang Tsai. Chou belonged to the idealistic school of Neo-Confucianism, that of Wang Yang-ming (1472-1529), which is directly opposed to the rationalistic school of Chu Hsi. Also in the *Sung-Yüan hsüeh-an* (Anthology and Critical Accounts of the Neo-Confucianists of the Sung and Yüan Dynasties, 960-1368), compiled by Huang Tsung-hsi (1610-1695) *et al*., Shao precedes Chang. Huang also belonged to the Wang Yang-ming school.
+
 [^2]: For example, in the *Tao-t'ung lu* (Record of the Transmission of the Way) by Chang Po-hsing (1651-1725), Chou, the Ch'engs, Chang, and Chu are included but not Shao. Chang Po-hsing was an ardent follower of Chu Hsi.
 
 *[p. 483]* ^pg510
@@ -88,9 +89,13 @@ distinction is entirely due to our subjective points of view. People generations
 6\. Therefore from the times of old, in the administration of their empires, rulers have had four kinds of Mandates of Heaven, namely, correct mandate (given by Heaven), accepted mandate (given by man), modified mandate (such as revolution), and substituted mandate (such as a minister acting for a ruler).[^7] Correct mandate is that which is completely followed. Accepted mandate is that which is followed with certain changes. Modified mandate is mostly changed but partly followed. And substituted mandate is that which is changed completely. That which is followed completely is augmented further and further. That which is followed with certain changes is augmented with some diminution. That which is mostly changed but partly followed is diminished with some augmentation. That which is changed completely is diminished further and further. That which is changed completely is work meant for one generation. That which is mostly changed but partly followed is work meant for ten generations. That which is mostly followed but partly changed is work meant for a hundred generations. That which is followed completely is work meant for a thousand generations. That which follows what ought to be followed and changes what ought to be changed is work meant for countless generations. Work meant for one generation, is this not the way of the Five Despots?[^8] Work meant for ten generations, is this not the way of the Three Kings?[^9] Work meant for a hundred generations, is this not the way of the Five Emperors?[^10] Work meant for a thousand generations, is this not the way of the Three August Sovereigns?[^11] Work meant for countless generations, is this not the way of Confucius? Thus we know that the despots, kings, emperors, and sovereigns had what were called mandates for a limited number of
 
 [^7]: Explanations in parentheses are by Shao Po-wen (1057-1134) in his commentary in the *Hsing-li ta-ch'üan* (Great Collection of Neo-Confucianism), 9:34a. Chu Pi (fl. 1279), however, thinks that accepted mandate means hereditary rule, modified mandate means either reform or revolution, and substituted mandate means expedient and temporary rule. See his *Kuan-wu p'ien chieh* (Explanation of the *Chapter on Viewing Things*), *Ssu-k'u ch'üan-shu chen-pen* (Rare Editions of the *Four Libraries*) ed., 5:44b.
+
 [^8]: They were: Duke Huan (r. 685-643 B.C.) of Ch'i, Duke Wen (r. 636-628 B.C.) of Chin, Duke Mu (r. 659-619 B.C.) of Ch'in, King Chuang (r. 613-589 B.C.) of Ch'u, and Duke Hsiang (r. 650-635 B.C.) of Sung.
+
 [^9]: Founders of the three dynasties, Hsia (2183-1752 B.C.?), Shang (1751-1112 B.C.), and Chou (1111-249 B.C.).
+
 [^10]: There are three different sets of Five Emperors in the various Classics, all of whom were legendary rulers of the third millennium B.C. Sage emperors Yao and Shun are included in two of these sets.
+
 [^11]: Fu-hsi, Shen-nung, and the Yellow Emperor, legendary rulers before the Five Emperors.
 
 *[p. 487]* ^pg514
@@ -108,6 +113,7 @@ The whole scheme is as arbitrary as it is superficial. The idea that one world s
 8\. By viewing things is not meant viewing them with one's physical eyes but with one's mind. Nay, not with one's mind but with the principle inherent in things. There is nothing in the universe without principle, nature, and destiny. These can be known only when principle has been investigated to the utmost, when nature is completely developed, and when destiny is fulfilled. The knowledge of these three is true knowl-
 
 [^12]: Interpretation according to Shao Po-wen's commentary, in *Hsing-li ta-ch'üan,* 10:23b.
+
 [^13]: Warring states during the Warring States period (403-222 B.C.).
 
 *[p. 488]* ^pg515
@@ -123,8 +129,11 @@ A mirror reflects because it does not obscure the physical form of things. But w
 9\. The numbers of Heaven are five (1, 3, 5, 7, 9). The numbers of Earth are also five (2, 4, 6, 8, 10). Together they form the ten numbers in all. Heaven differentiates from 1 (Great Ultimate) to 4 (the Four Forms of greater and lesser yin and yang). Earth also differentiates from 1 to 4 (the Four Forms of greater and lesser strength and weakness). The four are physical, but the one is not. This is the ultimate distinction of being and non-being. The substance of Heaven numbers 4 (Four Forms), but its function numbers only 3 (minus greater yin). The same is true of Earth (minus greater strength).[^17] (7A:1a)
 
 [^14]: *Huang-chi ching-shih ch'üan-shu chieh* (Commentary on the *Supreme Principle Governing the World*), 6:65b.
+
 [^15]: *Sung-Yüan hsüeh-an,* SPPY, 9:2b.
+
 [^16]: *Chu Tzu yü-lei* (Classified Conversations of Chu *Hsi*)*,* 1876 ed., 100:1b.
+
 [^17]: These explanations follow Shao Po-wen's commentary in *Hsing-li ta-ch'üan,* 11:1b. Function numbers 3 because yin does not operate in Heaven and greater strength does not operate in Earth. Huang Yüeh-chou (of Ming, 1368-1644), in his commentary, said that function is the interaction of corporeality and incorporeality. As incorporeality is involved in corporeality (4) itself, the net result is 3. (*Huang-chi ching-shih shu,* 7A:1a-b).
 
 *[p. 489]* ^pg516
@@ -162,6 +171,7 @@ What exists naturally is due to Heaven. Only the sage can investigate it. Man fo
 Change has internal forms and external forms. The former are principles and numbers while the latter refer to individual, concrete, unchanging objects. (7B:20a-b)
 
 [^19]: Chu Hsi, *I-Lo yüan-yüan lu* (Record of the Origins of the Schools of the Two Ch'engs), *Cheng-i-t'ang ch'üan-shu* (Complete Library of the Hall of Rectifying the Way) ed., 5:7a.
+
 [^20]: This interpretation follows Chang Hsing-ch'eng (fl. 1170), *Huang-chi ching-shih kuan-wu wai-p'ien yen-i* (Elaboration of the Meanings of the Outer Chapter on Viewing Things of the *Supreme Principles Governing the World*), *Ssu-k'u ch'üan-shu chen-pen* ed., 8:2a.
 
 *[p. 491]* ^pg518
@@ -227,9 +237,13 @@ He who acts in accordance with the Principle of Nature will have the entire proc
 28\. When one can be happy or sad with things as though he were the things themselves, one's feelings may be said to have been aroused and to have acted to a proper degree. (8B:26a)
 
 [^23]: See above, ch. 28, sec. 1.
+
 [^24]: Commentary in *Huang-chi ching-shih shu*, 8B:23b.
+
 [^25]: The Chinese term for *a priori* existence literally means existence preceding Heaven. According to Yu Pen (1482-1529), *Huang-chi-ching-shih shih-i* (Explanation of the Meanings of the *Supreme Principles Governing the World*), 1934 ed., 2:74a, it means existence before things came into existence.
+
 [^26]: The Chinese word *ch'eng* means not only sincerity in the ordinary sense, but also absence of fault, seriousness, being true to one's real self, being true to the nature of things, actuality, and realness.
+
 [^27]: *The Mean,* ch. 21.
 
 *[p. 494]* ^pg521
@@ -293,8 +307,11 @@ He who disobeys \[the Principle of Nature\] violates virtue. He who destroys hum
 One who knows the principles of transformation will skillfully carry forward the undertakings \[of Heaven and Earth\], and one who penetrates spirit to the highest degree will skillfully carry out their will.[^4] Do nothing shameful in the recesses of your own house[^5] and thus bring
 
 [^2-p497]: This is originally part of ch. 17 of the *Cheng-meng.* It was inscribed on the west window of Chang's lecture hall. There are several European translations, including an English version by Bodde, in Fung, *History of Chinese Philosophy,* vol. 2, pp. 493-495. The *Chang Tzu ch'üan-shu* (Complete Works of Master Chang), SPPY, is used in this and the following translations.
+
 [^3]: For treating the young, the crippled, etc., see *Mencius,* 1A:7, 1B:5.
+
 [^4]: Cf. *The Mean*, ch. 19.
+
 [^5]: Quoting O*des*, ode no. 256. The recesses refer to the northwest corner, the darkest in the house.
 
 *[p. 498]* ^pg525
@@ -318,13 +335,21 @@ In life I follow and serve \[Heaven and Earth\]. In death I will be at peace. (1
 The development of the concept of *jen* is a long and continuous one in the history of Confucianism. It progressed from Confucius'
 
 [^6]: Founder of the Hsia dynasty (r. 2183-2175 B.C.?). The story refers to *Mencius,* 4B:20.
+
 [^7-p498]: The story is found in the *Tso chuan* (Tso's Commentary on the *Spring and Autumn Annals),* Duke Yin, 1st year. See Legge, trans., *Ch*'*un Ts*'*ew*, p. 4.
+
 [^8-p498]: Legendary sage-emperor (3rd millennium B.C.). The story refers to *Mencius,* 4A:28.
+
 [^9-p498]: Heir-apparent of the state of Chin who committed suicide because he was falsely accused of attempting to poison his father, Duke Hsien (r. 676-651 B.C.). See *Book of Rites,* "T'an-kung," pt. 1 (Legge, trans., *Li Ki,* vol. 1, pp. 126-127).
+
 [^10-p498]: Tseng Tzu (505-C.436 B.C.), pupil of Confucius, was well known for his filial piety. In the *Book of Filial Piety* (*Hsiao ching*), falsely attributed to him, it is said, "Our bodies—to every hair and bit of skin—are received by us from our parents, and we must not presume to injure or wound them." See Makre, trans., *Hsiao King,* p. 3.
+
 [^11-p498]: Yin Po-ch'i was a ninth century B.C. prince. He obediently accepted his father's expulsion of him at the instigation of his stepmother who wanted her own son to be the crown prince. See annotation on the eulogy at the end of ch. 79 of the *Ch'ien-Han shu* (History of the Former Han dynasty, 206 B.C.-A.D. 8).
+
 [^12-p498]: *Chang Tzu ch'üan-shu,* 15:1b.
+
 [^13-p498]: *ibid.,* 15:1a.
+
 [^14-p498]: *Kuei-shan yü-lu* (Recorded Sayings of Yang Shih), SPTK, 3:28a.
 
 *[p. 499]* ^pg526
@@ -338,10 +363,15 @@ The question whether this universal love is similar to that of Buddhism and Mois
 "There is nothing in the entire realm of creatures that does not regard Heaven as the father and Earth as the mother. This means that the principle is one. . . . Each regards his parents as his own parents and his son as his own son. This being the case, how can
 
 [^15-p499]: See above, comment on ch. 21, sec. 2.
+
 [^16-p499]: *Mencius,* 7A:45; Yang Shih, *Kuei-shan yü-lu,* 2:18b.
+
 [^17-p499]: See above, ch. 3, comment on *Mencius,* Additional Selections, 3B:9.
+
 [^18-p499]: *I-ch'uan wen-chi* (Collection of Literary Works by Ch'eng I), 5:12b, in ECCS. See below, ch. 32, sec. 2.
+
 [^20-p499]: *Kuei-shan yü*-*lu*, 2:18b.
+
 [^19-p499]: *ibid.,* 1:9b.
 
 *[p. 500]* ^pg527
@@ -359,9 +389,13 @@ B. CORRECTING YOUTHFUL IGNORANCE[^24-p500]
 1\. The Great Harmony is called the Way (Tao, Moral Law). It embraces the nature which underlies all counter processes of floating and sinking, rising and falling, and motion and rest. It is the origin of the process of fusion and intermingling, of overcoming and being overcome, and of expansion and contraction. At the commencement, these processes are incipient, subtle, obscure, easy, and simple, but at the end they are extensive, great, strong, and firm. It is *ch*'*ien* (Heaven) that begins with the knowledge of Change, and *k'un* (Earth) that models after simplicity. That which is dispersed, differentiated, and capable of assuming form becomes material force (*ch*'*i*),[^25-p500] and that which is pure,
 
 [^21]: Chu Hsi's commentary on the "Western Inscription," *Chang Tzu ch'üan-shu,* 1:7a.
+
 [^22-p500]: *ibid*., 1:8a.
+
 [^23-p500]: See Chan, "The Evolution of the Confucian Concent of *Jen," Philosophy East and West,* 4 (1955), 305-308. Also see below, ch. 34, comment on treatise 1; ch. 31, secs. 1 and 11; ch. 32, sec. 42; ch. 40, Introduction.
+
 [^24-p500]: This book is in seventeen chapters. There are many commentaries on it by prominent Neo-Confucianists. Some selected passages have been translated in de Harlez, *L'École philosophique moderne de la Chine,* pp. 36-76, and in Graf. *Djin-si lu, passim.* See above, n.2.
+
 [^25-p500]: For a discussion of this term, see Appendix.
 
 *[p. 501]* ^pg528
@@ -391,6 +425,7 @@ is neither Buddhist transmigration nor Taoist immortality on earth but the indes
 If it is argued that material force is produced from the Vacuity, then because the two are completely different, the Vacuity being infinite while material force is finite, the one being substance and the other function, such an argument would fall into the naturalism of Lao Tzu who claimed that being comes from non-being and failed to understand the eternal principle of the undifferentiated unity of being and non-being. If it is argued that all phenomena are but things perceived in the Great Vacuity, then since things and the Vacuity would not be mutually conditioned, since the physical form and the nature of things would be self-contained, and since these, as well as Heaven and man, would not be interdependent, such an argument would fall into the doctrine of the Buddha who taught that mountains, rivers, and the total stretch of land are all subjective illusions. This principle of unity is not understood because ignorant people know superficially that the substance of the nature of things is the Vacuity, the Void, but do not know that function is based on the Way of Heaven (Law of Nature). Instead, they try to explain the universe with limited human knowledge. Since their undertaking is not thorough, they falsely assert that the universal operation of the principles of Heaven and Earth is but illusory. They do not know the essentials of the hidden and the manifest, and jump to erroneous conclusions. They do not understand that the successive movements of the yin and the yang (passive and active cosmic forces) cover the entire universe, penetrate day and night,[^29] and form the central standard of Heaven, Earth, and man. Consequently they confuse Confucianism with Buddhism and Taoism. When they discuss the problems of the nature (of man and things) and their destiny or the Way of Heaven, they either fall into the trap of illusionism or are determined that being comes from non-being, and re-
 
 [^28]: Chang Po-hsing's commentary on the *Cheng-meng* in *Chang Heng-ch'ü chi* (Collected Works of Chang Tsai), *Cheng-i-t'ang ch'üan-shu* (Complete Library of the Hall of Rectifying the Way) ed., 2:4a.
+
 [^29]: Paraphrasing *Changes,* "Appended Remarks," pt. 1, ch. 4. Cf. Legge, trans., *Yi King,* "Appended Remarks," p. 354.
 
 *[p. 503]* ^pg530
@@ -424,8 +459,11 @@ distinction between being and non-being is not the way to investigate principle 
 *Comment.* Although Chang made it quite clear that the Great Vacuity is identical with material force (before its integration) and is nothing like the Taoist non-being, still the concept is too Taoistic to be acceptable to Neo-Confucianists, for vacuity is a typical and prominent Taoist concept.[^33] Ch'eng I thought that reality should not be described simply as clear and vacuous, but should also be considered turbid and substantial.[^34] Chu Hsi thought that to describe reality purely as integration and disintegration of material force would be to view it as a great process of transmigration.[^35] These criticisms are by no means unfair. There is no doubt that Chang's materialistic philosophy tends to be one-sided and me-
 
 [^32]: For Chu Hsi's criticism of this idea, see below, ch. 34, sec. 80.
+
 [^33]: Hsün Tzu did use the term *hsü* but he used it to describe a state of mind (*Hsün T*z*u*, ch. 21, SPTK, 15:7b. See Dubs, trans., *Works of Hsüntze,* p. 267).
+
 [^34]: *Chang Tzu ch'üan-shu,* 2: 1a.
+
 [^35]: *ibid.,* 2:1b.
 
 *[p. 505]* ^pg532
@@ -449,9 +487,13 @@ chanical. At any rate, his philosophy of vacuity has never been propagated by an
 15\. "The sun and moon push each other in their course and thus light
 
 [^36]: For a discussion of these terms, see Appendix. See also secs. 11 and 56.
+
 [^37]: The word *ch'eng* means more than sincerity in the ordinary sense. It means absence of fault, seriousness, being true to one's nature and the nature of things, actuality, reality, etc.
+
 [^38]: "Appended Remarks," pt. 1, ch. 4. Cf. Legge, p. 353.
+
 [^39]: Chu Hsi is followed in this interpretation.
+
 [^40]: *Changes, ibid.,* ch. 12. Cf. Legge, p. 377.
 
 *[p. 506]* ^pg533
@@ -469,8 +511,11 @@ appears. The winter and summer push each other and thus the year is completed."[
 19\. In the mutual interaction of things, it is impossible to know the
 
 [^41]: *ibid.,* pt. 2, ch. 5 Cf. Legge, p. 389.
+
 [^42]: Paraphrasing ibid., pt. 1, ch. 4. Cf. Legge, p. 354.
+
 [^43]: *ibid.,* ch. 5. Cf. Legge, pp. 355, 357.
+
 [^44]: Generally referring to physical forms and specifically referring to the Four Secondary Forms or Modes variously identified as Metal, Wood, Water, and Fire, or yin, yang, strength, and weakness, or major and minor yang and major and minor yin.
 
 *[p. 507]* ^pg534
@@ -490,9 +535,13 @@ directions of their operation and of their appearance and disappearance. This is
 23\. Sincerity is the way according to which heaven can last for long
 
 [^45]: According to ancient beliefs, the appearance of these mystical birds is a good omen that right principles are going to triumph in the world. See *History*, "I and Chi." Cf. Legge, trans., *Shoo King,* p. 88. Confucius said, "The Phoenix does not come. It is all over with me." (*Analects,* 9:8)
+
 [^46]: This phrase is derived from *The Mean,* ch. 21.
+
 [^47]: The term *liang-chih* is from *Mencius,* 7B:15. It means native knowledge of the good.
+
 [^48]: See also sec. 59.
+
 [^49]: The interpretation here follows Wang Fu-chih, *Chang Tzu cheng-meng chu* (Commentary on the *Correcting Youthful Ignorance* by Master Chang), 3:6b, in *Ch'uan-shan i-shu* (Surviving Works of Wang Fu-chih), 1933 ed. Liu Chi (fl. 1513), however, did not contrast Heaven and man so sharply. To him Heaven meant principle as it originally is and man meant imperfect realization of principle. See his *Cheng-meng hui-kao* (Commentary on the *Correcting Youthful Ignorance* Drafted at a Meeting), *Hsi-yin-hisen ts'ung-shu* (Hall of Being-Careful-with-Time Collection) ed., 2:6b.
 
 *[p. 508]* ^pg535
@@ -514,10 +563,15 @@ and is unceasing. The reason why the man of humanity and the filial son can serv
 30\. Nature endowed by Heaven completely permeates the Way. It cannot be obscured by the material force (one's physical nature) whether it is clear or dark. What has been decreed by Heaven (*ming*, destiny, fate) completely permeates one's nature. It cannot be destroyed by one's fortune, whether it is good or evil. If they are obscured or destroyed, it is because one has neglected to learn. Nature permeates beyond the material force and destiny operates within the material force. But the material force is neither internal nor external. We speak in this
 
 [^51]: *The Mean,* ch. 25.
+
 [^50]: *Ch'eng* means both being real and being sincere.
+
 [^52]: *ibid.,* ch. 21.
+
 [^53]: *ibid.*
+
 [^54]: According to Chiang Yung (1681-1762), the obstruction means that one only thinks of himself. See his *Chin-ssu lu chi-chu* (Collected Commentaries on the *Reflections on Things at Hand*), SPPY, 1:17b.
+
 [^55]: *Changes,* "Appended Remarks," pt. 2, ch. 12. Cf. Legge, p. 405.
 
 *[p. 509]* ^pg536
@@ -541,8 +595,11 @@ way only because it temporarily assumes physical form. Therefore those who wish 
 35\. It is the function of nature to combine. In so doing it unites the two.[^59] It is the function of destiny to receive. In receiving it follows spe-
 
 [^56]: *Mencius,* 7A:15.
+
 [^57]: Wang Fu-chih, *Chang Tzu cheng-meng chu,* 3:10b.
+
 [^58]: Cf. *Analects,* 14:24.
+
 [^59]: Just what "the two" are is not clear. As Huang Po-chia (fl. 1695) has pointed out, scholars from Chu Hsi down have found this puzzling. Huang understood "the two" in the sense of destiny, on the one hand, and nature, on the other. That is, despite the inequalities in men's destinies, everyone can fulfill his destiny if he fully develops his nature, since it is the embodiment of principle and combines all. See Huang Tsung-hsi (1610-1695), *et al., Sung-Yüan hsüeh-an* (Anthology and Critical Accounts of the Neo-Confucianists of the Sung and Yüan Dynasties, 960-1368), SPPY, 17:20b. According to Liu Chi, the nature combines all principles and the two means multiplicity *(Cheng-meng hui-kao,* 2:12a). To Li Kuang-ti (1642-1718), "the two" refers to yin and yang, weak and strong, humanity and righteousness. *(Cheng-meng chu,* or Commentary on the *Correcting Youthful Ignorance, Jung-ts'un ch'üan-shu,* or Complete Works of Li Kuang-ti ed., 1:46b.) Ch'ien Mu, however, offered probably the best explanation when he said "the two" refers to Great Vacuity and material force, for it is said in sec. 9 that in the unity of these two there is nature. See his "Cheng-meng ta-i fawei" (Revealing the Subtleties of the Great Principles of the *Correcting Youthful Ignorance*), *Ssu-hsiang yü shih-tai* (Thought and the Age), 48 (1947), p. 13.
 
 *[p. 510]* ^pg537
@@ -560,9 +617,13 @@ cific principles. If the fundamental principle of combining (the highest good)[^
 39\. To consider what is inborn as one's nature is to fail to penetrate to a knowledge of the course of day and night.[^64] Furthermore, that doc-
 
 [^60]: According to Chang Po-hsing's commentary in *Chang Heng-ch'ü chi,* 3:6b.
+
 [^61]: Both quotations in this section are from *Analects,* 15:28.
+
 [^62]: Cf, *The Mean*, ch. 22.
+
 [^63]: See n.83.
+
 [^64]: Paraphrasing *Changes,* "Appended Remarks," pt. 1, ch. 4. Cf. Legge, p. 354.
 
 *[p. 511]* ^pg538
@@ -580,9 +641,13 @@ trine considers man and things to be equal. Therefore the mistake of Kao Tzu[^65
 In his theory, Reality is one but its manifestations are many. In the state of differentiatedness, there is bound to be opposition, discrimination, conflict, and imbalance. These characteristics are attendant in one's endowment of physical nature by the very fact of its differentiatedness. Such imbalance leads to excess in the natural transformation process, that is, deviation from the Mean, and that is evil. It is not that physical nature as such is evil, for that would be following the Buddhist doctrine that the world is an illusion. Rather, in the physical nature is the occasion for evil, and how to use this occasion depends on man.[^69]
 
 [^65]: *Mencius,* 6A:3.
+
 [^66]: Cf. *The Mean*, ch. 14.
+
 [^67]: Cf. *Mencius,* 7B:24. Physical nature means the nature of man and things conditioned by the material force and concrete stuff of the universe.
+
 [^68]: Chu's commentary on the *Cheng-meng, Chang Tzu ch'üan-shu,* 2:19a. Also *Chu T*z*u yü*-*lei*, 4:15a.
+
 [^69]: See Chan, "The Neo-Confucian Solution to the Problem of Evil," *Studies Presented to Hu Shih on His Sixty-fifth Birthday,* pp. 780-783.
 
 *[p. 512]* ^pg539
@@ -650,7 +715,9 @@ OF CHANG TSAI
 57\. In the process of production, some things come first and some afterward. This is Heaven's sequence. They coexist and contrast one another in their different sizes and levels. This is Heaven's orderliness. In the production of things, there is sequence, and in their existence in physical forms, there is orderliness. Only when sequence is understood
 
 [^79]: *Changes,* "Appended Remarks," pt. 2, ch. 5. Cf. Legge, p. 389.
+
 [^80]: *ibid.,* ch. 12. Cf. Legge, p. 405.
+
 [^81]: *Mencius,* 7A:2. See above, ch. 3, comment on *Mencius,* Additional Selections, 7A:1.
 
 *[p. 515]* ^pg542
@@ -668,7 +735,9 @@ will moral principles be correct, and only when orderliness is understood will t
 61\. Confucianists investigate principle and therefore can follow their nature. This constitutes the Way. Buddhists, on the other hand, do not know how to investigate principle and arbitrarily consider \[Emptiness\]
 
 [^82]: *Changes,* "Appended Remarks," pt. 2, ch. 5. Cf. Legge, p. 389.
+
 [^83]: Chu Hsi's interpretation. In his commentary, Chu Hsi says *t'i-wu* here means entering into things, unlike the term in sec. 38 and in *The Mean,* 16 (see above, ch. 5, n.25), where it means forming the substance of things. Some commentators, Wang Fu-chih, for example, prefer the latter meaning here. Both meanings are possible.
+
 [^84]: *Mencius,* 7A:1.
 
 *[p. 516]* ^pg543
@@ -732,8 +801,11 @@ It can easily be seen that to the Ch'eng brothers this principle means both natu
 What is equally even more significant is that Ch'eng Hao (and also his brother) used the term *T'ien-li.* As Hu Shih has pointed out, it stands for the Natural Law.[^4-p519] Where did the Ch'engs get their ideas? Much of their philosophy may be traced to ancient Confucian Classics. As Ch'eng I said of his brother, "From the time when, at fifteen or sixteen, he heard Chou Tun-i discourse on the Way, he got tired of preparing for civil service examinations and arduously made up his mind to seek the Way. Not knowing the essential steps, he drifted among the various schools of thought and went in and out of the Taoist and Buddhist schools for almost ten years. Finally he returned to the Six Classics[^5-p519] and only then did he find the Way."<sup>6</sup> Of these Classics, the
 
 [^2-p519]: See below, ch. 32, Introduction.
+
 [^3-p519]: See above, pp. 122, 131, 202, 260, 269, 318, 323, 326, 412, 415.
+
 [^4-p519]: Hu Shih (1891-1962), "The Natural Law in the Chinese Tradition," *Natural Law Institute Proceedings,* 5 (1953): 119-153.
+
 [^5-p519]: The *Books* of *History, Odes, Changes, Rites,* the *Chou-li* (Rites of Chou) and the *Spring and Autumn Annals.* The ancient Six Classics included the *Book of Music,* now lost, instead of the *Chou-li.*
 
 *[p. 520]* ^pg547
@@ -747,9 +819,15 @@ This does not mean that they developed their philosophy in a vacuum. Chou Tun-i'
 6\. *I-ch'uan wen-chi,* 7:6a. See n.21.
 
 [^7-p520]: "Record of Music." See trans. by Legge, *Li Ki,* ch. 17, p. 96.
+
 [^8-p520]: *Shang-ts'ai yü-lu* (Recorded Conversations of Hsien Liang-tso), *Cheng-i-t'ang ch'üan-shu* (Complete Library of the Hall of Rectifying the Way) ed., pt. 1, p. 5b, also *Wai-shu,* 12:4a. (See n.21)
+
 [^9-p520]: See above, pp. 461-462.
+
 [^10-p520]: Huang Tsung-hsi (1610-1695) *et al*., *Sung-Yüan hsüeh-an* (Anthology and Critical Accounts of the Neo-Confucianists of the Sung and Yüan Dynasties, 960- 1368), SPPY, 11:1a.
+
 [^11-p520]: The term "I-Lo" refers to the I and Lo Rivers in which area Lo-yang is located. Both brothers lived and taught there.
+
 [^12-p520]: As Graham does. See his *Two Chinese Philosophers,* pp. 152-168. See my review of it in the *Journal of American Oriental Society,* 79 (1959), p. 154.
+
 [^13-p520]: *I*-*shu*, 2A:2b, 3:1b; *I-ch'uan wen-chi,* 7:6a; *Ts'ui-yen,* l:24b. See n.21.

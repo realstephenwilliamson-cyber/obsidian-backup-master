@@ -104,66 +104,126 @@ If his entire harvest becomes impure, he should not designate the impure produce
 **21.** If a person set aside his first fruits to bring them to Jerusalem himself, he should not send them with an agent[^60] If, however, he initially harvested them with the intent of sending them [to the Temple] with an agent, it is permitted for him to do so.[^61] ^2-21
 
 [^1]: *Sefer HaMitzvot* (positive commandment 125) and *Sefer HaChinuch* (mitzvah 91) include this commandment among the 613 mitzvot of the Torah.
+
 [^2]: I.e., from the land given specifically to you, *Eretz Yisrael*.
+
 [^3]: I.e., only when the House of God, the Temple, is standing.
+
 [^4]: I.e., the lands on the eastern side of the Jordan that were captured from these kings by Moses as he led our people to the promised land. These territories were not part of the land flowing with milk and honey promised to Abraham, Isaac, and Jacob.  
     The Rambam's position here represents a reversal from his position in *Sefer HaMitzvot, loc. cit.*, where he writes that according to Scriptural Law, the mitzvah of the first fruits applies in these lands. Similarly, in his Commentary to the Mishnah (*Bikkurim* 1:10), he states that the mitzvah applies in these lands according to Scriptural Law.
+
 [^5]: Lands to the north of *Eretz Yisrael*. These lands are not considered as part of *Eretz Yisrael* according to Scriptural Law. See *Hilchot Terumah* 1:9.
+
 [^6]: Lands to the southeast of *Eretz Yisrael* which were not conquered by the Jews upon their initial conquest of the land.
+
 [^7]: See *Hilchot Terumah* 1:1.
+
 [^8]: And instead are considered as ordinary produce. The rationale is that the first fruits must be ritually pure and all produce coming from the Diaspora is ritually impure by Rabbinic decree.
+
 [^9]: [[Torah 46 - Eikev#^8-8|Deuteronomy 8:8]].
+
 [^10]: See the gloss of Rabbi Akiva Eiger which states that rye, oats, and spelt, although considered as subspecies of wheat and barley in other contexts, should not be brought as the first fruits.
+
 [^11]: The Jerusalem Talmud (*Bikkurim* 1:3) derives this from the exegesis of [[Torah 50 - Ki Tavo#^26-2|Deuteronomy 26:2]]: 'And you shall take of the first of all the fruit of the land. 'Take of" implies an exclusion. Not all of the fruit may be brought as first fruits.
+
 [^12]: As the Rambam explains in his Commentary to the Mishnah (*Sh'vi'it* 2:5), these techniques are used to hurry the ripening of figs. Although they are effective, they reduce the quality of the figs.
+
 [^13]: I.e., at times, fires were lit under grape vines to kill worms and insects in the vine. This, however, reduced the quality of the fruit.
+
 [^14]: I.e., one may not bring juice from pomegranates, dates, and figs.
+
 [^15]: From the conclusion of the tractate of *Challah*, it would appear that it is not acceptable to bring wine or oil either. Nevertheless, the Rambam does not accept that teaching, favoring instead *Terumah* 11:3 which deems them acceptable. See the explanation in the *Kessef Mishneh*.
+
 [^16]: For it is preferable that fresh fruits should be brought.
+
 [^17]: For if they bring fresh fruit, it will spoil.
+
 [^18]: I.e., in the Temple courtyard. The Radbaz states that this applies only to fruit that will not spoil. Otherwise, the fruit brought prematurely is like all the other fruit mentioned in the previous halachot and its consecration is not effective.
+
 [^19]: After Chanaukah, it is not appropriate to bring the first fruits, because they are to be brought at the time of the harvest and the harvest is concluded by Sukkot. Moreover, if one brings the first fruits between Sukkot and Chanukah, he cannot make the declaration concerning them (Chapter 4, Halachah 13).  
     The Ra'avad objects to the Rambam's words for their implication is that the first fruit brought after Chanukah becomes consecrated. The Ra'avad maintains that since the fruit did not ripen until then, the first fruits are considered as of low quality and do not become consecrated. Nor, the Ra'avad maintains, can they be considered as being from the following year, as the Rambam states, because until the 15th of Shvat, they are considered as from the crops of the previous year. The *Kessef Mishneh* supports the Rambam, maintaining that since the crops have generally been harvested, any produce that does grow is considered as belonging to the coming year. The Radbaz emphasizes that here too, we are speaking of produce that will not spoil. Otherwise, it is not consecrated.
+
 [^20]: *Yevamot* [[Yevamot 73#73b|73b]] states that there is an equation between the tithes and the first fruits. Hence, just as the tithes may not be brought from one harvest for another (*Hilchot Terumah* 5:11; *Hilchot Ma'aser* 1:7), so too, the law applies with regard to the first fruits.
+
 [^21]: This refers to the first fruits brought from fruit. With regard to wheat and barley, the date when a change is made is Rosh HaShanah.
+
 [^22]: I.e., the prooftext implies that the obligation applies to any and all situations where these species grow (see *Menachot* [[Menachot 84#84b|84b]] and Radbaz).
+
 [^23]: The plural form of the verb "that they bring" used by the prooftext indicates that the obligation applies even when the produce is owned by two people jointly (*Chullin* [[Chullin 136#136a|136a]]).
+
 [^24]: Produce that grows in such a situation is considered as growing from the earth in certain contexts. Nevertheless, the prooftext indicates that the first fruits are an exception.
+
 [^25]: 'Extending' refers to planting a bough from a tree or a vine in the ground, so that an extension can grow from it [the Rambam' s Commentary to the Mishnah (*Bikkurim* 1:1)].
+
 [^26]: Without his colleague's permission as obvious from the following halachah.
+
 [^27]: And even the fruit that grow from the trunk are nurtured to a certain extent from the end that was implanted.
+
 [^28]: There is, however, no way one can be granted permission to use the public domain in this manner.
+
 [^29]: See *Hilchot Shechenim*10:8.
+
 [^30]: This applies even to the fruit which grew in his colleague's domain. Since his colleague gave him permission to grow the produce there, it can be considered as his land.
+
 [^31]: The commentaries note that when *Hilchot Nizkei Mammon* 10:8 mentions the ten conditions on which basis Joshua gave the land to the people as an inheritance, this condition is not included among them. Among the resolutions given is that the conditions mentioned there apply also in the Diaspora, while this condition applies only in *Eretz Yisrael*.
+
 [^32]: The former give the owners a share of the crops; the latter rent the fields for money. See *Hilchot Ma'aser* 6:13; the Rambam's Commentary to the Mishnah (*Bikkurim* 1:2).
+
 [^33]: This was, unfortunately, a common practice in *Eretz Yisrael* during the Roman era, when the gentiles and their Jewish comrades would threaten a person until he was forced to sell his land for far below its worth.
+
 [^34]: One who takes land without paying at all.
+
 [^35]: And none of the above are rightful owners of the land.
+
 [^36]: For land can never be stolen and always remains the property of its rightful owners (see *Hilchot Gezeilah* 8:14).
+
 [^37]: See *Hilchot Mechirah* 24:1-2. The rationale is that since he purchased this amount of trees, he also receives the land necessary to tend to them. Although he is not the legal owner of the land and has only the right to use it, that right is sufficient for the land to be called his own.
+
 [^38]: Because he is the owner of both the land and the tree (Our bracketed additions are based on the gloss of the Radbaz. We are forced to accept this interpretation, since, as stated above, the first fruits must come from "your land."
+
 [^39]: I.e., even if he does not purchase the fruit and the land at the same time, as long as he owns both at the time appropriate to bring the first fruits, he should bring them (Radbaz).
+
 [^40]: See the Rambam's Commentary to the Mishnah (*Gittin* 4:9); note the differences between his initial version and his final version. There is a debate among the commentaries if the obligation to bring the first fruits is Rabbinic in origin (as was the Rambam's initial view) or Scriptural in origin (as is his view here).
+
 [^41]: The Ra'avad comments that this applies even though the produce reached maturity while in the possession of the gentile. The commentaries state that the Rambam would accept this ruling.
+
 [^42]: *Hilchot Terumah* 1:10.
+
 [^43]: A tree that was worshiped. as was the practice of both the Canaanites and the Greeks.  
     When a gentile owns an entity that is worshiped, he can nullify its connection with idolatrous worship and from that time onward, it may be used for ordinary purposes. Nevertheless, it is not fit to be used for an offering on the Altar, because of its previous connection with idolatry. An entity owned by a Jew that was worshiped can never be nullified. See *Hilchot Avodat Kochavim* 8:8-11.
+
 [^44]: As stated in *Hilchot Issurei Mizbeiach* 3:6, if an animal was once associated with the worship of false deities, it may no longer be used as a sacrifice in the Temple.
+
 [^45]: And the stringencies applied to the first fruits, e.g., that they be eaten in a state of ritual purity, are also applied to them.
+
 [^46]: The rationale is that, as stated in Halachah 1, the obligation to bring first fruits from these lands is Rabbinic in origin. Hence, it is not powerful enough to convey that status on the additions as well.
+
 [^47]: As the first fruits themselves.
+
 [^48]: I.e., even from Transjordan and Syria (Radbaz).
+
 [^49]: One may, however, adorn figs with grapes and grapes with dates (*Bikkurim* 3:10).
+
 [^50]: As a sign, so that he will recognize them later. There is no obligation to use a reed for this purpose. Another sign is also acceptable. The Rambam, quoting the mishnah, was merely stating a common practice [the Rambam's Commentary to the Mishnah (*Bikkurim* 3:1)] .
+
 [^51]: Although they must reach a complete stage of development by the time they are brought to the Temple, it is not necessary that they reach this stage at the time of their designation.
+
 [^52]: Unless he designates them, the fact that they are set aside is not sufficient for them to be considered as first fruits.
+
 [^53]: See parallels in *Hilchot Ma'aser Sheni* 3:9; *Hilchot Meilah* 4:7. *Terumah* and the second tithe, by contrast, should be set aside even if the produce is impure, for they will not be wasted.
+
 [^54]: The expression 'It appears to me' refers to a conclusion derived by the Rambam through deduction without an explicit prior Rabbinic source. The *Kessef Mishneh* questions whether that expression is appropriate in the present instance since this point is stated in *Yevamot* [[Yevamot 73#73a|73a]],b. The *Kessef Mishneh* concludes that perhaps 'It appears to me' refers only to the rationale the Rambam states here, for that concept is not stated in *Yevamot, loc. cit.*
+
 [^55]: And consecrated articles may not be destroyed. It is necessary for the Rambam to give this explanation, because the Torah refers to the first fruits as *terumah* and impure *terumah* may be kindled.
+
 [^56]: See Halachah 3 which states that spoiled produce is unacceptable.
+
 [^57]: For then, they are no longer fit to be offered.
+
 [^58]: He does not, however, make the declaration for the first fruits when bringing these fruits, as stated in Chapter 4, Halachah 9.
+
 [^59]: Once he brings them to the Temple Courtyard, he is not liable to replace even if they become impure (Radbaz).
+
 [^60]: The rationale for this ruling can be explained as follows: When a person sends his first fruits to the Temple via an agent, the agent does not make the declaration (Chapter 4, Halachah 2). Since they were harvested in a manner that allows that declaration to be made, it is improper for them to be sent in a manner that prevents it from being made.
+
 [^61]: For in this instance, they were harvested with the intent that the declaration not be made.

@@ -37,7 +37,9 @@ Response
 51.3. And this in fact was the sign of God’s extreme goodness, namely, that He did not simply establish the divine and incorporeal essences of the intelligible hosts as images of divine glory—each one proportionately receiving, as much as is permitted, the inconceivable splendor of the unapproachable beauty—but He also intermingled even among sensory creatures, who are greatly inferior to the intelligible essences, resonances[^3] of His own magnificence. These have the power to 
 
 [^1]: [[II Chronicles 32#^32-23|2 Chr 32.23]].
+
 [^2]: Cf. above, Qu. 39, and below, Qu. 64 and 65.
+
 [^3]: ἀπήχη α (pl. ἀπηχή ατα) is a term well attested in later Neoplatonism, where it is a sonic or auditory metaphor for the doctrine of emanation and participation (normally described as a diffusion of light), and usually designates a faint or distant echo of its source; cf. Proclus, *Platonic Theology* (ed. Henri Dominique Saffrey and Leendert Gerritt Westerink \[Paris: Belles Lettres, 1968\], 1:124, line 18); idem, *Commentary on Plato’s Timaeus* (ed. Ernst Diehl \[Teubner, 1906; repr. 1965\], 3:158). The term appears among Christian writers, such as Eusebios of Caesarea, *Commentary on the Psalms* (PG 23:1288A); but especially in Dionysios, who is undoubtedly the bridge from Proclus to Maximos; e.g., *DN* 4.4 (147, line 12; 697D); *DN* 4.20 (166, line 1; 720A); *DN* 4.20 (167, lines 4–5; 720C); *DN* 7.2 (195, lines 16–17; 868C); and *CH* 2.4 (15, line 4; 144C). For a related use of ἀπηχή ατα, see Maximos, *QD.* 119 (CCSG 10:87, lines 18–21).
 
 *[p. 306]* ^pg325
@@ -47,7 +49,9 @@ bear and convey the human intellect unerringly to God, so that it comes to resid
 51.4. Clearly, then, the nature of visible realities naturally has spiritual principles of wisdom and modes of graceful conduct implanted within it by the Creator. When, like the great king Hezekiah, every intellect naturally crowned with virtue and knowledge attains to rule over Jerusalem,[^5] that is, over the state in which one beholds only peace, which is a condition free of every passion—for Jerusalem means “vision of peace”—such an intellect, I say, has all creation at its command, by means of all the species of which it is comprised. Through the mediation of the intellect, creation brings to God, like offerings,[^6] the spiritual principles of knowledge.\[3\] To the intellect, creation brings, like gifts, modes for the realization of virtue, which exist within creation, according to the natural 
 
 [^4]: [[Romans 01#^1-25|Rom 1.25]].
+
 [^5]: Cf. 4 Kgs 18.1–2.
+
 [^6]: The role of the human person in the cosmic order has a strong liturgical and indeed Eucharistic character, highlighted by the language of “offering,” which bears comparison with Byzantine liturgical texts. In the theology of St Maximos, this was the “priestly” role that Adam was called to perform, returning creation to God, but which he failed to do; cf. *Amb*. 41.2–10 (DOML
 
 *[p. 307]* ^pg326
@@ -61,7 +65,9 @@ law. Through both,[^7] creation welcomes and receives the one who is able mighti
 51.7. We can also understand the “offerings” in another way. Insofar as an “offering” is also something given to those who have previously brought forward nothing, the intellect engaged with knowledge receives “offerings”\[4\] from the contemplation of beings, and brings them to the Lord. These offerings, which the intellect both receives and gives, are the sustaining principles of faith beyond rational demonstration; a faith to which no one has ever brought anything,\[5\] insofar as a person naturally beholds his own Creator, proclaimed to him by creation, without
 
 [^7]: I.e., the offerings and the gifts.
+
 [^8]: [[Matthew 02#^2-11|Mt 2.11]].
+
 [^9]: Cf. [[LXX Psalms 15#^15-2|Ps 15.2]].
 
 *[p. 308]* ^pg327
@@ -71,11 +77,17 @@ any of the technical contrivances of various arguments[^10]—for what could one
 51.8. What I mean is something like this: when the intellect engaged with knowledge[^16] imitates the natural law\[8\] of heaven, it receives gifts, preserving within itself the perfectly even 
 
 [^10]: See above, Qu. 5.2, where sustaining life “through artifice or through some other contrivance” is said to be characteristic of human life after the fall of Adam.
+
 [^11]: [[Ephesians 04#^4-22|Eph 4.22]].
+
 [^12]: Cf. [[Matthew 03#^3-8|Mt 3.8]]; [[Philippians 01#^1-11|Phil 1.11]].
+
 [^13]: Cf. Ps.-Basil, *Commentary on Isaiah* 1.1: “‘Be as wise as serpents’ ([[Matthew 10#^10-16|Mt 10.6]] [as printed; the verse is 10:16]), inasmuch as they wisely and intelligently slough off the skin of old age. Whenever the serpent needs to do this, it puts itself into a tight place that closely binds its body and so drawing itself through, it casts off the skin of old age. And perhaps Scripture wishes us also to ‘pass through a narrow and afflicted way’ ([[Matthew 07#^7-14|Mt 7.14]]), so that we might ‘put off the old man and put on the new one’ ([[Colossians 03#^3-9|Col 3.9–10]])” (PG 30:120B).
+
 [^14]: [[Romans 11#^11-35|Rom 11.35]].
+
 [^15]: “Imitation” in the deeper ontological sense of “participation.”
+
 [^16]: I.e., νοῦς δ αγνωστ κός, which denotes the intellect’s activity of observing and making distinctions in nature; cf. above, Qu. 48.16.
 
 *[p. 309]* ^pg328
@@ -89,6 +101,7 @@ and unchanging movement of virtue and knowledge, a movement which holds in fixit
 51.11. It also imitates the sharp-sightedness of the gazelle,\[12\] and the caution of the bird, when like a gazelle it leaps over and escapes the snares of the demons who war against virtue; 
 
 [^17]: This and the following five paragraphs find parallels in the popular late-antique Christian bestiary known as the *Physiologus;* cf. Dimitris Kaimak-is, ed., *Der Physiologus nach der ersten Redaktion,* Beiträge zur klassichen Philologie 63 (Meisenheim am Glan: Anton Hein, 1974), 84–86 (deer); and 36 (serpent); cf. 116 (gazelle); and Francesco Sbordone, *Physiologus* (Milan: Dante Alighieri, 1936), 97–101, 170–74 (deer); 43–44, 251 (serpent); 115, 218–21, 284 (dove); 92–94, 215–18 (turtledove). Maximos’s description of the eagle has a number of precise verbal parallels to a passage in Philo, *On Husbandry* 58 (LCL 3:243); see also the *scholion* to Dionysios, *CH* 15.8: “The eagle is a creature of penetrating vision, able to distinguish its legitimate offspring from the illegitimate. If its young are able to look into the sun without closing their eyes, they are legitimate; if not, they are cast out from the nest. So too anyone who is not able to look directly at the Sun of Righteousness is illegitimate in his knowledge of God” (PG 4:112D–113A).
+
 [^18]: Origen, *Commentary on the Song of Songs* 3.12, reports that deer attack snakes (GCS 8:201; the Greek fragment of which has been preserved by Procopius; cf. PG 87:1596C). One of Origen’s contemporaries, Aelian, *On the Characteristics of Animals* 2.9 (LCL 1:99–101), reports that deer kill snakes by exhaling on them through their nostrils.
 
 *[p. 310]* ^pg329
@@ -104,9 +117,13 @@ and when like a bird it flies over the traps of the spirits who battle against k
 51.16. And if someone should say that this line of argument implies that “offerings” should be given to God in order to manifest the infinite nature of divine goodness, since it brings 
 
 [^19]: Cf. [[Proverbs 06#^6-4|Prv 6.4–5]]; and Gregory of Nyssa, *Homilies on the Song of Songs* 5: “The gazelle signifies sharp-sightedness” (GNO 6:141).
+
 [^20]: The legend of the lion’s bones appears in Aelian, *On the Characteristics of Animals* 4.34 (LCL 4:249); in a fragment from a contemporary work by Clement of Alexandria, *On Pascha,* preserved in the *Sacra Parallela* (GNO 17:217, fr. 32); and in a fragment from Origen, *Homilies on Jeremiah,* fr. 3 (GCS 6:200, lines 5–6).
+
 [^21]: [[Matthew 10#^10-16|Mt 10.16]].
+
 [^22]: Cf. *Amb.* 56.2 (DOML 2:251); and Origen, *Homilies on Luke* 27.5, who describes the “meekness” of the dove (SC 87:348, lines 18–21).
+
 [^23]: [[LXX Wisdom of Solomon 13#^13-7|Wis 13.7–8]]; cf. [[Romans 01#^1-20|Rom 1.20]].
 
 *[p. 311]* ^pg330
@@ -116,6 +133,7 @@ nothing in advance yet accepts our offerings as gifts, reckoning the whole of wh
 51.17. “And Hezekiah was exalted,” it says, “in the eyes of all the nations.” Anyone who through ascetic practice and contemplation has attained the highest summit of virtue and knowledge after the manner of Hezekiah is, by his practice, naturally “exalted in the eyes of all the nations,” by which I mean the carnal and blameworthy passions, being exalted over them as well as what are called natural bodies.\[17\] More generally, to express myself briefly, the same person, by means of knowledge and contemplation, will have passed through all the principles that exist within sensory forms, which themselves are figuratively called “nations” by Scripture, since they are, we might say, by their very nature of a different race and tribe than the soul and the intellect. And insofar as they do not fight against the intellect, God has commanded us never to fight against them.\[18\] 51.18. For we have not been commanded to fight against the sense-perceptible creations that are outside of us, but rather to wage perpetual war within ourselves against the “dishonorable passions”[^24] that are contrary to nature, which reside in the earth of our hearts, until such time as we eradicate them and take possession of our own earth, which will remain unshakeable after the overthrow of the passions, which are foreign and hostile to us.[^25] This is the reason why Scripture is very careful in the way it describes the bringing of the offerings to God and the gifts to the king, for it did not simply say that “everyone” brought offerings to God and gifts to the king, but “many,” which means not all the nations, but many nations. From this it is clear that there are nations from which nothing is offered to God or given to the king. It stands to reason that only those creatures which complete the nature of beings bring as offerings to God their 
 
 [^24]: [[Romans 01#^1-26|Rom 1.26]].
+
 [^25]: Cf. *Carit.* 3.40 (ed. Ceresa-Gastaldo, 162).
 
 *[p. 312]* ^pg331
@@ -125,6 +143,7 @@ more divine inner principles, and as gifts to the king their own proper natural 
 51.19. With respect to the words: “Hezekiah the king was exalted in the eyes of all the nations,” Scripture specifically stated: “all the nations,” making clear that, whoever chooses to live in the condition of dispassion, as if it were Jerusalem, by means of his labors in the practical life—and who is free of all the disturbances of sin in all that he does and says and hears and thinks—is filled with peace, having received through natural contemplation the nature of visible realities. Through him nature will bring forward to the Lord, as if they were offerings, nature’s own divine principles. And nature will bring like gifts to the king the laws that exist within itself, and the king will be exalted in the eyes of all the nations;\[19\] that is, he will rise above all the passions of the flesh through practice, and through contemplation will pass through and beyond all the spiritual principles and modes contained within natural bodies and all sense-perceptible forms. This is how I understand the meaning of “many brought,” but not all, that is, the nations that 
 
 [^26]: I.e., παρυπόστασ ς.
+
 [^27]: Cf. Dionysios the Areopagite, *DN* 4.31: “Thus evil has no subsistence (*hypostasis*), but a parasitical subsistence (*parhypostasis*), since it comes into being not of itself but in relation to the Good” (176–77; 732C); above, Intro., 1.2.11; and A. C. Lloyd, “Parhypostasis in Proclus,” in *Proclus et son influence.* *Actes du colloque de Neuchâtel,* ed. Gilbert Boss and Gerhard Seel (Zurich: Grand Midi, 1987), 145–57.
 
 *[p. 313]* ^pg332
@@ -134,8 +153,11 @@ are outside of us, by which I mean creatures, but not the ones within us, by whi
 51.20. It should be clear, then, that holy Scripture, as has been demonstrated, has shown forth its intention to all who desire salvation, and has not in any way restricted its message to one person alone. For each and every person can become another Hezekiah by imitating Hezekiah according to the spirit. Through prayer he can cry out to God and be heard, and receive an angel, I mean the principle of greater wisdom and knowledge, when he is under attack from wicked demons. And he will “destroy every mighty man and warrior and leader and captain,”[^30] that is, the impassioned movements of anger and desire, and the passionate attachment to sensation, and the evil thought that, like a captain, devises strategies for sinning. Then to enter into a state of peace through freedom from the passions, and to find rest in the contemplation of beings, and receive the principles that preserve knowledge, as if they were offerings, and the modes constitutive of virtue, as if they were gifts, which will be brought to him from all creation, as much for the glory of God as for his own spiritual progress. And after all of this, he will be exalted, as is only right, in the eyes of all the nations; that is, he will find himself above all the passions because of his virtue, and above all creation because of his knowledge, and by means of his humility of mind he will guard the grace of salvation, and nothing of what Scripture subsequently recounts shall befall him.[^31]
 
 [^28]: Cf. [[LXX Psalms 18|Ps 18.1–5]].
+
 [^29]: Gregory Nazianzus, *Or.* 44: “All creation sings the glory of God in wordless strain, for it is through me that God is thanked for all his works. In this way their hymn becomes our own, since it is from them that I take my song” (PG 36:620B); trans. Martha Vinson, *St. Gregory of Nazianzus, Select Orations,* The Fathers of the Church 107 (Washington, DC: The Catholic University of America Press, 2003), 238. Maximos had earlier commented on this oration in *Amb.* 61–64 (DOML 2:267–75).
+
 [^30]: [[II Chronicles 32#^32-21|2 Chr 32.21]].
+
 [^31]: Cf. below, Qu. 52.1.
 
 *[p. 314]* ^pg333
@@ -151,6 +173,7 @@ Scholia
 \[4\] It was as an offering, he says, that we received faith in God, and such faith is unmediated knowledge firmly established around God, the true knowledge that is not susceptible of rational demonstration, for faith is “the substance of things hoped for,”[^32] and none of these things has yet to be comprehended by knowledge.[^33]
 
 [^32]: [[Hebrews 11#^11-1|Heb 11.1]].
+
 [^33]: Cf. [[1 Corinthians 02#^2-9|1 Cor 2.9]].
 
 *[p. 315]* ^pg334

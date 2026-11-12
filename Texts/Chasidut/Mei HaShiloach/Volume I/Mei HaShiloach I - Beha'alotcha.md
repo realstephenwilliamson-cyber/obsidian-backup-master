@@ -100,19 +100,35 @@ This is as it says in the Gemara (*Berachot*, [[Berakhot 35#35a|35a]]), “all w
 **Torah:** [[Torah 36 - Beha'alotcha#^12-1|Numbers 12:1]], [[Torah 37 - Sh'lach#^14-14|Numbers 14:14]]
 
 [^1]: See Rashi’s interpretation of “towards the front,” that the six lights on the side were burning towards the central light.
+
 [^2]: So the words “in truth” would seem to be superfluous.
+
 [^3]: There is a deeper level of consciousness, basically beyond our ability to comprehend, which the Author is paradoxically urging us to keep in mind in our service of God. This is signified by the seventh (middle) branch of the Menorah. In this way Moshe’s level of prophecy required him to remain apart from Tsipporah, the depth of which Miriam and Aharon were not aware of in their initial criticism of him. Yet the “little foolishness” was the public awareness of their error in order to reveal the level of Moshe Rabeynu to Israel.
+
 [^4]: He did not automatically change the action before the fact so that it would be acceptable before God. This all touches upon ‘*Yediah* (Providence) and*Bechirah* (Free Will), a great theme in the Author’s writings and a major theological issue. Based on several passages in the Mei HaShiloach, the message is that it is his best to stand the test and always choose to do what is right. However, post facto even blunders are all part tof the great encompassing plan of fixing Creation and things are being repaired in some miraculous way way beyond human comprehension.
+
 [^5]: He did not automatically *change* the action before the fact so that it would be acceptable before God.
+
 [^6]: For he too came from something so seemingly insignificant.
+
 [^7]: Something that has become ashes signifies something that continues to live even after it has lost all physical attributes.
+
 [^8]: The color white is far from any color. Many inanimate things are created white, for white is constantly ready to be painted. In this way we should be constantly ready to receive the salvation of God. *Tashlum*.
+
 [^9]: This could be the Chozeh (Seer) of Lublin. As a young man he had run away just before he was to be wed. Alone in the forest, and in the middle of a rainstorm, he came upon a house, and a beautiful woman answered the door. He discovered that she was single, and in a state of purity. While his desire was growing within him, he thought to himself, “I am doing nothing wrong, but what pleasure will I give God from this?” Suddenly he remembered that he was forbidden from remaining alone in a secluded place with a woman. Upon remembering this, the woman and the house vanished before him.
+
 [^10]: “My evil inclination overcame me” could mean that while gazing at himself he had a strong desire for women, a strong desire for men upon seeing the male form, or that he was simply overcome with pride.
+
 [^11]: Through anger he can overcome his evil desire. It could be that when the Nazir directed his anger at his own evil inclination, he then managed to overcome it. Then he had no more need of his vow of Nazir, not just because it was driving him in the opposite direction, but because he had fought his inclination to evil and won. ‘Anger’ against inclination, as in: “A person should always make his good inclination angry against his evil inclination.” (Brachot Ch.1)
+
 [^12]: “And Moshe said to Hovav [Yitro]” (*Bamidbar*, [[Torah 36 - Beha'alotcha#^10-29|10:29]]). The order of these events [the tribes marching under their banners and bringing Yitro close] shows that when they were close to entering the land, signified by the march of the banners, Moshe felt weak because he knew that he would not be the one to lead them into the land. He thereupon brought Yitro close for encouragment. *Tashlum*.
+
 [^13]: It says in [[Isaiah 14#^14-1|Yesahya 14:1]], “and the strangers shall be joined to them, and they shall cleave [*nispechu*, which also means causing a sore on the skin] to the house of Jacob.” Rashi comments, “Because they will not be expert in the *mitzvot*, and will bring misfortune, and further, Israel may learn from them bad behavior.” Rashi ends by saying, “all Israel are responsible for one another, but not responsible for the converts.” Another interpretation is that converts often become so expert in the performance of *mitzvot* that they make other Jews look less than sufficient in their service of God.
+
 [^14]: It is only possible for God to bring something from the world to come.
+
 [^15]: Meat teaches of the aspect of the Torah where, in the phrase of the Gemara, “man cannot uphold the Torah unless he has failed in it.” Similarly the children of Noach were not permitted to eat meat until after the flood, which was itself like the failure of all mankind until then, and then it was the desire of all the creation to cleave to the soul of man. Previously the creation did not want to cleave to mankind and enter into uncertainty lest mankind would descend from their level in which they trusted. Why should they enter into uncertainty if they could be more successful otherwise? Better to get by on less, for at least you can rely on it. Then, after mankind sinned even on their superior level, and thus they did not have what to trust in, then creation was willing to enter into uncertainty on the chance that they would reap greater rewards. This is because something that is unsure can enter into greater uncertainty, but not with something that is certain. Therefore Moshe said, “where do I have meat from,” for Moshe’s portion was Shabbat. That is to say that God will make it clear to all of Israel that they need no service, but they must serve Him even with all the uncertainty. This is as God answered him that He has another realm of service that is beyond the conscious grasp of man, and man should direct himself into this. So therefore he needs meat, meaning failure and the service even without man’s conscious understanding, and in all his haste he will find *tsimtsum* (constriction) without his conscious mind. This matter teaches of the holy name of forty-two letters, “Shem Mem Beit,” which “ascends and does not descend,” for in all the actions of man it is not man’s mind that controls them, but only God. *Giliyon Mei HaShiloach*.
+
 [^16]: That is, even if their prophecy is coming from Moshe, it is really all coming from God.
+
 [^17]: That is, only God decides who has a share in the world to come, and it does not depend on mankind (Steinsaltz). Also, if God does not see fit to punish the wicked, then will you become fed up with His decision and punish Shlomo haMelech yourself? (Malbim.)

@@ -23,9 +23,13 @@ This is not to say, however, that Origen believes that human beings are capable 
 For Origen, the principal work of the Spirit is with the saints. This in no way marks a strong sense of subordination of the Spirit to the Son, but rather a close relationship economically between the two. The
 
 [^105]: HomLk. 26.3.
+
 [^106]: This is strongly connected to the importance of freedom in Origen’s thought: the Spirit makes people free for God, allowing them to collaborate with Him in a state of super freedom as they are inspired by Him. Crouzel, Origen, 72 cf. 96.
+
 [^107]: CommRom. 7.6.4.
+
 [^108]: CommRom. 7.6.5 and HomJosh. 9.2.
+
 [^109]: While one might say that this is also the case for the unity of the Logos with the flesh of Jesus in incarnation, the uniqueness and particularity of the incarnation in history differentiates the work of the Logos here from that of the Holy Spirit.
 
 *[p. 170]* ^pg195
@@ -45,6 +49,7 @@ Reading Barth and Origen, one is presented with something of a difficulty. Both 
 It is proposed in this chapter that the way through this seeming contradiction is to consider the problem from the perspective of pneumatology. This additionally helps to avoid speaking of salvation in simple binary oppositions of saved-damned, insider-outsider, or saint-sinner. The Spirit cuts through these binaries, adding a third which will not allow such oppositions, and allowing a deeper complementarity to inform them while still not removing the particularity of each side of the binary.[^2] The Holy Spirit allows for the continued
 
 [^1]: This can be seen in the extent to which both are involved in preaching. Further more, Barth’s dogmatics is a church dogmatics, as is clearly reflected in the thesis of I/1, 3, while Origen’s surviving corpus contains many volumes of homilies.
+
 [^2]: On binaries and thirds, see Peter Ochs, Peirce, Pragmatism and the Logic of Scripture (Cambridge: Cambridge University Press, 2004), esp. ch. 8. Ochs’s argu ment is complex and grounded in logic and mathematics. He applies a rereading of pragmaticism to scriptural hermeneutics. Building from Peirce, he advocates that ‘apparent contraries may prove to be signs of as yet unidentified complementarities’ and goes on to discuss ‘how to identify the missing third something that would serve as a rule of complementarity’ (251). The present writer seeks to employ similar logic in the question of salvation and to do so using Trinitarian categories.
 
 *[p. 172]* ^pg197
@@ -78,11 +83,17 @@ in a certain sort of general spirit. One sees this view of the Spirit in a varie
 Contrary to theologies of the Spirit which prioritize the universal dynamics of the Spirit as in the two above conceptions, both Barth
 
 [^6]: Barth states: ‘Hegel’s living God he saw God’s aliveness well, and saw it better than many theologians is actually the living man’, RtoR, 303. Barth sees Schleier macher as heavily influenced by Hegel in this matter (340).
+
 [^7]: Tillich, Systematic Theology, Vol. 3, 115.
+
 [^8]: Michael Welker, God the Spirit, trans. John F. HoVmeyer (Minneapolis: Fortress Press, 1994). Welker’s desire to see the work of the Spirit in a set of activities from social justice to truth telling to community building is underscored by his view of the Spirit of God as the one who gives rise to ‘a multiplace force Weld’ (22).
+
 [^9]: Peter Hodgson, Winds of the Spirit (London: SCM, 1994), ch. 17.
+
 [^10]: See for example Gen.1 (in which the Spirit moves over the waters) and Ps. 139 (in which the Spirit is inescapable). Such theologies often stem from a confusion of the Holy Spirit with the spirit of life that is used to describe human existence as a gift from God in the Old Testament (e.g. [[Torah 01 - Bereshit#^6-3|Gen. 6.3]]).
+
 [^11]: This idea in a more acceptable form is even present in Pannenberg, who understands the Spirit not only at work in redemption, but ‘already in creation as God’s mighty breath, the origin and movement of all life’ (Pannenberg, Systematic Theology, Vol. 3, 1 cf. Pannenberg, Systematic Theology, Vol. 2, 32ff.).
+
 [^12]: Pannenberg, Systematic Theology, Vol. 3, 202.
 
 *[p. 175]* ^pg200
@@ -102,9 +113,13 @@ This is how to understand the spatial categories in which Origen speaks of the S
 terms of insider-outsider. The Trinity works as one,[^16] but the special work of the Spirit concerns the saints. It is the Spirit who makes the saint holy. He works ‘that those beings who are not holy in essence may be made holy by participating in this grace \[ut ea quae substantialiter sancta non sunt, participatione ipsius sancta eYciantur\].’[^17] It is the Spirit who brings about the holiness of the believer. This is something more than rationality: the rational person is ‘saved’ in her participation in the Logos; the spiritual person is made holy through the work of the Spirit. Therefore, if Origen’s work is universalist, it is not universalist in such a way as to fail to recognize the place for holiness and faith within that universalist soteriology. There remains room for the deep things of God. It is perhaps, therefore, better to consider the image of the work of the Trinity in Origen as concentric rings stretched into three dimensions, rather than two.[^18] When the work of God is pictured conically, one can better interpret Origen’s speech about the work of the Spirit in terms of depth and fullness. It is not that humans are led into spatial areas which the Spirit occupies, rather than into other areas which He does not; instead, this image refers to the work of the three persons in their dynamic activities regarding humanity’s salvation. The image he employs is an image of the economy of God—not an image of some kind of journey in which the individual engages to find faith. If one builds on Origen’s foundations, one might consider that humanity is already present in the work of the Father[^19] and the Son,[^20] and the Spirit dynamically intensifies the universal work of the Son in the lives of the holy as the Holy Spirit. The Spirit’s work is, therefore, a work of bringing fullness and depth: it is a holy work. In continuing the conical image of Trinitarian dynamism, one might picture this as a cone which never reaches its end, but always allows for deepening and intensifying, in much the same way as Gregory of Nyssa pictured
 
 [^16]: De Princ. I.3.7.
+
 [^17]: De Princ. I.3.8.
+
 [^18]: Given the discussion of the role of the Holy Spirit in time, one should properly imagine the Spirit’s work as four dimensional. This fourth dimension is discussed in §4 of this chapter.
+
 [^19]: In creation, for example. See Gen. 1.
+
 [^20]: In the conception, baptism, and resurrection, etc. On the Jesus’ relation to the Spirit in scripture, see Dunn, Christology in the Making, 136 49; and Ralph Del Colle, ‘The Triune God’, in The Cambridge Companion to Christian Doctrine, 126.
 
 *[p. 177]* ^pg202
@@ -114,12 +129,19 @@ heaven.[^21] The Spirit’s work is to bring the ever-deepening fullness of God 
 iii. Barth In very different language, one sees a similar movement in Barth’s Trinitarian dynamics. The eternal election of humanity in Jesus Christ means that in some sense our humanity is already in Christ’s humanity.[^22] Barth’s understanding of eternity means that humanity is elect in Christ in the Urgeschichte and, therefore, it has an ultimate hope in Him in post-temporal eternity. The objective nature of incarnation and salvation determines that humans are already awaiting salvation. Christ’s work of salvation is for all humanity. This is a work of the Verbum incarnandum. In Jesus Christ, the primal decision and self-determination of God, humanity has eternally existed.[^23] However, it is the Spirit who makes this reality present in the church and the individual, and makes humanity a child of God.[^24] It is the Spirit who is responsible for the building of the Christian community of Jesus Christ in its historical reality.[^25] As in Origen’s theology, the work of the Spirit does not exclude the work of the other Trinitarian persons.[^26] However, as CD unfolds, one is increasingly aware of the special significance of the work of the Spirit with believers. He is the basis for the community:[^27] ‘In the work of the Holy Spirit it takes place that Jesus Christ is present and received in the life of His community of this or that century, land or place.’[^28] This is not to limit the universal work of Christ: ‘The enlightening
 
 [^21]: This is a reference to Gregory of Nyssa’s belief in epektasis the idea that heaven would eternally stretch out towards God. Daley sees this idea as latent in Origen (Daley, The Hope of the Early Church, 50). Russell also speaks in similar terms (Russell, The Doctrine of Deification, 142 3). Rather than seeing a stretching out towards God, this book advocates that the Holy Spirit brings an ever deepening fullness to the lives of the faithful.
+
 [^22]: Albeit one should note the above criticism of Barth that there is in his theology simultaneously a connection and a lack of connection between Christ’s humanity and our humanity. See Ch. 2, §3(c).
+
 [^23]: See Ch. 2 above.
+
 [^24]: I/1, 456 7.
+
 [^26]: See Barth’s discussion of appropriations, I/1, 373ff.
+
 [^25]: IV/1, 151.
+
 [^27]: IV/3, 760.
+
 [^28]: IV/3, 761.
 
 *[p. 178]* ^pg203
@@ -129,12 +151,19 @@ power of the Holy Spirit draws and impels and presses beyond its being as such, 
 iv. Symphony Thus, one can see the dynamic intensity of the work of the Spirit in Barth and Origen. For Barth, this is more strongly the case than for Origen. Two reasons account for this. The first is historical: the doctrine of the Holy Spirit was (like all doctrine in the early church) still evolving. Origen’s work on the Spirit marks a monumental step forward in Christian pneumatology.[^36] However, the person of the Holy Spirit is the most underdeveloped of his early Trinitarian speculations. The second reason is more positive: Origen’s doctrine
 
 [^29]: IV/3, 764.
+
 [^30]: IV/3, 682.
+
 [^31]: IV/3, 786.
+
 [^32]: IV/3, 786 95.
+
 [^33]: IV/4, 3 40.
+
 [^34]: IV/4, 192.
+
 [^35]: On this point more generally, see David F. Ford, ‘Holy Spirit and Christian Spirituality’, in The Cambridge Companion to Postmodern Theology, ed. Kevin J. Vanhoozer (Cambridge: Cambridge University Press, 2003). The criticism of Barth by Williams, which Ford records (270), is considered unfair, and it is hoped that this chapter and Ch. 5 go some way to rectifying this. For Williams’s critique, see Rowan Williams, On Christian Theology (Oxford: Blackwells, 2000), 116ff.
+
 [^36]: Trigg, ‘The Angel of Great Counsel’, 39.
 
 *[p. 179]* ^pg204
@@ -144,10 +173,15 @@ of the Logos and logika / logikoi provides such room for particularity within hi
 In many ways, this conception of the remit of the Holy Spirit is biblical and traditional.[^38] The Creed states: ‘Credo in Spiritum Sanctum, Sanctam Ecclesiam Catholicam, Sanctorum Communionem.’ It is the Holy Spirit who precedes the statement about belief in the church.[^39] Biblically, there are grounds for this in the account of Pentecost in which the church is established through the giving of the Holy Spirit to the apostles.[^40] The work of the Holy Spirit is the deeply intensive work of God with particular people;[^41] He is not simply the extensive work of God that leads people into Jesus Christ.[^42]
 
 [^37]: [[John 10#^10-10|Jn 10.10b]].
+
 [^38]: Butterworth cites the catechism during his translation of Origen: ‘First I learn to believe in God the Father, who hath made me and all the world; secondly in God the Son, who hath redeemed me and all mankind; and thirdly in God the Holy Ghost, who sanctiWeth me and all the elect people of God.’ De Princ. I.3.5n.
+
 [^39]: This underlies Barth’s discussion in chapters XIV and XV of Credo.
+
 [^40]: While this causes Peter to preach so that people might believe, this is in order that they might receive the Holy Spirit: ‘Peter said to them, ‘‘Repent, and be baptised every one of you in the name of Jesus Christ so that your sins may be forgiven; and you will receive the gift of the Holy Spirit.’’ ’ ([[Acts 02#^2-38|Acts 2.38]]). Notably, eternal life is not men tioned. Furthermore, the result of the converts’ believing is that they form community.
+
 [^41]: Extremely rare as such occasions are in scripture, even when the Spirit works on those who are not believers this is either for the sake of a believer or to bring the person to be a believer. One sees this in the story of Balaam, on whom the Spirit of God rests ([[Torah 40 - Balak#^24-2|Num. 24.2]]) despite the fact he is not an Israelite: he is a spiritual, if not physical, member of God’s special people.
+
 [^42]: This matter is further complicated dynamically, since Jesus Christ was the historical person in whom the Spirit dwelt most intensely of all. One must be careful not to separate the two persons in alienating ways, and must always remember the mutual indwelling of each of the members of the Trinity.
 
 *[p. 180]* ^pg205
@@ -163,6 +197,7 @@ ii. Origen In Origen’s theology, this happens in two particular and independen
 43\. This language is clearly borrowed directly from Barth, but it is believed that the forthcoming discussion again shows the appropriateness of the word for the inner logics of Origen’s pneumatology. Cf. Ch. 6, §4 above.
 
 [^44]: It is the work of the Spirit in the lives of individual Christians that Pannenberg sees as the Spirit’s basic saving work (Pannenberg, Systematic Theology, Vol. 3, ch. 13.2, esp. 135ff.).
+
 [^45]: See above §2.i.
 
 *[p. 181]* ^pg206
@@ -172,10 +207,15 @@ occupied by the Son; rather, the Spirit is the person who ‘relates’ the othe
 This recognition of God’s salvation is seen in terms of a growth in holiness in this world.[^49] The universal restoration that Origen pictures is one in which all of creation moves towards God either in this life or in the world to come.[^50] His theory of punishment for education and the purging of people’s sinfulness and irrationality means that for those who have already been purged by baptism, no further such purification is required. This is because the Holy Spirit has already begun to cleanse the believer of her sins, beginning to transform her from within in the present.[^51] One might take from this the sense that the Spirit in some way ‘realizes’ the salvation and sanctification accomplished by the Logos in the believer, thereby realizing also the purification and transformation awaiting the rest of humanity after death. The believer is already through the indwelling of the Spirit
 
 [^46]: See HomGen. 1.17.
+
 [^47]: This is seen in the story of the woman who finds a drachma in her own house (Hom.Gen. 13.4).
+
 [^48]: This responds well to the kinds of criticisms which claim that there is little or no point to faith or decision if one subscribes to a universalist soteriology, e.g. Torrance, ‘Universalism or Election?’. It also deepens the presentations of universalism which fail to recognize the work of the Spirit in salvation, e.g. Hick, Death and Eternal Life; and Robinson, In the End God. It further avoids the arrogance of believing that, as Christians, we can define what other people are better than they can themselves and assure them that they are just like us only ‘anonymously’ so, as is the case in Rahner, ‘Anonymous Christians’.
+
 [^49]: De Princ. I.3.8.
+
 [^50]: This is reflected in Origen’s understanding of the two resurrections in CommMt. X.3. See Edwards, ‘Origen’s Two Resurrections’, esp. 512 13.
+
 [^51]: HomJer. 2.3 cf. HomLev. 2.2.5.
 
 *[p. 182]* ^pg207
@@ -185,13 +225,21 @@ enabled to begin to engage in the eschatological reality awaiting all creation.[
 iii. Barth A similar approach is taken by Barth. In his theology, the subjective role of the Spirit is more overtly articulated than it is in Origen.[^53] The special work of the Holy Spirit is to establish the aspect of revelation that brings about the subjective reception of the objective event of the revelation of the eternal God.[^54] He is God’s freedom to be with the creature without removing any of the integrity of His divinity, and yet He is still within the creature:[^55] ‘By the Holy Spirit whom He has given us, we know that the Word, that is Christ, abides with us, and so becomes ours and we His.’[^56] The Spirit performs the role of relating the revelation of God to us and in us: the Spirit is both the subjective reality and the subjective possibility of revelation.[^57] In this way, the Spirit answers the two questions of how revelation comes from Christ to humanity, and of how it comes into humans.[^58] This is not a second work of God apart from His work in Jesus Christ.[^59] Instead, through the Holy Spirit, the objective reality of God’s revelation reaches and enters humanity. This reality is then ‘acknowledged’ (anerkennen) and ‘recognized’ (erkennen) and ‘confessed’ (bekennen).[^60] While for Barth this is not in terms of a growth towards
 
 [^52]: One sees a similar thought pattern in ethical thinking in Bonhoeffer, Ethics. Bonhoeffer considers the concept of reality, and advocates that the relation of reality to realization is one of the Son to the Holy Spirit (see 161ff., esp. 163). Ecclesiolo gically, Bonhoeffer speaks of the work of the Spirit in terms of the actualization of the church: ‘Christ did not merely make the church possible, but rather realised it for eternity. If this is so, then the significance of Christ must be made the focal point in the temporal actualization of the church. This is accomplished by the Spirit impelled word of the crucified and risen Lord of the church’ (Bonhoeffer, Sanctorum Commu nio, 157, emphasis added).
+
 [^53]: Barth even claimed that future theology could begin with the subjective aspect of revelation in the Holy Spirit. See TT, 27 8.
+
 [^54]: I/1, 449.
+
 [^55]: I/1, 450 1.
+
 [^56]: I/2, 242.
+
 [^57]: On subjective reality, see CD §16.1; on subjective possibility, see CD §16.2.
+
 [^60]: IV/1, 740ff.
+
 [^58]: I/2, 222.
+
 [^59]: I/2, 238.
 
 *[p. 183]* ^pg208
@@ -201,8 +249,11 @@ God as it is in Origen,[^61] it does involve an act on the part of humans in cor
 iv. Symphony God is not only responsible for revelation and salvation; He is also responsible for the appropriation of revelation and salvation within the believer. He imparts His work outside of humanity in humanity, relating the universal work of His salvation to the community and the individual as Holy Spirit. In this person, God bridges the distance between God and humanity after the ascension, allowing humans to
 
 [^61]: See Susannah Ticciati, Job and the Disruption of Identity: Reading Beyond Barth (London and New York: T. & T. Clark, 2005). Ticciati claims (particularly chs 1 and 2) that Barth does not do justice to the human complexities of texts which allow for response and obedience in encounter with God. The criticism of Barth’s use of individual texts (such as the whirlwind speeches and the story of the rich young man) is accepted. However, it is hoped that examination of the work of the Holy Spirit in the particularities of individual believers helps to provide a place which might be developed in Barth’s theology in keeping with his own desires for ‘provi sional and penultimate kind of repentance’ (43) and ‘the full human complexity of . . . obedience’ (161). See, for example, below on Barth’s belief in the necessity of growth in faith.
+
 [^62]: II/2, 414.
+
 [^63]: Indeed, Barth said that, were he a Roman Catholic, he should write theology from the perspective of Mariology as this reveals the relationship between the work of God and the work of humanity in salvation: humanity must only ever say, ‘I am the handmaiden of the Lord.’ See TT, 43.
+
 [^64]: II/2, 348. evolution of Trinitarian theology and the role and work of the third person in particular.
 
 *[p. 184]* ^pg209
@@ -212,6 +263,7 @@ know the salvation of God and to respond to the revelation of that salvation, as
 65 For Origen, this is the result of certain historical issues connected with the
 
 [^66]: E.g. [[2 Corinthians 03#^3-16|2 Cor. 3.16–17]]; [[Romans 08#^8-9|Rom. 8.9]]; [[1 Corinthians 15#^15-45|1 Cor. 15.45]]; and [[Philippians 01#^1-19|Phil. 1.19]]. Congar goes to great lengths to indicate the close identification of Son and Spirit in terms of what he sees to be the indiscriminate use of the formulae ‘in Christ’ and ‘in the Spirit’ to express the effects of both. They are as follows: in terms of righteousness ([[2 Corinthians 05#^5-21|2 Cor. 5.21]] compared to [[Romans 14#^14-17|Rom. 14.17]]); justification ([[Galatians 02#^2-17|Gal. 2.17]] compared to [[1 Corinthians 06#^6-11|1 Cor. 6.11]]); being indwelt ([[Romans 08#^8-1|Rom. 8.1]] and 10 compared to [[Romans 08#^8-9|Rom. 8.9]]); the love of God ([[Romans 08#^8-39|Rom. 8.39]] compared to [[Colossians 01#^1-8|Col. 1.8]]); the role of peace ([[Philippians 04#^4-7|Phil. 4.7]] compared to [[Romans 14#^14-17|Rom. 14.17]]); sanctification ([[1 Corinthians 01#^1-2|1 Cor. 1.2]] and 30 compared to [[Romans 15#^15-16|Rom. 15.16]]); speaking ([[2 Corinthians 02#^2-17|2 Cor. 2.17]] compared to [[1 Corinthians 12#^12-3|1 Cor. 12.3]]); and being the dwelling place ([[Ephesians 02#^2-21|Eph. 2.21]] compare to 2.22). Yves Congar, I Believe in the Holy Spirit, Vol. 1. The Holy Spirit in the ‘Economy’: Revelation and Experience of the Spirit, trans. David Smith (London: Geoffrey Chap man, 1983), 37 40.
+
 [^67]: Moule mounts a strong case against Congar’s reading. He argues: ‘It is charac teristic of Paul to speak of believers as in Christ but less characteristic to speak of Christ as in a believer, almost the reverse is true of Pauline phrases concerning the Spirit’ (C. F. D. Moule, The Origin of Christology (Cambridge: Cambridge University Press, 1977), 58). Moule suggests that whereἂν πνεύματι occurs it is in other than a clearly corporate sense (such as in [[Romans 08#^8-9|Rom. 8.9a]] and 14.17 in which the phrase possibly refers to the realm or sphere or level of the Spirit, or as in [[1 Corinthians 12#^12-9|1 Cor. 12.9]] and [[Colossians 01#^1-8|Col. 1.8]] in which the \[illegible\] is used instrumentally). He further asserts that phrases indicating that the Spirit is in a believer are frequent: e.g. [[2 Corinthians 01#^1-22|2 Cor. 1.22]] and 5.5; [[Galatians 03#^3-5|Gal. 3.5]]; [[Philippians 01#^1-19|Phil. 1.19]]; and [[Romans 05#^5-5|Rom. 5.5]]. Certainly, there are exceptions to this rule (most obviously [[Galatians 02#^2-20|Gal. 2.20]] and 2.17 and [[1 Corinthians 01#^1-2|1 Cor. 1.2]]), but in general there is a distinction between the believer being in Christ and the Spirit being in the believer: the indwelling agent is the Spirit whereas the one in whom is dwelt is the Son. There appears worth in both Congar’s and Moule’s arguments, therefore.
 
 *[p. 185]* ^pg210
@@ -225,7 +277,9 @@ i. Theme The theme of the Holy Spirit establishing the subjective side of revela
 68\. The reader is referred back to earlier work on eternity. See above Ch. 2, §3(b); Ch. 3, §4(a); and Ch. 4, §3.
 
 [^69]: One can see this also reflected in Bonhoeffer, Sanctorum Communio, 157ff.; and in Pannenberg, Systematic Theology, Vol. 2, 84 102 (which reflects not only on time but also on space).
+
 [^70]: Fiddes, Past Event and Present Salvation, 29: ‘A proper doctrine of the Holy Spirit will help us to speak of the personality of Jesus as a present reality, with an influence which is more than historical recollection.’
+
 [^71]: Yves Congar, I Believe in the Holy Spirit, Vol. 2. Lord and Giver of Life, trans. David Smith (London: Geoffrey Chapman, 1983), 34: ‘The Holy Spirit makes the Easter event of Christ present with the eschatological destiny of creation in mind.’
 
 *[p. 186]* ^pg211
@@ -235,10 +289,15 @@ ii. Origen In Origen’s thought this ongoing temporality occurs in the bringing
 iii. Barth As one might imagine, Barth’s work on time is far more developed than that of Origen. For Barth, the eternity of Jesus Christ offers salvation for all peoples from all times: ‘It is in this history—the history which is inseparable from his temporality—that the man Jesus lives and is the eternal salvation of all men in their different times.’[^76] It is, however, the Holy Spirit who brings this eternity to the temporality of the post-ascension church.[^77] Jesus is really but
 
 [^72]: E.g. CommMt. X.3.
+
 [^73]: HomLk. 10.7.
+
 [^74]: As is the case in Pauline theology. See [[2 Corinthians 01#^1-22|II Cor. 1.22]], [[2 Corinthians 05#^5-5|5.5]]; [[Ephesians 01#^1-13|Eph. 1.13–14]].
+
 [^75]: Albeit Origen does suggest at one stage that the future purging may take place ‘in the twinkling of an eye’. See CommMt. XIV.9. One sees a similar understanding of purgatory in Rahner, ‘Purgatory’, 181 93.
+
 [^76]: III/2, 441.
+
 [^77]: Bradshaw, ‘Karl Barth on the Trinity’, helpfully speaks of the Holy Spirit as the place for ‘contingency’ in God’s self revelation (151).
 
 *[p. 187]* ^pg212
@@ -248,12 +307,19 @@ transcendently present unlike any of His other contemporaries,[^78] as the resul
 iv. Symphony While considerable differences exist between Barth and Origen on this point, most notably with regard to the role of progress in bringing people towards salvation as a work of the Spirit, there are significant similarities. Both theologians are concerned to speak of the Holy Spirit in such a way as to demonstrate that He is the present guarantee of the future event of salvation. The Spirit realizes (or begins to realize) that event of salvation in the present—allowing for the subjective side of salvation in the here and now.[^85] Salvation
 
 [^78]: III/2, 467. Barth writes: ‘The yesterday of Jesus is also to day . . . It is Jesus who becomes and is their contemporary.’
+
 [^79]: One sees a similar point made by Eberhard Jüngel, Theological Essays 2, ed. John Webster, trans. John Webster and Arnold Neufeldt Fast (Edinburgh: T. & T. Clark, 1995). For Jüngel, the Spirit is related to the ever ‘new’ works of God (56 8).
+
 [^80]: III/2, 470.
+
 [^81]: II/1, 158.
+
 [^82]: II/1, 160.
+
 [^83]: I/1, 463.
+
 [^84]: IV/3, 352.
+
 [^85]: One sees this idea in the following: ‘The gift of the Spirit has a soteriological function as an anticipation of the eschatological outpouring of the Spirit and is defined as a gift by the fact that Jesus Christ has given him to believers, the eschato logical future of salvation having dawned already in his own person and history’ (Pannenberg, Systematic Theology, Vol. 3, 7).
 
 *[p. 188]* ^pg213
@@ -263,10 +329,15 @@ becomes, therefore, not something which takes place behind us in Christ and ahea
 of temporality seems centred on growth) and Barth (for whom the responsive element of Christian life is to have gratitude each new day) than might first be imagined.[^91] It has already been noted that Origen himself places emphasis on the ‘each day’ aspect of the work of the
 
 [^86]: A similar understanding of the work of the Spirit is again found in Pannenberg: ‘In light of the eschatological consummation of creation, the Spirit enables us to see the universal truth of the sending of Jesus and glorifies Jesus as the Messiah and the new human. The Spirit’s specific work in the church always relates to Jesus and to the eschatological future of God’s kingdom that has dawned already in him’ (ibid., 20).
+
 [^87]: [[Galatians 05#^5-22|Gal. 5.22–5]].
+
 [^88]: [[John 20#^20-19|Jn 20.19–21]].
+
 [^89]: Cf. Paul in [[2 Corinthians 05#^5-5|II Cor. 5.5]] and [[Ephesians 01#^1-3|Eph. 1.3–4]].
+
 [^90]: Gunton, ‘Atonement and the Triune God’, 128: ‘the Spirit is God enabling the world to be itself, to realise its eschatological perfection’.
+
 [^91]: Indeed, the unity of the themes of growth and ever newness is also expressed by Bonhoeffer: ‘In order for the church, which is already completed in Christ, to build itself up in time, the will of God must be actualized ever anew . . . In order to build the Church up as the community of God in time, God reveals God’s own self as Holy Spirit’ (Bonhoeffer, Sanctorum Communio, 143). Bonhoeffer recognizes that the growth of the church is built upon the ever new actualization of the will of God: growth and newness belong together.
 
 *[p. 189]* ^pg214
@@ -274,7 +345,9 @@ of temporality seems centred on growth) and Barth (for whom the responsive eleme
 Spirit. Yet this is held simultaneously with a belief in the progress of souls towards the Logos. Similarly, Barth was clear in conversation that growth is not only possible but demanded insomuch as revelation comes to us.[^92] The main theme of his work on sanctification, however, is its objective nature in Christ and the ever new nature of the Spirit in the present. How are these tensions to be brought together? Here, one may employ a similar manner of reparative reasoning as was utilized regarding spatial language in discussing the Spirit’s economic work. Just as spatial terms required being redescribed in terms of ‘intensity’, language about growth perhaps requires re-describing in terms of ‘intensification’: if the Spirit brings fullness, this fullness eternally gives way to something ever fuller.[^93] Here, one finds a means of understanding the place for progress, which is necessary if the Spirit relates the work of Christ to the present—that given past presents, the Spirit engages in an ever fuller work of bringing the fullness of God’s salvation in each new and future present.[^94] The sense of growth involved in this intensification is not one brought about by humanity’s own action or a process of ‘being saved’ as one moves closer towards a point of arrival: the freedom of the Spirit means that He cannot be conditioned by humanity into bringing His ever-fuller intensity to the believer, and this fullness is a fullness which never fully arrives but is ever fuller. As the Spirit dwells ever more deeply within the believer, so the presence
 
 [^92]: TT, 39.
+
 [^93]: Although the language is very different, one can see a similar idea in Pannen berg, Systematic Theology, Vol. 3, 11: through the Spirit, the believer participates in the sonship of Jesus and, through that, in the intra Trinitarian life of God. This involves the receiving of the Spirit by the Son and the giving back of the Spirit to the Father; through sharing in this glorifying of the Son who glorifies the Father, the believers’ own lives are changed into imperishable fellowship with the eternal God, from one degree of glory to another as given them by the Spirit ([[2 Corinthians 03#^3-18|2 Cor. 3.18]]).
+
 [^94]: A precedent for this move may be found in Barth’s doctrine of the glory of God in II/1. In this, the creature is permitted to serve the glory of God as the result of the superabundance of God’s glory, which can flow over to the creature and create fellowship with her in her obedience (671 4). However, it is only in post temporal eternity that the creature can say all that there is to say about the glorification of God. In the present she may find knowledge of that future glorification, but she is also involved in the temporal form of God’s glorification in supratemporally eternal worship. However, the perfection of this in supratemporal eternity always lies ahead (675 6). There is, therefore, an intensifying of the glorification the creature offers to God in the present as she moves towards post temporal eternity.
 
 *[p. 190]* ^pg215
@@ -284,8 +357,11 @@ of God is ever intensified in her in an eschatological direction: that is how th
 Furthermore, it is important to note the necessary role of the Holy Spirit in the theologies of Origen and Barth, which are so concerned with eternity. Origen’s belief in the pre-existence of souls and apokatastasis and Barth’s Gnadenwahl could lead one to question the need for continued temporality after Christ, given the dominant emphasis on the eternity of God.[^96] Their theologies rightly posit that all God’s ways and works must never be separated from God’s eternity, seeing creation and eschatology as inextricably linked. The danger exists, however, that such an emphasis undermines the place for continued temporality in the present. Their understandings of the Spirit of God in relation to the present prevent such a problem from arising. The Spirit is at work in human life in the present with all its contingencies.[^97] He continues the work of Christ now within all the variety and particularity of humanity, as He has throughout the times of the church up to this point. The Spirit prevents the universality of the eternal work of the second person of the Trinity from obliterating all other times and from seeing all decisions and reality as sewn up in pre- and post- temporal eternity. The Holy Spirit is the work of God in the now of each age and generation. Christ’s universal work does not involve the removal of human particularity and history. While creation should not be separated from eschatology, neither can eschatology be separated from creation: God’s love for creation and His taking seriously His creative act means that creation is given time by God—a time for the Holy Spirit. In this time it is better that Christ has gone, for another Counsellor has come.[^98]
 
 [^95]: I/1, 463 4.
+
 [^96]: This is a criticism of Barth that McGrath, Iustia Dei, suggests, stating that Barth has little interest in the here and now (365).
+
 [^97]: Indeed, one could suggest that the importance of life for both Origen and Barth in many ways relativizes the difference between their respective emphases on progress and newness. God gives life so freely and graciously in His love that nothing other than God could contradict it. The human must, therefore, seek to live the life which is such a great gift of God in all its fullness to have life and life abundantly.
+
 [^98]: [[John 16#^16-7|Jn 16.7]].
 
 *[p. 191]* ^pg216
@@ -295,10 +371,15 @@ Furthermore, it is important to note the necessary role of the Holy Spirit in th
 i. Theme It is this involvement in each now of every generation that establishes the particularity of the church in light of the seemingly universal reality of salvation.[^99] The difference between the believer and the unbeliever is not a matter of eternal salvation for the former and eternal damnation for the latter. Rather, it is a particularity which is established through the Holy Spirit.[^100] While all of humanity has salvation in the second person of the Trinity, only the believer has the reality of this ultimate promise in the present,[^101] as the Holy Spirit works with the Christian.[^102] The reality of ultimate salvation is a hoped-for reality for those outside the church. However, it is only known as such, and, therefore, only known to be real, by the people of faith through the Holy Spirit.[^103] This work of the Spirit is transformative in the present. The believer is differentiated from humanity not in terms of the Son’s relationship to her, but in terms of her knowledge of that and faith in it through the Holy Spirit. There is, thus, room for both the church and Christian with their particularity and a universally optimistic understanding of salvation.[^104]
 
 [^99]: On the Holy Spirit and ecclesiology, see Congar, I Believe in the Holy Spirit, Vol. 2; Bonhoeffer, Sanctorum Communio, throughout which there is discussion of the pneumatological nature of the church (e.g. 139, 143 4, 152, etc.); and Pannenberg, Systematic Theology, Vol. 3, ch. 12, §1.c (16 20).
+
 [^100]: C. F. D. Moule, The Holy Spirit (London and New York: Continuum, 2000), 74: ‘The presence of the Spirit is a sine qua non of being a Christian ([[Romans 08#^8-9|Rom 8.9]] . . . ). Christians know themselves to be Christians precisely because they know themselves possessed of the Spirit.’
+
 [^101]: A similar dynamic is hinted at by Tillich, Systematic Theology, Vol. 3 (for all it is expressed in very different terminology) in his idea that the spiritual expresses the ‘unambiguous’ within the ambiguous in a manner which anticipates the new reality awaited by all (ch. XXVI).
+
 [^102]: Ford describes Eucharistic practice in terms which are helpful here as ‘the a flourishing of distinctive and different particularising activity of the Holy Spirit realisations of the eventfulness of God’ (Ford, Self and Salvation, 144). This surely need not be limited to the event of the Eucharist, but could also be applied to the whole life and activity of the church, as a particularized community of the Holy Spirit.
+
 [^103]: Gunton, ‘Atonement and the Triune God’, 130. For Gunton, the economy of the Holy Spirit is ‘to particularize the universal redemption in anticipations of the eschatological redemption.’
+
 [^104]: Furthermore, there is room here for the particularity of each believer within the community of Christians. See Welker, God the Spirit, 21 7. Welker speaks of a non hierarchical ‘differentiated diversity’ in relation to Christ though the Spirit that cannot be reduced to a simple unity. He describes this as ‘polyindividual diversity and abundance’ (23).
 
 *[p. 192]* ^pg217
@@ -308,8 +389,11 @@ ii. Origen For Origen, the work of the Holy Spirit demarcates those who are in t
 iii. Barth In Barth, one similarly sees the differentiation of humanity through the Holy Spirit. The doctrine of election determines that all humanity is elected in Jesus Christ, in whom humanity finds its origin and future. Humanity is not divided into saved and damned, but into Christian and non-Christian, which is a division dependent on the
 
 [^105-p192]: There is a baptism with fire for those not already cleansed by the baptism of the Holy Spirit. See HomLk. f.24; HomJer. 2.3; HomEz. 1.13. Daley, The Hope of the Early Church, also notes that the resurrection is not exclusively future, but anticipated already in part in the life of the baptized Christian (54 5). See CommJn. I.25; CommRom. Gr. Frag 29. For further discussion of baptism in Origen, see Crouzel, Origen, 223 6; Daniélou, Origen, 52 61.
+
 [^106-p192]: CommMt. XIV.3.
+
 [^107-p192]: CommRom. 10.9.2.
+
 [^108-p192]: See Edwards, ‘Origen’s Two Resurrections’.
 
 *[p. 193]* ^pg218
@@ -321,9 +405,13 @@ The Holy Spirit Himself and as such is here a reality which is still lacking and
 He \[the non Christian\], too, is reconciled to God . . . This means, however, that the Spirit and His ultimate and penultimate pledge with all its indwell ing power are promised to him. It cannot be simply said that he is not the recipient, bearer and possessor. It must be said that he is not yet these things, because he does not yet know Jesus Christ . . . He is not yet within, not yet caught up in the living stream of life, not yet moved by the promise of the Spirit, not yet living by the lights and powers and gifts bestowed with this promise, but still without on the rocky banks of the stream. Or conversely, he is still within on a patch of desert, but not yet without in the surrounding meadows. Yet the stream already flows for him and the meadows are already there for him. The promise of the Spirit already avails for him and applies to him.[^113] It is, therefore, in the Spirit that the Christian differs from the unbeliever.
 
 [^109-p193]: IV/2, 328.
+
 [^110]: II/2, 345 6.
+
 [^111]: Indeed, Barth felt that Pietists were right in this much: it is only when salvation and revelation is real to us that we may speak of it as real (I/2, 237).
+
 [^112]: IV/3, 353.
+
 [^113]: IV/3, 355.
 
 *[p. 194]* ^pg219
@@ -371,9 +459,13 @@ It is crucial that the Holy Spirit should not in any sense be understood as a re
 iv. Symphony Whether this work of the Spirit is conceived as broad enough might be questioned. There is a sense in scripture that the Spirit has a universal work as well as a particular one.[^126] However, the understanding of the Spirit as the one who enables witness to God’s work of salvation in Jesus Christ must be acknowledged as botha particular work and a universal one. The Spirit establishes the particular witness of the Christian for the sake of the world. This reflects Pentecost, with the apostles speaking in
 
 [^122]: IV/3, 503.
+
 [^123]: Again, one may find a parallel in Barth’s doctrine of the glory of God, where he suggests that the glory of God may be found in the world since ‘He is God who is glorious in His community, and for that reason and in that way in all the world’ (II/1, 677).
+
 [^124]: §§62 and 63; §§67 and 68; §§72 and 73.
+
 [^125]: It is hoped that this in some way begins to answer the criticism of Roberts, ‘Spirit, Structure and Truth’, that Barth’s pneumatology completes his unbroken theological circle, making it ‘dangerous by comprehensiveness’ (80). This opening up of the work of the Spirit to the world (which admittedly Barth could have pursued further) could lead to an avoidance of the criticisms Roberts lists (81). The Spirit not only allows a place for the human reality which Roberts claims Barth’s theology cannot allow (83), but He does so in a way which allows for the discussion of human reality not only within the church but also outside of it in this outwards movement.
+
 [^126]: [[John 03#^3-8|Jn 3.8]]. However, Moule argues forcefully that the Holy Spirit is most closely identified with the Christian, and His work is not ‘cosmic in scope’ (Moule, The Holy Spirit, 19ff.).
 
 *[p. 198]* ^pg223
@@ -387,7 +479,9 @@ PARTICULARITY THROUGH THE HOLY SPIRIT
 (a) Removal of unhelpful binaries One of the benefits of a particularity established in the Spirit is that it enables the Christian to escape the dangers and difficulties of
 
 [^127]: Welker makes a similar point regarding the Holy Spirit: ‘The individualism of the Spirit is marked by diverse concreteness and by concrete diversity, without crumbling into the indeterminate plurality of ‘‘pure’’ individuality. No one is totally the same as others, and no one is unique in every respect’ (Welker, God the Spirit, 22).
+
 [^128]: IV/3, 494. The same point could also be made regarding other religions: see Greggs, ‘Bringing Barth’s Critique of Religion to the Inter Faith Table’.
+
 [^129]: Rowland, ‘The Lamb and the Beast’, makes this point well with regard to salvation and the exclusivist language of Revelation and Matthew, e.g. 189.
 
 *[p. 199]* ^pg224
@@ -399,6 +493,7 @@ This movement in soteriology is extremely liberating for evangelical theology.[^
 (b) Way of preaching This understanding of the economy of the Spirit may have tremendous implications for the church’s speech about God. Moving away
 
 [^130]: For reflections on the German situation that could be transferable to English speaking evangelicalism, see Busch, Karl Barth & the Pietists: The Young Karl Barth’s Critique of Pietism and Its Response , esp. the epilogue.
+
 [^131]: One should not simply equate evangelicalism or fundamentalism with literal approaches to texts: both movements require great sophistication on the part of their followers in reading particular views of soteriology onto scripture hence the need to speak of dispensations, covenants, and prophecy.
 
 *[p. 200]* ^pg225
@@ -416,8 +511,11 @@ indeed, for God.[^133] This seems to reflect the Augustinian sense that true fre
 (d) Restoration and transformation Further comment is required on the way in which the doctrine of the Holy Spirit allows for a universalist understanding of salvation which is simultaneously restorative and transformative. This understanding is clearly necessary: to be restored involves restoring. This is most clear in Origen, for whom it is through the transformation of humanity in the present world or future punishment that what is irrational is purged from humans and they are returned to full participation in the Logos. However, the same is true of Barth in a different way. For him, humanity is restored to the ‘prototype of humanity’ who is Jesus Christ,[^136] but this is a restoration which for
 
 [^133]: Barth speaks of this through the Holy Spirit: Credo 70 cf. 130. See also EvangTheol, 53 4.
+
 [^134]: Note in scripture: ‘For freedom Christ has set us free’ ([[Galatians 05#^5-1|Gal. 5.1]]); ‘whoever was free when called is a slave of Christ’ ([[1 Corinthians 07#^7-22|I Cor. 7.22]]).
+
 [^135]: Barth points towards this kind of logic when he states: ‘to say a person must believe would be inappropriate, since he can only really believe as a free believer, as one freed for faith’ (EvangTheol, 102). The doctrine of an eternal hell is one way of understanding what it is to say a person must believe.
+
 [^136]: III/2, 155 speaks of the pre existence of humanity in Jesus Christ.
 
 *[p. 202]* ^pg227
@@ -429,10 +527,15 @@ There is an advance made by humanity in time: there is not simply a restoration 
 The best way to understand this unity of restoration and transformation is in terms of the deepening and intensifying work of the Holy Spirit. It is the Holy Spirit that works through each present, relating the work of God to it. There is in human time, therefore, a sense of progress achieved through the Spirit.[^141] While in Origen this is clear,[^142] it is even hinted at by Barth: ‘Knowledge and faith come to
 
 [^137]: I/1, §12.
+
 [^138]: See III/2, §45. In this section, Barth speaks of addressing the borders between the determination of humanity as God’s covenant partner, on one side, and his cosmic and creaturely being, on the other (204), recognizing the dual nature of humanity as creaturely on the one side and determined to be a covenant partner with God on the other. Barth summarizes this well when he states: ‘man exists from God and for God, and as God’s creature is rushing toward Him and His eternal life’ (GHN, 6). However, he follows by stating: ‘man does not exist in that reality in which he might exist, in relationship with God and his fellow man’ (7).
+
 [^139]: Ludlow, Universal Salvation, 39 cf. 41 2.
+
 [^140]: Ibid., 35 6.
+
 [^141]: A similar point is made, albeit not pneumatologically, by Bonhoeffer, Sanc torum Communio, 144: ‘Humanity is new in Christ, that is from the perspective of eternity; but it also becomes new in time.’
+
 [^142]: Crouzel, Origen, 98.
 
 *[p. 203]* ^pg228
@@ -442,9 +545,13 @@ us, and we have to study and live under the Word of God. Now not only the possib
 (e) Theosis It may, indeed, be in this way that one is best to understand theosis for these two theologians. The work of the Spirit in restoring transforms humanity in the present to its eternal determination in the will of God. In Origen, the Spirit establishes the true rationality of the believer, and allows the believer to participate in the source of all rationality, the Logos.[^147] It is the restoring of her humanity which transforms the believer to the divine prototype, without removing the ontological distinction between Creator and creature. In Barth the Spirit frees the believer to be truly human—relating Christ to the believer and thereby establishing His humanity in her. In being a person for God and for others, the human is truly human, as she is truly like Jesus Christ, the Son of God. In that way, she may actively participate in His humanity, and in that in the eternal humanity of
 
 [^143]: TT, 39. Cf. Nimmo, Being in Action, 164 5.
+
 [^144]: [[John 16#^16-7|Jn 16.7]].
+
 [^145]: [[John 16#^16-14|Jn 16.14]].
+
 [^146]: This is a pneumatological way of stating with Jüngel that: ‘God is the one who concerns our humanity in such an unconditional way that the revelation of God makes us thematic in our humanity. This happens in such a way, however, that for our part we are revealed as those whose humanity consists in becoming ever more human. Over and against our humanity which, certainly, already establishes itself in the midst of and despite our inhumanity, the incarnation of God and the justification of humanity which it accomplishes show that our humanity is able to be increased’ (Jüngel, Theological Essays 1, 184). This theme is in line with two of Jüngel’s other essays in the same book: ‘The world as possibility and actuality. The ontology of the doctrine of justification’ (95 123) and ‘Humanity in correspondence to God. Remarks on the image of God as the basic concept in theological anthropology’ (124 53).
+
 [^147]: The logika become logikoi.
 
 *[p. 204]* ^pg229
@@ -452,7 +559,9 @@ us, and we have to study and live under the Word of God. Now not only the possib
 God. Hunsinger points to Barth’s speaking of the ‘unprecedented fact of kinship of being’ between humanity and God (CD IV/1, 599) and states: ‘The idea that in Jesus Christ human beings are brought into an ‘‘ontological kinship’’ with God is an idea that comes within a hair of the traditional Eastern Orthodox understanding of salvation as ‘‘divinization’’ (theosis).’[^148] However, one must take care to remember that the very differentiation internal to the Trinity avoids some form of monism, while recognizing the relation of self-distinction grounded within one’s own relation to the Trinitarian being of God found in Christ through the inward moving of the Spirit.[^149] Theosis wrongly understood also presents the danger of an imperial universal: particularity must be retained, and one must remember: ‘All are in God, and yet each remains distinct from God.’[^150] One should take care not so to overemphasize transformation as to allow particularity within the world at the expense of particularity from God.
 
 [^148]: Hunsinger, How to Read Karl Barth, 175. Hunsinger is, however, quick to point to the fact Barth grounds this ‘kinship of being’ in ‘an ongoing distinctiveness of particulars maintained by the mystery of grace’ (IV/1, 600). Torrance speaks of theosis in a similar way, as humanity being lifted up ‘to the level of participation in God where we are opened out for union and communion with him far beyond the limits of our creaturely existence which is another way of describing theosis. It is precisely there and in that way, however, that we are restrained by the sheer holiness and majesty of the divine Being from transgressing the bounds of our creaturely being’ (Thomas F. Torrance, Trinitarian Perspectives: Toward Doctrinal Agreement (Edinburgh: T. & T. Clark, 1994), 87). He also makes a similar point regarding the Holy Spirit in Calvin’s theology (76). On the other hand, McCormack, ‘Partici pation in God’, argues strongly that one misunderstands Barth in seeking a place for theosis in his thought. However, this argument itself rests upon a failure to maintain the distinction McCormack himself notes in Palamas between divine energies and essence albeit this is a distinction Barth himself also rejects. When this distinction is understood, one can understand what is meant by theosis better, and one may well see the proper place for the doctrine. Moreover, this is buttressed by further discussion of the orthodox understanding of theosis as participation which upholds the ontological distinction between creature and Creator (see John MeyendorV, Byzantine Theology: Historical Trends and Doctrinal Themes (New York: Fordham University Press, 1987), 163 5, and Prestige, God in Patristic Thought, 75).
+
 [^149]: See also Pannenberg, Systematic Theology, Vol. 2, 450 3.
+
 [^150]: Bonhoeffer, Sanctorum Communio, 288.
 
 *[p. 205]* ^pg230
@@ -484,7 +593,9 @@ a loving God would make the world knowing that He would ultimately torture the v
 This book has sought not only to articulate its argument from a position of Christian particularity. It has also sought to articulate a Christian universalism in which the universal itself does not destroy this particularity. In the first instance, this was done through the discussion of the Son’s economy.[^2-p207] The universal salvation that comes in Him is not one which obliterates human particularity, but rather one which is underscored by it in His person. In emphasizing the Son and the salvation of all in Him, one does not impose a universal principle to which everything must conform (even God!), but instead one indicates a person—Jesus Christ.[^3-p207] Rather than arising from a principle (even that of grace), the universalism expressed is a description of the Son in whom all are saved. In His person, there is room for (and indeed the necessity of) particularity. Thus, this study has sought to express the relationship between God’s eternity and salvation in a way that still allows for the integrity of each moment and of present temporality. It has sought to express the election and acceptance of God in a way that takes seriously the rejection of God, sin, and theodicy. It has sought to discuss the graciousness of God in a manner which does not undermine the need for holiness and the place for judgment and punishment. Certainly, there has been no desire or effort to suggest universalism out of an overly optimistic view of humanity. This work has attempted to discuss a salvation for all in the Son which does nevertheless realize that there is varied
 
 [^1-p207]: This perversity is picked up with characteristic irony in Pilgrim’s Regress by C. S. Lewis, ‘Pilgrim’s Regress’, in Selected Books (London: Harper Collins, 2002), 21: ‘the Landlord was quite extraordinarily kind and good to his tenants, and would certainly torture most of them to death the moment he had the slightest pretext. ‘‘And you can’t blame him,’’ said the Steward. ‘‘For after all, it is his land, and it is so very good of him to let us live here at all people like us, you know.’’ ’
+
 [^2-p207]: See Ch. 4 above.
+
 [^3-p207]: One sees this in Barth’s words to universalist Richard Imberg: ‘I don’t believe in universalism, but I do believe in Jesus Christ, the reconciler of all’ (Busch, Karl Barth, 447).
 
 *[p. 208]* ^pg233
@@ -508,6 +619,7 @@ This study is a work of systematic theology. It is not a work of ethics, liturgy
 (a) Ecclesiology, liturgy, and homiletics In advocating that particularity is grounded in the economy of the Holy Spirit, this study may well have considerable implications for expressions of ecclesiology. It necessitates that ‘freshness’ is central to any conception of the church, since the church is itself brought about by the ever new presence of the Holy Spirit who provides Christian particularity. This ‘freshness’ determines that the boundaries of the church and the world can never be sharply drawn, and glimpses of grace may be found even in places outside of the traditional or institutional church. In an age in which ‘fresh expressions’ of the church is a core concern for many denominations,[^6-p209] an emphasis on the nature of the church as being dependent on the presence of the Spirit frees the church from an overly rigid construal of what it is: to
 
 [^5-p209]: For example, theism, or monotheism, or the noumenal.
+
 [^6-p209]: ‘Fresh Expressions’ is itself a movement within the Anglican and Methodist Churches of Great Britain.
 
 *[p. 210]* ^pg235
@@ -519,6 +631,7 @@ This can, in turn, inform liturgy and homiletics. To worship in the freedom of t
 (b) Eschatological differentiation In advocating an ultimate universalism in Jesus Christ, a radical transformation to certain views of eschatological differentiation may be offered. This transformation comes in two ways. The first is that not worrying about ultimate destinies of individual humans or, indeed, of nations, cultures, or religions, the Christian is freed by the Holy Spirit to focus more on this world. Salvation is truly saved from being some form of so-called Gnosticism, which offers ‘magical’ access through pieces of knowledge.[^8-p210] Salvation is, instead, deeply real, and requires a recognition of the reality of the world and its history, with all its joys and sorrows. This should not lead, however, to an overemphasis on the world which fails to see something of the holiness and otherness of God. Remembering that a focus on God’s
 
 [^7-p210]: Cf. [[John 04#^4-21|Jn 4.21–4]].
+
 [^8-p210]: This knowledge may for the Christian be understood in the likes of certain views of the mechanics of salvation, such as penal substitution, or else be understood as views of the church and its sacraments.
 
 *[p. 211]* ^pg236
@@ -536,6 +649,7 @@ Spirit is a focus on the Holy Spirit, to be freed from binary eschatological dif
 (d) Political implications In the present age, one must be sensitive to the role of faith in the political lives of the nations.[^11-p212] This is more complex than simply having religious people respond to situations as they arise, or setting a moral agenda for politicians. We live in an age in which doctrine affects politics.[^12-p212] In this, views of salvation are never far from the surface: there is a tendency to divide people and faiths too easily, to engage in polarizing right and wrong, insider and outsider, Judaeo-Christian and Muslim binaries. These divisions all too easily set up the other as the enemy. Theology needs to set its own house in order if it is to help to alter this situation. Only when Christians realize the proper ways in which they are to speak of their particularity and salvation can some of these overly simplified binaries be overcome. As long as the view persists that the vast majority of the world is destined to hell for living a life in opposition to God, in contradistinction to the Christian who is destined to heaven for living a life that follows the will of God, people will make divisions which they believe are based on the eternal plan of God: enemies of God become all too easily identified, and justification is found for why they are the enemies of people of faith in this world. Theology must inform the church that such distinctions cannot be made. Moreover, Christian theology must emphasize that this simply is not a satisfactory view of the nature of God and His salvation. Theology must teach that the Son saves all, and only ‘me’ because He saves all. Then the otherness of the person I see as an enemy is disrupted: she cannot so easily be seen as an enemy but must be seen as a child made by God the Creator and Redeemer; and I must remember that even as a child of God I, too, can still in my sin be His enemy and in need of redemption. However, the identity of the other as the other must also not be
 
 [^11-p212]: See Tom Greggs, ‘Religionless Christianity in a Complexly Religious and Secular World: Thinking through and Beyond Bonhoeffer’, in Reading Bonhoeffer in the 21st Century: Religion, Religionlessness, and the Church., ed. Ralf K. Wüstenberg and Stephen Plant (Frankfurt am Main: Peter Lang, 2008).
+
 [^12-p212]: One can see this, for example, in the USA regarding the Middle East. Not only is the rhetoric used often theological, but many of the concerns themselves arise from a Christian discomfort with Islam and a theologically pro Jewish stance based on certain views of dispensationalism.
 
 *[p. 213]* ^pg238
@@ -561,4 +675,5 @@ From a Christian perspective, inter-faith dialogue need not in the first instanc
 desired, however, it is the responsibility of each faith to find a way internal to itself to achieve a view of humanity which does not fall back into insider-outsider binaries: it is the responsibility of the Muslim to find a greater hope for the non-Muslim internal to Islam; for the Jew to find a greater hope internal to Judaism; and so on. This book has not sought to provide an agenda for inter-faith dialogue, but to legitimate such a dialogue for Christians who need no longer see the other as so insurmountably alien that she might be seen to be an enemy. Instead, the other is seen as a child beloved of God who will be brought to salvation (even in her otherness) in Christ. This book has sought to be a work directed at Christian theologians and the Christian church in order that Christians may take the prior step to inter-faith dialogue necessary so as to free the church for inter-faith dialogue: in understanding the God who is for that other in Jesus Christ and still allowing the Christian to be other to that other in the Holy Spirit, the Christian is also freed to be for the other in her otherness. This is a topic for another (future) book,[^14] but it is hoped that some clues and directions for that book might be found within the pages of this one.[^15] Even if these themes are not a concern for other faiths, the Christian theologian cannot ultimately avoid them because for her, as for all, the one Eternal God will ultimately be all in all.
 
 [^14]: For the beginnings of reflections on this, the reader is directed to Greggs, ‘Bringing Barth’s Critique of Religion to the Inter Faith Table’; Greggs, ‘The Many Names of Christ in Wisdom’; and Greggs, ‘Religionless Christianity in a Complexly Religious and Secular World’.
+
 [^15]: Further reflection on actualism regarding the Holy Spirit might provide a means to understand the place of other religions qua religions within the plan of God: if the emphasis is placed on the acts of the Spirit in the lives of believers, where there is continuity with members of other faith communities in those acts (as she is freed for love, prayer, and so on), then one may be justified in believing the Holy Spirit to be present. One can see this in the biblical tradition of the so called ‘holy pagans’, such as the Syro Phoenician woman and the faithful centurion in the gospels, and the likes of Rahab, Melchizadek and Jethro in the Old Testament. From a Christological perspective, there might also be grounds for reflecting helpfully on God’s relation to history and providence. But these reflections must be saved for discussion at another time.

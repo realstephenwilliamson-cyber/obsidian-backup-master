@@ -22,35 +22,35 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Gen 22:14 |
-| Frag. 19 i | Exod 1:22 - 2:5 |
 | Frag. 2 | Gen 27:38-39 |
-| Frag. 19 ii | Exod 3:8-16 |
 | Frag. 3 | Gen 27:42-43 |
-| Frag. 20 | Exod 3:18-21 |
 | Frag. 4 | Gen 34:17-21 |
-| Frag. 21-22 i | Exod 4:4-7 |
 | Frag. 5 | Gen 35:17 - 36:13 |
-| Frag. 23 | Exod 4:8-9 |
 | Frag. 6 | Gen 36:19-27 |
-| Frag. 24-25 i | Exod 4:26 - 5:1 |
 | Frag. 7 | Gen 37:5-6 |
-| Frag. 22 ii, 26 | Exod 5:3-14 |
 | Frag. 8 | Gen 37:22-27 |
-| Frag. 27 | Exod 5:14-17 |
 | Frag. 9 | Gen 39:11 - 40:1 |
-| Frag. 25 ii, 28-31 | Exod 6:4-21 |
 | Frag. 10 | Gen 45:23 |
-| Frag. 32 | Exod 6:25 |
 | Frag. 11 | Gen 47:13-14 |
-| Frag. 33 | Exod 7:5-13 |
 | Frag. 12 | Gen 48:2-4 |
-| Frag. 34-35 | Exod 7:15-20 |
 | Frag. 13 | Gen 48:15-17 |
-| Frag. 36 | Exod 8:20-22 |
 | Frag. 14 | Gen 48:18-22 |
-| Frag. 37 | Exod 9:8 ? |
 | Frag. 15-16 | Gen 49:1-5 |
-| Frag. 38-61 | ? |
 | Frag. 17-18 | Exod 1:3-17 |
+| Frag. 19 i | Exod 1:22 - 2:5 |
+| Frag. 19 ii | Exod 3:8-16 |
+| Frag. 20 | Exod 3:18-21 |
+| Frag. 21-22 i | Exod 4:4-7 |
+| Frag. 23 | Exod 4:8-9 |
+| Frag. 24-25 i | Exod 4:26 - 5:1 |
+| Frag. 22 ii, 26 | Exod 5:3-14 |
+| Frag. 27 | Exod 5:14-17 |
+| Frag. 25 ii, 28-31 | Exod 6:4-21 |
+| Frag. 32 | Exod 6:25 |
+| Frag. 33 | Exod 7:5-13 |
+| Frag. 34-35 | Exod 7:15-20 |
+| Frag. 36 | Exod 8:20-22 |
+| Frag. 37 | Exod 9:8 ? |
+| Frag. 38-61 | ? |
 
 [[DSS 3Q15|← 3Q15]] · [[Qumran|index]] · [[DSS 4Q2|4Q2 →]]

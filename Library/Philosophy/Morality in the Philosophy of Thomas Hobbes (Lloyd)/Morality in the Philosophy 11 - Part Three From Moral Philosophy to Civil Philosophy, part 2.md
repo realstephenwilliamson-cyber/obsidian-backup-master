@@ -87,6 +87,7 @@ Notice that this first prong alone suffices to defeat the unjust fool’s object
 Another way of putting Hobbes’s point is to say that even if the unjust fool’s action happens to turn out well for him, he is foolish because he undertook the action on the basis of an inappropriate consideration. On the subject of corrupt counselors bribed by their own self-interest Hobbes wrote: “For though the counsel they give be never so good; yet he that gives it, is no more a good counsellor, 
 
 [^13]: Hobbes identifies any sort of science as wisdom, but the particular science “from which proceed the true and evident conclusions of what is right and wrong, and what is good and hurtful to the being, and well-being of mankind, the Latins call *sapientia,* and we by the general name of wisdom” (EW IV, 210–211). All science depends upon knowledge of the consequences of words, that is, on correct definitions rightly joined together into syllogisms. In *Leviathan* Hobbes remarks that “\[a\]s much experience, is *prudence ;* so, is much science *sapience .* For though we usually have one name of wisdom for them both, yet the Latins did always distinguish between *prudentia* and *sapientia;* ascribing the former to experience, the latter to science” (EW III, 37; T 36).
+
 [^14]: EW IV, 95. Cf. EW IV, 72–73. That Hobbes thinks right reasoning conserves truth is evident in his remark that “there is no reason but that if true definitions were premised in all sorts of doctrines, the demonstrations also would be true”
 
 *[p. 306]* ^pg324
@@ -100,7 +101,9 @@ It is *not* the case that if an action most conduces to one’s ends, then it is
 Although this reply adequately answers the Foole ’s general objection that because injustice is sometimes profitable justice is not a rule of reason, the Foole’s specific contention  that profitable rebellious injustice is reasonable merits special attention. Hobbes wishes to argue that not only does success not suffice to vindicate an action as rational, when success attaches to an action that should have been expected to be harmful on the basis of all the foresight our experience gives us, but the action is imprudent as well. Hobbes writes, “when a man doth a thing, which notwithstanding any thing can be foreseen, and reckoned on, tendeth to his own destruction, howsoever some accident which he could not expect, arriving may turn it to his benefit; yet such events do not make it reasonably or wisely done”.[^16] That Hobbes faults one who acts in this manner as *imprudent* is made clear in the Latin revision of this passage, where Hobbes writes: “\[A\]nyone who does what, as far as can be foreseen and understood by reason, tends to his own destruction, even though something unforeseen happens which makes the outcome fortunate, has nevertheless acted imprudently, *because what happens is unforeseen*”.[^17] Here it becomes clear that this proper principle is strictly analytic for Hobbes, because true prudence  is correct extrapolation from past experience to predict the 
 
 [^15]: EW III, 244; T 178.
+
 [^16]: EW III, 133; T 102. Hobbes is here assuming the Foole ’s stated concern to secure his own “conservation and contentment”, and to pursue his own benefit. In this way he engages the Foole’s interest. However, the general principle need not be stated in terms of that interest.
+
 [^17]: Curley, ed., *Leviathan,* 91n6, emphasis added.
 
 *[p. 307]* ^pg325
@@ -124,6 +127,7 @@ Hobbes argues that because covenant  breaking if discovered can be expected to
 Why not? Hobbes is the first to say that people are gullible, that of many proffered miracles , “all the miracle consisteth in this, that the enchanter has deceived a man; which is no miracle, but a very easy matter to do” and that “if we look upon the impostures wrought by confederacy, there is nothing how impossible soever to be done, that is impossible to be believed”.[^19] So how can Hobbes possibly maintain that it is unreasonable to expect to be able systematically to deceive others?
 
 [^18]: Or correct explanation on the basis of experience of some past event by observa-Or correct explanation on the basis of experience of some past event by observation of its effects.
+
 [^19]: EW III, 434–435; T 305.
 
 *[p. 308]* ^pg326
@@ -133,6 +137,7 @@ The answer is that while it is true that people are gullible, ourselves no less 
 How successful is this second prong of Hobbes’s reply, which depends on the claim that experience shows that we cannot expect others to make the errors on which the profitability of our injustice depends? It is wholly *im*plausible that, as a general matter, one 
 
 [^20]: EW III, 110–111; T 87.
+
 [^21]: EW III, 134; T 102–103. In the Latin version Hobbes writes of the unjust fool, “\[w\]ho, except by ignorance, will retain him if he has been admitted? So either he will be cast out and perish, or he will owe his not being cast out to the ignorance of the others, which is contrary to right reason” (Curley, ed., *Leviathan,* 92n7).
 
 *[p. 309]* ^pg327
@@ -142,6 +147,7 @@ could never, under any possible circumstances, expect to be able successfully to
 However, that is not the particular kind of case that made replying to the Foole  seem to Hobbes to be worth doing. In the second prong of his reply Hobbes discusses breaking of the covenants of *mutual assistance that determine whether one is admitted and retained in civil society or rather left or cast into the state of nature* . And elsewhere in the Foole passage Hobbes addresses the Foole’s claim that *rebellion* may accord with reason. These cases involve the foundational covenants upon which peace and mutual protection essentially depend.[^22] If the particular challenge posed by the unjust fool is to show why it is not true that rebellion is not against reason even though it may prove profitable, Hobbes’s reply is quite strong. The Foole’s view that rebellion is not against reason when it profits oneself cannot, of course, be supported on the Foole’s faulty principle (premise 2), because Hobbes has discredited that principle. And it seems that Hobbes’s secondary prudential argument against the Foole is much stronger for this case than for cases of ordinary petty injustice, because experience suggests that to violate one’s covenant  of submission to government by attempting sedition is highly risky, and generally unlikely to prove profitable. As Hobbes points out, one is unlikely to succeed in taking power, and failure will probably bring the misery of death as a traitor.[^23] One’s design to overthrow the government is just the sort of covenant  breaking we should expect both officials and fellow subjects to be especially vigilant to detect. And even if one should, unexpectedly, succeed, Hobbes argues that one can expect to be challenged by other unjust fools who, supposing the discredited first principle, would take the example of one’s own profitable injustice as rational 
 
 [^22]: For the suggestion that Hobbes was primarily concerned not with crime or ordi-For the suggestion that Hobbes was primarily concerned not with crime or ordinary lawbreaking, but instead with rebellion or sedition, and that his reply to the Foole  is adequate in that context, see my *IAI,* 95–98. It is not inconsistent with this suggestion to note that Hobbes identifies the Foole’s faulty principle as one of the causes of crime as well as a premise in (bogus) justifications for rebellion or sedition.
+
 [^23]: E.g., EW III, 284; T 205.
 
 *[p. 310]* ^pg328
@@ -173,6 +179,7 @@ identified as the second prong of the argument.[^24] He argues that Hobbes was c
 However, four main considerations speak against Hoekstra ’s interpretation of the Foole ’s folly as *depending essentially* on his explicitness. First, Hoekstra  argues that the bare language of Hobbes’s introduction to the Foole passage indicates that Hobbes has in mind a singular individual rather than a type – that the Foole is one who on some occasions has said with his tongue as well as in his heart that injustice is not against reason.[^25] Hoekstra  also lays great stress on Hobbes’s use in the Foole passage of such phrases as saying “with his tongue”, “seriously alleging”, “declares”, and “consequently declareth”. I am inclined to read all this language as showing, not that the Foole is someone who prospectively advertises his intention to act unjustly, thereby inciting rebellion, but rather that he is simply one who, if caught, tries to defend his unjust actions *ex post.* Someone who “breaketh his covenant , and *consequently declareth that he thinks he may with* 
 
 [^24]: Hoekstra , “Hobbes and the Foole ”; cf. also his “Nothing to Declare? Hobbes and the Advocate of Injustice”, *Political Theory* 27 (1999): 230–235.
+
 [^25]: I am less sure than Hoekstra  about the plain meaning of Hobbes’s formulation, because if Hoekstra  were right, one would expect Hobbes to have written “The Foole  has said in his heart and sometimes also with his tongue: ‘there is no such thing as justice’”, which he did not. In any case, nothing in this description of the Foole’s position licenses Hoekstra ’s extension of what the Foole says with his tongue to what he does not say with his tongue but that others infer from his actions, so it would at most include loud but not flagrant fools.
 
 *[p. 312]* ^pg330
@@ -186,6 +193,7 @@ Second, if the account I have so far given is correct, we need not suppose that 
 Third, were Hobbes concerned *only* with explicit Fooles, it would, as others of Hoekstra ’s critics have noted, be difficult to account for the interest of Hobbes’s reply. If all Hobbes can show is that it is foolish to commit injustice in a way that will get you caught and punished, what 
 
 [^26]: Curley, ed., *Leviathan,* 92, emphasis added. That ‘consequently’ connotes a temporal rather than equivalence notion is indicated by the fact that Hobbes includes no comma after ‘consequently’. Compare equivalence – “breaketh his covenant , and in so doing, declareth” – with temporality – “breaketh his covenant, and subse- , and subsequently declareth”: only the latter comports with Hobbes’s use of commas. Giving further support to the idea that the Foole  tries *ex post* to justify his injustice is Hobbes’s use of the term ‘alleges’; one standard meaning of ‘allege’ is (and was in Hobbes’s day) to give as an excuse or a defense.
+
 [^27]: Ibid., 93n10, emphasis added.
 
 *[p. 313]* ^pg331
@@ -205,6 +213,7 @@ Furthermore, the Foole ’s explicit declaration makes clear to all would-be c
 Finally, and most importantly, Hobbes argues that in order to motivate rebellion, people must come to believe that they are *morally justified* in rebelling, justification being one of the three necessary conditions for rebellion. “*The business …*”, Hobbes writes, “\[*of* \] *the author of rebellion* *\[is\] to make men believe that their rebellion is just*”.[^30] But the Foole  does not, either by his declaration or his example, convince others that rebellion is just. To the contrary, he argues that it *doesn’t matter* whether 
 
 [^29]: Indeed, those who merely fail to aid the state, from whatever motive, may thereby contribute to its downfall when the state is threatened by ambitious others, as Hobbes would have learned from the case, among others, of the defeat of Richard III at the battle of Bosworth due largely to the complete inaction of Northumberland, who was in command of Richard’s rear-guard.
+
 [^30]: EW IV, 212, emphasis added.
 
 *[p. 315]* ^pg333
@@ -220,9 +229,13 @@ A small but interesting further advantage of the deflationary definitional inter
 we should that Hobbes does want to answer the Foole without relying on a threat of God’s punishment, we must still ask: Why does Hobbes insist that the Foole, who has said in his heart there is no such thing as justice, is the *self-same* Foole who has said in his heart there is no God? It cannot be because of his *explicit* denial of both dogmas, because the Biblical Foole does *not* deny God’s existence “with his tongue”.[^31] This silently atheistic Foole is foolish only if what is foolish is to believe there is no God. Our deflationary definitional account explains why Hobbes thought even silent atheism  is foolish. Atheism, as Hobbes argues in chapter 11 of *Leviathan,* depends upon faulty reasoning, because anyone who sees that effects have causes and those causes prior causes “must come to this thought at last: that there is some cause, whereof there is no former cause, but is eternal, which is it men call God”.[^32] Atheism is, on Hobbes’s account, a failure of reasoning. It is also a failure of prudence  (understood as facility in extrapolating from experience), according to Hobbes’s supplementary argument that “by the visible things of this world and their admirable order, a man may conceive {is certain} there is a cause of them, whom men call God”.[^33] In his *Answer to Bishop Bramhall* Hobbes writes, \[I\]s not atheism  boldness grounded on false reasoning, such as is this, *the wicked prosper, therefore there is no God? . . .* I deny there is any reason . . . in the atheist. . . . I say atheism  is a sin of ignorance. . . . The prophet David says, *the fool hath said in his heart, there is no God.* Is it not then a sin of folly? It is agreed between us \[Bramhall and Hobbes\], that right reason dictates there is a God. Does it not follow, that denying of God is a sin proceeding from misreasoning.[^34] Misreasoning, false reasoning, is folly. The faults of the unjust Foole and the atheistic Foole with whom Hobbes identifies him are thus strictly parallel on the deflationary definitional interpretation , regardless of whether those fools are explicit or silent.[^35] Indeed, Hobbes 
 
 [^31]: As Hoekstra  notes in “Hobbes and the Foole ”, 625.
+
 [^32]: EW III, 92; T 74.
+
 [^33]: Curley, ed., *Leviathan,* 62.
+
 [^34]: EW IV, 292–293.
+
 [^35]: Hoekstra  might respond by asserting that from God’s omniscient perspective, even the silent atheist’s atheism  is explicit, recalling Hoekstra ’s observation that “in the eyes of God, every act of injustice (and, indeed, every attempted or intended act of injustice) is an act of explicit foolishness” (Hoekstra , “Hobbes and the Foole ”, 632). Such a response would maintain a parallel between the unjust and atheistic fools, but at the cost of *collapsing* the distinction between silent and explicit fools upon which Hoekstra ’s interpretation relies. How can it matter that the Foole is explicit rather than silent if it is impossible for anyone not to be explicit? And if the problem with explicitness is supposed to be that it threatens to undermine social order by inciting rebellion, how are unjust and atheistic attitudes explicit only to God supposed to incite other men to rebel? I can find no textual evidence that Hobbes thought they do. In addition to collapsing Hoekstra ’s distinction and undermining its explanatory power, this way of explaining why the Foole is both unjust and atheistic disables Hobbes from answering the Foole’s objection in the Foole’s own terms, for the Foole, who believes there is no God, *cannot be answered* by asserting that God will punish his (silent/explicit only to God) injustice s. But he can be answered, as the deflationary definitional interpretation suggests, by showing him that his denisuggests, by showing him that his denials of the existence both of justice and of God rely on faulty reasoning.
 
 *[p. 317]* ^pg335
@@ -246,6 +259,7 @@ Hobbes’s argument against sedition from considerations of prudence  proceeds
 \[T\]he wisdom that proceedeth from \[experience\], is that ability to conjecture by the present, of what is past, and to come, which men call *prudence* . This being so, it is manifest presently, that the author of sedition, whosoever he be, must not be prudent. For if he consider and take his experiences aright, concerning the success which they have had, who have been the movers and 
 
 [^37]: EW IV, 210–211.
+
 [^38]: EW IV, 210, emphasis added.
 
 *[p. 319]* ^pg337
@@ -255,7 +269,9 @@ authors of sedition, either in this or any other state, he shall find, that for 
 This two-pronged argument that “the authors of rebellion necessarily are to be men of little wisdom” precisely mirrors Hobbes’s two-part reply to the unjust fool who believes rebellious violations of the foundational covenant  may sometimes accord with reason. Wisdom requires the use of correct general principles, and prudence  requires correct extrapolation from prior experience, but the unjust fool manages neither. While his actions may unexpectedly happen to turn out well, they do not do so “by the sole strength of his good contrivance”, for he relies on a faulty general principle and owes his success to the unforeseeable errors of other men and sheer dumb luck. In *Behemoth* , Hobbes writes, “Wise, as I define it, is he that knows how to bring his business to pass, without the assistance of knavery and ignoble shifts, *by the sole strength of his good contrivance.* A fool may win from a better gamester by the advantage of false dice and packing of cards”.[^41] The gaming fool, like the unjust fool, *may* succeed with the assistance of knavery, but whether he does so depends on the lucky fact that his opponents make errors in not uncovering his deceptions. In no case is his success attributable to wisdom.
 
 [^39]: Ibid., 210.
+
 [^40]: EW III, 246; T 180. In Hobbes’s discussion of crime in chapter 27 of *Leviathan,* we have further textual evidence that Hobbes took the Foole ’s principle to be a false one that exhibits the defect of inferring from the profitability of an action that it was reasonable, and on the basis of which men have mistakenly sought to justify injustice . There he writes, From defect in reasoning, that is to say, from error, men are prone to violate the laws . . . by presumption of false principles: as when men, from having observed how in all places, and in all ages, unjust actions have been authorized, by the force, and victories of those who have committed them . . . have thereupon taken for principles, and grounds of their reasoning, *that justice is but a vain word . . . that examples of former times are good arguments of doing the like again .* . . which being granted, no act in itself can be a crime, but must be made so, not by law, but by the success of them that commit it . . . to the perpetual disturbance of the peace of the commonwealth
+
 [^41]: EW VI, 211, emphasis added.
 
 *[p. 320]* ^pg338
@@ -265,7 +281,9 @@ A further way in which one may foolishly rest one’s hopes of success on someth
 Seeing this helps us to understand why Hobbes thinks that folly is dishonorable. We call those attributes honorable that are signs of power, power understood as means to accomplish our ends; and those dishonorable that are signs of a lack of power, or impotency. The man who can bring about his desired outcomes “by the sole strength of his good contrivance” has all the powers he needs, and his actions enjoy our admiration because they exhibit that sufficiency of power. The man who must cheat, or depend on the ignorance, or error, or help of others, or on brute luck in order for his aims to be realized, has little power, and so his actions, even insofar as they succeed, are dishonorable. In *Leviathan,* Hobbes writes, “All actions, and speeches, that proceed, or seem to proceed, from much experience, science, discretion, or wit, are honourable; for all these are powers. Actions, or words that proceed from error, ignorance, or folly \[are\] dishonorable . . . \[and\] craft, shifting, neglect of equity, is dishonorable”.[^44] Much experience is prudence , and much science is wisdom, sapience being the particular science concerned with humanity’s well-being. The fool, having no moral science, must rely for his successes on craft, which term Hobbes explains thus: “To prudence , if you add the use of unjust, or dishonest means . . . you have that crooked wisdom, which 
 
 [^42]: EW III, 38; T 37.
+
 [^43]: EW III, 25; T 28. Cf. EW III, 24; T 28.
+
 [^44]: EW III, 79–80; T 66.
 
 *[p. 321]* ^pg339
@@ -279,7 +297,9 @@ The unjust fool is however not to be let off the hook so easily, for he does hav
 Finally, we should recognize that the unjust fool’s folly is more than a matter of his defect in reasoning, or his imprudence. His imprudent gamble banks on his capacity to deceive others about his true nature; and this, Hobbes argues, depends on a foolish overassessment of his capabilities relative to his fellows. It is a natural foible that men routinely suppose themselves superior in the natural qualities of mind and good sense to others, but it is a foible nonetheless. Hobbes plausibly argues that most men are not all that different with respect to their ability to deceive others, or to avoid being deceived. For this 
 
 [^45]: EW III, 60; T 53.
+
 [^46]: EW III, 22; T 27.
+
 [^47]: EW III, 257; T 187.
 
 *[p. 322]* ^pg340
@@ -293,6 +313,7 @@ How foolish is excessive pride ? Hobbes maintains that it ranges from mere fol
 The relation between vain-glory and folly is explicitly mentioned in Hobbes’s *Behemoth*  discussion of folly and hypocrisy during the civil wars.  In the opening paragraph Hobbes writes, If in time, as in place, there were degrees of high and low, I verily believe that the highest of time would be that which passed between 1640 and 1660. 
 
 [^48]: EW III, 284; T 205.
+
 [^49]: EW III, 88; T 72. Cf. “nor when the wise in their own conceit, contend by force, with them who distrust their own wisdom, do they always, or often, or almost at any time, get the victory” (EW III, 141; T 107).
 
 *[p. 323]* ^pg341
@@ -302,6 +323,7 @@ For he that thence, as from the Devil’s Mountain, should have looked upon the 
 Although I have presented Hobbes’s reply to the Foole  as proceeding in two distinct phases, with the first arguing from wisdom and the second from prudence , we can now see how they can be understood as less distinct than may at first appear, with the prudence  prong *also* evidencing a failure of right reasoning (i.e., wisdom) as the deflationary 
 
 [^50]: EW VI, 165.
+
 [^51]: EW III, 307; T 221. Cf. his discussion of the sin of Adam and Eve, as taking “upon them God’s office, which is judicature of good and evil; . . . as if \[God\] should say, doest thou that owest me obedience, take upon thee to judge of my commandments? Whereby it is clearly, though allegorically, signified, that the commands of them that have the right to command, are not by their subjects to be censured, nor disputed” (EW III, 194; T 144).
 
 *[p. 324]* ^pg342
@@ -339,8 +361,11 @@ The magnitude of the contribution to social instability posed by dupes may be ju
 These passages may suggest that Hobbes counts almost everyone a dupe, at least in some matters, but that is not, or at least need not be, the case. Left uneducated, men are easily duped. But once educated, it becomes quite difficult to move them from their beliefs, no matter whether that education has been correct or incorrect,[^57] and so duping them requires either miseducating them from the beginning, or gradually introducing technical jargon and sophistical reasoning to bamboozle them into believing that one’s specious conclusions are actually implications of their beliefs, rather than contrary to those beliefs, as Hobbes thinks is done by the Schoolmen, and corrupt demagogues, lawyers, and clerics of all denominations. Hobbes writes, if the minds of men were all of white paper, they would almost equally be disposed to acknowledge whatsoever should be in right method, and by right ratiocination delivered to them: but when men have once acquiesced in untrue opinions , and registered them as authentical records in their minds, 
 
 [^54]: EW III, 92; T 74.
+
 [^55]: EW III, 103; T 82.
+
 [^56]: EW III, 434; T 304.
+
 [^57]: EW III, 694; T 478.
 
 *[p. 328]* ^pg346
@@ -376,6 +401,7 @@ That which taketh away the reputation of sincerity, is the doing or saying of su
 Hypocrites may ascend to power through craft, but they should know that power is preserved by the same virtues by which it is acquired; that is to say, by wisdom, humility, clearness of doctrine, and sincerity of conversation; and not by suppression of the natural sciences, and of the morality of natural 
 
 [^60]: EW III, 106; T 84.
+
 [^61]: EW VI, 224.
 
 *[p. 331]* ^pg349
@@ -389,7 +415,9 @@ Ambition is not unique to the Hypocrite , but Hobbes does seem to suppose that
 These various problematic types are largely distinct, but they do bear a family  resemblance. The Foole  reasons, but wrongly, to general conclusions, thus betraying his embarrassing failure of attempted science, and insofar as he lacks science, he is ignorant. The Dupe makes no pretense to science, but his ignorance leaves him defenseless and vulnerable to the trickery of those who would foment rebellion, just as is the Foole. The Zealot, whose confidence in his doctrine outruns any possible science but depends only on his foolish reliance on authorities and unwarranted privileging of his private perceptions, believes God will vindicate his actions no matter what social havoc they wreak, 
 
 [^62]: EW III, 697; T 480.
+
 [^63]: EW III, 285; T 206.
+
 [^64]: EW III, 320–321; T 230.
 
 *[p. 332]* ^pg350
@@ -411,6 +439,7 @@ their own lights, good and sufficient reasons to obey the commands of their effe
 The narrowly prudential argument, that is, the argument from temporal self-interest, urges that it is in our interest to live in a stable state that can increase our prospects for security, ordered liberty, and a commodious life, and the principle of political obligation best suited to sustaining such a state considering human nature  is Hobbes’s. The moral argument holds that we have a *natural duty*  not to act in a way that we would be unwilling to have others act (this is the reciprocity theorem  derived as a requirement of rational agency ), and that because our prudential interests dictate that we should require *others* to adhere to Hobbes’s principle (because it promises maximal stability), natural duty  requires us to do likewise. Moreover, if we have 
 
 [^65]: This is part of what accounts for the difficulty of extracting “the” argument Hobbes gives for political obedience. “The” argument has appeared to many to be self-contradictory or elliptical, but this sense is reduced once we see Hobbes as offering a number of different, though intertwined, arguments converging on the same conclusion. See *IAI,* 88–94, 155–156, and 266–268.
+
 [^66]: EW III, 343; T 245. Hobbes continues, “There wants only, for the entire knowledge of civil duty, to know what are those laws of God . For without that, a man knows not, when he is commanded any thing by the civil power, whether it be contrary to the law of God , or not”. Discovering this is the task of parts 3 and 4 of *Leviathan* (and of the corresponding sections of his earlier works), in which Hobbes concludes that “the laws of God therefore are none but the laws of nature, whereof the principal is...a com-therefore are none but the laws of nature, whereof the principal is . . . a commandment to obey our civil sovereigns” (EW III, 587; T 404). Our primary religious duty  is to obey our Sovereign, and the willingness to do that is one of two necessary conditions for salvation  (the other being faith).
 
 *[p. 334]* ^pg352
@@ -420,6 +449,7 @@ either explicitly undertaken to obey our sovereign (through, say, one of the oat
 What I have just described is Hobbes’s argumentative strategy for persuading his readers of the truth of his principle of political obligation and motivating them to adhere, and induce others to adhere, to it. It would be a mistake to confuse this strategy with the concrete educational program Hobbes advocates for creating right-thinking and virtuous subjects who are neither fools nor dupes nor zealots. Although bringing subjects to accept that they have prudential, moral, and religious reasons for obeying their sovereign is necessary to Hobbes’s strategy for addressing social disorder, teaching all subjects the central *arguments* of *Leviathan* is not necessary, but in fact would be, for every venue but the universities, overly ambitious and potentially self-defeating. *Leviathan* may profitably be taught in the universities, but the general public is better served by an educational program that teaches a manageable number of specifics including (1) the content and grounds of “the essential rights of sovereignty ”, (2) the Laws of Nature, (3) the sovereign’s positive laws (whatever they may be), and (4) the 
 
 [^67]: According to Hobbes, the promise of obedience that issues in political obligation “may be either express or tacit” (EW III, 705; T 485). We have a natural duty  to undertake political obligations, which we fulfill by expressly or tacitly covenanting to obey.
+
 [^68]: EW III, 358; T 254.
 
 *[p. 335]* ^pg353
@@ -447,6 +477,9 @@ B. For aught I see, all the states of Christendom will be subject to these fits 
 A. Like enough; and yet the fault, as I have said, may be easily mended, by mending the Universities.[^73] In addition to controlling the education of the educators such as preachers and teachers, the books they use and the actual doctrines they teach are also subject to the sovereign’s direct prescreening 
 
 [^70]: Hobbes seems to approve of Old Testament practice in teaching civil duty: “And for the law which Moses gave to the people of Israel at the renewing of the covenant  . . . he biddeth them to teach it their children, by discoursing of it both at home, and upon the way; at going to bed, and at rising from bed; and to write it upon the posts, and doors of their houses; and . . . to assemble the people, man, woman, and child, to hear it read” (EW III, 259; T 189). Cf. EW III, 589; T 406, where Hobbes writes that the ordinary cause of belief in the Scriptures is from being taught by “those that are by the law allowed and appointed to teach us, as our parents in their houses, and our pastors in the churches”.
+
 [^71]: EW III, 331; T 237, emphasis added.
+
 [^72]: EW VI, 236–237.
+
 [^73]: EW VI, 252.

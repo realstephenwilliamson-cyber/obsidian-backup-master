@@ -37,8 +37,11 @@ INTRODUCTION
 Maximos the Confessor (ca. 580–662) is now widely recognized as one of the greatest theological thinkers, not simply in the entire canon of Greek patristic literature, but in the Christian tradition as a whole.[^1] A peripatetic monk and prolific writer, his penetrating theological vision found expression in an unparalleled synthesis of biblical exegesis, ascetic spirituality, patristic theology, and Greek philosophy, which is as remarkable for its conceptual sophistication as for its labyrinthine style of composition.[^2] Maximos’s unrelenting defense of two natural wills and activities in Christ challenged the politically compromised theology of the imperial church and government, which responded by severing his right hand and cutting out his tongue.[^3] Sent into exile, he died shortly afterwards in a military prison on the eastern coast of the Black Sea, receiving the title of “Confessor” for the torments inflicted on him by his persecutors.[^4] Within twenty years of his death, his doctrine of Christ 
 
 [^1]: For a detailed discussion of the life of Maximos the Confessor, including a survey of earlier bibliography, see Paul M. Blowers, *Maximus the Confessor: Jesus Christ and the Transfiguration of the World* (Oxford: Oxford University Press, 2016), 25–63.
+
 [^2]: Maximos’s works are concisely cataloged in *CPG* 7688–7721, and more exhaustively in Peter van Deun and Pascal Mueller-Jourdan, “Maxime le Confesseur—Oeuvres,” in *La théologie byzantine et sa tradition* I/1, ed. Carmelo Giuseppe Conticello (Turnhout: Brepols, 2015), 390–423.
+
 [^3]: On Maximos’s Christology, see Demetrios Bathrellos, *The Byzantine Christ:* *Person, Nature, and Will in the Christology of Saint Maximus the Confessor* (Oxford: Oxford University Press, 2005); and Blowers, *Maximus the Confessor,* 135–65.
+
 [^4]: For a collection of primary sources documenting Maximos’s arrest, trial, and final days, see Pauline Allen and Bronwen Neil, eds., *Maximus the Confessor and his Companions: Documents from Exile* (Oxford: Oxford University Press, 2002). The last document in this collection, a *Commemoration* dated to ca. 668 (pp. 148–71), is among the first to identify Maximos as a “Confessor” (ὁ ολογητής); cf. the *acta* of the Seventh Ecumenical Council (Nicaea, 787): “Maximos, full of divine wisdom and equal to the Fathers, was surely botha Confessor and defender of the truth” (ACO 3.2/2:342–44).
 
 *[p. 4]* ^pg25
@@ -48,6 +51,7 @@ was vindicated by the Sixth Ecumenical Council (680–81), and so thoroughly did
 Modern scholarship has increasingly focused on the Confessor’s use of Greek philosophical categories, often in isolation from his larger monastic and ecclesial commitments. A purely philosophical approach, however, can easily overlook the central role of Scripture in Maximos’s theological vision and practice, which is already evident in his earliest writings.[^5] The *Responses to Thalassios,*[^6] presented here for the first time in a complete 
 
 [^5]: The *Dialogue on the Ascetic Life (Liber asceticus)* (CCSG 40), a work of around 30 pages, contains more than 150 biblical citations; cf. Paul M. Blowers, *Exegesis and Spiritual Pedagogy in Maximus the Confessor: An Investigation of the Quaestiones ad Thalassium* (Notre Dame: University of Notre Dame Press, 1991), 53: “Throughout the *Liber asceticus*, the responses place profuse scriptural citations in the mouth of the elder that are aimed at casting the monk’s struggle in scriptural imagery and identifying it with the exemplary suffering of Christ and of the divine Apostle.” See also the remarks of Pablo Argárate, “‘Car mes iniquités dépassèrent ma tête’: Les fonctions du text biblique dans la section katanyktique du *Logos Asketikos* de Maxime le Confesseur,” in *The Reception and Interpretation of the Bible in Late Antiquity,* ed. Lorenzo DiTommaso and Lucian Turcescu (Leiden: Brill, 2008), 17–36, at 34: “Le *Logos Asketikos* est d’une certaine perspective une méditation biblique prolongée.” In the *Questions and Doubts* (CCSG 10)*,* the overwhelming majority of its 239 chapters are responses to questions concerning difficult passages of Scripture; both works are dated to before ca. 633/34.
+
 [^6]: The work’s traditional title, the *Questions to Thalassios,* is inexact and misleading, since these are not Maximos’s questions to Thalassios, but rather his responses to questions submitted to him by Thalassios. The title found in the manuscripts is: *To Thalassios, On Various Difficulties in Sacred Scripture* (*πρὸς Θαλάσσιο περὶ διαφόρω ἀπόρω τῆς ἁγίας Γραφῆς*) (CCSG 7:17); cf. *Opusc.* 1, dated to 645/46, where Maximos refers to a passage in the *Responses to Thalassios* as: πρὸς τὸν . . . ἐν τοῖς περὶ τῶν ἀπόρων τῆς ἁγ ας Γραφῆς ἐκτεθεῖσ Θαλάσσ ον (PG 91:29D). In what follows, I refer to the work as the *Responses to Thalassios* or simply *Responses.*
 
 *[p. 5]* ^pg26
@@ -59,7 +63,9 @@ English translation, contains Maximos’s virtuosic theological interpretations 
 Though any precise date can only be conjectural, the *Responses to Thalassios* was most likely written before 633/34, at a time when Maximos was living in a Greek-speaking monastic community in Carthage (modern Tunis) in North Africa.[^9] Internal evidence, moreover, indicates that the work was written not long after Maximos had completed his other *magnum opus,* the *Ambi-*
 
 [^7]: With the exception of Qu. 1, which deals with the nature of the passions and their attribution to God in Scripture. In the 9th century, Photios, *Library,* cod. 192A, counted only 64 Questions, considering Qu. 1 to be part of the work’s introduction (ed. René Henry, *Photius, Bibliothèque,* vol. 3 \[Paris: Les Belles Lettres, 1962\], 77–80); the 10th-century Greek *Life* counts the standard 65 Questions (ed. Bronwen Neil and Pauline Allen, *The Life of Maximus the Confessor, Recension 3* \[Strathfield, New South Wales: St. Pauls Publications, 2003\], 74).
+
 [^8]: I borrow this apt formulation from Blowers, *Exegesis and Spiritual Pedagogy,* 15.
+
 [^9]: Carthage was the largest city in the western Mediterranean after Rome. Captured by the Vandals in 439, the city was retaken by Justinian’s armies early in 533, and later became the seat of the Byzantine exarch; cf. Frank M. Clover, “Felix Carthago,” *Dumbarton Oaks Papers* 40 (1986): 1–16; Averil Cameron, “Byzantine Africa: The Literary Evidence,” in eadem, *Changing Cultures in Early Byzantium* (Aldershot: Variorum, 1996), 25–32; and Blowers, *Maximus the Confessor,* 29–31. Maximos’s literary style, noted above, finds an intriguing parallel in contemporary North African floor mosaics; cf. Rebecca Molholt, “Roman Labyrinth Mosaics and the Experience of Motion,” *Art Bulletin* 93
 
 *[p. 6]* ^pg27
@@ -69,9 +75,13 @@ Though any precise date can only be conjectural, the *Responses to Thalassios* w
 As its title suggests, the *Responses to Thalassios* was composed in the literary form of “Questions and Responses” (ἐρωταποκρί σε ς), which was widely employed in the patristic period.[^11] The form, or rather format, was inherently flexible. It could accommodate, for example, biblical exegesis either in a continuous exposition or as a series of discontinuous glosses.[^12] At the same time, it allowed one to offer responses to a range of pastoral problems, as well as solutions to difficult, ambiguous, or disputed theological topics (ἀπορία , ἄπορα).[^13] As such it gave writers creative freedom to explore different subjects and themes without having to organize disparate material into a larger sequence, structure, or narrative. Maximos apparently found the format useful, and employed it to compose the *Questions and Doubts*, the *Responses to Theopemptos,* the *Ambigua to John,* and the *Ambigua to Thomas.*[^14] But whereas the two sets of *Ambigua* deal 
 
 [^10]: In Qu. 39.5, Maximos refers Thalassios to the expanded discussion on the same topic found in *Amb.* 67.12–13 (DOML 2:299–301). The remarks about the division of being in Qu. 48.5 would likewise seem to presuppose the larger discussion in *Amb.* 41.2 (DOML 2:102–104).
+
 [^11]: See Heinrich Dörrie and Hermann Dörries, “Erotapokriseis,” *Reallex-ikon für Antike und Christentum* 6 (1966): 342–70; Herbert Hunger, “Erotapokriseis,” *Lexicon des Mittelalters* 3 (1986): 2183–84; Annelie Volgers and Claudio Zamagni, eds., *Erotapokriseis: Early Christian Question and Answer Literature in Context* (Leuven: Peeters, 2004); and Marie-Pierre Bussières, ed., *La littérature des questions et réponses dans l’Antiquité profane et chrétiennes: De l’enseignement à l’exégèse* (Turnhout: Brepols, 2013).
+
 [^12]: On which the classic study remains that by Gustave Bardy, “La littérature patristique des ‘Quaestiones et responsiones’ sur l’Écriture Sainte,” *Revue Biblique* 41 (1932): 210–36; 341–69; 515–37; 42 (1933): 14–30; 211–29; 328–52 (on Maximos, cf. 332–39).
+
 [^13]: The study by Pavel Ermilov, “Towards a Classification of Sources in Byzantine Question-and-Answer Literature,” in *Theologica Minora: The Minor Genres of Byzantine Theological Literature,* ed. Antonio Rigo (Turnhout: Brepols, 2013), 110–25, is helpful in sorting out some of the internal classifications within this disparate body of literature.
+
 [^14]: Cf. Peter van Deun, “Maximus the Confessor’s Use of Literary Genres,” *The Oxford Handbook of Maximus the Confessor,* ed. Pauline Allen and Bronwen Neil (Oxford: Oxford University Press, 2015), 274–86; Blowers, *Exegesis and Spiritual Pedagogy,* 28–94; and Blowers, *Maximus the Confessor,* 90–96 (= “Genre and Style in Maximus’ Literary Corpus”).
 
 *[p. 7]* ^pg28
@@ -79,7 +89,9 @@ As its title suggests, the *Responses to Thalassios* was composed in the literar
 with difficult passages (ἄπορα) in patristic texts, the *Questions and Doubts* and the *Responses to Thalassios* deal with difficult passages in Scripture.[^15] Thus, in composing the *Responses,* Maximos fused the exegetical tradition of biblical questions and responses, exemplified in works such as Eusebios’s *Questions and Answers on the Gospels* and Theodoret’s *Questions on the Octateuch*,[^16] with the pedagogical tradition of monastic questions and responses, such as Basil’s *Long Rules,* the *Questions and Responses on Baptism* by Mark the Monk, the *Questions and Responses* of Anastasios of Sinai, and the *Questions and Responses* of Barsanouphios and John.[^17] Combining a primarily exegetical genre with the pedagogical format of a monastic conference was hardly accidental, 
 
 [^15]: More precisely, the *Ambigua* as a whole deals with 70 theological difficulties in the writings of Gregory Nazianzus, along with one passage from Dionysios the Areopagite (*Amb.* 5 \[DOML 1:30–59\]); the *Questions and Doubts* (see above, n. 5) deals primarily with difficult biblical passages, although a number of questions concern passages from the writings of Basil of Caesarea, Gregory Nazianzus, Gregory of Nyssa, Dionysios the Areopagite, and Diadochos of Photiki.
+
 [^16]: Both works have recently been made available in English translations: David J. Miller and Adam C. McCollum, trans., *Eusebius of Caesarea, Gospel Problems and Solutions* (Ipswich, UK: Chieftain Publishing, 2010); Robert C. Hill, *Theodoret of Cyrus, The Questions on the Octateuch,* 2 vols. (Washington, DC: The Catholic University of America Press, 2007). In addition to the *quaestio-responsio* format, one should also include biblical scholia (σχόλ α, ση ε ώσε ς), which are short, usually discontinuous, glosses on important or difficult passages of Scripture, such as those by Origen on Exodus; cf. Eric Junod, “Que savons-nous des ‘scholies’ d’Origène?” in *Origeniana Sexta,* ed. Gilles Dorival, et al. (Leuven: Peeters, 1995), 133–49.
+
 [^17]: On the *Long Rules,* which in its longer recension contains 376 questions and responses, see Anna M. Silvas, *The Asketikon of St Basil the Great* (Oxford: Oxford University Press, 2005). On the 17 questions answered by Mark the Monk; cf. SC 445:296–397. On the Anastasian collection of 127 questions and responses, see Joseph A. Munitiz, *Anastasios of Sinai, Questions and Answers* (Turnhout: Brepols, 2011), 18–25. The 800 questions answered by Barsanouphios and John were originally a collection of letters, re-edited by an anonymous monk in the form of *quaestio-responsio;* cf. François Nyet and Paula de Angelis-Noah, *Barsanuphe et Jean de Gaza, Correspondence,* vol. 1 (Paris: Les Éditions du Cerf, 1997), 21, 47–61.
 
 *[p. 8]* ^pg29
@@ -91,7 +103,9 @@ and indeed rather aptly expressed the nature of Maximos’s exegetical enterpris
 As indicated in the work’s opening paragraphs, Maximos composed the *Responses* in answer to a letter he had received from a certain Thalassios, whom he addresses as “presbyter and abbot.” The letter, which we shall consider in a moment, contained a lengthy series of questions concerning the origin and nature of the passions, along with a collection of difficult biblical passages, for which Thalassios requested written interpretations.[^18] Though information about him is limited, Thalassios was a renowned spiritual teacher and the head of a monastic community probably in Carthage (hence his surname “the Libyan” or “the African”). In a contemporary *Spiritually Beneficial Tale,* he is hailed as the “great and divinely wise Thalassios, the adornment of all Africa.”[^19] Maximos most likely met Thalassios during his prolonged sojourn in the region (ca. 632–42), and the two men subsequently became close friends and colleagues.[^20]
 
 [^18]: Intro. 1.2.3; 1.2.9–10.
+
 [^19]: *Διήγησις ψυχωφελής,* ed. François Combefis, *Bibliothecae Graecorum Patrum auctarium novissimum,* vol. 1 (Paris: Sumptibus Aegidii Hotot, 1672), 325; the text is also available in François Nau, “Le texte grec des récits utiles à l’âme du moine Anastase sur les saints pères du Sinai,” *Oriens Christianus* 2 (1908): 58– 89; at p. 84, lines 12–14. “Libya” and “Africa” refer to the Byzantine Exarchate of Carthage (formerly the Prefecture of Africa), comprising the territory of Tunisia, parts of Algeria, and the coasts of Libya and Morocco.
+
 [^20]: Cf. Intro. 1.2.4, where Maximos (citing a phrase from Gregory Nazianzus, *Or.* 43.20) describes himself and Thalassios as “possessing a single soul residing in two bodies.”
 
 *[p. 9]* ^pg30
@@ -99,8 +113,11 @@ As indicated in the work’s opening paragraphs, Maximos composed the *Responses
 In addition to the *Responses,* Maximos wrote other works addressed to Thalassios: a Christological treatise, *On Energies and Wills,* and five letters (although no letters from Thalassios to Maximos have survived).[^21] The treatise, which argues against the Christological errors of Severos and Nestorios, is not directly relevant to the *Responses* and need not detain us any further. The letters, on the other hand,[^22] indicate that Maximos and Thalassios were in the habit of pondering difficult passages from Scripture and solving various problems using scriptural principles and concepts.[^23] In these letters, as well as in the Introduction to the *Responses,* Maximos praises Thalassios in the highest possible terms and refers to himself as Thalassios’s “servant” and “disciple.” These statements, however, should not be taken to mean that Thalassios was Maximos’s teacher or that Maximos was a monk in Thalassios’s monastery, as has sometimes been maintained.[^24] Instead, such statements were standard
 
 [^21]: *On Energies and Wills* (mistakenly said to be addressed to Marinos) survives only in fragmentary form as *Opusc*. 2–3 (PG 91:40–45; 45–56); and *Additamentum* 24; cf. CPG Supplementum 7697 (nos. 2–3; 25). In the *Φιλοκα λία τῶ Ἱερῶ Νηπτικῶ ,* vol. 2 (Athens: Aster-Papademetriou, 1957), 52, Maximos’s *Chapters on Theology and the Incarnate Dispensation* is also addressed to Thalassios; cf. *The Philokalia: The Complete Text,* vol. 2 (London: Faber & Faber, 1981), 114, 306. The *editio princeps,* however, edited by François Combefis (*S.* *Maximi Confessoris operum,* vol. 1 \[Paris: André Cramoisy, 1675\], 461), and later reprinted by J.-P. Migne (PG 90 \[Paris, 1860\], 1084), does not include such a dedication.
+
 [^22]: I.e., *Epp.* 9, 26, 41–42, and *Ep.* A (cited below, n. 23).
+
 [^23]: See, for example, *Ep.* 9, which responds to a practical question with an exegesis of [[1 Corinthians 02#^2-14|1 Cor 2.14–3.1]] (PG 91:445C–449A); *Ep.* 26 responds to a question about child sacrifice, referencing 4 Kgs 3.21–27 (PG 91:616A–617B); and *Ep*. 42, which allegorizes the building of Solomon’s Temple, citing [[LXX 2 Kingdoms 07#^7-5|2 Kgs 7.5]] and [[LXX Psalms 44|Ps 44.5]] (PG 91:636C–637B). *Ep.* A, as it is called, which survives in a Latin translation by Anastasius Bibliothecarius, notes the arrival of the representatives of Pope Severinus in Constantinople (PL 129:583–86). According to the manuscripts, *Ep.* 40 (PG 91:633C–636B) is addressed not to Thalassios but to the presbyter and abbot Stephanos, the recipient of *Ep.* 23 (PG 91:605D–608B; cf. CCSG 48, p. xxiv).
+
 [^24]: E.g., Marcel Viller, “Aux sources de la spiritualité de saint Maxime: Les œuvres d’Évagre le Pontique,” *Revue d’Ascétique et de Mystique* 11 (1930): 262; Aimé Solignac, “Thalassius,” *Dictionnaire de spiritualité,* vol. 15 (Paris: Beauchesne, 1991), 324; and Michel van Parys, “Un maître spirituel oublié: Thalassios de Libye,” *Irenikon* 52 (1979): 218.
 
 *[p. 10]* ^pg31
@@ -110,7 +127,9 @@ expressions of deference that a monk was expected to show toward an ecclesiastic
 A revered monastic leader, Thalassios was also the author of a work called *Four Centuries on Love, Temperance, and the Spiritual Life,* a series of four hundred ascetic and spiritual aphorisms that was included in the *Philokalia* immediately after the works of Maximos.[^25] In what was without precedent in late antique monastic prose writing, Thalassios prefaced each *Century* with an acrostic, three of which are addressed to a certain presbyter named Paul, to whom the work is dedicated.[^26] Composing four acrostics (that is, one for each “Century”) of one hundred words each requires no small degree of literary talent, and this, together with the often finely turned and at times poetical aphorisms themselves, attests to Thalassios’s skill as a writer. Scholars have debated the extent to which the *Centuries* are indebted to the writings of Maximos, or if their similarities are simply the result of a common reading of Evagrios.[^27] If, however, we accept the argument that the acrostic of the third *Century* is in fact a summary of Question 58 of the *Responses*, then Thalassios must have compiled his *Centuries* after he received the *Respons-*
 
 [^25]: *Φιλοκαλία* 2:206–29 (the text is also available in PG 91:1427–70). The pairing of the *Four Centuries* with Maximos’s work goes back to the so-called “pre-Philokalic” anthologies of the late Byzantine period.
+
 [^26]: On which, see Paul Géhin, “Les Collections de *Kephalaia* monastiques: Naissance et succès d’un genre entre création originale, plagiat et florilège,” in *Theologica Minora*, ed*.* Rigo, 1–50, esp. 13–14. Hesychios of Sinai’s *Centuries on Watchfulness* is extant in an alphabetical acrostic recension of 24 chapters, but this seems to be a product of the later Byzantine period; cf. Jean Kirch-meyer, “Hésychius le Sinaïte et ses centuries,” in *Le millénaire du Mont Athos,* *963–1963. Études et Mélanges I* (Chevtogne: Éditions de Chevtogne, 1963), 319–29.  Gregory Nazianzus made use of acrostics in his poetry (cf. II.1.14; PG 37:1244, lines 10–12), which Thalassios may quite possibly have known, but collections of gnomic utterances with acrostics became popular only in the middle Byzantine period, and typically in secular prose works; cf. Karl Krumbacher, *Geschichte der byzantinischen Literatur* (Munich: C. H. Beck, 1897), 717–20; and Ernst Vogt, “Das Akrostichon in der griechischen Literatur,” *Antike und Abendland* 13 (1967): 80–95.
+
 [^27]: Blowers, *Exegesis and Spiritual Pedagogy,* 10.
 
 *[p. 11]* ^pg32
@@ -120,8 +139,11 @@ A revered monastic leader, Thalassios was also the author of a work called *Four
 What Maximos recorded on the pages of the *Responses,* then, was part of a larger, ongoing conversation between two friends—both of whom were prominent spiritual leaders, writers, and theologians—situated within the living praxis of monastic culture. It is difficult, however, to reconstruct the process that led to the writing of the *Responses,* since, with the exception of the work’s “cover letter” (that is, the Introduction), none of the other letters exchanged between Thalassios and Maximos on this subject have survived.[^29] As mentioned a moment ago, Thalassios had presented Maximos with two sets of thematically different questions: on the nature of the passions and on difficult passages of Scripture. In response, Maximos asked that the “discussion of the passions be deferred until God grants me a more propitious opportunity to examine these matters and devote myself to them with greater industry.”[^30] This display of reluctance notwithstanding, Maximos proceeded to write what is essentially an entire essay on the nature of evil, the fall of Adam, and the origin of the passions, which is his most important and sustained analysis of these questions.[^31] When, moreover, he subsequently turned 
 
 [^28]: The link between the acrostic and Qu. 58 was discovered by Dumitru Stăniloae, *Filocalia. Sau culegere din scrierile Sfint,ilor Părint,ii care arată cum se poate omul curăt,i, lumina şi desăvârşi,* vol. 4 (Sibiu: Tipografia Arhidiecezană, 1948), 19, n. 1.
+
 [^29]: See Intro. 1.2.4, where Maximos alludes to these previous communications: “When I received and read your list of these passages, I was overwhelmed in mind, hearing, and thought, and subsequently implored you to permit me to decline your request . . . I consequently renewed and indeed enlarged my request—more than once—to be released from such a task, but I saw that you were in no way disposed to my pleas.”
+
 [^30]: Intro. 1.2.10.
+
 [^31]: I.e., Intro. 1.2.11–22. The importance of the essay can be gauged by the fact that it was excerpted and circulated (often with its partial counterpart, Qu. 43) in later Byzantine anthologies as an independent treatise; cf. CCSG 7, p. xi.
 
 *[p. 12]* ^pg33
@@ -135,7 +157,9 @@ As mentioned above, the *Responses to Thalassios* comprises a series of sixty-fi
 As is typical of the genre, the questions are prompted by 
 
 [^32]: This number refers to scriptural verses cited in the actual Questions, not the additional scriptural verses that Maximos cites or alludes to in his responses, which run into the hundreds.
+
 [^33]: I.e., Qu. 48–53 on 2 Chronicles; Qu. 54–56 on 1 Esdras; Qu. 62–63 on Zechariah; Qu. 64 on Jonah; and Qu. 65 on 2 Kings.
+
 [^34]: Intro. 1.2.6.
 
 *[p. 13]* ^pg34
@@ -147,7 +171,9 @@ various difficulties in the sacred text, which range from basic philological pro
 The greatest area of concern, however, arises from narrative elements that have no edifying meaning on the historical or literal level. For such passages, Thalassios requests a spiritual interpretation, as is evident from the way he frames his questions: “What is the meaning of these things on the level of contemplation?” (Qu. 49.1); “What is the meaning of these words, and how might we contemplate them spiritually?” (Qu. 65.1); and: “What is the meaning of this passage, which appears to be so unworthy of the Spirit, preoccupied as it is with the exact numbering of 
 
 [^35]: Qu. 15–17 deal with internal discrepancies in the Wisdom of Solomon and Exodus, respectively, while Qu. 43 deals with a contradiction between a passage in Proverbs and another in Wisdom.
+
 [^36]: Bringing together and seeking to reconcile seemingly contradictory passages of Scripture was a standard exegetical procedure, especially in the *Questions and Responses* literature. In the *Ambigua,* Maximos had likewise dealt with seeming contradictions in the writings of Gregory Nazianzus; cf. *Amb.* 1.2 (DOM 1:9–11); *Amb.* 42.2; and *Amb.* 63.1 (DOML 2:123–25; 271).
+
 [^37]: A problem also presented by the writings of Gregory Nazianzus; cf. *Amb.* 6.2 (DOML 1:69–71); *Amb.* 20.3 (DOML 1:411–13); *Amb.* 42.2–4 (DOML
 
 *[p. 14]* ^pg35
@@ -157,6 +183,7 @@ camels, horses, mules, and donkeys?” (Qu. 55.1).[^38] Many of these difficulti
 As Maximos had argued in the *Ambigua,* such difficulties cannot be resolved on the literal level of the text, but only on the level of “spiritual contemplation.” When the literal account presents the reader with insurmountable difficulties, spiritual contemplation is “able to smooth out the apparent contradictions perceived among different elements on the literal level of things,” because contemplation perceives the “truth present in all things, which is by nature simple and free of the thickness of words and bodies.”[^39] Maximos brings this same hermeneutical model to the *Responses,* where the shift in awareness from the perception of words on a page to the contemplation of their inner meaning is understood as a movement from the “letter” to the “spirit” (cf. [[2 Corinthians 03#^3-6|2 Cor 3.6]]). This perceptual shift, and the distinction it reveals between the surface of the text and its 
 
 [^38]: Most of the Questions simply ask about the “meaning” of the passage in question (cf. Qu. 7, 9, 11–16, 19–21, 24–25, 29–30, 32–34, 38–39, 45, 47–48, 50, 52–54, 56–57, 61–63), which is to be understood as the “meaning on the level of anagogy or contemplation,” consistent with Thalassios’s original request that Maximos interpret all the passages “according to the principles of anagogical contemplation” (Intro. 1.2.3).
+
 [^39]: *Amb.* 20.3 (DOML 1:423); on the “thickness of words and bodies,” see below, Qu. 31.2.
 
 *[p. 15]* ^pg36
@@ -170,6 +197,7 @@ This hermeneutical framework is employed systematically throughout the *Response
 Questions 38–41, for example, are focused on the symbolism of biblical numbers, such as the seven brothers in the Gospel of Matthew (Qu. 38), the six jars of water at the wedding in Cana (Qu. 40), and the five husbands of the Samaritan woman (Qu. 41). These Neo-Pythagorean exercises in the theology of arithmetic—a mode of analysis in which the meaning of 
 
 [^40]: A process Maximos summarizes in Qu. 32.3.
+
 [^41]: For discussion, see Jeremy Wallace, “Virtue and Knowledge as the Hermeneutical Key for Unlocking Maximus the Confessor’s *Quaestiones ad Thalassium*” (Ph.D. diss., Princeton Theological Seminary, 2013), 38–50.
 
 *[p. 16]* ^pg37
@@ -177,8 +205,11 @@ Questions 38–41, for example, are focused on the symbolism of biblical numbers
 physical and literary phenomena is grasped on the level of numerical units and their combinations—rank among the most elaborate exegetical treatments of numbers in all of Greek patristic literature.[^42] Another thematic sequence of Questions (Qu. 58–61) constitutes a sustained analysis of the nature and unity of human consciousness, addressing the tension between the intellect and the senses, different modes and objects of cognitive awareness, and the interaction of human reason and divine grace.[^43] Two additional series of Questions (Qu. 48–53 and Qu. 54–56) are focused respectively on 2 Chronicles and 1 Esdras, and together comprise about 25 percent of the entire work.[^44] In the first of these two series, which consists of six Questions, Maximos begins with an elaborate prayer to the Word, asking for divine assistance in the interpretation of the passages at hand (Qu. 48.2). Many pages later, he concludes his remarks with a short doxology (Qu 53.8). This is the only place in his writings where Maximos begins with a prayer to the Word, or concludes a response with a doxology, a framing device that gives the activity of scriptural interpretation a distinctly liturgical and indeed sacramental character.[^45]
 
 [^42]: Qu. 55 also deals extensively with number symbolism; cf. *Amb.* 66–67 (DOML 2:283–303); and *QD*. 17, 36, 39, 49, 56, 80, 155, 176, 191, 193 (CCSG 10). For commentary, see Hans Urs von Balthasar, “Number and What is Beyond,” in idem, *Cosmic Liturgy: The Universe According to Maximus the Confessor,* trans. Brian E. Daley (San Francisco: Ignatius Press, 2003), 109–14; Blowers, “Arithmology,” in idem, *Exegesis and Spiritual Pedagogy,* 211–19; Kattan, *Verleiblichung und Synergie,* 246–48 (cited below, n. 47); and Peter Van Deun, “La symbolique des nombres dans l’oeuvre de Maxime le Confesseur,” *Byzantinoslavica* 53 (1992): 237–42. See also Dominic O’Meara, *Pythagoras Revived:* *Mathematics and Philosophy in Late Antiquity* (Oxford: Clarendon Press, 1989), and Joel Kalvesmaki, *The Theology of Arithmetic: Number Symbolism in Platonism and Early Christianity* (Washington, DC: Center for Hellenic Studies, 2013), although these two studies do not consider the work of Maximos. The “theology of arithmetic” constitutes one of Maximos’s more formidable hermeneutical tools and awaits detailed study by scholars.
+
 [^43]: These Questions constitute a “mixed” group, since the thematic focus unfolds in a series of questions on 1 Peter.
+
 [^44]: An additional thematic cluster, Qu. 62–63 (on Zechariah), also receives extensive treatment.
+
 [^45]: This liturgical framing suggests that these thematic and biblical clusters may have been assembled from pre-existing notes or partial commentaries that Maximos subsequently reworked for inclusion in the *Responses*. As such they would reflect sustained study of the biblical books in question (and not simply glosses on random, isolated passages), and may perhaps also be written echoes of Maximos’s exegetically based teaching, offered to his immediate disciples and fellow monks.
 
 *[p. 17]* ^pg38
@@ -186,8 +217,11 @@ physical and literary phenomena is grasped on the level of numerical units and t
 Finally, while the theological topics treated in the *Responses* are so rich as to defy simple summary, there are five Christological Questions that merit attention.[^46] These Questions are critical for an integral understanding of Maximos’s hermeneutics, and are his most important Christological statements prior to his involvement in the controversy over Christ’s natural wills and energies.[^47] For Maximos, the incarnate Word is at the center of the twofold purpose of the *Responses,* which is concerned to liberate the spirit from the constraints of the letter, and the mind from its enslavement to the passions. The relationship of letter and spirit, and the values associated with these terms, had long been understood as analogous to the human body and soul.[^48] Maximos likewise uses this analogy,[^49] but he also sees it as being grounded in the dual natures of the incarnate 
 
 [^46]: I.e., Qu. 21; Qu. 42; and Qu. 60–62. See also Qu. 18–19; and Qu. 22, which also make important Christological points.
+
 [^47]: Paul Blowers, *On the Cosmic Mystery of Jesus Christ: Selected Writings from St Maximus the Confessor* (Crestwood: St Vladimir’s Seminary Press, 2003), 33, describes Qu. 60 as an “uncontested *locus classicus* in the Confessor’s writings.” On the relationship between Maximos’s Christology and biblical exegesis, see the detailed study by Assad Elias Kattan, *Verleiblichung und Synergie: Grundzüge der Bibelhermeneutik bei Maximus Confessor* (Leiden: Brill, 2003), esp. 125–272; and idem, “The Christological Dimension of Maximus Confessor’s Biblical Hermeneutics,” *SP* 42 (2006): 169–74.
+
 [^48]: See, for example, Origen, *On First Principles* 4.2.4, where the “threefold” division of meaning in Scripture (literal, moral, and spiritual) is analogous to human “flesh, soul, and spirit” (SC 268:310).
+
 [^49]: Cf. *Cap. theol.* 1.91: “We say that the whole holy Scripture is divided into flesh and spirit, as if it were a spiritual human being. For he who says that the literal word is flesh, but that its inner meaning is spirit, or soul, will not miss the mark of truth” (PG 91:1120D–1121A); ibid., 1.97, where the incarnate Word in Scripture is said to have “two forms: one that is visible and one that is hidden” (PG 91:1121D); and *Myst.* 6, where Maximos, reporting on the teaching of the anonymous elder, notes: “Holy Scripture may be understood as a spiritual human being, with the Old Testament as the body, and the New Testament as soul, spirit, and intellect. Moreover, the entire historical letter of Scripture is a body, while the meaning of the letter is the soul” (CCSG
 
 *[p. 18]* ^pg39
@@ -195,8 +229,11 @@ Finally, while the theological topics treated in the *Responses* are so rich as 
 Word, who is at once visible and invisible, human and divine.[^50] These two natures, moreover, being hypostatically united in the person of the Word, mutually permeate each other without confusion, so that the invisible divinity is revealed to human eyes only insofar as it is concealed in the veil of the flesh.[^51] To perceive the spirit in the letter is analogous to perceiving the divinity concealed within the flesh of the Word. To fail to perceive the depth of the spirit, on the other hand, and to be fixated on surface appearances, were the principal effects of the passions, which obstruct spiritual vision on every level of human awareness. By assuming the natural, blameless human passions and restoring them to their proper use,[^52] the incarnate Word offers those who become members of his mystical body the possibility of freedom from the passions. Through the Incarnation, human passibility, which is essentially creaturely passivity, becomes the condition for the possibility of divinization.[^53]
 
 [^50]: Cf. Intro. 1.2.8; Qu. 35; Qu. 50.2; *QD.* 142 (CCSG 10:101, lines 13–14); *Amb.* 10.28–34 (DOML 1:191–203); *Amb.* 47–48 (DOML 2:207–23).
+
 [^51]: Cf. *Cap*. 1.9: “This is because in Himself, according to His essence, God always remains a mystery. He expresses His natural hiddenness to the same degree that He makes it the more hidden through the revelation” (PG 90:1181C); *Amb*. 5.5 (DOML 1:37), *Amb.* 10.32–33 (DOML 1:197–201); and *Amb.* 33.2 (DOML 2:63–65). On the notion of revelation as concealment, see Nicholas \[Maximos\] Constas, “Symeon of Thessaloniki and the Theology of the Icon Screen,” in *Thresholds of the Sacred: Architectural, Art Historical, Liturgical, and Theological Perspectives on Religious Screens, East and West,* ed. Sharon Gerstel (Washington, DC: Dumbarton Oaks, 2006), 163–83.
+
 [^52]: The Word’s assumption of these passions is discussed in Qu. 21 and 42; cf. Qu. 61.10; Qu. 55.7; and *Amb.* 4 (DOML 1:21–31). The natural, blameless passions, which human beings have no choice but to endure patiently, become in the incarnate Word freely chosen acts of will, as Maximos explains in *Pyrr*.: “These natural things of the will are present in Christ, but not exactly in the same way as they are in us. He truly experienced hunger and thirst, not in a mode similar to ours, but in a mode that surpasses us, in other words, voluntarily” (PG 91:297D); cf. John of Damascus, *On the Orthodox Faith* 64.3.20: “Nothing is perceived in Christ as taking place by necessity, but rather all things are voluntary, for He willed to be hungry, He willed to be thirsty, He willed to fear death, and He willed to die” (ed. Boniface Kotter, *Die Schriften des Johannes von Damaskos,* vol. 2 \[Berlin: De Gruyter, 1973\]*,* 163, lines 25–27).
+
 [^53]: Cf. *Amb.* 7.6–12 (DOML 1:81–93); and *Amb.* 20.2–3 (DOML 1:409–13). For discussion, see Paul M. Blowers, “The Passion of Jesus Christ in Maximus the Confessor: A Reconsideration,” *SP* 37 (2001): 370–74; and Adam Cooper, *The Body in St Maximus the Confessor: Holy Flesh, Wholly Deified* (Oxford: Oxford University Press, 2005), 144–50; 241–50.
 
 *[p. 19]* ^pg40
@@ -212,6 +249,7 @@ These sequences of Questions provide some of the major structural supports for t
 To expect a work like the *Responses to Thalassios* to construct a system, and to exhibit its structure on the surface, is to ignore the practical and discursive context in which and for which the work was written. Addressing the false assumptions at the basis of such expectations, Pierre Hadot noted: “We often have the impression that ancient authors wrote badly, that the sequence of their ideas lacks coherence and connection. But it is precisely because the true figure escapes us that we do not perceive the form that renders all the details necessary: once discovered, the hidden form will make necessary all of the details that seemed arbitrary or without importance.”[^55] According to Hadot, the “hidden form” is the living praxis in which the work was produced, the knowledge of which transforms a seemingly disconnected series of texts into a rigorously structured work. The organizing form, in other words, is not to be found immediately in the work’s content, but in the surrounding armature of lived experience. An essential element of this experience was the oral transmission of doctrine from master to disciple, for which written texts were but material supports for the spoken word, comprising intermediary moments between two dialogical events. The written *logos* as such was neither the focus nor the goal of such a life, but rather the living *logos*, for which written texts were but preparations and complements: mnemonic devices ancillary to the concrete and practical experience of dialogue.[^56] A work such as the *Responses,* then, is a written echo or icon of its dialogical archetype, which is why it is addressed to a friend. The dimension of the interlocutor is always present within it, and it resonates with the halting reticence and vagrant wanderings of its originary context. The writer is in reality
 
 [^55]: Pierre Hadot, “Patristique latine,” in *Problèmes et méthodes d’histoire des religions. Mélanges publiés par la Section des sciences religieuses à l’occasion du centenaire de l’École pratique des hautes études* (Paris: Presses universitaires de France, 1968), 216–17, cited in Arnold L. Davidson, “Introduction: Pierre Hadot and the Spiritual Phenomenon of Ancient Philosophy,” in Pierre Hadot, *Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault,* trans. Michael Chase (Oxford: Blackwell, 1995), 8.
+
 [^56]: Davidson, “Introduction,” 19–20; cf. John Sallis, *Being and Logos: Reading the Platonic Dialogues* (Bloomington and Indianapolis: Indiana University Press, 1996), 1–22.
 
 *[p. 21]* ^pg42
@@ -225,6 +263,7 @@ Though dynamic and open-ended, this living praxis is itself the instantiation of
 Human life derives its origin and meaning from the Word (*Logos*), who fills the mind (*logos*) and the senses with rationality and purpose. The fall was a complex event brought about by a combination of demonic suggestion, an error in human judgment, and the misuse of free will. The result was a shift of spiritual energy to a lower, biological plane of animal life: a fallen mode of existence that introduced the passions into human consciousness.[^58] The corruption of rationality (*logos*) in turn 
 
 [^57]: For an excellent survey of these doctrinal themes, see Jean-Claude Larchet, “La pensée de saint Maxime le Confesseur dans les ‘Questions à Thalassios,’” *Le Messager Orthodoxe* 113 (1990): 3–41; reprinted with minor modifications in idem, “L’Enseignement spirituel des *Questions à Thalassios,*” in *Maxime le Confesseur, Questions à Thalassios*, SC 529 (Paris: Les Éditions du Cerf, 2010), 26–81.
+
 [^58]: Qu.1.2: “The passions were introduced on account of the fall from perfection, emerging in the more irrational part of human nature, and it was through them that, at the very moment of the transgression, the likeness to irrational animals appeared in man instead of the divine image \[[[Torah 01 - Bereshit#^1-26|Gn 1.26]]\].” See also Intro. 1.2.13; and *Amb.* 10.60 (DOML 1:247).
 
 *[p. 22]* ^pg43
@@ -234,8 +273,11 @@ corrupted the whole of human nature.[^59] It further introduced a radical invers
 The disordered movements of the passions, to the extent that they impel the mind to attach itself to the material surface of the world, create the conditions for a profound hermeneutical crisis. Fixated on surfaces now rendered opaque to the divine presence, the passions impede insight into the intelligible structure of phenomena and their inner unity.[^62] The passions 
 
 [^59]: Qu. 42.2: “Adam’s natural power of free choice was corrupted first, and corrupted nature together with itself. . . . Thus the fall of free choice from the good toward evil became the first and blameworthy sin. The second sin, which came about as a result of the first, was the blameless alteration of nature from incorruptibility to corruption.”
+
 [^60]: These are the major themes of Intro. 1.2.11–22, which recur in various forms throughout the *Responses.*
+
 [^61]: Cf. 1.2.9–10; and Questions 4.2–3; 14.2; 21.4; 25.8; 26.10, 12; 38.3–4; 49.6, 9–10; 50.11; 52.9, 13; 54.11, 25; 56.5–8; 64.23; and 65.32. Origen, *On First Principles,* 3.2.1–2, argues that the whole of Scripture testifies to the unrelenting assault of demons against humanity, beginning with the devil’s deception of Eve ([[Torah 01 - Bereshit#^3-1|Gn 3.1–6]]), through Judas’s possession by Satan ( [[John 13#^13-2|Jn 13.2]]), to Christ’s crucifixion by the “princes of this world” ([[1 Corinthians 02#^2-6|1 Cor 2.6–8]]), and Paul’s declaration that “our struggle is not against flesh and blood, but against the rulers of this world’s darkness, against the spiritual armies of wickedness in the heavenly places \[[[Ephesians 06#^6-12|Eph 6.12]]\]” (SC 268:152–63); cf. Lars Thunberg, *Microcosm and Mediator: The Theological Anthropology of Maximus the Confessor* (Chicago: Open Court, 1995)*,* 154–56; John Gavin, *They Are Like Angels in Heaven: Angelology and Anthropology in the Thought of Maximus the Confessor* (Rome: Institutum Patristicum Augustinianum, 2009), 127–31; and Sotirios Kollias, “The Devil, Demons, and their Work According to St. Maximus the Confessor” (Ph.D. diss., University of Athens, 2003).
+
 [^62]: Cf. Qu. 49.4: “The passions are of a nature to be created around the surface appearances of visible things, and the activity of reason within us is made to cease”; Qu. 58.9: “If the intellect becomes ensnared by the surface appearances of visible realities . . . it falls away from realities that by nature are intelligible and seizes corporeal realities contrary to nature”; Qu. 59.2: “All those with a share in human nature had their power of intellect and reason narrowed to the surface appearances of sensible objects, and had no conception of any reality beyond what could be perceived by the senses.”
 
 *[p. 23]* ^pg44
@@ -245,9 +287,13 @@ are interested in pleasure, not truth, and a mind dominated by the passions perc
 The mind’s fixation on surface appearances and its enslavement to irrational sensations lock the human person in a relentless, inescapable cycle of pleasure and pain.[^66] Whereas some aspects of the sensible world are pleasing to the body, others are not, yet the two experiences are inseparable.[^67] Seeking the pleasures of the body, moreover, while fleeing from whatever causes pain, only further entraps the person within an endless series of empty and isolated sensations. Reduced to the finite strictures of hankering, irrational wants, human desire for the infinite can never be satisfied, but causes only endless frustration, pain, and psychological fragmentation. At 
 
 [^63]: *Cap. theol.* 2.75: “Understandings of Scripture that are limited solely to the literal meaning, and impassioned contemplations of the sensible world that rely exclusively on sense-perception, are indeed scales blinding the soul’s visionary faculty and preventing passage to the pure Word of truth” (PG 91:1160C).
+
 [^64]: Forcefully argued in Qu. 65.
+
 [^65]: Cf. Qu. 55.7; Qu. 61.10; Qu. 64.11; and *Amb*. 10.32 (DOML 1:197–99). Both Origen (SC 375:82–85) and Gregory of Nyssa (GNO 6:14–15) emphasize that the Song of Songs cannot be understood by a person under the influence of the passions, because its spiritual meanings are available only to those who have been purified in mind and spirit.
+
 [^66]: Intro. 1.2.14–19; cf. Qu. 58.
+
 [^67]: Ibid., 1.2.17–19; cf. Qu. 43.
 
 *[p. 24]* ^pg45
@@ -259,10 +305,15 @@ The orientation to sensory phenomena likewise distorts the dominant passions of 
 The possibility for fallen human beings to be delivered from bondage to irrational sensations and the vicious cycle of pleasure and pain is offered by the Word made flesh, who is the new Adam. The incarnate Word freely offers his own victory over the passions to believers,[^73] who must nonetheless undertake
 
 [^68]: Intro. 1.2.14.
+
 [^69]: Cf. Intro. 1.2.16; Qu. 16 2; Qu. 51.20; Qu. 53.2; Qu. 55.18–19; Qu. 65.29; *Amb.* 6.3 (DOML 1:7173); *Amb.* 10.60 (DOML 1:247–49); *Amb.* 107, 111, 114–15, 118 (DOML 1:323, 327, 333–35, 339–43); *Amb.* 21.9 (DOML 1: 433– 35); *Amb.* 45.3 (DOML 2:195–97).
+
 [^70]: Prol. 1.1.3, to cite only the first of many examples.
+
 [^71]: Cf. Intro. 1.2.9; Qu. 21.2; Qu. 55.7; Qu. 61.10; *Amb.* 4.4, 6 (DOML 1:23– 25, 27).
+
 [^72]: Qu. 1.3, the first of many examples.
+
 [^73]: Cf. Qu. 21.4: “Christ clearly won victory over them (i.e., the demons) not for His sake but for ours, because it was for our sake that He became man and, in His goodness, offered to us the whole of what He accomplished”; Qu. 21.6: “Christ considered what He accomplished for us as something that He, in His love for humanity, was accountable for—or rather, in His goodness, He reckoned to us the glory of the accomplishment”; Qu. 49.10; Qu. 52.6; and Qu. 54.6.
 
 *[p. 25]* ^pg46
@@ -274,9 +325,13 @@ the struggle of asceticism in order to break the hold of sensation over reason a
 This is not the place to present a detailed account of progress in the spiritual life, but it will be important to outline its three principal stages,[^78] forms and figures of which Maximos finds on 
 
 [^74]: The rationale is given in *Pyrr.*: “Asceticism and all the toils that go with it were established in order to ward off deception, which intruded itself through sensory perception. Virtues are not placed within us from outside, but inhere within us from creation. Thus when deception is completely expelled, the soul immediately exhibits the splendor of its natural virtue . . . just as when rust is removed, the natural clarity and sheen of iron is manifest” (PG 91:309C).
+
 [^75]: This was the divine intention for Adam before the fall; cf. Intro. 1.2.18: “Having already become God through divinization, he might have been able without fear of harm to examine with God the creations of God, and to acquire knowledge of them, not as man but as God, having by grace the very same wise and informed knowledge of beings that God has, on account of the divinizing transformation of his intellect and powers of perception”; and *Amb*. 10.60: “The fallen Adam was unable, by means of sense perception, to make his own (as one must not) the things of God without God, and before God, and not according to God, which is impossible” (DOML 1:247–49).
+
 [^76]: Qu. 6; *Amb.* 42 (DOML 2:123–87); cf. Jean-Claude Larchet, “Le Baptême selon Maxime le Confesseur,” *Revue des sciences religieuses* 65 (1991): 51– 70; and Cooper, *The Body in St Maximus,* 218–27; 243–44.
+
 [^77]: Cf. Qu. 6.2: “What is lacking, therefore, in each of us who is still able to sin, is the unequivocal desire to surrender our whole selves, in the disposition of our will, to the Spirit.”
+
 [^78]: The classic three stages of spiritual progress were established by Origen, *Commentary on the Song of Songs* 3.1–16 (SC 375:128–39); subsequently expanded and systematized by Evagrios (cf. Jeremy Driscoll, *Steps to Spiritual Perfection: Studies on Spiritual Progress in Evagrius Ponticus* \[Mahwah, NJ: Newman Press, 2005\], 11–37); and later modified by the Confessor; cf. Maximos Constas, “Nothing is Greater than Divine Love: Evagrios of Pontos, Maximos the Confessor, and the *Philokalia,”* in *Rightly Dividing the Word of Truth: A Volume in Honour of Metropolitan Kallistos Ware,* ed. Graham Speake (Oxford: Peter Lang, 2016), 57–74. For a superb modern account of these three stages, see Dumitru Staniloae, *Orthodox Spirituality,* trans. Jerome Newville and Otilia Kloos (South Canaan, PA: St Tikhon’s Seminary Press, 2002).
 
 *[p. 26]* ^pg47
@@ -284,6 +339,7 @@ This is not the place to present a detailed account of progress in the spiritual
 virtually every page of sacred Scripture.[^79] The first stage, which the Confessor typically calls “ascetic practice” or “practical philosophy,” encompasses the keeping of the commandments, the purification of the passions, and the acquisition of the virtues. The aim of this stage is not the suppression of physical sensations or sense perception, but rather the purification and restoration of their proper activities, removing from them the distorting lenses of pleasure and pain. The life of virtue does not place one in opposition to creation. Instead it is a return to a way of life according to nature, freeing the mind from its passionate attachment to the world, which it had exploited and abused for selfish gratification.[^80] Through the practice of asceticism, human beings learn to use the world solely for their natural needs and for the restoration through love of ties with their neighbors—which is the restoration and reunification of 
 
 [^79]: Cf. Evagrios, *Gnostikos* 18: “It is necessary to search for allegorical and literal passages relevant to ascetic practice, natural contemplation, or theology. If the passage is relevant to ascetic practice, it is necessary to determine whether it concerns anger, desire, or the intellect and its movements. If it is relevant to natural contemplation, it is necessary to know which doctrine of nature it concerns. And if theology, it is necessary to determine if it concerns the Trinity or the Monad” (SC 356:116–18).
+
 [^80]: Cf. Qu. 51.18: “We have not been commanded to fight against the sense-perceptible creations that are outside of us, but rather to wage perpetual war within ourselves against the ‘dishonorable passions’ \[[[Romans 01#^1-26|Rom 1.26]]\]”; Qu. 58.2: “A passion of a natural power . . . is the mode according to which natural activity is misused, and such misuse of natural activity is the movement of our natural power toward that which is unnatural and does not exist according to nature”; and *Cap. theol.* 2.41: “Those who animal-like live solely according to the senses make the Word flesh for themselves in a dangerous way: they misuse God’s creation in order to indulge their passions. They do not understand the principle of that wisdom which is revealed to all: that we should know and praise God through His creation” (PG 91:1144B).
 
 *[p. 27]* ^pg48
@@ -293,8 +349,11 @@ human nature itself.[^81] In this way, the human person is raised from a state c
 From this first stage—which is human nature’s initial liberation from the benighted prison of sensation to the light of reason and the Word—the person rises to the second level, which is the vision of divine principles (*logoi*) embedded within creation and Scripture. Maximos distinguishes this activity into two categories or moments: the contemplation of visible and of intelligible realities, applied to both nature and Scripture as its two proper fields of vision.[^83] At this stage the Word no longer works merely inwardly or invisibly through the virtues, but reveals himself through the increasing transparency of the natural world and the world of the sacred text. As one enters more deeply into these fields, the bond between human reason and the Word becomes more pronounced and thus stronger. This level of spiritual vision is called “natural contemplation,” not because it takes place exclusively through the natural power of human knowledge, but because its object is typically the *logoi* of beings, and because it presupposes a human nature freed from the passions and capable of exercising its contemplative faculty.[^84] This is not knowledge arrived at through a process of 
 
 [^81]: Qu. 29.3; Qu. 62.6; Qu. 64.32; and *Ep.* 2 (PG 91:392–408).
+
 [^82]: Cf. *Amb.* 7.21: “The essence of all the virtues is our Lord, Jesus Christ . . . and anyone who participates in virtue participates in God” (DOML 1:103); and *Pyrr.* (PG 91:309B–311A).
+
 [^83]: Cf. Qu. 10.7, where Maximos distinguishes those who through natural contemplation “attained understanding of God’s judgments,” from those who “received immaterial knowledge of intelligible realities free of any sensory image.” Maximos can also speak of a distinct “scriptural contemplation” (γραφ κὴ θεωρ α) or “scriptural mystagogy” (γραφ κὴ υσταγωγ α), although only very rarely, and not in the *Responses;* cf. *Amb.* 37.5 (DOML 2:79); and the lemma (no. 30) at *Amb.*10.63 (DOML 1:253–54), which is probably the work of a later scribe or editor.
+
 [^84]: This is why Maximos almost always qualifies the term as “natural contemplation *in the spirit*” (e.g., Qu. 27.5; 55.27; 65.21, etc.). Qu. 49 is one of Maximos’s most important and sustained treatments of natural contemplation, emphasizing in particular the inherent dangers of the practice; cf. Qu. 55.27, where similar warnings are issued. Qu. 51 offers a more positive assessment; see also Questions 27.5; 47.2; 65.9–10, 16–17, and 19–21. See also the discussions in Walther Völker, *Maximus Confessor als Meister des geistlichen Lebens* (Wiesbaden: F. Steiner, 1965), 296–318; and Michael Harrington, “Creation and Natural Contemplation in Maximus the Confessor’s *Ambiguum* 10.19,” in *Divine Creation in Ancient, Medieval, and Early Modern Thought: Essays Presented to the Rev. Dr. Robert D. Crouse,* ed. Michael Treschow et al. (Leiden: Brill, 2007), 191–212.
 
 *[p. 28]* ^pg49
@@ -304,8 +363,11 @@ deductive reasoning, but a simple, direct insight, representing a new elevation 
 Finally, at the third and highest stage of spiritual progress, the human person is raised beyond its own proper limits—beyond all sensory, cognitive, and rational abilities—being completely filled by divine and uncreated energy, becoming God by grace.[^86] This stage is differentiated into two moments, the first called “theology” and the second called “mystical theology” or “theological mystagogy.” In the former, through analogies and concepts the mind comes to know God as the cause of beings.[^87] In the latter, the mind knows God without the mediation of created beings or concepts.[^88] This takes place after all the effort and activity of human nature ceases, having reached the limit of its natural potential. This is a kind of mystical death, the “Sabbath” of the self, in which the mind no longer moves 
 
 [^85]: Cf. *Amb.* 45.5: “Adam possessed the untainted principles of the virtues, and had no need to rely on ideas drawn discursively from sensible objects in order to understand divine realities, but had solely the simple putting forth (προβολή) of the unitary, simple, all-embracing virtue and knowledge of things sequent to God, which needs only to actualize its own movement in order to be voluntarily manifested. Thus those who wish to raise themselves up from the forefather’s fall begin by completely negating the passions . . . and, peering beyond natural contemplation, they catch a glimpse of immaterial knowledge, which has absolutely no form susceptible to sense perception or any meaning that can be contained by spoken words” (DOML 2:199–201).
+
 [^86]: Qu. 59.8–11; *Amb.* 20 (DOML 1:409–19).
+
 [^87]: Qu. 13.2–3; 60.5.
+
 [^88]: Qu. 3.3; 25.5–6; 40.3; 55.28; 64.35; 65.28.
 
 *[p. 29]* ^pg50
@@ -319,7 +381,9 @@ Even at the highest stage of divinization, the Word does not cease to possess a 
 In the classical philosophical tradition, the contemplation of nature was based on the belief that to everything that is manifest, outward, and material, there corresponds something hidden, inward, and spiritual. That the visible world was the reflection of an invisible world implied that visible objects were physical signs or symbols pointing beyond themselves to intelligible realities. No element or aspect of the cosmos, no matter how seemingly insignificant, was without a corresponding counterpart in the realm of the spirit. Because physical objects contained intelligible meanings that were “legible,” as it were, by human beings, it seemed self-evident that such objects were constituted by a kind of code or script, so that the structure of the material world was 
 
 [^89]: Qu. 65.20; *Cap. theol.* 1.36–41; 2.64–65 (PG 90:1097AD; 1152D–1153A); *Amb.* 65.2 (DOML 2:277–79); and *QD.* 10; 113 (CCSG 10:9; 83–84).
+
 [^90]: Cf. Prol. 1.1.1; and Intro. 1.2.22.
+
 [^91]: Cf. *Amb.* 10.52: “On that summit . . . \[the spiritual Moses\] will be made worthy to see and hear in his intellect the ineffable and supernatural divine fire that exists, as if in a burning bush, within the essence of things, that is, God the Word, who shone forth in these latter days from the holy Virgin and spoke to us through the flesh” (DOML 1:233); and Staniloae, *Orthodox Spirituality,* 374.
 
 *[p. 30]* ^pg51
@@ -331,7 +395,9 @@ closely correlated with the structure of language and speech. This analogy was p
 That idea that the universe was a cosmic “book” arose naturally in such a context and was adopted by late-antique Christian writers, especially those in the Alexandrian tradition. Evagrios, for example, reports an event from the life of St. Antony, in which the saint invokes the “book of nature” in a debate with Greek philosophers: “My book, O philosophers, is the nature of things that have come into being, and it is always at hand whenever I wish to read the words (*logoi*) of God.”[^93] Authorization for the idea of a cosmic book was also found in various passages of Scripture.[^94] But the analogy was not typically extended to 
 
 [^92]: See, for example, L. G. Westerink, ed., *Anonymous Prolegomenon to Platonic Philosophy* 2 (Amsterdam: North-Holland, 1962), 16: “Formless matter is analogous to the 24 letters of the alphabet, bodies without qualities to syllables, and the four elements to words”; Robert Lamberton, *Homer the Theologian: Neoplatonist Allegorical Reading and the Growth of the Epic Tradition* (Berkeley: University of California Press, 1989), 76–77; Timothy Crowley, “On the Use of Stoicheion in the Sense of ‘Element,’” *Oxford Studies in Ancient Philosophy* 29 (2005): 367–94; and the bibliography cited below, at Qu. 55.13.
+
 [^93]: Evagrios, *Praktikos* 92 (SC 171:694); cf. Athanasios, *Life of Antony* 73 (SC 400:322). See also Evagrios, *Letter to Melania,* trans. A. M. Casiday, *Evagrius Ponticus* (London: Routledge, 2006), 64–77 (“The Great Letter”), for an extended discussion of creation as composed of symbolic “letters.”
+
 [^94]: Cf. Origen, *Philokalia* 23.15: “Like a volume of prophecy, the heavens as a whole, being one of God’s books \[cf. Is 34.4\], may contain the future, and this is how the words of Jacob may be understood: ‘For I read in the pages of the sky what shall befall you and your sons’”; ibid., 23.20: “For just as in our books things are written so that we might know them, it is possible that the writings of the heavens are read by angels so that they might rejoice in their knowledge” (SC 400:180–82; 200–202); and Evagrios, *On the Psalms:* “The ‘book’ of God (Ps 138.16) is the contemplation of corporeal and incorporeal beings. In this book are written the principles of providence and judgment, and through this book God is known as creator, wise, provider, and judge . . . as wise on account of the words (λόγο ) stored up in this book” (PG 12:1661CD).
 
 *[p. 31]* ^pg52
@@ -341,8 +407,11 @@ writings or texts, sacred or otherwise, which were not said to constitute a “w
 Maximos, however, had no such reservations, and took the analogy to its logical conclusions, indeed much further than any of his predecessors and in a wholly new direction.[^96] For the Confessor, it is not merely the cosmos that is fully a sacred text, but the text of Scripture is fully “another cosmos” in such a way that the two are equal and interconnected manifestations of the divine Word’s self-disclosure.[^97] The presence of the Word in these complementary “texts” embodies the divine act of speech, a palpable (and legible) objectification of the transcendent Word under the conditions of multiplicity, place, and time. These objectifications are analogous to the stabilization of spoken language in the form of written script, since each is a “spelling out” of the Word, who makes himself “legible” by “inscribing” himself in the multi-layered parchments of creation, Scripture, and the human nature he assumed when he became flesh.[^98] It was thus that the “Word became thick,” according to Gregory Nazianzus, a phrase that Maximos understood as referring
 
 [^95]: Notably Plato, *Phaedrus* 275d–278a, to which the *Anonymous Prolegomenon to Platonic Philosophy* offers a notable exception: “Plato used the literary form because the dialogue is a kind of cosmos. For in the same way as the dialogue has different personages each speaking in character, so does the universe comprise existences of various natures expressing themselves in various ways . . . and thus the dialogue is a cosmos and the cosmos a dialogue” (ed. Westerink, 28, 30).
+
 [^96]: The idea, if not the specific analogy, is found in Dionysios, for whom the “intelligible names” of Scripture and the “sensible forms” of nature are two continuous sets of symbols that cannot be sharply differentiated; cf. Eric D. Perl, *Theophany: The Neoplatonic Philosophy of Dionysius the Areopagite* (Albany: State University of New York Press, 2007), 101–3.
+
 [^97]: *Amb.* 10.30–31 (DOML 1:195–97).
+
 [^98]: *Amb.* 10.31 (DOML 1:195); cf. Origen, *Scholia on Matthew*: “In the same way that the spoken word is by nature impalpable and invisible, but when it is written in a book, and acquires a body, as it were, then it is both seen and touched, so too the fleshless and incorporeal Word of God, who according to His divinity is neither seen nor written, but because He was incarnate, can be both seen and written” (PG 17 289).
 
 *[p. 32]* ^pg53
@@ -356,8 +425,11 @@ These unified manifestations of the Word—in creation, Scripture, and the Incar
 According to the Gospel of Matthew, Christ was “transfigured” in the presence of Peter, James, and John, so that his face “shone like the sun,” and his “garments became white like light.”[^102] Such a vision was possible because the disciples had “crossed over from flesh to the spirit,” having their power of “sense perception purified and supplanted by the activity of the 
 
 [^99]: *Amb.* 33.1–2 (DOML 2:63–65), citing Gregory Nazianzus, *Or.* 38.2 (SC 358:106, lines 16–17); cf. idem, *Letter* 101.49 (SC 208:56, lines 15–18); and below, Qu. 31.2.
+
 [^100]: *Amb.* 10.28–34 (DOML 1:191–203). Maximos also comments on the Transfiguration in *QD.* 191–92 (CCSG 10:132–35); and *Cap. theol.* 2.13–16 (PG 90:1129D–1132C).
+
 [^101]: Blowers, *Exegesis and Spiritual Pedagogy,* 102–12; idem, *Maximus the Confessor,* 79–86 (“Transfiguration as Paradigm”); and idem, “The Transfiguration of Jesus Christ as ‘Saturated Phenomenon’ and as a Key to the Dynamics of Biblical Revelation in Saint Maximus the Confessor,” in *What is the Bible?* *The Patristic Doctrine of Scripture* (Minneapolis: Fortress Press, 2016), 83–101.
+
 [^102]: In general, Maximos follows the account in [[Matthew 17#^17-2|Mt 17.2]]. Mk 9.3 notes only that Jesus was “transfigured” and that his garments became “glistening, intensely white,” while [[Luke 09#^9-29|Lk 9.29]] states that Jesus’s “countenance was altered,” and his “raiment shone like lightning.”
 
 *[p. 33]* ^pg54
@@ -367,8 +439,11 @@ Holy Spirit,” who “removed the veils of the passions” that had obscured th
 With their minds cleansed of the passions by the Holy Spirit, and having been raised up beyond the human aspect of Christ to the glory of his divinity, the three disciples recognize that the “dazzling white garments” are “symbols of both Scripture and creation.”[^105] As symbols of the words of Scripture, the garments have now become “clear and transparent,” no longer obscured by any “dark riddles or symbolic shadows,” as the disciples apprehend the presence of the incarnate Word throughout the whole of Scripture.[^106] In the light of the Transfiguration, they see that the true content and meaning of Scripture is the presence of the Word, and that the words of Scripture in turn 
 
 [^103]: *Amb.* 10.28 (DOML 1:191); cf. *Amb.* 10.64 (DOML 1:255–57). Maximos suggests that this was a special dispensation granted to the disciples, who had not yet completed the work of spiritual growth and progress. See Blowers, *Maximus the Confessor,* 82: “Christ’s garments are rendered translucent not by human perception but by the underlying divinity of the Logos . . . the focus is less on the unique visionary experience of Peter, James, and John than on the factitive nature of the Transfiguration.”
+
 [^104]: *Amb.* 10.29 (DOML 1:193); cf. *Cap. theol.* 2.39 (PG 91:1141D–1144A).
+
 [^105]: That the shining garments of Christ at the Transfiguration were a symbol of the words of Scripture is an idea found in Origen, *Commentary on Matthew* 17.1–9 (GCS 10:150–70), a passage that was excerpted in the Cappadocian *Philokalia* (SC 302:436–39); cf. Origen, *Against Celsus* 6.75–77 (SC 147:366–74). Note that Maximos understands “symbol” in the strong, Dionysian sense; on which, see Perl, *Theophany,* 101–9 (“Symbolism”).
+
 [^106]: Cf. *Amb*. 10.65, where the identification of the incarnate Word with Scripture is highlighted by the presence of Moses and Elijah, symbolizing the “teaching of the law and the prophets, which must always be present together with God the Word, for they are from Him and speak of Him, and have been established and built around Him” (DOML 1:257).
 
 *[p. 34]* ^pg55
@@ -378,7 +453,9 @@ reveal and illumine that presence. As symbols of the outward forms of creation, 
 Maximos, continuing his interpretation of the Transfiguration, enters into greater detail regarding the two books of nature and Scripture. He states that creation is a “book, whose letters and syllables are individual physical phenomena,” and in “whose words the Word has ineffably inscribed Himself, making Himself legible through the combination of multiple impressions 
 
 [^107]: *Amb.* 10.29 (DOML 1:193); cf. Qu. 4.3, where the demons are said to divide Christ’s garments into four parts (cf. [[John 19#^19-23|Jn 19.23]]), symbolizing the four elements of creation, “contriving that we, being ignorant of creation’s divine principles, should see the world according to sense perception and surrender to the passions.”
+
 [^108]: *Amb*. 10.30 (DOML 1:193–95). In *Amb.* 10.31 (DOML 1:197), Maximos states that the written law is “identical” (ταὐτόν) to the natural law “according to potential,” while the natural is identical to the written “according to ἕξ ς,” a word that can mean “permanent state or condition” as well as “outward appearance” (cf. Dn 1.15). When Maximos returns to this question in *Amb.* 10.54, he distinguishes the two laws in a way suggestive of the soul’s “linear” and “circular” motions described by Dionysios, *DN* 1.9 (705AB; 153–54). Thus nature is said to be the field of “practice,” while Scripture is the field of “reason and contemplation,” since the simplicity of nature requires differentiation into a symbolic order, while the complexity of Scripture requires reduction to a “uniform simplicity,” at the end of which the saints “will possess the law of nature spiritually” (DOML 1:239).
+
 [^109]: On which, see Questions 19.2; 39.3–4; and Blowers, *Exegesis and Spiritual Pedagogy,* 117–22.
 
 *[p. 35]* ^pg56
@@ -388,7 +465,9 @@ gathered from nature.”[^110] At the same time, Scripture is an “intelligible
 The Confessor subsequently draws our attention to a paradox: these symbols both conceal and reveal the Word, and they do so at the same time. Symbols conceal precisly to the extent they reveal, and reveal precisely to the extent they conceal. Any symbolic manifestation or representation of God, whether literary or physical, can never be absolutely identified with God himself, who is thus concealed in his very manifestation.[^112] The 
 
 [^110]: *Amb.* 10.31: ὁ δ αχαράξας καὶ ἀῤῥήτως αὐτοῖς ἐγκεχαραγ ένος Λόγος ἀναγ νωσκώ ενος ἀπαρτ ζετα (DOML 1:194). Because *logos* denotes not simply “word” but also “reason,” the forms of creation are not reducible to “words” in the sense of metaphorical lexical units, but are intelligible realities, and thus the Word who is revealed through them is the intelligible, causal principle that determines their identities, structures, and forms.
+
 [^111]: *Amb.* 10.31 (DOML 1:195–97); cf. *Amb.* 37.5–10 (DOML 2:79–89); and Paul M. Blowers, “The World in the Mirror of Holy Scripture: Maximus the Confessor’s Short Hermeneutical Treatise in *Ambiguum ad Joannem* 37,” in Paul Blowers, Angela Russel Christman, David Hunter, and Robin Darling Young, eds., *In Dominico Eloquio/In Lordly Eloquence: Essays on Patristic Exegesis in Honor of Robert Louis Wilken* (Grand Rapids: Eerdmans, 2002), 408–26.
+
 [^112]: Cf. Dionysios, *Ep.* 3: “The Word of God remains hidden after His manifestation, or to speak more divinely, even in His manifestation” (1069B; 159, lines 6–7); and Qu. 28.1: “Scripture calls God a lion, a bear, a leopard, a panther, a man, an ox, a sheep, the sun, a star, fire, wind, and a thousand other things—and whereas He Himself is none of these things, He is nonetheless contemplated according to the meaning of each term.” For Dionysios, *CH* 2.1–5, all such symbols are “similar” to God and at the same time infinitely “dissimilar” to him (9–17; 136D–145C).
 
 *[p. 36]* ^pg57
@@ -400,7 +479,9 @@ Like human clothing, symbolic “garments” are measured to the body or form of
 For the person who has ascended the mountain of contemplation, Scripture and creation do not vanish or disappear, but are transfigured. No longer obscure and impenetrable, the literal level of Scripture and the physical phenomena of creation become transparent “garments” through which the Word is made visible, and through which he communicates with human beings. Nature and Scripture assume a depth of meaning far beyond their literal, visible content, because ordinary sense perception is penetrated by the very power and activity that created the world and continues to give meaning to the sacred text. If, on the other hand, a person does not make the passage from letter to spirit, then he is bound by an idolatry of surfaces, enacting a false worship, mistaking the image for the imageless, and the figure for what is beyond figuration.[^115] The way beyond the world is through the world, and the way beyond language is 
 
 [^113]: See Perl, *Theophany,* 104–5.
+
 [^114]: *Amb.* 10.32 (DOML 1:197–99).
+
 [^115]: Intro. 1.2.16.
 
 *[p. 37]* ^pg58
@@ -416,6 +497,7 @@ An integrative and innovative thinker, Maximos the Confessor’s interpretation 
 In agreement with virtually all ancient Christian exegetes, Maximos understands the language of Scripture as a divine accommodation to human limitations.[^117] The purpose of this accommodation is to communicate God’s providential concern for his fallen creatures and to provide them with the remedy 
 
 [^116]: For outstanding studies of Maximos’s biblical hermeneutics, see Blowers, *Exegesis and Spiritual Pedagogy;* and Kattan, *Verleiblichung und Synergie.* My remarks in this section are not meant to be exhaustive, but simply to gesture toward some of the major hermeneutical themes of the *Responses.*
+
 [^117]: Qu. 44.2: “Scripture fashions God speaking in terms relative to the underlying disposition of the souls under His providence”; cf. Qu. 62 2: “God presented to the prophet’s sight, as it were, an object enabling him to understand the power of His imminent manifestation in the flesh.”
 
 *[p. 38]* ^pg59
@@ -425,8 +507,11 @@ for their existential dilemma. This claim was supported by the witness of Script
 That the meaning of Scripture as a whole can be reduced to a particular intention or purpose might seem to limit the range of interpretive possibilities available to the reader or exegete. Surprisingly, this is not the case, and Maximos affirms that the sacred text is inexhaustible in its capacity to generate meaning. It is a “boundless ocean,” the depths of whose “hidden mysteries” can be fathomed only with the help of the Holy Spirit.[^120] As the Confessor explains: “The divine word can never be circumscribed by a single individual interpretation, nor does it suffer confinement in a single meaning, on account of its natural infinity.”[^121] Returning to this theme later in the *Re-*
 
 [^118]: E.g., [[Romans 15#^15-4|Rom 15.4]]; and [[1 Corinthians 10#^10-11|1 Cor 10.11]], which state that Scripture is not merely a record of past events but directly addresses the concerns of contemporary readers; cf. Qu. 52.12 and 54.13.
+
 [^119]: Cf. Origen, *On First Principles* 3.2–3, where Scripture’s inspired aim is the correction of evil (SC 268:152–69); ibid., 4.2.8, where God is said to have two aims in inspiring Scripture: to reveal the mysteries of salvation and to conceal them from the unworthy (SC 268:332–34); Basil, *On the Psalms,* states that the whole of Scripture was written by the Spirit so that each person might, as in a “public hospital, find the remedy for his own particular passion, which Scripture can completely cure” (PG 29:209C); idem, *Ep.* 2: “Scripture is like a public hospital, where one will find the cure for his sickness” (LCL 1:15); and Gregory of Nyssa, *On the Lord’s Prayer:* “Of the true saints, inspired by the Holy Spirit, whose sayings have been recorded by divine dispensation for the instruction of later generations, their words aim solely at the correction of the evil that holds sway over human nature . . . for our struggle is ‘against the spirits of wickedness in high places’ ([[Ephesians 06#^6-12|Eph 6.12]])” (*GNO* 3/4:15, lines 6–10, 27–29).
+
 [^120]: Intro. 1.2.3; cf. Qu. 55.2.
+
 [^121]: Intro. 1.2.8.
 
 *[p. 39]* ^pg60
@@ -438,7 +523,9 @@ That the meaning of Scripture as a whole can be reduced to a particular intentio
 The infinity of the sacred text, however, should not be taken in the postmodern sense of an endless deferral of meaning or radical absence of meaning, since Maximos would not consider as admissible any interpretation that would, for example, contradict the teachings of the Church or the salvific purpose of Scripture. As noted above, biblical interpretation unfolds within a framework of ethical, doctrinal, and ecclesial commitments, which are constraints on any potential infinity of interpretation.[^123] One must therefore understand this as a potential infinity of *viable* interpretations.[^124] This infinity of meaning, moreover, is not directionless, but has a decided eschatological orientation. In its diachronic dimension, the relation of the Old Testament to the New Testament is not a closed, binary opposition of “prophecy and fulfillment” or “figure and reality.” Instead, Maximos argues for an open-ended, threefold pattern of “shadow, image, and reality,” based on [[Hebrews 10#^10-1|Hebrews 10.1]]: “The law possessed but a shadow of the good things to come; it was not the image of the realities themselves.” In Maximos’s understanding of this verse, the “shadow” of the Old Testament 
 
 [^122]: Qu. 50.2.
+
 [^123]: This is why Maximos always stresses that interpretations of Scripture have to be “consistent with piety,” or “worthy of God,” or “not unworthy of the Spirit”; cf. Intro. 1.7.5; Questions 17.5; 54.13; 55.1; 63.4; 65.21; see also *Amb.* 14.2; 21.14; 67.15. That the biblical exegete must tailor his exegesis to the spiritual capacities of his audience (Qu. 43.2), and must not commit the “deeper secrets” of Scripture to writing (Qu. 21.8), are additional limiting factors.
+
 [^124]: In his actual exegesis, Maximos in some cases provides up to eight or ten interpretations of a particular phrase or passage, all of them within the bounds of orthodox doctrine.
 
 *[p. 40]* ^pg61
@@ -448,8 +535,11 @@ is cast backwards in time by the “image” of the New Testament, which in turn
 for human salvation, “every syllable, even the most trifling” is filled with meaning.[^126] This meaning, however, is not limited to the significance of the historical events described in Scripture, because Scripture as a whole embodies the living voice of the Word of God and thus is always contemporary: its unity, significance, and impact emerge directly in the life and experience of the reader. To the extent that the letter crosses over into spirit, the words of Scripture function as thresholds between two worlds: the bounded, finite realm of history, and the unlimited freedom of the spirit: “Even though the word of holy Scripture is limited according to the letter—because it is delimited chronologically according to the times of the events that were written down—it nevertheless always remains unlimited according to the spirit through the contemplation of spiritual realities.”[^127] The literal or historical sense does not vanish, but remains the irreducible medium or means for conducting the mind from the contingency of sensible appearances to a more abiding truth: “Strictly speaking, the force of the literal sense continues to exist. For that which in the literal account took place in the past is always standing before us being mystically present in contemplation.”[^128]
 
 [^125]: In the sense that, by assuming human nature, the Word becomes, like all human beings, an “image” of God, but by virtue of his divine nature he is the archetype of that image, and so becomes an image and symbol of himself; cf. *Amb.* 21.13–16 (DOML 1:439–47); *Amb.* 10.77 (DOML 1:269); *Cap. theol.* 1.97; 2.29 (PG 91:1121D–1124A; 1137D); and Maximos Constas, “A Greater and More Hidden Word: Maximos the Confessor and the Nature of Language,” in *Maximus the Confessor as a European Philosopher,* ed. Sotiris Mitralexis et al. (Eugene, OR: Cascade, 2017), 95–109, esp. 102–7.
+
 [^126]: Qu. 47.3.
+
 [^127]: Qu. 50.2.
+
 [^128]: Qu. 49.4; cf. Qu. 50.3: “Having examined the things that took place figuratively during the times of Hezekiah, which reached their historical end, and having contemplated spiritually the matters issuing from the written record of the events, we must surely marvel at the wisdom of the Holy Spirit who wrote them, and how He arranged the meaning of whatever was written so that it would accord and fit with each and every one of us who share in human nature.” See also Origen, *Homilies on Luke* 7.7: “Everything with respect to Jesus: His birth, growth, maturity, passion, and resurrection, took place not only at a given time (*non solum illo tempore*), but continues to act in us even today (*sed etiam nunc operentur in nobis*)” (SC 87:160); and Evagrios, *Scholia on Psalms:* “The text does not say, ‘He *turned* ( εταστρέψας) the sea into dry land’ but that ‘He *turns* ( εταστρέφων) the sea into dry land’ \[Ps 65.6\], for according to history, this happened once (ἅπαξ) in Judea, but on the level of the mind (κατὰ τὴν δ άνο αν) this event is always taking place (ἀεὶ τοῦτο συ βα νε ), inasmuch as God, by means of virtue and knowledge, rescues lost and troubled souls from the bitter waves of life” (PG 12:1500B).
 
 *[p. 41]* ^pg62
@@ -461,6 +551,7 @@ Maximos further argues that the meaning contained in the literal account, which 
 The actualization of Scripture’s spiritual power in the lives of believers is nothing less than the mimetic possibility to assimilate
 
 [^129]: Qu. 17.2.
+
 [^130]: *Amb*. 63.2 (DOML 2:271–73); cf. [[Romans 06#^6-4|Rom 6.4]], and [[Colossians 02#^2-12|Col 2.12]], where through baptism believers are put to death, buried, and raised from the dead in solidarity with Christ. On the intersection of biblical and liturgical interpretation, see René Bornert, “Explication de la liturgie et interprétation de l’Écriture chez Maxime le Confesseur,” *SP* 10 (1970): 323–27; idem, *Les Com-mentaires byzantins de la divine liturgie* (Paris: Institut Français d’Études Byzantines, 1966), 83–124; and below, n. 148.
 
 *[p. 42]* ^pg63
@@ -472,7 +563,9 @@ the virtues and spiritual qualities of biblical saints, and ultimately those of 
 If it is true that every word of sacred Scripture is “divinely inspired” (2 Tm 3.16), and that its every “syllable” is able to yield a 
 
 [^131]: The idea was already implicit in the words of Christ: “If you are Abraham’s children, do the deeds of Abraham!” ( [[John 08#^8-39|Jn 8.39]]); cf. Questions 23.2 (Abraham); 65.15 (David); 50.3; 51.20 (Hezekiah); 47, scholion 2 (Enosh); *Amb*. 10.46; 10.50; 10.112 (Abraham); *Amb*. 10.46–47 (Melchizedek); *Amb*. 10.46; 10.51; 10.53 (Moses); and *Amb.* 21.14: “All the saints can stand in the place of each other: all can stand in place of all, and each in place of each . . . and the Lord Himself demonstrates this when he calls John the Baptist ‘Elijah,’ either because the two were equal in the habit of virtue, in their purity of intellect, in the austerity of their way of life, or because of their identical power of grace” (DOML 1:441); ibid. 21.15: “. . . and so they become living images of Christ, or rather become one with Him through grace, or even, perhaps, become the Lord Himself, if such an idea is not too onerous for some to bear” (ibid., 445).
+
 [^132]: *Amb.* 7.22 (DOML 1:107).
+
 [^133]: Intro. 1 2.7: “This is because the divine word is like water, for just as water operates in different species of plants and vegetation in different kinds of living things—by which I mean in human beings who drink the Word Himself—the Word is manifested in them through the virtues, in proportion to their level of knowledge and ascetic practice . . . so that the Word becomes known to others through other qualities and characteristics.”
 
 *[p. 43]* ^pg64
@@ -482,7 +575,9 @@ sense useful for salvation, it is not equally true that every word and syllable 
 Such passages, which contain seemingly irreconcilable contradictions, or verbal and conceptual material that is illogical or offensive, were believed to have been placed throughout Scripture by the Holy Spirit as a form of divine pedagogy.[^135] The purpose of these passages, which interrupt the continuity of the narrative, is to confront the reader with an unresolvable paradox and so spur the mind to the spiritual level on which such passages have their proper resolution and meaning.[^136] Biblical obscurities, notable for their *failure* to signify, are in fact sites of hidden meaning accessible only through the transformation of 
 
 [^134]: Origen, *On First Principles* 4.1.7 (SC 268:284–92), was among the first to make this comparison, in a passage that was excerpted in the Cappadocian *Philokalia* (SC 302:60–64).
+
 [^135]: Argued by Origen, *On First Principles* 4.2.9 (SC 268:334–40), in a passage that was excerpted and placed at the very beginning of the Cappadocian *Philokalia* (SC 302:182). For Dionysios, *CH* 2 (9–17; 136D–145C), following the hermeneutics of Proclus, incongruities in the sacred text were construed as non-mimetic symbols of transcendent realities that were related to their referents, not by resemblance or direct representation, but only by analogy; cf. Radek Chlup, *Proclus: An Introduction* (Cambridge: Cambridge University Press, 2012), 188–93.
+
 [^136]: Cf. Qu. 48.11: “I am astonished and amazed at how Uzziah, though he was king of Judah, according to the literal account, had ‘vine-dressers on Mount Carmel,’ which did not belong to the kingdom of Judah . . . apparently the text has mixed into the literal account something that has no existence (τὸ ηδα ῶς ὑπάρχον), thereby rousing our sluggish minds to an investigation of the truth”; Qu. 65.19: “Here, as it seems, something illogical (τὸ παράλογον) has been mixed in with the literal account in order for us to search for the true meaning of what has been written”; and Qu. 54.20: “According to the literal account, Zerubbabel nowhere appears to hold in his hand a stone having ‘seven eyes’ . . . thus, since it is completely impossible to sustain (ἀ ήχανον στῆνα ) such an interpretation on the level of the literal words, let us proceed to the inner meaning of what has been written.”
 
 *[p. 44]* ^pg65
@@ -492,7 +587,9 @@ both the text and the reader that takes place in spiritual contemplation.[^137] 
 These “obstacles” are called ἄπορα, a word that appears in the work’s title, where it is rendered as “difficulties.”[^138] The Greek word, which is the source of the English word “aporia,” literally means something that prevents one’s progress, and by extension designates a metaphorical place that is “impassable” by thought and thus causes perplexity. Coupled with the desire to understand, such “places” were the point of departure for philosophy in the Aristotelian tradition.[^139] The human person has a natural capacity not simply to know but to be puzzled and perplexed. The mind is not content simply observing phenomena, but by nature wants to know why they occur and what they mean. When this natural desire is frustrated, it troubles the mind and propels it toward exploration, investigation, 
 
 [^137]: Cf. Qu. 32.3, where Maximos describes this process as requiring a series of interrelated distinctions the exegete must make between the letter and spirit in Scripture; between outward manifestation and inner *logos* in nature; and between sensation and intellect in his own awareness.
+
 [^138]: Origen, *On First Principles* 4.2.9, refers to obstacles in the text of Scripture variously as “stumbling blocks, hindrances, and impossibilities” (σκάνδαλα, προσκό ατα, ἀδύνατα) (SC 268:336, line 267).
+
 [^139]: Aristotle, *Metaphysics* III 1 995a27–b4. For Aristotle, an *aporia* is a particular state of mind in which one does not simply “wonder” at the sight of an unknown thing (as in Plato, *Theaetetus* 155d; but cf. *Metaphysics* 982b), but in response formulates questions based on actual states of knowledge. Aristotle calls this process δ απορ α or δ απόρησ ς—an exploration of various routes—which is reminiscent of Maximos’s δ άβασ ς, both of which are ordered to εὐπορ α, which is the proper resolution of the difficulty. Aristotle’s own philosophical obscurity ironically proved perplexing to his later commentators; cf. Ammonios, *Commentary on Aristotle’s Categories:* “Let us ask why Aristotle was so fond of obscure (ἀσαφή) teaching. We reply that it is just as in the temples, when curtains are used to prevent people, especially the impure, from encountering things of which they are unworthy. So too Aristotle uses the obscurity of philosophy as a veil, so that the zealous may for that very reason stretch their minds even more, whereas empty minds that are lost through carelessness will be put to flight when they encounter obscure sentences like these” (*CAG* 4/4:7, lines 10–14).
 
 *[p. 45]* ^pg66
@@ -506,8 +603,11 @@ This is exactly the challenge Maximos faced in responding to the questions of Th
 Climbing the upward path, however, is not easy. When understood in its relation to the life of virtue and knowledge, and as an initiatory ascent to the very reality of God, the work of transforming the “letter into spirit” is the highest calling—and supreme challenge—of human existence. It is the “earth” that Adam must “eat in the sweat of his face,” painfully removing all its “thorns and thistles” before he can partake of the “bread of theology.”[^142] One thus understands Maximos’s repeated refusals to undertake such a task as more than a rhetorical modesty topos.[^143] Yet because no text can capture or reproduce the experience of life, our sources cannot fully convey the physical, psychological, and spiritual experiences—the exertions of the ascetic life, the agony of repentance, the experience of grace, the joy of reconciliation with God and neighbor—that inform the exegetical practices operative in Maximos’s interpretation 
 
 [^140]: Cf. Qu. 59; and 55.2.
+
 [^141]: Intro. 1 2.6, 9.
+
 [^142]: Qu. 5.3.
+
 [^143]: Intro. 1.2.4; cf. Alexander Alexakis, “The Modesty Topos and John of Damascus as a Not-So-Modest Author,” *Byzantinische Zeitschrift* 97 (2004):
 
 *[p. 46]* ^pg67
@@ -519,9 +619,13 @@ To resolve the difficulties in the biblical passages submitted to him by Thalass
 Anagogy was already a technical term for Origen, who was the first to apply it systematically to the interpretation of Scripture.[^147] Maximos’s anagogical exegesis, however, is more directly indebted to Dionysios, who developed the notion extensively and extended it to include the interpretation of liturgical symbols.[^148] For Dionysios, anagogy is the upward movement from 
 
 [^144]: In Qu. 56.7, Maximos mentions the following ascetic practices: “. . . temperance, fasting, the distribution of wealth, hospitality, chanting, reading, sleeping on the ground, keeping vigil,” which he says are “among the things characteristic of a life lived according to God.”
+
 [^145]: Cf. Intro. 1.2.3; and *QD.* 44; and 77 (CCSG 10:37–38; 58). For detailed discussions of Maximos’s anagogical exegesis, see Blowers, *Exegesis and Spiritual Pedagogy,* 184–248; and Kattan, *Verleiblichung und Synergie,* 225–43.
+
 [^146]: Cf. *QD.* 122: “Moses is a type of the pious and their final goal . . . for he receives the impression (ἐκτύπωσ ν) of the divine commandments . . . and because Egypt is the lowest lying land on the earth, Scripture says that he is not only ‘led out’ (ἐξήγαγεν) but also ‘led up’ (ἀνήγαγεν), indicating botha leading out (ἐξαγωγήν) from passionate attachments of the flesh to the spirit, and a leading up (ἀναγωγήν) from material to intelligible realities” (CCSG 10:90).
+
 [^147]: Cf. Blowers, *Exegesis and Spiritual Pedagogy,* 185; Wolfgang Bienert, *Al-legoria und Anagoge bei Didymos dem Blinden von Alexandria,* PTS 13 (Berlin and New York: Walter de Gruyter, 1972); and Richard A. Layton, *Didymus the Blind and his Circle in Late-Antique Alexandria: Virtue and Narrative in Biblical Scholarship* (Urbana and Chicago: University of Illinois Press, 2004).
+
 [^148]: Paul Rorem, *Biblical and Liturgical Symbols Within the Pseudo-Dionysian Synthesis* (Toronto: Pontifical Institute of Medieval Studies, 1984), 99–116 (= “The Anagogical Movement”).
 
 *[p. 47]* ^pg68
@@ -531,8 +635,11 @@ effects to their causes, a movement from multiplicity to unity, in the way that 
 For Maximos, anagogy is thus a comprehensive term or process, under which other exegetical techniques and practices—such as typology, tropology, and allegory—are effectively subsumed.[^150] This is partly why he does not make sharp distinctions between typology, tropology, and allegory, which are simply tools to draw out the nonliteral meanings of a word or passage in the larger anagogical process.[^151] The goal of the process, on the other hand, is “contemplation” (θεωρία), which is spiritual insight of the highest order, transcending “every mental image arising from sense perception, and able to behold the principles of sensible realities naked of their outward forms, grasping the figures of intelligible realities.”[^152]
 
 [^149]: Ibid., 102–3.
+
 [^150]: Blowers, *Exegesis and Spiritual Pedagogy,* 191.
+
 [^151]: Recent scholarship has demonstrated that rigid distinctions between typology and allegory do not accurately represent the practice of early Christian exegetes, and that the distinction itself is largely a modern scholarly construction that can no longer be maintained; cf. Peter W. Martens, “Revisiting the Allegory/Typology Distinction: The Case of Origen,” *JECS* 16 (2008): 283–317.
+
 [^152]: Qu. 27.4; cf. Qu. 25.6: “Every intellect that becomes a lover of mystical theology . . . without eyes sees the true God the Word naked of every concept and knowledge.”
 
 *[p. 48]* ^pg69
@@ -544,6 +651,7 @@ Though often a functional equivalent for allegory, anagogy does not suppress or 
 The world of Scripture is densely populated with characters who provide the reader with colorful examples of the struggle for virtue and knowledge. The men and women described in these narratives are accepted as real people, and the narratives 
 
 [^153]: Cf. *Myst.* 2: “The whole intelligible world is mystically imprinted (τυπού ενος) in the whole sensible world in symbolic forms (for those who are capable of seeing this); and the whole sensible world subsists cognitively within the whole intelligible world by means of its inner principles. In the intelligible world it is in principles, in the sensible world it is in figures (τύπο ), and their activity and function is one, like ‘a wheel within a wheel’ \[Ezek 1.16\]” (CCSG 69:16–17, lines 241–47); and Qu. 27.4, where “through the invisible world,” God reveals to Peter “the visible world conceived on the level of its inner principles—or the invisible world made visible by means of its sensible figurations.”
+
 [^154]: Cf. Plotinus, *Ennead* 6.7.7, 30–31: “Sensations here \[i.e., in the sensible realm\] are dim intellections; intellections there \[i.e., in the intelligible realm\] are vivid sensations” (LCL 7:108).
 
 *[p. 49]* ^pg70
@@ -555,7 +663,9 @@ as real, historical events.[^155] History is not reduced to myth or otherwise re
 It follows, then, that the purpose of the entire interpretive project is oriented toward, and finds its unity in, what Maximos calls the “mystery of Christ,” a phrase that denotes the Incarnation of the Word in all its many dimensions.[^157] It is the reality
 
 [^155]: Maximos only rarely claims that the literal narrative contains elements that are historically impossible or irrational; cf. above, n. 136.
+
 [^156]: *Carit*. 2.31 (ed. Ceresa-Gastaldo, 106), referring to Josephus, *Jewish War* 6.4.3–5; and 5.1.3.
+
 [^157]: On the “mystery of Christ,” see *Amb*. 2.2; 4.10; 5.5; 5.11; 5.16; 5.24– 25; 7.22; 7.30; 7.35; 7.37–39; 21.14–15; 41.2; 42.17; 42.29; 71.2–3; Questions 22.3; 22.5; 50.4; 54.15; 55.13; 59.6; 60.2–4; 60.7; 62.3–4; 63.18–19; *Cap. theol.* 2.23 (PG 90:1136A); *Cap.* 12–13 (PG 90:1184BD); *Epp.* 13; 15; 16; 17; 19 (PG 91:528D–529B; 572B; 577B; 581AB; 593B); and Kattan, *Verleiblichung und Synergie,* 170–77.
 
 *[p. 50]* ^pg71
@@ -565,8 +675,11 @@ of Christ, and not any exegetical technique or model, that governs all of Maximo
 This freedom of approach allows Maximos to make use of a wide range of interpretive techniques and strategies, including typology, allegory, tropology, and etymology, in which latter the Confessor finds particular value: “Anyone who wishes to receive, with knowledge according to Christ, the holy Scripture within his soul, must labor diligently over the interpretation of names, which by themselves are able to elucidate the whole meaning of what has been written.”[^160] Consistent with this assessment, the *Responses to Thalassios* analyzes over fifty personal and geographic names, some of which receive elaborate etymological interpretations. Though many of these etymologies have been adopted from the commentaries of Philo and Origen, others are of unknown origin, and may have originated with Maximos himself, although he may have acquired them through contact with Jewish scholars, or from Jewish converts to Christianity.[^161]
 
 [^158]: *Cap. theol.* 1.66 (PG 91:1108A). This process is also necessary given the dual character of the human person; cf. Qu. 55, scholion 2; and *Myst.* 6, where “anagogical contemplation” differentiates Scripture into “body” and “soul” (CCSG 69:31–32).
+
 [^159]: Blowers, *Exegesis and Spiritual Pedagogy,* 191.
+
 [^160]: Qu. 50.3.
+
 [^161]: Cf. Antoon Schoors, “Biblical Onomastics in Maximus Confessor’s *Quaestiones ad Thalassium,*” in *Philohistôr: Miscellanea in Honorem Caroli Laga Septuagenarii,* ed. Antoon Schoors and Peter Van Deun (Leuven: Peeters, 1994), 257–72; Blowers, *Exegesis and Spiritual Pedagogy,* 203–11; R. P. C. Hanson, “Interpretations of Hebrew Names in Origen,” *VC* 9 (1955): 103–23; and Lester L. Grabbe, *Etymology in Early Jewish Interpretation: The Hebrew Names in Philo* (Atlanta: Scholar’s Press,1988).
 
 *[p. 51]* ^pg72
@@ -576,7 +689,9 @@ Etymology attains the level of a complex discourse in the *Responses,* since any
 For Maximos the Confessor, the natural and written laws are parallel symbolic orders for conducting the mind from sensible appearances to intelligible realities, that is, to the Word Himself, who is the origin and goal of rational creatures. The true interpreter, then, is someone who mediates between the sensible and the intelligible, between surface and depth—between the “letter” and the “spirit” broadly understood—in an ongoing process of uncovering and unfolding the symbolic structure of the Word’s presence in creation and Scripture.
 
 [^162]: Qu. 64.2; cf. Qu. 54.2.
+
 [^163]: Qu. 64.2–4.
+
 [^164]: This passage has received a fair amount of commentary; cf. Carl Laga, “Maximi Confessoris ad Thalassium Quaestio 64: Essai de lecture,” in *After Chalcedon: Studies in Theology and Church History Offered to Professor Albert van Roey for his Seventieth Birthday*, Orientalia Lovaniensia Analecta 18, ed. Carl Laga et al. (Leuven: Departement Oriëntalistiek, 1985), 203–15; Blowers, *Exegesis and Spiritual Pedagogy,* 205–11; and idem, “Exegesis of Scripture,” in *The Oxford Handbook of Maximus the Confessor,* 259–61.
 
 *[p. 52]* ^pg73
@@ -592,7 +707,9 @@ I therefore ask all readers of this book, as well as those who may wish to copy 
 Altogether, the *Responses to Thalassios* contains about 465 scholia.[^167] The majority of the initial responses have only a 
 
 [^165]: On these scholia, see CCSG 7:xcix–ci. The Greek word “scholion” (σχόλ ον) is the diminutive of σχολή, and means a brief explanation or concise annotation; cf. Eleanor Dickey, *Ancient Greek Scholarship* (Oxford: Oxford University Press, 2007), 11–16, 18–71. I am thankful to Eleanor Dickey for her generosity in discussing this material with me, and for her invaluable suggestions.
+
 [^166]: *Responses,* Prologue 1.1.4–5. The word *scholion* itself does not imply anything about the *mise en page* or *mise en texte,* which is why Maximos was obliged to give precise instructions regarding their placement. The format of this present volume does not allow for the scholia to appear in this manner, and instead they are printed at the end of each Response.
+
 [^167]: John Eriugena’s Latin translation (ca. 850) contains an additional 20 scholia that are not found in the Greek text, many of which were written by Eriugena himself. There are, moreover, four Greek scholia that are not found in Eriugena. Photios, *Bibliotheca* cod. 192(A) (ed. Henry, 3:74–81), a Byzantine intellectual who read and commented on the *Responses* at a moment contemporary with Eriugena, seems to have had access only to the “first edition,” without the Prologue or scholia, neither of which he mentions; cf. Jacques Schamp, “Maxime le Confesseur et Photios: À propos d’une édition récente des *Questions à Thalassius*,” *Revue belge de philosophie et d’histoire* 60 (1982): 173–76.
 
 *[p. 53]* ^pg74
@@ -602,6 +719,7 @@ small number of scholia, but as the responses become progressively longer, the n
 Several other works attributed to Maximos also have scholia appended to them, but these do not appear to be authentic, and in most cases are of only minor interest.[^168] This circumstance underlines the singular importance of the scholia added to the *Responses to Thalassios,* in terms of both their large number and the accompanying explanatory Prologue. It is worth emphasizing that scholia appended to Greek patristic texts are relatively rare and limited to major authors, such as Basil of Caesarea, Gregory Nazianzus, Dionysios the Areopagite, or to certain texts like the *Ladder of Divine Ascent* by John Klimakos.[^169] It is even more unusual to find a writer annotating his 
 
 [^168]: The *Commentary on the Lord’s Prayer* has 8 scholia (PG 90:909AD); the *Chapters on Love* has 50 “anonymous” (*ἀ επιγράφου*) scholia (PG 90:1073B– 1080D); the second *Century on Theology and the Incarnate Dispensation* has 12 scholia, again by an “anonymous” scholiast (PG 90:1173–76), which, if they were all written by the same hand, are no earlier than the 8th century, since scholion 3 says: “These words are opposed to the Iconoclasts” (PG 90:1173B); the various *Opuscula* and Letters have a total of 15 and 19 scholia, respectively, which may be found at the end of these works in PG 91:37B–576C.
+
 [^169]: On the scholia to Basil’s *Long Rules,* see Silva, *Asketikon,* 4–8; for those on the *Orations* of Gregory Nazianzus, see CPG 3011–31; for the *corpus Dionysiacum*, see Paul Rorem and John Lamoreaux, *John of Skythopolis and the Dionysian Corpus: Annotating the Areopagite* (Oxford: Clarendon Press, 1998). The text of the *Ladder* has never been critically edited, and the mass of scholia remains largely unknown, although many are available in PG 88:632–1248; cf. Nonna Papademetriou, *Ἡ θεορρήμω Κλίμαξ τῶ βυζα τι ῶ* (Athens: Melissa, 2014), 198–240, who provides a detailed survey of Byzantine scholiasts and anonymous scholia through the 10th century.
 
 *[p. 54]* ^pg75
@@ -611,7 +729,9 @@ own work. To my knowledge, there are no examples of this in Greek antiquity, and
 Scholars in general tend to ignore the scholia, neglect to translate them when translating select *Responses*, and without argument typically question or simply reject their authenticity.[^171] Yet it is well known that Maximos wrote a series of scholia for the *corpus Dionysiacum*, and thus there are no grounds for rejecting summarily the possibility that he likewise composed scholia for the *Responses to Thalassios*. In addition, the Prologue to the “second edition” is found in all the extant manuscripts, which would tend to confirm its authenticity. Moreover, the scholia were an integral part of the *Responses* already by the mid-ninth century, and as such were available in the Greek manuscript containing the *Responses* translated into Latin by John Eriugena. This manuscript was undoubtedly an early uncial, and likely reached the Carolingian court from North Africa via Rome or Southern Italy, indicating, again, that the scholia had become part of the work at a very early stage.[^172]
 
 [^170]: Anastasios of Sinai, *Hodegos,* contains 60 scholia written by the author, ranging in length from a single line to an entire page (cf. CCSG 8, pp. ccxvi– ccxviii). Many are introduced by the formula ση ε ωτέον or ἰστέον (which Maximos uses only in his scholia on Dionysios). Like Maximos, Anastasios understands his scholia to be an integral part of the work (CCSG 8:76, lines 1–8); cf. Fausto Montana, “Anything but a Marginal Question: On the Meaning of παρακε ενον σχόλ ον and παραγράφεσθα ,” *Trends in Classics* 6 (2013): 24–38, esp. 29–30; and Karl-Heinz Uthemann, “Anastasios Sinaites,” in *La théologie byzantine,* 557–59.
+
 [^171]: Some scholars reject the scholia on the basis of the mistaken belief that *all* of them were written during the later Byzantine period, but this is to confuse the scholia with various marginalia that were later added to the work; on which, see CCSG 22:327–45; and Jacques Noret, “Une allusion à Léon de Chalcédoine et non à un Ps.-saint Cédonius. Datation de scholies de l’Angeli-cus Gr. 120,” *Analecta Bollandiana* 108 (1990): 320–23.
+
 [^172]: On this question, see Maïeul Cappuyns, “Jean Scot Erigène et les Scholiae de saint Maxime le Confesseur: Introduction, texte critique et traduction,” *Byzantion* 24 (1964): 415–45; and Maximos Constas, “St. Maximus the Confessor: The Reception of his Thought in East and West,” in *Knowing the Purpose of Creation through the Resurrection,* ed. Maxim Vasiliević (Belgrade and Alhambra: Sebastian Press, 2013), 27–34, esp. 30, n. 15.
 
 *[p. 55]* ^pg76
@@ -621,8 +741,11 @@ There are, then, compelling reasons to accept in principle the authenticity of t
 The fourth scholion of Qu. 59 is a good case in point. It does not include the third-person formula “he says” or any such equivalent, and contains two of Maximos’s signature doctrines: the triad of “being, well-being, and eternal well-being,” and the notion of divinized saints as being “without beginning or end.”[^176] Yet, precisely because these are signature items, it would not have been difficult for a scholiast to reproduce them. Turning, however, to the scholion’s linguistic features, we find support for the scholion’s authenticity in the use of the slightly 
 
 [^173]: I.e., φησ , λέγε , καλεῖ, ἐθεώρησεν, ἀνήγαγε, ἀποφα νετα , etc.
+
 [^174]: See, for example, Beate R. Suchla, ed., *Corpus Dionysiacum IV/1: Ioannis Scythopolitani Prologus et scholia in Dionysii Areopagite librum de Divinis Nominibus* (Berlin: De Gruyter, 2011), 177, line 13 (apparatus).
+
 [^175]: E.g., *Amb.* 10.101 (DOML 1:315).
+
 [^176]: For the triad, see *Amb*. 10.12 (DOML 1:167); and *Amb.* 10.48, where divinization endows Melchizedek with the quality of being “without beginning or end” (DOML 1:225).
 
 *[p. 56]* ^pg77
@@ -634,6 +757,7 @@ The identity of the scholiast(s) responsible for the other annotations remains a
 Finally, it is worth noting that, in the history of the work’s reception, the scholia were understood as a direct and integral part of the work. For example, the Maximian anthology known as the *Diverse Chapters,* compiled in the middle Byzantine period, is a collection of five hundred excerpts, more than four hundred of which are taken from the *Responses to Thalassios.* Many of these excerpts are simply isolated scholia presented as an individual “chapter.” The *Diverse Chapters* were included in the *Philokalia* and insured for both the *Responses* and the scholia a popular reception they might not have otherwise enjoyed.[^178] One should also note the importance of scholion 14 of 
 
 [^177]: Including Maximos’s disciple Anastasios, who may have been the compiler of the Christological florilegium known as the *Doctrina patrum,* which is closely tied to the works of Maximos; cf. Joseph Stiglmayr, “Der Verfasser der *Doctrina Patrum de Incarnatione Verbi*,” *Byzantinische Zeitschrift* 18 (1919): 14–40; and Rudolf Riedinger, “Griechische Konzilakten auf dem Wege ins lateinische Mittelalter,” *Annuarium Historiae Conciliorum* 9 (1977): 253– 301, at p. 257, n. 14.
+
 [^178]: The text is available in the *Φιλοκαλία* 2:91–186; and PG 90:1177–1392. For a concordance of the *Diverse Chapters* with the *Responses*, see CCSG 7, pp. lxxvi–lxxxii; Disidier (cited below), 167–78; and *Philokalia,* vol. 2 (London: Faber & Faber, 1981), 391–95. See also Wilhelm Soppa, “Die *Diversa Capita* unter den Schriften des heiligen Maximus Confessor in deutscher Bearbeit-ung und quellenkritischer Beleuchtung” (diss., Breslau-Dresden, 1922), who was the first modern scholar to discover the connection between the two works; and M.-Th. Disidier, “Une oeuvre douteuse de saint Maxime le Confesseur,” *Échos d’Orient* 30 (1931): 160–78. While Soppa (pp. 129–31) argued that the compiler of the *Capita* was Antonios Melissa, Peter van Deun, “Les *Diversa Capita* de Pseudo-Maxime et la chaîne de Nicétas d’Héraclée sur l’évangile de Matthieu,” *Jahrbuch der Österreichischen Byzantinistik* 45 (1995): 24, has more recently made a persuasive case that the compiler was Niketas of Heracleia.
 
 *[p. 57]* ^pg78
@@ -655,8 +779,11 @@ Having had no compelling reasons to alter them, I have adhered to the principles
 The word αἴσθησ ς presents particular problems for the translator. The Greek terminology of perception is often ambiguous and can mean a “capacity for perception,” the “activity of perception,” and a “sensory organ of perception.” These usages are further complicated by the common confusion in English between “sensation” and “sense perception.” When Maximos emphasizes the irrational aspect of αἴσθησ ς, I generally render this as “sensation,” whereas sensation that is informed by reason and/or subject to the judgment of intellect is generally rendered as “sense perception.”[^183] The word ἀρχή is difficult to translate
 
 [^180]: Thanks to the vagaries of history, Eriugena’s translation (ca. 862– 864), based on a now lost Greek manuscript, is the oldest surviving witness to the text of the *Responses:* the oldest surviving Greek manuscripts containing the *Responses* are from the 11th century. Eriugena was, moreover, an extremely literal translator, and his work is of the highest importance for establishing the text of the *Responses;* see above, n. 167.
+
 [^181]: Constas, *Maximos the Confessor, On Difficulties in the Church Fathers,* DOML 1:xxiv–xxvi.
+
 [^182]: Qu. 55, schol. 30 (which may have been written by Maximos), identifies ἐπ στή η with *infallible* knowledge: “. . . it remains for the perfected intellect to receive the infallible knowledge (ἄπτα στον γνώσ ν) of ages and intelligibles, that is, true understanding (ἤγουν ἐπ στή ην) of these things, for true understanding is defined as infallible knowledge of the substrate.”
+
 [^183]: Maximos’s distinction between *aisthetos* and *aisthetikos* is paralleled in Meletios, *On the Nature of Man,* where the *aistheton* is the perceptible object (i.e., that which is subject to sense perception), whereas the *aisthetikos* is the perceiver (i.e., the perceiving subject), illustrated by the difference between the stone (*aistheton*) and St. Stephen (*aisthetikos*), who was struck by it (PG 64:1144D–1145B).
 
 *[p. 59]* ^pg80
@@ -664,7 +791,9 @@ The word αἴσθησ ς presents particular problems for the translator. The G
 consistently: “beginning,” “origin,” and “principle” are the three primary meanings it can have, depending on the context. In this translation, however, “principle” serves as the primary translation of (lower-case) λόγος, and “origin” as the primary translation of γένεσ ς (that is, “coming into being,” “coming to be,” “generation,” or “creation”). I therefore adopt the word “beginning” but alert the reader in a note when another rendering has been adopted. I do not render the word γνωστ κός as “gnostic.” An argument has been made, noted at the word’s initial appearance in the translation, that for Maximos the word “gnostic” signifies a person who knows and can explicate the mysteries of Scripture, although in other contexts it indicates a person who can discern the inner principles of creation.[^184] The word ἕξ ς has various shades of meaning, among which are “habit,” “state” (or “state of mind”), “condition,” and “disposition,” despite the latter being the standard translation of δ άθεσ ς.[^185] The noun κακία, which occurs frequently in the *Responses,* means both “evil” and “vice,” the latter especially when paired with “virtue” (ἀρετή). I translate (upper- case) Λόγος as “Word,” even though this does not do justice to the Greek. Renderings such as “principle” (for lower-case λόγος) may be more accurate but tend to displace the root meaning. The technical term πρακτ κή does not mean “practice” (or “activity”) in contrast to “contemplation,” but denotes the stage of “practical life” in the Evagrian stages of spiritual progress.[^186] The present translation generally renders this word as “ascetic practice.” Another difficult word is σχέσ ς, normally translated as “relation,” which I adopt, along with “condition” and “attachment” (based on its root sense of 
 
 [^184]: See the note below, at Intro. 1.2.6.
+
 [^185]: See John of Scythopolis, scholion on Dionysios *CH* 7.1 (205B; 27, line 13): “A habit is an abiding quality” (ἕξ ς δέ ἐστ πο ότης ἕ ονος) (PG 4:65C); and the multiple definitions in Franz Diekamp, ed., *Doctrina patrum de incarnatione Verbi: Ein Griechisches Florilegium aus der Wende des Siebenten und Achten Jahrhun-derts* (Münster in Westfalen: Aschendorff, 1907), 258–59; cf. above, n. 177.
+
 [^186]: See Robert E. Sinkewicz, *Evagrius of Pontus: The Greek Ascetic Corpus* (Oxford: Oxford University Press, 2003), xxiv; cf. Constas, “Nothing is Greater than Divine Love,” for a discussion of Maximos’s modification of the Evagrian practical life.
 
 *[p. 60]* ^pg81
@@ -674,5 +803,7 @@ having, holding, and possessing), depending on the context.[^187] Maximos’s us
 Passages from the Old Testament are cited from the Septuagint version, following the chapter and verse divisions established in *A New English Translation of the Septuagint*.[^189] The Psalm numbering is that of the Septuagint. The names of Old Testament persons and places are adopted from the Revised Standard Version of the Hebrew Bible. Thus: “Eliakim the son of Hilkiah,” not “Heliakim the son of Chelcias”; “Nebuchadnezzar,” not “Na-buchodonosor”; “Carmel,” not “Karmelos”; and so forth.
 
 [^187]: For alternative renderings, see Ilaria Vigorelli, “Desiderio e beatitudine: *Schesis* nell’*In Canticum Canticorum* di Gregorio di Nissa,” *Annales Theolo-gici* 28 (2014): 277–300.
+
 [^188]: Cf. Pascal Mueller-Jourdan, “À propos d’une définition de la nature chez Maxime le Confesseur. Ambiguïté d’un appel à l’autorité patristique,” *Freiburger Zeitschrift für Philosophie und Theologie* 54 (2007): 224–29; and An-dreas Lammer, “Defining Nature: From Aristotle to Philoponus to Avicenna,” in *Aristotle and the Arabic Tradition,* ed. Ahmed Alwishah and Josh Hayes (Cambridge: Cambridge University Press, 2015), 121–42.
+
 [^189]: Albert Pietersma and Benjamin G. Wright, eds., *A New English Translation of the Septuagint* (Oxford: Oxford University Press, 2007).

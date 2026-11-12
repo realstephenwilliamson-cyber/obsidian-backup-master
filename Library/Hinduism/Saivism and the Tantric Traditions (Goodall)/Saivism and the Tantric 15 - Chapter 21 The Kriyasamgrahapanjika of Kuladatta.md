@@ -49,7 +49,9 @@ traye pratolī saddvārakapāṭārgalaśobhitā maṇḍapaś ca vibhūtyartha�
 dhanuḥkhaḍgaśarādīni vidadhyāt tu gṛhakṣate yame saṃyamināṃ sthānam ātmālokanasiddhaye 182
 
 [^1]: 156c mata \] *em*.; matetyādi C; mano A
+
 [^2]: 158a ºvādyāni \] C; ºpākāni A
+
 [^3]: 158d ºbhṛnº \] C; ºtvan A
 
 *[p. 489]* ^pg524
@@ -73,7 +75,9 @@ Type 2: The 5-by-5 *nandyāvarta* / *nandikāvarta*
 A second design, somewhat less elaborate, is termed the *nandyāvarta* or *nandikāvarta*. This serves as a simpler residence to house higher-ups—nobility, army generals, and *guru*s—and their households. In this case, laid over the fundamental 9-by-9-part deity map is a building design of 5 parts by 5 parts, with spacing between chambers that produces an array of nine chambers in total, or eight if the central position is left undesignated. Each of the eight or nine chambers is assigned a function. See figure 20.3 for some examples of these 5by-5 designs.
 
 [^4]: 183b ºsaṃśrayaḥ \] *em*.; ºsaṃśraye A
+
 [^5]: 184d dauvārike \] *em*.; daurike A
+
 [^6]: 187d maṇḍapaḥ \] C; maṇḍalam A
 
 *[p. 490]* ^pg525
@@ -129,7 +133,9 @@ nyāsaṃ gṛhottare kuryād gajāyena na saṃśayaḥ dhūmāyena prakartavya
 pāyudaṃ pitarasthe tu śvanāyena na saṃśayaḥ
 
 [^7]: 96d nandikāvartam \] AC; vandikāvarttam B
+
 [^8]: 98d vṛṣāyena \] BC; vṛṣayena A
+
 [^9]: 99d dahanaº \] AC; hadahana B • ºgocare \] BC; ºgocaraṃ A
 
 *[p. 491]* ^pg526
@@ -163,16 +169,27 @@ dviraṣṭakaradairghyaṃ tu dviṣaṭkaṃ vistaraṃ priye dhvāṅkṣāya
 tṛtīyaṃ nandikāvartaṃ cumbakasya prakīrtitam 114ab
 
 [^10]: 103b ºgṛhottamam \] BC; ºgṛhottamaḥ A
+
 [^11]: 103c bhadre \] BC; bhadraiḥ A
+
 [^12]: 103d saṃyutaḥ \] BC; saṃyutaiḥ A
+
 [^13]: 104a likhet \] C; likṣet AB
+
 [^14]: 104c ekonaº \] A; ekonaṃ C; ekūnaṃ B
+
 [^15]: 104d ºpaścāyataṃ \] A; ºpaścāyaṃ BC
+
 [^16]: 105d śayanāśrayaḥ \] A; sayanāyayaṃ BC
+
 [^17]: 111a bhaved \] AC; bhave B
+
 [^18]: 111a dairghyaṃ \] BC; dīrghyaṃ A
+
 [^19]: 111c jayate \] AC; jayante B
+
 [^20]: 111d kaṇḍanīgṛham \] BC; kaṇḍaṇīgṛhī A
+
 [^21]: 113a śrīgṛhe \] A; gṛhe BC
 
 *[p. 492]* ^pg527
@@ -202,11 +219,17 @@ sapātribhojanaṃ cāpye sayantranyāsam uttare[^28] yady asya saṃnikṛṣ�
 taddiśāya yutaṃ caiva kalpanaṃ gṛhavarjitam
 
 [^22]: 93c svakṛtānyakṛtāṃ \] A; svakṛtānyakṛtam BC
+
 [^23]: 94c bhavanty \] AB; bhavaty C
+
 [^24]: 95b triśālaṃ \] AB; triśāla C
+
 [^25]: 95d ekaśālakaḥ \] *em*.; ekeśālakam ABC
+
 [^26]: 115c sayāgāsthānaº \] A; sayāgasthānaº BC • ºpūrve \] A; ºpūrvaṃ BC
+
 [^27]: 115d ºśayanāntake \] AB; ºsamayāntake C
+
 [^28]: 116b uttare \] AB; uttaram C
 
 *[p. 493]* ^pg528
@@ -238,8 +261,11 @@ dhvajaṃ vā paścimāsyaṃ tu siṃhaṃ vā cottarānanam vṛṣaṃ vā pr
 In verse 10.95 we are told that the house for an *ācārya* has four rooms, that for a *sādhaka* has three, and that for a *putraka* has two, while the *samayin* has one room. The verses from 114cd onward describe the four-roomed, three-roomed, two-roomed and one-roomed house. In the case of the four-roomed one, recommended for the *cumbaka* when money is wanting, we are given an account of the rooms at 115cd–116ab. The shrine is in the east, the kitchen and bedroom are in the south, the vessel store and dining room are in the west, and the utensils and treasury are in the north. In the case of the three-roomed house for the *sādhaka*, we are told that there may be a room lacking in the north or in the east, but not in the south or in the west. The house with no room in the north
 
 [^29]: 117c sādhakasyaiva \] *em*.; sādhakaścaiva ABC
+
 [^30]: 120b śastaṃ \] A; saptaṃ BC
+
 [^31]: 125d pakṣiº \] BC; pakṣī A
+
 [^32]: 127a virodhaṃ \] A; virodhe BC
 
 *[p. 494]* ^pg529
@@ -291,7 +317,9 @@ maṭhāgre tatsamaṃ tyaktvā siṃhāyaṃ dakṣiṇe sthitam vṛṣāyaṃ
 vipulaṃ vā prakartavyaṃ kartur icchāvaśena tu
 
 [^33]: Shaman Hatley notes that “Vīra likely refers to *sādhaka*s: ‘heroic *sādhaka*s’ might be a good rendering. *Vīrapāna* refers to impure liquids such as alcohol, used in rituals of the Bhairava- and Kulatantras.”
+
 [^34]: 236c vṛṣāyaṃ \] F; vṛṣoyaṃ H
+
 [^35]: 236d dhvajāyaṃ \] F; dhvajeyaṃ H
 
 *[p. 496]* ^pg531
@@ -325,6 +353,7 @@ There should be a \[door for\] entry and exit to the north. \[The houses\] may h
 eastern side of the building is the place for worship ( *yāgālaya*). One should install the kitchen and so forth as appropriate. (4.239) At a distance of 1½-times the previously given distance, and half that, as is suitable, is a single *maṭhikā*, in the form of a set of four (*catuṣkikā*) awnings (*paṭṭaśālā*). (4.240)
 
 [^36]: 240a sārdhaṃ \] *em*. Sanderson; sārdhaṃ *Ātmārthapūjāpaddhati*; cārddhaṃ FH
+
 [^37]: 242c etad \] H; tad F
 
 *[p. 497]* ^pg532
@@ -384,8 +413,11 @@ ripuvṛddhis tathā tasya vidyā dauvārike pade sugrīve dhanasampat syād g�
 sutārthabalasampat syāt pade ’smim puṣpadantake vāruṇe dhanasampattiṃ nṛpabhayaṃ tathāsure 61
 
 [^39]: As recorded, for example, in *Bṛhatkālottara*, *prāsādalakṣaṇapaṭala* 223–224 and *Kiraṇa* 19.18–19, the *hiraṇyanābha* is a building with three rooms, in the east, west and south, and the *sukṣetra* is a building with three rooms, in the west, south and north. At *Piṅgalāmata* 10.118–119 (above), the building without a room in the north is termed a *hiraṇyanābha*, while that without a room to the east is termed a *suprabhāvartaka*.
+
 [^40]: ṛtaº \] *em*.; nṛtaº MW; nanṛṃta N. The emendation to *ṛta* is supported by the fact that at *Bṛhatkālottara*, *prāsādalakṣaṇapaṭala* 239 we see *dharma* at Satya.
+
 [^41]: 58b mṛgākhye \] *em*.; mṛṣākhye NM; mṛṣākhya W
+
 [^42]: 59d sutapīḍitaḥ \] N; sutapātitaḥ MW
 
 *[p. 499]* ^pg534
@@ -423,9 +455,13 @@ At Jaya \[the householder\] is endowed with wealth. At Māhendra he is dear to t
 At Bhṛśa is awfulness. And at Ambara there is theft. At Agni there is a lack of sons. At Pūṣan is servitude. (56)
 
 [^43]: 67b sarvakāmikam \] *em*.; sarvakarmikam N; sakāmikam MW
+
 [^44]: 70b sutārthaº \] MW; sutākhyaṃ N
+
 [^45]: 73c jñātvā \] N; jñāna MW
+
 [^46]: 73d yathoktaṃ\] N; yathoktā MW
+
 [^47]: 74a guṇādhikaṃ \] N; gaṇādhikan M; gaṇādhika W
 
 *[p. 500]* ^pg535
@@ -485,8 +521,11 @@ The residence for those who come to the temple (*prāsādāśrami-*
 Storage for gems, gold and cloths (*ratnahiraṇyavastrāṇām*) is recommended in the east, and for water in the south and centre.[^51] (83)
 
 [^48]: I thank Shaman Hatley for this observation.
+
 [^49]: 81b yathoktaº \] MW; antaraṃ N
+
 [^50]: 83c yāmyāśre ’py uttare \] MW; yāmyāśreruttare N
+
 [^51]: I take *uttare* to refer to the position to the north of the southern cell. That is, the centre. I find support in the fact that, in verse 22 of this chapter, we were informed that the water supply should be in the centre of the house (*gṛhamadhye*).
 
 *[p. 502]* ^pg537
@@ -681,6 +720,7 @@ Most people think that the prominent features of Tantric religions are their eso
 The purpose of this paper is to present a variety of Śaiva parallels in the *Kriyāsaṃgrahapañjikā*, especially textual parallels between the *Kriyāsaṃgra-*
 
 [^2-p508]: For the parallel repertoire of rituals between Śaivism and Tantric Buddhism, see Sanderson 2009, 124–127. To add some more information about the manuals of the Tantric Buddhist funeral rite (given on p. 126, note 294), after the publication of Sanderson 2009, I published a critical edition of and notes on Śūnyasamādhivajra’s *Mṛtasugatiniyojana* (Tanemura 2013a), an annotated Japanese translation of the same text (Tanemura 2013b), and a preliminary edition and annotated Japanese translation of the *Antasthitikarmoddeśa* of Padmaśrīmitra’s *Maṇḍalopāyikā* (Tanemura 2012). The visualisation taught in verses 12–13 of the *Mṛtasugatiniyojana* is a modification of the *mṛtasaṃjīvana* practice elaborated in commentaries on the *Guhyasamājatantra*, which are classified as works of Jñānapāda school in the Tibetan canon. The *utkrānti* (intentional death of a *yogin*) is applied to the visualisations taught in verses 14–16.
+
 [^3-p508]: Sanderson proposes that the fundamental reason for Śaivism’s success was “that it greatly increased its appeal to royal patrons by extending and adapting its repertoire to contain a body of rituals and theory that legitimated, empowered, or promoted key elements of the social, political and economic process that characterizes the early medieval period (Sanderson 2009, 253).” With regard to the second element, the proliferation of land-owing temples, “\[t\]he Śaivas of the Mantramārga provided specialized officiants and rituals to establish these Śivas \[= Liṅgas\], developing in the course of time a secondary body of scriptural authorities, the Pratiṣṭhātantras, devoted exclusively to this domain, setting out the rituals of installation (*pratiṣṭhā*) and defining the norms for the form of the Liṅga, the iconography of ancillary images, and the architectural design of the various temple types” (Sanderson 2009, 274; the word in square brackets is supplied by the present author). The characteristics of the *Kriyāsaṃgrahapañjikā* are very close to those of the Pratiṣṭhātantras mentioned above. With regard to the contents of the whole *Kriyāsaṃgrahapañjikā*, see Tanemura 2004,
 
 *[p. 509]* ^pg544
@@ -694,6 +734,7 @@ Rituals in the Public Domain
 First, I would like to present parallels at the scriptural level between Śaivism and Tantric Buddhism. Just as in Śaivism, where the Saiddhāntika religion, which non-Saiddhāntikas considered to be a fundamental but exoteric and lower Śaiva teaching, is involved in the rituals in the public domain,[^4-p509] so too the ritual system of the consecration ceremonies prescribed in the *Kriyāsaṃgrahapañjikā* is based on the Yogatantras (more precisely, the Vajradhātumaṇḍala system prescribed in the *Sarvatathāgatatattvasaṃgraha*, the principal scripture of the Yogatantra class), which was considered to be the Vajrayāna’s fundamental authority by the “higher,” more esoteric *tantra*s, i.e. Yogottara- and Yoginītantras.[^5-p509]
 
 [^4-p509]: For this non-Saiddhāntika view on the Saiddhāntika religion, see, e.g., Sanderson 2007, 231. On the public character of the Saiddhāntika religion, see, e.g., Sanderson 2007, 238–239 and Sanderson 2014, 13.
+
 [^5-p509]: For instance, the *Sūtaka(-melāpaka)* (commonly known as “*Caryāmelāpakapradīpa*,” which is not attested in Sanskrit primary sources) calls the *Sarvatathāgatatattvasaṃgraha* the “root *tantra*.” See *Sūtakamelāpaka* (chapter 3 *Vāgviveka*): *vajragurur āha—sādhu sādhu mahāsattva śrītattvasaṃgrahādau mūlatantre cottaratantre ca vāyutattvaṃ na vispaṣṭenoktam, saṃ-dhyāyabhāṣitatvāt* (EW p. 375, lines 13–15); *vajragurur āha—sādhu sādhu mahāsattva mantra-tattvaṃ nāma tattvasaṃgrahādau mūlatantre cottaratantre ca kevalaṃ mantramātram udī-ritaṃ mantroddhāro na pradarśitaḥ* (EW p. 378, lines 13–15). That the system of the Yogatantra is the Vajrayāna’s fundamental authority might also be implied by the following verse of the *Saṃvarodayatantra* (21.2): *sāmānyayogatantrānāṃ rahasyaṃ na vipañcitam* | *siddhīnāṃ paramā siddhir vratnānāṃ paramaṃ vratam* || (ET p. 134). That the system of the Vajradhātumaṇḍala taught in the *Sarvatathāgatatattvasaṃgraha* is employed for rituals in the public domain is inferred from the fact that the fundamental system of the *Kriyāsaṃgrahapañjikā* is the Vajradhātumaṇḍala (See the citation from the *Kalaśādhivāsanā* section of the *Kriyāsaṃgrahapañjikā* below). The verses quoted below from Padmaśrīmitra’s *Maṇḍalopāyikā* suggest that the rituals prescribed in his manual, which are performed in public, are based on the *Sarvatathāgatatattvasaṃgraha*. See Padmaśrīmitra’s *Maṇḍalopāyikā* 2.39–41: *ādāv arghavidhiḥ proktaḥ dvitīye bhūparigrahaḥ* | *tṛtīyaṃ \*ṭippa*(em.; *tippa-* Ms.)*sūtraṃ tu jñānasūtraṃ caturthakam* ||2.39|| *pañcamo rajasāṃ pātaḥ ṣaṣṭhaṃ kalaśādhivāsanam* | *saptamaḥ kalaśanyāso maṇ-ḍalasādhanam aṣṭamam* ||2.40|| *pratiṣṭhā navamī caiva daśamī homakriyā matā* | *ekādaśī visṛṣṭiḥ syād ity uktaṃ tattvasaṃgrahe* ||2.41|| (2r7–8). The eleven rituals from the *arghavidhi* to the *visṛṣṭi* mentioned in the above-quoted verses are rituals related to the *pratiṣṭhā* (cf. the structure of the rituals prescribed in the *Kriyāsaṃgrahapañjikā*, for which see Tanemura 2004, Introduction). The phrase “taught in the (*Sarvatathāgata-*)*Tattvasaṃgraha*” does not necessarily mean that the scripture prescribes the eleven rituals listed in the verses, probably only that the mantra-visualisation system employed in those rituals is that of the Vajradhātu-maṇḍala taught in the *Sarvatathāgatatattvasaṃgraha*. (Cf. Kimiaki Tanaka’s understanding of the words from *ādau* to *visṛṣṭiḥ syāt* as being directly quoted by Padmaśrīmitra from the scripture; see Tanaka 2010, 562.) For instance, the *samaya* which the officiant causes the deity of the images to listen to is “*oṃ hūṃ trāḥ hrīḥ aḥ*,” the syllables of the Five Buddhas of the Vajradhātumaṇḍala (9r9).
 
 *[p. 510]* ^pg545
@@ -709,7 +750,9 @@ The fact that the system of the Vajradhātumaṇḍala is fundamental is implied
 Tanemura 2004, 135
 
 [^6-p510]: See Tanemura 2004, Introduction § 1.5.
+
 [^7-p510]: After the publication of Tanemura 2004, I was able to access the following two manuscripts of the *Kriyāsaṃgrahapañjikā*. N2: Kaiser Library Access No. 109; N3: NGMPP E365/12 (private collection). I report on the readings of these manuscripts when I quote the texts from Tanemura 2004. With regard to N2, the first forty-five leaves, of which the material is paper, are a later addition to the original palm-leaf manuscript. The leaves before folio 35 of the original palm-leaf manuscript have been lost. The original manuscript was copied in *samvat* 336. According to Petech, the date of copying is verified for Thursday, February 11th, 1216 (Petech 1984, 81). With regard to N2, I report only on the readings of the original palm-leaf manuscript.
+
 [^8-p510]: Mss. N2 and N3 read as follows. N2: *yasyācāryyasya vajradhātau nāmādhimokṣaḥ tasya sveṣ-ṭadevatādhi\*mokṣeṇa*(N2*pc*; *mokṣauṇa* N2*ac*) *bhūśodhanapratiṣṭhāparyyanteṣu sarvve kriyā-karaṇam aviruddhaḥ* || (30v1–2); N3: *yasyācāryasya vajradhātau nādhimokṣaḥ tasya sveṣṭadevatādhimokṣeṇa bhūśodhanapratiṣṭhāparyanteṣu sarvvakriyākaraṇam aviruddhaṃ* || (24v1–
 
 *[p. 511]* ^pg546
@@ -741,6 +784,7 @@ EM § 1.1.6, vol. 1, p. 58; A 4r1; B 3v4
 In the above-quoted passages from the *Kriyāsaṃgrahapañjikā*, it is envisaged that the ritual is performed in the presence of spectators. The same characteristic of the ritual is also found in the above-quoted passage of the *Vajrāvalī*. It is also envisaged from the first quotation that the sponsor of the ritual is a king. I shall come back to this point later.
 
 [^9-p511]: The edition is based on the following witnesses (for sigla, see the bibliography): N 37v6, N2 39v5, N3 44v1–2, C1 33r5, C2 51v5, C3 43r5, T1 43v4, T2 40v2–3, T3 37v5.
+
 [^10-p511]: Mss. N2 and N3 read as follows. N2: *prekṣakajanāṃś ca tāṃvūlādibhiḥ saṃtoṣya śreyase bhojanam valiś ca deyaḥ* (150v3); N3: *prekṣakajanāś ca tāmvūlādibhiḥ santoṣya śreyase bho-janaṃ valiś ca deyaḥ* (174r3–4).
 
 *[p. 512]* ^pg547
@@ -770,6 +814,7 @@ Tanemura 2004, 150
 If someone, either the tantric officiant, a craftsman \[involved in the rite\], the donor or his officials scratches his head \[in the site for a monastery
 
 [^11-p512]: N 41v1, N2 43v4–5, N3 49r1–2, K 45r1–2, O 38v5–6, C1 36v2–3, C2 56r3–4, C3 47v2–3, T1 47v4–5, T2 44v1–6, T3 41v4–5.
+
 [^12-p512]: For the reading of Ms. N2 see footnote 28 in this paper.
 
 *[p. 513]* ^pg548
@@ -809,6 +854,7 @@ Textual Parallels
 Next, I would like to present textual parallels between the *Kriyāsaṃgrahapañjikā* and Śaiva Pratiṣṭhātantras. The section which contains these Śaiva parallels is called the *nimittokti*. In chapter 3, the *ācārya* should divide the
 
 [^14-p514]: This kind of “unfaithful copy” is found in various places of Ms. C. See Tanemura 2004, 102.
+
 [^15-p514]: I do not conclude that the prescriptions of the *Kriyāsaṃgrahapañjikā* are merely ideal. Rather, as I have already pointed out, the *Kriyāsaṃgrahapañjikā* is practical in its character (Tanemura 2004, 104–111). For instance, the measurements of a monastery by calculation based on the prescriptions of the *vāstunāga* are very close to those of the plans of Cha Bahi and I Baha Bahi in the Kathmandu valley. See Tanemura 2002, 572, note 29. For the plans of Cha Bahi and I Baha Bahi, see the plates attached to Watanabe et al. 2009.
 
 *[p. 515]* ^pg550
@@ -834,9 +880,13 @@ ity vacanān nimittāny upalakṣayet. liṅgāni sūtracchedanarodanasūtrasa-m
 \[2\] śvaśṛgālagṛdhrakaṅkarutair yajamānasya maraṇam āhuḥ.[^20-p515] \[3\] (1) mārjāreṇa sūtralaṅghane tadasthi rāsabhasya vā. (= DM v. 18) (2) gardabhena laṅghane tadasthi. (= DM v. 23b) (3) kukkureṇa laṅghane tadasthi. (=
 
 [^16-p515]: The readings of N3 are presented in the footnotes at the end of each section.
+
 [^17-p515]: *Guhyasamājamaṇḍalavidhi* v. 229ab (Ms. 12r2, ES 134). The numeration follows that of the Sarnath edition (ES).
+
 [^18-p515]: For §\[0\] N3 reads as follows: *animittair asiddhiḥ syāt sūtraccheda guroḥ kṣaya iti vacanāt nimittāny upalakṣayet* || *liṅgāni sūtracchedanarodanasūtrasamullaṅghanagātrasparśana-nāmasaṅkīrttanādīni* || (33v1–2).
+
 [^19-p515]: For §\[1\] Ms. N3 reads as follows: *tatra sūtracchedanenācāryasya maraṇaṃ* | (33v2).
+
 [^20-p515]: For §\[2\] Ms. N3 reads as follows: *śvaśṛgālagṛdhrakaṅkarunair yajamānasya maraṇam āhuḥ* | (33v2).
 
 *[p. 516]* ^pg551
@@ -846,10 +896,15 @@ DM v. 19ab) (4) ajāvibhyāṃ laṅghane tayor asthi gor asthi vā. (= DM v. 20
 \[4\] (1) śiraḥkaṇḍūyamānaṃ yady ācāryaśilpiyajamānatanniyogijanānāṃ madhye kaścit karoti tadaikapauruṣād adhaḥ śalyam asti. (= DM vv. 63c–64b) (2) bhrūsparśe suvarṇaṃ hastatrayāt kācaṃ vā.[^22-p516] (3) netrasparśe netraparyan-tādhastān muktā.[^23-p516] (4) mukhasparśe keśaṃ kāṣṭhaṃ vā trikarādhare. (= DM vv. 64c–65b) (5) dantasparśāt tribhir hastair dantam anumīyate. (= DM v. 65cd) (6) karṇakaṇḍūyane karṇāntādhastād rūpyaṃ suvarṇaṃ vidrumaṃ vā bhavet.[^24-p516] (7) galasparśena tatpramāṇādhaḥ kaṇṭhikā lohaśṛṅkhalā vā, mārjārakaṅ-kālaṃ vā trikarādhare. (= DM vv. 66c–67b) (8) aṃsasparśe tatpramāṇādhare tadābharaṇam. (9) kakṣasparśe kakṣāntādho loham.[^25-p516] (10) bāhupīḍane kaṇ-ṭhapramāṇādhare tadābharaṇam. (= DM vv. 69c–70b) (11) dakṣiṇakarasparśe kaṭimātrādhaḥ †pṛṣṭha†kapālaṃ mṛnmayakapālaṃ vā. (= DM vv. 71c–72b) (12) vāmahastasparśe jānumātrādhaḥ kaṭvāpādaḥ. (= DM v. 70cd) (13) pārśvakaṇḍūyane narārdhamātrādho dhūlī. (= DM vv. 74c–75b) (14) uraḥsparśe kaṭimātrādhaḥ paśukīkasam. (= DM vv. 72c–73b) (15) pṛṣṭhasparśe pṛṣṭhāsthi tatpramāṇādhaḥ. (= DM vv. 74ab) (16) kaṭisparśe dvikarādhaḥ pradeśe lohakaṇṭakam. (= DM vv. 75c–76b) (17) liṅgasparśena hastapramāṇādhare trilohaśalyam.[^26-p516] (18) jaṃghāsparśe tadasthy ekādaśāṅgulādhare. (= DM vv. 78c–79b) (19) gulphasparśe
 
 [^21-p516]: For §\[3\] Ms. N3 reads as follows: *mārjjāreṇa sūtralaṃghane tadasthi rāsasya vā* || *gard-dareṇa laṃghane tadasthi* || *kujjureṇa laṃghane tadasthi* || *ajāvibhyāṃ laṃghane tayor asthi vā* || *aśvenāśvāsthi* || *hastinā hastyasthi* || *uṣṭrāsthi vā* | *aśvatareṇa tadasthi mahiṣeṇa śṛgālāsthi* || *mṛgeṇa mṛgāsthi* || *rekṣeṇa ṛkṣāsthi* | *varāheṇa vyāghrāsthi* || *vyāghreṇa gajāsthi* || *mūṣakeṇa mūṣakāsthi* | *sarppeṇa sarppāsthi* || *kacchapena kacchapāsthi* || (33v2–5).
+
 [^22-p516]: Though the *Devyāmata* does not have a parallel to this teaching, *Piṅgalāmata* has a close parallel: *bhruvoḥ saṃsparśanād bhadre kācaśalyaṃ trihastakam* (68r3). See Tanemura 2004, 150.
+
 [^23-p516]: Though the *Devyāmata* does not have a parallel to this teaching, the *Piṅgalāmata* has a close parallel: *īśa\*sthe* (conj. Sanderson; *sthaś* Ms.) *cakṣuḥsaṃsparśāt tanmānān mauk-tikaṃ bhavet* (68r1). See Tanemura 2004, 150.
+
 [^24-p516]: Though the *Devyāmata* does not have a parallel to this teaching, the *Piṅgalāmata* has a close parallel: *śruti\*sthe* (conj. Sanderson; *sthaḥ* Ms.) *śrutisaṃsparśāt pravālaṃ vātha kāñcanam* | *rajataṃ ca śubhā hy ete karṇamātrāt samuddharet* | (68r1). See Tanemura 2004, 150.
+
 [^25-p516]: Though the *Devyāmata* does not have a parallel to this teaching, tthe *Piṅgalāmata* has a close parallel: *kakṣau kakṣākṛtiṃ vindyāt kṛṣṇalohaṃ karatrayāt* (68r3). See Tanemura
+
 [^26-p516]: Though the *Devyāmata* does not have a parallel to this teaching, the *Piṅgalāmata* has a close parallel: *śiśne tu vikṛtiṃ yāte trilohaṃ tatra jāyate* | *trikarādhaḥ samuddhāryam iti śāstrasya niścayaḥ* | (68r3–4). See Tanemura 2004, 152.
 
 *[p. 517]* ^pg552
@@ -863,8 +918,11 @@ DM v. 19ab) (4) ajāvibhyāṃ laṅghane tayor asthi gor asthi vā. (= DM v. 20
 iti nimittoktiḥ.
 
 [^27-p517]: Though the *Devyāmata* does not have a parallel to this teaching, the *Piṅgalāmata* has a close parallel: *gulphasthe gulphasaṃsparśād dhayapādaṃ vinirdiśet* | *daśāṣṭāṅgulamā-nena tatra \*khātvā* (em. Sanderson; *khaṭvā* Ms.) *samuddharet* | (67v4) See Tanemura 2004, 153.
+
 [^28-p517]: For §\[4\] N3 reads as follows: *śiraḥkaṇḍūyanaṃ yady ācāryaśilpiyajamānatanniyogijanā-nām madhye kaścit karoti* || *tadā ekapauruṣād adhaḥ śalyam asti* || *bhrūsparśe suvarṇ-ṇaṃ hastatrayāt kācam vā* || *netrasparśe netraparyāntādhastān muktā* || *mukhasparśe keśaṃ kāṣṭham vā \*trikādhare* (N3*ac*; *trikarādhare* N3*pc*)|| *dantasparśāt tribhir hastair dantam anumīyet* || *karṇṇakaṇḍūyane karṇṇāntādhastād rūpyaṃ* || *suvarṇṇaṃ vidrumam vā bhavet* || *galasparśena tataḥ pramāṇādhaḥ kaṇṭhikā* || *lohaśṛṅkhalā vā aṅśākaṃkālam vā trikarādhare* || *aśasparśe tatpramāṇādhare tadābharaṇaṃ* || *kakṣasparśe kakṣāntādho lohaṃ* || *dakṣiṇakarasparśe kaṭimātrādhaḥ pṛṣṭhakapālaṃ mṛnmayakapālam vā* | *vāmahastasparśe jānumātrādhaḥ khaṭvāpādaḥ* || *pārśvakaṇḍūyane navārddhamātrādho dhūlī* || *uraḥsparśe kaṭimātrādhaḥ paṇḍuḥ kīkaśaṃ* || *pṛXṣṭhasparśe pṛṣṭhāsti tatpramāṇādhaḥ* || *kaṭisparśe dvikarādhaḥ pradeśe lohakaṇṭhakaṃ* || *liṅgasparśena hastapramāṇādhare trilohaśalyaṃ* || *jaṃghāsparśe tada\*X* (N3*ac*; *tyo* N3*pc*)*kādaśāṅgulādhare gulphasparśe* *’ṣṭādaśāṅgulādhare ’śvakuraḥ* || *pādasparśāXt dvādaśāṅgulre ’dhare śālmalī kaṇṭhako vā* || *pādakaniṣṭhāṅgulīsparśe ’ṣṭāṅgulādhare kāṃśyaṃ* | *pārṣṇisparśe dvādaśāṅgulādhare* *’bhrakaṃ* || (33v5–34v1).
+
 [^29-p517]: For §\[5\] N3 reads as follows: *sūtrapātanasamaye yajamānasya pārśve sthitvā kenacid anye\[na pu\]ruṣeṇa*⊔*yasya prāṇino nāma sa\[kīttyata tada\]sthi tatrā\[stī\]ti niścayaḥ* || (34v1).
+
 [^30-p517]: For §\[6\] Ms. N3 reads as follows: *akasmād gaur āgatya yadi viṣṭhām utsṛjati tadadho vaśyaṃ tatpramāṇaṅ kanakam astīti niścīyate* | *yady akasmād āgatya \[pu?\]rīṣam utsṛjati vālakumārikā tadā tadadho ’vaśyaṃ tatpramāṇa rūpyam bhavet* || *bhekarutena jalabhayaṃ* || *sukasīrikāhaṃsakokilamayūjīvaṃjīvakacakravākavṛṣabhāṇāṃ hṛdyopakūja-naṃ kalyāṇāya bhavati* || *siṃhagajameghamanojñasvano dhanadhānyārthalābhodayāya bhavati* || *śaṅkhamaṅgalagītikāvālakrīḍaner arthāptiḥ* || *dhūmadarśane cittapīḍā* || *hīnadīnavyādhiparipīḍitajanadarśane rogaḥ* || *dhvajacchatrapatākāsadyamāṃsaghaṇṭālaṅkā-rāmbhojadadhīndravahnijvālāphalamīnayugarājāṅganādīnāṃ sandarśane śubham bhavati* || *vidvadbrāhmaṇabhikṣusādhujanānāṃ sandarśane dharmmaḥ syāt* || (34v1–5).
 
 *[p. 518]* ^pg553
@@ -1177,8 +1235,11 @@ If a jackal steps over \[a cord\], \[the officiant\] should prognosticate the bo
 If a hog steps over \[a cord\], there is \[the bone of\] a tiger \[beneath the site\]. (= KSP \[3\](11)) (22a)
 
 [^33-p525]: Although the *Devyāmata* does not mention the bone of a cat as an extraneous thing, it should also be prognosticated if we consider v. 10 of the *Devyāmata* above.
+
 [^34-p525]: The *Kriyāsaṃgrahapañjikā* mentions the bone of a mouse, which is not mentioned in the *Devyāmata*, as the extraneous thing in the case that a mouse passes over a cord. If we consider v. 10 of the *Devyāmata* above, the bone of mouse should also be prognosticated in this case.
+
 [^35-p525]: The *Kriyāsaṃgrahapañjikā* mentions bones of rams and sheep, which are not mentioned in the *Devyāmata* as extraneous things. Probably, in this case too, the rule of v. 10 above should be applied.
+
 [^36-p525]: If the rule of v. 10 is applied, the bone of a horse should also be prognosticated in this case. The bone of a buffalo is not mentioned in the corresponding part of the *Kriyāsaṃgrahapañjikā*.
 
 *[p. 526]* ^pg561
@@ -1204,8 +1265,13 @@ If \[someone\] touches his mouth (or face), there must be \[an extraneous thing\
 If \[someone\] touches his teeth, there is \[an extraneous thing\] which is a tooth (*hanujam*). \[The officiant\] should remove \[it from a depth of\] that measurement \[= up to the teeth\].[^42-p526] (= KSP \[4\](5)) (65cd)
 
 [^37-p526]: The *Devyāmata* does not mention the bone of an elephant, which is mentioned in the *Kriyāsaṃgrahapañjikā*. Probably, in this case too, the rule of v. 10 should be applied.
+
 [^38-p526]: The *Kriyāsaṃgrahapañjikā* does not mention the former omen, i.e. the urination of a cow.
+
 [^39-p526]: There might be a corruption here. It is expected that the extraneous thing is a certain kind of metal in this case.
+
 [^40-p526]: The *Kriyāsaṃgrahapañjikā* teaches only that there is an extraneous thing at a depth of the full height of a man in this case.
+
 [^41-p526]: The *Kriyāsaṃgrahapañjikā* teaches that the depth is three cubits in this case.
+
 [^42-p526]: The *Kriyāsaṃgrahapañjikā* teaches that the depth is three cubits in this case.

@@ -114,67 +114,125 @@ If he took an oath to help others with regard to a matter with which he could he
 Similarly, when he takes an oath that the sun is smaller than the earth, he is not liable for lashes [for an oath taken in vain] although this is not the reality. For this matter is not known to all people.[^59] Such a person is not comparable to one who takes an oath that a man is a woman. For he took the oath according to his perception, for the sun looks small. Similar laws apply to other comparable concepts from the reckoning of the factors determining the calendar, astronomy, geometry, and other abstract concepts of the like that can be perceived only by other people. ^5-22
 
 [^1]: Although the concept of a *sh'vuat bitui* applies both with regard to the past and the future (Chapter 1, Halachah 2), it is not necessary that every *sh'vuat bitui* have both a past and a future component.
+
 [^2]: As the Rambam continues to explain, the oath is not necessarily false, because the other people may do what he postulated. Rashi (*Sh'vuot* [[Shevuot 25#25a|25a]]) considers this a false oath. The *Siftei Cohen* 236:4 quotes Rashi's view.
+
 [^3]: The Radbaz and the *Kessef Mishneh* point out several difficulties with the Rambam's words. Firstly, in *Hilchot Sanhedrin*, the Rambam does not make such statements explicitly. The only mention of a warning of a doubtful status is in *Hilchot Sanhedrin* 16:4. From those statements and those here, it appears that the Rambam considers such a warning as significant. There he does not explain the distinction of whether the prohibition is explicitly mentioned in the Torah or not. Also, the prohibition against taking a false oath is explicitly mentioned in the Torah. The Radbaz explains that the intent is that the concept that such an oath is considered as having been taken in vain is not explicit in the Torah and may not be known by an ordinary person.
+
 [^4]: As stated in Chapter 2, Halachah 1, whenever one responds *Amen* to a colleague's oath, he is bound by it.
+
 [^5]: The Rama (*Yoreh De'ah* 236:2) mentions two opinions. One emphasizes that the one who took the oath must certainly fulfill it. For example, if one takes an oath to marry a woman, the oath is considered as having been taken in vain, because the woman may not consent. Nevertheless, if she does consent, the man should keep his word and marry her. The other, however, does not consider this as an oath taken in vain, but rather as a false *sh'vuat bitui*.
+
 [^6]: The *Ma'aseh Rokeach* maintains that even if the involved parties fulfill the oath, the person taking it is given stripes for rebellious conduct, for he should never have taken such an oath.
+
 [^7]: For in these instances, he has no control over the other person's actions.
+
 [^8]: For he did not know of Shimon's actions.
+
 [^9]: The *Tur* questions the Rambam's ruling, focusing on the difference between an oath (*sh'vuah*) and a vow (*neder*). When taking an oath, a person causes his own person to be prohibited against performing a particular action. To use *yeshivah* terminology, it is an *issur gavra*; the prohibition is on the person. When taking a vow, by contrast, he places the prohibition on the object. It is an *issur cheftzah*.  
     Now when a person takes a vow against a colleague benefiting from his property, there is no difficulty, because he is placing the prohibition on the property. How can he, however, place a prohibition on a colleague's person? How can his oath take effect?  
     The Rambam's ruling is quoted by the *Shulchan Aruch* (*Yoreh De'ah* 236:3; albeit using slightly different wording). The *Turei Zahav* 236:7 explains that the Rambam follows the principal stated by the Ramban that an oath expressed using the wording of a vow and a vow expressed using the wording of an oath is binding. The Radbaz, puzzled by the same difficulty, states that this refers to an instance where the colleague answered *Amen* to the oath.
+
 [^10]: E.g., earth or spoiled foods.
+
 [^11]: The Radbaz explains that he is eating them, not because he considers them as food, but in order to quench his pangs of hunger.
+
 [^12]: An animal that died without ritual slaughter.
+
 [^13]: An animal with a blemish that would cause it to die within twelve months.
+
 [^14]: Since he is already forbidden to partake of these entities by the oath taken by the Jewish people as a whole at Sinai, the oath he takes is of no significance (*Sh'vuot* [[Shevuot 22#22b|22b]]). See Halachah 11.  
     The Radbaz emphasizes that this exclusion applies only with regard to entities forbidden by Scriptural Law, but not those forbidden by Rabbinic Law. For in such an instance, he is not bound by the oath taken by our people at Sinai.
+
 [^15]: Rabbenu Nissim explains the difference between this and the first clause as follows: In the first clause, we assume that the not eating, he referred to in his oath was not eating foods that people usually eat. These articles were not included in his oath, for there is no reason to forbid them. In the second instance, he included everything that he considers as food in his oath.
+
 [^16]: Even before he took his oath.
+
 [^17]: As the Torah states: "Cursed is the man who will not observe the words of this Torah" ([[Torah 50 - Ki Tavo#^27-26|Deuteronomy 27:26]] .
+
 [^18]: The Radbaz explains that although the Rambam maintains that there is a Scriptural prohibition against eating even less than the measure for which one is liable (*Hilchot Ma'achalot Asurot* 14:2), this is not considered a matter for which one is bound by an oath from Sinai. For that oath includes only those matters which are explicitly mentioned by the Torah and this prohibition is not. There are, however, other *Rishonim* who do not makes such a distinction. See *Siftei Cohen* 238:6.
+
 [^19]: The oath takes effect, because, as stated in the previous halachah, for this quantity, he is not bound by an oath from Sinai. The Radbaz states that preferably, he should have this oath nullified. Nevertheless, if that is not possible, it is preferable for him to keep the oath and violate the Scriptural commandment.
+
 [^20]: On the other hand, perhaps, he is not liable, for since he mentioned "eating" in his oath, we assumed that he meant an olive-sized portion.
+
 [^21]: Perhaps he is liable for, as mentioned above, since such articles are not usually eaten, he may be held liable even for eating less than the usual amount or perhaps we require an olive-sized portion.
+
 [^22]: As stated in [[Torah 35 - Nasso#^6-4|Numbers 6:4]].
+
 [^23]: As stated in Halachah 11.
+
 [^24]: See Chapter 4, Halachah 1.
+
 [^25]: I.e., in addition to violating the prohibition against forbidden foods.
+
 [^26]: We do not say he is required to eat the two together.
+
 [^27]: Chapter 4, Halachah 11.
+
 [^28]: Substances explicitly forbidden by the Torah.
+
 [^29]: This oath does not take effect, because an oath cannot take effect with regard to an object bound by another oath. Since the entire Jewish people are bound by the oath taken at Sinai not to partake of these substances, no other oath involving these entities can take effect (*Kessef Mishneh*).
+
 [^30]: Were the person to have taken an oath to eat the forbidden substance, he would be taking an oath in vain, for his oath would be to nullify one of the Torah's mitzvot. In this instance, however, he is taking an oath to fulfill the mitzvah. This is permitted. See *Nedarim* [[Nedarim 8#8b|8b]]; Chapter 11, Halachah 3.
+
 [^31]: See Chapter 1, Halachah 6.
+
 [^32]: For the oath is considered as having been taken in vain at the moment it was uttered (see Rashi, *Sh'vuot* [[Shevuot 29#29b|29b]]).
+
 [^33]: Due to his first oath.
+
 [^34]: As stated in the previous halachah.
+
 [^35]: I.e., within the time period he specified in the oath; alternatively, after the loaf was destroyed or eaten by others. As long as the loaf continues to exist, however, he may fulfill his oath.
+
 [^36]: For his first oath is binding.
+
 [^37]: Due to his first oath, as above.
+
 [^38]: For the reasons stated in Halachah 11.
+
 [^39]: As stated in Chapter 1, Halachah 6.
+
 [^40]: For these are all mitzvot that he is required to fulfill.
+
 [^41]: *Sefer HaMitzvot* (positive commandment 178) and *Sefer HaChinuch* (mitzvah 122) count this as one of the 613 mitzvot of the Torah. See *Hilchot Edut* 1:1.
+
 [^42]: Nor is he liable for taking an oath in vain, for at the time he took the oath, it was not in vain. And one may take an oath to observe the mitzvot, so his intent was desirable (Radbaz).
+
 [^43]: I.e., since performing any one of these acts violates one of the Torah's prohibitions, taking an oath to perform such an act is equivalent to taking an oath to nullify a mitzvah. Nevertheless, the Rambam prefaces his ruling with the words "It appears to me" - which indicate a ruling based on his own deductive processes - for, in prior Rabbinic sources, the statement that taking an oath to nullify a mitzvah is considered taking an oath in vain were made with regard to prohibitions between man and God and these are prohibitions between man and man.
+
 [^44]: *Hilchot Chovel UMazik* 5:1 states that a person may not injure himself. Nevertheless, since this prohibition is not explicitly stated in the Torah, it is not considered as one is taking an oath to nullify a mitzvah (see Halachah 7) and the oath takes effect (Radbaz).
+
 [^45]: If, however, it is not in his capacity to perform this favor, he is liable for taking an oath in vain, but not for failing to fulfill a *sh'vuat bitui* (Radbaz).  
     Performing deeds of kindness fulfills a mitzvah. Nevertheless, since the specific deeds are not explicitly mentioned in the Torah as mitzvot, the violation of an concerning them is considered as a false *sh'vuat bitui*.
+
 [^46]: When we are commanded to eat matzah. The mitzvah applies only on the night of the fifteenth of Nisan and not throughout the holiday.
+
 [^47]: The Rama (*Yoreh De'ah* 236:5, quoting the Maharam of Padua, Responsa 74) emphasizes that this ruling only applies with regard to positive commandments, but not with regard to the Torah's prohibitions. Thus if a person took an oath that he would eat all types of meat, we do not say that since the oath takes effect with regard to the kosher meat, it also takes effect with regard to the non-kosher meat.
+
 [^48]: And thus the oath also prevents one from fulfilling the mitzvah of dwelling in a *sukkah* on Sukkot.
+
 [^49]: The Radbaz interprets the oath as preventing the person from fulfilling the mitzvah of *tzitzit*. Nevertheless, as the Radbaz himself notes, this interpretation is somewhat problematic, because there is no Scriptural mitzvah to wear *tzitzit* each day. Instead, the mitzvah is that if one is wearing a four-cornered garment, one must attach *tzitzit* to it. See *Hilchot Tzitzi* 3:11. Others interpret this as referring to priests who take such an oath and thus are prevented from wearing the priestly garments while serving in the Temple. As stated in *Hilchot Klei HaMikdash* 10:4, wearing such garments is a mitzvah.
+
 [^50]: And he is liable if the oath is false.
+
 [^51]: For there is no way that he can keep his word. Thus from the moment he uttered the oath, it was uttered in vain (Radbaz). See Chapter 1, Halachah 7.
+
 [^52]: The *Kessef Mishneh* quotes Rabbenu Nissim who questions the similarity between the two instances. It is impossible that a person will not sleep for seven days. He will fall asleep whether he desires to or not. Hence, he should not even try to remain awake. With regard to eating, by contrast, seemingly, the person should wait until he reaches a dangerous state and then he should be allowed to eat.  
     Based on the commentary of the *Tzaphnat Paneach*, it is possible to explain the differences in approach as follows: According to Rabbenu Nissim, the prohibition is lifted because of the danger, but it is not nullified entirely. Hence, when a person takes an oath on a matter that involves danger, we lift the prohibition, but only after we have waited until the danger is acutely felt. Hence, the oath not to eat is not necessarily a false oath. The oath not to sleep, by contrast, is definitely false, because it is impossible that he will not sleep.  
     According to the Rambam, by contrast, since there is danger to life involved, the prohibition is nullified entirely. Hence, even the oath not to eat is considered to have been taken in vain.
+
 [^53]: Our translation is based on the commentary of the Radbaz. Even if there is no court to administer this punishment to him, he may eat and sleep whenever he desires. When he is brought before the court, they will subject him to punishment.
+
 [^54]: For the oath is not considered to have taken effect at all.
+
 [^55]: Because the meaning of phrases used by people at large determines the ruling with regard to oaths and vows (Radbaz).
+
 [^56]: For taking an oath in vain.
+
 [^57]: Actually, according to the scientific data available at present, the sun is far larger than this. Some have tried to reconcile the Rambam's statements with this data by explaining that the Rambam is speaking about the actual mass of the sun and not the burning energy on its surface. See *Likkutei Sichot*, Vol. 10, p. 180.
+
 [^58]: I.e., one might think that since this is the reality, taking such an oath is considered an oath in vain. The Rambam is clarifying that since people at large may not be aware of this fact, it is not placed in that category.
+
 [^59]: The Radbaz states that even if the person taking the oath knows that the sun is larger than the earth, he is not liable for taking an oath that is smaller, for people at large do not know this fact.

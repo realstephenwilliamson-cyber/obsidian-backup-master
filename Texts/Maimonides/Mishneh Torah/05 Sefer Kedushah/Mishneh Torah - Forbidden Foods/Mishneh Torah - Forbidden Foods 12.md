@@ -141,90 +141,169 @@ When a [gentile] young child is discovered among the barrels, regardless of whet
 When a barrel has been opened by thieves, if most of the local thieves are Jewish, it is permitted to drink the wine. If not, it is forbidden. ^12-29
 
 [^1]: As the Rambam stated in Chapter 11, Halachah 8, unless otherwise specified, when he uses the term "gentile," he is referring to an idolater.
+
 [^2]: Or with an article held in his hand [*Shulchan Aruch* (*Yoreh De'ah* 124:11)].
+
 [^3]: As evident from Chapter 11, Halachah 11, according to the Rambam, it is not customary to pour a libation with one's feet. Note, however, the *Shulchan Aruch* (*Yoreh De'ah* 124:11) which forbids wine that a gentile touched with his feet. The Rama, however, quotes the Rambam's view.
+
 [^4]: If, however, he did not cause the wine to move, it is forbidden to drink it, but one is allowed to benefit from it (Radbaz). In his *Kessef Mishneh*, however, Rav Yosef Caro notes that although there are authorities who agree with the ruling of the Radbaz, from the Rambam's wording, it appears that the wine is permitted entirely. In his *Shulchan Aruch* (*Yoreh De'ah* 124:13), he follows the majority view and rules that it is permitted only to benefit from such wine.
+
 [^5]: The Rambam is citing an incident that transpired as recorded by *Avodah Zarah* [[Avodah Zarah 59#59b|59b]]. It is not forbidden to benefit from the wine. The question of whether or not it is forbidden to drink it depends on the difference of opinion mentioned in the previous note.
+
 [^6]: With regard to a closed container, see Halachah 4.
+
 [^7]: The Ra'avad objects to this ruling, maintaining that as long as the gentile does not touch the wine itself, lift the container, or cause the wine to spatter, moving an open utensil does not cause it to be forbidden. The *Shulchan Aruch* (*Yoreh De'ah* 124:17) quotes the Rambam's ruling as a minority opinion and the Rama states that it need not be followed if financial loss is involved.
+
 [^8]: This addition is made on the basis of the gloss of the Radbaz.
+
 [^9]: There is a difference of opinion among the commentaries if only the wine that is poured out is forbidden or also the wine which remains in the container (*Kessef Mishneh*). The *Shulchan Aruch* (*Yoreh De'ah* 125:1) quotes the more stringent view. The Rama mentions the more lenient opinion, but states that it may be followed only in a case of severe loss.
+
 [^10]: I.e., even to drink the wine. For merely lifting up the wine is of no consequence.
+
 [^11]: One may even drink it [*Shulchan Aruch* (*Yoreh De'ah* 125:8)].
+
 [^12]: A libation is made only from an open container (see *Avodah Zarah* [[Avodah Zarah 60#60a|60a]]).
+
 [^13]: This addition was made on the basis of the gloss of the Radbaz.
+
 [^14]: For this is equivalent to closing it.
+
 [^15]: The Rambam's source (*Avodah Zarah* [[Avodah Zarah 60#60a|60a]]) and also the *Shulchan Aruch* (*Yoreh De'ah* 125:10) emphasize that we are referring to a situation where the Jew is following the gentile. Otherwise, the wine is certainly forbidden.
+
 [^16]: The Radbaz states that the same laws apply regardless of what the container was made of. Therefore he maintains that the word "earthenware" is a printer's error.
+
 [^17]: Although the Rashba maintains that one may benefit from the wine, most authorities rule that it is prohibited to benefit from it as well as to drink it [*Shulchan Aruch* (*loc. cit.*)].
+
 [^18]: Since the container is both open and full, it is highly likely that the gentile touched the wine (*Avodah Zarah* [[Avodah Zarah 60#60a|60a]]).
+
 [^19]: For shaking the wine is equivalent to pouring it as a libation, as stated in Halachah 1.
+
 [^20]: I.e., it is forbidden to drink it, as stated in Chapter 11, Halachah 5.  
     The Rama (*Yoreh De'ah* 124:24) states that in the present era, most gentiles are not idolaters. Therefore, if they touch wine unintentionally, the wine is not forbidden at all.
+
 [^21]: This addition was made on the basis of the gloss of the *Kessef Mishneh*.
+
 [^22]: According to Scriptural Law, as long as the gentile does not touch the wine, it is not forbidden. Although our Sages forbade wine which he shook without touching as a safeguard, that applies only when the gentile intentionally touches the container of the wine (see *Avodah Zarah* [[Avodah Zarah 58#58a|58a]]).
+
 [^23]: Shaking it (*Kessef Mishneh*). According to the Rambam, this applies even though he did not know for certain that the article he touched was wine. The Ra'avad differs and maintains that the gentile must know that the container contains wine when shaking it. Otherwise, it is not forbidden. The *Shulchan Aruch* (*Yoreh De'ah* 124:12) quotes the Rambam's ruling.
+
 [^24]: And thus the wine will not spill.
+
 [^25]: See *Shulchan Aruch* (*Yoreh De'ah* 124:22).
+
 [^26]: In this instance, it is permitted to benefit from the wine, because the gentile is considered to have touched it without intending to. See Halachah 5. According to the Rama's view that the gentiles of the present age are not considered as idolaters, there is no prohibition against using such wine at all. This leniency should be accepted if a significant loss is involved (*Siftei Cohen* 124:55). This concept also applies to the remainder of the instances mentioned in this halachah.
+
 [^27]: In these instances, since the gentile did not touch the wine directly, merely by means of another entity, it is not forbidden to benefit from it.
+
 [^28]: Rashi, *Avodah Zarah* [[Avodah Zarah 60#60a|60a]], states that it is not forbidden to benefit from this wine, because this is not the ordinary way that one makes a libation. *Kin'at Eliyahu* asks: Since the wine is boiling, the entire prohibition against gentile wine seemingly should not apply, as stated in Chapter 11, Halachah 9?
+
 [^29]: In this instance also, the gentile did not touch the wine directly. Hence it is permitted to benefit from it.  
     The Ra'avad protests to this ruling, stating that if he threw the barrel into the cistern in anger, the wine in the cistern is not forbidden at all. Even if he intentionally threw the barrel into the cistern, it is still permitted to benefit from the wine for the reason mentioned. The Radbaz notes that the wording of *Avodah Zarah, loc. cit.*, appears to support the Ra'avad's perspective, for it states that our Sages *hikshiru*, "considered acceptable," the wine. He, however, cites a passage from the Jerusalem Talmud (*Avodah Zarah* 4:11) which appears to fit the Rambam's perspective. The *Shulchan Aruch* (*Yoreh De'ah* 124:19) quotes the Rambam's view. Nevertheless, the commentaries note that in *Yoreh De'ah* 125:5, the *Shulchan Aruch*, appears to support the Ra'avad's view.
+
 [^30]: For we assume that in his happiness over being saved, he will offer the wine as a libation to his false deity (*Avodah Zarah, loc. cit.*). The *Turei Zahav* 124:19 states that if the gentile was alive when taken from the cistern, the wine is forbidden even if he dies immediately afterwards.
+
 [^31]: One may not even benefit from it. Since the wine would have flowed out had the gentile not place his finger there, our Sages considered it as if he touched all of that wine.
+
 [^32]: Because this wine was not affected by the gentile's touch at all. Although this wine is touching the wine that is forbidden, it is not forbidden. The Ra'avad objects to such a ruling, maintaining that the entire barrel should be considered as mixed together. The Radbaz and the *Kessef Mishneh* justify the Rambam's ruling, explaining that had the gentile inserted his finger in the hole and touched the wine, the entire barrel would have been forbidden. Here, however, we are speaking about an instance where the gentile stopped the wine from flowing by placing his finger on the outside. Therefore the wine above the hole is forbidden because it was affected by his power, as stated in the following halachah. This is merely a Rabbinic decree. Hence, the wine below the hole is not forbidden at all. The *Tur* and the *Shulchan Aruch* (*Yoreh De'ah* 124:23) follow the Ra'avad's view. See also *Hilchot Tum'at Ochalin* 8:6.
+
 [^33]: This ruling applies when the opening to the outflow pipe is placed at the bottom of the barrel, so that all the wine would actually have flowed out had the gentile allowed it to. If it was not placed at the bottom of the barrel, the laws mentioned in the previous halachah apply (Radbaz; *Siftei Cohen* 124:69).
+
 [^34]: From the Rambam's wording, it appears that this ruling applies with regard to all gentile wine, even when it was not known to have been used as a libation for a false deity. The Rambam, moreover, appears to forbid benefit from the wine, not only partaking of it. The Ra'avad rules that it is permitted to benefit from the wine, but not to partake of it. The *Tur* (*Yoreh De'ah* 126) mentions the opinion of Rabbenu Tam which is more lenient, ruling that this stringency does not apply to ordinary gentile wine. He rules that it is even permitted to partake of the wine. The *Shulchan Aruch* (*Yoreh De'ah* 126:1-2) follows the ruling of the Maharam of Rutenburg, who states the Rambam's stringency should be followed only when a small loss is involved. If there is a significant loss involved, we may rely on the perspective of Rabbenu Tam.  
     See also the *Tur* who mentions a perspective that maintains that the above stringency applies only to wine used as a libation for a false deity, but not to ordinary gentile wine.
+
 [^35]: Compare to *Hilchot Tumat Ochalin* 7:1,5 where this principle is not applied. It appears that it is applied in this instance because of the stringency of the prohibition against gentile wine.
+
 [^36]: Because the wine held back in the funnel is forbidden because of the connection to the column of wine that extends to the gentile's utensil.
+
 [^37]: Drying refers to the process of applying water and ashes mentioned in Chapter 11, Halachah 20.
+
 [^38]: The *Kessef Mishneh* offers the following interpretation of the Rambam's wording: As long as the funnel was washed thoroughly, even if it was not dried out, it does not cause other wine to become forbidden. He also, however, makes a distinction between a funnel that has been used by a gentile frequently and one that was used just once. In the former instance, he states, it is possible that washing it thoroughly alone is not sufficient.
+
 [^39]: I.e., it is forbidden to benefit from the entire quantity of wine [*Shulchan Aruch* (*Yoreh De'ah* 124:11)]. According to the Rama, one is permitted to benefit from the wine if the loss will be significant (*Siftei Cohen* 124:23).  
     The rationale for the prohibition is that the wine in the container will mix with the small quantity of gentile wine in the funnel and become forbidden.
+
 [^40]: I.e., outflow pipes.
+
 [^41]: Since the wine which the Jew is drinking and that which the gentile is drinking are flowing in opposite directions, they are not considered to be connected.
+
 [^42]: For it was his sucking that drew it into the outflow pipe. When that wine returns to the container and becomes mixed with the wine in the container, all the wine becomes forbidden as indicated by the following halachah.
+
 [^43]: Even if the wine never touched his mouth (*Kessef Mishneh*).
+
 [^44]: A Talmudic measure equivalent to approximately a kilometer. The *Lechem Mishneh* notes that as stated in *Hilchot Mitamei Moshav UMerkav* 13:5, a *mil* is not a cut off point. As long as the gentile has reason to fear that the Jew will appear suddenly, the wine is permitted.
+
 [^45]: These words will imply to the porters that he will not be coming immediately. Hence there is reason to fear that they will take from the wine.
+
 [^46]: I.e., so that it would not be apparent that they touched it.
+
 [^47]: Implied is that one is permitted to benefit from it. The rationale is that since the barrel is sealed, we follow the principle stated in Chapter 13, Halachah 9. See also the Rama (*Yoreh De'ah* 129:1) who rules that if the loss is significant, we may rely on the views that one seal is sufficient.
+
 [^48]: I.e., one may even partake of it.
+
 [^49]: One may drink it. For the gentile will be afraid to touch the wine, for he will never feel that the Jew has left him alone with the opportunity to do whatever he wants.
+
 [^50]: As in the previous halachah, since the gentile knows that the Jew is departing for a significant period, we fear that he will use the opportunity to take the wine.
+
 [^51]: See the Rambam's Commentary to the Mishnah (*Avodah Zarah* 5:4) which explains why it is necessary to mention all three instances: the store, the wagon, and the ship.
+
 [^52]: The *Tur* and the *Shulchan Aruch* (*Yoreh De'ah* 129:1) state that this applies only when the Jew went on a side path that would enable him to surprise the gentile. If, however, he follows the ordinary path, the wine is forbidden. For the gentile will watch to see whether he is coming.
+
 [^53]: And thus: a) the wine is easily accessible, and b) the barrel does not have to be sealed close to hide the fact that one took from the wine.
+
 [^54]: It would appear that according to the Rambam, it is even forbidden to benefit from the wine (*Kessef Mishneh*).
+
 [^55]: We assume that he will touch the wine on the table, because it is open before him. But we don't think that he will take the risk of appearing as a thief by touching the wine on the counter. For it is not proper for a guest to take food left on the counter until the host has it brought to the table [the Rambam's Commentary to the Mishnah (*Avodah Zarah* 5:5)].  
     The *Shulchan Aruch* (*Yoreh De'ah* 129:7) rules slightly more stringently, stating that any wine which is in the gentile's reach is forbidden.
+
 [^56]: Since the Jew gave him license, we have no reason to think that he will restrain himself. Here, too, the *Shulchan Aruch* (*loc. cit.*) rules more stringently, stating that if the Jew remains outside for a prolonged period (as mentioned in the previous halachah), even the closed barrels are forbidden.
+
 [^57]: I.e., the wine on the table, as in the previous halachah (*Kessef Mishneh*).
+
 [^58]: As above, when quoting this law, the *Shulchan Aruch* (*Yoreh De'ah* 129:7) mentions the possibility of the Jew coming from a side path and surprising the gentile. If this is not possible, that source does not accept this leniency.
+
 [^59]: *Avodah Zarah* [[Avodah Zarah 70#70a|70a]] (the Rambam's source) and the *Shulchan Aruch* (*Yoreh De'ah* 129:9) state that this leniency applies when the Jew and the gentile live in a two-storey home, with the Jew living in the upper storey. The Rambam does not appear to think that is necessary (*Kessef Mishneh*).
+
 [^60]: The *Kessef Mishneh* states that the Rambam chose his words carefully. This leniency is granted because they left in agitation. Hence, it was probable that they would not notice each other outside. If, however, they left with calm reserve, it is possible that the gentile would have looked to see that the Jew was not returning and then entered his home and touched his wine.  
     The Rama (*Yoreh De'ah* 129:9) quotes this understanding as halachah. The *Turei Zahav* 129:19, however, differs, explaining that even when a person leaves his home in an agitated state, he will not necessarily return in an agitated state.
+
 [^61]: If, however, we do not know that the door was locked - even though it was closed and it has a lock - the wine is permitted (*Turei Zahav* 128:5).
+
 [^62]: If, however, the Jew's barrels were closed, the wine in the closed barrels is permitted unless the gentile remained in the closed building alone for the time it would take to open a barrel, seal it closed again, and for its lid to dry, as stated in Halachah 16 [*Kessef Mishneh*; *Shulchan Aruch* (*Yoreh De'ah* 128:3)].
+
 [^63]: I.e., in an inn, there were several wine cellars, one in which a Jew stored wine and one in which a gentile stored wine (*Kessef Mishneh*).
+
 [^64]: I.e., if he was brought before the judges of a city on the complaint that he touched the wine, the judges would consider him a thief [Rashi (*Avodah Zarah* [[Avodah Zarah 61#61b|61b]])]. The *Kessef Mishneh* states that it is possible that the Rambam interprets the term differently, understanding it as meaning "if he would think he would be considered a thief." According to this interpretation, it could refer not only to the gentile's touching the wine, but also entering the wine cellar.  
     To explain: Since the gentile also stores wine in that inn, he has permission to be in the inn, but he does not necessarily have permission to be in the Jew's wine cellar. This is precisely the question the Rambam is focusing on. Would the gentile be considered as a thief for being found in the Jew's wine cellar or not?
+
 [^65]: Since he feels unthreatened, there is a high likelihood that he touched the Jews' wine.
+
 [^66]: For a young child never pours wine as a libation. In Chapter 11, Halachah 5, the Rambam states that it is forbidden to drink wine touched by a gentile young child. Here, he permits the wine entirely, because we are not certain that the young child in fact touched the wine. The Radbaz explains the rationale for the Rambam's ruling.: Since the young child does not think of using the wine as a libation, there is no reason for it to trouble itself and touch it.
+
 [^67]: The Rambam's wording appears to imply that the open barrels in the homes are permitted. The soldiers would take the liberty of entering stores and making themselves free with their contents. They would not, however, feel that confident to enter homes. The Radbaz objects to this interpretation, noting that we see that soldiers often enter homes to loot. Indeed, when mentioning this law, the *Shulchan Aruch* (*Yoreh De'ah* 129:12) speaks of homes and not stores.  
     Compare also to *Hilchot Issurei Bi'ah* 18:26 which discusses a similar situation with regard to the question whether the women of the town have been raped.
+
 [^68]: We can be certain that had the soldiers open the wine for use as a libation, they would not have taken the trouble of closing them again [*Kessef Mishneh*, *Shulchan Aruch* (*loc. cit.*)].
+
 [^69]: The *Kessef Mishneh* states that if a barrel was closed and it is discovered open, it is forbidden. For we see that the soldiers did have time to touch the wine.
+
 [^70]: The *Kessef Mishneh* explains the Rambam's ruling as follows: If the wine is security for a debt owed the gentile, the gentile will certainly not be considered a thief for touching the wine. Therefore it is forbidden. If the wine is not considered as security for a loan, when the gentile would be considered as a thief, the wine is permitted. When he would not be considered as a thief, it is forbidden.
+
 [^71]: This applies even if the Jew owes him money, and the loan is due, but he has not designated the wine as security for the debt [Rashi (*Avodah Zarah* [[Avodah Zarah 60#60a|60a]]); *Shulchan Aruch* (*Yoreh De'ah* 128:2)].
+
 [^72]: Although the Jews are willing to give in to their lust for forbidden relations, they are not suspect to drink gentile wine (*Avodah Zarah* [[Avodah Zarah 69#69b|69b]]). Even the gentile harlot realizes this.
+
 [^73]: I.e., wine that she herself brought.
+
 [^74]: Since they are employing her as a harlot, they look down upon her and show no consideration for her religious obligations.
+
 [^75]: I.e., a winepress that does not contain any wine, except for some remnants on the floor.
+
 [^76]: This is the meaning of the Hebrew phrase *tofach al minat litfiach*.
+
 [^77]: Applying water and ashes, as stated in Chapter 11, Halachah 20.
+
 [^78]: We are not certain that the gentile try to touch the wine. Even if he did try to touch the wine, there is no reason for a prohibition, for we are speaking of a dry winepress. Hence washing it out is certainly sufficient (Radbaz).
+
 [^79]: The *Shulchan Aruch* (*Yoreh De'ah* 129:17) quotes this law as applying only in situations when there are obstructions in the river that prevent wine from being carried down the river from other places. In such a situation, we follow the principle of *rov*, i.e., since the majority of the city's inhabitants are Jewish, we assume that the barrel came from one of them. We are, nevertheless, forbidden to drink the wine. See the notes to the following halachah.
+
 [^80]: In his *Kessef Mishneh*, Rav Yosef Caro questions the Rambam's ruling. The Rambam's logic appears to be that since it is obvious that the wine came from a wine merchant and most of the wine merchants are Jewish, we follow the majority and rule that the wine is permitted. Nevertheless, since the majority of the inhabitants of the town are gentile, we forbid drinking the wine. The *Kessef Mishneh* asks: "If we fear that the gentile touched the wine, it should be forbidden to benefit from it as well. And if not, it should be permitted to drink it." Indeed, he proposes that perhaps the Rambam's intent is that it is permitted to benefit only from the barrels. In his *Shulchan Aruch* (*Yoreh De'ah* 129:19), he follows the Rambam's ruling. Based on his *Beis Yosef*, it is possible to explain that we are speaking about closed barrels. We assume that had a gentile opened them and touched the wine, he would not have closed them again. Alternatively, since we do not know for certain that the gentile touched the wine, we do not forbid benefiting from it.

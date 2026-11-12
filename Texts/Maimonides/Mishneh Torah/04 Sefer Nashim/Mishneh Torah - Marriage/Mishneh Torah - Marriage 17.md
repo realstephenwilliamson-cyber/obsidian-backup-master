@@ -122,52 +122,95 @@ If, by contrast, a woman waives her *ketubah* in favor of her husband, she forfe
 The waiver of a *ketubah* [in favor of the woman's husband] need not [be affirmed by] a contractual act nor [be observed by] witnesses,[^43] just as the forfeiture [of any obligations] does not require affirmation by] a contractual act nor [the observation of] witnesses. Through one's words alone [the forfeiture is binding], provided the statement is made seriously, [in a manner that] can be relied upon, rather than facetiously, as a joke, or rhetorically.[^44] ^17-19
 
 [^1]: In his Commentary on the Mishnah (*Ketubot* 10:4), the Rambam explains that this oath differs from the oath that all widows take before collecting from an estate, as mentioned in Chapter 16, Halachah 4, and must be taken even when the wives are not obligated to take that oath. The woman must take this oath for the other widows, stating that she did not collect any money from their husband's estate previously. The *Shulchan Aruch* (*Even HaEzer* 96:16), however, states that the first widow takes an oath to the second, the second to the third, the third to the fourth, and the fourth to the heirs.
+
 [^2]: This procedure is followed even if doing so prevents one of the wives from collecting all that is due her. Indeed, even if there is nothing left for her at all, this order should be followed.
+
 [^3]: This ruling follows the opinion of ben Nanas in the above-mentioned *mishnah*. It involves a reversal of opinion for the Rambam, who, in his Commentary on the Mishnah favored the view of the other Sages.
+
 [^4]: This refers to a situation where the property owned by the estate is sufficient to cover all the obligations. Otherwise, the creditor takes precedence over the widows, as explained in Halachot 4-5 (*Maggid Mishneh*).
+
 [^5]: If one of the wives or creditors did not wait for the formal deposition of the estate's property, but took possession of some of the movable property on his or her own initiative, they are allowed to retain possession. For in contrast to landed property, the ownership of movable property is not a matter of public knowledge. Hence a creditor does not know whether another creditor preceded him, and therefore no creditor is given the right to collect his due from such property.  
     As reflected in the rulings of the *Tur* and the *Shulchan Aruch* (*Even HaEzer* 102:2), this ruling applies only when the movable property was not acquired together with and via the acquisition of landed property (*kinyan agav*). In the latter situation, the ownership of the movable property also becomes public knowledge, and therefore the order in which the liens were established is significant.  
     The Ramah quotes the opinion of the Mordechai, who states that, in the latter instance, if one of the widows seizes possession of the property, it should be expropriated from her.
+
 [^6]: For it was money that he gave him.
+
 [^7]: For a woman relies on the fact that she will ultimately be able to collect the money due her by virtue of her *ketubah* from the landed property in her husband's estate (*Ketubot* [[Ketubot 86#86a|86a]]).
+
 [^8]: See Chapter 16, Halachah 7.
+
 [^9]: See the notes on Halachah 3 with regard to a *kinyan agav*.
+
 [^10]: The term *nichsei tzon barzel* refers to property that the woman brought to the household, for which the husband obligated himself to pay a fixed value. In this instance, since the woman, like a creditor, gave up something of value, she is considered on a higher level of precedence than usual.
+
 [^11]: This pattern is also followed in the allocation of a person's holdings when they are not sufficient to pay the debts he owes, as explained in *Hilchot Malveh V'Loveh*, Chapter 20. The Ra'avad differs with the Rambam's approach and follows the minority view that the Rambam cites in that source, which maintains that the money should be divided proportionately. The Rambam's view is followed by most other *Rishonim* (Rashi, Rabbenu Yitzchak Alfasi, the Rashba and Rabbenu Asher) and is accepted by the *Shulchan Aruch* (*Even HaEzer* 96:18).
+
 [^12]: *Bava Batra* [[Bava Batra 174#174b|174b]] explains that the guarantor is not serious about his commitment. He feels that the couple needs only a small push to get married, and that is his intent, rather than making a serious financial commitment. Even a contractual act, which in other contexts serves as an indication of seriousness of purpose, is not sufficient in this instance.  
     The Ra'avad and the *Tur* (*Even HaEzer* 102) differ, and maintain that if a guarantor affirms his commitment with a contractual act, he is liable. The *Shulchan Aruch* (*Even HaEzer* 102:6) quotes the Rambam's view, while the Ramah cites that of the Ra'avad.
+
 [^13]: I.e., he brought about the marriage between the couple.
+
 [^14]: As can be deduced from the Rambam's wording, the *Maggid Mishneh* states that if a person guarantees a woman's *nedunyah* (the goods she brought to the household), his commitment is binding. For in this instance, the woman did give up something of value.
+
 [^15]: In this instance as well, the Ra'avad and the *Tur* differ and hold the father liable, even when he did not affirm his commitment with a contractual act. The *Shulchan Aruch* (*Even HaEzer* 102:6) follows the Rambam's view, while the Ramah cites that of the Ra'avad.
+
 [^16]: Moreover, this vow must be taken *al da'at rabbim*, based on the judgement of the public, and it thus cannot be nullified (*Shulchan Aruch, Even HaEzer* 102:7).
+
 [^17]: I.e., after the woman collected the money due her by virtue of her *ketubah* from him.
+
 [^18]: The woman may not collect the money due her by virtue of her *ketubah* from the property while it is the possession of the Temple treasury. After it is redeemed, however, she may collect her due from the property. The person who redeems the property must, however, be advised that the property is on lien to a woman's *ketubah*. (See *Hilchot Malveh V'Loveh* 18:7; *Hilchot Arachin VaCharamin* 7:14-15.)
+
 [^19]: I.e., the woman will collect her husband's property because it is on lien on her *ketubah*. Afterwards, she will remarry her husband, and he will be able to use his property, because of his rights as the woman's husband.
+
 [^20]: The sale is valid, however, until the woman seeks to claim the property. If, by contrast, the husband sells property that belonged to the woman, or property from which she was designated to collect the money due her by virtue of her *ketubah*, the sale is nullified immediately (*Maggid Mishneh*). (See *Hilchot Mechirah* 30:3.)
+
 [^21]: Note the Ramah (*Even HaEzer* 90:17), who states that if the woman received money from the purchaser, her commitment is binding.
+
 [^22]: I.e., the woman is saying that her commitment was not sincere and was made only to satisfy her husband.
+
 [^23]: Since she entered into the agreement with the purchaser before her husband made the sale, she cannot excuse herself by saying that she made her statements only to please her husband.
+
 [^24]: The *Maggid Mishneh* questions the reason for this phrase. When this law is cited in the *Tur* and the *Shulchan Aruch* (*Even HaEzer* 90:17), this phrase is omitted. Nevertheless, based on the Rambam's Commentary on the Mishnah (*Ketubot* 10:5), the *Ma'aseh Rokeach* maintains that, according to the Rambam, a sale must have been nullified in order for the woman's commitment to be binding later on.
+
 [^25]: A three-way compromise would obviously be most desirable. Nevertheless, any compromise between two of the three parties that causes one to renounce his right to expropriate the property is sufficient to stop the cycle (*Chelkat Mechokek* 100:26).
+
 [^26]: Our Sages understood that the necessity to pursue judicial proceedings is a cause of hardship and embarrassment for women. They felt that rather than subject his wife to such distress, any husband would willingly grant her the right to collect the money due her by virtue of her *ketubah* by selling his property without appearing in court (*Ketubot* [[Ketubot 97#97b|97b]]).  
     Therefore, rather than require her to take the matter to a formal court, they enabled her to resolve the issue by having the property evaluated by three acquaintances who possess the qualities mentioned above. Although these men would not be considered capable of participating in an ordinary court, an exception was made in this case. If, however, the widow has already remarried, she is required to undergo the ordinary judicial procedure.
+
 [^27]: I.e., should the property be expropriated by a creditor of the deceased, his heirs must reimburse the purchaser.
+
 [^28]: With regard to a divorcee, by contrast, our Sages (*op. cit.*) felt that her ex-husband would not be disturbed by her being subjected to hardship when this is necessary to protect his own interests.  
     Although there are *Rishonim* who maintain that the provision made for a widow also applies to a divorcee, the Rambam's ruling is accepted by the *Shulchan Aruch* (*Even HaEzer* 103:3).
+
 [^29]: See *Hilchot Malveh V'Loveh* 12:8,10, which explains that public announcements that a property will be sold are made daily for thirty days (or on Mondays and Thursdays, for a period of sixty days).
+
 [^30]: I.e., without the participation of a formal court.
+
 [^31]: I.e., without even the participation of the three acquaintances mentioned in the previous halachah.
+
 [^32]: Although the *Shulchan Aruch* (*Even HaEzer* 103:1) appears to favor the Rambam's view, it does mention other opinions that differ.
+
 [^33]: It would appear that the Rambam requires her merely to take the oath required of all widows before collecting the money due her by virtue of her *ketubah*. In this instance, the *Shulchan Aruch* (*Even HaEzer* 103:4) requires the woman to take an additional oath, stating that she did not sell the property for less than its worth.
+
 [^34]: The *Maggid Mishneh* and *Chelkat Mechokek* 103:11 state that, according to the Rambam, if the woman has the property evaluated by three trustworthy men who are knowledgeable with regard to the value of property, she is allowed to take the property as her own. Other opinions differ and maintain that this is possible only when the property is evaluated by a proper Rabbinical court.
+
 [^35]: When selling the property, the woman is considered to be the agent of the heirs, and the profit belongs to them and not to her (*Ketubot* [[Ketubot 98#98b|98b]]).
+
 [^36]: In this instance, the woman must accept the loss herself, because she took property that was worth the full value of her *ketubah*.
+
 [^37]: For she has no right to sell any property that is worth more than her *ketubah*.
+
 [^38]: The requirement of a *ketubah* was instituted so that the husband will not consider divorce a light matter, because of the severity of the financial obligation that will result. This remains true even if the woman does not receive the money herself.
+
 [^39]: As reflected in the continuation of the Rambam's words, the woman must first take the oaths required of her as if she herself were to collect the money due her by virtue of her *ketubah*.
+
 [^40]: I.e., her rights to support, medical attention and the like.
+
 [^41]: Chapter 19, Halachah 2.
+
 [^42]: From the Rambam's wording, it appears that the woman is not entitled to her subsistence even during her husband's lifetime, while they remain married. (Note Chapter 10, Halachah 10, which states that if a woman waives her *ketubah* in favor of her husband, he must write her a new *ketubah*.) The *Shulchan Aruch* (*Even HaEzer* 93:9) quotes the opinion that even during the husband's lifetime, he is not required to support his wife, but appears to favor the view of other *Rishonim* (Rashi, the Ramban and the Rashba), who grant a woman the right to support during her husband's lifetime in such a situation.  
     See also Chapter 19, Halachah 12, which discusses another consequence of a woman's waiver of her *ketubah* in favor of her husband.
+
 [^43]: In contrast to their role with regard to marriage and divorce, in financial matters witnesses are necessary only to confirm what happened. Their presence does not make a transaction or a commitment binding, nor hinder it from becoming so. (See *Hilchot Mechirah* 5:9.)
+
 [^44]: See *Hilchot Mechirah* 5:11-13.

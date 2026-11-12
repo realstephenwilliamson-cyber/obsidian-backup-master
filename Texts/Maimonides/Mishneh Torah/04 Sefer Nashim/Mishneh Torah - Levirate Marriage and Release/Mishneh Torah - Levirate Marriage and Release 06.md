@@ -183,76 +183,141 @@ Therefore, whenever a woman has two obligations for *yibbum* incumbent on her, s
 **31.** [The following rule applies when] a woman who was half [a Canaanite] maid-servant and half a freed woman[^65] was consecrated by Reuven. She was then given her freedom and was consecrated by [Reuven's brother,] Shimon. Afterwards, both [brothers] died. Levi, [a third brother, may] perform *yibbum* with [this woman]; she is not considered to be "the wife of two deceased men." For if her consecration by Reuven is effective, her consecration by Shimon is of no consequence.[^66] And if her consecration by Shimon is effective, her consecration by Reuven is of no consequence. ^6-31
 
 [^1]: These categories are all defined in the following three halachot.
+
 [^2]: A man who never displayed any male physical characteristics and who is sexually impotent. The *Aruch* interprets the term as meaning "one who became impotent as a result of fever." *Yevamot* [[Yevamot 80#80a|80a]] interprets it as meaning "one who never saw the light of the sun while potent."
+
 [^3]: A person with both male and female sexual organs.
+
 [^4]: Since the entire purpose of *yibbum* is to perpetuate the deceased brother's name ([[Torah 49 - Ki Teitzei#^25-7|Deuteronomy 25:7]] , when this is not possible there is no obligation for this rite.  
     The *Tur* (*Even HaEzer* 172) quotes opinions that maintain that an *androgynous* is considered a normal male and may perform either *yibbum* or *chalitzah*, as he desires. Although the *Shulchan Aruch* (*Even HaEzer* 172:8) also mentions this view, the Rambam's opinion appears to be favored.
+
 [^5]: The intent is not that they should be encouraged to perform *yibbum*, but that if they perform *yibbum*, they acquire the *yevamah* as a wife. The rationale is that the act of *yibbum* does not require intent, as stated in Chapter 2, Halachah 3.
+
 [^6]: In the *Kessef Mishneh*, Rav Yosef Karo emphasizes that this ruling applies only when the *yevamah's* deceased husband was mentally competent. If the deceased also was a deaf-mute, the deaf-mute *yavam* may divorce her by signaling with hand motions. Rav Yosef Karo reiterates this decision in the *Shulchan Aruch* (*Even HaEzer* 172:12).
+
 [^7]: See Chapter 5, Halachah 18. Note Chapter 5, Halachah 21, which states that if he did not enter into relations with his *yevamah* after he attained majority, he must also perform the rite of *chalitzah*.
+
 [^8]: A person consecrated one of two sisters, and it is not known which one he consecrated. He is not allowed to marry, because he does not know which of the women is his wife and which is forbidden to him. If he dies, his brother may not perform *yibbum*, because the same doubt applies with regard to him. (See Chapter 8, Halachah 1.)
+
 [^9]: See *Hilchot Issurei Bi'ah*, Chapter 16, for a detailed treatment of this subject.
+
 [^10]: A person whose genital area is covered by flesh and determination of his sex is not possible , as stated in *Hilchot Ishut* 2:25.  
     The *Tur* (*Even HaEzer* 172) quotes opinions that maintain that there is doubt whether a *tumtum* may perform *yibbum*. Therefore, he must perform *chalitzah*. Although the *Shulchan Aruch* (*Even HaEzer* 172:9) also mentions this view, the Rambam's opinion appears to be favored.
+
 [^11]: Once the operation is performed and it is determined that he is a male, there is no difference between him and other males.
+
 [^12]: These categories are all defined in the following three halachot.
+
 [^13]: With regard to a minor, see Chapter 4, Halachah 16.
+
 [^14]: For according to Scriptural and Talmudic law, neither a woman's understanding nor her consent is necessary for a divorce to be effective.
+
 [^15]: See Halachah 10. (See also a delineation of the women included in these three categories in *Hilchot Ishut* 1:6-8.)
+
 [^16]: A severe prohibition punishable by *karet*. See *Hilchot Ishut* 1:5; *Hilchot Issurei Bi'ah* 2:1.
+
 [^17]: I.e., if the brother's consecration was effective, then the *yavam* is performing a mitzvah, and if it was not effective, he has no ties to the woman at all, and he may consecrate her as he consecrates any other woman (*Yevamot* [[Yevamot 41#41b|41b]]).
+
 [^18]: Although the marriage of a deaf-mute is not binding according to Scriptural law, his brother may still perform *yibbum*.
+
 [^19]: Note the Rambam's Commentary on the Mishnah (*Yevamot* 2:3), where he cites a different proof-text for this concept, one that is not mentioned in other Rabbinic sources.
+
 [^20]: For a positive commandment does not supersede the observance of a negative commandment punishable by *karet*. Although it is not necessary to mention a proof-text for this concept, the Rambam does so, because it represents the simple meaning of the passage from the Torah (*Maggid Mishneh*; *Kin'at Eliyahu*).
+
 [^21]: And yet to be permitted to her deceased husband, so that her original marriage was binding (in contrast to the instances mentioned in Halachah 12).
+
 [^22]: Nevertheless, after engaging in relations once to fulfill the mitzvah of *yibbum*, the *yavam* would be obligated to divorce the *yevamah*, as evident from *Hilchot Ishut* 4:14.
+
 [^23]: Note the statements of the *Beit Shmuel* 174:3, who connects this concept with the difference of opinion between the Sephardic and Ashkenazic authorities with regard to which takes precedence: *yibbum* or *chalitzah*. (See the notes on Chapter 1, Halachah 2.)
+
 [^24]: The commentaries raise the question of why, in this clause, the Rambam omits the mention of women with whom relations are forbidden by virtue of a positive commandment. They explain that his omission holds the key to the comprehension of a more general question.  
     Although the observance of a positive commandment supersedes the observance of a negative commandment, the observance of one positive commandment does not supersede the observance of another positive commandment. And therefore, the question arises: Why does *yibbum* establish a binding marriage bond when the transgression of a positive commandment is involved? Such a transgression is not mandated by law.  
     The commentaries explain that indeed the *yavam* should not - even according to Scriptural law - perform *yibbum* in such a situation, and therefore the Rambam omits mention of those forbidden by a positive commandment in this clause. If, however, the *yavam* does violate the positive commandment, the marriage bond created is binding. For just as the positive commandment of *yibbum* is not greater than the positive commandment involving the prohibition, the positive commandment involving the prohibition is not greater than the positive commandment of *yibbum*. See the conclusion of the Responsa of the *Noda Biy'hudah* on *Choshen Mishpat* and the commentary of the *Or Sameach* on this halachah.
+
 [^25]: In which instance the prohibition against further relations is merely Rabbinic in origin.
+
 [^26]: I.e., the positive commandment of *yibbum* does not supersede both the prohibition against a High Priest's marrying a widow, and the positive commandment that he must marry a virgin. For this reason, this halachah mentions an instance when the woman's marriage was consummated. If she became a widow when she had merely been consecrated, only a negative commandment is involved, and the laws mentioned in the previous halachah apply.
+
 [^27]: The commentaries infer that the Rambam's wording implies that if the High Priest divorces the woman, she herself may marry others; she does not require *chalitzah*. See the conclusion of the gloss of the *Beit Shmuel* 174:3.
+
 [^28]: Who is also her brother.
+
 [^29]: E.g., the deceased brother married his maternal sister. She has no family connection whatsoever to the surviving brother, and he is permitted to marry her.
+
 [^30]: It is not as if he married two *yevamot* from the same household, because the woman who was forbidden to the deceased is not considered part of his household.
+
 [^31]: An example of a negative commandment incumbent on the deceased, but not on the *yavam*, would be a High Priest who married a widow. His brother, an ordinary priest, is not bound by that prohibition. An example of a positive commandment incumbent on the deceased, but not on the *yavam*, would be a High Priest who married a woman who had engaged in relations previously. His brother, an ordinary priest, is not bound by that prohibition.
+
 [^32]: For example, the deceased married his maternal grandmother, who is forbidden to him as a *sh'niyah*. If the deceased has a paternal brother who had a different mother, that brother is a *yavam* and there is no prohibition against his marrying his brother's grandmother.
+
 [^33]: Note the *Kessef Mishneh*, which suggests altering the text of the *Mishneh Torah* and substituting the word "and" for "or." For, as it explains, if the *yevamah* is not forbidden to the *yavam*, the fact that she was forbidden - or that there was a doubt whether she was forbidden - to her deceased husband does not prevent the *yavam* from marrying her, as stated in the previous halachah.
+
 [^34]: For it is possible that his original *kiddushin* were binding, and by marrying the *yevamah* he will be transgressing the prohibition against marrying two sisters.
+
 [^35]: Chapter 1, Halachah 13. (See also Chapter 7, Halachah 8.)  
     If the *kiddushin* the *yavam* gave were definitely binding, the *chalitzah* would be of no consequence, because the *yevamah* would not be obligated to him at all. Nevertheless, since that has not been established definitively, the *chalitzah* is necessary, and as a consequence, the *yavam* must divorce the woman whom he originally desired to marry.
+
 [^36]: But not to the deceased - e.g., the *yavam's* daughter.
+
 [^37]: E.g., Reuven married Shimon's daughter. She is thus forbidden to Shimon and permitted to Levi.
+
 [^38]: If Levi had another brother, they would, however, be under obligation to him.
+
 [^39]: I.e., if Reuven, Shimon, and Levi had another brother and he performed *yibbum* with the woman who was not previously married to Reuven, that brother had another wife, and then he died without children - his wives are also under no obligation to Shimon. Since one of the wives was once freed from an obligation to him, even if she remarries she can never be obligated to him. Moreover, she frees all the other wives of her second husband from an obligation to him.
+
 [^40]: Chapter 5, Halachot 2-3.  
     Through the *ma'amar*, Shimon established a connection with his *yevamah*. Therefore, our Sages ordained that Levi should not perform *yibbum* with Shimon's wife. Nevertheless, since Shimon did not establish a marriage that was binding according to Scriptural law with his *yevamah*, Levi is required to perform *chalitzah* with Shimon's wife.  
     The *Kessef Mishneh* (in its gloss on Halachah 10), notes that - as reflected in Halachah 25 - even if Shimon did not give a *ma'amar* to Reuven's wife, the very fact that she is under obligation to him is sufficient cause for Levi to be prohibited from performing *yibbum* with her. The Rambam did not mention this concept in this halachah, because: a) he was quoting the Mishnah (*Yevamot*, Chapter 1), and b) he wanted to emphasize that even if Shimon gave Reuven's wife a *ma'amar*, Levi is still obligated to perform *chalitzah* with Shimon's wife. The *ma'amar* does not free her of obligation entirely.
+
 [^41]: See *Hilchot Ishut* 24:18.
+
 [^42]: As [[Torah 29 - Achrei Mot#^18-24|Leviticus 18:24]] states: "Do not become impure through any of these [forbidden relationships]."
+
 [^43]: The Ra'avad differs with the Rambam regarding this matter and maintains that just as the woman's husband would have to give her a *get* to terminate their relationship, so too, her *yavam* must perform *chalitzah* with her. The *Shulchan Aruch* (*Even HaEzer* 173:11) follows the Rambam's ruling, while the Ramah mentions that of the Ra'avad.
+
 [^44]: A *sotah* is not given the bitter waters to drink after her husband's death, as stated in *Hilchot Sotah* 2:7.
+
 [^45]: As explained in *Hilchot Sotah* 2:2, there are some women whose fidelity should be tested by the bitter waters. Nevertheless, because of certain incidental factors, she is not given these waters to drink and instead must be divorced by her husband.
+
 [^46]: According to the Rambam, the difference between these two instances is that the infidelity of the *sotah* has not been proven, while in the former case, the woman's infidelity is an established fact.
+
 [^47]: Although Rashi offers a different interpretation for this concept, the halachic authorities follow the Rambam's view.
+
 [^48]: If the relatives of a woman who performed *chalitzah* were permitted, one might think that another woman who was married to the deceased husband of the woman who performed *chalitzah* would also be permitted.
+
 [^49]: Since it is possible that the *ervah* was never married to the deceased, or that her marriage was already terminated, the *yavam* must perform *chalitzah* to enable the other wife to remarry. He may not, however, perform *yibbum*, for it is possible that the marriage of the *ervah* was effected by the kiddushin or not terminated by the divorce, in which instance, the *yavam* would be forbidden to have relations with the other wife of his deceased brother, as stated in Halachah 15.
+
 [^50]: The minor nullifies her marriage retroactively through *mi'un*, and it is as if she had never been married at all. As such, the obligation of *yibbum* falls on the other wife. Nevertheless, since this halachic concept might not be known to all, our Sages forbade the other wife of the deceased from performing *yibbum*, lest the impression be created that a woman married to the same man as an *ervah* is also permitted (*Yevamot* [[Yevamot 13#13a|13a]], 107b).
+
 [^51]: The other wife of the deceased was under the impression that she did not require *chalitzah* to be released, as stated in Halachah 15. Afterwards, it was discovered that the woman forbidden to the *yavam* as an *ervah* was an *aylonit*, in which instance the obligation of *yibbum* falls solely on the other wife, as stated in Halachah 21. Thus, her second marriage involves a transgression and must be terminated. (See Chapter 2, Halachah 18.) Nevertheless, a child fathered by her second husband is not considered illegitimate, because the negative commandment violated is not punishable by *karet*.
+
 [^52]: The *Or Sameach* explains that ordinarily, when a woman is prohibited as an *ervah*, a *get* is not necessary. Nevertheless, an exception is made in this instance, lest people think that the deceased divorced his other wife before his death, and the act of *yibbum* was binding.  
     The *Tur* (*Even HaEzer* 173) maintains that a *get* is not required, and indeed suggests that this is also the Rambam's intent, but the text of the *Mishneh Torah* was flawed by a printer's error. The *Shulchan Aruch* (*Even HaEzer* 173:9) does not require a *get*.
+
 [^53]: As stated in Halachah 14, the prohibition against relations with a brother's wife applies in such an instance. This prohibition is punishable by *karet*. Hence, any child born to this couple - whether before or after he discovers that the *ervah* was an *aylonit* - is illegitimate.
+
 [^54]: His wife's sister, by contrast, need not perform *yibbum* or *chalitzah*. She is free to marry any man.
+
 [^55]: With regard to *yibbum*, the obligation to perform *yibbum* is powerful enough to have the woman considered the wife of a man whose other wife is an *ervah* to the *yavam*. Nevertheless, this comparison is not complete. For since the deceased brother never actually married her, she is obligated to perform *chalitzah*.
+
 [^56]: The Ra'avad and others differ with the Rambam regarding this issue, maintaining that the prohibition is not applied when the second brother divorces his first wife.
+
 [^57]: See Halachah 21.
+
 [^58]: And, as reflected in Halachah 14, it is of Scriptural origin.
+
 [^59]: I.e., since she did not perform *yibbum* with the brother who gave her the *ma'amar*, she is still obligated to perform *yibbum* because of her first husband, and since a *ma'amar* is considered equivalent to consecration, she is also obligated to perform *yibbum* because of the second brother who died.
+
 [^60]: If, however, the second brother performed *yibbum* before dying, this restriction does not apply.
+
 [^61]: It was stated above that the prohibition against marrying a woman who is obligated to perform *yibbum* because of two men is derived from a verse. Nevertheless, as reflected by the fact that *chalitzah* is required (*Yevamot* [[Yevamot 31#31b|31b]]), that verse is only an *asmachta*, a support. The source of the prohibition is Rabbinic in origin. (Note *Tosafot*, who differ and maintain that the prohibition is of Scriptural origin.)
+
 [^62]: See Chapter 1, Halachah 12, which states that once a *yavam* has foregone the privilege of *yibbum* by performing *chalitzah*, neither he nor his brothers may perform *yibbum* with any of the wives of that brother.
+
 [^63]: For the only obligation incumbent on her is due to the brother who died first. The third brother must also perform either *yibbum* or *chalitzah* with the wife of the second brother.
+
 [^64]: Chapter 5, Halachah 18.
+
 [^65]: E.g., a Canaanite maid-servant who was owned by two partners, and one partner set her free, but the other did not.
+
 [^66]: The consecration of such a woman is discussed in *Hilchot Ishut* 4:16.

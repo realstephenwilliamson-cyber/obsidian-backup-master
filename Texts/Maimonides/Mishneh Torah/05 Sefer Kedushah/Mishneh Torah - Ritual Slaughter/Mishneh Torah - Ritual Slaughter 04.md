@@ -93,56 +93,99 @@ If, by contrast, he was an apostate because of worship of false deities, one who
 **18.** This mitzvah[^43] is not observed forever, nor in the desert alone, at the time it was permitted to kill animals [and partake of them]. There they were commanded that when they would enter *Eretz Yisrael*, killing animals [for food] would be forbidden and ordinary animals could only be eaten after ritual slaughter. They would be allowed to slaughter in every place except the Temple Courtyard,[^44] as \[[[Torah 47 - Re'eh#^12-20|Deuteronomy 12:20-21]]] states: "When God your Lord will expand your boundaries... and you shall slaughter from your cattle and your sheep which God your Lord gave you." This is the mitzvah to be observed for generations - to slaughter and then to eat. ^4-18
 
 [^1]: The five factors mentioned in the previous chapter and how to prepare a knife [*Kessef Mishneh*; Rama (*Yoreh De'ah* 1:2)].
+
 [^2]: If, however, a wise man supervises his actions, the slaughter is acceptable, as indicated by Halachah 5. The *Maggid Mishneh* quotes the Rashba as ruling that such a person may slaughter in the presence of a wise man even as an initial and preferred option. The *Shulchan Aruch* (*Yoreh De'ah* 1:3) accepts this ruling, but the Rama does not.
+
 [^3]: There is no factor that we see that would cause us to disqualify the slaughter. Nevertheless, since it is highly probable that he slaughtered the animal in a way that disqualified it and rendered it a *nevelah*, the animal is prohibited and placed in this category.
+
 [^4]: Moreover, even if afterwards, he is taught the laws of ritual slaughter and states that he observed them when he slaughtered the animal, the ruling is not revised. Since he did not know the laws at that time, we fear that he did not observe them (*Kessef Mishneh*).
+
 [^5]: This training process is still observed in the present age. Even though a person is familiar with the laws of ritual slaughter, he must first undergo apprenticeship under the guidance of a master and receive authorization to slaughter [Rama (*Yoreh De'ah* 1:1).
+
 [^6]: I.e., after the fact, since he knows the laws, we do not disqualify the slaughter.
+
 [^7]: The Rama (*Yoreh De'ah* 1:1) states that woman should not be allowed to slaughter as an initial and preferred option.
+
 [^8]: This refers to Canaanite servants whose Halachic status is the same as women. The *Tur* (*Yoreh De'ah* 1) rules that in general servants may not serve as ritual slaughterers. See *Siftei Cohen* 1:2.
+
 [^9]: See Halachah 9 which grants a person with only one of these handicaps to slaughter.
+
 [^10]: The *Shulchan Aruch* (*Yoreh De'ah* 1:5) states that this refers to a child who does not know how to maneuver his hands for ritual slaughter. If he knows how to maneuver his hands he may be given an animal to slaughter at the outset. The Rama emphasizes that even so, the child may only slaughter in the presence of others. He may not slaughter alone. Furthermore, the Rama states that it is not customary for a person to receive authorization to slaughter until he is eighteen. The *Siftei Cohen* 1:25, however, rules more stringently.
+
 [^11]: The *Shulchan Aruch* (*Yoreh De'ah* 1:8) states that one who becomes as drunk as Lot (see Genesis, ch. 19) may not slaughter. One who has not reached this stage of inebriation may slaughter at the outset. The Rama rules more stringently, stating that a person should never slaughter when drunk, for it is likely that he will disqualify the slaughter.
+
 [^12]: With regard to his proficiency in the laws of ritual slaughter.
+
 [^13]: Those mentioned in the previous chapter and how to check a knife; there is no need for him to be knowledgeable with regard to all the particulars of the laws of ritual slaughter.
+
 [^14]: The *Kessef Mishneh* explains that when there is no alternative (see the following halachah), we rely on the principle that most of those who slaughter are knowledgeable regarding its laws. Nevertheless, in this instance, since we have the opportunity to clarify the matter, we do so.
+
 [^15]: With regard to questions of business law, we rely on the presumption that an agent will perform the mission with which he was charged. We do not, however, accept this principle with regard to questions involving the Torah's prohibitions (*Hilchot Terumot* 4:6). Nevertheless, even if we know for certain that the agent did not slaughter the animal, we consider it as permitted because of the reason stated by the Rambam.
+
 [^16]: And when there is no alternative we can rely on this presumption.  
     From the statements of the Rama (*Yoreh De'ah* 1:1), it appears that there is a slight difference between the present age and the Talmudic period. In the Talmudic era, most people were proficient in both the laws and practice of ritual slaughter. In the present age, this applies only to those who are occupied professionally in this field. Nevertheless, the laws remain the same, for we assume that only a person who is knowledgeable will actually slaughter animals.
+
 [^17]: We are not speaking about a waste dump in the market place. In such an instance, all opinions would agree that the animal is forbidden. Instead, we are speaking about a situation where it was found in the marketplace at large. *Chullin* [[Chullin 12#12b|12b]] records a dispute between two Sages concerning this matter and the Rambam chooses the more stringent ruling.
+
 [^18]: For the circumstances indicate that it was discarded.  
     As mentioned, there is a difference of opinion in the Talmud regarding this issue. Most *Rishonim* follow the more lenient view and rule that if the slaughtered animal is found in an ordinary place in the marketplace or in a waste dump at home, it is permitted. The *Shulchan Aruch* (*Yoreh De'ah* 1:4) also follows this view.
+
 [^19]: Another person should recite the blessing for him [*Shulchan Aruch* (*Yoreh De'ah* 1:7)].
+
 [^20]: As long as he has the ability to speak, he is not considered to be intellectually underdeveloped.  
     Rabbenu Asher explains that such a person should not slaughter as an initial and preferred option, because there is a difficulty with his recitation of the blessing. For a person must recite a blessing in a manner that enables him to hear it and that is impossible for such an individual. Indeed, the Jerusalem Talmud (*Terumot* 1:6) rules that a person who is dumb should not separate *terumah* at the outset for that reason [*Maggid Mishneh*; *Shulchan Aruch* (*Yoreh De'ah* 1:6)].
+
 [^21]: For we fear that he will err and not detect his error. The *Siftei Cohen* 1:35 quotes opinions that rule that a blind person should not slaughter even when others are watching him.
+
 [^22]: In this instance as well, the *Siftei Cohen* 1:36 mentions views that maintain that a person who was never able to see should not slaughter. Even after the fact, one should not partake of his slaughter.
+
 [^23]: And is well-versed in the laws of ritual slaughter [the Rambam's Commentary to the Mishnah (*Chullin* 1:1)].
+
 [^24]: One might think that the slaughter of a minor has an advantage, because a minor's worship of idols is not significant.
+
 [^25]: Thus a gentile's slaughter is not recognized by Scriptural Law. See, however, the following halachah.  
     In his Commentary to the Mishnah (*ibid.*), the Rambam explains that the reason the animal is forbidden is that, in general, when a gentile slaughters, his intent is that the animal is an offering to his false deity, it is, however, permissible to benefit from the animal. We do not consider it as a sacrifice to idols (*Chullin* [[Chullin 13#13b|13b]]; see Chapter 2, Halachah 2), because we assume the gentile is not really sincere in his worship, he is merely mimicking his ancestors.  
     Rabbeinu Asher differs and explains that the Scriptural command for ritual slaughter states: "And *you* shall slaughter," implying that the slaughtering must be a Jew. Hence, a gentile is inherently disqualified; his thoughts are of no consequence. See the *Siftei Cohen* 2:2 and the *Turei Zahav* 2:1 who discuss this issue.
+
 [^26]: E.g., a resident alien who accepts the Seven Universal Laws Commanded to Noah and his descendants (see *Hilchot Issurei Bi'ah* 14:7).
+
 [^27]: According to the Rambam, if he does not serve false deities and knows the laws of ritual slaughter, his slaughter is acceptable according to Scriptural Law.  
     One might ask: If so, why is an animal slaughtered by a child a *nevelah*? A child is not liable for the service of false deities. The *Lechem Mishneh* answers that ultimately, the child will grow up and worship false deities.
+
 [^28]: See the *Siftei Cohen* 2:27 maintains that if the Jew slit the majority of the gullet and windpipe, the slaughter is acceptable even if the gentile completed it.
+
 [^29]: Thus if a gentile slit the majority of the windpipe or any portion of the gullet, the slaughter is disqualified [*Shulchan Aruch* (*Yoreh De'ah* 2:10)].
+
 [^30]: See *Hilchot Pesulei HaMukdashim* 1:18 for another application of this principle.
+
 [^31]: For, as stated in Chapter 1, Halachah 11, even if the windpipe is half slit because of other factors, it can be slaughtered acceptably.
+
 [^32]: As the Rambam states in *Hilchot Teshuvah* 3:9, there is a concept of an apostate with regard to one transgression, i.e., "a person who has made a fixed practice of willfully violating a certain transgression [to the extent that] he is accustomed to transgressing and his deeds are public knowledge... provided he does so with the intent of angering God."
+
 [^33]: Although he repeatedly violates that particular transgression, we do not assume that he will not slaughter correctly.  
     In his *Kessef Mishneh*, Rav Yosef Caro cites *Chullin* [[Chullin 4#4a|4a]] which states that as long as if given a choice whether to eat kosher meat or non-kosher meat, the person would choose the kosher meat - even if he would partake of the non-kosher meat if kosher meat was not available - it is permitted to partake of an animal he slaughtered. The *Kessef Mishneh* continues, explaining that as long as one does not transgress with the intent of angering God, one may partake of an animal he slaughtered. In his *Shulchan Aruch* (*Yoreh De'ah* 2:5), he rules that an apostate who transgresses with the intent of angering God resembles a gentile and his slaughter is inherently unacceptable.  
     *Kin'at Eliyahu* notes that there is some difficulty with the *Kessef Mishneh's* interpretation, because *Hilchot Teshuvah* specifically states that a person is deemed an apostate only when his transgression is performed with the intent of angering God.
+
 [^34]: Although we do not assume that he will definitely transgress, it is logical to presume that he will not be careful in his observance.  
     Although it also cites the Rambam's view, the *Shulchan Aruch* (*Yoreh De'ah* 2:6) mentions the opinion of the *Tur* and others who rule that if the person is not an apostate with regard to partaking of non-kosher meat, it is not even necessary to check his knife. He may slaughter in private. If, however, he is an apostate with regard to partaking of non-kosher meat, his knife must be checked. Moreover, if he shows no concern for kashrut at all, his slaughter is not acceptable [Rama (*Yoreh De'ah* 2:5].
+
 [^35]: See the conclusion of *Hilchot Shabbat*.
+
 [^36]: *Hilchot Teshuvah* 3:8.
+
 [^37]: See *Hilchot Edut* 10:1-3.
+
 [^38]: In this instance, the Rambam does not even require him to have another person observe him. Since his disregard for Jewish observance is not as severe as that of an apostate, he is allowed to slaughter on his own.
+
 [^39]: I.e., he would not slaughter the animal in an invalid way when it would be just as easy for him to slaughter it in an acceptable way.
+
 [^40]: Tzadok and Beotus were two of the greatest students of Antigonus of Socho. As the Rambam states in his Commentary to the Mishnah (*Avot* 1:3), after they heard Antigonus teach: "Do not be as servants who serve their master for the sake of receiving a reward," they forsook Jewish practice, saying: "Is it just that we labor without receiving a reward?"  
     They began splinter sects with the intent of swaying the people after them. At first, they sought to abandon Jewish practice entirely. They saw, however, the people would not accept this and so they focused their complaints on the Oral Law, arguing that although the Written Law was of Divine origin, the Oral Law was not. Their intent, however, was to deny the entire Torah.
+
 [^41]: The Rambam appears to be saying that there is no inherent difficulty with these individuals slaughtering an animal. The only question is whether or not they slaughtered correctly. Hence, when it is possible to verify that the slaughter was performed correctly, the animal is permitted. They are not placed in the same category as apostates. *Kin'at Eliyahu* adds that, based on the previous halachah, these *Tzadukim* must also be Sabbath observant.
+
 [^42]: There is a difference of opinion concerning this point among the Sages (*Chullin* [[Chullin 17#17a|17a]]). The Rambam follows Rabbi Akiva's perspective.
+
 [^43]: The obligation to offer as a sacrifice an animal which one desires to ritually slaughter.
+
 [^44]: See Chapter 2, Halachah 1.

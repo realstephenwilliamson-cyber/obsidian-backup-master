@@ -69,19 +69,33 @@ The latitude of the moon is approximately four degrees to the south.[^13] After 
 **16.** Thus, we have explained all the calculations necessary for the sighting [of the moon] and the examination of the witnesses, so that everything will be comprehensible to men of understanding, and they will not lack awareness of any of the Torah's paths. [Therefore,] they will not venture forth in search of it in other texts. "Seek out of the book of God, read it. None of these will be lacking" \[[[Isaiah 34#^34-16|Isaiah 34:16]]].[^15] ^19-16
 
 [^1]: *Rosh HaShanah* [[Rosh Hashanah 23#23b|23b]], cited in Chapter 2, Halachah 4.
+
 [^2]: In our previous notes, we explained that the constellations from Capricorn to Gemini were northerly inclined. There is no contradiction between those statements and the statements above; the difference is in the definition of the word "inclined." In the present context, the Rambam is using the word "inclined" to refer to the position of the ecliptic as it passes through these constellations: Is it located above or below the equator, and what is the extent of its variance from the equator?  
     Previously, we had used the word "inclined" to refer to the direction of the path of movement of the stars in the sky. In the constellations from Capricorn to Gemini, as the constellations move in their orbit, they will be moving northward. Conversely, in the constellations from Cancer to Sagittarius, as the constellations move in their orbit, they will be moving southward.  
     The inclination of the constellations can be observed by a careful observer with a field compass. In the spring and in the fall, the sun rises due east and sets due west. In the summer (i.e., when the sun is located in the constellations from Taurus to Virgo), it rises in the northeast and sets in the northwest. In the winter (i.e., when the sun is located in the constellations from Scorpio to Pisces), it rises in the southeast and sets in the southwest. Throughout the year, these constellations rise and set in the place where the sun rises and sets when it is in these constellations.
+
 [^3]: I.e., at the vernal [spring] and autumnal equinoxes.
+
 [^4]: I.e., the beginning of the constellation of Cancer. In these ninety degrees, we will have passed through three constellations, Aries, Taurus, and Gemini.
+
 [^5]: See Chapter 13, Halachah 7, and Chapter 15, Halachah 7.
+
 [^6]: See Chapter 16, Halachah 13.
+
 [^7]: I.e., 110° has the same degree of inclination as 70°. For the angle of inclination proceeds in an even-balanced arc with 90 degrees as its center.
+
 [^8]: I.e., the southerly inclination beginning from the constellation of Libra parallels exactly the northerly inclination beginning from Aries.
+
 [^9]: Producing the inverse of the figures mentioned in the previous quadrant.
+
 [^10]: E.g., if they are both northerly, the moon's latitude will cause it to appear further north than the constellation in which its true position is located.
+
 [^11]: I.e., if the moon's true position is located in a northerly position and its latitude is southerly, the latitude should be subtracted from the angular distance of its true position.
+
 [^12]: Actually, the true figure is a few minutes larger.
+
 [^13]: Actually, the true figure is a few minutes less.
+
 [^14]: The variance of two or three degrees will not produce a difference that is of consequence.
+
 [^15]: With this halachah, the Rambam explains one of his motives for the inclusion of this section in the *Mishneh Torah*: so that a serious student would not have to resort to other texts, particularly those of the gentile scientific community, to obtain this knowledge. In this manner, he affirms one of the purposes for the *Mishneh Torah* stated in its introduction, to provide a text that includes every dimension of Jewish law.

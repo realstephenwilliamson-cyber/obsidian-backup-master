@@ -45,6 +45,7 @@ Strictly speaking, it is, of course, anachronistic to speak of Hobbes as a legal
 That Hobbes appears to have held something very like a positivist conception of civil law is startling in light of the fact that Hobbes insisted that he was offering a theory of political obligation grounded in the requirements of “eternal and immutable laws of nature”, timeless and unalterable normative requirements, accessible by unaided 
 
 [^1]: See, for example, M. M. Goldsmith, “Hobbes on Law”, in Tom Sorell, ed., *The Cambridge Companion to Hobbes* (Cambridge, 1996). Jules Coleman and Brian Leiter characterize the social thesis as holding that “what counts as law in any particular society is fundamentally a matter of social fact or convention”, and the separability thesis as holding that “there is no necessary connection between law and morality”. See their “Legal Positivism”, in Dennis Patterson, ed., *A Companion to Philosophy of Law and Legal Theory* (Malden, 1999), 241–260; 241.
+
 [^2]: Put in this way, his view’s relation to positivism is murkier, because positivists may disagree over whether their social and separability theses have any implications for the requirement of obedience to law.
 
 *[p. 265]* ^pg283
@@ -64,7 +65,9 @@ laws hostage to our own private judgment  of their merits. In short, a commitm
 Hobbes is remarkably consistent across his writings in defining law. Law is the command to us of one whose commands we are under an obligation to obey. “\[L\]aw in general, is not counsel, but command; nor a command of any man to any man; but only of him, whose command is addressed to one formerly obliged to obey him”,[^5] and “the *civil laws* (that we may define them) are nothing else but *the commands of him who hath the chief authority in the city, for direction of the future actions of his citizens*”.[^6] Hobbes thinks of these commands as commands that one use particular rules to order one’s actions. A rule is a law to a 
 
 [^4]: t This remains true despite the fact that there are some authoritative civil laws disobe-This remains true despite the fact that there are some authoritative civil laws disobes disobedience to which, while properly subjecting us to civil punishment , does not subject us to moral censure. These laws touch on the true liberties of subjects , and although Hobbes expresses doubt that a sovereign would make any such law (requiring, for instance, executing one’s parent), if it did make such a law, that law would have authority, violations of it being criminal, though not shameful.
+
 [^5]: EW III, 251; T 184.
+
 [^6]: EW II, 77.
 
 *[p. 267]* ^pg285
@@ -76,7 +79,9 @@ Laws do not only create specific obligations; they presuppose an important gener
 This is not to say that every duty is self-imposed, for not all duties are obligations. In particular, the Laws of Nature articulate a set of natural duties, whose claim on us does not depend on our having undertaken or covenanted to obey them. Natural duties, such as of gratitude, equity, and abstention from cruelty, are not self-imposed, and are thus not obligations. A careful reading of Hobbes’s remark in chapter 14 of *Leviathan* allows us to see this distinction between obligations and duties. When a man has renounced or transferred his right to something, say, a house, he is obligated not to interfere 
 
 [^7]: EW II, 200.
+
 [^8]: David Gauthier  makes the same observation in his “Thomas Hobbes and Contractarian Theory of Law”, *Canadian Journal of Philosophy*, Supp. 16 (1990):
+
 [^9]: EW III, 127; T 98.
 
 *[p. 268]* ^pg286
@@ -90,6 +95,7 @@ Hobbes’s position that law requires a prior obligation to take the law-giver�
 Hobbes blithely asserts throughout his writings that the Law of Nature dictates our submission to political authority, despite the fact that it is 
 
 [^10]: EW III, 119; T 93.
+
 [^11]: This is true even in the case of God’s laws, *qua* laws. Although all persons, animals, plants, and inanimate objects are subject to God’s power, only those that acknowledge his existence and providence and have covenanted to have God for their sovereign are subjects in the kingdom of God , which began, Hobbes supposes, with Adam’s submission to God’s government, and was later “constituted by the votes of the people of Israel in peculiar manner; wherein they chose God for their king by covenant  made with him” (EW III, 397; T 280).
 
 *[p. 269]* ^pg287
@@ -115,7 +121,9 @@ liberalization of the notion of consent  that threatens to undermine whatever 
 Perhaps it is not surprising that the third Law of Nature turns out not to enjoy any sort of normative priority within the Laws of Nature, for why would one think that keeping covenants matters more, morally speaking, than avoiding cruelty, treating others fairly, submitting disputes to impartial arbitration , or accommodating the essential needs of others, as further Laws of Nature require? These other norms seem just as important to establishing and maintaining decent human communities, or, as Hobbes puts it, “human society and the civil life of the present world”.[^15] However, the “first and fundamental” Law of 
 
 [^13]: See, for example, David Hume, ‘Of the Original Contract’ (1748), and A. John Simmons, *On the Edge of Anarchy* (Princeton, NJ, 1993).
+
 [^14]: On the flip side of the coin, if we attribute to Hobbes the position that only those who have consented to obey are politically obligated, those who unreasonably refuse their consent  (say, holding out for better than equal terms) will be morally blameless, contrary to the plausible judgment that people ought to do their part in establishing or maintaining fair and mutually beneficial social arrangements. For instance, Rawls  maintains that there is a natural duty  of justice to cooperate in establishing just institutions. See his *A Theory of Justice* (1971), sections 19 and 52.
+
 [^15]: EW II, 152.
 
 *[p. 271]* ^pg289
@@ -127,7 +135,9 @@ Unfortunately for this suggestion, it is not clear, at least under desire - or
 The impetus here is to pursue self-defense, one way or another. That does not yet direct us to seek peace, or even to prefer peace-seeking to other strategies for gaining the confederates we need to defend ourselves. Some confederates come naturally, for instance, one’s family  members, friends, and like-thinking neighbors.[^18] Even supposing it could be shown that *if* peace could be had it would be preferable to building defensive coalitions, it is we who are to judge whether peace can be had, and if so, to pursue it. Because confederates may be acquired by force in conquest or vanquishing of an aggressor, by charm or deception (which Hobbes terms “wiles”), and 
 
 [^16]: *De Cive:* “*that peace  is to be sought after, where it may be found; and where not, there to provide ourselves for helps of war*” (EW II, 16); *Elements:* “to seek after peace, as far forth as there is hope to attain the same; and strengthen himself with all the help he can procure, for his own defence against those, from whom such peace cannot be obtained” (EW IV, 86); *Leviathan:* “*that every man, ought to endeavour peace, as far as he has hope of obtaining it; and when he cannot obtain it, that he may seek, and use, all helps, and advantages of war*” (EW III, 117; T 91); *Elements:* “\[N\]ever to give *peace .* . . is against the general definition of the law of nature” (EW IV, 100).
+
 [^17]: EW II, 12.
+
 [^18]: In chapter 12 of *Leviathan*, Hobbes makes clear that the seeds of natural religion will, even in the state of nature , lead to the development of groups of like-thinking followers of persons who present themselves as spiritual leaders.
 
 *[p. 272]* ^pg290
@@ -135,6 +145,7 @@ The impetus here is to pursue self-defense, one way or another. That does not ye
 even by just breeding and rearing children,[^19] it is plausible that many persons in a state of nature  will find it easiest, most natural, and most rational to seek confederates rather than breech the vicissitudes and vulnerabilities of peace-making.[^20] If that is true, then one has no reason to be confident that peace *can* be had. How shall we think peace can be had when we see that others find it most rational to build war coalitions? And that still others prefer the glory they expect to enjoy from their conquests to whatever comforts peace might bring? The first clause of the first Law of Nature requires only that we seek peace when we believe it can be had. If we don’t believe it can be had, we will faithfully follow the first and fundamental Law of Nature by building coalitions for war, in accordance with its second clause. The difficulty, then, is that the first Law of Nature cannot ground any requirement to submit to government and civil laws unless and until we can establish that one ought to seek peace *rather than* confederates in war. It is a well-known and long-standing worry among commentators that nothing Hobbes says about the rational pursuit of self-defense conclusively establishes this. Notice too that most of the further Laws of Nature, for example, the third requiring keeping of faith, will further *both* peace efforts and the building of war-time confederacies, and so are compatible with either clause of the first and fundamental Law of Nature. Just as there must be honor even among thieves if they are to 
 
 [^19]: In *De Cive* Hobbes notes that “a son cannot be understood to be at any time in the state of nature , as being under the power and command of them to whom he owes his protection as soon as ever he is born, namely, either his father’s or his mother’s, or him that nourished him” (EW II, 10n). This suggests that the state of nature  will contain families, clans, and extended households, as well as confederations of religious believers (see chapter 12 of *Leviathan*), whose numbers may be augmented by force or wiles into formidable confederations.
+
 [^20]: I am reminded of an early scene in *Braveheart*, a fictional recounting of the life of William Wallace, in which a meeting organized ostensibly for the purpose of settling a peace between the Scots and the English provides the occasion for an efficient slaughter of the Scottish resistance. We may suppose that Hobbes knew enough Machiavelli  to have appreciated this possibility. In *Leviathan* he writes, “there is no way for any man to secure himself, so reasonable, as anticipation; that is, by force, or wiles, to master the persons of all men he can, so long, till he see no other power great enough to endanger him: and this is no more than his own conservation requireth, and is generally allowed” (EW III, 111; T 87). Some commentators, including Gregory Kavka , have discussed the rationality  of building defensive coalitions, and wondered whether these couldn’t suffice for our security without subjecting ourselves to a state. See Kavka , *Hobbesian Moral and Political Theory* (Princeton, NJ, 1986), especially chapter 4.
 
 *[p. 273]* ^pg291
@@ -150,8 +161,11 @@ Another possible way of forging the needed connection, is by appealing to the �
 Further, it could ground a duty to treat positive law  as having final authority. If we want others to defer to the judgment of an authoritative arbiter in the matter of how the Laws of Nature are to be understood and applied (as we will, if we value the maintenance of peace), then the Law of Nature directs us to ourselves accept that arbiter’s judgment 
 
 [^21]: I am reminded of the strict rules of fidelity and gratitude within Mafia families as depicted in Mario Puzo’s *The Godfather.*
+
 [^22]: EW III, 144; T 109.
+
 [^23]: EW III, 258; T 188.
+
 [^24]: This sort of reasoning was entirely familiar to both Hobbes and his readers from canonical works in the natural law tradition. George Shelton  takes care to trace the history within natural law theorizing of the “negative” formulation of the Golden Rule as the primary content of natural law in his *Morality and Sovereignty in the Philosophy of Hobbes* (1992).
 
 *[p. 274]* ^pg292
@@ -163,6 +177,7 @@ One interesting feature of the reciprocity theorem  or summary formulation of 
 We have some indirect evidence that Hobbes gives the reciprocity theorem  priority over other more specific Laws of Nature. For instance, he argues for many of his discrete Laws of Nature by tying them to the summary formulation, whereas he does not use any other of the particular Laws of Nature to provide a unified rationale, excepting the portion of the fundamental law that tells us to seek peace when it may be had. Hobbes explicitly *identifies* the reciprocity theorem  with the second Law of Nature’s requirement that a man “*be contented with so much liberty against other men, as he would allow other men against himself* ”, saying that this is “that law of all men, *quod tibi fieri non vis, alteri ne feceris*”.[^25] The reciprocity theorem  is closely related to Hobbes’s ninth and tenth laws. Hobbes stipulates as his tenth law that “*at the entrance into conditions of peace, no man require to reserve to himself any right, which he is not content should be reserved to every one of the rest*”,[^26] and this certainly implies that if we are not willing that others should reserve their right of private judgment  concerning interpretation of the Laws of Nature, 
 
 [^25]: EW III, 118; T 92; i.e., do not do to others what you do not want done to yourself.
+
 [^26]: EW III, 141; T 107.
 
 *[p. 275]* ^pg293
@@ -172,10 +187,15 @@ then we may not do so either. The reason for this law is that if, as Hobbes writ
 By way of more direct evidence, Hobbes seems content to have this summary formulation given preference over any of the more particular laws. In distinguishing the Laws of Nature from the civil law, Hobbes writes that the Laws of Nature need not any publishing nor proclamation; as being contained in this one sentence, approved by all the world, *Do not that to another, which thou thinkest unreasonable to be done by another to thyself.*[^30] No man can plead ignorance of the Laws of Nature because they have been contracted into one easy sum, intelligible even to the meanest capacity; and that is, *Do not that to another, which thou wouldest not have done to thyself;*[^31] and \[i\]gnorance of the law of nature excuseth no man; because every man that hath attained to the use of reason, is supposed to know, he ought not to do to another, what he would not have done to himself.[^32]
 
 [^27]: Ibid.
+
 [^28]: Ibid.
+
 [^29]: EW III, 143; T 109.
+
 [^30]: EW III, 258; T 188.
+
 [^31]: EW III, 144; T 109.
+
 [^32]: EW III, 279; T 202. As I earlier mentioned, Hobbes goes on to illustrate this point in a very interesting way, arguing that if a person goes to a foreign land and attempts to persuade the people he finds there to receive a new religion, “he commits a crime, and may be justly punished for the same, . . . because he does that which he would not approve in another, namely, that coming from hence, he should endeavour to alter the religion there” (EW III, 280). Notice that the wrongness of his action does not depend upon its violating any covenant . Such action might undermine peace, and would thus violate the first Law of Nature as well as the reciprocity theorem , which makes it all the more striking that Hobbes chooses to argue in terms of reciprocity rather than the first Law of Nature.
 
 *[p. 276]* ^pg294
@@ -187,6 +207,7 @@ So privileged is the reciprocity theorem  that Hobbes at times identifies it w
 In this precept are contained both universal justice and civil obedience. For who would not judge it inequitable, if he were constituted by the people with the highest sovereignty in the state, in order to rule and to issue laws, for his laws to be spurned, or his authority overlooked, not to mention disputed, by any subject whatsoever? Therefore, if, when you were a king, you judged this 
 
 [^33]: This is sometimes called the “shoehorn maneuver” – putting oneself in the place of the other. Hobbes writes that for a person to learn how to apply the LAW OF NATURE “he has no more to do . . . but, when weighing the actions of other men with his own, they seem too heavy, to put them into the other part of the balance, and his own into their place, that his own passions, and self-love, may add nothing to the weight; and then there is none of these laws of nature that will not appear unto him very reasonable” (EW III, 144–145; T 110).
+
 [^34]: Bernard Gert, ed., *Man and Citizen: Thomas Hobbes* (Indianapolis, 1991), 73, emphasis added.
 
 *[p. 277]* ^pg295
@@ -246,6 +267,7 @@ We find textual evidence that Hobbes intends a hierarchy of responsibility  in
 \[A Christian king\] cannot oblige men to believe; though as a civil sovereign he may make laws suitable to his doctrine, which may oblige men to certain actions, and sometimes to such as they would not otherwise do, and which he ought not to command; and yet when they are commanded, they are laws; and the external actions done in obedience to them, without the inward approbation, are the actions of the sovereign, and not of the subject, which is in that case but as an instrument, without any motion of his own at all; because God hath commanded to obey them.[^40]
 
 [^39]: EW III, 493–494; T 344.
+
 [^40]: EW III, 564; T 389.
 
 *[p. 283]* ^pg301
@@ -255,8 +277,11 @@ Once subjects bind themselves to obey a sovereign, the sovereign becomes the aut
 When the \[subject\] doth anything against the law of nature by command of the \[sovereign\], if he be obliged by former covenant  to obey him, not he, but the \[sovereign\] breaketh the law of nature; for though the action be against the law of nature; yet it is not his: but contrarily, to refuse to do it, is against the law of nature, that forbiddeth breach of covenant .[^41] The substitution of ‘subject’ for ‘actor’ and ‘sovereign’ for ‘author’ is licensed not only by Hobbes’s text,[^42] but also by the logic of this passage: because sovereigns have made no covenant  to obey anyone, the referent of “he” (which stands in for “actor”) in “if he be obliged by former covenant  to obey him” can only be the subject. And since only sovereigns command, “by the command of the author” cannot mean by command of the subject.[^43] This squares with Hobbes’s position in *De Homine* that “If someone sins at another’s command, both sin, since neither did right; *unless*, by chance, the *state* commanded it to be done, *so that the actor ought not to refuse*”.[^44]
 
 [^41]: EW III, 149; T 113.
+
 [^42]: In chapter 27 of *Leviathan*, Hobbes identifies the sovereign as the author of actions done in obedience to his commands: “when that man, or assembly, that hath the sovereign power, commandeth a man to do that which is contrary to a former law, the doing of it is totally excused: for he ought not to condemn it himself, because he is the author; and what cannot be justly condemned by the sovereign, cannot justly be punished by any other”. Hobbes is relying on the principle that “no man ought to accuse his own fact in another, that is but his instrument” (EW III, 289; T 209).
+
 [^43]: The way Hobbes revises the quoted passage in his Latin *Leviathan* makes it even clearer that the subject must be the actor in this case. Hobbes eliminates the end of the quote, “not his; but contrarily, to refuse to do it is against the law of nature that forbiddeth breach of covenant ” and replaces it with “not the actor’s but the author’s; because the actor would have violated the law if he had not done it, since he had covenanted to do it”. Because sovereigns are no party to any covenant , whereas subjects establish the sovereign by covenant  with one another, only the subject could be the author who “had covenanted to do it”; Curley, “Introduction to Hobbes’s *Leviathan”, Leviathan* with selected variants from the Latin edition of 1668, ed. E. Curley (Indianapolis, 1994), 102.
+
 [^44]: Gert, *Man and Citizen*, 84, emphasis added.
 
 *[p. 284]* ^pg302
@@ -270,7 +295,9 @@ The precise sense then in which the sovereign’s command is to be thought of as
 For the conscience  being nothing else but a man’s settled judgment and opinion, when he hath once transferred his right of judging to another, that which shall be commanded, is no less his judgment, than \[it is\] the judgment of that other. So that in obedience to laws, a man doth still according to his own conscience , *but not his private conscience* . And whatsoever is done contrary 
 
 [^45]: This clearly correct formulation of the problem belongs to A. P. Martinich , who called my attention to the difficulty posed by the transitivity of authorization. My discussion here elaborates that offered in my “Coercion, Ideology, and Education in Hobbes’s *Leviathan*”, in Andrews Reath, Barbara Herman, and Christine Korsgaard, eds., *Reclaiming the History of Ethics* (Cambridge, 1997).
+
 [^46]: EW III, 126; T 97.
+
 [^47]: Gert, *Man and Citizen*, 84.
 
 *[p. 285]* ^pg303
@@ -280,7 +307,9 @@ to private conscience , is then a sin, when the laws have left him to his own 
 We see then that Hobbes establishes a hierarchical structure of responsibility.[^50] We can think of such a system on the model of parents’ directives to their young children. Parents, who recognize that their children’s own judgment will be inadequate to keep them from harming themselves and each other, direct them first and foremost to obey a responsible (although, of course, fallible) adult, their babysitter, for example. The children are responsible for obeying the babysitter, and are to be faulted for failing to do so; but the babysitter is responsible 
 
 [^48]: EW IV, 186–187, emphasis added. This invites fear that Hobbes was advocating the “I-was-only-following-orders defense”, one that we have come to find morally repugnant. Hobbes might try to defend against this charge by noting that given the importance for peace of submission to authoritative arbitration, and considerof submission to authoritative arbitration, and consider- , and considering the fact that no one has a right to violate natural law (and that God will settle accounts in the end), his hierarchy of moral liability is approved by the best theory of how to secure the interests of mankind. This worry, raised by Martinich , is a serious one that merits a more detailed response than the one I’ve just sketched on Hobbes’s behalf.
+
 [^49]: EW II, 224.
+
 [^50]: Further evidence is provided in EW V, 177–178.
 
 *[p. 286]* ^pg304
@@ -292,7 +321,9 @@ This textual evidence, along with Hobbes’s extensive *Leviathan* discussion of
 This evidence does not by itself establish that Hobbes thought natural law works in the same way as divine positive law , and so does not by itself establish that natural law is likewise self-effacing. Still, three considerations make it much more likely than not that Hobbes intended to be offering a similarly self-effacing natural law theory. First, Hobbes insisted on the compatibility of natural with divine positive laws, that “there is no law of natural reason, that can be against the law divine”,[^53] and so that “\[a\]s the law of nature is all of it divine, so the law of Christ by conversion . . . is all of it also . . . the 
 
 [^51]: Here the babysitting analogy can even support Hobbes’s insistence that subjects retain the right to resist force used against them, since parents will of course not require that children passively submit to life-threatening abuse by their babysitter. There is textual evidence that Hobbes does think even adult persons need such paternalistic intervention, for example, “For the use of laws . . . is not to bind the people from all voluntary actions; but to direct and keep them in such a motion, as not to hurt themselves by their own impetuous desire s, rashness or indiscretion; as hedges are set, not to stop travellers, but to keep them in their way” (EW III, 335; T 239–240). That people need guidance in avoiding harm justifies God’s adoption of the hierarchical authority structure Hobbes describes. But we need not assume this paternalistic stance in order to make sense of Hobbes’s position that we ought to submit to authoritative impartial arbitration  of disputes; that is a requirement of reciprocity or fairness in the face of disagreement and does not depend on any attribution of childlike incompetence.
+
 [^52]: For example, EW III, 586–587; T 404.
+
 [^53]: EW IV, 116.
 
 *[p. 287]* ^pg305
@@ -306,7 +337,9 @@ Hobbes’s identification of the core of divine positive law  with the recipro
 that law of nature, which commands every man to allow the same rights to others they would be allowed themselves, and which contains in it all the other laws besides, is the same which Moses sets down (Levit. xix. 18): *Thou shalt love thy neighbour as thyself.* And our Saviour calls it *the sum of the moral law:* Matth. xxii. 36–40. . . . But to love our neighbour as ourselves, is nothing else but to grant him all we desire  to have granted to ourselves.[^56]
 
 [^54]: EW II, 62.
+
 [^55]: See *De Cive*, chapter 4, “That the Law of nature Is a Divine Law”, EW II, 59ff.; also *Elements of Law*, chapter V, “A Confirmation out of Holy Scripture of the princiof the principal points mentioned in the last two Chapters concerning the Law of Nature” (EW IV, 111). Hobbes consistently speaks of the Law of Nature as God’s law – see, for instance, EW III, 273; T 198; EW III, 312; T 224; EW III, 347; T 248; EW III, 494; T 344; EW III, 580; T 400; and EW III, 600; T 413. It would be peculiar for one part of God’s law to authorize a hierarchy of responsibility  while the other part did not.
+
 [^56]: EW II, 57. The *Elements of Law* also contains a similar passage: “That men content themselves with equality , *as it is the foundation of natural law*, so also is it of the second table of the divine law, Matth. xxii. 39, 40: *Thou shalt love thy neighbour as thyself .* . . \[which is to be understood as requiring that\] he should esteem his neighbour worthy \[of\] all rights and privileges that he himself enjoyeth; and attribute unto him, whatsoever he looketh should be attributed unto himself ” (EW IV, 113, first emphasis added).
 
 *[p. 288]* ^pg306
@@ -318,6 +351,7 @@ And here in *Leviathan:*
 Hobbes’s self-effacing natural law  theory seems to me to be quite ingenious, and sensible, even if somewhat frightening. Hobbes is not posing a question of calculating expected utilities. He is, rather, showing that if we can see that in the face of disagreement with others, fairness requires us to submit to authoritative adjudication of our disputes by submitting to a common civil sovereign and a set of positive laws, the moral choice to be made should be seen as one between accepting the risk in committing to adjudication that civil judgment will go against us, or going to war in an attempt to secure by force the rule of our private judgment  over and against the judgment of our opponents. Hobbes argues that the reasonable course of submission to adjudication most accords with reason, even should we fare worse under it. His view turns out to be, perhaps surprisingly, liberal , if liberals are those who take seriously the claims of their opponents and seek to resolve disputes in a way that can be justified to all willing reciprocally to take seriously the claims of their opponents. In just this way Hobbes’s Law of Nature (the reciprocity theorem ) requires 
 
 [^57]: EW III, 494 T 344.
+
 [^58]: Hobbes does not discuss what subjects should do were their sovereign to com-Hobbes does not discuss what subjects should do were their sovereign to command them to disobey his positive laws according to their private judgments of the requirements of natural law. Then should they obey natural law, which commands them to obey positive law , or positive law , which commands them to ignore itself in favor of conscientious judgment of the requirements of natural law? Nor does Hobbes discuss the similar question I posed in *IAI* of what should be our response to a sovereign who declares what God’s law is, and then commands us to disobey it, considering that it is God’s positive law s in Scripture  that command us to take our sovereign’s interpretation of Scripture as authoritative. These questions must be too farfetched for Hobbes to have thought it necessary to discuss them.
 
 *[p. 289]* ^pg307
@@ -365,6 +399,7 @@ Our account, drawing upon the interpretation of authorization just described, re
 But obligations do limit liberty. Obligations are owed to other people and are not “contained in the nature and intrinsical qualities of the agent”. Sensation, thoughts, and train of thoughts, desire , fear, and hope are the only “intrinsical” qualities of agents , on Hobbes’s account. These intrinsic qualities explain why we undertake obligations, but the resulting obligations themselves are not contained in the nature and intrinsic qualities of the agent. (They result from the interaction of the independent requirements of reason with those of our intrinsic qualities that contribute to our judgments.) While it is true that both natural duties and “obligations proper” make normative claims on us only because we naturally think, desire , and fear 
 
 [^60]: Here I correct a mistake I made in *IAI* in arguing that law affects behavior by affecting what it is that the agent wills to do.
+
 [^61]: EW IV, 204.
 
 *[p. 292]* ^pg310
@@ -418,6 +453,7 @@ I’ll begin by describing each of the problematic character -types, explainin
 One of the most discussed passages in all of *Leviathan* is Hobbes’s discussion in chapter 15 of “the Foole ”.[^1-p296] This passage has usually been interpreted as an attempt to demonstrate the narrow rationality  of morality. Some commentators have supposed that Hobbes is arguing that it is never in one’s self-interest to violate the third Law of Nature prohibiting breaking covenants, or for that matter, to violate any others of the Laws of Nature. Thus understood, the Foole passage is presumed to count as evidence in favor of a self-interest interpretation of the Laws of Nature, for unless the Laws of Nature are themselves rules for securing the self-interest of the agent, how could it be crucial to showing that those laws are in accord with reason (hence Laws of Nature) to show that they cannot require actions not approved by self-interest? However, as David van Mill  has correctly argued, because the only thing the Foole cares about is his self-interest, and not his religious or moral duties, and perhaps not even the good of others, it can be but weak evidence indeed for the self-interest interpretation of the Laws of Nature that Hobbes does not reply to the Foole by insisting that injustice is contrary to duty or bad for humanity generally.[^2-p296] The interpretation I shall offer, while enabling Hobbes to answer the Foole in the Foole’s own terms, is nonetheless fully compatible with the 
 
 [^1-p296]: EW III, 132–135; T 102–103.
+
 [^2-p296]: David van Mill , *Liberty, Rationality, and Agency in Hobbes’s Leviathan* (Albany, N Y,
 
 *[p. 297]* ^pg315
@@ -429,6 +465,7 @@ In the Latin *Leviathan* Hobbes made unusually extensive revisions to his earlie
 \[T\]here is no such thing as justice; . . . every man’s conservation and contentment being committed to his own care, there could be no reason why every man might not do what he thought conduced thereunto, and therefore also to make or not make, keep or not keep, covenants was not against reason, when it conduced to one’s benefit. . . . The kingdom of God  is gotten by violence; but what if it could be gotten by unjust violence? were it against {right} reason so to get it, when it is impossible to receive hurt by it {but only the supreme good}? and if it be not against reason, it is not against justice; or else justice is not to be approved for good. . . . \[Y\]ou may call \[regicide by an heir\] injustice, or by what other name you will, yet it can never be against reason, seeing all the voluntary actions of men tend to the benefit of themselves, and those actions are most reasonable that conduce most to their ends.[^4-p297] Hobbes writes of the Foole  that he questioneth whether injustice, taking away the fear of God (for the same fool hath said in his heart there is no God), may not sometimes stand with that reason which dictateth to every man his own good; and particularly then, when it conduceth to such a benefit as shall put a man in a condition 
 
 [^3-p297]: Edwin Curley’s edition (Indianapolis, 1994) documents these revisions. I am assuming, perhaps controversially, that while it is possible that portions of the Latin version predate the English, Hobbes did include there changes from the English, or was in any case prepared to let stand those Latin passages that diverge from the English. However, the interpretation I shall offer does not require privileging either of these versions. I mention it here because I shall be making use of both versions. Curley follows Molesworth’s Latin *Leviathan* in introducing quotation marks to set off what the Foole  says from Hobbes’s comment on his position, and these are the passages I compile in the following account of the Foole’s position. However, it is an open question whether Molesworth’s innovation introduces an overly sharp distinction between attribution and commentary that might prove detrimental to interpretation of Hobbes’s reply to the Foole. For this reason, I follow this compilation with quotation of those of Hobbes’s remarks that seem to me to occupy this disputed territory. I am grateful to Kinch Hoekstra  for discussion of this question.
+
 [^4-p297]: Curley, ed., *Leviathan,* 90–91. The Latin revisions appear in curly braces. Square brackets contain my supplement to preserve the meaning of the quoted remark.
 
 *[p. 298]* ^pg316
@@ -440,6 +477,9 @@ Why is the person who maintains this position a fool, according to Hobbes? In wh
 A second possibility is that the Foole  errs in failing to see that *one can never correctly predict that one will profit by injustice.* Although injustice (or violations of other natural laws) may indeed profit the agent, he can never be epistemically warranted in believing that he will so profit. This position is implausible on its face, at least if we ignore the possibility of divine punishment , as the Foole does. When we think of ordinary occasions for injustice, as when the mail-order retailer who intends to declare bankruptcy nonetheless continues to accept paid orders for merchandise he will not send, or the car mechanic charges for unnecessary parts, or the politician breaks his campaign 
 
 [^5-p298]: Ibid., 90.
+
 [^6-p298]: Hobbes says this explicitly in the first paragraph of the Foole  passage (EW III, 132; T 101).
+
 [^7-p298]: EW III, 346; T 247.
+
 [^8-p298]: EW III, 281–282; T 204, first emphasis added.

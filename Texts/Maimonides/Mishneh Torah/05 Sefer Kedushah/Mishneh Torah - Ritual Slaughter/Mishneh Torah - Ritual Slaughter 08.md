@@ -124,76 +124,138 @@ If the liver slipped from its place and it is [in disarray, as long as it is sti
 **26.** Although [an animal] is permitted despite the fact that a kidney was removed or it was created without it, if its kidney is extremely undersized, it is *trefe*.[^60] For a small animal, this means the size of a bean, for a large one, the size of a grape.[^61] Similarly, [an animal could be deemed trefe] if a kidney became afflicted, i.e., its flesh became like the flesh of a dead [animal] that decayed after several days, [degenerating] to the extent that were one to take hold of a portion of it, it would decompose and fall apart. If this condition reached the white portion[^62] in the kidney, the animal is *trefe*. Similarly, if moisture - even if it is not putrid - is found in the kidney or murky or putrid fluid is found there, it is *trefe*. If, however, clear water is found there,[^63] [the animal] is permitted. ^8-26
 
 [^1]: *Chasairah* means "lacking." This category disqualifies an animal if it lacks one of its fundamental organs.
+
 [^2]: It is true that there are more organs that render an animal *trefe* if they are lacking. Nevertheless, the lack of these organs is not placed in this category. Instead, the organ is considered as *nekuvah*, "perforated." As stated in Chapter 6, Halachah 20, if the perforation of these organs will disqualify an animal, surely, it will be disqualified when the organs are lacking entirely.
+
 [^3]: I.e., he will be holding the animal from behind. See *Shulchan Aruch* (*Yoreh De'ah* 35:2).
+
 [^4]: I.e., it is small and red.
+
 [^5]: The Rama (*Yoreh De'ah* 35:2 states that it is customary within the Ashkenazic community to declare an animal *trefe*, if it lacks this "rose" or if there is an extra "rose."
+
 [^6]: For it does not seal it thoroughly.
+
 [^7]: For the "rose" functions in place of the missing lobe. If, however, the "rose" is found on the left and there is only one lobe, the animal is not acceptable. Since it is not in its proper place, it cannot replace a lobe (*Kessef Mishneh*). The *Shulchan Aruch* (*Yoreh De'ah* 35:7) quotes the Rambam's ruling, but the Rama differs.
+
 [^8]: In this instance, the "rose" does not compensate for the lack of the lobe, because it is not on the right side.
+
 [^9]: "In the row of the lungs" to borrow the expression used by *Chullin* [[Chullin 47#47b|47b]]. Generally, we follow the principle that every addition is considered as if it was lacking. In this instance, however, since the extra lobe is found in the row of the lobes, it will not disturb the lungs' ordinary functioning.
+
 [^10]: In this instance as well, the Rambam maintains that the position of the extra lobe prevents it from disturbing the lungs' ordinary functioning. The *Shulchan Aruch* (*Yoreh De'ah* 35:3) accepts the Rambam's ruling.The Rama quotes more stringent views that state that any extra lobe that is not found in the row of the lungs is *trefe*. Nevertheless, the custom is to rule leniently.
+
 [^11]: I.e., even when inflated.
+
 [^12]: If the portions of the lungs that follow their natural pattern become attached to each other, all authorities agree that the animal is acceptable, for this attachment will not create any difficulties. And if the third lobe becomes attached to the first, all agree that it is unacceptable, because as the lungs inflate, the attached portions will separate, cause the attachment to tear, and in doing so, perforate the lobe.  
     The commentaries question - and the *Maggid Mishneh* actually maintains that the text of the *Mishneh Torah* reads in this manner - whether if the back of one lobe is attached to the back of the lobe next to it, the animal is also *trefe*. For in this instance as well, since the lobes are attached in an unnatural order, the attachment will tear and perforate the lungs. In his *Kessef Mishneh*, Rav Yosef Caro maintains that the Rambam's wording implies that as long as the attached lobes are next to each other, the lung is acceptable, even if they are attached back to back. He does note, however, that there are authorities who rule stringently. He concludes in his *Kessef Mishneh* and also rules accordingly in his *Shulchan Aruch* (*Yoreh De'ah* 39:4), that the attachments do not disqualify an animal only when the lobes are attached side to side - and not back to back - in the natural order. If they are attached in such an order, however, the lungs need not be checked. The Rama differs, requiring an examination. He also states that there are authorities who maintain that we are not knowledgable regarding how to make such an examination and therefore such an animal should be considered as *trefe*. Nevertheless, his ruling also leaves room for leniency if less than half of the body of the lobes are attached. See *Siftei Cohen* 39:11.
+
 [^13]: I.e., they appear as one flush mass, without differentiation. If they are distinct, but attached, they are governed by the laws stated in the previous halachah.
+
 [^14]: From Halachah 4, it appears that this is the size of a lobe that is significant. Hence, just as it is significant in disqualifying an animal, it is significant in causing it to be deemed kosher (*Maggid Mishneh*).  
     The Rambam's ruling is quoted by the *Shulchan Aruch* (*Yoreh De'ah* 35:8). The Rama cites authorities that maintain that even if a smaller portion is distinct, the lobes are considered as separate and the animal, kosher. The Rama states that we may rely on these opinions if there is a significant loss involved.
+
 [^15]: I.e., it is lacking part of its ordinary mass.
+
 [^16]: The *Kessef Mishneh* notes that in Chapter 7, Halachah 9, the Rambam rules that if a lung has decayed, it is kosher as long as its bronchioles and outer membrane are intact despite the fact that it has lost a large amount of its substance. He explains that this is not necessarily a contradiction to the ruling here. In that instance, since the lung has decayed significantly and yet, the brochioles have not been perforated, we assume that they will not be perforated. In this instance, by contrast, we suspect that the lack within the lung will cause it to become perforated.  
     Many other *Rishonim*, however, do not make such a distinction and maintain that a lung is acceptable if it is lacking some of its inner substance. The *Shulchan Aruch* (*Yoreh De'ah* 36:8) quotes both views. The Rama states that certain circumstances call for leniency and others, for stringency.
+
 [^17]: The *Kessef Mishneh* explains that others explain that it is considered as if the dried portion is perforated and therefore the animal is *trefe*.
+
 [^18]: As stated in law 4, an extra lobe is considered as a missing lobe and disqualifies a lung. Similarly, there is reason to think that an increase in the size of a lung is equivalent to a decrease in its size and disqualifies it in a similar fashion.
+
 [^19]: When quoting this law, *Shulchan Aruch* (*Yoreh De'ah* 36:14) speaks of an "entire lung" shriveling.
+
 [^20]: For in the near future, it will regain its natural size, as indicated by the following halachah.
+
 [^21]: *Chullin* [[Chullin 55#55b|55b]] states that earthern-ware utensils made of white clay will have water condense upon them easily.
+
 [^22]: *Chullin, loc. cit.*, also debates what the ruling would be if one animal is frightened by another animal. The Rambam does not discuss the issue for seemingly, it would be able to be resolved by the same test mentioned here. The *Shulchan Aruch* (*Yoreh De'ah* 36:14 considers being frightened by other animals as equivalent to being frightened by the hand of heaven.  
     The Radbaz also states that if the lung returns to normal, it is acceptable even if the animal was frightened by human activity. Other authorities differ and maintain that if we know that the animal was frightened by human activity, this examination is not acceptable (*Siftei Cohen* 36:30).  
     See also Rama (*Yoreh De'ah* 36:15) who rules that in the present era, we are not knowledgeable with regard to the various inspections that our Sages spoke about and hence, should not employ them. If, however, it appears that an animal's lung shrunk due to the hand of heaven, it should not be permitted without undergoing this examination.
+
 [^23]: The category of *chasairah* involves two organs: the lungs and the feet. Having discussed the lungs, the Rambam proceeds to discuss the feet. As the Rambam continues to explain, here the intent is the hindlegs.
+
 [^24]: The severed foot itself, however, is forbidden.
+
 [^25]: There are three segments of an animal's leg between its trunk and its hoofs. We are speaking about the joint between the highest and middle portions of the leg.
+
 [^26]: Note, however, Halachah 15.
+
 [^27]: I.e., the highest of the three bones of the animal's legs.
+
 [^28]: For it will never heal.
+
 [^29]: Even the covering of the skin alone is sufficient. This represents a revision of the Rambam's thinking. The initial text of his Commentary to the Mishnah (*Chullin* 8:13) stated "there was flesh and skin covering it" and he altered it to read "flesh or skin covering it."
+
 [^30]: For the leg will heal. Not only is the animal permitted, the leg itself is permitted. We do not consider it as if it had been severed and removed during the animal's lifetime.
+
 [^31]: I.e., it is customary for the butchers to make a hole in the lowest bone of the leg and hang the animal head downwards so that they can skin it and cut off its meat. The definition of "the juncture of the sinews" is important, as reflected in Halachot 15-18.
+
 [^32]: A fingerbreadth is approximately 2 cm according to *Shiurei Torah* and 2.4 cm according to *Chazon Ish*.  
     Together with the Rambam's view, the *Shulchan Aruch* (*Yoreh De'ah* 56:5) also quotes Rashi's view that the juncture of the sinews is four fingerbreadths long.
+
 [^33]: The Ra'avad takes issue with the Rambam's statements, admitting that the sinews of a fowl - as do those of an animal - begin in its actual feet. Nevertheless, he states, it is only from the joint between the second and third bone of the leg that they are considered halachically significant. For the laws of *trefot* that govern a fowl parallel those which govern an animal.  
     In his *Kessef Mishneh*, Rav Yosef Caro cites authorities that maintain that the text of the *Mishneh Torah* is in error and it should be amended to parallel the Ra'avad's comments. He cites a responsum attributed to the Rambam sent to the Sages of Provence which also follows this understanding. And in his *Shulchan Aruch* (*Yoreh De'ah* 56:8), he rules in this manner.
+
 [^34]: Halachah 11.
+
 [^35]: Thus according to the Rambam - and his position is cited by the *Shulchan Aruch* (*Yoreh De'ah* 55:1) - if an animal's leg is severed in the top bone, it is *trefe*. If it is severed in the bottom bone, it is kosher, and if it is severed in the middle bone, the ruling depends on whether it was severed above the juncture of the sinews or not.  
     The *Shulchan Aruch* also cites a more stringent view - and the Rama states that it should be followed - that if the middle bone was severed, even above the juncture of the sinews, the animal is *trefe*. Moreover, even if it is severed at the lower joint, above the cartiledge called the *irkum*, the animal is *trefe*.
+
 [^36]: The *Kessef Mishneh* states that the Rambam is explaining that a severed leg causes an animal to be considered *trefe*, because it is in the category of *chasairah*. When the juncture of its sinews is lacking, it is considered *trefe*, because it is in the category of *netulah*, as the Rambam proceeds to explain.
+
 [^37]: See Halachot 16-17.
+
 [^38]: *Netulah* is one of the eight types of *trefot* mentioned in Chapter 5, Halachah 2. The term literally means "removed."
+
 [^39]: I.e., there are many organs besides these three that cause an animal to be deemed lacking if they are removed. The disqualification of these other organs, however, is not included in the category of *netulah*, rather that of *nekuvah*, perforated, or *chasairah*, lacking, i.e., the organ's removal is the greatest perforation or lack that could be. See Chapter 6, Halachah 20.
+
 [^40]: The Ra'avad notes that seemingly, the disqualification of an animal because the junction of its sinews was severed would cause it to be placed in the following category, *pesukah* (Chapter 9, Halachah 1). He and the *Kessef Mishneh* explan that since our Sages (*Chullin* [[Chullin 57#57a|57a]], 76a) uses the expression: "If the juncture of the sinews was removed," it should be placed in this category and not in the other. Note the *Siftei Cohen* 56:1 who interprets the Ra'avad slightly differently.
+
 [^41]: Halachah 15.
+
 [^42]: I.e., the fact that this portion of the leg is missing is not significant.
+
 [^43]: As long as a majority - either a majority in number or the larger portion - remains intact, the animal is permitted (*Chullin* [[Chullin 76#76b|76b]]).
+
 [^44]: The *Kessef Mishneh* explains this ruling as follows. Since we are stringent with regard to a fowl and require that all sixteen be intact, we extend that stringency and disqualify it if the majority of one is impaired. For when the majority of a sinew is impaired, it is as if the entire sinew is impaired.
+
 [^45]: As stated in Halachah 11. See *Shulchan Aruch* (*Yoreh De'ah* 53:2-3) which explains details about this situation.
+
 [^46]: I.e., near the kidneys. In his Commentary to the Mishnah (*Chullin*3:1) refers to it as the place attached to the blood vessels from which blood from the liver is dispersed throughout the body. *Chullin* [[Chullin 46#46a|46a]] refers to this as "the place from which it derives its nurture." See the *Siftei Cohen* 41:1 and the *Turei Zahav* 41:1 which quote authorities that interpret this as meaning the place to which it is attached on the diaphragm.
+
 [^47]: For these are fundamentally necessary for its functioning.
+
 [^48]: Because it - and its two fundamentally necessary portions - are still intact.
+
 [^49]: For these two portions are of primary necessity.
+
 [^50]: *Chullin* [[Chullin 46#46a|46a]] raises questions regarding these situations and does not resolve them. The commentaries question why the Rambam rules definitively that the animal is unacceptable. The *Kessef Mishneh* explains that this applies even if there is one olive-sized portion that is entirely intact.
+
 [^51]: The *Tur* (*Yoreh De'ah* 33) objects to the Rambam's ruling, stating: "I am amazed at his prohibition [of the animal] when the upper jaw is removed since this is not explicitly stated. Are we to add to the *trefot*?"  
     To explain: *Chullin* [[Chullin 54#54a|54a]] states that if the lower jaw is removed, the animal is permitted. The Rambam deduces that the implication is that if the upper jaw is removed, the animal is *trefe*. The *Tur* claims that this deduction is not explicitly stated and hence, we have no right to make this deduction on our own. The sages of Provence wrote to the Rambam, voicing similar objections and he replied to them, explaining that the upper jaw is necessary for an animal's breathing. The *Shulchan Aruch* (*Yoreh De'ah* 33:2) states that it is proper to show respect for the Rambam's ruling.  
     Based on the gloss of the Rogatchover *Gaon*, it is possible to explain why this defect is not mentioned by the Sages of the Talmud. This defect is not in and of itself a direct cause for an animal's death, it is only a side factor that will lead to its death. Hence our Sages did not mention it, for they mentioned only those factors whice are direct causes (*Yayin Malchut*).
+
 [^52]: When quoting this ruling, the *Shulchan Aruch* (*Yoreh De'ah* 33:1) adds that the animal must be able to continue to survive by being force-fed.
+
 [^53]: I.e., the lungs and the hindlegs as stated in Halachah 1.
+
 [^54]: As mentioned above (Chapter 6, Halachah 20), all the organs which render an animal *trefe* if they are perforated, also render it *trefe* when they are lacking or removed. Nevertheless, the Rambam places them in the category of *nekuvah* for that is the most inclusive classification.
+
 [^55]: And our Sages listed them as separate categories, as stated in Chapter 5, Halachah 2.  
     The Rashba (as quoted by the *Kessef Mishneh*, Chapter 6, Halachah 20) differs and maintains that an animal is also *trefe* if it is lacking a liver from the beginning of its existence. Why then did our Sages mention *chasairah* and *netulah* as two separate categories? Because if they were not listed so, one might argue that an animal is *trefe* only when an organ is removed and not when it was lacking from the beginning of the animal's existence or vice versa. The *Tur* follows the Rashba's view. The *Shulchan Aruch* (*Yoreh De'ah* 50:72 quotes both opinions, but appears to favor the Rashba's view. The Rama states that we may rely on the Rambam when a significant loss is involved.
+
 [^56]: For the ruling is more lenient if at the outset, it was not created with this organ, as above.
+
 [^57]: I.e., even if both kidneys were removed. Even though according to medical knowledge, there is no way such an animal can live, our Sages did not deem this condition *trefe*. See Chapter 10, Halachah 12.
+
 [^58]: For we follow the principle that any extra organ is considered as if it was removed.
+
 [^59]: It is, however, considered a blemish and the animal may not be offered as a sacrifice (*Hilchot Issurei HaMizbe'ach* 2:11).
+
 [^60]: In his *Kessef Mishneh*, Rav Yosef Caro states that many *Rishonim* disqualify an animal only when its kidneys shrank because of illness. If, however, it was born with an undersized kidney, it is acceptable. And in his *Shulchan Aruch* (*Yoreh De'ah* 44:5), he accepts this ruling as law.
+
 [^61]: The *Turei Zahav* 44:12 and the *Siftei Cohen* 44:13 quote authorities who explain that the grapes of *Eretz Yisrael* were very large during the Talmudic period. At that time, a grape was significantly larger than a bean.
+
 [^62]: The white fat from the loins enters the kidneys, because the different sinews are all interwoven there, causing a split to appear within the kidney. This is located in the midst of the kidney (Rashi, Rabenu Nissim, *Chullin* [[Chullin 55#55b|55b]]).
+
 [^63]: Even if it reached the white portion [*Shulchan Aruch* (*Yoreh De'ah* 44:2)].

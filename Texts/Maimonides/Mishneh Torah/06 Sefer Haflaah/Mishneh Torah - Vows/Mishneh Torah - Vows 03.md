@@ -76,30 +76,55 @@ Similarly, one who tells a colleague: "I will be obligated to bring a sacrifice 
 **12.** Although when a person takes a vow concerning entities that are not of substance and forbids them, the vow does not take effect with regard to them, we do not rule that he should act as if they are permitted. [Instead,] since he willingly [took a vow] forbidding them to him, [according to Rabbinic decree][^25] the vow took effect with regard to them. Although they are not forbidden, we give him an opportunity [to ask for the vow's release] from another vantage point and then release the vow, so that he will not act frivolously with regard to vows.[^26] ^3-12
 
 [^1]: See *Hilchot Sh'vuot* 4:9-10. The reverse ruling with regard to vows is described in Halachah 2.
+
 [^2]: See *Hilchot Sh'vuot* 2:8-9. The reverse rulings with regard to vows are described in Halachot 3-5.
+
 [^3]: See *Hilchot Sh'vuot* 5:14-16. The reverse ruling with regard to vows is described in Halachot 6-9.
+
 [^4]: This concept can be explained as follows: As stated in Halachah 6, an oath creates a prohibition on the person taking the oath (the *gavra*), i.e., the article is essentially permitted, he has accepted a prohibition on himself not to partake of it. Hence, it is not significant whether the article is of substance or not. With regard to vows, by contrast, the article itself (the *cheftzah*) becomes forbidden. Hence, for that prohibition to take effect, the article must be of substance (Radbaz). See Halachah 10 for an illustration of how this principle is effective with regard to vows.
+
 [^5]: This term refers to a specific span of time, the time it takes to say: *Shalom Elecha Rebbi* (*Hilchot Sh'vuot* 2:17).
+
 [^6]: I.e., he is extending the scope of his colleague's vow, so that it includes not only his colleague, but he himself.  
     Here also the concept can be explained according to the above difference. Since an oath involves an obligation on the person taking the oath (*gavra*), it cannot be extended to include another individual, for each person must take his own oath. With regard to a vow, by contrast, since the prohibition caused by the vow is associated with a substance (*cheftzah*), another person can also extend the prohibition to himself (Rabbenu Nissim).
+
 [^7]: In this instance, it is not necessary to make the statement immediately thereafter the first vow. Since the meat is visible before us, one can attach a vow to it. With regard to the previous halachah, by contrast, we are speaking about a subject that cannot be seen. Hence, unless the statements are made immediately after each other, there is no way we can be certain of the meaning of the statement: "And I am like you" (Radbaz).
+
 [^8]: This is a common practice in many communities.
+
 [^9]: If, however, he never fasted on that day, he cannot attach another day to this vow (*Chazon Yechezkel*).
+
 [^10]: I.e., any given day.
+
 [^11]: For breaking his vow. The Rama (*Yoreh De'ah* 215:1) mentions a view that maintains that the person should be given corporal punishment for taking such a vow and should be compelled to ask to have the vow released.
+
 [^12]: For he can fulfill the mitzvah and bring the sacrifice (the Rambam's Commentary to the Mishnah, *Nedarim* 2:2).
+
 [^13]: I.e., the prohibition involves the *gavra*, the person himself. It cannot take effect if he is already bound to act otherwise.
+
 [^14]: I.e., the prohibition involves the *cheftzah*, the article. Once it is forbidden, it is forbidden to fulfill the mitzvah by partaking of it or using it, for a positive commandment does not supercede a negative commandment. It would be a mitzvah fulfilled through a transgression which is a forbidden act (the Rambam's Commentary to the Mishnah, *loc. cit.*).
+
 [^15]: *Hilchot Sh'vuot* 5:16.
+
 [^16]: Despite the fact that by doing so he negates the mitzvah of taking pleasure in the Sabbath and festivals. The Ra'avad clarifies that the matter is dependent on the wording he used in his oath. If on the Sabbath, he said: "I will fast today," he is forbidden to keep his vow.
+
 [^17]: In the three preceding halachot.
+
 [^18]: When it is a mitzvah to eat in preparation for the fast (*Rosh HaShanah* [[Rosh Hashanah 9#9a|9a]]; *Shulchan Aruch, Orach Chayim* 604:1).
+
 [^19]: In contrast to the Sabbath and festivals where the obligation to eat is of Scriptural origin. This is a general principle in Talmudic Law. There are times when our Sages gave their decrees greater power than Scriptural Law, for Scriptural Law is revered by the people at large and does not require reinforcement. If, by contrast, Rabbinic Law was abrogated in such instances, it might lead people to take leniencies even when uncalled for (see *Ta'anis* [[Taanit 17#17b|17b]]; *Kessef Mishneh*). The Radbaz explains that if keeping one's vow was allowed to override a Rabbinic decree, then there would be no point in making such decrees. For people could nullify them by taking vows. For example, a person could take a vow to drink ordinary gentile wine.  
     The *Kessef Mishneh* also explains that although the obligation to eat on Rosh Chodesh and the day preceding Yom Kippur is also of Rabbinic origin, since our Sages found an allusion to it in the Torah, it is less likely that people will treat it lightly.
+
 [^20]: I.e., he takes a vow against the other person listening to his speech.
+
 [^21]: If, however, he states: "The satisfaction that I receive from any of the above is forbidden," his vow is effective, for the satisfaction is considered substantial. See Chapter 12, Halachah 9.
+
 [^22]: For these organs are objects of substance (*Nedarim* [[Nedarim 13#13b|13b]]).
+
 [^23]: And apply only to entities of substance.
+
 [^24]: Which are described in *Hilchot Ma'aseh HaKorbanot*, chs. 6 and 9. See also Chapter 1 where the Rambam makes a distinction between these two types of vows.
+
 [^25]: See *Nedarim* [[Nedarim 15#15a|15a]]. Similarly, in his Commentary to the Mishnah (*Nedarim* 2:1), the Rambam writes that the prohibition against desecrating one's word applies with regard to these vows. Compare to Chapter 4, Halachah 4.
+
 [^26]: See Chapter 2, Halachot 12-13.

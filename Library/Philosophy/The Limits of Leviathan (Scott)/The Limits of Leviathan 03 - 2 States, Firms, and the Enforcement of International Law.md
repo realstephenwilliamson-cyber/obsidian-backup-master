@@ -55,8 +55,11 @@ Let us consider first how private contracts are enforced. Typically the parties 
 But contract enforcement is not limited to these conventional remedies. First, parties can design their own enforcement mechanism, as with a provision for liquidated damages.[^2] They can commit to use alternative dispute settlement procedures, as with an arbitration clause.[^3] They can decide to rely on self-help rather than third-party sanctions.[^4] And in every instance, courts can look at agreements in which these choices are not explicit and make decisions about enforcement for the contracting parties.[^5]
 
 [^2]: *See* Charles J. Goetz & Robert E. Scott, *Liquidated Damages, Penalties and the Just Compensation Principle: Some Notes on an Enforcement Model and a Theory of Efficient Breach*, 77 Colum. L. Rev. 554 (1977).
+
 [^3]: *E.g.*, Vimar Seguros y Reaseguros, S.A. v. M/V Sky Reefer, 515 U.S. 528 (1995) (recognizing arbitrability of a dispute over a sea carrier’s obligations to shipper).
+
 [^4]: *See* Robert E. Scott, *A Theory of Self-Enforcing Indefinite Agreements*, 103 Colum. L. Rev. 1641 (2003).
+
 [^5]: *See* Robert E. Scott, *The Case for Formalism in Relational Contract*, 94 Nw. U. L. Rev. 847 (2000).
 
 *[p. 32]* ^pg42
@@ -66,8 +69,11 @@ How does international law enforcement resemble contract enforcement? First and 
 Similarly, the framers of the 1957 Treaty of Rome, the agreement that established the European Economic Community (renamed the European Community by the 1992 Maastricht Treaty), created the European Court of Justice (the ECJ) to interpret and apply Community law and authorized the ECJ to impose monetary damages that would have direct effect in the legal systems of the states that belonged to the Community.[^8] Initially, the framers had no direct experience with this institution, although they clearly used French administrative courts as a model. By the time of the later revisions of the Treaty as well as the accession of new members, however, the parties acted against a concrete historical background. When the ten latest members joined the Community in 2004, they had a pretty clear idea of what ECJ enforcement means in practice.[^9]
 
 [^6]: North American Free Trade Agreement, arts. 1101 –39, Dec. 17, 1992, H.R. Doc. 103 –159 (1993), 32 I.L.M. 605, 639 (1992).
+
 [^7]: Convention on the Settlement of Investment Disputes Between States and Nationals of Other States, Mar. 18, 1965, 17 U.S.T. 1270, T.I.A.S. No. 6090, 575 U.N.T.S. 159. The United States not only signed this agreement and obtained Senate approval pursuant to Article II of the Constitution, but also enacted 22 U.S.C. §1650a to give U.S. federal courts jurisdiction to enforce pecuniary awards issued by tribunals pursuant to the Convention. Another provision, 28 U.S.C. §2414, in turn requires the Secretary of the Treasury to honor judgments issued by federal courts.
+
 [^8]: For the current version of these obligations, see Consolidated Version of the Treaty Creating the European Community, Dec. 24, 2002, OJ (C 325) 33 (2002), arts. 220–45, 256.
+
 [^9]: One should recall that the power of the U.S. courts to exercise judicial review, that is directly to enforce the Constitution against the federal and state governments, also arose gradually over the first several decades of the nation’s history. Sylvia Snowis, Judicial Review and the Law of the Constitution (1990). In this sense the hardening process in EC law enforcement replicated U.S. constitutional law development.
 
 *[p. 33]* ^pg43
@@ -79,8 +85,11 @@ Because customary international law is not formally constituted (using the termi
 Under some accounts, an “invisible college” of international law specialists determines both who belongs to the rulemaking group and uses general normative principles such as human dignity, good faith, and fairness to decide what counts as a binding norm.[^12] In particular, some authorities assert that there exists a body of customary international law, called *jus cogens*, that transcends the principle of state consent by applying even to states that expressly reject them.[^13] But, according to other versions of customary international law, rules based on normative rather than descriptive claims do not count, and only persons exercising official power, such as judges and government officials, have
 
 [^10]: For extensive accounts, see Anthony A. D’Amato, The Concept of Custom in International Law (1971); Michael Byers, Custom, Power, and the Power of Rules: International Relations and Customary International Law (1999); Karol Wolke, Custom in Present International Law (2nd rev. ed. 1993).
+
 [^11]: Hart observed: It is indeed arguable, as we shall show, that international law not only lacks the secondary rules of change and adjudication which provide for legislature and courts, but also a unifying rule of recognition specifying “sources” of law and providing general criteria for the identification of its rules. H. L. A. Hart, The Concept of Law 209 (1961).
+
 [^12]: *See*, *e.g.*, Oscar Schachter, *Human Dignity as a Normative Concept*, 77 Am. L. Int’l L. 848 (1983); Oscar Schachter, *The Invisible College of International Lawyers*, 72 Nw. U. L. Rev. 217 (1977).
+
 [^13]: The Restatement (Third) of the Foreign Relations Law of the United States defines *jus cogens* or peremptory norms as follows: Some rules of international law are recognized by the international community of states as peremptory, permitting no derogation. These rules prevail over and invalidate international agreements and other rules of international law in conflict with them. Such a peremptory norm is subject to modification only by a subsequent norm of international law having the same character. It is generally accepted that the principles of the United Nations Charter prohibiting the use of force *. . .* have the character of jus cogens. American Law Institute, Restatement (Third) of the Foreign Relations Law of the United States §102, comment k (1987).
 
 *[p. 34]* ^pg44
@@ -94,8 +103,11 @@ This is not too much of a concession, however. The extremely normative and insul
 Nor is the normative version the only game in town, even in the academy. Some academic proponents of an expansive account of customary international law have found room for rational-choice explanations of how customary law is made. For example, Eyal Benevisti argues that at least some customary international law represents an efficiency-driven solution to a transactions-cost problem. He argues that states recognize in advance that straightforward negotiations may fail to produce desirable outcomes, either because differences in state interests may thwart recognition of a globally desirable result or because
 
 [^14]: *See*, *e.g.*, Flores v. South Peru Copper Corp., 343 F.3 rd 140, 156–58 & n. 26 (2nd Cir. 2003) (dismissing suit based on customary international law against polluter; rejecting view that scholarly opinion alone can create customary international law); United States v. Yousef, 327 F.3 rd 56, 99–103 (2nd Cir. 2003) (rejecting argument based on scholarly opinion that customary international law limits national jurisdiction to prosecute extraterritorial acts as crimes).
+
 [^15]: Jack L. Goldsmith & Eric A. Posner, note 1 *supra*, at 21 –78.
+
 [^16]: Thus the vocabulary of *opinio juris* has been explained as a shorthand for a kind of state consent that implies voluntary choice. Maurice H. Mendelson, *The Formation of Customary International Law*, 272 Recueil des Cours 155, 268–93 (1998); George Norman & Joel P. Trachtman, *The Customary International Law Game*, 99 Am. J. Int’l L. 541, 544, 570–71 (2005).
+
 [^17]: Curtis A. Bradley & Jack L. Goldsmith, *Customary International Law as Federal Common Law:* *A Critique of the Modern Position*, 119 Harv. L. Rev. 815, 357–58 (1997); Jack L. Goldsmith & Eric A. Posner, *A Theory of Customary International Law*, 66 U. Chi. L. Rev. 1113 (1999).
 
 *[p. 35]* ^pg45
@@ -107,7 +119,9 @@ Benevisti’s argument is one example of a trend. At least in the legal academy,
 When one turns from recognition of the existence of international law to its enforcement, the conceptual and methodological problems become complicated. Most scholars focus on the use of domestic institutions to enforce international law. Yet others maintain that international law says nothing about domestic implementation of international obligations. If left unqualified, this last claim clearly is false. Both NAFTA Chapter 11 and the European Court of Justice are examples of international commitments that deal expressly with domestic implementation. At most one can say that there exists some separation between the question of what obligations exist under international law and what national governments must do to meet their obligations.[^20]
 
 [^18]: Eyal Benevisti, *Customary International Law as a Judicial Tool for Promoting Efficiency*, in The Impact of International Law on International Cooperation – Theoretical Perspectives 85 (Eyal Benevisti & Moshe Hirsch eds. 2004).
+
 [^19]: *See*, *e.g.*, Jack L. Goldsmith & Eric A. Posner, note 1 *supra*, at 21 –78; Francesco Parisi & Vincy Fon, *International Customary Law and Articulation Theories: An Economic Analysis*, 2 Int’l L. & Mgt. Rev. 1 (2006); Tom Ginsburg, *International Judicial Lawmaking*, 45 Va. J. Int’l L. 631 (2005); Andrew T. Guzman, *A Compliance-Based Theory of International Law*, 90 Cal. L. Rev. 1823 (2002); George Norman & Joel P. Trachtman, note 16 *supra*; Edward T. Swaine, *Rational Custom*, 52 Duke L. J. 559 (2002); Pierre-Hugues Verdier, *Cooperative States: International Relations, State Responsibility and the Problem of Custom*, 42 Va. J. Int’l. L. 839 (2002).
+
 [^20]: For one statement of the separation claim – that international law does not control domestic enforcement – see Antonio Cassese, International Law 168 (2001): Apart from the general rule barring States from adducing domestic legal problems for not complying with international law, and the treaty or customary rules just mentioned that impose the obligation to enact implementing legislation, international law does not contain any regulation of implementation. It thus leaves each country *complete freedom* with regard to how it fulfils, nationally, its international obligations.
 
 *[p. 36]* ^pg46
@@ -119,7 +133,9 @@ A traditional formulation is that the question of domestic enforcement is indepe
 The legal argument that international law by its very nature empowers U.S. domestic judges as enforcers is simple, if also simplistic. The Supremacy Clause of the Constitution states that “all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, *. . .*”[^23] Louis Henkin, perhaps the preeminent authority on U.S. foreign relations law, argues that this language generally commits the U.S. judiciary to give effect to rights created by treaties. More controversially, he also maintains that this language bars the president and the Senate from unilaterally altering the meaning of treaties for domestic purposes. Thus, in his view, the Senate’s long-standing practice
 
 [^21]: Beth Stephens, *Translating* Filártiga*: A Comparative and International Law Analysis of Domestic Remedies for International Human Rights Violations*, 27 Yale J. Int’l L. 1 (2002).
+
 [^22]: *See* Roper v. Simmons, 543 U.S. 551 (2005).
+
 [^23]: U.S. Constitution, Art. VI.
 
 *[p. 37]* ^pg47
@@ -131,7 +147,9 @@ If Henkin’s position accurately captures the views of U.S. lawmakers, then lit
 Again, we must concede a weakness in our theory, but not an insurmountable one. The nonseparation hypothesis, as we shall call it, has two significant deficiencies. First, it does not describe actual U.S. practice. The courts have declined to enforce a wide array of obligations that the United States has assumed under international law.[^26] Recent Supreme Court decisions point in different directions, but they seem to recognize a power in the president and the Congress,
 
 [^24]: Louis Henkin, *U.S. Ratification of Human Rights Treaties: The Ghost of Senator Bricker,* 89 Am. J. Int’l L. 341, 346 (1995). For development of the argument, see Lori Fisler Damrosch, *The Role of the United States Senate Concerning “Self-Executing” and “Non-Self-Executing” Treaties*, 67 Chi.-Kent L. Rev. 515 (1991); Jordan Paust, *Self-Executing Treaties*, 82 Am. J. Int’l L. 760, 760 (1988); David Sloss, *Non-Self-Executing Treaties: Exposing A Constitutional Fallacy*, 36 U.C. Davis L. Rev. 1 (2002); Carlos Manuel Vázquez, *The Four Doctrines of Self-Executing Treaties*, 89 Am. J. Int’l L. 695, 716–17 (1995). For a critical response, see Curtis A. Bradley & Jack L. Goldsmith, *Treaties, Human Rights,* *and Conditional Consent*, 149 U. Pa. L. Rev. 399, 442–56 (2000).
+
 [^25]: Henkin (and the others who take this position) presumably would allow the United States to make an international agreement without calling the instrument a “treaty.” The United States then could adopt a statute specifying and limiting domestic judicial enforcement, as Congress did do when approving NAFTA in 1993 and the Uruguay Round Agreements in 1994. North American Free Trade Agreement Implementation Act, §102, *codified at* 29 U.S.C. §3312 (2001); Uruguay Round Agreements Act of 1994 §102, *codified at* 29 U.S.C. §3512(2001). At least one prominent public law scholar, however, argues that the Constitution does not permit this option. Laurence H. Tribe, *Taking Text and Structure Seriously: Reflections on Free-Form Method in Constitutional Interpretation*, 108 Harv. L. Rev. 1221 (1995). For support of this position by an international law scholar, see Joel R. Paul, *The Geopolitical Constitution: Executive Expediency and Executive Agreements*, 86 Calif. L. Rev. 671
+
 [^26]: For a review of this practice, see Tim Wu, *When Do American Judges Enforce Treaties*? 93 Va. L. Rev. granted that where the president and Senate have expressed an intention that a treaty not have domestic effect, the judiciary should respect that decision. But in *Roper v. Simmons*, 543 U.S. 551, (2005), the Court cited the International Covenant on Civil and Political Rights, Dec. 19, 1966, 999 U.N.T.S. 171, as evidence of an international consensus about the impermissibility of executing persons for crimes committed as a juvenile that in turn informed its interpretation of the Eighth Amendment, even though the president and the Senate when acceding to that treaty had expressly rejected this limitation on capital punishment. *Roper*, however, is not directly on point, as it did not give the treaty direct effect, but rather used the treaty’s existence as an element of constitutional interpretation.
 
 *[p. 38]* ^pg48
@@ -141,6 +159,7 @@ exercised together and perhaps separately, to preclude judicial enforcement of p
 The enforcement of customary international law in the United States presents a similar conundrum. Many authorities maintain that customary international law automatically constitutes federal law that, under the Supremacy Clause, all U.S. courts must apply in cases over which they have jurisdiction.[^29] An argument also exists that any violation of customary international law that produces an injury can lead to a tort suit in federal court. The courts do not seem to have embraced the most expansive version of this position, but an ill-defined capacity to apply customary international law and to base tort compensation on at least some violations may exist.<sup>30</sup> Again, it suffices for our purposes to <sup>27</sup> In *Sosa v. Alvarez-Machain*, 542 U.S. 692, 728, 735 (2004), the Supreme Court appeared to take for
 
 [^28]: It is quite common, for example, for Congress to provide exclusively for criminal punishment of a particular rule. *E.g.*, Canada v. R.J. Reynolds Tobacco Holdings, Inc., 268 F.3 rd 103 (2nd Cir. 2001) (private enforcement of RICO statute not coextensive with scope of RICO criminal offense); Lamb v. Phillip Morris, Inc., 915 F.2nd 1024 (6th Cir. 1990) (no application of Federal Corrupt Practices Act in private suit). It also is not uncommon for Congress to limit the sanction for the violation of a federal rule to a loss of some federal benefit, such as some kind of funding. *E.g.*, Alexander v. Sandoval, 532 U.S. 275 (2001) (no private rights under disparate impact regulations implemented by federal agency under Title VI of Civil Rights Act of 1964); Gonzaga University v. Doe, 536 U.S. 273 (2002) (Family Educational Rights and Privacy Act of 1974 does not create a private remedy for persons injured by unauthorized disclosures). *Cf*. Cannon v. University of Chicago, 441 U.S. 667, 730 (1979) (Powell, J., dissenting) (criticizing judicial implication of private rights of action).
+
 [^29]: American Law Institute, Restatement (Third) of the Foreign Relations Law of the United States §§111, 115 (1987); Louis Henkin, Foreign Affairs and the Constitution 219 (1972). For a critical response, see Curtis A. Bradley & Jack L. Goldsmith, note 17 *supra*. For defenses against this criticism, see Ryan Goodman & Derek P. Jinks, *Filartiga’s Firm Footing: International Human Rights and Federal Common Law*, 66 Fordham L. Rev. 463 (1997); Harold Hongju Koh, *Is International Law Really State Law?* 111 Harv. L. Rev. 1824 (1998); Gerald Neuman, *Sense and Nonsense About Customary International Law: A Response to Professors Bradley and Goldsmith*, 66 Fordham L. Rev. 371 (1997); Beth Stephens, *The Law of Our Land: Customary International Law as Federal Law After* Erie, 66 Fordham L. Rev. 393 (1997).
 
 *[p. 39]* ^pg49
@@ -158,6 +177,7 @@ Enforcement may explain why people comply with international law, but other forc
 30\. *Sosa v. Alvarez-Machain*, 542 U.S 692 (2004), endorsed a limited version of the no-automatic-application position, in the sense that it accepted that not all customary international law constitutes federal law. Technically speaking, however, the issue was not one that the Court needed to decide, as the plaintiff in that case satisfied the requirements of diversity jurisdiction and thus did not have to establish the existence of a federal question.
 
 [^31]: Jack L. Goldsmith & Eric A. Posner, note 1 *supra*, at 27–28, 66–78.
+
 [^32]: In formal terms, we would expect there to exist no enforcement mechanism other than the actors’ own willingness to comply with the norm. The compliance cost thus would be limited to the benefits that could be derived from the foregone behavior, which by hypothesis have a low value.
 
 *[p. 40]* ^pg50
@@ -169,8 +189,11 @@ But none of these observations demonstrates that international law deals *only* 
 Enforcement becomes a central issue when, to attain the benefits of cooperation, actors must make themselves vulnerable to exploitation by their partners. Scholars often refer to these situations as *collective action problems*.[^36] A classic
 
 [^33]: For an extended discussion, see Duncan Snidal, *Coordination versus Prisoners’ Dilemma: Implications for International Cooperation and Regimes*, 79 Am. Pol. Sci. Rev. 923 (1985).
+
 [^34]: Whether the ICJ represents a low-cost investment turns in part on assessments of the reputational effects of decisions by states not to comply with that body’s decisions. One finds many assertions in the literature to the effect that states regard defiance of the Court as costly, but typically these represent normative claims about the value of the institution rather than careful analysis of the effects of its decisions. *See*, *e.g.*, Constanze Schulte, Compliance with Decisions of the International Court of Justice 404 (2004). We discuss the ICJ in detail in Chapter 5 .
+
 [^35]: *See* Tom Ginsburg & Richard H. McAdams, *Adjudicating in Anarchy: An Expressive Theory of International Dispute Resolution*, 45 Wm. & Mary L. Rev. 1229 (2004). As a formal matter, the UN Security Council has the authority to require compliance with the judgments of the ICJ. UN Charter article 94(2). But the Security Council cannot act without the support of the five permanent members, a limitation that makes enforcement against the United States, the European Union, Russia, or China highly unlikely.
+
 [^36]: Students of game theory and of the rational-choice perspective on international relations will recognize the general form of the problem as that of the prisoners’ dilemma. This heuristic stipulates an interaction where the actors can improve their welfare by cooperating, but where cooperation requires each actor to make itself vulnerable to opportunism by the other. Using a two-by-two matrix to represent two actors, A and B, and two possible actions, cooperate and defect, we can assign ordinal rankings to the four possible outcomes (Player A’s outcome listed first, rankings from first preference to last): Player B Cooperate Defect Cooperate Player A Defect In single interactions, the game has a stable solution of mutual noncooperation (defect, defect). A vast literature explores the conditions under which increased iterations, party discount rates, and enforcement mechanisms can change this result to stable cooperation. *See generally* Paul G. Mahoney & Chris William Sanchirico, *Norms, Repeated Games, and the Role of Law*, 91 Cal. L. Rev.
 
 *[p. 41]* ^pg51
@@ -210,7 +233,9 @@ Some specialists in international law and international relations seem to take a
 That the application of legal rules to states works differently than the application of rules to individuals is a commonplace in the instrumental analysis of the law as well as in mainstream international relations theory.[^39] States cannot be imprisoned, and the agents whose choices result in legal liability seldom bear the direct costs of any money judgment.[^40] But the same is true of other complex organizations, such as private firms or nonprofit entities. And these limitations affect all kinds of legal rules, not just international ones. We need to look closely, then, at the question of whether such distinctions as exist between states and other complex entities might affect the instrumental consequences of international law.
 
 [^38]: *See* Alan Schwartz & Robert E. Scott, *Contract Theory and the Limits of Contract Law*, 113 Yale L.J. 541, 559–62 (2003).
+
 [^39]: The best recent analysis of this problem by a legal academic is Daryl Levinson, *Making Government Pay: Markets, Politics, and the Allocation of Constitutional Costs*, 67 U. Chi. L. Rev. 645 (2000).
+
 [^40]: For a persuasive explanation of the public benefits from the particular limits on the liability of governments and governmental agents in U.S. domestic law, see John C. Jeffries, Jr., *The Right-* *Remedy Gap in Constitutional Law*, 109 Yale L. J. 87 (1999); John C. Jeffries, Jr., *In Praise of the Eleventh Amendment and Section 1983* , 84 Va. L. Rev. 47 (1998).
 
 *[p. 44]* ^pg54
@@ -224,7 +249,9 @@ The leaders of all organizations must account in some way to their constituencie
 One also might argue that firms deal with a limited range of human endeavors, namely profit-motivated transactions, whereas states necessarily must respond to, and participate in, the full scope of human activity. States organize
 
 [^41]: *See* Tanisha Fazal, *State Death in the International System*, 58 Int’l Org. 311 (2004).
+
 [^42]: For more on this point, see Robert E. Scott & Paul B. Stephan, *Self-Enforcing International Agreements and the Limits of Coercion*, 2004 Wis. L. Rev. 551, 583 –85.
+
 [^43]: Albert O. Hirschman, Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States (1970). For an insightful application of Hirschman’s work to one particular international regime, see J. H. H. Weiler, *The Transformation of Europe*, 100 Yale L.J. 2403 (1991).
 
 *[p. 45]* ^pg55
@@ -238,6 +265,7 @@ One can derive a different objection to a comparison of states and other organiz
 Concentrating on relative, rather than absolute, gains complicates cooperation. Much economic theory rests on an implicit assumption about the sequence of considerations: Actors first calculate the marginal value of
 
 [^44]: For earlier scholarship that applies contract theory to problems in international relations, see, *e.g.*, Joel P. Trachtman, *The Theory of the Firm and the Theory of International Economic Organization:* *Toward Comparative Institutional Analysis*, 17 Nw. J. Int’lL.&Bus. 470 (1996–97); Jeffrey L. Dunoff & Joel P. Trachtman, *Economic Analysis of International Law*, 24 Yale J. Int’l L. 1 (1999).
+
 [^45]: For an influential restatement of this position and a critique of other perspectives on international relations, see John J. Mearsheimer, *The False Promise of International Institutions*, 19 Int’l Security 5 (1994–95).
 
 *[p. 46]* ^pg56
@@ -253,6 +281,7 @@ Because realism discounts both the reasons for states to pursue collective actio
 The critical step involves identifying international relations problems where the value of absolute gains dominates concern over relative gains. Several trends over the last thirty years make this easier. A greater awareness of the
 
 [^46]: As Norman and Trachtman put it, “Realists reject the possibility of cooperation where it results in relative gains to a competitor.” George Norman & Joel P. Trachtman, note 16 *supra*, at 547 n. 32.
+
 [^47]: *See* Anne-Marie Slaughter Burley, *International Law and International Relations Theory: A Dual Agenda*, 87 Am. J. Int’l L. 205, 206 (1993).
 
 *[p. 47]* ^pg57
@@ -278,6 +307,7 @@ Stop imagining the international system as a system of states – unitary entiti
 The new world order that Slaughter describes works through information exchange and deliberations rather than by coercion and incentives. Collaboration, not compulsion, is the order of the day. Rules and norms come out of this discourse, but enforcement results from discrete actions by national governments and their various components, not from the direct action of international organs.<sup>51</sup>
 
 [^49]: For a recent review of the role of supranational, subnational, and extranational actors in international lawmaking, see Duncan B. Hollis, *Why State Consent Still Matters – Non-State Actors, Treaties, and the Changing Sources of International Law*, 24 Berkeley J. Int’l L. 137 (2005).
+
 [^50]: Anne-Marie Slaughter, A New World Order 5 (2004). This book synthesizes more than a decade of work that has had a significant impact on international lawyers as much as international relations experts. For examples of her influence on the work of younger scholars, see José E. Alvarez, *The WTO as Linkage Machine*, 96 Am. J. Int’l L. 146 (2002); Laurence R. Helfer, *Overlegalizing Human Rights: International Relations Theory and the Commonwealth Caribbean Backlash Against Human Rights Regimes*, 102 Colum. L. Rev. 1832 (2002); Jenny S. Martinez, *Toward an International Legal System*, 56 Stan. L. Rev. 429 (2003); Diane F. Orentlicher, *Whose Justice? Reconciling Universal Jurisdiction with Democratic Principles*, 92 Geo. L.J. 1057 (2004); Kal Raustiala, *The Architecture of International Cooperation: Transgovernmental Networks and the Future of International Law*, 43 Va. J. Int’l L. 1 (2002). 51 In all these examples, the key players are national government officials who exercise the same array of coercive and persuasive powers on behalf of transgovernmental decisions that they do domestically. They can coerce, cajole, fine, order, regulate, legislate, horse-trade, bully, or use whatever methods that produce results within their political system. They are not subject to coercion at the transgovernmental level; on the contrary, they are likely to perceive themselves as choosing a specific course of action freely and deliberately. Yet having decided, for whatever reasons, to adopt a particular code of best practices, to coordinate policy in a particular way, to accept the decision of a supranational tribunal, or even simply to join what seems to be an emerging international consensus on a particular issue, they can implement that decision with the limits of their own domestic power. Anne-Marie Slaughter, note 50 *supra*, at 185.
 
 *[p. 49]* ^pg59
@@ -287,8 +317,11 @@ There is much to admire in Slaughter’s work. Her highlighting of regulatory ne
 Slaughter’s core claim, that states play only a formal role in international relations and derivatively in the production of international law, has a lengthy and important history. Engels proposed that the state constituted an epiphenomenal structure, the nature and actions of which depended on the modes of material production and the nature of class relations.[^53] Hobson and Lenin used this conceptual apparatus to explain international relations, in particular the rise of European great power imperialism at the end of the nineteenth century.[^54] In spite of the general discrediting of classical Marxism that followed the collapse of the Soviet state and its ideological as well as economic aspirations, claims about the domination of corporate interests and the irrelevance of the state still crop up in radical critiques of contemporary globalization.[^55] Indeed, a standard radical left account of the contemporary international economic and political system rests on a belief that multinational corporations and their ilk
 
 [^52]: For a perceptive argument about the inherent tension between the development of international law and parliamentary accountability, see Jack L. Goldsmith & Stephen Krasner, *The Limits of Idealism*, 132 Daedalus 47 (2001). For criticism of Slaughter’s claims along these lines, see Kenneth Anderson, *Squaring the Circle? Reconciling Sovereignty and Global Governance Through Global Government Networks*, 118 Harv. L. Rev. 1255 (2005).
+
 [^53]: Friedrich Engels, The Origin of Family, Private Property and the State (1972) \[1884\].
+
 [^54]: J. A. Hobson, Imperialism: A Study (1965) \[1902\]; Vladimir I. Lenin, Imperialism the Highest Stage of Capitalism – A Popular Outline (1939) \[1917\].
+
 [^55]: For scholarly studies, see, *e.g.*, Saskia Sassen, Losing Control? Sovereignty in an Age of Globalization (1999); Susan Strange, The Retreat of the State – The Diffusion of Power in the World Economy (1996). For more popular and explicitly political treatments, see, *e.g.*, John Gray, False Dawn: The Delusions of Global Capitalism (1998); Noreena Hertz, The Silent Takeover: Global Capitalism and the Death of Democracy (2002); Naomi Klein, No Logo: Taking Aim at the Brand Bullies (1999). Similar critical analyses of transnational networks come from the right. Consider the argument implicit in the claim, repeatedly encountered by one of us in elegant Parisian circles, that “\[Israeli Prime Minister Ariel\] Sharon is the real leader of the United States.”
 
 *[p. 50]* ^pg60
@@ -304,8 +337,11 @@ First, as noted in Chapter 1 , a number of international bodies have enforcement
 Other work by Slaughter, coauthored with Laurence Helfer, describes international tribunals as often effectively constrained by national decision makers, and thus not fully independent lawmakers.[^59] They argue that domestic political actors limit the policy space in which these tribunals can act, and that
 
 [^56]: *E.g.*, Noam Chomsky, Hegemony or Survival: America’s Quest for Global Dominance (2003); Michael Hardt & Antonio Negri, Empire (2000); Robert J. S. Ross & Kent C. Trachte, Global Capitalism: The New Leviathan (1990).
+
 [^57]: Martti Koskenniemi, The Gentle Civilizer of Nations – The Rise and Fall of International Law 1870–1960, at 488 (2002); Jean Louise Cohen, *Whose Sovereignty? Empire Versus International Law*, 18 Ethics & Int’l Affairs 1 (2004–05).
+
 [^58]: *See* In re Grand Jury Subpoenas Dated March 9, 2001, 179 F. Supp. 2nd 270 (S.D.N.Y. 2001) (discussing Marc Rich case).
+
 [^59]: Laurence R. Helfer & Anne-Marie Slaughter, note 48 *supra*; Laurence R. Helfer & Anne-Marie Slaughter, *Toward a Theory of Effective Supranational Adjudication*, 107 Yale L.J. 273
 
 *[p. 51]* ^pg61
@@ -319,6 +355,7 @@ Not only does Slaughter give a false impression of how the enforcement of intern
 The reasons why Slaughter specifically, and most international law scholarship generally, downplays legislatures are beyond the scope of this book. For present purposes, it suffices to note that transnational networks generally lack symmetry: They are strongest among private actors and the executive branches of states, and largely exclude national lawmakers. The kinds of cooperation that
 
 [^60]: 543 U.S. 551 (2005).
+
 [^61]: *E.g.*, F. Hoffman-Laroche Ltd. v. Empagran S.A., 542 U.S. 155 (2004) (interpreting jurisdiction of U.S. antitrust law as limited in accordance with customary international law). *See generally* Curtis A. Bradley, *The Charming Betsy Canon and Separation of Powers: Rethinking the Interpretive Role of International Law*, 86 Geo. L. J. 479 (1998).
 
 *[p. 52]* ^pg62
@@ -334,6 +371,7 @@ By arguing that the enforcement of international law rests largely on an effort 
 It would be misleading to portray the culturalist and antirationalist work as monolithic. Rather, it is united only by a shared commitment to certain
 
 [^62]: Paul B. Stephan, *Accountability and International Lawmaking: Rules, Rents and Legitimacy*, 17 Nw. J. Int’l L. & Bus. 681 (1996–97); Joel Paul, note 25 *supra.*
+
 [^63]: For a representative sample of this work, see Kenneth W. Abbott, *Modern International Relations Theory: A Prospectus for Lawyers*, 14 Yale J. Int’l L. 335 (1989); Jeffrey L. Dunoff & Joel P. Trachtman, note 44 *supra*; Tom Ginsburg & Richard McAdams, note 35 *supra*; Jack L. Goldsmith & Eric A. Posner, note 1 *supra*; Andrew Guzman, note 19 *supra*; Oona Hathaway, *Do Human Rights Treaties Make a Difference?* 111 Yale L. J. 1935 (2002); John O. McGinnis, *The Decline of the Western Nation State and the Rise of the Regime of International Federalism*, 18 Cardozo L. Rev. 903 (1996); Jonathan R. Macey, *Regulatory Globalization as a Response to Regulatory Competition*, 52 Emory L.J. 1353 (2003); Eric A. Posner & John C. Yoo, *A Theory of International Adjudication*, 93 Calif. L. Rev. 1 (2005); Warren F. Schwartz & Alan O. Sykes, *The Economic Structure of Renegotiation and Dispute Resolution in the World Trade Organization*, 31 J. Legal Stud. S179 (2002); John K. Setear, *Responses to Breach of a Treaty and Rationalist International Relations Theory: The Rules of Release and Remediation in the Law of Treaties and the Law of State Responsibility*, 83 Va. L. Rev. 1 (1997); Edward T. Swaine, note 19 *supra*; Michael P. Van Alstine, *The Costs of Legal Change*, 49 U.C.L.A. L. Rev. 789 (2002). We also have contributed to this literature. *See*, *e.g.*, Robert E. Scott & Paul B. Stephan, note 42 *supra*; Paul B. Stephan, *Courts, Tribunals and Legal Unification – The Agency Problem*, 3 Chi. J. Int’l L. 333 (2002); Paul B. Stephan, *The Futility of Unification and Harmonization in International Commercial Law*, 39 Va. J. Int’l L. 743 (1999); Paul B. Stephan, note 62 *supra*; Paul B. Stephan, *International Law in the Supreme Court*, 1990 Sup. Ct. Rev. 133.
 
 *[p. 53]* ^pg63
@@ -347,6 +385,7 @@ During the 1990s, senior American scholars offered two complementary and influen
 Writing during the same period, Abram and Antonia Chayes described the managerial aspect of international law. In their conception, international law operates primarily as a form of bureaucratic rationality, a device through which technocratic élites in different countries structure their cooperative activity. This kind of rationality must be distinguished from the concept used by
 
 [^64]: The legal academic literature on constructivism and international law is vast. An October 10, 2005, search of the Westlaw database of law journals turned up 196 references. The movement is distinct from, although related do, critical legal studies, which has exercised considerable influence in international law scholarship. *See*, *e.g.*, David Kennedy, International Legal structures (1987); Martti Koskenniemi, note 57 *supra*.
+
 [^65]: Thomas M. Franck, *Legitimacy in the International System*, 82 Am. J. Int’l L. 705 (1988), *expanded and revised as* Fairness in International Law and Institutions (1995).
 
 *[p. 54]* ^pg64
@@ -360,8 +399,11 @@ As we discussed earlier, Anne-Marie Slaughter has drawn on the work of political
 More recently, Ryan Goodman and Derek Jinks have brought an explicitly sociological perspective to the functional analysis of international law. They argue that international law constructs expectations, institutions, and behavior not just through its persuasive force, the fundamental process in the work of Franck, the Chayeses, Koh, and Slaughter, but also through acculturation. In their conception, it operates as a form of social pressure that induces conformity. Goodman and Jinks explicitly connect the functional effects of coercion
 
 [^66]: Abram Chayes & Antonia Handler Chayes, The New Sovereignty: Compliance with International Regulatory Agreements (1995).
+
 [^67]: Harold H. Koh, *Why Do Nations Obey International Law?* 106 Yale L.J. 2599 (1997); Harold H. Koh, *Transnational Legal Process*, 75 Neb. L. Rev. 181 (1996).
+
 [^68]: Margaret F. Keck & Kathryn Sikkink, Activists Beyond Borders: Advocacy Networks in International Politics (1998).
+
 [^69]: Anne-Marie Slaughter, note 50 *supra*.
 
 *[p. 55]* ^pg65
@@ -375,7 +417,9 @@ How effective are culturalist theories at providing a positive account of intern
 As these examples illustrate, rational choice and cultural accounts of international law generate different, and on occasion contradictory, positive explanations and normative claims. They particularly differ on the implications of enforcement. For rational choice theorists, enforcement involves a cost-benefit analysis to determine what kinds of investments in the production of sanctions generates what kinds of compliance. For constructivists, enforcement is a kind of theater that teaches by example. The two approaches ask different questions and point to different answers.
 
 [^70]: Ryan Goodman & Derek Jinks, *How to Influence States: Socialization and International Human Rights Law*, 54 Duke L.J. 621, 698 (2004). For a case history to similar effect, see Laurence R. Helfer, note 50 *supra*.
+
 [^71]: Recall that in the first wave of lawsuits under 28 U.S.C. §1350, the so-called Alien Tort Statute, the defendants almost always had no attachable assets within the jurisdiction of any U.S. court. Curtis A. Bradley, *Customary International Law and Private Rights of Action*, 1 Chi. J. Int’l L. 421 (2000).
+
 [^72]: Anne-Marie \[Slaughter\] Burley, *Law Among Liberal States: Liberal Internationalism and the Act of State Doctrine*, 92 Colum. L. Rev. 1978 (1992).
 
 *[p. 56]* ^pg66
@@ -391,7 +435,9 @@ One of us has written about a similar tension regarding the general problem of l
 There are several responses to this concern. One answer is simply to remind the reader that we have assumed that states design the content of international
 
 [^73]: Robert E. Scott, *The Limits of Behavioral Theories of Law and Social Norms*, 86 Va. L. Rev. 1603
+
 [^74]: *Id.* at 1646–47.
+
 [^75]: *Id.* at 1647.
 
 *[p. 57]* ^pg67

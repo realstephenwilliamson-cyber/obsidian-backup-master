@@ -33,8 +33,11 @@ Isabelle Ratié
 \*\. Many thanks are due to the anonymous reviewers of this article for their insightful remarks, and to Whitney Cox, who shared an unpublished paper on the history of Sanskrit autocommentaries. Discussing it with its generous, open-minded and learned author was a lovely experience, and if our perspectives and aims often differ, the present essay (which I wrote while keeping in mind Cox’s important hypothesis, mentioned below,
 
 [^2]: The estimate, often repeated in secondary literature, apparently originates from a 1999 oral presentation by Ashok Aklujkar (see von Hinüber, “Buddhistische Kommentare,” 99).
+
 [^1]: Studies of commentarial practices in Sanskrit sources include Alsdorf, “Nikṣepa”; Bronkhorst, “Vārttika”; Balbir, “Jaina Exegetical Terminology”; Brückner, “Bewahren und Erneuern”; von Stietencron, “Typisierung und Sitz im Leben”; Dundas, “Somnolent *sūtra*s”; Chenet, “Le commentaire en Inde”; Grimal, “Pour décrire un commentaire traditionnel”; Slaje, “Der Sanskrit-Kommentar”; von Hinüber, “Buddhistische Kommentare”; Tubb and Boose, “Scholastic Sanskrit”; Preisendanz, “Text, commentary, annotation”; Ganeri, “Sanskrit philosophical commentary”; Jyväsjärvi, “Retrieving the hidden meaning”; McCrea, “Poetry in chains”; Pollock, “What was philology in Sanskrit?”; Ratié, “For an Indian philology of margins”; and Lubin, “Brāhmaṇa as commentary.”
+
 [^3]: See e.g. Biardeau, “Philosophies de l’Inde,” 83–107; Halbfass, *India and Europe*, 349–368; Pollock, “The theory of practice” and “Mīmāṃsā and the problem of history.” The presupposition, while dominant, was not unanimous: see McCrea, “Standards and practices,” and Cuneo, “‘This is not a quote,’” on the different attitude of some poeticians. Resistance to this conservative paradigm is also found in philosophico-religious literature; the tenth-century Śaiva Utpaladeva for instance claims to have invented a “new” soteriological path (see below, §6; cf. the passing remark in Halbfass, *India and Europe*, 363).
+
 [^4]: The expression is borrowed from Cuneo, “‘This is not a quote,’” 225.
 
 *[p. 2]* ^pg2
@@ -46,11 +49,17 @@ obvious but superficial meaning from a hidden, more profound one that they claim
 Sanskrit autocommentaries are appended to texts that belong to two main genres: *kāvya*, that is, belles lettres or poetry (understood in a very broad sense as a text that primarily pursues aesthetic goals and includes drama and prose narrative works) and *śāstra*, normative or didactic treatises. European Renaissance also witnessed a burst of autocommentarial creativity (albeit to a lesser extent and for a shorter period), and in the latter case, autocommentaries seem to have occurred mostly on the side of belles lettres:[^10] Dante, Boccacio, Lorenzo de’ Medici and others were primarily concerned with writing about their own poetry. In India, some autocommentaries were also composed \[p. 67\] by poets,[^11] but they are scant and late in comparison with the vast number 
 
 [^5]: One such very common trick consists in interpreting the presence of the connecting particles *ca* (“and”) or *api* (“as well as”) as implying additional items that are not explicitly mentioned (*kaṇṭhokta*) in the text (see e.g. *Padārthadharmasaṅgraha*, 10, on *Vaiśeṣikasūtra* 1.1.5).
+
 [^6]: See Slaje, “Der Sanskrit-Kommentar,” 71.
+
 [^7]: I therefore tend to use “autocommentary” here, confessedly out of habit rather than as a rationally motivated choice; according to Roush, *Hermes’ Lyre*, 8, the term *autocommento* was coined in the nineteenth century by Italian poet Giosuè Carducci.
+
 [^8]: See below, §6.
+
 [^9]: To my knowledge, the only article entirely devoted to it is Cox, “A fragmented history,” which remains unpublished.
+
 [^10]: On European autocommentaries, and for further bibliographical references, see Roush, *Hermes’ Lyre*, and *Self-commentary*, edited by Venturi.
+
 [^11]: They have received very little scholarly attention to date. Bronner, *Extreme Poetry*, 156–157, briefly discusses the phenomenon (see also n. 3, 299 and Appendix 1), citing among others Cidambarakavi’s seventeenth-century *Pañcakalyāṇacampū* or Haradatta Sūri’s eighteenth-century *Rāghavanaiṣadhīya*. Dundas, *History, Scripture and Controversy*, chapter 2, contains an insightful analysis of Devavimala Gaṇin’s commentary on his seventeenth-century *Hīrasaubhāgya*. See also Rāmacandra’s sixteenth-century commentary on his *Rasikarañjana*. The commentary on Rāmapāṇivāda’s eighteenth-century *Viṣṇuvilāsa*,
 
 *[p. 3]* ^pg3
@@ -88,15 +97,25 @@ It also seems highly plausible that on both Buddhist and Brahmanical sides, the 
 It also seems obvious that in that teaching environment, orality was a major mode of transmission, and at least some of the earlier so-called autocommentaries may in fact have been originally constituted by notes taken by students while the teacher was explaining orally the meaning of his own work. Thus Helmut Krasser has argued that some famous Buddhist autocommentaries such as Dignāga’s *Pramāṇasamuccayavṛtti*, or Bhāviveka’s *Tarkajvālā*[^25] (the authorship of which is debated),[^26] are indeed autocommentaries, \[p. 70\] but stemming from the author’s “mouth” rather than “pen.”[^27] This could explain for instance discrepancies between the preserved Tibetan translations that cannot be accounted for simply by assuming corruptions in the transmission of a single Ur-text.[^28] On the Brahmanical side as well, some early commentaries traditionally purported to be autocommentaries have been suspected of being the work of a direct disciple, in particular the *Vākyapadīyavṛtti*.[^29] 
 
 [^19]: On this debate see in particular Biardeau, *Bhartṛhari*; Subramania Iyer, *Bhartṛhari*, 16–35; Aklujkar, “The authorship” and “Once again”; Bronkhorst, “Études”; Houben, “Bhartṛhari’s *Vākyapadīya* and the ancient *Vṛtti*” 1, 2 and 3.
+
 [^20]: See above, fn. 14.
+
 [^21]: On medieval opinions regarding the *Yogabhāṣya*, see Bronkhorst, “Patañjali,” and Maas, “A concise historiography”; regarding the *Vākyapadīyavṛtti*, see e.g. Subramania Iyer, *Bhartṛhari*, 21ff.
+
 [^22]: Ganeri, “Sanskrit philosophical commentary,” 199.
+
 [^23]: Namely Bhāsarvajña’s, Udayana’s and Annaṃbhaṭṭa’s.
+
 [^24]: See e.g. Rāmacandra and Guṇacandra’s *Nāṭyadarpaṇa*, 26, or Maheśvarānanda’s *Mahārthamañjarī*, 2.
+
 [^25]: This title, commonly used in secondary literature to designate the commentary, seems to have originally belonged to the root-text (Krasser, “How to teach,” 50, n. 1; van der Kuijp, “Further notes,” 306).
+
 [^26]: See Lindtner, “Adversaria Buddhica”; Seyfort Ruegg, “On the authorship”; Eckel, *Bhāviveka*, 21–23; Krasser, “How to teach,” 60ff.
+
 [^27]: Krasser, “How to teach,” 63.
+
 [^28]: See Krasser, “How to teach” and “Dignāga on air,” 158–175. This view is adopted e.g. in van der Kuijp, “Further notes,” 323.
+
 [^29]: See Houben, “On the syntactic and stylistic evidence.”
 
 *[p. 6]* ^pg6
@@ -110,10 +129,15 @@ The task of historians who set out to ascertain whether a given text is indeed, 
 This practice has led to much confusion and prompted some historians to wrongly accuse medieval commentators of providing inconsistent testimonies.[^33] It has also \[p. 71\] forced them to use a wide array of criteria when trying to determine whether a commentary was written by the author of a root-text, including the syntactic dependence of the root-text and commentary, the consistency of their respective contents, the absence of mention of variant readings or of a benedictory (*maṅgala*) initial verse in the commentary – and unfortunately, these criteria have often turned out to be of limited use. Thus some standard commentaries may create on purpose the impression of a syntactic dependence of the root-text and explanation;[^34] consistency in contents is not always easy to assess, and the mention of a plurality of interpretations cannot be considered proof that a commentary is not authorial, as autocommentaries often highlight several meanings.[^35] As for the absence of 
 
 [^30]: Venturi’s Introduction to *Self-commentary*, 20.
+
 [^31]: On this ubiquitous formulation see e.g. Mookerjee, “A dissertation,” 181; Bronkhorst, “Two literary conventions,” 224–225; Tubb and Boose, *Scholastic Sanskrit*, 229.
+
 [^32]: This has been noticed in particular with respect to *Abhidharmakośabhāṣya*, introduction to 1.3 (Qvarnström, *Hindu Philosophy*, 21, n. 1; Bronkhorst, “Two literary conventions,” 225), but as pointed out in Seyfort Ruegg, “On the authorship,” 64, in this case the expression is used because the author is portraying an interlocutor raising a question that he addresses to the “master.” It sometimes occurs outside such a context, however, in works that have been doubted to be autocommentaries (e.g. the *Tarkajvālā* and *Vākyapadīyavṛtti*) but also in texts whose autocommentarial status is not doubtful, such as Haribhadra’s *Anekāntajayapatākāvṛtti*, vol. I, 2 (cf. the almost identical passage in his *Yogaśatakavṛtti*, 1) or Hemacandra’s *Pramāṇamīmāṃsā*, 1.
+
 [^33]: Thus Ānandavardhana’s single authorship of the verses and *Vṛtti* constituting the treatise known today as the *Dhvanyāloka* has been doubted since Bühler’s 1877 *Detailed Report*, 65, mostly because of Abhinavagupta’s repeated use of phrases such as “the author of the verses” and “the author of the *Vṛtti*” (cf. Kane, *History of Sanskrit Poetics*, 162–199). Mookerjee, “A dissertation,” and Krishnamoorthy, *Dhvanyāloka*, have convincingly shown, however, that there is no good reason to question this authorship (cf. e.g. McCrea, *The Teleology*, 100, fn. 4), and that nowhere does Abhinavagupta express any doubt about it, despite his distinguishing Ānandavardhana’s goals as the author of the verses and as the author of their commentary. The remark in Ingalls’ “Introduction,” 26, that arguments on both sides are “inconclusive” because “Abhinavagupta is so inconsistent” therefore seems unwarranted.
+
 [^34]: See Bronkhorst, “Two literary conventions.”
+
 [^35]: See below, §5.
 
 *[p. 7]* ^pg7
@@ -123,13 +147,21 @@ benedictory verses, it is rarely conclusive (their use has fluctuated over time 
 In general, authors express their own thought as if it were someone else’s, \[by writing e.g.\] “with respect to this *he* says \[the following\],” \[or\] “*they* refute this \[as follows\],” rather than \[presenting it\] thus: ‘*I*, being questioned by them, \[reply as follows\].[^42] The rationale for this may have been, as pointed out by P.V. Kane, “to avoid looking too egotistic”[^43] – or rather, to suggest greater authority by implying that the author is above all egoistical concerns. In any case the rule is often (although by no means always) complied with, and the use of the third person in autocommentaries has been interpreted as a mere variation of this practice;[^44] self-commenting, it seems, had to appear as a selfless activity. But how should we explain that 
 
 [^36]: See Minkowski, “Why should we read,” 4–10.
+
 [^37]: One of Utpaladeva’s autocommentaries on his *Īśvarapratyabhijñā* treatise, the *Vṛtti*, has no benedictory verse of its own, but the other autocommentary (the *Vivṛti*) does; Abhinavagupta explains this by pointing out that the *Vṛtti* was composed at the same time as the verses, whereas the *Vivṛti* was composed later (*Īśvarapratyabhijñāvivṛtivimarśinī*, vol. I, 2–3; see Torella’s Introduction to *Īśvarapratyabhijñākārikā*, xli).
+
 [^38]: See below, §5.
+
 [^39]: Introduction to *Siddhitrayī*, 10.
+
 [^40]: Aklujkar, “Authorship,” 221.
+
 [^41]: See e.g. Roush, *Hermes’ Lyre*, 5.
+
 [^42]: *Manubhāṣya*, vol. I, 7: *prāyeṇa granthakārāḥ svamataṃ parāpadeśena bruvate, atrāha, atra pariharantīti naivam ahaṃ taiḥ pṛṣṭa iti*. See Kane, *History of Dharmaśāstra*, 90.
+
 [^43]: Kane, *History of Dharmaśāstra*, 90.
+
 [^44]: See e.g. Krishnamoorthy, *Dhvanyāloka*, 52, and Bronkhorst, “What was Śaṅkara’s *śāstrārambha*?”, 125, n. 7.
 
 *[p. 8]* ^pg8
@@ -147,9 +179,13 @@ on Utpaladeva’s (which comprises two autocommentaries) while distinguishing th
 And the author of the *Vṛtti* has not taken the trouble of \[getting into\] such a \[detailed\] explanation \[as the one just given here\] because \[he was only concerned with\] explaining the \[verses’\] overall meaning; this is stated \[in the *Vivṛti*, according to which the *Vṛtti*’s\] “function (*vyāpāra*) is merely to explain the \[aspect of\] the verses’ teaching that is concealed.” And this has not been touched upon by the author of the *Ṭīkā* either, \[since\] he intended to explain the sole *Vṛtti*.[^49] 
 
 [^45]: Cox, “A fragmented history.”
+
 [^46]: Mookerjee, “A dissertation,” 180; Krisnhamoorthy, *Dhvanyāloka*, 55.
+
 [^47]: See Kane, *History of Sanskrit Poetics*, 174; Seyfort Ruegg, “On the authorship,” 60–61.
+
 [^48]: See e.g. *Īśvarapratyabhijñāvivṛtivimarśinī*, vol. I, 2, 3, 14, etc.
+
 [^49]: *Īśvarapratyabhijñāvimarśinī*, vol. I, 22–23: *iyati ca vyākhyāne vṛttikṛtā bharo na kṛtas tātparyavyākhyānāt,* *yad uktam saṃvṛtasautranirdeśavivṛtimātravyāpārāyām iti. ṭīkākāreṇāpi vṛttimātraṃ vyākhyātum udyatena nedaṃ spṛṣṭam.* See Pandey, *Abhinavagupta*, 133–134; Krishnamoorthy, *Dhvanyāloka*, 54; Ratié, *Utpaladeva*, 7–8.
 
 *[p. 9]* ^pg9
@@ -159,13 +195,21 @@ Abhinavagupta even describes this paradoxical status of the author becoming mult
 4\. The authority of alleged autocommentaries – and some ways of undermining it Before examining the reasons why some South Asian writers thus chose to compose commentaries on their own works, it is worth considering a little longer the issue of the actual authorship of some texts traditionally regarded as autocommentaries; for \[p. 74\] with respect to most of the works mentioned above, the question was only raised by historians in recent times, but in fact such debates were not unknown in the Middle Ages. Thus the relationship between the ninth-century series of aphoristic verses known as the *Spandakārikā* and its prose commentary (*Vṛtti*) was a matter of dispute at the turn of the second millenium. Kṣemarāja (c. 1000-1050) ascribed the verses to Vasugupta[^52] (to whom the *Śivasūtra*s were allegedly revealed)[^53] and only attributed the commentary to Vasugupta’s pupil, Kallaṭa, against a thus-far prevalent opinion: Bhāskara[^54] (c. 925- 975), Utpalavaiṣṇava/Bhāgavatotpala[^55] (c. 950-1000), and Rāma[^56] (c. 950-1000) all held the *Spandakārikā* and its *Vṛtti* to be Kallaṭa’s work. Both Kṣemarāja and Bhāgavatotpala seem to have gone as far as to insert an additional verse within the *Spandakārikā* to support their respective positions in the dispute,[^57] and a verse at the end of the *Vṛtti* that could be read as ascribing the verses to Vasugupta has long been suspected of being a later addition as well.[^58] A majority of modern scholars hold that Kallaṭa was indeed the author of both texts, because several early commentators are of this opinion, but also, as pointed out by Alexis Sanderson, because nothing in 
 
 [^50]: *Īśvarapratyabhijñāvivṛtivimarśinī*, vol. I, 2.
+
 [^51]: Torella, Introduction to *Īśvarapratyabhijñākārikā*, xlii.
+
 [^52]: *Śivasūtravimarśinī*, 3.
+
 [^53]: On the varying accounts of this revelation see e.g. Chatterji, *Kashmir Shaivaism*, 26–29, and Sanderson, “The Śaiva exegesis,” 403–404.
+
 [^54]: *Śivasūtravārttika*, 2–3, vv. 4–5.
+
 [^55]: *Spandapradīpikā*, 83.
+
 [^56]: In *Spandavivṛti*, 165, he identifies “the master” to which the last verse is dedicated as Vasugupta, thus indicating that he believes the verses to be by his disciple Kallaṭa, as pointed out in Dyczkowski, *The Stanzas*, 22.
+
 [^57]: Gnoli, *Testi*, 14, adopts Kṣemarāja’s view without discussing these verses. Rastogi, *The Krama Tantricism*, 114, notes that “amusingly,” each verse is only found in the text read by the exegete defending the authorship proclaimed in the verse (a point already highlighted in Pandey, *Abhinavagupta*, 155), but stops short of accusing Kṣemarāja and Bhāgavatotpala of being responsible for the insertions. Pandey, ibid., sides with Kṣemarāja on the dubious grounds that the later *Mahārthamañjarī* (demonstrably influenced by Kṣemarāja) quotes the verse only found in his recension. Pandit, *History*, 21 and Dyczkowski, *The Stanzas*, 22, make the reasonable assumption that both verses are later additions. Sanderson, “The Śaiva exegesis,” 405–407, remains silent on this issue while discussing the authorship of the *Spandakārikā*. Bansat-Boudon, “Enjeux,” 224–229, discusses the adjunctions without any reference to prior secondary literature on the topic.
+
 [^58]: Chatterji, *Kashmir Shaivaism*, 27–28, n. 2; Sanderson, “The Śaiva exegesis,” 406–407.
 
 *[p. 10]* ^pg10
@@ -173,12 +217,19 @@ Abhinavagupta even describes this paradoxical status of the author becoming mult
 the commentary indicates a different authorship and because the commentary “lacks its own initial benedictory verse.”[^59] Whether one accepts these arguments as sufficient or not, the medieval dispute over the autocommentarial status of the *Vṛtti* and the forgery of verses that it occasioned show how greatly this status mattered: it evidently endowed the commentary with exceptional authority. I have yet to find in a Sanskrit autocommentary a statement comparable to Lorenzo de’ Medici’s famous remark that no one is \[p. 75\] better suited to understand and explain a text than its author himself;[^60] but Kṣemarāja was probably acutely aware that most readers tend to presume as much, as it can be no coincidence that, while being the only Kashmirian author to have explicitly denied the authorial status of the *Spandavṛtti*,[^61] he also happened to be fiercely critical of some of its explanations.[^62] Yet undermining the authority of an autocommentary by denying its alleged authorship was not the only strategy adopted by those who disagreed with such texts: the Buddhist Saṅghabhadra, while accepting on the whole Vasubandhu’s *Abhidharmakośakārikā*, wrote two works to criticize the commentary (*Bhāṣya*) on it ascribed to Vasubandhu himself.[^63] The verses and their alleged autocommentary contain numerous striking doctrinal differences, as the former sum up the doctrine of the Kashmirian Vaibhāṣika Buddhists, while the latter defends many views unacceptable to Vaibhāṣika orthodoxy;[^64] yet Saṅghabhadra, who undertakes to purge the commentary from its doctrinal deviations, nowhere insinuates that the *Bhāṣya* might not be by Vasubandhu himself.[^65] As pointed out by Ganeri, he rather creates what amounts to “a rival *Bhāṣya*.”[^66] Saṅghabhadra and Vasubandhu appear to have been contemporaries, so that denying the latter’s authorship was probably not an option for the former; still, this is indeed “a rather dramatic example of the point 
 
 [^59]: Sanderson, “The Śaiva exegesis,” 406. According to Bansat-Boudon, “Enjeux,” 178, n. 1, Sanderson, “The Śaiva exegesis,” 418 presents Kallaṭa as the author not only of the *Spandakārikā* and their *Vṛtti* but also of the *Śivasūtra*. This, however, is a misunderstanding on Bansat-Boudon’s part (Sanderson merely remarks on that page that the date of Kallaṭa, and hence that of the *Śivasūtra* said to have been revealed to his master, can only be ascertained from a quotation by Utpaladeva).
+
 [^60]: See e.g. Roush, *Hermes’ Lyre*, 72ff ; Venturi’s Introduction to *Self-commentary*, 1.
+
 [^61]: According to Rastogi, *The Krama Tantricism*, 114, and Dyczkowski, *The Stanzas*, 23, Kṣemarāja’s master, Abhinavagupta, was also of the opinion that the author of the *Spandakārikā* was Vasugupta. It is debatable, however, whether any of the quotations from the *Īśvarapratyabhijñāvivṛtivimarśinī* adduced so far to establish this point is conclusive. In particular, the one from vol. II, 199, where, according to Dyczkowski, *The Stanzas*, 320, n. 28, Abhinavagupta introduces quotes from the *Spandakārikā* “with the remark that ‘this is what the author of the *sūtra*s said’” must be rejected, since the *sūtrakāra* mentioned here is Utpaladeva, not Vasugupta (Abhinavagupta’s point is that in *Īśvarapratyabhijñākārikā* 1.5.14, Utpaladeva sums up what is already said in various other sources, including the *Spandakārikā*).
+
 [^62]: The latter point is emphasized in Pandit, *History*, 21; Dycskowski, *The Stanzas*, 22; Bansat-Boudon, “Enjeux,” 228.
+
 [^63]: See in particular Cox, *Disputed Dharmas*.
+
 [^64]: This has led Bronkhorst, “Two literary conventions,” 222–225, to question the *Bhāṣya*’s authorship, although none of the arguments adduced seems decisive.
+
 [^65]: In the Chinese extant version of the \**Nyāyānusāra*, Vasubandhu is even called *chin-chu*, “*sūtra* master,” which, according to Cox, *Disputed Dharmas*, 56, must translate *sūtrakāra* given the quotation of this text found in Sthiramati’s Sanskrit commentary. This appears to be an explicit acknowledgement of Vasubandhu’s double authorship (unless, as wondered ibid., the term was “used with sarcasm, suggesting Vasubandhu’s lack of familiarity with Buddhist scripture”; but the latter option seems less likely).
+
 [^66]: Ganeri, “Sanskrit philosophical commentary,” 200.
 
 *[p. 11]* ^pg11
@@ -196,9 +247,13 @@ Now, why did South Asian authors set out to comment on their own works? The firs
 Besides, if the reasons why the autocommentary format spread from didactic treatises to poetry remain unclear, according to Yigal Bronner this phenomenon must be understood in relation with the development of the “extreme poetry” of *śleṣakāvya* (which tells different stories simultaneously, that is, with the same verses read differently), as a tool developed to help the reader overcome the considerable difficulties of double meaning (*śleṣa*); and it betrays these poets’ “growing anxiety... about being fully understood. Poets are often concerned about getting their message through, but *śleṣa* writers, it seems, were twice as worried.”[^71] 
 
 [^67]: Ibid.
+
 [^68]: *Vākyārthamātṛkāvṛtti*, 376: *gambhīravitatam arthaṃ vācā saṃkṣiptayā nibaddham api | na vindanti ye samagraṃ kṛpayā tadanugrahaḥ kriyate ||* “Although the brief text \[of the stanzas\] encapsulates a profound and far-reaching point, \[some\] do not fully grasp it; \[this commentary\] is made \[as\] a favour to them, out of compassion.”
+
 [^69]: *Mahārthamañjarīparimala*, 2: *svakriyāyā api vyākhyāṃ svayam eva prayuñjmahe | upary apy ātmasaṃrambhasambhogāmreḍanotsukāḥ*\* || \[°*kāḥ* corr.: °*kaḥ* Ed.\]. Cox, *Modes of Philology*, 120, detects “a passing note of apologia” here, and translates: “Though it is my own work, I myself now undertake the commentary upon it, eager to repeat yet again the consummation of my own undertaking.” *Ātmasaṃrambha* can indeed mean one’s own activity, but *saṃrambha*, which can be used as a synonym for *vimarśa* (the dynamic aspect of consciousness in nondual Śaivism and a fundamental notion in Maheśvarānanda’s work), also designates the conscious act through which one grasps/understands something; cf. the end of the commentary, where just as here, the author is said to have explained his own work both “out of an eagerness to grasp the/his self, and also because he was urged \[to do so\] by disciples” (*svavimarśakutūhalāt | śiṣyānām api nirbandhāt*, ibid., 199; for a somewhat different interpretation of the latter passage see Cox, *Modes of Philology*, 117). As for the self mentioned here, it can be understood both as Maheśvarānanda’s and as the ultimate reality of the universe (the principle of personal identity being equated in his tradition with the single universal consciousness manifesting the universe).
+
 [^70]: Ibid.: *vineyajanacittacamatkriyārtham* (transl. Cox, *Modes of Philology*, 120).
+
 [^71]: Bronner, *Extreme Poetry*, 157.
 
 *[p. 12]* ^pg12
@@ -206,13 +261,21 @@ Besides, if the reasons why the autocommentary format spread from didactic treat
 Yet one often wonders, while reading South Asian autocommentaries, if such texts were not rather meant to quell, at least in part, a rather different (albeit perhaps not incompatible) fear – that of being too transparent, too simple, too easy to grasp. Admittedly, some authors advertise their autocommentaries as particularly \[p. 77\] easy and straightforward;[^72] but in fact, in *śāstra* as well as *kāvya*, autocommentaries often create a sense of depth in the text that they comment by highlighting hidden meanings beyond the straightforward ones, and they tend to cultivate equivocity instead of dispelling ambiguities.[^73] Utpaladeva often offers two or three different interpretations (some of which could be considered rather far-fetched) for a single word of his;[^74] and as pointed out by Cox, Maheśvarānanda similarly explains his own verses “through a series of vertiginous commentarial operations, pointedly ignoring the verses’ patent meaning.”[^75] It is also possible that some autocommentaries, among which Bhāsarvajña’s *Nyāyabhūṣaṇa* or Utpaladeva’s *Īśvarapratyabhijñāvivṛti*, almost disappeared while their root-text was successfully transmitted because they were deemed too difficult, or rendered the root-text itself too difficult[^76] – in India too, autocommentaries were sometimes, in Sherry Roush’s words, “maddeningly unhelpful”[^77] in that they highlighted the work’s complexities instead of solving problems, and opened interpretive possibilities rather than restricting them. This was also true in diglossic contexts, often associated with autocommentaries:[^78] as shown by Cox, Maheśvarānanda, far from providing “a single authoritative interpretation” in his Sanskrit commentary on his own Prakrit verses, developed an “auto-philology” concerned with unpacking the multiple meanings that were allowed according to him by the “indeterminacy” of Prakrit.[^79] Besides, autocommentators themselves sometimes admitted that their goal was not only to explain their work but also to add “new” elements to them;[^80] and authorial commentaries \[p. 78\] sometimes seem to suggest changes in the very text of the work that they explain. Thus Phyllis Granoff has 
 
 [^72]: Devavimala, who entitled his autocommentary on the *Hīrasaubhāgya* “Easy Understanding” (*Sukhāvabodha*), says at the beginning of the work: *svopajñahīrasaubhāgyakāvyasyāvyāsaśālinīm | kurve vṛttiṃ vidagdhānāṃ jhagityarthavibodhikām ||* “I am composing on the poem *Hīrasaubhāgya* – which is of my own invention (*svopajña*) – a commentary that is free of prolixity and will enable learned \[people\] to swiftly understand \[the poem’s\] meaning.”
+
 [^73]: This phenomenon renders the presence of alternative explanations a particularly fragile criterion when assessing whether a text is an autocommentary or not (the argument has been invoked e.g. with respect to the *Vākypadīyavṛtti*, see Bronkhorst, “Études,” 112ff.).
+
 [^74]: See e.g. Ratié, “Some hitherto unknown fragments,” on the three interpretations in his *Īśvarapratyabhijñāvivṛti* of the word “there” (*tatra*) used in *Īśvarapratyabhijñāvṛtti* 1.7.11.
+
 [^75]: Cox, *Modes of Philology*, 129.
+
 [^76]: On the former see Preisendanz, “Text, commentary, annotation,” 613; on the latter, Ratié, *Utpaladeva*, chapter 1.
+
 [^77]: Roush, *Hermes’ Lyre*, 10.
+
 [^78]: Cf. e.g. Hemacandra’s *Deśīnāmamālā*, devoted to Prakrit “regional” terms (on this notion see e.g. Ollett, *Language of the Snakes*, 156–157), and in which Prakrit verses are explained in a Sanskrit commentary. It is striking that “the legitimation of vernacular languages across Europe” is seen as one of the factors of the development of the autocommentary genre there (Venturi’s Introduction to *Self-commentary*, 4).
+
 [^79]: Cox, *Modes of Philology*, 126–132.
+
 [^80]: See e.g. Hemacandra’s *Kāvyānuśāsanaviveka*, 1: *vivarītuṃ kvacid dṛbdhaṃ navaṃ saṃdarbhituṃ kvacit |* *kāvyānuśāsanasyāyaṃ vivekaḥ pravitanyate ||* “\[I\] am composing this detailed analysis of \[my\] *Kāvyānuśāsana* so as to explain in some cases what has been strung together \[in the latter\] – and in \[other\] cases, in order to string together something new.”
 
 *[p. 13]* ^pg13
@@ -224,12 +287,19 @@ noted with some surprise that although Devavimala Gaṇin, the author of a poem 
 Paul Dundas[^86] has also pointed out that Devavimala, in his autocommentary on the *Hīrasaubhāgya*, quotes other poets, and refers in particular to “around two hundred turns of phrase which he has borrowed from Śrīharṣa,” the twelfth-century author of the celebrated *Naiṣadhīyacarita*. These “openly recorded borrowings” draw a complex intertextual web meant to highlight the various appropriations (*haraṇa*) – deemed legitimate by treatises of poetics such as Rājaśekhara’s *Kāvyamīmāṃsā* – of famous \[p. 79\] poems of the past. As Phyllis Granoff puts it while discussing Devavimala’s depiction of the Jain holy mountain Śatruñjaya: “The commentary... explains the source of these images: it is always other poetry;” and by systematically pointing out this indebtedness, it makes clear that “the poet responds not to nature but to the descriptions of nature provided by his predecessors.”[^87] This considerable attention devoted to intertextuality,[^88] which no 
 
 [^81]: Granoff, “Mountains of eternity,” 38, n. 17. See e.g. *Hīrasaubhāgyavyākhyā*, 757, which first explains *campakaḥ puṣpapītaḥ* in verse 15.16, before adding *campako’smin sapuṣpa iti pāṭhe* and proceeding to explain this other “reading.”
+
 [^82]: See e.g. above, n. 12.
+
 [^83]: On such “improvements” by commentators see in particular Goodall and Isaacson, *The Raghupañcikā*, xxxi–xl, and Goodall, “Retracer la transmission.” Pollock, “Sanskrit literary culture,” 112, quotes a verse from the twelfth-century *Pṛthvīrājavijaya* complaining about the tendency of commentators to emend poems.
+
 [^84]: Devavimala explains at the end of his work (v. 21 in the *granthapraśasti*) that his poem was entirely “revised” (*samaśodhyata*) by Dhanavijaya, disciple of Kalyāṇavijaya (and then implores his learned readers to make further corrections if additional mistakes are spotted); one could therefore also consider the possibility that the commentary was “revised” as well and that some additions were made in the process.
+
 [^85]: The tenth-century commentator Vallabhadeva for instance, while suggesting a number of improved “readings” in the poems of Kālidāsa, is usually careful to transmit the readings that he deems faulty or vulgar (*asabhya*, *Kumārasaṃbhavaṭīkā*, 79 on 3.41); see e.g. Pollock, “What was philology,” 121 on “suggested revisions” without actual alterations of the text. This did not prevent such “improvements” from having a great influence on the transmission of texts, as some scribes revised the text they were copying against commentaries (see Goodall and Isaacson, *The Raghupañcikā*, xxxii and n. 49).
+
 [^86]: Dundas, *History, Scripture and Controversy*, 62–63.
+
 [^87]: Granoff, “Mountains of eternity,” 38.
+
 [^88]: It is in fact already found in some standard commentaries, although usually not to the same extent (see e.g. Pollock, “What was philology,” 126–127, on the fourteenth-century commentator Aruṇagirinātha, for whom making sense of Kālidāsa’s *Kumārasaṃbhava* “meant above all embedding it in a set of intertexts”).
 
 *[p. 14]* ^pg14
@@ -241,8 +311,11 @@ For autocommentaries attempted to connect the work on which they commented with 
 \[– Objection:\] But if these aphorisms on the Jaina doctrine are yours, then before you, what or whose were they? \[– Answer:\] You have \[just\] asked about far too little! You should also ask about this: what were the aphorisms of grammar, \[prosody, Vaiśeṣika,\] etc., and whose were they, before Pāṇini, Piṅgala, Akṣapāda and the \[other renowned composers of aphorisms\]? These sciences are in fact beginningless, \[but we\] talk about them as \[if they were\] ever new, and as belonging to this or that author, according to whether the intention \[in a given work\] was to \[present them\] in brief or at length; \[p. 80\] have you not heard \[the maxim\]: ‘The world never becomes different’? Or have a look at the *Tattvārthasūtra*, this jewel crowning all treatises, composed by the greatest of all authors! \[– Objection:\] If so, why have \[you\] not undertaken only a \[single\] work (*prakaraṇa*), such as Akalaṅka’s, Dharmakīrti’s and so on – why this pretension to be an author of aphorisms (*sūtrakāra*)? \[– Answer\]: Please do not talk like this: the present writer is \[simply\] of a different inclination, so since there is no public or royal decree going against his own free will, \[your objection\] amounts to naught![^92] 
 
 [^89]: See e.g. Vāmana’s *Kāvyālaṅkārasūtravṛtti*, 1, where the work is described as “a commentary on his own *Kāvyālaṅkāra* aphorisms” (*kāvyālaṅkārasūtrāṇāṃ sveṣāṃ vṛttiḥ*); Hemacandra’s *Yogaśāstra*, vol. I, 1: “a commentary on the specific meaning of my own *Yogaśāstra*” (*svayogaśāstrārthaviśeṣanirṇayaḥ*); *Pramāṇāmīmāṃsā*, second introductory verse: “a commentary on my own aphorisms on the Jaina doctrine” (*jainasiddhāntasūtrāṇāṃ sveṣāṃ vṛttiḥ*), etc.
+
 [^90]: Monier-Williams, *Dictionary* (s.v.) traces the compound back to Hemacandra, without providing any precise reference. Later authors use it (e.g. Devavimala, see above, n. 72); it appears in many late colophons and is widely used in printed editions and secondary literature.
+
 [^91]: See e.g. its repeated use in Jayaratha’s *Tantrālokaviveka*, as in the introduction to *Tantrāloka* 1.243: *etac ca na svopajñam api tu sarvatraivāgameṣūktam...* “And this is not a mere individual opinion (*svopajña*); rather, it is stated absolutely everywhere in the scriptures...”
+
 [^92]: *Pramāṇamīmāṃsā*, 1: *nanu yadi bhavadīyānīmāni jainasiddhāntasūtrāṇi tarhi bhavataḥ pūrvaṃ kāni kimīyāni vā tāny āsann iti? atyalpam idam anvayuṅkthāḥ. pāṇinipiṅgalakaṇādākṣapādādibhyo’pi pūrvaṃ kāni kimīyāni vā vyākaraṇādisūtrāṇīty paryanuyuṅkṣva. anādaya evaitā vidyāḥ etad api saṃkṣepavistaravivakṣayā navanavībhavanti tattatkartṛkāś cocyante. kiṃ nāśrauṣīr na kadācid anīdṛśaṃ jagad iti? yadi vā prekṣasva vācakamukhyaviracitāni sakalaśāstracūḍāmaṇibhūtāni tattvārthasūtrāṇīti. yady evam akalaṅkadharmakīrtyādivat prakaraṇam eva kiṃ nārabhyate, kim anayā sūtrakāratvāhopuruṣikayā?* *maivaṃ vocaḥ, bhinnarucir hy ayaṃ janaḥ, tato nāsya svecchāpratibandhe laukikaṃ rājakīyaṃ vā śāsanam astīti yat kiñcid etat*. For a somewhat different translation see Mookerjee, *Hemacandra’s Pramāṇamīmāṃsā*, 1–2.
 
 *[p. 15]* ^pg15
@@ -256,8 +329,11 @@ soteriological path
 That Sanskrit autocommentaries were often meant to reach a category of readers different from that to which the commented work was addressed is particularly clear in cases where a given text was commented twice by its author. Thus Hemacandra chose a threefold format (namely, aphorisms with two autocommentaries: a *Vṛtti* or short explanation, and a *Viveka* or detailed analysis) for his treatise on poetics, the *Kāvyānuśāsana*, and it has been surmised that this choice was made while having in mind, as Rasklal Parikh has put it, “the needs of primary and advanced 
 
 [^93]: Karṇakagomin repeatedly designates the verses in the *Pramāṇavārttika*’s first chapter as *sūtra*s and calls Dharmakīrti the *sūtrakāra* (see e.g. *Pramāṇavārttikasvavṛttiṭīkā*, 8); Abhayacandra calls *sūtra*s the verses in Akalaṅka’s self-commented *Laghīyastraya* (see 14, 20, etc.).
+
 [^94]: On the latter and for further references see Ratié 2021.
+
 [^95]: *Īśvarapratyabhijñāvivṛtivimarśinī*, vol. I, 14–16; the Sanskrit and its translation are given in Ratié, *Utpaladeva*, 8–18.
+
 [^96]: See Ratié, “Utpaladeva and Abhinavagupta,” 438.
 
 *[p. 16]* ^pg16
@@ -267,10 +343,15 @@ students,” the detailed autocommentary being designed for the latter.[^97] Mor
 Thus traditional lists enumerating the various functions of Sanskrit commentaries,[^100] such as the analysis of words and sentence structures, usually include as their last item “\[stating\] objections and refuting \[them\]” (*ākṣepapratisamādhāna*), that is, showing how a text anticipates and successfully answers all possible objections based on rival theories; but Utpaladeva seems to have split those lists, reserving their last function for \[p. 82\] his detailed *Vivṛti*[^101] while ascribing the tasks pertaining to word-by-word explanation to his much shorter *Vṛtti*. In the lost introductory passage of his *Vivṛti*, he had also made clear that the three levels of his work were meant for different readers, and as Abhinavagupta explains, he argued there that only the *Vivṛti* “can be understood by everybody” (*sarvajanapratipattiyogya*), because only its dialectical method of examining all possible objections and responses can purify the minds that, being polluted by the erroneous views of “other religions” (*tīrthāntara*), are incapable of grasping the truths contained in the aphorisms and *Vṛtti*. He argued, however, that those whose minds are not thus stained do not need the *Vivṛti* to understand the aphorisms and *Vṛtti*, the *sūtra*s being even capable of bringing about liberation on their own in those already sufficiently advanced on the Śaiva nondualistic path. The multi-layered structure of Utpaladeva’s treatise therefore enabled him both to claim a universal readership for his treatise and to address his fellow Śaiva initiates as a privileged group of readers: he could compete with his Buddhist rivals by asserting that those fit to study his work (*adhikārin*), far from being restricted to male Brahmans, were simply “whoever is born,” regardless of their caste, religious background, etc.,[^102] and yet preserve a kind of soteriological fast lane for those belonging to his own religious tradition, since only non-Śaivas needed to go through the lengthy *Vivṛti* in order to gain the liberating insight. 
 
 [^97]: Parikh, Introduction to *Kāvyānuśāsana*, cccxiii; cf. Athavale’s Note, ibid., 1.
+
 [^98]: Tubb, “Hemacandra,” 63; cf. Tubb and Boose, *Scholastic Sanskrit*, 3.
+
 [^99]: See above, fn. 68.
+
 [^100]: For a discussion of the available sources regarding these five- or sixfold lists and further references, see Ratié, *Utpaladeva*, 12–14.
+
 [^101]: See *Īśvarapratyabhijñāvivṛtivimarśinī*, vol. I, 16–17, quoted and discussed in Ratié, *Utpaladeva*, 9–11 and 14.
+
 [^102]: See Ratié, *Le Soi et l’Autre*, 8, n. 13.
 
 *[p. 17]* ^pg17
@@ -280,11 +361,17 @@ Thus traditional lists enumerating the various functions of Sanskrit commentarie
 Yet we should not assume that in India, self-commenting and self-awareness or self-fashioning were fundamentally unrelated, if only because, as pointed out by Sanderson, Mauss’s evolutionistic view of India as a culture where the notion of the person was prevented from fully emerging by metaphysical criticisms of the self is problematic in many respects[^107] – and also because the spectacular split of the authorial self described above certainly helped autocommentators fashion themselves as selfless transmitters of an impersonal truth. Besides, Utpaladeva and Hemacandra, who both went as far as including in some of their treatises two distinct self-exegetical layers, seem to have found a singular voice in their autocommentarial practice, and their authorial individuality emerges at times in the very midst of their conspicuous attempts to suppress it. Utpaladeva, while ostentatiously effacing himself behind a transpersonal Speech, also happened to highlight the novelty of his threefold treatise (and the differentiated soteriological path that it made possible) in a fashion that must have appeared quite extraordinary in tenth-century Kashmir. Hemacandra, while denying the novelty of his own work, asserted his right to compose it by virtue of his free will. Moreover, the Śaivas at least explicitly linked their own understanding of the self and self-awareness with their autocommentarial practices. For nondual Śaivism sees as the true self (*ātman*) of every individual a single, all-encompassing consciousness identified as the god Śiva that manifests itself in the form of the infinitely manifold universe, playfully forgetting its own identity to enact the world’s play, yet somehow remaining blissfully aware of it through an intuitive act of self-apprehension (*svavimarśa*)[^108] – the very term that Maheśvarānanda uses to describe the first of his motivations for writing an autocommentary.[^109] In the lost introduction of his *Vivṛti*, Utpaladeva, for his part, had described the three textual levels of his treatise – entirely devoted to 
 
 [^103]: McLaughlin, “Alberti’s *Commentarium*,” 28; on this self-fashioning see in particular Greenblatt, *Renaissance Self-fashioning*, and Ascoli, *Dante*.
+
 [^104]: Venturi’s Introduction to *Self-commentary*, 4.
+
 [^105]: Barthes, *The Death of the Author*, 142–143.
+
 [^106]: Mauss, “Une catégorie,” 273.
+
 [^107]: Sanderson, “Purity and power,” 190.
+
 [^108]: On the Śaiva nondualistic definition of identity and otherness see Ratié, *Le Soi et l’Autre*.
+
 [^109]: See above, n. 69.
 
 *[p. 18]* ^pg18

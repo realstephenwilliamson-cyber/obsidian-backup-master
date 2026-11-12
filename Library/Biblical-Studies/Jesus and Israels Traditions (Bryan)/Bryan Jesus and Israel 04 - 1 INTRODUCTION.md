@@ -29,6 +29,7 @@ This book is an attempt to make sense of Jesus as one whose intentions were deci
 All studies of history are historically positioned. This applies not least to the study of Jesus as a figure of history. The present study was initiated at the end of a century which began with the work of J. Weiss and A. Schweitzer, whose studies have served as either guide or foil for much of what has followed. Weiss’ and Schweitzer’s portrayal of Jesus as a prophet of the end of the world attracts few adherents today, but the perception of Jesus within the milieu of Jewish eschatological expectation
 
 [^1]: The seminal works are B. F. Meyer, *The Aims of Jesus* (London: SCM Press, 1979); and E. P. Sanders, *Jesus and Judaism* (London: SCM Press, 1985).
+
 [^2]: To be sure, dissenting voices remain. Not all will agree that the reasons for Bultmann’s scepticism that we can know ‘almost nothing’ about Jesus have been overturned; R. Bultmann, *Jesus and the Word* (London: Scribner’s, 1934), p. 14. Also a small but vocal minority, mainly associated with the Jesus Seminar in North America, continue to produce portraits of an essentially non-Jewish Jesus.
 
 *[p. 2]* ^pg20
@@ -40,8 +41,11 @@ One of the central questions of twentieth-century scholarship on Jesus was wheth
 Much of the discussion of Jesus’ eschatology has naturally turned on the meaning of Jesus’ proclamation of the ‘kingdom’. Unfortunately, the term is far from unambiguous and fierce debates continue about the meaning and authenticity of not a few of the sayings in which it occurs. But even if one concludes that there are authentic sayings which indicate a view of
 
 [^3]: See e.g. J. D. Crossan, *The Historical Jesus: The Life of a Mediterranean Jewish Peasant* (Edinburgh: T. & T. Clark, 1991). M. J. Borg also argues for a non-eschatological Jesus, though not in a Cynic framework, ‘A Temperate Case for a Non-Eschatological Jesus’, *Jesus in Contemporary Scholarship* (Valley Forge, PN: Trinity Press International, 1994), pp. 47–68.
+
 [^4]: Exceptions include R. H. Hiers, *Jesus and the Future* (Atlanta: John Knox, 1981); and E. Gr̈aßer, *Die Naherwartung Jesu* (SBS; Stuttgart: KBW Verlag, 1973).
+
 [^5]: H. Merklein, *Die Gottesherrschaft als Handlungsprinzip: Untersuchung zur Ethik Jesu* (W ¨urzburg: Echter Verlag, 1981), p. 165, cited in G. R. Beasley-Murray, ‘[[Matthew 06#^6-33|Matthew 6:33]]: The Kingdom of God and the Ethic of Jesus’, in *Neues Testament und Ethik* (ed. H. Merklein; Freiburg: Herder, 1989), p. 93.
+
 [^6]: Beasley-Murray, ‘[[Matthew 06#^6-33|Matthew 6:33]]’, p. 93.
 
 *[p. 3]* ^pg21
@@ -65,7 +69,9 @@ or against unresponsive individuals within the nation but not against the nation
 In the recent work of N. T. Wright this assumption has been turned on its head. For Wright, final judgement has receded almost completely from view. Jesus announced Israel’s restoration as the end of exilic national judgement but warned those who failed to heed his message of imminent national judgement.[^11] Wright seems to invest this national judgement with climactic significance – he does not portray it as a return to exile – but it is decidedly not final judgement to which Jesus refers. Rather, Wright is concerned to show that Jesus’ message of judgement corresponds to the nationally oriented message of the prophets. However, he does not grapple with the profound difference between the prophets’ understanding of
 
 [^9]: E.g. E. P. Sanders, *Jesus*, pp. 95–119, who, more than most, sees the significance of the fact that within Jewish restorationism generally there was little expectation of a further punishment of the nation: a belief in the imminent restoration of ‘all Israel’ would have been seen as incompatible with an expectation of national judgement. Thus, when Sanders allows that Jesus believed in the judgement of Israel, he simply means that Jesus shared the common belief that some Jews would be excluded from Israel’s restoration. Sanders’ generalization that few expected another round of national judgement prior to restoration still stands, even when qualified by the evidence assembled by C. A. Evans (‘Predictions of the Destruction of the Herodian Temple in the Pseudepigrapha, Qumran Scrolls, and Related Texts’, *JSP* 10 (1992), 89–147); and M. N. A. Bockmuehl (‘Why Did Jesus Predict the Destruction of the Temple?’, *Crux* 25 (1989), 11–18) that some Second Temple Jews expected God’s judgement on the Temple establishment.
+
 [^10]: J. Becker (*Jesus of Nazareth* (trans. J. E. Crouch; Berlin: Walter de Gruyter, 1998), pp. 73–4), for instance, believes that Jesus’ comparisons of Israel to the Gentile world in contexts of judgement is driven by the conviction that Israel has ‘used up its election’.
+
 [^11]: N. T. Wright, *Jesus and the Victory of God* (Christian Origins and the Question of God; Minneapolis: Fortress, 1996), pp. 182–6, 326–36.
 
 *[p. 5]* ^pg23
@@ -105,8 +111,11 @@ phenomenon is that of M. Fishbane. Fishbane distinguishes between the *traditum*
 The shift to a new historical context, however, is not straightforward. In the first place, there may be competing claims regarding how a tradition should be interpreted within the new situation, that is, how the *traditum* should be re-presented. For example, in the second century BCE, Theodotus and the *Testament of Levi* re-presented the story of the rape of Dinah in exactly opposite ways: in the latter, the rewritten story is unwashed anti-Samaritan propaganda; for Theodotus, the narrative is told in a way that both wards off such propaganda and legitimates Samaritan counterclaims.[^15] Second, with the build-up of a body of tradition, there may be competing claims as to which part of the tradition is relevant to the new situation. J. A. Sanders has turned his attention to this latter issue in his perceptive investigation of what he calls ‘prophetic criticism’. Sanders notes in particular the way in which the prophets challenged accepted use of sacred tradition, not only by setting forth alternative interpretations of the traditions held to be central by those they opposed but also by bringing alternative traditions to bear on the present moment. By thus setting forth a competing reappropriation of sacred tradition, the prophets called into question the way their contemporaries used Scripture to support a theological or ethical status quo which the prophets deemed unacceptable.[^16]
 
 [^13]: M. Fishbane, *Biblical Interpretation in Ancient Israel* (Oxford: Clarendon Press, 1985), p. 6.
+
 [^14]: Ibid., pp. 416–17.
+
 [^15]: See below, chapter 5, and D. Mendels, *The Land of Israel as a Political Concept in Hasmonean Literature: Recourse to History in Second Century B. C. Claims to the Holy Land* (TSAJ; T ¨ubingen: J. C. B. Mohr (Paul Siebeck), 1987), pp. 104–5, 113–16.
+
 [^16]: J. A. Sanders, ‘From [[Isaiah 61#^61-1|Isaiah 61]] to Luke 4’, *Luke and Scripture: The Function of Sacred Tradition in Luke–Acts* (C. A. Evans and J. A. Sanders; Minneapolis: Fortress, 1993), pp. 46–69; J. A. Sanders, ‘The Ethic of Election in Luke’s Great Banquet Parable’, *Luke and Scripture: The Function of Sacred Tradition in Luke–Acts* (C. A. Evans and J. A. Sanders; Minneapolis: Fortress, 1993), pp. 106–20. A recent article by C. Evans and B. Chilton (‘Jesus and Israel’s Scriptures’, *Studying the Historical Jesus: Evaluations of the State of Current Research* (ed. B. Chilton and C. A. Evans; NTTS; Leiden: E. J. Brill, 1994), p. 314) highlights Sanders’ ‘prophetic criticism’ as a potentially fruitful line of inquiry into the aims of Jesus.
 
 *[p. 8]* ^pg26
@@ -134,6 +143,7 @@ From this it should be clear that I regard double dissimilarity as being of very
 Of the two sorts of judgements which lie behind the various criteria, those presupposed by the criterion of multiple attestation are perhaps least significant. This is not to say they are unimportant. The energy expended on the synoptic problem suggests otherwise. I am reasonably convinced that the two-source hypothesis is correct and occasionally appeal to multiple attestation on that basis. But relatively little of the Jesus material is multiply attested, and even where multiple attestation can be shown, it only demonstrates that the tradition in question is earlier than the earliest
 
 [^18]: See J. D. G. Dunn, *The Partings of the Ways: Between Christianity and Judaism and Their Significance for the Character of Christianity* (London: SCM Press, 1991).
+
 [^19]: On this point, the quite different works of Harvey and Riches may be usefully compared: A. E. Harvey, *Jesus and the Constraints of History* (London: Duckworth, 1982); J. Riches, *Jesus and the Transformation of Judaism* (London: Darton, Longman & Todd, 1980).
 
 *[p. 10]* ^pg28
@@ -145,9 +155,13 @@ Much more important are prior hypotheses about Jesus, Judaism and early Christia
 An initial move in this direction is evident in the work of G. Theissen and C. Evans who have recently articulated a criterion of ‘historical coherence’[^21] or ‘historical plausibility’.[^22] For Evans, the criterion means that material which displays a coherence with Jesus’ historical circumstances and the general features of his life is likely to be authentic. This corresponds quite closely with a specific feature of Theissen’s criterion of historical plausibility, namely, *Kontextplausibilit ¨at*: ‘*Je besser eine* *¨Uberlieferung in den konkreten j ¨udischen Kontext paßt, um so mehr hat sie Anspruch auf Authentizit ¨at*.’ Of course, it may be objected that Jesus’ followers were just as Jewish as Jesus and could have easily created traditions with a plausible Jewish context. Theissen, at least, anticipates the problem and integrates two other elements into his criterion of *historischer Gesamtplausibilit ¨at*. First, authentic traditions must have a ‘*sinnvollen wirkungsgeschichtlichen Zusammenhang mit der Entstehung des urchristlichen, vom Judentum sich l ¨osenden Glaubens*’.[^23] Theissen regards the Christian sources as part of the *Wirkungsgeschichte Jesu* and so the historical influence of a tradition is plausible either if it corresponds with the content of other independent traditions or if it runs counter to the *Tendenz* of its source.[^24] Second, whatever evinces a unique profile for Jesus within the Jewish context is likely to be authentic.<sup>25</sup> The first of these appears simply to be Theissen’s way of reintroducing the criteria
 
 [^20]: J. P. Meier, *A Marginal Jew: Rethinking the Historical Jesus* (ABRL; New York: Doubleday, 1994–).
+
 [^21]: C. A. Evans, ‘Recent Developments in Jesus Research: Presuppositions, Criteria, and Sources’, *Jesus and His Contemporaries: Comparative Studies* (AGJU; Leiden: E. J. Brill, 1995), pp. 13–15.
+
 [^22]: G. Theissen and A. Merz, *The Historical Jesus: A Comprehensive Guide* (London: SCM Press, 1998), pp. 116–18.
+
 [^23]: G. Theissen and D. Winter, *Die Kriterienfrage in der Jesusforschung: Vom Differenzkriterium zum Plausibilit ¨atkriterium* (NTOA; Freiburg: Universiẗat Verlag, 1997), p. 194.
+
 [^24]: Ibid., pp. 176–83.
 
 *[p. 11]* ^pg29
@@ -159,7 +173,9 @@ But whatever weaknesses the ‘historical coherence’ of Evans and the ‘histo
 One further observation is necessary. Our approach to the traditions of Jesus must necessarily be at least moderately conservative. The reasons are two. First, the various criteria are unreliable as negative tests. It is quite conceivable that a particular tradition fail every test and yet still be authentic.[^28] We may hesitate to base a reconstruction of Jesus on such material, but it should be worrying if very little of the material which is not demonstrably authentic agrees with our reconstruction. Second, and more important, D. Allison has recently pointed out that as we move along a continuum from the hypothetical authenticity of every tradition to the authenticity of only, say, six sayings, there is a point at which the quest for Jesus suffers a methodological meltdown. If Jesus is, in fact, the source of only six sayings, it is impossible to say which six. ‘In order to solve a criminal case one must have some decent witnesses.’ In other words, our sources must be generally reliable about Jesus if we are to have any idea which material does not stem from Jesus. Thus Allison points out that if we felt constrained to excise all the eschatological materials from the Jesus
 
 [^26]: Cf. T. Holm´en, ‘Doubts About Double Dissimilarity: Restructuring the Main Criterion of Jesus-of-History Research’, in *Authenticating the Words of Jesus* (ed. B. Chilton and C. A. Evans; NTTS; Leiden: E. J. Brill, 1999), pp. 73–4 n. 106.
+
 [^27]: D. C. Allison, Jr, *Jesus of Nazareth: Millenarian Prophet* (Minneapolis: Fortress, 1998); N. T. Wright, *Jesus*.
+
 [^28]: Similarly M. de Jonge, *God’s Final Envoy: Early Christology and Jesus’ Own View of His Mission* (Grand Rapids: Eerdmans, 1998), p. 5, affirming L. E. Keck, *A Future for the Historical Jesus: The Place of Jesus in Preaching and Theology* (London: SCM Press,
 
 *[p. 12]* ^pg30
@@ -175,6 +191,7 @@ The scholar whose overall hypothesis about Jesus is perhaps most similar to that
 The significance of the term ‘exile’ for Wright does not lie primarily in the fact that many first-century Jews lived outside the Land; Wright can speak of Jews being in exile while ‘in their own land’. For Wright, the term does not have the sense that its OT equivalents bear which involve literally being away from one’s land (e.g. Amos 7.11, 18). Rather, Wright uses the term as a shorthand for Israel’s plight and suggests that most first-century Jews who lived in the Land did so as well. It is at least ironic that he has chosen a term which connotes removal from the Land to describe the situation of Jews living in the Land.
 
 [^29]: Allison, *Jesus*, pp. 33–5.
+
 [^30]: The idea is found throughout his works, but see especially *The New Testament and the People of God* (New Testament; Minneapolis: Fortress, 1992), pp. 268–72.
 
 *[p. 13]* ^pg31
@@ -186,6 +203,7 @@ Inasmuch as Wright uses ‘exile’ to sum up this sense of bondage and hope of 
 If Second Temple Jews *understood* their situation as one of ongoing exile, it is clear that they did not often *describe* their situation in such terms. As I have said, Wright’s case is largely an inference, for texts in which exile language occurs are rare. This is not to deny that many Second Temple texts lament the fact that many Jews continued to live outside the Land and that the regathering of these Jews was an anticipated part of restoration. But can such texts tell us anything of the way Jews in the Land thought about themselves and their circumstances? Wright cites a number of texts which refer to Jews scattered among the Gentiles – these are the
 
 [^31]: K. R. Snodgrass, ‘Reading and Overreading the Parables in *Jesus and the Victory of God’, Jesus and the Restoration of Israel: A Critical Assessment of N. T. Wright’s Jesus and the Victory of God* (ed. C. C. Newman; Downers Grove: Inter-Varsity Press, 1999),
+
 [^32]: N. T. Wright, *Jesus*, pp. 125–31.
 
 *[p. 14]* ^pg32
@@ -199,6 +217,7 @@ First, there were ample precedents for speaking about Israel’s captivity to fo
 Second, Wright’s equation of bondage to exile reflects his strong emphasis on the storyline of Israel reflected in much of the Old Testament which follows a straight-line trajectory from exile to restoration. That is why prophetic hopes for restoration are framed as hopes for the end of exile. *But that is only how Israel’s story should have turned out, not how it did turn out*. The ensuing history was considerably more complex.
 
 [^33]: J. Klausner, *The Messianic Idea in Israel: From Its Beginning to the Completion of the Mishnah* (based on Hebrew 3rd edn; trans. W. F. Stinespring; London: George Allen and Unwin Ltd, 1956), p. 474.
+
 [^34]: C. A. Evans, ‘Jesus and the Continuing Exile of Israel’, in *Jesus and the Restoration of Israel* (ed. C. C. Newman; Downers Grove: Inter-Varsity Press, 1999), pp. 78–87.
 
 *[p. 15]* ^pg33
@@ -216,8 +235,11 @@ an end, yet it is not the fulfilment of prophetic hopes. Indeed, after this twel
 Third, the failure of the promises of restoration to materialize after the return of the exiles from Babylon produced a monumental theological difficulty, which could not be and was not explained as simply a continuation of the exile. The complex history which followed the return from Babylon was matched by a similarly complex theological response. One response is seen in texts, frequently cited by Wright, which stem from the period immediately following the return of the captives from Babylon and lament the fact that, despite the return from exile, the people remain slaves in their own land ([[Ezra 09#^9-8|Ezra 9.8–9]]; [[Nehemiah 09#^9-36|Neh. 9.36]]).[^38] But recent scholarship on Ezra–Nehemiah has brought into focus the importance of seeing the way a partially realized eschatology is at work in the books. J. G. McConville, building on the work of K. Koch, has highlighted a number of echoes in Ezra and Nehemiah of prophetic restoration texts; such echoes reveal that *the return was viewed as part of the restoration* and regarded as the awaited new Exodus from Babylon. However, the restoration is viewed not as a once-and-for-all act of God but as an ongoing process in which the repentance and covenant faithfulness of the people play a part.[^39] In other words, the problem of Ezra–Nehemiah is not so much one of continuing exile but of incomplete restoration; for the author(s) of Ezra–Nehemiah, to equate the two, as Wright does, would have been to deny a key moment in the outworking of God’s eschatological purposes.
 
 [^36]: There is no reason to think that the events of 66–70 CE substantially shaped that perception.
+
 [^37]: As we shall see, some texts do assess the period from the exile to the rise of the Hasmoneans in a uniformly negative way. But even this assessment is not without exception. As J. D. G. Dunn notes, ‘the one who penned the great paean in praise of the high priest, Simon son of Onias \[who held office from 219–196 BCE\] (Sir. 50), certainly did not think of Israel as still in exile’; ‘Review of *Jesus and the Victory of God*’, *JTS* 49 (1998), 730.
+
 [^38]: N. T. Wright, *New Testament*, p. 269.
+
 [^39]: J. G. McConville, ‘Ezra–Nehemiah and the Fulfillment of Prophecy’, *VT* 36 (1986),
 
 *[p. 17]* ^pg35
@@ -229,6 +251,7 @@ In the historical survey of the Animal Apocalypse, the exile is in no way distin
 The texts in *Jubilees* which several scholars have taken to reflect the perception that exile was ongoing[^40] in fact evince a reading of the Deuteronomic curses in which exile is simply one of the curses. In *Jubilees* 23, the curses for covenant unfaithfulness reflect the experience of Israel from the exile right down to the author’s own day in the mid second century BCE. One obvious way of reading the curses of [[Torah 53 - Ha'Azinu#^32-1|Deuteronomy 32]] is to see exile as the ultimate punishment invoked only when the other curses had at last failed to bring Israel out of its recurrent recalcitrance. But in *Jubilees* 23 the significance of the exile has been reduced: the ‘evil generation’ in view experiences all the curses without apparent differentiation; captivity is simply one of a litany of curses (23.13; cf. 23.22) meted out over an extended period by a plurality of nations (23.23).[^41]
 
 [^40]: J. J. Collins, *The Apocalyptic Imagination* (New York: Crossroad, 1987), p. 60; M. A. Knibb, *Jubilees and the Origins of the Qumran Community* (an Inaugural Lecture at King’s College London; King’s College London, 1989), pp. 7–11; G. L. Davenport, *The Eschatology of the Book of Jubilees* (SPB; Leiden: E. J. Brill, 1971), p. 46.
+
 [^41]: Cf. 4Q504 3.7–14.
 
 *[p. 18]* ^pg36
@@ -240,7 +263,9 @@ Similarly, in the eschatologically oriented review of the nation’s history in 
 Similar comments can be made about Daniel 9 and CD 1. Both texts – the latter in dependence on the former – turn on a reinterpretation of Jeremiah’s prescribed seventy years of exile as seventy weeks of years.[^44] Wright reads these texts as straightforward extensions of the time prescribed for the exile. But in neither text is the exile as such continued, rather, the seventy-year exile is presented as simply part of a much longer ‘age of wrath’. Daniel 9 explicitly and positively recalls Jeremiah’s prediction of seventy years, suggesting that the author regarded Jeremiah’s prophecy not as incorrect but as incomplete. Similarly, CD 1 does not view the extended age of wrath as the time during which Israel experienced the climactic covenant curse – exile – but as the time in which all of the curses of the covenant remained on Israel (CD 1.17). These texts do indicate the belief that much longer than seventy years was needed ‘to finish transgression’, but there is no indication that the whole of this period is simply regarded as a continuation of the exile in either a literal or
 
 [^42]: The broad sweep of history is suggested most immediately by reference in 1.10 to the people’s abandonment of both tabernacle and temple.
+
 [^43]: See E. P. Sanders, *Jesus*, pp. 95–7.
+
 [^44]: It seems likely that the 390 years of CD 1.5–11 is drawn in the first instance from [[Ezekiel 04#^4-4|Ezek. 4.4]], although the author seems to have related this figure to Daniel’s 490 years: 390 years from the captivity to the emergence of the remnant + the 20 years of groping in the wilderness until the rise of the Teacher of Righteousness (CD 1.10) + the 40 years estimated duration of the Teacher’s ministry + the predicted 40 years between the Teacher’s death and the beginning of the new age (CD 20.13–15). So e.g. D. C. Allison, Jr., *The End of the Ages Has Come: An Early Interpretation of the Passion and Resurrection of Jesus* (Philadelphia: Fortress, 1985), p. 10.
 
 *[p. 19]* ^pg37

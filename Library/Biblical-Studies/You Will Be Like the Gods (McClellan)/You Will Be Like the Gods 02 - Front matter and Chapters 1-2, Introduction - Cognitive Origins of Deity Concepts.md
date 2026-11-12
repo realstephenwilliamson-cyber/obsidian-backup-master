@@ -293,6 +293,7 @@ This comment from the serpent that the man and the woman would be “like the go
 It will seek to show that the category “deity” was not clearly delineated in the early history of the Bible, but was determined largely by the usage of the term within the broader Syro-Palestinian cultural matrix. This usage was not focused extrinsically on the boundaries of the category, but intrinsically on its prototypical members. As the power struggles of surrounding nations convulsed and fragmented the nation of Israel, and ethnic and cultural boundary maintenance became more central to the worldviews of the biblical authors, it became necessary to delineate and 
 
 [^1]: A glossary of terms unique to the field of cognitive linguistics is provided in Appendix A.
+
 [^2]: For English biblical texts, this thesis will follow the NRSV unless otherwise noted. This verse differs in the use of the plural “gods” where the NRSV renders “God.” The reasoning for this choice is offered in §4.1, nn. 1 & 2.
 
 *[p. 2]* ^pg9
@@ -310,7 +311,9 @@ compartmentalize the category, granting YHWH an exclusive taxonomy. This was ach
 In general terms, cognitive science is the interdisciplinary study of the human mind and its attendant processes. A few different disciplines within this broad approach will be discussed during the course of this thesis, although in light of the mediating nature of language in the study of the biblical authors’ approach to deity, cognitive linguistics will be its primary focus. Cognitive linguistics constitutes a broad linguistic approach that began in the 1980s and applies the insights of cognitive science to the study of language.[^4] D. Geeraerts describes it as “an approach to the analysis of natural language that focuses on language as an instrument for organizing, processing, and conveying information.”[^5] The most fundamental hypothesis that guides a cognitive-linguistic approach is that language is not an autonomous faculty that exists outside the purview of human cognition. Rather, it is understood as one of many of the integrated functions of that cognition. Put more simply, language originates in, and is fundamentally shaped by, how we perceive the world. It does not exist apart from that perception. This hypothesis has many implications vis-à-vis meaning. To begin, if language is a function of our overall cognitive experience, rather than a separate system we simply access for communication, linguistic meaning will be based on that overall experience.[^6] Croft and Cruse explain, “categories and structures in semantics, syntax, morphology and phonology are built up from our 
 
 [^4]: While it has supporters and critics, my incorporation of the methodology does not include the complex areas of most frequent contention. The authors cited represent the leaders in the field. For instance, R. Langacker served as president of the International Cognitive Linguistics Association from 1997–1999. D. Geeraerts founded the journal *Cognitive Linguistics* and is the editor of the *Handbook of Cognitive Linguistics*. J. Taylor is the managing editor of *Cognitive Linguistics Research* and is on the editorial boards of both *Functions of Language* and *Cognitive Linguistics*.
+
 [^5]: Geeraerts, *Diachronic Prototype Semantics: A Contribution to Historic Lexicology* (Oxford: Clarendon Press, 1997), 7.
+
 [^6]: On this, see D. Geeraerts, “A Rough Guide to Cognitive Linguistics,” in *Cognitive Linguistics: Basic Readings* (ed. D. Geeraerts; Berlin: de Gruyter, 2006), 5–6.
 
 *[p. 4]* ^pg11
@@ -326,8 +329,11 @@ These metaphorical structures establish patterns of understanding, and are often
 The UP-DOWN schema is particularly relevant to our discussion. This schema maps abstractions conceptualized in terms of a vertical relationship. The UP-DOWN schema most commonly reflects the 
 
 [^7]: W. Croft and D. A. Cruse, *Cognitive Linguistics* (Cambridge: Cambridge University Press, 2004), 3–4.
+
 [^8]: This distinguishes cognitive linguistics from generative grammar, which subordinates the level of language usage to the level of structure. In cognitive linguistics, language structure and usage occur at the same level. Cf. Geeraerts and Cuyckens, “Introducing Cognitive Linguistics,” in *The Oxford Handbook of Cognitive Linguistics*, 3–7.
+
 [^9]: Langacker, *Concept, Image, and Symbol: The Cognitive Basis of Grammar. Second Edition* (Berlin: de Gruyter, 2002), xv. Langacker elsewhere describes “construal” as “our multifaceted capacity to conceive and portray the same situation in alternate ways” (Langacker, “Cognitive Grammar,” in *The Oxford Handbook of Cognitive Linguistics*, 435).
+
 [^10]: For recent discussion, see the essays in B. Hampe, ed., *From Perception to Meaning: Image Schemas in Cognitive Linguistics* (Berlin: de Gruyter, 2005). Schemas are also called “conceptual metaphors” (cf. G. Lakoff, “Image Metaphors,”
 
 *[p. 5]* ^pg12
@@ -371,6 +377,7 @@ Fig. 1.2
 As an example, if someone at work says, “Man, it feels like a Monday,” an adequate understanding of the speaker’s meaning is not achieved by awareness of the dictionary definition of Monday as “The day following Sunday and preceding Tuesday, traditionally regarded as the second day of the week, 
 
 [^12]: There is also not a sharp boundary separating the two kinds of knowledge. See Croft and Cruse, *Cognitive Linguistics*, 30; Geeraerts, “Prototype Theory: Prospects and Problems of Prototype Theory,” in *Cognitive Linguistics: Basic Readings*, 142–43. For encyclopedic knowledge, see J. R. Taylor, *Linguistic Categorization: Prototypes in Linguistic Theory* (Oxford: Clarendon Press, 1995), 81–98; R. W. Langacker, *Foundations of Cognitive Grammar. Volume 1* (Stanford, Calif.: Stanford University Press, 1987), 154–66. See also Wardlaw, *Conceptualizing Words for “God”,* 31–33.
+
 [^13]: “Context, Cognition, and Semantics,” in *Job 28: Cognition in Context* (Leiden: Brill, 2003), 188.
 
 *[p. 7]* ^pg14
@@ -380,8 +387,11 @@ but now frequently considered the first (following the weekend).”[^14] Rather,
 This all contributes to an understanding of meaning as “the accessing of a cognitive structure embedded in patterns of knowledge and belief.”[^15] When a statement is heard, the hearer intuitively hierarchizes the conceptual structures that they have come to understand to be symbolized by that semantic unit in order to *profile*, or designate, a particular sense as the most likely intended sense. The following describes some of the models that have been proposed to illustrate the conceptual structures our minds use to construe linguistic content and determine meaning. This section will incorporate theories associated with the fields of cognitive grammar[^16] and cognitive semantics.[^17] 
 
 [^14]: This definition comes from the online *Oxford English Dictionary* (http://www.oed.com).
+
 [^15]: Wardlaw, *Conceptualizing Words for “God”*, 26; cf. Taylor, *Linguistic Categorization*, 83.
+
 [^16]: Cognitive grammar views language as reducible to three kinds of entities: (1) phonological structure, or the aural/visual expression of language; (2) semantic structure, or the meaning of an expression; and (3) the symbolic relation, or the mutual symbolic invocation of each by the other. In other words, a spoken or written word, phrase, or clause maintains a symbolic association with a semantic structure. This differs from other grammatical theories in rejecting the central and independent function of syntax. For cognitive grammarians, syntax is one of the symbolic relationships that mediate phonological and semantic structures. See J. R. Taylor, *Cognitive Grammar* (Oxford: Oxford University Press, 2002), 20–26; cf. R. W. Langacker, *Cognitive Grammar: A Basic Introduction* (Oxford: Oxford University Press, 2008), 14–26.
+
 [^17]: Like cognitive grammar, cognitive semantics rejects the traditional division of linguistics into phonology, syntax, and pragmatics, instead focusing on semantics (meaning) as *meaning construction* and *knowledge representation*. Meaning, rather than being formulaic and binary, is conceptual and nuanced. For a helpful introduction, see L. Talmy, *Toward a Cognitive Semantics. Volume 1: Conceptual Structuring Systems* (Cambridge, Mass.: MIT Press, 2000).
 
 *[p. 8]* ^pg15
@@ -391,8 +401,11 @@ This all contributes to an understanding of meaning as “the accessing of a cog
 Fig. 1.3 
 
 [^18]: Langacker, *Foundations of Cognitive Grammar*, 1.183.
+
 [^19]: “A central principles of cognitive semantics is that concepts do not occur as isolated, atomic units in the mind, but can only be comprehended (by the speaker as well as by the analyst) in a context of presupposed, background knowledge structures” (T. C. Clausner and W. Croft, “Domains and Image Schemas,” *CogLing* 10.1 \[1999\]: 2).
+
 [^20]: The profile is not to be confused with an expression’s referent (Taylor, *Cognitive Grammar*, 194). The former is a conceptualization that inhabits a mental space, while the latter is an instantiation in the real world of that concept. This organization of conceptual structures originated with a theory called Frame Semantics, which was pioneered primarily by Charles J. Fillmore in the 1970s and 80s (Fillmore, “An Alternative to Checklist Theories of Meaning,” in *Proceedings of the First Annual Meeting of the Berkeley Linguistics Society* \[ed. C. Cogen et al.; Berkeley: Berkeley Linguistics Society, 1975\], 123–31; Fillmore, “Frame Semantics,” in *Linguistics in the Morning Calm* \[Seoul: Hanshin Publishing Company, 1982\], 111–37; Fillmore, “Frames and the Semantics of Understanding,” *QS* 6 \[1985\]: 222–54). Cf. Croft and Cruse, *Cognitive Linguistics*, 7–
+
 [^21]: This example is used as an illustration in several publications: Langacker, *Foundations of Cognitive Grammar*, 1.86–87; Croft and Cruse, *Cognitive Linguistics*, 14–16; Wardlaw, *Conceptualizing Words for “God”,* 29–30.
 
 *[p. 9]* ^pg16
@@ -406,6 +419,7 @@ The concept of *aunt* is profiled against a more complicated kinship system (Fig
 Fig. 1.5 
 
 [^22]: Taylor, *Cognitive Grammar*, 195.
+
 [^23]: This and the following images are adapted from R. W. Langacker, “Theory, Method, and Description in Cognitive Grammar: A Case Study,” in *Cognitive Linguistics Today* (ed. B. Lewandowska-Tomaszczyk and P. James Melia; Frankfurt am Main: Peter Lang, 2002), 15–16.
 
 *[p. 10]* ^pg17
@@ -415,9 +429,13 @@ Fig. 1.5
 can be conceptualized against multiple domains.[^28] Take, for instance, the earlier example using the notion of Monday drudgery. The profile and base of *Monday* may be illustrated as follows: 
 
 [^24]: Taylor, *Cognitive Grammar*, 195–203. Other linguists do not distinguish between a base and a domain: Langacker, *Foundations of Cognitive Grammar*, 1.147–56; Croft and Cruse, *Cognitive Linguistics*, 24–32; Wardlaw, *Conceptualizing Words for “God”,* 28–31.
+
 [^25]: “The term ‘domain’ implies a degree of cognitive independence not found in a dimension \[base\]” (Croft and Cruse, *Cognitive Linguistics*, 25).
+
 [^26]: Taylor, *Cognitive Grammar*, 195–96.
+
 [^27]: For the question of the domain for *human body*, see Langacker, *Foundations of Cognitive Grammar*, 1.147–54.
+
 [^28]: Taylor, *Cognitive Grammar*, 196–201.
 
 *[p. 11]* ^pg18
@@ -429,6 +447,7 @@ In order for our statement to be adequately understood, the domains of the Weste
 Fig. 1.7 
 
 [^29]: This is for illustrative purposes only. I am not identifying specific domains.
+
 [^30]: G. Lakoff’s term for this configuration is Ideal Cognitive Model, or ICM (*Women, Fire, and Dangerous Things: What Categories Reveal about the Mind* \[Chicago: University of Chicago, 1987\], 68–76), but “matrix” has been more common in the scholarship (Croft and Cruse, *Cognitive Linguistics*, 25–27).
 
 *[p. 12]* ^pg19
@@ -444,6 +463,7 @@ Fig. 1.8
 A simple example that involves a variety of domains is that of the term *mother*.[^32] G. Lakoff 
 
 [^31]: Langacker, *Foundations of Cognitive Grammar*, 1.165.
+
 [^32]: See, originally, Lakoff, *Women, Fire, and Dangerous Things*, 74–76, 79–89; cf. Taylor, *Linguistic Categorization*, 86–87; Croft and Cruse, *Cognitive Linguistics*, 31.
 
 *[p. 13]* ^pg20
@@ -469,7 +489,9 @@ have natural focal areas, despite the lack of boundaries along the spectrum.[^34
 \[P\]eople form and use an idea and/or image of the category that represents the category to them, and which is more like (or more easily generates) the good than the poorer examples of the category. That representation often serves as the reference point to which people refer when performing tasks relevant to the category, such as identifying something as a member of the category or using the category in some other way.[^36] 
 
 [^34]: Rosch explains, “For English speakers, some colors are judged better examples of basic color names than others, and the better an example a color is, the shorter the time it takes to name it, the better the memory for the color in memory tests, and, for children, the earlier the color name is learned” (Rosch, “‘Slow Lettuce,’” 94). The findings were the same for the Dani tribe in New Guinea, who do not have terms for different hues in their language. See also B. Berlin and P. Kay, *Basic Color Terms* (Berkeley: University of California Press, 1969); E. R. Heider, “‘Focal’ Color Areas and the Development of Color Names,” *DevPsych* 4 (1971): 447–55; Rosch, “On the Internal Structure of Perceptual and Semantic Categories,” in *Cognitive development and the Acquisition of Language* (ed. T. E. Moore; New York: Academic Press, 1973), 111–44; Mervis, Catlin, and Rosch, “Development of the Structure of Color Categories,” *DevPsych* 11 (1975): 54–60; Rosch, “Cognitive Representations of Semantic Categories,” 192–233.
+
 [^35]: Rosch, “Cognitive Representations of Semantic Categories,” 197–99.
+
 [^36]: Rosch, “‘Slow Lettuce,’” 99.
 
 *[p. 15]* ^pg22
@@ -481,8 +503,11 @@ It is thus similarity to a prototype that determines membership in a category,[^
 Fig. 1.9 
 
 [^37]: The notion of “similarity” is itself quite a complicated concept that will not be dealt with here. See J. A. Hampton, “Associative and Similarity-Based Processes in Categorization Decisions,” *MemCog* 25 (1997): 625–40.
+
 [^38]: This approach has been universal since Aristotle. Taylor provides a helpful summary of this method of categorization (Taylor, *Linguistic Categorization*, 21–37). He identifies four basic assumptions inherent in that method (23–24): (1) “Categories are defined in terms of a conjunction of necessary and sufficient features”; (2) “Features are binary”; (3) “Categories have clear boundaries”; (4) “All members of a category have equal status.”
+
 [^39]: Describing developments in the field of prototype theory, P. Violi states, “It became clear that it was not possible, at least for semantic applications, to think of the prototype as the concrete instance of the most prototypical member of any given category, and consequently as a real individual. Instead, it was necessary to turn it into a mental construal: an abstract entity made up of prototypical properties. In his way the prototype, being the result of a mental construction, frees itself from any concrete evidence, and as such may well never be actualized in reality as any real instance” (Violi, “Prototypicality, Typicality, and Context,” in *Meaning and Cognition: A Multidisciplinary Approach* \[ed. L. Albertazzi; Amsterdam: John Benjamins, 2000\], 107).
+
 [^40]: This is limited to the basic level of categorization, which is the first level of categorization learned in childhood, the most common level used in language and cognition (Rosch, et al., “Basic Objects in Natural Categories,” 383–84; Taylor, *Linguistic Categorization*, 48–51), and the level indicated by default throughout this thesis. The superordinate level of categorization brings together more disparate concepts that cannot be consolidated within a single illustration. One cannot draw an outline of the categories *animal* or *furniture*, but one can easily draw an outline of a *dog* or a *chair*. At the subordinate level, where we would find *mallard* or *beanbag chair*, there is a degree of specification that requires more detailed conceptualization. Prototype effects are found at each level, but we are concerned primarily with the basic level.
 
 *[p. 16]* ^pg23
@@ -494,8 +519,11 @@ Three particularly relevant axioms have developed out of this approach to catego
 reflect underlying conceptual mappings in which people metaphorically conceptualize of vague, abstract domains of knowledge (e.g., time, causation, spatial orientation, ideas, emotions, concepts of understanding) in terms of more specific, familiar, and concrete knowledge (e.g., embodied experiences).[^44] 
 
 [^41]: W. Kempton, *The Folk Classification of Ceramics: A Study of Cognitive Prototypes* (New York: Academic Press, 1981).
+
 [^42]: See, for instance, G. Lakoff and M. Johnson, *Metaphors We Live By* (Chicago: University of Chicago, 1980); Lakoff, “The Contemporary Theory of Metaphor,” in *Metaphor and Thought. Second Edition* (ed. A. Ortony; Cambridge: Cambridge University Press, 1993), 202–51; M. Tendahl and R. Gibbs, “Complementary Perspectives on Metaphor: Cognitive Linguistics and Relevance Theory,” *JPrag* 40 (2008): 1823–64.
+
 [^43]: “Metaphor is the nexus of mind and language” (Tendahl & Gibbs, “Complementary Perspectives on Metaphor,” 1823).
+
 [^44]: Gibbs, “Cognitive Linguistics and Metaphor Research: Past Successes, Skeptical Questions, Future Challenges,” *DELTA* 22 (2006): 3–4. See also M. DesCamp and E. Sweetser, “Metaphors for God: Why and How Do Our Choices Matter for Humans? The Application of Contemporary Cognitive Linguistics Research to the Debate on God and Metaphor,” *PPsych*
 
 *[p. 17]* ^pg24
@@ -507,7 +535,9 @@ Obviously this bears significantly on the way the authors of the biblical texts 
 Two related concerns must be raised about the study of the metaphorical representation of deity in the Hebrew Bible. First, it has become standard within confessional scholarship, and even some critical scholarship, to insist that God is described within the Bible through metaphor because the nature of deity is transcendent and indescribable. Thus, anthropomorphism and corporeality are just consciously inadequate ways of approximating communication of the incommunicable. T. Jacobsen was an early proponent of this notion, writing that metaphors “constitute the only means if communicating the experience of the Numinous.”[^46] M. Korpel, writing in 1990 about Ugaritic and Biblical descriptions of deity, asserted that anthropomorphic presentations of the Israelite deity were “merely a way of speaking.”[^47] M. Klingbeil manifests a similar approach in his treatment of YHWH as warrior fighting from heaven, stating that anthropomorphism “has to be seen in terms of an interactive act of speech that hints at the literally inexplicable realities connected with the character 
 
 [^45]: M. DesCamp and E. Sweetser identify forty-four separate metaphors for God in the Hebrew Bible and fifty in the New Testament. Space limits their analysis of Hebrew Bible metaphors to the most significant six: God is (1) potter, (2) king, (3) rock, (4) bear, (5) woman, and (6) father (DesCamp and Sweetser, “Metaphors for God,” 226–29).
+
 [^46]: T. Jacobsen, *The Treasures of Darkness: A History of Mesopotamian Religion* (New Haven, Conn.: Yale, 1976), 3–4.
+
 [^47]: M. Korpel, *A Rift in the Clouds: Ugaritic and Hebrew Descriptions of the Divine* (Münster: Ugarit-Verlag, 1990), 627.
 
 *[p. 18]* ^pg25
@@ -519,7 +549,9 @@ This approach has been met in recent years with significant criticism. First, th
 The second concern treats the dichotomy of literalness and metaphor. Traditional exegesis tends to assign anything and everything to figurative speech that does not fit into a contemporary philosophical view of deity as incorporeal, omniscient, and omnipresent. This obviously has more to do with theological presuppositions than with any criteria for distinguishing the literal from the figurative, but the practice shines a light on the lack of any such criteria. What is metaphor, exactly, 
 
 [^48]: M. Klingbeil, *Yahweh Fighting from Heaven: God as Warrior and as God of Heaven in the Hebrew Psalter and Ancient Near Eastern Iconography* (Switzerland: University Fribourg, 1999), 23.
+
 [^49]: M. Z. Brettler, *God is King: Understanding an Israelite Metaphor* (Sheffield: Sheffield Academic Press, 1989).
+
 [^50]: D. Aaron’s 2001 investigation of metaphor and descriptions of the divine raises the same concern: “If humans cannot accommodate ideas about or descriptions of the deity except through figurative forms of speech, how does the human intellect manage to perceive what it is that it is supposed to describe?” (Aaron, *Biblical Ambiguities: Metaphor, Semantics and Divine Imagery* \[Leiden: Brill, 2001\], 35). Apophatic theology, or theology that describes God in terms of what he is *not*, is entirely alien to the biblical perspectives.
 
 *[p. 19]* ^pg26
@@ -541,8 +573,11 @@ An Academy Colloquium held in Amsterdam in 2002, entitled “The Book of Job: Su
 Lexicology has benefited the most from the incorporation of cognitive linguistics, with several publications coming out of C. H. J. van der Merwe’s projects at the University of Stellenbosch in South 
 
 [^53]: Cf. Clines, “The Challenge of Hebrew Lexicography Today,” in *Congress Volume, Ljubljana 2007* (ed. A. Lemaire; Leiden: Brill, 2010), 87–98.
+
 [^54]: Van Wolde, “A Text-Semantic Study of the Hebrew Bible, Illustrated with Noah and Job,” *JBL* 113.1 (1994): 19–35.
+
 [^55]: For example, Aaron, *Biblical Ambiguities*, 3–4; C. H. J. van der Merwe, “Some Recent Trends in Biblical Hebrew Linguistics: A Few Pointers Towards a More Comprehensive Model of Language Use,” *HS* 44 (2003), 20–24; van der Merwe, “Biblical Exegesis, Cognitive Linguistics and Hypertext,” in *Congress Volume, Leiden 2004* (ed. A. Lemaire; Leiden: Brill, 2006), 255–80; DesCamp, *Metaphor and Ideology*; van der Merwe, “A Cognitive Linguistic Perspective on הִנֵּה in the Pentateuch, Joshua, Judges, and Ruth,” *HS* 48 (2007): 101–40; Wardlaw, *Conceptualizing Word for*; R. Williamson, Jr., “Pesher: A Cognitive Model of the Genre,” *DSD* 17 (2010): 307–31; D. L. Rodriguez, “תחת: A Cognitive Linguistic Analysis of the Biblical Hebrew Lexeme” (PhD diss., University of Stellenbosch, 2011).
+
 [^56]: The published volume is *Job 28: Cognition in Context*. Cf. van Wolde, “Cognitive Linguistics and the Hebrew Bible: Illustrated with a Study of Job 28 and Job 38,” in *The Professorship of Semitic Languages at Uppsala University 400 years* (ed. B. Isaksson, et al.; Uppsala: Uppsala University, 2007), 247–77.
 
 *[p. 21]* ^pg28
@@ -556,7 +591,9 @@ Wardlaw’s investigation begins with the question, “What do the key terms י�
 within the MT of the Pentateuch in the context of translating the Christian canon into minority languages?”[^59] The foundation for answering this question is laid in the introduction in three sections. First, Wardlaw isolates the word “meaning” and offers comments about what a cognitive approach has to say, specifically about lexical meaning in proper nouns. In the second section, he explains his reasoning for settling on the final canonical shape of the Pentateuch as the locus for meaning. For Wardlaw, the fixed literary context of the final canon is more firm a foundation from a 
 
 [^57]: In addition to the dissertation mentioned above in n. 58, see van der Merwe, “Towards a Principled Working Model for Biblical Hebrew Lexicology,” *JNSL* 30.1 (2004): 119–37; van der Merwe, “Biblical Hebrew Lexicology: A Cognitive Linguistic Perspective,” in *KUSAT* 6 (2006): 87–112; van der Merwe, “Lexical Meaning in Biblical Hebrew and Cognitive Semantics: A Case Study,” *Bib* 87.1 (2006): 85–95; C. L. Miller-Naudé and van der Merwe, “הִנֵּה and Mirativity in Biblical Hebrew,” *HS* 52 (2011): 53–81; Tiana Bosman, “Biblical Hebrew Lexicology and Cognitive Semantics: A Study of Lexemes of Affliction” (PhD diss., University of Stellenbosch, 2011).
+
 [^58]: Williamson, “Pesher”; Newsom, “Pairing Research Questions and Theories of Genre: A Case Study of the Hodayot,” 270–88; B. G. Wright III, “Joining the Club: A Suggestion about Genre in Early Jewish Texts,” 289–314; J. J. Collins, “Epilogue: Genre Analysis and the Dead Sea Scrolls,” 418–30.
+
 [^59]: Wardlaw, *Conceptualizing Words for “God”*, 1.
 
 *[p. 22]* ^pg29
@@ -582,7 +619,9 @@ I begin this section by contrasting my own approach with that of Wardlaw. Four m
 This last choice merits further discussion. Wardlaw makes a great deal out of his decision to 
 
 [^62]: I dedicate the second chapter to discussion of the conceptualization of YHWH, and the third to the generic concept of deity. YHWH is the Israelite prototype for deity and thus must form the conceptual reference point for any exploration of its periphery.
+
 [^63]: I will prioritize those readings where deity apart from YHWH is described or where an aspect of YHWH’s divinity can be correlated with a more generic concept found elsewhere, whether within the biblical or cognate literature.
+
 [^64]: Burnett, *A Reassessment of Biblical Elohim* (Atlanta, Ga.: Society of Biblical Literature, 2001).
 
 *[p. 24]* ^pg31
@@ -592,8 +631,11 @@ prioritize the final shape of the biblical text. While this is prompted in part 
 While I am in agreement that Israel’s idiosyncratic conceptualization of deity can be muted when comparative data is given too much weight in exegesis,[^68] a canonical approach is by no means immune from such “leveling,” although it occurs on a diachronic as well as a synchronic level. In a canonical approach, the regional and authorial differences within the text are largely overlooked in the interest of a univocal reading. Every section of text is read as a deliberate participant in the greater rhetorical message. A canonical approach also places the locus of meaning at the final shape of the text, in the editorial and redactional, rather than the compositional, stages. While the Pentateuch enjoyed a high degree of authoritativeness and stability much earlier than subsequent sections of the Hebrew Bible, the evidence from the Septuagint, the Dead Sea Scrolls, and even the Samaritan 
 
 [^65]: He states, “the present investigation is not a rejection of either comparative philology or source criticism since both of these approaches have their place in biblical exegesis. Rather, the present investigation aims to use cognitive linguistics in conjunction with a literary approach on the grounds that these methods are best-suited for describing the meaning of words for ‘God’ for the purpose of translating the text of the Pentateuch into minority languages” (Wardlaw, *Conceptualizing Words for “God”,* 4). His criticisms of a purely comparative-philological approach have merit, although I must disagree with his marginalization of historical criticism.
+
 [^66]: Wardlaw, *Conceptualizing Words for “God”*, 12.
+
 [^67]: Wardlaw, *Conceptualizing Words for “God”*, 13.
+
 [^68]: Despite this concern, the earliest conceptualizations of deity will be shown to have derived from the broader Semitic culture, with more idiosyncratic perspectives developing later in time.
 
 *[p. 25]* ^pg32
@@ -603,7 +645,9 @@ Pentateuch still show a degree of textual instability even into the Common Era.[
 My decision to isolate textual units from their canonical context also affects that way I understand their literary contextualization. Wardlaw’s principles of narrative linearity and cumulative reading knowledge bring all preceding scriptural texts to bear on each semantic unit, and he emphasizes the contextual dominance of very early themes like creation and covenant. [^71] Because I am not approaching the text canonically—and because readers in the time periods I am examining did not consume the texts in the same rapid and chronological way they did after the formation of the canon—I do not feel compelled to give the creation account of [[Torah 01 - Bereshit#^1-1|Genesis 1]] and other textually distant themes prominence of place in every passage I exegete. Rather, I believe the immediate context must be prioritized in determining salient semantic domains. Other domains will be considered activated 
 
 [^69]: The definitive work on textual criticism is E. Tov, *Textual Criticism of the Hebrew Bible. Third Edition, Revised and Expanded* (Minneapolis, Minn.: Fortress Press, 2012). On the specific witness of the Dead Sea Scrolls to the shape of the Hebrew Bible, see the essays in P. W. Flint, ed., *The Bible at Qumran: Text, Shape, and Interpretation* (Grand Rapids, Mich.: Eerdmans, 2001), and A. Lange, “The Dead Sea Scrolls and the Date of the Final Stage of the Pentateuch,” in *On Stone and Scroll: Essays in Honour of Graham Ivor Davies* (ed. J. K. Aitken, et al.; Berlin: De Gruyter, 2011), 287–304. For the Septuagint, see A. Schenker, ed., *The Earliest Text of the Hebrew Bible: The Relationship between the Masoretic Text and the Hebrew Base of the Septuagint Reconsidered* (Atlanta, Ga.: Society of Biblical Literature, 2003). Cf. J. Sanderson, *An Exodus Scroll from Qumran: 4QpaleoExod*<sup>m</sup> *and the Samaritan Tradition* (Atlanta, Ga.: Scholars Press, 1986); N. Jastram, “A Comparison of Two ‘Proto-Samaritan’ Texts from Qumran: 4QpaleoExod<sup>m</sup> and 4QNum<sup>b</sup>,” *DSD* 5.3 (1998): 264–89.
+
 [^70]: As an example, Wardlaw provides three possible interpretations for the phrase אלהים בני in [[Torah 01 - Bereshit#^6-2|Gen 6:2]], [[Torah 01 - Bereshit#^6-4|4]]. It refers to (1) angels; (2) the Sethites; or (3) human rulers (Wardlaw, *Conceptualizing Words for “God”,* 111–12). All three of these readings date originally to the first few centuries of the Common Era. Because Wardlaw marginalizes comparative data, he cannot appeal to the same phrase in the Ugaritic or other literature (cf. S. Y. Cho, *Lesser Deities in the Ugaritic Texts and the Hebrew Bible: A Comparative Study of Their Nature and Roles* \[Piscataway, NJ: Gorgias Press, 2007\], 112–23; R. M. M. Tuschling, *Angels and Orthodoxy* \[Tübingen: Mohr Siebeck, 2007\], 87). Instead, Wardlaw appeals to the use of אלהים in [[I Samuel 28#^28-13|1 Sam 28:13]], suggesting the sense of “spirit” is intended with אלהים בני. This, he says, is in agreement with the early and contemporary interpretations of the passages as references to angels. This is problematic in light of the fact that [[I Samuel 18#^18-1|1 Samuel 18]] is subsequent to, and quite distant from, [[Torah 01 - Bereshit#^6-2|Gen 6:2]], [[Torah 01 - Bereshit#^6-4|4]]. Wardlaw is violating his principle of narrative linearity and is proposing a historical understanding that sits “behind the text” (where he does not think the exegete should go; cf., for instance, pp. 62, 97, 129. Wardlaw’s explanation of “characterization by epithet” on pp. 278–79 cannot account for the distance here).
+
 [^71]: For instance, “in Genesis אלהים is the Creator who is sovereign over the heavens and the earth, omnipotent, and purposes to work that which is good \[Gen 1:1–2:3\]. This is likely a macroproposition within the text-base” (Wardlaw, *Conceptualizing Words for “God”,* 279).
 
 *[p. 26]* ^pg33
@@ -615,7 +659,9 @@ Because I hope to identify diachronic and synchronic differences, I favor a hist
 While traditional approaches to source criticism of the Pentateuch identify four broad sources, JEDP,[^74] I adopt in this thesis the recent Continental skepticism regarding the identification of J and E 
 
 [^72]: P. Viviano, “Source Criticism,” in *To Each Its Own Meaning* (ed. S. McKenzie; Lousiville, Kent.: Westminster John Knox, 1999), 35–57; S. Boorer, “Source and Redaction Criticism,” in *Methods for Exodus* (ed. T. Dozeman; Cambridge: Cambridge University Press, 2010), 95–130.
+
 [^73]: J. H. Tigay, “An Empirical Basis for the Documentary Hypothesis,” *JBL* 94.3 (1975): 329–42; Tigay, ed., *Empirical Models for Biblical Criticism* (Pennsylvania: University of Pennsylvania Press, 1985); Z. Talshir, “The Contribution of Diverging Traditions Preserved in the Septuagint to Literary Criticism of the Bible,” in *VIII Congress of the International Organization for Septuagint and Cognate Studies, Paris 1992* (Atlanta, Ga.: Scholars Press, 1995), 21–41; D. Carr, *Reading the Fractures of Genesis: Historical and Literary Approaches* (Louisville, Kent.: Westminster John Knox, 1996), 23–39; M. Zahn, “Reexamining Empirical Models: The Case of [[Torah 15 - Bo#^13-1|Exodus 13]],” in *Das Deuteronomium zwischen Pentateuch und Deuteronomistischem Geschichtswerk* (ed. E. Otto; Göttingen: Vandenhoeck & Ruprecht, 2004), 36–55.
+
 [^74]: The Yahwist, the Elohist, the Priestly source, and the Deuteronomist. For recent discussions of these sources and their identification, see C. Levin, *Der Jahwist* (Göttingen: Vandenhoeck & Ruprecht, 1993); J. S. Baden, *J, E, and the Redaction of the Pentateuch* (Tübingen: Mohr Siebeck, 2009); M. S. Smith, *The Priestly Vision of [[Torah 01 - Bereshit#^1-1|Genesis 1]]* (Minneapolis, Minn.: Fortress Press, 2010); T. Römer, *The So-Called Deuteronomistic History: A Sociological, Historical and Literary Introduction* (London: T&T Clark, 2007); Carr, *The Formation of the Hebrew Bible: A New Reconstruction* (Oxford: Oxford University Press, 2011).
 
 *[p. 27]* ^pg34
@@ -625,10 +671,15 @@ as anything more than scattered narrative fragments in Genesis.[^75] J and E do 
 Next, it must be acknowledged that the interpretation of a text as multifaceted and 
 
 [^75]: T. B. Dozeman and K. Schmid, eds., *A Farewell to the Yahwist? The Composition of the Pentateuch in Recent European Interpretation* (Leiden: Brill, 2006); and T. B. Dozeman, K. Schmid, and B. J. Schwartz, eds., *The Pentateuch: International Perspectives on Current Research* (Tübingen: Mohr Siebeck, 2011). The debate regarding the existence of J and E is ongoing and cannot be fully summarized or engaged here. For the most recent arguments in favor of traditional sources, see Baden, *The Composition of the Pentateuch: Renewing the Documentary Hypothesis* (New Haven, Conn.: Yale University Press, 2012).
+
 [^76]: In other words, there was no “pre-Priestly Pentateuch.” Several scholars have recently argued that P appears to be the first redactor to join the patriarchal and exodus traditions. See E. Blum, “The Literary Connections between the Books of Genesis and Exodus and the End of the Book of Joshua,” in *A Farewell to the Yahwist?* 89–106; and R. Hendel, “Is the ‘J’ Primeval Narrative an Independent Composition? A Critique of Crtisemann’s ‘Die Eigenstandigkeit der Urgeschichte,’” in *The Pentateuch*, 181–205.
+
 [^77]: A convenient delineation of the Priestly source in recent years is found in P. Guillaume, *Land and Calendar: The Priestly Document from [[Torah 01 - Bereshit#^1-1|Genesis 1]] to [[Joshua 18#^18-1|Joshua 18]]* (New York: T&T Clark, 2009). In addition to separating and translating the entire P document, Guillaume provides delimitations of P according to Lohfink, Pola, and Frevel (pp. 193–95).
+
 [^78]: I use “Deuteronomic” to refer to the material within Deuteronomy, and “Deuteronomistic” to refer to non-Pentateuchal material reflecting the same “school” of thought. For further discussion, see R. Coggins, “What Does ‘Deuteronomistic’ Mean?” in *Those Elusive Deuteronomists: The Phenomenon of Pan-Deuteronomism* (ed. L. S. Schearing and S. L. McKenzie; Sheffield: Sheffield Academic Press, 1999), 22–35.
+
 [^79]: On this, see R. Nelson, “The Double Redaction of the Deuteronomistic History: The Case is Still Compelling,” *JSOT* 29.3 (2005): 319–37; Römer, *The So-Called Deuteronomistic History*; J. C. Geoghegan, *The Time, Place, and Purpose of the Deuteronomistic History: The Evidence of “Until This Day”* (Providence, RI: Brown Judaic Studies, 2006).
+
 [^80]: Particularly relevant to our discussion will be [[Psalms 082#^82-1|Psalm 82]], which I assign to the exilic period based on its literary and thematic continuity within the Psalms of Asaph. On this, see F.-L. Hossfeld and E. Zenger, *[[Psalms 002#^2-1|Psalms 2]]: A Commentary on [[Psalms 051#^51-1|Psalms 51]]–100* (Minneapolis, Min.: Augsburg Fortress, 2005), 332; C. Jones, “The Psalms of Asaph: A Study of the Function of a Psalm Collection” (PhD diss., Baylor University, 2009).
 
 *[p. 28]* ^pg35
@@ -640,6 +691,7 @@ I turn now to the application of cognitive linguistics to the biblical text. As 
 Obviously a modern reader of the Hebrew Bible cannot survey native speakers of Biblical Hebrew, and we are limited regarding what has been preserved down to us. I must thus make use of whatever evidence is available, from biblical and cognate textual evidence to material remains from Israel and the surrounding environs.[^81] There is always a danger in trying to synthesize material and textual data, especially in regards to ideology, but I believe the greater danger is in neglecting one in favor of the other.[^82] I do not presume to be able to be at all comprehensive in my analysis. My goal is to gather from our understanding of the human mind and from the biblical text enough data to (1) identify the 
 
 [^81]: Wardlaw’s approach is basically to delineate the biblical text as the available encyclopedia of knowledge, thus producing an artificial, but canonically self-contained, literary context. Obviously such a context is not entirely self-contained, as much of our knowledge of Hebrew idioms and literary conventions comes from comparative study (and modern conservative dogmas also play a role in Wardlaw’s exegesis).
+
 [^82]: A recent contribution that shows sensitivity to the necessary methodological cautions is F. Stavrakopoulou and J. Barton, eds., *Religious Diversity in Ancient Israel and Judah* (London: T&T Clark, 2010).
 
 *[p. 29]* ^pg36
@@ -679,6 +731,7 @@ as the result of theological reflection or innovation, uniquely Yahwistic or Isr
 It has long been a truism in the study of religion that concepts of deity developed out of attempts by early humans to explain the world and its natural phenomena.[^3-p31] We do not know the details of this process, but research has provided empirical evidence for an innate cognitive mechanism that accounts at least for its catalyst. This research, as we will see, suggests that evolution has hardwired 
 
 [^2-p31]: Biblical exegesis relies in many ways on the speculative interpretation of symbols belonging to a vastly different time and culture. Scholars do their best to acknowledge and overcome subjective interpretive lenses, but large portions of the ancient worldviews are still beyond retrieval. Scholars are thus forced to formulate cultural models and theories based in large part on assumptions about what symbols mean. The cognitive study of religion, however, has shown that some religious symbols are the products of universal functions of human cognition, and can operate independent of cultural influence. With this approach we must still accept that human cognition has not fundamentally changed in the last two or three thousand years, but, as will be shown, there is ample evidence to support this conclusion.
+
 [^3-p31]: S. Guthrie, “Why Gods? A Cognitive Theory,” in *Religion in Mind: Cognitive Perspectives on Religion Belief, Ritual, and Experience* (ed. J. Andresen; Cambridge: Cambridge University Press, 2001), 94.
 
 *[p. 32]* ^pg39
@@ -688,6 +741,7 @@ the human mind to be predisposed to attribute unknown events to some intentional
 *2.1.1 Anthropomorphism* One of the broadest of these theories comes from Stewart Guthrie, who advocates for a universal anthropomorphic bias based on perceptual schemas. According to his theory, humans will interpret the ambiguous in terms of what is most familiar and important to them, namely other humans. He states, “perception is interpretation; interpretation aims at significance; and the most significant 
 
 [^4-p32]: While the cognitive science of religion is a relatively new discipline, the research found in this chapter comes from leaders in the field who are held in high esteem by their colleagues. See, for example, comments from two reviews of Pascal Boyer’s book *Religion Explained: The Evolutionary Origins of Religious Thought* (New York: Basic Books, 2002) comment: “The subtle process Boyer outlines . . . can resolve many paradoxes in cognitive psychology, and deserves to be incorporated into basic research in the field” (L. Cosmides and J. Tooby, “Review of Pascal Boyer, *Religion Explained: The Evolutionary Origins of Religious Thought*,” *JCogCul* 3.1 \[2003\]: 109–13); and “Pascal Boyer is one of the leading figures in the cognitive psychology of religion. . . . This is a tremendously important book, and anyone interested in promising new currents in the psychology of religion should read it” (J. Bulbulia, “‘Unweaving the Religious Mind’: A Review of Pascal Boyer, *Religion Explained: The Evolutionary Origins of Religious Thought*,” *Eras* 4 \[2002\]).
+
 [^5-p32]: As far as we can tell, no culture has ever held to an atheistic worldview. Atheism has existed for millennia, but always as a segment of a culture based on religious ideas. See P. Bloom, “Religious Belief as an Evolutionary Accident,” in *The Believing Primate: Scientific, Philosophical, and Theological Reflections on the Origin of Religion* (ed. J. Schloss and M. J. Murray; Oxford: Oxford University Press, 2009), 118; cf. J. Barrett, *Why Would Anyone Believe in God?* (Landham, MD: AltaMira Press, 2004), 108.
 
 *[p. 33]* ^pg40

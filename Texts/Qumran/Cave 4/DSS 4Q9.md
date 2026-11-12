@@ -22,14 +22,14 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Gen 41:15-18 |
-| Frag. 6 | Gen 43:38 - 43:2 |
 | Frag. 2 i | Gen 41:23-27 |
-| Frag. 7-8 | Gen 43:5-8 |
 | Frag. 3-4 | Gen 41:29-36 |
-| Frag. 9 i-10 | Gen 45:14-22 |
 | Frag. 2 ii | Gen 41:38-43 |
-| Frag. 9 ii | Gen 45:26-28 |
 | Frag. 5 | Gen 42:15-22 |
+| Frag. 6 | Gen 43:38 - 43:2 |
+| Frag. 7-8 | Gen 43:5-8 |
+| Frag. 9 i-10 | Gen 45:14-22 |
+| Frag. 9 ii | Gen 45:26-28 |
 | Frag. 11-13 | ? |
 
 [[DSS 4Q8c|← 4Q8c]] · [[Qumran|index]] · [[DSS 4Q10|4Q10 →]]

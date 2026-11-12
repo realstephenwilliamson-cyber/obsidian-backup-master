@@ -67,16 +67,25 @@ One should then add together the entire sum, calculating [the groups of 1080] un
 **15.** The time of the conjunction of a year determined through the above method is the conjunction of Rosh Chodesh Tishrei. By adding 1 - 12 - 793 to this figure, one can determine the conjunction of Marcheshvan, and by adding 1 - 12 - 793 to [the conjunction of] Marcheshvan, one can determine the conjunction of Kislev. Similarly, one can determine the conjunction of all subsequent months for eternity. ^6-15
 
 [^1]: The term conjunction refers to the point when the sun, the moon and the earth are positioned in that order in a direct line. Therefore, as seen from the earth, the moon does not reflect the light of the sun. [When the sun and the moon have the same latitude (see Chapter 16) - i.e., when they are in the same plane - a conjunction is the cause of a solar eclipse. Ordinarily, however, there is a difference in latitude, and an alignment of this nature does not cause an eclipse.]
+
 [^2]: Our translation differs from the standard published text of the *Mishneh Torah*, and is based on the version found in authoritative manuscripts and early printings.  
     The term mean rate of movement refers to the average movement of the sun or the moon in angular degrees over a particular period. To explain: It was easy to calculate the number of conjunctions between one solar eclipse and another. Afterwards, this number would be multiplied by 360 (the number of degrees in a circle) and then divided by the number of years, months, days, or hours (depending on the mean one wanted to reach) that had passed between the two eclipses.  
     In fact, however, the sun - and to a much greater extent, the moon - would deviate from this mean rate of movement - i.e., the position in which they are located in the heavens differs from the position that would be reached by calculating the mean rate of progress. As is explained in the succeeding chapters, there are various ways of correcting and adjusting these mean calculations so that the actual position of these celestial bodies can be determined.
+
 [^3]: The only integer that cannot be divided into this sum is seven. The commentaries have noted that the number 360 also can be divided into all the fractions mentioned by the Rambam and question why he did not use this smaller figure.
+
 [^4]: See Chapter 9, Halachah 1, which explains that there are two views concerning whether this is an approximation or an exact figure. See also Chapter 10, Halachah 6.
+
 [^5]: As mentioned above, the Rambam is speaking about an average figure. Accordingly, this figure alone is not sufficient for the calculations of when the moon can be sighted. It is useful for structuring the fixed calendar, as explained in this and the following chapter.
+
 [^6]: *Kinat Eliyahu* suggests that the Rambam should have stated 1 - 17, since five hours after sunrise is seventeen hours after the beginning of the day.
+
 [^7]: *Tosafot, Rosh HaShanah* 8 a,b, explains that this follows the view of Rabbi Eliezer (*Rosh HaShanah* [[Rosh Hashanah 10#10b|10b]]), who states that the world was created in Tishrei. According to this conception, the conjunction for Rosh HaShanah, the day of Adam's creation, was the fourteenth hour of Friday (the second hour after sunrise). Since the first day of creation was the twenty-fifth of Elul, the year prior to that of Adam's creation is also significant. To calculate the conjunction of that year, we subtract the remainder of an ordinary year - 4 days, 8 hours, and 876 units - from six days and fourteen hours. This produces the figure cited by the Rambam.
+
 [^8]: As mentioned in Halachah 4, each ordinary lunar year is 10 days, 21 hours, and 204 units shorter than a solar year. Thus, the difference between the 12 ordinary lunar years of a nineteen-year cycle and the corresponding solar years is 130 days, 14 hours, and 288 units.  
     A lunar leap year is 18 days, 15 hours, and 589 units longer than a solar year. Thus, the difference between the seven leap years of a nineteen-year cycle and the corresponding solar years is 130 days, 12 hours, and 883 units. When this sum is subtracted from the figure mentioned in the previous paragraph, the remainder mentioned by the Rambam is reached.  
     As explained in Chapter 10, Halachah 1, there is another reckoning, which maintains that the nineteen-year cycle produces a more exact interrelation between the two calendars.
+
 [^9]: By structuring the pattern in this manner, an interrelation [albeit not a totally exact one] is established between the lunar and solar calendars in each of the years. After several years in which the number of days of the solar calendar exceeds those of the lunar calendar, a leap year reverses that pattern and establishes an approximate equivalence. In this way, we ensure that the Pesach is always celebrated after the vernal equinox.
+
 [^10]: This point of clarification is necessary, because there are certain halachic matters regarding which Nisan is considered the beginning of the year.

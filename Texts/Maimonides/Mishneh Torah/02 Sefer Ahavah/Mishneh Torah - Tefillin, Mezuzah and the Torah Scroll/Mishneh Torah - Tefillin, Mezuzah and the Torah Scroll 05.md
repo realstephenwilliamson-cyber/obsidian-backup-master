@@ -95,87 +95,155 @@ A person who rents a dwelling in the diaspora, and a person who rents[^60] a roo
 When [the tenant] leaves [the dwelling, however], he should not take it with him[^67] unless the dwelling belongs to a gentile.[^68] In that instance, he should remove it when he leaves.[^69] ^5-11
 
 [^1]: *Sefer HaMitzvot* (Positive Commandment 15) and *Sefer HaChinuch* (Mitzvah 423) consider the mitzvah of *mezuzah* to be one of the 613 mitzvot of the Torah.
+
 [^2]: The Jerusalem Talmud (*Megillah* 1:9) states that unlike a Torah scroll or *tefillin*, a *mezuzah* should be written in a single column.
+
 [^3]: approximately one centimeter
+
 [^4]: Also, a small amount of parchment should be left on the right side for the *mezuzah* to be rolled closed (*Shulchan Aruch, Yoreh De'ah* 288:1).
+
 [^5]: although this is not the desired form
+
 [^6]: i.e., wider above than below, the top lines being longer than the bottom ones
+
 [^7]: This word is not found in our text of *Menachot* [[Menachot 31#31b|31b]], the source for this halachah.
+
 [^8]: i.e., wider below than above, the bottom lines being longer than the top ones.
+
 [^9]: *Menachot* [[Menachot 31#31b|31b]].
+
 [^10]: e.g., one wrote the passage [V'hayah im shamo'a] before the passage [Shema] - it is not acceptable. - Furthermore, if even one letter from a *mezuzah* was not written in order, the *mezuzah* is unacceptable (*Shulchan Aruch, Yoreh De'ah* 288:3).  
     The *Ginat Veradim* suggests that the Rambam requires only that the order of the two passages not be reversed, but is not concerned with the order of the letters within the passages themselves. This perspective, however, is not accepted by other authorities, who explain that surely, the Rambam requires order within the passages. He gave the above example only because he felt that it was more important to emphasize that even if the passages themselves were written in order, if their order was reversed, the *mezuzah* is not acceptable.
+
 [^11]: In his Responsa (213), Rabbi Akiva Eiger writes that if the parchments were sewn together before the passages were written upon them, the *mezuzah* is acceptable.
+
 [^12]: i.e., one may not cut the passage, *Shema*, from a worn Torah scroll and write the passage, *V'hayah im shamo'a*, on the empty space below it. One may not cut both passages from the Torah scroll since, as explained above, a *mezuzah* may not be written on two different parchments (*Siftei Cohen, Yoreh De'ah* 290:1).
+
 [^13]: Though it is possible to cut the two passages from the arm *tefillin*, it is forbidden to do so.
+
 [^14]: the empty parchment left as a border above and on the sides of the Torah scroll. The *Or Sameach* notes that*Shabbat* 116a questions whether or not these empty portions of parchment have become sanctified with the holiness of a Torah scroll, and does not resolve the issue. Because of the doubt involved, the Rambam rules that in situations where the question of their holiness is raised, one should always take the more stringent perspective. Therefore, in *Hilchot Shabbat* 23:27, the Rambam rules that they should not be saved from a fire on the Sabbath if the violation of even a Rabbinic transgression is involved (accepting the possibility that they have not become consecrated). In this halachah, this approach requires accepting the possibility that they have been consecrated.
+
 [^15]: As explained in Chapter 10, Halachot 2-5 (see also *Hilchot Tefillah* 11:14), the holiness of a Torah scroll surpasses that of all other articles.
+
 [^16]: Our Sages have established the principle, "One may ascend to a higher level of holiness, but may not descend to a lower one."
+
 [^17]: *S'tumah* means "closed." According to the Rambam, it refers to a passage whose first word is always written in the middle of a line in the Torah. See Chapter 8, Halachah 2. In the Torah, *V'hayah im shamo'a* is *s'tumah*.
+
 [^18]: *P'tuchah* means "open." According to the Rambam, it refers to a passage whose first word is always written at the beginning of a line in the Torah. See Chapter 8, Halachah 1.
+
 [^19]: Note the contrast between this ruling and the Rambam's decision in Chapter 2, Halachah 2, regarding *tefillin*: "If one wrote a passage which should be *s'tumah* as *p'tuchah* or a passage which should be *p'tuchah* as *s'tumah*, it is unacceptable."  
     The *Beit Yosef* (*Orach Chayim* 32) explains the difference as follows: In *tefillin*, there are passages which follow directly after each other in the Torah. Therefore, all the passages must be written as they appear in a Torah scroll. In contrast, the two passages contained in a *mezuzah* do not follow each other in the Torah. Therefore, there is no absolute requirement for the passages to be written as they appear in the Torah.
+
 [^20]: See Chapter 2, Halachot 8-9 and Chapter 7, Halachot 8-9.
+
 [^21]: The Rambam lists the letters in the following halachah. Significantly, the letters he mentions here are not the same as he mentions in Chapter 2 with regard to *tefillin*. The *Shulchan Aruch* (*Yoreh De'ah* 288:7) rules that, in a *mezuzah*, just as in a Torah, one should place crowns on the letters, שעטנ"ז ג"ץ.
+
 [^22]: In Chapter 2, Halachah 6, the Rambam writes that, when writing *tefillin*, the *ayin* of the word *Shema* and the *dalet* of the word *echad* should be enlarged as in a Torah scroll. It is customary to write these letters in the same manner in *mezuzot*.
+
 [^23]: As mentioned in the commentary on Chapter 2, Halachah 9, based on Rabbenu Asher's opinion, it is proper to add crowns if they have been omitted from the appropriate letters in a *mezuzah*.
+
 [^24]: See Chapter 1, Halachah 12, where this subject is discussed.
+
 [^25]: See Chapter 2, Halachot 6-7.
+
 [^26]: Making additions on the outside of the *mezuzah* is discussed in the following halachah.
+
 [^27]: Similarly, if a single letter is forgotten, the *mezuzah* is invalid (*Shulchan Aruch, Yoreh De'ah* 288:3).
+
 [^28]: This name serves as an acronym for the Hebrew words, שומר דלתות ישראל, "Guardian of the gates of Israel" (*Mishnat Chassidim*).
+
 [^29]: The *Kessef Mishneh* cites the *Zohar* (Vol. III, 266a) which states that *Shaddai* should be written opposite the word, *V'hayah*.
+
 [^30]: See also the Ramah (*Yoreh De'ah* 288:15) who states that it is also common to write the letters, כוזו במוכסז כוזו, opposite the words, י-ה-ו-ה א-להנו י-ה-ו-ה, on the outer side of a *mezuzah*. These letters are the letters which follow the letters in those names of God - i.e., the כ follows the י, the ז follows the ו.
+
 [^31]: In *Hilchot Avodat Kochavim* 11:12, the Rambam states:  
     A person who whispers an incantation over a wound and then recites a verse from the Torah, who recites a verse over a child so that he will not become scared, or who places a Torah scroll or *tefillin* over a baby so that it will sleep, is considered to be a soothsayer or one who casts spells. Furthermore, such people are included among those who deny the Torah, because they relate to the words of the Torah as if they are cures for the body, when, in fact, they are cures for the soul, as \[[[Proverbs 03#^3-22|Proverbs 3:22]]] states: "And they shall be life for your soul."  
     The inclusion of these people among "those who do not have a portion in the world to come" is based on *Hilchot Teshuvah* 3:8, which makes such a statement about "those who deny the Torah."
+
 [^32]: As stated in the previous halachah, any addition made on the inside of the *mezuzah* invalidates it. (Significantly, the *Shulchan Aruch* 288:15 states that it is forbidden to add to the inside of the *mezuzah*, but does not explicitly say that the *mezuzah* becomes invalidated.)
+
 [^33]: These are the subjects discussed in the two passages written within the *mezuzah*.
+
 [^34]: The Rambam's statements have aroused questions from many commentaries who note that, in several places, the Talmud associates a *mezuzah* with Divine protection - e.g., *Menachot* [[Menachot 33#33b|33b]], the Jerusalem Talmud, *Pe'ah* 1:1.  
     The *Kessef Mishneh* resolves this difficulty explaining that, although a *mezuzah* affords Divine protection, that protection comes, in and of itself, in reward for the fulfillment of the mitzvah. There is no need for any additions on man's part. Indeed, a person who makes additions to the *mezuzah* in an attempt to increase its influence demonstrates that he is concerned with "his own benefit" and "the vanities of the world" and not with the fulfillment of God's mitzvah. Therefore, he deserves the Rambam's severe words of criticism. See *Likkutei Sichot*, Vol. 19.1. Our translation follows the standard text of the *Mishneh Torah*. The *Kessef Mishneh* mentions another version which states "at the beginning or the end of the line." That version parallels the apparent source for the halachah, *Menachot* [[Menachot 31#31b|31b]].2. This custom is also recorded by Rav Yitzchak Alfasi, and earlier, in the halachot of Rav Yehudai Gaon. It is not clear when this custom was begun.3. As mentioned in Halachah 2, a space is left at the beginning of the line so that the passage, *V'hayah im shamo'a*, will be written in the *s'tumah* form.
+
 [^35]: As the Rambam states, the intent is that the *mezuzah* be rolled. Folding a *mezuzah* is very undesirable, because it will cause the letters to crack.
+
 [^36]: *Menachot* [[Menachot 31#31b|31b]] states that a *mezuzah* should be rolled from*echad* to *Shema*. The Rambam uses different terminology because, as stated in the previous halachah, the first line of the *mezuzah* does not end with *echad*.
+
 [^37]: i.e., when one unrolls the *mezuzah*, the initial word of the line appears first.
+
 [^38]: The *Shulchan Aruch* (*Yoreh De'ah* 289:4) states that one should affix it "with nails." The intent is that the *mezuzah* should be firmly affixed so that it is not dangling from one side.
+
 [^39]: As mentioned in Halachah 8, one should not place it deeper than a handbreadth within the doorpost.
+
 [^40]: as is done before the fulfillment of a positive commandment. This blessing should also be recited again when affixing a *mezuzah* which falls from the doorpost. There is a question whether a *mezuzah* should be recited when affixing it after removing it to have it checked (*Pitchei Teshuvah* 289:1).
+
 [^41]: Significantly, in *Hilchot Berachot* 11:12-13, the Rambam states that when one affixes a *mezuzah* for a colleague, the blessing should conclude, "concerning the affixing of a *mezuzah*."  
     Although the verses which relate the command to affix a *mezuzah* state, "And you shall write...."
+
 [^42]: 13 In the listing of the mitzvot at the beginning of these halachot and in *Sefer HaMitzvot* (positive commandment 15), the Rambam also states that the mitzvah is to "affix a *mezuzah*."  
     With regard to the blessings, see *Hilchot Berachot* 11:8, which states:  
     For every mitzvah whose performance fulfills one's obligation, one recites the blessing when one performs it. Whenever a mitzvah has a further commandment involved after its performance, one should not recite a blessing until one performs the latter commandment. For example, when one makes a sukkah, a lulav,... *tefillin*, or a *mezuzah*, one does not recite a blessing when one makes them.... When does one recite the blessing? When one dwells in the sukkah, shakes the lulav,... wears the *tefillin*, or affixes the *mezuzah*.  
     Note also the comments of the *Siftei Cohen* 289:1, who writes that the blessing, *Shehecheyanu*, is not recited before affixing a *mezuzah*.
+
 [^43]: i.e., rather than placing the *mezuzah* in a tube affixed to the doorpost, one places the *mezuzah* within a pole which stands next to - but is not permanently affixed to - the doorpost
+
 [^44]: [[Torah 45 - Vaetchanan#^6-9|Deuteronomy 6:9]] states that a *mezuzah* must be placed "on your gates." Unless the *mezuzah* is affixed to the gateway, it does not meet this criteria (*Menachot* [[Menachot 32#32b|32b]]).
+
 [^45]: Deuteronomy, ibid., states that a *mezuzah* must be placed "on the doorposts of your houses" and not "within the doorposts" (*Kitzur Shulchan Aruch* 11:9).  
     The *Kitzur Shulchan Aruch*, ibid., states that if one fears that the *mezuzah* will be stolen or defaced, it may be placed within the door. It should, however, be placed on the back of the doorpost, but not on the wall next to the doorpost. (See also Chapter 6, Halachah 12.)
+
 [^46]: See [[Torah 19 - Terumah#^26-26|Exodus 26:26-29]].
+
 [^47]: Rather, the *mezuzah* should stand directly upright. This opinion is quoted by the *Shulchan Aruch* (*Yoreh De'ah* 289:6). The Ramah, however, notes the opinion of Rabbenu Tam, who favors the horizontal position, explaining that if it is placed vertically, it is unacceptable.  
     Accordingly, the Ramah suggests affixing the *mezuzah* at a slant, thereby adhering to both views. This is the common custom at present.
+
 [^48]: This also is not "on the doorposts of your houses."
+
 [^49]: Although if the reed with the *mezuzah* had been affixed to an existing doorpost, it would have been acceptable. In this instance,
+
 [^50]: As the Rambam explains in *Hilchot Tzitzit* 1:16, [[Torah 49 - Ki Teitzei#^22-12|Deuteronomy 22:12]] states that one should "make fringes" on one's garments. *Menachot* [[Menachot 40#40b|40b]] states that this teaches us that we must make the tzitzit and not use those which are already made.  
     *Menachot* [[Menachot 33#33b|33b]] states that the same principle applies here. Since the *mezuzah* was placed inside the pole before it became part of the doorpost, it is not acceptable.
+
 [^51]: at least
+
 [^52]: e.g., at the entrance to a courtyard or to a city. (See Chapter 6, Halachah 8.)
+
 [^53]: Rashi, *Yoma* [[Yoma 11#11a|11a]], explains that if more stringent requirements were instituted, it is likely that they would be ignored. Every individual would rationalize that it is somebody else's responsibility.
+
 [^54]: A small crack can render the *mezuzah* unacceptable.
+
 [^55]: as opposed to *tefillin*, whose checking is governed by different requirements. (See Chapter 2, Halachah 11.)
+
 [^56]: At present, it is customary to check *mezuzot* more frequently. The ink and parchment we use are different, and there is a greater tendency for letters to fade or crack. Also, there are many scribes whose calligraphy is not professional, and errors which render the *mezuzah* unacceptable are frequently discovered.  
     [For the above reasons, it is also customary to wrap *mezuzot* in plastic to prevent the possibility of decay.]
+
 [^57]: Since *mezuzah* is a positive commandment whose fulfillment is not limited to a specific time, its fulfillment is incumbent on all Jews.
+
 [^58]: who are exempt from the obligation to perform any mitzvot *mid'oraita* ("according to Torah law"),
+
 [^59]: as part of the Rabbinic command to educate them to perform mitzvot.
+
 [^60]: It would appear that if one purchases a dwelling - even in the diaspora - one is obligated to affix a *mezuzah* immediately.
+
 [^61]: As explained in Chapter 6, Halachah 1, a person is obligated to place a *mezuzah* only on a permanent dwelling. Hence, until this time period has passed, these dwellings are not considered to be permanent.
+
 [^62]: Because of the importance of dwelling in *Eretz Yisrael*, even a temporary dwelling is of significance (*Menachot* [[Menachot 44#44a|44a]], *Tur, Yoreh De'ah* 286).
+
 [^63]: Even though the Torah states that a *mezuzah* must be placed on the entrance to "your house," *Bava Metzia* [[Bava Metzia 101#101b|101b]] states that this refers to the person living within, and not the owner.
+
 [^64]: the tenant
+
 [^65]: Even if the tenant offers to pay the owner to find a *mezuzah* and affix it, the owner is not required to accept the offer. The Ramah (*Yoreh De'ah* 291:2) adds that even if a person rents a house on the condition that it has *mezuzot*, and he discovers that they are lacking, he may not withdraw from the rental agreement on the grounds that the agreement was based on a misconception.
+
 [^66]: Compare to *Hilchot Tzitzit* 3:10, which states that tzitzit "are not an obligation on the garment, but on the person who possesses the garment."  
     These statements, however, must be understood in the context of *Hilchot Berachot* 11:2, which states:  
     There are positive commandments which a person is required to pursue and make every effort to fulfill - e.g., *tefillin, sukkah, lulav,* and *shofar*. These are called obligations, since a person is obliged to fulfill them.... There are other mitzvot which are not obligations, but rather are left to the person's volition - for example, a *mezuzah* and a guardrail. A person is not obligated to live in a house which requires a *mezuzah* so that he could fulfill the mitzvah of *mezuzah*. Should he desire, he may dwell in a tent or a ship for his entire life.  
     To summarize, according to the Rambam the mitzvah of *mezuzah* is incumbent on the person (*gavra*) and not on the house (*cheftza*). Nevertheless, it is incumbent upon him only when he lives in a house that requires a *mezuzah*.
+
 [^67]: for leaving the house without a *mezuzah* leaves it open to undesirable influences (*Tosafot, Bava Metzia*, ibid.). Alternatively, removing a *mezuzah* may bring harm to the person who removes it (*Sefer Chasidim*).
+
 [^68]: or will be rented to a gentile. Note the *Hagahot Maimoniot*, which state that a dwelling which a Jew rents from a gentile does not require a *mezuzah*. This opinion is not, however, accepted by the *Shulchan Aruch* (*Yoreh De'ah* 286:23)
+
 [^69]: lest the gentile desecrate it. Note the comments of the Ramah (*Yoreh De'ah* 291:2), who states that it is forbidden to give a *mezuzah* to a gentile to affix on his door. Nevertheless, if the Jew is frightened that refusing the gentile will generate severe negative feelings, he may leave him the *mezuzah*.

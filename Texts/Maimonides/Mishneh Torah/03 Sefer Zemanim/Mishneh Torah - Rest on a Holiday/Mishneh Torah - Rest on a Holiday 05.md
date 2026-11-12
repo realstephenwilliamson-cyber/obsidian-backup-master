@@ -130,58 +130,105 @@ This cannot be said with regard to an animal. Even if the portion that was given
 
 [^1]: Rashi (*Beitzah* [[Beitzah 29#29b|29b]]) explains that this restriction applies even to foods that are necessary for the holiday. The reason for this stringency is that a person carrying large loads appears to be going about his weekday affairs without awareness of the holiday.  
     Rashi [cited by the Ramah (*Orach Chayim* 510:8)] also states that these restrictions apply only in the public domain. Within a courtyard or a home, one may carry in one's ordinary fashion. Rav Kapach explains that this is also the Rambam's view, for (although it is not explicitly stated) the entire chapter speaks about passage through the public domain.
+
 [^2]: As an example, the *Shulchan Aruch* (*Orach Chayim* 510:10) cites an instance where a person has invited many guests and must bring food for them promptly. Therefore, instead of requiring him to bring smaller loads that would take more time, he is allowed to bring a larger amount in his usual fashion.
+
 [^3]: The *Maggid Mishneh* states that other opinions explain that it is forbidden to use an animal on a holiday, just as it is forbidden to do so on the Sabbath, lest one break a branch of a tree. *Shulchan Aruch HaRav* 495:12 accepts this view as binding.
+
 [^4]: This refers to a blind man who uses a cane to tap his way. By contrast, a person who needs a cane to walk may use a cane on a holiday (*Shulchan Aruch, Orach Chayim* 522:3).
+
 [^5]: Carrying a pack in this way appears as an act of disrespect for the holiday (*Shulchan Aruch HaRav* 522:1; *Mishnah Berurah* 522:2).
+
 [^6]: *Beitzah* [[Beitzah 25#25b|25b]] interprets this as referring to a sage who lectures to the people.
+
 [^7]: I.e., this type of ladder is mentioned in contrast to a ladder leading to a loft, which may not be carried on Sabbaths and holidays, because it is considered a permanent part of the structure of a building and not a utensil (*Hilchot Shabbat* 26:7).
+
 [^8]: The Ra'avad objects to the Rambam's interpretation of *Beitzah* [[Beitzah 9#9a|9a]]. According to the Ra'avad, an even greater leniency is in place, and it is permitted to carry such a ladder even in the public domain (for the ladders used for dovecotes could be distinguished from other ladders). The Ra'avad's view is cited by the *Shulchan Aruch* (*Orach Chayim* 518:4).
+
 [^9]: E.g., he sees rain coming, which will spoil the produce (Rashi, *Beitzah* [[Beitzah 35#35b|35b]]).
+
 [^10]: Our translation is based on the explanation in the *D'rishah* of the interpretation of the Rambam's statements provided by the *Beit Yosef (Orach Chayim* 521). The *Beit Yosef* maintains that the Rambam, unlike Rashi, *loc. cit.* and the *Tur*, forbids bringing the produce indoors in this manner. Others, however, interpret the Rambam's words as meaning: "One may throw them down the aperture, even though this involves moving them from place to place..."
+
 [^11]: The Mishnah (*Beitzah* 3:3) mentions this law with regard to an animal that is sick and is slaughtered before it dies. The Rambam, however, explains that the law applies in all instances, even when the animal is healthy (*Maggid Mishneh*).
+
 [^12]: Although this involves greater effort (for one will have to return to the field several times), it is preferable, so that one departs from his ordinary practice.
+
 [^13]: As the Ramah (*Orach Chayim* 516:3) emphasizes, it is permissible to send these presents in the public domain. For since sending and receiving these articles increases one's festive joy, there is no prohibition against their transfer.
+
 [^14]: See the *Shulchan Aruch* (*loc. cit.*), which permits sending clothing, although it is unfinished, provided it is fit to use for some purpose in its present state.
+
 [^15]: According to the Rambam, it would appear that the reason for this prohibition is not that it involves the forbidden labor of transferring articles, since, as he states in Chapter 1, Halachah 4, this activity is permitted even when no benefit can be derived on the holiday itself. Rather, the reason is - as in the previous halachot - so that one will not conduct oneself in a weekday manner on a holiday.  
     Significantly, the *Magen Avraham* 516:1 and the *Turei Zahav* 516:1 associate this prohibition with the forbidden labor of transferring articles. Therefore, they explain, when a city has an *eruv* constructed, it is permitted to send such articles on a holiday as well. (See the discussion of this law in the *Mishnah Berurah* 516:4.)  
     [Significantly, in *Hilchot Eruvin* 8:4, the Rambam mentions the establishment of an *eruv t'chumim* on a holiday, but he does not mention the establishment of an *eruv chatzerot* on a holiday at all.]
+
 [^16]: There are certain people who eat roasted grains. Therefore, there is a minority opinion in *Beitzah* [[Beitzah 14#14b|14b]] that allows grain to be sent on a holiday. Nevertheless, since this is not a widely prevalent practice, this view was not accepted by the majority of Sages.
+
 [^17]: This leniency applies even when one knows that the recipient will not slaughter them on the holiday (*Shulchan Aruch HaRav* 516:1; *Mishnah Berurah* 516:1).
+
 [^18]: Since this prohibition was instituted as an expression of respect for the holiday, it applies even in a courtyard and a private domain if there are many people there (*Shulchan Aruch HaRav* 516:6; *Mishnah Berurah* 516:6).
+
 [^19]: The *Shulchan Aruch (Orach Chayim* 516:2) uses slightly different wording: "Three people or more, one after the other." There are versions of the *Mishneh Torah* which also use such wording.
+
 [^20]: Rashi (*Beitzah* [[Beitzah 14#14b|14b]]) states that by sending the articles in this manner, it appears that one is taking them to the market to be sold.
+
 [^21]: A person is forbidden to proceed more than 2000 cubits in any direction from his location at the onset of the Sabbath or a holiday. If he is in a private domain or in an enclosed city, the 2000-cubit limit begins from that area's peripheries.  
     Our Sages offered an additional leniency: a person can establish a location within his Sabbath limits as his place for the Sabbath or a holiday by depositing food at that location before the onset of the Sabbath or the holiday. This is referred to as an *eruv t'chumim.* In this instance, his 2000-cubit limits are calculated from that place, and not from the place where he is located at the onset of the Sabbath.  
     In this halachah, the Rambam is stating that the restriction against proceeding beyond 2000 cubits applies not only to the person himself, but to the possessions he owns. For them as well, the 2000-cubit limit is calculated from the location of the food he deposited.  
     [The Rambam does not mention this concept with regard to the Sabbath, since it is forbidden to carry articles or to lead an animal on that day. There are, nevertheless, ramifications of this law with regard to the Sabbath. The Ramah (*Orach Chayim* 305:23) states that it is permitted to entrust one's animals to a gentile shepherd to watch, even though one knows that he will lead them beyond the Sabbath limits. The commentaries explain that since the Jew himself neither performs nor initiates the activity, there is no prohibition.]
+
 [^22]: I.e., they may be carried within a 2000-cubit radius beginning from the place where the person who acquires them was located at the commencement of the Sabbath, or from the place where he deposited his *eruv t'chumim*.  
     The Ra'avad differs with the Rambam on this point and maintains that the Sabbath limits are calculated from the place where the article itself was located at the commencement of the Sabbath. Nevertheless, the later authorities, including the *Shulchan Aruch* (*Orach Chayim* 401:1), follow the Rambam's view.
+
 [^23]: For this reason, our Sages placed several restrictions on benefitting from articles brought by gentiles on a holiday, lest they have brought them from beyond the holiday limits.
+
 [^24]: A person who left his Sabbath or holiday limits and returned is allowed to walk only within a square of four cubits by four cubits (*Hilchot Shabbat* 27:12-13). These restrictions are not placed on a utensil. A person is capable of acting on his own initiative, while a utensil must be carried by a person. It is thus comparable to a person who was taken from and returned to his Sabbath limits by force. As stated in *Hilchot Shabbat* (*ibid.*), it is considered as if he had never departed. Nevertheless, as reflected in *Hilchot Shabbat* 6:24, if the produce was taken from the city by a Jew with a conscious intent to violate the law, one should not benefit from it on the holiday.
+
 [^25]: Because the father does not expect his son to take responsibility for the animal, it is not considered as having entered the son's possession (*Maggid Mishneh*). Although the *Shulchan Aruch* (*Orach Chayim* 397:4) follows the Rambam's ruling, there are later authorities who differ. (See *Mishnah Berurah* 397:10.)
+
 [^26]: The *Mishnah Berurah* 397:12 explains that the rationale is that we assume that even before the commencement of the holiday he had the intention of entrusting it to the shepherd. As the *Mishnah Berurah* mentions, other authorities differ with this ruling when there is more than one shepherd in a city and the owner does not also entrust his sheep to the same one, because it is not clear - even in the owner's mind - to which shepherd he will entrust his animal.
+
 [^27]: In this instance as well, although the *Shulchan Aruch* (*loc. cit.*:5) quotes the Rambam's ruling, many later authorities differ. They maintain that this applies only when a person entrusted the animal to the shepherds on the holiday. If he entrusted it to them before the holiday, they are responsible, and the animal may be taken only within an area in which they both may walk (*Mishnah Berurah* 397:13).
+
 [^28]: Since the food belonged to the host at the beginning of the holiday, the holiday limits in which it may be carried are dependent on him. Although he gives the guests permission to take portions of the food home, they may not take the food beyond the limits in which it could originally be carried.
+
 [^29]: I.e., he must give another person the portions of food, and he will acquire them on behalf of each of the guests (Rashi, *Beitzah* [[Beitzah 40#40a|40a]]).
+
 [^30]: And he did not establish an *eruv*.
+
 [^31]: In such an instance, it is as if that corner were loaned to the owner of the produce. The people to whom the article was entrusted, however, are not held responsible for it. Therefore, the status of the produce depends on the owner.
+
 [^32]: For they are responsible for the article.
+
 [^33]: I.e., the water may be brought only to a place to which the owner of the cistern is permitted to proceed.
+
 [^34]: The *Mishnah Berurah* 397:34 interprets this as follows: If an inhabitant of the city draws the water, he may carry it as far as he is permitted to proceed himself, even if he extended his holiday limits by establishing an *eruv t'chumim*. If a person who does not live in the city draws the water, he may carry it only within the city itself.
+
 [^35]: Since the water is left for all travelers without distinction, its status is comparable to that of the ownerless articles mentioned in Halachah 10. (For that reason, the Ra'avad, who raises an objection to that halachah, also objects here.)
+
 [^36]: Seemingly, the intent of the latter phrase is the same as "those of the person who draws the water." [Indeed, Rabbenu Asher and the *Shulchan Aruch* (*Orach Chayim* 397:15) use the phrase, "those of the person who draws the water."] One wonders why the Rambam uses different wording.
+
 [^37]: Since the water continuously flows and does not stay in a single place, there is no place that is considered to have been established as its "place" for the Sabbath or holiday.
+
 [^38]: The herder raises oxen for slaughter. Nevertheless, the oxen he raises are not unique, and he cannot expect them to attract the attention of people beyond his immediate area. For that reason, their holiday limits are confined to those of their owner's town.
+
 [^39]: A coal is considered to be an object with substance. Therefore, the laws that govern all other articles pertain to it as well.
+
 [^40]: For a flame, by contrast, has no substance, and is therefore not considered to be an article that belongs to a person and is subject to his holiday limits.
+
 [^41]: A borrower does not become responsible for an object until he performs a formal *kinyan* (contractual act). Nevertheless, since the owner consented to give the borrower the article before the commencement of the holiday, with regard to the law at hand it is considered as if it were already in the borrower's possession (*Mishnah Berurah* 397:26).
+
 [^42]: It is at the commencement of the holiday that the holiday limits of a utensil are established. Since the owner did not consent to give the utensil to the borrower before this time, the utensil's limits still depend on its owner. The fact that he frequently lends the article to the borrower is of no halachic significance. Since the borrower did not ask for the article before the holiday began, the owner could have assumed that he had found another person from whom to borrow it.
+
 [^43]: Since the owner of the cloak agreed to let both of the borrowers use it before the holiday began, they both figure in the determination of the holiday limits of the cloak.
+
 [^44]: For by moving it to either direction, one will be taking it beyond the holiday limits of one of the people to whom it is entrusted.
+
 [^45]: Since the ingredients belonged to both women at the commencement of the holiday, the holiday limits of the dough or the food made from them are dependent on those of both women.
+
 [^46]: In *Hilchot Shabbat*, Chapter 27, the Rambam explains that the concept of Sabbath limits has its origins in the Torah itself. Nevertheless, according to the Torah, it is permitted to proceed twelve *mil* from one's place. The restriction of two thousand cubits is Rabbinic in origin.
+
 [^47]: Therefore, each of the partners is allowed to take his portion with him throughout his own holiday limits without worrying about his partner's circumstances.
+
 [^48]: This represents the opinion of Rav (*Beitzah* [[Beitzah 37#37b|37b]]). The Talmud, however, records the opinion of other Sages who differ and maintain that there is no difference between the laws pertaining to an animal and those pertaining to wine.  
     In the debate concerning this manner, two of the other Sages, Rav Kahana and Rav Assi, asked Rav: There is another relevant prohibition, that of muktzeh, for each of the partners diverted his attention from the portion designated for the other. Nevertheless, although the portions of meat belonging to each of the partners derived nurture from each other, none of the Sages thought of applying the prohibition of muktzeh for that reason.  
     Rav did not reply. This has led some authorities (see the gloss of Rav Moshe HaCohen, *Tur, Orach Chayim* 397) to the conclusion that Rav conceded and retracted his position. According to these views, the meat belonging to each partner may be taken throughout his holiday limits. Others (including the Rambam) maintain that Rav's inability to reply at that time does not represent a retraction of his position. The *Shulchan Aruch* (*Orach Chayim* 397:10) follows the Rambam's ruling. Nevertheless, the *Be'ur Halachah* 397 states that if there is a necessity, it is possible to rely on the more lenient view.

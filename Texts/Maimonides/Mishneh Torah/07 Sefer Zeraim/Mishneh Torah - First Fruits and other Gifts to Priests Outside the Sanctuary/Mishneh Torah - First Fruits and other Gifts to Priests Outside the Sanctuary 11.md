@@ -151,97 +151,185 @@ If she gave birth to two males, even if it is not known which is the firstborn, 
 **30.** [In the above situation, if the women] gave birth to two males and a female, the man whose wife had not given birth previously should give five *selaim*. The rationale is that his exemption implies a compounded doubt. For if his wife gave birth to a male only, he is obligated. And if she gave birth to a male and a female, he is obligated unless she gave birth to the female first. Since the probability of this is distant, he should give the money for the redemption.[^91] ^11-30
 
 [^1]: *Sefer HaMitzvot* (positive commandment 80) and *Sefer HaChinuch* (mitzvah 392) include this commandment among the 613 mitzvot of the Torah. This obligation was established in commemoration of the slaying of the Egyptian firstborn before the Exodus.
+
 [^2]: I.e., the obligation is incumbent on the baby's father, not his mother, as stated in the following halachah.
+
 [^3]: The *P'nei Meivin, Yoreh De'ah*, Responsum 226, infers from the wording "a woman is not obligated," that she may do so if she desires. *Eidut LiYisrael* states that this is the common custom if the child does not have a father.
+
 [^4]: The Rambam's wording implies that the obligation is incumbent on the son. Nevertheless, as a newborn, the son cannot fulfill it and so, the obligation becomes his father's. See the *Minchat Chinuch* (mitzvah 392), the *Siftei Cohen* 305:11, *Likkutei Sichot*, Vol. XI, p. 44ff., and others who debate whether the mitzvah is primarily the father's or the son's. This difference is not merely theoretical. Among the practical question that result is: If the father did not redeem the son until the son was thirteen, who has the fundamental responsibility to observe the mitzvah, the father or the son?
+
 [^5]: 13, at which age he is obligated to observe the mitzvot. See *Minchat Chinuch, loc. cit.*, who discusses a situation where the son redeemed himself beforehand.
+
 [^6]: The Rama (*Yoreh De'ah* 305:15) states that a silver plaque should be placed around the child's neck as a reminder that he has not been redeemed. See also Halachah 11. The *Sifei Cohen* 305:20 states that this is not practical. In many instances, the silver plaque will become lost before the child comes of age and he will not be aware of the responsibility incumbent upon him. Instead, it is preferable that the redemption be performed by the Jewish court. *Eidut LiYisrael* also mentions that if the child's grandfather is alive, there are opinions that he should perform the redemption.
+
 [^7]: For the mitzvah incumbent on his own person takes precedence (*Kiddushin* [[Kiddushin 29#29a|29a]],b).
+
 [^8]: I.e., make a pilgrimage to the Temple to behold the Divine presence.
+
 [^9]: Even though he could possibly redeem his son afterwards, and he will not be able to make this pilgrimage again, the redemption of his son takes precedence.
+
 [^10]: This follows the Rambam's rulings in *Hilchot Berachot* 11:11 where he writes that a person who performs a mitzvah involving his own person should praise God who "commanded us to...." If the mitzvah involves others, by contrast, the blessing should conclude "commanded us concerning...." The commentaries, however, note that in *ibid.*:12 and in *Hilchot Milah* 3:1, the Rambam writes that one who circumcises his own son should recite the blessing concluding "to circumcise...," for the mitzvah is incumbent on his own person. Seemingly, this should also apply with regard to the redemption of a son.  
     It is possible to resolve the question as follows: The mitzvah of redeeming the son is primarily the child's. Hence, the father uses the form "concerning...." The mitzvah of circumcision, by contrast, is primarily the father's. Hence he uses the form "to...."
 [^11]: This blessing is recited as an expression of thanks whenever one performs a mitzvah infrequently (*Hilchot Berachot* 12:9). Even though one recited this blessing at the child's circumcision, it should be recited again at his redemption, for the two are separate mitzvot to be performed at separate times (Radbaz). Similarly, as an expression of thanks, it is customary to mark the redemption with a celebratory feast. This feast is considered a *seudat mitzvah*, a feast associated with a mitzvah.
+
 [^12]: For the blessing should precede the observance of the mitzvah.
+
 [^13]: For he is certainly performing a mitzvah involving himself. The Rambam's ruling is quoted by the *Shulchan Aruch* (*Yoreh De'ah* 305:10). The *Tur* and the Rama rule that even in such a situation, the conclusion of the blessing should be "...concerning the redemption of the firstborn."
+
 [^14]: I.e., its observance is not limited to *Eretz Yisrael*, nor to the time when the Temple is standing.
+
 [^15]: *Shiurei Torah* defines this as 101 or 96 grams of pure silver.
+
 [^16]: We have translated *kessef* as "silver" and not "money" to allude to the concepts stated below.
+
 [^17]: This includes not only promissory notes given by a particular individual, but also the fiat currencies of the present day, for such currency does not have any inherent value. In practice, silver coins are almost always used for the redemption of the firstborn.
+
 [^18]: And he must be redeemed again.
+
 [^19]: As stated in *Hilchot Mechirah* 11:15, when a person undertakes a financial obligation, even though according to law he was not liable, he is bound by his commitment.
+
 [^20]: This applies even if he actually pays him the five *selaim*, for that money is being paid to satisfy the obligation he voluntarily undertook and not to discharge the obligation the Torah placed upon him (*Bechorot* [[Bekhorot 49#49b|49b]]).  
     The *Turei Zahav* 305:2 and the *Siftei Cohen* 305:3 explain that according to Scriptural Law, the commitment is effective in redeeming the son. Nevertheless, our Sages ruled that it is unacceptable lest a person attempt to redeem his son with promissory notes from other people.
 [^21]: In his *Kessef Mishneh*, Rav Yosef Caro debates this ruling at length and in his *Shulchan Aruch* (*Yoreh De'ah* 305:5), he rules that the utensil must be worth five *selaim* to a person in a given situation. If, however, there is no way that it would be considered as worth five *selaim*, the son is not redeemed. The *Turei Zahav* 305:5 and the *Siftei Cohen* 305:5, however, maintain that the Rambam's words should be understood simply.
+
 [^22]: Giving each a half-*sela*.
+
 [^23]: The *Pitchei Teshuvah* 305:10 states that it is not desirable to redeem one's son in this manner. As an initial preference, one should give all five *selaim* to one priest, at one time.
+
 [^24]: Since the father expected the present to be returned, it is as if he never really intended to give it to the priest (*Bechorot, loc. cit.*, Radbaz). This applies only when the priest actually returns what he was given, for if he does not return it, we assume that after the fact, the father consents that the priest retain possession and as a result, the son is redeemed.
+
 [^25]: When quoting this law, the *Shulchan Aruch* (*Yoreh De'ah* 305:8) states that the priest should not frequently return what is given to him for the redemption. It should only be done occasionally, when the father is poor.
+
 [^26]: A present given with the intent that it be returned is considered as a valid present (*Kiddushin* [[Kiddushin 6#6b|6b]]). Thus the father's gift was within the limits of law. Hence, it is acceptable. In the first instance, by contrast, since the present was not given wholeheartedly, it is as if it was never given. Nevertheless, receiving the redemption as a present with the stipulation that it be returned is frowned upon by our Rabbis. The *Shulchan Aruch* describes a priest who does so as having "transgressed."
+
 [^27]: See [[Torah 34 - Bamidbar#^3-45|Numbers 3:45]] which commands "Take the Levites in place of all the firstborn of the children of Israel."
+
 [^28]: I.e., the father is an Israelite and thus the son is an Israelite.
+
 [^29]: The commentaries have noted that there is no exact verse in the Torah that corresponds to the Rambam's wording. Similar phrases are found in [[Torah 15 - Bo#^13-2|Exodus 13:2]] and [[Torah 34 - Bamidbar#^3-12|Numbers 3:12]].
+
 [^30]: The identity of the father does not change the status of the mother or the child and it is just as if the child was from a Jewish father. See *Hilchot Issurei Bi'ah* 15:3.
+
 [^31]: I.e., he is obligated to redeem himself when he comes of age, for as stated in Halachah 2, there is no obligation for a woman to redeem her son. There are authorities who maintain that, in the present age, the Jewish court should redeem such children, for it is possible that when the child comes of age, he will not be aware of the mitzvah and will fail to observe it.
+
 [^32]: Such relations - even if she is raped - caused her to be deemed a *zonah* and she is disqualified from the priestly family. Her children do not bear its holiness, nor does she have any of the rights granted to its members (*Hilchot Issurei Bi'ah* 18:1).
+
 [^33]: The children born from relations between a priest and a woman forbidden because of the unique prohibitions incumbent upon the priests, as explained in *Hilchot Issurei Bi'ah* 19:3-6.
+
 [^34]: I.e., if the son is the first issue of his mother's womb.
+
 [^35]: I.e., were the father to have lived until the son was 30 days old, there would have been an obligation to redeem the child. Nevertheless, since the father was a priest - and the fact that he entered into a forbidden relationship does not disqualify him from the priesthood - it is considered as if he paid himself and the child was redeemed (*Turei Zahav* 305:17).
+
 [^36]: Because he died after the obligation took effect, as indicated by Halachah 17.
+
 [^37]: For the first time, as obvious from the following halachah.
+
 [^38]: I.e., as a Jew.
+
 [^39]: I.e., the father is an Israelite and thus the son is an Israelite.
+
 [^40]: Implied is that we do not rely on her word alone.
+
 [^41]: The priest is considered as if he desires to expropriate property - the five *selaim* of the redemption - from the child. Since the priest cannot prove that the child was born as an Israelite, the child is not obligated. See parallels in Chapter 9, Halachah 13, and Chapter 10, Halachah 12.
+
 [^42]: As the Radbaz mentions, this child may be considered as the father's firstborn and receive a double share of his inheritance. Nevertheless, in this context, he is not considered as a firstborn.
+
 [^43]: Even though it is her first Jewish child.
+
 [^44]: A stillborn, aborted, or miscarried fetus.
+
 [^45]: See *Hilchot Issurei Bi'ah* 10:1 which states: "Every woman who gives birth is impure like a *niddah*, even if she did not suffer uterine bleeding. [This applies whether] a woman gives birth to a living child or one which is stillborn, and even if she miscarries [and discharges a fetus]." The remainder of that chapter mentions different questionable circumstances involving such miscarriages.
+
 [^46]: In the instances mentioned, the embryo that was miscarried is not given the halachic status of a fetus and none of the laws applying to childbirth apply.
+
 [^47]: See *ibid.* 5:15.
+
 [^48]: *ibid.* 10:2.
+
 [^49]: Even though it was removed from the womb piece by piece, the mother is considered impure as if she gave birth (*Ibid.*:6) and the subsequent child is not considered as a firstborn.
+
 [^50]: From the Rambam's wording, the commentaries have inferred that if the baby emerges dead, a boy born next is considered as the mother's firstborn. The rationale is that a baby born in the eighth month is considered as if it would never be a viable birth. This ruling is quoted by the *Shulchan Aruch* (*Yoreh De'ah* 305:23).
+
 [^51]: For the emergence of the forehead is considered as birth in several halachic contexts (e.g., *Hilchot Nachalot* 2:2).
+
 [^52]: And the Torah obligated only the first issue of a woman's womb.
+
 [^53]: These concepts also apply with regard to the definition of a firstborn with regard to the inheritance (*ibid.*:11).
+
 [^54]: I.e., as soon as the thirty-first day begins. These days are counted from sunset to sunset and not from hour to hour. It is customary to redeem the son on his thirty-first day of life, because one should not delay the observance of a mitzvah. If, however, the thirty-first day is the Sabbath or a festival, the redemption is performed at the earliest possible opportunity afterwards.
+
 [^55]: *Treifah*, the Hebrew term used by the Rambam, is interpreted as referring to an ailment that will cause the person to die within a year.
+
 [^56]: For the obligation to redeem the child never took effect.
+
 [^57]: For that gift is not effective in redeeming the child, as stated in the following halachah.
+
 [^58]: When quoting this law, the Rama (*Yoreh De'ah* 305:12) states that the father must also recite the blessing for the redemption. He does not, however, recite the blessing *Shehechiyanu*.
+
 [^59]: Because the obligation to redeem him has not taken effect. This ruling applies even if the coins remain in the priest's possession until after the thirtieth day. For the redemption to take effect, the priest must return the money to the father and then he must give it to him again. See *Siftei Cohen* 305:18.
+
 [^60]: There is a difference of opinion concerning this issue in the Talmud (*Bechorot* [[Bekhorot 49#49a|49a]],b). The Rambam's ruling follows the position of Shmuel, even though Rav differs and rules that the son is not redeemed. Although ordinarily, in such differences of opinion, the halachah follows Rav with regard to questions involving Torah prohibitions, in this instance, the Talmud explicitly states that the halachah follows Shmuel. There is, however, a question regarding the proper version of the Talmudic text and the Rambam's ruling does not follow the standard published version (Radbaz). The *Shulchan Aruch* (*Yoreh De'ah* 305:13) quotes the Rambam's ruling, while the Rama rules that if the money no longer exists, the redemption is not effective.
+
 [^61]: As explained above, the priest is considered as if he desires to expropriate property - the five *selaim* of the redemption - from the father. The rationale is based on the fact that the money is presently in possession of the father. There are commentaries who maintain that if the priest would seize the five *selaim*, he would be entitled to retain possession of them, because the father would now have to prove that he is not obligated and that is likewise impossible. They support this conclusion with the Rambam's ruling in *Hilchot Bechorot* 5:3 that if there is an animal whose status is unclear and there is a doubt whether it is a firstborn, should a priest seize possession of it, we do not expropriate it from his property. Others, however, differentiate between the two instances, explaining that in *Hilchot Bechorot*, the priest has seized a specific entity concerning which an unresolved doubt exists. In this halachah, by contrast, although there is a question whether the father is under obligation to the priest, the money that the priest seizes definitely belongs to the father. Hence, it must be returned (*Machaneh Ephrayim, Hilchot Zechiyah*, sec. 8; see also Radbaz to Halachah 21).
+
 [^62]: In the manner described at the conclusion of the previous halachah. This is an uncommon occurrence. Hence, unless there is specific knowledge that the father redeemed him in this manner, we assume he did not.
+
 [^63]: For we assume that the person fulfilled the mitzvah incumbent upon him at the earliest possible opportunity.
+
 [^64]: I.e., he made such statements on his deathbed [*Shulchan Aruch* (*Yoreh De'ah* 305:14)].
+
 [^65]: Thus there is a question whether the son must be redeemed or not, for if the female emerged first, the son need not be redeemed.
+
 [^66]: Since there is a doubt concerning the obligation, the burden of proof is on the priest, as stated in Halachah 19. Not only does this apply with regard to the father, the son is under no obligation to redeem himself when he comes of age. This is the underlying principle governing many of the situations described in the following halachot.
+
 [^67]: For one of his sons is certainly a firstborn and hence, he is required to redeem him. Although the father does not know which of his sons he is redeeming, he is obligated to perform the redemption (Radbaz).
+
 [^68]: For the father can claim that the son who died was the firstborn and since he died within 30 days of his birth, there is no obligation to redeem him, as stated in Halachah 17.
+
 [^69]: In which case, each of the sons could argue that perhaps the other was in fact the firstborn and hence, he is not required to give toward the redemption. This ruling represents a reversal of the Rambam's opinion from his ruling in his final version of his Commentary to the Mishnah (*Bechorot* 8:3). [Apparently, the issue was one that the Rambam debated back and forth, because his earlier version of that text does not mention an exemption.] The *Shulchan Aruch* (*Yoreh De'ah* 305:265) quotes the Rambam's ruling here. The *Tur* and the *Siftei Cohen* 305:30 rule that the sons are exempt if the father died before the passage of the 30 days. The rationale they give is that each of the sons can claim that the obligation is on the other.
+
 [^70]: For their redemption in the manner stated in Halachah 18.
+
 [^71]: For there is no obligation to redeem a son who died before he reaches the age of 30 days.
+
 [^72]: Giving each five *selaim* for one of the sons, without specifying which one.
+
 [^73]: I.e., each priest can maintain that he received the redemption for the son that is alive and it is the other priest who is required to return the funds.
+
 [^74]: In the second instance, however, he need not redeem both sons, because it is possible that his daughter's birth preceded the birth of one of them. Thus with regard to that child, we follow the principle stated in Halachah 19.
+
 [^75]: Although two mothers and two pairs of children are involved, the situation is abstractly the same as that described in Halachah 20.
+
 [^76]: For the woman who had not given birth previously obviously gave birth to a firstborn son. The fact that his identity is unknown is not significant.
+
 [^77]: Because it is possible that the firstborn died and therefore, there is no obligation if he dies within thirty days of his birth.
+
 [^78]: Whether within 30 days of the sons' birth or afterwards, as in Halachah 20. See, however, note 68.
+
 [^79]: Although the entire sum could not be expropriated from either of the sons - for each one could claim that it is the other who is liable - it can be expropriated from the estate. For the father was certainly obligated and that obligation is transferred to his estate.
+
 [^80]: The commentaries question the Rambam's ruling, maintaining that seemingly the instance here is analogous to the case described in Halachah 30. What difference does it make if the two women mentioned are the wives of one man or two? The Radbaz explains that since we are speaking about one man with two wives and one is exempt, we assume that the exemption will continue unless it is indicated otherwise.
+
 [^81]: So that it was not known which woman was the mother of which child.
+
 [^82]: For, as in Halachah 21, each priest can claim that he received the redemption for the son who is presently alive.
+
 [^83]: The priest owes one of the two five *selaim*, but there is no way of determining which one. Thus if each approached him and demanded money individually, he could avoid paying, claiming that the father must prove that it was his son that died. When, however, he is approached by the two fathers in a single claim, he has no recourse other than to pay [the Rambam's Commentary to the Mishnah (*Bechorot* 8:5)].
+
 [^84]: Because there is no way it can be proven who is the father of the male and thus responsible for his redemption.
+
 [^85]: I.e., when he attains majority. For there is no question that he is a firstborn (*Turei Zahav* 305:23).
+
 [^86]: The priest owes one of the two five *selaim*, but there is no way of determining which one. Thus if each approached him and demanded money individually, he could avoid paying, claiming that the father must prove that it was his son that died. When, however, he is approached by the two fathers in a single claim, he has no recourse other than to pay [the Rambam's Commentary to the Mishnah (*Bechorot* 8:5)].
+
 [^87]: Because there is no way it can be proven who is the father of the male and thus responsible for his redemption.
+
 [^88]: Because it is impossible to prove that a male was born first. See Halachah 23. From the Rambam's wording, it could be inferred that different rules apply when the women gave birth to two males and one female. It would appear that according to the Rambam, each of the males would have to redeem himself when he comes of age. The *Tur* (*Yoreh De'ah* 305) rules that in such a situation, the sons are exempt. See *Turei Zahav* 305:24.
+
 [^89]: Even though the identity of his son is not firmly established, his wife definitely gave birth to a firstborn son and he is obligated to redeem him.
+
 [^90]: For there is no way of proving that the woman who had not given birth previously was the mother of the male. Hence, the exemption is granted not only to the father, but also to the son when he comes of age.
+
 [^91]: More specifically, there are five possibilities regarding this situation:  
     a) the woman who had not given birth before gave birth to one male (and the other woman gave birth to a male and a female);  
     b) she gave birth to two males (and the other woman gave birth to a female);  

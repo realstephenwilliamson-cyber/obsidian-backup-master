@@ -33,7 +33,9 @@ Even focusing on literary hymns, however, leaves a great deal that I cannot dis
 This overview suggests certain trends within this long history. Let me flag three of the broad themes that will make their appearance throughout this chapter and those that follow. The first is the complex relationship between theology and literature, and more specifically, theology and hymnic literature. Many Kashmirian authors explore theological concerns in their hymns. Those espousing non-dualistic 
 
 [^2]: I should note, however, that this corpus awaits further research and may indeed prove to have had more influence and popularity than we currently understand.
+
 [^3]: See Hemendra Nath Chakravarty, “Bahurūpagarbhastotra: An Annotated Translation,” in *Sāmarasya: Studies in Indian Arts, Philosophy, and Interreligious Dialogue, in Honour of Bettina Bäumer*, ed. Sanananda Das and Ernst Fürlinger (New Delhi: D.K. Printworld, 2005), 37–48. Alexis Sanderson notes that the hymn received a commentary by Anantaśakti (which unfortunately I have not yet been able to examine) and the recitation of this hymn “became a standard feature at the beginning of Śaiva worship in Kashmir” (“The Śaiva Literature,” *Journal of Indological Studies* \[Kyoto\], nos. 24 & 25 \[2012–2013\], 2014, 76: 46n173).
+
 [^4]: On this hymn by the Śaiva ascetic Bhaṭṭāraka Cakrapāṇīnātha, see Alexis Sanderson, “The Śaiva Exegesis of Kashmir,” in *Mélanges tantriques à la mémoire d’Hélène Brunner*/ *Tantric Studies in Memory of Hélène Brunner*, ed. Dominic Goodall and André Padoux (Pondicherry:  Institut Français d’Indologie/École Française d’Extrême-Orient, 2007), 231–
 
 *[p. 67]* ^pg86
@@ -59,9 +61,13 @@ The *SP* is attributed to “Sāmba” (both in the title and in vv. 51 and 52),
 *Those who, intent on enjoyment and yoga, say that the Lord grants freedom from disease when worshipped are both wise and fortunate in the world. Who else but the immortal Sun gives people (the freedom from disease) filled with the happiness of both enjoyment and liberation?*[^10]
 
 [^6]: Despite the fascinating content of the *SP*, the primary reason we have access to it at all is because it was incorporated into the Śaiva traditions of Kashmir through the commentary of Kṣemarāja. It is an excellent example of the “etiolation and subsumption of the cult of the Sun-god” within Śaivism, a trend that has been charted by Alexis Sanderson in “The Śaiva Age: The Rise and Dominance of Śaivism During the Early Medieval Period,” in *Genesis and Development of Tantrism,* ed. Shingo Einoo, Institute of Oriental Culture Special Series, 23 (Tokyo:  Institute of Oriental Culture, University of Tokyo, 2009), 53–58. Bettina Bäumer likewise notes that the absorption of this tradition within Śaivism “was surely facilitated in the case of the Advaita Śaiva tradition of Kashmir because the Sun became a symbol of the Supreme Light of Consciousness (*cit, saṃvit, prakāśa*) and was hence identified with Śiva” (“Sūrya in a Śaiva Perspective,” 3).
+
 [^7]: Sanderson, “The Śaiva Age,” 57; Bäumer, “Sūrya in a Śaiva Perspective,” 2.
+
 [^8]: Bäumer, “Sūrya in a Śaiva Perspective,” 2.
+
 [^9]: According to André Padoux, tradition considers Kṛṣṇa the author of the first ten verses and his son Sāmba as the author of the remaining forty-three, but there is no evidence internal to the text itself to suggest this dual authorship or any divisions within the text. As he notes, Sāmba has an Upapurāṇa devoted to him (the *Sāmbapurāṇa*), and he appears as a figure in the *Mahābhārata* and other Purāṇas: “*Sāmbapañcāśikā*, Les Cinquante Strophes de Samba \[a la gloire du soleil\],” in *Le Parole e i Marmi: Studi in Onore di Raniero Gnoli nel suo 70*° *Compleanno*, ed. Raffaele Torella (Rome:  Instituto Italiano per l’Africa e l’Oriente, 2001), 565.
+
 [^10]: *ye cārogyaṃ diśati bhagavān sevito ‘py evam āhus te tattvajñā jagati subhagā bhogayogapradhānāḥ* / *bhukter mukter api ca jagatāṃ yac ca pūrṇaṃ sukhānāṃ tasyānyo ‘rkād amṛtavapuṣaḥ ko hi nāmāstu dātā* // *SP* 46 // Unless otherwise noted, all references are to the edition in Gopīnātha Kavirāja, ed., *Tantrasaṃgraha, Part I*, Yogatantra-Granthamālā Vol. III (Varanasi: Sampurnanand Sanskrit University, 2002).
 
 *[p. 69]* ^pg88
@@ -74,9 +80,13 @@ Other sophisticated literary hymns were composed in the ninth century. This was 
 
 
 [^11]: On these two hymns, see earlier, Chapter 2. The *SP* echoes these earlier poems to Sūrya in other ways as well, especially the *SūŚ*. For instance, the *SP* and the *SuŚ* both use complex imagery and poetic figures, such as elaborate punning (*śleṣa*). Both *SP* v.  9 and *SuŚ* v.  7, for example, use *śleṣa* to invoke the image of Viṣṇu as a dwarf or youth. In fact, in light of such close parallels, it is likely that the author of the *SP* was familiar with the *SuŚ* and was deliberately building upon it.
+
 [^12]: Padoux, “Les Cinquante Strophes de Sāmba,” 566. For some examples of Vedic references, see *SP* vv. 10, 24, and 27; for examples of yogic physiology, *SP* vv. 2, 5, 14, 19, 29, 35, and 50; for the theology of speech and sound, *SP* vv. 1, 2, 4, 13, 21, 23, and 32.
+
 [^13]: *evaṃ sāmānyavyāptyā paramārkaṃ stutvā dehasthamadhyanāḍīvyāptyā stauti; SP*, p. 2.
+
 [^14]: As Padoux notes: “Throughout, the hymn alternates or mingles forms of homage or worship with micro- and macro-cosmic identifications and correspondences, the sun being at once the supreme deity, a star, and an aspect of the energy that is both cosmic and human” (“Les Cinquante Strophes de Sāmba,” 568; my translation).
+
 [^15]: On this dating, see Alexis Sanderson, “History Through Textual Criticism in the Study of Śaivism, the Pañcarātra and the Buddhist Yoginītantras,” in *Les Sources et le temps \[Sources and Time\]*, ed. François Grimal, Publications du département d’Indologie 91 (Pondicherry: Institut Français de Pondichéry/École française d’Extrême-Orient, 2001), 5–6n3.
 
 *[p. 70]* ^pg89
@@ -84,10 +94,15 @@ Other sophisticated literary hymns were composed in the ninth century. This was 
 in particular, is heralded by later authors as inaugurating the cultural hegemony of the vale of Kashmir within the Sanskrit cosmopolis.[^16] The flourish of literary activity taking place in Kashmir during the ninth century included the composition of several literary hymns notable for their relationship to both Sanskrit literature and the history of religious traditions in the region. The poet Ratnākara placed two hymns at crucial moments of his major poem (*mahākāvya*), the *Haravijaya* (*HaVi*; Śiva’s victory), composed around 830 CE at the court of Jayāpīḍa.[^17] His short, independent work—the *Vakroktipañcāśikā* (*VP*; Fifty verbal perversions[^18])—uses clever literary devices to offer praise and benediction. But the real focus of the poem is Ratnākara’s experimentation with (and perhaps creation of[^19]) a specific literary figure called “crooked speech” or verbal distortion (*vakrokti*) and its deployment for the poem’s plot and characterization. Yigal Bronner and Lawrence McCrea have shown how the use of deliberate verbal distortions in Ratnākara’s representation of a dialogue between Śiva and Pārvatī develops its plot and characters. The *VP* is a praise- poem[^20] about Śiva and Pārvatī, but it is directed toward a human audience able to appreciate the poet’s depiction of divine wordplay. In fact, Ratnākara assures this audience that one who contemplates this poem without envy “will become skilled in the composition of poetry, like Ratnākara himself.”[^21] Here he points to the instructive potential of such poetry. Considering this poem in light of the hymns in the *HaVi*, one can see that the praise-poem was a flexible and powerful genre for Ratnākara’s innovative interventions in the literary world of ninth-century Kashmir.
 
 [^16]: Yigal Bronner historicizes this claim to cultural hegemony by analyzing Kalhaṇa’s account of Jayāpīḍa’s rise (“From Conqueror to Connoisseur: Kalhaṇa’s Account of Jayāpīḍa and the Fashioning of Kashmir as a Kingdom of Learning,” *Indian Economic and Social History Review* 50, no. 2 (2013): 161–177).
+
 [^17]: For the date of the *Haravijaya*, see Sanderson, “History Through Textual Criticism,” 5– 6n3, and also Sanderson, “Śaiva Exegesis,” 425.
+
 [^18]: See Yigal Bronner and Lawrence McCrea, “The Poetics of Distortive Talk:  Plot and Character in Ratnākara’s ‘Fifty Verbal Perversions’ (*Vakroktipañcāśikā*),” *Journal of Indian Philosophy* 29 (2001): 435–464.
+
 [^19]: Ibid., 439–440.
+
 [^20]: Classifying this poem raises certain problems, which attests to its creative sophistication. While most *-pañcāśikā* texts are indeed *stotra*s (e.g., the *Sāmbapañcāśikā*), Ratnākara’s emphasis on narrative and character (as analyzed by Bronner and McCrea) is more closely aligned with *kāvya* proper than most *stotra* literature.
+
 [^21]: *kāvyabandhe sa bhavet ratnākaravad pravīṇaḥ* / *VP* v. 51.
 
 *[p. 71]* ^pg90
@@ -99,8 +114,11 @@ One of Ratnākara’s contemporaries also composed an elaborate praise- poem. Wh
 Ingalls proposes that this command from his chosen deity would have allowed him to compose such a poem, drawing on his skill in composing *citrakāvya* poetry, without incurring criticism for composing a poem that seems to contradict his own practice of literary criticism.[^25] This explanation is only partially satisfying. *Citrakāvya* has long been popular in South Asia, and Ānandavardhana may have felt obligated to demonstrate his own virtuosity in this arena. Or maybe the pictorial element of *citrakāvya* appealed to his religious sensibilities; the secret verse in the middle of the wheel of verses parallels the placement of one’s chosen deity in the center of a *maṇḍala*. David Buchta compares the “ornamentation of a poem in honor of a god to the ornamentation of a temple icon” to help explain why Ānandavardhana, and many other *stotra* authors, include such *citrakāvya* 
 
 [^22]: The total number of verses is 104, including the *phalaśruti* verses and the additional verse created out of the inner rim of the “great wheel” created in the final set of verses (see Daniel H. H. Ingalls, “Ānandavardhana’s Devīśataka,” *Journal of the American Oriental Society* 109, no. 4 (October–December 1989): 575.
+
 [^23]: Ibid., 565.
+
 [^24]: Ibid., 575.
+
 [^25]: Ibid., 566.
 
 *[p. 72]* ^pg91
@@ -112,7 +130,9 @@ Ratnākara and Ānandavardhana’s hymns show that some of the smartest poets in
 In the tenth century, or perhaps the second half of the ninth,[^27] the Kashmirian Bhaṭṭa Nārāyaṇa[^28] composed the *Stavacintāmaṇi* (*StC*; The wish-fulfilling gem of 
 
 [^26]: David Buchta, “Evoking *Rasa* Through *Stotra*:  Rūpa Gosvāmin’s *Līlāmṛta*, A  List of Kṛṣṇa’s Names,” *International Journal of Hindu Studies* 20, no. 3 (December 2016): 358. See also the discussion of *citrakāvya* in Chapter 6 of the present work.
+
 [^27]: See Lilian Silburn, trans., *La Bhakti:  Le Stavacintāmaṇi de Bhaṭṭanārāyaṇa* (Paris:  De Boccard, 1964), 8, and Boris Marjanovic, trans., Stavacintāmaṇi *of Bhaṭṭa Nārāyaṇa with the Commentary of Kṣemarāja* (Varanasi: Indica Press, 2011), 19.
+
 [^28]: The earliest (and majority of ) references to the *Stavacintāmaṇi* come from Kashmirian authors, the majority of manuscripts of the text come from Kashmir, and Bhaṭṭa was a common title (and later name) for Kashmirian Brahmans, hence Bhaṭṭa Nārāyaṇa was almost certainly from Kashmir. Note that his name is sometimes rendered as Bhaṭṭanārāyaṇa, Nārāyaṇa Bhaṭṭa, or Nārāyaṇabhaṭṭa (e.g., in Mark Dyczkowski, trans., *The Stanzas on Vibration: The Spandakārikā with Four Commentaries* \[Albany: SUNY Press, 1992\], 28, 304, 313n3). We have no other texts by this author; attempts to identity this Bhaṭṭa Nārāyaṇa with other authors bearing similar names have been tentative at best. Kṣemarāja says that, according to “those who know the history” (*ākhyāyikāvidaḥ*), Parameśvara was the name of Bhaṭṭa Nārāyaṇa’s paternal grandfather, Aparājita was his father’s name, Śrīdayā his mother’s, and Śaṅkara his older brother’s. These identifications are based on Kṣemarāja’s interpretation of puns (*śleṣa*s) in the first three verses of the *Stavacintāmaṇi* (*StC,* p. 10).
 
 *[p. 73]* ^pg92
@@ -122,8 +142,11 @@ praise), which consists of 120 verses[^29] in the flexible Anuṣṭubh meter in
 In its content, the *StC* draws on Śaiva scriptures and promotes accessible, devotional practices. These include the offering of praise and the recitation of the exoteric *mantra* \[*oṃ*\] *namaḥ śivāya*. While it uses some specialized language, the *StC* is not particularly sectarian or esoteric. Theologically, the hymn is generally non-dualistic. It praises and appeals to Śiva in multiple forms, from the supreme, transcendent reality to an anthropomorphic deity with recognizable features and exploits to one’s own conscious self. This combination appears to have been a popular one; the prominence of this hymn within mainstream intellectual culture 
 
 [^29]: The Kashmir Series in Texts and Studies (KSTS) edition actually contains 121 verses, since there are two different verses numbered 47. All numbering and references to the *StC* and Kṣemarāja’s commentary refer to the KSTS edition, unless otherwise noted (*The Stava-Chintāmaṇi of Bhaṭṭa Nārāyaṇa with Commentary by Kṣhemarāja*, ed. Mukunda Rāma Shāstrī, KSTS No. X \[Srinagar: Kashmir Pratap Steam Press, 1918\]).
+
 [^30]: Dyczkowski, *Stanzas on Vibration*, 304.
+
 [^31]: One tentative connection could shift this date earlier. In the concluding verses of his commentary, Kṣemarāja mentions that there was an earlier commentary on the *StC* by one (Śrī-) Rāma. There is some ambiguity about this Rāma. Some scholars have suggested that he is the same Rāma (also called Rājānaka Rāma and Rāmakaṇṭha) who wrote commentaries on the *Spandakārikā* and *Bhagavadgītā*, composed his own hymn or hymns, and collected and arranged Utpaladeva’s poetry into the *Śivastotrāvalī* (if indeed all of these authors are one and the same; see Navijivan Rastogi, “Foreword,” in *Stavacintāmaṇi of Bhaṭṭa Nārāyaṇa with the Commentary by Kṣemarāja*, trans. Boris Marjanovic \[Varanasi: Indica, 2011\], 13–14). If this is the case, then he was a disciple of Utpaladeva (fl. 925–975). This would mean this Rāma wrote in the latter half of the tenth century, so the date of the *StC* could then be pushed back to the middle of the tenth century or earlier. But the identification between these Rāmas is far from certain, and we simply do not have enough evidence (most notably, Rāma’s commentary on the *StC*) to decide one way or the other.
+
 [^32]: Sanderson, “Śaiva Exegesis,” 427–428.
 
 *[p. 74]* ^pg93
@@ -143,7 +166,9 @@ Kṣemendra’s text provides some information on how the *StC* and other such *
 He continues in this way for several verses, and his orders get crueler as he goes. Right after singing a verse praising Śiva as the cause of all auspicious things, for example, he orders that “those who defy punishment should be killed, and all their wealth confiscated!”[^35] Kṣemendra concludes this sequence by saying:
 
 [^33]: *Paśyantī*, the “seeing” word, refers to a subtle level of speech originally described by the grammarian and philosopher Bhartṛhari. It became popular among the Śaivas of Kashmir, who adopted and changed Bhartṛhari’s original formulation.
+
 [^34]: Fabrizia Baldissera, ed. and trans., *The “Narmamālā” of Kṣemendra*, Beiträge zur Südasienforschung 197 (Heidelberg: Südasien-Institut Ergon Verlag, 2005), 48–49.
+
 [^35]: *Narmamālā* v. I.43cd, trans. Baldissera (ibid., 49).
 
 *[p. 75]* ^pg94
@@ -155,9 +180,13 @@ This episode indicates that the *StC* was familiar within elite political and li
 The *StC* remains one of the most well-known hymns from Kashmir. Perhaps the only text more famous, especially outside of Kashmir, is the *Śivastotrāvalī* (*ŚSĀ*). The *ŚSĀ* is a collection of hymns and verses to Śiva composed by Utpaladeva (c. 925–975).[^37] A verse from the *Śāstraparāmarśa* of the South Indian Madhurāja exclaims: “There are, it is true, everywhere thousands of rivers of beautiful verses, but none of them resembles the divine river of the *Stotrāvalī*.”[^38] Many manuscripts of the *ŚSĀ* survive, and it has been edited and published numerous times.[^39] Swami Lakshman Joo published a Hindi gloss on the text in 1964, and his English comments on each verse were edited and published posthumously by his disciples in 2008. Kṣemarāja composed a commentary on the collection in the eleventh century, and the *ŚSĀ* continues to be recited by some Kashmiri Pandits today.[^40]
 
 [^36]: Trans. Baldissera (ibid., 50).
+
 [^37]: On this dating, see Sanderson, “Śaiva Exegesis,” 411.
+
 [^38]: *Śāstraparāmarśa* v.  8, trans. Raffaele Torella (Raffaele Torella, ed. and trans., *The Īśvarapratyabhijñākārikā of Utpaladeva, with the Author’s Vṛtti* \[Delhi:  Motilal Banarsidass, 2002\], xli n65); see also K. C. Pandey, *Abhinavagupta: An Historical and Philosophical Study*, Chaukhamba Sanskrit Studies Vol. I (Varanasi:  Chaukhamba Amarabharati Prakashan, 2000 \[1963\]), 163.
+
 [^39]: E.g., Constantina Rhodes Bailly, *Shaiva Devotional Songs of Kashmir: A Translation and Study of Utpaladeva’s Shivastotravali* (Albany: SUNY Press, 1987) and Rājānaka Lakṣmaṇa, ed. (with a Hindi commentary), *The Śivastotrāvalī of Utpaladevāchārya, With the Sanskrit Commentary of Kṣemarāja* (Varanasi: Chaukhamba Amarabharati Prakashan, 2008 \[1964\]). My quotations from the *ŚSĀ* and Kṣemarāja’s commentary refer to the latter. Interestingly, there is no edition of the *ŚSĀ* in the Kashmir Series of Texts and Studies.
+
 [^40]: According to Bettina Bäumer, many Kashmiri Śaivites “recite at least one *stotra* daily” and “know many verses by heart” (“Introduction” to Swami Lakshman Joo, *Śivastotrāvalī of Utpaladeva: A Mystical Hymn of Kashmir*, transcribed and ed. Ashok Kaul \[New Delhi: D.K. Printworld, 2008\], 4).
 
 *[p. 76]* ^pg95
@@ -171,8 +200,11 @@ Utpaladeva’s fame as a philosopher and theologian surely has contributed to th
 Far less well known, but equally intriguing, are a number of hymns associated with the tradition known as the Krama.[^42] The Krama is centered on the worship of the goddess Kālī, specifically as “she who devours time” (*kālasaṃkarṣiṇī*). Because of this emphasis on the goddess, the Krama is most accurately categorized as a Śaiva-Śākta tradition, and technically a subdivision of the Kālīkula.[^43] The Krama was one of the most well-developed religious traditions in the region from at least the ninth century onward. Unlike the hymns we have considered thus far, Krama texts developed a highly antinomian system that involves transgressive practices, a radical non-dualism, and the worship of female deities at the center of its pantheon. The Krama tradition is also notable for including female Tantric *guru*s in its lineage, although we do not have any extant texts from these women.[^44] The term *krama* means “sequence,” “cycle,” or “process.” This designation refers to the Krama tradition’s most remarkable characteristic: the worship of Kālī as the power 
 
 [^41]: Sanderson, “Śaiva Exegesis,” 399–400n563.
+
 [^42]: It is also known as the Mahānaya (Great Way) or Mahārtha (Great Truth) tradition.
+
 [^43]: On these general divisions, see Sanderson, “Śaiva Exegesis.”
+
 [^44]: Ibid., 273–275.
 
 *[p. 77]* ^pg96
@@ -184,9 +216,13 @@ As this brief description suggests, the details of Krama worship are complex and
 All Krama authors who mention their lineages eventually trace it back to Jñānanetra, who is said to have received the Krama teachings as revelation directly from Yoginīs in the region called Uḍḍiyāna (in what is now Pakistan).[^49] His hymn 
 
 [^45]: Alexis Sanderson, “Maṇḍala and Āgamic Identity in the Trika of Kashmir,” in *Mantras et Diagrammes Rituelles dans l’Hindouisme,* ed. André Padoux (Paris:  Éditions du Centre National de la Recherche Scientifique, 1986), 169–214, 195–196.
+
 [^46]: See Alexis Sanderson, “Śaivism and the Tantric Traditions,” in *The World’s Religions*, ed. S. Sutherland, L. Houlden, P. Clarke, and F. Hardy (London:  Routledge and Kegan Paul, 1988), 660–704, 696–699. In Sanderson’s words, the tradition developed “a liturgy which could be thought of as the unfolding of the imperceptible sequence of cognition (*saṃvit-* *krama*) in the perceptible sequence of worship” (ibid., 696).
+
 [^47]: It will be clear in the analysis and footnotes that follow that this discussion is greatly indebted to Sanderson’s work. On the post-scriptural exegesis of the Krama specifically, see “Śaiva Exegesis,” 260–369.
+
 [^48]: Earlier Krama scriptures, such as the *Kālīkulapañcaśataka*, have no known authors.
+
 [^49]: Sanderson, “Śaiva Exegesis,” 263; on Uḍḍiyāna, see ibid., 265–269. See also Ben Williams, “Abhinavagupta’s Portrait of a Guru:  Revelation and Religious Authority in Kashmir” (PhD diss., Harvard University, 2017), 146–148, 197–200, and 206–207.
 
 *[p. 78]* ^pg97
@@ -198,9 +234,13 @@ called the *Kālikāstotra* (*KāSt*) consists of twenty verses in Āryā meter.
 With this verse, Jñānanetra concludes his hymn by dramatically restating the identity between himself, the deity, and the manifest world. By using the *stotra* form, Jñānanetra is able to point to multiplicity—to himself as the speaker, to Śiva, to the 
 
 [^50]: Sanderson, “Śaiva Exegesis,” 270; for the specific allusions Jñānanetra makes, see ibid., 270–272.
+
 [^51]: Ibid., 268 and 272. For a published edition of the *KāSt*, see Prabha Devi, trans. (Hindi) and Samvit Prakash Dhar, trans. (English), *Shri Gurustuti and Other Stotras*, 3rd ed. (Ishbar \[Nishat\], Kashmir: Ishwar Ashram Trust, 2000).
+
 [^52]: The meaning here is underdetermined: *svarūpastutiḥ* just combines “own nature” with “praise” or “hymn of praise.” The emphasis of the verse, however, is the identity between the speaker and both the goddess and Śiva, and thus I have supplied the description of this as the speaker’s own nature.
+
 [^53]: On *samāveśa*, see Christopher Daren Wallis, “To Enter, to be entered, to merge:  The Role of Religious Experience in the Traditions of Tantric Shaivism” (PhD diss., University of California, Berkeley, 2014), Alberta Ferrario, “Grace in Degrees: *Śaktipāta*, Devotion, and Religious Authority in the Śaivism of Abhinavagupta” (PhD diss., University of Pennsylvania, 2015), and Hamsa Stainton, “Poetry and Kṣemarāja’s Hermeneutics of Non-dualism,” in *Tantrapuṣpāñjali:  Tantric Traditions and Philosophy of Kashmir; Studies in Memory of Pandit H.N. Chakravarty*, ed. Bettina Sharada Bäumer and Hamsa Stainton (Delhi: Indira Gandhi National Centre for the Arts, 2018).
+
 [^54]: *itthaṃ svarūpastutir abhyadhāyi samyaksamāveśadaśāvaśena* / *mayā śivenāstu śivāya samyaṅ mamaiva viśvasya tu maṅgalākhye* // // *KāSt* v. 20 // (Em. *maṅgalākhye*; ed. *maṅgalāya* \[Sanderson, “Śaiva Exegesis,” 272n127\]). For alternative translations, cf. Sanderson, “Śaiva Exegesis,” 272, and Wallis, “To Enter, to be entered, to merge,” 303.
 
 *[p. 79]* ^pg98
@@ -212,9 +252,13 @@ Jñānanetra’s *stotra* marks the beginning of a tradition among Krama authors
 *Stotra*s also served as useful compositions for disseminating—through individual instruction, but also perhaps selective proselytization—the Krama teachings. According to later sources, the teachings Jñānanetra received were passed down to a number of disciples, three of whom are described as female Yoginīs— Keyūravatī, Madanikā, and Kalyāṇikā. No works of theirs survive, but according to Abhinavagupta the latter two passed on the teachings they had received from Jñānanetra to three disciples.[^57] One of these was named Eraka\[nātha\] (c. 900–950). His only known work is a hymn called the *Kramastotra*, a composition deeply respected by later authors.[^58] The full text of this hymn is lost, as is Abhinavagupta’s commentary on it called the *Kramakeli*,[^59] but parts of both survive in quotations included within other works. These quotations reveal, among other things, that 
 
 [^55]: Jñānanetra’s hymn is not explicitly exegetical, yet he combines and develops elements from earlier Krama scriptures. According to Sanderson, “the result, to judge from the more detailed accounts to be seen in the works of his successors, is a harmonious and original whole carefully designed to express a coherent model of the cyclical unfolding and reversion of cognition pervaded by its non-sequential core, producing perhaps for the first time in Śaivism a model for a form of contemplative ritual entirely fashioned by and subservient to the terms of a doctrine of liberating gnosis” (Sanderson, “Śaiva Exegesis,” 273).
+
 [^56]: Ibid., 262–263.
+
 [^57]: Ibid., 273.
+
 [^58]: Sanderson notes that “later authors refer to \[it\] reverentially as the *Kramastotrabhaṭṭāraka*, using an honorific otherwise reserved for scriptures” (ibid., 274).
+
 [^59]: On the *Kramakeli*, and its possible identification with Abhinavagupta’s commentary on a certain *Devīstotra*, see ibid., 352–359. Jayaratha claims that Hrasvanātha (/Vāmana/ Vāmanadatta/Vīranātha) also composed a commentary on Eraka *Kramastotra*, but no other evidence corroborates this (ibid., 276).
 
 *[p. 80]* ^pg99
@@ -226,11 +270,17 @@ There are many other Kashmirian hymns related to the Krama tradition. The asceti
 Krama hymns are primarily concerned with worshipping one’s own consciousness as the supreme deity through internalized cycles of worship. They emphasize non-duality by depicting multiplicity but then revealing its underlying unity. Unlike Ratnākara’s hymns, for example, which referred to a variety of theological positions, Krama *stotra*s present the specific views of a single tradition. They are, 
 
 [^60]: Ibid., 274.
+
 [^61]: Ibid., 293–294.
+
 [^62]: Ibid., 295; see also my detailed discussion of Nāga’s poetry in Chapter 4.
+
 [^63]: Sanderson, “Śaiva Exegesis,” 323–324.
+
 [^64]: Ibid., 317–318.
+
 [^65]: Ibid., 321–322; see also Mark Dyczkowski, ed. and trans., “The *Khacakrapañcakastotra*, Hymn to the Five Spheres of Emptiness:  Introduction, Edition, and Translation,” in *Tantrapuṣpāñjali:  Tantric Traditions and Philosophy of Kashmir; Studies in Memory of Pandit H.N. Chakravarty*, ed. Bettina Sharada Bäumer and Hamsa Stainton (Delhi: IGNCA, Indira Gandhi National Centre for the Arts, 2018).
+
 [^66]: The composition of hymns in the Krama tradition extended beyond Kashmir. The lengthy *Cidgaganacandrikā* of Śrīvatsa is a hymn to Kālī closely related to the *Mahānayaprakāśa* of Arṇasiṃha (Nāga’s disciple). According to Sanderson, “more than a third of its 312 verses are closely related to Arṇasiṃha’s text, and these parallels are best understood as rephrasings of Arṇasimha’s formulations in a more poetic, tighter style” (Sanderson, “Śaiva Exegesis,” 297). Śrīvatsa’s lineage is apparently Kashmirian, but the manuscripts and citations of the text suggest it was composed in the south (ibid., 298–299).
 
 *[p. 81]* ^pg100
@@ -240,10 +290,15 @@ however, also designed for an elite, sophisticated audience, just like Ratnākar
 The Krama tradition influenced both Abhinavagupta and his disciple Kṣemarāja.[^67] In addition to his erudite works on Tantric ritual, Śaiva theology, philosophy, and aesthetics, Abhinavagupta composed his own *stotra*s and had many more attributed to him. Two of his *stotra*s are dated, and thus provide some of the only specific anchors we have for the dating of Kashmirian texts and authors from this period. The concluding verses of his *Kramastotra* (*KrSt*) and *Bhairavastotra* (*BhSt*) claim he composed these hymns in 991 CE and 993 CE, respectively.[^68] There has been some disagreement among scholars as to the total number of *stotra*s Abhinavagupta actually composed. In his landmark study of Abhinavagupta, K. C. Pandey included an appendix with nine *stotra*s attributed to him, including the two dated *stotra*s.[^69] While some scholars have accepted the attribution of many of these,[^70] Sanderson has argued persuasively against his authorship of several—the *Paramārthadvādaśikā, Mahopadeśaviṃśatika*, and *Rahasyapañcadaśikā*, as well as the *Paryantapañcāśikā*, which is not found in Pandey’s work but is attributed to Abhinavagupta in a South Indian manuscript edited by V. Raghavan[^71]—and cast doubt on others.[^72] The only *stotra*s unanimously accepted as Abhinavagupta’s are 
 
 [^67]: On the Krama tradition in relation to Abhinavagupta specifically, see Williams, “Abhinavagupta’s Portrait of a Guru,” especially 192–208.
+
 [^68]: He dates one other work, his *Īśvarapratyabhijñāvivṛtivimarśinī*, to 1015 CE. See Sanderson, “Śaiva Exegesis,” 411.
+
 [^69]: These are *Anuttarāṣṭikā, Paramārthadvādaśikā, Paramārthacarcā, Mahopadeśaviṃśatika,* *Kramastotra, Bhairavastava* \[also known as *Bhairavastotra*\], *Dehasthadevatācakrastotra,* *Anubhavanivedana*, and *Rahasyapañcadaśikā*. See Appendix C in K. C. Pandey, *Abhinavagupta: An Historical and Philosophical Study*, Chaukhamba Sanskrit Studies Vol. I (Varanasi: Chaukhamba Amarabharati Prakashan, 2000 \[1963\]), 943–956.
+
 [^70]: Translations of hymns attributed to Abhinavagupta into European languages include Paul E.  Muller-Ortega’s English translation of the *Anubhavanivedana* (“On the Seal of Śambhu:  A Poem by Abhinavagupta” in *Tantra in Practice*, ed. David Gordon White \[Princeton, NJ: Princeton University Press, 2000\], 573–586); Bettina Bäumer’s translation of the *Anuttarāṣṭikā* into English and a number of hymns into German (“Abhinavagupta’s Anuttarāṣṭikā,” in *The Variegated Plumage:  Encounters with Indian Philosophy;* *A Commemoration Volume in Honour of Pandit Jankinath Kaul ‘Kamal,’* ed. N. B. Patil and Mrinal Kaul ‘Martand’ \[Delhi:  Motilal Banarsidass, 2007\], 168–174, and *Abhinavagupta,* *Wege ins Licht* \[Zürich: Benziger, 1992\]); and Lilian Silburn’s French translations (*Hymnes de Abhinavagupta* \[Paris: De Boccard, 1970\] and *Hymnes aux Kālī: La Roue des Energies Divines* \[Paris: Institut de Civilisation Indienne, 1975\].
+
 [^71]: *The Paryanta Pañcāśikā of Abhinavagupta*, ed. V. Raghavan (Madras:  Thompson & Co., 1951).
+
 [^72]: Sanderson argues: The attribution of the *Anubhavanivedanastotra* and the *Dehasthadevatācakrastotra* rests on oral report alone, and the subject of the latter, the mental worship of Ānandabhairava and his consort Ānandabhairavī surrounded by the eight Mothers, has no parallel in Abhinavagupta’s other works. \[  . . .  \] The *Anuttarāṣṭikā* and the *Paramārthacarcā* survive in Kashmirian manuscripts with colophons that assert that Abhinavagupta is their author. But I know of no evidence that confirms this assertion. Nor am I  aware of any that refutes it. However, the fact that Jayaratha cites a line from the former without attribution does not inspire confidence, since this goes against his usual practice when quoting Abhinavagupta. (“Śaiva Exegesis,” 381)
 
 *[p. 82]* ^pg101
@@ -255,8 +310,11 @@ The *BhSt* praises Śiva in his fierce form as Bhairava and equates the deity wi
 As for the many other *stotra*s attributed to Abhinavagupta, it is unlikely that most were composed by him. Of these, the *Anuttarāṣṭikā* and *Paramārthacarcā* have stronger manuscript evidence in support of Abhinavagupta as their author.[^75] The former celebrates the joy of experiencing one’s innate identity with the “unsurpassable” (*anuttara*) and directs its listeners to abandon various external religious activities and realize this experience for themselves.[^76] The latter praises Śiva as Bhairava, but emphasizes the theological understanding of reality as the fusion 
 
 [^73]: No doubt in part this is due to the fame of their author. There are more manuscripts of *stotra*s attributed to Abhinavagupta than to any other Kashmirian author, with the possible exception of Utpaladeva.
+
 [^74]: Sanderson, “Śaiva Exegesis,” 356. As Sanderson notes, however, in his own hymn Abhinavagupta presents his revised number (twelve) and order of the Kālīs (beginning with Sṛṣṭikālī in verse fifteen, Raktākālī in sixteen, and so on), as well as the unusual depiction of Manthānabhairava as the lord of these Kālīs (ibid., 353–357).
+
 [^75]: Ibid., 381.
+
 [^76]: See Bäumer, “Abhinavagupta’s Anuttarāṣṭikā.” Also cf. *ŚSĀ* v. 1.1.
 
 *[p. 83]* ^pg102
@@ -266,8 +324,11 @@ of Śiva and Śakti embodying “the self-manifest light of reality (*prakāśa�
 However one adjudicates the claims about Abhinavagupta’s authorship of these and other *stotra*s, the fact remains that many Kashmirian scribes and authors (not to mention those in other parts of South Asia) have attributed *stotra*s to this celebrated author. Why does there seem to have been such an impulse to claim that he composed *stotra*s in particular, just as there has been in the case of Śaṅkara? There are, of course, practical reasons. *Stotra*s are often collected, and it is easy to imagine several anonymous *stotra*s in a collection being attributed to the author of another *stotra* in that collection. Like Śaṅkara, Abhinavagupta was a famous, learned, and highly respected author and teacher. Associating a given text with him would have ensured a greater chance of its preservation and dissemination. It also may have been a way to connect him with a tradition otherwise removed from his writings, as in the case of the *Dehasthadevatācakrastotra* and its mental worship of Ānandabhairava and his consort Ānandabhairavī, which Sanderson notes is unparalleled in Abhinavagupta’s other writings.[^79] His works on Tantric theology and philosophy are also exceptionally complicated; one can speculate that there was a desire for more accessible and personal formulations of his teachings. Moreover, such devotional hymns are applicable in worship and ritual contexts—including the worship of Abhinavagupta himself as a revered *guru*[^80]—in ways that complex theological treatises are not. One does not even need to understand the precise meaning of such hymns to recite them and invoke Abhinavagupta as a *guru* and 
 
 [^77]: Sanderson, “Saiva Exegesis,” 413.
+
 [^78]: Raffaele Torella, discussing Abhinavagupta’s predecessor Utpaladeva, notes:  “*Prakāśa* forms, together with a large group of synonyms or quasi-synonyms (from the roots *bhā-,* *pratibhā-, bhās-, avabhās-, ābhās-, pratibhās-, prath-*), a close-knit constellation of ‘luminous’ terms indicating the notions of being manifested, emerging from the dark, coming to consciousness or, more in general, of being the object of knowledge and finally simply ‘being’ ” (*ĪPK*, xxiii–xxiv). Cf. the *Dakṣiṇāmūrtistotra* attributed to Śaṅkara, which uses similar imagery to make related theological points.
+
 [^79]: “Śaiva Exegesis,” 381.
+
 [^80]: See, for example, *Sunday Puja* (Ishber, Kashmir: Ishwar Ashram Trust, 2002), a hymnal used by the followers of Swami Lakshman Joo, which I discuss in Chapter 8.
 
 *[p. 84]* ^pg103
@@ -279,7 +340,9 @@ Kṣemarāja (c. 1000–1050) exerted a great influence on the future of Śaivis
 The trends that Abhinavagupta and Kṣemarāja’s *stotra*s demonstrate continue in the work of Kṣemarāja’s disciple, the ascetic Yogarāja (c. 1025–1075). While he is best known for his commentary on Abhinavagupta’s *Paramārthasāra*, he also composed a short hymn to Śiva called the *Śivāṣṭikā*. It praises Caitanyaśiva, “Śiva who is consciousness,” just as Kṣemarāja’s *stotra* praises Bhairava who is consciousness (*cidbhairava*). As with the works of his teacher, his language is heavily influenced by the Krama tradition.<sup>84</sup>
 
 [^81]: See Chapter 4 for a translation of this and other verses from Abhinavagupta’s hymns.
+
 [^82]: On the worship of Svacchandabhairava, see Sanderson, “Śaiva Exegesis,” 385–398.
+
 [^83]: For the hymn itself, see Raniero Gnoli, “Miscellanea Indica,” in *East and West* 9, no. 3 (Rome:  Instituto Italiano per il Medio ed Estremo Oriente, 1958). On Kṣemarāja’s interpretation of Bhairava’s iconography, see Sanderson, “Śaiva Exegesis,” 398, and Alexis Sanderson, “Meaning in Tantric Ritual,” in *Essais sur le Rituel III:  Colloque du Centenaire de la Section des Sciences religieuses de l’École Pratique des Hautes Études*, ed. A.-M. Blondeau and K. Schipper, Bibliothèque de l’École des Hautes Études, Sciences Religieuses, Vol. CII (Louvain-Paris: Peeters, 1995), 64–70.
 
 *[p. 85]* ^pg104
@@ -287,11 +350,17 @@ The trends that Abhinavagupta and Kṣemarāja’s *stotra*s demonstrate continu
 Between the ninth and eleventh centuries, literary hymns were composed by some of the most outstanding poets, scholars, and theologians in the region. But the composition of such hymns did not stop in the centuries that followed. From the twelfth century, we have the *Dīnākrandanastotra* of Loṣṭaka.[^85] This *stotra* offers a poetic lament on the vicissitudes of life, addressed to Śiva, and eventually expresses the peace that comes from taking refuge in Śiva alone.[^86] Kalhaṇa is identified as the author of a hymn to Ardhanārīśvara, which consists in part of verses also found in his well-known *Rājataraṅgiṇī* (written between 1148/49 and 1149/50).[^87] Jayadratha’s[^88] thirteenth-century *Haracaritacintāmaṇi*—“a collection of accounts of Śiva’s deeds in the world of men, the majority of which are told in versions that associate them with local sites of pilgrimage and the local religious calendar”[^89]— includes some *stotra*s within its narrative. Another hymn, the *Paridevitadvādaśikā*, is also attributed to Jayadratha.[^90] By the beginning of the thirteenth century, Sanskrit production in general had begun to decline in Kashmir[^91]—and yet authors in Kashmir continued to turn to the *stotra* form, reinvigorating it so that it remained a vital genre for literary and religious innovation to the present day.
 
 [^85]: He is also known as Loṣṭadeva, Loṣṭha, and Loṣṭhaka, son of Ramyadeva. His dates are approximately 1125–1175, since he and his father are mentioned in the twenty-fifth chapter of Maṅkha’s *Śrīkaṇṭhacarita* (see vv. 25.31–36). This Kashmirian poet apparently visited Varanasi and became a renunciant (*Dīnākrandanastotra* v. 51).
+
 [^86]: See *Kāvyamālā:  A Collection of Old and Rare Sanskrit Kāvyas, Nāṭakas, Champūs,* *Bhāṇas, Prahasanas, Chhandas, Alaṅkāras, etc., Part VI* (2nd ed.), ed. Paṇḍita Durgāprasāda, Kāśīnātha Śārma, and Vāsudevaśarma (Bombay: Nirnay Sagar Press, 1930), 21–30; Kedāra Nātha Śarmā, *Kaśmīrī Stotraparamparā evaṃ Dīnākrandana Stotra* (Delhi:  Eastern Book Linkers, 2004); and Navjivan Rastogi, *The Krama Tantricism of Kashmir, Vol. I: Historical and General Sources* (Delhi: Motilal Banarsidass, 1979), 193–195 (although the latter, as one would expect, needs updating, and also apparently refers to *Śrīkaṇṭhacarita* 25.26 instead of 25.36 for Loṣṭadeva’s description).
+
 [^87]: Thus, the following correlations (with some variant readings) are readily apparent:  *Ardhanārīśvarastotra* (*ANĪSt*) 1  =  *Rājataraṅgiṇī* (*RT*) 1.2; *ANĪSt* 3  =  *RT* 3.1; *ANĪSt* 4 = *RT* 2.1; *ANĪSt* 5 = *RT* 6.1; *ANĪSt* 6 = *RT* 5.1; *ANĪSt* 10 = *RT* 4.1; and *ANĪSt* 11 = *RT* 8.1. On this hymn, see Walter Slaje, “Kalhaṇas Ode an den androgynen gott (Ardhanārīśvarastotra),” *Zeitschrift der Deutschen Morgenlandischen Gesellschaft* 165, no. 2 (2015): 395–416.
+
 [^88]: On the date of Jayadratha, brother of Jayaratha (well-known for his commentaries on Abhinavagupta’s *Tantrāloka* and the *Vāmakeśvarīmata*), see Sanderson, “Śaiva Exegesis,” 418–419.
+
 [^89]: Ibid., 378n475.
+
 [^90]: Unfortunately, I have not yet been able to examine the manuscript of this unpublished work. See Rastogi, *Krama Tantricism*, 212–213.
+
 [^91]: See Sheldon Pollock, “The Death of Sanskrit,” *Comparative Studies in Society and History* 43, no. 2 (2001):  392–426; Jürgen Hanneder, “On the Death of Sanskrit,” *Indo-Iranian Journal* 45 (2002); and Chapter 6 of the present work.
 
 *[p. 86]* ^pg105
@@ -331,8 +400,11 @@ While the *SKA* is an exceptional composition, it also is just one of a number o
 The seventeenth century was a particularly rich time for the composition of such devotional poetry. In the latter half of the seventeenth century, Ratnakaṇṭha composed multiple *stotra*s and his commentary on Jagaddhara’s *SKA*, as well as 
 
 [^100]: While its precise date of composition is unknown, this *Devīstotra* seems to have been composed in Kashmir between the twelfth and seventeenth century. In the seventeenth century, the poet and scholar Ratnakaṇṭha edited Śobhākara’s original *sūtra*s, bits of his commentary, and some of his summary verses from the *Alaṅkāraratnākara* and combined them with the verses of Yaśaskara’s hymn, replacing the examples in Śobhākaramitra’s text. See Matthew Leveille, “Teaching Through Devotion: The Poetics of Yaśaskara’s *Devīstotra* in Premodern Kashmir” (M.A. thesis, University of Kansas, 2017). My appreciation and understanding of this text were enhanced by reading it with Leveille at the University of Kansas in 2016.
+
 [^101]: *Devīstotra of Śrī Yaśaskara Kavi*, ed. Kālīprasāda Dube, Laghu-Granthamālā 57 (Varanasi: Sampurnand Sanskrit University, 2001). See also Peter Peterson, *Detailed Report of Operations in Search of Sanskrit Mss. in the Bombay Circle, August 1882–March 1883*, Extra Number of the *Journal of the Bombay Branch of the Royal Asiatic Society* (Bombay: Society’s Library, 1883), 12.
+
 [^102]: See Yigal Bronner, David Shulman, and Gary Tubb, “Introduction,” in *Innovations and Turning Points: Toward a History of* Kāvya *Literature*, ed. Yigal Bronner, David Shulman, and Gary Tubb (Delhi: Oxford University Press, 2014), 11.
+
 [^103]: This Avatāra was probably the same Avatāra whose grandson Rājānaka Ratnakaṇṭha composed a commentary on Jagaddhara’s *SKA*, which was finished in 1681. See Śarmā, *Kaśmīrī Stotraparamparā evaṃ Dīnākrandan Stotra*, 28–32.
 
 *[p. 89]* ^pg108
@@ -344,9 +416,13 @@ Ratnakaṇṭha’s *stotra*s are creative works. He composed at least two hymns
 Another of Ratnakaṇṭha’s hymns, the *Śambhukṛpāmanoharastava* (“Beautiful with Śambhu’s Mercy”[^108]), is one of a series of hymns by different authors (including 
 
 [^104]: The *Ratnaśataka* was written in 1665, and the *Sūryastutirahasya* probably was as well. For the most comprehensive introduction to Ratnakaṇṭha, see J. Hanneder, S. Jager, and A. Sanderson, eds. and trans., *Ratnakaṇṭhas Stotras: Sūryastutirahasya, Ratnaśataka und Śambhukṛpāmanoharastava,* Indologica Marpurgensia 5 (München:  Kirchheim Verlag, 2013), and also Hamsa Stainton, “Review:  *Ratnakaṇṭhas Stotras:  Sūryastutirahasya,* *Ratnaśataka und Śambhukṛpāmanoharastava* (J. Hanneder, S. Jager, and A. Sanderson),” *Indo-Iranian Journal* 59, no. 4 (2016): 365–370.
+
 [^105]: The *Ratnaśataka* invokes and celebrates the sun-god Sūrya with its 100 verses (plus two verses with additional information). The alternative title *Citrabhānuśataka*, which is given in a colophon that may or may not have been written by Ratnakaṇṭha himself, seems to have been the original title of the text. But *Ratnaśataka* was also used by Ratnakaṇṭha, referring back to his earlier work in his commentary on the *SKA*. This title connects the text with the author through the similarity of their names and has been more popular over time; hence Hanneder, Jager, and Sanderson chose it as the title for their edition. Another alternative title, *Sūryaśataka*, is more likely a summary of the poem’s contents than an official title. Ratnakaṇṭha takes Mayūra’s popular *SūŚ* as the model for his work, both in content and form. Like Mayūra’s text, the *Ratnaśataka* systematically describes Sūrya’s characteristics, such as the horses and charioteer of his solar chariot and the glory of the solar disk itself. Ratnakaṇṭha primarily relies on the same meter—Sragdharā—as Mayūra, but he also uses the Śārdūlavikrīḍita meter (see Hanneder, Jager and Sanderson, *Ratnakanṭḥas Stotras*, 24– 27, which includes a chart comparing the contents of the two poems).
+
 [^106]: This total excludes the final *phalaśruti* verse on the benefits of reciting the hymn.
+
 [^107]: See, for example, vv. 11, 14, 19, and 21, and Hanneder, Jager, and Sanderson, *Ratnakaṇṭhas Stotras*, 22–23.
+
 [^108]: Hanneder, Jager, and Sanderson, *Ratnakaṇṭhas Stotras*, 141.
 
 *[p. 90]* ^pg109
@@ -366,8 +442,11 @@ Presumably Ratnakaṇṭha composed a number of other hymns, for he frequently q
 *What will you not do out of consideration for your humble devotees? (*Laghupañcikā*, p. 94)*
 
 [^109]: Alexis Sanderson notes that the context for the inclusion of these hymns is “the ritual of *pavitrārohaṇam* to be performed immediately after a post-initiatory consecration ceremony (*abhiṣekaḥ*)” (“Śaiva Exegesis,” 397n555).
+
 [^110]: Trans. Sanderson, *Ratnakaṇṭhas Stotras*, 134–139.
+
 [^111]: This refers to a well-known story in the Purāṇas in which Śiva gives the ocean of milk to a young devotee named Upamanyu.
+
 [^112]: The sun and moon are the two eyes on Śiva’s face, while fire is the third eye on his forehead.
 
 *[p. 91]* ^pg110
@@ -383,8 +462,11 @@ This general trend is also found in the work of Ratnakaṇṭha’s contemporary
 The *DNV* is Sāhib Kaul’s most impressive literary composition. According to the text itself, it was composed in 1666.[^116] This lengthy poem reformulates and interprets a much simpler, non-Kashmirian hymn to the Śrīvidyā 
 
 [^113]: Sanderson, “Kashmir,” 124.
+
 [^114]: On Sāhib Kaul’s compositions, see Alexis Sanderson, “The Śaiva Religion Among the Khmers, Part I,” *Bulletin de l’ École française d’Extrême-Orient* 90–91 (2003–2004), 365n42.
+
 [^115]: Sanderson notes:  “The Kauls, though subsequently integrated as a distinguished division of Kashmirian brahmin society, were Maithila Mādhyandinīya Yajurvedins who had come to Kashmir from northern Bihar during the period of Muslim rule, probably after the incorporation of Kashmir into the Mughal empire in 1586” (“Śaiva Exegesis,” 409–410; see also Sanderson, “Kashmir,” 124–126, and Sanderson, “Śaiva Religion Among the Khmers,” 361–366).
+
 [^116]: Madhusudan Kaul, ed., *The Devīnāmavilāsa of Sāhib Kaul*, Kashmir Series of Texts and Studies 63 (New Delhi: Navrang, 1989), 2.
 
 *[p. 92]* ^pg111
@@ -394,9 +476,13 @@ goddess Bhavānī called the *Bhavānīsahasranāmastotra* (Hymn of the thousand
 A number of short devotional works are attributed to Sāhib Kaul.[^117] His *DNV* confirms some of these by mentioning their titles in the closing verses of its chapters, and therefore these at least were composed prior to this major literary work.[^118] Overall, these poems suggest much about the vitality of *stotra*s in seventeenth- century Kashmir. Even though they are often identified as *stotra*s, these works stretch the bounds of the *stotra* genre. Some, like the *Śārikāstava* (*ŚāSt*) devoted to the Kashmirian goddess Śārikā, identify themselves as being *stotra*s or *stava*s, but others are less explicit.[^119] For example, while the poet begins the *Śivaśaktivilāsa* (*ŚŚV*) by paying homage to Śiva directly,[^120] the rest of the poem is devoid of vocatives, second-person pronouns or verbs, and the usual formulations of praise, homage, and so on typically found in *stotra*s. Instead, it describes the play (*vilāsa*) between Śiva and his various Śaktis, moving first through the traditional group of five (*cit, ānanda, icchā, jñāna*, and *kriyā*) and then describing additional Śaktis.[^121] In its depiction of the interplay between Śiva and his powers, this poem is less a 
 
 [^117]: I am very grateful to Jürgen Hanneder for generously sharing his unpublished critical edition of Sāhib Kaul’s *stotra*s with me and encouraging my work on them. Needless to say, any textual or interpretative errors in this section are my own.
+
 [^118]: Sāhib Kaul’s references to earlier *stotra* compositions include:  *DNV* 3.125 → *Citsphārasārādvaya; DNV* 4.235 → *Saccidānandakandalī; DNV* 5.91→ *Śivaśaktivilāsa; DNV* 6.110 → *Śārikāstava; DNV* 8.101 → *Sahajārcanaṣaṣṭikā; DNV* 9.101 → *Nijātmabodha; DNV* 10.101 → *Candramaulistava; DNV* 11.101 → *Suprabhātastava*.
+
 [^119]: The title of this poem refers to it as a *stava*, and in v. 17 Sāhib Kaul says he composed this *stotra* to Śārikā, his lineage-deity. The *Sahajārcanaṣaṣṭikā* and *Śivajīvadaśaka* follow the practice of many earlier texts usually accepted as *stotra*s that identify the number of verses in the body of the poem; the former also refers to itself as a *sūkti* (“beautiful \[praise-\]poem”) (v. 61).
+
 [^120]: “I offer homage to you, the lord” (*namāmi prabhuṃ \[ . . . \] bhavantam*) (*ŚŚV* v. 1ab).
+
 [^121]: E.g., *ŚŚV* v. 9 describes the power of vibration (*spandaśakti*), while *ŚŚV* v. 12 depicts the power of great illusion (*mahāmāyā*).
 
 *[p. 93]* ^pg112
@@ -410,9 +496,13 @@ Some of Sāhib Kaul’s other poems also present the first-person voice of one w
 While the content and variety of Sāhib Kaul’s hymns are often striking, their poetic features are less distinctive. Like most *stotra*s from Kashmir, they often incorporate literary figures such as alliteration[^125] and “apparent contradiction” (*virodhābhāsa*).[^126] While such literary figures are found throughout Sāhib Kaul’s poems, they are not as prominent as they are in his *DNV* and they seem secondary 
 
 [^122]: For a brief discussion of this poem, see Jürgen Hanneder, “Sāhib Kaul’s Presentation of Pratyabhijñā Philosophy in His *Devīnāmavilāsa*,” in *Le Parole e i Marmi: Studi in Onore di Raniero Gnoli nel Suo 70° Compleanno*, Serie Orientale Roma 92.1–2, ed. Raffaele Torella (Rome: Istituto Italiano per l’Africa e l’Oriente, 2001), 399–418, 415–416.
+
 [^123]: *CSSA* v. 60.
+
 [^124]: E.g., *SAṢ* v. 7, discussed in Chapter 4.
+
 [^125]: E.g., *CSSA* v. 164d; *SCĀK* vv. 2–3, 36, 41.
+
 [^126]: E.g., *SCĀK* v. 42.
 
 *[p. 94]* ^pg113

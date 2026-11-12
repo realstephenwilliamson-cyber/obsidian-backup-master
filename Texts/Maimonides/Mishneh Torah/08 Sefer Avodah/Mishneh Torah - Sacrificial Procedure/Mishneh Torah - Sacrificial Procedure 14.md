@@ -125,61 +125,111 @@ Both a man and a woman[^44] are liable for the transgression [the prohibition ag
 **17.** [The court] seizes collateral from all of those obligated to bring burnt-offerings or peace-offerings [to compel them to offer them]. Even though [the sacrifice] will not bring him atonement unless he desires to offer it, as [implied by] the term "willfully," he is compelled until he says: "I desire."[^49] Collateral is not seized from those obligated to bring sin-offerings and guilt-offerings, by contrast. [The rationale is that] since [the failure to bring these sacrifices] prevents [the people] from receiving atonement,[^50] we are not concerned that they will be sinful and delay [bringing] their sacrifices. [The only] exception is the sin-offering brought by a nazirite. Since [the failure to bring] it does not prevent him from drinking wine,[^51] he is compelled [to bring the offering], lest he delay it. ^14-17
 
 [^1]: See Halachah 4 for the distinction between the two terms.
+
 [^2]: See Chapter 12, Halachah 4.
+
 [^3]: With regard to sin-offerings and guilt-offerings, see Halachah 8.
+
 [^4]: See Chapter 2, Halachah 1, 4.
+
 [^5]: See Chapter 16, Halachah 14; Chapter 17, Halachah 12.
+
 [^6]: See Chapter 16, Halachah 13.
+
 [^7]: See Chapter 16, Halachah 14.
+
 [^8]: See *Hilchot K'lei HaMikdash* 6:9-10.
+
 [^9]: Before bringing it.
+
 [^10]: This is not considered as bringing an offering in partnership.
+
 [^11]: Even though he mentions a specific animal, since his promise focuses on the animal's value and not the animal itself, it is considered as a vow and not a pledge. Moreover, he made a promise incumbent on himself - that he bring the value of the animal as a sacrifice - and did not designate the animal's worth itself. See also Halachah 6.
+
 [^12]: The obligation is on him; he has made a commitment to bring the sacrifice.
+
 [^13]: I.e., pledging that the animal would be sold and the money received be designated for the purchase of a sacrifice.
+
 [^14]: I.e., the animal or its worth is designated as a sacrifice.
+
 [^15]: For the obligation is incumbent on him and it was not fulfilled.
+
 [^16]: Moreover, the sacrifice must be offered in an acceptable manner. If it was disqualified, he is still obligated to fulfill his vow.
+
 [^17]: Because he personally is under no further responsibility. He fulfilled his obligation by designating the animal.
+
 [^18]: As stated in Halachah 4, this is considered a vow. The rationale is that he said: *elai*, "I promise to bring." That expression indicated his willingness to accept responsibility.  
     In his Commentary to the Mishnah (*Arachin* 5:5), the Rambam states that he is obligated to pay only the value of the dead ox, not its value when it was alive.
+
 [^19]: Since he made an explicit stipulation freeing himself of responsibility, he is not considered as liable.
+
 [^20]: See *Hilchot Bi'at HaMikdash* 9:14 and the Rambam's Commentary to the Mishnah (*Menachot* 13:10) which refers to the temple constructed in Alexandria by Chonio, the son of Shimon the Just.
+
 [^21]: The Mishnah (*Menachot* 13:10) states merely "a burnt offering," omitting the words "to sacrifice in the Temple." The commentaries question why the Rambam felt it necessary to add them.
+
 [^22]: Since he promised to bring a burnt-offering, it is necessary that it be brought to Jerusalem. The fact that he added that he would bring it elsewhere is not significant.
+
 [^23]: I.e., according to the Rambam, the animal set aside is considered as designated as a burnt-offering and the person is liable for offering a sacrifice outside the Temple. Nevertheless, he is considered to have fulfilled his vow for the reason stated by the Rambam.
+
 [^24]: As is done at the conclusion of one's nazirite vow.
+
 [^25]: Thus when [[Torah 24 - Vayikra#^5-1|Leviticus 5:1]] introduces the obligation to bring a sin-offering, it states: "If a person will sin...."
+
 [^26]: I.e., one who is not obligated to bring such a sacrifice.
+
 [^27]: The types of sacrifices these individuals are obligated to bring vary dependent on the person's financial standing, as explained in *Hilchot Mechusrei Kapparah* 1:3. Accordingly, one might think that regardless of the financial status of the person who pledged to bring the sacrifice, the type of sacrifice to be brought is determined by the financial status of the person who is obligated to offer it. Nevertheless, as stated in *Arachin* [[Arakhin 13#13a|13a]] (and quoted by the Rambam in *Hilchot Mechusrei Kapparah* 5:11), this is not the case. If a wealthy person vows to bring the sacrifices of a poor person afflicted by *tzara'at,* he must bring the sacrifices of a wealthy man. Hence, we are forced to say that here the Rambam is speaking of a poor person who took such a vow.
+
 [^28]: Rashi (*Arachin* [[Arakhin 21#21a|21a]]) interprets the passage as referring to an instance where the person obligated to bring the sacrifice did not know it was being offered on his behalf. If he did know, however, he must consent. The Rambam differs and maintains that since he gave his consent originally and the atonement associated with these sacrifices is achieved immediately, it is not necessary that he consent at the time the sacrifice was offered (Rav Yosef Corcus; see Halachah 17).
+
 [^29]: Since the atonement associated with these sacrifices is more encompassing, it requires not only his initial consent, but also continuous willful activity (*ibid.*).
+
 [^30]: The Rambam is referring to the wording of the Mishnah (*Nedarim* 1:1). The intent of the Mishnah is that the wicked make vows hastily and moreover, obligate themselves for vows which constitute a commitment incumbent on their person that they will not necessarily be able to fulfill. As the Rambam writes in *Hilchot Nedarim* 13:25 and in his commentary to the above mishnah, it is preferable not to take vows, for it is possible one will not be able to fulfill them. See also *ibid.* 1:25.
+
 [^31]: For the upright do not take vows for the reason stated in the previous note (*ibid.*:26).
+
 [^32]: For the upright do make pledges, for a pledge involves the sanctification of an article at hand and if the upright wish to take such action, there is nothing preventing them from fulfilling their vow. In his Commentary to the Mishnah (*loc. cit.*), the Rambam explains that the upright would bring their sacrificial animals to the Temple Mount and only then, pledge to bring them. In this way, there would be no question of them keeping their word.
+
 [^33]: The Rambam does not mention oaths, because the upright try to avoid taking oaths entirely.
+
 [^34]: See *Hilchot Nizirut* 1:16 which states:  
     There are places where people are inarticulate and mispronounce words, calling subjects by different names. [In those places,] we follow the meaning of the local term.  
     What is meant by the statement that all the terms used for the word *korban*, "sacrifice," are equivalent to the term *korban*? When one says: "[This produce] is considered for me like a *konam*," "...a *konach*," or "...a *konaz,*" they are all terms referring to a *korban*.
+
 [^35]: This is a general principle applying with regard to oaths (*Hilchot Sh'vuot* 2:10-12) and vows (*Hilchot Nedarim* 2:2).  
     In the continuation of the halachah, the Rambam describes a situation in which one is liable for a sacrifice he intended to give even though he does not say anything. That, however, is not a contradiction to the statements here, because here, the person's statements contradict his intent.
+
 [^36]: Which is consecrated to the Temple treasury.
+
 [^37]: Both of these terms refer to commitments to make donations to the Temple treasury. See *Hilchot Arachin*, ch. 1, for a more complete description.
+
 [^38]: I.e. the tithes (including the second tithe and the tithe for the poor) separated from one's crops (see *Hilchot Ma'aser* and *Hilchot Ma'aser Sheni*). Also, implied are the tithe offerings. See *Hilchot Bechorot*, ch. 4.
+
 [^39]: *Leket, pe'ah, ollelot*, etc., as described in *Hilchot Matanot Aniyim*.
+
 [^40]: *Sefer HaMitzvot* (positive commandment 83) and *Sefer HaChinuch* (mitzvah 438) include this commandment among the 613 mitzvot of the Torah.
+
 [^41]: *Sefer HaMitzvot* (negative commandment 155) and *Sefer HaChinuch* (mitzvah 574) count this prohibition among the 613 mitzvot of the Torah.
+
 [^42]: As stated in *Hilchot Sanhedrin* 18:2, lashes are only given for the violation of a prohibition that involves a deed.
+
 [^43]: For the calculation begins anew with the consecration of the second animal.
+
 [^44]: *Rosh HaShanah* [[Rosh Hashanah 6#6b|6b]] explains that since a woman is not obligated to bring a burnt-offering (*olat re'i'ah*) for the pilgrimage festival, one might think that the entire concept of a pilgrimage festival - and hence, this commandment - does not apply to her. This supposition is, however, negated, for she is obligated in bringing the peace-offering of rejoicing (*shalmei simchah*) that are sacrificed on festivals.
+
 [^45]: The prohibition is not to delay paying one's vow. Since the heir did not make the vow himself, he does not violate this prohibition if he does not carry out the vow at the appropriate time. He is, however, to bring the sacrifice. See *Rosh HaShanah* [[Rosh Hashanah 6#6b|6b]].
+
 [^46]: As *Ketubot* [[Ketubot 86#86a|86a]]-b explains, the court is obligated to compel every individual to observe every positive commandment incumbent upon him, even if it requires beating him to the point of death.
+
 [^47]: The Rambam's wording appears to imply that if the court sees the person acting indolently with regard to the sacrifice, it is obligated to subject him to compulsion even if the first festival has not passed. This point is not, however, accepted by all authorities (Rav Yosef Corcus).
+
 [^48]: In *Hilchot Gerushin* 2:20, the Rambam explains why acting under compulsion in such circumstances can be considered willful activity. [For there also, a bill of divorce must be written with the husband's consent and yet he can be compelled to consent.]  
     The concept of being compelled against one's will applies only when speaking about a person who is being compelled and forced to do something that the Torah does not obligate him to do - e.g., a person who was beaten until he consented to a sale, or to give a present. If, however, a person's evil inclination presses him to negate [the observance of] a mitzvah or to commit a transgression, and he was beaten until he performed the action he was obligated to perform, or he dissociated himself from the forbidden action, he is not considered to have been forced against his will. On the contrary, it is he himself who is forcing [his own conduct to become debased].  
     With regard to this person who [outwardly] refuses to divorce [his wife] - he wants to be part of the Jewish people, and he wants to perform all the mitzvot and eschew all the transgressions; it is only his evil inclination that presses him [to act otherwise]. Therefore, when he is beaten, until his [evil] inclination has been weakened, and he consents [to the divorce], he is considered to have performed the divorce willfully.  
     The Rambam's statements have implications far beyond their immediate halachic context. The Rambam is saying that the fundamental desire of every Jew is to affirm his Jewishness and observe the Torah and its mitzvot. Even when a person's conscious mind does not necessarily consent to this inner motivation, it is at work, molding his character without his knowledge. And at times, either because of undesirable circumstances - being compelled against his will as above - or because of desirable ones - an expression of Divine favor - this inner drive will surface.
+
 [^49]: As stated in *Hilchot Arachin* 3:14:  
     They take... [from the persons obligated] against their will. They are not required to return the collateral by day or by night. They sell all the landed property and movable property in [those person's] possession including their clothing, household articles, servants, and livestock, taking their payment from everything.
+
 [^50]: Burnt-offerings also feature in bringing atonement for the failure to fulfill positive commandments. Nevertheless, in that instance the atonement is achieved through the person's repentance and the offering is considered merely as a present. In contrast, a sin-offering is required to bring about the atonement itself.
+
 [^51]: See *Hilchot Nazirut* 8:10.

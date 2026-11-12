@@ -165,7 +165,9 @@ The stanza I examine here belongs to two texts by Abhinavagupta: the *Tantrālok
 on the stanza in the TĀ. In the *Locana* \[ad *Dhvanyāloka* I 13\], it is Abhinavagupta who offers a self-exegesis of it. I give here a provisional translation, in conformity with the context in which it is employed as well as with the analysis of the TĀV:[^2] 
 
 [^n0]: I wish to express my deep gratitude to David Shulman whose paper, published in this volume, has inspired the last section of my contribution and whose careful reading of my first draft has significantly improved its English wording. I am likewise indebted to Yigal Bronner for his insightful comments on the question of the *aprastutapraśaṃsā* and to Yves Codet for a thorough discussion on several points of interpretation. I am also extremely grateful to Christophe Va-lia-Kollery for his final reading of the English text and, needless to say, to Isabelle Ratié for her rigorous and generous work on the final editing.
+
 [^1]: *Bhāskarī* ad ĪPV I 1, 4; see Appendix-4.
+
 [^2]: See below, § 1, for the detail of Jayaratha’s analysis.
 
 *[p. 34]* ^pg11
@@ -179,8 +181,11 @@ Being an apostrophe to the *bhāvavrāta*, the “whole of things,” or phenome
 The meter is *śārdūlavikrīḍita*, frequent in lyrical poetry, and such is indeed the tone of this address to the *bhāvavrāta*, which amounts to a celebration – a lyricism that again expresses itself through the “I” of *manye*, in which Abhinavagupta manifests himself as the representative of the Śaivas. 
 
 [^3]: Sanskrit texts are quoted as they appear in the reference edition – I have not corrected the *sandhi*.
+
 [^4]: Note that *haṭhāt* has the double meaning: “by force” and “invincibly.”
+
 [^5]: Compare D. Shulman’s paper in this volume on the use of *jāne*: according to Abhinavagupta (commenting on a verse quoted in the *Dhvanyālokavṛtti* ad III 43), *jāne* “is often a marker of the figure *utprekṣā*, ‘flight of fancy,ʼ but \[...\] here \[...\] its litteral meaning is what matters.”
+
 [^6]: For examples of Tantric usages of the theatrical analogy, see J. Törzsök’s contribution to this volume.
 
 *[p. 35]* ^pg12
@@ -198,6 +203,7 @@ I would like to show that, in the two occurrences of the stanza, aesthetics and 
 Jayaratha goes no further than a philosophical interpretation of the stanza, which coincides with the expressed meaning alone: everything is sentient. And in order to establish that fundamental truth of Kashmirian non-dualist Śaivism, Jayaratha develops the dramatic metaphor of the first hemistich. 
 
 [^7]: See GEROW 1971, p. 317: “mention made of a topic irrelevant to the subject” and INGALLS ET AL. 1990, who understands: “praise by means of the extraneous,” and identifies it as the allegory.
+
 [^8]: The three types of relationship between *aprastuta* and *prastuta* being that of cause and effect, general and particular and similarity; see *Dhvanyāloka* I 13 and *Locana*.
 
 *[p. 36]* ^pg13
@@ -248,6 +254,7 @@ The novelty of the TĀV’s interpretation consists in reading, under the *jana*
 *adyāsmān asataḥ kariṣyati sataḥ kiṃ nu dvidhā vāpy ayaṃ kiṃ sthāsnūn uta naśvarān uta mithobhinnān abhinnān uta |* *itthaṃ sadvadanāvalokanaparair bhāvair jagadvartibhir manye maunaniruddhyamānahṛdayair duḥkhena taiḥ sthīyate ||* Now, will it \[dialectics (according to the context of the stanza in the ĪPVV)\] make us existent or nonexistent, or even both? Will it make us permanent or destructible, different from each other or nondifferent? In my view, thus \[confronted with such dilemmas\], beings remain in pain: they who live in this world, immersed in contemplating the face of the Being, have their hearts closed by the silence \[to which they are reduced,
 
 [^10]: On this reasoning, see the *Locana* ad *Dhvanyālokavṛtti* I 13 quoted below, p. 61. On the notion of *sahṛdaya(tā)* in the aesthetic register, see esp. BANSAT-BOUDON 1992a, pp. 148-149, 151; also (for its use in both aesthetic and spiritual registers), 2012a, pp. 225-233; and below, n. 33.
+
 [^11]: Although Abhinavagupta could well be its author, due to the similarity of structure with TĀ I 332 (stanza organized by “*manye*”), as well as to the presence of the same stanza in another text by Abhinavagupta, namely the *Īśvarapratyabhijñāvivṛtivimarśinī* (henceforth ĪPVV); see the following §.
 
 *[p. 39]* ^pg16
@@ -289,8 +296,11 @@ Jayaratha persists in his bold interpretation, since the syntactic segment thus 
 In the same vein, the term *bhaṅgī* is to be understood here more as “costumes” (one of its meanings) than as “twists” or “bends”[^17] (or emotional “modes,” as understood in the *Locana*; see below, p. 61) – such costumes representing the various roles played by the actor. Let us remember that the *āhāryābhinaya* – costume and make-up – although it has “to be borrowed” (*āhārya*) from the external world before the actor enters the stage, is conceived as a full-fledged register of acting (*abhinaya*).[^18] 
 
 [^15]: This will be the syntactical order of the stanza in Abhinavagupta’s self-exegesis of the same verse in the *Locana*; see below, p. 58: *haṭhād eva lokaṃ yathecchaṃ vikārakāraṇābhir nartayati*.
+
 [^16]: Lit., “Since (*yat*) you play (*saṃkrīḍase* = *samullasasi*), in the way of an actor (*nartayan* = *naṭavat*), with various costumes, i.e. with a form that is not real (*vividhābhir bhaṅgībhiḥ* = *atāttvikena rūpeṇa*).”
+
 [^17]: Cf. Padoux’s translation: “O Totalité des choses! De force, Tu t’empares des cœurs humains et Tu joues, tel un acteur, à *cacher sous de multiples détours* (my emphasis) le cœur du Soi \[...\]”; transl. SILBURN AND PADOUX 1998, p. 126.
+
 [^18]: On the four registers of *abhinaya*, see BANSAT-BOUDON 1990; also BANSAT-BOUDON 1992, pp. 145-155, 341-387.
 
 *[p. 42]* ^pg19
@@ -306,6 +316,7 @@ Such a spectator – who is a figure of the opponent in the interpretation of th
 On the philosophical level, the insensibility (*ahṛdayatā*) of that deceived spectator represents *avidyā* (or *ajñāna*), metaphysical ignorance, as it manifests itself in a double error (*bhrānti*) consisting, in Śaiva reasonings and particularly in Abhinavagupta’s PS (30-31 and 39-40), in taking the Self for the non-Self, that is, in forgetting the unity of the Self and in placing before itself the object, namely phenomenal diversity (to which also belong the multiplicity of the 
 
 [^19]: On Śiva as the unique Agent and Actor and the reasonings on the “beingness” (*astitva*) of the phenomenal world, see BANSAT-BOUDON 2014, pp. 64-73.
+
 [^20]: See PS 19 in BANSAT-BOUDON AND TRIPATHI 2011, pp. 138ff.
 
 *[p. 43]* ^pg20
@@ -331,9 +342,13 @@ The drama (*nāṭya*) that the world of transmigration is \[i.e. the phenomenal
  Error here is nothing but nescience (*avidyā*), namely the mistaking of the Self for the non-Self which in turn will lead to an even deeper error, that of mistaking the non-Self for the Self. Like the *sūtradhāra*, both the leader and first actor of a theatre group who plays the main role (*nāyaka*), *avidyā* leads the plot of the universe (*viśvetivṛtta*) on the stage of the world of transmigration (*saṃsāra*). Better than *viśva* in the alternative analogy, that of the drama of the universe (*viśvetivṛtta*), *saṃsāra* is able to represent the target in the metaphor of the “world as a theatre”: in the endless flow of reincarnations, empirical beings take on one role after another. And although, in Śaiva terms, the play (*nāṭya*) is not ultimately “true” (*aparamārtha-sat*),[^28] it has enough power of illusion to fool the spectators, so long as these remain in the condition of *paśu*. At the source of this dramatic illusion is Parameśvara, the Supreme Agent[^29] and Supreme 
 
 [^25]: Lit. “the world of transmigration comparable to a play.”
+
 [^26]: “Error” here is in the sense of nescience (*avidyā*); see below.
+
 [^27]: With a play on the word *nāyaka*, “the one who leads,” which in dramaturgy also refers to the “hero.” So error leads the dramatic plot of the universe in the same way as the *sūtradhāra* leads it on the stage: it is both its instigator and main protagonist. For the *sūtradhāra* is the character *de rigueur* in the prologue which introduces the dramatic fiction as well as the first protagonist of the play (see LÉVI 1890, p. 378 and BANSAT-BOUDON 1992, p. 83 et 219). He is also the true incarnation of theatricality in that he appears as the very figure of the Actor in the *pūrvaraṅga*, the half-ritualistic and half-dramatical “preliminaries” to the performance of the dramatic fiction which are described in the fifth chapter of the *Nāṭyaśāstra* (see BANSAT-BOUDON 1992, pp. 74-76).
+
 [^28]: Cf. above, p. 41, Jayaratha’s notation: *atāttvikena rūpeṇa*, “taking on a non-real form.”
+
 [^29]: On Śiva as the Agent *par excellence*, see BANSAT-BOUDON 2014, pp. 65-71. See also ĪPV II 4 19 (vol. II, p. 200): *iti cidrūpasyaiva kartṛtvam upapannam abhinnasya bhedāveśasahiṣṇutvena kriyāśaktyāveśasaṃbhavāt*, “Thus, only what is ferent forms, it can exercize the power of action.”
 
 *[p. 45]* ^pg22
@@ -345,7 +360,9 @@ One can see that the stanza and its commentaries transpose metaphysical ignoranc
 undivided consciousness can be an Agent, for, being capable of taking on difthe
 
 [^30]: On the main characteristic of the Lord, i.e. that his essential nature cannot be altered whatever form he takes on, see in particular PSV 1 quoting *Spandakārikā* (henceforth SpK) I 3 (see BANSAT-BOUDON AND TRIPATHI 2011, pp. 66-67, and n. 253); also PS 34 (and PSV ad loc.) and PS 36. This is also the case with ordinary, empirical, actors who never forget that they themselves are not the characters or at least not fundamentally so. This they never – or should never – ignore, since they would otherwise risk being possessed by the deity whose role they are playing or start doing for real what should remain fiction, for example killing a fellow actor who happens to be playing the part of an enemy (see the anecdotes in TARABOUT 1998, pp. 296ff.). See also ĪPV II 4 19 (quoted above, n. 29) which asserts that, although capable of being many, the Lord (or consciousness, *cit*) remains one and unaffected by the multiplicity he himself creates. It is in this context that the passage of the ĪPVV (vol. III, p. 244) quoted above, p. 43, uses the metaphor of the error a*s sūtradhāra*.
+
 [^31]: See HULIN 1978, p. 308, n. 5, who translates by “énergie de cèlement.” The *tirodhānaśakti* is one of the *pañcakṛtya*, Śiva’s five cosmic functions (see BAN-SAT-BOUDON AND TRIPATHI 2011, p. 100, n. 413).
+
 [^32]: See PSV 5 commenting on “Śiva himself, who takes on the condition of a fettered soul”: “Thus, that Lord who has been described above as a uniform mass of blissful consciousness, and whose nature is freedom (*svātantrya*), Śiva himself, whose essence is now the veiling of his own true nature (*svarūpagopana*), takes on the role (*bhūmikā*) of a cognizer endowed with a body, according to his own will, as though he were an actor (*naṭa*) and, since he is \[henceforth\] to be maintained and treated as a domestic animal \[that is, as a tethered beast\], he is now distinguished by his existence as a fettered subject (*paśu*)”; on *svarūpagopana*, see also also PS 15 (on *māyāśakti*) and PSV ad loc.: BANSAT-BOUDON AND TRIPATHI 2011, pp. 126-129, and n. 529.
 
 *[p. 46]* ^pg23
@@ -360,8 +377,11 @@ On the one hand, therefore, we have that deceived spectator; on the other, the s
 In this respect, and in this respect only, *māyā* is comparable to the *prakṛti* of the Sāṃkhya, who shows herself on the stage of the world[^36] by assuming, one after the other, those roles that are her “evolutes” or “products,” the remaining twenty-three *tattva*s – the difference consisting in that *prakṛti* is unconscious, whereas *māyā*, 
 
 [^33]: See Abhinavagupta’s famous definition of the *sahṛdaya* in *Locana* ad *Dhvanyāloka*, *vṛtti* ad I 1 (CSS ed., pp. 38-39; INGALLS ET AL. 1990, p. 70): *yeṣāṃ kā-vyānuśīlanābhyāsavaśād viśadībhūte manomukure varṇanīyatanmayībhavana-yogyatā te svahṛdayasaṃvādabhājaḥ sahṛdayāḥ*; for the use of *sahṛdayatā* in both aesthetic and spiritual registers, see BANSAT-BOUDON 2012a, pp. 225-233.
+
 [^34]: See the text of the stanza, ĪPK I 1, 4, in Appendix-3.
+
 [^35]: See, for instance, Abhinavagupta’s *maṅgala* to his *Locana* on Ānandavardhana’s *avataraṇikā* to III 1 (CSS ed., p. 288; INGALLS ET AL. 1990, p. 369): *sma-rāmi smarasaṃhāralīlāpāṭavaśālinaḥ | prasahya śambhor dehārdhaṃ harantīṃ parameśvarīm ||*. “I remember the Supreme Goddess who stole half of Śambhu’s body after he had shown his effortless skill in playing at annihilating Smara himself.”
+
 [^36]: See SK 59 and above, p. 40; also BANSAT-BOUDON AND TRIPATHI 2011, pp. 52- 53.
 
 *[p. 47]* ^pg24
@@ -377,8 +397,11 @@ In effect, *sākṣātkārakalpapratīti* is a way to condense in one term the c
 As for the influence cast over the hearts of men, it is a way of alluding to *rasa*, the irresistible aesthetic rapture which, when transposed onto the ontological level, merges with the beatific experience 
 
 [^37]: See PS 15 in BANSAT-BOUDON AND TRIPATHI 2011, pp. 126-129, where *māyā* is described as *devī māyāśaktiḥ*; also BANSAT-BOUDON 2008, pp. 60-62.
+
 [^38]: See TĀV VIII 333: *devīti devābhinnatvāt*.
+
 [^39]: The notion is found at several places in the *Abhinavabhāratī* ad *Nāṭyaśāstra*; see BANSAT-BOUDON 1992, pp. 150-152; 2012, pp. 224-225.
+
 [^40]: On the stages of the aesthetic process as analyzed by Abhinavagupta in his *Abhinavabhāratī*, see BANSAT-BOUDON 1992, pp. 152-155, 1992a and 2012, pp. 214-215.
 
 *[p. 48]* ^pg25
@@ -394,8 +417,11 @@ Let us come to the *Locana*. The broader context is that of the exposition of *d
 What Ānandavardhana wants to show is that he has discovered something new, not a new name for categories already recognized, and so he goes through a number of such well-known categories – *alaṃkāra*s that involve an element of suggestion (including the *aprastutapraśaṃsā*) – and shows that they are not at all identical with his new concept of *dhvani*. He is thus led to defend his new theory, namely that the *ālaṃkārika* register is delimited by the predominance of the literal meaning, whereas that of the *dhvani* is defined by the predominance of the suggested meaning. Therefore, taking the *aprastutapraśaṃsā* as an example, he concludes (CSS ed., pp. 126-129; INGALLS ET AL. 1990, p. 159): 
 
 [^41]: On the notion of *ātmaviśrānti*, see below, p. 72 and n. 100; also BANSAT-BOU-DON AND TRIPATHI 2011, pp. 56, 71, 321.
+
 [^42]: See, esp., BANSAT-BOUDON 2004, pp. 280-283; 2012, pp. 231-233.
+
 [^43]: CSS ed., pp. 127-132; INGALLS ET AL. 1990, pp.160-163, 165-167.
+
 [^44]: CSS ed., pp. 125-132; INGALLS ET AL. 1990, pp. 158-165.
 
 *[p. 49]* ^pg26
@@ -441,8 +467,11 @@ Thus, as one may infer from the next passage of the *Locana*, one can recognize 
 2\. The second stanza given as an example, which Abhinavagupta says that he composed himself, without giving its source, is the stanza under examination: “*bhāvavrāta haṭhāj*...” Abhinavagupta explains that, the expressed meaning being completely impossible, i.e., implausible (how to address the mass of the objects and to consider them as sentient?),[^55] the suggested meaning prevails over it, thus creating wonder and establishing the stanza as a case of *vastudhvani*. 
 
 [^52]: My translation. See below, p. 57, for an extended translation of the same passage, which applies to the verse itself (“*bhāvavrāta*,” etc.) and shows its implications once the suggested meaning has been identified.
+
 [^53]: Ānandavardhana and Abhinavagupta will take up the question again in III 40; see below, § 3.
+
 [^54]: The verse, which addresses the *vetāla* (a *śārdūlavikrīḍita*, with two irregularities: the 8th syllable is long; there is one syllable too many, at the beginning of the second *pāda*; it should read “*kandhe*” instead of “*svakandhe*”), reads as follows: *prāṇā yena samarpitās tatra balād yena tvam utthāpitaḥ svakandhe yasya ciraṃ sthito ’si vidadhe yas te saparyām api | tasyāsya smitamātrakeṇa janayan prāṇāpahārikriyāṃ bhrātaḥ pratyupakāriṇāṃ dhuri paraṃ vetāla līlāyase ||*.
+
 [^55]: See the passage of the *Locana* quoted immediately above, which emphasizes that the “particularities” ascribed to the *aprastuta* (the *bhāvavrāta*) are “entirely unimaginable” (*atyantāsaṃbhāvyamāṇa*).
 
 *[p. 52]* ^pg29
@@ -470,8 +499,11 @@ This is a remarkable text, probably one of the most complete descriptions of the
 *yā niśā sarvabhūtānāṃ tasyāṃ jāgarti saṃyamī |* *yasyāṃ jāgrati bhūtāni sā rātriḥ paśyato muneḥ ||* That which is night[^58] for all beings, in that the self-controlled ascetic is awake. That in which all beings are awake is night for the sage who sees. In this way, “supramundanity” is associated with supralucidity,[^59] with the result that the *jīvanmukta* remains indifferent to the ordinary world, its affects, prescriptions and prohibitions. We observe many ways of referring to the *jīvanmukta*’s *alaukika* or *lokottara* character, besides the use of the term itself, among which are the recourse to paradox, as in the verse of the BHG just quoted, and such exclamations as “*iti citram*,” “how wonderful!”, by which the *Gītārthasaṃgraha* comments on it[^60] – another way of expressing that everpresent *camatkāra*, “wonder,” “wonderment,” which is also a criterion, as we have seen, for determining which of the explicit or 
 
 [^57]: On this connotation of *kaścit*, see notably D. Shulman’s paper in this volume.
+
 [^58]: “Night” is a metaphor for *māyā*, as explained by the *Gītārthasaṃgraha*. See the entire passage ad loc.
+
 [^59]: See also *Locana* on *Dhvanyālokavṛtti* ad III 1 (quoted below, p. 56), commenting on BHG II 71.
+
 [^60]: *Gītārthasaṃgraha* ad BHG II 71: ... *paśyata eva sā rātrir iti citram | vidyāyāṃ cāvadhatte yogī yatra sarvo vimūḍhaḥ | avidyāyāṃ tv abuddhaḥ yatra janaḥ prabuddhaḥ – ity api citram.*
 
 *[p. 54]* ^pg31
@@ -491,6 +523,7 @@ This is of course more than what the common man can understand and tolerate. The
 This vision of the *jīvanmukta* is the same as in the *Locana* and the *Gītārthasaṃgraha*. It is worth noting that the “*jaḍa*” of the stanza is glossed by Yogarāja as “*unmatta*” – “insane” in the eyes of the world 
 
 [^61]: On *camatkāra*, see BANSAT-BOUDON ANDTRIPATHI 2011, p. 320.
+
 [^62]: See below.
 
 *[p. 55]* ^pg32
@@ -518,6 +551,7 @@ That “supramundanity” (*lokottaratva/alaukikatva*) appears again in the *Loc
 *anena hi vākyena niśārtho na ca jāgaraṇārthaḥ kaścid vivakṣitaḥ | kiṃ tarhi? tattvajñānāvahitatvam atattvaparāṅmukhatvaṃ ca muneḥ pratipādya-ta iti tiraskṛtavācyasyāsya vyañjakatvam* | For in this sentence the meanings “night” and “waking” are not at all intended. What then? What is communicated is rather the attention of the sage to the knowledge of ultimate reality and his disregard for what is not
 
 [^66]: *Gītārthasaṃgraha* ad BHG II 66-70: \[*rāgadveṣetyādi pratiṣṭhitety antam*\] *yas tu manaso niyāmakaḥ sa viṣayān sevamāno ’pi na krodhādikallolair abhibhūyate iti sa eva sthitaprajño yogīti tātparyam | “yogī ca sarvavyavahārān kurvāṇo ’pi lokottaraḥ” – iti nirūpayatā parameśvareṇa saṃkṣipyāsya svarūpaṃ kathyate*. “He who controls his mind is not thrown about by the waves of wrath, etc., even when he perceives the sense-objects; hence he alone is a yogin, a man-of-stabilized-intellect; such is the intended meaning. As has been said: ‘Extraordinary is the yogin, even when he attends to worldly transactions.’”
+
 [^67]: See also, in this volume, D. Shulman’s paper, examining *Dhvanyāloka* III 40 and III 43. But if the true subject \[of the utterance\] (*prastuta*) \[i.e., the speaker’s intention which he wants to convey to the listener, therefore, the suggested meaning he has in his mind, namely, the evocation of the *jīvanmukta*\] is a source of wonder, \[although\] suggested (*ākṣipyamāṇa*) by means of \[another subject\] that is non-pertinent or irrelevant (*aprastuta*) \[to the speaker
 
 *[p. 57]* ^pg34
@@ -530,8 +564,11 @@ Therefore this sentence, its primary meaning being obstructed,[^69] suggests tha
 Although the passage has already been quoted (above, p. 50), I come back to its interpretation, whose implications may be further developed now that the suggested meaning has been identified: 
 
 [^68]: Transl. INGALLS ET AL. 1990, p. 376 (slightly modified). A similar eviction of the litteral meaning, in order to establish a suggestion based on metaphoric usage, is found in *Meghadūta* 31, quoted by the *vṛtti* ad III 43, in which the word *maitrī*, “friendship,” applied to the breeze, must be taken metaphorically, since no breeze is ever literally “friendly” (see, in the volume, D. Shulman’s analysis of the verse).
+
 [^69]: Since “night” and “waking” must not be taken literally here.
+
 [^70]: Transl. INGALLS ET AL. 1990, p. 376 (slightly modified).
+
 [^71]: Note a variant, *pāda* c: *sa tvām āha jaḍaṃ tataḥ*...
 
 *[p. 58]* ^pg35
@@ -591,6 +628,7 @@ O whole of things \[such as the “determinants” that are gardens or moonrise\
 The preeminence of suggestion (the evocation of the *jīvanmukta*) does not prevent the expressed meaning from being tightly coherent 
 
 [^77]: Contrary to Jayaratha, who understands it as a kind of denominative; see above, p. 41.
+
 [^78]: Lit., “by causing them to enact (*nartayan*) through the variety of \[emotional\] modes...”, unless one considers the instrumental as being the complement of means applying to the gerund *ākramya*.
 
 *[p. 62]* ^pg39
@@ -642,5 +680,7 @@ Thus my interpretation differs from that of Ingalls, who does not seem to have u
 Ingalls shows his uneasiness, or even his irritation, in his note (n. 4, pp. 163-164), which seems to miss the point, if only for the reason that he refers to a “second meaning” without identifying it explicitly: 
 
 [^79]: Phrase borrowed from the title of RANCIÈRE 2008, although Rancière’s perspective is different.
+
 [^80]: See BANSAT-BOUDON AND TRIPATHI 2011, pp. 55-56.
+
 [^81]: INGALLS ET AL. 1990, p. 164: “But the great man does conceal his thoughts. His causing the tongues of men to wag, in the case of the Pāśupatas and I dare say of any Tantrics, was a premeditated instigation of reproach” – and, for that, Ingalls refers to INGALLS 1962. See also J. Törzsök’s contribution to this volume.

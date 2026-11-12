@@ -69,6 +69,7 @@ If a person authorizes another person to act on his behalf, then the second pers
 In Hobbes’s framework, authorizing a political authority has the same structural features as authorizing someone using a power of attorney. For Hobbes, every party to the social contract agrees to see herself as the author of the sovereign’s actions. The sovereign is an actor, and the subjects are the authors of his behavior. This notion of authorization explains how the sovereign acquires authority. Being authorized, the sovereign has the right to act *in the name of another* – each of the authors. Thus, the sovereign has authority, or *warrant*, and his actions are *done by the authority* of each of his subjects.
 
 [^2]: *Leviathan*, 16.4.
+
 [^3]: *Leviathan*, 16.5.
 
 *[p. 94]* ^pg104
@@ -94,6 +95,7 @@ The Hobbesian sovereign, by contrast, is authorized *without qualification*. The
 This means that subjects are responsible for the sovereign’s actions, and as such cannot accuse him of injury, punish him, or worst of all, put him to death. Hobbes employs the notion of complete authorization and ownership in this way when he argues, \[B\]ecause every subject is by this institution author of all the actions and judgments of the sovereign instituted, it follows that whatsoever he doth, it can be no injury to any of his subjects; nor ought he to be by any of them accused of injustice. For he that doth anything by authority from another doth therein no injury to him by whose authority he acteth; but by this institution of a commonwealth every particular man is author of all the sovereign doth; and consequently he that complaineth of injury from his sovereign complaineth of that whereof he himself is author, and therefore ought not to accuse any man but himself; no nor himself of injury, because to do injury to one’s self, is impossible. It is true that they that have sovereign power, may commit iniquity, but not injustice, or injury in the proper signification … \[A\]nd consequently to that which was said last, no man that hath sovereign power can justly be put to death, or otherwise in any manner by his subjects punished. For seeing every subject is author of the actions of his sovereign; he punisheth another for the actions committed by himself.[^6] Since the subject owns *all* of the sovereign’s actions in this sense, the sovereign has a *complete grant of immunity*. Moreover, if subjects only authorized the sovereign conditionally or only authorized him in part, he would not have this complete grant of immunity. However, given that he is unconditionally authorized to act as he sees fit, the Hobbesian sovereign has no straightforward duties to his subjects and he is not susceptible to any restraint by them. Of course, he is still bound by natural law, and so has some sorts of duties *with regard to* his subjects. The sovereign can violate natural law, but it is up to God to judge those violations. Natural law cannot provide grounds for the subjects to judge or punish the sovereign. At risk of overdetermining the issue, Hobbes also derives the complete immunity of sovereigns from his argument that the sovereign is not party to the contract, and so by definition cannot be charged with injustice. However, the idea that subjects own the actions of their ruler serves to shore up his claim that the sovereign’s decisions should be understood to be impervious to blame – even in the absence of any such additional argument.[^7]
 
 [^6]: *Leviathan*, 18.6–7.
+
 [^7]: Indeed, some commentators argue that the notion of authorization adds nothing of philosophical import to Hobbes’s analysis of the structure of sovereignty and the obligations of subjects (e.g., Hanna Pitkin, “Hobbes’s Concept of Representation II,” *American Political Science Review* 58, no. 4 (1964), 904–905.
 
 *[p. 97]* ^pg107
@@ -113,6 +115,7 @@ Does “I authorize all his actions” mean “I am obligated to obey all his co
 First, in Hobbes’s discussion of punishment, authorization and obligation are necessarily disconnected. He claims at one point that subjects are the authors of their own punishment and that they are punished by their own authority.[^9] But he also insists that subjects are not obligated to submit to their own punishment. If a subject has authorized the sovereign to punish her, yet she is free to resist or escape that punishment, then there must be some conceptual distance between the notions of authorization and obligation. Authorization – by itself – does not entail an obligation to obey. It seems that Hobbes may have been aware of this tension. After all, he suggests that the sovereign’s right to punish cannot be attributed to his authorization in the social contract. When he must account for the sovereign’s right to punish, he rests it squarely upon the sovereign’s original right of nature.[^10] Second, Hobbes consistently separates the obligation-conferring aspect of the social contract from the aspect of the social contract that grants an unlimited right to command. For Hobbes, there is a clear distinction between the question of what form sovereignty should take (absolute or nonabsolute) and the question of what obligations subjects need to undertake to institute a sovereign with that form. He makes this clearest in *De Cive* 6.13 where he states, “For it is one thing to say, *I give you right to command whatever you wish*, another to say, *I will do whatever you command*.” Hobbes does not use the language of authorization in *De Cive*; instead, he speaks of subjects granting the sovereign an unlimited command. But the point remains the same: there is a difference between granting the sovereign an unlimited command and undertaking an unconditional obligation to obey those commands. “I give you the right to command what you will” does not mean “I will do whatever you command.” And as noted 
 
 [^9]: *Leviathan*, 18.3.
+
 [^10]: *Leviathan*, 28.2.
 
 *[p. 99]* ^pg109
@@ -124,6 +127,7 @@ In *Leviathan*, he puts this point in the language of authorization: Again, the 
 In sum, Hobbes’s claims about unconditional authorship and ownership should be read as claims that sovereignty needs to be absolute – that is, without stint – rather than as claims about the obligations of subjects. Thus, to authorize the sovereign without limitation is *not* to undertake an unlimited obligation to obey him. However, given that it is an essential goal of the social contract to establish political obligation, it is necessary to see how Hobbes intends this to be achieved.
 
 [^11]: *Leviathan*, 21.14–15.
+
 [^12]: From a present-day perspective, one might wonder whether Hobbes is really entitled to make such a strict separation between authorization and obligation. In our modern example, if the brother authorizes his sister to sign a lease for him, he is obligated to pay the bill when it comes. There seems intuitively to be some necessary conceptual link between the two notions. However, there are different ways to answer this. Perhaps the Hobbesian notion of authorization is unavoidably problematic, and he should have kept the initial characterization of the social contract he offered in *De Cive*. Commentators disagree about why Hobbes added the language of authorization to *Leviathan*. Baumgold, for example, argues that his reasons were political, not philosophical (*Hobbes’s Political Theory*, 48–55).
 
 *[p. 100]* ^pg110
@@ -137,6 +141,7 @@ The passage we have been considering – *Leviathan* 17.13 – is, unsurprisin
 The most literal reading of this passage implies the utter abandonment of individual decision-making and, thus, individual self-governance and autonomy.[^14] In this passage Hobbes seems to describe subjects as having no wills of their own, at least insofar as obedience to the sovereign is 
 
 [^13]: Hampton, *Hobbes and the Social Contract Tradition*, 122. See also A. P. Martinich, *A Hobbes Dictionary* (Oxford:  Blackwell, 1995), 38; and Howard Warrender, *The Political Philosophy of Hobbes: His Theory of Obligation* (Oxford: Clarendon Press, 1957), 104–110.
+
 [^14]: According to Hampton, Gauthier reads Hobbes in this way, suggesting that we interpret his sovereign-making covenant as requiring a kind of “conversion” on the part of the participants in the social contract. On Gauthier’s reading, when people authorize a ruler, they “literally lose their private ability to judge the rationality of action,” and instead simply substitute the sovereign’s judgment for their own. See Gauthier, *Logic of Leviathan*, 124 and *Morals by Agreement* (Oxford: Clarendon Press, 1986), chapter 6. And so the creation of the sovereign involves “quite literally the destruction of all reason but the sovereign’s own … the abandonment of the use of one’s own expected-utility calculation to judge the advisability of performing any action” (Hampton, *Hobbes and the Social Contract Tradition*, 209–210). Moreover, Hobbes is interpreted along these lines not only by Hobbes scholars but also by those in contemporary political philosophy interested in the concept of authority. See, for example, R. B. Friedman, “On the Concept of Authority in Political Philosophy” in *Authority: Readings in Social and Political Theory*, ed. Joseph Raz (New York University Press, 1990), 65–66. Though I am arguing that this is not the way Hobbes should be understood, I acknowledge that it is a natural reading of the text.
 
 *[p. 101]* ^pg111
@@ -150,7 +155,9 @@ Moreover, Hobbes does not argue that subjects can, nor that they even need to, f
 The law is a “rule of action”; all the law requires is that people conform to its dictates in their speech and actions. The law’s power does not extend to people’s private beliefs, which Hobbes says simply cannot be dictated, though they can and should be shaped by education. Since civil law cannot reach the realm of belief, it can command only external actions.
 
 [^15]: Similarly, Raz argues that authority seems to be in the first case, if not exclusively, about requiring action – it must be if it is to impose obligations. Note that the idea that authority applies to action and not belief is not an uncontroversial one. Friedman, for example, disputes this understanding of authority, and instead takes seriously the idea that authority also governs belief (“On the Concept of Authority in Political Philosophy,” 57–59). This is clearly an important question for political philosophers and philosophers of law, but it is beyond the scope of this project.
+
 [^16]: *Leviathan*, 27.2.
+
 [^17]: *Leviathan*, 46.37.
 
 *[p. 102]* ^pg112
@@ -162,6 +169,7 @@ A more plausible and somewhat less literal understanding of this passage could t
 Renouncing the right to self-governance, according to this interpretation, is simply giving up the right to act on one’s own judgment. Indeed, Lloyd interprets Hobbes in just this way, arguing that the institution of an absolute sovereign entails unconditional obedience.[^19] A subject can think whatever she wants, but she must obey each and every one of the sovereign’s commands in her actions. Her actions, not her thoughts, are dictated by the will of the sovereign and not her own will. Perhaps the best way to understand this is to say that when people consent to authorize an absolute sovereign, they give up the *right* to *act* on their own private judgments. They agree always to take the sovereign’s will as their own 
 
 [^18]: *Leviathan*, 42.11.
+
 [^19]: Lloyd is adamant that Hobbes holds an unconditional view of political obligation. She consequently has an unusual way of dealing with the right of self-defense. She wants to say that people whose lives are in danger are no longer members of the political community, and so no longer obligated to obey at all. She therefore does not see Hobbes’s doctrine of retained rights as constituting a limit on political obligation (Lloyd, *Ideals as Interests*, 290–308). While Hobbes definitely describes people who are taken as prisoners of war in this way, namely as no longer being members of the commonwealth, this analysis cannot accommodate the other cases of justifiable disobedience that Hobbes describes. A man whose wife is on trial for her life is still a member of the political community. While Hobbes allows him to legitimately disobey a command to give incriminating testimony against his wife, it is pretty clear that he is still obligated to obey all the other laws. Just because he is allowed to refuse to testify does not mean that he is released from his obligation to obey, say, a law against stealing. I take up this issue in the next chapter.
 
 *[p. 103]* ^pg113
@@ -183,7 +191,9 @@ this kind of objection is that Hobbes’s argument that subjects retain the righ
 Hampton’s objection proceeds in two stages. First, she argues that the right of self-defense – even when it is understood in the narrowest possible sense as the right to defend oneself against immediate deadly attacks and as the right to procure what is necessary for physical survival  – contradicts the so-called surrender of judgment condition of the social contract. The sovereign is supposed to be absolute in the sense that he is the sole and final judge of all questions in the commonwealth. Hampton immediately points out that Hobbes’s retention of the right of self-defense entails granting the subjects the right of private judgment concerning whether or not their lives have been endangered … and make\[s\] their obedience to \[the sovereign\] conditional on his commands not threatening their lives, where *they* are the judges of this question … By granting that the subjects had a right to defend themselves, even when the right is very limited in scope, Hobbes makes the subjects the judges of whether or not the sovereign has endangered their survival, and hence allows the subjects to decide whether or not they will disobey certain of the sovereign’s commands. This means that the sovereign is not the only authority in a commonwealth and that he will have to reckon with disobedience or rebellion on the part of some or all of his subjects if they decide that his laws or actions jeopardize their lives.[^22]
 
 [^20]: Hampton, *Hobbes and the Social Contract Tradition*, 197.
+
 [^21]: Two kinds of attempts to address this objection can be found in the literature. First, Gauthier argues that Hampton’s objection can be answered, but only at the cost of eliminating absolutism (“Hobbes’s Social Contract” in *Perspectives on Thomas Hobbes,* ed. G. A. J. Rogers and A. Ryan \[Oxford: Clarendon Press, 1988\], 125–152). In contrast, my interpretation tries to answer the objection while leaving Hobbes’s core commitments intact. Second, Peter J. Steinberger argues that Hampton’s objection can be avoided if we interpret disobedient Hobbesian subjects as being back in the state of nature and so exercising their natural right to preserve themselves against the sovereign; see “Hobbesian Resistance,” *American Journal of Political Science* 46, no. 4 (2002), 856–865. Michael Davis gives a similar analysis; see “Heavenly Philosophy: What Thomas Hobbes said to Jean Hampton,” *Social Theory and Practice* 32, no. 3 (2006), 341–364. This solution is tempting, but ultimately unsuccessful. Hobbes simply does not think of the rights to resist in this way; after all, he refers to them as the liberties of *subjects*. I return to this issue in the next chapter.
+
 [^22]: Hampton, *Hobbes and the Social Contract Tradition*, 199.
 
 *[p. 105]* ^pg115
@@ -207,8 +217,11 @@ This move – from subjects being obligated to obey as long as they judge that 
 On Hampton’s view, the worst consequence of this slippage for Hobbes’s theory is that subjects would be justified in switching allegiances to other sovereigns in any case wherein they thought that they could do better.[^26] She concludes that the Hobbesian sovereign possesses no control 
 
 [^23]: Ibid., 200.
+
 [^24]: Ibid., 201.
+
 [^25]: Ibid., 202–203.
+
 [^26]: Hampton also makes a very quick but very important move here. She moves from the claim that there is an individual right to disobey particular commands of the sovereign to the claim that
 
 *[p. 107]* ^pg117
@@ -258,7 +271,9 @@ view themselves as being subject to an authority often understand the orders fro
 The command of his sergeant is an exclusionary reason; it excludes from practical deliberation most of Jeremy’s first-order reasons. Specifically, it excludes reasons that dictate *against* commandeering the van. According to Raz, authoritative directives are “preemptive,” meaning they provide a reason for action that excludes or defeats some of Jeremy’s other reasons. Jeremy’s practical calculations now only dictate commandeering the van  – all of the reasons against doing so have been defeated. Moreover, the command’s reason does not require compliance in virtue of being the strongest of all the reasons; rather, it succeeds in directing action because it is of a different, higher kind. Raz explains, “The fact that an authority requires performance of an action is a reason for its performance which is not to be added to all other relevant reasons when assessing what to do, but should exclude and take the place of them.”[^31] Authorities do not 
 
 [^29]: Ibid., 41–43.
+
 [^30]: “A reason is content-independent if there is no direct connection between the reason and the action for which it is a reason. The reason is in the apparently ‘extraneous’ fact that someone in authority has said so, and within certain limits his saying so would be reason for any number of actions, including (in typical cases) for contradictory ones. A certain authority may command me to leave the room or stay in it. Either way, its command will be a reason. This marks authoritative reasons as content-independent.” Joseph Raz, *The Morality of Freedom* (Oxford: Clarendon Press, 1986), 35.
+
 [^31]: Ibid., 46. He puts this another way saying, “The arbitrator’s decision is also meant to replace the reasons on which it depends. In agreeing to obey his decision they agreed to follow his judgment of the balance of reasons rather than their own. Henceforth his decision will settle for them what to do” (Joseph Raz, “Authority and Justification,” *Philosophy and Public Affairs* 14, no. 1 \[1985\], 10).
 
 *[p. 112]* ^pg122
@@ -274,7 +289,9 @@ Raz continues by arguing that in order to be successful, authorities must provid
 Raz, however, does not argue that authorities always do (or should) succeed in excluding incompatible reasons from the subject’s practical deliberations. As he defines them, exclusionary reasons have a scope  – “an exclusionary reason may exclude all or only a certain class of first-order reasons. The scope of an exclusionary reason is the class of reasons it excludes.”[^34] But what determines which reasons get excluded and which do not? According to Raz, the answer lies in the justification for treating a particular utterance as authoritative. That is, the rationale for treating a reason as an *exclusionary reason* 
 
 [^32]: Raz, *Practical Reason and Norms*, 42.
+
 [^33]: Joseph Raz, *The Authority of Law* (Oxford: Clarendon Press, 1979), 18.
+
 [^34]: Raz, *Practical Reason and Norms*, 46.
 
 *[p. 113]* ^pg123
@@ -298,6 +315,7 @@ The only way to achieve peace, in this case, is to somehow prevent people from a
 This analysis creates a useful way to understand Hobbes’s description of the sovereign-making covenant. One can understand the covenant, not as a surrender of judgment, but as an agreement to treat the sovereign’s commands as Razian authoritative directives. As such, the commands give subjects a first-order reason for action and a second-order exclusionary reason that excludes conflicting first-order reasons. Unfortunately, Hobbes was not sufficiently precise in his writing about what needs to be surrendered. Private judgment itself is not surrendered, and the whole of the right to act on one’s private judgment is not surrendered; rather, it is one’s *unrestricted* right to act on one’s private judgment against the sovereign (in the absence of a kind of special reason) that is surrendered. Of course, the framework of Hobbes’s social contract also makes room for *nonexcludable first-order reasons*. That is, there are some cases in which reasons for action cannot be excluded on the basis of a further second-order reason. I return to discuss these sorts of reasons shortly.
 
 [^36]: E.g., *Leviathan*, 6.7.
+
 [^37]: *Leviathan*, 25.2.
 
 *[p. 115]* ^pg125
@@ -313,7 +331,9 @@ or disobey them, as in their private judgments they shall think fit. Whereby the
 Raz’s conceptual machinery also helps explain Hobbes’s idea that private judgment persists in various ways without undermining the power of the sovereign and the stability of the commonwealth. On Hobbes’s account, private judgment continues to exist in the commonwealth in at 
 
 [^39]: *Leviathan*, 29.6.
+
 [^40]: To be clear, he does not equate private judgment with mere consideration of prudence; people also make private judgments of equity, honor, and all sorts of non-prudential bases. However, this only exacerbates the problem, multiplying the possible ways in which subjects can privately judge matters.
+
 [^41]: Ibid., 29.7.
 
 *[p. 117]* ^pg127
@@ -325,6 +345,7 @@ The second way in which private judgment endures has to do with the description 
 If one is obligated to obey the sovereign, then, in an important sense, one becomes – like Jeremy – obligated not to let one’s private judgment of 
 
 [^42]: *Leviathan*, 21.6.
+
 [^43]: For instance, the Oppian Law passed by the Romans in 216 bc forbade women from wearing dresses with purple trim. It is not uncommon for the directives of authorities to extend to attire: many school authorities prescribe dress codes.
 
 *[p. 118]* ^pg128
@@ -336,6 +357,7 @@ This application of Raz’s principle is particularly appropriate because it pro
 This solves part of the surrender of judgment problem; but the question of qualification still remains. This brings us to the third, and perhaps most interesting, way in which private judgment persists. This point concerns the conditions under which one is *not* obligated to obey the sovereign’s commands. If the sovereign issues a life-threatening command, according to Hobbes, the subject is justified in disobeying. The subject must retain the right to private judgment in such cases, since it is up to the subject to *judge* whether her life is in danger. To make sense of this, one must interpret self-defense as a nonexcludable reason; more precisely, “*if I obey this command, I will die*” is a first-order reason that, according to Hobbes, one need not and indeed cannot exclude.[^45] What happens when 
 
 [^44]: Raz, *Morality of Freedom*, 42.
+
 [^45]: It is not that the danger of immediate death is a reason that can *never* be overridden by any other first-order reason (i.e., it is not what Raz calls an “absolute reason”). Recall from Chapter 1 that Hobbes recognizes cases in which a rational agent may prefer death to some other outcome. For example, one may prefer to die than to live a life of ignominy. But the prospect of death is a nonexcludable first-order reason because, according to Hobbes, one can never be *obligated* to disregard it. As we will see, Raz states that the justification for treating an authority’s directives as giving exclusionary reasons gives us the scope of the exclusionary reason. For Hobbes, the justification for submitting to the sovereign is the hope of preserving one’s life, so it makes sense that the prospect of death is outside the exclusionary scope of the sovereign’s commands.
 
 *[p. 119]* ^pg129
@@ -353,7 +375,9 @@ Raz posits that the scope of exclusionary reasons is determined by the purpose o
 We can now begin to answer Hampton’s objection to the Hobbesian doctrine of retained rights. According to the first stage of Hampton’s argument, because Hobbes grants that subjects retain a right of self-defense, he cannot maintain that the subjects give up the right of judgment that is 
 
 [^46]: Raz, *Authority of Law*, 22.
+
 [^47]: Gerald J. Postema, “Law’s Autonomy and Public Practical Reason” in *The Autonomy of Law: Essays on Legal Positivism*, ed. Robert P. George (Oxford University Press, 1999), 86.
+
 [^48]: For Hobbes, unlike Raz, the limits on the exclusionary scope of the sovereign’s commands do not constitute a limit on the power or right of the sovereign. The sovereign is absolute:  he can command whatever he wants without injustice. Moreover, recall that the sovereign’s right to punish is part of his right of nature, not something given to him in the social contract. On this reading of Hobbes, to say that a certain range of reasons is nonexcludable is *not* to say that authority cannot extend to them. I cannot be said to own my own punishment, but the sovereign still has the authority to punish me.
 
 *[p. 120]* ^pg130
@@ -365,7 +389,9 @@ Recall that Hampton’s argument begins with the observation that “Hobbes make
 This argument, however, overlooks an important distinction, which when acknowledged takes away much of the force from the objection. We should distinguish between two very different cases of judgment. The first is the judgment of whether or not the subject is obligated to obey the authority in the type of case in question.[^51] The subject can judge whether following this command is going to threaten her life. In Razian terms, the subject is asking, “*Do I have a nonexcludable reason for disobeying this command?*” The second is the judgment of whether or not the command merits the subject’s obedience. Here, the subject asks himself, “*Given all the first-order reasons I have, does my practical judgment of the balance of reasons dictate obeying this command?*”
 
 [^49]: Hampton, *Hobbes and the Social Contract Tradition*, 199.
+
 [^50]: Ibid., 203.
+
 [^51]: Hobbes is clear that the sovereign has the right to judge what conduces to the peace and security of the commonwealth as a whole, but this does not mean he has the right to judge for each subject which course of action imperils her individual security.
 
 *[p. 121]* ^pg131
@@ -451,6 +477,7 @@ Consider Hobbes’s argument concerning the role of individual conscience in civ
 Another doctrine repugnant to civil society is that *whatsoever a man does against his conscience is sin*; and it dependeth on the presumption of making himself judge of good and evil. For a man’s conscience and his judgment is the same thing; and as the judgment, so also the conscience may be erroneous. Therefore, though he that is subject to no civil law sinneth in all he does against his conscience, because he has no other rule to follow but his own reason, yet it is not so with him that lives in a commonwealth, because the law is the public conscience, by which he hath already undertaken to be guided. Otherwise, in such diversity as there is of private consciences, which are but private opinions, the commonwealth must needs be distracted, and no man dare to obey the sovereign power farther than it shall seem good in his own eyes.[^57] First-order reasons that stem from private conscience are necessarily excludable for Hobbes. More specifically, the scope of the exclusionary power of the sovereign’s command must extend to all such judgments of conscience. Hobbes’s argument seems to be this. Subjects submit to the will of the sovereign in order to enjoy the benefits of living in a peaceful and stable commonwealth. Allowing every subject to act according to his 
 
 [^56]: In some cases, this distinction between preservation-related and non-preservation-related reasons might not be so sharp, considering people’s concerns for salvation and the dangers to themselves of an arbitrary, unjust (in the non-Hobbesian sense) ruler. Hobbes is aware of this problem and so spends time showing that one’s salvation is best secured by obedience to one’s sovereign and that even a tyrannical ruler is preferable to the state of nature.
+
 [^57]: *Leviathan*, 29.7.
 
 *[p. 129]* ^pg139
@@ -464,6 +491,7 @@ I have argued that Hobbes’s notion of conditional political obligation can be 
 To absolute right on the part of the sovereign ruler corresponds so much obedience on the part of the citizens as is essential to the government of the common-wealth, that is, so much as not to frustrate the grant of that right. Though such obedience may sometimes rightly be refused for various reasons, we shall call it simple obedience, because it is the greatest obedience that can be given.[^59] Hobbes clearly recognizes the difference between necessary and unnecessary obedience. Neither the obedience of a condemned man nor the obedience of a son ordered to kill his father is “essential to the government of the commonwealth.” In both cases, disobedience does not “frustrate the grant of \[absolute\] right,” and so obedience can “rightly be refused.” It is precisely because the retention of such permission rights does not limit the right or power of the sovereign that Hobbes allows them.
 
 [^58]: *Leviathan*, 29.8.
+
 [^59]: *De Cive*, 6.13. Note that this quotation almost immediately precedes Hobbes’s discussion of the son disobeying a command to kill his father.
 
 *[p. 130]* ^pg140

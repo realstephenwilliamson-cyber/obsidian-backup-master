@@ -159,90 +159,158 @@ It is forbidden for a person to have a eulogy recited for a deceased person thir
 [^1]: The *Beit Yosef* (*Orach Chayim* 527) explains that the Rambam understands that scriptural law permits preparing for the Sabbath on a holiday. As support, he cites *Pesachim* [[Pesachim 46#46b|46b]], which makes an explicit statement to that effect.  
     *Tosafot* (*Pesachim, loc. cit.*) differs and offers an alternative interpretation of that passage, and states that scriptural law forbids preparing for the Sabbath on a holiday. Nevertheless, this prohibition applies only when there is no time to benefit from this food on the holiday itself.  
     The *Magen Avraham* 527:1 states that the Rambam also accepts the latter position. [One might reach such a conclusion from the Rambam's statements in his Commentary on the Mishnah (*Beitzah* 1:1).] Most of the later authorities, however, agree with the *Beit Yosef's* interpretation of the Rambam's view. (See *Be'ur Halachah* 527.)
+
 [^2]: The Rambam's ruling follows the opinion of Rav Ashi (*Beitzah* [[Beitzah 15#15b|15b]]). That passage also mentions the view of Ravva, who maintains that the requirement for an *eruv* was instituted as a measure of respect for the Sabbath, to ensure that one remembers to leave a fine portion of food for the Sabbath. (See *Shulchan Aruch HaRav* 527:2.)
+
 [^3]: I.e., an *eruv chatzerot*, as described in the first five chapters of *Hilchot Eruvin*.
+
 [^4]: The Ra'avad rejects the rationale offered by the Rambam and gives another explanation: *Eruv* means "mixture," and this portion of food enables the combining together of the activities necessary to prepare for the Sabbath and for the holiday.  
     The *Maggid Mishneh* clarifies the Rambam's view, stating that the name *eruv* is appropriate only for an *eruv chatzerot*. Nevertheless, since both an *eruv t'chumim* and an *eruv tavshilin* involve a distinction that is created through depositing a portion of food, the Rabbis applied this term to those halachic institutions.
+
 [^5]: The *Maggid Mishneh* notes that according to the Rambam, it appears that it is not necessary to include bread in one's *eruv* at all. This view is shared by the Ramban and the Rashba. The *Maggid Mishneh* adds, however, that it is nevertheless customary to include bread in the *eruv*. Rabbenu Tam (*Sefer HaYashar*, section 392) and the *Halachot Gedolot*, by contrast, require that bread be included. (Their rationale is that since one desires both to cook and to bake on the festival for the Sabbath, the *eruv* should included both cooked food and bread which was baked.)  
     The *Shulchan Aruch* (*Orach Chayim* 527:2) states that at the outset, it is proper to include both bread and a portion of cooked food in the *eruv*. After the fact, however, the *eruv* is acceptable even if bread is not included. This ruling is accepted by the later authorities.
+
 [^6]: The *Maggid Mishneh* states that fruit is also excluded. This applies to fruit that is eaten raw. With regard to cooked fruit, the ruling depends on the local practice of whether or not it is customary to eat this together with meat. (*Shulchan Aruch HaRav* 527:11; *Mishnah Berurah* 527:18).
+
 [^7]: It is, however, customary to do so to fulfill the mitzvah *behiddur,* "in a manner that is becoming" (*Mishnah Berurah* 527:8).
+
 [^8]: I.e., leftovers that one discovered when scraping the pot clean.
+
 [^9]: *Shulchan Aruch HaRav* 527:13 and the *Mishnah Berurah* 527:20 state that it is somewhat disrespectful to the mitzvah to use such foods, and this should be done only when one has no other food available.
+
 [^10]: I.e., although at times the term "cooked" has a distinct meaning - "prepared in water over a fire" - and is used to the exclusion of these other forms of preparing food.
+
 [^11]: See *Hilchot Shabbat* 9:3 and the Rambam's Commentary on the Mishnah (*Machshirin* 6:3).
+
 [^12]: After one has completed all one's Sabbath preparations, one may eat the *eruv* before the commencement of the Sabbath (*Shulchan Aruch, Orach Chayim* 527:16). Nevertheless, it is customary to use the loaf of bread utilized for the *eruv* as *lechem mishneh*, the second loaf, for the Friday night meal and the Sabbath morning meal, and to partake of it during *Se'udah Shelishit*, the third Sabbath meal. The rationale: Since it was used for one mitzvah, it is proper to use it for others (Maharil, *Shulchan Aruch HaRav* 527:25; *Mishnah Berurah* 527:48).
+
 [^13]: The Ra'avad notes that one can set aside the food one prepared for the holiday before the *eruv* was lost, and use that for the Sabbath, and prepare new food for the holiday. This is permitted even when one has completed all of one's preparations for the holiday. The *Shulchan Aruch* (*loc. cit.*:18) quotes this principle.
+
 [^14]: Our translation follows the understanding of the Rambam's statements as reflected in the *Shulchan Aruch* (*loc. cit.*:17). The *Rishon LeTzion* offers a different interpretation: that once one has started cooking or baking, one may continue preparation of the entire meal even if the *eruv* is lost. This view is not, however, accepted by the later authorities. (See also the *Hagahot Maimoniot*.) The authorities do, nevertheless, allow one to continue preparing an entire dish of food even when one had just begun the first stages of preparation before the *eruv* was lost.
+
 [^15]: See *Hilchot Eruvin* 1:20, 6:19-21.
+
 [^16]: E.g., a person's wife, his adult sons and daughters, and his Jewish servants and maid-servants (*ibid.*).
+
 [^17]: E.g., a person's children below the age of majority and his non-Jewish servants (*ibid.*).
+
 [^18]: The rationale is that having a portion in an *eruv tavshilin* is to a person's advantage, and a person may grant a colleague an advantage without his direct knowledge.
+
 [^19]: Indeed, this is the custom reflected in the statement establishing an *eruv tavshilin*, which is included in all normal printed *siddurim*. That statement establishes an *eruv* for everyone in the entire city. It must, however, be emphasized that reciting the statement itself is not sufficient. As mentioned in the previous halachah, it is necessary to have another person acquire a share in the *eruv* on behalf of the others.
+
 [^20]: The following rules apply when a person lives outside a city's holiday limits, but lives close enough to reach the city on a holiday if he establishes an *eruv t'chumim*: If the person making the *eruv tavshilin* made an explicit statement including the person living outside the city limits, he may rely on the *eruv*. Otherwise, he may not [*Maggid Mishneh*; Ramah (*Orach Chayim* 527:8)].
+
 [^21]: In this context, it is necessary to quote the ruling of the *Shulchan Aruch* (*loc. cit.*:7):  
     It is a mitzvah for every person to establish an *eruv*, and it is a mitzvah for the Torah leader of the community to establish an *eruv* on behalf of all the inhabitants of his community, so that a person who forgot to establish an *eruv* or was prevented from doing so, or who established an *eruv* that was later lost may rely upon it.  
     When, however, a person could establish an *eruv*, but fails to do so, because he desires to rely on the *eruv* established by the community's Torah leader, he is considered negligent, and may not rely on that *eruv*.
+
 [^22]: Although this commandment is Rabbinic in origin, it is proper to praise God, for He commanded us to follow the instructions of our Sages. (See *Hilchot Eruvin* 1:16; *Hilchot Berachot* 11:3.)
+
 [^23]: This applies in *Eretz Yisrael*, where the holidays are celebrated for one day only. In the diaspora, one omits the word "tomorrow" unless the holiday is celebrated on Friday and on the Sabbath. In that instance, one must establish an *eruv* on Thursday to be able to cook for the Sabbath on Friday, and the word "tomorrow" is in place.
+
 [^24]: It is customary to add "...to put away a dish to preserve its heat, to kindle a flame, and to prepare and perform on the holiday everything necessary for the Sabbath."
+
 [^25]: A formal transfer of ownership is required. The person acquiring the provisions must draw them into his own property or lift them up with the intent of acquiring them. It is not sufficient to acquire them by virtue of the transfer of a handkerchief (*Shulchan Aruch HaRav* 527:28; *Mishnah Berurah* 527:60).
+
 [^26]: The *Tur* [(*Orach Chayim* 527), based on *Beitzah* 21b] states that if there is no one who established an *eruv* to whom he could transfer ownership of his provisions, he is permitted to bake one loaf of bread, cook one type of food, and light one candle.  
     The *Beit Yosef* (*Orach Chayim* 527) explains that the Rambam does not accept this ruling. Nevertheless, the *Beit Yosef* continues, some authorities are even more lenient and extend this option even when there are people who have established *eruvin* upon whom one might rely.  
     In his *Shulchan Aruch* (*Orach Chayim* 527:20), Rav Yosef Karo quotes both views, but appears to favor that of the Rambam. *Shulchan Aruch HaRav* 527:29 and the *Mishnah Berurah* 527:61 cite the leniency mentioned by the *Beit Yosef*.
+
 [^27]: I.e., he cooked two types of food - one to be eaten on the holiday and one to be eaten on the Sabbath - or invited guests he knew would not come. It is permitted to cook a large quantity of food for the holiday and eat the remainder on the Sabbath (*Shulchan Aruch, Orach Chayim* 529:21). Moreover, there are opinions that one may cook several types of food, thus providing one with different food for the Sabbath as well, provided that one partakes of it on the holiday. *Shulchan Aruch HaRav* 527:27 and the *Mishnah Berurah* 527:68 state that the commonly accepted practice is to follow the latter leniency.
+
 [^28]: Although the rationale given for this leniency applies primarily with regard to the willful transgression of the law, the Ramah (*Orach Chayim* 527:23) states that even when a person violated the prohibition unknowingly, and cooked food for the Sabbath on a holiday, he is permitted to partake of it.
+
 [^29]: For others will emulate this undesirable example.
+
 [^30]: As explained in Halachah 14, this and the following halachah apply, because the celebration of the second day of the holiday was instituted as a result of the doubt regarding the day on which it should be celebrated. Therefore, one of the two days was in fact an ordinary weekday.
+
 [^31]: See *Hilchot Eruvin* 8:14, which states that similar principles also apply with regard to an *eruv chatzerot*. An *eruv t'chumim*, by contrast, cannot be established in a conditional manner.
+
 [^32]: For it is forbidden to separate *terumah* on a holiday, as stated above, Chapter 4, Halachah 26.
+
 [^33]: For the separation of the *terumah* on either the first or the second day is thus valid.
+
 [^34]: As explained in Chapter 1, Halachah 24, in contrast to the other holidays, the two days of Rosh HaShanah are considered a single continuum of holiness. They are given this status because Rosh HaShanah was always observed for two days, even in *Eretz Yisrael* itself.
+
 [^35]: See *Hilchot Kiddush HaChodesh*, Chapter 1.
+
 [^36]: See *Hilchot Kiddush HaChodesh* 5:5.
+
 [^37]: The Rambam's logic is that in the era when the sanctification of the moon was dependent on the testimony of witnesses, the observance of the second day of a holiday was necessary because of the doubt regarding the Scriptural commandment (*safek d'oraita*). At present, there is no doubt; the second day is observed, because of a Rabbinical decree. Thus, one cannot say, "If today is a weekday," for neither of the days is a weekday: the first is a holiday according to Scriptural law, and the second is a holiday according to Rabbinic law.  
     The Ra'avad voices his appreciation of the Rambam's logic, but states that in practice, the custom has been to continue making conditional statements as was done in previous generations. The *Shulchan Aruch* (*Orach Chayim* 527:22) cites the Ra'avad's view. In his *Beit Yosef* (*Orach Chayim* 528) Rav Yosef Karo explains the more lenient view, stating that when instituting the observance of the second day of the holidays in the present era, our Sages did not require its observance to be more stringent than it was originally. Since such conditional statements were originally acceptable, they are also acceptable in the present era.
+
 [^38]: The *B'nei Binyamin* notes that several later authorities differ with regard to whether a holiday could be termed a Sabbath or not. (See *P'nei Yehoshua, et al.*, at the conclusion of the fourth chapter of *Beitzah*.) Nevertheless, the Rambam's emphasis is not that the holidays are "Sabbaths," but that they are sanctified.
+
 [^39]: Although the proof-text states, "And you shall call the **Sabbath** 'A delight, sanctified unto God'...," it also applies to holidays, for they are also called "sanctified" by the Torah.
+
 [^40]: Chapter 30. Honor involves preparing one's home and one's garments for the Sabbath. Delight involves partaking of fine foods, and carrying out other activities that lead to physical satisfaction.
+
 [^41]: See *Hilchot Shabbat* 30:4, which explains that this restriction was instituted so that one will enter the Sabbath (in this instance, the holiday) with an appetite.  
     Mid-afternoon refers to nine seasonal hours after daybreak - i.e., 3 PM, on a day that begins at 6 AM and ends at 6 PM. This time will change throughout the year, becoming later in the summer and earlier in the winter.
+
 [^42]: *Pesachim* [[Pesachim 118#118a|118a]] notes that [[Torah 21 - Ki Tisa#^34-17|Exodus 34:17]] states, "Do not make molten images for yourselves," and continues "observe the festival of *matzot*," establishing a connection between the two mitzvot.  
     Significantly, the Rashbam interprets this as referring to someone who works on the intermediate days of a festival. (See also *Hilchot Teshuvah* 3:14, which states that such a person is not granted a portion in the World-to-Come.)
+
 [^43]: For these activities run contrary to the spirit of rejoicing that must be encouraged on the festivals. The laws of mourning on the festivals are discussed in *Hilchot Eivel*, Chapter 10.
+
 [^44]: With this wording, the Rambam emphasizes that this prohibition also applies on the days of Chol HaMo'ed of Pesach and Sukkot. The other holidays the Rambam refers to are Rosh HaShanah and Shavuot.  
     The designation of Rosh HaShanah as a day of rejoicing - despite the fact that it is "the day of judgment" when we join in the collective acceptance of God as King - is reflected in Nechemiah 8:10, which records the charge Ezra and Nechemiah gave to the people: "Eat sumptuously, drink sweet beverages, and send portions to those who have none... for the joy of God is your strength" (based on a responsum of the Rambam's grandson, Rav Yehoshua HaNagid).
+
 [^45]: *Hilchot Chaggigah* 1:1 explains that in addition to the peace offerings referred to as *korban chaggigah*, other peace offerings should be sacrificed, so that one will partake of sacrificial meat during the holiday. These are referred to as *shalmei simchah* (peace offerings of joy) and the Rambam associates partaking of them with the mitzvah to "rejoice on your festivals."
+
 [^46]: I.e., what are the activities that will arouse happiness? Cognizant that an emotion cannot be commanded at will, our Sages required that on the holidays a person work on creating a setting that will naturally spur happiness to ensue.
+
 [^47]: The commentaries have raised questions on the Rambam's statements, based on *Pesachim* [[Pesachim 109#109a|109a]], which states that during the time of the Temple, "there is no happiness without partaking of meat," this referring to sacrificial meat, as [[Torah 50 - Ki Tavo#^27-7|Deuteronomy 27:7]] states, "And you shall sacrifice peace offerings... and you shall rejoice." After the destruction of the Temple, "there is no happiness without partaking of wine." No mention is made of the importance of eating non-sacrificial meat on the holidays.  
     *Shulchan Aruch HaRav* 529:7 explains that at present there is a greater obligation to drink wine than to eat meat. Nevertheless, since most people derive pleasure from eating meat, it is proper to partake of meat on the holidays.
+
 [^48]: The intent is not that one's festive pleasure should be eating and drinking, as indicated by the following halachot. Instead, the intent is that a person should create an atmosphere of rest, relaxation, and happiness so that he can direct his attention to spiritual matters.
+
 [^49]: When relating the command to rejoice on the festivals, [[Torah 47 - Re'eh#^16-14|Deuteronomy 16:14]] states, "You shall rejoice on your festival together with your son and your daughter, your male and your female servants, the Levite, the convert, the orphan, and the widow." The Torah thus links the happiness one shares with the members of one's household with one's generosity in inviting the unfortunate to join in this rejoicing.  
     See also *Hilchot Megillah* 2:17, which states:  
     There is no greater and more splendid happiness than to gladden the hearts of the poor, the orphans, the widows, and the converts.  
     One who brings happiness to the hearts of these unfortunates resembles the Divine Presence, which \[[[Isaiah 57#^57-15|Isaiah 57:15]]] describes [as having the tendency] "to revive the spirit of the lowly and... those with broken hearts."
+
 [^50]: The *Mishnah Berurah* 529:17 mentions that in addition to inviting guests to one's festive table, a collection should also be made before the holiday to provide for the holiday needs of poor people who are too embarrassed to ask for hospitality.
+
 [^51]: See *Hilchot Tefillah*, Chapter 13, where the Torah portions associated with each holiday are mentioned.
+
 [^52]: The Rambam's statements follow the general guidelines given by *Beitzah* [[Beitzah 15#15b|15b]], which states: [[Torah 48 - Shoftim#^16-18|Deuteronomy 16:18]] refers to the festivals as "a gathering for God, your Lord," while [[Torah 41 - Pinchas#^29-35|Numbers 29:35]] uses the expression, "A gathering for yourselves." What should be done? Divide them, half to God, and half to yourselves.
+
 [^53]: With regard to drunkenness, note the Rambam's statements in *Hilchot De'ot* 5:2, and in the *Guide for the Perplexed,* Vol. III, chapter 8.
+
 [^54]: There are two dimensions reflected by the Rambam's statements:  
     a) the absolute negation of the hollow elation of frivolity;  
     b) the appreciation of the positive value of genuine happiness as an element of the service of God.  
     The latter concept receives greater focus in the conclusion of *Hilchot Lulav*, where the Rambam states:  
     The happiness with which a person should rejoice in the fulfillment of the mitzvot and the love of God who commanded them is a great service.... There is no greatness or honor other than celebrating before God.
+
 [^55]: *Chol* means "ordinary" or "weekday" in Hebrew and *HaMo'ed* means "the festival." Thus, the term means "the ordinary days of the festival." For the Torah tells us that the festivals of Pesach and Sukkot should be celebrated for seven and eight days respectively, but states that only the first and last days should be regarded as holidays. The observance of these "ordinary days of the festival" is the focus of the remainder of the text.
+
 [^56]: Where the first day of each holiday is celebrated for an extra day.
+
 [^57]: See *Hilchot Ta'aniot* 1:7.
+
 [^58]: See *Hilchot Eivel* 11:5. The Ra'avad adds that a eulogy may be recited on the day when a community hears about a sage's death. The Rambam mentions this concept in *Hilchot Eivel*.
+
 [^59]: See *Hilchot Megillah* 2:13; *Hilchot Chanukah* 3:3.
+
 [^60]: The mitzvah of *l'vayah*, accompanying the deceased, is carried out on Chol HaMo'ed. What is not done is to remain in a single place for a prolonged time.
+
 [^61]: *Mo'ed Katan* [[Moed Katan 14#14b|14b]] states that since the mitzvah of celebrating on the festivals is incumbent on the entire Jewish community as a whole, it takes precedence over the obligation of individuals to mourn.
+
 [^62]: Even the relatives who partake of this meal should sit on ordinary chairs (*Mo'ed Katan* 3:7).
+
 [^63]: The *Shulchan Aruch* (*Yoreh De'ah* 340:16) states that one may bare one's shoulders in honor of any deceased person, and one must do so in honor of one's parents. At present, however, this custom is not followed at all even during an ordinary week (Ramah, *loc. cit.*:17).
+
 [^64]: I.e., the deceased's parents, spouse, brothers and sisters (this includes half-brothers and half-sisters), and children.
+
 [^65]: The Ramah (*Yoreh De'ah* 340:6) differs and states that at present it is not customary to rend one's garments because of a person's death unless one was present at the actual moment of death. This applies throughout the year as well as during Chol Hamoed.
+
 [^66]: This applies even if the deceased's conduct was unworthy (*Shulchan Aruch, Yoreh De'ah* 340:5). The Ramah adds that if the person was wont to commit any particular sin, there is no need to rend one's garments because of him.
+
 [^67]: Although we are permitted to perform all the forbidden labors necessary to bury a corpse (Chapter 1, Halachot 22-24), rending one's garments is forbidden.
+
 [^68]: See *Hilchot Eivel* 11:5.
+
 [^69]: In *Hilchot Eivel* 11:6, the Rambam interprets this as referring to a eulogy recited for a person who died more than thirty days before the festival. If a person dies within thirty days of the festival, a eulogy may be recited. This distinction is quoted by the *Shulchan Aruch* (*Orach Chayim* 547:3).  
     This refers even to a eulogy recited without a fee, following the view of Shmuel (*Mo'ed Katan* [[Moed Katan 8#8a|8a]]).

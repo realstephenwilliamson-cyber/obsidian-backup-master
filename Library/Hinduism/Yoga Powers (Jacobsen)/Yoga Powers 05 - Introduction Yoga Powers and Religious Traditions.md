@@ -73,6 +73,7 @@ Great yogins are traditionally characterized by attainment of yoga powers and a 
 both the *Yogasūtra* and the traditional commentaries on the text deny that attaining such powers is the goal of yoga, and instead describe their function as an indication that certain yoga practices have been perfected. Yoga powers are an essential part of the folklore of yogis and sages in South Asia and many other categories of sacred persons. The powers are often understood by devotees to provide proof about divinity, asceticism, and knowledge. These powers were attained by many founding figures of religious traditions, they are generally accepted as signs of divinity, and they are central to the descriptions of the progress towards the yogic goal. However, in both the yoga and Buddhist traditions, the texts include warnings that these powers are in fact hindrances that can distract from the ultimate salvific goal. *Yogasūtra* 3.37 states that they can be obstructive when the yogin is in *samādhi*, but valuable in ordinary life (*te samādhau upasargā vyutthāne siddhayaḥ*). The *Mahābhārata*, although describing yogis and yoga powers in a favorable way, nevertheless also states that the “Yogin who is set on practicing mastery (*aiśvarya-pravṛtta*) with a view to worldly results, goes to everlasting hell (*niraya*).”[^7] The caveat against superhuman powers is also strong in Buddhist traditions, and the Buddha warned against them several times. According to the Buddhist monastic rules (*vinaya*), claiming to have superhuman powers that one did not possess (or presumably was not able to display) was one of the four *pārājika*s, the four most serious crimes punishable by expulsion from the monastic order, which shows that the powers were considered problematic. The seriousness of the punishment is perhaps because such bragging would be detrimental to the monastic institution as it could lead to the Buddhist monks being considered bogus ascetics.[^8] However, the omnipresence of these powers in the 
 
 [^7]: E. Washburn Hopkins, “Yoga-technique in the Great Epic,” *Journal of the American Oriental Society* 22 (1901): 333–379. Quote on page 344. The Sanskrit reads: *Athaiśvaryapravṛttaḥ sañjāpakas tatra rajyate,* *sa eva nirayas tasya nāsau tasmāt pramucyate* (*Mahābhārata* 12.190.7)
+
 [^8]: An ancient tradition of asceticism in India, which might be older than yoga, was the tradition of *tapas*, the goal of which was superhuman powers. Powers attained by these ascetics had similarities to those later described as attained by yogins. In a religious environment in which superhuman powers were the norm, all traditions had to claim these powers because denying them would weaken one’s position, Johannes Bronkhorst has argued. He further argues that ascetics associated with traditions of yoga could not be expected to deny the powers that the ascetics associated with *tapas* claimed to possess or acquire because “this would obviously weaken his position in the eyes of all outsiders”, and one would rather “expect to find passages where the non-Vedic ascetic is counseled against the use of these powers”. Johannes Bronkhorst, *The Two Sources of Indian Asceticism* (Delhi: Motilal Banarsidass, 1998), 90.
 
 *[p. 9]* ^pg22
@@ -80,7 +81,9 @@ both the *Yogasūtra* and the traditional commentaries on the text deny that att
 texts on yoga and Buddhist meditation suggests that these powers are more central to the teaching than the warnings should suggest. Although these statements present critiques of yogins using the yoga powers for personal gains or lying about possessing yoga powers, the realities of the powers are not questioned. Undoubtedly, in some traditions in South Asia the goal of the ascetic practices has been the attainment of these powers,[^9] and certainly the images of yogins in India (and worldwide) have been shaped by the superhuman powers yogins are said to possess.[^10] Power and purity are often understood as opposites in South Asian religious traditions but they are frequently intertwined in the religious practice, as well as in yoga and meditation. There are two sides to yoga, appropriation of power and appropriation of knowledge, and there can be a conflict between them, as power has to be given up to realize knowledge. Power has, nevertheless, been important and the different yoga traditions have tried to deal with this in different ways. The yogin gains the ability to break free from matter and attain salvation as well as power over the world by means of his yoga powers.[^11] Yoga leads not only to control of oneself, but also to control of the world. The yogin becomes the master of the world, god-like, but according to yoga traditions, the goal of *nirvāṇa*, *mokṣa* or *kaivalya* also transcends that attainment. The yogin passes through 
 
 [^9]: Teun Goudriaan writes that in Vedic religion sacrifices to the gods and asceticism were seen as two ways to power and success: “The ascetic by his mortifications obtains the mastery of supernatural faculties. His goal may be definitely to escape the world’s plights and sorrow but he might also be motivated by the desire after other things like the execution of power over other beings, or the winning over of a beloved (as Pārvatī did when she desired to win Śiva) or the obtaining of a husband (as Draupadī did, Mbh 1,157.6ff). In fact, in Ancient Indian literature this second motivation of the performance is extremely frequent. A standard pattern is that the gods, out of their celestial dwellings, observe somebody on earth who is engaged in rigorous asceticism. Without further deliberation they assume that this person does not strive after release but that he tries to coerce them, for instance by compelling them to grant him a boon of enormous size (as Bali did). The ascetic’s coercive activity can even result in driving the gods away from their positions and occupying them himself (as Hiraṇyakaśipu did, Viṣṇupurāṇa 1.17.2ff).” Goudriaan, *Māyā Divine and Human*, 80–81.
+
 [^10]: For an entertaining discussion, see David Gordon White, *Sinister Yogis* (Chicago: University of Chicago Press, 2009).
+
 [^11]: Stuart Ray Sarbacker calls these two sides the cessative and the numinous in yoga. See Stuart Ray Sarbacker, *Samādhi: The Numinous and Cessative in Indo-* *Tibetan Yoga* (Albany: State University of New York Press, 2005).
 
 *[p. 10]* ^pg23
@@ -92,6 +95,7 @@ We can distinguish in the South Asian traditions two attitudes to the superhuman
 In some traditions the yoga powers are understood to demonstrate that reality is inconceivable as a magical illusion. David Fiordalis notes in his chapter that Buddhist texts that positively portray the display of the superhuman powers by the Buddha connect the display of yoga 
 
 [^12]: David Gordon White, “Tantra,” in *Brill’s Encyclopedia of Hinduism*, vol. 3, ed. Knut A. Jacobsen et al. (Leiden: Brill, 2011).
+
 [^13]: See Franklin Edgerton, “The Upaniṣads: What do They Seek and Why?,” *Journal of the American Oriental Society* 49, no. 2 (1929): 97–121.
 
 *[p. 11]* ^pg24
@@ -107,7 +111,9 @@ In theological texts such as the *Bhagavadgītā*, the display of powers is of p
 Charles Rockwell Lanman, having high hopes for the science of hypnotism, which enjoyed some prestige at the time of his writing, asked in a response to Wood’s well-known translation of the *Tatt* *vavaiśāradī*, published in 1917: “Would it not be worth while for some who is conversant not only with the Hindu books, but also with the results of modern investigations in ‘abnormal psychology,’ to try to separate those of these powers which have some basis in scientifically established fact from those which have none?”[^18] E. Washburn Hopkins was convinced about the reality of hypnotism and he explained the famous theophany of the *Bhagavadgītā*, Kṛṣṇa causing a vision of himself to appear to Arjuna by means of yoga (*yogam āṣṭāya yuk*
 
 [^14]: See Charles Rockwell Lanman, “Hindu Ascetics and Their Powers,” *Transactions and Proceedings of the American Philological Association* 48 (1917): 133–151; Charles Rockwell Lanman, “The Hindu Yoga-System,” *Harvard Theological Union* 11, 4 (1918): 355–375; and E. Washburn Hopkins, *The Great Epic of India: Character and Origin of the Mahabharata* (1901, Indian Edition Delhi: Motilal Banarsidass, 1993).
+
 [^15]: Jean Filliozat, *Religion, Philosophy, Yoga: A Selection of Articles by Jean Filliozat,* translated from French by Maurice Shukla (Delhi: Motilal Banarsidass, 1991), 341.
+
 [^18]: Lanman, “Hindu Ascetics and their Powers,” 134.
 
 *[p. 13]* ^pg26
@@ -117,10 +123,15 @@ Charles Rockwell Lanman, having high hopes for the science of hypnotism, which e
 When yoga are removed from the realm of religion, very little of the powers are left as is exemplified in the modern global health yoga.[^24] The general trend of secularization has not favored yoga powers, and 
 
 [^19]: E. Washburn Hopkins, “Yoga-technique In the Great Epic,” *Journal of the American Oriental Society* 22 (1901): 333-379. See page 377.
+
 [^20]: Jean Filliozat, “The Limits of Human Powers in India,” in Filliozat, *Religion,* *Philosophy, Yoga*, 341–64.
+
 [^21]: Peter Lamont, *The Rise of the Indian Rope Trick: How a Spectacular Hoax Became History* (London: Abacus. 2004), Lee Siegel, *Net of Magic: Wonders and Deceptions in India* (Chicago: University of Chicago Press, 1991).
+
 [^22]: Lamont, *The Rise of the Indian Rope Trick,* 33.
+
 [^23]: According to Jeffrey Kripal this was because the academic field of psychology was taken over by behaviorism. Jeffrey Kripal, “The Rise of the Imaginal: Psychical Research on the Horizon of Theory (Again),” *Religious Studies Review* 33, no. 3 (2007): 179–191.
+
 [^24]: Yoga powers seem, in modern health yoga, to have been reduced to benefits for physical and mental well-being, that is, the health benefits of yoga that can be scientifically measured. Gerald James Larson writes: “Increased lung capacity, smoothness of breathing, stable hearth rate, increased cardiovascular efficiency, improved blood flow, muscular dexterity, reduction of stress, greater capacity for relaxation, and sharpened mental awareness, and so forth, are just some of the important benefits that come from prolonged meditation and training in Yoga. These sorts of benefits, in my judgment, are much more relevant for taking seriously the importance of Yoga than the paranormal benefits highlighted in some of the popular literature on Yoga.” Gerald James Larson and Ram Shankar Bhattacharya, eds., *Yoga: India’s Philosophy of Meditation* (Delhi: Motilal Banarsidass, 2008), 132.
 
 *[p. 14]* ^pg27
@@ -130,11 +141,17 @@ many scholars have been uncomfortable with the yoga powers.[^25] The academic di
 The promoters of the study of Indian philosophy often saw it as their job to emphasize the rational in Indian traditions against a Eurocentrism that saw rationality and philosophy mainly as an exclusively Western phenomenon. The yoga powers were seen as irrational elements and they were played down as unimportant and opposed to the pursuit of knowledge. Maurice Bloomfield commented: “Philosophy, in dealing with such matters at all, enters into partnership with fairy-tale: it sanctions, promotes, and legalizes, so to speak, every fancy, however misty and however extravagant.”[^30] Others who worked on Indian philosophy felt ashamed, it seems, of the presence of the yoga powers in the philosophical texts. Max Muller wrote that the powers are “superstitions which have little claim on the attention of the philosopher, however interesting they appear to the pathologist.”[^31] Surendranath Dasgupta, in his *Yoga as Philosophy and Religion*, 
 
 [^25]: See Yohanan Grinshpon, *Silence Unheard: Deathly Otherness in Pātañjala-yoga* (Albany: State University of New York Press, 2002), 32–35.
+
 [^26]: Kripal, “The Rise of the Imaginal.”
+
 [^27]: Ibid., p. 181.
+
 [^28]: Ibid., p. 181.
+
 [^29]: See Lamont, *The Rise of the Indian Rope Trick.*
+
 [^30]: Maurice Bloomfield, “On the Art of Entering Another’s Body: A Hindu Fiction Motif,” *Proceedings of the American Philosophical Society* 56 (1917): 2.
+
 [^31]: Max Muller, *The Six Systems of Indian Philosophy* (London: Longmans Green,
 
 *[p. 15]* ^pg28
@@ -144,7 +161,9 @@ devoted 15 lines and a table to the powers.[^32] For V. P. Kane, the teaching of
 However, many chapters in this book agree that some of the major textual traditions themselves give rational analyses of the powers, and they analyze rational discourses of the yoga powers in order to give a better understanding of the dialectical relationship between the yoga powers, traditions of rational analysis, and concepts of divinity and salvific liberation. The yoga powers are part of several systems of religious thought in South Asia and these systems attempted to provide the powers with a rational foundation. The traditions assumed that the powers could be explained rationally, neither considered unreal nor denied as irrational. The Pātañjala Yoga system attempted to provide a systematic and rational analysis of meditation and, consequently, in this system we encounter a view that a rational understanding of the yoga powers was possible. The yoga system attempted to give an analysis of the complete meditation process leading to salvific liberation. The analysis included the powers, how they are attained, how they work, and the part they play in the salvific process. Many superhuman powers probably preceded the Buddhist and the Yoga systematizations (and perhaps some originated in other traditions than those that believe they can be attained by meditation and concentration), but in these traditions the powers were given a rational explanation. It seems that the powers of yogins have become an integral part of some yoga traditions, not in spite of Sāṃkhya philosophy, but because of it. In her chapter in this book, Angelika Malinar argues that the Sāṃkhya understanding of the world in terms of *prakṛti* and its manifestations made a rational understanding of the yoga powers possible. The powers became understood as a gradual 
 
 [^32]: Noted by Georg Feuerstein, *The Philosophy of Classical Yoga* (Rochester: Inner Traditions International, 1996), 101.
+
 [^33]: P. V. Kane, *History of Dharmaśāstra* (Poona: Bhandarkar Oriental Research Institute 1962), 1451–1452; quoted in Grinshpon, *Silence Unheard*, 32-33
+
 [^34]: Feuerstein, *The Philosophy of Classical Yoga*, 101.
 
 *[p. 16]* ^pg29

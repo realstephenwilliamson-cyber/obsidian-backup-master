@@ -143,57 +143,105 @@ If the social standing of [a man's wife] exceeded his own, he must have her buri
 If a man is in another city when his wife dies, the court should expropriate his property and sell it without an announcement.[^49] The woman should be buried as appropriate to her husband's financial resources and his social standing or her social standing. ^14-24
 
 [^1]: The very word *onah* - and its translation as "conjugal rights" - conveys a fundamental conception with regard to the Torah's conception of marital intimacy. Marital intimacy is not for the husband's sake, but rather for his wife's. *Onah* also means "respond." A man should be responding to his wife's desires and satisfying her wishes for closeness.
+
 [^2]: See *Hilchot Shabbat* 30:14, where the Rambam states that marital relations are one of the expressions of *oneg Shabbat*, "Sabbath delight." (See also *Hilchot De'ot* 4:19, 5:4.)
+
 [^3]: *Ketubot* [[Ketubot 62#62b|62b]] states that even if the other profession is more profitable, the prerogative is granted to the woman, for a woman values intimacy with her husband more than financial advancement.
+
 [^4]: *Yevamot* [[Yevamot 65#65a|65a]] states that if it is the local custom for a man to have only one wife, a man may not deviate from that custom. In the Ashkenazic community, as ordained by the ban of Rabbenu Gershom, it is forbidden for a man to marry more than one wife. (See *Shulchan Aruch* (*Even HaEzer* 1:9-10).)
+
 [^5]: The commentaries draw support for this law from the Biblical narrative ([[Torah 07 - Vayetzei#^31-33|Genesis 31:33]] , which mentions that Jacob had separate tents for Leah, Rachel, Bilhah and Zilpah. (See also Chapter 13, Halachah 14.)
+
 [^6]: *Yevamot* [[Yevamot 65#65a|65a]].
+
 [^7]: From this, it appears that the custom of engaging in sexual relations once a week was not the practice of Torah scholars alone.
+
 [^8]: To fill up pitchers of water and dump them down the drain (*Ketubot* 7:3; *Even HaEzer* 76:12).
+
 [^9]: In this time, it is hoped that he will change his mind and retract his vow.
+
 [^10]: As mentioned in Chapter 12, Halachah 2, a husband is obligated by the Torah to give his wife conjugal rights. Once an obligation is imposed on a person by the Torah, he may not free himself of it by taking a vow or an oath.
+
 [^11]: Since this vow does not forbid anything to the woman, but states instead, that her husband is prohibited from appreciating pleasure that results from relations with her, it can be effective.
+
 [^12]: Rav Kapach notes that although this prohibition involves three rights, the Rambam mentions its violation only with regard to the denial of conjugal rights. He explains that with regard to her sustenance and garments, a woman can take legal recourse and sue for the money due. This, however, is not possible with regard to conjugal rights.
+
 [^13]: The later authorities (*Chelkat Mechokek* 76:18; *Beit Shmuel* 76:17) quote the opinion in the *Shiltei HaGiborim* that states that if a man is afflicted with an ailment that will heal, his wife is required to remain married to him, despite the fact that the treatment will last longer than six months.
+
 [^14]: The *Maggid Mishneh* and many other authorities differ with the Rambam on this point and maintain that a man should not be forced to divorce his wife even in such a situation. This view is followed by the *Shulchan Aruch* (*Even HaEzer* 77:2). Even those opinions that favor the Rambam's ruling emphasize that the court should seek to clarify that the woman is not making her statements because she fell in love with another man and seeks to end her previous marriage because of him.
+
 [^15]: For, as implied by the Rambam's statements below, this money was promised to her only on the condition that she maintain the marriage relationship.
+
 [^16]: Those authorities who differ with the Rambam regarding whether the husband is compelled to divorce his wife also differ with regard to this point. They maintain that even with regard to the possessions for which her husband accepted responsibility, the woman is granted only what she takes possession of. (See *Maggid Mishneh*; Ramah (*Even HaEzer, loc. cit.*).
+
 [^17]: I.e., she is not necessarily interested in terminating the marriage, but rather in withholding marital relations as a means to communicate her position to her husband.
+
 [^18]: A *maneh* is equivalent to 100 *dinarim*.
+
 [^19]: The *Shulchan Aruch* (*Even HaEzer* 77:2) quotes the Rambam's wording. The Ramah, however, differs, stating that the announcement need be made only on four consecutive Sabbaths.
+
 [^20]: The purpose of these announcements is obviously to shame her and to cause her to reconsider her course of behavior.
+
 [^21]: I.e., she does not receive the fundamental requirement of the *ketubah*, nor any additional amount that her husband promised her (*tos'fot ketubah*).
+
 [^22]: The *Maggid Mishneh* explains that, as a favor, the court requests the husband not to divorce his wife until this time has passed, for it is disgraceful for a Jewish couple to part because of strife. It is hoped that during the twelve months they are required to wait, they will resolve their differences.  
     There are opinions that state that in the present age, the husband is not required to wait an entire year and may instead divorce his wife immediately. Nevertheless, the majority of authorities do not accept this view (Ramah, *loc. cit.*).  
     According to the Rambam, during these twelve months, the husband has no financial responsibilities to his wife whatsoever. If she is held captive, he is not required to redeem her, and if he dies, she does not inherit her *ketubah* from his estate. Rabbenu Asher (as interpreted by the *Tur, Even HaEzer* 77) differs and maintains that during these twelve months, the woman's *ketubah* is still in effect. The *Shulchan Aruch* (*Even HaEzer* 77:2) cites the Rambam's view, while the Ramah follows that of Rabbenu Asher.
+
 [^23]: In all the instances mentioned in this halachah, the governing principle is that the fact that a woman makes a categorical statement refusing to engage in marital relations in the future is sufficient to warrant her being placed in this category, despite the fact that her conduct is of no immediate consequence.
+
 [^24]: One year, for a *na'arah*, one month for a *bogeret*, as stated in Chapter 10, Halachah 17.
+
 [^25]: *Yibbum* refers to the marriage of the widow (the *yevamah*) of a childless man by his brother (the *yavam*). The Rambam's ruling is dependent on his decision that even in the present age, the mitzvah of *yibbum* takes precedence over the mitzvah of *chalitzah* (*Hilchot Yibbum* 1:2). The latter decision is not accepted in the Ashkenazic community, and therefore, the ruling in our halachah is also a matter of dispute. (See Ramah, *Even HaEzer* 165:1.)
+
 [^26]: I.e., the laws governing a woman who rebels against her husband differ from those governing a woman who claims that she is repulsed by her husband, as described in Halachah 8.
+
 [^27]: In both the *Kessef Mishneh* and the *Shulchan Aruch* (*Even HaEzer* 77:3), Rav Yosef Karo states that the husband does not have to take physical possession of this property. As long as the wife does not take possession of it, it is considered to be his.
+
 [^28]: This refers to *nichsei tzon barzel*, property whose full value must ordinarily be returned to the woman. In contrast, *nichsei m'log* - property for which the husband did not accept responsibility and is returned to the woman in whatever condition it is, regardless of its worth - must be returned to her, even if she rebels against him. (See Ramah, *Even HaEzer* 77:2.)  
     The rationale for this distinction is that since he takes responsibility for the *nichsei tzon barzel*, these articles are considered to be possessed by him unless she takes physical possession of them. With regard to the *nichsei m'log*, by contrast, since the husband does not take responsibility, they are not considered to be in his possession.
+
 [^29]: The customs of these *geonim* are quoted in the *Halachot* of Rav Yitzchak Alfasi. They are far more considerate of the woman's position and interests. The Ramah (*Even HaEzer* 77:3) states that if the woman gives a reasonable explanation for her conduct, these customs should be followed.
+
 [^30]: I.e., three *dinarim* of the currency employed during the Talmudic period.
+
 [^31]: If she does not desire to remain married, she may ask the court to compel him to grant her a divorce, as stated in Halachah 7.
+
 [^32]: And lashes are given only for a transgression that involves a deed (*Hilchot Sanhedrin* 18:2).
+
 [^33]: Although the Ra'avad differs with the Rambam's ruling, it is quoted by the *Shulchan Aruch* (*Even HaEzer* 77:4).
+
 [^34]: As mentioned by the *Maggid Mishneh* and the *Kessef Mishneh*, there are authorities who maintain that there is an explicit prohibition preventing a husband from divorcing a wife who is too ill to care for herself. The later authorities, however, follow the Rambam's view.  
     In the Ashkenazic community, there is a question if the Rambam's ruling applies in the present age, after the ban of Rabbenu Gershom, which prevents divorcing a woman against her will. (See the *Chelkat Mechokek* 79:3, which quotes an opinion that states that as long as the husband is prepared to meet all the financial obligations of the divorce, he has the prerogative to divorce a woman against her will, even when she is ill.)
+
 [^35]: As mentioned in Chapter 24, Halachah 21, a priest is forbidden to have relations with a woman who engaged in sexual relations with a gentile, even when she was raped. Our Sages assumed that women taken captive by gentiles were raped by them, and therefore prohibited a priest from remaining married to such a woman. (See *Hilchot Issurei Bi'ah* 18:17-30.)
+
 [^36]: The Ramah (*Even HaEzer* 78:6) notes that even an Israelite is forbidden to remain married to a woman who is held captive by gentiles if she willingly engaged in relations with one of them. In such instances, he is not obligated to redeem her.
+
 [^37]: I.e., he may not merely redeem her and send her a divorce.
+
 [^38]: I.e., out of suspicion that she willingly engaged in relations with her captors, or because he does not want to live with a woman who had relations with others (*Ma'aseh Rokeach*).
+
 [^39]: As explained in *Hilchot Matnot Ani'yim* 8:12, our Sages decreed that captives should not be redeemed for more than their worth, so that the gentiles will not be overwhelmingly encouraged to seize Jews as captives.  
     The Rambam's wording has aroused the attention of the later authorities (*Chelkat Mechokek* 78:2; *Beit Shmuel* 78:2), for it implies that if the husband desires to redeem her for more than her worth, he may, while with regard to other captives it is forbidden to do so. They interpret the Rambam's words as applying this prohibition to the husband as well. The *Beit Shmuel* interprets the ruling of the Ramah (*Even HaEzer* 78:2) as meaning that a husband is required to redeem his wife even though her captors demand more than her worth.
+
 [^40]: In both the *Kessef Mishneh* and in the *Beit Yosef* (*Even HaEzer* 78), Rav Yosef Karo states that the husband is not obligated to redeem his wife a second time. If he desires, he may remain married to her without redeeming her. Many, however, differ with this as the interpretation of the Rambam's words. (See *Chelkat Mechokek* 78:4; *Beit Shmuel* 78:4.)
+
 [^41]: See *Hilchot Malveh V'Loveh* 12:8-11, which states that an announcement is made regarding the sale of the person's property so that he will receive the best price.
+
 [^42]: E.g., the vows mentioned in Chapter 13, Halachah 8ff.
+
 [^43]: The obligation for a husband to redeem his wife stems from her *ketubah*, which states: "If you are taken captive, I will redeem you and take you back as my wife." Since he is already obligated to divorce her, he is not bound by this clause.
+
 [^44]: The rationale for this ruling is that the obligation to redeem one's wife involves returning her to her status as a wife, and this is forbidden in this instance. Nevertheless, although this is the rationale, the same ruling applies with regard to a High Priest who married a widow, or an ordinary priest who married a divorcee.  
     In these instances, the obligation of the woman's *ketubah* - that she be redeemed and returned to her native land - could be fulfilled without transgressing a prohibition of the Torah. Nevertheless, since relations with her were forbidden previously, her husband is not obligated to redeem her (*Ketubot* [[Ketubot 52#52a|52a]]).
+
 [^45]: With regard to a woman forbidden to her husband by virtue of a Torah prohibition, by contrast, the prohibition existed before she was taken captive.
+
 [^46]: Flutes have a mournful tone that arouses tears (Rambam's Commentary on the Mishnah, *Shabbat* 23:4).
+
 [^47]: This principle applies to many aspects of the financial relationship of the marriage bond - e.g., the woman's subsistence, her garments and her lodging. It is curious that this instance is the first time the Rambam mentions it explicitly.
+
 [^48]: Although the Rambam makes a distinction between this instance and a similar situation mentioned in Chapter 12, Halachah 19, the Rashba and others do not. The *Shulchan Aruch* (*Even HaEzer* 89:2) quotes the Rambam's view, but the *Beit Shmuel* 89:2 states that because of the other views, the husband's property may not be expropriated against his will.
+
 [^49]: Although usually announcements are made for 30 days prior to the sale of property by the court, an exception is made in this instance, so that the woman's burial will not be delayed (*Ketubot* [[Ketubot 100#100b|100b]]).

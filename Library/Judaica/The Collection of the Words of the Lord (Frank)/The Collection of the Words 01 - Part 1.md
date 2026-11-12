@@ -57,8 +57,11 @@ traveled with his father west across the Dniester, south through the Balkans int
 lived in Walachia, principally in Czernowitz apparently. Most of Frank's life before 1760 was spent in Walachia and other parts of the Ottoman Empire. Biographical data from later periods appear in another Frankist document published by Hillel Levine, *The* Kronika*, A Document of Jacob Frank and the Frankist Movement* (Jerusalem, 1984). I am obliged to Professor Levine for having sent me a photocopy of the Lublin ms.
 
 [^4]: The particular Shabbatean sects with which Frank was in contact are only occasionally mentioned. The thorny matter of Frankism's relationship with Shabbateanism lies somewhat outside this work. Bibliography and some notes from the work of Tishby, Scholem and Liebes will appear in connection with the history of the Frankist movement, below.
+
 [^5]: From this same experience comes Frank’s use of the motif of the road and progress along it, from place to place, to reach its goal. Terms for walking, treading, following; highways, by-ways and trails abound on which leaders and followers pass, cross, etc. As I mention below I have tried to translate every word in the Polish with the same word in English to make these thematic more clear.
+
 [^6]: There was no unified Shabbatean movement in Poland (or anywhere else for that matter, after 1666). There were a number of Shabbatean missionaries and preachers as well as theologians. Some of these gained followings of varying sizes. (See works by Scholem, Tishby, Liebes and bibliography cited in them.) One must not overestimate the importance of Frank to his own sect. Important figures in his following were better educated Shabbateans than he; many disputed his leadership as well as his principles.
+
 [^7]: The pretexts which served the recognized Jewish community in this moment and later were two. One was directed towards gaining the help of the Polish authorities. In this effort the recognized Jewish authorities sought to have the group found illegitimate as a "new religion." Such were excluded from the governmental writ of religious legitimation. The other pretext, within Jewish circles, was based on a report of orgiastic conduct. The text of this report is found in Rabbi Yakov Emden's *Sefer Shimush*, one of the most important works in his anti-Shabbatean crusade. Emden's works, like the *Ahavat David* of D. Fleckeles set the trend to confuse Frankism and Hassidism. More than a little of the anti-Hassidic propaganda and feeling grew out of this confusion of Shabbateanism with Frankism with Hassidism. But see I. Tishby's study of R. Koppel Lifschitz, *Shabbateanism and Hassidism* (Hebrew; *Knesset* 9, 1945, 238-268).
 
 *[p. v]* ^pg5
@@ -109,6 +112,7 @@ The title pages of 6968 and 6969/1 state that the dicta contained in them were s
 The dicta were spoken first to members of the innermost group of Frank's following, the Brothers. Dictum 560, among others, shows that the Sisters were not
 
 [^10]: Vol. I, 12-13.
+
 [^11]: Shmeruk's case for an original utterance in Yiddish, a translation into Hebrew and then another into Polish is largely based on an assumed analogy with other Jewish sectarian compositions. I hope to respond at some length in the very near future. For the present it is worth noting, against Yiddish, that the passages in a German dialect in the dicta do not contain slavisms (Balaban himself used the term "the German-Hebrew jargon," II, p. 75); and that the influence of Hebrew, particularly in the lexicon, vastly predominates over any other language.
 
 *[p. x]* ^pg10
@@ -128,6 +132,7 @@ The language of the "Collection" is a sort of calque. The Polish is forced to th
 Seeking to repair the damages of over 150 years of mishandling of these texts, the present volume, though it may seem rough in its translations, is faithful to the texts as we have them. The Polish is often clumsy (an important point in establishing the unreliability
 
 [^12]: A.Y. Brawer, "A new Hebrew source for the history of Frank and his following," (Hebrew, *Hashiloah*, 33) pp. 146-157, 439-449; (38) 16-21, 231-238, 349-457.
+
 [^13]: Shmeruk, pp. 25-27, relying on Kraushar and on Porges.
 
 *[p. xii]* ^pg12
@@ -150,12 +155,19 @@ From Bibl. Jag. 6969/1, 6969/2; 6968
 1\. I had a vision in Salonika, as though the following words were said to somebody, Go lead Jacob the wise[^15] into the rooms and when you and he come to the first room, I admonish you that all the doors and gates be opened to him. When I entered the first room, a rose was given to me as a sign by which I could go on to the next and so on *consequenter*[^16] from one room to the next. And so I flew in the air accompanied by two maidens \[the like of\] whose beauty the world has never seen.[^17] In these rooms I saw for the most part women and young ladies. In some, however, there were assembled only groups of students and teachers, and wherever just the first word was spoken to me, I immediately grasped the whole matter from it and the full meaning. There was an innumerable number of these rooms and in the last one of them I saw the First[^18] who also sat as a teacher with his students, dressed in *frenk*[^19] clothing. This one immediately asked me, Are you Jacob the wise? I have heard that you are strong and brave-hearted. To this point have I come, but I have not the strength of proceeding from here further; if you want \[to\], strengthen yourself and may God help you, for very many ancestors took that burden upon themselves, went on this road, but fell. With that, he showed me through the window of this chamber an abyss which was like a black sea,[^20] hidden in extraordinary darkness,[^21] and on the other side of this abyss I saw a mountain whose height seemed to touch the clouds. At that I shouted, Be what may, I will go with God's help, and so I began to fly on a slant through the air into the depth until I reached its very bottom, where, having felt the ground, I stopped. Walking in the dark, I came upon the edge of the mountain and seeing that because of the steep smoothness of the mountain I had difficulty getting up on it, I was forced to clamber up with my hands and nails and using all my strength until I reached the top. As soon as I stopped there, an extraordinary scent reached me; and there were many True-Believers[^22] there. Seized by great joy, I did not \[yet\] want to go up onto the mountain with my whole body, saying to myself, I will rest
 
 [^15]: Dictum 749 shows that the term *hakham* underlies the Polish *mądry*, though the Polish here leaves unclear whether the Hebrew or Yiddish word for “wise” is being used as a title in this case, that used by congregational rabbis in Sephardic/Ottoman culture; or whether it is a simple attributive; cp. 1033. Cf. C. Awedyk, *Opisanie*...,(Lwów, 1760) 5 in Z.L. Sulima, (pseud. Walery Przyborowski) *Historya Franka i Frankistów* (Kraków, 1893) 34 who reports that the word was applied to Frank as one who was “the most learned, the wisest.” It is interesting to note that R. Y. Emden’s father, Zvi Ashkenazi, continued using his Ottoman title (*Hakham*) after coming to Europe.
+
 [^16]: Non-Polish words in the mss. are italicized in the translation.
+
 [^17]: Their “extraordinary beauty” marks these women (and others) as creatures of the sefirot.
+
 [^18]: Shabtai Zvi
+
 [^19]: Frank uses the problem term *frenk*/*frank* here to mean “Turkish (clothing).”
+
 [^20]: Ms. 6969/1—hereafter 69/1—lacks *morza* (sea).
+
 [^21]: The “abyss of extraordinary darkness” probably refers to the Shabatian doctrine of the lower half of the space (*tehiru*) all but emptied of the benign divine light in the *tzimtzum* (God’s withdrawal from the cosmos in the Lurianic myth). The Messiah enters this dark and demonic space—the lower half left unreconstructed when the benign divine light re-entered the cosmos—to perfect it and permit the introduction of the divine light into it. See Attias, Scholem *shirot vetishbehot*… 116 (#106), 136 (#133) and the notes there; and Scholem, *Sabbatai Sevi*, 44 ff.
+
 [^22]: Shabatians, probably members of the sect—the Doenmeh—led by the family of Esther (or Yocheved, Shabtai Zvi’s last wife)—Yosef Filosof and his son Yakov Querido—and Shlomo Florentin, and/or members of another group centered in Salonika and led by Baruchia Russo.
 
 *[p. xv]* ^pg15
@@ -169,11 +181,17 @@ NB. He asked a few times about the interpretation of this dream while yet in Iwa
 3\. Rabbi Mardocheusz[^27], being a teacher of Jewish children in Prague, had the same dream thrice night after night. In it he was told, Go away from here and reveal the secret religion to Jacob. He saw the same thing once, twice and three times but paid no attention to it. Then one day, an ordinary man came to him and said to him, Run away from here because here they want to beat you up for adultery and accuse you of various other things; at that he became extraordinarily frightened and ran away, and, since he had a nephew by the name of Jacob, he thought that he should tell him the mysteries of the secret religion. He did so when he came to Lwów. Then it happened that he, having left everything behind, came to my wedding in Nicopolis[^28] and, having found me there under the canopy according to their customs, he not knowing me at all, it came to him to reveal absolutely everything to me. Hearing all this I asked, And where is the messiah? He answered, In Salonika. If this is so, I said, then I'll go to him right away. I want to serve him with all my heart. If there is need to chop wood, I will; if they order me to carry water, I'll do it gladly; if they need somebody for war, I will stand in the front line; having heard this, he became very frightened.[^29]
 
 [^23]: Cp. dicta 33, 447. (Hereafter, in the notes numbers without further attributes refer to the dicta.)
+
 [^24]: Modern Giurgiu in southern Romania on the Danube River south of Bucharest, 43.53N25.58E
+
 [^25]: A tight-fitting, twisted blouse of heavy, usually red, silk
+
 [^26]: NB (*nota bene*) indicates editorial insertions in the mss. as do the marks /:...:/ which surround variant readings and additions. For Iwanie, (modern Ivano Zolot in Ukraine, near Chernovtsy) see the Introduction.
+
 [^27]: Spellings of personal and most uncommon place names follow the manuscripts.
+
 [^28]: The city on the Danube (on the north border of Bulgaria today) (43.41N24.55E).
+
 [^29]: The story of Rabbi Mordecai (Mardocheusz) begins here. We meet him again in 26, 27, 40, 48, 49, 527, 707, 854 (where the wedding tale/revelation—a Shabatian ritual, see dictum 4— is repeated), 946 and 1013. He and Rabbi Issachar (Issohar) were Frank’s principal teachers. They introduced Frank to the teachings and practice of Shabatianism as developed by the circles in Salonika that followed Baruchia and. For the most part they serve him as foils in the dicta, typifying what Frank asserts were the errors of that persuasion, though he represents himself as holding them in some esteem.
 
 *[p. xvi]* ^pg16
@@ -187,10 +205,15 @@ NB. He asked a few times about the interpretation of this dream while yet in Iwa
 7\. In Częstochowa[^33] I saw a dream like this, I was in a Jewish synagogue where there were 3 arks which looked like altars; I stopped there before an altar and prayed; after the completed prayer I went, according to custom, to my place and threw off from myself that Jewish shawl, after having done that I noticed approaching me 12 Jews who had a certain radiance on their faces and were full of wisdom, and I greeted them saying, Peace be with you; to which they replied, Peace be with you. We, they said to me, are \[come\] from God himself so that you would accept us as your brothers; I replied to them, That cannot be because I have chosen my brothers in Iwanie;[^34] nevertheless, they said, God himself sent us here to you; Heaven and Earth change, but I will not \[ex\]change them, I replied, because I have assembled them a long time ago. Then on the other side I saw 12 women who were adorned with beauty and purity and they also said, But God himself sent us here also so you would take us for your sisters; yet I likewise gave them the same reply as I gave to the men. Afterwards I blessed them and with that[^35] I woke up.
 
 [^30]: Rabbi Leib is a character out of Frank’s childhood and youth (in Walachia and Moldavia for the most part) and appears in 152, 292, 295, 383 and 554. He too is represented as a figure of whom Frank is fond and, like Mordecai and Issachar, has his good qualities in the dicta. Among them is his secret (i.e., Shabatian) knowledge and his swimming ability. In 383 Leib is shown as a folk doctor, attempting to dispel a demon.
+
 [^31]: Doktór identifies him with Notko b. Meir, aka Rafał Korolewski, a signatory to the Shabatian Manifesto of 1757.
+
 [^32]: Cf Leviticus R. 4.6
+
 [^33]: The royal city, the fortress where Frank was held prisoner, and the shrine of the Black Virgin. See the Introduction.
+
 [^34]: See entry 43 of the Chronicle where the date of Frank’s selection of his Brothers is given as June 6, 1758.
+
 [^35]: Ms. 6968 (hereafter 68) lacks *z tym* (with that).
 
 *[p. xvii]* ^pg17
@@ -206,11 +229,17 @@ NB. He asked a few times about the interpretation of this dream while yet in Iwa
 12\. Her Highness OBM[^40] related to Matuszewski[^41] OBM that when she was in Dziurdziów, two *kadynie* [^42] came to her for a visit and, according to their custom, they brought with them two slave girls, beautifully dressed. Those two ladies kept their eyes turned into one corner the whole time. After they left, they made it known to their husbands that in one corner of the room they saw four slave girls dressed in riches such as cannot even be described. Afterwards the Lord, being at the house of the elder of the city, a man called Nazer, was asked by him, Please, tell us, why do you hide your riches?
 
 [^36]: Rohatyn in (Podolia) Poland (now Rogatin, in the western Ukraine, SE of Lwów, (49.23N24.36E) was the home of an important Shabatian family, the Shors. Elisha Shor was a highly respected man in the community of Rohatyn, having once served as the head of the Jewish court. The family name was changed to Wołowski, a Polish equivalent to the Hebrew *shor*, “ox,” upon conversion. Two of his sons are mentioned in 45, 51 and frequently thereafter.
+
 [^37]: Osman, as his name indicates, is one of those in Frank’s following who adopted the Shabatian custom of conversion to Islam (see 176) and is associated with Turkish lands. He seems to be rather a servant of Frank’s than a teacher. According to Doktór, his name was Izrael Osman, the father of Anton Czerniewski, Frank’s secretary in Offenbach.
+
 [^38]: See the Introduction on Frank’s mythology.
+
 [^39]: This “deed of union” and the circumlocution “*etc etc*” indicate a magic act by which Frank is united with, or unites, some aspect of the divine, either sexually (*zivug*) or possibly not (*yihud*).
+
 [^40]: translating the Polish *S. P*.; Frank’s wife Hannah died in Częstochowa February 25, 1770.
+
 [^41]: Mateusz Matuszewski, aka Chaim, according to Doktór. He joined Frank when the latter entered Poland in 1755.
+
 [^42]: Noble Turkish ladies, perhaps wives of kadis
 
 *[p. xviii]* ^pg18
@@ -226,13 +255,21 @@ It would indeed have been an honor for us if you had allowed your lady to go to 
 16\. One time on the Sabbath, having come upon a certain highly learned Jew in the street in Salonika, I asked him a hard question which he was completely unable to resolve; after much conversation I resolved it for him myself, with which he was extraordinarily pleased. I said to him, Now you ask me a question and I will answer it for you. How can that be in the street, replied the scholar? Well, let us go into the Turkish coffeehouse, I replied, there we should be able to argue with each other. Good. We went in. I winked at the servant in the coffeehouse of the Turk to serve us 2 cups of coffee. This one brought them[^50] right away, together with two pipes, according to their custom. How can that be, shouted the surprised scholar, don't you know that today is the Sabbath[^51] and that it is not proper for us to drink or eat at a Turk's? I did not answer him but said to the Turk, Did you mix porkfat in this coffee that he cannot drink it? Angered by these words, the Turk
 
 [^43]: Brno or Brünn in Moravia (Czech Republic today.) See the Introduction.
+
 [^44]: Joseph II of Austria, son of Maria Theresa, cf Chronicle, 100
+
 [^45]: 68 lacks *we wszystkim* (in every way).
+
 [^46]: The first occurrence of “the Holy Lord” here might refer to the “unknown Good God;” the second, to Frank himself (cp. “the Lord”) who was in fact heavily pockmarked.
+
 [^47]: A Turkish sword
+
 [^48]: Shabtai Zvi and Baruchia Russo
+
 [^49]: For Polish *t.i.*
+
 [^50]: 68 lacks *ie* (them).
+
 [^51]: *Sabbath*/ *Sabath* (6968) seems to imply the Jewish day of rest, while *Soboty* (below) means simply "Saturday."
 
 *[p. xix]* ^pg19
@@ -246,8 +283,11 @@ It would indeed have been an honor for us if you had allowed your lady to go to 
 19\. I, having come once to the synagogue in Salonika, where there were about 1200 householders, when, in accord with their custom one of the *szkolnik*s was to announce that this or that one should go up for the reading of the Laws of Moses[^55], \[I\] shouted in a mighty voice, Let nobody dare to come up on the pulpit because I'll knock him down on the spot. In amazement everybody began to shout, How is it that you prohibit this? So
 
 [^52]: From the Hebrew for "congregation," the standard Sefardic term for "synagogue, congregation"
+
 [^53]: One who is closely associated with a synagogue, bet midrash or congregation, a gabbai or beadle for example. The Polish term *szkola* translates the Yiddish *shul* ("school,") and *szkolnik* adds the agent suffix.
+
 [^54]: 68 lacks *Spotkawszy Szkolnika tego kachału*, (After having met the szkolnik of this kahal).
+
 [^55]: One term used in the mss. for the Torah
 
 *[p. xx]* ^pg20
@@ -263,8 +303,11 @@ shouting the same again, I grabbed the *pulpit* and cried out that I would murde
 23\. \[I\] seeking then to leave the town, the ones left from the \[followers of the\] Second did not want to help me with anything, fearing that I, having a few grosz, would not go away, I succeeded with Rabbi Isohar[^58], who gave me 5 \[gold pieces[^59]\] for the road. With that I hired a horse from the wagoneers who, according to custom, were traveling in 2 companies. The Jews bribed the Turks to kill me on the way. The Turks posted themselves on the road. My horse became lame as soon as I started out. I exchanged it then with my wagonmaster and at the same time borrowed a blanket from him, in which I wrapped myself, and rode up to the front \[of the caravan\]. The Turks thinking that I was on the lame horse in the back as they had seen me at the beginning of the trip, killed the wagonmaster and took him to the Jews, who recognized the futility of their plot.
 
 [^56]: 69/1 ellipses (bowdlerizes) 68 *zadkiem* (behind) to *zad...*
+
 [^57]: Every effort has been made to faithfully reproduce the style of the originals, including, as here, non-sequential tenses.
+
 [^58]: Doktór identifies him as a disciple of Hayim Malakh and writes that Frank studied with him in Izmir 1750-52 and traveled together with him, Mardocheusz and Nahman Jakubowski.
+
 [^59]: The ms has “\#” (zl hereafter) identifying the zloty here and elsewhere.
 
 *[p. xxi]* ^pg21
@@ -282,9 +325,13 @@ shouting the same again, I grabbed the *pulpit* and cried out that I would murde
 29\. When I was in Vienna at the time when I was traveling in great pomp, just like it occurs in \[connection with\][^63] Joseph /:when he received the reign from Pharaoh[^64]:/ in
 
 [^60]: Chronicle, 9
+
 [^61]: Jezierzany, 48.53N25.57E, or Jeziernica (Scholem’s suggestion to Levine, see Levine 36 n 29), 52.17N27.01E
+
 [^62]: Zborov, Ujraiune today (49.40N25.09E)
+
 [^63]: Chronicle, 90. The bracketed words have been added to translate Polish *u*.
+
 [^64]: [[Torah 10 - Miketz#^41-33|Gen. 41.33]], [[Torah 10 - Miketz#^41-43|43]] (biblical citations are according to BHS.)
 
 *[p. xxii]* ^pg22
@@ -296,8 +343,11 @@ spite of the instigations and intrigues of all the princes and the Jews before t
 31\. In the year \[17\]56, when I came to Poland, I showed everybody the following verse from the Bible openly, in the 5th bk, \[of\] Mos., chap. 29, v. 4, 5, and 6. God did not give you a heart to understand and eyes to see *etc.* so that you would know that I am Jehova your God[^68], *5. woauluch eschem arboim schono bamidbor lau bolu salmauseichem mealeichem wenaalcho lau bolso meal ragleicho—6. Leichem lau achaltem, veiain vescheichor lau seschisem lemaan teidu ki aini Jehova Eloheichem* 5. He gave you 40 years to wander in the wilderness. Your clothes did not wear out on you, and your shoes
 
 [^65]: Maria Theresa
+
 [^66]: 68, *58* (!). The "*vide*" note (as opposed to the simpler "in") suggests that this is not a precise citation (as indeed it is not, see Rashi, ad loc.). The quote from [[Ruth 1#^1-16|Ruth 1.16]] that follows is precise as far as it goes, though it does not seem to have been quoted in the performance. For those reasons 68 does not follow its usual practice of presenting the original Hebrew in transliteration, followed by the Polish translation of the passages. In the mss. the Hebrew and the Polish translation of 68 are both underlined; here, the foreign words (i.e., the Hebrew) will be italicized and the translation into Polish will be treated as other words in Polish. See the Introduction.
+
 [^67]: The Polish word means both senior and superior (and is an interpretation rather than a translation of the Hebrew, see Rashi ad loc. and Genesis R. 99.6 where the matter is Reuben’s primogeniture; cp. Zohar 1. 236); the Polish word will regularly be translated as "elder."
+
 [^68]: [[Torah 50 - Ki Tavo#^29-3|Dt. 29.3]]-.5 \[!\]. (Note the Germanic citation of Deuteronomy as “5 Moses.”) 69/1 has this abbreviated version; 68, the transliterated Hebrew and Polish translation. Yet, 68 lacks the phrase from v. 3, "YHWH did not give you a heart to know nor eyes to see .."
 
 *[p. xxiii]* ^pg23
@@ -311,10 +361,15 @@ did not grow old upon your feet, 6. Neither did you eat any bread nor drink any 
 34\. Her Highness \[Ewa\] in the year of 1785 asked me once in Brünn why I myself chose people who are just prostaks and unintelligent, why did I not take her among the women, she would surely not have abandoned me?[^71] So I answered her this way, What kind of an achievement would it be, if God should lead the world with wise men and scholars? God absolutely wants to come forth in this world with the least and the lowest, so that from such a place his power would be demonstrated; just consider and look at me, there was no greater prostak than I, who was just as if deprived of intelligence; but wisdom, as I said, comes forth from nothing.[^72] Being in Bucharest in \[17\]48[^73] at the house of a certain lady, who was 24 years old, I had with me spools of gold and silver worth 100 zl which I sold to her for 500 zl which greatly amazed me, however not thinking much about it I hid the money and went on my way, saying to myself, If she gives \[it to\] me voluntarily, why shouldn't I take \[it\]? That lady was very rich. She had about 1200 servants, choice young people. Her husband was not present at that time and was away at his estates, so then she, having summoned me, asked me to sit near her. I did that and I saw that the servants one after another were slipping out of the room and I alone was left there with her. The servants locked the doors behind them; that lady began to persuade me that I should spend the night with her, and engaged me to satisfy her desire, offering me 1000 sacks of *lev*s,[^74] and if you will agree to that voluntarily and willingly then I'll give you *in dublo*.
 
 [^69]: This Polish/Yiddish word means one who is crude, coarse, simple, straightforward, unlearned and will be used in translating the noun but not adjectives, etc. See also Liebes, *sod*...93 where an earlier Shabtian background is explored.
+
 [^70]: See 1 and nn there.
+
 [^71]: 68, *odstąpila* ; 69/1 *ustąpila*
+
 [^72]: Cp. [[Job 28#^28-12|Job 28.12]]
+
 [^73]: 68 has a badly written "48" which 69/1 has miscopied as "18."
+
 [^74]: A coin current in Walachia, Bulgaria, etc.
 
 *[p. xxiv]* ^pg24
@@ -326,9 +381,13 @@ Look how many handsome and attractive slaves I have here, but I want you absolut
 36\. Having come to the river Totorozh,[^79] I found there 150 wagons, standing on the shore, afraid to go farther because of the high water. Without saying anything, I took my robe, put it and my bundles on my head, and despite the most terrible danger, I swam across the river with my horse. From the other shore, people shouted at me, What was I doing?
 
 [^75]: Cf. [[Torah 09 - Vayeshev#^39-6|Gen. 39.6 ff.]] and Gen. R. 87.5 for Frank’s namesake, Joseph’s, refusal to have intercourse with Potiphar’s wife.
+
 [^76]: 68 lacks *dałem*, “I gave.”
+
 [^77]: A Turkish measure of weight, the okka weighs 1282 gr.
+
 [^78]: A town west of Iasi (Jassy), on the Moldau (46.2N26.65E)
+
 [^79]: Near Romani, probably the Trotusul/Trotus
 
 *[p. xxv]* ^pg25
@@ -344,10 +403,15 @@ for God's sake why was I taking such a risk? Listening to none of it, I swam acr
 40\. Being there in 1754, a certain /:the same:/[^85] old woman told me about Nathan's adventure, I, paying no attention to it, went there and got undressed, and despite the fact that almost the whole city forbade me, I jumped into the water and bathed and swam there happily, and having done that I said to Rabbi Mardocheusz, Let's go up the hill to Asmodeusz, he will reveal many secrets to us. Good he replied, I know one secret name and after having written it he put it in his hat. And then we went. Rabbi Mardocheusz saw
 
 [^80]: Modern Faraoni, SSW of the juncture of the Moldau and Bistrita 46.6N26.9E
+
 [^81]: Read with 68 *wyprowadzą*.
+
 [^82]: Modern Skopje in Yugoslavia (Macedonia)
+
 [^83]: I.e., Nathan of Gaza, the prophet of Shabtai Zvi.
+
 [^84]: Nathan of Gaza died on January 11, 1680 in Skoplje and was buried there.
+
 [^85]: The interpolation is lacking in 68.
 
 *[p. xxvi]* ^pg26
@@ -363,9 +427,13 @@ the king as he crossed the bridge going to his castle in his carriage with great
 44\. (b43[^90]) My grandmother, my mother's mother was a very learned astrologer. When I was born, all the witches assembled around our home and surrounded it, even their queen was there at their head. There was a dog in our house— a cross between a wolf and a \[canine\] bitch. This one did not sleep at all, but barked all the time, for if he had fallen
 
 [^86]: German, fair/market; hereafter market-fair
+
 [^87]: That is, Ramadan, the ninth month of the Moslem year in which the faithful fast during the day
+
 [^88]: Dumplings
+
 [^89]: Polish *Pan* will regularly be translated as L/lord, depending on whether the reference is to Frank or God or to a member of the nobility.
+
 [^90]: 69/1 numbers thus and continues in sequence, differing in numeration from 68 by one. The numeration here follows 68 (as does the numeration in Kraushar; see the Introduction).
 
 *[p. xxvii]* ^pg27
@@ -377,10 +445,15 @@ asleep even for a moment, then they would have seen to it that he would have nev
 46\. Traveling with Jakubowski from Salonika to Smyrna, I sent Jakubowski there to a highly learned treasurer of the poorfund, who had the custom of immediately getting into scholarly disputes with all foreign newcomers; if the newcomers beat him in argument then he would give him money for the road, if not then he would leave with nothing; when Jakubowski came in he found there a stranger at a disputation. The treasurer, a tough head, beat the stranger, the stranger left with an empty hand. But not so with Jakubowski. He was welcomed with great honor. He was successful and got a few *levs* for the road. We went from there to Adrianopol,[^96] where there are three learned rabbis, who likewise engaged newcomers in disputes, and if they gave anybody an attestation that he was a scholar then he would qualify from then on anywhere for alms and a proper
 
 [^91]: Nahman ben Levi (Piotr Jakubowski after conversion) appears in the next several dicta (45,46,47,50) and then again in 120. In dictum 1205 he is mentioned as traveling with Frank and his father in Frank’s youth; in 2155 from the last period of the dicta he is mentioned again. It would seem that he was a faithful retainer of Frank’s throughout almost all of Frank’s life. He was from Busk in Podolia (49.58N24.35E) and this is the name he took upon his conversion. The Nathan who appears in the next few dicta accompanying Jakubowski and Frank is either Nathan Shor (Michał Wołowski) of Rohatyn, the son of Elisha, or Natan ben Aharon of Lwów.
+
 [^92]: *Wielkanoc*, not *Pascha* as later, see Introduction. The reference in any case is to Passover.
+
 [^93]: Read with 68. *Znaydui*; 69/1 *znayią.*
+
 [^94]: 68 lacks the interpolation.
+
 [^95]: 69/1 has an editorial interpolation adding a different second person form.
+
 [^96]: Edirne, in Turkey today (41.40N26.34E)
 
 *[p. xxviii]* ^pg28
@@ -396,6 +469,7 @@ welcome. Jakubowski received such a certificate. He thought that this was achiev
 50\. In Podolia, when I was traveling with Jakubowski and Nathan[^98], I was very careful about my deeds. Once when staying overnight in a certain town, I heard lamenting in a
 
 [^97]: The region in southern Poland (until 1772 when it became Austrian) between the Dniestr and Bug rivers
+
 [^98]: This is probably Nathan ben Aharon of Lwów (aka Rabbi Nussen).
 
 *[p. xxix]* ^pg29
@@ -407,8 +481,11 @@ certain house. I went there. I found a Jewish girl who was already dying and ove
 52\. In Bucharest, during my youth, I was extraordinarily strong. Once it happened that two hussars of a certain lord were beating up a Jew. Having grabbed the Jew I asked the hussar, Why are you beating him? I will beat you too, he answered. I pushed him then so \[hard\] that he fell bleeding to the ground. They jumped upon me, but I crippled them. Then the other guards came running towards the commotion. I, having taken a rolling pin which was then in use for rolling out dough, began to swing with it at one after the other of them until they all ran away and, having grabbed their military commander by the neck, I ripped the whole front of his clothing. Seeing such a deed, they went to their Aga[^100] who, after hearing what had happened called a lot more men and, the townspeople having joined him, there came to my house about 700 people; having seen that I rushed outside and again scattered them all, leaving every one of them with a mark on the mouth, or nose, and so on.[^101] The honest storekeeper and my neighbor advised me then to overtake those people and go to the Aga first, telling him that it was not I who started that incident, to which they gave me \[their\] attestation. I went to the castle but was unable to find the Aga himself but only that military commander whose clothing I ripped was sitting there. Having noticed me, he gathered some men and rushed at me. I gave him a solid thrashing there and beat him to a pulp. But since at that time it was our holidays, I asked one of the 12 ladies of the court to go to the Aga and ask him to postpone the whole trial until after the holidays were over. This same lady took me in her coach from the castle to my home. After the Easter holidays I dressed myself in my red outfit[^102] and went to the king. The guards did not stop me, thinking, that it was one of the great lords. The husband of that lady and the Aga himself stood at the king's side. The Aga related the whole incident to the king saying that I alone had beaten and wounded many hundreds of people. Hearing this, the king asked, Why did you do this deed whereby you
 
 [^99]: See 8. Henryk was another of the sons of Elisha Shor.
+
 [^100]: A Turkish civil or military leader
+
 [^101]: Translating Polish *i.t.d*.
+
 [^102]: Red and white are the two most important colors in Frank’s color system. He wears clothing that is either red or white or a mixture in order to present himself in different meanings. The color red in the Zohar represents the divine attribute of judgement; the color white, mercy. Moreover, Frank chooses red clothes and furnishings in the tradition of Shabtai Zvi; and in relation to Edom as Christianity, as his secret religion, as Esau (Edom) who is largely a being of the aspect of the *sitra ahra*. As the messiah, Frank must release these colors or their aspects and liberate their proper natures, “cleanse” or “repair” them. See 52, 63, 126, 145, 222 nn; Chronicle, 109.
 
 *[p. xxx]* ^pg30
@@ -430,8 +507,11 @@ have murdered so many people? O king, I don't know at all why this happened, sin
 57\. In \[17\]59 the Lord said in Iwanie, There was a certain man who had a pearl of inestimable value. It had not been pierced. He went with it from one great city to another searching for a master who could make a hole through it, promising to pay him for the work in advance, but only if he \[the artisan\] would assume the possibility of doing so without the least bit of damage. /:if it would not be split:/ None of the greatest masters wanted to undertake the job. Finally the owner was offering 1000 zl for the work, but no one would dare do it. Being unable to think of what to do with this pearl the man went to a certain apprentice whose master was gone from home at the time, and without warning him of the danger of perforating a pearl, said, Take this pearl and drill me a hole through it and I will pay you well for it. The apprentice first took the pearl then drilled a hole through it fearlessly. The man paid him well and, fully satisfied, went on his way. It is just like that here. So many wise men wanted to drill but could not, because they were afraid, but I was chosen, because I am a prostak, who with the help of my God, will drill through everything and will gain everything.
 
 [^104]: Shabatians, Pol. *prawowierny*
+
 [^105]: A town across the Dniestr near Kaminiec-Podolsk, 49.55N16.38E near 48.40N26.36E
+
 [^106]: The merchant, presumably a Shabatian, complains that Frank has exposed some secrets of the faith.
+
 [^107]: A small silver coin
 
 *[p. xxxii]* ^pg32
@@ -449,12 +529,19 @@ have murdered so many people? O king, I don't know at all why this happened, sin
 63\. The angel who wrestled with Jacob when blessing Jacob, said to him, You will not be called Jacob from now on but Israel,[^115] and this was the reason why he and his children
 
 [^108]: German/Yiddish, “Esther, Esther, I am your brother and you are my sister.” Queen Esther was a typological figuration of Shabtai Zvi (because of her hiding her faith and people). She is one of the manifestations of the Shekinah/the Matronita; her name contains a reference to the braided cord of three strands as well as to secrecy. As Zvi’s figuration she plays a rich and complex part in Shabatianism during the lifetime of Shabtai which continues to develop in Baruchia’s sect. See M. Attias, G. Scholem, 99, 154, 156, 195, 196, 200 and notes ad loc. Frank adds the term “Brother” and “Sister” to the figure, identifying himself with the lower Sefirah of the Messiah (Yesod), the mate of the Shekhina (Malkhut). In asserting his own role he also says here that the place where she is to be found is Poland and provides an etiology for the roles of the Brother/s and Sister/s of the Company.
+
 [^109]: 105 n; 668
+
 [^110]: I.e., Frank
+
 [^111]: The reference is to the fighting between the Russian forces and the (Catholic) Confederation of Bar which took place between 1768-72.
+
 [^112]: [[Song of Songs 1#^1-8|Song 1.8]]
+
 [^113]: See 728 and the note there.
+
 [^114]: Cp. [[Ecclesiastes 02#^2-14|Eccl. 2.14]]
+
 [^115]: [[Torah 08 - Vayishlach#^32-29|Gen 32.29]].
 
 *[p. xxxiii]* ^pg33
@@ -468,11 +555,17 @@ had to go to Egypt,[^116] and at that time he became crippled in his leg,[^117] 
 66\. Whoever wants to be attached to the living God must possess purity together with all good attributes before God and man and must, as much as he can, do good towards everyone, and likewise he must possess steadfastness, so that when any difficulty or a test should come upon him he must be stable of spirit and turn neither to the right nor the left. If he does that, the good God will strengthen him and will enlighten his heart and he will reach the level of a true man, either in foresight or in knowledge, and he will come forth from the darkness in which the children of Adam lie, being worthy to attain the Life of all lives.
 
 [^116]: See 84 and 86 in particular. Frank, on the basis of a rabbinic statement (which he takes to mean the virtual reverse of what was intended, see the discussion in shab 156a), explains that the struggle that resulted in the change of Jacob’s name in the Bible led to the captivity of Israel in Egypt.
+
 [^117]: Frank identifies himself here with Jacob (Cf. [[Torah 08 - Vayishlach#^32-26|Gen. 32.26]]) on the basis of their common malady, an ailment of the legs.
+
 [^118]: Gen. R. 78.10
+
 [^119]: There is an error here. Either “Rachel” is an error for “Dinah” or, more likely, “Jacob” is a scribal error for “Joseph.” If the former, Frank has in mind the midrash (fr. Gen. R. 76.9) which criticizes Jacob for hiding his daughter from Esau and not giving her to him as his wife. If the latter, this sentence continues the preceding one. The theme of Laban and his household recurs frequently, in over two dozen dicta.
+
 [^120]: Again Frank jumps from the history of Jacob/Joseph/Esau to the history of his own following. Esau is identical with Edom and Christianity, he says, and if Jacob had not fled from Laban’s household and exposed himself to the envy and persecution of Esau then (Jacob Joseph) Frank and his Company would not have had to suffer under Christian domination but could have begun their journey at Laban’s, where one dresses in white (the meaning of Laban’s name in Hebrew) perhaps a reference to Shabtai Zvi’s white garments, perhaps to the revelation of the white (the Right Side) trapped in Darkness (see Attias, Scholem 72, poem 51n5). Jacob’s service for Laban and his flight with Rachel, Leah, their children and the household gods (Gen 30-31) is a recurrent point of reference for Frank. He seems to configure another archaic religion which has good and evil aspects; the Zohar speaks of Laban as the greatest of magicians
+
 [^121]: 68 lacks the interpolations.
+
 [^122]: Cf 63n
 
 *[p. xxxiv]* ^pg34
@@ -484,9 +577,13 @@ had to go to Egypt,[^116] and at that time he became crippled in his leg,[^117] 
 69\. That leader who led Jacob did not yet know the true road along which he was supposed to lead since here no one can tread, because it stands here, I will tread this vineyard myself,[^126] and that was from God himself, for if Jacob had gained victory over Esau at that time then the rule of Esau would have now acceded. Jacob said, Go you, o Lord, in front of your servant,[^127] and therefore now begins the rule of Jacob which will last forever.
 
 [^123]: The reference is to the dismemberment of Poland.
+
 [^124]: The incidents of the theft of the household gods and Rachel’s death and burial appear in Gen. 31, 35. They are associated in Gen. R. 74.9 (Rachel dies as a result of Jacob’s oath), 82.10 (Rachel’s grave on the road); [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-134a|Zohar 1.134a]] (Rachel’s grave), [[Zohar 2.06 - Parashat Va-Yetse#^z1-164b|164b]] (the teraphim), [[Zohar 3.03 - Parashat Va-Yishlah#^z1-175a|175a]] (Jacob’s oath). What Frank meant is unclear. The *trafim* (household gods) might be magic, or sexual images; the root *rfh* is interpreted by some, including the Zohar as having to do with losing hold of something, thus perhaps abandoning the lower Torah for the upper.
+
 [^125]: Gen. 27; cf *pesikta derav kahana* 1.12
+
 [^126]: [[Isaiah 63#^63-3|Isa. 63.3]]. (Both 68 and 69/1 lack the Hebrew transliteration which is found in the Appendix of Kraushar, vol. 1. The dicta as presented in Kraushar—in the body of the work especially but hardly less so in the Appendices to vol.1 and vol. 2 that contain a large number of dicta fragments—are not to be relied upon. It is clear that he had a complete manuscript of the dicta, but his emendations—driven by various motives—restrict their utility as witnesses. It seems possible to make a single large exception to this general rule for the transliterated Hebrew (and Aramaic, Ladino) phrases that occur in the Appendices—as in this dictum—in Kraushar’s renditions. He would not have added them himself. I have copied them into the notes when relevant to identifying the citation and its rendition; or when the orthography is of interest as it represents more than one contemporary realization of the Hebrew. K\[raushar\] 1.378 has Hebrew: *Puru durachti lewadi*. The biblical text is interpreted in the [[Zohar 3.07 - Parashat Va-Yhi#^z1-238a|Zohar 1.238a]] as speaking of the eventual conquest of “Edom” (that is, Christianity) by Israel (Jacob, the Jews).
+
 [^127]: [[Torah 08 - Vayishlach#^33-14|Gen. 33.14]]. [[Zohar 3.03 - Parashat Va-Yishlah#^z1-172a|Zohar 1.172a]] says that Jacob says this to Esau in order to postpone the reception of his father’s (stolen) blessings until the time they would be needed by his descendants in order to overcome his brother and all other peoples. K 1.378 has Hebrew: *Jawor ne Adojny lifne awdoy*.
 
 *[p. xxxv]* ^pg35
@@ -504,10 +601,15 @@ had to go to Egypt,[^116] and at that time he became crippled in his leg,[^117] 
 75\. In the year of 1783 began the last days.
 
 [^128]: [[Psalms 118#^118-22|Ps. 118.22]]
+
 [^129]: [[Torah 08 - Vayishlach#^32-11|Gen. 32.11]] with Rashi. K1.378 has Hebrew: *Ki bemakli uwarti es hajardin*.
+
 [^130]: 69/1 lacks *kiedy* (when).
+
 [^131]: [[Jeremiah 42#^42-3|Jer. 42.3]] (prb); 68 lacks *iak okręt na morzu, iak stoi, Bóg dał drogę* (like a ship in the sea, as it stands, God gave the road).
+
 [^132]: [[Torah 07 - Vayetzei#^28-17|Gen. 28.17]]
+
 [^133]: Frank says that the power Islam (Ishmael) possesses in this world is not directly from God but only from the demiurge that controls what power Islam possesses (temporarily).
 
 *[p. xxxvi]* ^pg36
@@ -529,12 +631,19 @@ had to go to Egypt,[^116] and at that time he became crippled in his leg,[^117] 
 83\. Jacob said, *Ma nauro ha mokaum haze. En ze ki im bes Elohim.* O, how frightful is this place. It is nothing other than the house of God.[^141] He was in error. There is nothing frightful at \[the home of\] God, but before God, before the place of his residence, there is great fear.
 
 [^134]: [[Torah 07 - Vayetzei#^28-17|Gen. 28.17]]; cf [[Zohar 2.06 - Parashat Va-Yetse#^z1-151a|Zohar 1.151a]]
+
 [^135]: Cf Num. 24. Balaam is taken as a great magician, related to or identical with Laban and a promoter of unchastity in Jewish tradition; he is also identified with Jesus while [[Zohar 4.04 - Parashat Va-Era#^z2-22a|Zohar 2.22a]] contrasts him with Moses.
+
 [^136]: [[Torah 40 - Balak#^24-5|Num. 24.5]]
+
 [^137]: Cp 71 to this point in the tale.
+
 [^138]: The reference is to those followers of Shabtai Zvi and Baruchia who converted to Islam. The image of “hanging in the air” is perhaps to be associated with the legend of the coffin of Mohammed which is suspended between Heaven and Earth.
+
 [^139]: The theme of the natural, giant, proportions of true man, i.e., Adam before sin, and the consequent reduction of height thereafter which will be repaired through the endeavors of Frank is quite common in the dicta. In the days of the messiah his great pre-fall height will be restored—among a couple of dozen other things—to man. See Gen R. 12.6, etc.
+
 [^140]: The Brothers (and Sisters?)
+
 [^141]: [[Torah 07 - Vayetzei#^28-17|Gen. 28.17]]; 76 n, [[Zohar 2.06 - Parashat Va-Yetse#^z1-151a|Zohar 1.151a]] associates the event and the place name with the aspect of Judgement.
 
 *[p. xxxvii]* ^pg37
@@ -546,13 +655,21 @@ had to go to Egypt,[^116] and at that time he became crippled in his leg,[^117] 
 86\. Every man is tied by a thread to his fortune, with only this difference, that one is \[tied by\] a simple, woolen thread; and another, whose fortune is great, is tied to it by a golden thread: he who is of pure gold from head to foot; not as it was with Nebuchadnezzar, where only the head was golden,[^149] but wholly gold; that one stands before God, without him it is not possible to come to God himself. He has the power of just looking at a man \[made\] of earth and changing him to pure gold as he is himself, and those who will be worthy to come to this, that they may be transformed into \[gold\], such \[people\] will be able to come to this, that God himself will be able to look at them and give them eternal life. But in no way can God look at people \[made of\] earth since they are subject to decay; I wanted to lead you away from the name of Israel, since that name has no fortune,[^150] and tie that golden thread to you, but you have entwined it with a woolen thread. N.B. In Częstochowa in a dream the Lord once saw himself completely gold, even his hair, nails *etc.* were pure gold.
 
 [^142]: In Polish the word "field" is *pole*.
+
 [^143]: A confusion of [[Torah 08 - Vayishlach#^32-29|Gen 32.29]] and [[Torah 08 - Vayishlach#^35-10|Gen. 35.10]], see notes to dictum 63.
+
 [^144]: The German word is used rather than the Polish (*świątynia*).
+
 [^145]: 68 lacks the interpolation.
+
 [^146]: [[Proverbs 30#^30-23|Prov. 30.23]]. Generally, the Zohar takes this passage as referring to the replacement of the Shekhina by Lilith, light by darkness. See 3.265bf
+
 [^147]: [[Torah 40 - Balak#^24-18|Num. 24.18]]
+
 [^148]: Perhaps a reference to the replacement of the Torah of Emanation—the one which was lost, the Tree of Life—by the Torah of Creation which begins with the letter bet rather than alef.
+
 [^149]: [[Daniel 02#^2-38|Dan 2.38]]
+
 [^150]: Shab 156a and 63 nn
 
 *[p. xxxviii]* ^pg38
@@ -570,9 +687,13 @@ had to go to Egypt,[^116] and at that time he became crippled in his leg,[^117] 
 92\. Those domestic gods are statues, so why did Laban say, For what reason did you steal my God?[^155] I am telling you truly, that that Maiden Jacob pursued so as to possess her,
 
 [^151]: [[Torah 01 - Bereshit#^3-17|Gen 3.17]]; [[Zohar 1.08 - Parashat Noah#^z1-70b|Zohar 1.70b]]. The theme of the God whose name is unknown may relate to the gnostic or the Aristotelian concept of the God who did not make this world/the Cause of Causes, the First Cause etc. The gnostic concept is closely associated with Shabtai Zvi (by Scholem particularly); the Aristotelian one particularly with Avraham Cardozo. Cf [[Zohar 7.03 - Parashat Va-Yiqra#^z3-11a|Zohar 3.11a]]. See also, Liebes, s*od*...193-4 (to [[II Chronicles 15#^15-3|2 Chr 15.3]] and the God Israel lacks).
+
 [^152]: Cf Sanh 98ab
+
 [^153]: 68 lacks the interpolation.
+
 [^154]: 68 lacks the interpolation here as well as the two following in this dictum.
+
 [^155]: [[Torah 07 - Vayetzei#^31-30|Gen. 31.30]]. The Hebrew word *elohai* may be understood as either “my gods” or “my God.”
 
 *[p. xxxix]* ^pg39
@@ -588,7 +709,9 @@ she still stayed at \[the place of\] Laban. If Jacob himself had taken these god
 96\. A certain princess of lesser rank than a prince wanted absolutely to have him as her husband, sent \[a message\] to his father that he give her his son \[in marriage\], threatening otherwise to go to war with him. Seeking to avoid any conflict, the king summoned the gardener and having given him a convoy sent him to her. The princess, waiting for the one she fancied, ordered the whole road in that region as far as her palace to be laid with the very richest cloth. The gardener, when riding, noticed it and gave the order to turn aside so as not to damage such costly cloth. He arrives. The princess takes him to her garden where she ordered the trees set the wrong way, all the flower pots turned over *etc.* Unable to bear it anymore the gardener, so as not to reveal his art, begins to say this is bad, that is not good, this must stand so, that otherwise. The princess realized right away that this is no knight of royal blood. She sent him back and threatens \[war\] if they do not provide the true prince. The king tries it again and sends his chef. That one also seeing it covered with cloth orders the expedition off the road. Having come to the kitchen and having found something or other not in order, \[he\] began to argue about the kitchen, according to his ways. The princess recognized him also, sent him back with the final warning that war was imminent. Willy-nilly, the king sends his real son. That one goes right over the material on the road, being used to it, noticing nothing. The queen \[!\] then recognizes the true one and unites with him.[^158] So it is with you, You should have trod on all laws, those which have been given; likewise, when I said something contrary to you and you could not accept it, but the wise man must understand that the herb of life is
 
 [^156]: 68 lacks *wzupełności* (completely).
+
 [^157]: 68 lacks *i pozwolenia Boskiego na to wyglądał* (and awaited God's permission for it).
+
 [^158]: 68 lacks *Krolowa (!) poznaie prawdziwego i łączy się z nim* ( The queen \[not "the princess"\] then recognizes the true one and unites with him.)
 
 *[p. xl]* ^pg40
@@ -604,5 +727,7 @@ enclosed in the deadly one. It was necessary for you to listen to everything unt
 100\. During this age the kings do not care at all about their authority, but only behave like common soldiers /:officers:/. And all this goes on getting lower until it falls /:the same way religions are declining:/. Polish lords too sometimes dress themselves as peasants for fun, and princes along with them /:they are also thus debased:/.[^161]
 
 [^159]: For the identity of “the three who direct the world” see 447n
+
 [^160]: 68 lacks the interpolation.
+
 [^161]: 68 lacks the three interpolations in this dictum.

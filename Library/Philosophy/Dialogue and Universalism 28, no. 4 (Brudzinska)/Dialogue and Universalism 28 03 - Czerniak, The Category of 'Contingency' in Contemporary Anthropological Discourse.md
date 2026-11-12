@@ -49,7 +49,9 @@ d) an event that was not human-planned; e) a long-term effect of human social ac
 —————————
 
 [^1]: One can, of course, search for another kind of logical-semantic connection between those concepts. In his essay entitled *On the Dignity of Man* \[O godności człowieka\] (published in his collection Stróżewski, W. 2002. *O wielkości, Szkice z filozofii człowieka* \[On Greatness. Sketches on the Philosophy of Man\]. Kraków: Znak), Władysław Stróżewski mentions their “entanglement with each other” and proposes to consider the phenomenon of randomness in the anthropological sense as “one of meaningful factors of experiencing contingency” (p. 101). While human passing, “being towards death,” Pascal’s “fragility” of human existence, as well as situations where “good is continually threatened by evil, like nothingness threatens the being” (p. 105) could—according to him—attest to the contingent character of the human being (I am, but I could not be, and one day I will cease to be), the experience of randomness would then refer to “ man never being able to foresee everything that awaits him, what could await him, and will never fully avoid accidents the world has in store for him” (p. 97). Due to a variety of source materials used in this work, where the concepts of contingency/accident and randomness are used interchangeably, it seems more accurate to assume the broadest possible definition that will make further comparative efforts easier already at the outset.
+
 [^2]: Krajewski, W. 1977. *Konieczność, przypadek, prawo statystyczne* \[Necessity, Accident, Statistical Law\]*.* Warszawa: PWN, 135–140*.*
+
 [^3]: Philosophers are often interested in the so-called “contingency of the world,” or a question of accidentality, or necessity of laws of nature known to science. Possible stands on that issue are, however, logically and on the grounds of merit, independent from the statements of the subject of contingency as a characteristic of human experience, or the human condition (see Wetz, F. J. 1998. Kontingenz der Welt—ein Anachronismus?” \[Contingency of the World—Anachronism?\]. In: *Kontingenz* \[Contingency\]. Marquard, O. (Ed.). München: Fink, 81–107.
 
 *[p. 31]* ^pg33
@@ -77,7 +79,9 @@ In order to highlight that matter, it is worthwhile to begin with the fact that 
 The point is, those causal chains disrupt and distort cause-effect relationships initiated by our intended actions. Anthropologically, the concept of contingency does not collide with the deterministic model of the world, and Marquard does not engage in ontological-epistemological conflicts surrounding the uncertainty principle of Werner Heisenberg. From the anthropological point of view it does not matter whether the event that causes me to, for example, lose control over my own actions is—as such—an event devoid of cause (e.g., like the “free” movement of electrons in the nerve cells of a brain core), or if it is a link created by homogenous (in the sense of the class of a natural phenomenon) cause and effect conditioning. However, one of the conclusions Marquard reaches in the course of his analysis is that a phenomenon he calls “a surplus of determination” decides about the range of freedom of man as an acting subject. “Human beings are not free by virtue of the fact that they copy God (as quasi– omnipotent directors on the world stage, or by having unconditioned capability
 
 [^5]: Ibid., 119.
+
 [^6]: Marquard refers back to the classic definition of “accident” as that, which is neither necessary, nor impossible, present already in the philosophy of Aristotle (see Bubner, R. 1998. “Die aristotelische Lehre vom Zufall” \[The Aristotelian Concept of Accident\]. In: Marquard, O. (Ed.), op. cit., 3–23). It constitutes a possible starting point for reflection around certain specific anthropological situations, but it is important to observe that it is abstract enough to refer to many different, also anthropologically irrelevant, classes of events. When I roll a six-sided die, it is not necessary, but precisely random, that I will get a four. However, it is impossible for me to get a twelve.
+
 [^7]: Krajewski, W. 1977, op. cit., 135.
 
 *[p. 33]* ^pg35
@@ -113,6 +117,7 @@ In the description of contingency as a key *antropologicum* there appears a part
 —————————
 
 [^12]: See Plessner, H. 1970. *Laughing and Crying*. Spencer, J., M. Greene (Trans.). Evanston: Northwestern University Press, 138–158.
+
 [^13]: See Ritter, J. 1989. “Über das Lachen.” In: idem. *Subjektivitӓt*. Frankfurt am Main: Suhrkamp, 62–93. —————————
 
 *[p. 36]* ^pg38
@@ -124,7 +129,9 @@ Describing the potential human reactions to that challenge, Marquard takes two a
 Another argumentative dimension in which Marquard takes up the question of “easing” contingency is his philosophical apology of the accidental in the sense of approval for established rules, practices, or traditions, which are always considered as starting points for human actions, and support of which constitutes the main postulate of Marquard’s social conservatism. Human beings at peace with the contingency of their own fate, subjects that are aware of their not being merely “a result of consciously made choices, but also of coincidences,” will be willing to keep the contingent status quo that they are at peace with. That preserving acceptance does not have to be preceded by any kind of former legitimization of tradition. It possess a “right” to last simply because it has been lasting, and because it continues to last. It is not about a norm in the strict sense of the term, since norms do not result from facts, but about a situation that could be described as the empirically established inertia of factuality, its natural intractability
 
 [^14]: See Gehlen, A. 1988. *Man, His Nature and Place in the World*. McMillan, C., K. Pillemer (Trans.). New York: Columbia University Press, 9–131.
+
 [^15]: See Lübbe, H. 1990. *Religion nach der Aufklӓrung* \[Religion after Enlightenment\]. Graz: Styria.
+
 [^16]: Marquard, O. 1991, op. cit., 121.
 
 *[p. 37]* ^pg39
@@ -152,6 +159,7 @@ the self, and the contingency of liberal society. What does that mean, collectiv
 —————————
 
 [^19]: Rorty, R. 1989. *Contingency, Irony, and Solidarity*. Cambridge: Cambridge University Press, 17.
+
 [^20]: See ibid., 15.
 
 *[p. 39]* ^pg41
@@ -189,6 +197,7 @@ Those general philosophical assumptions also influence the concept of the self-k
 —————————
 
 [^24]: This philosophical strategy of “indirect” proof will be developed by Marquard also in other areas of his philosophical inquires, for example in his concept of “dietetics of the expectation of meaning.” In its light the “sense of life” category possesses—for humans—a mythical character, as long as they do not learn to search for the meaning of life “indirectly,” through the realization of trivial—from the point of view of the lofty ideal of the sense of human existence as such—everyday life goals (see Marquard, O. 1991, op. cit., 29–50.)
+
 [^25]: See Czerniak, S. 2002. *Lorenz, Plessner, Habermas. Dylematy antropologiczne filozofii współczesnej* \[Lorenz, Plessner, Habermas. The Anthropological Dilemmas of Contemporary Philosophy\]. Lubicz: Rolewski, 139–165.
 
 *[p. 43]* ^pg45
@@ -248,8 +257,11 @@ Habermas is far more sceptical in this respect (although his scepticism, which l
 —————————
 
 [^30]: It appears obvious to a historian of philosophy that Habermas does not operate with any “substantialist” concepts of human nature and is not involved in references to the theory of natural law. The category of human nature does not possess a metaphysical character for him, but rather refers to the *a priori* ingredients of special human self-knowledge. He recognizes the entirety of the constants of human communication as the core of that self-knowledge. Habermas is convinced that critical reflection on the perspectives of eugenics reveals “intuitive self-descriptions” (*Selbstbeschreibungen)* of humans that “guide their identification as human beings” (Habermas, J. 2003, op. cit., 39). That knowledge is supposed to reach beyond any cultural context. “The question concerns not culture which is different everywhere but the vision different cultures have on ‘men’ who—in this anthropological universality—is everywhere the same” (ibid.)
+
 [^31]: Rorty, R. 1989, op. cit., 26. “Rorty claims that particularly philosophical questions about the nature of man are pointless,” Czarnocka, M. 2003. *Podmiot poznania a nauka* \[The Subject of Cognition and Science\]. Wrocław: Wydawnictwo Uniwersytetu Wrocławskiego, 128.
+
 [^32]: Rorty, R. 1989, op. cit., 60.
+
 [^33]: Ibid., 7.
 
 *[p. 48]* ^pg50
@@ -271,8 +283,11 @@ Entering that debate, Marquard could state that moving away from established pra
 —————————
 
 [^36]: Ibid., 69.
+
 [^37]: Ibid., 67.
+
 [^38]: Habermas, J. 2003, op. cit., 40.
+
 [^39]: See Rorty, R. 1991. “The Priority of Democracy to Philosophy.” In: idem. *Objectivity, Relativism and Truth.* London: Cambridge University Press, 175–196.
 
 *[p. 50]* ^pg52

@@ -91,7 +91,9 @@ A final desideratum would be the selection of a term or an expression that is re
 One might suspect that the principle of avoiding periphrasis is far from being observed in the terms I propose for the three malas, for instance.[^3] My answer is that, although my translations for the three malas may appear to be expanded, the expansion is not a periphrasis but rather a syntactical suppletion—a suppletion made necessary not only by the transposition from Sanskrit to a language, such as English, which lacks the austere compositional facility of Sanskrit, but also by the philosophical discourse to be read through the terminology, where it is desirable to give preference to the subjective point of view of the bound soul (paśu) engaged in the process of achieving its ultimate freedom, sovereignty and purity (see, infra, p. 76).
 
 [^1]: In his works, Abhinavagupta designates the doctrine of which he is a notable exponent (indeed, the most fecund), namely nondualistic Śaivism, as the ‘Trika’, or ‘Triad’. Therefore, in what follows, I shall also refer to this system of thought with this term. On the Trika, or ‘Triad’ of three principles: Śiva, Śakti and the embodied soul (nara), see, for instance, Tantrāloka \[TĀ \] X 1, XIII 348 and (as the periphrastic expression ‘ṣaḍardha’, ‘half of six’) TĀ XIII 301 (where is established the supremacy of the Trika over all Śaiva currents), XVI 158, XXXVII 26, 68, etc. On the historical development of the Trika and other symbolic meanings of the term itself, see Sanderson (2007, pp. 370–383). The pre-eminent concern of this essay, ‘nondualistic’ or ‘nondual’ (advaita) Śaivism of Kashmir, will be referred to simply as Kashmir Śaivism or even as Śaivism (and the corresponding adjectives) unless the context requires more precision.
+
 [^2]: I shall refer to the edited text and the translation of PS and PSV given in Bansat-Boudon and Tripathi (2011).
+
 [^3]: Namely: the ‘impurity of \[deeming oneself\] finite’ for āṇavamala, the ‘impurity of \[regarding the world as\] objective’ for māyīyamala, and the ‘impurity of \[supposing oneself the agent of\] actions’ for kārmamala.
 
 *[p. 41]* ^pg6
@@ -115,7 +117,9 @@ The idea of consciousness as fluidity crystallized in the world of phenomena app
 śrīparamaśivaḥ \[…\] cidrasāśyānatārūpāśeṣatattvabhuvana-bhāvatattatpramātrādyātmatayāpi prathate /, ‘Paramaśiva \[…\] manifests \[lit., ‘displays’\] himself both as the totality of principles, worlds and entities and as their respective experiencers, that are only a solidified form of the essential fluidity of consciousness.’[^6]
 
 [^4]: On spanda, see infra, p. 76.
+
 [^5]: It is the recurrent notion of krīḍā, as the expression of the Lord’s sovereign freedom; see Yogarāja’s maṅgala verse, quoted infra, p. 43.
+
 [^6]: Unless otherwise noted, all translations are mine.
 
 *[p. 42]* ^pg7
@@ -135,8 +139,11 @@ It is Yogarāja himself who employs the term in his very first maṅgala verse: 
 pracchādanakrīḍāvidagdhaḥ parameśvaraḥ //,
 
 [^7]: Its author, Yoginātha, could have been a non-sectarian Śākta, whose syncretic exposition attempts to integrate both the Vaiṣṇava and the Śaiva points of view; see Dyczkowski (1992, p. 290).
+
 [^8]: Ś âstrî Islâmpurkar (1898, p. 6).
+
 [^9]: In mūrch, the element –ch is the inchoative suffix aggregated to the root by the Pāṇinian tradition—the primary root being \*mūr, ‘to stiffen up’, ‘to harden’, which is not attested in Sanskrit as a verbal root, but is present in such nominal derivatives as mūrti, ‘form’, or mūrkha, ‘stupid’.
+
 [^10]: vedāntabhāṣābhiḥ \[…\], ‘by reference to language taken from Vedāntic \[i.e., Upaniṡadic\] statements’—be the compound taken as a tatpuruṣa—, or ‘by reference to commonly used languages and also to Vedāntic statements (the latter drawn from certain Upaniṡads)—be the compound taken as a dvandva. The term ‘vedānta’ here presumably refers to the Upaniṣads directly, rather than the late Vedānta, as one of the six darśanas; and bhāṣā rather translates as ‘worldly’ language, which are multiple, as opposed to Vedic–Upaniṣadic language. This then would presumably be a dvandva.
 
 *[p. 43]* ^pg8
@@ -156,6 +163,7 @@ Which suggests a third rationale for the usage: namely, that what is at issue he
 And finally, in stressing what amounts to the materiality of consciousness, Pratyabhijñā authors may be making a point that is often associated with the ‘material cause’ (in Aristotelian terms), namely, that, quâ matter, all form is superadded and ipso facto extrinsic. As Chāndogyopaniṣad \[ChU\] says, what is ‘real’ is the clay, not the pot or the dish or the toy formed of it. Mutatis mutandis, the clay (as matter) is ‘inexpressible’ except as or through form—one cannot encounter clay as such, and yet all clay objects are nothing but clay.[^12]
 
 [^11]: See infra, p. 54ff.
+
 [^12]: It is Uddālaka’s discourse on the unity of Being (ChU VI 1, 4ff.): yathā saumya ekena mr̥tpiṇḍena sarvaṃ mr̥nmayaṃ vijñātaṃ syāt vācārambhaṇaṃ vikāro nāmadheyaṃ mr̥ttikety eva satyam, ‘Just as, my dear, by one clod of clay all that is made of clay becomes known, the modification being only a name arising from speech while the truth is that it is just clay’ (transl. Radhakrishnan).
 
 *[p. 44]* ^pg9
@@ -181,9 +189,13 @@ aham eva cidghanaḥ, ‘I am indeed formed \[entirely\] of consciousness.’[^1
 The compound cidghana is a nucleus to which other units may be added, by a process that is, in principle, unlimited. In such cases, the core metaphor is preserved at all costs, even though the translation of the expanded compound cannot always be a matter of simply adding determinations—whether substantival or adjectival—to
 
 [^13]: Radhakrishnan translates by: ‘mass of intelligence’, resting his choice on the preceding images, saindhavaghana, etc.
+
 [^14]: Again compared to the lump of salt (here, saindhavakhilya)—which obviously takes up again the theme developed in the Chāndogyopaniṣad.
+
 [^15]: Bouy (2000) translates: 86: ‘masse de pure conscience objectale’.
+
 [^16]: Lit., ‘a mass solely consisting of consciousness’.
+
 [^17]: See also PSV 74.
 
 *[p. 45]* ^pg10
@@ -205,6 +217,7 @@ All of which might be alleged to favor the interpretation of the compound itself
 The Trika may, as well, be distinguished from the more austere currents of Advaita Vedānta in its more positive evaluation of the perceptible world, culminating in a sense of marvel (camatkāra), a ‘marveling’ that borders always on joy (ānanda), and characterizes both the regard the yogin casts upon this marvelously variegated world and the open-eyed delight with which he contemplates his identity with that world and with the Lord—a posture which has, in this
 
 [^18]: avat. ad 46: °abhinnacidghanaśiva°: ‘Ś iva, formed of undifferenciated consciousness’.
+
 [^19]: It is an old question, with which Advaitins and their opponents have dealt ad libitum: how to maintain the unicity of brahman while attributing to it several epithets, such as sat, cit, ānanda? See also infra, p. 73ff.
 
 *[p. 46]* ^pg11
@@ -229,7 +242,9 @@ The compound is to be found in PSV 33:
 iti prākpratipāditena krameṇa bhagavān svatantraḥ paramaśivaḥ pūrṇacidānandaikaghanalakṣaṇaḥ \[…\] bandhaṃ vidadhāti, ‘Thus, i.e., through the process expounded earlier, the free Lord, the Supreme Ś iva, whose distinguishing feature is that the uniform mass of blissful consciousness of which he is composed is ever complete \[…\], creates bondage.’
 
 [^20]: See Bansat-Boudon and Tripathi (2011, pp. 55–56).
+
 [^21]: On this notion, and on the Paramārthasāra as a treatise mainly dealing with jīvanmukti, see Bansat-Boudon and Tripathi (2011, pp. 32–48).
+
 [^22]: Or: ‘uniform mass of blissful and ever complete consciousness’. The compound is for the most part understood as a bahuvrīhi, lit., ‘whose uniform mass of blissful consciousness is ever complete’. Yogarāja ad PS 1, glosses para, ‘transcendent’ as pur̄ṇa ‘full’, which he further explains as: paraṃ pūrṇaṃ cidānandecchājñānakriyāśaktinirbharam anuttarasvarūpam, ‘\[The Lord who is\] replete with all five energies—Consciousnes, Bliss, Will, Knowledge and Action—, and who has thus the nature of the Unsurpassed.’ Same exegesis in PSV 43 (Bansat-Boudon and Tripathi 2011, p. 201). The term pūrṇa is used elsewhere as an epithet for brahman—in the Dvaita school, for instance—to point out the error inherent in the notion of the Absolute that is commonly attributed to Advaitins: brahman is not devoid of qualities (nirguṇa); rather, it possesses them all (saguṇa), even those that the common man fails to imagine. It is to be assumed that the epithet pūrṇa has become customary in anti-Ś aṅ karian systems, of whatever monist or dualist persuasion (although the opposition is somewhat artificial).
 
 *[p. 47]* ^pg12
@@ -261,7 +276,9 @@ sarvaṃ hy abhimānasāraṃ kāryatvena pratibhāsamānam idantāvacchinnam ut
 ahaṃ cidānandaikaghano ’navacchinnasvabhāvaḥ svatantraś cety akṛtrimāhantāsphuraṇayā,
 
 [^23]: Lit., ‘whose form is …’.
+
 [^24]: Cf. PS 29 in Bansat-Boudon and Tripathi (2011, p. 164), where I proposed a variant: ‘uniform and unqualified mass of blissful consciousness’, in which anavacchinna is rendered as ‘unqualified’—a variant that can nevertheless be considered to put too much emphasis on the strength of ‘eka’.
+
 [^25]: Note that a similar problem is resolved in the Advaita Vedānta in a similar way.
 
 *[p. 48]* ^pg13
@@ -277,7 +294,9 @@ They are nevertheless, at first sight, different notions by virtue of their deri
 It may be concluded that the compound bhavanakartr̥tā merges the two most general verbal ideas, those of the “verb” (expressing change), namely kr̥, and of the “non-verb” (expressing the unchanged condition), namely bhū,[^28] so much so that,
 
 [^26]: See a later work, Nāgeśa’s Paramalaghumañjūṣā \[PLM\], accounting for the Mīmāṁsaka position (p. 85): phalānukulo yatnasahito vyāpāro dhātvarthaḥ \[…\], ‘The meaning of the verbal root is an operation (vyāpāra) conducive to the production of a result (phala) and accompanied by a volition or effort (yatna)’ (transl. K. Kunjunni Raja, in Coward and Kunjunni Raja (2001, p. 330).
+
 [^27]: My understanding of the topic has greatly benefited from a thorough discussion with Edwin Gerow.
+
 [^28]: It is noteworthy that some grammarians treat the root kr̥ (‘to do’) as what could be called a “generalized verbal root”, but not the root bhū (‘to be’), which they somehow consider as a suspect root, inasmuch as it does not express a transformation and its object remains in the nominative, and could thus be conceived of as the “non-verb”; on this suspicion, see the modern commentary of Kalikaprasad Shukla ad PLM: nanv evam astyādīnāṃ dhātutvānāpattis teṣāṃ sattāmātrārthatvena vyāpārarūpakriyāvāca-katvābhāvād ata āha \[…\], quoted infra, p. 73. That the root kr̥ may be considered as the generalized verbal root is further evidenced by grammatical terminology itself: kriyā(pāda) is the ‘verb’ seen as an ‘action’; the kārakas (or ‘notions of a case’) are the very notions of the syntactical relations between the verb and the noun, by which is realized the potential sense of the root (on kārakas, see infra, p. 70ff); the ‘subject’ Footnote 28 continued is the ‘agent’: kartr̥; that by which an action is effected, mainly the instrumental case, is karaṇa, etc. Ultimately, nevertheless, orthodox tradition (as reflected in PLM quoted infra, p. 72: astibhavativartatividyatīnām arthaḥ sattā \[…\] satteha ātmadhāraṇam) accepts the “verbality” of the roots as and bhū, ‘to be’, for a certain effort is required to continue in the same state, to persist in one’s own being; on this question, see also infra, p. 73ff.
 
 *[p. 49]* ^pg14
@@ -314,7 +333,9 @@ In any case, the analogy itself as well as its more or less literal translations
 It is no less legitimate, though, that many specialists should retain (some quite insistently), the original metaphor, insofar as it cannot be denied that these roots,
 
 [^30]: Lit., ‘the absence of light cannot itself shine forth’, quoted in Yogarāja ad PS 30. In other words, consciousness contains everything within its fold; that is, apart from consciousness, nothing can be conceived. Whatever is not an object of knowledge does not exist—moreover, the very idea of something that ‘cannot be known’ is self-contradictory. See also ĪPK I 5, 3: bhinne prakāśe cābhinne saṃkaro viṣayasya tat / prakāśātmā prakāśyo ’rtho nāprakāśaś ca sidhyati, ‘If light were undifferentiated (in itself) and differentiated (from objects), then objective reality would be confused. The object that is illuminated must itself be light; that which is not light cannot be established.’ (transl. Torella 1994).
+
 [^31]: The maxim is quoted in PSV 11. It is an abridged form of sakr̥d vibhāto ’yam ātmā pūrṇasyāsya na kvāpy aprakāśanasaṃbhavaḥ, ‘Once this Self has appeared \[, its possibility of not appearing is nowhere (i.e., is not possible), for it is complete,’ quoted by Abhinavagupta in his Īśvarapratyabhijñāvivr̥tivimarśinī \[ĪPVV\] II 1, 6–7 (vol. 3, p. 23), and attributed to the Śaiva Sārasvatasaṃgraha. On the notion and its non-Śaiva antecedents, see Bansat-Boudon and Tripathi (2011, pp. 13–14, and 110–111) (n. 455).
+
 [^32]: Transl. Radhakrishnan (1978). Also, Muṇḍakopaniṣad \[MuU\] II 2, 11, Kathopaniṣad \[KU\] II 3, 15.
 
 *[p. 51]* ^pg16
@@ -334,8 +355,11 @@ Such is obviously the case with the related root bhā, in PS 56cd:
 gatajanmabandhayogo bhāti śivārkaḥ svadīdhitibhiḥ //, ‘Once the connection with the bondage of birth is severed, the sun of Ś iva shines with its rays unhindered,’[^36]
 
 [^33]: See infra, spanda and sphurattā, p. 52ff.
+
 [^34]: Or, for the verb, such translations as ‘shines-vibrates’; see Torella (1994, p. 121, and n. 28).
+
 [^35]: For instance, in the translation of bhāvanā, I have opted for a somewhat expanded translation, namely, ‘meditative realization’, for ‘meditation’ or ‘realization’ alone would not have accounted for the complexity of the notion; see infra.
+
 [^36]: Lit., ‘with its very own rays’.
 
 *[p. 52]* ^pg17
@@ -357,6 +381,7 @@ The semantic derivation, in Latin and English, which gives ‘to despise’ (spe
 The sememe of light seems to be absent from those original meanings. Yet, it could have been derived from ‘to push with the foot’, inasmuch as one can suppose that there has been a shift from the image of something that bursts out when being kicked (a lump of clay, an overripe fruit) to the idea of a radiance; even more, it is a trembling/pulsating radiance, according to one of the primary meanings of the root: ‘to make an abrupt move’, therefore, ‘to tremble’ (see Greek).[^38] Such a semantic derivation is supported by the postulated stem \*per–, ‘dissipate’ (see above).
 
 [^37]: Some features of this development have been borrowed from Wiktionnaire, s.v. sperno. The rest of it is mine.
+
 [^38]: As for the root sphuṭ (whose nominal derivative is sphoṭa), which, according to Mayrhofer KEWA, s. v., could be onomatopoeic, it is not attested outside Indo-Iranian.
 
 *[p. 53]* ^pg18
@@ -382,7 +407,9 @@ aham eva itthaṃ viśvātmanā sphurāmi, ‘It is I who appear as the Self of 
 It is precisely while ‘consciousness’, or rather ‘dynamic consciousness’, that Īśvarapratyabhijñākārikā \[ĪPK\] employs the term sphurattā for the first time (ĪPK I 5, 14).
 
 [^39]: See the complete text, n. 29.
+
 [^40]: An idea that is present in SpK I 3, quoted immediately after by PSV 1, and in PS 34.
+
 [^41]: See Bansat-Boudon and Tripathi (2011, p. 233).
 
 *[p. 54]* ^pg19
@@ -412,6 +439,7 @@ Rather, in the Trika, that world of experiences is but the luminous manifestatio
 It should be noted, however, that occasionally the context in which the root sphur and its derivatives are used, as well as certain requirements in the syntax and lexicon of English, or the content of commentaries have suggested that I should maintain some trace of the original metaphor, as, for instance, in TĀ IV 184–186a:
 
 [^42]: See infra, p. 76.
+
 [^43]: Reference is made here to the “reality” subordinated to the law of causality, inasmuch as the “reality” of every thing is determined by the conditions presiding over its advent.
 
 *[p. 55]* ^pg20
@@ -435,9 +463,13 @@ How to translate this? ‘Let my heart burst out!’, ‘let my heart shine fort
 \[…\] kālatrayāvacchedaśūnyatvena vikasatāt,
 
 [^44]: A spanda described as svātmany ucchalanātmakaḥ, ‘That which springs upward in one’s own self’, in the previous verse (TĀ IV 183); on spanda, see infra, p. 75.
+
 [^45]: This is further evidenced by the fact that Abhinavagupta, when commenting on the sphurattā of ĪPK I 5, 14, does not explain that very notion, but, in great detail, that of spanda (see, infra, p. 76).
+
 [^46]: It amounts to being the ‘play’ (krīḍā) of the God, as the expression of his sovereign freedom.
+
 [^47]: Same opening verse in all but one of Abhinavagupta’s expositions of the Trika; for a translation and a detailed interpretation of it, as occuring in the Tantrasāra, see Sanderson (2005), who does not examine the meaning of sphur.
+
 [^48]: Sanderson (2005, p. 89) translates: ‘May my heart shine forth’.
 
 *[p. 56]* ^pg21
@@ -503,8 +535,11 @@ bhagavataḥ kila svaśaktivikāsasphāra eva jagannirmāṇam, ‘Thus, the con
 Here is indeed a strange construct: far from being entirely reducible to the materiality of the world (viśva, sarva) the notion of aṇḍa—an innovation, in its Śaiva sense, and whose source, moreover, is the Mālinīvijayottaratantra \[MVT\], the Ā gama considered as authoritative for the Trika—contains in itself the
 
 [^51]: On this notion, borrowed from Hulin (1978), and the opposite notion of ‘genesis of liberation’, see Bansat-Boudon and Tripathi (2011, pp. 77, 323–326).
+
 [^52]: See avat. ad PS 4, Bansat-Boudon and Tripathi (2011, pp. 76–77): ‘\[…\] it is the supreme freedom of the Supreme Lord alone that constitutes the source of \[his\] agency, \[made manifest in\] conjoining and disjoining \[his innumerable energies\].’
+
 [^53]: Same reasoning in TĀ VIII 171–172, commenting on TĀ VIII 169 (itself a quotation from the Raurava\[āgama\]): vastupiṇḍa iti proktaṃ śivaśaktisamūhabhāk / aṇḍaḥ syād iti tadvyaktau saṃmukhībhāva ucyate // tathāpi śivamagnānāṃ śaktīnām aṇḍatā bhavet / tadarthaṃ vākyam aparaṃ tā hi na cyutaśaktitaḥ //, ‘Since this aṇḍa, which is \[essentially\] an assemblage of Ś iva’s energies, has been described as “aggregate of entities” (vastupiṇḍa), it is spoken of as their \[energies’\] objectification (saṃmukhībhāva), in the process of manifestation. Even so \[one may object\], the condition of being aṇḍa could be predicated of the energies that are immersed in \[i.e., that are one with\] Ś iva. For that reason \[i.e., in order to avoid the fault of a too wide definition\], another syntagm \[qualifying aṇḍa, has been given (in VIII 169a), namely, ‘pracyutaḥ śaktirūpatah’˙, from which it may be inferred that\] those \[energies\] have not deviated from their nature as energies \[viz., being one with Ś iva\].’
+
 [^54]: Same expression in PSV 27, quoted, infra, p. 64: viśvanirmāṇahetuḥ.
 
 *[p. 63]* ^pg28
@@ -524,6 +559,7 @@ Thus, the theory of the four aṇḍas is an ontological requirement of the syst
 This long exposition on the theory of the aṇḍas is not a digression. It is essential (as shown by the exposition strategy of the Paramārthasāra) to understand the significance of the concept of bhavanakartr̥tā, in its relation to the supreme principle on the one hand, and to the materiality of the world, on the other. One of the keys to the comprehension of this is to be found in PSV 4 and 27. Here is the first text, avat. ad PS 4:
 
 [^55]: As an ‘egg’ or an ‘envelope’, the aṇḍa is seen as a form given to the formless, hence as a cover, veiling the pure Light (prakāśa) of the Self/consciousness, and further covering the world that it encompasses. Thus, the other aspect of the definition of aṇḍa consists in its being a cover (ācchādaka), a sheath (kośa), as explained by PSV 4.
+
 [^56]: See PS 4 and its detailed commentary in Bansat-Boudon and Tripathi (2011, pp. 76–82).
 
 *[p. 64]* ^pg29
@@ -545,6 +581,7 @@ In the sense that it is one of the realizations of that energy of freedom, kartr
 The grammatical logic underlying Śaiva speculations can be read even in the very notion of svātantrya, the prevalent śakti of the Lord, regularly associated to the notion of hetu, which is both ‘efficient cause’, and, as seen above, ‘subject’ of the
 
 [^57]: See supra, n. 54.
+
 [^58]: See also ĪPvr̊ II 4, 20 and its criticism of the śāntabrahmavāda: ekasmiṃś cittattve ’pi \[…\] na ca tatra kriyātvam, ‘Even if one posits the conscious principle as the only reality \[…\], there is no action in this conscious principle’ (transl. Torella 1994).
 
 *[p. 65]* ^pg30
@@ -562,8 +599,11 @@ That the Lord should cause himself to be is, after all, one of the two necessary
 In this way, ‘being’ is tantamount to manifesting oneself, in oneself (to oneself) and outside oneself. Thus, manifestation is a mode of being that is subordinated to the desire of being, understood as an “action”, whether it is “self-effectuation” or “creation” of the external world—which is nevertheless nothing else than the external
 
 [^59]: See Renou (1942), s.v.
+
 [^60]: See PSV 27 quoted infra, n. 66.
+
 [^61]: On this acceptation of bhūmikā, see PSV 5, 26, Bansat-Boudon and Tripathi (2011, p. 161, n. 689, 330–331).
+
 [^62]: See Chart.
 
 *[p. 66]* ^pg31
@@ -580,7 +620,9 @@ This is what Ś Dvr̊ III 59 teaches:
 \[…\] atha sakriye śaktisaṃbhavāc chivatāstu śāntatā tu niṣkriyā jñeyajñānarahitā \[…\] cikīrṣālakṣaṇecchāśūnyā ca tena na śivaḥ / naivam śakyate vaktuṃ kadācana sarvadā bhavanakriyāvirahāt / \[…\] kriyā ca kartr̥svarūpabhūtā kartā ca svatantraś cetana eva / svecchātaḥ pravr̥ttiḥ svātantryam yataḥ \[…\] atra bubhūṣātiṣṭhāsālakṣanecchāsty eva / \[…\] icchādiśaktimattā ca śivatā \[…\],
 
 [^63]: PSV 4 quotes it; see Bansat-Boudon and Tripathi (2011, p. 79, n. 311). It is implicitly present in PSV 47–50; see Bansat-Boudon and Tripathi (2011, p. 212, n. 954).
+
 [^64]: Such is the purport of the long discussion that takes place in ŚD III 53–59 and its Vr̥tti. The Śaivas transitorily accept the position of their opponents, namely that there is a śānta Ś iva, when he is ajagadrūpa, ‘not in the form of the world’, and a sthūla Ś iva, when he is jagadrūpa, ‘in the form of the world’ (on this intricate discussion, see Nemec (2011), ad loc.); nevertheless, it is to better refute such an erroneous opinion and re-establish the ontological unity of the Supreme Lord: Ś iva is śānta and sthūla indifferently, and at his will, assuming both the conditions as would an actor with his roles, without ever swerving from his very nature. Thus the provisional distinction between the two conditions is a matter of mere convention; see Ś D I 41 cd–43, where Somānanda and Utpaladeva describe Ś iva as ‘as if’ peaceful: svaśivatvam ivājānan paśvātmavyapadeśataḥ // tadrūpatvena vā paśyan sthitaḥ śānta iva kvacit /, ‘As if ignoring his own Ś iva-nature, he exists as one who is designated a bound soul, or, seing himself as having that nature, he sometimes exists as if he were peaceful.’ All translations from Ś D are those of Nemec (2011), sometimes modified.
+
 [^65]: And its synonym, bhavanakriyā, in ŚDvr̥ III 59.
 
 *[p. 67]* ^pg32
@@ -598,7 +640,9 @@ In conclusion, one should interpret the concept of bhavanakartr̥tā as the nomi
 This is the purport of ĪPvr̥ II 4, 20:[^68] \[…\] jaḍasya \[…\] tena pramātaiva taṃ bhāvayati tena tena vā himācalādinā rūpeṇa sa bhavatīty atra paramārthaḥ,
 
 [^66]: In the same way, PSV 27 makes the freedom of the Lord the criterium that distinguishes the Trika from those other nondualisms that are the Vijñānavāda and the Advaita Vedānta: atrobhayatrāpi vedanasya svātantryaṃ jīvitabhūtaṃ viśvanirmāṇaheturiti na cetitam, ‘\[We, however, reply:\]—In both these \[doctrines, though the conscious principle has been formulated as supreme\], what has not been recognized is the freedom of that conscious principle, which, endowed with life, becomes the efficient cause of the construction of the universe.’
+
 [^67]: See infra, p. 71 and n. 81–82.
+
 [^68]: See the beginning of this text, infra, p. 69 and Chart.
 
 *[p. 68]* ^pg33
@@ -618,7 +662,9 @@ As SpN I 2 explains:
 etad uktaṃ bhavati na prasevakād ivākṣoṭādi tat tasmān nirgatam api, ‘Such is the meaning: that \[world of phenomena\] has not come out of him \[the Lord\] as does a walnut, or anything else, from a bag.’
 
 [^69]: Same image in ŚDvr̥ III 59, where Utpaladeva refers to his own ĪPK; see Nemec (2011, pp. 250, 378): ghaṭo ’sti himālayo ’sti jagad astīti ca yathā nādhikyaṃ śivatāyāḥ karoti tatheśvarapratyabhijñāyāṃ viracitam, ‘It is taught in the Īśvarapratyabhijñā, moreover, how \[Ś iva\] creates nothing different from Ś iva-nature when a pot exists, the Himālayas exist, the world exists.’ See also Ratié (2011, pp. 684–685), as well as her references to ĪPVV II 4, 20 (n. 93, 94, 95), which evokes a discussion on the 1st verse of the Kumārasaṃbhava, where Himālaya is the subject of ‘asti’ (asty uttarasyāṃ diśī devātmā himālayo nāma nagādhirāja iti).
+
 [^70]: Here one must note the use of this ‘pariṇāma’, a paradox in a doctrine that invents the notion of spanda, changeless motion, in order to avoid the suspicion of perishability affected to the Absolute. Therefore, ‘pariṇāma’ is here divested of its realistic connotations.
+
 [^71]: See ĪPV II 4, 20 (Chart): \[…\] paramārśo hi cikīrṣārūpecchā tasyāṃ ca sarvam antarbhūtaṃ nirmātavyam abhedakalpenāste /, ‘\[…\] Self-awareness itself is will (icchā) in the form of the desire to act (cikīrṣā); and within that \[will\] resides whatever is to be created internally as if one with \[consciousness\].’
 
 *[p. 69]* ^pg34
@@ -640,6 +686,7 @@ Thus, freedom, agency and sovereignty are equivalent, as the ĪPV II 4, 20 expli
 iti tad evāsyātidurghaṭakāritvalakṣaṇaṃ svātantryam aiśvaryam ucyate /, ‘Therefore, his freedom, which consists in accomplishing that which is extremely difficult to achieve, is said to be his sovereignty.’[^73] ĪPK II 4, 21 and its Vr̥tti pursue the same line of thought, associating through contiguity the Lord’s will (or energy of Will: icchā\[śakti\]) that governs the desire to be or to manifest (to be read in ‘tiṣṭhāsu’), his capacity of being the agent (hetutā = kartr̥tā) of the “real” world, and his effective action (kriyā):
 
 [^72]: If one understands: ‘freedom in all the actions \[of being\]’, this implies the ‘existence’ of sentient objects; if one does not supply ‘of being’, one must understand ‘all the actions (including the action of being)’. Complete text of the kārikā supra, p. 54.
+
 [^73]: See complete text, in the chart. Same phraseology in PS 15 (paramaṃ yat svātantryaṃ durghaṭasaṃpādanaṃ maheśasya / devī māyāśaktiḥ svātmāvaraṇaṃ śivasyaitat //, ‘The supreme freedom of the Great Lord, which accomplishes what is difficult to construe, is indeed nothing but the covering of Ś iva’s own Self \[in which phase he appears as\] the Goddess Māyāśakti.’) and PSV ad loc.
 
 *[p. 70]* ^pg35
@@ -658,7 +705,9 @@ As he completes the process of establishing the Lord as the sole Agent, willing 
 evaṃ cidrūpasyaikasya kartur eva cikīrṣākhyā kriyā mukhyā nākartr̥kaṃ karmāsti karmādīnāṃ kartr̥mukhenopacārataḥ /, ‘Thus, action (kriyā) in the primary sense—another name of which is “desire of action” (cikīrṣā)—pertains only to the unique Agent whose form is consciousness. \[Likewise\] there is no “object of the action” (karman) without an “agent” (kartr̥), because, as concerns those \[other “factors” (kārakas), which are\] karman, etc.—they are \[designated as such\] by analogy with \[the only true “factor”\] the “agent” (kartr̥).’[^76]
 
 [^74]: Or: ‘Thus it is the desire (icchā) of the \[Lord\], who wishes to manifest himself as the world of appearances (as a pot or a piece of cloth, for example), that is indeed the indirect cause (or impulsion) \[behind such manifestations\], as well as their efficient cause, and their effective realization.’
+
 [^75]: The word kāraṇatā, derivative of the causative verbal form, is equivalent to hetutā.
+
 [^76]: Lit.: “because of a metaphorical usage, made possible through the agent, of karman, etc., \[i.e., of the term ‘kāraka’, ‘factor’, applied to factors that are other than the agent\]”. In other words, in the case of the term ‘kartr̥’, there is no metaphor; in the case of the other ‘semantic roles’, there is a metaphor, since they Footnote 76 continued are not ‘factors’ (kāraka), strictly speaking: it is the agent who is the only ‘factor’, the one which causes action, as well as the other semantic roles, to be.
 
 *[p. 71]* ^pg36
@@ -672,9 +721,13 @@ Without an agent, there would be no other kārakas. Likewise, in the philosophic
 And—taking even further the virtuosity of this idealistic system, which contrives to resolve the logical impasses that made the rival doctrines stumble, be they monistic or dualistic—the texts add that this ‘being’ (sattā), which involves the ‘action of being’ (sattākriyā) and ‘the action of causing to be’ (bhavanakartr̥tā)[^80]—in other terms, this ‘beingness’ which involves ‘agency’ (and ‘causative agency’)—brings into being, not only the insentient objects with a proven existence, but also imaginary insentient objects, such as the ‘flower in the sky’ (see ĪPV I 5, 14, infra). This is why, borrowing the concept, in particular, from the philosophy of grammar,[^81] ĪPK I 5, 14 teaches that this ‘being’ is also said to be a ‘Great being’ (mahāsattā); he is “great” insofar as he penetrates all reality, existent and nonexistent
 
 [^77]: Torella (1994, p. 188) seems to adopt the same interpretation (see his n. 37), but his translation does not entirely account for the grammatical implication of the sentence.
+
 [^78]: On these notions, see Kiparsky (1993, p. 2922): ‘A sentence is seen as a little drama played out by an Agent and a set of other actors, which may include Goal, Recipient, Instrument, Location and Source. These roles are systematically related to semantic categories, but the correspondence is not one-to-one. One kāraka can correspond to several semantic relations and one semantic relation can correspond to several kārakas, in ways duly stated in grammar.’
+
 [^79]: Thus kārakas cannot be mistaken for the syntactic functions expressed by grammatical cases; rather, as stated by Kiparsky (ibid.): ‘Kārakas in turn are the categories in terms of which the assignment of case and other morphological elements is formulated.’ For example, the notion of ‘subject’ is pointless in the Indian context; what matters is the notion of ‘agent’, which occurs under two different forms: as the nominative, in the active; as the instrumental, in the passive. Symmetrically, the ‘object’ occurs as the accusative, in the active; as the nominative, in the passive.
+
 [^80]: Cf. ĪPvr̊ II 4, 20, quoted supra.
+
 [^81]: On the notion of mahāsattā, see, notably, Bansat-Boudon and Tripathi (2011, p. 206 (n. 915)), and 339. ĪPV I 5, 14 glosses again mahāsattā as mahādevī, through the citation (vol. 1: 261): mahāsattā mahādevī viśvajīvanam ucyate.
 
 *[p. 72]* ^pg37
@@ -692,6 +745,7 @@ Examining some of the reasonings elaborated in the texts, one can construe that 
 astibhavativartatividyatīnām arthaḥ sattā / sā cānekakālasthāyinīti kāla-gatapaurvāparyeṇa kramavatīti tasyāḥ kriyātvam / satteha ātmadhāraṇam, ‘The roots as, bhū, vr̥t, and vid signify “to be” (sattā). That \[sattā\] is present in several tenses; therefore, since that \[sattā\] involves temporal continuity, it is
 
 [^82]: On this point, a distinction must be made, it seems to me, between objects which are imaginary, but could nonetheless exist (were it only in the mind of a poet) and standard examples of logical impossibility (such as a ‘barren woman’s son’); I must differ on this point from Ratié (2011, p. 687 (n. 101)). Even imaginary constructs are part and parcel of the Lord’s phenomenalizing power: the city up above in the air, the flower in the sky, the hare’s horn do not refer to a logical impossibility like the notions of ‘a square circle’ or a ‘barren woman’s son’. Undeniably, the latter cases can be constructed mentally as contradictory beings, but they cannot “exist”; as postulated by Leibnitz, they are not ‘compossible’, in that they represent two incompatible possibilities—which is not the case for the ‘hare’s horn’, which happens not have materialized, but which nothing would prevent from materializing. For that matter, these imaginary constructs are the privilege of poets, as stated by Bhaṫṫa Tauta, one of Abhinavagupta’s masters: ‘The earth with the mountains for teeth, or the sky adorned with the halo of lightning, \[what does it matter\] that such things do exist or not! For might it not be possible that they do some day, somewhere?’ (Abhinavabhāratī ad Nāṭyaśāstra XIX 129, quoted in Bansat-Boudon (1992, pp. 155–156).
+
 [^83]: See supra, p. 48, n. 26.
 
 *[p. 73]* ^pg38
@@ -713,8 +767,11 @@ sattānandaḥ kriyā patyus, ‘Being, felicity and activity belong to the Lord
 It is in the context of defining the ‘Lord of the universe’—viśvapati, as said in the ĪPV ad loc. (see Chart)—that the triad sattā-ānanda-kriyā occurs. If compared to another triad, that of the Advaita, sat-cit-ānanda, ‘being, consciousness, felicity’,
 
 [^84]: Transl. Kunjunni Raja, slightly modified, in Coward and Kunjunni Raja (2001, p. 331).
+
 [^85]: The activity expressed by the verb (kriyā) is analysed in two parts: vyāpāra (itself associated with yatna, ‘effort’) and phala, the ‘aim’ of this activity; see supra, n. 26.
+
 [^86]: See the use of the root sthā, in the desiderative, in ĪPK II 4, 21, and Vimarśinī ad loc. Tiṣṭhāsā, the ‘desire to be (or to manifest)’, tiṣṭhāsu, the ‘one who desires to be’, viśvātmanā, ‘in the form of the world’, function as synonyms of the derivatives from bhū. This is how, incidentally, I differ in my translation of Ś Dvr̊ III 59 (see Chart) from Nemec’s interpretation of tiṣṭhāsā (2011, p. 249): ‘his desire to remain in existence’.
+
 [^87]: Transl. Nemec (2011, p. 249).
 
 *[p. 74]* ^pg39
@@ -732,7 +789,9 @@ and the Vimarśinī ad loc.:
 tasya viśvapater yā sattā bhavanakartr̥tā sphurattārūpā pūrvaṃ vyākhyātā sā sphurattā mahāsattety \[= ĪPK I 5, 14\] atra / saiva vimarśātmakacamatkārarūpā satī kriyāśaktir ucyate \[…\] svātmaviśrāntirūpatvāc ca saivānandaḥ, ‘This “Being” (sattā) of the Lord of the universe, which is “agency of being” —which itself consists in sphurattā, as it has been said earlier \[ĪPK I 5, 14\]: “sā sphurattā mahāsattā”—, which again consists in the wonderment that is self-awareness, is said to be the “energy of action” (kriyāśakti) \[…\] and, that same \[Being\] is felicity since it consists in repose in one’s own self.’
 
 [^88]: Cf. notably—III 47cd (and Vr̥tti): saṃjñākaraṇamātraṃ tad vyavahārāya kalpitam //.
+
 [^89]: This refers to the recurrent notion of ahantācamatkāra, the ‘marvel of supreme ipseity’. See, e.g., PSV 2–3, which explains the name ‘Abhinavagupta’ as the ‘one who is hidden (gupta), i.e., who is himself a secret, i.e., who is possessed of secret \[wisdom\] due to his experiencing the ever new (abhinava), supramundane (alaukika), sudden burst (sphāra) of the state of wonder (camatkāra) that is consciousness: \[…\] gurur abhinavena alaukikena ciccamatkārasphāreṇa guptaḥ guhyaḥ sarahasya iti. See also PSV 79–80.
+
 [^90]: See Bansat-Boudon and Tripathi (2011, pp. 55–56).
 
 *[p. 75]* ^pg40
@@ -752,4 +811,5 @@ citsvābhāvyād acalasyāpi śrībhagavataḥ svātantryaśaktir \[…\] kiṃc
 The Trika postulates self-awareness in the form of a vibration, or a pulsation, that is, a movement that is not a movement, continuous, yet unchanging, and therefore nearly imperceptible. That this movement be imperceptible is required in order to obviate the objection that the dynamism of the ultimate principle, consciousness, implies its perishability (for activity implies the transformation of the cause, hence its perishability). The ‘kiṃcit’ tells us rather that the ‘movement’ at issue is not otherwise distinguished, which implies that it would be ascertainable only with difficulty, for to perceive it would be to impute to it some characteristics, a direction, an intensity, etc.
 
 [^91]: In fact the text refers here to ‘śivatattva’.
+
 [^92]: See Bansat-Boudon (2008, pp. 60–62).

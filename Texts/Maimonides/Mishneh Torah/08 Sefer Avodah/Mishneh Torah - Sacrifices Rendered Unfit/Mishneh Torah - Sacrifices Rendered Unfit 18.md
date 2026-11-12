@@ -176,78 +176,145 @@ The fat and the organs can be combined with the meat, both with regard to a burn
 **24.** [The prohibitions of] *piggul, notar,* or [sacrificial meat] that has become impure do not apply with regard to sacrifices brought by gentiles.[^64] Nor do they apply to sacrificial blood, as explained.[^65] Similarly, one is not liable for *karet*[^66] for [the prohibitions of] *piggul, notar,* or partaking of [sacrificial entities] while impure[^67] for partaking of frankincense, the incense offering, or the wood [of the altar].[^68] ^18-24
 
 [^1]: The wording used by the Rambam is often employed when referring to one of the 613 mitzvot. Nevertheless, neither in the listing at the beginning of these halachot, nor in *Sefer HaMitzvot*, does he count this charge in that reckoning. The Ramban (in his *Hosafot* to *Sefer HaMitzvot*, negative commandment 4) does give this charge that distinction. *Megilat Esther* explains that this charge is part of the directive to offer sacrifices in the proper manner and hence need not be considered as a separate mitzvah. See also *Sefer HaChinuch* (mitzvah 144) where the issue is discussed.
+
 [^2]: As is one who causes a blemish to sacrificial animals (*Hilchot Issurei Mizbeiach* 1:7).
+
 [^3]: And lashes are given only when one violates a transgression while performing a deed (*Hilchot Sanhedrin* 18:2).
+
 [^4]: *Sefer HaMitzvot* (negative commandment 140) and *Sefer HaChinuch* (mitzvah 469) consider this prohibition as one of the 613 mitzvot of the Torah.
+
 [^5]: See the *Sifri* to the verse cited.
+
 [^6]: The Rambam is emphasizing this point lest one think that the charge also refers to other prohibited substances. This stress is necessary, for otherwise the prohibition could be considered a prohibition of a general nature (*lav shebiklalut*). Lashes are not given for violating a prohibition of this nature (*Hilchot Sanhedrin, loc. cit.*).
+
 [^7]: After they have been redeemed. As the *Rambam LeAm* elaborates, in addition to contracting a blemish, an animal dedicated as a sacrifice must be redeemed before the prohibition against partaking of its meat is lifted. (This constitutes a difference between the laws pertaining to such an animal and a firstborn animal.) Even after the Scriptural prohibition is lifted, there is a Rabbinic prohibition to partake of its meat until it contracts another blemish on its own accord. (This prohibition was instituted as a penalty lest one intentionally inflict such a blemish. See *Bechorot* [[Bekhorot 34#34b|34b]].)
+
 [^8]: The Rambam's wording has aroused the attention of the commentaries, for this law is stated in *Hilchot Bechorot* 2:7, where the entire law stated here is mentioned. As such, it would have been more correct for the Rambam to have stated "as will be explained." Some have suggested that the intent here is to the concept that a sacrificial animal that has contracted a blemish may be eaten after being redeemed, as stated in *Hilchot Issurei Mizbeiach* 1:10.
+
 [^9]: In various halachot from Chapter 13, Halachah 1, onward.
+
 [^10]: Literally, that the soul is cut off. This involves premature death in this world (before the age of 50, *Mo'ed Kattan* [[Moed Katan 28#28a|28a]]) and the soul not meriting a portion in the world to come (*Hilchot Teshuvah* 8:1).
+
 [^11]: Since this phrase is also used with regard to *notar* (sacrificial meat left beyond its limit) in [[Torah 30 - Kedoshim#^19-8|Leviticus 19:8]] and the punishment of *karet* is explicitly stated with regard to that prohibition in that verse, the *Sifra* makes an equation with regard to the punishment for the two transgressions.
+
 [^12]: This term is used to differentiate between this offering and an adjustable guilt-offering in which instance, the sacrifice the person required to bring is dependent on the person's means. See *Hilchot Shegagot* 1:3-4.
+
 [^13]: Entities eaten by a person or consumed by the altar's pyre.  
     In his Commentary to the Mishnah (*Zevachim* 4:3), the Rambam explains this concept as follows: The prohibition of *piggul* is derived from [[Torah 25 - Tzav#^7-18|Leviticus 7:18]] which pertains to the peace-offerings. Our Sages explain that the peace-offerings are unique in that they involve both consumption by the altar and consumption by man and that there is an act that permits such consumption (the offering of the blood permits the fats and organs to be offered and offering them permits the meat to be eaten). Hence this is established as a general rule with regard to all sacrifices.
+
 [^14]: I.e., the portion to be eaten by man.
+
 [^15]: The sheep themselves, however, can also become *piggul*, as stated in Chapter 17, Halachah 16.
+
 [^16]: For there is no other act performed that enables these to be offered.
+
 [^17]: See *Hilchot Ma'aseh HaKorbanot*, ch. 2.
+
 [^18]: *Ibid.* 17:12.
+
 [^19]: See *Hilchot Mechusrei Kapparah* 4:2.  
     It must be noted that the latter point is the subject of a difference of opinion in the Mishnah. Rabbi Shimon maintains that the *log* cannot become *piggul*, while Rabbi Meir maintains that it can for the reasons stated here. Although the standard published text of the Rambam's Commentary to the Mishnah states that the halachah follows Rabbi Shimon's view (as the Rambam rules here), Rav Kappach notes that all the manuscript copies of the Commentary to the Mishnah state that the halachah does not follow Rabbi Shimon.
+
 [^20]: *Sefer HaMitzvot* (negative commandment 120) and *Sefer HaChinuch* (mitzvah 142) consider this prohibition as one of the 613 mitzvot of the Torah.
+
 [^21]: Nevertheless, *Sefer HaMitzvot* (negative commandments 117-119) does count the prohibitions against leaving over the meat of the Paschal sacrifice, the *chagigah* offering, and the second Paschal sacrifice as separate commandments.
+
 [^22]: The *Kessef Mishneh* questions why the Rambam mentions this point. True, it is mentioned by *Pesachim* [[Pesachim 84#84a|84a]], but that passage follows the opinion that lashes can be given for the violation of a prohibition even if a deed is not involved. The Rambam (*Hilchot Sanhedrin* 18:2) maintains that lashes are not given unless the transgression involves a deed. Hence, seemingly, he does not have to add the explanation given here.
+
 [^23]: *Sefer HaMitzvot* (positive commandment 91) and *Sefer HaChinuch* (mitzvah 143) consider this prohibition as one of the 613 mitzvot of the Torah.
+
 [^24]: *Sefer HaMitzvot* (negative commandment 131) and *Sefer HaChinuch* (mitzvah 215) consider this prohibition as one of the 613 mitzvot of the Torah.
+
 [^25]: The first shining of the light on the eastern horizon, between 72 and 120 minutes before sunrise according to the various authorities.
+
 [^26]: With the exception of the thanksgiving-offering and the nazirite's ram for which one is liable from dawn of the day following their sacrifice.
+
 [^27]: The commentaries note that the Rambam's citation of the verse is not entirely exact. See also *Sefer HaMitzvot, loc. cit.*
+
 [^28]: From the wording of the Mishnah (*Meilah* 4:3), one might think that these two prohibitions are not combined. Nevertheless, the Talmud (*Meilah* [[Meilah 17#17b|17b]]) states that the Mishnah is speaking about the impurity of one's hands, but that with regard to the prohibition against partaking of the food, they may be combined.
+
 [^29]: Although the Rambam's wording implies that a Scriptural prohibition is involved, he does not include it as one of the 613 mitzvot. See a parallel in *Hilchot Terumah* 12:1.
+
 [^30]: The *Or Sameach* comments that the Rambam's wording implies that if the sacrificial foods were disqualified for other reasons, it is permitted to cause them to contract impurity. See Chapter 19, Halachot 5-6.
+
 [^31]: Partaking of sacrificial foods that have become impure is considered by *Sefer HaMitzvot* (negative commandment 130) and *Sefer HaChinuch* (mitzvah 145) as one of the 613 mitzvot of the Torah.
+
 [^32]: The attainment of atonement refers to the casting of the blood on the altar.  
     Although the sacrifice became impure before the blood was cast on the altar, after the fact, it is acceptable, because the forehead plate of the High Priest causes such sacrifices to be considered acceptable (*Menachot* [[Menachot 25#25b|25b]]). And since, after the fact, it is acceptable, one is liable for partaking of it if it became *piggul*.
+
 [^33]: In the original, an *av tumah*, literally, "a father of impurity," an object deemed inherently impure by Scripture decree which has the potential to make other objects impure. See the Rambam's introduction to the Order of *Taharot* in his Commentary to the Mishnah and also, *Hilchot Tumat Meit* 5:7 for more details regarding this and the term mentioned in the following note.
+
 [^34]: In the original, a *v'lad tumah*, literally, "the offspring of impurity," an object that contracts ritual impurity through contract with a primary source of impurity, which in certain instances can impart impurity to other substances.
+
 [^35]: The punishment given anyone who violates a Rabbinic ordinance.
+
 [^36]: Because such a sacrifice is disqualified and, as an initial preference, its blood should not be offered on the altar. The *Mishneh LiMelech* states that he is, however, liable for lashes for partaking of sacrificial food before its blood was cast on the altar, as stated in *Hilchot Ma'aseh HaKorbanot* 11:1,4.
+
 [^37]: See *Hilchot Bi'at HaMikdash* 3:13-14. As mentioned in the *Kessef Mishneh*, there are certain states of ritual impurity for which one is not liable for *karet* for entering the Temple. This prohibition, however, focuses only on those concerning which this penalty can be incurred, because of an association between the words *mikdash*, "sanctuary," and *kodesh*, "sacrificial food."
+
 [^38]: There is a difference of opinion concerning this matter in the Mishnah (*Zevachim* 13:2) because there are two prohibitions involved: the prohibition against partaking of impure sacrificial meat and the prohibition against a person who is impure partaking of sacrificial meat. Rabbi Yossi maintains that since the meat is impure and unfit to be eaten, we are not concerned whether the person is impure or not. The Sages, by contrast, maintain that since the impure person is forbidden to partake of pure sacrificial food, the prohibition also applies when partakes of impure sacrificial food. The Rambam accepts the Sages' opinion. See also Halachah 16.
+
 [^39]: *Sefer HaMitzvot* (negative commandment 129) and *Sefer HaChinuch* (mitzvah 167) consider this prohibition as one of the 613 mitzvot of the Torah.
+
 [^40]: An obligation for which the offering changes dependent on the person's financial capacity (see Leviticus, ch. 5; *Hilchot Shegagot* 10:1).
+
 [^41]: For one could interpret the above verse as referring to sacrificial food that contracted ritual impurity.
+
 [^42]: This verse clearly indicates that the passage is speaking about a person who has contracted ritual impurity.
+
 [^43]: The interpretation of the verse is explained in the following halachah.
+
 [^44]: As stated in *Hilchot Mechusrei Kapparah*, ch. 1, to be permitted to partake of sacrificial food or to enter the Temple, a *zav* (a male who has secretions similar to those produced by gonorrhea), a *zavah* (a woman who experiences vaginal bleeding outside her menstrual cycle), a woman who gives birth or miscarries, and a person afflicted by the skin condition of *tzara'at* must do the following after they are fit to emerge from their ritual impurity: a) immerse in the *mikveh*, b) wait until nightfall after immersion, and c) bring the appropriate sacrifice.
+
 [^45]: Since the person has already immersed in the *mikveh*, a certain dimension of his or her ritual impurity has been removed. Hence, although he or she is liable for lashes for this transgression, there is no liability for *karet*.  
     The Ra'avad differs with the Rambam and maintains that even in such a situation, one is liable for *karet*. As mentioned in the notes to *Hilchot Bi'at HaMikdash* 3:9, the *Kessef Mishneh* cites Talmudic passages which could be used as support for both positions.
+
 [^46]: For according to Scriptural Law, he is not liable. Compare to Halachah 12.
+
 [^47]: In this instance as well, according to the *Mishneh LiMelech*, the person would be liable for lashes for partaking of sacrificial food before its blood was cast on the altar, as stated in *Hilchot Ma'aseh HaKorbanot* 11:1,4.
+
 [^48]: See Halachah 13 and notes.
+
 [^49]: For afterwards, they are ready to be burnt.
+
 [^50]: I.e., this conclusion can be reached by comparing Halachah 7 with the previous halachah. An equation is made between sacrificial meat that is *notar* and that which contracted ritual impurity.
+
 [^51]: In Halachah 7.
+
 [^52]: I.e., the prohibition against partaking of blood, which appears uniformly, both to the blood of sacrificial animals and to that of ordinary animals. Since it is already prohibited, none of the other prohibitions apply to it. See *Zevachim* 4:5.
+
 [^53]: This is the version accepted by the R. Shabsi Frankel edition of the *Mishneh Torah*. The *Kessef Mishneh* offers a different version of the text.
+
 [^54]: I.e., although these activities are necessary for these sacrifices to be acceptable, a person can still be held liable for partaking of the sacrifice in a state of ritual impurity.
+
 [^55]: This is a general rule. There are several particular aspects to it, as explained in *Keritot* [[Keritot 14#14a|14a]].
+
 [^56]: This is speaking about a situation where there is an olive-sized portion of all the prohibited substances. Nevertheless, one might think that the presence of one might nullify the other. The person receives a set of lashes for each prohibition he violates.
+
 [^57]: Instead, as stated in Halachah 11, they are combined together.  
     The commentaries have noted that this ruling appears to contradict the Rambam's own ruling in *Hilchot Ma'achalot Assurot* 16:18, that *orlah* nullifies the presence of *terumah*. See also the *Beit Yosef, Yoreh De'ah* 98.  
     It can be explained that in *Hilchot Ma'achalot Assurot*, the Rambam is speaking about an instance where there is sufficient amount of kosher food to nullify the prohibited substance according to Scriptural Law (for only a majority is required). Hence, for the additional amount required by Rabbinic Law, a forbidden substance is also sufficient. In this instance, however, the substances are not nullified according to Scriptural Law. Hence, one forbidden substance cannot nullify another.
+
 [^58]: In Chapter 14, Halachah 7, the Rambam defines this as: "the meat that slipped by the knife at the time the animal was skinned and remains cleaving to the hide."
+
 [^59]: The thin membrane that clings to the hide and separates between it and the meat; it is not fit to be eaten (*ibid.*).
+
 [^60]: In his Commentary to the Mishnah (*Zevachim* 3:4), the Rambam explains that this is a general term referring to blood vessels, nerves, and sinews.
+
 [^61]: In his Commentary to the Mishnah (*Taharot* 1:2), the Rambam explains that this term refers to the growth that remains after the large feathers are removed.
+
 [^62]: For these entities are not considered as fit to be eaten.
+
 [^63]: Based on a comparison to Chapter 14, Halachah 7, the Ra'avad explains this should be understood as meaning that if one intended to eat the meat of a sacrifice after the time when it was supposed to be eaten, the entire sacrifice, even the fetus and the placenta, become *piggul*. If, however, one's intent is to partake of the fetus or the placenta, the sacrifice does not become *piggul*.
+
 [^64]: As stated in *Hilchot Ma'aseh HaKorbanot* 3:2, burnt-offerings brought by a non-Jew may be offered on the altar. According to the Rambam, even though such sacrifices are acceptable, the prohibitions mentioned, although they apply to sacrifices brought by Jews, do not apply to these offerings.  
     The commentaries note that the Rambam's ruling appears to reflect the understanding of Rabbi Shimon in *Zevachim* 4:3. However, most authorities - including the Rambam in his Commentary to the Mishnah - follow the view of Rabbi Yossi who differs. It can, nevertheless, be explained that Rabbi Shimon's opinion concerns only sacrifices offered outside the Temple. The preceding clause of the mishnah concerning *piggul* and the like is accepted by all opinions (*Kessef Mishneh*).  
     In truth, the Rambam's opinion concerning this issue is somewhat problematic. He accepts Rabbi Yossi’s view in his ruling in *Hilchot Ma'aseh HaKorbanot* 19:16. Nevertheless, his ruling in *Hilchot Me'ilah* 5:15, like the one here, appears to follow Rabbi Shimon's view.
+
 [^65]: Halachah 17 above.
+
 [^66]: The Ra'avad objects to the Rambam's ruling, explaining that it reflects the understanding of Rabbi Shimon in the above mishnah. Rav Kapach notes that in the Rambam's Commentary to the Mishnah, his original writing was rubbed out and his final statement is: "The halachah does not follow Rabbi Shimon." The *Kessef Mishneh* offers a resolution to the difficulty explaining that the Rambam is postulating that the transgressor is liable for lashes and not for *karet*. The exemption for *karet* is accepted by all opinions. Rabbi Shimon exempts the transgressor from lashes as well, but the initial opinion of the mishnah - which is accepted by the Rambam - holds him liable on that account.
+
 [^67]: In his Commentary to the Mishnah (*loc. cit.*), the Rambam equates a person partaking of them while he is impure with one partaking of them while they are impure. The *Kessef Mishneh* debates the Rambam's intent here.
+
 [^68]: Although wood does not usually contract impurity, sacrificial wood may [the Rambam's Commentary to the Mishnah (*loc. cit.*)].

@@ -61,7 +61,9 @@ To this Clarendon replies that this assertion is ‘destructive of our religion 
 In a sense Clarendon is right to complain here. The idea of a covenant between God and man is central to both the Jewish and the Christian religions. The Hebrew Bible records numerous instances of covenants between God and man. Modern biblical scholars distinguish between two main types of covenant: what David Noel Freedman has called the covenant of divine commitment, best exemplified by the covenant with Abraham in Genesis 15, and what he calls the covenant of human obligation, best exemplified by the Mosaic covenant at Mt. Sinai in Exodus 19–24.[^4] On Freedman’s
 
 [^2]: I cite the text of *Leviathan* by chapter and paragraph number, as given in my edition (Indianapolis: Hackett, 1994).
+
 [^3]: These discussions parallel fairly closely the discussions of the Kingdom of God by nature in *De Cive* XV, and of the Kingdom of God by (the old) covenant in *De Cive* XVI. But *Leviathan* does not have anything comparable to *De Cive*’s discussion of the Kingdom of God by the new covenant in *De Cive* XVII. There is very little on our topic in *The Elements of Law*. For these works I use the editions of Warrender (2 vols., Oxford, 1983) and Tönnies (London: Frank Cass, 1969).
+
 [^4]: See David Noel Freedman, ‘Divine Commitment and Human Obligation: the Covenant Theme’, *Interpretation* (October 1964), 419–31.
 
 *[p. 201]* ^pg212
@@ -77,7 +79,9 @@ Whereas some men have pretended for their disobedience to their sovereign a new 
 unmanly disposition.
 
 [^5]: Or in the exceptional case of the Noachic covenant, to all mankind.
+
 [^6]: ‘From the river of Egypt to the great river, the river Euphrates.’ Unless otherwise noted, quotations from Scripture come from *The New Oxford Annotated Bible*, ed. Bruce Metzger and
+
 [^7]: See NOAB, NT iii. Roland Murphy (Oxford: OUP, 1991), hereafter NOAB.
 
 *[p. 202]* ^pg213
@@ -97,6 +101,7 @@ So Hobbes’s commitment to the mediation doctrine sometimes seems to waver.
 Why, in the face of the biblical counterexamples, does Hobbes advance the mediation doctrine? The passage from which Clarendon quotes sheds no light on this question. Clarendon represents Hobbes as saying in that passage that a covenant with God would lack ‘the true essential form of contracts’, because it would not involve a mutual exchange of promises. But Hobbes did not say that. And in fact, when he discusses Freedman’s paradigmatic covenant of human obligation, the covenant at Mt. Sinai, which does involve a mutual exchange of promises, he correctly represents it as involving, not only a divine promise, but also a promise on the part of the people to obey, and claims that this promise shows that God’s kingdom by covenant is founded on the consent of the people of Israel. (*L* XXXV. 5). On the other hand, when he discusses Freedman’s paradigmatic covenant of divine commitment, which involves only a unilateral promise, he misrepresents the scriptural situation, assimilating that covenant to a covenant of human obligation by attributing to Abraham a promise of obedience which appears nowhere in the text (*L* XXXV. 4).
 
 [^8]: Similarly, in Deuteronomy Moses, remembering the covenant, says to the people: ‘The Lord spoke with you face to face at the mountain, out of the fire. At that time I was standing between the Lord and you, to declare to you the words of the Lord; for you were afraid because of the fire
+
 [^9]: e.g. at 12:1–3; 15: 1–16; 17:1–22. and did not go up the mountain’ ([[Torah 45 - Vaetchanan#^5-4|Deut. 5:4–5]]).
 
 *[p. 203]* ^pg214
@@ -114,7 +119,9 @@ But this reason is rather puzzling. It doesn’t square with those biblical text
 This is a curious doctrine, which goes back to Hobbes’ earliest discussion of covenants with God in *The Elements of Law*. There Hobbes had argued that it was an essential feature of all covenants, and indeed, of transfers of right generally, that It is impossible to make a covenant or donation to any that by nature, or absence, are unable, or if able, do not actually declare their acceptation of the same. First
 
 [^10]: The narrowing of the conditions for qualifying as a mediator in *L* XVIII is curious. One explanation suggested at the discussion of this essay in Chicago was that in *L* XVIII Hobbes is talking only about covenants at the present time; since it was standard Protestant doctrine in Hobbes’s day that miracles have ceased, and since miracles are a necessary criterion for qualifying as a prophet, Hobbes may have thought that the possibility of mediation by a prophet was a thing of the past.
+
 [^11]: The qualification about *ordinary* humans is implicit in the biblical narrative. We must understand some such qualification, if mediation is to work: the mediator must be able to survive the experience of communicating directly with God. According to [[Torah 17 - Yitro#^19-7|Exodus 19:7–25]] Moses alone enjoys this privilege; if the people or the priests were to go up the mountain to look upon the Lord, they would perish.
+
 [^12]: I note here one puzzle about this doctrine which I will not attempt to deal with now. The doctrine that we need a mediator to be sure that our covenant has been accepted makes sense only if we suppose that man, not God, initiates the covenant. This is not the biblical situation. As Freedman points out, both in covenants of divine commitment and in covenants of human obligation, God, as the superior party, takes the initiative in making the covenant. Hobbes may be thinking, not of any biblical covenants, but of the various Scottish covenants which Martinich describes in *The Two Gods of* Leviathan (Cambridge: CUP, 1992), 143–6.
 
 *[p. 204]* ^pg215
@@ -180,6 +187,7 @@ they would be his subjects, and he should be their king . . .
 This round, I think, goes to Hobbes on points. It’s true that in the passage in question it is God who takes the initiative, offering to bestow blessings on the people of Israel if they obey his voice and keep his covenant. Moreover, the people do not respond to this offer by taking anything like what we would think of as a vote. There is no slate of opposing candidates and no counting of the votes. It’s worse than Florida in the last American presidential election. But Moses, as mediator, does lay God’s offer before the people: ‘If you obey my voice and keep my covenant, you shall be my treasured possession out of all the peoples.’ This is a reaffirmation of the original
 
 [^15]: I put this somewhat cautiously because I am uncertain how much weight to put on the chapter summary of *The Elements of Law* I. xv. 11.
+
 [^16]: i.e. (or so I believe) [[Torah 17 - Yitro#^19-3|Exodus 19:3–8]]. Hobbes does claim, in XXXV. 2, that the explanation he gives of ‘the kingdom of God’ articulates the sense in which the phrase is most commonly used in Scripture. But so far as I can see, the strongest passage in support of this claim is that one passage in Exodus 19.
 
 *[p. 207]* ^pg218
@@ -253,6 +261,7 @@ Now it may be suggested[^20] that the covenant at Mt. Sinai at least does add to
 The upshot of all this, I think, is that in the two passages in *Leviathan* in which Hobbes explicitly takes account of the problem of reconciling the
 
 [^19]: In *Opera Latina* the sentences underlined are replaced by: ‘For he was already bound by natural laws, so that there was no need to covenant concerning them.’
+
 [^20]: Martha Nussbaum made this suggestion in the discussion of an earlier draft of this essay at the University of Chicago.
 
 *[p. 212]* ^pg223
@@ -308,7 +317,9 @@ According to Martinich, Hobbes could have made his view consistent if he had had
 There are a number of problems with this proposed solution: (1) it will not work if it is admitted that any of the biblical covenants are parity covenants, since those are conceded to involve mutual obligations; (2) it will not work if suzerainty covenants are wrongly characterized when it is said that they do not involve obligations on the part of the superior party; and (3) it does not deal with Filmer’s question: how, consistently with God’s sovereignty, can human obligations to obey God be contingent on their promising to do so? I might add that the selection of Genesis 15 as an example of a parity covenant and the neglect of the covenant at Mt. Sinai are deeply puzzling.
 
 [^23]: The material in this appendix was not read at the conference, but constituted a footnote to the copy of the essay I gave to Prof. Martinich at the conference.
+
 [^24]: Cf. *Two Gods*, 181–2 and 291–4.
+
 [^25]: *God and His People*, Oxford: OUP, 1986
 
 *[p. 217]* ^pg228
@@ -338,8 +349,11 @@ The Network has several properties.[^3-p218] It seems to be a unity; that is, ea
 The process of textual interpretation begins when the Network is in effect disturbed by a text. People operate with something like a Principle of Maximum Intelligibility: if something can be understood to have a meaning, it will be understood to have a meaning. The process ends with respect to that text when the Network has been revised in a way that aims at being true.[^5-p218] The process of textual interpretation is just a special case of understanding
 
 [^2-p218]: My idea of a Network of Beliefs derives from W. V. Quine, *The Web of Belief*, 2nd edn. (New York: Random House, 1978).
+
 [^3-p218]: Only normal Networks (and other concepts) will be described. Diseases and various malfunctions may cause a Network to lose one or more of the described properties.
+
 [^4-p218]: I hold to a moderate holism, according to which the meaning of any word or sentence depends to some extent on its relation to other words and sentences. It is not possible to have a language in which all the words and sentences were logically independent of each other.
+
 [^5-p218]: The process of updating the Network in general does not end until death.
 
 *[p. 219]* ^pg230
@@ -395,6 +409,7 @@ Since each principle, if misapplied, can interfere with arriving at the correct 
 *9. Proportionality*: Each sentence, paragraph, and chapter should be given its appropriate weight. Each part of a text should be given its proper weight. A sentence that looks like a topic sentence should be given more weight than one that appears to be off-hand. Hobbes in effect commented on an aspect of this property when he talked about how to resolve an apparent contradiction in an author’s work.[^8-p221] In the so-called ‘Adulterer’s Bible’, a typographical error in one occurrence of the seventh commandment was “Thou shalt commit adultery.” If one argued that that text proved that the affairs
 
 [^7-p221]: Quentin Skinner, ‘Meaning and Understanding in the History of Ideas’, in James Tully (ed.), *Meaning and Context* (Princeton: Princeton University Press, 1988), 41–2.
+
 [^8-p221]: *The Elements of Law, Natural and Politic*, ed. J. C. A. Gaskin (New York: Oxford University Press, 1994), 21.13.
 
 *[p. 222]* ^pg233
@@ -420,7 +435,9 @@ attributed diametrically opposed views to him?
 Curley thinks the answer to the last question is that Hobbes intentionally made his text ambiguous, so that readers would infer that the idea of divine covenants is incoherent. Curley’s second claim is related to the answer just described: Hobbes concocted views about divine covenants so odd that he expected his readers to see that he did not intend them to be taken seriously.[^11-p222] So Hobbes must have intended his readers to recognize that divine covenants are impossible, according to Curley.
 
 [^9-p222]: There are other principles that do not need to be mentioned here. See also my ‘Interpretation and Hobbes’s Political Philosophy’, *Pacific Philosophy Quarterly* 82 (2001), 309–31.
+
 [^10-p222]: This complex description of Hobbes’s intentions is necessary in order to establish that Hobbes meant that divine covenants are impossible. See H. P. Grice, ‘Meaning’, in A. P. Martinich (ed.), *The Philosophy of Language*, 4th edn. (New York: Oxford University Press, 2001), 92–7.
+
 [^11-p222]: Curley (‘The Covenant with God in Hobbes’s *Leviathan*’, this volume) says that Hobbes’s views are ‘puzzling’, ‘curious’, and ‘peculiar’ (Curley, pp. 203, 211).
 
 *[p. 223]* ^pg234
@@ -432,6 +449,7 @@ Since the theist interpreter is not committed to any particular interpretation o
 I begin with Hobbes’s general understanding of covenants. A covenant is the “mutual transferring of right”[^13-p223] (14.9). The most important kind of covenants are sovereign-making ones since they provide the stability necessary for the effective use of other covenants. Although in most covenants the only relevant parties are the contracting ones, that is, the persons who acquire an obligation in virtue of transferring their right, it should not be shocking that the most important kind have a slightly different character. As Hobbes explains sovereign-making covenants, in addition to what we may call ‘the contracting parties’, that is, the persons who transfer their right and acquire obligations, there is a person who is not a contracting party but has something to gain from the covenant. Borrowing from the law, I will call such a person a ‘third-party beneficiary’. If persons *A* and *B* covenant to each transfer their right to \$1,000 to be paid to *F*, then *F* is a third-party beneficiary. No great importance should be assigned to the meaning of the word ‘third-party’. The logic is the same if *A*, *B*, *C*, *D*, and *E* covenant to each transfer their right to \$1,000 to be paid to *F*, the third-party beneficiary. Nor need the ordinary meaning of ‘beneficiary’ be understood, if Hobbes is right about the woes of being a sovereign (*The Elements of Law*, 24.2).
 
 [^12-p223]: I think the main lines of my treatment in *The Two Gods of Leviathan* (Cambridge: Cambridge University Press, 1992) are correct.
+
 [^13-p223]: For his own purposes, Hobbes should not have required a ‘mutual transferring of right’, for there are possible cases in which people covenant simply to renounce their right to something. Suppose persons P1 and P2 each have rights to something that might injure the other one, say, a bomb. (The bombs could even be ones that could kill both, say, Doomsday Bombs, similar to the one in *Dr. Strangelove: How I Stopped Worrying and Learned to Love the Bomb*.) They might covenant to alienate their rights to use the bomb. So transfer of right should not be essential to covenants. I use ‘alienate’ instead of ‘renounce’ because, for Hobbes, when someone renounces a right, the person ‘cares not to whom the benefit thereof redoundeth’ (14.6). But in the case imagined, the person does care.
 
 *[p. 224]* ^pg235
@@ -447,8 +465,11 @@ In order to remind the reader of its technical sense here and to soften its pejo
 Absurdities 1–3 have nothing to do with ‘covenants made with God’ or religion in general. They are apparent consequences of Hobbes’s general theory. I say ‘apparent’ consequences because it is possible that Hobbes or a Hobbesian could show that the alleged Absurdities do not follow from the theory. Hobbes for example claims, and David Gauthier argues,[^17-p224] that his view does not involve Absurdity 1 (see 18.3). And, although Absurdity 3
 
 [^14-p224]: Clarendon, in *Leviathan: Contemporary Responses to the Political Theory of Thomas*
+
 [^15-p224]: Clarendon, ibid. *Hobbes*, ed. G. A. J. Rogers (Bristol: Thoemmes Press, 1995), 210.
+
 [^16-p224]: I am not saying that Hobbes did not have a relatively coherent and insightful theory; only that such a theory is highly interpretative. Also, I think that Curley’s criticisms of the possibility of divine covenants are (almost) completely correct.
+
 [^17-p224]: *The Logic of Leviathan* (Oxford: Clarendon Press, 1969), 157–60.
 
 *[p. 225]* ^pg236
@@ -496,8 +517,11 @@ In the paragraph containing the passage just considered is another passage that 
 Absurdity 8: The words ‘I authorize all his actions’ are words of submission.
 
 [^19-p227]: One might accuse Hobbes of disingenuousness in asserting Absurdities 5 and 6, but if this is what it is, it does not lend support to those who want to read his text ‘between the lines’. For Hobbes’s technique here is to assert his own view in a misleading way; it is not to assert the opposite of his own view with the expectation that the audience will be able to pick out just those assertions from the multitude of sincere ones.
+
 [^20-p227]: The references of ‘which’ and ‘thence’ in the next clause, ‘which must therefore be inferred from arguments taken from thence’, are clarified by the Latin: ‘In ipsa submissione consistit tum *obligatio*, tum *libertas*. Itaque ex eadem submissione obligationis, et libertatis argumenta sumi debent’ (*Opera Latina*, iii 164).
+
 [^21-p227]: ‘Consists in’, entry 6 under ‘consists’, *Oxford English Dictionary*.
+
 [^22-p227]: It is no good to object that I am ‘reading between the lines’ here. I have no objection to identifying various implied or covert intentions in a text. I object only to the nonPalpable ones.
 
 *[p. 228]* ^pg239
@@ -509,9 +533,13 @@ Other Absurdities could be drawn.[^23-p228] Indeed, it was conventional for Hobb
 One reason that Hobbesian scholarship has been a growth industry for the last thirty years is that his texts are replete with ambiguities. These ambiguities allow the clever scholar to uncover novel, but textually based, interpretations of Hobbes’s philosophy that run against the conventional, but equally textually based, interpretations. The former include the views that in *Leviathan* he was for toleration, was a utopian,[^26] and advocated ‘autonomous rational action’.[^27]
 
 [^23-p228]: Since subjects ‘own . . . all the Actions (without exception) of the man or assembly we make our sovereign’, when the sovereign kills a person, that person kills himself; that is, every person killed directly or indirectly by the sovereign commits suicide (21.10).
+
 [^24-p228]: George Lawson, *An Examination of the Political Part of Mr Hobbs His Leviathan* (London, 1657), 63; and Samuel Pufendorf, *Of the Law of Nature and Nations, Eight Books*, 3rd edn., tr. Basil Kennett (London, 1717), 86. Also, in ‘Hobbes and the Classical Theory of Laughter’ (this volume), Quentin Skinner gives an example of an obviously false statement made by Hobbes. Hobbes claims that his theory of laughter is his own theory, when it was well known to have been expressed by Aristotle. I don’t know why Hobbes makes this particular mistake, but I do think he was sometimes sloppy about the facts.
+
 [^25-p228]: Stanley Moore, ‘Hobbes on Obligation: Moral and Political’, *Journal of the History of Philosophy* 9 (1971), 43–62 and 10 (1972), 29–42 for a discussion of some contradictions, and Philip J. Kain, ‘Hobbes, Revolution and the Philosophy of History’, in C. Walton and P. J. Johnson (eds.), *Hobbes’s ‘Science of Natural Justice’* (Dordrecht: Martinus Nijhoff Publishers, 1987), 203–18, for a discussion of others, plus references to other works.
+
 [^26]: Richard Tuck, ‘Hobbes and Locke on Toleration’, in Mary Dietz (ed.), *Thomas Hobbes and Political Theory* (Lawrence, Kan.: The University of Kansas Press, 1990), 153–71, and ‘The Utopianism of *Leviathan*’ (this volume).
+
 [^27]: Quoted from an advertising brochure for David van Mill, *Liberty, Rationality, and Agency in Hobbes’s Leviathan* (Albany, NY: State University of New York Press, 2001).
 
 *[p. 229]* ^pg240
@@ -533,7 +561,9 @@ explained away.’[^28] If Curley is right, we have more reason to trust Filmer 
 But suppose the focus of interest is not the correctness or incorrectness of their interpretations but the meaning of Hobbes’s text. How should the process be described? It may initially seem odd that we should do something similar: read Hobbes’s text and, as appropriate, read the relevant texts by Filmer and Clarendon and others (‘collateral texts’), and compare the tentative interpretations of each to see whether they fit well or not. But it is not. All interpretation involves the same subprocesses, which include the interpreter’s having in her Network, either before the interpretation begins or while it is proceeding, nonlinguistic information about who Hobbes, Clarendon, and Filmer were and what their historical circumstances were.[^30] The process of interpretation is dynamic, not linear. It requires trying out various conjectures or hypotheses about the meaning of the focal text and the collateral texts and about the beliefs of the authors and audience of each. The process is guided by the Principles described in section II and ends when the original Network has been updated with the beliefs necessary to understand the text. Let’s call ‘the narrow interpretation’ those propositions that
 
 [^28]: Curley, this volume p. 212, n. 21. It is not clear to me what Filmer’s point is, nor am I sure that he is mistaken. The covenant on Sinai is typically understood as a conditional covenant in contrast with the covenants of Abraham (Gen. 15) and David (2 Sam. 7; [[Psalms 089#^89-2|Ps. 89:1–38]]), which are understood as unconditional (*Harper’s Bible Dictionary*, ed. Paul J. Achtemeier (San Francisco: Harper & Row, Publishers, 1988), 191).
+
 [^29]: Curley eventually does this. My objection is to his methodological position that the existence of contradictory interpretations of a certain philosopher gives us a reason to suspect the author of ‘writing between the lines’.
+
 [^30]: My debt to Quentin Skinner’s works should be obvious; see his contributions to James Tully (ed.), *Meaning and Context: Quentin Skinner and his Critics* (Princeton: Princton University Press, 1988). My description of the process of interpretation is a simplification. To mention just one additional complexity, the process may require subtracting some of the beliefs that were part of the Network when the process of interpreting began.
 
 *[p. 231]* ^pg242
@@ -559,7 +589,9 @@ Rather than asserting that Hobbes is surreptitiously subverting government and r
 When readers are forced to choose between, on the one hand, the (assumed) fact that sovereigns actually do covenant with their subjects and that God covenanted with humans, and, on the other hand, Hobbes’s nonstandard theory of covenants, readers will reject Hobbes’s theory and not
 
 [^32]: Clarendon in *Leviathan: Contemporary Responses to the Political Theory of Thomas Hobbes*, 209–10.
+
 [^33]: John Bramhall, *The Catching of Leviathan*, in *Leviathan: Contemporary Responses to the Political Theory of Thomas Hobbes*, 145.
+
 [^34]: ‘An Answer to a Book Published by Dr. Bramhall, Called *The Catching of the Leviathan*’, in *English Works*, ed. Molesworth, 11 vols. (London: John Bohn, 1839–45), iv. 384.
 
 *[p. 233]* ^pg244
@@ -575,7 +607,9 @@ Another problem for the strategy of ‘reading between the lines’ is illustrat
 I think a better interpretative practice is to understand the mediation doctrine in a way that is consistent with other parts of the text, specifically,
 
 [^35]: This is illustrated in Clarendon, *A Brief View and Survey of Leviathan*, 285–6.
+
 [^36]: Of course there are other ways of getting across a new and controversial position. One might write a dialogue, as Galileo did. But dialogues are not inherently devices for ‘writing between the lines’, and, in any case, *Leviathan* is not a dialogue.
+
 [^37]: Also, the tactic of privileging the mediation doctrine over the many paragraphs conflicts with Hobbes’s own sensible maxim about how to handle apparent contradictions in a text: ‘For in contradictory significations of the will . . . that which is directly signified, is to be understood for the will, before that which is drawn from it by consequence’ (*The Elements of Law, Natural and Politic*, ed. J. C. A. Gaskin, 21.13).
 
 *[p. 234]* ^pg245
@@ -587,7 +621,9 @@ The proponents of the Solemn League and Covenant believed that, because of sin, 
 The distance between God and the creature is so great, that . . . \[creatures\] . . . could never have any fruition of him . . . but by some voluntary condescension on God’s part, which he hath been pleased to express by way of covenant. . . . It pleased God, in his eternal purpose, to choose and ordain the Lord Jesus . . . to be the Mediator between God and man.[^40] These views were not distinctive of the Scottish and English covenanters; they were a prominent part of Reformed theology, as expressed famously by John Calvin in his *Institutes*. One of his favorite titles for Jesus was
 
 [^38]: Curley wonders why Hobbes thinks it evident that ‘if anyone claims to have made a covenant with God without the mediation of his sovereign, he is lying’ (Curley, this volume, p. 203). I think the answer is that Hobbes is talking only about the National Covenant and the Solemn League and Covenant. However, one could argue that Hobbes is unfair because the signers of the National Covenant and the Solemn League and Covenant seem to covenant with themselves with God as their witness rather than covenanting with God as a contracting party. Hobbes either did not read the documents themselves or, more likely, read them with prejudice. (*The Constitutional Documents of the Puritan Revolution*, 3rd edn., ed. Samuel Rawson Gardiner (Oxford:
+
 [^39]: *English Works*, ed. Molesworth, iv. 432. Clarendon Press, 1906), 124, 126, 268, 271.)
+
 [^40]: ‘Humble Advice of the Assembly of Divines . . . Concerning a Confession of Faith’ (1647); quoted from *The Constitution of the Presbyterian Church, Part I Book of Confessions* (Louisville, Ky.: Presbyterian Dissertation Service, 1983), 6.037 and 6.043. The doctrine appeared in other Reformed documents: the second Helvetic Confession (ch. 5) said that the only way to invoke God is ‘through the mediation of Christ alone’. And it is held today: ‘The Christian faith centres on the person and work of Christ as mediator’ (‘mediation’ in *New Dictionary of Theology*, ed. Sinclair Ferguson et al. (Downers Grove: Il.: InterVarsity Press, 1988), 418–19).
 
 *[p. 235]* ^pg246
@@ -601,7 +637,9 @@ The mediation doctrine occurs in a paragraph devoted to specifying the ‘rights
 Curley might object that Hobbes makes the same claim against the possibility of covenanting with God without a mediator in his first discussion of the nature of covenants in a chapter that is not explicitly about the rights of sovereigns: ‘To make a covenant with God is impossible, but by mediation
 
 [^41]: John Calvin, *Institutes of the Christian Religion*, ed. John T. McNeill, 2 vols. (Philadelphia: The Westminster Press, 1960). See the Index for references, but especially 1.21, 2.10.1, 2.11.1, 2.12.1, and 3.2.1 n. 5. Calvin’s idea of covenants continues to be held by Reformed Christians: see *Eerdmans Dictionary of the Bible*, ed. David Noel Freedman et al. (Grand Rapids, MI: William B. Eerdmans Publishing Company, 2000), p. 878a. That Moses was a mediator between God and the Hebrews continues to be held by biblical scholars. See, for example, the comments on [[Torah 17 - Yitro#^20-15|Ex. 20:18]], [[Torah 21 - Ki Tisa#^34-27|Ex. 34:27–28]], and [[Torah 45 - Vaetchanan#^5-4|Deut. 5:4–5]] in *The New Oxford Annotated Bible*, 3rd edn. (New York: Oxford University Press, 2001).
+
 [^42]: William Ames, *The Marrow of Theology*, John Dykstra Eusden (Durham, NC: The Labyrinth Press, 1983), ch. 12, sect. 4; see also sect. 9 and ch. 37, sects. 2, 6, and 11.
+
 [^43]: Hobbes has more fundamental objections to the way biblical covenants are understood by Covenant Theology; see Luc Foisneau, *Hobbes et la Tout-puissance de Dieu* (Paris: Presses Universitaires de France, 2000), 333–58.
 
 *[p. 236]* ^pg247
@@ -609,7 +647,9 @@ Curley might object that Hobbes makes the same claim against the possibility of 
 of such as God speaketh to, either by revelation supernatural or his lieutenants that govern under him and in his name; for otherwise we know not whether our covenants be accepted or not’ (14.23).[^44] My reply is based on the same principles and evidence I have presented above. Our interpretation should have the virtue of Proportionality. We need to weigh the evidence of the mediation doctrine against the numerous statements in which Hobbes says or implies that there are divine covenants. We need to consider that Hobbes often misstates or misleadingly states his own views.[^45] We need to consider what Hobbes plausibly could have meant, given the beliefs of his contemporary readers, especially the beliefs that there have been divine covenants and that any theory that would entail that there could not be any must be false.[^46] We need to consider how this passage might fit with other passages, to wit, the similar claim at 18.3 (Coherence and Completeness). And we need to consider the immediate context, two aspects of which are relevant here. First, the marginal summary for the relevant sentence is: ‘Nor \[are there Covenants\] with God without Special Revelation.’ Second, chapter 14 is concerned with the first two Laws of Nature, ‘Seek peace’, and ‘Lay down your right to all things’, which is done through a sovereign-making covenant. In light of all of this, I take Hobbes’s comment at 14.23 to be influenced by his view of sovereign-making covenants. When he says ‘otherwise *we* \[my emphasis\] know not whether our covenants be accepted or not’, he is using ‘we’ to refer to those who are not mentioned in the preceding complex phrase, to wit, those who do not receive immediate supernatural revelation and those who are not sovereigns. All of this is evidence that the mediation doctrine in 14.23 is proleptic to the claim at 18.3 and means the same thing. Interpreting the two passages similarly is also justified by their similar wording: ‘To make covenant with God is impossible, but by mediation of such as God speaketh to (either by revelation supernatural or by his lieutenants that govern under him and in his name)’ (14.23); and ‘there is no covenant with God but by mediation of somebody that representeth God’s person, which none doth but God’s lieutenant . . . ’ (18.3). That is, the statement at 14.23, like the one at 18.3, must be understood as restricted
 
 [^44]: I take the ‘we’ in the latter clause to refer to subjects who do not claim a special revelation for themselves.
+
 [^45]: Examples of his misstatements about his own view of covenants have been given above. Curley also knows that Hobbes misstates some things about divine covenants. Referring to the covenant at Genesis 17, Hobbes says: ‘In this covenant Abraham promiseth, for himself and his posterity, to obey as God the Lord that spake to him . . . ’ Curley observes that Abraham did not promise. If we accept Curley’s view for the sake of discussion, the importance of this example is that Hobbes misstates facts about religion even when there is no conceivable surreptitious motive. Hobbes was sometimes sloppy. So it’s a mistake to construe instances of misstatement as prima facie evidence of subversive intent.
+
 [^46]: See A. P. Martinich, ‘On the Proper Interpretation of Hobbes’s Philosophy’, *Journal of the History of Philosophy*, 34 (1996), 273–83.
 
 *[p. 237]* ^pg248
@@ -623,10 +663,15 @@ Perhaps there is some other way to motivate ‘reading between the lines’. Cur
 God is king over all the earth . . . \[and also\] king of a peculiar and chosen nation. For there is no more incongruity therein than that he that hath the general command of the whole army should have withal a peculiar regiment or company of
 
 [^47]: Clarendon too says that God ‘hath discontinued immediate Communication’ with humans after the Bible was completed (*A Brief View and Survey of Leviathan*, 235).
+
 [^48]: Curley, this volume, pp. 203–6.
+
 [^49]: At one point in his article Curley says: ‘According to Martinich, Hobbes could have made his view consistent if he had had at his disposal the fruits of modern Biblical scholarship, and deployed the distinction between parity covenants and suzerainty covenants.’ In fact, I said that Hobbes ‘might have found a way around his dilemma’ if he had known of the distinction (*The Two Gods of Leviathan* (Cambridge: Cambridge University Press, 1992), 292). I do not think that Hobbes’s view could be salvaged and do think that the Bible contains many internal contradictions and many doctrines that are rationally indefensible.
+
 [^50]: There are well-known procedures for judging that when someone makes-as-if-to-say that *p* she conversationally implies that *q*. When an interpretation claims that an author made-asif-to-say-that *p* and in fact meant not-*p* through some nonspecified or unconvincing line of reasoning, as scholars who favor ‘reading between the lines’ usually do in my opinion, the interpretation is dubious. And this is how I judge the nontheist interpretation. See H. P. Grice, ‘Logic and Conversation’, and A. P. Martinich, ‘A Theory for Metaphor’, both in Martinich (ed.), *The Philosophy of Language*, 165–75 (Grice), 447–57 (Martinich).
+
 [^51]: Grice, ‘Meaning’.
+
 [^52]: I am tempted to say that it is possible that Hobbes was a nontheist, but we cannot know it. And therefore I resist.
 
 *[p. 238]* ^pg249
@@ -662,7 +707,9 @@ When Curley says ‘If God’s omnipotence *entails* that he has those rights, a
 I have been able to defend a theistic interpretation of Hobbes’s treatment of divine covenants without mentioning some beliefs that influence my general approach to Hobbes. But it may be helpful if I make these beliefs explicit. Hobbes lays out such distinctions as those between faith and reason, belief and knowledge, immediate and mediate revelation and applies them ostensibly to solve problems in philosophical theology, often in novel ways. If all of this were a sham, even for the purpose of getting his audience to read between the lines, he would risk looking like a buffoon who has gone to extraordinary effort to construct a philosophical Rube Goldberg machine. Hobbes aspired to construct a science of all things, was proud, and was sensitive about criticism. I do not believe he would adopt an argumentative strategy that would tend to make him an object of
 
 [^54]: The case is different when someone has previously given up his right to something. Then that person may reacquire the right to that thing by a transfer of right.
+
 [^55]: It is not essential to a right that it belongs to a particular person. Although Adam’s right to the apple is not Eve’s right to the apple, Adam and Eve are equal if both have a right to the apple, and it does not matter who gave the person the right. Even if God gave Adam his right to the apple and Eve received her right from some other source, Adam and Eve are equal with respect to
+
 [^56]: Curley, this volume, p. 208. the apple so long as each has a right to it.
 
 *[p. 240]* ^pg251
@@ -698,7 +745,9 @@ arguments deployed by the radical Enlightenment, from Thomas Aikenhead, who was 
 During the last decades of the seventeenth century many defenders of Christian orthodoxy, both Catholic and Protestant, reacted against the denial of the Mosaicity of the Pentateuch, which they regarded as botha dangerous threat and a new one. They were in no doubt as to where it had originated. It came from an unholy trinity of heresiarchs: Hobbes, Spinoza, and La Peyrère. In 1679 the Catholic scholar Pierre Daniel Huet, for example, penned a refutation of Spinoza’s arguments, remarking that they were borrowed from Hobbes and La Peyrère; in 1684 the Lutheran theologian Johann Benedict Carpzov, discussing this ‘new hypothesis’, observed that Spinoza had taken it from La Peyrère and ‘that propagator of atheism in England, Thomas Hobbes’; and in 1692 the Calvinist Hermann Witsius noted that the Mosaic authorship had been universally accepted until the appearance of Hobbes’s *Leviathan* (1651), La Peyrère’s *Prae-Adamitae* (1655), and Spinoza’s *Tractatus* (1670).[^3-p242] Modern scholars, while uncertain of the precise lines of filiation linking the arguments of these three works, are generally agreed that their rejection of the Mosaic theory marked a decisive new stage in the interpretation of the Bible—a development that has been called the ‘exegetical revolution’.[^4-p242] For although the details of these
 
 [^2-p242]: On Aikenhead see M. Hunter, ‘ “Aikenhead the Atheist”: The Context and Consequences of Articulate Irreligion in the Late Seventeenth Century’, in M. Hunter and D. Wootton (eds.), *Atheism from the Reformation to the Enlightenment* (Oxford, 1992), 221–54. Voltaire: *Examen important de Milord Bolingbroke ou le Tombeau du Fanatisme*, in his *Mélanges*, ed. J. van den Heuvel (Paris, 1965), 1019–1117; here pp. 1027–8 (‘On me demande qui est l’auteur du *Pentateuque*: j’aimerais autant qu’on me demandât qui a écrit *les Quatre Fils Aymon*, *Robert le Diable*, et l’histoire de l’enchanteur Merlin . . . Je conjecture qu’Esdras forgea tous ces *Contes du Tonneau* au retour de la captivité’). The ‘Quatre Fils d’Aymon’ and ‘Robert le Diable’ were popular (and anonymous) verse-romances. For details of other comments by Voltaire on Moses, Ezra, and the Bible see D. Levy, *Voltaire et son exégèse du Pentateuque: critique et polémique* (Banbury, 1975), esp. pp. 98–103, and F. Bessire, *La Bible dans la correspondance de Voltaire* (Oxford, 1999), 64–6, 195–7.
+
 [^3-p242]: P. D. Huet, *Demonstratio evangelica ad serenissimum Delphinum* (Paris, 1679), 140–4, 145 (‘rationes . . . quarum partem aliquam è Leviathane Thomae Hobbesii Angli mutuatus est; partem è Praeadamitico Systemate’); J. B. Carpzovius, *Historia critica Veteri Testamenti autore Ricardo Simone . . . edita, oratione inaugurali discussa* (Leipzig, 1684), 31 (‘Nova etiam hypothesis de Mose Pentateuchi minimè autore conferre huc debebat plurimum, cujus bonam partem à Prae-Adamitarum architecto Isaaco Peyrerio, & illo Atheismi per Angliam propagatore Thomâ Hobbesio post maledictum Spinosam didicerat’); H. Witsius, *Miscellaneorum sacrorum libri IV* (Utrecht, 1692), I. 14, ‘An Moses Auctor Pentateuchi?’ (pp. 102–30), esp. pp. 104–5, 119.
+
 [^4-p242]: The phrase is Anthony Grafton’s: see his *Defenders of the Text: The Traditions of Scholarship in an Age of Science, 1450–1800* (Cambridge, Mass., 1991), 205. Cf. similar comments in R. Popkin, *Isaac La Peyrère (1596–1676): His Life, Work and Influence* (Leiden, 1987), 1. The question of the filiation of these arguments between the three is complex. Spinoza probably had read both La Peyrère and Hobbes, but may have originally formed his position independently; Hobbes may have heard of La Peyrère’s work when it circulated in manuscript, but there is no evidence that he had read it. See my discussion of these issues in *Aspects of Hobbes*.
 
 *[p. 243]* ^pg254
@@ -710,6 +759,7 @@ II
 Many centuries before these writers, Jewish exegetes had considered the possibility that some of the words in the Pentateuch were not written by Moses. Even the Babylonian Talmud accepted that the last eight verses of Deuteronomy (describing Moses’s death and burial) were not by him.[^5-p243] One of the leading rabbinical scholars of the Middle Ages, Abraham Ibn Ezra (1089–1164), went further than this, however: he not only denied the Mosaicity of the whole of the last chapter of Deuteronomy (twelve verses, not eight), but also hinted that some other phrases here and there in the Pentateuch were later interpolations. Examples mentioned by him included the phrase ‘beyond Jordan’ in [[Torah 44 - Devarim#^1-1|Deut. 1:1]], which, referring to the wilderness, could only have been written by someone who (unlike Moses) had actually reached the Promised Land.[^6-p243] The fact that Ibn Ezra’s arguments were cited
 
 [^5-p243]: *Baba Bathra*, tr. M. Simon and I. W. Slotki, 2 vols. (London, 1935) (= vols. 5 and 6 of *Seder Nezikin*, ed. I. Epstein, 6 vols. (London, 1935) ), i. 71 \[14b\]: ‘Joshua wrote the book which bears his name and \[the last\] eight verses of the Pentateuch.’
+
 [^6-p243]: A slightly abbreviated version of the key text by Ibn Ezra, with Spinoza’s Latin translation, is given in Spinoza, *Opera*, C. Gebhardt, 4 vols. (Heidelberg, 1925), iii. 118. The full Hebrew text is printed in J. Buxtorf, (ed.), *Biblia rabbinica*, 2 vols. (Basle, 1618–19), i, fo. 191<sup>r</sup>, and translated in F. Stummer, *Die Bedeutung Richard Simons für die Pentateuchkritik*, Alttestamentliche Abhandlungen, iii, Heft 4 (Münster in Wuppertal, 1912), 11. On Ibn Ezra’s theory see W. Maier, ‘Aben-Ezra’s Meinung über den Verfasser des Pentateuchs’, *Theologische Studien und Kritiken*, 5 (1832), 634–44, and S. Regev, ‘ “Ta’amei ha-mitzvot” in R. Avraham Ibn-Ezra’s Commentary: Secrets’, in F. Díaz Esteban (ed.), *Abraham Ibn Ezra y su tiempo: actas del simposio internacional Madrid, Tudela, Toledo 1–8 febrero 1989* (Madrid, 1990), 233–40.
 
 *[p. 244]* ^pg255
@@ -721,8 +771,11 @@ From writers such as Ibn Ezra, techniques for the detection of interpolations in
 After Tostatus, the next important writer to develop these arguments was a Flemish Catholic, Andreas Masius, who was recognized as one of the most brilliant Hebrew scholars of his day.[^10-p244] In his posthumously published book
 
 [^7-p244]: See H. Lazarus-Yafeh, *Intertwined Worlds: Medieval Islam and Bible Criticism* (Princeton, NJ, 1992), 56–73; E. Fritsch, *Islam und Christentum im Mittelalter: Beiträge zur Geschichte der muslimischen Polemik gegen das Christentum in arabischer Sprache* (Breslau, 1930), 59–60.
+
 [^8-p244]: A. Tostatus, *Opera omnia*, 23 vols. (Venice, 1596), v, fos. 183<sup>r</sup> (Deut. 34), 15<sup>v</sup> (‘Ista non sunt verba Moysis sed Esdrae’). On Tostatus see P. L. Suarez, *Noematica biblico-mesianica de Alfonso Tostado de Madrigal, Obispo de Avila (1400–1455)* (Madrid, 1956).
+
 [^9-p244]: Ibid. v, fo. 2<sup>r</sup> (‘Quis scripsit librum Deuteronomij, Moyses an Esdras, vel Iosue’; ‘Quis hunc librum scripserit apud multos in dubium vertit’).
+
 [^10-p244]: On Masius, who published a Syriac grammar and helped to correct the Antwerp Polyglot Bible, see C. G. Jöcher, *Allgemeines Gelehrten-Lexicon*, 4 vols. (Leipzig, 1750–1), iii, cols. 259–60, the comments in L. Diestel, *Geschichte des Alten Testaments in der christlichen Kirche* (Jena, 1869), 311–12, and the biographical sketch by H. de Vocht, ‘Andreas Masius (1514–1573)’, in *Miscellanea Giovanni Mercati*, 6 vols. (Vatican City, 1946), iv. 425–41. One leading modern biblical scholar, Moshe Goshen-Gottstein, reserves special praise for Masius: see his ‘The Textual Criticism of the Old Testament: Rise, Decline, Rebirth’, *Journal of Biblical Literature*, 102 (1983), 365–99 (at p. 372 n.).
 
 *[p. 245]* ^pg256
@@ -730,7 +783,11 @@ After Tostatus, the next important writer to develop these arguments was a Flemi
 about Joshua (issued in 1574, one year after his death) he presented a new version of the role of Ezra in the preparation of the Bible—one that was to have far-reaching consequences. According to Masius, Ezra the Scribe had not rewritten the whole of Scripture, nor had he merely ‘restored’ it in the sense of tidying up the text and removing minor corruptions; rather, he had taken a group of materials which were ‘dispersed, scattered and mixed together in annals’ and had ‘collected, arranged and united them in, as it were, a single volume’.[^11-p245] Masius did not explicitly include the Pentateuch in this list of Ezran compilations; with regard to the Mosaic books, he commented only that Ezra had inserted a few words and sentences ‘here and there’.[^12-p245] However, in a later discussion of another such example (the use of the place name ‘Dan’), he remarked more ambiguously: ‘The Mosaic books, in their present form, were not composed by Moses, but by Ezra, or by some other godly man.’[^13-p245] Also, in presenting his theory about the use of ‘diaries and annals’ in the compilation of the historical books, Masius gave the example of the ‘Book of the wars of the Lord’ mentioned in the Pentateuch ([[Torah 39 - Chukat#^21-14|Num. 21:14]]). At the very least, this seemed to be another example of an Ezran interpolation (given that that book had contained descriptions of the actions of Moses, and was presumably written not by him but by a later chronicler). But if, as Masius said, the Jews had kept such diaries and annals ‘in ancient times’, and if Ezra had had access to such materials going back almost to the time of Moses, the possibility might reasonably have occurred to some readers of Masius that the story of Moses himself had been compiled out of similar materials.[^14-p245] Masius’s account thus formed a starting point for the textual theories of Richard Simon (who saw the Old Testament as the product of a long accumulation of material written by ‘public scribes’) and, ultimately, for the *Quellenforschung* of scholars such as Jean Astruc in the eighteenth century.[^15-p245]
 
 [^11-p245]: A. Masius, *Iosuae imperatoris historia illustrata atque explicata* (Antwerp, 1574), first pagination, p. 119 (‘dispersa, dissoluta, confusa in annalibus’; ‘ab Ezdra collecta, dispositaque, & tamquam in uno codice compacta’).
+
 [^12-p245]: Ibid. second pagination, p. 2 (‘interjectis, saltem, hîc, illic, verborum, & sententiarum clausulis’).
+
 [^13-p245]: Ibid. second pagination, p. 301 (‘Neque Mosis libros sic, vt nunc habentur, ab illo esse compositos: sed ab Ezdra, aut alio quopiam divino viro’).
+
 [^14-p245]: Ibid. second pagination, p. 2 (‘priscis temporibus apud Ecclesiam fuisse diaria, & annales’; ‘liber bellorum Domini’). ‘Ecclesia’ here is Masius’s term for the religious institutions of the Jews.
+
 [^15-p245]: See J. Astruc, *Conjectures sur les mémoires originaux dont il paroit que Moyse s’est servi pour composer le livre de la Genèse* (Brussels, 1753).

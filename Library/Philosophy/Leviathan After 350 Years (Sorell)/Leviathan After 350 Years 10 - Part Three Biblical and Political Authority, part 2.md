@@ -19,8 +19,11 @@ While Masius’s arguments may have pointed in radical new directions, their ort
 Set against the background of this tradition of textual analysis, from Ibn Ezra and Tostatus to Masius and à Lapide, the critical methods used
 
 [^16]: C. à Lapide, *In Pentateuchum Mosis commentaria* (Paris, 1630), 23 (‘Aduerte, Mosen Pentateuchum simpliciter conscripsisse, per modum diarij vel annalium; Iosue tamen, vel quem similem, eosdem hos Mosis annales in ordinem digessisse, distinxisse, & sententias nonnullas addidisse, & intexuisse’). This commentary was first published in Antwerp in 1616.
+
 [^17]: Ibid. 899 (‘ab Esdra, vel potiùs a Iosue’), 907 (‘si haec addita sunt ab alio quopiam, non ab Esdra, sed ab eo, qui diaria haec Mosis paulò post digessit, esse addita’).
+
 [^18]: à Lapide, *Commentarius in Esdram, Nehemiam, Tobiam, Judith, Esther, et Machabaeos* (Antwerp, 1734), 4. This commentary was first published posthumously at Antwerp in 1645; à Lapide died in 1637.
+
 [^19]: For a list of editions (all at Antwerp or Paris) see A. Williams, *The Common Expositor: An Account of the Commentaries on Genesis 1527–1633* (Chapel Hill, NC, 1948), 276; Williams also notes that the next most popular commentary was that of Pererius (p. 8).
 
 *[p. 247]* ^pg258
@@ -28,7 +31,9 @@ Set against the background of this tradition of textual analysis, from Ibn Ezra 
 by La Peyrère, Hobbes, and Spinoza begin to look much less innovatory. Of the three pieces of evidence brought forward by Hobbes for the non-Mosaicity of the Pentateuch, two had been discussed by à Lapide, and the third by Ibn Ezra: Hobbes could not read Ibn Ezra’s Hebrew, but he certainly knew people who could. Of the thirteen arguments adduced by Spinoza, six were cited from Ibn Ezra, four had been discussed by Tostatus and two by Masius. And of the six pieces of evidence presented by La Peyrère, five had been commented on by à Lapide.[^20] True, the radical conclusion drawn by the three later writers—that the anachronisms in the Pentateuch proved not merely that some passages were added, but that the text as a whole was non-Mosaic—had not been put forward by any of the earlier commentators (though the Masius–à Lapide thesis about a subsequent editor forming the text from an assortment of Mosaic raw materials might be taken to point in that direction). But La Peyrère’s basic idea—that there lay behind the biblical text a collection of disparate source-materials—had already been adumbrated in this, the scholarly mainstream tradition. Indeed, the very phrase he used for Moses’s original materials, *diurni commentarii* (daily commentaries), seems little more than a paraphrase of the term *diaria* (diaries), which had already been used by Masius, Pererius, and à Lapide.[^21] It is not necessary, therefore, to suppose that La Peyrère’s approach was either that of a revolutionary genius, or that of an autodidactic troublemaker who had just applied to the Bible his iconoclastic but home-made common sense.[^22] What La Peyrère, Hobbes, and Spinoza were doing was to take some theories that were already widely available and set them off in a new direction; as so often seems to be the case in the history of ideas, the advance of radical heterodoxy came about not by means of a frontal assault on the orthodox tradition, but through a more complicated and opportunistic judo-like
 
 [^20]: For a more detailed presentation of this evidence see my *Aspects of Hobbes*.
+
 [^21]: I. La Peyrère, *Prae-adamitae* (n.p., 1655), ‘Systema theologicum’, IV.1, p. 153 (‘Crediderim certe, diurnos commentarios Mosem confecisse’). (There are at least two different printings, in several different issues, of this book, all dated 1655. I refer to the one, probably by Janssonius in Amsterdam, in which the two parts of the book have 52 and 260 pp. respectively.) Klaus Scholder exemplifies a common overestimation of La Peyrère’s originality when he writes that he was one of the first to develop a ‘literary history’ of the Pentateuch with his innovatory ‘Fragmenten-Hypothese’ (*Ursprünge und Probleme der Bibelkritik im 17. Jahrhundert: ein Beitrag zur Entstehung der historisch-kritischen Theologie* (Munich, 1966), 102–3).
+
 [^22]: The first interpretation is that of Richard Popkin, who portrays La Peyrère as a ‘revolutionary’ thinker and the founder of modern Bible criticism (*Isaac La Peyrère*, 1–2, 48–50; on p. 50 he comments that ‘Only the wildest radical enthusiasts of the Puritan Revolution and La Peyrère were willing to conclude that Moses was not the author of it all \[*sc*. all the Pentateuch\]’). The second is that of Anthony Grafton, who, while agreeing that ‘no one did more’ to make the ‘exegetical revolution’ happen than La Peyrère, assumes that his response to the Bible was largely unmediated: ‘Two centuries later, La Peyrère might have stood at the back of a revival meeting, shouting “Hey, mister, where *did* Cain’s wife come from?” ’ (*Defenders of the Text*, 205, 211–12).
 
 *[p. 248]* ^pg259
@@ -44,6 +49,7 @@ In fact there is one recorded example of an individual freethinker of the late s
 Nevertheless, there was a considerable difference in style and purpose between Journet’s approach and that of Hobbes, La Peyrère, and Spinoza. His aim was simply to portray the Bible as an absurd tissue of lies (in the
 
 [^23]: While this background to the theories of Hobbes, La Peyrère, and Spinoza on the Pentateuch has been largely ignored by writers on those three thinkers, it has been briefly acknowledged by some historians of biblical interpretation: see Diestel, *Geschichte des Alten Testaments*, 357; Stummer, *Die Bedeutung Richard Simons*, 28; H.-J. Kraus, *Geschichte der historisch-kritischen Erforschung des Alten Testaments*, 2nd edn. (Neukirchen, 1969), 57.
+
 [^24]: R. Peter, ‘Noel Journet, détracteur de l’Ecriture sainte (1582)’, in M. Lienhard (ed.), *Croyants et sceptiques au XVI*<sup>e</sup> *siècle: le dossier des ‘Épicuriens’* (Strasbourg, 1981), 147–56; here pp. 148–50. Journet’s other arguments concerned petty inconsistencies (for example, if Moses had just turned ‘all the waters’ into blood ([[Torah 14 - Vaera#^7-20|Exod. 7:20]]), what did the magicians of Egypt work on when they did the same?). See also F. Berriot, ‘Hétérodoxie religieuse et utopie dans les “erreurs estranges” de Noël Journet (1582)’, *Bulletin de la Société de l’Histoire du Protestantisme Français*, 124 (1978), 236–48 (with further examples of petty inconsistencies, p. 242). The refutation was by Jean Chassanion, *La Refutation des erreurs estranges & blasphemes horribles contre Dieu & l’Escripture saincte* (Strasbourg, 1583).
 
 *[p. 249]* ^pg260
@@ -55,6 +61,7 @@ The general idea of applying the methods of classical textual scholarship to sac
 The Catholics’ strategy was thus to undermine confidence in the Masoretic Bible, by demonstrating that it was, to some extent at least, the product of an historical process of human interventions. Inevitably, therefore, this approach promoted the application of textual-critical methods to the Hebrew Bible. Some Catholic writers, sympathetic to Hebraic scholarship, argued that precisely because the text was corrupted, it was necessary to use
 
 [^25]: Peter, ‘Noel Journet’, 147 (‘disant que l’Ecriture sainte est pleine de fables, de toute rêveries et mensonges’).
+
 [^26]: See the comments in Goshen-Gottstein, ‘Textual Criticism of the Old Testament’, 370–1.
 
 *[p. 250]* ^pg261
@@ -64,8 +71,11 @@ rabbinical writings in order to get at its true meaning. One such was the early 
 The current of argument identified here by Rivet certainly existed on the Catholic side, but it was an extreme view, and a minority one. The mainstream Catholic position was set out by Robert Bellarmine in his lectures to the Collegium Romanum during the 1580s. Bellarmine rejected the idea that Ezra had miraculously rewritten the entire Bible; rather, he had merely collected and corrected the text, from copies which had survived throughout the captivity. Also dismissed was the claim that the Hebrew had been deliberately corrupted by the Jews. He concluded that ‘the Hebrew
 
 [^27]: –28<sup>r</sup>; on Lévita’s arguments for the late dating of the vowel-points see G. E. Weil, *Élie Lévita:* *humaniste et massorète (1469–1549)* (Leiden, 1963), esp. pp. 297–313.
+
 [^28]: P. Galatinus, *Opus de arcanis catholicae veritatis* (Basle, 1550), 3, 27, 32. This work was first published in 1518.
+
 [^29]: G. Génébrard, *Chronographia in duos libros distincta*, 2nd edn. (Louvain, 1572), fos.
+
 [^30]: A. Rivet, *Isagoge seu introductio generalis, ad Scripturam Sacram Veteris & Novi Testamenti*, in his *Opera theologica*, 3 vols. (Rotterdam, 1651–60), ii. 841–1040; here ch. 6, art. 18, p. 877 (‘qui nullum non movent lapidem ut sacris literis derogent’; ‘absque scripturis conservatam fuisse Eccles. solâ traditionis ope, toto tempore captivitatis Babylonicae’).
 
 *[p. 251]* ^pg262
@@ -79,7 +89,9 @@ In response, the commonest strategy of Protestant writers was to attack the extr
 Rashly, a few Protestants did also include among those activities the imposition of the vowel-points: the leading representative of this hard-line Protestant position was Johannes Buxtorf the elder, whose influential work
 
 [^31]: R. Bellarmine, *Disputationes de controversiis Christianae fidei, adversus hujus temporis haereticos*, Controv. 1, ‘De verbo Dei’, in his *Opera omnia*, 8 vols. (Naples, 1872), i. 65 (‘Scripturas hebraicas non esse in universum depravatas, opere vel malitia Judaeorum; nec tamen esse omnino integras et puras, sed habere suos quosdam errores, qui partim irrepserint negligentia, vel ignorantia librariorum . . . et partim ignorantia Rabbinorum qui addiderunt puncta’).
+
 [^32]: For a valuable discussion of Bellarmine’s position vis-à-vis Protestant controversialists on these issues see J. C. H. Lebram, ‘Ein Streit um die hebräische Bibel und die Septuaginta’, in T. H. Lunsingh Scheurleer, and G. H. M. Posthumus Meyjes (eds.), *Leiden University in the Seventeenth Century: An Exchange of Learning* (Leiden, 1975), 21–63; esp. pp. 35–8.
+
 [^33]: See for example Johannes Buxtorf, *Tiberias, Sive, Commentarius Masorhenicus triplex* (Basle: Jacob Dekker, 1665), 105; Rivet, *Opera theologica*, ii. 878.
 
 *[p. 252]* ^pg263
@@ -89,9 +101,13 @@ Rashly, a few Protestants did also include among those activities the imposition
 Morin’s publications caused outrage not only among his Protestant opponents, but also among Catholic Hebrew scholars in the French capital. Bitter quarrels on this subject raged throughout the 1630s and 1640s. One of Morin’s supporters, a Maronite scholar from the Lebanon, Abraham Ecchellensis (Ibrahim al-Hakilani), who had come to Paris in 1640 to assist with the preparation of the Paris Polyglot, so offended one of the professors of Hebrew at the Collège Royal with his disparagement of the Hebrew Bible that the professor, Valérian de Flavigny, tried to take him to court.[^37] According to a later memoir written by Ecchellensis, the main argument he deployed against de Flavigny was as follows: ‘Although the Vulgate is indeed a translation, we must hold it to be as authentic as the original; for it has been declared such by the Pope, and by his general Council, in just the same way that the Hebrew text was restored and declared authentic by Ezra and his Great Synagogue after the Babylonian captivity.’[^38]
 
 [^34]: Buxtorf, *Tiberias*, 93–105; cf. the discussion in S. G. Burnett, *From Christian Hebraism to Jewish Studies: Johannes Buxtorf (1564–1629) and Hebrew Learning in the Seventeenth Century* (Leiden, 1996), 219–25.
+
 [^35]: See J.-P. Rothschild, ‘Autour du Pentateuque samaritain: voyageurs, enthousiastes et savants’, in J.-R. Armogathe (ed.), *Le Grand Siècle et la Bible* (Paris, 1989), 61–74.
+
 [^36]: See P. Auvray, ‘Jean Morin (1591–1659)’, *Revue Biblique*, 66 (1959), 397–414, and Lebram, ‘Ein Streit’, esp. pp. 30–2, 39.
+
 [^37]: See P. J. A. N. Rietbergen, ‘A Maronite Mediator between Seventeenth-Century Mediterranean Cultures: Ibrahim al-Hakilani, or Abraham Ecchellense \[*sic*\] (1605–1664) between Christendom and Islam’, *Lias: Sources and Documents relating to the Early Modern History of Ideas*, 16 (1989), 13–41; esp. pp. 26–7. See also Ecchellensis’s polemical reply to de Flavigny, *Epistola apologetica prima* (n.p. \[Paris\], 1647), esp. pp. 45–6, 54–5.
+
 [^38]: Archivio di Stato, Rome, Fondo Cartari-Febei, vol. 64, fos. 70–84, ‘Vita d’Abramo Ecchellense Maronita. Ab ipsomet die 16 Feb. 1657’, here fos. 78<sup>v</sup>–79<sup>r</sup> (‘se bene la Vulgata è versione, si deue hauere, e tenere per authentica come il suo proprio originale, essendo per tale dichiarata dal sommo Pontefice, et dal suo generale Concilio, nell’ istesso modo appunto, che fù restaurato, e dichiarato per authentico il testo Hebraico da Ezra, e dalla sua gran Congregatione doppo la Cattiuità di Babilonia’). Seen through Hobbesian eyes (with the authority of both the Pope and Ezra viewed as purely human), this formulation would bear a striking similarity to Hobbes’s own position.
 
 *[p. 253]* ^pg264
@@ -103,8 +119,11 @@ It seems likely that Mersenne had followed these controversies over the nature a
 The key problem was how to reconcile the text’s authority, which was divine, with its history, which was more and more evidently human. Catholics depended on the authority of the Church to vouch for the divine authority of the text—an argument which could take surprisingly hyperbolic forms. A catechism published by Cardinal Sourdis included the question and answer ‘To whom does it belong to define the canonical books?’ ‘To the Church, without whose authority I would grant no more credence to St Matthew than I do to Livy.’[^42] This authority to declare the status of
 
 [^39]: L. Cappel, *Critica sacra* (Paris, 1650), 5 (‘Mosis vel Esdrae autographis’). On his dispute with Buxtorf see Burnett, *From Christian Hebraism*, 229–39.
+
 [^40]: For a valuable account of Cappel’s theories see F. Laplanche, *L’Écriture, le sacré et l’histoire:* *érudits et politiques protestants devant la Bible en France au XVII*<sup>e</sup> *siècle* (Amsterdam, 1986),
+
 [^41]: Ibid. 226–8. 229–43.
+
 [^42]: Cited in D. Chamier, *Panstratiae catholicae, sive controversiarum de religione adversus Pontificios corpus*, 4 vols. (Geneva, 1626), i. 148 (‘Ad quemnam pertinet definire libros Canonicos?’ ‘Ad Ecclesiam: cuius absque authoritate non maiorem fidem adhibuerim Diuo Matthaeo: quam Tito Livio’).
 
 *[p. 254]* ^pg265
@@ -122,6 +141,7 @@ Pareus was resisting an incoming tide of textual-historical interpretation, whic
 What this line of argument seemed to imply was that divine revelation, instead of being the condition or constitutive quality of the entire Bible, was something contained in just some of its parts: the words spoken by God or by angels, or the specifically prophetic utterances of the prophets. These might now be seen as isolated fragments of divinity, floating in a sea of human text. Admittedly, few orthodox theologians were willing to look at the Bible in that way, as they continued to believe that the human text too was written under divine guidance of a more general and providential kind. But one person who did not hesitate to push the argument to this conclusion—and, indeed, a little further—was Thomas Hobbes. He distinguished carefully between two senses of the phrase ‘the Word of God’: in the narrow sense it meant words spoken by God, and in the broad sense it signified merely words *about* God, the ‘Doctrine of Christian Religion’. In the second sense, he observed, the whole of the Bible was the Word of God, ‘but in the former sense not so. For example, although these words, *I am the Lord thy God, &c.* to the end of the Ten Commandements, were spoken by God to Moses; yet the Preface, *God spake these words and said*, is to be understood for the Words of him that wrote the holy History.’[^45] The radical step taken by Hobbes (and avoided by all orthodox writers) was to point out that where a fragment of divine revelation is conveyed to us by a merely human narrative, its reliability can be no greater than that of the narrator himself—in other words, merely human.
 
 [^44]: à Lapide, *In Pentateuchum commentaria*, 23 (‘Moses haec partim traditione, partim diuina reuelatione, partim oculari inspectione didicit & accepit: nam quae in Exodo, Leuitico, Numeris & Deuteronomio narrat, ea praesens ipse vidit & gessit’).
+
 [^45]: Hobbes, *Leviathan*, 222, 223 (quotation).
 
 *[p. 256]* ^pg267
@@ -133,8 +153,11 @@ Hobbes thus adopted a position precisely opposite to the old Protestant theory a
 Having thus placed the special authority of divine revelation out of human reach, and having reduced the status of the Bible to that of a human document, Hobbes might have left it there, on a par with the works of Livy, Plutarch, Thucydides, and the rest. Instead, he insisted that its composition was defined, and its interpretation regulated, by special authority—the authority of the Church, acting under that of the sovereign. Not having any direct instructions about the Scriptures from God, ordinary citizens must be guided by ‘the authority of their severall Common-wealths; that is to say, of their lawfull Soveraigns. According to this obligation, I can acknowledge no other Books of the Old Testament, to be Holy Scripture, but those which have been commanded to be acknowledged for such, by the Authority of the Church of *England*.’[^49] On the face of it, Hobbes was thus adopting
 
 [^46]: Hobbes, *Leviathan*, 32.
+
 [^47]: Ibid. 196.
+
 [^48]: Ibid. esp. chs. 12, 36, 37.
+
 [^49]: Ibid. p. 199. Hobbes’s views on the relation between the authority of the Church and that of the sovereign in this context do seem to have undergone a significant development between *De Cive* and *Leviathan*: in the earlier work, the former type of authority had a different derivation from the latter, even though the exercise of it was entirely subordinate to the sovereign’s authority (see L. Strauss, *The Political Philosophy of Hobbes: Its Basis and Genesis*, tr. E. M. Sinclair (Chicago, 1952), 72; H. Reventlow, *The Authority of the Bible and the Rise of the Modern World*, tr. J. Bowden (London, 1984), 213; J. P. Sommerville, *Thomas Hobbes: Political Ideas in Historical Context* (London, 1992), 119–27).
 
 *[p. 257]* ^pg268
@@ -146,7 +169,9 @@ how much confusion and universal chaos would ensue if, in any human republic, th
 Hence the importance of Ezra. Hobbes’s prime aim in setting out his Ezran hypothesis was not to ridicule the Scriptures, not to portray them as ‘Ezra’s fables’, not to show that the whole Mosaic story was fictitious; rather, it was to substantiate historically his view that the only ‘authority’ the Scriptures could have was a human and political one. This, indeed, was what distinguished them from the works of Livy and the rest. ‘By the Books of Holy Scripture, are understood those, which ought to be the *Canon*, that is to say, the Rules of Christian life. And because all Rules of life, which men are in conscience bound to observe, are Laws; the question of the Scripture, is the question of what is Law throughout all Chistendome.’[^52] When people asked ‘*From whence the Scriptures derive their Authority*’, he observed, they misunderstood the issue if they thought this was a question
 
 [^50]: Robert Orr, for example, has commented on the ‘somewhat bizarre agreement’ between Hobbes and the Roman Catholic Church on the need for a sovereign interpreter: *Reason and Authority: The Thought of William Chillingworth* (Oxford, 1967), 86.
+
 [^51]: Bellarmine, *Opera omnia*, i. 25 (‘si in quavis humana republica, sublatis legibus institutisque majorum, id unicuique liceret, quod naturali sua prudentia aequum ac justum censeret; quanta perturbatio rerum omnium? Quanta confusio sequeretur? . . . Quid igitur fieret, si in ea republica, quae divina potius quam humana est . . . solus internus afflatus expectandus et sequuendus esset?’).
+
 [^52]: Hobbes, *Leviathan*, 199.
 
 *[p. 258]* ^pg269
@@ -174,9 +199,13 @@ with Ezra’s address to God, ‘Thy law is burnt . . .’, and goes on to descr
 What Hobbes and Spinoza had in common, nevertheless, was that they were both trying to explain the development of the Bible in essentially historical and political terms.[^59] Commenting on Spinoza’s theory, the nineteenth-century scholar Ludwig Diestel observed that in presenting the Old Testament as something both natural and national (that is, to be understood as part of the political history of the Jews), Spinoza had broken out of the old dilemma, in which the Bible was to be viewed either as pure revelation, or as the work of impostors.[^60] The same can also be said of Hobbes (with the qualification that the dilemma had not been entirely unbroken
 
 [^56]: Ibid. 203.
+
 [^57]: Ibid. 200–2, 204.
+
 [^58]: Spinoza, *Tractatus theologico-politicus*, ch. 8, in *Opera*, iii. 126–7.
+
 [^59]: See the valuable comments in J. P. Osier, ‘L’Herméneutique de Hobbes et de Spinoza’, *Studia Spinozana*, 3 (1987), 319–47, esp. pp. 334–41.
+
 [^60]: Diestel, *Geschichte des Alten Testaments*, 359 n.
 
 *[p. 260]* ^pg271
@@ -186,7 +215,9 @@ before he wrote). Unlike the radical anti-Christians who came after him, such as
 Some commentators have felt that Hobbes’s other remarks in *Leviathan* about the nature and reliability of the Scriptures, and his style of exegesis itself, were sufficient proof of a desire to ridicule and discredit the Bible entirely.[^61] But the evidence here is ambiguous, at best. For example, when Hobbes states that ‘although these Books were written by divers men, yet it is manifest the Writers were all indued with one and the same Spirit, in that they conspire to one and the same end, which is the setting forth of the Rights of the Kingdome of *God*’, it may be tempting to argue that his choice of the word ‘conspire’ is a heavy-handed hint at deception and malevolence.[^62] The word could have those overtones in early modern English, but it could also refer quite neutrally to the sharing of a common purpose: one sixteenth-century text declared that ‘The cyvyle lyfe ys a polytyke ordur of men conspyryng togyddur in vertue and honesty.’[^63] Hobbes’s formulation
 
 [^61]: For a strongly stated expression of this view see T. L. Pangle, ‘A Critique of Hobbes’s Critique of Biblical and Natural Religion in *Leviathan*’, *Jewish Political Studies Review*, 4/2 (1992), 25–57, esp. p. 31.
+
 [^62]: Hobbes, *Leviathan*, 204; cf. Q. Skinner, *Reason and Rhetoric in the Philosophy of Hobbes* (Cambridge, 1996), 412: ‘There is thus a considerable *frisson* attaching to Hobbes’s use of the term to describe the books of the Bible.’ Professor Skinner does not argue that ‘conspire’ could only have had a negative sense; he cites it as an example of the rhetorical figure *aestismus*, which depended on inherent ambiguity between an acceptable meaning and a negative or satirical one. However, in most of the examples he gives (pp. 409–12), there could be little doubt that it was the negative meaning that was really intended; that, indeed, is why *aestismus* functioned as a ‘mocking trope’ (p. 409). My point is that in this case, given the direct precedent of Bellarmine’s wording, there is a real possibility that the acceptable meaning was the one intended.
+
 [^63]: Thomas Starkey, *Dialogue between Cardinal Pole and Thomas Lupset*, I. i. 19, cited in OED, ‘conspire’ (3).
 
 *[p. 261]* ^pg272
@@ -198,6 +229,7 @@ The point is not that such congruences with orthodox argumentation prove that Ho
 Leo Strauss made a similar point in his study of Spinoza’s biblical criticism, when he observed that philological-historical arguments in themselves could not destroy belief in the authenticity of revelation; for that purpose, more fundamental arguments of a theological or metaphysical kind were needed.[^65] But his presentation of this point risked giving the impression that anyone who was deploying philological-historical arguments was at least trying to undermine revelation—even if the attempt, in the absence of those more fundamental arguments, was bound to be unsuccessful. As we have seen, there was a long tradition of applying philological-historical analysis to Scripture within orthodox Christianity; there was nothing
 
 [^64]: Bellarmine, *Opera omnia*, i. 24 (‘incredibilis quaedam et plane divina conspiratio atque concordia tot virorum, qui diversis locis, temporibus, linguis, occasionibus sacra volumina conscripserunt’). This is from Bellarmine’s *De verbo Dei*, the first part of his *Disputationes de controversiis*. Hobbes wrote at length against the third part of that work (*Leviathan*, 300–20), and also commented on the sixth (pp. 346–7); so it seems reasonable to assume that he had read the whole work with some care.
+
 [^65]: L. Strauss, *Spinoza’s Critique of Religion*, tr. E. M. Sinclair (Chicago, 1997), 141–4.
 
 *[p. 262]* ^pg273
@@ -209,7 +241,9 @@ That these writers had a great impact is clear: the numerous denunciations of th
 Yet the most significant developments in biblical-critical thinking took place not at these extremes but, so to speak, in the middle. Most of the mainstream critics who denounced Hobbes, La Peyrère, and Spinoza (such as Huet, Carpzov, and Witsius) took it for granted that there were interpolations and editorial changes in the biblical text. Jacques Abbadie even put forward a theological argument *for* textual corruptions: the books of the Bible had undergone the vicissitudes normally suffered by all human texts, he suggested, so that wrestling with the resulting difficulties would provide good spiritual exercise for the faithful.[^67] Richard Simon, while he was certainly innovatory in the contents of his philological-historical arguments, and although he was therefore denounced by many of these writers, belongs essentially to this middle ground: he defended the Mosaicity of the Pentateuch in broad terms by arguing that it was mainly compiled by ‘public scribes’ working under Moses’s direction.[^68] Simon was able to pursue his philological-historical arguments to their novel conclusions because he had worked out, at the theological level, a more subtle and advanced theory of revelation, in which divine inspiration was thought of as inhering in
 
 [^66]: C. Blount, *The Oracles of Reason* (London, 1693), 16–17 (summarizing Hobbes); A. van Dale, *Dissertationes de origine ac progressu idololatriae et superstitionum* (Amsterdam, 1696), 686–7 (asserting Ezran authorship); A. Ross, *Leviathan Drawn out with a Hook: Or,* *Animadversions upon Mr Hobbs his Leviathan* (London, 1653), 35 (claiming that Moses ‘writes of his death and sepulcher by anticipation’); J. Templer, *Idea theologiae Leviathanis* (London, 1673), 123–4 (insisting on Mosaic authorship of the whole text, with the sole exception of [[Torah 54 - V'Zot HaBerachah#^34-6|Deut. 34:6–12]]).
+
 [^67]: J. Abbadie, *Traité de la vérité de la religion chrétienne*, 2 vols. (Rotterdam, 1684), i. 267–8 (‘il a esté nécessaire aussi que la révélation des Juifs parût sugette aux accidens qui arrivent aux autres livres, pour exercer la foi encore à cet égard’).
+
 [^68]: R. Simon, *Histoire critique du Vieux Testament*, 2nd edn. (Amsterdam, 1685), 3 (‘Ainsi l’on pourra dire en ce sens-là, que tout le Pentateuque est veritablement de Moïse, parce que ceux qui en ont fait le Recueil, vivoient de son tems, & qu’ils ne l’ont fait que par son ordre’).
 
 *[p. 263]* ^pg274
@@ -223,7 +257,9 @@ If one supposed that an honest man had written the Pentateuch, basing his work o
 It was this principle—following the rules of textual criticism, for reasons of piety—that would lie behind the work of later scholars such as Jean Astruc; it had previously been applied by a whole series of writers, from Masius and à Lapide to Grotius, Cappel and Simon. Modern biblical criticism grew out of this tradition; it was not ‘founded’ by Hobbes or Spinoza, even though it may have been stimulated in some ways by their writings. It
 
 [^69]: See R. Simon, *Lettre à Monsieur L’Abbé P., D. & P. en T., touchant l’inspiration des livres sacrés* (Rotterdam, 1687), 13–27, and the comments in J. Steinmann, *Richard Simon et les orig-ines de l’exégèse biblique* (Paris, 1960), 209.
+
 [^70]: J. Le Clerc, *Sentimens de quelques théologiens de Hollande sur l’Histoire Critique du Vieux Testament* (Amsterdam, 1685), esp. pp. 125–9 (referring to 2 Kings 17); E. Fourmont, *Lettres à Monsieur \*\* sur le commentaire du Père Calmet sur la Genèse* (Paris, 1709–10: two parts, continuously paginated), 24, 35. Both arguments were based on the idea that the Samaritan Pentateuch must have existed before Ezra (who was traditionally credited with replacing the Samaritan script with the ‘square’ Hebrew alphabet); the presumed interpolations, which were also in the Samaritan text, therefore could not have been made by Ezra.
+
 [^71]: Fourmont, *Lettres*, 24 (‘mais il reste toûjours un doute sur l’antiquité du livre; parce qu’il semble qu’en supposant un honnête homme qui auroit composé le Pentateuque, sur les écrits même du Législateur, & cela par l’ordre de quelque Prince éclairé comme David, ou de toute la nation, on pourroit suivre les regles de la veritable critique, sans craindre aucune mauvaise consequence, on se porteroit peut-être même à le faire par un principe de piété’).
 
 *[p. 264]* ^pg275
@@ -245,7 +281,9 @@ De toutes les vertus morales, il n’y avait guère que la religion qui fût une
 Recent research on Hobbes’s theology and religious thinking has made substantial progress. Writers take up questions in a spirit of tolerance and refrain from striking inquisitorial attitudes. More importantly, they acknowledge that it is impossible to ignore the subject or to treat it with any degree of credibility as peripheral to the political theory or, for that matter, to Hobbes’s philosophical system. Most commentators have wisely given up pronouncing on the sincerity of the philosopher’s statements. Yet they disagree considerably in their interpretations of his religion. We may distinguish three approaches taken by commentators. One was that of the Italian scholar Arrigo Pacchi. His most important studies on Hobbes have recently been collected.[^1] They are those of a historian, concerned to reconstruct the coherence of a way of thinking on the basis of a genealogy of the author’s views, going as far back in ancient and medieval times as necessary and excluding any a priori thesis.[^2] The second approach—Aloysius Martinich’s[^3]—is strictly theological. Although it also aims to put Hobbes’s ideas into historical perspective, the context chosen is more limited in scope. The investigation is guided throughout by a double conviction: that on no important doctrinal point does Hobbes’s theology depart from the Calvinist orthodoxy dominant in the Church of England of the late Elizabethan, early Jacobean periods; and that though he was conservative-minded in that respect, Hobbes was a modernist in his unsuccessful attempt to reconcile religion with the new science of the time. The third
 
 [^1]: Arrigo Pacchi, *Scritti hobbesiani (1978–1990)*, ed. Agostino Lupoli (Milan: Franco Angeli, 1998). Out of the ten studies in the book, seven are devoted to Hobbes’s theology.
+
 [^2]: This means the eventual admission of failure to establish the coherence mentioned, for example on the capital point of Hobbes’s somewhat forced identification of the God of nature with the God of Revelation.
+
 [^3]: Aloysius Martinich, *The Two Gods of* Leviathan: *Thomas Hobbes on Religion and Politics* (Cambridge: Cambridge University Press, 1992).
 
 *[p. 266]* ^pg277
@@ -259,6 +297,7 @@ I. PROBLEMS OF IDENTIFICATION
 At one point in *Leviathan*, Hobbes seems to envisage the possibility that the civil sovereign might commit the care of religious affairs to the Pope, just as he might to any archbishop or assembly of bishops or pastors. Hobbes adds immediately that the men put in charge by the sovereign
 
 [^4]: Luc Foisneau, *Hobbes et la toute-puissance de Dieu* (Paris: Presses Universitaires de France, 2000).
+
 [^5]: George Wright’s examination of the striking kinship between Hobbes’s trinitarian doctrine and that of the Cappadocian Fathers in Antiquity; Stefano Simonetta’s work on the links between Hobbes’s and Marsilius of Padua’s ecclesiological theories; Gianni Paganini’s research concerning a likely influence of Lorenzo Valla on Hobbes with regard to the Trinity again. On grey areas of Hobbes’s theology, these studies bring precious and welcome light. However, they deal with quite specific issues. Besides, although they help retracing Hobbes’s probable intellectual ancestry, they are not meant to evidence the logic—if it exists—behind all the religious theses he advocated. To some extent, their partial character can be deceptive: emphasizing Hobbes’s debt to humanistic modes of thinking, such as an anti-dogmatic, rationalist approach to theology, can deflect attention from various tenets he shared with extremist religious groups, starting with a radical concept of predestination.
 
 *[p. 267]* ^pg278
@@ -268,6 +307,7 @@ would be subordinated to the latter’s authority and would fulfil their appoint
 Later passages in *Leviathan* dealing with the same topics are just amplifications of those themes, which recur in other works like *De Cive* and even more so in the series of shorter treatises composed by Hobbes in the 1660s
 
 [^6]: *Leviathan*, XLII:80. The first figure refers to chapter, the second one to paragraph. Edition used: Edwin Curley (Indianapolis and Cambridge: Hackett Publishing Company Inc., 1994).
+
 [^7]: Ibid. XII:31. The whole passage includes paragraphs 31 and 32.
 
 *[p. 268]* ^pg279
@@ -275,12 +315,19 @@ Later passages in *Leviathan* dealing with the same topics are just amplificatio
 (the Latin version of *Leviathan*, the *Dialogue of the Common Laws of England*, the *Answer to a Book entitled the Catching of the Leviathan*, and the pamphlets on heresy). With the added denunciation of the canonization of saints as a new form of idolatry,[^8] of transubstantiation as unintelligible and unfounded in Scripture,[^9] of the papal claims to infallibility and to universal monarchy,[^10] they are very much part of the stock Protestant arguments against the Catholic Church. They clearly suggest that Hobbes approved of the Reformation as an interruption of Roman dominance over Christendom. They find doctrinal support in several tenets which belong to what we might call a core Protestant theology, common to the major denominations derived from the Reformation—what comes closest to a form of orthodoxy in so far as this notion has any validity in a context of divided churches. Three of these tenets stand out. The most essential one is reliance on the Bible as the only acceptable rule of faith, the source of all necessary knowledge in matters of belief, and the best guide to salvation.[^11] ‘By the Books of Holy Scripture’, Hobbes writes, ‘are understood those which ought to be the *canon* (that is to say the rules) of Christian life’.[^12] The Holy Scriptures ‘supply the place and sufficiently recompense the want of all other prophecy’ (this has been the case since the time of Jesus, who was the last true prophet) and from them, ‘by wise and learned interpretation and careful ratiocination, all rules and precepts necessary to the knowledge of our duty both to God and man, without enthusiasm or supernatural inspiration, may easily be deduced’.[^13] It is all the more important to determine with absolute clarity what few and simple articles of faith must be drawn from the Bible as ‘eternal life and the salvation of each person are contained in Sacred Scriptures (whose reading our Church has permitted and recommended to all)’.[^14] This must be achieved in such a way as to let Holy Writ produce its effects on each individual conscience without obstacles, ‘because there ought to be no power over the consciences of men but of the Word itself, working faith in every one, not always according to the purpose of them that plant and water, but of God himself, that giveth the increase’.[^15]
 
 [^8]: *Leviathan*, XLV:34. This reference, like the following ones, is only to one illustration among others.
+
 [^9]: Ibid. VIII:27; XXXVII:13; XLIV:11.
+
 [^10]: Ibid. XLV:34; XLVII:3 (Latin text); the whole of chapter XLII for universal monarchy.
+
 [^11]: One remembers William Chillingworth’s proclamation: ‘By the Religion of Protestants, I do not understand the Doctrine of Luther, or Calvin, . . . but that wherein they all agree, and which they all subscribe . . . as a perfect Rule of their Faith and Actions, that is, the BIBLE. The BIBLE, I say, the BIBLE only, is the Religion of Protestants!’ (*The Religion of Protestants A Safe Way to*
+
 [^12]: *Leviathan*, XXXIII:1. *Salvation* \[1638\] *Works*, (9th Edition, 1727), 272).
+
 [^13]: Ibid. XXXII:9.
+
 [^14]: Ibid. XLVII:29 (Latin text, Edwin Curley’s translation as in all other quotes from that version of *Leviathan*).
+
 [^15]: Ibid. XLVII:20. This statement is very largely a paraphrase of St Paul, from whom the metaphor of faith as a plant is borrowed: see [[1 Corinthians 03#^3-5|1 Cor. 3:5–8]].
 
 *[p. 269]* ^pg280
@@ -328,8 +375,11 @@ An action therefore may be voluntary and a sin, and nevertheless be necessary; a
 All of those principles, which marked a definite departure from Roman theology, could be regarded as in accordance with the official doctrine of the Church of England, as expressed in the 39 Articles adopted in 1563 and ratified in 1572. The supremacy of the Bible as a rule of faith was stressed in Article 6 (‘Of the Sufficiency of Scripture’); salvation by faith in Articles 11 (‘Of the Justification of Man’), 12 (‘Of Good Works’) and 13 (‘Of Works Before Justification’); predestination in Article 17 (‘Of Predestination and Election’). To that extent, Hobbes had some cause to describe himself as an Anglican, as he did at times in *Leviathan* and much more often in later treatises when, precisely, that quality was denied him on grounds of heretical and blasphemous theological views. *Leviathan* contains few explicit professions of that sort. They deal mostly with the composition of the Bible, concerning which Hobbes writes that he can ‘acknowledge no other books of the Old Testament to be Holy Scripture but those which have been commanded to be acknowledged for such by the authority of the Church of England’.[^28-p271] More numerous are the declarations of Anglican loyalty in the *Answer to the Catching of the Leviathan*. In order to defend himself against Bramhall’s accusations, Hobbes even poses as a better follower of the Church of England’s doctrines than the bishop, as exemplified by the exchange about the existence of a *cœlum empyraeum*: ‘where is it in the Scripture’, he asks, ‘where in the Book of Common Prayer, where in the canons, where in the homilies of the Church of England or in any part of our religion?’[^29-p271] Pleading submission to the teachings of the Church of England, Hobbes
 
 [^26-p271]: Ibid. 257–8.
+
 [^27-p271]: Ibid. 260.
+
 [^28-p271]: *Leviathan*, XXXIII:1.
+
 [^29-p271]: *An Answer to a Book Published by Dr Bramhall, Late Bishop of Derry, Called the ‘Catching of the Leviathan’*, Hobbes’s *English Works*, iv. 347 (referred to hereafter as *Answer to the Catching of the Leviathan*). The allusion to homilies very probably refers to the Second Book of Homilies published under Edward VI, whose reading was recommended in the 35th of the 39 Articles (‘Of Homilies’) as containing ‘a godly and wholesome doctrine’.
 
 *[p. 272]* ^pg283
@@ -339,8 +389,11 @@ vows to refrain from any utterance disagreeing with the Anglican creed: ‘I pro
 To these affirmations must be added, in order to complete Hobbes’s portrait as an acceptable Anglican, the vehement plea for Church government as established by law in England. *Leviathan* stresses royal supremacy in all religious matters, describing the sovereign’s power in terms which seem to be borrowed straight from Elizabethan legislation. The claim—as against Cardinal Bellarmine’s advocacy of the Pope’s universal jurisdiction—that the civil sovereign ‘hath the supreme power in all causes, as well ecclesiastical as civil’ reads almost like a quote from the 1559 Act of Supremacy.[^32-p272] The whole of the exceptionally long chapter XLII can be regarded as a demonstration of that point, and one can understand why Hobbes, in the appendix to the Latin version of *Leviathan* published in the troubled year 1668, wrote in self-defence that the author of that book ‘defended admirably the rights of the king, both in temporal matters and spiritual’.[^33-p272] The same object was vigorously pursued in the polemical works composed in that period, Hobbes posing once again as a more dutiful Anglican than
 
 [^30-p272]: Ibid. 367.
+
 [^31-p272]: Ibid. 355. Article 20 reads, as Hobbes suggests: ‘The Church hath power to decree rites or ceremonies and authority in controversies of faith; and yet it is not lawful for the Church to ordain anything contrary to God’s word written, neither may it so expound one place of Scripture, that it be repugnant to another.’
+
 [^32-p272]: *Leviathan*, XLII:80. See the pledge contained in the 1559 Act of Supremacy, which required acknowledgement that ‘the Queen’s Highness is the only supreme governor of this realm, and of all other her Highness’s dominions and countries, as well in all spiritual or ecclesiastical things or causes, as temporal’ (text from: *The Tudor Constitution. Documents and Commentary*, ed. G. R. Elton Cambridge: Cambridge University Press, 1984).
+
 [^33-p272]: Latin Appendix to *Leviathan*, III:1. Whether one shares the admiration expressed here by Hobbes for his own book is another matter.
 
 *[p. 273]* ^pg284
@@ -354,9 +407,13 @@ Where the king is a Christian, believes the Scripture, and hath the legislative 
 Those are explicit and specific grounds for accepting Hobbes’s self-description as an Anglican. Hobbes believed they found confirmation in biographical facts. There was his behaviour at the time of his serious illness in Paris, which had caused him first to reject courteously Father Mersenne’s invitation to convert to Catholicism, then to accept Dr John Cosins’s spiritual assistance.[^37-p273] His attitude on his return to England, when he had insisted on attending religious services following the Anglican liturgy, was also supposed to be telling.[^38-p273] Doubts about the *extent*—which is not to say the
 
 [^34-p273]: *Answer to the Catching of the Leviathan*, 337–8. This passage may well contain an implicit allusion to the 21st of the 39 Articles (‘Of the authority of General Councils’), which states that ‘General Councils may not be gathered together without the commandment and will of princes’.
+
 [^35-p273]: Ibid. 364. This repeated the claim, in his prose autobiography, that ‘he had always approved of the government of the Church through bishops before all other forms’ (in Edwin Curley’s edi-
+
 [^36-p273]: Ibid. 364. tion of *Leviathan*, p. lxiv).
+
 [^37-p273]: ‘A few days later, Dr John Cosins, afterward Bishop of Durham, approached him and offered to pray with him to God. Hobbes thanked him and said: ‘Yes, if you take the lead in prayers according to the rite of our Church.’ This was a great sign of reverence for episcopal discipline’ (Hobbes’ Prose Autobiography, in Edwin Curley’s edition of *Leviathan*, p. lxv).
+
 [^38-p273]: ‘When he returned to England, he indeed found preachers in the churches, but seditious ones; and extemporary prayers, bold, and sometimes blasphemous; but no creed, no decalogue. And so for the first three months he did not find any service in which he could participate. Finally a friend took him to a church more than a mile from his quarters, where the pastor was a good and learned man, who administered the Lord’s Supper by the rite of the Church; with him he could participate in the service. This was another sign, not only of a man who favoured the episcopal side, but also of a sincere Christian. For at that time neither the laws nor fear compelled anyone to go to any church’ (ibid. p. lxv).
 
 *[p. 274]* ^pg285
@@ -370,6 +427,7 @@ Where we attribute to the Queen’s Majesty the chief government, by which title
 Hobbes was aware of the unusual character of this proposition, since he admitted it would be denied ‘by most men’ for lack of familiarity with the practices he advocated. He also had in mind Queen Elizabeth’s decision, alluded to in the 37th Article and mentioned in a later passage in
 
 [^39-p274]: *Leviathan*, XLII:72.
+
 [^40-p274]: *Answer to the Catching of the Leviathan*, 345.
 
 *[p. 275]* ^pg286
@@ -381,9 +439,13 @@ All pastors, except the supreme, execute their charges in the right (that is, by
 In another book of controversy, *Schism Guarded and Beaten Back upon the Right Owners* (1658), Bramhall wrote that there was only one difference between Catholics and Anglicans on that issue: the former considered that the Pope alone held his special mission ‘immediately’ from Christ, all other bishops holding theirs mediately by papal designation; according to
 
 [^41-p275]: See *Leviathan*, XLII:78. Yet, Hobbes insists that Elizabeth took her decision in order to ease the conscience of members of the clergy who were reluctant to take the oath of supremacy to a
+
 [^42-p275]: Ibid. XLII:79. woman, although not on legal grounds.
+
 [^43-p275]: Ibid. XLII:70.
+
 [^44-p275]: Ibid. XLII:71.
+
 [^45-p275]: See *Answer to the Catching of the Leviathan*, 343–4. The relevant passages in *De Cive* are in III (part), XVII (chapter), 24–25 (paragraphs).
 
 *[p. 276]* ^pg287
@@ -397,8 +459,11 @@ He that is baptized is dipped or washed, as a sign of becoming a new man, and a 
 In the Old Testament the sign of admission was circumcision; in the New Testament, baptism. The commemoration of it in the Old Testament was the
 
 [^46-p276]: In Bramhall’s *Works* (Oxford, Library of Anglo-Catholic Theology, 5 vols., 1842–1845), ii. 453.
+
 [^47-p276]: In *The Stuart Constitution. Documents and Commentary*, ed. J. P. Kenyon (Cambridge: Cambridge University Press, 1986), 148.
+
 [^48-p276]: James I, *A Premonition to All Most Mighty Monarchs, Kings, Free Princes, and States of Christendom, Works*, ed. James Montague, Bishop of Winchester (1616), 306.
+
 [^49-p276]: *Leviathan*, XLII:18.
 
 *[p. 277]* ^pg288
@@ -428,7 +493,9 @@ The doctrine of the Lord’s Supper, at last, stressed the real, although spirit
 For all its figurative and metonymical value, a sacrament, Calvin contends, can be defined as ‘a testimony of the divine favour toward us, confirmed by an external sign, with a corresponding attestation of our faith towards Him’.[^55] To those participants who receive them with faith, ‘the sacraments are truly termed evidences of divine grace, and, as it were, seals of the goodwill which he entertains toward us’; they ‘sustain, nourish, confirm, and increase our faith’.[^56-p278] That is why—again—they are more than
 
 [^54]: In *A Replication to the Bishop of Chalcedon, Works*, ii. 201.
+
 [^55]: John Calvin, *Institutes of the Christian Religion*, IV (book), XIV (chapter), 1 (paragraph), tr. Henry Beveridge (Edinburgh: Calvin Translation Society, 1845). Text from the Internet at the
+
 [^56-p278]: Ibid. IV. XIV. 7. site: http://www.bible.org/docs/history/calvin/institut/httoc.htm.
 
 *[p. 279]* ^pg290
@@ -462,7 +529,9 @@ Just as *tyranny* is the name given to monarchy by men who are hostile to it,[^6
 Others, that allow for a law of nature the keeping of faith, do nevertheless make exception of certain persons (as heretics and such as use not to perform their
 
 [^63-p280]: William Perkins, *A Reformed Catholic* (Cambridge, 1597). Text from the Internet at the site: http://www.apuritansmind.com/WilliamPerkins/WilliamPerkinsSalvationMainPage.htm.
+
 [^64-p280]: *Leviathan*, XIX:2. The parallel between tyranny and heresy is suggestive by itself.
+
 [^65-p280]: Ibid. XI:19.
 
 *[p. 281]* ^pg292
@@ -490,7 +559,9 @@ When they (bishops and divines) were assembled, they presented the Emperor with 
 ‘Indifferency’ to doctrine might well appear appropriate to many of Hobbes’s readers. It was obviously chosen with care to underline what, in his eyes, were a sovereign’s priorities in theological matters of the sort. All that then remained to be demonstrated was that there existed no legal basis for prosecuting Hobbes (or anybody else) as a heretic[^72] and that, furthermore, his own religious views conformed with Scripture.
 
 [^70-p282]: *Answer to the Catching of the Leviathan*, 340–1.
+
 [^71-p282]: *An Historical Narration Concerning Heresy and the Punishment Thereof*, *Works*, iv. 391–2. See also the appendix to the Latin version of *Leviathan*, II:24.
+
 [^72]: Hobbes’s case, which I can only summarize here, rests on two main arguments. Assuming the Church had ever possessed the right to declare and condemn any one as a heretic, it had lost that right to the civil sovereigns after their conversion to Christianity (history confirming political theory, as it always does with Hobbes). As far as England was concerned, heresy had ceased to be a crime, due to the repeal of all existing legislation on the subject under Elizabeth, and secondly to the abolition of the Court of High Commission and the Star Chamber (which could still claim a competence in that field) during the Revolution. See my introductions to the French translations of *An Answer to the Catching of the Leviathan* and of the various texts on heresy contained in the two volumes entitled *Liberté et nécessité* and *Hérésie et histoire* (*Œuvres*, 11/1 & 12/1, Paris: Vrin, 1993).
 
 *[p. 283]* ^pg294
@@ -500,6 +571,7 @@ Whatever their own merits, however, the texts dealing with those topics did not 
 Hobbes thus estranged himself not only from the Church of England, but from the mainstream of Protestant Churches, which believed, rightly or wrongly, that they could not win the confrontation with Rome and their fratricidal disputes unless they established their credentials as unimpeachably orthodox authorities. He ran the risk of marginalization and aligned himself with radical religious groups which placed their struggle outside the bounds of official Church history. This tendency was reinforced by his advocacy of theological views which were akin to theirs. The assertion that only the souls of the elect were to enjoy immortality[^74] and the denial of
 
 [^73]: As one remembers, this was to be part of Locke’s case in favour of religious toleration: orthodoxy being an empty notion, persecution of so-called heretics was deprived of one powerful justification. From that viewpoint, Hobbes did lay an important foundation of toleration theory. See, on that point, Yves Charles Zarka, *Philosophie et politique à l’âge classique* (Paris: Presses Universitaires de France, 1998), 255 f.
+
 [^74]: See in particular *Leviathan*, XXXVIII:4 and XLIV:15–16.
 
 *[p. 284]* ^pg295
@@ -509,8 +581,11 @@ eternal suffering for the damned[^75] were known to be part of the Anabaptist he
 To conclude, the doctrine of the Trinity, as far as can be gathered directly from Scripture, is in substance this: that God, who is always one and the same, was the person represented by Moses; the person represented by his Son incarnate; and the person represented by the apostles. As represented by the apostles, the Holy Spirit by which they spake is God; as represented by his Son (that was God and
 
 [^75]: Among other passages, see ibid. XLIV:29.
+
 [^76]: Both tenets were part of the ten fundamental points agreed upon at the Anabaptist synod of Venice in 1550 (see E. M. Wilbur, *A History of Unitarianism. Socinianism and its Antecedents* (Cambridge: Harvard University Press, 1946), 85). They could be found in the writings of the two Sozzini (see the texts published in *Per la storia degli eretici italiani del secolo XVI in Europeo*, ed. D. Cantimori and E. Feist, Rome: Reale Academia d’Italia, 1937) and throughout Socinian literature. The Quakers were adherents of those views. On the specific question of mortalism, see Norman T. Burns, *Christian Mortalism from Tyndale to Milton* (Cambridge: Harvard University Press, 1972). On Hobbes’s mortalism, Nathaniel H. Henry, ‘Milton and Hobbes: Mortalism and the Intermediate State’, *Studies in Philology*, 48 (1951), 234–49; David Johnston, ‘Hobbes’s Mortalism’, *History of Political Thought* 10/4, (1989), 647–63, and my own ‘Mortalisme chrétien: l’étrange rencontre entre Hobbes et Milton’, *Bulletin de la société d’études angloaméricaines des XVII*<sup>e</sup> *et XVIII*<sup>e</sup> *siècles* 32 (June 1991), 21–33.
+
 [^77]: On the flood of virulent reactions provoked by Hobbes’s defence of those heterodox views in Anglican and Puritan circles, see the so far unreplaced study by S. I. Mintz, *The Hunting of Leviathan: Seventeenth-Century Reactions to the Materialism and Moral Philosophy of Thomas Hobbes* (Cambridge: Cambridge University Press, 1962).
+
 [^78]: Besides George Wright’s ‘Hobbes and the Economic Trinity’ (see n. 5), see D. H. J. Warner, ‘Hobbes’s Interpretation of the Doctrine of the Trinity’, *The Journal of Religious History* 5/4 (December 1969), 299–313; Alexandre Matheron, ‘Hobbes, la Trinité et les caprices de la représentation’, in Yves Charles Zarka and Jean Bernhardt (eds.), *Thomas Hobbes. Philosophie première, théorie de la science et politique* (Paris: Presses Universitaires de France, 1990), 381–90; and my own two articles, ‘Le vocabulaire de la personne’, in Yves Charles Zarka (ed.), *Hobbes et son vocabulaire: études de lexicographie philosophique* (Paris: Vrin, 1992), 155–86; ‘Christologie de Hobbes: le soupçon de socinianisme’, in Guido Canziani and Yves Charles Zarka (eds.), *L’interpretazione nei secoli XVI e XVII* (Milan: Franco Angeli, 1993), 549–64.
 
 *[p. 285]* ^pg296
@@ -522,8 +597,11 @@ God, in his own person, both created the world, and instituted a Church in Israe
 Such views dealt with key points in Christian doctrine, and it did seem that Hobbes had much in common with a very particular offshoot of the Reformation. Yet, one must again beware of hasty assimilations. With Anabaptists of all shades, Hobbes had at least two capital differences. Most of them rejected predestination as injurious to God’s benevolent nature, which they argued implied man’s free will and his capacity to gain salvation by his own endeavours.[^82] In that respect, it was the Arminians’ position
 
 [^79]: *Leviathan*, XLII:3. Bramhall commented: ‘What is now become of the great adorable mystery of the blessed undivided Trinity? It is shrunk into nothing. Upon his grounds, there was a time when there was no Trinity . . . What is now become of the eternal generation of the Son of God, if this sonship did not begin until about four thousand years after the creation were expired?’ (quoted in *Answer to the Catching of the Leviathan*, 315).
+
 [^80]: *Answer to the Catching of the Leviathan*, 316.
+
 [^81]: *Leviathan*, XLI:7–8. Needless to say the kingdom of God mentioned here is the ‘prophetical’ one, founded on a pact with the chosen people which is renewed later with Christ’s disciples.
+
 [^82]: See the Rakow Catechism, which contains the complete Socinian confession of faith, on free will: *Catechesis Ecclesiarum Polonicarum* (Stauropoli, 1684), sect. 6, ch. 10, ‘De libero arbitrio’.
 
 *[p. 286]* ^pg297
@@ -535,6 +613,7 @@ II. QUESTIONS OF LOGIC
 Trying to assemble Hobbes’s various religious doctrines into one coherent, identifiable whole requires finding—if it is possible—the logic behind them, disengaging the principles which, perhaps, serve as connecting threads between them. One basis of elucidation which immediately comes to mind is politics. The primacy of political concerns might explain the peculiar form of Hobbes’s set of doctrines. More precisely, his theory of sovereignty seems to make it necessary that he favour a national Church, support royal supremacy in ecclesiastical matters, endorse episcopacy as the most efficient instrument of Church government and as the most pliable to the sovereign’s rule. One might, in fact, go further in that direction and observe that the same logic contributes to the intelligibility of other aspects of Hobbes’s thinking in the field. The refusal to concede any divine right to bishops is very largely a political matter, in so far as what is at stake is the possible emergence of two rival forces in the commonwealth. Rejecting as fatally dangerous the distinction between a spiritual and a temporal power is not enough to secure the necessary monopoly of authority in the civil sovereign’s hands:[^84] the denunciation of the worldly ambitions of all clergies must be completed by the legal demonstration that, as shown by the example of England, bishops can only hold what prerogatives and rights are entrusted to them by the ruler and are not in a position to compete with him as regards the source of their power. Similarly, one could argue that Hobbes’s treatment of heresy can be explained by the determination to weaken the political influence of Churches. The arguments used to criticize the persecution of heretics are primarily rational, legal, and historical.
 
 [^83]: See H. J. McLachlan, *Socinianism in Seventeenth-Century England* (London: Oxford University Press, 1951); G. H. Williams, *The Radical Reformation* (London: Weidenfeld and Nicolson, 1962); T. L. Underwood, *Primitivism, Radicalism and the Lamb’s War: The Baptist-* *Quaker Conflict in Seventeenth-Century England* (Oxford: Oxford University Press, 1997).
+
 [^84]: ‘Temporal and spiritual government are but two words brought into the world to make men see double and mistake their lawful sovereigns’ (*Leviathan*, XXXIX:5). What makes this specific distinction especially dangerous is that the representatives of the so-called ‘spiritual’ or ‘ghostly’ power can take advantage of their apparent capacity to facilitate (or prevent) salvation to require the believers’ obedience at the expense of the latter’s submission to the sovereign (Ibid. XXIX:15). See also ibid. XLII:124.
 
 *[p. 287]* ^pg298
@@ -544,10 +623,15 @@ They are aimed at establishing the lack of any solid grounds for justifying such
 Although he was both God and man (in traditional doctrine, as reflected in some Hobbesian statements), Jesus never ruled over any kingdom while he lived in the flesh;[^85] it would be absurd to contend that he exercises any authority over the present world, either in a so-called spiritual way or through special representatives;[^86] his kingdom, which will begin at the resurrection, will exist on earth,[^87] and Christ will reign over it as a man,[^88] in the same subordination to his Father as Moses, the high priests, and later kings.[^89] He will then complete the fulfilment of his function, which was ‘to restore unto God, by a new covenant, the kingdom which, being his by the old covenant, had been cut off by the rebellion of the Israelites in the election of Saul’.[^90] It would be relevant to add, in this connection, that the essentially secular picture given of Christ’s presence among men is only a reflection of God’s mode of ruling over his own particular kingdom, which was made up of the Jewish people at first and was extended later to include all of Christ’s disciples: it results from the same process of contractual
 
 [^85]: ‘For as much, therefore, as he that *redeemeth* hath no title to the *thing redeemed*, before the *redemption* and the ransom paid, and this ransom was the death of the Redeemer, it is manifest that our Saviour (as man) was not king of those that he redeemed before he suffered death (that is, during that time he conversed bodily on the earth)’ (ibid. XLI:3). One might object that, according to this text, Christ as God has always reigned over men: but the point is precisely that this mode of presence of Christ in the world is explicitly rejected by Hobbes.
+
 [^86]: ‘But spiritual commonwealth there is none in this world. For it is the same thing with the kingdom of Christ, which he himself saith is not of this world, but shall be in the next world, at the resurrection, when they that have lived justly and believed that he was Christ shall (though they died *natural* bodies) rise *spiritual* bodies; and then it is that our Saviour shall judge the world, and conquer his adversaries, and make a spiritual commonwealth. In the meantime, seeing there are no men on earth whose bodies are spiritual, there can be no spiritual commonwealth amongst men that are yet in the flesh’ (ibid. XLII:128). Neither pope nor ‘presbyters’ can claim to be Christ’s representatives on earth: see XLIV:5 and XLIV:18. Consequently, ‘we are not now under any other kings by pact, but our civil sovereigns’ (XLIV:4).
+
 [^87]: ‘For if as in Adam all die (that is, have forfeited paradise and eternal life on earth) even so in Christ all shall be made alive, then all men shall be made to live on earth, for else the comparison were not proper’ (ibid. XXXVIII:3).
+
 [^88]: ‘it is evident that our Saviour’s kingdom is to be exercised by him in his human nature’ (Ibid. XLI:6).
+
 [^89]: ‘Again, he is to be king then, no otherwise than as subordinate or vice-gerent of God the Father, as Moses was in the wilderness, and as the high priests were before the reign of Saul, and
+
 [^90]: Ibid. XLI:4. as the kings were after it’ (ibid. XLI:7).
 
 *[p. 288]* ^pg299
@@ -557,10 +641,15 @@ institution as any other commonwealth;[^91] the relation between ruler and ruled
 The political logic provides a set of notions which at once inform and illuminate Hobbes’s religious doctrines. No evidence can be produced that it is reducible to mere imagery: in the world thus interpreted, God *does* hold sovereignty in the full sense of the word; Christ *is* the instrument of a new covenant; the role and place of the Church (of any Church) are properly determined by the conditions in which any commonwealth is built and functions. Another logic then comes into account, which is the historical one. The rationality of politics finds expression in theorems applicable to all nations and communities. What those maxims and dictates of reason teach can also be deduced from history, whose lessons are also of universal value. Although, as ‘the register of knowledge of fact’ and nothing else, it is below the level of science, whose registers ‘contain the demonstrations of consequences of one affirmation to another’,[^93] history can be profitable in terms of prudence and ‘moral learning’, which is why it can be good or bad: ‘in a good history the judgment must be eminent, because the goodness consisteth in the method, in the truth, and in the choice of the actions that are most profitable to be known’.[^94] There is much to guard oneself against in ‘the histories and philosophy of the ancient Greeks and Romans’, notably on the points of liberty, tyranny, and rebellion.[^95] This, however, does not mean that nothing is to be learned positively from a careful and orderly study of the past. As concerns antiquity, reliable sources exist, such as Thucydides. Hobbes himself acted as historian for England by investigating the question of the law on heresy or again by trying to identify the causes of the Civil War, most extensively in *Behemoth*. Scripture supplies irreplaceable records of men’s actions.[^96] Now, two fundamental lessons can be drawn from those various types of inquiry into apparently very different fields. One is that Churchmen all over the world have always been inspired by the same
 
 [^91]: ‘I find the KINGDOM OF GOD to signify, in most places of Scripture, a *kingdom properly so named*, constituted by the votes of the people of Israel in peculiar manner, wherein they chose God for their king by covenant made with him, upon God’s promising them the possession of the land of Canaan; and but seldom metaphorically; and then it is taken for *dominion over sin* (and only in the New Testament), because such a dominion as that every subject shall have in the kingdom of God, and without prejudice to the sovereign’ (ibid. XXXV:2).
+
 [^92]: ‘In short, the kingdom of God is a civil kingdom, which consisted first in the obligation of the people of Israel to those laws which Moses should bring unto them from Mount Sinai ; . . . , and which kingdom having been cast off in the election of Saul, the prophets foretold should be
+
 [^93]: Ibid. IX:3. restored by Christ’ (ibid. XXXV:13).
+
 [^94]: Ibid. VIII:5.
+
 [^95]: See *Leviathan* XXI:8 and XXIX:14.
+
 [^96]: ‘I see not therefore any reason to doubt but that the Old and New Testament, as we have them now, are the true registers of those things which were done and said by the prophets and apostles’ (ibid. XXXIII:20). The ‘authority’ of the Bible, in the sense of what makes it law to Christians, is a completely different issue, which, as is known, much engaged Hobbes’s attention and which it would be irrelevant to examine here.
 
 *[p. 289]* ^pg300
@@ -572,15 +661,25 @@ The anticlericalism perceptible throughout Hobbes’s political and historical w
 But who knows that this spirit of Rome (now gone out and walking by missions through the dry places of China, Japan, and the Indies, that yield him little fruit)
 
 [^97]: See VI:36, XI:26–7, XII:8–21, XXXVII:5, XXXVII:10.
+
 [^98]: See from line 71 down to line 470 in *Historia Ecclesiastica*. Edition used: original 1688 Latin edition.
+
 [^99]: In this, Hobbes’s treatise does not conform to the pattern of most works illustrating the genre of sacred history. See my ‘Hobbes and Sacred History’, in G. A. J. Rogers and Tom Sorell (eds.), *Hobbes and History* (London and New York: Routledge, 2000), 147–59.
+
 [^100]: ‘vera fides’: l. 2108.
+
 [^101]: ‘doctus’: l. 2146.
+
 [^102]: ‘magno ore loquens’: l. 1625.
+
 [^103]: ‘servam noluit esse Fidem’: l. 2214.
+
 [^104]: See *Leviathan*, I:5, VIII:27, XXIX:15, XLVI:7:18, Revision and Conclusion 16.
+
 [^105]: Ibid. XLII:3.
+
 [^106]: See the whole Appendix to the Latin version of *Leviathan*.
+
 [^107]: *Leviathan*, XII:32. As noted by Edwin Curley in his edition, Clarendon believed (to his indignation) that the Church of England was the target of Hobbes’s allusion (see Edward Hyde, *A Brief View and Survey of the Dangerous and Pernicious Errors to Church and State, in Mr. Hobbes’s Book Entitled Leviathan* (Oxford, 1676), 25). One could also argue (as Edwin Curley does: see p. 74, n. 20) that the Presbyterians deserved more than the Church of England (especially the Laudian one) Hobbes’s pique about ‘presuming of reformation’. The point is that, whichever hypothesis is justified, it is English Protestants who seem to be aimed at.
 
 *[p. 290]* ^pg301
@@ -594,7 +693,9 @@ What comes over from the constant hostility displayed by Hobbes towards theologi
 And so we are reduced to the independency of the primitive Christians, to follow Paul, or Cephas, or Apollos, every man as he liketh best. Which, if it be without contention, and without measuring the doctrine of Christ by our affection to the person of his minister (the fault which the apostle reprehended in the
 
 [^108]: *Leviathan*, XLVI:34.
+
 [^109]: See again *Leviathan*, XLVI:12–20 for the denunciation of the theory of separated essences, but also the *Historical Narration Concerning Heresy*, 387–403.
+
 [^110]: Recalling the circumstances of composition of *Leviathan*, Hobbes assumes (not wrongly) that ‘it is quite apparent’ to readers of the book ‘that the author thought the civil war which was being waged then throughout England, Scotland, and Ireland, had no other cause than the disagreement, first between the Roman Church and the Anglican, and then in the Anglican Church between the episcopal pastors and the Presbyterians concerning theological matters’ (Appendix to the Latin text, III:1). This historical thesis is argued at length in *Behemoth*.
 
 *[p. 291]* ^pg302
@@ -602,8 +703,11 @@ And so we are reduced to the independency of the primitive Christians, to follow
 Corinthians), is perhaps the best. First, because there ought to be no power over the consciences of men but of the Word itself, working faith in every one, not always according to the purpose of them that plant and water, but of God himself, that giveth the increase. And secondly, because it is unreasonable (in them who teach there is such danger in every little error) to require of a man endued with reason of his own, to follow the reason of any other man, or of the most voices of many other men (which is little better than to venture his salvation at cross and pile).[^111] Several essential themes we have already encountered are fused in this almost idyllic picture (whose actualization is yet conditional): the supremacy of Scripture as a rule of faith; the illegitimacy of any human interference with God’s guidance of his creatures; the wisdom of letting every man find his own way by himself in spiritual matters. Another, which makes a discreet appearance here, is the doctrine of Christ as the key to salvation. It is logically connected to the anti-theological motif, in so far as it suggests that true Christian faith has nothing to do with philosophical niceties and is reducible to a single message, commented on by Hobbes elsewhere in *Leviathan* and in other works:[^112] the *unum necessarium*, the one article on which the whole of the Christian creed rests and salvation depends, in other words, the belief that ‘Jesus is the Christ’, that is, ‘the king which God had before promised, by the prophets of the Old Testament, to send into the world to reign (over the Jews and over such of other nations as should believe in him) under himself eternally and to give them that eternal life which was lost by the sin of Adam’.[^113] One might think of other articles of faith as necessary to the same end, such as the belief that God is the omnipotent creator of all things, or that Jesus rose from the dead, but they can all be deduced from the *unum necessarium* (the former being implied in the observation that Jesus was the Son of the God of the Israelites, who believed in divine omnipotence, the latter being a logical prerequisite to the eternal rule of Jesus). Accordingly, one can adhere to that single article of faith and be assured of its benefits without needing any special instruction or talent: ‘In sum, he that holdeth this foundation, *Jesus is the Christ*, holdeth expressly all that he seeth rightly deduced from it, and implicitly all that is consequent thereunto, though he have not skill enough to discern the consequence.’[^114]
 
 [^111]: *Leviathan*, XLVII:20. As noted by E. Curley (p. 482, n. 4), Clarendon saw in the word ‘independency’ a clear admission of support for Cromwell and his faction (*A Brief View*, 308–9).
+
 [^112]: See *Leviathan*, XLIII:10–23; *Answer to the Catching of the Leviathan*, 345.
+
 [^113]: *Leviathan*, XLIII:11.
+
 [^114]: Ibid. XLIII:18. The natural capacity of ordinary individuals to grasp, although unclearly, the significance of Christianity’s central tenet parallels their ability to understand the basics of politics. Cf. Hobbes’s reply to the ‘objection from the incapacity of the vulgar’ concerning his theory of sovereignty: ‘But they say, again, that though the principles be right, yet common people are not of capacity enough to be made to understand them. I should be glad that the rich and potent subjects of a kingdom, or those that are accounted the most learned, were no less incapable than they’ (Ibid. XXX:6).
 
 *[p. 292]* ^pg303
@@ -613,9 +717,13 @@ Hobbes’s christocentric view of religion is at the heart of his reading of his
 The phrase ‘Word of God’ can be understood in two senses: a narrow one, in which it refers to the words spoken by God (as in the Ten Commandments), and a broad one, in which it signifies words spoken *about* God, or the ‘Doctrine of Christian Religion’.[^119] Only in the second sense
 
 [^115]: Pocock’s original interpretation of Hobbesian theology as essentially messianic is based on the acknowledgement of this fact. See J. G. A. Pocock, ‘Time, History and Eschatology in the Thought of Thomas Hobbes’, in Pocock, *Politics, Language and Time: Essays on Political Thought and History* (London: Methuen, 1972), 148–201.
+
 [^116]: ‘he that believeth Jesus to be the Christ is free from the dangers threatened to persons excommunicate. He that believeth it not is no Christian. Therefore, a true and unfeigned Christian is not liable to excommunication’ (ibid. XLII:29). That is one more reason why the Church ought to restrict its teaching to the core message of Christianity and leave the enforcement of discipline, whether in doctrine or in manners, to the state.
+
 [^117]: ‘But suppose that a Christian king should from this foundation, *Jesus is the Christ*, draw some false conclusions, that is to say, make some superstructions of hay or stubble, and command the teaching of the same. Yet seeing St. Paul says he shall be saved, much more shall he be saved that teacheth them by his command; and much more yet, he that teaches not, but only believes his lawful teacher’ (Ibid. XLIII:22). The demonstration that there can be no spiritual danger in political obedience for a convinced Christian also confirms that the extent of the sovereign’s power in matters of faith is limited and that, consequently, religious persecutions in the name of the true religion are pointless.
+
 [^118]: As will be seen at once, the problem I wish to address here is not that of biblical hermeneutics.
+
 [^119]: See *Leviathan*, XXXVI:2–3.
 
 *[p. 293]* ^pg304
@@ -623,9 +731,13 @@ The phrase ‘Word of God’ can be understood in two senses: a narrow one, in w
 can Scripture be called ‘the Word of God’, according to Hobbes, which restricts revelation to a very small number of scriptural passages and casts doubts on the notion of a divinely inspired text, since in most of the Bible, God is just spoken about. It is true to say that, in that respect, Hobbes departed from the Protestant doctrine of a self-authenticating text of entirely divine origin.[^120] Yet, what we are given here is only part of the issue. Another essential distinction made by Hobbes is that between two Words of God: the natural one, accessible to all men by the use of their reason and embodied in the laws of nature; and the prophetical one, expressed in special revelations to individual men such as Moses.[^121] Now there is practically no way to be sure that a man who says he is inspired by God can be trusted, and even supposing he were sincere, he would be unable to convey his experience of God’s inspiration to other men in any intelligible language.[^122] That is what makes the very notion of revelation a dubious one (in the eyes of Hobbes), rather than the identification of the Word of God with those words spoken by God himself, an interpretation which seems to imply that we may consider them as non-problematic. In fact, even in the case of Moses or Jesus Christ, there is no cogent reason why anyone should regard their reported words as commanding belief by themselves, and not even a lawful sovereign could force anyone to believe that they are God-inspired words or the very words of God. Apart from rational persuasion, our belief on the subject can only be induced by the two obvious ‘marks’ of a true prophet: the capacity to perform miracles and ‘the not teaching any other religion than that which is already established’.[^123] The trouble is not that false prophets can also perform miracles, for they can be recognized by their absence of conformity to the established religion, but that no more miracles have been performed since the time of Christ (who both performed miracles and preached submission to the authorities).[^124] That is the reason
 
 [^120]: One reads in the Westminster Confession of Faith of 1646: ‘The authority of the Holy Scripture, for which it ought to be believed, and obeyed, depends not upon the testimony of any man, or Church; but wholly upon God (who is truth itself) the author thereof: and therefore it is to be received, because it is the Word of God’ (§ 4); ‘The whole counsel of God concerning all things necessary for His own glory, man’s salvation, faith and life, is either expressly set down in Scripture, or by good and necessary consequence may be deduced from Scripture: unto which nothing at any time is to be added, whether by new revelations of the Spirit, or traditions of men’ (§ 6). Text from the Internet at the site: http://www.reformed.org/documents/index.html.
+
 [^121]: See *Leviathan*, XXXI:2–4; XXXII:1–6; XXXVI:5–7.
+
 [^122]: Ibid. XXXII:5–6. As a consequence, ‘though God Almighty can speak to a man by dreams, visions, voice, and inspiration, yet he obliges no man to believe he hath so done to him that pretends it, who (being a man) may err, and (which is worse) may lie’ (XXXII:6).
+
 [^123]: See *Leviathan*, XXXII:7–8.
+
 [^124]: ‘Seeing, therefore miracles now cease, we have no sign left whereby to acknowledge the pretended revelations or inspirations of any private man, nor obligation to give ear to any doctrine farther than is conformable to the Holy Scriptures, which since the time of our Saviour supply the place and sufficiently recompense the want of all other prophecy’ (Ibid. XXXII:9).
 
 *[p. 294]* ^pg305
@@ -637,6 +749,9 @@ why, on the one hand, there is no doubting that Christ, as far as he was concern
 Few certainties emerge from this survey. That Hobbes was bound to reject Catholicism as an acceptable religious option is one, for both theological and political reasons. That he could not, mostly as a consequence of his political postulates, accept any form of religious settlement implying either the separation of Church and State, let alone the supremacy of Church over State, appears as another. Combined with the feeling induced by historical considerations that changes of religion are always dangerous and that, even when they succeed, they bring few improvements, this argument provided a comparatively strong justification for remaining in the bosom of the Church of England. That such a plausible choice could possibly be a source of serene satisfaction for Hobbes is highly improbable.
 
 [^125]: See *Leviathan*, XLI:3–4.
+
 [^126]: ‘For when Christian men take not their Christian sovereign for God’s prophet, they must either take their own dreams for the prophecy they mean to be governed by, and the tumor of their own hearts for the Spirit of God, or they must suffer themselves to be led by some strange prince or by some of their fellow-subjects that can bewitch them, by slander of the government, into rebellion’ (Ibid. XXXVI:20).
+
 [^127]: Ibid. XLII:106. One must suppose that this language is to be received in a figurative sense. Otherwise, one would wonder what is become of Christ’s absence from this world until his sec-
+
 [^128]: Ibid. XL:4. ond coming.

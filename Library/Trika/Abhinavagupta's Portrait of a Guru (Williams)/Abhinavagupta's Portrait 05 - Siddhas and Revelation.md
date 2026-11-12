@@ -41,7 +41,9 @@ not to mention the very logic of Abhinavagupta’s self-representation as a Sidd
 Around the eighth century[^278] we have the earliest evidence of the Kaula scriptural tradition, which frequently refers to itself as the “Path of the Kula” (*kulamārga*) or “Kula Doctrine” (*kulaśāsana*). The Kulamārga has its origins in the milieu of the Yoginī cults[^279] that featured prominently in the early scriptures of the Śakti Tantras, specifically the scriptural witnesses with a Kāpālika[^280] aura 
 
 [^278]: See TÖRZSÖK (forthcoming): “Subsequently, a new current, kaulism, developed... perhaps around the 8th or 9th century CE.” The likelihood of an eighth-century dating is supported by SANDERSON‘s mention of a reference to Kaulas made by Vākpati, a contemporary of Bhavabhūti in eighth-century Kānyakubja, modern-day Kannauj. See SANDERSON (2006a), p. 149. This reference is cited in WALLIS (2014), p. 156.
+
 [^279]: The exact relationship between the Yoginī cults of the Vidyāpīṭha and Kaula tradition proper demands further research. See HATLEY (2007), p. 153: The distinctions between these are at once significant and problematic—problematic because the Kaula tradition appears, most probably, to have developed within and had substantial continuity with the Vidyāpīṭha, complicating a neat division between the two.”
+
 [^280]: Although SANDERSON has recently argued that the Kaula system has a direct connection with the pre-Mantramārgic “Kāpālika” ascetic tradition of the Somasiddhāntins, which he classifies on Atimārga III. See SANDERSON (2014), p. 57, footnote 220: “The proposition that the essentials of this \[Kaula\] ritual system were carried forward from the Kāpālika tradition of the Somasiddhānta (Atimārga III) must be argued in detail elsewhere. Here I merely point out that the salient features of the latter show a marked similarity between the two traditions, setting them apart from the rest of Śaivism. These features are in brief (i) erotic ritual with a female companion, (ii) sanguinary practices for the propitiation of the fierce gods Mahābhairava/Bhairava and Cāmuṇḍā, (iii) the noting that supernatural powers may be attained through the extraction by Yogic means of the vital essences of living beings (also prominent in the Kulamārga), (iv) initiation through the consumption of consecrated liquor, and (v) the centrality of states of possession (*āveśaḥ*).”
 
 *[p. 115]* ^pg127
@@ -53,7 +55,9 @@ The rites of the Yoginī and the fruits they bestowed were called *kaulika* or *
 This additional semantic layer of *kula* as “body” has extraordinary consequences that illuminate how the Kulamārga departed from early Goddess-centered Tantras. For one, envisaging one’s own body as the “Kula” effectively “internalised the whole ritual system as well as the pantheon: the *yoginīs* became goddesses of the senses in the body (*kula*) of the practitioner, and the rituals, such as *pūjā* or fire rituals, all came to be performed as internal worship in the body, 
 
 [^281]: E.g. the *Brahmayāmalatantra*, *Siddhayogeśvarīmata*, *Tantrasadbhāva*, and the *Jayadrathayāmala*. These are mentioned in HATLEY (2007), p. 153.
+
 [^282]: SANDERSON (1988), p. 679.
+
 [^283]: Ibid., pp. 679-680.
 
 *[p. 116]* ^pg128
@@ -67,8 +71,11 @@ As we will touch upon below, this internalization of the central deities of the 
 The prototypical structure of the Kaula ritual system, which was adapted in different branches over time, liturgically centered on the Goddess of the Kula 
 
 [^284]: TÖRZSÖK (forthcoming), p. 1.
+
 [^285]: Examples of this process of internalization are legion in the Kaula literature. One classic example, cited in SANDERSON (2005), pp. 116-118, is Abhinavagupta’s *Tantrāloka* 4.256: *siddhānte liṅgapūjoktā viśvādhvamayatāvide | kulādiṣu niṣiddhāsau dehe viśvātmatāvide* ‘In the Siddhānta one is required to worship the *liṅga*, with the intention that one should come to see it as embodying the whole universe; but such \[systems\] as the Kaula forbid the *liṅga* cult, so that one may \[progress to\] realize this universality in \[the microcosm of\] one’s own body.” Translation of SANDERSON. Cf. Ibid, p. 118, footnote 72: “*Mālinīvijayottaratantra* 18.2c- 3b: *mṛcchailadhāturatnādibhavaṃ liṅgaṃ na pūjayet | yajed ādhyātmikaṃ liṅgaṃ*; *Timirodghāṭana* 12.5ab: *\*liṅgaṃ* (corr. Vasudeva : *liṅga* Cod.) \**svadehe* (corr. Vasudeva : *svedeheṣu* Cod.) *sampūjyam”*
+
 [^286]: SANDERSON (1988), p. 680.
+
 [^287]: However, there is evidence of a nondual doctrine in earlier Siddhānta scriptures, notably the *Sarvajñānottara*, and in certain teachings of the *Niśvāsatattvasaṃhitā*.
 
 *[p. 117]* ^pg129
@@ -78,9 +85,13 @@ The prototypical structure of the Kaula ritual system, which was adapted in diff
 The proliferation of the Kaula system, “differentiated most obviously by the identity of the central deity,”[^290] was organized in the currently extant Kaula scripture, the *Ciñciṇīmatasārasamuccaya*,[^291] under the rubric of four transmissions (*āmnāya*), each corresponding to a cardinal direction. The Eastern Transmission (*pūrvāmnāya*) was the Kaula tradition of the Trika, which SANDERSON proposes[^292] 
 
 [^288]: SANDERSON (2014), p. 58.
+
 [^289]: Ibid. (1988), p. 61.
+
 [^290]: Ibid. (2014), p. 58.
+
 [^291]: *Ciñciṇīmatasārasamuccaya* 7.38-39: *caturṇāṃ gharam āmnāye avatāraḥ pṛthak pṛthak | devyāḥ svayaṃ prabhāvaṃ ca pūrvapaścimadakṣiṇam || uttaraṃ ca tathā devi māyayā rūpam āśritam |* *pravakṣyāmi samāsena vallabhatvād varānane*. On the relevant sections of the *Ciñciṇīmatasārasamuccaya* where each Transmission is treated, see SANDERSON (2014), pp. 58- 59, footnote 224. The *Ciñciṇīmatasārasamuccaya* itself identified with the Western Transmission (*paścimāmnaya*), and thus it is no surprise that it begins with and predominantly focuses on that system (1.1-7.37) before moving on to the Eastern Transmission (*pūrvāmnāya*: 7.38-100), Southern Transmission (*dakṣiṇāmnāya*: 7.101-154), and finally the Northern Transmission (*uttarāmnāya*: 7.155-250).
+
 [^292]: SANDERSON (2014), p. 59: “Of these the Pūrvāmnāya as outlined in this text appears to be the uninflected, original form of the Kaula; and it is closely related to that which was taught for the Trika by the *Mālinīvijayottara* (11.3-16), Abhinavagupta’s *Tantrāloka* (29.18-55), and Jayaratha’s commentary thereon. Indeed there is textual continuity between this part of the *Ciñciṇīmata* and the passages of the *Kulakrīḍāvatāra*, a text that has not otherwise survived to my knowledge, which Jayaratha quotes at length in his commentary on this section of the *Tantrāloka* to provide the scriptural authority that remains unstated in Abhinavagupta’s presentation.
 
 *[p. 118]* ^pg130
@@ -90,6 +101,7 @@ was the closest to the Kaula tradition’s original or “uninflected” archety
 The Northern Transmission (*uttarāmnāya*), which encompasses three related Kālī traditions, the Mata, Krama, and the cult of Guhyakālī, is likely the next stream in which the Kaula version of an early Goddess-centered tradition (Vidyāpīṭha) was formulated.[^294] Of these three, the Krama is by far the best preserved. In addition to two early unedited scriptural authorities, the *Devīpañcaśatikā* and *Kramasadbhāva*, the exegetical literature of the Krama is 
 
 [^293]: The main source for these surviving citations is Abhinavagupta’s *Tantrāloka*, and SANDERSON has shown Abhinavagupta’s dependence upon these and other Kaula sources in articulating his more esoteric conceptions of Trika Śaivism.
+
 [^294]: SANDERSON (1988), p. 682.
 
 *[p. 119]* ^pg131
@@ -99,9 +111,13 @@ comparatively massive.[^295] The Western Transmission (*paścimāmnāya*),[^296]
 The Kulamārga has myriad inflections of and divergent relationships to the substratum of the Vidyāpīṭha. In the early texts of the Trika that integrated Kaula materials, such as the *Tantrasadbhāva* and *Mālinīvijayottaratantra*, the Kaula system operates somewhat like a “meta-tradition,”[^299] introducing specialized teachings and ritual procedures (*kulaprakriyā* / *kulavidhi*) that accommodated and 
 
 [^295]: For the definitive study of the Kaula system known as the Krama, see SANDERSON (2007a), pp. 260-352.
+
 [^296]: SANDERSON (1988), pp. 686-688.
+
 [^297]: DYCZKOWSKI (2009), volume 3, p. 282: “The KMT \[*Kubjikāmatatantra*\] draws as much as three chapters from the TS \[*Tantrasadbhāva*\]. Subsequently, our own text \[*Manthānabhairavatantra*\], which belongs to the second phase of development of the Kubjikā corpus, drew more from it. Moreover, there are very many details of doctrine, practice, iconography and ritual in common with Trika Śaivism not only in the KMT itself but in the subsequent Tantras... It is quite reasonable to assume, therefore, that many of the redactors of the Kubjikā Tantras had close links with the Trika tradition and may well have even been originally initiates.”
+
 [^298]: SANDERSON (1988), pp. 688-690.
+
 [^299]: WALLIS (2014), p. 159: “It was a meta-tradition in the sense that any Tantric cult could be inflected in a Kaula version and re-interpreted in its terms.” This function of the Kaula system as a “meta-tradition” is also noted in DYCZKOWSKI (2009), volume 2, p. 256: “The pliable nature of Kula as doctrine and practice allowed the formation of Trikakulas and Kālīkulas, for example, within the Bhairava Tantras that thus remained Śaivite despite the very large Śākta input that Kula doctrine and practice brought into them.”
 
 *[p. 120]* ^pg132
@@ -141,6 +157,7 @@ express, in numerous and rather severe diatribes, an emphatic disdain for those 
 These variations in relationship to elements of the Kaulas’ tantric substratum are reminiscent of how the scriptures of the Mantrapīṭha and Vidyāpīṭha positioned themselves relative to the Vedic canon. In chapter two, we contrasted the Siddhānta’s Vedic congruency, couched in a narrative of scriptural supersession, to the more rejectionist attitudes of the Bhairava tantras and Śakti tantras that consciously inverted Vedic norms, particularly those related to ritual 
 
 [^304]: Ibid., p. 257: “\[The *Manthānabhairavatantra*\] warns that its teaching should not be given to Tantrics, or those devoid of the Kula practice (*kulācāravilupta*). Tantrics are said to lack devotion. They are cruel, given to hating others, untruthful, quarrelsome, proud and do not belong to the tradition (*pāramparya*). Kaula initiates should not dine with them, just as a member of a higher caste should avoid eating with one of a lower.” This attitude of rejection goes hand in hand with claims of superior soteriological efficacy. See Ibid., p. 264: ”Kulācāra leads to the Śāmbhava state, whereas Tantrācāra does not. Those who are devoted to the practice of Tantra cannot attain the Śāmbhava plane. In the Age of Strife, the Śāmbhava state and the teachings that lead to it is only transmitted through the lineage (*santāna*) of Siddhas. Tantric practice as understood here extends up to the frontier of the Śāmbhava state which ‘beyond the belly of Mahāmāyā, always stands above the Tantra’. The KuKh is very keen to make this distinction. Tāntrikas cannot manage to purify the Self from Karma. Thus there is no liberation for them here in this world, as there is in the Kula teaching.” On Ibid., p. 258, DYCZKOWSKI notes that “although the KuKhu \[*kumārikākhaṇḍa* of the *Manthānabhairavatantra*\] invariably condemns Tāntrikas and their practice as inferior, the earlier Kubjikā sources are ambiguous. For the earliest Kubjikā Tantras, like their predecessors, this is not an issue, or at least, they do not mention it.”
+
 [^305]: Ibid., p. 273: “Neither the god nor the goddess in the *Kaulajñānanirṇaya* has a specific identity. All of the gods of the Kaula type are Bhairavas and the goddesses Bhairavīs. One could say simply, in a nondescript way, that they are Śiva and Śakti. Thus one could describe the cult of the *Kaulajñānanirṇaya* as non-sectarian Kaulism. Some other works attributed to Matsyendra, such as the printed *Akulavīratantra* and the unpublished *Kulapañcāśikā* are of the same type.”
 
 *[p. 122]* ^pg134
@@ -150,6 +167,7 @@ purity. It is telling, then, that when the *Manthānabhairava* of the Western Tr
 The redactors of Kaula scriptures utilized other strategies to assert the independent and superior status of this new wave of revelation rising from within the scriptural ocean of tantric Śaivism. The *Niśvāsamukha*, we may recall, introduced a revelatory framework of five streams (*pañcasrotas*), each associated with one face (*mukha*) of Sadāśiva, that encompassed and ultimately authorized Vedic orthodoxy, lay Śaivism, Yoga, Sāṅkhya, and Pāśupata ascetic traditions, while justifying the transcendence of the Path of Mantras (Mantramārga) or initiatory Śaivism as the highest stream.[^307] The Kaula scriptures extend this 
 
 [^306]: Ibid., p. 260. See also Ibid., pp. 261-262: “Clearly, as the Kubjikā Tantras developed, their exclusive Kaula character asserted itself in various ways. One was that as the tradition grew it distanced itself progressively more from the Veda by divesting itself as much as possible of elements of Vedic ritual. The later texts repeatedly stress that the use of these six syllables is related to the Tantric modality of practice (*tantrācāra*)... the later Kubjikā Tantras took pride in being free of them and linked this absence to their capacity to lead the adept to the realization of the Śāmbhava state. Thus, ‘beyond the belly of Māyā’ and so free of the ‘sphere of *rajas*’ (*rajomaṇḍala*) and the *jāti*s, it is the western Śāmbhava tradition that ‘always stands above the Tantra.’”
+
 [^307]: On later accounts of the five streams in the Mantramārga, with significant variations in the correlations between each face, mantra, and respective stream/tradition, see HANNEDER (1998), pp. 11-20.
 
 *[p. 123]* ^pg135
@@ -157,9 +175,13 @@ The redactors of Kaula scriptures utilized other strategies to assert the indepe
 model by positing a “lower face” (*pātālavaktra* / *picuvaktra*),[^308] also envisaged as the “mouth of the Yoginī”[^309] (*yoginīvaktra*), from which a “sixth stream” of the Kaula teachings issues forth.[^310] This addition of a “lower face” that releases a “sixth” current associated with the Mouth of the Yoginī is highly suggestive of this scriptural corpus’s esoteric character.[^311] Further proof of this esotericism is found in the intensification of the rhetoric of secrecy and orality in Kaula teachings. The *Ciñciṇīmatasārasamuccaya* also describes this lower face as giving rise to the “Tree of Consciousness,” whose fruit is the “Current of Siddhas,”[^312] acknowledging the indispensability of perfected Kaula masters in the cult’s propagation. 
 
 [^308]: Another stratagem for extending the five-stream model is mentioned in HANNEDER (1998), p. 21: “In the *Vārttika* Abhinavagupta does not mention the Picuvaktra; here the source for the higher revelation lies above the upper face (Īśāna) and is simply called *ūrdhvordhva*, the one “higher than the upper”. This face, which is associated with the female power (*śakti*) of Śiva, is the source of the higher scriptures and corresponds to the higher levels inside the Trika, namely the Kula, Kaula and Mata... What is astonishing is that Abhinava does not mention one important source for this idea: the *Jayadrathayāmala*. There we find, in the section analysed by Dyczkowski \[DYCZKOWSKI 1988, p. 124\], a system of six streams which adds a higher stream to the normal five.”
+
 [^309]: DYCZKOWSKI (1988), p. 64: “The ‘Lower Mouth’, which is the Mouth of the Yoginī, is generally considered by the Kaula tradition as a whole to be the source of Kaula doctrine. From it flows the sixth current below the five currents of the Śaivāgama.”
+
 [^310]: HANNEDER (1998), pp. 20-21.
+
 [^311]: DYCZKOWSKI (1988), p. 64.
+
 [^312]: *Ciñciṇīmatasārasamuccaya* 1.29cd-1.30: *divyaughaparamānandam picuvaktran tu kaulikam |* *tanmadhyoditacidvṛkṣaṃ mūlaśākhāsuvistaram || adṛṣṭavigrahārūḍhaṃ siddhaughaphalam uttamam*. Cited and translated in DYCZKOWSKI (2009), volume three, p. 15. In the domain of ritual, the Kaula tradition attenuated the mortuary or *kāpālika* dimensions of the Vidyāpīṭha, shifting the primary locus of ritual from the cremation ground to the body and consciousness itself. This shift involved internalization and simplification of ritual processes, increasingly interiorized conceptions of divine
 
 *[p. 124]* ^pg136
@@ -173,6 +195,7 @@ Abhinavagupta’s representation of the Kaula system as pervading all other scri
 In preparation for an inquiry into the textual evidence for a distinctive model of revelation in the Kulamārga, some other distinguishing features of the tradition will be summarily sketched. HATLEY offers the following pithy synopsis:[^314] 
 
 [^313]: *Tantrāloka* 6.193cd-194ab: *adhovaktraṃ tv idaṃ dvaitakalaṅkaikāntaśātanam || kṣīyate tadupāsāyāṃ yenordhvādharaḍambaraḥ*. Translation of HANNEDER (1998), p. 20.
+
 [^314]: HATLEY (2007), pp. 156-157.
 
 *[p. 125]* ^pg137
@@ -226,9 +249,13 @@ external observances” often underwent a transformation “into yogic practice.
 Some scholars have also noted the centrality of erotic ritual in the Kulamārga.[^325] This characterization of the Kaula system often glosses over the diversity of sexual rites scattered across the pre-Kaula scriptures of the 
 
 [^321]: TÖRZSÖK (2007), p. 505.
+
 [^322]: GOODALL (2006), p. 93: “Ce rite complexe, qui implique – entre autres – de nombreuses oblations au feu, et dont la réalisation peut prendre plusieurs jours, ne se réduit pas à une simple séquence d’actes ritualisés.”
+
 [^323]: SANDERSON (1988), p. 682.
+
 [^324]: WALLIS (2014), p. 159.
+
 [^325]: WHITE (1996), p. 136: “In other words, Siddha Matsyendra, founder of the Yoginī Kaula, shifted the emphasis of early tantrism away from “terrible” practices and clan-based (Kula) system featured in the scriptures of the Vidyā Pīṭha, and towards the erotico-mystical practices that became the bedrock of later Kaulism.”; Cf. WHITE (2003), pp. 8-9.
 
 *[p. 128]* ^pg140
@@ -236,10 +263,15 @@ Some scholars have also noted the centrality of erotic ritual in the Kulamārga.
 Mantramārga,[^326] from marginal appearances in the Siddhānta scriptural literature[^327] to a mélange of erotic rituals in the Bhairava and Vidyāpīṭha tantras. Nonetheless, the Kaula scriptures definitely inaugurated “sexual practices more magical, ecstatic, or gnostic in orientation.”[^328] This signals a shift from largely instrumental sexual rites, such as those aimed at the production of sexual fluids as “power-substances to gratify the deities,”[^329] to a focus on the liberating power inherent in the intensity of orgasmic experience itself. Thus, the moment of sexual culmination came to function as “a privileged means of access to a blissful expansion of consciousness in which the deities of the Kula permeate and obliterate the ego of the worshipper.”[^330] This transformation is congruent with a general process in the Kulamārga, particularly in the Krama cult, often designated as “aestheticization”[^331] in the secondary literature. This term refers to a process whereby wheels of female goddesses are reimagined as the sequential 
 
 [^326]: For a brief survey of the significant diversity of tantric sexual rites, followed by a diachronic study of the coital ritual known as the “razor’s edge observance” (*asidhārāvrata*), see HATLEY (2016).
+
 [^327]: HATLEY (2016), pp. 335-337, notes the treatment of the “razor’s edge” coital ritual in the Niśvāsa’s *Guhyasūtra* and the *Mataṅgapārameśvara*, both Saiddhāntika scriptures.
+
 [^328]: Ibid., p. 342.
+
 [^329]: SANDERSON (1988), p. 680.
+
 [^330]: Ibid.
+
 [^331]: Although the term “aestheticization” is potentially misleading, because it potentially evokes an association with theories of aesthetics, which in Sanskritic Indian traditions are largely given over to analysis of poetry and plays. More apt is a connection to the noun “aesthesis,” whose primary meaning is sense-datum, sensation, or the process of perceiving, which although being cognitive functions fundamental to aesthetic experience, are not necessarily connected to the disciplinary domain of the arts.
 
 *[p. 129]* ^pg141
@@ -249,9 +281,13 @@ flow of cognition and the theater of sense-experience is transformed into a vehi
 The final element pioneered by Kaula paradigm to be treated here, a particularly pivotal one with respect to the post-scriptural exegesis of Abhinavagupta, is the introduction of doctrinal nonduality. SANDERSON[^332] has demonstrated that regardless of prescriptions of a ritual awareness of nonduality, the vast majority of scriptures of the Siddhānta, Bhairava cult, and Vidyāpīṭha, including Abhinavagupta’s primary exegetical source text, the *Mālinīvijayottara*, operate under the premise of a dualistic ontology. SANDERSON goes on to propose[^333] that important sectarian Kaula texts, namely those of the Trika (*Trikasāra* and *Triśirobhairava*) and Krama (*Kālīkrama*, *Devīpañcaśatikā*, *Kramasadbhāva*, and *Jayadrathayāmala*), actually propound the “nondualism of dynamic consciousness.”[^334] On the basis of these Kaula scriptural precedents, SANDERSON concludes, Abhinavagupta read a nondual ontology into “the entire non-Saiddhāntika corpus.”[^335] TÖRZSÖK has recently extended[^336] SANDERSON’s insights. Through close textual analysis she charts the subtle transitions in Śaiva 
 
 [^332]: SANDERSON (1992), “The Doctrine of the Mālinīvijayottaratantra.”
+
 [^333]: Ibid., p. 307, footnote 89.
+
 [^334]: TÖRZSÖK cites a number of instances of nondualism in these texts, and details how they fulfill “both basic criteria of nondual theology, the identity of god with the individual soul(s) and the identity of god with the phenomenal world.” See TÖRZSÖK (2014), p. 217 and Ibid., footnotes 108-109.
+
 [^335]: SANDERSON (1992), p. 307.
+
 [^336]: TÖRZSÖK (2014), “Nondualism in Early Śākta Tantras: Transgressive Rites and their Ontological Justification in a Historical Perspective.”
 
 *[p. 130]* ^pg142
@@ -261,7 +297,9 @@ scriptural sources moving from various propositions of ritual nondualism housed 
 To summarize each phase of her “roughly chronological” narrative:[^337] early Vidyāpīṭha scriptures first utilize “impure” ritual substrates while emphasizing that one should not entertain the thought of a dichotomy between pure and impure in the act of ritual propitiation.[^338] This is what is referred to above as a “ritual nondualism.” The next phase introduces “justifications” of nondualistic ritual awareness based on statements that everything in this universe is created by Bhairava, with the working assumption that impure ritual offerings have greater efficacy in tantric praxis. This led to an interrogation in “anti-ritualist Kaula texts, which postdate the scriptures of the early Yoginī cult”[^339] of not only the concept of the purity of ritual substances, but also the need for preliminary purification of the ritual agent. Why would anything in Bhairava’s intrinsically pure creation require purification? Nevertheless, certain early Kaula scriptures like the *Bhairavamaṅgalā* preserve the view that initiation does materially purify the initiate. The next step towards a radical doctrine of 
 
 [^337]: Ibid., pp. 220-221.
+
 [^338]: TÖRZSÖK makes an excellent distinction on this point: “Just as Tantras of the Siddhānta allow the use of impure substances in certain contexts for *siddhi*s, some early Yoginī Tantras give options for pure substitutes when impure substances are to be used primarily. Thus, the prescription of impurity is not always as strong and exclusive as it is usually assumed. Several reasons can be evoked to explain these options, but the most common explanation given by the scriptures themselves is that whatever is available can be used. This attitude tallies with the nondualism of these texts, which emphasizes that one should not differentiate between what is pure and impure. The practice goes back to *pāśupata* observances, in which the practitioner may eat and drink whatever is available to him, behaving like a beast (5.18 *mṛgadharmā vā*).” See TÖRZSÖK (2014), p. 220.
+
 [^339]: Ibid., p. 221.
 
 *[p. 131]* ^pg143
@@ -273,7 +311,9 @@ nonduality, exemplified by another early Kaula scripture (*Kulasāra*), is recon
 A defining hallmark of Kaula Śaivism is the placement of accomplished Kaula adepts or Siddhas at very heart of the process of scriptural transmission, resulting in a distinctive[^342] “person-centered” model of revelation. Regarding this 
 
 [^340]: Ibid., p. 221.
+
 [^341]: Ibid., p. 217: “For it is in the Krama that the supreme deity has the form of consciousness (*citsvarūpa*) while also embodying the universe (*sarvarūpa*/*viśvarūpa*)—fulfilling both basic criteria of nondual theology, the identity of the god with the individual soul(s) and the identity of the god with the phenomenal world.” On the supreme deity as the form of consciousness, TÖRZSÖK cites the following sources, Ibid., p. 217, footnote 108: “*Kramasadbhāva* 2.84 (goddesses), 3.61 (Parā Kālī), 3.77 (Anākhyā).” On the world as the embodiment of that same consciousness, see Ibid., footnote 109: “*Devīpañcaśatikā* 6.24 (*sarvarūpā*); 2.68, 3.48, 5.42 (*viśvarūpā*); *Kramasadbhāva* 1.13, 1.27, 2.73 (*viśvarūpā*); 5.42, 6.65 (*sarvarūpā*).”
+
 [^342]: The distinctive elements of this person-centered model of revelation will be further explicated in chapter four, particularly in contrast to other person-centered frameworks for *śabdapramāṇa* in early Nyāya, Sāṅkhya, Bhartṛhari’s *Vākyapadīya*, and Pātañjala Yoga. Other Indic religious communities likewise deserve attention regarding the role of individual masters in revelation, most obviously Buddhist and Jain text traditions. In future studies I hope to turn my attention to the role of agents of revelation in these traditions, in particular their tantric iterations, to consider their relationship to the Mantramārga and Kulamārga scriptural systems of Śaivism.
 
 *[p. 132]* ^pg144
@@ -287,7 +327,9 @@ This citation is part of Bhairava’s introduction to the revelatory teaching th
 In an account that closely resembles the earliest or “uninflected” template of Kaula worship,[^345] preserved in the twenty-ninth chapter of the *Tantrāloka*, the 
 
 [^343]: *Kubjikāmatatantra* 1.44-46: *sādhu sādhu mahābhāge mahānandavidhāyini | pṛcchitaṃ yat tvayā vākyam atyadbhutam anāmayam || gopitaṃ sarvarudrāṇāṃ vīrāṇāṃ bhairaveṣu ca | siddhakramaṃ nirācāraṃ tathāpi kathayāmi te || siddhamārgakramāyātaṃ siddhapaṅktivyavasthitaṃ*. Cited in DYCZKOWSKI (2009), volume 2, pp. 282-283. This translation is based on DYCZKOWSKI’s.
+
 [^344]: *Ūrmikaulārṇavatantra* 1.5ab: *śrutaṃ mayā kulāmnāyaṃ siddhapāraṃparāgatam* ‘I have learned that Kula Transmission, which is located in the tradition of Siddhas.’; *Ciñciṇīmatasārasamuccaya* 1.24ab: *siddhānvayaṃ paraṃ kaulaṃ bhuktimuktiphalapradam* ‘The lineage of Siddhas, the supreme Kaula (tradition), bestows the results of supernatural enjoyments and liberation.’ The latter quote is cited in DYCZKOWSKI (2009), volume 2, p. 405, footnote 4; *Kaulajñānanirṇaya* 16.10: *pañcaśrotātmakaṃ caiva gopitaṃ siddhagocare | tvadbhaktyā codyate nāthe anyathā na kadācana* ‘That (scriptural knowledge) consisting of five streams is hidden among the Siddhas (*siddhagocare*). On account of your devotion it is revealed now, O Queen, otherwise not at all.’ In the *Tantrāloka*, Abhinavagupta describes the Kaula scripture cited above, the *Ūrmikaulārṇava*, as “the embodiment of the lineage of Siddhas.” See *Tantrāloka* 2.48ab: *śrīmadūrmimahāśāstre siddhasaṃtānarūpake*.
+
 [^345]: SANDERSON (2014), p. 59: The Pūrvāmnāya as outlined in this text \[*Ciñciṇīmatasārasamuccaya*\] appears to be the uninflected, original form of the Kula; and it is
 
 *[p. 133]* ^pg145
@@ -325,7 +367,9 @@ Matsyendranātha[^349] or Macchandanātha, given his position as the fourth Sidd
 May he, the pervasive Lord Macchanda (Fisherman) be pleased with me; he who has cast along the outer path the net (of Māyā) which spreads and extends (in all directions). Red with attachment and strewn with knots and holes, it is made of many parts. qualification. DUPUCHE, in his translation of this chapter, notes that Abhinavagupta gives a slightly different order of the four Siddhas earlier in *Tantrāloka* 4.266-267ab. See DUPUCHE (2003), p. 203, footnote 49. However, SANDERSON offers a conjectural solution to this inconsistency. See SANDERSON (2005), p. 121, footnote 80.
 
 [^349]: Matsyendranātha came to have an “afterlife” in the Sanskrit and vernacular texts of the Nāth Saṃpradāya. Although there are narrative echoes of his original Kaula pedigree, the texts of this tradition are significantly later than and distinct from the early scriptures of the Kulamārga. On the Nāth Saṃpradāya, and Matsyendranātha’s place within it, see MALLINSON (2011), especially pp. 4-5.
+
 [^350]: DYCZKOWSKI (2009), volume 2, p. 271.
+
 [^351]: *Tantrāloka* 1.7: *rāgāruṇaṁ granthibilāvikīrṇaṁ yo jālam ātānavitānavṛtti | kalombhitaṁ bāhyapathe cakāra stān me sa macchandavibhuḥ prasannaḥ*. Translation of DYCZKOWSKI (2009), volume 2, p. 271, footnote 4. Jayaratha glosses Abhinavagupta’s plea for Macchandanātha to be pleased with him accordingly in *Tantrālokaviveka* ad *Tantrāloka* 1.7: *mama prasannaḥ stāt svātmadarśanasaṃvibhāgapātratām āviṣkuryāt ity arthaḥ* ‘*May he be pleased with me* has the following sense: may he reveal the state of being a vessel for the bestowal of vision of one’s own Self.’
 
 *[p. 135]* ^pg147
@@ -337,8 +381,11 @@ Authors of systematic texts must, as a matter of course, eulogize their own teac
 Jayaratha, in addition to supplying a rationale for why Abhinavagupta begins his string of preceptorial benedictory verses with Matsyendranātha at the outset of the *Tantrāloka*, characterizes this Siddha as the primary Agent of Revelation (*avatāraka*) in the Kulamārga. The pivotal role of this individual figure in the Kaula system is spelled out by Jayaratha a bit further on: “That (Macchandanātha) is celebrated as the Avatāraka of the entire Kaula scriptural tradition.”[^354] Further elucidating what is meant by Matsyendranātha’s prominent role in revealing the Kaula teachings in this age, Jayaratha cites an anonymous text:[^355] 
 
 [^352]: *Tantrālokaviveka* introducing *Tantrāloka* 1.7: *avaśyam eva śāstrakāraiḥ svagurvādeḥ kīrtanaṃ kāryam ataś ca vakṣyamāṇaśāstrasya kulatantraprakiyātmakatvena dvaividhye'pi… kulaprakriyāyāḥ prakriyāntarebhyaḥ prādhānyāt… tadavatārakaṃ turyanātham eva tāvat prathamaṃ kīrtayati*.
+
 [^353]: On the Kaula system’s paramountcy, Jayaratha gives the following citation. *Tantrālokaviveka* introducing *Tantrāloka* 1.7: *nabhaḥsthitā yathā tārā na bhrajante ravau sthite |* *evaṃ siddhāntatantrāṇi na vibhānti kulāgame || tasmāt kulād ṛte nānyat saṃsāroddharaṇaṃ prati* ‘Just as the stars, \[although still\] present in the sky, do not shine when the sun is out, the Siddhānta Tantras do not shine in the presence of the Kula scriptural tradition. Therefore, nothing other than the Kula (teachings) can liberate one from cyclical existence.’ This translation adapts the one found in DYCZKOWSKI (2001), p. 49, footnote 15.
+
 [^354]: *Tantrālokaviveka* ad *Tantrāloka* 1.7: *saḥ sakalakulaśāstrāvatārakatayā prasiddhaḥ*.
+
 [^355]: *Tantrālokaviveka* introducing *Tantrāloka* 1.7: *bhairavyā bhairavāt prāptaṃ yogaṃ \*prāpya* (em. : *vyāpya* Ed.) *tataḥ priye | tatsakāśāt tu siddhena mīnākhyena varānane || kāmarūpe mahāpīṭhe macchandena mahātmanā*. Translation and emendation of SANDERSON (2007a), p. 264, footnote 95.
 
 *[p. 136]* ^pg148
@@ -350,6 +397,7 @@ This verse appears to be a segment of a Kaula narrative on the descent of script
 Jayaratha portrays Matsyendranātha as the sole Agent of Revelation (*avatāraka*) of the entire Kaula tradition in this Kali Age. If this portrayal has any currency regarding the way in which the Kaula scriptures articulate their own origin, then we are confronted with a model of revelation largely dependent upon the intercession of an individual perfect Kaula master, which has no parallel in the early scriptures of the Siddhānta, Mantrapīṭha, and Vidyāpīṭha. There is evidence that Jayaratha’s portrayal is not unfounded. Numerous Kaula scriptures claim to be revealed (*avatārita*) by Matsyendranātha. SANDERSON cites five Kaula scriptures, the *Kulapañcāśikā*, *Guhyasiddhi*, *Ūrmikaulārṇava*, *Kaulajñānanirṇaya*, and *Kulānanda*, whose colophons make this attribution.[^357] Of 
 
 [^356]: For this geographical identification of Kāmarūpa or Kāmākhya, see DYCZKOWSKI (2001), p. 49.
+
 [^357]: SANDERSON (2007), p. 264, footnote 95: “Colophons of scriptures of the Kula do indeed refer to them as promulgated by him \[Matsyendranātha\]: e.g. (1) *Kulapañcāśikā*, f.6v5 (end): *iti kulapañcāsikāyāṃ śrīmats{y}end{r}apādāvatāre*; (2) *Guhyasiddhi*, f. 20r6-7: *śrīmacchagnapādāvatārite śrīkāmākhyāvinirgataḥ guhyasiddhiṣaṣṭhamaḥ paṭala{ḥ}*; (3) *Ūrmikaulārṇava* A, f. 27r7-9: *iti \*śrīnīlatantre* (*nīla* em. : *nīra* A) *śrīmadūrmikaulārṇave mahāśāstre lakṣapādoddhṛte pramarahasye śrībhogahastakramāmnāye śrīkaulagiripīṭhavirnigate śrīmīnanāthāvatārite ṣaṭśatādhikaśate kulakaulanirṇaye karmakośavicāro nāma tṛtīya{ḥ} paṭalaḥ*; (4)
 
 *[p. 137]* ^pg149
@@ -387,6 +435,7 @@ him Kaulism existed only in the diffuse form outlined above as a feature of the 
 Chapter sixteen of the early Kaula scripture, the *Kaulajñānanirṇaya*, narrativizes Matsyendranātha’s role in the scriptural dissemination of the Kaula scriptural tradition (*kaulāgama*).[^364] Earlier in this chapter Bhairava, in his dialogue 
 
 [^363]: For further corroboration of the affiliation of Matsyendranātha with the emergence of the Kaula tradition, see SANDERSON (1985), p. 203, footnote 110: “The distinction between Kula and Kaula traditions mentioned *passim* but not clarified... is best taken to refer to the clan-structured tradition of the cremation-grounds seen in *Brahmayāmala-Picumata*, *Jayadrathayāmalatantra*, *Tantrasadbhāva*, *Siddhayogeśvarīmata*, etc. (with its Kāpālika *kaulikā vidhayaḥ*) on the one hand and on the other its reformation and domestication through the banning of mortuary and all sect-identifying signs (*vyaktaliṅgatā*), generally associated with Macchanda / Matsyendra.”
+
 [^364]: The translation that follows, cited primarily in footnotes, is based on the forthcoming edition of the *Kaulajñānanirṇaya* of Shaman HATLEY. The translation of this passage benefits from the one found in DYCZKOWSKI (2009), volume 2, pp. 319-320. However, based on the improved edition of HATLEY over BAGCHI’s (which DYCZKOWSKI follows), and also thanks to having the opportunity to read this passage with Shaman HATLEY, the following translation departs from, and improves upon, DYCZKOWSKI‘s in a number of places. That said, DYCZKOWSKI does a remarkable job given the condition of BAGCHI’s edition.
 
 *[p. 139]* ^pg151
@@ -394,9 +443,13 @@ Chapter sixteen of the early Kaula scripture, the *Kaulajñānanirṇaya*, narra
 with Bhairavī, identifies himself with a list of Siddhas[^365] forefronted by his identification with the Siddha Matsyendranātha.[^366] He begins his account of Matsyendranātha by telling the Goddess that he revealed the Kaula scriptural wisdom in Kāmarūpa, the famous “Seat” (*pīṭha*) of revelation associated with Matsyendranātha.[^367] He then eludes to an earlier episode of the revelation of the Kaula scriptures at the Island of the Moon (*candradvīpa*). He reminds the Goddess that they had once visited this place where they were joined by their son Kārttikeya as a young boy (*baṭuka*).[^368] Kārttikeya, suddenly shrouded in ignorance, decided to steal the Kaula scriptural knowledge from his parents in Candradvīpa. Through the retribution of Bhairava’s curse he was transformed into a mouse.[^369] After cursing his son to assume this murine form, Bhairava scanned the ocean surrounding that Moon Island for the stolen scriptural 
 
 [^365]: This list begins at *Kaulajñānanirṇaya* 16.15, and many of the Siddha names (Viśvapāda, Vicitra, Śvetapāda, Bhṛṅgapāda, etc.) line up with the list of Siddhas found in *Kaulajñānanirṇaya*’s ninth chapter. I thank Shaman Hatley for pointing out this connection with the Siddhas mentioned earlier in the text.
+
 [^366]: *Kaulajñānanirṇaya* 16.12: *ahaṃ so bhaṭṭasaṃjñas tu matsaghnaś caiva kevaṭaḥ |* *ahaṃ so dhīvaro devi aham vīreśvaraḥ priye* ‘I am known as Bhaṭṭa and I am Matsaghna; I am Kevaṭa \[related to Kaivarta\], I am a Fisherman, and the Lord of Heroes, my dear one.’
+
 [^367]: *Kaulajñānanirṇaya* 16.21cd-22ab: *yadāvatāritaṃ jñānaṃ kāmarūpe tvayā mayā || tadāvatāritan tubhyan tatvan tu ṣaḍmukhasya ca* ‘When I revealed that scriptural wisdom in Kāmarūpa with you, at that time the essence was revealed to You and Kārttikeya.”
+
 [^368]: *Kaulajñānanirṇaya* 16.28: *ahañ caiva tvayā sārddhaṃ candradvīpagato yadā | tadā baṭukarūpeṇa kārttikeya samāgataḥ* ‘When I went to Candradvīpa with you, Kārttikeya, in the form of a young boy, came along.’
+
 [^369]: The word here for mouse, *mūṣaka*, also means “thief,” and the text is clearly playing with this double meaning.
 
 *[p. 140]* ^pg152
@@ -406,7 +459,9 @@ wisdom with his divine vision (*jñānadṛṣṭi*), ultimately retrieving it f
 This recovery was short-lived, because the mouse-Kārttikeya then spitefully burrowed an underground tunnel to pilfer the Kula *śāstra* yet again, and promptly hurled it back into the ocean where it is swallowed up by a fish of massive proportions. In a fit of anger, Bhairava wove a net of pure energy to catch this fish, yet another action aligning the god with the contaminating profession of a fisherman.[^371] Empowered by the Kaula scripture within it, the great fish, “difficult for even the gods to overcome,” could not be harnessed, and so Bhairava had to relinquish his status as a brahmin in order to fully embrace the profession of fisherman. As a fisherman he wielded the requisite skill to catch this curiously powerful fish.[^372] Meeting with success, Bhairava, having now 
 
 [^370]: *Kaulajñānanirṇaya* 16.29-31: *ajñānabhāvam āsṛtya tadā śāstraṃ hi mūṣitam | śāpito ‘yam mayā devi ṣaḍmukho mūṣakākṛtiḥ || gato ‘ham sāgaraṃ bhadre jñānadṛṣṭyāvalokitam | maccham ākarṣayitvā tu sphoṭitaṃ codaram priye || gṛhītvā matsyodarasthan tu ānītan tu gṛhe punaḥ |* *sthāpayitvā jñānapaṭṭaṃ mama gūḍhaṃ tu rakṣitam* ’Upon entering an ignorant state, \[Kārttikeya\] stole the \[Kaula\] scriptural teachings. I cursed Kārttikeya, O Goddess, that he would become a mouse. I \[then\] went to the ocean, O auspicious one, \[and\] spotted \[that scripture\] with my eye of wisdom. Having caught a fish, I split open its belly, O dear one. Retrieving the \[Kaula *śāstra*\] lying in the belly of that fish, I brought that \[scripture\] back home. Upon establishing that \[wisdom\] as a scriptural tablet, my secret teaching was safeguarded.’
+
 [^371]: *Kaulajñānanirṇaya* 16.31-16.32: *punaḥ kruddham anenaiva mūṣakena sureśvari | gārttaṃ kṛtvā suruṅgāya punaḥ kṣiptaṃ hi sāgare || daśakoṭipramāṇena mahāmatsyena bhākṣitam | mama krodhasamutpannaṃ śaktijālaṃ mayā kṛtaḥ* ‘That mouse-thief, enraged, O divine Goddess, dug a hole to form an underground passage (to steal the *śāstra*) and then hurled it back into the ocean. Swallowed up by a great fish of massive proportions, I became furious \[and\] made a net of power.’
+
 [^372]: *Kaulajñānanirṇaya* 16.34-36: *ākarṣito mahāmatsa saptānāṃ sāgaro hradā | anāgato ‘sau mahāmatsyo mama tulyabalaḥ priye || jñānatejena saṃbhūto durjayas tridaśair api | brahmatvaṃ hi tadā tyaktañ cintavīdhīvarātmakam || ahaṃ so dhīvaro devi kaivarttatvam mayā kṛtaḥ | ākṛṣṭas tu tato matsyaḥ śaktijālasamīkṛtaḥ* ‘That great fish was \[caught in the net\] and pulled from the depths of the seven seas. His strength equal to mine, that great fish did not come, O dear one. Through radiant power of the scriptural wisdom \[that great fish\] had become difficult to surmount, even by the Gods. Then relinquishing the status of a Brahman, I became a Fisherman. I am that Fisherman, O Goddess, I took on the status of a fisherman. As a result, lining up the fish with that net of power, I caught it.’
 
 *[p. 141]* ^pg153
@@ -420,6 +475,7 @@ You are a brahmin of great merit, \[but\] you took on the status of a fisherman,
 The Goddess’s main take away, for this is her only response, is that Bhairava became a fisherman entailing the loss of social status. The symbolism of the story is not deeply veiled, but does require interpretative engagement. The narrative appears to shed light on the identity of this archetypal founding figure of the Kaula scriptural tradition as ritually impure from having to kill fish, entailing the loss of his status as a brahmin. Moreover, this shift in status is directly connected with his recovery of the Kaula scriptures. This suggests that this pivotal Kaula figure’s aliases—Matsyendranātha, Mīnanātha, Macchandanātha—may reflect his lower caste identity. By extension, this narrative detail could convey the message, as DYCZKOWSKI suggests, that any brahmin who becomes initiated into 
 
 [^373]: *Kaulajñānanirṇaya* 16.37ab: *matsyodaran tu tat sphoṭya gṛhītañ ca kulāgamam* ‘Splitting open that belly of the fish, the Kulāgama was retrieved.’
+
 [^374]: *Kaulajñānanirṇaya* 16.38: *brāhmaṇo ‘si mahāpuṇyo kaivarttatvaṃ tvayā kṛtaḥ |* *matsyābhighātino viprā matsaghnaṃ ceti viśrutā | kaivarttatvaṃ kṛtaṃ yasmāt kaivartto vipranāyaka*.
 
 *[p. 142]* ^pg154
@@ -429,8 +485,11 @@ the Kulamārga must also suffer a corresponding loss of status.[^375] “However
 In terms of a model of revelation, this narrative offers further evidence that the Siddha Matsyendranātha, whatever the pedigree of his human history or divine identity as an incarnation of Bhairava, was seen as ensuring the transmission of the Kula doctrine in this age. In the same vein, the *Kaulajñānanirṇaya* shares the Kaula convention that aligns different waves of Kaula revelation with each of the Four Ages,[^378] and describes the scriptural corpus of the Kali Age as “Matsodara”—“\[the revelation recovered by 
 
 [^375]: DYCZKOWSKI (2009), volume 2, p. 321: “It sounds at first that the original Matsyendra was indeed a low-caste fisherman and that his authority to recover—or, some might prefer, compose—*śāstra* is derived from his being originally a Brahmin. Again, the fact that the *śāstra* is inside a fish compels the person who wishes to recover it to kill it. In other words, the Brahmin Matsyendra had to fall from his high caste to that of a low caste fisherman in order to gain access to the Kulāgama. The message is that this is the ‘fall’ every Brahmin will have to undergo.”
+
 [^376]: Ibid., p. 321
+
 [^377]: For an excellent and robust description of this process, especially with reference to the post-scriptural literature of Kashmir, see SANDERSON (1985), “Purity and Power among the Brahmans of Kashmir.”
+
 [^378]: *Kaulajñānanirṇaya* 16.48cd: *caturyugavibhāgena avatāraṃ coditam mayā* ‘In accordance with the divisions of the Four Ages, I cause that \[scripture\] to descend.’
 
 *[p. 143]* ^pg155
@@ -442,6 +501,7 @@ Matsyendra from\] the Belly of the Fish.”[^379] Thus, at least for the current
 Notwithstanding Matsyendranātha’s widespread recognition as a hallowed revealer of Kaula scripture, there are other individual Siddhas who feature in revelation narratives and thus further corroborate the emphasis upon individual Siddhas in the scriptural propogation of the Kulamārga. One example is Niṣkriyānanda who is credited with revealing Kaula teachings of the cult of the Northern Transmission known as the Krama tradition. One Krama scripture, the 
 
 [^379]: *Kaulajñānanirṇaya* 16.49: *jñānādau nirṇṇitiḥ kaulaṃ dvitīye mahatsaṃjñitam | tṛtīye siddhāmṛtan nāma kalau matsodaram priye* ‘O dear one, in the first \[age\] scriptural wisdom is known as Nirṇṇiti. In the second \[age\] the Kaula is known as Mahat. In the third, there is the Nectar of the Siddhas (Siddhāmṛta), and in the Kali Age, the Fish Belly (Matsodara).’
+
 [^380]: The early Kubjikā Kaula scripture, the *Kularatnoddyota*, tips its hat towards Matsyendra as the key figure in the tradition it inherits. *Kularatnoddyota* 10.153ab; 10.154: *paścimedaṃ svabhāvena kulāmnāyaṃ kuleśvari | mīnapādāṅkasaṃyuktaṃ pūrvāmnāyaṃ bhaviṣyati |* *pīṭhakramasamāyuktaṃ tatsantānasamanvitam* ‘O mistress of the Kula, this is by its very nature the last (*paścima*) Kula tradition... The previous tradition will possess the mark of the venerable Mīna(nātha) and the transmission of the sacred seats and that lineage. Translation of DYCZKOWSKI (2009), volume 2, p. 321. In the next chapter there is an abbreviated version of the story of Matsyendranātha. *Kularatnoddyota* 11.39-45: *tasyodare mahāsiddho ājñāvīryodbhavaḥ priye | bhaviṣyati mahāmāye tacchāstrābhyāsakṛt svayam || jñānayogena tacchāstraṃ kṣiptaṃ putreṇa sāgare | śaktijālena tanmatsyaṃ ākṛṣya tarasā priye || udare tasya matsyasya pāṭhayiṣyati siddharāṭ | tanmadhye pustakābhyāsaṃ kurvantam eti dīptimān* *||vīkṣayiṣyati taṃ dṛṣṭvā apūrvaṃ codyam uttamam | apūrvedaṃ mayā dṛṣṭaṃ āścaryaṃ vismayāvaham || tasmāt tvaṃ matsya udarāj janmāntaram avāptavān | matsyendranāmabhavitaṃ tavedaṃ vibhavottamam || tavaiṣā vipulā kīrtir bhaviṣyati mahītale | tvatsantānam idaṃ vatsa pūrvāmnāyeti saṃjñayā || paścimasya tu mārgasya pratibimbam iva sthitam | ānandāvalibhedaiś ca śobhitaṃ siddhidāyakam.* See DYCZKOWSKI (2009), volume 2, p. 322, for a translation of this passage. Ibid., p. 323 goes on to mention other brief references to this narrative in the *Ciñciṇīmatasārasamuccaya* and *Manthānabhairava*.
 
 *[p. 144]* ^pg156
@@ -451,7 +511,9 @@ Notwithstanding Matsyendranātha’s widespread recognition as a hallowed reveal
  Niṣkriyānanda’s appearance in other sources as teaching his disciple Vidyānanda (the second guru in the *Devīpañcaśatikā*’s list of Krama Siddhas) the Kālī-based Krama tradition of the Kulamārga confirms the view that Krama scriptures memorialize him as the Siddha who first transmitted the Krama system. In fact, beyond Niṣkriyānanda’s presence inaugurating lists of Krama teachers,[^383] the *Ciñciṇīmatasārasamuccaya* records a narrative of the events 
 
 [^381]: *Devīpañcaśatikā* 3.9-15ab.
+
 [^382]: *Devīpañcaśatikā* 3.15cd-17: *niṣkriyānandanāthaś ca jñānadīptyā sahaikataḥ ||vidyānandaś ca raktā ca dvitīyaḥ kathitas tava | śaktyānando mahānandaḥ tṛtīyaḥ siddhapūjitaḥ || śivānando mahānandaḥ samāyātaś caturthakaḥ | khagendrādyādisiddhānāṃ kathitā gurusantatiḥ* ‘The first \[couple\] is Niṣkriyānanda is accompanied by Jñānadīpti. The second is taught as Vidyānanda and Raktā. The third set that is venerated by the Siddhas is Śaktyānanda and Mahānandā. The fourth Śivānananda of great bliss and Samayā. The guru lineage of the Siddhas beginning with Khagendra\[nātha\] is thus taught.’ This passage is cited in *Tantrālokaviveka* introducing *Tantrāloka* 29.43-46ab and mentioned in DYCZKOWSKI (2009), volume 2, p. 315, footnote 1.
+
 [^383]: The *Yonigahvaratantra* also records the same lineage of Krama Siddhas, with a slight variation in the identity of Śivānanda’s consort, who is documented there as Ratnā. See *Yonigahvaratantra* fl. 17b, which is referenced in DYCZKOWSKI (2009), volume 2, p. 371, footnote 4.
 
 *[p. 145]* ^pg157
@@ -487,7 +549,9 @@ By way of introduction to this episode, Niṣkriyānanda is described as first p
 The fourth Siddha in this line of Krama teachers is Śivānanda, which is an alias of another central guru of the Krama tradition, Jñānanetra.[^388] This Siddha 
 
 [^386]: *Ciñciṇīmatasārasamuccaya* 7.178cd-180ab: *hitvā bhāvaṃ na gṛhṇāti yadā bhāvāntaraṃ citiḥ ||* *tadā tat paramaṃ brahma svasvabhāvaṃ pravartate | etat kaulāmṛtaṃ siddhaṃ yoginībhir udāhṛtam* *|| niṣkriyānandapādaiś ca bhūtale saṃprakāśitam* ‘Upon abandoning one state, when consciousness does not grasp the next state \[that arises\], ultimate reality manifests as one’s own essential nature. This \[realization\] is declared by the Yoginīs to be the perfect nectar of the Kaula \[tradition\], which was brought to light on earth by the venerable Niṣkriyānanda.’
+
 [^387]: *Tantrāloka* 29.43-45ab: *anyāś ca gurutatpatnayaḥ śrīmatkālīkuloditāḥ | anāttadehāḥ krīḍanti tais tair dehair aśaṅkitāḥ || prabodhitatathecchākais tajje kaulaṃ prakāśate | tathārūpatayā tatra gurutvaṃ paribhāṣitam || te viśeṣān na saṃpūjyāḥ smartavyā eva kevalam* ‘Other gurus and their wives are cited in the illustrious Kālīkula. Having no bodies, they amuse themselves fearlessly with various bodies. Since they have desired \[the particular amusement\] (*tathā*) of enlightenment, the kaula shines forth in their offspring. Because they have taken on a form of that sort, guruhood is acknowledged in their case. These \[gurus and their wives\] are not to be worshipped especially, they are only to be called to mind.” Translation of DUPUCHE (2003), p. 209. It should be noted that Abhinavagupta does not mention the names of these gurus, but Jayaratha’s introduction to this verse identifies them as the Siddhas listed in the Kālīkula scripture, the *Devīpañcaśatikā*, cited above.
+
 [^388]: SANDERSON (2007a), p. 274, footnote 132.
 
 *[p. 147]* ^pg159
@@ -495,8 +559,11 @@ The fourth Siddha in this line of Krama teachers is Śivānanda, which is an ali
 stands at the threshold of legendary agents of revelation in the Kaula scriptures and the post-scriptural Krama literature that flourished in Kashmir, and so we will return to him in the next chapter on “Siddhas in Kashmir.” Jayaratha reserves the same expression he gave to Matsyendranātha, Agent of Revelation (*avatāraka*), when describing his position in Krama’s scriptural transmission.[^389] One Krama scripture unambiguously identifies Jñānanetra as its revealer, the *Yonigahvara*,[^390] which credits him with bringing its teachings to light on earth (*bhūtala*) in the cremation-ground of Karavīra (/ Karavīraka) in the holy Seat of the North (*uttarapīṭha*), a reference to Uḍḍiyāna located in what is now the Swat Valley of Pakistan.[^391] SANDERSON speculates that two other early Krama scriptures, the *Devīpañcaśatikā* and *Kramasadbhāva*, may also ascribe the same role to Jñānanetra, given that both their colophons claim these scriptures were revealed (*avatārita*) by the illustrious Śrīnātha (another name of Jñānanetra) in the Northern Seat.[^392] This identification is further supported by fact that the cremation-ground Karavīra of Uḍḍiyāna, where Jñānanetra is said to have revealed the *Yonigahvara*, is hauntingly depicted as the location of the frame-story
 
 [^389]: Ibid., p. 264, footnote 93.
+
 [^390]: *Yonigahvara* f. 1v2-3 (vv. 1-2): *śrīmaduttarapīṭhe tu śmaśāne karavīrake | sarvayoginīmelāpe \[ +* *+ + + ni\]rāmaye | yonigahvaram uddhṛtya mantrasadbhāvam uttamam | śrījñānanetranāthena bhūtale saṃprakāśitam*. Cited in SANDERSON (2007a), p. 264, footnote 96.
+
 [^391]: On the location of Uḍḍiyāna, and its relocation to Kashmir in the Krama literature of that region, see SANDERSON (2007a), pp. 265-268.
+
 [^392]: See SANDERSON (2007a), p. 264, footnote 97. There is he cites the colophons accordingly: *Kālīkulapañcaśataka* colophons: *śrīmaduttarapīṭhodbhūte śrīśrīnāthāvatārite śrīkālikākule pañcaśate*; *Kālīkulakramasadbhāva* colophons: *śrīmaduttarapīṭhavinirgate śrīnāthapādāvatārite śrīkālikākulasadbhāve*.
 
 *[p. 148]* ^pg160
@@ -534,6 +601,7 @@ Although spotlighting individual Siddhas—Matsyendranātha, Niṣkriyānanda, J
 *anādighorasaṃsāravyādhidhvaṃsaikahetave | namaḥ śrīnāthavaidyāya kuloṣadhividhāyine* ‘I offer salutations to the Lord of the Kula who bestows the Kaula realization, the embodiment of scriptural knowledge and wisdom! O glorious Macchanda, salutations to you! Salutations to Śrīnātha, the physician who in prescribing the medicinal herb of the Kula \[tradition\], is the sole cause for the eradicating the poison of dreadful cyclical existence that is beginningless.’
 
 [^397]: SANDERSON (1988), p. 684: “The claim of superiority \[of the Krama over the Vidyāpīṭha\] is also expressed by the fact that the two scriptures mentioned reject the universal convention of the Bhairava Tantras which has Bhairava teach the Goddess. Here the roles are reversed. The Goddess teaches Bhairava. For she embodies what he cannot know, the cycle of cognitive power which constitutes his own self-awareness.”
+
 [^398]: E.g. *Devīpañcaśatikā* 1.26cd-33ab: *caturdhā kālikāmnāyaṃ mukhān mukhagataṃ priye || etat sarvam aśeṣeṇa vada me ‘nugraho yadi | yad adyāpi na vijñātaṃ khecarībhiḥ kadācana || yena vijñātamātreṇa vrajāmi padam avyayam | saṃsārabhayabhītasya trātā nānyo ‘sti bhairavi || tvadṛte saṃśayasyāsya nānyo vimokṣaṇakṣamaḥ | śrībhairavy uvāca | kaṣṭaṃ kaṣṭaṃ mahārudra praśnaṃ praśneṣu cottamam || atighorātighoraṃ tu praśnam uktaṃ tvayā hara | tvad ṛte ‘nugrahaḥ kasya buddhikauśalyabhāvitaḥ || na kenacid ahaṃ rudra pṛcchitā kālikākramam | durbodhaṃ sarvasiddhānāṃ vyomeśīnāṃ maheśvara || tat krameṇa pravakṣyāmi mukhapāraṃparāgatam | yan na devair na gandharvair nāsurair munibhis tathā || na khecarībhiḥ siddhaiś ca na jñātaṃ paramārthataḥ* | ‘O beloved \[Goddess\], teach me all about this four-fold Kālikā tradition, which is handed down through oral transmission, in its entirety. \[Teach me that tradition\] which even today is not completely understood by Sky-faring \[Yoginīs\], by merely cognizing which I will attain the eternal state. O Bhairavī, besides you, there is no other protector of a person who is terrified of cyclical existence; \[besides you\] there is no one capable of liberating a person from this doubt. Bhairavī said, Alas, Alas, O great Rudra, this is the supreme question. O Śiva, you have asked a most powerful question. Other than you, who could receive that grace (*anugraha*) that generates mental prosperity? O Rudra, no one has asked about this Kālikākrama \[tradition\], which is unfathomable to \[adepts\] endowed with every supernatural power and to Sky-Goddesses. I will teach \[you\] that \[Kālikā Transmission\] in the right order, which is the reserve of the oral tradition, and whose ultimate meaning is not known by Gods, Gandharvas, Asuras, Sages, Sky-faring \[Yoginīs\], or Siddhas.’
 
 *[p. 150]* ^pg162
@@ -559,6 +627,7 @@ whose dedication to Śiva and inspired flute serenade act as a harbinger of reve
 We should also recall from chapter two that the Vedic seers and sages are not present in the Bhairava tantras and early Vidyāpīṭha scriptures.[^400] In the latter category of texts, the revelation narrative of the *Brahmayāmalatantra* opts for a host of initiated tantric teachers entrusted with scriptural dissemination by the Goddess, on Bhairava’s command. These new characters in the great chronicle of the *Brahmayāmala*’s revelation, suddenly re-languaged in a prophetic future tense, hail from diverse locales across the Indian subcontinent and represent a wide spectrum of social backgrounds. This passage also includes a narrative treatment of one tantric guru particularly pivotal to the dissemination of the scripture, Svacchandabhairava. As a whole, the *Brahmayāmala*’s representation of its own revelation “tacitly acknowledges the role of human agency—through the medium of the tantric guru—in the production of scriptural literature.”[^401] This introduction of non-Vedic gurus as key transmitters of the scripture presages the Kaula scriptures embrace of Kaula Siddhas as preeminent agents of revelation 
 
 [^400]: With the important exception of the *Mālinīvijayottara*, which will be dealt within chapter four.
+
 [^401]: HATLEY (2007), p. 228.
 
 *[p. 153]* ^pg165
@@ -568,6 +637,7 @@ and the lineage of Siddhas as a core element in the tradition’s self-conceptio
 Regardless of the important contributions of the *Brahmayāmalatantra*, the Kaula conception of revelation represents a radical departure from earlier tantric streams for three reasons. First of all, none of the scriptural mediators in the Mantramārga or Vidyāpīṭha appear in the central *maṇḍala* (deity-enthroning diagram) of their respective cults of worship.[^402] Therefore, the presence of the Yuganāthas (ending with Matsyendranātha and Koṅkaṇāmbā) within the original Kaula *maṇḍala* where they are propitiated alongside Kuleśvarī, Kuleśvara, the eight Mother Goddesses, Gaṇeśa, and Baṭuka, symbolically highlights the Kaula Siddhas’ entrance into and exaltation within the very heart of the tradition. Secondly, in the entire extant corpus of the early Mantramārga, including the Siddhānta, Bhairava, and Śakti Tantras, there is no evidence of a single agent of revelation being lionized as the sole promulgator (*avatāraka*)[^403] of 
 
 [^402]: However, in a hymn by Aghoraśivācārya, the *Pañcāvaraṇastava* (verse 16), there is a point in the daily *pūjā* when one worships a line of gurus, which consists of seven figures, many of whom are mediators of revelation in the *tantrāvatāra*s of the Siddhānta scriptures, such as Śrīkaṇṭha. Although this is different than positioning agents of revelation in the central *maṇḍala*, it is clearly a related phenomenon. I thank Dominic GOODALL for this reference.
+
 [^403]: Promulgator is SANDERSON’s translation of *avatāraka*, which he notes is “used to denote a divine or semi-divine promulgator of scripture throughout the Śaiva Mantramārga.” See SANDERSON(2007a), p. 264. I have been translating *avatāraka* as “agent of revelation” above. Even though this term is indeed common in the Mantramārga, the point I am making here is that, *pace* the Kulamārga, we don’t find one individual *avatāraka* in the form of a tantric guru given responsibility for the revelation of an entire scriptural corpus in early scriptures of tantric Śaivism. One borderline exception to this supposition is the retrospective isolation and exaltation of the divine deity-guru Śrīkaṇṭha as the primary teacher of the Mantramārga, which will be considered in chapter four.
 
 *[p. 154]* ^pg166

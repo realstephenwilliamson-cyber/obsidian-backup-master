@@ -21,9 +21,13 @@ God;[^188] indeed, in these is Christ recognizable as God by one suffering.[^189
 It is hoped that this chapter has presented a sympathetic discussion of Barth’s doctrine of election, which has sought to identify, emphasize and accentuate elements of Barth’s own dogmatics to allow a clearer
 
 [^188]: Balthasar, The Theology of Karl Barth, emphasizes the risk in election for God since He in creating actually knows how the creation will turn out, and yet still commits Himself to it (176 7).
+
 [^189]: It is the fulfilment of [[John 20#^20-25|Jn 20.25]] that leads Thomas at 20.28 to say, ‘My Lord and my God!’
+
 [^190]: Cf. IV/3, 713 14.
+
 [^191]: II/2, 183.
+
 [^192]: See Chs 5 and 7 below.
 
 *[p. 53]* ^pg78
@@ -31,8 +35,11 @@ It is hoped that this chapter has presented a sympathetic discussion of Barth’
 sense of the place of particularity both as the basis of universal salvation and as existing within universal salvation.[^193] Throughout, it has been clear that there is a repeated conceptual emphasis on simultaneity in Barth’s thought—a simultaneity which points to a particularist understanding of Christian universal salvation grounded in the particular person of Jesus Christ.[^194] In the move to emphasize the election of God in resurrection, it is hoped that this theme might be brought out more fully, with a positive effect on the conceptions of the humanity of Christ, eternity and freedom, and participation in Christ. In these considerations, it has been noted that emphasis needs to be placed on the simultaneity of the Christ who as human elects God alongside the God who elects humanity. It is this which might allow for a fuller role of particularity to bear the weight of the universal salviWc implications of the doctrine of election.[^195] Throughout, it is hoped that it has been demonstrated that the universal salviWc implications of the doctrine of election do not undo particularity, but are grounded in the particularity of Jesus Christ. Against certain presentations of Barth’s doctrine, this chapter has sought to ensure that Christ Himself is not reduced to being a principle, but is understood fully as a person. In this way, although the implications of Barth’s doctrine of election may seem to present some form of universalism, Barth’s ‘universalism’ (for all of the anxieties he had with the term) is something new: as grounded in the election of humanity in Christ, belief in the final victory of Jesus does not remove human particularity, freedom, temporality and will; it grounds them.[^196]
 
 [^193]: It is hoped that this account has followed the suggestion that where the real weaknesses of Barth do exist, they do not deserve the harshness of some critiques, but rather as Barth would wish should be treated as foundations to be built upon by the generations that follow (Gunton, ‘The Triune God and the Freedom of the Creature’, 66).
+
 [^194]: There is not space in this chapter to consider Barth’s relation to other particu lar faiths. The reader is referred to Glenn Chestnutt, ‘The Secular Parables of the Kingdom’ (paper presented at the Society for the Study of Theology, Leeds, 2006); Carys Moseley, ‘Karl Barth’s Theology of Religion: Interpreting Religious Change Yesterday and Today’ (paper presented at the Society for the Study of Theology, Leeds, 2006); and Greggs, ‘Bringing Barth’s Critique of Religion to the Inter Faith Table’.
+
 [^195]: This theme of particularity in salvation is developed far more fully in Ch. 5 with regard to Barth’s theology.
+
 [^196]: See Greggs, ‘Jesus Is Victor’, 204 12.
 
 *[p. 54]* ^pg79
@@ -46,6 +53,7 @@ sense of the place of particularity both as the basis of universal salvation and
 This chapter seeks to explore the relationship between pre-existence and restoration in Origen’s soteriology. It wishes to consider how eschatology and protology are mutually self-determining in Christ who is simultaneously Alpha and Omega. It will do this by charting the journey of the soul in Origen’s theology from pre-existence to restoration, considering the connection between Origen’s two highly controversial doctrines of the pre-existence of the soul and the universal restoration of all things. It is considered that this connection is the foundation for speaking about Origen’s soteriology,[^1] and marks Origen’s way of discussing the chief concern of philosophy contemporary to him—the question of the relationship between God and humanity in providence.[^2] The material contained herein will be developed creatively and formatively for the question of universal salvation in Chapter 4 of this book. Throughout, it is intended that there should be a sensitivity to the relationship between particularity and universal salvation: the universalism Origen presents is one which in no way undermines particularity; instead, it is one which arises out of and results in particularity.
 
 [^1]: See Celia E. Rabinowitz, ‘Personal and Cosmic Salvation in Origen’, Vigiliae Christianae 38 (1984). Although this aspect of her conclusion should be accepted, the present writer would not wish to distinguish so sharply between eschatology and soteriology for Origen.
+
 [^2]: Daniélou, Origen, cites this as a chief concern of the philosophy of Origen’s time (74 and 205).
 
 *[p. 55]* ^pg80
@@ -59,7 +67,9 @@ The doctrine of pre-existent souls has been condemned as heterodox,[^3] and cons
 For Origen, the soul (anima) is a substance which may be described as sensibilis or Γ φανταστικὴ and mobilis or . ὁρμητικὴ, and which exists in all living things.[^5] Origen believes that the word ψυχὴ comes from ψύχεσθαι, which indicates the cooling that takes place as the soul moves away or is moved away from its participation
 
 [^3]: The Ecumenical Council of 553 condemned it with the words, ‘If anyone asserts the fabulous pre existence of souls, and the monstrous restitution which follows from it, let him be anathema.’ This followed Ephiphanius’ attacks on Origen. See Jon F. Dechow, ‘The Heresy Charges against Origen’, in Origeniana Quarta, ed. Lothar Leis (Innsbruck: Tyrolia Verlag, 1987), esp. 113 14. However, one should note that Pamphilus could not treat Origen as a heretic for his understanding of pre existence because nothing certain is said in scripture regarding the matter, as observed in Crouzel, Origen, 208.
+
 [^4]: See Mark J. Edwards, Origen against Plato (Aldershot: Ashgate, 2002), 89. Others, however, point one towards the Platonic nature of this doctrine. Heine states that one can see this clearly regarding HomEx. 2.1 in its discussion of the soul of Pharoah ‘remembering’ paradise. In HomEx. 2.1n., Heine interprets this using De Princ. 1.4.1; 2.8.3 4; 2.9.1 2,6, and directs the reader to Plato’s Phdr. 246 B D. Similarly, Stead sees Origen’s doctrine as analogous to Platonic thought, despite all the criticism Origen mounts against Platonic theory (G. C. Stead, Substance and Illusion in the Christian Fathers (London: Variorum Reprints, 1985), 175), although he also points to similar ity with Philo (184). Daniélou, Origen, also sees the doctrine as Platonic (206), as does Crouzel, Origen, 207. Osborne sees the doctrine as ‘Origen’s Stoic world under a Platonist heaven’ (Eric Osborne, ‘The Apologist Origen and the Fourth Century: From Theodicy to Christology’, in Origeniana Septima: Origenes in Den Auseinander setzungen Des 4. Jahrhunderts., ed. W. A. Bienert and U. Kühneweg (Leuven: Leuven University Press, 1999), 55). However, Bostock traces the doctrine of pre existence through Philo to the biblical and Jewish foundation of the doctrine (Gerald Bostock, ‘The Sources of Origen’s Doctrine of Pre Existence’, in Origeniana Quarta).
+
 [^5]: Albeit there is no evidence that angels have souls (De Princ. II.8.1).
 
 *[p. 56]* ^pg81
@@ -69,13 +79,21 @@ in the divine fire. This cooling in fervour from the divine fire (along with sat
 Considering more directly the specific issue of pre-existence, the soul is clearly demarcated from the flesh in Origen’s anthropology; and the pre-existence of the soul does not involve in any way a pre-existence of the body. Instead, the soul is implanted into the body from without.[^12] Indeed, souls are considered to ‘descend’ into bodies.[^13] Therefore, their pre-existence is a pre-existence prior to the existence of the body. However, at no point is the soul without some form of bodily dress: only the Trinity is incorporeal for Origen.[^14] Perhaps the best way to
 
 [^6]: De Princ. II.8.3.
+
 [^7]: G. L. Prestige, God in Patristic Thought (London: SPCK, 1952), 51. Anatolios suggests that, despite Origen’s tendency to link the divine being too closely with the world, his intention was quite the opposite to safeguard divine transcendence (Kahled Anatolios, ‘Theology and Economy in Origen and Athanasius’, in Origeniana Septima, 166).
+
 [^8]: De Princ. II.8.4.
+
 [^9]: De Princ. II.8.5.
+
 [^10]: E.g. De Princ. II.8.4.
+
 [^11]: De Princ. II.8.5. Cf. Rowan A. Greer, The Captain of Our Salvation: A Study in the Patristic Exegesis of Hebrews (Tübingen: J. C. B. Mohr, 1973), 45; and Aloys Grillmeier, Christ in Christian Tradition: Vol. I: From the Apostolic Age to Chalcedon (451), trans. John Bowden, reprint, 2nd edn (London and Oxford: Mowbrays, 1975), 146.
+
 [^12]: De Princ. I.7.4. In what follows Origen suggests this is even more the case for the sun, moon, and stars.
+
 [^13]: CommJoh. VI.25.
+
 [^14]: Crouzel, Origen, 91; cf. De Princ. I.1. As Daniélou points out, corporeality is not bad in itself for Origen, as evil is exercised in the will alone: being in a body may be some form of punishment for Origen, but punishments are meant to restore (Daniélou, Origen, 218).
 
 *[p. 57]* ^pg82
@@ -85,7 +103,9 @@ understand pre-existence is alongside Edwards: ‘The essences of creatures are 
 What is clear from the beginning of Origen’s consideration of the pre-existence of the soul is that any notion of its pre-existence involves both unity and diversity, and in diversity an element of
 
 [^15]: Mark J. Edwards, ‘Christ or Plato? Origen on Revelation and Anthropology’, in Christian Origins: Theology, Rhetoric and Community, ed. Lewis Ayres and Gareth Jones (London and New York: Routledge, 1998), 17.
+
 [^16]: CommJoh. II.24.
+
 [^17]: However, Bianci sees a tension in Origen’s thought over transcorporation (Ugo Bianci, ‘Origen’s Treatment of the Soul and the Debate over Metensomatosis’, in Origeniana Quarta). Similarly, Hanson asserts that Origen rejects transmigration of souls so strongly because his own doctrine of pre existence is ‘embarrassingly like it’ (R. P. C. Hanson, Allegory and Event. A Study of the Sources and Significance of Origen’s Interpretation of Scripture (London: SCM, 1959), 217). Nevertheless, it must be recognized that Origen is emphatic about the rejection of this throughout a number of his works. E.g. CommJoh. VI.7; CommMt. X.20, XIII.1 2; CCel. III.75, VIII.30; and HomLk. 4.5. Although the identity of a human changes (in regress and progress), it remains singular to the person who exercises her free will. Where people are identified together (for example, John and Elijah as in many of the above examples) it is the ‘spirit’ and not the soul which are identified.
 
 *[p. 58]* ^pg83
@@ -95,10 +115,15 @@ individuality. Although the starting point of all souls is the same in participa
 One sees this thought on pre-existence exemplified in Origen’s discussion of Esau and Jacob. Origen advocates that God’s preference is dependent on their previous existences. This should be applied to all creatures, each one of which must recognize ‘the causes of diversity antecedent to his birth in the body’.[^23] This does not remove any notion of free will. Instead, the body (or vessel) created is created in
 
 [^18]: Daniélou, Origen, states that the starting point of Origen’s speculations is ‘the empirical realization of the inequality existing in the conditions of created spirits’ (209). Cf. Frances Young, Biblical Exegesis and the Formation of Christian Culture (Cambridge: Cambridge University Press, 1997), 25; and Basil Studer, Trinity and Incarnation: The Faith of the Early Church, ed. A. Louth, trans. Matthias WesterhoV (Edinburgh: T. & T. Clark, 1993), 78ff.
+
 [^19]: De Princ. I.5.4.
+
 [^20]: This is contrary to the Valentinian view of election (CommRom. 8.11.2 cf. 1.3.1). Instead, for Origen, all souls come from God. See, for example, [[Philippians 01#^1-23|Phil. 1.23]]. Origen emphasizes free will’s role in the fall in his statement: ‘For the soul always possesses freewill, both when in the body and when out of the body; and the will’s freedom always moves in the direction either of good or of evil, nor can the rational sense, that is, the mind or soul, ever exist without some movement either good or evil’ (De Princ. III.3 5).
+
 [^21]: From the surviving texts, this seems in some sense to be a fall prior to Adam and Eve’s individual (and lesser) fall. See C. P. Bammel, ‘Adam in Origen’, in The Making of Orthodoxy: Essays in Honour of Henry Chadwick, ed. Rowan Williams (Cambridge: Cambridge University Press, 1989).
+
 [^22]: De Princ. I.5.5. This seems to build on the tradition of [[Isaiah 14#^14-12|Isa. 14.12]] 13, recognizing the devil and his angels in the person of Lucifer. However, given Origen’s assertion that angels do not have souls, this is a rather puzzling suggestion: seemingly angels do not have souls, but demons do. This is an area in which Origen is unsystematic. It may well result from angels having not exercised their free will since they have not fallen from glory, and therefore having no individual souls. However, Trigg argues that even angels require salvation. See Joseph W. Trigg, ‘The Angel of Great Counsel: Christ and the Angelic Hierarchy in Origen’s Theology’, Journal of Theological Studies 42, no. 1 (1991), 44 5. This may be a place where it is best to conclude Origen is being speculative, rather than systematic.
+
 [^23]: De Princ. II.9.7.
 
 *[p. 59]* ^pg84
@@ -108,14 +133,23 @@ the foreknowledge of the free will that will be exercised. This foreknowledge is
 (b) The soul and reason For Origen, the soul is the seat of reason. At times, he is even prepared to identify the soul with reason (or rationality). For example, he speaks of ‘each spirit or soul \[animi\] or whatever else rational existences \[rationabiles subsistentiae\] ought to be called’[^26] and of ‘the rational soul’ (ἡ λογικὴ ψυχὴ).[^27] Similarly, the work of Jesus is described as His being ‘the light of the spiritual world because he shines on those who are rational \[λογικοῖς\] and intellectual \[ἡγεμονικοῖς.[^28] Yet it is not entirely correct to assimilate the soul and reason: the soul is the place in which humanity may be rational. Thus, not all souls are engaged in the practice of the rational.[^29] Souls have the capacity for reason, but may or may not hasten towards it.[^30] Indeed, part of Christ’s work of salvation is to save humanity from the irrational.[^31] The soul’s participating in reason is part of its participation in the fount of all reason—the Logos. This is the special activity of Christ—His relationship as Logos to all rational creatures:[^32] ‘God the Father bestows on all the gift of existence; and a participation in Christ, in virtue of his being the word or reason, makes them rational.’[^33] Thus,
 
 [^24]: De Princ. III.1.20.
+
 [^25]: De Princ. I.6.2.
+
 [^26]: De Princ. II.1.2.
+
 [^27]: De Princ. III.1.13.
+
 [^28]: CommJoh. I.24. theἡγεμονικόν (orκαρδία
+
 [^29]: The soul is made up of a higher and lower element in biblical terms) and a lower element added after the fall. See Crouzel, Origen, 88.
+
 [^30]: CommJoh. I.29 (Heine, I.190, 72).
+
 [^31]: CommJoh. I.42.
+
 [^32]: De Princ. I.3.7. The Father’s special activity is that of everything that possesses natural life, and the Spirit’s is the life of the saints.
+
 [^33]: De Princ. I.3.8, emphasis added.
 
 *[p. 60]* ^pg85
@@ -125,11 +159,17 @@ humanity shares in rationality as a result of the Son’s work in making humanit
 (c) The soul and the pre-existence of Christ[^40] The doctrine of the pre-existent soul is complicated somewhat when one considers the soul and pre-existence of Christ. Regarding Christ,
 
 [^34]: O’Leary suggests that the Son’s work for Origen is primarily the perfecting of humanity’s innate participation in the Logos (Joseph S. O’Leary, ‘The Invisible Mission of the Son in Origen and Augustine’, in Origeniana Septima, 610).
+
 [^35]: De Princ. I.3.6.
+
 [^36]: CommJoh. I.37, cf. HomGen. 13.3 in which Origen suggests every soul has ‘rational understanding and the image of God’.
+
 [^37]: CommJoh. II.4 (Heine, II.60, 109). Definition II for the Greek wordμετέχοντες is ‘participating in a universal’ in Liddell and Scott (eds), Greek English Lexicon Ninth Edition, Revised by Jones and McKenzie (Oxford: Clarendon Press, 1996), 1120.
+
 [^38]: E.g. De Princ. I.3.5. The later sections on restoration will assert that the most sensible reading here is to view all of humanity (and all souls) as at least potentially rational.
+
 [^39]: This is as logika which are differentiated from the logikoi a title which can only be applied to the saints: Crouzel, Origen, 95. However, Layton argues that even negative and sinful actions can be seen as rational, as in the case of Judas (Richard A. Layton, ‘Judas Yields a Place to the Devil: The Appropriation of Origen’s Com mentary on Ephesians by Didymus the Blind’, in Origeniana Septima, 534).
+
 [^40]: Although this book concerns the economy of the Son and Spirit, certain moves regarding the narrowly Christological must be made at this point for the benefit of later constructive work in the dialogical chapters regarding the relationship between our humanity and Christ’s. See Ch. 4, §4.iv.
 
 *[p. 61]* ^pg86
@@ -139,11 +179,17 @@ there are two principal considerations for Origen: the soul of Christ and the et
 Origen’s Christology seems to centre on the soul of Christ.[^43] He asserts firmly that this soul is human: ‘the first-born of all creation assumed a body and a human soul’.[^44] Yet, this is no mere human soul, but one which deserved to be united with the Logos as a result of its virtues.[^45] The Logos is united with the soul which is faithful in its union with God. What is more, in Contra Celsum we read that this soul of Christ is transformed (along with His body) into something divine: ‘We affirm that his mortal body and the human soul in him received the greatest elevation not only by communion but by union and intermingling \[οὐ μόνον κοινωνίᾳ ἀλλὰ καὶ ἑνώσει καὶ ἀνακράσει\], so that by sharing in His divinity he was transformed into God.’[^46] For a modern theologian, there are clearly problems with this as it does not allow for the integrity of the humanity or divinity in the Christological formulation: the human and divine intermingle, and the divine becomes the ruling agent.[^47] Although a human soul, it was a human soul unlike any other with which the Logos was united in
 
 [^41]: Crouzel, Origen, 70 cf. 192. Cf. O’Leary, ‘The Invisible Mission’, 611.
+
 [^42]: Greer, The Captain of Our Salvation, 43.
+
 [^43]: Grillmeier, Christ in Christian Tradition, 146; Studer, Trinity and Incarnation, 82.
+
 [^44]: CCel. II.31. Cf. CCel. I.66 and III.41; and HomLev. 12.5.5.
+
 [^45]: De Princ. II.6.4 (Latin text). Fragment 20 (Koetschau) is paralleled here. See also HomLk. 19.1.
+
 [^46]: CCel. III.41. Indeed, in CCel. VI.47, he goes on to state that the soul and the Logos are no longer two but are so closely united as to be one.
+
 [^47]: Hence, discussion of the how the divine (the Logos) is the principale cordis or ἠγεμονικόν. the higher, or ruling part of the soul. As Lewis observes in Phil. 49n.4, this had a Stoic background. This is echoed by F. Gerald Downing, Cynics and Christian Origins (Edinburgh: T. & T. Clark, 1992). Downing advocates a Stoic anthropology, albeit interwoven with Cynic strands (esp. 252 3).
 
 *[p. 62]* ^pg87
@@ -153,12 +199,19 @@ Jesus Christ.[^48] Seemingly, therefore, it may well have been a soul which, whi
 Despite this intermixing of human and divine, it is clear for Origen that the soul and body are united only following the incarnation of Christ: ‘For after the incarnation the soul and body of Jesus became very closely united with the Logos of God.’[^51] The Logos assumes human nature, at the proper time, in His birth.[^52] This human flesh and soul is, moreover, true humanity. It is liable to ‘lusts against the Spirit’ and exists within ‘human limitations’.[^53] Yet this is, obviously, not to say that the soul does not itself exist prior to the act of incarnation. Like other souls, it too pre-exists. Origen speaks of: ‘that soul \[anima\] of which Jesus said, ‘‘No man taketh from me my soul \[animam\],’’ clinging to God from the beginning of creation and ever after in a union inseparable and insoluble’.[^54] Although it exists inseparably from the Logos after incarnation, His soul nevertheless exists prior to incarnation.[^55]
 
 [^48]: This problem is also reflected in Origen’s discussion of the humanity of Christ. He states that ‘he was more than man . . . insofar as the rest of his astounding life’ (CommJoh. I.220 (Heine, 70), emphasis added).
+
 [^49]: CCel. I.69.
+
 [^50]: This causes significant problems for Origen who sees free will and rationality as conjoined. Christ as the epitome of the rational (the Logos) seems not to enjoy free will.
+
 [^51]: CCel. II.9, emphasis added.
+
 [^52]: CCel. I.61.
+
 [^53]: CCel. III.28.
+
 [^54]: De Princ. II.6.3. One should note, however, that this is only from ‘the beginning of creation’, and not eternally.
+
 [^55]: Bostock, ‘The Sources of Origen’s Doctrine of Pre Existence’, claims that Chal cedon makes it necessary to believe in the soul of Christ having the very same nature as every other human soul, which means one cannot defend the pre existence of the human soul of Christ without defending the pre existence of every human soul (259). Grillmeier, Christ in Christian Tradition, further emphasizes that the soul of Christ is united with the Logos from eternity, drawing on the image of the iron and fire (De Princ. II.6.6), and claiming the union between the soul and the Logos is ontic and not moral (146). Here, it is necessary to part with Edwards, Origen against Plato, who advocates that the Latin ab initio creaturae (and in its probable Greek rendering) could mean ‘from the beginning of his creation’ rather than ‘from the beginning of creation’ (94). While the point about the ancient languages that Edwards makes is correct, the idea that this does not indicate a prior life of the soul need not necessarily be accepted: the whole context of the passage is the eternal Son. Indeed, Origen’s great achievement was to articulate the eternal generation of the Son and Holy Spirit (Edwards, ‘Christ or Plato’, 11), although Edwards also argues Clement framed and
 
 *[p. 63]* ^pg88
@@ -190,8 +243,11 @@ Origen’s sense of salvation is—as a result of his ideas about pre-existence�
 Captain of Our Salvation, 11: ‘Christ’s incarnation is unique not so much because it differs in kind from other revelations of the Word as because it represents a fullness not previously granted mankind’.
 
 [^60]: CommJoh. II.4 (Heine, II.42, 105), although at other times Origen seems to suggest the humanity of the Logos is removed post resurrection (cf. CommJoh. I.9).
+
 [^61]: For further theological reflection on this, see Ch. 4, §3 and Ch.7, §7(d) and §10.
+
 [^62]: See also Greer, The Captain of Our Salvation, 16f. and 25; Ludlow, Universal Salvation, 35; Crouzel, Origen, 157 and 205.
+
 [^63]: Daniélou observes this to be at the heart of the logic of Origen’s thought (Daniélou, Origen , 257).
 
 *[p. 65]* ^pg90
@@ -201,14 +257,23 @@ it—completing the work of salvation by our involvement.[^64] For Origen, human
 What is more, this participation in Christ is not merely reserved for those who realize it is better to be ‘dissolved and to be with Christ’, but it is a participation in which all things take a part.[^72] All things, for example, which have received power participate in Him insofar as He is power.[^73] All things which have come into being as the result of Wisdom participate in Christ who is all Wisdom—even
 
 [^64]: De Princ. III.1.18.
+
 [^65]: De Princ. IV.4.5.
+
 [^66]: De Princ. IV.2.7.
+
 [^67]: De Princ. IV.4.9.
+
 [^68]: Prayer XXVI.3 cf. CCel. II.9.
+
 [^69]: O’Leary observes that Jesus is the model of participation in the Logos, encour aging other humans (who as rational creatures universally participate in the Logos) to become more fully logikos. O’Leary, ‘The Invisible Mission’, 612.
+
 [^70]: A similar sense of the relationship of the humanity of Christ to the divine by participation is also evident in CCel. III.41.
+
 [^71]: CommJoh. I.17 (cf. Heine, I.100 54). Cf. Dial. 23.
+
 [^72]: Although, as Daley records, Origen did understand knowledge of God to be a ‘mingling and union’ with God in love (Brian E. Daley, The Hope of the Early Church. A Handbook of Patristic Eschatology (Cambridge: Cambridge University Press, 1991), 51).
+
 [^73]: CommJoh. I.38.
 
 *[p. 66]* ^pg91
@@ -218,12 +283,19 @@ those who fail to recognize the Wisdom by which they were created.[^74] In other
 (b) Sanctification and growth[^78] One way of explaining this tension is to recognize that the seeming universal participation of the rational in the Logos does not come at the expense of precluding space for growth and sanctification in faith. Humans may participate in Christ’s sanctification,[^79] and the nature of participation means that some may participate more fully than others.[^80] The work of Christ provides not only an objective but a pedagogical soteriology,[^81] which allows for the self-disclosure of God
 
 [^74]: CommJoh. I.39.
+
 [^75]: CommJoh. II.4.
+
 [^76]: CommJoh. II.6 (Heine, II.80, 115). The suggestion of ‘rational’ comes from the Greek: : ἀλλὰ διὰ τὸ χριστοῦ μὲν πάντα μετέχειν τὰ λογικά.
+
 [^77]: See further Tom Greggs, ‘Exclusivist or Universalist? Origen ‘‘the Wise Steward of the Word’’ (Commrom V.1.7) and the Issue of Genre’, International Journal of Systematic Theology 9, no. 3 (2007), esp. 317 20. Again, it may be worth considering whether one could usefully see a distinction between active and passive forms of participation in the Logos in Origen’s theology. Or else, a further means of interpreting such distinctions can be found in terms of the variety of means by which one may participate in the Logos; on this see Tom Greggs, ‘The Many Names of Christ in Wisdom: Reading Scripture with Origen for a Diverse World’, Journal of Scriptural Reasoning (2008).
+
 [^78]: This is extremely important for Origen’s thought: Daniélou, Origen, 103.
+
 [^79]: CommJoh. I.39. Indeed, it is in the cultivation of sanctification that humans become like Christ who is the image of God (CCel. VIII.17). In a similar manner, all righteousness and justice flow to the individual from the one Righteousness and Justice who is Christ. See CommJoh. VI.3 (Heine, VI.40 179). Heine translates the Greek here as ‘justice’. The present writer takesδικαιοσύνη to possess the fuller meaning of ‘righteousness’.
+
 [^80]: Crouzel notes, for example, that the soul, which is made after the image of God, comes to be after the likeness of God (Crouzel, Origen, 95). On the journey between these points, there is variety in the stages of progress humans have reached.
+
 [^81]: E.g. CommMt. X.9.
 
 *[p. 67]* ^pg92
@@ -235,11 +307,17 @@ Growth is not only confined to humanity in Origen. Of the Son, he writes: ‘Aft
 Furthermore, this spiritual growth is not confined to the present world for Origen.[^88] Spiritual training follows in the afterlife:
 
 [^82]: See Karen Jo Torjesen, ‘Pedagogical Soteriology from Clement to Origen’, in Origeniana Quarta. This is how Young sees Origen’s understanding of God’s wrath and propitiation (Frances M. Young, The Use of Sacrificial Ideas in Greek Christian Writers from the New Testament to John Chrysostom (Cambridge, MA: The Philadelphia Patristic Foundation, 1979), 168ff.).
+
 [^83]: De Princ. I.3.8.
+
 [^84]: Prayer V.5, emphasis added.
+
 [^85]: Daley advocates that Origen ‘demythologises’ eschatological thought in a pas toral direction to ensure that Christians realize that there is a continuity between the present life and the future, as humans grow towards union with God (Daley, The Hope of the Early Church, 48).
+
 [^86]: HomJosh 22.2.
+
 [^87]: CCel. II.65.
+
 [^88]: Daniélou, Origen, argues that, in this way, Origen prepares the way for Gregory of Nyssa (213). This ongoing growth is fundamentally different to the development of Maximus the Confessor who seeks to speak of ‘rest’ in eternal life. See A. Louth, Maximus the Confessor (London: Routledge, 1999), 66ff.
 
 *[p. 68]* ^pg93
@@ -249,9 +327,13 @@ alike in these ages that are ‘seen’ and ‘temporal’ and in those that are
 (c) Restoration: apokatastasis and universalism?[^92] The doctrine for which Origen is most (in)famous is the universal restoration of all things, apokatastasis.[^93] Here, the important word for our purposes of enquiring into pre-existence is ‘restoration’—a return to how things were originally: ‘when the Son is said to be subjected to the Father the perfect restoration of the entire creation is
 
 [^89]: De Princ. I.6.3.
+
 [^90]: On the doctrine of divine punishment, see Morwenna Ludlow, ‘Universal Salvation and a Soteriology of Divine Punishment’, Scottish Journal of Theology 53, no. 4 (2000); Joseph W. Trigg, ‘Divine Deception and the Truthfulness of Scripture’, in Origen of Alexandria. His World and His Legacy, ed. Charles Kannengiesser and William L. Petersen (Notre Dame: University of Notre Dame, 1988), 159 62; Hanson, Allegory and Event, 335 40; and F. W. Farrar, Mercy and Judgment: A Few Last Words on Christian Eschatology with Reference to Dr. Pusey’s ‘‘What Is of Faith?’’ (London: MacMillan, 1881), 330. To compare Origen’s understanding to that of Gnostics and Clement of Alexandria, see Daley, The Hope of the Early Church, 25ff. and 44ff.
+
 [^91]: See also Daley, The Hope of the Early Church, 57 8.
+
 [^92]: See Greggs, ‘Exclusivist or Universalist?’.
+
 [^93]: For a history of this term, see Ludlow, Universal Salvation, 38 44.
 
 *[p. 69]* ^pg94
@@ -261,9 +343,13 @@ announced, so when his enemies are said to be subjected to the Son of God we are
 This theme of restoration can be noted elsewhere in Origen’s writings: ‘I think the stopping point and goal is in the so-called restoration \[τὴ λεγομένη ἀποκαταστάσει\] because no one is left as an enemy then, if indeed the statement is true, ‘‘For he must reign until he has put all his enemies under his feet. But the last enemy to be destroyed is death.’’ ’[^96] For Origen, the end seems to involve a universal reinstatement, since there then remains no enemy against whom to fight. It appears indeed to be the time when God will be ‘all in all’: ‘that, when ‘‘God shall be all in all’’, they \[all creatures\] also, since they are a part of all, may have God even in themselves, as he is in all things.’[^97] What takes place in salvation is the soul becoming a second time what it was before:[^98] Now I think that since the end and consummation of the saints will happen in those worlds that are not seen and are eternal, we must suppose, from a contemplation of this end . . . that rational creatures have also had a similar
 
 [^94]: De Princ. III.5.7.
+
 [^95]: Daley asserts that apokatastasis is retrospective as well as prospective for Origen (Daley, The Hope of the Early Church, 58). This is not, however, to deny the transformative nature of restoration for Origen: as Behr correctly observes, resurrec tion in Origen is akin to transfiguration (John Behr, The Formation of Christian Theology I: The Way to Nicaea (Crestwood, NY: St. Vladimir’s Seminary Press, 2001), 172). However, there is not in Origen the singularly forward orientated understand ing of apokatastasis that Ludlow, Universal Salvation, records as being present in Gregory of Nyssa (258): in Origen, there is a sense of return.
+
 [^96]: CommJoh. I.16 (Heine, I.91, 52).
+
 [^97]: De Princ. I.7.5.
+
 [^98]: De Princ. II.8.3. Yet, as above, not in the Stoic sense of cyclic and endless determinism.
 
 *[p. 70]* ^pg95
@@ -273,12 +359,19 @@ beginning. And if they had a beginning that was such as they expect their end to
 This means that punishment in Origen’s theology is not absolute.[^100] Its purpose is instead to reform the soul.[^101] Although Origen does discuss those ‘separated from every gleam of intelligence or reason’ who will be clothed in darkness and live as if in a prison,[^102] there is little sense of a permanent hell in Origen’s thought. Origen’s sense of the graciousness of God always allows for a further opportunity in future aeons. Even ‘the worst sinner, who has blasphemed the Holy Spirit and been ruled by sin from beginning to end in the whole of this present age, will afterwards in the age to come be brought into order, I know not how.’[^103] Those seemingly beyond any salvation in the present age will receive grace in the future. The will of God must be done for the unjust as for the just.[^104] Thus, just as Paul considers himself to be ‘all things to all’, so too ‘The Saviour . . . in a way much more divine than Paul, has become ‘‘all things to all,’’ that he might either ‘‘gain’’ or perfect ‘‘all things.’’ ’[^105] Origen continues, The Saviour, therefore, is first and the last, not that he is not what lies between, but it is stated in the terms of extremities to show that he himself has become ‘all things.’ But consider whether the ‘last’ is man, or those called the underworld beings, of which the demons also are a part, either in their entirety or some of them.[^106] Being first and last does not involve only temporality, but points to a personal understanding: the Saviour is first and last to everything in
 
 [^99]: De Princ. III.5.4, emphasis added.
+
 [^100]: De Princ. II.10.7. See Farrar, Mercy and Judgment, 330; and P. Tzamalikos, The Concept of Time in Origen (Bern: Peter Lang, 1991), 393.
+
 [^101]: De Princ. I.6.3.
+
 [^102]: De Princ. II.10.8.
+
 [^103]: Prayer XXVII.15.
+
 [^104]: Prayer XXVI.6.
+
 [^105]: CommJoh. I.34 (Heine, I.217, 76).
+
 [^106]: CommJoh. I.34 (Heine, I.219, 77).
 
 *[p. 71]* ^pg96
@@ -306,9 +399,13 @@ Again, if we understand the life which was made in the Word, namely him who said
 One way of understanding this is in terms of two senses of rationality: ‘Now ‘‘reason’’ which is in men, in which we have said our species participates, is spoken of in two ways: according to the perfecting of concepts which occurs in everyone who has gone beyond childhood, the exceptional being excluded, or according to the excellence which is found in the perfect alone.’[^116] This twofold sense begins to draw out a
 
 [^112]: De Princ. III.6.4.
+
 [^113]: Smith observes both universalist and non universalist elements in Origen’s thought: John Clark Smith, The Ancient Wisdom of Origen (London and Toronto: Associated University Presses, 1992), 51ff. Norris also recognizes this tension: Fredrick W. Norris, ‘Universal Salvation in Origen and Maximus’, in Universalism and the Doctrine of Hell, 35 52.
+
 [^114]: Hanson, however, gives a fair reading of those texts which seem to suggest a limited salvation in a way which still accords with universalism (Hanson, Allegory and Event, 334 5).
+
 [^115]: CommJoh. II.10 (Heine, II.114 15, 125). One sees similar limitations to universalism in the likes of CCel. VIII.72 (in which universalism seems to mean people from all nations), III.81, IV.10; HomJosh. 3 5 (in which there is no salvation for those outside the church an indication of RuWnus’s echoing Cyprian, according to Adolf von Harnack, Der Kirchen geschichtliche Ertrag Der Exegetischen Arbeiten Des Origenes (Leipzig: Hinrichs, 1918), 83, n.2); HomGen. 2.3; HomLev. 5.7.2, 7.6.4; CommRom. 3.1 3, 5.1.29, 8.7.2. Obviously, the genre of the different works has a role here: it is hardly in the interest of the homilies which exhort the faithful to holy lives to suggest a universalism which may cause some to treat grace cheaply, just as CCel. is a work designed to convert the reader not allow them to simply rely on universalism. See further, Greggs, ‘Exclusivist or Universalist?’, 320 5 (esp. 325).
+
 [^116]: CommJoh. I.42 (Heine, I.273, 90).
 
 *[p. 73]* ^pg98
@@ -318,8 +415,11 @@ notion of universality which still allows for a greater relationship of the Logo
 (d) Nothingness As well as being Origen’s most thorough attempt at theodicy, Nothingness is a teaching which seems to suggest that only those things which truly exist will be restored, and whatever is to be restored truly exists. There appears to be an ontic gradation which starts with Being and ends with Nothingness: the less one participates in the Logos, the further down the scale one is, the more the Nothing takes away the rational, until—devoid of any rationality—one is Nothing.[^119] Origen writes that Nothing is: ‘everything which has received its apparent constitution neither from God nor through the Word’.120 He considers that scripture teaches that the words ‘Nothing’ (οὐδὲν) and ‘Not-being’ (οὐκ ὄν) are synonymous. What scripture adds to what he terms the Greek understanding of the words is the idea of evil.[^121] This concept of Nothing, then, seems to
 
 [^117]: CommJoh. VI.37 (Heine, VI.285, 245).
+
 [^118]: Edwards interprets this in terms of Origen’s understanding of two resurrections, in which the saint partially anticipates in her mortal body what will be completed after death and will then be the portion of all humanity (Mark J. Edwards, ‘Origen’s Two Resurrections’, Journal of Theological Studies 46, no. 2 (1995), 510). Edwards also correctly rejects Crouzel’s belief that one should sharply distinguish between Hades and Gehenna in Origen’s system (511 and 517). Cf. Henri Crouzel, ‘Hade\`s Et La Géhenna Selon Orige\`ne’, Gregorianum 49 (1978); Crouzel, Origen, 240ff. and 264ff.; and Lawrence R. Hennessey, ‘The Place of Saints and Sinners after Death’, in Origen of Alexandria. An alternative explanation of this issue of the relationship between universalism and the special place of the saint is seen in Adele Monaci Castagno, ‘Origen the Scholar and Pastor’, in Preacher and Audience: Studies in Early Christianity, ed. Mary B. Cunningham and Pauline Allen (Leiden: Brill, 1998). Castagno advocates that this dual understanding results from Origen’s pastoral concern. Although she overstates her case, Rabinowitz, ‘Personal and Cosmic Salvation’, sees this tension as explicable in terms of the separation between soteriology and eschatology in Origen’s thought. For a constructive interpret ation of the relationship between universalism and particularity, see below, Chs 4 and 7.
+
 [^119]: Crouzel, Origen, believes this to be the case for the demons (213).
+
 [^121]: CommJoh. II.7 (Heine, II.94, 119).
 
 *[p. 74]* ^pg99
@@ -329,10 +429,15 @@ be employed to see a universal restoration of all creation insofar as it is rati
 The sense that only the church or saints exist needs to be qualified, however. Later in the Commentary on John, Origen considers the meaning of the wordκόσμος, and criticizes the idea that the world is simply the » ἐκκλησία alone.[^124] He uses the idea of the church being the light to the world to justify the existence of both. Origen concludes by stating that Christ is the Saviour of the whole world, especially the faithful.[^125] Elsewhere, one is told that salvation is not only for men but also for beasts: ‘For if ‘‘God saves man and beasts,’’ he saves what beasts \[κτήνη\] he saves’.[^126] The extension of salvation is, therefore, dependent on the will of God, and one cannot consider those who live extra ecclesiam simply to be Nothing.[^127]
 
 [^122]: CommJoh. II.7 (Heine, II.98, 120).
+
 [^123]: It is in this way that one might see Origen’s identification of the devil with death (DePrinc. III.6; CommRom. 1.18.7, 6.6.5, cf. 5.3; HomJosh. 8.4), or indeed the idea that hell is reserved for the devil and demons (e.g. HomJosh. 8.5, cf. 14.2). The devil has exercised his will to such a point of moral corruption and is so far from Being that he will ultimately be ‘Nothing’.
+
 [^124]: CommJoh. VI.38.
+
 [^125]: Ibid.
+
 [^126]: CommJoh. I.22 (Heine, I.122 59). The word Ϊ κτήνη was even used of swine (Liddell and Scott (eds), Greek English Lexicon Ninth Edition, Revised by Jones and McKenzie, 1002).
+
 [^127]: They are perhaps (on the sliding scale of morality and rationality) further removed from Being than those in the church: not quite Nothing as the devil and demons will ultimately be, but not fully participating in God’s Being. This full participation is seen in the Holy Spirit who is reserved for the saints.
 
 *[p. 75]* ^pg100
@@ -344,12 +449,19 @@ The sense that only the church or saints exist needs to be qualified, however. L
 Origen is clear that there had to be a beginning to the world,[^132] and that this beginning was at a certain time.[^133] This beginning, however, stems from a world that existed before this world.[^134] This is not to say that there is an infinite regress of ages. There is one ultimate beginning just as there will be one ultimate end.[^135] This reflects the idea of restoration already discussed, in which the world is restored to its original position and place. While there is a simultaneity to the beginning and the end, therefore, the movement of restoring allows for a present which has its own integrity between those two points (in the ‘many differences and varieties’ that arise).136
 
 [^128]: For a detailed examination of Origen’s understanding of time, see Tzamalikos, The Concept of Time in Origen.
+
 [^129]: This is a famously difficult topic in Origen to consider. Even Crouzel notes that there is no clear notion of eternity in Origen’s work (Crouzel, Origen, 187). Stead suggests, however, that Origen was the first person in whom one sees the influence of ‘eternalist Platonism’, with its great emphasis on the distinction between the eternal and sensible worlds (G. C. Stead, ‘Philosophy in Origen and Arius’, in Origeniana Septima, 103).
+
 [^130]: This complexity arises as the result of Origen’s desire to uphold a tension: ‘the consummation of all things in eternity . . . will entail the end of the visible and the temporal, but each soul must be credited with a private eschatology that depends on its merits and can thus be completed only in its own time’ (Edwards, ‘Origen’s Two Resurrections’, 506).
+
 [^131]: De Princ. III.5.1.
+
 [^132]: De Princ. III.5.2.
+
 [^133]: De Princ. III.5.3; cf. Edwards, ‘Christ or Plato’, 23.
+
 [^134]: De Princ. III.5.3. While there are pre existent and future ages, there are no ages co temporal with this one.
+
 [^135]: De Princ. I.6.2.
 
 *[p. 76]* ^pg101
@@ -391,13 +503,18 @@ age’ (ἀπέραντον αἰῶνα), which does not suggest necessarily so
 Moreover, Origen is careful to separate God’s foreknowledge from the cause of human action.[^154] Origen asserts that while God foreknows human happenings, it is the exercise of human free will which causes those happenings.[^155] This is a very narrow understanding of
 
 [^148]: Farrar, Mercy and Judgment, 10 and 377ff.; Daley, The Hope of the Early Church, 56 7.
+
 [^149]: CommJoh. X.8.
+
 [^150]: De Princ. II.3.1.
+
 [^151]: This is connected with Origen’s concerns over Gnosticism which, he believed, robbed humans of liberty. See Daniélou, Origen, 205 and 211.
+
 [^152]: This tension is observed in Smith, The Ancient Wisdom of Origen, 47. For a discussion of this in contrast to Augustine, see Pannenberg, Systematic Theology Vol. 3, 440ff.
 153\. CommJoh. II.25.
 
 [^154]: Benjamin Drewery, Origen and the Doctrine of Grace (London: Epworth Press, 1960), 96ff.
+
 [^155]: CCel. II.20. One sees this similarly in Origen’s treatment of predestination in CommRom. At 7.8.2ff., Origen observes that not everyone who is called is justified: this is dependent on the exercise of free will. This point is similarly made regarding the free choice of life or death (Christ or the devil) in CommRom. 1.18.7. (Cf. De Princ. 3.1.6 and 3.1.11 and Dial. 27.13ff.).
 
 *[p. 78]* ^pg103
@@ -409,9 +526,13 @@ Perhaps as a result of this, in Origen, the elect and the rejected are not set u
 the Jew says: Or was his purpose in coming down that we might disbelieve? My reply to this is as follows: He did not come with the aim of bringing about the unbelief of the Jews, but by his foreknowledge he foretold that this would happen and used the unbelief of the Jews to call the Gentiles. For by their sin ‘salvation is come to the Gentiles’, of whom Christ said in the prophets, ‘A people that I have not known shall serve me; to the hearing of the ear they were obedient’; and ‘I was found by them who sought me not . . .’[^158] The foreknown rejection of Israel becomes a mediating force for the election of the rejected world.[^159] What is more, this does not lead to the ultimate rejection of Israel, but must be understood in terms of the ages which precede the end. Israel is not elected to ultimate rejection, but, when God is ‘all in all’, Israel will be restored.[^160]
 
 [^156]: On Origen and the Jews, see N. R. M. De Lange, Origen and the Jews: Studies in Jewish Christian Relations in Third Century Palestine (Cambridge: Cambridge Uni versity Press, 1976). While the Jewish people are a special case for Christian theology, the significance of the Jewish people for Origen’s economic dynamics is seen more generally below. See Ch. 4, §2.iv.
+
 [^157]: Roukema states that Origen believed the same judgment of God is applied to all people Christians and Jews on the basis of [[Romans 02#^2-12|Rom. 2.12]] (Reimer Roukema, ‘Jews and Gentiles in Origen’s Commentary on Romans II.19 22’, in Origeniana Quarta, 22).
+
 [^158]: CCel. II.78.
+
 [^159]: Cf. De Lange, Origen and the Jews, 97.
+
 [^160]: Origen does also point to a future in which ‘all Israel’ will be saved, but suggests only God knows who that includes (CommRom. 8.12.6) cf. CommJoh. X.26.
 
 *[p. 79]* ^pg104
@@ -421,11 +542,17 @@ One sees a second exemplification of this unity of elected and rejected in the f
 (c) Varied participation in Christ It is interesting to observe in Origen the interplay of all humanity already being in Christ with varied participation in Him: within
 
 [^161]: Origen’s treatment of Judas is complex. While his positive reading is attested, Judas is dealt with more negatively in the homilies and commentaries (see CommRom. 7.8.2, 7.8.6; HomLk. 1.4,3.4, frag. 151). This is another issue of genre and what the texts are trying to achieve: homilies are designed to exhort the believer to a life of morality and purity, and therefore any positive understanding of Judas would be unwanted.
+
 [^162]: CCel. II.18.
+
 [^163]: CCel. II.20.
+
 [^164]: CCel. II.11.
+
 [^165]: As the Valentinians considered the case (CommRom. 8.11.2 cf. 1.3.1).
+
 [^166]: For further theological reflection on this ‘simultaneity’, see Ch. 4, §2.
+
 [^167]: HomJer. 11.5.2, sees the universal need for punishment for universal purification.
 
 *[p. 80]* ^pg105
@@ -437,9 +564,13 @@ ways in which the Logos relates all rational creatures, which allows for a stron
 This aspect of varied participation in the Logos allows for diversity in creaturely growth towards the Son as creatures become more like Christ.[^172] The sense of this varied participation in the Logos is not to be separated from all that is rational being in Logos: it allows for an active and passive participatory relationship, and as one grows in rationality, so one enabled to participate more fully in the Logos. As Origen writes: For if, by participating in him, we arise and are enlightened, and perhaps also are shepherded or ruled, it is clear that we also become rational in a
 
 [^168]: De Princ. III.5.6.
+
 [^169]: Prayer V.5.
+
 [^170]: CommJoh. X.21.
+
 [^171]: De Princ. II.6.3 cf. De Princ. IV.4.2. Participation is, however, varied in terms of the capacity of the individual to participate. See PeriPasch. 30.
+
 [^172]: They do this by carrying in their bodies the death of Jesus, so that the life of Christ might be manifest in them (CommJoh. I.35).
 
 *[p. 81]* ^pg106
@@ -451,9 +582,13 @@ divine manner when he destroys in us all that is irrational and dead insofar as 
 Indeed, much of Origen’s reflection on pre-existence results from the variety which he observes in the world.[^176] He attributes this variety to the descent of souls, and to those other bodies which must aid them in their return to God. Reflecting on [[Ephesians 01#^1-14|Eph. 1.14]], he writes that the variety of the souls’ movements has led to the existence of every rank in life.[^177] This variety results from a prior exercise
 
 [^173]: CommJoh. I.42 (Heine, I.268 9, 89), emphasis added.
+
 [^174]: Daniélou, Origen, 257. See also Rowan Williams, ‘The Son’s Knowledge of the Father in Origen’, in Origeniana Quarta, 147; Williams, ‘Origen: Between Orthodoxy and Heresy’, 12.
+
 [^175]: See Greggs, ‘The Many Names of Christ in Wisdom’.
+
 [^176]: In De Princ. II.9.4, he considers the question of how there is diversity if all things are made through the Logos, who is righteous.
+
 [^177]: De Princ. III.5.4. See also De Princ. II.1.2.
 
 *[p. 82]* ^pg107
@@ -463,15 +598,25 @@ of free will:[^178] whether one is privileged or not in the present age is the r
 However, there is also diversity in terms of God’s response to that descent and variety. It is as a result of this diversity that there are four Gospels.[^180] There are different names for Christ and accounts of Him: the one Christ meets the variety of the world in His manifold titles and roles (epinoiai),[^181] so that each can receive from Him in the way that each is capable of doing so.[^182] There is not one overarching uniformity impressed onto humanity by the coming of Christ, but instead a reaching out of the one Logos and His many aspects to the plurality and diversity of the world. This is not a docetic Christology, but marks a soteriological diversity in which the Logos’ economy reaches out to people in the variety necessary for Him to be received by them.[^183] Similarly, regarding Christ’s being the truth, His truth is communicated but dependent on the state and ability of each individual to receive it:[^184] He is King, Door, and Shepherd to those who need Him specifically as such, and even within these titles there are significant distinctions in the way He relates to individuals.[^185] Christ’s work does not stop at His being human, moreover. He becomes not only all things to all men, but all things to all things—even an angel to the angels,[^186] and the first born of the dead to the dead.[^187] Moreover, the work of Christ is not confined only to His person: Christ’s being life is the reason for there being many lives,[^188-p82] and, through imitating the
 
 [^178]: De Princ. III.5.5. Origen also advocates that this does not result from God’s partiality towards any individuals or groups. See De Princ. I.8.2.
+
 [^179]: De Princ. IV.3.10 (Latin version only).
+
 [^180]: CommJoh. I.6.
+
 [^181]: On epinoiai, see further, McGuckin, ‘The Changing Forms of Jesus’; Stead, Substance and Illusion, 184 5; Grillmeier, Christ in Christian Tradition, 141ff.; Ana tolios, ‘Theology and Economy’, 168; Drewery, Origen and the Doctrine of Grace, 115ff. and 159 60; Young, The Use of Sacrificial Ideas, 173; and Williams, ‘The Son’s Knowledge of the Father’, 147.
+
 [^182]: CommJoh. I.11.
+
 [^183]: See CommRom. 8.7.4 which indicates a variety in the way people are saved by grace, and 1.2.1 which discusses a variety of callings.
+
 [^184]: There is variety in the way in which the Logos is apprehended: CommJoh. II.3. For more on the reception of revelation, see below, Chs 6 and 7.
+
 [^185]: CommJoh. I.29 30.
+
 [^186]: CommJoh. I.34.
+
 [^187]: CommJoh. I.22.
+
 [^188-p82]: CommJoh. VI.3.
 
 *[p. 83]* ^pg108
@@ -487,10 +632,15 @@ OF ALL PARTICULARITIES
 In conclusion, the interplay of pre-existence and restoration allows for a universalism which includes (or more aptly results from) the interplay of the particular, in all its variety, and the universal, which is monad. It is this interplay which provides the fullest sense of God being ‘all in all’. The soul is saved by becoming again a second time what it was before[^194-p83]—recognizing its existence in Reason (Logos)
 
 [^189-p83]: Ibid.
+
 [^190-p83]: CommJoh. VI.26 (Heine, VI.229, 231).
+
 [^191-p83]: On the Christological reading of scripture, see Young, Biblical Exegesis, 21 7.
+
 [^192-p83]: De Princ. III.6.4. See above. However, Origen does note the variety of future degrees of glory and blessings (CommMt. XIII.15; CommRom. 4.8.9, 5.3.5).
+
 [^193-p83]: CommJoh. V.4.
+
 [^194-p83]: De Princ. II.8.3.
 
 *[p. 84]* ^pg109
@@ -512,6 +662,7 @@ Jean Daniélou argues that the church does not reject apokatastasis outright in 
 In a generation in which the evils of fundamentalism are all too plain to see in acts of terror and incitements of hatred by and towards ‘faith’ communities throughout our world, the need for the person of faith to break outside of the insider-outsider or saved-damned binary has rarely been so important. The need for each faith to recognize the place within the orthodoxy of its own soteriological system for those of other or no faith is paramount. It is for this reason that this chapter concerns the issue of a non-binary or non-separationist soteriology.[^1-p85] However, it is believed divisive approaches to soteriology can only be countered with a particularist agenda: the liberal pluralist agenda simply will not suffice,[^2-p85] and indeed—in its desire to enforce an alien universal onto all faiths and none—may well have contributed to the rise of exclusivist approaches to salvation. Thus, this chapter seeks to articulate an inclusivist and universalist approach to soteriology, which breaks through binary
 
 [^1-p85]: Fiddes observes that the atoning work of Christ should be understood in a way that reflects the questions of the present day (Paul S. Fiddes, Past Event and Present Salvation: The Christian Idea of Atonement (London: Darton, Longman & Todd, 1989), 12). For the present generation of theologians, this is in a way which can counter fundamentalism, and find space both for hope for those of other faiths and none, and for the particularity of Christians.
+
 [^2-p85]: nd edn, (Oxford: Blackwell, 1997), 627 9. The reader is also directed to Hick, God and the Universe of Faiths. A short response to some of the difficulties of Hick’s position can be found in Ford, ‘Gospel in Context’, 7 8.
 
 *[p. 86]* ^pg111

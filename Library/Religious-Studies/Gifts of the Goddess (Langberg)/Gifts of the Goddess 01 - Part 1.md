@@ -33,8 +33,11 @@ T
 he present study[^1] begins by suggesting that goddesses assume the role of implicit bodhisattvas from ca. the third century onward in Mahāyāna sutras.[^2] Such an assertion may be seen as contentious, however, given that only rarely are female practitioners explicitly designated as such.[^3] Mahāyāna Indian Buddhism’s incorporation of “implicit” female bodhisattvas—i.e., female practitioners who are functionally equivalent to male bodhisattvas and typically highly advanced in their soteriological attainments—gained ground considerably over the course of the Middle Period of South Asian Buddhism (ca. 0–600 CE). They initially proliferate in ca. the late third-century *Gaṇḍavyūha* (“Supreme Array”) *sūtra*, part of the later (ca. fifth century) *Avataṃsaka* (“Flower Garland”) *sūtra*, as well as alternately being present in the Indian Buddhist material record by roughly the late fifth to early sixth centuries CE, in situ at the western Deccan monastic cave sites.[^4] This 
 
 [^1]: I wish to thank the peer reviewers of this article for their helpful suggestions as well as editor Natalie Quli for her patience, skill, and sustained efforts. Any remaining errors are strictly my own. I also wish to thank Professor Ronald M. Davidson for most generously guiding me as a graduate student towards numerous significant texts and, specifically, his own groundbreaking work in *dhāraṇī* studies. My diverging viewpoints below are offered with the greatest scholarly respect.
+
 [^2]: There are widespread Mahāyāna prohibitions against female bodhisattvas’ attainment of an advanced spiritual state while possessing a female form (whether human or divine) dating to the period of the earliest sutras. For a historical analysis of the early Mahāyāna mandate on change of sex for female practitioners wishing to attain buddhahood, see Hillary Langberg, “Gender Equity in a Mahayana Sutra: The *Gaṇḍavyūha*’s Enlightened Goddesses,” *The Eastern Buddhist*, 3rd ser., vol. 1, no. 1 (2021): 43–87.
+
 [^3]: For a thorough discussion of the reluctance of sutra authors to identify both divine and human female practitioners with the term “bodhisattva,” as well as female deities’ functional equivalence to bodhisattva practitioners, see Langberg, “Gender Equity in a Mahayana Sutra,” 43–87. In the *Sutra of Golden Light*, we have but a single moment of clarity on this matter*—*in a passage from chapter 21 of the Sanskrit edition discussed below, wherein the text explicitly names goddesses as part of an assembly of “bodhisattvas.”
+
 [^4]: See, for example, the discussion of Kānherī cave 90 in Susan L. Huntington and John C. Huntington, *The Art of Ancient India: Buddhist, Hindu, Jain* (Boston: Weatherhill, 2001), 262–265. I am currently completing a study of female figures in sculptural relief at the site.
 
 *[p. 55]* ^pg3
@@ -69,6 +72,7 @@ That said, mantra-based rituals are the principal method by which the goddesses 
 *Mahāyāna Doctrine and Bodhisattva Soteriology* For the reader unfamiliar with its theology, the relative complexity of Mahāyāna Buddhism is often summarized as centering on the soteriological path of the bodhisattva. A bodhisattva is a being, either human or divine, who vows to attain the state of a fully enlightened buddha through arduous practice over many lifetimes. Sanskrit texts from the Indian subcontinent dating to the first half of the first millennium CE describe ten levels or stages (*bhūmis*) through which bodhisattvas must ascend to achieve full awakening. They do so by practicing the six perfections (*pāramitās*) and acting as educators to all those who desire to traverse the same arduous path toward complete and perfect buddhahood.[^10] 
 
 [^9]: Ibid., 252.
+
 [^10]: Peter Skilling describes the Mahāyāna, furthermore, as “a body of ritual practice, precepts, mental cultivation, philosophy, and especially a body of
 
 *[p. 58]* ^pg6
@@ -92,7 +96,9 @@ literature. The sūtras are repositories of ‘rhetorics of emptiness’ and of 
 in the future by seeking *anuttarasamyaksaṃbodhi* (complete, perfect awakening) through *prajñā* (wisdom) and by benefitting all sentient beings through *karuṇā* (compassion). A bodhisattva is one who courageously seeks enlightenment through totally and fully benefitting others (*parārtha*) … \[and\] is equipped with the necessities for enlightenment—*puṇyāsambhāra* (accumulation of merits) and *jñānasambhāra* (accumulation of wisdom)—and the quality of *upāya-kauśalya* (skillful means)….[^14] Thus, in contrast to the *arhat/arahant* of Śrāvakayāna Buddhism, bodhisattvas presumably choose to remain within the cosmic world-realms to compassionately aid beings and to teach the Dharma.[^15] That said, scholars disagree on whether the most advanced or tenth-*bhūmi* bodhisattvas have indeed achieved the nascent stages of enlightenment (and, furthermore, whether there are progressive stages of the awakened state in Mahāyāna doctrine whatsoever). If this is indeed the case, bodhisattvas begin their process of awakening—and, more specifically, attain a stunningly advanced level within this process—*prior* to having attained complete, unsurpassed buddhahood and final nirvana*.*[^16] I underscore the definition of a bodhisattva here because I am suggesting that goddesses in the *Suvarṇaprabhāsottama* assume this role, regardless of the text’s reluctance to name them as such. Even by the late third century CE in the Gv, for example, we see that highly advanced bodhisattvas have developed their ritual technologies to the point that *dhāraṇī* (the “complete retention” of Dharma teachings) 
 
 [^14]: Kawamura, “Bodhisattva(s),” 58.
+
 [^15]: Western scholars have described bodhisattvas as beings who postpone “unsurpassed, complete and perfect enlightenment” (*anuttara samyaksaṃbodhi*) until all sentient beings can also be brought to enlightenment, although this blanket definition has been increasingly called into question; see Robert E. Buswell, Jr. and Donald S. Lopez, Jr., s.v. “Bodhisattva,” *The Princeton Dictionary of Buddhism* (Princeton: Princeton University Press, 2013), http://www.oxfordreference.com/view/10.1093/acref/9780190681159.001.0001/acref-9780190681159. Further, in reference to the ten stages of the bodhisattva’s path toward buddhahood, there are additional levels mentioned in some Mahāyāna sutras (see Langberg, “Gender Equity in a Mahayana Sutra,” 47).
+
 [^16]: It is perhaps more apt to state that bodhisattvas of the highest level are “contentiously enlightened” to encompass dissenting scholarly views on the issue of advanced bodhisattva enlightenment. See Langberg, “Gender Equity in a Mahayana Sutra,” for a deeper discussion of this process as laid out in the *Gaṇḍavyūha sūtra*.
 
 *[p. 60]* ^pg8
@@ -104,10 +110,15 @@ and mantras (strings of powerful sacred syllables) work in tandem to assist them
 Passages devoted to female deities in the Suv have been summarized by Miranda Shaw and Susan Landesman[^21] in their discussions of the salvific roles of goddesses in Mahāyāna sutras from ca. the mid-third to the fifth centuries CE. In her broad-based study of the *Sutra of Golden Light*, Gummer focuses on the text’s power as an object of worship and recitation by *dharmabhāṇakas* and describes the central narratives of the goddesses in the sutra.[^22] Studies by both Gummer and 
 
 [^17]: For more on the topic of *dhāraṇī*, see the following section.
+
 [^18]: This state of “greater soteriological equity” for female bodhisattvas in the Gv arises through the doctrine of great male bodhisattva emanations (*nirmāṇakāya*). See Langberg, “Gender Equity in a Mahayana Sutra,” 52.
+
 [^19]: Gregory Schopen, *Figments and Fragments of Mahāyāna Buddhism* (Honolulu: University of Hawai‘i Press, 2005), 180.
+
 [^20]: Gummer (“*Suvarṇabhāsottamasūtra*,” 251) points out that the Suv describes itself as “the ‘dharma realm’ (*dharmadhātu*)” as well.
+
 [^21]: Miranda Eberle Shaw, *Buddhist Goddesses of India* (Princeton: Princeton University Press, 2006); and Susan Amy Sinberg \[Landesman\], “Tārā and the ‘*Tārāmūlakalpa*’: The Tārā Cult’s Formative Period in India” (PhD diss., Columbia University, 1995).
+
 [^22]: Gummer, “Articulating Potency.” Gummer also discusses Dṛḍhā, whom I have not included here namely because she is invoked via the sutra’s recitation rather than a mantra-based ritual (ibid., 142–143).
 
 *[p. 61]* ^pg9
@@ -119,8 +130,11 @@ My analysis of both Sarasvatī’s and the goddess Śrī’s chapters, the la
 *The Multivalence of Dhāraṇī in Mahāyāna Texts* Drawing upon the scholar-monk Asaṅga’s fourfold division of *dhāraṇī* in the *Bodhisattvabhūmi* (ca. fourth century CE), studies by Etienne Lamotte, Jens Braarvig, Paul Copp, and Ronald M. Davidson have made 
 
 [^23]: Ludvik, *Sarasvatī*, 158–159; Gummer, “Articulating Potency,” 240–241.
+
 [^24]: Ludvik, “A *Harivaṃśa* Hymn,” 707–734.
+
 [^25]: Ludvik notes that only the first section of the Sarasvatī chapter (i.e., her offering of *dhāraṇī*) appears in Dharmakṣema’s Chinese translation (ca. 417– 420 CE). The rest of the Sarasvatī chapter in the Sanskrit recension consulted here (common to Nobel’s and Bagchi’s editions) is quite similar to that translated into Chinese in 578 CE by Yaśo gupta and Jñāna gupta (Lud vik, *Sarasvatī*, 147–149 and Appendix A). The earliest Sarasvatī chapter including her bathing ritual thus appears to stem from a redaction ca. the mid-fifth to sixth centuries CE (ibid., 154).
+
 [^26]: Shaw, *Buddhist Goddesses of India*, 237; and Gummer, “Articulating Potency,” 115n73. (*Mahāprajñāpāramitā śāstra*) (Louvain-la-Neuve: Institut orientaliste, 1944); Jens Braarvig, “*Dhāraṇī* and *Pratibhāna*: Memory and Eloquence of the Bodhisattvas,” *Journal of the International Association of Buddhist Studies* 8 (1985): 17–29; Paul Copp, “Notes on the Term *Dhāraṇī* in Medieval Chinese Buddhist Thought,” *Bulletin of the School of Oriental and African Studies* 71, no. 3 (2008): 493–508; and Ronald M. Davidson, “Studies in *Dhāraṇī* Literature I: Revisiting the Meaning of the Term *Dhāraṇī*,” *Journal of Indian Philosophy* 37, no. 2 (2009): 97–147. Ulrich Pagel’s formidable survey of *dhāraṇī* underscores the complexity of the term and its context-specific usages across Sanskrit, Chinese, and Tibetan sources: see also Pagel, “The Dhāraṇīs of *Mahāvyutpatti* #748: Origin and Formation,” *Buddhist Studies Review* 24, no. 2 (2007): 151–191. Asaṅga’s four categories give us a useful framework from which to begin an analysis of the term. This is because, as Copp states, “It is possible that these four are to be taken as stages of accomplishment, moving in the direction of a progressively more refined ‘grasp’ of the Dharma” (Copp, “Notes on the Term *Dhāraṇī*,” 498). For a full overview of scholarship on *dhāraṇī* ca. the twentieth century, see Davidson, “Studies in *Dhāraṇī* Literature I,” 98–106.
 
 *[p. 62]* ^pg10
@@ -130,7 +144,9 @@ important strides in our understanding of the changing dynamics of this complex 
 27\. Étienne Lamotte, *Le traité de la grande vertu de sagesse de Nāgārjuna* 
 
 [^28]: Braarvig (“*Dhāraṇī* and *Pratibhāna*,” 19) states that *dhāraṇī* attainment in this context results in a memory of “extraordinary power.” Q.v. n31.
+
 [^29]: See, for example, Copp, “Notes on the Term *Dhāraṇī*,” 498.
+
 [^30]: The phonetic rendering of *dhāraṇī* into Chinese (*tuóluóní* 陀羅尼 or *tuóliánní* 陀憐尼), discussed by Lamotte (*Le Traité*; cited in Davidson, “Studies in *Dhāraṇī* Literature I,” 103), is addressed below as the first variant appears in the Baogui 寶貴 edition of the Suv, *Hebu Jinguangmingjing* 合部金光明經*,* (T. vol. 16, no. 664).
 
 *[p. 63]* ^pg11
@@ -140,7 +156,9 @@ as well. Thus, the broader range of the term’s usage will be touched upon only
 Despite *dhāraṇī*’s semantic function as “the complete retention \[of x\]” in a number of Mahāyāna sutras including the Suv,[^31] the most common scholarly conception of the term instead centers upon its connection with mantras (i.e., strings of efficacious phrases and syllables often translated as “spells”).[^32] What’s more, *dhāraṇī* also functions as a type of mantra that produces “the complete retention \[of x\].” Thus, we have at least three semantic possibilities for the translation of *dhāraṇī* in any given Mahāyāna text. That said, recent scholarship asserts that *dhāraṇī* is most often synonymous with mantra and/or *vidyā* (a feminine-gendered mantra often used to invoke goddesses).[^33] I therefore see two major problems with current scholarship on *dhāraṇī*. The first is the automatic scholarly assumption that a *dhāraṇī* is mantric, that it carries (at least in part) a meaning synonymous with mantra. I have encountered this problem specifically in Mahāyāna sutras, and—postulating from my findings discussed below and elsewhere—*dhāraṇī* seems not to be mantric whatsoever in at least some sutra contexts. The Sanskrit recension of the Suv published by both Nobel and Bagchi is one of these contexts. To dig a bit deeper, the earlier Gv (ca*.* late third to early fourth century CE) mentions the term “*dhāraṇī*” at length but 
 
 [^31]: In addition to the Suv, examples of *dhāraṇī*’s non-mantric semantic function of “complete retention” arise in the Gv as well as the *Daśabhūmika sūtra*. See Hillary Langberg, “Invoking the Goddess: The Role of Female Deities in Mahāyāna Indian Buddhism of the Middle Period (ca. Second to Seventh Centuries CE)” (PhD diss., University of Texas at Austin, 2018).
+
 [^32]: Sanskritists also typically read *dhāraṇī* as occurring in a *dvandva* and/or appositional formation with the former members of compounds. The possibility of its use as a genitive *tat-puruṣa* (i.e., as “the complete retention \[of x\]”), however, deserves greater consideration.
+
 [^33]: See, for example, Gergely Hidas’s discussion (“*Dhāraṇī* Sūtras,” in *Brill’s Encyclopedia of Buddhism, Volume One: Literature and Languages*, ed. Jonathan Silk, Oskar von Hinüber, and Vincent Eltschinger, 129–137 \[Leiden: Brill, 2015\], 129): “At least synchronically speaking, *dhāraṇī* is decidedly polysemic and context sensitive (Davidson, 2009). In the present literary context, the ‘spell’ interpretation of *dhāraṇī* as used here describes a reasonably distinct scriptural body. However, *dhāraṇī* is often appositional or interchangeable with two other closely related words—mantra and *vidyā*, which also refer to a spell.”
 
 *[p. 64]* ^pg12
@@ -150,8 +168,11 @@ provides us with no formulas (long, mantra-like invocation verses).[^34] The sut
 The second problem I routinely find in scholarship on *dhāraṇī* arises in contexts in which a *dhāraṇī* clearly functions as an incantation (i.e., as a “*mantra-dhāraṇī*”[^37]). In such cases, I suggest that *dhāraṇī* would be most accurately classified as a mantra *type* rather than as its unproblematized synonym. My reasoning for this assertion will be clarified further in my analysis below. Yet, for one, “mantra” in Sanskrit literature is a broad-based term with many sub-types (e.g., *vidyā*, *hṛdaya*, 
 
 [^34]: Scholars have more typically affirmed otherwise, and this is a point to which I will return in my analysis below, which questions the broad-based use of *dhāraṇī* as a categorical term for mantra-based rituals.
+
 [^35]: See Langberg, “Invoking the Goddess,” 164–168.
+
 [^36]: Braarvig, “*Dhāraṇī* and *Pratibhāna,*” 17–29. This is not to say that we do not find mention of mantric *dhāraṇī* in earlier texts, however. See Ingo Strauch, “The Evolution of the Buddhist *Rakṣā* Genre in the Light of New Evidence from Gandhāra: The *Manasvi-nāgarāja-sūtra* from the Bajaur Collection of Kharoṣṭhī Manuscripts,” *Bulletin of the School of Oriental and African Studies* 77 (2014): 66. There is also the issue that the meaning and function of *dhāraṇī* is by no means static and that Chinese translators may have applied the generally accepted meaning of *dhāraṇī* at the time of their translations.
+
 [^37]: In his cogent scholarship on *dhāraṇī*, Davidson (“Studies in *Dhāraṇī* Literature I,” 117), generally takes *mantra-dhāraṇī* as an “appositional compound,” (i.e., “a dhāraṇī that \[is\] a mantra”). Yet he also takes *mantra* as a synonym or, more problematically, a “subset” of *dhāraṇī* (ibid., 116–117). For his full series on *dhāraṇī* studies, see also Davidson, “Studies in *Dhāraṇī* Literature II: Pragmatics of *Dharāṇīs*,” *Bulletin of the School of Oriental and African Studies,* 77, no. 1 (2014): 5–61; and “Studies in *Dhāraṇī* Literature III: Seeking the Parameters of a *Dhāraṇī-piṭaka*, the Formation of the *Dhāraṇīsaṃgrahas*, and the Place of the Seven Buddhas,” in *Scripture:Canon::Text:Context: Essays Honoring Lewis Lancaster*, ed. Richard K. Payne (Berkeley: Institute of Buddhist Studies, 2014): 119–180.
 
 *[p. 65]* ^pg13
@@ -161,9 +182,13 @@ and *mūla*, to name some of the most common).[^38] The meaning of “mantra”
 The highly-changeable semantic and functional nature of this term has led Davidson to conclude, through a careful analysis of a wide array of textual examples, that *dhāraṇīs* work as “codes” or “coded” formulas.[^41] This is an assertion I find promising in texts that (1) provide incantory formulas (i.e., strings of magical phrases and syllables), and (2) more often than not date toward the end of the Middle Period in the case of Mahāyāna sutras specifically.[^42] It is within these textual examples that thinking of *dhāraṇīs* as “codes,” wholly subsumed within mantra 
 
 [^38]: A second important reason that *dhāraṇī* may be best described as a *type* of mantra, rather than its synonym, is that in certain contexts *dhāraṇī* grants soteriological benefits that *vidyā* and *mantra* do not. We see, for instance, in the ca. sixth-century *Sarvatathāgatādhiṣṭhāna sūtra*, a text discovered at Gilgit, that *dhāraṇī* takes the form of a soteriologically efficacious mantra (Langberg, “Invoking the Goddess,” 195–205). An example from this text is cited in Davidson, “Studies in *Dhāraṇī* Literature II,” 21.
+
 [^39]: Davidson, “Studies in *Dhāraṇī* Literature I,” 111. This tendency to conflate the term “*dhāraṇī*” with a set of “*mantrapadas”* can be traced back to early- to mid-twentieth century studies by, for one, the great Johannes Nobel. See, for example, his comments on the Sarasvatī *parivarta* (*Suvarṇabhāsottamasūtra*, 105n17).
+
 [^40]: I define “mantra-based ritual” in this context as a rite centered on an incantatory verse. The mantra phrases (*padas*) may be labeled as just that (e.g., “*mantra-padas*”) or, depending upon the context, those of other mantra types (e.g., “*vidyā-padas*” or “*dhāraṇī-padas*”). The type of mantra employed in a ritual might change dependent upon several factors: for example, who is offering the ritual, the period of its composition, the textual genre, the language the text is written in, and so forth.
+
 [^41]: Davidson, ibid.
+
 [^42]: The *Saddharmapuṇḍarīka* is of course a notable exception as Strauch has shown (“The Evolution of the Buddhist *Rakṣā* Genre,” 66). Incidentally, I agree with Lamotte and Braarvig’s view of Asaṅga’s text, namely that *mantra-dhāraṇī* “designates the capacity ‘in retaining or remembering spells’ rather than the spell itself” (ibid., n6).
 
 *[p. 66]* ^pg14
@@ -173,6 +198,7 @@ terminology, is unequivocally accurate. In a departure from Davidson’s finding
 Much has been written on Sarasvatī’s chapter in the Suv, including Ludvik’s close analysis comparing Indic and Sinitic recensions. That said, the general assumption common to multiple studies has been that her mantra-based bathing ritual is encompassed within (or somehow connected to) the *dhāraṇī* (i.e., various powers of complete retention) that the goddess gives to the preaching monk at the outset of the chapter. The presumption here must be that the performance of Sarasvatī’s bathing ritual, including the recitation of its multiple mantras, activates the *dhāraṇī*’s benefits in addition to its own myriad forms of aid. One aim of this study is thus to complicate the current understanding of *dhāraṇī* in the Suv and elsewhere, namely so that the many distinctions that may arise between *dhāraṇī* and mantra*/vidyā* in Mahāyāna sutras will be carefully assessed in mantra studies moving forward.
 
 [^43]: In the first case, when *dhāraṇīs* function in Mahāyāna sutra contexts solely as an attainment of “complete-retention,” they do not necessarily appear to “have their *mantradhāraṇīs* abstracted elsewhere” (ibid., 142). I believe this is the case in the Sarasvatī *parivarta*. Moreover, it is unclear whether Davidson believes that *dhāraṇī* must always be connected with a mantric formula or coded statement (see ibid., 141–142).
+
 [^44]: Bodhisattvas typically attain *dhāraṇī* via *samādhi,* but Sarasvatī does not mention *samādhi* in conferring her *dhāraṇī* in the Suv. *Dhāraṇīs* also appear in chapter 1 of the *Mañjuśriyamūlakalpa* (ca. sixth to eighth centuries CE) and*,* as per Glen Wallis’s translation, “arise from the penetrative mind which ensues from meditative absorption \[*samādhi*\]” (Glenn Wallis, *Mediating the Power of Buddhas: Ritual in the Mañjuśrīmūlakalpa* \[Albany: State University of New York Press, 2002\], 33). Thus, they continue to be accessed through the state of *samādhi* in early tantric ritual manuals. In the *Mañjuśriyamūlakalpa*, however, the role of *dhāraṇī* remains enigmatic, and it is clearly distinguished from both *mantra* and *vidyā*.
 
 *[p. 67]* ^pg15
@@ -186,6 +212,7 @@ Among the Suv’s nineteen brief chapters in Bagchi’s edition, three are devot
 *1.1 Sarasvatī’s Bestowal of Dhāraṇī* To begin, I wish to clarify that Sarasvatī is the only figure who bestows a *dhāraṇī* in the Sanskrit recension of the Suv published by both Bagchi and Nobel.[^46] Her offering here has a very similar function to *dhāraṇīs* 
 
 [^45]: Gummer (“Articulating Potency,” 240–241) has conducted an in-depth analysis of this goddess’s functions in the Suv, including her invocation via the sutra’s recitation.
+
 [^46]: Gummer writes: “Although the chapter divisions vary somewhat among the extant Nepalese \[Sanskrit\] manuscripts, all represent a single recension
 
 *[p. 68]* ^pg16
@@ -237,7 +264,9 @@ her *dhāraṇī* aid (i.e., those gifted directly to the *dharmabhāṇaka*)
 *1.2 Sarasvatī’s Offering of a Mantra-Based Bathing Ritual* The goddess then prescribes a bathing ritual involving a list of medicinal herbs and the recitation of multiple mantras. Because this multiform ritual results in the invocation of Sarasvatī’s presence, I discuss the details of its preparation further in part two. The passage on the bathing 
 
 [^55]: The Sanskrit passage for this sentence and the rest of this paragraph reads: *yathā cāyaṃ Suvarṇabhāsottamaḥ sūtrendrarājas teṣāṃ buddhasahasrāvar uptakuśalamūlānāṃ sattvānām arthāya ciraṃ Jambudvīpe pracaret / na ca kṣipram antardhāpayet / anekāni ca sattvāni Suvarṇaprabhāsottamaṃ sūtrendrarājaṃ śrutvācintyatīkṣṇaprajñā bhaveyuḥ / acintyaṃ ca jñānaskandhaṃ pratilabheyuḥ* */ dṛṣṭadhārmikāṃ ca āyuḥsampattiṃ pratilabheyuḥ / jivitānugrahaṃ ca aparimitaṃ ca puṇyaskandhaṃ pratigṛhṇīyuḥ /… sarvaśāstrakuśalāś ca bhaveyuḥ* */ nānāśilpavidhisaṃpattiṃ ca pratilabheyuḥ //* (Nobel, *Suvarṇabhāsottamasūtra*, 103).
+
 [^56]: Bagchi (*Suvarṇaprabhāsasūtra*, 55) has a variant reading of the end of this passage: *sarvaśāstrakuśalāś ca bhaveyur nānāśilpavidhijñāś ca //.*
+
 [^57]: Ludvik (*Sarasvatī*, 160) notes “the greatness and prestige accorded to the orator” in the sutra, “for it is through him that the sutra is preserved and beings are led to awakening.”
 
 *[p. 72]* ^pg20
@@ -295,7 +324,9 @@ In fact, after declaring the bathing ritual and its procedures, Sarasvatī clar
 As Ludvik’s cogent study has pointed out, when we compare the extant Sanskrit to the earliest Chinese translation by Dharmakṣema (ca. 417 CE), no bathing ritual is found in that edition.[^70] Looking closely at the Sanskrit passage, it is interesting to note that the verbal mood does not follow the future-tense linguistic structure of the previous passage (wherein the goddess states, “I myself will go there”), nor does it follow that of the goddess’s direct benefits to the preaching monk in the *dhāraṇī* section. Sarasvatī’s motivations and summary of her mundane aid are uncharacteristically composed here in the optative/potential mood. This is likely because the sentence is an interpolation—a segue so to speak—between the added bathing ritual in its entirety and the material presumably already present in the Sanskrit text when the ritual was added, albeit now quite a bit later in the chapter.[^71] This extant sentence laying out soteriological benefits was initially included as a benefit of the power of text resulting from the preaching monk’s 
 
 [^69]: Bagchi, *Suvarṇaprabhāsasūtra,* 57. I am following Edgerton’s translation here for *dhāraka* as “one who retains in his mind or memory” (Edgerton, *Buddhist Hybrid Sanskrit Grammar and Dictionary*, 284, col. 2).
+
 [^70]: Ludvik, *Sarasvatī*, 154.
+
 [^71]: The first sentence of this passage is thus a segue between the added bathing ritual and the lines which we find in Dharmakṣema’s edition, which are presumably already included in the no-longer-extant Sanskrit recension he translated. While Ludvik states that the passage on nirvana and non-regression does not appear in the extant Sanskrit (ibid., 161n9), it is, rather, not in a parallel position with Dharmaksema’s edition (ibid., 282) but now at the end of the bathing ritual section (ibid., 295–296).
 
 *[p. 76]* ^pg24
@@ -310,6 +341,7 @@ As noted, the aid resulting from the bathing ritual differs from both the primar
 *from Her Dhāraṇī Bestowal* Prior studies of the Suv have dealt with Sarasvatī’s gift of *dhāraṇī* in various ways. Ludvik describes the last line of the passage on *dhāraṇī* (discussed in 1.1 above) as follows: “The goddess announces, moreover, 
 
 [^72]: This is made evident from the side-by-side comparison that Ludvik provides of Dharmakṣema’s Chinese translation (of an earlier, and sparer, Sanskrit recension that she renders into English) and the Sanskrit recension of Nobel’s edition. Q.v. n25.
+
 [^73]: Sarasvatī is also incorporated in Jain texts during this (ca. fifth century) period, as per John Cort, “Medieval Jaina Goddess Traditions,” *Numen* 34, no. 2 (1987): 235.
 
 *[p. 77]* ^pg25
@@ -317,7 +349,9 @@ As noted, the aid resulting from the bathing ritual differs from both the primar
 that she will teach him \[i.e., the preaching monk\] a *dhāraṇī* (*zŏnchí* 總 持 ‘complete hold’), a talismanic charm or spell, to prevent loss of memory.”[^74] Ludvik thus takes *dhāraṇī* here as a spell, synonymous with a mantra, that is nonetheless also specified as a “complete-hold” for memory enhancement. Reflecting on her conflation of the two major semantic meanings of *dhāraṇī*, she then states: “The *dhāraṇī* is both the means of remembrance \[i.e., the spell\], as well as remembrance itself \[i.e., the attainment of ‘complete-hold,’ *zŏnchí* 總持\].”[^75] The issue of contention in this case, then, is not the semantic meaning of *dhāraṇī*. Instead, I raise the question of whether the term must hold both meanings simultaneously. We must then inquire as to how Sarasvatī’s gift of complete retention is believed to function, that is, how is it to be imparted upon the monk?[^76] More to the point, can we locate “the spell” that would presumably impart it (i.e., the mantra phrases or *dhāraṇīpadas* directly associated with this *dhāraṇī*)? Ludvik, approaching the issue with much greater care than most studies to date, writes: 
 
 [^74]: Ludvik, *Sarasvatī*, 159.
+
 [^75]: Ibid. Whether or not one agrees with Ludvik’s reading, her statement supports my view that *dhāraṇī* is indeed a *specific type* of spell (mantra), rather than synonymous with mantra (which I take to be a categorical term). This is the case when *dhāraṇī* shifts semantically to become completely associated with mantric invocation (q.v. n38). Here, however, I do not take the semantic force of *dhāraṇī* as being inclusive of “spell.”
+
 [^76]: Davidson (“Studies in *Dhāraṇī* Literature I,” 140) writes: “The mantric aspect is frequently associated with the emphasis on the relationship between *dhāraṇīs* and concentration \[i.e., *samādhi*\], so that the compound ‘*dhāraṇī* and concentration entrances’ (*dhāraṇīsamādhimukha*) is a standard accomplishment of advanced bodhisattvas, as has been noticed many times before.” The function of mantras in these contexts is not described, however. “Moreover,” he continues, “when *dhāraṇīs* occur in one or another of the great soteriological scriptures or other texts—like the *Daśabhūmika* or *Samādhirāja*, they often foreground the question of the special knowledges (*dharma-,* *artha-, nirukti-,* and *pratibhāna-pratisaṃvid*), all of which are related to skills necessary to the ritualized act of preaching” (ibid., 140). Again, Davidson does not describe any mantras occuring in these texts. In my own review of the *Daśabhūmika sūtra*, I have located no mantra (i.e., incantory or “spell”) phrases listed in connection with the text’s discussion of *dhāraṇīs*. The focus, as Davidson notes here, is on the “special knowledges” necessary for the preaching monk. This example is quite similar to the ways in which *dhāraṇī* functions in the Suv.
 
 *[p. 78]* ^pg26
@@ -327,7 +361,9 @@ The fact that no incantory formula appears following this passage supports Braar
 First, when we look at the rest of the chapter in both the extant Sanskrit provided by Nobel, as well as Baogui’s Chinese-language redaction of the Suv (*Hebu Jinguangmingjing*, 合部金光明經, T. vol. 16, no. 664), it is only the term “mantra” (i.e., “*zhou* 呪”) that arises multiple times throughout the bathing ritual passage in both the Sanskrit recension (published by both Nobel and Bagchi with substantial variations) and the Chinese translation by Yaśogupta/Jñānagupta. At no point do the terms *dhāraṇī*, *zŏnchí* 總持, and/or *tuóluóní* 陀羅尼 appear within Sarasvatī’s bathing ritual *vidhi*.[^79] Further, the term *zŏnchí* 總持 appears again only once in the Yaśogupta/Jñānagupta translation of 
 
 [^77]: Ludvik, *Sarasvatī*, 159–160 (q.v. n48). In Sarasvatī’s ritual offering, the terms “mantra” or *zhou* (呪) are, indeed, typically followed by an incantation.
+
 [^78]: Gummer (“Articulating Potency,” 242), for example, notes that “the primary vehicle for obtaining Sarasvatī’s apotropaic and elocutionary aid is a complicated bathing ritual.” See also Nobel’s prior conflation, q.v. n39.
+
 [^79]: Ibid., 282–308. *Tuóluóní* 陀羅尼 does appear several times in the chapter prior to that of Sarasvatī, called the “*Dhāraṇī* (*Tuóluóní*) of Non-Attachment” (銀主陀羅尼) interpolated as chapter 11 in Baogui’s redaction, a point to which I return below. I have also reviewed all incantation sections in the Sarasvatī chapter of the Sanskrit recension and, particularly, in Baogui’s redaction that Ludvik’s study omits (*Hebu Jinguangmingjing* 合部 金光明經, T. vol. 16, no. 664): 386c13–c17 and c20–c24; 387a05–a06, a10– a11, a16–a24, and b17–c25; accessed via *The SAT Daizōkyō Text Database*, https://21dzk.l.u-tokyo.ac.jp/SAT2015/T0664\_.16.0387b02:0387b02.cit (Aug.
 
 *[p. 79]* ^pg27
@@ -339,6 +375,7 @@ A useful example of the changeable nature of *dhāraṇī* arises outside of t
 That said, another recent example of the scholarly conflation of the two terms *mantra* and *dhāraṇī* occurs in Hidas’s summation of Sarasvatī’s chapter, wherein he employs the phrase “*dhāraṇī-*spells” in discussion of her bathing ritual despite the term given in the sutra 
 
 [^80]: Ludvik, *Sarasvatī*, 304–305. While in Nobel’s Sanskrit edition the brahmin praises Sarasvatī for her memory (*smṛti*), Yaśogupta/Jñānagupta have rendered the term as the Chinese equivalent of *dhāraṇī*, *zŏnchí* 總持 (“complete hold” or “complete retention”). Furthermore, Ludvik identifies each set of “*mantrapadas*” set forth in the bathing ritual as a “*dhāraṇī*,” the term which, as just noted, is clearly and indisputably related to the monk’s complete retention of the text and its teachings within this ca. fifth to sixth century context of the Suv. See, for example, *Sarasvatī*, 166n16, 167n17, and 169.
+
 [^81]: Ludvik makes the point that phonetic renderings of Sanskrit terms into Chinese signal their mantric importance. In the matter of the Chinese translation of Sarasvatī’s name, for example, she distinguishes between “mnemonic” and “phonetic” translations (*Sarasvatī*, 154–157).
 
 *[p. 80]* ^pg28
@@ -346,8 +383,11 @@ That said, another recent example of the scholarly conflation of the two terms *
 repeatedly being “*mantrapada\[s\].*”[^82] Moreover, Hidas does not address the actual appearance(s) of the term *dhāraṇī* in the first part of the chapter, instead noting the goddess’s “gift of eloquence.”[^83] Thus, while Śrī and Sarasvatī’s invocation rituals are certainly based in the recitation of a mantra or *vidyā*, there is simply no evidence that *dhāraṇī* is meant to be translated as “spell” in the Suv’s Sanskrit recension found in the Nobel and Bagchi editions, nor in the Śrī and Sarasvatī chapters of Baogui’s Chinese redaction.[^84] The conflation of *dhāraṇī* with mantras/spells is problematic in that it may lead to potential exegetical errors and, at the very least, unnecessary obscurations. Goodall and Isaacson as well as Holz have all expressed the importance of following the methodology set forth by Skilling, who writes: “Scholars often use the two words \[i.e., *dhāraṇī* and mantra\] interchangeably; it would be more accurate, however, to use the word actually employed in the text under consideration.”[^85] In addition, the question of terminology arises 
 
 [^82]: Hidas summarizes the rite as follows: “One should use incense, music, umbrellas, flags, banners, mirrors, arrows, spears, and *dhāraṇī-spells*, and in due course bathe behind an image of the Buddha” (“Buddhism, Kingship and the Protection of the State: The *Suvarṇaprabhāsottamasūtra* and Dhāraṇī Literature,” in *Śaivism and the Tantric Traditions*, ed. Dominic Goodall, Shaman Hatley, Harunaga Isaacson, and Srilata Raman, 234–248 \[Boston & Leiden: Brill, 2020\], 237). In Indic language versions provided by both P.O. Skjævø (*This Most Excellent Shine of Gold, King of Kings of Sutras: the Khotanese Suvarṇabhāsottamasūtra* \[Cambridge, MA: Dept. of Near Eastern Languages and Civilizations, Harvard University\], 177 v. 32), whose version Hidas cites, and Nobel (*Suvarṇabhāsottamasūtra*, 106 v. 7.8), the term given is the same: “*mantrapada.*” It seems unusual in an English translation to substitute one (more common) Sanskrit term for another (more obscure and “bewilderingly polysemic” one), but such is the nature of the current scholarly conflation of mantra and *dhāraṇī*.
+
 [^83]: Hidas, “Buddhism, Kingship, and the Protection of the State,” 236. He also states here that “*dhāraṇī*-spells” occur in both Śrī and Sarasvatī’s rituals (ibid., 235 and 237). The term *dhāraṇī* does not arise in connection with the rites in either goddess’s narrative, however.
+
 [^84]: Śrī’s chapter in the Sanskrit recension uses the term *vidyāmantra* once, *vidyā* twice, and *mantrapāda* twice. In the corresponding Chinese redaction translated by Yaśogupta/Jñānagupta, the terms *vidyā* (*míng* 明) and *mantra* (*zhou* 呪) are given as parallel semantic constructions.
+
 [^85]: Peter Skilling, “The Rakṣā Literature of the Śrāvakayāna,” *Journal of the Pāli Text Society* 16 (1992): 151; Dominic Goodall and Harunaga Isaacson, “The Shared ‘Ritual Syntax’ of the Early Tantric Traditions,” in *Tantric Studies:* *Fruits of a Franco-German Collaboration on Early Tantra*, ed. Dominic Goodall and Harunaga Isaacson (Pondichery: Institut Français de Pondichéry, 2016), 6n14; Kathrin Holz, *The Bhadrakarātrī-Sūtra: Apotropaic Scriptures in Early Indian Buddhism (Monographs on Indian Archaeology, Art and Philology 27)* (Heidelberg: Heidelberg Asian Studies Publishing, 2021), 184.
 
 *[p. 81]* ^pg29
@@ -359,6 +399,7 @@ While further inquiry must be made into the Mahāyānist use of *dhāraṇī*,
 *1.4 Sarasvatī’s Status as a Bodhisattva* To return now to a central argument of this study, Sarasvatī’s role in the Suv is also one in which she works as a bodhisattva on behalf of the Dharma (i.e., as a Mahāyāna practitioner). In each portion of the narrative, her role is to provide benefits to members of the sangha, both lay and monastic, who hear, write down, and/or retain the sutra in mind. Yet how do we know that Sarasvatī is meant to be read as a bodhisattva in this context? In the Suv, there is a continued reluctance on the part of the text’s author(s)—just as there is in the possibly earlier Gv[^87]—to name them as such. Nonetheless, Sarasvatī’s ability to aid in furthering beings soteriologically—working both with and within 
 
 [^86]: Q.v. n37.
+
 [^87]: Q.v. n3.
 
 *[p. 82]* ^pg30
@@ -368,9 +409,13 @@ the text—certainly favors this designation. We saw that she offers her bathing
 We also know that she is greatly revered in the Suv’s assembly. In response to Sarasvatī’s second mantra-based ritual offering (described here as a “*vidyā*”),[^89] Kauṇḍinya praises her as the “supreme, chief, excellent goddess.”[^90] He also describes her as being “luminous with merit” (*puṇyojjvalā*), “fully endowed with deep insight wisdom” (*gambhīraprajñāya samanvitāyai*), “complete in her mindfulness” (*smṛtisamagratāyai*), and “highly resolute” (*susattvatāyai*).[^91] Given these traits, particularly that she is “fully endowed” with the deepest *prajñā*, it is plausible to regard her as an ideal bodhisattva practitioner. In sum, Kauṇḍinya’s description of her spiritual attainments and the goddess’s ability to bestow *dhāraṇī* provide convincing evidence of her high-level bodhisattva status.[^92] 
 
 [^88]: For instance, according to the *Daśabhūmika sūtra*, possessing the power of *dhāraṇī* (*dhāraṇībala*) is a defining characteristic of an advanced bodhisattva of the ninth *bhūmi* (see Langberg, “Invoking the Goddess,” 117). Further, we see advanced bodhisattva-goddesses of the Gv imparting *dhāraṇī* as well (ibid). It also appears to be the case that one can receive *dhāraṇī* benefits from an advanced bodhisattva (e.g., as a miraculous gift) without being of an advanced level oneself.
+
 [^89]: Following Kauṇḍinya’s injunction to the goddess: “Let \[beings\] speak a brilliant speech” (q.v. n53), Sarasvatī offers a second invocation ritual. While reciting its phrases she implores: “Let the intellect of all beings be unobstructed! Let my *vidyā*-mantra succeed!” (*sarvasattvānāṃ buddhir apratihatā bhavatu vidyā me siddhyatu… /* \[Bagchi, *Suvarṇaprabhāsasūtra,* 57\]). The rite concludes with: “Homage to the Blessed One, Sarasvatī! Let my mantra phrases succeed, *svāhā*!” (*namo bhagavatyai sarasvatyai siddhyantu mantrapadāḥ svāhā* // \[ibid., 58\]). In Baogui’s redaction, the translation for *vidyā* (*míng* 明) can be found at 387c23, which alternately may be read as “radiance” (*guāng míng* 光明). No additional terminology for mantra or *dhāraṇī* arises in this ritual passage, however (*Hebu Jinguangmingjing*, 合部金光明經 \[T. vol. 16, no. 664\]).
+
 [^90]: Emmerick, *Sūtra of Golden Light*, 47.
+
 [^91]: For *susattvatāyai*, Emmerick has “an excellent being” (ibid., 47).
+
 [^92]: Q.v. the brahmin’s additional praises discussed on p. 70.
 
 *[p. 83]* ^pg31
@@ -394,7 +439,9 @@ may during numerous hundreds of thousands of millions of aeons experience inconc
 To return to a comparison of the gifts that Sarasvatī and Śrī bestow (e.g., *dhāraṇī* vs. an enhanced facility with the text and material comforts), these differences may also stem from a variation in their level of bodhisattva status. We know that, because Śrī previously “planted a merit-root” (*kuśalamūla*) in the presence of a *tathāgata* named Ratnakusumaguṇasāgara, the text thus implicitly characterizes her as a bodhisattva practitioner.[^96] This does not in itself constitute advanced bodhisattvahood, however. Perhaps she does not bestow *dhāraṇī* because she has not yet gained the status of an advanced bodhisattva.[^97] 
 
 [^95]: Emmerick, *Sūtra of Golden Light*, 48. *anekāni ca kalpakoṭīniyutaśatasahasrāṇy acintyāni divyamānuṣyakāni sukhāni pratyanubhaveyuḥ / durbhikṣaś cāntardhāpayet / subhikṣaś ca prādurbhavet / sattvāś ca manuṣyasukhopadhānena sukhitā* *bhaveyuḥ / tathāgatasamavadhānagatāś ca bhaveyuḥ / anāgate ‘dhvati cānuttarāṃ samyaksaṃbodhim abhisaṃbodhayeyuḥ* */* *sarvanarakatiryagyoniyamaloka-duḥkhāny atyantasamucchinnāni bhaveyur iti //* (Bagchi, *Suvarṇaprabhāsasūtra*, 60).
+
 [^96]: Emmerick, *Sūtra of Golden Light*, 48. The *tathāgata*’s full name is Ratnakusumaguṇasāgaravaiḍūryakanakagirisuvarṇakāñcanaprabhāsaśrī, typically shortened to Ratnakusuma (Bagchi, *Suvarṇaprabhāsasūtra*, 61).
+
 [^97]: Q.v. n88.
 
 *[p. 85]* ^pg33
@@ -406,8 +453,11 @@ In any case, at the close of the text—while possibly added after Dharmakṣema
 …this the Lord (Buddha) spoke, \[and\] the minds of the bodhisattvas—headed by the *kula* goddess Bodhisattvasamuccayā[^99] and the great goddess Sarasvatī—were transported with joy, and the gods, humans, *asuras*, *garuḍas*, *moragas,* etc. of the all-encompassing assembly greeted the Blessed One’s speech with gratitude and praise. *idam avocad bhagavān āttamanās te bodhisattvā* *bodhisattvasamuccayākuladevatāsarasvatīmahādevīpramukhā* *sā ca sarvāvatī parṣatsadevamānuṣāsuragaruḍakiṃnaramahor agādi pramukhā bhagavato bhāṣitam abhyānandann iti* //[^100] Not only that, these two female deities stand at the fore of the bodhisattva assembly. A similar passage occurs in chapter 1, wherein the list of great goddesses, headed by Sarasvatī and Bodhisattvasamuccayā, goes on to include the great goddess Śrī, the great earth goddess Dṛḍhā, and the great goddess Hārītī prior to a long hierarchical list of divine, semi-divine, and human beings.[^101] Thus, while Śrī is not named in this closing verse, her omission may not necessarily place her at a lower level than Sarasvatī as a bodhisattva, but rather allude to the longer version of the same list earlier in the text in chapter 1. What we can say with certainty, however, is that, in all, goddesses in the Suv are given an unexpectedly high ontological standing in the text’s assembly of all beings, and that Sarasvatī is clearly named among a group of bodhisattvas at close of the text.
 
 [^98]: The praises may be a later interpolation along with the bathing ritual; however, the Buddha also praises the goddess Bodhisattvasamuccayā in Suv chap. 19.
+
 [^99]: The *kula* goddess Bodhisattvasamuccayā acts as the Buddha’s interlocutor in the later chapters of the text. Here the two goddesses are described as *kuladevatā* vs. *mahādevī*, potentially inhabiting two different categories of female deity.
+
 [^100]: Suv chap. 21; Bagchi, *Suvarṇaprabhāsasūtra*, 128.
+
 [^101]: Bagchi, *Suvarṇaprabhāsasūtra*, 1.
 
 *[p. 86]* ^pg34
@@ -456,6 +506,7 @@ Sugata, Departed One, Departed One, protect (this rite), *svāhā*! Sugata, De
 There is a significant link between the potential appearance of this epithet and the proximity to the Buddha in the ritual *vidhi* itself. In the final line the nominal form *āvat*, meaning “proximity,” closely connects to the ritual action and certainly provides a play on the Departed One (*vigata*) signaled by the name “Sugata.” It is not clear, however, whether *avati* is instead (or additionally) meant to be read as a finite verb (from √*av*), meaning “protect” or “accept favorably,” as both renderings are appropriate here. A semantically ambiguous mantra is apt 
 
 [^108]: Given the *va>ba* shift in orthography in the Nobel edition (unless of course Bagchi “corrected” this tendency in his 1967 edition), these appear to be two recitation traditions. Even if there were uniform orthographic conventions across manuscripts, the two editions show major scribal differences.
+
 [^109]: The vocative of the Sanskrit term *sugati* (f.), which means “bliss” or happiness, does scan gramatically here. It does not appear to reference the goddess herself, however, as we would instead expect *sugati* (the vocative of *sugatī*), a term that does not appear elsewhere in reference to Sarasvatī to my knowledge.
 
 *[p. 89]* ^pg37
@@ -465,8 +516,11 @@ in this context, and if this is indeed the case, it would seem to be a deliberat
 Mantra four is the invocation ritual itself. The first two lines depart from the linguistic pattern of the rest of the *mantrapadas*, which follow the typical mantric encomium of a deity’s name with a dative ending indicating praise or homage to them. Instead, its first two lines mirror the structure of mantra three.[^113] Here, the two editions differ semantically, and I agree with Ludvik’s assessment that, in Nobel’s edition, 
 
 [^110]: The meaning of “protection” is found in the ca. fifth-century *Raghuvaṃśa* and thus could potentially also arise in the bathing ritual’s interpolation.
+
 [^111]: Peace is referenced in the following mantra with “*śame*.”
+
 [^112]: After the rite, the Buddha praises Sarasvatī, saying “Well done, Well done, Great Goddess Sarasvatī!” (*sādhu sādhu Sarasvati mahādevi*) (Nobel, *Suvarṇaprabhāsasūtra*, 107). Here he mentions “spells and medicaments” (*mantrauṣadhi*) which the Buddha would not have mentioned in Dharmakṣema’s early fifth-century translation (see Emmerick, *The Sūtra of Golden Light*, 46; Nobel, ibid.).
+
 [^113]: Nobel’s *Suvarṇabhāsottamasūtra* has the not uncommon use of “*ba*” in place of “*va*” throughout. These *mantrapadas* in each edition are as follows (Bagchi first | Nobel second): *śame viṣame svāhā* | *śame* / *biśame svāhā* *sugate svāhā* | *sagaṭe bigaṭe svāhā* Here I have amended “*same”* in Bagchi’s online edition to *śame*, which is not noted as a variation in Nobel. See http://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa\_suvarNaprabhAsasUtra.htm.
 
 *[p. 90]* ^pg38
@@ -476,10 +530,15 @@ these *mantrapadas* appear to be “unintelligible.”[^114] I will therefore li
 *śame viṣame svāhā / sugate \[vigate\] svāhā /* Alleviate misfortunes, *svāhā*! Sugata, the Departed One, *svāhā*![^115] Again, given the irregular grammar, my translation should be taken as a cautious estimation. The semantic meaning of the first *mantrapada* clearly aligns with the intention of the rite, however.[^116] In translating *śame*, which is typically the singular locative form of a masculine noun meaning “tranquility,” I have opted instead for the imperative verb form characteristic of *rakṣā* mantras.[^117] It is, moreover, unclear as to whether the first *mantrapada* is directed toward the goddess herself or to “*sugate*,” a term which cannot be convincingly taken as a feminine eponym.[^118] That said, when we compare the context of *sugate* here with that of mantra three, it appears to again reference the Buddha himself. In the Bagchi edition, the *mantrapadas* then continue by paying homage to deities using unambiguous grammatical forms.[^119] While 
 
 [^114]: Ludvik, who consults Nobel’s edition, also notes the similarity of these initial phrases to the previous invocation (*Saravsatī*, 170). Moreover, while the first line of Nobel’s edition does have some semantic value, a definitive translation is not possible. I have translated *śame* above as if it were *śama*, an imperative verbal form meaning “pacify/appease,” yet this is also a masculine noun meaning “tranquility.” Because *\[v\]iśame* could carry the meaning of the verbal stem √*viś,* it might conceivably be rendered as: “Enter into tranquility, *svāhā*!” This meaning would follow the force of the prior mantra meant to invoke peace (*śānti*). Another possibility is that *viś* refers to a group, in the sense of “Pacify these subjects (i.e., of Sugata)!,” referring to the Brahmāṇical deities about to be mentioned. In any case, because of the opaque morphology of the mantras, these translations should be taken merely as suggestions. In line two of the mantra in Nobel’s edition, the unintelligibility stems from the inclusion of *sagaṭe* together with the seemingly Prakritic retroflexion in both terms.
+
 [^115]: Here I have added in *vigate*, which appears in the parallel location of Nobel’s edition, albeit with a retroflex “*ṭ*” also found in the Taishō transliteration (q.v. n119).
+
 [^116]: Q.v. n60.
+
 [^117]: Holz writes that “common elements of *rakṣā mantras*” include injunctions and second-person imperative verbs (*The Bhadrakarātrī-sūtra*, 185).
+
 [^118]: Q.v. n109.
+
 [^119]: The Nobel edition has a third, impenetrable *mantrapada* that does not appear in Bagchi’s edition (*sukhatinate svāhā*). Were we to render this instead as *sugatinate,* the meaning of “one turned toward bliss, *svāhā*!” would be conceivable. The Taishō transliteration has “*Vigata* (蕃 *pamgaci) vatisvāhā”* (cited in George Keyworth, “Did the Silk Road(s) Extend from Dunhuang, Mount Wutai, and Chang’an to Kyoto, Japan? A Reassessment Based on Material Culture from the Temple Gate Tendai Tradition of Miidera,” in *Buddhism in Central Asia II*, ed. Henrik Yukiyo Kasai and Henrik H. Sørensen, 17–67 \[Leiden:
 
 *[p. 91]* ^pg39
@@ -489,7 +548,9 @@ some of the names of the deities praised here are unclear, we doubtless have men
 Additional evidence for the “Buddhification” of this mantra, so to speak, is found in its Taishō transliteration, which gives us *sāgara-saṃbuddhayā svāhā*[^121] in place of an encomium to “To the ocean-borne one, *svāhā*” (*sāgarasaṃbhūtāya svāhā*) that appears in both Sanskrit editions.[^122] While as-is this feminine instrumental ending does not scan grammatically (however well it rhymes with *svāhā*), and despite 
 
 [^120]: See Ludvik (*Sarasvatī*, 170–171) for details on the potential translations of these *mantrapadas*. A few notes to add here: whether the intended meaning is that reproduced in Nobel, *skandamātrāya svāhā*, or in Bagchi, *skandhamārutāya svāhā*, the two diverge quite a bit. For an interpretation of the first, given in Nobel’s edition, see Ludvik (*Sarasvatī*, 170). The Bagchi edition *mantrapadas* would be rendered: “To Skanda and Māruta (i.e., Vāyu), *svāhā*!” In Nobel’s edition, Vāyu is mentioned in chap. 14 (v. 35) along with “Indra, Soma, Varuṇa, Skanda, Viṣṇu, Sarasvatī, Prajāpati, and Hutāśana \[Agni\]” (*Suvarṇaprabhāsottamasūtra*, 161).
+
 [^121]: Bagchi’s edition: *sāgarasaṃbhūtāya svāhā* / To the ocean-born one *svāhā*!
+
 [^122]: The identity of the “ocean-born one” is a matter of debate, yet the Vedic storm god Varuṇa, who is mentioned by name later in the chapter, appears to be a viable candidate. Sarasvatī, too, has been called “the ocean-born one” in the later Tibetan tradition (Jonathan C. Gold, *The Dharma’s Gatekeepers:* *Sakya Pandita on Buddhist Scholarship in Tibet* \[State University of New York Press, 2008\], 34–35). In any case, it is Lakṣmī, not Sarasvatī, who is typically believed to be born from the churning of the ocean of milk.
 
 *[p. 92]* ^pg40
@@ -503,5 +564,7 @@ N: *namo bhagavate brahmaṇe* / *namaḥ sarasvatyai devyai* /
 B: *sidhyantu mantrapadās taṃ brahma namasyantu svāhā* /[^123] N: *sidhyantu mantrapadā* / *taṃ brahmānumanyatu svāhā* //[^124] B: Homage to the Blessed Brāhmaṇī! Homage to the Goddess Sarasvatī! N: Homage to Lord Brahmā! Homage to the Goddess Sarasvatī! B: Let (these) mantra phrases succeed! Let it[^125] be honored, O Brahmā, *svāhā*! N: Let (these) mantra phrases succeed! Let it be granted, O Brahmā, *svāhā*! While such variations are not surprising across written accounts of the sutra, how do we then decide which manuscript to privilege? In any case, it is clear that Sarasvatī is praised, and the mantra closes with a final supplication to her divine consort, the creator god Brahmā. While the sutra tells us elsewhere that Sarasvatī sits at the head of “unfathomable divinities” in the great assembly, it would appear that this mantra preserves a separate ritual hierarchy of the Indic world wherein Brahmā is seen as chief among the *devas*. In sum, there is quite convincingly an effort to name the Buddha first in this mantra, particularly as this opening section does not align grammatically with the rest of the incantation. This may be sufficient evidence to indicate either that Sarasvatī is not considered by the text’s author(s) to be part of the Buddhist pantheon, and thus the Buddha’s name must be added to her ritual, or—by contrast—that all gods and goddesses are 
 
 [^123]: Bagchi, *Suvarṇaprabhāsasūtra,* 57.
+
 [^124]: Nobel, *Suvarṇabhāsottamasūtra*, 107.
+
 [^125]: In translating both Bagchi’s and Nobel’s versions here, I take *taṃ*, in both cases, as referring to the rite itself, and thus the line may alternately be translated: “Let this (rite) be honored, *svāhā*!”

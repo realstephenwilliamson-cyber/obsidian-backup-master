@@ -33,6 +33,7 @@ In the light of the evidence of the commentary on the *Gaṇakārikā*, we can n
 This laxity of the *ācārya* in comparison with the *sādhaka* is much more than a matter of external appearance. Inscriptions show us *ācārya*s of the Atimārga as owners of property – and this is as early as the fourth century CE – with the funds that enable them to make endowments of their own. Moreover, we find endowments for religious foundations that are not strictly within their own tradition. If *ācārya*s were bound by the restrictions that apply to *sādhaka*s this would be highly irregular. For when a person took 
 
 [^12]: SANDERSON 2006: 163–166.
+
 [^13]: LORENZEN <sup>2</sup>1991: 4–6. GHURYE too noted the discrepancy (<sup>2</sup>1964: 128) but interpreted it as evidence that by the twelfth century, the date of his evidence, the sect had purged itself of the objectionable practices mentioned by Yāmuna and Rāmānuja.
 
 *[p. 24]* ^pg43
@@ -42,7 +43,9 @@ initiation to begin the Pāñcārthika discipline, he was required to own nothin
 I have mentioned the *ācārya*’s contact with the laity. Naturally this extended to interactions with the monarch, such as we have seen in the passage of the *Śivadharmottara* presented above. Here too we see a major departure from the ascetic discipline of the *sādhaka*, who is expressly forbidden to have any dealings with the court.[^16] 
 
 [^14]: This epigraphical evidence is found in seven copper-plate grants of Mahārāja Bhuluṇḍa of Valkhā (modern Bagh in the Dhar District of Madhya Pradesh), part of a hoard of 27 plates discovered there in 1982 and published in 1990. The seven were issued in years 50 to 59 of an unstated era. This might be the Kalacuri, in which case the dates would correspond to 299–308 CE. But on palaeographic grounds it is more probable that it is the Gupta, in which case the years covered by these grants are 370–379 CE. They refer to unnamed Pāśupatas as being among those with rights to enjoy, cultivate, and inhabit the temple lands granted; and one issued in year 56 (376 CE) records a gift of land made by the Mahārāja to support the worship of the Mothers in a temple of those deities (*mātṛsthānadevakulam*) that, we are told, had been established by a Pāśupata officiant or teacher (*pāśupatācārya*) called Bhagavat Lokodadhi. For the inscription, see RAMESH & TEWARI 1990: 21–22 (no. 10); SANDERSON 2009: 52, n. 28.
+
 [^15]: See the Somnāthpattan Praśasti of 1169 CE (OZHÂ & BÜHLER 1889) and the Cintra Praśasti (ed. BÜHLER, EPIGRAPHIA INDICA 1: 32).
+
 [^16]: *Pañcārthabhāṣya*, p. 22, ll. 14–15: *ato ’trāsaṃvyavahāras tantre siddhaḥ.* *saṃvyavahāraś ca dvividhaḥ. tad yathā krayavikrayasaṃvyavahāro rājakula-saṃvyavahāraś ceti*. “Therefore it is established in this teaching that practitioners should not engage in transactions. These are of two kinds: buying and selling and having dealings with the royal palace.”
 
 *[p. 25]* ^pg44
@@ -60,6 +63,7 @@ have occurred, as we can see from the account of the ninth-century Guru Purandar
 Then came the Guru Purandara,[^17] befitted a *guru* had the gravity that comes from the highest wisdom, whose teachings concerning the duties \[of Śaiva initiates\] are never to this day contradicted by scholars learned in the way of discipline, whom the glorious and virtuous king Avanti\[varman\] made efforts to bring to this land, because he desired to receive \[Śaiva\] initiation and had heard from one of his agents that there was a certain holy ascetic in the vicinity of Uttamaśikhara shining in unimaginable glory, shedding his radiance like the sun. Avantivarman then went to \[Purandara\], who was practising austerities in Upendrapura, and having striven to win his favour succeeded in bringing him back to sanctify his kingdom.[^18] 
 
 [^17]: Saiddhāntika ascetics have initiation names, generally ending in -*śiva* or, in our earliest evidence, also -*jyotis*. So Purandara might seem not to be an initiation name. However, I propose that, since Purandara is a name of the deity Indra, it is a familiar substitute for the initiation name Indraśiva that is attested elsewhere in Saiddhāntika records. The Bangarh Praśasti of Mūrtiśiva reports that a Saiddhāntika *guru* of this name was given a monastery (*maṭha*) near Koṭivarṣa in Northern Bengal by the Pāla king Mahīpāla (r. ca. 977–1027) (v. 9: *śrīmān indraśivaḥ* … *samabhavac chiṣyo sya puṇyātmanaḥ* | *yasmai* … *-maṭhan dadāv iha mahīpālo nṛpas tattvavit* (SIRCAR 1983). An Indraśiva is anthologised in *Saduktikarṇāmṛta* 742; and another Indraśiva is reported as a royal preceptor (*rājaguru*) in an inscription in the Dharwar District (SOUTH-INDIAN INSCRIPTIONS 11: 156). It appears from the first of the verses I have cited here, v. 10, that this *guru* was the author of a ritual manual, a Paddhati, for the guidance of initiates. But I am not aware of any other reference to it.
+
 [^18]: The identity of Upendrapura is not known to me, but it is probable that it was in Mālava, since EPIGRAPHIA INDICA 20: 11, an inscription of 1110 CE issued by Naravarman, the Paramāra ruling that region, speaks of the village of Kadambapad-raka in the Mandāraka Pratijāgaraṇaka in the Upendrapura District (ll. 5–6: *upen-drapuramaṇḍale mandāraka pratijāgaraṇake mahāmaṇḍalīkaśrīrājyadevabhujya-mānakadambapadrakagrāme*). It is likely that it was founded by the early Paramāra king Upendra to bear his name (*svanāmnā*). In the account of the Paramāra lineage given by Padmagupta in the *Navasāhasāṅkacarita*, Upendra is the first historical king mentioned in the lineage after the “Ādirāja” Paramāra (11.76–80). His foundational status in this dynasty is suggested by the tradition reported there by Padmagupta that he sanctified the land with golden *yūpa*s commemorating his Śrauta sacrifices (11.78: *akāri yajvanā yena hemayūpāṅkitā mahī*). Uttamaśikhara is otherwise unknown, as is this king Avantivarman.
 
 *[p. 27]* ^pg46
@@ -101,6 +105,7 @@ I wish to draw attention to two features of this ceremony. The first is its hybr
 The second feature I wish to bring to your attention is the fact that this account, like that of royal text donation in the *Śivadharmottara*, gives us a rare glimpse of the impressive public setting of what we might otherwise 
 
 [^24]: *Naimittikakriyānusaṃdhāna*, f. 74v1, 4.118*: varṇānām āśramāṇāṃ ca guru-bhāvāya bhūpateḥ* | *yo ’bhiṣekavidhiḥ sopi procyate dīkṣitātmanaḥ*. “I shall now also teach that \[form of the\] ritual of consecration whose purpose is to empower the king, once he has been initiated, to be the guru of the caste-classes and religious disciplines.”
+
 [^25]: This is the *mantra* for periodic royal reconsecration, beginning with the words *surās tvām abhiṣiñcantu*, that is given by the sixth-century Varāhamihira in 47.55– 70 of the *Bṛhatsaṃhitā*, the well-known classic on divination. He reports there that he is basing his account of this ritual on that of the Elder Garga (47.2), who received it from Bhāguri. He refers, I presume, to the *Gargasaṃhitā*, a huge treatise on divination whose first version, according to PINGREE (1981: 69), was composed during the first century BCE or CE. I am unable at present to ascertain whether or not this royal consecration text is found in that work.
 
 *[p. 30]* ^pg49
@@ -114,7 +119,9 @@ of the deity Fire (*agniḥ*) into Śiva, he should make 108 oblations to each o
 The king should be brought into the pavilion accompanied by his \[chief\] minister (*mantrī*) and his chaplain (*purohitaḥ*) and then the chief queen (*devī*) accompanied by an elderly female companion (*vṛddhasakhī*). When they have been made to offer worship to Śiva, the Fire, the \[royal\] weapons 
 
 [^26]: These are the deities more commonly called the Vidyeśvaras. See, e.g., *Rauravasūtrasaṃgraha* 2.9–13; *Mataṅgapārameśvara*, *Vidyāpāda* 5.5–16, *Svacchanda* 10.1103c–1104, *Tantrāloka* 8.342–343. In Saiddhāntika scriptural texts, they are commonly required to be worshipped surrounding the core *mantra*-group (*garbhāvaraṇam*) consisting of Śiva and his ancillaries, with the Lokapālas and the Lokapālas’ weapons forming two outer circuits, as in *Niśvāsamūla* 4.4c–5: *pūrvok-tena vidhānena madhye devaṃ tu pūjayet* || *vidyeśvarān dvitīye tu lokapālāṃs tṛtīyake* | *caturthe pūjaye* ’*strāṇi gandhapuṣpair yathākramam*. “Following the aforesaid procedure, he should worship in the \[proper\] order Śiva in the centre, the Vidyeśvaras in the second \[circuit\], the Lokapālas in the third, and the weapons in the fourth.”
+
 [^27]: *Naimittikakriyānusaṃdhāna* 4.129–133: *sravantīvāripūrṇeṣu yathālaṃkāra-hāriṣu* | *ghaṭeṣv abhyarcya lokeśān sāstrān \*indrapuraḥsarān* (corr. : *indrapura-sarān* cod.) || 130 *śivam agniñ ca hetīś ca \*ketūṃś* (conj. : *ketuś* cod.) *ceśādivediṣu* | *saṃnidhīkṛtya saṃtarpya pūjayec cakravartinaḥ* || 131 *udagvediśiraḥstheṣu kalaśe-ṣūktalakṣmasu* | *\*anantādiśikhaṇḍyantān antān* (corr. : *antā* cod.) *digvidikṣu yathākramam* || 132 *tasyās tadvad \*adhaḥstheṣu* (corr. : *adhastheṣu* cod.) *rudramātṛ-gaṇārthadān* | *\*grahāsurapalāśākhyān palāśākhyān* (conj. : *palāsākhya* cod.) *bho-ginām adhipān api.*
+
 [^28]: *Naimittikakriyānusaṃdhāna* 4.137: *śatam aṣṭottaraṃ hutvā pratyekaṃ ca śivānale* | *digbhūtagaṇasaṅghebhyo dattvā dikṣu bahirbalim*.
 
 *[p. 31]* ^pg50
@@ -124,6 +131,7 @@ and the \[royal\] banners, the *ācārya* has them spend the night sleeping in t
 After sleeping there himself, the next morning he examines the dreams and counters with oblations any that are inauspicious. He then summons the deities that are the guardians of the hall of sacrifice and worships them as before. He pours oblations to Śiva, to the royal weapons, the royal banners, and the king’s armour (*kaṅkaṭāni*). He makes offerings to the Vidyeśvaras on their platform as before and to the Rudras and the others in the vases. Then he spreads the skins of a fighting bull and a cat on each of the platforms.[^30] A lacuna of one folio follows. But the missing action was no doubt to prepare the platforms to receive the king and queen for their consecration, since such skins are required in Brahmanical sources to cover the platform before the king sits on it to receive the consecration to his office (*rājyābhiṣekaḥ*).<sup>31</sup> 
 
 [^29]: *Naimittikakriyānusaṃdhāna* 4.138–146: *tatas tam avanīnātham anāhāram anākulam | snātaṃ candanaliptāṅgaṃ sitrasragvastrabhūṣaṇam ||* 39 *praveśya dvāramārgeṇa dakṣiṇena pracetasaḥ | sārdhaṃ mantripurodhābhyāṃ śivam arcā-payet kramāt ||* 140 *devīṃ \*vṛddhasakhīñ cāsyāḥ* (em. : *vṛddhasakhī cāsya* cod.) *saumyenaivāmbhasaḥ pateḥ* || *praveśya pātayec chambhor niyamasthāṃ padābjayoḥ* || 141 *śivāgnihetiketūnāṃ kāritābhyām athārcanam* | *pañcagavyaṃ caruṃ tābhyāṃ dattvā ca dvijaśodhanam* || 142 *sthāpayitvā tu tau tatra sarakṣau vedikādvaye* | \**pṛthak* (corr. : *pṛtha* cod.) *prākśirasau mahyāṃ saṃyatau kṣaumaśayyayoḥ* || 143 *yad vā tatpratimau viprau śivabhaktāv upoṣitau* | *śubhasvapnāvabodhāya tayor vaṃśakramāgatau* | 144 \**samabhyarcyāpi* (conj. : *samabhyarccepi* cod.) *saṃhṛtya śivaṃ sthaṇḍilato nale* | *tatra hutvā ca carvādi doṣāṇām upaśāntaye* || 145 *nṛpasyāmuṣya devyā vā tadāptānāṃ mamāthavā* | *svapnaṃ śubhāśubhaprāptihāni-liṅgaṃ pradarśaya* || 146 *ity adhyeṣya praṇamyāpi pūjayitvā prarocya ca* | *tatraiva rodhayed yāvac caturthāhābhiṣeca\*nam* (corr. : *na* cod.).
+
 [^30]: *Naimittikakriyānusaṃdhāna* 4.147–152: *athādhvaraśraman tasmin nirasya niśi nidrayā* | *prātar nityavidher ante sādhusvapnān niśamya ca* || 148 *samāvarjita-sarvāṅgaṃ gośakṛddi* + + + + | *nṛpābhiṣecanāyālam adhitiṣṭhed gurus tataḥ* | 149 *tatra \*yajñasadaḥpālān yajña* (corr. : *yajnaḥ* cod.) *āmantryeṣṭvā ca pūrvavat* | *kāraṇaṃ kāraṇānāñ ca tarpayi*\[*tvā* + + + \]*kam* | 150 *hetīn astreṇa ketūṃś ca varmaṇā kaṅkaṭāny api* | *sugandhapuṣpadhūpādyair naivedyāntaiḥ prapūjya ca* || 151 *anantādīṃś ca ved* + + + + + *vedyāś ca pūrvavat* || *rudrādīṃś ca ghaṭeṣv iṣṭvā vedyor ūrdhvam athāstaret* || 152 *bṛhadukṣṇo ’tiśūrasya vṛṣadaṃśasya carma ca* | *caturṇāṃ aśu*. With this f. 76v ends. *lakṣaṇabhṛtaḥ prācīnagrīvam āstaret* || *tato vṛṣasya yodhasya carma rohitam akṣatam* | *siṃhasyātha tṛtīyaṃ syād vyāghrasya ca tataḥ param*. “First he should spread the hide of an ox that possesses auspicious characteristics, that has died of old age, with the neck to the west, then the undamaged red hide of a fighting bull (*vṛṣasya yodhasya*). That of a lion should be third and that of a tiger should follow.”
 
 *[p. 32]* ^pg51
@@ -133,6 +141,7 @@ When the text returns, the king is being consecrated with the liquid from the va
 After his consecration, the king is to give the pavilion and its ritual equipment to the officiants, make large donations of money to the Brahmins and of mounts to the bards. There follows an account of the spectacle of the king’s return. He is to come out of the pavilion with his queen, mount a fine elephant or white horse and, shaded by a white parasol with a golden handle and fanned with white chowries, set forth to return to his palace in a procession with his army of elephants, chariots, cavalry, and infantry (*caturaṅgabalopetaḥ*), all obstacles removed by the row of war banners (*ketumālayā*) that precedes him fluttering in a favouring breeze, and acknowledging his being showered with parched grain by women of good family positioned on platforms on the tops of their whitewashed mansions. He should reenter the palace “worshipped by the citizens with their long eyes wide in wonder that surpass the beauty of blue lilies.” The heir-apparent should be consecrated to his office in the same way.[^33] 
 
 [^32]: *Naimittikakriyānusaṃdhāna* 4.167–168: + + + + + + + + + \[*ā*\]*dibhir alaṃkṛtaiḥ* | *satkriyānantaraṃ bhūyaḥ kalaśair abhiṣecayet* | 168 *loke vede prasi-ddhāś ca viprān etarhi pāṭhayet* | *abhiṣek\*āśiṣaḥ* (em. : *āsikhaḥ* cod.) *ślokān ṛṣi\*proktāṃś* (corr. : *proktāś* cod.) *ca tad yathā*. The verses of the consecration text follow (4.169–181).
+
 [^33]: *Naimittikakriyānusaṃdhāna*, f. \[84?\]r1–5, 4.269c–276b: + + + + + + + + + + + *mbarabhūṣaṇaḥ* || 270 *deśikebhyaḥ sayajñāṅgaṃ dattvā taṃ yajñamaṇḍapam* | *prabhūtaṃ vasu viprebhyo vāhanāni ca vandinām* || 271 *pūrvadvāreṇa niḥkramya svamahiṣyā samanvitaḥ* | *ārūḍho bhadramātaṅgam athavā vājinaṃ sitam* || 272 *ātapatreṇa śubhreṇa hemadaṇḍena copari* | *nigṛhītātapaḥ śvetair vījyamānaś ca* *\*cāmaraiḥ* (em. : *cāparaiḥ* A) || 273 *caturaṅgabalopetaḥ purataḥ ketumālayā* | *astavighno ’nukūlena dhūtayā mātariśvanā* || 274 *saudhāgravedikāsthābhiḥ kula-patnībhir ādarāt* | *prayuktaṃ lājavarṣaṃ ca manyamāno \*bahu* (conj. : *vaha* cod.) *priyam* || 275 *praviśet svapuraṃ paurair arcyamāno vikāsibhiḥ* | *nīlanīraruha-cchāyātaskarair āyatekṣaṇaiḥ* || 276 *anenaiva vidhānena yuvarājābhiṣecanam*.
 
 *[p. 33]* ^pg52
@@ -148,6 +157,7 @@ There can be no doubt that the initiand envisaged in this guide is the king, sin
 There is further evidence in the account of rites concluding the initiation ceremony prescribed by the Saiddhāntika scripture *Bṛhatkālottara*. For that states that the *guru* should close the initiation by sprinkling with the water from the vase of the weapon-*mantra* (*astrakalaśaḥ*), one of the two main vases prepared in the course of the ceremony, the horses, elephants, chariots, and soldiers of the army “in order to remove all obstacles and to ensure 
 
 [^34]: Viśveśvara, *Amṛteśadīkṣāvidhi*, f. 16v6, vv. 44–45b: 44 *sabhāryaḥ sasutaḥ paścāt sabhṛtyabalavāhanaḥ* | *śiṣyaḥ prahṛṣṭamanasā guror agre nivedayet* || 45 *ātmānaṃ manasā vācā karmaṇā ca viśeṣataḥ* |. 45a *ātmānaṃ* em. : *ātmanā* cod.
+
 [^35]: See, e.g., *Mahābhārata* 1.63.14; 3.82.63; 3.195.10; 7.123.15.
 
 *[p. 34]* ^pg53
@@ -187,6 +197,7 @@ Mantramārgic ritual systems
 In comparison with the Saiddhāntika Mantramārga, the Mantramārga’s non-Saiddhāntika cults seem to have been rather less engaged in activities in the public domain. Saiddhāntika *guru*s, for example, appear to have dominated officiation in the Mantramārga’s very public and prolonged rituals for the consecration of temples and fixed substrates of worship, notably the consecration of the major temple and its *liṅga* that any Śaiva king worthy of the name would establish in his name to mark his reign.[^39] In 
 
 [^38]: My emendation of *tat tadā* to *tat tathā* restores proper syntax by balancing the *yad yathā* of the subordinate clause. But it also has the support of a close parallel in *Śivadharmottara* 1.41: *yad yathāvasthitaṃ vastu guṇadoṣaiḥ svabhāvataḥ* | *yāvat phalaṃ ca puṇyaṃ ca sarvajñas tat tathā vadet*. The parallel also supports the optative *vadet*. It might otherwise be tempting to emend *tathā vadet* to *tadāvadat*, making this a statement that Śiva *has* taught things exactly as they are.
+
 [^39]: A Śiva installed in a fixed *liṅga* was given a two-part compound name whose first half would generally be that of the founder and whose second half would be - *īśvara*. Thus, for example a Śiva founded by an Avantivarman would be named Avantīśvara. If the deity were a Viṣṇu then the name would be Avantisvāmin. The purpose of such naming was not merely to immortalise the founder. It also served a legal purpose. Giving a personal name to the deity installed in the principal idol of a temple enabled it to be the locus of the foundation’s juristic personality. It was then possible to appoint officials who could, when necessary, go to court to defend its legal rights, notably its right to whatever properties and revenues had been gifted to it by the founder, and any later donors, to fund its activities.
 
 *[p. 37]* ^pg56
@@ -220,6 +231,7 @@ I am aware of one major case in which this prohibition was not observed, and I s
 Other cases that may well be of this kind are the cults of the royal goddesses Siddhalakṣmī, Guhyakālī, and Kubjikā, who have several inaccessible but conspicuous temples in the Kathmandu valley.[^42] If these Tantric cults among the Śaiva Newars of the Kathmandu valley did cross the line drawn by Abhinavagupta, then they no doubt did so as elements of a 
 
 [^41]: SANDERSON 2007: 277–278 and 2014: 30–32, 40–42, and 50-52.
+
 [^42]: SANDERSON 2003–2004: 366–372.
 
 *[p. 40]* ^pg59
@@ -409,6 +421,7 @@ Women, revelation, and esoteric community
 In the study of early-medieval India’s Tantric traditions, we face enormous difficulty recovering substantive glimpses of historical women. The prospects for meaningful recovery of women’s own voices seem particularly discouraging.[^2] Nonetheless, discourse on women abounds in Tantric literature and may afford scope for reconstructing at least limited aspects of their participation in some early Tantric traditions. One of the richest potential sources is the *Brahmayāmala* or *Picumata*, a voluminous Śaiva Bhairavatantra of the goddess-centred Vidyāpīṭha division which may date in some 
 
 [^1]: I would like to thank Vincent Eltschinger, Nina Mirnig, and Marion Rastelli for inviting this contribution and for organising such a stimulating symposium. This essay was initially drafted prior to publication of TÖRZSÖK’s (2014) insightful article, “Women in Early Śākta Tantras: *Dūtī*, *Yoginī* and *Sādhakī*.” Though her aims are broader, these overlap in subject matter and in some of the particular evidence analysed. I am grateful that she has nonetheless encouraged me to complete and publish my essay, noting that our emphases have in many respects differed. In revising, I have tried to place these essays in conversation and to curtail the degree of overlap, though some inevitably remains (especially the discussion of *Brahmayāmala*, chapter 24). I am grateful to Alberta Ferrario, Ayesha Irani, Csaba Kiss, and the volume’s editors for their comments on drafts of this essay. Quotations from the *Brahmayāmala* are from the editions of HATLEY (2007 and 2018) and KISS (2015), for published chapters, and otherwise from my draft editions based on the principal manuscript (siglum “A” in the critical edition; see the bibliography). Passages adduced from the *Brahmayāmala* generally follow the orthography of this Nepalese palm-leaf manuscript, as discussed in the introduction to HATLEY (2018). The language of the *Brahmayāmala* is highly non-standard; for a detailed discussion, see KISS (2015: 73–85).
+
 [^2]: Notwithstanding the controversial claims of SHAW (1994). For a striking exception to the relative absence of women’s voices, albeit from early twentieth-century Tibet, note the case of Sera Khandro, admirably studied by JACOBY (2014).
 
 *[p. 50]* ^pg69
@@ -420,8 +433,11 @@ While the *sādhaka*’s rites frequently demand solitude, the BraYā nonetheles
 In the revelation narrative of chapter (*paṭala*) 1, the BraYā portrays its redaction as a cosmogonic process, narrating the “descent” (*avatāra*) of the primordial scriptural wisdom (*jñāna*) into the world in the bounded form of text. This narrative simultaneously articulates a social vision by delineating the scripture’s lineage of redactors, a metacommunity spanning levels of the cosmos (*tattva*) and cycles of time. More than 25 persons find mention, in the majority of cases with specification of caste identity and region of origin.[^6] Details such as affiliations with Vedic schools (*śākhā*), preinitiatory names, native villages, or even the name of a parent flesh out some of the descriptions. Mirroring revelation’s vast temporal and cosmological framework, the narrative invokes an expansive Indic geography: individuals involved in the BraYā’s transmission span from Oḍradeśa in the east to Sindh (*sindhuviṣaya*) and the Swat Valley (*oḍḍiyāna*) in the northwest, and Kashmir (*kaśmīra*) and Lampā in the far north. Two facets 
 
 [^3]: For an overview of Tantric Śaivism’s branches and literatures, see SANDERSON 1988 and 2014. On the *Brahmayāmala*, see HATLEY 2007 and 2018, and KISS 2015.
+
 [^4]: The rites of the *sādhaka* form the focus of volume II of the BraYā, published by KISS 2015.
+
 [^5]: Note, for instance, passing reference to a communal meal in the *guru*’s home, in BraYā 45.227–230; and to a feast involving non-initiates following the rite of image-installation (*pratiṣṭhā*), in BraYā 4.707–709 (quoted in n. 92 below).
+
 [^6]: Cf. the discussions of SANDERSON (2009: 296, n. 703) and HATLEY (2007:
 
 *[p. 51]* ^pg70
@@ -431,7 +447,9 @@ concerning the persons described stand out: the prominence of male Brahmins in t
 From the outset, the BraYā articulates a vision of its readership community, its idealised community of practice, that explicitly incorporates women. In the opening chapter, Bhairava prophesies, “‘In home after home, O great goddess, whether they be men fit for *siddhi*, or women fit for *siddhi*, \[the *Brahmayāmala*\] shall spread to all of their homes. But those unfit for *siddhi*, whether a man or women, shall not attain even the mere *vidyā*-*mantra*, O great queen.’ Thus did speak Bhairava.”[^7] This is not isolated rhetoric, for references to initiated women abound in the text, and two women figure prominently in the revelation narrative. One of these participates directly in the text’s transmission. She is in fact the goddess Bhairavī or Aghorī herself, the divine interlocutor whose questions to Bhairava structure the text. Incarnate in the world in response to a curse, she was born as the girl Sattikā[^8] in a village near Prayāga to a Brahmin named Meghadatta and is said to possess intellect (*buddhi*) and the marks of auspiciousness (*lakṣaṇānvitā*). Worshipping the *liṅga* perpetually with great devotion, at the age of thirteen she attained perfection (*siddhā*) through the grace of the supreme *śakti*,[^9] thence ascending into the skies where she regained
 
 [^7]: BraYā 1.116c–118 (edition of HATLEY 2018): *gṛhe gṛhe mahādevi ye punsāḥ siddhibhājanāḥ* || 116 || *striyo vā siddhibhāginyas teṣām api gṛheṣv atha* | *praca-riṣyati deveśi evam vai bhairavo ’bravīt* || 117 || *asiddhibhājanā ye tu puruṣo ’tha striyo ’tha vā* | *vidyāmātram apiś caiva na prāpsyanti mahādhipe* || 118 ||.
+
 [^8]: The name appears only once in the BraYā’s old manuscript, where the orthography is ambiguous: both *santikā* and *sattikā* are possible. I consider the latter more probable and interpret this as the Prakrit equivalent of Sanskrit *śaktikā*.
+
 [^9]: BraYā (HATLEY 2007) 1.24–30: *tatas tvām vihvalān dṛṣṭvā gṛhītaḥ karuṇayā hy aham* | *evam uktāsi kāruṇyān mahāmanyubhṛtena tu* || 24 || *bhūrlokaṃ gaccha deveśe avatāraṃ kuruṣva ’tha* | *brāhmaṇasya gṛhe deham aparaṃ gṛhṇa suvrate* || 25 || *tatrasthāyās tatas tubhyaṃ bhaktyāhaṃ saṃpracoditaḥ* | *anugrahaṃ kariṣyāmi*
 
 *[p. 52]* ^pg71
@@ -456,7 +474,9 @@ Terms for women, terms for goddesses
 Discourse concerning women occurs primarily in the BraYā’s descriptions of ritual, whose paradigmatic agent is the male *sādhaka* or *mantrin* (less frequently, *yogin*). Initiation binds him to the demanding ascetic and ritual regimens delineated over the course of this twelve-thousand verse scripture, above all in chapter 45, recently edited and studied by KISS (2015). In addition to the *sādhaka*, who is of three grades,[^12-p53] the text envisions two other categories of initiated practitioner: the neophyte, called the *samayin* or pledge-holder; and the *ācārya* (also *deśika* or *guru*), the Tantric officiant who is entitled to confer initiation.[^13-p53] Supernatural attainment (*siddhi*) is the predominant ritual aim, and in contrast to the mainstream of the Mantramārga, the BraYā does not envision a category of liberation-seeking practitioner distinct from the *sādhaka* (known in other sources as the *pu-*
 
 [^11]: On the *tālaka*, whose ritual program is a key topic of BraYā 45, see KISS 2015: 35–55.
+
 [^12-p53]: See KISS (ibid.). The grades of *sādhaka* are the transgressive *tālaka*, the *miśraka* of “mixed” purity, and the vegetarian, celibate *carubhojin*. A somewhat different fourfold typology of *sādhaka*s appears in the latter chapters of the BraYā (*paṭala*s 91–94).
+
 [^13-p53]: Initiation (*dīkṣā*) and consecration (*abhiṣeka*) are mainly treated in a cycle of seven voluminous chapters, *paṭala*s 32–38.
 
 *[p. 54]* ^pg73
@@ -468,7 +488,9 @@ A distinct and more nebulous vocabulary applies to the women involved in ritual.
 Notably, each of the BraYā’s main terms for female practitioners possesses a double sense, potentially designating female initiates, but in other contexts referring to female divinities. In contrast, few terms for male practitioners apply also to deities (one of these exceptions being *vīra*, “hero”). This distinction may reflect the emphasis on female divinisation prevalent in Śākta-Śaiva traditions. These two levels of meaning obtain even with lesser-used designations for initiated women, namely *bhaginī* (“sister”), which also designates the cult goddesses of the *vāmasrotas* (the “leftward 
 
 [^14-p54]: The possibility that a *sādhaka* might seek liberation alone is intimated in BraYā 25.342cd: “These three pantheons are taught for the *sādhaka* who desires liberation” (*etad yāgatrayaṃ proktaṃ mumukṣo*\[*ḥ*\] *sādhakasya tu*).
+
 [^15-p54]: *sakhāya* is a variant stem of the irregular Sanskrit *sakhi* (“companion”); see EDGERTON (1953, vol. I: §10.8). On the desired qualities of the *uttarasādhaka*, which include knowledge of the initiatory pledges (*samaya*), see BraYā 21.51–54 (KISS 2015).
+
 [^16-p54]: Concerning *sādhakī*, which occurs in chapter 10 of the *Siddhayogeśvarīmata*, see TÖRZSÖK 2014. *sādhikā* seems mainly to occur in late-medieval East Indian Śākta Tantras, for instance *Kaulāvalīnirṇaya* 9.94.
 
 *[p. 55]* ^pg74
@@ -482,6 +504,7 @@ To a large degree, context dictates the use of terms for women. While the expres
 In contrast, the category *yoginī* may designate women as autonomous ritualists or even living goddesses beyond the context of sexual ritual. Integral to the category *yoginī* (synonym *yogeśī*) is its blurring of boundaries between the divine and human, for this category of divine female represents
 
 [^17-p55]: This term occurs in BraYā 45.575a and thrice in *paṭala* 24, which uses the expressions *anadhikāriṇī* (“a woman not authorised,” 24.74a), *pūrvādhikāriṇī* (“previously \[but no longer?\] authorised,” 24.75a), and *guptādhikāriṇī* (“secretly authorised,” 24.85d).
+
 [^18-p55]: BraYā 1.1b: *dūtīnāṃ padmaṣaṇḍe ’samasukhavilasal liṅgarūpaṃ bibharti* |.
 
 *[p. 56]* ^pg75
@@ -491,7 +514,9 @@ a state of being women seek to attain through ritual perfection.[^19-p56] Applie
 A similar possibility underlies the term *bhaginī* or “sister.” This occurs sparsely in the BraYā, but is notable for suggesting, as TÖRZSÖK (2014: 360) observes, a non-sexual relationship based upon initiatory kinship: *bhaginī* occurs mainly in explanations of the verbal and non-verbal codes (*chomma*) used to identify and communicate with other initiates – the 
 
 [^19-p56]: For analysis of the category *yoginī*, see TÖRZSÖK 2009 and HATLEY 2013.
+
 [^20]: See also the introduction to *paṭala* 14, cited below in n. 96.
+
 [^21]: BraYā 24.75c–76b: *āsām madhye kadā cit syād yoginī śakticoditā* \[em.; °*coditaḥ* ms.\] || 75 || *icchate sādhakaṃ devi bhoktavyā -m- aviśaṅkite* \[em.; *avaśaṅ-kite* ms.\] |. (“If a *yoginī* among those women at some point desires the *sādhaka*, impelled by the *śakti*, she may be enjoyed without hesitation, O goddess.”).
 
 *[p. 57]* ^pg76
@@ -507,8 +532,11 @@ The BraYā’s most extensive references to women occur in the context of ritual
 Delineating the characteristics desirable in a consort, a passage in chapter 45 of the BraYā (vv. 186–189b) depicts the ideal *dūtī* as an accomplished ritualist. Beauty appears among her desired qualities (186d), but this is not expressed in particularly erotic terms. On the other hand, her capacity for asceticism and meditation, devotion, learning, and her understanding of nondualism (*advaita*) are key. The ideal female partner, in other words, is an accomplished Tantric adept:[^25-p57] 
 
 [^22]: See BraYā 56.98c–102, quoted in n. 123 below.
+
 [^23]: Cf. TÖRZSÖK’s (2014: 341–342) cogent remarks on the fluidity of the categories of women she identifies in early Śākta-Śaiva works.
+
 [^24-p57]: This omission is not entirely determined by gender; a similar silence surrounds the *sādhaka*’s male assistant (the *uttarasādhaka*).
+
 [^25-p57]: Text as constituted by KISS 2015, except as noted; translation mine. This passage is also discussed by TÖRZSÖK 2014: 343.
 
 *[p. 58]* ^pg77
@@ -525,7 +553,9 @@ Delineating the characteristics desirable in a consort, a passage in chapter 45 
 Despite this emphasis on her skill and virtue, the *dūtī* or *śakti* is represented as having minimal ritual agency, and the BraYā expands little upon her religious life beyond her sexual role. She enters into action in chapter 45 after nearly 200 verses dedicated to the male *sādhaka* and his preparatory rituals. “Firm in her resolve” and with hair unbound, she is naked but for the Five Insignia (*mudrāpañcaka*) fashioned of human bone. The *sādhaka* worships her vulva and prepares a bed. They copulate and then consume the mixed sexual fluids “joyfully.”[^28-p58] Their alternating patterns of worship, coitus, *mantra* incantation, and fire sacrifice have numerous inflections, as 
 
 [^26-p58]: *saṃśita*° \] em.; *saṃśṛta*° ms.; *saṃśrita*° ed.
+
 [^27-p58]: °*prājñaḥ* \] em.; °*prājñoḥ* ms., ed.
+
 [^28-p58]: BraYā 45.198–202 (edited by KISS 2015): *agrataḥ śaktim āropya ūrdhva-rūpāṃ digāmbarām* | *mudrāpañcakasaṃyuktaṃ muktakeśī dṛḍhavratām* || 198 || *pīṭhaṃ tu-m-ārcayet tasyā astrodakasamanvitām* | *vilepayitvā gandhais tu āsanaṃ tatra kalpayet* || 199 || *yāgaṃ pūrvavidhānena aśeṣaṃ tatra vinyaset* | *bhūmyāṃ tathāsanaṃ kṛtvā svalpaprastaraṇāntikam* || 200 || *upaviśyāpayet tatra cumbanā-dyāvagūhanam* | *kṛtvā kṣobhaṃ samārabhya pavitraṃ gṛhya sādhakaḥ* || 201 || *prāśayitvā tu tau hṛṣṭau yāgadravyāṇi prokṣayet* | *arcanaṃ hi tataḥ kṛtvā naivedyāni tu dāpayet* || 202 ||.
 
 *[p. 59]* ^pg78
@@ -535,8 +565,11 @@ do their costumes and sexual positions.[^29-p59] Throughout the performance, the
 the *sādhaka*’s religious aspirations is illustrated by the rites for seeing his past lives.[^32-p59] A rather unique “Tantric community” obtains in these virtuoso sexual performances. These rites are a form of ritual diagnostics: through them, an unsuccessful *sādhaka* seeks a vision of his past lives to identify obstacles impeding his quest for *siddhi*. Playing on the double meaning of *yoni*, the premise is to use a woman’s womb (*yoni*) to see one’s past births (*yoni*). To have knowledge of three lives, the *sādhaka*’s own consort will suffice, but a vision of seven lives requires the participation of seven initiated 
 
 [^29-p59]: KISS (2015: 47–48) summarises the pattern of worship as follows: “The basic ritual ... includes ritual bathing (*snāna*), mantric installation (*nyāsa*), him entering the ritual site (*devāgāra*) and the performance of worship (*pūjā*). The *sādhaka* should perform pantheon worship (*yāga*) and fire rituals (*homa*), facing south, his hair dishevelled, naked, his body covered in ashes. His female partner should be standing, naked, her *pīṭha*, i.e., her genitals, are to be worshipped, and the installation of the pantheon (*nyāsa*) should be performed on them. She then sits down, he kisses and embraces her, he brings her to orgasm, collects the sexual fluids, and they eat these sexual fluids together. *Homa* is performed again with transgressive substances such as cow flesh. He inserts his *liṅga* in her *pīṭha*, and finally *homa* of meat is performed.” This basic pattern is inflected for different ritual aims, for details of which see the edition and translation.
+
 [^30-p59]: See BraYā 45.278cd, 282, 309, 312, etc.
+
 [^31]: BraYā 30.218–219b: *naktabhojī mahāvīraḥ śaktiyuktas tu tālakaḥ* | *śaktyālābhe mahādevi mṛnmayīṃ* \[em.; *mṛnmayī* ms.\] *kārayed budhaḥ* || 218 || *kuśamayīṃ vāpi deveśi śaktihīno na kārayet* |. (“The greatly heroic *tālaka* should eat by night, together with the *śakti*. In the absence of a *śakti*, O great goddess, a wise man should fashion \[an effigy of one\] out of clay or *kuśa*-grass. He should not perform \[the ritual\] without a *śakti*, O queen of the gods” \[understanding *kārayet* as non-causative in sense\]).
+
 [^32-p59]: BraYā 45.529c–636.
 
 *[p. 60]* ^pg79
@@ -546,8 +579,13 @@ women. Led by his consort, the women sit in a row, dressed in red. Over a period
 Who served as Tantric consorts, and under what circumstances? What kinds of relationships obtained outside of ritual? In general, the prescriptive literature affords meagre insight into such questions. Some useful data nonetheless emerges from the study of chapter 24 of the BraYā and a section of chapter 22, which concern the “secret nectars” (*guhyāmṛta*).[^37] These include alcoholic drinks, for which the text provides numerous recipes (*āsavalakṣaṇa*, BraYā 24.129c–189). Its principal concern, however, is with sexual and menstrual fluids. In this context the consort’s role is like a milch cow prised for her ritual-sustaining fluids and her *mantra*- empowered vulva.[^38-p60] One remarkable rite even uses her body as catalyst for producing magical pills (*guḍikā*), which are made from a pulverised dildo 
 
 [^33-p60]: BraYā 45.540c–542b.
+
 [^34-p60]: BraYā 45.597c–98b (KISS 2015): *nāryaṣṭaka samāhṛtya śaktyādyā bhakti-vatsalā* || 597 || *śraddadhānādhikārī ca nirlajjā nighṛṇās tathā* |.
+
 [^35-p60]: BraYā 45.608c–609 (KISS 2015): *yogapaṭṭakṛtāṅgābhi digvāsābhis tathaiva ca* || 608 || *raktavāsottarīyābhir muktakeśābhir āvṛtāḥ* | *praviśet sādhako dhīras tādṛgbhūto na saṃśayaḥ* || 609 ||.
+
 [^36-p60]: BraYā 45.649 (KISS 2015): *aṇimādiguṇaiśvaryaṃ tadā tasya prajāyate* | *ma-ntrā kiṅkaratāṃ yānti tadā devi na saṃśayaḥ* || 649 ||.
+
 [^37]: Both of these chapters were read, in part, in the Second International Workshop on Early Tantra of 2009, in a session led by Alexis Sanderson. My understanding of the material has benefitted considerably from this. Emendations not my own have been noted as such.
+
 [^38-p60]: For a detailed account of the BraYā’s rites of the “secret nectars,” see TÖRZSÖK

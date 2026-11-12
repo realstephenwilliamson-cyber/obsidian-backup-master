@@ -23,10 +23,15 @@ We find images of Lakulīśa, as the founding figure of Pāśupatism came to be 
 The same *Skanda-purāṇa* features the story of the descent (*avataraṇa*) of Śiva as Lakulīśa, including some details that match the version found in *Pañcārtha-bhāṣya,* which is approximately one to two centuries earlier. Combining these early versions of the story, we are told that Śiva entered and animated the body of a freshly deceased brahmin in the cremation ground of Kāyāvatāra/Kāyāvarohaṇa/Kārohaṇa (clearly the name is a later derivation from the story itself), very near modern Varodara (Baroda) in Gujarāt, then walked the 350 kilometers to the cremation ground of Ujjayinī,[^92] where he covered himself with ashes and took up a burning brand like a club in his left hand. There he was approached by one Kuśika, who asked him if there existed a definitive end to suffering. The Lord (*bhagavān*) answered in the affirmative, whereupon Kuśika asked for and received initiation from him.[^93] Lakulīśa (the name only occurs in the *Skanda-purāṇa* version) then recited the 112 *Pāśupata-sūtra*s[^94] after which he said to Kuśika: 
 
 [^89]: SANDERSON, Śaivism and Brāhmanism Lectures, University of Kyoto, 2012, Handout 6, p. 11.
+
 [^90]: E.g., at Svāmighāṭ, Mathurā; KREISEL, *Die Śiva-Bildwerke der Mathurā-Kunst* (1986), fig. 124.
+
 [^91]: Possibly earlier, if HAZRA is right to date the *Śivadharmaśāstra* to before 500 CE, since the name appears in that text; but the date is probably too early.
+
 [^92]: Kauṇḍinya (p. 3): *brāhmaṇakāyam āsthāya kāyāvataraṇe ’vatīrnas tathā padbhyām ujjayinīṃ prāptaḥ.*
+
 [^93]: Kauṇḍinya: “The disciple asked, ‘O lord, is there a complete and permanent end of all suffering, whether caused by oneself, other beings, or divine entities \[= mental, material, and supernatural suffering\] or not?’ In consideration of this first question asked by the disciple, he said *atha*. Thus this word *atha* has the sense of the answer to what was asked. It is the end of suffering.”
+
 [^94]: This numbering according to the new critical edition of BISSCHOP; the 1940 ŚĀSTRĪ edition divides the same content into 168 sūtras.
 
 *[p. 34]* ^pg45
@@ -40,6 +45,7 @@ In the *Skanda-purāṇa* version , we are told that subsequently Lakulīśa/Pa�
 Now we turn to the question of the specific doctrine of the Pāśupatas. In the *Skanda-purāṇa* quote on the previous page, Lakulīśa is said to have referred to the “supreme secret known as Pañcārtha,” and this is the name by which Pāśupata doctrine most commonly went (note the name of Kauṇḍinya’s commentary on the *Pāśupata-sūtra,* i.e., the *Pañcārtha-bhāṣya*). The number five is indeed central to the organization of the doctrinal materials. There are five aspects of initiation; five stages (*avasthā*s) in the Pāśupata’s ascetic practice; five places where he dwells (one in each of the five stages); there are five *yama*s and five *niyama*s that he follows;[^96] five primary practices; five attainments; and so on. These are conveniently laid out in tabular form by LORENZEN (1991: 186). Eight sets of five form the eight verses of the
 
 [^95]: Cited and translated at BISSCHOP 2006: 36.
+
 [^96]: The five *yama*s are: *ahiṃsā, brahmacarya, satya, asaṃvyavahāra* (no commercial activity), and *asteya.* The five *niyama*s are: *akrodha, guru-śuśrūṣā, śauca, āhāra-lāghava,* and *apramādā* (vigilance) (LORENZEN 1991: 189). Since these appear in the *Pañcārtha-bhāṣya,* they are contemporaneous with the yamas and niyamas of the *Yoga-sūtra*.
 
 *[p. 35]* ^pg46
@@ -65,6 +71,7 @@ The Pāśupata tradition is highly significant for the history of Indian religio
 First a word about how our understanding of the text has changed substantially over the recent decades. We have seen a move away from a kind of “pure” textuality that emphasized Sanskrit scriptures and virtually ignored epigraphy, as scholars have become more interested in the social history of Indian religions rather than pure philosophy and theology. As scholars began examining more and more inscriptions relating to the Pāśupatas, a picture started to emerge that was very much at odds with the extreme ascetic practice described in the *Pāśupata-sūtra* with its *Pañcārtha-bhāṣya,* and the *Gaṇakārikā* with its *Ratnaṭīkā*: a picture of well-endowed temple complexes enshrining many deities and run by sometimes powerful and wealthy Pāśupatācāryas who cultivated a relationship with a substantial laity. BISSCHOP states, “The Pāśupata system as outlined by Kauṇḍinya involves a lifelong career of extreme asceticism, which is hard to reconcile with other early references to Pāśupatas, in particular epigraphical records” (2010: 485). We saw above that already in the very first inscriptions that mention the Pāśupatas, we have evidence of a temple culture that contradicts the exhortation of the *sūtra*s and their commentary to abandon all other deities and put one’s faith in Rudra alone. However, there is a solution: scholars like BISSCHOP, BAKKER, and SANDERSON have increasingly seen the documents that have come down to us as just one strand in a complex religious culture. Furthermore, we now have an idea as to the true purport of that particular strand. SANDERSON, in a lecture series in Oxford in 2004,[^97] put forth the proposition that we must understand the Pāśupata ascetic’s practice as being entirely oriented to securing a liberative death through yogic means (*utkrānti*).[^98] As he has shown, this is merely implied by the *Pañcārtha-bhāṣya,* but it is 
 
 [^97]: “The Yoga of Dying. The Śaiva Atimārga.” A lecture series with handouts, University of Oxford, Michelmas term, 2004 (available at alexissanderson.com).
+
 [^98]: Cf. the use of the term *yoga* in the narrative portions of the *Mahābhārata*: “. . . the most common epic use of the term yoga, when construed as a practice undertaken by human practitioners, depicts “dying as a yogic event” (Mbh 13) by means of which the luminous soul is made to rise up out of the body” (WHITE 2004: 615).
 
 *[p. 37]* ^pg48
@@ -74,8 +81,11 @@ explicit in two other sources: the Tantric *Mataṅga-pārameśvara,* which teac
 Since, by my reading, the *sūtra*s envision a timeline of about two years all told for the *sādhanā,*[^102] and since liberation in this system entails exit from the physical body, we are left with the conclusion that the follower of the Pāśupata tradition *only took initiation when he was ready to die*, whether because he was filled with distaste for *saṃsāra* or because his longing for liberation was more intense than his desire to enjoy bodily experience*.* Pāśupatism was, then, a religion that encouraged properly performed yogic suicide as the solution to the problem of
 
 [^99]: *Pampā-māhātmya Uttarabhāga* 11.62c-63b: “Thus, his soul purified (*puṇyātmā*), his mind unwaveringly fixed on Śiva, he should abandon the body (*śarīraṃ saṃtyajet*) through yoga (*yuktyā*). This is the stage of ‘cutting’ (*chedāvasthā*).” *Mataṅga-pārameśvara, caryāpāda* 9.31-32b, concluding the discussion of the *rudra-vrata*: “The *sādhaka* who is completely detached from the unbearable, terrifying, impermanent, impenetrable jungle of *saṃsāra,* and who has conquered his *prāṇa* may, by controlling it, easily abandon the body.” Citations courtesy of SANDERSON.
+
 [^100]: This *rudra-sāyujya* or *ātmeśvara-saṃyoga,* as Kauṇḍinya glosses it, it not a union of total absorption as in some forms of Vedānta. Rather, it signifies communion or intimate connection, primary through the acquisition of all Rudra’s qualities (except his office of creator, maintainer, and destroyer of the universe).
+
 [^101]: E.g., Daniel H.H. INGALLS, “Cynics and Pāśupatas: the Seeking of Dishonor,” *Harvard Theological Review* 55 (1962).
+
 [^102]: We are told (at 5.6) that the third stage takes about six months if the *sādhaka* is concentrated. The nature of the practice given in stage two and four cannot be prolonged much beyond that time frame. Only the first stage could last an indefinite period; but my suspicion is that the intensive nature of the practice makes sense in the context of a shorter time frame.
 
 *[p. 38]* ^pg49
@@ -91,7 +101,9 @@ Part 1
 1: *athātaḥ paśupateḥ pāśupataṃ yogavidhiṃ vyākhyāsyāmaḥ* Now, then, we will describe the practice of the Pāśupata Yoga of Paśupati. 
 
 [^103]: Examples taken at random from the *Kathāsaritsāgara:* “I went to have darshan of Vindhyavāsinī. When I beheld that goddess I thought to myself, ‘People propiatiate this boon-giving goddess with animal sacrifices, but I shall kill none other than myself here’” (1.6.80). “I went out of the city and for your good was about to cut off my head before the goddess Caṇḍikā when a voice from the sky forbade me . . .” (1.6.155). “The ascetic worshipped the goddess there and then said, ‘If you are pleased with me, o goddess, then grant me the boon I desire. If not, I shall win your favor by sacrificing myself’” (3.4.161). Translations by J. MALLINSON from the CSL ed.
+
 [^104]: See the Encyclopedia of Religion’s article s.v. *Suicide*, p. 8828 and 8831 (in vol. 13).
+
 [^105]: See THAKUR’s *History of Suicide in India* (1963:xii-xiv), cited in VASUDEVA 2004:438.
 
 *[p. 39]* ^pg50
@@ -149,12 +161,19 @@ Endowed with these qualities, he becomes a *mahāgaṇapati,* a great lord of th
 31: <sup>39</sup>*atredaṃ brahma japet.* Here is the *brahma-\[mantra\]*[^121] he should repeat:[^122]
 
 [^115]: K clarifies that “thinking” means perceiving the thoughts of others, while “knowing” refers to knowledge of what is in all scriptures.
+
 [^116]: Cf. *Yogasūtra* 3.48: *tato manojavitvaṃ vikaraṇabhāvaḥ pradhānajayaś ca.*
+
 [^117]: In 1.19-30, the rewards of the path are delineated. The qualities listed from 1.23 on, it seems, are only attained upon successful completion of the *sādhanā,* which entails the shedding of the physical body. Whether 1.19-22 are also meant to be understood as *siddhi*s attained after death is an open question.
+
 [^118]: This ability seems at odds with Kauṇḍinya’s description of the *sādhaka*’s practice in life, for a radical level of *ahiṃsā* is repeatedly stressed there.
+
 [^119]: Or “Endowed with these qualities of Bhagavān Mahādeva, he becomes . . .” For a parallel and nearly contemporaneous expression, see *Mahābhārata* 10.7.4, *śmaśānavāsinaṃ dṛptaṃ mahāgaṇapatiṃ prabhum,* referring of course to Śiva*.* Note that K interprets the title *mahāgaṇapati* differently, glossing *mahāgaṇa* as “the multitude of bound souls.”
+
 [^120]: This seems to have been the original meaning of this *sūtra,* but K stresses that the *siddha* becomes the equal of Mahādeva, in every respect except that of office (*adhikāra*). (This doctrine appears later in precisely the same form in the Śaiva Siddhānta branch of the Mantramārga.) An alternative interpretation would be that the attainment of becoming a *mahāgaṇapati* is not considered the final state here, but rather is the culmination of stage three (*jayāvasthā;* see 5.6).
+
 [^121]: K: “It is called *brahma* because a) it is great (*bṛhat*) and b) it fortifies (*bṛṃh*); since it fortifies the *sādhaka* who is repeating it through \[an increase of\] dharma etc.” (*bṛhattvād bṛṃhaṇatvāt brahma | bṛṃhayate yasmāt sādhakaṃ japantaṃ dharmādibhiḥ.*)
+
 [^122]: K: during the first and second stages of practice.
 
 *[p. 42]* ^pg53
@@ -188,10 +207,15 @@ in each and every observance he attains greatness.
 9: <sup>15</sup>*atidattam atīṣṭam*.<sup>129</sup> The highest giving;<sup>130</sup> the highest sacrifice;
 
 [^123]: The *Taittirīya Āraṇyaka* version of the mantra (10.43) has *bhavasva mām,* which seems difficult to interpret.
+
 [^124]: So K; Sāyaṇa, by contrast, takes the *na* as negating *bhajasva* and glossing the latter with *preraya* reads something like “Do not stimulate the cause of various births, i.e. do not dispatch me into birth after birth.”
+
 [^125]: This sūtra is difficult to interpret; K takes it in the same sense as the previous sūtra, and explains that it indicates, for example, that the Pāśupata’s nudity is, in this context, perfectly appropriate (*nagnatvaṃ ca sādhanam ity arthaḥ*). But the original meaning of the sūtra was probably that the Pāśupata should do his circumambulation counter-clockwise, which fits in with his counter-cultural program of worship. In this context, we would translate “and the reverse is the right circumambulation” (Peter C. BISSCHOP, email, 25 February 2013).
+
 [^126]: K says that the sense of the word “therefore” is that since God’s qualities are such that even what is usually inauspicious becomes auspicious for those who have taken refuge in him (see previous note), he is worthy of exclusive worship.
+
 [^127]: K: “This brahmin’s qualification and obligation (*adhikāra*) to worship the gods and the ancestors applied \[only\] before \[his initiation\]. Therefore, withdrawing loyal devotion (*bhakti*) from the gods and ancestors, and in place of both fixing his religious feeling (*bhāva*) on Maheśvara, he should worship Him and no other. . . . \[Realizing that\] the agency that he thought they had does not exist, he should no longer worship them. This is the meaning \[of the sūtra\].” (Translation follows that of SANDERSON, Śaivism and Brahmanism Lecture Series Handout 4, 30 October 2012.) Cf. *Saṃskāra-vidhi* v. 37cd: “May those gods and ancestors forgive me. I have taken refuge in Śiva \[alone\].” (*kṣamantu pitṛdevās te gato’haṃ śaraṇaṃ śive*)
+
 [^128]: K says that this means he should not become intoxicated (*māda*) by his attainment of supernatural powers; that is, *harṣāpramādī* means he should be careful of getting over-excited.
 
 *[p. 43]* ^pg54
@@ -225,9 +249,13 @@ Free from defects because of the reproach of others,
 130\. K: “The highest charity is giving oneself. Why? Because when one is the giver of oneself, because there is no ulterior motive in the giving, since one obtains no objects for the senses or the body or a particular state, due to the lack of any common result, giving oneself is the ultimate giving.”
 
 [^131]: Following the published edition for consistency, which numbers 2.12 twice.
+
 [^132]: The parts of the mantra in brackets do not appear in K’s commentary.
+
 [^133]: For a Vedic antecedent, cf. *Apastamba-śrauta-sūtra* 10.15.15: “Let no one say no evil of him \[the *dīkṣita*\], . . . \[lest\] they take on his sin.” And *Tāṇḍya-brāhmaṇa* 5.6.10: “One who speaks of the sin of a *dīkṣita* takes on one-third of his sin.”
+
 [^134]: K: “He should appear as though mad, like a pauper, his body covered with filth, letting his beard, nails and hair grow long, without any bodily care. Hereby he becomes cut off from the respectable castes and conditions of men (*varṇāśrama*), and *intensifies his renunciation* \[of the world\]” (trans. INGALLS (LORENZEN 1991: 188) except the italicized phrase (*vairāgyotsāhaḥ*)).
+
 [^135]: These five sūtras (3.7-11) are translated as per Kauṇḍinya. ĀCHĀRYA (2013) argues, on the basis of the parallel passage in *Taittirīya-brāhmaṇa* II.3.9.9, that this practice of transferring *pāpman* and *puṇya* originally formed part of a *go-vrata* in which one imitated the behavior of a bull or cow. He suggests that 7-11 above originally read *preva calet. krātheteva. spandeteva.* *maṇṭeteva. śṛṅgāyeteva.* (this is closer to the TaiBrā passage), which would mean “He should enact thrashing about, he should enact injuring \[others\], he should enact kicking or twitching of his limbs, he should enact getting agitated/hobbling (*maṇṭeteva*), he should enact butting \[with his head\]” (ĀCHĀRYA 2013: 110). See also n146 (on sūtra 5.9) below.
 
 *[p. 44]* ^pg55
@@ -283,7 +311,9 @@ He took the merit of their sacrifical rites; he obtained it by a well-formed tri
 10: <sup>13</sup>*nindā hy eṣām anindā.* For this abuse is irreproachable for these,<sup>139</sup>
 
 [^136]: The Aghora mantra occurs not only in *Taittirīyāraṇyaka* 10 but also in the (earlier) *Maitrāyaṇī-saṃhitā* 2.9.10: 130.1–2 (BISSCHOP 2005: 544n101). In the later Mantramārga, this is the mantra of \[Sakala-\]Svacchanda-bhairava.
+
 [^137]: Following the TaiĀr and K over BISSCHOP here. *Astu* appears to be original, despite the lack of sandhi, and despite the fact that it makes the verse hypermetrical.
+
 [^138]: Reading *yantrāṇām* with K instead of *jantūnām.* Cf. *Skandapurāṇa* (1988) 122.81 and 83cd-84ab (BISSCHOP 2006: 12-13).
 
 *[p. 45]* ^pg56
@@ -327,10 +357,15 @@ Gathering his alms into a vessel; no faulty meat,[^145] optionally with salt;
 139\. K has *nindā hy eṣānindā* (literally “for this abuse is non-abuse”)*,* which is perhaps less awkward than the Sūtrapāṭha’s reading*.*
 
 [^140]: This sūtra is found in K’s bhāṣya but not in the Sūtrapāṭha.
+
 [^141]: The Tatpuruṣa mantra occurs not only in *Taittirīyāraṇyaka* 10 but also in the (earlier) *Maitrāyaṇī-saṃhitā* 2.9.1: 119.7–8 and *Kāṭhaka-saṃhitā* 17.11: 253.20–21. “The different historical origin of the Aghora and Tatpuruṣa mantra may be reflected in the fact that only these two mantras – referred to respectively as Bahurūpī Ṛc and Raudrī Gāyatrī – are enjoined in the Pāśupatasūtra in other contexts as well” (BISSCHOP 2005: 544n101). As BISSCHOP implies, it is possible that the other three *brahma-mantra*s were retroactively interpolated into the *Taittirīya-Āraṇyaka.*
+
 [^142]: But note that K takes the last line to mean “May Rudra impel those \[powers of cognition and action\] for us.”
+
 [^143]: Part five is all in meter (*anuṣṭubh* with a concluding *vaiśvadevī* verse, which points to the possibility that the text once existed in a different form.
+
 [^144]: K says 1.30 above is the antecedent of ‘it’. This argues against these qualities being attained after death.
+
 [^145]: Meaning, he should not accept meat if he has reason to believe the animal was bought for him, cooked for him, or killed for him, as in Buddhism.
 
 *[p. 46]* ^pg57
@@ -364,7 +399,9 @@ Having cut the root of the manifold causes of his impurities
 with \[concentrated\] mind, he establishes his innate awareness<sup>149</sup> in Rudra. 
 
 [^146]: I.e., free from distress concerning heat or cold and other pairs of opposites. However, this sūtra may also refer to the *go-vrata,* an observance mentioned in the *Mahābhārata* and the Purāṇas, and which may be the archaic source of Pāśupata practice, as argued by ĀCHĀRYA in his 2012 article “How to Behave Like a Bull.” Imitating the behavior of a bull or wild animal acknowledges one’s status as a *paśu* vis-à-vis the one and only Pāśupati. The nature of this vow is described by a passage in the *Brahmāṇḍa-purāṇa:* “We \[bulls\] have neither fatal sin nor theft. We do not distinguish at all what is to be eaten and drunk, and what is not. And we truly do not \[distinguish\] what should be done and what not, nor who is fit for sexual relation and who not. We are not sinners, because all this is known from tradition as the nature of bulls” (ĀCHĀRYA 2013: 115). ĀCHĀRYA notes that the Vedic *go-vrata* was restricted to the final years of one’s life, and we have argued the same for the Pāśupata-vrata.
+
 [^147]: On OṂ TAT SAT cf. Mbh 6.39.23-28. But K does not have *tat sad iti,* so in that case we would translate (following SANDERSON) “he should focus \[his awareness\] in his heart.”
+
 [^148]: Following the reading *anusmaran* over *anusmaret,* primarily on the basis of the testimonium of the *Liṅgapurāṇa* as quoted by Lakṣmīdhara in his *Tīrthavivecanakāṇḍa* (p. 107): *śmśānavāsī dharmātmā yathālabdhena vartate | labheta rudrasāyujyaṃ sadā rudram anusmaran* (BISSCHOP 2006:
 
 *[p. 47]* ^pg58
@@ -410,6 +447,7 @@ It might be objected by one who has read LORENZEN’s early study that these are
 154\. These words, appended at the end of one of the manuscripts, clearly originate from a later doctrinal environment, since both Śiva and Śakti are praised, whereas the Pāśupata ascetic worshipped only Rudra, as we have seen. That later environment is of course Tantric Śaivism.
 
 [^155]: The many sources for this include *Svacchandoddyota* ad 3.2b; *Brahmayāmala* 21.104; Yāmunācārya’s *Āgama-prāmāṇya* p. 93; *Somaśambhu-paddhati* vol. 3, p. 681n7; and many passages in the *Jayadratha-yāmala*. Note that the *mahāvrata* was adopted by the Buddhists from Tantric Śaiva sources that were themselves redacted from Atimārga materials, which is why we see these identical *mudrā*s (minus the ashes, i.e. the *pañca-mudrā*) in many Tantric Buddhist sources, such as *Laghuśaṃvara* 51.2, *Abhidhānottara* 3.18, *Yoginīsaṃcāra* 6.12c-13d, *Herukābhyudaya* 15.27, *Hevajra* 1.3.14, etc. (references courtesy of SANDERSON).
+
 [^156]: *Dvitīyaṃ tu vrataṃ vakṣye ghorakāpālarūpiṇa&lt;m> | śire kapālamukuṭaṃ śiromālā-vibhūṣitam | kare karṇau tathā pādau asthikhaṇḍair vibhūṣitau | vāme kapālaṃ khaṭvāṅgaṃ tathā vai dakṣiṇe kare |*
 
 *[p. 49]* ^pg60
@@ -430,6 +468,7 @@ The earliest passage to describe the *vrata* of the Kālamukhas is in the *Niśv
 *lokātītaṃ samākhyātaṃ kim anyat paripṛcchasi* | 98ab I have taught you the \[Pāśupata\] vow that takes one beyond the brāhmanical life-stages (*atyāśrama-vrata*); now hear from me the \[vow\] that takes you beyond the conventional world \[of religion\] (*lokātīta*). Touched with the five Secrets \[i.e., the *brahma-mantra*s\] and \[thus\] initiated, he should begin to wander with skull-staff and skull-bowl, his hair dreaded or else shaven-headed, with a sacred thread of \[human\]
 
 [^157]: *Samayabheda* p. 364; reference provided by SANDERSON, who also emended the textual corruptions in the passage.
+
 [^158]: See *Taishō* 12:1044c14-15, trans. LEGITTIMO 2006: 57, cited in SANDERSON 2013: 60n163.
 
 *[p. 50]* ^pg61
@@ -437,6 +476,7 @@ The earliest passage to describe the *vrata* of the Kālamukhas is in the *Niśv
 hair, and adorned with \[a chaplet of\] human heads \[carved from bone\]. He should wear \[only\] a loincloth, his body dusted with ash, and adorned with the “divine ornaments” \[necklace, earrings, bracelets, and hair-jewel made of human bone\]. Devoted and loyal to Rudra, considering the whole world as nothing but Rudra, firm in his vow, eating anything, doing anything, intent \[solely\] on his meditation on Rudra, \[he knows\] “Apart from Rudra, none can save me; he is the Supreme Deity.”[^159] Having understood the Eleven Levels \[of Reality\] (*adhvan*), he should practice \[this vow\], free from inhibition (*nirviśaṅka*). \[A brief account of these eleven is omitted here; they are given below.\] Having known this \[hierarchy of Worlds\] from the Avīcī Hell \[at the bottom of the Net\] to the level of Dhruva \[at the pinnacle of the Pure Universe\], he is liberated. In order to accomplish his goal of sporting \[in ever higher levels of the universe\], he should take refuge in meditation on that hierarchy (*prakriyā*). \[Then\], by means of the word *atha* \[first word of the *Pāśupata-sūtra*\], he should initiate \[others\] into the levels of that hierarchy. Initiated by the Descent of the word *atha,* one ceases to be a bound soul. Practicing \[this vow\], \[even\] one of bad conduct attains liberation, of that there is no doubt. The Lokātīta has been explained.[^160] Here we see important continuities both with Atimārga I and the Mantramārga. In support of the first, we see: that the five *brahma-mantra*s figure prominently in the Kālamukha’s initiation; a radically renunciant ascetic practice; an orientation to mortuary imagery; a monotheistic devotion to Rudra; and an implied connection to the Pāśupata-sūtra. In support of the second, we see: a *sādhanā* that does not necessarily culminate in death, but implicitly holds out the possibility of liberationin-life; a removal of restrictions for the initiate and an encouragement to practice without inhibition (*nirviśaṅkācāra,* aka *nirvikalpācāra*), i.e., without a fear that breaking brāhmanical taboos will have negative consequences for him; the notion of a mystic Descent of Śiva’s power (in the form of scripture) as the key feature of initiation; but most of all, the idea that liberation can unfold as a yogic-cum-gnostic ascent through a hierarchy of worlds or levels of reality. This last feature was believed to be an exclusive defining feature of the Mantramārga before the discovery of the text of the *Niśvāsa.* “Knowing this \[hierarchy\], he is liberated,” (*etaj jñātvā vimucyate*) we are told, but this is not real knowledge until it is actualized by yogic practice: “Having understood (*viditvā*) the Eleven Levels, he should practice,” and “he should take refuge in meditation on this hierarchy (*prakriyā-dhyānam āśritaḥ*).” For the later Mantramārga, the levels of reality (usually conceived in terms of *tattva*s) correspond to states of consciousness and yogic attainments, and one’s 
 
 [^159]: SANDERSON notes that *rudraṃ muktvā na cānyo’sti trātā me daivataṃ param* can also be rendered “None can save other than Rudra. For me there is no other God,” or “None can save other than Rudra. \[He is\] my supreme God,” and argues for the latter on the basis of parallels (Śaivism and Brahmanism, Handout 5, 13 November 2012).
+
 [^160]: Following the text as established and explained by SANDERSON (2006: 163-65), with reference also to the as-yet unpublished critical edition prepared by Dominic GOODALL. For *atha* see above p. 26.
 
 *[p. 51]* ^pg62
@@ -457,6 +497,7 @@ SARVATAḤ ŚARVA SARVEBHYO | NAMAS TE RUDRA RŪPEBHYAḤ.
 *te tu ghorāḥ samākhyātā nānā-bhuvana-vāsinaḥ* || \[3\]
 
 [^161]: This description draws on Abhinavagupta’s discussion in *Tantrāloka* chapter 15, but the basic principles are explicitly scriptural (they are central to the yoga of the *Svacchanda-tantra* and the *Mālinīvijayottara-tantra*).
+
 [^162]: But note that Kṣemarāja (11th cen.) associates the six ritualistic texts with the Mausulas, who descend from Musulendra, a putative disciple of Lakulīśa, which may mean that they formed part of the canon of the Somasiddhānta; cf. p. 59 below.
 
 *[p. 52]* ^pg63
@@ -526,9 +567,13 @@ As suspected by LORENZEN (1972), and later confirmed by SANDERSON (1997), the an
 • cults of Bhairava and his consort Cāmuṇḍā[^167] + the Mothers;[^168] 
 
 [^164]: Cf. SANDERSON 2006:183. Rāmānuja quotes this same passage in his *Śrībhāṣya,* ad 2.2.35-37 (LORENZEN 1991: 4-6).
+
 [^165]: I add the phrase “as a sect” because there were also *sādhaka*s known as Kāpālikas in the later Mantramārga, but they formed part of the Yāmala and Kālīkula *sampradāya*s, as we shall see; only in the Atimārga does the term Kāpālika denote *all* the initiates of a particular sect, i.e. the Somasiddhānta.
+
 [^166]: The *pañca-mudrā,* i.e. the *ṣaṇ-mudrā* minus the cremation ground ashes, seems to have been adopted by Tantric Buddhism direct from Kāpālika sources of the Somasiddhānta. For this see SANDERSON 2009: 179n435, which cites almost a dozen Buddhist texts that drew on Śaiva sources for their account of the *pañca-mudrā.*
+
 [^167]: Indeed, Soma (of Somasiddhānta) is traditionally understood as *sa* + Umā, for example in the commentaries on the *Prabodhacandrodaya* of Kṛṣṇamiśra (LORENZEN 1991: 83).
+
 [^168]: The Kāpālikas signaled their transcendence of the brāhmanical Mother-goddesses (Brahmāṇī/Brāhmī, Rudrāṇī/Māheśvarī, Kaumārī, Vaiṣṇavī, Aindrī/Māhendrī/Indrāṇī and Vārāhī \[who is some sources is supplanted by Yāmī/Vaivasvatī\]) by adding Cāmuṇḍā/Carcikā (often known in brāhmanical sources and story literature as Caṇḍikā) as the leader of the other six. The widespread success of the Seven Mothers from the fifth century onward can perhaps be seen as evidence of the influence of the Kāpālikas. Later, many Tantric sources attest eight Mothers by adding either Mahālakṣmī, or, in more transgressive sources, Aghorī/Bhairavī. See HATLEY 2011.
 
 *[p. 56]* ^pg67
@@ -540,6 +585,7 @@ Comparing this list to the one found on p. 31 above reveals some marked similari
 The first reference to the Kāpālikas is probably that found in Agastyasiṃha’s fifth century (DUNDAS 2002:6) Prākrit commentary on the Jain *Dasaveyāliya-sutta* (Gāthā 237), where Kāpālikas are grouped with so-called *dravya-bhikṣu*s, or ascetics who do not practice celibacy. Though the dating of this text is not certain, we can be more certain of the date of the *Bṛhat-saṃhitā* of Varāhamihira (500-550 CE), which tells us that the approach from the southwest of a cow, a person playing, or a Kāpālika is a good omen (*usrākrīḍa-kāpālikāgamo nairṛte samuddiṣṭaḥ,* 86.22). References are common from the 6th century forward. Amongst early literary references, we might note the pleasingly poetic passage found in Subandhu’s *Vāsavadattā* (550-600), which includes the following in a long list of similes describing the qualities of the setting sun: “The sun-jewel sank into the Western ocean . . . like the skull-bowl of the skull-bearer Time brimming with wine.”[^170]
 
 [^169]: Initiation through this means might be unique to the Kāpālikas, but according to Yamunācārya, the Kālamukhas too worshipped their deity in a pot of consecrated wine (*Āgamaprāmānya* p. 94).
+
 [^170]: *madhu-pūrṇa-kapāla-pātram iva kāla-kapālinaḥ . . . bhagavān dinakaramaṇiś caramārṇava-payasi .* *. . mamajja.* This is SANDERSON’s edition of the passage, given in Śaivism and Brāhmanism lecture series Handout 7, 27 November 2012. Note that in GRAY’s 1913 edition of the same passage (p. 170), we have the skull-bearer Space (*gagana-kapālin*) instead, personifying the sky as the skull-bearer and the setting sun as his wine-filled skull-bowl. The reading chosen by SANDERSON is supported by the fact that the deity of the Kāpālikas was Bhairava, also known as Mahākāla; if we do not accept this reading, then the passage may well refer to a Kālamukha, not a Kāpālika.
 
 *[p. 57]* ^pg68
@@ -553,6 +599,7 @@ Puṣpabhūti is depicted in the *Harṣacarita* 3 (pp. 49–55) as being deeply
 In this ritual the deity (*vāstunāga*) of the land (*janapada*) Śrīkaṇṭha in which Sthāṇvīśvara (Puṣpabhūti’s capital) is situated, the Nāga Śrīkaṇṭha, is conjured up by the *ācārya* and forced into submission by the king, who is about to kill him with the magic sword Aṭṭahāsa, a gift of Bhairavācārya. 
 
 [^171]: He is “every man’s benefactor, chaste from boyhood, supreme in austerities (*atitapasvin*), surpassing in wisdom; restrained in anger, unrestrained in kindness; graced with unfailing native nobility (*adīna-prakṛti-śobhita*). . .\[etc.\]” COWELL and THOMAS’ translation (1897: 265)
+
 [^172]: An earlier draft of this article had “Pāśupata” here rather than “Tantric Śaiva”—I submit that Prof. BAKKER was correct the first time in identifying this figure as belonging to the Atimārga.
 
 *[p. 58]* ^pg69
@@ -614,6 +661,7 @@ In the *Prabodhacandrodaya* of Kṛṣṇamiśra (11th cen.), Act III, we see a 
 In our initial bullet-point list, we mentioned exorcism as well. In the narrative literature, we see Kāpālikas repeatedly depicted as experts in the management of malevolent spirits and other occult arts, such as locating forgotten 
 
 [^176]: KAPSTEIN, not knowing what Somasiddhānta refers to (as he admits in his introduction), simply translates it as “Shaivite philosophy.”
+
 [^177]: The foregoing is a summary of Act III, lines 75-150, including verses 12-23; critically edited Sanskrit text and translation by Matthew KAPSTEIN (2009).
 
 *[p. 62]* ^pg73
@@ -625,7 +673,9 @@ We turn now to the evidence of a remnant of the Somasiddhānta text-corpus, iden
 That culture is also an important source for the Buddhist Yoginītantras. As SANDERSON demonstrates in his monumental *The Śaiva Age,* one of the two most important Yoginītantras, the *Laghuśaṃvara,* redacts at least 30% of its material from known Śaiva sources, including the *Yoginīsañcāra* passage we have been discussing. Or rather, it is more likely that both the *Yoginīsañcāra* and the *Laghuśaṃvara* are 
 
 [^178]: SANDERSON, Śaivism and Brāhmanism Lectures, Handout 6, 20 November 2012.
+
 [^179]: SII 8:529 and ARE 1926-7 pp. 76-78; though with initiation names in –paṇḍita, it is also possible that these were Kālamukha *mahāvratin*s, which would not invalidate the main point.
+
 [^180]: See also SANDERSON 2009: 134.
 
 *[p. 63]* ^pg74
@@ -637,8 +687,11 @@ To finish our description of the *Yoginīsañcāra*’s Kāpālika initiation we
 In the final part of the initiation prescribed here, the initiand learns the mantra of the Mother whose family he now belongs, and listens to the post-initiatory rules (*samaya*) (8.25a, 26cd). Then, unusually, he receives a consecration (*abhiṣeka*) before a purely Śākta *maṇḍala* of Aghorī/Cāmuṇḍā and the twenty-four yoginīs already mentioned. He will now adopt one of two[^184] *vrata*s (8.34-41<sup>185</sup>): if he
 
 [^181]: Note that Karṇamoṭī appears as one of the Eight Mothers at *Siddhayogeśvarī-mata* 16.43.
+
 [^182]: See *Brahmayāmala* 4.890-94, cited in HATLEY 2012: 107n22.
+
 [^183]: The other five Gaṇeśvaras are Mahākāla, Caṇḍeśvara, Skanda, Bṛṅgin, and Vṛṣabha. Note that these eight form an *āvaraṇa* in Saiddāntika *maṇḍala*s. These eight may also be called Mahāgaṇapatis, which was the promised reward of the *sādhanā* of the Pāśupata-sūtras. Cf. *Brahmayāmala* 171.119-20b, where Śiva is made to say to the Mātṛs, “Your *bhakta*s will, after death, become my ageless immortal *gaṇa*s.“
+
 [^184]: Here I disagree with TÖRZSÖK (2013), who sees the two vows as being those of Cāmuṇḍā on the one hand and of Bhairava on the other, seeing the “vow born from the 63 families \[of the Mothers\]” as another name for the Bhairava-vrata (n45). I am confident that a close reading of the passage following the relevant verse—*tataś cared vrata-varaṃ triṣaṣṭi-kula-saṃbhavam ||* *bhairavaṃ vā mahābhāge cāmuṇḍā-vratam eva ca |* (8.34c-35b)—yields the understanding of the two vows that I present here. Cf. also SANDERSON 2009: 134.
 
 *[p. 64]* ^pg75
@@ -652,6 +705,7 @@ As an addendum, we may mention two more items in the social sphere that differen
 185\. 8.34-41 of the *Yoginī-sañcāra* = 3.31.36-43 of the *Jayadratha-yāmala* (the latter is the numbering used by TÖRZSÖK 2013).
 
 [^186]: As TÖRZSÖK (2013: n47) also notes, this number is strange, for we would expect 64 (= 8 x 8). She opines that the practitioner himself completes the count. She regards the presence of the Mothers as a “step away” from the Somasiddhānta-Kāpālikas, but we view the present passage as part of a body of evidence that the Kāpālikas venerated the Eight Mothers.
+
 [^187]: *\[dvitīyaṃ tu vrataṃ vakṣye ghoraṃ kāpāla-rūpiṇam | 40cd |\] śire kapāla-mukuṭaṃ śira-mālā-vibhūṣitam | kare karṇau tathā pādau asthi-khaṇḍair vibhūṣitam || 41 || vāme kapālaṃ khaṭvāṅgaṃ tathā vai dakṣiṇe kare | śmaśāne vicaren maunī triṣaṣṭi divasāni tu || 42 || vratānte tu varārohe śarīre mātaro dhruvam | viśante devadeveśi dadante siddhim uttamām || 43 || ajarāś cāmarāś caiva śāpānugraha-kārakaḥ | trailokyasyāpi sarvasya bhavate sādhakottamaḥ || 44 ||* Passage found on f. 288r7-v6 of the MS; transcription courtesy of SANDERSON.
 
 *[p. 65]* ^pg76
@@ -665,6 +719,7 @@ We have seen that the Atimārga consistently portrays itself as a transcendent p
 A final word about the *mahāvrata* is apropos. The reader who is familiar with the Dharmaśāstra literature will of course be aware that most of the *mahāvrata*’s features constitute an imitation of the penance of the brāhmin-slayer, specifically the brāhminicide who is himself a brāhmin (since non-brāhmin brāhminicides were simply executed). This penance is described in *Baudhāyana-dharmasūtra* (2.1.1.2-3), *Āpastamba-dharmasūtra* (1.24.11-20), *Gautama-dharmasūtra* (3.4.4-5), as well as the *Manusmṛti* (11.71). It is also mentioned in the *Mahābhārata,* where after killing his father Arjuna (though the latter is not a brāhmin, the following words implicitly accord him that status), Babhruvāhana tells us that his *prāyaścitta* is to take his food in his father’s skull for twelve hard years (14.80.11-12; cf. 12.36.2-3). These texts and their commentaries tell us that the *brahma-han* must carry a skull-bowl and skull-staff, wear a donkey’s hide and live in the cremation ground outside of town (*kapālī khaṭvāṅgī gardabha-carma-vāsā araṇya-niketanaḥ śmaśāne . . . kuṭīṃ kārayet*), entering the village to beg for food at no more than seven households, saying “Who will give alms to one who is damned?” (*ko ’bhiśastāya bhikṣāṃ dadyāt*; *Āpastamba-dharmasūtra*
 
 [^188]: As in the case of the *Prabodhacandrodaya*’s Kāpālika, who claims he can coerce all the gods and even arrest the motion of the stars (Act III, verse 14).
+
 [^189]: See the *Gaṇakārikā*’s *Ratnaṭīkā,* which says: “The guru or *ācārya* destroys his *pāpa* and creates an abundance of *puṇya* through giving audience to and conversing with those within the *āśrama* system who have faith \[in the Pāśupata path\]” (p. 3, *gurur ācāryaḥ śraddhāvatām āśramiṇāṃ darśana-sambhāṣaṇādibhir api pāpa-ghnaḥ puṇyātiśayakārī*). Curiously, the *ācārya* is understood in this tradition to be one who lacks the capacity to carry out the injunctions incumbent on the *sādhaka* (p. 2, *samasta-niyogānuṣṭhāna-śakti-vikalena*). He acts as the gatekeeper, as it were, helping others through the door to the end of suffering while remaining on its threshold until death.
 
 *[p. 66]* ^pg77
@@ -850,7 +905,9 @@ Mantras derive from the Omniscient and are capable of ending this transmigration
 For the *tāntrika*s, the deities are contacted primarily in the form of their mantras, which are understood as their “sonic bodies.” But this doctrine is unlike that of the Kaumārila *mīmāṃsaka*s, who believe that the Vedic deities have no reality apart from their mantras. For the *tāntrika*s, the mantra is simply the primary contactable form of an existent being that is ultimately transcendent of all form. 
 
 [^193]: We may note here that on one occasion each the *Brahmayāmala* (95.29) and the *Puraś-caryārṇava* (1.149) use the term Tantramārga as a synonym of Mantramārga (HATLEY 2007: 3n5).
+
 [^194]: E.g., Kṣemarāja, *Pratyabhijñāhṛdayam* ch. 8: “The *tāntrika*s hold that the reality of the Self is all-transcending. Those who hold to traditions (*āmnāya*) of the Kula and \[Kaula\] say it is all-embodying.” *viśvottīrṇam ātma-tattvam iti tāntrikāḥ. viśva-mayam iti kulādyāmnāya-niviṣṭāḥ.*
+
 [^195]: Śaivism and Brāhmanism Lectures series, University of Kyoto, October 2012.
 
 *[p. 71]* ^pg82
@@ -876,8 +933,11 @@ the *homa-*less Atimārga[^199]), for which reason it was sometimes called *haut
 A fundamental characteristic of the Mantramārga is that it divides into two streams, which we can classify (following the tradition itself) as *sāmānya* and *viśeṣa,* or the (relatively) exoteric common base and the specialized revelation. These two are
 
 [^196]: *Svacchanda-tantra-uddyota*, translation SANDERSON 2006: 159-160, emphasis mine. Here Kṣemarāja actually denies Atimārga and Mantramārga their usual meanings, instead regarding the former term as pertaining to the Tantric teachings on ritual, yoga, and observance, and the latter as pertaining to the Tantric wisdom-teachings (*jñānapāda*).
+
 [^197]: This is reflected in new initiatory terminology. While Atimārga initiates were always called *sādhaka*s, as are the ascetics of the Mantramārga, householder initiates of the Mantramārga are designated as *putraka*s.
+
 [^198]: SANDERSON’s phrase. Śaivism and Brāhmanism Lectures series, Kyoto, Sept. 2012 – Jan. 2013.
+
 [^199]: Unless we consider as reliable the literary references to Kāpālikas making sacrificial offerings of animal and/or human flesh into a consecrated fire. Cf. *Prabodhacandrodaya* Act III
 
 *[p. 72]* ^pg83
@@ -897,6 +957,7 @@ We shall seek to define Tantric Śaivism more completely and more precisely belo
 We have already introduced the earliest Tantric scripture above (p. 30), the *Niśvāsa-tattva-saṃhitā,* the five divisions[^201] of which are dated by careful and conservative scholars to a time period spanning c. 450-550 CE (GOODALL and ISAACSON 2007). We can characterize this scripture as proto-Tantra: it is closer to the Atimārgic world, and though it is considered by doxographical sources to be a scripture of the Siddhānta, in fact the primary division of the Mantramārga into the *sāmānya* and *viśeṣa* branches mentioned above is not evident in the *Niśvāsa*. Additionally, key Tantric doctrines were apparently not yet developed (e.g., *mala*). The cosmology and the mantra-system of the *Niśvāsa* was soon supplanted by those 
 
 [^200]: It offered modifications of its basic cult appropriate for other contexts, including that of the Siddhānta, Vāma, Mantrapīṭha, Kulamārga, and even Pañcarātra, Vaidika, and Bauddha.
+
 [^201]: In probable chronological order, these five divisions are the Mūlasūtra, Uttarasūtra, Nayasūtra, Guhyasūtra, and Niśvāsa-mukha, the last of which contains the passages we have already discussed.
 
 *[p. 73]* ^pg84
@@ -908,7 +969,9 @@ Inscriptional evidence shows us that the Śaiva Siddhānta existed as a well-est
 Our earliest evidence of the non-Saiddhāntika (or *viśeṣa*) Mantramārga also comes from the sixth century. The original Skanda-purāṇa (BHAṬṬARĀĪ 1988) knows the Yāmala *sampradāya* (#3 in Table 2) and names its texts as “the holy Mother Tantras” (*divya-mātṛ-tantrāṇi, = yāmala-tantra*s), thus linking it explicitly to the Somasiddhānta’s cult.[^203] One of the texts named in this passage is the *Brahma-yāmala,* which survives to the present, and indeed features the *kapāla-vrata* prominently and contains much material that was most probably redacted from Somasiddhānta sources. The latest possible date for the ur-Skandapurāṇa is the eighth century, but Yuko YUKOCHI has argued for a sixth-century date on the basis of iconographic evidence (1999: 74-75). This date agrees with the detailed depiction of Vārāṇasī in the text, as shown by BAKKER and ISAACSON (2004). If these scholars are correct, then we are lead to surmise that the Yāmala branch of the Mantramārga was in fact coeval with the Somasiddhānta, which can scarcely have begun much before 500 (see 1.5.3 above). This raises the possibility that its Somasiddhānta-like passages are parallels rather than redactions, and further suggests the possibility that the Yāmala was not initially seen as part of the Mantramārga at all. After all, the ur-Skandapurāṇa knows the Atimārga, but does not know the Mantramārga, with sole the exception of these Yāmala-related passages. More research in this area is needed.[^204] 
 
 [^202]: EI 31:5, v. 16-17; cf. SHASTRI 1995, Part 2.
+
 [^203]: *Skandapurāṇa* 171.127-31b; cf. HATLEY 2012. Further confirmation comes from the *Jayadratha-yāmala* (which, despite its title, is a tantra of the Kālīkula, not the Yāmala), which speaks of seven *Mātṛyāmala-tantra*s at 1.36.16-25 (HATLEY 2007: 240).
+
 [^204]: SANDERSON has alerted me to the existence of the South Indian Mātṛtantras, which share names with the North Indian Yāmala-tantras (e.g., the *Brahmayāmala*), but describe a temple cult of the worship of Cāmuṇḍā with meat and wine (this despite the tantric prohibition on a public temple cult dedicated to a transgressive tantric deity). Amongst these texts, the *Mātṛsadbhāva* preserves a Somasiddhānta context: *arcayet paramāṃ śaktiṃ somasiddhānta-pāragaḥ* we are told on p. 102 of the MS; and *dhyāyen mahāvrata-dharaṃ haram . . . pañcamudrā-dharaṃ kapāla-khaṭvāṅga-dharam* etc. on p. 98; on p. 231, *saśiṣyaṃ lakulīśānam abhipūjya* (Śaivism and Brāhmanism lectures, Handout 7, 27 November 2012). This evidence supports my hypothesis that the Yāmala *sampradāya* was originally Atimārgic. However, the North Indian *Brahmayāmala* as we have it now certainly considers itself part of the Mantramārga.
 
 *[p. 74]* ^pg85
@@ -924,6 +987,9 @@ Evidence is abundant from the eighth century onwards. For a tabular presentation
 As already mentioned, defining the Mantramārga brings us to the American academy’s discussion of the definition of “Tantra” or “Tantrism.” I have little interest in prolix discussions concerning the definition of an invented category, but in this case the invention has some grounding: the attempt to ascertain what Tantric Śaivism, Tantric Buddhism, and Tantric Vaiṣṇavism all have in common (Tantric Jainism has been little addressed), and thus what constitutes the Tantric style of religion. In exploring this question, scholars have invoked the notion of “polythetic definition” popularized by Jonathan Z. SMITH (on the basis of the work of biologists SOKOL and SNEATH).[^208] This constitutes a list of features that are seen as 
 
 [^205]: SANDERSON (2001: 11): “These facts reveal that Tantric Śaivism of this relatively public and strongly soteriological variety was not merely present in the seventh century but well established.”
+
 [^206]: *Pramāṇa-vārtika-svavṛtti,* GNOLI Ed. (1960), p. 163: *dharmaviruddhānām api kraurya-steyamaithuna-hīnakarmādi-bahulānāṃ ḍākinī-bhaginī-tantrādiṣu darśanāt.* The commentator Karṇakagomin glosses with *caturbhaginī-tantre* (SANDERSON 2001: 206).
+
 [^207]: This keystone practice text exists in ten pre-12th-century recensions (GOODALL 2007: 125), such as those in 100, 200, 350 verses and more. The second of these is the basis for many later *paddhati*s, and the third received an important commentary (the *Sārdhatriśati-kālottara-vṛtti*).
+
 [^208]: See SMITH, *Imagining Religion,* pp. 4-5, citing Robert SOKOL and Peter SNEATH’s *Principles of Numerical Taxonomy.* In this method of classification as used in the natural sciences,“no single feature is either essential to group membership or is sufficient to make an organism a member of the group” (SOKAL and SNEATH 1963: 291 cited in NEEDHAM 1975: 355), and, as a corollary, “no property is necessarily possessed by all individuals in the group, and no organism necessarily has all the properties generally characteristic of members of its group” (Ibid.: 356).

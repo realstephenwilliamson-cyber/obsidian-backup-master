@@ -22,5 +22,6 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Isa 14:28 - 15:2 |
+| Frag. 2 | unidentified |
 
 [[DSS 4Q67|← 4Q67]] · [[Qumran|index]] · [[DSS 4Q69|4Q69 →]]

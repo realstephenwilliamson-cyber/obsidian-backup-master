@@ -31,7 +31,9 @@ Encountering YHWH
 If the theoretical frameworks formulated in Chapter 4 are an indication, encounters with YHWH’s divine agency would have been relatively common within the socio-material ecology of Iron Age Israel and Judah. Finds from that region and period attest to a wide range of cultic imagery reflecting a spectrum of conventions running from local to imperial, and frequently combining and altering that imagery to serve specific needs and functions. Unfortunately, identifying the divine referents of cultic objects and images is fraught with uncertainty, so confident identifications of specific objects with YHWH cannot generally be made. This is not only a concern for the representation of YHWH, of course, and nor is it likely the product of a programmatic anti-iconic convention. [^1] Tallay Ornan has investigated the representation of deity in first-millennium-BCE Mesopotamia, and particularly the diminution of anthropomorphic depictions, and has identified “a broader trend in the ancient Near East to transfer the sacredness of deities to symbols and objects.”[^2] According to Ornan, this was a *de facto* aniconism and not a programmatic one.[^3] Angelika Berlejung has observed, “there is a large number of deities known by name from Israel/Palestine whose specific iconography is unknown or of whom no clear representations are known, yet which are not immediately 
 
 [^1]: A recent article has suggested stamp seals from Iron Age II attest to an increased aniconism in reference to YHWH. See Mitka R. Golub, “Aniconism and Theophoric Names in Inscribed Seals from Judah, Israel and Neighbouring Kingdoms,” *TA* 45.2 (2018): 157–69.
+
 [^2]: Tallay Ornan, *The Triumph of the Symbol: Pictorial Representations of Deities in Mesopotamia and the Biblical Image Bane* (Fribourg: Academic Press / Göttingen: Vandenhoeck & Ruprecht, 2005), 169.
+
 [^3]: Ornan, *The Triumph of the Symbol*, 175
 
 *[p. 303]* ^pg320
@@ -41,9 +43,13 @@ connected to aniconism.”[^4] Berlejung identifies five conventional representa
 The only example of Iron Age iconography accompanied by an inscription that explicitly references YHWH is the drawing on Pithos A from Kuntillet ‘Ajrud, but again, there is uncertainty regarding the referents of the iconography.[^6] Several entities are represented on the pithos, including boars, lions, bulls, cows, calves, caprids, a stylized tree, and three anthropomorphic figures. The caprids feeding at the stylized tree are very similar to the imagery on the Taanach cult stand,[^7] and may represent Asherah (whether or not they are thought to be related to the inscription).[^8] One of the anthropomorphic figures is a seated lyre player, but the two standing figures immediately below the inscription mentioning YHWH have been the focus of the vast majority of the debate. They were initially identified as two male figures, based on the apparent presence of a penis and scrotum depicted between the legs of each. More recent analysis, however, has determined that the right figure does not have anything depicted 
 
 [^4]: Angelika Berlejung, “The Origins and Beginnings of the Worship of YHWH: The Iconographic Evidence,” in van Oorschot and Witte, *The Origins of Yahwism*, 67. Cf. Youn Ho Chung, *The Sin of the Calf: The Rise of the Bible’s Negative Attitude Toward the Golden Calf* (New York: T&T Clark, 2010), 10–11 (although contrary to Chung, I understand “aniconism” as it is used within biblical scholarship to refer most commonly to an intentional and programmatic rejection and avoidance of the use of symbols in worship).
+
 [^5]: Some reviews of the relevant data are found in Uehlinger, “Anthropomorphic Cult Statuary in Iron Age Palestine and the Search of Yahweh’s Cult Images,” 99–152; Herring and Gilmour, “The Image of God in Bible and Archaeology,” 68–75; Berlejung, “The Origins and Beginnings of the Worship of YHWH,” 74–90. Cf. Keel and Uehlinger, *Gods, Goddesses, and Images of God*, 133–281; Zevit, *The Religions of Ancient Israel*, 123–266; Mazar, “Religious Practices and Cult Objects during the Iron Age IIA at Tel Reḥov,” 25–54.
+
 [^6]: On the Pithos A drawings, see Beck, “The Drawings and Decorative Designs,” 143–73. The inscriptions are discussed above, pages 207–09.
+
 [^7]: See above, pages 205–06.
+
 [^8]: See Beck, “The Drawings and Decorative Designs,” 152–56; cf. Aḥituv, Eshel, and Meshel, “The Inscriptions,” 136, note 15: “We suppose that this drawing is unrelated to the inscriptions and drawings on the other side of Pithos A. The person(s) who drew and/or wrote one side of the pithos, most probably did not bother to turn the heavy pithos to look at its other side.”
 
 *[p. 304]* ^pg321
@@ -53,10 +59,15 @@ between the legs. This has most commonly been understood to suggest the two stan
 Ryan Thomas has more recently observed that imagery associated with Bes was frequently adopted outside of Egypt for use in reference to local tutelary deities.[^12] He states, “we have several representations of Bes from Canaan that can be connected to an indigenous Horus-like deity whose cult and mythology lived on into Late Iron Age Israel.” [^13] Scholars have iconographically and epigraphically linked Horus and Bes with YHWH, and so for Thomas, this imagery could have been used to represent YHWH and Asherah, and particularly in light of the association of Bes with blessing and protection in apotropaic contexts.[^14] The cow and calf imagery that overlaps with the foot of the male standing figure may additionally evoke symbolism associated with fertility. Thomas’ argument would read the blessing as an example of “sympathetic magic,” with the combination with divine imagery meant to perhaps maximize 
 
 [^9]: Although see Tallay Ornan, “Sketches and Final Works of Art: The Drawings and Wall Paintings of Kuntillet ‘Ajrud Revisited,” *TA* 43.1 (2016): 3–26, who argues that “all the pottery drawings were preliminary sketches to be applied as wall paintings” (p. 17). She identifies both figures as Bes, intended for two opposing doorjambs to function as protective entities.
+
 [^10]: See, for instance, Judith M. Hadley, “Drawings and Inscriptions on Two Pithoi from Kuntillet ‘Ajrud,” *VT* 37.2 (1987): 180–213; Uehlinger, “Anthropomorphic Cult Statuary in Iron Age Palestine and the Search of Yahweh’s Cult Images,” 142–46; Keel and Uehlinger, *Gods, Goddesses, and Images of God*, 217–23; Beck, “The Drawings and Decorative Designs,” 165–69.
+
 [^11]: Against this argument, see Schmidt, *The Materiality of Power*, 39–54.
+
 [^12]: Thomas, “The Identity of the Standing Figures on Pithos A from Kuntillet ‘Ajrud,” 147.
+
 [^13]: Thomas, “The Identity of the Standing Figures on Pithos A from Kuntillet ‘Ajrud,” 149.
+
 [^14]: Thomas, “The Identity of the Standing Figures on Pithos A from Kuntillet ‘Ajrud,” 149–58. Note, however, that Zevit suggests Bes’ association with a variety of deities may have led to the association of Bes with generic deity, meaning it was “a pictographic god symbol and not necessarily the representation of any given deity” (Zevit, *The Religions of Ancient Israel*, 388; for Zevit’s take on how Bes may represent YHWH, see pages 388–89).
 
 *[p. 305]* ^pg322
@@ -74,10 +85,15 @@ vocalizes יראה as a *niphal*, and most contemporary translations follow that
 “appear before the Lord YHWH”—but the consonantal text alone is not determinative.[^20] Isaiah 
 
 [^15]: Note Schmidt’s observation: “The convergence of these two media, script and symbol, in my estimation, was implemented for the specific effect of intensifying the divine empowerment and religious meaning, the numinous, conveyed in such exceptional display” (Schmidt, *The Materiality of Power*, 40).
+
 [^16]: Of course, other interpretations are possible. For instance, Jeremy Smoak and William Schniedewind have recently argued the texts are scribal exercises merely copying well known blessing formulae as practice (Jeremy Smoak and William Schniedewind, “Religion at Kuntillet ‘Ajrud,” *Religions* 10.211 \[2019\]: 1–18).
+
 [^17]: Aharoni, “Arad,” 2–32; Herzog, “The Fortress Mound at Tel Arad,” 3–109; Mettinger, *No Graven Images?*, 143–49; Bloch-Smith, “Massebot Standing for Yhwh,” 112–15; Herring, *Divine Substitution*, 58–59.
+
 [^18]: Mitka Golub, “The Distribution of Personal Names in the Land of Israel and Transjordan during the Iron II Period,” *JAOS* 134.4 (2014): 638.
+
 [^19]: See Yohanan Aharoni, “Arad: Its Inscriptions and Temple,” *BA* 31.1 (1968): 2–32.
+
 [^20]: See also [[Torah 47 - Re'eh#^16-16|Deuteronomy 16:16]]; [[Torah 52 - Vayeilech#^31-11|31:11]]; [[I Samuel 01#^1-22|1 Sam 1:22]] (here the verb is clearly in the *niphal*); [[Psalms 042#^42-3|Psalm 42:3]]; and [[Torah 18 - Mishpatim#^23-17|Exodus 23:17]]. In the last example, the direct object marker את is replaced with the preposition אל . Jan Joosten takes this as an indication the passive reading became common very early in the life of the construction (Jan Joosten, “To See God: Conflicting Exegetical Tendencies in the Septuagint,” *Die Septuaginta – Texte, Kontexte,* *Lebenswelten*, ed. Martin Karrer, Wolfgang Kraus, and Martin Meiser \[Tübingen: Mohr Siebeck, 2008\], 289, n.
 
 *[p. 306]* ^pg323
@@ -97,6 +113,7 @@ stele. To stand before the stele was to be לפני יהוה , “before YHWH.�
 7\. . [[I Samuel 01#^1-22|1 Samuel 1:22]] lends additional support to that conclusion, although the frequent reference to the “beatific vision” in the Psalms could be interpreted to indicate a literal reading also had currency.
 
 [^21]: MT still imposes the *niphal* vocalization: אוֹת לֵרָ . See Carmel McCarthy, *The Tiqqune Sopherim and Other Theological Corrections in the Masoretic Text of the Old Testament* (Göttingen: Vandenhoeck & Ruprecht, 1981), 199–205; Joosten, “To See God,” 288–90; cf. Shimon Gesundheit, *Three Times a Year: Studies on Festival Legislation in the Pentateuch* (Tübingen: Mohr Siebeck, 2012), 17–19. The Peshitta retains the *qal* in rendering למחזא , as noted in Dominique Barthélemy, *Critique textuelle de l’Ancien Testament, vol. 2. Isaïe, Jérérmie,* *Lamentations* (Fribourg: Éditions Universitaires; Göttingen: Vandenhoeck & Ruprecht, 1986), 4. See also Hendel and Joosten, *How Old Is the Hebrew Bible?*, 49 (cf. nn. 9–11): “This example has some historical linguistic relevance because the elision of the *he* in *niphal* infinitives is not usual in Biblical Hebrew but becomes more common in the postbiblical period.” [[Isaiah 01#^1-1|Isaiah 1]] is likely pre-exilic, and it appears to attest to the early practice of appearing “before YHWH” ( לפני יהוה ) in a cultic setting (cf. Haran, *Temples and Temple-Service in Ancient Israel*, 26 and n. 24; Mervyn D. Fowler, “The Meaning of *lipnê* YHWH in the Old Testament,” *ZaW* 99.3 \[1987\]: 384– 90).
+
 [^22]: See Mark S. Smith, “‘Seeing God’ in the Psalms: The Background to the Beatific Vision in the Hebrew Bible,” *CBQ* 50 (1988): 171–83; Niehr, “In Search of YHWH’s Cult Statue in the First Temple,” 83–85; Herring, *Divine Substitution*, 53; Knafl, *Forming God*, 106–09. Friedrich Nötscher argued almost 100 years ago that this tradition derived from the broader sociocultural practice of court ceremonies before the king. See Friedrich Nötscher, ‘*Das Angesicht Gottes schauen’ nach biblischer und babylonischer Aufassung* (Würzburg: Becker, 1924). [[Hosea 03#^3-4|Hosea 3:4]] lists a stele among the accouterments of the temple that Israel will miss, but the inclusion of teraphim in the list suggests to some that the items are not being referenced favorably. For references, see Bloch-Smith, “Massebot Standing for Yhwh,” 107.
 
 *[p. 307]* ^pg324
@@ -104,8 +121,11 @@ stele. To stand before the stele was to be לפני יהוה , “before YHWH.�
 While the strongest evidence for the material presencing of YHWH is the stele from Arad, there can be little doubt that other objects and imagery were understood by their consumers to serve similar functions. Stelai are known from all over Iron Age Israel and Judah, and some portion of them undoubtedly represented YHWH. The Taanach cult stand and other model shrines known from Israelite/Judahite contexts also likely held images of the deity at some point. Sargon II’s Nimrud Prism, which describes the destruction of Samaria in 721 BCE, asserts that he took as spoil “the gods in which they trusted.”[^23] Unfortunately, without explicit designations regarding divine referents, there is little we can do to further clarify Sargon’s statement. As several biblical texts suggest, other Yahwistic temples would have had their own stelai or other representations of the deity in their inner sanctums, but the accident of preservation has yet to supply us with further examples.[^24] For example, the inner sanctum of the Judahite temple of Tel Moẓa has not yet been identified, but it may well have been plundered.[^25] The cultic objects and vessels associated with the temple at Arad just happened to have been intentionally buried by its operators (if the common interpretation is correct) and preserved down to us. Apart from the Jerusalem temple—perhaps thought to be under special protection—most other cult sites under Israelite or Judahite authority seem to have been destroyed by the time of, or during, the siege of Sennacherib, effecting a sort of de facto cult centralization that may have contributed to (if not catalyzed) the centralizing rhetoric of the late seventh and sixth centuries BCE.[^26] Cultic images would have been destroyed or carried off 
 
 [^23]: *ù* DINGIR.MEŠ(*ilanī*) *ti*-*ik*-*li-šú-un šal-la*-\[*ti*-*iš*\] / *am*-*nu* (Bob Becking, *The Fall of Samaria: An Historical and Archaeological Study* \[Leiden: Brill, 1992\], 28–29, lines 32–33).
+
 [^24]: Avraham Faust has recently argued that Israelite temples were quite rare, and that cultic encounters with deity more commonly took place outside of them. He concludes, “No matter how the Israelites practiced their religion, the archaeological evidence suggests that it was not usually performed in temple or buildings erected for cultic purposes” (Avraham Faust, “Israelite Temples: Where Was Israelite Cult Not Practiced, and Why,” *Religions* 10.106 \[2019\]: 1–26).
+
 [^25]: See Kisilevitz, “The Iron IIA Judahite Temple at Tel Moẓa,” 147–64.
+
 [^26]: See, for instance, Lisbeth S. Fried, “The High Places (*Bāmôt*) and the Reforms of Hezekiah and Josiah: An Archaeological Investigation,” *JAOS* 122.3 (2002): 437–65; Diana Edelman, “Hezekiah’s Alleged Cultic Centralization,” *JSOT* 32.4 (2008): 395–434, against Israel Finkelstein and Neil Asher Silberman, “Temple and Dynasty: Hezekiah, the Remaking of Jerusalem and the Rise of the Pan-Israelite Ideology,” *JSOT* 30.3 (2006):
 
 *[p. 308]* ^pg325
@@ -129,7 +149,9 @@ The focus was on the generic concept of deity and on deities other than YHWH, al
 The deity was clearly thought to be *seen*, but these occurrences all remain confined to the 
 
 [^28]: As YHWH is an agent, \[UNSEEN AGENCY\] does not obtain as a base independently of \[UNSEEN AGENT\].
+
 [^29]: Hamori, *“When Gods Were Men”*, 3–4.
+
 [^30]: Nevada Levi DeLapp, *Theophanic “Type-Scenes” in the Pentateuch: Visions of YHWH* (London: Bloomsbury, 2018). See also George W. Savran, *Encountering the Divine: Theophany in Biblical Narrative* (London: T&T Clark, 2005).
 
 *[p. 310]* ^pg327
@@ -139,6 +161,7 @@ biblical narratives. YHWH’s appearances represented a potentiality that served
 There is a tension, however, between this observation and the commandment discussed above to see the face of YHWH three times a year. If we take seriously the theophanic dimension of cultic presencing that may be reflected in the motif in the Psalms regarding gazing upon the deity’s face, the deity was to some degree *seen*, even if it was usually understood as an exception rather than the rule.[^31] The use of non-anthropomorphic imagery may represent a prophylactic practice meant to shield the common viewer from the deity’s anthropomorphic form.[^32] It would have served the interests of those in positions of authority over the cult to limit the perception of access to the deity. Indeed, concerns about the degree to which a cultic object 
 
 [^31]: Ornan’s observations regarding cult images in Mesopotamia are relevant here: “Most men or women, therefore, rarely saw the anthropomorphic images of their deities in ninth–sixth-century Assyria and Babylonia. In their daily lives, Babylonians and Assyrians were not surrounded by figures of their prominent gods, but instead by clay statuettes of minor deities, by composite apotropaic creatures and by divine symbols engraved on seals. The ancients saw their prominent human-shaped gods on special occasions, such as cultic processions, but as a rule, cult statues in Mesopotamia were kept closed in shrines and temples, into which ordinary people could not have entered” (Ornan, *The Triumph of the Symbol*, 173).
+
 [^32]: This is Ornan’s explanation for the use of symbolic depictions outside of the temple in Mesopotamia.
 
 *[p. 311]* ^pg328
@@ -156,6 +179,7 @@ semiotic anchoring in material media and cult make the transmission and elaborat
 \[DEITY\] In the Hebrew Bible, YHWH represents the indisputable prototype for the conceptual domain of \[DEITY\].[^33] Thus, the most common profile for the terms for deity is YHWH. We see this demonstrated in places like [[Isaiah 13#^13-19|Isaiah 13:19]]:[^34] 
 
 [^33]: An exception may be [[Torah 08 - Vayishlach#^33-20|Genesis 33:20]]: ישראל אלהי אל , which may be translated “El, the deity of Israel,” or as a verbless clause: “El is the deity of Israel.” The former would represent the only El-oriented variation on the fixed formula יהוה אלהי ישראל , “YHWH, the deity of Israel,” which occurs 119 times, but nowhere in Genesis, suggesting its association with Israel’s national identity. This analogy also suggests אל is functioning as a DN and not the appellative “deity.” Wardlaw argues for the appellative use of אל in [[Torah 08 - Vayishlach#^33-20|Genesis 33:20]] on analogy with the arthrous האל אלהי אביך in [[Torah 11 - Vayigash#^46-3|Genesis 46:3]], which he translates “God the God of your father.” While Wardlaw acknowledges that a \[HIGH GOD\] domain was likely associated with the lexeme אל in ancient Israel, he only identifies five passages where it is plausible ([[Torah 08 - Vayishlach#^33-20|Gen 33:20]]; [[Torah 45 - Vaetchanan#^7-9|Deut 7:9]], [[Torah 46 - Eikev#^7-21|21]]; [[Torah 46 - Eikev#^10-17|10:17]]; [[Torah 54 - V'Zot HaBerachah#^33-26|33:26]]), and ultimately concludes that it is not used as a DN (Wardlaw, *Conceptualizing Words for “God”*, 132–34).
+
 [^34]: Above on page 36, note 32, I point out that a profile is not to be confused with an expression’s referent. Here the profile YHWH refers not to the (putative) real-world instantiation of the concept, but to the individual’s conceptualization of it. In other words, it refers to the conceptual package evoked by the lexeme, not to its actual referent.
 
 *[p. 313]* ^pg330
@@ -223,7 +247,9 @@ The paradigm shift in YHWH’s territorialism came with their universalization i
 There was thus an expansion of the limits of YHWH’s patronage alongside a dichotomization of its nature. Judah/Israel remained a privileged social group, even as YHWH was assigned 
 
 [^36]: Of course, by this time, the population was primarily Judahite, and identified itself as such, even if Israelite identity had been appropriated.
+
 [^37]: The need to rationalize this exclusive relationship became the seedbed for the ideologies that are frequently identified by modern scholars as the necessary and sufficient features of monotheism. Cf. MacDonald, *Deuteronomy and the Meaning of Monotheism*, 151–81.
+
 [^38]: See also [[Torah 47 - Re'eh#^14-2|Deuteronomy 14:2]]; [[Torah 50 - Ki Tavo#^26-18|26:18]]; [[Psalms 135#^135-4|Psalm 135:4]].
 
 *[p. 316]* ^pg333
@@ -241,7 +267,9 @@ Egyptian army being slung into the sea, having the sea piled up and then cast ov
 The Song of the Sea’s description of the deity’s manipulation of the sea for destructive purposes seems to derive, at least in part, from the STORM-DEITY profile, which is known from across ancient Southwest Asia. [^41] Generally speaking, the storm-deity was responsible for sustaining agriculture (and thus civilization and cosmic order) through the provision of rain 
 
 [^39]: See Shawn W. Flynn, *YHWH is King: The Development of Divine Kingship in Ancient Israel* (Leiden: Brill, 2014), 47–58. Ronald Hendel has recently suggested that the Song of the Sea represents the accretion of poetic tradition to social memories regarding the collapse of Egypt’s hegemony over the hill country in the Late Bronze Age. See Ronald Hendel, “The Exodus as Cultural Memory: Egyptian Bondage and the Song of the Sea,” in *Israel’s Exodus in Transdisciplinary Perspective: Text, Archaeology, Culture, and Geoscience*, ed. Thomas E. Levy, Thomas Schneider, and William H.C. Propp (Switzerland: Springer, 2015), 65–77.
+
 [^40]: Although note [[Isaiah 63#^63-1|Isaiah 63:1–6]] describes the deity returning from battle, covered in blood, castigating those who failed to show up in support and boasting of their singlehanded victory. The actual means of the victory are elided, however, and the hearer/reader is left to imagine the scene themselves.
+
 [^41]: Jennifer Metten Pantoja, *The Metaphor of the Divine as Planter of the People: Stinking Grapes or Pleasant Planting?* (Leiden: Brill, 2017), 56–62. See also Alberto R. W. Green, *The Storm-God in the Ancient Near East* (Winona Lake, IN: Eisenbrauns, 2003); Daniel Schwemer, “The Storm-Gods of the Ancient Near East: Summary, Synthesis, Recent Studies. Part I,” *JANER* 7.2 (2008): 121–68; Daniel Schwemer, “The Storm-Gods of the Ancient Near East: Summary, Synthesis, Recent Studies. Part II,” *JANER* 8.1 (2008): 1–44. On YHWH as storm-deity, see Paul E. Dion, “YHWH as Storm-god and Sun-god: The Double Legacy of Egypt and Canaan as Reflected in [[Psalms 104#^104-1|Psalm 104]],” *ZAW* 103.1 (1991): 43–71; Reinhard Müller, *Jahwe als Wettergott: Studien zur althebräischen Kultlyrik anhand ausgewählter Psalmen* (Berlin: de Gruyter, 2008).
 
 *[p. 317]* ^pg334
@@ -257,8 +285,11 @@ In that day, YHWH will visit punishment, with his hard and great and strong swor
 This account bears striking similarities to a passage from the Ugaritic KTU 1.5.i:1–3 that praises Baal for dispatching a creature named Lotan:[^45] 
 
 [^42]: In places like the Southwest Asian hill countries, where rainfall was the central lifeblood of agriculture and, thus, civilization, the balance between prosperity and destruction became increasingly delicate as the size and complexity of a society increased. It is no wonder the storm-deity began to predominate in these regions after the development of the secondary states of the tenth century BCE.
+
 [^43]: For instance, in the Ugaritic stories of Baal’s battle with Yamm, the craftsman deity Kothar-wa-Hasis fashions two maces that Baal uses to defeat Yamm (KTU 1.2.iv:10–30). Mark S. Smith suggests, however, that these weapons represent Baal’s lightning (Smith, *The Ugaritic Baal Cycle. Volume 2*, 57).
+
 [^44]: Recall that the danger and chaos of the sea conceptually contrasts with the order and safety of civilization. On the use of “chaos” in the Hebrew Bible, see Rebecca S. Watson, *Chaos Uncreated: A Reassessment of the Theme of “Chaos” in the Hebrew Bible* (Berlin: de Gruyter, 2005).
+
 [^45]: This translation is my own, but cf. Wyatt, *Religious Texts from Ugarit*, 115; Smith, *The Ugaritic Baal Cycle. Volume 2*, 252. The second and third lines appear almost identically in KTU 1.3.iii:41–42 (the verb at the beginning of line 2 is different \[*mḫšt*\], as well as being in the first person). Lotan is cognate with the Hebrew לויתן (see J. A. Emerton, “Leviathan and *ltn*: The Vocalization of the Ugaritic Word for the Dragon,” *VT* 32 \[1982\]: 327–31).
 
 *[p. 318]* ^pg335
@@ -290,9 +321,13 @@ in that exilic text the tradition begins to bleed into rhetoric about the deity�
 creation, but those authors seem reticent to describe creation as a product of a battle against antagonistic divine forces, and so while the figures were retained, they were only conceptual husks, stripped of their agency and narratives.[^50] *Enuma Elish*’s sea monster Tiamat appears to 
 
 [^46]: See the discussion in Smith, *The Ugaritic Baal Cycle. Volume 2*, 250–54.
+
 [^47]: See David Toshio Tsumura, *Creation and Destruction: A Reappraisal of the* Chaoskampf *Theory in the Old Testament* (Winona Lake, IN: Eisenbrauns, 2005), 192–95.
+
 [^48]: See David Toshio Tsumura, “The Creation Motif in [[Psalms 074#^74-12|Psalm 74:12–14]]? A Reappraisal of the Theory of the Dragon Myth,” *JBL* 134.3 (2015): 547–55, but cf. Nathaniel E. Greene, “Creation, Destruction, and a Psalmist’s Plea: Rethinking the Poetic Structure of [[Psalms 074#^74-1|Psalm 74]],” *JBL* 136.1 (2017): 85–101. For this passage as an element of the complaint genre intended to remind the deity of past acts of salvation and rhetorically spur them to action, see McClellan, “The Gods-Complaint,” 841.
+
 [^49]: For a brief outline of some different ways the Ugaritic and Akkadian literature treat the rise to divine kingship, see Smith, *The Ugaritic Baal Cycle. Volume 2*, 16–19. David Tsumura argues that scholars have been too eager to find *Enuma Elish* in [[Torah 01 - Bereshit#^1-1|Genesis 1]]. See Tsumura, *Creation and Destruction*. Cf. John Day, *God’s Conflict with the Dragon and the Sea: Echoes of a Canaanite Myth in the Old Testament* (Cambridge: Cambridge University Press, 1985), but against Tsumura, see Paul K.-K. Cho, *Myth, History, and Metaphor in the Hebrew Bible* (Cambridge: Cambridge University Press, 2019).
+
 [^50]: “Rather, their purpose was at once to allude to the world of the sea myth, not only to that of the Babylonian *Enuma Elish* but also more generally to that of the common sea myth tradition, so as to make it visible to the reader’s mind, but simultaneously to challenge and replace that world with a fresh vision of creation with YHWH, not Marduk, the god of their hated captors, enthroned in the cosmic temple” (Cho, *Myth, History, and Metaphor in the Hebrew Bible*, 78).
 
 *[p. 319]* ^pg336
@@ -310,7 +345,9 @@ like you among the deities, YHWH?”
 [[Judges 05#^5-4|Judges 5:4–5]], a portion of the Song of Deborah, more directly draws from the classical imagery of the storm-deity as warrior vis-à-vis humanity: 
 
 [^51]: See Cho, *Myth, History, and Metaphor in the Hebrew Bible*, 76–87.
+
 [^52]: This story is known from Ugarit, involving Baal and Yamm, from Old-Babylonia, involving Haddu and Temtum, from Neo-Babylonia, involving Marduk and Tiamat, and from a variety of myths from Anatolia. See Schwemer, “The Storm-Gods of the Ancient Near East. Part II,” 24–27. See also Edward L. Greenstein, “The Snaring of Sea in the Baal Epic,” *MAARAV* 3.2 (1982): 195–216.
+
 [^53]: See KTU 1.2.iv:32: *ym.lmt.b‘lm. yml*\[*k*, Yamm surely is dead! Baal rei\[gns!(?)\]” (Smith, *The Ugaritic Baal Cycle. Volume 1*, 319, 324). Note Smith’s discussion of the levels of kingship on pages 95–96.
 
 *[p. 320]* ^pg337
@@ -350,8 +387,11 @@ that shakes the wilderness and shatters trees.[^56] [[Psalms 068#^68-5|Psalm 68:
 associated directly with Baal in the Ugaritic literature: בערבות רכב , “Rider of the Clouds.”[^57] 
 
 [^54]: My translation follows the LXX reading of נזלו as the *niphal* of זלל , rather than MT’s reading of *qal* נזל .
+
 [^55]: See Frank Moore Cross and David Noel Freedman, “A Royal Song of Thanksgiving: II Samuel 22=[[Psalms 018#^18-1|Psalm 18]],” *JBL* 72.1 (1953): 15–34; Cross, *CMHB*, 158–62; Miller, *The Divine Warrior in Early Israel*, 121–23; Klingbeil, *Yahweh Fighting from Heaven*, 57–74; Green, *The Storm-God in the Ancient Near East*, 269–71; Tsumura, *Creation and Destruction*, 149–51; Watson, *Chaos Uncreated*, 74–83; Alison Ruth Gray, *[[Psalms 018#^18-1|Psalm 18]] in Words and Pictures: A Reading Through Metaphor* (Leiden: Brill, 2014).
+
 [^56]: The majority of the scholarship on Psalm 29 addresses its unity and poetic structures. See Peter C. Craigie, “Psalm XXIX in the Hebrew Poetic Tradition,” *VT* 22.2 (1972): 143–51; David Noel Freedman and C. Franke Hyland, “[[Psalms 029#^29-1|Psalm 29]]: A Structural Analysis,” *HTR* 66 (1973): 237–56; John Day, “Echoes of Baal’s Seven Thunders and Lightnings in Psalm XXIX and Habakkuk III 9 and the Identity of the Seraphim in Isaiah VI,” *VT* 29.2 (1979): 143–51; Carola Kloos, *Yhwh’s Combat with the Sea: A Canaanite Tradition in the Religion of Ancient Israel* (Leiden: Brill, 1986), 13–124; Dennis Pardee, “On [[Psalms 029#^29-1|Psalm 29]]: Structure and Meaning,” in *The Book of Psalms:* *Composition and Reception*, ed. Peter W. Flint and Patrick D. Miller, Jr. (Leiden: Brill, 2005), 153–81; Dennis Pardee and Nancy Pardee, “Gods of Glory Ought to Thunder: The Canaanite Matrix of [[Psalms 029#^29-1|Psalm 29]],” in *[[Psalms 029#^29-1|Psalm 29]] through Time and Tradition*, ed. Lowell K. Handy (Cambridge: James Clarke & Co., 2009), 115–25; Gianni Barbiero, “The Two Structures of [[Psalms 029#^29-1|Psalm 29]],” *VT* 66.3 (2016): 378–92.
+
 [^57]: In Ugaritic, *rkb ‘rpt* (KTU 1.2.iv:8, 29; 1.3.ii:40; iii:38//iv:4; see Rahmouni, *Divine Epithets in the Ugaritic Texts*, 288–91). The resonance with Baal specifically is suggested by the Akkadian convention for the storm-deity to ride storms, not clouds (Rahmouni, *Divine Epithets in the Ugaritic Texts*, 290, n. 7). On the interchange of *beth* and *pe*, cf. [[Isaiah 05#^5-30|Isaiah 5:30]], where עריפים is used for “clouds.” For more detail in this title in Ugaritic, see N. Wyatt, *Word of Tree and Whisper of Stone, And Other Papers on Ugaritian Thought* (Piscataway, NJ: Gorgias Press, 2007), 32–36.
 
 *[p. 321]* ^pg338
@@ -373,6 +413,7 @@ incomparability regarding knowledge: מי־תכן את־רוח יהוה ואיש
 the רוח of YHWH, and what person being his counselor has instructed him?” Other passages assert YHWH’s ability to monitor everyone’s actions, activating the \[SOCIAL MONITORING\] domain ([[Psalms 033#^33-13|Psalm 33:13–15]]): 
 
 [^58]: 260 occurrences, including [[I Samuel 01#^1-3|1 Samuel 1:3]], [[I Samuel 01#^1-11|11]]; [[II Kings 23#^23-5|2 Kings 23:5]]; [[Psalms 046#^46-7|Psalms 46:7]]; [[Psalms 084#^84-12|84:12]]; [[Torah 45 - Vaetchanan#^4-19|Deuteronomy 4:19]]; [[Torah 48 - Shoftim#^17-3|17:3]]; [[Judges 05#^5-20|Judges 5:20]].
+
 [^59]: While I am referring to battle with various entities and forces, the relationship specifically between chaos and creation is not so clear. See Watson, *Chaos Uncreated*, 19–25; Tsumura, *Creation and Destruction*. On the sea myth and its relationship to creation, see Cho, *Myth, History, and Metaphor in the Hebrew Bible*, 67–87. The convergence of divine battle, salvation, and creation occurs in [[Psalms 074#^74-12|Psalm 74:12–17]] (cf. Flynn, *YHWH is King*, 71–
 
 *[p. 322]* ^pg339
@@ -442,8 +483,11 @@ Prophets represent perhaps the most well-known medium for consulting the deity f
 The representation of prophets in the biblical texts is distinct in a variety of other ways.[^63] For instance, the prophets of the Bible represent only a single deity, rather than an entire pantheon. How much of this exclusivity is editorial in origin is unclear, but a common accusation against prophets who utilized illicit means or consulted other deities was that they dealt in “false prophecy,” which represents a degree of innovation on the genre.[^64] Next, while prophets outside of Israel and Judah tended to operate in groups and directly in the service of the crown and/or temple, the biblical prophets are frequently portrayed as operating alone, and often independently of and even antagonistically towards the royal court.[^65] The contrast with the broader pattern is punctuated in the story of Micaiah’s prophecy regarding the death of Ahab, which rhetorically mocks and derides the king’s cadre of prophets as incompetent yes-men. The occasional antagonism towards specific kings ([[I Kings 21#^21-17|1 Kgs 21:17–22]]) and toward kingship more broadly ([[I Samuel 08#^8-4|1 Sam 8:4–18]]) would have been rhetorically useful for criticizing past kings perceived to be impious or unjust, but more saliently for structuring values and power in the absence of kingship. A prophet who operates independently of the crown maintains access to the deity’s strategic information even in exile or under direct foreign rule. 
 
 [^62]: Stökl, *Prophecy in the Ancient Near East*, 175–76.
+
 [^63]: See the bibliographic data on page 266–68, notes 71 and 74. On the terms for “prophet,” see Stökl, *Prophecy in the Ancient Near East*, 155–200. Note, particularly, the following comment: “I have argued that *nabī* in Emar and Mari is related to some form of ancestor worship. If the word did not change its meaning in the process of borrowing, it would follow that the נביא was originally linked to some form of ancestor cult. A provisional, if very literal, translation of נביא is ‘the called’” (p. 167).
+
 [^64]: See Huffmon, “The Exclusivity of Divine Communication in Ancient Israel,” 67–71. Huffmon describes the prophets’ fidelity to YHWH alone as a reflection of the vassal/king relationship (pp. 71–74).
+
 [^65]: See Rainer Albertz, “Social History of Ancient Israel,” in Williamson, *Understanding the History of Ancient Israel*, 361: “Such fundamental prophetic opposition during the ninth century against the ruling king is a new phenomenon in Israel’s history. In the tenth century the prophets we hear about were ecstatic groups with no visible social function ([[I Samuel 10#^10-5|1 Sam. 10.5–6]], [[I Samuel 10#^10-10|10–12]]; [[I Samuel 19#^19-18|19.18–24]]), or court prophets like Nathan and Gad employed by the state, who predominantly functioned to stabilize the institution of monarchy (2 Sam. 7; 1 Kgs 1). Such prophets in the service of the kings are also mentioned later (1 Kgs 22). Only during the ninth century did individual prophets and prophetic groups with no ties to institutions emerge alongside these. Such prophets had largely detached themselves from ties of kinship and profession ([[I Kings 19#^19-19|1 Kgs 19.19–21]]) in order to earn their living as itinerant miraculous healers, exorcists, or oracle givers.”
 
 *[p. 325]* ^pg342
@@ -459,8 +503,11 @@ identified, he confesses, חטאתי ליהוה אלהי ישראל , “I sinne
 Achan here represents the quintessential free-rider, violating sociocultural mores in order to take advantage of resources facilitated by the broader cooperation of the social group. Achan’s transgression in and of itself has no direct effect on the success of the social group, but because YHWH imposes and enforces the חרם , its violation results in YHWH’s withdrawal 
 
 [^66]: On this dating, see Thomas B. Dozeman, *[[Joshua 01#^1-1|Joshua 1]]–12: A New Translation with Introduction and Commentary*, AB (New Haven, CT: Yale University Press, 2015), 350–61. Cf Römer, *The So-Called Deuteronomistic History*, 87–88, which refers to the story of Achan as a “later interpolation” to the Deuteronomistic account of the conquest of Ai.
+
 [^67]: On חרם , see Philip D. Stern, *The Biblical Ḫerem: A Window on Israel’s Religious Experience* (Atlanta, GA: Scholars Press, 1991); C. L. Crouch, *War and Ethics in the Ancient Near East: Military Violence in Light of Cosmology and History* (Berlin: de Gruyter, 2009), 174–89. Note Crouch highlights that a national context is more likely for the development of these features of “holy war” than a tribal one (p. 174–75). She also notes the “deuteronom(ist)ic” context for the majority of חרם narratives (p. 177). On this last point, see MacDonald, *Deuteronomy and the Meaning of Monotheism*, 108–22.
+
 [^68]: See Lauren A. S. Monroe, “Israelite, Moabite and Sabaean War-*ḥērem* Traditions and the Forging of National Identity: Reconsidering the Sabaean Text RES 3945 in Light of Biblical and Moabite Evidence,” *VT* 57 (2007): 318–41. See also Giuseppe F. Del Monte, “The Hittite Ḥerem,” in *Memoriae Igor M. Diakonoff. Babel und Bibel 2*, ed. L. Kogan et al. (Winona Lake, IN: Eisenbrauns, 2005), 21–46.
+
 [^69]: See, for instance, MacDonald, *Deuteronomy and the Meaning of Monotheism*, 116–17.
 
 *[p. 326]* ^pg343
@@ -482,7 +529,9 @@ divides and distributes the nations to their offspring (the בני אלהים , 
 “deities”) according to their number, with the nation of Israel assigned to YHWH, one of those offspring.[^72] This not only distinguishes YHWH from Elyon, but also describes the divine council as composed of the high deity’s offspring, which corresponds to the Ugaritic designations of the divine council as the *mpḫrt bn ’il*, “assembly of the children of El” (KTU 1.65.3), and *dr bn ’il*, “circle of the children of El” (KTU 1.40.25, 33–34). The table of nations in [[Torah 02 - Noach#^10-1|Genesis 10]] suggests there were understood to be seventy nations on earth, and this tradition appears in later literature in reference to seventy guardian angels over the nations of the earth (e.g., 1 Enoch 89:59; 90:22–25).[^73] If this tradition of seventy nations was in circulation at the time of the composition of [[Torah 53 - Ha'Azinu#^32-8|Deuteronomy 32:8–9]], the number of nations would correspond with the number of the divine offspring, which would correspond with the Ugaritic literature’s designation of the members of the divine council as the seventy offspring of Athirat, El’s 
 
 [^71]: As Robert P. Gordon notes, “Old Testament references to this Divine Council . . . are too widely distributed among the individual books and across the canonical divisions for them to be regarded as simple ‘vestigial’ and immaterial to the presentation of God in the Hebrew scriptures. The Pentateuch, Former and Latter Prophets, Psalms, Job and Daniel all draw directly on the concept of the DC in their portrayal of the God of Israel” (Robert P. Gordon, “Standing in the Council: When Prophets Encounter God,” in *The God of Israel*, ed. Robert P. Gordon \[Cambridge: Cambridge University Press, 2007\], 190).
+
 [^72]: The reading above comes from 4QDeut<sup>j</sup>. Jan Joosten reconstructs אל שר בני , “children of Bull El.” This would represent an even more direct borrowing from the traditions underlying the Ugaritic literature, as שר אל does not occur anywhere in the biblical literature, but occurs in the Ugaritic material as the cognate *ṯr ’il* (e.g., KTU 1.4.v:35–36; see Joosten, “A Note on the Text of Deuteronomy xxxii 8,” 551–52). While highly conjectural, the variant reading would easily account—through reduplication of the *yod* and respacing—for MT’s variant בני ישראל , “children of Israel.”
+
 [^73]: Using the number seventy was a conventionalized way to refer to a large number of something.
 
 *[p. 328]* ^pg345
@@ -494,8 +543,11 @@ Two major changes may be noted regarding the conceptualization of YHWH between t
 The other significant change in the conceptualization of YHWH’s divine council is the inclusion of human witnesses and participants. [^76] Human witnessing of divine council deliberations is known from texts from Mari, Deir ‘Alla, and Mesopotamia, although in the latter instances, the witnessing is usually secretive.[^77] Several factors likely contributed to the adoption of this theme in the biblical texts, including a need to stock the council after the participation of other deities became problematic, a need to provide a context for human reporting on divine council proceedings, and perhaps a desire to structure power in favor of non-royal prophets. A detailed example of a prophet witnessing the divine council comes from [[I Kings 22#^22-15|1 Kings 22:15–23]], in which the prophet Micaiah is goaded into contradicting the king’s court 
 
 [^74]: Cf. Smith, *The Origins of Biblical Monotheism*, 41–43, 55–56.
+
 [^75]: See McClellan, “The Gods-Complaint,” 846. Ellen White suggests [[Psalms 082#^82-1|Psalm 82]] narrates YHWH’s demotion not just of the other deities of the divine council, but also of its leader, the high deity El: “Thus while Yahweh is a character in this divine council type-scene he is not the head of it (El is) until possibly the end of the psalm when he takes over the position of the council” (White, *Yahweh’s Council*, 33).
+
 [^76]: See Lenzi, *Secrecy and the Gods*, 50–64, 221–72.
+
 [^77]: Martti Nissinen, “Prophets and the Divine Council,” in *Kein Land für sich allein: Studien zum Kulturkontact in Kanaan, Israel/Palästina und Ebirnâri für Manfred Weippert zum 65. Geburtstag*, ed. U. Hübner and E. A. Knauf (Fribourg: Universitätsverlag / Göttingen: Vandenhoeck & Ruprecht, 2002), 4–19; Gordon, “Standing in the Council,” 190–204; Alan Lenzi, “Revisting Biblical Prophecy, Revealed Knowledge Pertaining to Ritual, and Secrecy in Light of Ancient Mesopotamian Prophetic Texts,” in *Divination, Politics, and Ancient Near Eastern Empires*, ed. Alan Lenzi and Jonathan Stökl (Atlanta, GA: Society of Biblical Literature, 2014),
 
 *[p. 329]* ^pg346
@@ -545,6 +597,7 @@ This conceptual domain was not an assertion of philosophical monotheism (though 
 YHWH of Hosts, Deity of Israel, who sits enthroned among the cherubim: You alone are the deity for all the kingdoms of the earth. You made the heavens and the earth. 
 
 [^79]: Despite the argument in Clifford, “Deutero-Isaiah and Monotheism,” 267–89. Essentially, Clifford argues that Deutero-Isaiah is adopting conventional rhetoric of incomparability, but is using it to assert divine exclusivity, since the idol polemics elsewhere “encourages reading the exclusivity formulae with an absolute monotheism” (p. 276). His argument relies on Hans Rechenmacher, *“Ausser mir gibt es keinen Gott!”: Eine Sprach- und Literaturwissenschaft-liche Studie zur Ausschliesslichkeitsformel* (St. Ottilien: EOS Verlag, 1997), but does not adequately engage the discussion regarding negating particles in MacDonald, *Deuteronomy and the Meaning of Monotheism*, 82–85.
+
 [^80]: The most explicit example is “The Great Cairo Hymn of Praise to Amun-Re” (see above, p. 271).
 
 *[p. 331]* ^pg348
@@ -604,6 +657,7 @@ Immortality was generally assumed of deities, and was really only explicitly add
 forever . . .” These descriptions of the deity’s eternal existence were most rhetorically useful 
 
 [^83]: Cf. [[Torah 26 - Shmini#^11-44|Leviticus 11:44–45]]; [[Torah 30 - Kedoshim#^20-7|20:7]].
+
 [^84]: While I render “eternal” for עולם , the term’s sense does not match the contemporary notion of philosophical eternity. Rather, it referred to perpetuity or a duration with no perceptible end. This is also not to say deities could not die or be killed, whether with or without permanent effect. On this, see Smith, *The Origins of Biblical Monotheism*, 104–31; Machinist, “How Gods Die,” 189–240.
 
 *[p. 333]* ^pg350
@@ -635,7 +689,9 @@ The description in [[II Kings 18#^18-4|2 Kings 18:4]] of the later destruction o
 I suggest the entities that presenced that agency could be profiled along a spectrum from DEITY to DIVINE IMAGE, depending on how independently the hearer/reader understood the cultic object and the agency it presenced to be operating from the primary loci of the deity’s identity. The rhetorical compartmentalization of those loci from the vehicles of the deity’s agency subordinated and separated the latter, likely contributing to concern with worship directed at it. The more independent it was understood to be from the locus of divine identity, the more of a threat it may have been perceived to be. The next chapter will discuss some of the rhetorical methods authors and editors used to exploit that compartmentalization while 
 
 [^85]: Jan Christian Gertz, “Hezekiah, Moses, and the Nehushtan: A Case Study for a Correlation between the History of Religion in the Monarchic Period and the History of the Formation of the Hebrew Bible,” in *The Formation of the Pentateuch*, 745–60. On the relationship of the sounds used in the story to broader sociocultural notions of the “magic” of words, see Victor Avigdor Hurowitz, “Healing and Hissing Snakes – Listening to [[Torah 39 - Chukat#^21-4|Numbers 21:4–9]],” *Scriptura* 87 (2004): 278–87.
+
 [^86]: This is in reference to Jacobsen’s “is” and “is not” dichotomy (see Introduction).
+
 [^87]: [[II Kings 18#^18-4|2 Kings 18:4]] concludes, נחשתן ויקרא־לו , “And he called it Nehushtan.” Whether Moses or Hezekiah called it Nehushtan, or whether it is to be understood passively (“it was called Nehushtan”), as many contemporary translations render, is unclear.
 
 *[p. 335]* ^pg352
@@ -655,9 +711,13 @@ conceptualizations when those theological frameworks were not the active focus o
 As with the representation of other deities in the cognate literature, YHWH’s body was frequently portrayed as enormous in size and power. [^90] Mark Smith notes that Baal was described in Ugaritic literature as “large as his own mountain, Saphan.”[^91] This is reflected in descriptions of the enormous size of the deity’s temple/palace, but also their throne and footstool, which dwarf other deities, whose feet do not even reach the footstool. The ‘Ain Dara temple, in Syria, reflects this enormous size by depicting in stone a series of one-meter-long footprints, representing the deity’s stride toward the sanctuary.[^92] A pair of them appear at the portico, with a single footprint representing a left foot immediately before the antechamber, and a single right foot several meters ahead before the main hall. While [[Isaiah 06#^6-1|Isaiah 6:1]] describes the train of YHWH’s robe filling the whole Jerusalem temple (the enormous size of which is described in 1 Kgs 6), the rhetoric describing the exaggerated size of Baal’s throne is amplified several times over in [[Isaiah 66#^66-1|Isaiah 66:1]]’s post-exilic description of the heavens as YHWH’s throne 
 
 [^88]: See Justin L. Barrett and Frank C. Keil, “Conceptualizing a Nonnatural Entity: Anthropomorphism in God Concepts,” *CogPsych* 31 (1996): 219–47; Barrett, “Theological Correctness,” 325–39; Barrett, *Cognitive Science,* *Religion, and Theology*, 134–38.
+
 [^89]: A convenient modern example of this conflict is the Roman Catholic concept of the Trinity, which is authoritatively maintained in the interest of specific rhetorical needs, but is difficult to reduce to cognitively efficient frameworks.
+
 [^90]: See Wagner, *God’s Body*; Cornelius, “The Study of the Old Testament and the Material Imagery of the Ancient Near East,” 195–227; cf. Frances S. Reynolds, “Describing the Body of a God,” in *Mining the Archives:* *Festschrift for Christopher Walker on the Occasion of His 60th Birthday, 4 October 2002*, ed. Cornelia Wunsch (Dresden: Islet, 2002), 215–27.
+
 [^91]: Smith, *The Origins of Biblical Monotheism*, 84.
+
 [^92]: See Theodore J. Lewis, “Divine Images and Aniconism in Ancient Israel,” *JAOS* 118.1 (1998): 40.
 
 *[p. 337]* ^pg354
@@ -677,8 +737,11 @@ Chapter 4 argued that Israel’s first divine patron was the high deity El, but 
 *Conceptualizing the Patriarchal Deity*[^96] The portions of the biblical texts that most clearly preserve the profile of Israel’s earliest divine patron are those of the patriarchal tradition, and particularly those associated with the patriarch Jacob (who seems to have played a more central role than Abraham in the earliest literary strata).[^97] Jacob’s blessing of Joseph in [[Torah 12 - Vayechi#^49-24|Genesis 49:24–25]], for instance, is widely understood to represent some of the earliest poetry in the Hebrew Bible: 
 
 [^94]: E.g., Day, *Yahweh and the Gods and Goddesses of Canaan*, 13–17; Smith, *The Origins of Biblical Monotheism*, 139–44.
+
 [^95]: What little has been discussed has focused on the process of “fusion” in surrounding societies.
+
 [^96]: Many of the features of this divine profile, particularly as found in the Ugaritic literature, were discussed in Chapter 3 above in relation to the conceptualization of El (see above, pp. 218–20). See also Curtis, “Encounters with El,” in Watson, *“He unfurrowed his brow and laughed”*, 59–72.
+
 [^97]: This is not to say the patriarchal tradition predates the exodus tradition, only that Israel’s first divine patron, El, is most clearly and independently represented in the patriarchal tradition.
 
 *[p. 339]* ^pg356
@@ -705,8 +768,11 @@ While a product of literary elites from a larger and more hierarchical society, 
 sustain”), attested in other Semitic languages like Ethio-Semitic and Arabic.[^100] This would suggest a sense approximating “El the helper,” and would primarily reflect the deity’s beneficent assistance with reproductive processes, the very context for many of the occurrences of the title ([[Torah 03 - Lech Lecha#^17-16|Gen 17:16]]; [[Torah 06 - Toldot#^28-3|28:3]]; [[Torah 08 - Vayishlach#^35-11|35:11]]; [[Torah 12 - Vayechi#^48-4|48:4]]). Most of these occurrences are in P, but if the reconstruction of אל is correct, [[Torah 12 - Vayechi#^49-1|Genesis 49]] represents a much earlier witness. As Wilson-Wright suggests, “the name El Shadday is associated with an earlier El tradition in these texts.”[^101] The 
 
 [^98]: Here I reconstruct אל for MT’s את . The former is preserved in the Septuagint, the Peshitta, and the Samaritan Pentateuch, and it makes better sense of the phrase’s occurrence in parallel with מאל אביך . את does not parallel the preposition מין , and the conjunction suggests what follows is subordinated to מין in the first clause.
+
 [^99]: This is not to say the societies that produced this literature were not fundamentally agrarian. J. David Schloen states, “There was no significant urban-rural dichotomy, in my view, in this or any other aspect of Israelite society, which remained largely agrarian throughout the Iron Age” (J. David Schloen, *The House of the Father as Fact and Symbol: Patrimonialism in Ugarit and the Ancient Near East* \[Winona Lake, IN: Eisenbrauns, 2001\], 135).
+
 [^100]: Wilson-Wright, “The Helpful God,” 149–66.
+
 [^101]: Wilson-Wright, “The Helpful God,” 162–63. See also the comments of John Day: “the promises of progeny to the patriarchs bear comparison with the promise of progeny by the god El to Keret and Aqhat in the Ugaritic texts. Although no one can today maintain that the patriarchal narratives are historical accounts, there are grounds for believing that their depiction of an El religion does at least in part reflect something of premonarchical religion, however much it has been overlaid by later accretions” (Day, *Yahweh and the Gods and Goddesses of Canaan*, 16).
 
 *[p. 340]* ^pg357
@@ -726,11 +792,17 @@ with YHWH.[^107] Melchizedek’s dual responsibilities there as priest to עלי
 or “the most high deity,” and as king of Salem may connect the deity with seniority and kingship.[^108] This is clearly the case in the Ugaritic imagery, but kingship appears subordinate in the patriarchal tradition to smaller-scale communal hierarchies. In [[Torah 12 - Vayechi#^49-24|Genesis 49:24]] the patriarchal deity is described as Shepherd, Rock, and Bull, which are titles suggestive of the salience of the agrarian ideal to the deity’s constituency. There are different ways to account 
 
 [^102]: Cf. Schloen, *The House of the Father as Fact and Symbol*, 255–61; Smith, *Origins of Biblical Monotheism*, 52–61.
+
 [^103]: For instance, KTU 1.23, “The Birth of the Gracious Gods,” narrates El’s sexual exploits with two women he discovers while walking along the seashore. See “The Birth of the Gracious Gods,” trans. Dennis Pardee (*COS* 1.87).
+
 [^104]: KTU 1.4.i:22; iii:26, 30, 35; iv:32; 1.8.ii:2; 1.40:41–42.
+
 [^105]: On El as creator, see Pope, *El in the Ugaritic Texts*, 49–55; Miller, “El, The Creator of the Earth,” 43–46.
+
 [^106]: See above, pages 219–20, and note 175.
+
 [^107]: The occurrence of YHWH in verse 22 is most likely a late interpolation.
+
 [^108]: El’s seniority in the Ugaritic literature is discussed above on page 218–20, note 170.
 
 *[p. 341]* ^pg358
@@ -744,6 +816,7 @@ The patriarch mediates internal, domestic conflict and protects against external
 The profile of El in its earliest and independent Israelite iteration was likely little altered from 
 
 [^109]: Note [[Torah 03 - Lech Lecha#^14-1|Genesis 14]] first narrates Abraham’s routing of a coalition of kings who robbed Abraham of his family and property.
+
 [^110]: Smith, *The Origins of Biblical Monotheism*, 58.
 
 *[p. 342]* ^pg359
@@ -769,9 +842,13 @@ A similar text from Ugarit has the craftsman deity Kothar-wa-Hasis proclaim befo
 The juxtaposition of ferocity and fecundity in the divine profile of the storm-deity also made the association with the bull occasionally salient. The fertility aspects of the bull symbol were particularly dominant in northern Syria in the Early Iron Age.[^115] In the Ugaritic literature, El is the only one who carries the title “Bull,” but Baal is frequently associated with the animal 
 
 [^111]: See the section above on the \[DIVINE WAR\] conceptual domain (pp. 316–21).
+
 [^112]: Drought as a weapon in the hands of the storm-deity is represented in [[Torah 46 - Eikev#^11-17|Deuteronomy 11:17]]; [[I Kings 08#^8-35|1 Kings 8:35]]; [[I Kings 17#^17-1|17:1–18:2]]; [[Isaiah 05#^5-6|Isaiah 5:6]]; [[Jeremiah 03#^3-3|Jeremiah 3:3]]; [[Zechariah 14#^14-17|Zechariah 14:17–18]]; [[II Chronicles 06#^6-26|2 Chronicles 6:26]]; [[II Chronicles 07#^7-13|7:13]].
+
 [^113]: An alternative reading is “*since* the flood,” based on Gary Rendsburg’s argument for the Northern use of the inseparable prefix ל־ to mean “since” or “from” (Rendsburg, *Linguistic Evidence for the Northern Origin of Selected Psalms*, 36). In my opinion, “over the flood” resonates more clearly with the sea myth and the arrogation of kingship as a result of victory over the sea (cf. Cho, *Myth, History, and Metaphor in the Hebrew Bible*, 70–71, and n. 7, 100–01).
+
 [^114]: KTU 1.2.iv:10. Cf. Smith, *The Ugaritic Baal Cycle. Volume 1*, 322.
+
 [^115]: In the Sargonic period, the storm-deity’s attendant animal began to shift from the lion-dragon to the bull. See Keel and Uehlinger, *Gods, Goddesses, and Images of God*, 118–20; Tallay Ornan, “The Bull and Its Two Masters: Moon and Storm Deities in Relation to the Bull in Ancient Near Eastern Art,” *IEJ* 51.1 (2001): 1–26; Green, *The Storm-God in the Ancient Near East*, 206–08; Schwemer, “The Storm-Gods of the Ancient Near East. Part I,” 138; Schwemer, “The Storm-Gods of the Ancient Near East. Part II,” 33–36.
 
 *[p. 344]* ^pg361
@@ -793,7 +870,9 @@ They say about them,
 We may schematize YHWH as storm-deity in the following way: 
 
 [^116]: See Amihai Mazar, “The ‘Bull Site’—An Iron Age I Open Cult Place,” *BASOR* 24 (1982): 27–42.
+
 [^117]: See Chung, *The Sin of the Calf*, 121–25.
+
 [^118]: Van der Toorn, *Family Religion in Babylonia, Syria, and Israel*, 288–91; Smith, *The Memoirs of God*, 35; Sommer, *The Bodies of God and the World of Ancient Israel*, 53; cf. Stephen L. Cook, *The Social Roots of Biblical Yahwism* (Atlanta, GA: Society of Biblical Literature, 2004), 251–59.
 
 *[p. 345]* ^pg362
@@ -813,9 +892,13 @@ it does not deny the continued existence of Šamaš or the others any more than 
 The conflation of YHWH and El does not quite fit with this pattern of identification. It was not simply about associating one deity with another in order to attribute features—it was most likely undertaken in an effort to consolidate power—and nor was it temporary. A YHWH-Baal syncretism seems like a more intuitive match, as both shared the same role of storm-deity. Indeed, some have suggested, based on the polemics against the deity Baal and the use of the title בעל in reference to YHWH (e.g., [[Hosea 02#^2-16|Hos 2:16]]; [[I Chronicles 08#^8-33|1 Chr 8:33]], [[I Chronicles 08#^8-34|34]]), that the Omride dynasty may have attempted an equation of YHWH and Baal. In the fallout, however, the two deities appear to have become fierce competitors. [^123] Of course, the possibility exists that YHWH only 
 
 [^119]: *KAR* 25.ii:3–16.
+
 [^120]: Allen, *The Splintered Divine*, 52.
+
 [^121]: Allen, *The Splintered Divine*, 52.
+
 [^122]: Allen, *The Splintered Divine*, 53.
+
 [^123]: See, for instance, Albertz, “Social History of Ancient Israel,” 359–63; Chung, *The Sin of the Calf*, 121– 25; cf. Anderson, *Monotheism and Yahweh’s Appropriation of Baal*.
 
 *[p. 347]* ^pg364
@@ -831,6 +914,7 @@ Ultimately, however, any direct analogies or inspirations for the conflation are
 My framework for interrogating the roots of this conflation is conceptual blend theory, which was discussed in Chapter 1. Conceptual blending is understood as a basic cognitive 
 
 [^124]: The only texts that attribute storm-deity imagery to YHWH that could possibly predate this syncretism are the Bible’s earliest poetic texts, but even they were most likely committed to writing after the ninth century BCE. The association of storm-deity imagery with the memory of YHWH’s origins in the south would have to be accounted for within such a framework. Nissim Amzallag has argued for YHWH’s original nature as a deity of metallurgy. See Nissim Amzallag, “Yahweh, the Canaanite God of Metallurgy?” *JSOT* 33.4 (2009): 387–404. Cf. Nissim Amzallag, “The Material Nature of the Radiance of YHWH and its Theological Implications,” *SJOT* 29.1
+
 [^125]: Allen, *The Splintered Divine*, 216.
 
 *[p. 348]* ^pg365
@@ -844,6 +928,7 @@ refer to itself as an אמון , “craftsperson.” This suggests the craft dei
 but simply assimilated to the profile of a higher-tiered deity and/or compartmentalized as a separable vehicle for their agency. The final tier is constituted by servant deities, who were most frequently deployed to carry messages between deities. We may schematize the divine council of this pantheon as follows: 
 
 [^126]: Li et al., “Goal-Driven Conceptual Blending,” 1. See above, pages 41–43.
+
 [^127]: Cf. עדת־אל in [[Psalms 082#^82-1|Ps 82:1]] and *‘dt* ’*ilm* in KTU 1.15.ii.7. LXX [[LXX Psalms 81#^81-1|Ps 81:1]] renders συναγωγῇ θεῶν, “assembly of the gods,” which may indicate עדת־אלים in its *Vorlage*.
 
 *[p. 349]* ^pg366
@@ -861,7 +946,9 @@ nature of these elements, as well as their cultic and literary contexts, differe
 Several elements from the divine profiles were not carried through to the resulting blend space. The earliest concepts jettisoned from YHWH’s profile were subordinating roles, such as the “Second-Tier Deity” position held by the storm-god. Given the royal and patriarchal character of the high deity El, there was little conceptual space in the resulting composite divine profile for subordination; the driving concept was preeminence or supremacy. Other concepts seem to have grated against theological sensitivities that were gaining salience in certain circles. Primary among these were associations with procreation, a consort, and theriomorphic cult practices. The function of the Israelite divine consort Asherah, for instance, appears to have been assimilated to YHWH’s profile by cultic authorities seeking to limit the deities to whom worshippers could offer devotion.[^128] Without a consort, narratives of theogony and procreation also fell by the wayside, although the framework of divine parentage was too central to the divine profile of the high deity to be entirely abandoned, so it is preserved in many places ([[Torah 53 - Ha'Azinu#^32-15|Deut 32:15]]; [[Proverbs 08#^8-22|Prov 8:22–30]]; [[Psalms 002#^2-7|Ps 2:7]]).[^129] The bull imagery associated with both input spaces was most saliently associated with the iconic representation of YHWH and would ultimately be marginalized and polemicized ([[Torah 21 - Ki Tisa#^32-4|Exod 32:4–20]]; [[I Kings 12#^12-28|1 Kgs 12:28–30]]).[^130] Some of these features were not entirely abandoned, but repurposed. The frozen epithet “Bull of Jacob,” for instance, 
 
 [^128]: Note the oath by Menahem in the name of the goddess Anat-YHW at Elephantine (cf. M. E. Mondriaan, “Anat-Yahi and the Jews at Elephantine,” *JFS* 22.2 \[2013\]: 537–52). Van der Toorn asserts, “The concept of Anat-Yahu is an illustration of the cultural symbiosis which has marked the Israelites and the Aramaeans living in Egypt. The goddess must be regarded as an Aramaean creation” (Karel van der Toorn, “Anat-Yahu, Some Other Deities, and the Jews of Elephantine,” *Numen* 39.1 \[1992\]: 97). For an approach to the materiality of potential worship of Anat-YHW at Elephantine, see Collin Cornell, “The Forgotten Female Figurines of Elephantine,” *JANER* 18.1 (2018): 111–32.
+
 [^129]: Cf. David R. Tasker, *Ancient Near Eastern Literature and the Hebrew Scriptures About the Fatherhood of God* (New York: Peter Lang, 2004).
+
 [^130]: Miller, *Israelite Religion*, 31–38.
 
 *[p. 351]* ^pg368
@@ -871,9 +958,13 @@ remained in use in poetic texts, appearing to generically invoke the notion of p
 Other points of contact would prove to be quite essential, and particularly the central and driving concept of God as king,[^132] which was shared throughout ancient Southwest Asia.[^133] That metaphor imports a broad conceptual matrix that not only contributes to the production of more extended metaphors, but also serves to conceptually link many of the independent concepts brought together for the first time in the blend space. The notion of kingship provided a conceptual vehicle for YHWH’s status as high god, ancestral deity, and as covenant-maker, among others.[^134] The utility of the kingship metaphor in the blending of our two profiles was complemented by the combination of two quite distinct views of YHWH as king, which provided a richer palette for literary expression. According to the broader El profile, the deity’s kingship is a function of their patriarchy and consequent authority over the gods. This would become emphasized in YHWH’s sovereignty over the divine council/family ([[Torah 45 - Vaetchanan#^4-19|Deut 4:19]]; [[Psalms 089#^89-7|Ps 89:7–8]]; [[Job 01#^1-6|Job 1:6]]; [[Job 02#^2-1|2:1]]).[^135] By contrast, the storm-deity arrogated kingship through victory in battle with the sea. This promoted their role in the Northwest Semitic ideology of divine 
 
 [^131]: Byrne, *The Names of God*, 39–41.
+
 [^132]: This concept has been called a “root metaphor” in light of its foundational and generative nature (Tryggve N. D. Mettinger, *In Search of God: The Meaning and Message of the Everlasting Names*, trans. Frederick H. Cryer \[Philadelphia: Fortress Press, 1988\], 92; cf. Brettler, *God is King*, 17–28; Aaron, *Biblical Ambiquities*, 33– 40, 146–48). We find the term “king” used in reference to Israel’s deity forty-three times. The word “kingdom” is associated with YHWH ten times, and “throne” eleven times. The verb “to be king” ( מלך ) occurs thirteen times, with eight occurrences of משלׁ , “to rule, govern.” For scriptural references, see Mettinger, *In Search of God*, 116– 17.
+
 [^133]: Bernard Levinson, “The Reconceptualization of Kingship in Deuteronomy and the Deuteronomistic History’s Transformation of Torah,” *VT* 51.4 (2001): 512–18.
+
 [^134]: “It comprises the genetic code for a broad complex of ideas” (Mettinger, *In Search of God*, 92). The metaphoric nature of God’s kingship is addressed most thoroughly in Brettler, *God is King*, but cf. David H. Aaron, *Biblical Ambiguities: Metaphor, Semantics and Divine Imagery* (Leiden: Brill, 2001), 33–40, who correctly argues that the deity as king is ascriptive rather than wholly metaphorical.
+
 [^135]: Rainer Albertz, *A History of Israelite Religion in the Old Testament Period. Volume I: From the Beginnings to the End of the Monarchy*, trans. John Bowden. 2 vols. (Louisville, KY: Westminster/John Knox, 1994), 1.133: “First there was the more static notion of the kingship of El, the supreme god in the Ugartitic pantheon: he was called ‘king of eternity’ (*mlk ’lm*) and ‘Lord of the great gods’ (*’adn ’ilm rbm*), and as such was head of the divine assembly (*pḥr ’ilm*).” For further analysis of the Northwest Semitic notion of the divine council/family, see Schloen, *The House of the Father as Fact and Symbol*, 349–57.
 
 *[p. 352]* ^pg369
@@ -889,8 +980,11 @@ frequent intersection of YHWH’s hosts, the Jerusalem temple, and royal imagery
 Another responsibility of the ideal Northwest Semitic monarchy was the administration of justice, or judgment. In addition to secular responsibilities with the law, the generic notion of providing for the poor, the widowed, and the orphan was often assigned to the king.[^139] This ideal was a conceptual extrapolation from the ideology of kingship, and more specifically the 
 
 [^136]: See Kang, *Divine War in the Old Testament*. An extension of this worldview is the idea that dispossession of foreign land is the work of the conquering nation’s deity. The clearest indication of this is [[Judges 11#^11-24|Judg 11:24]]: “Should you not possess what your god Chemosh gives you to possess? And should we not be the ones to possess everything that YHWH our God has conquered for our benefit” This possession is also conceptualized as an “inheritance” in [[Torah 45 - Vaetchanan#^4-21|Deut 4:21]]; [[Torah 47 - Re'eh#^15-4|15:4]]; [[Torah 50 - Ki Tavo#^26-1|26:1]] (cf. Forshey, “The Construct Chain *naḥ*<sup>a</sup>*lat YHWH*/*ʾ*<sup>e</sup>*lōhîm*,” 51–53).
+
 [^137]: Indeed, the antagonism that resulted from the juxtaposition of Judahite and Babylonian theology spurred the most explicit rhetorical rejections of the efficacy of non-Israelite deities ([[Isaiah 43#^43-10|Isa 43:10–12]]; [[Isaiah 44#^44-6|44:6–8]]; [[Isaiah 45#^45-5|45:5]]; [[Hosea 13#^13-4|Hos 13:4]]; cf. [[Isaiah 47#^47-10|Isa 47:10]]; [[Zephaniah 2#^2-15|Zeph 2:15]]). See Smith, “The Polemic of Biblical Monotheism,” 201–34.
+
 [^138]: Mettinger, *In Search of God*, 123–42.
+
 [^139]: See Silver, “Prophets and Markets Revisited,” 182–83.
 
 *[p. 353]* ^pg370
@@ -900,7 +994,9 @@ mediatory space the king occupied between the deity and the masses. The epilogue
 Although the primary goal of those who compelled the conflation of YHWH and El was likely the consolidation of political and cultic allegiances, the blending of the patriarchal and storm-deity profiles forever changed the shape of Israelite and Judahite ideology. The main areas of conceptual overlap between the input spaces facilitated the identification of the two deities and, with the exception of the bull imagery, became central to the conceptual framework of the blend. The conceptual foundation upon which the subsequent divine profile appears to have been built was kingship, which lends support to understanding the conflation of the two deities to date near to the establishment of an Israelite/Judahite state. That foundation 
 
 [^140]: “The Laws of Hammurabi,” translated by M. Roth (*COS* 2.131: 336, 351).
+
 [^141]: De Roche, “Yahweh’s *rîb* Against Israel,” 563–74; D. R. Daniels, “Is There a ‘Prophetic Lawsuit’ Genre?” *ZAW* 99.3 (1987): 339–60;
+
 [^142]: There we find the cognate accusative “And dispute my dispute” ( את־ריבי וירב ).
 
 *[p. 354]* ^pg371

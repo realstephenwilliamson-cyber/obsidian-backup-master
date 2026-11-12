@@ -95,69 +95,131 @@ chapter: 7
 **20.** [The following laws apply when a person] partakes of entities consecrated to the second tithe as ordinary produce [outside of Jerusalem], even intentionally. If he partook of the produce from the second tithe itself, he should cry out to heaven.[^62] If he [used] money from the second tithe [to purchase other food that] he ate, the money should be returned to its [owner][^63] and he should bring them to Jerusalem and partake of them there. Alternatively, if the money cannot be returned, he should [purchase food] with the amount of money he spent and eat it in Jerusalem. ^7-20
 
 [^1]: The rationale is that since the produce was redeemed once, it should not be redeemed a second time.
+
 [^2]: Our translation follows authoritative manuscripts and early printings. The standard printed text of the *Mishneh Torah* adds the phrase "because of Rabbinic decree."
+
 [^3]: The rules governing this produce have a double dimension of severity. Since according to Scriptural Law, this produce is ritually pure, our Sages were stringent and required it to be brought to Jerusalem and eaten there. Nevertheless, to support their decree of ritual impurity, they also required that it be redeemed (*Kessef Mishneh*).
+
 [^4]: I.e., and not animal fodder.
+
 [^5]: I.e., these types of livestock do not grow from the earth, but they derive their nature by pasturing on the earth's products.
+
 [^6]: Moreover, even if water and salt are mixed together with produce, that produce should not be purchased with money from the second tithes (Radbaz). See Halachah 14 with regard to such purchases.
+
 [^7]: Truffles and mushrooms do not have roots and do not derive nurture from the earth.
+
 [^8]: I.e., it will spoil in the course of the journey.
+
 [^9]: Which are detached entities that can make the journey to Jerusalem without being spoiled.
+
 [^10]: Eggs and milk are animal products and the animals receive their nurture from the earth and honey is actually the sap of flowers.
+
 [^11]: In his Commentary to the Mishnah (*Ma'aser Sheni* 1:3), the Rambam explains that *timed* is made by mixing grape dregs with water and leaving it to turn into vinegar.
+
 [^12]: For the water originally included in it is not considered significant.
+
 [^13]: The Radbaz explains that when the transaction was first made, it was invalid. Hence, the money remained holy. Afterwards, when the mixture turns into vinegar, the transaction is completed and the holiness of the money is transferred. Rashi (*Chulin* [[Chullin 25#25b|25b]]) offers a different explanation.
+
 [^14]: I.e., the restriction against purchasing a mixture of grape dregs and water with money from the second tithe.
+
 [^15]: And thus the water drew out a significant amount of grape juice from the dregs.
+
 [^16]: In his Commentary to the Mishnah (*Shvi'it* 7:5; *Uktzin* 3:4), the Rambam explains that branches of shrubs that grow in vineyards are pickled in brine while they are still soft and then eaten. They are, nevertheless, not eaten by all people and the money from the second tithe may only be used to purchase food.
+
 [^17]: This refers to branches of the carob tree, because the carobs themselves are considered as food, as stated in Chapter 1, Halachah 3.
+
 [^18]: Because in this state, they are not fit to be eaten.  
     The commentaries have noted that the Rambam's ruling in *Hilchot Shabbat* 18:6 implies the direct opposite: that before they become sweet, they are considered as food for humans and after they become sweet, they are considered as food for animals. This issue is discussed by the later commentaries.
+
 [^19]: A sub-species of the onion family.
+
 [^20]: Since these species are more commonly eaten, they are considered as food even though they are not yet fit to be to eaten.
+
 [^21]: In his Commentary to the Mishnah (*Uktzin* 3:4), the Rambam defines this term as referring to the tip of the date palm which is like dried cheese and is eaten by people.
+
 [^22]: In his Commentary to the Mishnah (*ibid.*:5), the Rambam gives cinnamon, nutmeg, spikenard, and other similar species as examples.
+
 [^23]: A sharp and pungent herb.
+
 [^24]: This refers to a mixture of milk and bread crumbs referred to in the Talmud as *kutach*.
+
 [^25]: See *Hilchot Tuma'at Ochalin* 1:7 which makes similar statements with regard to anise.
+
 [^26]: For in truth, only the oil can be purchased with the money of the second tithe. Nevertheless, the water and the salt are considered as subordinate to the oil and hence, can be included in its price.
+
 [^27]: The Rambam uses a plural term for *terumah*, for he includes both the great *terumah* and *terumat ma'aser* in this prohibition.
+
 [^28]: See *Hilchot Terumah* 7:2. Needless to say, it may also be eaten by priests who were ritually impure and who did not need to immerse themselves, but the Rambam is mentioning the aspect of the laws in which it differs from the second tithe, as he proceeds to state.
+
 [^29]: As indicated by the following clause, the second tithe differs from *terumah* in all these matters.
+
 [^30]: The second tithe must also be eaten in a state of ritual purity. Nevertheless, in contrast to *terumah,* it may be eaten directly after one immerses oneself in a *mikveh*. He need not wait until the evening.
+
 [^31]: And it is forbidden to restriction the consumption of sacred foods. See *Hilchot Pesulei HaMukdashin* 6:12 and *Hilchot Ma'aseh HaKorbanot* 10:10.
+
 [^32]: In Jerusalem. See Halachah 16 and Chapter 4, Halachah 6.
+
 [^33]: See the Commentary of Rav Ovadiah of Bartenura to *Ma'aser Sheni* 1:2 which states that the fundamental mitzvah is to use the money from the second tithe to purchase peace offerings.
+
 [^34]: For by offering them on the altar, they would have to give certain portions of the meat to the priests.
+
 [^35]: E.g., deer. Our Sages did not include the purchase of these animals in their decree.
+
 [^36]: See *Hilchot Shemitah VeYoval* 7:1 which explains that after the Sabbatical year, the produce that remains must be destroyed. Thus by purchasing this produce with funds from the second tithe, one would be reducing its use.
+
 [^37]: All of these should not be purchased with money from the second tithe as stated in Halachah 4.
+
 [^38]: The holiness of the money of the second tithe is not transferred to them.
+
 [^39]: The Ra'avad challenges the Rambam's ruling, maintaining that the holiness of the second tithe remains associated with the money and the seller must return it to the purchaser. The Radbaz explains that the Rambam derives his ruling from the wording of the Mishnah (*Ma'aser Sheni* 1:5). There the Mishnah has two clauses: one quoted in this halachah which states that that the items are not acquired and one quoted in the following halachah which states that the money should be returned. The variance in wording indicates that there is a difference in law. The Radbaz states, however, that the Rambam would agree that the holiness of the funds of the second tithe is not nullified entirely. Instead, the purchaser must eat an equivalent amount of food in Jerusalem keeping all the restrictions applying to the produce of the second tithe. See Halachah 17.
+
 [^40]: I.e., he purchased produce with money from the second tithe without knowing that he used such funds.
+
 [^41]: The produce purchased does not receive the holiness of the second tithe, but instead, must be returned to the seller [the Rambam's Commentary to the Mishnah (*Ma'aser Sheni* 1:5)].
+
 [^42]: Rav Ovadiah of Bartenura explains that since he made the purchase inadvertently, it is as if the transaction was conducted in error and hence it is nullified.
+
 [^43]: I.e., knowing that he was using money from the second tithe.
+
 [^44]: The transaction is binding and the purchaser is compelled to treat the produce he purchased as produce of the second tithe.
+
 [^45]: See Chapter 2, Halachah 1.
+
 [^46]: Since the transaction is binding, the produce receives that holiness and hence, may not be used for any other purpose.
+
 [^47]: We are speaking about a kosher animal that does not have a blemish and hence is fit to be offered as a sacrifice.
+
 [^48]: When it dies. It is not killed before its time. Burying it prevents one from benefiting from it [the Rambam's Commentary to the Mishnah (*Ma'aser Sheni* 1:6)]. See also Chapter 8, Halachah 6; *Hilchot Pesulei HaMukdashim* 19:11.
+
 [^49]: The equation between transgressing intentionally and unintentionally represents a change of approach on the part of the Rambam. In his Commentary to the Mishnah (*Ma'aser Sheni* 1:7), the Rambam states that if the transgression was intentional, in all instances, the purchaser should use an equivalent amount of money to buy food in Jerusalem. The sale is nullified only when the sale is made unintentionally. The Rambam's ruling here is based on *Kiddushin* [[Kiddushin 56#56b|56b]].
+
 [^50]: So that the money could not be returned and the sale nullified.
+
 [^51]: And the sale nullified.
+
 [^52]: This is forbidden, because the animal - partially or entirely - is offered on the altar and/or eaten by the priests. Thus the money from the second tithe is not being used for its designated purpose.
+
 [^53]: For once the offerings were brought, the transaction cannot be nullified.
+
 [^54]: This is unacceptable, because peace offerings may be brought only from domesticated animals.
+
 [^55]: This is also unacceptable, because as stated in Halachah 12, our Sages forbade using money from the second tithe for such a purpose [the Rambam's Commentary to the Mishnah (*Ma'aser Sheni* 1:4)].
+
 [^56]: Instead, the sale is nullified. If the animal was already slaughtered, the hide is considered as consecrated with the holiness of the second tithe and the proceeds from its sale must be used as the money of the second tithe.
+
 [^57]: As is required when an animal designated as a peace offering becomes blemished in a manner that prevents it from being sacrificed.
+
 [^58]: If, however, one redeems a sacrifice for someone else, a fifth need not be added, as stated in *Hilchot Arachin* 7:4.
+
 [^59]: The Ra'avad objects to the Rambam's wording, for he considers it obvious that a fifth must be added. The Radbaz explains that one might think a fifth is unnecessary based on the following reasoning: Since the animal is a peace offering, from the standpoint of the second tithe, it does not belong to him, because it is not his private property, but instead is consecrated. From the standpoint of the peace offering, it can be said that it does not belong to him, because it is the second tithe which is "the property of the Most High."  
     Alternatively, the explanation of the Rambam's wording depends on a concept explained in *Hilchot Arachin, loc. cit.*: "[One is] obligated to add a fifth [when redeeming the article that was] consecrated originally, but one [need] not add a fifth [when redeeming an article] whose consecration was a derivative." A derivative means that it was consecrated in the process of redeeming another article (see *ibid.*:5).  
     To apply those concepts to the question at hand: Since the consecration of the animal as a peace offering comes as part of the redemption of the money from the second tithe, one might think that there is no need to add a fifth. For that reason, the Rambam [based on the Jerusalem Talmud (*Ma'aser Sheni* 3:2)] emphasizes that in this instance, the additional fifth is necessary, because since the holiness of the second tithe was removed from it, it is as if it was consecrated initially and it is not considered as a derivative (*Rambam LeAm*)
+
 [^60]: As mentioned in Halachah 12, one can - and according to many opinions, it is desirable - to purchase an animal to be sacrificed as a peace offering with money from the second tithe. Here, however, we are speaking about a situation where the person designates the money to be used for that purpose, but does not make the purpose as of yet. The Rambam is clarifying that the designation is not effective and the money may be used to purchase any other types of food.
+
 [^61]: Chapter 3, Halachah 17. I.e., when a person consecrates his own money for a peace offering, the consecration is effective, because the money belongs to him and he has the authority to consecrate it. Money from the second tithe, by contrast, does not belong to him. Hence, it cannot be consecrated as a peace offering.
+
 [^62]: I.e., he should cry out to G‑d in repentance. He, however, has no other way of atoning for his conduct, because he has eaten the produce upon which the holiness of the second tithe rested.  
     Our text follows manuscript versions of the *Mishneh Torah* and the versions suggested by the Ra'avad, the Radbaz, and the *Kessef Mishneh*. The standard printed text follows a different version.
+
 [^63]: Since the money exists, the holiness from the second tithe has not departed from it. Hence, if it is returned to the owner or its holiness transferred by the owner purchasing other food with its value, the owner fulfills his obligation.

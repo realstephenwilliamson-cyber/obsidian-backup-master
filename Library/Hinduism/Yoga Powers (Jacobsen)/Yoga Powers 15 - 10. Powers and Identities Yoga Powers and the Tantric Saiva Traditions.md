@@ -27,7 +27,9 @@ The Tantric Powers of Śaivism (*Siddhaya*̣*h*)[^1] The early literature of Tan
 Early Śaiva scriptures commonly arrange large catalogues of concepts into hierarchical taxonomies that incidentally reveal the value judgments informing the proposed gradations. Many of the Śaiva powers can be traced back to the earliest surviving stratum of tantric Śaivism, the archaic *Niśvāsa*-corpus, originating ca. 450–550 ce.[^3] Order is imposed already in the earliest surviving phase of Śaiva scriptures by classifications that subsume this diversity. A common early 
 
 [^1]: I thank Bergljot Chiarucci and Michael Slouber for comments on an earlier draft.
+
 [^2]: This intends, of course, that they are not common for ordinary humans, but ordinary for accomplished yogins.
+
 [^3]: This range of dating was first proposed by Goodall and Isaacson in “Workshop on the *Niśvāsatattvasaṃhitā*: The Earliest Surviving Śaiva Tantra?”, *Newsletter of the NGMCP* 3 (2007): 6.
 
 *[p. 266]* ^pg279
@@ -85,9 +87,13 @@ The picture is complicated even further by the fact that some of the *siddhi*s a
 Once such classifications are established, they find application in the regulation of a wide variety of practices. Let us consider, as an 
 
 [^21]: *Kāmikatantra* 37.3cd–4ab: *kanyasaṃ bhūpatīśatvaṃ madhyamaṃ balasiddha* *yaḥ* || *uttamaṃ khecaratvaṃ ca śreṣṭhaṃ devasamānatā* | etc.
+
 [^22]: *Kāmikatantra* 37.1cd–2: *kāmyāni siddhayo jñeyāḥ siddhayo bahudhā smṛtāḥ* || *kanyasaṃ madhyamaṃ jyeṣṭhaṃ śreṣṭhaṃ* (*śreṣṭhaṃ*\] em., ommitted ed) *ceti caturvidham* | *pratyekaṃ trividhaṃ proktam uttamādivibhedataḥ*.
+
 [^23]: *Brahmayāmala* 15.13–14 *Mahāvetālasādhanā*: *adhunā sampravakṣyāmi mahāvetālasādhanaṃ | yena tv aṣṭavidhā siddhiḥ sādhakasya prajāyate || khaḍgaṃ rocanapātālaṃ vidyādharapadaṃ tathā | pādukāv añjanañ caivottiṣṭhāntardhāna* *kaṃ tathā* (em. *caiva uttiṣṭhā* cod.) ||.
+
 [^24]: See Ronald Davidson, *Indian Esoteric Buddhism: A Social History of the Tantric Movement* (New York: Columbia University Press, 2002).
+
 [^25]: For this distinction see the common formula given in *Svacchandatantra* 10.108c: *rasaṃ rasāyanaṃ divyaṃ.* Kṣemarāja explains that *rasa* here means the manufacture of gold *(rasaṃ hemasādhanam),* and *rasāyana* is a means to preserve the body *(rasāyanaṃ śarīrasthairyahetuḥ).* Cf. also *Tantrasadbhāva* 20.318c.
 
 *[p. 270]* ^pg283
@@ -115,7 +121,9 @@ The Middle Powers *(Madhyamasiddhayaḥ)* Among these three grades, the middle p
 and if higher powers (*divyasiddhi*) are sought the pantheon consists of the *Gaṇas*, and if a middling power is sought, the *Lokapālas*, and if a minor power is sought, the pantheon is formed solely by the circuit of the *Āyudhas*, or weapon-deities, of the *Lokapālas*.
 
 [^32]: See Dominic Goodall in Hélène, Brunner Gerhard Oberhammer, and André Padoux, *Tāntrikābhidhānakośa: II* (Wien: Verlag der österreichischen Akademie der Wissenschaften, 2004), 88–89, and Dominic Goodall, *Bhaṭṭ a Rāmakaṇṭ ha’s Commentary on the “Kiraṇatantra”* (Vol. I. Pondichéry: Institut français de Pondichéry, 1998), 192.
+
 [^33]: “From kāmas to siddhis—Tendencies in the Development of Ritual towards Tantrism” in *Genesis and Development of Tantrism,* ed. Shingo Einoo (Tokyo: Institute of Oriental Culture, University of Tokyo, 2009).
+
 [^34]: See Judit Törzsök, “Tantric goddesses and their supernatural powers in the Trika of Kashmir, (Bhedatraya in the Siddhayogeśvarīmata)” in *Rivista degli Studi Orientali,* Rome, 2000, 138–142.
 
 *[p. 272]* ^pg285
@@ -125,7 +133,9 @@ and if higher powers (*divyasiddhi*) are sought the pantheon consists of the *Ga
 \[1.\] Among the crudest expressions of the supernatural quest for personal enrichment are *rasasiddhi* and *khanyasiddhi*. *Rasasiddhi* in this context is a middle power substance that translates as ‘the perfection of *rasa’*. There are several usages of the lexeme *rasa* (often synonymous with *amṛta*) in tantric works that need to be disambiguated here. Most importantly, we are not concerned, in this context, with the occult science of elixirs (also: *rasāyanasiddhi*), or with the esoteric five nectars or five jewels that are impure body-products used as magical power-substances in non-dualistic practice.[^35] Rather, the *rasa* intended is perfected mercury, and the power-seeker who has mastered it becomes a *rasasiddha* alchemist capable of transmuting base elements into gold. While the mundane incentive is primarily one of personal enrichment, a historical chronicle, the *Rājataraṅgiṇī* of Jonarāja,[^36] shows that the profession of this *siddhi* was also a means to gain access to the medieval royal court in Kashmir (even after the advent of Islamic rule).[^37] Such claims came with their own dangers. Jonarāja recounts how the fraudulent alchemist called Mahādeva lost his life once *Sulṭā n* Sikandar Šāh Butšikān (reg. 1389–1413) had seen through his deceit. Jonarāja does not question the validity of the *siddhi* of *rasa* itself. He takes issue with Mahādeva’s boast that he produced this *rasa* himself, whereas he had actually been given it by another, genuinely *rasasiddha* alchemist. Wealth is also the goal of *khanyasiddhi*, mastery of the occult art of recovering concealed treasure
 
 [^35]: For an identification of these five see Sanderson, “Religion and the State: Śaiva Officiants in the Territory of the King’s Brahmanical Chaplain (with an appendix on the provenance and date of the *Netratantra*),” *Indo-Iranian Journal* 47 (2004), 110– 114, footnote 63.
+
 [^36]: That the *Rājataraṅgiṇīs* contain genuine ‘history’ is demonstrated in Walter Slaje, *Medieval Kashmir and Science of History* (Austin: South Asia Inst., Univ. of Texas, 2004).
+
 [^37]: *Rājataraṅgiṇī* of Jonarāja 580–84 in Jonarāja and Srikanth Kaul, *Rājataraṅgiṇī* (Hośiārapuram: Viśveśvarānanda-Sansthānam, vi. 2024, 1967).
 
 *[p. 273]* ^pg286
@@ -149,6 +159,7 @@ omens, discern astrologically favorable occasions, and learn the classification 
 This occult science appears to have relied, at least in part, on more realistic methods of finding treasure, for chapter 2 contains a long investigative catalogue of telltale signs that reveal the presence or absence of treasure. These include natural and artificial features such as unusual or deformed trees, vines, shrubs, curious growths (*praroha*) on trees etc., strangely behaving cattle, bulls, lizards, dogs, donkeys, hogs, boars, jackals, birds such as falcons, crows, and herons, insects, sightings of spectral beings, unusual or unseasonal fruits and flowers, places with echoes, flames or lights (*jvālā*), certain rock paintings, 
 
 [^42]: In a preliminary attempt to make sense of this, I am reading this as a synonym for *paṭa*, rather than just “turban, flag, banner”, and interpreting it as “iconic representation”. The image that appears might be comparable to the *Kṣauma-prasenā* or *Khoma-pasiṇā iṃ* discussed in Diwakar is seen in it as an apparition as a variety of *Kṣauma-Prasenā.* On the *Khoma-Pasiṇā iṃ* see Diwakar Acharya*, “The Original Paṇhavāyaraṇa/Praśnavyākaraṇa Discovered*,*” International Journal of Jaina Studies* *(Online)* 3, no. 6 (2007), 1-10. For other prognostications based on the size and shape of turbans, see *Bṛhatsaṃhitā 48 paṭṭalakṣaṇādhyāyaḥ.*
+
 [^43]: That magical eye-salves were a topic taught in *Khanyavāda* is borne out by their use as an example in the *Nareśvaraparīkṣāprakāśa* 1.111–112: *sākṣāc ca sevanīyo hi yogas tenādarāt tataḥ | khanyavādādisiddhena saṃskṛtākṣas+ añjanādinā* *|| yathā paśyati sūkṣmādy apītareṣām atīndriyam | saṃskṛtātmā tu yogena tathā yogī prapaśyati || māheśvareṇa vastūni sarvāṇi parameṇa tu | The commentary explains:* *yathā siddhāñjanādinā saṃskṛtanetraḥ puruṣaḥ puruṣamātrāgocarāṇy atyantavya* *vahitāni nidhānādīnīti* “… just as a man whose eyes have been consecrated with empowered eye-salves can see thoroughly hidden treasures beyond the perception of mortals …”.
 
 *[p. 275]* ^pg288
@@ -160,7 +171,9 @@ A great treasure worth ten million is buried beneath a defaced icon with a seven
 This *siddhi* again needs to be disambiguated from *bilasiddhi* (*pātālasiddhi*, *bilapraveśa*, *bilasādhana* and the related *bilavāda*) or the science of using mantras to unlock portals or ‘rifts’ leading to the subterranean realms.[^46] In this occult enterprise, the goal sought was not monetary enrichment but rather a pleasant sojourn, often involving sexual gratification, in an underground paradise inhabited by supernaturally beautiful Nāginīs, Asurīs or female Daityas, as it was 
 
 [^44]: *Nidhipradīpa* 2.88: *vikṛtapratimā yatra saptāśra{ṃ}padmapāṇikā | tasyāḥ pādatale vidyāt koṭisaṅkhyadhanaṃ bṛhat ||*
+
 [^45]: There appears to be also a long history of religiously motivated vandalism that has not yet been explored, for an early example see Csaba Dezső, Somadeva Vasudeva, Śyāmilaka, Vararuci, Śū draka, and Īś varadatta, *The Quartet of Causeries* (New York, NY: New York University Press, 2009), xxiii. Another rather striking example can be found in the Badâun Stone Inscription of Lakhaṇapāla (defeated by Qutub-ud-din in 1202 ce), *Epigraphia Indica: Vol. 1* (New Delhi: Govt. of India Press, 1971), 61–66. It reveals the way in which some charismatic Saiddhāntika Śaivācāryas wished to present themselves and their lineage of teachers. We learn that a certain Varmaśiva of Aṇahilapāṭaka, in his youth, is said to have seen a Bauddha image in the South and angrily somehow managed to steal it.
+
 [^46]: On *bilasiddhi* see Sanderson, “The Śaiva Exegesis of Kashmir,” in *Mélanges Tantriques à la mémoire d’Hélène Brunner/Tantric Studies in Memory of Hélène Brunner,* eds. Dominic Goodall and André Padoux (Pondicherry: Institut Français de Pondichéry, 2007) pp. 49-50, footnote 15, referring to *Tantrāloka* 8.101, and especially Sanderson 2005, pp. 280-282: “The aim is to use one’s Mantra-ritual to destroy the magical seals that bar these entrances; see, e.g. *Niśvāsaguhya,* f. 82v4 (10.125ab*):* *bilapraveśe japatau sarvayantrān pranāś ayet*.” Compare here also the account of Einoo, *“*From *kāmas* to *siddhis,”* on *Amoghapāśa* 21b.5–23a.2 where a related practice of opening a portal to enchanted forests *(vanavidhisādhana)* leading to the world of the *Nāgas* is discussed*.*
 
 *[p. 276]* ^pg289
@@ -170,8 +183,11 @@ proclaimed by the hero Naravāhanadatta in the *Bṛhatkathāśloka* *saṃgraha
 Gathering unbroken confidence from dreams and supernatural marks, he proceeded to the cave of \[the demon\] *Namuci* after passing through the water of the *Candrabhāgā*. While the cave was open during twenty-one days, he led the citizens into it and thus made them first partake in the love of the *Daitya*-women.[^49] For some kings, the mastery of *bilasiddhi* and similar fantastic *siddhi*s became central to the projection of their *sāhasika* courage, their dashing charisma and royal power. Thus the Caulukya king Jayasiṃha (1093–1143 ce)[^50] even bore the sobriquet ‘The Siddharāja’, a title he 
 
 [^47]: *Bṛhatkathāślokasaṃgraha* 16.33, translated by Mallinson in Budhasvāmin and James Mallinson, *The Emperor of the Sorcerers Vols I–II* (New York: New York University Press, 2005).
+
 [^48]: Concerning the rather exalted clientele for such rites see especially Törzsök, “Helping the King, Ministers and Businessmen?—Apropos of a Chapter of the Tantra of Magic Femal Spirits *(Siddhayogeśvarīmata),*” *Cracow Indological Studies* 8 (2006).
+
 [^49]: *Rājataraṅgiṇī* 3.468–469, as translated by Stein in Kalhaṇa, and Stein, *Kalhaṇa’s Rājataraṅgiṇī , A Chronicle of the Kings of Kashmir, Translated, with an Introduction, Commentary, & Appendices* (Westminster: A. Constable & Co, 1900), p. 114.
+
 [^50]: See Haribhadra, and Hermann Jacobi*, Sanatkumāracaritam, ein Abschnitt aus Haribhadras Nemināthacaritam: eine Jaina-Legende in Apabhraṃś a* (München: Verl. der Bayerischen Akad. der Wiss, 1921) xi.
 
 *[p. 277]* ^pg290
@@ -181,6 +197,7 @@ earned in a battle against the king of the *Yātudhānas* whose name was Barbara
 In hagiographies the mastery of *bilasiddhi* is usually deployed rather differently. Unlike pleasure- or power-seeking kings, celebrated religious figures use rifts into the underworld to disappear at the end of their lives. This may be motivated by a desire to show that they have overcome death. The Chinese pilgrim-traveler Xuanzang (629–645 ce) recounts that the Mādhyamaka philosopher Bhāviveka, using a mustard seed, is supposed to have entered a rock cavern in Dhānya-kaṭaka, there to await the arrival of the future Buddha Maitreya. Beal (1884:226, note 116) sees this as the source of the legend of Ali Baba, the name itself presumably deriving from Bhāviveka’s aliases ‘Bhāva’ or ‘Bhavya’, and the mustard seed has been transmuted in the retelling into the ‘open sesame’ formula. Only six of his followers dared enter 
 
 [^51]: *Yātudhānas (*fem*. -ī)* are an ancient class of sorcerer or demonic being that is mentioned already in the *Ṛgveda* and is known from Iranian cognates *Yātus (*Pahl*.* *ǰadūg),* “wizards”. The *Svacchandatantra* 11.168cd *(yātudhānāḥ piśācāś ca tāmasāḥ parikīrtitāḥ)* classifies them as “dark” beings, and they are commonly grouped with other ominous, flesh-eating beings (see also *Kuṭṭanīmata* 250 on their diet of flesh). In the *Skandapurāṇa* 119.93d a female *Yātudhānī* is addressed as “O night-stalker” *(niśācari).* In the *Bhāgavatapurāṇa* (3.19.20cd and 8.10.48ab in Jagadisalala Sastri, ed., *Śrīmadbhāgavatapurāṇam with the Ṭīkā Bhāvārthabodhinā of Śrīdharasvāmin* (Delhi: Motilala Banarasidas, 1983), they are described as being naked, they bear spears and their hair is loose. They are supposed to inhabit Laṅkā *(ibid.* 9.10.024ab) by the thousands. In the *Vāyupurāṇa* (Khemarāja, Śrīkṛṣṇadāsa, *The Vāyumahāpu* *rāṇam* \[Delhi: Nag Publishers, 1983\], 47.16ef: *antarikṣacarair ghorair yātudhā* *naśatair vṛtaḥ)* they can move in the sky. The *Viṣṇudharmottarapurāṇa* reveals that they can be warded off simply by scattering sesame seeds on the ground (1.141.7ab, so also *Viṣṇupurāṇa* 3.16.14cd in Pathak, M.M., *The Critical Edition of the Viṣṇu* *purāṇa* \[2 volumes, Pāda-Index Prepared by Peter Schreiner, Vadodara 1997, 1999\]). See also *Arthaśāstra* 14.1.06. Clearly we see in the passages mentioned several different conceptions of *Yātudhānas*, some more fearsome than the others*.*
+
 [^52]: *Dvyāśrayamahākāvya* canto 12 (in: Hemacandra, and Abhayatilakagaṇi, *Dvyāś rayamahākāvyam: Śrī Abhayatilakagaṇiviracitayā Ṭī kayā Sametam* (Manaphera, Kaccha: Sri Manaphara Jaina Sve. Mu. Sangha, 1983). There are several other witnesses that corroborate this event, for example the *Kīrtikaumudī* of Someśvara-deva 2.38: *śmaśāne yātudhānendraṃ baddhvā Barbarakābhidham | Siddharājeti rājendur yo jajñe rājarājiṣu ||*, “In a cremation ground this moon among kings captured the king of the Yātudhānas whose name was Barbaraka, and thus he became known as the Siddharāja in the line of the kings.”
 
 *[p. 278]* ^pg291
@@ -190,10 +207,15 @@ with Bhāviveka, the others said: “This is a den of serpents,”[^53] exactly 
 \[2.\] A comparably raw expression of the quest for power can be seen in the ‘mastery of the sword’ (*khaḍgasiddhi*), an occult object that grants its wielder sovereignty over the *Khecara*s or *Vidyādhara*s[^54] and also the ability to fly. Again, the seeker of such magical swords is frequently an already powerful king who seeks to maximize his power,[^55] an idea related to the pre-tantric quest for divine weapons (*divyāstra*) found in the epics and Purāṇas. These magical swords are not simply inert symbols of royal power.[^56] Whitaker has shown that such weapons are embodiments of *tejas*, or ‘fiery energy’, and as such they can only be wielded by extraordinary persons who can match their *tejas*. In the *Mahābhārata*, when Śiva gifts Arjuna a ‘supreme, stainless sword’, Śiva first needs to empower Arjuna to wield the dangerous weapon,[^57] and as we will see below, the most common method of acquiring *siddhi*s in Tantric scriptures is through mantra-ritual performed by an empowered, and thereby authorized, *sādhaka* initiate. Origination myths [^58] conceive of swords as the embodiment of demons 
 
 [^53]: Translation by Beal, Xuanzang, and Samuel Beal, *Si-Yu-Ki: Buddhist Records of the Western World* (London: Trübner, 1884 \[Delhi: Oriental Books Reprint Corporation, 1969\]), 226.
+
 [^54]: On the great antiquity of the sword as the central identifier of the Vidyādhara (against the Gandharva, for example) see von Hinüber “Das Schwert des Vidyādhara,” *Wiener Zeitschrift für die Kunde Südasiens und Archiv für indische Philosophie 22 (1978).*
+
 [^55]: See especially Sanderson, “The Śaiva Exegesis of Kashmir,” 288–295. See also Sanderson, “Religion and the state: Śaiva Officiants in the Territory of the King’s Brahmanical Chaplain (with an appendix on the provenance and date of the Netratantra),” in *Indo-Iranian Journal* 47 (2004): 255–257, and Hatley, “The Brahmayāmalatantra and Early Śaiva Cult of Yoginīs” (Ph.D. Thesis, University of Pennsylvania, 2007), 106–9, on the famous case of the sword Aṭṭahāsa in the Harṣacarita and on king Māradatta’s quest for a magical sword in the Yaśastilaka of Somadevasūri.
+
 [^56]: See Brockington, “The Sword as a Symbol in Indian Literature and Folk Tales,” *Cracow Indological Studies* 1 (1995): 81–89.
+
 [^57]: Jarrod L Whitaker, “Divine Weapons and Tejas in the Two Indian Epics,” *Indo-Iranian Journal* 43 no. 2 (2000), p. 99.
+
 [^58]: See Oppert, *On the Weapons, Army Organization, and Political Maxims of the Ancient Hindus, with Special Reference to Gunpowder and Firearms* (Madras: Higginbotham 1880), 24–25.
 
 *[p. 279]* ^pg292
@@ -203,8 +225,11 @@ of great power.[^59] In the *Nītiprakāśikā* of Vaiśampāyana we find such a
 \[3.\] The *siddhi* of subjugation (*vaśīkaraṇa*), or of winning power over others, appears to be commonly employed by male practitioners targeting women. Let us consider the case of the power substance 
 
 [^59]: See Slouber 2007, pp. 11–17. Kinsley, *Hindu Goddesses: Visions of the Divine Feminine in the Hindu Religious Tradition* (Berkeley: University of California Press, 1986), 109–110, has also collected evidence for the worship of swords as goddesses. See also Gode “Hari Kavi’s Contribution to the Problem of the Bhavāni Sword of Shivaji the Great,” *New Indian Antiquary* 3 (1940–1941), 81–100, on the Bhavāni sword of Śivājī.
+
 [^60]: *Bṛhatsaṃhitā 49 khaḍgalakṣaṇādhyāyaḥ,* in *Varāhamihirācārya, Bhaṭṭ otpala,* *and Avadhavihārī Tripāṭ hī, Bṛihatsaṃhitā* (Varanasi: Varanaseya Sanskrit Vishvavidyalaya, 1968).
+
 [^61]: There are many other, and more elaborate rites that seek to increase the power of the sword and thereby that of its owner, often the king. See for example Anderson 1971, pp. pp. 156–63: “In the Kathmandu festival of Pachali Bhairab, he incarnates himself in an impure low-caste dancer once every twelve years to renew the power of the king’s sword by ritually exchanging his own sword with the latter.” See also Slusser 1982, pp. 238-9, Damant 1875, pp. 114–115.
+
 [^62]: *Bṛhatsaṃhitā 49.23.*
 
 *[p. 280]* ^pg293
@@ -244,7 +269,9 @@ The Yogic Powers (*Gu*̣*nā*̣*s*̣*taka*)
 When the Śaiva exegetes draw attention to the fact that certain doctrines exist in other systems such as the Yoga or Sāṃkhya, they of course do not bring to bear the perspective of a historian of *śāstra* or religion. There is no investigation of relative priority or intertextuality, but rather a concerted effort to demonstrate the superiority of the 
 
 [^70]: *Ibid.: kālāntare maraṇāsannaiḥ sūribhis tasmād yogino bibhyadbhiḥ svakī* *yākhaṇḍakapālasya sarvasiddhihetor bhañjanaṃ śrāvakāgre ka ethitam | anyathā vidyāsiddhau saṅghopadravaṃ kariṣyati | tathaiva tais tadā cakre yogī nirāśaś ciram arodīt |*, “After some time the teacher was close to death. Apprehensive of that yogin, he ordered, in front of his Śrāvaka desciples, that his skull should be smashed. Unbroken it was the source of all supernatural powers. Otherwise, mastering his spell, the yogin would ruin the community. They did so, and the yogin wept a long time, starving.”
+
 [^71]: Compare here Sanderson “The Śaiva Exegesis of Kashmir” in *Mélanges Tantriques à la mémoire d’Hélène Brunner/Tantric Studies in Memory of Hélène Brunner*, eds. Dominic Goodall and André Padoux (Pondicherry: Institut Français de Pondichéry, 2007), 288–91 for other cases of revered figures acting pragmatically and performing aggressive Tantric ritual. As he notes, this was not considered unusual: “There are other reports of liberationist Gurus engaging in destructive rites of this kind, which, while hagiographical and therefore unreliable as records of history, nonetheless demonstrate that the co-existence of these extremes was not considered aberrant.”
+
 [^72]: In the Saiddhāntika *Parākhyatantra* 14.98a (see Dominic Goodall, *Parākhya* *tantram: The Parākhyatantra, a Scripture of the Śaiva Siddhānta* \[Pondicherry: Institut Français de Pondichéry, 2004\]) yoga is even defined as a union with these eight powers.
 
 *[p. 283]* ^pg296
@@ -252,8 +279,11 @@ When the Śaiva exegetes draw attention to the fact that certain doctrines exist
 Śaiva systematization. The *guṇāṣṭaka* present a rather special problem. In the Sāṃkhya system the category of the ‘self’ (*puruṣa*) is conceived of as an inactive witness. This evidently cannot be reconciled with the inherited Śaiva doctrine of the self as an ‘agentive experient’ (*bhoktṛ*). A concise and summary presentation of the non-dualist argument against the Sāṃkhya view can be found in the non-dualist Śaivite Kṣemarāja’s eleventh century *Svacchandatantroddyota*, in the context of a discussion of the realms existing at the reality level (*tattva*) of the ‘self’ (*puruṣa*).[^73] In the *Svacchandatantra*’s serial ascent through the ontology of reality levels (*bhuvanādhvan*), the reality level of the self (*puruṣa*) is a form of consciousness that appears contracted because the supreme lord has concealed his identity. There exist, at this ontological level, consciousness-based ‘worlds’ or ‘realms’ (*bhuvana*), which are merely grounded on aspects of this contraction, since in reality the self/lord is unchanging.[^74] Kṣemarāja states that in the Sāṃkhya system these realms are considered the nine *tuṣṭi*s and eight *siddhi*s, inhabited by presented ideas (*pratyaya*), that are understood to be positive qualities of the intellect (*buddhi*). Kṣemarāja rejects this view. For the Śaiva system, so he argues, these are rather ‘coverings’ (*āvāraka*) of the self (*puruṣa*), which has not yet discerned the veils (*kañcuka*) of *kalā* etc.,[^75] and whose nature is a contracted form of awareness, and which in this way can function as an agentive experient or ‘enjoyer’ (*bhoktṛ*).[^76] If the self were, as the Sāṃkhya system posits, a bare perceiver or witness but not an agentive experiencer (*abhoktṛ*), then there would be no possibility for any experience at all, because this is mediated by the intellect and its evolutes. For the 
 
 [^73]: *Svacchandatantroddyota* 10.1069cd-1072ab. For the dualist Śaiva view see Alex Watson, *The Self’s Awareness of Itself. Bhaṭṭ a Rāmakaṇṭ ha’s Arguments against the Buddhist Doctrine of No-Self* (Wien: Publications of the De Nobili Reseach Library, 2006).
+
 [^74]: *Svacchandatantroddyota* 10.1069ab: *ataḥ puruṣatattve tu bhuvanāni nibodha me | ata iti prakṛter ūrdhvam, pārameśasvarūpagopanāvaśād yat saṃkucitaci* *dābhāsarūpaṃ puruṣatattvam, tatra saṅkocāṃśāśrayāṇi bhuvanāni tu cinmātrāśra* *yāṇi tasya nirvikāratvāt ||*
+
 [^75]: On these limiting factors see Raffaele Torella, “The Kañcukas in the Śaiva and Vaisnava Tantric Tradition: A Few Considerations Between Theology and Grammar,” in *Studies in Hinduism: II, Miscellanea to the Phenomenon of Tantras*, ed. Gerhard Oberhammer (Wien: Verlag der österreichischen Akademie der Wissen-scha
+
 [^76]: *Svacchandratantroddyota*, *avataraṇikā* to 10.1072: *sāṃkhyaśāstre tuṣṭina* *vakaṃ siddhyaṣṭakaṃ ca yat pratyayasevyaṃ buddhidharmatayā gaṇitam, tad iha saṃkucitacitsvabhāvasya kalādikañcukāvivekinaḥ puruṣasya bhoktur āvārakam, na tu puṃsi dṛśimātrasvabhāve ‘bhoktari buddhyādivaśotthitasya bhogasya kathaṃ cid api sambhavaḥ |*
 
 *[p. 284]* ^pg297
@@ -263,10 +293,15 @@ Sāṃkhyas cannot claim that an experience of ‘cold’ is possible, even by s
 Kṣemarāja explains the eight powers inherited from the *Yogasūtra* as follows: \[1.\] miniaturization (*aṇimā*) is the ability to make the body minute,[^82] \[2.\] weightlessness (*laghimā*), is the ability to produce lightness like that of a ball of cotton, \[3.\] enlargement (*mahimā*), is the capacity to bring about large size, \[4.\] attainment (*prāpti*), is the ability to reach any place by willing it, \[5.\] the capacity of a single person 
 
 [^77]: *Ibid: na hi himāny antardevadatte pratibimbite sati śītānubhavalakṣaṇo bhogo gauṇyāpi vṛttyā sambhavati |*
+
 [^78]: *Ibid: ataḥ sarvo ’yaṃ bhoga uktarūpapuṃsi pāramārthike bhoktari sati ghaṭata iti tatraiva tuṣṭyādipratyayasadbhāvo yukta ity evam uktam |*
+
 [^79]: *Svacchandratantra* 10.1069–72ab.
+
 [^80]: *Svacchandratantroddyota*, *avataraṇikā* to 10.1072: *kiṃ ca, pārameśamatayoga* *kramasādhyaṃ yad aṇimādyaṣṭakarūpam aiśvaryaṃ tad apy etannāmakade* *vatāṣṭakādhiṣṭhitam atraiva puṃstattve proktanītyāvārakatayā sthitam.*
+
 [^81]: The *Mālinīvijayottara*, a Trika Tantra forming the root-text (*mūlatantra*) that Abhinavagupta’s *Tantrāloka* explicates, has worked out an even more complex scheme to incorporate the *siddhi*s, see Somadeva Vasudeva, *The Yoga of Mālinīvija* *yottaratantra: Chapters 1-4, 7-11, 11-17* (Pondicherry: Institut Français de Pondichéry, 2004).
+
 [^82]: *Svacchandatantroddyota* to 10.1073*: aṇimā śarīrasya sūkṣmatākaraṇe sāmar* *thyaṃ, laghimā tūlaval lāghavotpādanaśaktatvaṃ, mahimā mahattvotpāda* *naśaktatā, prāptiḥ saṃkalpamātrāt tattaddeśāvāptiḥ, prākāmyam ekasyaiva yugapan nānāśarīrakaraṇe śaktatā, īśitvam aiśvaryaṃ, vaśitvaṃ bhūtavaśīkāraḥ, yatrakāmā* *vasāyitvaṃ saṃkalpamātrād deśakālasvabhāvavyavahitavastuniścayaḥ.*
 
 *[p. 285]* ^pg298
@@ -296,12 +331,19 @@ of the *Matasāra*. As an authorizing prerequisite, the *sādhaka* must have rec
 making gold, elixiers etc. are achieved, 140–41ab: *rasaṃ rasāyana{ā}ṃ vātha anyaṃ vā manasepsitam / tat sarvaṃ labhate devi mahām\[ā\]ṃsena tarpaṇāt //.*
 
 [^89]: *Matasāra* 9 fol. 63v: *labdhvānu{saṃ}jñāṃ tataḥ (em., tato cod.) siddhisādha* *nāṃ prāk samārabhet |*
+
 [^90]: In this context a crossroads intends a remote and powerful place where two major routes intersect, far from a settlement.
+
 [^91]: *Matasāra* 9 fol. 64r: *nirvikalpena bhāvena mantrārādhanatatparaḥ |*
+
 [^92]: *ibid.: mahāśaṅkhamayāṃ mālām ardhamātrāpramāṇataḥ |*
+
 [^93]: *ibid.: ayutau dvau ca vidhinā na drutaṃ ca vilambitam (na drutaṃ\]* em., *ya drutaṃ* cod*.) japate yas tu deveśi sādhako nirmalātmanaḥ | (nirmalātmanaḥ\] aiśa for nirmalātmā | sāmānyasiddhī siddhyanti pūjyo bhavati mānuṣaiḥ | (siddhyanti\]* em*.,* *siddhīni* cod*.,* a *ma-vipulā* with caesura after the fifth syllable).
+
 [^94]: *Matasāra* 9 fol. 64r: *dinastho japate yo hi caturdhā vīravandite (dinastho japate\]* em*., dinasthaṃ yapate* cod.; *vīravandite\]* em., *rīravandite* cod*.) | uttamāṃ siddhim āpnoti iti śāstrasya niścayaḥ |* For the term *dinastha* as a stage of *japa* see *Svacchandatantroddyota* 2.140b glossing *dinastho: hṛdayād dvādaśāntaṃ prāṇavā* *haḥ dinam, tatra tiṣṭhati, iti nirgarbham apānavṛttyā praviśya mantragarbham ūrdhvaṃ prāṇānte viśrāntiparo japed iti yāvat ||*
+
 [^95]: *ibid: aṇimādiguṇāvyāpti śivayojyaṃ ca me vaca | ity eṣā uttamā siddhi kathitā tu mṛgekṣaṇe ||*
+
 [^96]: *ibid: sarvabhūtavaśīkartṛnigrahānugrahakṣamaḥ | vācā karoti karmāṇi līlayā sādhakottamaḥ | ity eṣā madhyamā siddhi ākhyātā tava śundari |.* Taking *vācā karoti* ed.<sup>100</sup> *karmāṇi līlayā* as a separate power, “he easily accomplishes whatever he says”, rather than just as referring to the other three powers.
 
 *[p. 287]* ^pg300
@@ -313,7 +355,9 @@ nobles, and winning the friendship of all people.[^97] If the practitioner conti
 Cutting open his left arm he should present \[his blood\] as welcome-water (*argha*). He should prostrate to them \[stretching himself on the ground\] like a rod and make his offering as required. Receiving whichever he desires: the alchemical mercury, the elixir, the sword, the pill, the seven-league sandals, the collyrium, the finding of treasure, the *Vetāla*,[^99] the orpiment, the chalk, and unheard of *caru*, the magnanimous great hero, O Bhairavī, masters \[them, and\] his body is perfect-
 
 [^97]: *Matasāra* 9 fol. 64v: *vaśyākarṣaṇavidveṣamāraṇoccāṭanāni ca |maṇḍalīkara* *ṇendrāṇāṃ kiṃkurvāṇavidheyatā | (maṇḍalīkaraṇendrāṇāṃ\]* conj*., vigrahaja* *rāṃdīśvaraṃ* cod*.* The conjectural emendation is based on parallels in the *Siddhāyogeśvarīmata* and the *Kulapañcāśikā) samastajanavātsalyam adhamā siddhir iṣyate | (samastajanavātsalyam\]* em*., samajanavāṃcchalyaṃ* cod*.)*
+
 [^98]: *Matasāra* 9 fol. 64v: *ajaraś cāmaraś caiva sarvadvandvavivarjitaḥ | vīreśo bhavate devi yoginīpadasaṃmataṃ (vīreśo\]* em*.* Sanderson*, vīraśo* cod*.) bhavate khecarīsiddhi<ḥ> sarvadevanamaskṛtaḥ | vicared akhilāṃ lokāṃ bhairavas tu yathā hi saḥ (vicared\]* em. Sanderson*, vicāred* cod*.) krīḍate saha kanyābhi<ḥ>* *pātālavarayoṣitām | athavā yakṣakanyābhiḥ patir bhūtvā tu bhuñjati | (patir\] em.* Sanderson*, patiṃ cod.; tu bhuñjati\] em, na bhuñjati* cod*.) etad devi samākhyātaṃ japasaṃkhyāphalapradam (samākhyātaṃ\]* em.*, samākhyāto* cod*.)*
+
 [^99]: Concerning the *siddhi* of *Vetālas* see Dezső, “Encounters with *Vetālas*, Studies on Fabulous Creatures I,” *Acta Orientalia Academiae Scientiarum Hungaricae* 63, no. 4 (2010).
 100\. *Kulasāra* fol. 82v: *vāmāṅgaṃ (em., vāmāṅgau cod.) bhedayitvā tu teṣām arghaṃ pradāpayet | praṇamya daṇḍavat teṣāṃ yatheṣṭaṃ tu nivedayet || rasaṃ rasāyanaṃ khaḍgam gulikā pāduke \[’\]thavā | añjane khanyavetālarocanā khaṭikāpi vā | carukaṃ vātha vīrendro \[’\]pūrvaṃ yatheṣṭaṃ bhairavi | te labdhā siddhyate devi siddhadeho mahāmatiḥ ||*
 
@@ -325,10 +369,15 @@ A similar (and intertextual) list in the same work adds a few more, showing how 
 The powers sought by Tantric power-seekers can be quite diverse, but the motivating factors are often quite mundane. In some *phalaśruti* listings we find an explicit acknowledgment that *siddhi*s are meant for fun or entertainment (*krīḍā*). The yogin, after mastering some power, ‘amuses himself’ (*krīḍate*) with it. There even exists a category of powers called the *krīḍākarman*s, the ‘occult amusements’ that are various forms of heightened sensory awareness, and most notably, also the ability to enter into the bodies of others. In seeking such occult entertainment, the Śaiva *mantrin* is doing no more than emulating Śiva himself, who has on occasion incarnated for his own amusement, as a *krīḍāvatāra*, with no intention of benefitting other souls.[^103] Abhinavagupta[^104] presents the *krīḍākarman*s as epiphenomena of the arising of ‘intuitive’ (*prātibha*) extrasensory discernment *(viveka)*,[^105] which itself is a form of self-awareness (*svaparāmarśa*).[^106] When this transcendental
 
 [^101]: *Kulasāra* fol. 38v: *ṣaṇmāsābhyantare tasya siddhyante sarvasiddhayaḥ | ye ke cit pratyayā‹ḥ› proktā vācayā kurute tu saḥ | uttiṣṭhakhaḍgavetālarocanāṃjanam eva ca | rasaṃ rasāyanaṃ khanyaṃ pāduke gulikādayaḥ | ghaṇṭikākāśagamanaṃ parakāyapraveśanam | ḍāvyā ḍāmarikāś caṃḍā ghorādyāyaś ca mātarāḥ |* *bhūpātālakhagāminya<ḥ> siddhyante tasya nādaraḥ ||*
+
 [^102]: See *Netratantra* and *Uddyota* to 18.99–101 for these supernatural beings.
+
 [^103]: *Svacchandatantra* 10.822c: *rudrakrīḍāvatāreṣu*. Kṣemarāja glosses this as “… places in which Rudra incarnated for his amusement, with no intentiom of bestowing grace, such as ‘The Pine Forest’” (*rudrasya krīḍayā na tu anujighṛkṣayāvatāro yeṣu te devadāruvanaprabhṛtayo rudrakrīḍāvatārāḥ*).
+
 [^104]: *Tantrāloka* 13.179cd–180ab.
+
 [^105]: *Tantrāloka* 13.177a: *viveko ‘tīndriyas tv eṣa*.
+
 [^106]: *Tantrālokaviveka* to 13.177–179ab: *sa svaparāmarśātmā viveko nāma*. For the notions of *svaparāmarśa*, *svavimarśa*, *ahaṃparāmarśa* etc. see Alex Watson, “Bhaṭṭa Rāmakaṇṭha’s Elaboration of Self-Awareness (*svasaṃvedana*), and How It Differs from Dharmakīrti’s Exposition of the Concept,” *Journal of Indian Philosophy* 38.3 (2010): 297-321. On the problems of adequately translating the term see Isabelle Ratié, “Otherness in the Pratyabhijñā Philosophy,” *Journal of Indian Philosophy* 35, no. 4, 2007, 336–7, especially footnote 48 (Ratié prefers “grasping of the ‘I’” for *ahaṃparāmarśa*-).
 
 *[p. 289]* ^pg302
@@ -340,8 +389,11 @@ The occult amusements taught in all scriptures are now revealed. One experiences
 I will tell you the characteristic of one for whom discernment has arisen. With whatever sense faculty something needs to be achieved, the acuity of that \[faculty\] arises spontaneously: \[One attains\] the occult art (*vijñānaṃ*) of hearing from afar, knowing \[from afar\], and seeing \[from afar\].[^110] As a consequence of the gnostic context in which they arise, the occult amusements are merely distracting byproducts. Abhinavagupta insists that they can hold no fascination for the practitioner who has become 
 
 [^107]: *Tantrāloka* 13.177bcd: *yadāyāti vivecanam | paśupāśapatijñānaṃ svayaṃ nirbhāsate tadā.*
+
 [^108]: *Tantrāloka* 13.178–179ab: *prātibhe tu samāyāte jñānam anyat tu sendriyam |* *vāgakṣiśrutigamyaṃ cāpy anyāpekṣaṃ varānane | tat tyajed buddhim āsthāya pradī* *paṃ tu yathā divā |*
+
 [^109]: Untraced citation in Jayaratha’s *Tantrālokaviveka* 13.179: *krīḍākarmāṇy athoktāni sarvatantroditāni tu / kṣaṇenānubhavet tāni śaktijñānopabṛṃhitaḥ //* *ṣaṭcakraṃ ṣoḍaśādhāraṃ kulaṃ jānāti suvrate / mantravedhādi kurute svasthāveśā* *dikāni tu // kṣaṇād anyāni viśate purāṇi naganandini /*
+
 [^110]: Unidentified citation in Jayaratha’s *Tantrālokaviveka* 13.179cd–180ab: *prā* *durbhūtavivekasya lakṣaṇaṃ yat pravartate / tathā te kathayiṣyāmi yena yenen* *driyeṇa tu //sādhyaṃ yat tasya tasyaivaṃ pāṭavaṃ jāyate bhṛśam / dūrāc chravaṇavijñānaṃ mananaṃ cāvalokanam*. The triad of remote hearing, knowing and seeing occurs already in the *Niśvāsamūla* 7.20ab (*dūrāc chravaṇavijñānaṃ darśanaṃ mananaṃ tathā*) in a longer list of powers.
 
 *[p. 290]* ^pg303
@@ -351,10 +403,15 @@ averse to all things because he has discerned their nature and has found repose 
 The plethora of supramundane powers is taught for the sake of showing faith-inspiring miracles to convince outsiders, so that they realize that those accomplished in this \[Śaiva system\] will be released after death.[^114] Faith-inspiring miracles had long been used as proofs that the soul had undergone a fundamental change during initiation,[^115] for example in *tulādīkṣā*, ‘initiation with the scales’, where the candidate is weighed before and after the initiation. A loss of weight would prove that the binding defilements of the soul had been removed, and the initiand would be released after death. The ‘others’ or ‘outsiders’ (*para*-) Abhinavagupta refers to are probably non-Śaivas, but elsewhere he claims that *pratyaya*-miracles occurring during initiation are meant to give comfort to the simple-minded.[^116] Granoff 1996 has analyzed a similar twofold discourse of miracles in Buddhist texts, the first was meant to convince non-believers of the greatness of Buddhist 
 
 [^111]: *Tantrāloka* 13.180cd–181ab: *sarvabhāvavivekāt tu sarvabhāvaparāṅmukhaḥ* *|| krīḍāsu suviraktātmā śivabhāvaikabhāvitaḥ |.* Jayaratha glosses the amusements here as “entering other’s bodies etc.”, *parapurapraveśādiprāyāsu krīḍāsu.*
+
 [^112]: *Tantrālokaviveka* introducing 13.183: *nanv akiṃcitkaryaś cet siddhayas tat kimartham uktā\[ḥ\]*, “Surely, if the *siddhi*s are useless, then for what purpose are they taught?”
+
 [^113]: “… for otherwise,” as Jayaratha comments, “who would believe that liberation is achieved at the end of life?” *Tantrālokaviveka* on 13.183: *siddhir hi nāma pareṣāṃ pratyayamātram anyathā dehānte muktir iti kasya samāśvāsaḥ |*
+
 [^114]: *Tantrāloka* 13.183: *siddhijālaṃ hi kathitaṃ parapratyayakāraṇam | ihaiva siddhāḥ kāyānte mucyerann iti bhāvanāt ||*
+
 [^115]: See Alexis Sanderson, “History Through Textual Criticism in the Study of Śaivism, the Pañcarātra and the Buddhist Yoginītantras,” *Les Sources Et Le Temps =* *Sources and Time: a Colloquium, Pondicherry, 11-13 January 1997* (Pondicherry: Institut français de Pondichéry, Ecole française d’Extrême-Orient, 2001), 10–11, n.
+
 [^116]: *Tantrāloka* 20.1cd: *atha dīkṣāṃ bruve mūḍhajanāśvāsapradāyinīm ||*
 
 *[p. 291]* ^pg304
@@ -366,10 +423,15 @@ Posthuman Identities Let us consider the further implications of the occult amus
 To see these processes in context, let us consider the transformations of a human being into two very different kinds of supernatural beings: the *Vetāla*[^122] and the *Khecara* (often synonymous with the 
 
 [^117]: An early description of a yogic method of ejecting the soul from the body so that it can travel anywhere in the heavens, on earth and in the subterranean realms to take on various forms is taught in the *Brahmayāmala’s Krīḍākarma* chapter 43, labelled as 44. It simply ends by affirming the efficacy of the practice, 44.8: *antarikṣe tathā bhūmau pātāleṣu ca dehiṣu | anya-m-anyeṣu rūpeṣu vicaren nātra saṃśayaḥ ||*
+
 [^118]: *acintyo hi maṇimantrauṣadhīnāṃ prabhāva iti*. See Goodall 1998, p. 273.
+
 [^119]: *Brahmasūtrabhāṣya* (in Vācaspatimiśra, Chittenjoor Kunhan Raja, and S. S. Sūryanārāyana Śāstrī, *The Bhāmatī of Vācaspati on Śaṅkara’s Brahmasūtrabhāṣ ya Catussūtrī*, Adyar: Theosophical Publ. House, 1933) to *śrutes tu śabdamūlatvāt* *//2.1.27// … laukikānām api maṇimantrauṣadhiprabhṛtīnāṃ deśakālanimittavaici* *tryavaśāc chaktayo viruddhānekakāryaviṣayā dṛśyante …*
+
 [^120]: Vidyāraṇya (Vidyāraṇya, S.Subrahmanya Sastri, and T.R.Srinivasa Ayyangar, *Jīvanmuktiviveka of Vidyāraṇya*, \[Madras: Adyar Library and Research Centre, 1978\]) attributes this to the *Parāśarasmṛti*. 22. *tad uktaṃ parāśareṇa: maṇiman* *trauṣadhair vahniḥ sudīpto ‘pi yathendhanam |pradagdhuṃ naiva śaktaḥ syāt pratibaddhas tathaiva ca ||*
+
 [^121]: On *rūpaparivartana*, or *kāmarūpa* see Hatley, “The Brahmayāmalatantra and Early Śaiva Cult of Yoginīs” (Ph.D. Thesis, University of Pennsylvania, 2007), 83, 105.
+
 [^122]: A detailed analysis and typology of the different types of *Vetālas* can be found in Csaba Dezső “Encounters with Vetālas, Studies on Fabulous Creatures I,” *Acta Orientalia Academiae Scientiarum Hungaricae* 63, no. 4 (2010).
 
 *[p. 292]* ^pg305
@@ -385,8 +447,11 @@ We see here an attempt to encompass even these malific beings within a loose Śa
 When \[protection from karmic consequences\] is not performed, souls, when the previous karma of transgressing the initiatory vows matures after death because it was not annulled during initiation, obtain a demonic body, despised by the good, and undergo torment. 
 
 [^123]: *Tantrasadbhāva* 7.141–142.
+
 [^124]: See *Tāntrikābhidhānakośa*, sv. *caryā*.
+
 [^125]: *Ātmārthapūjāpaddhati*, the verse is, however, not cited in the BORI critical edition of the *Rāmāyaṇa*: *tathā rāmāyaṇe ca—śivālayam upāgamya yas tu sūṣayate naraḥ | malamūtraṃ ca niṣṭhīvya (em., niṣṭhī vai T) sa vetālo bhaviṣyati ||*
+
 [^126]: *Mṛgendratantra Kriyāpāda* 8.138cd–139ab: *yad aprāpya narāḥ pūrve prāpte karmaṇi yātanāḥ // prāpnuvanti vapuḥ prāpya paiśācaṃ sadvigarhitam.* Nārāyaṇakaṇṭha comments: *yad aprāpya yasminn anivṛtte narāḥ pumāṃsaḥ piṇḍapātānantaraṃ pūrve karmaṇi pūrvasmin samayācārollaṅghanarūpe karmaṇi dīkṣāyām evākṛtavighātatvāt prāpte sati paiśācaṃ vapuḥ piśācādivapuḥ sadvigaṁitaṃ prāpya yātanāḥ prāpnuvanti //.*
 
 *[p. 293]* ^pg306
@@ -394,9 +459,13 @@ When \[protection from karmic consequences\] is not performed, souls, when the p
 The transgressors become Vetālas, Ulkas or Kṣetrapālas inhabiting the earth or water. They are ruled by the five Kāraṇeśvarī sense-deities that control the faculty that committed the transgression. Brāhmī controls the ears and skin, Vaiṣṇavī the tongue, Raudrī the nose and eyes, Aiśvarī controls pride, and Sādāśivī the mind. The demonic rebirths are also classified according to these controlling deities into Brahma-demons, Viṣṇu-demons, etc.[^127] To prevent this destiny, expiatory offerings consisting of the corresponding sensory media (*tanmātra*) must be made during the initiation (*nirbījadīkṣā*) to the respective Kāraṇa deity. That is, sound and touch must be offered to Brahmā, taste must be offered to Viṣṇu, smell and form must be offered to Rudra, intellect and egoism must be offered to Īśvara, and the mind must be offered to the Kāraṇa deity Śiva.[^128] The tormented state of being a *Vetāla* is a punishment brought on by a lapsed Śaiva’s own misdeeds after death, it is not a condition that can be attained in the present life. The *siddhi* of *Khecaratā*[^129] (lit. ‘the occult attainment of sky-goer-hood’),[^130] on the other hand, is a self-promotion that takes place without the intervention of a rebirth. It is not so much a transformation into a new, superhuman identity as a posthuman continuity of the present life with an expanded identity. As van Buitenen puts it (though not quite accurately from a Śaiva perspective): “For unlike any other god, deity, vampire or hobgoblin, the *Vidyādhara* is originally a man … there can be no real doubt that the *Vidyādhara* represents man become superman by virtue of his knowledge.”[^131] After mastering the respective *vidyā*, mantra or magical sword, the successful (*siddha*) practitioner is more than a human being, he is a *Khecara*. Remaining on earth among mortals would be incommensurate with his new-found status, and narrative literature usually shows the new *Khecara* ascending beyond the human realm, 
 
 [^127]: Nārāyaṇakaṇṭha to *Mṛgendratantra Kriyāpāda* 8.139cd–140ab.
+
 [^128]: Nārāyaṇakaṇṭha to *Mṛgendratantra Kriyāpāda* 8.140cd–141.
+
 [^129]: For this power see James Mallinson, *The Khecarīvidyā of Ādinātha: A Critical Edition and Annotated Translation of an Early Text of Haṭhayoga* (London: Routledge, 2007).
+
 [^130]: Abhinavagupta is explicit that it is in this case not the power of flight that is sought, but rather that the power-seeker wishes to become a sky-goer *(Khecara):* “A yogin intent on ‘devouring time’ becomes a sky-goer in an instant,” (*Mālinīvijayavārttika* 1.153ab: *kālagrāsaparo yogī jāyate khecaraḥ kṣaṇāt*) and “Someone solely devoted to ‘devouring time’ becomes a sky-goer himself” (ibid. 1.155ab *kālagrāsaikarasiko jāyate khecaraḥ svayam*).
+
 [^131]: Hans van Buitenen, “The Indian Hero As Vidyādhara,” *Journal of American Folklore* 71, 281 (1958): 308.
 
 *[p. 294]* ^pg307
@@ -408,10 +477,15 @@ But let us return to the case of the yogin who enters somebody else’s body. Wh
 Merged Identities The problem of the yogin’s identity during yogic perception (*yogipra* *tyakṣa*) is addressed in Utpaladeva’s *Īśvarapratyabhijñākārikā* 1.4.5. The context is the establishment of a synthesizing agent of remembrance as non-different from the synthetic unity[^134] of cognitions occurring at different times (1.4.3).[^135] This prompts an opponent to propose that it would be simpler to accept that the previous cognition is objectified in the present moment of cognition.[^136] Utpaladeva denies this possibility, one cognition cannot be the object of another. [^137] The opponent then attempts to contradict this by introducing the example 
 
 [^132]: See the discussion in Dezső, “Encounters with Vetālas, Studies on Fabulous Creatures I,” *Acta Orientalia Academiae Scientiarum Hungaricae* 63, no. 4 (2010): 400 of: *Bṛhatkathāślokasaṃgraha* 20.96: *sādhakaṃ siddhinistriṃś am utpatantaṃ* *nabhaḥ kva cit*.
+
 [^133]: See Mark Singleton, “Yoga, Eugenics, and Spiritual Darwinism in the Early Twentieth Century,” *International Journal of Hindu Studies* 11 (2007): 125-146.
+
 [^134]: *Īśvarapratyabhijñāvimarśinī* 1.4.3: *aikyam = anusaṃdhānam, anusaṃdhātur abhinnam iti*.
+
 [^135]: *Īśvarapratyabhijñākārikā* 1.4.3: *na ca yuktaṃ smṛter bhede smaryamāṇasya bhāsanam | tenaikyaṃ bhinnakālānāṃ saṃvidāṃ veditaiṣa saḥ*.
+
 [^136]: *Īśvarapratyabhijñāvimarśinī Avataraṇikā* to 1.4.4: *so ’nubhava idānīṃ smara* *ṇena viṣayīkriyate.*
+
 [^137]: See Torella *“Variazioni kashmire sul tema della percezione dello yogin (yogi* *pratyakṣa),” Rivista degli Studi Orientali 81,* no. 1–4 (2009): 35–58, p. 476–477. He notes: “On this point, in fact, the Śaiva and his principal opponent, the Buddhist epistemologist, are in full agreement: a cognition is self-luminous and cannot be the object of another cognition.”
 
 *[p. 295]* ^pg308
@@ -421,8 +495,11 @@ of yogic perception: Surely, when a yogin reads the mind of someone else, is he 
 Even for yogins, cognitions do not appear with reference to another cognition. They appear as one with \[the yogin’s\] self-awareness, even when they are \[considered\] objects.[^138] Abhinavagupta’s *Īśvarapratyabhijñāvimarśinī* commentary to this verse distinguishes two different types of yogins. The first has not yet overcome the differentiation between self and other (*avigalitasvapara* *vibhāgo yogī*) and he therefore imagines (*abhimanyate*) that “this is the cognition of another” (*idaṃ parajñānam iti*). The second type perceives everything as himself (*sarvam ātmatvena paśyan*) and sees that the differentiation into self and other is his own fabrication (*svasṛṣṭam eva svaparavibhāgaṃ paśyati*).[^139] Abhinavagupta does not elaborate on the identity of these two types of yogins, but his commentator Bhāskara does. He states that the first yogin, for whom the distinction between self and other has not yet disappeared, has attained the level of Īśvara but not the level (-*daśā*) of Sadāśiva,[^140] which the higher (*prāptaprakarṣaḥ*), second type, has. By doing so Bhāskara has actually introduced elements of the Trika’s *pramātṛbheda* phenomenology,[^141] elaborated in the in the tenth book of Abhinavagupta’s *Tantrāloka*, 
 
 [^138]: *Īśvarapratyabhijñākārikā* 1.4.5: *yoginām api bhāsante na dṛśo darśanāntare |* *svasaṃvidekamānās tā bhānti meyapade ‘pi vā ||*. Abhinavagupta’s *Īśvarapratya* *bhijñāvimarśinī* commentary to this important verse has been recently translated and discussed in *Isabelle Ratié,* “Otherness in the Pratyabhijñā Philosophy,” *Journal of Indian Philosophy 35,* no. 4, (2007): 313–370, and Utpaladeva’s *Vivṛti* commentary has been edited by Torella*,* “Studies on Utpaladeva’s Īś varapratyabhijñā-vivṛti. Part III: Can a Cognition Become the Object of Another Cognition?” *Mélanges Tantriques à la mémoire d’Hélène Brunner/Tantric Studies in Memory of Hélène Brunner,* ed. Dominic Goodall and André Padoux, *475–484, Collection Indologie 106*. Pondicherry: Institut français de Pondichéry, 2007. See also Torella *“Variazioni kashmire sul tema della percezione dello yogin (yogipratyakṣa)*,” *Rivista degli Studi Orientali* 81, no. 1–4 (2009): 35–58.
+
 [^139]: *Īśvarapratyabhijñāvimarśinī* 1.4.5: *pramātrīkṛtaparadehaprāṇādisamavabhās asaṃskārāt tu tanniṣṭhām idantām eva prakāśabhāge ‘pi manyamāna idaṃ parajñā* *nam iti abhimanyate ‘vigalitasvaparavibhāgo yogī | prāptaprakarṣas tu sarvam ātmatvena paśyan svasṛṣṭam eva svaparavibhāgaṃ paśyatīti jñānasya na yogijñānena prakāśyatā.*
+
 [^140]: Bhāskarī to *Īśvarapratyabhijñāvimarśinī* 1.4.5: *avigalitasvaparavibhāgaḥ =* *īśvarāvasthāṃ prāptaḥ, na tu sadāśivādidaśām adhiśayānaḥ.*
+
 [^141]: See Somadeva Vasudeva, *The Yoga of Mālinīvijayottaratantra: Chapters 1-4,* *7-11, 11-17* (Pondicherry: Institut Français de Pondichéry, 2004), 189–202.
 
 *[p. 296]* ^pg309
@@ -430,9 +507,13 @@ Even for yogins, cognitions do not appear with reference to another cognition. T
 into the discussion. Abhinavagupta himself does not here introduce this theory, for to do so could be seen as a conflation of doctrines, the dreaded *śāstrasaṅkara*. Of course, the very same categories are discussed in extenso in the *Īśvarapratyabhijñāvimarśinī’s Āgamādhikāra*, where the divergent views of the Trika are noted, so this is not a substantive issue. Nevertheless, although the yogin’s cognitive instrument (the *śakti* whereby he perceives) is equated with that of the Trika’s transcendental Vidyeśvara perceivers, namely *śuddhavidyā*, the yogin’s ranking in the phenomenal hierarchy is not explicitly identified as either the Sadāśiva or Īśvara state. At *Īśvarapratyabhijñāvimarśinī* 3.1.3cd, giving Utpaladeva’s primary view, the experiential levels of Sadāśiva and Īśvara are located between the two poles of ‘I-ness’ (*ahaṃtā*) and ‘that-ness’ (*idaṃtā*); Sadāśiva represents the predication: “I am this” (*aham idam*), where objectivity is indistinct, and Īśvara represents the predication: “This am I” (*idam aham*), where subjectivity is indistinct. The experiential level of Yogins and gnostics is referenced only later, in the introduction to 3.1.7. This introduces an opposing view that Bhāskara attributes to the Trika.[^142] The nature of the three transcendental *Vidyeśvara* perceivers, that is, the *Mantramaheśvara*-, the *Mantreśvara*- and the *Mantra*-perceivers, is explained as a negotiation between these two subjective and objective aspects of Paramaśiva. According to this view, the Sadāśiva and the Īśvara conditions of perceiverhood are two spontaneous manifestations[^143] of Paramaśiva, with an emergent differentiation into subject and object, one that is however unstable, because it is not yet well developed (*aprarūḍha*).[^144] When this differentiation is not vivid (*asphuṭa*), Paramaśiva’s[^145] volitional power (*icchāśakti*) is engaged, and when it is vivid (*sphuṭa*), his cognitive power (*jñānaśakti*) is engaged. When the differentiation has become more developed (*prarūḍha*),[^146] we can distinguish two further stages. When the objective aspect is distorted (*grāhyaviparyāsa*) then the power of action (*kriyāśakti*) is engaged, when both the objective and the subjective aspects are distorted (*grāhyagrāhakaviparyāsa*), as it is for ordinary, 
 
 [^142]: *Īśvarapratyabhijñāvimarśinī* introduction to 3.1.7: *pare prāhuḥ,* Bhāskara*: =* *anye trikaśāstrapāradṛśvāṇaḥ.*
+
 [^143]: *ibid.: -avabhāsanam, Bhāskara: svātantryeṇa prakāśanam.*
+
 [^144]: *ibid.: aprarūḍhabheda-* Bhāskara: *śithilatvena viśrāntyasahaḥ yo bhedas tasyāvabhāsanam*.
+
 [^145]: *ibid*.: Bhāskara: *īśvarasya = śrīśivabhaṭṭārakasya*.
+
 [^146]: *ibid.: prarūḍhe tu bhede*, Bhāskara: *prarūḍhe = bhedaviśrāntau*. *Unpublished Manuscripts Ātmārthapūjāpaddhati*. Institut français de Pondichéry paper transcript No. T. 371b. *Bhairavamaṅgala*. NAK pam 687 Śaivatantra 144 (NGMPP B27/21), ninth century palmleaf manuscript in Licchavi script. *Kiraṇatantra* (N). NAK 5-893, NGMPP A40/23; palm-leaf; Licchavi script; incomplete; copied in 924 A.D. *Kulapañcāś ikā.* NAK 1-107, NGMPP A40/13, palm-leaf. Nepalese Kuṭila script of c.a. 1100–1200 ce. *Kulasāra.* NAK 4-137, NGMCP 4-137, palm-leaf. Goodall, Dominic and Acharya, Diwakar. *Niśvāsatattvasaṃhitāyāṃ Guhyasūtram:* unpublished draft edition based on three manuscripts: MS N (National Archives of Kathmandu (NAK) accession no. 1-277, Nepal–German Manuscript Preservation Project (NGMPP) microfilm reel no. A 41/14, palm-leaf, 9th century?), MS K (NAK 5-2406, NGMPP reel no. A 159/18, paper apograph of N, 20th cen-
 
 *[p. 297]* ^pg310
@@ -442,7 +523,9 @@ limited souls, then the power of delusion (*māyāśakti*) is active. Abhinavagu
 References
 
 [^147]: By yogin Abhinavagupta of course means those who have attained yoga, not merely those practising yoga .
+
 [^148]: *ibid*.: *grāhakagrāhyobhayaviparyāsasaṃskāre tu avinivṛtte ‘pi yad etat vastuparamārthaprathanaṃ tatra vidyāśaktivyāpāro yogijñāniprabhṛtiṣv apaśupra* *mātṛṣu |*
+
 [^149]: *Īśvarapratyabhijñāvimarśinī* to 3.1.7: *ayam eva ṣaḍardhasārādidṛṣṭo ‘py asyācāryasya hṛdayam āvarjayati pakṣo ‘anya ity anukteḥ |*
 
 *[p. 298]* ^pg311

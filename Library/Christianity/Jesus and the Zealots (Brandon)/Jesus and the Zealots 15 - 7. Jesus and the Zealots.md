@@ -49,11 +49,14 @@ Hence, the Christian Gospels, taken on their own testimony, have established an 
 These indications which the Gospels inadvertently provide of a different situation from that which they were intended to represent, fit in with other evidence that the views of the qriginalJewish Christians about Jesus were also significantly different. We have found that these disciples, who included the apostles and eyewitnesses of the career of Jesus, continued to live as devout Jews zealously observing the ritual and legal demands ofJudaism, and looking for the 'restoration of the kingdom to Israel ' [^6]• They recognised Jesus as the Messiah of their people. The unexpected interruption of his Messianic career, which his crucifixion constituted, had been botha shock and a problem to them; but they had surmounted these obstacles, inspired by the personality of their crucified Master and by skilful biblical exegesis. [^7]They saw in the Roman execution of 2 Pp. 256 ff. 
 
 [^1]: Pp. 243 ff.
+
 [^3]: See below, pp. 331 ff., 349 ff.
 4\. Mark xiv. 47leaves the identity of the person who struck the blow intentionally vague (els 5e \[TtS\] TOOV iTC:XpEO"TTjt<6Toov). See above, p. 306, n. 5·
 
 [^5]: See pp. 317, 340 ff.
+
 [^6]: Pp. 155 ff.
+
 [^7]: Pp. 176 ff.
 
 *[p. 325]* ^pg355
@@ -87,11 +90,17 @@ Jesus must have known of the Zealot ideal, and of Zealot exploits 1 Actsxxiii. 1
 p. III, n. 5·
 
 [^2]: Pp. 205 ff.
+
 [^3-p326]: Pp. 208 ff.
+
 [^5-p326]: Pp. 31 ff.
+
 [^4-p326]: Pp. 29 ff.
+
 [^6-p326]: Pp. 47 ff.
+
 [^8]: Pp. 57 ff.
+
 [^7-p326]: Pp. 31 ff.
 
 *[p. 327]* ^pg357
@@ -141,8 +150,11 @@ describe any similar action against a Messianic pretender, and from his record i
 In his so-called 'Cleansing of the Temple', Jesus was in effect attacking the sacerdotal aristocracy; for the money-changers and otl1er traders could have operated there only under licence from the higher clergy who controlled the Temple. [^4-p331]The organisation and maintenance of the Temple and its cultus were an immense undertaking, involving enormous economic resources and the employment of a great body of officials and servants, control of which was lucrative and conferred great power and influence. <sup>5</sup>Moreover, 
 
 [^1-p331]: See pp. 108 ff.
+
 [^2-p331]: Acts iv. 2I, v. 28, 40, vii. 54 ff. It is significant that the only recorded execution of an apostle is that of James, on the order of King Agrippa I (Acts xii. I-2). It is also notable that Jesus ben Ananias, who predicted the fall of Jerusalem four years before the war, although arrested by the magistrates (ol O:pxoVTes) and brought before the Roman governor, was set free after a severe scourging, and allowed to continue his prophesying (Jos. *War,* VI. 300-9)·
+
 [^3-p331]: See [[John 11#^11-47|John xi. 47]]-5I. Cf. Brandon, *Fall of Jerusalem,* pp. I24-5i Dodd, *Historical Tradition in the Fourth Gospel,* p. 24; and below, pp. 342-3, cf. I 6- I 7.
+
 [^4-p331]: Cf. Jeremias, *Jerusalem,* I, 54-5; S.B. *Kommentar,* I, 85o-2; Winter, *On the Trial of Jesus,* p. I43; V. Eppstein in *Z.N.T.W.* 55 (I964), pp. 43, 45-6.
 6\. The Temple was also a place of safe-deposit for the money and treasure of private persons. Cf. Schiirer, *G.J. V.* n, 266-7I; Driver, *Judaean Scrolls,* pp. 32-3; Eisler, IHLOYL BALIAEYL, n, 49I-9, *Messiah Jesus,* pp. 489-93; N. Q. Hamilton, 'Temple Cleansing and Temple Bank', *J.B.L.* LXXXVIII (Eisler, IH~OY~ BA~IAEY~, 11, 499). Cf. Klausner, *Jesus of Nazareth,* .attack with a dispute between the sacerdotal aristocracy and the Sanhedrin. On the Zealots' 'Cleansing of the Temple' see Hengel, *Die :(,eloten,* pp. 223- 6. Cf. 0. Betz in *N.T.* 11 (I958), I34, witlt reference to Qumran policy in this connection. See above, p. 249·
 
@@ -165,7 +177,9 @@ unaided-indeed the J ohannine writer describes him as driving out, with a whip o
 1\. Mark xi. I5-::\_I8; Matt. xxi. I2-I3i [[Luke 19#^19-45|Luke xix. 45-6]]; John ii. I4-I6.
 
 [^2-p333]: Cf. J eremias, *Jerusalem,* n, 72-5; Eppstein in *z.N. T. w.* 55 (I g64)' pp. 46-7.
+
 [^3-p333]: According to Mark xi. I I, on the day of the Triumphal Entry, Jesus entered the Temple, and, lTEpti3AeljJ6:!levos lTaVTa (reconnoitring?), left, to spend the night at Bethany. The' Cleansing' took place on the next day (xii. I2, I5). Matthew and Luke describe the 'Cleansing' as following immediately on the Triumphal Entry. John's placing of the event at the very beginning of Jesus' ministry (ii. I3 ff.) has caused unending discussion among New Testament scholars, since it is linked with John's chronological scheme, which many prefer to the Synoptic version. However that may be, the logic of events points to the Cleansing of the Temple as constituting the decisive event which precipitated the final tragedy in Jerusalem. Cf. Klostermann, *Markusevangelium,* pp. I 28-30; Dodd, *Historical Tradition in the Fourth Gospel,* pp. 300-3; Montefiore, *Josephus and the New Testament,* pp. 22-g. According to E. Trocme ('Jesus Christ et le Temple: eloge d'un naif', *R.H.P.R.* 44, I964, p. 249), 'La vigoureuse intervention de Jesus clans le Temple aura valu a celui qui n'etait jusque-la qu'un obscur predicateur et guerisseur galileen forme a l'ecole de Jean-Baptiste une grande notoriete a travers toute la Palestine; elle aura attire vers lui des Zelotes et des sympathisants de ceux-ci, dont !'adhesion serait inexplicable sans un recours de Jesus a I' action directe.'
+
 [^4-p333]: It is likely that some of the money from the overturned tables would have been purloined in the excitement and confusion of the attack. Cf. Klausner, *Jesus of Nazareth,* p. 3I5· 6 •
 
 *[p. 334]* ^pg364
@@ -183,6 +197,7 @@ That Jesus was thus accused of uttering some such threat against 1 Acts xxi. 3 1
 s Pp. 234 ff. 
 
 [^4-p334]: [[Mark 14#^14-56|Mark xiv. 56-8]]. XIV, 59·
+
 [^7-p334]: See pp. 251 -3.
 
 *[p. 335]* ^pg365
@@ -194,7 +209,9 @@ If we are right in thinking that the 'Cleansing of the Temple' led to Jesus' arr
 3 Seep. 130, n. 5· 5 Mark xiv. 6r; [[Matthew 26#^26-63|Matt. xxvi. 63]]. 
 
 [^2-p335]: See above, pp. sB, 140.
+
 [^4-p335]: See pp. 130 ff.
+
 [^6-p335]: John xviii. rg.
 
 *[p. 336]* ^pg366
@@ -224,8 +241,11 @@ Whatever may have been Jesus' conception of his own status and office, it is evi
 26\. g-82; Manson, *Teaching of Jesus,* pp. u8-4I; Taylor, *St Mark,*
 
 [^4-p337]: Forster, *Palestinian Judaism in New Testament Times,* pp. I93-8; Schiirer, *G.J.V. u,* 533-44.
+
 [^5-p337]: Cf. S.B. *Kommentar,* I, I62-5.
+
 [^6-p337]: Cf. S. Mowinckel, *He That Cometh,* pp. 346-450; Goguel, *Jesus,* pp. 572- 8; Guignebert, *Jesus,* pp. 323-57; H. Conzelmann in *R.G.G.*<sup>3</sup>*,* m, 629-33.
+
 [^7-p337]: See pp. I 75 ff.
 
 *[p. 338]* ^pg368
@@ -239,6 +259,7 @@ In this attitude Jesus would have been very close to the Zealots, sharing with t
 5 See pp. 331 ff. N. Q.Hamilton (in *J.B.L.* LXXXVIII, 372) and C. Roth 
 
 [^3-p338]: See pp. 56, 199· (in *N.T.* IV, 1960, 175-6) think that Jesus' Cleansing of the Temple was an eschatological act, inspired by [[Zechariah 14#^14-21|Zech. xiv. 21]].
+
 [^6-p338]: Mark (xi. 18--19) follows his account of the incident with a note that the chief priests sought to destroy Jesus, because they feared him ( ecpoj3oiiVTO yap ooiT6v), for the people were astonished (e~mi\\i}crcreTo) at his teaching. On the ambiguous use of the particle y6:p here see Klostermann, *Markusevangelium,* p. 118. Then follows *(v.* 19) the inconsequential note that each evening Jesus left the city-'wie ein gro.Ber Teil der Festpilger' (Kloster-
 
 *[p. 339]* ^pg369
@@ -278,7 +299,9 @@ What, then, we must ask, was the intention of Jesus that night, accompanied as h
 The evidence at our disposal points, therefore, to the execution of Jesus as having its original cause in the reaction provoked by his attack on the sacerdotal aristocracy, whose chief members were responsible to the Romans for native affairs. This attack was motivated by Jesus' desire to prepare Israel spiritually for the advent of the kingdom of God. The Jewish aristocracy, through their cooperation with the Roman occupying power, appeared to him as the chief obstacle to the achievement of his II).ission. With popular support, he had ultimately challenged its leaders by attacking the Temple trading system, from which they derived a considerable revenue .. 
 
 [^1-p342]: See p. 340, n. 6. The account of the Agony in Gethsemane seems to preserve the memory that Jesus was then faced with a grievous decision about his future action ([[Mark 14#^14-34|Mark xiv. 34-6]]). Cf. Klostermann, *Markusevangelium,* pp. I 50-1.
+
 [^2-p342]: See above, pp. 306, 317·
+
 [^3-p342]: See above, p. 306. 'Auch sind hier und dort kleinere Ziige in apologetischem Interesse angefiigt: so Mk. I4, 48 f., der Vorwurf der niichtlichen Verhaftung, Mt. 26, 52-54 das Verbot des bewaffneten Widerstandes und die Betonung der Freiwilligkeit der Hingabe Jesu (ein Motiv, das bei Joh 10, I8; I8, 7; Ig, I I noch stiirker hervortritt)' (Bultmann, *Gesch. d •* *.ryn. Trad.* p. 305).
 
 *[p. 343]* ^pg373
@@ -290,8 +313,11 @@ The Gospels record no contact of Jesus with the Romans until he was brought befo
 1\. Cf. Schiirer, *G.\]. V.* I, 43I-49·
 
 [^2-p343]: Cf. Jos. *War,* v. 238-45: 'a Roman cohort was permanently quartered there, and at the festivals took up positions in arms around the porticoes to watch the people and repress any insurrectionary movement' (trans. H. Stj. Thackeray, Loeb *Josephus,* m, 277).
+
 [^3-p343]: Kai i\\eyet a\\JTois· Tivos f} e!KC:>V aih11 Kai f} hnypacpf); ol Se ehrav rohc;>· Ka!aapos (Mark xii. I6). 'Man sieht, solch ein Denar ist Machtsymbol und Kultsymbol zugleich' (Stauffer, *Christus und die Caesaren,* p. I36). On coinage in circulation in Palestine at this period cf. Schiirer, *G.\]. V.* u, 53-5; for examples see Reifenberg, *Israel's History in Coins,* pp. 24, 2g; Frontispiece and Plate I. Cf. B. Kanael, 'Ancient Jewish Coins and their Historical Importance', *B.A.* xxvi (I963), 54-5.
+
 [^4-p343]: See p. 29.
+
 [^6-p343]: Luke xiii. I -2: see above, pp. 65, 78.
 
 *[p. 344]* ^pg374
@@ -301,8 +327,11 @@ of Pilate's other offensive acts, nor unconcerned by their affront to his ancest
 In seeking more explicit evidence ofJesus' attitude to the Romans, we must begin by noticing the significance of two facts. The first is that the Synoptic Gospels agree in representing Jesus as announcing that the kingdom of God was at hand, and as regarding himself as having a crucial role in preparing for its advent. [^2-p344]Now, whatever may have been his exact conception of the kingdom of God and the mode of its establishment, there can be no doubt that Jesus looked forward to the achievement of an apocalyptic situation that necessarily involved the elimination of the Roman government inJudaea. Further, even though he directed his attack against the Jewish leaders, since he saw these men as impeding Israel's spiritual preparation for the kingdom of God, behind them, and the authority they wielded, he must have known lay the power of Rome. Accordingly, it would seem inevitable that Jesus must have reckoned with the fact that his mission would ultimately bring him into conflict with the Roman government in Judaea. That he did foresee this seems to be attested by the second fact alluded to above for our consideration. It is the ascription to Jesus of a saying which was probably of Zealot origin, as we have seen: 'If any man would come after me, let him deny himself and take up his cross and follow me. ' [^3-p344] Crucifixion was a Roman punishment, and, as the records of Josephus show, hundreds of Jewish patriots suffered the penalty during the period A.D. 6-70.[^4-p344]Unless this saying is a prophecy *ex eventu,* which the Evangelists have assigned to Jesus, it means that 
 
 [^1-p344]: See above, pp. 77~.
+
 [^2-p344]: Cf. Goguel, *Jesus,* pp. 310 ff.; Guignebert, *Jesus,* pp. 394 ff.; Klausner, *Jesus of Nazareth,* pp. 398 ff.; Conzelmann in *R.G.G.* <sup>3</sup>*,* m, 641-5.
+
 [^3-p344]: [[Mark 08#^8-34|Mark viii. 34]]: see above, p. 57· There is no justification for Stauffer's assertion, making reference to [[Jeremiah 27#^27-6|Jer. xxvii. 6 ff.]], 'so verkiindet Jesus im Zeitalter der romischen Fremdherrschaft: Der Kampf gegen den Kaiser ist ein frevelhafter und aussichtsloser Kampf gegen den Gott, der ihn berufen hat, ist Theomachie!' *(Christus und die Caesaren,* Hamburg, 1952, p. u6.) The only piece of evidence he cites in support of his view is the parable given in Luke xix. I 1-27, which he interprets as being based on Augustus' confirmation of Archelaus' claim to lordship over Judaea. He argues therefrom that it represents Jesus' view that 'der Kaiser von Gottes Gnaden ist die letzte geschichtliche Quelle aller politischen Legitimitiit'. It is passing strange that one who held such a view of the Roman emperor should have been regarded by Jews as the Messiah of Israel and executed by Pilate as a rebel against Rome!
+
 [^4-p344]: See above, p. 1.
 
 *[p. 345]* ^pg375
@@ -324,6 +353,7 @@ Accordingly, we may legitimately ask whether, behind Mark's apologetical use of 
 faced with a maliciously devised dilemma, cleverly avoided impaling seiner doch wohl antiromischer Gesinnung dem Dilemma mit einer Antwort, die sich gleich weit von der relativen Staatsfreundlichkeit des romischen Burgers Paulus, wie von revolutionarem Zelotentum halt' (Klostermann, *Markusevangelium,* p. 124). The attempt, sometimes made, to argue that Jesus asked to see a coin because he would not carry an image-bearing object, is adequately answered by Goguel, 'Jesus et le Messianisme politique: Examen de la theorie de M. Robert Eisler', *Revue historique,* CLXII (1929), 42-3. H. Loewe in his *'Render unto Caesar',* while rightly stressing that 'the question of tribute-paying was regarded as a religious and not as a political one' (p. 66), misses, despite the interesting material he reviews, the real issue, since he neglects to consider the passage in its original context, i.e. the Markan Gospel. Hengel *(Die Zeloten,* p. 346), although he recognises that' man wollte Jesus als politischen Revolutionar festlegen ', does not appreciate the complexity of the problem underlying Mark's account of the incident. Cf. Sherwin-White, *Roman Society and Roman Law in the New Testament,* pp. 1 76-7.
 
 [^1-p346]: See above, pp. 33 ff.
+
 [^2-p346]: This consideration constitutes a fatal objection to the argument of those scholars who maintain that, from the time that he gave his ruling on the
 
 *[p. 347]* ^pg377
@@ -359,6 +389,7 @@ upon which they drew was authentic, this means that Jesus' entry into Jerusalem,
 Our inquiry so far seems to have led us to certain reasonably based conclusions of considerable significance concerning the chain of events that led to Jesus' execution by the Romans, and it would be well now to recapitulate them. Believing that the kingdom of God was at hand, Jesus sought to prepare his fellow-Jews morally and spiritually for membership of this kingdom, whose advent would achieve Israel's destiny as the Elect People of God. Two great obstacles stood in the way of the fulfilment ofhis mission: the Jewish sacerdotal aristocracy and the Roman government. Jesus seems to have been more concerned with the former, probably because its members were Jews and the traditional leaders of Israel. Consequently, he saw their mode oflife and abuse of power as constituting a scandalous contradiction of his ideal of a holy people, ready and prepared for the coming of God's kingdom. Their power, therefore, had to be challenged, and perhaps broken. How long Jesus took in coming to this conclusion is not clear ;[^2-p350]but our sources point to his finally making a decision to go to Jerusalem at the Passover, for action that he believed would be fateful. He carefully planned an entry into the city, which was designed to demonstrate his Messianic role. This challenging action was quickly followed by his attack on the Temple trading system. The Gospels do not permit us to know whether this 'Cleansing of the Temple' was intended to be the prelude
 
 [^1-p350]: See above, p. 333·
+
 [^2-p350]: It may be significant that Mark places the first prophecy ofJ esus' rejection and destruction by the Jewish leaders immediately after the Caesarea Philippi Confession (viii. \_31), and the next (x. 33-4) in the foreboding account of the journey to Jerusalem (x. 32), which is clearly intended to convey a sense of crisis.
 
 *[p. 351]* ^pg381
@@ -411,7 +442,9 @@ to Roman suzerainty which was started by Judas of Galilee in A.D. 6, and which e
 This conclusion is not a surprising one; for there seems to be nothing in the principles of Zealotism, as enunciated by Judas of Galilee, that we have definite evidence for knowing that Jesus would have repudiated. [^3-p355]The supreme emphasis upon the sovereignty of God, with its corollary that the Israelite should recognise no other 
 
 [^1-p355]: Xpto-rov 'lt')o-ov -rov llcxp-rvpt'\\o-cxv-ros eTil Tlov-rlov Tltf.a-rov *-rijv* t&lt;cxf.i)v b!lof.oyicxv ... ([[1 Timothy 06#^6-13|I Tim. vi. 13]]). Cf. E. Lohmeyer in *Congres d'Histoire du Christianisme,* n, I 30-4; C. K. Barrett in *New Testament Essays* ( ed. A. J. B. Higgins), pp. 1 1-15; Frend, *Martyrdom and Persecution,* pp. 81-2. 'Jesus is a martyr *against* his nation, not for it. The fact that the Romans are nowhere denounced for their part in Jesus' murder is no doubt due to this; and also possibly to the editing of Mark and Luke, though this is purely hypothetical' (J. Downing, 'Jesus and Martyrdom', *J. T.S.* XIV, n.s., 1963, 290). The situation is rather that, to the original Jewish Christians, Jesus was a martyr *for* Israel; but Mark and the other Evangelists, as we have seen, represent h~m as martyred *by* Israel.
+
 [^2-p355]: See above, p. 20 1. -
+
 [^3-p355]: The one obvious objection that would b~ made to this statement by conservative scholars, namely, that Jesus would not have resorted to violence, cannot be maintained in the face of the evidence of Jesus' arming of his disciples and his attack in the Temple.
 
 *[p. 356]* ^pg386
@@ -425,9 +458,13 @@ Recent research has revealed that Jesus and his movement did not constitute an i
 7 Seep. 3511, n. 1. 
 
 [^2-p356]: See pp. 33, 54, 56 ff.
+
 [^4-p356]: See pp. 346 ff.
+
 [^5-p356]: Pp. 57, 26g.
+
 [^6-p356]: See above, p. 263, n. 3, p. 351.
+
 [^8-p356]: Pp. 191 ff.
 
 *[p. 357]* ^pg387

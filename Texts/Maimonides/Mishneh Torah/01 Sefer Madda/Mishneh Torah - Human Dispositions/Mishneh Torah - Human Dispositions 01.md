@@ -100,121 +100,192 @@ One[^90] who follows this path brings benefit and blessing to himself, as [the a
 [^1]: Many commentaries assume that the Rambam is stating simply that there are many personality types, which he proceeds to describe: e.g., the angry man, the calm man, etc. They quote various sources in support of this viewpoint, among them *Berachot* [[Berakhot 58#58a|58a]]: "Whoever sees a multitude of Jews recites the blessing: 'Blessed is...the wise who knows the hidden secrets,' because just as their natures are not similar, neither are their faces."  
     However, by stating that the many character traits are possessed by "each and every man," it is possible that Rambam is implying more than that there are people with different traits. Though in *Moreh Nevuchim* (The Guide to the Perplexed) 2:40 the Rambam himself elaborates upon that idea, it can be said that here his intent is different. He is emphasizing the degree to which each individual's personality is a combination of different traits, which may be unrelated and even distant from each other. Anger, generosity, and modesty, for example, can be found together in the same person, much in the same way that tenants of all sorts - unrelated to each other - can be housed in a common building.  
     To illustrate these traits, the Rambam employs concrete examples of extreme personalities, so that the contrasts can be appreciated more easily.
+
 [^2]: Obviously, anger or passivity are not these individuals' only traits. Surely, they share the full spectrum of human emotions. However, in these individuals, these traits are most prominent.  
     See Halachah 2:3 for a further discussion of anger.
+
 [^3]: or, if at all, he will be slightly angry, [perhaps once] during a period of several years.
+
 [^4]: Chapter 2, Halachah 3, also deals at length with the contrasts between pride and humility.
+
 [^5]: *Kohelet Rabbah* 1:34 states: "No person will die having accomplished [even] half of what he desires." This statement is difficult to comprehend since there appear to be many successful individuals who achieve their desires. Nevertheless, their accomplishments do not necessitate that their desires will be satisfied. As the *Midrash* continues: "A person who possesses 100 silver pieces desires 200. One who possesses 200 desires 400."  
     Desire itself is never satisfied. Instead, it puts the person on a constantly moving treadmill, with ever-increasing aims. As soon as one reaches one goal, he instinctively begins the pursuit of another.
+
 [^6]: This pair of contrasting personality types deal with a person's appetites which can be satisfied by sensual experience. For example, gluttony is stimulated and satisfied by taste. In contrast, the traits mentioned below - the desire for money or the lack of desire for it - do not involve the senses.
+
 [^7]: Literally, "whose soul is not satisfied." Perhaps the Rambam uses "soul," both here and with regard to the man ruled by his sensual appetites, because it is the desire that characterizes the man, not the performance of an action as such. A man may never indulge his passion for food, or actually amass money and yet, be gluttonous or greedy. Though, in practice, his ability to gratify his ambitions may be limited by external factors, the desires of his soul are, nonetheless, unlimited.
+
 [^8]: Here, the Rambam describes an example where the desire for money becomes a goal in itself. In contrast, a man who gathers money so that he can buy things or achieve power is not interested in money per se. Although he may be faulted for different reasons, he is not greedy for money. On the other hand, for the "lover of money," money itself becomes his raison d'etre.
+
 [^9]: literally, he "cuts himself short." [[II Kings 19#^19-26|II Kings 19:26]] employs a similar usage of the root *ketzar*: "And the inhabitants are broken, with shortened (i.e., weakened or useless) arms."
+
 [^10]: This refers to a lazy person, who will not bestir himself even for that which is necessary. In Chapter 2, Halachah 7, this type is described clearly as: "lazy and an idler." This is the description, too, in the Rambam's Introduction to *Avot - Shemonah Perakim*, Chapter 4.
+
 [^11]: In contrast to the "lover of money" mentioned above, the miser is not as bent on acquiring new wealth as much as hoarding the money and possessions he has.  
     who torments himself with hunger, gathering [his possessions] close to himself. - The terminology the Rambam uses emphasizes the miser's need to be close to his money and possessions. Similar, but not exactly correspondent, expressions are found in the Bible ([[Proverbs 13#^13-11|Proverbs 13:11]] and the Talmud (*Bava Kama* [[Bava Kamma 80#80a|80a]]).
+
 [^12]: *Chullin* [[Chullin 84#84b|84b]] gives examples of such behavior: wearing linen clothing, using glass utensils, and hiring workers without supervising them.
+
 [^13]: The Rambam is not referring to an average optimist and a pessimist. Rather, he describes personalities who do not have a grip on reality. *onain* is the term used for the bereaved who has not yet buried his dead. *mehulal*, the other extreme, is used by [[Jeremiah 51#^51-7|Jeremiah 51:7]] to refer to a state of intoxication and delirious drunkenness.
+
 [^14]: Our translation of *shua* is clearly evident from *Hilchot Matnot Ani'im* 7:11. It follows that *chili* represents the opposite extreme. (See also Ibn Ezra, [[Isaiah 32#^32-5|Isaiah 32:5]].)  
     The difference between this pair of traits and the miser-spendthrift pair mentioned above is that the latter refers to a person's conduct toward himself, while the former refers to his conduct with regard to others. The stingy man, unlike the miser, may spend money for his own needs, but is tightfisted when others are concerned. By the same token, a freehanded man need not necessarily indulge himself, though he is generous when giving charity. Though this may sound praiseworthy, when taken to extremes it can also prove dangerous, because a person may hurt himself in the process of giving excessively to another. (See *Lechem Mishneh*.)
+
 [^15]: We find a longer treatment of personal characteristics in the Rambam's *Shemonah Perakim*, Chapter 4.
+
 [^16]: The *Lechem Mishneh* understands this as follows: Let us imagine a line drawn from one extreme to another - between the stingy and the freehanded, for example. All who are neither stingy nor freehanded stand between them. They are all intermediate, whether they tend towards stinginess or freehandedness. Each point along this imaginary line stands apart - "is distant" - from the others on that line. In a diagram, this idea might be depicted as follows:  
     X-----\*-------\*------\*-------\*----------\*---------\*X  
     Stingy intermediate points freehanded.  
     However, it is highly unlikely that all the Rambam wishes to teach us is that there are many intermediate points of temperament between the extremes. After all, that is self-evident. Furthermore, in each set of associated temperaments - for example, stinginess and freehandedness - only three points on the line are of importance to the Rambam in clarifying his view of personality development: the two extremes and the midpoint. Why should he mention all the other intermediate possibilities?  
     Thus, it appears that the Rambam is telling us that there is a midpoint temperament between each pair of contrasting extremes. Given the entire range of human temperaments, there are a number of midpoints which are not necessarily related to each other. For example, the midpoint for generosity may be very different from the midpoint for humility. Thus, in Halachah 1, the Rambam stated that our personality traits are "different and distant;" in this halachah, he makes a parallel statement about the midpoints.
+
 [^17]: i.e., the Rambam distinguishes between genetic traits and those that are acquired.
+
 [^18]: Here, we see an interrelation between body and soul. Certain temperaments are produced by or relate to particular physical characteristics.  
     [In *Shemonah Perakim*, Chapter 4, the Rambam states: "From the outset of a person's [life], he has neither virtues nor vices...." However, there is not necessarily a contradiction between *Shemoneh Perakim* and this halachah. The possession of certain character traits does not determine whether one will use them for a vice or a virtue.]
+
 [^19]: i.e., these traits are not transferred genetically. However, a person is born with a tendency towards them.  
     In *Shemonah Perakim*, Chapter 4, the Rambam elaborates on this issue at length. He explains that some people are born with a brain whose internal chemistry is prone to intellectual achievement. However, if this person does not develop this tendency, he will not automatically become a thinker.  
     Similarly, others have leanings towards courage or cowardice. Nevertheless, these are merely tendencies, and they will not manifest themselves unless consciously developed. Also, these tendencies are, at all times, subject to man's control. We are granted free will, and choose our course of behavior.
+
 [^20]: In *Shemonah Perakim*, Chapter 4, the Rambam writes: "From his youth, one becomes accustomed to acting in accordance with the accepted behavior of one's family and locale." In these few words, the Rambam includes all the people who might influence a person's character development: his parents, siblings, teachers, peers, and others. Also, note Chapter 6, Halachah 1.
+
 [^21]: There are two ways of acquiring such traits
+
 [^22]: i.e., an intuitive realization of the correctness of a certain course of behavior stemming from one's own creative thought.
+
 [^23]: i.e., through study a person understands the value of a certain character trait and sets out to acquire it.
+
 [^24]: Unlike the inborn or easily acquired traits, these qualities must first be accepted intellectually. Then, through habitual actions, they become part of the personality. (See Halachah 7 for a detailed explanation of such a process of behavioral modification.)
+
 [^25]: i.e., the path described in this and the following halachot.
+
 [^26]: except in certain cases, as explained in Chapter 2, Halachah 3.
+
 [^27]: if that his nature
+
 [^28]: and modify his behavior in this direction.  
     In *Shemonah Perakim*, Chapter 4, the Rambam elaborates on this concept, contrasting hedonism with asceticism, and pointing out how neither represents a healthy and mature approach to life.
+
 [^29]: i.e., a genetic trait, as mentioned in the previous halachah
+
 [^30]: a trait which is easily acquired because of the individual's natural tendencies, as mentioned in the previous halachah.
+
 [^31]: the third type of trait mentioned in the previous halachah.
+
 [^32]: See Chapter 2, Halachah 2, for an extensive description of the process of correcting one's excesses of temperament.
+
 [^33]: i.e., the path that good men follow. This translation is based on the fact that the word "path" is in the singular, while the modifier "good" is in the plural.
+
 [^34]: Perhaps the Rambam is borrowing a biblical phrase here: "That you walk in the path of the good, and guard the way of the righteous" ([[Proverbs 02#^2-20|Proverbs 2:20]]).  
     The nature of "the straight path" is explained in detail in the following halachah.
+
 [^35]: This expression is also used in *Avot* 2:1. In his commentary on that Mishnah, the Rambam cites his explanation of the middle path in the fourth chapter of *Shemonah Perakim*.
+
 [^36]: i.e., a path develops out of a series of midpoints.
+
 [^37]: These statements echo the opening remarks of the fourth chapter of *Shemonah Perakim*:  
     The good acts are those balanced ones midway between two extremes. Both of the extremes are bad - one reflects excess and the other, want. The virtues [good traits] are temperaments and habits which are midway between these two bad tendencies.  
     These actions [good actions] are produced as a result of these [the good] traits.  
     Despite the similarity between the Rambam's statements here and those quoted, there is a slight difference. Here, the Rambam focuses on good traits, while in *Shemonah Perakim*, he emphasizes good actions.
+
 [^38]: The Rambam appears to be referring to *Sotah* [[Sotah 5#5b|5b]]: "Whoever evaluates his paths in this world will merit and witness God's salvation."
+
 [^39]: At the conclusion of Chapter 4 of *Shemonah Perakim*, the Rambam writes:  
     When a man weighs his actions constantly and directs them towards their midpoints, he will be on the most elevated human plane possible. He will thereby approach God and grasp His will. This is the most perfect path in the service of God.  
     Constant introspection is a necessary element in any program of personal and spiritual growth. Even when a person has the highest goals, unless he frequently looks himself squarely in the mirror and examines his behavior, he may make gross errors.
+
 [^40]: We have enclosed the words "of body" with brackets because they are not found in authoritative manuscripts of the *Mishneh Torah* and are problematic. Though a properly balanced temperament may also lead to physical health, this does not appear to be the Rambam's intent.  
     If the Hebrew *bigufo* is omitted as suggested, the meaning of *shaleim* would be altered from "sound" to "complete" or "perfect."
+
 [^41]: Our translation is based on Chapter 2, Halachah 3. (Note also the commentary of the *Knesset HaGedolah*.)
+
 [^42]: The Rambam appears to be referring to matters which evoke personal feelings. Nevertheless, the *Misrat Moshe* interprets this passage as referring to an instance in which Torah law would require a display of anger - e.g., a colleague's transgression of Torah law.
+
 [^43]: This refers to physical desire.
+
 [^44]: The Rambam quotes supporting verses for only two of the "intermediate traits;" perhaps, because his description of the middle-of-the-road position for these traits might appear to veer toward one extreme. We might expect the intermediate point between gluttony and its opposite extreme to be eating to one's satisfaction. However, here we are told that we should desire only what is sufficient in order to exist.  
     However, the Rambam is not telling us to deny ourselves satisfaction. [[Torah 46 - Eikev#^8-10|Deuteronomy 8:10]] teaches: "You shall eat and be satisfied, and bless God, your Lord." Based on that verse, *Berachot* [[Berakhot 48#48b|48b]] explains that we are obligated to recite grace only when we feel physically satisfied. (The Rambam quotes this concept in *Hilchot Berachot* 1:1.) In Chapter 3, Halachah 1, and in *Shemonah Perakim*, Chapter 4, he elaborates on the negative aspects of asceticism.  
     Thus, his intent cannot be that we deny our desires, but rather that we school ourselves to desire and feel satisfied with what we need, without excess. This is a dominant theme in the sections on diet in Chapter 4, and those describing the conduct of a Torah sage in Chapter 5.
+
 [^45]: The verse continues: "But the belly of the wicked will want." The commentaries note that the contrast between the two does not center on the quantity of food they eat, but on the attitude with which they eat it. Because the righteous are not given over to pursuit of gratification, they can be satisfied. Conversely, it is the gluttony of the wicked which actually causes their want.  
     Note also the Midrashic interpretations of this verse:  
     "The righteous..." This refers to Eliezer, who said to Rebecca: "Let me sip a little water" ([[Torah 05 - Chayei Sara#^24-17|Genesis 24:17]]) - a single sip.  
     "And the belly of the wicked will want." This refers to Esau, who said to Jacob: "Stuff me..." ([[Torah 06 - Toldot#^25-30|Genesis 25:30]]). Rabbi Yitzchak ben Zeira said: he opened his mouth agape like a camel and said: "I will open my mouth and you put it in" (*Tanchumah; Pinchas* 13; *BaMidbar Rabbah* 21:18).
+
 [^46]: Here again, the Rambam quotes a Biblical verse, because his definition of an intermediate path may seem extreme. The verse also clarifies that the Rambam is not denigrating the idea of work, but excessive preoccupation with one's profession as a means of acquiring possessions.  
     It is highly unlikely that the Rambam would criticize work per se. Note [[Proverbs 06#^6-6|Proverbs 6:6]]: "Sluggard, go to the ant, see its ways and become wise;" and *Berachot* [[Berakhot 8#8a|8a]]:  
     He who enjoys the toil of his hands is greater than one who fears God..., as it is stated: "If you eat of the work of you hands, you are fortunate and will possess the good" ([[Psalms 128#^128-2|Psalms 128:2]]).  
     "You are fortunate" - in this life, and "will possess the good" - in the world to come.  
     The Rambam, himself, quotes the latter passage in *Hilchot Talmud Torah* 3:11. Thus, the Rambam is not criticizing a person for working hard, but rather teaching us that work and its profits should not be our greatest priorities.
+
 [^47]: The verse in its entirety expresses a contrast: "A little is better for the righteous man than the great wealth that many [of the] wicked possess." Note the commentary of ibn Ezra: "The righteous man will be happier with his small lot than the wicked with their great wealth."
+
 [^48]: The printed editions of the *Mishneh Torah* have *yikfotz* (close his hand). However, most manuscripts use the term: *yikabetz* (gather).  
     *Yikfotz* recalls [[Torah 47 - Re'eh#^15-7|Deuteronomy 15:7]]: "Do not close your hand from your needy brother." Thus, the contrasting extreme would be freehandedness. *Yikabetz*, like *vikubatz* in Halachah 1, reflects miserly behavior, the opposite of which is being a spendthrift. The variant texts might reflect a difference of opinion as to which opposing extremes the Rambam had in mind.
+
 [^49]: See *Hilchot Arachin* 8:12-13, which places restrictions on the extent of one's generosity.
+
 [^50]: Lending is also a form of charity. In *Hilchot Matnot Ani'im* 10:7, the Rambam lists eight degrees of charity. The highest is the support of a fellow Jew who has become poor by giving him loans or the like.
+
 [^51]: Such expressive "happiness" is often a sign of inner discontent and suffering.
+
 [^52]: his joy should be a composed sense of satisfaction.  
     [In this context, see the Ramah's conclusion of his notes to *Shulchan Aruch, Orach Chayim* (697:1) in which he quotes [[Proverbs 15#^15-15|Proverbs 15:15]]: "A good-hearted person is always celebrating."]
+
 [^53]: In his commentary on *Avot* 1:14, the Rambam defines "a friendly countenance" as "a spirit of will and gentility."
+
 [^54]: In *Shemonah Perakim*, Chapter 4, the Rambam mentions many other "intermediate traits." Among them:  
     Courage is the midpoint between arrogance and fear. Humility is the intermediate between pride and meekness. Earnestness is the intermediate between boasting and lowliness....Patience is the intermediate between rashness and insensitivity...
+
 [^55]: i.e., those whose behavior is controlled by their intellect
+
 [^56]: Note the contrast to the "pious" of the following halachah. Though the published editions of the *Mishneh Torah* include this line as the final concept in our halachah, many of the authoritative manuscripts place it as the beginning of Halachah 5.
+
 [^57]: in an effort to achieve the desired intermediate path
+
 [^58]: to compensate for a possible error in calculating that mean.
+
 [^59]: In *Shemonah Perakim*, Chapter 4, the Rambam explains that one can refine and correct his behavior by balancing a tendency for excess in one direction by intentionally forcing oneself to adopt the opposite extreme. (See Chapter 2, Halachah 2.) He continues:  
     Therefore, the pious did not allow themselves to fix their traits at the midpoint, but would bend slightly to the side of excess or want as a hedge and a guard.  
     He goes on to explain that, even for the pious, these extremes are not ends in themselves, but means to help them overcome natural tendencies. Thus, both the pious and a person of underdeveloped character may act in an extreme manner. However, the difference between them is that the behavior of the pious is carefully calculated with the intent of refining his personality, while the underdeveloped person does so without thought, as a natural response to his whims and fancies.
+
 [^60]: i.e., how is this concept exemplified?
+
 [^61]: At first glance, the choice of pride as an example is rather problematic, because in Chapter 2, Halachah 3, the Rambam states:  
     There are traits for which it is forbidden for a person to follow an intermediate path.... Such a trait is pride...The proper path is not that a person should merely be humble, but rather hold himself very lowly...Therefore, our Sages commanded: "Be very, very humble of spirit."  
     It is possible to explain that because of the negative aspects of the quality of pride, the middle path that one should follow in regard to it does not resemble the middle paths of the other traits and may appear as an extreme. Pride represents one extreme, its converse being absolute lack of concern for self to the extent that one walks around in rags. Between these extremes are a number of intermediate points: modesty - which might normally be considered as the intermediate level; humility - which the Rambam considers as the true middle path; and extreme humility - which is pious behavior (*Lechem Mishneh*). See also the commentary on the halachah cited above.  
     Possibly, it is the exaggerated contrasts in this set of traits that make it the most fitting example to demonstrate the principle of the middle path that the Rambam espouses. These gross differences allow for the possibility of clear distinctions.
+
 [^62]: The *Lechem Mishneh* emphasizes that one need not actually adopt the other extreme, but rather, he should tend his behavior in that direction.
+
 [^63]: which represents a deviation from the mean.
+
 [^64]: In his commentary on *Avot* 5:6, the Rambam contrasts the wise and the pious:  
     A boor is one who lacks both intellectual and ethical development...A wise man possesses both these qualities in a complete way, as is fitting.*A pious man is a wise man* who increases his piety - i.e., his emotional development - until he tends toward one extreme, as explained in Chapter 4 [of *Shemonah Perakim*], and his deeds exceed his wisdom.  
     Thus, the wise man is one whose ethical behavior has been developed to the point at which it reflects his intellectual sophistication. He is able to appreciate the mean of each trait and express it within the context of his daily life. The pious man also possesses this quality, but due to his desire for ultimate self-refinement, he is willing to sacrifice himself and tend slightly to the extreme in certain instances.  
     Although in this halachah, the Rambam differentiates between the middle path - the path of the wise - and "beyond the measure of the law" - the path of the pious, in *Hilchot Yesodei HaTorah* 5:11 he describes how, "according to the greatness of the Sage, should be the care he takes to go beyond the measure of the law." Thus, it appears that a truly wise man will ultimately seek pious ways.
+
 [^65]: i.e., there is a mean which is the path of wisdom, and a deviation from that course with a positive intent, which is the path of piety.
+
 [^66]: This expression is borrowed - out of context - from the Mishnah, *Berachot* 5:1.
+
 [^67]: excess (*Shemonah Perakim*, Chapter 4)
+
 [^68]: lack (ibid.). Depending on the circumstances involved, deviation to either extreme can produce positive results.
+
 [^69]: by our Sages...
+
 [^70]: We find this expression used in a number of Talmudic passages. For example, *Bava Metzia* [[Bava Metzia 30#30b|30b]] relates that Rabbi Yishmael, Rabbi Yossi's son, was on a journey. A porter traveling the same road asked him to help lift a load of wood. Rabbi Yishmael was a distinguished scholar, and, therefore, this base task would have been demeaning for him. Nevertheless, rather than refuse the porter entirely, Rabbi Yishmael purchased his entire load from him. This was considered as behavior beyond the measure of the law.  
     See also *Berachot* [[Berakhot 7#7a|7a]] and 45b, *Bava Kama* [[Bava Kamma 100#100a|100a]], *Bava Metzia* [[Bava Metzia 24#24b|24b]]. However, in these and other Talmudic passages where the term is used, the emphasis appears to be on the ethical or legal imperative involved, without stressing the aspect of character development. [Note *Hilchot Aveidah* 11:7, the *Shulchan Aruch, Choshen Mishpat* 259:3 and 263:3, and *Sefer Mitzvot Katan* (Positive Commandment 49), which mention our obligation to go beyond the measure of the law.]  
     Thus, the Rambam appears merely to be borrowing the term used by the Sages without referring to any specific instance. The path of behavior prescribed by one's intellect corresponds to law, and an intentional deviation from that course for the sake of piety is "beyond the measure of the law."
+
 [^71]: The *Sifre* (on [[Torah 47 - Re'eh#^13-5|Deuteronomy 13:5]] states: 'You shall walk after God, your Lord' - this is a positive commandment." The *Zohar* (*Ki Tetze*, p. 270) also makes a similar statement. However, neither source elaborates.  
     Among the *Geonim*, the *Ba'al Halachot Gedolot* does list it as a commandment. Rav Sa'adiah Gaon does not include it as a specific commandment.  
     *Sefer HaMitzvot* (positive mitzvah 8) and *Sefer HaChinuch* (mitzvah 610) include this as one of the Torah's 613 mitzvot. However, the Rambam's inclusion of this commandment as one of the 613 mitzvot is somewhat problematic. In *Shoresh* 4 of his introduction to *Sefer HaMitzvot*, he states that he does not include any "general mitzvah" which does not involve a specific activity in his reckoning of the 613 mitzvot. For this reason, "Observe My statutes" ([[Torah 30 - Kedoshim#^19-19|Leviticus 19:19]]) or "Be holy" ([[Torah 30 - Kedoshim#^19-2|Leviticus 19:2]]) are not included in the 613 mitzvot. On the surface, the command the Rambam mentions here also seems to be an all encompassing charge to develop ourselves spiritually without any specific activity.  
     Rav Avraham, the Rambam's son, was asked this question, and he explained that here the specific activity implied by this commandment is the development of our emotions and character traits. A somewhat deeper perspective can be gained from the Rambam's own description of the mitzvah. When listing the mitzvot at the beginning of these halachot, he states that the mitzvah is "to imitate God's ways" and in *Sefer HaMitzvot*, he defines the mitzvah as "to imitate Him, blessed be He, according to our potential."  
     The implication of these statements is that man has a constant obligation to carry out all of his deeds and guide the progress of his emotional development with the intent of imitating God. (See *Likkutei Sichot, Tavo* 5748, and note the commentary on the following halachah.)
+
 [^72]: Despite the Rambam's praise of piety, his very description of it as "beyond the measure of the law" implies that, though it is desirable, it cannot be considered as obligatory.  
     **and they are good and straight paths - as \[[[Torah 50 - Ki Tavo#^28-9|Deuteronomy 28:9]]] states: "And you shall walk in His ways." -** The Rambam describes this mitzvah in the following halachah. Indeed, the authoritative manuscripts of the *Mishneh Torah* include the paragraph we have just explained as the beginning of Halachah 6. As emphasized in the introduction to this text, the Rambam has structured the *Mishneh Torah* with the intent of "revealing all the laws to the great and to the small with regard to each and every mitzvah." He does not mention philosophical and ethical concepts unless they are halachot - i.e., practical directives for our behavior.  
     In this context, we can understand the structure of this chapter. The Rambam set out to describe the mitzvah of following God's ways. As stated in this halachah, he perceives this to mean developing our personalities by emulating the qualities which the Creator reveals. As he states in the following halachah, those qualities are identical with the middle path of human behavior. Therefore, in the initial halachot of this chapter, the Rambam sets out to describe the nature of human personality and the ideal temperaments - the middle path - that man should seek to achieve. Having laid down this foundation, he is able to define that mitzvah in this halachah and begin offering directives for its fulfillment in Halachah 7.  
@@ -258,19 +329,26 @@ One[^90] who follows this path brings benefit and blessing to himself, as [the a
     And what are the ways of God? Righteousness and justice, as it is stated: "And they will keep the path of God to do righteousness and justice" ([[Torah 04 - Vayera#^18-19|Genesis 18:19]]).  
     **as \[[[Torah 04 - Vayera#^18-19|Genesis 18:19]]] states: "for I have known Him so that he will command his descendants...to keep the path of God." -** Since the path of God is mentioned in the context of Abraham's service, it appears that walking in those ways is not synonymous with the performance of the 613 commandments - for they had not been given in Abraham's time. Rather, it must refer to ethics, qualities like righteousness and justice, which are mentioned in that verse.  
     **One who follows this path brings benefit and blessing to himself, as [the above verse continues]: "so that God will bring about for Abraham all that He promised." -** The Rambam concludes his description of the obligation to develop our characters with the assurance that, ultimately, this course of behavior will bring us benefit and blessing.
+
 [^73]: As emphasized in the introduction to this text, the Rambam has structured the *Mishneh Torah* with the intent of "revealing all the laws to the great and to the small with regard to each and every mitzvah." He does not mention philosophical and ethical concepts unless they are halachot - i.e., practical directives for our behavior.  
     In this context, we can understand the structure of this chapter. The Rambam set out to describe the mitzvah of following God's ways. As stated in this halachah, he perceives this to mean developing our personalities by emulating the qualities which the Creator reveals. As he states in the following halachah, those qualities are identical with the middle path of human behavior. Therefore, in the initial halachot of this chapter, the Rambam sets out to describe the nature of human personality and the ideal temperaments - the middle path - that man should seek to achieve. Having laid down this foundation, he is able to define that mitzvah in this halachah and begin offering directives for its fulfillment in Halachah 7.
+
 [^74]: The Rambam appears to be referring to the *Sifre, Ekev* 11:22, which he quotes in *Sefer HaMitzvot* (ibid.). That explanation is also paralleled in the *Mechiltah* ([[Torah 16 - Beshalach#^14-2|Exodus 14:2]] and *Shabbat* [[Shabbat 133#133b|133b]].  
     It must be noted that other Talmudic and Midrashic sources interpret the commandment to imitate God in a different light. Note *Sotah* [[Sotah 14#14a|14a]]:  
     \[[[Torah 47 - Re'eh#^13-5|Deuteronomy 13:5]] states]: "You shall walk after God, your Lord." Is it possible for man to walk after the Divine Presence? Has it not been stated: "Behold, God, your Lord, is a consuming fire" ([[Torah 45 - Vaetchanan#^4-24|Deuteronomy 4:24]] ?Rather, [it means] one should follow the qualities of God.Just as He dresses the naked..., you, too, should dress the naked;God visited the sick...; you, too, should visit the sick;God comforted the bereaved...;you, too, should comfort the bereaved;God buried the dead...; you, too, should bury the dead.  
     In *Sefer HaMitzvot*, the Rambam mentions emulating both God's deeds and His qualities. Similarly, *Sefer HaChinuch*, in its description of this mitzvah, and the *Kiryat Sefer* in his commentary - both here in *Hilchot De'ot* and also in *Hilchot Eivel* - mention both deeds and qualities.  
     There is not necessarily a contradiction between these two emphases. As mentioned above, our actions reflect our personalities. Therefore, it follows that developing our characters in the manner outlined by the Rambam in this halachah will ultimately produce the good deeds mentioned by our Sages in the passage from *Sotah*.  
     Nevertheless, deed is often not a reflection of character. A person with many severe character faults may still do good deeds. Hence, for the "resemblance of God" to be complete, it is not sufficient merely to perform positive deeds. Rather, a person must undergo internal change by developing his character. Therefore, the Rambam focuses more on this aspect of the commandment.
+
 [^75]: Neither the *Sifre* nor the other sources quoted above mention the trait of holiness. Rather, the third trait mentioned is "piety." Perhaps, since the Rambam gave a specific definition for piety in the previous halachah within his conception of personality development, he does not mention it in the present context to prevent any possible confusion.
+
 [^76]: The Rambam's choice of words is somewhat surprising since many of these expressions are also found in the Torah as well as in the prophetic works. However, in the Torah these titles are mentioned by Moses or the other prophets. Perhaps this is the Rambam's intent.
+
 [^77]: In *Hilchot Yesodei HaTorah* 1:11-12 and in detail in *Moreh Nevuchim* (Guide to the Perplexed), Vol. I, Chapters 53 and 54, the Rambam explains that these names are not descriptions of God, who cannot be defined by any specific quality. To do so would limit Him and detract from His infinite and transcendent state of being.  
     Rather, the use of these titles must be understood as follows: God brings about activities, which, had they been carried out by man, would have been motivated by these emotional states. For example, instead of utterly destroying the Jews after the sin of the Golden Calf, God allowed our people to continue. Were such a deed to have been performed by a human ruler, we would describe him as "slow to anger." Though that term cannot serve as a description for God - for He cannot be described - the Torah and the prophets referred to Him by such terms with the following intent.
+
 [^78]: i.e., God acted in ways which we identify with these qualities - and the Torah and the prophets mention these actions - because these are attributes which man should strive to achieve.
+
 [^79]: *Likkutei Sichot* (ibid.) states that with the latter phrase, the Rambam is adding a new thought. As explained above, God cannot be described by any particular quality. If He manifests a quality, it is for a specific intent.  
     In *Moreh Nevuchim* (ibid., Chapter 54), the Rambam mentions that the leader of a country should act in a similar manner.  
     Sometimes he will be merciful and generous to some people - not because of his feelings and natural compassion, but because they are deserving of such treatment.  
@@ -279,23 +357,35 @@ One[^90] who follows this path brings benefit and blessing to himself, as [the a
     For this reason, human behavior should not be motivated by the spontaneous expression of emotion. Rather, man's emotions should arise as the result of a deliberate process of thought.  
     This reflects themes brought out in the previous halachot of this chapter: that a person must constantly evaluate and review his emotions (Halachah 4); that it is a wise man who is able to appreciate the middle path (Halachah 5).  
     This is what is meant by the imitation of God: that a person not be controlled by the unchecked expression of his emotions. Rather, he should control his feelings and, motivated by his desire to resemble God, search to find the correct and proper quality, the middle path, appropriate to the situation at hand.
+
 [^80]: for man is ultimately finite in nature, and no true resemblance to God is possible.
+
 [^81]: Having established personality development as a mitzvah in the previous halachah, the Rambam begins his explanation of how this mitzvah is fulfilled.
+
 [^82]: repeat - and perform a third time - Thus, a person's deeds will shape his character traits.  
     In this process of personal change, the stress is on the repetition of an act, and not on its quantity or intensity. In his Commentary on the Mishnah, *Avot* 3:15, the Rambam writes that giving a thousand coins to one person at one time is not as effective in stimulating feelings of generosity as giving a single coin one thousand times.  
     As mentioned in Halachah 4, though the Rambam's explanations in this chapter parallel those of the fourth chapter of *Shemonah Perakim*, the texts differ in stressing actions (as the opening lines of that chapter imply), or on character development, which is the theme of our text.  
     For this reason, the two texts also perceive the process of causation differently. In *Shemoneh Perakim*, the Rambam states: "These actions [good actions] are produced as a result of these [the good] traits," while here he sees the traits being produced by the actions.  
     Nevertheless, the two texts do not actually contradict each other. Both statements are true. Our deeds reflect our personalities, and they also help shape those personalities. Generally, this means that a person's behavior will reinforce and strengthen the character traits that motivated those very deeds. However, this chapter - and more particularly, this halachah - deals with a person who has made a commitment to change and refine his character. Therefore - based on his intellect and the directives of the Torah, rather than his spontaneous feelings - he chooses to perform deeds that will bring about this process of inner change.
+
 [^83]: reflect and are motivated by...
+
 [^84]: described in Halachot 4 and 5.
+
 [^85]: A trait possessed by a person produces activities naturally and spontaneously. However, if one has not acquired a trait as yet, certain actions will be foreign to his nature, and one must trouble himself to perform them.  
     For example, a liberal man gives charity naturally; the miser must force himself to give. The action for each is the same, but not the inner feelings.
+
 [^86]: If the miser continues to give frequently, he will find that he no longer feels like a miser, but has become liberal in heart as well as in hand.
+
 [^87]: The Rambam uses the term *yotzer* - literally "the One who forms" - (which appears only one other time in the *Mishneh Torah*: *Hilchot Yesodei HaTorah* 1:7).  
     The Rambam describes God as the Creator with reference to the Divine qualities he describes in these halachot. Before the existence of the world and man, there would be no purpose for God to reveal these qualities, for until man's creation, no one could learn from or emulate them.  
     [The word *yotzer* may also be used because of its connection to the word *yeitzer*, meaning drive or inclination. (See Rashi, [[Torah 01 - Bereshit#^2-7|Genesis 2:7]].)]
+
 [^88]: As stated in the commentary on the previous halachah, "the path of God" involves controlling our emotions by using our intellect, so that our behavior is, to the extent that is possible for man, an objective response to a situation. In this manner, our behavior bears a resemblance to God's transcendence of worldly matters.
+
 [^89]: See the *Midrash Tanchumah, Shofetim* 15:  
     And what are the ways of God? Righteousness and justice, as it is stated: "And they will keep the path of God to do righteousness and justice" ([[Torah 04 - Vayera#^18-19|Genesis 18:19]]).
+
 [^90]: Since the path of God is mentioned in the context of Abraham's service, it appears that walking in those ways is not synonymous with the performance of the 613 commandments - for they had not been given in Abraham's time. Rather, it must refer to ethics, qualities like righteousness and justice, which are mentioned in that verse.
+
 [^91]: The Rambam concludes his description of the obligation to develop our characters with the assurance that, ultimately, this course of behavior will bring us benefit and blessing.

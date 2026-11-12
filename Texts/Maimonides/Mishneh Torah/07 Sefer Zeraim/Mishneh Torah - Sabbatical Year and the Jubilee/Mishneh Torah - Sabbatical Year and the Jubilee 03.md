@@ -64,37 +64,68 @@ chapter: 3
 This is forbidden at all times, because of the impression that might be created, lest an observer think that they were planted in the Sabbatical year.[^31] Thus if a person planted, grafted, or extended [a tree or vine] in the sixth year, 44 days before Rosh HaShanah, he is allowed to maintain it. If he did so for a lesser time, he must uproot it. If he did not uproot it, however, the fruit it produces is permitted. If he dies before he uprooted it, we obligate the heir to uproot it.[^32] ^3-11
 
 [^1]: I.e., a tradition conveyed by the Oral Law, for which there is no explicit reference in the Written Law.
+
 [^2]: The Rabbis debate whether this prohibition applies to work with the land alone or also to work with trees. See Halachah 9 and notes.
+
 [^3]: In his Commentary to the Mishnah (*Sh'vi'it* 1:1), the Rambam explains that Rabban Gamliel released this prohibition after the destruction of the Temple, because he maintained that the prohibition applied only when the Temple was standing.
+
 [^4]: Which is allowed to be plowed until Shavuot.
+
 [^5]: I.e., 50 cubits by 50 cubits.
+
 [^6]: I.e., we estimate whether a fig tree with dimensions similar to this tree would produce 60 *maneh* of figs.
+
 [^7]: A *maneh* is one pound in contemporary measure (*Shiurei Torah*, p. 118). Rav Kehati (*Sh'vi'it* 1:2) considers it to be 400 grams, a slightly smaller measure.
+
 [^8]: Our Sages determined this to be four cubits. The rationale is that if they are grouped closer together the cattle will uproot them when trying to pass. See *Bava Batra* [[Bava Batra 83#83a|83a]].
+
 [^9]: Although the one tree produced the amount required of the entire orchard, since the other trees are not fit to produce any produce at all, they are not considered significant.
+
 [^10]: The Rambam interprets this as referring to a situation where all the trees together are fit to produce 60 *maneh,* although some individual trees are not fit to produce a significant amount. The Ra'avad offers a different interpretation of *Sh'vi'it* 1:3, the Rambam's source. Rabbenu Shimshon also interprets the mishnah in that manner and the Radbaz and the *Kessef Mishneh* agree that, at first glance, their interpretation fits the wording of the mishnah more easily than the Rambam's.
+
 [^11]: For even if they are not fit to produce fruit, such a large amount of trees is significant.
+
 [^12]: Saplings that were recently planted [the Rambam's Commentary to the Mishnah (*Sh'vi'it* 1:6)]. See also Halachah 7.
+
 [^13]: Since they are saplings, they do not derive nurture from as wide an area as mature trees with longer roots do. Hence unless the saplings are spread out, this leniency is not granted (Radbaz).
+
 [^14]: More leniency is granted with regard to the saplings, because they need greater care (*ibid.*).
+
 [^15]: Our translation is based on the Rambam's Commentary to the Mishnah (*Sh'vi'it* 1:6).
+
 [^16]: For they will not derive nurture from the entire field and it would appear that one is plowing the field for its own sake (Radbaz, *Kessef Mishneh*).
+
 [^17]: In his Commentary to the Mishnah (*ibid.*:7), the Rambam quotes the Jerusalem Talmud which states that this applies only to a Greek squash plant which is large like a tree. The Radbaz states that the majority of the ten must be saplings.
+
 [^18]: This is Rabbi Akiva's opinion in (*Sh'vi'it* 1:8). Others maintain it is given that status until three years (or seven) years have passed.
+
 [^19]: In his Commentary to the Mishnah (*ibid.*), the Rambam states that this view is accepted, because it is supported by a *Tosefta*. The commentaries have questioned which *Tosefta* the Rambam is referring to.  
     The Rambam's ruling has also attracted attention, because it appears to contradict his ruling in *Hilchot Ma'aser Sheni* 10:13 which states: "When a tree was cut down from above the earth and [a new tree grew from its roots], the prohibition of *orlah* applies." The implication there is that as long as the stump of the tree is above the earth, the laws of *orlah* do not apply. Only when it is cut down from below the earth is it considered like a new tree. Here, by contrast, even a handbreadth above the ground is considered as an existing tree.  
     The rationale for the distinction can be explained as follows: In this context, we follow the figures of speech employed by people at large. As long as the stump is within a handbreadth of the ground, people will consider any new growth as a new entity. When, by contrast, the stump is more than a handbreadth, it is significant and any new growth is considered as an extension of the existing plant (Rav Yosef Korcus).
+
 [^20]: Halachah 1.
+
 [^21]: These and the following activities are forbidden in the Sabbitical year itself only by virtue of Rabbinic decree. Our Sages were not overly stringent and did not enforce these prohibitions in the months preceding the Sabbatical year.
+
 [^22]: For hoeing is not plowing.
+
 [^23]: Our translation for these and the following terms are derived from the Rambam's Commentary to the Mishnah (*Sh'vi'it* 2:1-5). Many of the activities mentioned were described in Chapter 1, Halachah 5, and notes.  
     The *Tosafot Yom Tov* (*Sh'vi'it* 2:2) explains that this leniency was granted in gardens where these plants grow and not in fields at large, because in the instance of these plants, the hoeing benefits the plants directly and not merely the field.
+
 [^24]: The first clause dealt with work with the land that is permitted in the latter months of the sixth year. This clause mentions work with trees. From this halachah it appears that the prohibition conveyed as a halachah to Moses at Sinai mentioned in Halachah 1 does not apply to work with trees.
+
 [^25]: To protect them from rain or sun.
+
 [^26]: Note Rav Kappach's edition of the Rambam's Commentary to the Mishnah (*Sh'vi'it* 2:5) which states that the text of that source also reflects this ruling. (He maintains that there is a printing error in the standard published text of that source. According to his view, the Rambam did not reverse his opinion regarding this law as some maintain.)
+
 [^27]: Even though the fruit reaches a third of its growth before the Sabbatical year begins or does not reach that point of growth until after the the Sabbatical year ends, this restriction is still applied, because of the impression the performance of these tasks will create.
+
 [^28]: I.e., it might appear that the steps are being built so that a person will be able to descend and irrigate his fields in the valley in the Sabbatical year.
+
 [^29]: I.e., replant the head of a vine or the trunk of a tree in the ground so that it will develop new roots and another source of nurture. Thus new growths will emerge from it [the Rambam's Commentary to the Mishnah (*Sh'vi'it* 2:6)].
+
 [^30]: Our translation is taken from the above source.
+
 [^31]: Rabbi Akiva Eiger explains the basis for such a supposition. If the tree is not planted before 44 days preceding the new year, we count the beginning of its *orlah* years from Rosh HaShanah (*Hilchot Ma'aser Sheni* 9:10). Thus it will be considered halachically as if the tree was planted in the Sabbatical year.
+
 [^32]: I.e., the heir must also help prevent the misimpression from being created. For this reason, the leniency shown in Chapter 1, Halachah 13, is not shown here.

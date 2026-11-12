@@ -167,58 +167,101 @@ Rabbi Yehudah, the son of Rabban Shimon and referred to as Rabbenu Hakadosh ("ou
 
 [^1]: The heading "Introduction" is not found in any of the manuscript editions of the *Mishneh Torah* and appears to be a printer's addition. Note *Hilchot Shechitah* 1:4, where the Rambam refers to "...the Oral Law, which is called `the mitzvah,' as we explained in the beginning of this text."  
     By referring to these passages as "the beginning" of the text and not "the introduction to the text," the Rambam implies that the subject matter contained in these passages is an essential part of the *Mishneh Torah* and not merely an author's preamble.
+
 [^2]: Though this verse is omitted by many printed editions of the *Mishneh Torah,* it is included in the manuscript editions. It is also found at the beginning of the Rambam's other works, the Commentary on the Mishnah, *Sefer HaMitzvot,* and the Guide to the Perplexed. The Rambam's intention is to clarify that he does not see this work as an expression of his individual efforts alone, but that it was composed "In the name of God, the Lord of the world."
+
 [^3]: The Rambam introduces every one of the books of the *Mishneh Torah* by quoting an appropriate verse from the Bible. It is possible to explain that he chose this verse for the introduction to the entire text in reply to objections he knew would arise to the *Mishneh Torah.* The Rambam's conception of his work as "a compilation of the entire Oral Law" would not be acceptable to many. Therefore, he begins by emphasizing that his actions were not presumptuous. There is no need for him to be "ashamed" at taking such a step. Since he can "gaze at all Your mitzvot" - i.e., has the knowledge of the entire Oral Law - he is obligated to try to communicate that knowledge to others, as stated in *Hilchot Talmud Torah 5:4 (Yayin Malchut).*
+
 [^4]: By emphasizing that, at the revelation at Sinai, the mitzvot were given "together with their explanations," the Rambam stresses that the Written and Oral Laws cannot be viewed as two separate entities, but rather as two dimensions of a single whole. See also the Rambam's Introduction to his Commentary on the Mishnah, where he elaborates on the same concept.
+
 [^5]: See *Emunah V'De'ot* (Discourse 3, Chapter 3), where Rav Sa'adiah Gaon explains at length how the oral tradition is necessary to understand how to fulfill the mitzvot
+
 [^6]: Note *Gittin* [[Gittin 60#60b|60b]], which prohibits writing down the teachings of the Oral Law. Nevertheless, from the Rambam's statements here and in the Introduction to his Commentary on the Mishnah, it appears that the prohibition only applies to the composition of a text from which to teach, and not writing down notes for one's personal study.
+
 [^7]: See the Rambam's Introduction to his Commentary on the Mishnah, where he quotes [[Eruvin 54#54b|Eruvin 54b]] which describes the order in which Moses would teach Aharon, his sons, the elders, and then the entire Jewish people.
+
 [^8]: I.e., regarding its transmission to others *(Sifre, Pinchas).*
+
 [^9]: By listing the entire chain of tradition, the Rambam demonstrates how the Oral Law was transmitted in a continuous chain and was not the invention of the later Sages. However, beyond this obvious intent, the Rambam had another goal in mind. In his Introduction to *Sefer HaMitzvot* (where he outlines some of his deliberations about the composition of the *Mishneh Torah),* the Rambam writes:  
     I chose to omit the supports and proofs [for the laws], and instead mention the major figures who transmitted the tradition. Thus, I will not say "These are the words of Rabbi ---," or "Rabbi --- says such and such" regarding each particular matter. Instead, I will mention all the sages of the Mishnah and the Talmud, of blessed memory, in general at the beginning of the text. I will state that all the judgments of the Torah - i.e., the Oral Law - were received and transmitted from so and so to so and so, until Ezra and until Moses. I will mention together with [the leading sage of the generation], who received the tradition, the other well-known personalities in his generation whose position in the chain of tradition is equivalent to his. All this [will be done] out of a desire for brevity.  
     The Rambam's willingness to sacrifice the mention of the sources for his decisions in favor of a brief and clear text became a major issue with regard to the acceptance of the Mishneh Torah by other rabbis. The Ra'avad writes:  
     This author abandoned the practice of all the previous authors, who would bring supports for their statements and quote them in the name of their sources. This was of great benefit because, at times, a judge would presume to forbid or permit [something] based on a specific source. If he knew that a greater authority holds a different opinion, he would retract his. However, in this instance, I do not know why I should retract from the tradition I received and my sources because of [the statements] in this work by this author.  
     Afterwards, the Rambam himself regretted his original decision. In a responsum, he wrote that he desired to add the sources on which the decisions of the Mishneh Torah were based. Unfortunately, the Rambam himself never succeeded in composing such a text, and the task of discovering these sources has been left to the sages of subsequent generations.
+
 [^10]: See *Bava Batra* [[Bava Batra 121#121b|121b]].
+
 [^11]: Jeremiah and Baruch witnessed the destruction of the First Temple. After Jeremiah's death, Baruch went to Babylon and taught Torah to the exiles there.
+
 [^12]: The *Anshei K'nesset Hagedolah* presided over the return to Zion at the beginning of the Second Temple period and set the foundations for the reconstruction of the nation.
+
 [^13]: These two sages begin the line of *zugot* (pairs) mentioned in the first chapter of *Avot.* The first of the sages mentioned was the *nasi* (head of the academy), and the second the *av beit din* (head of the court).
+
 [^14]: See *Eduyot* 1:3 and *Gittin ,*57b. It is difficult to understand why the Rambam mentions Shemayah and Avtalion's ancestry. On the contrary, the fact that they were converts raises serious questions as to why they were allowed to serve as *nasi* and *av beit din.* (See *Hilchot Melachim* 1:4 and the commentary in the Moznaim edition of that Halachah.)
+
 [^15]: Rabban Yochanan ben Zakkai witnessed the destruction of the Second Temple. Before the fall of Jerusalem, he escaped with his students to Yavneh and laid a new foundation for our people's spiritual growth.
+
 [^16]: The commentaries have noted some apparent contradictions between the Rambam's statements here and those in the Introduction to his Commentary on the Mishnah. For example, in the Introduction to his Commentary on the Mishnah, the Rambam states that Rabbi Meir and Rabbi Nechemiah were different names for the same person, while here he mentions them as separate individuals. Similarly, in the Introduction to his Commentary on the Mishnah, the Rambam places Rabbi Chananiah ben Teradion in the first generation of sages following the Temple's destruction, while here he places him in the third generation.  
     The Mishneh Torah is a later work, and it is possible that the Rambam changed his thinking on these particulars before its composition.
+
 [^17]: In the Introduction to his Commentary on the Mishnah, the Rambam explains that Rabbi Yehudah HaNasi merited the title Rabbenu Hakadosh (our saintly teacher), because "he possessed all the desired and good qualities."
+
 [^18]: The Roman Empire systematically attempted to suppress the study of Torah in all the lands under its control.
+
 [^19]: Though Rabbi Yehudah HaNasi's composition of the Mishnah is a monumental achievement in its own right, perhaps the Rambam elaborates in his description of it because of the parallels to his own composition of the *Mishneh Torah.*
+
 [^20]: Rav and Shemuel represent the first generation of Amoraim, the age in which the center of Torah study shifted from *Eretz Yisrael* to Babylonia.
+
 [^21]: *In the Introduction to his Commentary on the Mishnah, the Rambam explains Rabbi Chiyya's contribution as follows:*  
     He followed his master's [Rabbi Yehudah HaNasi's] footsteps [in composing a text for the public] to explain the matters he saw to be confusing in his master's work.  
     This was called the *Tosefta.* Its intent was to explain the Mishnah and expound upon concepts that would require much effort to be derived from the Mishnah… to show how these ideas could be developed and deduced from the Mishnah.
+
 [^22]: Thus, according to the Rambam, the approximate date of the composition of the  
     Jerusalem Talmud was the year 4025 (365 C.E.).  
     The commentaries have not found an explicit source supporting the Rambam's contention that Rabbi Yochanan composed the Jerusalem Talmud. Indeed, it appears that the final text of that work was composed by Rabbi Mannah and Rabbi Yosse ben Rabbi Bun approximately one hundred years after Rabbi Yochanan's death. Some commentaries explain that Rabbi Yochanan laid the foundation for the text that was completed by the later sages.
+
 [^23]: In Babylonia.
+
 [^24]: In *Eretz Yisrael.*
+
 [^25]: Thus, according to the Rambam, the approximate date of the composition of the Babylonian Talmud was 4125 (465 C.E.).  
     The commentaries point to *Bava Metzia* [[Bava Metzia 86#86a|86a]], which relates that "Rav Ashi and Ravina were the final authorities with regard to instruction," as the source for the Rambam's statements. From the Rambam's later statements, it appears that in this instance as well, Rav Ashi laid the foundation for the Talmud. However, the composition of the text was completed by Ravina Zuta, Mar bar Rav Ashi, and Rav Yosse more than seventy years after Rav Ashi's death.
+
 [^26]: In the Introduction to his Commentary on the Mishnah, the Rambam deals with this subject at length, citing as examples, the prohibition of eating fowl together with milk and the eighteen decrees passed by the School of Hillel and the School of Shammai.
+
 [^27]: In the Introduction to his Commentary on the Mishnah, the Rambam also mentions these two categories, describing them as:  
     Laws that were established after meditation on the proper structure for interpersonal relations, without adding or detracting from the words of the Torah, or matters that [were instituted] for the spiritual betterment of mankind.  
     Among the examples of such laws he cites are: Hillel's institution of the *Pruzbul* and the ordinances of Ushia, which require a father to support his children. The Rambam also discusses these three categories of Rabbinic decrees in *Hilchot Mamrim,* Chapters 1 and 2.
+
 [^28]: The Rambam is referring to *Bereshit Rabbah.*
+
 [^29]: *Today, this collection of teachings is known as Mechilta D'Rabbi Shimon bar Yochai.*
+
 [^30]: Because these ordinances were universally accepted by the Jewish people, their observance became mandatory, as the Rambam explains further on.
+
 [^31]: Perhaps by specifying "the Babylonian Talmud," the Rambam is alluding to the halachic principle that whenever there is a difference between the decisions of the Babylonian and the Jerusalem Talmuds, those of the Babylonian Talmud are followed.
+
 [^32]: In his Introduction to *Sefer HaMitzvot,* the Rambam explains that he chose to compose the *Mishneh Torah* in Mishnaic Hebrew rather than in Aramaic in order to make it more accessible to the common man.
+
 [^33]: The Rambam is referring to the body of responsa *(She'elot UTshuvot)* which began to accumulate from the many questions circulated among the different Jewish communities in the diaspora.
+
 [^34]: In the Introduction to his Commentary on the Mishnah, the Rambam mentions some of these texts: *Halachot Gedolot, Halachot Pesukot,* the *She'iltot* of Rav Achai Gaon, and the *Halachot* of Rav Yitzchak Alfasi.
+
 [^35]: This corresponds to the year 1177 C.E. Apparently, the Rambam composed the *Mishneh Torah* over a number of years, constantly revising his work. Thus, in *Hilchot Kiddush HaChodesh* 11:16, he mentions the date of the composition of the text as 4938, one year later, and in *Hilchot Shemitot V'Yovalot,* he mentions the date 4936, one year earlier.
+
 [^36]: Though the Rambam mentions his nationality when stating his name in some of his other works as well (see *Iggeret HaShmad),* it is possible that he had a specific intention in doing so here. Despite his desire and intention for the *Mishneh Torah* to be universally accepted, he knew that other customs were followed in the Ashkenazic community. By mentioning his country of origin, he could be alluding to the fact that some of the customs he mentioned were specific to Jews of that background *(Yayin Malchut).*
+
 [^37]: For it is only these laws that are binding on the entire Jewish people, as explained above.
+
 [^38]: As mentioned above, there were many rabbis who considered the Rambam's intention in the composition of this text and, in particular, the name he chose for it, as presumptuous. Indeed, for that reason the name *Mishneh Torah is* rarely used. Instead, the text is commonly referred to as the *YadHaChazakah* ("The Strong Hand") [so called because the Hebrew is numerically equivalent to fourteen, the number of books in the *Mishneh Torah],* or simply "the Rambam."
+
 [^39]: The Rambam's statements imply that he desired the *Mishneh Torah* to be studied in the order in which it was composed, so that a reader can receive a full picture of the Oral Law.
+
 [^40]: These *halachot* are comparable to sections within a book.
+
 [^41]: In his Introduction to *Sefer HaMitzvot,* the Rambam explains that he chose to structure the text in this manner in order to make the subject matter more accessible to the reader.
+
 [^42]: For there are some commandments - e.g., the requirement to dedicate the spoil taken from Midian (see Numbers, Chapter 31) - that were recorded in the Torah, but applied only in those specific circumstances.
+
 [^43]: In Sefer HaMitzvot, the Rambam quotes the *Midrash Tanchumah (Ki Tetzei)*, which states that it is as if each limb of the body is saying, "Do a mitzvah with me."
+
 [^44]: Thus, it is as if each day of the year is saying, "Do not commit a transgression on me" (*ibid.*).

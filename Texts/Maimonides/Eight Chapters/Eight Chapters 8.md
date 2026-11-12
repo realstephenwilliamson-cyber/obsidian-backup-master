@@ -62,70 +62,137 @@ Another accepted axiom of metaphysics is that human reason cannot fully conceive
 Reflect, then, upon all that we have said, namely, that man has control over his actions, that it is by his own determination that he does either the right or the wrong, without, in either case, being controlled by fate, [^67]and that, as a result of this divine commandment, teaching, preparation, reward, and punishment are proper. Of this there is absolutely no doubt. As regards, however, the character of God's knowledge, how He knows everything, this is, as we have explained, beyond the reach of human ken. This is all that we purposed saying in this chapter, and it is now time for us to bring our words to an end, and begin the interpretation of this treatise[^68] to which these eight chapters are an introduction.
 
 [^1]: The title applies only to the first part of the chapter which is mainly a discussion of human free will, and is be supplemented by parts of M.'s *Commentary on Abot*, by *H. Teshubah*, V and VI, and *Moreh*, III, 16 21. On the contents of this chapter, see Jaraczewski, *ZPhKr*, XL VI, pp. 15-15; and Rosin, Ethik, p. 62 ff.
+
 [^2]: Cf. *Eth. Nic.*, II, 1, "The virtues, then, come to be in us neither by nature nor in despite of nature, but we are furnished with a capacity for receiving them, and are perfected in them through custom". This applies to nations as well as to individuals; see *Pirḳe Mosheh*, c. XXV, fol. 53a.
+
 [^3]: Cf. *Moreh*, III, 17, *Fifth Theory*.
+
 [^4]: Saadia was the first Jewish philosopher to dwell at length upon the question of free will (*Emunot we-Deot*, III), being influenced by the discussions of Arabic theologians, although Philo, who generally followed the system of the Stoics, professed a belief in this doctrine (*Quod Deus Sit Immutabilis*, ed. Mangey, p. 279). He was followed by Baḥya (*Ḥobot ha-Lebabot*, III, 8); Ibn Zaddiḳ (*Olam Ḳaṭon*, p. 69, ed. Jellinek, Leipzig, 1854); Yehudah ha-Levi (*Cuzari*, pt. V, ed. Cassel, p. 418); Abraham Ibn Ezra (*Yesod Morah*, VII); and Ibn Daud (*Emunah Bamah*, p. 96, ed. Weil, Frankfurt a. M., 1842). For references to passages in M.'s works where he discusses free will, see p. 85 n. 1. M. undoubtedly had *Eth. Nic*. III in mind when he said that "Our Law agrees with Greek philosophy". See especially *Eth. Nic*. III, 5. 7, where are found the following statements, "So it seems as has been said, that man is the originator of his actions", and "if it is in our power to do and to forbear doing what is creditable or the contrary, and these respectively constitute the being good or bad, then the being good or vicious characters is in our power". See Rosin, *Ethik*, p. 5, n. 4, and p. 66, n. 1. Consult on this subject I. Broydé, in J. E., vol. V, art. *Free Will*, and works mentioned there; Wolff, *Acht Capitel, Excursus*, III, pp. 84—85; and Cohen, *Characteristik*, etc., in *Moses ben Maimon*, I, p. 76.
+
 [^5]: M. mentions the same argument in the *Moreh*, but it had often been advanced before him. See Rosin, *Ethik*, p. 67, n. 2.
+
 [^6]: Deut. XXX, 15. 19. Cf. *H. Teshubah*, V, 3.
+
 [^7]: Deut. XI, 27. 28.
+
 [^8]: *Ibid*., XI, 19.
+
 [^9]: *Ibid*., V, 1.
+
 [^10]: *Ibid*., XXII, 8.
+
 [^11]: *Ibid* XX, 5 or 7.
+
 [^12]: Ex. XXII, 26.
+
 [^13]: Deut. XXIV, 6.
+
 [^14]: See *H. Teshubah*, V, 4, and *Moreh*, III, 20; cf. Ibn Baud, *Emunah Ramah*, II, 6, 2, p. 96.
+
 [^15]: *Berakot*, 33b; *Niddah*, 16 b; *Megillah*, 25 a.
+
 [^16]: Lam. lll, 38. This verse is, however, generally translated, "Out of the mouth of God, the Most High, cometh there not evil as well as good?", which is exactly the opposite of M.'s interpretation. This verse is also quoted in *H. Teshubah*, V, 2, where M. states that it is wholly in the power of man to be as righteous as Moses or as wicked as Jeroboam.
+
 [^17]: Lam. III, 39.
+
 [^18]: *Ibid*., III, 40—41. Of. *H. Teshubah, loc. cit.*
+
 [^19]: Aristotle uses the example of a stone and fire, in *Eth. Nic.*, II, 1, to show that nature is not affected by custom. A stone by custom can never be brought to ascend, nor fire do descend. Moral virtues are, however, the result of custom.
+
 [^20]: See *supra*, c. I. p. 41, n. 2; and p. 77.
+
 [^21]: Cf. *Moreh*, I, 73. *Sixth Proposition*. See Munk, *Guide*, I, p. 286, n. 3.
+
 [^22]: Eccles. I, 9.
+
 [^23]: M. reiterates this view of the miracles in his *Commentary on Abot*, V, 6, which enumerates ten things created on the eve of the Sabbath of the week of creation. See Lipmann Heller, in *Tosefot Yom-Tob*, on this passage; and Hoffman, *Mischnaioth*, *Seder Nezikin*, Berlin, 1889, p. 353. Cf. *Moreh*, I, 66, and Munk, *Guide*, I, p. 296. M. also supported this view in *Moreh*, II, 29 where he refers to *Genesis Rabbah*, V, 4, and *Exodus Rabbah*, XXI, 6, which read, "When God created the world He made an agreement that the sea should divide, the fire not hurt, the lions not harm, the fish not swallow persons singled out by God for certain times, and thus the whole order of things changes whenever he finds it necessary." Consult on this subject Joel, *Moses Maimonides*, 1876, p. 77 ; Rosin, *Ethik*, p. 69, n. 5; "Wolff, *Acht Capitel, Excursus*, IV; Lazarus, *Ethics*, II, p. 77, n. 1; Kohler, art. *Miracles*, in J. E., vol. VIII, pp. 606-607; Geiger, *Judaism and its History*, p. 348.
+
 [^24]: *`Abodah Zarah*, 54b. See Lazarus, *ibid.*, II, p. 74 ff.
+
 [^25]: Cf. M.'s *Commentary on Abot*, IV, 23 (Rawicz, *Commentar*, pp. 89 90); *H. Teshubah*, V, 4, and *Moreh*, III, 17, *Fifth Theory*. See Rosin, *Ethik*, p. 69, n. 6.
+
 [^26]: Gen. III, 22.
+
 [^27]: Cf. *H. Teshubah*, V, 1.
+
 [^28]: Gen. XV, 13.
+
 [^29]: Cf. *H. Teshubah*, VI, 5.
+
 [^30]: Deut. XXXI, 16.
+
 [^31]: Cf. *H. T'shubah*, *loc. cit.*
+
 [^32]: Isa. LXVI, 3. 4.
+
 [^33]: Ex. XIV, 4.
+
 [^34]: M. probably means Abraham ibn Ezra and Ibn Baud. See Rosin, *Ethik*, p. 24.
+
 [^35]: Ex., X, 1.
+
 [^36]: *Ibid.*, I, 9, 10.
+
 [^37]: Gen. XV, 14.
+
 [^38]: Ex. IX, 15. 16. The same explanation for the hardening of Pharaoh's heart is given in *H. Teshubah*, VI, 3. On the withholding of repentance, see Schechter, *Some Aspects of Rabbinic Theology*, p. 332.
+
 [^39]: See I K. XIII, 4.
+
 [^40]: See Gen. XIX, 11.
+
 [^41]: Ex. IX, 16.
+
 [^42]: Deut. II, 30. Cf. *H. Teshubah*, VI, 3.
+
 [^43]: M. cannot, however, point to any biblical passage that substantiates his contention that Sihon had previously committed injustice.
+
 [^44]: Isa. VI, 10, quoted also in *H. Teshubah*, VI, 3.
+
 [^45]: I K. XVIII, 37, quoted again in *H. Teshubah*, *loc. cit.*, which also refers to Josh. XI, 20.
+
 [^46]: Hos. IV, 17.
+
 [^47]: Isa. LXIII, 17.
+
 [^48]: Num. XIV, 15. 16.
+
 [^49]: Isa., loc. cit.
+
 [^50]: Mal. II, 17.
+
 [^51]: *Ibid.*, III, 14. 15.
+
 [^52]: *Ibid.*, III, 18. Cf. *Moreh*, III, 19.
+
 [^53]: *Abot*, I, 14. Cf. M.'s commentary on this passage.
+
 [^54]: M. feels it necessary here to discuss philosophically the prescience of God, which he does reluctantly, as the *Peraḳim* are intended for readers not versed in philosophy. See *Introduction*, p. 11.
+
 [^55]: For M.'s discussion of God's knowledge, see *Pereḳ Ḥeleḳ*; *H. Teshubah*, V, 5; *Yesode ha-Torah*, II, 8-10; *Moreh*, I, 58, and III, 19-21. See Munk *Guide*, I, p. 301, n. 4.
+
 [^56]: For a list and the opinions of Jewish philosophers before M. who discussed this problem, see Rosin, *Ethik*, p. 73, n. 5.
+
 [^57]: Cf. *Moreh*, I, 57: וכן חי לא בחיים ויודע לא במדע, and *Yesode ha-Torah*, II, 10. See Kaufmann, *Attributenlehre*, p. 423, and note 94.
+
 [^58]: For an exhaustive discussion of the theories which M. merely mentions here, see *Moreh*, I, 50-51, on the attributes of God. See Munk, *Guide*, I, 50, p. 179 ff., *passim*; Kaufmann, *ibid.*, p. 418 ff.; Cohen, *Charakteristik*, etc. in *Moses ben Maimon*, I, pp. 89-90.
+
 [^59]: Gen. XLII, 15.
+
 [^60]: Ruth, III, 13.
+
 [^61]: Cf. *Yesode ha-Torah*, II, 10, and *Moreh*, I, 58 (beg.). See Munk, *Guide*, I, p. 302, n. 3. The expressions חֵי אלהים (II Sam. II, 27), חֵי אל (Job XXVII, 2), and especially חֵי יהוה וחֵי נפשך (I Sam. XX, 3; XXV, 26, and II K. II, 2), and Jer. XXXVIII, 16 substantiate this novel linguistic argument of M. Amos VIII, 14 חֵי אלהיך דן is used in reference to the gods of idolators.
+
 [^62]: See Aristotle's Metaphysics, XXII, 9.
+
 [^63]: Cf. *Moreh*, I, 59, "All philosophers say, 'He has overpowered us by His grace, and it is invisible to us through the intensity of His light', like the sun which cannot be perceived by the eyes which are too weak to bear its rays". Cf. Baḥya, *Ḥobot ha-Lebobot*, I, 10. See Munk, *Guide* I, p. 252; Rosin, *Ethik*, pp. 75, n. 4; Kaufmann, *Attributenlehre*, pp. 324-325; 445, n.128; and Wolff, *Acht Capitel*, p. 80, n. 1.
+
 [^64]: See Hebrew text, c. VIII, p. 55, n. 37.
+
 [^65]: Cf. *Moreh*, III, 20-21.
+
 [^66]: Job XI, 7.
+
 [^67]: In his *Commentary on Abot*, III, 15, M. maintains that the phrase "Everything is foreseen (by God), but freedom of choice is given", is in harmony with his theory of the omniscience of God, which does not, however, deprive man of free will. See Rawicz, *Commentar* p. 75.
+
 [^68]: I.e., *Abot*

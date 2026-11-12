@@ -41,9 +41,13 @@ Hobbes identifies this principle variously as the “core” or “sum” of the
 Doing what one would not have done to oneself[^5] Doing what one thinks unreasonable to be done by another to oneself [^6]
 
 [^2]: EW II, 45; *De Cive* 3.26; also EW III, 144; T 109.
+
 [^3]: Gregory S. Kavka , *Hobbesian Moral and Political Theory* (Princeton, NJ, 1986), 347.
+
 [^4]: In Chapter 4 I offer a critical examination of Kavka ’s interpretation of the Laws of Nature, explaining why I believe mistaken his substitution of the Copper Rule  for Hobbes’s own formulation, and I show in Chapter 5 how Hobbes derives the Golden Rule, or, as I shall refer to it, *the reciprocity theorem .*
+
 [^5]: “The laws of nature . . . have been contracted into one easy sum . . . and that is, *Do not to another, which thou wouldest not have done to thyself* ” (EW III, 144; T 109).
+
 [^6]: “*Do not that to another, which thou thinkest unreasonable to be done by another to thyself* ”
 
 *[p. 15]* ^pg33
@@ -65,8 +69,11 @@ Hobbes identifies the requirement that we love others as ourselves with a fairne
 Reciprocity is a rational constraint on justifiable, that is, *blameless,* action. Certainly, the various notions Hobbes uses in the effort to call our attention to the core requirement of natural law – disapproval, 
 
 [^7]: EW III, 279–280; T 202–203.
+
 [^8]: EW III, 141; T 107; EW II, 39; *De Cive* 3.14.
+
 [^9]: EW III, 494; T 344.
+
 [^10]: EW III, 118; T 92. See also EW IV, 104 (*Elements of Law* I.4.2) for an application of this principle: “*Whatsoever right any man requireth to retain, he allow every other man to retain the same*”.
 11\. “*Thou shalt love thy neighbor as thyself* . . . is the natural law, having its beginning with rational nature itself ” (EW II, 263–264; *De Cive* 17.8). “\[T\]he law of nature, which is also the moral law, is the law of the author of nature, God Almighty . . . \[f\]or the sum of God’s law is, *Thou shalt love God above all, and thy neighbour as thyself;* and the same is the sum of the law of nature, as hath been showed” (EW IV, 224; *Elements of Law* II.10.7). Cf. EW II, 57 (*De Cive* 4.12) and EW IV, 113 (*Elements of Law* I.5.6): “*Thou shalt love thy neighbour as thyself* . . . which is . . . so to be understood, as that a man . . . should esteem his neighbour worthy all rights and privileges that himself enjoyeth; and attribute unto him, whatsoever he looketh should be attributed unto himself: which is no more, but that he should be humble, meek, and content with equality ”.
 
@@ -93,7 +100,9 @@ Reciprocity suggests a test for discerning whether one’s actions comport with 
 Some of Hobbes’s applications of the reciprocity that lies at the core of all of the Laws of Nature and their particular cases are surprisingly liberal . For instance, he insists that the efforts of missionaries to alter religion in another country are prohibited by the Law of Nature, and this, despite the fact the proselytizer believes he is doing good by his action. Why? Because “he does that which he would not approve in another, namely, that coming from hence, he should endeavour to alter the religion there”.<sup>17</sup> This application of reciprocity is striking, because it resists the parochial description of the agent’s action as one of teaching “true religion” or “saving souls”, in favor of the least abstract description of the action that members of *both* societies, *disagreeing* over the value of the proposed missionary work, might be expected to converge upon, namely, that it is an instance of coming from one place and trying to alter the religion in another place. We will not approve the efforts of foreigners to alter our religious beliefs, not least because of the civil strife any effective such effort would surely cause among defenders of the former religion and advocates for the new. In this case Hobbes applies his reciprocity theorem  to the action under the least 
 
 [^14]: EW IV, 107; *Elements of Law* I.4.9. Cf. EW II, 44–45; *De Cive* 3.26: this rule lets us determine whether our actions “may be done by the law of nature or not” (EW II, 61–62; *De Cive* 4.23); and the famous formulation from *Leviathan,* EW III, 144–145; T 109–110.
+
 [^15]: EW II, 61–62; *De Cive* 4.23.
+
 [^16]: EW II, 44–45; *De Cive* 3.26. Chapter 5.
 
 *[p. 18]* ^pg36
@@ -113,6 +122,7 @@ This application of reciprocity grants that allowing each to judge in her own ca
 It is difficult not to be alarmed by this audacious account of the claim of reason, which generates from the most basic requirement of reasonableness or fair play a condition that no rational agent can fail to abhor because in that condition no one can expect to exercise effective agency  in pursuit of any of her ends. But this account, which inverts the traditional view of the relation between Hobbes’s Right of Nature  and his Law of Nature, allows Hobbes to argue plausibly that the greater the scope of private judgment  over disputed matters, the lesser men’s prospects for achieving their ends in action, for the efforts of each will throw up obstacles that impede the contrary efforts of others.[^21] This suggests a *continuum* notion of the state of nature , which makes specific sets of normative relations (conditions) more or less states of nature depending upon the scope and extent of legitimate private judgment  in them. Universal individual private judgment  over all matters (the condition of mere nature) lies at one extreme, in which the price of perfect freedom  is the complete 
 
 [^20]: EW II, 135, emphasis added; *De Cive* 10.8. Cf. EW IV, 164; *Elements of Law* II.5.2: “if every man were allowed this liberty  of following his conscience  . . . they would not live together in peace an hour”. The solution, of course, is to show men that reason requires that they settle for the more limited liberty they would be content to let everyone else retain, a degree of civil liberty under government.
+
 [^21]: In his mildest language, Hobbes describes this mutual interference as men’s “irreg-In his mildest language, Hobbes describes this mutual interference as men’s “irregular jostling, and hewing one another” (EW III, 308; T 221).
 
 *[p. 20]* ^pg38
@@ -122,6 +132,7 @@ abolition of conditions necessary for effective agency  directed toward any en
 As surprising as this may sound, even under certain forms of political society, a state of nature  may continue to obtain, just to the degree that those forms invite the use of private judgment . If the essential rights of sovereignty  are limited,[^23] private judgment  will be required to determine whether the limits have been overstepped. Some other body could be designated to decide that issue, but, Hobbes argues, that would be either to seat unlimited sovereignty in that other body (otherwise we get a useless regress of limited bodies), or else to divide the essential rights of sovereignty . But if the essential rights of sovereignty  are divided, and those who possess them disagree on the policy to be pursued, the prospect of a stalemate paralyzing effective 
 
 [^22]: Hobbes thinks this is of all empirically realizable states of nature the one that ascribes a right of unlimited private judgment  to the largest number of individuals. Because children owe obligation s of obedience to those who sustain them (usually their parents), a state of perfectly universal individual private judgment  can be conceived only by considering men, counterfactually, as if they had “sprung up like mushrooms” full grown, without any obligations of obedience to anyone. I elaborate this argument in the following chapter.
+
 [^23]: The essential rights of sovereignty  are those without which a government cannot effectively perform its function (under the Law of Nature) of securing domestic peace and national defense. They include rights of legislation, adjudication of dis- . They include rights of legislation, adjudication of disputes, enforcement of decisions, taxation  and the right to wage war. See *Leviathan,* chapter 18.
 
 *[p. 21]* ^pg39
@@ -143,7 +154,9 @@ Hobbes also opines, in chapter 18 of *Leviathan,* that under any form of governm
 Of course, Hobbes denies that subjects have any *right* to rebel against even an oppressive government, so long as it is effective in securing domestic peace and national defense , a view that will attract our critical scrutiny later on. And Hobbes insists that subjects are to defer to the judgment of their sovereign as to the propriety of its exercises of power. Here I am simply noting that as the difference 
 
 [^25]: EW III, 199 and 206; T 147 and 152.
+
 [^26]: EW III, 170, emphasis added; T 128.
+
 [^27]: That psychology is the subject of Chapter 2.
 
 *[p. 23]* ^pg41
@@ -154,6 +167,7 @@ The present suggestion is that the state of nature  is a continuum notion that
 or limited government, until we arrive at the Archimedean point of Hobbes’s adequately authorized and properly operating sovereign.[^29] 
 
 [^28]: This need not be a natural person, or a single-member artificial person, e.g., a monarch. An artificial person such as a sovereign assembly would do just as well. On persons, see *Leviathan,* chapter 16.
+
 [^29]: Notice that while heads of households or lords may enjoy “absolute” power over their own subjects, the fact that they may find themselves in irresoluble contention  with so many other heads of households and lords makes savage and tribal or feudal *systems* kinds of states of nature. Of course, if any parent or lord heads an operation so strong that it and its members cannot be credibly threatened by outsiders, he or she would then count as the sovereign of a small commonwealth, and not part of any savage or feudal system. Although Hobbes *defines* a sovereign as an entity that possesses all the essential rights of sovereignty , he is fully aware that many governments that have existed have not met the conditions for sovereignty, and have consequently failed (EW III, 195; T 145). See also his discussion of “mixt government” in *Leviathan* chapter 29, EW III, 318; T 288, and those governments that do not enjoy absolute power (EW III, 309; T 222). Cf. *Elements of Law,* part 2, chapter 1, paragraph 13.
 
 *[p. 24]* ^pg42
@@ -179,7 +193,9 @@ If reciprocity requires that all subjects equally submit their private judgments
 to its own judgment, a requirement of no practical significance.[^32] To require the sovereign to submit to any *other* judgment than its own would be to require, contrary to reciprocity, something of it that is not required of any subject, namely, that it submit to someone else’s merely *private* judgment . As the source of authoritative public judgment  on *all* questions, the sovereign must, as a conceptual matter, retain the right to judge questions concerning itself; and reciprocity licenses this because each party to the originating covenant  would fault the others for refusing to join in the creation of a sovereign for their mutual benefit. Reciprocity also requires the sovereign to execute its functions (fulfill its sovereign role) in the way it would wish to see those functions executed were it subject to them, as we shall see in a moment. Reciprocity does not require that sovereigns be subjects (a conceptual incoherence on Hobbes’s view) nor more generally that all persons take on the same roles and corresponding responsibilities.[^33] But reciprocity may constrain how a sovereign by institution is selected: If we would fault others for insisting that their preference determine the choice of sovereign, then neither may we insist that our preference should determine the choice, but should instead select the sovereign through some mutually agreeable procedure (Hobbes suggests a vote of the majority).[^34]
 
 [^32]: The sovereign has the authority to make or repeal any law, issue any decree or immunity, decide any controversy. As natural persons, the members of a sovereign assembly are subject to the laws passed by the majority in that assembly, but the sovereign assembly is not; and although as a natural person, a monarch could be said to be subject to the commands she issues as an artificial person (assuming she does not exempt herself from the scope of the legislation), the fact that she has authority to repeal the law, subsequently interpret it to exempt herself, or pardon herself for any violation of it, makes her subjection of no practical significance. The sovereign is, in this sense, above the civil law. However, none of this entails that a sovereign may not violate the natural law requirements of reciprocity in how it fashions laws, decrees, immunities, and pardons. These are subject to moral, although not legal, constraints.
+
 [^33]: How reciprocity applies to the differentiation of roles is discussed in Chapter 5.
+
 [^34]: “A *Common-*wealth is said to be *Instituted,* when a *Multitude* of men do Agree, and *Covenant, every one, with every one,* that to whatsoever *Man,* or *Assembly of Men,* shall be given by the major part, the *Right* to *Present* the person of them all . . . every one, as well he that *Voted for it,* as he that *Voted against it,* shall *Authorise* all the Actions and Judgements, of that man, or Assembly of men” (EW III, 159; T 121; cf. EW III, 162; T 123). See also Hobbes’s remark in EW II, 74 (*Philosophical Rudiments* vi.2) that in a sovereign assembly the will of the majority is to be taken for the sovereign will.
 
 *[p. 27]* ^pg45
@@ -193,6 +209,7 @@ Still, if we renege on our authorization to a public arbitrator of the right to 
 For those of us already living under a government that is effective in protecting us, Hobbes can urge the duty of political obedience on the simple ground provided by reciprocity itself. If we cannot be willing that others should exempt themselves from obeying the authority who without obedience cannot secure the protection we enjoy, then under reciprocity, neither may we legitimately exempt ourselves from obedience. In general, to enjoy the benefits of our fellow subjects’ obedience without ourselves obeying is contrary to the requirement 
 
 [^35]: EW III, 118; T 92.
+
 [^36]: EW III, 130; T 100.
 
 *[p. 28]* ^pg46
@@ -212,7 +229,9 @@ Hobbes supposes that in order to rule effectively, the state must have authority
 from him that hath it, yet if they use that right otherwise than right reason requires, they sin against the laws of nature, that is, against God”.[^38] But because effective rule does not require that anyone kill himself at the state’s command (for it may kill him if it wishes), and because we may find ourselves unable to force ourselves to obey such a command, we would judge it unreasonable to blame us for refusing such a command. And if we would judge it unreasonable for others to fault us for refusing to kill ourselves on command, then neither may we fault others for refusing to do so. But actions or refusals to act for which no one can reasonably be faulted comprise the true liberty of a subject, that is, “what are those things, which though commanded by the sovereign, he may nevertheless, without injustice, refuse to do”. Thus, it belongs to the true liberty of a subject to refuse “to kill, wound, or maim himself; or not to resist those that assault him; or to abstain from the use of food, air, medicine, or any other thing, without which he cannot live; \[and even though commanded\] yet hath that man the liberty to disobey”.[^39] Hobbes further asserts that one has the liberty to refuse to do any dishonorable action – such as executing his own father – so long as others can perform that action just as well without dishonor, a position easily explained by appeal to reciprocity. For it would be unreasonable to fault a man for failing to do something so extraordinary that is not necessary for the society’s security that he personally do it, and that, in any case, he cannot reasonably be relied upon to be able to bring himself to do.[^40]
 
 [^38]: EW II, 83; *De Cive* 6.13.
+
 [^39]: EW III, 204; T 151.
+
 [^40]: In *Bethemoth* Hobbes considers whether a subject must obey the king’s command that he with his own hands execute his judicially condemned father, and concludes that he need do so only if the command takes the form of a *general law* published prior to the condemnation of one’s father, *and* one has elected to remain in the kingdom after the publication of that law. Evidently Hobbes thinks it would be unreasonable to fault one for refusing to obey a merely personal order to execute one’s father, or even a general law requiring that, unless one had had the chance to depart the kingdom before the issue arose in his own case. (Although, of course, he is liable to punishment if he refuses to obey.) If we suppose that to remain in the kingdom is to warrant that one would be able to bring oneself to execute one’s judicially condemned father if called upon to do so, it then would be reasonable to fault such a person for refusing to do so in the event, explaining why he then has no liberty to refuse. This position is analogous to Hobbes’s view that we may fault those who enroll as soldiers for running from battle even though we would usually excuse such conduct in others, for presumably those who enlist in the military are warranting that they will remain sturdy in the face of mortal threats. Thus, his view here on executing one’s father is a refinement, rather than a retraction, of his principled stance in *Leviathan.* See EW, VI, 227; *Behemoth ,* part I. Further, even when the command falls under preexisting legislation, if the subject regards executing his father as a fate worse than death, it will also be unreasonable to fault him for refusing to comply, as I explain in the following paragraph.
 
 *[p. 30]* ^pg48
@@ -242,6 +261,7 @@ Why does Hobbes not grant everyone the right to flout the Laws of Nature toward 
 In an artful twist, Hobbes holds that the legitimate ruler for a person is the ruler he would fault his fellow subjects for failing to obey. Hobbes’s argument in his *Elements of Law* that “to whose dominion we require our fellow subjects to yield obedience for our good, his 
 
 [^43]: This position is compatible with Hobbes’s claim in *Leviathan* that in the imaginary extreme case in which “*no man else*” is “modest and tractable, and perform\[s\] all he promises”, a person who observed the requirements of the Law of Nature toward those ne’er-do-wells would be doing nothing but making himself “a prey to others”, that is, assisting the wicked – since they are *all* wicked because failing to observe any of the Laws of Nature toward himself – in harming himself by their injustice , iniquity, intractability, and so on (EW III, 145; T 110).
+
 [^44]: This is the traditional Golden Rule, which Hobbes asserts captures his Laws of Nature, stated negatively. George Shelton  recognized the centrality of the Golden Rule to Hobbes’s theory in his *Morality and Sovereignty in the Philosophy of Hobbes* (New York, 1992). There he writes, “As Hobbes’s references to the golden rule indicate, his second Law of Nature is a version of that rule which, in essence, is the principle of reciprocity. The formation of any human group requires an understanding on this basis. It is the key to society and the key to Hobbesian political theory” (49; cf. 75). Although I agree with Shelton  that reciprocity is at the center of Hobbes’s moral theory, I do not agree that the particular moral theory in which Shelton  centrally locates reciprocity was actually Hobbes’s, for reasons discussed in Chapters 4 and 5.
 
 *[p. 33]* ^pg51
@@ -257,6 +277,7 @@ This argument provides one suggestion for how Hobbes understood the Law of Natur
 Once having established reciprocity as a requirement of reason, and so as a Law of Nature, Hobbes can use it to delimit the justifiable actions of governments. The Law of Nature requires sovereigns to advance, to the best of their abilities, the welfare of the people who 
 
 [^45]: EW II, 192; *De Cive* 14.12.
+
 [^46]: Bernard Gert, ed., *Man and Citizen: Thomas Hobbes* (Indianapolis, 1991), 73.
 
 *[p. 34]* ^pg52
@@ -270,6 +291,7 @@ Now all the duties of rulers are contained in this one sentence, *the safety of 
 Sovereigns are to pursue the good of their subjects. What constitutes that good? According to reciprocity, no sovereign may rightly – that is, justifiably, in accordance with right reason – rule in a way that he would fault, were he subject to that same sort of rule, as unreasonable given the ends he would have had in submitting himself to government. Understanding the contours of rightful rule thus requires reflection on the ends for which subjects wish to see government imposed on their fellows, and so (by reciprocity) the sovereign’s adoption of ruling policies that promote rather than frustrate those same ends. This has some very interesting implications for how much 
 
 [^47]: EW III, 322; T 231. Cf. EW IV, 213; *Elements of Law* II.9.1: “the duty of a sovereign consisteth in the good government of the people. . . . \[W\]hen \[his acts\] tend to the hurt of the people in general, they be breaches of the law of nature . . . and consequently, the contrary acts are the duties of sovereigns , and required at their hands to the utmost of their endeavour, by God Almighty, under pain of eternal death”. See also EW IV, 214; *Elements of Law* II.9.1: “the general law for sovereigns, *That they procure, to the uttermost of their endeavour, the good of the people*”; and EW II, 168, 80–81 note, and 101–102; *De Cive* 13.4, 6.13, and 7.14.
+
 [^48]: EW II, 166–167; *De Cive* 13.2–4; cf. EW III, 335; T 239.
 
 *[p. 35]* ^pg53
@@ -285,7 +307,9 @@ control sovereigns may properly exert over the lives of subjects, which I shall 
 Further, the Law of Nature imposes on the sovereign a duty to avoid unnecessary wars, for war is dangerous and costly, and so not 
 
 [^49]: EW II, 169; *De Cive* 13.6.
+
 [^50]: EW VI, 13–14.
+
 [^51]: EW II, 171; *De Cive* 13.8.
 
 *[p. 36]* ^pg54
@@ -297,6 +321,7 @@ to be undertaken unless it significantly serves at least one of the four compone
 With respect to the requirement of securing domestic peace, the Law of Nature requires fair adjudication of disputes, proper practices of punishment, and the fair distribution of public burdens . First, sovereigns must judge contested cases fairly and impartially, and they must be sure all their appointed subfunctionaries do so as well, and set up special panels to review complaints against those appointees. Hobbes writes, The law of nature therefore gives this precept to supreme commanders, that they not only do righteousness themselves, but that they also by penalties cause the judges, by them appointed, to do the same; that is to say, that they hearken to the complaints of their subjects; and as oft as need requires, make choice of some extraordinary judges, who may hear the matter debated concerning the ordinary ones.[^53] Partiality is also to be rooted out, for the sovereign, considering “the trust reposed in him, and for the equality  which the law of nature 
 
 [^52]: EW IV, 219–220; *Elements of Law* II.9.9. As we’ll see in Chapter 7, the fault of Hobbes’s infamously unjust “Foole ” is partly that he counts on fortune better than he has reason to expect.
+
 [^53]: EW II, 181; *De Cive* 13.17.
 
 *[p. 37]* ^pg55
@@ -308,8 +333,11 @@ requires an equitable practice of punishment, and, Hobbes insists, one that is f
 Because no good can come to the commonwealth from punishing the innocent, this seventh Law of Nature forbids punishing the innocent, as does the fourth Law of Nature forbidding ingratitude or the returning of evil for good, and the eleventh requiring equity, or the equal distribution of justice.[^57] “Natural equity”, writes Hobbes, 
 
 [^54]: EW IV, 106; *Elements of Law* I.4.7.
+
 [^55]: EW VI, 26.
+
 [^56]: EW II, 179; *De Cive* 13.16. In Leviathan this constraint on civil punishment s is articulated in Hobbes’s seventh Law of Nature requiring “*that in revenges,* that is, retribution of evil for evil, *men look not at the greatness of the evil past, but the greatness of the good to follow.* . . . For this law is consequent to the next before it, that commandeth pardon, upon security of the future time. Besides, revenge without respect to the example, and profit to come, is a triumph, or glorying in the hurt of another, tending to no end; . . . and glorying to no end, is vain-glory, and contrary to reason, and to hurt without reason, tendeth to the introduction of war; which is against the law of nature; and is commonly styled by the name of *cruelty*” (EW III, 140; T 106– 107). From this law it would follow that a civil sovereign should exercise mercy and the power of pardon when he can do so without harm to the commonwealth.
+
 [^57]: EW III, 304; T 219. One might doubt the claim that no good can come from pun-EW III, 304; T 219. One might doubt the claim that no good can come from punishing the innocent. Hobbes’s sovereign is authorized to inflict whatever harms on individuals he sincerely deems necessary for the public good, whether they fall under judicial punishment or not; such harms while injuries are not injustices. However, Hobbes is not willing to include such inflictions of harms on known innocents for the greater good within the practice of punishment. A punishment practice that did include such inflictions – Rawls  termed such a system “telishment” – would undermine public confidence in the justice of punishment, decrease its deterrent effects and undermine its capacity to function as a price system, and increase fear, uncertainty, and feelings of victimization. In addition to these bad effects of a system of telishment, such a system would violate the constraints of equity, gratitude, and avoidance of cruelty imposed by the Law of Nature. For these reasons Hobbes rejects a system of justice that would permit punishment of the innocent, even though there might be particular cases in which good could come from inflicting “punishment” on an innocent whom the state intentionally misrepresented as guilty. For a discussion of telishment and the distinction between the justification of a practice and the justification of an action falling under a practice, see John Rawls , “Two Concepts of Rules”, *Philosophical Review* 64 (1955): 3–32.
 
 *[p. 38]* ^pg56
@@ -321,7 +349,9 @@ Because no good can come to the commonwealth from punishing the innocent, this s
 Another element of good government for domestic peace is the fair distribution of public burdens . Equity requires that those who benefit equally should equally share the burdens  of producing that benefit, and no one should be burdened beyond bearing. This has implications for the structure and form of taxation . Hobbes writes, To remove therefore all just complaint, it is the interest of the public quiet, and by consequence it concerns the duty of the magistrate, to see that the public burthens be equally borne. . . . Now it is the law of nature . . . that every man in distributing right to others, do carry himself equal to all. Wherefore 
 
 [^58]: EW II, 180; *De Cive* 13.16.
+
 [^59]: EW III, 298–300; T 214–216.
+
 [^60]: EW II, 180, emphasis added; *De Cive* 13.16.
 
 *[p. 39]* ^pg57
@@ -333,10 +363,15 @@ rulers are, by the natural law, obliged to lay the burthens of the commonweal eq
 Sovereigns, Hobbes writes, “would sin against the law of nature, (because against their trust, who had committed that power unto them), if they should not study, as much as by good laws could be effected, to furnish their subjects abundantly, not only with the good things belonging to life, but also with those which advance to delectation”.[^65] Limiting taxation  to the smallest amount needed to secure the public good contributes to domestic peace by limiting the discontent of subjects aggrieved to part with their goods, for “great exactions, though the right thereof be acknowledged, have caused great seditions”.[^66] But appropriate taxation  is also a part of the sovereign’s duty to promote 
 
 [^61]: EW II, 173; *De Cive* 13.10.
+
 [^62]: EW II, 173–174; *De Cive* 13.11; EW IV, 216; *Elements of Law* II.9.5.
+
 [^63]: Hobbes writes at EW IV, 216–217; *Elements of Law* II.9.5: “there is a *proportionably* to every man’s ability, and there is a *proportionably* to his benefit by commonwealth: and this latter is it, which is according to the law of nature. For the burdens  of the commonwealth being the price that we pay for the benefit thereof, they ought to be measured thereby. And there is no reason, when two men equally enjoying, by the benefit of the commonwealth, their peace and liberty, to use their industry to get their livings, whereof one spareth, and layeth up somewhat, the other spendeth all he gets, why they should not equally contribute to the common charge. That seemeth therefore to be the most equal way of dividing the burden of public charge, when every man shall contribute according to what he spendeth, and not according to what he gets. And this is then done, when men pay the common-wealth’s part in the payments they make for their own provision”. Less important for our purposes than whether Hobbes was right about the most equitable form of taxation  is to recognize that for Hobbes, the determination of correct tax policy requires prosecution of a case in the Law of Nature – an application of the Law of Nature to a set of empirical assumptions.
+
 [^64]: EW IV, 201; *Elements of Law* II.8.2.
+
 [^65]: EW II, 168; *De Cive* 13.4.
+
 [^66]: EW IV, 201; *Elements of Law* II.8.2.
 
 *[p. 40]* ^pg58
@@ -350,10 +385,15 @@ Interestingly, Hobbes insists that increasing wealth by preying on other nations
 Although legislation is necessary to secure domestic peace, I have not discussed earlier what the Law of Nature requires of the sovereign in the general exercise of legislative authority, because that issue cannot be treated separately from a discussion of the proper scope of subjects’ liberty under the Law of Nature. In legislating, “to leave man as much liberty as may be, &c. is the duty of a sovereign by the law of nature”.[^72] 
 
 [^67]: EW III, 334; T 239.
+
 [^68]: EW II, 177; *De Cive* 13.14.
+
 [^69]: EW II, 177–178; *De Cive* 13.14; EW IV, 215; *Elements of Law* II.9.4.
+
 [^70]: EW II, 177; *De Cive* 13.14.
+
 [^71]: EW III, 335; T 239. I discuss this case at greater length in Chapter 3.
+
 [^72]: EW IV, 215, marginal summary; *Elements of Law* II.9.4.
 
 *[p. 41]* ^pg59
@@ -361,6 +401,7 @@ Although legislation is necessary to secure domestic peace, I have not discussed
 But how much liberty is that? It turns out to be the largest amount of liberty compatible with the maintenance of peace, “nor doth the law of nature command any divesting of other rights, than of those only which cannot be retained without the loss of peace”.[^73] We saw that because a condition of unrestricted private liberty (the universal liberty to act on private judgment ) in fact impedes the effective exercise of our agency as we cross purposes and thwart one another’s plans, justle and hew, we must, as rational agents , will its abridgment. But by reciprocity, we must accept the same degree of abridgment of our own liberty that we would fault others for refusing to cede together with us. Each of us must judge it unreasonable of others to refuse to cede all those liberties whose retention is inimical to peace, understood as an ordered condition that makes effective agency  generally possible; but at the same time each of us must also think it unreasonable of others to fault us for refusing to accept greater limitations on our liberty than are necessary for peace, because, after all, we value peace instrumentally, for the sake of more effectively pursuing our ends. Because our interest is precisely in obtaining the conditions best suited for facilitating our agency  in pursuit of whatever our ends may be, we can have no reason to prefer a condition in which all our actions are constrained by the state with nothing left to our own private judgment  to the anarchic condition of mutual interference created by universal private judgment . Neither of these is desirable from our perspective as rational agents . The point of balance between these competing judgments of reasonableness should mark out the domains of proper legislation (that which accords with reason) and harmless liberty, and this is what we see.[^74] Hobbes writes, \[L\]aws were not invented to take away, but to direct men’s actions; even as nature ordained the banks, not to stay, but to guide the course of the stream. 
 
 [^73]: EW IV, 103–104; *Elements of Law* I.4.2.
+
 [^74]: Pll be offering more extended arguments for this claim in Chapter 5, with support-I’ll be offering more extended arguments for this claim in Chapter 5, with supporting considerations offered in Chapter 2. It should be remembered that although every law the sovereign makes is legitimate (because subjects authorize all the sovereign does in his capacity as sovereign, hence no law can be “unjust”), not every law is proper. Laws that cross the duties of sovereigns  as given by the natural law requiring reciprocity fail to accord with reason, and are thus improper. That is, such laws express an improper exercise of sovereign authority, which, if done willingly, is iniquity and an injury to God. Such transgressions are to be judged and punished only by God. These points are elaborated in the Chapter 6 discussion of Hobbes’s *hierarchy of responsibility .*
 
 *[p. 42]* ^pg60
@@ -370,7 +411,9 @@ The measure of this liberty is to be taken from the subjects’ and the city’s
 If legislation is confined to such fairly obvious restrictions on liberty, we should not expect greatly intrusive micromanagement of individuals’ affairs. Hobbes evidently believes that subjects are not in any real danger of finding their liberty unreasonably constrained in civil society, not just because the Law of Nature forbids this, but also because \[S\]eeing there is no commonwealth in the world, wherein there be rules enough set down, for the regulating of all the actions, and words of men; as 
 
 [^75]: EW II, 178–179; *De Cive* 13.15. Hobbes goes on to tie this liberty  to the need for judicial integrity we noted earlier: “It pertains therefore to the harmless and necessary *liberty* of subjects, that every man may without fear enjoy the rights which are allowed him by the laws. For it is in vain to have *our own* distinguished by the laws from *another’s,* if by wrong judgment, robbery, or theft, they may be again confounded. But it falls out so, that these do happen where judges are corrupted” (EW II, 180; *De Cive* 13.17).
+
 [^76]: EW III, 335–336; T 239–240.
+
 [^77]: EW II, 179; *De Cive* 13.15.
 
 *[p. 43]* ^pg61
@@ -382,7 +425,9 @@ Although no greater restriction on personal liberty than what is necessary for p
 He also argues that it is against the Law of Nature for princes to permit factions, which Hobbes characterizes as unions of subjects into pacts or leagues bound by covenants of obedience to some 
 
 [^78]: EW III, 199; T 147–148.
+
 [^79]: EW IV, 233; *Of Liberty and Necessity* (Epistle to the Reader).
+
 [^80]: EW IV, 214–215; *Elements of Law* II.9.3.
 
 *[p. 44]* ^pg62
@@ -396,9 +441,13 @@ Hobbes insists that it also belongs to the sovereign’s office of procuring the
 Hobbes lists as one of the three conditions necessary to motivate rebellion what he calls “pretense of right ”, by which he means the sense that one can give a principled moral or religious justification for one’s rebellion.[^85] Without pretense of right , even discontented men who think their rebellion might succeed will not attempt it (itself 
 
 [^81]: EW II, 176; *De Cive* 13.13. Cf. his discussion of irregular systems and private leagues in *Leviathan,* chapter 22.
+
 [^82]: EW III, 164; T 124. Cf. Hobbes’s discussion of “the poison of seditious doctrines ” in *Leviathan,* chapter 20.
+
 [^83]: EW III, 322–323, emphasis added; T 231.
+
 [^84]: EW II, 79n; *De Cive* 6.11, emphasis added.
+
 [^85]: EW IV, 200; *Elements of Law* II.8.1.
 
 *[p. 45]* ^pg63
@@ -408,7 +457,9 @@ a surprising allegation that we will investigate in the next chapter).[^86] The 
 It may seem that Hobbes is equivocating between conceptual repugnance and causal repugnance in his claim that doctrines repugnant to peace cannot be true. It would seem that whether a doctrine is true, and what it causes, must be altogether separate questions. In fact, because doctrines without normative implications are causally inert, the *only* kinds of doctrines that *can* be causally repugnant to peace are those that state or imply a normative demand or permission. If the doctrine states or implies a false normative demand or permission, then the doctrine is false. Once Hobbes has demonstrated the truth of the proposition that we ought to settle peace (i.e., that settling peace is required under the Law of Nature) he is entitled to the conclusion that any doctrine that has normative implications 
 
 [^86]: This position can be made compatible with Hobbes’s claim, quoted earlier, that “great exactions, though the right thereof be acknowledged, have caused great seditions” if we suppose that discontent with these large taxes causes subjects to find some justifying pretext for sedition *other than* a claim that the sovereign has no right to levy such taxes (e.g., that he is wrong to carry out the war for which they are being taxed).
+
 [^87]: We will critically examine Hobbes’s system of education and its role within his political theory in Chapter 7.
+
 [^88]: EW III, 164–165; T 124–125.
 
 *[p. 46]* ^pg64
@@ -418,6 +469,7 @@ inconsistent with that proposition is false. Hence doctrines causally repugnant 
 Religious contention  is a most serious threat to domestic stability, and so it is the sovereign’s duty to settle a public convention governing religious profession and practice, and make sure that religious doctrines are not interpreted in ways that make them antithetical to civil obedience, for “What”, Hobbes asks, “can be more pernicious to any state, than that men should, by apprehension of everlasting torments, be deterred from obeying their princes, that is to say, the laws; or from being just?”[^89] More than that, Hobbes argues, if we desire  that our commonwealth should be of a religion, which requires that it observe a uniform public worship, reciprocity requires that we defer to the sovereign’s judgment (as the public arbitrator of disputes) as to what form that public worship should take.[^90] Quite apart from these practical considerations, Hobbes takes it to be a failure of sovereign duty not to do what the sovereign sincerely believes necessary for securing his subjects’ eternal good . “Forasmuch”, Hobbes writes, “as eternal is better than temporal good, it is evident, that they who are in sovereign authority, are by the law of nature obliged to further the establishing of all . . . they believe 
 
 [^89]: EW II, 155–156; *De Cive* 12.5.
+
 [^90]: EW II, 222; *De Cive* 15.17: “subjects can transfer their right of judging the manner of God’s worship, on him or them who have the sovereign power. Nay, they must do it; for else all manner of absurd opinions  concerning the nature of God, and all ridiculous ceremonies which have been used by any nations, will be seen at once in the same city. Whence it will fall out, that every man will believe that all the rest do offer God an affront; so that it cannot be truly said of any, that he worships God; for no man worships God, that is to say, honours him outwardly, but he who doth those things, whereby he appears to others for to honour him”. Cf. EW III, 355 (T 252–253), on public worship, and the discussion of it in *IAI,* 117–118.
 
 *[p. 47]* ^pg65
@@ -429,7 +481,9 @@ the true way thereunto. For unless they do so, it cannot be said truly, that the
 Finally, the Law of Nature requires that a sovereign provide for the continuing good of her subjects upon her death. The vicissitudes of fortune and uncertainties of this mortal life being what they are, we rightly fault those whose duty it is to ensure our security when they do not make provision for its continuation beyond their death. Hence the enduring appeal of such practices as procuring godparents, life insurance, and living trusts. Under the Law of Nature, a sovereign owes it to subjects to provide for their security beyond his death. One aspect of this requirement is the provision of an organized succession, for a sovereign “is bound by the *law of nature . . . of not returning evil for good,* prudently to provide that by his death the city suffer not a dissolution”[^93] by establishing an effective mechanism for the seamless transfer of power from government to government. Here Hobbes mentions the duty of gratitude imposed by the fourth Law of Nature (itself derived using reciprocity), in an argument that relies implicitly on the assumption that subjects do good to their ruler by obeying her rule. But the same conclusion can be more directly derived from reciprocity by observing that had the sovereign been in the subject’s 
 
 [^91]: EW IV, 214; *Elements of Law* II.9.2.
+
 [^92]: EW II, 169, emphasis added; *De Cive* 13.6.
+
 [^93]: EW II, 103; *De Cive* 7.16.
 
 *[p. 48]* ^pg66
@@ -459,6 +513,7 @@ The possibility of creating obligations *de novo* through consent  or covenant
 However, Hobbes’s stance that voluntary undertakings create obligations only if they run contrary to neither natural laws nor prior valid obligations implies that when sovereigns erroneously grant away powers that disable them from securing the safety of the people, those grants do not create valid obligations. Hobbes writes, \[K\]ings that grant such liberties, are bound to make them good, so far as it may be done without sin: but if a King find that by such a grant he be disabled to protect his subjects, if he maintain his grant, he sins; and therefore may, and ought to take no notice of the said grant. For such grants, as by error or false suggestion are gotten from him, are, as the lawyers do confess, void and of no effect, and ought to be recalled. Also the King, as is on all hands confessed, hath the charge lying upon him to protect his people against foreign 
 
 [^96]: EW IV, 108–109; *Elements of Law* I.4.11.
+
 [^97]: Alternatively, one might understand marriage  as transforming the person who was before culpable for having any sexual relations into one who may permissibly engage in them with his spouse.
 
 *[p. 51]* ^pg69
@@ -470,7 +525,9 @@ It is interesting to note that although in Hobbes’s system obligations arise o
 Because Hobbes regards reciprocity as the hub of all moral reasoning, it would be surprising were he not to employ it in his personal as well as political moral reasoning. We find that he does. In his *Considerations Upon the Reputation, &c. of Thomas Hobbes* (written as a letter to John Wallis, D.D.), he writes, “if tenderness of conscience be a good plea, you must give Mr. Hobbes also leave to plead tenderness of conscience  to his new Divinity, as well as you”.[^100] This passage 
 
 [^98]: EW VI, 16.
+
 [^99]: Even the person subsequently elected sovereign by the majority in a covenant instituting a commonwealth is understood to have first consented along with all the others to stand to the majority’s choice of sovereign, whomever it should be, or else be excluded from the resulting commonwealth. Similarly, heirs to existing sovereigns in ongoing commonwealths are until their succession under the same duties of political obligation  as other subjects. As noted above, the Laws of Nature impose a special political obligation to ensure the safety, prosperity, and liberty of subjects generally on those who occupy the role of sovereign.
+
 [^100]: EW IV, 431; *Considerations upon the Reputation, &c. of Thomas Hobbes.*
 
 *[p. 52]* ^pg70
@@ -488,5 +545,7 @@ In addition to the various cases in the Law of Nature we have sampled, Hobbes en
 7\. Against punishing for revenge 8. Against declaring contempt or hatred for others 9. For acknowledging others as one’s natural equals
 
 [^101]: EW IV, 416; *Considerations upon the Reputation, &c. of Thomas Hobbes.*
+
 [^102]: Speaking more literally, Hobbes’s actual stance on human treatment of at least some animals also appears to make appeal to an idea of reciprocity. Because fierce predators will not refrain from hunting us, we cannot be faulted for seeking to kill them. This is permitted under the Law of Nature, even without confirmation by divine positive law , because otherwise “it were a hard condition of mankind, that a fierce and savage beast should with more right kill a man, than the man a beast” (*Elements of Law* II.3.9). Hobbes speaks of “irrational creatures”, but because he elsewhere asserts that some animals exhibit prudence , it must be because of some other sort of reason that animals lack. It may be that Hobbes thinks precisely that what they lack is the capacity to constrain their behavior to conform with the requirements of reciprocity.
+
 [^103]: Kavka , *Hobbesian Moral and Political Theory,* 343.

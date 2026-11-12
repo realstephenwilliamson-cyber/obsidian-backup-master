@@ -21,6 +21,7 @@ In this we may understand the ramifications of the continuation of Abulafia’s 
 In the same context, Abulafia writes that “. . . he who is within his house is saved from the destroyer when the wrath passes over.” Given this idea’s appearance alongside the allusion to the castration of the non-Jews and the protective circumcision of the Jews, it is appropriate to surmise that a like significance is present in the safety accorded the Jew in his house. As has been analyzed in depth by Wolfson, Abulafia’s contemporaries deemed marital relations as crucial to the theurgical unification of the *sefirot*, as against the demonic threat that would otherwise impinge upon the mystic.[^105] The notion of safety’s being afforded to the Jew by his being in his house must be understood in such terms. That is, the phallus that is safe from castration, ensconced 
 
 [^104]: See, for this notion of *Binah*, Gikatilla, *Sha arei \[illegible\]* vol. 2, p. 46. For Abulafia’s conception of *Binah* in this regard, see above, pp. 230–232.
+
 [^105]: See above, pp. 152–153.
 
 *[p. 290]* ^pg305
@@ -32,6 +33,7 @@ Wolfson, we have noted, observes the polemical dimension inherent in the erotic 
 In this respect, Abulafia’s statement in the current context, “We cut into the flesh of desire to honor God,” appears to suggest an additional polemical gesture. Circumcision was deemed by Maimonides, to the extent that it tempered a man’s lustful feelings, as a protective device against idolatrous behavior.[^107] Thus, the circumcised Jew is protected from the temptations that plunge the non-Jew into sexual lasciviousness and heretical conduct. The cutting into “the flesh of desire” that results in the Jew’s honoring God is, then, a cutting into his desire itself. Thus, God is honored in the proper sexual conduct that results, 
 
 [^106]: See, for instance, *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-19b|1:19b]].
+
 [^107]: Wolfson, *Abraham Abulafia*, pp. 90, 219–220; Biale, *Eros and the Jews*, p. 91. Biale suggests that conceiving of circumcision in this fashion, as a means to rein in sexual desire, comes “. . . suspiciously close to effecting something like castration.” See also above, p. 165 n. 147.
 
 *[p. 291]* ^pg306
@@ -43,9 +45,13 @@ We have observed, concerning the theme *sheti va- erev* and the covenant of Esau
 Abulafia begins there by linking the demonic both with man’s animalistic component and with the blood of animals, which is not to be consumed.[^108] The flesh is appropriate for consumption, while the blood should be spilled upon the sacrificial altar. This concern with the sacrificial altar leads Abulafia into a discussion of Abraham’s binding of Isaac. That episode, Abulafia suggests, distinguishes the Jews from the idolators, who boast of their gods and sacrifice to them even their children.[^109] Abulafia turns his attention next to Jacob, the third of the three patriarchs. He clearly indexes the three *sefirot* corresponding to these three figures as he writes, “Three that are one Cehad): *emet* (truth), *hesed* (mercy), *din* ( judgment).”[^110] In this Abulafia appears to invoke a trinity in contradistinction to the one proffered by the idolatrous Christians. This is particularly apparent in his adoption of the Christian idiom, “three that are one.”[^111] Abulafia continues,[^112]
 
 [^108]: *Mafteah \[illegible\]* MS Oxford-BL 1605, fols. 55b–56a; printed edition, pp. 58–59.
+
 [^109]: Ibid., MS Oxford-BL 1605, fol. 56b; printed edition, p. 60. Abulafia contends that the idolators, “. . . boast of their gods and sacrifice even their children for their sake,” through a misunderstanding of the near-sacrifice of Isaac. This opinion is juxtaposed shortly thereafter with a discussion of Esau, such that we can sense a possible allusion to the sacrifice of Jesus on the cross, considering the Christian interpretation of the sacrifice of Isaac as presaging the crucifixion.
+
 [^110]: Ibid., MS Oxford-BL 1605, fol. 57a; printed edition, p. 61.
+
 [^111]: Wolfson, *Abraham Abulafia*, pp. 131–133 n. 101.
+
 [^112]: *Mafieah ha-Tokhahot,* MS Oxford-BL 1605, fols. 57a–b; printed edition, pp.
 
 *[p. 292]* ^pg307
@@ -69,6 +75,7 @@ Once more, the *sheti va- erev* nature of the Active Intellect is not to be conc
 Approached in this light, further details of the passage at hand emerge in greater clarity. For instance, both Jacob and Esau are linked by Abulafia to the concept of “growth.” In this we may recognize their close parallelism. Jacob is linked to the “growth of much study,” that is, with that which is spiritual and pietistic in nature, while Esau is linked with “corporeal growth.” Thus, each reflects one component of the *sheti va- erev* Active Intellect, though Abulafia, as we have said, elucidates the *sheti va- ‘erev* nature of each in turn. The conception of Jacob as bald, Esau as hairy articulates once more the notion that Esau is to be linked with that which is animalistic, while Jacob represents man’s nobility.[^115] And for the same reason Esau is again linked with bloodshed here, seeming to effect a linkage as well with the passage’s initial topic, the savage conduct of idolators in their sacrifices.[^116] That which is represented in Esau’s bifold constitution is thus to be shunned, from which we may understand that the wholly Christian, yet nonetheless bifold, dimension of the Active Intellect is abhorrent. We are exhorted by Abulafia to turn to study, that is, to the righteous dimension of the 
 
 [^115]: The association of hairiness with the demonic and baldness with purity is found as well in the *Zohar*. See *Zohar* [[Zohar 7.06 - Parashat Tazri'a#^z3-48b|3:48b–49a]].
+
 [^116]: Another polemic is apparently rendered here. Esau, that is, Christendom, is considered to be barbaric in its recourse to sacrifice, the sacrifice of Jesus being central to Christian dogma.
 
 *[p. 294]* ^pg309
@@ -82,7 +89,9 @@ On the subject of the theme *sheti va- erev* and its implications for a covenant
 . . . we have no \[divine\] proofs for any of them . . . there is no knowledge except in the intellect or in the senses, about which the intellect testifies, and regarding which it will bring many doubts in the heart. And also, because no prophet shows us sensory or intellective signs today, so that we will know the truth of that which we receive from our fathers and from the sages of blessed memory, that is, from their excellent books.
 
 [^117]: Wolfson, “Kenotic Overflow and Temporal Transcendence,” pp. 151–152. See above, p. 123, for a similar discussion on Abulafia’s part.
+
 [^118]: We touched earlier upon a portion of the passage. See above, pp. 47–48.
+
 [^119]: *Sefer ha-Melammed*, MS Paris-BN héb. 680, fol. 303b; printed edition, p. 36.
 
 *[p. 295]* ^pg310
@@ -124,6 +133,7 @@ it embraces belief in God’s unity.[^123] Christianity, therefore, does not emb
 The surmise that Abulafia could be contending with what, in Freudian terms, suggests penis envy may be associated with the observation that Abulafia was grappling with a powerful castration anxiety. At times, we can discern the suggestions in Abulafia’s thought that he may have felt himself to have been emasculated by his doubts, which were manifest in the form of maimings at the hands of bloodthirsty demons. If he felt, at points, his own virility to have been removed 
 
 [^123]: That Abulafia’s appraisal of Islam here seems to reflect a wider Jewish view is apparent from a statement by Joseph b. Shalom Ashkenazi, who reported that some Jews recited the *Shema‘,* the liturgical profession of God’s unity, while worshipping with Muslims, “. . . testifying to their unitary faith.” Nirenberg, *Communities of Violence*, p. 189. See the related discussion above, pp. 34, 46–48. In the *Zohar*, we find the attribution of at least a human status to Muslims, based upon their possession of what is at least a partial circumcision, while Christians are relegated to the status of beasts. Nevertheless, the zoharic authorship will at times reverse this judgment, declaring that exile among the demonic Muslims is worse than among the (also demonic) Christians. Wolfson, *Venturing Beyond*, pp. 51, 58. The status of human or “man” Çadam), that is, the divine likeness, is achieved only by the Jews, because only the Jews are circumcised. For the rabbinic background to this notion, see Gottstein, “The Body as Image of God in Rabbinic Literature.” See also the comment on the preceding in Aaron, “Shedding Light on God’s Body in Rabbinic Midrashim: Reflections on the Theory of a Luminous Adam.” The notion of this perfected human form in the divine likeness has other antecedents. The divine luminous body in Jewish-Christian thought is discussed in Fossum, “Jewish-Christian Christology and Jewish Mysticism.” Fossum relates the “Son” in this context, referred to as the “Great Power,” to the *Kavod* in the hekhalotic tradition, which is similarly identified. See p. 273. As well, the “Hidden Power,” identified with Jesus, is also present in the *Shiur Qomah* tradition. Ibid., p. 274.
+
 [^124]: In *Sefer ha- Edut* (*The Book of Testimony*), in the context of a discussion of the permutation of the letters of the Tetragrammaton forwards and backwards, Abulafia reports that “the nations” write backwards, while Jews and Muslims write forwards. The linkage of Islam with Judaism, as against Christianity, is again apparent here. Since Abulafia addresses once again the head and tail of the Teli in this context, we may also surmise that Abulafia associates Judaism and Islam with the Teli’s *sheti va-'erev* configuration, or with the all-encompassing YH of the Tetragrammaton. *Sefer* *\[illegible\]* MS Munich-BS 285 fol. 43a; printed edition (Masref *ha-Sekhel* ), p. 77.
 
 *[p. 299]* ^pg314
@@ -135,11 +145,17 @@ Relative to this internal battle over vying conceptions of phallic potency, anot
 And the secret \[of the two trees\] is “the mouth is male and the membrum is female. And[^127] the two trees are supernal and lowly.”[^128] And the secret of “garden” is “body, soul,”[^129] in the two of which is “divine wisdom.”[^130] And the locution “garden” is as a place that receives all kinds of growth, and so too “the mind”[^131] is a place that receives all manner of image (siur), 1 but testimonies come from it and tell us its \[the image’s\] powers, 
 
 [^125]: Scholem refers to the idea that the tree of the knowledge of good and evil is understood in kabbalistic discourse as the “tree of death,” as against the tree of life. The former is to be associated with the *Shekhinah*’s exile, perpetrated by demons, while the latter represents sefirotic unity. *On the Kabbalah and Its Symbolism*, p. 107.
+
 [^126]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fol. 47b; printed edition, p. 130.
+
 [^127]: The numerical value of the expression (in quotes) is five hundred and seventy-six to this point, equal to the numerical value of the words “two trees.”
+
 [^128]: The numerical value of the words “supernal” and “lowly” is again five hundred and seventy-six.
+
 [^129]: The “secret” is based upon the consideration of the word “garden” as an acrostic for the words “body, soul.”
+
 [^130]: This latter phrase has the same numerical value as “body, soul,” five hundred and nineteen.
+
 [^131]: “Garden” and “the mind” have the same numerical value, fifty-three.
 
 *[p. 300]* ^pg315
@@ -154,9 +170,13 @@ and they are the two trees, and every “tree” is “an image” \[illegible\]
 135\. The phrase “and the tree of knowledge” has the same numerical value as “adds sciences,” six hundred and forty-five.
 
 [^136]: The phrase “and the tree of life” has the same numerical value as “lot,” two hundred and thirty-nine.
+
 [^137]: The phrase “and the tree of knowledge” has the same numerical value as “lots,” six hundred and forty-five.
+
 [^138]: The phrase “and the tree of life” has the same numerical value as “adds an embryo,” two hundred and thirty-nine.
+
 [^139]: A peculiarity ensues here. Were we to find גלמות here instead of ( גלמוד as occurs in JTS MS 2367), then we would find a numerical equivalence between the phrase “and the tree of knowledge” and “adds ”,גלמות both yielding six hundred and forty-five. ,גלמות however is not easily understood, the plural for *golem* being masculine in form. “*Galmud* ” makes contextual sense but disrupts the numerical equivalence of the two phrases in question.
+
 [^140]: See above, p. 267. Elsewhere, we noted Abulafia’s reference to a “covenant of the holy language,” one that appeared to coincide in all respects with the covenant of the tongue. See above, p. 275. See also Wolfson, “Kenotic Overflow and Temporal Transcendence,” p. 167.
 
 *[p. 301]* ^pg316
@@ -170,6 +190,7 @@ As part and parcel of this faculty, the inferior circumcision, that of the membr
 In a related passage, from *Mafieah \[illegible\]* Abulafia writes,[^142] . . . The intention of creation was completed only after the giving of Torah. And he who was created was not completed until he circumcised himself and removed from himself his foreskin. And two contained covenants were brought, and they are the covenant of circumcision, to complete within it the creation of the attribute of the body, and the 
 
 [^141]: On the link between the tree of the knowledge of good and evil and shameful sexuality, see Idel, *Mystical Experience*, p. 204.
+
 [^142]: *\[illegible\] ha-Ra'ayon,* MS Vatican-BA ebr. 291; fol. 25b, printed edition, p. 14.
 
 *[p. 302]* ^pg317
@@ -184,6 +205,7 @@ From this we may understand an assertion from our prior reading from *Sitrei Tor
 144\. Wolfson notes Abulafia’s association of the covenant of the tongue with Moses and that of the phallus with Abraham. He observes as well that the circumcision of the heart mediates between those of the tongue and phallus. Wolfson, *Venturing Beyond*, pp. 67–69; *Language, Eros, Being*, p. 139.
 
 [^145]: *Mafleah \[illegible\]* MS Vatican-BA ebr. 291, fols. 25b–26a; printed edition, p. 15.
+
 [^146]: *Sefer Yesirah,* Gruenwald ed., 3:3–4, 6:1 (para. 25–26, 28–30, 35). See above,
 
 *[p. 303]* ^pg318
@@ -207,7 +229,9 @@ It is not surprising to find an Egyptian rendered in such terms, given what we h
 Entwined within Abulafia’s discussion of the corruption latent within sexual procreation is precisely the opposite quality as well. Abulafia refers in this regard to the “circumcision of the nakedness,” an inversion of the words for the dishonor implicit in the “uncovering of the circumcision” just discussed.[^150] Though the two phrases are composed of the same Hebrew letters, the former suggests the sanctification of the male organ and, thus, of the sexual act. This sanctifying circumcision is drawn into a numerical association with the Torah and *misvot,* as was its opposite expression.[^151] The latter, the “uncovering of the circumcision” is as well linked numerically by Abulafia to the phrase “ten *sefirot*.” This latter phrase, we then find, contains nearly the same letters as—and has the same numerical value as—the word for “earthly” \[illegible\] From all of this it is apparent that Abulafia seeks to demonstrate that two moral valences are present within the 
 
 [^149]: *Mafteah ha-Shemot*, MS NY-JTSA Mic. 1897, fol. 81b; printed edition, p. 130.
+
 [^150]: *Milat \[illegible\]* versus *troat. ha-milah*.
+
 [^151]: Both phrases are numerically equivalent to the phrase “counting of the Torah” (having a numerical value of seven hundred and sixty-six), which, Abulafia implies, refers to the number of *misvot.* עפריות versus . ספירות י" <sup>152</sup>
 
 *[p. 305]* ^pg320
@@ -219,9 +243,13 @@ Just, then, as these two components are entwined within the Active Intellect, so
 In the continuation of the *Sitrei Torah* passage, Abulafia declares that he who merits “the name” is “Moses.”[^155] Undoubtedly, meriting the name is synonymous with the cleaving to the Active Intellect, which, as with the *sefira Yesod*, is as well referred to by Abulafia as Shaddai.[^156] Just as, elsewhere, the mystic who accomplishes this is transformed into the angel Metatron, so here we see him transformed into the hypostatic Moses.[^157] We saw earlier that this divinized state is the result of the perfection of the covenant of circumcision, completed in the form *sheti va- erev,* so we may well understand the association here between the Active Intellect and the phallic potency. When Abulafia 
 
 [^153]: This formulation follows from Abulafia’s immediately preceding discussion, not quoted here. There, he discussed the divine and terrestrial natures, what he refers to as the intellective and the material, with respect to the ox and the ass. The ox, a clean animal, is linked to the *merkabah* by the fact that an ox’s face is one of those possessed by the *hayot,* while the word for ass, an unclean animal, possesses the same consonants as the word “matter.” The corrupted nature of the ass is somewhat qualified, just as is that of the material or imaginative component of the efflux from the Active Intellect, by the fact that the messiah will ride upon, that is, subjugate and harness, an ass ([[Zechariah 09#^9-9|Zech. 9:9]]). Wolfson, *Language, Eros, Being*, p. 242. Idel, *Mystical Experience*, pp. 143, 188.
+
 [^154]: “Moses” and OF\] Shaddai” both have a numerical value of three hundred and forty-five.
+
 [^155]: “The name” is an anagram of “Moses.”
+
 [^156]: Wolfson, *Abraham Abulafia*, pp. 131 n. 100, 148, 204, 205.
+
 [^157]: For the interconnectedness of Moses, Metatron and the Active Intellect in the thought of Jacob ha-Cohen, see Pedaya, *Vision and Speech*, p. 96 (in Hebrew).
 
 *[p. 306]* ^pg321
@@ -233,7 +261,9 @@ It is as well the demiurgic nature of the Active Intellect that is underscored t
 158\. Abulafia’s perspective that the *sheti \[illegible\]* circumcision gives rise to a cleaving with the Active Intellect, resulting in the realization of a divine status, finds a further noteworthy Christological parallel. In a vision of hers, Catherine of Siena wore Jesus’ foreskin as a wedding ring, one which she associated with the eucharist. Bynum, “The Body of Christ in the Later Middle Ages,” p. 408. Through circumcision—Jesus’, vicariously—Catherine comes into her erotic intimacy with the divine. At the same time here, we may also detect a suggestion that Jesus’ own divine identity is expressed in his circumcision. His divine embodiment is encapsulated in his foreskin, as an analog to the eucharistic wafer.
 
 [^159]: The Active Intellect’s status as demiurge and phallic potency is emphasized in a passage from *Gan Naut:* “And after this \[discussion of the lowest *sefira, Malkhut*\] contemplate the second \[*sefira*\], which is the ninth *sefira*, and it is the root of the tenth, which is the last branch of all the *sefirot*, and its name is *Yesod*. And it is hinted at in the covenant of circumcision, and from the power of this ninth *sefira* the tenth produces fruit.” MS Munich-BS 58 fol. 319a; printed edition, pp. 11–12. See also *Mafteah ha-Ra'ayon,* MS Vatican-BA ebr. 291, fol. 41a; printed edition, p. 58 for the identification of *Yesod* with circumcision. For *Yesod* as Shaddai, the Active Intellect and the phallic potency, see above, pp. 199, 161 n. 138, 188–190, 224, 305–306. See also Scholem, *Major Trends in Jewish Mysticism*, p. 228, Wolfson, *Abraham Abulafia*, pp. 130–131; “Circumcision and the Divine Name,” pp. 85, 98; *Circle in the Square*, pp. 42–47; *Language, Eros, Being*, p. 133; Idel, *Language, Torah, Hermeneutics*, p. 7.
+
 [^160]: The first letters of each of these colors, when combined with the letter *dalet*, signifying the number four, spell the name °EL Shaddai.
+
 [^161]: See [[John 01#^1-3|John 1:3]], [[John 01#^1-10|10]]; [[Colossians 01#^1-15|Col. 1:15–15]]; [[Hebrews 01#^1-2|Heb. 1:2]], [[Hebrews 01#^1-10|10]]. See Deutsch, *Guardians of the Gate*, p. 156. For the Jewish roots of demiurgical motifs that may subsequently have informed conceptions of Jesus, see Scholem, *Jewish Gnosticism*, pp. 2, 12, 34, 42, 45, 49, 51, 66; Fossum, *The Image of the Invisible God*; Stroumsa, “Form(s) of God,” pp. 277, 279, 281; Wolfson, *Along the Path*, pp. 75–84; Liebes, *Studies in the Zohar*, pp. 156,
 
 *[p. 307]* ^pg322
@@ -251,6 +281,7 @@ In view of the statement that such a man is both “first and last,” one theme
 162\. *Mafteah \[illegible\]* MS Vatican-BA ebr. 291, fols. 37a–b; printed edition, p. 47.
 
 [^163]: See BT. *Hagigah* [[Chagigah 12#12b|12b]], *Yoma* [[Yoma 38#38b|38b]]; *Bahir*, § 102; *Battei Midrashot* 2:3, 4.
+
 [^164]: In the theosophic kabbalistic tradition, as well as elsewhere in the work of Abulafia and his disciples, the letter *alef* is discussed in terms of its tripartite nature. Wolfson, *Language, Eros, Being*, p. 544 n. 450.
 
 *[p. 308]* ^pg323
@@ -260,8 +291,11 @@ In view of the statement that such a man is both “first and last,” one theme
 That Abulafia intends a demiurgic understanding of the perfected man whom he references in the passage from *M afteah ha-Ra ayon* is rendered apparent in several ways. First, this man is seen to sustain the world after the fashion of a supporting pillar, a notion drawn from the Talmud regarding the righteous of every generation.[^166] Second, the word that Abulafia chooses to denote the world’s dependence on the righteous man is *talui*. This choice is most certainly intended by Abulafia to allude to the function of the demiurgic Teli, from which the world devolves and is suspended or “hangs.”[^167] This connotation to the name itself for the Teli we have already considered. Elsewhere, Abulafia will link the Teli with his discussions of the *sefira Yesod*.[^168] That Abulafia refers to the world here as the All recalls gnostic notions of the demiurge as the progenitor of or from the pleroma, notions that 
 
 [^165]: In the passage from *Mapfteah ha-Ra ayon,* there is some degree of ambiguity in terms of how the “last” is to be understood with respect to the *alef.* It was apparent that the *alef* is “last” when it represents, for Abulafia, the number one thousand, but as Abulafia continues, the *alef* is not again associated with the “last” number, one thousand, but only with the numbers one, ten and one hundred. It is from this and from the appearance of nine, ninety and nine hundred in the same connection in *Sitrei Torah* that I infer that *alef* is essentially “first,” because of its placement with respect to the single digit numbers, while the number nine, or the letter *A* is last for a similar reason.
+
 [^166]: See above, n. 163.
+
 [^167]: Insofar as the *saddiq* may be thought of as the *axis mundi*, we may understand as well his association with the Teli. See, for instance, Green regarding R. Simeon bar Yohai of the *Zohar* as both the *saddiq* and as the *axis mundi.* Green, “The *Saddiq* as *Axis Mundi* in Later Judaism,” p. 336. We should note a related discussion on the part of Abulafia’s teacher, Baruch Togarmi. Addressing *Sefer Yesirah’s* reference to the *sefirot* as *belimah*, he writes, “The moon \[*levanah*, having the same numerical value as *belimah*, eighty-seven\] is the beginning of the lower ones in one respect and the end of the upper ones as well. And thus the *Yesod* depends (*talui* ) upon the mouth in one respect and in one respect upon the *milah.*” Togarmi here integrates a notion of the twofold aspect of the demiurge, accompanied by the latter’s association with the two covenants, and an identification of this demiurge both with the *sefira Yesod* and, by implication, with the Teli. *Sefer \[illegible\] ha-Kabbalah*, p. 232.
+
 [^168]: See, for instance, *Gan \[illegible\]* MS Munich-BS 58 fol. 335a; printed edition, p. 65.
 
 *[p. 309]* ^pg324
@@ -273,7 +307,9 @@ We perceived an allusion to Jesus operative in the discussion of “the Egyptian
 We should, of course, observe that the christologically suggestive evocation of the letter *alef* is accompanied by the assertion that the letter is tripartite—or trinitarian—just as is the man who embodies this letter. As well, Abulafia clearly suggests that such a man is divinized. He bears the likeness of both Metatron and of God. As to the nature of this likeness, we noted earlier how the *sheti va- erev* configuration with 
 
 [^169]: Scholem, *Origins of the Kabbalah*, pp. 71, 87–89; Wolfson, *Along the Path*, pp. 72–73; *Abraham Abulafia*, pp. 130–131.
+
 [^170]: Nahmanide referred to *Yesod* as the All. Idem, “By Way of Truth,” pp. 166– 167. He referred as well to the *Shekhinah* as the All, embodying as it does all of the higher *sefirot* within it. We should note that this unification with the higher potencies is achieved through the conjoining of *Yesod* with the *Shekhinah*, realized, as mentioned earlier, in circumcision. See ibid., p. 145.
+
 [^171]: [[Revelation 01#^1-8|Rev. 1:8]], [[Revelation 01#^1-17|17]]; [[Revelation 21#^21-6|21:6]]; [[Revelation 22#^22-13|22:13]], and see next note.
 172\. Wolfson discusses the influence of emergent Christian doctrine regarding Jesus as the alpha and the omega on the formulation in *Shir ha-Shirim Rabbah* concerning God and the letters *alef, v mem* and *tav*. *Alef, Mem, Tau*, pp. 164–165. Marcus notes the “highly suggestive” similarity between the Christian eating of the eucharistic wafer, representing God, “the alpha and the omega,” and the medieval Jewish practice of having children eat cakes inscribed with the alphabet. Jewish absorption of this Christian motif is suggested. “Jews and Christians Imagining the Other in Medieval Europe,” p. 221; *Rituals of Childhood*.
 
@@ -302,9 +338,13 @@ Behold, already you see that these \[three plagues are\] mentioned through the s
 It is apparent that Abulafia here contemplates a relationship between the plagues and the *sefirot*, the latter in their configuration of three hierarchical triads, with the lone *sefira Malkhut* beneath.[^175] Thus, the ninth plague, darkness, corresponds to the ninth *sefira, Yesod*. Abulafia next notes the presence of the word “plague” (nega“) ) in [[Torah 15 - Bo#^11-1|Exodus 11:1]],[^176] drawing a connection between its appearance there and its appearance in *Sefer Yesirah.* There, the word pair of *oneg* (pleasure) and *nega“* was enigmatically evoked.[^177] Here it seems that Abulafia intends *nega i* to indicate the tenth *sefira*.[^178] This is apparent from his subsequent reference to pharaoh’s sending of the Israelites from Egypt, in the same 
 
 [^174]: *Gan Na ul, |* MS Munich-BS 58 fol. 329a; printed edition, p. 45.
+
 [^175]: Abulafia states that he understands the scriptural treatment of the ten plagues to encrypt clues concerning the ten *sefirot*. Ibid., MS Munich-BS 58 fol. 329a; printed edition, p. 45.
+
 [^176]: *Veh she-qara ? ha-shem nega; she-ne emar* . . .
+
 [^177]: *Sefer Yesirah,* Gruenwald ed., 2:4 (para. 18). See above, pp. 193–194, 270.
+
 [^178]: It is also possible that Abulafia understands the positive and negative connotations of *oneg* and *\[illegible\]* to refer to aspects of each *sefira*. Those negative aspects are then to be understood as having the character of a “plague.” This notion is particularly relevant to a consideration of the ninth *sefira*. For *Yesod* is identified by Abulafia with the Active Intellect, whose bipartite nature has been essential to our analysis of Abulafia’s construal of an idolatrous element within the divine efflux received by the mystic.
 
 *[p. 312]* ^pg327
@@ -318,8 +358,11 @@ The letters for “he shall send you” \[illegible\] from the last part of the 
 The “end of the All,” or the impotence of the phallic *Yesod*, is essentially satanic in nature. We have already observed that Jesus is described by Abulafia in terms of the material and corrupt aspect of semen, the 
 
 [^179]: See above, p. 268; Scholem, *On the Kabbalah and Its Symbolism*, pp. 107–109.
+
 [^180]: Or, “in the end.”
+
 [^181]: Each has a numerical value of three hundred and sixty-four, although, with respect to “white seed,” this only holds when one removes the prefix letter *he* from the word *ha-levanah*.
+
 [^182]: Scholem, *On the Kabbalah and Its Symbolism*, p. 107.
 
 *[p. 313]* ^pg328
@@ -331,8 +374,11 @@ We should understand that, for Abulafia, the notions of impotence and of the bas
 In *Gan Naul,* Abulafia draws the connecting link between what he perceives to be a discussion in Exodus of sefirotic exile and Satan based upon the word “darkness.” He then elaborates further on this darkness as it relates to *Yesod*, returning to the theme of the ninth plague. Abulafia, we have seen, ascribes to Satan this darkness and the 
 
 [^183]: *Shomer Misvah,* MS Paris-BN héb. 853, fol. 41a; printed edition, p. 4.
+
 [^184]: The phrases “tree of knowledge,” “preserves the drop,” “the particular name,” “the name of idolatry,” “prince of the bodies,” “prince of every body” and “prince of the body of man” all have the same numerical value, six hundred and thirty-nine.
+
 [^185]: Ibid. The words “fetid drop,” “sexual intercourse” and “from the left” all have the same numerical value, three hundred and seventy-three.
+
 [^186]: We have seen the demonic Sandalfon referred to as the “prince,” so it is possible that Abulafia alludes to Jesus via a reference to Sandalfon. See above, pp. 200–201.
 
 *[p. 314]* ^pg329
@@ -344,8 +390,11 @@ Along similar lines, Abulafia examines the words “three days,” the duration 
 . . . day and night, whose secret is Samael, hinting to the three days of thick darkness during which no luminous heavenly body had yet been created.[^189] Because on the fourth \[day\] they were created from the attribute of curses \[illegible\] “The word (mra) of the Lord is tried, He is a shield to those who trust in Him” ([[Psalms 018#^18-31|Ps. 18:31]]).[^190]
 
 [^187]: That Abulafia is considering divine names in particular becomes apparent when he next draws an equivalence to the phrase, “light of forty-two names,” evoking the forty-two letter divine name.
+
 [^188]: The conception of darkness as lacking a bona fide existence could relate as well to Abulafia’s contention that evil is ultimately always for the good, a theme which we have seen him apply to the demonic component of the Active Intellect with respect to the importance of the trial of the mystic.
+
 [^189]: *Gan Naul,* MS Munich-BS 58 fol. 330b; printed edition, pp. 46–47. Abulafia refers to the Genesis creation story, where, although God’s first act is the creation of light, the heavenly bodies are not created until the fourth day.
+
 [^190]: See a closely related passage, *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-19b|1:19b]]. This parallel makes it apparent that ממדת מארת should be rendered as “from the attribute of curses” and not as ממדת “ ,מאורות from the attribute of lights.” Given the context, Abulafia clearly intends an implicit connection between the words *meir* (luminous) and *me-eirot* (curses). In the current passage, the words “three days” have a numerical value of one thousand one hundred and thirty, while the words “day and night” have a value of one hundred and thirty-seven, and “Samael” has a value of one hundred and thirty-one. Perhaps Abulafia intends the omission of the prefix “and” in the phrase “day and night,” so that its numerical value would be equivalent to that for “Samael,” which, in turn, is comprised of the same digits as those of the numerical value of the words “three days.” The numerical value of the phrase “from the attribute of curses” is one thousand one hundred and twenty-five, five less than that for “three days.”
 
 *[p. 315]* ^pg330
@@ -361,7 +410,9 @@ That Abulafia has Jesus in mind in the course of this discussion is subsequently
 And it is said there, “. . . Stretch out your hand toward heaven” ([[Torah 15 - Bo#^10-21|Ex. 10:21]]) “the dead” “Stretch out your hand” “writ of judgment” “Satan descends” “toward heaven” “spirit of Satan” “who kills” “. . . that there may be darkness over the land of Egypt, darkness which may be felt” 
 
 [^191]: By a letter transposition Abulafia had also linked “thick darkness” to the words “potency of anger,” suggesting a link between the darkness and harsh judgment. The *Zohar* explains the same essential wordplay in terms of the cursed, or impaired, state of the moon. See previous note.
+
 [^192]: That Abulafia intends for *Yesod* in particular to be understood as progenitor of the other *sefirot*, it must be observed, is somewhat awkward, given its position as the ninth of the ten *sefirot*. Abulafia seems here, as elsewhere, to blur together several facets of his understanding of the Active Intellect. It is demiurgic with respect to the lower world, it is the phallic potency (represented in sefirotic terms by the ninth *sefira, Yesod*), and it is both the first and last of the *sefirot, Keter* and *Malkhut*. It is in this manner that the Active Intellect may at once be seen by Abulafia as both the progenitor of the other *sefirot* (consistent with our understanding of *Keter*) and as the ninth, phallic and demiurgic *sefira* (as *Yesod*).
+
 [^193]: *Gan Nal,* MS Munich-BS 58 fol. 330b; printed edition, p. 47.
 
 *[p. 316]* ^pg331
@@ -375,7 +426,9 @@ We have already observed that Abulafia has couched this discussion within a cons
 194\. “Toward heaven” is numerically equivalent to the phrases “the dead” and “who kills” (having a numerical value of four hundred and ninety-five). Abulafia appears to imply a correspondence between “stretch out your hand” and “writ of judgment,” although they are not numerically equivalent (their values are five hundred and ninety-three and five hundred and seventy-eight respectively). Nevertheless, there is a numerical correspondence between “writ of judgment,” “Satan descends,” and “spirit of Satan.”
 
 [^195]: The phrase “name \[and\] power are equivalent” Abulafia derives (along with the phrase “power is solar”) from a letter transposition based upon the words from Exodus, “. . . darkness which may be felt.” Abulafia next discerns the presence of an acrostic in the word “equivalent” within the phrase “name \[and\] power are equivalent.” The word is seen to be constructed from the first letters of the phrase “may his name and memory be blotted out.” The same word “equivalent” is as well constructed in its entirety from the same three letters that spell the name Yeshu, such that the name itself is read as an acrostic for the phrase “may his name and memory be blotted out.” Lastly, the name Jesus of Nazareth is observed by Abulafia to have the same numerical value as does the phrase “land of Egypt” (six hundred and seventy-one).
+
 [^196]: We should note that in the aforecited passage from the *Zohar* nocturnal sexual threats appear as well, personified there in terms of Lilith and her demonic progeny. See above, n. 190.
+
 [^197]: Abulafia’s allusion to the solar power of Jesus may also refer to the solar Christian calendar, as against the Jewish (and Muslim) lunar one. Hames, *Like Angels on Jacob’s Ladder*, p. 74.
 
 *[p. 317]* ^pg332
@@ -401,8 +454,11 @@ As I have suggested, some of these same issues reemerge in the context of Abulaf
 And this is the secret of the redemption, and because the ten *sefirot* are explicated from the Torah from the secrets of the ten plagues, because each *sefira* acts to alter nature in the world, year and soul, I must speak of them in chapter headings; and study them well from the Torah. And the first concern is that God said to Moses, “See, I have made you a god to pharaoh” ([[Torah 14 - Vaera#^7-1|Ex. 7:1]]). “YH in full for the dust of God.” Because Moses is the name called \[illegible\] Shaddai who guards the four tablets of the first, central, comprising drop, which is understood as the fount called the roots of the tree. And the tablets are four, and these are the four colors red, black, white, green, and the secret of their endings is “horns.” It is written, “hoofs” ([[Psalms 069#^69-32|Ps. 69:32]]); “books,” as I hinted above.[^202]
 
 [^199]: See [[Mark 14#^14-16|Mark 14:16]], [[Mark 14#^14-24|24]]; [[Hebrews 12#^12-24|Heb. 12:24]]; [[1 Corinthians 05#^5-7|1Cor. 5:7]], [[1 Corinthians 05#^5-8|8]]; [[John 01#^1-29|John 1:29]]; 1Peter 1:18–19; [[Revelation 05#^5-6|Rev. 5:6]], [[Revelation 05#^5-13|13]].
+
 [^200]: Wolfson observes the positive valence to the blood of circumcision and the blood of the paschal sacrifice in *\[illegible\] \[illegible\] ha-Ba. Abraham Abulafia*, p. 59 n.167. See also ibid., pp. 90, 219–220, for the positive valence to the blood of circumcision. In the latter case, it is the removal of blood during circumcision that is construed as positive. Biale observes the close relationship in rabbinic tradition between the blood of the paschal sacrifice and the blood of circumcision. *Blood and Belief*, pp. 69–71. He also concludes that the medieval *mohels* practice of sucking the blood of circumcision represents the “mirror image of the Eucharist.” Ibid., p. 99. Bynum observes that Christians as well focused on the blood of circumcision with respect to Jesus. She notes that the many painted portrayals of blood coursing from Jesus’ wounds down into his groin effect the connection between the salvic blood of his sacrificial death and the blood of his circumcision. Similar such themes, she observes, occur in many medieval sermons. Bynum, “The Body of Christ in the Later Middle Ages,” pp. 408, 413.
+
 [^201]: *Gan \[illegible\]* MS Munich-BS 58 fols. 330a–b; printed edition, p. 47.
+
 [^202]: See ibid., MS Munich-BS 58 fol. 326a; printed edition, p. 34.
 
 *[p. 319]* ^pg334
@@ -414,7 +470,9 @@ Abulafia derives the word “horns” from the final letters of the words for th
 In the later passage from *Gan Naul,* Abulafia eventually begins to elaborate upon the composition of the Tetragrammaton.[^205] This turn elucidates Abulafia’s earlier derivation of the phrase “YH in full for the dust of God.” A connection of Moses and the name YH is drawn here, while “YH in full,” that is, the full spelling of the letters *yod he’,* yields a numerical total of twenty-six, the same as that for the Tetragrammaton. Abulafia is preoccupied with the relationships between Moses, YH and the full Tetragrammaton. Subsequently, the connection 
 
 [^203]: “And it shall please the Lord better than an ox or a bullock that has horns and hoofs.”
+
 [^204]: *Gan Naul,* MS Munich-BS 58 fol. 326a; printed edition, p. 34.
+
 [^205]: Ibid., MS Munich-BS 58 fol. 330b; printed edition, p. 47.
 
 *[p. 320]* ^pg335
@@ -426,7 +484,9 @@ Concerning Moses, we find in the current passage a familiar motif. Moses is asso
 In this regard, Abulafia’s discussion of androgyny in *Gan Naul* reveals another significant feature. Among the phrases that, Abulafia observes, are equivalent to the numerical value for “male and female”[^207] is the phrase “source of the blood.” This phrase Abulafia mentions twice, and he includes as well the phrase “name and blood.” The significance of blood is not here clarified, although its vivifying role, and thus its connection to Abulafia’s discussion of semen, is readily apparent. In fact, blood and semen are essentially equivalent for Abulafia, whether they partake of good or evil.[^208] Both are identified with the *prima materia*. 
 
 [^206]: See above, p. 306, for a parallel association of Moses, the four tablets, the four colors, the four bodily humors, and the act of creation. A similar demiurgic conception is operative there to what we find in the current context when we consider *Yesod* as its subtext.
+
 [^207]: *Gan Na'ul,* MS Munich-BS 58 fol. 326a; printed edition, p. 35. These include “*Shekhinah*,” “the All \[is\] Mt. Sinai” (suggestive once more of Moses’ identity with respect to the *sefira Yesod*), “every name,” “the name of the man,” “name of the father and mother,” “a boy will be born” and “source of birth.”
+
 [^208]: For this equivalence, see, for instance, ibid., MS Munich-BS 58 fol. 331a; printed edition, pp. 49, 51–52. See also *Sheva“ Netivot ha-Torah*, in Jellinek, *Philosophie und Kabbala*, p. 17, where semen is referred to as “the other blood, that is male and white in color,” likened to ink and to the *prima materia*, while red blood is deemed to be female. The two of them together are said to comprise the name El Shaddai. Nirenberg explains that semen was regarded in medieval medical theory as heated blood. *Communities of Violence*, p. 155.
 
 *[p. 321]* ^pg336
@@ -440,6 +500,7 @@ Abulafia draws upon [[Torah 12 - Vayechi#^49-11|Genesis 49:11]] in this regard: 
 Continuing, Abulafia next derives the word “Eden” from the verse. Its numerical value (one hundred and twenty-four) is equal to that for the words “in wine” and “in blood” taken together. A linkage of Eden with blood and with androgyny is established. Subsequently Abulafia combines the values for the words “vine” ( *gafen*) and “choice vine” (*shereiqah*) from the same verse, indicating that they together comprise 
 
 [^209]: See also in this regard, Neu Watkins, “Two Women Visionaries and Death,”
+
 [^210]: *Gan \[illegible\]* MS Munich-BS 58 fol. 326a; printed edition, p. 34.
 
 *[p. 322]* ^pg337

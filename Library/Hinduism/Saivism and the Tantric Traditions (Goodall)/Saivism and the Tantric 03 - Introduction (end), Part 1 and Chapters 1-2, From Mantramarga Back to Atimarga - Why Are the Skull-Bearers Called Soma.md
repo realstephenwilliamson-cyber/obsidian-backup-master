@@ -85,6 +85,7 @@ The impact of Alexis Sanderson’s scholarship can be easily measured by the sub
 One of the two main branches of Śaivism described in the Śaiva Āgamas or Tantras (the other being the mantramārga, or “path of mantras”). The atimārga, which is entered on solely in order to attain liberation, is open only to ascetics. It has two divisions, the Pāśupata, and the Lākula, itself
 
 [^1-p15]: An early reference may be found in Goudriaan and Gupta 1981, 35, 45 (referring to the *Niśvāsatattvasaṃhitā*).
+
 [^2]: Although there are many entries starting with *ati*-, the index of Hara’s collected *Pāśupata Studies* (2002) has no entry on Atimārga.
 
 *[p. 16]* ^pg51
@@ -104,6 +105,7 @@ The Teaching of Śiva (*śivaśāsana*) which defines the Śaivas is divided bet
 An important aspect of the above definition is that it is written from the viewpoint of the Mantramārga. Although it follows an emic division of Śaivism,[^4] it is one which appears to have been coined by the Mantramārga and not by
 
 [^3]: Quoted from the electronic version: http://www.oxfordreference.com/view/10.1093/acref/978 0198610250.001.0001/acref‑9780198610250
+
 [^4]: Cf. Sanderson 2006, 163: “The term Atimārga, which I suggest we use for the non-Āgamic Śaivism of the Pāśupatas and related systems, is extracted, then, from a stage of the tradition which predates our famous commentators and perhaps even some of the Āgamas themselves.”
 
 *[p. 17]* ^pg52
@@ -119,7 +121,9 @@ Whoever coined the term was therefore closely familiar with the tradition.
 The division of Śaivism into Atimārga and Mantramārga appears for the first time in the *Niśvāsamukha*, the introduction to the *Niśvāsatattvasaṃhitā*. The Mantramārga is presented here as the fifth and highest stream (*srotas*) of religion, which has been revealed by Śiva’s fifth, upper face.[^5] The Atimārga, by contrast, is said to have been revealed by Śiva’s fourth, eastern face. In terms of hierarchy this indicates a lower position, on a par with that of the revelations by Śiva’s three other faces: the Laukika or mundane religion taught by his western face, the Vaidika or brahmanical religion taught by his northern face, and the Ādhyātmika or system of knowledge of the self taught by his southern face. On the other hand, its connection with Śiva’s eastern face sets it apart from the three other religious traditions and it is clear from the *Niśvāsatattvasaṃhitā* itself that some of the text’s teachings are in fact deeply influenced by those of the Atimārga.[^6] The *Niśvāsamukha*’s fivefold scheme itself appears to be an expansion based on a passage from the *Manusmṛti* (2.117), where three forms of knowledge are distinguished: Laukika, Vaidika, Ādhyātmika.[^7]
 
 [^5]: For a critical edition, with annotated translation and accompanying study, of the *Niśvāsamukha*, see Kafle 2015.
+
 [^6]: See Sanderson 2006.
+
 [^7]: *Manusmṛti* 2.117 (Olivelle 2015): *laukikaṃ vaidikaṃ vāpi tathādhyātmikam eva ca* | *ādadīta yato jñānaṃ taṃ pūrvam abhivādayet* || The first half of this verse is identical to two pādas in *Niśvāsamukha* 1.26–1.27ab, where the fivefold division is introduced for the first time: *śṛṇvantu ṛṣayas sarve pañcadhā yat prakīrtitam* | *laukikaṃ vaidikaṃ vāpi tathādhyātmikam eva ca* || *a\[\[timārgaṃ ca mantrākhyam\]\]*—| For a discussion of this incomplete passage, see Kafle 2015, 21; and pp. 49–53, for further evidence of the influence of the *Manusmṛti* on the composition of the *Niśvāsamukha*.
 
 *[p. 18]* ^pg53
@@ -131,6 +135,7 @@ It is called Atimārga because it is beyond the mental dispositions. It is taugh
 The division into Atimārga and Mantramārga appears to be found only in texts belonging to the Mantramārga.[^9] No Pāśupata or for that matter “Atimārga” text refers to the concept of Atimārga, let alone to Mantramārga. The only exception that I am aware of is a medieval Māhātmya about Vārāṇasī, the subject of this paper.
 
 [^8]: *Svacchanda* 11.182–184: *atītaṃ buddhibhāvānām atimārgaṃ prakīrtitam* | *lokātītaṃ tu taj jñānam atimārgam iti smṛtam* ||182|| *lokāś ca paśavaḥ proktāḥ sṛṣṭisaṃhāravartmani* | *teṣām atītās te jñeyā ye ’timārge vyavasthitāḥ* ||183|| *kapālavratino ye ca tathā pāśupatāś ca ye* | *sṛṣṭir na vidyate teṣām īśvare ca dhruve sthitāḥ* ||184||
+
 [^9]: See Sanderson 2006 for references.
 
 *[p. 19]* ^pg54
@@ -148,7 +153,9 @@ The first 13 chapters, covering the first 59 folios, about one third of the surv
 – There is no section called *Bhairavaprādurbhāva* in the surviving text of the *Matsyapurāṇa*.
 
 [^10]: See Bisschop 2007 and 2013.
+
 [^11]: The manuscript has been microfilmed by the NGMPP on reel C 6/3. I also have access to excellent colour photographs kindly provided to me by Harunaga Isaacson. There is also a paper apograph in a private collection, microfilmed as NGMPP E 766/7.
+
 [^12]: Some comparable manuscripts produced in Vārāṇasī and dated to the twelfth century are: *Jayadrathayāmala* (NGMPP A 996/3, A 997/1), *Bṛhatkālottara* (A 43/1), *Harivaṃśa* (A 27/5), *Manusmṛti* (C 44/4). The scribe of our manuscript is, however, less neat. The text also abounds in scribal errors.
 
 *[p. 20]* ^pg55
@@ -166,7 +173,9 @@ I therefore conclude that the Māhātmya was originally meant to be included in 
 The Atimārga is referred to towards the end of the first chapter of this Māhātmya. After Pulastya has told Nārada about the abodes of the eight Bhairavas,
 
 [^13]: See also Bonazolli 1982.
+
 [^14]: *Vāmanapurāṇa* 44.23–38: Vidyārāja (east), Kālarāja (south), Kāmarāja (west), Somarāja (north), Svacchandarāja, Lalitarāja and Vighnarāja. Bhairava himself should be added as the eighth. In VM 1.53–54 seven similar Bhairavas are mentioned: Kālarāja (in Avimukta), Kāmarāja, Saumya, Svacchanda (in Jayantika), Lalita, Vighnarāja (in Kālañjara), and Bhairava (in Bhṛgutuṅga). The passage is corrupt and requires heavy emendation. I have tentatively reconstructed the text as follows, but many readings remain doubtful: *viśiṣṭaṃ sarvasattvānāṃ tāraṇaṃ jagataḥ param* | *kālarājasya ca kṣetraṃ dattaṃ caiva svayaṃbhuvā* ||53|| *kāmarājā tu saumyaś ca svacchandaś ca jayantike* | *lalitaś ca kalau devi vighnarājā kaliñjare* | *svayaṃ tu bhairavo devo bhṛgutuṅge vyavasthitaḥ* ||54|| 53a °sattvānāṃ\] *conj*.; °sattānāṃ V1pcV2, °sattanāṃ V1ac (*unmetr*.) 53b jagataḥ\] V1pcV2; jagata V1ac (*unmetr*.) 54a kāmarājā tu\] *conj*.; kālālayaṃ tu V1, kālālāyaṃ ca V2 54b svacchandaś ca jayantike\] *conj*.; svacchande ca jayantikā V1V2 54c lalitaś ca\] *conj*.; lalitasya V1V2 54d °rājā\] *conj*.; °rājaṃ V1V2 ● kaliñjare\] V1, kaliṃjale V2
+
 [^15]: Particularly relevant in this connection is chapter 7 of the Māhātmya. It deals with the north end of the town, which was the centre of Gāhaḍavāla religious activity. This area, referred to in the text as “Brahmapura,” is presented as an area of brahmanical authority where gifts of gold, land, etc., are practised, as is indeed attested by the Gāhaḍavāla inscriptions, and where Vedic recitation constantly takes place. See Bisschop 2011.
 
 *[p. 21]* ^pg56
@@ -174,7 +183,9 @@ The Atimārga is referred to towards the end of the first chapter of this Māhā
 the most important of which is Kālarāja, who resides in Vārāṇasī and is also known as Kālabhairava or Āmardaka,[^16] he introduces a number of important *tīrtha*s in the town. From VM 1.99 onwards Pulastya zooms in on the cremation ground, the *śmaśāna*, also called *ūṣara* (saline ground), where, at the time of destruction, all beings and worlds enter into Bhairava’s mouth. He tells Nārada that it is because of this that the cremation ground grants release.[^17] He also reports that there is a pond there called Kālodaka, which arose when Kālaru-dra was playing on the cremation ground. At that time the Lord taught the observance of the skull (*kapālavrata*). He chopped off the fifth head of Brahmā, as a consequence of which there arose the holy Pāśupata pond.[^18] Mahādeva subsequently carries Brahmā’s skull around the world and unites with the cremation
 
 [^16]: VM 1.37–38: *kālarājasya devena purī vārāṇasī śubhā* | *nirdiṣṭā mokṣaṇārthāya pāpānāṃ caiva sarvadā* ||37|| *tasyāṃ caiva sthitaḥ sākṣād bhairavaḥ kālabhairavaḥ* | *mardayan sarvapāpāni tena cāmardakaḥ smṛtaḥ* ||38|| 37c mokṣaṇārthāya\] *conj*.; rakṣaṇārthāya V1V2
+
 [^17]: VM 1.99cd–101: *śmaśānasya śṛṇuṣvemāṃ kathāṃ pāpapraṇāśanīm* ||99|| *śmaśānaṃ ūṣaraṃ proktaṃ yatra khādyanti jantavaḥ* | *lokāś caiva tu saṃhāre praviśya bhairavaṃ mukham* ||100|| *kālānalamahādīptaṃ kālarājasya bhairavam* | *tena caiva śmaśānaṃ tu vārāṇasyāṃ tu mokṣadam* ||101|| 99c śmaśānasya\] V1pcV2; śmaśāna V1ac (*unmetr*.) 100b khādyanti\] *conj*.; kṣidyanti V1V2 100c lokāś caiva tu\] V1pcV2; lokāś caiva tu lokāś caiva tu V1ac (*unmetr*.) 101b bhairavaṃ\] V2; bhaivaṃ V1 (*unmetr*.)
+
 [^18]: VM 1.102–105: *kālodakaṃ ca nirdiṣṭaṃ kālarājasya cāgrataḥ* | *kālānalasamaprakhyaṃ tasminn eva mahat saraḥ* | *saṃbhūtaṃ kālarudrasya śmaśāne krīḍataḥ purā* ||102|| *tataḥ krīḍānusaktena devadevena śambhunā* | *kāpālavratam uddiṣṭaṃ tasmin kāle mahāmune* ||103|| *kāpālavratam āsthāya brahmaṇaś ca śiro mahat* | *cakartta bhagavān kruddhaḥ pañcamaṃ ghoradarśanam* ||104|| *tasminn eva samutpannaṃ divyaṃ pāśupataṃ saraḥ* | *tena tṛpyanti sakalāḥ kṣaṇamātraniyojitāḥ* ||105|| 103a krīḍānusaktena\] *em*.; krīḍānuśaktena V1V2 103b devadevena\] V1; devadena V2 105b divyaṃ\] V1pcV2; divyaṃ (*unmetr*.) 104a kāpālavratam\] V2; kāpālaṃ vratam V1 divyaṃ V1ac (*unmetr*.) ● saraḥ\] *em*.; śaraḥ V1V2 105d °niyojitāḥ\] *conj*.; °nijojite V1pc, °niyojitaṃ V1ac, °niyojite V2
 
 *[p. 22]* ^pg57
@@ -188,7 +199,9 @@ Here the text introduces a term that we do not expect to come across in a Māhā
 Engaged in the path of the observance of the skull (Kāpālavratamārga), the Lord wanders, free from attachment, displaying the Lokamārga and the supreme Lokātīta. And the *loka*s are designated “bound souls,” including
 
 [^19]: VM 1.106: *sakapālaṃ mahādevo babhrāma sakalaṃ jagat* | *krīḍamāṇas tadā kṣetrair uṣarair samapadyata* ||106|| 106a sakapālaṃ\] *conj*.; taṃ kapālaṃ V1V2 106c tadā\] V1; tada V2 106c kṣetrair\] *em*.; kṣetrer V1V2 106d samapadyata\] V1ac; sampadyate V1pc (*unmetr*.), samupadyate V2
+
 [^20]: VM 1.112–113: *aho mūrkhā na jānanti saṃsāraṃ snehasaṃbhavam* | *rāgāc ca jāyate sneho vairāgyāt snehasaṃkṣayaḥ* ||112|| *tad vairāgyaṃ yadā puṃsāṃ jāyate karmasaṃkṣayaḥ* | *tadā saṃprāpyate saukhyam asādṛśyaṃ tu kasyacit* ||113|| 112b saṃsāraṃ snehasaṃbhavam\] V1; saṃsārasnehasaṃbhavā V2 112d vairāgyāt\] V1pcV2; vairāgyā V1ac 113a vairāgyaṃ\] V1; vairāgya V2 113b °saṃkṣayaḥ\] *conj*.; °saṃ-kṣaye V1V2 113c saukhyam\] *conj*.; mokhyaṃ V1, mokṣam V2
+
 [^21]: VM 1.114: *rāgabījasamutpannaḥ saṃsāraviṭapo mahān* | *vairāgyasya kuṭhāreṇa niḥsaṅgatīkṣṇa-m-aśmanā* | *chittvā caiva tu taṃ vṛkṣam atimārgaṃ vrajanti te* ||114|| 114d °tīkṣṇa°\] V1pcV2; °tikṣṇa° V1ac The reading of pāda d is highly uncertain: it shows syncopation throughout and a meaningless compound-breaking -*m*- is inserted. As Harunaga Isaacson has pointed out to me, the image calls to mind *Bhagavadgītā* 15.3d (= *Mahābhārata* 6.37.3d): *asaṃgaśastreṇa dṛ-ḍhena chittvā*.
 
 *[p. 23]* ^pg58
@@ -226,7 +239,9 @@ The passage also involves some genuine Pāśupata ideals and concepts. The state
 The Māhātmya continues to use the terminology of Atimārga and Lokamārga in the subsequent two chapters. In chapter 2 Śiva returns to Vārāṇasī after he has wandered around with the skull for twelve years. He enters the
 
 [^24]: *Svacchanda* 11.179–181: *mohakāḥ sarvajantūnāṃ yatas te tāmasāḥ smṛtāḥ* | *dharmeṇaikena deveśi baddhaṃ jñānaṃ hi laukikam* ||179|| *dharmajñānanibaddhaṃ tu pāñcarātraṃ ca vaidikam* | *bauddhaṃ ārahataṃ caiva vairāgyeṇaiva suvrate* ||180|| *jñānavairāgyasambaddhaṃ sāṃkhyajñānaṃ hi pārvati* | *jñānaṃ vairāgyam aiśvaryaṃ yogajñānapratiṣṭhitam* ||181|| The list of mental dispositions calls to mind *Sāṃkhyakārikā* 23: *adhyavasāyo buddhir dharmo jñānaṃ virāga aiśvaryam* | *sāttvikam etadrūpaṃ tāmasam asmād viparyastam* ||
+
 [^25]: *Svacchanda* 11.182: *atītaṃ buddhibhāvānāṃ atimārgaṃ prakīrtitam* | *lokātītaṃ tu taj jñānaṃ atimārgam iti smṛtam* ||
+
 [^26]: See Sanderson \* 2012, 9, n. 3.
 
 *[p. 26]* ^pg61
@@ -240,8 +255,11 @@ Otherwise, if Deva would not display it, the path would be destroyed. The people
 A *tīrtha* called Ṛṇamocana appears, provided with three *liṅga*s. The three *liṅga*s release from the threefold debt to the gods, the sages and the ancestors.[^29] In this way the narrative integrates the teachings of the Lokātīta, or Atimārga, and the Lokamārga. Śiva next continues to display more observances. He even gives the Kāpālavrata to Kubera.[^30]
 
 [^27]: VM 2.5–6: *evaṃ vratasamāptiṃ tu kṛtvā devo maheśvaraḥ* | *snānaṃ kṛtvā tataḥ paścāt pareṇa vidhinā haraḥ* ||5|| *tarpayitvā ṛṣīn devān pitaraś ca yathāvidhi* | *evaṃ ca lokamārgaṃ tu darśayāno jagatprabhuḥ* ||6|| 5d vidhinā\] V1pcV2; vidhi V1ac (*unmetr*.) 6a ṛṣīn\] V1; ṛṣin V2 6b pitaraś ca yathāvidhi\] V1; piraś ca yathāvidhiḥ V2 (*unmetr*.) 6d darśayāno\] V1; darśayāmo V2
+
 [^28]: VM 2.7: *anyathā naśyate mārgo yadi devo na darśayet* | *sa yat pramāṇaṃ kurute lokas tad anuvartate* ||7|| 7a naśyate\] *em*.; tasya te V1V2 7c kurute\] V1; kute V2 (*unmetr*.) Cf. *Bhagavadgītā* 3.21 (= *Mahābhārata* 6.25.21): *yad yad ācarati śreṣṭḥas tat tad evetaro janaḥ* | *sa yat pramāṇaṃ kurute lokas tad anuvartate* || Also *Kūrmapurāṇa* 1.16.45: *evaṃ hi laukikaṃ mārgaṃ pradarśayati sa prabhuḥ* | *sa yat pramāṇaṃ kurute lokas tad anuvartate* ||
+
 [^29]: VM 2.8–9: *evaṃ jñātvā gato devas tarpayann ṛṇamocane* | *tasmāt tatra mahātīrthaṃ saṃbhūtam ṛṇamocanam* ||8|| *trīṇi liṅgāni jātāni devadevasya tarpaṇe* | *ekaṃ devamanuṣyāṇāṃ tṛtīyaṃ pitṛsaṃbhavam* ||9|| 8c tatra\] V1pcV2; atra V1ac ● °tīrthaṃ\] V1; °tīrtha V2 9a trīṇi\] V2; triṇi V1 9c ekaṃ\] *conj*.; evaṃ V1V2 ● devamanuṣyāṇāṃ\] V1; demanuṣyāṇāṃ V2 (*unmetr*.) 9d pitṛsaṃ-bhavam\] V1; tu trisaṃbhavaṃ V2
+
 [^30]: VM 2.20: *dhanadasya vrataṃ dattvā kāpālaṃ parameśvaraḥ* | *so ’pi tatra vratī bhūtvā devam ārādhayan sthitaḥ* ||20|| 20a dhanadasya\] V1; vanadasya V2
 
 *[p. 27]* ^pg62
@@ -265,6 +283,7 @@ I started this paper with the observation that the term Atimārga, although cert
 know of in which we do find the term Atimārga—as well as the related term Lokātīta—used outside of a Mantramārgic context. Several observations can be made with reference to the passages of the *Vārāṇasīmāhātmya* discussed here:
 
 [^31]: VM 3.7: *krīḍayā yāni deveśa karmāṇi kuruṣe prabho* | *tāni lokeṣu dṛśyante paramārthapradāni tu* ||
+
 [^32]: The same applies *mutatis mutandis* to terms such as Lokamārga or Laukika. Although Mantramārga sources take the Laukika religion to refer to the merit-making rituals and practices of the Śaiva laity taught in the *Śivadharma*, the term is not used by the *Śivadharma* itself to refer to its own religious practice, which is rather referred to as “Śivadharma.”
 
 *[p. 28]* ^pg63
@@ -300,8 +319,11 @@ The gods all wear gold and jewels as an ornament on their body. You do not even 
 These verses poetically allude to the distinction between the Lokamārga and Atimārga, although the terms themselves are not used. Significantly, the *Halāyudhastotra* also makes reference to the term Kevalajñāna, in the first pāda
 
 [^34]: Sastri (1948, 74) argues that he is identical with Halāyudha the tenth-century author of the *Abhidhānaratnamālā* and the *Kavirahasya*.
+
 [^35]: Chakravarti 1948, 185, lines 51–55.
+
 [^36]: The verse refers to three key mythological events: Śiva’s visit as a naked ascetic to the Devadāruvana, the emission of his seed into the mouth of Agni leading to the birth of Skanda, and his performance of the twilight dance.
+
 [^37]: *Halāyudhastotra* 34–35: *dārūdyāne dvijavaravadhūpaplavo retasāgnau homaḥ sandhyānaṭanam iti te ceṣṭitaṃ naiva duṣṭam* | *\[mithyājñānopa\]hatamanasāṃ mārgam ullaṅghya dūraṃ ye niṣkrāntās trinayana na tān lokavādāḥ spṛśanti* ||34|| *devāḥ sarve dadhati vapuṣā bhūṣaṇaṃ hemaratnaṃ guñjāmātraṃ kanakam api te nāsti karṇe kare vā* | *mārgātītaṃ sphurati sahajaṃ yasya saundaryam aṅge tasyāhārye\[ṣv itarajanavan nā\]daraḥ syād guṇeṣu* ||35||
 
 *[p. 30]* ^pg65
@@ -333,6 +355,7 @@ References
 *Svacchanda*. Madhusūdan Kaul Shāstrī, ed. *The Svacchanda-Tantra with commentary by Kshema Rāja*. KSTS, nos. 31, 38, 44, 48, 51, 53, and 56. Bombay: Nirnaya-Sagar Press, 1921–1935.
 
 [^38]: *Halāyudhastotra* 3a: *eko devaḥ sa jayati śivaḥ kevalajñānamūrtir*.
+
 [^39]: Line 50: *avimuktaś ca kedāra oṃkāraś cāmaras tathā* | *pañcamaṃ tu mahākālaḥ paṃcaliṅgāḥ prakīrttaye ||*
 
 *[p. 31]* ^pg66
@@ -409,9 +432,13 @@ The Question
 The Kāpālikas or Skull-Bearers, who formed the third group of the Atimārga, alongside the Pāśupatas and the Lākulas,[^1-p33] were perhaps the most notorious Śaiva ascetics of classical India. They were known for their cremation ground rituals and for wandering around with a skull for an alms bowl. The skull (*kapāla*), their most conspicuous attribute, also provided their name. But the Kāpālikas are also designated as Somasiddhāntins, “Those of the Soma Doctrine,”[^2-p33] or the “Soma People with the Skull.”[^3-p33] These appellations seem to have been of some importance because their initiation names also included or ended in *-soma* in most cases (e.g. Satyasoma, Devasomā,[^4-p33] Somibhaṭṭāraka[^5-p33]). What was this Somasiddhānta, doctrine of Soma or teaching about (the) Soma?
 
 [^1-p33]: Concerning these distinctions within the Atimārga, the term Atimārga itself and the Kāpālikas as an Atimārgic group, see Sanderson 1988 and 2006. Professor Sanderson has published several ground-breaking papers focussing on the Kāpālikas. This paper, inspired by his discoveries, is dedicated to him.
+
 [^2-p33]: This term figures in the *Pauṣkaravṛtti* of Jñānaprakāśācārya, IFP transcript no. 110, p. 591. They are also called “Knowers of the Doctrine of Soma” (*somasiddhāntavedinaḥ* in *Sarvajñānottara* 14.4, edited by Goodall), which could be corrupt for *somasiddhāntavādinaḥ*, “Those who Profess the Doctrine of Soma.”
+
 [^3-p33]: Or “Skull-Bearers Who are the Soma People,” *somajanakāpālī* in *Jayadrathayāmala* 3.35.33c. There may be an attempt here to distinguish the skull-bearing Soma ascetics from other skull-bearers, such as those who follow a Bhairava *tantra* or a Kaula *tantra*.
+
 [^4-p33]: The names of the two Kāpālikas in the *Mattavilāsaprahasana*.
+
 [^5-p33]: The name or title of a Kāpālika in the Kannada inscription of ancient Koḷḷipāke, Andhra, in 1050 CE, cited by Lorenzen 1989, 233–234. This Kāpālika is said to be *mukha-kamalavinirggata-Sōmasiddhāntābhiprāya-* “devoted to the meaning of Somasiddhānta issued from the lotus mouth \[?of Śiva\]” (Lorenzen’s translation). While this implies that the Somasiddhānta or Soma teaching was ultimately considered Śaiva revelation (if we accept Lorenzen’s suggestion of supplying Śiva), it does not tell us anything about its nature and content, nor about the meaning of the word *soma* itself. The wording suggests, nevertheless, that it is not Śiva who is called Soma.
 
 *[p. 34]* ^pg69
@@ -429,8 +456,11 @@ David Lorenzen has proposed a different hypothesis.[^8-p34] He identified a Kāp
 This is also rather unlikely, for at least two reasons. First, Kāpāliśarman may not have been a Kāpālika in the strict sense, for his name does not include Soma and does not appear to conform to other kinds of Kāpālika names either.[^9-p34] Second, nowhere else is it said that Kāpālikas performed vedic Soma sacrifices. However, as we shall see they took interest in particular ‘essences’ other than the vedic Soma, and in a metaphorical sense, perhaps did perform their own kind of Soma ritual.
 
 [^6-p34]: For this and some other references to Kāpālikas associated with some Soma doctrine, see Lorenzen 1991, 83.
+
 [^7-p34]: Two well-known literary examples are the Kāpālika man with his partner in the *Mattavilāsaprahasana* and the Kāpālika couple in the fifth act of Bhavabhūti’s *Mālatīmādhava*.
+
 [^8-p34]: Lorenzen 1989, 235 citing K.V. Ramesh *Inscriptions of the Western Gangas* 70–74, no. 19, inscription from Bangalore district, 6th cent.? (*sic!*).
+
 [^9-p34]: Since Kapālin/Kāpālika can denote Śiva/Bhairava himself, the name could simply mean “Protected by Śiva/Bhairava” without being markedly Kāpālika.
 
 *[p. 35]* ^pg70
@@ -460,7 +490,9 @@ Moreover, the Kāpālika Satyasoma in the *Mattavilāsaprahasana* (600– 625 CE
 Now returning to the question of the Soma lineage: Lakulīśa, whether he was indeed initiated by Somaśarman or not, is said to have been born in Somaśarman
 
 [^11-p36]: See e.g. *Baudhāyanadharmasūtra* 2.1.2–3: *bhrūṇahā dvādaśa samāḥ kapālī khaṭvāṅgī ga-rdabhacarmavāsā araṇyaniketanaḥ śmaśāne dhvajaṃ śavaśiraḥ kṛtvā kuṭīṃ kārayet | tām āvaset | saptāgārāṇi bhaikṣaṃ caran svakarmācakṣāṇas tena prāṇān dhārayet |*. “A man who has killed a learned Brahmin should do the following for twelve years. He should carry a skull and a post from a bed-frame; wear the skin of an ass; reside in the wilderness; and, using the head of a corpse as his flag, get a hut built in a cemetery and live in it. He should maintain himself by begging almsfood from seven houses while proclaiming his crime.” Translation by Olivelle (2000, 241). See *Gautamadharmasūtra* 22.4: *khaṭvāṅgakapālapāṇir vā dvādaśa saṃvatsarān brahmacārī bhaikṣāya grāmaṃ praviśet |* *karmācakṣāṇaḥ*. “Or else, for twelve years he should live a chaste life and, carrying the post from a bed-frame and a skull, enter a village only to beg for food while proclaiming his crime.” Translation by Olivelle (2000, 175), who remarks in the notes to this passage that *khaṭvāṅga* must mean skull-staff (a staff topped with a skull) rather than the post of a bed-frame. Brick 2012, however, shows convincingly that the post of a bed-frame was probably intended at the time of the Dharmasūtras. See also *Yājñavalkyasmṛti* 3.243: *śi-raḥkapālī dhvajavān bhikṣāśī karma vedayan | brahmahā dvādaśābdāni mitabhuk śuddhim āpnuyāt ||*.
+
 [^12-p36]: The version related here replaces the figure of Śiva with one of his ectypes, Nīlalohita. On this narrative device, which is used here to distance the supreme deity from sanguinary practices, see Granoff 2006.
+
 [^13-p36]: 17ab: *āsthāya prayato mahāvratam idaṃ bālenducūḍāmaṇiḥ, svāmī no mumuce pitāma-haśiraśchedodbhavād enasaḥ* |.
 
 *[p. 37]* ^pg72
@@ -482,6 +514,7 @@ Moon on the earth, i.e. having a lunar-white body (*sitāṅga*) on account of t
 Without going against either of these interpretations, both of which are plausible, I propose as a tentative hypothesis that, in addition, the expression *jagadindu* may indirectly allude to a Kāpālika affiliation if we understand this in the sense of \*Jagatsoma, a compound suggestive of a Kāpālika initiation name.[^15-p37] This may imply two things. First, it is possible that
 
 [^14-p37]: It must also be noted that the *Skandapurāṇa* (180.10) calls the mere ash-bath a/the great observance (*mahāvrata*). It also says that Somaśarman with his family received Lakulīśa’s grace when he visited them in their house, and that they were given *yogasiddhi* (167.125 ff.). The *Skandapurāṇa* appears to represent an earlier(?)/*pāśupata* version of the story. (Cf. also Bakker 2015, 143 ff.) Bakker 2015, 143–144 (note 442) also proposes that the Soma name suggests a parallel with the Soma-vaṃśa dynastic affiliation of Mahāśivagupta. However, the Soma name figures elsewhere, in seventh-century South India in the names of Kāpālikas of the *Mattavilāsaprahasana*, where no such parallel can be assumed; such implications therefore seem unlikely.
+
 [^15-p37]: I cannot cite any initiate with this name, and I do not intend to suggest that Jagatsoma (or Jagadindu) was necessarily an actual initiation name. The word may, nevertheless, be construed in the same manner as Kāpālika initiation names such as Satyasoma, Devasoma, etc., which can be interpreted as “Moon of Truth,” “Moon of the Gods,” etc. What I propose is that this parallelism of names ending with “-moon” seems too remarkable to be accidental.
 
 *[p. 38]* ^pg73
@@ -515,7 +548,9 @@ What is the Kāpālikas’ Nectar (*amṛta/soma*)?
 We now turn again to the Kāpālikas of the *Mālatīmādhava*.[^19-p39] At one point in the story (5.2), the female practitioner mentions that she can extract the so-called “five nectars” (*pañcāmṛta*), which are five vital essences of the human body. They have a powerful, invigorating effect (as one would expect from such a nectar), so much so that the female Kāpālika can fly a great distance in a few seconds.
 
 [^17-p39]: *pracalita-kari-kṛtti-paryanta-cañcan-nakha-āghāta-bhinnendu-niḥsyandamānāmṛta-ścyota-jīvat-kapālāvalī-mukta-caṇḍāṭṭahāsa-trasad-bhūri-bhūta-pravṛtta-stuti śvasad-asita-bhujaṃga-bhogāṅgada-granthi-niṣpīḍana-sphāra-phullat-phaṇā-pīṭha-niryad-viṣa-jyotir-ujjṛmbhaṇoḍḍāmara-vyasta-vistāri-doḥ-khaṇḍa-paryāsita-kṣmādharam | jvaladanala-piśaṅga-netra-cchaṭācchanna-bhīmottamāṅga-bhrami-prastutālāta-cakra-kriyā-syūta-dig-bhāgam uttuṅga-khaṭvāṅga-koṭi-dhvajoddhūti-vikṣipta-tārā-gaṇaṃ pramudita-kaṭapūtanottāla-vetāla-tāla-sphuṭat-karṇa-saṃbhrānta-Gaurī-ghanāśleṣa-hṛṣyan-manas-Tryambakānandi vaḥ tāṇḍavam devi bhūyād abhīṣṭyai ca hṛṣṭyai ca naḥ |.*
+
 [^18-p39]: Obtaining the nectar of immortality and, thanks to it, an immortal physical body is the main goal of the haṭhayogic and Nath yogic traditions; see Mallinson 2007 and Ondračka 2007. Mallinson (2015, 120 ff.) proposes that there may have been an early, nonsectarian tradition of ascetics, the precursor of what is later known as *haṭhayoga*, for which he finds traces already in the Pali Canon.
+
 [^19-p39]: I understand, in the context of this paper, the Kāpālikas of this play to represent the Kāpālikas of the Atimārga here under discussion. They could alternatively be considered skull-bearing tantric practitioners, as Hatley (2007, 143 ff.) argues on the basis of numerous parallels with prescriptions found in the *Brahmayāṃala* and elsewhere. In fact, one could interpret the evidence in two ways: either take the Kāpālikas of the play to belong to the Atimārga, which has strong influence on later Śaiva tantras of the Vidyāpīṭḥa, or one can take them to be tantric skull-bearers of the Vidyāpīṭha, who certainly inherit much from the Kāpālikas of the Atimārga. In either case, the practices described in the play may well reflect what is a ritual core common to both the Kāpālikas of the Atimārga and those of the Vidyāpīṭha. For this reason, in the context of the present argument, I understand the *Mālatīmādhava*’s Kāpālikas to be representative of Atimārga Kāpālikas or their practices, even if this identity remains uncertain.
 
 *[p. 40]* ^pg75
@@ -529,6 +564,7 @@ Now in chapter 46 of the *Brahmayāmala*, much like the Kāpālikas, the practit
 It is in this chapter that the *amṛta* comes to fore again in ritual. For the main subject here is *amṛtamanthāna*, the churning and drinking of the *amṛta*. The Sādhaka is to make pots from clay obtained from the cremation ground, contruct a sacrificial pavilion from bones, and place the ritual cauldron upon a corpse. He is required to churn a mixture including *mahāpicu* (sexual fluids or various other human fluids?) using a piece of bone as the churning stick, with a rope made of human hair, intestines and skin (?). The cauldron is identified with Aghorī and the churning stick with Bhairava. In this rite, the Sādhaka re-enacts the cosmic churning of the ocean, and the same miraculous objects emerge (the Kaustubha gem, etc.) as the gods brought forth during the primordial churning. Then the terrifying goddess, Caṇḍikā, receives
 
 [^20-p40]: For more arguments, see Törzsök 2011 and 2015.
+
 [^21-p40]: On this, see e.g. Sanderson 2009, 133 note 311.
 
 *[p. 41]* ^pg76
@@ -554,6 +590,7 @@ In a more satirical way, the Kāpālikas’ alcohol is also treated as their equ
 My darling, look. This pub resembles the vedic sacrificial ground. For its signpost resembles the sacrificial pillar; in this case alcohol is the Soma, drunkards are the sacrificial priests, the wine glasses are the special cups for drinking Soma, the roasted meat and other appetizers are the fire oblations, the drunken babblings are the sacrificial formulae, the songs are the Sāman-hymns, the pitchers are the sacrificial ladles, thirst is the fire and the owner of the pub is the patron of the sacrifice.[^24-p42]
 
 [^23-p42]: *Śraddhā: bhaavaṃ, sulāe pūlitaṃ bhāanaṃ* \[= *bhagavan, surayā pūritaṃ bhājanaṃ*\]. *Kāpālikaḥ (pītvā, śeṣaṃ bhikṣukṣapaṇakayor arpayati*): *idaṃ pavitram amṛtaṃ pīyatāṃ bhavabheṣajam* | *paśupāśasamucchedakāraṇaṃ Bhairavoditam* ||20||.
+
 [^24-p42]: *Kapālī: priye! paśya paśya | eṣa surāpaṇo yajñavāṭavibhūtim anukaroti | atra hi dhvajastambho yūpaḥ, surā somaḥ, śauṇḍā ṛtvijaḥ, caṣakāś camasāḥ, śūlyamāṃsaprabhṛtaya upadaṃśā havirviśeṣāḥ, mattavacanāni yajūṃṣi, gītāni sāmāni, udaṅkāḥ sruvāḥ, tarṣo* *’gniḥ, surāpaṇādhipatir yajamānaḥ |*.
 
 *[p. 43]* ^pg78
@@ -571,6 +608,7 @@ Conveniently, Soma as a proper name is also one of Śiva’s names,[^25-p43] alt
 Soma, meaning “moon,” and more particularly the nectar of immortality the moon is supposed to contain, is another possible explanation. Various kinds of nectar (*amṛta*/Soma), whether alcohol or essences of the human body, appear to be in the focus of attention in Kāpālika rituals. The vital essences in particular were considered to have an invigorating effect that provided Kāpālikas with the magical power they were apparently famous for. Concoctions of the vital essences were probably thought to bestow omniscience and Bhairava-hood. Whether it was really this nectar or these nectars that were at the origin of the name Soma is impossible to tell; but whatever the case may be, the bodily nectar of the vital essences was most probably a crucial element of Kāpālika doctrine and practice.[^26-p43]
 
 [^25-p43]: See e.g. *Skandapurāṇa* 2.3, 29.103, *Kathāsaritsāgara* 7.1.101.
+
 [^26-p43]: This may not be sufficient to explain what was meant by their “doctrine of/about Soma,” but such “doctrine” was not necessarily an abstract theory. The word *siddhānta* may be used in the sense of “teaching” rather than “philosophy” or “philosophical conclusion.”
 
 *[p. 44]* ^pg79

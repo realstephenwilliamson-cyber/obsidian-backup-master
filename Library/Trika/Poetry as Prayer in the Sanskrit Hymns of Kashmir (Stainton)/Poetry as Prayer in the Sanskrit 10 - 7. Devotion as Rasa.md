@@ -29,6 +29,7 @@ In addition to being an important center for religious innovation and literary p
 Today, the term *bhaktirasa* is a common way to describe the heightened, blissful experience of devotion across North India.[^2] The devotional *rasa* was made 
 
 [^1]: *vāci manomatiṣu tathā śarīraceṣṭāsu karaṇaracitāsu* / *sarvatra sarvadā me puraḥsaro bhavatu bhaktirasaḥ* //
+
 [^2]: Neelima Shukla-Bhatt, *Narasinha Mehta of Gujarat: A Legacy of Bhakti in Songs and Stories* (New York: Oxford University Press, 2015), 3.
 
 *[p. 232]* ^pg251
@@ -44,8 +45,11 @@ Kashmir was home to the production of some of the most influential works on Indi
 Recent scholarship allows the major developments and debates within this discourse to be charted with relative confidence.[^6] The earliest formal analysis of aesthetics anywhere in South Asia is found in Bharata’s *Nāṭyaśāstra*, which presents a 
 
 [^3]: Sometimes Vaiṣṇava frameworks for thinking about *rasa* and *bhakti* have even been applied anachronistically in Śaiva contexts. For example, in his Hindi-language study, Kedāra Nātha Śarmā analyzes Loṣṭaka’s Śaiva hymn, the *Dīnākrandanastotra*, in terms of the *bhaktirasa* typology laid out by Rūpa Gosvāmin (*Kaśmīrī Stotraparamparā evaṃ Dīnākrandana Stotra*, 59–62).
+
 [^4]: For another attempt to trace alternative discussions of *bhaktirasa*, see Anand Venkatkrishnan, “*The River of Ambrosia*:  An Alternative Commentarial Tradition of the *Bhāgavata Purāṇa*,” *Journal of Hindu Studies* 11, no. 1 (2018): 1–14.
+
 [^5]: Randall Collins, *The Sociology of Philosophies:  A Global Theory of Intellectual Change* (Cambridge, MA: Belknap Press of Harvard University Press, 1998), 74–76.
+
 [^6]: The details of these developments, and indeed many of their major features less relevant to the study of *stotra*s, are outside the scope of this chapter.
 
 *[p. 233]* ^pg252
@@ -59,10 +63,15 @@ The text discusses eight such aesthetic tastes: the erotic (*śṛṅgāra*), c
 Components of Bharata’s theory of drama were gradually assimilated by the discourse on poetics and literary theory (*alaṅkāraśāstra*).[^10] The focus of this collective tradition of aesthetic discourse was on the formal features of the work of art. For poetics, this meant the focus was primarily on classifying, defining, and illustrating individual figures of speech (*alaṅkāra*s) as comprehensively as possible. *Rasa* was a problematic category for the early poetic theorists, however, because it is based on emotional content.[^11] In South India, the first formal poetic theorists, Bhāmaha and Daṇḍin, subsumed *rasa* within their analysis of literary figures, but early theorists in Kashmir struggled with the tension in this arrangement.[^12]
 
 [^7]: Trans. Sheldon Pollock, *A Rasa Reader:  Classical Indian Aesthetics* (New  York:  Columbia University Press, 2016), 50.
+
 [^8]: Ibid., 7.
+
 [^9]: Trans. ibid., 50–51; see also Daniele Cuneo, “Unfuzzying the Fuzzy: The Distinction between *Rasas* and *Bhāvas* in Bharata and Abhinavagupta,” in *Puṣpikā: Tracing Ancient India Through Texts and Traditions; Contributions to Current Research in Indology, Volume I*, ed. Nina Mirnig, Peter-Daniel Szanto, and Michael Williams (Oxford: Oxbow Books, 2013), 56.
+
 [^10]: Pollock, *Rasa Reader*, 6–7.
+
 [^11]: Lawrence J. McCrea, *The Teleology of Poetics in Medieval Kashmir*, Harvard Oriental Series 71 (Cambridge, MA: Published by the Dept. of Sanskrit and Indian Studies, Harvard University; Distributed by Harvard University Press, 2008), Chapter  2, and in summary, 52–54. As he points out, this tension was so pronounced that Rudraṭa abandons any attempt to present an integrated approach, and instead offers separate formalist and *rasa*-based analyses (ibid., 51–52). See also Pollock, *Rasa Reader*, 10–11.
+
 [^12]: Pollock, *Rasa Reader*, 10–11, 65–74.
 
 *[p. 234]* ^pg253
@@ -72,9 +81,13 @@ A crucial shift occurred in the ninth-century *Dhvanyāloka* of Ānandavardhana.
 Bhaṭṭa Nāyaka brought about a paradigm shift in aesthetic discourse: he transferred the focus of analysis from the characters of the play or work of literature to its audience as the locus or substratum of *rasa*.[^17] Building on Ānandavardhana’s 
 
 [^13]: Ānandavardhana’s breakthroughs, however, were indebted to innovations by his Kashmirian predecessors, especially Udbhaṭa; see Yigal Bronner, “Understanding Udbhaṭa:  The Invention of Kashmiri Poetics in the Jayāpīḍa Moment,” in *Around Abhinavagupta:  Aspects of the Intellectual History of Kashmir from the Ninth to the Eleventh Century*, ed. Eli Franco and Isabelle Ratié (Leipzig: Lit Verlag, 2016).
+
 [^14]: McCrea, *Teleology of Poetics*, 442.
+
 [^15]: Pollock, *Rasa Reader*, 87–88. Some scholars, however, have criticized Pollock for drawing too sharp of a line between different views about the locus of *rasa*. For a critique of Pollock’s early work on the history of *rasa* and its locus, see Cuneo, “Unfuzzying the Fuzzy,” 59n28; some of the points Cuneo raises are also discussed in Pollock, *Rasa Reader*, 41–44.
+
 [^16]: These are the translations for *dhvani* used in the two most important translations of Ānandavardhana’s work, respectively: Daniel H. H. Ingalls, Jeffrey Moussaieff Masson, and M. V. Patwardhan, trans., *The Dhvanyāloka of Ānandavardhana with the Locana of Abhinavagupta*, Harvard Oriental Series 49 (Cambridge, MA:  Harvard University Press, 1990), and Pollock, *Rasa Reader*; see the latter, 88n261, for an explanation of “implicature.” For a critical review of these translations, see James Reich, “Meaning and Appearance:  The Theology of Literary Emotions in Medieval Kashmir” (Ph.D. diss., Harvard University, 2016), 45–47, 53–54n16.
+
 [^17]: Sadly, Bhaṭṭa Nāyaka’s major work, the *Hṛdayadarpaṇa*, is no longer extant. Sheldon Pollock’s work on his quotations and reformulations in other works, however, has made his views at least partially accessible and helped to clarify just how revolutionary he was.
 
 *[p. 235]* ^pg254
@@ -132,9 +145,13 @@ The developments pursued by Ānandavardhana, Bhaṭṭa Nāyaka, and Abhinavagup
 As we have seen, theorists in Kashmir focused on the question:  Where is *rasa* located? The foundational aphorism in the *Nāṭyaśāstra* simply says that *rasa* “arises from the conjunction of the factors, reactions, and transitory emotions,” but as Pollock has argued this foundational treatise almost certainly assumed *rasa* 
 
 [^27]: Ibid., 146.
+
 [^28]: *Locana* 2.4, trans. Ingalls et al., Dhvanyāloka *of Ānandavardhana*, 225.
+
 [^29]: Pollock, *Rasa Reader*, 190.
+
 [^30]: Trans. Pollock, ibid., 201; on this idea, see also ibid., 190–191, and the translation on
+
 [^31]: Ibid., 192–193.
 
 *[p. 238]* ^pg257
@@ -148,8 +165,11 @@ The blurriness of these boundaries, while perhaps a challenge for aesthetic theo
 Another key debate in Kashmir was the role of aesthetic terminology—“proper terms” (*svaśabda*)—in the arising of *rasa*. That is to say, what is the benefit or detriment of using the actual words for technical terms in aesthetic analysis, such as “desire” or “the erotic”? Udbhaṭa was the first to argue that the use of such “proper terms” could be part of the creation of *rasa*.[^34] Subsequent authors quickly criticized Udbhaṭa’s position. Ānandavardhana, for instance, sought to establish that normal language functions cannot explain the arising of *rasa*, and therefore he identifies suggestion—indicating desire precisely without *saying* desire, for example—as the means by which *rasa* is manifested.[^35] Kuntaka mocks Udbhaṭa’s views, arguing that “by the same reasoning, any object, when denoted by its proper 
 
 [^32]: *Nāṭyaśāstra* 6.31, trans. Pollock, *Rasa Reader*, 50; on Bharata’s views on the location of *rasa*, see ibid., 49, but also Cuneo, “Unfuzzying the Fuzzy,” 52–62.
+
 [^33]: Pollock, *Rasa Reader*, 26. As Daud Ali observed in his study of aesthetics and courtly sensibilities, “\[u\]ltimately, the distinction between taste in the food and the taste in the mouth is false, for one could only perceive *rasa* in another if one possessed the capacity to feel/produce it within oneself” (*Courtly Culture and Political Life in Early Medieval India* \[Cambridge, UK:  Cambridge University Press, 2004\], 202; also quoted in Cuneo, “Unfuzzying the Fuzzy,” 59n28).
+
 [^34]: Pollock, *Rasa Reader*, 67 and 69; Yigal Bronner, “Understanding Udbhaṭa:  The Invention of Kashmiri Poetics in the Jayāpīḍa Moment,” in *Around Abhinavagupta: Aspects of the Intellectual History of Kashmir from the Ninth to the Eleventh Century*, ed. Eli Franco and Isabelle Ratié (Leipzig: Lit Verlag, 2016), 130–131.
+
 [^35]: Pollock, *Rasa Reader*, 88–89.
 
 *[p. 239]* ^pg258
@@ -161,9 +181,13 @@ Theorists in Kashmir were also invested in what is and is not a *rasa*. In gener
 Some authors argue that *bhakti* is not a distinct *rasa* precisely because of the nature of the emotion itself. In his *Kāvyaprakāśa*, Mammaṭa develops the distinction (explored by earlier theorists) between poetry in which there is *rasa*, and poetry in which emotion (*bhāva*) is present but prevented from fully developing into a 
 
 [^36]: Trans. Pollock, *Rasa Reader*, 102. The same argument is advanced by Dhanika (c. 975) (ibid., 167).
+
 [^37]: Trans. Pollock, *Rasa Reader*, 192; for Abhinavagupta’s arguments, see ibid., 222–224.
+
 [^38]: See ibid., 225, 228–232.
+
 [^39]: Rudraṭa (c. 850) in particular championed the “affectionate” as *rasa* and, moreover, challenged the traditional list of *rasa*s (V. Raghavan, *The Number of Rasas* \[Adyar:  The Adyar Library, 1940\], 107, and Pollock, *Rasa Reader*, 84–86).
+
 [^40]: For translations of the relevant sections of the *Abhinavabhāratī*, see J. L. Masson and M. V. Patwardhan, *Śāntarasa and Abhinavagupta’s Philosophy of Aesthetics* (Poona: Bhandarkar Oriental Research Institute, 1969), 139 and 143, and Pollock, *Rasa Reader*, 206–207.
 
 *[p. 240]* ^pg259
@@ -173,10 +197,15 @@ Some authors argue that *bhakti* is not a distinct *rasa* precisely because of t
 Given the sophistication and diversity of religious traditions in Kashmir, it is no surprise that some theorists also chose to reflect on the relationship between religion and aesthetics, and particularly religious and aesthetic experience.[^44] Kashmirian theorists came to see them as closely related but still distinct. In one of the extant fragments of Bhaṭṭa Nāyaka, he says that “nothing can compare with” the *rasa* brought forth by poetic language, “not even the rasa spiritual adepts bring forth.”[^45] The point, in part, is that while spiritual adepts have to put forth great effort to achieve the “taste” or “nectar” of spiritual attainment, those who are able to appreciate great works of art experience *rasa* easefully. Abhinavagupta too distinguishes between the “relishing of *rasa*” (*rasāsvāda*) and the “relishing of *brahman*” (*brahmāsvāda*).[^46] In his commentary on the *Dhvanyāloka* he asserts the superiority 
 
 [^41]: Pratihārendurāja describes such works as “emotion poetry” (*bhāvakāvya*) in his early tenth-century commentary on Udbhaṭa’s *Kāvyālaṅkārasārasaṃgraha*; see Pollock, *Rasa Reader*, 68 and, for the translation of the relevant section of Pratihārendurāja’s commentary, 69–70. See also David Buchta, “Evoking *Rasa* Through *Stotra*: Rūpa Gosvāmin’s *Līlāmṛta*, A List of Kṛṣṇa’s Names,” *International Journal of Hindu Studies* 20, no. 3 (December 2016): 357–358.
+
 [^42]: Trans. Pollock, *Rasa Reader*, 226.
+
 [^43]: Ibid., 227.
+
 [^44]: Scholars are still investigating and debating the complexities of how different authors, and especially Abhinavagupta, relate aesthetic theory and theology (for a recent example, see David Peter Lawrence, “The Disclosure of Śakti in Aesthetics: Remarks on the Relation of Abhinavagupta’s Poetics and Nondual Kashmiri Śaivism,” *Southeast Review of Asian Studies* 35 \[2013\]). The strongest, most ambitious argument—that to fully understand Abhinavagupta’s aesthetic theories, as well as those of other Kashmirian authors, one must take seriously their religious commitments and contexts—is in Reich, “Meaning and Appearance.”
+
 [^45]: Fragment #3, trans. Pollock, *Rasa Reader*, 149.
+
 [^46]: Masson and Patwardhan, *Śāntarasa and Abhinavagupta’s Philosophy of Aesthetics*, 162– 163. For two pioneering but dated essays on the topic, see Edwin Gerow, “Abhinavagupta’s Aesthetics as a Speculative Paradigm,” *Journal of the American Oriental Society* 114, no. 2 (April–June 1994), and Gerald Larson, “The Aesthetic (Rasāsvāda) and the Religious (Brahmāsvāda) in Abhinavagupta’s Kashmir Śaivism,” *Philosophy East and West* 26, no.  4 (October 1976). See also Bettina Bäumer, “Brahman,” in *Kalātattvakoṣa. Vol. I:  Pervasive Terms—Vyāpti*, ed. Bettina Bäumer (Delhi:  Indira Gandhi National Centre for the Arts/ Motilal Banarsidass, 1996), and Donna M. Wulff, “Religion in a New Mode: The Convergence of the Aesthetics and the Religious in Medieval India,” *Journal of the American Academy of Religion* 54, no. 4 (Winter 1986).
 
 *[p. 241]* ^pg260
@@ -190,6 +219,7 @@ This is as far as theorists went in linking these two experiences; they were com
 Outside of Kashmir, later authors did champion *bhaktirasa* and criticize Abhinavagupta’s position. Much of this discourse focused on the *Bhāgavatapurāṇa*, a devotional Vaiṣṇava scripture probably composed in South India in the tenth century. The text itself used terminology from aesthetics to describe how devotees should relate to the text.[^48] In western India in the thirteenth century, Vopadeva’s exposition of select verses from the *Bhāgavatapurāṇa* and Hemādri’s commentary on Vopadeva’s text dramatically use *rasa* theory to analyze the emotional relationships between devotees and Viṣṇu/Kṛṣṇa and define the canonical *rasa*s as aspects of a single devotional *rasa*. This trend culminates in the major and innovative reflections on religious aesthetics developed in the Gauḍīya Vaiṣṇava tradition, 
 
 [^47]: Trans. Ingalls et  al., Dhvanyāloka *of Ānandavardhana*, 655. See also Masson and Patwardhan, *Śāntarasa and Abhinavagupta’s Philosophy of Aesthetics*, 158. Masson and Patwardhan’s pioneering work has great value, but it is dated and problematic in a number of ways. For example, while they recognize that Abhinavagupta distinguishes between these two experiences, they also criticize him for confusing “art and life,” and they claim that he sees *śāntarasa* as a “universal experience” lying behind literature, and thus *not* something unique to the aesthetic realm (xvi). Their confusion can be seen in their own statement of surprise that Abhinavagupta “never thought of extending his theory to purely religious texts. After all the most obvious and in a sense the best examples of *śāntarasa* are to be found in religious and philosophical literature, and not in *belles lettres*” (xii). Their conflation of Advaita Vedānta with *advaita* Śaivism as found in Kashmir during the time of Abhinavagupta also frequently limits their analysis of Abhinavagupta’s language.
+
 [^48]: Pollock, *Rasa Reader*, 22, and Venkatkrishnan, “*River of Ambrosia*,” 7.
 
 *[p. 242]* ^pg261
@@ -199,7 +229,9 @@ based on the life and teachings of the charismatic Caitanya (1486–1534). Theor
 In general, *stotra*s have an ambiguous status in Sanskrit poetics, mirroring their marginal position within the Sanskrit literary world. They frequently focus on emotion and expressive language rather than narrative, though of course there are exceptions to this. But the emotion that most often takes center stage in these hymns—as the emotional content being both expressed and encouraged in an audience—is devotion. In some cases, *bhakti* is the explicit subject matter of the hymn; there are at least three poems called “Hymn of devotion” (*Bhaktistotra*) that were composed or circulated in Kashmir.[^51] In fact, many *stotra*s use the word *bhakti* itself in connection with terms from aesthetics, and thus the controversy about “proper terms” in poetry bears directly on how *stotra*s engage with aesthetic discourse. As we have seen, while they share many features with *kāvya* in general, they are hardly ever analyzed in the same way as other forms of literature. Rarely were they used as examples in literary treatises, and when they are they often fit awkwardly into the analytic framework being deployed. In his commentary on the 
 
 [^49]: For a summary of these radical reformulations of *rasa* theory and translations of key passages, see Pollock, *Rasa Reader*, 22–24, 285–309, and also Wulff, “Religion in a New Mode,” 681–684.
+
 [^50]: For a brief overview, see David Buchta and Graham M. Schweig, “Rasa Theory,” in *Brill’s Encyclopedia of Hinduism, Volume Two: Sacred Texts, Ritual Traditions, Arts, Concepts*, ed. Knut Axel Jacobsen (Leiden:  Brill, 2010); for extended studies, see David L. Haberman, *Acting as a Way of Salvation:  A Study of Rāgānugā Bhakti Sādhana* (Delhi:  Motilal Banarsidass, 1988); Barbara A. Holdrege, *Bhakti and Embodiment: Fashioning Divine Bodies and Devotional Bodies in Kṛṣṇa Bhakti* (New  York:  Routledge, 2015) (especially Chapter  2); David Buchta, “Pedagogical Poetry: Didactics and Devotion in Rūpa Gosvāmin’s *Stavamālā*” (Ph.D. diss., University of Pennsylvania, 2014); and Buchta, “Evoking *Rasa* Through *Stotra*”; for translations of key works, see Pollock, *Rasa Reader*, 285–309 and David L. Haberman, ed. and trans., *The Bhaktirasāmṛtasindhu of Rūpa Gosvāmin* (New Delhi:  Indira Gandhi National Centre for the Arts in association with Motilal Banarsidass Publishers, 2003).
+
 [^51]: These are the *Bhaktistotra* of Avadhūtasiddha, also called the *Bhagavadbhaktistotra*, which may not have been composed in Kashmir but was quoted with respect by Kashmirian Śaivas; the *Bhaktistotra* included in Utpaladeva’s *ŚSĀ*; and Jagaddhara Bhaṭṭa’s *Bhaktistotra*, the seventeenth hymn in his *SKA*.
 
 *[p. 243]* ^pg262
@@ -218,8 +250,11 @@ Bhaṭṭa Nārāyaṇa’s *StC* was probably composed during the same period i
 Most notably, however, Bhaṭṭa Nārāyaṇa uses the phrase *bhaktirasa* in two verses.[^55] The word *rasa* has myriad meanings, of course, including taste, sap, juice, nectar, mercury, and pleasure. But his use of the phrase raises the question:  To what extent does *bhaktirasa* have aesthetic significance here? In other 
 
 [^52]: *Dhvanyālokalocana* 2.5d, trans. Ingalls et al., Dhvanyāloka *of Ānandavardhana*, 242. For a second instance where he quotes his own hymn, see *Dhvanyālokalocana* 3.30, trans. Ingalls et al., Dhvanyāloka *of Ānandavardhana*, 532. Here, elements of the erotic ultimately support the suggestion of the peaceful in the poem.
+
 [^53]: Pollock, *Rasa Reader*, 22.
+
 [^54]: *StC* vv. 26, 55, and 43. By using the phrase *bhakticintāmaṇi*, which so closely parallels the hymn’s title (*Stavacintāmaṇi*), v. 26 highlights the close relationship between devotion (*bhakti*) and praise, prayer, and hymns (*stava*).
+
 [^55]: *StC* vv. 50 and 68.
 
 *[p. 244]* ^pg263
@@ -243,6 +278,7 @@ The situation changes somewhat when we turn to the other verse that employs this
 Once again *bhaktirasa* could be interpreted here in a nontechnical sense as the experience or taste of devotion. In this case, the devotee enjoys the nectar that has the taste of devotion, or else the nectar that consists of the experience of devotion. However, the central metaphor of the verse—relishing a special nectar—suggests the primary metaphor of aesthetic theory in Kashmir, going all the way back to Bharata’s *Nāṭyaśāstra*:  the analogy between the taste of *rasa* and the taste of a mixed drink. The language of *āsvāda* in particular—the experience of relishing— evokes aesthetic discourse.
 
 [^56]: *eṣa muṣṭyā gṛhīto’si dṛṣṭa eṣa kva yāsi naḥ* / *iti bhaktirasādhmātā dhanyā dhāvanti dhūrjaṭim* // *StC* 68 // My translation follows Kṣemarāja’s commentary and fills in the implied meaning of the short statements in the first half of the verse accordingly (literally, “You are this, which is grasped by the fist; \[and\] this, which is seen; where do you go \[away\] from us?”) Kṣemarāja explains *ādhmātāḥ* as *proddīpitasaṃvidaḥ*, “those whose consciousness is lit up” (*StC*, commentary on v. 68, p. 77).
+
 [^57]: *yāvad uttaram āsvādasahasraguṇavistaraḥ* / *tvadbhaktirasapīyūṣān nātha nānyatra dṛśyate* // *StC* 50 //
 
 *[p. 245]* ^pg264
@@ -258,6 +294,7 @@ In Chapter 4, I argued that Utpaladeva’s *ŚSĀ* models a specific kind of *
 The central metaphor Utpaladeva uses to describe *bhakti* is also the most striking:  in his poetry, devotion is a nectar. He specifically uses the compound *bhaktirasa* and also describes *bhakti* as a nectar or elixir using synonyms closely related to *rasa*, such as *amṛta, sudhā*, and *rasāyana*. He does this much more than Bhaṭṭa Nārāyaṇa, who probably preceded him. As with Bhaṭṭa Nārāyaṇa, Utpaladeva’s use of this general metaphor and the term *bhaktirasa* in particular raises the question: To what extent did he mean this as a technical term? Surely such a learned figure as Utpaladeva, an accomplished poet whose expository 
 
 [^58]: We do not know, however, the relative chronology of Bhaṭṭa Nārāyaṇa and Bhaṭṭa Nāyaka’s compositions.
+
 [^59]: See Chapter 4.
 
 *[p. 246]* ^pg265
@@ -267,9 +304,13 @@ writings indicate an extensive knowledge of many bodies of philosophical literat
 Utpaladeva uses the specific phrase *bhaktirasa* ten times in the *ŚSĀ*,[^60] and these verses are highly suggestive of Sanskrit aesthetic discourse in general. Most importantly, they often describe the relishing (*āsvāda*) of *rasa*[^61]; in one verse, he says that even in the constant repetition of the name “Śiva” the devotee enjoys (*āsvādayan*) a “special, great *rasa*” (*kam api mahārasam*) that never grows old or redundant (*apunaruktam*).[^62] *Āsvāda* became a central term in the analysis of aesthetic experience. When Abhinavagupta discusses the parallel nature of religious experience and aesthetic experience, for example, he does so in terms of *āsvāda* (*brahmāsvāda* and *rasāsvāda*, respectively). Abhinavagupta also relies heavily in his aesthetic analysis on the concept of *camatkāra*—an experience of sudden delight or rapture. This term too appears in Utpaladeva’s poetry, and it seems that his hymns were a major influence on Abhinavagupta’s aesthetic theories.[^63] Navjivan Rastogi has argued in detail that Utpaladeva’s philosophical and poetic works established the framework for Abhinavagupta’s aesthetic theories, particularly through his reflection on the term *camatkāra*.[^64] We can see the close 
 
 [^60]: Almost every time the phrase *bhaktirasa* is used, Utpaladeva also uses a second-person pronoun as the first member of the compound (*tvad-, bhavad-, tāvaka-*). The ambiguity of the genitive here seems deliberate—it is both the devotee’s feelings of love and devotion for Śiva, and also Śiva’s for the devotee. Constantina Rhodes Bailly notes this as well, and even says that *tvadbhakti* and *tvadbhaktirasa* are probably the most common recurring phrases in the *ŚSĀ*, but she does not address the aesthetic implications of these terms (*Shaiva Devotional Songs of Kashmir:  A Translation and Study of Utpaladeva’s Shivastotravali* \[Albany:  SUNY Press, 1987\], 15).
+
 [^61]: E.g., *ŚSĀ* 17.42, which refers to the “relishing of sweet *bhaktirasa*” (*svādubhaktirasāsvāda-).*
+
 [^62]: *ŚSĀ* 5.23.
+
 [^63]: The history of *camatkāra* as a key concept remains a desideratum; what V.  Raghavan noted almost fifty years ago in his short essay on *camatkāra* remains as true today: “its early semantic history is indistinct” (*Studies on Some Concepts of the Alaṃkāra Śāstra* \[Madras: The Adyar Library and Research Centre, 1973\], 293). As Raniero Gnoli notes, “The first to use this term in a technical sense was probably Utpaladeva” (*The Aesthetic Experience According to Abhinavagupta* \[Varanasi: Chowkhamba Sanskrit Series Office, 1985\], xlv–xlvi). For *camatkāra* in the works of Abhinavagupta, Kṣemendra, and later authors, see David Shulman, “Notes on Camatkāra,” in *Language, Ritual, and Poetics in Ancient India and Iran: Studies in Honor of Shaul Migron*, ed. David Shulman (Jerusalem:  The Israel Academy of Sciences and Humanities, 2010).
+
 [^64]: Navjivan Rastogi, “Utpala’s Insights into Aesthetics and His Impact on Abhinavagupta’s Aesthetic Speculation,” in *Utpaladeva, Philosopher of Recognition*, ed. Raffaele Torella and Bettina Bäumer (Shimla:  Indian Institute of Advanced Study, 2016), especially 132–171,
 
 *[p. 247]* ^pg266
@@ -289,9 +330,13 @@ Utpaladeva also characterizes *bhaktirasa* as something that is nourished or enh
 Some interpretations of Utpaladeva’s writings argue that he did indeed espouse *bhakti* as a distinct *rasa* within aesthetic analysis. Rastogi has argued that the overall appreciation of joy and beauty within the monistic Śaivism of Kashmir leads to the “elevation of *bhakti* as an aesthetic sentiment (*rasa*)” and even as a 
 
 [^65]: *antarbhakticamatkāracarvaṇāmīlitekṣaṇaḥ* / *namo mahyaṃ śivāyeti pūjayan syāṃ tṛṇāny api* // *ŚSĀ* 5.15 // Here *carvaṇā* refers to the act of “chewing” or relishing and *camatkāra* refers to the state of bliss or enjoyment that comes from this act. But there is generally some slippage between the two terms; *camatkāra*, in particular, can refer to both the act of relishing and the experience that comes from that relishing (hence rapture, following Pollock, *Rasa Reader*).
+
 [^66]: For example, see *ŚSĀ* 16.5, translated later in the chapter.
+
 [^67]: Pollock, *Rasa Reader*, 15–16.
+
 [^68]: See, for example, *ŚSĀ* 16.4 and 5.16.
+
 [^69]: This is not unique among Śaiva authors, and it is especially common among later authors like Abhinavagupta and Kṣemarāja. But the enthusiasm with which Utpaladeva embraces terminology from aesthetics is notable.
 
 *[p. 248]* ^pg267
@@ -309,9 +354,13 @@ This perspective contrasts sharply with the technical understanding of *rasa* as
 Here he suggests that it is by Śiva’s grace alone that he experienced *bhaktirasa*. Even as he deploys concepts like *rasa* and nourishment loaded with meaning from 
 
 [^70]: “Utpala’s Insights into Aesthetics,” 109. Rastogi mentions that Gopinath Kaviraj also interpreted *bhaktirasa* in Utpaladeva’s poetry as a distinct *rasa* (ibid., 110).
+
 [^71]: Ibid., 109–111.
+
 [^72]: Rastogi himself acknowledges that Utpaladeva does not deal with aesthetic theory directly (ibid., 102).
+
 [^73]: *vāci manomatiṣu tathā śarīraceṣṭāsu karaṇaracitāsu* / *sarvatra sarvadā me puraḥsaro bhavatu bhaktirasaḥ* // *ŚSĀ* 5.22 //
+
 [^74]: *yathaivājñātapūrvo ‘yaṃ bhavadbhaktiraso mama* / *ghaṭitas tadvad īśāna sa eva paripuṣyatu* // *ŚSĀ* 16.5 //
 
 *[p. 249]* ^pg268
@@ -329,6 +378,7 @@ In the end, we cannot simply say that Utpaladeva accepted *bhaktirasa* as an aes
 Yet Utpaladeva also does not ignore aesthetics. In fact, reading the *ŚSĀ* one is struck by how pervasive terms from aesthetics are, particularly the complex set of metaphors related to the concept of *rasa*. Rastogi and other scholars have rightly emphasized the importance of Utpaladeva’s ideas for later developments within aesthetics, especially the dominant position charted by Abhinavagupta. On 
 
 [^75]: Daniele Cuneo, “Detonating or Defusing Desire: From Utpaladeva’s Ecstatic Aesthetics to Abhinavagupta’s Ecumenical Art Theory,” in *Utpaladeva, Philosopher of Recognition*, ed. Raffaele Torella and Bettina Bäumer (Shimla:  Indian Institute of Advanced Study,
+
 [^76]: Ibid., 46.
 
 *[p. 250]* ^pg269
@@ -338,7 +388,9 @@ one hand, Utpaladeva marks the dramatic and widespread incorporation of aestheti
 The *stotra* genre is key to understanding these developments. To begin with, *stotra*s bridge the worlds of Sanskrit literature and, in this case, Śaiva devotion and theology. As we saw in Chapter 5, for some authors *stotra*s were a way of appropriating the power of Sanskrit literary culture for the sake of religious worship and prayer. Utpaladeva’s adoption of terminology from aesthetics reflects this impulse. As literary texts, *stotra*s can reframe the language of aesthetics in accessible ways for devotional contexts. Utpaladeva’s focus on *rasa*, and specifically *bhaktirasa*, arises out of the central concerns of his *stotra*s themselves. First and foremost, Utpaladeva seeks to both *describe* and *engender* a particular type of ecstatic experience. This consists primarily of devotion, but critically, for Utpaladeva this devotion is the taste of non-duality. Rather than a relationship between two things, this devotion is the savoring of an underlying unity between multiple, diverse things. This is why *rasa* and related terms are so compelling. As Pollock notes in the passage quoted earlier, the complexity of aesthetic *rasa* resembles that of taste itself, “which may be regarded as existing at once in the food, the taster, and the act of tasting.”[^78] The central metaphor of *rasa*—in part because of its ambiguities— allows Utpaladeva to talk about an experience that acknowledges diversity even as it celebrates an essential unity. The myriad meanings of the word *rasa* contribute to this; its meanings as various precious liquids (water, milk, sap, nectar, etc.), for example, suggest its fluidity and an intensity of experience.[^79]
 
 [^77]: As Raffaele Torella puts it:  “\[Utpaladeva’s\] philosophy is characterized by this unique blend of epistemology, metaphysics, religious experience, linguistic philosophy and aesthetic speculation. Precisely to Utpaladeva do we owe the entrance of aesthetics into philosophical- religious speculation. His concept of *camatkāra* (wondrous enjoyment) marks a higher level of experience, which leaves the reality and beauty of the manifested world intact, but at the same time projects it into a totality whose centre is Supreme Consciousness. This will be developed by Abhinavagupta into a full-fledged aesthetic system, destined to become the main stream of aesthetical speculation of pre-modern India as a whole” (“Importance of Utpaladeva: An Introduction,” in *Utpaladeva, Philosopher of Recognition*, ed. Torella and Bäumer, 2016\], 10).
+
 [^78]: Pollock, *Rasa Reader,* 26.
+
 [^79]: Regarding the “drink metaphor,” Cuneo argues: “Briefly, the standard metaphor for the enjoyment of the absolute—be it in a relation of complete identity or in the loving relation of the devotee brimful of the sentiment of *bhakti*—is the drinking of a psychotropic liquid. \[ . . . \] As far as its relationship with the *rasa* theory is concerned, my working hypothesis is that it is the same ‘drink metaphor’ that developed independently, on the one hand, as a metaphor for any extremely intense sensory experience that reaches the very essence of the appreciated object—such as in the *Śivastotrāvalī*—and, on the other hand, possibly along similar lines, as a metaphor for the experience of art—first in the *Nāṭyaśāstra*, and consequently in Abhinavagupta’s grand aesthetic theory” (“Detonating or Defusing Desire,” 49n35).
 
 *[p. 251]* ^pg270
@@ -362,10 +414,15 @@ It is no surprise that the *SKA*, as a collection of literary hymns to Śiva, ex
 Repeatedly Jagaddhara celebrates poetry that is “steeped in devotion” (*bhaktisikta*)[^81] and “purified by Śiva’s devotion” (*śivabhaktipavitrita*).[^82] He praises the greatness of devotion to Śiva, and goes so far as to hold it higher than liberation.[^83] Furthermore, Jagaddhara sees devotional poetry, such as his own *SKA*, inspiring devotion in others. For instance, he praises “poetry that causes devotion to blossom” (*gīr bhaktivikāsadā*).[^84] Near the end of his collection in particular, he prays for the cultivation of *bhakti* in the text’s audience. The blessing in v. 38.29 ends with this prayer: “On each and every path, may devotion to benevolent Śiva, which eliminates the suffering of those afflicted by fierce misfortunes, blossom in perfect fullness within each and every person.”[^85] At the end of the thirty-eighth hymn, Jagaddhara prays that the “wonder” or “rapture” (*camatkṛti*) of Śiva’s devotion be unwavering in the 
 
 [^80]: *SKA* 1.5.
+
 [^81]: E.g., in *SKA* 1.29. The metaphor of being steeped or drenched in the nectar of devotion remains appealing today across traditions; see, e.g., Shukla-Bhatt, *Narasinha Mehta of Gujarat*, 18.
+
 [^82]: *SKA* 38.24.
+
 [^83]: *SKA* 3.44.
+
 [^84]: *SKA* 30.17.
+
 [^85]: *pathi pathi mathitogravyāpadāpannatāpā nari nari paripūṛṇā jṛmbhatāṃ śambhubhaktiḥ* // *SKA* 38.29cd //
 
 *[p. 253]* ^pg272
@@ -377,11 +434,17 @@ While many verses depict *bhakti* as an experience or state of the devotee direc
 Jagaddhara composed an entire hymn on the theme of *bhakti*, called the *Bhaktistotra*. The explicit aim of the poem is to praise devotion to Śiva. In the first verse Jagaddhara asks Sarasvatī to amuse herself in his heart and to know that he is “eager to praise Śiva’s devotion”[^92] now that his delusion has ended. Shortly after 
 
 [^86]: *iti śubhaṃ bhagavaccaritastutivyatikareṇa yad arjitam ūrjitam* / *bhavatu tena manasy anapāyinī sukṛtināṃ śivabhakticamatkṛtiḥ* // *SKA* 38.30 // For a translation of SKA 38.27–30, see the Conclusion.
+
 [^87]: See the fourth quarter of *SKA* 31.1–5.
+
 [^88]: *SKA* 17.26.
+
 [^89]: See, for example, *SKA* 24.2–3.
+
 [^90]: *bhajasi* \[ . . . \] *kāmadayā natajanam* \[ . . . \]; *SKA* 24.19ab.
+
 [^91]: *SKA* 30.15 and 24.20, respectively. See also *SKA* 30.39.
+
 [^92]: *analasaṃ śaṃsituṃ śambhubhaktim; SKA* 17.1.
 
 *[p. 254]* ^pg273
@@ -401,9 +464,13 @@ The majority of Jagaddhara’s *Bhaktistotra* praises *bhakti* as efficacious in
 Aside from this striking image, there is nothing particularly surprising about this general depiction of *bhakti* in Jagaddhara’s *Bhaktistotra*. It has physical manifestations; it involves a close connection with Śiva; it helps conquer worldly desires and the fear of death; and it has the power to win Śiva’s favor and affection. But 
 
 [^93]: *kaṇṭhe kaṇṭḥīravaravasadṛg dṛksamudgodgatāśror helonmīladvipulapulakodbhūtabhūteśa bhakteḥ* / *yasyodeti dhvanir anibhṛtaḥ śarva śarvety akharvaṃ garvaṃ bibhradd hasati vasatiṃ vāsavīyāṃ sa ekaḥ* // *SKA* 17.4 //
+
 [^94]: E.g., *SKA* 17.14.
+
 [^95]: *SKA* 17.22–26.
+
 [^96]: *SKA* 17.19.
+
 [^97]: *SKA* 17.29.
 
 *[p. 255]* ^pg274
@@ -419,6 +486,7 @@ At the same time, however, the erudition and poetic proficiency of the *SKA* mak
 In his *Bhaktistotra*, Jagaddhara shows this in how he aestheticizes *bhakti* by repeatedly asserting its centrality to the quality of anything literary. One could even say he *bhakti*-cizes aesthetics, to use an awkward neologism—in other words, he makes *bhakti* a critical component of aesthetics. For instance, in one verse he says that as a poet he cannot produce *rasa* for those in whom *bhakti* is not manifest.[^99] The key term in this verse—*rasakṛt*, “producing *rasa*”—can simply mean producing pleasure or delight, but of course Jagaddhara was well aware that *rasa* was 
 
 [^98]: *kāntaikāntavyasanamanasāṃ valkalālaṅkṛtānāṃ jñānāmbhobhiḥ kṣapitarajasāṃ jāhnavītīrabhājām* / *gāḍhotsekaprakaṭitajaṭāmaṇḍalīmaṇḍanānāṃ nānākārā bhavati kṛtināṃ muktaye bhargabhaktiḥ* // *SKA* 17.16 //
+
 [^99]: *yeṣām antaḥ sukṛtasaraṇiḥ sthāṇavīyā na bhaktir vyaktiṃ dhatte rasakṛd asakṛn nāsmi teṣu smiteṣu* / *lokaḥ śokaṃ tyajati sahasā yatra tad bhaktiyuktaṃ yuktaṃ manye ruditam uditaślāgham ullāghahetum* // *SKA* 17.8 //
 
 *[p. 256]* ^pg275
@@ -438,8 +506,11 @@ Jagaddhara’s *Bhaktistotra* culminates in a provocative *śleṣa* verse exemp
 Many of the terms in this verse echo both Śaiva theology and Sanskrit poetics in Kashmir:  “taste” (*rasa*), “relishing” (*āsvāda*), “rapture” (*camatkāra*), “consciousness” (*saṃvid*), “repose” (*viśrānti*), and so on. In fact the metaphor of poetic language producing *rasa* like a cow goes back at least to Bhaṭṭa Nāyaka; one of his extant fragments states: “Poetic language, like a cow, brings forth this rasa at the thirsty promptings of her calves, and so nothing can compare with it, not even the rasa spiritual adepts bring forth.”[^102] While Jagaddhara does seem to refer to the idea of a related but separate aesthetic and religious experience in the opening lines of this verse,[^103] his emphasis as a whole is on the experience of devotion, especially since this verse concludes his hymn on devotion.
 
 [^100]: This also suggests the freedom from obstacles that is an essential element in the aesthetic experience of *rasa*.
+
 [^101]: *gāvas tāvad duhānā rasam asamasudhāsodarāsvādabandhuṃ bhaktir bharge nisargaklama* *śamanacamatkārabhogaikabhūmiḥ* / *tṛptiḥ svātmāvabhāsād anupamaparamānandaniḥsyanda* *saṃvidviśrāntyekāntahetor iti sapadi vipatkiṅkarī kiṅ karotu* // *SKA* 17.30 //
+
 [^102]: Fragment #3, trans. Pollock, *Rasa Reader*, 149.
+
 [^103]: Ratnakaṇṭha, in his commentary on this verse, interprets the opening lines in terms of the quiescent (*śānta*) *rasa* and thereby seems to support the idea that aesthetic experience (*rasāsvāda*) and religious experience (*brahmāsvāda*) are related but not identical (*Laghupañcikā*, 146).
 
 *[p. 257]* ^pg276
@@ -453,7 +524,9 @@ But what about *bhakti* as a *rasa*? The verse just quoted states that poetry pr
 Such verses do not explicitly identify *bhaktirasa*, and one might argue that *rasa* and *bhakti* can be associated without necessitating the idea of *bhaktirasa* as a unique aesthetic category. Yet they can also support the view that Jagaddhara sought to evoke *bhaktirasa* through his poetry.
 
 [^104]: See, for example, *SKA* 25.19, where he refers to “one who is delighted by the nectar that is devotion” (*muditasya bhaktisudhayā*).
+
 [^105]: *SKA* 1.29 and 38.26, respectively.
+
 [^106]: *tan mānuṣyaṃ prabhavati satām uttamā yatra jātiḥ saikā jātiḥ prasarati yaśo yatra pāṇḍityahetu* / *tat pāṇḍityaṃ sarasamadhurā jṛmbhate yatra vāṇī vāṇī sāpi prathayati ratiṃ śāṅkarī yatra bhaktiḥ* // *SKA* 17.5 // In his commentary on this verse, Ratnakaṇṭha supplies the word “fortunate” (*dhanya*) to describe the best of each type (*Laghupañcikā*, 142). Following this reading, the verse could also be translated:
 
 *[p. 258]* ^pg277
@@ -485,6 +558,7 @@ Bhaṭṭa Nārāyaṇa, Utpaladeva, and Jagaddhara’s hymns received learned c
 aesthetics related to the experience of a poem or drama’s audience, such as *rasa*. 
 
 [^108]: For other examples, see *SKA* 37.2, where he compares praise-poetry to a beautiful vine that bears fruit when it is watered by the nectarian water of Śiva’s *bhakti* (*śivabhaktisudhā* *rasāsekaiḥ*), and *SKA* 9.25, where Śiva’s devotees are described as being constantly satisfied because of enjoying the nectar of Śiva’s *bhakti* (*bhāvatkabhaktirasapāraṇanityatṛptam*).
+
 [^109]: On Kṣemarāja’s interpretive strategies, see Hamsa Stainton, “Poetry and Kṣemarāja’s Hermeneutics of Non-dualism,” in *Tantrapuṣpāñjali:  Tantric Traditions and Philosophy of Kashmir; Studies in Memory of Pandit H.N. Chakravarty*, ed. Bettina Sharada Bäumer and Hamsa Stainton (Delhi: Indira Gandhi National Centre for the Arts, 2018), 339–368.
 
 *[p. 260]* ^pg279
@@ -494,8 +568,11 @@ Infrequently he identifies a specific *rasa*, such as when he explicitly says th
 At the same time, Kṣemarāja also uses aesthetic language to characterize the experience of Śiva himself. His commentary is based on a non-dualistic theology that seeks to reinterpret anything that might be seen as creating a division between the individual and Śiva. But it also follows the emphasis of the *StC* itself and concentrates on the experience of the individual. Occasionally, both Bhaṭṭa Nārāyaṇa and Kṣemarāja suggest that Śiva is the ultimate agent and enjoyer. In *StC* v. 63, Bhaṭṭa Nārāyaṇa pays homage to Śiva as the enjoyer of the universe in general terms (*bhoktre*); Kṣemarāja specifies that Śiva is the “relisher” (*camatkartre*).[^112] When Bhaṭṭa Nārāyaṇa depicts Śiva united with Umā (even though he has incinerated Kāmadeva and destroys all desires), Kṣemarāja describes Śiva as “immersed in the extraordinary erotic sentiment brought to perfection by the supporting and stimulating factors.”[^113] Thus he uses standard terms from aesthetics to explain the vision of Śiva presented in this hymn. While the majority of Kṣemarāja’s commentary focuses on the experience of the Śaiva devotee, it also applies the terminology of aesthetics to Śiva himself. This shift in focus from the Śaiva devotee to Śiva himself is not surprising, given the ontological identity between the devotee and Śiva espoused by non-dual Śaivas.
 
 [^110]: *adbhutaraso dhvanyate; StC*, p. 188.
+
 [^111]: *StC* v. 20 and commentary, pp. 29–30.
+
 [^112]: *StC*, p. 73.
+
 [^113]: *ālambanoddīpanavibhāvasaṃpūrṇāsāmānyaśṛṅgāraniviṣṭatvam; StC* v.  51 and commentary, pp. 60–61.
 
 *[p. 261]* ^pg280
@@ -509,6 +586,7 @@ With words burst forth out of the abandon of this immersion, I will reflect a li
 May this supreme nectar (*rasa*) be relished (*rasyatām*) by connoisseurs (*rasajñaiḥ*).[^115]
 
 [^114]: For other examples, see his commentary on *ŚSĀ* 1.26 and 17.24, and his introduction to *ŚSĀ* 13.4.
+
 [^115]: *etadāveśavaivaśyapronmiṣaddhiṣaṇā vayam* / *vimṛśāmo manāk chrīmatsāmbapañcāśikāstutim* // *so ‘yaṃ parāmṛtaraso rasajñair iha rasyatām* / *maṅgalaśloka*s 2-3ab // *SP*, p. 1.
 
 *[p. 262]* ^pg281
@@ -520,10 +598,15 @@ Overall, while Kṣemarāja actively applies the compelling metaphors developed 
 Rājānaka Ratnakaṇṭha also frequently resorts to aesthetic terminology in his commentary on the *SKA*. He regularly identifies specific aesthetic ornaments and types of suggestion in particular verses,[^116] and on occasion he interprets the *SKA* in terms of *śāntarasa*, the peaceful *rasa*.[^117] More often, however, he explicitly refers to *bhaktirasa* as he interprets phrases of the *SKA*. When Jagaddhara refers to poetry “steeped in devotion” (*bhaktisikta*), Ratnakaṇṭha expands this to “steeped in the nectar that is *bhaktirasa*” (*bhaktirasāmṛtasikta*).[^118] He does the same when Jagaddhara exuberantly claims that he is creating *rasa* through his poetry, explaining that this means *bhaktirasa*.[^119] Such examples could easily be multiplied.[^120] In general, Ratnakaṇṭha interprets the *SKA* as cultivating *bhaktirasa* in its human audience. In the third *stotra*, Jagaddhara offers various blessings (*āśīrvāda*) to his human audience, and when he uses verbs based on the root √*puṣ*, “to nourish,” Ratnakaṇṭha usually explains them in terms of *bhaktirasa*. For instance, in v.  3.32 Jagaddhara prays that Śiva’s radiant chest will nourish his audience, and Ratnakaṇṭha comments: “May it nourish you by producing *bhaktirasa.*”[^121] There is one illustrative exception to this practice of glossing *puṣṇātu* in terms of *bhaktirasa*. In one of the final verses of this hymn, Jagaddhara offers a blessing that his own 
 
 [^116]: In his commentary on *SKA* 1.1, for example, he identifies the verse as containing *śabdaśaktimūla upamādhvaniḥ*—“A suggested simile rooted in the power of words,” a category developed by Ānandavardhana (see Ingalls et al., Dhvanyāloka *of Ānandavardhana*, 290–291, 335–336).
+
 [^117]: See, for example, his commentaries on *SKA* 1.3, 17.30, and 38.10.
+
 [^118]: Commentary on *SKA* 1.29 (*Laghupañcikā*, 9).
+
 [^119]: Commentary on *SKA* 30.77 (*Laghupañcikā*, 219).
+
 [^120]: See, for instance, Ratnakaṇṭha’s commentary on *SKA* 5.3, 11.30, and 24.1.
+
 [^121]: *bhaktirasotpādanena poṣayatv ity arthaḥ* (*Laghupañcikā*, 22).
 
 *[p. 263]* ^pg282
@@ -537,8 +620,11 @@ There is, however, an interesting point of tension between Jagaddhara and Ratnak
 *Bhakti* was a major theme among Śaiva poets in Kashmir. Their poetic hymns expressed, described, and cultivated devotion. For some authors, *bhakti* was also a key point of contact between religious and aesthetic reflection. Comparing devotion to a nectar or taste that is savored provided these poets with a compelling way to talk about religious experience, particularly within a non-dualistic context, and it also connected their poetry to the rich world of Sanskrit literature and poetic 
 
 [^122]: *SKA* 3.58 and its commentary (*Laghupañcikā*, 29).
+
 [^123]: *Laghupañcikā*, 2.
+
 [^124]: E.g., in his commentary on *SKA* 3.50, 5.11, and 20.41.
+
 [^125]: Occasionally Jagaddhara does disparage his own poetry in ways that suggests its flaws do not matter (e.g., *SKA* 11.28), but these are highly rhetorical verses exhibiting literary merit that belies their affected humility.
 
 *[p. 264]* ^pg283

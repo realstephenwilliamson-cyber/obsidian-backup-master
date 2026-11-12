@@ -179,93 +179,172 @@ A proof of this law can be drawn from the fact that the Torah speaks of the judg
 Similarly, when a woman states: "I have been consecrated," [if it is discovered that she engaged in relations with another man,] she is not executed on the basis of her own statements. Instead, there must be witnesses [that she was consecrated] or she must have established a common conception [that this was the case]. ^1-23
 
 [^1]: In *Hilchot Ishut* 1:5, the Rambam defines the term *arayot* as "[Those women] with whom relations are forbidden by Scriptural Law and with whom relations are punishable by *kereit* as enumerated in *Parshas Acharei Mot*.
+
 [^2]: Literally, the soul's being cut off. This involves premature death in this world (before the age of 50, *Mo'ed Kattan* [[Moed Katan 28#28a|28a]]) and the soul not meriting a portion in the world to come (*Hilchot Teshuvah* 8:1).
+
 [^3]: The prohibition and the punishment is incumbent on them both equally.
+
 [^4]: This term is used to distinguish the sacrifice from the "adjustable guilt offering" (*korban olah viyoreid*) that is brought for certain transgressions. See *Hilchot Shegagot* ch. 1 which describes the fixed sin offering , and ch. 10 which describes the adjustable guilt offering.
+
 [^5]: See Halachot 4-6.
+
 [^6]: Even if they cannot be executed because the court cannot find two appropriate witnesses, they are punishable by *kerait*.
+
 [^7]: See *Hilchot Sanhedrin* 12:2 which describes the obligation to give a warning and states: "How is a warning administered? We tell him: 'Desist..." or 'Do not do it. It is a transgression and you are liable to be executed by the court....'.
+
 [^8]: The Rambam's ruling reflects a unique instance in which he uses the wording of a Talmudic passage for the opposite intent. *Sanhedrin* [[Sanhedrin 8#8b|8b]] quotes Rabbi Yossi bar Rabbi Yehudah as coining the expression the Rambam employs: "A warning was instituted only to make a distinction between a person who transgresses inadvertently and one who transgresses intentionally." Rabbi Yossi, however, used this concept as support for his contention that a Torah scholar does not need a warning. Since he is knowledgeable, we assume that he is familiar with the laws. If he is transgressing, we can conclude that he is doing so as a conscious act of rebellion. Hence, he is deserving of punishment.  
     The Rambam differs, maintaining that even a Torah scholar might not be aware that his act violates a particular prohibition. We do not suspect that he did know the law, it was however possible that he was aware of the prohibition, but not know that it applied in this instance, e.g., he knew that adultery was forbidden, but did not know whether or not the woman was married or related to him. The warning will clarify that for him (*Maggid Mishneh*; *Kessef Mishneh* to *Hilchot Sanhedrin, loc. cit.*).
+
 [^9]: See *Hilchot Sanhedrin* 15:1-5 for a description of these different modes of execution.
+
 [^10]: Even if she is not his mother.
+
 [^11]: The wording of the Hebrew emphasizes that his son married the woman, not merely engaged in relations with her.
+
 [^12]: I.e., from a previous marriage.
+
 [^13]: After his wife's death, her daughter is still prohibited to him and they are punishable by *kerait*. There is, however, no punishment to be administered by an earthly court. As stated in Chapter 2, Halachah 8, this applies to any woman prohibited because they are closely related to the person's wife.
+
 [^14]: *Sanhedrin* [[Sanhedrin 52#52b|52b]] explains the rationale for this statement as follows: Just as death at the hand of heaven does not leave a mark; so, too, unless another form of execution is explicitly stipulated, death at the hand of the court should not leave a sign. This alludes to strangulation in which the condemned's body is not marred at all.
+
 [^15]: See Chapter 3, Halachah 3.
+
 [^16]: According to Jewish law, marriage is a two-staged process involving consecration (*erusin* or *kiddushin*) and marriage (*nissuin*). Consecration establishes the bond between a man and a woman. From that time onward, she is forbidden to engage in relations with other men. It is not until marriage, however, that the husband and wife relationship is consummated and the couple begin their life together.  
     In the present era, both of these stages of marriage are completed at the same time. In the Biblical and Talmudic eras, it was customary to wait a year between these two stages.
+
 [^17]: I.e., between the age of twelve and twelve and a half and she is a virgin. Otherwise, adultery is punished by strangulation.
+
 [^18]: See Chapter 3, Halachah 4.
+
 [^19]: *Sanhedrin* [[Sanhedrin 53#53a|53a]] derives this concept from the fact that this phrase is used with regard to a person who divines with a *yidoni* concerning whom [[Torah 30 - Kedoshim#^20-27|Leviticus 20:27]] explicitly states that he should be stoned to death.
+
 [^20]: I.e., the punishment of *kerait* is not mentioned with regard to them. They include nine forbidden relationships, e.g., a *mamzer* or a *mamzeret* to an acceptable Jew or a divorcee to a priest. These nine are mentioned in *Hilchot Ishut* 1:7.
+
 [^21]: Literally, "secondary." In *Hilchot Ishut* 1:6, the Rambam explains that this term refers to "women with whom relations are forbidden according to the Oral Tradition. These prohibitions are Rabbinic in origin." He continues listing 20 such women with whom our Sages forbade relations as a safeguard for the Scriptural prohibitions. For example, as a safeguard against relations with one's mother, the Sages forbade relations with both of one's grandmothers.
+
 [^22]: Lashes mandated by Rabbinic decree which are given as punishment for the violation of Rabbinic commandments and for other purposes. See *Hilchot Sanhedrin* 16:3, 18:5, which mentions this punishment.
+
 [^23]: Relationships which the Torah does not explicitly prohibit, but the prohibition can be derived from a positive commandment. For example, there is no prohibition against a High Priest marrying a non-virgin. Nevertheless, since he is commanded ([[Torah 31 - Emor#^21-13|Leviticus 21:13]] to marry a virgin bride, we assume that it is forbidden for him to marry a woman who is not a virgin. There are two other such relationships: Egyptian and Edomite converts who cannot marry into the Jewish people until the third generation. See *Hilchot Ishut* 1:8.
+
 [^24]: See *Hilchot Sanhedrin* 24:4 which states that the court may administer punishment that is not required by Torah Law if they feel that it will lead to the moral development of the Jewish people.
+
 [^25]: The verse cited speaks of the rape of a consecrated maiden in a field where even if she had called for help, there would have been none to save her. Since she was compelled to perform the transgression, she is not held responsible.
+
 [^26]: The Ra'avad takes issue with the Rambam on this point, explaining that if a man develops an erection with the intent of having relations with his wife and while he is still erect, he is compelled to engage in forbidden relations, he is considered to have acted against his will. The *Maggid Mishneh* states that even the Rambam would accept such a ruling.  
     The *Maggid Mishneh* states, however, that there are authorities who maintain that if a man is compelled to engage in relations at the pain of death, he is considered to have been compelled to act against his will. *Yevamot* [[Yevamot 53#53b|53b]], the source for the Rambam's ruling, is speaking about a situation when a person is not compelled by forces beyond his control. Other authorities maintain that he is liable, even in such a situation. It is, however, unlikely that the Rambam would maintain that the court should actually carry out capital punishment. For in *Hilchot Yesodei HaTorah* 5:4, the Rambam writes that a person who is compelled by gentiles to engage in adulterous or incestuous sexual relations should sacrifice his life rather than do so. If, however, he fails to chose martyrdom and transgresses, he should not be punished by the court. It would be difficult to explain that ruling applies only in a situation when he had already developed an erection for a woman with whom he was permitted to engage in relations and was then compelled to engage in forbidden relations. Thus it would appear that the man is not held responsible for capital punishment engaging in relations at the threat of death. [See *Bayit Chadash* (*Yoreh De'ah* 20)].  
     See also the *Kessef Mishneh* to *Hilchot Sanhedrin* 20:2 who states that since developing an erection comes as a result of the man's own pleasure and desire, he is considered to have acted willingly even though he was compelled to engage in the relations.
+
 [^27]: *Ketubot* [[Ketubot 51#51a|51a]] states that even if the woman says: "Let him continue, for had he not taken me by force, I would have hired him," she is considered as acting under duress and freed of liability. For it was not until after she was overcome by desire that she consented.
+
 [^28]: This expression is used with regard to relations with a woman in the *nidah* state. From that instance, *Yevamot* [[Yevamot 54#54a|54a]] derives a connection to the entire Torah.
+
 [^29]: If, however, the man merely touches the entrance to the vaginal channel with his organ, he is not liable (see *Beit Shmuel* 20:3).
+
 [^30]: Based on [[Torah 30 - Kedoshim#^19-13|Leviticus 19:13]], *Sanhedrin* [[Sanhedrin 54#54a|54a]] states that both forms of intercourse are equally forbidden.
+
 [^31]: *Or Sameach* notes that [[Torah 29 - Achrei Mot#^18-23|Leviticus 18:23]] explicitly mentions a woman standing while engaged in forbidden relations.
+
 [^32]: I.e., if a priest's daughter or a priest's wife is involved in such a sexual act, she is forbidden to partake of *terumah* just as if she would be forbidden to do so had she engaged in ordinary relations (see *Hilchot Terumah* 6:6).
+
 [^33]: "Stripes for rebellious conduct" is a punishment which is not dependent on the Torah's binding laws, but rather is left to the court's jurisdiction based on its conception of what is appropriate for the moral standards of the persons involved and the community. Although such an act is not formally considered as sexual relations, chastisement is necessary to prevent such behavior from continuing.
+
 [^34]: The Hebrew term *kimitasek* literally means "as one was going about his business," i.e., he was performing other actions and without any intent, the forbidden act was performed.
+
 [^35]: Since he derived pleasure from the physical act, he is liable even though originally he had no intent (*Yevamot* [[Yevamot 62#62b|62b]]).  
     This refers only to liability for a sin offering for inadvertent transgression. Needless to say, he is not liable for punishment by the court, because in such instances, he must acknowledge a warning (*Maggid Mishneh*).  
     The commentaries question how sexual relations can be performed "as one was going about his business." With regard to the Sabbath prohibitions, we can appreciate the use of such a term. For example, a person intended to cut produce that was not connected to the ground and in the course of doing so also cut produce that was connected to the ground. But with regard to sexual relations, how is it possible to say that a man performed the act without intention? As stated above, "an erection is always a willful act."  
     Based on *Hilchot Shegagot* 2:7, the *Maggid Mishneh* interprets this as referring to an instance in which a person intended to engage in relations with his wife, but accidentally engaged in relations with his sister.
+
 [^36]: The Ra'avad questions the Rambam's statements and the *Maggid Mishneh* states that this clause is a printing error, for there is no sacrifice associated with these transgressions. The *Kessef Mishneh* offers a resolution, explaining that although he is not punished by an earthly court, nor is he obligated to bring a sacrifice, the transgressor is liable to God. He will reckon with the transgression on His scales of judgment. Rav David Arameah states that this teaches that the person has an obligation to confess his sin.
+
 [^37]: *Yevamot* [[Yevamot 55#55b|55b]] derives this concept through the techniques of Biblical exegesis.
+
 [^38]: An animal or a person that is sick or wounded and will die within a year.
+
 [^39]: I.e., the esophagus and the windpipe were cut.
+
 [^40]: I.e., she reaches the date of her third birthday.
+
 [^41]: For a minor is never liable for punishment. Even though she consented to the transgression, she is not subjected to punishment, because she is not considered as responsible for her actions (*Nidah* [[Niddah 44#44b|44b]]). Despite the fact that the woman is not punished, the man receives the punishment mandated by the transgression.
+
 [^42]: For until that age, her signs of virginity will regenerate and hence, relations are not of consequence. Nevertheless, even when the girl is below that age, it is forbidden to enter into such relations (the Rambam's Commentary to the Mishnah, *Sanhedrin* 7:4).
+
 [^43]: In his commentary to the Mishnah (*ibid.* ), the Rambam states that the punishment of *kerait* is not given until the violator is 20 years of age. Until that age, the person is considered immature and hence, not held liable by the heavenly court.
+
 [^44]: For below that age, relations are not of consequence.
+
 [^45]: For sexual relations with a male below the age of nine are not of consequence. Nevertheless, it is forbidden to enter into such relations (the Rambam's Commentary to the Mishnah, *Sanhedrin* 7:4).
+
 [^46]: Although he is not liable according to Scriptural Law, his act certainly warrants punishment that will discourage him from continuing this pattern of conduct.
+
 [^47]: A person with male and female sexual characteristics.
+
 [^48]: For there is a doubt regarding the halachic status of such an individual.
+
 [^49]: A person whose genital area is covered with a mass of flesh and whose gender is impossible to detect. With regard to an *androgynus*, the doubt concerns the individual's halachic status. With regard to the *tumtum*, the doubt concerns the actual facts: Which gender is covered by the mass of flesh?
+
 [^50]: Since there is a possibility that such relations are prohibited, this punishment should be given to discourage them.
+
 [^51]: I.e., although there is a question regarding the status of the *androgynus*, relations between him and her are permitted (*Maggid Mishneh*).
+
 [^52]: Since the animal was the direct cause for the person's death, the animal is also executed. Alternatively, since the person was engaged in an unseemly transgression due to the animal, it is executed (*Sanhedrin* [[Sanhedrin 54#54a|54a]]).
+
 [^53]: And it is forbidden to benefit from that animal (*Hilchot Issurei Mizbeach* 4:2).
+
 [^54]: For a minor is never liable for punishment. *Sanhedrin* [[Sanhedrin 55#55b|55b]] explains that based on the first rationale mentioned previously in note 52, one might think that the animal should not be executed. Nevertheless, the person is worthy of execution because of his deed, it is only that the Torah has pity on him. And the Torah has pity on the person and not on the animal.
+
 [^55]: For she is not of age.
+
 [^56]: For this is not considered relations.
+
 [^57]: The question how such acts can be considered inadvertent has been raised by the commentaries. Among the answers given is that the person was not aware that the act which he performed was forbidden.
+
 [^58]: Since the person is not executed, according to the first of the rationales mentioned above, the animal should not be executed. Since our Sages did not conclude which of the rationales should prevail, the matter is left undecided and therefore the animal is allowed to live.
+
 [^59]: The person sleeping is considered as if he performed the forbidden act under duress.
+
 [^60]: For punishment by the court or at the hand of heaven.
+
 [^61]: Halachah 13.
+
 [^62]: This and the following halachot are based on the principle that a *chazzakah*, a presumption that is firmly established, is binding and considered as actual fact.
+
 [^63]: I.e., as long as it is the popular conception that two individuals are related, we judge accordingly. It is not necessary for the court to bring testimony from the midwife that in fact this-and-this woman bore this-and-this child.
+
 [^64]: The punishment given for relations between a mother and her son.
+
 [^65]: [[Torah 18 - Mishpatim#^21-15|Exodus 21:15]], 17.
+
 [^66]: For we have no way of establishing the fact that his father conceived him.
+
 [^67]: By living together as husband and wife in a way obvious to all.
+
 [^68]: We see the concept of 30 days used to establish a person's identity in another context: After that period of time, his name may be mentioned in a legal document without fear of deception (*Chelkat Mechokek* 19:3; see *Hilchot Malveh ViLoveh* 24:4).  
     Although capital punishment is not enforced in the present age, there are certain aspects of this halachah which are relevant, for there are several halachic contexts in which it is necessary to determine whether or not a woman is married. Today, with the advances in recording keeping and communication, it is customary for the Jewish community - particularly, in *Eretz Yisrael* and in a partial way, in certain places in the Diaspora - to keep records and to be able to verify whether or not a couple are married.
+
 [^69]: The transgressors are given "stripes for rebellious conduct" for certainly there is at least a possibility that the couple who claim to be husband and wife are married (Rabbi Akiva Eiger to Halachah 15).
+
 [^70]: I.e., she wore clothes that she set aside to wear while she is in her *niddah* state. See *Turei Zahav* 185:2 who states that even if the woman later gives an explanation for her conduct, her explanation is not accepted and we consider her status to have changed. The *Siftei Cohen* and others, however, differ. See Chapter 4, Halachah 10.
+
 [^71]: A man is forbidden to have relations with a woman while she is in the *niddah* state. In this instance, although we do not know for certain that she was in the *niddah* state, we act according to the presumption created by her conduct.
+
 [^72]: When a man issues such a warning to his wife and she violates it, he is forbidden to engage in relations with her until she drinks the *sotah* waters (*Hilchot Sotah* 1:2).
+
 [^73]: In which instance, she is not given the *sotah* waters to drink. Instead, her husband is required to divorce her (*ibid.*:14).
+
 [^74]: The term *zonah* is halachicly defined as any woman who engages in relations with a man forbidden to her. The term literally means "a prostitute" or "a promiscuous woman." Here, however, the term is given the specific halachic meaning mentioned above. Whether she willingly or unwillingly engages in such relations, she is placed in this category. A priest is forbidden to engage in relations with such a woman. See Chapter 18, Halachah 12.
+
 [^75]: One might think that it was necessary for the change in the status of the woman to be established through the testimony of two witnesses.
+
 [^76]: I.e., since she violated the warning her husband gave her, we assume that she acted unfaithfully. Hence, the testimony of one witness is sufficient to bring about a change in her status.  
     The Ra'avad differs with the Rambam and maintains that the man is given lashes for violating a different prohibition, the prohibition against relations with a wife who has been unfaithful. The Ra'avad, however, speaks of the woman being raped and maintains that a woman is not placed in the category of a *zonah* when only one person observes her being raped.  
     The *Maggid Mishneh* questions the Ra'avad's statements, noting that the Rambam does not mention rape at all. The *Maggid Mishneh* also states that the Rambam does not require lashes when a man engages in relations with his wife after she was unfaithful. The *Kessef Mishneh* questions that statement, noting that in *Hilchot Gerushin* 11:14, the Rambam specifically rules that a man is given lashes in such a situation. See also the notes to Chapter 18, Halachah 7.
+
 [^77]: We are speaking about a girl who is a *na'arah* between the age of twelve and twelve and a half. Her father has the right to consecrate her to whoever he desires. Therefore we accept his word when he states that he consecrated her, as [[Torah 49 - Ki Teitzei#^22-16|Deuteronomy 22:16]] states: "I gave my daughter to this man" (*Kiddushin* [[Kiddushin 64#64a|64a]]).  
     (A father's word is also accepted with regard to consecrating his daughter is she is younger. We are, nevertheless, compelled to say that here we are speaking about a *na'arah*, because punishment is mentioned and a girl below the age of twelve is never punished by the court.)
+
 [^78]: Or undergo formal divorce proceedings before marrying another man.
+
 [^79]: The punishment given for relations with a consecrated maiden.
+
 [^80]: Although the father's statement is given a certain amount of legal credibility, it is not considered as sufficient basis for capital punishment (*Kiddushin* [[Kiddushin 63#63b|63b]]).

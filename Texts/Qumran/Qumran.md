@@ -185,6 +185,7 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 4Q43|4Q43]] 4QDeuteronomyp
 - [[DSS 4Q44|4Q44]] 4QDeuteronomyq
 - [[DSS 4Q45|4Q45]] 4QpaleoDeuteronomyr
+- [[DSS 4Q46|4Q46]] 4QpaleoDeuteronomys
 - [[DSS 4Q47|4Q47]] 4QJoshuaa
 - [[DSS 4Q48|4Q48]] 4QJoshuab
 - [[DSS 4Q49|4Q49]] 4QJudgesa
@@ -272,6 +273,7 @@ Each numbered line of the translation has its own block: a column as `^<column>-
 - [[DSS 4Q122|4Q122]] 4QSeptuagint Deuteronomy
 - [[DSS 4Q123|4Q123]] 4QParaphrase of Joshua
 - [[DSS 4Q124|4Q124]] 4Qunidentiﬁed paleo-Hebrew text 1
+- [[DSS 4Q125|4Q125]] 4Qunidentiﬁed paleo-Hebrew text 2
 - [[DSS 4Q126|4Q126]] 4Qunidentiﬁed text gr
 - [[DSS 4Q127|4Q127]] 4QParaphrase of Exodus
 - [[DSS 4Q128|4Q128]] 4QPhylactery A

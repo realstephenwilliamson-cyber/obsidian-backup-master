@@ -155,13 +155,23 @@ Therefore the Haftorah, the reading Prophets for this *Parsha*, says ([[Amos 9#^
 **Torah:** [[Torah 30 - Kedoshim#^19-27|Leviticus 19:27]]
 
 [^1]: That is to say, the first thing he is asking for with every matter is that it be will of God, to such an extent that even his personal desires are God’s will.
+
 [^2]: “Affliction” means a personal motive that would sway him from clearly seeing God’s will. See above, *Parshat Chukat*, under “and the children of Israel camped at Ovot,” for more on this.
+
 [^3]: In other words, it took him ten days to make sure that this was what God wanted and not just what he wanted.
+
 [^4]: Here Pinchas is the *Cohen.*
+
 [^5]: It is written in the Tikkunei Zohar, Tikkun 70, “ ‘Come and See! There are those who speak with eye movements, others with hand gestures, others with head movements, others with body movements, and others with leg movements. This is, everywhere his soul is, there that place moves more.’ Rabbi Elazar said, ‘father, is it not known that the soul [*neshama*] resides in the heart [mind], and spreads forth to all the extremities of the heart? He said to him, ‘My son, of this it is written ([[Ruth 3#^3-7|Ruth, 3:7]]), ‘she uncovered her feet, and laid down.’ According to the actions of man, thus the soul goes out of her place, and descends below her place. This is like the *Shechina*, of whom it is written ([[Isaiah 50#^50-1|Yeshayahu, 50:1]]), “for your transgressions your mother was sent away.” Complete *teshuva* returns her to her initial place. At the time that the *neshama* is in the heart she is called the queen. With one’s sins, it descends, until it reaches the feet. This is why certain parts of the body move more than others.’ ”
+
 [^6]: The section of the Gemara, *Sanhedrin* [[Sanhedrin 99#99a|99a]], that interprets the verse in Yeshayahu deals with the question of when the Messiah will come; see there for a clearer understanding.
+
 [^7]: This is hinted at in the name of the vowel, *kamats*, which is related to the word for restricting, delineating, like the *komets* offering, a hand measurement of grain. Also, in the kabbalistic understanding of the vowel, *kamats* represents the Crown, *Keter*, which is wholly connected to what is above, *Malchut*, of the upper level. In a sense, separated from and encircling the body of its own arrangement of *sefirot* as a crown is on top of the head.
+
 [^8]: See note 61, *Sefer Shemot* for more on *tekifut.*
+
 [^9]: Rabbi Yitzchak also said: Why were the reasons for Torah laws kept hidden?—Because in two verses reasons were revealed, and they caused Shlomo haMelech the greatest sage in the world, to stumble. Thus it is written, “He shall not multiply wives for himself.” To which Shlomo haMelech replied, “I will multiply wives yet let my heart not be perverted.” However, we read, “When Shlomo haMelech was old, his wives turned his heart away.” It is further written, “He shall not multiply to horses for himself”; concerning which Shlomo said, “I will multiply them, but will not let Israel return to Egypt.” However we read, “And a chariot came up and went out of Egypt for six hundred shekels of silver.”
+
 [^10]: This also shows how *peyot* teach of the essential connection between the intellectual and the heart, or kindness.
+
 [^11]: R. Hirsch understands *nechila* as related to *nahala*, or inheritance, meaning, crying out for what God gives us based on our actions. The Meiri relates it to the sound of the crying itself, for the word *nechila* is related to the word for the drone of a swarm of bees.

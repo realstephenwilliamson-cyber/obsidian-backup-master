@@ -93,51 +93,97 @@ If one had a [disqualifying] intent regarding offering half an olive-sized porti
 Whether one had the intent to cast all [of an animal's] blood outside [the Temple Courtyard] or on the following day or had the intent to cast [only] a portion of its blood outside [the Temple Courtyard] or on the following day, since he had a [disqualifying] intent concerning the amount of blood sufficient to present on the altar,[^47] [the sacrifice] is disqualified. ^14-10
 
 [^1]: Note the parallel in *Hilchot Shechitah* 2:22.
+
 [^2]: *Vayikra Rabbah* 22:7 states that even if the owner "sits and thinks [unacceptable intents] the entire day," the sacrifice is not disqualified.
+
 [^3]: The Rambam proceeds to define each of these concepts.
+
 [^4]: For these undesirable intents disqualify a sacrifice only when they alone are the factors that disqualify it and not when it is disqualified for other reasons [the Rambam's Commentary to the Mishnah (*Zevachim* 3:1)].
+
 [^5]: For it is disqualified and must be disposed.
+
 [^6]: He should then bring it to the altar and cast it upon it. The sacrifice is then acceptable. As stated in Chapter 1, Halachot 27-28, the rationale is that "individuals who are unacceptable for Temple service do not cause the remainder of the blood to be considered as remnants." Hence it is as if the blood of the sacrifice had never been taken.
+
 [^7]: Chapter 1, Halachah 1.
+
 [^8]: E.g., a burnt-offering is offered with the intent that it is a peace-offering.
+
 [^9]: Chapter 15, Halachah 1.
+
 [^10]: The *Kessef Mishneh* explains that the Rambam is implying that since the sacrifice is acceptable in these instances, even though in other instances, such a change in intent would disqualify it, a person who is not fit for Temple service is considered just like one who is. His intent is significant and could disqualify the sacrifice. The *Kessef Mishneh*, however, questions on what the Rambam bases this principle.
+
 [^11]: I.e., with the intent that it be offered as another type of meal-offering.
+
 [^12]: I.e., all of the other meal-offerings were brought from wheat and thus the barley used for the *omer* offering is unfit to be used for other meal-offerings. Hence even if one had the intent to offer it as another type of offering, that intent is of no consequence. (The meal-offering of a *sotah* is also brought from barley, but there are fundamental differences between it and the *omer* offering.)  
     The Rambam's understanding is based on his understanding of *Menachot* [[Menachot 5#5b|5b]] which states that the *omer* offering is a *chidush*, something new and different than other meal-offerings, for it is from barley, as explained. The Ra'avad follows a different version of the text which states that the *omer* offering is different, because it is brought from *chadash*, wheat from the new harvest.  
     There is an advantage to the Ra'avad's understanding, because - as he explains - according to the Rambam, the same rationale could seemingly be used with regard to the *sotah* offering mentioned in the second clause of the halachah. There would be no necessity to mention frankincense. The *Kessef Mishneh* favors the Rambam's version and explains that by mentioning frankincense, our Sages (and the Rambam) chose one of two possible answers. They could also have stated that it is unfit to be used for other offerings.
+
 [^13]: The term used by [[Torah 35 - Nasso#^5-15|Numbers 5:15]],18 to describe the meal-offering brought by a woman suspected of adultery.
+
 [^14]: It is forbidden to place frankincense on this offering ([[Torah 35 - Nasso#^5-15|Numbers 5:15]] . Thus before the offering is brought, the frankincense must be removed and until it is removed, the offering is not fit. Hence, whatever intent the person has concerning the offering at that time is of no consequence.
+
 [^15]: And it may be offered when the altar is repaired.
+
 [^16]: This applies even if he had this intent while performing service in the Temple Courtyard. Since the altar is not fit for sacrifices to be offered upon it, the place is not considered as fit for service.
+
 [^17]: Because the act was performed outside the Temple Courtyard, a place where sacrificial service may not be performed.
+
 [^18]: The definitions given in this and the following two halachot are necessary to understand the laws stated in Halachot 8-10 (*Kessef Mishneh*).
+
 [^19]: The commentaries have noted that the Rambam's wording is not exact, for although the blood is presented on the altar, it is not "offered on the altar's pyre."
+
 [^20]: The fats and organs offered on the altar (see *Hilchot Ma'aseh HaKorbanot* 1:18).
+
 [^21]: I.e., what remains after the handful is removed.
+
 [^22]: See *Hilchot Ma'aseh HaKorbanot* 7:2-5 which describes the burning of these sacrifices.
+
 [^23]: In his Commentary to the Mishnah (*Zevachim* 3:4), the Rambam explains that this is a general term referring to blood vessels, nerves, and sinews.
+
 [^24]: In his Commentary to the Mishnah (*Taharot* 1:2), the Rambam explains that this term refers to the growth that remains after the large feathers are removed. [The Mishnah there uses the term *mourah*. The spelling of that term is important, for some spell it in the same way as a term the Rambam translates as referring to one of a fowl's stomachs.]
+
 [^25]: In the above source, the Rambam explains that when the feathers are removed from these places, they remain dry projections that are unfit for consumption unless the fowl is very fat.
+
 [^26]: Similarly, they are not considered as meat with regard to the prohibitions against partaking of forbidden foods and the laws of ritual purity. See *Hilchot Ma'achalot Assurot* 4:18, 9:7; *Hilchot Sha'ar Avot HaTumah* 1:7.
+
 [^27]: See Halachah 2 above.
+
 [^28]: I.e., a disqualifying intent because of the place.
+
 [^29]: I.e., a disqualifying intent because of the time.
+
 [^30]: Because the substances mentioned are not usually eaten.
+
 [^31]: For these entities are neither fit to be eaten, nor fit to be offered on the altar's pyre.
+
 [^32]: See *Hilchot Ma'aseh HaKorbanot* 7:2-5 which describes the burning of these sacrifices.
+
 [^33]: Because these sacrifices are not fit to be eaten. With regard to a disqualifying intent while burning these sacrifices, see Chapter 13, Halachah 8.
+
 [^34]: While performing one of the four services mentioned previously.
+
 [^35]: The *Kessef Mishneh* notes that, as stated in the following halachah, our Sages considered an animal's consumption as "eating." Hence consumption by such individuals will certainly fall into that category.
+
 [^36]: In Chapter 13, Halachah 1. The fact that the person who was intended to partake of the sacrifice or offer it was impure or disqualified is not significant.
+
 [^37]: See Chapter 13 which explains that the concept of *piggul* applies only when the disqualifying intent applies to time alone.
+
 [^38]: An olive-sized portion is 27 cc according to *Shiurei Torah*. Both the mitzvot and the prohibitions involving eating center on partaking of an olive-sized portion of food. See *Hilchot Sh'vuot* 4:1; *Hilchot Terumot* 10:2, *et al.* This measure is also of consequence with regard to offering substances on the altar as stated in Chapter 11, Halachah 15.
+
 [^39]: Because his forbidden intent is of no consequence.
+
 [^40]: *Zevachim* [[Zevachim 31#31b|31b]] refers to [[II Kings 09#^9-10|II Kings 9:10]] as support for the concept that consumption by animals can be termed *achilah*.
+
 [^41]: I.e., an equivalent of three egg-sized portions. Generally, if a person stretches out his consumption of an olive-sized portion beyond this time span, it is not considered as "eating," for he will not have ingested a significant amount at once. The Rabbis mention different opinions with regard to this time span, referred to as *k'dai achilat pras*, some as brief as 2 minutes and some as long as 9 minutes. Based on Shiurei Torah, the suggested practice is to consider *k'dai achilat pras* as 4 minutes with regard to eating matzah on Pesach, but 9 minutes with regard to eating on Yom Kippur.
+
 [^42]: For here the emphasis is not on the person's activity of eating, but on the sacrifice being eaten (*Kin'at Eliyahu*).
+
 [^43]: The *Kessef Mishneh* suggests amending the text to read "half an olive-sized portion" and in that way fit the context of the entire halachah. The notes to the Frankel edition of the *Mishneh Torah*, however, indicate that all of the authoritative manuscripts and early printings of the *Mishneh Torah* speak of an olive-sized portion.
+
 [^44]: An olive-sized portion is 27 cc according to *Shiurei Torah*. Both the mitzvot and the prohibitions involving eating center on partaking of an olive-sized portion of food. See *Hilchot Sh'vuot* 4:1; *Hilchot Terumot* 10:2, *et al.* This measure is also of consequence with regard to offering substances on the altar as stated in Chapter 11, Halachah 15.
+
 [^45]: See Halachah 2 above.
+
 [^46]: The *Mishneh LiMelech* notes that in Chapter 11, Halachah 8, the Rambam writes that two grains of frankincense are sufficient for a meal-offering to be considered acceptable. Seemingly, then, that amount should also be enough to disqualify such an offering.
+
 [^47]: I.e.,. a very small amount.

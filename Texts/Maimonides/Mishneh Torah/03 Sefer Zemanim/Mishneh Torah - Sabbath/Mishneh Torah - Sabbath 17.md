@@ -258,65 +258,110 @@ There are times when we measure a cubit as six handbreadths pressed one to the o
 For example, the length of a lane [is required to be a minimum of] four cubits. These are measured in amply spaced cubits. The height [of a lane may not exceed] twenty cubits. These are measured in constricted cubits. Similarly, the length of an opening [may not exceed] ten cubits. These are measured in constricted cubits. Similar principles apply regarding the laws of a sukkah and the prohibition of growing mixed species. ^17-36
 
 [^1]: In Talmudic times, it was not customary that homes open to streets, as is the practice today. Instead, several homes would open up to a single courtyard. These courtyards would open up to paths or lanes that led to the public marketplaces and the thoroughfares of the towns. Sometimes, these paths or lanes would end in a *cul-de- sac,* and on other occasions they would lead from one thoroughfare to another.
+
 [^2]: This refers to a lane leading from one marketplace or thoroughfare to another. Needless to say, the lane must be less than sixteen cubits wide. If it is sixteen cubits wide, it would be deemed as a public domain according to the Rambam, as mentioned in Chapter 14, Halachah 1.
+
 [^3]: This question applies within a city that is not surrounded by an *eruv*. As the Rambam explains in his Commentary on the Mishnah (*Eruvin* 1:2), a lane with three walls is considered to be a *carmelit*. Thus according to the Torah itself, such an area is regarded as a *makom patur,* and one is permitted to carry within it. The Rabbis nevertheless forbade carrying within such an area, unless a person constructed either of the following structures: a *lechi* - a pole constructed at one of the corners of the fourth side - or a *korah* - a beam constructed across the entrance. (See also the gloss of the *Maggid Mishneh*.)
+
 [^4]: The dimensions required for a pole and a beam are mentioned in Halachot 12 and 13. When a pole is constructed at the corner of the fourth side of the lane, the lane is considered to be enclosed and thus is viewed as a private domain. (See Halachah 9 of this chapter and Chapter 14, Halachah 1.)
+
 [^5]: As explained in Halachah 9, extending a beam over the lane is a Rabbinic measure that makes a distinction between such a lane and a lane that is not enclosed at all. Because of this distinction, the Rabbinic prohibition against carrying in such a lane is lifted.
+
 [^6]: This refers merely to the process of enclosing the area in question. In addition, as mentioned in *Hilchot Eruvin* 1:1-2, it is necessary for the people who share the lane to join together in an *eruv*, each contributing a certain measure of food.
+
 [^7]: The Rambam's definition of a lane follows the conception of Rabbenu Chanan'el in his commentary on *Eruvin* [[Eruvin 12#12a|12a]]. Most other *Rishonim* [including Rashi (*Eruvin, loc. cit.*), *Tosafot*, the Rashba, and the Ra'avad] differ, and maintain that as long as a lane has three walls (or two walls and a pole on the third side), it is considered a private domain according to the Torah. (See *Be'ur Halachah* 363:1.)  
     The difference between the Rambam's view and that of these other authorities does not concern the license to carry, for all agree that it is forbidden to carry within the lane until a pole or a beam is constructed at the fourth side. Instead, the difference involves transferring an article into such a lane with three walls from the public domain. According to the Rambam, one is not liable from such a transfer, while according to the other authorities, one is.
+
 [^8]: As mentioned above, according to the Rambam, one may carry in this lane, because any enclosure with three walls or less is deemed as a *carmelit*. According to the Torah, there is no restriction against carrying in such a domain.
+
 [^9]: This ruling follows that of Rabbenu Yitzchak Alfasi in his *Halachot*. Nevertheless, there are many authorities who differ and maintain that this ruling applies only when the lane opens to a *carmelit* on at least one side. If it opens up to a public domain on both sides, it is not sufficient to erect a frame of an entrance, and a proper gate must be erected (*Maggid Mishneh*). The Rambam's ruling is accepted by the *Shulchan Aruch* (*Orach Chayim* 364:1).
+
 [^10]: Our translation is based on the gloss and drawings of the *Maggid Mishneh*.
+
 [^11]: The Rambam rules that all that is necessary is a frame of an entrance at one opening of the lane, and a pole or a beam at the other end. Nothing is necessary at the bend of the lane. This follows the opinion of Rav (*Eruvin* [[Eruvin 6#6a|6a]], 8b).  
     Rashi and Rabbenu Asher, however, interpret Rav's ruling differently and require that a frame of an entrance be constructed at the lane's bend, and a pole or a beam be constructed at both the lane's openings. They explain that this is necessary because, unless the frame of an entrance is constructed at the bend, a person who does not walk through the entire lane will not be aware of the pole or the beam at the other entrance to the lane. This is the view accepted by the *Shulchan Aruch* (*loc. cit.*:3).
+
 [^12]: Based on *Shabbat* [[Shabbat 100#100a|100a]] and the *Tosefta, Shabbat* 11:4, the Ra'avad and the Rashba define this as referring to an incline of ten handbreadths within four cubits. If the incline is gentler than that, this leniency does not apply. The *Shulchan Aruch* (*Orach Chayim* 363:36) accepts this definition.
+
 [^13]: According to the Torah, one is allowed to carry within the lane, and the prohibition is merely Rabbinic in origin. Thus, since the steep incline makes the lane distinct from the public domain (and distinct from other lanes), there is no need for any further measures to permit carrying.  
     From the wording chosen by the Rambam, however, it appears that he does not consider the incline as a wall enclosing the lane (see the Ramah, *Orach Chayim, loc. cit.*), but rather as a distinguishing factor similar to a beam. Accordingly, a person who transfers an article into this lane from the public domain would not be held liable.
+
 [^14]: This refers to a lane that has walls on either side. Thus, it is considered as if the lane had barriers on all four sides. For the garbage dump can be assumed to be ten handbreadths high and four handbreadths wide. Thus, it is considered to be an added wall, and the sea itself can be assumed to be ten handbreadths deep. Therefore, it is also considered to be a wall (*Mishnah Berurah* 363:118).
+
 [^15]: This law does not apply regarding a private garbage dump, because the possibility exists that such a dump will be removed at any time.
+
 [^16]: Our translation follows the commentary of Rabbenu Chanan'el and Rashi on *Eruvin* [[Eruvin 8#8a|8a]]. Although both these authorities agree on the definition of the word שרטון, they quote different versions of that Talmudic passage. Rabbenu Chanan'el follows the version quoted here by the Rambam, which states that "we do not suspect that the sea will wash up a שרטון." The version of the passage quoted by Rashi (and printed in our texts of the Talmud today) states, "we suspect that the sea will wash up a שרטון."  
     Significantly, this difference in approach to this passage has been preserved. The *Shulchan Aruch* (*Orach Chayim* 363:29) follows the ruling of the Rambam, while subsequent Ashkenazic authorities and the Ramah follow that of Rashi which forbids carrying in such a lane. According to this view, it is impossible to enclose it with an *eruv*.
+
 [^17]: See the definition of the term רחבה in Chapter 16, Halachah 10.
+
 [^18]: Were the lane to end directly opposite the entrance from the yard to the public domain, a more stringent ruling would be applied and it would be necessary to construct a frame of an entrance. See Halachot 3 and 18.
+
 [^19]: The *Maggid Mishneh* explains that were the lane to end at the side of the yard, it would resemble an L-shaped lane. Hence, the laws mentioned in Halachah 3 would apply. When, however, the lane does not end at the side of the yard, it has no resemblance to an L-shaped lane. Therefore, the entrance to the yard is itself considered a distinguishing factor. (Note, however, Rabbenu Asher and the *Shulchan Aruch, Orach Chayim* 365:3, which require that the people whose homes open up to the lane and the yard join together in an *eruv*.)  
     Significantly, according to the *Maggid Mishneh*, the word "forbidden" used by the Rambam, appears to mean "requires an *eruv*." This would concur with the Ra'avad's interpretation of *Eruvin* [[Eruvin 7#7b|7b]] which states that if the people whose homes open to the yard join in an *eruv* together with the people whose homes open to the lane, it is permitted to carry in the lane even if it ends in the side of the yard.  
     Note, however, the *Shulchan Aruch* (*loc. cit.*) which mentions that an *eruv* can never be effective for such a lane. See the explanation of this ruling in the *Mishnah Berurah* 365:23.
+
 [^20]: The fundamental principle behind these conditions is that an enclosure that is used by a private person will afford greater privacy than an enclosure used by many people. Therefore, it is necessary that the enclosure be more substantial (the Rashba as quoted by the *Kessef Mishneh*).
+
 [^21]: When only a single house or courtyard opens to a lane, it bears a far closer resemblance to private property.
+
 [^22]: If a lane is not more than four cubits or if it is square shaped, it appears like a courtyard.
+
 [^23]: I.e., the distance from one entrance to the other.
+
 [^24]: The distance between the two walls on either side.
+
 [^25]: A barrier of this length is considered to be a wall, and thus a portion of this side of the lane is also considered to be enclosed.
+
 [^26]: Although the requirement to construct two poles or a barrier is more stringent than the norm for a lane, it still represents a leniency. There is no need to construct the frame of an entrance as in a courtyard.  
     The Rambam's ruling (with several additions) is quoted by the *Shulchan Aruch* (*Orach Chayim* 363:26). In his gloss, the Ramah adds that it has become customary to enclose all lanes with the frame of an entrance - i.e., two poles, and a cord above them.
+
 [^27]: The length of a courtyard refers to the space from its entrance to the opposite wall (*Maggid Mishneh*). Although there are other interpretations, this is the definition accepted as halachah (*Mishnah Berurah* 363:116).
+
 [^28]: Our translation is based on the second interpretation of the Rambam's words offered by the *Maggid Mishneh*, which is supported by the Rambam's statements in *Hilchot Eruvin* 5:15. From that source, it appears that the Rambam conceives of a lane as having several courtyards and several houses open up to it. If, however, there is only one house opening up to it, although it contains several courtyards, or one courtyard although it contains several houses, it is not sufficient.  
     Rashi (*Eruvin* [[Eruvin 12#12b|12b]]), however, offers a different interpretation, explaining that to be considered a lane, an enclosure must have two courtyards open up to it, and each of the courtyards must have two houses open up to it. This view is accepted by the Rashba and by the *Shulchan Aruch* (*Orach Chayim* 363:26).
+
 [^29]: Note the *Shulchan Aruch* (*loc. cit.*), which states that when a lane is less than four cubits long, the frame of an entrance is required to enclose it. Significantly, however, *Shulchan Aruch HaRav* 363:27 quotes the Rambam's ruling and not that of the *Shulchan Aruch*. (See also *Mishnah Berurah* 363:93.)
+
 [^30]: In the standard published text of the *Mishneh Torah*, the word, ומשהו (lit. "and something") is added in parentheses. Rav David Arameah and the *Shulchan Aruch* (*loc. cit.*) interpret this to mean that the four handbreadths must be "ample." *B'nei Binyamin* explains that there is a printing error and the word משהו refers to the poles as in the previous halachah. Rav Kapach maintains that the word is a printer's addition and does not exist in the authoritative manuscripts of the *Mishneh Torah*.
+
 [^31]: The *Kessef Mishneh* (and his view is quoted by the *Magen Avraham* 363:29) explains that even if the majority of the lane is wider than three handbreadths, since its entrance is less than three handbreadths it is considered to be closed, and no further measures are necessary.
+
 [^32]: I.e., based on the principle of *l'vud,* the lane is considered to be a closed space and not open (*Kessef Mishneh*). Although there are more lenient opinions, the *Shulchan Aruch* (*Orach Chayim* 363:28) accepts the Rambam's ruling.
+
 [^33]: As mentioned in the notes on the first halachah of this chapter, the Rambam differs with many of the other *Rishonim* and maintains that, according to Torah law, an area enclosed by three partitions is a *makom patur* and not a private domain. Therefore, a person who transfers an article to it from the public domain or vice versa is not liable.  
     As mentioned in several places throughout the first chapter of the tractate of *Eruvin*, there is a difference of opinion among the Sages regarding why one is permitted to carry within a lane when a beam is erected over its fourth side. The opinion quoted by the Rambam maintains that although the Sages forbade carrying in such a domain, their prohibition is lifted because the beam serves as a distinction, setting this lane apart, physically and conceptually, from the public domain.  
     The other opinion maintains that the beam is considered to be a wall (i.e., it is considered as if there were a wall descending from the beam downward enclosing the lane). Hence, the lane is considered to be enclosed on all four sides and therefore, as a private domain.
+
 [^34]: In the first chapter of the tractate of *Eruvin*, our Sages also differ regarding why permission is granted to carry in a lane when a pole is erected at its fourth side. According to the opinion quoted by the Rambam, it is considered as if a wall emerges from the pole, and thus the lane is considered to be enclosed by a wall on all of its sides.  
     There is, however, another opinion, which states that the pole is erected merely to create a distinction and it is not considered to be a wall.
+
 [^35]: Some of the authorities who maintain that an enclosure with three walls is considered to be a private domain according to Torah law, permit carrying within a public domain if gates are erected on one side and a frame of an entrance, pole, or beam is erected on the other. (See the *Mishnah Berurah* 364:6.)
+
 [^36]: The definition of a public domain is taken from the encampment of the Jewish people in the desert, and there the public domain did not have gates (*Mishnah Berurah* 364:7). The gates enclose the domain on all four sides. Hence, even though many people walk through it, it is still considered as "private."
+
 [^37]: Based on *Eruvin* [[Eruvin 6#6a|6a]]-b, many *Rishonim* differ with the Rambam on this point and maintain that not only must the gates be fit to be closed at night, they must actually be closed, in order for carrying to be permitted in a public domain. Gates that can be closed, but are not actually closed, are effective only in an open lane. Although the *Shulchan Aruch* (*Orach Chayim* 364:2) mentions the Rambam's view, the more stringent opinion is favored.  
     It must be emphasized that from Chapter 14, Halachah 1, and *Hilchot Eruvin* 1:1, it appears that the Rambam also requires doors that are actually closed. Several explanations are offered by the commentaries in resolution of this difficulty.
+
 [^38]: Note *Shulchan Aruch HaRav* 364:4, which states that a frame of an entrance is considered to be a wall. Therefore, if one erected poles on each corner of a square and connected them with a string above, one creates a private domain. Nevertheless, the Rabbis forbade carrying within an area fit to be considered a public domain unless it has a proper gate at its entrance. The Rambam, however, could not accept this ruling, because as stated in Chapter 16, Halachah 16, if the open portions of a barrier exceed the enclosed portions, it is not acceptable.
+
 [^39]: Herein lies one of the points of controversy regarding the *eruvim* that are constructed around communities today. For few modern cities or villages are enclosed by actual walls with gates, and in practice, most of these *eruvim* employ a frame of an entrance, using telephone wires and the like.  
     As mentioned in Chapter 14, Halachah 1, and its notes, the Rambam does not subscribe to the opinion that a public domain must contain 600,000 people passing through it. Although the later Ashkenazic authorities accept this more lenient view, they also suggest that those who are careful in their observance accept the Rambam's ruling.  
     Whether this principle is to be applied with regard to great metropolises like Manhattan, Brooklyn, London, and the like which have more than 600,000 passersby or with regard to smaller communities which are considered a public domain only according to the more stringent view, the public domain must be enclosed by proper walls. The use of a frame of an entrance employing telephone or electric wires and the like is not sufficient.
+
 [^40]: Although the inner portion of the beam or the pole is of most importance, it is, nevertheless, permitted to carry under the beam or opposite the pole, because that area is considered to be a *makom patur* (*Shulchan Aruch HaRav* 365:6).
+
 [^41]: The Rambam's ruling is based on Rabbenu Chanan'el's interpretation of *Eruvin* [[Eruvin 8#8b|8b]],9a. The Ra'avad and most Ashkenazic authorities (among them *Tosafot* and Rabbenu Asher) interpret that passage differently and maintain that we are permitted to carry beneath a beam when it opens up to a *carmelit*.  
     The *Shulchan Aruch* (*Orach Chayim* 365:4) follows the Rambam's ruling. The *Mishnah Berurah* 365:27, however, mentions the more lenient views. Furthermore, many authorities (e.g., *Maggid Mishnah*, *Shulchan Aruch HaRav* 365:6) agree that if a beam is four handbreadths wide and is strong enough to support a roof, it is permitted to carry beneath it. In that instance, the outer end of the beam is considered to descend and serve as a fourth wall.
+
 [^42]: In that instance, the area between the poles is considered to be a distinct entity, with walls on either side.
+
 [^43]: Generally, one is allowed to carry within a *makom patur*. Nevertheless, our Sages forbade carrying in a *carmelit*, a *makom patur* which resembles a public domain. In the situation at hand, since one *makom patur* (the *carmelit*) is adjacent to another *makom patur* (the area opposite the pole or beneath the beam), the two are combined and form a single entity. Therefore, carrying is forbidden, not only in the *carmelit*, but also between the poles.
+
 [^44]: The *Maggid Mishneh* states that an animal used as a pole must be bound and may not be free to move. This concept can be derived from Chapter 16, Halachah 21, which states that an animal used for a partition may be bound. As mentioned in Halachah 9, a pole is considered to be a partition.
+
 [^45]: See *Hilchot Avodat Kochavim* 7:10-15 and 8:3 with regard to the different laws pertaining to an *asherah*, a tree that is worshiped.
+
 [^46]: The leniency mentioned represents a novel concept, for seemingly it applies even when the pole is associated with the idol worship of a Jew. (A pole worshiped by gentiles can be used if the gentiles nullfiy its connection with idol worship before it comes into the possession of a Jew. If, however, it is owned by a Jew, the connection with idol worship can never be nullified.)  
     Generally, since we are obligated to destroy objects that are associated with idol worship, from a halachic perspective, they are considered as if they have already been burnt to ashes. For example, *Hilchot Shofar* 1:3 states that it is forbidden to use a shofar belonging to an עיר הנדחת ("an apostate city") and *Hilchot Lulav* 8:1 states that a palm branch used for idol worship is unacceptable for use as a lulav. Since both a shofar and lulav have a minimum requirement for their length, an object that must be destroyed because of its connection with idol worship is unacceptable.  
     In the case at hand, however, since there is no minimum requirement for the width or breadth of a pole, there is no difficulty in using a tree that has been worshiped.  
@@ -324,130 +369,233 @@ For example, the length of a lane [is required to be a minimum of] four cubits. 
     (The Ra'avad, therefore, differs with the Rambam and maintains that a pole, like a beam, is merely a distinction. Therefore, no minimum height is required.)  
     Many of the other *Rishonim* differ with the Ra'avad and accept the Rambam's decision. The *Maggid Mishneh* differentiates between a shofar and a lulav - which must have three coordinates: width, breadth, and height - and a beam, which requires only one: height. The fundamental point of his explanation is that although such a beam is considered to lack dimensions, it exists and in this instance all that is necessary is its existence. See the notes of Rav Chayim Soloveichik to this halachah.  
     *Tosafot* (*Eruvin* [[Eruvin 80#80b|80b]]) offers a different explanation, stating that even if the tree was burned, one could stick its ashes together and obtain a pole ten handbreadths high.
+
 [^47]: In his Commentary on the Mishnah (*Eruvin* 1:6), the Rambam explains that this height is required for a pole, because the minimum height of a lane is ten handbreadths. Thus, the pole would extend for the entire height of the lane. Even if the lane is higher, the pole is not required to be more than ten handbreadths high.
+
 [^48]: Based on *Hilchot Avodat Kochavim* 8:9, it can be inferred that this refers to a tree that was worshiped by a Jew or a tree that was worshiped by a gentile, but which was cut down before the gentile nullified its connection with idol worship.
+
 [^49]: Even though the beam must be sturdy enough to support a brick that is one and a half handbreadths wide, it is possible for there to be a portion of the brick extending on either side of the beam (*Eruvin* [[Eruvin 14#14a|14a]], *Kessef Mishneh*).
+
 [^50]: When a beam is built in such a sturdy fashion, it is obviously placed there as a permanent part of the lane, and thus will serve as a distinction for the people inside of it.
+
 [^51]: Based on the Jerusalem Talmud, the *Maggid Mishneh* states that it is not enough for the beam to support a single brick. It must be sturdy enough to support an entire row of bricks of this size. Although the *Shulchan Aruch* (*Orach Chayim* 363:17) quotes the Rambam's wording, the later authorities (*Shulchan Aruch HaRav* 363:19, *Mishnah Berurah* 363:59) quote the *Maggid Mishneh's* view.  
     Significantly, the *Shulchan Aruch* (*loc. cit.*:18) also quotes the opinion of Rabbenu Asher that if the beam is more than four handbreadths wide, it does not have to be sturdy enough to hold a brick.
+
 [^52]: Literally "half of three handbreadths by three handbreadths."
+
 [^53]: I.e., the supports that are attached to the walls on which the beam is placed.
+
 [^54]: Rabbenu Asher differs and maintains that the supports need not be that sturdy. The *Shulchan Aruch* (*loc. cit.*:18) quotes both opinions without coming to a final decision. Similarly, there is a difference of opinion among the later authorities concerning this issue.
+
 [^55]: If the walls of the lane are not ten handbreadths high, they are not significant and it is considered as if the lane lacks enclosures on either side.
+
 [^56]: The *Maggid Mishneh* states that this restriction applies only when a beam is being used, for the passersby will not notice a beam that is more than twenty cubits high. If, however, a pole is used, there is no limitation on the height of the lane. This interpretation is also quoted by the *Shulchan Aruch* (*Orach Chayim* 363:26).
+
 [^57]: As mentioned in Chapter 16, Halachah 16, an opening that is larger than ten cubits is too large to be considered to be an entrance.
+
 [^58]: I.e., the entrance to the lane is an open space without a doorway or gate.
+
 [^59]: The Ra'avad and others object to this ruling, stating that if the walls of a lane are not ten handbreadths high, the fact that the opening is constructed in the form of a frame of an entrance is of no significance. Since the walls of the lane are not high enough to be considered significant entities, of what value is the fact that the opening is constructed in the form of a frame of an entrance?  
     The *Meiri* explains that since the frame of the entrance is at least ten handbreadths high, the fact that the walls of the lane themselves are lower is insignificant. The *Shulchan Aruch* (*loc. cit.*) quotes the Rambam's opinion. Note the explanation of *Shulchan Aruch HaRav* 363:27, which explains that this applies in a situation when the walls of the lane are not ten handbreadths high. Nevertheless, the lane is considered a private domain because of the walls of houses and courtyards that adjoin it.  
     See also the *Mishnah Berurah* 363:93, which mentions that many later authorities accept the Ra'avad's objection and allow people to carry in such a lane only when the walls are ten handbreadths high. These authorities, however, explain that if the walls of the lane are ten handbreadths throughout the lane, with the exception of its opening, the construction of a frame of an entrance at the opening makes it permissible for people to carry within.
+
 [^60]: When the frame of an entrance is constructed, there is no need for a post or a beam. For the construction of a frame of an entrance causes an entrance to be considered as if it were enclosed, as stated in Chapter 16, Halachah 16.
+
 [^61]: From the Rambam's Commentary on the Mishnah (*Eruvin* 1:1), it is clear that he is speaking about designs and ornaments on the beam itself. The Ramah (*Orach Chayim* 363:26, based on Rabbenu Asher's interpretation of *Eruvin* [[Eruvin 3#3a|3a]]), states that it is sufficient for there to be designs on the wall next to the beam. For when people look at the designs, their attention will also be drawn to the beam.
+
 [^62]: Note the *Kessef Mishneh's* statements that permission is not granted to carry in a lane that is more than ten handbreadths wide, despite the fact that the beam placed above it has designs.
+
 [^63]: The principle that objects above 20 cubits high will not be noticed easily by the human eye is also applied with reference to a sukkah (the *s'chach* may not be more than 20 cubits high) and with regard to a Chanukah candelabra (which may not be placed 20 cubits above the ground).
+
 [^64]: We have translated the Rambam's words in the most simple fashion, following Rav Kapach's interpretation. The *Maggid Mishneh* (based on *Eruvin* [[Eruvin 4#4b|4b]]) offers a much more complicated interpretation, explaining that if originally a beam was erected more than 20 cubits above the ground and then a second beam was erected above the floor to reduce its height, there may not be more than 20 cubits between the first beam and the second. This approach is also followed by the *Shulchan Aruch* (*Orach Chayim* 363:26).
+
 [^65]: Rashi (*Eruvin* [[Eruvin 5#5a|5a]]) explains that a smaller area is not sufficient. A lane is not considered significant unless it is more than four cubits by four cubits, as explained in Halachah 7. Thus, there must be a portion of the lane with walls that are ten handbreadths high, with at least this area.
+
 [^66]: Leading to a public domain or a *carmelit* (*Shulchan Aruch HaRav* 365:1).
+
 [^67]: I.e., the opening is made in the side wall of the lane. Nevertheless, it is very close to the opening of the lane where the pole or the beam erected to permit carrying was placed.
+
 [^68]: Although generally the walls of a lane must be four cubits long, as mentioned in Halachah 7, leniency is allowed in this instance, since the lane existed previously (*Shulchan Aruch HaRav, loc. cit.*; *Mishnah Berurah* 365:2).
+
 [^69]: As mentioned in Chapter 16, Halachah 16, an opening that is larger than ten cubits causes the entire side to be considered to be unenclosed, unless a frame of an entrance is constructed above it.
+
 [^70]: Although the opening is not too large to nullify the enclosure, since the people will be going in and out through the new opening, they will not notice the beam or the pole erected at the original entrance (*Shulchan Aruch HaRav, loc. cit.*).
+
 [^71]: When the walls of the lane open to the courtyard and there is an opening to the public domain on the opposite side, it appears as if the lane leads directly into the public domain. If, however, there are projections remaining at the side of the entrance from the lane to the courtyard, they are considered to be equivalent to a pole, and it is permitted to carry within the lane. (See *Mishnah Berurah* 365:12- 13.)
+
 [^72]: See the *Shulchan Aruch* (*Orach Chayim* 365:3), which states that the question of whether the opening to the public domain must be directly opposite the opening to the lane for the restriction to apply depends on whether or not an *eruv* has been made between the inhabitants of the lane and the inhabitants of the courtyard. See the notes to Halachah 1.
+
 [^73]: This clarifies the definition of "private domain" given at the beginning of Chapter 14 - i.e., private property belonging to a single individual, a group, or a collective.
+
 [^74]: *Eruvin* [[Eruvin 8#8b|8b]] describes this situation as "a lane structured like a centipede" - i.e., that has different paths leading into it like the legs of a centipede. The *Maggid Mishneh* depicts this as follows.  
     There is, however, some difficulty with his interpretation, because the Rambam specifically states, "Although the openings are not opposite one another." Accordingly, Rav Kapach has drawn the following diagram.  
     The *Shulchan Aruch* (*Orach Chayim* 364:5) mentions both possibilities, stating that they are both governed by the same laws. As will be mentioned, its rulings are based on a different perspective than that of the Rambam.
+
 [^75]: See Halachah 3 with regard to an L-shaped lane.
+
 [^76]: The *Maggid Mishneh* interprets the Rambam's words as requiring the frame of an entrance to be constructed at the entrance from the path to the public domain on one side. On the other side of the path, at the entrances that lead to the public domain, a pole or a beam is sufficient.  
     The *Shulchan Aruch* (*loc. cit.*) differs and maintains that the frame of an entrance should be made at the entrance of the path to the main lane. At the entrance to the public domain, a pole or a beam is sufficient. The difference between these rulings depends on their rulings regarding an L-shaped lane, as mentioned in the notes on Halachah 3.
+
 [^77]: At one side of the lane the wall protrudes further than the other, so that the opening to the lane is a diagonal.
+
 [^78]: Placing the beam at a diagonal is not acceptable, because a beam is intended to create a distinction between the lane and the public domain. When the beam is positioned at a diagonal, a person carrying in the extension of the lane will not differentiate between it and the public domain.  
     The Rashba (quoted in the *Maggid Mishneh*) states that one may carry in the extended portion of the lane only by erecting the frame of an entrance across the diagonal. This ruling is accepted by the *Shulchan Aruch* (*Orach Chayim* 363:30). If, however, one erects a pole at both sides of the entrance to the lane, it is not acceptable. One may, however, carry in the area behind the inner pole (*Shulchan Aruch HaRav* 363:36; *Mishnah Berurah* 363:125).
+
 [^79]: The *Maggid Mishneh* quotes the Rashba as saying that the same laws apply if one erected a beam over the midst of a lane. This ruling is quoted by the *Shulchan Aruch* (*Orach Chayim* 363:32).
+
 [^80]: *Eruvin* [[Eruvin 14#14b|14b]] explains that this law is seemingly self-evident. Nevertheless, it was necessary to mention it, for one might think that carrying would be forbidden within the inner half lest one carry in the outer half.
+
 [^81]: The *Maggid Mishneh* and the *Shulchan Aruch* (*loc. cit.*) emphasize that the inner portion must meet all the criteria for a lane mentioned in Halachah 7.
+
 [^82]: As mentioned in Halachah 14, it is possible to enable people to carry within a lane by erecting a beam or a pole only when the opening to a lane is ten cubits or less wide. If the opening is wider, a frame of an entrance is necessary.
+
 [^83]: The fact that the two lanes merge is not significant, for it is the width at the entrance that is the determining factor. In this instance as well, the *Maggid Mishneh* and the *Shulchan Aruch* (*Orach Chayim* 363:33) follow the rationale mentioned in the notes to the previous halachah and emphasize that both the new lanes created by the erection of the wall must meet all the conditions for a lane mentioned in Halachah 7.
+
 [^84]: The *Shulchan Aruch* (*loc. cit.*:34) states that the measures cited by the Rambam are not arbitrary figures. As long as the walls erected exceed the size of the empty space between them and the wall, and the opening is ten cubits wide or less, it is possible to allow people to carry within the lane by erecting a pole or a beam.  
     *Eruvin* [[Eruvin 10#10a|10a]] mentions that generally as long as the enclosed portion of a side is equal to the open portion, it is acceptable. (See Chapter 16, Halachah 16.) In this instance, however, since a majority of the side is left open for the entrance, the enclosed portion of the remainder must exceed the open portion.
+
 [^85]: The *Shulchan Aruch* (*loc. cit.*) underscores that the leniency mentioned in this halachah applies only when people do not enter and leave through the spaces on the sides. It is, nevertheless, unlikely that they would do so unless there is a clear indication that this is the common practice (*Shulchan Aruch HaRav* 363:40; *Mishnah Berurah* 363:148). See Halachah 17.
+
 [^86]: Based on *Eruvin* 5 a-b, the *Maggid Mishneh* interprets this as referring to a portion of the wall that projects into the lane, but which was not constructed for the purpose of serving as a pole. It is, nevertheless, acceptable.  
     The *Maggid Mishneh* also mentions other opinions that interpret the above Talmudic portion as referring to a projection that is less than four cubits wide. If the width of the projection exceeds four cubits, the projection is considered to be a wall. If the width of the entire side exceeds eight cubits, another pole is required. This opinion is also quoted by the *Shulchan Aruch* (*Orach Chayim* 363:12).
+
 [^87]: E.g., a tree that is growing at the side of the lane.
+
 [^88]: The *Maggid Mishneh* interprets *Eruvin* [[Eruvin 15#15a|15a]], the source for this halachah, as referring to a situation where a tree was growing near a pole at the side of the lane, and the pole was removed. If it was removed before the Sabbath, we can assume that the people relied on the tree to use as a pole. Hence, it is acceptable. If, however, the pole was removed on the Sabbath itself, the tree is not acceptable, for there was no intent to use it for this purpose before the commencement of the Sabbath. This conception is quoted by the *Shulchan Aruch* (*loc. cit.*:11).
+
 [^89]: This diagram, taken from the *Maggid Mishneh,* is also repeated in *Shulchan Aruch HaRav* 363:11 and the *Mishneh Berurah* 363:31. See the accompanying diagram. In this way, the projection is seen only by those standing within the lane and not by those standing outside.
+
 [^90]: This is a matter of controversy among the commentaries. Rashi, *Eruvin* [[Eruvin 9#9b|9b]], interprets this as a direct opposite of the above diagram. *Tosafot* objects, and reverses the interpretation of the terms.
+
 [^91]: The *Mishnah Berurah* 363:35 explains that even when the pole is ten handbreadths high, it is not acceptable if it is more than three handbreadths above the ground. The rationale for this ruling is that a pole is considered like a wall, and a wall must reach within three handbreadths of the ground.
+
 [^92]: Note the *Mishnah Berurah* 363:22, which states that this restriction applies regardless of the size of the pole.
+
 [^93]: As mentioned in the notes on the beginning of the halachah, the Rambam's ruling is not accepted by all the authorities.
+
 [^94]: As mentioned in Halachah 9, a beam that is placed over the entrance of a lane differentiates between the lane and the public domain. When, however, this beam is covered by a mat, it appears that it was placed there to hang objects on it and thus no longer serves its original function.
+
 [^95]: Although the beam is no longer considered significant for its original purpose. If the mat reaches the ground - or because of the principle of *l'vud*, within three handbreadths of the ground - it is considered to be a wall, provided it is tied so that it will not be moved by the wind. (See Chapter 16, Halachah 24.)
+
 [^96]: The *Shulchan Aruch* (*Orach Chayim* 363:25) mentions that these spikes are implanted at an angle, inclined toward the inside of the lane. Thus, there are two difficulties with the beam:  
     a) It is placed on the spikes and not on the walls of the lane itself,  
     b) Its span is shorter than the width of the lane itself.  
     From the diagram drawn by the *Maggid Mishneh* to depict the Rambam's conception, it would appear that there is a difference of opinion and the difficulty is that the spikes and the beam are outside the lane.
+
 [^97]: The *Shulchan Aruch* (*loc. cit.*) mentions that if the pole is within three handbreadths of the wall of the lane, it is acceptable, based on the principle of *l'vud*.
+
 [^98]: The *Maggid Mishneh*, *Shulchan Aruch HaRav* 363:23, and the *Mishnah Berurah* 363:67 explain that even if the beam does not reach either wall (e.g., it is placed atop a pillar, in the midst of the lane), it is acceptable as long as it is within three handbreadths of both walls.
+
 [^99]: For they are considered as though they are connected, based on the principle of *l'vud.*
+
 [^100]: See Halachah 13.
+
 [^101]: Based on *Eruvin* [[Eruvin 14#14a|14a]], the Ra'avad explains that the beams must be close enough to each other actually to support the brick if placed there. The Rambam (see the gloss of the *Maggid Mishneh*) explains that as long as the beams are within three handbreadths of each other, and their combined width is a handbreadth, theoretically, they would be strong enough to support a brick placed upon them. Hence, it is sufficient even though in their present position, the beams are unable to support a brick.  
     The *Shulchan Aruch* (*Orach Chayim* 363:22) mentions both interpretations, but appears to favor that of the Rambam. Note, however, *Shulchan Aruch HaRav* 363:24, which states that one should be stringent and follow the Ra'avad's view.
+
 [^102]: This is based on the principle of *chavot rami*, literally, "cast it down." We find this principle also applied in *Hilchot Sukkah* 5:21 and *Hilchot Tum'at Meit* 16:6.  
     The *Maggid Mishneh* and the *Kessef Mishneh*, however, both note the apparent differences between the Rambam's citation of this principle here and in *Hilchot Sukkah,* where the Rambam states:  
     If the *s'chach* was uneven - i.e., some of it high and some of it low, it is kosher, provided there is less than three handbreadths between the [height of the] upper and lower [portions of the *s'chach*].  
     If the upper portion [of the *s'chach*] is a handbreadth or more wide, even though it is more than three handbreadths above [the lower portion], we consider it to be descending and touching the edge of the lower portion.  
     Since as mentioned in the previous notes, it is only the combined width of the beams which is a handbreadth, and each beam is smaller, the *Maggid Mishneh* asks why the principle of *chavut rami* applies. Seemingly, it would be necessary for the upper beam to be a handbreadth wide as well.
+
 [^103]: The maximum acceptable height for a beam (Halachah 14).
+
 [^104]: The minimum acceptable height for a beam (*ibid.*).
+
 [^105]: As explained in the opening clause of this halachah. With regard to this clause as well, the objection raised by the Ra'avad with regard to the first clause is also relevant. Indeed, it is far more applicable in this instance, for when the boards are not on the same plane, it is impossible for them to hold a brick.  
     As in the first clause, the *Shulchan Aruch* (*loc. cit.*:23) quotes both opinions, but appears to favor the Rambam's view. In this instance, however, most of the later authorities suggest accepting the stringency suggested by the Ra'avad.
+
 [^106]: The *Mishnah Berurah* 363:63 explains that this law involves a further leniency: Since the beam is rounded, it will not be able to support a brick. Nevertheless, since it would be strong enough to accept a brick if it were straight, it is acceptable.
+
 [^107]: The Rambam's words are a direct quote from the *Mishnah* (*Eruvin* 1:5). In his Commentary on the Mishnah, the Rambam notes that the relation mentioned here is merely an approximation, and the ratio of the diameter of a circle to its circumference is *pi*.
+
 [^108]: I.e., the portion of the beam that extends beyond its place is considered as if it did not exist, and we calculate the distance - on a straight line - between the two points of the beam on the extremity of the permitted area. If that distance is less than three handbreadths, it is acceptable, because of the principle of *l'vud*. If not, a new beam is required.
+
 [^109]: Wells are generally ten handbreadths deep and four handbreadths by four handbreadths wide, thus constituting a private domain. Accordingly, if the area around them is not enclosed, it is forbidden to draw water and drink, since by doing so one will be removing an article from a private domain to a *carmelit* or to a public domain.  
     As mentioned in Halachah 30, our Sages granted the leniency mentioned in this halachah as a specific dispensation to the pilgrims journeying to Jerusalem for the festivals. Rather than require the well to be surrounded by a proper wall, they allowed the use of such a structure.
+
 [^110]: See Figure A. Note the Mishnah, *Eruvin* 2:1, which uses the term *d'yomdin*, which literally means "two pillars" to describe the structure positioned at each of the corners of the square.
+
 [^111]: This is the minimum length of the walls placed at each side of the corner. Although a wall of four handbreadths is considered significant in many instances, in the case at hand a larger measure is required, because the majority of the enclosure remains open.
+
 [^112]: This is the maximum size of the space allowed between walls. As obvious from Halachah 29, it may be smaller.
+
 [^113]: See Figure B.
+
 [^114]: See Figure C.
+
 [^115]: Based on the principle of *l'vud*.
+
 [^116]: If the enclosure was any smaller, it is likely that an animal may turn and its owner would carry the bucket out of the enclosure. *Eruvin* [[Eruvin 19#19a|19a]] states that this distance is two cubits in length on each side.
+
 [^117]: A camel is much larger than a cow and its head and the majority of its body cannot fit into the space for the head and the majority of the body of a cow.
+
 [^118]: I.e., the further the distance from the well, the larger the distance between the corners becomes. Rather than make the corner walls larger, it is proper to add a third (or more) wall to each side, to maintain the distance between each wall at thirteen and one third cubits or less (*Eruvin* [[Eruvin 18#18a|18a]]). See the accompanying diagram.
+
 [^119]: As the halachah mentions below, this leniency was generally allowed for animals; only when the well was very wide were men also allowed to benefit from it.
+
 [^120]: I.e., a well - which is itself a source of water - but not a reservoir or cistern in which water was stored. See the following halachah.
+
 [^121]: I.e., in contrast to one belonging to a private individual. See the following halachah.
+
 [^122]: This distinguishes the area as a private domain. In regard to descending to drink from the well see Chapter 24, Halachah 4.
+
 [^123]: This interpretation of the Hebrew חגורה follows the commentary of *Tosafot*, rather than Rashi (*Eruvin* [[Eruvin 22#22b|22b]]).
+
 [^124]: Although there is no transgression in performing such an activity, since the stall projects within the enclosure, our Sages forbade this for the reasons stated by the Rambam.
+
 [^125]: The Rambam's ststements are based on *Eruvin* [[Eruvin 20#20b|20b]], which explains that while attempting to fix the broken stall, the person may carry the bucket to the public domain. Nevertheless, as the *Merkevet HaMishneh* notes, the Rambam slightly changes the description of the situation mentioned in the Talmud to allow for a shorter, more concise text.
+
 [^126]: Note the *Avnei Nezer* (*Orach Chayim*, Responsum 265), who question how large an area may be included with such walls for the area to be considered a private domain according to the Torah. From the Rambam's statements, it appears that even if there are more than thirteen and one third handbreadths between the walls, it is still considered a private domain.
+
 [^127]: Thus, the restrictions against drawing water from such a well mentioned in Halachah 30 and 31 are Rabbinic in origin. When our Sages instituted these restrictions, they considered the difficulties that might be caused to the festive pilgrims and did not impose them in regard to their animals.
+
 [^128]: *Eruvin* [[Eruvin 22#22a|22a]] explains that even if a public thoroughfare passes through such a structure, it is still considered to be a private domain, because it has the abovementioned walls. Note the statements of the *Baal HaHashlamah,* who differs with the Rambam's ruling.
+
 [^129]: See Halachah 18.
+
 [^130]: For it is permitted to carry from one private domain to another. Since there are no people dwelling in the enclosure, an *eruv* is not required (Rashi, *Eruvin* [[Eruvin 20#20a|20a]]).
+
 [^131]: Since people from two different courtyards are using the area, an *eruv* is required. Nevertheless, once an *eruv* is made, there is no difficulty in carrying from the courtyards to the enclosure. Although there is an opinion (*Eruvin* [[Eruvin 20#20a|20a]]) that forbids carrying in such a situation even when an *eruv* has been made, it is not accepted as halachah.  
     Rashi (*loc. cit.*) explains that the two courtyards must enter between the same walls of the enclosure and share a common divider. The *eruv* must be placed in an opening in this divider. If, however, the courtyards are on opposite sides of the enclosure, the *eruv* is not effective. Rabbi Akiva Eiger states that there is no indication of such a restriction in the Rambam's words.
+
 [^132]: We do not say that since it was permitted to carry in the enclosure for a portion of the Sabbath, we are able to continue carrying within (Rashi, *loc. cit.*).
+
 [^133]: According to the Torah itself, however, the enclosure is a private domain, as reflected in the previous halachah.
+
 [^134]: From the Rambam's wording, it would appear that this leniency applies regardless of whether the well had dried up on the Sabbath or was dry even before the Sabbath commenced. If it begins to flow with water, one may carry within the enclosure. Note, however, Rashi (*loc. cit.*) and the *Baal HaHashlamah,* who maintain that the leniency applies only when originally there was water in the well at the commencement of the Sabbath. Since the walls of the enclosure were not considered to be an acceptable partition at the commencement of the Sabbath, they cannot become acceptable on that Sabbath.
+
 [^135]: See Chapter 16, Halachah 22.
+
 [^136]: In his Commentary on the Mishnah (*Eruvin* 9:3), the Rambam differentiates between this instance and others (e.g., Chapter 16, Halachah 13), where, since permission is granted to carry within an area at the commencement of the Sabbath, that permission is continued throughout the Sabbath. These leniencies are granted when the difficulties arise because of the restrictions involved in making an *eruv*.  
     A more stringent ruling is applied in this situation, because if the pole or beam is removed, it is as if the area is open entirely. The difficulty is not in the status of the people within the enclosure, but in the enclosure itself. It no longer fits the standards required by the Sages.
+
 [^137]: And there is thus no possibility of one of the Torah's prohibitions being violated. Nevertheless, carrying in such a lane is forbidden because of Rabbinic decree.
+
 [^138]: A Greek architectural structure with three (and sometimes two) walls and a roof with an aperture for sunlight in the center. Often translated as "a porch."
+
 [^139]: Generally, as reflected by his statements in Halachah 2, the Rambam prohibits carrying in a structure with only three walls unless an additional measure is taken - e.g., the construction of a pole or a beam. In this instance, as he explains, that function is served by the edge of the roof, which is considered to descend and form the fourth wall. (See Chapter 16, Halachah 7.)
+
 [^140]: Note the *Shulchan Aruch* (*Orach Chayim* 361:2), which states that this applies even when the opening is more than ten cubits wide. See also the *Maggid Mishneh,* who mentions that there are opinions that require a portion of the wall to remain at either corner for this principle to apply.  
     Note also the Ramah (*Orach Chayim* 361:2), who applies the principle, "the edge of the roof is considered to descend," even with regard to a structure of two walls, provided the walls are built as an L.
+
 [^141]: The Ra'avad and others object to this ruling, for as mentioned in the notes on Halachot 2 and 9, they maintain that a structure with three walls is considered to be a private domain according to the Torah.
+
 [^142]: See Chapter 16, Halachah 16.
+
 [^143]: See Chapter 16, Halachah 20.
+
 [^144]: I.e., were there to be a beam of the roof of the house extending over the portion that was open, we can apply the principle stated in the above portion of the halachah, "the edge of the roof is considered to descend," and on this basis allow one to carry within.
+
 [^145]: This clause - which significantly is lacking in some authoritative manuscripts of the *Mishneh Torah* - has created discussion among the commentaries. In his commentary on *Eruvin* [[Eruvin 94#94a|94a]], Rashi explains that the word "angle" mentioned in the Talmud refers to roofs which, like most of the roofs in Europe, descend at a slant. When a roof is flat, the principle "the edge of the roof is considered to descend" applies. If the roof descends at an angle, the principle does not. This interpretation is quoted by Rav Yosef Karo, both in his *Kessef Mishneh* and in his *Shulchan Aruch* (*loc. cit.*) as a different interpretation than that of the Rambam.  
     The Rambam's conception is clearly expressed in his Commentary on the Mishnah (*Eruvin* 9:3), where he interprets the term "angle" to mean that the beams of the roof were built on a slant, as in the accompanying diagram. Since the beams do not end in the place where the opening was made - but were rather broken off abruptly - the principle "the edge of the roof is considered to descend" does not apply.
+
 [^146]: This measure is not particularly relevant with regard to the laws of the Sabbath. Nevertheless, it is mentioned here, because the measures of a handbreadth and a cubit, which are extremely relevant, are dependent on it. See *Hilchot Sefer Torah* 9:9, which defines a fingerbreadth as the length of two barley corns. In modern measure, it is 2 centimeters according to *Shiurei Torah* and 2.4 centimeters according to the *Chazon Ish*.
+
 [^147]: Thus, 8 centimeters according to *Shiurei Torah* and 9.6 centimeters according to the *Chazon Ish*.
+
 [^148]: Note *Hilchot Beit HaBechirah* 2:6, which explains that some of the cubits used for the altar's dimensions contained only five handbreadths.
+
 [^149]: I.e., when a more stringent approach would call for a larger measure, it is the larger measure that is required. When a more stringent approach would call for a smaller measure, it is the smaller measure that is required.  
     The *Maggid Mishneh* quotes the Rashba as stating that the difference between these two measurements is half a fingerbreadth.

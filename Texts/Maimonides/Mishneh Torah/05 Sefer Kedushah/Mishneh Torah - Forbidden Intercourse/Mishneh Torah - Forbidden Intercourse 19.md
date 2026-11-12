@@ -131,72 +131,131 @@ Similarly, whenever a person is characterized by insolence and cruelty, hating p
 If, however, a person who was definitely a *challal* married into a family, every woman[^58] from that family is forbidden to a priest until he conducts an investigation. If he marries [such a woman without an investigation], she must be divorced. The same laws[^59] apply if a person regarding whom there is a question whether he is a *mamzer* or a person who is definitely *mamzer* became intermingled in the family. For the same prohibition applies to the priesthood with regard to the wife of a *challal* and the wife of a *mamzer*, as we explained.[^60] ^19-23
 
 [^1]: I.e., the women mentioned in Chapter 17, Halachah 1.
+
 [^2]: The fact that he engaged in forbidden relations does not detract from the essential holiness endowed to him by his priestly lineage.
+
 [^3]: For the spiritual blemish brought about by the forbidden relations has an effect regardless of her intent or lack of it.
+
 [^4]: For only when the male and the female are these respective ages are their relations considered significant.
+
 [^5]: Note the contrast to the following halachah. Although a non-virgin is forbidden only on the basis of a positive commandment (Chapter 17, Halachah 13), offspring from such a relationship are *challalim*.
+
 [^6]: Needless to say, a divorcee may not marry a priest. The Rambam is emphasizing that if she is divorced, in addition to the prohibition of a divorcee, she is also prohibited as a *challalah*.
+
 [^7]: For as *Ketubot* [[Ketubot 11#11a|11a]] states, a woman who is divorced after marriage is considered as if she has engaged in relations. The *Chelkat Mechokek* 7:23 and the *Beit Shmuel* 7:36 discuss this ruling, mentioning views that differ slightly.
+
 [^8]: For after the fact, he is allowed to remain married to such a woman, as stated in Chapter 17, Halachah 15.
+
 [^9]: For the prohibition forbidding her to him applies only within the context of marriage (Chapter 17, Halachah 2). Although he performs a transgression for entering into intimacy without the intent of marriage (see *Hilchot Ishut* 1:4), that prohibition is not restricted to the priesthood and offspring are deemed *challalim*, only when the prohibition against the relations is exclusive to the priesthood.
+
 [^10]: Chapter 18, Halachah 1.
+
 [^11]: Since she became a *zonah*, the prohibition against relations with her is exclusive to the priesthood.
+
 [^12]: Chapter 18, Halachah 2. For the relations do involve a transgression.
+
 [^13]: I.e., relations with a *zonah*.
+
 [^14]: For they are forbidden exclusively to the priesthood, as stated in Chapter 18, Halachah 3.
+
 [^15]: Even if they are conceived during the first time the couple engage in relations [*Shulchan Aruch* (*Even HaEzer* 7:14)]. The rationale is that even before the priest engages in relations with such women, they are deemed as *zonot*.
+
 [^16]: As *Kiddushin* [[Kiddushin 77#77a|77a]] states, the determination of whether a child is deemed as a *challal* or not depends on whether it was conceived through a transgression or not. The mother's status at the time of birth is not significant.
+
 [^17]: In Chapter 17, Halachah 7.
+
 [^18]: Relatives forbidden by Rabbinic decree as listed in *Hilchot Ishut* 1:6.
+
 [^19]: See Chapter 18, Halachah 4.
+
 [^20]: The *Shulchan Aruch* (*Even HaEzer* 7:20) quotes the Rambam's ruling. The *Tur* and the Rama state that the same laws apply to a woman who underwent a *chalitzah* ceremony of questionable validity. Based on the distinction between such a woman and a woman whose status is a divorcee is questionable which the Rambam makes in Chapter 17, Halachah 7, the *Beit Shmuel* 7:40 maintains that the Rambam would not accept such an addition.
+
 [^21]: See Chapter 17, Halachah 12.
+
 [^22]: Otherwise, there is a possibility that he will be violating prohibitions of Scriptural origin.
+
 [^23]: Lest he is an Israelite to whom this is forbidden. See *Hilchot Terumah* 6:7.
+
 [^24]: Lest he is a priest to whom this is forbidden.
+
 [^25]: The prohibition against contact with a corpse.
+
 [^26]: Chapter 18, Halachah 3.
+
 [^27]: I.e., those forbidden to the priesthood (*Maggid Mishneh*). See, however, Halachah 21 and notes.
+
 [^28]: See Chapter 15, Halachah 7.
+
 [^29]: *Kiddushin* [[Kiddushin 78#78b|78b]] states that after the destruction of the Temple, the priests accepted this stringency upon themselves.
+
 [^30]: Note the *Beit Yosef* (*Even HaEzer* 7), the *Chelkat Mechokek* 7:29 and the *Beit Shmuel* 7:42 who note that the Rambam requires the girl to be both conceived and born within the Jewish people.
+
 [^31]: Who is forbidden to marry a native-born Jewess (Chapter 12, Halachah 18).
+
 [^32]: Who is likewise forbidden (*ibid.*:19).
+
 [^33]: Chapter 18, Halachah 3. As *Yevamot* [[Yevamot 36#36a|36a]] states, the women themselves may not marry a priest, but their daughters may.
+
 [^34]: For a female Ammonite is permitted and a third generation Egyptian is permitted.
+
 [^35]: We have not used the term grandson or great grandson, because if a female descendant is involved, the next generation are not *challalim*.
+
 [^36]: Neither the son, nor the daughter are considered *challalim*.
+
 [^37]: E.g., there is no restriction against a priest marrying the daughter of a Levite or an Israelite.
+
 [^38]: Thus in the instance mentioned in the previous note, the offspring would be considered as priests.
+
 [^39]: I.e., neither a Levite or a *challal*.
+
 [^40]: Thus the offspring of a Levite are Levites and the offspring of *challalim* are *challalim*.
+
 [^41]: The Rambam is stating that it is not necessary to investigate thoroughly the lineage of a family before marrying into them. If it is a common presumption that a family is of acceptable lineage, one may marry a family member at the outset. When we know nothing of the lineage of the family, there are some authorities [Remo as quoted by the *Tur* (*Even HaEzer* 2)] who maintain that we do question his lineage and require proof that he is acceptable. Others (Rabbenu Asher and Rabbenu Nissim) differ and maintain that even if we do not know anything about a family's lineage, we assume that they are acceptable. See the discussion of the issue by *Beit Shmuel* 2:3.  
     The debate concerns the practice in the Talmudic age and in subsequent eras when Jewish observance was strong. At present, particularly in contemporary communities when there are many non-observant Jews and non-halachic divorce and similar problems are rampart, it is customary for Rabbinic courts to be careful and investigate the lineage of people before performing a marriage.
+
 [^42]: As mentioned in the notes to Chapter 12, Halachah 23, as related in II Samuel, ch. 21, there was a famine for three years in *Eretz Yisrael*. Through prophetic vision, David learned that the reason for the famine was Saul's oppression of the Gibeonites (exactly what Saul did to oppress them is a matter of discussion among the Rabbis). David asked the Gibeonites what they desired to be appeased for this oppression. They answered that they wanted to slay seven of his descendants. David handed over seven of Saul's descendants to them and they hung them and left their corpses on the gallows. For this act of cruelty, David decreed that they should never marry among the Jewish people.
+
 [^43]: Joshua, Chapter 9, relates that after the Jews' conquest of Jericho and Ai, the inhabitants of Gibeon:  
     Acted cunningly... They took old sacks upon their donkeys, old and rent wine bottles... old, worn and patched shoes... and came to Joshua at Gilgal. They told him:... "We have come from a distant country. Therefore, make a covenant with us." Joshua made a covenant with them... and the princes of the congregation swore to them.  
     After the ruse was discovered, Joshua and the people honored the covenant and allowed the Gibeonites to live. Moreover, they even came to their defense when they were attacked by other Canaanite nations.
+
 [^44]: The *Beit Shmuel* 2:6 cites the opinion of Rashi (*Kiddushin* [[Kiddushin 76#76a|76a]]) which maintains that even if the two people cast aspersions on the family's lineage without delivering formal testimony, such investigations must be made.
+
 [^45]: We are not concerned that a servant intermingled among them, for even if a servant did conceive a child with a woman from a priestly family, the child is acceptable. Our suspicion is that one of the priests had relations with a maid-servant and she bore him a son or daughter who was raised as a member of the priest's family (*Chelkat Mechokek* 2:2).
+
 [^46]: See Halachah 21and notes which discuss whether a woman is required to make such an investigation or not.
+
 [^47]: I.e., the obligation is to check the lineage of four women: her mother, the mother of her maternal grandfather, her paternal grandmother, and the paternal grandmother of her paternal grandfather. Nevertheless, to verify the acceptability of the lineage of these women, it is necessary to verify that their mothers are also of acceptable lineage, thus reaching a total of eight (Rabbenu Nissim).
+
 [^48]: I.e., one must add the mother of her maternal grandmother and the maternal grandmother of her paternal grandmother (*Merkevet HaMishneh*).  
     The *Maggid Mishneh* questions the Rambam's statements, noting that from *Kiddushin* [[Kiddushin 76#76a|76a]], it would appear that one would have to check the lineage of twelve or sixteen women.
+
 [^49]: I.e., after the blemish was mentioned in quarrels, it would become a matter of public knowledge and investigated accordingly.
+
 [^50]: Hence, their blemished lineage would not be public knowledge.
+
 [^51]: The Rambam's statements (based on his interpretation of *Kiddushin* [[Kiddushin 76#76b|76b]]) have attracted the attention of the commentaries who raise a basic question: The prohibition against marrying an unacceptable partner (e.g., a *mamzer*) applies equally to men and women (see Chapter 1, Halachah 1). Why then is a woman not warned with regard to this matter?  
     The *Maggid Mishneh* (quoting Rashi's commentary to *Kiddushin* [[Kiddushin 76#76a|76a]]) states that here, the Rambam intent is that since the Torah did not forbid a woman of the priestly family from marrying a *challal*, our Sages did not require a woman to make an investigation even when there is a question whether her future husband is entirely unacceptable.  
     According to Rashi who interprets "disputing a family's lineage" (Halachah 18) as merely casting aspersions, this interpretation is tenable. After all, we have no hard and fast evidence that the man's lineage is unacceptable. But according to the Rambam, who defines that term as referring to testimony delivered in court, the original question remains. Since there is a firm possibility that a Scriptural prohibition is involved, why shouldn't a woman be required to make an investigation? Among the resolutions offered is that of the *Chelkat Mechokek* 2:5 is that the Rambam would require an investigation even when a woman desires to marry. Nevertheless, the investigation need not include all of the eight (or ten) women mentioned by the Rambam. Such thoroughness is required only when a man seeks to marry.  
     See the gloss of the *Maggid Mishneh* to Halachah 18 and the *Chelkat Mechokek* 2:3 which cite differing opinions which also require a woman to make a full-fledged investigation of the lineage of a man she desires to marry if there are questions concerning his lineage.
+
 [^52]: We assume that he would not remain silent when his lineage is slurred unless there was some truth to the assertions.  
     The Ra'avad states that the Rambam's statement (taken from *Ketubot* [[Ketubot 14#14b|14b]]) held true only in the Talmudic era when a person who insulted a colleague's lineage was placed under a ban of ostracism. Hence when a person remained silent instead of appealing to the court, we could assume that he was admitting to the accuser's assertion. In the present era, by contrast, there is no punishment given for making such slurs. Hence, the insulted person would have no benefit in bringing the matter to the court's attention. Accordingly, it is preferable to remain silent.  
     The Ramban and the Rashba explain that the Rambam's words apply with regard to a family concerning which there already exist doubts with regard to their lineage. When, by contrast, their lineage is considered unblemished, it is preferable for them to remain silent. Rabbenu Nissim states that the insulted person's silence is considered significant only when it is common for him to protest other matters. If, however, he usually remains silent, the fact that he does so in this situation as well is of no consequence. The *Shulchan Aruch* (*Even HaEzer* 2:4) quotes the Rambam's words and the Rama quotes the latter views.
+
 [^53]: As explained in Halachot 18-19. The investigation is sufficient to clarify any difficulties, for the suspicion created by his silence is not a more serious factor than the testimony of the witnesses mentioned in Halachah 18 (*Maggid Mishneh*).
+
 [^54]: I.e., there is a report that a man of questionable status married into a family, but the identity of that man and that of his wife are not known.
+
 [^55]: One might think that because of the multiple doubt involved the woman would be permitted at the outset. Nevertheless, because of the stringency of the laws of proper lineage, this leniency is not taken.
+
 [^56]: And as is stated in Chapter 18, Halachah 1, a woman who engaged in relations with a *challal* is forbidden to the priesthood.
+
 [^57]: Since there is a multiple doubt (*sefek sefeikah*), the woman is permitted.
+
 [^58]: I.e., both widows and daughters (*Kessef Mishneh*).
+
 [^59]: I.e., the first clause applies to a person's whose status as a *mamzer* is a matter of question and the second clause to whose unacceptable status is definite (*Kessef Mishneh*).  
     In his *Kessef Mishneh*, Rav Yosef Caro mentions opinions that rule more stringently and forbid marriage even when there is a report that a person about whom a question was raised whether or not he is a *mamzer* married into a family. In his *Shulchan Aruch* (*Even HaEzer* 2:5), however, he quotes the Rambam's view.
+
 [^60]: Chapter 18, Halachah 1.

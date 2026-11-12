@@ -73,52 +73,101 @@ And the numerical value indicates the progressive diminution of the light and li
 And each power and grade [of the life-force] can create beings according to its level, even unlimited in quantity and quality, to give them life forever, since it is the power of G–d which issues and emanates from the “breath of His mouth” and there is no restraint [to Him]. But, their quality will not be on a level as high as the quality and level of the creatures which could be created from the power and degree of the letters themselves.
 
 [^1]: Rabbi Schneur Zalman here returns to elucidate the opening statement of the treatise.
+
 [^2]: *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-18b|I:18b]].
+
 [^3]: *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-134a|II:134a]]. According to the rules of Hebrew grammar, the letters in the alphabet are divided into various groups, i.e., according to their source in the organs of speech; the letters in each group are interchangeable. The letters *alef*, *hey*, *vav*, and *yud* fall into one group. Therefore, *alef* may be interchanged with *vav*. The letters *alef*, *chet*, *hey*, and *ayin* fall into another category. Thus, *chet* may be interchanged with *ayin*. Hence *echod* becomes *vaed*.
+
 [^4]: *Sefer Hachaim*, *Geulah*, ch. 2; *Emek HaMelech*, *Shaar HaMitzvot*, beginning of ch. 1; *Rabbenu Bachya*, *Vayeshev* 38:2. Cf. *Pirkei d’Rabbi Eliezer*, ch. 3.
+
 [^5]: Cf. *Rashi*, [[Judges 05#^5-14|Judges 5:14]]. The nature of kingship requires the separation and concealment of the king from his subjects. He must stand aloof from them, or the relationship of sovereignty is destroyed. In the same way, the Infinite concealed Himself, and the world appears as a separate and independent entity; thus, He can exercise sovereignty over it.
+
 [^6]: [[Proverbs 14#^14-28|Proverbs 14:28]].
+
 [^7]: [[Joshua 03#^3-11|Joshua 3:11]], 13.
+
 [^8]: I.e., the nine higher attributes, or *sefirot*. *Malchut* is the tenth and lowest attribute. See below, ch. 9, n. 7.
+
 [^9]: Liturgy, Morning Prayer. The quotation is a combination of [[Psalms 093#^93-1|Psalms 93:1]], Ibid. 10:16, [[Torah 16 - Beshalach#^15-18|Exodus 15:18]].
+
 [^10]: Time is a creation *ex nihilo*, for it depends on the motion of created things; whatever is inseparable from things created must likewise be created. Cf. *Moreh Nevuchim* 2, ch. 13. Furthermore, time, which is divisible into finite parts, e.g., seconds, minutes, etc., cannot be infinite, for Infinity is indivisible. Since it is finite, it must be created *ex nihilo*. See *Derech Mitzvotecha* 57a-b.
+
 [^11]: Below, ch. 8.
+
 [^12]: *Zohar* III:257b. *Raaya Mehemna* is a part of the *Zohar* which explains the esoteric meaning of the precepts.
+
 [^13]: Brackets are the author’s.
+
 [^14]: In the intertwining letters of the name *Adnut* into the letters of the name *Havaya*, the *Yud* of *Havaya* is the first letter, and therefore this name predominates. This indicates that time and space are nullified in relation to Him. This is *yichudah ilaah*. See also above, ch. 6, note 9. It is this Unity which is affirmed in the recital of “Hear O Israel…G–d is One,” i.e., One and Alone, for there is nothing apart from Him.
+
 [^15]: I.e., He is both transcendent and immanent. Through *malchut* He becomes immanent in creation.
+
 [^16]: In the intertwining of the letters of the name *Havaya* into the letters of the name *Adnut*, the *alef* of *Adnut* is first, and therefore this name prevails. This indicates that time and space exist, but they are permeated with *Havaya*, the Infinite. Therefore, the *Zohar* states that “Blessed be the Name of the glory of His kingdom forever and ever” is the expression of *yichudah tataah*. “Kingdom” points to finite, material existence, yet is filled with His Essence.
+
 [^17]: Brackets are the author’s.
+
 [^18]: [[Malachi 3#^3-6|Malachi 3:6]].
+
 [^19]: Liturgy, Morning Prayer; *Yalkut Shimoni*, *Va’etchanan* 835.
+
 [^20]: [[Job 32#^32-7|Job 32:7]].
+
 [^21]: True belief implies pure faith, which transcends the realm of the intellect. First one must strive to understand to the extent of one’s intellectual capacities. Beyond that limit, he is to believe with simple faith. Simply stated, “where knowledge ends, faith begins.”
+
 [^22]: [[Isaiah 55#^55-9|Isaiah 55:9]].
+
 [^23]: [[Job 11#^11-7|Job 11:7]].
+
 [^24]: Ibid. 10:4.
+
 [^25]: 2:9-10, paraphrased and elucidated.
+
 [^26]: *Shaar Mehut VeHanhagah*, ch. 13.
+
 [^27]: Brackets are the author’s.
+
 [^28]: I.e., the Unity of G–d and His knowledge.
+
 [^29]: See above, ch. 2, note 13.
+
 [^30]: *Shabbat* [[Shabbat 97#97a|97a]]. Faith is a legacy from the Patriarchs and comes naturally to their children.
+
 [^31]: Hence it is contradictory to assert that He is absent from a place where His knowledge and providence function.
+
 [^32]: Fire, air, water, and dust, the basic elements of which all created things are composed.
+
 [^33]: *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-225a|III:225a]].
+
 [^34]: I.e., angels, who, according to Maimonides (*Moreh Nevuchim* 1, ch. 49) are incorporeal and occupy no space. They are distinguished one from the other only by the extent and level of their comprehension, and hence are called “intelligences.” Nachmanides in *Shaar HaGemul* (quoted in *Torah Or*, *Bereishit* 4b) holds that they do have bodily existence but their bodies are formed only of the spiritual elements of “fire” and “air.” They are “intelligences” in that despite their bodily existence, their conceptions are nonspatial and nontemporal, while man’s conceptions are circumscribed by the limitations of time and space. See *Torah Or*, ibid.; *Likkutei Torah*, *Shelach* 46a.
+
 [^35]: *Tikkunei Zohar*, [[Tikkunei Zohar 017a#^17a-10|Introduction]].
+
 [^36]: [[Psalms 139#^139-12|Psalms 139:12]].
+
 [^37]: [[Isaiah 55#^55-8|Isaiah 55:8]].
+
 [^38]: Cf. *Likkutei Amarim*, Part I, ch. 48.
+
 [^39]: See Maimonides, *Hilchot Yesodei HaTorah* 3:8; Introduction to his Commentary on *Mishnayot*. As to the seeming contradiction between this view and that of present-day astronomy that the sun is 5/4 million or more times greater than the earth, the Lubavitcher Rebbe, Rabbi Menachem M. Schneerson, has explained as follows: The view of astronomy applies to the *volume* of the sun and that of Maimonides to its *diameter*. The diameter of the sun, based on present-day astronomy, is about 110 times that of the earth (not 170), but this measurement takes into consideration only specific layers of the sun and not all of them. For the outermost layers of the sun contract and expand greatly from time to time, and not all the layers are visible to the eye (only their effects are visible). Hence, it is difficult to measure them. Likewise, the protuberance is not taken into account. It has been measured and found that the sun has expanded to the extent that its diameter was more than 170 times the diameter of the earth and later contracted (*Igrot Kodesh*, vol. 22, p. 261 ff; *Lessons in Tanya*, vol. 3, p. 931).
+
 [^40]: *Chagigah* [[Chagigah 13#13a|13a]].
+
 [^41]: *Tikkunei Zohar*, Introduction.
+
 [^42]: [[Psalms 033#^33-9|Psalms 33:9]].
+
 [^43]: Ibid. 89:3.
+
 [^44]: Ibid. 33:6.
+
 [^45]: Cf. *Bereishit Rabbah* 31:5.
+
 [^46]: See above, ch. 1, notes 18 and 21.
+
 [^47]: I.e., He is enclothed in the Ten Utterances because they are His attributes. See *Pardes*, *Shaar* 2, chs. 3-6. Below, ch. 11.
+
 [^48]: The four letters of the name *Havaya* may be spelled phonetically in four different ways by using different vowels. Each spelling yields a different numerical value. The numerical value of *Havaya* when spelled out thus יוד הה וו הה is 52 or ב"ן.
+
 [^49]: See *Likkutei Torah*, *Re’eh* 27c.
+
 [^50]: Above, chs. 1, 2.

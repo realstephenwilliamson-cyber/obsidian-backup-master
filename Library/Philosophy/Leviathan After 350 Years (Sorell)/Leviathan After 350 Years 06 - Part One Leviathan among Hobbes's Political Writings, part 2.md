@@ -19,8 +19,11 @@ position—now associated most prominently with Quentin Skinner, but accepted by
 Central to that political theory, on this interpretation, are the ideas that sovereign right follows from the actual possession of power, and that there is a mutual relation between protection and obedience. Also according to this interpretation, Hobbes’s theory (at least as it is articulated in the Review) is seen as a variant of similar positions staked out from around 1649. John Wallace put Hobbes in the context of the ‘Engagement theorists’ or ‘loyalists’—theorists like Francis Rous, Anthony Ascham, John Dury, and Marchamont Nedham, who argued for the acceptability of taking the Engagement to the newly proclaimed Commonwealth.[^81] In his earliest work on this group of thinkers, Skinner follows Wallace in calling them ‘Engagers’, or refers to them more generally as ‘the writers on Sovereignty’; but he later prefers to characterize them as ‘the *de facto* theorists’, because people engaged to uphold the Commonwealth for very different reasons.[^82] Thus, the label of ‘Engager’ (or even, more accurately, ‘one who argued for the acceptability of subscribing the Engagement’) was not sufficiently precise. This seems right.[^83] I shall argue, however, that the label ‘*de facto* theory’ is itself insufficiently precise, and even misleading.
 
 [^80]: Skinner himself has endorsed the idea of a shift with *Leviathan* and especially the Review. In his early essays, he subscribes to that part of the royalist theory that says simply that Hobbes becomes more of a *de facto* theorist in *Leviathan*, and especially the Review (see *Visions*, 305–7: ‘Conquest and Consent’, 96–7; and ‘Thomas Hobbes et la défense du pouvoir “de facto” ’, *Revue Philosophique* 163 (1973), esp. p. 153 n. 2). In a later piece, however, Skinner briefly *distinguishes* Hobbes’s theory in the Review from *de facto* theory (*Visions*, 232–7: ‘Thomas Hobbes on the Proper Signification of Liberty’, *Transactions of the Royal Historical Society*, 5th series, 40 (1990), 145–51). ‘Royalists’ like Tuck and Baumgold have been more convinced by the case for their identification than Skinner himself has turned out to be. Although in the next section I shall briefly address Skinner’s later view and *its* version of a turn in Hobbes’s thought, I focus in what follows on the impressive corpus of his early articles in favour of the identification. I do so because (1) they have been deservedly influential, and many remain persuaded by the key suggestions; (2) he has recently republished them in revised form; (3) his explanation in 1990 is too cursory to dismantle the earlier case; and (4) it is not clear that Skinner should concede what he does, or that his alternative account is successful (see sections III and IV, below). In several early articles, Skinner marshals evidence to show that Hobbes’s contemporaries overwhelmingly interpreted him as a *de facto* theorist: if this demonstration and Skinner’s later interpretation that he is not one are both right, this indicates limitations of contemporary interpretation as a guide to correct interpretation.
+
 [^81]: Wallace, ‘The Engagement Controversy 1649–1652: An Annotated List of Pamphlets’, *Bulletin of the New York Public Library* 68/6 (1964); *Destiny His Choice: The Loyalism of Andrew Marvell* (Cambridge: Cambridge University Press, 1968), 232–7. On the Engagement, see n. 16, above.
+
 [^82]: For the earlier usage, see ‘History and Ideology’; for the later point, see ‘Conquest and Consent’, 80.
+
 [^83]: Not all of the theorists who argue for obedience to the authority of present power do so with the aim of justifying the Engagement. The arguments of Ascham, Rous, Nathaniel Ward, Act, Ascham stands behind the position that usurpers ‘would finde it a greater security to put a penalty upon those who should question their rights, then to force their subjects to acknowledge their pretensions by this oath’ (*Of the Confusions and Revolutions of Governments* . . . (London, 1649), 84).
 
 *[p. 50]* ^pg61
@@ -32,9 +35,13 @@ A ‘*de facto* theory’ is often taken to mean a defence of the legitimacy of 
 and others were largely formulated before the Engagement Act of 11 Oct. 1649. Even after that
 
 [^84]: Although the avowed aim of these theorists is often to show only that subjects *may* obey a merely *de facto* power, they almost invariably go on to support the stronger thesis that subjects *should* obey such a power.
+
 [^85]: When referring to the protean Nedham in this essay, I restrict myself to *Case of the Commonwealth*. Even as *de facto* works of both kinds attempted (in the words of a related work) ‘to further the speedy settlement of the snarl’d, and contortuplicated affairs of the State, and Church’, they led to an equally ‘snarl’d, and contortuplicated’ series of intellectual differences and alliances (*To the High and Honorable Parliament of England now assembled at Westminster.* *The Humble Petitions, Serious Suggestions, and dutifull Expostulations of . . . the Easterne Association* (London, 1648), 30). Without room for a nuanced account of the range of writings relating to this controversy, I must focus on a few salient figures and what I regard as a central distinction.
+
 [^86]: In a sense, these thinkers are not *de facto* theorists at all, in so far as they hold that there is no such thing as a merely *de facto* power (as any such power entails authority). But the label ‘*de facto* theory of authority’ is, I think, nonetheless clear, and allows us both to recognize the important difference between this group and the *de facto* theorists of obligation, and yet to follow Skinner in referring to both groups together as ‘*de facto* theorists’. The distinction between Ascham and Nedham is limned by Deborah Baumgold, *Hobbes’s Political Theory* (Cambridge: Cambridge University Press, 1988), 130–1, and Franck Lessay, *Souveraineté et légitimité chez Hobbes* (Paris: Presses Universitaires de France, 1988), 161–2.
+
 [^87]: In section IV, I suggest a specific way in which Hobbes may nonetheless be considered a *de facto* theorist of authority.
+
 [^88]: So Rous begins *The Lawfulnes of obeying the Present Government* (London, 1649) by promising ‘Proofes, that though the change of a Government were beleeved not to be lawfull, yet it may lawfully be obeyed’ (p. 1). Cf., e.g., *A Logical Demonstration of the Lawfulness of Subscribing the New Engagement* (London, 1650), 5, and the citations from Ascham, below.
 
 *[p. 51]* ^pg62
@@ -44,8 +51,11 @@ the prevailing power as usurpatory, the work of a conquering or unlawful army. A
 Consider Skinner’s characterization of Hobbes’s position as exemplary of *de facto* theory. ‘The possession of power itself established a title to be obeyed: as the aim of subscribing to government was self-preservation, so this presupposed an obligation to obey any power with the capacity to protect.’[^90] Skinner writes as if the obligation to obey and the right of ruling were necessarily correlative for those he calls *de facto* theorists, and as if they affirmed that *de jure* authority follows from *de facto* power. To some extent, these positions *are* held by Nedham, Michael Hawke, and others;[^91] but this shows how different they are from the likes of Ascham and Rous, who (along with the ‘Exercitator’, their ablest opponent[^92]) make the denial of these positions their cornerstone. As for Hobbes, it does follow from what he says that the right to rule and obligation to obey are not necessarily correlative. For he argues that in the state of nature one may have the right to rule over another while that other has no corresponding obligation to obey (either because one does not have the other in one’s power, or because one holds the other in bonds as a slave). However, whereas Hobbes holds that there can be a right to rule with no corresponding obligation to obey, he rejects Ascham’s central contention, that there can be an obligation to obey with no corresponding right to rule.
 
 [^89]: In building his characterization of the *de facto* theorists to whom he assimilates Hobbes, Skinner (*Visions*, 253: ‘History and Ideology’, 168) cites Lewis de Moulin, *The Power of the Magistrate in Sacred Things* . . . (London, 1650), that it is just to yield ‘fealty or Homage to him that hath possession *de facto*, though not *de jure*’. Hobbes, by contrast, never claims that we should obey someone who lacks *de jure* authority. In a sense, Hobbes’s theory was more strongly in favour of the Commonwealth than that propounded by Ascham et al., for once the Commonwealth was settled Hobbes’s principles required him to recognize its authority over its subjects as legitimate. In this, he ends up temporarily aligned with the more radical elements who had maintained parliamentary sovereignty during the war.
+
 [^90]: Skinner, ‘Ideological Context’, 307; cf. *Visions*, 276.
+
 [^91]: For arguments that *de facto* entails *de jure* power, cf., e.g., *A Disingag’d Survey of the Engagement* (London, 1650), 21; \[Herle?\], *The Exercitation Answered*, 36–8; and N. W., *A Discourse Concerning the Engagement: or, The Northern Subscribers Plea* . . . (London, 1650), 11–12. The entailment is sometimes explained in terms of divine sanction (e.g., by Richard Saunders, *Plenary Possession Makes a Lawful Power* (London, 1651), and Osborne,
+
 [^92]: \[Gee?\], *An Exercitation*, 1, 3–4, 8, 10, 12–13, etc. *A Perswasive*).
 
 *[p. 52]* ^pg63
@@ -85,7 +95,9 @@ Before this conclusion is firmly established, however, there is evidence to cons
 This apparent contradiction of Hobbes’s earlier theory may be resolved by an appeal to ‘the doctrine of doctrines’. It is imperative that interpreters of Hobbes keep in mind his doctrine that one must not propagate doctrines that contradict those sanctioned by one’s sovereign.[^103] Hobbes expresses the view of the injustice of Cromwell’s rule only under the rule of Charles II. This has been taken as evidence of Hobbes’s timidity or self-interestedness, but it is better explained in terms of Hobbes’s position that he should only express positions consistent with those of his sovereign. And the official position of his sovereign was very clear. To take just one example, Hobbes’s sovereign after 1660 required that his subjects acknowledge his restauration to the actual possession and exercise of his undoubted, hereditary, sovereign, and real authority over them (after sundry years forced extermination
 
 [^101]: Skinner points out that Filmer considers Hobbes and Ascham to be of the same party (*Visions*, 281: ‘Ideological Context’, 310 n. 193). Filmer does not group them because of their common endorsement of *de facto* theory, however, but because he thinks they agree (together with Grotius and Selden) that power is originally in the people, and that (along with ‘the heathen Philosophers’, the civil lawyers, Grotius, and Selden) they hold that there is an original condition of liberty (\[Filmer\], *Observations upon Aristotles Politiques, Touching Forms of Government,* *Together with Directions for Obedience to Governours in Dangerous and Doubtfull Times* (London, 1652), p. 45 and sig. A2<sup>v</sup>).
+
 [^102]: *Mr. Hobbes considered in his Loyalty, Religion, Reputation, and Manners* . . . (London, 1662), 8, 12, 25, 22 (*English Works*, iv. 415, 417, 423, 422). Cf., e.g., *Behemoth*, 131, 180.
+
 [^103]: For another attempt to articulate the doctrine of doctrines and interpret in light of it, see Kinch Hoekstra, ‘Tyrannus Rex *vs*. Leviathan’, *Pacific Philosophical Quarterly* 82/3, 4 (2001), esp. pp. 432–5, on Hobbes as a principled trimmer.
 
 *[p. 55]* ^pg66
@@ -97,7 +109,9 @@ If such evidence as there is for Hobbes’s acceptance of the basic thesis of th
 Ascham’s criticism is inaccurate, as Hobbes holds that some rights are inalienable, and allows a subject to be released from obedience when sovereignty is extinguished or transferred, or when the subject’s safety is immediately threatened. Nonetheless, other criticisms that Ascham levels against Hobbes make clear that their views of political obligation diverge at the root. The most involved of these is an argument that Hobbes is wrong to think that we surrender our right of private judgement upon entering civil society, for God allows citizens to retain this right, as shown by the ‘*Ius zelotarum*’ in the Jewish commonwealth. This was ‘a right of judging and
 
 [^104]: 12 Car. II cap. 14, ‘An Act for a perpetual anniversary thanksgiving on the nine and twentieth day of May’ (i.e. for the restoration). Cf., e.g., *An Act for Confirmation of Judicial Proceedings* (London, 1660), esp. pp. 8–9; and *A Proclamation of Both Houses of Parliament* (London, 1660), a proclamation of 8 May that Charles II became king at his father’s death and had only been kept by violence from his rightful throne.
+
 [^105]: This explains how Hobbes can say, in *Mr. Hobbes Considered* (p. 13: *English Works*, iv. 418), that the imposing of the Engagement was ‘a very great Crime’.
+
 [^106]: Ascham, *Confusions*, 121.
 
 *[p. 56]* ^pg67
@@ -109,11 +123,17 @@ Whether because Hobbes does not name his target, or because scholars have been c
 Hobbes specifies that the ‘English Books lately printed’ do not adequately explain ‘in what point of time it is, that a Subject becomes obliged to the Conquerour; nor what is Conquest; nor how it comes about, that it obliges men to obey his Laws.’[^110] In his book, Ascham had set out to explain just these matters. He distinguishes ‘*betwixt the over-running and the conquering of a Country, and secondly betwixt Conquest and Victory*’.[^111] Ascham cites the authority of Hobbes and Grotius at the outset of the first distinction, and launches his criticism of them after the second. Ascham argues that overrunning is seizure without the exercise of dominion, as in the mere looting of a country; victory is when a person or party replaces by war the one that had been governing, while leaving the systems of law and property in place; and conquest occurs when the victor changes these systems as well as replacing the former government.[^112] In chapter 20 of *Leviathan*, Hobbes had argued that the right of dominion comes about by the covenant or submission of the vanquished, and not by victory or conquest (which he apparently equates); he opposes one who ‘is Conquered; that is to say, beaten, and taken, or put to flight’ to one who ‘commeth in, and Submitteth to the Victor’.[^113] Now he
 
 [^107]: Ascham, *Confusions*, 121.
+
 [^108]: Review, par. 10, p. 392.
+
 [^109]: Review, paras. 10–11, pp. 392–3.
+
 [^110]: Review, par. 6, p. 390.
+
 [^111]: Ascham, *Confusions*, 119.
+
 [^112]: Ibid. 119–20.
+
 [^113]: *Leviathan* 20.11, p. 104. Fukuda notes that Hobbes’s vocabulary in this chapter is different from that in the Review (*Sovereignty and the Sword*, 61–6).
 
 *[p. 57]* ^pg68
@@ -127,6 +147,7 @@ It thus emerges that intellectual historians are right to think that in the Revi
 Hobbes can no more be grouped with the *de facto* theorists of obligation than he can be grouped with the royalists. Indeed, he rejects their central thesis, that we owe obligation to a power that is *de facto* but not *de jure*, and he pointedly criticizes and is criticized by their pre-eminent theorist, Anthony Ascham. Integral to Hobbes’s criticism is an insistence that one becomes obligated to obey a conqueror as one’s rightful sovereign if and only if one consents to his protection. This position also serves to distinguish him from the contemporary theorists who derive *de jure* authority immediately from *de facto* power, and their most prominent theorist, Marchamont Nedham. The supposedly *de facto* Review is particularly helpful in measuring Hobbes’s distance from this kind of *de facto* theory as well.
 
 [^114]: Review, par. 7, p. 391. The addition of ‘overcoming’ appears to be Hobbes’s adaptation of Ascham’s ‘over-running’, transposed to the individual scale Hobbes prefers to illustrate the distinctions, and again shorn of the content Ascham had attributed to it.
+
 [^115]: The vice of historians who insist that major political and intellectual upheavals must be reflected by adjustments in philosophy may be considered the excess corresponding to the deficiency of those who naively assume that a philosopher’s corpus has an underlying coherence regardless of the changing circumstances in which it was written. The latter is convincingly criticized by Skinner in *Visions of Politics, Volume 1: Regarding Method* (Cambridge: Cambridge University Press, 2002), 67–72.
 
 *[p. 58]* ^pg69
@@ -140,10 +161,15 @@ Of the other ‘English Books lately printed’, the one that Hobbes is most lik
 Like Ascham, Rous had argued that ‘those whose Title is held unlawfull, yet . . . may lawfully be obeyed’.[^118] Nedham appropriates Rous’s evidence and argument,[^119] but continues far beyond their original scope: ‘Thus by all the premises it is undeniably evident . . . that the present prevailing party in England have a right and just title to be our governors; and that this new government . . . is as valid, *de jure*, as if it had the ratifying consent of the whole body of the people.’[^120] Nedham’s case, however, is precisely that no such ratifying consent is necessary for the conquest to have taken place or for the new government to rule by right. To the ‘objection which insinuates that our present governors have no call or consent of the people’, Nedham flatly replies: ‘the controversy touching government is decided by the sword. For, *ipso facto*, the sword creates a title for him, or those, that bear it and installs them with a new majesty of empire, abolishing the old.’[^121] Nedham
 
 [^116]: As Wallace observes, ‘Nedham differs from other Engagers chiefly in being more explicit and uninhibited in his view of the conquest which has taken place’ (‘Engagement Controversy’, 399).
+
 [^117]: Review, par. 7, p. 391.
+
 [^118]: Rous, *Lawfulnes of obeying*, 6.
+
 [^119]: On p. 28 of *Case of the Commonwealth*, Nedham quotes without acknowledgement this passage (and more) from Rous. Nedham strikes out on his own from there, adding: ‘Nor *may* they only, but they *must*; . . . such as refuse may be punished as seditious and traitorous, the victors being ever allowed, *jure gentium* . . . to exercise a right of dominion over the conquered party.’ Nedham only alludes to his debts to Rous at a couple of places, and never by name. The first such point comes in discussing Henry VII: ‘This Henry, from whom the late King derived his claim, came in with an army, and, as one hath well observed, by mere power was made king in the army and by the army’ (p. 27). Nedham is quoting here from *Lawfulnes of Obeying*, p. 5; Rous’s own account of Henry VII is based on John Speed, *The History of Great Britaine under the Conquests of y*<sup>e</sup> *Romans, Saxons, Danes and Normans* (London, 1611), 710–52.
+
 [^120]: Nedham, *Case of the Commonwealth*, 40.
+
 [^121]: Ibid. 38. Invoking Christoph Besold’s 1620 *Synopsis politicae doctrinae*, Nedham maintains that a change of government may occur *either* by force and power, *or* by consent.
 
 *[p. 59]* ^pg70
@@ -155,10 +181,15 @@ Nedham’s rejection of the requirement of popular consent for the right of rule
 In his classic analyses of Hobbes and his relation to the *de facto* theorists, Skinner repeatedly elides Hobbes’s persistent prerequisite of the consent of the conquered. Both those who aligned themselves with Hobbes and those who distanced themselves from him characterized him as one who thinks that power alone gives the right of dominion, and Skinner uses this as evidence for the accuracy of his characterization.[^126] He maintains that Hobbes—along with Hawke, Nedham, and Ascham—holds that ‘the possession of power itself established a title to be obeyed.’[^127] Warrender succinctly points out the incompleteness of this account: ‘Hobbes cannot go the whole way with naive
 
 [^122]: Nedham, *Case of the Commonwealth*, 15, 19, 26.
+
 [^123]: Ibid. 36–7.
+
 [^124]: Review, par. 7, p. 391.
+
 [^125]: See, e.g., Clarendon, *A Brief View*, 59: ‘His Majesty is inherent in his office, and neither one or other is conferred upon him by the people.’ For Milton’s insistence on the consent of the people as a necessary condition for political authority, see especially *The Tenure of Kings and*
+
 [^126]: Skinner, ‘Ideological Context’, 301–3; cf. *Visions*, 271–3. *Magistrates* (London, 1649).
+
 [^127]: Skinner, ‘Ideological Context’, p. 307. Here the assimilation is with Hawke; on p. 312, a similar ‘Hobbesian defence of *de facto* power’ is attributed to Nedham and Ascham. Cf. *Visions*,
 
 *[p. 60]* ^pg71
@@ -170,11 +201,17 @@ Hobbes’s conclusions about the right of dominion and the obligation of obedien
 In addition, the account Skinner offers may overplay the uniqueness of *Leviathan*. The position he finds there is one that Hobbes also holds in *The Elements of Law* and in *De Cive*. Hobbes states in *The Elements of Law* that the victor obtains a right of dominion over the conquered by a covenant, which is a voluntary act; equates liberty with lack of subjection; distinguishes between the servant or subject who bound himself freely and the slave without obligation; insists that both sovereignty by mutual covenants of the subjects and sovereignty by covenant with a master are based on fear, and that actions done from fear are voluntary; and holds that
 
 [^128]: Warrender, ‘Political Theory and Historiography: A Reply to Professor Skinner on Hobbes’, *The Historical Journal* 22/4 (1979), 938.
+
 [^129]: Skinner, *Visions*, 232 (‘Proper Signification’, 146): Skinner is evidently working from *Leviathan* 20, where conquest and victory are synonyms, rather than the Review.
+
 [^130]: Skinner, *Visions*, 232 (‘Proper Signification’, 145 and n. 155); cf. *Visions*, 305 n. 116.
+
 [^131]: Skinner, *Visions*, 236 (‘Proper Signification’, 149).
+
 [^132]: Skinner, *Visions*, 236 (‘Proper Signification’, 149–50). On the Review, see *Visions*, 233–4,
+
 [^133]: *Visions*, 236 (‘Proper Signification’, 150). 237 (‘Proper signification’, 147–8, 151).
+
 [^134]: Cf. Review, paras. 5–6, pp. 390–1.
 
 *[p. 61]* ^pg72
@@ -186,10 +223,15 @@ Hobbes is concerned with liberty in the Review, as Skinner effectively underline
 Moreover, as Skinner himself compellingly demonstrated in earlier essays, a host of contemporaries read Hobbes as saying that power alone could confer right and require obligation. *De facto* theorists of authority claimed Hobbes as one of their own,[^138] and critics regarded him as the leading exponent of such a theory. At the University of Cambridge, Daniel Scargill is required to recant his Hobbesian tenet ‘that all right of Dominion is founded onely in power’, while at the University of Oxford, members are forbidden to read *De cive* and *Leviathan*, which are burnt for the teaching that ‘possession and strength give a right to govern’.[^139] John Bramhall thinks that Hobbes’s ‘greatest errour is . . . to make Justice to be the proper result of Power’;[^140] Samuel Parker thinks that according to the drift of
 
 [^135]: *Elements* 21.15, 22.2, 22.7, 29.2 (covenant with a conqueror is voluntary); 23.9 (liberty is the state of not being a subject, except for one sense); 22.2–3 (servants vs. slaves); 19.11, 12.3 (actions from fear voluntary); 15.13 (validity of covenants extorted by fear).
+
 [^136]: e.g. *De Cive* 2.16, 5.12, 7.18, 8.1–4, 17.6.
+
 [^137]: Again, this is ‘natural’ necessity: Hobbes emphasizes that people do act against the dictates of nature and reason. For an enlightening account of this emphasis, see S. A. Lloyd, *Ideals as Interests in Hobbes’s* Leviathan: *The Power of Mind over Matter* (Cambridge: Cambridge University Press, 1992).
+
 [^138]: e.g., Michael Hawke, *Killing is Murder and No Murder* (London, 1657), 12.
+
 [^139]: *The Recantation of Daniel Scargill, Publickly made before the University of Cambridge* . . . (Cambridge, 1669), 4 (cf. p. 1); *The Judgment and Decree of the University of Oxford Past in their Convocation July 21, 1683 .* . . (Oxford, 1683), 4.
+
 [^140]: Bramhall, *Defence of True Liberty from Antecedent and Extrinsecall Necessity* . . . (London, 1655), 85 (Hobbes, *English Works*, 136).
 
 *[p. 62]* ^pg73
@@ -199,10 +241,15 @@ Hobbes’s teaching, when men ‘have Power to shake off Authority, they have Ri
 If to be wrong in this sense is to attribute to Hobbes something he never said, these contemporaries were so far manifestly right. In passage after passage, Hobbes subscribes to some version of the thesis that sufficient power by itself confers the right to rule. In *The Elements of Law* he argues that ‘irresistible might in the state of nature is right’; that according to nature ‘*jus* and *utile*, right and profit, is the same thing’, and ‘in manifest inequality might is right’; and that ‘this right of conquest, as it maketh one man master over another, so also maketh it a man to be master of the irrational creatures.’[^144] The sovereign in a despotical or patrimonial state has all the same rights of sovereignty as a sovereign by institution, even though such a body is generated ‘out of nothing’ by ‘natural force’.[^145] In *De cive*, he maintains that ‘in the state of nature the Measure of *right* is Profit’, that ‘the victor may by *right* compel the vanquished, or the stronger the weaker’, and that ‘in the natural state of men, sure and irresistible power confers the right of ruling and commanding those who cannot resist’; and he concludes that ‘Those whose power cannot be resisted, and by consequence God *omnipotent*, derive the right of dominion from the *power* itself.’[^146]
 
 [^141]: \[Parker\], *A Discourse of Ecclesiastical Politie* . . . (London, 1670), 141.
+
 [^142]: Tenison, *The Creed of Mr. Hobbes*, sigg. b2<sup>r</sup>, A3<sup>v</sup>; cf. pp. 144–6, 152, 156–7.
+
 [^143]: Noel Malcolm, *Aspects of Hobbes* (Oxford University Press, 2002), 474 n. 63. Malcolm refers to criticisms of *De Cive* by Franz-Julius Chopius in *Philosophia juris vera* (Leipzig, 1650), and by Hermann Conring in a letter of 23 Jan. 1651.
+
 [^144]: *Elements* 14.13, 14.10, heading of 14.13, 22.9. For the last point, see *De cive* 8.10: ‘right over animals lacking reason is doubtlessly acquired in the same way as over the *persons* of men, by natural strength and power’ (‘eodem modo acquiritur ius in animalia ratione carentia, quo in *personas* hominum; nimirum viribus & potentiis naturalibus’).
+
 [^145]: *Elements* 23.10, 20.1 (cf. *De Cive* 9.10). He also distinguishes conquest and voluntary submission, while insisting that they do not entail any different rights of ruling.
+
 [^146]: *De Cive* 1.10 (‘in statu naturae Mensuram *iuris* esse Vtilitatem’), 1.14 (cf. n. 99, above), and 15.5 (‘Iis . . . quorum potentiae resisti non potest, & per consequens Deo *omnipotenti*, ius dominandi ab ipsa *potentiâ* deriuatur’).
 
 *[p. 63]* ^pg74
@@ -214,10 +261,15 @@ In *Leviathan*, too, Hobbes argues that sovereign right may arise from pact *or*
 These passages and others like them are frequent and central enough to preclude setting them aside as passing simplifications or exaggerations. Criticisms of the view that Hobbes holds that power justifies—including Skinner’s own later disavowal of that view—have relied solely on pointing out that it does not account for other passages that require consent, without providing any explanation of the kind of passages cited above. Hobbes repeatedly says that the right of the sovereign can arise from mere power;
 
 [^147]: *De Cive* 15.5 (‘Ius enim omne in alios vel à *Natura* est, vel à *Pacto*’) and 8.1 (‘*ciuitate naturali* . . . & *Acquisita* dici potest, quippe quae acquiritur potentiâ & viribus naturalibus’: cf. 5.12).
+
 [^148]: *Leviathan* 31.5, p. 187; 17.15, p. 88. In *Leviathan* 27.10, Hobbes says that men have ‘observed how in all places, and in all ages, unjust Actions have been authorised, by the force, and victories of those who have committed them’. Hobbes does not explicitly question this observation, but only the faulty reasoning by which false principles are drawn from it (that justice is but a vain word, that whatever a man can get is his own, etc.). If he does mean to question it implicitly, it is in the sense of Review, par. 8, pp. 391–2: actions that were unjust before one had sovereign power are not themselves retroactively justified by that power (though if the sovereign requires public acknowledgement of their justice, one must obey), while subsequent actions are just so long as power is retained.
+
 [^149]: Skinner, *Visions*, 235 (‘Proper Signification’, 149).
+
 [^150]: Review, par. 8, p. 391.
+
 [^151]: Review, par. 10, p. 392.
+
 [^152]: For an excellent discussion of the synonymy of these terms, see Luc Foisneau, ‘Le vocabulaire du pouvoir: *potentia/potestas, power*’, in Yves Charles Zarka (ed.), *Hobbes et son vocabulaire* (Paris: Vrin, 1992), 83–102. Because he believes that for Hobbes power justifies only in the case of God (cf. n. 160, below), Foisneau is driven to consider it a ‘misuse’ when Hobbes uses ‘potentia’ (i.e. mere power or strength) as if it were a further synonym in this chain: ‘strictly speaking, the right of sovereignty results from contract, and not at all from power’ (p. 95).
 
 *[p. 64]* ^pg75
@@ -233,7 +285,9 @@ AND ‘IS’ FROM ‘OUGHT’
 An initial way forward is to pick up the distinction mentioned above between two kinds of right. The first kind is a state-of-nature right, which one has without others having corresponding obligations. Everyone in the state of nature has the right to anything (or anything one judges to be necessary for self-preservation); so two or more people may have a right to a given thing that only one of them will be able to use or possess. The other kind, normally found within a commonwealth, is a right in virtue of which others are obligated to respect one’s entitlement. The right to rule can operate in either way. In the state of nature, anyone has the right to rule over anyone else; but if no agreement is made, then the ruled has no obligation of obedience. This distinction helps to explain some of the preceding passages: the right of dominion over animals, for example, is a right one has
 
 [^153]: *De Cive* 8.1.
+
 [^154]: \[Filmer\], *Observations Concerning the Originall of Government, Upon Mr. Hobs Leviathan, Mr. Milton against Salmasius, H. Grotius De Jure Belli* (London, 1652), sig. A4<sup>r</sup>,
+
 [^155]: Wood, *Athenae Oxonienses*, iii, cols. 1210, 1211. quoting the Review, par. 7, p. 391.
 
 *[p. 65]* ^pg76
@@ -245,9 +299,13 @@ This distinction is indispensable, but it does not explain all of the instances 
 A simple solution to it has been proposed. A fundamental premiss of important studies by Howard Warrender and Luc Foisneau, and accepted by many others, is that for Hobbes right can be derived from power only in the case of God.[^160] If this were accepted, no further consideration of the question of Hobbes’s derivation of right from human power would be required. Hobbes, however, endorses just such a derivation. He argues that the victor, by virtue of his greater *force*, may *rightly* compel, and that it is ‘in the natural state of *men*’ that ‘sure and irresistible power confers the
 
 [^156]: Note that Hobbes does say (e.g., at *Elements* 22.2) that even a covenant may merely make an already existing right ‘effectual’.
+
 [^157]: *De Cive* 15.5: cf. n. 146, above. Such a claim also shows the insufficiency of understanding Hobbes’s apparent equivocation about whether power justifies as an alternation between two senses of ‘power’, one of which connotes authority and the other mere power. In statements like this one, Hobbes is clearly restricting himself to the latter: his argument is about ‘power *itself* ’, from which the right of dominion is *derived*. (On contemporary usage, see \[Ascham\], *A Reply to a Paper of Dr Sandersons*, sig. A2<sup>r</sup> and p. 12; and Richard Tuck’s informative ‘*Power* and *Authority* in seventeenth-century England’, *The Historical Journal* 17/1 (1974), 43–61.)
+
 [^158]: *De Cive* 15.7: ‘nullo intercedente pacto, à naturâ oritur’.
+
 [^159]: *De Cive* 17.6: ‘neque obligatur quisquam ad obedientiam praestandam ante pactum initum’.
+
 [^160]: This is a basic point of Warrender’s *The Political Philosophy of Hobbes: His Theory of Obligation* (Oxford: Clarendon, 1957). See, e.g., p. 317: ‘Though there is a sense in which irresistible power obliges and justifies itself, less power does not, and for all the less degrees of power there is always a clear distinction in Hobbes’s doctrine between having the power to do something and having the right to do it.’ It is also central to Foisneau’s *Hobbes et la toute-puissance de Dieu* (Paris: Presses Universitaires de France, 2000): ‘the transformation of power into right only holds for God: the right of the stronger remains at the horizon of the human condition, but this horizon is by definition unreachable’ (pp. 3–4; cf. pp. 142–4, 148–50, 281–2, 398).
 
 *[p. 66]* ^pg77
@@ -257,11 +315,17 @@ right of ruling and commanding.’[^161] The principle that right derives from i
 In his dispute with Bramhall, Hobbes does say that ‘Power irresistible justifieth all actions really and properly in whomsoever it be found. Less power does not. And because such power is in God only, he must needs be just in all his actions.’[^165] Hobbes must mean ‘irresistible’ without limitation here, which is why such power is in God only and it justifies *all* his actions. Bramhall takes Hobbes to be limiting justification by power to God in this passage, but points out that ‘the same privilege which *T.H*. appropriates here to power absolutely irresistible, a friend of his in his book *de Cive* . . . ascribes to power respectively irresistible, or to Soveraign Magistrates . . . *T.H*. will have no limits but their strength. Whatsoever they do by power, they do justly.’[^166] Hobbes clarifies his position, not by denying that might makes right in the case of the human sovereign, but by affirming that only God has absolute right on this basis: ‘I said no more but that the Power which is *absolutely* irresistible makes him that hath it above *all* Law, so that *nothing* he doth can be unjust. But *this* Power can be no other than the Power divine.’[^167] Hobbes’s point is not that only absolutely irresistible
 
 [^161]: *De Cive* 1.14: ‘in statu *hominum* naturali, potentiam certam & irresistibilem, ius conferre regendi, imperandique’ (emphasis altered).
+
 [^162]: *De Cive* 1.14: ‘ex quo intelligitur etiam, tanquam corollarium’; ‘Potest autem victor victum, vel fortior debiliorem (vt sanus & robustus infirmum, vel maturus infantem) . . . *iure* cogere.’
+
 [^163]: *Elements* 14.13.
+
 [^164]: Ibid. 14.14. Hobbes’s examples of human irresistibility are typically of one individual wielding irresistible power over another; he recognizes that such irresistibility may be compromised by time (e.g., the infant may grow in strength), and also that it may be negated by number (e.g., the feeble may resist the strong if there are enough of them). In *Leviathan*, for example, Hobbes emphasizes the importance of confederacy or number at 13.1, p. 60; 13.3, p. 61; and 17.3, pp. 85–6.
+
 [^165]: *The Questions Concerning Liberty, Necessity, and Chance* (London, 1656), 89 (*English Works*, v. 116); cf. *Leviathan* 31.5, p. 187.
+
 [^166]: *Defence of True Liberty*, 82–3 (*Questions*, 101–2: *English Works*, v. 133).
+
 [^167]: *Questions*, p. 111, emphases added (*English Works*, v. 146).
 
 *[p. 67]* ^pg78
@@ -273,7 +337,9 @@ Hobbes explicitly holds that consent is a necessary condition for obligation and
 Hobbes employs a related and even more extended use of consent, giving rise to the temptation to describe authority and obligation as arising without consent. To retain for now the ambiguity about whether this is true consent or a mere ascription of consent, I shall call this ‘attributed consent’, ‘presumed consent’, or (following usage of the sixteenth and seventeenth centuries), ‘interpretative consent’. Hobbes argues that the covenant of obedience, usually thought to be undertaken through declaration by word or deed, can instead be *attributed* when a given will or intention can be understood or assumed. The argument, very briefly, is this.[^169] ‘Every man, not onely by Right, but also by necessity of Nature, is *supposed* to endeavour all he can, to obtain that which is necessary for his conservation’; ‘every man is *presumed* to do all things in order to his own benefit.’[^170] These are conclusions from Hobbes’s anthropology, his theory of human nature. To choose that by
 
 [^168]: Review, par. 7, p. 391; cf. *Questions*, pp. 136–7, 347 (*English Works*, v. 180, 453). The ‘mutuall Relation between Protection and Obedience’ (Review, par. 17, pp. 395–6) makes no mention of consent, as if obedience is due immediately to one’s protecting power; the consent must be implied or understood, as Hobbes’s discussion of the relation makes clear.
+
 [^169]: For a more detailed version of the argument, see Part Two of Hoekstra, *Thomas Hobbes and the Creation of Order* (forthcoming from Oxford University Press).
+
 [^170]: *Leviathan* 15.17 and 31, pp. 76, 78; emphases added.
 
 *[p. 68]* ^pg79
@@ -285,11 +351,17 @@ One can choose to emphasize that if consent follows from power, then power *alon
 Hobbes’s requirement that all obligation depends on consent (‘there being no Obligation on any man, which ariseth not from some Act of his own’[^176]) is often cited to show that he is, foundationally, a liberal of some kind, or that, more particularly, he is a consent theorist. However, the very ubiquity of consent, as the foundation of all obligations, has an opposite effect.[^177]
 
 [^171]: *Elements* 14.12.
+
 [^172]: Such a covenant is required by the law of nature, so it will be a dictate of moral duty as well as prudence (cf., e.g., *Leviathan* 14.3, p. 64).
+
 [^173]: *Questions*, pp. 136–7 (*English Works*, v. 180).
+
 [^174]: *Questions*, p. 137 (*English Works*, v. 180).
+
 [^175]: *Questions*, p. 136 (*English Works*, v. 180).
+
 [^176]: *Leviathan* 21.10, p. 111. Note that the requisite ‘Act’ need only be a sign of the will, and this can, in turn, be assumed in some circumstances without (or even in spite of) a contrary indication of the will. The will can be signified by silence or inaction in the face of what can be supposed to be a natural priority. Cf. *Elements* 23.11–15, 29.10; *De Cive* 2.18–19, 6.20, 7.17, 9.14–19, 17.27; *Leviathan* 14.8 (p. 66), 14.29–30 (p. 70), 18.17 (p. 93), 19.18–22 (pp. 100–1), 21.20 (p. 113), 22.11 (p. 117), 23.3 (p. 124), 27.28 (p. 157); *Behemoth*, 118.
+
 [^177]: In *Questions*, even moral requirements such as that not to kill are founded on consent; that consent is, again, the consent that can be presumed to be given to the necessary means for our survival. Hobbes argues that the law of nature itself is a law with our assent, and even that ‘the Law of Nature is the Assent it self, that all men give to the means of their own preservation’ (*Questions*, 137: *English Works*, v. 180). Elsewhere (e.g., *De Cive* 14.2, 16.10), Hobbes says that natural laws do *not* arise from consent; but he nonetheless insists that they are dictates of reason that ensure self-preservation (cf., e.g., *De Cive* 1.15, 2.1, 3.26–9, 3.32). If the laws of nature obligate without our consent, they will provide further bonds of obligation to protecting power: so, for example, the law of nature of gratitude requires those who have received a benefit from another not to cause him to regret having bestowed it (e.g. *Leviathan* 15.16, p. 75).
 
 *[p. 69]* ^pg80
@@ -301,8 +373,11 @@ In a number of passages where Hobbes has been taken to be outlining a contract b
 This explains how Hobbes appears to be a consent theorist and a *de facto* theorist of authority. If tacit and attributed consent count as consent, then he may be considered a thoroughgoing consent theorist. If they do not, then he is, after all, a *de facto* theorist of authority of a particular kind.[^181] And it is on this issue that there is an especially interesting connection with the major *de facto* theorists, for each one discussed above articulates a theory of attributed or interpretative consent.
 
 [^178]: *De Cive* 6.7, emphasis altered: ‘*necessarium* est ad singulorum conseruationem, vt sit *Concilium* aliquod *vnum*, vel *homo vnus* qui ius habeat . . . . Intelligendum ergo est singulos ciues in *vnum*, vel *hominem* vel *concilium* totum hoc *Ius belli* & *pacis* transtulisse.’
+
 [^179]: *Leviathan* 21.10, p. 111. Cf. *De Cive* 3.19: ‘The reason that dictates the end also dictates the necessary means’ (‘Ratio enim, quae iubet finem, iubet etiam media necessaria’).
+
 [^180]: *Elements* 20.5, emphases added.
+
 [^181]: This is not to say that he is not *also* a consent theorist: he certainly thinks that sovereign right can arise, for example, from explicit consent.
 
 *[p. 70]* ^pg81
@@ -314,7 +389,9 @@ And hence ariseth that which they call an Interpretative consent of the people; 
 The convergence on this peculiar conception of consent is intriguing. Hobbes would not have drawn on these theorists for his understanding of
 
 [^182]: Ascham, *Confusions*, 140, 146–7, 148.
+
 [^183]: Rous, *Lawfulnes of Obeying*, 2nd edn., pp. 16–17; cf. through p. 23, esp. p. 19: ‘Thus is the authority of Acting in this case grounded upon a tacite or implyed consent, which consent is the very dictate of nature or common reason, because it is better to have some justice then none at all, some coercive power and Government, then that all shall be left to disorder, violence, and confusion.’ Cf. also N. W., *Northern Subscribers Plea*, 5–6; and *The Exercitation Answered*, 50: ‘There is therefore a *Tacite*, and *Interpretative* consent of the people . . . when (as reason wills) they consent that the Power which is peaceably possest should Governe *pro tempore*, rather then that confusion and Warre should destroy the Common-Wealth. And such a consent is sufficient to constitute such a Magistrate.’ In criticizing Rous, the author of the *Exercitation* (p. 82) agrees with the acceptability of interpretative consent: ‘Every rationall man consents indeed that there should be order, property and right’, etc.; but he points out that this may lead to stipulative exclusion (‘you choose to suppose them that will not consent . . . to be out of the number of rationall men’), and questionable attribution (‘it will be difficult to finde out, and agree, when such an interpretative consent is given by the people’). He also makes the point that a *de facto* theorist of obligation has to explain how it is that the people can consent (interpretatively or otherwise) to the rulers over them without those rulers thereby becoming legitimate, against his supposition. In condemning the ‘Exercitator’, Filmer simply rejects the idea of such ‘supposed’ consent (*Observations upon Aristotles Politiques*, 40–1; but cf. p. 49, where he reflects the influence of the *de facto* theorists and relies on ‘presumed . . . will’).
+
 [^184]: Nedham, *Case of the Commonwealth*, 39–40. (The unnamed authority is again Rous: Nedham quotes the passage from *Lawfulnes of Obeying*, 2nd edn., p. 19, given in the previous note.) Cf. Nedham on Salmasius: ‘though such as are subdued by arms lose their power by force, yet, being necessitated to yield submission to the victor, he is supposed to rule over them by their own consent’ (*Case of the Commonwealth*, 130).
 
 *[p. 71]* ^pg82
@@ -324,7 +401,9 @@ attributed consent, as it is an important component of his theory from 1640.[^18
 At points in his writings, Hobbes seems to endorse royalism, a *de facto* theory of obligation, a *de facto* theory of authority, and consent theory. Faced with a brilliant philosopher who subscribes to such evidently contradictory doctrines, philosophers and historians tend to react differently; simplifying greatly, the difference may be crudely characterized as follows. Philosophers, presumably in the name of charity of interpretation, ascribe to Hobbes the view that they take to be strongest, and regard the others as more or less unfortunate utterances. Thus, they tend to focus on Hobbes the consent theorist, setting aside Hobbes’s apparent royalist and *de facto* claims. Historians are inclined instead to offer a developmental account, according to which Hobbes changed his mind over time as his circumstances changed. According to Tuck, for example, Hobbes was a royalist until late in *Leviathan*, at which point he abandoned royalism for *de facto* theory; whereas Skinner (in his more recent work on the subject) thinks Hobbes revises his view from something more like *de facto* theory to a clear statement of consent theory in *Leviathan*. Briefly, the problem with the philosophical approach is that it dismisses much of what Hobbes says.[^187]
 
 [^185]: For example, in the *Elements* Hobbes says that servants have ‘no other bond but a *supposed* covenant, without which the master had no reason to trust them’; and that ‘it is to be *presumed*, that he which giveth sustenance to another, whereby to strengthen him, hath received a promise of obedience in consideration thereof’ (22.3 and 23.3, emphases added; cf. 20.5, quoted above).
+
 [^186]: Moreover, the theory of attributed consent is not at this time the exclusive domain of *de facto* defenders of obedience to the Rump, for it is also found in the works of more activist and radical writers. So John Goodwin argues that ‘men’s consents unto all acts manifestly tending to their relief are sufficiently expressed in their wants and necessities’ (*Right and Might Well Met* (1649), in A. S. P. Woodhouse (ed.), *Puritanism and Liberty*, 2nd edn. (London: J. M. Dent, 1974), 216). See also *The Law of Freedom in a Platform: or, True Magistracy Restored* (London, 1652), at p. 538 of George H. Sabine (ed.), *The Works of Gerrard Winstanley* (Ithaca, NY: Cornell University Press, 1941).
+
 [^187]: If by utterance ‘*U*’ someone may as plausibly have meant *X* as *Y*, and if *X* and *Y* are inconsistent and *X* is a stronger theoretical view, then (other things being equal, and there being no other candidate interpretations) *X* should be attributed as the meaning of ‘*U*’. This is what charity of interpretation requires. If, however, someone expresses distinct views, then it should be a move of last resort (all else being equal) to set aside a weaker view as in some way not really that person’s view on the sole basis of his support for what is perceived as a stronger view inconsistent with it.
 
 *[p. 72]* ^pg83
@@ -362,7 +441,9 @@ TED H. MILLER
 What, if anything, makes *Leviathan* unique? Most readers will not be troubled to read more than one of Hobbes’s books, and *Leviathan*, his signature work, is their most likely choice. Asking the question may seem to be a way of asking what makes Hobbes unique, but for Hobbes scholars the question suggests something more complex. It asserts itself first against the background of a perceived similarity between the three systematic and comprehensive statements of his political philosophy. The two others are *De Cive* and *Elements of Law*.[^1] On second blush, *Leviathan* covers numerous facets of Hobbes’s philosophy, not merely his political philosophy, and this has meant that points of comparison also suggest themselves with Hobbes’s entire corpus.[^2] Thus, claims concerning *Leviathan*’s uniqueness have typically demanded that one show that there are real differences between the different versions of his political philosophy. The practice has become so well developed that we are now at the point where some interpreters have argued that differences thought to be appreciable are in fact only skin deep.[^3] *Leviathan*’s uniqueness has, however, proven a productive question. Although Hobbes scholars find themselves constrained to approach it in terms of comparisons between works, the conclusions have often included claims that purport to tell us what made Hobbes at least an
 
 [^1]: Howard Warrender’s edition of the seventeenth-century translation of *De Cive*, *Philosophical Rudiments Concerning Government and Society*, invites comparisons between *De Cive*, *Elements of Law*, and *Leviathan*, through the inclusion of marginal references to the corresponding, or non-corresponding, passages in the later two. These references and Warrender’s remarks on the preparation of the edition exemplify the tensions that the presumptive sameness between editions has created for Hobbes scholars: Thomas Hobbes, *De Cive: The English Version*, ed. Howard Warrender (Oxford: Clarendon Press, 1983), 11, *passim*.
+
 [^2]: See, e.g. F. S. McNeilly, *The Anatomy of* Leviathan (New York: St. Martin’s Press, 1968), especially Part I.
+
 [^3]: e.g. Johann P. Sommerville, *Thomas Hobbes: Political Ideas in Historical Context* (New York: St. Martin’s Press, 1992), 119–27, concerning what he suggests are merely superficial differences on matters of church authority between *De Cive* and *Leviathan*.
 
 *[p. 76]* ^pg87
@@ -376,7 +457,9 @@ Maturation has been a point of departure for many such claims concerning *Leviat
 The maturation theme carries through not only in interpretations that focus on specific philosophical arguments, but also in those that find significance in what is perhaps the most conspicuous difference—the style Hobbes employs in *Leviathan* in making his arguments. David Johnston and Quentin Skinner, among others, have offered arguments that stress the rhetorical character of *Leviathan*. They tell the story of a political philosopher whose intellectual development took him in one direction, but when later confronted with the exigencies of politics was forced to reverse course. For these authors Hobbes’s scientific career began with a break with humanism. Rhetoric may have been necessary equipment for humanist political practitioners, but Hobbes is said to have abandoned it for a new and more promising aid in political and intellectual combat: the more perfect reason of the New Science
 
 [^4]: David Gauthier, *The Logic of Leviathan* (Oxford: Oxford University Press, 1969), 99–177. Authorization and the alienation of right which he (later) took it to imply are central to his concerns. See David Gauthier, ‘Hobbes’s Social Contract’, *Nous* 22 (1988), 71–82.
+
 [^5]: On the timing and likely disappointments associated with the *Elements* see Ted Miller and Tracy Strong, ‘Meaning and Contexts: Mr. Skinner’s Hobbes and the English Mode of Political Theory’, *Inquiry*, 40 (Sept. 1997), 323–56.
+
 [^6]: McNeilly (1968). Thus, for McNeilly, Hobbes is not merely moving towards a more coherent doctrine in *Leviathan* than in *De Cive* and *Elements of Law. Leviathan* also represents an improvement over *De Corpore*, which he stresses was begun before *Leviathan* was composed. Here one might wonder why revisions that reflected an improvement in the philosophy would not be incorporated, especially when we consider some of the other frantic revisions incorporated into the text with regard to his attempt to square the circle.
 
 *[p. 77]* ^pg88
@@ -390,6 +473,7 @@ Like Skinner and Johnston, I believe that the rhetoric of *Leviathan* calls for 
 My goal here, therefore, is not to add or subtract from a detailed list of philosophical or theological arguments that may or may not make
 
 [^7]: Quentin Skinner, *Reason and Rhetoric in the Philosophy of Hobbes* (Cambridge: Cambridge University Press, 1996), chs. 6–8, and esp. 257, 282, 290, 299, 323; David Johnston, *The Rhetoric of* Leviathan (Princeton: Princeton University Press, 1986), chs. 1, 2, and esp. 23, 61, 65. These are by no means the only works that consider Hobbes’s use and/or rejection of rhetoric. Skinner’s bibliography cites many recent treatments.
+
 [^8]: Skinner (1996) chs. 9, 10, and Conclusion, esp. 346–56, 431–7; Johnston (1986), chs. 3–7, esp. 66–91, 98–106, 113, 119, 128–33.
 
 *[p. 78]* ^pg89
@@ -403,6 +487,7 @@ In the 1640s Hobbes became a well-known political philosopher. As noted, *De Civ
 The first printing of the second edition of *De Cive* included something that caused Hobbes great consternation when it was issued in 1647. The first page included a portrait of Hobbes and beneath it an inscription, ‘Serenissimo Principi Walliae à studiis praepositus’ \[Academic Tutor to His Serene Highness the Prince of Wales\]. Hobbes wrote to Sorbière in March 1647 in a panicked plea to remove as many copies of this *De Cive* from the shelves as possible. It would give the royal family’s enemies an excuse to associate Charles I with ‘a political theory which offended the opinion of almost everyone’. Enemies and critics, Hobbes noted, will suggest that it reveals the kind of sovereignty the embattled monarch would expect and demand. Hobbes feared being blamed for granting such a gift to the king’s opponents;[^10] he also feared that the title would prevent him from returning to England if ‘the desire to return ever comes over me’.
 
 [^9]: See Sorbière’s letters of 11 July 1645, and Hobbes’s letter to Sorbière, 16 May 1646. Printed in *The Correspondence of Thomas Hobbes*, ed. Noel Malcolm (Oxford: Oxford University Press, 1994), i. 121–3; 125–7; see also Malcolm’s biographical entry for Sorbière in ibid. ii. 893–9. His translation was entitled *Elemens philosophiques due citoyen Traicté politique, où les fondemens de la société civile sont decouverts*, and was published in Amsterdam in 1649.
+
 [^10]: It is worth noting that at this point Charles I was in captivity and was negotiating with multiple parties (the Parliament, the Scots, and ultimately the Army). His strategy, however unsuccessful, was to temporize and equivocate in these attempts at settlement. Any text which might pin Charles I to a particular set of expectations of how he would govern, let alone an absolutist doctrine, would indeed have been a disservice. A recent and detailed account of Charles I’s strategy and aspirations can be found in Robert Ashton, *Counter-Revolution: The Second Civil War and its Origins, 1646–1648* (New Haven: Yale University Press, 1994), esp. 7–42.
 
 *[p. 79]* ^pg90
@@ -416,9 +501,13 @@ His protests to the contrary, Hobbes’s employment at court was by no means a t
 In a prior letter Sorbière congratulates Hobbes, whom he pronounces *Vir Maxime* (‘most excellent Sir’), on being ‘promoted to the service of the Prince’. It was a well-deserved honor, he suggests, and goes on to note ‘How fortunate your country will be when it receives a King full of wisdom and imbued with your teachings!’. He also does nothing unusual in asking if ‘in your exalted position at Court’ Hobbes could ‘do anything’ for
 
 [^11]: Letter of 22 Mar. 1647 in *Correspondence*, 155–9. Cf. Thomas Hobbes, *Considerations on the Reputation, Loyalty, Manners*, *and Religion, of Thomas Hobbes of Malmesbury*, in *English Works*, ed. Molesworth, 11 vols. (London: John Bohn, 1839), iv. 415.
+
 [^12]: He was reappointed by Charles I as Gentleman to the Robes of the Prince. See Geoffrey Trease, *Portrait of a Cavalier: William Cavendish, First Duke of Newcastle* (New York: Taplinger, 1979), 76–7, 87, 90–104, 159, 167.
+
 [^13]: Somerville (1992), 21. The Earl of Clarendon’s attack upon Hobbes probably ought to be understood in light of the contention between Clarendon and Newcastle. Trease (1979) *passim*.
+
 [^14]: Letters from Hobbes available from this period are from both Saint Germain and Paris. See *Correspondence*, letters 40–62 (1646–8).
+
 [^15]: For a discussion of patronage and Charles II’s court see Gerald E. Alymer, ‘Patronage at the Court of Charles II’, in Eveline Cruickshanks (ed.), *The Stuart Courts* (Thrupp: Sutton Publishing, 2000). For a discussion of the importance of proximity in general in court settings see Norbert Elias, *The Court Society* (Oxford: Blackwell, 1983).
 
 *[p. 80]* ^pg91
@@ -436,8 +525,11 @@ The Prince of Wales arrived in Paris in 1646. Not long afterwards Hobbes was mad
 By this point in his career, Davenant was already a great success in operating the patronage system. From his origins as the son of an Oxford
 
 [^16]: Letter 44, late September 1646 in *Correspondence*, pp. 136–7.
+
 [^17]: *Correspondence*, 4 Oct. 1646 reply from Saint Germain, Letter 45, ibid. pp. 138–41.
+
 [^18]: Aside from Hobbes’s own protestations in his *Considerations*, see Glenn Burgess, ‘Contexts for the Writing and Publication of Hobbes’s *Leviathan*’, *History of Political Thought*, 11 (1990), 675–702, for the contextual evidence that *Leviathan* was a work of royalist persuasion, and not, as its critics such as Clarendon and Wallis charged, a work to justify by *de facto* power the rule of Cromwell.
+
 [^19]: In his Latin verse autobiography, Hobbes notes the return of the Prince of Wales and the start of this new book. A contemporaneous translation of the verse biography is reprinted in Curley’s edition of *Leviathan* (Indianapolis: Hackett, 1994). Pertinent passages are in lines 193–204. For the dates, see Skinner (1996) 330, 331, n. 38, who also notes the concordance with Hobbes’s *Considerations*.
 
 *[p. 81]* ^pg92
@@ -449,7 +541,9 @@ DAVENANT AND HOBBES: GENRE AND AUDIENCE
 Davenant’s *Gondibert* is an epic poem written with the aim of advising noblemen in the virtues (Davenant) thought appropriate to political affairs. It is a work of political education in poetic form.[^21] Its preface was addressed to Hobbes, and the philosopher reciprocated with an answer. In its preface the poet reports that Hobbes allowed him a ‘daylie examination’ of the text, and, perhaps anxious to advertise his association with a renowned philosopher, Davenant published ‘The Author’s Preface to His Much Honor’d Friend, M. Hobbes’ along with ‘The Answer of Mr. Hobbes to Sir Will. D’Avenant’s Preface before Gondibert’ in 1650 through a Parisian publisher; he registered *The Preface* on the Stationer’s Register in London on February 15 of that year.[^22] These early publications did not include the three (of the planned, but incomplete, five) books of *Gondibert*: they were first published in 1651. Scholars interested in *Leviathan*’s rhetorical characteristics have been attracted to Hobbes’s *Answer* as it announces an alliance
 
 [^20]: Arthur H. Nethercot, *Sir William D’avenant: Poet Laureate and Playwright-Manager* (Chicago: University of Chicago Press, 1938), 21–37, 166, 200–65, esp. 257.
+
 [^21]: Although much more might be said of *Gondibert*, its didacticism is quite evident. Aside from the dramatic action of the epic itself, Davenant employed some of the most straightforward didactic techniques of his day, including ‘Charactery’. The first book of *Gondibert* includes admiring portraits of, among others, King Aribert, who is made to exemplify, in what can be described as a Hobbesian way, the virtues of a militarily capable monarchy (William Davenant, *Sir William Davenant’s Gondibert*, ed. David Gladish (Oxford: Clarendon Press, 1971), 59).
+
 [^22]: *The Author’s Preface to His Much Honor’d Friend, M. Hobbes* in Davenant (1971), 3, Hereafter referred to as *Preface*. The Parisian publisher was Matthieu Guillemot, who brought out two editions, including what would have been an expensive de luxe octavo. For the publication history of the *Preface* and Hobbes’s answer see Nethercot (1938) 255.
 
 *[p. 82]* ^pg93
@@ -463,9 +557,13 @@ What has been most interesting in Davenant’s *Preface* and Hobbes’s *Answer*
 What would it mean for Fancy to take the philosopher’s part ‘upon himself’? Here one must refer to at least two examples from Hobbes’s
 
 [^23]: See the satiric *Certain Verses Written by severall of the Author’s Friends to be Re-Printed with the Second Edition of* Gondibert, in Davenant (1971) 272–87. Kevin Sharpe makes a plea for a more serious consideration of Davenant as a politically and socially engaged critic: Kevin Sharpe, *Criticism and Compliment: the Politics of Literature in the England of Charles I* (Cambridge: Cambridge University Press, 1987). Nethercot (1938) is a critical biographer, but see J. P. Feil, ‘Davenant Exonerated’, *Modern Language Review*, (July 1963), 335–42, and Mary Edmond, *Rare Sir William Davenant* (Manchester: University of Manchester Press, 1987), where some of Nethercot’s claims are contradicted.
+
 [^24]: *The Answer of Mr. Hobbes to Sir Will. D’avenant’s preface Before Gondibert*, in Davenant (1971), 54. Hereafter referred to as *Answer*.
+
 [^25]: Cf. *Elements of Law*, I. 13. 3; *De Cive*, ‘Dedicatory’; *De Corpore*, I. 7 (Thomas Hobbes, *English Works*, ed. William Molesworth, i (London: John Bohn, 1839), pp. 7–10.).
+
 [^26]: ‘Fancy begets the ornaments of a Poeme’ (Hobbes, *Answer*, in Davenant (1971), 49.
+
 [^27]: Ibid. 49–50.
 
 *[p. 83]* ^pg94
@@ -477,8 +575,11 @@ For our purposes, however, the more immediately interesting boundary-crossing is
 Skinner’s recent study deciphers the above passage in light of Hobbes’s observations in *Leviathan*’s ‘Review and Conclusions’ where Hobbes poses the problem of whether natural faculties held contrary can be reconciled in a single person. The natural faculties in question are ‘severity of judgment’ and ‘celerity of fancy’. Severity of judgment is a necessary characteristic among philosophers. Celerity of fancy is the characteristic associated with poets and eloquence. The poet’s faculty may be suspect. It clearly was in Hobbes’s earlier works, and the excesses of fancy arguably remain so
 
 [^28]: Much has been published recently on the subject. Here is a partial listing: Stephen Orgel and Roy Strong (eds.), *Inigo Jones and the Theater of the Stuart Court*, 2 vols. (Berkeley: University of California Press, 1973); Stephen Orgel, *The Illusion of Power* (Berkeley: University of California Press, 1975); R. Malcolm Smuts, *Court Culture and the Origins of a Royalist Tradition in Early Stuart England* (Philadelphia: University of Pennsylvania Press, 1987); Kevin Sharpe, *Criticism and Compliment: The Politics of Literature in the England of Charles I* (Cambridge: Cambridge University Press, 1987); Erica Veevers, *Images of Love and Religion: Queen Henrietta Maria and Court Entertainments* (Cambridge: Cambridge University Press, 1989); Hilary Gatti, ‘Giordano Bruno and the Stuart Court Masques’, *Renaissance Quarterly*, 48 (1995), 809–42.
+
 [^29]: A. P. Martinich, *Hobbes: A Biography* (Cambridge: Cambridge University Press, 1999), 88.
+
 [^30]: This is certainly supported by the text following the quotation: ‘He therefore that undertakes an Heroique Poeme . . . must not onley be the Poet, to place and connect, but also the Philosopher, to furnish and square his matter’ (Hobbes, *Answer*, in Davenant 1971), 50.
+
 [^31]: Thomas Hobbes, *The English Works*, vol. x.
 
 *[p. 84]* ^pg95
@@ -490,9 +591,13 @@ Here, then, is a key part of the argument made by Skinner that Hobbes reversed h
 For Hobbes and his contemporaries, eloquence was not merely a matter of technique, but a matter of persons. What does one’s writing or speech suggest about a person? What kinds of writing or speech are appropriate to a good citizen, courtly servant, client, or subject? Skinner rightly notes that Hobbes’s attacks upon eloquence in *De Cive* and *Elements of Law* contain an attack upon the *vir civilis*, the eloquent citizen capable of participating in public deliberations on political questions.[^35] Hobbes would have substituted the obedient subject for the talkative citizen. But one is left to wonder if the *vir civilis* is brought back on the scene with Hobbes’s about-face on rhetoric. I would suggest (whether or not we could discover a complete rejection of eloquence in Hobbes’s earlier works) that the *vir civilis* remains banished. The eloquence Hobbes employs and concerns himself with is that of the *vir maxime*, as Sorbière put it. His eloquence is that of the courtly denizen seeking to secure and maintain favor and honor.[^36]
 
 [^32]: Thomas Hobbes, *Leviathan*, ed. Edwin Curley (Indianapolis: Hackett Publishing, 1994), ‘Review and Conclusions’, sections 1–4 (subsequent references to *Leviathan* will refer to chapter number, or name where appropriate, and Curley’s numbered paragraphs—which in most cases track to the Molesworth edition); Skinner (1996), 352–3.
+
 [^33]: ‘wheresoever there is a place for adorning and preferring of error, there is much more place for adorning and preferring truth, if they have it to adorn’ (*Leviathan*, Review and Conclusions, 4).
+
 [^34]: Skinner (1996), 376–425.
+
 [^35]: Quentin Skinner, *Reason and Rhetoric in the Philosophy of Hobbes* (Cambridge: Cambridge University Press, 1996), 66–110, 284–93.
+
 [^36]: This strand of the humanist tradition is discussed ibid. 69–72, but Professor Skinner does not return to it. Skinner has, however, argued that *Leviathan* left the world with the legacy of an English style of philosophizing: droll, satiric, and unmercifully logical in its assault upon its opponents (ibid. 436–7). I am not questioning that this was Hobbes’s legacy, but I would suggest that Hobbes’s rhetorical efforts in *Leviathan* are the reflection of a context where more immediate forms of recognition were available to him.
 
 *[p. 85]* ^pg96
@@ -506,7 +611,9 @@ The vertues you distribute there amongst so many noble Persons \[in *Gondibert*\
 The second register does not invite a direct focus on the particular author, but on how the author’s work reflects upon the worldly and/or intellectual roles the author either possessed or claimed: poet, philosopher, historian, general, statesman, king, etc. The elevation of poetry, and therewith the
 
 [^37]: For a discussion of gift-exchange in the context of absolutism see Mario Biagioli, *Galileo,* *Courtier: The Practice of Science in the Culture of Absolutism* (Chicago: University of Chicago Press, 1993), 36–59.
+
 [^38]: Such works were to be monuments to the talents of their authors. See, for example, Davenant, *Preface*, Davenant (1971), 1, 15, 20, 22, 44. I have discussed Hobbes’s architectural sensibility in ‘Thomas Hobbes and the Constraints that Enable the Imitation of God’, *Inquiry* 42 (1999), 149–76, and ‘Oakeshott’s Hobbes and the Fear of Political Rationalism’, *Political Theory*
+
 [^39]: Hobbes, *The Answer*, Davenant (1971), 55. 29 (2001), 806–32.
 
 *[p. 86]* ^pg97
@@ -518,6 +625,9 @@ Public contemplation of the most effective means of imparting instruction, moreo
 On questions of genre, Davenant and Hobbes proved unique: neither were content to pick and choose between established learned forms. Both remain conscious of established genres and the scholarly roles and identities associated with them, but out of this consciousness they sometimes deliberately combine, and therefore cross boundaries between, identities and genres. This
 
 [^40]: Davenant, *Preface*, Davenant (1971), 27–41. Davenant boasts: ‘Poets (who with wise diligence study the People, and have in all ages, by an insensible influence govern’d their manners) may justly smile when they perceived that *Divines*, *Leaders of Armies*, *Statesman* and *Judges* think *Religion*, the *Sword* or . . . *Policy*, or *Law* . . . can give, without the helpe of the *Muses*, a long and quiet satisfaction in government’ (ibid. 32).
+
 [^41]: See, e.g. Sir Philip Sidney, *The Defense of Poesy* (1595), in *Sir Philip Sidney*, ed. Katherine Duncan-Jones (Oxford: Oxford University Press, 1989), 212–50.
+
 [^42]: For a recent treatment of Hobbes’s philosophy and *Leviathan* in the contexts of patronage relations see Lisa Sarasohn, ‘Was *Leviathan* a Patronage Artifact’, *History of Political Thought* 21 (2000), 606–31. Rhetoric and patronage dynamics are also discussed in Ted Miller and Tracy Strong, ‘Meanings and Contexts: Mr. Skinner’s Hobbes and the English Mode of Political Theory’, *Inquiry*, 40 (1997), 323–56.
+
 [^43]: Biagioli (1993). On this question in the Stuart context see Sharpe (1987).

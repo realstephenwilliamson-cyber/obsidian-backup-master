@@ -89,99 +89,195 @@ That is why the term *daat* is applied to coition,[^94] for it signifies a bond.
 There is also a faculty of *daat elyon*,[^96] which is the faculty of the bond and joiner of the *source* of the intellect [which apprehends the profoundness of the apprehended notion which is a point and a flash flashing over his intellect] so that it extends downward. Thereby the profoundness of the apprehended notion will come to be understood in the expansion of the elucidation, in length and breadth, which is the faculty of *binah*, referred to as *rechovot hanahar*,[^97] as will be explained in its place.
 
 [^1]: [[Proverbs 01#^1-6|Proverbs 1:6]].
+
 [^2]: [[Job 19#^19-26|Job 19:26]].—Cf. *Likkutei Torah*, *Emor* 31b; *Maamarei Admur Hazaken Haketzarim*, p. 264. See also *Pardes Rimonim* 4:6.
+
 [^3]: Par. [[Isaiah 12#^12-5|Isaiah 12:5]].
+
 [^4]: [[Psalms 103#^103-1|Psalms 103:1]].
+
 [^5]: *Berachot* [[Berakhot 10#10a|10a]]; *Tikkunei Zohar* 13 ([[Tikkunei Zohar 028a|28a]]). See also *Midrash Tehillim* (ed. Buber) 103:4, 5, and notes, ad loc. Cf. *Shomer Emunim* 2:9.
+
 [^6]: [[Torah 01 - Bereshit#^2-7|Genesis 2:7]].
+
 [^7]: See above, Epistle 12, note 48.
+
 [^8]: The lowest type of soul from the lowest of the cosmic realms; cf. above, Epistle 5, note 53.
+
 [^9]: Kabbalistic literature abounds with allegorical anthropomorphisms and references to categories represented by symbolic terms as “masculine” (generally: the emanating, influencing aspect) and “feminine” (generally, the recipient aspect); see *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-157b|I:157b]]; cf. *Bava Batra* [[Bava Batra 74#74b|74b]]; *Shomer Emunim* 1:26 ff. These terms apply generally to the *sefirot*: *chochmah* is *abba* (father), *binah* is *imma* (mother; or *imma ilaah*, superior mother), the lower *sefirot* are the “children”: *daat*, *tiferet*, or the *middot* from *chesed* to *yesod* as a whole correspond to *ben* (son) and *malchut* to *bat* (daughter; or *imma tataah*, the lower mother); see *Zohar* [[Zohar 9.15 - Idra Zuta#^z3-290a|III:290a]] ff.; *Pardes Rimonim* 8:17. The *middot (chesed* to *yesod)* form a configuration (*partzuf*) called *z’eyr anpin*. *Malchut* is called the configuration of *malchut*, *nukvah* (the female), or the “feminine aspect of *z’eyr anpin*.” (See Addendum, *Mystical Concepts in Chassidism*, s.v. *Partzufim*.) When the *middot* (the masculine aspect of *z’eyr anpin*) are united with *malchut* (the feminine aspect of *z’eyr anpin*), thus forming one complete *partzuf*, this *zivvug* (*conjunctio*) results in the “birth” of the effects of the *sefirot*: the realms, levels, or creatures, emanating therefrom. Every creation or derivation from the *sefirot*, thus, presupposes a *conjunctio* of the higher levels. Because the potential creation, as it is in the upper *sefirot (chochmah* and *binah*), becomes realized and manifest through the lower *sefirot* (the *middot* and *malchut*); generally we speak simply of the union of the latter, in terms of *zivvug zu”n*. (See more on this subject *below*, Epistle 20, note 62.)
+
 [^10]: Their “brains”; the upper *sefirot* (*chochmah*, *binah*, *daat*) from which the lower *sefirot* proceed.
+
 [^11]: The second and third highest of the soul-gradations, corresponding to *chochmah* and *binah* (see *above*, Epistle 5, note 55). The *mochin* (upper *sefirot*) are the soul-forces of the *zu’n* (the lower *sefirot*).
+
 [^12]: Hindersides; as opposed to *pnimiyut*, inwardness. While *pnimiyut* denotes the very essence, the innermost point, *achorayim* denotes extraneity, the point furthest removed from the essence, thus the lowest grade. (See Addendum, *Mystical Concepts in Chassidism*.)
+
 [^13]: Vessels; as opposed to *atzmut* (essence), or *orot* (lights). *Atzmut* and *orot* refer to the infinite Divine essence, and the Divine effulgence and emanation. The *kelim*, in turn, signify the qualitatively finitized screening, contraction, and concealment (*tzimtzum*) of the Divine emanation and life-forces so that they may become vested in, and animate, the finite beings. See *Likkutei Amarim*, Part II, ch. 4. See also *Etz Chaim* 2:3. (Addendum, ibid.)
+
 [^14]: The *sefirot* of *Asiyah*, thus, are the lowest and final rank of the sublime *sefirot* of *Atzilut*—which are divine, etc.
+
 [^15]: The “masculine” and the “feminine” (i.e., the *middot* and *malchut*) of *Atzilut*.
+
 [^16]: *Tikkunei Zohar*, Introduction 3b; see below, beg. of Epistle 20 and the notes, ad loc.
+
 [^17]: See *Likkutei Amarim*, Part I, ch. 18 and above, Epistle 4, note 25.
+
 [^18]: R. Dov Ber, the Maggid (Preacher) of Mezeritch (disciple of and successor to the Baal Shem Tov and principal master of the author).
+
 [^19]: [[Torah 04 - Vayera#^18-27|Genesis 18:27]].
+
 [^20]: I am dust and ashes.
+
 [^21]: See above, Epistle 2, note 9.
+
 [^22]: See above, Epistle 13, note 27.
+
 [^23]: V. L.: For therewith he loved.
+
 [^24]: *Bereishit Rabbah* 47:6. This expression signifies absolute self-abnegation and submission to G–d and the Divine will (just as the chariot is totally submitted to the will of the charioteer), thereby becoming a vehicle for Divinity on earth. See *Likkutei Amarim*, Part I, chs. 18, 23, and 34; cf. R. Chaim Vital, *Shaarei Kedushah* 1, end of 1. See also below, Epistle 25, and notes 31 ff., ad loc.
+
 [^25]: Par. [[Ecclesiastes 03#^3-20|Ecclesiastes 3:20]].
+
 [^26]: I.e., the element of earth.
+
 [^27]: Par. [[Torah 01 - Bereshit#^2-9|Genesis 2:9]].
+
 [^28]: Lit.: separate by thousands of separations.
+
 [^29]: *Berachot* [[Berakhot 31#31b|31b]]; *Sifra*, *Kedoshim*, *parshah* 10.
+
 [^30]: V. L.: It is known, in a general way.
+
 [^31]: Generally speaking there are seven classes of *middot*: *chesed*, *gevurah*, *tiferet*, etc. More specifically, these classes subdivide into numerous details: *chesed* of *chesed*, *gevurah* of *chesed*, *tiferet* of *chesed*, etc. (Cf. above, Epistle 13, note 22.)
+
 [^32]: *Rachamim*.
+
 [^33]: See *Pardes Rimonim* 23:8, s.v. *Mayim*, and cf. *Moreh Nevuchim* 3:53.
+
 [^34]: Beauty.
+
 [^35]: See H. V.
+
 [^36]: See above, Epistle 12, note 13.
+
 [^37]: Cf. *Mayim Rabbim 5636*, ch. 51.—*Chesed*, *gevurah*, and *tiferet* are the generality (i.e., the principal classes) of the *middot*. The other, successive attributes are branches or derivatives of these three. (Cf. Addendum, *Mystical Concepts in Chassidism*.)
+
 [^38]: In one version (*Or Hatorah*, *Bereishit*, vol. 1, 98b), this phrase “that is…diffusion” does not appear. See H. V.
+
 [^39]: Par. [[Proverbs 25#^25-11|Proverbs 25:11]].
+
 [^40]: The attributes of *netzach* and *hod*.
+
 [^41]: *Berachot* [[Berakhot 61#61a|61a]].
+
 [^42]: V. L.: and they are (i.e., *netzach* and *hod*). In the *Zohar* (see next note) the passage reads: “the two kidneys and the two testicles.”
+
 [^43]: *Zohar* [[Zohar 9.15 - Idra Zuta#^z3-296a|III:296a]]. See *Shaarei Orah* (Gikatilla), chs. 3 and 4, *Pardes Rimonim* 8:24, s.v. *Kelayot*, and ibid., 11, s.v. *Etzah*; cf. *Mevo She’arim* 3:2:7.
+
 [^44]: See *Likkutei Amarim*, Part I, ch. 2.
+
 [^45]: *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-236a|III:236a]] (cf. *Chagigah* [[Chagigah 12#12b|12b]]).
+
 [^46]: Brackets appear in the text.
+
 [^47]: The root of the word *netzach* means to prevail, to be enduring, victorious. See *Tikkunei Zohar* 13 ([[Tikkunei Zohar 028b|28b]]); see also *Zohar* [[Zohar 3.223b|III:223b]]. Cf. *Mayim Rabbim 5636*, ch. 52.
+
 [^48]: *Netzach* is bound to the “right side,” the side of *chochmah* and *chesed*—(*Tikkunei Zohar* 22 (68b); ibid., 30 (74a); see also *Zohar* [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-153b|III:153b]])—and seeks to have “white” (*chesed*) rule over “red” (*gevurah*; to which *hod* is related); *Zohar* [[Zohar 3.223b|III:223b]]. Cf. *Mayim Rabbim*, ibid.
+
 [^49]: The attribute of *gevurah*.
+
 [^50]: A parenthesis in the text states that according to some manuscripts there is an omission here in the text. The omission probably deals with an explanation of the function of the attribute *hod*.
+
 [^51]: [[I Chronicles 29#^29-11|I Chronicles 29:11]] alludes to the seven lower *sefirot* (*chesed*, or *gedulah*, to *malchut*). The allusion to the first five and the seventh of these is quite explicit. *Yesod*, the sixth, is expressed by the words כי כל בשמים ובארץ (lit.: for all that is in the heaven and in the earth). The *Zohar* quotes a *Targum* (see *Nitzutzei Orot* on *Zohar* III:257a) translating: “for it (i.e., כל, the *sefirah* of *yesod*) is united with (or unites) the heaven (*tiferet*) and the earth (*malchut*; *Knesset Yisrael*). See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-31a|I:31a]]; II:116a; III:257a; *Tikkunei Zohar*, Introduction 9b. See also *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-149a|I:149a]]-b and cf. *Pardes Rimonim* 23:11 and 15, *s.v*. כי כל, and סולם; *Mayim Rabbim*, ibid., ch. 54.
+
 [^52]: Brackets appear in the text.
+
 [^53]: These words do not appear in the quotation in *Or Hatorah* (see *above*, note 38).
+
 [^54]: Cf. *Eliyahu Rabbah*, ch. 27; *Taanit* [[Taanit 7#7a|7a]] (“I have learned from my disciples more than from any other”).
+
 [^55]: Lit.: with an expansion of *daat*.
+
 [^56]: Brackets appear in the text.
+
 [^57]: See Addendum, *Mystical Concepts in Chassidism*, ch. 1, note 6.
+
 [^58]: The *chitzoniyut*.
+
 [^59]: Acronym for the intellectual faculties: *chochmah*, *binah*, and *daat*.
+
 [^60]: [[Proverbs 12#^12-8|Proverbs 12:8]].
+
 [^61]: *De’ot* (plural of *daat*).
+
 [^62]: The rational soul (*nefesh hasichlit*) is the mediary between the natural soul (*nefesh*) and the soul proper (*neshamah*); see *Kitzurim V’Hearot*, pp. 86 ff., and the references cited there.
+
 [^63]: See *Etz Chaim* 49:3; *Likkutei Amarim*, Part I, ch. 7. (Cf. Maimonides, Intro. to Commentary on *Avot*, end of ch. 1.)—*Kelipat nogah* is the mediary between the realms of absolute evil and impurity and absolute good and holiness; see Addendum, *Mystical Concepts in Chassidism*, s.v. *Kelipot*.
+
 [^64]: Lit.: In absolute truth.
+
 [^65]: [[Job 31#^31-2|Job 31:2]]; see *Likkutei Amarim*, Part I, beg. ch. 2.
+
 [^66]: Par. [[Micah 7#^7-18|Micah 7:18]]—denoting G–d’s attribute of *chesed* which man is to imitate (see below, esp. note 68).
+
 [^67]: [[Torah 46 - Eikev#^11-22|Deuteronomy 11:22]].
+
 [^68]: See *Sifrei*, ad loc. (Deuteronomy 49); *Sotah* [[Sotah 14#14a|14a]]; Maimonides, *Sefer Hamitzvot* 1:8, *Hilchot Deot* 1:6, and *Moreh Nevuchim* 1:54.—By “imitating” the Divine attributes (*imitatio De-i*), one cleaves to G–d. To practice *chesed* (kindness) is an imitation of the Divine attribute of *chesed*. Thus this practice is “to G–d alone” a service of G–d.
+
 [^69]: *Yevamot* [[Yevamot 20#20a|20a]]; *Sifrei*, Deuteronomy 104.
+
 [^70]: *Avot* 1:1.
+
 [^71]: Cf. above, Epistle 13, note 29.
+
 [^72]: All these are modes of attitude or behavior utilizing the attribute of *gevurah* in the service of G–d.
+
 [^73]: The attribute of *tiferet* (the root of which, פאר, means to glorify, beautify).
+
 [^74]: These are the modes of attitude or behavior utilizing the attribute of *tiferet* in the service of G–d.
+
 [^75]: The attribute of *netzach* (see above, note 47).
+
 [^76]: Par. [[Isaiah 06#^6-3|Isaiah 6:3]].
+
 [^77]: See *Shaarei Orah* (Gikatilla), chs. 3 and 4, s.v. *Netzach*.—These are the modes of altitude or behavior utilizing the attribute of *netzach* in the service of G–d.
+
 [^78]: The attribute of *hod*. *Hod* is etymologically related to הודה, to laud, thank, acknowledge; see *Zohar* III:223a; *Tikkunei Zohar* 13 ([[Tikkunei Zohar 028b|28b]]); *Shaarei Orah* (Gikatilla), chs. 3 and 4, s.v. *Hod*. Prostration before G–d is coupled with the expression of gratitude (see *Berachot* [[Berakhot 34#34a|34a]]-b; *Bava Kama* [[Bava Kamma 16#16a|16a]]; cf. *Shaarei Orah*, ad loc. cit.).—See also *Mayim Rabbim 5636*, ch. 53.
+
 [^79]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|I:11b]].
+
 [^80]: See above, note 79.
+
 [^81]: Ibid.
+
 [^82]: Majesty and splendor ([[Psalms 104#^104-1|Psalms 104:1]]; see *Shaarei Orah* (Gikatilla), chs. 3 and 4, *s.v*. *Hod*).*—Hod* has a connotation of majesty and splendor referring to the Divine splendor and majesty inherent in G–d’s creation. This innate splendor and beauty makes creation becoming and befitting G–d. The awareness of *hod* as the innate Divine beauty should lead to *hod* in the sense of acknowledging, praising, and thanking G–d. And these are the modes of attitude or behavior utilizing the attribute of *hod* in the service of G–d.
+
 [^83]: The righteous is the foundation of the world ([[Proverbs 10#^10-25|Proverbs 10:25]]); the attribute of *yesod*.
+
 [^84]: Lit.: the Life of life (cf. above, Epistle 4, note 74).
+
 [^85]: See *Mayim Rabbim 5636*, ch. 55.
+
 [^86]: *Chagigah* [[Chagigah 14#14a|14a]]; *Zohar Chadash* [[Zohar 10.03 - Parashat Be-Reshit#^zh-4a|4a]]. Cf. *Sifrei*, Deuteronomy 13 (on [[Torah 44 - Devarim#^1-13|Deuteronomy 1:13]]; see *Rashi*, ad loc., and on [[Torah 21 - Ki Tisa#^31-3|Exodus 31:3]]).
+
 [^87]: [[Psalms 145#^145-3|Psalms 145:3]].
+
 [^88]: The “lower” or “inferior” awe. On this and the following terms see above, Epistle 6, and below, note 94.
+
 [^89]: *Tikkunei Zohar* 33 (76b) f. (Cf. *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|I:11b]]).
+
 [^90]: The “upper” or “superior” awe.
+
 [^91]: “Awed out of bashfulness”—before the infinite greatness of the L–rd (see *Zohar* III: 257a; *Tikkunei Zohar*, Introduction 5b, ibid., 6 ([[Tikkunei Zohar 024a|24a]]), 7 ([[Tikkunei Zohar 024a|24a]]), *et passim*). This type of awe is also called *yirat haromemut*, the awe before the majesty of G–d.
+
 [^92]: The “magnanimous” or “superior” love (*ahavah betaanugim*).
+
 [^93]: The “small” or “inferior” love.—On the gradations of all these levels see: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|I:11b]]; *Tikkunei Zohar*, Introduction 5a ff., and 30 (73b). See also *Chovot Halevovot*, *Shaar Ahavat Hashem*, esp. the Intro. and ch. 2 ff.; Maimonides, *Hilchot Yesodei HaTorah* 2:2 and 4:12; *Ikkarim* 3:32; *Likkutei Amarim*, Part I, ch. 40 ff. (esp. ch. 43); and below, Epistle 18.
+
 [^94]: E.g., [[Torah 01 - Bereshit#^4-1|Genesis 4:1]], 17, 25; *et passim*.—See *Tikkunei Zohar* 69 (99a).
+
 [^95]: The “lower” or “inferior” *daat*. It proceeds from and succeeds *chochmah* and *binah*, channelling them to the lower *sefirot*. See note following.
+
 [^96]: The “upper” or “superior” *daat*.—In the *sefirot* scheme of *yosher*, in which the *sefirot* form three parallel triads (*chochmah*-*chesed*-*netzach*; *binah*-*gevurah*-*hod*; *keter*-*tiferet*-*yesod*; see Addendum, *Mystical Concepts in Chassidism*, s.v. Body of the *Sefirot*), *daat* does not proceed from and succeed *chochmah* and *binah*, but *keter*. This is the faculty of *daat elyon*. *On* this level, *daat* unites the point of *chochmah* with *binah* by a radiation from *keter*. This is the essential, or original, union of these *sefirot* so that *chochmah* may be externalized in *binah*. That this union may bear offspring, i.e., that the radiation from *chochmah* and *binah* will extend into the lower *sefirot* (the *middot*) to irradiate them, this is the function or faculty of *daat tachton*. See *Etz Chaim* 8:3 f.; *Torah Or*, *Toldot* 19a ff. and *Mishpatim* 75b; *Likkutei Torah*, *Shir Hashirim* 30 ff.; Addendum, ibid., s.v. *Daat*, and Body of the *Sefirot*.
+
 [^97]: The widths (or expansions) of the river (*binah*); *Zohar* [[Zohar 8.09 - Idra Rabba#^z3-142a|III:142a]] (on [[Torah 08 - Vayishlach#^36-37|Genesis 36:37]]). See *Shaarei Orah* (Gikatilla), ch. 8; *Maamarei Admur Hazaken Haketzarim*, p. 266; and cf. *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-141b|I:141b]].

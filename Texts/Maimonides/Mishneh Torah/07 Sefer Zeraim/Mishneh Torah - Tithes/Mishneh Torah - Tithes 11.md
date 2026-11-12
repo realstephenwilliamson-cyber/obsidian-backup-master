@@ -73,54 +73,101 @@ What are laws that govern it? If the tasks necessary to prepare the produce were
 If he entrusted ordinary produce from which the required separations were made, he is not obligated to separate anything, for even if the gentile exchanged [it for his own], it is exempt. As we explained in *Hilchot Terumot*,[^47] [the obligation to tithe] is on "your grain," and not the grain of a gentile.[^48] ^11-15
 
 [^1]: Produce which definitely has not been tithed may not be sent even to a Torah scholar. It may, however, be sent to him in a pressing situation (Chapter 6, Halachah 6).
+
 [^2]: I.e., to Torah scholars, but not to common people, as stated in the previous halachah.
+
 [^3]: And the purchaser receives more than what he deserves [the Rambam's Commnentary to the Mishnah (*Demai* 2:4)].
+
 [^4]: Hence, the purchaser must assume that the produce is untithed.
+
 [^5]: A *se'ah* is 8.3 liter in modern measure according to *Shiurei Torah* and 16.2 liter according to *Chazon Ish*.
+
 [^6]: A *dinar* is a silver coin of significant value.
+
 [^7]: I.e., instead of weighing the produce, the seller gives the purchaser a full basket or container, whatever its weight might be. One might think that since the seller is selling by estimation, he is considered as being generous like the wholesalers mentioned above. The Rambam (based on *Demai* 2:5) teaches us that this is not so.  
     The Ra'avad questions the Rambam's ruling, noting that the mishnah quotes Rabbi Yossi as exempting the seller in this situation and does not mention a differing opinion. The Radbaz and the *Kessef Mishneh* explain that the wording of the mishnah indicates that Rabbi Yossi's view is being cited as a minority opinion and not as a view accepted by all.
+
 [^8]: I.e., he must make the required separations first.
+
 [^9]: I.e., the individual who would not be obligated to make the separations suggests that they be made as a joint effort, thus obligating himself even though he would otherwise be exempt (Radbaz in response to the Ra'avad).
+
 [^10]: I.e., the separations are not made equally.
+
 [^11]: And thus we cannot assume that the produce was tithed beforehand.
+
 [^12]: I.e., it is not considered as if he is exchanging one batch of produce for another and he is not required to separate tithes for his brother's portion. The rationale is that with regard to matters concerning Rabbinic Law, including *demai*, we apply the principle of *bereirah*, and retroactively - after the division of the property has been made - we consider that from the outset, it was as if the estate had originally been bequeathed to each of the sons separately, according to this division.
+
 [^13]: For we do not apply the principle of *bereirah* with regard to two different types of produce.
+
 [^14]: I.e., produce that is *demai* which had reached the stage where the tithes were required to be separated from it.
+
 [^15]: If produce is declared *hefker*, ownerless, before the obligation to tithe becomes incumbent upon it, there is no need to tithe it afterwards. If, however, that obligation has already taken effect, declaring produce ownerless does not remove that obligation (see Chapter 3, Halachah 20; Radbaz).
+
 [^16]: I.e., produce that is *demai* which had reached the stage where the tithes were required to be separated from it.
+
 [^17]: I.e., the owner of the store must consent to accept the produce, for as explained in the following note, the purchaser has already acquired the produce. See the Rambam's Commentary to the Mishnah (*Demai* 3:2).
+
 [^18]: According to Rabbinic Law, once a person draws movable property (the vegetables) into his possession, he acquires it. The fact that he does not perform any of the other activities mentioned does not detract from his acquisition. Hence, by returning it to the seller, he is in effect selling it back to him. Hence, he is required to tithe it.
+
 [^19]: Since the obligation to tithe will take effect when the person brings it home, we assume that he tithed it. Hence, the person who discovers it is not required to tithe it again [(the Rambam's Commentary to the Mishnah (*Machshirin* 2:10)]. It must be noted that the Radbaz and many other commentaries offer different interpretations of this law. Indeed, the Rambam in Chapter 3, Halachah 22, appears to operate according to another perspective.
+
 [^20]: The person bringing his produce to the marketplace may not tithe it until he reaches there, because until that point it is not common to partake of it in an substantial manner only as a snack. Hence, it is possible that it is *tevel* (*ibid.*). Nevertheless, the possibility also exists that the tithes have been separated and hence it is considered as *demai*.
+
 [^21]: As a safeguard. One might ask: Seemingly, the situation is a *sefek-sefeikah*, a situation where the doubt is compounded, i.e., perhaps it came from those who bring it home. Even if it came from those who bring it to the marketplace, perhaps these individuals tithed it. Nevertheless, extra stringency is shown with regard to the prohibition against *demai* than is shown with regard to other prohibitions (*Kessef Mishneh* to Halachah 13).
+
 [^22]: I.e., produce discovered in a community where it is customary to bring produce to the marketplace.
+
 [^23]: I.e., the members of his household who might partake of it under the impression that it has been tithed.
+
 [^24]: I.e., he took it without the intent of acquiring it as his own, but only to protect it from enemy armies, a fire, or the like [the Rambam's Commentary to the Mishnah (*Demai* 3:3)].
+
 [^25]: Without tithing it. Since he did not acquire it as his own, he is under no obligation to tithe it.
+
 [^26]: I.e., the leaves pruned by a gardener. Our translation is based on the Rambam's Commentary to the Mishnah (*Ediot* 3:3). Compare to *Hilchot Terumah* 11:10.
+
 [^27]: For they discard produce that is really unsuitable for ordinary consumption.
+
 [^28]: The tops and the stems of vegetables that are discarded by a homeowner when preparing the vegetables to be served.
+
 [^29]: For even though the homeowner may not desire to serve them, they are still fit to be eaten.
+
 [^30]: For they are no longer considered as food.
+
 [^31]: In his Commentary to the Mishnah (*Demai* 3:5), the Rambam explains that guests would give the mistress of an inn flour and meat and she would prepare meals for them. As the Rambam states, this woman is suspect to exchange the food given for other food of the same type, but of lesser quality. She rationalizes that since she cooks for her guests for little or no payment, she is entitled to make this exchange (*Chullin* [[Chullin 6#6b|6b]]).
+
 [^32]: I.e., he must tithe the produce he gives her, lest she give it to others and they partake of it without tithing it.
+
 [^33]: Lest she have given him untithed produce.
+
 [^34]: According to Jewish Law, marriage is a two-staged process involving *erusin*, "consecration," and *nisuin*, "marriage." After *erusin*, the marriage bond has been established and the woman cannot marry another man without a divorce. Nevertheless, the couple do not begin living together as man and wife until the second stage, *nisuin*. The Rambam is clarifying that even if the couple have not begun living together, he still trusts his mother-in-law.
+
 [^35]: I.e., we do not suspect that he gave produce from the sixth year and these women exchanged it for produce of the seventh year which is forbidden.
+
 [^36]: This appears to represent a reversal of the Rambam's ruling in his Commentary to Mishnah (*Demai* 3:6). The Radbaz explains that the Rambam's ruling here is based on the Jerusalem Talmud.
+
 [^37]: For even though she is not suspect to exchange, we fear that she used forbidden yeast or spices.
+
 [^38]: From which the tithes have already been separated.
+
 [^39]: Both with regard to tithes and the prohibitions of the Sabbatical year.
+
 [^40]: Though we suspect that he is lax in his observance of the mitzvah of tithing, we do not suspect that he will commit a transgression that involves a colleague's money (see *Gittin* [[Gittin 61#61b|61b]]).
+
 [^41]: Who also gave him wheat to grind without separating the tithes from it [the Rambam's Commentary to Mishnah (*Demai* 3:6)]. We do not know whether he tithed them. Therefore, they are considered as *demai*.  
     The Ra'avad questions the Rambam's ruling: Seemingly, the situation is one of compounded doubt (*sefek-sefeikah*). Perhaps the gentile did not exchange the grain. Even if he exchanged it, perhaps he exchanged it with grain from a common person which need be tithed only because of a doubt. (The Ra'avad himself accepts the Rambam's ruling, but uses it as support for his thesis that there is an obligation for a Jew to tithe produce belonging to a gentile if it comes into his possession, for he maintains that the possibility is that the gentile exchanged it with his own produce.)  
     The *Kessef Mishneh* does not accept that thesis and instead offers a resolution, explaining that extra stringency is shown with regard to the prohibition against *demai* than is shown with regard to other prohibitions. He supports that contention based on *Shabbat* [[Shabbat 23#23a|23a]] which states that the majority of the common people separate tithes and yet our Sages imposed stringencies.
+
 [^42]: With regard to produce given to a gentile for safekeeping, see Halachah 15.
+
 [^43]: Without tithing.
+
 [^44]: And is not involved in the management of every particular of its operation. This reflects a general principle with regard to questions involving the kashrut of a person's produce. As long as the owner makes his presence known from time to time, his workers - even gentiles - are not suspected to exchange his produce with other produce.  
     Implied is that if the owner does not enter from time to time, we would suspect that the worker would exchange the produce. The Radbaz notes that the previous ruling implies that a Jew who is a common person would not be suspect to exchange the produce even if the owner did not enter from time to time. He therefore suggests that this phrase be omitted from the text. There are, however, other commentaries who offer explanations why a manager is judged more stringently than the bailee mentioned in the previous halachah. After all, he is working on an ongoing basis.
+
 [^45]: *Hilchot Terumot* 1:11.
+
 [^46]: I.e., since it is possible that the gentile did exchange, it is possible that there is no obligation to tithe.
+
 [^47]: *Hilchot Terumot, loc cit.*.
+
 [^48]: We do not suspect that the gentile exchanged the grain with grain belonging to a Jew who did not separate the tithes, because it is not that common for people to entrust their produce to others. In contrast, people do bring containers of grain to a miller. Hence as mentioned in Halachah 13, we fear that the miller exchanged one person's grain with another's (the Radbaz and *Kessef Mishneh* in resolution of the Ra'avad's objections).

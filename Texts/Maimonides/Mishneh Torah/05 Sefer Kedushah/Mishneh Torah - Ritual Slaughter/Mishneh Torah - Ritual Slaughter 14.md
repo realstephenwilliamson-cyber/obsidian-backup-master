@@ -100,37 +100,69 @@ chapter: 14
 Blessed be G‑d who grants assistance. ^14-16
 
 [^1]: *Sefer HaMitzvot* (positive commandment 147) and *Sefer HaChinuch* (mitzvah 187) include this prohibition among the 613 mitzvot of the Torah.
+
 [^2]: Both a wild fowl and a domesticated one. One need not, by contrast, cover the blood of a domesticated animal that was slaughtered.
+
 [^3]: For it is forbidden to slaughter animals consecrated to the Temple treasury until they have been redeemed.
+
 [^4]: Because when the blood was poured out, it did not have a connection to the Temple treasury, and at that time, the person became obligated to cover it.
+
 [^5]: The commentaries to *Chullin* [[Chullin 83#83a|83a]] employ this interpretation with regard to a *kevi*, an animal which one opinion in *Chullin* [[Chullin 80#80a|80a]] understands as referring to an animal whose species could not be identified as a domesticated animal or a wild beast. The Rama (*Yoreh De'ah* 28:4) employs this concept with regard to a buffalo.
+
 [^6]: We are unsure of the status of this animal and do not know whether there is an obligation to cover its blood or not. Hence, we cover it, but do not recite a blessing, lest the blessing be recited in vain.
+
 [^7]: For covering it on the Sabbath would be a violation of the prohibition against performing labor.
+
 [^8]: He is required to cover the animal's blood because of the doubt as stated in the first clause. Nevertheless, he may not cover it on the festival, for perhaps he is not obligated to do so, and hence, will be performing a forbidden labor on the festival for no valid reason. For this reason, the *Shulchan Aruch* (*Yoreh De'ah* 28:3) rules that, as an initial and preferred option, one should not slaughter such an animal on a festival. See also *Shulchan Aruch* (*Orach Chayim* 498:18) which states that even if one has earth prepared before the festival so that covering the blood will not involve the transgression of a prohibition, one should not cover it on a festival because of the impression that will be created. People might think that it was definitely determined that it is a wild beast and may therefore partake of its fat [the Rambam's Commentary to the Mishnah (*Chullin* 6:1) based on *Beitzah* 8b].  
     See also the *Siftei Cohen* 28:10 which states that the blood must be poured out on the ground on the festival. It cannot be saved in a utensil (because of the prohibition mentioned in Chapter 2, Halachah 5) and spilled out after the festival.
+
 [^9]: I.e., it is not necessary to cover the blood immediately. Instead, one may wait until he has slaughtered all the animals he desires and then cover the blood.
+
 [^10]: For he has already fulfilled the mitzvah involved.
+
 [^11]: For the Torah's commandment obligates one to cover only blood that is apparent. If it is covered, there is no mitzvah involved.
+
 [^12]: Since the person never covered the blood himself, it is as if it was never covered. See *Pitchei Teshuvah* 28:4; *Magen Avraham* 586:6 which discuss whether there is a definite obligation to cover the blood in such a situation or there is an unresolved question and one does so because of the doubt involved. The question of whether or not to recite a blessing in this situation depends on the clarification of this issue.
+
 [^13]: Usually, a certain quantity of blood is poured out directly after the slaughter as well.
+
 [^14]: According to the Rambam's interpretation of the mishnah (*Chullin* 6:6), if there is other blood aside from this, it is sufficient to cover that other blood. It is not necessary to cover all the blood. The Ra'avad differs and maintains that all the blood must be covered. The *Shulchan Aruch* (*Yoreh De'ah* 28:15 follows the Rambam's view.
+
 [^15]: See Halachah 7.
+
 [^16]: This prooftext causes the ruling to be different from that applying to the prohibition against slaughtering an animal and its offspring on the same day. See *Chullin* [[Chullin 85#85a|85a]].
+
 [^17]: Which are forbidden to be eaten (Chapter 2, Halachah 2).
+
 [^18]: I.e., an animal or fowl that killed a human.
+
 [^19]: We have used a non-literal translation, for these individuals are not obligated in the performance of any mitzvot. See *Siftei Cohen* 28:24 which states that we are forbidden to cover this blood.
+
 [^20]: As stated in Chapter 4, Halachah 5, if these individuals slaughter privately, the slaughter is unacceptable. If, however, they slaughter in the presence of an expert and he states that they slaughtered correctly, the slaughter is acceptable and the blood must be covered.
+
 [^21]: Though this term is not found in the standard printed texts. It is found in authoritative manuscripts and early printings. The version of the standard printed text can be interpreted to mean that in this halachah, the Rambam is clarifying which other substances can be considered as "earth."  
     When quoting this law, the *Shulchan Aruch* (*Yoreh De'ah* 28:23) gives the following introduction: "Any substance in which seeds will grow is called סearth'.... If [seeds] will not grow in it, but it is called סearth,' we may cover [blood] with it."
+
 [^22]: This translation is based on the Rambam's Commentary to the Mishnah (*Ma'aser Sheni* 5:1). In his commentary to 3:7, 10:2, he interprets the term as "crushed earthenware." We, however, used the former translation to avoid redundancy. Others cite the interpretation of the *Aruch* who explains that the term refers to a type of lime.
+
 [^23]: The Hebrew term *afar* has both the meaning "earth" and "dust."
+
 [^24]: A blue-powder uses for makeup and medicinal purposes in Talmudic times.
+
 [^25]: I.e., the red heifer.
+
 [^26]: See Deuteronomy ch. 13 and *Hilchot Avodat Kochavim*, ch. , which explain that if an entire city is led astray and worships false deities, the city is condemned, the transgressors executed, and the city burnt. With the ruling in this halachah, the Rambam is explaining that although it is forbidden to benefit from the property - and even the ashes - of such a condemned city, its ashes may be used for this purpose. The rationale is that using the ashes for the mitzvah is not considered as benefiting from them, because the mitzvoth were not given for our benefit (*Chullin* [[Chullin 89#89a|89a]]).
+
 [^27]: Moreover, this earth must be loose. One should not slaughter over a place where the earth is hard [*Kessef Mishneh*; *Shulchan Aruch* (*Yoreh De'ah* 28:5)].
+
 [^28]: Even if the utensil contains murky water and thus the prohibition mentioned in Chapter 2, Halachah 5, does not apply.
+
 [^29]: One may, however, give another person the privilege of fulfilling the mitzvah. For that reason, there are many who ask the ritual slaughterer for the privilege of fulfilling the mitzvah of covering the blood after fulfilling the custom of *kapporot*. Nevertheless, one must ask the slaughterer for the privilege, one who takes it without asking is liable to pay the slaughterer a fine for "stealing" his mitzvah. See *Turei Zahav* 28:8.
+
 [^30]: *Chullin* [[Chullin 87#87a|87a]] states: "The one who סpours out its blood' should סcover it.'"
+
 [^31]: *Chullin, loc. cit.,* notes that the passage states: "And you shall say to the children of Israel," implying that the mitzvah is the concern of the entire people.
+
 [^32]: I.e., by kicking the earth over the blood.
+
 [^33]: As *Bereishis Rabbah* 44:1 states: "The mitzvoth were given to the Jewish people solely to refine the created beings with them." See also *Moreh Nevuchim*, Vol. III, ch. 26.

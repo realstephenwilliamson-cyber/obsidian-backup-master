@@ -149,16 +149,29 @@ The sin at Rephidim was that they desired a greater status, yet at that time it 
 **Torah:** [[Torah 16 - Beshalach#^17-8|Exodus 17:8]]
 
 [^1]: But rather He led them by a more circuitous way so it would be more difficult to return.
+
 [^2]: Like the word *Eitan*, meaning strength.
+
 [^3]: Evil force, or “shell.”
+
 [^4]: Apparently engaged in the act of fornication.
+
 [^5]: Like *pi haheiroot*, the mouth of liberty.
+
 [^6]: Perhaps a kind of “shrunken head.”
+
 [^7]: Though it must be investigated, for it says there in verse 36, “and the people held their peace … for the king’s commandment was, answer him not,” which seems like the response for Egypt.
+
 [^8]: Meaning that the period of *tsimtsum* was only for six days, and then on the seventh, “thus God saved,” meaning releasing them from restrictions and bringing them great salvations.
+
 [^9]: Remember the horror that the Egyptians would make bricks out of Jewish children.
+
 [^10]: *Eelaymim*, speechless, signifying unfathomable inwardness.
+
 [^11]: When God effuses *Kedusha* to the hearts of Israel, it proceeds level by level, first by way of the leaders of Israel, just as the Torah was given to Moshe and afterwards he taught it to the leaders of Israel until it finally reached the common folk, just in the same way each soul in Israel first receives in his consciousness [*da’at-Moshe*] until the *Kedusha* is fixed in all his limbs and organs, as it is written [Malachi, [[Malachi 3#^3-16|3:16]]], “then they that feared God spoke with one another, God heard it, and a book of remembrance was written before Him,” meaning that it was carved into the hearts of the children of Israel. We find that the beginning of the effusion of *Kedusha* is in the *Kedusha* of time, and time is only in the possession of God. Therefore women are exempt from positive mitzvot that are bound to time, for female teaches of being fixed in time without activity. However, women are required to perform *mitzvot* that are not bound to time, and this is the sign that this *Kedusha* is fixed in the hearts of Israel. Knowing this, Moshe had them move on, for whenever it is not yet fixed in the heart of man he can still enter into uncertainty, and enter this *Kedusha* into uncertainty, for it is not yet promised to him, so he may enter it into uncertainty on the possibility that he may gain even more. Yet when it is fixed in his heart, he is not permitted to enter [this *Kedusha* into uncertainty] for now it is certainly his and his possession, so once Moshe saw that the *Kedusha* was fixed in their hearts he had them move on. For truly all the *Kedusha* that man receives, when one receives goodness from God, there is a recognition of His greatness all the time that it resides in his intellect. It is brilliantly clear and cannot be brought to a place that is not God’s will. Yet when it is fixed in the body, then the brilliant clarity is hidden from man and with this added strength he might use it to do an unwarranted activity. For this reason our sages enacted that we say the *ketoret* (incense offerings) after every [morning] prayer, because the word *ketoret* is related to the word *ketira*, connection, meaning connecting everything, to make sure that this newly gained strength [from the newly gained *Kedusha*] does not enter into a realm that is not God’s will [that it be connected to the will]. And this incident actually caused Miriam to speak against Moshe, so therefore she is called here “Aharon’s sister,” for Aharon was also caught in this [as mentioned in Rashi]. Even though the illumination of God brings strength to man, yet indeed it does not have to be the source of distress of any man, which is a place that is not God’s will. So therefore Moshe had them move onward. (Excerpt from *Giliyon Mei HaShiloach*.)
+
 [^12]: Or empathy. See Kaplan, “Inner Space,” ch. 6-8
+
 [^13]: These could be variously interpreted as pertaining to many different situations, the theme of adultery or licentiousness being only one very important application.
+
 [^14]: Rashi says on this verse, “because of the plagues on Pharaoh and the war with Amalek, Yitro became wise and converted.”

@@ -103,7 +103,9 @@ The teachings of the school are based on the *Hua-yen ching* (Flowery Splendor S
 Fa-tsang became a monk at twenty-eight. There is a record that he assisted Hsüan-tsang (596-664) in his translations,[^3] but finally left because he did not agree with him. Since Hsüan-tsang died before Fa-tsang was twenty or had joined the order, the record is probably fiction. But the point the story is intended to make is significant, for the doctrines of the Hua-yen and the Consciousness-Only Schools are strongly opposed at many points. Fa-tsang wrote some sixty works, the most important of which are devoted to the exposition of the Hua-yen philosophy. He enjoyed the strong favor and support of Empress Wu (r. 684-705), who commanded him to lecture on the new translation of the *Avatamsaka* in 699 in a temple. According to the story, his lecture was so moving that "even the earth shook"! About 704 he lectured before the empress' palace and, finding philosophy too abstruse for her to comprehend, used
 
 [^1]: *Avatamsaka sutra* in Sanskrit. There are three Chinese translations: the 60-chapter version of 420 by Buddhabhadra (359-429), TSD, 9:395-788, which is the standard text; the 80-chapter version of 699 by Sikshananda (652-710), TSD, 10:1-444; and the 40-chapter version of 798 by Prajña (date unknown), TSD, 10:661-851). The last version is but one of the 40 sections of the former two scriptures, and of which alone there is in existence the Sanskrit original, called the G*andav yuha* (Detailed Description of Flowery Splendor). The following references are to the 60-chapter version.
+
 [^2]: It is called Kegon in Japanese, *kegon* being the Japanese pronunciation of *hua-yen.*
+
 [^3]: See above, ch. 23, Introduction.
 
 *[p. 407]* ^pg434
@@ -119,6 +121,7 @@ The basic principle underlying this perfect harmony is the simple idea of interp
 So far the Hua-yen system seems to be identical with that of T'ien-t'ai or at most an elaboration of it. Actually, it is a definite advance. The Perfect Harmony in T'ien-t'ai is arrived at through the mutual inclusion of their Ten Characters of Thusness. That of Hua-yen, on the other hand, is arrived at not only through mutual inclusion but, more important, through mutual implication. Dharmas do not merely depend on and correspond to each other. They imply each other as well, for their character of specialty, for example, implies generality, and vice versa. It is this type of interrelationship that makes the one, all, and the all, one, and the entire universe a complete concord. Since dharmas have no substance of their own, they are empty. It is precisely this Emptiness that combines them in these mutual relationships. In a real sense, dharmas exist only in
 
 [^4]: For Fa-tsang's biography and these stories, see S*ung kao-seng chuan* (Biographies of Eminent Monks Compiled in the Sung Period \[988\]), ch. 5, TSD, 50:732. His family was originally from Sogdiana in present Sinkiang and Russian Central Asia. Before he joined the Buddhist order, he had studied the Hua-yen philosophy extensively.
+
 [^5]: See Appendix, comment on *Fa* for the meaning of dharma.
 
 *[p. 408]* ^pg435
@@ -168,9 +171,13 @@ It means that at the moment when we see the lion come into existence, it is only
 8 *Hsiang* in Chinese and *lakshana* in Sanskrit, meaning feature, form, appearance, etc. It is contrasted with the nature of a thing.
 
 [^9]: *Rupa,* meaning form, appearance, phenomenon, color, etc.
+
 [^10]: *Parikalpita.*
+
 [^11]: *Paratantra.*
+
 [^12]: *Parinishpanna.*
+
 [^13]: See above, ch. 23, sec. 8.
 
 *[p. 410]* ^pg437
@@ -228,7 +235,9 @@ at the gold, there is only the gold and no lion. This means that the gold is man
 (9) The lion is a dharma produced from causes, coming into existence and going out of existence at every moment. Each of these instants is divided into three periods, that is, past, present, and future, and each of these periods contains past, present, and future. Altogether there are three times three units, thus forming nine ages, and these, grouped together, become the total gate \[to truth\]. Although there are nine ages, each separate from the other, yet, since they are formed because of one another, they are harmoniously merged and mutually penetrated without obstacle and together constitute one instant of time. This is called the gate of different formation of separate dharmas in ten ages (the nine ages separately and all of them together).
 
 [^16]: Indra is King of Heaven in Hinduism, who fights demons with his thunderbolt. Buddhism adopted him as its defender, but he is considered to be inferior to the Buddha. His net is a favorite Buddhist metaphor. The net is decorated with a bright jewel on each knot of the mesh. Each of these many jewels reflects not only the image of every other jewel, but all the other jewels, and so on to infinity.
+
 [^17]: *Avidya,* notably ignorance of facts and principles about dharmas.
+
 [^18]: This is *alaya* consciousness. For its characterization, see above, ch. 23, sec. 3.
 
 *[p. 413]* ^pg440
@@ -250,6 +259,7 @@ The lion represents the character of universality. The five sense organs, being 
 When we look at the lion and the gold, the two characters both perish and afflictions resulting from passions will no longer be produced. Although beauty and ugliness are displayed before the eye, the mind is as calm as the sea. Erroneous thoughts all cease, and there are no compulsions. One gets out of bondage and is free from hindrances, and for-
 
 [^19]: These are the two translations of the word. It denotes perfect wisdom.
+
 [^20]: That is, in the state of Thusness (*Tathata*), devoid of characters.
 211\. *1-ch'ieh-chung chih* in Chinese; it means that one knows from one kind of knowledge all the ways of the various Buddhas. It is the highest of the Three Wisdoms, namely, the wisdom of Buddha's Direct Disciples, who know the character of universality of the emptiness of all dharmas; the wisdom of bodhisattvas or saints, who know the character of specialty, that is, differences and diversities; and the wisdom of the Buddhas, who know both. Thus the last types of wisdom include the preceding two.
 
@@ -275,6 +285,7 @@ All beings arise through causation, and being is necessarily manifested in many 
 For example, when dust (that is, a small particle of matter) is perceived, it is a manifestation of one's own mind. Since it is manifested by one's own mind, it means that one's own mind is the cause. It is only because the cause reveals \[objects\] before us that dharmas of the mind arise. This is why the dust is called a dharma arising through causation. The scripture says, "All dharmas arise through causation. Without causes, they will not arise."[^22] The causes for our sinking in the sea of suffering do not exist externally. In the final analysis there is no dharma outside the mind that can serve as its cause. Although the dust is distinct, it still clings to no \[external\] cause. But the character of this round small particle of dust arises on the basis of dharma, is a false construction, and seems to exist, but ultimately has no real substance. One can neither be attached to it[^23] nor renounce it, and because one cannot be attached to it or renounce it, we know that the substance of the dust is empty and devoid of all things. Now that we understand that causes are really not causes, any arising will be wonderful. So long as the substance of things arising through causation is void, there will never be any arising even though there seems to be, and if it is understood that substance is in accord with causes, there will always be arising even though there seems to be none. Such a view is called real knowledge and perception.
 
 [^22]: Source unidentified. A similar saying is found in *Hua-yen ching,* sec. 10, pt. 1, TSD, 9:442.
+
 [^23]: The word *ch'ü* here is not to be understood as to take, apprehend, seize, or accept, but to cling to or to be attached to.
 
 *[p. 415]* ^pg442
@@ -357,7 +368,9 @@ It means when the dust floats gently around following the wind, that is activity
 From the above principles, the theory of things coming into existence through causation is unfathomable; thus its many gates are universally alone. All things are exhaustively combined as one, and all infinities are
 
 [^31]: *Hua*-*yen ching*, sec. 10, pt. 2, TSD, 9:443.
+
 [^32]: *ibid.,* sec. 20, TSD, 10:101.
+
 [^33]: *Vimalakirtinirdesa sutra* (Scripture Spoken by Vimalakikti), sec. 5 (with slight alteration), TSD, 14:544.I am grateful to Professor Nakamura Hajime of the University of Tokyo and Professor Mou Tsung-san of Hong Kong for this information.
 
 *[p. 420]* ^pg447
@@ -449,7 +462,9 @@ Literally, the name of the school should be Meditation, for the Sanskrit *dhyana
 Tradition traces the beginning of the school to Bodhidharma (fl. 460-534), whose historicity has been questioned in the West. Most Chinese and Japanese scholars, however, are satisfied that he did come to China.[^3-p425] But a clear picture of the school did not emerge until Hung-jen
 
 [^1-p425]: Hu Shih, "Ch'an (Zen) Buddhism in China: Its History and Method," *Philosophy East and West,* 3 (1953), p. 12.
+
 [^2-p425]: Suzuki, "Zen: A Reply to Hu Shih," *ibid.,* p. 40.
+
 [^3-p425]: See Hu Shih, *Hu* S*hih lun-hsüeh chin-chu* (Recent Essays on Learned Subjects by Hu Shih), 1931, pp. 486-487, Tang Yung-t'ung, *Han Wei Liang-Chin Nan-peich'ao Fo-chiao shih* (History of Chinese Buddhism from 206 B.C. to A.D. 589), Shang-hai, 1938, pp. 779-780, and Lo Hsiang-lin, *T'ang-tai wen-hua shih* (History of the Civilization of the T'ang Dynasty, 618-907), Taiwan, 1955, pp. 110-123. Tradition said that Bodhidharma came to Canton in 520 or 527. Hu rejects these dates and said he came during 470-475. Lo believes he arrived between 465 and 524. T'ang thinks he died in China before 534. For his biography see *Hsü kao-seng chuan*
 
 *[p. 426]* ^pg453
@@ -477,6 +492,7 @@ The two schools are usually distinguished by the fact that while the Northern Sc
 Both schools started from the major premise that Nirvana is identical with the original substance of the Buddha-mind, which is the same as Buddha-nature, and that Buddha-nature is in all men so that all can become Buddhas. So far both schools remain within the Buddhist traditions of idealism and universal salvation. But while the Northern School teaches that the pure mind arises from absolute quietude and does so only after erroneous thoughts are eliminated, the Southern School insists that the mind cannot be split into parts and that all its activities are functions of Thusness (True Reality).[^10-p427] Consequently, the mind cannot be divided into the true mind without differentiation, on the one hand, and the false mind with differentiation, on the other. Furthermore, the
 
 [^9-p427]: For his biography see *Sung kao-seng chuan,* ch. 8, TSD, 50:756-757 and *Ching-te ch'uan-teng lu,* 5:24a-b. His dates are usually given as 668-760, but after recent research Hu Shih decided on 670-762. See *Bulletin of the Institute of History and Philology, Academica Sinica,* 29 (1958), p. 875; extra vol. 4 (1960), p. 6. He studied Confucianism and Taoism before be became a Buddhist priest. After he was thirty, he went south to see Hui-neng. Much affected, he returned north to preach the doctrine of sudden enlightenment. In 720 he was appointed to be a priest in Honan and in 745 he was invited to live in a temple in the eastern capital, Lo-yang. Eight years later he was banished to Kiangsi because he was suspected of "gathering large crowds with harmful motives."
+
 [^10-p427]: For this concept, see above, ch, 24, n.19.
 
 *[p. 428]* ^pg455
@@ -500,8 +516,11 @@ But the most puzzling technique is that of shouting and beating. Even these are 
 It was inevitable that such a philosophy would exercise a profound influence. Its impact on Chinese philosophy was great. The new doctrine of seriousness (*ching*)[^16-p429] in Neo-Confucianism was one of its direct products, and the whole idealistic Neo-Confucian movement of several hundred years, initiated by Lu Hsiang-shan (Lu Chiu-yüan, 1139-1193) and culminating in Wang Yang-ming (Wang Shou-jen, 1472-1529), was so much influenced by it that it has often been called Zen in Confucian
 
 [^13-p429]: *Kung-an* in Chinese and *koan* in Japanese.
+
 [^14-p429]: *Ts'ao-shan Pen-chi Ch'an-shih yü-lu* (Recorded Conversations of Zen Master Pen-chi, 840-901), TSD, 47:539.
+
 [^15-p429]: *Ching-te ch'uan-teng lu,* 19:14b. One of the most famous *koans. Pi-yen lu* (Records of the Green Cave), no. 12.
+
 [^16-p429]: See Appendix for comments on *Ching.* Also see below, ch. 34, comment on sec. 12, and lists of topics in chs. 31 and 32.
 
 *[p. 430]* ^pg457
@@ -521,6 +540,7 @@ The Great Master reproved me, saying, "You are from Ling-nan, and, furthermore, 
 I answered, "Although people are distinguished as northerners and southerners, there is neither north nor south in the Buddha-nature. The
 
 [^17-p430]: These selections are made from the oldest version of the *Liu-tsu t'an-ching* discovered in a Tun-huang cave in 1900. In 1907 Sir Aurel Stein brought it to the British Museum. It contains about 11,000 Chinese characters and is included in TSD, no. 2007, 48:337-345. There are many mistakes in the Tun-huang copy. In these selections, the most obvious mistakes have been corrected. Minor corrections, however, have not been noted in footnotes. Sectioning follows the collated edition by Suzuki Teitaro and Kuda Rentaro, published in Tokyo in 1934, entitled *Tonko shutsudo Rokuso dankyo* (The Platform Scripture of the Sixth Patriarch Uncovered at Tun-huang). For a complete translation and a lengthy discussion of this Tun-huang manuscript, see Wing-tsit Chan, trans., *The Platform Scripture, The Basic Classic of Zen Buddhism,* St. John's University Press, 1963. There are five later versions of the *Liu-tsu t'an-ching.* The latest version (TSD no. 12008, 48:345-365) is dated 1291. It is included in the Ming dynasty (1368-1644) editions of the Buddhist Canon of 1420-1440 and is therefore generally called the Ming Canon version. It has been in general use for centuries. For two English translations and a partial German version, see Bibliography under "Hui-neng." The Tun-huang version bears a very long title, of which *Liu-tsu* .... *t'an-ching* is only a part, and ascribes it to Hui-neng. Dr. Hu Shih thinks that it was probably by an eighth-century monk, most likely a follower of Shen-hui's school *(Philosophy East and West,* 3 \[1953\], p. 11). In any case, the later the version was, the more additions and interpolation, so that the Ming Canon version is twice as long as the oldest text. However, elaboration does not alter the general story or the fundamental teachings.
+
 [^18-p430]: Literally "South of the mountain ranges," in the region of present Canton in South China.
 
 *[p. 431]* ^pg458
@@ -546,8 +566,11 @@ Do not allow it to become dusty.
 8\. . . . . I (Hui-neng) also composed a verse.... My verse says:
 
 [^19-p431]: Insertion according to Ui Hakuju, *Zenshushi kenkyu* (Studies in the History of Zen), vol. 2, Tokyo, 1941, p. 119.
+
 [^20-p431]: A *fang,* which could be a sizable area or simply a room.
+
 [^21]: Read *chi* (record) as *ch*'*i* (already), according to Ui, *ibid.,* p. 120.
+
 [^22-p431]: Where the blessings will keep on growing.
 
 *[p. 432]* ^pg459
@@ -594,10 +617,15 @@ wisdom is inherent in all people. It is only because they are deluded in their m
 *Comment.* This spirit of synthesis is characteristic of the Southern School. We have already seen this synthetic character of the mind in Hua-yen and T'ien-t'ai. In fact, this goes back to early Taoism and Neo-Taoism, and it is no wonder that Zen writers employed many Taoist and Neo-Taoist terms, such as "substance" and "function" and "original substance." Shen-hui as a youth studied the *Lao Tzu* and *Chuang Tzu.*
 
 [^24]: Read *yü* (in) as *ju* (as). The popular (Ming Canon) version, sec. 2, has *ju*.
+
 [^25]: Original note in the text,
+
 [^26]: This is *fa*-*men* in Chinese. See above, ch. 24, n.13.
+
 [^27]: Read *fa* (start) as *hou* (afterward).
+
 [^28]: Insertion following Suzuki and Kuda. See n.17.
+
 [^29-p433]: The popular version, sec. 4, has "self dharma," that is, the dharma of self, instead of dharma-self, or dharmas and the self. In this case the four characters become those of a self, a human being, a being among men, and a being with a definite span of life.
 
 *[p. 434]* ^pg461
@@ -611,10 +639,15 @@ wisdom is inherent in all people. It is only because they are deluded in their m
 "Absence-of-thought means not to be defiled by external objects.[^31-p434] It is to free our thoughts from external objects and not to have thoughts arise over dharmas. But do not[^32-p434] stop thinking about everything and eliminate all thought. As soon as thought stops, one dies[^33-p434] and is reborn elsewhere. Take heed of this, followers of the Way. If[^34] one does not think[^35] over the meaning of the Law and becomes mistaken himself, that is excusable. How much worse is it to encourage others to be
 
 [^30]: See below, n.44.
+
 [^31-p434]: Or spheres of objects. See above, ch. 23, n.8.
+
 [^32-p434]: The popular version, sec. 4, has "if merely" instead of "don't", which makes the sentence say the opposite.
+
 [^33-p434]: Read *wu* (no) as *ssu* (die), following the popular version, sec. 4.
+
 [^34]: Reading *mo* (none) as *jo* (if), following *ibid.*
+
 [^35]: Read *hs*i (stop) as *ssu* (to think), following Suzuki and Kuda.
 
 *[p. 435]* ^pg462
@@ -626,9 +659,13 @@ wisdom is inherent in all people. It is only because they are deluded in their m
 "However, this school has instituted absence-of-thought as the doctrine. When people of the world are free from erroneous views, no thoughts will arise. If there are no thoughts, there will not even be an 'absence-of-thought.' Absence means absence of what? Thought means thought of what? Absence-of-thought means freedom from the character of the duality (existence or nonexistence of characters) and from all afflictions resulting from passions. \[Thought means thought of the true nature of True Thusness (True Reality) .\][^37] True Thusness is the substance of thought and thought is the function of True Thusness. It is the self-nature that gives rise to thought. Therefore in spite of the functioning of seeing, hearing, sensing, and knowing, self-nature is not defiled by the many spheres of objects and always remains free and at ease. As the *Wei-mo-chieh* \[*so-shuo*\] *ching* (Scripture Spoken by Vimalakirti) says, "Externally it skillfully differentiates the various dharma-characters while internally it abides immovably in the First Principle."[^38] 18. "Good and learned friends, according to this method sitting in meditation is at bottom neither looking at[^39] the mind nor looking at purity. Nor do we say that there should be imperturbability.[^40] Suppose we say to look at the mind. The mind is at bottom false. Since being false is the same as being illusory, there is nothing to look at. Suppose we say to look at purity. Man's nature is originally pure. It is by false thoughts that True Thusness is obscured. Our original nature is pure as long as it is free from false thoughts. If one does not realize that his own nature is originally pure and makes up his mind to look at purity, he is
 
 [^36]: Read *ch*'*ü* (go) as *ch*'*i* (arise), following *ibid.*
+
 [^37]: See ch. 24, n.19. Insertion according to the popular version, sec. 4.
+
 [^38]: *Vimalakirtinirdésa sutra,* sec. 1, TSD, 14:537. The words "externally" and "internally" do not appear in the original scripture.
+
 [^39]: Read *chao* (to attach) as *k*'*an* (to look at). The reason is obvious from what follows.
+
 [^40]: This interpretation accords with the sense in the popular version, sec. 5.
 
 *[p. 436]* ^pg463
@@ -640,8 +677,11 @@ creating a false purity. Such purity has no objective existence. Hence we know t
 20\. "Good and learned friends, you must all go through the experience yourselves and receive the discipline that frees you from the attachment to differentiated characters. Follow me at the same time and repeat my slogans. They will enable you, good and learned friends, to see that the Three Bodies[^44] of the Buddha are within you: 'We take
 
 [^41]: Read *shang* (up) as *hsin* (mind), according to the popular version, sec. 5.
+
 [^42]: Sec. 3, TSD, 14:541.
+
 [^43]: The scripture is part of sec. 10 of the *Bramajala sutra (Fan-wang ching,* or Brahma-net Scripture). See TSD, 24:1003.
+
 [^44]: Buddhism conceives a Buddha to have a threefold body, namely, the Law-body or spiritual body (*Dharmakaya*)*,* the Reward-body or Enjoyment-body (*Sambhogakaya*), and the Transformation-body or body of incarnation (*Nir*- *manakaya).* The Law-body is the Buddha-body in its self-nature, the body of the Dharma or truth, the body of reality, the body of principle. This "body" has no bodily existence. It is identical with truth. In various schools it is identical with the Realm of Dharma *(Dharmadhatu},* Buddha-nature, or the Storehouse of the "Thus-come" *(Tathagatagarbha).* The Reward-body is the person embodied with real insight, enjoying his own enlightenment or that of others. The Transformation-body is a body variously appearing to save people. The three bodies are three in one, are possessed of all Buddhas, and are potential to all men.
 
 *[p. 437]* ^pg464
@@ -653,7 +693,9 @@ refuge in the pure Law-body of the Buddha with our own physical bodies. We take 
 "What is meant by the Pure \[Law\][^47] of the Buddha? Good and learned friends, our nature is originally pure. All dharmas lie in this self-nature. If we think of all kinds of evil deeds, we will practice evil. If we think of all kinds of good deeds, we will do good. Thus we know that all dharmas lie in one's self-nature. Self-nature is always pure, just as the sun and moon are always shining. It is only when they are obscured by clouds that there is brightness above but darkness below and the sun, the moon, and the stars cannot be seen. But when suddenly a gentle wind blows and scatters all clouds and fog, all phenomena are abundantly spread out before us, all appearing together. The purity of people's
 
 [^45]: Original note in the text.
+
 [^46]: See above, ch. 20, n.41.
+
 [^47]: This word has been added according to the popular version, sec. 6.
 
 *[p. 438]* ^pg465
@@ -667,9 +709,13 @@ nature is comparable to the clear sky, their wisdom comparable to the sun, and s
 30\. "All scriptures and writings, both Mahayana and Hinayana, and
 
 [^48]: Read *k'an-ching* (see reverence) as *chao-ching* (attach to sphere), according to Suzuki and Kuda, and also Ui, p. 130.
+
 [^49]: A bodhisattva is one who is strongly determined to seek enlightenment and salvation for all.
+
 [^50]: Read *ming* (name) as *to* (much), according to Suzuki and Kuda.
+
 [^51]: Read *hsin* (mind) as *wang* (to destroy), according to Suzuki and Kuda.
+
 [^52]: Read *tsai* (in) as *yen* (saying), according to TSD, 48:140.
 
 *[p. 439]* ^pg466
@@ -701,5 +747,7 @@ B. THE RECORDED CONVERSATIONS OF SHEN-HUI[^60] The priest (Shen-hui) said, "Ther
 The priest said, "The resolve \[to seek perfect wisdom\] may be sudden or gradual, and delusion and enlightenment may be slow or rapid. Delusion may continue for infinitely long periods, but enlightenment takes but a moment. This principle is difficult to understand. Let me first give an analogy and then clarify the principle, and then you may perhaps understand through this example. Suppose there are individual strands of light green silk each consisting of numerous threads. If they are twisted to become a rope and are placed on a board, one cut with a sharp sword will sever all threads at the same time. Although the
 
 [^59]: This clause is added according to *ibid.*
+
 [^60]: These are from the "Recorded Sayings" in the *Shen-hui Ho-shang i-chi* (Surviving Works of Priest Shen-hui), ed. by Hu Shih, Shanghai, 1930. For a French translation, see Bibliography.
+
 [^61]: There are 52 grades, divided into six stages, toward Buddhahood. The first stage consists of ten grades, namely, faith, unforgetfulness, serious effort, wisdom, calmness, non-retrogression, protection of the Law, the mind to reflect the light of the Buddha, discipline, and free will. Ordinarily one has to go through all six stages before achieving Buddhahood.

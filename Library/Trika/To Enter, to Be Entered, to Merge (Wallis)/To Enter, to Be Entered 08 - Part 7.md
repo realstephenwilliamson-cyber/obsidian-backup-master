@@ -25,10 +25,15 @@ Next comes the rite of *nāḍī-sandhāna*, or fusing of the channels, by which
 He places the root of a stalk of *darbha* grass in the hand of the disciple, and places the tip in the crook of his own knee. Then he imagines the channel 
 
 [^594]: For a parallel in the Buddhist Tantras, see *Sarva-tathāgata-tattva-saṅgraha*, section 231, translated at SANDERSON 2009: 135.
+
 [^595]: Abhinavagupta further notes that by virtue of senses enhanced by a Descent of Power (*akṣais tat-sahakāribhiḥ*), one can perceive the presence of mantras that have been installed in a worship-ground, a human body, etc. Thus *śaktipāta* makes one able to perceive what was previously invisible: see the fuller translation of this passage on p. 306f below.
+
 [^596]: *Kriyāpāda* 7.61; citation courtesy of SANDERSON.
+
 [^597]: See also *Svacchanda-tantra* vol. 1, pp. 177-81 and 218-20; and *Somaśambhu-paddhati* III.1.108-9.
+
 [^598]: See also *Svacchanda-tantra* vol. 1, pp. 220-24 and BRUNNER 1994: 450.
+
 [^599]: *iḍā-piṅgalā-madhya*-*nāḍīḥ* B : *suṣumnā-madhyamā*-*nāḍī* A. *nāḍīḥ* (B) is here corrected to *nāḍī* (A) to agree with *vilīnā*.
 
 *[p. 244]* ^pg255
@@ -44,12 +49,19 @@ This is the end of the rites that are common to both the *samaya-* and *nirvā�
 Then, tapping the disciple with \[*darbha* grass\] consecrated with the weapon-mantra, he should enter his body with his exhale and then loosen and cut \[his psychic bonds\] with the weapon-mantra. Attracting his consciousness (visualized as a point of brilliant light[^605]) with the goad-mudrā, he unites it with the *dvādaśānta*[^606] and encloses it firmly with the mantra OṂ HAṂ OṂ. He should then draw it into his own heart on the inhale, using the retraction-mudrā, and fuse it (*samarasīkṛtya*) with his own consciousness while retaining his breath. Then, exhaling, \[and rising up the central channel,\] leaving behind the five Cause-deities[^607] and
 
 [^600]: Or perhaps we are meant to understand that all three of the disciple’s primary *nāḍī*s are connected to the guru’s, in which case we would correct *vilīneti* to *vilīnā iti*. SANDERSON’s reading mitigates against this, however.
+
 [^601]: Cf. the *nāḍī-sandhāna* described at [[Tantraloka 29.273|TĀ 29.273-4]].
+
 [^602]: For this and the following two rituals, see *Svacchanda-tantra* vol. 2, pp. 27-30.
+
 [^603]: The name of this rite undoubtedly goes back to the Atimārga, in which the supreme being is called Rudra and not Śiva. Note the use of the compound *rudrāṃśa*, literally “Rudra-aspect”; X- *aṃśa* is used to denote a special connection to a particular deity.
+
 [^604]: Reading *samānīya* with A against the etext edition’s *dhruveṇa* from B.
+
 [^605]: *sphurat-tārakākāra*; this detail comes from the reiteration of this action in the *nirvāṇa-dīkṣā*.
+
 [^606]: This is the psychic space about a foot above a person’s head, the upper limit of his “subtle body.”
+
 [^607]: The *kāraṇa-devatāḥ* are Brahmā, Viṣṇu, Rudra, Īśvara, and Sadāśiva; they have their seats along the central channel, at the heart, throat, the center of the palate, the eyebrow-center, and the crown of the head respectively (but see TAK 2, pp. 90-91).
 
 *[p. 245]* ^pg256
@@ -61,10 +73,15 @@ Now the *samayin*s hear the rules of their discipline (see n634) and depart, and
 Various other minor rites (such as augury for obstacles and eating of blessed food) close out the day, then the disciple lies down to sleep on specially consecrated and protected ground. The next morning, after a dream-augury, the ceremony continues with *pāśa-ccheda*, one of the two most salient elements of the *nirvāṇa-*
 
 [^608]: For which see also *Svacchanda-tantra* vol. 2, pp. 47-141. Except for the most extraordinary candidates, those receiving the *nirvāṇa-dīkṣā* have previously undergone the *samaya-dīkṣā*.
+
 [^609]: As can be seen in the fact that the SSP says that *samaya-dīkṣā* bestows the state of Rudreśa (*dīkṣaiṣā sāmayī proktā rudreśa-pada-dāyinī*).
+
 [^610]: See also *Svacchanda-tantra* vol. 1, pp. 224-27.
+
 [^611]: See also *Svacchanda-tantra* vol. 1, pp. 227-33.
+
 [^612]: *Śāntyatīta* is at the crown, *śanti* from the forehead to the pit of the throat, *vidyā* from the pit of the throat to the navel, *pratiṣṭhā* from the navel to the ankles, and *nivṛtti* at the feet. These are associated with the elements from space down to earth, and their seed-mantras are HŪAUṂ (or HAUṂ), HYAIṂ, HRŪṂ, HVĪṂ, and HLĀṂ respectively. Each of the *kalā*s covers part of the tattva-map, so together they constitute the whole universe. Thus this *dīkṣā* utilizes the *kalādhvan* as opposed to any of the other five *adhvan*s.
+
 [^613]: See SSP A f. 20v3-22v3, B f. 29r5-31r4; see also *Svacchanda-tantra* vol. 1, pp. 234-43 and SURDAM 1984: lxxxviii.
 
 *[p. 246]* ^pg257
@@ -74,8 +91,11 @@ Various other minor rites (such as augury for obstacles and eating of blessed fo
 ritual process in this way: “He \[the guru\] then visualizes that in the absence of any possibility of further life-experience the soul is being detached from the bond of Māyā, then from that of Karma, and finally from Mala itself, pouring oblations after each meditation. He then meditates on this disjunction of the soul \[from its bonds\] as the absolute absence of the acts that have been eliminated (*viśuddhasyāpy atyantābhāva-rūpaṃ viśleṣaṃ saṃcintya*) and pours oblations invoking Śiva to accomplish the soul’s \[complete\] disjunction from the three bonds” (*forthcoming a*: 31-2). Then (as the penultimate act of the *pāśa-ccheda-krama*), the guru meditates on the unity of the consciousness of the initiand (*caitanyasyaikatvam*) in this state in which all its incarnations have been eliminated (*aśeṣa-śarīra-vināśe*), and seals the rite with a Full Oblation (*pūrṇāhuti*) with the root-mantra. Finally, the guru 
 
 [^614]: See also *Svacchanda-tantra* vol. 2, pp. 66-77.
+
 [^615]: This goddess serves in this role in all Tantric initiations; but in the Trika she rises to the position of Supreme Goddess (Parādevī).
+
 [^616]: The six stages named in the text are: conception (*garbha-niṣpattim*), birth (*jananam*), the acquisition of karmas that grant various kinds of experience (*nānā-bhoga-dāyakaṃ karmārjanam*), the fruition of that experience (*bhoga-niṣpattim*), the dissolution of that experience into unconditioned joy (*bhogeṣu parama-prīti-rūpaṃ layam*), and the final purification of all karmas through their total resolution in this process (*niṣkṛtyā sarva-karma-śuddhim*).
+
 [^617]: About half of this paragraph (starting from “To summarize”) is a close paraphrase of SANDERSON’s forthcoming *Religion and the State: Initiating the Monarch* (2005 draft) p. 31, which itself is a close paraphrase of the relevant section of the *Siddhānta-sāra-paddhati*. After reading the SSP myself, I concluded that SANDERSON’s summary account of this section could not be bettered.
 
 *[p. 247]* ^pg258
@@ -89,10 +109,15 @@ The *pāśa-ccheda* phase of Tantric initiation, as we have seen, utilizes the p
 *idānīṃ śiṣyaṃ saṃyojayāmi ājñā me dīyatāṃ prabho iti prārthya evaṃ kurv ity anujñātaḥ prahṛṣṭo ’rgha-pātram ādāya śiṣyam āhūyāgni-sadanaṃ yāyāt. tatra pūrvavac chiṣya-prokṣaṇa-sakalīkaraṇa-nāḍī-saṃdhāna-mantra-tarpaṇāni sakalīkaraṇa-mantrāṇāṃ ekaikāhuti-dānena sakalīkaraṇa-sādhanaṃ kṛtvā,* 
 
 [^618]: Unless it is the fifth and final iteration, in which case he casts the disciple’s soul back into his heart.
+
 [^619]: These two paragraphs cover SSP A f. 23r2-29r2, B f. 31v3-38r1. Bhojadeva gives us three and a half verses for memorization that neatly summarize the whole process: *ādau śaktis tatas tattvaṃ vāgīśī yonyanekatā | śiṣyasya cetanādānaṃ yojanaṃ sarva-yoniṣu || garbha-janma tad-aiśvaryaṃ tad-bhogāpādanaṃ tathā | layo niṣkṛti-viśleṣau mala-karma-viyojanam || pāśacchedo ’tha pūrṇā ca kāraṇeśa-samarpaṇam | uddhāro grahaṇaṃ caiva śiṣya-dehe niyojanam || visarjanaṃ ca vāgīśyāḥ śuddha-tattvāvalokanam |*. The penultimate hemistich suggests that the *caitanya* is cast back into the disciple’s actual body at the end, so perhaps I am misreading the intent of the compound *uddharita-śiṣya-sūtra-dehe*.
+
 [^620]: See also *Svacchanda-tantra* vol. 2, pp. 96-98.
+
 [^621]: Sound and sensation are offered to Brahmā, taste is offered to Viṣṇu, vision and odor are offered to Rudra, intellect and ego to Īśvara, and mind to Sadāśiva. These are the eight parts of the eightfold subtle body (*puryaṣṭaka*). Each Cause-deity is associated with a particular *kalā* (Brahmā with *nivṛtti*, etc.), so the elements of the *puryaṣṭaka* are offered up in five stages.
+
 [^622]: Though the specific synonyms used here are *praveśa* and *sāmarasya* respectively.
+
 [^623]: For example, in the final act of each iteration of the *pāśa-ccheda* described above, the guru inhales the disciple’s soul into his own heart for a moment, and no reason is given for this act. As in the *caitanya-saṃskāra* of the *samaya-dīkṣā*, it must be to confer blessings.
 
 *[p. 248]* ^pg259
@@ -102,9 +127,13 @@ The *pāśa-ccheda* phase of Tantric initiation, as we have seen, utilizes the p
 He should pray: “Now I will unite the disciple \[with his Śiva-nature\]. Grant me permission, O Lord.” Feeling with a thrill that the Lord has granted his permission (*evaṃ kuru*), he takes the offering-chalice and calls the disciple, seating him before the consecrated fire. As before, he should do the *sādhana* of the whole \[*yāga*[^626]\], consisting of blessing the disciple \[with ash\], installing the *yāga* (= *sakalīkaraṇa*), performing fusion of the channel(s), and gratifying the mantras, each act accompanied by an oblation into the fire with the complete mantra-retinue; then he proceeds to unite the consciousness of the disciple with his Śiva-self. The *ācārya* imagines himself located in the *śuddha-vidyā-tattva* \[above the Impure Universe\]. His body consists of the segments of *nāda-śakti*, i.e. the \[nine\] *śakti*s from Indhikā to Amṛtāmṛtā, seated on the throne of *bindu-tattva*. His external faculties are \[to be seen as\] the \[five\] *kalā-*goddesses from Vyāpinī to Anāśritā. His inner faculties (*antaḥkaraṇa*) are *samanā*, and the pure reality of the Self (*śuddhātma-tattva*) is Unmanaśivā (= *unmanā*).[^627] Thus his being is filled with the triad \[sic\] of *tattva*s. He inhales and retains his breath, places his tongue on the palate, his mouth slightly open, his teeth not touching, his body drawn up (= *divya-karaṇa*). He joins the disciple’s self with himself and visualizes that the vital energies (*prāṇāḥ*) in \[all\] the channels have fused into the *suṣumnā*. Then he visualizes the consciousness of the disciple shining like a flawless crystal \[within the *suṣumnā*\] and does *uccāra* of the \[root\]-mantra.[^628] Then with \[an exhale and\] an external *kumbhaka*, he pours a Full Oblation and raises
 
 [^624]: *āspadaṃ* or *āsyedaṃ* A : *āspandaṃ* B
+
 [^625]: *tṛpto* em. SANDERSON (following the *Somaśambhu-paddhati*) : *tṛpti\[r\]* MSS
+
 [^626]: *Yāga* is a technical term in the Śaiva literature meaning a mantra-retinue: the principal mantra with its various ancillaries, such as the *aṅga-mantra*s, the *lokapāla*s, etc. (*ijyate iti yāgaḥ mantra-gaṇaḥ*).
+
 [^627]: See also *Svacchanda-tantra* vol. 2, pp. 235, 243, and 248ff.
+
 [^628]: So each *uccāra* rises up the central channel is empowering the disciple’s soul. See also *Svacchanda-tantra* vol. 2, pp. 160-67 and 271-73.
 
 *[p. 249]* ^pg260
@@ -112,10 +141,15 @@ He should pray: “Now I will unite the disciple \[with his Śiva-nature\]. Gran
 the disciple’s consciousness from the heart up the central channel, transcending the five Cause-deities \[and their *cakra*s\],[^629] and uniting it with Supreme Śiva.[^630] Then he pours six oblations and recites the six mantras beginning OṂ HŪṂ ĀTMAN that bestow \[the seeds of\] the divine qualities of omniscience, contentment, beginningless awakeness (*anādibuddha*), freedom (*svatantra*), unlimited energy (*alupta-śakti*), and infinite power (*ananta-śakti*).[^631] Then \[after returning his soul to his body\] he baptizes him (*abhiṣicya*) with water from the offering-chalice,[^632] and \[concludes the ceremony by\] reciting the eight rules of conduct for initiates (*samaya*).[^633] Here, as before, the guru plucks the disciple’s soul out of his heart and inhales it into his own, situating it in the center of the central channel. He then visualizes all the ten *prāṇa-vāyu*s concentrating in the central channel—and of course, the operative belief here is that whatever the yogic adept visualizes intensely actually does occur. Then he performs *uccāra—*the raising of a *bīja-mantra* up the central channel (a process powered by the focused entrainment of sound, light visualization, breath, and attention). Since the disciple’s consciousness-bindu is located in the guru’s central channel, the *uccāra* intensifies, enlivens, and empowers it. Then, after an indeterminate number of *uccāra*s, he raises the consciousness-bindu up the central channel, piercing through and leaving behind the five primary centers (heart, throat, palate, eyebrow-center, and crown[^634]) ruled by the five Cause-deities mentioned above, reaching the highest subtle center twelve finger-widths above the head (*śiva-dvādaśānta*) in which all limited experiences of reality are finally transcended. At this
 
 [^629]: See note 529 above. See also *Svacchanda-tantra* vol. 2, pp. 167-70.
+
 [^630]: See also *Svacchanda-tantra* vol. 2, pp. 191-200.
+
 [^631]: See also *Svacchanda-tantra* vol. 2, pp. 277-80.
+
 [^632]: See also *Svacchanda-tantra* vol. 2, pp. 280-81.
+
 [^633]: These rules encompass two categories, the *samaya* and the *samayācāra*. The first follows: “1. Do not speak ill of Śiva, 2. or of his teachings, 3. or of those who teach \[the Śaivam\], 4. or of his worshippers; 5. Do not step on the shadow of a *liṅga*, 6. or on any substance that has been offered to God, 7. or eat any such substance, 8. or eat food touched by an unclean woman.” And the second, given only to *nirvāṇa-dīkṣita*s: “1. Do not teach the mantras or rituals to uninitiated persons, 2. Do not allow them to be copied down, 3. Do not initiate someone without *śaktipāta* (*apatitaśaktikaṃ na dīkṣayet*), 4. Perform *pūjā* and *homa* once a day or more, and repeat the mantra-retinue (*śiva-saṃhitā*), 5. Do not eat without offering the food to Śiva, the fire, and one’s guru, 6. Feed guests, the poor, and the unfortunate, and scavenging animals too; 7. Offer extra worship on festival days; and 8. Be loyal to one’s fellow-initiates at all times, regardless of rank; protect lay devotees and anyone in danger, sick, or mentally ill” (Summary of SSP A 30r6-v4, B 39r6-v5). Additionally, on *aṣṭamī, caturdaśī*, and the full and new moon days, he should abstain from fish, meat, sex, anointing the body with oil, and shaving. These are the *samaya*s for Saiddhāntikas, however; Kaula initiates had a substantially different set of rules (which emphasize honoring one’s guru and honoring women; see *Tantrasāra* ch. 13). Cf. also *Svacchanda-tantra* vol. 2, pp. 36-38 and 328-32 (for parallels to the Saiddhāntika *samaya*), and vol. 3, pp. 38-43 (for a more Kaula *samaya*).
+
 [^634]: These are the five primary centers in a Saiddhāntika context; for (some) Kaulas they are instead the *trikoṇa* (pelvic floor/genital area), *kanda* (the “bulb” situated below the navel), heart, palate, and crown (see *Tantrasāra* ch. 5).
 
 *[p. 250]* ^pg261
@@ -149,8 +183,11 @@ Table!9.!The!basic!sequence!of!initiation!in!the!SSP!
 In closing, we should note that in the *samayācāra* to which a *nirvāṇa-dīkṣita* pledges himself (step 19 in Table 9), we find the following instruction: *apatitaśaktikaṃ na dīkṣayet*, he should not initiate anyone on whom the *śakti* has not descended, i.e. he should not initiate someone that does not show signs of having received *śaktipāta*. This rule, like the two preceding it (see n634), presumes that the initiate will go on to become an *ācārya*, which in fact only a minority did. But it serves to highlight the importance accorded to *śaktipāta* by even the most conservative branch of the tradition, since one of only eight *samayācāra* rules forbids initiation to be given without evidence that the aspirant has received *śaktipāta—*so for the Siddhānta it is here, prior to the *dīkṣā* ritual, that religious experience is required of a candidate to allow him to proceed. This is in direct contrast to the Kaula situation, in which the initiand is expected to demonstrate signs of religious experience within the *dīkṣā* ritual itself; as TAKASHIMA has noted (1992: 45), “Kaula *dīkṣā* . . . is a direct means for the experience of unity with Śiva.”[^639] The Saiddhāntikas did not expect this mystical experience in the ritual setting, despite enacting that unity in the ritual forms, and looked forward to it only at death. 
 
 [^636]: SANDERSON’s term, based on parallels of initiation practices in Greek sources.
+
 [^637]: See *Svacchanda-tantra* vol. 2, pp. 2-11.
+
 [^638]: See *Svacchanda-tantra* vol. 2, pp. 135-38.
+
 [^639]: He also notes that after the lengthy chapter on standard Tantric initiation (*Tantrāloka* 15), Abhinavagupta gives alternate forms of initiation in chapter 16, including a *pratyaya-dīkṣā*, held to give immediate evidence of its efficacy ([[Tantraloka 16.244|TĀ 16.244]], cited at 1992: 61).
 
 *[p. 252]* ^pg263
@@ -174,6 +211,7 @@ We saw above (pp. 190-92) scriptural sources that concisely outlined the soul’
 Due either to the destruction of various *karma*s through experiencing them in various births, or to an equality of *karma*s \[that block further experience\], a living being obtains \[God’s\] grace, his Impurity flowing away through a Descent of \[God’s\] Power whose activity (*pravṛtta*) is due to the powerful ripening of Impurity. Because all his bonds are destroyed \[by the initiation that follows\], his power to know anything and do anything is revealed \[in due course\]; because that experiencer’s (*bhuktātmanaḥ*) animal nature (*paśutva*)—which is the cause of wandering in *saṃsāra*—is no more, he becomes \[what he truly innately is,\] a Lord (*bhagavān*) with the \[same\] nature as Śiva \[, when the body drops\].[^640] Here we see the appearance of the doctrine of *mala-paripāka* (“ripening of Impurity“) which was unknown to the *Kiraṇa-tantra* and the SSS (and indeed all the early Siddhānta *tantra*s), and which was probably first introduced by Sadyojyotiḥ (c. 700 CE).[^641] The metaphorical term “ripening” (*paripāka*) here refers to the Impurity’s readiness to be removed, like a ripe fruit is easily picked from the tree, and also refers to a soul’s maturity (*paripāka*) through life experience (over many lifetimes). However, it is unclear whether Nārāyaṇakaṇṭha holds the view that a salvific *śaktipāta* can only take place if one’s Impurity has fully ripened (the view of his son Rāmakaṇṭha), or whether he thinks that the intensity of one’s *śaktipāta* is proportionate to the degree of the ripening of one’s Impurity. The ambiguity here turns on the intended sense of the word *pravṛtta*. I tentatively translate it as if he held the second view; if we supposed he held the first, we would translate *pravṛtta* as “activation” instead of “activity” in the passage above. In other words, Nārāyaṇakaṇṭha may be saying here that a *śaktipāta* must occur to unblock a *karmasāmya*, but it is not powerful enough to lead one to seek salvific initiation unless one’s innate Impurity has fully ripened; or he may be saying that a *karmasāmya* triggers salvific *śaktipāta*, the subjective strength of which is proportionate to how ripe one’s Impurity is. The latter view is closer to the nondualists’ camp, as we shall see, but the problem with assuming he held the former view is that he also gives as a possible reason (*vā*) for the Descent of Power the simple exhaustion of sufficient *karma* by the living out of many lives (*tat-tad-yoni-śarīropabhoga-bhukta-vicitra-karma-kṣaya*) such that one’s appointed time for liberation has finally arrived (presumably this is possible because the mature soul is wise enough to accumulate less karma through selfless action while still exhausting old karma). This statement would seem to suggest that he cannot have held the strict view of his son Rāmakaṇṭha, who sees *mala-paripāka* as the one and only cause of *śaktipāta*—unless we understand the statement just cited (*tat-tad...*) as simply another way of describing *mala-paripāka*. But if that is the case, why would he offer
 
 [^640]: My translation follows that of GOODALL (1998: 216n171).
+
 [^641]: See, e.g., his *Tattva-traya-nirṇaya* v. 21 and *Nareśvara-parīkṣā* 3.152c-54b.
 
 *[p. 254]* ^pg265
@@ -185,8 +223,11 @@ At any rate, it was Rāmakaṇṭha’s clearly enunciated view on this issue th
 We have considered briefly the cause of *śaktipāta,* which being empirically unverifiable can be endlessly disputed. But what of its effect? To return to Nārāyaṇakaṇṭha’s words above, we see that for him,[^644] the key effect of *śaktipāta* is that it brings about an erosion or a melting away (*apasārita*) of a small portion of one’s Impurity (*mala*), an obscuration that, while in place, prevents one from seeing the value of the path. Though he does not specify it here, we know that *śaktipāta* could only destroy a small portion of *mala*, because the majority of it is destroyed by the scripturally prescribed ritual of *dīkṣā*. From the beginning of Saiddhāntika exegesis, *śaktipāta* is strongly linked to *dīkṣā*. Sadyojyotiḥ asserted that the whole purpose of Śiva’s *śaktipāta* is to lead a soul who is ready for it to initiation: “*Dīkṣā necessarily* comes about for one on whom this \[*śakti*\] ‘falls’” (*yam asāv āpatatīti tasyāvaśyaṃ dīkṣā bhavati*, ad SSS 1.16). *Śaktipāta* is also necessary to qualify one for the daily practice that follows initiation, says Aghoraśiva: “Due to *śaktinipāta*, one may perform the worship of the One who knows how to eliminate \[the remainder of\] one’s bonds” (*śaktinipāta-vaśāt tad-ucchedopāya-jñasya śivasyārādhanam upapadyate*[^645]). 
 
 [^642]: See Aghoraśiva’s citation of Rāmakaṇṭha’s interpretation of *Kiraṇa* 1.20 in the former’s *Mṛgendra-vṛtti-dīpikā* ad *Mṛgendra* VP 8.6, cited by GOODALL (1998: 215n171, 218n178, and 219n182). Aghoraśiva was an important South Indian commentator on the Siddhānta, who wrote exactly 200 years after Rāmakaṇṭha (i.e., mid-12th century).
+
 [^643]: For *karmasāmya*, see also *Mataṅga-pārameśvara vidyāpāda* 13.15-20 and *Ratnatraya-parīkṣā* 315. Note that many Siddhānta tantras do not address prerequisites for *śaktipāta* at all.
+
 [^644]: As for the scriptural *Svāyambhuva-sūtra-saṅgraha*, 1.17 on p. 190 *supra*.
+
 [^645]: *Dīpikā* on Nārāyaṇa’s *Mṛgendra-vṛtti vidyāpāda,* 1.2 (KṚṢṆAŚĀSTRĪ & SUBRAHMAṆYAŚĀSTRĪ ed.).
 
 *[p. 255]* ^pg266
@@ -228,7 +269,9 @@ We see gradations of *śakti(ni)pāta* formalized in Bhojadeva’s *Siddhānta-s
 *Dīkṣā* is \[the name of\] the ritual \[performed\] for one qualified to receive grace (*anugṛhya*), \[and\] which effects the knowledge that dissolves the bonds of *mala*, *karma*, and *māyā* which are the cause of bondage. . . . That type \[of *dīkṣā*\] called “with substrate” (*sādhikaraṇā*) is performed for embodied beings by the Lord in the person of the *ācārya*, by means of a Descent of Power of four kinds: gentle, very gentle, intense, and very intense.[^649] We will return to the idea of gradations of *śaktipāta* in treating Abhinavagupta’s work, in which such gradations become much more significant. Here we are struck by the statement that *śaktipāta* is performed *by means of* the Descent of Power. Surely we have already seen that the latter is the *prerequisite* for the performance of *dīkṣā*? Yes indeed, but it is possible that Bhojadeva is here preserving another stream of thought which might date back to the *Niśvāsa-naya-sūtra* (see p. 189). For we see it also in the *Somaśambhu-paddhati*, if we can trust Hélène BRUNNER’s interpretation of 
 
 [^647]: “Si un disciple ne présente pas après la *dīkṣā* les caractéristiques d’un libéré imminent, on dira que la *dīkṣā* a été faite irrégulièrement, alors que la Grâce n’était pas descendue sur le dévot.” She does not, unfortunately, cite the passage she was thinking of.
+
 [^648]: This is the primary source text for Somaśambhu’s *paddhati*.
+
 [^649]: A verse from an unknown source cited in the later Siddhānta texts *Śaiva-paribhāṣā* and *Pauṣkara-bhāṣya* also regards *śaktipāta* as fourfold: *ācārya-mūrtim āsthāya caturdhā śaktipātataḥ |* *bhagavān anugṛhṇāti sa eva sakalān api ||*.
 
 *[p. 257]* ^pg268
@@ -244,7 +287,9 @@ The term *śaktipāta* is not explicit here, and BRUNNER seems to be assuming th
 As we are touching on the *Somaśambhu-paddhati*, we should here note a curious feature found in Trilocana’s commentary (*vyākhyā*): he (seemingly) quotes a source that associates the four grades of *śaktipāta* (seen first in Bhoja’s text cited above) with four signs, signs which we are already familiar with from Kaula discussions of *samāveśa*! This source, quoted approvingly by Trilocana just after
 
 [^650]: n13 on pp. 7-8 and n449 on pp. 410-12 of volume three of her *magnum opus* (1977).
+
 [^651]: She says that Somaśambhu considers *śaktipāta* “the very essence of *dīkṣā*” and wrongly adds “C’est l’opinion des textes anciens en général” (p. 8 n13).
+
 [^652]: We could translate *āsthāya* as “using,” of course, but I am struck by the parallel usage of verbs meaning “mount” and “ride,” referring to possession (with the spirit being as agent of the verb) in the vernacular languages of India (see SMITH 2006: ch. 4) as well as in other cultures where beneficial possession is religiously significant, e.g. in Haitian Vodou (KLASS 2003: 59, citing MÉTRAUX 1972: 120; see also MCCARTHY BROWN 1991, *passim*). It is perhaps significant that the pāda *ācārya-mūrtim āsthāya* goes all the way back to Kauṇḍinya’s *Pañcārtha-bhāṣya* (ad 1.9, p. 28 of the ed.), or even earlier, since it is part of a quote there. See it also in n650 above.
 
 *[p. 258]* ^pg269
@@ -257,6 +302,7 @@ Another piece of slight evidence of this connection is found in Aghoraśiva’s 
 The highest state refers to extraordinary devotion. Devotion is the state of being intent (or dependent) on Him; it is fitness for *śaktipāta*. \[Such\] fitness is \[constituted by\] a special kind of insight, characterized by *āveśa.* This statement is surprising on a couple of levels. First, we are used to seeing extraordinary devotion as a sign (*cihna*) of *śaktipāta*, and here it is said to indicate suitability for it. Secondly, this suitability is described in terms of superior insight and *āveśa*, which Aghora likely takes to mean a devotion so strong it affects one in “voice, eye, and limb” (see p. 16 *supra*), for as we have seen, *āveśa* is sometimes simply used to indicate strong emotion.[^654] But again, both of these are more readily seen as signs of *śaktipāta* rather than indicating suitability for it. Because of this, I think we must understand *yogyatā* as “the state of having been made fit *by*” *śaktipāta*, since these signs are nowhere else said to *precede* the Descent of Power, but are perfectly appropriate as signs that it has occurred. And what of the use of the word *āveśa* here, so unusual in a Saiddhāntika context (apart from opprobrius 
 
 [^653]: BRUNNER 1977: 6, n13. BRUNNER does not unfortunately cite the passage in question, but I was able to locate it thanks to the collaboration between the IFP and Muktabodha Indological Research Institute, due to which the paper transcript collection of the former has been put online (http://muktalib5.org/digital\_library.htm). The passage to which BRUNNER refers can be found in IFI MS T.170, pp. 181-2: *caturtha-śaktipātena tulyenaiva phalaṃ prati | - - tīvratara-sthitā tīvro mandatarāpi vā || sadyomūrtā mūrcchayā vā kampād romāñcatas tathā ||*. For *sadyomūrtā* we must of course read *sadyomuktyā*, as is confirmed by the first pāda, i.e. that “the fourth \[and strongest\] grade of *śaktipāta* is itself equivalent to the fruit (i.e. liberation).” The lost *akṣara*s must have read *mandas*, which is the missing grade. As for the linking of the four grades of *śaktipāta* with their respective signs, I agree with BRUNNER’s arrangement, which corresponds to what we see in the Kaula sources.
+
 [^654]: But the exact phrase is “a special kind of insight *characterized* by *āveśa*,” so the implication may be that in a state of great affectedness, the practitioner sees directly into the nature of things.
 
 *[p. 259]* ^pg270
@@ -280,6 +326,7 @@ Next we turn to an important and much-cited passage in Rāmakaṇṭha’s *Mata
 Thus next, out of compassion for bound souls, I will briefly explain that entire unsurpassed ritual of initiation, together with its essential components (*aṅga*). 
 
 [^655]: *para* conj. : *’para* Ed. I suspect that the *avagraha* snuck in at a later date, perhaps due to an editor’s discomfort with associating the term *āveśa* with a “higher” level of fitness.
+
 [^656]: Reading *taṃ* for *saṃ-,* following the commentary.
 
 *[p. 260]* ^pg271
@@ -300,9 +347,13 @@ For those who have no conviction with regard to knowledge, due to its incapacity
 “Those who” = those followers of the path who have no conviction that wisdom, i.e. knowledge, constitutes an effective means to liberation. Why? “Because of the incapacity” of knowledge in that regard. This is the substance \[of the nondualists’ doctrine\]: knowledge is the cause of liberation for men, bringing to an end the ignorance that is its obstruction.[^661] And there are two 
 
 [^657]: *yāvat sonmīlanī śaktiḥ śiva-rāgeṇa saṃyutā na patati.* See p. 192 *supra*.
+
 [^658]: *parasmin upeye* em. SANDERSON (following the *ādisūtra*) : *asminn upeye* Ed.
+
 [^659]: The supreme goal being *sattābhivyakti.* The *ādisūtra* referred to is: *athāṇor bandha-sopāna-pada-paṅkti-nivṛttaye / sattābhivyaktaye caiva varṇyate ca bubhukṣuṇā* (2.1) / *jñānāmṛtam asandigdhaṃ bhūtyartham atulaṃ param* (2.2ab)
+
 [^660]: Such is Rāmakaṇṭha’s interpretation; the undistorted meaning of the verse is clearly “For those who cannot apprehend spiritual knowledge, due to their incapacity, an easier method has been taught . . .”
+
 [^661]: This and the next sentence are startlingly close to the opening words of Abhinavagupta’s *Tantrasāra*. I say startling because the *Tantrasāra* was not yet written; though there is a slim possibility the two works were closely contemporaneous, the *Tantrasāra* could not have been earlier, since Rāmakaṇṭha belonged to Abhinavagupta’s father’s generation, and the *Tantrasāra* was not one of Abhinava’s early works.
 
 *[p. 261]* ^pg272
@@ -314,6 +365,7 @@ Why then are knowledge and \[*yoga* and *caryā*\] taught here under the topic o
 Now the interpretation \[offered by some\] that this procedure called initiation is for those such as children who because of their complete ignorance “have no conviction with regard to knowledge due to their incapacity,” would hold if initiation were taught in the scriptures with reference to them alone. But initiation is taught here with reference to those excellent people for whom the word *sādhaka* is employed, \[e.g.\] in the summary of the \[six\] essential components \[of initiation\]. As He will say after naming those components:
 
 [^662]: See *Kiraṇa* 6.20-21.
+
 [^663]: SANDERSON emends to *na tu dīkṣātulyatayā,* following MS P. Otherwise we would read: ‘they are equal to *dīkṣā* because they accomplish . . .’
 
 *[p. 262]* ^pg273
@@ -323,7 +375,9 @@ Now the interpretation \[offered by some\] that this procedure called initiation
 In this fascinating polemical passage, Rāmakaṇṭha asserts the pan-Śaiva view that *dīkṣā* is the sole cause of liberation. But for him—and for the majority of Śaivas, but not all—that *dīkṣā* is and must be a ritual performance as described in the scriptures. That a ritual could be the sole cause of liberation[^665] makes sense on two fronts. First, it was the sole qualification for the practice of Śaiva yoga and daily ritual (*nitya-pūjā*), and was also necessary to gain access to the Śaiva scriptural literature. Secondly, and more importantly for the tradition, if *mala* is understood as a substance that literally obscures the soul’s freedom and divinity (*śivatva*), then only an action could affect that substance. The fact that it is an intangible (*sūkṣma*) substance makes no difference; a subtle substance must be *acted* upon by a subtle (but very real) force. That force is the mantras embedded within the ritual and revealed by Śiva himself for this purpose. A verse quoted by Aghoraśiva says: “Revelation declares that Śiva becomes mantra for bestowing grace on the world; \[in other words,\] the grace-bestowing power has entered this world in the form of mantra” (*anugrahāya lokasya śivo mantra iti śrutiḥ | yā tv anugrāhikā śaktiḥ sā mantratvam ihāgatā ||*). And as we have seen, “bestowing grace” (*anugraha*) is a common periphrasis in Śaivism for “giving initiation.”[^666] From Rāmakaṇṭha’s perspective, to know is not enough; one must act. This is a natural result of a doctrine which, unlike Vedānta, takes the world and our bodies as real, in which context action is necessarily called for. The Śaiva Siddhānta view also takes plurality 
 
 [^664]: The view of initiation refuted here was apparently advanced by some Kaula sources, for we find in the *Nandiśikhā-tantra* the argument that ritual initiation is specifically a means of liberation for children, the mentally disabled, and women, i.e. those who cannot perform spiritual practice. See the citation of that tantra at *Tantrāloka* 13.193c-95.
+
 [^665]: This is asserted in non-Saiddhāntika traditions as well, such as in the Trika *Mālinī-vijayottara-tantra*, 4.8: *muktiś ca śiva-dīkṣayā*.
+
 [^666]: See, e.g., *Kiraṇa* 6.4, where *dīkṣā* is glossed with *cidrūpānugraha* (“the gracing of \[the soul, which has\] the nature of consciousness”). We should note that *anugraha* can also refer to *śaktipāta*, creating some confusion; but here the context demands the meaning of *dīkṣā*.
 
 *[p. 263]* ^pg274
@@ -337,6 +391,7 @@ However, initiation, in which the *ācārya* is metaphysically “possessed” b
 We turn now to a consideration of the discussion of *śaktipāta* in the work of the Kaula-influenced nondualists who flourished in Kashmīr in the tenth and eleventh centuries (whose work goes by the misnomer “Kashmir Shaivism” in the modern period, a term coined by Jagdish CHATTERJI in 1914). These authors were principally connected with the Trika lineage-grouping, though many of them were also secretly initiated into the Krama as well. Foremost amongst these was Abhinavagupta (fl. c. 970-1020), whose prodigious body of work—constituting about 10,000 or more *śloka*s and nearly 2,000 pages of prose—encompassed Śaivism’s entire range of philosophical and theological issues and its ritual praxis. Here we shall explore three works of Abhinavagupta, his *Mālinī-śloka-vārttika, Tantrasāra*, and
 
 [^667]: This being the second most commonly cited sign of *śaktipāta*, I infer that the *ādi* implies it.
+
 [^668]: See GOODALL 1998: 147. Rāmakaṇṭha immediately goes on to protest against the idea that *śaktipāta* can be inferred to have come to someone who has died by the fact of the fervent pleas for ritual intercession made to an *ācārya* by the son or relative of the deceased person, supporting his statement by saying “Smoke in a Dhava tree does not cause one to infer fire in a Khadira tree as its cause. And the Descent of Power has been taught to be the cause of devotion and such, but not of becoming a suppliant \[begging for another’s initiation\]” (trans. GOODALL 1998: 376).
 
 *[p. 264]* ^pg275
@@ -383,6 +438,7 @@ Regarding \[what has been said so far\], someone could attain liberation directl
 At the outset we see Abhinava toeing the party line, as it were: *śaktipāta* is what qualifies a person for initiation. But his view is more nuanced, and more unorthodox,
 
 [^671]: See *Tantrasāra* introductory verse 2.
+
 [^672]: An earlier version of this translation appeared in my published article WALLIS 2007.
 
 *[p. 267]* ^pg278
@@ -404,7 +460,9 @@ On the other hand, if the cause \[of the arising of spiritual knowledge\] is the
 ‘Equality of karmas’ is the theory that *śaktipāta* occurs because of two opposing karmas of equal strength blocking one another. If this \[theory is proposed\], we deny it, because karmas are successive and so it is impossible for them to be in opposition. Even if such a ‘karmic blockage’ were possible, \[it could not be the cause of *śaktipāta*\] because of the logical problem that another, unopposed karma could \[equally well\] grant \[the
 
 [^673]: *bhogatvaprasaṅgaḥ* em VASUDEVA : -*prasaṅge* ed.
+
 [^674]: Cf. [[Tantraloka 13.010|TĀ 13.10-22]].
+
 [^675]: That is, the arising of knowledge is dependent on the will of the Lord, and the will of the Lord, in the form of *śaktipāta*, is dependent on the arising of knowledge—a circular argument.
 
 *[p. 268]* ^pg279
@@ -447,6 +505,7 @@ In this beautifully written passage, Abhinava argues that “the Supreme Lord”
 Thus the Descent of Power is entirely independent, and results in the manifestation of one’s true nature. But for one who desires worldly enjoyment, its results do depend on action (*karma*). Now that *śaktipāta* received by one desiring enjoyment in a supernatural form \[in another world\] takes place through \[the agency of other divine powers\]: Rudra,[^678] Viṣṇu, Brahmā, and so on, beings who hold office within the realm of differentiated reality (*māyā*), directed by the will of the Supreme Lord. \[Such a ‘lower grade’ *śaktipāta*\], granting \[various\] other fruits—e.g., discrimination between the soul (*puruṣa*) and the faculty of judgment (*buddhi*), between the soul and materiality (*prakṛti*), between the soul and the limited power of action (*kalā*), between *māyā* and the soul, \[culminating in\] existence in the form of a Mantra-being and \[as a Lord of Mantras or Great Lord of Mantras\]—binds one to experience in a Level of Reality (*tattva*) below that \[of Śiva\].[^679] Here Abhinavagupta enumerates the levels of attainment reached by those who want to enjoy existence as a super-powerful entity in a higher dimension of reality. Some of these entail liberation, some do not; but none are ultimate. He first alludes to the attainment that is the pinnacle for the Sāṅkhya and Yoga systems, *kaivalya* or “isolation” (= *puṃ-buddhi-viveka* or *puṃ-prakṛti-viveka* respectively), then to the higher states of being called *Pralayākala* and *Vijñānākala* in Śaivism (attained through *puṃs-kalā-viveka* and *māyā-puṃ-viveka* respectively). The former are those free of *karma,* existing in dimensions (*bhuvana*s) above the *kalā-tattva,* but still within *māyā.* The latter are free of both *karma* and *māyā,* and exist just below the Pure Universe, in the gap as it were between it and *māyā*. Then he lists the three levels of attainment that entail liberation, or in the older terminology, entry into the Pure Universe (*śuddhādhvan, asitādhvan*). In Śaivism, mantras are conscious entities that
 
 [^678]: Note that Abhinava uses the name Rudra when referring to Śiva as a member of the Purāṇic trinity. For him, there is no identity of Rudra with Maheśvara (except insofar as all beings are to be identified with the latter).
+
 [^679]: Cf. [[Tantraloka 09.184|TĀ 9.184-9]], 13.270f.
 
 *[p. 271]* ^pg282
@@ -464,6 +523,7 @@ THE NINE DEGREES OF ŚAKTIPĀTA
 *sa cāyaṃ śaktipāto navadhā -- tīvra-madhya-mandasya utkarṣa-mādhyasthya-nikarṣaiḥ punas traividhyāt, tatra utkṛṣṭa-tīvrāt tadaiva deha-pāte parameśatā* Now this Descent of Power is of nine types, because the three types of ‘intense,’ ‘medium,’ and ‘gentle’ are again \[multiplied\] by \[the three variants of\] ‘intensified,’ ‘middling,’ and ‘reduced.’ 
 
 [^680]: For more information on these categories, see *Pratyabhijñā-hṛdayam* chapter 3, and cf. [[Tantraloka 13.271|TĀ 13.271cd-76ab]] and 9.184-189; see also VASUDEVA 2004 *passim*.
+
 [^681]: Cf. [[Tantraloka 13.106|TĀ 13.106-7]], cited *infra*.
 
 *[p. 272]* ^pg283
@@ -477,10 +537,15 @@ THE NINE DEGREES OF ŚAKTIPĀTA
 *saṃskārās tad-adhiṣṭhāna-siddhyai tat tasya tu svataḥ* || 13.141 For one on the path of divine intuition, there is no \[necessity for\] the procedure of the several initiations, no \[formal\] consecration \[as a guru\], no \[necessity for\] lineage etc., and no \[ritual\] vow of mantras,[^685] since he is directed (*adhiṣṭhita*[^686]) by the primal sage, the great God. It is for the attainment of such inner direction that \[all such\] rites \[are offered\]; but it is \[already\] his own nature.[^687] 
 
 [^682]: Cf. [[Tantraloka 13.130|TĀ 13.130c-31b]].
+
 [^683]: For Abhinava, *prātibha-guru, sāṃsiddhika-guru*, and *svayaṃbhū-guru* are all synonyms. Cf. [[Tantraloka 13.132|TĀ 13.132]] and 135ab.
+
 [^684]: Cf. [[Tantraloka 04.078|TĀ 4.78-79]], [[Tantraloka 13.131|13.131c-32]], and *Kiraṇa* 9.14 (Vivanti ed.). Note that *svapratyaya* (self-validated) is equated with *sāṃsiddhika* in the *Niśisañcāra* (4.41), and this is probably Abhinava’s source for the term.
+
 [^685]: *Vidyā-vrata* does not mean “vow of wisdom” but rather an ancillary ritual that qualifies one for an elaborate mantra practice, and involves five days of observing silence, doing *japa,* and wearing a white garment with limbs smeared with ashes, as described in the tenth chapter of the *Siddhayogeśvarī-mata*.
+
 [^686]: We saw already that in the SYM, the word *adhiṣṭhita* could mean “possessed, controlled” as well as “directed, governed, superintended.” See p. 173 above.
+
 [^687]: Cf. [[Tantraloka 13.140|TĀ 13.140-1]], 151c-53 (citing *Parātriṃśikā* 25 and 18cd-20) and 155ab.
 
 *[p. 273]* ^pg284
@@ -494,6 +559,7 @@ The various elements listed here are those generally thought necessary to qualif
 In this last statement, Abhinava refers to the Śaiva Siddhānta doctrine that the “Śivas by liberation” (*mukta-śivāḥ*) are equal to the original, primordial Śiva (*anādi-śiva*) but lack the authority of office (*adhikāra*) that the latter has. He compares learned knowledge to these beings who have become Śiva-like, and spontaneously arising intuitive insight to the original Śiva; a powerful statement, but it is an analogy, as he does not in fact hold the dualistic view. Further explaining the variations on this category of the *sāṃsiddhika-guru* or *prātibhācārya*, he writes in *Tantrāloka,* “Therefore such a devotee of the teachings of Śiva is initiated \[directly\] by the goddesses \[of his own faculties\]. Depending on the steadiness or shakiness \[of 
 
 [^688]: Cf. [[Tantraloka 13.136|TĀ 13.136-7]].
+
 [^689]: Cf. [[Tantraloka 13.139|TĀ 13.139]] and 4.70cd-73.
 
 *[p. 274]* ^pg285
@@ -520,6 +586,7 @@ In the first sentence above, Abhinava may be thinking of the definition of initi
 *evaṃ jigamiṣā-yogād ācāryaḥ prāpyate sa ca* || 13.223 *tāratamyādi-yogena saṃsiddhaḥ saṃskṛto 'pi ca* | 13.224ab ‘What is the Truth? Who knows that Truth?’ Due to having these reflections, through intuition or the company of \[spiritually-inclined\] friends, one conceives a desire to approach a guru. Thus, because he possesses that \[authentic\] desire, he finds a \[real\] master. And \[the master\], by the specific gradation \[of *śaktipāta* with which he is\] endowed, is \[either\] self-perfected or liberated through spiritual practice (*saṃskṛta*).
 
 [^691]: Cf. MVT 2.11, ŪKA 2.230-1, 241ab, and 244cd, already cited *supra*.
+
 [^692]: The earliest passage to teach this charismatic subitist initiation is found in the *Niśvāsa*’s *mūla-sūtra*, chapter nine: “Whoever a knower \[of the truth\] touches with his hand, or gazes at with his eye, that person he takes as an initiate, having contemplated reality” (*yaṃ yaṃ spṛśati hastena yaṃ yaṃ paśyati cakṣuṣā | dhyātvā tattvaṃ tu medhāvī dīkṣitaṃ taṃ vinirdiśet*; fol. 22v3, cited in VASUDEVA 2004: 19).
 
 *[p. 276]* ^pg287
@@ -541,6 +608,7 @@ The category of *sadyo-nirvāṇa-dīkṣā,* which frees the soul from the body
 Seeing the fitness of the disciple for initiation, marked by the fact of his having been kissed by an intense Descent of Power, the guru, whose \[expertise in\] mantra is perfect, should perform that initiation which is the cause of liberation, which grants *nirvāṇa* immediately, at that very moment. 
 
 [^693]: Or, as the commentator Jayaratha has it, from observing that his daily conduct exhibits equanimity, i.e. ignoring false divisions such as caste etc. (*sāmyena jātyādi-bheda-tiraskāreṇa bāhya-caryāyāḥ saṃdarśanād vimarśanād*).
+
 [^694]: Jayaratha glosses this with *kuṇḍagolaka*, which is a transgressive drink prepared with mingled sexual fluids; consumption of it without inhibition (*śaṅkā*) is considered tantamount to initiation in some Kaula circles (see TĀ 29).
 
 *[p. 277]* ^pg288
@@ -582,8 +650,11 @@ reason, those established in one or another of the lower teachings, even if they
 A ‘kisser’ (*cumbaka*) is simply a name for a Śaiva guru, perhaps one that emphasizes oral transmission of knowledge. It seems the designation was in origin a Kaula one, in which oral transmission was often held to be higher than textual transmission.[^699] But what of the fact that many people are attracted to gurus who seem to have supernatural powers? Abhinava now articles a subtle critique: 
 
 [^696]: For the Trika, this is the *triśūlābja-maṇḍala* or *maṇḍala* of Śiva’s trident surmounted by four symbolic lotuses.
+
 [^697]: From the nondualist perspective, a teaching is “higher” when it is more all-encompassing and more radically nondual.
+
 [^698]: *kramikaḥ śaktipātaś ca siddhānte vāmake tataḥ | dakṣe mate kule kaule ṣaḍardhe hṛdaye tataḥ |* *ullaṅghana-vaśād vāpi jhaṭity akramam eva vā ||.*
+
 [^699]: See *Kulasāra* 15 for the five types of Kaula guru and *Svacchandatantra* 5.46 and commentary for the *cumbaka*.
 
 *[p. 280]* ^pg291
@@ -611,6 +682,7 @@ The five Acts of God (*pañcakṛtya*) in Śaivism are creation (*sṛṣṭi*),
 These doubts and inhibitions (*śaṅka*) may arise, especially for a brāhmin, because of brāhminical criticisms of the Śaiva path as non-Vedic and its ritual as transgressing Vedic norms (and because that individual’s weak level of *śaktipāta* does not give him sufficient faith to ignore such criticisms). Even the claim that initiation bestows liberation goes strongly against the traditional Vedic grain as represented by bastions of orthodoxy such as Kumārila. 
 
 [^701]: Following the alternate reading given in the edition, *niyatyanapekṣaṇāt* for *niyatyapekṣaṇāt.*
+
 [^702]: Following the alternate reading given in the edition, *karmādyanapekṣa* for *karmādyapekṣa.*
 
 *[p. 282]* ^pg293
@@ -661,4 +733,5 @@ If God himself is like that (i.e. unitary, autonomous, etc.), and his true natur
 In this passage, our eye is first drawn to the use of the word *āveśa* in verse 102: the poison of confusion as it were possesses one, dictating one’s thoughts and actions. The word has not lost its original meaning in Abhinava’s lexicon. In contrast to this metaphorical poison, the teachings flowing from an authoritative source (*āgama*) are like a medicinal herb that restores health and well-being. And for the reader who slogged through the previous 100 verses, the ones that follow do feel like a refreshing balm. In verses 103-7, he adumbrates the view the underlies the whole chapter: that the one divinity that alone exists appears in the form of one who is bound, one who is shaking off bonds, and one who is free, and all are equally expressions of God in his real nature (*svabhāva*). It is His very essence to sport by appearing in these different ways. Therefore the whole question of causation is missing the point; it is simple a game (*krīḍā*) of appearances. The apparently bound soul has not after all relinquished his divine nature (though he may himself believe otherwise), therefore no cause need be sought, and the same goes for the return to the full and complete awareness of his real nature. Abhinava quotes Somānanda to corroborate the point: “Since his Divinity is described in terms of the Five Acts (of creation, stasis, dissolution, concealment, and revelation) why seek for other causes for one \[simply\] engaged in his natural conduct?”[^705]
 
 [^704]: The commentator Jayaratha gives as simple examples of *vikalpa*s *idaṃ kāryam* and *idam akāryam*: “this should be done” and “this should not.”
+
 [^705]: [[Tantraloka 13.108|TĀ 13.108c-9b]], quoting *Śivadṛṣṭi* 1.12c-13b: *pañca-prakāra-kṛtyokti-śivatvān nija-karmaṇe |* *pravṛttasya nimittānāmapareṣāṃ kva mārgaṇam |*

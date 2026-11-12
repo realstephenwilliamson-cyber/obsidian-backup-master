@@ -131,40 +131,65 @@ If[^38] he remembers before he begins the fourth blessing,[^39] he should recite
 If a person forgets and is unsure whether he recited grace or not, he must return and recite grace, provided his food has not become digested. ^2-14
 
 [^1]: [[Torah 46 - Eikev#^8-10|Deuteronomy 8:10]] states: "When you have eaten and are satiated, you shall bless God, your Lord...." *Berachot* [[Berakhot 48#48b|48b]] states that this command obligates us to recite the blessing thanking God for our sustenance.
+
 [^2]: The above verse continues, "for the good land which He has granted you." *Berachot* (*loc. cit.*) interprets this as an obligation to add a special blessing thanking God for *Eretz Yisrael*.
+
 [^3]: *Berachot* (*loc. cit.*) interprets the modifier "good" in the above verse as a reference to Jerusalem and the Temple. This allusion implies an obligation to add a blessing thanking God for these gifts.
+
 [^4]: As the Rambam explains, this blessing was a later addition. The Rambam includes the full text for these blessings in "The Order of Prayers for the Entire Year," which is found at the end of this text.
+
 [^5]: *Berachot* (*loc. cit.*) explains that Moses instituted this blessing when the manna descended. The manna serves as a clear sign of God's beneficence in granting sustenance to His creations.
+
 [^6]: *Berachot* (*loc. cit.*) continues, relating that when the Jews entered *Eretz Yisrael* and began to benefit from its produce, Joshua instituted the second blessing of grace.
+
 [^7]: who solidified the kingdom of Israel and conquered Jerusalem. He instituted the blessing thanking God, "for Israel, Your people, and Jerusalem, Your city" (*Berachot*, *loc. cit.*).
+
 [^8]: who built the Temple and added to the blessing instituted by his father, acknowledgement of "the great and holy house on which Your name is called" (*Berachot*, *loc. cit.*).  
     There is a slight difficulty with these statements. The first three blessings are considered to have been instituted by the Torah. If so, how can the authorship of the latter two of them be attributed to Joshua, David, and Solomon, who lived in later generations?  
     The Ramban in his *Hasagot* explains that, although the fundamental obligation to recite these blessings originates in the Torah, the basic form of the text of these blessings was ordained by each of these prophets in his time. Beforehand, each person would recite the grace in his own words. (See also the commentary on the following halachah.)  
     The Ramban also explains that, after the destruction of the Temple, a prayer that it be rebuilt was included in the third blessing. In this context, it is also worthy to question whether Ezra and the Men of the Great Assembly also made any changes in the grace when they arranged all the prayers and blessings, as mentioned in Chapter 1, Halachah 5 and commentary. (See *Kochba d'Shavit*.)
+
 [^9]: *Berachot* (*loc. cit.*) relates that the Sages instituted this blessing on the day the Romans granted permission for the dead of Beitar to be buried. This city had served as the capital of Bar Kochba's revolt against Rome and had exacted a heavy toll of legionnaires while making a valiant defense. When the city finally fell, the Romans slew hundreds of thousands mercilessly, the extent of the carnage staggering all chroniclers. As a further measure of punishment to its inhabitants, they refused to allow them to be buried.  
     Years passed before such permission was granted. When the Romans finally granted the Sages permission to bury these people, they were amazed at the wondrous miracle their eyes beheld. The corpses had remained whole. They had neither rotted, nor been eaten by predators. In appreciation of this Divine kindness, the Sages instituted this blessing, praising God for being "good" (for preventing them from rotting) and "doing good" (for allowing the corpses to be buried).
+
 [^10]: The obligation to recite the blessing before eating is Rabbinic in origin. In certain situations, the Sages did not institute such a requirement.
+
 [^11]: combining the second and third blessings and omitting the fourth.  
     *Tosafot, Berachot* 16a, states that although the third blessing is required by the Torah, it is not recited because the Sages have the power to withhold the fulfillment of a Torah precept. The *Kessef Mishneh* offers a different rationale, explaining that the Rambam did not state that the Torah requires that a specific number of blessings be recited for grace.  
     The *Rishon LeTzion* clarifies the matter further, explaining that the Rambam maintains that the Torah requires us to mention three concepts in grace: appreciation for the sustenance God grants us, appreciation for *Eretz Yisrael*, and appreciation for Jerusalem. According to the Torah, it does not matter how these three concepts are mentioned, whether in one blessing (as in *al hamichyah*), two blessings (as in this law), or three blessings (as is the usual case).
+
 [^12]: From this we learn two concepts:a) that it is forbidden to work while reciting grace (Jerusalem Talmud, *Berachot* 2:5; *Shulchan Aruch, Orach Chayim* 183:12);b) how important it is for a worker to devote himself faithfully to his work. See the conclusion of *Hilchot Sechirut*.
+
 [^13]: Rashi, *Berachot* (*loc. cit.*), explains that this distinction is made because the latter two blessings resemble each other, and hence can be combined with little difficulty. In contrast, the first blessing focuses on a different theme.
+
 [^14]: One should recite:  
     We offer thanks to You, God, our Lord, for having granted our ancestors a precious, good, and spacious land, and Jerusalem, Your city. May You rebuild it speedily in our days (Rabbenu Manoach).  
     It may be presumed that one should also include the aspects of the second and third blessings that Halachot 3 and 4 consider as absolute requirements (*Kinat Eliyahu*).
+
 [^15]: and conclude using the standard conclusion of the second blessing.
+
 [^16]: their responsibility to their employer is less, and they are required to recite all the blessings.
+
 [^17]: The fact that their employer joins them can be interpreted as license to take the leisure of reciting the full text of grace.  
     At present, it is assumed that employers allow their workers greater leniency and, in all instances, workers are required to recite the entire grace (*Shulchan Aruch, Orach Chayim* 191:2).
+
 [^18]: In "The Order of Prayers for the Entire Year," the Rambam relates that this blessing begins, "We offer thanks to You, God, our Lord..." and states, shortly before its conclusion, "For all these, God, our Lord, we give thanks to You." An omission of the second mention of thanks, however, does not require the repetition of grace (*Shulchan Aruch HaRav* 187:4).
+
 [^19]: This is a single expression of thanks, acknowledging God's gift of "a land which produces sustenance" (*Berachot* [[Berakhot 49#49a|49a]]).
+
 [^20]: This expression is a combination of the praises of *Eretz Yisrael* mentioned in [[Jeremiah 03#^3-19|Jeremiah 3:19]] and [[Torah 13 - Shemot#^3-8|Exodus 3:8]].
+
 [^21]: Unless one mentions these qualities, one has not adequately expressed one's appreciation for *Eretz Yisrael*. The omission of this phrase requires the repetition of the grace. See Halachah 12.
+
 [^22]: Rashi (*Berachot* [[Berakhot 48#48b|48b]]) explains that the mitzvah of circumcision is connected with God's promise of *Eretz Yisrael* to Abraham, as [[Torah 03 - Lech Lecha#^17-8|Genesis 17:8-10]] states: "I will give you and your descendants... the entire land of Canaan.... You shall keep My covenant.... Circumcise every male."
+
 [^23]: Rashi (*loc. cit.*) notes that a similar connection applies with regard to the Torah, as [[Torah 46 - Eikev#^8-1|Deuteronomy 8:1]] states: "Observe all the mitzvot which I am commanding you... so that you will... inherit the land that God promised to your ancestors."  
     The phraseology used by the Rambam indicates that he does not require the repetition of the grace if either of these points is omitted. Other authorities (including the *Shulchan Aruch, Orach Chayim* 187:3) differ and require the repetition of grace in such an instance.
+
 [^24]: which gives priority to the covenant
+
 [^25]: Note the conclusion of *Hilchot Milah*, where the Rambam enumerates these thirteen expressions.
+
 [^26]: The *Lechem Mishneh* notes that there are several other verses that refer to a covenant with regard to the Torah. These three, however, are unique in that they refer to the establishment of a covenant regarding the bond between the Jews and the Torah.1. *Berachot* [[Berakhot 49#49a|49a]] mentions both these possibilities. In "The Order of Prayers for the Entire Year," the Rambam quotes the former expression.2. The beginning of a blessing must share the same theme as its conclusion. Nevertheless, the rebuilding of Jerusalem shares a connection with God's showing mercy to the people of Israel, since the rebuilding of Jerusalem is an expression of God's mercy to the Jewish people (*Berachot*, *loc. cit.*).3. Although *Berachot* (*loc. cit.*) mentions that two different concepts should not be mentioned in the conclusion of a blessing, this version of the blessing does not contradict that rule. The intent is a single request that Israel be granted the ultimate comfort, the rebuilding of Jerusalem.4. Rashi, *Berachot* [[Berakhot 48#48b|48b]], mentions another reason for the mention of the House of David. It was David who conquered Jerusalem and established the holiness of the city. 5. Since an integral element of our celebration of the Sabbath and festivals is eating festive meals, the sacred element of the day should be mentioned in the grace recited after partaking of those meals. Nevertheless, the uniqueness of the day does not require a blessing in its own right, nor is it made the essential element of the third blessing. Therefore, one begins and concludes that blessing in the same manner as is done during the week (Rashi, *Tosafot, Berachot* 48b).6. The order in which these alternatives are mentioned in this halachah is the reverse of that mentioned in the previous halachah. It can be explained that in the previous halachah, the Rambam mentioned the text he considered most appropriate first. The order he mentions in this halachah, however, is closer to the expression used by our Sages in *Berachot* (*loc. cit.*), the source for this halachah.7. Pesach, Shavuot, and Sukkot. With regard to Rosh HaShanah, see the commentary on Halachah 13.8. *Shabbat* [[Shabbat 24#24a|24a]] explains that since an additional sacrifice (*korban musaf*) is offered on these days, they possess an element of sanctity that is worthy of mention. As obvious from the contrast of Halachah 12 to Halachah 13, however, there is a difference between the obligation to mention these days and the obligation to mention Sabbaths and festivals. 9. Since Chanukah and Purim are Rabbinic holidays which are not associated with an additional sacrificial offering, they are not mentioned in the third blessing. The second blessing is more appropriate for the mention of the miracles of these holidays, since it is an expression of thanks to God (*Shabbat* [[Shabbat 24#24a|24a]]).  
     The *Kessef Mishneh* and the *Lechem Mishneh* note that from *Shabbat* (*loc. cit.*), it would appear that while permission is granted to mention Chanukah and Purim in the second blessing, it is not an obligation to do so. In contrast, the Rambam requires that they be mentioned. They explain that since the Sages of the Talmud were wont to mention these holidays in grace, and the Jerusalem Talmud (*Berachot* 7:6) considers their mention a binding obligation, the Rambam established their mention as a requirement. See also Halachah 13 and commentary.10. Precedence is given to the Sabbath because it occurs more frequently than the festivals and is on a higher spiritual level (*Kessef Mishneh*). 11. "Blessed are You, God, our Lord, 16King13 of the Universe, the God, who is our Father and our 16King13... the 16King13 who is good." The reason for this stress on God's sovereignty in this blessing is that the blessing recited previously mentions the sovereignty of the House of David, and the Sages wanted to emphasize how all earthly kings are subordinate to a higher authority (*Berachot* [[Berakhot 49#49a|49a]]).12. The blessing mentioned is quoted from *Berachot* [[Berakhot 46#46a|46a]]. That source also contains additions to the blessing that Rabbi Yehudah HaNasi would recite. 13. The Rambam's words are quoted from *Berachot* [[Berakhot 46#46b|46b]], which relates that Mar Zutra recited this blessing.  
     The *Shulchan Aruch* (*Yoreh De'ah* 379:14) relates that this blessing should be recited throughout the seven days of mourning by the mourners and by all who recite grace together with him when there is a *zimun*. Other opinions (based on *Ketubot* [[Ketubot 8#8a|8a]]) state that this blessing should be recited only when ten people recite grace together. The *Kitzur Shulchan Aruch* 207:7 writes that it is Ashkenazic custom to rely on this opinion, and hence, this blessing is generally not recited.14. *Berachot* (*loc. cit.*) relates several additions Mar Zutra made on the above occasion.15. In "The Order of Prayers for the Entire Year," the Rambam includes several requests beginning with the word *Harachaman* (May the Merciful One...) in his text of grace. These requests were additions to the grace made by the Geonim, who lived in the era subsequent to the Talmud. 16. This refers to the final blessing quoted in Halachah 11.17. *Nisu'in* (marriage) is marked by the entry of a bride and groom into a private chamber together. This ceremony is referred to as *chuppah* and is accompanied by a celebration. See *Hilchot Ishut*, Chapter 10, and commentaries.  
@@ -173,33 +198,54 @@ If a person forgets and is unsure whether he recited grace or not, he must retur
     In *Hilchot Ishut*, where the text of the wedding blessings is repeated, this blessing follows the blessing "who has created all things for His glory." This order is the sequence in which these blessings are recited today. It appears more appropriate, particularly according to Rashi's commentary (*loc. cit.*), which explains that the blessing "who has created all things..." is not directly connected to the wedding itself, but rather is recited in appreciation of the guests who have come to celebrate together with the new couple.  
     [The repetition of the text of the blessings in two separate halachot, something very out of character for the Rambam in the *Mishneh Torah*, has aroused the attention of the commentaries. Some have gone so far as to suggest that the text of the blessings here was added by the printers, and not by the Rambam himself.]24. Despite the fact that this blessing follows two (or three) blessings which begin with "Blessed...," it also begins with "Blessed...." Among the explanations offered is that the first blessings are short, and if the line "Blessed..." were not mentioned, they would appear as a single blessing (*Tosafot, Ketubot*, *loc. cit.*).25. Rashi (*loc. cit.*) interprets this as a reference to the creation of woman, who was created from man ("his own self"), and gives him the potential for reproduction ("a structure that will last for all time").26. "The barren one" refers to Jerusalem. [[Psalms 137#^137-6|Psalms 137:6]] states: "Let my tongue cleave to my palate if I do not place Jerusalem above my highest joy." Thus, at the height of the wedding celebration, we recall the holy city and pray that it be rebuilt. 27. This is a prayer that the bride and groom enjoy the happiness experienced by Adam in Eve before the first sin.  
     Several manuscripts and early printings of the *Mishneh Torah* mention a different conclusion for this blessing, "Blessed are You, God, who brings joy to His people, Israel, and rebuilds Jerusalem." (In this context, note the commentary of the *Lechem Mishneh*.)28. The blessing joins our wishes for the happiness of the particular couple with our hope for the Messianic redemption and the rebuilding of Jerusalem. The ultimate marriage relationship is the bond between God and the Jewish people, which will be realized in the Messianic age. Thus, the two themes, marriage and redemption, share an intrinsic link.29. Rashi, *Ketubot* [[Ketubot 8#8a|8a]], explains the difference between the last two blessings. The fifth of the blessings concludes with a request that the bride and groom enjoy a lifetime of happiness and success together. The sixth and final blessing concludes with a request that they find happiness in each other, that their wedding joy be extended throughout their lives. Alternatively, the final blessing is a blessing for the Jewish people as a whole who find fulfillment in married life.
+
 [^27]: More precisely, mentions God's name in the conclusion of the third blessing. If he remembers his omission before he mentions God's name, he should add the special passage, and then repeat *Uvneh Yerushalayim*. Once he mentions God's name, however, he should complete the blessing, "*boneh Yerushalayim. Amen,*" and then add the blessing mentioned below.
+
 [^28]: See Halachah 5.
+
 [^29]: *Shulchan Aruch HaRav* 188:9 interprets this to mean: before he mentions even a single word of the blessing. The *Mishnah Berurah* 188:23, however, differs and maintains that even after mentioning God's name, one may still continue, "who has granted rest...."
+
 [^30]: Significantly, throughout this halachah, the Rambam does not differentiate between the first two meals of the Sabbaths and festivals and any subsequent ones. As will be explained, the *Shulchan Aruch* (*Orach Chayim* 188:8) does make such a distinction with regard to the repetition of grace. Nevertheless, if a person remembers his omission in time to add the special blessing, even the *Shulchan Aruch* (*loc. cit.*:7) requires it to be recited after any and all meals on Sabbaths and festivals.
+
 [^31]: The Sabbath was sanctified by God on the seventh day of creation.
+
 [^32]: Our text follows the position of the *Lechem Mishneh*, who emphasizes that this blessing contains God's name and the phrase "King of the universe," as do other blessings. This view is not shared by the *Rishon LeTzion* and several other commentaries, who point to the fact that neither *Berachot* [[Berakhot 49#49a|49a]] nor the Rambam explicitly mentions God's sovereignty. Nevertheless, the *Shulchan Aruch* (*loc. cit.*:6) shares the *Lechem Mishneh's* position.
+
 [^33]: The sanctification of the festivals is dependent on the Jews, who fix the monthly calendar. (See *Beitzah* [[Beitzah 17#17a|17a]].)
+
 [^34]: without any further changes.
+
 [^35]: i.e., even if he merely mentions the first word, *Baruch*, as explained above
+
 [^36]: Based on *Berachot* [[Berakhot 49#49b|49b]], the *Shulchan Aruch* (*loc. cit.*:8) mentions a difference between the first two meals on the Sabbath and festivals and any subsequent ones. We are obligated to eat only two meals that require grace on these holy days. One may fulfill his obligation for the third meal with other foods, without eating bread on the Sabbath, whereas on festivals one is not obligated to eat a third meal at all.  
     Accordingly, although there is a dimension of holiness connected with all the Sabbath and festival meals, the need to mention this dimension in grace is considered significant enough to require repetition of all the blessings only when an omission is made in the first two meals of the day.  
     It must be noted that neither the Rambam nor *Berachot* (*loc. cit.*) make such a differentiation explicitly. This has led the *Rishon LeTzion* and others to postulate that the Rambam maintains that an omission of the Sabbath or festivals in grace is sufficient to require repetition of the blessings in any meal eaten on these holy days.
+
 [^37]: If three people ate together and made the same omission, however, they do not repeat the *zimmun* (*Shulchan Aruch*, *loc. cit.*:9).  
     The Ra'avad challenges the Rambam's decision, calling attention to a law quoted by the Rambam in *Hilchot Tefillah* 10:10. When a person omits *Ya'aleh v'yavo* in the *Shemoneh Esreh*, he is required to repeat the entire *Shemoneh Esreh*. Nevertheless, if he is accustomed to recite prayers of supplication after *Shemoneh Esreh* before withdrawing from his place of prayer, and remembers while in the midst of those supplications, he is not required to repeat *Shemoneh Esreh*. All that is necessary is to return to the blessing *R'tzey*.  
     Similarly, the Ra'avad argues, the blessing *Hatov v'hametiv* resembles the supplicatory prayers recited after *Shemoneh Esreh*. Accordingly, one should return to the third blessing of grace and not recite the other two.  
     This opinion, although respected for its sound reasoning, is not accepted by most authorities. The *Shulchan Aruch* (*loc. cit.*:6) and others quote the Rambam's view.
+
 [^38]: as required in Halachah 5:
+
 [^39]: as mentioned in the commentary on the previous halachah, this means after one has recited even a single word of the blessing.
+
 [^40]: Many blessings begin: "Blessed are You, God, King of the universe...," and conclude, "Blessed are You, God...." The latter concluding phrase is referred to as a *chatimah*. (See *Hilchot Kri'at Shema* 1:7.)  
     *Berachot* [[Berakhot 49#49a|49a]] mentions that the Sages were unsure of whether this blessing should include a *chatimah* or not. Therefore, to avoid the possibility of mentioning God's name in vain, the *chatimah* is omitted.
+
 [^41]: without any further changes.
+
 [^42]: the omission
+
 [^43]: the fourth blessing
+
 [^44]: *Berachot* [[Berakhot 49#49b|49b]] explains that although in prayer (see *Hilchot Tefillah* 10:10), the omission of *Ya'aleh v'yavo* warrants a repetition of the *Shemoneh Esreh*, on *Rosh Chodesh* its omission does not warrant a repetition of grace. The difference between the two is that prayer is an obligation, while eating a meal of bread is not. Since there is no obligation to recite grace on *Rosh Chodesh*, failing to mention it in grace is not sufficient cause to warrant its repetition.
+
 [^45]: since we are not obligated to eat a meal of bread on these days.  
     Within this context, it is worthy to mention the laws regarding the recitation of *Ya'aleh v'yavo* on Rosh HaShanah. Neither the Rambam nor the Talmudic sources which deal with this subject (*Berachot* [[Berakhot 49#49a|49a]]-b and *Shabbat* [[Shabbat 24#24a|24a]]) mention adding *Ya'aleh v'yavo* to grace on Rosh HaShanah. Nevertheless, the *Magen Avraham* (188:7) takes it for granted that such an addition should be made.  
     Furthermore, if one becomes conscious of the omission of that addition before beginning the fourth blessing, one should add a special blessing to mention Rosh HaShanah. If, however, one has already begun the fourth blessing, one should continue grace without mentioning Rosh HaShanah, since there is no obligation to eat festive meals on that day. On the contrary, fasting is allowed.
+
 [^46]: *Al hanisim*, as mentioned in Halachah 6.
+
 [^47]: The Jerusalem Talmud (*Berachot* 7:6) requires grace to be repeated for such an omission. Nevertheless, since there is no indication in the Babylonian Talmud of such an obligation (indeed, *Shabbat* [[Shabbat 24#24a|24a]] does not require even the recitation of *Al hanisim*), the Rambam does not accept that ruling.  
     It has, however, become customary to add *Al hanisim* among the paragraphs beginning *Harachaman* at the conclusion of grace if one forgets to recite it in its proper place (Ramah, *Orach Chayim* 187:4).

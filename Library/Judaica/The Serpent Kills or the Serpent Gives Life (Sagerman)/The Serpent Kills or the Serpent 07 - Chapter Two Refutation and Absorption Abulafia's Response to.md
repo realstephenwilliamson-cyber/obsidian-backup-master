@@ -41,7 +41,9 @@ Before exploring *\[illegible\] Eden Ganuz*, it is worth investigating whether A
 This orderly picture is disrupted, however, when we consider the evidence of *Sefer ha-Melammed*, composed in 1276, also during Abulafia’s period of demonic trial. This text, we have seen, enunciates a more moderate position with respect to the status of the nations than that presented in *\[illegible\] ha-Nefesh*.[^114] In order to make sense of this data, then, we might construct a different narr ative, saying that Abulafia’s mission to the Pope, in particular, was characterized by a critical perspective on Christendom. *Hayyei ha-Nefesh* was written while Abulafia was en route to Rome, so this would then explain his less charitable disposition. However, we might have expected an attitude from Abulafia, at this momentous juncture in his life, more in keeping 
 
 [^112]: Abulafia’s more favorable disposition toward Islam, as against Christianity, is reflected as well among Abulafia’s kindred Spanish Jews. See, for instance, the notion conveyed by Todros Abulafia that Christian women are unclean while Muslim women are not. Nirenberg, “Love between Muslim and Jew in Medieval Spain,” p. 131. The trend was matched on the Christian side, where Muslims were often seen as less odious than Jews. Ibid., pp. 142, 151. See also idem, *Communities of Violence*, p. 195. See also Glick, “ ‘My Master, the Jew,’ ” p. 162. Jews engaged with Muslims in scientific and intellectual interchange at the highest levels. Occasionally, however, the same was true as well of Jews and Christians. Ibid., pp. 164–165, 167, 169.
+
 [^113]: Hames, *Like Angels on Jacob’s Ladder*, p. 31.
+
 [^114]: See above, pp. 47–48.
 
 *[p. 69]* ^pg84
@@ -65,6 +67,7 @@ Abulafia allows for the existence of intellective sages among the gentile nation
 We should also observe that Abulafia states, with respect to the lowest strata of humanity within a given gentile nation, that one should evaluate whether control over money is demonstrated. Polemical charges flew back and forth between medieval Jews and Christians concerning the other’s inability to bridle his avarice and hedonistic proclivities.[^117] It is noteworthy here again that Abulafia, at least in this instance, is tolerant of the notion that a gentile nation may be capable of manifesting proper conduct in regard to the human temptation toward greed.
 
 [^116]: *\[illegible\] Eden Ganuz*, MS Oxford-BL 1580, fol. 92a; printed edition, pp. 189–190
+
 [^117]: In *Milhemet Misvah,* the notion that Christians may be absolved of their earthly sins through baptism or donations is attacked. Chazan, *Daggers of Faith*, p. 62. Marcus refers to the “well-known images of the Jew as usurer or as an embodiment of pride.” “Jews and Christians Imagining the Other in Medieval Europe,” p. 217.
 
 *[p. 71]* ^pg86
@@ -78,6 +81,7 @@ The tripartite method of evaluating the structure of a nation is here applied to
 And there is no doubt that none of the nations will deny the loftiness of our nation and of our Torah and of our language and of our writing. Rather all attest to these four heights and also attest to what necessarily results from them, that is, in terms of thought and knowledge and action. However, they say that this was so before, but all of that has passed and it is not so today, because there are already other nations who have been brought closer to God than our nation, and thus are closer to Him. That the Jewish people were uniquely endowed by God, Abulafia says, is universally accepted. The special status of the Jews, he suggests, is distinguishable when one observes their national character, as well as their literary and intellective distinction. These hallmarks manifest themselves in terms of superiority in “thought and knowledge and action,” arenas that conform to the prophetic, sagacious and kingly spheres, respectively. Jewish superiority to the gentiles at every level was at one time universally accepted, according to Abulafia, although many now claim that this distinctiveness to the Jewish people has passed on to other nations.
 
 [^118]: *'Oşar Eden Ganuz*, MS Oxford-BL 1580, fol. 92b; printed edition, p. 190.
+
 [^119]: Ibid., MS Oxford-BL 1580, fol. 92b; printed edition, p. 191. See Hames, *Like Angels on Jacob’s Ladder*, p. 63.
 
 *[p. 72]* ^pg87
@@ -103,8 +107,11 @@ Abulafia concludes in traditional fashion. The Jews’ access to the Active Inte
 We know this chief status because it is the first cause of our being distinguished from the other nations. So that we say that even today any 
 
 [^121]: The use of the Active Intellect by the Jew in elucidating Torah is intimately related to Abulafia’s conception of the Torah as identical with the Active Intellect. See Idel, *Language, Torah, Hermeneutics*, p. 33; Wolfson, *Abraham Abulafia*, p. 141.
+
 [^122]: For *dibbur*, or “utterance,” as an appellation for the Active Intellect, see Idel, “The Writings of Abraham Abulafia and His Teaching,” p. 92 (in Hebrew).
+
 [^123]: Chazan notes that Barcelona during this period saw an intensification of Christian attacks on the illogicality of Jewish legalism, and of a concomitant response from Jewish quarters. *Daggers of Faith*, pp. 145–146.
+
 [^124]: *Osar Eden Ganuz*, MS Oxford-BL 1580, fol. 92b; printed edition, p. 191.
 
 *[p. 74]* ^pg89
@@ -116,7 +123,9 @@ Abulafia enunciates another logical prooftext for the distinctiveness of the Jew
 But the intellective ideas are that since it is just for this nation \[that of the Jews\] to be the most lofty with respect to God of all the nations, and closer to Him, may He be blessed, and more considerate of His concerns and His attributes and His actions, and it is as distant as can be from Him, the secret of the judgment is for it to be humble and lessermost of all the nations and to be ruled and taunted by all who see it. And thus 
 
 [^125]: It is possible that Abulafia alludes to Muslims here; they are sons of Ishmael, Abraham’s son, but they do not follow the *misvot,* and so they are not truly, in Abulafia’s estimation, of Abraham’s seed*.*
+
 [^126]: Chazan, *Daggers of Faith*, p. 159. Marcus, however, points to a passage from *Sefer H asidim* which suggests a Jewish anxiety that Jewish-Christian polemics could lead to the less sophisticated Jew’s being led astray. “Jews and Christians Imagining the Other in Medieval Europe,” p. 215. Marcus also points to a rise in anecdotal evidence for Jews’ conversion to Christianity by the mid- to late twelfth century. Ibid., p. 216.
+
 [^127]: *\[illegible\] Eden Ganuz*, MS Oxford-BL 1580, fol. 93a; printed edition, p. 192.
 
 *[p. 75]* ^pg90
@@ -148,8 +157,11 @@ and knowledge with strange wonders,”[^130] and he once more refers to Jesus as
 In truth, however, Jesus exchanged circumcision for baptism, and in so doing “. . . he transformed their form from that of men to that of women, and returned the foreskins of their hearts and the foreskins of their flesh, like women.”[^131] Abulafia subsequently derives a prooftext for Jesus’ truly idolatrous nature. He does so through a *gematria,* adding up the numerical values of the letters composing particular words and drawing connections between words or phrases possessing the same numerical value. The numerical value of the letters of the Hebrew name for Jesus, “Yeshu,” is the same, Abulafia observes, as that for the Biblical phrase “alien gods.”[^132] The accusation that Jesus feminized his disciples taps into that larger theme of the evil, feminine power of the religious faith of the other. This theme occupies a central position in the medieval polemical discourse.[^133] We can sense that Abulafia perceives that femininity can be spread among the misled like a kind of contagion. Through his final proof, the *gematria* that references idolatry more generally, the sense is conveyed that femininity can be contracted from idolatry. This conception recalls that implied by the rabbis concerning R. Eliezer’s chance encounter with a sectarian, which led to his being beguiled and drawn into heresy. 
 
 [^130]: The traditional charge of Jesus as a sorcerer was one taken up by Abulafia. It is reflected as well in the contemporary polemical discourse, occurring in the context of the Jewish effort to end forced Christian preaching in synagogues. If the Pharisees charged that Jesus was a sorcerer, it was argued, then the Jews could not legally be forced to violate their own laws by listening to Christian preaching. Chazan, “Confrontation in the Synagogue of Narbonne,” pp. 442–443.
+
 [^131]: *Sitrei Torah*, MS Paris-BN héb. 774, fol. 142b; printed edition, p. 97.
+
 [^132]: Ibid., MS Paris-BN héb. 774, fol. 142b; printed edition, pp. 96–97. This passage is mentioned by Hames, *Like Angels on Jacob’s Ladder*, p. 134 n. 20. See also ibid., p. 140 n. 28.
+
 [^133]: See Kruger, “Becoming Christian, Becoming Male?” Gilman, in *Jewish Self-* *Hatred*, pp. 4–5, notes the Christian ascription of menstruation to Jews. Johnson, “The Myth of Jewish Male Menses,” p. 274, maintains that earlier Christian contentions regarding Jewish male anal bleeding did not turn into a doctrine of Jewish male femininity until the early modern period. Nevertheless Johnson points to at least one Christian source from as early as 1302 which refers to Jewish male monthly bleeding. See above, p. 42 n. 56.
 
 *[p. 78]* ^pg93
@@ -201,9 +213,13 @@ Concerning the apparent difficulty raised by the fact of the persistence of Jewi
 And we see today that the Christians worship idolatrously, and they do not recognize a word properly; and thus it is not proper \[for them\] to say that there is a difficulty concerning these matters \[of the dispensation of reward and punishment\], unless \[they do so\] because of a deficiency in the apprehension of the gift of the divine attributes. Because the one 
 
 [^138]: Chazan notes that, “A number of sources indicate that precisely this theme \[the extraordinary length of the Jewish exile\] lay at the heart of the energetic Christian missionizing of the middle decades of the \[thirteenth\] century.” Such an argument was apparently raised during the forced Christian sermonizing in the synagogue of Narbonne in the late 1250s or early 1260s. “Confrontation in the Synagogue of Narbonne,” pp. 451, 457.
+
 [^139]: *Gan \[illegible\]* MS Munich-BS 58 fol. 327a; printed edition, p. 37. See Hames, *Like Angels on Jacob’s Ladder*, pp. 75–76.
+
 [^140]: See Idel, *Messianic Mystics*, pp. 65–67, for the relationship in Abulafia’s thought between the messiah, the Active Intellect and redemption. Abulafia conceived of the messiah as the Active Intellect itself, both as an internal human faculty through which an individual may achieve salvation and as an agent effecting historical redemption.
+
 [^141]: We might suspect the *sefira Gevurah* here, which is associated with evil and with God’s harsh judgment.
+
 [^142]: *\[illegible\] ha-Tokhahot,* MS Oxford-BL 1605, fols. 49a–b; printed edition, p. 47.
 
 *[p. 82]* ^pg97
@@ -219,6 +235,7 @@ the secrets of the attributes” that God restrains His anger against the Israel
 Abulafia does not ultimately elaborate upon the nature of the “great secret” of God’s imposition of such a lengthy exile upon the Jews. The phrase may refer either to his own calculations concerning redemption, which are indebted to kabbalistic hermeneutics based upon the Book of Daniel,[^143] or it may refer simply to the perspective that the vicissitudes of the Jewish people are comprehensible not through any surface logic but, rather, that they result from the fact that the Jews possess a covenant whose nature transcends apparent justice. Regardless, the Christian approach to the question of the fate suffered by the Jewish people reveals only their own insubordination and detachment from the divine. By contrast, conjunction with the Active Intellect stands in direct opposition to the nature of the gentiles. This is apparent from an earlier statement of Abulafia’s, in fact his point of departure for the discussion of the destiny of the nations: “See and understand that the aim of the intention is to always hear the voice of God through the secret of prophecy that I told to you. And we learn from its words that if idolatry is not first purged from the heart it is impossible to hear the voice of God.” It is precisely because they do not commune with the divine after the fashion of the Jewish kabbalists that the gentiles, regardless of their current status, will be annihilated, while the Jews will be redeemed: “And it is the cause of the destruction of those who worship \[idolatrously\], like all of the nations, as if they are completely corporeal, because they worship idolatrously while they are not drawn after the opinions of the souls of the enlightened ones.”[^144]
 
 [^143]: Abulafia follows the precedent set by Nahmanides in this regard. Caputo, *\[illegible\] in Medieval Catalonia*, p. 145.
+
 [^144]: Elsewhere Abulafia suggests that it is the high status itself of Christendom that will be responsible for its downfall. In *Mafieah ha-Shemot* Abulafia explains that the success of Christendom is at least the partial cause of its impiety. Abulafia writes that Christians commit the same error as did pharaoh, who thought, due to the extent of his power, that he “was the first god of all creatures.” Christians will be subjected, at the hands of the true messiah, to “harsh judgment” for their idolatrous beliefs, writes Abulafia, for which reason, he contends, the Christians refer to the messiah as “anti-Christ.” *Mafieah ha-Shemot*, MS NY-JTSA Mic. 1897, fols. 81b–82a; printed edition, p. 130. The analogy that Abulafia draws between pharaoh and Jesus will be discussed further. Note that the same analogy is also drawn in the Jewish response to forced Christian sermonizing in the synagogue of Narbonne. Chazan, “Confrontation in the Synagogue of Narbonne,” p. 449. Abulafia’s reference to himself as the Antichrist is discussed by Hames, *Like Angels on Jacob’s Ladder*, p. 26.
 
 *[p. 84]* ^pg99
@@ -240,8 +257,11 @@ tian notion of divine sonship. This fact renders all the more surprising a parti
 Abulafia’s conceptions are imbedded within a convoluted set of letter operations. He writes as follows:[^147] “. . . And the sum of 3, 4, 5, 6, 7, 8, 9, 10 combined is ‘son.’[^148] Because there is no 1, 2 there \[that is, the letters *alef* and *bet*, which together spell the Hebrew word for 
 
 [^145]: Wolfson, *Abraham Abulafia*, pp. 131–133 n. 101; Baer, “The Kabbalistic Doctrine in the Christological Teaching of Abner of Burgos,” pp. 280–284 (in Hebrew); Liebes, *Studies in the Zohar*, p. 142. Jewish convert to Christianity and fourteenth century polemicist Abner of Burgos turns as well to *Midrash Tehillim* for a prooftext of God’s triadic essence, referring to three divine names in this regard, which are troped as attributes of God. Related triadic doctrines are present as well in both the *Zohar* and the work of Joseph Gikatilla. See other related triadic doctrines in Idel, “Notes on a Jewish-Christian Debate in the Middle Ages,” *Jerusalem Studies in Jewish Thought* 3 (1984), pp. 689–698 (in Hebrew). See also Hames, *The Art of Conversion.* Hames notes Ramon Lull’s acquaintance with kabbalah, and observes the place of trinitarian doctrines and their affinities to kabbalah in Lull’s efforts to woo Jews to Christianity. See also Idel, “Ramon Lull and Ecstatic Kabbalah: A Preliminary Observation.” Idel maintains that Lull’s affinity with kabbalah was primarily formal and not conceptual. After the Barcelona Disputation, Friar Raymond of Penafort engaged in synagogue preaching in which he continued to describe the Trinity in terms of Wisdom, Will and Power. Roth, “The Disputation of Barcelona (1263),” p. 133; Chazan, “Confrontation in the Synagogue of Narbonne,” p. 454. See also above, p. 36 n. 39.
+
 [^146]: *O;ar Eden Ganuz*, MS Oxford-BL 1580, fols. 14a–15b; printed edition, pp. 27–31.
+
 [^147]: Ibid., MS Oxford-BL 1580, fol. 14a; printed edition, p. 27.
+
 [^148]: The sum of these digits is fifty-two, the same as that for the numerical values of the two Hebrew letters comprising the word for “son,” *ben.*
 
 *[p. 86]* ^pg101
@@ -253,11 +273,17 @@ And indeed it \[*Sefer { esirah\]* says that the first, which is one, is the Hol
 Throughout this portion of *\[illegible\] Eden Ganuz*, Abulafia identifies the numbers one through ten as the *sefirot*.[^154] These Abulafia equates with the Holy Spirit, the father and the son, in descending order. It is worth reviewing the mechanism by which this is accomplished: The third through the tenth *sefirot* together comprise the “son,” given that the sum of the numbers three through ten is numerically equivalent to the Hebrew word *ben*, “son.”[^155] The letters comprising the word “father” 
 
 [^149]: That is, the sequence YH, whose letters represent the numerical values of ten and five, is the reverse of the sequence of the numerical values of the letters comprising the word “father,” one and two; five is one half of ten and one is one half of two.
+
 [^150]: Ibid., MS Oxford-BL 1580, fol. 14b; printed edition, p. 28.
+
 [^151]: *Sefer Yesirah,* Gruenwald ed., 1:9 (para. 10).
+
 [^152]: *\[illegible\] Eden Ganuz*, MS Oxford-BL 1580, fol. 15b; printed edition, p. 31.
+
 [^153]: The divine name “Adonai has a numerical value of sixty-five, that is, fifty-two plus three (the first number in the set of three to ten) plus ten (the last number in this set), although see the continuation of this discussion below.
+
 [^154]: For the *sefirot* as numbers in Abulafia’s thought, see Idel, *Kabbalah: New Perspectives*, p. 349 n. 323; Wolfson, *Abraham Abulafia*, p. 135. Abulafia’s amplification upon the significance of the *sefirot* reveals that he conceives of them as essentially synonymous with the Aristotelian separate intellects. See ibid., p. 136.
+
 [^155]: Note that this formulation is not far afield from the theosophic kabbalists’ identification of the *sefira Tif ’eret* as the son. Tishby notes the zoharic sefirotic configuration wherein the *sefirot Hokhmah, Binah, Tif ’eret* and *Malkhut* represent, respectively, the father, mother, son and daughter. *Wisdom of the Zohar*, pp. 281–282. *Tif’eret* is the sixth *sefira* in descending order, but it is often identified as embodying collectively the fourth through the ninth *sefirot*. Wolfson, *Language, Eros, Being*, p. 358. See also Green, “*Shekhinah*, the Virgin Mary, and the *Song of Songs*,” p. 38 n.150. See also ibid., p. 40 n. 160.
 
 *[p. 87]* ^pg102
@@ -273,8 +299,11 @@ Abulafia’s recourse to mystical hermeneutical methods—that is, to *gematria�
 156\. Thus the “father” is presumably relegated to the position of second *sefira*, again in accord with certain theosophic traditions, which also identify the third *sefira* as the mother. See previous note.
 
 [^157]: Abulafia will return to this same overall formulation near the end of *\[illegible\] Eden Ganuz*. MS Oxford-BL 1580, fol. 158a; printed edition, p. 354.
+
 [^158]: For a survey of scholarly approaches to this enigmatic phrase, see Abrams, “The Boundaries of Divine Ontology,” pp. 293–298.
+
 [^159]: See Wolfson, *Abraham Abulafia*, pp. 131, 133.
+
 [^160]: *Sefer ha-Hesheq* (*The Book of Desire*), MS NY-JTSA Mic. 1801, fol. 27a; printed edition, p. 54. See Scholem, *Major Trends in Jewish Mysticism*, p. 380 n. 37.
 
 *[p. 88]* ^pg103
@@ -287,7 +316,9 @@ Subsequently Abulafia invokes a messianic dimension to this proper apprehension 
 162\. *Sefer Yesirah,* Gruenwald ed., 1:3 (para. 3).
 
 [^163]: The phrase “the son of David comes” has a numerical value of sixty-nine, equal to the numerical value of the phrase “five father five son,” *he w he ben*, when the number of elements here, four, is also included in the sum.
+
 [^164]: The numerical value of the word “prophecy” is sixty-nine. See previous note.
+
 [^165]: Later in *\[illegible\] Eden Ganuz*, Abulafia writes, “Know that the attributes depend upon the Holy Spirit to lead them, which is the leader of all. Thus it is called the first *sefira*, and it is the Active Intellect of all, which is the Prince of the World . . . And its name is ‘Angel of YHVH’ and it is the angel whose name is YHVH. And this is because all of the attributes are in its hand. And the attribute *Malkhut* is assigned the name ‘the tenth attribute’ and the attribute *Keter* (Crown) is the attribute that contains three comprising heights (*shalosh ma'alot kelaliyot*) and one specific comprising one is above all of them . . . And it is said, David already received *Keter Malkhut* \[one of these three heights, referred to as crowns\], that is, at the end of all the generations, *Malkhut* will be given to the tribe of Judah by an oath from God, and to the family of the house of David. That is, to his sons and to his sons’ sons until the messiah.” *O;ar Eden Ganuz*, MS Oxford-BL 1580, fol. 71a; printed edition, pp. 139–140. Here we see that the Holy Spirit is to be identified with the angel Metatron, Abulafia’s alter ego, who comes into possession of the *sefirot Keter* and *Malkhut* (even though Metatron is here already identified as the first *sefira*, the Holy Spirit, nevertheless he comes into possession of *Keter*, also to be understood as the first *sefira*, in its aspect of union with the last *sefira, Malkhut*), with messianic repercussions. Abulafia describes the sensation of being anointed—being rendered *mashiah—tha* occurs at the time of receiving prophetic revelation. Ibid., MS Oxford-BL 1580, fol. 162b; printed edition, pp. 365–366. See Idel, *The Mystical Experience in Abraham Abulafia*, p. 127. For Metatron, see also above, pp. 41–42 n. 55, 56 n. 91. For Metatron as first and last of the separate intellects—that is, the *sefirot—*See also Wolfson, “Kenotic Overflow and Temporal Transcendence,” pp. 155–156. Idel suggests that Abulafia’s identification of the Holy Spirit with the Active Intellect comes from al-Farabi. “The Writings of Abraham Abulafia and His Teaching,” p. 88 (in Hebrew).
 
 *[p. 89]* ^pg104
@@ -299,7 +330,9 @@ We may gather that Abulafia perceives his own messianic status to have resulted 
 It is important to note that the Holy Spirit is likewise described in the New Testament Acts of the Apostles as the agent through which 
 
 [^166]: See previous note.
+
 [^167]: Abulafia refers to prophecy as “speaking in the Holy Spirit.” *Oşar Eden Ganuz*, MS Oxford-BL 1580, fol. 32b; printed edition, p. 66. Idel notes that Abulafia conceived of prophetic utterance as the Active Intellect’s transmission of revelation, and of the speech through which it is expressed, to the soul of the prophet. Idel, “The Writings of Abraham Abulafia and His Teaching,” p. 299 (in Hebrew).
+
 [^168]: *Oşar Eden Ganuz*, MS Oxford-BL 1580, fol. 33a; printed edition, p. 68.
 
 *[p. 90]* ^pg105
@@ -321,8 +354,11 @@ Abulafia elsewhere expresses his belief in the intimate connection—indeed, the
 Abulafia begins one passage in *Sitrei Torah* by discussing the threefold nature of speech.[^173] He parses its tripartite quality in terms of three features, intellection, the intellectualizing, and that which is intellectualized. These, he says, conform to the “appearance of the man upon it \[the throne\] above” (Ez. 1:26), the “wheel” (from Ezekiel’s vision as well ), and the man below, respectively. The mystic must actualize each. We can see that there is a certain parallelism with the trinitarian passages discussed earlier. There, prophecy was thought to come 
 
 [^170]: Idel, “The Writings of Abraham Abulafia and His Teaching,” p. 226 (in Hebrew). Idem, *Language, Torah, Hermeneutics*, p. 33. Wolfson points to a passage from *\[illegible\] Shefer* (*Sayings of Wisdom*), to be cited below, which refers to the *sefirot* as “the root of all principles,” which contain and give rise to the letters. *Abraham Abulafia*, pp. 108–109 n. 44.
+
 [^171]: Both phrases yield a sum of one thousand two hundred and fourteen. See Scholem, *Major Trends in Jewish Mysticism*, p. 381 n. 53; Idel, *Language, Torah, Hermeneutics*, p. 101; Wolfson, *Abraham Abulafia*, p. 108
+
 [^172]: *Sheva‘ Netivot ha-Torah*, in Jellinek, *Philosophie und Kabbala*, p. 4.
+
 [^173]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fols. 38a–b; printed edition, p. 88.
 
 *[p. 92]* ^pg107
@@ -332,6 +368,7 @@ to the mystic who properly fathoms the nature of the tripartite divine world. In
 And from this matter \[that of the divine nature of speech\] you will know that the linguistic potency that is found in humankind is the highest potency in all of this terrestrial existence, and because of this it is said that he was created in the image of God and the likeness of God . . . And when he brings forth one of these \[three\] actualizations found in him in potential, from potential into actuality, the three of them are found in him as one in a final, whole actualization. And he prophesies . . . And it is one thing without separation at the time of this actualization . . . And thus we sanctify the name with a threefold sanctification, and bless the people through the *kohanim* with a threefold blessing, to announce this great secret, and for the preparation of the matter that bears the utterance prepared in the form of the *prima materia*. Because he who bears the utterance speaks in every language, and this language prepares his primary understanding to receive each and every language, and every language’s permutation . . . And thus it comprises all languages, which contain letter permutations, whose concern is seventy languages. Again, as in the case of the trinity of Holy Spirit, father and son, the culmination of the mystic’s endeavor is to forge a tripartite unity. This task is reflected as well, in an esoteric fashion, in the *Qedushah* and in the priestly blessing,[^175] Abulafia reports. The result of the mystic’s effort at unifying the trinity is prophecy, conceived of as divine speech. 
 
 [^174]: Speech assumes a tripartite nature as well in its finding expression in writing, utterance and thought. *\[illegible\] ha-Shemot*, MS NY-JTSA Mic. 1897, fol. 56b; printed
+
 [^175]: The former, the “Sanctification,” is based upon [[Isaiah 06#^6-3|Isaiah 6:3]], the latter on [[Torah 35 - Nasso#^6-24|Numbers 6:24–26]].
 
 *[p. 93]* ^pg108
@@ -345,8 +382,11 @@ A network of interrelated themes significant to the current context appears in a
 The triadic method of letter permutation is evocative in its own right, given what we have observed thusfar. It is, after all, letter permutation that gives rise to the prophetic state wherein is revealed the trinitarian structure of the sefirotic world. So it is logical that the letters, built as they are from the *sefirot*, reveal something of their source when they are assembled into sets of three. But, in addition to this significant tripartite method, there is also an important twofold signification at work in the passage.
 
 [^176]: See also the following related remark from *Mafteah ha-Shemot*: “And the secret of the seventy languages instructs that they concern three, and also they are threefold in contemplation.” MS NY-JTSA Mic. 1897, fol. 54a; printed edition, p. 28.
+
 [^177]: *\[illegible\] Shefer*, MS Munich-BS 285 fols. 109a, 110b, 110b; printed edition, pp. 180–181, 183.
+
 [^178]: Regarding the significance of this mode of permutation, Abulafia writes here, “I will begin by saying that the first great encompassing order of permutations is that of three letters, because it is complete. And this is because the complete verbal roots contain three foundational letters in the holy language . . .”
+
 [^179]: Ibid., MS Munich-BS 285 fols. 107a, 107b; printed edition, pp. 175–176.
 
 *[p. 94]* ^pg109
@@ -358,8 +398,11 @@ Abulafia analyzes the numerical values of the two words for these letters, *alef
 As Abulafia continues, we should bear in mind the possibility that his exploration of the numerical signification of the phrase LEl, EJ” may have been inspired by Christian recourse to the Biblical passage that Abulafia cites, “My God, my God CE, *Eli), \`* why have you forsaken me.”[^182] Abulafia subsequently refers to the natural scientists, that is, the gentile sages, whose sphere is that of all things comprised of matter and form.[^183] These sages err in two ways, Abulafia says. The first is that the Jews have it as received wisdom that the world is continually renewed by God, while the gentiles, following in the Aristotelian 
 
 [^180]: Indeed, Abulafia elsewhere lays out a permutational method of letter pairs beginning from the first set of *alef* and *lamed. \[illegible\] Eden Ganuz*, MS Oxford-BL 1580, fol. 37a; printed edition, pp. 76–77. See also *Sefer \[illegible\]* MS Munich-BS 22 fol. 194a; printed edition, p. 43
+
 [^181]: *\[illegible\] Shefer*, MS Munich-BS 285 fols. 107b, 108a; printed edition, pp. 174, 179.
+
 [^182]: [[Matthew 27#^27-46|Matt. 27:46]].
+
 [^183]: *\[illegible\] Shefer*, MS Munich-BS 285 fol. 109b; printed edition, p. 179.
 
 *[p. 95]* ^pg110
@@ -371,7 +414,9 @@ The wonder is that we who transgress attest to it with our exile and all of our 
 To return to our starting point, the discussion of the twofoldness hinted at in the words “My God, my God” is accompanied by one of 
 
 [^184]: Davidson, “Maimonides’ Secret Position on Creation,” pp. 20–21.
+
 [^185]: Earlier in *Imrei Shefer* Abulafia had presented a related point. He indicated that Israel’s seeming downtroddenness among the nations runs counter to the actually lofty status of those who possess the unique knowledge of the divine name. *Imrei Shefer*, MS Munich-BS 285 fol. 49a; printed edition, p. 8. It is this most lofty status that renders Israel the “soul” of the nations, who are, not surprisingly, relegated by implication to the role of the body. Ibid., MS Munich-BS 285 fol. 61b; printed edition, p. 48.
+
 [^186]: See preceding note regarding this conception’s occurrence elsewhere in *\[illegible\]* *Shefer.*
 
 *[p. 96]* ^pg111
@@ -383,7 +428,9 @@ And with the complete triads that are revolved you will render threefold every l
 Abulafia suggests here that the permutation of these first triads of the alphabet is unitary in its essence, alluding to creation in its entirety. As well, he implies that the permutation of these triads constitutes the means by which the mystic may apprehend the posterior of God.[^189] The fathoming of the threefold unity—which Abulafia delineates, to this point, in terms of three different permutational methods—constitutes the means by which mystical communion, defined here in visionary terms, may take place. By truly grasping the essence of this 
 
 [^187]: Ibid., MS Munich-BS 285 fol. 110b; printed edition, p. 182.
+
 [^188]: Ibid., MS Munich-BS 285 fol. 110a; printed edition, p. 184.
+
 [^189]: The latter notion derives from an older Jewish mystical conception that the vision of the divine Glory (the *Kavod*) is equivalent to the seeing of the divine from behind. That formulation was derived in turn, in part, from the continuation of the Exodus theophanic account, which reads (33:23) “. . . you shall see My back, but My face will not be seen.” Wolfson, *Through a Speculum That Shines*, pp. 26, 131, 133.
 
 *[p. 97]* ^pg112
@@ -413,6 +460,7 @@ The three that are one comprise a secret in their tripartite unity, contends Abu
 As Abulafia’s describes it, the multilingual act of letter permutation is paralleled by the efflux of prophetic revelation in the seventy languages. The one appears to bring about the other, as the mystic, who may permute letters in the language of his choice, achieves full linguistic facility in every language with the onset of prophecy. This 
 
 [^192]: That is, “sixty and three \[and\] one.” The numerical value of the letter *vav*, which is also the Hebrew prefix indicating the meaning “and,” is six, so that a sum of seventy results.
+
 [^193]: In a related passage in *Sefer ha-Yashar* (*The Book of the Righteous*), Abulafia writes that, during his mystical encounter with the angel Raziel, he received ten utterances. These he links to the ten *sefirot*. Regarding the utterances themselves, Abulafia writes that they were received “from one voice, and seven languages are in each.” We see here, first, that the seventy total languages are again linked with the structure of the divine world and, second, that Abulafia’s notion of the speaking in seventy languages is not simply a matter of prophesying in any language that one knows, but, rather, that the reception of prophecy in the seventy languages is a revelatory aspect of the mystical experience. *Sefer ha-Yashar*, MS Munich-BS 285 fol. 26b; printed edition (Masref *ha-Sekhel* ), p. 99. Hames cites this passage in *Like Angels on Jacob’s Ladder*, p. 40.
 
 *[p. 99]* ^pg114
@@ -453,7 +501,9 @@ A closely related notion emerges in *Sitrei Torah*. There, Abulafia relates that
 And indeed, in your investigation into the received doctrine and intellection of the matter of the secrets of the Torah, know in truth that you may apprehend from it what no philosopher in the world from the nations may apprehend. And you do not need to see their books at all, and you may understand through it all wisdom and knowledge, and you may grasp the intention of God, may He be blessed, in the giving of the Torah and the *misvot,* and you may succeed and inherit two worlds, this one and the one to come. And knowledge of this thing depends upon knowledge of the explicit name, which is known through the knowledge 
 
 [^199]: For the significance of the knowledge of the divine name for Abulafia, see Wolfson, *Abraham Abulafia*, pp. 73, 77, 89, 93, 164, 166, 172, 191, 216, 222.
+
 [^200]: See ibid., pp. 74, 200. For earlier precedents, see idem, “The Mystical Significance of Torah Study,” pp. 48–51. For possible Christian influence on Nahmanides, see idem, *Language, Eros, Being*, p. 543 n. 433.
+
 [^201]: *Sitrei Torah*, MS Paris-BN héb. 774, fols. 125a–b, printed edition, pp. 37–38.
 
 *[p. 102]* ^pg117
@@ -463,8 +513,11 @@ of the permutation of letters, within which are contained seventy languages, and
 Another passage from *Sitrei Torah* expands further upon the interconnections between knowledge of the divine name and communion with the trinity, conceived of as linguistic potencies. Abulafia here suggests that language is tripartite, after the fashion of time, which is composed of past, present and future.[^203] Every language is comprised of one component which concerns things’ essential names,[^204] one which concerns names which relate things to one another,[^205] and 
 
 [^202]: Both phrases equal one thousand two hundred and fourteen.
+
 [^203]: Ibid., MS NY-JTSA Mic. 2367, fol. 35a; printed edition, p. 75.
+
 [^204]: “. . . one of it is the essential name, wherein the name instructs concerning the thing’s identity and truth in each and every language . . .”
+
 [^205]: “And one is the name that joins the thing to another and joins the matter of one existence or the understanding of one of the matters, and instructs concerning the connection . . .”
 
 *[p. 103]* ^pg118
@@ -476,7 +529,9 @@ And concerning this, I will not speak of the matter of the connection nor of the
 Abulafia reports that he will discuss only the first of the three linguistic components, which concerns the explicit name of God. Nevertheless, he immediately sets about indicating the tripartite whole of which the explicit name is one part. The divine seventy-two letter name, it becomes apparent, is that name with which Abulafia is concerned. He explains that it constitutes one third of the word for “lion” and for “the mighty one,” each of which has a numerical value of two hundred and sixteen. Similarly, the word “cloud” has a numerical value of seventy-two, so that a threefold repetition of the word constitutes a whole. From this whole stems the consummation of the linguistic faculty—that is, from the assemblage of the three components into a whole whose value is two hundred and sixteen, “the holy language is completed.”[^207] The latter presumably is accomplished through what he alludes to as “revolution,” that is, letter permutation. The completion of the holy language is synonymous with the knowledge of the name, or the “apprehension of the name and its numeration.”[^208] This knowledge of the name, Abulafia suggests at the close of the passage, is the vehicle for mystical communion with God. Once more, it is the apprehension of the trinitarian nature of the divine, expressed here in terms of the threefold name, that culminates in prophecy. Just as, 
 
 [^206]: “And one is the name that actualizes the thing, instructing concerning the time of actualizations to which is hinted.”
+
 [^207]: This phrase may be seen to have a numerical value of two hundred and sixteen. In fact, its value is one thousand two hundred and fifteen, but by transposing the number one thousand and converting it into the number one, a fairly common practice in Abulafia’s *gematriyot,* one derives the value of two hundred and sixteen.
+
 [^208]: This phrase has as well a value of one thousand two hundred and fifteen. See previous note.
 
 *[p. 104]* ^pg119
@@ -488,6 +543,7 @@ Abulafia consistently asserted that prophetic speech comes to the mystic from th
 This passage illustrates what was a central point for Abulafia, that letter permutation opens the mystic to intellective capacities that are normally beyond him.[^210] This central aspect of Abulafia’s view of 
 
 [^209]: *Shomer Misvah* (*Keeper of the Commandment*), MS Paris-BN héb. 853, fol. 51b; printed edition, pp. 16–17. See also *Mafteah ha-Hokhmot,* MS NY-JTSA Mic. 1686, fol. 95a; printed edition, p. 22, where utterance occurs “in the divine Holy Spirit, joined with the human Holy Spirit.”
+
 [^210]: See also *\[illegible\] ha-Shemot*, MS NY-JTSA Mic. 1897, fol. 48a; printed edition, p. 9, where Abulafia writes, “He who apprehends the prophetic utterance recognizes that the word that he apprehends is not from him, rather it is from the actualization within the word that he receives . . .” In *Sheva“ Netivot ha-Torah*, Abulafia refers to the “utterance that comes from the Active Intellect upon the verbal potency,” again emphasizing that prophetic speech is received from the divine. It is because the Active Intellect bestows upon the mystic a divine linguistic faculty that the prophetic speech that ensues takes the form of seventy languages. Jellinek, *Philosophie und Kabbala*, p. 4. See also ibid., pp. 7–8, where Abulafia writes, concerning Hebrew, that prophecy is “the utterance that arrives to the prophet from God by means of the complete language that contains under it seventy languages, and it is the holy language alone . . .” In this instance, although we find Abulafia suggesting that utterance comes by divine agency, he seems to intend that it occurs only in Hebrew. Since Hebrew comprises within itself all of the languages, the prophet who imparts his revelations in Hebrew in fact imparts them in every language.
 
 *[p. 105]* ^pg120

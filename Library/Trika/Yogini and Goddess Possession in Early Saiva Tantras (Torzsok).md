@@ -57,8 +57,11 @@ A further detail could be added to this general definition. The texts themselves
 This being said, texts often describe possession in the context of the acquisition of supernatural powers. In fact, possession is never presented under a separate heading in early *yoginī* tantras, but is mentioned in 
 
 [^n0]: The first version of this paper was presented on the 1st of October 20120, at the conference *Yoginī - History, polysemy, ritual* at the University of Trondheim, Norway. I am grateful to the organizer, István Keul, for having invited me and to all the participants, especially to Csaba Kiss and Shaman Hatley, for comments, suggestions and corrections.
+
 [^1]: Smith 2006, which is the latest comprehensive treatment of this subject, does not use any manuscript sources.
+
 [^2]: Most importantly, see Sanderson 2009, dealing with the relation of Buddhist and *śaiva* tantrism.
+
 [^3]: See *Siddhayogeśvarīmata* 3.49ff, *Mālinīvijayottara* 3.53-54, *Kubjikāmata* 10.82 ff, of which the last one distinguishes between spirit possession (*bhūtāveśa*) and divine possession (*bhāvāveśa*) of various kinds. Trembling and falling on the ground may be part of both, but seeing the past and the future or knowing the *śāstra*s suddenly can only be due to divine possession. See also *Jayadrathayāmala* 3.14.72a for trembling and 3.14.75ab for seeing the past, present and future, in a passage describing the provoked possession or *svasthāveśa* of a girl (*kanyā*) by the emaciated goddess (*kṛśodarī*). Many examples can be found in the *Kriyākālaguṇottara*, whose relevants chapters mainly deal with controlled possession or with controlling possession in others.
 
 *[p. 2]* ^pg3
@@ -72,15 +75,25 @@ Finally, attention must be drawn to an element of *śaiva* initiation which is o
 It is clear that this act implies some intense infusion of Śivaness or *śakti*ness into the disciple. However, before the appearance of *kaula* cults, this moment is not said in āgamic texts to imply real possession of the disciple by the deity.[^12] Rather, the Śiva hand or *śakti* hand is described as cutting or loosening the bonds of the initiand, which shall then be cut in a more radical way in the course of fire rituals.[^13] By implication, the ‘rite of the Śiva hand’ (*śivahastavidhi*) is also said to be a purificatory rite (*saṃskāra*). Since it contributes to the cutting of the bonds, or perhaps just because it is often the last element of the ritual sequence, it is sometimes also described as the crucial or defining part of the preliminary initiation or *samaya-dīkṣā*.[^14] 
 
 [^4]: The aim of this paper is not to explore or categorize various kinds of possession. For a general survey concerning India, see Smith 2006. For the *bhūta*-tantric treatment of possession, see Slouber 2007a, 2007b.
+
 [^5]: See e.g. *Svāyambhuvasūtrasaṃgraha* 13.5ff, *Somaśambhupaddhati* III.1.108-9
+
 [^6]: See e.g. *Somaśambhupaddhati* III.1.108 *śivasevogratā*, lit. ‘passion to serve / honour Śiva.’
+
 [^7]: As in e.g. *Somaśambhupaddhati* III.1.107 prescribing the *śivahasta*, after which the disciple casts a flower on the *maṇḍala* blindfolded and his initiation name is determined accordingly. This suggests that his hand is guided by Śiva in some way. (Let us note here that the translation given by Brunner *ad loc* suggests that the blindfold is removed before the casting of the flower. However, this is certainly not the case and the blindfold would be rather useless if removed before. The absolutive *apanīya* in verse 108d, with the blindfold, *andhakārakam*, as its object, must be understood with the next sentence. The guru makes the disciple cast the flower (*prakṣepayet*), then the blindfold is removed (*apanīya*), and the name is given (*nāma kuryād*). Numerous parallels also confirm this. The misunderstanding may come from the rather odd sequence found in the late *Uttarakāmika* and cited by Brunner *ad loc*.)
+
 [^8]: As in *Tantrāloka* 15.450ff, in which Abhinavagupta follows the sequence and variant given in the *Svacchandatantra* (451-452ab on how the disciples see the *maṇḍala* after the removal of the blindfold, and then *śivahasta* in 456cd-459cd).
+
 [^9]: It is not possible to analyze the variants of this rite, which differ sometimes considerably. For a few examples, see Brunner 1977:xxxi ff. in *Somaśambhupaddhati* III.
+
 [^10]: See e.g. Brunner 1977:xxxiv in *Somaśambhupaddhati* III, who tentatively suggests this interpretation.
+
 [^11]: This is the interpretation given by Abhinavagupta in *Tantrāloka* 15.452 ff, summarized in Sanderson 1986:169.
+
 [^12]: See also Sanderson 1986:169 note 2, saying that the possession noted by Abhinavagupta is nominal in non-*kaula* contexts.
+
 [^13]: See e.g. the citation of the *Rurusaṃhitā* by Nārāyaṇa *ad Mṛgendra Kriyāpāda* 7.14 *pāśacchedakaraḥ kṣemī śivahasta iti smṛtaḥ* (the edition retains *kṣaumī* for *kṣemī*). The same line is cited by Kṣemarāja ad *Svacchandatantra* 4.59cd without pointing out the source.
+
 [^14]: E.g. *Svāyambhuvasūtrasaṃgraha* 13.11cd*: śivahastam anuprāptaḥ samayy eva -m- ihocyate.* In the earliest text of the Siddhānta, the *Niśvāsa Mūlasūtra*, it is mentioned in the last section of the so-called *vidyādīkṣā*.
 
 *[p. 3]* ^pg4
@@ -94,8 +107,11 @@ The lack of deity possession is perhaps more surprising in the case of the *Vī�
 The *Brahmayāmala*, which is probably the earliest text of the *yoginī* cult,[^17] also mentions possession in lists of supernatural powers:[^18] in between, for instance, attracting people and causing hatred among them. Possession in this sense most probably denotes *svasthāveśa*, as in the *Niśvāsa*, performed in another person. There are also a few general mentions of deity possession as an aim of the practitioner. Two occurrences are to be found in what is the latest part of this text, in chapters 88 and 98. In both cases, possession is promised as one of the results of a particular practice. Thus, the very powerful Bhairava *mudrā*, which does not require any mantra recitation or visualisation, is said to cause possession in the practitioner (we are not told by whom);<sup>19</sup> and the practice of *kulayoga*, which is very briefly described, is also claimed to induce the signs of possession in the practitioner, who quickly becomes one with the deity.<sup>20</sup> Let us note that the latter sentence is strongly reminiscent of a recurrent formula, which can be found in an identical form in later *yoginī* tantras, in the *Siddhayogeśvarīmata*,<sup>21</sup> the *Tantrasadbhāva*,<sup>22</sup> and 
 
 [^15]: *Niśvāsa Mūlasūtra* 7.14c, *Guhyasūtra* 3.101a.
+
 [^16]: A *kṣatriya* or *brāḥmaṇa, Guhyasūtra* 10.116-117 cited by Sanderson 2009:137ff.
+
 [^17]: See Sanderson 1988:672 ff and Hatley 2007:211 ff, the latter arguing for a date between the sixth and eighth centuries.
+
 [^18]: See e.g. 22.64, 88.46.
 198\. 88.128ab: *karoti sādhakāveśaṃ japadhyānavivarjitā*.
 
@@ -123,9 +139,13 @@ In the chapter on *vrata*s, the *Brahmayāmala* describes a set of nine and then
 231\. 11cd. The line has the same form as cited above in the edition containing Abhinavagupta’s longer commentary, the *Vivaraṇa*, but it reads slightly differently in the edition of the shorter *Laghuvṛtti*: *sadyaḥ saṃmukhatām eti svadehāveśalakṣaṇam.*
 
 [^24]: I am grateful to Dr Csaba Kiss, with whom I studied this chapter (21) of the *Brahmayāmala*, and who kindly provided his latest edition of the text for me.
+
 [^25]: See for instance ch. 10 of the *Siddhayogeśvarīmata*; and the *Niśvāsa Guhyasūtra* 3.30-34b, the latter cited in Sanderson 2006: 209.
+
 [^26]: See Sanderson 2006: 209, citing Abhinavagupta *ad Nāṭyaśāstra* 12.85, who associates the *unmattavrata* (without the suffix -*ka*) with the Lākulas. For the *Brahmayāmala*’s version called *unmattakavrata*, see *Brahmayāmala* 21.18cd-27.
+
 [^27]: For this *vrata* in *Niśvāsa Guhyasūtra* 3.31cd-32ab, see Sanderson 2006: 209. For the *Brahmayāmala*, see 21.28-30.
+
 [^28]: Prof. Sanderson has suggested (in an oral communication, as attested by Csaba Kiss’s notes on this chapter) that all the nine of the first set are obligatory, as opposed to the subsequent five.
 292\. 21.102-123ab. Csaba Kiss separates two parts of the description in his working edition and seems to understand that first an all-encompassing *vrata* and then the Bhairavavrata is taught. But the three expressions, *vratam samudāyena*, *mahāvrata* and *bhairavavrata*, most probably denote the same thing, for only one observance and its effects are given.
 
@@ -145,10 +165,15 @@ Now if we turn to another detailed description of possession in this text,[^34] 
 \[Bhairava:\] ‘Well-done, great man, master of *sādhaka*s, great ascetic. Who other than you would merit to be my son, oh Lord of men? Open your mouth, my child, I shall 
 
 [^30]: For a full translation of the passage see Sanderson 2009:133-4.
+
 [^31]: I use the term Kāpālika here in the more restricted sense, denoting the early *śaiva* movement also called the *somasiddhānta*.
+
 [^32]: The latter three representing the (*guṇa*)*saṃkrāntivāda* of the Pāśupatas, the *utpattivāda* of the Lākulas and the *abhivyaktivāda* of the āgamic *śaiva*s. For some of the relevant passages that present this categorization, see Sanderson 2006 : 180 and the entry *guṇasaṃkrānti* by Goodall in *Tāntrikābhidhānakośa* II. Sanderson also points out that this fourfold classification goes back to the earliest exegesis by Sadyojyotis in the late seventh or early eighth century.
+
 [^33]: Unless this feature was already present in the Kāpālika version. Since no Kāpālika scriptures have survived, this cannot be ascertained.
+
 [^34]: I am grateful to Csaba Kiss, who was the first to point out this passage for me.
+
 [^35]: At the beginning of the chapter, the *sādhaka* is required to transform his body according to the *mahāvrata:* *mahāvratatanusthitaḥ*.
 364\. 47.48cd: *ye dharmā bhairave deve tair dharmaiḥ sa samanvitaḥ* (as edited by Csaba Kiss, who emends the manuscript’s reading *bhairavo* to *bhairave*).
 
@@ -170,10 +195,12 @@ Finally, there is a third passage that also describes possession, although not i
 Here, although goddesses also enter the practitioner, Bhairava is again the only deity named that enters the *sādhaka*. The goddesses that accompany him remain unspecified. It is also pointed out later that mantras can similarly enter the practitioner’s heart: at the end of the churning, he must drink the 
 
 [^37]: Lit. *guhyam* means ‘secret’, so one could translate it ‘secretly’ or if it is understood as an adjective to *hṛdi*, which could be an Aiśa extended stem accusative, then ‘your secret heart.’ On its own, it could also denote the ‘private parts.’ But what is meant is probably an unusual separation of the common compound *hṛdguhā*, the ‘cave of the heart,’ in which even the element ‘cave’ can denote ‘heart’ by itself.
+
 [^38]: This line has a problematic syntax and seems somewhat elliptic. My understanding is tentative here.
 394\. 47.39cd-46. My edition, based on a collation by Csaba Kiss, who in turn, also used the first full transcription prepared by Shaman Hatley*: sādhakovāca // yadi tuṣṭo ’si māṃ deva varaṃ dadasi sūlina // putraṃ māṃ gṛhṇa vai deva maṇḍapaṃ māṃ prasidhyatu / sādhu sādhu mahāsattva sādhakendra mahātapaḥ // muktvā tvaṃ puruṣeśāna ko ’nyo putratvam arhati / vaktraṃ prasāryatām vatsa guhyaṃ hṛdi viśāmy ahaṃ // bhavase yena vai śīghraṃ mama tulyabalavīryavān / pradakṣiṇaṃ tataḥ kṛtvā vaktraṃ prasārya mantravit // praviśen nātra saṃdeho praviṣṭe bhairavo bhavet / utpateta mahāvīro maṇḍapyā sahito prabhuḥ // sa vai (sa vai* em. *: śavai* MSS*) sakhāya-sahito bhave’ devo maheśvaraḥ / kāmarūpo mahāsattvaḥ sūryakoṭisamaprabhaḥ // maṇḍapo bhairavī devī ātmanena sa bhairavaḥ / śivādyāvīciparyante yāvato kiñci’ vartate // pratyakṣaṃ vartate tasya śivavat pūjyate tu saḥ /*
 
 [^40]: Probably the mingled sexual fluids (for a full discussion of various possible identifications of this substance, see Hatley 2007:243 ff), perhaps diluted to produce enough liquid.
+
 [^41]: I understand the genitive *sādhakasya* to be Aiśa for the locative: *kapālaṃ picunā pūrṇaṃ vidyāṅgābhiḥ sumantritam // tenārghaṃ tu pradātavyaṃ devīnāṃ bhairavasya tu / datte ’rghe tu prasidhyanti sādhakasya viśanti ca //*
 
 *[p. 7]* ^pg8
@@ -193,7 +220,9 @@ Another *vrata* resulting in possession, which I consider to be essentially the 
 Although the *Jayadrathayāmala* as we know it is from a relatively later period than the *Brahmayāmala*, it is likely that the *Yoginīsaṃcāra* section is independent and earlier.[^44] In this section, the prescription of two *vidyāvrata*s is found,<sup>45</sup> the same type of preliminary observances as in the *Brahmayāmala*. One of 
 
 [^42]: I am grateful to Shaman Hatley for pointing out this passage to me. 46.120-121, edition by Csaba Kiss: *evaṃ kṛtvāpi vai devi -* *m- amṛtaṃ sādhakottamaḥ / savyāsavyaṃ tato pītvā sarvajño bhavate kṣaṇāṃ // bhairavo ’tha svayaṃ sākṣā’ guhyakānāṃ prabhur bhavet / saptakoṭyas tu mantrāṇāṃ viṃśati tasya vai hṛdi // Viśanti* is an unmetrical emendation proposed by Shaman Hatley, but the metre is even more severely violated in the original. Indeed, one must read or understand *viśanti*; for the number twenty (*viṃśati*) makes no sense in the context, while seven *koṭi* is a common number for mantras, see e.g. *Niśvāsa Uttarasūtra* 2.2. *Brahmayāmala* 39.17 and 21, *Jayadrathayāmala* 1.11.16, 4.67.179-180 and Kṣemarāja *ad Svacchandatantra* 12.124 speaking of seven *koṭi*s of *vidyā*s.
+
 [^43]: It is remarkable that there is a cluster of chapters, 46, 47 and 48, which all prescribe the *mahāvrata* as a preliminary and have many features in common. These shared and rather unique features may indicate that they have been taken from elsewhere or composed by others than the rest of the text, although this is a mere hypothesis. All these chapters teach independent cremation ground practices: the building of the sacrificial pavilion with corpses (*siddhimaṇḍapikā*), the ‘great churning’ of impure substances (*mahāmanthāna*), and the ‘worship of the pit’ (*garttāyāga*). All of them involve at least one dialogue: with the gods, with Bhairava or Aghorī/Ambikā etc; and the wording of the dialogues is very similar. To this cluster of three, one could add chapter 49 on the preparation of a *yantra*, in which there is also a short dialogue with Śākinīs. In 46-47, the practitioner becomes Bhairava and is adopted as the goddess’s son (*putra*), while in 48-49 he is said to become the ‘eighth’ (*aṣṭamako /* *aṣṭamas*) in addition to the seven clans of Mothers, as their brother (*bhrātā*).
+
 [^44]: Sanderson 2009: 187 note 451 argues that it may be closely related to the lost *Yoginījālaśaṃvara*.
 453\. 3.31.36-46. Sanderson 2009:134 writes that the practitioner must ‘adopt one of three forms of ascetic observances.’ Although the passage is slightly ambiguous, it seems that there are only two observances (the first of which is the *cāmuṇḍāvrata* involving an assimilation to the terrifying goddess, Cāmuṇḍā, and the second is the *bhairavavrata* also called *triṣaṣṭikulavrata* or *kāpālavrata*, implying assimilation to Bhairava). Both of them seem to be prescribed at the beginning of the passage (*triṣaṣṭikulasaṃbhavam / bhairavaṃ vā mahābhāge cāmuṇḍāvratam eva ca //* - *vā* indicates the alternative name). However, since the result of both is the same, they may have been regarded as alternatives.
 
@@ -213,7 +242,9 @@ As far as surviving early *yoginī* tantras are concerned, the *Siddhayogeśvar�
 463\. 3.31.45: *vratānte tu varārohe śarīre mātaro dhruvam / viśante devadeveśi dadante siddhim uttamān*. For a full citation and translation of the passage, see Sanderson 2009: 134.
 
 [^47]: This number seems odd, for the usual number of clans is eight or eight times eight. The passage prescribes that the observance should last sixty-three days, but this still does not explain the real reason for choosing this number. The *Yoginīsaṃcāra* may envisage a procedure similar to that of the *Brahmayāmala*, and count the practitioner himself as forming the last of the sixty-four clans. The *Brahmayāmala* presents a similar idea in chapters 48 and 49, in which the practitioner becomes the ‘eighth’ after the seven Mother-goddess clans. In this respect too, the *Brahmayāmala*’s version seems to represent a more archaic system.
+
 [^48]: This is indicated also by the fact that it is called or associated with the *mahāvrata* in 3.31.40b. (The formulation is not explicit enough to see if it is identified or just associated with it; for the citation, see below.)
+
 [^49]: See *Jayadrathayāmala* 3.31.37cd-3.31.42ab (no correction or standardization has been made to the text as transcribed by Olga Serbaeva, to whom I am grateful for making her transcription available): *kṛṣṇāmbaradharo nityaṃ kṛṣṇagandhānulepanam //* *kṛṣṇamālāvalambī karṇālaṅkārabhūṣitaḥ valayābharaṇopetaṃ nūpuradhvanibhūṣitam raktāmbaro raktapādo ca* */* *//* *divyastrīrūpadhāriṇaḥ / pracchanne nirjane deśe maunī vidyāvrataṃ caret // māsam ekaṃ caren mantrī dvādaśāṃ vā mahāvratām /* *māsena tu mahāyogī yoginyāḥ paśyatecchayā // tair vṛtas tu caruṃ kṛtvā trailokye vicaret kṣaṇāt / sarvajñaḥ sarvakartā ca sṛṣṭisaṃhārakārakaḥ // yoginīnāṃ pade devi hartā kartā ca jāyate.* ‘\[The practitioner\] must always wear black garments and cover himself with black sandalwood paste. He ought to have a black garland and be decorated with earrings, bracelets, jewels and jingling anklets. He wears a red dress and has red feet, having the form of a divine woman. \[Thus\] he must perform his *vidyāvrata* in silence, in a hidden and abandoned place. The master of mantras must do this for a month or for twelve months \[if he does this as\] the *mahāvrata*. After a month, the great yogi shall see the *yoginī*s if he wishes. Surrounded by them, if he prepares the *caru* \[of impure substances\], he will be able to traverse the three worlds in a second. He shall be omniscient and omnipotent, performing both creation and destruction.’ Note the hesitation between assimilation to the unattractive, black Cāmuṇḍā and to an attractive woman decorated with lac and clothed in red.
 
 *[p. 9]* ^pg10
@@ -231,6 +262,7 @@ The subsequent chapter then appropriately starts with a list of the signs of pos
 Possession by Rudra’s power is also mentioned when other female powers, *śakti*s, are discussed. The three kinds of *śakti*s who act or play in this world (called *aghorāḥ* or Non-Terrifying, *ghorāḥ* or Terrifying, and *ghoraghoratarāḥ* More-Terrifying-Than-Terrifying) can enter into various beings.[^59] Possession by these three powers is said to be always auspicious, that is why they also bear three names of the Auspicious deity, Śiva.<sup>60</sup> Moreover, they are established in Rudra’s power, *rudraśakti*.<sup>61</sup> The text continues by saying that all *yoginī*s are empowered by *rudraśakti*, who is the source or matrix (*yoni*) of all 
 
 [^50]: For more details on the dating, see Sanderson 1988:672 ff. Törzsök 1999:vi ff and Törzsök forthcoming. I would tentatively place it in the seventh or eighth century.
+
 [^51]: E.g. 1.17c, 2.4a, 2.5a, 2.10c, 2.11a.
 521\. 1.7: *japatām api yatnena puruṣāṇāṃ suniścayaḥ / kim ete na prasidhyanti tvatproktā mantranāyakāḥ*.
 

@@ -19,7 +19,9 @@ This contest began in 973, when the eastern C1zukya king D1n1râava was killed i
 The pragmatics of C1zukya inscriptional discourse thus comprise core questions of historical self-understanding, common to many other polities of the time.[^94] This was not the simple history of “facts” so troubling to the editor of a standard history of the Deccan when he wrote, in reference to the inscriptions studied here, that “no useful purpose will be served by seeking to analyze such late and discordant traditions \[as those of the Kaly1âa C1zukyas\] in any detail . . . Interesting as the beliefs cherished by the members of a historic dynasty for several generations, these puerile stories are of course of no value as factual history.”[^95] In actuality, we need to grasp that it
 
 [^93]: See Desai et al. 1970: 156–71; Nilakantha Sastri 1955: 178 ff., especially p. 182. For R1jar1ja’s assertion of control, see *SII* 6, no. 102.
+
 [^94]: A comparable linkage was made between the Gaãgas of Orissa and the western Gaãgas of Karnataka for the first time in the twelfth-century records of Cobagaãga. The new founder of the dynasty became VErasiÅha, ruler of Kol1hala in Gaãgav1bi, eighty generations before Cobagaãga’s father Vajrahasta (Berkemer 1993: 162–64; Schneibel 2000, chapter 1).
+
 [^95]: Nilakanta Sastri in Yazdani 1960: 206.
 
 *[p. 161]* ^pg182
@@ -49,6 +51,7 @@ Just as the *k1vya*s were studied everywhere throughout this domain, so were the
 An equally peripatetic account could be written of other components of Sanskrit literary science and philology, though the paper trail here is a little harder to follow. The vernacular intellectuals of southern India, Thailand, Cambodia, Java, and Bali took in Sanskrit metrics in a gulp, as they did Sanskrit lexicography (chapters 9, 10). In Java, interest in Sanskrit philological studies was intense and long-lasting, stretching from the çailendra period (c. 800), when a Javanese adaptation of Amara’s Sanskrit lexicon, the
 
 [^1]: On the *R1m1yaâa*’s Asian career most surveys (e.g., Raghavan 1980) only scratch the surface. A sophisticated if preliminary analysis of the poem in Southeast Asia is available in Collins 2003. Allusions to K1lid1sa’s *RaghuvaÅéa* are found in Cambodian inscriptions from the seventh century (*ISC* 13, v. 6 = Ragh. 4.49, noticed first by Kielhorn *EI* 6: 4 n.) to the Pre Rup inscription of 961 (vv. 164, 199, 211, 290) and beyond (cf. Bhattacharya 1991: 2–4 and notes). Numerous other poets are mentioned, e.g., Bh1ravi and May\[ra in an inscription of Yaéovarman (*IK* 104 ff., vv. 31 and 70 respectively). For Bha••i’s poem in Java see Stutterheim 1925. The question of the exact textual sources for the Prambanan reliefs continues to occupy scholars, but the fact of their Indic origins cannot of course be contested. Doubts about the knowledge of K1lid1sa’s work in Java (reviewed by Sarkar 1934: 224 ff.) were settled by Zoetmulder 1974: 307 ff. (an allusion to the *RaghuvaÅéa* appears in the earliest dated record, 732, cf. *CIJ:* 26 ff.).
+
 [^2]: Sanskrit rhetorical theory in China is explored in Mair and Mei 1991.
 
 *[p. 164]* ^pg185
@@ -82,6 +85,7 @@ Since it was theory that underlay the royal practice of grammatical correctness,
 A strong case can be made for the importance of princely patronage of grammatical studies. We can see three spurts of activity: in the 5th century a.d. (Candragomin, Bhartóhari, Devanandin), the 11th to the 13th century a.d. (Kaiya•a, Bhoja, Hemacandra, KramadEévara, Anubh\[tisvar\[pa, Vopadeva, Puruùottama,
 
 [^5]: *éabdavidy1samagralakùaâasuéikùanum, EC* 5: 132.
+
 [^6]: See Pollock 1985.
 
 *[p. 168]* ^pg189
@@ -105,6 +109,7 @@ We remain to some degree in the realm of legend and conjecture with the next two
 The grammarian çarvavarman, author of the *K1tantra* (see chapter 1.2), is placed by legendary accounts at the S1tav1hana court in perhaps the second century. This location may receive some confirmation in a remark of
 
 [^9]: See *Mah1bh1ùya* 3.2.123 (vol. 2: 123), and 3.2.111 (vol. 2: 119) respectively for the two quotations; the çakayavana is mentioned in *Mah1bh1ùya* vol. 1: 475.4. The convention of self-identification here, the “index fossil” *(Leitfossil),* was famously identified by Kielhorn in *IA* 7: 266–67 and elaborated by Liebich 1930: 264 ff. To their evidence may be added Dharmad1sa’s *ajayaj jarto h\[â1n,* “Jarta defeated the Huns” (*Candravy1karaâavótti* 1.2.81), referring no doubt to his (otherwise unknown) patron; see later in this chapter for the examples from Hemacandra and ç1ka•1yana. On the *K1éik1*’s practice in citing earlier materials see Scharfe 1976: 275.
+
 [^10]: Lüders 1979: 143.
 
 *[p. 170]* ^pg191
@@ -125,6 +130,7 @@ Moreover, study of the *K1tantra*/*Kum1ra* was long cultivated in the south of I
 For the following centuries the history of the relationship between philology and polity—or at least, though this is hardly less pertinent, the history of representations about this relationship—is on somewhat firmer footing. The *R1jataraãgiâE* of Kalhaâa, which, though completed around 1150, sought to assemble with as much care as possible the traditions of polity current in Kashmir from earlier periods, comments in a well-known (if partially corrupt) passage on the philological activities of King Jay1pEba of Kashmir (fl. 790):
 
 [^13]: Several are noted later in this section. It is thus incorrect to state that the *K1tantra* remained popular only in Kashmir, Nepal, and Bengal (Scharfe 1977: 162–63). Extant southern manuscripts are admittedly rare, but —to cite only one instance—five are available in the ancient Jain *jn1nabhandar* in Moodabidri (these have yet to be taken into account for the history of the text).
+
 [^14]: Lüders 1940: 719 dates the grammar of Kum1ral1ta to the end of the third century and the *K1tantra* (as an adaptation of the former) to the fourth. This still finds endorsement in the specialist literature (e.g., Oberlies 1996: 269–70). The cases of Bh1maha (in literary science) or Amara (in lexicography) might provide counterevidence to the claim that philology spread from the *vaidika* world outward if their primacy, let alone their Buddhist affiliations, could be more clearly established.
 
 *[p. 172]* ^pg193
@@ -134,6 +140,7 @@ Knowledge *(vidy1)* had utterly disappeared in this country, its very birthplace
 became king and ruled unchallenged and fearless like a second Indra . . . He built a city that he greatly enriched, calling it after his own name, Abhimanyu Town, and crowned it \[with a temple to\] the god çiva. A scholar named Candra, along with others, having then received a command from him with regard to the tradition of \[grammatical\] knowledge, made the *Mah1bh1ùya* available \[in Kashmir\] and wrote his own grammar \[i.e., the *C1ndravy1karaâa*\]. Much has been written about the wording and meaning of this second text, especially in connection with a celebrated passage in a much earlier work of grammatical philosophy, Bhartóhari’s *V1kyapadEya* (perhaps sixth century). This appears to recount how the *1gama*—here meaning the oral tradition of interpretation— of the *Mah1bh1ùya* had been broken, preserved only in manuscripts extant in the south of India, and how Candra then revived the tradition by recovering it from the “mountain” (from a mountain ascetic, according to some, or from the holy mountain çrEparvata or çrEéaila in Telangana, according to one reading of an early gloss).[^16] However the accounts of Bhartóhari and Kalhaâa are to be reconciled, clearly, for Kalhaâa at least, the stories of the kings Abhimanyu and Jay1pEba are meant to be symmetrical as well as to convey a sense of the central place of royal patronage in the fostering of systematic Sanskrit knowledge, especially philological knowledge. They thus testify to the larger paradigm at work concerning the correlation of grammatical and political correctness. It is a matter of interest —and of some irony, in view of other narratives considered below—that the study of the greatest contribution to Sanskrit grammar after P1âini’s own work should have had (or been thought to have had) so unstable a presence in the land of ç1rad1, the very goddess of Sanskrit learning. Of course,
 
 [^15]: *R1jataraãgiâE* 4.486– 91.
+
 [^16]: The *V1kyapadEya* passage is 2.485–86. The key verses in the *R1jataraãgiâE* translated here are these: *deé1ntar1d 1gamayya vy1cakù1â1n kùam1patin* | *pr1vartayata vicchinnaÅ mah1bh1ùyaÅ svamaâbale* || (4.488); *candr1c1ry1dibhir labdhv1deé1Å tasm1t tad1game* | *pravartitaÅ mah1bh1ùyaÅ svaÅ ca vy1karaâaÅ kótam* || (1.176). The problematic second stanza, especially *p1da* b (printed here in emended form), has been exhaustively studied, along with the *V1kyapadEya* verses, in Aklujkar 1987 and 1991. On the date of Candragomin and related questions see Oberlies 1989: 11 ff.
 
 *[p. 173]* ^pg194
@@ -180,7 +187,9 @@ This brief sur vey of power and philology could easily be extended. Indeed, it s
 The rather vague data about the careers of philologists, and the perhaps
 
 [^19]: See Busch 1997.
+
 [^20]: See Kunjuni Raja 1980: 126; Dikshit 1982: 100.
+
 [^21]: Pollock 2001a: 397–400. The one tentative identification concerns Daâbin. Pace Lienhard (1984: 234–35) there is no reason to doubt that *AvantisundarE* is an authentic seventh-century text, and that its narrative proves the scholar’s presence in the Pallava courtly milieu.
 
 *[p. 176]* ^pg197
@@ -212,7 +221,9 @@ Naravarman, the son of Uday1ditya, was the author of hymns to the deities and pr
 Warrior, town planner, builder of irrigation works and more, as well as the most celebrated poet-king and philosopher-king of his time, and perhaps of any Indian time, Bhoja ruled over much of western India for more than forty years (1011–55) from his new imperial capital, Dh1r1, in the region of AvantE in the country of M1lava, about one hundred kilometers southwest of UjjayinE.[^26] We get a far less vivid image of the man from his extant inscriptions, which are unexpectedly few in number (five copperplate grants survive all told) than from his remarkable writings, which span the range of Sanskrit
 
 [^24]: *CII* 7.2: 106 ff., v. 56: “\[Naravarman\] caused this temple to be made by LakùmEdhara \[less likely: ‘\[Naravarman\], who bears the royal glory, caused . . . ‘\], which is adorned with multiple *praéasti*s and hymns that he himself has composed” (cf*. CII* 7.2: 108 and *Param1ra Abhilekha:* 170).
+
 [^25]: See, respectively, *TilakamañjarE* p. 5, v. 53; *Navas1has1ãkacarita* 1.7; *Prabandhacint1maâi* pp. 22–25. It was noted in chapter 3.3 that in one of Taila’s early inscriptions (*IA* 21: 167 ff., undated but c. 974 c.e.), Taila is said to have “slain Muñja and taken the head of Pañc1la.” Perhaps Merutuãga, author of *Prabandhacint1maâi,* conflated the events for dramatic effect. (On decapitating and displaying the head of an enemy king, see the CO!a instance in Nagaswamy 1987: 32 v. 14).
+
 [^26]: He is credited with the defeat of Turuùkas at Dv1rak1 in 1001 c.e. in the *çy1mal1daâbaka* (cited in *çP* \[ed. Joyser\] vol. 2: viii, and *SarasvatEkaâ•h1bharaâavy1karaâa,* p. xiv, and cf. *CII* 7.2: 75 ff., and v. 19 of the inscription); his town-planning initiatives are described in his *Samaraã-ganas\[tradh1ra* and embodied in *prabandha* tales of the building of the city of Dh1r1; for his construction of a tank in Kashmir “ with heaps of gold” see *R1jataraãgiâE* 7.190.
 
 *[p. 179]* ^pg200
@@ -226,6 +237,7 @@ It is not just anyone who speaks this verse, but rather a very special man, a gr
 How could you have failed to seek refuge with him? Now you are lost!” So the city of Dh1r1 seemed to speak to me, in sorrow, under the guise of doves moaning in the clefts of its high spires.[^28] Bhoja’s name and fame would be emulated by princes for the next five hundred years: Kóùâadevar1ya, the great king of the Vijayanagara empire in the early sixteenth century, took as two of his titles Abhinavabhoja, “the New Bhoja,” and Sakalakal1bhoja, “Bhoja in All the Arts.” Legends of correctness in *r1jya* and *k1vya,* indeed, stories in which the literary text functions as a kind of political weapon, clustered around Bhoja more densely than around any other king in a world dense with narratives of polity and poetry. A dominant feature of these narratives concerns Bhoja’s role as ultimate arbiter of grammatical correctness, rhetorical propriety, and literary good taste, all
 
 [^27]: *çP* p. 405 lines 10 ff. ( J 257.15 ff.; for *p\[rvajñain* read *p\[rvajain; mah1m1heévaran,* v. l. *mah1maheévaran*).
+
 [^28]: *Vikram1ãkadevacarita* 18.96 (conjecturing *hato ’si* for *hat1smi*).
 
 *[p. 180]* ^pg201
@@ -237,6 +249,7 @@ Like so many other rulers, Bhoja is associated with an actual grammar, the *Sara
 Around 1140, less than a century after Bhoja’s death, the Caulukya king of Gujarat, JayasiÅha Siddhar1ja, marched against Bhoja’s capital, perhaps
 
 [^29]: Bhoja corrects the grammar of King Kulacandra in *Pur1tanaprabandhasaÅgraha* no. 8 (also p. 21 paragraph 39). Bhoja and BhEma exchange challenge verses in *Prabh1vakacarita* no. 18.14 ff., with Bhoja eventually conceding (“How could one possibly conquer a region that produces such a poet as this?” Contrast no. 12 \[37\], and see also *Prabhandacint1maâi* p. 28, no. 45). In *Pur1tanaprabandhasaÅgraha* no. 11 (p. 20), King G1ãgeya of Varanasi is released from Bhoja’s captivity on the strength of a sophisticated verse composed by his court pandit Parimala. For *j1nudaghna* see *Prabhandacint1maâi* p. 26 line 9 and *Bhojaprabandha* pp. 40 –41 (and *Aù•1dhy1yE*
+
 [^30]: The SarasvatEkaâ•h1bharaâapr1s1da is mentioned in *TilakamañjarE* p. 5; see also *CII* 7.2: 49 and n. 3.
 
 *[p. 181]* ^pg202
@@ -248,6 +261,7 @@ meant to be eclipsed by, the Sanskrit-Prakrit-Apabhramsha grammar of Hemacandra 
 The many significations that grammatical correctness carried in the political environment of medieval India are encapsulated in this tale. While clearly retaining the numinous qualities associated with its legendary origins
 
 [^31]: On JayasiÅha’s visit to the Bhojaé1l1, see *Prabh1vakacarita* pp. 156–157, 185 (and cf. *çóãg1ramañjarEkath1,* introduction, p. 10 n. 12). Bhoja’s *çóãg1raprak1éa* must have been among the looted books, for it is otherwise hard to explain how Hemacandra alone among the scholars of western India knew the text, from which he borrows heavily in his *K1vy1nué1sana.*
+
 [^32]: Bühler long ago remarked on the grammar’s corroboration of the *Prabh1vakacarita* narrative, namely, that the work is not only dedicated to JayasiÅha but owes its existence to his demand (Bühler 1889: 183 ff., adducing other data to establish the historicity of the tale; he dates the actual composition of the grammar to about 1140, p. 185). The *Leitfossil* (on the *s\[tra khy1te dóéye*), in addition to *aruâat siddhar1jo ’vantEÅ,* also includes *ajayat siddhan saur1ù•r1n,* “Siddha conquered the people of Saur1ù•ra.” For the *praéasti* see *Siddhahemacandra* after 8.4.448 (“prolix, unintelligible, and disorganized grammars,” *ativistótadur1gamaviprakErâaéabd1nué1sana-;* cf. *saÅkErâa* in appendix A n. 6).
 
 *[p. 182]* ^pg203
@@ -265,7 +279,9 @@ Yet, as we can perceive in the account of the revival of grammatical knowledge i
 The implications of the association between grammatical and political correctness are far-reaching. If the preservation of language sounds *(varâa)* that grammar achieves was linked essentially to the preservation of the social orders *(varâa),* and so to that of the polity at large, the obligation to maintain the order of language was no less than, and perhaps no different from, the obligation to maintain the political and spiritual order. This seems partly what R1jaéekhara, Bhoja’s predecessor in the field of encyclopedic courtly poetics, is implying when he states, “If the king is a poet, everyone will be a poet” *(r1jani kavau sarvo lokan kavin sy1t).*[^35] When the king is a true poet, when he
 
 [^33]: *R1jataraãgiâE* 1.45 and *K0* 1.5 and 1.3; compare *Vikram1ãkadevacarita* 1.26–27. “A king who has no poets can have no fame—how many kings have there been on earth whose names no one even knows? The fact that R1vaâa’s fame is slight and R1ma’s vast is evidence of the 0dikavi’s power. Kings should never anger poets.”
+
 [^34]: See *Mah1bh1ùya* on 6.1.84 (5), Kielhorn vol. 3: 58, and Kielhorn vol. 1: 2; *çP* 473, *duùprayuktan punar adharm1ya sampadyate* (cf. *K0* 1.6 for another formulation). The general point has been recognized by many scholars; see, for example, Deshpande 1985: 134.
+
 [^35]: *KM* p. 54 line 19.
 
 *[p. 184]* ^pg205
@@ -287,6 +303,7 @@ The fourth section actually commences with the entertainment of weaponry *(éast
 The description of the *sabh1,* or cultural assembly, of the king at the start of the entertainments of intellectual delight section gives us a sense of not only who the participants and spectators for royal culture were but also the prominence among them of masters of verbal art. Included are, of course, courtiers *(sevaka),* ministers, princes, governors, vassals, but also scholars *(paâbita),* makers of poems *(k1vyakartó),* those skilled in languages of Place (*deéabh1ù1vié1rada,* which notably constituted a separate and subordinate category of culture-makers within the cosmopolitan literary culture), reciters of literary texts *(p1•haka),* singers *(g1yaka),* epic reciters *(s\[ta),* genealogists (*m1gadhabandin*s, or “genealogists and reciters of praise-poems”), and last, the various women of the harem and courtesans.[^38] The *é1stravinoda* section
 
 [^37]: These five parts are called *viÅéati,* “consisting of twenty,” i.e., *adhy1ya*s or chapters. I cite the work by *viÅéati* and *éloka,* as well as by volume and page number. For *jagad1c1ryapustaka,* see *M1nasoll1sa* 1.10, vol. 1: 2; for *é1stravinoda,* 4.197 ff., vol. 2: 171 ff.; for *kath1vinoda,* 4.1406– 32, vol. 3: 162–65.
+
 [^38]: *M1nasoll1sa* 4.3–5, vol. 2: 155.
 
 *[p. 186]* ^pg207
@@ -298,7 +315,9 @@ The entertainment of *é1stra* begins with the king commanding the poets to “r
 The *M1nasoll1sa* next expands into a detailed account of the principles of literary knowledge that a royal connoisseur in late-twelfth- century central India was expected to possess and apply: the expression-forms *(guâa)* of poetic language and the different kinds of “Paths” *(rEti)* of writing, the basic concepts and common varieties of meters, the major figures of speech, the features of the principal genres, and the components and operation of the primary aesthetic moods. The king listens to this talk about literature and reflects on the strengths and weaknesses of the poems he has heard recited.
 
 [^39]: “Reciters”: read (with ms. A) *gamak1n* (or *gamakEn*) for *g1yak1n. Gamaka(i), v1din,* and *v1gmin* together constitute a triad peculiar to medieval (Karnataka?) courts. See for example *SII* 9.1: 92 (dated 1055 c.e.). “The principles of sweet poetry”: read *madhurak1vya-* (for *madhur1n*).
+
 [^40]: *M1nasoll1sa* 4.197–206 (vol. 2: 171–72; *n1n1prakótayan* is obscure).
+
 [^41]: “Deity of literature,” *k1vyadeva.* On R1jaéekhara’s *k1vyapuruùa,* see chapter 5.2; on the *Kavir1jam1rgam*’s *k1vyavastupuruùa,* chapter 9.2; on the sons of SarasvatE, Granoff 1995.
 
 *[p. 187]* ^pg208
@@ -340,7 +359,9 @@ Yet just as literacy in premodern South Asia was almost certainly more widesprea
 \[The sacrificer\] should first recite the following: “Om! Here on this earth, on Jamb\[dvEpa, the Continent of the Jamb\[ Tree, in Bh1ratavarùa, the Clime of the Descendants of Bharata, in Kum1rik1 Khaâba, the Sector of the Virgin, in the field of Praj1pati, in such-and-such a place and such-and-such a spot”—depending on the specific place and spot in which the rite is held.[^3-p190]
 
 [^1-p190]: Schwartzberg 1992, especially p. 329. A good Indological account is Sircar 1967.
+
 [^2-p190]: See chapter 2.1, chapter 8, and Pollock 2003: 88 ff.
+
 [^3-p190]: From the thirteenth- century Maharashtrian *dharmaé1stra* of Hem1dri, the *Caturvargacint1maâi* (*Dharmakoéa,* vol. 3 part 2: 1268). The time frame, too, is at once cosmic and terrestrial: “Thereafter one must announce the time: ‘During the second half of Brahm1’s lifespan, in the cosmic age of the White Boar, in the Manu Interval of Vaivasvata, in the first quarter of the twenty- eighth *kaliyuga,* at such-and-such a year, when the sun is on its northern or southern course,’ as appropriate; ‘at such-and-such a season, month, lunar fortnight, lunar mansion, day, conjunction of stars, at the hour of Rudra, etc.,’ as appropriate.”
 
 *[p. 191]* ^pg212
@@ -352,6 +373,7 @@ In Jamb\[dvEpa, best of all continents, lies Bh1ratavarùa, most exalted of regi
 If a systematic account of these rich materials remains a desideratum, we nevertheless understand enough at present to know that such an account would reveal a history of continual change. For one thing, the process by which larger conceptual spaces such as Jamb\[dvEpa or Bh1ratavarùa were constructed was gradual and halting. Older geotopes—such as those found in early Vedic texts, like Pañcanada, the “Land of the Five Rivers,” or in later works, like 0ry1varta, the “Congregating Place of the 0ryas”—may have been absorbed and displaced by newer ones, but they were never completely demoted as preeminent cultural-political frames of reference. The same process led to the expansion of such spaces. For the grammarian Patañjali around the beginning of the Common Era, 0ry1varta was bounded on the north by the Him1laya, on the south by P1riy1tra (the western Vindhyas), on the east by the K1laka(1) Forest (present- day Jharkhand), and on the west by 0daréa (the Panjab between the Beas and Ravi rivers). For the Gupta king Samudragupta in the mid-fourth century (whose political space was radically different from that of Aéoka five centuries earlier), the eastern limit had become the Bay of Bengal (at Samata•a), while for the poet R1jaéekhara around 920 (though he is echoing Manu and other earlier writers on *dharma*), the western limit had become the Indian Ocean.[^5-p191]
 
 [^4-p191]: *EI* 13: 44, 53 (1112 c.e., northwest Karnataka). This specific reference is preceded, in vv. 7–14, by a description of the seven continents and oceans perhaps unique in the epigraphical record. Geographical descriptions that nest locales in ever lower- order categories are found in Karnataka epigraphy from about the twelfth century on. One grant from 1417 telescopes downward onto the locale *(viùaya)* of K1yikkaâE from the outer ocean, the great island of Jamb\[, Mount Meru, “southern Bharata land,” 0ry1khaâba, Tuludeéa, and so on (*KI* 1: 93).
+
 [^5-p191]: *Mah1bh1ùya* on 2.4.10 and 6.3.109; *CII* 3: 209 ff.; *KM* 93.17. On the shifting boundaries of 0ry1varta, see Deshpande 1993b: 83–107; for Ashokan and Gupta space, chapter 6.2.
 
 *[p. 192]* ^pg213
@@ -361,7 +383,9 @@ We know, furthermore, that diverse models of geographical understanding were in 
 How these various endogenous spatial forms related to exogenous categories such as “Indik;” *(chOr;)* among the Greeks (as early as Herodotus), “India” among the Romans, or “al-Hind” among the Arabs also remains to be fully explored. The rich complexities of premodern nomenclature are matched by puzzling absences. There is, for example, no collective term, on the order of “Hellenismos,” “ArabEya,” or “F1rsEyat,” for the culture that filled the subcontinent and spread far beyond its confines. The congruities and incongruities between the views from inside and outside, no less than among the various geographical schemata, left an impression on the traveler Xuanzang already in the seventh century: “In a careful study we find that Tianzhu is variously designated, causing much confusion and perplexity. Formerly it was called Shengdu, or Xiandou, but now we should name it Indu (India), according to the right pronunciation. The people of India use different names for their respective countries, while people of distant places with diverse customs generally designate the land that they admire as India.”[^8]
 
 [^6-p192]: Kirfel 1959–74.
+
 [^7]: One *jyotirliãga* map includes Soman1tha (in Saur1ù•ra), çrEéailam, UjjayinE, OÅk1r, Ked1ra “on the back of the Him1laya,” a1kinE, V1r1âasE, the GautamE River, Cit1bh\[mi, D1ruk1vana, Setubandha, and çiv1laya (*çivapur1âa Ko•irudrasaÅhit1* 1.21 ff.; 68), though it is not clear that the Khmer might not have included themselves here (see chapter 6.1). On pilgrimage and geography Bhardwaj 1973 needs to be supplemented by research on medieval and non-Brahmanical accounts, such as the Jain *VividhatErthakalpa* (cf. Chojnacki 1995). The turtle story is told in Geertz 1973: 28.
+
 [^8]: Trans. Li Rongxi 1996: 49. Xuanzang adds that “Indu” means the moon (because sages shone on the country as the moon shines on all things). In what language did Xuanzang hear the word “Indu”? Greek “Indi\[ka\]” presumably vanished centuries earlier, and Arabic “Hind” was a century off.
 
 *[p. 193]* ^pg214
@@ -385,6 +409,7 @@ extending for nine thousand *yojana*s,” the archteype begins, “is Bh1ratavar
 southern Asia, as well as inconsistencies with later versions. The old puranic text divides Bh1ratavarùa into nine sectors that appear to be contiguous; only the ninth, later named Kum1ri\[k1\], the Sector of the Virgin, is explicitly described as (largely) surrounded by the sea. Although Bh1ratavarùa itself is said to lie to the north of the ocean and the south of the Him1laya Mountains, the ninth sector occupies most of this space, containing as it does rivers that spring from the foothills of the Him1laya (like the çatadru) as well as those in the far south such as the Kóùâ1 and the K1verE. It is only in Kum1rE, too, that the four social orders are said to be found—all other sectors (or continents or islands) being inhabited by people born of the outermost order *(antyajajan1n)*[^12-p194]—this despite the fact that Bh1ratavarùa as a whole is earlier described as the “domain of karma,” a notion typically linked with the social-moral regime of caste. In any event, these various social traits are all ascribed to Bh1ratavarùa itself in later representations: in R1jaéekhara’s tenth- century geography (largely derived from subsequent puranic elaborations); Bhoja’s eleventh- century *Bhuvanakoéa,* “ world- dictionary” or cosmography
 
 [^11-p194]: Manuscripts are equally divided between *bh1rata-* and *bharata-.* (The ancestry of the Bharata in question is not mentioned here but is elsewhere much discussed. For K1lid1sa, he was the grandson of the sage Viév1mitra; in the Ittagi inscription mentioned earlier he is the son of ñùabha, and the descendant of Manu, *EI* 13: 44, vv. 7 ff.) “Kir1ta” refers in a very general way to pastoral nomads; “ Yavana” originally to Ionians and Greeks more generally, and later to Arabs (and, even later, Europeans); “Turuùka” to Turkic peoples. A *yojana* is a vague term of distance, something like “league.”
+
 [^12-p194]: On those beings who dwell outside of Kum1rik1, see the *Siddh1ntaéiromaâi* quoted in *Dharmakoéa* vol. 3.2: 1268.
 
 *[p. 195]* ^pg216
@@ -394,7 +419,9 @@ southern Asia, as well as inconsistencies with later versions. The old puranic t
 Setting aside the intermittent fuzziness of detail in the puranic geography, we can perceive that the world of central concern to it does have considerable conceptual coherence. It is a limited domain, its margins marked by groups excluded from the *janapada*s, or people-places, that constitute the puranic world (v. 15—a passage not contained in the archetype and much expanded in the later version). To be sure, these were temporary exclusions along a rather rapidly shifting boundary of belonging; for instance, at the originary puranic moment the 0ndhras are outside the ecumene and the P1rasikas (Persians) are inside (v. 15), whereas later, in the *Mah1bh1rata,* the 0ndhras are normalized, so to speak.[^15-p195] While conceding such fluidity, we should note that for both the later representations and the puranic model on which they depend there remains always an inside and an outside. The border between the two is represented as a liminal zone, marking a transition to other lifeworlds where an altogether different physics of moral conduct prevails (with no retribution in future births for deeds done in this or past ones, for instance) along with an altogether different organization of time (with no fourfold division of cosmic ages with their entropic decline from the Kótayuga of perfection to the Kaliyuga of degradation). A different and threatening world abuts Bh1ratavarùa in the oldest puranic vision:
 
 [^13-p195]: The longer puranic version shares the same vision, since it calls the nine island-continents “mutually inaccessible” (see Kirfel 1931: 35, v. 3d, compare p. 33 v. 1d; contrast his remark on p. 12).
+
 [^14-p195]: See *Samaraãgaâas\[tradh1ra* chapter 5, especially vv. 8–11, 19–20, 57 ff., also *KM* 90.23– 92.13. For Bhoja as for most classical accounts a substantial admixture of fantasy persists; each of the seven islands is surrounded by a different kind of sea: saltwater, ghee, curd, rum, and so on. Skepticism was already reported by R1jaéekhara a century earlier: “Some say there is only one kind of ocean, saltwater” (*KM* p. 91).
+
 [^15-p195]: *Mah1bh1rata* 6.10.48. For Xuanzang (c. 640) Persia is no longer “in the domain of India” (trans. Li Rongxi 1996, p. 349).
 
 *[p. 196]* ^pg217
@@ -416,7 +443,9 @@ At first glance, the sexual typology of the *K1mas\[tra* (perhaps third or fourt
 Sexual behavior with women should be in accordance with the prevailing attitudes *(s1tmya)* of the region to which they belong. The women of Madhyadeéa are largely 0rya and thus insist on pure behavior; they dislike kissing and being marked by teeth or nails. The same is true for the women of B1hlEka and of Avanti, but they are especially partial to intricate forms of lovemaking. Women of M1lava, as also 0bhEra women \[“ women of the lands of çrEkaâ•ha, Kurukùetra, etc.”\], have a predilection for embracing, kissing, and biting and scratching so long as they do not draw blood, and they can be brought to orgasm through spanking. The women from the Land of the Five Rivers are habituated to giving oral sex. The women of Apar1nta and of L1•a have intense orgasms and moan softly and slowly. The women of Koéala and those of StrEr1jya \[“to the west of Vajravanta”\] enjoy hard spanking and have vehement orgasms but prefer artificial devices. The women of 0ndhra are delicate by nature, enjoy lovemaking, and have a predilection for impure acts and immoral behavior. The women of Mah1r1ù•ra take pleasure in performing the sixty-four arts; they like talking dirty and crudely and are passionate in bed. The women of the City \[P1taliputra\] do exactly the same, but only in strict privacy. Draviba women begin to release orgasmic fluids slowly even as they are massaged in foreplay. The women of Vanav1si have moderate orgasms and permit all \[the various kinds of physical acts\]; they like to keep their bodies covered but will ridicule a man’s \[physical\] shortcomings; they avoid men who are offensive, dirty-talking, and crude. The women of Gauba speak softly; their bodies are soft, too, and they are firm in their affections.[^19-p197]
 
 [^17]: The *K1mas\[tra* is later than the final recension of the *Arthaé1stra* (probably second century) and roughly contemporaneous with the early *pur1âa*s (fourth or fifth century).
+
 [^18]: The commentator, Yaéodhara, does note that woman as subject is equally implied (2.5.20).
+
 [^19-p197]: *K1mas\[tra* 2.5.20 –33, pp. 287– 90, with parenthetical reference to Yaéodhara. The regionalization of female characteristics is also found in the Old Hindi *R1ulavela* (discussed in chapter 8.2), cf. Bhayani 1994: xxxiv ff.
 
 *[p. 198]* ^pg219

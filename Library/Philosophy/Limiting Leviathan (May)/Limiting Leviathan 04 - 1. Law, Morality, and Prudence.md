@@ -59,6 +59,7 @@ are witnesses, or else by silent allowances famously notified through custom rea
  By the end of the sixteenth century, contract law was changing in England. The doctrine of assumpsit arose that allowed one to sue merely for 
 
 [^3]: Richard Hooker , *The Laws of Ecclesiastical Polity* , ed. R. A . Houk , New York :  Columbia University Press , 1931 , p.  176 .
+
 [^4]: The English legal historians Sir Frederick Pollock and Frederick William Maitland provide the best treatment of the history of contract law just prior to Hobbes’s time. See their monumental study *The History of English Law Before the Time of Edward I* , 2nd ed., vol. 2, Cambridge :  Cambridge University
 
 *[p. 24]* ^pg37
@@ -68,6 +69,7 @@ the violation of a promise, regardless of whether there had been a “considerat
  Of equal importance, developments in the doctrine of assumpsit led to the establishment of the legitimacy of “third-party beneficiary contracts.” By the middle of the seventeenth century it had become well accepted in English common law that the beneficiary of a promise, even when that person was not one of the contracting parties, had a legitimate right to the benefit. Lever *v* . Heys (1599), for instance, concerns a marriage agreement struck between two fathers. One father promised to pay a certain sum of money as dowry to the second father’s son if the second father agreed to give his consent to the marriage and assure that it would take place. Properly, then, the contract was made between the fathers, with the son being only a third party to the contract and incurring no obligations thereby himself. The legal question was this: once the marriage had taken place, did the son have a legal right to the dowry, and could he sue on his own behalf to secure it. The judges of the King’s Bench ruled that the son did have standing to sue. [^6] We will explore this case, and similar ones, in much more detail later. 
 
 [^5]: The American jurist Oliver Wendell Holmes argues quite cogently for the historical thesis that assumpsit developed out of a need for contractual obligation that was not based on debt. See his book *The Common Law* , ed. Mark DeWolfe Howe, Boston: Little Brown, 1963, especially pp. 198–226.
+
 [^6]: Two other cases are important to consider as well. In Provender *v* . Wood (Hetley 31,124 ER 318, 1631) the court ruled that “the party to whom the benefit of a promise accrews, may bring his action.” And in Starkey *v* . Mill (Style 296, 82 ER 723, 1651), the principle articulated in Provender was applied to a commercial situation, and again the third party was said to have the right to sue. “Roll Chief Iustice held, that it is good as it is, for there is a plain contract because the goods were given for the benefit of the plaintiff , though the contract be not made between him and the defendant, and he may have an action upon the case for here is a promise in law made to the plaintiff , though there be not a promise in fact.” For an analysis of these and related cases, see G. W. F. Dold, *Stipulations for a Third Party* , London: Stevens and Sons, 1948.
 
 *[p. 25]* ^pg38
@@ -99,8 +101,11 @@ each is endowed with enough physical strength to put the other in fear. Even the
  This state of war is totally devoid of all the aspects of society and civilization that we have come to accept as synonymous with human life itself. By 
 
 [^9]: EW III 110, Tuck 87.
+
 [^10]: Here I take no stand on the debate that has raged recently about the extent to which Hobbes was an egoist. The two most recent books on this issue are in S. A. Lloyd’s *Morality in the Philosophy of Thomas Hobbes: Cases in the Law of Nature* , New York :  Cambridge University Press , 2009 ; and Bernard Gert’s *Hobbes:  Prince of Peace* , Cambridge :  Polity Press , 2010 . I  will discuss this issue in some detail later in the text.
+
 [^11]: See EW III, 112, Tuck 88; and also see EW II 6n.
+
 [^12]: EW III 113, Tuck 88.
 
 *[p. 27]* ^pg40
@@ -142,9 +147,13 @@ so stating his case, Hobbes explicitly challenges the Aristotelian identificatio
  The best example Hobbes off ers of equivocation and inconsistency in the meaning assigned to names occurs in ethical discourse. In Chapter  6 of *Leviathan* , Hobbes tells us that the names “good” and “evil” refer to objects 
 
 [^17]: EW III 116, Tuck 90.
+
 [^18]: EW III 146, Tuck 110.
+
 [^19]: See Philip Pettit , *Made with Words* , Princeton :  Princeton University Press , 2008 .
+
 [^20]: EW III 28, Tuck 31.
+
 [^21]: EW IV 23. ch. V, para. 8. I will refer to Hobbes’s *Human Nature or the Fundamental Elements of Policy by citing the version reprinted in The English Works of Thomas Hobbes* , ed. Sir William Molesworth , 11 vols. ( London :  John Bohn , 1839 ) , vol. IV, and by chapter and paragraph.
 
 *[p. 29]* ^pg42
@@ -160,10 +169,15 @@ of appetite and aversion respectively for the individuals who employ these terms
  Without such a power to guarantee a common basis for our various feelings of appetite and aversion, ethical propositions must only be contingently true. In Chapter 7 of *Leviathan* Hobbes explains that all *a posteriori* reasoning 
 
 [^22]: EW III 41, Tuck 39.
+
 [^23]: EW III 28, Tuck 31.
+
 [^24]: EW III 29, Tuck 31.
+
 [^25]: De Homine Ch. 11; I will refer to *De Homine* by chapter and then by citing the version in Bernard Gert, ed. *Man and Citizen* , 1991, p. 47.
+
 [^26]: De Homine, Ch. 10; Bernard Gert, ed. *Man and Citizen* , 1991, p. 42.
+
 [^27]: A number of commentators have written on the importance of the deductive method for Hobbes’s philosophy. One of the most accessible of such commentaries was provided by J. W. N . Watkins , *Hobbes’s System of Ideas* , London :  Hutchinson & Co. , 1965 , chs. 2 and 3.
 
 *[p. 30]* ^pg43
@@ -173,8 +187,11 @@ of this type is conditional because it is not possible to know absolutely throug
  The notion of obligation in Hobbes’s moral epistemology is stabilized by the idea that there are laws of nature or moral precepts found by reason alone. [^29] This position reflects, but only to a certain extent, the late-medieval view that human reason could attain knowledge of the moral law. Aquinas had held this position also, but he contended that it was possible for only some humans to whom God had bestowed special powers. Hobbes is much more a forerunner of the Enlightenment moral philosophers than he is a follower in the Thomistic tradition on this issue. This is mainly due to the fact that Hobbes does not think that human reason needs to be aided in order to be able to come to a full knowledge of the moral law embodied in the laws in nature. [^30] For Hobbes, natural right and law of nature are derived from reasonable, prudential maxims known to all. [^31] Here again we see that Hobbes is attempting to ground morality in strictly non-theological terms, though not necessarily in terms at odds with traditional natural law concerns. 
 
 [^28]: EW III 52, Tuck 47.
+
 [^29]: EW III 116, Tuck 90.
+
 [^30]: There has been a lively debate about how reason is related to the laws of nature in Hobbes’s system. See John Deigh , “Reason and Ethics in Hobbes’s Leviathan ,” *Journal of the History of Philosophy* , vol. 34 , 1996 ; Mark Murphy , “Desire and Ethics in Hobbes’s Leviathan: A Response to Professor Deigh,” *Journal of the History of Philosophy* , vol. 38 , 2000 , pp. 259–268 ; and Kinch Hoekstra , “Hobbes on Law, Nature, and Reason,” *Journal of the History of Philosophy* , vol. 41 , no. 1 , 2003 , pp. 111–120 .
+
 [^31]: There is a significant group of interpreters of Hobbes who do not share my views on whether God is needed to aid us in knowing the laws of nature. A. E. Taylor, Howard Warrender, F. C. Hood, and more recently A. P. Martinich, have each advanced the thesis that God plays a central role in Hobbes’s moral philosophy. Warrender presents the strongest argument against the interpretation I urge throughout my chapter. In *The Political Philosophy of Thomas Hobbes* , Oxford University Press, 1957, p. 100, Warrender says: “In the present work, Hobbes’s statements regarding the place of God will be taken as a necessary part of his theory, and it will be contended that this allows the most probable construction to be put upon his text. Thus it will be held that with regard to natural law, the ground of obligation is always present as this derives from the commands of God in his natural kingdom, and does not depend in any way upon the covenant and consent of the individual or upon the command of the civil sovereign.”
 
 *[p. 31]* ^pg44
@@ -212,6 +229,7 @@ that Hobbes has here set out a moral “ought”—that is, a precept stipulatin
  At the very end of Chapter 15 of *Leviathan* Hobbes clearly states what he believes to be the essence of the laws of nature. The laws of nature “are but conclusions or theorems concerning what conduceth to the conservation and defense of themselves.” The laws of nature are thus merely “dictates of reason” and not laws properly so called. For “law, properly, is the word of him, that by right hath command over others.” <sup>38</sup> The laws of nature bind the will and not the actions of a person because they tell only what is likely to produce the best results for individuals who follow them. Since each person, as a prudentially rational person, desires what is best, then each person desires what the laws of nature dictate. And while, in general, it would go against our own desires if we failed to conform to the laws of nature, such failure to conform may not go against our desires in certain circumstances. For example, if we had been condemned to death by the State, our desire to live in a peaceful State would be overridden by our desire at the moment to remain alive. [^39] If violating the laws of nature does not always go against our prudentially rational desires, then it cannot be that we are obligated always 
 
 [^37]: See Stephen Darwall , *The British Moralists and the Internal ‘Ought’: 1640–1740* , Cambridge :  Cambridge University Press , 1995 .
+
 [^39]: See my discussion of this issue in Chapter 5, Section III.
 
 *[p. 33]* ^pg46
@@ -227,7 +245,9 @@ to follow those laws. Hobbes’s view of moral obligation is that we can be boun
  In both cases, one is bound in the sense that one risks self-contradiction—that is, the rejection of what one has a will to do—if one does not assent to the correct answer or action. This doctrine creates a bridge between metaphysics and ethics, between contradiction in the mind and in the will. And it also creates a bridge between Hobbes’s moral philosophy which places 
 
 [^40]: EW III 146, Tuck 110.
+
 [^41]: EW III 145–146, Tuck 110. J.W.N. Watkins argues quite cogently that the concept of endeavour is central to Hobbes’s whole project of connecting natural philosophy with moral and political theory. See *Hobbes’s System of Ideas* , especially ch. 7.
+
 [^42]: EW III 119, Tuck 93.
 
 *[p. 34]* ^pg47
@@ -243,7 +263,9 @@ high priority on the natural law obligation to keep promises and his political p
  When we assent to be ruled by another, we authorize another person to issue commands to us, and we thereby give this person’s commands the authority of our own consciences. [^45] As a result, it comes to be contrary to our own consciences to disobey the civil law. There is one exception here: namely, when our public conscience commands us to do something which is at odds with our private conscience. As we will see later, there are 
 
 [^43]: EW III 149, Tuck 112–113.
+
 [^44]: EW IV 186–187. I will refer to Hobbes’s *Elements of Law (De Corpore Politico)* by citing the version reprinted in *The English Works of Thomas Hobbes* , ed. Sir William Molesworth, 11  vols. (London:  John Bohn, 1839), vol. IV.
+
 [^45]: See the discussion of authorizing in the next chapter.
 
 *[p. 35]* ^pg48
@@ -281,6 +303,7 @@ insecurity and that it will threaten our self-preservation, then pure natural ri
  For as long as every man holdeth his right, of doing any thing he liketh, so long are all men in the condition of war. But if other men will not lay down their right, as well as he; then there is no reason for any one to divest himself of his; 
 
 [^48]: EW III 118, Tuck 92.
+
 [^49]: Many contemporary philosophers trace the origin of decision theory, especially concerning the prisoner's dilemma, directly back to Hobbes. One of the chief defenders of this view is David P. Gauthier. See his important book, *The Logic of Leviathan* , Oxford: Oxford University Press, 1969. Part II is of the most relevance to our concerns, and provides quite an interesting attempt to refute the views of Warrender.
 
 *[p. 37]* ^pg50
@@ -298,8 +321,11 @@ for that were to expose himself to prey, which no man is bound to do, rather tha
  For Hobbes, a person generally acts in order to achieve “some good to himself.” In respect to laying down one’s rights, this good can be of two sorts: “it is either in consideration of some right reciprocally transferred to himself; or for some other good he hopeth for thereby.” [^53] People in the state of nature would not renounce their right to all things for altruistic reasons. 
 
 [^50]: EW III 118, Tuck 92.
+
 [^51]: Perhaps the most telling point in Warrender's favor is Hobbes’s own claim that the laws of nature might not be a defective form of moral obligation in the state of nature. For this to be true, there would have to be some authority in the state of nature who issues moral commands. Warrender forcefully argues that God is the only entity that could fill this function ( *Political Philosophy of Thomas Hobbes* , p. 98). The chief passage from Leviathan that Warrender relies on is this: “But yet if we consider the same theorems, as delivered in the word of God, that by right commandeth all things; then are \[the laws of nature\] properly called laws.” (EW III 147, Tuck 111) As Warrender himself admits, this passage is conditional and is thus subject to a number of interpretations. Since Hobbes has just said that the laws of nature are not properly called laws, the consequent clause must be something which Hobbes believes to be false. And Hobbes thereby commits himself to believing that the antecedent clause is false also. It is for this reason that I hold that the laws of nature for Hobbes are a defective form of moral obligation.
+
 [^52]: EW III 119, Tuck 93.
+
 [^53]: EW III 119–120, Tuck 93.
 
 *[p. 38]* ^pg51
@@ -319,7 +345,9 @@ They would do so only in expectation of some good to be received. Here Hobbes’
  (1) the command of him or them that have the sovereign power; (2) given to those that be his or their subjects; 
 
 [^54]: EW III 120, my italics, Tuck 93.
+
 [^55]: EW III 120, my italics, Tuck 93.
+
 [^56]: John Eachard is one of the strongest defenders of the view that Hobbes conflated morality and legality. See the quotation from him which occurs near the end of the present chapter.
 
 *[p. 39]* ^pg52
@@ -343,9 +371,13 @@ They would do so only in expectation of some good to be received. Here Hobbes’
  But the sovereign may attempt to exercise power in ways that are not legitimate, and it is at this point that morality re-enters as a limitation on law-making. For Hobbes there are moral categories other than justice that apply to the sovereign. Specifically, there is the concept of equity which is closely related to the sovereign’s duty to protect the safety of the people by providing “good” laws. Equity is linked to the duty of providing for the safety of the people in Chapter 30 of Leviathan. At the beginning of this 
 
 [^59]: EW II 166, ch. XIII, para. 2.
+
 [^60]: EW II 166, ch. XIII, para. 2.
+
 [^61]: EW III 322–323, Tuck 231.
+
 [^62]: At least at this point in our discussion legitimate and rightful can be assumed to be roughly the same for Hobbes.
+
 [^64]: In Chapter 21 of *Leviathan* , Hobbes says that if the sovereign “demand, or take anything by pretense of his power; there lieth in that case, no action of law” EW III 207, Tuck 153.
 
 *[p. 41]* ^pg54
@@ -359,9 +391,13 @@ chapter, Hobbes says that “the Offi ce of the sovereign . . . consisteth in . 
 making, Hobbes held the view that only when the immoral actions of the law-maker jeopardize that which grounds sovereignty are they limiting constraints on the law. Nonetheless, these are limits. As we will see the moral limits on sovereign law-making are largely drawn in procedural terms by Hobbes:  ruling out laws that are superfluous, contradictory, or secret, as well as laws that cause the citizenry to lose faith in the fairness of the law. Indeed, any laws that have the effect of undermining peace are ones that the sovereign is prohibited from promulgating by the principles of equity that Hobbes defends in *Leviathan* Chapter 30 and in significant discussions in the *Dialogue* . [^69] 
 
 [^65]: EW III 322, Tuck 231.
+
 [^66]: EW III 332, Tuck 237.
+
 [^67]: EW VI 26, Cropsey 70.
+
 [^68]: Some commentators have also focused on equity, but no one sees equity as the cornerstone of the limitations on sovereign power for which I  will argue. Eleanor Curran discusses the relation between equity and the retained right of self-preservation, *Reclaiming the Rights of the Hobbesian Subject* , New York: Palgrave Macmillan, 2007, p. 110. Also of note is the essay by Dennis Klimchuk , “Hobbes on Equity,” in *Hobbes and the Law* , ed. David Dyzenhaus and Thomas Poole , Cambridge :  Cambridge University Press , 2012 , who helpfully sorts out the various usages of equity in Hobbes’s writings.
+
 [^69]: Eleanor Curran has discussed these moral limits in terms of the “requirements of the offi ce of the sovereign” and calls them not moral duties proper, and also says they are only “indirectly” protected. *Reclaiming the Rights of the Hobbesian Sovereign* , p. 113 and 168. Claire Finkelstein has also called attention to the sovereign duties but says they “only play an indirect role” in protecting the citizens. See Claire Finkelstein , “A Puzzle about Hobbes on Self-Defense,” *Pacific Philosophical Quarterly* , vol. 82 , nos. 3–4 , pp. 332–361 , especially p.  359 .
 
 *[p. 42]* ^pg55
@@ -393,7 +429,9 @@ which involves rational self-interested calculation, will be the basis of moral 
  Hobbes responds that this “specious reasoning is nevertheless false.” He agrees with the fool that what is reasonable is that which is shown to be beneficial or prudential. But he argues that the fool, through selective obedience to law, could not gain what is sought by all people: namely, long-term security. [^72] 
 
 [^70]: EW III 155, Tuck 118.
+
 [^71]: EW III 132, Tuck 101.
+
 [^72]: Hobbes’s refutation of the fool has received very interesting commentary. A  number of authors have reassessed Hobbes’s attempt to answer the fool, as well as why Hobbes even mentions such a powerful objection to his own theory. Of special note are the following essays:  Annette Baier , “Secular Faith,” *Canadian Journal of Philosophy* , 10 / 1 ( 1980 ) ; and David Gauthier , “Three Against Justice: The Foole, The Sensible Knave, and the Lydian Shepherd,” *Midwest Studies in Philosophy* , VII ( 1982 ) . More recently, Lloyd has a good discussion of this issue in her book *Morality in the Philosophy of Thomas Hobbes: Cases in the Law of Nature* , New York :  Cambridge University Press , 2009 .
 
 *[p. 44]* ^pg57
@@ -409,7 +447,9 @@ which involves rational self-interested calculation, will be the basis of moral 
  Locke denies that reason is equivalent to pure self-interested calculation, and he does so for considerations of a theological nature, as the passage above indicates. 
 
 [^73]: EW III 134, Tuck 102.
+
 [^74]: John Locke (1632–1704) wrote two books which are important in the history of ethics. First, in *An Essay Concerning Human Understanding* he devotes parts of several chapters to the subject of ethical knowledge, arguing that such knowledge cannot be innate. Also, in his *Two Treatises of Government* Locke tries to blend conceptions of natural right with the social contract theory Hobbes had developed a few years earlier.
+
 [^75]: Second Treatise para. 289.
 
 *[p. 45]* ^pg58
@@ -425,6 +465,7 @@ which involves rational self-interested calculation, will be the basis of moral 
  In particular, Eachard says that Hobbes was too hasty in drawing the conclusion that prudence would be the most rational strategy to pursue in the state of nature. 
 
 [^76]: Second Treatise paras. 297–298.
+
 [^77]: John Eachard , *Mr. Hobbes’s State of Nature Considered* , 1672 , ed. Peter Ure , Liverpool :  Liverpool University Press , 1958 . p.7.
 
 *[p. 46]* ^pg59

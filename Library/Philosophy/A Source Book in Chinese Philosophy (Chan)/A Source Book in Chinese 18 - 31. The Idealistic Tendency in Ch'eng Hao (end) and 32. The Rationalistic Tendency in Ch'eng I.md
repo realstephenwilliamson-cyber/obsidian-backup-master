@@ -21,9 +21,13 @@ All this does not remove the fact that it was the Ch'eng brothers' own idea to m
 As the great virtue of Heaven and Earth is to produce, whatever is produced in man, that is, whatever is inborn in him, is his nature. To him this is identical with material force (*ch*'*i*). In its original, tranquil state, human nature is neither good nor evil. The distinction arises when human nature is aroused and is manifested in feelings and actions, and when these feelings and actions abide by or deviate from the mean. The chief task of moral and spiritual cultivation is to calm one's nature, through absolute impartiality and the identification of internal and ex-
 
 [^14]: For example, *I-shu,* 2A:2b, 3:1b, 2a, 6:4a, 7:1a, 22A:1b; *Wai-shu,* 2:4b, 10:4b. See Graham, p. 173, n.38.
+
 [^15]: *I*-*shu*, 6:4a.
+
 [^16]: For example, *I*-*shu*, 2A:4a, 4:3b.
+
 [^17]: It is mentioned in a preface to Ch'eng I's *I chuan* (see n.21), but as Graham has well shown (p. 144), this preface is unauthentic.
+
 [^18]: For a discussion of this term, see Appendix.
 
 *[p. 522]* ^pg549
@@ -57,6 +61,7 @@ The student must first of all understand the nature of *jen*. The man of *jen* f
 Nothing can be equal to this Way (Tao, that is, *jen*). It is so vast that nothing can adequately explain it. All operations of the universe are our operations. Mencius said that "all things are already complete in oneself" and that one must "examine oneself and be sincere (or absolutely real)" and only then will there be great joy.[^22] If one examines himself and finds himself not yet sincere, it means there is still an op-
 
 [^21]: This is the *Erh-Ch'eng ch'üan-shu,* which includes (1) the *I-shu* (Surviving Works), consisting of conversations of the brothers, (2) the *Wai-shu* (additional Works), consisting of additional conversations of theirs, (3) the *Ming-tao wen-chi* (Collection of Literary Works by Ch'eng Hao), consisting of poems, letters, and the like, (4) the *I-ch'uan wen-chi* (Collection of Literary Works by Ch'eng I), (5) the *I ch'uan* (Commentary on the *Book of Changes*) by Ch'eng I, (6) his *Ching-shuo* (Explanations of the Classics), and (7) the *Ts'ui-yen* (Pure Words), which contains additional conversations of the two brothers, mostly duplicates of the *I-shu* and the *Wai-shu.* (*Ts'ui-yen* has sometimes been mistranslated as "choice sayings" and "collected sayings.") For the present work, the SPPY edition is used. It is interesting to note that the *Ts'ui-yen* is put at the end of the *Complete Works.* For a good account of these works, see Tsai, *The Philosophy of Ch'eng I*, pp. 27- 61. Tsai is sometimes too skeptical and used untenable arguments. For example, he said that the *Ts'ui-yen* is unreliable because it is in the literary style whereas the editor of this work, Yang Shin (Yang Kuei-shan, 1053-1135) always referred to it as *yü*-*lu* or "recorded sayings in the vernacular" (p. 60). But *yü*-*lu* merely means recorded sayings and does not necessarily mean sayings in the vernacular. The *Chang Tzu yü-lu* (Recorded Conversations of Chang Tsai), for example, is in the literary style. Besides, not all the recorded conversations of the Ch'eng brothers are in the vernacular. They are vernacular in the *I*-*shu* but literary in the *Wai-shu,* which was compiled by Chu Hsi. None of the above works has been translated into any European language. A good number of sayings of both brothers has been translated by Graham in his book and a considerable number of sayings by Ch'eng I has been translated by Ts'ai in his work. Chu Hsi's selections from the two brothers in his *Chin-ssu lu* (Reflections on Things at Hand) have been translated into German by Graf, *Djin-sï lu, passim.*
+
 [^22]: *Mencius,* 7A:4.
 
 *[p. 524]* ^pg551
@@ -74,11 +79,17 @@ For our innate knowledge of good and innate ability to do good are originally no
 Strangely enough, Chu Hsi left this essay out of his *Chin-ssu lu* (Reflections on Things at Hand)[^29] because it is "too broad" and "may easily be misunderstood."<sup>30</sup> Evidently the teaching that there is no need for caution, control, or exhaustive search sounds dangerous. But in defense of Ch'eng, Liu Tsung-chou (1578-1645) has pointed out that Ch'eng did not teach people to meditate out of
 
 [^23]: See above, ch. 30, sec. 1.
+
 [^24]: *Mencius*, 2A:2.
+
 [^25]: The text has *shih* (fact) instead of *li* (principle).
+
 [^26]: See above, ch. 30, comment on sec. 1.
+
 [^27]: *Ts*'*ui*-*yen*, 1:7b.
+
 [^28]: See below, ch. 35, B, secs. 89, 93, 274, and 337.
+
 [^29]: The *Chin-ssu lu* is an anthology of the Ch'eng brothers, Chou Tun-i and Chang Tsai. *Chu Tzu yü-lei* (Classified Conversations of Chu Hsi), 1876 ed., 97:5b-6a.
 
 *[p. 525]* ^pg552
@@ -94,9 +105,13 @@ I have received your letter in which you said that nature in the state of calmne
 The constant principle of Heaven and Earth is that their mind is in all things, and yet they have no mind of their own. The constant principle of the sage is that his feelings are in accord with all creation, and yet he has no feelings of his own. Therefore, for the training of the superior man there is nothing better than to become broad and extremely impartial and to respond spontaneously to all things as they come. The *Book of Changes* says, "Firm correctness brings good fortune and prevents all occasions for repentance. If he is hesitant in his movements, only his friends will follow his purpose."[^35] If one merely attempts to remove external temptations, then no sooner do some disappear in the
 
 [^31]: *Sung-Yüan hsüeh*-*an*, SPPY, 13:3b.
+
 [^32]: *Chung-kuo ssu-hsiang shih* (History of Chinese Thought), 1952, p. 138.
+
 [^33]: According to Chu Hsi, this was written when Ch'eng Hao was twenty-two or twenty-three. See *Chu Tzu yü-lei,* 93:9a.
+
 [^34]: Indirectly quoting *Chuang Tzu,* ch. 22, NHCC, 7:55b. See Giles, trans., *Chuang Tzu,* 1961 ed., p. 219.
+
 [^35]: Commentary of hexagram no. 31, *hsien* (influence). Cf. Legge, trans., *Yi King,* p. 123.
 
 *[p. 526]* ^pg553
@@ -132,9 +147,13 @@ SELECTED SAYINGS<sup>39</sup>
 been taken to be Ch'eng Hao's saying in the anthologies represented by them as follows. With two exceptions, to be pointed out, none of these anthologies ascribes any of these sayings to Ch'eng I: c. Chu Hsi, *Chin-ssu lu* (Reflections on Things at Hand). CH. Ch'en Lung-cheng (1585-?), *Ch'eng Tzu hsiang-pen* (Detailed and Classified Anthology of Masters Ch'eng). L. Sun Ch'i-feng (1584-1675), *Li-hsüeh tsung-ch'uan* (Orthodox Transmission of Neo-Confucianism). M. Shen Kuei (of Ming, 1368-1644), *Ming-tao ch'üan-shu* (Complete Works of Ch'eng Hao). s. Huang Tsung-hsi (1610-1695) *et al*., *Sung-Yüan hsüeh-an* (Anthology and Critical Accounts of the Neo-Confucianists of the Sung and Yuan Dynasties, 960-1368).
 
 [^40]: According to Yeh Ts'ai (fl. 1248), function here means what is correct according to principle. See *Djin-sï lu*, trans. by Graf, vol. 2, p. 58.
+
 [^41]: *The Mean*, ch. 33.
+
 [^42]: *ibid*., ch. 1.
+
 [^43]: *ibid.,* ch. 25.
+
 [^44]: A saying by Kao Tzu (c.420-c.350 B.C.). *Mencius*, 6A:3.
 
 *[p. 528]* ^pg555
@@ -144,8 +163,11 @@ THE IDEALISTIC TENDENCY
 According to principle,[^45] there are both good and evil in the material force with which man is endowed at birth. However, man is not born with these two opposing elements in his nature to start with. Due to the material force with which men are endowed some become good from childhood and others become evil.[^46] Man's nature is of course good, but it cannot be said that evil is not his nature. For what is inborn is called nature. "By nature man is tranquil at birth."[^47] The state preceding this cannot be discussed. As soon as we talk about human nature, we already go beyond it. Actually, in our discussion of nature, we only talk about (the idea expressed in the *Book of Changes* as) "What issues from the Way is good."[^48] This is the case when Mencius speaks of the original goodness of human nature. The fact that whatever issues from the Way is good may be compared to the fact that water always flows downward. Water as such is the same in all cases. Some water flows onward to the sea without becoming dirty. What human effort is needed here? Some flows only a short distance before growing turbid. Some travels a long distance before growing turbid. Some becomes extremely turbid, some only slightly so. Although water differs in being clean or turbid, we cannot say that the turbid water (evil) ceases to be water (nature). This being the case, man must make an increasing effort at purification. With diligent and vigorous effort, water will become clear quickly. With slow and lazy effort, water will become clear slowly. When it is clear, it is then the original water. Not that clear water has been substituted for turbid water, nor that turbid water has been taken out and left in a corner. The original goodness of human nature is like the original clearness of water. Therefore it is not true that two distinct and opposing elements of good and evil exist in human nature and that each of them issues from it. This principle is the Mandate of Heaven. For anyone to obey and follow it is the Way. For anyone to follow it and cultivate it so that he attains his function \[corresponding to his nature\] is education. From the Mandate of Heaven to education, one can neither augment nor diminish \[this function\]. Such is the case of Shun, who \[obeying and
 
 [^45]: According to Sun Ch'i-feng, *Li-hsüeh ts'ung-ch'uan,* 1880 ed., 2:11b, the word "principle" should read "nature."
+
 [^46]: "Such as Hou-chi having an outstanding appearance and when Tzu-yüeh-chiao was born, people knew that he would destroy his own clan," says Ch'eng Hao's own note. Hou-chi was Emperor Shun's (3rd millennium B.C.) minister, who is described in the *Book of Odes,* ode no. 245, as having an outstanding appearance at birth, thus indicating his inborn virtue. The reference to Tzu-yüeh-chiao is found in the *Tso chuan,* Duke Hsüan, 4th year.
+
 [^47]: *Book of Rites,* "Record of Music." Cf. Legge, trans., *Li Ki,* vol. 1, p. 96.
+
 [^48]: *Changes,* "Appended Remarks," pt. 1, ch. 5. Cf. translation by Legge, *Yi King,* p. 353.
 
 *[p. 529]* ^pg556
@@ -179,8 +201,11 @@ THE IDEALISTIC TENDENCY
 *Comment.* The all-important concept of *jen* went through radical developments in Neo-Confucianism, especially in Chang Tsai and the Ch'eng brothers.[^56] In the *I*-*shu* of the brothers, *jen* is discussed more than any other topic. In section 1, righteousness, propriety, wisdom, and faithfulness are considered as expressions of *jen*. This is a new development, for traditionally the five are called the Five Constant Virtues, all being equal, whereas he and his brother, who developed the idea further, regarded *jen* as embracing the other four. Here *jen* is understood as a feeling for life, an even more radical interpretation of *jen*. As Chu Hsi explained, *jen* is the mind of Heaven and Earth to produce things. Since man has received this mind to be his own mind, he and Heaven and Earth and all things share the same mind. It is for this reason that there is penetration through all things.[^57]
 
 [^54]: *Su-wen* (Question on the Original Simplicity), sec. 42, *Erh-shih-erh tzu* (Twenty-two Philosophers) ed., 12:2a. The meaning of the title is not clear, but according to the commentary in the book (1:1a), *su* refers to the original substance, and therefore does not mean purity or plainness.
+
 [^55]: *Analects,* 6:28.
+
 [^56]: See above, ch. 30, comment on sec. 1, and below, ch. 32, comment on sec. 42.
+
 [^57]: *Chu Tzu yü-lei,* 95:10a. For further comment on *jen,* see sec. 1; also see above, ch. 30, sec. 1; and see below, ch. 32, comment on sec. 42; ch. 34, comment on treatise 1; and ch. 40, Introduction.
 
 *[p. 531]* ^pg558
@@ -198,9 +223,13 @@ THE IDEALISTIC TENDENCY
 16\. We should know the origin of life and death, and existence and extinction, and be very clear and absolutely sure about them. There is
 
 [^58]: Interpretation according to Sun Ch'i-feng, *Li-hsüeh tsung-ch'uan,* 2:20b.
+
 [^59]: For Chou Tun-i, see above, ch. 28.
+
 [^60]: Confucius' most virtuous pupil (521-490 B.C.). The reference is to *Analects,* 6:9.
+
 [^61]: For Chu Hsi's various interpretations, see Chiang Yung (1681-1762), *Chin*- *ssu lu chi-chu* (Collected Commentaries on the *Reflections on Things at Hand*), SPPY, 2:8b.
+
 [^62]: *Mencius*, 3A:4.
 
 *[p. 532]* ^pg559
@@ -216,12 +245,19 @@ only this principle governing them. When Confucius said, "If we do not yet know 
 19\. "Change means production and reproduction."[^70] This is how Heaven becomes the Way. To Heaven, the Way is merely to give life. What follows from this principle of life-giving is good. Goodness involves the idea of origination (*yüan*), for origination is the chief quality of goodness. All things have the impulses of spring (spirit of growth) and this is goodness resulting from the principle of life. "That which realizes it is the individual nature."<sup>71</sup> Realization is possible only when the myriad things fully realize their own nature. (2A:12b)\* M S
 
 [^63]: *Analects,* 11:11.
+
 [^64]: *The Mean*, ch. 20.
+
 [^65]: Cf. Legge, *Yi King,* p. 420.
+
 [^66]: *ibid.*
+
 [^67]: Quoting *Mencius*, 2A:2.
+
 [^68]: *Analects,* 2:2.
+
 [^69]: *Book of Rites,* "Summary of Ceremonies," pt. 1. Cf. Legge, *Li Ki,* vol. 1, p. 61.
+
 [^70]: *Changes,* "Appended Remarks," pt. 1, ch. 5. Cf. Legge, *Yi King,* p. 356.
 
 *[p. 533]* ^pg560
@@ -233,7 +269,9 @@ only this principle governing them. When Confucius said, "If we do not yet know 
 21\. The reason why it is said that all things form one body is that all have this principle, simply because they all have come from it. "Change means production and reproduction."[^73] In production, once a thing is produced, it possesses this principle complete. Man can extend this principle to others, but because their material force with which they are endowed is dark, things cannot do so. But we must not say that they do not share principle with others. Simply because of selfishness, man thinks in terms of his own person, and therefore, from the point of view of principle, belittles them. If he lets go this person of his and views all things in the same way, how much[^74] joy would there be! Because the Buddhists do not know this, they think in terms of the self. As they cannot cope with it, they become disgusted and want to get rid of sense-perception, and because the source of their mind is not calm, they want to be like dry wood and dead ashes. But this is impossible. It is possible only with death. The Buddhists say all that because they in reality love their own persons and cannot let go. They are like those worms that carry things on their backs which are already unable to bear their load, and still add more things on their bodies, or like a man who sinks in a river
 
 [^72]: See comment on sec. 11, and below, ch. 32, comments on secs. 22 and 42.
+
 [^73]: *Changes,* "Appended Remarks," pt. 1, ch. 5. Cf. Legge, *Yi King,* p. 356.
+
 [^74]: According to Chiang Yung, *Chin-ssu lu chi-chu,* 13:3a, *ta-hsiao-ta* is a Sung period (960-1279) colloquial meaning "so much."
 
 *[p. 534]* ^pg561
@@ -251,12 +289,19 @@ true of man but of things also. Everything proceeds from the self, only things c
 26\. By "the state of absolute quiet and inactivity" and "that which when acted upon immediately penetrates all things,"[^81] is meant that the Principle of Nature is self-sufficient and from the very beginning lacks nothing. It does not exist because of sage-emperor Yao nor does it cease to exist because of wicked Chieh.[^82] The constant principle governing the relations of father and son and of ruler and minister are unchangeable. When has it moved? Because the Principle of Nature is unmoved, therefore
 
 [^75]: *Mencius,* 7A:4.
+
 [^76]: Legendary ruler (3rd millennium B.C.).
+
 [^77]: Legendary ruler, Yao's successor.
+
 [^78]: *The Mean,* ch. 29. The Three Kings were founders of the three dynasties (Hsia, 2183-1752 B.C.?; Shang, 1751-1112 B.C.; and Chou, 1111-249 B.C.).
+
 [^79]: *Analects,* 4:5.
+
 [^80]: *ibid.,* 5:5 .
+
 [^81]: *Changes,* "Appended Remarks," pt. 1, ch. 10. Cf. Legge, p. 370.
+
 [^82]: The last king of Hsia (r. 1802-1752 B.C.), who caused the downfall of the dynasty.
 
 *[p. 535]* ^pg562
@@ -278,11 +323,17 @@ it is described as absolutely quiet. Although it is unmoved, when acted on it re
 32\. There is nothing outside of the Way, and there is no Way outside of things. Thus within heaven and earth there is nowhere without the Way. Right in the relation of father and son, the way of father and son lies in affection, and right in the relation between ruler and minister, the way of ruler and minister lies in seriousness.[^87] From these to being husband and wife, elder and younger, and friends, there is no activity that is not the Way. This is why "The Way cannot be separated from us for a moment."[^88] This being the case, to renounce human relations and to do away with the Four Elements (Earth, Water, Fire, and Wind) \[as the Buddhists try to do\] is to deviate very far from the Way. Therefore "a superior man in dealing with the world is not for anything or against anything. He follows righteousness as the standard."[^89] If one is for or against anything, there will be distinction between him and the Way and that would not be Heaven and Earth in their completeness. In the learning of the Buddhists there is seriousness to straighten the internal life but no righteousness to square the external life. Therefore those who
 
 [^83]: This sentence in parentheses is Ch'eng Hao's own.
+
 [^84]: This additional saying is Ch'eng Hao's own.
+
 [^85]: *Sung-Yüan hsüeh*-*an*, SPPY, 14:5b.
+
 [^86]: For Chou's additional influence on the personality of the Ch'eng brothers, see above, ch. 28, Introduction.
+
 [^87]: One version has "reverence" instead.
+
 [^88]: *The Mean*, ch. 1.
+
 [^89]: *Analects,* 4:10.
 
 *[p. 536]* ^pg563
@@ -304,11 +355,17 @@ are rigid become like dry wood and those who are relaxed end up in recklessness.
 *Comment.* This advocacy of observing dispositions is common to the Ch'eng brothers. Ch'eng I urged the observation of the disposition of the Sage.[^94] Their follower, Chu Hsi's teacher, Li T'ung (Li Yen-p'ing, 1088-1163), taught people to observe the disposition before the feelings are aroused.[^95] All this was certainly a tendency toward quietism. Evidently being aware of this, Chu Hsi said that Master Ch'eng merely happened to have said it and that one should not simply keep observing the disposition of living things.[^96] While Chu Hsi is correct, it should not be forgotten that Ch'eng is primarily interested in the spirit of life in things, as the following selection indicates. To him everything is full of life, and
 
 [^90]: Another version: That is the Principle of Nature.
+
 [^91]: Ch'eng's own note.
+
 [^92]: It is not explicitly stated in the *I*-*shu* whether this is Ch'eng Hao's or Ch'eng I's saying. It is attributed to Ch'eng I in *Chu Tzu yü-lei,* 95:12a but to Ch'eng Hao in *ibid.,* 62:14b and *Chu Tzu wen-chi,* 44:19b. In Ms *Meng Tzu chi-chu,* ch. 11, comment on *Mencius,* 6B:6, Chu Hsi quotes this saying and another from *I-shu,* 18:17b as those of "Master Ch'eng." Since the latter saying is definitely Ch'eng I's, this saying must also be his. In *Chin-ssu lu,* ch. 2, sec. 30, it seems to belong to Ch'eng I.
+
 [^93]: Ch'eng's own note.
+
 [^94]: *I-shu,* 22A:5b, 9a.
+
 [^95]: *Li Yen-p'ing chi* (Collected Works of Li T'ung), *Cheng-i-t'ang ch'üan-shu* ed., 2:16a-b.
+
 [^96]: *Chu Tzu yü*-*lei*, 96:17b-18a.
 
 *[p. 537]* ^pg564
@@ -352,15 +409,25 @@ called a concrete thing.[^102] It is also said, "Yin and yang are established as
 50\. Mencius said, "Humanity is the distinguishing character of man. When embodied in man's conduct it is the Way."[^110] This is what the *Doctrine of the Mean* means when it says that "to follow human nature is called the Way."[^111] *Jen* is to humanize. "Seriousness is to strengthen the internal life and righteousness is to square the external life."[^112] This means *yen*. If one purposely uses seriousness to straighten his internal life, it will not be straightened. Must one be \[purposely\] straight in the
 
 [^102]: *ibid.,* ch. 12. Cf. Legge, p. 377.
+
 [^103]: "Remarks on Certain Trigrams," ch. 2. Cf. Legge, p. 423.
+
 [^104]: "Appended Remarks," pt. 1, ch. 5. Cf. Legge, p. 355.
+
 [^105]: Quoting *The Mean*, ch. 16.
+
 [^106]: *ibid.,* ch. 25.
+
 [^107]: Ode no. 267. King Wen (r. 1171-1122 B.C.) was founder of the Chou dynasty.
+
 [^108]: *The Mean,* ch. 26, commenting on the ode.
+
 [^109]: Ch'eng's own note. The quotation is from *Changes,* commentary on hexagram no. 2, *k'un* (Earth). Cf. Legge, p. 426.
+
 [^110]: *Mencius,* 7B:16.
+
 [^111]: Ch. 1.
+
 [^112]: *Changes,* commenting on hexagram no. 2, *k'un.* Cf. Legge, p. 420.
 
 *[p. 539]* ^pg566
@@ -382,11 +449,17 @@ practice of humanity and righteousness? If one is "always doing something withou
 *Comment.* These three things remained for the Ch'eng brothers, as for practically all Neo-Confucianists, the chief objectives in their philosophy. In this they did not depart from the *Book of Changes*
 
 [^113]: *Mencius*, 2A:2.
+
 [^114]: *Changes, ibid.*
+
 [^115]: *ibid.,* "Appended Remarks," pt. 2, ch. 1. Cf. Legge, p. 381. *ibid.,* ch. 5. Cf. Legge, p. 393. 116
+
 [^117]: *Changes*, commentary on hexagram no. 1, *ch'ien* (Heaven). Cf. Legge, p. 408.
+
 [^118]: In *Chu Tzu yü-lei,* 95:19a, Chu Hsi's pupil mistakenly ascribed this saying to Ch'eng I.
+
 [^119]: *Changes,* "Appended Remarks," pt. 1, ch. 10. Cf. Legge, p. 370.
+
 [^120]: *ibid.,* ch. 4. Cf. Legge, 354.
 
 *[p. 540]* ^pg567
@@ -412,8 +485,11 @@ from which these concepts have been derived.[^122] However, whereas in the *Book
 64\. All the myriad things have their opposites. When there is yin,
 
 [^122]: "Remarks on Certain Trigrams," ch. 1. Cf. Legge, p. 422.
+
 [^123]: See Chang's *Cheng-meng* (Correcting Youthful Ignorance), ch. 6, in *Chang Heng-ch'ü chi* (Collected Works of Chang Tsai), *Cheng-i-t'ang ch'üan-shu* ed., 3:5a. See *I-shu*, 10:5a. 124
+
 [^125]: *Changes,* "Appended Remarks," pt. 1, ch, 7. Cf. Legge, p. 360.
+
 [^126]: The text has "virtue" but one version has "principle." It is used here for the contrast between human desires and the Principle of Nature that was to play a great role in the controversy among Neo-Confucianists.
 
 *[p. 541]* ^pg568
@@ -463,10 +539,15 @@ THE IDEALISTIC TENDENCY
 *Comment.* Like other Neo-Confucianists, Ch'eng Hao was not unattracted to Buddhism at first. As pointed out before, he "went in and out of the Taoist and Buddhist Schools for almost ten years,"[^134] and once when he visited a Buddhist temple and saw the marvelous etiquette, he exclaimed, "All the decorum of the Three Dynasties[^135] is found here!" But he must not be made to appear Buddhistic as Tokiwa has done.[^136] After all he was a severe
 
 [^131]: *The Mean*, ch. 1.
+
 [^132]: *Analects,* 6:17.
+
 [^133]: *Changes,* "Appended Remarks," pt. 1, ch. 5. Cf. Legge, p. 356.
+
 [^134]: See above, Introduction.
+
 [^135]: Hsia, Shang, and Chou.
+
 [^136]: Tokiwa Daijo, *Shina ni okeru bukkyo to jukyo dokyo* (Buddhism in Relation to Confucianism and Taoism in China), 1930. Here Ch'eng's doctrine of calming one's nature is considered to be a result of his understanding, though not experience, of Buddhism, and his doctrine of "there is nothing outside the Way and there is no Way outside of things" (sec. 32) as similar to the Buddhist doctrine that matter and emptiness are identical! (pp. 277, 297)
 
 *[p. 543]* ^pg570
@@ -484,13 +565,21 @@ As to the relation between principle and material force (*ch*'*i*), it is popula
 Fung Yu-lan has asserted that to Ch'eng I, principle is comparable to the "idea" or "form" in ancient Greek philosophy, whereas to Ch'eng Hao, it is "nothing more than the natural tendency or force inherent in any concrete object."[^8] In view of their common ideas of principle, it is difficult to understand this diametric opposition. Carsun Chang is right in taking Fung to task.[^9] As Chang has pointed out, both brothers maintained
 
 [^1]: See secs. 2 and 75; also *Ts'ui-yen* (Pure Words), l:23b-24a, in ECCS.
+
 [^2]: For the application of the theory to Chinese ethics, see above, ch. 30, comment on sec. 1.
+
 [^3]: See above, ch. 25, Introduction; A, 7; B, 1; B, 2, (1).
+
 [^4]: See above, ch. 31, sec. 58.
+
 [^5]: See sec. 36.
+
 [^6]: *ibid.*
+
 [^7]: *ibid.*
+
 [^8]: *History of Chinese Philosophy,* vol. 2, pp. 507-508.
+
 [^9]: *Development of Neo-Confucian Thought,* pp. 192-194.
 
 *[p. 545]* ^pg572
@@ -504,7 +593,9 @@ To both brothers this creative process is *jen*. To Ch'eng Hao, *jen* is a matte
 The two brothers are as widely different in temperament as can be imagined. Ch'eng Hao was warm, always at ease, tolerant, agreeable, understanding, amiable, and never angry for as long as twenty years.
 
 [^10]: For Chang, see above, ch. 30, secs. 2-9, 16, 30, 36, 42, and 43.
+
 [^11]: See above, ch. 31, sec. 11, and ch. 32, sec. 42. See also comment on the latter For comments on the term *jen,* see Appendix.
+
 [^12]: For a discussion on this term, see Appendix.
 
 *[p. 546]* ^pg573
@@ -514,7 +605,9 @@ Ch'eng I, on the other hand, was stern, grave, straight, not hesitating to shout
 Both brothers exerted a tremendous influence on the philosophical and political thinking of their time, having, as they did, prominent official scholars as their followers. Ch'eng I's influence was comparatively greater because he enjoyed a long life. Although he declined high official positions, he openly and freely criticized those in power and in this way was to no small degree responsible for the rise of bitter struggle between his and opposing parties.[^14-p546] His teachings were prohibited most of the time from 1103, five years before his death, to 1155. The antagonism of the rulers against his moralistic lectures was so strong that only four people were courageous enough to attend his funeral.[^15-p546] However, his philosophy contained too many sound ideas to be suppressed forever. By 1155, Chu Hsi was already twenty-five years old. Within a decade, he was already expounding a philosophy that made him Ch'eng I's greatest follower. The Ch'eng-Chu School developed rapidly.
 
 [^13]: *Wai-shu* (Additional Works), 11:5b, 12:3b, 5b, 6b, in ECCS; *I*-*Lo yüan-yüan lu* (Record of the Origin of the School of the Two Ch'engs), *Cheng-i-t'ang ch'üan-shu* (Complete Library of the Hall of Rectifying the Way) ed., 2:15a, 4:15a.
+
 [^14-p546]: Ch'eng I's courtesy name was Cheng-shu. Because he and his brother lived in the I River area in Honan, he was called Master I-ch'uan (I River). In 1056 he and his brother entered the national university where he was so outstanding that a schoolmate treated him as a teacher. At twenty-five (1057) he memorialized the emperor to practice the Confucian kingly way. Two years later he obtained the "presented scholar" degree. He lived and taught in Lo-yang, and repeatedly declined high offices, including a professorship at the directorate of education in 1085. In 1086 he was appointed expositor in waiting, and he lectured in great seriousness on Confucian principles to the emperor. He did this for twenty months and attracted many followers. But his uncompromising attitude, his critical opinions, and his attack on many things created bitter enemies, particularly Su Shih (Su Tung-po, 1036-1101), leader of the Szechuan group. This led to the bitter factional struggle between it and the Lo-yang group led by Ch'eng I. In 1087 he was appointed director of the directorate of education in the western capital but resigned a few months later. When he was supervisor of the directorate in 1092, censors repeatedly petitioned for his impeachment. He finally resigned and returned to Lo-yang. In 1097 his teachings were prohibited, his land was confiscated, and he was banished to Fu-chou in modern Szechuan. He was pardoned three years later and resumed his position at the directorate. By that time, government persecution of factions had become severe. Both he and Su Shih, along with several hundred scholars, were blacklisted. His followers left him. In 1103 his books were destroyed and teachings prohibited. He was pardoned again in 1106, a year before he died. See *Sung shih* (History of the Sung Dynasty, 960-1279), PNP, 427:10a-15b, Yao Ming-ta, *Ch'eng I-ch'uan nien-p'u* (Chronological Biography of Ch'eng I), 1937, and Bruce, *Chu Hsi and His Masters,* pp. 45-47.
+
 [^15-p546]: Yao Ming-ta, *Ch'eng I-ch'uan nien-p'u,* pp. 262, 273-283.
 
 *[p. 547]* ^pg574
@@ -534,9 +627,13 @@ In the school of Confucius, there were three thousand pupils. Yen Tzu alone was 
 Can one become a sage through learning? *Answer*: Yes. What is the way to learn? *Answer:* From the essence of life accumulated in Heaven and Earth, man receives the Five Agents (Water, Fire, Wood, Metal, and Earth) in their highest excellence. His original nature is pure and tranquil. Before it is aroused, the five moral principles of his nature, called humanity, righteousness, propriety, wisdom, and faithfulness, are
 
 [^16-pi]: All the sayings are from ECCS.
+
 [^17-pi]: For this work, see above, ch. 31, n.21.
+
 [^18-pi]: Yen Hui, Confucius' favorite pupil. Confucius once remarked that the pupil loved learning more than anyone else. See *Analects,* 6:2.
+
 [^19]: Chu Hsi said that this was written when Ch'eng I was eighteen, that is, in 1060. See *Chu T*z*u yü*-*lei* (Classified Conversations of Chu Hsi), 1880 ed., 93:9a. Yao Ming-ta, however, in his *Ch'eng I-ch'uan nien-p'u,* p. 16, contends with convincing evidence that the date was 1056.
+
 [^20]: This note is in the text.
 
 *[p. 548]* ^pg575
@@ -568,12 +665,19 @@ What is meant by being transformed \[to be goodness itself\] is to enter into th
 *Someone asks:* A sage is one who is born with knowledge. Now you say that sagehood can be achieved through learning. Is there any basis for this contention? *Answer:* Yes, Mencius said, "Sage-emperors Yao and Shun[^35-pi] \[practiced humanity and righteousness\] because of their nature, and Kings T'ang and Wu<sup>3</sup><sup>6</sup> \[practiced them\] because of their effort to return (to their nature)."[^37] Those who do so by nature are those born with the knowledge (of the good), and those who return to their nature are those who obtain knowledge (of the good) through learning. It is also said, "Confucius was born with such knowledge but Mencius
 
 [^28-pi]: *Changes,* "Appended Remarks," pt. 2, ch. 5. Cf. translation by Legge, *Yi King,* p. 392.
+
 [^29-pi]: *The Mean*, ch. 20.
+
 [^30]: This is probably Ch'eng I's own statement. In *Ch'eng I-ch'uan nien-p'u,* p. 17, this saying is not in quotation marks while actual quotations are.
+
 [^32-pi]: He died at thirty-two.
+
 [^31-pi]: *Mencius,* 7B:25.
+
 [^33-pi]: *Analects,* 6:2.
+
 [^34-pi]: *Analects,* 2:4.
+
 [^35-pi]: Legendary rulers (3rd millennium B.C.).
 36\. Founders of the Shang (1751-1112 B.C.) and Chou (1111-249 B.C.) dynasties, respectively.
 
@@ -588,9 +692,13 @@ obtained it through learning."[^38] Not understanding the true meaning of this, 
 me are quite correct. Soon after I looked at them, they were borrowed from me. I shall have to read them again carefully. Your opinions on the "Western Inscription," however, are incorrect. It is true that Chang Tsai has sometimes gone too far in what he says, notably in his *Cheng-meng* (Correcting Youthful Ignorance).[^40-p550] As a written work, however, the "Western Inscription" extends principle to cover all in order to preserve righteousness (what is correct and proper in specific social relations), thus expounding on something that previous sages has not expressed. In this his contribution is equal to that of Mencius' doctrines on the original goodness of human nature and on nourishing the strong moving power.[^41-p550] (Both of these had also not been expressed by previous sages.)[^42-p550] How can there be any comparison with Mo Tzu (fl. 479-438 B.C.)? The "Western Inscription" makes it clear that principle is one but its manifestations are many, but Mo Tzu's teachings involve two bases without differentiation. (To treat the elders in one's own family with respect and the young with tenderness and then extend that respect and tenderness to include the elders and young in other families shows that principle is one, whereas Mo Tzu's doctrine of universal love without distinction means that there are two bases \[one's own parents as the source of life and also other people's parents\]). The fault of
 
 [^38]: Probably referring to *Mencius,* 2A:2. It is not a quotation from any work. In his translation of the treatise, P. C. Hsü omitted the phrase "It is also said" (*Ethical Realism in Neo-Confucian Thought,* p. xviii).
+
 [^39]: Yang Kuei-shan (1053-1135) was one of the outstanding pupils of the Ch'eng brothers and a prominent Neo-Confucianist. For an account of him and his thought, see Forke, *Geschichte der neueren chinesischen Philosophie,* pp. 104-110; also Huang Tsung-hsi (1610-1695) *et al*., *Sung-Yüan hsüeh-an* (Anthology and Critical Accounts of the Neo-Confucianists of the Sung and Yuan Dynasties, 960-1368), ch. 25. Yang's letter to Ch'eng is found in the *Yang Kuei-shan Hsien-sheng chi* (Collected Works of Master Yang Shih), 1707 ed., 16:6a-b. For the "Western Inscription," see above, ch. 30, A.
+
 [^40-p550]: See above, ch. 30, B.
+
 [^41-p550]: *Mencius*, 6A:2, 2A:2.
+
 [^42-p550]: This and the following sentence in parentheses are Ch'eng's own insertions.
 
 *[p. 551]* ^pg578
@@ -606,9 +714,13 @@ SELECTED SAYINGS[^44-pi]
 To devote oneself to investigate principle to the utmost does not mean that it is necessary to investigate the principle of all things in the world to the utmost nor does it mean that principle can be understood merely by investigating one particular principle. It is necessary to accumulate much and then one will naturally come to understand principle. (2A:22b)\* CH[^47-pi]
 
 [^43-pi]: This is Mencius' criticism of Mo Tzu's doctrine of universal love. See *Mencius,* 3B:9.
+
 [^44-pi]: Unless otherwise indicated, all sayings are from the *I-shu.* See above, ch. 31, nn.21 and 39. Here the letters indicate that the sayings have been taken to be Ch'eng I's in the anthologies represented by the letters.
+
 [^45-pi]: One version has *t'i* (substance) instead of "mind."
+
 [^46-pi]: Ch'eng I said virtually the same thing in *I-shu* 15:4a. For an explanation of the asterisk, see above, ch. 31, n.39.
+
 [^47-pi]: For an explanation of this and other letters, see above, ch. 31, n.39.
 
 *[p. 552]* ^pg579
@@ -636,9 +748,13 @@ To devote oneself to investigate principle to the utmost does not mean that it i
 17\. A thing is an event. If the principles underlying the event are investigated to the utmost, there all principles will be understood. (15:- 1a)
 
 [^48-p552]: *The* M*ean*, ch. 1.
+
 [^49]: It is not clear whether this saying is assigned to Ch'eng I or Ch'eng Hao in Chu Hsi's *Chin-ssu lu* (Reflections on Things at Hand), ch. 4, but Chu Hsi in his *Chu Tzu wen-chi* (Collection of Literary Works by Chu Tzu), CTTC, 64:29a, quotes part of this as Ch'eng I's.
+
 [^50]: *Changes,* "Appended Remarks," pt. 1, ch. 5. Cf. Legge, *Yi King,* p*.* 355.
+
 [^51]: Ch'eng's own note. See above, ch. 31, n.92.
+
 [^52]: Quoting the text of the *Great Learning.*
 
 *[p. 553]* ^pg580
@@ -660,8 +776,11 @@ To devote oneself to investigate principle to the utmost does not mean that it i
 23\. The doctrines of Buddhism are not worthy of matching the doctrines of our Sage. One need only compare them and having observed that they are different, leave Buddhism alone. If one tries to investigate all its theories, it is probably an impossible task. Before one has done that, he will already have been transformed into a Buddhist. But let us take a look at Buddhism from the point of view of facts. In deserting his father and leaving his family, the Buddha severed all human relationships. It was merely for himself that he lived alone in the forest. Such a person should not be allowed in any community. Generally speaking, he did to others what he himself despised. Such is not the mind of the sage, nor is it the mind of a superior man. The Buddhists themselves will not abide by the principles of the relationship between the ruler and minister, between father and son, and between husband and wife, and criticize
 
 [^53]: See above, ch. 31, comment on sec. 19.
+
 [^54-p554]: "Appended Remarks," pt. 2, ch. 1. Cf. trans. by Legge, p. 381.
+
 [^55-p554]: See above, ch. 23, comment on sec. 3.
+
 [^56-p554]: For a more lengthy discussion of the idea, see Chan, "The Neo-Confucian Solution of the Problem of Evil," *Studies Presented to Hu Shih on His Sixty-fifth Birthday,* pp. 787-791.
 
 *[p. 555]* ^pg582
@@ -677,7 +796,9 @@ others for not doing as they do. They leave these human relationships to others 
 27\. Empty and tranquil, and without any sign, and yet all things are luxuriantly present.[^59-pi] The state before there is any response to it is not an earlier one, and the state after there has been response to it is not a later one. It is like a tree one hundred feet high. From the root to the branches and leaves, there is one thread running through all. We should
 
 [^57-pi]: This appears in one version.
+
 [^58-pi]: *Lao Tzu,* ch. 36.
+
 [^59-pi]: Many Japanese historians of Chinese philosophy have asserted that this saying is of Buddhist origin but none has given any direct reference. Yamazaki Ansai (1618-1682), in his essay on the saying (*Zoku Yamazaki Ansai zenshu,* or Supplement to the *Complete Works of Yamazaki Ansai,* pt. 2, pp. 78-86), has listed all quotations of this saying and discussions of it by Neo-Confucianists but did not say a word about its Buddhist origin. The *Daikanwa jiten* (Great Chinese-Japanese Dictionary), the fullest dictionary of its kind so far, gives Ch'eng I as its author and not any Buddhist.
 
 *[p. 556]* ^pg583
@@ -695,10 +816,15 @@ not say that the state described above, which has neither form nor sign, depends
 31\. To investigate things in order to understand principle to the utmost does not mean that it is necessary to investigate all things in the world. One has only to investigate the principle in one thing or one event to the utmost and the principle in other things or events can then be inferred
 
 [^60-p556]: Interpretation according to Chu Hsi, *Chu T*z*u yü*-*lei*, 95:22a.
+
 [^61-p556]: Chu Hsi thought that possibly the recorder of the saying missed some words, but he was not sure. *ibid.,* 95:22b.
+
 [^62-p556]: This is Chu Hsi's interpretation, *ibid.,* 95:22a.
+
 [^63-p556]: *ibid.,* 95:22b. For Chou's dictum, see above, ch. 28, sec. 1.
+
 [^64-p556]: *Analects,* 12:2.
+
 [^65-p556]: Quoting *Changes,* "Appended Remarks," pt. 1, ch. 10. Cf. Legge, *Yi King,*
 
 *[p. 557]* ^pg584
@@ -750,9 +876,13 @@ it is also evolved from material force. The same is true of the origin of man in
 41\. *Question:* "Filial piety and brotherly respect are the root of humanity."[^79-pi] Does that mean that *jen* can be achieved through filial piety and brotherly respect? *Answer*: No. It means that the practice of humanity begins with filial piety and brotherly respect. Filial piety and brotherly respect are items in the practice of humanity. It is all right to say that they are the root of the practice of humanity but not all right to say that they are the root of humanity itself. For humanity is nature,[^80-pi] while filial piety and brotherly respect are its function. There are in our nature only humanity, righteousness, propriety, and wisdom. Where
 
 [^76-pi]: *Mencius*, 6A:6.
+
 [^77-pi]: *ibid.*
+
 [^78-pi]: *Yüan-tao* (Inquiry on the Way), *Han Ch'ang-li ch'üan-chi* (Collected Works of Han Yu), SPPY, 11:1a. See above, ch. 27, sec. 2.
+
 [^79-pi]: *Analects,* 1:2.
+
 [^80-pi]: One edition has "the root" instead of "the nature."
 
 *[p. 560]* ^pg587
@@ -768,6 +898,9 @@ do filial piety and brotherly respect come in?[^81-p560] The controlling factor 
 44\. Someone asked what the first step was in the art of moral cultivation. *Answer:* The first thing is to rectify the mind and make the will sincere. The sincerity of the will depends upon the extension of knowledge and the extension of knowledge depends upon the investigation
 
 [^81-p560]: In the Chao edition, "Where do all these miscellaneous items come in?"
+
 [^82-p560]: See sec. 71.
+
 [^83-p560]: *Chu Tzu yü-lei,* 6:8b-9a.
+
 [^84-p560]: See sec. 22. See also above, ch. 30, sec. 1; ch. 31, comment on secs. 1 and 11; ch. 34, comment on treatise 1; and, ch. 40, Introduction.

@@ -99,8 +99,13 @@ Here Moshe hinted to Israel that every Jewish souls also trembled from the plagu
 **Torah:** [[Torah 50 - Ki Tavo#^28-60|Deuteronomy 28:60]]
 
 [^1]: There it explains how one must not benefit from something when the depth of its purpose is not apparent. With King David, in [[I Samuel 30#^30-1|Shmuel 1, Chapter 30]], he did not want to benefit from the war spoils, for any benefit of the spoils of Amalek was against God’s law. Even though he did not join with their intention, and his own intention was for the sake of Heaven, it says in Mishlei, ([[Proverbs 01#^1-15|1:15]]) “do not go in the way with them,” meaning that even if you do not go with them, still, refrain from giving the appearance that you are going with them. See the entire passage there for a clearer understanding.
+
 [^2]: *Lehagid*, to tell, denotes difficulty, similar to *gid*, or sinew, as opposed to *amira*,” saying the language of softness.
+
 [^3]: Coming from the root, ‘ramei [trickster]’, hence it here refers to Laban, who was the greatest con artist (Rashi ad loc). [Hagahot Peretz]
+
 [^4]: This is hinted at in the phrase *av b’chochma*, a father in wisdom.
+
 [^5]: Truly, the Holy One, blessed be He, is filled with good will to diffuse goodness to Israel and “will not see any iniquity in Jacob” ([[Torah 40 - Balak#^23-21|Numbers 23:21]]). Therefore when accusations come from the stranger, orphan, and widow, they arouse transgression. Yet when Israel separates tithes and gives them to the strangers and orphans and widows, and the accusations cease, then man can say before God to look at him individually, for then God only looks at the good. On this it says of future good ([[Isaiah 11#^11-13|Yesahya 11:13]]), “Efriam will not be jealous of Yehuda and Yehuda will not distress Efriam,” and by itself only good will be aroused concerning them. This is why the heavens are called here *maon*, or dwelling, as it says in the Gemara (*Chagigah* [[Chagigah 12#12b|12b]]), “a dwelling [*maon*] where legions of ministering angels who sing at night and are silent in the day, in honor of Israel.” From here begins the revelation of God’s good for Israel that, as it were, contracts the supernal glory from the song of the angels, in order to make room to include the songs of Israel, and from here is diffused only good. *Giliyon Mei HaShiloach*, by the Isbitser’s grandson, Gershon Henoch Lainer of Radzin.
+
 [^6]: This is derived from the seemingly superfluous phrase, “and overtake you. [Hagahot Peretz]

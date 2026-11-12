@@ -114,61 +114,118 @@ Less than a *log* of oil should not be vowed or pledged, for there is no meal-of
 **15.** When a person says: "I promise to bring wine," he should not bring less than three *lugim*.[^56] "I promise to bring oil," he should not bring less than a *log*.[^57] If he specified a given amount in his vow and forgot how many *lugim* of wine or oil he specified, he should bring 140 *lugim*. For there is no day on which there are more communal offerings sacrificed than on the first day of Sukkot that falls on the Sabbath. On that day, the accompanying offerings included 140 *lugim* of oil and an equal amount of wine as will be explained in *Hilchot Temidim UMusafim*.[^58] ^17-15
 
 [^1]: A range with an opening for one pot [the Rambam's Commentary to the Mishnah (*Menachot* 5:9)].
+
 [^2]: I.e., one of the common ways to bake in the Talmudic period was to heat rafters and stones until they were glowing hot and place dough upon them. Afterwards, the stones and rafters were covered and thus the dough would bake (*ibid.*).
+
 [^3]: A pit covered with mud into which wood was placed and kindled. The dough was placed within and it was covered so that it would bake like an oven (*ibid.*). These are not acceptable, because the person took a vow that he would bring a meal offering cooked in an oven and these devices do not fit that description.
+
 [^4]: See Chapter 13, Halachah 6, with regard to the difference between the two.
+
 [^5]: Because he did not bring the sacrifice he vowed to bring.
+
 [^6]: Pointing to cakes that he prepared to bake.
+
 [^7]: For he specified that the cakes be prepared in one way and they were not.
+
 [^8]: For all the above.
+
 [^9]: Implying that the vow must be fulfilled in all its particulars.
+
 [^10]: If he can take a handful from each one separately, they are acceptable as indicated by the conclusion of Halachah 4.
+
 [^11]: Because he did not fulfill his vow. It is, however, necessary to ask him and have him respond as the Rambam states. Otherwise, we assume that he is not bringing this offering in fulfillment of his vow, but rather as a separate sacrifice. In that instance, although he would not have fulfilled his vow, the sacrifice would be acceptable.
+
 [^12]: Since he offered them as he vowed, the fact that he originally brought them in two vessels is not significant.
+
 [^13]: In that instance, as stated in *Hilchot Pesulei HaMukdashim* 11:29, the law is that if one can take handfuls of each individually, they are acceptable. If not, they are not.
+
 [^14]: See Chapter 12, Halachah 4, for a description of these meal-offerings.
+
 [^15]: Since he used the plural, at least two offerings are required.
+
 [^16]: The *Kessef Mishneh* suggests that the word "types" is a printing error, because even if he brought two of the same type of meal-offering, he fulfilled his obligation. The Radbaz, however, initially explains that the Rambam's wording could be interpreted as being precise. Since the person said two meal-offerings, we can assume that he meant of two different types. Otherwise, he would have just vowed to bring one large meal-offering. Nevertheless, ultimately, the Radbaz rejects this interpretation and states that the Rambam's intent is "even of two types," i.e., he may bring two offerings either of one type or of two types.
+
 [^17]: Here also, since he spoke of "meal-offerings," using the plural, he is required to bring two.
+
 [^18]: For he said "a type," limiting him to only one type.
+
 [^19]: Since he used the plural for both offerings and types, he should bring two offerings and they should be of two different types.
+
 [^20]: One offering from each type, as in the previous clause. Hebrew grammar occasionally allows for a singular term to be used in a plural sense. The *Kessef Mishneh* notes that this matter is debated by *Menachot* [[Menachot 105#105a|105a]] and a ruling is not reached. Hence he questions how the Rambam can require him to bring a second offering: If it is not required, he will be bringing ordinary flour into the Temple Courtyard (which is forbidden). Hence he maintains that the person must make a stipulation when bringing this offering: "If I am obligated to bring it, this is to fulfill my vow. And if I am not obligated, it is a freewill offering."
+
 [^21]: For in this way, he will certainly fulfill his vow.
+
 [^22]: I.e., in contrast to the community at large. For there is no concept of a voluntary communal meal-offering and all the required communal meal-offerings have specific measures.
+
 [^23]: As indicated by the following halachah, it appears to be preferable that he bring sixty in one vessel and the remainder in the other, rather than dividing the sum evenly between the two.
+
 [^24]: Even though oil is always mixed with the flour at a ratio of one *log* to every *isaron* (Chapter 12, Halachah 7), nevertheless, if there is a very large quantity of flour, it will be difficult to get a proper mixture.
+
 [^25]: Chapter 13, Halachah 11.
+
 [^26]: *Menachot* [[Menachot 18#18b|18b]]; 103b.
+
 [^27]: Because there is too large a quantity of flour.
+
 [^28]: As long as the meal and the oil could be mixed together, the fact that they were not mixed together is not significant, because there is nothing inherently lacking in the mixture. If, however, they could not be mixed together, there is an inherent difficulty with the mixture, therefore it is disqualified. Note the parallels to the declaration made with regard to the firsts fruits mentioned in *Bava Batra* [[Bava Batra 82#82a|82a]].
+
 [^29]: I.e., he does not divide them into three equal portions.
+
 [^30]: For an individual meal-offering is never more than 60 *esronim* and if he had promised a lesser amount, bringing more will not disqualify his offering (Radbaz).
+
 [^31]: This is necessary, because as stated in Halachah 3, if a person vowed to bring two *esronim* in two vessels and he brought them in one, the offering is unacceptable. By bringing the full range of vessels from one to sixty, the person will certainly have included the entire number he vowed to bring. Any extra are considered as voluntary offerings.  
     The Radbaz notes that there is a difference of opinion concerning this matter in *Menachot* 13:2 and the opinion the Rambam quotes here is that of Rabbi Yehudah HaNasi. The Sages, however, differ and maintain that it is sufficient to bring one meal offering of 60 *esronim*. The Radbaz questions why the Rambam chooses to follow Rabbi Yehudah HaNasi's view, for it is a minority opinion. Moreover, he notes that in the Rambam's Commentary to the Mishnah, he explicitly states that the halachah does not follow this view. The Radbaz explains that since the Talmud (*Menachot* [[Menachot 106#106a|106a]]) tries to justify other teachings according to Rabbi Yehudah HaNasi's view, we can assume that it is accepted as halachah.
+
 [^32]: Which is unacceptable, because as stated in Chapter 12, Halachah 2, all the meal-offerings are brought from wheat except the meal-offering of a *sotah* and the *omer* offering. Those are obligatory offerings and cannot be vowed by a person.
+
 [^33]: Which is also unacceptable, because a meal-offering may not be less than an *isaron* (Chapter 12, Halachah 5).
+
 [^34]: Such an offering is also unacceptable, for oil and frankincense are absolute requirements (Chapter 12, Halachah 7).
+
 [^35]: The difference between this and the previous clause depends on the precise Hebrew term used. If he said *minchat* ("meal-offering of"), as in the first clause he is not obligated at all, for the grammatical structure of the term is that of an adjective and the emphasis is on the words that follow. If, however, he used the term *minchah* ("meal-offering"), we assume that the fundamental intent of his vow was to bring a meal-offering. Since the specifics he mentioned were unacceptable, we ask him to clarify his intent. The Ra'avad does not accept this distinction, but the Radbaz and the *Kessef Mishneh* explain the Rambam's position.
+
 [^36]: Which is also unacceptable. Although *Menachot*103a debates whether a person could possibly err and think that a meal-offering from lentils is acceptable, from the resolution of that passage, it appears that such an error is plausible.
+
 [^37]: Based on the conclusion of the clause and the explanations in the previous halachah, the Radbaz and the *Kessef Mishneh* maintain that this law applies only when the person said: "a meal-offering (*minchah*) of an *isaron* and a half."
+
 [^38]: For he obviously desired to bring more than one *isaron*.
+
 [^39]: As stated in Chapter 12, Halachah 2, all of the meal-offerings are brought from *solet*, "fine flour," and not *kemach*, "coarse flour." This he is vowing to bring an entity that is never offered.
+
 [^40]: The Ra'avad differs concerning this point and states that in this instance as well, he should be asked to clarify his intent, as mentioned in the previous halachah.
+
 [^41]: See Chapter 9, Halachah 5, which includes the bread as an integral part of the thanksgiving-offering.
+
 [^42]: See Chapter 2 which explains that every sacrifice is offered together with wine, meal, and oil.
+
 [^43]: I.e., as in the previous halachah, he is asked about his intent (*Kessef Mishneh*).
+
 [^44]: We assume that this was intent when making the vow. The Radbaz explains that it is not even necessary to ask him to clarify his intent, since he mentioned the thanksgiving-offering when making his vow, we take for granted that this was what he meant to say.
+
 [^45]: See Chapter 14, Halachah 1; Chapter 16, Halachah 14.
+
 [^46]: See Halachah 14.
+
 [^47]: As mentioned in Chapter 2, Halachah 4, the wine libations are 3, 4, or 6 *log*, depending on the animal offered.
+
 [^48]: For no two offerings will reach a total of five. See also Halachah 14.
+
 [^49]: For any number over six will be able to be broken up into multiples of 3,4, or 5, as stated in the following halachah [see the Rambam's Commentary to the Mishnah (*Menachot* 12:4)].
+
 [^50]: The libations for a sheep are three *lugim* and those for a ram are four. We assume that the person desired to bring them both.
+
 [^51]: Six *lugim*.
+
 [^52]: Which are the libations for an ox.
+
 [^53]: Since libations of three and four *lugim* are brought, we assume that he did not want to make an empty statement. Hence, we ask him to increase the amount so that he will also be able to bring a valid offering. We do not reduce the amount, because there is an unresolved discussion in *Menachot* [[Menachot 104#104a|104a]] if that is acceptable.
+
 [^54]: Based on the ruling in Halachah 9 with regard to a meal-offering of a half an *isaron*, the Radbaz states that if one says: "a wine libation of one *log*," he should be asked to clarify his intent.
+
 [^55]: See Chapter 12, Halachot 5 and 7.
+
 [^56]: See Halachah 12.
+
 [^57]: See the previous halachah.
+
 [^58]: See Chapter 10, Halachot 3, 14, for the details of the number and types of animals sacrificed on that day. The wine and oil brought as accompanying offerings for these sacrifices totaled 140 *lugim*. We assume that a person would not vow or pledge a larger amount. The Radbaz clarifies that this ruling applies to a very wealthy person who can be assumed to have made a generous vow. A person of ordinary means, by contrast, should be required to pay the largest amount he could conceive of having pledged (see *Hilchot Arachin* 2:8-10).

@@ -143,71 +143,131 @@ What is implied? The daughter of a priest married an Israelite or the daughter o
 **19.** [Similar laws apply when] a daughter of an Israelite marries an Israelite first and has a son that she bore to him. If she marries a priest [after her first husband dies], she may partake of *terumah*. If [her second husband, the priest,] dies, but she bore him a son, she may partake [of *terumah*] by virtue of the son [she bore him]. For he enables her to partake of *terumah* as his father did.[^61] ^6-19
 
 [^1]: Because Canaanite servants do not have a separate personal identity, but instead are considered as part of their master's possessions. A Hebrew servant, by contrast, is forbidden to partake of *terumah* as explained in Halachah 5.
+
 [^2]: The *Sifra* states that this applies only to animal fodder. Produce that is fit for human consumption may not be given to an animal.
+
 [^3]: In which instance, his master is no longer obligated to provide him with his sustenance.
+
 [^4]: The term "rebels" has a very specific meaning when used in this context: to deny a husband marital intimacy. In such an instance, her husband has the right to divorce her and is not obligated to pay for her sustenance, as stated in *Hilchot Ishut*, ch. 14. Nevertheless, until he divorces her, she is entitled to partake of *terumah*.
+
 [^5]: *Hilchot Issurei Bi'ah* 20:2 defines this term as follows:
 
     Anyone concerning whom two witnesses testify that he is a priest, the son of so-and-so the priest, and the descendant of so-and-so the priest, extending back until we reach a person whose lineage need not be checked, i.e., a priest who served at the altar.
 
     The restriction of the consumption of *terumah* to such priests is alluded to in the Book of [[Ezra 02#^2-62|Ezra 2:62-63]]): "These sought their genealogical records, but they could not be found, so they were disqualified from the priesthood. [Nechemiah] told them that they should not eat of the most holy offerings [which includes *terumah*] until there would arise a priest [who would inquire of] the *Urim* and *Tumim* [concerning their lineage]."
+
 [^6]: I.e., they are regarded as priests by people at large even though there is no definite proof of their lineage.
+
 [^7]: For only a Torah scholar can be expected to be versed in the knowledge and practice of the laws of ritual purity. The *Sifri* (to [[Torah 38 - Korach#^18-28|Numbers 18:28]] cites a Biblical verse as support for this concept.  
     This is also alluded to by a Biblical narrative. II Chronicles, ch. 30, relates how King Chezekiah affected a renewal of Torah observance among the Jewish people. Among his efforts was to renew the observance of *terumah* and tithes, as it is written (30:4): "He told the people... to give the portions of the priests and the Levites so that they could strengthen themselves in the Torah of God." *Chulin* [[Chullin 130#130b|130b]] interprets this to mean that these gifts should be given only to a priest or Levite who "is strong in his observance of the Torah of God." In the revision of his Commentary to the Mishnah (*Challah* 4:9), the Rambam writes that it is desirable and advisable to follow this restriction, but there is no prohibition against giving *terumah* to an unlearned priest.
+
 [^8]: We are concerned that the impure priest will cause the *terumah* to become ritually impure and then partake of it while it is in that state.
+
 [^9]: The commentaries explain that we do not think that a common person will willingly transgress and eat *terumah* that is impure. Instead, the suspicion is that he will be impure and therefore make the *terumah* impure. Nevertheless, he will not realize what has transpired and will eat the *terumah* that he himself made impure.
+
 [^10]: For it has to be burnt and any priest can perform that act. The Ra'avad differs with this ruling, maintaining that even such *terumah* should not be given to a priest who is unlearned. The Rambam's position can be supported based on the explanation given above that we do not suspect that the unlearned priest will deliberately transgress.
+
 [^11]: If a girl is younger than that, her consecration is not binding, as stated in *Hilchot Ishut* 3:11.
+
 [^12]: Which may be eaten by all the members of a priest's household (*Hilchot Ma'aseh HaKorbonot* 10:5).
+
 [^13]: According to Jewish law, marriage is a two-staged process involving *kiddushin* or *erusin* (consecration) and *nissuin* (living as man and wife). Today, it is customary to perform both stages at the same time. In the Talmudic era, by contrast, a significant amount of time - usually a year - was granted between the two. In this interim period, the woman was consecrated to her husband and relations between her and another man would be considered adulterous. Nevertheless, she lived in her parents' home and did not engage in intimacy with her husband. Nor was he obligated to support her. Our Sages feared that were a woman given *terumah* in this intermediate period, she might give it to her father or brother to eat.
+
 [^14]: Both of these types of women are considered as incapable of marrying according to Scriptural Law. Since a deaf-mute's ability to communicate is so restricted, our Sages placed her in this category. Contemporary Rabbinic experts debate the status of a deaf-mute who was trained to communicate through other means.  
     Were such women to conclude marriages on their own, the marriage would not be binding (*Hilchot Ishut* 4:9). Nevertheless, the father of such a woman has the potential to conclude her marriage before she reaches the age of majority. If he does so, the marriage is binding according to Scriptural Law (*ibid.* 3:11). Even so, our Sages forbade such women from partaking of *terumah* for the reason stated by the Rambam.
+
 [^15]: In contrast to a mentally sound priest, the marriage of a priest who is a deaf-mute is binding only according to Rabbinic decree. According to Scriptural Law, the marriage is of no consequence. Hence, such a priest's "wife" has no right to eat *terumah*
+
 [^16]: If, however, she is the daughter of a priest, she may partake of *terumah* by virtue of her father's privilege until she marries.
+
 [^17]: We have employed a literal translation, though somewhat clumsy in English, because of the exegesis of the verse later in the halachah.
+
 [^18]: *Sefer HaMitzvot* (Negative Commandment 133) and *Sefer HaChinuch* (Mitzvah 280) include this as one of 613 mitzvot of the Torah.
+
 [^19]: *Sefer HaMitzvot* (Negative Commandment 134) and *Sefer HaChinuch* (Mitzvah 281) include this as one of 613 mitzvot of the Torah.
+
 [^20]: Even when a priest is obligated to provide for his worker's sustenance, since the worker possesses an independent financial capacity, he is not considered as the priest's "financial acquisition" (see Halachah 1) and may not partake of *terumah*.
+
 [^21]: Although a Hebrew servant is purchased by his master, he retains an independent financial capacity. Hence, even if he becomes *nirtzah* (see *Hilchot Avadim*, ch. 3), in which instance he must work for his master until the Jubilee year, he remains independent and may not partake of *terumah*.  
     We have followed the simple meaning of the Rambam's words which appear to interpret the verse as referring to an ordinary worker. The *Kessef Mishneh* notes that in *Yevamot* [[Yevamot 70#70a|70a]] and other sources, our Sages interpret the verse as referring specifically to a Hebrew servant. Why then, he asks, does the Rambam single out a Hebrew servant? He explains that the Rambam is implying that there is no difference in this regard between a servant sold by the court and one who sells himself into slavery.
+
 [^22]: The Radbaz notes that when a priest who is ritually impure partakes of *terumah* that is ritually impure, he is not liable for death. He asks: Why then is a non-priest liable for partaking of such *terumah*? He explains that for a priest who is holy by nature, impure *terumah* is considered defiled and he is not liable for partaking of it. For a non-priest, however, impure *terumah* is also considered holy and he is liable for partaking of it.
+
 [^23]: I.e., the court must administer lashes if witnesses observed the transgression and administered a warning. And if they do administer lashes, the sinner's transgression is expiated and he does not receive punishment by the hand of heaven.
+
 [^24]: This is a general principle applying in many different contexts. See *Hilchot Na'arah Betulah* 1:11; *Hilchot Geneivah* 4:9; *Hilchot Sanhedrin* 16:12. The Radbaz notes that generally, whenever there is a financial penalty and the obligation for lashes, the person is given the financial penalty and freed of lashes. In this instance, the opposite is true. He is given lashes and freed of the financial penalty. The Radbaz explains that in this instance, the person was originally liable for death at the hand of heaven. Hence, it is inappropriate that the transgression be absolved through a mere financial payment.
+
 [^25]: One fifth of the new total; one fourth of the original amount.
+
 [^26]: This charge is considered as one of 613 mitzvot of the Torah by *Sefer HaMitzvot* (Negative Commandment 137) and *Sefer HaChinuch* (Mitzvah 283) .
+
 [^27]: As explained in *Hilchot Issurei Bi'ah* 18:1, the halachic definition of the term *zonah* is: "A Jewish woman who engaged in relations with a man she was forbidden to marry, violating a prohibition that is universally applicable, or a woman who engaged in relations with a *challal*."
+
 [^28]: The definition of the term *chalalah* is: "[A woman] born from [relations] forbidden to the priesthood. Similarly, any woman who is forbidden to the priesthood who engaged in relations with a priest becomes a *challalah*" (*ibid.* 19:1).
+
 [^29]: The Radbaz emphasizes that although she is prohibited to partake of *terumah*, she is not liable for death at God's hands for willfully doing so. Nor is she required to pay an additional fifth if she does so inadvertently.
+
 [^30]: None of the mitzvot and prohibitions associated with the priesthood apply to him. The Radbaz emphasizes that a *challal* is not entirely comparable to a non-priest, for a non-priest is liable for death at God's hand and a *challal is not subject to such a punishment.*
+
 [^31]: I.e., in contrast to *terumah* as stated in the following halachah.
+
 [^32]: From that marriage.
+
 [^33]: See *Yevamot* [[Yevamot 87#87a|87a]].
+
 [^34]: Hence, if she willfully partakes of these foods even after being widowed or divorced, she is a transgressor and should be punished by lashes. See *Hilchot Sanhedrin* 19:4.
+
 [^35]: As the Rambam explains in Halachah 12, as long as an Israelite woman who was married to a priest has a descendant from the priestly seed, she is permitted to continue partaking of *terumah* even though she is divorced or widowed. This halachah explains that there is an exception to that rule. If such a woman becomes a *zonah*, she can no longer partake of *terumah*.  
     The Radbaz maintains that such a woman also is not liable for death at the hand of God if she partakes of *terumah* willfully, nor an additional fifth if she does so inadvertantly.
+
 [^36]: Whom we suspect engaged in relations, either willingly or unwillingly, with her captors and thus became a *zonah*. See the latter portion of *Hilchot Issurei Bi'ah*, ch. 18.
+
 [^37]: See *Hilchot Issurei Bi'ah* 18:21 which explains that if a woman says "I was taken captive, but I was not defiled" before witnesses testify to her being taken captive, her word is accepted.
+
 [^38]: See *ibid.*:17 which states that in this instance, the testimony of one witness is acceptable. Moreover, the witness need not fit all the criteria that are usually required for witnesses in court.
+
 [^39]: Even though he is a priest.
+
 [^40]: See *ibid.*:1.
+
 [^41]: Provided she does not marry an Israelite as stated in Halachah 17.
+
 [^42]: A child whose genital area is covered by a mass of flesh and thus his gender cannot be determined.
+
 [^43]: A person with both male and female sexual organs.
+
 [^44]: I.e., her grandchildren or great-grandchildren who are descendants from a priest are alive even though her children themselves have died.
+
 [^45]: I.e., the prooftext does not say, "She has no children" (Radbaz).
+
 [^46]: Marriage between the two would be either adulterous or incestuous.
+
 [^47]: A person of blemished lineage coming from either an adulterous or incestuous relationship.
+
 [^48]: Thus the offspring descendant that initially either enabled or disqualified a woman from partaking of *terumah* is no longer alive. Nevertheless, since there is a descendant of the relationship alive - even though the descendant is of blemished lineage - the woman's status remains the same as the Rambam concludes in the following halachah.
+
 [^49]: Our translation follows the version found in authentic manuscripts of the *Mishneh Torah*. The version found in the standard published text translates as "even if he is not Jewish" which is obviously incorrect as indicated by Halachah 16. See also Radbaz.
+
 [^50]: Obviously, as long as her husband, the priest, is alive, she may partake of *terumah* regardless. The entire issue of the status of her descendants arises only when her husband has died.
+
 [^51]: If, however, she remarries a priest she may partake of *terumah*, as stated in Halachah 18.
+
 [^52]: Who is the daughter of an Israelite.
+
 [^53]: In this instance as well, obviously, as long as her husband, the Israelite, is alive, she is disqualified regardless. The entire issue of the status of her descendants arises only when her husband has died.
+
 [^54]: See *Hilchot Issurei Bi'ah* 12:13.
+
 [^55]: For it is as if she has no offspring from her marriage to the priest.
+
 [^56]: As stated in *Hilchot Yibbum ViChalitzah* 1:4 and *Hilchot Avadim* 9:3, among the implications of this concept is that we pay no attention to the parental lineage of a servant's father. Instead, it is as if he was conceived by his mother alone. There are other implications of this statement, as indicated by *Hilchot Ishut* 15:6, *et al*.
+
 [^57]: Who is a priest.
+
 [^58]: By virtue of her marriage to the priest.
+
 [^59]: By virtue of her son.
+
 [^60]: As stated in Halachot 7-9.
+
 [^61]: Similarly, if her son conceived by the priest fathers children, she may continue to eat by virtue of them, even if her son dies. If, however, the son conceived by the priest dies childless (or he and his descendants die), she may no longer partake of *terumah*.

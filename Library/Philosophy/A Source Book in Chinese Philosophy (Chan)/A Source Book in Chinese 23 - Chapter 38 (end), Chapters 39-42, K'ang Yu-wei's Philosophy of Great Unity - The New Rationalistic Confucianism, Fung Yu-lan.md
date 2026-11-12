@@ -21,9 +21,13 @@ What could this be if it is not mere opinion? Furthermore, if all principles are
 *Answer*: By one thread running through the doctrines is not meant to run one certain thing through them. In understanding moral principle, efforts may differ in studying things on the lower level or in penetrating the higher level. In learning, people's objectives may differ in knowing the traces of moral principles or in discriminating the principles themselves. To say that there is a thread running through my doctrines means that the doctrines to be understood by penetrating the higher level are the same as those to be understood by studying the lower level. . . . Mencius said, "Study extensively and discuss thoroughly. This is in order to go back and discuss the most restrained."[^57] By being restrained is meant the most correct. He further said, "Moral principles which, when held, are restrained, while their application is extensive, are good principles . . . The way the superior man holds these principles is to cultivate his personal life and peace will thereby prevail throughout the world."[^58] To restrain means to cultivate one's person. When the Six Classics, the books of Confucius and Mencius, talk about restraining action, they aim at nothing more than the cultivation of one's personal life, and when they talk about restraining knowledge, they aim at nothing more than extending the intelligence of the mind to the utmost. They have never designated a One in a vacuum and tell people to understand and seek it. If one extends his intelligence to the
 
 [^54]: *Analects,* 4:15, 15:3.
+
 [^55]: Confucius' pupil, 505-C.436 B.C. The chapter referred to is *Analects,* 4:15.
+
 [^56]: *Lun-yü chi-chu* (Collected Commentaries on the *Analects*), ch. 2, commenting on *Analects,* 4:15.
+
 [^57]: *Mencius,* 4B:15.
+
 [^58]: *ibid.,* 7B:32.
 
 *[p. 722]* ^pg749
@@ -121,7 +125,9 @@ Confucius was the founder of a religion. He was a sagely king with spiritual int
 On what basis did he become founder of a religion and a sagely king with spiritual intelligence? *Answer*: On the Six Classics.[^11] They are the works of Confucius. This was the unanimous opinion before the Han dynasty (206 B.C.-A.D. 220). Only when the student knows that the Six Classics are the works of Confucius does he understand why Confucius was a great sage, was the founder of a religion, encompassed ten thousand generations, and has been venerated as supreme. Only when a student knows that Confucius was founder of a religion and that the Six Classics are his works does he know Confucius' achievements in wiping out the Age of Disorder and bringing about the Age of Great Peace, and that everyone with blood and vital force is daily benefited by his great achievements and great virtue and should never forget it. (*ibid.,* 10:1a-b)
 
 [^9]: Confucius' native state.
+
 [^10]: For a description of this system, see above, ch. 3, no. 81. There is no evidence that the system was ever practiced, though many Confucianists and Neo-Confucianists insisted that it was the practice in high antiquity and urged its revival.
+
 [^11]: Namely, the *Books of History, Odes, Changes, Rites, Music* (now lost) and the *Spring and Autumn Annals.* Since the Sung dynasty (960-1279) the *Book of Music* has been replaced by the *Chou-li* (Rites of Chou).
 
 *[p. 729]* ^pg756
@@ -155,6 +161,7 @@ The love of those whose consciousness is small is also small, and the humanity o
 Therefore all living creatures in the world only aim at seeking happiness and avoiding suffering. They follow no other course. There are
 
 [^15]: *Book of Rites,* "Confucius at Home at Ease." Cf. Legge, trans., *Li Ki,* vol. 1, p. 282.
+
 [^16]: The word *wei* here does not mean only but is interchangeable with *wei* (to become).
 
 *[p. 731]* ^pg758
@@ -226,7 +233,9 @@ The mind that cannot bear to see the suffering of others is a humane mind. The g
 Confucius instituted the scheme of Three Ages. In the Age of Disorder, humanity cannot be extended far and therefore people are merely affectionate to their parents. In the Age of Rising Peace, humanity is extended to one's kind and therefore people are humane to all people. In the Age of Great Peace, all creatures form a unity and therefore
 
 [^18]: This refers to *Mencius,* 2A:6, on which K'ang's present remarks are a commentary.
+
 [^19]: This is the definition given by Cheng Hsüan (127-200) in his commentary on *The Mean*, ch. 20.
+
 [^20]: *Chuang Tzu,* ch. 24, NHCC, 8:21b. Cf. Giles, trans., *Chuang Tzu,* 1961 ed.,
 
 *[p. 735]* ^pg762
@@ -244,7 +253,9 @@ The word *jen* consists of one part meaning man and another part meaning many. I
 Fung Yu-lan thinks that K'ang's use of the concept of all-pervasive ether and electricity is no more than the Neo-Confucianist doctrine that all things form one body supplemented with theories of physics without his understanding them.[^23] But he overlooked at least three new elements in the picture, namely, that forming one body is a process of some energy, that it is a result of mutual attraction, and that it is a natural phenomenon. The one drawback
 
 [^21]: This refers to *Mencius,* 7A:45.
+
 [^22]: For discussions on *jen,* see above, ch. 30, sec. 1; ch. 31, secs. 1 and 11; ch 32, sec. 42; ch. 34, treatise no. 1.
+
 [^23]: Fung, *History of Chinese Philosophy,* vol. 2, p. 686.
 
 *[p. 736]* ^pg763
@@ -268,7 +279,9 @@ T'an's philosophy is presented and expounded in his *Jen-hsüeh* (Philosophy of 
 As an elaborator and modifier, T'an was neither thorough nor profound. His book is unsystematic and spotty and has been described as a confused dream. His ideas of humanity as universal love, as production and reproduction, as ether and electricity, and as power of attraction are no more than repetition of K'ang. However, he did refine them to some
 
 [^1-p737]: He was from Hunan. His courtesy name was Fu-sheng. After the Sino-Japanese war of 1895, he promoted new learning in Hunan. Attracted by the Society for National Strength and New Learning founded by K'ang Yu-wei in Peking, he went there to see him. K'ang had left for his native Kwangtung, but T'an met the secretary of the society, Liang Ch'i-ch'ao. In 1896 he was put on the waiting list to become a prefect, spending the year at Nanking where he studied Buddhism. In the next year he and Liang promoted modern education in Hunan. When the reform of 1898 was started by K'ang in Peking, they were called there to help. T'an was appointed one of four secretaries in the Grand Council to supervise the reforms. He was sent to persuade Yuan Shih-k'ai (1858-1916), commander of an army guarding the capital, to help the reformers and eliminate the opposition. Yuan promised him but betrayed the reformers. As a result T'an was arrested and executed. For greater details see Hummel, ed., *Eminent Chinese,* pp. 702-705.
+
 [^2]: Liang Ch'i-ch'ao, *Yin-ping-shih wen-chi* (Collection of Literary Works of Yin-ping Study), 1st collection, 1936, 3:51a.
+
 [^3]: On the question of K'ang's influence of Tan, see Chan, "K'ang Yu-wei and the Confucian Doctrine of Humanity (*Jen*)," in Lo, Jung-pang, ed., *K'ang Yu-wei.*
 
 *[p. 738]* ^pg765
@@ -286,6 +299,7 @@ SELECTIONS
 Throughout the realms of elements of existence (dharmas),[^5] empty space, and sentient beings, there is something supremely refined and subtle, which makes everything adhere, penetrates everything, and connects everything so that all is permeated by it. The eye cannot see its color, the ear cannot hear its sound, and the mouth and nose cannot perceive its flavor and fragrance. There is no name for it but we shall call it ether. As manifested in function, Confucius referred to it as humanity (*jen*), origination, and nature. Mo Tzu (fl. 479-438 B.C.) referred to it as universal love. The Buddha referred to it as ocean of ultimate nature (all-embracing reality) and compassion, Jesus referred to it as the soul and as loving others as oneself and regarding one's enemies as friends, and scientists refer to it as the power of love and power of attraction. They all refer to this thing. The realms of elements of existence, empty space, and sentient beings all issue from it.
 
 [^4]: For comments on *jen,* see above, ch. 30, sec. 1; ch. 31, secs. 1 and 11; ch. 32, sec. 42; and ch. 34, sec. 1.
+
 [^5]: For the translation of this term, see Appendix, comment on *Fa.*
 
 *[p. 739]* ^pg766
@@ -331,6 +345,7 @@ What is seen by our eye or heard by our ear is not the real object itself. The e
 When we view things in the opposite direction from those that are gone, we have what is called daily renovation. Confucius said, "The symbolism of the *ko* (change) hexagram means to cast away the old and the *ting* (caldron, symbolizing reform) hexagram means to take on the new."[^8] He also said, "Its (the Way's) virtue is abundant because it renovates things every day."[^9-p741] Good reaches its limit when it is daily renewed, and evil also reaches its end when it does not daily renew. If heaven does not renew itself, how can it produce things? If the earth does not renew itself, how can it revolve? If the sun and moon do not renew themselves, how can they be bright? And if the four seasons do not renew themselves, how can there be the cold and warm seasons?. . .
 
 [^8]: *Changes,* "Random Remarks on the Hexagrams." Cf. Legge, trans., *Yi King,* p. 443. *Ko* and *ting* are the 49th and 50th hexagrams in the *Book of Changes.*
+
 [^9-p741]: *ibid.,* "Appended Remarks," pt. 1, ch. 5. Cf. Legge, *ibid.,* p. 356.
 
 *[p. 742]* ^pg769
@@ -407,6 +422,7 @@ In psychology, act and content are usually distinguished as two different aspect
 On the basis of the ideas set forth above, we must first of all admit that "mind" or "consciousness" is merely an act of continuous and progressively advanced synthesis. Progress from psychological activities on the low level (such as sensing a shadow or form) to those on the high level (such as thought and judgment), form all but continuous stages in this synthesis. Synthesis can advance continuously to the degree of changing its nature. In other words, synthesis can advance from one
 
 [^2-p747]: These and the following parentheses are Chang's own.
+
 [^3-p747]: Ch'eng I (Ch'eng I-ch'uan, 1033-1107), preface to the *I chuan* (Commentary on the *Book of Changes*), in ECCS.
 
 *[p. 748]* ^pg775
@@ -458,10 +474,15 @@ The term *li*-*hsüeh*, literally "school of principle," is the usual name for t
 The first concept, that of principle, is derived from the Ch'eng-Chu proposition that "As there are things, there must be their specific principles."[^6] In order to be, a thing must follow the principle by which it is what it is.
 
 [^1-p751]: He is from Honan. After graduating from Peking University in 1919, he went to Columbia University and obtained a Ph.D. in 1923. Returning to China, he was a professor in various universities and from 1928 on was professor and dean of Tsing-hua University in Peking. In 1933, he lectured in England. During World War II, he was dean at the Southwest Associated University. He has been visiting professor at the University of Pennsylvania and University of Hawaii and has an LL.D. from Princeton. He is now professor at Peking University.
+
 [^2-p751]: See Bibliography.
+
 [^3-p751]: See also his *Spirit of Chinese Philosophy,* p. 204.
+
 [^4-p751]: *ibid.,* p. 205. For comments on the translation of the terms *li* and *ch*'*i* see Appendix.
+
 [^5-p751]: *ibid.,* p. 205; Fung, *Short History of Chinese Philosophy,* p. 335.
+
 [^6]: *Hsin li*-*hsüeh*, p. 53; *Spirit of Chinese Philosophy,* p. 205.
 
 *[p. 752]* ^pg779
@@ -479,15 +500,25 @@ The fourth concept is that of the Great Whole, Tao, or Heaven,[^15-p752] in whic
 The Great Whole is the goal of life which is to be fulfilled through the investigation of things, the fulfillment of one's nature, and serving Heaven. When this is done, one will reach the highest sphere of life, that of "forming one body with all things," which is the sphere of "great *jen* (humanity)."
 
 [^7]: *Hsin li-hsüeh,* p. 43.
+
 [^8-p752]: *ibid.,* pp. 10, 27-28.
+
 [^9-p752]: *ibid.,* pp. 38, 42, 47, 53-55, 61-62; *Spirit of Chinese Philosophy,* pp. 205-207.
+
 [^10-p752]: *Hsin li-hsüeh,* pp. 63-68.
+
 [^11-p752]: *Spirit of Chinese Philosophy,* pp. 207-209.
+
 [^13]: A term originating from the G*reat Learning,* ch. 2.
+
 [^14]: *Hsin li-hsüeh,* pp. 97, 99, 100, 109-121; *Spirit of Chinese Philosophy,* pp. 209- 211.
+
 [^15-p752]: *Hsin li-hsüeh,* pp. 36-38.
+
 [^16-p752]: *Spirit of Chinese Philosophy,* p. 211.
+
 [^17]: *Hsin li-hsüeh,* p. 40; *Spirit of Chinese Philosophy,* p. 212.
+
 [^18-p752]: *ibid.,* p. 213.
 
 *[p. 753]* ^pg780
@@ -513,8 +544,11 @@ These questions call for answers. The more vital question, however, is whether F
 It is difficult to appraise utterances of this sort. Fung's attraction to Marxism is by no means an unlikely possibility. After all, as early as 1939, he wrote his *Hsin shih-lun* from the point of view of materialistic interpretation of history. Later he said that the Taoist idea of returning to the root or reversion and the whole concept of daily renewal are dialectic. In 1952, however, he maintained that the difference between the new philosophy and the old philosophy in China is that the former is close to the people. The old philosophy should be criticized, he added, but what is correct in it should be adopted.[^24] In 1957, he argued that Confucius was not a materialist but an idealist who brought facts into harmony with abstract concepts, as when he said, "Let the ruler \[fact\] *be* a ruler \[concept\].[^25] To defend both idealism and abstract concepts when these were under strong attack seems to indicate that much of traditional Chinese philosophy in general and his own philosophy in par-
 
 [^22-p754]: See his "I discovered Marxism-Leninism," *People's China,* 1, 1950, no. 6, p. 11.
+
 [^23-p754]: "*Hsin li-hsüeh ti tzu-wo chien-t'ao* (Self-appraisal about the *New Rational Philosophy*)," *Kuang-min jih-pao* (Bright Light Daily), Oct. 8, 1950; reprinted in *Hsin-hua yüeh-pao* (New China Monthly), 3, 1950, no. 1, pp. 193-197.
+
 [^24]: "Philosophy in New China According to Fung Yu-lan," *East and West,* July, 1952, pp. 105-107. For a digest of the article, see *Far East Digest,* no. 66, 1952, pp. 12-13.
+
 [^25]: Fung, "Problems in the Study of Confucius," *People's China,* 1957, no. 1, pp. 21-22, 27-31. The quotation is from *Analects,* 12:11.
 
 *[p. 755]* ^pg782
@@ -608,7 +642,9 @@ All things (meaning both things and events) go through the four stages of format
 The *Lao Tzu* and the "Appended Remarks" of the *Book of Changes* have a common idea, that is, that when things reach their limit, they return to their origin.[^38]. . . . According to the law of circular movement described above, things in the universe come into existence and go out of
 
 [^36]: Fung's own note.
+
 [^37]: See above, ch. 4, Chu Hsi's commentary on sec. 5.
+
 [^38]: *Lao Tzu,* chs. 16, 40, and 78; *Changes,* commentary on hexagram no. 11, *t'ai* (successfulness). See Legge, trans., *Yi King,* p. 81.
 
 *[p. 760]* ^pg787
@@ -626,4 +662,5 @@ Principle is the moral nature of things. From one point of view, if the moral na
 If a thing can follow its principle perfectly, it can be said to have "investigated principle to the utmost." To get to the utmost of the principle which it follows means to develop its own nature fully. Therefore investigating principle to the utmost is the same as fully developing one's nature. According to the idea of destiny set forth in this chapter, investigating principle to the utmost and full development of one's nature are the same as getting to the point of fulfilling one's destiny.[^39] I-ch'uan (Ch'eng I) said, "The investigation of principle to the utmost, the full development of one's nature, and the fulfillment of destiny are only one thing. As principle is investigated to the utmost, one's nature is fully developed, and as soon as one's nature is fully developed, destiny is fulfilled."[^40] We also say the same. We further believe that this does not apply only to man but to things also. (pp. 134-136)
 
 [^39]: These three points are derived from *Changes,* "Remarks on Certain Trigrams," ch. 1, and became common topics in Neo-Confucianism. Cf. Legge, *Yi King,* p. 422.
+
 [^40]: See above, ch. 32, sec. 49.

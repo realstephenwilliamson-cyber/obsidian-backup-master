@@ -56,31 +56,57 @@ Whether there are more doves in the unspecified group than the number of burnt-o
 **11.** If he offered half on the upper portion and half on the lower portion,[^25] only the group that was undefined that was offered half on the upper portion and half on the lower portion is acceptable.[^26] It is divided between the owners[^27] and [the portion allotted to] each one is considered as valid for them, for the priest does not know which groups were specified [as being sin-offerings] and which one was left undefined. The two specified groups are not acceptable, because it is not known which one was offered on the upper portion of the altar and which one, on the lower portion and it is possible that the burnt-offerings were offered on the lower portion and the sin-offerings on the upper portion. ^8-11
 
 [^1]: As mentioned in the previous chapter and notes, a *zav,* a *zavah*, and a woman who gave birth are required to bring two doves as offerings, one as a sin-offering and one as a burnt-offering. The designation of the doves for these offerings is made either by the owner at the time of purchase or - and this is the most common instance - by the priest when he offers them. If the person bringing the doves did not designate them, the doves are referred to as a *chovah*, which we have translated as "the unspecified group."
+
 [^2]: A dove designated as a sin-offering may not be offered as a burnt-offering, nor may one designated as a burnt-offering be offered as a sin-offering, as explained in Chapter 7, Halachot 5-8. Since the identity of the dove is not known, some of the offerings will be unacceptable. Hence none are offered and instead, they are consigned to die.
+
 [^3]: The rationale is that half of the doves in the unspecified group are sin-offerings. Hence even if another dove that was designated as a sin-offering becomes intermingled with a group of four unspecified doves, there are definitely two doves that can be selected to be offered as sin-offerings (either two are from the unspecified group or one is from the unspecified group and one is the sin-offering that became intermingled).  
     A third sin-offering may not be brought because it is possible that the third dove is from the unspecified group and it should be designated as a burnt-offering.
+
 [^4]: Either the dove designated as the sin-offering is among the three. Or the three are from the unspecified group and two are burnt-offerings and one is a sin-offering.
+
 [^5]: For example, if five sin-offerings become intermingled with an unspecified group of ten, there are five acceptable sin-offerings in the intermingled group of fifteen.
+
 [^6]: The expression "It appears to me" indicates a conclusion the Rambam reached through the process of deduction without any clearcut prior Rabbinic source. It appears that the Rambam is saying that all of the doves, even those which are disqualified, should be offered on the lower half of the altar. The Ra'avad takes issue with the Rambam, asking how is it possible for him to suggest that unacceptable doves should be offered as sacrifices. (If, he states, the Rambam's intent was that all of the sin-offerings should be offered on the bottom half of the altar, that is obvious and does not need the introduction "It appears to me.")  
     The *Kessef Mishneh* states that with the expression "It appears to me," the Rambam is introducing a new idea. The previous halachah is speaking about an instance where the priest offered only half the doves in the unspecified group on the lower half of the altar. If, however, he offers more than half of the doves (half of the unspecified group and the number of doves designated as sin-offerings that became intermingled with them) on the lower half of the altar, not only is half the unspecified group acceptable, the sin-offerings that became mixed with the unspecified group are also acceptable. The priest is allowed to offer the majority of the unspecified group on the lower half of the altar because the other doves were never specified as burnt-offerings. Although they would have to be offered as burnt-offerings (and hence, are disqualified), since they were never specified as such, they may be offered on the lower half of the altar. Rav Yosef Corcus adds that according to the Rambam, the intent is the sacrifices are acceptable. It is just that the owners can fulfill their obligation only for half of them.
+
 [^7]: In addition to burnt-offerings from the pairs mentioned above, this could also refer to doves donated for freewill offerings which are all burnt offerings [the Rambam's Commentary to the Mishnah (*Kinnim* 1:3)].
+
 [^8]: I.e., the same principles applied in Halachot 2-3 with regard to a sin-offering are applied here with regard to a burnt-offering.
+
 [^9]: Here the problem is that perhaps unknowingly, the priest will be offering all the doves from one unspecified group as sin-offerings and all of the others, as burnt-offerings, instead of offering them, half and half, as required.
+
 [^10]: The other half are unacceptable, because they were sin-offerings and they were offered as burnt-offerings.
+
 [^11]: The other half are unacceptable, because they were burnt-offerings and they were offered as sin-offerings.
+
 [^12]: As explained in note 8.
+
 [^13]: In the previous halachah.
+
 [^14]: I.e., he consulted with the women and asked them what he should do [the Rambam's Commentary to the Mishnah (*Kinim* 1:4)]. Others interpret this as meaning that he consulted the court.
+
 [^15]: For example, Leah brought six doves and Rachel, four. If the priest offered five on the upper portion of the altar and five on the lower portion, it is possible that three are from Leah's group and she intended for them to be sin-offerings not burnt-offerings. Hence only two of the doves offered on the upper portion are acceptable. The same applies with regard to those offered on the lower portion (see the gloss of Rav Yosef Corcus).
+
 [^16]: For the reason explained in the next halachah.
+
 [^17]: Because the distinction of the sacrifices as burnt-offerings and sin-offerings was left to the priest to determine.
+
 [^18]: I.e., the person who brought the larger group.
+
 [^19]: They are all acceptable, because when offering them, he is determining which is a sin-offering and which, a burnt-offering.
+
 [^20]: Chapter 5, Halachah 11.
+
 [^21]: In his Commentary to the Mishnah (*Kinnim* 3:2), the Rambam states that this is speaking about an instance where the groups were not intermingled. The identity of the groups was left for the priest to determine. After doing so, he forgot how he had determined the identity of the groups and offered them in the manner described. Afterwards, he remembered they were of different types and inquired what was the outcome of his deeds. If, however, the groups became intermingled at the outset, they should all be consigned to death, as stated in Halachah 1 (see *Kessef Mishneh*).
+
 [^22]: I.e., the groups contained an equal number of sin-offerings and burnt-offerings. Thus if they are all offered as one type, half will be unacceptable.
+
 [^23]: This too is speaking about an instance where the groups are not intermingled, but rather three groups were brought to a priest to define their status and to offer them. Afterwards, he forgot and offered them without being conscious of their different status [the Rambam's Commentary to the Mishnah (*op. cit.*:3)].
+
 [^24]: This is a combination of the previous halachah and Halachot 2 and 4.
+
 [^25]: This refers to a situation similar to that described in note 23, except that here, he offered one group on the upper portion of the altar, one group on the lower portion, and one group, half and half.
+
 [^26]: For it was offered as required, half on the upper portion of the altar and half, on the lower portion.
+
 [^27]: Each of the people who brought sacrifices are credited with an equal share of the sacrifices offered. Thus each one is considered to have brought half their sacrifices and must bring the other half.

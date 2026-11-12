@@ -58,38 +58,71 @@ If one tells a gentile child[^30] to sow [such a mixture] for him in the Diaspor
 **14.** Although it is permitted to sow vegetables at the side of a vineyard in the Diaspora, the vegetable that is sown there is forbidden to be eaten, even in the Diaspora.[^32] [This applies] provided one sees the owner harvest it and sell it. If, however, one is in doubt whether [the produce comes from there], it is permitted,[^33] as we explained in *Hilchot Ma'achalot Assurot*.[^34] ^8-14
 
 [^1]: And lowered the branches and the clusters into the trench.
+
 [^2]: Thus the laws governing an *aris* are more severe than those governing a vineyard. For in a vineyard, it is not necessary to separate more than six handbreadths, because one row is not considered as a vineyard (Chapter 7, Halachah 1).
+
 [^3]: Generally, a fence creates a distinction and it is not necessary to make a separation on its outside (Chapter 7, Halachah 14). In this instance, however, since the vines are draped over the fence itself, it is considered as part of the *aris* and a separation is required (*Kessef Mishneh*).  
     The Ra'avad differs and maintains that a fence always creates a distinction and there is no need to separate on its outer side. The source for the Rambam's ruling is *Kilayim* 6:1. Significantly, in his Commentary to the Mishnah, the Rambam follows the Ra'avad's approach and maintains that one measures only on the inside of the fence. There he explains that the School of Hillel, whose view is accepted as halachah, maintains that one measures four cubits from the fence. Thus the other crops need only be separated three cubits from the base of the vine.  
     Rav Kappach notes that in a manuscript copy of the Rambam's Commentary to the Mishnah, Rav Avraham, the Rambam's son, corrected his father's text, based on the ruling here. The Radbaz and the *Kessef Mishneh* note that the Rambam's change of mind is dependent on his understanding of the treatment of the mishnah in the Jerusalem Talmud.
+
 [^4]: The Radbaz mentions that the fence does not have to be destroyed entirely. As long as its height is reduced below ten handbreadths, the laws of an *aris* no longer apply.
+
 [^5]: As stated in Chapter 7, Halachah 1.
+
 [^6]: The Radbaz mentions that the fence does not have to be destroyed entirely. As long as its height is reduced below ten handbreadths, the laws of an *aris* no longer apply.
+
 [^7]: There were two rows of vines separated by a wall over which they were both draped. Thus the wall causes them to be considered as a single entity. The Ra'avad offers a different interpretation of this situation.
+
 [^8]: As long as there are slightly more than eight cubits between the two rows, they are considered as separate entities and not as a single vineyard, as stated in Chapter 7, Halachah 2. As the Mishnah states (*Kilayim* 6:6), this is the only instance where an extra amount beyond whole numbers is required.
+
 [^9]: Chapter 6, Halachah 12.
+
 [^10]: I.e., it was destroyed entirely or partially.
+
 [^11]: Either partially or to a height of ten handbreadths.
+
 [^12]: I.e., at least five vines.
+
 [^13]: This follows the Rambam's approach (explained in Halachah 3), that a fence over which vines are draped does not act as a separation for them even if they are located outside it. The Ra'avad differs in his gloss to that halachah and differs in this instance as well. [Significantly, in his Commentary to the Mishnah (*Ediot* 2:4), the Rambam resembles the Ra'avad's interpretation here.]
+
 [^14]: The Jerusalem Talmud (*Kilayim* 6:1) interprets this as being two cubits: one for the reaper and one for his basket.
+
 [^15]: He must, however, separate six handbreadths [the Rambam's Commentary to the Mishnah (*Kilayim* 6:2)].
+
 [^16]: Since the space between the two fences is very small, the entire area is considered as a single unit.
+
 [^17]: I.e., a trellis ten handbreadths high.
+
 [^18]: I.e., they extend low enough that he can reach them without standing on any support.
+
 [^19]: As would be the law if there was only one vine.
+
 [^20]: In his Commentary to the Mishnah (*Kilayim* 6:7), the Rambam depicts this situation as illustrated. Rabbenu Shimshon and the Ra'avad do not accept his interpretation.
+
 [^21]: Six handbreadths [the Rambam's Commentary to the Mishnah (*Kilayim* 6:7)].
+
 [^22]: In his Commentary to the Mishnah (*Kilayim* 7:1), the Rambam adds: "If [the original stem] was apparent and obvious that it is the base of the vine that became bent, we measure from the original base."
+
 [^23]: Chapter 6, Halachah 11.
+
 [^24]: For they were produced before the vines were introduced (Radbaz; see Chapter 5, Halachah 13).
+
 [^25]: I.e., that one's fingers are not tightly pressed together, but held in a manner that allows air to pass between them [the Rambam's Commentary to the Mishnah (*Eruvin* 1:1)]. See also *Hilchot Shabbat* 17:36.
+
 [^26]: See Chapter 7, Halachah 2.
+
 [^27]: Where the prohibitions against mixed species apply according to Scriptural Law.
+
 [^28]: Which in certain contexts is considered as *Eretz Yisrael* (see *Hilchot Terumot* 1:3-4) and where they apply according to Rabbinic Law.
+
 [^29]: Among the vines themselves, however, it is forbidden to sow, even in the Diaspora (*Kessef Mishneh*).
+
 [^30]: One may not, however, ask a Jewish child to perform such an activity, lest he become habituated to transgression (*Shabbat* [[Shabbat 139#139a|139a]]).
+
 [^31]: The *Turei Zahav* 296:21 rules that even at the outset, it is permitted to ask a gentile child to do this.
+
 [^32]: The *Kessef Mishneh* quotes Rabbenu Asher as differing with this ruling and permitting the vegetables to be eaten. The *Shulchan Aruch* (*Yoreh De'ah* 296:69) follows the Rambam's ruling, while the Rama follows that of Rabbenu Asher.
+
 [^33]: The conclusion of the tractate *Orlah* relates that if vegetables are being sold outside a vineyard in the Diaspora, one may purchase them provided one does not see them being harvested.
+
 [^34]: *Hilchot Ma'achalot Assurot* 10:6-8.

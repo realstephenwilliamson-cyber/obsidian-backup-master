@@ -100,74 +100,138 @@ One should not use uncoined silver for the redemption [of the second tithe]. Ins
 **22.** If a person possessed produce from the second tithe in his granary and spent money to transport them from his house to the town,[^64] thus causing the value of the produce to increase, he should redeem it according to the price in the city. He forfeits the expenses he undertook.[^65] ^4-22
 
 [^1]: Although there is a difference of opinion concerning this matter in the Mishnah (*Ma'aser Sheni* 4:7), the variance in views applies only after the fact. According to all views, the initial and preferable option is for him to make an explicit statement.
+
 [^2]: See Halachah 18 and Chapter 2, Halachah 2.
+
 [^3]: The coins need not be in front of him when he makes the declaration. As long as they are within his possession, it is acceptable. See Halachot 11-13.
+
 [^4]: For the circumstances clarify the nature of his intent [the Rambam's Commentary to the Mishnah (*Ma'aser Sheni* 4:7)].  
     In some printings of the *Mishneh Torah*, there is a note (which some ascribe to the Ra'avad) that states that for the redemption to be acceptable when he does not make an explicit statement, he must have been involved with the matter beforehand. Rav Yosef Corcus discusses this issue at length, noting that this is indeed the law with regard to the consecration and divorce of a woman (*Hilchot Ishut* 3:8, *Hilchot Gerushin* 1:11). He makes two distinctions regarding the situations:  
     a) in contrast to consecration and divorce, setting aside money for produce from the second tithe is a self-explanatory act; the intent is directly obvious;  
     b) consecration and divorce must be observed by witnesses. Hence, one must make his intent clear to them. There is no such obligation with regard to the redemption of produce. The *Shulchan Aruch* (*Yoreh De'ah* 31:136) quotes the Rambam's ruling.
+
 [^5]: To purchase food. See Chapter 7, Halachah 3.
+
 [^6]: The original produce, by contrast, is now considered as ordinary produce and can be eaten anywhere. The Ra'avad differs and maintains that the transfer is not effective, for he maintains that the holiness of the produce from the second tithe can only be transferred to money. Nevertheless, as a stringency, he maintains that the second batch of produce must also be taken to Jerusalem. The Radbaz and the *Kessef Mishneh* justify the Rambam's ruling.
+
 [^7]: The Ra'avad differs with the Rambam on this issue as well and again the commentaries justify the Rambam's position.
+
 [^8]: Before separating the produce.
+
 [^9]: See Halachah 6.
+
 [^10]: In continuation of his comments on the previous halachah, the Ra'avad states that a blessing should not be recited. Since the person is not allowed to transfer the holiness of the produce in this manner, he should not recite a blessing.
+
 [^11]: Indeed, he should not, lest he be taking God's name in vein.
+
 [^12]: Because there is no definite Scriptural obligation incumbent on this produce.
+
 [^13]: Produce from the second tithe is sold for a lower price than ordinary produce, because restrictions apply with regard to its consumption. Hence, if produce from the second tithe is offered for evaluation and its identity is known, people will look at it less favorably. The *Kessef Mishneh* questions this rationale, noting that once this produce is redeemed, there is no difference between it and ordinary produce and hence, its price should not be reduced. He explains that, nevertheless, since it originally was from the second tithe, it is still viewed less favorably.  
     The Ra'avad differs with the Rambam's ruling and maintains that such a ploy is not necessary. The commentaries follow the Rambam's view.
+
 [^14]: The Radbaz and the *Kessef Mishneh* state that the Rambam derives this from the fact that *Demai* 1:2 states that such a redemption may be made with coins upon which the holiness of the second tithe of *demai* had been transferred. Implied is that if we are certain that the produce is from the second tithe, no such redemption can be made. See the Rambam's Commentary to that mishnah where he states that the concept is derived from [[Torah 47 - Re'eh#^14-25|Deuteronomy 14:25]] which states: "And you shall exchange it for silver and you shall bundle the silver," i.e., the silver originally used for the redemption must be the silver taken to Jerusalem.  
     See the conclusion of Chapter 5 and the beginning of Chapter 6 which mentions some exceptions to this general principle.
+
 [^15]: See also Halachah 7 which states that redemption may be made in a pressing situation.
+
 [^16]: I.e., if the produce was purchased intentionally with money of the second tithe. See Chapter 7, Halachot 1, 15.
+
 [^17]: I.e., our Sages rescinded the transfer of the holiness to the animal for the reason stated (*Sukkah* [[Sukkah 40#40b|40b]]).
+
 [^18]: See Chapter 7, Halachah 16.
+
 [^19]: E.g., the situation described in Chapter 6, Halachah 2. This example is also discussed by the Rambam's Commentary to the Mishnah (*Ma'aser Sheni* 2:6).
+
 [^20]: I.e., one should not leave the brass coins in a state of holiness (*ibid.*). Among the reasons silver coins are preferred is that they are more prestigious and they do not corrode.
+
 [^21]: Since the separation of the second tithe from *demai* is merely a Rabbinic stringency, our Sages granted leniency in its application.
+
 [^22]: I.e., its holiness should not be transferred back to coins.
+
 [^23]: The Radbaz distinguishes between *pediah*, "redemption," which requires coined silver, and *chillul*, "the transfer of holiness." The latter does not require coinage at all.
+
 [^24]: As required by Chapter 5, Halachah 1.
+
 [^25]: See parallels in *Hilchot Terumah* 10:15; *Hilchot Arachin* 7:2.
+
 [^26]: This is also derived from the above prooftext. *Vitzarta*, translated as "you shall bundle," relates to the word *tzurah* meaning "form" or "image." Thus the prooftext is implying that one may redeem produce from the second tithe with silver with an imprint [the Rambam's Commentary to the Mishnah (*Ma'aser Sheni* 1:2); based on *Bava Metzia* 47b].
+
 [^27]: A *p'rutah* is a copper coin of minimal value. One may not use a silver coin less valuable than this copper coin. The rationale is that its minimal value causes it to be considered as uncoined silver (Radbaz; *Kessef Mishneh*).
+
 [^28]: I.e., it has an imprint and was once issued by a government as currency, but is no longer accepted by the present ruling authorities.
+
 [^29]: The Rambam mentions this interpretation of the verse in his Commentary to the Mishnah (*loc. cit.*). The commentaries have not cited a common prior Rabbinic source. See, however, *Midrash HaGadol* and *Midrash Tana'im*.
+
 [^30]: But which is no longer being minted at present.
+
 [^31]: E.g., his pouch fell into the sea, in which instance, his coins are no longer accessible to him (*Bava Kama* [[Bava Kamma 98#98a|98a]]).
+
 [^32]: The word "*yadecha*," translated as "your hand," can also be interpreted as "your domain." That is the intent here, because the money need not actually be in one's hand. As long as they are in one's domain, and they are accessible, it is acceptable, as evident from this and the subsequent halachot.
+
 [^33]: The cost of recovering the coins must, however, be deducted before one uses the money to redeem produce [the Jerualem Talmud (*Ma'aser Sheni* 1:2)].
+
 [^34]: And he is certain that he will rob him.
+
 [^35]: I.e., the person knows that he will lose his money. Hence, rather than forfeit it without receiving anything for it, he decides that it is preferable for him to use it for something - to redeem his produce. The *Kessef Mishneh* maintains that the Rambam is not stating that, a priori, he may use the money to redeem his produce. Instead, the intent is that after the fact if he redeems the produce with this money, after the fact, the redemption is effective.
+
 [^36]: I.e., he must operate under the premise that the money was lost immediately after he saw it last and all the produce that he sought to redeem from that time onward was thus not redeemed. See *Hilchot Ma'aser* 7:4, however, which mentions a similar situation with regard to tithing produce and rules that although the produce must be tithed again, the status of that tithing is only doubtful.
+
 [^37]: I.e., the Rambam's perspective is that in these instances, there are two negative factors: a) the coinage is not legal tender in the place where he is located; b) he does not have the money at hand. Hence, he cannot redeem the produce of the second tithe with it.
+
 [^38]: Because there is only one difficulty, that the person is not located in the same place as the money, the money is not disqualified.  
     The Ra'avad differs with the Rambam and maintains that there is only one significant factor, whether the money is legal tender in the place it is located. The Radbaz and the *Kessef Mishneh* discuss the two views at length.
+
 [^39]: All of the italicized terms are coins used in the Talmudic era.
+
 [^40]: In all these instances, the transfer of holiness is effective even though the coin was not singled out at the time when the declaration was made. Nevertheless, the transfer of holiness is not effective retroactively, i.e., we do not say that once the coin is taken, the transfer of holiness takes effect from the time the declaration was made.  
     The above follows the explanation given by Rav Yosef Corcus who notes that the Rambam (*Hilchot Terumot* 1:21) does not accept the principle of *bereirah* with regard to questions of Scriptural Law. The Radbaz explains that this explanation is not necessary, because the Rambam rules that the obligation to separate the second tithe in the present age is Rabbinic in origin.
+
 [^41]: Even if the coin was later discovered in the son's possession, the transfer of holiness is not effective, because we do not know whether it was in his possession at the time the declaration was made (Rashas). One might conclude that if one knows that the coin was in the son's possession at the time of the declaration, the separation is effective.
+
 [^42]: Which he has not yet separated.
+
 [^43]: Making such a statement is equivalent to separating the second tithe. Note the parallels in *Hilchot Terumah* 3:8.
+
 [^44]: I.e., at the time the Temple was standing; alternatively, in the present age, as an expression of piety (Chapter 2, Halachah 2).
+
 [^45]: I.e., the storekeeper obviously sells the produce for a higher price than the price at which he purchases it.
+
 [^46]: In his Commentary to the Mishnah (*Ma'aser Sheni* 4:2), the Rambam explains that a moneychanger will take 25 *me'ah* for a *sela*, but will only give 24. If the produce is worth a *sela*, the person redeeming it need not pay more than 24.
+
 [^47]: 100 large silver pieces.
+
 [^48]: *Bava Metzia* [[Bava Metzia 57#57a|57a]] makes such a statement with regard to consecrated property (see *Hilchot Arachin* 7:8). The Rambam draws the parallel since the laws governing consecrated property are more stringent than those governing the second tithe.
+
 [^49]: In previous eras, the minting of coins was less precise and it was possible that a coin would weigh slightly less than the standard weight for it. Alternatively, wear and tear could have reduced its weight.
+
 [^50]: This is also a leniency, for in ordinary business dealings one would have to reimburse the other party for the difference in value (*Hilchot Mechirah* 10:12).
+
 [^51]: I.e., its worth is more than a sixth less than the value of a *sela*.
+
 [^52]: Transferring the holiness from it to a coin of fair value. There is no difficulty with the original transfer of holiness from the produce to the coin, for - after the fact - as long as a coin is worth a *p'rutah*, the transfer of holiness to it is effective as stated in the previous halachah.
+
 [^53]: For as stated above, the initial preference is to redeem the produce of the second tithe at its fair market price. That can only be established after its measure is known.
+
 [^54]: I.e., we are speaking about ordinary produce that has a fixed market value.
+
 [^55]: Because in such an instance, it is not necessary to evaluate its worth.
+
 [^56]: Which is still valuable, but is not as valuable as ordinary wine and hence, must be assessed, for once the produce has started to spoil, its value is not a cut-and-dry matter [the Rambam's Commentary to the Mishnah Talmud (*Ma'aser Sheni* 4:2)].
+
 [^57]: For they will be able to assess the true value of the produce.
+
 [^58]: Two gentiles or two owners, however, are not acceptable [Jerusalem Talmud (*Ma'aser Sheni* 4:2)].
+
 [^59]: *Sanhedrin* [[Sanhedrin 14#14b|14b]] relates that Rav Papa's wife helped evaluate his produce.
+
 [^60]: Because the owner must add a fifth.
+
 [^61]: The Rambam's ruling is based on his version of the *Tosefta, Ma'aser Sheni* 3:3. The Ra'avad maintains that the proper version of that source is: "We compel him to make the first bid. If he desires to retract he may. This is the stringency of consecrated property over the second tithes." The *Kessef Mishneh* notes that this is indeed the version of the *Tosefta* commonly followed. There is an added difficulty with the Rambam's ruling, because in all instances of consecrated property, he requires the owner to make the first bid. See *Hilchot Arachin*, ch. 5, in contrast to the statements of Radbaz here.
+
 [^62]: By contrast, money to which the holiness of the second tithe has been transferred may of course be transported.
+
 [^63]: In which instance, leniency is allowed, because the obligation is of Rabbinic origin.
+
 [^64]: The price of produce in a town is always higher than their price in the field, because someone had to undertake the transportation costs. See the Rambam's Commentary to the Mishnah (*Ma'aser Sheni* 2:1)].
+
 [^65]: I.e., they are included in the price of the produce of the second tithe. The rationale is that until the produce is redeemed, any increase in its value is considered part of the produce. Just like he is obligated to bring the produce to Jerusalem, he is obligated to do anything to facilitate its being brought to Jerusalem, including bringing it to a place where it is redeemed.

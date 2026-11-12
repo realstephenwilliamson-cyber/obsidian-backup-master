@@ -22,26 +22,28 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1-2 | Isa 1:10-16 |
-| Frag. 19-20 | Isa 24:1-3 |
 | Frag. 3-6 | Isa 1:18 - 2:3 |
-| Frag. 21 | Isa 27:1 |
 | Frag. 7 | Isa 5:13-14 |
-| Frag. 22 | Isa 27:5-6 |
 | Frag. 8 | Isa 5:25 |
-| Frag. 23-24 | Isa 27:8-10 |
 | Frag. 9-10 | Isa 6:3-8 |
-| Frag. 25 | Isa 27:11-12 |
 | Frag. 11 | Isa 6:10-13 |
-| Frag. 26 | Isa 28:6-9 |
 | Frag. 12 i | Isa 7:16-18 |
-| Frag. 27 | Isa 28:16-17 (?) |
 | Frag. 13 | Isa 7:23 - 8:1 |
+| Frag. 12 ii, 14, 15 | Isa 8:4-11 |
+| Frag. 16 | Isa 20:4-6 |
+| Frag. 17 | Isa 22:14-22 |
+| Frag. 18 | Isa 22:25 |
+| Frag. 19-20 | Isa 24:1-3 |
+| Frag. 21 | Isa 27:1 |
+| Frag. 22 | Isa 27:5-6 |
+| Frag. 23-24 | Isa 27:8-10 |
+| Frag. 25 | Isa 27:11-12 |
+| Frag. 26 | Isa 28:6-9 |
+| Frag. 27 | Isa 28:16-17 (?) |
 | Frag. 28 | Isa 28:18? |
 | Frag. 29 | Isa 28:22 |
-| Frag. 16 | Isa 20:4-6 |
 | Frag. 30 | Isa 28:24? |
-| Frag. 17 | Isa 22:14-22 |
 | Frag. 31 | Isa 29:8? |
-| Frag. 18 | Isa 22:25 |
+| Frag. 32-34 | unidentified |
 
 [[DSS 4Q59|← 4Q59]] · [[Qumran|index]] · [[DSS 4Q61|4Q61 →]]

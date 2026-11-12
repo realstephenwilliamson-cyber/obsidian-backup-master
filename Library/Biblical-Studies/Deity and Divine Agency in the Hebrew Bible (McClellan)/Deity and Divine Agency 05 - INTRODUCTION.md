@@ -25,7 +25,9 @@ Overview and Outline
 The goal of this thesis is to interrogate conceptualizations of deity and divine agency in the societies that produced the texts of the Hebrew Bible, and particularly the conceptualization of the deity’s relationship to their cult images and representatives.[^3] A primary question it seeks to 
 
 [^1]: Ludwig Wittgenstein, *Philosophical Investigations*, trans. G. E. M. Anscombe (Oxford: Basil Blackwell, 1958), 1.114 (“Man glaubt, wieder und wieder der Natur nachzufahren, und fährt nur der Form entlang, durch die wir sie betrachten”).
+
 [^2]: Edwin Hutchins, “Cognitive Ecologies,” *TCS* 2 (2010): 706.
+
 [^3]: The Hebrew Bible will represent my primary data set, but I will draw also from other relevant material remains, including inscriptions. The terms “cult” and “ritual” are somewhat problematic, but I use both to refer generally to the social conventions associated with serving, communicating, or otherwise interacting with unseen agents and agency, whether through material media or other performative means. Those agents or agency may run the gamut from generic supernatural powers to deceased kin to members of international pantheons. I use “cult” to refer more broadly to the frameworks of those conventions, while I use “ritual” to refer more directly to the acts associated with them. I will use the pronouns they/their for references to deity throughout this thesis except where I am translating texts explicitly marked for gender or quoting secondary literature or other translations of primary sources. YHWH and other deities were frequently gendered in the literature, and in many places the performance of maleness is central to the rhetorical goals of the authors. Unless otherwise noted, translations of biblical passages will be my own.
 
 *[p. 2]* ^pg19
@@ -43,6 +45,7 @@ you whisper into his right ear.
 The cultic image appears to be considered, according to texts such as the above, a divinity in its own right. Some offering lists from Mesopotamia even show offerings being separately presented to the cult image as well as to the deity it represents, as with the beginning of the 
 
 [^4]: For recent scholarship that has begun with a framework of representation, but moved the discussion toward the concept of “presencing,” see Zainab Bahrani, *The Graven Image: Representation in Babylonia and Assyria* (Philadelphia: University of Pennsylvania Press, 2003); Stephen L. Herring, *Divine Substitution: Humanity as the Manifestation of Deity in the Hebrew Bible and the Ancient Near East* (Göttingen: Vandenhoeck & Ruprecht, 2013); Karen Sonik, “Divine (Re-)Presentation: Authoritative Images and a Pictorial Stream of Tradition in Mesopotamia,” in *The Materiality of Divine Agency*, ed. Beate Pongratz-Leisten and Karen Sonik (SANER 8; Berlin: de Gruyter, 2015), 142–93.
+
 [^5]: Christopher Walker and Michael B. Dick, *The Induction of the Cult Image in Ancient Mesopotamia: The Mesopotamian* Mīs Pî *Ritual* (Finland: Neo-Assyrian Text Corpus Project, 2001), 65. See also, Christopher Walker and Michael B. Dick, “The Induction of the Cult Image in Ancient Mesopotamia: The Mesopotamian *mīs pî* Ritual,” in *Born in Heaven Made on Earth: The Making of the Cult Image in the Ancient Near East*, ed. Michael B. Dick (Winona Lake, IN: Eisenbrauns, 1999), 95 (quoted in Herring, *Divine Substitution*, 28; Stephen L. Herring and Garth Gilmour, “The Image of God in Bible and Archaeology,” in *Between Israelite Religion and Old Testament Theology: Essays on Archaeology, History and Hermeneutics*, ed. Robert D. Miller II \[Leuven: Peeters,
 
 *[p. 3]* ^pg20
@@ -54,8 +57,11 @@ Sîn, Šamaš-the-cult-statue, Šamaš Ningal, Aya Bunene, Ebiḫ Kittu, Umu Tam
 As a result of the material and ostensibly artistic channels in which these phenomena have been preserved, they have long been evaluated under the rubric of mimetic representation,[^7] but that framework has failed to adequately account for the features described above. The problem has become further entrenched by appealing to ontology to smooth over the concerns. For example, Stephen Herring describes the concept undergirding the Akkadian use of the term *ṣalmu* as rejecting “the binary opposition of representation and real.”[^8] In order to dismantle this binary, Herring concludes that the concept reflects “a complicated ontological belief, where, by means of a transformative ritual, the ‘real’ presence of the referent is transubstantiated into the representation with the result that the representation exists as a valid substitute of said referent.”[^9] This gets the scholar no closer to understanding the phenomenon, of course, it simply labels the unknown and “complicated” means by which the paradox is ostensibly resolved as “ontology.” Zainab Bahrani’s *The Graven Image* ruminates at length on 
 
 [^6]: Translation is from Spencer L. Allen, *The Splintered Divine: A Study of I*š*tar, Baal, and Yahweh Divine Names and Divine Multiplicity in the Ancient Near East* (Berlin: de Gruyter, 2015), 38–39 and n. 88. Cf. Barbara N. Porter, “Blessings from a Crown, Offerings to a Drum: Were There Non-Anthropomorphic Deities in Ancient Mesopotamia?” in *What Is a God? Anthropomorphic and Non-Anthropomorphic Aspects of Deity in Ancient Mesopotamia*, ed. Barbara N. Porter (Winona Lake, IN: Eisenbrauns, 2009), 167–68.
+
 [^7]: Mimesis comes from a Greek term that refers to imitation, and so mimetic representation refers to representation that visually mimics the source, or seeks to reproduce an appearance similar to that of the source. For a brief consideration of representation and presence in the study of religion, see Joachim Schaper, *Media and Monotheism: Presence, Representation, and Abstraction in Ancient Judah* (Tübingen: Mohr Siebeck, 2019), 15– 20.
+
 [^8]: Herring, *Divine Substitution*, 16.
+
 [^9]: Herring, *Divine Substitution*, 37.
 
 *[p. 4]* ^pg21
@@ -69,9 +75,13 @@ The contradiction of *is* and *is not* in the matter of the cult statue is so fl
 The observation that this ostensible contradiction arises because of the disparity between our modern conceptualizations of the world around us and those of the ancients touches on the root of the problem;[^13] but despite his methodological sensitivity, Jacobsen still structures the issue in terms of “ontology” and “being,” imposing modern philosophical frameworks where there is no indication they belong.[^14] Neither ontology nor its conceptual proximates are anywhere discussed in ancient literature related to the nature and function of divine images. It is not an ancient conceptual category, it is a modern one, but twenty-first century scholarship continues to employ it. 
 
 [^10]: Bahrani, *The Graven Image*, 121–48.
+
 [^11]: Bahrani, *The Graven Image*, 133.
+
 [^12]: Jacobsen, “The Graven Image,” in *Ancient Israelite Religion: Essays in Honor of Frank Moore Cross*, ed. Patrick D. Miller, Jr., Paul D. Hanson, and S. Dean McBride (Philadelphia: Fortress Press, 1987), 18.
+
 [^13]: By “conceptualize” and “conceptualization” I refer to the formation or interpretation of concepts using imagery and mental spaces that do not faithfully represent reality, but utilize idealized cognitive models or generalized mental representations. This will be discussed in more detail in the next chapter.
+
 [^14]: Observe that Jacobsen goes on to describe the ancient Mesopotamians as “*monists*” (Jacobsen, “The Graven Image,” 19, emphasis in original). For a detailed account of Jacobsen’s frameworks for ancient thought, see H. Frankfort, H.A. Frankfort, John A. Wilson, Thorkild Jacobsen, and William A. Irwin, *The Intellectual Adventure of Ancient Man: An Essay on Speculative Thought in the Ancient Near East* (Chicago: University of Chicago Press, 1946), 125–219. See also Francesca Rochberg, “A Critique of the Cognitive-historical Thesis of *The Intellectual Adventure*,” in *The Adventure of the Human Intellect: Self, Society, and the Divine in Ancient World Cultures*, ed. Kurt A. Raaflaub (Chichester, UK: John Wiley & Sons, Inc., 2016), 16–28.
 
 *[p. 5]* ^pg22
@@ -117,7 +127,9 @@ I have chosen the cognitive sciences—and specifically cognitive linguistics (C
 presupposition that a strict dichotomy must be thought to have separated the divine from the human. This is most clearly reflected in Rudolph Otto’s famous designation of the holy as *das ganz andere*, “the wholly other” (Otto, *Das Heilige: Über das Irrationale in der Idee des Göttlichen und sein Verhältnis zum Rationalen* \[Breslau: Trewendt und Granier, 1917\]). For a contemporary reflection of this idea in the modern study of the Hebrew Bible, see Mark S. Smith’s description of humanity and divinity as generally constituting “two different divisions within reality,” and falling into “two generally incommensurate categories” (Smith, *The Origins of Biblical Monotheism: Israel’s Polytheistic background and the Ugaritic Texts* \[Oxford: Oxford University Press, 2001\], 6–7). Significant progress in dismantling this dichotomy has been made by Ittai Gradel in *Emperor Worship and Roman Religion* (Oxford: Clarendon Press, 2002), and related fields have reaped some of the fruit of that progress (Michael Peppard, *The Son of God in the Roman World: Divine Sonship in its Social and Political Context* \[Oxford: Oxford University Press, 2011\], 31–36; Pongratz-Leisten, “Divine Agency and Astralization of the Gods in Ancient Mesopotamia,” in *Reconsidering the Concept of Revolutionary Monotheism*, ed. Pongratz-Leisten \[Winona Lake, IN: Eisenbrauns, 2011\], 137–87; and Bart Ehrman, *How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee* \[New York: HarperOne, 2014\], 52–55).
 
 [^23]: The relationship of cognition and culture is perhaps best conceptualized as a feedback loop. For a thorough examination of the relationship of culture and cognition in human evolution, see Mark Schaller et al., eds., *Evolution, Culture, and the Human Mind* (New York: Psychology Press, 2010). Cf. James Cresswell, *Culture and the Cognitive Science of Religion* (New York: Routledge, 2018).
+
 [^24]: Luther H. Martin, “Past Minds: Evolution, Cognition, and Biblical Studies,” in *Mind, Morality and Magic:* *Cognitive Science Approaches to Biblical Studies*, ed. István Czachesz and Risto Uro (Durham: Acumen, 2013), 16.
+
 [^25]: “Canalization” is a metaphor based on the idea of a canal, which conveys, restricts, and directs the flow of water. In this context, it refers to the way environmental structures and constraints convey, restrict, and direct cognitive outputs.
 
 *[p. 8]* ^pg25
@@ -143,7 +155,9 @@ A final caveat related to the use of the findings of cognitive psychology and re
 developed specific theoretical models for accounting for the phenomena of divine multiplicity.[^28] Chapters 1 and 2 constitute Part 1 of this thesis, and they primarily serve to lay the methodological scene. The first will introduce the main methodological approaches this thesis will employ, namely cognitive linguistics, or CL, and the cognitive science of religion, or CSR. I will pay special attention to prototype theory, conceptual metaphor theory, and dual-process models of cognition—three important theoretical frameworks that will be critical to the reconstruction of biblical concepts of deity. I will also briefly interrogate the concept of “religion” as an analytical category.[^29] This category has been applied to the study of the ideologies of the Hebrew Bible for generations without any sustained consideration of its appropriateness. The concept of “religion” is a Reformation-era socio-cultural reification that has no real existence outside of discourse about it.[^30] As a result, where that discourse does not exist, we ought to exercise caution about assuming its presence or its relevance. Because this thesis is concerned both with cognitive features that operate independently of that discourse and with cultures and time periods with no term for “religion” and no clear indication there was a discrete sociocultural domain representing it, I avoid using the term. Chapter 2 will engage the related concepts of agency and personhood. As will be shown, extensive experimentation within CSR and cognate fields of study has demonstrated that the perception of agency in the world around humans, past and present, sits at the very foundation of concepts of both personhood and deity. I will construct a case for understanding the conceptualization of humans and deities in early Israel and Judah as both partible and permeable, in stark 
 
 [^28]: For related research I will not directly engage in this section, see Moshe Halbertal and Avishai Margalit, *Idolatry* (Cambridge, MA: Harvard University, 1992); Tryggve N. D. Mettinger, *No Graven Image? Israelite Iconism in Its Ancient Near Eastern Context* (Stockholm: Almqvist & Wiksell International, 1995); Karel van der Toorn, “Worshipping Stones: On the Deification of Cult Symbols,” *JNSL* 23.1 (1997): 1–14; Angelika Berlejung, “Geheimnis und Ereignis: Zur Funktion und Aufgabe der Kultbilder in Mesopotamien,” *JBT* 13 (1998): 110; Dick, “The Mesopotamian Cult Statue”; Andreas Wagner, *God’s Body: The Anthropomorphic God in the Old Testament*, trans. Marion Salzmann (London: T&T Clark, 2019).
+
 [^29]: While I use the word “religion” quite frequently in the introduction and the first chapter, I try to qualify my usage as frequently as possible as reflective of the traditional conceptualization of the category.
+
 [^30]: Cf. Pascal Boyer, *The Fracture of an Illusion: Science and the Dissolution of Religion* (Göttingen: Vandenhoeck & Ruprecht, 2011); Jonathan Jong, “On (not) defining (non)religion,” *SRC* 2.3 (2015): 15–24.
 
 *[p. 11]* ^pg28
@@ -169,6 +183,7 @@ Countless publications overlap in some way or another with the several themes of
 *Benjamin D. Sommer* Benjamin D. Sommer’s 2009 *The Bodies of God and the World of Ancient Israel* is one of the most ambitious recent engagements with the question of divine multiplicity, and will represent my primary interlocutor throughout this thesis. The volume draws sensitively on data from Mesopotamia, Syria-Palestine, and the Hebrew Bible, with its primary focus on the pluriform embodiment of the God of Israel.[^32] Sommer’s work astutely touches on an insight regarding personhood that will be shown to be absolutely critical to resolving this seeming paradox, but he unfortunately also imposes a framework of ontology, and this constrains the scope, the insight, and the heuristic value of the model he constructs.[^33] This model, “divine fluidity,” 
 
 [^32]: Benjamin D. Sommer, *The Bodies of God and the World of Ancient Israel* (Cambridge: Cambridge University Press, 2009).
+
 [^33]: His model has nonetheless become very influential. In addition to winning the American Academy of Religion’s 2010 Award for Excellence in the Study of Religion and the Association for Jewish Studies’ 2009 Jordan Schnitzer Book Award, Sommer’s divine fluidity model has been adopted in, for instance, Michael B. Hundley, “Divine Fluidity? The Priestly Texts in Their Ancient Near Eastern Contexts,” in *Text, Time, and Temple: Literary, Historical, and Ritual Studies in Leviticus*, ed. Francis Landy, Leigh M. Trevaskis, and Bryan Bibb (Sheffield: Sheffield Phoenix Press, 2015), 16–40.
 
 *[p. 13]* ^pg30
@@ -190,7 +205,9 @@ As I will show below, ancient Southwest Asian cultures absolutely evinced such b
 This will be discussed further in Chapters 3, 4, and 5, but it is important to note that Sommer insists that, because of this fluidity, deities were “radically unlike human beings.” He states, “For the peoples of the ancient Near East, the gods were made of a different sort of stuff, not only physically, but also ontologically.”[^36] According to Sommers, divine selves were fluid and human selves were not, which safeguards the modern theological understanding of deity as *das ganz andere*.[^37] The anthropological framework he approximates, however, is precisely a feature of the human understanding of the self (which becomes projected onto the mental representation of deities). Sommer’s oversight, which appears to derive from theological concerns,[^38] undermines his model and prevents many and significant insights that could be 
 
 [^36]: Sommer, *The Bodies of God*, 12. Sommer makes a point of rejecting the presence of the fluidity model in archaic and classical Greece, stating, “no archaic or classical Greek source I know of describes these statues as embodiments of divinity, even though the statues in question were regarded as deeply sacred and even otherworldly” (Sommer, *The Bodies of God*, 31 \[30–36\]). He quotes the *Odyssey* in support of this conclusion, but overlooks the episode in the *Iliad* in which a group of Trojan women take offerings to the statue of Athena at her shrine (Book VI 297–311). The text describes the priestess placing the offering “on the knees of Athena” (lines 302–03), but despite their pleas, Athena “threw back her head” (ἀνένευε; line 311), denying the prayer. The two important things to note are that the text indicates the group of women are before a cult image with knees upon which the offering can be set, and that the text makes no distinction whatsoever between the shrine’s cult image and the deity itself, which flatly contradicts Sommer’s assertion. For discussion of this text and many others that indicate that “\[in\] the Archaic period the Greeks did not yet conceptualize the difference between a divinity and its statue,” see Jan N. Bremmer, “The Agency of Greek and Roman Statues: From Homer to Constantine,” *Opuscula* 6 (2013): 7–21 (8). The text from the Iliad is also mentioned as witnessing to “the blurring of the line between divinities and their cult statues” in Pongratz-Leisten and Sonik, “Between Cognition and Culture,” 47, although they identify the pericope as lines 360–66.
+
 [^37]: This is Rudolph Otto’s famous characterization of the holy, frequently translated “the wholly other” (see note 22 above). As will be discussed further below, this dogma about deity’s fundamental otherness has significantly impeded scholarship.
+
 [^38]: In his conclusion, he states, “The essence of the fluidity model, however, lies precisely in the recognition that God’s divisible bodies are not in fact like any other bodies. God’s divisibility does not detract from God’s might or transcendence; because the number of divine bodies is potentially infinite, the disappearance or fragmentation of any one of them is, ontologically speaking, a matter of no concern” (Sommer, *The Bodies of God*, 142).
 
 *[p. 15]* ^pg32
@@ -204,11 +221,17 @@ entirety,”[^41] entities like the מלאך יהוה *are* “Yhwh,” but they
 Yhwh,”[^42] “all of Yhwh,”[^43] or “the deity’s full manifestation.”[^44] Coarsely put, Sommer’s model resolves Jacobsen’s “is” and “is not” dichotomy by restating it as “is (a part)” and “is not (the whole).” Sommer’s fluidity algebra does not solve for variable *o* (for ontology), it only divides one side and turns in the exam.[^45] 
 
 [^39]: For instance, once we acknowledge that the human mind is predisposed to conceptualizing of personhood as permeable and partible, we can employ living informants in the study of the nature function of that conceptualization. Sommer limits his data pool to the exegesis of a limited number of texts from first millennium BCE Mesopotamia and Syria-Palestine.
+
 [^40]: “Punting” here is a sports metaphor that has reference to American football, a sport in which two teams attempt to advance an oblong ball past the opponent’s goal line on a 100-yard-long field. The team in possession of the ball has four tries, or plays, to advance it at least ten yards. If they succeed, they are given four more tries to advance another ten yards. If they fail, the opposing team takes over possession of the ball where it sits. Punting is when the team with possession uses the fourth play not to try to advance the ball, but to transfer possession to the opposing team by kicking it as far away from their own goal as possible, forcing the opponent to cover more ground. In this context, the metaphor has reference to appealing to loaded, vague, or otherwise rhetorically deflective concepts in an effort to minimize or avoid engaging the challenges or complexities of carrying the line of argumentation on further.
+
 [^41]: Sommer, *The Bodies of God*, 43.
+
 [^42]: Sommer, *The Bodies of God*, 42.
+
 [^43]: Sommer, *The Bodies of God*, 41.
+
 [^44]: Sommer, *The Bodies of God*, 40.
+
 [^45]: This is not to say that compartmentalization and division of the “whole self” was not salient for these groups—I will argue that compartmentalization was a key rhetorical tool—but it certainly was not the only way to account for the phenomenon in question.
 
 *[p. 16]* ^pg33
@@ -220,7 +243,9 @@ The *mīs pî* ceremonies show that the ancients did regard the statues as being
 Sommer later returns to these parallels, but only to “point out the impressive and startling endurance of ancient beliefs in religions that lay claim to the Hebrew Bible as their scripture,” and “to recognize the rich debate that the fluidity and antifluidity traditions continue to inspire.”[^47] Several questions spring to mind: Why should fluidity be so enduring as to disappear for centuries and reappear without explanation? Is fluidity really reducible to ontology when most living practitioners who assert it do not actually formulate an ontology? What insights about ancient Southwest Asian conceptualizations of the divine could be gleaned from studying contemporary Roman Catholics and Eastern Orthodox Christians? What about non-biblical traditions, such as Hinduism, that also attest to beliefs in the divine inhabitation of cult images?[^48] Sommer’s model begins to turn us in the right direction and to tease out some critical insights, but is still bound to contemporary academic frameworks that limit its insight and its utility. 
 
 [^46]: Sommer, *The Bodies of God*, 187, n. 68.
+
 [^47]: Sommer, *The Bodies of God*, 135. For a detailed discussion of the relevance of Roman Catholic notions of divine multiplicity to the interrogation of ancient manifestations, see Allen, *The Splintered Divine*, 59–70.
+
 [^48]: See page 5, note 19 above.
 
 *[p. 17]* ^pg34
@@ -230,9 +255,13 @@ Sommer later returns to these parallels, but only to “point out the impressive
 In her first article, “Divine Agency and Astralization of the Gods,” Pongratz-Leisten applies this model of distributed agency to the study of divinity in ancient Mesopotamia, and particularly to the divinity of astral bodies. She first overturns Sommer’s assertion of the divine prerogative of partibility, suggesting that, “Beginning with the ancient notion of the person, which was . . . conceived as an assemblage of parts, will enhance our understanding of the composite character of divine agency.”[^52] She further argues for understanding identity as predicated upon social roles and relationships rather than upon ontology, arguing that “the ancient notion of personhood was primarily relational—that one defined oneself through the functions and roles one was given in relation to others rather than by asserting one’s individuality.”[^53] She incorporates findings from the cognitive sciences to further unpack this 
 
 [^49]: Beate Pongratz-Leisten, “Divine Agency and Astralization of the Gods in Ancient Mesopotamia”; Pongratz-Leisten and Karen Sonik, “Between Cognition and Culture,” 3–69.
+
 [^50]: Gell, *Art and Agency*. His model will be discussed in greater detail in Chapter 2 below.
+
 [^51]: Marilyn Strathern, *The Gender of the Gift: Problems with Women and Problems with Society in Melanesia* (Berkeley: University of California Press, 1988); and Roy Wagner, “The Fractal Person,” in *Big Men and Great Men: Personifications of Power in Melanesia*, ed. Maurice Godelier and Marilyn Strathern (Cambridge: Cambridge University Press, 1991), 159–73.
+
 [^52]: Pongratz-Leisten, “Divine Agency and Astralization of the Gods,” 138.
+
 [^53]: This intuitive notion of personhood is widespread even today. This will be discussed further in Chapter 2.
 
 *[p. 18]* ^pg35
@@ -246,8 +275,11 @@ explain why agency can be exercised by supernatural beings that are imagined not
  A criticism of this model has been the subordination of “secondary divine agents” to their usually anthropomorphic “primary agents,” which tends towards the notion of the agent as a “partial” or “not full manifestation” of the deity, *à la* Sommer. Michael Hundley, whose work 
 
 [^54]: “Sacred objects, in opposition to mundane or even profane ones, were famously defined by Durkheim as ‘things set apart and forbidden.’ This definition may be retained here provided that sacred (as divine) is recognized as a relative rather than an absolute status, one existing on the latter end of the continuum stretching between the ordinary and the special, and that thing is understood as encompassing not merely material objects or matter, but also persons, phenomena, or events” (Pongratz-Leisten and Sonik, “Between Cognition and Culture,” 7, quoting Émile Durkheim, *The Elementary Forms of the Religious Life*, trans. Joseph Ward Swain \[London: George Allen & Unwin Ltd., 1964\], 47).
+
 [^55]: See also Porter, “Blessings from a Crown, Offerings to a Drum,” 153–94.
+
 [^56]: Pongratz-Leisten, “Divine Agency and Astralization of the Gods,” 145.
+
 [^57]: Pongratz-Leisten, “Divine Agency and Astralization of the Gods,” 146.
 
 *[p. 19]* ^pg36
@@ -259,8 +291,11 @@ Pongratz-Leisten’s second article, written with Karen Sonik, is more directly 
 *Spencer L. Allen* Divine multiplicity has also been given a fresh reading by Spencer L. Allen in *The Splintered Divine*, a revised edition of his 2011 University of Pennsylvania dissertation.[^61] As with Sommer, Allen incorporates data from Mesopotamia and Syria-Palestine to better contextualize his analysis of the biblical data, but his primary data pool are the god lists and 
 
 [^58]: Michael B. Hundley, review of *Reconsidering the Concept of Revolutionary Monotheism* by Beate Pongratz-Leisten, ed., *RBL* (2014): 4 (cf. Hundley, “The God Collectors,” 186–87, n. 76). This review is cited in Allen, *The Splinted Divine*, 36, n. 83. As I will discuss in the next chapter, cognitive linguistics, and particularly prototype theory, can provide a helpful lens for engaging with these questions of how conceptual categories form, are used, and relate to one another. In Chapter 7, I will show that some biblical authors did assert “secondary” status for some vehicles for divine agency.
+
 [^59]: Herring and Bahrani both engage with a Peircean framework, but insist the cult image moves beyond mere representation to somehow presence the deity. See Bahrani, *The Graven Image*, 135–37; Herring, *Divine Substitution*, 47–48. See also Angelicka Berlejung, *Die Theologie der Bilder: Herstellung und Einweihung von Kultbildern in Mesopotamien und die alttestamentliche Bilderpolemik* (Fribourg: Universitätsverlag/Göttingen: Vandenhoeck & Ruprecht, 1998).
+
 [^60]: Terms are defined in Pongratz-Leisten and Karen Sonik, “Between Cognition and Culture,” 6–11.
+
 [^61]: See above, page 3, note 6, for 2015 bibliographic information.
 
 *[p. 20]* ^pg37
@@ -286,7 +321,9 @@ Appropriately named, the cult image or representative, then, is a distinct deity
 *Michael B. Hundley* Among scholars engaging with this debate in recent years, Michael B. Hundley has perhaps been the most prolific, having published two books and multiple articles since 2009 aimed at formulating a more helpful model for understanding divine presencing.[^63] His more recent publications have drawn from “aspective theory,”[^64] which is a theoretical model developed within Egyptology that suggests ancient Egyptians conceptualized deity primarily in terms of 
 
 [^62]: Allen, *The Splintered Divine*, 40. This is more explicitly stated in his discussion of embedded god lists: “The underlying assumption of this chapter’s methodology has been that if a scribe listed or addressed a deity by a particular name, then that particular name identified a specific deity who was considered distinct from all the other deities in that EGL \[embedded god list\]. In essence, this assumption attempts to take the ancient scribes at their word and interprets a name as a defining aspect of each deity” (p. 138).
+
 [^63]: Hundley, “To Be or Not to Be: A Reexamination of Name Language in Deuteronomy and the Deuteronomistic History,” *VT* 59.4 (2009): 533–55; Hundley, *Keeping Heaven on Earth: Safeguarding the Divine Presence in the Priestly Tabernacle* (Tübingen: Mohr Siebeck, 2011); Hundley, *Gods in Dwellings: Temples and Divine Presence in the Ancient Near East* (Atlanta, GA: Society of Biblical Literature, 2013); Hundley, “Divine Fluidity?”; Hundley, “Here a God, There a God: An Examination of the Divine in Ancient Mesopotamia,” *AoF* 40.1 (2013): 68–107; Hundley, “The God Collectors: Hittite Conceptions of the Divine,” *AoF* 41.2 (2014): 176– 200; Hundley, “Of God and Angels: Divine Messengers in Genesis and Exodus in their Ancient Near Eastern Contexts,” *JTS* 67.1 (2016): 1–22.
+
 [^64]: This theory, as Hundley states, is drawn from Emma Brunner-Traut, *Frühformen des Erkennens: Aspektive im alten Ägypten* (Darmstadt: Wissenschaftliche Buchgesellschaft, 1996), who is building on the work of Heinrich Schäfer, *Von ägyptischer Kunst: Eine Grundlage*, 4th ed. (Weisbaden: Harrasowitz, 1963).
 
 *[p. 22]* ^pg39
@@ -296,11 +333,17 @@ the arrangement, combination, and multiplication of their different aspects or c
 Much attention is paid by Hundley to the lack of a unifying framework for these constellations, and here some of the methodological problems bubble to the surface, particularly related to the use of language.[^70] As Hundley notes, “the whole deity is considered to be the sum of its parts, and with each new added part the whole deity becomes greater.” At the same time, however, “Mesopotamians nowhere synthesize all of the parts into one cohesive whole.”[^71] Rather, different aggregations of aspects serve different rhetorical purposes largely focused on emphasizing the potency of the deity. Hundley gives different reasons for the 
 
 [^65]: Hundley, *Gods in Dwellings*, 203–04; Hundley, “Here a God, There a God,” 69–72; Hundley, “Divine Fluidity?” 22–24.
+
 [^66]: Hundley, “Divine Fluidity?” 22–23.
+
 [^67]: Hundley, “Here a God, There a God,” 82–84.
+
 [^68]: Hundley, “Here a God, There a God,” 84.
+
 [^69]: He states, “Although, and perhaps because, the fluid Mesopotamian divine world allows for multiple complex ways of conceiving and depicting deities, divine multiplicity brings with it potential pitfalls. For example, as is already apparent, the relationship between aspects may become tenuous as well as the relationship of each aspect to the whole. In some cases, with Ištar in particular, different local manifestations are treated as different deities all together” (Hundley, “Here a God, There a God,” 96).
+
 [^70]: It bears noting that while Hundley engages with Pongratz-Leisten’s divine agency model in some work (Hundley, *Gods in Dwellings*, 211, n. 25; Hundley, “Divine Fluidity?” 25–26; Hundley, “The God Collectors,” 186–87, n. 76), in his primary articulation of his constellation model in “Here a God, There a God,” he nowhere mentions it.
+
 [^71]: Hundley, “Here a God, There a God,” 81. Elsewhere, however, Hundley does suggest deities like Aššur and Marduk are “treated more holistically” (Hundley, “Divine Fluidity?” 34).
 
 *[p. 23]* ^pg40
@@ -310,7 +353,9 @@ ancient avoidance of the full representation of the deity, mainly drawing from t
 Two concerns may be raised with these statements. First, the practice of defining conceptual categories—which constitutes reducing them to necessary and sufficient features—is not universal. Rather, it is a modern and artificial framework of categorization that stems primarily from an Aristotelian system of classification and has little to do with the way people form, use, and communicate about conceptual categories. To speak of ancient “definitions” is to impose a thoroughly modern, and thoroughly distorting, scholarly framework (more on this below). Second, there is nothing unique about “religious language,” and the fact that the supernatural is not amenable to definition is a perfectly *natural* byproduct of the artificiality of the definitional enterprise. The English-language conceptual categories “game” and “furniture” are not amenable to definition either, but this has precious little to do with the categories’ transcendence beyond the grasp of natural, human language (apart, perhaps, from the game of golf). Indeed, the notion that natural, human language is insufficient to encapsulate or grasp deity is a theological rationalization that is most often trotted out to explain away 
 
 [^72]: Hundley, “Here a God, There a God,” 81, n. 71.
+
 [^73]: Hundley, “Here a God, There a God,” 70. Hundley has appealed multiple times to this concept. See Hundley, *Keeping Heaven on Earth*, 12–13, 39; Hundley, *Gods in Dwelling*, 141–43.
+
 [^74]: Hundley, “Here a God, There a God,” 74, n. 40. I will discuss Hundley’s paper on the מלאך and its relationship to YHWH (Hundley, “Of God and Angels”) in more detail the fifth chapter.
 
 *[p. 24]* ^pg41
@@ -324,6 +369,7 @@ Conclusion
 In summary, this thesis seeks to better understand how the authors, editors, and earliest hearers/readers of the texts of the Hebrew Bible would have understood the nature and function of deity and divine agency, as well as their socio-material relationship to the world around them. Most contemporary approaches to this problem apply thoroughly modern conceptual frameworks that significantly distort their results. Beate Pongratz-Leisten’s application of the cognitive sciences shows the most potential for helping us to better approximate those 
 
 [^75]: See, for instance, Thorkild Jacobsen, *The Treasures of Darkness: A History of Mesopotamian Religion* (New Haven: CT: Yale University Press, 1976), 3–4; Marc Zvi Brettler, *God is King: Understanding an Israelite Metaphor* (Sheffield: Sheffield Academic Press, 1989), 159; Marjo C. A. Korpel, *A Rift in the Clouds: Ugaritic and Hebrew Descriptions of the Divine* (Münster: Ugaritic-Verlag, 1990), 627; Martin Klingbell, *Yahweh Fighting from Heaven: God as Warrior and as God of Heaven in the Hebrew Psalter and Ancient Near Eastern Iconography* (Switzerland: University of Fribourg, 1999), 23.
+
 [^76]: The experiences transmitted through ritual are generally unrelated to divine profiles, but, again, are relative and, insofar as they cannot be articulated, they cannot be discussed, compared, harmonized, or passed on. The exception are the underlying intuitive frameworks discussed in this thesis, but these frameworks, as will be shown, differ dramatically from most all theological ones. For a recent cognitive perspective on ritual and early Christianity, see Risto Uro, *Ritual and Christian Beginnings* (Oxford: Oxford University Press, 2016).
 
 *[p. 25]* ^pg42

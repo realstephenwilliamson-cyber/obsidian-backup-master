@@ -54,8 +54,11 @@ There is one final feature of early thirteenth-century theosophical writing that
 Briefly summarized, the above-mentioned features related to early thirteenth-century trends point to: (a) an intense interest in the problems of cosmogony, as exemplified by the study of *The Book of Creation,* (b) the dissemination of *hekhalot* texts through the activities of the *l}asidei 'ashkenaz,* (c) the breakdown of the barrier to keep esoteric material private, as seen in connection with R. Eleazar and R. Ezra, to and (d) an underlying impetus tied to burgeoning messianic 
 
 [^6]: See below, pp. 200-210.
+
 [^7]: R. Ezra, *Perush /e-Shir ha-Shirim, 479.*
+
 [^8]: See below, p. 198, n. 21.
+
 [^9]: See below, p. 199.
 10\. For other evidence of this phenomenon, see below p. 188. II. See above, p. 41.
 
@@ -71,7 +74,9 @@ The basic premise of *Contemplation-Short* is that the cosmos came into being by
 Primordial Wisdom is the source of all subsequent powers. "He is united with the Primordial Wisdom. From this wisdom that is called mystery, the Holy One, blessed be He, generated all the spiritual powers simultaneously."[^13] Although herein the emanation of the other powers is said to have occurred simultaneously, later on the writer delineates a specific sequence. "At that moment the Holy One, blessed be He, emanated each power individually-one at a time. The first was Marvellous Light."[^14] The treatise then proceeds to describe how *lJashmal* (electrum) emanated from Marvellous Light, and from it seven other powers were formed in sequence: *'arafel,* Throne of Light, Wheel of Greatness, Cherub, Wheels of the Chariot, Encompassing Ether, and finally Celestial Curtain. It is possible that there is no real contradiction between the initial statement that the powers were generated simultaneously, and this subsequent successive enumeration: the sequencing is primarily intended to indicate the rank of the various powers in the celestial hierarchy and not chronological temporality. 
 
 [^12]: See above, p. 41.
+
 [^13]: See above, p. 42.
+
 [^14]: See above, p. 43.
 
 *[p. 125]* ^pg138
@@ -85,9 +90,13 @@ When it arose in His mind to create all His actions and display His power and pr
 From the above analysis we can see that there is a fundamental difference between the upper two powers and the lower eight. Primordial Wisdom and Marvellous Light represent the outer clothing 
 
 [^15]: See above, p. 46f.
+
 [^16]: See above, p. 47, n. 55.
+
 [^17]: See above, p. 48.
+
 [^18]: See above, p. 41 f.
+
 [^19]: See above, p. 43.
 
 *[p. 126]* ^pg139
@@ -101,7 +110,9 @@ The basic concept, whereby the cosmos is structured in ten successive levels, be
 A classical formulation is found in the rabbinic exposition, *Lessons of the Fathers,* "with ten statements the world was created."21 This is followed by the assertion that decades constitute the basic pattern of history. "There were ten generations from Adam to Noah."[^22] In the *Talmud,* the primal decade is associated with other groups of ten, notably the Ten Commandments, ten key praises in *Psalms,* and the ten stalwarts of the synagogue service. [^23]The latter was a manifestation of the halakhic principle, requiring a quorum of ten for liturgical activities. 24 Another talmudic statement that is germane, is the following: R. Zutra b. Tuvia said in the name of Rav, "By means of ten attributes *(devarim)* the universe was created: by wisdom, understanding, knowledge, power, reprimand, valor, righteousness, judgment, mercy, and compassion."25 
 
 [^20]: Compare the theory of form (i.e., wisdom) and matter, as the two simple substances that constitute the initial stage of creation in Judea-Arabic philosophy; see S. Stern, "Ibn Hasdai's Neoplatonist," *Oriens,* 13 (1961), 104f., and A. Altmann, "Creation and Emanation in Isaac Israeli," in *Studies in Medieval Jewish History and Literature,* I. Twersky ed. (Cambridge 1979), 1-15. *'Avot,* 5: 1. The "statements" *(ma'amarot)* refer to the Divine commands *21.* in the opening chapter of Genesis.
+
 [^22]: 'Avot, 5:2.*
+
 [^23]: See *B. Rosh ha-Shanah,* 32a, and *B. Megillah,* 21b. On the association between the *ma 'amarot* and the commandments, cf. Hippolytus, *Refutation of All Heresies,* 8:7, and Idel's comments, *"Ha-Sefirot she-me- 'AI ha-Sefirot."* Tarbi~, 51 (1982), 274ff.
 24\. B. Berakhot,* 21 b. *B. /fagigah,* 12a; cf. E. Urbach, */fazal,* 173-174. A related statement is found in *'Avot de-Rebbe Natan,* NusI:ta A, ch. 37, Schechter ed., 110.
 
@@ -117,9 +128,13 @@ Later writers added to this matrix. The tenth-century philosopher Saadia, commen
 There is another matrix of metaphysical concepts which stem from a Judeo-Arabic context. In the Pseudo-Bahya *Treatise on the Soul,* chapter 16 is devoted to an enumeration of the ten levels of created being. The first is referred to as the *shekhinah* (Divine Presence), corresponding to the Active Intellect followed by: the universal soul, nature, *hyle* (universal matter), the sphere, planets, fire, air, water, and finally earth.[^32] This doctrine is clearly related to the formulation found in the ninth-century Islamic writings of the *Ikhwan* 
 
 [^26]: Cf. M. Idel, *"Sefirot," 269.*
+
 [^27]: Pirkei de-R. Eliezer,* ch. 3.
+
 [^28]: Seier Ye?irah,* ch. 1.
+
 [^29]: Saadia, *Perush 'al Seier Ye?irah,* in *Seier Ye?irah ha-Shalem,* J. Kapah ed. (Jerusalem 1972), 46; see also, R. Judah Barzeloni, *Perush 'al Seier Ye?irah,* 116f.
+
 [^30]: See Aristotle's *Categories,* J. Ackrill trans., ch. 4:5.
 31\. Seier ha-Bahir,* R. Margoliot ed., 55:124; cf. *Seier Ye?irah, 1:3.*
 
@@ -136,9 +151,13 @@ Another related doctrine, that was likewise transmitted from Arabic to Jewish ph
 This theory of the ten Separate Intellects was also incorporated into Maimonides' *Guide*[^38]and subsequently, it became a component of Jewish mystical writings. Even in the earliest stratum of the *kabbalah,* one finds evidence of these doctrines. In the *Bahir* mention is made of the ten spheres corresponding to the ten *ma'amarot,39* and 
 
 [^33]: S. Nasr, *An Introduction to Islamic Cosmological Doctrines* (Boulder 1978),51-52. For the study of the writings of the *Ikhwan* in Spain, see there,
+
 [^36]: Solomon ibn Gabirol, *Shirim* Niv~arim, H. Schirmann ed. (Jerusalem 1966),97-105.
+
 [^35]: Ibid.,* 133; see also, Maimonides, *Guide, 1:18.*
+
 [^37]: R. Natanel b. al-Fayyumi, *Gan ha-Sekhalim,* J. Kapah ed. (1954), 3.
+
 [^38]: Maimonides, *Guide of the Perplexed, 2:4.*
 39\. Sefer ha-Bahir,* 78: 179.
 
@@ -156,10 +175,12 @@ It is within this context of the angelic hierarchy that one can consider Maimoni
 40\. G. Scholem, *Origins, 282.*
 
 [^41]: Cf. M. Fakhry, *A History of Islamic Philosophy* (New York 1970), 136f.
+
 [^42]: AI-Farabi, *Idees des Habitants de la cite verteuse,* R. Jaussen trans. (Cairo 1959), 39.
 43\. H. Corbin, *Avicenna and the Visionary Recital* (London 1960), 48. On Avicenna and the Ten Intellects, cf. *Philosophy in the Middle Ages,* A. Hyman ed., 234-235; Avicenna, *al-Risalat al-Arshiya,* in A. Arberry, *Avicenna on Theology* (London 1951), 36f.
 
 [^44]: H. Corbin, *Avicenna, 46.*
+
 [^45]: Maimonides, *Mishneh Torah, "Yesodei ha-Torah," 2:7.*
 
 *[p. 130]* ^pg143
@@ -194,7 +215,9 @@ The reason that the Glory is imperceptible is that this innermost aspect of the 
 52\. See S. Heller-Wilensky, "Isaac ibn Latif-Philosopher or Kabbalist," in *Jewish Medieval and Renaissance Studies,* A. Altmann ed., esp. 215, n. 216 and S. Heller-Wilensky, *"Le-lfeker ha-Mekorot ... ," Divrei ha-Kongres ha-* *'Olami ha-Revi'i,* 2 (1969), 324. 
 
 [^53]: S. Heller-Wilensky, "Isaac ibn Latif," 211. Ibn Latif refers cryptically to "the secret teaching of Rabbi A.," which Heller-Wilensky interprets as referring to R. Abraham of Gerona.
+
 [^54]: See above, p. 37.
+
 [^55]: See above, p. 37.
 56\. On this seminal concept in *Contemplation,* see above, p. 39, n.1O.
 
@@ -216,6 +239,7 @@ When one reduces these statements to their basic components, the following patte
 58\. See above, p. 38f.
 
 [^59]: See above, p. 39.
+
 [^60]: See above, p. 39f.
 
 *[p. 133]* ^pg146
@@ -229,7 +253,9 @@ An initial question that comes to mind is why did the author express his theorie
 It is worth emphasizing that in terms of the recensions of *Contemplation,* it is only in *Contemplation-Short* that this theory of the intra-divine emanation is found. In *Contemplation-Long* the distinction between the Glory and the Holy One, blessed be He, is blurred, and a hypostasis, which bears the characteristics of both, is the only one discussed. We have noted above *Contemplation-Long's* revision 
 
 [^61]: See above, p. 42.
+
 [^62]: See above, p. 42.
+
 [^63]: See above, p. 42.
 64\. See above, p. 48, n. 62.
 
@@ -245,9 +271,13 @@ The classical Jewish source for the concept of Divine Hiddenness is Moses' encou
 Wolfson asserted that Philo was the first philosopher to explicitly formulate the doctrine of Divine unknowability.[^69] Philo contended that Moses prayed for a knowledge of God's essence and that God answered him that only His existence could be known, and it could be known only from the world, but that His essence could not 
 
 [^65]: See above, p. 70, n. 97.
+
 [^66]: See above, p. 83 and p. 103.
+
 [^67]: The monograph by S. Balentine, *The Hidden God* (Oxford 1983), offers an exhaustive study of biblical references to God hiding His face-usually in response to human sin; however, it does not address the theological construct of Divine unknowability.
+
 [^68]: R. Abraham b. David of Posquieres' comment on Maimonides' *Mishneh Torah, "Hi/khot Yesodei ha-Torah,"* 1:10, cited in Karo's *KesefMish-nah,* is intriguing. Rabad concludes by asserting that the terms "face" and "back" represent a "great mystery" that cannot be revealed; cf. I. Twersky, *Rabad,* 289, n. II.
+
 [^69]: H. Wolfson, *Philo* 2 (Cambridge 1947), 119. York 1930), 124ff.
 
 *[p. 135]* ^pg148
@@ -269,6 +299,7 @@ be known by any created being. <sup>70</sup>He based this theory on the above-me
 75\. Cf. W. Tolly, *The Idea of God in the Philosophy of St. Augustine* (New 
 
 [^76]: For example, Dionysius the Areopagite, *On the Divine Names and the Mystical Theology,* C. Rolt trans. (London 1920), 191-194.
+
 [^77]: For example, John Scotus Erigena, *Periphyseon,* M. Uhlfelder trans. (Indianapolis 1976), 3.
 78\. A/-Kindi's Metaphysics,* A. Ivry trans. (Albany 1974), 112. *Ibid.,* 187, n. 160. *79.*
 
@@ -284,13 +315,21 @@ One also finds this theory expressed by Solomon ibn Gabirol in both his philosop
 Other medieval Jewish philosophers also endorsed this position. Saadia asserted, "As for the Creator Himself, however, there is no means whereby anybody can see Him. Aye, that is in the realm of 
 
 [^80]: Cf. AI-Farabi, *Idees des habitants de la cite verteuse* (Cairo 1949), 19ff.
+
 [^81]: See R. Hammond, *The Philosophy of Alfarabi* (New York 1947), 18f.
+
 [^82]: Cf. A. Altmann and S. Stern, *Isaac Israeli* (Oxford 1958), 151.
+
 [^83]: Ibid.,* 92; see also Altmann's discussion of this passage, p. 157.
+
 [^84]: Ibid., 157.*
+
 [^85]: G. Vajda, *"Commentaire kairouanis sur Ie livre de la creation," Revue des Etudes Juijs,* 110 (1949), 76.
+
 [^86]: See for example, *"Keter Malkhut"* in *Selected Religious Poems of Solomon Ibn Gabirol* (Philadelphia 1974), 83, lines 29f. and 84, lines 39f., and lines 44f.
+
 [^87]: Solomon ibn Gabirol, *Mekor /fayyim,* A. Zefaroni ed. (Israel n. d.), 10.
+
 [^88]: Ibid.,* 10.
 
 *[p. 137]* ^pg150
@@ -322,8 +361,11 @@ Accordingly, when the author of *Contemplation-Short* depicted the hidden aspect
 Although *Contemplation-Short's* depiction of Divine incomprehensibility in terms of an imperceptible Glory is well-rooted in classical Jewish sources, its concept ofintra-deical emanation warrants serious consideration. One finds this doctrine explicitly formulated in *The Fountain oj Wisdom,* the other seminal text from the "Circle." Therein it is stated, 
 
 [^96]: Commenting on Exod. 33: 18.
+
 [^97]: Maimonides, *Guide, 124.*
+
 [^98]: Although Saadia's theory of a divinely created, perceptible Glory is commonly portrayed as being the predominant medieval Jewish doctrine, cf. J. Dan, *Torat ha-Sod,* 104ff., numerous medieval luminaries rejected Saadia's formulation. See Ibn Ezra's short commentary on Exod. 33:18 and the references cited above, p. 38, n. 9 to R. Judah Hasid, *Bahir* and Nachmanides. Even R. Eleazar of Worms, who was the most forceful proponent ofSaadia's theories among the ~asidei *'ashkenaz,* was ambivalent on this issue. His discussion of the Glory in *Sodei Razayya, "Hi/khot Ha-Kavot/'* (Bilgoria 1836), 30f., is concerned with a transcendent, Divine entity. Accordingly, a reconsideration of this entire topic is necessary.
+
 [^99]: See above, p. 37f.
 100\. Hekhalot Zutarti,* 25; P. Schafer, *Synopse zur Hekhalot-Literatur* (Tubingen 1981), 148f., \*352.
 
@@ -338,7 +380,9 @@ That is to say, what preceded Me you will be unable to perceive .... Accordingly
 Kabbalistic interpretations of the opening line of Genesis may have also influenced the writers of *Contemplation-Short* and *Fountain.* The initial word *here'shit* (in the beginning of ... ) was associated with the upper *se/irot lO5* and the name *'elohim* (God), with the 
 
 [^102]: See above, p. 55f.
+
 [^103]: See above, p. 57f.
+
 [^104]: Maimonides, *Mishneh Torah, "Yesodei ha-Torah," 1:10.*
 105\. Cf. Nachmanides, *Perush 'al ha-Torah, 11.*
 
@@ -419,8 +463,11 @@ This external pressure was even reflected in the writings of the kabbalists them
 Whereas *Contemplation-Short* was probably written prior to this strident condemnation of the *kabbalah, Contemplation- Thirteen Powers* was most likely written in its wake. [^124]Its author, who seems to have been sympathetic to the *kabbalah-as* evidenced by his references to it-was nevertheless cautious. Accordingly, he only mentions the *sefirot* in passing, toward the end of the treatise. Presumably not 
 
 [^121]: Kabbalat R. Asher b. David, 15.*
+
 [^122]: After listing several kabbalistic commentaries composed by Rabbis Ezra and Azriel, R. Meir admonishes his readers, "Inquire and investigate thoroughly, and if they are in your midst extirpate it from the earth so that it shall not be a stumbling block for you, for indeed we have extirpated those that were found in our midst ... We have written all of this with the approval of our master the great Rabbi, light of Israel, our teacher, R. Meshullam, the son of the great Rabbi, R. Moses, may the Merciful protect him, and other sages of the land" cited in A. Neubauer, "The Bahir and the Zohar," *Jewish Quarterly Review* 4 (1892), 358; cf. G. Scholem, *Origins,* 397ff. See also B. Septimus, "Piety and Power," in *Studies,* I. Twersky ed., 202, and B. Septimus, *Hispano-Jewish,* 165, n. 4 This is a significant forerunner to the subsequent, alleged burning of Maimonides' oeuvre. It is also interesting to consider a comment by Abba Shalom of Bonn, incorporated into a liturgical commentary by the ~asidei *'ashkenaz,* in which he mentions that he defended God's unity by burning unspecified "heretical" books, *Siddur Rabbenu Shlomoh,* M. Hershler ed., 22; J. Peries, *Jubelschrift ... H. Graetz, (1887),* 16; cf. J. Rosenthal, *"Kara'im ve-Kara'ut be-'Eropah ha-Ma'aravit,"* in *"Sefer ha- Yovelle-R. lfanokh Albeck* (Jerusalem 1963), 441.
+
 [^123]: J. Dan ed,. *Kabbalat,* 4, lines 24-26.
+
 [^124]: Concerning a possible textual influence of R. Meir's polemic on *Contemplation- Thirteen Powers,* see above, p. 84, n. 156.
 
 *[p. 145]* ^pg158
@@ -432,6 +479,7 @@ The actual motivation behind the author of *Contemplation-* *Thirteen Powers'* d
 If our hypothesis is correct, and there is a sociopolitical factor that was prompting the transformation of *The Book of Contemplation,* this might also account for another basic difference between the earlier and later recensions of the text. In the earlier versions pseudepigraphy plays a very minor role and is confined to the attribution of the work to R. Hammai. On the other hand, *Contemplation-Standard* and other writings from the "Circle" are replete with fanciful references to rabbinic sages, as well as offering numerous quotations from nonexistent exotic works. This can be viewed as a concerted attempt by these later authors to authenticate and validate their works through the imprimatur of traditional authority. In an age of controversy, such an endeavor is readily understandable. 
 
 [^125]: This issue was discussed at length by J. Dan, *lfugei,* 2-20. Another solution to this problem was proposed by R. Isaac Cohen, who argued that there were ten *sefirot* and three lower entities; cf. G. Scholem, *Kabbalot, 86.*
+
 [^126]: See above, p. 114ff.
 
 *[p. 146]* ^pg159
@@ -447,6 +495,7 @@ Although *Contemplation-Short* and *Fountain* each offer a distinctive theosophi
 One of the major problems in trying to understand *Fountain* is that throughout the text, specific terms and concepts are equated with other epithets or depicted as being their products. Whenever one charts these conceptual relationships, whether it be based on a specific manuscript or published edition, eventually one comes to a point where the equations no longer work and the logic breaks down. It would seem inappropriate to blame these inconsistencies on the writer. In general, he was quite methodical in mapping out his cosmological theories. It seems more likely that the problems in comprehension stem from errors in scribal transmission. 
 
 [^127]: See the sources referred to above, p. 49.
+
 [^128]: G. Scho\\em, *Reshit, 256.*
 
 *[p. 147]* ^pg160
@@ -460,6 +509,7 @@ Upon a careful reading of the text, we can clearly see that both sections are bu
 In the first section of *Fountain,* this mathematical sequence is presented as follows. The base element is the *yod* (i.e., the tenth letter of the alphabet),[^130] which produces the *'alef* (i.e., the first letter). 
 
 [^129]: The thirteenth-century Italian philosopher R. Jacob Anatoli likewise depicts the hierarchical structure of the universe mathematically; cf. A. Ravitzky, *"Ha-Hyposte'zah shel ha-lfokhmah ha- 'Elyonah," Italia* 3 (1982), 25f.
+
 [^130]: Not only is *yod* the tenth letter and hence an appropriate symbol for the base-ten counting system, but also it is the smallest letter of the alphabet and looks like a dot with a tail; hence it has graphic significance, as well. For an interesting discussion of the *yod,* cf. R. Jacob Cohen, *"Explanation of the Letters,"* in J. Dan, *Early Kabbalah,* 161f.
 
 *[p. 148]* ^pg161
@@ -512,6 +562,7 @@ Know that the Holy One, blessed be He, was the first existent being. Only that w
 140\. See above, p. 59.
 
 [^141]: See above, p. 61.
+
 [^142]: See above, p. 55\[.
 
 *[p. 151]* ^pg164
@@ -527,7 +578,9 @@ For His existence depends upon Himself, that is to say, He is caused by Himself 
 How did it (i.e., God's manifestation) begin? By what way did it proceed or stand? By which path was it? Was it one lane or many lanes, or numerous divisions, or by which modes did it proceed?[^145] This rather convoluted passage is then explained in the following manner. 
 
 [^143]: Maimonides, *Mishneh Torah, "Yesodei ha-Torah,"* 1:1; see above p. 139.
+
 [^144]: Vatican ms. 290, f. 63b.
+
 [^145]: See above, p. 56.
 
 *[p. 152]* ^pg165
@@ -584,6 +637,7 @@ The technical term *'avir kadmon* ("Primal Ether") is not evidenced in classical
 158\. Among the writings in the latter part of the thirteenth century that used the term *'avir kadmon,* presumably under the influence of *Fountain,* are R. Abraham Abulafia, *Ve-Zot le-Yehudah,* 17, and R. David ha-Lavan, *Masoret ha-Brit,* G. Scholem ed., Kove~ *'al Yad,* 1 (1936), 36. 
 
 [^159]: See below, p. 203.
+
 [^160]: Mention can also be made ofR. Elhanan b. Yakar, who was a member of the Unique Cherub circle, which appears to have been operating in Northern France in the first half of the thirteenth century. R. Elhanan refers to
 
 *[p. 155]* ^pg168
@@ -644,6 +698,7 @@ And thus R. Abraham Ibn Ezra said, "You shall see My Back, but My Face will not 
 It (i.e., Primal Darkness) is \[also\] called the Light That Is Darkened From Illuminating, for it is hidden and impossible to know the essence of the existence of this darkness. Accordingly, it is called Darkening Darkness; not because it resembles murk, but because no creature can look at it. Even the angels seated in the front row of the Kingdom of Heaven lack the power to look at it. It is like a human who lacks the power to look at the eye of the harsh sun. Moreover, all of the lights emerge from it, and therefore, it is only called Darkening Darkness because it is exalted, hidden, and concealed from all perception by the prophets. [^173] In seeking precursors to *Fountain,* one can find in the Pseudo-Bahya *Treatise on the Soul,* written around 1100, a lengthy discussion on the differentiation between the quality of darkness that is simply 
 
 [^172]: Cited in J. Dan, *ijugei, 127.*
+
 [^173]: See above, p. 59f.
 
 *[p. 159]* ^pg172
@@ -655,9 +710,13 @@ From absolute darkness He emanated the *havayot* that were in darkness. 'And lig
 In summation, we have noted that numerous texts prior to *The Fountain of Wisdom* address the theme of darkness as a primal element that functioned as one of the roots in the process of creation. To be sure, this is an important feature of *Fountain's* cosmogony. 
 
 [^174]: Pseudo-Bahya, *Kitab Ma'ani al-Naft,* I. Broyde, ch. 3, pp. 7 and 8. See also Maimonides' discussion of darkness as the nonluminous primal element fire, *Guide, 2:30.*
+
 [^175]: M. Idel, *"Sefirot,"* 242; cf. the sources listed by Idel there, n. 17, and in his *"Jfomer Kabbali,"* 181, n. 58. This concept of darkness is already evident in the writings of R. Isaac the Blind, see his commentary on *Sefer* Ye~irah, 10, as well as the text *'Inyan Ma'aseh Bere'shit,* J.T.S. 1187, f. 29, attributed either to R. Isaac or R. Ezra. For darkness as a primordial element in the writings ofR. Elhanan b. Yakar, see J. Dan, *Jfugei,* 133. On R. Azriel, see A. Altmann, "The Motif of the Shells ... ," *Journal of Jewish Studies, 9* (1958), 74ff. In R. Azriel's writings darkness is related to limitation and differentiation. This parallels Nachmanides' discussion of darkness and ~im~um (contraction), *Perush le-Sefer* Ye~irah, G. Scholem ed., 402.
+
 [^176]: G. Scholem, *"Te'udah Jfadashah," 158.*
+
 [^177]: R. Azriel, *Perush ha- 'Aggadot, 86.*
+
 [^178]: R. Azriel, *Perush ha- Te/Wah,* Bodleian ms. 1938, f. 213a. This term is ultimately based on Isa. 5:30, *'or* ~ashakh (the darkened light).
 
 *[p. 160]* ^pg173

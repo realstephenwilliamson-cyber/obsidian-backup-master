@@ -91,29 +91,55 @@ chapter: 1
 **11.** When [an animal] swishes its tail repeatedly in an abnormal manner and causes damage in the public domain, or when it swishes its sexual organ and causes damage in the public domain, [the owner] is not held liable. If the person whose property was damaged seizes possession [of property belonging to the owner], he may take payment for half of the damages.[^26] [The rationale for that ruling is that] there is an unresolved question whether these acts are derivatives of goring, in which case [the owner] is liable [for damage caused] in the public domain, or whether they are derivatives of treading, in which case [the owner] is not liable [for damage caused] in the public domain, as has been explained.[^27] ^1-11
 
 [^1]: Sefer HaMitzvot (Positive Commandment 237) and Sefer HaChinuch (Mitzvah 51) consider this to be one of the Torah's 613 mitzvot. This mitzvah can be defined as compensating an owner for damages caused by one's animals through an action that they would not ordinarily perform.
+
 [^2]: I.e., the owner is obligated to reimburse the person whose property was damaged for his loss. If the owner does not have cash readily available, his most valuable landed property should be expropriated and sold to pay the damages his animal caused.
+
 [^3]: Payment of these damages is also considered one of the Torah's 613 mitzvot Sefer HaMitzvot (Positive Commandment 240) and Sefer HaChinuch (Mitzvah 55). This mitzvah can be defined as compensating an owner for damages caused by one's animals through an action that they would ordinarily perform.
+
 [^4]: 100 zuz.
+
 [^5]: As the Rambam proceeds to illustrate, the damages caused by the ox do not create a lien on all the property belonging to the owner of the ox.
+
 [^6]: The commentaries have cited the apparent redundancy in the citation of the proof-text.
+
 [^7]: Thus the owner of the dead ox receives only the worth of the ox which gored, 20 zuz, 30 zuz less than what would be due him.
+
 [^8]: Mu'ad literally means forewarned - i.e., the animal is prone to perform such acts, and the owner should be forewarned.
+
 [^9]: Tam literally means simple, implying that the animal is not habituated in the performance of the abnormal behavior.
+
 [^10]: I.e., for that activity alone, and not for any other abnormal activity (Maggid Mishneh).
+
 [^11]: I.e., to attack an animal with a part of its body other than its horns (Rambam's Commentary on the Mishnah, Bava Kama 1:4).
+
 [^12]: Even when these animals have been raised in a home and do not outwardly show wild traits, their tendency to violence is considered part of their instinct, never to be eradicated fully.The Ramah (Choshen Mishpat 389:8) states that these animals are considered mu'adim only with regard to the specific negative traits for which they are known. If they cause damage in other ways, they are considered as tamim.
+
 [^13]: This is the verse that describes the payment of damages caused by grazing. It emphasizes that the owner is liable for damages caused in another's field, and not in his own.The Ramah (Choshen Mishpat 389:10) and others cite [[Bava Kamma 21#21b|Bava Kama 21b]], which interprets this verse in a more specific and somewhat different manner. It would appear, however, that the Rambam is not referring to the exegesis of the verse by the Talmud, but is instead presenting the simple meaning of the verse as a support for the premise stated previously.
+
 [^14]: This applies when the party who suffered the damages placed produce there without receiving permission from the owner. If, however, he received permission from the owner, it is considered as though it were his own courtyard. See Shulchan Aruch and Ramah (Choshen Mishpat 389:16).
+
 [^15]: In the Guide for the Perplexed, Volume III, Chapter 40, the Rambam explains that this law is based on a logical premise. Since this is an animal's natural habit, it is difficult for the owner to prevent his animal from causing such damage. Moreover, the person whose property was damaged should have foreseen the problem and not left anything of value in such places.
+
 [^16]: For this represents a departure from the animal's natural pattern, for which its owner is held responsible.
+
 [^17]: Although both types of animals have the right to proceed in the public domain, neither has the right to damage the other animal. Therefore, the owner of the animal that caused the damages must assume responsibility.
+
 [^18]: I.e., the owner of the animal that caused the damage and the party who suffered the damages.
+
 [^19]: Since he brought his animal into a place where an animal should not enter, he must bear responsibility.
+
 [^20]: Since only the other partner was allowed to bring his produce there, in this regard it is considered his courtyard, and the owner of the animal is liable.
+
 [^21]: When it has no desire to eat, i.e., biting for a violent and destructive intent (Maggid Mishneh).
+
 [^22]: All these are acts performed by an animal with a desire to harm the animal (or object) it strikes, without any intention to derive any benefit from it.
+
 [^23]: The acts that follow are damages caused by an animal when it follows its ordinary pattern and seeks its own benefit.
+
 [^24]: This refers to soiling produce by rolling upon it, not by defecating (Ibid.). Ruining an object by defecating is considered to be a derivative of kicking stones (Shulchan Aruch, Choshen Mishpat 390:8). See Chapter 2, Halachah 13.
+
 [^25]: All the acts that follow are damages caused by an animal without any intent, that are likely to be caused when it proceeds in an ordinary manner (Shulchan Aruch, Choshen Mishpat 390:1).
+
 [^26]: As the Rambam proceeds to explain, these instances are the subject of an unresolved Talmudic debate ([[Bava Kamma 19#19b|Bava Kama 19b]]). Because of the doubt involved, payment is not exacted from the owner, and for this same reason the person whose property was damaged may not seize the owner's property. If, however, he did seize the owner's property, the same rationale is advanced on his behalf. Since the property may rightfully belong to him, because of the doubt, we do not expropriate the property and return it to its owner.In any case, all that is involved is half of the damages, because the reason why one might hold the owner liable is that these activities are derivatives of goring. And for goring, the owner is required to pay only half the value of the damages.The Rambam's opinion is quoted by the Shulchan Aruch (Choshen Mishpat 390:2). The Ramah cites the opinion of the Ramban and the Tur, who maintain that when a question of law is unresolved, and one party seizes the other's property, the property that was seized must be returned.
+
 [^27]: See Halachah 8.

@@ -130,70 +130,135 @@ If, however, one slaughtered [a sacrificial animal] inside [the Temple Courtyard
 If one slaughtered [a fowl] in [the Temple Courtyard][^65] and offered it outside, he is exempt, for he offered something that is not fit to be offered. If he slaughtered the fowl outside [the Temple Courtyard] and offered it outside, he is liable twice,[^66] because slaughtering a fowl outside [the Temple Courtyard] is acceptable. It is comparable to performing *melikah* inside. ^18-18
 
 [^1]: *Sefer HaMitzvot* (positive commandment 84) and *Sefer HaChinuch* (mitzvah 440) include this commandment as one of the Torah's 613 mitzvot.
+
 [^2]: The *Kessef Mishneh* explains that this excludes sacrifices from fowl, but this understanding is not accepted by all authorities.
+
 [^3]: *Temurah* [[Temurah 21#21a|21a]] states that the firstborn offering is not included in this commandment.
+
 [^4]: *Sefer HaMitzvot* (positive commandment 85) and *Sefer HaChinuch* (mitzvah 453) include this commandment as one of the Torah's 613 mitzvot. The Ramban differs and maintains that this should not be considered as an independent mitzvah.
+
 [^5]: The one stated in the previous halachah.
+
 [^6]: *Sefer HaMitzvot* (negative commandment 90) and *Sefer HaChinuch* (mitzvah 186) include this prohibition as one of the Torah's 613 mitzvot. There are several historical dimensions to this prohibition. First of all, in the era between the destruction of the Sanctuary of Shiloh and the construction of the Temple, it was permitted to offer sacrifices on *bemot* (literally, "high-places"), i.e., individual altars. See the notes to *Hilchot Beit HaBechirah* 1:3 which explain the transition between these periods. It is also relevant with regard to the sanctuary constructed by Chonio, the son of Shimon the Just, described in the notes to *Hilchot Bi'at HaMikdash* 9:14.
+
 [^7]: Literally, the soul's being cut off. This involves premature death in this world (before the age of 50, *Mo'ed Kattan* [[Moed Katan 28#28a|28a]]) and the soul not meriting a portion in the world to come (*Hilchot Teshuvah* 8:1).
+
 [^8]: This term is used to distinguish this sacrifice from the adjustable guilt offering. See *Hilchot Shegagot* 1:4.
+
 [^9]: *Sefer HaMitzvot* (negative commandment 89) and *Sefer HaChinuch* (mitzvah 439) include this prohibition as one of the Torah's 613 mitzvot.
+
 [^10]: This applies even if he performed both transgressions without realizing the prohibitions involved in the interim, for they are two separate transgressions that are not dependent on each other (Radbaz).
+
 [^11]: I.e., the animals mentioned in *Hilchot Issurei Mizbeiach*.
+
 [^12]: See *Hilchot Pesulei HaMukdashim* 4:1 for a definition of this term.
+
 [^13]: It is, however, forbidden to do so.
+
 [^14]: The source for this prohibition, as stated in Halachah 3.
+
 [^15]: See the following halachah.
+
 [^16]: See Halachah 9.
+
 [^17]: It is, however, forbidden to do so.
+
 [^18]: The prohibition involves slaughtering sacrificial animals and since these animals are not fit to be sacrificed or their owners are not fit to sacrifice them, they are not considered sacrificial animals in the full sense.
+
 [^19]: See *Hilchot Issurei Mizbeiach* 3:8 which states that it is a positive commandment to offer sacrificial animals after eight days of life, but not before.
+
 [^20]: See *ibid.*:2 which states that "Turtledoves are acceptable when [their feathers all] are of a golden hue." Before this stage, they are not acceptable (*ibid.*:9).
+
 [^21]: See *Hilchot Shechitah* 12:1-2 which states that it is forbidden to sacrifice an animal and its offspring on the same day. No matter which is slaughtered first, one must wait until the following day to sacrifice the other.
+
 [^22]: A person with a physical affliction somewhat similar to gonorrhea that renders one ritually impure and obligates him to bring a set of sacrifices (see *Hilchot Mechusrei Kapparah* 1:1, 3-4; 2:1).
+
 [^23]: A woman who bleeds for three consecutive days after the seven days associated with her menstrual period. This renders her ritually impure and obligates her to bring a set of sacrifices (see *ibid.* 1:1, 3-4,6)
+
 [^24]: Who is ritually impure after giving birth and must bring a set of sacrifices (see *ibid.* 1:1, 3, 5).
+
 [^25]: As explained in the above sources, a *zav* and a *zavah* must wait seven "spotless days" after their condition ceases before bringing their sacrifices. A woman must wait 40 days after giving birth to a male and 80 days after giving birth to a female before bringing her sacrifices.
+
 [^26]: A skin affliction similar to, but not identical with leprosy that is a spiritual manifestation of the impurity resulting from improper speech (the conclusion of *Hilchot Tuma'at Tzara'at*). Such a person must bring a set of sacrifices when emerging from ritual impurity (see *Hilchot Mechusrei Kapparah* 1:1, 3-4).
+
 [^27]: Such a person must also wait seven days after his condition ceases before bringing his sacrifices.
+
 [^28]: The sacrifices of all of these individuals include a burnt-offering and a sin-offering and the sacrifice of a person emerging from *tzara'at* also includes a guilt-offring.
+
 [^29]: To appease God and restore His favor.
+
 [^30]: See *Hilchot Nezirut*, ch. 8, for the details regarding the sacrifices a nazirite must bring upon completion of his nazirite vow. He may not bring these sacrifices beforehand.
+
 [^31]: See *Hilchot Shegagot*, Chapter 8, for a description of the situations which warrant bringing these sacrifices.
+
 [^32]: See *Hilchot Mechusrei Kapparah* 1:7 which describes the situations under which such sacrifices should be brought.
+
 [^33]: With regard to these sacrifices, it is possible that it will be discovered that the person definitely did sin. In such an instance, the sacrifice is not offered. If the sacrificial animal has not been slaughtered, it is left to pasture until it contracts a blemish. If it was slaughtered, its blood is poured down the drainage channel. Since there is a possibility of this taking place, the animal is not deemed a sacrificial animal in the full sense and one is not liable for slaughtering it or offering it.  
     The Ra'avad accepts the Rambam's ruling with regard to a sin-offering of fowl brought because of a doubt since only its blood is offered on the altar, but not its body. Hence, there is room to free one from the obligations involved with a sacrificial animal. Nevertheless, he argues, a conditional guilt-offering is offered on the altar. Hence one should be liable for slaughtering and offering it outside the Temple. The Radbaz and the *Kessef Mishneh* question the Ra'avad's objection, noting that the Rambam's ruling has its basis in *Keritot* [[Keritot 18#18a|18a]].
+
 [^34]: As stated in *Hilchot Pesulei HaMukdashim* 15:1, with the exception of a sin-offering or a Paschal sacrifice, whenever a sacrificial animal was slaughtered for the sake of an offering other the one for which it was intended, it is acceptable, but it does not fulfill the obligation of the owner (see also *ibid.*:20). Since the sacrifice would be acceptable if it was offered in the Temple, the person is liable for slaughtering it outside.
+
 [^35]: The goat sent to Azazel and its pair whose blood is taken into the Holy of Holies. See *Hilchot Avodat Yom HaKippurim* 1:1.
+
 [^36]: More precisely, the confessional is recited only over the one sent to Azazel (*ibid.* 4:2).  
     The Ra'avad objects to the Rambam's ruling, maintaining that the matter is dependent not only the confessional, but on the lottery in which the goats are designated for their respective purposes. The Radbaz and the *Kessef Mishneh* explain that the Rambam's ruling is based on *Zevachim* [[Zevachim 113#113a|113a]]. Although there are other interpretations of that passage, the Rambam has a foundation for his decision.
+
 [^37]: Or for either of them, were he to slaughter only one.
+
 [^38]: See Chapter 5, Halachah 5, which states that the gates to the Temple building must be open for the slaughter of peace offerings to be acceptable.
+
 [^39]: The *Kessef Mishneh* emphasizes that this applies only during the remainder of the year. The rationale is that as explained below, during the remainder of the year, an animal designated as a Paschal sacrifice is considered as a peace-offering and a peace-offering is not disqualified if it is not offered for the desired intent. On the day preceding Pesach, when the Paschal sacrifice is offered, it is unacceptable if it is not offered for the desired intent. Hence on that date, were someone to slaughter an animal designated for this purpose for the sake of another sacrifice outside the Temple Courtyard, he would not be liable.
+
 [^40]: See *Hilchot Korban Pesach* 4:7. Since it is considered as a peace-offering, just as one is liable for slaughtering an animal designated as a peace-offering outside the Temple Courtyard, so too, he is liable for slaughtering such an animal.
+
 [^41]: Since the fetus it is carrying will later be offered as a sacrifice, it is forbidden to cause that sacrifice to be disqualified.
+
 [^42]: Neither the mother nor the fetus.
+
 [^43]: Even though the animal did not belong to him and hence, he had no right to consecrate it, our Sages considered it as his own so that he would be liable for *karet*. See *Gittin* [[Gittin 55#55b|55b]]. The *Kessef Mishneh* raises questions on the Rambam's ruling based on that passage, but Rav Yosef Corcus resolves the Rambam's decision.
+
 [^44]: For then it is still considered as belonging to the owner. Hence, the thief's consecration is not effective. See *Hilchot Issurei Mizbeiach* 5:7 which speaks of the disqualification of a thief's offering. From *Hilchot Geneivah* 2:6, it appears that the thief must have also consecrated the animal after the owner's despair and not before. Otherwise, the consecration would not be effective.
+
 [^45]: *Karet* or lashes for slaughtering the animal outside the Temple Courtyard.
+
 [^46]: The *Kessef Mishneh* notes that *Zevachim* [[Zevachim 107#107b|107b]] uses this prooftext to teach the following concept: that one who slaughters on the roof of the Temple Building is exempt. Hence he suggests that a printing error crept into the *Mishneh Torah* and that the text should be amended to fit the Talmud's teaching. This conception is not, however, shared by all authorities.
+
 [^47]: See Chapter 5, Halachah 4.
+
 [^48]: For he did not slaughter the animal outside the Temple Courtyard.
+
 [^49]: Note the contrast to Chapter 19, Halachah 12, with regard to offering an animal as a sacrifice.
+
 [^50]: The verses use a singular form.
+
 [^51]: The commentaries note that although the Rambam's ruling has a source in *Zevachim* [[Zevachim 108#108a|108a]] and in the *Sifri*, his process of exegesis is different than that used in those sources.
+
 [^52]: But instead was slaughtering it for mundane purposes.
+
 [^53]: In this as well, there is a contrast to offering an animal as a sacrifice, as stated in Chapter 19, Halachah 1.
+
 [^54]: Here also, the Rambam's method of exegesis is different from that of his apparent source, *Zevachim* [[Zevachim 108#108b|108b]]. Significantly, in his Commentary to the Mishnah (*Zevachim* 13:3), he cites the method of exegesis used by the Talmud.
+
 [^55]: Literally, "poured out."
+
 [^56]: I.e., an ordinary animal, not one designated as a sacrifice.
+
 [^57]: The Ra'avad maintains that the person is exempt in such a situation. The Radbaz justifies the Rambam's ruling, explaining that there is a fundamental difference between slaughtering an animal inside the Temple Courtyard and slaughtering it outside. When it is slaughtered inside the Temple Courtyard at night, it is disqualified as a sacrifice, because of it having been slaughtered at night and hence, it is not acceptable wherever it was offered. If, by contrast, it was slaughtered outside the Temple Courtyard, it becomes placed in the category of animals slaughtered in such a place. Hence the time when it is offered is not significant. The *Kessef Mishneh* also justifies the Rambam's approach.
+
 [^58]: Even during the following day (*Kessef Mishneh*).
+
 [^59]: See *Hilchot Pesulei HaMukdashim* 3:6.
+
 [^60]: See Chapter 4, Halachah 1.
+
 [^61]: This disqualifies the sacrifice, for as stated in Chapter 5, Halachah 1, the blood of a sacrificial animal must be received in a sacred vessel.
+
 [^62]: For the animal was no longer acceptable as a sacrifice.
+
 [^63]: For the prooftext defining the prohibition ([[Torah 29 - Achrei Mot#^17-3|Leviticus 17:3]] mentions slaughter, but not *melikah* (*Zevachim* [[Zevachim 107#107a|107a]]).
+
 [^64]: This is equivalent to slaughtering an animal inside the Temple Courtyard and offering it outside.
+
 [^65]: Thus disqualifying it, for in the Temple Courtyard, a fowl should be killed through *melikah* not ritual slaughter.
+
 [^66]: Both for slaughtering and for offering.

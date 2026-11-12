@@ -170,47 +170,88 @@ Even if the three days she is granted during the period of *na'arut* are all non
 When a man has relations with a girl below the age of three and she bleeds, this is hymeneal bleeding. ^5-25
 
 [^1]: I.e., not only does a woman become impure when she suffers ordinary menstrual bleeding, she becomes impure when that bleeding appears to be brought on by an external cause.
+
 [^2]: And we assume the unusual exertion brought on the uterine bleeding.
+
 [^3]: Our Sages appreciated that sexual desire could produce uterine bleeding.
+
 [^4]: We have given a biological term for the metaphoric term used by our Sages which literally means "between the teeth." For a woman to become impure, the blood must emerge from the upper portion of the vaginal channel and reach the lower portion, as explained in Halachah 5.
+
 [^5]: And blood there does not render a woman ritually impure.
+
 [^6]: *Niddah* [[Niddah 17#17b|17b]].
+
 [^7]: The term used by our Sages literally means "the neck of the uterus."
+
 [^8]: See the Rambam's Commentary to the Mishnah (*Niddah* 2:4) where he describes these terms in greater detail, drawing on his medical knowledge.
+
 [^9]: Blood which flows after childbirth as mentioned in Chapter 4, Halachah 5.
+
 [^10]: Chapter 7, Halachah 2.
+
 [^11]: For it is forbidden to enter the Temple while ritually impure.
+
 [^12]: When *terumah* or sacrificial food becomes ritually impure, it is no longer fit for consumption and must be burned. If, however, it did not become impure, it is forbidden to burn it. The fact that we burn these objects after such a woman touches them indicates that she has become impure according to Scriptural Law.
+
 [^13]: She is, however, forbidden to enter the Temple and forbidden to touch *terumah* or sacrificial foods. Similarly, she is forbidden to engage in relations with her husband. This is particularly true in the present age. We rule stringently and forbid a woman to her husband no matter where the blood is discovered [the Rambam's Commentary to the Mishnah (*Niddah* 2:7)].
+
 [^14]: In halachic terminology, the Hebrew term *yarok* can also mean yellow or golden. See *Shulchan Aruch* (*Yoreh De'ah* 188:1) which discusses this issue.
+
 [^15]: Implied is that if the stain does not match any of these colors, even if it has a red tint, it does not render the woman impure. This, however, applied in Talmudic times when the Rabbis were able to carefully distinguish between different shades of red. At present, however, if a stain has a red tint, it should be considered impure. We do not attempt to make these fine distinctions (Rambam, Commentary to the Mishnah, *Niddah* 2:7; *Siftei Cohen* 188:1).
+
 [^16]: In his Commentary to the Mishnah (*Niddah* 2:6), the Rambam explains that certain factors will turn red blood to black.
+
 [^17]: A region not far from the Mediterranean Coast, slightly northeast of present day Tel Aviv.
+
 [^18]: As mentioned above, in the present age, we rule stringently with regard to all shades of red. Nevertheless, this law applies with regard to secretions of other colors even in the present age. A sage can make a ruling based on a woman's description. If, however, a secretion appears to be blood, but a woman protests that a sage ruled that such a secretion did not render her impure, her word is not accepted [*Maggid Mishneh*; *Shulchan Aruch* (*Yoreh De'ah* 188:2)].
+
 [^19]: The commentaries to *Niddah* [[Niddah 21#21a|21a]] interpret this as meaning that if the cup contains two *luggin*, it should not weigh more than a *maneh*. In this way, its walls will not be overly thick.
+
 [^20]: As mentioned above, in the present age, we rule that any stain that appears red is considered impure. Nevertheless, the technique used by the Rambam is valuable in determining whether a stain is considered as red or not.
+
 [^21]: This is not speaking about a woman who miscarries, but rather about one who has a problem about the degeneration of her internal organs. The Rambam, based on *Niddah* [[Niddah 21#21b|21b]], is stating that as long as the piece of flesh is not accompanied by blood, the woman's difficulties do not render her ritually impure.  
     This ruling is the subject of a difference of opinion in the Talmud and not all *Rishonim* accept the Rambam's ruling (see the objections of the Ra'avad and others). It is, however, accepted by the *Shulchan Aruch* (*Yoreh De'ah* 188:3) provided the piece of flesh is small. If, however, it is large, the *Shulchan Aruch* rules that she is impure, because it is impossible for the uterus to open and discharge a large piece of flesh without expelling a certain amount of blood as well. The woman would become impure because of the expulsion of that blood.  
     (The *Maggid Mishneh* explains that the difference between the positions of the Rambam and the Ra'avad concerning an issue of a larger scope: Is it possible for the uterus to open without bleeding or not? The Rambam rules that this possible and hence, the woman is pure even if the piece is large. The Ra'avad maintains that she is impure, because it is impossible for the uterus to open without bleeding.)
+
 [^22]: The Rambam's opinion here is also contested by other *Rishonim*. The *Tur* (*Yoreh De'ah* 188) rules that even if the piece of flesh is accompanied by blood and the blood touches the woman's body, she is not impure, for this is not the ordinary way in which a woman experiences uterine bleeding. This ruling is quoted by the *Shulchan Aruch* (*Yoreh De'ah* 188:3).
+
 [^23]: See *Shulchan Aruch* (*Yoreh De'ah* 188:6) which quotes the Ra'avad's view that whenever a woman discovers a particle of dried blood, she is impure, even if it does not dissolve. The *Shulchan Aruch*, however, also quotes the views of Rav Zerachiah HaLevi and Rabbenu Asher who maintain that even in such an instance, the ruling depends on whether the particle dissolves or not.
+
 [^24]: The *Shulchan Aruch* (*Yoreh De'ah* 194:3) follows the ruling of other *Rishonim* who maintain that in such a situation, we assume that these forms are the preliminary stages of a fetus. Hence, the woman is impure - as if she had miscarried - whether or not bleeding accompanies the expulsion of these forms.
+
 [^25]: See *Shulchan Aruch HaRav* (*Yoreh De'ah* 188:8) which emphasizes that according to the *Shulchan Aruch*, this is referring to a thin tube which can be inserted into the uterus without causing the uterus to open substantially. If, however, the tube is thick and the uterus must open substantially, that alone is sufficient to render a woman ritually impure.
+
 [^26]: The *Shulchan Aruch HaRav* (*loc. cit.*) emphasizes that the leniency is not granted because the tube interposes between the blood and the woman's flesh and therefore the literal meaning of the verse is not fulfilled. Instead, the reason is - as the Rambam clarifies - because this is not the ordinary manner in which women expel blood.
+
 [^27]: As the Rambam explains, we assume that the bleeding comes from the urinary tract and not the uterus. The Rambam's view is quoted by the *Shulchan Aruch* (*Yoreh De'ah* 191:1). The *Tur* and the Rama cite more stringent views. In practice, a woman with such a condition should consult a gynecologist for a precise determination of her medical condition and give this information to a Rav who - on this basis - will rule on her halachic status.
+
 [^28]: One might think that these physical sensations indicate the onset of menstruation.
+
 [^29]: It must be emphasized that all the laws that follow applied only in the Talmudic era. At present, the Jewish people have accepted upon themselves the stringency of considering even the slightest drop of blood as requiring a wait of seven "spotless" days. Accordingly, when a woman suffers hymeneal bleeding - even if she knows that it is not at all connected with her menstrual cycle, she is considered impure and must wait seven "spotless" days (Chapter 11, Halachot 4,8).  
     Note the comments of the Ra'avad and the *Kessef Mishneh* concerning when this stringency was adopted. Is it of Talmudic origin or was it originated in the post-Talmudic period?
+
 [^30]: Even if she menstruated, since she has not come of age, we assume that this is an abnormal occurrence which will not repeat itself.
+
 [^31]: A girl between the age of twelve and twelve and a half who has already manifested signs of physical maturity.
+
 [^32]: Since she never menstruated before, we assume that she still is suffering hymeneal bleeding and not that she has begun to menstruate.
+
 [^33]: Since she menstruated before, we recognize the possibility that this is also menstrual blood. Hence, we require the couple to separate. The Ra'avad protests the Rambam's ruling, noting that it follows the position of the School of Shammai, not the School of Hillel. The *Maggid Mishneh* supports the Rambam's decision, noting that *Niddah* [[Niddah 65#65b|65b]] mentions the opinions of two Amoraim which support this view, indicating that in this instance the opinion of the School of Shammai is followed.
+
 [^34]: I.e., she has reached the age of twelve and half and manifested signs of physical maturity at age twelve.
+
 [^35]: I.e., that night the couple may engage in relations as many times as they desire. Needless to say, if she has already menstruated, the couple must separate after the first time they engage in relations (*Maggid Mishneh*).
+
 [^36]: More specifically, days and nights as stated in the previous halachah.
+
 [^37]: And also, of course, that the woman has not begun to menstruate. If during the passage of time, she reaches full majority, she is given only one night from that time onward (Rabbi Akiva Eiger).
+
 [^38]: As stated in Halachah 19. Thus she is given three more opportunities to engage in relations.
+
 [^39]: Since she is sitting on a soft surface, the wound will not be aggravated.
+
 [^40]: Even though her bleeding is not consistent.
+
 [^41]: Hence she is deemed impure and forbidden to engage in relations with her husband.
+
 [^42]: Hence we do not apply all the stringencies mentioned in the conclusion of ch. 4.

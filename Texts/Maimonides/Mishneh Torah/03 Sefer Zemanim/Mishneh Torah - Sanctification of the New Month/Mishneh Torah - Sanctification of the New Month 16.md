@@ -72,30 +72,53 @@ What is implied? When the course of the latitude is 53 degrees, [the size of the
 [To arrive at the latitude,] you must subtract the position of the head from the position of the moon, leaving a course of the latitude of 231 degrees and 6 minutes, in symbols 231° 6'. [As mentioned,] the minutes are of no consequence with regard to the course. Therefore, according to the principles explained in this chapter, the angle of this course will be 3 degrees and 53 minutes. This is the latitude of the moon at the beginning of this night. It is southerly, for the course is larger than 180 degrees. ^16-19
 
 [^1]: More specifically, as mentioned in Halachah 9, the maximum angular distance between the two orbits is 5 degrees.
+
 [^2]: The importance of the concept the Rambam introduces here, the difference in latitude between the planes of the orbits of the sun and the moon, becomes significant in the following chapter.  
     To explain briefly: In the previous chapters, it was explained that the visibility of the moon depends upon the distance in longitude between it and the sun. At the time of conjunction, the sun and the moon are at the same longitudinal point. Therefore, they set at the same time. As the difference in longitude between them increases, the crescent of the moon grows and the time of its setting becomes later, increasing the chances of its visibility.  
     Nevertheless, the moon's latitude also affects its visibility. The greater the latitude of the moon [i.e., its inclination from the orbit of the sun] the larger its crescent will appear. Also, a northerly latitude causes the moon to set later and thus makes it easier to be sighted. A southerly latitude, by contrast, causes the moon to set earlier and thus makes sighting it more difficult.
+
 [^3]: The difference in latitude between the orbits of the sun and the moon explains why there is not a lunar eclipse at every full moon, and why there is not a solar eclipse at every conjunction - although at the time of the full moon, the sun, the earth and the moon are aligned in a single line, and at the time of conjunction, the sun, the moon and the earth are aligned in a single line.  
     Although the longitude of the sun and the moon is the same at these times, since their latitudes are different, the moon's shadow does not interfere with the light of the sun at a conjunction, and the earth's shadow does not prevent the light of the sun from reaching the moon at a full moon. Only when a conjunction or a full moon takes place at (or near) the point where the orbits of the moon and the sun intersect does an eclipse take place.
+
 [^4]: Because of the revolution of the head, the determination of the moon's longitude will require several stages of computation.
+
 [^5]: I.e., the head revolves from east to west.
+
 [^6]: As evident from the later figures given by the Rambam, this number is an approximation, and the actual figure is several thirds less.
+
 [^7]: The Rambam is giving a negative figure here, his intent being 360° - 180° 57' 28. In positive terms, it would be a position of 179° 2' 32.
+
 [^8]: This subtraction is necessary, since, as mentioned above, the head revolves from east to west, opposite to the direction of the heavenly sphere as a whole.  
     Thus, we begin with a negative value as a starting point and add to it the distance traveled by the head. When that total is subtracted from 360, we have a positive figure that is the true position of the head. The reason the Rambam uses a negative figure for his starting point is that as the numbers increase, it is easier to add the mean distance traveled by the head to the starting point of 180° 57' 28 and subtract the total from 360, than to define the starting point in positive terms and subtract the mean progress from it.
+
 [^9]: As mentioned previously, the head and the tail are the positions where the moon's orbit intersects with that of the sun. Thus, if the moon is at the head or the tail, it is not at all inclined.
+
 [^10]: We have used a non-literal translation of the word ינפל in this and the following sentence based on the context in this halachah.
+
 [^11]: I.e., the difference between the position of the moon and the position of the head is less than 180 degrees, as stated in Halachah 10.
+
 [^12]: I.e., the difference between the position of the moon and the position of the head is more than 180 degrees, as stated in Halachah 10.
+
 [^13]: The Hebrew term רחב הירח literally means "the width of the moon." It was given this name because its range from 0° to 5° is far less than that of the longitude of the moon, ארך הירח, the angular distance between the moon and the sun, which ranges from 0° to 360°.
+
 [^14]: According to contemporary science, the Rambam is making an approximation, for the latitude of the moon can reach 5 degrees and 9 minutes.
+
 [^15]: As indicated from Halachah 11, this is the mid-point between the head and the tail, 90° and 270°.
+
 [^16]: I.e., the distance the moon has traveled in its orbit from the head to its present position.
+
 [^17]: This refers to the angle between the plane of the sun's orbit and the position of the moon in its orbit.
+
 [^18]: As stated above, this is the greatest latitude reached.
+
 [^19]: See Chapter 13, Halachah 7, and Chapter 15, Halachah 7.
+
 [^20]: For, as mentioned above, 90 degrees is the even mid-point of the course, and its angle increases and decreases in the same proportions as one approaches or leaves that point.
+
 [^21]: In the standard printed texts of the *Mishneh Torah*, there is a printing error, and the concluding phrase from the chapter was added here by mistake.
+
 [^22]: At 270°, as at 90°, the course reaches its maximum latitude, 5 degrees.
+
 [^23]: For, as mentioned above, the course begins to increase as it progresses after reaching its tail in the same proportions as it increases as it progresses from its head.
+
 [^24]: For the rate of the angular decrease from 270 to 180 is equivalent to the rate of decrease from 90 to 180.

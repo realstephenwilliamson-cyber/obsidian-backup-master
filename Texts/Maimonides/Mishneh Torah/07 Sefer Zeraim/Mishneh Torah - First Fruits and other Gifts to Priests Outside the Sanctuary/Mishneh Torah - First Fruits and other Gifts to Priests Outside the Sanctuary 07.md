@@ -58,57 +58,107 @@ It is permitted to cause ordinary produce to contract ritual impurity in *Eretz 
 When does the above apply? When there is a question whether or not *challah* has been separated from the doughs for which he is separating *challah*.[^48] [The rationale is that] *challah* of a doubtful status[^49] may be taken from the pure dough for the impure as an initial preference[^50] and the two need not be in the same place.[^51] ^7-13
 
 [^1]: The Radbaz emphasizes that touching each other is not sufficient; the two doughs must become attached. See *Shulchan Aruch* (*Yoreh De'ah* 325:1).
+
 [^2]: Who are not partners (*Siftei Cohen* 326:1).
+
 [^3]: See the following halachah which distinguishes between doughs made from one type and those made from two. See also Chapter 6, Halachot 16-17, which deal with the issues mentioned in this and the following halachot.
+
 [^4]: Thus even if they were kneaded together, since they were intended to be separated, they are considered as distinct entities.
+
 [^5]: Since they both belong to him and are of the same type of grain, why would he object to their combination?  
     This, however, applies only when the two doughs are types that would normally be mixed together. If they would not be normally mixed, even if they are owned by one person, this principle does not apply [*Shulchan Aruch* and Rama (*Yoreh De'ah* 326:1)].
+
 [^6]: And becomes attached. This applies to all the other instances when touching doughs are mentioned in this chapter.
+
 [^7]: Although they are from different species, since they are of the same general type (for the doughs made from the two are similar, see Chapter 8, Halachah 4), they are combined.
+
 [^8]: I.e., barley, oats, or rye.
+
 [^9]: Despite the fact that if the different species of grain are mixed in the same dough, they are combined, as stated in the following halachah.
+
 [^10]: Although spelt is often associated with wheat (*ibid.*), its dough can be combined with that of rye.
+
 [^11]: The *Shulchan Aruch* (*Yoreh De'ah* 324:2) mentions the Rambam's perspective as a minority ruling, favoring the opinion of Rabbenu Asher who maintains that rye can be combined with barley and with spelt, but not with oats or wheat. And oats can be combined with barley and spelt, but not with rye or wheat.
+
 [^12]: See *Hilchot Terumah* 10:18.
+
 [^13]: I.e., taking a portion of both of the two doughs. This advice was given by Rabbi Yishmael (*Challah* 4:4).
+
 [^14]: I.e., placing the doughs of new grain on either side of the dough of old grain or the doughs of old grain on either side of the dough from new grain. Since the person will see that he is adding an extra dough, he will not err and think that one may separate *terumah* from new grain for old grain [*Kessef Mishneh*; *Shulchan Aruch* (*Yoreh De'ah* 324:8); see Halachah 6]. The Radbaz offers a different explanation.
+
 [^15]: Chapter 6, Halachah 15.
+
 [^16]: The two doughs on the sides are of the same type of grain and together, they comprise the required measure.
+
 [^17]: See Chapter 6, Halachot 2-4, 9-10, which mention the exemption of these doughs.
+
 [^18]: I.e., the two external doughs touch the middle dough. If, however, the two external doughs are touching, *challah* must be separated from them.
+
 [^19]: In all the instances mentioned in this halachah, the governing principle is that even if the dough in the center cannot be combined with those on the side (as explained in Halachot 1-4), since it is fit to require the separation of *challah*, it does not prevent the doughs on the side from being combined.
+
 [^20]: This is speaking about a dough that was not consecrated until after it was made. If it was consecrated before it was rolled together, it is not fit to be redeemed. See Chapter 8, Halachot 6-7.
+
 [^21]: As stated in Chapter 6, Halachah 16.
+
 [^22]: In contrast to two Jews or a Jew and a gentile, as explained in the following halachot.
+
 [^23]: Since they were gentiles (see Chapter 6, Halachah 8) at the time the obligation to separate *challah* could have taken effect, the mitzvah of *challah* is not relevant to them at all . Hence, the exemption because the dough was made with the intent that it be divided into small portions (see *ibid.* 19) is not significant.
+
 [^24]: If, however, they divided the dough after they converted, there is no obligation to separate *challah* even if they added to the dough. For in such an instance, they would be comparable to the two Jews mentioned in the following halachah (*Rambam LeAm*).
+
 [^25]: Hence we do not say - as is said with regard to the following halachah - since the dough was exempt at the time when it could have been obligated, it cannot become obligated again.
+
 [^26]: The *Siftei Cohen* 326:8 emphasizes that for this law to apply the addition must be less than the size that obligates the separation of *challah*.
+
 [^27]: Had it belonged to one person.
+
 [^28]: And since the obligation was not incurred at the time it could have been incurred originally, it cannot be incurred afterwards.  
     The Ra'avad objects to this ruling. He admits that it appears to have a source in the Jerusalem Talmud (*Challah* 3:4), but argues that logically, it is hard to distinguish this from a situation where a person made a dough smaller than the required size and then attached it to a dough of the required size (see Chapter 6, Halachah 16). Hence, he rules that both Jews should separate *challah* from the dough after they increased its size.  
     The Radbaz and the *Kessef Mishneh* support the Rambam's ruling, differentiating between the two instances by explaining that when a dough is smaller than the required size, it has never reached a state where the obligation to separate *challah* relates to it. In contrast, in the instance described here, the dough was of the size that obligates the separation of *challah* and it was exempted. The *Shulchan Aruch* (*Yoreh De'ah* 326:4) quotes the Rambam's view.
+
 [^29]: The Radbaz and the *Kessef Mishneh* explain that this is speaking about a situation where the two had not originally intended to divide their dough and then decided to divide it. Had they originally intended to divide it, it would be necessary to separate *challah* from the portion belonging to the convert as well.
+
 [^30]: In contrast to the situation mentioned in the previous halachah, the dough was not originally intended to be divided. Hence, since the gentile has a portion in it, while it is whole, it is not considered as if the mitzvah of *challah* relates to it. Thus the Jew's portion of the dough was never of the size that requires the separation of *challah* and when he increases its size, an obligation is created (Radbaz).
+
 [^31]: I.e., the convert.
+
 [^32]: Since originally, the gentile's involvement in the dough caused his portion to be exempted, when he adds to it, it is not liable, based on the principle explained above. The Ra'avad differs and maintains that there is an obligation to separate *challah* from both doughs. For just as the mitzvah of *challah* is not considered as relating to the Jew's dough, it also does not relate to the gentile's dough. Hence, when he adds to it after his conversion, the obligation takes effect. The Radbaz and the *Kessef Mishneh* favor the Rambam's understanding and it is quoted as halachah by *Shulchan Aruch* (*Yoreh De'ah* 330:6).
+
 [^33]: This is preferable to separating *challah* from the dough with which the yeast was mixed, because a) it will represent a saving for the person separating the *challah*, since he will not be separating *challah* a second time; b) it is not desirable to separate *challah* from the first dough, because the obligation to separate *challah* from it is Rabbinic, not Scriptural, as will be explained.
+
 [^34]: As is required (Chapter 5, Halachah 14). That is why the second dough must be combined with the first dough into which the yeast was placed.
+
 [^35]: The combination of the yeast and the dough.
+
 [^36]: The yeast.
+
 [^37]: And yeast and dough are considered of the same type.
+
 [^38]: This is a Rabbinic decree, according to Scriptural Law, the presence of *tevel* is also nullified when there is a majority of permitted substances. Our Sages considered *tevel* as a *devar sheyeish lo matirin*, a prohibition that could be released, since once the necessary separations are made, the prohibition no longer exists. See *Hilchot Ma'achalot Assurot* 15:6. Hence, he is not considered to be separating *challah* from dough that is obligated for that which is exempt (*Siftei Cohen* 324:20).
+
 [^39]: *Hilchot Sha'ar Avot HaTuma'ah* 11:2, 15.
+
 [^40]: It does, however, have such an effect with regard to *terumah* and *challah*.
+
 [^41]: *See Hilchot Tuma'at Ochalin 16:9. There the Rambam differentiates between produce from which the appropriate agricultural separations have been made and produce from which they have not been made (as in the present instance). If the separations have already been made, one may bring it into direct contact with ritual impurity. If they have not been made, one may only "cause it to contract ritual impurity," i.e., indirectly.*
+
 [^42]: Which is ritually pure.
+
 [^43]: *Challah* 2:8 gives this suggestion, but speaks of taking less than the size of an egg of the impure dough, for in that manner, the other dough will not become impure.
+
 [^44]: Causing it to touch it. This will cause the pure dough to become ritually impure (see *Hilchot Tuma'at Ochalin* 6:18). Nevertheless, this is not significant, because - as the Rambam stated - there is no prohibition against causing food to become ritually impure.
+
 [^45]: The dough set aside to be separated as *challah* does not become ritually impure, because until it becomes consecrated as *challah*, it does not become impure because it was touched by dough that was impure to the second degree. And before it is consecrated as *challah*, it is lifted up and no longer in contact with the source of ritual impurity. To clarify this, the Rambam began this halachah: "A dough from which *challah* has not been separated is like ordinary produce and... impurity of the second degree does not bring about impurity of the third degree with regard to ordinary produce" (Radbaz).
+
 [^46]: Ordinarily to separate *challah* for two doughs in the same place, it is not necessary for them to touch. Nevertheless, since one should not separate *challah* from dough that is ritually pure for dough that is ritually impure (Chapter 5, Halachah 14), in this instance, they must be touching.  
     The Ra'avad objects to the Rambam's ruling, based on *Challah* 2:8, but the Radbaz explains the Rambam's position as above.
+
 [^47]: I.e., the person would consider an appropriate portion of the dough set aside as *challah* for a given dough and would continue doing this for future doughs until the entire dough that was set aside became *challah* [the Rambam's Commentary to the Mishnah (*Challah* 4:6)].
+
 [^48]: E.g., two witnesses stated that *challah* had been separated from the dough and two other witnesses state that it was not separated.
+
 [^49]: Here the *demai* is being used differently than its ordinary meaning. For unlike the tithes, it is taken for granted that the common people separate *challah* just as they separate *terumah* (Radbaz; see Chapter 8, Halachah 14).
+
 [^50]: Generally, the initial preference is not to separate *challah* from dough that is ritually pure for dough that is ritually impure (Chapter 5, Halachah 14).
+
 [^51]: And generally, they must (*ibid.*).

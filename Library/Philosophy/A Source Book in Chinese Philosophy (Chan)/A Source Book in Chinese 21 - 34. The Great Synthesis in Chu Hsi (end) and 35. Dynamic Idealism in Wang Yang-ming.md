@@ -107,7 +107,9 @@ T'ung Po-yü[^194] *asked*: Is it correct when speaking of the sun and moon as o
 133\. Question about the principles of life and death and spiritual beings. (*Question*: Although we know that spiritual beings and life and death are governed by one and the same principle, we do not understand the exact point. *Answer:* "Essence and material force are combined
 
 [^192]: *Analects,* 6:20.
+
 [^193]: *ibid.,* 11:11.
+
 [^194]: Chu Hsi's pupil. People in his community called him "Master of Respect for Moral Principles." For a brief account of him, see *Sung-Yüan hsüeh-an,* 69:39a.
 
 *[p. 645]* ^pg672
@@ -153,11 +155,17 @@ After a moment he said again: Generally speaking, actually \[these schools are a
 139\. Ts'ao[^204] asked how to tell the difference between Confucianism and Buddhism. The Teacher said: Just take the doctrine, "What Heaven imparts to man is called human nature."[^205] The Buddhists simply do not understand this, and dogmatically say that nature is empty consciousness. What we Confucianists talk about are concrete principles, and from our point of view they are wrong. They say, "We will not be affected by a single speck of dust \[such as distinction of right and wrong or subject and object\]. . . . and will not discard a single element of existence (dharma) \[such as the minister's loyalty to the ruler or the son's filial piety to the father\]."[^206] If one is not affected by any speck of dust, how is
 
 [^200]: *Wan-k'ung,* literally "stubborn emptiness," which is so stubborn as to resist and therefore negate everything.
+
 [^201]: The term *shen-ch'i* has many meanings, such as the mysterious force that produces all things, the essence of the Five Agents, feeling and disposition, expression, spirit and power of the mind. The latter is a Taoist concept, and is contrasted with the body. See *Chuang Tzu,* ch. 12, NHCC, 5:13a, or Giles, trans., *Chuang Tzu,* 1961 ed., p. 125.
+
 [^202]: *Chi*, literally trace or track, means manifestation, sign, effect, evidence, or fact.
+
 [^203]: *I*-*shu*, 15:10a.
+
 [^204]: Most likely one of Chu Hsi's three pupils with such a family name.
+
 [^205]: *The Mean*, ch. 1.
+
 [^206]: A saying by Zen Master Ling-yu (771-853). According to him, on the level of absolute truth there is only One Nature, which is free of any contamination such as the distinction between right and wrong or subject and object, but on the level of worldly truth, Buddhism does not discard any element of existence and therefore exhorts the minister to be loyal and the son to be filial. See *Wu-teng hui-yüan* (Five Lamps Combined), ch. 8, in *Zokuzokyo* (Supplement to the Buddhist Canon), pt. collection, pt. 2, B, case 24, p. 426a, and *Ching-te ch'uan-teng lu* (Records of the Transmission of the Lamp Compiled During the Ching-te Period, 1004-1007), SPTK, 9:3a.
 
 *[p. 648]* ^pg675
@@ -183,10 +191,15 @@ it possible for him not to discard a single element of existence? When he arrive
 Shen Hsien[^213] asked: Zen Buddhists also regard "raising the eyebrow
 
 [^208]: for the doctrine of the investigation of things in the *Great Learning,* see above, ch. 4, sec. 5.
+
 [^209]: He was Chu Hsi's pupil, whom the Teacher highly praised for his integrity. See *Chu Tzu wen-chi,* 58:12a. His doctrine and Chu Hsi's criticism of it are found in the latter's letter to him, *ibid.,* 58:13a-14b.
+
 [^210]: Paraphrasing Hsieh Liang-tso, *Sheng-ts'ai yü-lu,* pt. 2, p. 7a.
+
 [^211]: *History,* "Great Norm." Cf. Legge, *Shoo King,* pp. 326-327.
+
 [^212]: *Mencius*, 6A:3.
+
 [^213]: Chu Hsi's pupil who recorded the conversations of 1198 and those after.
 
 *[p. 650]* ^pg677
@@ -210,10 +223,15 @@ Hsien asked: The Buddhists say that all things will be annihilated. The Law-body
 *Question*: Is it correct that the Buddhists merely refrain from seeing
 
 [^214]: See *Hsü-t'ang yü-lu* (Recorded Conversations of Hsü-t'ang), ch. 4, TSD, 47:1002.
+
 [^215]: See commentary on the *Pi-yen chi* (Green Cave Collection), sec. 1, TSD, 48:140.
+
 [^216]: *Mencius,* 6A:8.
+
 [^217]: *Analects,* 12:1.
+
 [^218]: *The* M*ean*, ch. 1.
+
 [^219]: *Changes,* commentary on hexagram no. 2, *k'un,* Cf. Legge, *Yi King,* p. 420.
 
 *[p. 651]* ^pg678
@@ -229,9 +247,13 @@ Thereupon Ts'ai Chi-t'ung[^220] said: Things in the world must be handled by men
 147\. Although there is a slight resemblance between the doctrines of the Buddhists and our own Confucian doctrines, they are really what is called similar in appearance but different in spirit, or appearing to be so but actually not. This must be clearly understood. Master Ming-tao (Ch'eng Hao) said, "Every sentence \[of theirs\] is similar \[to ours\] and every thing fits in. But we are different."[^224] This is really very interesting. If he had not seen the matter very closely, how did he dare pass a judgment like this?
 
 [^220]: Ts'ai Chi-t'ung (Ts'ai Yuan-ting, 1135-119\$) was one of Chu Hsi's outstanding pupils and a prominent scholar in his own right. For his philosophy and life, see Forke, *Geschichte der neueren chinesischen Philosophic,* pp. 203-205, or *Sung-Yüan hsüeh-an,* ch. 62.
+
 [^222]: *Mencius,* 7A:1.
+
 [^221]: *I*-*shu*, 13:1b.
+
 [^223]: *Cheng* in Chinese. Ordinarily meaning government, it is interchangeable with *chen*g (correct) and is used here in the sense of precisely or truly.
+
 [^224]: Ota Kinjo in his *Gimon Roku* (Records of Questioning), 1831 ed., pt. 2, p. 19, said that this is Ch'eng Hao's saying in the *I*-*shu*, but I have been unable to find it there. Chu Hsi was probably repeating Ch'eng's idea rather than quoting his exact words.
 
 *[p. 652]* ^pg679
@@ -239,10 +261,15 @@ Thereupon Ts'ai Chi-t'ung[^220] said: Things in the world must be handled by men
 In what the Confucian School calls hearing the Way,[^225] hearing merely means to see, hear, reflect, brood over and acquire the Way by oneself, and the Way is simply the self-evident principle governing the daily activities in the relations between ruler and minister and father and son \[and so forth\]. There is nothing deep, mysterious, or unfathomable in them similar to what the Buddhists describe as a wide and far-reaching great awakening or the whole body sweating. Now there is no need to devote one's effort elsewhere but to hold fast to seriousness in order to investigate things. People today often misinterpret the Confucian saying, "(Standing), let a man see (truthful words and serious action) in front of him, (riding in a carriage), let him see them attached to the yoke,"[^226] and have therefore repeatedly drifted into Buddhist doctrines. When the ancient Sage said this, he merely meant for us "to be surely loyal and faithful in our words and surely earnest and serious in our action"[^227] and for us not to forget in every moment of our thoughts, but to seem to see these two things at all times and in all places without allowing them to get away from our minds or our eyes. Taking the sayings "Seeing Emperor Yao[^228] in the soup" and "Seeing Emperor Yao on the wall,"[^229] does it mean that my mind sees itself as another thing outside of myself? The substance of the mind is originally without thought or activity. Before it is acted on by external things, it has the ability to remain so. When acted on, it immediately penetrates all things. I am afraid it is not like what you have described.[^230] As to your contention that in Zen, entering into meditation is to cut off thought and to reveal the Principle of Nature completely, that is especially wrong. When thinking is correct, there is the Principle of Nature. In all operations and functioning, there is none which is not a revelation of the Principle of Nature. Does it need to wait to have all thoughts cut off before the Principle of Nature can be revealed? Furthermore, what is this that we call the Principle of Nature? Are humanity, righteousness, propriety, and wisdom (the four moral qualities natural to man) not the Principle of Nature? Are the five human relations between ruler and minister, between father and son, between old and young, between husband and wife, and between friends not the Principle of Nature? If the Buddhists have really seen the Principle of Nature, why should they violate and confuse \[truth\] like this, destroy
 
 [^225]: *Analects,* 4:8*.*
+
 [^226]: *ibid.,* 15:5.
+
 [^227]: *ibid.*
+
 [^228]: Legendary sage-ruler (3rd millennium B.C.).
+
 [^229]: According to *Hou-Han shu* (History of Later Han, 25-220 A.D.), PNP, 63:13a. Emperor Shun admired Yao so much that for three years after Yao's death, he saw Yao on the wall whenever he sat down and saw Yao in the soup whenever he ate.
+
 [^230]: This selection is part of Chu Hsi's reply to a letter from Wu Tou-nan, which is found in *Chu T*z*u wen-chi,* 59:22a-24b. What Wu had to say, however, is not repeated in this reply and is nowhere recorded.
 
 *[p. 653]* ^pg680
@@ -252,8 +279,11 @@ everything, and darken and delude their original mind without realizing it thems
 *Comment.* Chu Hsi's knowledge of Buddhism was very superficial and in saying that Buddhist ideas came from the *Chuang Tzu* and the *Lieh Tzu*, for example, he revealed both his prejudice and ignorance.[^231] But his attack on Buddhism was more comprehensive than his predecessors', for he criticized Buddhism from all points of view—ethical, theoretical, practical, historical, and textual.[^232] In his philosophical criticism, he concentrated on two points, namely that the Buddhists divide the mind into two so that one examines the other,[^233] and that the Buddhists identify the mind with nature, thus leading to the erroneous conclusion that the world is empty. The first criticism may well be applied to the Neo-Confucian doctrine of self-examination itself, which Chu Hsi advocated. As to the second, Chu Hsi had in mind that to the Buddhists only the mind in its pure consciousness can be called nature whereas all phenomena, being imagination of the mind, are devoid of true nature. On the other hand, to the Confucianists, all things have their nature. There is no question whether they have nature or not but only whether nature is balanced or not. Therefore he said the Buddhist position is empty but the Confucian position is concrete. Actually he confused the Buddhist single meaning of nature as true reality and the Confucian twofold meaning of nature as both consciousness and physical nature. He also ignored the fact that, in the Hua-yen School of Buddhism, principle and facts are harmonized so that no fact needs to be sacrificed for the sake of principle.[^234]
 
 [^231]: *Chu Tzu yü*-*lei*, 126:1a-7b.
+
 [^232]: See Sargent, *Tchou Hi contre le Bouddhisme,* pp. 10-39.
+
 [^233]: This point is stressed in his "Treatise on the Examination of the Mind." See above, treatise 4.
+
 [^234]: For Hua-yen doctrines, see above, ch. 25, especially A, 7, (3), (6), and (8), and B, 2, (1).
 
 *[p. 654]* ^pg681
@@ -279,9 +309,13 @@ The fundamental difference between Chu and Wang lies in the fact that while Chu'
 Actually Wang's theory is entirely subjective and confuses reality with value. It is difficult to accept his version of *ko-wu,* for if the term means to rectify the mind, why should it be *ko-wu* (to *ko* things) instead of *ko-hsin* (to *ko* the mind)? His interpretation is of course based on the theory that the mind and things are one. But this theory of his is founded on very shaky grounds. When he was asked what the mind has to do with blossoming trees on the high mountains, he merely answered that their colors show up when you look at them.[^6] The point, however, is that his whole emphasis is on moral values. He was convinced that if the mind is divided or devoted to external things, it will be concerned only with fragmentary
 
 [^2]: *I-shu* (Surviving Works), 18:9a, ECCS. Also see above, ch. 32, comment on sec. 30.
+
 [^3]: *Ch'uan-hsi-lu* (Instructions for Practical Living), sec. 135.
+
 [^4]: *ibid.,* secs. 7, 85, 174.
+
 [^5]: *ibib*., sec. 315.
+
 [^6]: *ibid.,* sec. 275.
 
 *[p. 656]* ^pg683
@@ -321,7 +355,9 @@ His influence extended to Japan where his school, known as the Yomeigaku, rivale
 The following selections include the *Inquiry on the Great Learning* in its entirety and some selections from the *Ch'uan-hsi lu* (Instructions for Practical Living) which consists of conversations with his pupils, letters, and several short essays.[^14]
 
 [^12]: *Wang Wen-ch'eng Kung ch'üan-shu* (Complete Works of Wang Yang-ming), preface, SPTK, p. 15b.
+
 [^13]: See below, chs. 40 and 43.
+
 [^14]: Both of these are included in the *Wang Wen-ch'eng Kung ch'üan-shu* and have been translated by Chan in his *Instructions for Practical Living, and Other Neo-Confucian Works by Wang Yang-ming,* New York, Columbia University Press, 1963. The section numbers of the *Ch'uan-hsi lu* are retained in the following selections.
 
 *[p. 659]* ^pg686
@@ -337,7 +373,9 @@ A. INQUIRY ON THE GREAT LEARNING
 *Master Wang said*: The great man regards Heaven and Earth and the myriad things as one body. He regards the world as one family and the country as one person. As to those who make a cleavage between objects and distinguish between the self and others, they are small men. That the great man can regard Heaven, Earth, and the myriad things as one body is not because he deliberately wants to do so, but because it is natural to the humane nature of his mind that he do so. Forming one body with Heaven, Earth, and the myriad things is not only true of the great man. Even the mind of the small man is no different. Only he himself makes it small. Therefore when he sees a child about to fall into a well, he cannot help a feeling of alarm and commiseration.[^17] This shows that his humanity (*jen*) forms one body with the child. It may be objected that the child belongs to the same species. Again, when he observes the pitiful cries and frightened appearance of birds and animals about to be slaughtered, he cannot help feeling an "inability to bear" their suffering.<sup>18</sup> This shows that his humanity forms one body with birds and
 
 [^15]: Chu Hsi, *Ta-hsüeh chang-chü* (Commentary on the *Great Learning*), the text. Actually by "great learning" (*ta-hsüeh*) Chu Hsi meant "education for the adult," but the Chinese phrase can also mean the learning of the great man. Wang preferred this latter interpretation.
+
 [^16]: The text of the *Great Learning.*
+
 [^17]: *Mencius,* 2A:6.
 
 *[p. 660]* ^pg687
@@ -371,6 +409,7 @@ drove their own minds toward something too lofty, they thereby lost them in illu
 *Answer*: People fail to realize that the highest good is in their minds and seek it outside. As they believe that everything or every event has its own definite principle, they search for the highest good in individual things. Consequently, the mind becomes fragmentary, isolated, broken into pieces; mixed and confused, it has no definite direction. Once it is realized that the highest good is in the mind and does not depend on any search outside, then the mind will have definite direction and there will be no danger of its becoming fragmentary, isolated, broken into pieces, mixed, or confused. When there is no such danger, the mind will not be erroneously perturbed but will be tranquil. Not being erroneously perturbed but being tranquil, it will be leisurely and at ease in its daily functioning and will attain peaceful repose. Being in peaceful repose, whenever a thought arises or an event acts upon it, the mind with its
 
 [^23]: They were: Duke Huan of Ch'i (r. 685-643 B.C.), Duke Wen of Chin (r. 636-628 B.C.), Duke Mu of Ch'in (r. 659-619 B.C.), King Chuang of Ch'u (r. 613-589 B.C.), and Duke Hsiang of Sung (r. 650-635 B.C.). See *Mencius,* 6B:7.
+
 [^24]: The text of the *Great Learning.*
 
 *[p. 663]* ^pg690
@@ -408,9 +447,13 @@ Whenever a thought or a wish arises, my mind's faculty of innate knowledge itsel
 Now, when one sets out to extend his innate knowledge to the utmost, does this mean something illusory, hazy, in a vacuum, and unreal? No, it means something real. Therefore, the extension of knowledge must consist in the investigation of things. A thing is an event. For every emanation of the will there must be an event corresponding to it. The event to which the will is directed is a thing. To investigate is to rectify. It is to rectify that which is incorrect so it can return to its original correctness
 
 [^31]: Commentary on hexagrams, no. 1, *ch*'*ien* (Heaven), Cf. Legge, trans., *Yi King,* p. 410.
+
 [^32]: Chu Hsi, *Ta-hsüeh chang-chü,* commentary on the text.
+
 [^33]: *Mencius,* 2A:6, 6A:6.
+
 [^34]: Quoting *Mencius,* 7A:15.
+
 [^35]: Paraphrasing the *Great Learning,* ch. 6.
 
 *[p. 666]* ^pg693
@@ -444,6 +487,7 @@ The Teacher said with a sigh, "This idea has been obscuring the understanding of
 I said, "Having heard what you said, sir, I begin to understand. However, the old theory still lingers in my mind, from which I cannot entirely get away. Take, for example, the matter of serving one's parents. The filial son is to care for their comfort both in winter and summer, and to inquire after their health every morning and evening.[^41] These things involve
 
 [^40]: Hsü Ai (1487-1518), Wang's favorite pupil, who recorded secs. 1-14 of the *Ch'uan-hsi lu.*
+
 [^41]: Quoting the *Book of Rites,* "Summary of the Rules of Propriety." Cf. translation by Legge, *Li Ki,* ch. 1, p. 67.
 
 *[p. 668]* ^pg695
@@ -455,7 +499,9 @@ The Teacher said, "Why not endeavor to investigate them? The main thing is to ha
 5\. I did not understand the Teacher's doctrine of the unity of knowledge and action and debated it back and forth with Huang Tsung-hsien[^43] and Ku Wei-hsien[^44] without coming to any conclusion. Therefore I took the matter to the Teacher. The Teacher said, "Give an example and let me see." I said, "For example, there are people who know that parents should be served with filial piety and elder brothers with respect but cannot put these things into practice. This shows that knowledge and action are clearly two different things."
 
 [^42]: *ibid*., "The Meaning of Sacrifices." Cf. Legge, ch. 21, pp. 215-216.
+
 [^43]: The courtesy name of Huang Wan (1477-1551), Wang's pupil. His daughter was married to Wang Yang-ming's son.
+
 [^44]: The courtesy name of Ku Ying-hsiang (1483-1565). He departed from the teaching of Wang Yang-ming in holding that knowledge and action were not identical.
 
 *[p. 669]* ^pg696
@@ -493,10 +539,15 @@ I said, "Yesterday when I examined Chu Hsi's doctrine of the investigation of th
 The Teacher said, "Tzu-hsia (507-420 B.C.) had strong faith in the Sage whereas Tseng Tzu (505-C.436 B.C.) turned to seek the highest good in himself.[^55] It is good to have strong faith, of course, but it is not as real and concrete as seeking in oneself. Since you have not understood this idea, why should you cling to Chu Hsi's old tradition and not seek what is right? Even with Chu Hsi, while he respected and believed in Master
 
 [^50]: *Ts'ui-yen* (Pure Words), 1:162b, in ECCS.
+
 [^51]: *History,* "Charge to Yüeh," pt. 2. Cf. Legge, trans., *Shoo King,* p. 258.
+
 [^52]: See above, ch. 34, sec. 20.
+
 [^53]: *Sun Chung-shan ch'üan-chi* (Complete Works of Sun Yat-sen), 1928, vol. 2, p. 53ff.
+
 [^54]: *History,* "Counsels of the Great Yü." Cf. Legge, *Shoo King,* p. 6; *Analects,* 6:25; *Mencius,* 7A:1; respectively.
+
 [^55]: Quoting Chu Hsi, M*eng Tzu chi-chu* (Collected Commentaries on the *Book of Mencius*) ch. 3, comment on *Mencius,* 2A:2.
 
 *[p. 672]* ^pg699
@@ -510,7 +561,9 @@ I asked, "Why are exerting the mind to the utmost and knowing one's nature the a
 The Teacher said, "Our nature is the substance of the mind and Heaven is the source of our nature. To exert one's mind to the utmost is the same as fully developing one's nature. Only those who are absolutely sincere can fully develop their nature and 'know the transforming and nourishing process of Heaven and Earth.'[^58] Those who merely preserve their minds, on the other hand, have not yet exerted them to the utmost. Knowing Heaven is the same as knowing the affairs of a district or a county, which is what the titles prefect and magistrate mean. It is a matter within one's own function, and it means that one in his moral character has already become one with Heaven. Serving Heaven, on the other hand, is like the serving of the parents by the son and the serving
 
 [^56]: See, for example, *Chu Tzu yü-lei* (Recorded Conversations of Chu Hsi), 1880 ed., 69:22a.
+
 [^57]: Quoting alternately from *Mencius,* 7A:1 and *The Mean,* ch. 20.
+
 [^58]: Quoting *The Mean*, ch. 22.
 
 *[p. 673]* ^pg700
@@ -542,7 +595,9 @@ The Teacher said, "The mind is the nature of man and things, and nature is princ
 The Teacher said, "The mind of the evil man has lost its original substance." (*ibid*)
 
 [^60]: a-b, in *Ssu-shu ta-ch'üan* (Great Collection of Commentaries on the Four Books). Hui-an was Chu Hsi's literary name.
+
 [^61]: The two sentences are paraphrases of Chu Hsi's *Ta-hsüeh chang-chü,* commentary on the text. According to Ota Kinjo (1765-1825) (*Gimon roku,* or Records of Questioning, 1831 ed., p. 15a), the phrase "vacuous, intelligent, and not beclouded" comes from the *Ta-chih tu lu* (*Mahaprajñaparamita sastra,* Treatise on Great Wisdom) and was also used by Fa-tsang (643-712), but he gave no specific reference. It is probably derived from the common Buddhist phrase, "intelligent, knowing, and not beclouded," which was uttered by Zen Masters like Ch'eng-kuan (c. 760-838) (see *Ching-te ch'uan-teng lu,* or Records of the Transmission of the Lamp Compiled During the Cheng-te Period, 1004-1007, SPTK, 30:8a). The terms "intelligent and knowing" and "not beclouded" were also used by Tsung-mi (780-841) (in his *Ch'an-yüan chu-ch'üan chi tu-hsü* or General Preface to *Col*- *lection of Source Material of the Zen School,* TSD, 48:404-405). Chu Hsi considered the Buddhist concept too abstract and therefore added the second sentence. See *Chu T*z*u yü*-*lei*, 1880 ed., 104:17a
+
 [^62]: *Ta*-*hsüeh huo-wen* (Questions and Answers on the *Great Learning*), 1902 ed.,
 
 *[p. 675]* ^pg702
@@ -562,10 +617,15 @@ The Teacher said, "Generally correct." (l:39b-40a)
 The Teacher said, "It is very difficult to say. You gentlemen must find it out through personal realization. Humanity is the principle of unceasing production and reproduction. Although it is prevalent and extensive and there is no place where it does not exist, nevertheless there is an order in its operation and growth. That is why it is unceasing in production and reproduction. For example, at the winter solstice the first (active cosmic force) yang grows. There must be the growth of this first yang before all the six stages of yang (the six months between December and June) gradually grow. If there were not the first yang, could there
 
 [^63]: Nothing is known of him.
+
 [^64]: *Analects,* 2:4.
+
 [^65]: Lu Ch'eng, Wang's pupil, whose courtesy name was Yüan-ching. He recorded secs. 15-94 of the *Ch'uan-hsi lu.*
+
 [^66]: As taught in the *Great Learning,* the text.
+
 [^67]: *I*-*shu*, 2A:2. See the following section.
+
 [^68]: Mo Tzu was strongly attacked by Mencius because Mo Tzu did not acknowledge the special affection due a father. *Mencius,* 3B:9. For Mo Tzu's doctrine, see *Mo Tzu,* ch. 14-16, English translation by Mei, *Works of Motse,* p. 78ff.
 
 *[p. 676]* ^pg703
@@ -607,7 +667,9 @@ The Teacher said, "Being attached to the non-distinction of good and evil, the B
 *Comment.* Because Wang talked about the state of having neither good nor evil, he has been accused of being a Buddhist in Confucian garment. This passage makes the distinction between Confucianism and Buddhism quite clear. What is more important, Wang not only criticized the Buddhists for their escape from social responsibility, but also for their inability to be free from attachment
 
 [^72]: Hsüeh K'an (d. 1545), Wang's pupil, who recorded secs. 95-129 of the *Ch'uan-hsi lu.*
+
 [^73]: Quoting *History,* "Great Norm." Cf. Legge, S*hoo King,* p. 331.
+
 [^74]: Quoting *Changes,* commentary on hexagram no. 11, *t*'*ai* (successful). Cf Legge, *Yi King,* p. 281.
 
 *[p. 678]* ^pg705

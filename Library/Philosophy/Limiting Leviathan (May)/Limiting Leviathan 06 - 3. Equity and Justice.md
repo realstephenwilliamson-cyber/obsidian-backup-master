@@ -57,7 +57,9 @@ to all moral valuation. In what follows we will see to what extent Hobbes allows
  By Hobbes’s time, equity was given an increasingly wide scope such that many philosophers virtually equated justice and equity, often linking the two concepts together as an inseparable pair (this is still a common practice 
 
 [^3]: A.E. Taylor, “The Ethical Doctrine of Hobbes,” *Philosophy*, vol. 13, no. 52, October 1938, p.  408. Howard Warrender also talks of moral limits of the sovereign but he does so in terms of God’s law rather than civil law restraints. See Howard Warrender, *The Political Philosophy of Hobbes*, Oxford: Clarendon Press, 1957.
+
 [^4]: Several essays in Dyzenhaus and Poole’s anthology begin to see this point. See especially, Evan Fox-Decent, “Hobbes’s Relational Theory: Beneath Power and Consent,” in David Dyzenhaus and Thomas Poole, *Hobbes and the Law*, Cambridge: Cambridge University Press, 2012.
+
 [^5]: Stuart E. Prall, “The Development of Equity in Tudor England,” *The American Journal of Legal History*, vol. 8, no. 1, 1964, p. 1. Prall provides a truly excellent account of the debates on the meaning of equity just prior to Hobbes’s time.
 
 *[p. 70]* ^pg83
@@ -123,7 +125,9 @@ for what is the subject of our desire. Hobbes thus holds a subjective theory of 
  Since the state of nature is properly that realm where people are in a constant state of war and where no trust is even reasonable, this dictate of reason is not appropriate in that state. It is a law of nature that must await the institution of a judge and positive law before it is made effective. Thus it is a principle of morality that can be applicable only in civil society. It is also clearly addressed to a sovereign-like figure, “a judge,” and therefore it is meant to be applied directly to a sovereign or sovereign representative and not to those natural men who are striving to find their way out of the state of constant war. For further substantiation of this point, let us turn briefly to that section of *Leviathan* where civil morality and equity are discussed. 
 
 [^13]: EW III 142, Tuck 108.
+
 [^14]: In *The Elements of Law* (*De Corpore Politico*) Hobbes had seemingly given a narrow definition of equity: “And this it is men mean by *distributive justice*, and is properly termed *equity*. The breach of the law is that which the Greeks call *pleionexia*, which is commonly rendered covetousness, but seemeth to me more precisely expressed by the word *encroaching*” EW IV 104, ch. IV, para. 2. Here already, though, we can see the beginning appreciation of the wider notion of equity Hobbes develops in *Leviathan*, and then expands further in the *Dialogue*. If violations of equity are seen as encroachments one can see how a move toward more than a consideration of distributive justice is countenanced. As I argue throughout this book, equity is about limitations on sovereign law-making, where failing to stay within limits is an encroachment against the people. Note also that the reference to *pleionexia*, demanding too much, can be understood as failing to stay within the limits of legitimate law-making.
+
 [^15]: *The Elements of Law (De Corpore Politico)* EW IV 104, Ch. IV, para. 2.
 
 *[p. 74]* ^pg87
@@ -165,7 +169,9 @@ just. But Hobbes went on to claim that a just law and a good law are not the sam
  In general, Hobbes does not spell out how equity comes to be the primary law of nature in the civil morality of *Leviathan* . In *De Homine* , Hobbes presents further evidence of the centrality of equity, when he links equity with rationality and says that God “has inscribed it in all hearts.” [^21] But only in the *Dialogue* , much later in Hobbes’s life, is equity explained in any 
 
 [^19]: EW III 335, Tuck 239.
+
 [^20]: EW III 206–207; Tuck 152–153. For a very interesting discussion of this passage see Thomas Poole, “Hobbes on Law and Prerogative,” in *Hobbes and the Law*, ed. David Dyzenhaus and Thomas Poole, Cambridge: Cambridge University Press, 2012, pp. 68–96.
+
 [^21]: *De Homine*, Ch. 15; Bernard Gert, ed. *Man and Citizen*, 1991, p. 73. See a discussion of this passage in S. A. Lloyd’s *Morality in the Philosophy of Thomas Hobbes: Cases in the Law of Nature*, New York: Cambridge University Press, 2009, pp. 276–277.
 
 *[p. 76]* ^pg89
@@ -179,7 +185,9 @@ detail. I will explicate some of the views in the *Dialogue* in the next sectio
  First, Hobbes is concerned only with the laws of nature relating specifically to law-making: that is, to equity and justice. Second, Hobbes discusses these subjects only in respect to actions not covered by the statute laws, or when the statute law did not exist (in times of civil war or international disputes). He is not concerned, as he was in *Leviathan* , to speak at length about the hypothetical state before humans entered society. Also, he is addressing himself not to natural lawyers but to common lawyers. This means that he is more concerned with the actual basis of limiting the law-making authority—for instance, through the courts—than with the strictly theoretical basis of limiting sovereignty *per se* . 
 
 [^22]: EW VI 29, Cropsey 72.
+
 [^23]: EW VI 6, Cropsey 55–56.
+
 [^24]: As the *Dialogue* opens, it is initially unclear which of the two participants in the *Dialogue*, the “philosopher” or the “lawyer” speaks for Hobbes. Soon it seems Hobbes speaks through the “philosopher” but a fourth of the way through the text the “lawyer” also speaks in a way that is consistent with Hobbes’s own views in earlier works.
 
 *[p. 77]* ^pg90
@@ -201,8 +209,11 @@ detail. I will explicate some of the views in the *Dialogue* in the next sectio
  The Court of Chancery became necessary because it was found that the Courts of Common Law were, from various causes, frequently unable to do justice [^28] to 
 
 [^25]: EW VI 29, Cropsey 72–73.
+
 [^26]: EW VI 25–26, Cropsey 70.
+
 [^27]: In *Behemoth*, Hobbes says that “by the law of equity, which is the unalterable law of nature, a man that has the sovereign power, cannot, if he would, give away the right of anything which is necessary for him to retain for the good government of his subjects, unless he do it in express words, saying that he will have the sovereign power no longer. For the giving away that which by consequence only, draws the sovereignty along with it, is not, I think, a giving away of the sovereignty; but an error, such as works nothing but an invalidity of the grant itself.” EW VI 310–311.
+
 [^28]: Baildon is here using the term justice not in the narrow way that Hobbes used it but in a broader way.
 
 *[p. 78]* ^pg91
@@ -224,6 +235,7 @@ suitors. This might result from two classes of reasons: (1) from the inelastic
  The Court of Chancery was the proper domain of the King’s first minister, the Chancellor. When Hobbes’s mentor, Francis Bacon, was Lord Chancellor he sought to establish the independent authority of the Court of Equity over the common-law courts. The Chief Justice of the 
 
 [^29]: W. P. Baildon (ed.), introductory notes, *The Publications of the Selden Society* (V896) Select Cases in Chancery 1364–1471 10, London, 1896, p. xxi.
+
 [^30]: EW VI 26, Cropsey 70.
 
 *[p. 79]* ^pg92
@@ -237,6 +249,7 @@ King’s Bench, Edward Coke, fought a vehement struggle with Bacon on this issue
  It cannot be that a written law should be against reason; for nothing is more reasonable, than that every man should obey the law, which he hath himself assented to; but that is not always the law which is signified by *grammatical* 
 
 [^31]: On this point see Edward G. Andrew, “Hobbes on Conscience Within the Law and Without,” *Canadian Journal of Political Science*, vol. 32, no. 2, June 1999, pp. 203–225. At one point Andrew argues that Hobbes can be read as supporting jury nullification, *Canadian Journal of Political Science*, p. 223.
+
 [^32]: Cf. EW VI 49–51, Cropsey 86–88.
 
 *[p. 80]* ^pg93

@@ -21,7 +21,9 @@ Teacher of the Law Chih-te[^63] asked, "Zen Master, you teach living beings to s
 *Answer*: "I am afraid the tower you talk about ascending is not a nine-story tower but a square tomb consisting of a pile of earth. If it is really a nine-story tower, it would mean the principle of sudden enlightenment. If one directs one's thought to sudden enlightenment as if one ascends a nine-story tower with the necessity of going through the steps gradually, one is not aiming right but sets up the principle of gradual enlightenment instead. Sudden enlightenment means satisfying both principle (*li*) and wisdom. The principle of sudden enlightenment means to understand without going through gradual steps, for understanding is natural. Sudden enlightenment means that one's own mind is empty and void from the very beginning. It means that the mind has no attachment. It means to enlighten one's mind while leaving dharmas as they are and to be absolutely empty in the mind. It means to understand all dharmas. It means not to be attached to Emptiness when one hears about it and at the same time not to be attached to the absence of Emptiness. It means not to be attached to the self when one hears about it and at the same time not to be attached to the absence of the self. It means entering Nirvana without renouncing life and death. Therefore the scripture says, '\[Living beings\] have spontaneous wisdom and wisdom without teacher.'[^64] He who issues from principle approaches the Way rapidly, whereas he who cultivates externally approaches slowly.
 
 [^62]: One word here is missing in the text.
+
 [^63]: Nothing is known of him.
+
 [^64]: *Saddharmapundarika sutra* (Scripture of the Lotus of the Good Law), ch. 3, TSD, 9:13. See Soothill, trans., *The Lotus of the Wonderful Law,* p. 93.
 
 *[p. 442]* ^pg469
@@ -63,9 +65,13 @@ empty, that is Tathagata Meditation. The *Wei-mo-chieh* \[*so*-*shuo*\] *ching* 
 The assistant to the governor said, "All palace monks serving the emperor speak of causation instead of spontaneity, whereas Taoist
 
 [^71]: *Wei-mo-chieh ching,* sec. 12, TSD, 14:554.
+
 [^72]: *Avidya,* particularly ignorance of facts and principles about dharmas.
+
 [^73]: Paraphrasing a passage in *Nirvana sutra,* ch. 26, TSD, 12:788.
+
 [^74]: Bodhisattvas are beings who are enlightened and are ready to become Buddhas but because of their compassion they remain in the world to save all sentient beings.
+
 [^75]: *Lao Tzu,* ch. 42.
 
 *[p. 444]* ^pg471
@@ -89,8 +95,11 @@ A monk asked, "What is the basic idea of the Law preached by the Buddha?" Thereu
 *Question:* "Master, whose tune are you singing? Whose tradition are you perpetuating?"
 
 [^76]: For his biography see S*ung kao-seng chuan,* ch. 12, TSD, 50:779. Not much is known of him. His school is called the Lin-chi school (Rinsai in Japanese) because he lived in the Lin-chi monastery in Hopei.
+
 [^77]: He was Wang Ching-ch'u, prefect of the Honan Prefecture, and a Buddhist lay pupil of Zen Master Ling-yu (771-853).
+
 [^78]: Commentators are not agreed on the meaning of this sentence. The present interpretation is harmonious with the spirit of independence and revolt of the Zen School.
+
 [^79]: The phrase *cheng-chü* here does not mean evidence but to make clear.
 
 *[p. 445]* ^pg472
@@ -114,7 +123,9 @@ The mention of excrement is no vulgarism. It is derived from Chuang Tzu who said
 *Comment.* The swatter was originally used to hit mosquitoes but
 
 [^80]: This refers to Zen Master Hsi-yün (d. 850) who lived in the Huang-po Mountain. For his work, see Bibliography.
+
 [^81]: One gets nowhere in so doing.
+
 [^82]: *Chuang Tzu,* ch. 22, HHCC, 7:49b. cf. Giles trans., *Chuang Tzu,* 1961 ed., p. 215. See above, ch. 8, comment on C, 2.
 
 *[p. 446]* ^pg473
@@ -150,6 +161,7 @@ The Master answered, "As you deliberated to ask the question, your mind has alre
 "Seekers of the Way, if you want to achieve the understanding according to the Law, don't be deceived by others and turn to \[your thoughts\] internally or \[objects\] externally. Kill anything that you happen on. Kill the Buddha if you happen to meet him. Kill a patriarch or an arhat if you happen to meet him. Kill your parents or relatives if you happen to meet them. Only then can you be free, not bound by material things, and absolutely free and at ease. . . . I have no trick to give people. I merely cure disease and set people free.... My views are
 
 [^88]: An arhat or arhan is the ideal being in Hinayana or Small Vehicle, a saint or worthy who is no longer subject to incarnation.
+
 [^89]: For the Three Worlds, see above, ch. 20, n.38.
 
 *[p. 448]* ^pg475
@@ -171,8 +183,11 @@ As the monk was deliberating what to say, the Master shouted. (TSD, 47:504)
 9\. When the Master was among Huang-po's congregation, his conduct was very pure. The senior monk[^93] said with a sigh, "Although he is young, he is different from the rest!" He then asked, "Sir, how long have you been here?"
 
 [^90]: Zen Master Pao-ch'e of Ma-ku Mountain.
+
 [^91]: Avalokitesvara, the bodhistattva "who sees the world's sound," or the cries of suffering. The name may also mean the one who sees reality as it is, free and at ease. Characterized by compassion, this Buddhist saint assumes many forms, has many faces and hands the better to see and help sentient beings toward salvation. In popular Chinese religion, the saint had assumed a feminine form and has come to be known in the West as Goddess of Mercy.
+
 [^92]: A bodhisattva in the diamond-realm, the realm of wisdom as contrasted with the realm of principle, the two realms representing those of effect and cause, respectively.
+
 [^93]: Huang-po's disciple Ch'en Mu-chou.
 
 *[p. 449]* ^pg476
@@ -202,7 +217,9 @@ As soon as the Master heard this, he understood and said, "After all, there is n
 *Comment.* Not only is there not much in Huang-po's Buddhism; there is not much in Buddhism itself![^95] This saying has been repeated time and again by Zen Buddhists. It expresses not only a spirit of revolt, but also the determination to wipe out anything in the way of the mind's direct and immediate intuition of truth, including Buddhism itself. Fung Yu-lan is right in considering this point as one of the five most important in Zen.[^96]
 
 [^94]: This monk lived in the Ta-yü Mountain in Kiangsi Province.
+
 [^95]: This was actually said in the same story recorded in *Ching-te ch'uan-teng lu*, 12:3b.
+
 [^96]: *History of Chinese Philosophy,* vol. 2, 1953, p. 401.
 
 *[p. 450]* ^pg477
@@ -234,6 +251,7 @@ Han was an orphan at three and grew up in difficult circumstances, but he eventu
 The nature of man comes into existence with birth,[^3] whereas the feelings are produced when there is contact with external things. There are three grades of human nature, and what constitute that nature are five. There are three grades of feelings, and what constitute feelings are seven. What are these? I say: The three grades of nature are: superior, the medium, and the inferior. The superior is good, and good only. The medium may be led to be either superior or inferior. The inferior is
 
 [^2]: Han's courtesy name was T'ui-chih and his posthumous title was Wen (Culture). He had a "presented scholar" degree and served in many governmental posts, i.e., professor of the national university, censor, assistant departmental chief, and divisional chief. He was demoted several times. As a result of his protest against the Buddhist relic in 819, he was banished to Ch'ao-chou in South China, where, it is said, he successfully told the crocodiles to leave the place. In the next year he was made director of education. Later he became vice-minister in the ministry of the army, then censor, and finally vice-minister in the ministry of civil personnel. Li Ao's courtesy name was Hsi-chih and his posthumous title was also Wen. He held a "presented scholar" degree and rose to be a professor at the directorate of education. Later he served as divisional chief, censor, and vice-minister in the ministry of justice and then in the ministry of revenues and population. For more information on the two men, see the *Hsin-T'ang shu* (New History of the T'ang Dynasty, 618-907), chs. 176-177.
+
 [^3]: Compare this with Kao Tzu's theory. See *Men*c*ius*, 6A*:* 1-6*.*
 
 *[p. 452]* ^pg479
@@ -249,11 +267,17 @@ In discussing human nature, Mencius said, "Man's nature is good." Hsün Tzu said
 When Shu-yü was born, his mother knew, as soon as she looked at him, that he would die of love of bribes.[^8] When Yang I-wo[^9] was born, Shu-hsiang's mother knew, as soon as she heard him cry, that he would cause the destruction of all his kindred.[^10] When Yüeh-chiao was born, Tzu-wen considered it a great calamity, knowing that because of him the
 
 [^4]: These five are the traditional Five Constant Virtues. Other editions have them in the usual order: humanity, righteousness, propriety, wisdom, and faithfulness. The commentary says that the present propriety and faithfulness are nearer to humanity than righteousness and wisdom. Chu Hsi (1130-1200) thought that this is correct, and added that Han Yü often liked to be different. See commentary on the *Han Ch'ang-li ch'üan-chi* (Complete Works of Han Yü). It was carefully collated by Chu Hsi and contains Chu's as well as other people's comments.
+
 [^5]: According to Chu Hsi, the meaning here is one of the five, not the first of the five.
+
 [^6]: This is Chu Hsi's interpretation.
+
 [^7]: See *Mencius,* 6A:6; *Hsün T*z*u*, ch. 23. For Yang Hsiung's doctrine, see above, ch. 15.
+
 [^8]: For this story, see *Kuo-yü* (Conversations of the States), ch. 14, SPPY, 14:3a. See de Harlez, trans., *Kuoe-yü,* pt. 2, p. 152.
+
 [^9]: Pronunciation according to the commentary.
+
 [^10]: See *Tso chuan* (Tso's Commentary on the *Spring and Autumn Annals*), Duke Chao, 28th year. See Legge, trans., *Ch'un Ts*'*e*w, p. 727.
 
 *[p. 453]* ^pg480
@@ -279,10 +303,15 @@ I reply: Those who talk about human nature today have confused their theories wi
 *Comment.* Han Yü has often been credited with originating the theory of the three grades of human nature. It is true that he was the first to use the term "three grades" in connection with man's
 
 [^11]: *ibid.,* Duke Hsüan, 4th year. See Legge, p. 296.
+
 [^12]: *Odes*, no. 245.
+
 [^13]: See *Kuo-yü,* ch. 10, SPPY, 10:19a. Cf. de Harlez, trans., *Kuoe yü,* p. 120. King Wen (r. 1171-1122 B.C.) was the founder of the Chou dynasty.
+
 [^14]: Yao and Shun were legendary sage-emperors (3rd millennium B.C.).
+
 [^15]: Founder of the Hsia dynasty (r. 2183-2175 B.C.?).
+
 [^16]: See above, ch. 2, comment on *Analects,* 17:3.
 
 *[p. 454]* ^pg481
@@ -310,9 +339,13 @@ Now the method \[of the Taoists and Buddhists\] is to insist on dis - carding th
 What were the teachings of our ancient kings? Universal love is called humanity. To practice this in the proper manner is called righteousness. To proceed according to these is called the Way. To be sufficient in oneself without depending on anything outside is called virtue. Their literature comprised the Books of *Odes*, *History, Changes,* and the *Spring and Autumn Annals.* Their methods consisted of rules of propriety,
 
 [^20]: Ch. 3, SPPY, 3:3a .
+
 [^21]: Ch. 7. See Makre, trans., *Hsiao King,* p. 7.
+
 [^22]: *Chung lun* (A Treatise on the Mean), ch. 9, SPTK, l:34a.
+
 [^23]: See above, ch. 3, comment on *Mencius,* Additional Selections, 3B:9 on the question of love with distinctions versus universal love.
+
 [^24]: The text of the *Great Learning.*
 
 *[p. 456]* ^pg483
@@ -346,9 +379,13 @@ pentance or regret, all arise from activity."[^28] Under such conditions, how ca
 *Comment.* There were no new theories about human nature after the Western Han (206 B.C.-A.D. 8) when Confucianists developed the theory that human nature was good but the feelings were evil, thus forming two levels. For several hundred years, then, there was no new concept about human nature. In this period both Buddhism and Taoism soared to great heights in their discussions of this question. Under the stimulation and challenge of Buddhism and in order to compete with it, Li Ao sought a compromise doctrine, found it in the Western Han Confucianists, and combined it with Mencius' doctrine of originally good human nature, the idea of tranquil nature in the *Book of Changes,* and the idea of the full development
 
 [^28]: "Appended Remarks," pt. 2, ch. 1. Cf. Legge, p. 380.
+
 [^29]: Ch. 21.
+
 [^30]: See n.28.
+
 [^31]: This refers to Yen Hui, Confucius' favorite pupil. See "Appended Remarks," pt. 2, ch. 5. Cf. Legge, pp. 392-393.
+
 [^32]: Commentary on hexagram no. 24, *fu* (to return). Cf. Legge, p. 108.
 
 *[p. 458]* ^pg485
@@ -370,8 +407,11 @@ of human nature in both Mencius and the *Doctrine of the Mean.* It is this origi
 33\. The text.
 
 [^34]: "Appended Remarks," pt. 1, ch. 10. Cf. Legge, p. 370.
+
 [^35]: Paraphrasing the text of the G*reat Learning.*
+
 [^36]: *Chuang Tzu,* chs. 16 and 4, respectively, NHCC, 6:5b, 8a, and 2:13a, respectively. See Giles, trans., *Chuang Tzu,* 1961 ed., pp. 156-157 and 54, respectively.
+
 [^37]: *ibid.,* ch. 13, NHCC, 5:24a-b. See Giles, pp. 132-133.
 
 *[p. 459]* ^pg486
@@ -397,8 +437,11 @@ The fact that he relies on the *Book of Changes* is important, for although many
 Furthermore, he developed the idea that "the many are \[ultimately\] one, and the one is actually differentiated into the many," and that "the one and many each has its own correct state of being," thus starting another fundamental concept of Neo-Confucianism and anticipating Ch'eng I (Ch'eng I-ch'uan, 1033-1107).[^4-p460] He also spoke of principle (*li*), the nature, and destiny together, which eventually became the three cardinal concepts in Neo-Confucian thought. But he never explained the nature of the Great Ultimate, the relation between it and principle,
 
 [^1-p460]: Also pronounced Chou Lien-ch'i.
+
 [^2-p460]: *Lao Tzu,* ch. 28; also *Chuang Tzu,* ch. 11, NHCC, 4:36a, Giles, trans., *Chuang Tzu,* 1961 ed., p. 112.
+
 [^3-p460]: For this book, see above, ch. 13, n.l.
+
 [^4-p460]: See below, ch. 32, sec. 75.
 
 *[p. 461]* ^pg488
@@ -412,8 +455,11 @@ The idea of sincerity of course comes from the *Doctrine of the Mean.*[^5-p461] 
 Chou was a native of Tao-chou in present Hunan. His personal name
 
 [^5-p461]: Chs. 16, 20-26, 32.
+
 [^6-p461]: Notably by Huang Tsung-hsi (1610-1695) and Huang Kan (Huang Mien-chai, 1152-1221). See Huang Tsung-hsi *et al*., *Sung-Yüan hsüeh-an* (Anthology and Critical Accounts of the Neo-Confucianists of the Sung and Yüan Dynasties, 960-1368), SPPY, 12:17a, 18a.
+
 [^7-p461]: See below, ch. 31, secs. 18, 32, 46, 50; ch. 32, sec. 46.
+
 [^8-p461]: *Sung-Yüan hsüeh-an,* SPPY, 11:2a. Graham, in his *Two Chinese Philosophers,* pp. 152-175, argues that Chou had little influence on the Ch'eng brothers and should not be regarded as the founder of Neo-Confucianism. In view of what has been said, his statements like "The philosophy of the Ch'engs is not a development of that of Chou Tun-yi; it is based on quite different premises" (p. 162) are untenable. See my review of Graham's book in the *Journal of the American Oriental Society,* 79 (1959), p. 154.
 
 *[p. 462]* ^pg489
@@ -429,10 +475,15 @@ Below, following the list of major concepts and chapter references of the *T'ung
 Activity and Tranquillity: 2, 4, 5, 9, 12, 16, 20, 35, 40 Cosmology and Metaphysics: 1, 11, 16, 36 Good and Evil: 3, 7, 15 Government: 12, 32 Humanity and Righteousness: 3, 5, 6, 11, 12 Impartiality: 20, 21, 37 Incipient activating force: 3, 4, 9 Mean: 6, 7, 17 Nature and Destiny: 1, 3, 22
 
 [^9-p462]: *I-shu* (Surviving Works), 3:2a, in ECCS.
+
 [^10-p462]: *ibid.,* 2A:2b, 7:1a, 3:1b; *Ts'ui-yen* (Pure Words), 2:13b, in ECCS.
+
 [^11-p462]: *I*-*shu*, 6:4a.
+
 [^12-p462]: Chou had a busy official career. He was district keeper of records (1040), magistrate in various districts (1046-1054), prefectural staff supervisor (1056- 1059), professor of the directorate of education and assistant prefect (1061- 1064), among others. It was when he was assistant prefect that he built his study, "Stream of Waterfalls." He resigned from his governmental position in 1072, the year before he died. See *Sung shih* (History of the Sung Dynasty, 960- 1279), SPTK, 427:2b-5a and Bruce, *Chu Hsi and His Masters,* pp. 18-24.
+
 [^13-p462]: This short essay is found in many other collections and has been translated into several European languages. The diagram, of which the essay is an explanation, is not necessary for the understanding of the philosophical ideas in general or for the understanding of the essay in particular.
+
 [^14-p462]: There are many editions. The *Cheng-i-t'ang ch'üan-shu* (Complete Library of the Hall of Rectifying the Way) edition of 1869 has commentaries by Chu Hsi. That in the *Chou Tzu ch'üan-shu* (Complete Works of Chou Tun-i) contains comments by other Neo-Confucianist also. For a German version by Grube, see Bibliography. Other translations are: de Harlez, *L'École philosophique moderne de la Chine,* pp. 25-32 (partial); P. C. Hsü, *Ethical Realism in Neo-Confucian Thought,* Appendix, pp. i-iv (partial); and Chow Yih-Ching, *La philosophie morale dans le Néo-Confucianisme,* pp. 163-188. The *Wan-yu wen-k'u* (Universal Library) edition of the *Chou Tzu ch'üan-shu* is used here.
 
 *[p. 463]* ^pg490
@@ -470,8 +521,11 @@ Therefore it is said that "yin and yang are established as the way of Heaven, th
 A great amount of literature has grown up on the history of the diagram and on the concept of the Great Ultimate. So far as philosophy is concerned, most Neo-Confucianists have followed Chou although they have differed in many details. However, two of Chou's ideas have aroused considerable criticism. One is the idea of the Non-ultimate. One of the famous debates between Chu Hsi and Lu Hsiang-shan (Lu Chiu-yüan, 1139-1193) was over this idea. The word *erh* in the opening sentence means "and also" or "in turn." But it can be interpreted in the sense of "and then," in which case, the Non-ultimate and the Great Ultimate would be two separate entities. This was precisely what Lu Hsiang-shan was objecting to, as he saw in Chou Tun-i a bifurcation of reality as two.[^19] On the other hand, Chu Hsi claimed that Chou never meant that there is a Non-ultimate outside of the Great Ultimate,<sup>20</sup> that the Non-ultimate is the state of reality before the appearance of forms whereas the Great Ultimate is the state after the appear-
 
 [^16-p464]: *Changes,* commentary on hexagram no. 1, *ch*'*ien* (Heaven). Cf. Legge, trans., *Yi King,* p. 417.
+
 [^17]: *ibid.,* "Remarks on Certain Trigrams," ch. 2. Cf. Legge, p. 423.
+
 [^18]: *ibid.,* "Appended Remarks," pt. 1, ch. 4. Cf. Legge, p. 353.
+
 [^19]: *Hsiang-shan ch'üan-chi* (Complete Works of Lu Hsiang-shan), SPPY, 2:6a, 9a.<sup>20</sup> *Chu Tzu yü-lei* (Classified Conversations of Chu Hsi), 1876 ed., 94:2a-b. of being, actuality, realness.
 
 *[p. 465]* ^pg492
@@ -543,10 +597,12 @@ The word *chi* means an originating power, an inward spring of activity, an emer
 "The state of absolute quiet and inactivity" is sincerity. The spirit is that which, "when acted on, immediately penetrates all things."[^40] And the state of subtle incipient activation is the undifferentiated state between existence and nonexistence when activity has started but has not manifested itself in physical form. Sincerity is infinitely pure and hence evident. The spirit is responsive and hence works wonders. And incipient activation is subtle and hence abstruse. The sage is the one who is in the state of sincerity, spirit, and subtle incipient activation.
 
 [^36-p467]: See Chan, "The Neo-Confucian Solution of the Problem of Evil," *Studies Presented to Hu Shih on His Sixty-fifth Birthday,* pp. 773-791.
+
 [^37-p467]: See chs. 7 and 22.
 3\. <sup>8</sup> *Li-hsüeh tsung-ch'uan* (Orthodox Transmission o f N ee-Confucianism), 188 0 ed.19a
 
 [^39]: *Chou Tzu ch'üan-shu,* p. 178.
+
 [^40]: *Changes,* "Appended Remarks," pt. 1, ch. 10. Cf. Legge, p. 370.
 
 *[p. 468]* ^pg495
@@ -614,7 +670,9 @@ Heaven produces the ten thousand things through yang and brings them to completi
 In governing a hamlet of ten families, it is impossible to complete the task even if one teaches everybody most earnestly to the point of whispering to his ears. How much more difficult in an extensive empire with millions of people. The answer is this: Purify the heart, that is all. By purity is meant that one, whether he is active or tranquil, does not violate humanity, righteousness, propriety, and wisdom in his speech, appearance, seeing, or listening. When one's heart is pure, men of virtue and talents will come to help him. With the help of such men the empire will be governed. Purity of heart is indeed important, and the employment of men of virtue and talents is an urgent matter.
 
 [^46]: I-yin was a minister who helped Tang found the Shang dynasty (1751- 1112 B.C.). T'ang's grandson, T'ai-chia (r. 1738-1727 B.C.) was not a good ruler and banished I-yin. Yao and Shun were 3rd millennium B.C. legendary sages for Confucianists. For the story about I-yin, see *History,* "Charge to Yüeh," pt. 3 (Legge, trans., S*hoo King,* p. 262).
+
 [^47]: Confucius' favorite pupil. 48
+
 [^49]: *ibid.,* 6:5.
 
 *[p. 471]* ^pg498
@@ -658,9 +716,13 @@ In ancient times sage-kings instituted ceremonies and cultivated moral education
 Later generations have neglected ceremonies. Their governmental measures and laws have been in disorder. Rulers have indulged their material desires without restraint, and consequently the people below them have suffered bitterly. Rulers have claimed that ancient music is not worth listening to and replaced it by or changed it into modern music, which is seductive, licentious, depressive, and complaining. It arouses desires and increases bitterness without end. Therefore there have been cases of people destroying their rulers, casting away their fathers, taking life lightly, and ruining human relations, and it has been impossible to put an end to such atrocities. Alas! Ancient music appeased the heart but
 
 [^51]: In his commentary Chu Hsi says, "Spirit does not leave physical form but is not restricted by it."
+
 [^52]: Chu Hsi said, "There is tranquillity in activity and there is activity in tranquillity."
+
 [^53]: See above, ch. 1, sec. 3.
+
 [^54]: Chu Hsi said that according to some, the word *chung* (middle) should read *ch'eng* (to complete).
+
 [^55]: Paraphrasing *Lao Tzu ,* ch. 68.
 
 *[p. 473]* ^pg500
@@ -712,8 +774,11 @@ The myriad things are created and transformed out of the two material forces and
 *Comment.* This is the most important chapter, because, as the title indicates, it deals with the three basic subjects in Neo-Confucianism: human nature, principle, and destiny. Strangely enough, none of the words appears in the chapter. According to Chu Hsi, the first sentence deals with principle, the next three deal with nature, and the rest deals with destiny.[^59] But as Sun Ch'i-feng pointed out, destiny refers to the endowment by Heaven and nature refers to what is inherent in man and things, and both are principle.[^60] Chu Hsi identifies the one with the Great Ultimate. The fundamental Neo-Confucian tenet, that substance is one but its manifestations are many, is here succinctly stated. As Chu Hsi said, "The one and the many each having its own correct state of being means that principle is one but its manifestations are many."[^61] Thus in this
 
 [^58]: See below, ch. 32, secs. 32 and 46.
+
 [^59]: *Chou Tzu ch'üan-shu,* pp. 168-169.
+
 [^60]: *ibid.,* p. 169. According to Lü Nan (1479-1542), the chapter is primarily intended to show that nature and destiny follow the same principle. See his *Sung ssu-tzu ch'ao-shih* (Excerpts from Four Masters of Sung, 960-1279, Explained), *Hsi-yin-hsien ts'ung-shu* (Hall of Being-Careful-with-Time Collection) ed., sec. on Master Chou, 1:8a.
+
 [^61]: *Chu Tzu yü-lei,* 94:41b.
 
 *[p. 475]* ^pg502
@@ -739,9 +804,13 @@ Moral principles are honorable and valuable only when they are possessed by man.
 Tzu-lu[^65] was happy to hear about his mistakes[^66] and his good reputation was unlimited. Nowadays when people have faults they do not like others to correct them. It is as though a man should hide his illness and
 
 [^62-p475]: *Analects,* 6:9.
+
 [^63-p475]: Chu Hsi thought that these words should be added to the text.
+
 [^64-p475]: Chu Hsi (*Chou Tzu ch'üan-shu,* p. 172) thought the word *ch'i* (equal) is out of place or it means to be equal to the sage. But there is nothing wrong in accepting the word in its ordinary meaning "to equalize." Is it because Chu Hsi did not want to associate Master Chou with Chuang Tzu's doctrine of equality of things?
+
 [^65]: Confucius' pupil, 542-480 B.C.
+
 [^66]: *Mencius,* 2A:8.
 
 *[p. 476]* ^pg503

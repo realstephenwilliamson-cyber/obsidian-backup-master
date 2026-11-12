@@ -24,17 +24,17 @@ aliases:
 | Frag. A+, a, b | Lev 4:24-26 (31-35) |
 | Frag. f | Lev 6:12-13? |
 | Frag. c | Lev 8:10-11? |
-| Frag. I, i | Lev 18:27 - 19:4 |
 | Frag. B, d, n, aa | Lev 10:4-7 |
-| Frag. J+, j | Lev 20:1-6 |
 | Frag. C | Lev 11:27-32 |
-| Frag. K, L+ i, ae | Lev 21:6-12 |
 | Frag. D+ | Lev 13:3-9 |
-| Frag. L ii, Col. 1 | Lev 22:21-27 |
 | Frag. e, m | Lev 13:32-35? |
 | Frag. E | Lev 13:39-43 |
 | Frag. F+, ab | Lev 14:16-21 |
 | Frag. G i | Lev 14:52 - 15:5 |
 | Frag. G ii, M+ | Lev 16:1-6 |
+| Frag. I, i | Lev 18:27 - 19:4 |
+| Frag. J+, j | Lev 20:1-6 |
+| Frag. K, L+ i, ae | Lev 21:6-12 |
+| Frag. L ii, Col. 1 | Lev 22:21-27 |
 
 [[DSS 9Q|← 9Q]] · [[Qumran|index]] · [[DSS 11Q2|11Q2 →]]

@@ -107,50 +107,91 @@ Therefore, [the following rule should be applied] if there are animals designate
 **12.** After Rosh Chodesh Nisan arrived, the following [procedure] would be adhered to concerning the remainder of the incense offering:[^41] They would transfer the consecrated quality [of the incense] to [the funds designated] to be given to the artisans [who prepared it] as their wages. These funds were then used for "the dessert of the altar," and the artisans would take the remainder of the incense offering as their wages.[^42] Afterwards, they would buy back the incense from [the artisans] with money from the new collection [of shekalim]. If the funds from the new collection had not arrived, they would offer the incense [purchased with funds] from the collection of the previous year. ^4-12
 
 [^1]: As mentioned in Chapter 2, Halachah 4, this term refers to the funds collected from the half-shekalim and placed in the three large baskets. In addition, other funds remained from the half-shekalim in this chamber, and the Temple treasury had other funds from other sources.
+
 [^2]: This applies even to the private offerings that people would bring. A person was not required to bring the salt (or wood) to be used for his sacrifice (*Hilchot Issurei Mizbe'ach* 5:13).
+
 [^3]: As mentioned in *Hilchot Klei HaMikdash* 6:9, certain families were given the privilege of providing the wood for the altar in the Temple. If, however, the wood they brought did not suffice, additional wood would be purchased from the funds in the Temple treasury.
+
 [^4]: See also Halachah 12.
+
 [^5]: Note the *Mishneh LaMelech*, which states that the text contains a printing error, and that the scarlet thread is a reference to the scarlet thread used in the ceremony of the burning of the red heifer. There are, however, later commentaries that justify the standard text.
+
 [^6]: Based on Rashi, *Ketubot* [[Ketubot 106#106a|106a]], it appears that this refers to the two curtains that separated the Sanctuary from the Holy of Holies. In the First Temple, a wall served this function. The Second Temple was much taller than the First Temple (100 cubits, as opposed to 30), and a wall only a cubit thick and 100 cubits high would not be structurally sound. Therefore, the Sages replaced the wall with two curtains. See *Hilchot Beit HaBechirah* 4:2. Since these curtains replaced a structure of stone, they were governed by different rules from those governing the other curtains in the Temple. Among the differences was that they were not paid for from these funds.
+
 [^7]: One of the 83 sections of the *Mishneh Torah*; the second section of *Sefer HaAvodah*, "the Book of Divine Service."
+
 [^8]: In Chapter 7, Halachah 13 of those laws, the Rambam writes that the prices for the wine for the libations and the flour for the meal offerings are fixed with the suppliers every thirty days. If the price for these commodities increases on the general market, the suppliers are still obligated to provide the Temple with the commodities at the price agreed upon previously. If, however, the price for them decreases on the general market, the suppliers must sell them to the Temple at their present market value. The profit realized by the Temple treasury in this manner is referred to as "the [funds stemming from] the remainder of the libations."  
     Significantly, however, in those laws the Rambam mentions that these funds are used to purchase burnt offerings, and does not mention that they were used to fashion the sacred articles. The commentaries resolve this discrepancy by stating that only rarely was it necessary to purchase sacred articles. Hence, these funds were primarily used for the purchase of burnt offerings.
+
 [^9]: Chapter 6, Halachah 18.
+
 [^10]: *Shekalim* 7:5 relates that the Temple officers would originally require the person who discovered the animal to bring the wine libation that accompanied it. When this led to a negative outcome, they decided to have the wine libations brought from communal funds.
+
 [^11]: For the burnt offering sent by a gentile may be sacrificed in the Temple (*Hilchot Ma'aseh HaKorbanot* 3:2). Were the gentile to send wine for the libations, it would not be acceptable (*ibid.:*5).
+
 [^12]: I.e., a convert without Jewish heirs. If he has heirs, and similarly for a native-born Jew who dies after having designated animals as offerings, the heirs are required to supply the wine libations.
+
 [^13]: A meal offering resembling a pancake, brought daily by the High Priest.
+
 [^14]: The *Kessef Mishneh* notes a contradiction between the Rambam's statements here and those in *Hilchot Temidim UMusafim* 3:22, where he states that the High Priest's meal offering should be brought by his heirs after he dies. (It must be noted that a similar contradiction can be found in the Rambam's Commentary on the Mishnah. In his commentary on *Shekalim* 7:5, he renders a decision similar to the ruling in this halachah, while in his commentary on *Menachot* 4:5, his decision is analogous to that rendered in *Hilchot Temidim UMusafim*.)  
     Rav Kapach offers the following resolution: If a High Priest dies without bringing a meal offering on a particular day, his heirs are required to bring it. On subsequent days, however, the offering should be brought from communal funds.
+
 [^15]: A first-born animal that has a permanent blemish must be given to a priest as a gift. It is not, however, sacrificed on the altar. One of the points of Rabbinic expertise mentioned by the Talmud is the ability to distinguish between a temporary blemish and a permanent one.  
     Although *Tosafot, Ketubot* 106a, offers this explanation, they also note that *Bechorot* [[Bekhorot 29#29b|29b]] forbids accepting a wage for inspecting the blemishes of a first-born. *Tosafot*, however, differentiate between a wage paid by a private individual and one paid by the community. Alternatively, *Tosafot* explain that this refers to scholars who inspected animals before they were sacrificed. This was necessary because an animal with a blemish was unfit.
+
 [^16]: This statement is very significant within a totally different context. In *Hilchot Talmud Torah* 1:7, the Rambam writes that it is forbidden to accept a wage for teaching the Oral Law. See also Chapter 3, Halachah 10 of those laws, where the Rambam writes:  
     Anyone who comes to the conclusion that he should involve himself in Torah study without performing work, and derive his livelihood from charity, desecrates [God's] name, dishonors the Torah, and extinguishes the light of faith.... [See also the Rambam's Commentary on the Mishnah (*Nedarim* 4:3; *Avot* 4:7).]  
     The above ruling appears to contradict these statements. Among the resolutions offered is that here, the Rambam is allowing the teachers to receive recompense because instructing the students is their occupation. Were they not charged with this responsibility, they would occupy themselves in another profession. Alternatively, they were allowed to receive payment for teaching the practical side of these activities, and not their theoretical dimensions.
+
 [^17]: See *Hilchot Parah Adumah* 2:7, which explains that it was customary that a person who never contracted ritual impurity at all be the one who takes part in the purification rite of the High Priest before he offers the red heifer. For this purpose, women would raise their children in a specific area of Jerusalem, making certain that they never came in contact with a source of impurity.
+
 [^18]: Although we are forbidden to plant any crops in the Sabbatical year, the Torah allows us to benefit from the small amount of produce that grows on its own accord from left-over seeds and the like. Our Sages forbade deriving personal benefit from such produce (*Hilchot Shemitah* 4:1-2); it may, however, be used for a mitzvah. Nevertheless, because the prohibition was only Rabbinic in origin, it was not observed carefully by the entire population. Hence, to ensure that there was a sufficient quantity of grain available for these offerings, it was necessary to hire watchmen.
+
 [^19]: Offered on the sixteenth of Nisan ([[Torah 31 - Emor#^23-11|Leviticus 23:11]] .
+
 [^20]: Offered on the holiday of Shavuot (*Ibid*.:17).
+
 [^21]: Rashi, *Bava Metzia* [[Bava Metzia 118#118a|118a]], states that hiring people to watch it makes it public knowledge that it was designated for use as an offering. Hence, even men of force will refrain from harvesting these crops.
+
 [^22]: *Hilchot Sanhedrin* 23:5 states that a judge is forbidden to receive a wage for presiding over a case. Nevertheless, these judges were paid a wage, for their involvement in these cases prevented them from pursuing any other means of deriving a livelihood.
+
 [^23]: *Ketubot* [[Ketubot 105#105a|105a]] states ninety-nine *maneh*.
+
 [^24]: A *maneh* was 100 *dinarim*. As can be derived from Chapter 1, Halachah 3, a *dinar* was equivalent to the weight of 96 barleycorns of silver.
+
 [^25]: I.e., even if the judges do not feel it correct to impose on the community, the needs of their households are to be met.
+
 [^26]: Note the *Chatam Sofer* (*Choshen Mishpat*, Responsum 5), who states that the judges' needs should be generously provided for.
+
 [^27]: See *Hilchot Parah Adumah* 3:1-2.
+
 [^28]: *Yoma* [[Yoma 66#66a|66a]] states that this ramp was built because the Jews from Egypt would pull the hair of the priest leading the goat to hurry him on his way.
+
 [^29]: As stated in Chapter 2, Halachah 4, the *sheyarei halishcah*, "the remainder within the chamber," refers to the funds that remain from the collection of shekalim after the coins were placed in the three large baskets.
+
 [^30]: The *Kessef Mishneh* notes that *Ketubot* [[Ketubot 106#106a|106a]] states that the funds for these improvements should come from *Bedek HaBayit*, the resources consecrated for the purpose of maintaining the Temple structure, and not from *sheyarei halishcah*. Rav Kapach, however, notes that the *Shitah Mekubetzet* quotes a different version of that Talmudic passage, which appears to be the source for the Rambam's ruling.
+
 [^31]: I.e., a gentile who commits himself to observing the seven universal laws commanded to Noach and his descendants. (See *Hilchot Melachim* 8:10, 9:1-2.) This concept is derived from the fact that the Samaritans who volunteered to assist Zerubavel in the construction of the Second Temple were not idol worshipers (*Kessef Mishneh*).
+
 [^32]: Since the funds were given with a specific intent, they could not be used for this purpose unless such a condition was made.
+
 [^33]: Our translation is based on the Rambam's Commentary on the Mishnah (*Shekalim* 4:4), which explains that the word *kayitz* refers to the conclusion of the summer, the days of the fig and grape harvest. In addition to the mainstay of their meals, people often eat these fruits. Similarly, these offerings are brought on the altar in addition to the sacrifices that are usually offered.
+
 [^34]: The Ra'avad differs with the Rambam on this point, noting that although the Jerusalem Talmud (*Shekalim* 5:4) makes a statement resembling the Rambam's ruling, it proceeds to explain that statement as referring only to a specific type of donation: a collection of used utensils. According to the Ra'avad, other resources donated to *Bedek HaBayit* may be used only for improvements to the Temple. The *Kessef Mishneh* and others justify the Rambam's ruling.
+
 [^35]: The Jerusalem Talmud (*Shekalim* 1:1) cites a historical precedent: Just as the first communal sacrifices were brought on the altar in the desert on Rosh Chodesh Nisan, similarly, in subsequent years we renew the practice of bringing communal offerings by using funds from the new collection. In this vein, *Rosh HaShanah* [[Rosh Hashanah 7#7a|7a]] refers to Rosh Chodesh Nisan as "the Rosh HaShanah for the setting aside of the shekalim."
+
 [^36]: It is, however, as if one "forfeited a mitzvah" (*Rosh HaShanah, loc. cit.*).
+
 [^37]: It was customary that there be a minimum of six lambs prepared to be offered kept in the Chamber of the Lambs (*Hilchot Temidim UMusafim* 1:9). This custom was also observed on the twenty-ninth of Adar. Thus, there were always four lambs left over on Rosh Chodesh Nisan (Rashi, *Sh'vuot* [[Shevuot 10#10b|10b]]).
+
 [^38]: For the consecrated status of an animal or an article can never be changed without its being redeemed.
+
 [^39]: *Avodat HaMelech* asks why, concerning these animals, we do not follow the same procedure mentioned in the following halachah concerning the remainder of the incense offering - i.e., that they be redeemed and then purchased again with the funds of the new collection of shekalim.  
     As a possible resolution, he explains that it is forbidden to use for mundane purposes a collection of spices identical to those of the incense offering ([[Torah 21 - Ki Tisa#^30-38|Exodus 30:38]]; *Hilchot Klei HaMikdash* 2:9). Thus, there would be no use at all for the remainder of the incense offering. For this reason, the Sages ordained that it be repurchased. Concerning the lambs, by contrast, once they are redeemed there is no difficulty in using them for mundane purposes.
+
 [^40]: See Halachah 9 and notes.
+
 [^41]: Every year, 368 measures of incense were prepared, 365 corresponding to the days of a solar year, and three extra measures for the incense offering of the High Priest on Yom Kippur (*Keritot* [[Keritot 6#6a|6a]]). Since an ordinary lunar year has either 353, 354, or 355 days, in every ordinary year there were always several portions of incense remaining.
+
 [^42]: From the Rambam's Commentary on the Mishnah (*Shekalim* 4:5), it would appear that the artisans were given the extra portions of the incense at the beginning of the year, they kept the incense in their possession and it was not repurchased from them until the following year. According to either interpretation, the artisans would have to wait an entire year to receive this portion of their wages.

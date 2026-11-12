@@ -349,19 +349,33 @@ You revealed (them) to Moses, and Moses to Joshua, and Joshua to the elders, and
 § 676
 
 [^b]: “the name” O \] “heaven” N; “H” (abbreviation of “YHWH”) M40
+
 [^a]: “to the pious ones and the pious ones” N O \] “to Your pious ones and Your pious ones” M40
+
 [^c]: Cf. *m. Abot* 1:1. This passage is also paraphrased in *3 Enoch* 48D:10 (§ 80); *Shi#ur Qomah* § 397//474//734; and *Ma#aseh Merkavah* § 544. See
+
 [^d]: “the sons of” Schäfer, *Übersetzung*, 4:77 n. 4 and Swartz, *Scholastic Magic*, 175–190. O M40 \] om N
+
 [^e]: “learning” or “Talmud.”
+
 [^f]: “by means of them” O M40 \] N
+
 [^g]: “My will” O M40 \] “His will” N
+
 [^h]: “from all” N O M40 \] “in all” (corrupt) *⟨*O*⟩*
+
 [^i]: “and from all guilt and from all iniquity” N O \] “and guilt and iniquity” M40
+
 [^j]: “and I am with you” O \] “and we are with you” (corrupt) N; “and I am future” (corrupt) M40
+
 [^k]: “at every time and in every hour” N M40 \] “in every hour and at every time” O
+
 [^l]: “and in every moment” N O \] om M40
+
 [^m]: “you are lifted up” O M40 \] om N
+
 [^n]: “For” O M40 \] om N
+
 [^o]: “*and lifted-up*” (Isa 6:1) O M40 \] om N § 676
 
 *[p. 318]* ^pg327
@@ -589,16 +603,27 @@ Every wise disciple who knows this great mystery must sleep[^a-p322] on his bed 
 § 682
 
 [^r]: “whatever R. Akiva said to you” N O \] “what R. Akiva asked” M40
+
 [^s]: “my mouth says” O \] “and along the same lines (lit. “and circumferentially”) I say” N; “and from my mouth they say” (corrupt) M40
+
 [^t]: “But for” O M40 \] “To me perhaps” (corrupt) N
+
 [^u]: “that was” O M40 \] “that left over” (corrupt) N
+
 [^v]: “made” N O \] “written” M40
+
 [^w]: i.e., the priests.
+
 [^x]: the angels
+
 [^y]: For the importance of R. Ishmael’s priestly lineage see also *Ma#aseh Merkavah* § 586.
+
 [^z]: or “they adjure” aa or “they adjure” bb “by his master” N O \] “by speech” M40 cc Schäfer (*Übersetzung* 4:84 nn. 15–18) takes this sentence to refer in the first clause to God and his angels and in the second to Metatron and God. This seems correct (cf. *Sar Torah* § 300), but the sentence may be a parable with a literal sense that only implies the divine sense, i.e., just as a human being may be made to swear by the name of a human superior, so angels are adjured by the names of their divine superiors. dd “names” N O \] “His name” M40 ee “of his hands were counting” N O \] om M40 ff “And so,” O M40 \] “And receive (impv. masc. sg.):” N gg “his mouth must enunciate” O \] “full of withholding(?)” (corrupt) N; “his mouth his mouth must enunciate” (corrupt) M40 hh “his hands” N O \] “my hand(s)” M40 ii “he subtracts from them or” O \] om N; “he has subtracted from the names or” O jj “to them” N M40 \] om O kk Compare this praxis to those in *Hekhalot Rabbati* §§ 204–205, *The Chapter of R. Nehuniah ben HaQanah* § 310, and perhaps *Hekhalot Zutarti* § 359, *Ma#aseh Merkavah* § 590, and G8 2b 20. § 682
+
 [^a-p322]: “must sleep” O M40 \] “—How does he do (it)?—when he sleeps” N
+
 [^b-p322]: “and recite” O M40 \] “he must recite”
+
 [^c-p322]: This phrase could also be read as part of the first sentence, with the second sentence beginning with “At the first watch …” § 684 <sup>a</sup>
 
 *[p. 323]* ^pg332
@@ -614,17 +639,29 @@ R. Ishmael said:
 A man must fast forty days at one (time).[^b-p323] He must eat bread that he makes with his (own) hands[^c-p323] and drink water that he draws with his (own) hands.[^d-p323] He must not eat meat or drink wine or taste any kind of vegetable.[^e-p323] And if he has a sexual emission, he must begin his praxis over again.
 
 [^d-p323]: “with his (own) hands” M40 \] “from his (own) hands” N; “with his (own) hand” O
+
 [^e-p323]: “any kind of vegetable.” O M40 \] “anything, whatever it is.” N
+
 [^f-p323]: or “this one is”
+
 [^g-p323]: “who is called names” N O \] “whose name is called” M40
+
 [^h-p323]: “ ṪNRY"L … who is Metatron” om N
+
 [^i-p323]: “ZRZRY"L, who is Metatron;” om N
+
 [^j-p323]: N adds “SSGWNDYH, who is Metatron;”
+
 [^k-p323]: N adds “*is YHWH of Hosts, the whole earth is full of His*
+
 [^l-p323]: “And he issues decrees over them.” N \] “Decrees.” O M40
+
 [^m-p323]: Cf. the list *glory*” (Isa 6:3). of the names of Metatron in this paragraph to the lists in in *Hekhalot Rabbati* § 277, *The Chapter of R. Nehuniah ben HaQanah* § 310, and G19 1a 25b–1b 2a. Schäfer notes additional parallels in *Übersetzung*, 4:87–89. § 683
+
 [^a-p323]: For other forty-day fasts, see *Hekhalot Zutarti* § 424 n. d. Also, cf. this praxis to the one in *Sar Torah* § 299 and parallels noted in § 299 n. a.
+
 [^b-p323]: “at one (time)” O \] “as one” N; “at one” M40
+
 [^c-p323]: “with his (own) hands” N; “with his (own) hand” O; om M40
 
 *[p. 324]* ^pg333
@@ -744,30 +781,55 @@ I adjure[^a-p326] by the great seal,[^b-p326] blessed is He:[^c-p326] WYHWH YH {
 § 689
 
 [^p]: “who is upon you” O M40 \] “that you have ascended” (corrupt) N
+
 [^q]: “like the happiness of” O \] “in the happiness of” N M40
+
 [^r-p326]: “the bridegroom” N \] + “and bride” O M40
+
 [^s-p326]: “in his bridal chamber” N O \] “in their bridal chamber” M40.
+
 [^t-p326]: Paragraphs 94 and 154 read “let all the seed of Jacob be happy and rejoice!”
+
 [^u-p326]: “under” N O \] + “the shadow of” M40 (cf. Pss 17:8; 36:8; 57:2; 63:8)
+
 [^v-p326]: Cf. Ps 91:4.
+
 [^w-p326]: There is no main clause to go with this dependent clause. Paragraphs 94//154 add “in the happiness of a heart that is happy in you,” but this does not resolve the grammatical problem.
+
 [^x-p326]: “your conversation” O M40 \] “in your conversation” N
+
 [^y-p326]: “you recount,” N O \] om M40
+
 [^z-p326]: N adds the rest of the verse.
+
 [^b-p326]: For “the great seal” and “the great adjuration” see § 678 n. e.
+
 [^a-p326]: “I adjure” N O \] “One adjures me” (corrupt) M40
+
 [^c-p326]: “blessed is He” N \] “blessed are You: HY" (“she”)” O; om M40
+
 [^d-p326]: “and let there be”
+
 [^e-p326]: “let there be”
+
 [^f-p326]: “and they shall be”
+
 [^g-p326]: “Living One” or “alive”
+
 [^h-p326]: “Living One” or “alive”
+
 [^i-p326]: “H/he/it was”
+
 [^j-p326]: “Living One” or “alive”
+
 [^k-p326]: “H/he/it was”
+
 [^l-p326]: “she”
+
 [^m-p326]: “H/he/it was”
+
 [^n-p326]: “H/he/it was”
+
 [^o-p326]: “the name” N \] om O M40
 
 *[p. 327]* ^pg336
@@ -955,30 +1017,55 @@ His neck: six[^a-p330] myriad[^b-p330] and eight thousand[^c-p330] myriad parasa
 § 697
 
 [^b-p330]: “The height § 696
+
 [^a-p330]: “six” O M40 \] om N can also be read as “(His) great (neck)” (Aramaic)
+
 [^c-p330]: “and eight thousand” O \] “eight thousand” N; om M40
+
 [^d-p330]: “is its height” O M40 \] + “and another says: thirteen thousand myriad parasangs is its height.” N
+
 [^e-p330]: The bracketed phrase appears only in N.
+
 [^f-p330]: “"HYH” or “I am” (cf. Exod 3:14)
+
 [^g-p330]: “three hundred myriad” O \] “myriads” M40
+
 [^h-p330]: “righteous”
+
 [^i-p330]: “resplendent” (cf. Cant 5:9a in § 704 below)
+
 [^j-p330]: “distinguished” (cf. Cant 5:9, not quoted in § 704 below, but quoted in *Hekhalot Zutarti* § 419; cf. § 704 n. g)
+
 [^k-p330]: “ruddy” (cf. Cant 5:9a in § 704 below) or “Edom”
+
 [^l-p330]: “so”
+
 [^m-p330]: “Living One” or “alive”
+
 [^n-p330]: “will”
+
 [^o-p330]: “QQQ” could be read as an abbreviation for *Holy, holy,*
+
 [^q-p330]: “they have seen”
+
 [^r-p330]: “righteousness” *holy* (Isa 6:3).
+
 [^p-p330]: spelling out the letter *yod*.
+
 [^s-p330]: “Rock”
+
 [^t-p330]: “righteous”
+
 [^u-p330]: “H/he/it was”
+
 [^w-p330]: “distinguished”
+
 [^v-p330]: spelling out the letter *yod*.
+
 [^x-p330]: “resplendent”
+
 [^y-p330]: “ruddy”
+
 [^z-p330]: “and God” or “and do not” aa “the Living One” bb “by you/You (masc. sg.)” cc “entirely” dd “by means of this” ee Emend to “His” ff Emending gg The bracketed material appears only in N. A version with Schäfer, *Übersetzung*, 4:108. of this list of seventy names appears in M40(§ 948). b N § 697 § 698
 
 *[p. 331]* ^pg340
@@ -990,25 +1077,45 @@ parasangs. The height of the garland:[^h-p331]Y"DWRYH is its name. The crown tha
 *His locks are wavy* (Cant 5:11). The Holy One, blessed be He,[^a-p331] had nine hundred and ten[^b-p331] locks before the sanctuary was destroyed.[^c-p331] And after the sanctuary was destroyed, four hundred ninety.[^d-p331] \[*My eyebrows are* *\[ni\]ght* (Cant 5:2), it is written.\][^e-p331] And how many is the crown lacking? Four hundred and two.[^f-p331] From His right ear to his left ear: Two hundred and
 
 [^h-p331]: Cf. the garland on the head of the captured Ammonite idol in 2 Sam 12:30. As in the reading
+
 [^i-p331]: “The of N below, it also contained a precious stone. Cf. Schäfer, *Übersetzung*, 4:110 n. 14. circumference of … parasangs.” om N
+
 [^j-p331]: “parasangs” N O \] om M40
+
 [^k-p331]: “is its height” O M40 \] “on top of Him” or “on His back” N
+
 [^l-p331]: The bracketed sentence appears only in N.
+
 [^m-p331]: “the stature” N O \] om M40
+
 [^n-p331]: Cf. *Hekhalot Zutarti* § 374 n. c and 704 n. b below. The use of a name here which is connected with Solomon may foreshadow the quotations from the Song of Songs in the next paragraph.
+
 [^o-p331]: The bracketed material appears only in N.
+
 [^q-p331]: “forever and ever.” N M40 \]
+
 [^p-p331]: “*mighty and fearsome*” (Deut 10:17) N M40 \] “and mighty” O om O. The sentence is abbreviated in M40.
+
 [^r-p331]: It is unclear whether this sentence refers to what came before or what comes after.
+
 [^s-p331]: “His garland” (Aramaic)
+
 [^t-p331]: “His name” or “it’s name” (the stature’s?)
+
 [^u-p331]: Cf. Hos 2:25
+
 [^v-p331]: The bracketed paragraph appears only in N and is a variant doublet of the paragraph preceding it. Cf. the parallel material in M40(§ 949).
+
 [^b-p331]: “nine hundred and ten” N \] “ninety and ten” O; § 698
+
 [^a-p331]: This phrase is corrupt in M40. om M40
+
 [^c-p331]: “was destroyed” N O \] om M40. This sentence is corrupt in all the manuscripts and it is impossible to make the numbers add up.
+
 [^d-p331]: “four hundred ninety.” O M40 \] “four hundred.” N
+
 [^e-p331]: The bracketed sentence appears only in N.
+
 [^f-p331]: “Four hundred and two.” O M40. “Four hundred and twenty.” N § 699
 
 *[p. 332]* ^pg341
@@ -1018,27 +1125,49 @@ four thousand RWDYN[^g-p332] of locks. And His ear is ninety worlds. The width o
 The opening of His eyeballs: three myriad, thirteen thousand[^a-p332] parasangs.[^b-p332]The measure of His eyebrows is as[^c-p332]the measure of His eyes. The right
 
 [^g-p332]: “RWDYN” N O \] “DWRWN” or “gift of” (Greek *dōron*) M40. The meaning of the word in context is unclear and it may be corrupt.
+
 [^h-p332]: “His forehead” N O \] “The forehead” M40
+
 [^i-p332]: “parasangs is its width. His forehead:” N \] “are His parasangs.” (corrupt) O; “of height parasangs.” (corrupt) M40
+
 [^j-p332]: “H/he”
+
 [^k-p332]: “H/he/it was”
+
 [^l-p332]: “and it shall be”
+
 [^m-p332]: “H/he”
+
 [^n-p332]: “H/he/it was”
+
 [^o-p332]: The first list actually contains only 67 letter and the second (as corrected) has 81.
+
 [^p-p332]: The bracketed material appears only in N.
+
 [^q-p332]: “The pupil”—lit. “the black”
+
 [^r-p332]: “that is in His right eye” N O \] “is seventy {and}” (corrupt) M40
+
 [^s-p332]: “a myriad” N O \] om M40
+
 [^t-p332]: “and five hundred” N O \] “and T'Q' myriad” M40. “T'Q'” could be read as an abbreviation for “400/100,” which would add up to five hundred.
+
 [^u-p332]: “The pupil”—literally “the black.”
+
 [^v-p332]: “of His right(!)”—Emended (with Schäfer, *Übersetzung*, 4:113 n. 22) from the corrupt word
+
 [^w-p332]: The bracketed material appears *ymy* (“my sea?”), which is meaningless in this context. only in N.
+
 [^x-p332]: “And so of the left.” M40 \] “And of the left” N O (but “etc. And of the left.” in N
+
 [^y-p332]: This sentence is a corruption of the reading of M40; Schäfer, *Übersetzung*, 4:113 n. 23). appears only in M40, having been lost by haplography in the other manuscripts. In it “The white of” is emended (with Schäfer, *Übersetzung*, 4:113 n. 20) from the corrupt reading “Their going is” (cf. the next sentence).
+
 [^z-p332]: “The white of ” N O \] “Their going is in of (or “has boiled”)” (corrupt) M40 § 699
+
 [^a-p332]: “thousand” M40 \] + “and five hundred” N; “thousand myriad” O
+
 [^b-p332]: “parasangs” O \] + “And so of the left.” N; om M40
+
 [^c-p332]: “as” N M40 \] “from” or “more than” O
 
 *[p. 333]* ^pg342
@@ -1046,27 +1175,49 @@ The opening of His eyeballs: three myriad, thirteen thousand[^a-p332] parasangs.
 eyebrow:[^d-p333] HDRWWLS[^e-p333] is its name. And of the left: "PRHY" ṠṠYHW is its name. The appearance of His face and the appearance of [^f-p333] the cheeks are as the measure of [^g-p333] the spirit[^h-p333] and like the formation of [^i-p333] the soul[^j-p333] \[. There is not any being able to know it. *His body is like Tarshish* (Dan 10:6).\][^k-p333] And[^l-p333] glistening splendor[^m-p333] and fear from the midst of darkness. Cloud and misty cloud encircle Him and all the Princes of the Presence are poured out[^n-p333] before Him from the vigor of the countenance of His beauty[^o-p333] and His adornment. There is no measure in our hand, but[^p-p333] the names are revealed to us.[^q-p333] \[The right ear: "HTHYZZ is its name. And of the left: MṠY ḢZ"H ṪSYH is its name.\][^r-p333] His nose:[^s-p333] a myriad and a thousand parasangs. PGBG ṠṠYH is its name. His eyebrows are three myriad and a thousand. The cheeks: seventy-seven[^t-p333] myriad parasangs.[^u-p333] \#PRGNNZYTYH[^v-p333] is its name. His face fills the whole entire world. His lips[^w-p333] are two myriad and a thousand. His tongue is from one end of the world to the other end, as it says, *He tells his words to Jacob* (Ps 147:19).[^x-p333] And any who does not say the measure[^y-p333] by this verse, he is nothing but astray.[^z-p333] His tongue: "SYSGHYHYH is its name. His upper lip:aa QTRHWṪYH is its name. And the lower one:bb HDRGYHcc is its name. His beard:dd HDRSSYHee is its name.
 
 [^d-p333]: “The right eyebrow:” N \] “The eyebrow of the right” O; “the eyebrow up to the right” M40
+
 [^e-p333]: Some of the names in this paragraph seem to include Greek words involving the four elements. Here the letter combination “HDR” could represent “water” (*hydōr*) in Greek.
+
 [^f-p333]: “and the appearance of” N O \] “is like the appearance of” M40
+
 [^g-p333]: “as the measure of” O M40 \] “as the likeness of” N
+
 [^h-p333]: “the spirit” or “the Spirit” or “the wind” O \] “spirit” or “wind” N; “the spirits” or “the winds” M40
+
 [^i-p333]: “and like the formation of ” M40 \] “and like the form of ” N; “and in the formation of ” O
+
 [^j-p333]: For this phrase cf. *Hekhalot Zutarti* § 356 n. dddd.
+
 [^k-p333]: The bracketed material appears only in N.
+
 [^l-p333]: “And”—or “and” if the passage only in N is an interpolation interrupting a sentence.
+
 [^m-p333]: “And glistening splendor” O \] “Its splendor glistens” N; “And the bracket (or “mite”) is brilliant” (corrupt) M40
+
 [^n-p333]: “are poured out”
+
 [^o-p333]: “His beauty” N O \] om M40 O M40 \] + “like a ladle” N (cf. *Hekhalot Rabbati* §§ 104, 159)
+
 [^p-p333]: “but” O M40 \] “beside” (corrupt) N
+
 [^q-p333]: In fact no measurements or names are given for the face and cheeks. Names are given for the ears in N, but no measurements.
+
 [^r-p333]: The bracketed material appears only in N.
+
 [^s-p333]: “His nose:” N O \] “Seals:” M40
+
 [^t-p333]: “seventy-seven” O M40 \] “seventy-four” N
+
 [^u-p333]: “parasangs” N O \] om M40
+
 [^v-p333]: The letter combination “#PR” could be the Hebrew word for “dust,” and the immediately following “G” could represent the Greek
+
 [^w-p333]: “His lips” N O \] “Lips” M40 word for “earth” (*gē*).
+
 [^x-p333]: “As it says, *He tells his words to Jacob* (Ps 147:19)” N \] “which teaches …” O; “teachers of …” or “which teaches me …” (?) M40. The readings of O M40 break off in mid-sentence.
+
 [^y-p333]: “the measure” or “the praxis” O \] + “sealing by the verse” or “by the verse of the seal” N; “from this” M40
+
 [^z-p333]: “astray.” O M40 \] “straying. aa “His upper lip” O \] “My upper lip” (corrupt) *He tells his words to Jacob* (Ps 147:19).” N N M40 bb “And the lower one” O M40 \] + “its name is” N cc This name may represent the Greek word for “water” (“HDR”; *hydōr*) plus the Greek word for “earth” (“G(Y)” *gē*) plus the divine name “YH.” ee Again, dd “His beard:” with N. O M40 give corrupt *nomina barbara*. the element “HDR” in the name may represent the Greek word for “water” (*hydōr*).
 
 *[p. 334]* ^pg343

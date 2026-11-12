@@ -143,10 +143,14 @@ When is he liable for only one set of lashes? When he received one warning. If, 
 **32.** When priests wear their priestly garments when they are not performing service even though they are in the Temple,[^76] they are liable for lashes because the sash contains *kilayim*[^77] and license to wear it was granted only while performing service, for that is a positive commandment like *tzitzit*.[^78] ^10-32
 
 [^1]: When the term "wool" is used without any adjective, it refers only to sheep's wool (the Jerusalem Talmud, *Kilayim* 9:1).
+
 [^2]: Although the Rambam uses the term *Yam HaMelech*, his intent is the Mediterranean Sea and not the Dead Sea. See *Hilchot Tzitzit* 2:2 and his Commentary to the Mishnah (*Keilim* 9:1) for other examples of such usage.
+
 [^3]: In his Commentary to the Mishnah (*Kilayim* 9:2), the Rambam states that this fabric is a type of silk. Others identify it with cissaros blossoms.
+
 [^4]: For silk resembles linen and *kelech* resembles wool (*ibid.*).  
     Rav Yosef Corcus and the *Shulchan Aruch* (*Yoreh De'ah* 298:1) state that certainly a mixture of wool and silk should be forbidden. Nevertheless, he continues that at present, silk is very common and recognized by everyone. Hence, there is no need to forbid it, because of the appearance it will create.
+
 [^5]: The Ra'avad objects to the Rambam's ruling, meaning that making a smooth mass is not sufficient to create an article forbidden by Scriptural Law. To explain the difference of opinion: The Mishnah (*Kilayim* 9:8-9) states:  
     The prohibition against *kilayim* applies only with regard to fibers that are spun into thread and woven, as it is written: "Do not wear *sha'atnez*," [i.e., the prohibition applies to fibers that] are made into a smooth mass, spun, and woven.... Sheets of fabric are forbidden for they have been made into a smooth mass.  
     In his commentary to that mishnah, the Rambam states:  
@@ -156,90 +160,163 @@ When is he liable for only one set of lashes? When he received one warning. If, 
     If one mixed wool and linen together, spun them into threads, wove them into a garment, and smoothed its surface..., that garment will be considered as mixed fabrics. This applies with regard to mixed fabrics as defined by Scriptural Law. For, [according to Scriptural Law, a garment] is not considered as mixed fabrics unless [making it] involved all these three activities. Anything other than this [that involves wool and linen] is mixed fabrics [only] according to Rabbinic Law.  
     Some of the *Geonim* wrote as above. I, however, consider that as incorrect. Instead, any one [of these activities] is sufficient to cause a garment to be considered as mixed fabrics according to Scriptural Law. The statement in tractate *Niddah* [61b which implies that all three activities are necessary] is not the wording of the *Talmud*, but an interpretation.  
     Our translation is taken from Rav Kappach's translation of the Rambam's Commentary to the Mishnah which is a revised edition. Originally - and this is the version followed by the standard published text of the Rambam's Commentary to the Mishnah - the Rambam wrote that the ruling that all three activities are necessary for the prohibition to be of Scriptural origin is "a correct ruling, concerning which there is no doubt." Thus originally the Rambam also subscribed to the opinion followed by the Ra'avad [which is also shared by Rashi (*Niddah, loc. cit.*), but later changed his mind [adopting the view stated here and in *Tosafot* (*Niddah, loc. cit.*)]. The *Kessef Mishneh* and the Radbaz discuss the issue in their glosses to the *Mishneh Torah*. See the *Tur* and commentaries (*Yoreh De'ah* 300. The *Siftei Cohen* 300:1 writes that the majority of the authorities follow Rashi's view. It must be emphasized that all of the opinions maintain that any combination of wool and linen is forbidden according to Rabbinic Law, the debate involves only the extent of the Scriptural prohibition.
+
 [^6]: In the previous halachah, the Rambam stated that any one of the following activities: making fabrics into a smooth mass, spinning, or weaving them is sufficient to incur liability. He also gave examples regarding the first two types of activities mentioned. As mentioned in the previous note, he interprets the term "weaving" as creating a connection. In this halachah, he gives examples of how creating a connection between two fabrics causes one to be liable.
+
 [^7]: In his Commentary to the Mishnah (*Kilayim* 9:10), the Rambam explains that the sack or the basket causes the two fabrics to be considered as one. It is forbidden to carry the sack or basket on one's back, lest it be considered that one is benefiting from mixed fabrics.  
     This follows Rav Kappach's amended text of the Rambam's Commentary to the Mishnah. The standard printed text follows a slightly different version.
+
 [^8]: In his Commentary to the Mishnah (*ibid.*:9), the Rambam explains that we are speaking about attaching a thread of wool to one side of a leather strap and a thread of linen to the other. Since the two fabrics are connected, the Scriptural prohibition is involved. See *Shulchan Aruch* (*Yoreh De'ah* 300:5) which takes a somewhat more lenient position.
+
 [^9]: According to Scriptural Law, on a linen garment, the white strands of the *tzitzit* should be made from linen, while the *techeilet* (sky-blue) threads should be made from wool dyed that color using the blood of a *chilazon*. Although this is the Scriptural Law, according to Rabbinic decree, safeguards should be taken and mixed fabrics should not be used for *tzitzit*. See *Hilchot Tzitzit* 3:6-7.
+
 [^10]: *Menachot* [[Menachot 39#39a|39a]].
+
 [^11]: [[Torah 49 - Ki Teitzei#^22-11|Deuteronomy 22:11]].
+
 [^12]: *Ibid.*:12.
+
 [^13]: I.e., it is not necessary that the fabrics be spun and smoothed out together.
+
 [^14]: Unlike the laws of kashrut, concerning which a forbidden substance can become *betal*, of no consequence, if the kosher substance is greater than it according to Scriptural Law and 60 times its size according to Rabbinic Law, there is no such leniency in this instance.  
     *Tosafot* (*Nidah* [[Niddah 61#61b|61b]]) explains the rationale for this ruling. Generally, a forbidden entity can become nullified, because it is of no consequence when compared to the kosher substance into which it is mixed. Such logic does not apply in this instance, because there is no prohibited object to be nullified. Both the linen and the wool are permitted. Hence, they remain significant no matter how small an amount there is.  
     Rabbenu Asher quotes this explanation, but questions it, noting that seemingly the same concepts apply with regard to a mixture of milk and meat. Both of them are permitted; it is their mixture that is forbidden and yet, one can become *betal* if there is 60 times the presence of the other substance. Rabbenu Asher, however, distinquishes between the two instances. In a mixture of milk and meat, what is significant is the flavor of the food. Hence, if the flavor of either the milk or meat can be detected, it is forbidden. If not, it is permitted. In the case of a mixture of fabrics, the existence of the mixed fabrics itself is what is forbidden. Hence, since neither are forbidden, they cannot become nullified. See *Siftei Cohen* 299:1 and *Turei Zahav* 299:1 who also discuss this concept. See also Halachah 27 which explains what should be done to detect a thread that is *kilayim*.
+
 [^15]: The Radbaz and the *Kessef Mishneh* explain that this is not a contradiction to the previous halachah. Indeed, were one to have separate threads of sheep's wool, the garment would be forbidden even if they were mixed with many times their sum of camel wool threads. For the sheep's wool threads are never nullified. In this instance, however, there is room for leniency, because there are no sheep's wool threads. As the threads are being made, the sheep's wool is combined with the camel's wool and since the majority is camel's wool, it is the determining factor. These concepts are also reflected in the ruling of the *Shulchan Aruch* (*Yoreh De'ah* 299:1).
+
 [^16]: I.e., of leather, not of wool.
+
 [^17]: The Ra'avad objects to the Rambam's rationale, explaining that it runs contrary to the principle stated in Halachah 5. He follows his thesis stated previously - see the notes to Halachah 2 - that according to Scriptural Law, mixed fabrics are only forbidden when they are smoothed into an even mass, spun, and woven together. If only one of those activities is performed, the prohibition is merely Rabbinical. In this instance, there is only one activity. Hence the prohibition is Rabbnical and since the amount of woolen strands are small is not substantial, there is room for leniency.  
     The Radbaz supports the Rambam's rationale, explaining that the fundamental point here is that the strands of wool are not threads. Hence, they are not of significance and the laws of mixed fabrics do not apply regarding them.
+
 [^18]: And thus they do not touch each other.
+
 [^19]: See Halachah 3.
+
 [^20]: With regard to *tzitzit*, tying causes the garment to be considered as *kilayim*, because the wool and the linen are themselves tied together. In this instance, by contrast, the linen is not tied to the wool, but rather tied around it like a belt [*Tur* (*Yoreh De'ah* 300)].
+
 [^21]: Surrounding both garments, but not tying the two together. Even though he cannot remove either of the garments without untying the knot, it is permitted. See *Siftei Cohen* 300:10.
+
 [^22]: I.e., tie the linen and woolen garments together.
+
 [^23]: I.e., there is no prohibition against benefiting from them.
+
 [^24]: I.e., covering oneself with a blanket made from both linen and wool.
+
 [^25]: I.e., blankets or sheets spread on the floor or on furniture.
+
 [^26]: Our translation is taken from Rav Kapach's notes to the Rambam's Commentary to the Mishnah (*Kilayim* 9:2) who interprets the Arabic term the Rambam employs as referring to cushions one places behind his back for support.  
     The Ra'avad cites the Jerusalem Talmud (*Kilayim* 9:1) which qualifies the leniency, stating that it applies only when the pillows and cushions are solid. If they are stuffed, they are forbidden lest they become wound around a person's flesh. This view is also cited by the *Shulchan Aruch* (*Yoreh De'ah* 301:1).
+
 [^27]: I.e., there must be something else interposing between one's flesh and the *kilayim*.
+
 [^28]: Note the gloss of the Radbaz who explains why the Rambam deviates slightly from the wording used in his source, *Beitzah* [[Beitzah 14#14b|14b]].
+
 [^29]: Our translation is taken from the Rambam's Commentary to the Mishnah (*Kilayim* 9:6). The slippers were worn to walk on cushions and spreads and not for the person's own benefit.
+
 [^30]: The Radbaz asks: Since the person is not benefiting from wearing the slipper, what difference does it make whether it has a heel or not? He explains that if the slippers have heels, they appear as functional garments and hence, it is forbidden to wear them if they contain *kilayim*. Alternatively, if they have a heel, it is impossible that they will not warm one's feet. The *Kessef Mishneh* states that indeed even if the slippers have heels, it is permitted to wear them. The Rambam mentions slippers without heels, only because that was the kind of slippers worn at the time.  
     The *Shulchan Aruch* (*Yoreh De'ah* 301:13) quotes this law also with regard to wearing slippers like rubbers that are *kilayim*.
+
 [^31]: I.e., draped over their legs.
+
 [^32]: As mentioned above, the prohibition against *kilayim* is twofold: not to wear them and not to have them come upon one's person. It is forbidden to wear *kilayim* under any circumstances (see Halachah 18), but it is forbidden to have them come upon one's person only if one benefits [*Yevamot* 4b; *Beit Yosef* (*Yoreh De'ah* 301)]. In this instance, although he may actually benefit from the *kilayim*, since he does not have the intent to benefit, the benefit is not significant. See the notes to Halachah 18.
+
 [^33]: Our translation is taken from the Rambam's Commentary to the Mishnah (*Kilayim* 9:5).
+
 [^34]: So that the *kilayim* will not be draped over their bodies at all.
+
 [^35]: I.e., draped over their shoulders and thus they are carrying the garments that are *kilayim* on their bodies.
+
 [^36]: I.e., holding the hot egg will warm the cloth which in turn will warm his hands.  
     The Ra'avad objects to the Rambam's ruling, noting that the Babylonian Talmud (*Beitzah* [[Beitzah 16#16a|16a]]) rules that there is no prohibition in a similar instance. The Radbaz and the *Kessef Mishneh* show a source for the Rambam's ruling in the Jerusalem Talmud (*Kilayim* 9:3) and explain that there is no contradiction between that ruling and the passage from *Beitzah*.
+
 [^37]: In his *Kessef Mishneh*, Rav Yosef Caro connects this ruling to the concepts explained in Halachah 16. Wearing *kilayim* is forbidden under all circumstances, he explains, even if one does not receive any benefit. When, however, *kilayim* merely "come upon" one's body, there is no prohibition when one does not derive benefit. In his *Shulchan Aruch* (*Yoreh De'ah* 301:5), he quotes the Rambam's ruling.  
     The *Tur* and the Rama follow the opinion of Rabbenu Asher who maintains that even wearing *kilayim* is permitted, provided one does not intend to benefit from wearing them. This touches on an issue of a larger scope: Whether a prohibited activity that is not performed with the intent to benefit is forbidden or not. The Rambam apparently maintains that it is forbidden, while Rabbenu Asher maintains that it is permissible. This explanation is, however, difficult, for in *Hilchot Shabbat* 1:5, the Rambam rules that according to Scriptural Law, there is no prohibition when one performs an act without an intent to benefit. The Radbaz explains that there is a difference of opinion concerning this matter among the Sages. Since the prohibitions of the Sabbath are regarded seriously by people at large, in that context, the Rambam did not worry about taking the more lenient position. The laws regarding *kilayim* are not considered as severe. Hence he felt it necessary to take a more stringent position. See also the *Turei Zahav* 301:7 and the *Siftei Cohen* 301:8 who offer explanations of the Rambam's view.
+
 [^38]: I.e., if one's personal garments are not subject to customs duty, but merchandise is, one might desire to wear garments of *kilayim* that were meant to be sold so that they will not be considered as merchandise and thus he would avoid paying customs duty for them. See Rav Kapach's edition of the Rambam's Commentary to the Mishnah (*Kilayim* 9:2).  
     See *Hilchot Gezeilah* 5:11-12 on which basis it can be derived when it is permitted to deceive a customs inspector and when doing so is forbidden.
+
 [^39]: The *Turei Zahav* 300:11 maintains that we are speaking about a permanent knot, i.e. a double knot, even though the *Beit Yosef* states that one knot is sufficient for there to be a prohibition involved.
+
 [^40]: Since they are tied together, they considered as connected and part of one garment.
+
 [^41]: For his hand will be warmed by them (*Siftei Cohen* 300:12). Even though he does not intend to benefit from the activity, it is still forbidden as above. As in Halachah 18, the *Shulchan Aruch* (*Yoreh De'ah* 300:6) follows the Rambam's view, the Rama follows the opinion of Rabbenu Asher who grants leniency in such a situation.
+
 [^42]: Our translation is based on the Rambam's Commentary to the Mishnah (*Kilayim* 9:3).
+
 [^43]: Here the Rambam uses a slightly different interpretation than that found in his Commentary to the Mishnah (*ibid.*).
+
 [^44]: In his Commentary to the Mishnah (*ibid.*), the Rambam explains this term as referring to the cloths which a person holds when reading from the Torah.
+
 [^45]: The cloth a barber puts on the shoulders of the person receiving a haircut (*ibid.*).
+
 [^46]: In his initial version of his Commentary to the Mishnah (*loc. cit.*; which is followed in the standard printed version of the text), the Rambam rules that there is no prohibition involved in these instances. Later, however, based on the ruling of the Jerusalem Talmud, he changed his mind and forbade them for the reason given here.
+
 [^47]: In the Talmudic era, laundry tickets were made of small fragments of cloth. If they were *kilayim*, there would be a difficulty involved.
+
 [^48]: This concept also has ramifications with regard to the laws of ritual purity. If they are connected so loosely and an object that conveys impurity touches one, the other does not become impure, nor is one liable for separating them on the Sabbath [Rambam's Commentary to the Mishnah (*Kilayim* 9:10)].
+
 [^49]: In the above source, the Rambam explains that if the two cloths are pulled in opposite directions, they will separate effortlessly.
+
 [^50]: The bracketed additions are made on the basis of the commentary of the Rav Ovadiah of Bartenura to the above mishnah and the *Turei Zahav* 300:3. It appears from the Rambam, that he changed his understanding of the mishnah slightly, for there he interprets the two clauses as complementing each other and describing the same circumstance. Here, however, he describes them as two separate instances.
+
 [^51]: The Radbaz notes that that in *Hilchot Shabbat* 10:9, the Rambam rules that for a person to be liable, in addition to sewing two stitches, he must tie the threads in a knot. He explains that the laws of the Sabbath are stricter than those applying to *kilayim*. For one to be liable on the Sabbath, one must perform a labor that has a permanent effect, while to be liable for *kilayim*, all that is necessary is that the two garments be connected at the time.  
     The *Shulchan Aruch* (*Yoreh De'ah* 300:2) quotes the ruling of the Rambam. The *Tur* and the Rama follow the opinion of Rabbenu Asher who maintains that to be liable, one must tie the two threads.
+
 [^52]: *Tosafot, Niddah* 61b notes that we must be careful not to wear *tzitzit* in the presence of a corpse lest this be considered as "mocking the poor," i.e., mocking the dead who can no longer observe the mitzvot [see *Shulchan Aruch* (*Orach Chayim* 23:4)]. Nevertheless, wrapping a corpse in a garment that is forbidden is not considered as mockery, because since the person is not deriving benefit, even during his lifetime, there would be no prohibition.  
     The *Or Zerua*, Vol. II, sec. 421, emphasizes that even after the resurrection of the dead, there will be no difficulty with the dead being clothed in *kilayim*, for in that future era, the observance of mitzvot will be nullified.
+
 [^53]: Provided it is obvious in contrast to Halachah 27.
+
 [^54]: For it is firm and thus, as stated in Halachah 13, will not become wound around his body.
+
 [^55]: For this is "bringing *kilayim* upon oneself." Furthermore, we cannot say that he is doing this unintentionally, because he is using the saddle-blankets to protect him from being sullied by the compost.
+
 [^56]: This situation resembles the sellers of clothing mentioned in Halachah 16.
+
 [^57]: See Halachot 6-7 above which emphasize that a thread of *shaatnez* can never become nullified.
+
 [^58]: *Hilchot Issurei Bi'ah* 18:17. See also *Hilchot Sha'ar Avot HaTumah* 16:1.
+
 [^59]: The Ra'avad takes issue with the Rambam on this point. He agrees that according to Scriptural Law, one is not liable in a situation of doubt, but maintains that our Sages required us to be stringent when there is a doubt. The Radbaz and the *Kessef Mishneh* agree with the Ra'avad in principle, but explain the Rambam's words as follows: Because all that is involved is a Rabbinic prohibition and this is an exceptional and abnormal situation, our Sages granted leniency.  
     The *Shulchan Aruch* (*Yoreh De'ah* 302:1) quotes the Rambam's ruling. The *Tur* and the Ramah follow the approach of the Ra'avad and allow leniency only when the prohibition against *kilayim* is Rabbinic in origin.
+
 [^60]: This law is relevant at the present time as well, because the thread and the lining of garments are often made from linen. For this reason, Sha'atnez laboratories have been established in most major cities to examine garments to see if they contain linen.
+
 [^61]: Despite the embarrassment it might cause, because every moment he wears it, he transgresses the prohibition against *kilayim*.  
     The *Shulchan Aruch* (*Yoreh De'ah* 303:1) quotes the Rambam's ruling. The *Tur* and the Rama maintain that this ruling applies only when the person is conscious of the transgression he is performing. If, however, he performs the violation unintentionally, the garment should not be removed from him in public.
+
 [^62]: Whom he is obligated to honor (*Hilchot Talmud Torah*, ch. 5).
+
 [^63]: *Berachot* [[Berakhot 19#19b|19b]] quotes [[Proverbs 21#^21-30|Proverbs 21:30]]: "There is no wisdom; there is no understanding; and there is no counsel against God" and concludes: "Wherever there is a desecration of God's name (i.e., the transgression of a prohibition in public), deference is not granted to a master's honor."
+
 [^64]: I.e., the Torah forbids ignoring the lost object and not trying to return it to its owner (*Hilchot Gezeilah Va'Aveidah* 11:1). Nevertheless, if the person who discovers the lost object is a Torah scholar and it is compromising to his honor to return it, he is not required to do so (*ibid.*:13).
+
 [^65]: A person can waive his colleague's obligation to him with regard to financial matters. Hence, we assume that he would waive return of the article in consideration of the Sages' honor.
+
 [^66]: I.e., a priest who is ordinarily forbidden to come in contact with the ritual impurity resulting from a human corpse (*Hilchot Evel* 3:1) must bury a corpse that has no one else to bury it (*ibid.*:8).
+
 [^67]: He is commanded to become impure for the burial of all his immediate relatives with the exception of his married sister ([[Torah 31 - Emor#^21-3|Leviticus 21:3]] .
+
 [^68]: *Berachot, loc. cit.*
+
 [^69]: I.e., one of the 365 prohibitions in the Torah forbids us from deviating from the commands of the Sages [*Sefer HaMitzvot* (negative commandment 312) and *Sefer HaChinuch* (mitzvah 496), *Hilchot Mamrim* 1:2].
+
 [^70]: For it is considered as if he violated only one transgression.
+
 [^71]: Provided he received a warning each time (*Kessef Mishneh*).
+
 [^72]: Although a person who violates a prohibition without committing a deed is not liable for lashes, there is a difference in this instance, because wearing the garment is considered as committing a deed (Ritba, as quoted by *Kessef Mishneh*).
+
 [^73]: He is not considered as if he did not perform a deed when committing this transgression, because as in the previous halachah, wearing the garment itself can be considered a deed. Moreover, when a person dresses a colleague, the person being dressed helps to some degree. That is sufficient a deed to warrant lashes (*Kessef Mishneh*).
+
 [^74]: See *Hilchot Rotzeach* 12:14 which interprets this phrase from [[Torah 30 - Kedoshim#^19-14|Leviticus 19:14]] as a prohibition against causing a person who is unaware to commit a spiritually undesirable act.
+
 [^75]: In one of his Responsa (*Klal* 2, Responsum 16), Rabbenu Asher differs and maintains that there is no prohibition involved other than "placing a stumbling block in front of the blind" and one is not liable for lashes for violating that prohibition since it is of a general scope.  
     The Radbaz explains that the Rambam considers the prohibition against *Kilayim* as also applicable to a person dressing a colleague. He questions, however, why the Rambam does not rule in a similar manner in *Hilchot Nazir* 5:20.
+
 [^76]: The Ra'avad differs with the Rambam concerning this point, maintaining that as long as the priests are in the Temple, it is permitted for them to wear the priestly garments.
+
 [^77]: See *Hilchot K'Lei HaMikdash* 8:1, 11. The Ra'avad questions why the Rambam singles out the sash, other priestly garments (e.g., the *choshen* and the *ephod*) also contain *kilayim*. The *Kessef Mishneh* states that the Rambam chose to highlight a garment used by an ordinary priest, not one used by the High Priest.
+
 [^78]: And the observance of a positive commandment supercedes that of a negative commandment.

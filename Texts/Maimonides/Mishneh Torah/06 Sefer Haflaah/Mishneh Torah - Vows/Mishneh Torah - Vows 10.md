@@ -90,48 +90,89 @@ If Pesach passed, even though the stipulation has expired,[^37] it is forbidden 
 **13.** If he told her: "You may not benefit from me from now until Sukkot if you go to your father's house from now until Pesach," she is forbidden to benefit from him immediately.[^40] If she went [to her father's home] before Pesach and he gave her benefit, he is subject to lashes. She remains forbidden to him until Sukkot.[^41] After Pesach arrives, she is permitted to go to her father's house.[^42] ^10-13
 
 [^1]: For that is the end of the day in halachic terms.
+
 [^2]: *Nedarim* [[Nedarim 60#60a|60a]] discusses this issue without reaching a conclusion.
+
 [^3]: I.e., for lashes are not given when there is a doubt.
+
 [^4]: The Rambam uses the Hebrew term *Shabbat*, which literally means "Sabbath." Nevertheless, his intent (and that of his source, *Nedarim* [[Nedarim 60#60a|60a]]) is obviously a week and not the holy day itself.  
     When stating this law, the *Shulchan Aruch* (*Yoreh De'ah* 220:3) uses the term *shavua* for "week," rather than *Shabbat*. The *Turei Zahav* 220:2 states that the *Shulchan Aruch's* ruling applies when the person taking the vow speaks in *lashon hakodesh*, "the holy tongue." If, however, he would speak in Yiddish and say *di voch*, "this week," the Sabbath is not included, because the term *voch* implies ordinary, weekdays that are different in nature than the holy Sabbath.
+
 [^5]: Even if a week has not passed since the vow was taken. The Radbaz states that the vow takes effect only when it is made during the week. If, however, it is made on the Sabbath, it takes effect only on the Sabbath itself, for the week has already concluded.
+
 [^6]: We are forced to say that he is referring only to one type of food. For if a person takes a vow that he will not eat at all for an entire week, the vow does not take effect, for it is impossible that he will fulfill it. See *Hilchot Sh'vuot* 1:7.
+
 [^7]: In the first clause of this halachah.
+
 [^8]: A month which is lacking is a month of 29 days [as opposed to a month of 30 days; see *Hilchot Kiddush HaChodesh*, chs. 1-3, which discusses the principles determining when a month is given only 29 days and when it is given 30].  
     The commentaries question why the Rambam (based on *Nedarim* [[Nedarim 60#60b|60b]]) speaks of the month being lacking. Seemingly, it is quite obvious that if there are only 29 days in a month, one would be permitted on Rosh Chodesh in the next month. The new month has already begun. A point that has to be made is that even if there are 30 days in a month, one is permitted to partake of wine on the thirtieth day. Since it is Rosh Chodesh of the coming month, the vow has concluded even though the date is the thirtieth of the previous month.  
     The Radbaz explains that this in fact is the Rambam's intent, even though his wording is somewhat difficult to explain in that manner. This interpretation is reflected in the wording of the *Shulchan Aruch* (*Yoreh De'ah* 220:4). The *Or Sameach* offers a different interpretation, stating that when a month has only 29 days, sometimes the conjunction of the sun and the moon does not take place until the first day of the new month. Even so, since it is already Rosh Chodesh, the vow is concluded.
+
 [^9]: As explained in the previous halachah.
+
 [^10]: I.e., he made the vow on the twenty-ninth of Elul.
+
 [^11]: Although Rosh Chodesh Nisan is considered the beginning of the year in certain contexts, this does not apply with regard to vows.
+
 [^12]: I.e., a full year on the Jewish calendar.
+
 [^13]: And a month is added. See *Hilchot Kiddush HaChodesh*, ch. 4.
+
 [^14]: In Halachah 2.
+
 [^15]: Like the Sabbath is the conclusion of the week, the Sabbatical year is the conclusion of the seven year cycle (Radbaz).
+
 [^16]: For the Jubilee year is considered as the conclusion of the 50 year cycle.
+
 [^17]: For his intent was Adar that follows Shvat.
+
 [^18]: For his intent was to remain forbidden for the entire time referred to as Adar. This applies whether he knew that it was a leap year or not (Radbaz).
+
 [^19]: There is a difference of opinion among the Sages (*Nedarim* [[Nedarim 63#63a|63a]]) which of the two months Adar is considered as Adar and which is the additional month. There are other authorities who follow a different version of the passage in *Nedarim* and maintain that he is always forbidden only until the beginning of Adar I.  
     The *Shulchan Aruch* (*Yoreh De'ah* 220:8) mentions the Rambam's view as a minority opinion. The commentaries note that in other places in the *Shulchan Aruch* (*Choshen Mishpat* 43:28, Rama, *Even HaEzer* 126:7), the Rambam's view is not cited at all.
+
 [^20]: We have translated the expression to fit the meaning given it by the Rambam.
+
 [^21]: The rationale for this ruling is explained in the following halachah.
+
 [^22]: Like Pesach which lasts for seven days (eight in the Diaspora) as prescribed by the Torah.
+
 [^23]: There is no fixed time for the harvest's conclusion, for that depends on how plentiful it will be.
+
 [^24]: For we do not assume that he took a vow of undetermined length.
+
 [^25]: In his Commentary to the Mishnah (*Nedarim* 8:3), the Rambam defines this as referring to the period from the end of Tammuz until the end of Elul when figs ripen and are ready for harvesting.
+
 [^26]: The wheat harvest is several weeks after the barley harvest. Since wheat is the more important crop, it is given prominence (*Kessef Mishneh*).
+
 [^27]: The figs and grapes would be laid out upon the mats to dry in the sun.
+
 [^28]: As the Rambam explains in the following halachah.
+
 [^29]: A mountainous region is cooler in the summer than a valley and the figs there will ripen later.
+
 [^30]: For that was his intent when he took the vow. It does not matter if this leads to a more lenient ruling or a more stringent one [*Shulchan Aruch* (*Yoreh De'ah* 220:13).
+
 [^31]: E.g., if he took a vow until the *katzir* in a place where the primary crop is barley, he is forbidden until the beginning of the barley harvest (*ibid.*:14).
+
 [^32]: The seventeenth of MarCheshvan begins the first phase of the rainy season. Although it is really an extension of the summer and not the beginning of the winter (the Rambam's Commentary to the Mishnah, *Pe'ah* 7:5), rain at that time is not considered a chance occurrence and the vow is released. See *Hilchot Ta'aniot* 3:1-2 and *Hilchot Matanot Aniyim* 1:11 which also discuss these times for rain.
+
 [^33]: In his Commentary to the Mishnah (*ibid.*), the Rambam interprets the term *reviah* as referring to the time when rain descends, explaining that it is similar to the term used for impregnating a woman, because in both cases, the potential for life is granted.
+
 [^34]: For that is when the rains cease there. In the Diaspora, different laws apply with regard to all these expressions according to the local conditions.
+
 [^35]: And thus retroactively, she will be forbidden to derive benefit from the time the vow was taken. Had she been allowed to derive benefit, after she broke the vow, it would be a transgression.
+
 [^36]: For he allowed her to benefit from his property, thus committing a transgression. The woman is not liable for lashes (Radbaz). Others (Rashba, Rosh, *Nedarim* [[Nedarim 57#57b|57b]]) differ with the Rambam and maintain that the woman is liable for lashes.
+
 [^37]: For she did not benefit from him until Pesach.
+
 [^38]: The *Merkevat HaMishneh* explains that he should continue to withhold benefit from her, for that is the only way that he can insure that she will keep the vow. The Ra'avad and others differ with the Rambam concerning the need for this safeguard and their view is accepted by the *Shulchan Aruch* (*Yoreh De'ah* 220:22).
+
 [^39]: For the time for the stipulation has passed.
+
 [^40]: As above.
+
 [^41]: I.e., even if he was subjected to lashes for one transgression.
+
 [^42]: Because the term of the vow was completed. This applies even if she broke the vow and went before Pesach (Radbaz).

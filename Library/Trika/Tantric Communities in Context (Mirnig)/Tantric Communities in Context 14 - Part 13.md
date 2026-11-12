@@ -35,7 +35,9 @@ The five-headed Hanumān is also found among the sculptures in the sunken steppe
 The same king built a special temple for the deity (Fig. 15) in his palace in Kathmandu in circa 1655.[^27] This temple (which is only accessible to the 
 
 [^25]: An inscription on the base of the *toraṇa* (see REGMI 1965–1966, part 4: 263, no. 122) records the dedication of the golden tympanum by King Ṛddhinarasiṃhamalla to his *iṣṭadevatā* on the first day of the bright half of the month of *āśvina* in N.S. 836. This date corresponds to Wednesday, September 16, 1716.
+
 [^26]: The photograph, taken by N.R. Banerjea between 1966 and 1972, is exhibited in the Patan Museum.
+
 [^27]: See VAJRĀCĀRYA 1976: 97. The exact date of the construction of the temple is unknown. *Fig. 13a The tympanum of the Golden Door of the Taleju shrine, Mūlcok, Patan Palace. Photograph: Gudrun Bühnemann.*
 
 *[p. 453]* ^pg472
@@ -67,8 +69,11 @@ Three important inscribed and dated copper-gilt figures of the five-headed Hanum
 The second one (Fig. 16b) was previously on sale at Sotheby’s[^31] but its current whereabouts are unknown. According to the description in the catalogue
 
 [^28]: See the detailed description in DEVA 1984: 61 and the mention in VAIDYA & SHRESTHA 2002: 45 and 89. VAIDYA & SHRESTHA (2002: 89) note that the sculpture is located on the northwestern side of the open verandah (*dalān*). DEVA (1984: 66 and 67) also describes two four-armed (apparently one-headed) Hanumān figures in the Kumaricok. Three four-armed Hanumān statues are found in the Mahādeva Temple in Sundarīcok of the Hanūmānḍhokā Royal Palace, Kathmandu; a photograph of one of them is reproduced in ARYĀL 2014: 16.
+
 [^29]: The sculpture was purchased by William O. Thweatt in Kathmandu between 1958 and 1962. It was auctioned by Sotheby’s New York on September 24, 2004 (lot 74) and subsequently became part of the collection of Dr. Helga Wall-Apelt, Florida. It was again auctioned by James D. Julia Auctioneers, Maine, on March 23, 2015 (lot 184) and by Bonham’s on March 13, 2017 (lot 3049). For an image, see also Himalayan Art Resources, item no. 2351 (http://www.himalayanart.org/items/2351; accessed July 20, 2017).
+
 [^30]: The text inscribed on the shaft reads: (*siddhi* sign) *svasti* || *śrīśrījayabhūpatī-ndramalladevasana siddhāgni koṭyāhuti yajñayātaṃ dayakā* || *saṃvat* 822 *jyeṣṭha sudi* 9 *śubha* || “Hail! (This sculpture) was made by the Twice-Blessed victorious King Bhūpatīndramalla on the ninth (day) of the bright (half of the month) of *jyeṣṭha* in *samvat* 822 for (the occasion of) the *siddhāgni-koṭyāhuti-yajña*. Let it be well.”
+
 [^31]: The five-headed Hanumān statue was offered for sale at Sotheby’s London on April 4, 1990, lot 57. It had previously been offered at Sotheby’s New York on December 18, 1981, lot 209.
 
 *[p. 459]* ^pg478
@@ -78,7 +83,9 @@ The second one (Fig. 16b) was previously on sale at Sotheby’s[^31] but its cur
 The inscription[^33] on the third sculpture (Fig. 17), which is now in the Patan Museum,[^34] records that King Bhūpatīndramalla’s son, Raṇajitamalla, set up the sculpture on the Golden Gate of the Bhaktapur Palace in 1754. The year 1754 is also commonly assumed to be the year in which Raṇajitamalla constructed (or rather, embellished) the Golden Gate. The Hanumān figure appears to be a copy of the sculpture commissioned by his father. Both sculptures wear a garland of severed human heads and are treading on an animated corpse. It is possible that these two Hanumān figures with their long shafts were placed on the roof the Golden Gate, possibly in place of the two four-armed Hanumān statues referred to in the beginning of this paper. 
 
 [^32]: Only a part of the inscription can be discerned in the photograph published in Sotheby’s catalogue. It reads: *(Bhūpatīndrama)llasana dayakā*, *saṃ* 826 *jyeṣṭha kṛṣṇa catu*(*rdaśī*) (misread in the text of the catalogue as *āṣāḍha kṛṣṇa* ...). The date was erroneously converted to 1708 in Sotheby Parke Bernet Inc \[1981\], no. 209. “(This sculpture) was made by King (Bhūpatīndrama)lla on the four(teen)th (day) of the dark (half of the month) of *jyeṣṭha* in (N.)S. 826.” The description in the catalogue erroneously specifies the eighth day of the dark half of the fifth month of the year N.S. 826 as the date of the consecration of the sculpture. The correct date is likely the fifth day of the dark half of the month of *jyeṣṭha* in the year 826, which is equivalent to Wednesday, June 30, 1706. The eighth day of the dark half of the month of *jyeṣṭha* of the same year would be equivalent to July 3, 1706.
+
 [^33]: The inscription reads: (*siddhi* sign) *svasti* || *śrī* 3. *sveṣṭadevatā prītina pāra-dhvākāsa gajuli chāna koṭayāhuti yajña yāṅāva* | *śrīśrījayaraṇajitamalladevasana dutā* || *saṃ* 874 *pau va* 6 *śubham* || “Hail! Out of love for his Thrice-Blessed favourite deity (*sveṣṭadevatā*), the Twice-Blessed King Raṇajitamalla set up (this sculpture), after performing a sacrifice with ten million oblations at the time of (the ritual) offering of the finial of Pālad-hvākā (i.e., the Golden Gate). (Dated N.S.) 874, the sixth (day) of the dark (half) of (the month of) *pauṣa*. Let it be auspicious.” The date converts to January 14, 1754.
+
 [^34]: The sculpture was assigned the accession no. 598 (see SLUSSER 2002: 120). SLUSSER (ibid.) assumed that the sculpture was “installed as a guardian on a Bhaktapur rooftop.” *Fig. 16a A five-headed Hanumān (Bonhams, March 13, 2017, lot 3049).* *Dated to N.S. 822 \[1702 CE\]. Photograph courtesy of Bonhams.*
 
 *[p. 460]* ^pg479
@@ -100,8 +107,11 @@ The Tantric five-headed Hanumān was obviously considered an important form of H
 The five-headed Hanumān is also known as Hanū-Bhairava, as attested by inscriptions on paintings and line drawings and in devotional and other texts. The name Hanūbhairava is inscribed, for example, on a painting (Fig. 18) in a scroll from Nepal, commissioned under King Jayaprakāśamalla of Kathmandu (r. 1735–1768) and dating from 1765, and in line drawings.[^38] 
 
 [^35]: Oral information provided by Purushottam Lochan Shrestha on July 19, 2015.
+
 [^36]: For other sculptures of this form of Hanumān from Nepal not discussed in this paper, see, for example, DEVA 1984, plate 30A (erroneously labelled Narasiṃha), MISHRA 2014: 59, SLUSSER 2002: 118, 120–121, SINGH 1968: 214 (misidentified as a “manifestation of Vishnu” in the caption and on p. 223), Christie’s New York 12/1/1982, lot 123 (erroneously labelled as a Tantric form of Mañjuśrī), and Christie’s New York 3/20/2012, sale 2640, lot 106 (previously in the Doris Wiener Gallery, New York). The stone sculpture of the five-headed Hanumān installed in a roadside shrine in Pulcok, Patan, which is still an object of worship (MISHRA 2014: 59), is very similar to the one depicted in DEVA 1984, plate 30A; minor details, however, vary. Both representations are without a *vāhana*. A roadside shrine with a statue of a five-headed Gaṇeśa is located next to the shrine of the five-headed Hanumān in Pulcok. For a painting of the five-headed Hanumān, see NAGAR 2004, vol. 3: 128, plate 140.
+
 [^37]: See the online title list of the Nepalese-German Manuscript Cataloguing Project (NGMCP) for more information on the large number of devotional and ritual texts in manuscript form, including such titles as *Hanū*(*mad*)*bhairavapūjāvidhi*, *Hanūbhairavastotra*, *Hanūbhairavakavaca*, and *Pañcamukhīvīrahanūbhairavastotra*.
+
 [^38]: For a line drawing inscribed Hanūbhairava (“Hanūbhailava”), see, for example, BLOM 1989: 21, Fig. 22 and BÜHNEMANN 2013: 471, Fig. 17. Note that in the drawing the topmost head is labelled *sarā* (for *salā*, Newari: horse) and not “snake” as noted in BLOM 1989: 22.
 
 *[p. 464]* ^pg483
@@ -117,7 +127,9 @@ The name Hanūbhairava indicates that in Nepal Hanumān began to be considered a
 In this paper I focused mainly on the Hanumān worship under royal patronage in mid-seventeenth- to mid-eighteenth-century Nepal. The visual 
 
 [^39]: The text of the inscription is published in RĀJĀ 1999: 15, no. 26 and is also referred to in GUTSCHOW 2011, vol. 1: 73 in his description of the temple. The inscription records as the date of the tympanum Sunday, the full-moon day of the bright (half of the month of) *śrāvaṇa* in N.S. 833, which converts to Sunday, August 6, 1713. This tympanum is no longer extant.
+
 [^40]: I would like to thank Alexis Sanderson for this reference (e-mail message dated February 23, 2015). See also n. 23.
+
 [^41]: I have discussed Bhīmasena’s transformation into Bhīmabhairava in BÜHNEMANN
 
 *[p. 465]* ^pg484
@@ -141,6 +153,7 @@ Primary Literature
 Manuscript from a private collection. Nepalese-German Manuscript Preservation Project (NGMPP), reel no. E 88/11. 
 
 [^42]: See LUTGENDORF 2001: 273–274, 2003: 81, and NAGAR 2004, vol. 1: 303. Representations of the five-headed form in Rajasthani and Pahari painting appear to postdate the ones from Nepal.
+
 [^43]: Philip Lutgendorf has discussed the phenomenon in several publications; see LUTGENDORF 1994, 2001, 2003, and 2007.
 
 *[p. 466]* ^pg485
@@ -276,8 +289,11 @@ Introduction: Religious and historical context
 The fifth to seventh centuries of the Common Era see the beginning of the production of Sanskrit Śaiva religious literature, reflecting the increasing popularity of the Śaiva religion – also on a religio-political level – across the Indic world.[^2] One of the products of this time is the *Śivadharmaśāstra* (ŚDh), a popular and widely transmitted work[^3] that was composed sometime in the sixth or seventh century,[^4] probably in the North of the subcontinent
 
 [^1]: I am very grateful to Peter Bisschop and Timothy Lubin for carefully reading through my paper and their invaluable suggestions and corrections.
+
 [^2]: For works addressing these larger developments within the Śaiva world at this time, see, for instance, SANDERSON 2009, BISSCHOP 2010, and BAKKER 2014.
+
 [^3]: The ŚDh and *Śivadharmottara* (ŚDhU) have been transmitted in manuscripts from Nepal, Kashmir, Bengal as well as in South India. See SANDERSON 2012–2013: 86, especially n. 220 and n. 221. For references to the recitation of the ŚDh in epigraphical material, see HAZRA 1952: 14 and 16, DE SIMINI 2016b, and SANDERSON 2012–2013: 85.
+
 [^4]: The dating of the ŚDh and ŚDhU is problematic and remains subject to debate. The first scholar to advance a hypothesis was HAZRA (1952), who proposed a date of composition sometime between 200 and 500 CE. He arrived at this estimation by, firstly, placing the text before the composition of Śaiva Tantras on the grounds that the ŚDh is free of any Tantric influence, and, secondly, he argues that the kind of astrological and astronomical terminology employed in the ŚDh is indicative for a date between the composition of the *Yājñavalkyasmṛti* as the terminus post quem and the *Bṛhatsaṃhitā* of Varāhamihira as the terminus ante quem. However, evidence collected by Bisschop has demonstrated that such an early date is unlikely for the ŚDh, or at least for the entire text as it has been preserved. In his study of Caṇḍeśa and other deities in early Śaivism, BISSCHOP (2010: 244) discusses material of the sixth chapter of the ŚDh and draws attention to the fact that the deity Gaṇeśa/Vināyaka is described as Śiva’s son, a relationship that came to be well-
 
 *[p. 472]* ^pg491
@@ -317,7 +333,9 @@ It is against the backdrop of these developments that we can attempt to interpre
 In this contribution, it will be argued that a cornerstone of the dual agenda characteristic of this newly emerging Śaiva socio-religious order propagated in the ŚDh is the divinisation of the Śaiva devotee (*śivabhakta*), a novel feature specific to the time of the ŚDh that anticipates similar discourses on divine embodiment by the devotee in popular Śaiva and Vaiṣṇava devotional movements centuries later.[^15] It will be shown how this link between devotion and divinisation of the *śivabhakta* acts as a strategic device to advocate the spiritual superiority of the community of practitioners. As such, it will be argued that in addition to recruiting the Brahmanical base into the Śaiva devotional fold, the socio-religious model advocated by the ŚDh also plays a critical role in the spread of the Śaiva teaching into new areas and in creating a socio-religious environ that eventually facilitates the participation of Śaiva initiatory traditions in public religious life on the eve of the “Śaiva Age.”[^16] In this context, also the relationship between the ŚDh and the initiatory traditions will be investigated: on the one hand, it will be traced how certain practices and concepts of the ascetic Atimārgic traditions are adapted for the householder milieu, despite their 
 
 [^14]: See, for instance LUBIN’s unpublished paper “On feeding *Śivabhaktas* and other rules of *Śivāśrama-Dharma*” (AOS 2017) (LUBIN forthcoming). I thank Prof. Lubin for sharing his paper with me prior to publication.
+
 [^15]: E.g., see PRENTISS 2000 and HOLDREGE 2015.
+
 [^16]: The expression “Śaiva Age” alludes to SANDERSON’s monumental work (2009) on the rise of Śaiva Tantric groups throughout the early medieval period.
 
 *[p. 475]* ^pg494
@@ -355,7 +373,9 @@ There is evidence that certain well-established tenets of Vaiṣṇava devotiona
 see GRÜNENDAHL 1983, 1984, 1989. Note that studies on the comparison between the *Viṣṇudharma* and the ŚDh are currently being undertaken by Timothy Lubin and Nirajan Kafle and have been presented at various conferences.
 
 [^25-p476]: See OLIVELLE 2010, in particular the introduction.
+
 [^26-p476]: This work is known by the same name as the Kashmirian work above, but it is classified as part of the southern recension of the *Mahābhārata*. See Mbh, Appendix, no. 4, lines 168–227. The text is also preserved in a single early Nepalese palm-leaf manuscript, as identified by GRÜNENDAHL (1984: 52–54). Studies about the religious context of the *Vaiṣṇavadharmaśāstra* are currently being carried out by Marion Rastelli.
+
 [^27-p476]: Compare BhG 6.30 (*yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati |* *tasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati* ||. “He who sees me everywhere and who sees everything in me, for him I do not disappear and he does not disappear for me.”) and BhG 9.26 (*patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati | tad ahaṃ bhaktyupahṛtam aśnāmi prayatātmanaḥ ||*. “He \[who offers\] me leaves, flowers, \[and\] fruits with devotion, from \[this\] devoted soul I accept what was offered with devotion.”) with ŚDh 1.30–32 (*patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati | tasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati || yo māṃ na sarvagaṃ paśyen na ca sarvaṃ mayi sthitam | sa māṃ parvatadurgeṣu mārgamāṇo vipadyate ||* *yo māṃ sarvagataṃ paśyet sarvaṃ ca mayi saṃsthitam | tasyāhaṃ nityaṃ ātmasthaḥ sa ca nityaṃ mayi sthitaḥ ||*. “He who with devotion offers me leaves, flowers, \[and\] fruits, for him I do not disappear and he does not disappear for me. He who does not see me everywhere and not everything established in me, he seeks in *inaccessible mountains* (?) and fails. He who sees me everywhere and everything established in me, for him I always remain in \[his\] soul and he always remains in me.”).
 
 *[p. 477]* ^pg496
@@ -367,6 +387,7 @@ Even a foreigner (*mleccha*), in whom this eightfold devotion[^28-p477] exists, 
 Vaiṣṇava devotional literature features similar sentiments, but the subtle difference in framing on this point becomes evident when comparing the above verses with the following passage of the BhG: 
 
 [^28-p477]: This eightfold devotion is explained just prior to theses verses and features the cornerstones of Śaiva *bhakti*. It is specified as (1) affection towards Śiva’s devotees, (2) rejoicing in the worship others offer Śiva, (3) worshipping Śiva with devotion, (4) carrying out physical work for Śiva, (5) listening to the recitals of Śiva’s deeds, (6) being visibly affected by the devotion to Śiva (e.g., trembling), (7) thinking of Śiva at all times, and (8) not living off his revenue; ŚDh 1.26–27: *madbhaktajanavātsalyaṃ pūjāyāś cānumodanam | svayam abhyarcanaṃ bhaktyā mamārthe cāṅgaceṣṭitam ||* *matkathāśravaṇe bhaktiḥ svaranetrāṅgavikriyā | mamānusmaraṇaṃ nityaṃ yaś ca mām upajīvati* ||. This passage and the one quoted in the next note will become frequently quoted, sometimes in modified form, in both Śaiva- and Vaiṣṇava-centred literature, cf., e.g., *Śivapurāṇa* 7.2.10.68–71, *Gāruḍapurāṇa* 1.227.6b–11, and *Haribhaktavilāsa* 11.616–619.
+
 [^29-p477]: ŚDh 1.28–29: *bhaktir aṣṭavidhā hy eṣā yasmin mlecche ’pi vartate | sa viprendro muniḥ śrīmān sa yatiḥ sa ca paṇḍitaḥ || na me priyaś caturvedo madbhaktaḥ śvapaco* *’pi yaḥ | tasmai deyaṃ tato grāhyaṃ sa ca pūjyo yathā hy aham* ||. Note that ŚDh 1.29 is frequently quoted, e.g., Abhinavagupta ad *Tantrāloka* 4.203.
 
 *[p. 478]* ^pg497
@@ -376,7 +397,9 @@ Even if a very evil doer reveres me with single devotion, he must be regarded as
 Here too, devotion is foregrounded so that even someone of lower social standing or a person who has carried out misdeeds can attain the highest spiritual goals through this path.[^31-p478] However, the BhG’s focus rests on social groups within the *varṇa* system and does not explicitely feature outsiders such as the foreigner (*mleccha*) or the outcaste (e.g., the dog-eater). Nor is there a sentiment in the BhG that those of lower castes rise to the status of a Brahmin through their devotional practice and may be worshipped like a god. Rather, the passage states that the religion is also accessible to those of lower social standing. In contrast, we have seen that the ŚDh explicitly, and perhaps provocatively, features the epitomes of social outsiders and goes as far as to propose that through Śaiva devotion they themselves become worthy of worship, a position reserved for Brahmins in the Brahmanical religion. The ŚDh’s view expressed in the above verse is thus more radical in its approach towards the Brahmanical socio-religious system at the time of its composition, and it is only subsequently that we see similar sentiments adopted in other Śaiva and Vaiṣṇava works.[^32-p478] However, it must be kept in mind that such principles as the ones expressed in the ŚDh did not necessarily translate fully into the practiced religion. Nor does the ŚDh propose to completely dismantle the Brahmanical socio-religious structures. Quite the contrary, other parts of the work foreground alignment with the Brahmanical
 
 [^30-p478]: Transl. Edgerton 1997 \[1944<sup>1</sup>\]: 49. BhG 9.30–33b. *api cet sudurācāro bhajate mām ananyabhāk | sādhur eva sa mantavyaḥ samyagvyavasito hi saḥ || kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati | kaunteya pratijānīhi na me bhaktaḥ praṇaśyati ||.* *māṃ hi pārtha vyapāśritya ye ’pi syuḥ pāpayonayaḥ | striyo vaiśyās tathā śūdrās te ’pi yānti parāṃ gatim || kiṃ punar brāhmaṇāḥ puṇyā bhaktā rājarṣayas tathā |.*
+
 [^31-p478]: See also MALINAR 2007: 9. MALINAR (ibid.: 13) argues even further that the Bhakti tradition as described in the BhG is not to be regarded as a form of religion associated with “folk” religion or lower strata of society, but rather as a form of esoteric knowledge targeting also for higher classes of society.
+
 [^32-p478]: See above, n. 28 and n. 29.
 
 *[p. 479]* ^pg498
@@ -390,7 +413,9 @@ Those calm-minded Śiva devotees who have as their goal Śiva and worship the su
 Here, intense devotion to Śiva is considered as indicative of the devotee’s divine status in this world as a Rudra, that is to say, as a divine being comparable to Śiva in his manifestation as Rudra.[^35-p479] Less often, such devotees are also portrayed as Gaṇeśvaras, the divine chief attendants of Śiva. 
 
 [^33-p479]: See LUBIN forthcoming. Thus, as we will see below, we also find that despite the claim of *bhakti* transcending caste-boundaries and introducing social equality, the lay devotee Śūdra is still differentiated from the rest in terms of practice and status.
+
 [^34-p479]: ŚDh 1.13–14: *yair ayaṃ śāntacetaskaiḥ śivabhaktaiḥ śivārthibhiḥ | saṃsevyate paro dharmas te rudrā nātra saṃśayaḥ || ekakālaṃ dvikālaṃ vā trikālaṃ nityaṃ eva vā | ye smaranti virūpākṣaṃ vijñeyās te gaṇeśvarāḥ* ||. For further examples of the promotion of the devotee as a divine being, see ŚDh 3.76c–77b: *kuśāpsu tarukuḍye vā apy aṅgulyāpi* (corr. *aṅgulyāpi*?) *yo likhet || krīḍayā sāyutaṃ kalpaṃ bhavet so ’pi gaṇeśvaraḥ* |. “Even if someone draws \[a *liṅga*\] with the finger on kuśa water or on a tree wall, or playfully makes a suitable resemblance with half-melted butter, he too is a Gaṇeśvara.” ŚDh 12.2 (T32, p. 142 and T72a, p. 141): *kvacid gacchan yadā \*paśyet* (T32, *payśyaṃ* T72a) *śivaliṅgam \*apūjitam* (T72a, *prapūjitam* T32) | \**tadā* (T72a, *sadā* T32) \**saṃpūjya* (T32a, *tat pūjya* T72a) *yo gacchet sa rudro nātra saṁśayaḥ* ||. “When going anywhere, he who sees a *śivaliṅga* that is not worshipped \[and\] then only proceeds after having worshipped it, that \[person\] is a Rudra, there is no doubt.”
+
 [^35-p479]: This would potentially result in the existence of multiple Rudras; this understanding may build on earlier beliefs and myths of Rudras being followers of Rudra, already found in Vedic literature (e.g., *Śatarudrīya*), which appears to have been a common perception at the time (note the reference to this concept even in BhG 10.23).
 
 *[p. 480]* ^pg499
@@ -402,7 +427,9 @@ Those who always worship Rudra are not ordinary men \[but\] Rudras descended (*p
 This theme of descending from Rudra’s heaven upon earth is often encountered throughout the work,[^38-p480] at times paired with the idea that the devotee 
 
 [^36-p480]: Note that in the 11th/12th-century *Vāyavīyasaṃhitā* of the *Śivapurāṇa*, we find the same sentiment of Rudras descending to earth, but here it is linked with the idea that they do so out of compassion, almost reminiscent of Buddhist Bodhisattva ideals; *Vāyavīyasaṃhitā* 7.2.11.32: *madbhaktānāṃ hitārthāya mānuṣaṃ bhāvam āśritāḥ |* *rudralokāt paribhraṣṭās te rudrā nātra saṃśayaḥ* ||. “They are Rudras, who have come down from Rudraloka and taken on a human existence for the benefit of my devotees, there is no doubt.”
+
 [^37-p480]: ŚDh. 1.16: *ye ’rcayanti sadā rudraṃ na te prakṛtimānuṣāḥ* | *rudralokāt paribhraṣṭās te rudrā nātra saṃśayaḥ* ||. The same sentiment, but with the specification that the devotees are Gaṇeśvaras, is found in ŚDh 7.1: *ye smaranti sadākālam īśānaṃ pūjayanti vā* | *rudralokaparibhraṣṭā vijñeyās te gaṇeśvarāḥ* ||. “Those who meditate or worship the Lord at all times, they should be known as Gaṇeśvaras, who have come down from Rudra’s world.” Cf. ŚDh 1.13–14 above (n. 34).
+
 [^38-p480]: The term *paribhraṣṭa* usually has a negative connotation in brahmanical literature and implies failure of practice or losing one casts (e.g. *Viṣṇudharma* 57.3: *yas tu vipratvam utsṛjya kṣatriyatvaṃ niṣevate* | *brāhmaṇyāt sa paribhraṣṭaḥ kṣatrayonyāṃ prasūyate* ||. “He who abandons the status of a Brahmin and becomes a Kṣatriya, he has fallen from the status of being a Brahmin and is born in the womb of a Kṣatriya.”). However, given the context of divine descent on earth, the term appears to have also a positive connotation in the ŚDh. The amiguity in phrasing may be inspired by a concept in the BhG, according to which a yogin who has failed in his practice (*yogabhraṣṭa*) is not punished for trying but rather – due to his already elevated spiritual status – only “falls” in as much as that he reaches the heavenly worlds after death and thereafter obtains an auspicious rebirth, in which he can continue his
 
 *[p. 481]* ^pg500
@@ -424,7 +451,9 @@ This sentiment of tangible manifestation of divinity ties in with the second app
 How wonderful is it that one becomes Rudra through the gift of *rudrākṣa*-beads! \[He who carries\] his rosary in his hand at all times is a Rudra walking on earth. The *rudrākṣa*-beads themselves are Rudra, and so are those who carry the *rudrākṣa*s. By carrying the *rudrākṣa*s one is Rudra in this world and the next.[^42-p482] 
 
 [^40-p482]: Cf. n. 38 above for the possibility that this rationalization is a reworking of the BhG’s concept of spiritually advanced yogins, who need another rebirth to attain complete perfection (BhG 6.41–43).
+
 [^41-p482]: ŚDh 3.48: *evaṃ nirvahate yas tu yāvajjīvaṃ pratijñayā | mānuṣyacarmaṇā baddhaḥ sa rudro nātra saṃśayaḥ ||*. This verse features at the end of a longer discourse on the importance of worshipping the *liṅga* and Śiva, to the extent that it is better to commit suicide or cut off one’s head than to eat without previously worshipping Śiva (ŚDh 3.47: *varaṃ prāṇaparityāgaḥ śiraso vāpi chedanam | na tv evāpūjya bhuñjīta bhagavantaṃ trilocanaṃ* ||).
+
 [^42-p482]: ŚDh 12.103–104 (T32, p. 152): *rudro rudrākṣadānena bhavatīti kim adbhutam |* *tanmālayā sadā haste rudraś ca kramate kṣitau || rudrākṣāṇi svayaṃ rudro ye ca rudrākṣadhārakāḥ | rudrākṣadhāraṇāt tasmād iha rudraḥ paratra ca* ||.
 
 *[p. 483]* ^pg502
@@ -444,8 +473,11 @@ A non-Rudra does not think of Rudra, a non-Rudra does not worship Rudra, a non-R
 As we will see below (p. 501), this imperative to identify with the divine in order to worship the divine is a notion that will continue into the Tantric 
 
 [^43-p483]: ŚDh 11.30: *tasmād etac chivasnānam āgneyaṃ yaḥ samācaret | anenaiva śarīreṇa sa rudro nātra saṃśayaḥ ||.* Note that descriptions of ascetics smeared in ashes are also reported in the Chinese travel records, testifying to the social reality of such practices. See, e.g., BEAL 2004 (1884<sup>1</sup>): 55 and 114.
+
 [^44]: Note the term *rudrāṃśa* has a complex history within Śaiva literature, ranging from denoting a practitioner considered to be a partial incarnation of Rudra to simply being a devotee of Rudra; see Mirnig’s forthcoming entry in TAK 4.
+
 [^45]: ŚDh 4.9: *rudrātmāno rudraparā rudrāṃśā rudrabhāvanāḥ | ityācārasamāyuktāḥ bhavanti bhuvi mānavāḥ* ||.
+
 [^46]: ŚDh 1.24: *nārudraḥ saṃsmared rudraṃ nārudro rudram arcayet | nārudraḥ kīrttayed rudraṃ nārudro rudram āpnuyāt ||.*
 
 *[p. 484]* ^pg503
@@ -455,7 +487,9 @@ sphere, where, in an extended form, it becomes a core feature of Tantric ritual 
 The novelty of the concept of the divine Rudra-nature of the devotee also becomes apparent when we compare the ŚDh with other sources within the Śaiva sphere. Contemporaneous works dating to about the sixth or seventh century that describe the same religious milieu of the Śaiva lay householder – the *Skandapurāṇa* and sections of the *Niśvāsamukha* (see n. 6) – do not conceptualise the devotee in the same manner. While they too teach that divine existence in heaven is the spiritual goal of pious devotees, the nature of this heavenly existence often remains unspecified, and if it is specified, devotees are portrayed as a chief of Śiva’s divine attendants (*gaṇa*s), namely a Gaṇeśvara (“chief of attendants”), but never as a Rudra.[^47] Nor do we find the trope of the divine Rudra-devotee on earth in these early sources but only in those postdating the ŚDh.[^48] Even in an episode of the *Skandapurāṇa*, which alludes to the specific practice of the ash bath by relating how gods diving into a heap of ashes next to Śiva were identified as devotees, they are only referred to as *raudra*s, i.e. “followers of Rudra”.[^49] 
 
 [^47]: We may note here that the Śaiva sources differ from the contemporaneous Vaiṣṇava texts on this point, in which the devotee is granted entry into heaven rather than given a specific divine identity (see, for instance, the examples of the VDh given in n. 39).
+
 [^48]: E.g., LP 2.21.81: *ekakālaṃ dvikālaṃ vā trikālaṃ nityam eva vā | ye* ’*rcayanti mahādevaṃ te rudrā nātra saṃśayaḥ* || (almost parallel to ŚDh 1.14) and LP 2.21.82, parallel to ŚDh 1.24 (see n. 46). *Haracaritacintāmaṇi* 10.217c–218b: *ye śrīmadvi-jayeśānam arcayanti yathāvidhi* || *rudralokāvatīrṇās te rudrā eva mahītale |*. “Those who worship the venerable Lord of Victory (i.e., Śiva) according to the rules, they certainly are Rudras on earth, having descended from Rudra’s heaven.” *Śivopaniṣad* 7.138–139: *ye śrāvayanti satataṃ śivadharmaṃ \*śivārthinaḥ* (conj.; *śivārthinām* cod.) *| te rudrās te munīndrāś ca te namasyāḥ svabhaktitaḥ || ye samutthāya śṛṇvanti śivadharmaṃ dine dine | te rudrā rudralokeśā na te prakṛtimānuṣāḥ* ||. “Those who are longing for Śiva \[and\] always proclaim the Śivadharma, they are Rudras, and they are the best of sages, to be worshipped through one’s own devotion. Those who get up and listen to the Śivadharma every day, they are Rudras, the Lords of Rudra’s heaven, they are no ordinary men.”
+
 [^49]: SP 32.209ab: *raudrāḥ paśava ete hi praveśād bhasmano* ’*dhunā* |. See also SP (Bh) 180.2c–4b.
 
 *[p. 485]* ^pg504
@@ -471,6 +505,7 @@ While the ŚDh introduces many concepts that are novel compared to other contemp
 *as divine embodiments on earth* The trope of the divine walking the earth in human form, as we have seen in the passages above, is not in itself a novel feature of the ŚDh. We find this motive already in the Brahmanical literature, but there it is restricted to the political and religious elites of the system, namely kings and Brahmins. Thus, in classical literature we find that kings are often described as God incarnate on earth, analogous to the mythical kings Rāma and Daśaratha, who are considered as incarnations of Viṣnu.[^50] As for Brahmins, it is a well-known idiom that they are divine beings on earth,[^51] which is how their prerogative of receiving offerings on behalf of the deity is explained. As will also be discussed below, encroaching on this privileged space of the Vedic Brahmin was one of the strategies of the propagators of the ŚDh. This agenda may be a contributing factor to the development of the trope of worshippers as divine Rudras on earth, mirroring the Brahmanical concept 
 
 [^50]: For Rāma as an incarnation of Viṣṇu walking the earth, see, e.g., Mbh 3.147.28: *atha dāśarathir vīro rāmo nāma mahābalaḥ* | *viṣṇur mānuṣarūpeṇa cacāra va-sudhām imām* ||. “Then the son of Daśaratha, the hero of great strength named Rāma, was Viṣṇu walking this earth in human form.” A similar example with Āditya can be found at Mbh 2.11.2. See also VdhU 1.36.12.
+
 [^51]: Cf. VDh chapter 50 outlined in GRÜNENDAHL 1984: 15–16.
 
 *[p. 486]* ^pg505
@@ -482,8 +517,11 @@ of the divine identity of exceptional practitioners and extending it to the enti
 A paradigmatic example for this is the *śivaliṅgamahāvrata* taught for lay devotees in the ninth chapter,[^54] “the great observance of the *śivaliṅga*,” a term directly alluding to the sectarian *mahāvrata*.[^55] This is an ascetic 
 
 [^52]: For instance, bathing in and sleeping on ashes constitute the first injunctions for the ascetic Pāśupata practitioner in the tradition’s authoritative scripture, the *Pāśupatasūtra*. Thus, see *Pāśupatasūtra* 1.2–3: *bhasmanā triṣavaṇaṃ snāyīta* || *bhasmani śayīta* ||. “One must bath in ashes three times a day \[i.e., at dawn, noon, and sunset\]. One must lie in ashes \[for sleeping\].” See also *Kauṇḍinya*’s commentary thereon. On the significance of ashes in the Pāśupata context, see HARA 2003, and for literary descriptions of Pāśupatas wearing ashes outside the tradition’s prescriptive literature, see HARA 2002b: 150–151, n. 29.
+
 [^53]: See, e.g., BAKKER 2010 and ACHARYA 2013: 127.
+
 [^54]: A critical edition and study of this chapter is currently under preparation by the author.
+
 [^55]: See Bisschop’s forthcoming entry on *mahāvrata* in TAK 4.
 
 *[p. 487]* ^pg506
@@ -493,6 +531,7 @@ observance that consists of imitating the deity’s expiatory observance after c
 Also the conceptualisation of the spiritual goal of ultimate liberation appears at times to be inspired by Pāśupata terminology in the ŚDh. In some passages the spiritual goal is described as the state in which merit (*dharma*) and demerit (*adharma*) no longer affect the soul, a dictum frequently used to describe the final liberated state of the Pāśupata ascetic practitioner.[^57] Here we encounter the by this time common transposition of spiritual goals associated with ascetic practice into the householder context: liberation is no longer the result of austere practices classically associated with the soteriological path, but it is promised along with worldly desires to the householder as the result of devotional ritual activities, which here also contain elements of Śaiva ascetic practices. This synthesis of both value systems – the one of the ascetic and the one of the householder – that characterises many parts of the ŚDh is epitomised in passages such as the following, in which the devotee obtains Rudra’s world through *liṅga* worship and may choose between *bhukti* (enjoyments) and *mukti* (liberation) once his heavenly existence comes to an end: 
 
 [^56]: See, e.g., ŚDh 5.8–9, 129 and 158. For these *upahāra*s, see *Pāśupatasūtra* 1.8. The exact nature of the *mukhavādya* sound is still subject to debate; probably it consists of making sounds by hitting the mouth. See BISSCHOP & GRIFFITHS 2007: 34, n. 155.
+
 [^57]: For instance, *dharmādharmavivarjita*, “free of merit and demerit,” in ŚDh 3.53. Cf. the description of the final liberated state of the Pāśupata yogic practitioner in Kauṇḍinya’s commentary on *Pāśupatasūtra* 5.38–39: *ekaḥ kṣemī san vītaśokaḥ* | *apramādī gacched duḥkhānām antam īśaprasādāt* |. “Alone, secure, existing \[without action\], free from sorrow, mindful he will reach the end of suffering from the grace of the master.” (Transl. HARA 1966): *atra dharmādharmayor vṛttyor uparame avasitaprayojanatvāt pakvaphalavat sarpakañcukavad gataprāyeṣu kāryakaraṇeṣu rudre sthitacitto niṣkala eka ity abhidhīyate*. “When merit and demerit cease their activities and the effect \[body\] and the instruments \[sense-organs\] have almost departed since they have accomplished their object like a ripened fruit or like the slough of a serpent, the aspirant with his mind fixed upon Rudra and without material components is called alone.” (Transl. HARA ibid.).
 
 *[p. 488]* ^pg507
@@ -502,6 +541,7 @@ He who establishes one *liṅga*, following the prescriptions, together with gif
 *Buddhist themes* In several aspects of the conceptualisation of the devotee in the ŚDh we can sense themes and influences that were already well-established within the Buddhist sphere, even if we cannot trace specific textual influences. Given the spatial proximity of Buddhist and Brahmanical groups and their competition for the same resources and patronage of kings, it would, however, not be surprising to see similar aspects and strategies in these emerging Śaiva works and practices. For instance, the ŚDh’s stance that the degree of devotion can supersede caste-boundaries in terms of spiritual status and the absence of any emphasis on the concept of *svadharma* calls into mind the Buddhists’ fundamental rejection of the Brahmanical socio-religious system, with discourses on the insignificance of caste and class already long present at the time. Already in the Pali canon we find the concept of the “true Brahmin,” whose superiority is defined through his morals and actions rather than his birth status.[^59] Eltschinger has demonstrated how Buddhist thinkers as early as the fourth to sixth centuries even provided substantial
 
 [^58]: ŚDh 3.59–62: *yo liṅgaṃ sthāpayed ekaṃ vidhipūrvaṃ sadakṣiṇam | sarvā-gamoditaṃ puṇyaṃ koṭikoṭiguṇaṃ labhet || mātṛjaṃ pitṛjañ caiva yāṃś caivodvahate striyam | kulaikaviṃśam uttārya rudraloke mahīyate || bhuktvā ca vipulān bhogān pralaye samupasthite | jñānayogaṃ samāsādya sa tatraiva vimuñcati ||* *athavā rājyam ākāṃkṣej jāyate sa bhavāntare | saptadvīpasamudrāyāḥ kṣiter adhipatir vaśī* ||. Similarly, ŚDh 3.38: *yas tu pūjayate nityaṃ liṅgaṃ tribhuvaneśvaram |* *sa svargamokṣarājyānāṃ kṣipraṃ bhavati bhājanam* ||. “He who constantly worships the *liṅga* that is the Lord of the three worlds (i.e., Śiva) quickly attains heaven, liberation, or a kingdom.”
+
 [^59]: MASEFIELD 1986: 146ff.
 
 *[p. 489]* ^pg508

@@ -167,119 +167,222 @@ When the meat of a unsalted species of kosher fish was mixed together with the m
 When a non-kosher fish was pickled with a kosher fish, the entire mixture is forbidden unless the ratio of kosher fish to non-kosher is 200:1.[^104] ^15-34
 
 [^1]: Because it tastes the same as the permitted substance.
+
 [^2]: According to Scriptural Law. As stated in Halachot 4-5, the Rabbis enforced more stringent requirements.
+
 [^3]: Which is forbidden (Chapter 7, Halachah 5).
+
 [^4]: By a gentile (see the notes to Halachah 30 and Chapter 9, Halachah 8) for a discussion of why the gentile's word is accepted.
+
 [^5]: See *Tosafot* (*Chullin* [[Chullin 98#98b|98b]]) which mentions a difference of opinion among the Rabbis if the principle "the flavor of an entity is equivalent to its substance" is of Rabbinic or Scriptural origin.
+
 [^6]: The Rambam shares the perspective of *Tosafot* (*Avodah Zarah* [[Avodah Zarah 67#67b|67b]]) who maintains that if there is more than an olive-sized portion of fat in a portion of food *k'dei achilat p'ras* (the size of three eggs), its substance is considered as present even though it is dissolved and not discernable. Rashi differs and maintains that as long as the fat is dissolved, it is considered as if the substance of the forbidden entity is not present.
+
 [^7]: Even though he may eat an olive-sized portion of forbidden fat, he will not have eaten it in the required time (the time it takes to eat three eggs, as stated in Chapter 14, Halachah 8) for one to be held liable. The concentration of the forbidden fat is too small for that to happen.
+
 [^8]: Which is forbidden (Chapter 7, Halachah 5).
+
 [^9]: Which is permitted.
+
 [^10]: Since both are fat, the mixture is considered as being of the same substance.
+
 [^11]: For according to Scriptural Law, as long as the majority is kosher, the mixture may be eaten. Indeed, there is no need for there to be twice as much kosher fat as non-kosher fat. A simple majority is sufficient.
+
 [^12]: With regard to the mixture of fat, there is greater reason for leniency, for there is no longer any non-kosher fat that exists as an independent entity, it is all mixed together with the kosher fat. In this instance, the meat from the *nevelah* exists as an independent entity, it is just that we have no way of detecting which of the pieces it is (Radbaz).
+
 [^13]: In all instances when forbidden substances are mixed with kosher substances. See *Shulchan Aruch* (*Yoreh De'ah* 109:1) which rules leniently and allows one to rely on Scriptural Law in certain situations. See the notes to Halachah 20.
+
 [^14]: In the following halachot.
+
 [^15]: In his Commentary to the Mishnah (*Avodah Zarah* 5:8), the Rambam cites [[Torah 47 - Re'eh#^13-18|Deuteronomy 13:18]]: "No trace of the condemned should cling to your hand" as evidence that even the slightest amount is forbidden. See Chapter 16, Halachah 28, for a leniency that is granted with regard to this restriction.
+
 [^16]: The *terumot* and the tithes can be separated from it, causing it to be permitted. See Halachah 10.  
     In his Commentary to the Mishnah (*ibid.*), the Rambam cites the rationale given by *Avodah Zarah* [[Avodah Zarah 73#73b|73b]]: Just as one kernel of grain can serve as *terumah* and correct the entire crop; so, too, one kernel of grain from which *terumah* was not separated can cause an entire crop to be forbidden. The rationale given by the Rambam here has its source in the Jerusalem Talmud (*Shivi'it* 6:3).
+
 [^17]: Chapter 16, Halachah 28.
+
 [^18]: I.e., the *terumah* and tithes that would have been required to have been separated from the *tevel* originally. In this context, the fact that it became mixed with other wine is not significant.
+
 [^19]: *Hilchot Terumah*, Chapter 13.
+
 [^20]: The Rambam feels it necessary to mention this point, because his source, *Avodah Zarah* [[Avodah Zarah 73#73b|73b]] mentions the produce of the Sabbatical year together with the two prohibited substances mentioned above. The Rambam clarifies that the comparison is not entirely correct, because the produce of the Sabbatical year is not forbidden.
+
 [^21]: The Ra'avad mentions that this concept applies only until the time it is required to destroy the produce of the Sabbatical year. After that time, that produce is forbidden to be eaten and hence, is considered like other forbidden substances.
+
 [^22]: *Hilchot Shemitrah ViYovel*, chs. 4-7.
+
 [^23]: I.e., although even the tiniest amount of *chametz* causes an entire mixture to be forbidden, *chametz* was not mentioned by *Avodah Zarah* [[Avodah Zarah 73#73b|73b]] together with wine poured as a libation and *tevel*. The reason is that the prohibition of the mixture of *chametz* is motivated by a different rationale (*Kessef Mishneh*).
+
 [^24]: See *Hilchot Chametz UMatzah* 1:5 which states that a mixture of *chametz* and another substance is permitted after the Pesach holiday.
+
 [^25]: As explained in the following halachah and notes. See also Halachah 12.
+
 [^26]: The Radbaz states that the comparison is to *tevel* and not to *chametz* on Pesach. For like *tevel*, if it becomes mixed with a different substance, it is permitted if its flavor cannot be detected. There are special stringencies applied with regard to *chametz*, as stated in Halachah 12 (Radbaz).
+
 [^27]: See Chapter 10, Halachah 2.
+
 [^28]: For they can be redeemed (Radbaz).
+
 [^29]: For they can be eaten in Jerusalem or their holiness can be transferred to money (Radbaz).
+
 [^30]: E.g., *Bikkurim*; see the Rambam's Commentary to the Mishnah (*Bkkurim* 2:2).
+
 [^31]: Our Sages (*Beitzah* [[Beitzah 3#3b|3b]]) state it is not nullified when mixed with 1000 times the amount of kosher substances. The Rambam's wording clarifies that 1000 is not an upper limit. No matter how many times more of the permitted substance there is, the mixture is forbidden.
+
 [^32]: Hence, this option should be taken rather than relying on the nullification of the forbidden substance.
+
 [^33]: As explained in *Hilchot Sh'vitat Yom Tov* 1:19 that when a person sets an object aside before the holiday with the intent that he will not use it on the holiday, he may not change his mind and use it on the holiday. This prohibition is referred to as *muktzeh*.  
     Halachah 1:20 states that an egg laid on a holiday following the Sabbath was prepared on the Sabbath, as it were. Therefore it may not be used on the holiday. This prohibition is referred to as *nolad*. Both of these prohibitions are of Rabbinic origin. Halachah 1:21 states that if such an egg becomes mixed with other eggs, they are all forbidden.
+
 [^34]: I.e., a mixture of *terumah* could be eaten in a permitted manner by a priest. Nevertheless, since there is no way it could be permitted to an ordinary person, our Sages were not stringent (*Kessef Mishneh*).  
     Both the *Kessef Mishneh* and the Radbaz ask: It is possible to have to have *terumah* permitted by making a statement of regret concerning its separation before a wise man. If so, seemingly, it should be considered as an object that could be eaten in a permitted manner. The Radbaz explains that a wise man who can nullify the separation of *terumah* may not always be found. The *Kessef Mishneh* states that since this is not the common practice, a substance may not be considered as an object that could be eaten in a permitted manner for this reason.
+
 [^35]: This term indicates a conclusion deduced by the Rambam without an explicit prior Rabbinic source. There are others, including Rav Yitzchak Alfasi and Rav Moshe HaCohen, who differ and maintain that since the mixture could be eaten in a permitted manner, the above stringencies apply. The Ra'avad, however, states that this concept is explicitly stated in the Mishnah. He does not, however, mention which mishnah. The Radbaz and the *Kessef Mishneh* offer different hypotheses as to the Ra'avad's intent and why the Rambam did not accept it.
+
 [^36]: By separating the appropriate *terumot* and tithes.
+
 [^37]: Halachah 6.
+
 [^38]: Halachah 9.
+
 [^39]: The *terumah* which the Levites offer from the tithes they are given.
+
 [^40]: Although the prohibition is negated, we are still concerned with the fact that property due the priest is not given to him, as stated in Halachah 15.
+
 [^41]: I.e., as stated in the conclusion of the halachah, if two of these substances fall into the same accumulation of permitted substances, it is necessary to have 100 times their combined size.
+
 [^42]: The *Kessef Mishneh* notes that the Rambam's ruling here appears to contradict his ruling in *Hilchot Pesulei HaMukdashim* 6:24 where he states that the showbread is not nullified. He explains that in *Hilchot Pesulei HaMukdashim*, the Rambam is speaking about pieces of the showbread that are ritually pure. Hence the entire mixture should be eaten by the priests. (Note the Radbaz who questions how the priests could eat the mixture.) Here, by contrast, we are speaking about pieces of the showbread that are impure. If the showbread was a significant part of the mixture, the entire mixture would have to be burnt. Since it is not significant, we considered its existence negated.
+
 [^43]: *Terumah, terumat ma'aser challah*, or *bikkurim*.
+
 [^44]: If, however, the sacred substances are distinct, they must be separated from the ordinary substances.
+
 [^45]: It does not have to eaten with attention to the laws of *terumah*.
+
 [^46]: This term refers to a mixture of *terumah* or other sacred substances with ordinary substances. The mixture must be sold to priests (at the price of *terumah*) with the exception of the original sacred amount (*Hilchot Terumah* 13:2).
+
 [^47]: Although they are separate and unrelated prohibitions, since it is forbidden to benefit from both of them and we derive the laws pertaining to one from the laws pertaining to the other, we rule that they may be combined (*Orlah* 2:1).
+
 [^48]: As explained in the following halachah, in this instance, one is not causing the priests a loss.
+
 [^49]: The Ra'avad questions the Rambam's ruling, objecting to the decision that it is forbidden to benefit from the mixture. (He maintains that although partaking of the mixture is forbidden, one should be able to sell it to a gentile with the exception of the value of the forbidden substance. For, he maintains, it is never forbidden to benefit from a mixture that is not inherently forbidden.) The Radbaz justifies the Rambam's view.
+
 [^50]: Our translation is based on the Rambam's Commentary to the Mishnah (*Terumot* 11:4).
+
 [^51]: For the priests will not be concerned about its loss.
+
 [^52]: Therefore they were treated more stringently. The Radbaz emphasizes that they are compared to *terumah* and not to other forbidden substances for the root *kodesh* is used with regard to them.
+
 [^53]: For it is one tenth of a tenth.
+
 [^54]: I.e., "forbidden."
+
 [^55]: As the Rambam continues to explain, the Jerusalem Talmud (*Orlah* 2:1) offers a non-literal interpretation of this phrase, understanding it as meaning "the one who sanctifies it."
+
 [^56]: With this wording, the Rambam also eliminates those prohibitions of Rabbinic origin, which have a smaller measure as stated in the following halachah.
+
 [^57]: Although there is not enough of the forbidden substance for a person to be liable for lashes according to Scriptural Law, unless there is 60 times the amount of forbidden fat, the mixture is forbidden according to Scriptural Law (see *Chulin* [[Chullin 98#98a|98a]]).
+
 [^58]: The prohibitions are considered of the same type, because the taste of the fat is not distinct from that of the meat (Rabbenu Yitzchak Alfasi to *Chulin* [[Chullin 98#98a|98a]]).
+
 [^59]: As is the law with regard to Rabbinic prohibitions as stated in the following halachah.
+
 [^60]: Chapter 8, Halachah 1.
+
 [^61]: As our Sages ruled [*Chulin* 100a; Chapter 16, Halachah 6; quoted by *Shulchan Aruch* (*Yoreh De'ah* 100:1)], a forbidden being which is a creation in its own right is never forbidden. Therefore they ruled more stringently. In this instance, the *gid hanesheh* itself will be removed. Hence the full stringency of our Sages' ruling is not applied, nevertheless, in recognition of the serious of the prohibition involved, this stringency is applied.
+
 [^62]: See Chapter 8, Halachah 6.
+
 [^63]: Thus instead of requiring 61 times the forbidden substance (60 plus the substance itself) all that is required is 60 (59 and the substance itself).
+
 [^64]: See Chapter 9, Halachot 12-13. As explained in the notes there, the Ra'avad and the Rashba offer a different rationale for this ruling, explaining that since the meat of the udder is acceptable, we include it in the reckoning of 60. Thus in contrast to other instances where 60 times the amount of the forbidden substance is required, here, we require only 59. According to his view, we cannot extrapolate from this ruling to other Rabbinic prohibitions.
+
 [^65]: Such an egg is forbidden to be eaten (see Chapter 3, Halachah 8).
+
 [^66]: I.e., a total of 62.
+
 [^67]: As stated in the notes to the previous halachah, in this instance, the forbidden substance itself will be removed. Hence the full stringency of our Sages' ruling concerning an entity that is a creation in its own right is not applied. Nevertheless, in recognition of the serious of the prohibition involved, this stringency is applied. See the notes to the following halachah where a rationale cited by other authorities is mentioned.
+
 [^68]: Here we are talking about eggs that are cooked in their shells. When an egg contains a chick, the chick will impart its flavor to the entire pot. When, by contrast, eggs are cooked in their shells, they do not impart flavor (*Chulin* [[Chullin 97#97b|97b]]). The non-kosher egg must be removed from the mixture. This, however, can sometimes be done, because the appearance of non-kosher eggs may differ from that of kosher eggs (Chapter 3, Halachah 18).  
     The Rama (*Yoreh De'ah* 86:6) differs and states that if a substantial loss will not be caused, we should be stringent and follow the same ruling with regard to all eggs. If, however, there will be a substantial loss, even he counsels to rely on the more lenient views.
+
 [^69]: For, at times, non-kosher eggs are not distinguishable from kosher eggs (*ibid.*).
+
 [^70]: I.e., the mixture is judged as an ordinary instance in which kosher food becomes mixed with non-kosher food. According to the Rambam, the non-kosher egg is not a creation that is forbidden in its own right.  
     The *Shulchan Aruch* (*Yoreh De'ah* 86:5) differs and rules that we require 61 kosher eggs in this instance as well. The Ramban explains that the reason is that not all eggs are the same size and by adding an extra egg, we make certain that we have the necessary amount. (He uses this rationale to explain the law stated in the previous halachah as well.) The *Siftei Cohen* 86:15 offers a different rationale, stating that an egg itself is considered a creation in its own right.  
     The *Kessef Mishneh* notes that there are some who would rule that 60 eggs are not necessary, for there are opinions [see *Shulchan Aruch* (*Yoreh De'ah* 109:1)] that when kosher and non-kosher entities are intermingled in a dry mixture, we rely on Scriptural Law and require only a simple majority of the kosher substances. As obvious from this ruling, the Rambam does not accept this leniency.
+
 [^71]: When a Nazirite completes the days of his Nazirite vow, he brings several sacrifices. Among them is a ram brought as a peace offering. The foreleg from this offering is given to the priest and may not be eaten by an ordinary Israelite (*Chulin* [[Chullin 98#98a|98a]]; *Hilchot Nazirut* 8:1-4).
+
 [^72]: I.e., although this portion which is forbidden to an Israelite is cooked together with the entire ram, the Israelite is permitted to partake of the remainder of the ram. Accordingly, our Sages inferred that a similar ratio may be used when other prohibited substances are cooked with permitted substances.
+
 [^73]: Because there is no significant difference between the taste of fat from the fat tail and fat from the kidneys, as indicated by Halachah 4.
+
 [^74]: I.e., at that time, it absorbed both the permitted substances and the prohibited substance (Radbaz).  
     In his *Kessef Mishneh* and in his *Shulchan Aruch* (*Yoreh De'ah* 99:4), Rav Yosef Caro follows the view of Rashi and the *Tur* who maintain that we should measure the prohibited substance and the permitted substances as they are at present, for there is no way of knowing how much the pot absorbed. This stringency applies, however, only with regard to forbidden substances mixed with permitted substances of a different type. (For then the prohibition stems from Scriptural Law.) If they are of the same type (when a simple majority is required according to Scriptural Law), the *Shulchan Aruch* rules more leniently and accepts the Rambam's ruling.
+
 [^75]: I.e., after a forbidden substance fell into a mixture, one may not add enough permitted substances that there will 60, 100, or 200 times the amount of the forbidden substance.
+
 [^76]: If, however, a substance forbidden by Rabbinic Law accidentally fell into a mixture, one may add enough permitted substances to nullify the prohibition, as stated in Halachah 26.
+
 [^77]: Because in fact the presence of the forbidden substance has been nullified.
+
 [^78]: The *Siftei Cohen* 99:11 explains the reason for this penalty. If we would permit him to benefit from it, we fear that if, in the future, such a situation would recur, he would instruct his servants to nullify the prohibited substances for him.
+
 [^79]: Or the person whom he intended to serve after nullifying the forbidden substance. Were this not the case, he would benefit from his undesirable act (*Kessef Mishneh*).
+
 [^80]: The Rambam's wording implies that the penalty was imposed only when he willfully nullified the existence of the forbidden substance. If he did so accidentally or inadvertently, no prohibition applies, for our Sages did not impose penalties in such situations [*Kessef Mishneh*; *Shulchan Aruch* (*Yoreh De'ah* 99:5)].
+
 [^81]: This point was not accepted by all authorities. The Ashkenazic authorities (as reflected by the ruling of Rabbenu Asher) maintain that even a Rabbinic prohibition should not be nullified as an initial and preferred measure. The Radbaz proposes an intermediate position: that the stringency should be applied only to Rabbinic prohibitions that have a source in Scriptural Law, e.g., milk and fowl, but not those enacted by the Rabbis entirely on their own initiative. This compromise, however, was not accepted. The *Shulchan Aruch* (*Yoreh De'ah* 99:6) adopts the Rambam's position, while the *Tur* and the Rama follow that of Rabbenu Asher.
+
 [^82]: Halachah 1.
+
 [^83]: *Avodah Zarah* [[Avodah Zarah 66#66a|66a]] derives this concept from the statements of [[Torah 47 - Re'eh#^14-21|Deuteronomy 14:21]] concerning the meat of an animal that died without slaughter: "Give it to the stranger in your gate and he will partake of it." Implied is that the prohibition applies only to meat that is fit for a non-Jew to partake of. If it is not fit for the non-Jew to eat, it cannot cause a Jew's food to be forbidden.  
     See also *Shulchan Aruch* (*Yoreh De'ah* 103:2) which states: "The impairment of the food's flavor does not have to be complete to the extent that one would be disgusted to eat it. Instead, even if it slightly detracts [from its flavor], it does not cause the mixture to become forbidden."
+
 [^84]: *Avodah Zarah, loc. cit.* states that if initially, the flavor of a substance is improved by the addition of the forbidden substance, it becomes forbidden. The fact that ultimately the addition detracts from the flavor of the permitted substance is not sufficient to cause it to become permitted again. The Rambam draws the conclusion that ultimately if the flavor of the substance will be improved, it is also prohibited (*Kessef Mishneh*).  
     Note, however, the *Siftei Cohen* 103:7 who states that it is permitted to partake of a mixture after the flavor of the permitted substance was impaired, before it improved, even though one knows that ultimately, it will improve. Based on the wording of the following halachah, however, it is questionable if the Rambam would accept this conclusion.
+
 [^85]: I.e., since there is a question whether the mixture is forbidden or not.
+
 [^86]: For he is permitted to partake of *terumot*.
+
 [^87]: Chs. 13 and 14.
+
 [^88]: There is a difficulty with the Rambam's statements, for generally, we do not rely on the word of a gentile with regard to ritual matters. The *Shulchan Aruch* (*Yoreh De'ah* 98:1) relies on the opinion of the Rashba quoted by the *Tur*, that this refers to a situation where the gentile does not know that we are relying on him, but instead makes his statements as a matter of course (*masiach lifi tomo*).  
     See also the *Turei Zahav* 98:2 and the *Siftei Cohen* 98:2 who quote views which state that an ordinary gentile is not sufficient, but instead, the intent is a gentile chef who is an expert on recognizing flavors. According to some, however, this interpretation leads to a leniency. For since he is a professional, he will not risk his professional reputation by lying to mislead a Jew. Hence, according to these views, his statements can be accepted even if they are made in response to direct questions and not as a matter of course. There are, nevertheless, authorities who differ and require even a chef to make his statements as a matter of course. Moreover, there are authorities (among them, the Radbaz and the Rama) who never accept the statements of a gentile with regard to these matters.  
     The Rama (*Yoreh De'ah* 98:1) states that in the present age, we do not rely on the statements of a non-Jew who tasted food to determine whether it is kosher or not.
+
 [^89]: Halachah 28.
+
 [^90]: For it is an accepted principle that the taste of a forbidden substance will be nullified in more than 60 times its volume.
+
 [^91]: This refers to mixtures of *terumot, orlah*, and mixed species in a vineyard. The ruling is, however, problematic. For if we are speaking about a mixture of these substances together with different substances, then 60 times their volume will be sufficient. For the taste of all substances except spices is nullified in 60 times their volume as stated in the previous note. And if we are speaking about a mixture of substances with their own kind, the taste of the forbidden substance will not be detectable.
+
 [^92]: *Avodah Zarah* [[Avodah Zarah 68#68b|68b]] leaves unresolved the question whether the rat's flavor detracts from the flavor of beer and vinegar. Hence we rule stringently.
+
 [^93]: These substances are not mentioned by the Talmud, *loc. cit.*, but it is common knowledge that the rat's flavor will detract from their own, as the Rambam explains (*Kessef Mishneh*).
+
 [^94]: These are prohibited by Scriptural Law.
+
 [^95]: In his *Kessef Mishneh*, Rav Yosef Caro states that, according to the Rambam, one may partake of the meat as it is. He need not scrape off or cut away its surface (*kelipah* or *netilah*). In his *Shulchan Aruch* (*Yoreh De'ah* 105:5), however, he rules according to the perspective of Rabbenu Asher, the Rashba, the Ran, and the *Tur* who maintain that the outer layer of the meat next to the fat itself must be cut away.  
     See also the ruling of the Rama (*Yoreh De'ah, loc. cit.*) that at present, we are not capable of differentiating which fat is considered succulent and which is considered lean. Hence, we require 60 times the amount of forbidden fat in all instances.
+
 [^96]: The *Kessef Mishneh* emphasizes that the leniency mentioned by the Rambam applies only when the animal is roasted with its *gid* or with the forbidden tissues. If it is cooked, more stringent rules apply.
+
 [^97]: Although the fat of the *gid hanesheh* is prohibited, there is not enough fat to cause the other limbs of the animal to become prohibited (*Kessef Mishneh*). Nevertheless, one must cut away the outer layer of the meat next to the *gid*.
+
 [^98]: In this instance as well, there is not a significant enough quantity of fat to cause the meat to become forbidden.
+
 [^99]: The *Shulchan Aruch* (*Yoreh De'ah* 108:1) quotes the Rambam's ruling forbidding roasting the two in the same oven, but allows for certain leniencies, e.g., the oven is very large or the substances are covered.
+
 [^100]: It appears that the kosher meat was unsalted. If, however, it were salted, it would not absorb the juices of the non-kosher meat, as indicated by the principle: "One that is involved in discharging its own juices does not absorb from another" (Radbaz).
+
 [^101]: The commentaries note an apparent contradiction to the Rambam's rulings in Chapter 7, Halachot 17-19. The Radbaz explains that there, both the forbidden and the kosher substances were salted, while here the kosher meat was not. The *Kessef Mishneh* explains that here the two pieces of meat are mixed together, while there the substances were merely near each other.
+
 [^102]: In this halachah, the Rambam is communicating the principle stated by *Chulin* [[Chullin 111#111b|111b]] *et al* that meat which is salted is considered as if it is burning hot. It emits concentrated juices which are absorbed by other meat.
+
 [^103]: I.e., no matter what the ration of the kosher meat to the non-kosher meat, the mixture is forbidden (*Kessef Mishneh*).  
     The *Tur* and the *Shulchan Aruch* (*Yoreh De'ah* 70:3-4) follows the more lenient views of Rabbenu Asher, the Rashba, and the Ran who maintain that only the external surface of the kosher meat becomes forbidden. Once it is peeled off, the meat is permitted.
+
 [^104]: For pickling is considered equivalent to cooking. Fish brine is considered as very powerful. Hence it requires a much larger measure than ordinary non-kosher substances. See Rav Kapach's notes to the Rambam's Commentary on the Mishnah (*Terumot* 10:8) where he writes that the Rambam changed his mind three times on this issue, twice stating more stringent views than the one stated here, before writing this view as his final conclusion.

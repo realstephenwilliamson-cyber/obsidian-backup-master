@@ -43,34 +43,65 @@ And that is why מרשית (from the beginning) is written without an *alef*, al
 However, its manifestation—from this concealment—depends on the action of those below, and on their merit and penitence during the Ten Days of Penitence, and suffice this for the initiated.
 
 [^1]: This letter appears in *Bonei Yerushalayim*, sect. 31 (repr. in *Igrot Kodesh Admur Hazaken* (Kehot, 2012), p. 167 ff.), with additional parts at the beginning and end which do not appear in our text here.
+
 [^2]: V. L. in *Bonei Yerushalayim*: and to renew it as aforetimes, that it….
+
 [^3]: Par. [[Psalms 064#^64-7|Psalms 64:7]].
+
 [^4]: V. L. in B. Y.: “as if but that very day did the L–rd begin to show us His grace and enlighten our eyes in the darkness with the light of the L–rd that radiates to the Holy Land and to those that dwell in it; and (the light) radiates and shines within our confines ever more, so that our soul be bound to (the Holy Land) with the thick ropes of a magnanimous love, and the bond becomes stronger and renewed every morning by a new light, as our Sages, of blessed memory, said on the verse ‘which I command you this day’ ([[Torah 45 - Vaetchanan#^6-6|Deuteronomy 6:6]]): ‘Every day they are to be in your eyes as truly new, as if the Torah was given but this very day.’ (*Pesikta Zutrata*, ad loc.; cf. also *Sifrei*, and *Rashi*, and *Tanchuma*, ed. Buber, *Yitro* 13.) Thus beautiful is for us the precept of strengthening and settling in the Holy Land, which is equivalent unto all the commandments, as explained in *Sifrei*, sect. *Re’eh* (80), on the verse ‘and you will dispossess them, and you will dwell in their land.’ ([[Torah 47 - Re'eh#^12-29|Deuteronomy 12:29]]) And “Israel will not be redeemed except through charity” (see above, Epistle 10, note 58)*—*which they perform with the L–rd and with His Holy Land to rectify the basis of the degeneracy and the blemish, (i.e.,)—“and they scorned the desirable land,” etc. ([[Psalms 106#^106-24|Psalms 106:24]]). *A fortiori*, then, it is befitting for us to uphold (this precept) with great joy and an ardent love, as if but this very day did the spirit of the L–rd begin to move us, and this very day did the L–rd set His spirit upon us….”
+
 [^5]: Par. [[Judges 03#^3-2|Judges 3:2]] and [[I Chronicles 29#^29-5|I Chronicles 29:5]].
+
 [^6]: Supreme *chochmah* (see above, Epistle 10, note 41).
+
 [^7]: [[Torah 46 - Eikev#^11-12|Deuteronomy 11:12]].
+
 [^8]: [[Proverbs 03#^3-19|Proverbs 3:19]].
+
 [^9]: The “upper earth,” or “upper land,” i.e., the celestial model of the Holy Land; cf. above, Epistle 8, notes 37 and 45.
+
 [^10]: “Land of desire” ([[Malachi 3#^3-12|Malachi 3:12]]), cf. above, Epistle 8, note 37.
+
 [^11]: Of the *eretz ha’elyonah*.
+
 [^12]: Land of life; see above, end of Epistle 8, and notes, ad loc.
+
 [^13]: [[Ecclesiastes 07#^7-12|Ecclesiastes 7:12]].
+
 [^14]: See *Pardes Rimonim* 12:1; also 3:5.—Cf. Addendum, *Mystical Concepts in Chassidism*, s.v. *Chochmah*.
+
 [^15]: See Maimonides, *Hilchot Yesodei HaTorah* 2:10; *Likkutei Amarim*, Part I, beg. of ch. 2.
+
 [^16]: V. L. in B. Y.: the quality and increase of.
+
 [^17]: *Rosh Hashanah* [[Rosh Hashanah 8#8a|8a]]-b.
+
 [^18]: V. L. in B. Y.: and from His *chochmah*.
+
 [^19]: [[Psalms 036#^36-10|Psalms 36:10]].
+
 [^20]: Brackets appear in the text.
+
 [^21]: V. L. in B. Y.: “*nesirah*, etc.”—*Nesirah*, of the root נסר (to saw, to plane), is the Kabbalistic term generally referring to the withdrawal of the “old light” and the egression of the “new” one. This term, abounding in (Lurianic) Kabbalistic and Chasidic literature dealing with the period of Rosh Hashanah relates to the theme of [[Torah 01 - Bereshit#^2-21|Genesis 2:21]] ff. [the removal of Adam’s rib (to which the *Zohar* applies the term *nesirah*; cf. [[Zohar 1.07 - Parashat Be-Reshit#^z1-34b|I:34b]] and *Derech Emet*, ad loc.; [[Zohar 4.06 - Parashat Be-Shallah#^z2-55a|II:55a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-19a|III:19a]] and [[Zohar 7.06 - Parashat Tazri'a#^z3-44b|44b]]) and the formation of Eve].
+
 [^22]: Brains, intellectual faculties, referring to *chochmah*, *binah*, and *daat*.
+
 [^23]: See Arizal, *Shulchan Aruch*, beg. of *Kavanat HaTefillah*; *Likkutei Torah*, *Beshalach* 2d; *Bamidbar* 5d.
+
 [^24]: V. L. in B. Y.: more sublime ones, etc.
+
 [^25]: V. L. in B. Y.: as regards the world of the six thousand years as a whole.
+
 [^26]: Of the world’s existence (*Sanhedrin* [[Sanhedrin 97#97a|97a]]).
+
 [^27]: See *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-218a|II:218a]]; *Etz Chaim* 8:1.
+
 [^28]: [[Torah 37 - Sh'lach#^15-24|Numbers 15:24]]; *Shir Hashirim Rabbah* I, 15:2. See also [[Torah 24 - Vayikra#^4-13|Leviticus 4:13]], *Horiyot* [[Horayot 5#5a|5a]], and *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-20a|III:20a]]. Cf. also *Sifrei*, Deuteronomy 41 and *Taanit* [[Taanit 24#24a|24a]].
+
 [^29]: *Bava Batra* [[Bava Batra 158#158b|158b]]; see *Zohar* III:245b.—I.e., it radiates *chochmah*, emanating to it from the “Eyes” of G–d.
+
 [^30]: Signified by the *alef* (cf. *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-54a|II:54a]]; [[Zohar 5.04 - Sava de-Mishpatim#^z2-123a|123a]]).
+
 [^31]: By which the *alef*, the new sublime light, is elicited; see *Siddur Im Dach*, *Shaar Hateki’ot*, p. 244b ff.
+
 [^32]: From the *eretz hachayim* the light effuses to all the other worlds. On the terrestrial plane it effuses from the *eretz hachayim* (the Holy Land) to all the other countries (see *Sifrei*, Deuteronomy 40, and Nachmanides on [[Torah 46 - Eikev#^11-22|Deuteronomy 11:22]]; cf. *Taanit* [[Taanit 10#10a|10a]], and see also *Zohar* I:255b; [[Zohar 4.04 - Parashat Va-Era#^z2-22b|II:22b]] and [[Zohar 5.05 - Parashat Terumah#^z2-152b|152b]]; [[Zohar 9.10 - Commentary on Balaq, continued#^z3-209a|III:209a]]-b; *Zohar Chadash* 87d. See also *Shaarei Orah* (Gikatilla), ch. 5).

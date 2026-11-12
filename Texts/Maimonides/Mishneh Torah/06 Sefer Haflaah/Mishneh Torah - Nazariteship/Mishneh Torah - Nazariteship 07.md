@@ -121,77 +121,147 @@ What is implied? A person took an oath that he will drink wine on this day. Thus
 Nevertheless, when a nazirite shaves his hair during the midst of his nazirite vow, he violates both a negative commandment and a positive commandment, as \[[[Torah 35 - Nasso#^6-5|Numbers 6:5]]] states: "[His hair] is holy. He shall let the mane of the hair of his head grow." And [the observance of] a positive commandment does not supercede a negative commandment that [is reinforced by] a positive commandment. Why then does the positive commandment of shaving the blemish supercede his nazirite vow? Because the nazirite has already become impure because of the *tzara'at* and the days when he is defined as impure are not counted [towards the fulfillment of his vow], as we explained.[^70] [Hence,] his [hair] is not holy during these days. Thus the positive commandment [mentioned above] is withdrawn and only the negative commandment [Leviticus, *loc. cit.*]: "A razor shall not pass over his head" alone remains incumbent upon him. Therefore the positive commandment of shaving [because of the *tzara'at*] can come and supercede it.[^71] ^7-15
 
 [^1]: The Rambam explains these concepts in the following halachot.
+
 [^2]: In *Hilchot Tumat Meit* 3:3, the Rambam writes: "All ritual impurity resulting from a corpse for which a nazirite is not required to shave does not stem from Scriptural Law." If this impurity were Rabbinic in origin, the Rambam would not have to explain why it does not invalidate the previous days, it would be obvious. A Rabbinic decree cannot supercede Scriptural Law and according to Scriptural Law, it is forbidden for a nazirite to shave.  
     As explained in the notes to Chapter 5, Halachah 15, there are times when the Rambam uses the term *midivrei sofrim*, which usually means "stemming from Rabbinic decree" to refer to matters that are of Scriptural origin, but derived by our Sages using the accepted principles of Biblical exegesis (see *Hilchot Ishut* 1:2; *Sefer HaMitzvot*, General Principle 2). Similarly, with regard to the contraction of ritual impurity in question: Although it is not explicitly mentioned in the Torah, it could be considered of Scriptural origin, because it was derived through the laws of Biblical exegesis. Hence, the Rambam needs a derivation from a Scriptural source to explain why shaving is not required.
+
 [^3]: I.e., a fetus in a preliminary stage of development.
+
 [^4]: Whether still soft or dried (*Hilchot Tuma'at Meit* 2:1).
+
 [^5]: The Rambam defines the term *netzel* at the conclusion of the halachah; see also *Hilchot Tuma'at Meit* 2:1.
+
 [^6]: More details concerning the impurity resulting from the bones of a corpse are discussed in *Hilchot Tuma'at Meit* 2:8-10.
+
 [^7]: A *kav* is a relatively small measure (1376 cc according to *Shiurei Torah*, 2400 cc according to *Chazon Ish*). Thus we are probably speaking of the bones of an infant or a fetus. See Halachah 4.
+
 [^8]: Whether still soft or dried (*Hilchot Tuma'at Meit* 2:1).
+
 [^9]: A person becomes impure even when he comes into contact with a fourth of a *kav* of bones (*Hilchot Tuma'at Meit* 2:9). Nevertheless, a nazirite is not required to shave unless there is a half a *kav* there. See Halachot 6-7.
+
 [^10]: For a limb that is cut off from a living body is considered as if it was cut off from a corpse (*Hilchot Tuma'at Meit* 2:3).
+
 [^11]: Half a *log* is 172 cc according to *Shiurei Torah* and 300 cc according to *Chazon Ish*. Even though one *revi'it* is sufficient to convey ritual impurity (*Hilchot Tuma'at Meit* 2:12), for a nazirite to be required to shave, twice that amount is required. See also Halachah 6.
+
 [^12]: See the following halachah for a more detailed definition of the term *rekev*; see also *Hilchot Tuma'at Meit* 2:11.
+
 [^13]: For in such a situation, the decomposed mass contains nothing more than the corpse, for marble does not decompose. The same law would apply to a glass or stone coffin (*Hilchot Tuma'at Meit* 3:4).
+
 [^14]: For then its clothes would be mixed together with it.
+
 [^15]: For metal rusts and wood rots and thus the mass would contain something other than the corpse (*ibid.*).
+
 [^16]: For the concept of *rekev* applies only when there is one corpse.
+
 [^17]: Since the hair and/or nails were separated, they are considered as separate entities.
+
 [^18]: For the fetus is considered a separate entity.
+
 [^19]: Or covers them with part of his body or part of his body is covered by them, as stated in the following halachah. As indicated by Halachah 6, the unresolved doubt applies only with regard to the impurity resulting from being in the same shelter as this amount of a corpse's bones. If one touches a corpse, he becomes impure, no matter how small the quantity of bones he touches is.
+
 [^20]: In Halachah 2.
+
 [^21]: See *Hilchot Tuma'at Meit* 1:10-11.
+
 [^22]: See the Rambam's Commentary to the Mishnah (*Ohelot* 2:2).
+
 [^23]: For the fetus is considered a separate entity.
+
 [^24]: Or a piece of a bone.
+
 [^25]: This is not a minimum measure; even a smaller portion of a bone is sufficient to make the nazirite impure (Radbaz).
+
 [^26]: In *Hilchot Tuma'at Meit* 2:8 and in his Commentary to the Mishnah (*Ohelot* 1:8, 2:3) the Rambam explains that this concept is derived from the exegesis of [[Torah 37 - Sh'lach#^14-19|Numbers 14:19]]: "When a person dies in a tent." Implied is that the object that conveys impurity must clearly indicate that it comes from a person and this is not true of a bone this small.
+
 [^27]: For the fetus is considered a separate entity.
+
 [^28]: In his Commentary to the Mishnah (*Ohelot* 2:3), the Rambam writes that in the Diaspora, people are not as careful with regard to burial and will bury a corpse anywhere. Accordingly, our Sages feared that perhaps a small portion of a bone would become mixed together with earth. Hence, they decreed that all earth from the Diaspora -even if brought to *Eretz Yisrael* - conveys ritual impurity. See also *Hilchot Tuma'at Meit* 2:16.  
     Based on Chapter 2, Halachot 21-22, we are forced to say that we are speaking about an instance where a nazirite from *Eretz Yisrael* came in contact with the earth of the Diaspora. If a nazirite vow is taken in the Diaspora, different laws apply as stated there (Radbaz).
+
 [^29]: For we fear that small pieces of the corpse's bones were strewn over the field and that the nazirite came in contact with one (*ibid.*).
+
 [^30]: But not because of an *ohel* (shelter).
+
 [^31]: See *Hilchot Tuma'at Meit* 13:1-2 where the Rambam writes that for a shelter to convey ritual impurity according to Scriptural Law, the shelter must be a handbreadth by a handbreadth.
+
 [^32]: I.e., protrusions less than a handbreadth by a handbreadth.
+
 [^33]: Our text follows the authentic manuscripts and early printings of the *Mishneh Torah*. The standard printed text follows a different - and somewhat difficult to comprehend - version. See the conclusion of *Hilchot Tuma'at Meit* 19:6 where the Rambam discusses this issue and states that such impurity is *midivrei sofrim*, "from the words of the Sages."
+
 [^34]: See the notes to Halachah 2.
+
 [^35]: As mentioned in the notes to Halachah 2, according to Scriptural Law, one is ritually impure. Nevertheless, the Oral Tradition teaches that a nazirite is not required to perform a shaving in this instance (*Nazir* [[Nazir 54#54a|54a]]).
+
 [^36]: For the fetus is considered a separate entity.
+
 [^37]: I.e., the stone laid over the corpse. See the definition of this and the following term in *Hilchot Tuma'at Meit* 2:15.
+
 [^38]: Which serves as support for the gravestone.
+
 [^39]: I.e., enough flesh that would cause the flesh to regenerate as stated in Halachah 2. See *Hilchot Tuma'at Meit* 2:3.
+
 [^40]: The Radbaz maintains that this applies to utensils other than those made of metal. Touching metal utensils requires a person to have the ashes of the Red Heifer. According to the Rambam, however, it appears that there is no difference between metal utensils and those of other substances.
+
 [^41]: Since the utensil is touching the corpse, touching the utensil is considered equivalent to touching the corpse (*Hilchot Tuma'at Meit* 5:3).
+
 [^42]: Even though he must consider himself impure.
+
 [^43]: This expression indicates a ruling for which the Rambam does not have an explicit source in the previous Rabbinic literature, but instead derives through his own process of deduction.  
     The Rambam makes this deduction according to his interpretation of *Nazir* 7:3 which links these two matters with those mentioned in Halachah 6. The Ra'avad objects to the Rambam's statement, maintaining that for this law to apply the utensils must be touching the corpse at the time he is touching the utensils. The *Kessef Mishneh* explains that the Rambam would also accept this conception and states that it appears to be indicated by the Rambam's wording here. Others, however, note that the Rambam's wording in *Hilchot Tuma'at Meit, loc. cit.*, does not lead to that conclusion.
+
 [^44]: *Hilchot Tuma'at Meit, loc. cit.*
+
 [^45]: Were the sprinkling of the ashes to be required, he would be required to shave. Hence, he would not be able to count them as part of his vow (*Kessef Mishneh*). This constitutes a difference between the subjects mentioned in this halachah and those mentioned in Halachah 6.
+
 [^46]: A skin affliction with symptoms similar to that of leprosy, but rather than being merely a physical condition is a sign of spiritual impurity.
+
 [^47]: I.e., the priest has declared that he is afflicted by *tzara'at*, as stated in [[Torah 27 - Tazria#^13-11|Leviticus 13:11]].
+
 [^48]: As [[Torah 28 - Metzora#^14-5|Leviticus 14:5-8]] describes, when a person who was afflicted with *tzara'at* is purged of that affliction, he must bring sacrifices and shave his hair. Afterwards, he may enter the camp of the Jewish people, but may not dwell within his own tent for seven days.
+
 [^49]: Which is performed after these seven days (*ibid.*:9).
+
 [^50]: See Halachah 15 which states that during these days, his hair is not "holy." This state of ritual impurity does not, however, invalidate the days counted previously (the Rambam's Commentary to the Mishnah, *Nazir* 7:3).
+
 [^51]: I.e., the days prior to the determination of whether he truly is afflicted with *tzara'at* when we wait to evaluate whether a blemish that he possesses is *tzara'at* or not. See [[Torah 27 - Tazria#^13-4|Leviticus 13:4-5]]; *Hilchot Tuma'at Tzara'at* 7:2.
+
 [^52]: Since he is not required to shave his hair off after the conclusion of these days, they are counted as part of his nazirite vow (*Kessef Mishneh*).
+
 [^53]: A man becomes a *zav* when he has an emission from his urinary tract similar, but not identical to that which results from gonorrhea. A woman becomes a *zavah* when she experiences vaginal bleeding at times other than would be expected due to her menstrual cycle. In both cases, the individuals are ritually impure. See Leviticus, ch. 15.
+
 [^54]: Here also, since emerging from this impurity does not involve shaving, these days are counted as part of his nazirite vow (Radbaz).
+
 [^55]: E.g., he became impure due to contact with a dead lizard or because of the emission of semen in which instance he is impure only for a day.
+
 [^56]: See the following halachah.
+
 [^57]: See Halachah 15.
+
 [^58]: I.e., he is commanded to fulfill his oath and prohibited against not fulfilling it.
+
 [^59]: Even one who has not taken a vow.
+
 [^60]: See *Hilchot Shabbat* 29:1, 6. There is a Scriptural obligation to recite these prayers, but the association with a cup of wine is Rabbinic in origin (Radbaz).
+
 [^61]: See *Hilchot Evel* 3:8 which elaborates concerning this matter with regard to the prohibition incumbent on priests not to come in contact with ritual impurity:  
     When does the above apply? When the priest is alone and there is no one else with him; even when he calls out on the road, no one answers him. If, however, when he calls others answer, this is not considered an unattended corpse. Instead, he should call to the others and they should come and tend to [the corpse].
+
 [^62]: Even though it is a mitzvah for him to become impure and bury the corpse, he is obligated to shave and bring sacrifices. All the days of his nazirite vow which he observed previously are invalidated.
+
 [^63]: Who is also forbidden to become impure due to contract with a corpse, but is commanded to bury a corpse if there is no one else to do so, as cited in note 56.
+
 [^64]: I.e., limited to the span of his nazirite vow.
+
 [^65]: See Chapter 3, Halachah 11. Although such a person must observe the nazirite laws for all time, his state of holiness is not an intrinsic element of his being, but rather dependent on his desire to take the nazirite vow. Before he took the vow he was not obligated by these restrictions and he may have the vow absolved - and thus remove them. The holiness of a priest, by contrast, is an inherent element of his being, not dependent upon his choice or will (*Lechem Mishneh*; see also Radbaz, *Hilchot Evel* 3:9).
+
 [^66]: Even a span of time that he will never complete, e.g., 150 years, see Chapter 3, Halachah 12.
+
 [^67]: Even though shaving the hair on his head is forbidden.
+
 [^68]: See *Hilchot Tuma'at Tzara'at* 11:1.
+
 [^69]: And hence, the nazirite should shave his hair.
+
 [^70]: Halachah 9.
+
 [^71]: The Ra'avad accepts the Rambam's ruling, but gives a different rationale: The commandments associated with the nazirite vow are considered as insubstantial, because the nazirite could appeal to have his nazirite vow absolved. Although the rationale given by the Ra'avad is mentioned in *Yevamot* [[Yevamot 5#5a|5a]], the Rambam favors the reason he gave, for there are some nazirites who do not have the option of absolving their nazirite vows (see Chapter 3, Halachah 14).

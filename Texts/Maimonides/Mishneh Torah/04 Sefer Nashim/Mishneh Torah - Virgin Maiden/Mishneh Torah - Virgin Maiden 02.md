@@ -97,37 +97,63 @@ When a person has his daughter act in this manner, she is considered to be a har
 For this reason our Sages stated that a girl who was reputed to have conducted herself immodestly while young is not entitled to a fine, as we have explained,[^27] for we can assume that she willingly opened herself to this experience. ^2-17
 
 [^1]: As explained in the following halachot.
+
 [^2]: *Inah*, the word translated as "violated," more specifically means "oppressed." Significantly, [[Torah 18 - Mishpatim#^22-15|Exodus 22:15]], which describes the fine of the seducer, does not use this term.
+
 [^3]: The Rambam is employing the instance of the daughter of a bastard primarily as a figure of speech. The commentaries have noted that if in fact one has relations with the daughter of a bastard, in most instances the transgression of a negative commandment is involved, and the violator should be lashed rather than fined, unless a warning was not given.
+
 [^4]: Obviously, the penalty to be paid to the former exceeds that to be paid to the latter.
+
 [^5]: Rav David Arameah explains that the intent is that the embarrassment suffered at the hands of a person of stature is more significant. The commentaries note, however, that in *Hilchot Chovel UMazik* 3:1, the Rambam states that the embarrassment suffered at the hands of a base person is more severe.
+
 [^6]: The younger and smaller a girl, the more painful is the experience. Similarly, the older and larger the rapist, the more painful the experience is.
+
 [^7]: The Rambam mentions the divorce as being dependent on the woman, because the rapist cannot initiate divorce, as stated in Chapter 1, Halachah 3.
+
 [^8]: In contrast to other women, who would receive payment for their marriage contracts.
+
 [^9]: The girl's value is reduced even through anal intercourse, albeit less than through vaginal intercourse. As mentioned in Chapter 1, Halachah 8, a fine is not required for anal intercourse.
+
 [^10]: Chapter 1, Halachot 9 and 10.
+
 [^11]: The *Tur* (*Even HaEzer* 177) differs with the Rambam and maintains that these women are entitled to damages. The fact that they are not granted a fine has no bearing on this manner.
+
 [^12]: A fine is not required for a *bogeret*, because the verse mentions a *na'arah*, a younger maiden. Nevertheless, if one seduces a *bogeret*, no fine is required, because she willingly accepted any damages and embarrassment.  
     With regard to a minor who has dissolved her marriage through *mi'un*, we are obviously speaking of a girl who did not engage in sexual relations as a minor and was still a virgin. Although she is not entitled to a fine, since she was a virgin, she does receive damages. The commentaries have questioned the distinction between such a woman and a woman who is divorced after *nisu'in*, but is still a virgin.
+
 [^13]: He is not liable to make compensation for the embarrassment and damages because these women are not entitled to damages, because they have no financial worth; they would not be purchased if sold as slaves. (See *Ketubot* [[Ketubot 32#32a|32a]], *Bava Metzia* [[Bava Metzia 80#80a|80a]].) And with regard to embarrassment, since they are mentally incompetent, they suffer no embarrassment.  
     (Compare, however, to *Hilchot Chovel UMazik* 3:4, which states that a mentally incompetent person is not reimbursed for embarrassment, but a deaf mute is.)
+
 [^14]: For, as mentioned previously, a girl who is seduced does not suffer pain, and she either forgoes or need not be reimbursed for damages and embarrassment.
+
 [^15]: This is a principle that applies not only with regard to the fine in question, but with regard to all *k'nasot* levied by the Torah. To explain: There are two types of monetary penalties levied by the Torah: a) *nezek*, damages - i.e., compensation for personal injury and/or loss of property - and *k'nas*, a fine, payment required by the Torah over and above what a person would be held liable for damages.  
     Although a person is liable for *nezek* when he makes an admission of guilt, he is not held liable for a *k'nas* unless his guilt is established by witnesses. (See *Hilchot Nizkei Mammon* 2:8 and *Hilchot Geneivah* 3:7.) Moreover, even if he admits his guilt and then witnesses come, he is not liable for payment of the *k'nas*.
+
 [^16]: As mentioned in the *Kessef Mishneh*, the Rambam's statements here are in direct contradiction to his statements in *Hilchot Chovel UMazik* 5:6, where he states that when a person admits injuring a colleague, but there are no witnesses who testify to the matter, he is not liable for the damages and the pain, but is liable for the injured's unemployment, embarrassment and medical treatment. (As reflected by the commentaries on *Hilchot Chovel UMazik*, this ruling is contested by many authorities.)  
     The Rambam's descendant, Rav Yehoshua, attempts to reconcile the Rambam's rulings, explaining that the laws governing the injuries suffered by a raped or seduced maiden differ from those governing other types of injury.
+
 [^17]: More precisely, the term used is *sh'vuat hesset*, a Rabbinic oath of lesser severity. See *Hilchot Sh'vuot* 11:13 and *Hilchot To'en V'Nit'an* 1:3.
+
 [^18]: The Rambam is emphasizing that if the only issue were the *k'nas*, the man would not be held liable for an oath, because this oath was instituted to encourage the defendant to admit his guilt. With regard to the *k'nas*, this admission would be of no significance, because his liability is dependent only on the testimony of witnesses. Nevertheless, since there is also a claim for damages, and on that matter his admission would make him liable, he is required to take an oath.
+
 [^19]: As explained in *Hilchot To'en V'Nit'an* 1:1, whenever a person admits a portion of the claim against him, he is required by Scriptural law to take an oath stating his lack of liability to the remaining portion of the claim.  
     The Ra'avad differs with the Rambam, because, as mentioned in the following halachah, the payment for these damages goes to the girl's father and not to her herself. Hence, the situation resembles the case (*Sh'vuot* [[Shevuot 38#38b|38b]]) where a person claims "You owe my father 100 *zuzim*," and the defendant states, "I owe him only 50," in which instance the defendant is not required to take an oath, because the person making the claim is not the one to whom the money is paid.  
     It is possible, the Ra'avad continues, for the father to make a definite claim that his daughter was raped. But it must be established that this indeed was the case.  
     The *Kessef Mishneh* justifies the Rambam's ruling, explaining that this instance is unique. Although the money goes to the girl's father, she and not her father is considered to be the plaintiff.
+
 [^20]: When the girl manifests physical signs of maturity at the ordinary times, the period of "youth" mentioned here continues until she is twelve and a half. During that time, as mentioned in *Hilchot Ishut* 3:11, the father is entitled to consecrate his daughter and receive the money given for consecration, and to receive any benefits from her labor.
+
 [^21]: And not to any other heirs of her father's estate. With regard to the *k'nas*, the money is not considered to be owed the father until the defendant denies the debt in court (for if he agreed to the claim, he would not be obligated to pay the fine). Therefore, the money owed because of the fine is not considered part of the father's estate. See *Or Sameach*.
+
 [^22]: The Ra'avad differs with the Rambam on this point, stating that this money is considered part of the father's estate, and belongs to his heirs. The *Kessef Mishneh* and others, however, question the reason for the difference, noting that the Rambam's opinion is based on an explicit *mishnah*.
+
 [^23]: In all the instances mentioned, she leaves her father's domain and assumes independent responsibility for her own financial concerns. Although the event for which the person becomes liable took place before the girl has assumed financial independence, since a claim was not issued at that time, she and not her father (or his heirs) is entitled to the money.  
     *Kin'at Eliyahu* states that this supports the thesis of the *Kessef Mishneh* mentioned in the notes on Halachah 13, that the girl herself is the plaintiff.
+
 [^24]: But not to the payment for damages; that is awarded to her father. As mentioned in the notes on Chapter 1, Halachah 9, our Sages derived from the exegesis of [[Torah 49 - Ki Teitzei#^22-29|Deuteronomy 22:29]] that when a girl has been consecrated, she is entitled to the fine. But that applies only to the fine and not to the damages (*Kessef Mishneh*). Rabbenu Asher differs and maintains that she is also entitled to the damages, for she is no longer within her father's domain.
+
 [^25]: The Rambam is referring to the wording of the verse in Leviticus cited previously.
+
 [^26]: The Ra'avad differs and maintains that a woman is not considered to be a harlot unless she is a professional prostitute. See the discussion of this issue in *Hilchot Ishut* 1:4.
+
 [^27]: Chapter 1, Halachah 9.

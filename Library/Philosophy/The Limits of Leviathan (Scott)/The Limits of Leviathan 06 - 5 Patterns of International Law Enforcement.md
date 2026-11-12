@@ -37,6 +37,7 @@ Informal enforcement is not nonenforcement. Consider again the Molotov-Ribbentro
 During the life of the Pact, its division of Europe, shortly thereafter realized by force of arms, not only lowered the risk of post-invasion conflicts but gave each side the opportunity to signal trustworthiness and willingness to
 
 [^2]: Note in particular Articles 244 and 256 of the Consolidated Version of the Treaty Establishing the European Community, which obligates the members of the Community automatically to enforce monetary awards by the Court through the conventional national civil procedure.
+
 [^3]: Treaty of Non-Aggression, Aug. 23, 1939, F.R.G.-U.S.S.R., 1939 RGBl. II, No. 38, translated in 7 Documents on German Foreign Policy, 1918–1945, at 245 (Series D) (U.S. Dept. of State 1956); Secret Additional Protocol, Aug. 23, 1939, in 7 Documents on German Foreign Policy, *supra*, at 246.
 
 *[p. 112]* ^pg122
@@ -50,6 +51,7 @@ The 1994 Uruguay Round Agreements, which created the WTO to bolster the GATT, es
 Other regional trade agreements contain similar dispute-resolution mechanisms. An incomplete list would include the European Free Trade Area (EFTA)
 
 [^4]: Understanding Involving Notification, Consultation, Dispute Settlement and Surveillance, GATT Doc. L/4907 (Nov. 28, 1979).
+
 [^5]: Understanding on the Rules and Procedures Governing the Settlement of Disputes, http://www.wto.org/english/docs e/legal e/28-dsu.pdf (last visited October 3, 2005). On GATT and WTO dispute settlement generally, see Andrew Guzman & Beth A. Simmons, *To Settle or Empanel?* *An Empirical Analysis of Litigation and Settlement at the World Trade Organization*, 31 J. Leg. Stud. S205 (2002); Paul B. Stephan, *Sheriff or Prisoner? The United States and the World Trade Organization*, 1 Chi. J. Int’l L. 49 (2000).
 
 *[p. 113]* ^pg123
@@ -61,7 +63,9 @@ The WTO DSB has greater independence than the former GATT panel system had.[^6] 
 Of even greater significance is the absence of any authority on the part of the WTO DSB to impose self-executing sanctions on wrongdoers. The body’s finding that a member has suffered from another’s failure to meet an obligation under one or more of the Uruguay Round Agreements results in a call for the offending state to bring itself into compliance with its responsibilities. If the offender does not remedy its lapse within a reasonable period of time, the victim can impose trade sanctions on the offender. The DSB must approve these measures, which cannot exceed what, in the view of the DSB, is necessary to compensate the victim for the ongoing effects of an unremedied violation.[^8] In particular, the victim has no right to retrospective compensation, and even the “compensation” that applies prospectively operates only through increased
 
 [^6]: For elaboration of the point, see Eric A. Posner & John C. Yoo, note 1 *supra*, at 44–46.
+
 [^7]: *See* Alan O. Sykes, *Public versus Private Enforcement of International Economic Law: Standing and Remedy*, 34 J. Leg. Stud. 631 (2005); Mark L. Movsesian, *Enforcement of WTO Rulings: An Interest Group Analysis*, 32 Hofstra L. Rev. 1 (2003); Jide Nzelibe, *The Credibility Imperative: The Political Dynamics of Retaliation in the World Trade Organization’s Dispute Resolution Mechanism*, 6 Theoretical Inquiries in Law 215 (2005).
+
 [^8]: Understanding on the Rules and Procedures Governing the Settlement of Disputes, note 5 *supra*, art. 22.
 
 *[p. 114]* ^pg124
@@ -89,7 +93,9 @@ But other disputes involve collective action problems where enforcement is salie
 In Chapter 3 , we discussed how retaliation works to induce private cooperation. Given sufficiently low discount rates and indefinite prospects of ending the relationship, parties can optimize their cooperation by manifesting a
 
 [^10]: The Convention on the Law of the Sea contains a Part XI that creates the International Seabed Authority, a regime for administering deep seabed mining operations, and envisions a time when disputes over that regime might be brought by interested persons to the ITLOS. But although the Authority has been created and occupies a resplendent headquarters in Jamaica, it has not entered into any contracts to exploit these resources and accordingly has engendered no disputes.
+
 [^11]: Convention on the Law of the Sea, arts. 297, 298, Dec. 10, 1982, 1833 U.N.T.S. 397 (1994). Again, hypothetically the ITLOS has compulsory jurisdiction over seabed disputes, but at present these do not exist.
+
 [^12]: Tom Ginsburg & Richard H. McAdams, *Adjudicating in Anarchy: An Expressive Theory of International Dispute Resolution*, 45 Wm. & Mary L. Rev. 1229 (2004).
 
 *[p. 116]* ^pg126
@@ -105,6 +111,7 @@ As we discuss later, retaliation is a less straightforward process than superfic
 If both sides hold the same number of prisoners, each has a simple and effective means of retaliation if its opponent mistreats its prisoners. If one has very few
 
 [^13]: Eric Reinhardt, Aggressive Multilateralism: The Determinants of GATT/WTO Dispute Initiation, 1948–1998 (Feb. 2000).
+
 [^14]: *See*, *e.g.*, European Communities – Measures Concerning Meat and Meat Products (Hormones), Original Complaint by the United States, Recourse to Arbitration by the European Communities under Article 22.6 of the DSU (WT/DS26/ARB, July 12, 1999); European Communities – Regime for the Importation, Sale and Distribution of Bananas, Recourse to Arbitration by the European Communities under Article 22.6 of the DSU (WT/DS27/ARB/ECU, March 24, 2000); United States – Tax Treatment for “Foreign Sales Corporations”, Recourse to Arbitration by the United States under Article 22.6 of the DSU and Article 4.11 of the SCM Agreement (WT/DS108/ARB, August 30, 2002); United States – Anti-Dumping Act of 1916 (Original Complaint by the European Communities), Recourse to Arbitration by the United States under Article 22.6 of the DSU (WT/DS136/ARB, February 24, 2004); United States – Continued Dumping and Subsidy Offset Act of 2000 (Original Complaint by the European Communities), Recourse to Arbitration by the United States under Article 22.6 of the DSU (WT/DS217/ARB/EEC, August 31, 2004).
 
 *[p. 117]* ^pg127
@@ -116,6 +123,7 @@ This example illustrates the dynamics of hostage taking, a well studied problem 
 The Molotov-Ribbentrop Pact example simply illustrates a point we made in Chapter 3 : To work effectively as a means of informal enforcement of obligations, retaliation requires mutuality and anticipated future benefits from the reciprocal relationship. Once the parties envision the end game, mutuality and future gains disappear, and retaliation loses its sting. The dynamic functions in international law enforcement as much as it does in private contract. This observation, however, does not mean that other informal enforcement mechanisms also stop working.
 
 [^15]: Richard A. Posner, *Some Economics of International Law: Comments on Conference Papers*, 31 J. Leg. Stud. S321, S325 (2002). The example exposes a puzzle, however: Why do states bother to codify the rules regarding prisoners of war if they know they will face retaliation if they lose? During World War II, for example, Japan was not a signatory to the 1929 Geneva Convention Relative to the Treatment of Prisoners of War, but after the war the United States still held war crime trials and executed many Japanese soldiers for mistreating U.S. prisoners. One possibility is to regard some instruments not as contracts, but rather as a form of coordination. From this perspective, a state adheres to the Geneva Conventions not only to bind itself, but to announce to potential future adversaries what standards it will apply to their conduct. Also, a state might join such an agreement to limit its obligations to those contained in the text, rather than facing the uncertain standards of victors’ justice.
+
 [^16]: The classic analysis remains Thomas Schelling, *An Essay on Bargaining*, 46 Am. Econ. Rev. 281 (1956). *See also* Robert E. Scott, *A Relational Theory of Secured Financing*, 86 Colum. L. Rev. 901 (1986); Oliver E. Williamson, *Credible Commitments: Using Hostages to Support Exchange*, 73 Am. Econ. Rev. 519 (1983).
 
 *[p. 118]* ^pg128
@@ -143,6 +151,7 @@ Conversely, normal political turnover does not constitute regime change. Conside
 Both the WTO DSB and the ICJ illustrate the complexity of reputation development of an international organization.[^18] Take the case of the ICJ first. One still can find scholars and policy makers who speak of the body’s prestige and the existence of widespread support for it, but recent trends have not favored the ICJ.[^19] China, France, and the United States have withdrawn from the compulsory jurisdiction of the court; no important state has accepted compulsory jurisdiction since those withdrawals; no major power (defined as the top ten
 
 [^18]: Assessing the reputational value of the ITLOS is even more difficult, as so few disputants have sought to invoke its competence. In its first decade of existence, that tribunal has had jurisdiction over only twelve cases, only four of which involved anything other than vessel detention.
+
 [^19]: For praise of the ICJ, see Constanze Schulte, Compliance with Decisions of the International Court of Justice 1 (2004): “Business is booming for the International Court of Justice (ICJ). Its prestige and activity have reached unprecedented heights.”
 
 *[p. 120]* ^pg130
@@ -152,7 +161,9 @@ national economies) has initiated a case in the ICJ since 1987, save one proceed
 I read the majority opinion of the International Court of Justice at the Hague, and, unfortunately, I could not discover those distinguishing marks which turn a document into a legal opinion or a judgment of a court. *. . .*\[T\]he factual basis upon which the ICJ built its opinion is a ramshackle one. Some will say that the judgment has no worthy factual basis whatsoever. The ICJ reached findings of fact on the basis of general statements of opinion; its findings are general and unexplained; and it seems that it is not right to base a judgment, whether regarding an issue of little or great importance and value, upon findings such as those upon which the ICJ based its judgment. The generality and lack of explanation which characterize the factual aspect of the opinion are not among the distinguishing marks worthy of appearing in a legal opinion or a judgment. Moreover, generality and lack of explanation infuse the opinion with an emotional element, which is heaped on to an extent unworthy of a legal opinion. I might add that in this way, the opinion was colored by a political hue, which legal decision does best to distance itself from, to the extent possible. And if all that is not enough, there is the ICJ’s almost complete ignoring of the horrible terrorism and security problems which have plagued Israel – a silence that the reader cannot help noticing – a foreign and strange silence.[^22]
 
 [^20]: *See* Eric A. Posner & Miguel F. P. de Figueiredo, *Is the International Court of Justice Biased?* 34 J. Leg. Stud. 599 (2005).
+
 [^21]: Vienna Convention on Consular Relations (Paraguay v. United States), \[1998\] I.C.J. 426; LaGrand (Germany v. United States), \[2001 \] I.C.J. 104; Avena and other Mexican Nationals (Mexico v. United States), \[2004\] I.C.J. 128. The corresponding Supreme Court decisions are Breard v. Greene, 523 U.S. 371 (1998); Federal Republic of Germany v. United States, 526 U.S. 111 (1999); Torres v. Mullin, 540 U.S. 1035 (2003); Medellin v. Dretke, 544 U.S. 660 (2005). The Court had yet another opportunity to address these issues in the joined cases Sanchez-Llamas v. Oregon, No. 04–10566 and Bustillo v. Johnson, No. 05 –51, argued March 29, 2006.
+
 [^22]: HCJ 7957/04 Mara’abe and Others v. The Prime Minister of Israel and Others, 45 I.L.M. 202, 244–45 (2006) (Cheshin, V.P., concurring).
 
 *[p. 121]* ^pg131
@@ -178,6 +189,7 @@ Reputational benefits, in sum, are significant but remain subject to substantial
 The WTO DSB illustrates another aspect of informal enforcement that is related to, but distinct from, retaliation and reputational effects. As we discussed in Chapter 4, considerable evidence indicates that a substantial portion of individuals (roughly half) prefer reciprocity in their social interaction and will absorb some costs to satisfy that preference. This preference does not disappear when individuals act collectively, whether through firms or political organizations. It manifests itself in an acceptance of some risk of harm from opportunism, a willingness to absorb some costs to signal a preference for cooperation, and a propensity to engage in costly retaliation against opportunists.
 
 [^24]: Eric A. Posner & John C. Yoo, note 1 *supra*, at 50.
+
 [^25]: Helfer and Slaughter argue that an exclusive focus on prominent multilateral tribunals misses the emergence in recent years of many regional judicialized bodies endowed with the capacity to address disputes rising under particular international regimes. Laurence R. Helfer & Anne-Marie Slaughter, *Why States Create International Tribunals: A Response To Professors Posner and Yoo*, 93 Calif. L. Rev. 899, 910–17 (2005). With the exception of the ECJ and the ECHR, which we discuss later, the tribunals they list either lack direct enforcement powers, have not attracted much business, or both. Eric A. Posner & John C. Yoo, note 9 *supra*, at 964–67. We will discuss the question of why states would create international tribunals without expecting them to contribute to international law enforcement in the next chapter.
 
 *[p. 123]* ^pg133
@@ -189,6 +201,7 @@ The quantitative evidence of extensive retaliation in WTO DSB dispute selection 
 The economist Wilhelm Kohler has modeled EC-US trade disputes as a cooperative game where each side engages in proportionate defections from their GATT obligations as a means of both signaling updated preferences and inducing reciprocity by the other side.[^27] The model justifies engaging in costly retaliation as a means of making cooperative adjustments to initial obligations that have become too costly for one state to honor fully. Full validation of this model is impossible at present, because there have been too few disputes between the United States and the EC to permit rigorous quantitative analysis. The anecdotal evidence embodied in case studies, however, does suggest the
 
 [^26]: Excluding intra-EC trade, in 2002 the European Community accounted for 19 percent of the world’s merchandise exports, and the United States for 14 percent. The figures for imports were 18 percent and 23 percent, respectively. Again excluding intra-EC trade, in that year EC merchandise exports to the United States constituted 24 percent of its total, and U.S. merchandise exports to the European Community constituted 20.8 percent of its total. If one were to treat the ten new members that joined the European Community in 2004 as if they already had joined in 2002, these percentages would increase significantly. For WTO statistical trade tables, see http://www.wto.org/english/res e/statis e/its2003 e/its03 bysubject e.htm (last visited May 11,
+
 [^27]: Wilhelm Kohler, *The WTO Dispute Settlement Mechanism: Battlefield or Cooperation?* 4 J. Industry Competition & Trade 317 (2004).
 
 *[p. 124]* ^pg134
@@ -202,7 +215,9 @@ The choice of these two matters as trade disputes raised eyebrows. On the one ha
 Besides offering a vigorous, if ultimately unsuccessful, defense of its practices, the European Community also responded with reciprocal claims against the United States. One in particular is striking for its complete lack of real economic consequences. In *United States – Anti-Dumping Act of 1916*, the European Community challenged an old statute that provided for a private action by victims of dumping.[^30] As interpreted by the courts, this enactment added nothing to the rules and remedies applicable to predatory pricing, whether domestic or international, under U.S. antitrust law. As a formal matter, however, the
 
 [^28]: European Communities – Regime for the Importation, Sale, and Distribution of Bananas, AB-
+
 [^29]: European Communities – Measures Concerning Meat and Meat Products (Hormones), AB-1997–4.
+
 [^30]: United States – Anti-Dumping Act of 1916, AB-2000–5, -6 (2000).
 
 *[p. 125]* ^pg135
@@ -216,6 +231,7 @@ Further reflection, however, suggests that a preference for reciprocity may expl
 Private enforcement of competition law in the United States rankles the European Community in much the way that EC agricultural regulation irritates the United States. The whole idea of private control over public law strikes Europeans as inexplicable, and the application of U.S. competition rules, with their emphasis on dispersion of private decision making, has resulted in sixty years of European protest and reaction. Many states have enacted blocking statutes to prevent their governments and courts from assisting U.S. antitrust litigation, and some have adopted “clawback” laws to recapture punitive damages assessed by U.S. courts against their nationals. This hostility to private enforcement coexists with a willingness to pursue government-to-government
 
 [^31]: Ironically, several years after the WTO DSB expressed its disapproval of the 1916 Act, a private plaintiff actually won damages under the statute against a foreign firm. Goss International Corp. v. Tokyo Kikai Seisakusho, Ltd., 321 F. Supp. 2nd 1039 (N.D. Iowa 2004), *aff’d*, 434 F.3 rd 1081 (8th Cir. 2006).
+
 [^32]: Fritz Breuss, *WTO Dispute Settlement in Action: An Economic Analysis of Four EU-US Mini-Trade Wars*, 4 J. Industry Competition & Trade 275 (2004).
 
 *[p. 126]* ^pg136
@@ -255,8 +271,11 @@ It is technically correct that there do not exist any fully independent internat
 The European Court of Justice (ECJ) is responsible for legal enforcement of the Treaty Establishing the European Community.[^36] It can hear a wide range of challenges to EC law, including those brought by private persons.[^37] In particular, the ECJ can decide at the behest of a private person, as well as of EC organs or member states, whether the law of a member state complies with EC law.[^38]
 
 [^35]: Lest this possibility seem entirely hypothetical, one should recall that in some countries newly arrived to modern legal arrangements, local authorities systematically refuse to execute domestic judicial judgments. The Russian case has received the most attention. Kathryn Hendley, *Business Litigation in the Transition: A Portrait of Debt Collection in Russia*, 38 Law & Soc’y Rev. 305 (2004). In addition, as the notorious Marc Rich case illustrates, the subjects of a judicial decision can engage in self-help to evade the consequences. *See* In re Grand Jury Subpoenas Dated March 9, 2001, 179 F. Supp. 2nd 270 (S.D.N.Y. 2001).
+
 [^36]: Consolidated Version of the Treaty Establishing the European Community, art. 220. The Court of First Instance, a subordinate body to the ECJ, assists in this function. *Id.*
+
 [^37]: *Id.* arts. 230, 234.
+
 [^38]: *Id*. arts. 226, 227, 234; van Gend en Loos v. Nederlandse Administratie der Belastingen, Case 26/62, \[1963 \] E.C.R. 1; Costa v. Enel, Case 6/64, \[1964\] E.C.R. 585.
 
 *[p. 129]* ^pg139
@@ -268,9 +287,13 @@ Buttressing these legal commitments is an important practical reality. The Europ
 The success of the ECJ in turn has spawned several imitators in the developing world. The Court of Justice of the Andean Community, set up in 1979, the Central American Court of Justice, effectively established in 1991, and the Court of Justice for the Common Market of Eastern and Southern Africa, created in 1993, all permit private initiation of disputes and issue orders that, by the terms of the relevant Treaty, member states are obligated to treat as if they were domestic court judgments. Similar bodies are on the drawing boards but have not yet opened for business.[^43]
 
 [^39]: For member-state liability in damages for breaches of EC law, see Francovich v. Italy, Cases C-6/90, 9/90 \[1991 \] E.C.R.-I 5357; Brasserie du Pêcheur S.A. v. Germany, Joined Cases C-46, 48/93, \[1996\] E.C.R. I-1029. Article 256 is bolstered by the Brussels Convention on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters, 1998 OJ (C 27) 1, to which all member states now adhere and which makes court judgments issued in one state relatively easy to enforce in all the others. *See also* Council Regulation (EC) No. 44/2001 of 22 December 2000 on Jurisdiction and the Recognition and Enforcement of Judgments in Civil and Commercial matters, 200 OJ (C 325) 33.
+
 [^40]: *Compare* Costa v. Enel, Case 6/64, \[1964\] E.C.R. 585, *with* Martin v. Hunter’s Lessee, 14 U.S. (1 Wheat.) 304 (1816).
+
 [^41]: *Compare* Trevor C. Hartley, Constitutional Problems of the European Union 109 (1999), *with* Maria A. Theodossiou, *An Analysis of the Recent Response of the Community to Non Compliance with Court of Justice Judgments: Article 228(2) E.C.*, 27 Eur. L. Rev. 25, 40 (2002).
+
 [^42]: For a detailed review of the compliance of states with ECJ judgments, see Carl Baudenbacher, *The Implementation of Decisions of the ECJ and of the EFTA Court in Member States’ Domestic Legal Orders*, 40 Tex. Int’l L.J. 383 (2005).
+
 [^43]: For an analytical list of regional tribunals (not limited to regional common market agreements), see Laurence R. Helfer & Anne-Marie Slaughter, note 25 *supra*, at 912–13.
 
 *[p. 130]* ^pg140
@@ -284,8 +307,11 @@ Article 46 of the European Convention provides that signatories shall “abide�
 Technically speaking, nothing in the European Convention makes ECtHR just-satisfaction judgments self-executing, in contrast to the clear language of Article 244 of the Treaty on the European Community. National legal systems must implement these decisions, which take the form of money awards against the sovereign. But national practice appears to have treated payment as fairly automatic. European human rights advocates decry the tendency of some governments not always to implement ECtHR decisions by changing general
 
 [^44]: Council of Europe, Convention for the Protection of Human Rights and Fundamental Freedoms as amended by Protocol No. 11, E.T.S. No. 155. Monaco is the only member of the Council of Europe not to accept this instrument.
+
 [^45]: Council of Europe, European Court of Human Rights – Survey of Activities 2004 (2005).
+
 [^46]: For description of enforcement of ECtHR judgments, see Dinah Shelton, Remedies in International Human Rights Law 154–56 (1999);The Execution of Strasbourg and Geneva Human Rights Decisions in the National Legal Order (Tom Barkhuysen, Michiel van Emmerik and Piet Hein van Kempen, eds., 1999).
+
 [^47]: Council of Europe, European Court of Human Rights – Survey of Activities 2004 (2005).
 
 *[p. 131]* ^pg141
@@ -325,7 +351,9 @@ than a quarter century after the cut off for disputes over which it has jurisdic
 What gives the Tribunal its credibility and attraction as a forum is, for U.S. claimants, the availability of the security account to ensure satisfaction of awards and, for Iranian claimants, access to the well developed treaty-based procedures for national enforcement of foreign arbitral awards. Under the Accords, a successful U.S. claimant receives payment through an order transmitted from the Tribunal to the Central Bank of Algeria, which in turn instructs the Nederlandsche Bank N.V. to transfer funds to the Federal Reserve Bank of New York. The New York bank deducts a user charge and pays out the balance to the claimant. In one instance, the New York bank refused to pay the claim because it discovered that the claimant had fraudulently concealed his identity as an Iranian national, but otherwise payment has been as straightforward as enforcement of a domestic court judgment.[^52]
 
 [^50]: The texts of the various instruments that make up the Algiers Accords are reprinted in Charles N. Brower & Jason D. Brueschke, The Iran-United States Claims Tribunal 674–725 (1998).
+
 [^51]: *Id.* at 657–59.
+
 [^52]: Federal Reserve Bank v. Williams, 708 F. Supp. 48 (S.D.N.Y. 1989). The Supreme Court ruled that the user fee charged by the Bank did not constitute a compensable taking under the Fifth Amendment. United States v. Sperry Corp., 493 U.S. 52 (1989).
 
 *[p. 134]* ^pg144
@@ -339,10 +367,15 @@ By the terms of its creation, the Tribunal deals with only a definite set of com
 The legal protection of foreign investors has concerned capital-exporting countries at least since American independence. Articles 5 and 6 of the 1783 Treaty of Paris, which ratified the successful outcome of the American Revolution, committed the United States to restore the confiscated property of British subjects and not to engage in new confiscations; Article 4 obligated the United States not to impede the collection of lawful debts.[^57] Frustrated by the impediments to fulfilling these obligations posed by the structure of the Confederation, the United States reconstituted itself into the current federal republic five years later. The newly created federal courts became the principal mechanism for enforcing the Treaty’s protections.[^58]
 
 [^53]: Convention on the Recognition and Enforcement of Foreign Arbitral Awards, 21 U.S.T. 2517, T.I.A.S. No. 6997; 9 U.S.C. §§201 –07 (2001); 28 U.S.C. §2414 (2001).
+
 [^54]: The lead case upholding the argument that the New York Convention applies to Tribunal awards is Ministry of Defense of the Islamic Republic of Iran v. Gould, Inc., 887 F. 2nd 1357 (9th Cir. 1989).
+
 [^55]: *See* Ministry of Defense of the Islamic Republic of Iran v. Gould, Inc., 969 F.2nd 764 (9th Cir. 1992) (modifying award to the extent it required violation of U.S. criminal statute); Iran Aircraft Industries v. Avco Corp., 980 F.2nd 141 (2nd Cir. 1992) (refusing to enforce award because tribunal denied losing party a meaningful opportunity to present its claim).
+
 [^56]: For the claim, see Charles N. Brower & Jason D. Brueschke, note, at 644–48.
+
 [^57]: Definitive Treaty of Peace, Great Britain-United States, September 3, 1783, 8 Stat. 80, T.S. No. 104.
+
 [^58]: Ware v. Hylton, 3 U.S. (3 Dall.) 199 (1796); Hopkirk v. Bell, 7 U.S. (3 Cranch) 454 (1806); Martin v. Hunter’s Lessee, 14 U.S. (1 Wheat.) 304 (1816). A 1794 treaty between Great Britain and the United States created an international commission mechanism to settle claims by subjects of the two states against the other sovereign. Treaty of Amity, Commerce, and Navigation (Jay Treaty), Great Britain-United States, Nov. 19, 1794, 8 Stat. 116, T.S. No. 105. In practice the commission responsible for addressing the rights of British subjects failed to work, and eight years later the United States paid a lump sum settlement to Great Britain, which in turn disbursed the money to the claimants. Convention Regarding Articles 6 and 7 of the Jay Treaty, Great Britain-United States, Jan. 8, 1802, 8 Stat. 196, T.S. No. 108.
 
 *[p. 135]* ^pg145
@@ -352,8 +385,11 @@ During the nineteenth century and the first half of the twentieth, enforcement o
 In the years after World War II, the need to develop an ex ante legal framework for investment disputes became more pressing. Decolonization expanded the number of independent states that served as hosts for foreign capital and created a context that undermined the moral authority of property rights. At the same time, flows of capital exports, especially from the United States, grew considerably. One early structure, embodied in a 1948 Friendship, Commerce, and Navigation Treaty between the United States and Italy, designated the International Court of Justice as the tribunal to hear claims brought by one state as a result of the other’s expropriation.[^62] Like prewar practice, this mechanism excluded affected investors from the dispute resolution process and gave
 
 [^59]: Convention for the Reciprocal Settlement of Claims, United States-Mexico, Sep. 8, 1923, 43 Stat. 1730, T.S. No. 678; Special Claims Convention for the Settlement of Claims of American Citizens Arising from Revolutionary Acts in Mexico from November 20, 1910, to May 31, 1920, United States-Mexico, Sep. 10, 1923, 43 Stat. 1722, T.S. No. 676.
+
 [^60]: Convention Providing for En Bloc Settlement of Special Claims, United States-Mexico, Apr. 24, 1934, 49 Stat. 3071,T.S. No. 878;Convention Respecting Claims, United States-Mexico, Nov. 19, 1941, 56 Stat. 1347, T.S. No. 980.
+
 [^61]: U.S. law regarded the decisions of international claims tribunals during this period as lacking in direct effect. Any rights that an individual had to receive compensation derived from legislation authorizing the distributions of funds received by the United States, rather than from the decision to transfer funds to the United States based on some tribunal’s finding of liability. Act of Mar. 3, 1863, ch. 92, §9, 12 Stat. 765, 767, *codified at* 28 U.S.C. §1502; La Abra Silver Mining Co. v. United States, 175 U.S. 423 (1899); United States v. Blaine, 139 U.S. 306 (1891); United States v. Weld, 127 U.S. 51 (1888); Alling v. United States, 114 U.S. 562 (1885); Great Western Insurance Co. v. United States, 112 U.S. 193 (1894); Frelinghuysen v. Key, 110 U.S. 63 (1884).
+
 [^62]: Treaty, Protocol, and Additional Protocol Respecting Friendship, Commerce and Navigation, United States-Italy, Feb. 2, 1948, 63 Stat. 2255, T.I.A.S. No. 1965. In one instance the parties have invoked this treaty to submit a dispute to the ICJ. Case Concerning Elettronica Sicula S.p.A. (United States v. Italy), \[1989\] I.C.J. 15.
 
 *[p. 136]* ^pg146
@@ -365,8 +401,11 @@ In the 1950s European countries, led by Germany, embraced and expanded the model
 The Convention on the Settlement of Investment Disputes between States and Nationals of Other States, signed in 1965, provided a more institutionally developed structure for these cases. It established the International Center for the Settlement of Investment Disputes (ICSID), a body affiliated with the World Bank, to manage these arbitrations. Of greater significance, it opened the door to investor-initiated enforcement and obligated signatory states to enact domestic laws to enable judicial enforcement of ICSID arbitral awards.[^65] Host states and investing companies began to incorporate a reference to ICSID dispute settlement in their contracts with each other. In the 1980s, the United States and the United Kingdom began entering into BITs that took advantage of the ICSID enforcement mechanism.[^66]
 
 [^63]: The first was Treaty for the Promotion and Protection of Investments, Federal Republic of Germany-Pakistan, Nov. 25, 1959, U.N.T.S. 6575.
+
 [^64]: *See* Rudolph Dolzer & Margrete Stevens, Bilateral Investment Treaties 129–56 (1995). According to this source, 38 of the 80 BITs negotiated from 1959 to 1969 had Germany as a party. *Id.* at 267–69.
+
 [^65]: Convention on the Settlement of Investment Disputes Between States and Nationals of Other States, Mar. 18, 1965, 17 U.S.T. 1270, T.I.A.S. No. 6090, 575 U.N.T.S. 159. As of May 2005, 155 states had signed this treaty, 142 of which had completed the ratification process. For the list, see http://www.worldbank.org/icsid/constate/c-states-en.htm (last visited Oct. 3, 2005). The United States, after adopting the Convention, implemented its obligations through a statutory enactment enabling courts to enforce ICSID awards. Pub. L. 89–532, Aug. 11, 1966, 80 Stat. 344, *codified at* 22 U.S.C. §§1650, 1650a (2001). For U.S. practice regarding this obligation, see Karaha Bodas Co., L.L.C. v. Perusahaan Pertambangan Minyak Dan Gas Bumi Negara, 364 F.3 rd 274 (5 th Cir. 2004) (enforcing Swiss award against Indonesian state petroleum company); Maritime Intern. Nominees Establishment v. Republic of Guinea, 693 F.2nd 1094 (D.C. Cir. 1982) (agreement to submit disputes to ICSID arbitration does not constitute a waiver of sovereign immunity in a subsequent enforcement proceeding).
+
 [^66]: The first BIT that incorporated a reference to ICSID to permit independent investor claims was that between the Netherlands and Indonesia. Agreement on Economic Co-operation, July 7, 1968, Neth.-Indon., 799 U.N.T.S. 13 (terminated July 1, 1995). *See also* Rudolph Dolzer & Margrete Stevens, note 64 *supra*, at 130–56. The first British treaty to do so was Agreement for the Promotion and Protection of Investments, U.K.-Jordan, Oct. 10, 1979, 1203 U.N.T.S. 35. The first such treaty to which the United States was a party was Treaty Concerning the Reciprocal Encouragement and Protection of Investments, U.S.-Egypt, Sep. 29, 1982, Treat. Doc. 99–24.
 
 *[p. 137]* ^pg147
@@ -378,8 +417,11 @@ The collaboration of injured investors, ICSID arbitration tribunals, and complia
 The tribunals established by the various investment treaties, in particular those operating under the ICSID regime, do not constitute a permanent judicial
 
 [^67]: United States-Canada Free-Trade Agreement, Ch. 16, Jan. 2, 1988, H.R. Doc. 100–216 (1988), 27 I.L.M. 281 (1988).
+
 [^68]: North American Free Trade Agreement, Ch. 11, Dec. 17, 1992, H.R. Doc. 103 –159 (1993), 32 I.L.M. 605, 639 (1992).
+
 [^69]: David A. Gantz, *Potential Conflicts Between Investor Rights and Environmental Regulation Under NAFTA’s Chapter 11*, 33 Geo. Wash. Int’l L. Rev. 651, 665 –66 (2001).
+
 [^70]: Hemp Industries Ass’n v. Drug Enforcement Admin., 333 F.3 rd 1082 (9th Cir. 2003).
 
 *[p. 138]* ^pg148
@@ -391,6 +433,7 @@ In all other respects, investment dispute tribunals have significant formal enfo
 *ICANN Arbitration.* The Internet Corporation for Assigned Names and Numbers (ICANN) is a private nonprofit company incorporated under Virginia law that administers the domain-name system that undergirds the Internet. Computers recognize numeric addresses for particular locations on the Internet, but humans need verbal cues to remember numeric place names. Binding a domain name to a valuable trademark enhances the value of the domain name but also can harm the trademark. This basic problem has led to
 
 [^71]: Eric A. Posner & John C. Yoo, note 1 *supra*, at 21. *See also* Eric A. Posner, *Arbitration and the Harmonization of International Commercial Law – A Defense of* Mitsubishi, 39 Va. J. Int’l L. 647 (1999).
+
 [^72]: It seems plausible, for example, to model the incentives of arbiters as including general resume-burnishing to advance along a diversified set of international law career paths. Aberrant activity along one dimension, such as idiosyncratic arbitral decision making, might lead to greater opportunities in other areas, such as academia or politics.
 
 *[p. 139]* ^pg149
@@ -406,7 +449,9 @@ ICANN arbitration has a fairly small scope, but the rights it determines have co
 ICANN arbitration is simply an extreme manifestation of a general pattern in international commerce, namely the displacement of nationally administered law by international arbitration. Because ICANN administers a natural monopoly, its arbitration process has become a take-it-or-leave-it term in all domain-name registration contracts. But in many contexts commercial
 
 [^73]: For a general treatment, see Jack L. Goldsmith & Tim Wu, Who Controls the Internet? ch. 3 (2006).
+
 [^74]: On the ICANN dispute-resolution system, see http://www.icann.org/dndr/udrp/uniform-rules.htm (last visited July 6, 2005).
+
 [^75]: Anticybersquatting Consumer Protection Act (ACPA), Pub. L. No. 106–113, §3001 *et seq.*, 113 Stat. 1501 A-545 (codified in scattered sections of 15 U.S.C.). On the independence of judicial enforcement of this statute from ICANN dispute resolution, see Barcelona.com, Inc. v. Excelentisimo Ayuntamiento de Barcelona, 330 F.3rd 617 (4th Cir. 2003)(disregarding ICANN ruling and exonerating alleged cybersquatter).
 
 *[p. 140]* ^pg150
@@ -420,7 +465,9 @@ Many reasons exist for parties to contract out of national dispute resolution. I
 Complementing these private preferences to opt out of national dispute resolution is a willingness of national courts to cooperate with this choice. An international treaty, the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, undergirds this practice, although it does
 
 [^76]: For a summary of the debate, *see* Lex Mercatoria and Arbitration (Thomas E. Carbonneau ed. 1990).
+
 [^77]: For development of this point, *see* Robert E. Scott, *The Rise and Fall of Article 2*, 62 La. L. Rev. 1009 (2002). *See also* Saskia Sassen, Losing Control? Sovereignty in an Age of Globalization (1999) (describing international commercial arbitration as an instance of diminished national sovereignty).
+
 [^78]: Paul B. Stephan, *The Futility of Unification and Harmonization in International Commercial Law*, 39 Va. J. Int’l L. 743, 780–84 (1999).
 
 *[p. 141]* ^pg151
@@ -436,7 +483,9 @@ Because judicial enforcement of domestic law provides the template for formal en
 Some definition and description of this mechanism may be helpful. The capacity to enforce international rules depends primarily on the extent of the judiciary’s discretion to choose among legal sources for the rules that it will apply. At one extreme, this discretion may rest on a constitutional commitment, either explicit or implicit, that cannot be limited through normal lawmaking. The existence and scope of such commitments normally are controversial,
 
 [^79]: Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc, 473 U.S. 614 (1985) (upholding arbitrability of agreement between car manufacturer and dealer even though dealer asserted claim under antitrust laws).
+
 [^80]: 518 U.S. 528 (1995).
+
 [^81]: *See* David Joseph, Jurisdiction and Arbitration Agreements and their Enforcement 200–08
 
 *[p. 142]* ^pg152
@@ -448,6 +497,7 @@ These developments have spawned a vast literature, with which for the most part 
 On the other hand, prominent scholars have argued that judges have developed a sense of international solidarity that links them to their foreign counterparts and to some extent separates them from domestic politicians and officials. This solidarity explains why courts would expend domestic judicial
 
 [^82]: For the EU case, see Karen Alter, *The European Union’s Legal System and Domestic Policy: Spillover or Backlash?*, in Legalization and World Politics 105 (Judith Goldstein, Miles Kahler, Robert O. Keohane, & Anne-Marie Slaughter, eds. 2001); Paul B. Stephan, *Accountability and International Lawmaking: Rules, Rents and Legitimacy*, 17 Nw. J. Int’l L. & Bus. 681, 705 –06 (1996–97); J. H. H. Weiler, *The Transformation of Europe*, 100 Yale L.J. 2043 (1991). For the uses of international law in interpreting the Eighth Amendment, see Roper v. Simmons, 543 U.S. 551 (2005).
+
 [^83]: For a useful summary of the state of the debate in the United States, see *Agora: The United States Constitution and International Law*, 98 Am. J. Int’l L. 42 (2004).
 
 *[p. 143]* ^pg153
@@ -461,6 +511,7 @@ In one sense, *A. v. Secretary of State* rested on domestic law, namely the 1998
 Nor does the decision express a sense of transnational judicial solidarity. The court noted that there existed a body of fraternal jurisprudence regarding the standards for treating resident foreigners during an international emergency, namely decisions of the Supreme Court of the United States. But the House of Lords, while noting that these cases existed, felt no compunction to follow them or even use them as an interpretive tool for teasing out the meaning of the rather abstract terms of the Convention. The focus was clearly and specifically on the decisions of the ECtHR, what international lawyers would call *lex specialis* rather than any kind of general law.
 
 [^84]: The foremost proponent of this argument is Anne-Marie Slaughter. *See* Anne-Marie Slaughter, A New World Order (2004). For a reformulation of the claim and a critique, see Paul B. Stephan, *Process Values, International Law, and Justice*, 23 Social Phil. & Pol’y 131 (2006).
+
 [^85]: A. v. Secretary of State, \[2005 \] 2 W.L.R. 87 (H.L.).
 
 *[p. 144]* ^pg154
@@ -472,7 +523,9 @@ Like *A. v. Secretary of State*, *Sosa* has as its foreground the interpretation
 Consider finally what is easily the most controversial instance of international law enforcement by domestic courts, namely, constitutional incorporation. The use of international law as a means of elaborating on the meaning of the Constitution remains problematic in the United States and elsewhere, but two recent Supreme Court decisions deserve mention. *Rasul v. Bush*, one of the trilogy of
 
 [^86]: Judiciary Act, ch. 20, 9, 1 Stat. 73, 77 (1789), *subsequently codified at* 28 U.S.C. §1350 (2001).
+
 [^87]: One of us submitted a brief in the Supreme Court arguing for the federal-courts interpretation. Brief for Professors of International Law, Federal Jurisdiction and the Foreign Relations Law of the United States as *Amici Curiae* on Behalf of Petitioner, Sosa v. Alvarez-Machain, No. 03 -339 (Jan. 23, 2004) (Paul B. Stephan, counsel of record).
+
 [^88]: Sosa v. Alvarez-Machain, 542 U.S.692, 713, 720 (2004).
 
 *[p. 145]* ^pg155
@@ -484,9 +537,13 @@ of the Supreme Court held that the Eighth Amendment’s prohibition of cruel and
 It might appear that any exercise of constitutional interpretation, no matter how infused with international law, must represent an instance of domestic
 
 [^89]: Rasul v. Bush, 542 U.S. 466, 480 n. 15 (2004). The suggestion is subtle, resting as it does on a reference to Justice Kennedy’s concurring opinion in *United States v. Verdugo-Urquidez*, 494 U.S 259, 277–78 (1990), which in turn was speculative rather than definitive. At least one court has embraced the suggestion. In re Guantanamo Detainee Cases, 355 F. Supp. 2nd 443 (D.D.C. 2005). *Contra*, Khalid v. Bush, 355 F. Supp. 2nd 311 (D.D.C. 2005). For fuller discussion, *see* Paul B. Stephan, *Constitutional Limits on the Struggle Against International Terrorism: Revisiting the Rights of Overseas Aliens*, 19 Conn. L. Rev. 831 (1987).
+
 [^90]: For an article preceding *Rasul* that anticipated this move, *see* Rosa Ehrenreich Brooks, *War Everywhere: Rights, National Security Law, and the Law of Armed Conflict in the Age of Terror*, 153 U. Pa. L. Rev. 675 (2004).
+
 [^91]: On the historical and intellectual ties between, on the one hand, the overseas enforcement of the U.S. Constitution by courts on behalf of aliens and, on the other hand, the development of international human rights law, *see* Paul B. Stephan, *Courts, the Constitution, and Customary International Law –* *The Intellectual Origins of the Restatement (Third) of the Foreign Relations Law of the United States*, 43 Va. J. Int’l L. 33 (2003).
+
 [^92]: Roper v. Simmons, 543 U.S. 551 (2005).
+
 [^93]: *Id.* Kennedy also relied on the similar prohibition of the International Covenant on Civil and Political Rights, Dec. 19, 1966, 999 U. N. T. S. 171, and dismissed as irrelevant that the United States, in ratifying that instrument, expressly reserved its application to the juvenile death penalty and more generally had conditioned its accession to the Convention on its unenforceability within its domestic legal order.
 
 *[p. 146]* ^pg156

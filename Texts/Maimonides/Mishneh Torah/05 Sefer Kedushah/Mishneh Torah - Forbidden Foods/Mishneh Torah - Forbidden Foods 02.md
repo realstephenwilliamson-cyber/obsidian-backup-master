@@ -137,65 +137,115 @@ If, in addition to the above, it is one of the species which are brought into be
 **24.** When one crushed ants, added another complete ant to those that were crushed so that the entire quantity was equal to an olive-sized portion, and partook of it, he is liable for six [sets of] lashes: five [for partaking of] the one ant[^50] and an additional one, because he partook of an olive-sized portion of dead non-kosher animals.[^51] ^2-24
 
 [^1]: Similar verses are also stated in that passage with regard to fish, fowl, and locusts. Like verses are also stated in Leviticus, except that in Leviticus, there is no such commandment with regard to a kosher fowl. To include that as well, the Rambam refers to the passage in Deuteronomy.
+
 [^2]: I.e., it does not have the severity of a negative commandment. Hence its violation is not punishable by lashes.  
     The Rambam is explaining that the Torah is not commanding us to eat kosher species, for there is no obligation to partake of them. Instead, it is commanding us to take precautions - through checking distinguishing signs - against partaking of non-kosher ones. See *Sefer HaMitzvot* (General Principle 6) where the Rambam elaborates in the explanation of the concept of a prohibition derived from a positive commandment. See also Chapter 1, Halachah 1, and notes which deals with this issue.
+
 [^3]: Here the Rambam cites the verses from Leviticus - although like verses also appear in Deuteronomy - for Leviticus comes first in the Torah.
+
 [^4]: The commentaries have raised a question concerning the Rambam's statements. There is a general principle (*Pesachim* [[Pesachim 24#24a|24a]], *et al*): "We do not issue a warning on the basis of logical deduction." Implied is that a person is not given lashes when a prohibition is not explicitly mentioned in the Torah, but instead derived through logic. Why then, these commentaries ask, are lashes given for partaking of non-kosher species other than the four mentioned specifically by the Torah?  
     The Rambam offers a resolution to this question in his *Sefer HaMitzvot* (negative commandment 172). There he explains that in this instance, we are not deriving the prohibition on the basis of logic, for it is already stated in the positive commandment. We are using logic only to derive that this prohibition is also included in the negative commandment.
+
 [^5]: Approximately, an ounce in contemporary measure.
+
 [^6]: Such a distinction is made with regard to the meat and fat of kosher animals. With regard to non-kosher animals, by contrast, the two are included in the same category and the same prohibition applies to both of them.
+
 [^7]: For the prohibition mentions the animal's hoofs.
+
 [^8]: The Ra'avad and the Rashba differ with the Rambam's ruling, maintaining that there is no prohibition at all against partaking of meat from a human. The Rama (*Yoreh De'ah* 79:1) follows the Rambam's ruling.  
     The *Maggid Mishneh* explains the Rambam's position, noting that - as stated in Chapter 3, Halachah 2, and in Chapter 6, Halachot 1-2 - there is no Scriptural prohibition against partaking of milk and blood from a human. Now these leniencies are derived from the exegesis of verses from the Torah. Were the meat of a human not to be forbidden, why would it be necessary to teach that his milk and blood are permitted? Who would have thought otherwise?
+
 [^9]: *Sefer HaMitzvot* (negative commandment 172, 173, 174) and *Sefer HaChinuch* (mitzvot 154, 156, 157) include these among the 613 mitzvot of the Torah.
+
 [^10]: I.e., there is no separate commandment not to partake of a non-kosher locust. Instead, this is included in the general prohibition against partaking of non-kosher teeming animals. The *Lechem Mishneh* and others note that, in contrast, to the previous halachot, the Rambam does not mention the fact that there is a prohibition against partaking of locusts that results from the positive commandment to partake of them.
+
 [^11]: Or an entire teeming animal even if it is smaller than an olive; see Halachah 21.
+
 [^12]: *Sefer HaMitzvot* (negative commandment 175) and *Sefer HaChinuch* (mitzvah 471) include this as one of the 613 mitzvot of the Torah.  
     As explained in the halachot that follow and summarized in Halachah 23, there are five prohibitions in the Torah that refer to teeming animals. The categories are not mutually exclusive and it is possible that one particular creature may be included in several - or all - of these categories.
+
 [^13]: *Sefer HaMitzvot* (negative commandment 176) and *Sefer HaChinuch* (mitzvah 162) include this as one of the 613 mitzvot of the Torah.
+
 [^14]: [[Torah 26 - Shmini#^11-29|Leviticus 11:29-30]]. The translation of the names of these eight species is a matter of debate among both Torah commentaries and zoologists. Our translation is taken from Rabbi Aryeh Kaplan's Living Torah. Consult the notes there for a detailed discussion of the matter.  
     The Torah singles these teeming animals out from others and states that they convey ritual purity. It does not mention anything about them with regard to the prohibition against partaking of their flesh. Nevertheless, since this quantity of their flesh is significant in another halachic context, it is also considered significant with regard to this prohibition (*Meilah* [[Meilah 16#16b|16b]]). This explains why the minimum measure for which they are liable is less than that associated with other prohibitions.
+
 [^15]: For their flesh only conveys ritual impurity after they have died.
+
 [^16]: *Hilchot Shaar Avot HaTumah* 4:3 states that there is no minimum measure with regard to the limbs of a teeming animal within the context of ritual impurity. A person who touches an entire limb of a such an animal after its death becomes impure even if the limb is smaller than the size of a lentil. Nevertheless, we do not rule that one is liable if he eats such a limb.  
     *Meilah, loc. cit.*, explains that although the limbs of other animals also convey ritual impurity no matter what their size, one is not liable unless he partakes of an olive-sized portion. Hence, there is no reason to extend the stringency that applies with regard to these teeming animals any further.
+
 [^17]: If not, one is not liable until he partakes of an olive-sized portion, as stated in the following halachah.
+
 [^18]: Which is not one of the teeming animals explicitly mentioned by the Torah.
+
 [^19]: In contrast to the blood of the eight teeming animals that were singled out by the Torah.
+
 [^20]: The *Maggid Mishneh* (in his gloss to Halachah 9) states that this applies even to the eight teeming animals mentioned explicitly in the Torah. Once their blood is separated from their bodies, the minimum measure is the same as that of other species.
+
 [^21]: As stated in Chapter 6, Halachah 1.
+
 [^22]: That for some one is liable for an olive-sized portion and for others, for a lentil-sized portion.
+
 [^23]: *Sefer HaMitzvot* (negative commandment 179) and *Sefer HaChinuch* (mitzvah 164) include this as one of the 613 mitzvot of the Torah. As obvious from the Rambam's words here and as explained in greater length in *Sefer HaMitzvot*, this is not a specific commandment relating to aquatic teeming creatures, but a general commandment relating to all teeming animals. Accordingly, when a person partakes of a teeming animal of the land or a flying teeming animal, he is liable for two transgressions.  
     The Ramban (*Hasagot* to *Sefer HaMitzvot*, General Principle 9) and the *Maggid Mishneh* differ with the Rambam and maintain that this is not considered as a separate mitzvah.
+
 [^24]: See Halachot 18-19.
+
 [^25]: The Rambam is stating - based on Midrashic and Talmudic sources - that there are creatures which spontaneously regenerate. It is not our place to defend these concepts against the findings of science. It must, however, be said that many Rabbinical leaders who are aware of the work of Pasteur and others did not doubt the teachings of the Torah and accepted these laws.
+
 [^26]: *Sefer HaMitzvot* (negative commandment 177) and *Sefer HaChinuch* (mitzvah 165) include this as one of the 613 mitzvot of the Torah.
+
 [^27]: See Halachot 18-19.
+
 [^28]: The Rambam's wording is borrowed from the prooftext cited. Even if these crawling animals do not reach the earth, but merely appear on the surface of the fruit, they become forbidden., as stated in *Sefer HaMitzvot* (negative commandment 178). Note, however, Halachah 16.
+
 [^29]: *Sefer HaMitzvot* (negative commandment 178) and *Sefer HaChinuch* (mitzvah 163) include this as one of the 613 mitzvot of the Torah.
+
 [^30]: Or removed from its tree.
+
 [^31]: This is a halachic issue that is given much attention today. We find certain Jewish groups who have taken it upon themselves to grow vegetables without any exposure to insects. There is a heightened consciousness with regard to the need to check and many books and tools have been produced with this purpose in mind. It must be emphasized, however, that although there are no vegetables that are absolutely insect and larvae free, the common halachic approach is not to show concern for any insects and/or larvae that are not visible to the naked eye. Conversely, we assume that all insects we discover came from male-female relationships or came into being while the fruit was connected to its source and do not permit any because they might have come from the fruit itself after it was detached.
+
 [^32]: I.e., an external search is not sufficient and one must cut the fruit or vegetable open and search from the inside.
+
 [^33]: Since a crawling animal will not live for more than twelve months inside produce and the produce has been detached for more than twelve months, it follows that the animal came into being from the produce itself and thus the produce and the animal can be eaten together.  
     Nevertheless, the *Shulchan Aruch* (*Yoreh De'ah* 84:8) states that the produce should be checked lest there be crawling animals that have left the produce. One of the ways to select grains, legumes, and the like is to soak them first. Any ones with holes will float to the top. They should be discarded, lest they be worm-ridden.
+
 [^34]: Provided they have not departed from the fish itself (*Maggid Mishneh*).  
     The *Maggid Mishneh* explains the Rambam's approach as follows: All worms that are found in both meat and fish while the animals are alive are forbidden, for we assume that they entered from the outside. Even after a fish dies, we can assume that the worms in its stomach were swallowed when it was alive. Similarly, those in an animal's brain can be assumed to have entered its nose from the outside and are hence, forbidden. Those found in the body of a fish are considered to have been spontaneously generated are hence permitted. Those found in the meat of an animal are not permitted. The rationale is that anything that comes from an animal is permitted to be eaten only after it has been slaughtered according to law. Even though the animal itself was slaughtered, since that slaughter preceded the existence of the worms, they are not permitted.  
     The Ra'avad and many other *Rishonim* differ with the Rambam's understanding and permit worms that came into being in meat from animals that were ritually slaughtered, e.g., in meat that was salted to be used at a later time. The *Shulchan Aruch* (*Yoreh De'ah* 84:16) quotes both views, but appears to favor the more lenient one. The Rama states that it is customary to follow the more lenient view. In practice, in the present age, this problem is far less prevalent, for because of refrigeration and freezing, it is less likely for worms to exist in meat.
+
 [^35]: Or other beverages (*Siftei Cohen* 84:1). This is evident from Halachot 19-20.
+
 [^36]: I.e., water that is stored in storage compartments dug into - or naturally found within - the earth.  
     The *Maggid Mishneh* states that irrigation ditches and breeding ponds which water flows through are not included in this category, because - in contrast to water found in containers - the water in them does not stand still. The *Shulchan Aruch* (*Yoreh De'ah* 84:1) quotes a difference of opinion on this issue.
+
 [^37]: Commenting on the citation of this ruling by the *Shulchan Aruch* (*Yoreh De'ah* 84:2), the Rama states that if one finds worms in a bucket of water drawn from such bodies, the worms are forbidden, because we fear that the worms came from the bucket and not from the water.
+
 [^38]: Or other beverages (*Siftei Cohen* 84:1). This is evident from Halachot 19-20.
+
 [^39]: For the walls are still considered as "the place where the teeming animals came into existence."
+
 [^40]: If the insect has the characteristics of both the prohibited species, as stated in Halachah 23.
+
 [^41]: Halachah 18. I.e., he need not worry that perhaps they became separated (*Maggid Mishneh*).
+
 [^42]: For the portions of forbidden insects to be combined, they need not be of the same species. They must, however, be included in the same prohibition. See Chapter 4, Halachah 17.
+
 [^43]: This is a general principle applying in many contexts in the laws of kashrut. The creature must, however, be visible to the naked eye.
+
 [^44]: If, however, it has decayed to the extent that it is no longer fit for human consumption, one is not liable, as stated in Chapter 14, Halachah 11.
+
 [^45]: For it is no longer considered as a complete creation.
+
 [^46]: This phrase refers to the previous halachah.
+
 [^47]: The Rambam's statements are based on *Makkot* [[Makkot 16#16b|16b]]: "If one eats a *potisa*, one is liable for four [sets of] lashes, an ant, five [sets of] lashes." As he explains in *Sefer HaMitzvot* (negative commandment 179), the intent is not that one is liable for additional sets of lashes because several prohibitions are stated with regard to a particular creature. Instead, the intent is that if one creature falls into several forbidden categories, one is liable for a set of lashes for every forbidden category. See *Maggid Mishneh*.  
     It must be emphasized that the Ra'avad, Rav Moshe HaCohen, the Ramban, and other *Rishonim* do not accept the Rambam's interpretation and instead, maintain that the prohibitions mentioned in *Makkot, loc. cit.*, refer to the repetition of prohibitions concerning a single creature.
+
 [^48]: I.e., although this particular creature was spontaneously generated, it was brought into being in a manner that it could reproduce and bear offspring.
+
 [^49]: In *Sefer HaMitzvot* (*loc. cit.*), the Rambam is sensitive to the question that might arise and states: "Do not wonder how it is possible for a fowl to come into being from the decay of fruits, for we have seen this take place frequently." In that source, he also explains that it is possible for a single creature to have the characteristics of a non-kosher fowl and a flying teeming animal.
+
 [^50]: As stated in the previous halachah.
+
 [^51]: The Rambam is not referring to the prohibition against partaking of an animal that is not ritually slaughtered. For that prohibition applies only with regard to kosher animals, as stated in Chapter 4, Halachah 2. For this reason, the *Maggid Mishneh* (in his gloss to that halachah) raises questions with the Rambam's statement here. The *Kessef Mishneh* and others attempt to offer resolutions.

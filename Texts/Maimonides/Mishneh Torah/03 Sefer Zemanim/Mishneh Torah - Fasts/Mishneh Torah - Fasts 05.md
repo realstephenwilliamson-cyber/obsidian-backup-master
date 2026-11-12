@@ -170,168 +170,301 @@ From which point is one obligated to rend one's garments? From Tzofim.[^119] Aft
 **19.** All these [commemorative] fasts will be nullified in the Messianic era[^127] and, indeed ultimately, they will be transformed[^128] into holidays and days of rejoicing and celebration,[^129] as \[[[Zechariah 08#^8-19|Zechariah 8:19]]] states: "Thus declares the Lord of Hosts, 'The fast of the fourth [month],[^130] the fast of the fifth [month],[^131] the fast of the seventh [month],[^132] and the fast of the tenth [month][^133] will be [times of] happiness and celebration and festivals for the House of Judah. And they shall love truth and peace.'[^134] ^5-19
 
 [^1]: All healthy adult men and women
+
 [^2]: It appears that the Rambam considers these fasts to be obligatory in the present era. Based on his interpretation of *Rosh HaShanah* [[Rosh Hashanah 18#18b|18b]] in his Commentary on the Mishnah, *Rosh HaShanah* 1:3, the Rambam explains that in the era of the Second Temple, these fasts were of an optional nature. After the destruction of the Temple, however, every Jew is required to observe them. This obligation is also explicitly stated by the *Shulchan Aruch* (*Orach Chayim* 549:1, 550:1).
+
 [^3]: Here, the Rambam employs the same principle he developed at the beginning of this text regarding fasts instituted because of difficulties of an immediate nature, with regard to these fasts which were instituted for these national calamities.  
     Fasting in and of itself is not a purpose. Fasting can, however, serve
+
 [^4]: This is the intent of the fasts, and not merely refraining from eating. For this reason, the *Kitzur Shulchan Aruch* 121:1 harshly reproves those who fast, but spend their days taking pleasure strolls and being involved in other forms of leisure activity.
+
 [^5]: Although these tragedies took place in previous generations, we share the responsibility for them. The Jerusalem Talmud (*Yoma* 1:1) states, "Every generation in which the Temple is not rebuilt should consider it as if it was destroyed in its days."
+
 [^6]: The word נשוב, translated as "we will repent," literally means, "We will return." *Teshuvah* involves a return to one's fundamental self, becoming aware of the fundamental Divine nature one possesses.  
     Such a process relates to these commemorative fasts, which on the surface are associated with undesirable elements, but possess a positive core, as reflected in the Rambam's statements at the conclusion of this chapter that in the era of the Redemption, all these fast days will be transformed into days of rejoicing and celebration.
+
 [^7]: See *Hilchot Teshuvah* 1:1-2, 2:2, where the Rambam associates the mitzvah of teshuvah with confession.
+
 [^8]: The Rambam lists these fasts, not in the order in which the events which they commemorate transpired, nor according to the order in which they are mentioned in [[Zechariah 08#^8-19|Zechariah 8:19]] (see Halachah 4), but rather in the order of the year, beginning from the month of Tishrei.
+
 [^9]: The governor appointed by Nebuchadnezzar to supervise the land of Judah. The Jews who were not exiled rallied around him, and it appeared that there would be hope of maintaining a Jewish settlement in the land (Jeremiah, Chapters 40-41).
+
 [^10]: According to the Radak ([[Jeremiah 41#^41-1|Jeremiah 41:1]] , Gedaliah was slain on Rosh HaShanah. Because a fast could not be held on that sacred day, the commemoration of his murder was postponed until the first available weekday.
+
 [^11]: After Gedaliah's murder, the Jews remaining in *Eretz Yisrael* feared the wrath of the Babylonians and fled to Egypt, leaving *Eretz Yisrael* devoid of Jewish leadership and possessing very few Jewish inhabitants. (See Jeremiah, Chapters 41-43.)
+
 [^12]: The Hebrew term סמך, which the Rambam [and the prophet [[Ezekiel 24#^24-2|Ezekiel 24:2]] ] employ, usually has a positive connotation, meaning "support." Perhaps this is also an allusion to the concept that ultimately these commemorative fasts have a positive intent, as mentioned at the conclusion of the chapter.
+
 [^13]: Our commemoration of this fast also marks two other undesirable events which occurred in the preceding days: the death of Ezra, the scribe, and the translation of the Torah into Greek at the demand of King Ptolemy (*Shulchan Aruch, Orach Chayim* 580).
+
 [^14]: *Ta'anit* [[Taanit 29#29a|29a]] states: Undesirable events are gathered together on a day appropriate for them. The spiritual nature of the day is such, that the potential for such tragedies to occur is greater.
+
 [^15]: When Moses descended with the Tablets of the Ten Commandments after being on Mount Sinai for forty days, he beheld the Golden Calf that the Jews had made. In wrath, or out of his concern for the Jewish people (see Rashi, [[Torah 21 - Ki Tisa#^32-19|Exodus 32:19]] , Moses broke the Tablets.
+
 [^16]: The *korban tamid* ([[Torah 41 - Pinchas#^28-1|Numbers 28:1-8]])
+
 [^17]: Even during the siege of Jerusalem, the Jews would offer the daily sacrifices. Despite the famine in the city, they would offer two lambs each day as sacrifices. As the siege persisted, their supply of lambs dwindled, and on the Seventeenth of Tammuz, there no longer were any lambs to sacrifice (Rav Ovadiah of Bertinoro, *Ta'anit* 4:6).  
     Significantly, other commentaries (Rashi, *Tiferet Yisrael*) on the Mishnah identify the nullification of the sacrifices on the Seventeenth of Tammuz with different events in our history.
+
 [^18]: [[Jeremiah 39#^39-2|Jeremiah 39:2]] states that in the destruction of the First Temple, Jerusalem's walls fell to the Babylonian conquerors on the ninth of Tammuz. Nevertheless, it is the destruction of the city by the Romans that we commemorate by fasting, because the effects of that destruction are more severe (*Shulchan Aruch, Orach Chayim* 549:2). The Rabbis did not institute a fast for the Ninth of Tammuz as well, for it was felt that this would be an excessive burden for the people (*Mishnah Berurah* 549:4).  
     Furthermore, according to the Jerusalem Talmud, *Ta'anit* 4:8, because of the many difficulties suffered by the Jewish people, they miscalculated the date, and, even during the destruction of the First Temple, it was on the Seventeenth of Tammuz that Jerusalem's walls were breached.
+
 [^19]: a Greek official in the Second Temple era (Rav Ovadiah of Bertinoro)
+
 [^20]: The Meiri identifies this as the Torah scroll written by Ezra the Scribe. This scroll was kept in the Temple Courtyard and was used to check the precision of the other scrolls. In this manner, he attempted to undermine the entire Torah tradition.
+
 [^21]: Apostmos
+
 [^22]: Others interpret this as a reference to the idol erected by King Menasheh in the First Temple. (See the Jerusalem Talmud, *Ta'anit* 4:6.)
+
 [^23]: Here, also, we see the reflection of the concept mentioned above, that undesirable events are gathered together on a day appropriate for them.
+
 [^24]: The spies sent by Moses returned to him on the eighth of Av, bearing a malicious report about *Eretz Yisrael*. That night the Jewish people wept, fearful about their future. God told them, "Tonight, you have wept without reason. I will designate this night as a night of weeping for generations" (*Ta'anit* [[Taanit 29#29a|29a]]).
+
 [^25]: *Ta'anit* [[Taanit 29#29a|29a]] reconciles a seeming contradiction in chronology between [[II Kings 25#^25-8|II Kings 25:8-9]] and [[Jeremiah 52#^52-12|Jeremiah 52:12-13]], explaining that the Babylonians first entered the Temple on the seventh of Av. They reveled and wrought havoc there until the afternoon of the ninth of Av, when they set fire to the building. The fire continued burning throughout the tenth of Av.  
     The Sages (*ibid.*) do not cite a specific source for the tradition that the Second Temple was also destroyed on that day. Nevertheless, the tradition is universally accepted.
+
 [^26]: This was Bar Kochba's capital in his war against the Romans, 52 years after the destruction of the Temple.
+
 [^27]: See the Rambam's comments concerning Bar Kochva, *Hilchot Melachim* 11:3.
+
 [^28]: The extent of the carnage that accompanied Betar's fall was awesome. *Gittin* [[Gittin 57#57a|57a]] states that rivers of blood flowed into the Mediterranean Sea, forty miles away.
+
 [^29]: a Roman officer
+
 [^30]: According to *Ta'anit* [[Taanit 29#29a|29a]], this took place while Rabban Gamliel was living, shortly after the destruction of the Temple.
+
 [^31]: The citation of this prophecy communicates a fundamental point: that the destruction of Jerusalem was not an end in its own right. Just as a field is plowed to produce crops, Jerusalem was plowed to allow the city to blossom into its ultimate fulfillment in the era of the Redemption.
+
 [^32]: In this verse and in the Rambam's reference to it, the months are counted from Nisan onward.
+
 [^33]: Zechariah lived after the destruction of the First Temple and is referring to the fasts instituted because of its destruction. Accordingly, the fast of Tammuz in his time was the on ninth of the month, as mentioned above. The Rambam mentions it as referring to the seventeenth, because this is when the fast of the breaching of the city's walls is observed at present.
+
 [^34]: Note the positive references to this prophecy at the conclusion of the chapter.
+
 [^35]: The *Maggid Mishneh* interprets this phrase to mean that our obligation to fast on these days is a custom accepted by the Jewish people after the destruction of the Second Temple. As mentioned above, others interpret this obligation as stemming from the exegesis of the verse from Zechariah mentioned in the previous halachah, as found in *Rosh HaShanah* [[Rosh Hashanah 18#18b|18b]].  
     Our translation follows the standard published texts of the *Mishneh Torah*. Many authoritative manuscripts make a small change in the wording, which would cause the lines to be rendered as: "And in these times, the entire Jewish people follow the custom of fasting on the Thirteenth of Adar."
+
 [^36]: The Rabbis question precisely which fasts are being commemorated. Some maintain that since the Thirteenth of Adar was a day of battle on which the Jews waged war against their enemies, they fasted at that time to arouse Divine mercy (*Maggid Mishneh*). Others maintain that it is improper to fast in a time of war, lest this sap one's strength, and instead the Jews merely vowed to fast, but conducted the actual fasts at a later time.  
     A third opinion maintains that this refers to the three-day fast that Esther called before approaching Achashverosh. Although this fast was held in the month of Nisan, it is commemorated in connection with the Purim holiday.
+
 [^37]: The *Kitzur Shulchan Aruch* 141:2 writes that the commemoration of this fast makes us conscious of how God "hears each person's prayer in his time of distress when he fasts and repents... as He did on behalf of our ancestors in those days."  
     The fast of the Thirteenth of Adar is also referred to as *Ta'anit Esther*, "the fast of Esther."  
     When the fast of Esther became a formal part of Jewish observance is a matter of question. It is not mentioned in the Talmud. Furthermore, *Megillat Ta'anit*, a text which mentions all the fasts and festivals observed in the Talmudic era, does not mention this fast and speaks of the thirteenth of Adar, the day on which the fast of Esther is observed, as a day of celebration, the Day of Nicanor, marking the defeat of the Greek general of that name in the Hasmonean wars. It was not until after the destruction of the Temple that the observance of the dates mentioned in *Megillat Ta'anit* was nullified. This would appear to indicate that the observance of the Fast of Esther was of later origin.  
     In contrast, there is evidence pointing to the establishment of the Fast of Esther early in the Talmudic period. The *Sheiltot* of Rav Achai Gaon, *Parshat Vayakhel* 67, speak of the observance of the Fast of Esther in the time of the Mishnah. Even if this teaching is not accepted as historical fact, we can glean from it that in Rav Achai's time, shortly after the conclusion of the Talmud, the fast was already a long-standing custom.  
     Significantly, because of the difference in status between it and the other commemorative fasts, the Ramah (*Orach Chayim* 686:2) rules far more leniently in regard to this fast than in regard to the others.
+
 [^38]: It is not postponed until after the Sabbath, because Purim is Sunday and the celebration of Purim cannot be postponed. Nor is it appropriate to hold this fast after Purim.
+
 [^39]: As the Rambam mentions, if the date of a commemorative fast falls on Friday, the fast is held on that day. Nevertheless, it is improper for a fast that is not scheduled for such a day to be held then, since this is not proper reverence for the Sabbath (*Maggid Mishneh*).
+
 [^40]: *Megillah* [[Megillah 5#5a|5a]] states that the rationale is "we do not bring close [the recollection of] Divine retribution."
+
 [^41]: According to the fixed calendar we follow at present, this is a rare occurrence. Only the Tenth of Tevet (in the northern hemisphere a relatively short fast) can fall on Friday. Even this does not happen frequently.
+
 [^42]: These measures are taken only in times of current distress.
+
 [^43]: beginning [[Torah 21 - Ki Tisa#^32-11|Exodus 32:11]].
+
 [^44]: See *Hilchot Tefillah* 13:18. As mentioned there, on Tish'ah B'Av a different passage (beginning [[Torah 45 - Vaetchanan#^4-25|Deuteronomy 4:25]] is read in the morning. Significantly, the Rambam does not mention the custom of reciting the *haftarah* in the afternoon service.
+
 [^45]: Similarly, on these days, work, wearing shoes, washing, anointing oneself, and sexual relations are permitted (*Shulchan Aruch, Orach Chayim* 550:2).
+
 [^46]: Significantly, the Rambam does not mention any restrictions from the period beginning the Seventeenth of Tammuz. During this period, it is the Askenazic custom (see Ramah, *Orach Chayim* 551:2,4; *Kitzur Shulchan Aruch* 122:1-3) to observe certain restrictions - e.g., prohibitions against marrying, against reciting the blessing *Shehecheyanu*, and against cutting one's hair. From the beginning of Av, however, other restrictions are also added.
+
 [^47]: The *Tur* and the *Shulchan Aruch* (*Orach Chayim* 551:1-2) state that the restrictions mentioned by the Rambam in Chapter 3, Halachah 8, are applicable during this period.
+
 [^48]: from the Sabbath before the fast onward.  
     According to Ashkenazic custom, all the activities mentioned by the Rambam are forbidden from Rosh Chodesh Av onward.
+
 [^49]: or to shave, even in a manner permitted by halachic authorities (*Kitzur Shulchan Aruch* 122:3)
+
 [^50]: it is customary to observe this prohibition even if one does not intend to wear the garment until after the fast (*Shulchan Aruch, Orach Chayim* 551:3).
+
 [^51]: We have used a modern translation for the Hebrew term גהוץ. In Talmudic times, it referred to smoothing out the creases of a garment with a flat stone (*Aruch*).  
     The *Shulchan Aruch* (*Orach Chayim* 551:3) also prohibits wearing clothes that are merely laundered, even if they have not been pressed. There are halachic authorities who will grant leniencies in this context with regard to underwear and the like.
+
 [^52]: Linen garments will not appear as distinguished after washing as those of other fabrics (*Beit Yosef, Orach Chayim* 551).
+
 [^53]: As mentioned in the *Shulchan Aruch* (*Orach Chayim* 558:1) and commentaries, these and the following restrictions should be followed for a certain amount of time on the Tenth of Av, as well, to commemorate the fact that the Temple continued burning on that day as well.  
     According to the Ashkenazic custom, in which these practices are observed from Rosh Chodesh onward, there are certain leniencies, depending on one's community, with regard to wearing laundered and pressed clothes on the Sabbath before Tish'ah B'Av.
+
 [^54]: or fowl. *Bava Batra* [[Bava Batra 60#60b|60b]] states that it would have been proper for the Jews to refrain from eating meat and drinking wine at all times in mourning over the loss of the opportunity to partake of the sacrificial meat and the loss of the wine libations. The Sages felt, however, that such a decree would be too stringent for the people to observe and hence, did not institute it.
+
 [^55]: The prohibition applies only to washing for pleasure. Needless to say, washing associated with a mitzvah - e.g., a woman in preparation for her ritual immersion or washing necessary for hygienic purposes - is permitted.
+
 [^56]: This custom has not been accepted throughout the Jewish community. Today, animals are slaughtered so that those who do not observe the restriction against eating meat will at least eat kosher meat, and so that meat will be available for others after the fast.
+
 [^57]: mentioned in Halachot 10 and 11
+
 [^58]: Similarly, if one resolved to accept the fast beforehand, one may no longer eat (Rambam's Commentary on the Mishnah, *Ta'anit* 4:6). The Ramah (*Orach Chayim* 553:1) states that only when one makes a verbal statement to this effect is the resolution binding.
+
 [^59]: *Shabbat* [[Shabbat 34#34b|34b]] explains that the Sages were undecided whether this period of time, known as *beyn hash'mashot*, should be considered to be part of the night or the day. Hence, it is necessary to be stringent both at the entry and the departure of a day associated with halachic restrictions.
+
 [^60]: In his Commentary on the Mishnah, *loc. cit.*, the Rambam writes that, as on Yom Kippur, we are obligated to include a certain portion of the previous day in all the restrictions observed on that day.  
     Significantly, some of the foremost commentators on the *Mishneh Torah* (the *Maggid Mishneh* and the Radbaz) either were not aware of this statement or maintained that the Rambam changed his mind on this issue, for they ruled that no such obligation applies in connection with Tish'ah B'Av. Their opinion is accepted as halachah at present (*Mishnah Berurah* 553:3).
+
 [^61]: the *seudah hamafseket*. Even a person who does not observe the custom of refraining from these foods during the week of Tish'ah B'Av (or the Nine Days according to Ashkenazic custom), should refrain from partaking of them in this meal. This meal should be characterized by mourning and sadness, and these foods bring happiness.  
     The *Shulchan Aruch* (*Orach Chayim* 554:25) associates [[Ezekiel 32#^32-27|Ezekiel 32:27]]: "And their sins will be upon their bones" with eating meat and drinking wine at this meal.
+
 [^62]: For it has no alcoholic content, and will not lead to happiness.
+
 [^63]: The prohibition against eating meat was derived from the fact that with the Temple's destruction, the sacrifices were nullified. Since no sacrificial meat could be eaten on the third day and afterwards, this restriction does not apply to such meat (*Mishnah Berurah* 552:5).  
     It must be emphasized that the *Shulchan Aruch* (*Orach Chayim* 552:2) and the later authorities explain that, at present, it is customary to refrain from partaking of even these foods at this meal.
+
 [^64]: This restriction was instituted because when two or more dishes are served, a meal is considered important, and partaking of such a meal is inappropriate at this time (Rabbenu Asher).  
     The *Shulchan Aruch* (*Orach Chayim* 552:3-5) discusses in detail what is excluded by the phrase "two cooked dishes."
+
 [^65]: need to observe the restrictions mentioned
+
 [^66]: The governing principle for this and the previous and following halachot is that unlike the meal before the fast on Yom Kippur, the meal before the fast of Tish'ah B'Av is somber in nature. The atmosphere of mourning that prevails throughout the fast has already begun, and therefore, eating a normal meal should be out of the question.
+
 [^67]: For then, one is still far removed from the fast itself.
+
 [^68]: the obligation to honor the Sabbath surpasses the need to commemorate the destruction of the Temple. Therefore,
+
 [^69]: There are some authorities (*Hagahot Maimoniot*) who recommend observing certain practices associated with mourning at the third Sabbath meal. Their opinions are not, however, accepted as halachah.  
     There is, however, one aspect in which this third Sabbath meal differs from the way this meal is eaten throughout the year. Generally, we are allowed to continue this meal into the night. When the fast of Tish'ah B'Av begins on Sunday, however, we must cease eating at sunset. (See Ramah, *Orach Chayim* 552:10.)
+
 [^70]: since the observance of the fast is postponed, there is no need to minimize one's Sabbath joy, and
+
 [^71]: Significantly, the Rambam does not mention any mourning rites in connection with such a day. In contrast, the decisions of the Ramah (*Orach Chayim* 554:19) reflect the following principles. All expressions of mourning that would be noticed by the public should be forbidden. Those practices of mourning which are private in nature - e.g., the prohibition of sexual relations - should be observed.
+
 [^72]: *Ta'anit* [[Taanit 30#30a|30a]],b describes Rabbi Yehudah bar Ilai as eating this meal in this fashion.
+
 [^73]: At present, our custom is to eat a filling meal in the late afternoon. Afterwards, shortly before the fast, one eats a slight meal with bread and eggs dipped in ashes. Nevertheless, anyone who feels able to endure the fast when eating less is encouraged to do so. Three people should not sit together, so as not to become obligated in a *zimun*. (See Ramah, *Orach Chayim* 552:9; *Kitzur Shulchan Aruch* 123:3.)
+
 [^74]: although absolved from fasting on the other commemorative fasts
+
 [^75]: Needless to say, they or any other person who feels that fasting will threaten their health may eat and drink. (See Ramah, *Orach Chayim* 554:6.)
+
 [^76]: for the sake of pleasure. One may, however, wash one's hands to remove filth or for ritual purposes. (See the *Shulchan Aruch* and commentaries, *Orach Chayim* 544:9-10.)
+
 [^77]: without any valid reason. One may, however, pass through water to greet one's teacher or to watch one's crops (*ibid.*:12-13). Similarly, a woman is allowed to wash food that she will serve children, even though her hands also become wet (*Mishnah Berurah* 554:19).  
     The Rambam does not elaborate on these leniencies here, because he has already mentioned them at length with regard to Yom Kippur in *Hilchot Sh'vitat Asor* 3:1-7.
+
 [^78]: in contrast to anointment for hygienic or medicinal reasons
+
 [^79]: leather
+
 [^80]: is forbidden. One may, however, wear shoes made from other materials. Even leather shoes are permitted in certain instances. (See *Shulchan Aruch*, *Orach Chayim* 554:17.)
+
 [^81]: See *Mishnah Berurah* 554:37, where the question is raised whether one may touch one's wife or not.
+
 [^82]: With this phrase, the Rambam refers the reader to his discussion of these prohibitions and the leniencies that may be granted in *Hilchot Sh'vitat Asor*.
+
 [^83]: The word "work" in this context does not refer to the thirty-nine labors prohibited on the Sabbath, but rather to concentrated activity that would distract one's attention from mourning (*Mishnah Berurah* 554:43).
+
 [^84]: If, however, a person desires to refrain from working because of the unique nature of the day, he may.
+
 [^85]: The *Mishnah Berurah* 554:45 states that this is the custom in the Ashkenazic community at present.
+
 [^86]: For they should set examples to the people at large. Note the Rambam's Commentary on the Mishnah, *Ta'anit* 4:6, where he writes that "Performing work on this day is very disgraceful."
+
 [^87]: *Ta'anit* [[Taanit 30#30b|30b]]
+
 [^88]: Rashi and *Tosafot* interpret this as referring to the work performed on Tish'ah B'Av itself. This interpretation is quoted in the *Shulchan Aruch* (*Orach Chayim* 554:24).
+
 [^89]: Indeed, this applies also the people as a whole. Torah scholars are mentioned because they are expected to be more sensitive to the tragedy of our loss on Tish'ah B'Av.  
     The Rambam's choice of wording is based on his interpretation of the *Tosefta, Ta'anit* 3:11, "*Chaverim* should not exchange greetings on Tish'ah B'Av," for the term *chaverim* is often used as a reference to Torah scholars. The *Shulchan Aruch* (*Orach Chayim* 554:20), however, interprets *chaverim* in its literal sense, that it means "friends."
+
 [^90]: Nor should gifts or other social amenities be exchanged (*Mishnah Berurah* 554:41).
+
 [^91]: Nothing should be done to distract one's attention from the loss.  
     With the above expression, the Rambam also explains the rationale for these laws. When the Sages ordained the commemoration of Tish'ah B'Av, they structured its observance to resemble Yom Kippur in certain contexts, and to resemble the laws of mourning in others.
+
 [^92]: lest he become upset, but this should be done
+
 [^93]: So that he also appreciates the nature of the day. See also Chapter 3, Halachah 8.
+
 [^94]: Because "the precepts of God... make the heart glad" ([[Psalms 019#^19-9|Psalms 19:9]] . Even this joy is inappropriate on Tish'ah B'Av (*Ta'anit* [[Taanit 30#30a|30a]]).
+
 [^95]: Torah works that are somber in nature - e.g.,
+
 [^96]: which recounts his grief and suffering over the tribulations which beset him
+
 [^97]: the Book of Lamentations for the Temple's destruction. This text is read communally on Tish'ah B'Av and may be studied by individuals as well.
+
 [^98]: In addition, one may study the Talmudic passages describing the Temple's destruction (from the chapter *Hanezikin*, *Gittin*, Chapter 5, in the Babylonian Talmud, and the last chapter of *Ta'anit* in the Jerusalem Talmud), the *Midrashim* on Eichah, the laws of Tish'ah B'Av, the laws of mourning, and other similar texts.  
     One should, however, recite all the passages from the Bible and the Talmud that are included in the daily prayer service.
+
 [^99]: for they also derive happiness from their study (*Ta'anit, ibid.*).
+
 [^100]: A mourner does not wear *tefillin* on the first day of mourning (*Hilchot Eivel* 4:9). In particular, support for this custom is derived from Eichah 2:1, which states, "He cast down the glory of Israel from the heaven to the earth." "The glory of Israel" is a reference to *tefillin*.  
     The Rambam's choice of wording appears to indicate that the arm *tefillin* may be worn. Similarly, he does not mention any change in practice regarding the *tallit gadol.* The custom at present in most communities (*Shulchan Aruch, Orach Chayim* 555:1) is not to wear *tefillin* - neither the head *tefillin* nor the arm *tefillin* - nor to wear the *tallit gadol* in the morning service. A *tallit k'tan* is worn, but a blessing is not recited over it.  
     For the afternoon service, the *tallit gadol* and both the head and arm *tefillin* are worn.
+
 [^101]: From *Bava Batra* [[Bava Batra 60#60b|60b]], one may infer that this refers to the destruction of the Second Temple.
+
 [^102]: The *Be'ur Halachah* 560 cites texts which maintain that this prohibition applies only to a person's private home, but not to synagogues or houses of study. These may be built ornately.
+
 [^103]: So that it will be noticed upon entry.
+
 [^104]: From the Rambam's expression (which is quoted in the *Shulchan Aruch, Orach Chayim* 560), it appears that even after leaving the square cubit space unpainted, one should not have ornate walls. The *Tur* (*Orach Chayim* 560) differs, maintaining that if one leaves this space unpainted, one may decorate one's walls as one desires. The *Mishnah Berurah* 560:1 states that the *Tur's* opinion may be followed.  
     The latter text (560:2, as does the *Kitzur Shulchan Aruch* 126:1) questions why the observance of this practice is not more widespread.
+
 [^105]: Note the *Mishnah Berurah* 560:5, which states that this applies even with regard to feasts served in association with a mitzvah - e.g., wedding feasts, bar-mitzvahs, and the like.
+
 [^106]: The Rabbis have also cited other reasons for women to be modest in their wearing of jewelry. (See *Mishnah Berurah* 560:8.)
+
 [^107]: Compare to Chapter 4, Halachah 1.
+
 [^108]: Although this custom is not observed in many places at present, it is customary for these reasons to break a glass under the wedding canopy (Ramah, *Orach Chayim* 560:2).
+
 [^109]: Thus, according to this opinion (which is quoted by the *Shulchan Aruch, Orach Chayim* 560:3), listening to any music is forbidden. The Ramah, however, quotes several more lenient views. He concludes that "for the sake of a mitzvah - e.g., at a wedding feast - everything is permitted." The meaning of "for the sake of a mitzvah" has been extended by contemporary authorities to include many different situations.
+
 [^110]: Significantly, *Sotah* [[Sotah 48#48a|48a]] mentions this measure as having been ordained for the nullification of the *Sanhedrin* (Israel's High Court), and not for the destruction of the Temple.
+
 [^111]: In his responsa and in his Commentary on the Mishnah (*Avot* 1:17), the Rambam criticizes most singing and music, without mentioning the obligation to mourn for Jerusalem, because it caters to man's lust and material desires, rather than to his spiritual impulses.
+
 [^112]: The *Maggid Mishneh* emphasizes that this prohibition applies to brides and grooms, who must be reminded to minimize their rejoicing at this time of celebration, but not to other individuals at ordinary times.
+
 [^113]: According to *Sotah* [[Sotah 49#49b|49b]], this includes even a crown of flowers.
+
 [^114]: Note the *Mishnah Berurah* 460:18, which states that if the crown is made from fabric, it may have gold, silver, and jewels attached to it.
+
 [^115]: One of the most sensitive differences of opinion in the religious community in *Eretz Yisrael* at present revolves around this law. The *Beit Yosef* (*Orach Chayim* 561) states that the obligation to rend one's garments applies only when *Eretz Yisrael* is under gentile rule. The question is whether the establishment of a secular Jewish state is sufficient to have this obligation nullified or not.
+
 [^116]: In *Hilchot Eivel* 9:10, the Rambam mentions this obligation, and as a proof-text cites [[Jeremiah 41#^41-5|Jeremiah 41:5]], "And eighty men from Shechem, Shiloh, and Shomron came with their beards shaven and their garments rent." The commentaries on this verse explain that these measures were taken in mourning over the Temple.
+
 [^117]: Even if a person sees the cities of Judah, Jerusalem, and the site of the Temple on the same journey, he is obligated to rend his clothes three times. The *Maggid Mishneh* emphasizes, however, that the converse is not true. If one sees Jerusalem before any other city and rends one's garments on its behalf, there is no need to rend one's garments for the other cities (*Shulchan Aruch, Orach Chayim* 561:3).
+
 [^118]: The *Bayit Chadash* (*Orach Chayim* 561) emphasizes how one should prostrate oneself in mourning, overcome with grief at the sight of this holy place in ruins.  
     The *Mishnah Berurah* 561:5 emphasizes that this refers to seeing the Temple from afar. It is forbidden to enter the Temple Mount itself, because we are all ritually impure, and the sanctity of that holy place is still intact. (See *Hilchot Beit HaBechirah* 6:16.)
+
 [^119]: This refers to a point from which one could see the Jerusalem of the Biblical and Talmudic eras. The location of the present city is slightly different. Tzofim is not identical with present-day Mount Scopus.
+
 [^120]: A parallel exists in the laws of mourning. If one parent dies after one has rent one's garment over the passing of another relative, it is not sufficient merely to add slightly to the tear; one must rend the garment a second time (*Hilchot Eivel* 8:10).
+
 [^121]: Here also we see a parallel in the laws of mourning. If one hears of the death of a relative other than a parent after one has rent a garment over the passing of another relative, all that is necessary is to add slightly to the tear (*ibid.*).
+
 [^122]: As mentioned in *Hilchot Eivel* 9:2, the Rambam equates the obligation to rend one's garments over the cities of Judah, Jerusalem, and the Temple with the obligation to rend one's garments over one's parent's death. In mourning over others, one may cut one's garments with a utensil (*loc. cit.* 8:2). For one's parents and in these situations, the tear must be made with one's hands (*loc. cit.* 8:3).  
     Significantly, the Ra'avad objects to a complete equation between seeing these sites in destruction and one's parent's death, and therefore maintains that there is no obligation to rend one's garments with one's hands and reveal one's heart. The later halachic authorities, however, do not accept his ruling.
+
 [^123]: Whenever one is required to rend one's garments, one must stand (*loc. cit.* 8:1).
+
 [^124]: In mourning over others, one need not rend one's garments more than a handbreadth (*loc. cit.* 8:2). For one's parents and in these situations, one must continue tearing until one's heart is revealed (*loc. cit.* 8:3, 9:3).
+
 [^125]: This refers to a usual pattern of stitching, which does not make it obvious that the garment had been rent. If one mends a garment using a less perfect method of sewing, it is permitted, as explained below.  
     The prohibition against mending one's garments in this manner applies in these instances and for one's parents. When mourning the passing of others, one may mend the garment afterwards (*loc. cit.* 9:1).
+
 [^126]: At present, rather than rend one's garments every time one comes to Jerusalem, it is customary to sell one's garments to another person, so that it would be forbidden to tear them (see *loc. cit.* 8:7).
+
 [^127]: With the conclusion of the exile, there will be no need to mark the dates that led to it with mourning and fasting. Thus the Rambam writes at the conclusion of *Hilchot Megillah*: "All memories of the difficulties [endured by our people] will be nullified as \[[[Isaiah 65#^65-16|Isaiah 65:16]]] states: 'For the former difficulties will be forgotten.'  
     As mentioned previously, fasting is not an end in its own right, but a means to motivate the Jews to return to God and correct the faults in their behavior. The coming of the redemption will be a sign that the service of repentance is complete, and thus there will be no further need for fasting.
+
 [^128]: Through repentance, sins are transformed into merits (*Yoma* [[Yoma 86#86a|86a]]). And in this process, these fasts, which came as a result of the exile that stems from sin, will be transformed
+
 [^129]: There is no possibility for the existence of an entity that is genuinely negative in nature. All those factors that appear negative represent hidden good, and furthermore, a good so powerful that the only way it can be revealed in this world is through qualities that outwardly appear negative. Their inner nature, however, is good, and in the era of the redemption when the world will be refined to the extent that it can accept this great good, this nature will be revealed.
+
 [^130]: The Ninth, or at present, the Seventeenth, of Tammuz (see Halachah 4),
+
 [^131]: Tish'ah B'Av
+
 [^132]: the Third of Tishrei
+
 [^133]: the Tenth of Tevet
+
 [^134]: Note the interpretation of this verse in the Rambam's Commentary on the Mishnah, and the introduction to the tractate of *Avot* (*Shemonah Perakim*), Chapter 4. There the Rambam elaborates on how, instead of asceticism and fasting, God desires intellectual development ("truth") and emotional harmony ("peace").  
     From a different perspective, it can be understood that by quoting the conclusion of the verse, the prophet was also alluding to the means by which the Messianic redemption - and thus the transformation of these fasts - could be brought closer.  
     *Yoma* [[Yoma 9#9b|9b]] relates that the Temple was destroyed because of unwarranted hatred among the Jewish people. By spreading peace and truth, we will nullify the cause for the exile, and this will cause the effect, the exile itself, also to cease (*Likkutei Sichot,* Vol. 15, pp. 415ff.).

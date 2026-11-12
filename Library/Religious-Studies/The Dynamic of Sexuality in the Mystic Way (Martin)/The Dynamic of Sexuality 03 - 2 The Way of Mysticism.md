@@ -23,11 +23,17 @@ It is a problematic undertaking to define mysticism, for there has been a range 
 Evelyn Underhill, in her exposition of the mystic way, presented the normative goal of mysticism as being that of a unified consciousness with Ultimate Reality, which could be conceptualized in a personal or non-personal way.[^5] She rejected James’ criteria, suggesting instead that mysticism can be characterized as being active and practical; as being wholly transcendental and spiritual; as being fixated upon the all-encompassing One, who is a personal object of love; and as having the soteriological goal of ecstatic union with this One Being. She paid marginal attention to non-Christian traditions. Rudolf Otto in a seminal work,[^6] argued that all religions are based on the *mysterium, tremendum et fascinans*, or a fascinated attention to the awful mystery of God.[^7] Indeed, the numinous experience of God formed the very basis for understanding mystical endeavour. In 1923 he delivered a series of 
 
 [^1]: For a recent overview see the entry ‘Mysticism’ by Louis Dupré in *The Encyclopedia of Religion* (London: MacMillan, 1987).
+
 [^2]: William Ralph Inge, *Christian Mysticism*, 2nd ed. (London: Methuen, 1912).
+
 [^3]: William James, *The Varieties of Religious Experience: A Study in Human Nature* (New York: Collier-MacMillan, 1961). The book arose out of a series of lectures delivered at Edinburgh University in May and June of 1901 and 1902. For a review of recent biographical accounts of James’ work see Robert C. Fuller, ‘Fresh Takes on a Classic: William James’s *Varieties* Approaches Its Centennial’, *Religious Studies Review* 26, no. 2 (2000): 151–55. James is considered the progenitor of modern American spirituality and his text a ‘classic’.
+
 [^4]: See Wayne Proudfoot, *Religious Experience* (Berkeley/Los Angeles: University of California Press, 1985) chaps. 4 and 5, for one such critique.
+
 [^5]: Evelyn Underhill, *Mysticism: A Study in the Nature and Development of Man’s Spiritual Consciousness*, 12th ed. rev. (London: Methuen, 1930). First written in 1911 it went through eleven subsequent editions. For a recent interesting, critical but sympathetic assessment of her life and work, see Grace Jantzen, ‘The Legacy of Evelyn Underhill’, *Feminist Theology*, no. 4 (September 1993): 79–100.
+
 [^6]: *The Idea of the Holy: An Enquiry into the Non-rational Factor in the Idea of the Divine and Its Relation to the Rational*, 2nd ed. (London: Penguin, 1950).
+
 [^7]: The word fascinated – from the Latin stem *fascināre* to enchant – is more interesting than Otto perhaps realized when he used it to describe the attitude expressed. It is said in folklore that one can be fascinated by a snake (or serpent), and fixated by its attention. Eve was enchanted by the serpent, which symbolically represented matter ([[Torah 01 - Bereshit#^3-1|Gen. 3:1–7]]); while in *kuṇḍalinī* yoga the practitioner is enchanted by the metaphoric serpent arising from the base of the spine, which also represents matter in dynamic action. See below, p. 56.
 
 *[p. 11]* ^pg19
@@ -41,12 +47,19 @@ In terms of the psychological assessment of mysticism the work of Abraham Maslow
 The definitional term ‘mystical experience’ is generally assumed to refer to a coherent category of experience; but understanding the mystical in terms of universal traits is problematic. F. Samuel Brainard[^15] argues that there are three theoretical positions: those who claim that the category ‘mystical’ is a mere linguistic artefact, which should not be 
 
 [^8]: *Mysticism, East and West: A Discussion of the Nature of Mysticism, Focusing on the Similarities and Differences of Its Two Principal Types* (New York: MacMillan, 1970). First published in Germany in 1932.
+
 [^9]: Robert C. Zaehner, *Mysticism: Sacred and Profane: An Inquiry into Some Varieties of Praeternatural Experiences* (London: Oxford University Press, 1961).
+
 [^10]: Walter T. Stace, *Mysticism and Philosophy* (London: MacMillan, 1960).
+
 [^11]: Abraham Maslow, *Religions*, *Values and Peak Experiences* (Harmondsworth: Penguin, 1964).
+
 [^12]: Walter N. Pahnke, ‘Drugs and Mysticism’, in *Growing Edges in the Psychology of Religion*, ed. John R. Tisdale (Chicago: Nelson-Hall, 1980).
+
 [^13]: Ibid., p. 194.
+
 [^14]: Ibid., p. 197.
+
 [^15]: ‘Defining “Mystical Experience”’, *Journal of the American Academy of Religion* 64 (1996): 359–93.
 
 *[p. 12]* ^pg20
@@ -58,10 +71,15 @@ That said, Brainard then approaches the issue of defining ‘mystical experience
 Of passing importance then is what definition of mysticism, if any, this thesis will employ. McGinn usefully defines it thus: ‘the mystical element in Christianity is that part of its belief and practices that concern the preparation for, the consciousness of, and the reaction to what can be described as the immediate or direct presence of God’.[^19] He argues that this definition is broad enough to include ‘both the usually nonvisionary and non– autobiographical monastic mysticism dominant prior to 1200 and the mystical aspects of the visionary explosion of the later Middle Ages’.[^20] In addition, he suggests that with regard to visions, it is ‘helpful to think of them primarily as “visualizations”, in the sense of powerful imaginative creations based on intense meditation on the imagery of the Bible and the liturgy, as well as artistic representations of Christ, the angels and saints, heaven and hell, and so on’.[^21] Usefully for us, for the purposes of this thesis, McGinn’s definition can profitably be applied to describing Tantric systems. Hence, I shall take this notion of the ‘presence of God’, modified and qualified where necessary, as a point of departure. 
 
 [^16]: Ibid., pp. 379–80.
+
 [^17]: These are ‘intersubjective invariables that words and concepts seem to signify’. For example, the equation 1+2=3 is a valid numerical concept that appears to exist at any individual perspective level, and so is ‘universal’.
+
 [^18]: Ibid., p. 380.
+
 [^19]: McGinn, *Foundations of Mysticism*, p. xvii. For Tobin (*FL*, p. 27, n. 21) the term ‘direct or immediate’ is troubling; he rather prefers weakening it to ‘something like heightened or intensified’.
+
 [^20]: McGinn, *Flowering of* Mysticism, p. 26.
+
 [^21]: Ibid., p. 30.
 
 *[p. 13]* ^pg21
@@ -75,9 +93,13 @@ Our knowledge of the efflorescence of mediaeval women’s mysticism derives eith
 common to find texts written by men in admiration of a particular mystic. There are two issues of import here, which recent scholarship has highlighted. The first is that women are apt to speak about themselves in rather more active and assertive terms than their male promoters did; and the second is that the prevalence of nuptial imagery in male hagiographic texts to describe women’s relationship with God may well reflect a peculiarly male concern rather than that of women mystics themselves.[^26] But another category, the spiritual autobiography, or ‘autohagiography’, is also evident. This is an account of a holy person’s life written or told by its subject, and imbued perhaps with inflated accounts, which would take the saint’s own life as a vehicle for expressing universal spiritual instead of personal, truths. Natural and supernatural events are conveyed with equal conviction, and the author’s 
 
 [^22]: Vol. 1, *The Foundations of Mysticism: Origins to the Fifth Century* (New York: Crossroad, 1991); Vol. 2, *The Growth of Mysticism: Gregory the Great through the 12th Century* (New York: Crossroad, 1994); Vol. 3, *The Flowering of Mysticism: Men and Women in the New Mysticism—1200–1350* (New York: Crossroad, 1998). What began as a trilogy is now envisaged as a five part series.
+
 [^23]: See McGinn’s discussion on Augustine’s foundational understanding of mysticism (*Foundations of Mysticism*, pp. 228–62).
+
 [^24]: Marguerite d’Oingt, a Carthusian prioress of the thirteenth century, understood the important role of sacred reading *(lectio divina)* and writing *(scriptio)*, and she defended her writing as authoritative by arguing that writing was a necessary prelude to attaining a more intense consciousness of God (McGinn, *Foundations of Mysticism*, p. 289).
+
 [^25]: See his introduction to *Flowering of Mysticism*, esp. pp. 12–30 for an overview assessment. He characterizes this stage elsewhere (p. 157) as having five aspects: the problem of authority; the role of visions; totalizing embodied consciousness; excess; and annihilating indistinction. Further discussion on this point can be found in the section below on *unio mystica*, pp. 33–35.
+
 [^26]: On this see Catherine M. Mooney, ed. *Gendered Voices: Medieval Saints and Their Interpreters* (Philadelphia: University of Pennsylvania Press, 1999).
 
 *[p. 14]* ^pg22
@@ -95,9 +117,13 @@ he emphasized ‘reading in the book of experience’.[^31]
 Female religious mysticism of the middle ages has also been characterized as involving a fixation on food and fasting. Caroline Walker Bynum has extensively addressed these 
 
 [^27]: See Kate Greenspan, ‘Autohagiography and Medieval Women’s Spiritual Autobiography’, in *Gender and Text in the Late Middle Ages*, ed. Jane Chance (Gainesville: University Press of Florida).
+
 [^28]: Quoted in McGinn, *Flowering of Mysticism*, p. 312.
+
 [^29]: *Power, Gender and Christian Mysticism* (Cambridge: Cambridge University Press, 1995).
+
 [^30]: The boundary between the two types is not clearcut, since elements of both outlooks are used: ‘Indeed, it is because God is the Love who is identical with Truth that the bridal love which attains him must be wise (*sapiens*), prudent (*prudens*), and even reasonable (*rationalis*) – as well as being sweet (*dulcis*) and violent (*vehemens*)’ (McGinn, *Growth of Mysticism*, p. 200).
+
 [^31]: On Bernard, see McGinn, *Growth of Mysticism*, Chapter 5.
 
 *[p. 15]* ^pg23
@@ -109,8 +135,11 @@ Recently, the problematic implications of highlighting the bodily sufferings of 
 Julie Miller takes up the theme when she argues that feminist scholars have emphasized the suffering body as against the suffering soul in their analyses of mediaeval mystical texts by women. Moreover, this emphasis has ‘served to develop and support the ideology that 
 
 [^32]: See her *Jesus as Mother: Studies in the Spirituality of the High Middle Ages* (Berkeley/Los Angeles: University of California Press, 1982); *Holy Feast and Holy Fast* (Berkeley/Los Angeles: University of California Press, 1987); and *Fragmentation and Redemption* (New York: Zone Books, 1992).
+
 [^33]: McGinn (*Flowering of Mysticism*, pp. 15–16) questions her tendency to generalize from the particular, especially in regard to the differing use of language and symbol by men and women. See also his review in *History of Religions* 28 (1988): 90–92. Ulrike Wiethaus questions Bynum’s portrayal of mediaeval women’s vague definition of femininity, their supposed use of androgynous imaging, the physicality, and the notion of a continuum between the real self and the ‘other’ or God (‘Sexuality, Gender and the Body in Late Medieval Women’s Spirituality: Cases from Germany and the Netherlands’, *Journal of Feminist Studies in Religion* 7 \[Spring 1991\]: 35–52). She argues that Bynum’s model implies a rejection by these women of their female identity, and would assert instead that the egalitarian spousal symbolism gave women ‘the opportunity to map femininity and masculinity from a gynocentric perspective’ (p. 40). The result was the divine allegory of Minne (Lady Love) and Christ, resulting in a characterization of the former as strong and independent and the latter as devoid of patriarchal limitations.
+
 [^34]: Mooney, *Gendered Voices*, p. 193, n. 1.
+
 [^35]: Lochrie, ‘Mystical Acts, Queer Tendencies’.
 
 *[p. 16]* ^pg24
@@ -124,8 +153,11 @@ There have been a number of doctoral dissertations on Mechthild, which have exam
 and Mechthild; Ruth Abraham looks at Mechthild’s text as an autobiographical realization of spiritual poverty; Sara Poor argues that Mechthild managed to reach beyond the limiting confines of ‘mystical bride’ to use her visions and visionary discourse to establish herself as a legitimate authority figure; Carola Sharp considers Mechthild’s interaction with society; 
 
 [^36]: Julie B. Miller, ‘Eroticized Violence in Medieval Women’s Mystical Literature: A Call for a Feminist Critique’, *Journal of Feminist Studies in Religion* 15, no. 2 (1999): 28.
+
 [^37]: The problematic assumptions behind the rhetoric of eroticized violence and the view of the body, as evidenced by mediaeval female mystics, are frankly assessed by Lochrie and Miller. Without wishing to diminish the disgraceful violence enacted against women I should say that there is scope for an ‘imaginative violence’ associated with images of the divine. I hasten to add that I should want rather to think of ‘violence’ in terms of *energetic motion*, that is, as a force. Force is mathematically defined as mass times acceleration; and, mystically speaking, violence can be understood as forceful in this way; as therefore neutral: it is the intention and impetus of the agent that contributes to making violence right or wrong. Thought, in other words, has mass, and the intention supplies the acceleration. Miller refers to ‘the extreme violence’ connoted by the term *annihilation*, but this overlooks the contextual nature of the term. In eastern metaphysics the annihilation or destruction of the soul (ego) is a necessary prelude to *samādhi*. Fire too is ‘destructive’ in its nature, but it also paves the way for new life; in fact, some tree seeds require fire to bring them to life. In the same way, by burning off the soul it allows the spirit to grow. Divinity is only destructive because it strips away the confining and constructed self; and the inertia of personality provides a formidable barrier. The passion of Jesus Christ can be read in this light: the excruciating pain he felt was symbolically indicative of the intensity of the final liberating mystical experience; and the crown of thorns can be seen as emblematic of the activity of the crown *cakra* (the ‘bliss centre’ of the yogic body) as it uprooted the soul. Equally, only the image of a sword or knife can convey the sharply piercing quality of divine love, which wrenches the heart. In this regard, Hadewijch borrowed from jousting to convey the image of the ‘severe blows received by those who are subject to *minne* \[love\]’ (Murk-Jansen, ‘Use of Gender’, p. 57). In this author’s mystical experiences when sensing the power of God, the image that comes to mind is one of the soul’s being smashed into infinity by the windy force of spiritual love. It may be violent imagery, but it is not dangerous, except to oneself perhaps.
+
 [^38]: Miller, ‘Eroticized Violence’, p. 29, n. 16.
+
 [^39]: *Mystical Transformations: The Imagery of Liquids in the Work of Mechthild von Magdeburg* (Rutherford, Madison: Fairleigh Dickinson University Press, 1978), originally a Ph.D dissertation submitted in 1972.
 
 *[p. 17]* ^pg25
@@ -137,7 +169,9 @@ Amy Hollywood explores the relationship between the texts and theological unders
 Ulrike Wiethaus investigates the ecstatic experiences of Mechthild by taking as her point of departure the humanistic psychologies of Abraham Maslow and Roberto Assagioli.[^42] Maslow proposed the value of the self-actualizing experience, in which there is an innate urge by human beings to find a better and more complete sense of self. Assagioli promoted a ‘psychosynthesis’, in which realization of a ‘higher self’ is attained by unifying and enhancing otherwise disjointed and underdeveloped aspects of the psyche. The ecstatic experiences of Mechthild, along with those of the numerous other women mystics of the late Middle Ages, can be seen as equivalent to modern day altered states of consciousness, argues Wiethaus. But, unlike contemporary attempts at realizing heightened consciousness through the use of psychotropic drugs, the mediaeval mystics utilized prayer (both personal and communal), meditation/contemplation, and ascetic exercises, to transcend normal waking states of consciousness. She concludes that the similarities between Mechthild’s mediaeval mystical approach and modern humanistic psychology support the thesis that transpersonal experiences ‘extend beyond culture-bound theoretical superstructures’. 
 
 [^40]: Sandra Eveland, ‘The Divine Lover of Mira Bai and Mechthild von Magdeburg: A Study of Two Women’s Literary Descriptions of a Mystical Relationship with God’ (Ph.D. diss., University of Texas at Austin, 1978); Ruth Abraham, ‘Mechthild of Magdeburg’s “Flowing Light of the Godhead”: An Autobiographical Realization of Spiritual Poverty’ (Ph.D. diss., Stanford University, 1980); Sara Poor, ‘Medieval Incarnations of Self: Subjectivity and Authority in the Writings of Mechthild von Magdeburg’ (Ph.D. diss., Duke University, 1994); Carola Sharp, ‘Mechthild von Magdeburg’s Interaction with Society as Reflected in “Das fliessende licht der Gottheit”’ (Ph.D. diss., University of Waterloo, 1995); Marilyn Webster, ‘Mechthild von Magdeburg’s Vocabulary of the Senses’ (Ph.D. diss., University of Massachusetts, 1996); Francis Wagner, ‘The “Humilitas” Tradition and Mechthild von Magdeburg’s “Das Fliessende Licht der Gottheit”’ (Ph.D. diss., Washington University, 1997); Susan Mayers, ‘Tradition and Transgression: What We Talk About When We Talk About Medieval Women Mystics (Marguerite Porete, Belgium, Mechthild von Magdeburg, Germany, Hadewijch of Anvers)’ (Ph.D. diss., University of Virginia, 1998); Patricia Beckman, ‘The Rhetoric of Religious Experience in Mechthild of Magdeburg’s “*Fliessende Licht der Gottheit*”’ (Ph.D. diss., University of Chicago, 1999).
+
 [^41]: Amy Hollywood, *The Soul as Virgin Wife*. This was originally a Ph.D dissertation of the same title from 1991.
+
 [^42]: Ulrike Wiethaus, *Ecstatic Transformation: Transpersonal Psychology in the Work of Mechthild of Magdeburg* (Syracuse: Syracuse University Press, 1996), developing her PhD dissertation from 1986, ‘The Reality of Mystical Experience: Self and World in the Work of Mechthild of Magdeburg’ (Temple University).
 
 *[p. 18]* ^pg26
@@ -151,9 +185,13 @@ In the *Śvetāśvatara Upaniṣad*, composed around the fifth or fourth centuri
 The great exponent of Advaita was Śaṅkara, or Śaṅkarācārya, born in Kerala at an uncertain date, possibly 788 CE. He became a renouncer, composed commentaries, and established a monastic order, the Daśanāmis, which has centres at Śṛṅgerī, Dwarka, Badrinath and Puri. It is generally accepted that he wrote commentaries on *Bṛhadāranyaka* and *Taittirīya Upaniṣads*, and the independent work, the ‘Thousand Teachings’ (*Upadeśasaharī*). He propounded a philosophy in which the self (*ātman*) is ontologically identical with the absolute (*brahman*), and in order to realize that truth it is necessary to cultivate discrimination: between the self and the not-self; and between knowledge (*vidyā*, *jñāna*) and ignorance (*avidyā*). Consequently, Śaṅkara extols those sections of sacred scripture that deal with knowledge (*jñānakāṇḍa*), rather than with action, which, taken alone, is incapable of giving liberation. Rather, it is enough simply to realize the 
 
 [^43]: Flood, *Introduction to Hinduism*, p. 35.
+
 [^44]: Ibid., p. 40.
+
 [^45]: *Saudaryalaharī*. English translation and commentary by Nataraja Guru (Kerala, India: East-West University of Brahmavidya, 1988), pp. 23–25, 29. Hereafter citations to *SL* will take the form *SL* (….), indicating the translator and/or editor in parenthesis. Full details of the edition can then be found in the Bibliography.
+
 [^46]: Flood, *Introduction to Hinduism*, p. 153.
+
 [^47]: Ibid., pp. 238–39.
 
 *[p. 19]* ^pg27
@@ -169,11 +207,17 @@ speculations on the (usually bipolar) nature of the Absolute, cosmogony, the cre
 Both sets of teachings probably have a common origin, namely from specialist thinkers within the brāhmaṇic ‘intellectual élite’, who sought to formulate and communicate ‘esoteric truths in the guise of cosmic and verbal symbolism’.[^54] 
 
 [^48]: Ibid., pp. 239–42.
+
 [^49]: See note 90 below (p. 23).
+
 [^50]: The following discussion is taken from *SL* (Tapasyananda), pp. 3–5.
+
 [^51]: *HTSL*, p. 7.
+
 [^52]: Ibid., p. 8.
+
 [^53]: Ibid.
+
 [^54]: Ibid., p. 9.
 
 *[p. 20]* ^pg28
@@ -183,14 +227,23 @@ Regarding the size of the literature, there are said to be one hundred and eight
 It is only during the last one hundred years that scholarly attention has been paid to these traditions by Western commentators. Even so, the unspoken bias has been toward the philosophic and Sanskritic, rather than the popular.[^61] For many people, there may be an aversion to the strongly erotic and antinomian tendencies of some tantric systems, with their explicit images and frank discussions of sexuality. The belief is prevalent in India today, that Tantra connotes ‘black magic, spiritual or religious practices involving sex, and manipulation of psychic powers or evil spirits to seduce women, defeat or injure opponents, or mesmerize others’.[^62] However, it is a misapprehension that the Tantras are merely ‘collections of manuals on sex; they are *mokṣa-śāstra*,…doctrinal texts on spiritual emancipation’.[^63] The degraded approach to esoteric understanding is evident in the transplanted versions of Tantra in the West; in, for example, the reductionistic outlook of so-called Neo-Tantra, which is characterized by the hyperbolic assertions of Bhagwan Shree Rajneesh and Chogyam Trungpa.[^64] The legacy of Sir John Woodroffe, who established the *Tantrik Text Series* early in the twentieth century, is still apparent, as he sought to eliminate 
 
 [^55]: Ibid., p. 13.
+
 [^56]: Padoux, *Vāc*, p. 33.
+
 [^57]: *HTSL*, pp. 13–14.
+
 [^58]: Ibid., p. 27. Goudriaan adduces examples of linguistic peculiarities at p. 28.
+
 [^59]: Ibid., p. 26.
+
 [^60]: Flood, *Introduction to Hinduism*, p. 159.
+
 [^61]: Kripal, *Kālī’s Child*, p. 28.
+
 [^62]: Rajmani Tigunait, ‘The Concept of *Śakti* in Lakṣmidhara’s Commentary on the *Saundaryalaharī* in Relation to Abhinavagupta’s *Tantrāloka*’ (Ph.D. diss., University of Pennsylvania, 1997), p. 25. Even conservative Kaula Tantrics can deprecate this term: ‘In contemporary South India, . . . “tantric” is practically a dirty word in Tamil. Few self-respecting brahmans (or brāhmaṇically influenced people) would care to be called Tantrics’ (Brooks, *Secret of the Three Cities*, p. 52).
+
 [^63]: Bharati, *Tantric Traditions*, pp. 173–74. Padoux (*Vāc*, p. 46) offers a similar caution against seeing *Tantras* as ‘divinized eroticism’.
+
 [^64]: Hugh Urban argues that this self–centred, consumerist version of Tantra accurately expresses and reflects late twentieth century Western capitalism (‘The Cult of Ecstasy: Tantrism, the New Age, and the Spiritual Logic of Late Capitalism’, *History of Religions* 39 \[2000\]: 268–304).
 
 *[p. 21]* ^pg29
@@ -202,11 +255,17 @@ In his book *The Secret of the Three Cities: An Introduction to Hindu Śākta Ta
 In this thesis the focus will be on the system of Śākta Tantrism. Within this, and in particular the School of Śrīvidyā, there are two opposing branches, the Kaula and Samaya, representing two different approaches; the first utilizes external worship of the Goddess Devī, in a manner not approved of by the Vedas; while the second utilizes meditative or internal worship, and demonstrates a pronounced brāhmaṇic influence. These modes are designated respectively *vāmācara* (left-hand), or Kaulācāra, and *dakṣiṇācāra* (right-hand), or Samayācāra.[^70] The major historical commentators of these systems are respectively Bhāskararāya (fl. 1728–50), and Lakṣmīdhara (fl. 1466–1539).[^71] Bhāskararāya Bharati, a Ṛg Vedic Brahman, travelled widely before settling in Tamil Nadu under the patronage of 
 
 [^65]: *HTSL*, p. 3; Kripal, *Kālī’s Child*, pp. 28–29; Sanjukta Gupta, Dirk Jan Hoens, and Teun Goudriaan, *Hindu Tantrism* (Leiden: E.J. Brill, 1979), p. 4. Woodroffe served as a Justice of the High Court at Calcutta in the colonial period, and subsequently became a disciple of Mahatma Sivachandra Vidyarnava. He also wrote using the non-de-plume Arthur Avalon on those occasions when he utilized the services of *pandits* (Indian Sanskrit scholars). Although he played a valuable role, he seldom gave authoritative references, which somewhat diminished the usefulness of his writings.
+
 [^66]: The text is conservative because of its provenance in the Vedic tradition (Brooks, *Secret of the Three Cities*, pp. 12–17). Whether in fact it belongs to the Vedic or Tantric traditions however is moot; but for Bhāskararāya it belongs to both, and so is doubly restrictive in that only twice-born Hindus *and* initiated Tantrics can hear or read it. Conversely, Lakṣmīdhara denies both its authority as *śruti*, or revelatory text in the Vedic tradition, and legitimate Tantric source.
+
 [^67]: See ibid., pp. 40–45, for a discussion surrounding issues of the study of the text.
+
 [^68]: *Auspicious Wisdom: The Texts and Traditions of Śrīvidya Śākta Tantrism in South India* (Albany: State University of New York Press, 1992).
+
 [^69]: ‘The Concept of *Śakti* in Lakṣmidharā’s Commentary on the *Saundaryalaharī* in Relation to Abhinavagupta’s *Tantrāloka’* (University of Pennsylvania, 1997).
+
 [^70]: There is a mixed intermediary form of worship, called Miśra, where external symbols and meditative processes are used for worship together with mantras. Tapasyananda remarks that ‘\[t\]his seems to be what most people follow. There are very few aspirants capable of pure meditative adoration’ (*SL*, p. 43, also pp. 80, 102–3). But it would be misleading to fix the boundaries rigidly as Kaulins also utilize mental worship (cf. Tigunait, ‘The Concept of *Śakti’*, pp. 48–49).
+
 [^71]: A little known and obscure commentator, Rāmānanda (Rāmāandatīrtha) appears to be the only other historical advocate of *Samayacāra*, a fact which underlines this tradition’s minority status (Brooks, *Secret of the Three Cities*, p. 220, n. 45).
 
 *[p. 22]* ^pg30
@@ -218,15 +277,25 @@ In the act of worship the distinguishing feature of the Kaula division is the us
 Turning to the *Saundaryalaharī* (‘The Ocean of Beauty’), we can say that it is a Sanskrit devotional hymn of praise (*stotra*), which is appreciated as a pre-eminent poem, and given a distinguished place in mystical Hindu literature. However, read on its own, it cannot be regarded as a tantric text; rather, it is only the elaboration by numerous commentators of the hymn’s underlying philosophical ideas that give it that status.[^78] It is treated with the utmost respect, and indeed lends itself ‘readily to be the basic ground on which human values \[can\] be rediscovered, rearranged, revalued and restated more normally and normatively.’[^79] In accordance with its eminence it has been extensively commentated upon, with some forty-one known commentaries in Sanskrit.[^80] Ten of these, including that one by Lakṣmīdhara, have been published in a compilation, which, being in Sanskrit, is unfortunately not available to me.[^81] I shall rely instead on the recognized translation by W. Norman Brown, produced for the Harvard Oriental Series, as well as recent translations and commentaries by Indian observers and practitioners.[^82] Writing in 1992, Brooks admits that ‘much important scholarship concerning the text has yet to be done’.<sup>83</sup> 
 
 [^72]: Ibid., p. xi.
+
 [^73]: Brooks, *Auspicious Wisdom*, p. xv. Theologically, he was a ‘theistic Tantric’, according to Brooks (*Secret of the Three Cities*, p. 14).
+
 [^74]: Brooks, *Secret of the Three Cities*, p. 28.
+
 [^75]: Ibid., p. 69.
+
 [^76]: Bharati, *Tantric traditions*, p. 179.
+
 [^77]: Flood, *Introduction to Hinduism*, p. 190.
+
 [^78]: Tigunait, ‘Concept of *Śakti*’, pp. 22, 58, 61.
+
 [^79]: *SL* (Guru), p. 8.
+
 [^80]: That is, according to the *Tāntrika Sāhitya* catalogue, which simply collects information from other catalogues, so some commentaries may no longer exist. Tigunait, ‘Concept of *Śakti*’, p. 59.
+
 [^81]: The editor, A. Kuppuswami, bases his own English endnote translation on the preceding Sanskrit commentaries.
+
 [^82]: See Bibliography, s.v. *Saundaryalaharī*. Guru provides an extended, meandering commentary, while Subramanian and Tapasyananda provide notes based on Lakṣmīdhara’s commentary. In preparing his critical edition Brown laments that Indian interpretations tend to be sectarian based and ‘encrusted with extraneous dogma, which its users defend as being unexpressed in the text because esoteric, but nevertheless implied and therefore valid’ (*SL*, p. vi). This is quite possibly true, but it rather misses the point that the text of the *SL* prefigures an oral expository tradition.
 
 *[p. 23]* ^pg31
@@ -238,11 +307,17 @@ It is likely that the head of a Śaṅkara *maṭha* (‘school of learning’, 
 83\. Brooks, *Auspicious Wisdom*, p. 46.
 
 [^84]: Brown (*SL*, pp. 20–24) critically assesses the place of the text in terms of its espoused doctrines.
+
 [^85]: There is a tradition that Śaṅkara was merely the transmitter and not the author. ‘It is said that Śrī Śaṅkara in the course of his short life disappeared from the earth for a time while staying at Vārāṇasi. He transported himself to Kailāsa, the abode of Śiva. There on a wall he found this great hymn written. He began to read it, but as he read it, Gaṇeśa, the offspring of Śiva, began rubbing it from below, lest this great sage should publicize this highly erotic hymn in the world of men. So Śrī Śaṅkara could master only the first forty-one verses, and in place of what had been erased, he composed an additional fifty-nine verses, and made it a full text of 100 verses and published it in the world of men’ (*SL* \[Tapasyananda\], pp. 2–3). Brooks relates variations on this tale (*Auspicious Wisdom*, pp. 47–48).
+
 [^86]: Cf. Brown’s comments on this allusion, *SL*, p. 26.
+
 [^87]: *SL* (Brown), p. 28. He cites the authority of H.R. Rangaswami Iyengar, then Superintendent of the Oriental Research Institute in this regard who, in the preface to the third Mysore edition (1953) concludes, ‘It seems rather doubtful that the Vedāntic teacher Śaṅkara, an ardent advocate of Absolute Idealism, should have written this Tantra work’ (p. 29). Flood however, remarks that ‘Śaṅkara does make concessons to the idea of devotion (*bhakti*) to a personal Lord (Éśvara) as a lower level of knowledge; *Brahma* . . . is beyond all predicates and qualities (*nirguṇa*), but in its temporal mode as the Lord it has attributes (*saguṇa*), and so can be approached through devotion as an object of consciousness’ (*Introduction to Hinduism*, p. 242).
+
 [^88]: Brooks, *Auspicious Wisdom*, p. 59. Śrīvidyā practice had infiltrated the Vedānta-based Śaṅkaracārya order by the eleventh century, and by the twelfth, had become part of the daily service, writes Tigunait (‘Concept of *Śakti*’, p. 44).
+
 [^89]: *SL* (Guru), p. 21. Reiterated on p. 215: ‘There is no other author in the field who could even be distantly suggested as a substitute for Śaṅkara’.
+
 [^90]: *SL* (Guru), p. 13. Bharati (*Tantric* Traditions, n. 9, pp. 36–37) notes that even if Śaṅkara was not the author the fact it is so persistently ascribed to him at least indicates he was exposed to ‘tantric environments’. In the *Śaṅkaradigvijaya*, the biography ascribed to Śaṅkara’s disciple Padmapādācarya, it is recorded how he changed his mind from a non-polar monism to a polar monism:
 
 *[p. 24]* ^pg32
@@ -282,12 +357,19 @@ There have been a number of comparative studies of Christian and Hindu mysticism
 A final point must be made about the limitations imposed upon this study due to the lack of access to original sources. As the nuances of language can be occluded in translations, there is a danger of drawing unsubstantiated interpretations. The original sources derive from thirteenth century Germany, in the case of Mechthild, and mediaeval India, in the case of Tantrism. Since I am not conversant with either mediaeval German or Sanksrit I shall have to rely on translations into English. The original manuscript of Mechthild’s book, written in a dialect that is derived from Low and Central German, is now lost and only Latin and Middle High German versions survive. Much scholarly work has been done in Germany on Mechthild’s text, culminating in a recent two volume critical edition of the Middle High German manuscripts, with separate notes, by Hans Neumann.[^104] Since these are not available to me I shall rely on a recent translation into English by the noted Germanist Frank Tobin, who utilized Neumann’s work. Another recent English translation by Christine Mesch Galvani[^105] will not be consulted; neither will the incomplete translation by Lucy Menzies in 1953;[^106] both these translations have been criticized by 
 
 [^99]: From examples already cited: Zaehner, *Mysticism*; Rudolf Otto, *Mysticism, East and West*.
+
 [^100]: Sandra Eveland, ‘The Mysticism of Mira Bai and Mechthild von Magdeburg’, in *Early Hindi Devotional Literature in Current Research* (Ranchi, India: Katholieke Universiteit Leuven, 1980).
+
 [^101]: Deirdre Green, ‘Living Between the Worlds: Bhakti Poetry and Carmelite Mystics’, in *The Yogi and the Mystic* (London: Curzon, 1989).
+
 [^102]: June McDaniel, ‘Blue Lotuses Everywhere: Divine Love in Gauḍīya Vaiṣṇavism and Catholic Mysticism’, *Journal of Vaisnava Studies* 5 (1996–97): 83–102.
+
 [^103]: Denise M. Henusek, ‘Fire and Wood: The Journey Leading to Transformation of the Soul in Union with God/Brahman as Described in the Writings of Rāmānuja and John of the Cross (Saint)’ (Th.D. diss., Harvard University, 1999). Unfortunately, I have not had a chance to consult this document.
+
 [^104]: *Das fließende Licht der Gottheit*. Nach der Einsiedler Handschrift in kritischem Vergleich mit der gesamten Überlieferung, ed. Hans Neumann. Volume 1: *Text*, arranged by Gisela Vollman-Profe (Munich: Artemis, 1990). Volume 2: *Untersuchungen*, supplemented and prepared for printing by Vollman-Profe (Munich: Artemis, 1993). Margot Schmidt revised her modern German translation in light of this work: Mechthild von Magdeburg, *Das fließende Licht der Gottheit*, second, revised translation with an introduction and commentary by Margot Schmidt (Stuttgart-Bad Cannstatt: frommann-holzboog, 1995).
+
 [^105]: Mechthild von Magdeburg, *Flowing Light of the Divinity*, translated by Christiane Mesch Galvani, edited, with an introduction, by Susan Clark (New York: Garland Publishing, 1991).
+
 [^106]: *The Revelations of Mechthild of Magdeburg, or, The Flowing Light of the Godhead*, translated from the manuscript in the library of the Monastery of Einsiedeln by Lucy Menzies (London: Longmans Green and Co., 1953).
 
 *[p. 26]* ^pg34

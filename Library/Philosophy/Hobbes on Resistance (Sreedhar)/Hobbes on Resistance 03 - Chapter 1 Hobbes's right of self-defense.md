@@ -33,8 +33,11 @@ primarily conceives of the right of self-defense as a *subjective*, *permission*
 Hobbes makes it clear that the right of self-defense can be exercised even in the absence of a direct attack. One can permissibly break the law in order to procure the necessities of life. In an especially perspicuous passage, Hobbes explains saying, If a man, by the terror of present death, be compelled to do a fact against the law, he is totally excused, because no law can oblige a man to abandon his own preservation. And supposing such a law were obligatory, yet a man would reason thus: *If I do it not, I die presently; if I do it, I die afterwards; therefore by doing it,* *there is time of life gained.* Nature therefore compels him to the fact.[^4] If a person needs to do X in order to survive  – that is, without doing X, she will die  – she has a right to do X. If a subject is starving, she has the right to do whatever she can to alleviate this condition. If she steals food, for example, she has not committed an injustice, even though she broke the law.[^5] In sum, the right of self-defense can best be characterized as the *right to take whatever actions one judges necessary to avoid an immediate threat of death*.
 
 [^2]: *De Cive*, 6.13. This claim is reiterated, often verbatim, in a number of other places; see *De Cive*, 21.12, 21.14 and *Leviathan*, 14.29, 21.14–15. Hobbes’s works are cited by chapter and paragraph number using the following editions of his texts: Thomas Hobbes, *The Elements of Law: Natural and Politic*, ed. Ferdinand Tönnies (London: Frank Cass, 1969); Thomas Hobbes, *On the Citizen* \[*De Cive*\], ed. and trans. Richard Tuck and Michael Silverthorne (Cambridge University Press, 1998); Thomas Hobbes, *Leviathan with Selected Variants from the Latin Edition of 1668*, ed. Edwin Curley (Indianapolis, IN: Hackett, 1994); Thomas Hobbes, *De Homine* in *Man and Citizen*, ed. Bernard Gert (Indianapolis, IN:  Hackett, 1991); and Thomas Hobbes, *Behemoth, Or The Long Parliament*, ed. Ferdinand Tönnies (University of Chicago Press, 1990). I have retained the original spelling, capitalization, punctuation, and italics.
+
 [^3]: *Leviathan*, 27.24.
+
 [^4]: *Leviathan*, 27.25.
+
 [^5]: Hobbes’s position on this issue was not unusual. This necessity rule, or something like it, was endorsed by most in early modern Europe; see Stephen Buckle, *Natural Law and the Theory of Property: Grotius to Hume* (Oxford: Clarendon Press, 1991). Present-day legal systems also tend to recognize conditions of necessity as possible excuses or mitigating circumstances for some crimes. Hobbes stands out from among this relative consensus, however, because he often conflates self-defense with conditions of necessity. That is, he did not take the *source* of a threat to one’s preservation to be the defining factor. The danger posed by threats of violence from the state, i.e. state-inflicted punishment, is treated in the same manner as the danger in threats of violence from private individuals, and even the danger posed by lack of food or medicine. In each case, the subject has the *same* right to protect herself from an imminent threat.
 
 *[p. 9]* ^pg19
@@ -46,6 +49,7 @@ In Hobbes’s theory, the right of self-defense is a remnant of the natural righ
 Perhaps the most important feature of the right of self-defense is its status as a *retained* right. As I understand it, Hobbes’s right of self-defense 
 
 [^6]: *Leviathan*, 14.8, 14.29.
+
 [^7]: In *Leviathan*, 14.18 he alludes to “the right (he can never abandon) of defending his life.” In *De Cive*, 2.18, he says: “No one is obligated by an *agreement* he may have made not to resist someone who is threatening him with death, wounds, or other bodily harm.” These kinds of claims are ubiquitous with very similar, sometimes verbatim, wording. Though not anywhere close to an exhaustive list, further representative examples can be found at *Leviathan*, 14.8, 14.29, 14.30, 21.11–14, 27.20, 28.2; and at *De Cive*, 2.14, 5.7.
 
 *[p. 10]* ^pg20
@@ -55,6 +59,7 @@ is first and foremost a right possessed by a particular group of people in a par
 Importantly, the right of self-defense is not by any means the *only* right subjects retain in the commonwealth; Hobbes also affords them the right to protect themselves from certain sorts of nondeadly harms. He at times conflates the narrow right of self-defense with these broader rights of self-protection, speaking of them together in one breath. On a number of occasions we find Hobbes referring to the right not only to defend one’s life but also to defend one’s “limbs,” “body,” or “liberty” (and sometimes he even adds phrases such as the entirely unclear “means of living”).[^9] These broader rights are discussed at length in Chapter 2; indeed, part of the project of this book is to show how all of Hobbes’s retained rights are of a piece. For the sake of clarity, and because I intend to discuss each right in detail, I set these additional rights aside for the moment and focus exclusively on the most narrow, and also most fundamental, right: the right to save one’s own life in the face of an immediate threat of death.
 
 [^8]: *Leviathan*, 28.2; *De Cive*, 5.7. Interestingly, Hobbes omits this qualification in the official description of the social contract in *Leviathan*, 17.13.
+
 [^9]: See, for example, *Leviathan*, 14.18, 27.24.
 
 *[p. 11]* ^pg21
@@ -80,6 +85,7 @@ The first important feature of the right of nature is that it is entirely subjec
 In *The Elements of Law*, Hobbes gives a very broad characterization of the right of nature, saying that it is the right “to do whatsoever he listeth to whom he listeth, to possess, use, and enjoy all things he will and can.” Indeed, Hobbes sometimes characterizes the right of nature as the right 
 
 [^12]: Hobbes also makes it clear that his account is not meant to apply to “children and madmen” (e.g., *Leviathan*, 27.23).
+
 [^13]: *De Cive*, 1.10; *Leviathan*, 14.4.
 
 *[p. 13]* ^pg23
@@ -91,8 +97,11 @@ Since there are actions that no sincere, sane person could judge conducive (even
 The second important feature of the right of nature is that it is conceived of as a kind of liberty or freedom. After defining the right of nature, Hobbes contrasts the definition of a right with that of a law by explaining that right is to law as liberty is to obligation; law is a fetter while right is a freedom, and they differ like contraries.[^17] Liberty is a tricky notion for Hobbes; it has a number of different meanings, which will be discussed in Chapter 2. Here, as opposed to a law, which is a fetter, a right is a freedom to do something (i.e., the absence of a fetter). But exactly what kind of freedom is it? For Hobbes, a right is a “*blameless liberty* of using our own natural power and ability.” Since a Hobbesian right gives one freedom from blame; it bestows a kind of moral permission on an action. We can, thus, understand Hobbesian rights as *permission rights*.
 
 [^14]: *The Elements of Law*, I.14.10; *Leviathan*, 14.4.
+
 [^15]: *De Cive*, 3.27.
+
 [^16]: *The Elements of Law*, I.14.10.
+
 [^17]: *Leviathan*, 14.3.
 
 *[p. 14]* ^pg24
@@ -104,6 +113,7 @@ The conception of rights employed by Hobbes appears philosophically coherent  �
 The subjectivity and extensiveness of people’s natural rights are a contributing factor to the miseries of the state of nature. In Hobbes’s view, people in the state of nature have unlimited moral permission to do whatever they judge will help them in their quest for survival. Hobbes’s right of nature, however, ends up practically worthless, such that upon reflection it is a right people would rather not have. The Hobbesian state of nature is an horrendous condition that rational people would want to leave behind, if possible. People can “get out” of the state of nature by entering into a social contract to establish a commonwealth. In this contract, people divest themselves of their natural rights and undertake obligations to obey the will of a sovereign.
 
 [^18]: Many have been tempted to invoke Wesley Hohfeld’s notion of a “privilege” (or “liberty right”) in order to explain the seemingly odd normative concept captured by Hobbes’s understanding of “right.” If a person has a Hohfeldian privilege to do X, she has no duty to refrain from doing X. She has the option to do or not to do X; she violates no obligation either way (Wesley Newcomb Hohfeld, *Fundamental Legal Conceptions as Applied in Judicial Reasoning: and Other Legal Essays* \[New Haven, CT:  Yale University Press, 1919\], 39). Recently the analogy between Hobbesian “blameless liberties” and Hohfeldian “privileges” has been called into question; see Eleanor Curran, “Lost in Translation: Some Problems with a Hohfeldian Analysis of Hobbesian Rights,” *Hobbes Studies* 9, no. 1 (2006), 58–76.
+
 [^19]: As a matter of fact, my analysis could have been constructed without the use of the word *right* at all. It is possible to explain the main elements of Hobbes’s account using only the language of moral permissibility. What Hobbes uses the word *right* to capture is a particular kind of freedom from blame. For Hobbes, rights – at their most basic level – attach to those actions that it is *unreasonable* to blame someone for doing. And since it would be unreasonable to blame people for trying to avoid being killed, we cannot require them not to do so. As George Kateb puts it, Hobbes can be understood as asking, “With what right, with what possible authority, could anyone require a fellow creature not to try to preserve itself?” (“Hobbes and the Irrationality of Politics,” *Political Theory* 17, no. 3 \[1989\], 385).
 
 *[p. 15]* ^pg25
@@ -115,6 +125,7 @@ When introducing these concepts, Hobbes employs specific terminology and makes a
 The right of self-defense is a vestige of the right of nature. When one enters into civil society, one agrees to give up or transfer the large majority of one’s natural liberties. Every subject retains the right to defend her life from imminent deadly attack and to procure those things, such as food, necessary for immediate bodily survival, but no one any longer has the general right to do what simply appears advantageous. The right of self-defense is narrower than the right of nature, then, for two reasons. First, it only covers those actions undertaken in life-threatening situations. If the right of nature is the right to do what one judges necessary or conducive to one’s preservation, then the right of self-defense can be seen as the right to only the former.[^21] Second, the right of nature is such that it will be exercised on a regular basis in the state of nature. Since there are far fewer threats in civil 
 
 [^20]: *Leviathan*, 14.6–11.
+
 [^21]: In practice this distinction might be difficult to maintain; often it is hard to tell whether something is *really* necessary for someone’s survival, and there might not be a fact of the matter in all cases. The concept of necessity is somewhat vague, and there are a number of questions that Hobbes simply does not address (e.g., exactly how certain does one have to be that the threat is deadly? or how imminent must the threat be?). However these questions get resolved, it is clear that the right of self-defense will be much narrower than the natural right to whatever will help a person preserve herself.
 
 *[p. 16]* ^pg26
@@ -128,6 +139,7 @@ While the scope of the right of self-defense is much narrower than the scope of 
 A key political issue at the time Hobbes was writing (the early to middle seventeenth century) was the permissibility of resistance to an existing ruler. Debates raged over when, if ever, such resistance was legitimate. A host of interrelated and often conflated questions were brought to bear on this issue, including the nature of the relationship between subjects and 
 
 [^22]: *Leviathan*, 21.10, 21.12; also see *De Cive*, 6.13.
+
 [^23]: A number of people have questioned the success of this argument; e.g., Thomas S. Schrock, “The Rights to Punish and Resist Punishment in Hobbes’s *Leviathan*,” *Political Research Quarterly* 44, no. 4 (1991), 853–889.
 
 *[p. 17]* ^pg27
@@ -137,7 +149,9 @@ sovereign, the existence of natural rights and liberties, the source of the subj
 Both general questions about political obligation and specific questions about the right of self-defense have a long and interesting history; in what follows I wish to convey only a taste.[^24] For examples of positions that were influential for Hobbes and his contemporaries, one might turn to the views of Hugo Grotius or John Selden. Grotius insisted that the right of resistance was precisely what needed to be given up in order to create civil society. Yet he also claimed that the right of common property resumes in times of necessity, thus excusing breaking the law in such cases. Unlike Hobbes, Grotius separates such cases of necessity from cases of self-defense. But like Hobbes, he reserves to subjects certain rights of self-protection, though he includes rights Hobbes does not, such as the right to protect one’s chastity. Like Hobbes, he is adamant that it is never legitimate to use force (“to make war,” as Grotius calls it) against a superior; but unlike Hobbes, he takes this to rule out the legitimacy of using force to protect oneself against the state. Interestingly, though Grotius’s official position is antirebellion, he briefly acknowledges that rebellion might be allowed in certain severe circumstances, “the most extreme and inevitable danger.”[^25] His argument, as Richard Tuck characterizes it, is one of “interpretive charity”: we should not understand people as having renounced their right to resist in such extreme cases.[^26]
 
 [^24]: Much of what follows is influenced by the discussion in Richard Tuck, *Natural Rights Theories: Their Origin and Development* (Cambridge University Press, 1979). For other excellent discussions of the right of resistance in the context of the English Civil War, see Tuck, *Philosophy and Government*, chapters 6–7; John Sanderson, *“But the People’s Creatures”:  The Philosophical Basis of the English Civil War* (Manchester: St. Martin’s Press, 1989); J. P. Sommerville, *Politics and Ideology in England, 1603–1640* (London: Longman, 1986); and Perez Zagorin, *A History of Political Thought in the English Revolution* (New York: Humanities Press, 1966). For a discussion of the relevant history of the right of resistance leading up to the English Civil War, the canonical source is Quentin Skinner, *The Foundations of Modern Political Thought*, Vol. II, *The Age of Reformation* (Cambridge University Press, 1978). Lastly, Sommerville’s *Thomas Hobbes: Political Ideas in Historical Context* (Houndmills, UK: Macmillan, 1992) is an indispensable resource for those interested not only in the historical context of Hobbes’s philosophy, but also in the ways in which Hobbes’s views on particular issues were or were not original.
+
 [^25]: Hugo Grotius, *The Rights of War and Peace*, ed. Richard Tuck (Indianapolis, IN: Liberty Fund,
+
 [^26]: Tuck, *Natural Rights Theories*, 80.
 
 *[p. 18]* ^pg28
@@ -149,7 +163,9 @@ In the context of the English Civil War, appeals to the inalienable rights of su
 Similar sentiments were echoed in various speeches, pamphlets, and treatises calling for Parliament to defend the people of England against the enemy, the tyranny of absolute and arbitrary monarchical rule. Justifications of the rebellion also made use of notions of divided government and limited monarchy, charges that the king had acted illegally by, for example, levying taxes without the consent of Parliament, the claim that monarchs are accountable to their subjects and so could be rightfully punished, and general ideas about the fundamental rights and liberties of mankind. The cry of self-defense was used in conjunction with these 
 
 [^27]: John Selden, *Opera*, III, col. 2041; I, col. 638, quoted in Tuck, *Natural Rights Theories*, 96–97.
+
 [^28]: “A Remonstrance of the Lords and Commons,” cited in Sanderson, *Philosophical Basis for the English Civil War,* 15.
+
 [^29]: Henry Parker, *Observations*, quoted in Tuck, *Natural Rights Theories*, 104.
 
 *[p. 19]* ^pg29
@@ -161,7 +177,9 @@ The parliamentary rebels were not concerned with cases like Socrates’, or even
 Interestingly, many who held that public self-defense was not only permissible but obligatory were also concerned to deny the existence of a right of resistance that could be exercised by *individuals*. This caveat appears in most theories of resistance at this time – from the anonymously penned Huguenot tract, *Vindiciae contra tyranno* to Francisco Suarez’s *A Defence of the Catholic and Apostolic Faith* and John Locke’s *Second Treatise of Government*.[^32] And defenders of parliamentary resistance to the king in England in the first half of the seventeenth century were no exception. Parker himself was apparently loath to admit or discuss individual inalienable rights. Thus, while he agreed with Parker, Milton, and others 
 
 [^30]: John Milton, *The Tenure of Kings and Magistrates*, ed. William Talbot Allison (New York: Henry Holt & Co., 1911), 53.
+
 [^31]: Sommerville, *Hobbes: Political Ideas in Historical Context*, 34–35. Skinner provides a host of specific examples, including an especially perspicuous one from Suarez (*Foundations of Modern Political Thought*, Vol. II, 177).
+
 [^32]: Skinner discusses the few exceptions to this trend, suggesting that one of the most radical (at least among the Calvinist revolutionaries) was George Buchanan, who insisted on an individual right to kill or remove a tyrant (*Foundations of Modern Political Thought*, Vol. II, 333–334).
 
 *[p. 20]* ^pg30
@@ -173,7 +191,9 @@ Among the supporters of Charles I, talk of the subjects’ enduring right of sel
 A common concern in the sixteenth and seventeenth centuries was what to do in the event that the king issued an order in direct opposition to one’s understanding of the will of God. This happened quite frequently, given the proliferation of different sects of Christianity and 
 
 [^33]: Sir Robert Filmer, *Patriarcha and Other Writings*, ed. Johann P. Sommerville (Cambridge University Press, 1991).
+
 [^34]: King James VI and I, “Speech to Parliament of 21 March 1610” in *King James VI and I: Political Writings*, ed. Johann P. Sommerville (Cambridge University Press, 1994), 184.
+
 [^35]: Bramhall, “Catching of Leviathan,” 136.
 
 *[p. 21]* ^pg31
@@ -193,7 +213,9 @@ The real disagreement was over the existence of a right of self-defense that cou
 In order to explain why people would undertake a covenant requiring the renunciation of all of their natural rights, many of these royalists appealed to self-interested probability calculations. According to this argument, people in the state of nature will agree to “part with this right of self-defence” because “reason tells us, wee shall thereby obtaine a more excellent good, the benefit of Peace and Society … Because in probability; we shall be in lesse danger, living amongst men who have agreed to be governed by certaine Laws, then if every one followed his owne inclination.”[^39] It would be wise for people to give up their natural right of self-defense in exchange for membership in civil society, because it is so much safer to live under a system of enforceable and enforced laws than it is to live in their absence. Employing a quasi cost-benefit analysis, these royalists thus attempted to establish the rationality of divesting oneself of all of one’s natural rights, including and especially one’s right of self-defense. The central thought seems to be: given the expected benefit of living under peaceful rule and the small chance that one will be the victim of the punishment power of the state, it seems clear that it is in one’s own self-interest to agree to give up the totality of one’s natural rights in order to procure one’s safety. In all likelihood, one will live out one’s entire life without finding oneself in the kind of position where exercising the 
 
 [^37]: Ibid., 104.
+
 [^38]: The passage reads as follows: “though it should happen to me in particular, to be condemned by the Magistrate without cause, I am bound to suffer patiently, because having made such a bargaine, which might have beene profitable, I have no right to recall it, when it appears disadvantageous. I ow, that I have beene safe thus long, to the benefit of this Covenant, and therefore am bound in justice to share the inconveniences” (*An answer to a printed book*, sig. C3V, quoted in Tuck, *Natural Rights Theories*, 105). *An answer to a printed book* \[Parkers’ *Observations*\] was published anonymously, but, according to Tuck, the likely authors included Digges, Chillingworth, and other members of the Tew Circle.
+
 [^39]: Ibid.
 
 *[p. 23]* ^pg33
@@ -239,6 +261,7 @@ At certain points, Hobbes does allude to the function of the right of self-defen
 Third, while Hobbes sees self-defense as a subjective, permission right, the modern notion rejects both counts. The modern criminal code does take the subjective state of mind of the agent into account, but it also uses standards such as the reasonableness of belief. But most importantly, the modern conception of what it means to have a right stands in stark contrast with Hobbes’s conception of rights as “blameless liberties.” The presence of a Hobbesian right has only one effect: it determines the moral status of a person’s action when exercising the right. Having a Hobbesian right to some action only signifies that the action is morally permissible and that the actor has not committed an injustice. Acting with right has no normative effect on anyone else; no one has a duty to respect the right, and one’s action is still legitimately punishable by law. The inalienable right of self-defense allows a Hobbesian subject to retain moral innocence if she refuses to obey a command to commit suicide or otherwise resists the sovereign’s attempt to execute her. All Hobbes wants to establish is that there is no obligation to submit to deadly force and therefore no injustice when the subject does not. But the liberty to resist seems to make little difference in either practice or theory; it does not help to save a life (by, say, imposing duties on others to help), nor does it effect the moral status of the sovereign’s actions as he likely executes the subject anyway. It is no surprise, then, to find commentators disparaging the apparent weakness of the Hobbesian right of self-defense. James Martel, for example, 
 
 [^43]: John Locke, *A Letter Concerning Toleration,* ed. James Tully (Indianapolis, IN: Hackett, 1983), 31.
+
 [^44]: *Leviathan*, 27.25; but, more importantly, see *Leviathan*, 27.20.
 
 *[p. 27]* ^pg37
@@ -252,6 +275,7 @@ Finally, many of the questions and controversies about self-defense that are rel
 It is worth mentioning that while Hobbes’s accounts of the justification for and the scope of the right of self-defense are importantly different from that of modern times, it is possible that in practice they could come to resemble one another. A Hobbesian civil society can allow any legal right 
 
 [^45]: James R. Martel, “The Radical Promise of Thomas Hobbes: The Road not Taken in Liberal Theory,” *Theory and Event* 4, no. 2 (2000), 34; Gordon J. Schochet, “Intending (Political) Obligation: Hobbes and the Voluntary Basis of Society” in *Thomas Hobbes and Political Theory*, ed. Mary G. Dietz (Lawrence, KS: University Press of Kansas, 1990), 62; Deborah Baumgold, *Hobbes’s Political Theory* (Cambridge University Press, 1988), 29, 30. Despite these remarks, Baumgold does not deny that Hobbes’s right of self-defense holds theoretical interest; indeed, she devotes significant time to discussing it, giving one of the most useful analyses of the relevant historical and intellectual context. Baumgold simply dismisses the right of self-defense as *politically* uninteresting.
+
 [^46]: In her recent work, Eleanor Curran has challenged the assumption that Hobbesian rights are nothing more than bare freedoms incapable of affecting anything beyond the moral status of the right-holder. Curran defends a novel interpretation according to which Hobbesian rights are “protected,” so they can and do generate obligations on the part of others, both for other subjects and, surprisingly, for the sovereign. See *Reclaiming the Rights of Hobbesian Subjects* (Houndmills, UK:  Palgrave Macmillan, 2007). I find many aspects of Curran’s reading appealing, but her focus is not on the rights to act in *opposition* to the will of the sovereign, and I suspect that such rights fit only uneasily in her account.
 
 *[p. 28]* ^pg38
@@ -277,6 +301,7 @@ of self-defense pertains *solely* to the social contract. In my view, the claim 
 Hobbes discusses the question of the inalienable rights in all of his major works on political philosophy. For example, in *The Elements of Law* he says that “entering the commonwealth consisteth in the transferring of every man’s right of resistance against him to whom he hath transferred the power of coercion,” entailing that no subject has the right to resist the sovereign; however, this only holds “supposing the not-resistance \[is\] possible.” And while it “was necessary that a man should not retain his right to everything, so also was it \[necessary\], that he should retain his right to some things:  to his own body (for example) the right of defending, whereof he could not transfer.”[^48] Similar sentiments are also expressed in *De Cive*; but what appears to be the official version of Hobbes’s argument for the inalienability of the right of self-defense is found in Chapter 14 of *Leviathan.* On a natural reading of the pertinent passages in this chapter, Hobbes offers two different but related arguments for the inalienability of the right of self-defense: a conceptual impossibility argument and a psychological impossibility argument.[^49]
 
 [^48]: *The Elements of Law*, II.1.7; I.17.2. Tuck defends a different interpretation of Hobbes’s position in *The Elements of Law*; cf., Tuck, *Philosophy and Government*, 317. But see Sommerville, *Hobbes: Political Ideas in Historical Context*, 175–176 for a rebuttal of Tuck’s argument. My reading coheres with Sommerville’s on this point, but this dispute has no significant effect on the interpretive argument I give below.
+
 [^49]: It is debatable whether Hobbes is better understood as offering two arguments or two versions of the same argument. In *Leviathan*, they appear in the same chapter, but the psychological impossibility argument comes a number of paragraphs after the conceptual impossibility argument. While there is significant overlap between them, they represent sufficiently different lines of reasoning and it is useful to treat them separately. Other commentators, notably Claire Finkelstein and Jeremy Waldron, have also separated out these particular arguments, though they call them by different names. Finkelstein uses the “argument from benefit” and the “argument from involuntariness”; and Waldron calls them the “argument based on the *unintelligibility* of any covenant purporting to renounce the liberty of self-defense” and the “argument based on the impossibility of performing any such covenant” (see Finkelstein, “A Puzzle about Hobbes’s Right of Self-Defense,” *Pacific Philosophical Quarterly* 82, no. 3–4 (2001), 338–339; and Waldron, “Self-Defense: Agent-Neutral and Agent-Relative Accounts,” 719).
 
 *[p. 30]* ^pg40
@@ -290,6 +315,7 @@ Whensoever a man transferreth his right, or renounceth it, it is either in consi
 Hobbes’s emphasis in this passage is on the idea that there is nothing one can say or do that could be construed as agreeing to divest oneself of the liberty of defending one’s life. I can scream until I am hoarse that I agree not to resist you if you try to kill me, but I cannot thereby obligate 
 
 [^50]: *Leviathan*, 14.8.
+
 [^51]: Of course, calling something a “conceptual impossibility” argument has certain connotations that do not apply here. Transferring the right of self-defense is not a conceptual impossibility in the same way that a round square is a conceptual impossibility. I call this the conceptual impossibility argument because it emerges from the nature of the relevant concepts: the concept of transferring a right (it is a voluntary action) and the concept of voluntary action (it always aims at some good for oneself ). Add the premises that death is always the worst evil and so willingly submitting to one’s own death can never be seen to aim at some good to oneself, and you get the argument.
 
 *[p. 31]* ^pg41
@@ -317,7 +343,9 @@ As construed by the standard interpretation, Hobbes’s argument is that it is i
 Much of the received wisdom on Hobbes takes this strong premise about death to be at the center of his philosophical project, though this has increasingly become a matter of debate. There is a lot of textual support to understanding Hobbes in this way. He repeatedly characterizes death as the greatest of all evils and claims that man fears death, especially painful death, above all else. At one point he even says that man avoids death with the necessity that a stone falls downward.[^55]
 
 [^53]: *De Cive*, 2.18.
+
 [^54]: There are at least two ways of construing this impossibility. It could mean that no matter how hard one tries, one cannot choose the greater evil, or it could be understood as pointing to a principle of rationality that dictates choosing the lesser evil over the greater one.
+
 [^55]: *De Cive*, 1.7; see also *Elements of Law*, I.14.6. Of course, Hobbes is *not* saying that people always *in fact* act to secure their own lives. He was well aware of people who committed suicide and those who put their lives in grave danger to gain glory or for other trivial, unworthy reasons (e.g., *A Dialogue Between a Philosopher and a Student of the Common Law*, 116). But often he suggests that such people are irrational or insane. More specifically, he describes them as having diseased minds, or as confusing their apparent goods with real goods. So the claim Hobbes appears to be making, more accurately, is that death is always feared and avoided above all else for *normal* people.
 
 *[p. 33]* ^pg43
@@ -329,6 +357,7 @@ The principle of charity urges us to hesitate before accepting an interpretation
 Note that the unconditional claim about the badness of death is indeed necessary in order to establish the unconditional prohibition on ever giving 
 
 [^56]: J. W. N. Watkins, *Hobbes’s System of Ideas:  A Study of the Political Significance of Philosophical Theories* (London:  Hutchinson, 1973), 93; and Mark Murphy, “Hobbes on the Evil of Death,” *Archiv für Geschichte der Philosophie* 82, no. 1 (2000), 36–61. The claim is echoed in many of the canonical commentaries on Hobbes; for example, see Leo Strauss, *The Political Philosophy of Thomas Hobbes: Its Basis and its Genesis*, trans. Elsa Sinclair (University of Chicago Press, 1963), 121; and David Gauthier, *The Logic of Leviathan:  The Moral and Political Philosophy of Thomas Hobbes* (Oxford University Press, 1969), 7.
+
 [^57]: Hampton, *Hobbes and the Social Contract Tradition*, 15; Kavka, *Hobbesian Moral and Political Theory*, 80–81.
 
 *[p. 34]* ^pg44
@@ -354,8 +383,11 @@ Upon close examination, even the passages that seem to provide the most support 
 \[In the state of nature\] Amid so many dangers therefore from men’s natural cupidity, that threaten every man every day, we cannot be blamed for looking out for ourselves; we cannot will to do otherwise. For each man is drawn to desire that which is Good for him and to Avoid what is bad for him, and most of all the greatest of natural evils, which is death; this happens by a real necessity of nature as powerful as that by which a stone falls downward. It is not therefore absurd, nor reprehensible, nor contrary to right reason, if one makes every effort to defend his body and limbs from death and to preserve them. And what is not contrary to right reason, all agree is done justly and *of Right*. For precisely what is meant by the term *Right* is the liberty each man has of using his natural faculties in accordance with right reason. Therefore the first foundation of natural *Right* is that *each man protect his life and limbs as much as he can.*[^63]
 
 [^60]: *De Cive*, 6.13.
+
 [^61]: *Elements of Law*, I.9.4.
+
 [^62]: S. A. Lloyd, *Ideals as Interests in Hobbes’s Leviathan: The Power of Mind over Matter* (Cambridge University Press, 1992), 250–254. A number of others have also made the argument that Hobbes should not be interpreted as endorsing a view of human psychology in which death is always the greatest evil; e.g., Bernard Gert, “Hobbes’s Psychology” in *The Cambridge Companion to Hobbes*, ed. Tom Sorell (Cambridge University Press, 1996), 163.
+
 [^63]: *De Cive*, 1.7.
 
 *[p. 36]* ^pg46
@@ -369,6 +401,7 @@ Second, how does Hobbes argue for the right of nature, and what role does death 
 But there is an alternative reading. I suggest that Hobbes’s argument for the right of nature be taken not as a claim about what follows from 
 
 [^64]: Kavka, *Hobbesian Moral and Political Theory*, 81.
+
 [^65]: This point could be put another way: If it is necessary for the existence of an obligation that its fulfillment is possible, then “X is obliged to Φ” implies “X is able to Φ”; and by modus tollens, “X is not able to Φ” implies “X is not obligated to Φ.”
 
 *[p. 37]* ^pg47
@@ -396,6 +429,7 @@ Many fail to acknowledge, however, that Hobbes *does* recognize the validity of 
 (2)  If a person enlists in the army (by volunteering or accepting money), he is then obligated to stay and fight until given leave by his captain.[^68]
 
 [^67]: Finkelstein, “A Puzzle about Hobbes’s Right of Self-Defense,” 338.
+
 [^68]: These claims are drawn out in the text as follows: “Upon this ground a man that is commanded as a soldier to fight against the enemy, though his sovereign have right enough to punish his refusal with death, may nevertheless in many cases refuse without injustice, as when he substituteth a sufficient soldier in his place; for in this case he deserteth not the service of the common-wealth. And there is allowance to be made for such natural timorousness, not only to women (of whom no such dangerous duty is expected), but also to men of feminine courage. When armies fight, there is, on one side or both, a running away; yet when they do it not out of treachery, but fear, they are not esteemed to do it unjustly, but dishonorably. For the same reason, to avoid battle is not injustice, but cowardice. But he that enrolleth himself a soldier, or taketh imprest money, taketh away the excuse of a timorous nature, and is obliged, not only to go to the battle, but also not to run away from it without his captain’s leave” (*Leviathan*, 21.16).
 
 *[p. 39]* ^pg49
@@ -431,7 +465,9 @@ Hobbes does not use the term “reasonable expectations”; rather, he speaks in
 The reasonable expectations principle is a general principle of covenants on Hobbes’s account, and he uses it towards a number of ends. Most importantly, he invokes it to explain why covenants are invalid in the state of nature but valid in civil society. His general argument is that, In the state of nature agreements made by contract of mutual trust (by which both parties trust the other and neither makes any performance immediately) are invalid if a just cause for fear arises on either side. For most men are of evil character, bent on securing their own interest by fair means or foul; and so the man who performs his part first is laying himself open to the greed of the other party to the contract. For it is not reasonable for anyone to make performance first if it is not likely that the other will perform his part later … But in the civil state where there is someone to coerce both parties, whichever party is called upon to perform first should do so; since the reason why he was afraid that the other party might not perform no longer exists, as the other can be compelled.[^72] The Hobbesian state of nature is the paradigmatic example of conditions of distrust. Without a mechanism for the enforcement of covenants, there is no assurance that people will perform. In fact, as Hobbes makes clear in the passage above, it is unreasonable for a person to perform her part first just as it is unreasonable for the other party to expect her to do so. Thus, in the state of nature, there can be only “mere promises,” not 
 
 [^70]: *De Cive*, 2.11; *Leviathan*, 15.3, 14.27, 14.18 (emphasis added); *De Cive*, 2.10.
+
 [^71]: He thus describes conditions of trust as the lack of a “reason \[to be\] … afraid the other party might not perform” (*De Cive*, 2.10).
+
 [^72]: *De Cive*, 2.11. In *Leviathan* he makes a similar argument: “If a covenant be made wherein neither of the parties perform presently, but trust one another, in the condition of mere nature (which is a condition of war of every man against every man) upon any reasonable suspicion it is void; but if there be a common power set over them both, with right and force sufficient to compel performance, it is not void. For he that performeth first has no assurance the other will perform after, because the bonds of words are too weak to bridle men’s ambition, avarice, anger, and other passions, without the fear of some coercive power; which in the condition of mere nature, where all men are equal and judges of the justness of their own fears, cannot possibly be supposed. And therefore, he which performeth first does but betray himself to his enemy, contrary to the right (he can never abandon) of defending his life and means of living” (*Leviathan*, 14.18).
 
 *[p. 42]* ^pg52
@@ -445,6 +481,7 @@ To use a (perhaps) more Hobbesian example, suppose Alice and Charlie want to ins
 Notice that both of these putative covenants fulfill the two conditions stipulated by the conceptual and psychological impossibility arguments: there is some good to each party, and it is psychologically possible for the parties to perform. But, according to Hobbes, fulfillment of those 
 
 [^73]: *Leviathan*, 15.5.
+
 [^74]: *Leviathan*, 14.18.
 
 *[p. 43]* ^pg53
@@ -456,6 +493,7 @@ According to Hobbes, the “validity of covenants begins not but with the consti
 Note that there is one important exception to Hobbes’s general rule. If reasons for one party to doubt that the other will perform arise after a valid covenant is made, the covenant becomes void. Hobbes says, “The cause of fear which maketh such a covenant invalid must be always something arising after the covenant is made (as some new fact or other sign of the will not to perform), else it cannot make the covenant void.”[^76] Suppose Sue and Mary make an agreement that Mary will pay Sue an advance of \$500 to sing at Mary’s upcoming birthday party. If Mary discovers that Sue is coming down with laryngitis, Mary is no longer bound to give Sue the money. Their covenant was valid when they made it because each party’s expectations of fulfillment were reasonable, but it was invalidated when new information arose. Hobbes is very clear that reasonable suspicion of others’ reneging that arises after the initial agreement invalidates 
 
 [^75]: *Leviathan*, 15.3.
+
 [^76]: *Leviathan*, 14.20.
 
 *[p. 44]* ^pg54
@@ -471,6 +509,7 @@ As Hobbes construes it, transferring a right is a surprisingly complex process t
 Hobbes’s explanation of the practice of covenanting begins with the statement that words alone are insufficient to transfer a right; a “declaration of the will” is required. But the transferor can declare her will as clearly and forcefully as possible without thereby transferring the right; the recipient must also have “understood the words of the other party (the trusted party) as expressing the intention to perform at a specified 
 
 [^77]: Ibid., also see *De Cive*, 2.11.
+
 [^78]: *De Cive*, 2.5.
 
 *[p. 45]* ^pg55
@@ -484,7 +523,9 @@ This psychological story underwrites Hobbes’s views on trust and covenants. Wh
 Now, consider the parties to the social contract. The social contract is a contract of each with all. The parties have to draw on their general 
 
 [^79]: *Leviathan*, 14.14; *De Cive*, 2.7, 2.10.
+
 [^80]: *De Cive*, 2.12; *Leviathan*, 14.22 (emphasis added).
+
 [^81]: *Leviathan*, 14.21–24.
 
 *[p. 46]* ^pg56
@@ -546,8 +587,11 @@ presuppose that there are some rights which can be and presumably are retained.
 In describing the tenth law of nature (against arrogance), Hobbes suggests a criterion for determining what those rights are: “*at the entrance into conditions of peace, no man require to reserve to himself any right which he is not content should be reserved to every one of the rest*.”[^86] The principle seems to be that *a right can only be retained in the social contract if it can be retained by everyone without loss of peace.* It would be arrogant, on Hobbes’s account, to insist that you retain a right that is impossible for everyone to retain. For Hobbes, the only rights that can be retained are those that can be retained universally. This will be referred to as the “universality requirement.” Hobbes goes on to list the various rights that meet this requirement: As it is necessary, for all men that seek peace, to lay down certain rights of nature (that is to say, not to have liberty to do all they list), so is it necessary, for man’s life, to retain some (as, right to govern their own bodies, \[right to\] enjoy air, water, motion, ways to go from place to place, and all things else without which a man cannot live, or not live well).[^87] The paradigmatic right that can be retained “without the loss of peace” is the right of self-defense. Hobbes makes this point elsewhere by saying, Nor need the commonwealth itself require of anyone, as a condition of punishment, an agreement not to resist … Hence, if I am told to kill myself, I have no obligation to do so. So if I refuse, the right of government is not frustrated, since others may be found who will not refuse to carry out the order \[for me to die\].[^88] Since a subject’s death is easily secured by others, it is not necessary for that subject to be obligated to obey a command to commit suicide. The Hobbesian right of self-defense is merely a permission right; it does not impose any obligations on others to respect the right. The sovereign is just as powerful and has just as much ability to do the things for which he was instituted, without his subjects incurring this obligation.[^89] Indeed, whether they bind themselves in this way or not is irrelevant to the power and authority of the sovereign. The retention of the right of self-defense means only that if a subject disobeys the command to commit suicide, it is done without injustice. The sovereign is still able to kill the subject and is justified in doing so.
 
 [^86]: *Leviathan*, 15.1, 15.22.
+
 [^87]: *Leviathan*, 15.22.
+
 [^88]: *De Cive*, 2.18, 6.13.
+
 [^89]: S. A. Lloyd makes a similar point, saying:  “the stability of the mighty commonwealth which has the power to punish us without our cooperation, does not depend on our willingness to refrain from attempting to defend ourselves” (S. A. Lloyd, “Hobbes’s Self-Effacing Natural Law Theory,” *Pacific Philosophical Quarterly* 82, no. 3–4 (2001), 298.
 
 *[p. 51]* ^pg61

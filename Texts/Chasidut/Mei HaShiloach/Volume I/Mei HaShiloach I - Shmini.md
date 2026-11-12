@@ -72,10 +72,17 @@ The rabbit teaches of brazenness. Even though he sees within himself that there 
 **Torah:** [[Torah 16 - Beshalach#^16-20|Exodus 16:20]]
 
 [^1]: The sons of Aharon each offered a censer full of incense but lit it from “outside fire,” and as R. Shlomo Carlebach once explained, they were trying to bring the Messiah, by making the outside fire like the inside fire.
+
 [^2]: Perhaps because the smoke from the incense rises up to connect heaven and earth, or because the ten *sefirot* and the surrounding light out of which all is formed are hinted at in the eleven spices in the incense. Furthermore, as mentioned elsewhere, Rabbi Yitzhak of Acco writes in his explanation *Meirat Eineihem*, that smoke, *ashan*, is an acronym for: *olam, shana, nefesh*, meaning place, time, and soul, the three main components of existence, as discussed in the *Sefer Yetsirah.*
+
 [^3]: Meaning that anyone who merits to enter into a height of the secrets of the Torah as they did, must be as the Cohen Gadol, the high priest, and be enwrapped in the intense fear of God.
+
 [^4]: Rav Nehemiah explains it in this way: ‘Wherefore have ye not eaten’ etc? (*Vayikra*, [[Torah 26 - Shmini#^10-17|10:17]]). ‘Perhaps,’ said Moshe to Aharon, ‘its blood entered the innermost sanctuary?’ [and therefore should have been burned]. ‘The blood was not brought into the sanctuary’, he answered. ‘Perhaps it was taken outside of the boundary [taken outside of the Temple, and therefore should have been burned]?’ he suggested. ‘It was in the sanctuary’, he replied. ‘And perhaps you offered it in a state of mourning, and thus disqualified it?’ ‘Moshe’, he answered, ‘did my sons offer it? I offered it.’ Then he exclaimed, ‘Behold, the blood of it was not brought within, and it was in the sanctuary, then you should certainly have eaten it, as I commanded, that they should eat it in a state of mourning.’ He said to him: ‘And there have befallen me such things as these, and if I had eaten the sin-offering today, would it have been pleasing in the sight of the Hashem (*Vayikra*, [[Torah 26 - Shmini#^10-1|10]])? Perhaps you heard it in this way only about sacrifices of the hour (special sacrifices)? For if [you would apply it] to the [regular] sacrifices for all generations, [you may argue] *a minori* from tithe, which is of lesser holiness. For if the Torah said of the tithe, which is of a lesser holiness, “I have not eaten thereof in my mourning,” how much the more does it apply to sacrifices, which are more holy?’ When Moshe heard that, it pleased him. He admitted his mistake and Moshe was not ashamed to say, ‘I had not heard it’, but said, ‘I heard it and forgot.’
+
 [^5]: The first dispute was between the sun and moon, who were originally both great lights, equal in size. The moon asserted “two kings cannot wear the same crown,” so God told the moon, “go and reduce yourself.” This is, as it were, the introduction of dispute in the world.
+
 [^6]: *Regel* in Hebrew means both “habitual” (*hergel*) and “foot.”
+
 [^7]: Meaning, if God’s name surrounds it, then it is always good.
+
 [^8]: A zealot may harm one found having intercourse with an Aramite, as Pinchas did.

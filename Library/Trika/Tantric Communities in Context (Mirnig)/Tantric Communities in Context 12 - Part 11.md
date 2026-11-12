@@ -25,7 +25,9 @@ When kings are overpowered by enemies with an army (or: by strong enemies), when
 The above description was used by Begley to illustrate how the sixteen-armed Sudarśana is closely connected to the theme of warfare.[^29] 
 
 [^27]: This might be further evidence for the existence of a common ancestor of ABC and EF, as proposed above.
+
 [^28]: AhS 37.4–6: *parair abhibhave prāpte rājñāṃ balasamanvitaiḥ | nagareṣu pradagdheṣu rājñāṃ vidrāvite bale* || 4 *uparuddheṣu bhogeṣu tattadviṣayavāsinām |* *pīḍyamāne parabalair itthaṃ rāṣṭre mahāmune* || 5 *sthitāv anupapannāyāṃ rājño* *’vyucchinnavairiṇaḥ | kārayet ṣoḍaśabhujaṃ sudarśanam avāritam* || 6 (4c *pradagdheṣu* \[ed.\] – *prabhinneṣu* \[A B E F\]; 4d *rājñāṃ* \[ed.\] – *rājye* \[D\]; 4d *bale* \[ed.\] – *balaiḥ* \[D\]).
+
 [^29]: Cf. BEGLEY 1973: 73.
 
 *[p. 374]* ^pg393
@@ -39,6 +41,7 @@ Horses, elephants, and ministers suddenly perish; the king himself suffers from 
 If the hostile spirit (*kṛtyā*) born of the enemy’s aggressive ritual takes possession of the king, the latter would die on the spot, simply after having seen her, there is no doubt about that. \[The king’s\] sons, ministers, chief queen as well as the city itself – the hostile spirit, clad in a garland of flames, destroys everything in just a second.[^31] 
 
 [^30]: All these images are notoriously negative, especially the southward journey, i.e., to Yama’s region.
+
 [^31]: AhS 42.15–26: *lakṣyate lakṣaṇair etair nṛpāṇām ābhicārikī | vikṛtiḥ prastutākāle dāruṇā sarvagocarā* || 15 *akāṇḍa eva naśyanti vājivāraṇamantriṇaḥ | tīvrāma-yaparītāṅgaḥ pīḍyate nṛpatiḥ svayam* || 16 *patanty aśanayas tasya viṣaye ghorada-rśanāḥ | alpasasyā vasumatī vinaśyanti gavāṃ gaṇāḥ* || 17 *bhavanti tasya viṣaye punaḥ punar avagrahāḥ | tīvrāmayagṛhītāś ca mahiṣyas tasya bhūpateḥ* || 18 *prabhavanty ahivalmīkāḥ prāsāde dvāri maṇḍape | nipatanti maholkāś ca bhṛśaṃ bhīmasvanā-nvitāḥ* || 19 *mantriṇaś ca virudhyante matsareṇa parasparam | rajanyāṃ rājate bhīmam aindraṃ dhanur anabhrajam* || 20 *itas tato vahnibhayaṃ nagare jāyate bhṛśam | praviśya garbhabhavanaṃ kroṣṭāraś cānivāritāḥ* || 21 *krośanti saṃdhyayor bhīmā dīptāyāṃ diśi visvaram | rundhanti nagaraṃ rājñaḥ śatravo baladarpitāḥ ||* 22 *kṛtyākṛtyaṃ na jānāti svayaṃ staimityam āsthitaḥ | svapne ’pi paśyaty ātmānaṃ muṇḍitaṃ nīlavāsasam* || 23 *rathena gardabhayujā vrajantaṃ dakṣiṇāṃ diśam | ityā-diliṅgair jānīyād abhicāraṃ sapatnajam* || 24 *parābhicārajā kṛtyā rājānaṃ praviśed yadi | tāṃ dṛṣṭvā kṣipram evāsau vinaśyati na saṃśayaḥ* || 25 *putrāṃś ca mantriṇaś cāpi mahiṣīṃ nagaraṃ tathā | jvālāmālāvilā kṛtyā sarvaṃ nāśayati kṣaṇāt* || 26 (19a *prabhavanty ahi* \[ed.\] – *prabhavanty api* \[A B E F\]; 20c *rājate* \[ed.\] – *jāyate* \[D\]; 20d *anabhrajam* \[ed.\] – *anabhrakam* \[A B E F\]; 23b *āsthitaḥ* \[ed.\] – *āśritaḥ* \[A B E F\]).
 
 *[p. 375]* ^pg394
@@ -48,7 +51,9 @@ Once again, as expressed in the following lines, it is the worship of Sudarśana
 As previously mentioned, benefits of a more personal kind are also promised to rulers. One could interpret some of them, such as freedom from diseases or attainment of a long life, as an extension of the theme of protection. Other benefits, such as attainment of wealth, can be connected with a different theme, that of the fulfilment of desires, which receives considerable attention, since a whole complex ritual is devoted to it (the *mahābhiṣeka* ritual of *adhyāya* 39, see below). 
 
 [^32]: Cf. *Viṣṇudharmottarapurāṇa*, *khaṇḍa* 2, *adhyāya* 136ff. The description is quite detailed and explicitly refers to kings, speaking of how their safety as well as that of their kingdoms might be at risk in the presence of certain bad omens. As could be expected, much space is devoted to unusual natural phenomena. There is also a section on interpreting animal behaviour (cf. 2.143). As in the AhS, there are also references to a decline in people’s ability to behave according to social standards and regulations (cf. 2.144).
+
 [^33]: Cf. SANDERSON 2004: 262.
+
 [^34]: Cf., for example, the story of Indra (AhS 43–44) and that of Citraśekhara (AhS 49). For summaries of the stories, cf. SCHRADER 1916: 132ff. and RASTELLI in this volume.
 
 *[p. 376]* ^pg395
@@ -66,10 +71,15 @@ So far, the main focus of this papers has been on the *adhyāya*s on *yantra* wo
 Besides the ritual of initiation (*dīkṣā*, AhS 20) and the daily ritual (*ārādhana*, AhS 28), which are quite clearly connected to a courtly context,[^40] the repertoire of the AhS includes: a ritual to aid the conquest in all 
 
 [^35]: For further considerations on the functions of narratives in the AhS, see RASTELLI’s contribution in this volume.
+
 [^36]: Cf. also AhS 37.18.
+
 [^37]: AhS 37.50–51: *evaṃ bahuvidhai rūpair upetaṃ taṃ sudarśanam | kṛtvā tam apratiṣṭhāpya rājāno mantriṇo ’pi vā* || 50 *vinaṣṭasaṃpadaḥ sadyaḥ paribhūtāś ca śatrubhiḥ | arcanābhāvato rājyād bhraṣṭāś ciram upadrutāḥ* || 51.
+
 [^38]: Cf., for example, AhS 47.9ff. The identification of the kings of the narratives with those found in the epic is a central issue in RASTELLI’s contribution in this volume.
+
 [^39]: Cf. the beginning of *adhyāya* 25.
+
 [^40]: In the case of the *dīkṣā* ritual description, the courtly dimension is inferred from a passage at the end of the chapter: “The practice is to be performed for the protection of the three worlds, for the sake of the \[welfare of the\] earth, for the sake of the kingdom, the king, or a royal officer. \[It should be done\] only for \[their\] good, never for evil \[purposes\].” (AhS 20.50b–51: *trailokyasyātha rakṣāyai bhuvaś cakrasya vā kṛte* || 50 *rāṣṭrasya vātha rājño vā rājamātrasya vā kṛte* | *bhāvāyaiva vidhiḥ kāryo naivābhāvāya karhicit* || 51). In the case of the daily ritual this is slightly less explicit. Notice, however, that its benefit include victory, gaining territory, and dealing with enemies (AhS 28.1–2).
 
 *[p. 377]* ^pg396
@@ -93,9 +103,13 @@ One possible explanation for this could be that the intention of the redactors i
 Another missing element in the AhS is the practical side of warfare. Annual ceremonies celebrating military power, worship of weapons or horses, battle strategies – none of this is dealt with. The only hint at a dimension which goes beyond those of courtly rituals or literary fancy is the idea that *yantra*s or divine weapons could be of actual help in difficult situations if one meditates on them. Explicit evidence for this is difficult to find outside of the narratives proper.[^45] Nevertheless, a couple of passages in the AhS are very interesting in this regard, and their very existence points at a much wider background of the practice of magic for practical military purpose.[^46] Again, both the *Viṣṇudharmottara* and the *Netratantra* are quite explicit about this dimension.<sup>47</sup> 
 
 [^42]: SANDERSON 2005: 239.
+
 [^43]: It is interesting to note that calendrical rituals and even minor services of the *purohita* figure prominently both in the *Viṣṇudharmottara* and the *Netratantra* (cf. SANDERSON 2004: 256.).
+
 [^44]: Reparatory rituals are not entirely absent from Pāñcarātra scriptures addressing kings. Saṃhitās which include this kind of procedures are mentioned in CZERNIAK-DROŻDŻOWICZ 2003: 142ff.
+
 [^45]: Cf., for instance, the story of Sumati (48.64ff.), where the “soporific” weapon (*prāsvapana*) and the “fiery” one (*āgneya*) are deployed by the king in order to win the battle.
+
 [^46]: Cf., for example, this interesting statement: “He who remembers this at the time when fear comes about or in battle or during a debate has victory in his hand. One should not doubt this.” (AhS 26.80: *bhayāgame ca saṃgrāme vāde vā yaḥ smared idam* | *vijayas tasya hastastho nātra kāryā vicāraṇā* ||). Also relevant is a variant reading found in a passage about divine weapons. While the edition reads *eṣāṃ darśanamātreṇa vinaśyanty arisainikāḥ* ||, “Merely at their (i.e., of the divine weapons) sight, the hostile soldiers will perish” (AhS 40.7cd), ABE and F read *eteṣāṃ dhyānamātreṇa*, “by the mere concentration on these,” which makes the idea of a deliberate deployment of their power more explicit.
 
 *[p. 379]* ^pg398
@@ -111,7 +125,9 @@ The AhS is quite an extraordinary source of information about the strategies set
 47\. Cf. SANDERSON 2004: 248 and 255ff.
 
 [^48]: I am grateful to Somadeva Vasudeva and Péter-Dániel Szántó for pointing this out to me. The presence of such idioms is virtually found throughout the work. Particularly striking is the fact that enemies are placed at the top of a long list of threats found in chapter 10. For a statement concerning control over the entire earth, one could turn to SLP 29.30. The work also knows of the need to counter hostile magic (cf. 30.23).
+
 [^49]: Particularly striking in this regard are the chapters on Vijayadaśamī (108) and Kumārīpūjā (110).
+
 [^50]: The final chapters of the work (starting with 128) are rich in such descriptions and convey a more detailed picture of ritualised warfare at the court. The section on fortresses starts with chapter 31, whereas mention of the worship of weapons can be found embedded in the description of various rituals and festivals, as for example ad SLP 105.10.
 
 *[p. 380]* ^pg399
@@ -129,7 +145,9 @@ The first edition, however, includes a manuscript description in Sanskrit which 
 The apparatus of both editions is a negative one, which enhances the chances of committing mistakes while recording the variants.[^53] Distinctions between omissions and actual loss of the substratum (entire leaves or pages) seem to follow (in the second edition) the nomenclature of “omission” / 
 
 [^51]: General remarks about Schrader’s difficulties in supervising the editorial work during the years of the First World War are found in the introductory lines to both editions.
+
 [^52]: However, the adjective “old” figures in the descriptions of A, C, and D.
+
 [^53]: Obviously, a siglum could be easily omitted. It is the knowledge of the stemma which helps detect the possibility of such mistakes. Unfortunately, in the case of the AhS the relations between the manuscripts are far from clear. An easily detectable mistake is made instead when a siglum is assigned contemporarily to two different readings, as it has happened with B ad AhS Ed<sup>2</sup>: 319.
 
 *[p. 381]* ^pg400
@@ -141,8 +159,11 @@ A description of the stemma can be found in Schrader’s “Introduction to the 
 Unfortunately, as can be seen from a few common omissions and errors, all of these MSS. go back to one already corrupted original. Still, on the whole the Saṃhitā is well preserved. The two oldest and best MSS. are those called E and D. The former is a Grantha MS. from Kalale in Mysore, the latter a MS. written in the Malayālam character and belonging to H.H. the Mahārāja of Travancore. E is more accurate than D. From E descend the four Melkote MSS. F to H, all of them written in Grantha characters and so completely identical that the common symbol F could be used for them. From D (or a similar MS.) descend C, A and B (in this order); C being the Adyar Library paper MS. in Grantha characters (with large omissions), A the Adyar Library palm-leaf MS. in Grantha characters, and B the Telugu MS. belonging to the Mysore Government. The badly damaged Tanjore MS. described in Burnell’s catalogue could not be borrowed and was, on inspection, found to be not worth taking into account.[^57] 
 
 [^54]: Cf., for example, AhS Ed<sup>2</sup>: 296 and 345. The apparatus reports the loss of folios of ms. C, which is correctly described as “incomplete” in the manuscript description.
+
 [^55]: Cf. AhS Ed<sup>2</sup>: 89.
+
 [^56]: Cf. AhS Ed<sup>1</sup>: 153.
+
 [^57]: SCHRADER 1916: 94.
 
 *[p. 382]* ^pg401
@@ -156,8 +177,11 @@ For example, as many as 25 of D’s omissions and additions (which run throughou
 Another aspect regards the use of sigla to refer to more than one manuscript. SCHRADER (1916) writes: “\[...\] the four Melkote MSS. F to H, all of them written in Grantha characters and so completely identical that the common symbol F could be used for them.” The four manuscripts are actually F, G, H, and I, with I being coupled with H in the manuscript description of both editions. As far as evident to the present author, manuscripts H and I are never found in the apparatus, probably because the siglum F, which appears regularly in the work, was indeed used to indicate them. However, on a few occasions G is actually found in the apparatus of both editions. G appears to be mentioned only at the beginning of the first volume and to always follow F.[^61] Nevertheless, the siglum F is found alone for other variants on the very same pages. Again, one would be tempted to have a look at the originals. 
 
 [^58]: For instance, when only A and E omit a text portion (AhS Ed<sup>2</sup>: 567) or even supply the same text (AhS Ed<sup>2</sup>: 569).
+
 [^59]: Cf. AhS Ed<sup>2</sup>: 5, 29, 35, 71, 91, 117, 121, 127, 146, 149, 152, 156, 159 (twice), 168, 195, 210, 251, 252, 263, 265, 273, 278, 324, and 381.
+
 [^60]: Cf. AhS Ed<sup>2</sup>: 124, 149, 194, 198, 205, 255, 258, 322, 587.
+
 [^61]: Cf., for example, AhS Ed<sup>2</sup>: 34, 36, and 47.
 
 *[p. 383]* ^pg402
@@ -229,7 +253,9 @@ Dominic Goodall[^2]
 The principal concern of this paper is the emergence of festivals (*mahotsava*) within the Mantramārga. It is well-known that elaborate *mahotsava*s involving numerous processions, typically with different vehicles on every day and attended by a socially diverse community of actors, are taught in several South Indian Temple Āgamas.[^3] But such events are not mentioned at all in pre-twelfth-century sources of the Śaivasiddhānta, whose focus is the religion of individual initiates aspiring to liberation (or, particularly in the earlier sources, aspiring first to enjoy supernatural powers before reaching
 
 [^1]: This is the second of a planned series of articles about Paddhatis of the Śaivasiddhānta, the first, about Rāmanātha, being GOODALL 2014.
+
 [^2]: This article is the revised version of a conference paper entitled “A note on *damanotsava* (a spring rite of reparation) and on the twelfth-century Saiddhāntika ritual manual called the *Jñānaratnāvalī*” given at the international symposium *Tantric Communities in Context: Sacred Secrets and Public Rituals*, organised at the Austrian Academy of Sciences in Vienna on February 5–7, 2015 in the context of an SFB project called “Visions of Community.” I am grateful to Diwakar Acharya for having informed me about the Nepalese manuscripts that transmit Damana-related material that I have quoted in this paper and to Shaman Hatley and Harunaga Isaacson for having offered numerous improving suggestions to the editions that figure in the appendix when I prepared them for a handout. Unfortunately, because I was in a rush, I seem not always to have noted which improvements were made by whom.
+
 [^3]: For an excellent recent study of an account attributed to the twelfth-century South Indian exegete Aghoraśiva, see DAVIS 2010. For the improbability of this attribution, see PADOUX 2014: 427, quoting GOODALL 1998: xiii–xvii, n. 24.
 
 *[p. 386]* ^pg405
@@ -241,8 +267,11 @@ But even though we have no detailed evidence from the early scriptures of the Ma
 \[11\] He who, on the calendrical festival days (*parvan*), performs the organisation of great *pūjā*s, or of chariot-processions for Śiva by processing inside the town, \[12\] with great multi-coloured flags, parasols with bells and capes, rows of flags on canopies, with bells, yak-tail whisks and mirrors, \[13\] with the sounds of conches, drums and the like, mixed up with singing and instrumental music and such, with the Mothers, *yakṣa*s, *gaṇa*s[^7] and others \[in the form of (?)\] puppets (*yantraiḥ*?) made of painted wood, \[14\] with machines that produce water and fire and with many marvels in plenty, and with swings \[for?\] women, and wheel-machines (?), \[and\] adorned (°*śobhitām*) with chariot-palaces, 
 
 [^4]: Devyāmata, NGMPP A 41/15, f.56r: *gāyakān nṛtyakān nagnān dīnā-ndhakṣapaṇān śiśūn* | (emended from *gāyakā nṛtyakā nagnā dīnāndhakṣapaṇāśiśūn*) *bhakṣabhojyādibhis tarpya tarpitāṃs tān* (emended from *tārpitas tāṃ*) *kṣamāpayet* | *rātrau mahotsavaṃ kāryaṃ gītavāditranisvanaiḥ* |.
+
 [^5]: HAZRA (1985: 296) has proposed dating the *Śivadharmaśāstra* to between 200 and 500 CE. BISSCHOP (2010: 243) cautiously remarks that “this early dating remains to be confirmed.”
+
 [^6]: The text here is based on a collation of NGMPP A 3/3 \[Nepal\] *samvat* 321 \[scil. 1201 AD\], f.27v–28r (= A); NGMPP B 7/3 \[Nepal\] *samvat* 290 \[scil. 1170 AD\], f.26r– 26v (= B); IFP T. 32 (C20th transcript of a Grantha palm-leaf ms.) (= T); and the Nepalese “print” (hand-written by the editor for these verses) of Naraharinath (= E).
+
 [^7]: Mothers (*mātṛ*), nature spirits (*yakṣa*), and Śiva’s “troops” (*gaṇa*) are three classes of potentially threatening semi-divine creatures.
 
 *[p. 387]* ^pg406
@@ -294,6 +323,7 @@ We observe here that this myth, which in this extremely abridged form makes no a
 <sup>13</sup> BRUNNER (1968 \[SP2\]: 202) translates *samānatvāt* with “puisque \[les deux écoles\] sont dans la même position;” but it is perhaps more likely that Somaśambhu uses 
 
 [^14]: SP2 2.1–5 (From volume 2 of Brunner’s edition \[1968: 196ff\]. In the Kashmirian edition \[KSTS\], these verses are 496–501.): *harakopāt purā jāto bhairavo da-manāhvayaḥ* | *dāntās tena surāḥ sarve dānavāś ca mahābalāḥ* || 1 || *prītenātha śivenokto*: *viṭapo bhava bhūtale*! | *tāṃ tanuṃ tvam anuprāpya madbhogāya bhaviṣyasi* || 2 || *pūjayiṣyanti ye martyā devaṃ tvatpallavādibhiḥ* | *te yāsyanti paraṃ sthānaṃ damana tvatprabhāvataḥ* || 3 || *ye punar na kariṣyanti dāmanaṃ parva mānavāḥ* | *teṣāṃ te caitramāsotthaṃ dattaṃ puṇyaphalaṃ mayā* || 4 || *svacchandabhairave tantre yady apīdam udāhṛtam* | *tathāpīha samānatvāt siddhānte ’py upayujyate* || 5 ||. 1c *tena surāḥ*\] Brunner; *tenāsurāḥ* KSTS 4c *te*\] Brunner; *na* KSTS 5d *upayujyate*\] Brunner; *upapadyate* KSTS.
+
 [^15]: Cf. verse 24 of Appendix III, which contains the same odd justification for the performance of the rite. Kacchapeśvara’s commentary on Aghoraśiva’s *Kriyākramadyotikā* recounts a myth that takes into account the elements mentioned by Somaśambhu (see BRUNNER 1968 \[SP2\]: 198–199), but this may well be the result of Kacchapeśvara joining up the dots to “explain” Somaśambhu’s allusion, rather than of Kacchapeśvara recounting the myth that Somaśambhu actually knew.
 
 *[p. 391]* ^pg410
@@ -303,7 +333,9 @@ calendar or that he considers himself to be close in time to the moment of its i
 … mais aucune référence n’est faite aux *Āgama* ou *Upāgama* dont nous avons dit plus haut qu’ils avaient le même chapitre que nous (ce qui, entre parenthèses, peut faire naître des doutes quant à l’ancienneté de l’*Uttara-Kāmika* et de l’*Acintyaviśvasādākhya*). Quoi qu’il en soit, le fait même que Somaśambhu soulève le problème de la légitimité de ce rituel pour les Śaivasiddhāntin, montre qu’à son époque au moins il n’était pas couramment pratiqué dans ce milieu śivaïte, et que les sectes du *Trika* (où Bhairava joue un rôle infiniment
 
 [^16]: Madras GOML M. 14735, p. 89: … *ata eva brahmaśambhupādaiḥ pavitrotsave damanotsave ’pi dīkṣā kāryety uktam* “*cāturmāsyanimittāni vaiśākhīdamanotsavaḥ*” *iti*. For the date of the composition of Brahmaśambhu’s work in 937/938 CE, see GOODALL 2004: xx and SANDERSON 2014: 20.
+
 [^17]: The passage in question is quoted by BRUNNER 1968 (SP2): 203.
+
 [^18]: Cf. BRUNNER 1968 (SP2): xiv: “\[...\] il serait bien téméraire de notre part de déclarer sans autre preuve que ces deux textes, ou tout au moins quelques-uns de leurs chapitres, sont postérieurs à Somaśambhu.”
 
 *[p. 392]* ^pg411
@@ -315,6 +347,7 @@ Brunner had, in other words, begun to ask many of the questions addressed in thi
 But let us now turn to the *Jñānaratnāvalī*’s account. Rather than give the whole text of Jñānaśambhu’s chapter here, which would involve giving a complete translation and would therefore in turn mean getting wrapped up in the intricacies of interpretation of all its many ritual elements, I have 
 
 [^19]: BRUNNER 1968 (SP2): xiv: “… la décision de Somaśambhu a eu des conséquences durables puisque Aghoraśiva, dont on sait que ses livres font encore autorité, devait reprendre la damanapūjā dans son manuel de rituel privé, et surtout dans son manuel de rituel public, si bien que nombreux sont encore de nos jours les temples du Sud qui célèbrent ce festival printanier.”
+
 [^20]: I speak of “traditions” in the plural, because I mean to include also Pāñcarātra temple worship. It seems natural to suspect borrowing from the Śaivas by the Pāñcarātra in this case, since the border between the Śaiva and the Vaiṣṇava Temple Scriptures seems to have been porous in the post-twelfth-century period and there are many other instances of shared notions and terminology that must have developed in the shared South Indian temple milieu. Examples that come to mind that illustrate this are, for instance, the practices referred to as *diśāhoma* and *nityotsava* (q.v. in TĀNTRIKĀBHIDHĀNAKOŚA 3), and terminology that occurs in the South, such as *mūlabera* (“principal image of worship”).
 
 *[p. 393]* ^pg412
@@ -344,6 +377,7 @@ Once again, as for Somaśambhu, the detailed rite that follows consists essentia
 This is an annual rite of reparation for all omissions and mistakes committed in rituals. Whereas a given *prāyaścitta*\*, an exculpatory rite taught for a particular transgression, is of course only to be performed after committing such a transgression, the *pavitrārohaṇa* is an annual ceremony. The rite is thus logically to be classed as a regular obligatory one (*nitya*\*), but some works treat it as *naimittika*\*, e.g. SP2 1.7. As for the time of its performance, certain days in the four-month period 
 
 [^21]: *Īśānaśivagurudevapaddhati*, *kriyāpāda* 22.14: *tathā sa śapto ’mbikayā tathābhavat kṣaṇena vīrud damanāhvayas tadā | smarāṅgabhasmany abhirāmasau-rabhaḥ sukomalāṅgai ratibāṣpasekajaḥ ||*.
+
 [^22]: ZOTTER 2010\*: 179 and 203: “In der Literatur wird *damanaka* durchweg als *Artemisia vulgaris* L. (Syn. *A*. *indica* WILLD; fam: Asteraceae) identifiziert. Eine solche Identifikation wurde aber von allen von mir befragten Ritualspezialisten abgelehnt. Newars benutzen heutzutage eine wohlriechende, buschige Pflanze \[…\], deren botanisches Äquivalent ich bislang noch nicht bestimmen konnte. Es könnte sich dabei um eine regional begrenzte Identifikation handeln, denn diejenige Pflanze, die man mir in Benares als *damanaka* präsentierte, war wiederum eine andere.”
 
 *[p. 395]* ^pg414
@@ -373,6 +407,7 @@ On the eleventh day of the brightening fortnight of Caitra (*madhoḥ*) after co
 \[Here is\] the *mantra* for that: “Obeisance to you Aśoka (/sorrow-free), O Kāma, O destroyer of the sorrow (*śoka*) caused by women. Remove the suffering of sorrow from me; bring about joy for me 
 
 [^24]: I should state at once that it is in no way my intention to give a complete list of textual accounts of spring festivals, since these may be found referred to in other works, such as that of ANDERSON (1993), nor even of all accounts of Damana-related worship in the month of Caitra. References to many more such accounts may be found given, for instance, in the *Jayasiṃhakalpadruma* (pp. 440–445), which mentions (p. 440) that it draws upon the *Madanaratna*, the *Brahmapurāṇa* quoted in the *Nirṇayāmṛta*, the *Nṛsiṃhaparicaryā*, and the *Rāmārcanacandrikā*. Of course one may also consult KANE (V/1: 310–311), who quotes particularly from other Dharmanibandha works, and the work of MEYER (1937). (My attention was drawn to MEYER’s remarkable, richly referenced, and extremely stimulating book, in which he devotes a large section to *damanaka* called “Kāmadeva als Beifuß” (1937: 38–53), by ZOTTER’s thesis (2010\*). Only a few lesser known accounts and ones that are especially relevant to our theme are treated here.
+
 [^25]: I am grateful to Dr. Måns Broo for kindly drawing my attention to this passage (after seeing online the abstract for this paper before it was delivered in Vienna in February 2015) and for sending me pages of a Bengali-script edition. For a useful characterisation of the *Haribhaktavilāsa*, which appears to have been composed in 1534, see BROO 2003, in particular pp. 20–23.
 
 *[p. 397]* ^pg416
@@ -390,7 +425,9 @@ And upon the Damana, in the eight directions beginning with the East, he should 
 Having recited over him the Kāmagāyatrī 108 times and having given a handful of flowers, he should venerate Kāmadeva using *mantra*s. 
 
 [^26]: There are a couple of doubtful points here. If one begins with worship of the Aśoka tree, it seems odd that the end of the ritual speech is addressed to the Damana plant, which is to be taken away according to the text that follows. Perhaps *aśoka*, “griefless,” is intended rather to be a description of the Damana plant? And yet Kāmadeva, as well as being identified with the Damana, is evidently also identified with the Aśoka tree in the previous verse, as well as frequently elsewhere (see MEYER 1937, in particular pp. 33–38, in which he comments in particular on *Bhaviṣyapurāṇa*, *uttaraparvan* 135). A related problem is that of *vṛkṣa*, which we have taken to be a vocative, even though we do not expect Damana to be any larger than a small shrub. But should we instead understand it to be part of a compound, *vṛkṣapūjārthaṃ*? The size and type of plant Damana is, by the way, not referred to with any degree of consistency in our sources: some texts refer to the Damana with expressions such as *taru* and *vṛkṣa* (see, e.g., verses 20 and 22 of Appendix III) and others, like for instance chapter 2.45 of the *Vaiṣṇavakhaṇḍa* of the *Skandapurāṇa*, refer to it consistently as a sort of grass (*tṛṇa*).
+
 [^27-p397]: Perhaps each has a *mantra* that involves a seed-syllable based on the first letter of his name: KĀṂ, BHAṂ, ĀṂ, MAṂ, VAṂ, etc. ?
+
 [^28-p397]: All these are conventional names of Kāma and they presumably refer therefore here to manifestations of the god of love.
 
 *[p. 398]* ^pg417
@@ -447,6 +484,7 @@ vague way that no reader could know quite where to check: after all, perhaps the
 While Śaivas appear to have colonised this spring festival by calquing its structure on another annual reparatory rite and by making the Damana plant into a transmogrified Bhairava rather than a form of Kāmadeva, there may seem at first blush to have been no Vaiṣṇavisation here, for Kāmadeva, who is in any case no enemy of Kṛṣṇa,[^34-p402] is a central figure. But the choice of lunar date for the festival might be a trace reflecting Vaiṣṇava assimilation. In the correlation of lunar days (*tithi*) with particular deities that began to involve in the *Gṛhyasūtra* literature (see EINOO 2005: 101– 111), the thirteenth day of the lunar fortnight is typically associated with Kāmadeva. The twelfth day, by contrast, is very frequently associated with Viṣṇu and the fourteenth with Śiva. Exactly these correspondences (Viṣṇu, 12th; Kāmadeva, 13th; Śiva, 14th) may be found in another relatively early account to which Einoo in 2005 did not have access, namely the *Niśvāsamukhatattvasaṃhitā* (3.127ff., in KAFLE 2015; see also the tabulation of *Devīpurāṇa* 61 below). It seems likely that a popular tradition of Kāmadeva worship would have been widely associated with the thirteenth day (Kāmadeva’s day) of the month of Caitra (Kāmadeva’s month), and that this festival was sometimes tugged towards the twelfth by Viṣṇu-devotees, as here, and sometimes to the fourteenth by devotees of Śiva. We find the 
 
 [^33-p402]: The same vague ascription is recorded by the *Jayasiṃhakalpadruma* (p. 440) as being mentioned in one of its sources, the *Rāmārcanacandrikā*: *rāmārcanaca-ndrikāyāṃ tu dvādaśyāṃ damanotsavaḥ kārya ity uktam:* *dvādaśyāṃ caitramāsasya śuklāyāṃ damanotsavaḥ baudhāyanādibhiḥ proktaḥ kartavyaḥ prativatsaram* (The contrast alluded to here by the particle *tu* is with the other sources reported, the *Madanaratna*, the *Brahmapurāṇa* quoted in the *Nirṇayāmṛta*, and the *Nṛsiṃhaparicaryā*, all of which prescribe beginning the rite on the eleventh, keeping vigil at night, rather than on the twelfth.)
+
 [^34-p402]: The Sanskrit commentary (the *Digdarśinīṭīkā*, which, according to BROO 2003: 21, is by Sanātana Gosvāmin) that is printed with the *Haribhaktavilāsa* even suggests the possibility of identifying Kāmadeva with Kṛṣṇa, as was pointed out to me by Måns Broo in an e-mail of February 4, 2015, for its commentary on 14.105 begins *tatra damanakārāme aśokavṛkṣarūpaṃ smaram akṣatacandanādinā pūjayet*. *atra ca kāmarūpeṇa śrībhagavata eva pūjādikaṃ jñeyam*. *yad vā …* : “In this grove of the Damana plant, one should worship Smara in the form of the Aśoka tree, using unhusked \[rice\], sandal, and so forth. And here we may understand that the worship and such is of the glorious Lord in the form of Kāmadeva. Alternatively…”
 
 *[p. 403]* ^pg422
@@ -458,6 +496,7 @@ Since we find Śaiva-inflected, Vaiṣṇava-inflected, and Kaumāra-inflected a
 But might there be any accounts of Damana-*pūjā* that have not been inflected by Śaivism or Vaiṣṇavism or devotion to the goddess or to some 
 
 [^35-p403]: Cf. also *Epigraphia Indica* 23, “No 29. Fragmentary Stone Inscription of Queen Uddalladevī: V.S 1294” (NĀGAR 1940: 188): …*śrī-uddaladevyā* … *saṃva-* \[*tsa*\]\[*rāṇāṃ*\] *dvādaśaśateṣu caturnnavatyadhikeṣu damanaka-caturdaśyāṃ* \[*guru*\]*vāre śrīvindhyeśvaradevasya* … \[*prā*\]*sādoyaṃ kāritaḥ pratiṣṭhāpitaś ca*. My attention was drawn to this passage by KANE V/1: 310.
+
 [^36-p403]: Its colophonic concluding statement, however, on f. 5r, appears to read *anaṣṭayacchandasā proktaṃ ṣaṣṭhiśokerudāhṛtaḥ* | *nirṇītaṃ śrīkamalākhyena pa-rvvadāmanasaṃjñitaḥ* || 0 || *damanārohaṇavidhi samāptaḥ* || 0 || The verse, once adjusted for metre and sense, might have been intended to read *anuṣṭupchandasā proktaṃ ṣaṣṭiślokair udāhṛtam* | *nirṇītaṃ kamalākhyena parva dāmanasaṃjñitam*. “This \[account of the\] calendrical rite called *dāmana*, proclaimed in *anuṣṭubh* metre in 60 *śloka*s, was composed by Kamala.”
 
 *[p. 404]* ^pg423
@@ -471,7 +510,9 @@ On the thirteenth day, Kāmadeva is to be worshipped in accordance with the rule
 Now there is no mention of any Damana here, but worship with Damana-sprigs (*damanaiḥ*) figures explicitly in the prescriptions for the worship of six of the other deities in Caitra, as the table below shows, so its use here should probably simply be understood from the use of the expression *yathāvidhi*, as has been suggested by MEYER (1937: 53). 
 
 [^37-p404]: These accounts are discussed at length, along with much else besides, by MEYER 1937: 11–59, as part of a long treatment entitled “Der altindische Liebesgott als Vegetationsdämon und sein Fest,” covering pp. 12–38.
+
 [^38-p404]: I had been inclined to guess that *aśokamaṇi* referred to “gem\[-like buds\] of the Aśoka,” but “amulet” is the interpretation, no doubt correct, of MEYER (1937: 44), when he translates the same line when it appears in another work.
+
 [^39-p404]: *Devīpurāṇa* 61: *kāmadevas trayodaśyāṃ pūjanīyo yathāvidhi* | *ratiprītisamāyukto hy aśokamaṇibhūṣitaḥ* || *kumbhe vā sitavastre vā lekhyaḥ pattraphalādi-bhiḥ* | *khaṇḍaśarkaranaivedyaiḥ saubhāgyam atulaṃ labhet* ||.
 
 *[p. 405]* ^pg424
@@ -571,6 +612,7 @@ MEYER (1937: 44), after examining such evidence, combined with that of European 
 Wir sehen also: Der Beifuß ist eine Form, eine Urform des Liebes-gottes, und an seinem Fest wird der Beifuß mit dem vollen Bewußt-sein dieser Identität v e r b r a n n t. Der innige Zusammenschluß der 
 
 [^40-p406]: The same verses, with minor variations, occur elsewhere, for instance at the beginning of chapter 122 of *pāda* 4 or the *pūrvabhāga* of the *Nāradapurāṇa* (with the corruption *candanātmakam* in place of *damanātmakam*). Neither Meyer nor I have been able to find this passage in the *Bhaviṣyapurāṇa*, but MEYER records (1937: 42) that he has found the first three half-lines of it attributed to the *Pādmapurāṇa* in Hemādri’s *Caturvargacintāmaṇi* and to the *Kūrmapurāṇa* in the *Smṛtisāroddhāra*. As we have just seen above, the last pair of half-lines is to be found in the *Devīpurāṇa*, and MEYER (1937: 53) also points to other places in which they occur. We should note that the fact that the verses are not found in the extant *Bhaviṣyapurāṇa* is not necessarily an indication that they did not once belong there, for it is clear that much that is quoted with attribution to the *Bhaviṣyapurāṇa* by commentators and compendium-compilers is no longer to be found there (see HAZRA 1940: 167–173).
+
 [^41-p406]: *Kuṭṭanīmata* ad verse 907: *caitraśuklatrayodaśyāṃ madanaṃ damanātmakam kṛtvā saṃpūjya vidhivad vījayed vījanena tu tatra saṃdhukṣitaḥ kāmaḥ putrapautravivardhanaḥ kāmadevas trayodaśyāṃ pūjanīyo yathāvidhi ratiprītisamāyukto hy aśokamaṇibhūṣitaḥ*
 
 *[p. 407]* ^pg426
@@ -582,6 +624,7 @@ beiden drückt sich auch darin aus, daß der damanaka aus der Asche des Kāma, i
 Having now discussed the various traditions of *damanapūjā* that we have encountered, let us return briefly to the text-critical problem concerning Jñānaśambhu’s work. When we compare the South Indian and Nepalese versions that purport to be Jñānaśambhu’s text (compare appendices 1 and 2), the most obvious difference is that the Nepalese version is in prose, punctuated with just a few verses. These verses are common to the South Indian text, excepting one, which is presented as a quotation from another source, the *Mohacūḍottara*. At first blush, there is nothing here to surprise a reader familiar with other parts of the *Jñānaratnāvalī*, for although this particular section of the work in the southern sources is entirely in verse, most other sections are in a mixture of prose and verse and contain numerous marked and unmarked quotations from scriptural sources that justify or complement or contrast with what Jñānaśambhu prescribes.[^43-p407] But when we stop to look, we see that the shared verses are in this case, with one exception, simply part of the ritual: they are formulae that are to be addressed to the Damana plant and to Śiva in the course of the rite. The one exception is the verse right at the beginning that alludes to Jñānaśambhu’s authorship and concludes the previous section of the text. In other words, no distinctive formulation is shared, other than the authorship-verse: what the two versions have in common is just the sequence of rites that are prescribed. The sequence is formulated in one case in verse and contains aetiological and other discussions – a sort of auto-commentary – and in the other case in prose with little comment. It thus seems clear that to transform the Nepalese version into the southern one would have required a vast intellectual effort of versification and reflection, an effort little different from fresh composition; to arrive at the Nepalese text from the southern one, however, 
 
 [^42-p407]: ANDERSON (1993: 136–137), who seems not to have been aware of Meyer’s work, refers to anthropologists’ accounts of such rituals of the burning of effigies of Kāma in South India in recent times.
+
 [^43-p407]: Of the three other hitherto edited sections of the *Jñānaratnāvalī* of which I am aware, those edited by MIRNIG (2018), namely the *antyeṣṭividhi* and the *śrā-ddhakarmavidhi*, are almost entirely in verse, but the treatment of Caṇḍeśa worship (edited and translated in GOODALL 2009: 360–366) is in a mixture of prose and verse.
 
 *[p. 408]* ^pg427

@@ -43,43 +43,83 @@ That is the meaning of “And a helmet of salvation upon his head”: *yeshu’a
 And this is the meaning of “He sows *tzedakot* (charities), causes *yeshu’ot* to sprout forth.”[^38] So may the L–rd make His Face radiate toward them, “their *tzedakah* will endure forever”;[^39] and may their glory be exalted by the *yeshu’ah* of “He who causes the power of *yeshu’ah* to flourish,”[^40] the sprout of *tzedakah* from the “helmet of *yeshu’ah*”—mentioned above, as is the wish (of he) who seeks it.[^41]
 
 [^1]: *Tzedakah* has two interrelated meanings: a) righteousness and b) charity (cf. *Moreh Nevuchim* 3:53). Though these two meanings are strictly interrelated, the emphasis in these writings is chiefly on the latter. As a Scriptural term it is, therefore, left untranslated (in this and subsequent sections) to avoid confusion.
+
 [^2]: [[Isaiah 59#^59-17|Isaiah 59:17]].
+
 [^3]: *Bava Batra* [[Bava Batra 9#9b|9b]].
+
 [^4]: “Charity is equal to all the commandments (together)”—*Bava Batra* [[Bava Batra 9#9a|9a]]; *Tosefta*, *Peah*, end of ch. 4. See *Likkutei Amarim*, Part I, ch. 37.
+
 [^5]: The reward for observing Torah and *mitzvot* is the soul’s delighting in the splendor of the *Shechinah*. In the World to Come the soul will actually apprehend, in a manifest way, the very essence of the Divine vivification, thus Divinity Itself, as it were. The problem is that the soul is finite. Though its source is in Divinity, as it evolves and descends to become vested in the body, the soul becomes a created and distinct, thus finite entity. How then can this created entity apprehend creative Divinity, which is infinite and essentially inapprehensible? The mediating factor, which enables the soul to apprehend Divinity, is Torah and *mitzvot*. Torah and *mitzvot* are essentially Divine; their source is in the Supernal Will and the Divine *chochmah* which are not separate from, but absolutely one with, the G–dhead. *Torah* and *mitzvot* thus transcend even the level of the “splendor of the *Shechinah*.” When man performs the *mitzvot* as they are vested in physical objects (e.g., *tefillin* of leather; *tzitzit* of wool; *tzedakah* with money; etc.), he unites his soul with the *mitzvot* he performs. His soul is vested in the *mitzvot*; the *mitzvot* become garments for his soul. (Cf. *Bereishit Rabbah* 19:6) These garments serve like channels, or *kelim* (vessels), by means of which the soul, when in Eden, is able to apprehend Divinity, i.e., the splendor of the *Shechinah*. “The principle of this matter is: just as the soul is given a garment in which it vests itself (i.e., the body) in order to exist in this world, so it is given also a garment of supernal splendor wherewith to exist in the World to Come and to be able to gaze in the radiant speculum from that Land of Life.” *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-65b|I:65b]] ff. See below, Epistle 29; cf. *Etz Chaim* 44:3; *Likkutei Amarim*, Part I, ch. 4; *Torah Or*, *Chayei Sara* 16a ff.; *Likkutei Torah*, *Shelach* 38d; below, Epistle 23.
+
 [^6]: Encircling (or: *encompassing*) all worlds; denoting the transcendence of G–d.
+
 [^7]: Brackets appear in the text.
+
 [^8]: Filling (or: permeating) all worlds; denoting the immanence of G–d.
+
 [^9]: Chapters 48 and 51. See below, note 12.
+
 [^10]: That is, by an appropriate action of man; cf. below, Epistle 4, note 43.
+
 [^11]: By R. Chaim Vital, containing the principal teachings of the Arizal. See *Etz Chaim* 1:2 ff. *et passim*. See Addendum, *Mystical Concepts in Chassidism*, s.v. *Tzimtzum*.
+
 [^12]: Creation on all its levels is vitalized and sustained by a Divine force or emanation. The life-force is called *or pnimi* (inner light). As the soul animates the body, permeating and vitalizing all its organs, precisely so is the *or pnimi* the soul that permeates and vitalizes creation on all its levels. However, just as the soul is but a dimmed manifestation of actual Divinity (see below, Epistle 5, note 33), precisely so it is with the *or pnimi*. The *or pnimi* is but a dimmed manifestation, or radiation, of the actual light of the *En Sof*. The source of the *or pnimi* is the *or makif* (encompassing light). The *or makif* (also called *or sovev*) is the all-inclusive light which not only permeates (in concealed fashion, by way of *tzimtzum)*, but also encompasses or transcends creation. (Cf. Addendum, ibid.) The *or pnimi* denotes the Divine immanence: G–d as revealed or manifest in creation. The *or makif* denotes the Divine transcendence: the supra-revelatory aspect of G–d. Both these aspects are succinctly adduced in the Midrashic saying: “The L–rd is the place of His world, but His world is not His place!” (*Bereishit Rabbah* 68:9; *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-242a|III:242a]]) In terms of the *sefirot* the *or makif* corresponds to *keter*, the supreme, transcendent *sefirah*; the *or pnimi* corresponds to *chochmah*, the basic *sefirah* which embodies *keter* and is the immanent foundation of all subsequent emanations. See ref. cited above, Epistle 1, note 13; below, Epistle 17; *Likkutei Torah*, Vayikra 22c.
+
 [^13]: See *Likkutei Amarim*, Part I, ch. 41. This “unification” establishes the essential oneness between the ranks of G–d the Transcendent and the *Shechinah* (G–d as He manifests Himself and is immanent in His creatures), so that there is complete unity above and below.
+
 [^14]: The three general planes in the soul. See below, Epistle 5, note 33.
+
 [^15]: Cf. below, Epistles 17 and 29.
+
 [^16]: *Kiddushin* [[Kiddushin 39#39b|39b]].
+
 [^17]: See *Zohar* [[Zohar 5.04 - Sava de-Mishpatim#^z2-123a|II:123a]]; *Tikkunei Zohar*, Introduction [[Tikkunei Zohar 017a|17a]]. (See Addendum, *Mystical Concepts in Chassidism*).
+
 [^18]: *Chochmah ilaah*.
+
 [^19]: Part II, ch. 9; cf. also Part I, ch. 2, in the author’s marginal gloss.
+
 [^20]: *Peah* 1:1.
+
 [^21]: See Addendum, ibid., for the meaning of this term.
+
 [^22]: That is, from the *sefirah* of *chesed*.
+
 [^23]: See [[Proverbs 03#^3-16|Proverbs 3:16]]: “Length of days in her right arm.”
+
 [^24]: That is, from the *sefirah* of *gevurah*.
+
 [^25]: [[Proverbs 03#^3-16|Proverbs 3:16]]: “and in her left arm, riches and honor.”
+
 [^26]: I.e., beauty (as implied by the term *tiferet)* emanates from the *sefirah* of *tiferet*.
+
 [^27]: Par. [[I Chronicles 16#^16-27|I Chronicles 16:27]].—The Hebrew terms are: *hod* and *hadar*, and *chedvah*. *Hod* and *hadar* correspond to the *sefirot* of *netzach* and *hod* (see *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-98a|II:98a]] and *Hagahot R. Chaim Vital*, ad loc.—in the light of *Zohar* I:262a); grandeur and majesty thus emanate from the fourth and fifth attributes. *Chedvah* corresponds to the *sefirah* of *yesod* (see *Zohar* [[Zohar 3.06 - Parashat Va-Yiggash#^z1-206b|I:206b]] and [[Zohar 7.03 - Parashat Va-Yiqra#^z3-5a|III:5a]]); gladness thus emanates from the sixth attribute.—Cf. the interpretation of this verse in R. Chaim Vital, *Shaar Hakavanot*, s.v. *Derush Inyan Tefillat Hashachar* (ed. Tel Aviv, 1962, vol. 1, 107a).
+
 [^28]: Extraneous forces; i.e., extraneous (the furthest removed) in relation to holiness; thus, the forces of evil and impurity.
+
 [^29]: The author puts emphasis on the word “great”; cf. below, Epistle 30.
+
 [^30]: [[Psalms 048#^48-2|Psalms 48:2]] (ibid. 145:3).—This effect of the *or makif*, in reward for the performance of kindness, stems from the infinite Greatness (*chesed*) of G–d.
+
 [^31]: Brackets appear in the text.
+
 [^32]: Salvation.
+
 [^33]: [[Torah 01 - Bereshit#^4-4|Genesis 4:4]].
+
 [^34]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-4b|I:4b]]; [[Zohar 8.09 - Idra Rabba#^z3-133b|III:133b]]; cf. *Etz Chaim* 13:14.—370 is the numerical equivalent (*gematria*) of ש”ע, the root letters of *yeshu’ah* and *vayisha*.
+
 [^35]: [[Torah 35 - Nasso#^6-25|Numbers 6:25]].
+
 [^36]: [[Psalms 067#^67-2|Psalms 67:2]].
+
 [^37]: That is, “with our participation”; thus, through an act from ourselves. See *Likkutei Torah*, *Tavo* 43d.
+
 [^38]: Liturgy, Morning Prayers.
+
 [^39]: [[Psalms 112#^112-3|Psalms 112:3]].
+
 [^40]: Liturgy, weekday *Amidah*.
+
 [^41]: Par. [[Lamentations 3#^3-25|Lamentations 3:25]].

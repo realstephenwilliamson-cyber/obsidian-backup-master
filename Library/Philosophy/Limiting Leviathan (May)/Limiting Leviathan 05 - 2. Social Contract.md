@@ -59,7 +59,9 @@ bring his action.” [^4] This statement is so clear that it needs no elucidatio
  Contracts have always been seen as creating both rights and duties; [^6] so as soon as a third party is said to be a true party to a contract, he not only has the right to bring an action when the promised benefit does not result, but he himself also is liable, at least in theory, to be brought to court and sued by one of the other parties for not fulfilling his duty. As far as I am able to tell, the courts never drew out this inference from their rulings, by saying, for example, that if the son backed out of the marriage after receiving the dowry, he, rather than his father, could be sued by the girl’s father. Just as Hobbes struggled with the idea of the extent of the sovereign’s duties as beneficiary of the third-party contract, so did the judges at his time. 
 
 [^4]: Hetley 31, 124 E.R. 318(1631)
+
 [^5]: Starkey *v* . Mill, Style 296, 82 E. R. 723 (1651).
+
 [^6]: Modern legal historians and scholars recognize this. In one commentary on contract law, contract is defined as follows: “A contract is a promise, or set of promises, for breach of which the law gives a remedy, or the performance of which the law in some way recognizes as a duty,” Samuel Williston and George Thompson , *Williston on Contracts* , 2nd ed., New York :  Barker, Voorhis and Co ., 1936 , 1:1.
 
 *[p. 52]* ^pg65
@@ -75,6 +77,7 @@ bring his action.” [^4] This statement is so clear that it needs no elucidatio
  I shall examine this description of the contract by first distinguishing between (a)  conferring of power, (b)  consenting to be governed, and 
 
 [^7]: A number of Hobbes scholars have recognized the similarity between Hobbes’s sovereign in *Leviathan* and third persons in contracts. Gierke says:  “Thus also the individuals have no rights what ever as against the sovereign power, which is absolute by its very nature; nor can they derive any rights from the original covenant, as they did not contract with the ruler, but simply with all other individuals to renounce, jointly and simultaneously, all rights and all liberties in favor of this third person. Otto von Gierke , *The Development of Political Theory* , trans. Bernard Freyd , New York :  W. W. Norton , 1939 . Goldsmith also makes the specific point I made above, but again without comment. “Apparently the sovereign is something like a third-party beneficiary of their contracts; each obliges himself to the sovereign by a donation, or conveyance of right, as well as obliging himself to his fellow citizens by covenant.’’ M. M. Goldsmith , *Hobbes’s Science of Politics* , New York :  Columbia University Press , 1966 , p. 158. And by 2002, Malcolm is quite confident in saying that the sovereign “is a third-party beneficiary of their mutual covenanting.” Noel Malcolm , *Aspects of Hobbes* , Oxford :  Oxford University Press , 2002 , p.  446 .
+
 [^8]: EW III 157–158, Tuck 120.
 
 *[p. 53]* ^pg66
@@ -96,6 +99,7 @@ others. In such a situation, it is clear that the members of the former half wou
  Let us now turn to the terms of the contract itself. Hobbes says at the outset that the words spoken are said only “in such a manner, as if every man should say to every man. . . . ” What can Hobbes mean by employing this hypothetical language? There are a number of possible explanations. It might be that Hobbes wishes to establish that the words that follow are not necessarily the exact words used in the original contract. Or it might be that he is pointing to the hypothetical status of original contracts generally. A third possibility would be that Hobbes, while describing the words used in his own myth of the original contract, was arguing that other views of the original contract need not employ the letter, but must employ the intent of these words. In any event, the formulation that follows must be seen in a somewhat approximate manner. 
 
 [^9]: But remember the discussion in the previous chapter where it was argued that despite Hobbes’s words there is no actual giving of power from one person or entity to another, but rather a willingness to aid or at least to restrain oneself so the sovereign can act.
+
 [^10]: Again, right, like power, cannot literally be transferred, rather this is a matter of willingness or recognition.
 
 *[p. 55]* ^pg68
@@ -233,7 +237,9 @@ as he that voted against it, [^24] shall authorize all the actions and judgments
  But the choice of the third party (to whom the sovereignty is granted) need not also be unanimous, [^26] as we see by the terms of the constitutional contract above. To be a representative actor and unifying agent, the sovereignty needs to be authorized by all the people assembled. But the 
 
 [^24]: Those who vote against the particular person who is to become sovereign are bound by the decisions of the majority because of the prior unanimous consent to be governed by majority rule.
+
 [^25]: EW III 159, Tuck 121.
+
 [^26]: Although there must be unanimity to establish the offi ce of the sovereign, since without an enforcement structure the problem of first performance can not be solved.
 
 *[p. 65]* ^pg78
@@ -249,6 +255,7 @@ authorizing of a particular person or persons to occupy the offi ce of sovereign
  When the sovereign is established by conquest, for instance, it is the contract and consent, not his naked power, which legitimates his authority. When this is not recognized by the conqueror, his sovereignty is jeopardized. Even conquerors cannot claim a right to rule that antedates this grant of right made by the people. [^28] To claim otherwise is to risk rebellion. Thus, 
 
 [^27]: David Dyzenhaus has also explored this issue in Hobbes’s works. See his essay, “Hobbes and the Legitimacy of Law,” *Law and Philosophy* , vol. 20, no.  5, September 2001, pp.  461–498, especially
+
 [^28]: EW III 706, Tuck 486.
 
 *[p. 66]* ^pg79

@@ -73,6 +73,7 @@ The issue of whether or not miracles were taken by Second Temple Jews as signs o
 There is a point to Sanders’ criticisms, but he has overstated his case. The belief that a miracle or miracles had occurred did at times heighten eschatological expectations in the first century and not for Jesus’ miracles alone. This is evident in Josephus’ discussions of a number of unusual phenomena around the time of the outbreak of the Jewish War. The rebels, reports Josephus, interpreted the phenomena in light of Scripture and concluded that they were signs of God’s immediate intervention. Among
 
 [^2]: Harvey, *Constraints*, p. 118.
+
 [^3]: C. A. Evans, ‘Jesus and the Messianic Texts from Qumran: A Preliminary Assessment of the Recently Published Materials’, *Jesus and His Contemporaries: Comparative Studies* (AGJU; Leiden: E. J. Brill, 1995), pp. 128–9; J. J. Collins, ‘The Works of Messiah’, *DSD* 1 (1994), 98–112. It is still possible to see 4Q521 as confirmation that particular kinds of miraculous works were expected as part of the new age, even if one rejects the idea that 4Q521 specifically envisions the performance of such works by a messianic figure, as does K. W. Niebuhr, ‘Die Werke des eschatologischen Freudenboten (4Q521 und die Jesus ¨uberlieferung)’, in *The Scriptures in the Gospels* (ed. C. M. Tuckett; BETL; Leuven: Peeters, 1997), pp. 638–9.
 
 *[p. 25]* ^pg43
@@ -148,6 +149,7 @@ I turn now to Jewish texts of the Second Temple period which took up biblical ev
 *Qumran and Josephus.* As in Scripture itself, a typological pattern of expectation based on the Exodus served as a primary ideological motivation for the Qumran community. Consciously drawing on [[Isaiah 40#^40-1|Isaiah 40]], they perceived their flight into the wilderness as preparing the way for eschatological deliverance (see esp. 1QS 8.12–15). The proximate causes for withdrawal into the desert are obscure, but the hope of the sectarians
 
 [^9]: In light of the centrality of reconquest to the Hasmonean agenda, the report of *b. Sot.* [[Sotah 48#48a|48a]] that the psalm was used extensively in the Maccabean period is of particular interest. See H.-J. Kraus, *[[Psalms 001#^1-1|Psalms 1]]–59: A Commentary* (based on the 5th German edn; trans. H. C. Oswald; Minneapolis: Augsburg, 1988), pp. 445–6. Kraus notes that a number of Church Fathers argue that the psalm was written at this time.
+
 [^10]: H. G. M. Williamson (*Ezra, Nehemiah* (WBC; Waco: Word, 1985), p. 42 n. 3c) may be correct in his claim that ‘peoples of the lands’ is simply a stylistic variant for ‘peoples of the Land’. But it may be that the occasional use of the latter expression stresses the presence of these foreign peoples (i.e. ‘peoples of the lands’) on the Land that is properly Israel’s.
 
 *[p. 29]* ^pg47
@@ -159,7 +161,9 @@ The pervasiveness of such use of Scripture in the first century is suggested by 
 Thus, it was not only the Exodus and Conquest which could be drawn on for patterns which when matched to current events led to heightened expectations. Josephus implies that, during the final siege of Jerusalem, the account of the city’s deliverance from Sennacherib ([[II Kings 18#^18-1|2 Kings 18]]–19)
 
 [^11]: See F. M. Cross, *The Ancient Library of Qumran* (\[1958\]; 3rd edn; Sheffield Academic Press, 1995), pp. 69–70; and R. A. Horsley, ‘Popular Prophetic Movements at the Time of Jesus: Their Principal Features and Social Origins’, *JSNT* 26 (1986), 15–17.
+
 [^12]: Cf. S. Talmon, ‘The “Desert Motif” in the Bible and in Qumran Literature’, in *Biblical Motifs: Origins and Transformations* (ed. A. Altmann; Cambridge, MA: Harvard University Press, 1966), p. 58; and F. F. Bruce, *Biblical Exegesis in the Qumran Texts* (London: Tyndale Press, 1959), p. 30. Note especially the intriguing *pesher* of [[Psalms 037#^37-9|Ps. 37.9b–10]] (4Q171 1.5–7) which applies the psalmist’s assertion that ‘those who wait for the Lord will possess the land’ to the community to be realized with the destruction of the wicked from the land ‘at the end of forty years’. Cf. CD 20.14–20: as Israel prior to Conquest had to wait forty years for the death of the apostates, so too does the community await the death of apostates from the sect prior to their own experience of deliverance. Cf. M. A. Knibb, *The Qumran Community* (Cambridge Commentaries on Writings of the Jewish and Christian World 200 BC to AD 200; Cambridge University Press, 1987), pp. 73–4.
+
 [^13]: Y. Yadin, *The Scroll of the War of the Sons of Light Against the Sons of Darkness* (trans. B. Rabin and C. Rabin; Oxford University Press, 1962), pp. 38–61; L. H. Schiffman, *The Eschatological Community of the Dead Sea Scrolls: A Study of the Rule of the Congregation* (SBLMS; Atlanta: Scholars Press, 1989), pp. 14, 37–52, 70.
 
 *[p. 30]* ^pg48
@@ -171,7 +175,9 @@ provided a narrative for understanding the nature of the expected imminent deliv
 In *Ant.* 20.97, Josephus recalls a ‘magician’ named Theudas, who, purporting to be a prophet, led ‘many’ into the wilderness in 45 or 46 CE, promising to part the Jordan.[^16] The movement was violently quashed by the procurator Fadus.
 
 [^14]: So M. de Jonge, ‘Josephus und die Zukunftserwartungen seines Volkes’ \[1974\], *Jewish Eschatology, Early Christian Christology and the Testaments of the Twelve Patriarchs* (trans. P. G. R. de Villiers; Leiden: E. J. Brill, 1991), p. 56.
+
 [^15]: C. T. Begg, ‘The “Classical Prophets” in Josephus’ *Antiquities*’, reprinted from *LS* 13 (1988), 341–57, in *The Place Is Too Small for Us: The Israelite Prophets in Recent Scholarship* (ed. R. P. Gordon; Winona Lake, IN: Eisenbrauns, 1955), p. 554. Begg can think of no other reason for the omission than that the promise appears ‘somewhat extraneous in its immediate context’.
+
 [^16]: Luke puts the number who followed Theudas at around four hundred men ([[Acts 05#^5-36|Acts 5.36]]).
 
 *[p. 31]* ^pg49
@@ -199,8 +205,11 @@ The close association between the signs promised by various ‘sign prophets’ 
 Second, against recent trends, Hengel has emphasized that even when all the social and political stresses of the period are taken into account the ultimate cause of each of the various revolts which took place was ideological and religious, and, in particular, a religious ideology focused by eschatology.[^21] To what degree this applies to the revolts is not at issue here, but Hengel’s argument certainly holds for the various prophetic
 
 [^18]: S. G. F. Brandon (*Jesus and the Zealots: A Study in the Political Factor in Primitive Christianity* (Manchester University Press, 1967), p. 100) is among those who narrow the focus of these figures to the Exodus; Brandon assumed that Theudas and his followers hoped to cross the river eastward with the Romans in pursuit as Moses had crossed the Red Sea ahead of the Egyptians. But as D. R. Schwartz (‘Temple and Desert: On Religion and State in Second Temple Period Judaea’, in *Studies in the Jewish Background of Christianity* (WUNT; T ¨ubingen: J. C. B. Mohr (Paul Siebeck), 1992), p. 30 n. 3) notes, the concern on the part of the Romans and the book of Joshua suffice to show that a westward Conquest-like crossing of the Jordan was more probably the intent.
+
 [^19]: C. A. Evans, ‘Messianic Claimants of the First and Second Centuries’, *Jesus and His Contemporaries: Comparative Studies* (AGJU; Leiden: E. J. Brill, 1995), p. 53.
+
 [^20]: On this expectation, see especially E. P. Sanders, *Jesus*, pp. 95–8.
+
 [^21]: See especially the foreword to the English translation of M. Hengel, *The Zealots:* *Investigation into the Jewish Freedom Movement in the Period from Herod I until 70 A.D.* (based on 1976 German 2nd edn; trans. D. Smith; Edinburgh: T. & T. Clark, 1989),
 
 *[p. 33]* ^pg51
@@ -216,6 +225,7 @@ Third, the expectation that Israel’s restoration would involve a repetition of
 Summary It appears that a variety of factors could prompt the belief that the time of Israel’s restoration had arrived. Miraculous phenomena, predictive schemes, apparent fulfilment of predictive prophecy and the perceived recurrence of biblical events could alike lead Second Temple Jews to harbour heightened expectations of restoration. Each of these factors betrays extended eschatological reflection on Scripture. None, however, could compel widespread belief that the restoration had begun or was about
 
 [^22]: Gray (*Prophetic Figures*, pp. 137–42) doubts whether the term ‘eschatological’ can be properly applied to these prophetic figures at all. In her view, the term is used too hastily because we know so little about how they thought about the event or events which would lead to freedom. While she may be correct to question whether the hope of a new Exodus is really the motivation for all of these figures, her reluctance to say anything at all about their motivations ignores the way that Scripture served as a paradigm for eschatological expectations of restoration in Scripture itself and in the Second Temple period generally.
+
 [^23]: We should probably credit Josephus’ portrayal of these movements as attracting the allegiance of sizable groups, even where the figures he gives are suspect. Since his apologetic stance is to show that the disturbances in first-century Palestine were idiosyncratic – the instigation of a rogueish few and not of the contented general populace – the portrayal of these movements as large runs counter to his interests.
 
 *[p. 34]* ^pg52
@@ -247,8 +257,11 @@ Sensing this difficulty, some have attempted to maintain that the requested sign
 The foregoing criticisms notwithstanding, the view that the requested sign was some kind of authenticating miracle has recently been given weighty support by M. Hooker. In her book on the prophetic actions of Jesus, Hooker helpfully distinguishes prophetic actions from oracles and
 
 [^25]: In Luke and in the first instance of the demand for a sign in Matthew (ch. 12), the demand is placed immediately following the exorcism which produced the Beelzebul controversy. In Mark 8 and Matt. 16, the demand comes after the feeding of the four thousand. Mark is followed by Matthew at this point and may reflect a separate incident. John similarly places the demand after his account of a feeding miracle.
+
 [^26]: G. M. Landes, ‘Jonah in Luke: The Hebrew Bible Background to the Interpretation of the “Sign of Jonah” Pericope in [[Luke 11#^11-29|Luke 11.29–32]]’, in *A Gift of God in Due Season: Essays on Scripture and Community in Honor of James A. Sanders* (ed. R. D. Weis and D. M. Carr; JSOTSup; Sheffield Academic Press, 1996), p. 139.
+
 [^27]: G. R. Beasley-Murray, *Jesus and the Last Days: The Interpretation of the Olivet Discourse* (Peabody, MA: Hendrickson, 1993), p. 372. Cf. Gnilka, *Jesus*, pp. 124–5.
+
 [^28]: Nor does M. D. Hooker (*The Signs of a Prophet: The Prophetic Actions of Jesus* (London: SCM Press, 1997), p. 18) who in a way similar to Landes suggests that what was demanded of Jesus was some authenticating sign, without specifying what sort of miracle would have functioned in this way.
 
 *[p. 36]* ^pg54
@@ -262,7 +275,9 @@ Though Jesus did perform symbolic actions,[^31] the second type of sign can be r
 She seems to have done so largely on the strength of R. Gray’s discussion of Josephus’ use of the term σὴ μεῖον and its implications for his descriptions of the so-called ‘sign prophets’. Against the view of these figures sketched above, Gray argues that the various figures have been grouped together too hastily, that the promised acts which have clear associations with the Exodus are not to be regarded as ‘signs’, and that the figures have been regarded as eschatologically motivated with insufficient substantiation. Crucial to Gray’s case is her conclusion that Josephus employs the term ) σημεῖον to refer specifically to authenticating miracles. Unlike the LXX, he does not use the term to recount divine epiphanies which effect deliverance and judgement such as those of the Exodus. Thus, in his retelling of the Exodus story, Josephus employs the
 
 [^29]: Ibid., pp. 2–6.
+
 [^30]: One of the many values of Hooker’s book is its repeated emphasis, in opposition to some members of the Jesus Seminar, on Jesus’ status as a prophet. Particularly important is her observation that the evangelists continued to see the words and actions of Jesus in the tradition of the prophets even though they came to believe that he was more than a prophet,
+
 [^31]: Ibid., pp. 35–54.
 
 *[p. 37]* ^pg55
@@ -286,7 +301,9 @@ Third, it is not clear from Josephus’ descriptions that he distinguishes Theud
 Still, there does seem to be some distinction between the Egyptian and the others, though not that supposed by Gray. This is indicated in *J.W.* 2.261 where Josephus connects his account of the Egyptian to that of the ‘impostors and deceivers’ by asserting that the Egyptian dealt a ‘still worse blow’ to the Jews. The impression thus given is not that Josephus regarded the Egyptian as essentially different from the other unnamed figures who promised signs but that he considered him more damaging.[^37] Finally, and perhaps most telling, is the fact that in at least one instance the expression ‘signs of deliverance’ manifestly cannot refer merely to
 
 [^35]: Gray notes several discrepancies between the two accounts of the Egyptian’s actions, among which is the fact that the account in *Antiquities* can be taken to imply that the Egyptian appeared first in Jerusalem where he raised a following to march out to the Mount of Olives whereas the *Jewish War* account indicates that he raised a following in the countryside (εἰς τὴν χώραν) and led them on a circuitous route from the desert ' (ἐκ τῆς ἐρημίας) to the Mount of Olives. But as Gray herself notes, the two accounts can at this point at least be reconciled reasonably: ‘the Egyptian showed up in Jerusalem, gathered a crowd there, led them out into the wilderness, where he gathered still more followers, and proceeded to the Mount of Olives’, *Prophetic Figures*, pp. 116–17.
+
 [^36]: Gray, *Prophetic Figures*, p. 116.
+
 [^37]: This conclusion receives incidental substantiation from the fact that of the many prophet-like figures to whom Josephus alludes, Luke specifically recalls Theudas and the Egyptian – two of the relatively few such persons mentioned explicitly by Josephus ([[Acts 05#^5-36|Acts 5.36]]; [[Acts 21#^21-38|21.38]]). This may serve as further evidence that Theudas and the Egyptian were widely considered among the most significant of the first-century ‘false prophets’.
 
 *[p. 39]* ^pg57
@@ -302,7 +319,9 @@ It is my contention that the ‘sign prophets’ provide firm evidence for the e
 This view receives confirmation from two considerations. First, in John 6, a demand for a sign comes *after* the feeding miracle, though John portrays those who make the demand as precisely those who had witnessed the miracle. Absurdly, however, in verses 30–1 they request the sign that in John’s view they had just seen: bread from heaven. Thus, John attributes the request for a sign after the miracle to their failure to see the sign in the miracle.[^40] But, beyond this, the apparent absurdity reveals that the crowds expected a particular type of sign – a miraculous act which
 
 [^38]: Cf. J. B. Gibson, *The Temptations of Jesus in Early Christianity* (JSNTSup; Sheffield Academic Press, 1995), p. 193 n. 109.
+
 [^39]: This conclusion might be held to be at variance with the recent recognition that prophecy had not after all ceased with the last of the writing prophets as most scholars had previously assumed. If prophets were active and recognized as prophets, surely not all of them were faced with the demand to produce a sign which would effect eschatological deliverance. But as Hooker (*Signs*, pp. 6–8) argues, the denial that prophecy had ceased needs to be put more precisely; for, although there continued to be prophets, none apparently attained the stature of the prophets of old. Written prophecy after the writing prophets could gain acceptance only if promulgated in the name of an older figure. Moreover, it must be said that the prophets who were active in the period were of such slight significance that there could emerge a narrow belief in *the* coming prophet as reflected in the Qumran literature (e.g. 1 QS 9.11) and in John’s Gospel (1.21; 6.14; 7.20).
+
 [^40]: Cf. Hooker, *Signs*, p. 33.
 
 *[p. 40]* ^pg58
@@ -312,8 +331,11 @@ by manifest correspondence with God’s action for Israel during the time of the
 Second, approaching the matter from a somewhat different angle, J. Gibson has recently argued that Mark understands the requested sign in terms similar to those in which I have argued that Jesus understood it. Particularly important for Gibson is his reading of the reference to the ψευδόχριστοι καὶ Ψευδοπροφῆται in Mark 13.22. Others have noted the possible link between these figures and the sign prophets in Josephus,[^42] but Gibson draws out the full implications of this connection for Mark’s understanding of the demand for a sign. Gibson suggests that for Mark the signs of the false prophets and messiahs in 13.22 are phenomena which, like the signs promised by Josephus’ sign prophets, would replicate the miracles of deliverance in the Exodus and Conquest.[^43] He then reasons that Mark must have viewed the demand for a sign put to Jesus as similar to those of the false prophets and messiahs in 13.22. I am less certain than Gibson that Mark understands the signs and wonders of the false prophets and messiahs as miracles in terms similar to the signs promised by the ‘sign-prophets’. The ‘sign-prophets’ *promised* signs which would effect deliverance and conquest as in the days of Moses and Joshua, but [[Mark 13#^13-22|Mark 13.22]] indicates that the false prophets and messiahs will actually *perform* signs and wonders. Are we to think that Mark envisions figures who will succeed in setting Israel’s deliverance into motion? Though the link between the sign demand and the signs and wonders of the false prophets and messiahs is tenuous, Gibson may be correct in suggesting that Mark’s portrayal of the demand as a test or temptation reflects Jesus’ own experience of the demand. If so, Mark may believe that the demand confronted Jesus with the temptation to veer from his divinely ordained messianic destiny in favour of a triumphalistic course to Israel’s restoration.[^44]
 
 [^41]: Understood in this way, the request for a sign corresponds with the attempt to make Jesus king ([[John 06#^6-15|John 6.15]]), for the feeding miracle had created the expectation that Jesus might well be capable of a still greater sign to effect the deliverance of Israel.
+
 [^42]: E.g. C. A. Evans, ‘Jesus and Jewish Miracle Stories’, *Jesus and His Contemporaries:* *Comparative Studies* (AGJU; Leiden: E. J. Brill, 1995), p. 221.
+
 [^43]: Gibson, *Temptations*, pp. 183–93. Of particular importance in establishing this connection is Mark’s use of the phrase : σημεῖα καὶ τέρατα which in the LXX is virtually a technical term for the liberating acts of God in the Exodus and Conquest – a fact which is demonstrated by Rengstorf ᾿ (σημεῖον κιτ᾿λ᾿᾽, 1 in *TDNT*, vol. VII, pp. 200–69) and S. V. McCasland (‘Signs and Wonders’, *JBL* 76 (1957), pp. 149–52).
+
 [^44]: Gibson (*Temptations*, p. 169) does not frame the nature of the temptation in precisely this way. He oddly holds that in Mark’s view the Pharisees were demanding proof for his stance against national and religious exclusivism but that Jesus responds as if the demand is for an Exodus-type miracle of deliverance.
 
 *[p. 41]* ^pg59
@@ -327,8 +349,11 @@ Whatever one makes of Mark’s presentation of the sign demand, in the context o
 Against the expectation of a sign of national restoration, Jesus draws on a quite different strand of tradition to suggest that the only sign to be expected was a sign of national judgement – the sign of Jonah.[^45] The sign of which he speaks is yet future, but what is it? [[Luke 11#^11-30|Luke 11.30]] suggests that the sign of Jonah is to be understood as Jonah himself.[^46] Naturally, the sense in which Jonah confronted the Ninevites as a sign cannot be abstracted from his proclamation.[^47] But what exactly was the proclamation? Many assume that Jesus here thinks of Jonah as a preacher of repentance.[^48] But though the book of Jonah indicates that repentance was the outcome of Jonah’s proclamation, a careful examination of the book confirms that this was not the outcome intended or desired by the prophet. This stands against the common assumption that a fuller account of Jonah’s proclamation would have revealed Jonah’s message to be a conditional announcement of judgement which could be averted through repentance. But the more natural way of reading [[Jonah 3#^3-4|Jonah 3.4]] is as an absolute declaration
 
 [^45]: Though not all agree, it seems likely that the reference to Jonah was dropped by Mark or by the pre-Marcan tradition rather than added in the Q tradition. Those who argue that the absence of the exception is original do so on the basis of a supposed Semitism in the absolute refusal of Mark’s version. This, however, is questionable, and the cryptic nature of the exception readily accounts for the deletion. See especially Gibson, *Temptations*, pp. 147–51. In addition Davies and Allison (*Matthew*, vol. II, p. 352) note that in traditions which appear in both Mark and Q, the shorter form is often that of Mark. It is also possible that both traditions are authentic, reflecting different occasions; so R. H. Gundry, *Matthew:* *A Commentary on His Handbook for a Mixed Church Under Persecution* (2nd edn; Grand Rapids: Eerdmans, 1994), p. 243. U. Luz (*Das Evangelium nach Matth ¨aus: 2 Teilband Mt 8–17* (EKKNT; Z ¨urich: Benziger, 1990), p. 275) similarly considers it possible that there were two independent, parallel traditions.
+
 [^46]: As recently P. Grelot, *J´esus de Nazareth: Christ et Seigneur* (Paris: Cerf, 1997), p. 292. Gibson’s argument that the sign of Jonah was the gourd which temporarily shaded Jonah is far-fetched; *Temptations*, p. 202.
+
 [^47]: The choice set by Luz (*Matth ¨aus: 2 Teilband*, pp. 278–90) between taking the sign either as Jonah’s proclamation or as Jonah himself is artificial.
+
 [^48]: See e.g. Grelot, *J´esus*, p. 292; J. A. Fitzmyer, *The Gospel According to Luke* (AB; 2 vols.; Garden City: Doubleday, 1983–85), vol. II, p. 933.
 
 *[p. 42]* ^pg60
@@ -340,7 +365,9 @@ Confirmation of this understanding of the ‘sign of Jonah’ is suggested both 
 Other texts likewise indicate that Jonah’s message was wholly negative. Josephus recounts Jonah’s attempted flight to Tarshish in considerable detail but completely omits the book’s most striking feature – the repentance of the Ninevites. The omission is all the more remarkable for Josephus’ disingenuous assurance that he has ‘recounted \[Jonah’s\] story as I found it written down’. Granted, Josephus has politicized the overthrow of Nineveh; he interprets it as Nineveh’s loss of dominion over
 
 [^49]: The king’s uncertainty about the effect of repentance (‘Who knows?’, [[Jonah 3#^3-9|Jonah 3.9]]) and Jonah’s own unconcealed desire for Nineveh to be destroyed (4.1–9) support this reading.
+
 [^50]: The other text form refers to Nahum’s prophecy concerning Nineveh rather than that of Jonah, but it is easy to see why a scribe might have replaced Jonah with Nahum since in Jonah the prophesied destruction is apparently rescinded by God.
+
 [^51]: L. H. Feldman, *Studies in Josephus’ Rewritten Bible* (SJSJ; Leiden: E. J. Brill, 1998),
 
 *[p. 43]* ^pg61
@@ -360,8 +387,11 @@ This understanding of the sign receives added confirmation from Luke’s explana
 So the Q saying preserved in Luke does indeed recall Jonah as a sign of judgement, as many have argued, but not merely as a sign of *threatened* judgement. For he appeared in Nineveh as a sign of apparently unavoidable judgement. By analogy, the Son of man will confront ‘this generation’ with inevitable judgement. The sign expected by many was an Exodus/Conquest-type demonstration of the power of God to effect the restoration of Israel; the sign predicted by Jesus was a manifestation of the Son of man in judgement against Israel.
 
 [^52]: One of the two texts is surely a development of the other as indicated by the presence in both of Γ οὕτως ἔσται ὁ υἱὸς τοῦ ἀνθρώπου.
+
 [^53]: To my knowledge, only Gibson, *Temptations*, p. 135, has argued that 11.30 was a separate logion which was brought together with the ‘sign of Jonah’ saying by the editor of Q. He contends that 11.16, 29 ‘from a form-critical perspective, is complete in and of itself’ and that the editor of Q has brought together two sayings which emphasize different elements of Jesus’ polemic against ‘this generation’. But there is nothing form-critically objectionable to a pronouncement followed by an explanation, and it is easier to see 11.30 as an explanation of the ‘sign of Jonah’ than as a free-floating logion.
+
 [^54]: I. H. Marshall, *The Gospel of Luke: A Commentary on the Greek Text* (NIGTC; Exeter: Paternoster, 1978), p. 486. Cf. Luz, *Matth ¨aus: 2 Teilband*, p. 274.
+
 [^55]: Cf. R. Bultmann, *The History of the Synoptic Tradition* (rev. edn; trans. J. Marsh; Oxford: Blackwell, 1972), p. 118. J. A. Draper (‘The Development of “the Sign of the Son of Man” in the Jesus Tradition’, *NTS* 39 (1993), 1–21) has shown that the saying is at least pre-Matthean.
 
 *[p. 45]* ^pg63

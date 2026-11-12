@@ -147,118 +147,223 @@ Conversely, we are obligated [to separate] *challah* from produce from the Diasp
 **26.** In the present era, even in the areas settled by the Jews who ascended from Babylonia, even those [settled] in the era of Ezra,[^98] [the obligation to separate] *terumah* does not have the status of a Scriptural commandment, merely that of a Rabbinic decree. [The rationale is that] the Scriptural [commandment to separate] *terumah* applies only in *Eretz Yisrael* and only when the entire[^99] Jewish people are located there. [This is derived from the phrase][^100] "When you enter...." [Implied is that] the entire [Jewish people] must enter [the land], as they did when they took possession of the land originally[^101] and as will happen in the future when they take possession of the land a third time.[^102] In contrast, the second time [the people] took possession of the land, in the time of Ezra, only a portion entered.[^103] Hence, they were not obligated according to Scriptural Law.[^104] Similarly, it appears to me that the same concept applies with regard to the tithes.[^105] In the present era, this obligation [as well] has the status of a Rabbinic decree like *terumah*.[^106] ^1-26
 
 [^1]: *The plural term is used in this halachah and in many instances in this text, because there are two types of terumot: a) "the great terumah," i.e., the terumah separated initially, and b) terumat ma'aser, the terumah the Levites separate from the tithes that are given them. See Hilchot Matanot Aniyim, ch. 6, for details regarding the separation of these allocations.*
+
 [^2]: Here also the plural term is used because there are several tithes: the first tithe given to Levites, the second tithe which must be brought to Jerusalem, and the tithe for the poor. See *Hilchot Matanot Aniyim, loc. cit.*
+
 [^3]: *Kiddushin* [[Kiddushin 36#36b|36b]] states that all the mitzvot involving the produce of the earth apply only in *Eretz Yisrael*.
+
 [^4]: Although the agricultural laws apply even when the Temple is not standing, there is a restriction to the time when they apply according to Scriptural Law. The entire Jewish people must be located in our holy land, as stated in Halachah 26. (See also *Hilchot Shemitah VeYovel* 10:8-9.)
+
 [^5]: Even though Babylonia is further away than the other lands mentioned in this halachah, it had a larger Jewish community and there was far more contact between its populace and the Jewish community of *Eretz Yisrael*. Hence, the prophets gave it precedence over the other lands (Radbaz).
+
 [^6]: The Sages of the generation that followed Ezra [Rav Ovadiah of Bartenura (*Yadayim* 3:3).
+
 [^7]: See also *Hilchot Melachim* 5:6.
+
 [^8]: The Rambam speaks of the land being given to Abraham, not merely being promised to him, since from the time God said that the land was his, spiritually, it became his possession. Moreover, as the Jerusalem Talmud (*Challah* 5:1) states, from Abraham's time onward, even though the land was still possessed by the Canaanites, the Jews were already its legal owners. See also *Bava Batra* [[Bava Batra 119#119b|119b]].
+
 [^9]: I.e., the agricultural mitzvot that must be observed in *Eretz Yisrael*.
+
 [^10]: A king and a prophet.
+
 [^11]: I.e., since Joshua and his court had made this division, when the tribe went to conquer its portion, it was acting on behalf of the entire Jewish people.
+
 [^12]: These regions are located in contemporary Syria.
+
 [^13]: The wars to conquer these lands are classified as voluntary wars, and a voluntary law requires the consent of the High Court (*Hilchot Melachim* 5:1).
+
 [^14]: See the Rambam's Commentary to the Mishnah (*Demai* 6:11) where he criticizes King David for this approach, quoting the *Sifri* (*Parshat Ekev*) that states that he did not act in accordance with the Torah. Since the designation of the land as *Eretz Yisrael* is through Divine fiat as expressed through the Torah. Accordingly, a conquest that is not in accord with the Torah cannot bring about such a designation (*Likkutei Sichot,* Vol. V, p. 9).
+
 [^15]: With the consent of the High Court.
+
 [^16]: Even lands outside of the homeland promised to Abraham (Radbaz).
+
 [^17]: And the agricultural laws would have to be observed there.
+
 [^18]: In addition to those points the Rambam mentions below, among the other examples of this principle are: its air is not considered as a source of impurity (*Hilchot Tuma'at Meit* 11:6); it is permitted to have a gentile compose a deed of purchase for land there on the Sabbath so that one will acquire the land (*Hilchot Shabbat* 6:11).
+
 [^19]: Among the examples of the relevant laws: its earth is considered as a source of ritual impurity (*Hilchot Tuma'at Meit, loc. cit.*); a servant from *Eretz Yisrael* sold there is granted his freedom (*Hilchot Avadim* 8:6).
+
 [^20]: See Halachah 15.
+
 [^21]: For according to Scriptural Law, it is not part of *Eretz Yisrael*.
+
 [^22]: In *Hilchot Beit HaBechirah* 6:16, the Rambam states: "It was no longer *Eretz Yisrael*," i.e., none of the halachic obligations apply there.
+
 [^23]: Since it was established by conquest, it could be nullified by conquest. See *Hilchot Beit HaBechirah, loc. cit.* The Radbaz explains that when the Jews ascended from Egypt, they did not make a statement, consecrating the land. Therefore its holiness could be nullified.
+
 [^24]: As *Yevamot* [[Yevamot 16#16a|16a]] states: "Much of the land that was conquered by [the Jews who] ascended from Egypt was not conquered by [the Jews who] ascended from Babylon.
+
 [^25]: Nevertheless, since the entire Jewish people did not return together with Ezra, this consecration is only of Rabbinic origin.
+
 [^26]: And thus at present, Ezra's consecration of the land is still effective.  
     In his gloss to *Hilchot Beit HaBechirah, loc. cit.*, the *Kessef Mishnah* finds these statements difficult to accept because of the following questions:  
     a) On what basis is *chazakah* considered a more effective means of acquisition than conquest?  
     b) After the initial conquest of Eretz Yisrael, the Jewish people manifested their ownership over it and thus, effected a *chazakah*. If so, why is Ezra's *chazakah*, which was not preceded by conquest, more effective than the *chazakah* which followed the original conquest? Why should the conquest detract from the consecration of the land?  
     To explain: As mentioned above, the Jewish people's ownership of the land began with God's promise of the land to Abraham. The sanctity of the land, by contrast, did not begin until the Jewish people actually took possession of it, upon their reentry into the land after the exodus from Egypt and the journey through the desert. At that time, they were commanded to conquer the land and take it forcefully from the Gentiles (see [[Torah 42 - Matot#^32-29|Numbers 32:29]],[[Torah 44 - Devarim#^3-21|Deuteronomy 3:21]], *et al*). Since God made the consecration of the land dependent upon its conquest by the Jewish people, it follows that conquest by a Gentile nation can nullify its holiness.  
     In contrast, Ezra was not commanded to reconquer *Eretz Yisrael,* but to settle it. In this instance, God made the sanctity of the land dependent on the Jewish people manifesting their ownership over it. In other words, the sanctity came from manifesting the true reality: that *Eretz Yisrael* is a Jewish land. Accordingly, since *Eretz Yisrael* remains our land, regardless of how many times it has been conquered by Gentiles, the sanctity effected by that manifestation of ownership also continues eternally (*Likkutei Sichot*, Vol. XV, pp. 102-109).
+
 [^27]: And receive the tithe of the poor.
+
 [^28]: Rabbi Yehudah *HaNasi*.
+
 [^29]: The Ra'avad differs with the Rambam and maintains that Beit Shan was released only from those obligations that are of Rabbinic origin.
+
 [^30]: The *Kessef Mishneh* relates that Rabbi Yehudah *HaNasi* released these cities from the obligation of the tithes, because they were not populated by Jews and were not close to the area settled by Jews.
+
 [^31]: Ashkelon - and similarly, the other cities the Rambam refers to - is located near, but not exactly on the same site - as the city presently called by that name. With regard to Ashkelon in particular, there is discussion of the issue by the commentaries, for some sources (see Radbaz and *Kessef Mishneh*) explain that it was part of the land conquered by the Jews who ascended from Egypt. It was not, however, conquered by the Jews who ascended from Babylonia.
+
 [^32]: I.e., proceeding northward.
+
 [^33]: Our Sages decreed that merely touching the earth of the Diaspora is sufficient to impart ritual impurity. See *Hilchot Tuma'at Meit*, ch. 11.
+
 [^34]: I.e., as depicted in the map drawn by the Rambam to accompany the *Mishneh Torah*, the borders of *Eretz Yisrael* ascend northward from Acre to Kziv, but there is a strip of land in the center that did not become part of *Eretz Yisrael*.
+
 [^35]: Our text is based on authoritative manuscripts of the *Mishneh Torah* as cited in the Rav Shabsie Frankel edition. The standard printed text refers to the Umenum Mountains. See also the Rambam's Commentary to the Mishnah (*Sh'vi'it* 6:1).  
     In the map the Rambam drew to depict this matter, the Samnum Mountains are located in the southeastern corner of *Eretz Yisrael*, near Ashkelon. Most of the other commentaries understand this term as referring to the Umenum Mountain range in Northern Lebanon.
+
 [^36]: I.e., to the south.
+
 [^37]: According to the Radbaz, this refers to Wadi el Arish and not the Nile. Most other commentaries, however, identify "the River of Egypt" as the Nile.
+
 [^38]: I.e., the Rambam included the accompanying map so that the matter would be clearly understood.. This reflects his thrust throughout the *Mishneh Torah*: to provide his readers with an applicable text without any ambiguity.
+
 [^39]: Thus it appears that the entire coastal range of *Eretz Yisrael* was not settled by the Jews who ascended from Babylon.
+
 [^40]: The term "below" in this context is problematic. It does not mean "south," because significant portions of Syria are more northerly than *Eretz Yisrael*. Some commentaries understand it as meaning in height, because as *Kiddushin* [[Kiddushin 69#69b|69b]] states, *Eretz Yisrael* is higher than other lands.
+
 [^41]: Shinar itself, however, is part of the Diaspora, as evident from Halachah 1.
+
 [^42]: As mentioned above, there are commentaries who consider Ashkelon to be part of the land conquered by the Jews who ascended from Egypt, but not that conquered by the Jews ascending from Babylonia. Some also place Acre in this category.
+
 [^43]: See the following halachah for the practical application of this principle.
+
 [^44]: *Gittin* [[Gittin 47#47a|47a]] derives this concept from [[Torah 32 - Behar#^25-23|Leviticus 25:23]]: "The entire land is Mine." Implied is that the land belongs to God and His ownership cannot be absolved through conquest by any earthly power.  
     This ruling was a point of question for the Rambam. As indicated by the notes of Rav Kappach to his translation of the Rambam's Commentary to the Mishnah (*Pe'ah* 4:9; *Gittin* 4:9, *et al*), the Rambam changed his mind concerning the issue several times and amended his text of the Commentary to the Mishnah accordingly. At first, he stated the opinion quoted here, then adopted the opposite view, that a gentile's acquisition does cause the agricultural obligations to be absolved, and finally returned to his original position. The *Tur* and the *Shulchan Aruch* (*Yoreh De'ah* 331:3-4) follow the Rambam's ruling here. See also *Hilchot Shemitah VeYovel* 4:29 where this issue is also discussed.
+
 [^45]: In which instance, the agriculture laws would not be applicable, as stated in Halachah 2.
+
 [^46]: The entire obligation to observe the agricultural laws in Syria is Rabbinic in origin (Halachah 4) and our Sages did not enforce their decrees in this instance.
+
 [^47]: Halachot 15-19.
+
 [^48]: I.e., completed the work involved in preparing them. See *Hilchot Ma'aser* 3:13.
+
 [^49]: From the interpretation of the term by the Sages (*Bechorot* [[Bekhorot 11#11b|11b]]), the intent seems to be that not only that the grain must belong to a Jew, but that he must perform the work to complete its preparation for use.
+
 [^50]: I.e., for the produce to be obligated in the agricultural laws according to Scriptural Law, it must belong to the Jew and the Jew must complete the work involved with preparing it. If only one of these conditions was met, the obligations must be fulfilled only because of Rabbinic decree. See Halachah 13.
+
 [^51]: The *terumat ma'aser* is sold to the priest and not given to him for the reason explained shortly afterwards by the Rambam. It cannot be kept by the owner, because he is forbidden to partake of it. Instead, it is consecrated and must be eaten by a priest in a state of ritual purity (*Siftei Cohen* 331:10).
+
 [^52]: I.e., he must separate the first tithe to fulfill the agricultural obligations incumbent upon the produce, but is not obligated to give it to the Levites. There is no difficulty in him keeping the tithes, because, as the Rambam explains, he is not obligated to give them to the Levite and there is no prohibition against him partaking of them, because they are not consecrated at all and any person may partake of them, even when he is not in a state of ritual purity.
+
 [^53]: The gentile.
+
 [^54]: Had the gentile completed the tasks associated with preparing the grain, he would not have been under any obligation to make any of these separations. Hence, although the Jew is obligated to separate the various allocations, the obligation is primarily a ritual one and not a financial one. With the exception of the great *terumah*, he is not obligated to accept any loss and may keep the first tithes for himself.
+
 [^55]: I.e., like the first tithe, the *terumat ma'aser* must be separated, but it need not be given to the priest.
+
 [^56]: There is, by contrast, no such verse stated with regard to the great *terumah*. Hence, it is not considered the property of the owner, but instead, must be given - and not sold - to a priest.
+
 [^57]: See below and *Hilchot Ma'aserot* 2:5 for a definition of this concept.
+
 [^58]: I.e., the tithes to a Levite and the *terumot* to a priest. It is as if the produce grew on land belonging to the Jew from the outset.
+
 [^59]: I.e., as explained in the previous halachah and notes, the *terumot* and the tithes must be separated even if they - or a portion of them - are kept by the owner.
+
 [^60]: He may keep one-third of the tithes as his own. The rationale is that since the produce reached one third of its growth in the possession of the gentile, the Jew is not liable to give away the *terumat ma'aser* and the tithes for that portion of the crop. With regard to that portion, the concepts stated in the previous halachah apply. With regard to the remaining two thirds, it is considered as produce owned by a Jew and is obligated in all agricultural laws.
+
 [^61]: As stated in the previous halachah, he must give the great *terumah* to the priest without receiving any return whatsoever.
+
 [^62]: It is as if the produce grew in the possession of the gentile from the outset in which instance, they are exempt from all agricultural obligations, as stated in Halachah 11.  
     The Ra'avad objects to this ruling based on the principle stated in Halachah 10: "When a gentile purchases land in *Eretz Yisrael*, he does not cause it to be absolved from [the observance of] the mitzvot. Instead, its holiness is still intact." The Radbaz explains that this principle applies only when the gentile purchases the land, but not when he purchases merely produce. The *Shulchan Aruch* (*Yoreh De'ah* 331:6) quotes the Rambam's view.
+
 [^63]: I.e., if the produce is later sold to a Jew, the Jew must separate the *terumot* and the tithes. The rationale is that since the produce grew in a Jew's possession, it is considered as Jewish produce.
+
 [^64]: Our translation is based on the interpretation of Rav Yosef Corcus as quoted by the *Kessef Mishneh*. He explains that, based on the exegesis of [[Torah 48 - Shoftim#^18-4|Deuteronomy 18:4]] by *Bechorot* [[Bekhorot 11#11b|11b]] (see Halachah 11 and notes), as long as the work is completed by a gentile, the fact that the produce belongs to a Jew is not significant.
+
 [^65]: In one of his responsa, the Rambam writes (based on *Menachot* [[Menachot 67#67a|67a]]) that this decree was enacted lest Jewish landowners have gentiles complete the work associated with the crops to avoid having to separate the tithes.
+
 [^66]: I.e., even according to Rabbinic Law.
+
 [^67]: I.e., performs the task which completes the work associated with the produce at which time the obligation to separate the *terumot* and tithes takes effect.
+
 [^68]: I.e., it is as if the produce belonged entirely to the gentile and the laws stated in Halachah 11 apply.
+
 [^69]: The Rambam is referring to the wording of *Challah* 4:11: "One who purchases [land] in Syria is comparable to one who purchases [land] in the suburbs of Jerusalem."
+
 [^70]: Halachah 4.
+
 [^71]: Since the entire obligation to separate the *terumot* and tithes in Syria is Rabbinic in origin, our Sages applied it only when the Jew owned the land itself. Since the obligation to separate tithes when one purchases produce alone is merely Rabbinic in origin even in *Eretz Yisrael*, our Sages did not apply it in Syria.
+
 [^72]: I.e., performs the task which completes the work associated with the produce at which time the obligation to separate the *terumot* and tithes takes effect.
+
 [^73]: I.e., it is considered as if it was the gentile's produce entirely.
+
 [^74]: The previous growth of the produce is not significant.
+
 [^75]: Halachah 10.
+
 [^76]: Our translation is based on the Rambam's definition of the term *chocher* in *Hilchot Sechirut* 8:1.
+
 [^77]: Both the terms *aris* and *mekabel* refer to sharecropping agreements. The difference between them is that an *aris* is working for the owner of the field for a percentage of the crops (see *Hilchot Shluchin* 8:5), while a *mekabel* is renting the field from the owner for a percentage of the crops (*Hilchot Sechirut* 8:2).
+
 [^78]: The motivating principle behind these laws is that renting the field is not equivalent to purchasing it, for the land itself does not become his (*Avodah Zarah* [[Avodah Zarah 15#15a|15a]]).  
     In *Eretz Yisrael*, by contrast, a person entering any one of these types of agreements would be obligated to separate the tithes (Radbaz).
+
 [^79]: See the *Kessef Mishneh* who debates whether, to be obligated, the Jew must purchase the field or it is sufficient for him to purchase the produce alone without purchasing the land. It appears that he concludes that if one does not purchase the field, he is exempt as indicated by Halachah 15.
+
 [^80]: The Radbaz states that the Jew may not deduct from the tithes the portion of the produce that grew in the gentile's possession. Since it incurred the obligation for tithes while in the Jew's possession and was completed by him, everything else is not of consequence.
+
 [^81]: I.e., when it reached a third of its development.
+
 [^82]: As payment of the produce due the owner from his field.
+
 [^83]: I.e., we allow for the possibility that the sharecropper sold the produce from the field and then purchased other produce to pay the owner his due. The rationale for this leniency is that since the obligation to tithe in Syria is Rabbinic in origin, as long as we are not definitely certain that it applies, we rule leniently. In *Eretz Yisrael*, he would have to separate the tithes (Radbaz).
+
 [^84]: In such a situation, there is room to say that the principle of *bereirah* applies. *Bereirah* means that retroactively, it is considered as if the division that was ultimately made was made at the outset (see *Hilchot Ma'aser* 7:1). To explain within the context of the present situation: Were a portion of the field to belong to the gentile, there would be no obligation to separate the tithes from the grain that grew in that portion. To apply the principle of *bereirah* would mean that, after the division of the crops, it is clarified that at the outset, the portion of the field where the crops given to the gentile grew belonged to him. There is a debate among the Sages whether the principle of *bereirah* can be applied and with regard to halachah, the accepted general principle is that in question of Scriptural Law, it does not apply. Thus in *Eretz Yisrael*, where the obligation to tithe is one of Scriptural Law, we do not accept this principle and maintain that the Jew has a share in the grain given to the gentile and hence, it is under obligation to be tithed.
+
 [^85]: In this instance, all authorities agree that the principle of *bereirah* is not applied.
+
 [^86]: Produce which is forbidden because the *terumot* and the tithes were not separated from it.
+
 [^87]: Hence if a Jew purchases that produce, he must separate the *terumot* and the tithes.
+
 [^88]: In such an instance, there is room to say that the principle of *bereirah* should be applied, because the obligation to separate the tithes is Rabbinic in origin. Nevertheless, since the fundamental obligation is Scriptural, we rule stringently even with regard to this dimension which is Rabbinic (Radbaz).
+
 [^89]: Halachah 13.
+
 [^90]: When quoting these laws, the *Shulchan Aruch* (*Yoreh De'ah* 331:11) states that in the present age, when the obligation to separate *terumot* and tithes in *Eretz Yisrael* is Rabbinic in origin (see Halachah 26), the laws applying to produce grown in Syria also apply to produce grown in *Eretz Yisrael*.
+
 [^91]: And from that verse which speaks of the obligation to separate *challah*, we learn that one is also obligated to separate the *terumot* and the tithes.
+
 [^92]: The Ra'avad differs and maintains that the exemption from the obligation to tithe applies only according to Scriptural Law. According to Rabbinic Law, all authorities agree that one is obligated, for this produce is comparable to that of Ammon and Moav. The Radbaz does not accept this perspective, stating that there is no source which maintains that a Rabbinic obligation exists. The Radbaz does, however, qualify the Rambam's ruling, explaining that it applies only when the work that makes the produce obligated to be tithed is completed in the Diaspora. If this work is completed in *Eretz Yisrael*, the obligation to separate the tithes has already been incurred and they must be separated even if the produce was later taken to the Diaspora. For this reason, in most instances, *terumah* and tithes must be separated from produce that is grown in *Eretz Yisrael* in the present age and later exported to the Diaspora. This, however, applies to fruits only, not vegetables as stated in Chapter 2, Halachah 6.
+
 [^93]: The *Kessef Mishneh* questions why the obligation to separate the tithes is only of Rabbinic origin. Since the concept is based on the exegesis of the same Biblical term as mentioned above, if the work that made the produce obligated to be tithed was performed in *Eretz Yisrael*, why is the obligation not Scriptural in origin? The *Kessef Mishneh* answers that since the prooftext mentions "the bread of the land," one can conclude that the obligation applies only to produce grown in the Holy Land itself. Alternatively, the *Kessef Mishneh* suggests that indeed if the work that makes the produce obligated to be tithed is completed only in *Eretz Yisrael*, the obligation is indeed Scriptural in origin. This ruling is quoted by the *Siftei Cohen* 331:22.
+
 [^94]: Our translation is based on the Rambam's Commentary to the Mishnah (*Challah* 2:2).
+
 [^95]: Even if it does not have a hole, since wood is porous, it is as if the earth on the ship is connected to the earth in *Eretz Yisrael*.
+
 [^96]: I.e., if the trunk is located in *Eretz Yisrael*, the tithes must be separated from the produce. If it is located in the Diaspora, they need not.  
     The *Rambam LeAm* notes that the laws in this halachah must be qualified on the basis of Halachah 22. For if as stated there, everything depends on where the work that makes the produce obligated in the tithes is completed, of what difference does it make where the produce grows. That text explains that if the person separates tithes from produce that grew in the Diaspora before the work that makes the produce obligated in the tithes is completed, even if that work is completed in *Eretz Yisrael*, the tithes separated are not significant. For at the time, they were separated, there was no obligation to tithe the produce.
+
 [^97]: Generally, if there is a hole in the bottom of a flowerpot, it is considered as if the plant is connected to the earth beneath it. Nevertheless, in this instance, *Gittin* [[Gittin 22#22a|22a]] teaches that we follow the foliage of the plant and not the position of the hole in the flower pot.
+
 [^98]: Who brought about a consecration of *Eretz Yisrael* that is effective until the present day, as stated in Halachah 5.
+
 [^99]: More precisely, the majority of the Jewish people, for the majority is considered equivalent to the entire whole.
+
 [^100]: There is no such phrase in the Torah stated with regard to *terumah* or the tithes. The commentaries explain that *Ketubot* [[Ketubot 25#25a|25a]] makes such a statement with regard to the mitzvah of *challah* based on [[Torah 37 - Sh'lach#^15-18|Numbers 15:18]] and the laws regarding *terumah* are derived from it. See also a parallel ruling in *Hilchot Shemitah VeYovel* 10:8.
+
 [^101]: The Ra'avad differs with the Rambam and maintains that the obligation to separate *terumah* has the status of a Scriptural commandment in the present age. In his *Kessef Mishneh*, Rav Yosef Caro elaborates in support of the Rambam's position and in his *Shulchan Aruch* (*Yoreh De'ah* 331:2), he rules accordingly.
+
 [^102]: In the era of Mashiach. At that time, the observance of all the agricultural laws will return to Scriptural status, as stated in *Hilchot Melachim* 11:1.
+
 [^103]: Indeed, we find several sources (*Yoma* [[Yoma 9#9b|9b]]) where our Sages criticized the majority of the people for remaining in Babylonia.
+
 [^104]: The commentaries point to [[Ezra 02#^2-62|Ezra 2:62-63]] as indicating that in the era of the Second Temple, *terumah* was still observed with the status of a Scriptural mitzvah. For Ezra and Nechemiah restricted the priests whose lineage was not affirmed from partaking of it. Nevertheless, it can be explained that at that time, they were expecting the majority of the people to return and then, the status of the mitzvah would revert to that of Scriptural origin. Lest confusion arise concerning these priests were this to occur, they enforced these restrictions.
+
 [^105]: See *Hilchot Ma'aser* 1:7 which points to several dimensions of the equivalence between *terumah* and the tithes.
+
 [^106]: Although in Halachah 1, the Rambam writes that the Scriptural status of *terumah* and the tithes is not dependent on the Temple, there is no contradiction to this halachah. If the majority of the Jewish people are located in *Eretz Yisrael*, these mitzvos have the status of Scriptural Law, even if the Temple is not standing. Conversely, even if the Temple is standing, if the majority of the Jewish people are not located in *Eretz Yisrael* (as was the case in the Second Temple era), the status of these commandments is Rabbinic (Radbaz).

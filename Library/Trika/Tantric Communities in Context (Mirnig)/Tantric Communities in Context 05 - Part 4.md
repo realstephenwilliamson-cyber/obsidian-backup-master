@@ -217,7 +217,9 @@ Robert Leach[^1]
 “In medieval India,” writes GRANOFF (2000: 399), “rituals often served as identifying markers that divided one religious community from another.” By adopting or rejecting a certain ritual or class of rituals, religious communities could define themselves in particular ways, and by placing limits on the authority to perform certain rituals or by introducing ideas of correct ritual performance, other communities could be differentiated and excluded (ibid.).[^2] In medieval Tantric Śaiva traditions, as Alexis Sanderson has shown in a number of publications,[^3] strategies for inclusion and exclusion often materialised in the form of hierarchies, both of particular rituals and of the practitioners who were qualified to perform them. Tantric Vaiṣṇava traditions used similar classificatory methods. As Granoff goes on to explore, participation in the same rituals could, by the same token, effect a transcendence of sectarian boundaries or a blurring of distinctions between communities. In the event of different communities practising the same rituals, those committed to preserving sectarian boundaries were forced to maintain that the important distinctions lay elsewhere, for example in the supra-ritual identity of one community of practitioners or in the particular 
 
 [^1]: This article was written with the generous support of the Swiss National Science Foundation and the Institute of Asian and Oriental Studies, University of Zurich. I am very grateful to both. My sincere thanks also to Nina Mirnig, Marion Rastelli, and Vincent Eltschinger for their valuable comments and corrections, and to Angelika Malinar for her numerous helpful suggestions. Any errors are my own.
+
 [^2]: My thanks to Angelika Malinar for drawing my attention to this article.
+
 [^3]: See especially SANDERSON 1995: 19–23, 78ff.
 
 *[p. 108]* ^pg127
@@ -227,9 +229,13 @@ Robert Leach[^1]
 Numerous textual sources attest to the fact that in South India in the early centuries of the second millennium of the Common Era (CE) there were a number of distinct sub-traditions within the tradition of Tantric Vaiṣṇavism called “Pāñcarātra.”[^4] In the South Indian Pāñcarātra literature itself, the number of these sub-traditions is most commonly given as four, and these are usually named as the Āgamasiddhānta, the Mantrasiddhānta, the Tantrasiddhānta, and the Tantrāntarasiddhānta.[^5] We also find this fourfold division in the *Pāñcarātrarakṣā* (“Defence of the Pāñcarātra”) by the fourteenth-century Viśiṣṭādvaitavedānta author Veṅkaṭanātha, whom I shall refer to henceforth as Vedāntadeśika, the honorific by which he is now more commonly known.[^6] Of the published Pāñcarātra Saṃhitās at our disposal, none, as far as I am aware, affiliate themselves with the Tantrasiddhānta or the Tantrāntarasiddhānta, though in his *Pāñcarātrarakṣā* (pp. 30,18–31,6) Vedāntadeśika reports that the *Śrīkarasaṃhitā*, an apparently lost scriptural work, aligns itself with the latter. Several extant South Indian Pāñcarātra texts, or portions thereof, do however associate themselves with either the Āgamasiddhānta or the Mantrasiddhānta,[^7] and it appears, on the basis of these texts, as well as Yāmuna’s *Āgamaprāmāṇya*[^8] (“The Validity
 
 [^4]: In what follows, I refer to the tradition as “Pāñcarātra” unless I am referring to a particular text or passage which uses the earlier designation (“Pañcarātra”), since by the time of the composition of the (post-Yāmuna) South Indian Saṃhitās, which form the principal subject matter of this article, the former name, literally meaning “pertaining to” or “belonging to” the Pañcarātra and previously used to denote the followers of the tradition (see, e.g. Kumārila’s *Tantravārttika* on *sūtra* 1.3.4 and Bhaṭṭa Rāmakaṇṭha’s NPP 87.22ff.), had become the standard name for the tradition itself.
+
 [^5]: For a discussion of these classifications and a list of the Pāñcarātra texts in which they appear, see RASTELLI 2006: 185–251 and LEACH 2014. The term *siddhānta*, ordinarily meaning an established conclusion or doctrine, is best understood here as, in RASTELLI’s (2006: 185) words, “eine Lehre und die damit verbundene Tradition, die sich vor allem auf die religiöse Praxis bezieht” (a teaching and the tradition bound to it, which refers above all to the religious practice). The Saṃhitās provide their own explanations of the term (see RASTELLI 2006: 185–186).
+
 [^6]: On the four Pāñcarātra Siddhāntas in the *Pāñcarātrarakṣā*, see LEACH 2012.
+
 [^7]: For instance, the PārS (e.g. at 19.522ff.) associates itself with the Āgamasiddhānta, while the PādS (1.1.86cd), the BhT (22.88, 24.17–50), the ŚrīprśS (16.31c– 34), and the MārkS (1.26ab) associate themselves with the Mantrasiddhānta.
+
 [^8]: Although he does not name either the Āgamasiddhānta or the Mantrasiddhānta, Yāmuna clearly distinguishes between two (unnamed) Pañcarātra traditions: one
 
 *[p. 109]* ^pg128
@@ -259,10 +265,15 @@ to a Brahmanical kinship group (*gotra*)[^12] and are not qualified to use Vedic
 At least in normative terms, then, the divide between Siddhāntas is radically more pronounced than the distinctions found in apparently earlier classifications of different types of Pāñcarātra devotees, such as the distinction between those “with desires” (*sakāma*) and those “without desires” 
 
 [^12]: See e.g. PādS 4.21.41ab.
+
 [^13]: See e.g. PādS 4.21.37c–39b; ŚrīprśS 16.31c–34.
+
 [^14]: See e.g. PādS 4.21.33–35b, 43–46.
+
 [^15]: As is the case with much of the anonymous Pāñcarātra literature, it is extremely difficult to establish the date of the composition of the *Pādmasaṃhitā*. RASTELLI (2003) argues that it can be determined only in relation to other Saṃhitās and places the bulk of its composition between that of the *Paramasaṃhitā*, from which it borrows, and that of the *Pārameśvarasaṃhitā*. Her suggestion that it is subsequent to the *Ahirbudhnyasaṃhitā* as well as to the lifetime of Rāmānuja would most likely place it towards the end of the twelfth century, or shortly thereafter.
+
 [^16]: PādS 4.21.45: *yāceta mantrasiddhānte dīkṣitaṃ viprasattamam* | *pūjārtham āt-mano bimbapratiṣṭhākarṣaṇādiṣu* (corr., *karaṇādiṣu* ed.) ||. For a fuller discussion of this and aforementioned passages in the *Pādmasaṃhitā*, see RASTELLI 2006: 198–216.
+
 [^17]: For instance, the claim that Āgamasiddhāntins are not qualified to perform the rites involved in the construction of temples and the installation of images of God is countered at PārS 15.14c–20 (on which see RASTELLI 2006: 203).
 
 *[p. 112]* ^pg131
@@ -272,8 +283,11 @@ At least in normative terms, then, the divide between Siddhāntas is radically m
 According to scriptural testimony, as with the *sakāma* and *niṣkāma* worshippers, members of each of the four Pāñcarātra Siddhāntas could belong to any of the four social classes (*varṇa*).[^19] The four Siddhāntas are differentiated from each other in a variety of ways, including the different principal deity or deities worshipped and the different *mantra*s used, though many of the accounts we have of these matters contain conflicting information, with “insider” and “outsider” descriptions of a particular Siddhānta only occasionally in agreement with one another.[^20] One distinguishing feature between the Āgama and the Mantra Siddhāntas which is reported in several Mantrasiddhānta sources and does not appear to be contradicted by any Āgamasiddhānta account (see RASTELLI 2006: 193– 195) is that the Āgamasiddhānta cannot be joined via a ritual of initiation (*dīkṣā*).[^21] Rather, there are a number of textual clues, including those found 
 
 [^18]: PauṣS 19.51–52b: *pravṛttiś ca nivṛttiś ca karma caitad dvidhā ’bjaja* | *jayanti bhogaikaratāḥ pravṛttena tu karmaṇā* || *paritṛptās tu sambhogair nivṛttenācaranti ca* |. “And action, this is twofold, O Lotus-born: engagement with worldly activities and disengagement from worldly activities. Those intent upon enjoyments only, they acquire \[those\], to be sure, by means of engaged action. But those satiated by \[such\] enjoyments, they proceed with disengaged \[action\].”
+
 [^19]: See e.g. PādS 4.21.37–73b on the Āgama, Tantra, and Tantrāntara Siddhāntas, and 3.1.15c–17b and 4.2.61c–64 on the Mantrasiddhānta.
+
 [^20]: In the cases of the Tantra and the Tantrāntara Siddhāntas, as already mentioned, we have no insider accounts.
+
 [^21]: See e.g. PādS 4.21.53 (→ BhT 24.25): *na dīkṣā naiva dehasya dahanādi-*
 
 *[p. 113]* ^pg132
@@ -300,9 +314,13 @@ later scriptural works which possibly postdates Vedāntadeśika,[^25] as well as
 claimed to belong to a Vedic school which was widely recognised as such, namely the Vājasaneyaśākhā. In his *Āgamaprāmāṇya*, Yāmuna distinguishes several times between the Ekāyana and the Vājasaneya or “Vājasaneyaka” schools (*śākhā*) and their respective followers within the Pañcarātra,[^27] while the later *Pādmasaṃhitā*, in its account of the origin of the Mantrasiddhānta (at 4.21.2ff.), places this tradition firmly within that of the White Yajurveda by claiming that the Mantrasiddhānta’s first initiates were 8,000 seers (*ṛṣi*) belonging to the Kāṇva and Mādhyandina recensions (i.e., of the *Vājasaneyisaṃhitā*).[^28] Once they had been initiated, we are told, these seers were instructed to recite the “Kāṇvī” and “Mādhyandinī” recensions, and to accompany their performance of Vedic rituals such as *somayāga* with visualisation (*dhyāna*) and worship of Viṣṇu (*bhagavat*, PādS 4.21.9–11b). A few verses later, the author of this section of the *Pādmasaṃhitā* asserts that Mantrasiddhāntins “should meditate on” or “should visualise” (*dhyāyeyuḥ*) and honour Vāsudeva’s image (*bera*) with Vedic *mantra*s (*trayīmantra*, PādS 4.21.28c–29). The *Pādmasaṃhitā* presents this amalgamation of Pāñcarātra Viṣṇu-worship and Vedic ritual as indicative of the Mantrasiddhānta, and a later scriptural work which borrows from the *Pādmasaṃhitā* and which affiliates itself with the same Siddhānta, namely the *Bhārgavatantra*, calls Mantrasiddhāntins “mixed” (*miśra*) as opposed to “pure” (*śuddha*) Vaiṣṇavas (the latter being the Āgamasiddhāntins), apparently for this reason.[^29] Another important contrast
 
 [^25]: See ŚrīprśS 49.471c–473, wherein the *Jayākhyasaṃhitā*, *Sātvatasaṃhitā*, and *Pauṣkarasaṃhitā* are presented as offering different versions of the Mūlaveda, tailored to suit the varying abilities of students. See also the *Adhikaḥ Pāṭhaḥ* section of the JS (1–12b), wherein the “three jewels” are presented as constituting a single teaching (*ekaśāstra*).
+
 [^26]: SāPr on ĪS 1.64–67: *idaṃ sātvatapauṣkarajayākhyatantratrayaṃ mūlavedasya sūtrarūpam.*
+
 [^27]: See ĀP 140.5–7, 141.8–10, and 169.5–8.
+
 [^28]: See RASTELLI 2006: 229–230 for a brief synopsis of this passage.
+
 [^29]: See BhT 24.17–18 and the discussion in RASTELLI 2006: 223. The mixed Vaiṣṇavas are described here as “learned in the three Vedas” (*traividya*), while the “pure” Vaiṣṇavas follow the Ekāyanaveda. COLAS (1990: 26) reports that the Vaikhānasa work *Kriyādhikāra*, which was composed around the time of Yāmuna (COLAS 2011), also divides the Pāñcarātra into *miśra* and *śuddha* sub-groups, and that according to the *Yajñādhikāra*, another Vaikhānasa work from the same period, the latter does not conform to Vedic norms (*vedamaryādā*).
 
 *[p. 115]* ^pg134
@@ -312,7 +330,9 @@ with the Āgamasiddhāntins, who consider their own tradition superior to the Ve
 In spite of their differences and the apparent enmity which led followers of both Siddhāntas to criticise and subordinate the other, several Pāñcarātra works enjoin coparticipation in temple rituals between Ekāyanas and other Pāñcarātrikas, including those who, like the Mantrasiddhāntins, are described as having expertise in the Vedas. For instance, in the final two chapters of the *Sātvatasaṃhitā*, which are likely a later addition to this text (LEACH 2012: 144–146), four Ekāyanas are named among the professional assistants to the officiating temple priest (*guru*) – they are called the “guardians of the image” (*mūrtipa*) – in a sequence of rites relating to the construction of a temple (SS 24.282–433) and the subsequent installation and worship of an image of Viṣṇu (SS 25.39–260b). These Ekāyanas, who are to be seated by the *guru* in the four cardinal directions (SS 24.310cd) at the fire sacrifice during the installation of the pots, are identified as Brahmins (*vipra*, e.g. SS 25.118d), and they receive instructions from the officiating priest together with the other professional assistants (SS 25.106ab), who are also identified as Brahmins and who are said to be experts in one or another of the four Vedas (e.g., SS 24.291a, 25.157ab). These latter assistants are evidently also Pāñcarātrikas, and indeed they are explicitly identified as such for they are called *bhagavanmaya* (“consisting of the Lord,” SS 24.288b, 326b), which is a common way of referring to Pāñcarātrikas both in the *Sātvatasaṃhitā* and in other scriptural works.[^32] It is notable that throughout the installation rites the Ekāyanas are instructed to recite not only Pāñcarātra *mantra*s but also Vedic ones (e.g. at SS 
 
 [^30]: See e.g. PādS 4.21.14–15. It appears that in this period the label “Bhāgavata” was associated especially with Mantrasiddhāntins (see also PauṣS 38.41c–42). However, Ekāyanas also used the term in reference to their own tradition (e.g. PārS 1.77–78).
+
 [^31]: See e.g. PādS 1.1.91cd: “This Tantra is rooted in Śruti and is an authority like the Kalpasūtras” (*śrutimūlam idaṃ tantraṃ pramāṇaṃ kalpasūtravat*). This verse is also found in the ViṣS (8.5ab) as well as in the later MārkS (1.38ab) and ŚrīpurS (1.26cd).
+
 [^32]: See e.g. SS 6.74cd, 7.107c–109b, and 22.46. Elsewhere, see e.g. JS 16.7–9, 18.6 and PauṣS 27.207cd, 32.88–89.
 
 *[p. 116]* ^pg135
@@ -322,8 +342,11 @@ In spite of their differences and the apparent enmity which led followers of bot
 These sections of the *Sātvatasaṃhitā* and the *Pauṣkarasaṃhitā* are written in the optative mood, and should accordingly be interpreted as offering prescriptive rather than descriptive accounts of the rituals in question. However, as far as I am aware, there is little reason to doubt that these rituals were performed approximately according to instruction, albeit via the mediation of the officiating priest or preceptor who is the addressee of the injunctions.[^35]The *Īśvarasaṃhitā*, which postdates the *Pārameśvarasaṃhitā*, informs us that (at the time of its composition, probably in the thirteenth or fourteenth century) Hari is worshipped according to the dictates of the *Sātvatasaṃhitā* in Yādavācala (Melkote or Melukote in modern-day Karnataka) and the *Pauṣkarasaṃhitā* in Śrīraṅgam, and the slightly later *Adhikaḥ Pāṭhaḥ* section of the *Jayākhyasaṃhitā* corroborates these claims.[^36] It is also noteworthy that the majority of these sections of the *Sātvatasaṃhitā* and the *Pauṣkarasaṃhitā* were incorporated into one or both 
 
 [^33]: These are listed by HIKITA 2005.
+
 [^34]: See also PauṣS 42.122c–126, where the Ekāyana Brahmins are seated together with the experts in the Sāmaveda “on the west side facing east” (*prāṅmukhaṃ paścime bhāge*) of the sacrificial hall (*yāgāgāra*).
+
 [^35]: The bulk of the Pāñcarātra Saṃhitās have the function of manuals which are intended to guide the preceptor (usually *ācārya* or *guru*, less commonly *deśika*) through the officiation of rituals. As far as the other participants in the ritual are concerned, it is the preceptor rather than the text which acts as the guide. See LEACH 2012: 21–24.
+
 [^36]: See ĪS 1.67: *etattantratrayoktena vidhinā yādavācale* | *śrīraṅge hastiśaile ca kramāt sampūjyate hariḥ* ||; and the Adhikaḥ Pāṭhaḥ of the JS 12c–13b: *sāttvataṃ yaduśailendre śrīraṅge pauṣkaraṃ tathā* || *hastiśaile jayākhyaṃ ca sāmrājyam adhi-tiṣṭhati* |. Yaduśaila is another name for Yādavācala or Melkote.
 
 *[p. 117]* ^pg136
@@ -333,7 +356,9 @@ of the *Pārameśvarasaṃhitā* and the *Īśvarasaṃhitā*, and that these te
 As well as textual borrowings, there are also signs of mutual influence between the two Siddhāntas, especially with regard to the classification of Pāñcarātra scriptures (LEACH 2014). Presumably the Ekāyana claim that the Ekāyanaveda is unauthored (or, literally, that it does “not derive from a \[human or divine\] person,” *apauruṣeya*) is an instance of the Ekāyanas 
 
 [^37]: For the parts of chapters 24–25 of the SS incorporated into the *Pārameśvarasaṃhitā*, see RASTELLI 2006: 577–578; for the parts incorporated into the *Īśvarasaṃhitā*, see LEACH 2012: 143, n. 241. Chapter 42 of the PauṣS also contains parallel verses with the *Pārameśvarasaṃhitā* (see RASTELLI 2006: 574) and the *Īśvarasaṃhitā*. In the latter case, these include PauṣS 42.18c–71 → ĪS 16.29c–82; PauṣS 42.115–117 → ĪS 14.58–60; PauṣS 42.121–123b → ĪS 18.45c–47; PauṣS 123c–126b → ĪS 11.102c–105b. That the *Pārameśvarasaṃhitā* was used in Śrīraṅgam and the *Īśvarasaṃhitā* in Melkote (Yādavādri) is attested in the *Adhikaḥ Pāṭhaḥ* of the JS 13c–14b: *pādmatantraṃ hastiśaile śrīraṅge pārameśvaram* || *īśvaraṃ yādavādrau ca kāryakāri pracāryate* |. The *Adhikaḥ Pāṭhaḥ* is datable to the fourteenth century (SOUNDARA RAJAN 1981: 27). In addition, the *Pārameśvarasaṃhitā* contains, in its tenth chapter (vv. 108cff.), a panegyric to the Raṅganāthasvāmin Temple in Śrīraṅgam, while ĪS 20.118ff. is written in praise of Melkote (Yādavācala or Yādavagiri).
+
 [^38]: This is further corroborated by the later *Kōyilol̤uku* (see HARI RAO 1961: 45ff.), the Tamil “chronicle” or “record” of the Raṅganāthasvāmin temple, though this is, in itself, hardly a reliable source (ORR 1995).
+
 [^39]: For instance, the Āgamasiddhāntin *Pārameśvarasaṃhitā* borrows from the Mantrasiddhāntin *Pādmasaṃhitā* (see RASTELLI 2006: 570–571). On Mantrasiddhāntin authors borrowing from Āgamasiddhāntins, see LEACH 2014.
 
 *[p. 118]* ^pg137
@@ -345,8 +370,11 @@ Monotheism and the pursuit of liberation alone are also, according to Ekāyanas,
 This attitude is exemplified in several passages in the *Pauṣkarasaṃhitā*. Modern scholars have commonly assigned a relatively early date and a North Indian provenance to this work, but as I have argued elsewhere (LEACH 2012), there are numerous indications that significant portions of the extant *Pauṣkarasaṃhitā* were composed and added to the text in South India. At least some of these interpolations appear to have been authored by Ekāyanas (ibid.). Among such passages, we encounter several descriptions both of the Ekāyanas and of other Pāñcarātrikas. While the former are variously presented as Ekāntins (e.g., PauṣS 36.261a), as devotees without 
 
 [^40]: See Yāmuna’s claim that the authorlessness (*apauruṣeyatva*) of the Ekāyana recension (*ekāyanaśākhā*) is “treated at length” in the *Kāśmīrāgamaprāmāṇya* (ĀP 170.7–9). For the Ekāyana claim that the Ekāyanaveda is unauthored, see e.g. PārS 19.523–525b (→ ĪS 21.561b–563) and ŚrīprśS 2.38–41.
+
 [^41]: See e.g. PārS 1.16c–19b, 32c–34, 74c–75; 10.145–146.
+
 [^42]: On the figure of the Ekāntin in the *Nārāyaṇīya* and in later Pāñcarātra literature, see LEACH 2012: 177ff.
+
 [^43]: See e.g. PādS 4.21.11c–12, 25 and the discussion in RASTELLI 2006: 230.
 
 *[p. 119]* ^pg138
@@ -356,7 +384,9 @@ desires (*akāma*, PauṣS 31.203cd), as those who do not desire the fruits of w
 Knowing thus \[i.e., that Puruṣottama is the “inner ruler” (*an-taryāmin*) of all gods\], one should certainly never perform mixed devotion. (259) Indeed one who desires the supreme goal must avoid \[that\] with every effort. Those Brahmins that are called Ekāyanas are truly devotees of Acyuta. (260) They who worship Viṣṇu as a duty \[that is\] without fruit, worshipping no other \[God\], are Ekāntins who \[will\] exist in their true state after death. (261) \[In other words,\] at death they attain the state of Vāsudeva, O Lotus-born! And the others
 
 [^44]: The term “mixed worshipper” is not directly explained in either the *Pauṣkarasaṃhitā* or the *Pārameśvarasaṃhitā*. However, the latter text refers to the Vedas as the “mixed *dharma*” (*miśradharma*), apparently on account of the fact that they refer to deities (*deva*) other than Vāsudeva (PārS 1.45–52) and are concerned with the fulfilment of various desires (*kāma*), i.e., rather than being concerned only with liberation (PārS 1.78–89).
+
 [^45]: PauṣS 31.202c–203a: *kratuvat svalpaphaladāḥ svargadā yady api smṛtāḥ* || *sakāmānām*… |. See also PauṣS 41.98–99.
+
 [^46]: PauṣS 31.149c–150: *kāṅkṣitaṃ nānujānāti sarvajño hṛdaye sthitaḥ* || *aprārthito* *’pi svargaṃ tu bhaktānāṃ yo dadāti ca | kim adeyaṃ hi tasyāsti tasmād abhya-rthanāṃ tyajet* ||.
 
 *[p. 120]* ^pg139
@@ -384,7 +414,9 @@ Evermore beloved, he is revered by all, even his enemies. (152) Possessed of goo
 There is little doubt that this passage has been inserted into the *Pauṣkarasaṃhitā*, for the redactor responsible has made no effort to disguise the fact – the next verses follow on from those which precede this excerpt.[^49] My reason for proposing that this passage has been authored by a self-identifying Ekāyana is that the donor (*dātṛ*) is promised a rebirth as an Ekāntin (I suggest that *Ekāntin* is to be understood synonymously with *Ekāyana* here, as it is elsewhere in this text),[^50] a reward which is hardly likely to have been offered by a non-Ekāyana Pāñcarātrika, for whom the initiation rite (*dīkṣā*) establishes the candidate’s eligibility to be liberated 
 
 [^48]: PauṣS 41.143–155: *phalamūlānnapratiṣṭhāṃ śṛṇu vakṣye phalārthinām* | *nānna-dānāt paraṃ dānaṃ triṣu lokeṣu vidyate* || 143 *sadyaḥprītikaraṃ hṛdyaṃ prāṇadaṃ prāṇinām api* | *utpattāv api saṃskāre rasam annasya kīrtitam* || 144 *annād bhavanti bhūtāni tasmāt sarvaṃ pratiṣṭhitam* | *tac ca pratiṣṭhitaṃ yena tena sarvaṃ pratiṣṭhitam* || 145 *ātmanā saha loke ’smin svarloke brahmasaṃjñite* | *yāvaj jīvaṃ ca nīrogo vased duḥkhavivarjitaḥ* || 146 *putradāradhanair annair vṛddhiṃ yāti kṣaṇāt kṣaṇam* | *prāpnoti paramāṃ pūjām utkṛṣṭebhyo mahattarām* || 147 *devatā ṛṣayaḥ siddhās tasya saṃcintayanti ca* | *nityam eva parāṃ vṛddhim āyuṣaḥ saha connatām* || 148 *hṛṣṭaḥ puṣṭas tato bhūtvā tṛpto bhavati sarvadā* | *bhuktvā bhogān suvipulān ante nārāyaṇālayam* || 149 *yāti candrapratīkāśair vimānair devanirmitaiḥ* | *svargādau sarvaloke tu sthitvā kalpaśatān bahūn* || 150 *kālāt punar ihāyāti deśe sarvottame śubhe* | *satāṃ kule samāsādya janma jātyuttamaṃ mahat* || 151 *jāyate rūpavān vāgmī vidyājñānaparāyaṇaḥ* | *dviṣatām api sarveṣāṃ pūjyaḥ priyataraḥ sadā* || 152 *śīlavān śauryasampanno dhṛtyutsāhasamanvitaḥ* | *dvijadevaparo nityaṃ dātā bhūtahite rataḥ* || 153 *ekāntī dharmavettā vai nārāyaṇaparāyaṇaḥ* | *trivargam akhilaṃ bhuktvā yathā-bhimatalakṣaṇaḥ* || 154 \**janmabhyas* (corr., *janmābhyas* ed.) *taṃ śubhaṃ karma kṛtvānantaguṇaṃ punaḥ* | *jñānam āsādyate yena prayāti paramaṃ padam* || 155.
+
 [^49]: The preceding section (PauṣS 41.98–142) is concerned with the establishment (*pratiṣṭhāpana*) of the stepwell (*vāpī*), vertical well (*kūpa*), tank (*taṭāka*), and pleasure garden (*ārāma*), and the following verse (PauṣS 41.156) returns to this theme.
+
 [^50]: See e.g. PauṣS 32.72cd. See also 36.261, translated above, and LEACH 2012:
 
 *[p. 123]* ^pg142
@@ -394,6 +426,7 @@ from rebirth and to join Viṣṇu in his “supreme abode.”[^51] The idea exp
 Elsewhere in the *Pauṣkarasaṃhitā* we find similar expressions of the same idea. For instance, in a passage concerned with the festival centred around the investiture of God’s icon with the sacred thread (*pavitrāropaṇa*), it is said that a man who makes donations of cattle, land, and gold (*gobhūsuvarṇa*) on a daily basis (*pratyaha*) for as long as he lives will attain the fruit of these donations “during a maximum lifespan” (*paramāyuṣi*) and will then journey to heaven (*diva*) “by means of moon-like carriages” (*yānaiś candrapratīkāśaiḥ*) (PauṣS 30.174c–177). Born again into an auspicious family, he will become devoted to Nārāyaṇa in thought, word, and deed (*karmaṇā manasā vācā nārāyaṇaparo bhavet*, PauṣS 30.180cd), will live a long life free of sickness and sorrow (*vyādhiśokavinirmukta*), with sons and wives etc. (*putradārādika*), and will then go to White Island (*śvetadvīpa*), where he will achieve identification with the supreme Brahma (*paraṃ brahmatvam āyāti*) (PauṣS 30.178c– 184b). Although there is no explicitly “Ekāyana” terminology employed in these verses, they are likely to have been authored by an Ekāyana (or “Ekāntin”) for the same reasons I have put forward with regard to the passage concerning the donation of food to the temple: a worshipper who desires the “fruits” of his worship cannot attain liberation in this lifetime. The best he can hope for, soteriologically speaking, is an auspicious rebirth as one who is completely devoted (“in thought, word, and deed”) to Nārāyaṇa.[^52] Only then is he an Ekāntin who may go to White Island. 
 
 [^51]: See e.g. PādS 4.21.15, LT 41.5c–6, ŚrīprśS 16.18c–19.
+
 [^52]: Cf. PārS 13.114c–115, where rebirth as an Ekāyana is promised as the reward for the performance of one’s ritual duties (see RASTELLI 2006: 194–195).
 
 *[p. 124]* ^pg143
@@ -401,7 +434,9 @@ Elsewhere in the *Pauṣkarasaṃhitā* we find similar expressions of the same 
 In another passage of the *Pauṣkarasaṃhitā* which conveys the same idea, the identity of the author is more explicit This passage is a continuation of the passage quoted earlier (PauṣS 36.259c-263b), wherein mixed worshippers are condemned as “false devotees” (*bhaktābhāsāḥ*) and the Ekāyanas are named as the true devotees of Acyuta. Having censured the “mixed worshipper” (*vyāmiśrayājin*) in this way, however, the author of these verses goes on to assert that provided he (the mixed worshipper) has undergone initiation and is completely devoted to Nārāyaṇa, to ceremonial rites such as *mantra*-repetition (*japa*), and the offering of gifts into the sacrificial fire (*homa*) as well as to singing the praises of God (*stuti*), “even he, indeed, can attain the world of Viṣṇu at death and, after obtaining a superior rebirth, he may become, from \[the time of his\] childhood, O best among the twice-born, a Tanmaya, well-versed in the rituals pertaining to the Lord and having him as his chief object. And not aiming at the fruit \[of his worship\], even in times of distress, after abandoning the body \[at death\], he does not achieve a rebirth in this world.”[^53] What does it mean to become a Tanmaya in this instance? The term *tanmaya* is used quite commonly in Pañcarātra texts to denote a meditative state in which there is a perceived identity between the meditating person and the object of their visualisation (see RASTELLI 2009), but in several works it is also used to refer to a particular group of Pāñcarātrikas, namely the Ekāyanas. For instance, in the aforementioned section of the *Sātvatasaṃhitā* which details a sequence of rites relating to the installation (*pratiṣṭhā*) and worship of a divine image in a temple, the four Ekāyanas who are named among the professional assistants to the officiating temple priest are referred to as Tanmayas (SS 25.132a).[^54] Additionally, in the *Pādmasaṃhitā* the Tanmayas are instructed to recite *mantra*s belonging to the Ekāyana “school” or recension (*śākhā*) in contrast to “the most excellent knowers of *mantra*s” who recite from the four Vedas.[^55] In this passage in the *Pauṣkarasaṃhitā*, then, after contrasting the Ekāyanas and the “mixed worshippers,” and condemning the latter, the author is declaring that an initiated mixed worshipper who is completely devoted to Nārāyaṇa and to performing his ritual
 
 [^53]: PauṣS 36.265–267b: *dehānte vaiṣṇavaṃ lokaṃ prāpnuyāt punar eva hi* | *janma cāsādya cotkṛṣṭam ābālyād dvijasattama* || *bhagavatkarmaniṣṇātas tatparas tan-mayo bhavet* | *nābhisandhāya ca phalam āpatkālagato ’pi vai* || *tyaktvā dehaṃ punar janma nāpnuyād iha…* |.
+
 [^54]: Cf. the parallel references in the PārS (15.378a) and the ĪS (18.255a).
+
 [^55]: PādS 4.11.242c–243b: *dikṣu vedāṃś ca caturaḥ paṭheyur mantravittamāḥ* || *vidikṣv ekāyanāṃ śākhāṃ tanmayāḥ sumukhās tathā* |.
 
 *[p. 125]* ^pg144
@@ -417,7 +452,9 @@ This is true, O wise one, just as you have urged. But when this other type of ri
 What can we deduce from these verses? First of all, they were evidently composed after those portions of the *Pauṣkarasaṃhitā* which forbid the practice of mixed worship, for they refer directly to these prohibitions. Since the parts of the *Pauṣkarasaṃhitā* which forbid mixed worship were 
 
 [^56]: See e.g. *Arthaśāstra* 6.1.3–5, where *utsāha* is listed among the exemplary qualities of a king (*svāmin*), and *śaurya* is named as one of its attributes (*guṇa*); and *Mahābhārata* 6.40.43 (*Bhagavadgītā* 18.43), wherein the duty of the Kṣatriya (*kṣat-rakarma*) is said to involve *śaurya* and *dhṛti*.
+
 [^57]: PauṣS 38.47ab: “O God, being a mixed worshipper is repeatedly prohibited” (*deva vyāmiśrayājitvaṃ pratiṣiddhaṃ punaḥ punaḥ*).
+
 [^58]: PauṣS 38.48–50c: *satyam etan mahābuddhe yathā sañcoditaṃ tvayā* | *kin tu kriyāntare prāpte na dośas tv adhikāriṇām* || 48 *yasmāt sarvaparatvaṃ hi teṣām asty acyutaṃ prati* | *tadāśritatvād devānām anyeṣāṃ pūjanāt tu vai* || 49 *na doṣo hi yathā loke bhrātṛbhṛtyagaṇasya ca* | *mānanād dharmapatnīnāṃ*… || 50.
 
 *[p. 126]* ^pg145
@@ -429,6 +466,7 @@ We also encounter an indication that some Ekāyanas may have changed their attit
 After worshipping Vāstu (or “Vāstvīśa,” i.e., Vāstupuruṣa, the guardian deity of the temple), Kṣetreśa, Garuḍa, Dvārśrī (also known as Dvāralakṣmī), Caṇḍa, and Pracaṇḍa with *arghya* and so on, one should then worship the temple gods in the temple, in the pavilion at \[each of\] the four \[entrance-\]gates, and in the other \[places\]. (125c– 126) Then, at the three gates \[one should worship\] Dhātṛ and Vidhātṛ, and also Jaya and Vijaya, and Bhadra and Subhadra, and the Lord of the Gaṇas (Ganeśvara, i.e. Viṣvaksena). (127) Worship \[performed\] by a man \[who is\] an Ekāntin which is directed towards the subordinate class of deities which forms God’s retinue,[^60] beginning
 
 [^59]: GRANOFF (2000: 401) defines “ritual eclecticism” thus: “The group of insiders explicitly acknowledges that others have rituals, and then enjoins or permits the practice of those rituals along with the rituals specific to the group itself.”
+
 [^60]: I take *aṅga* here in the sense of “God’s retinue” following Alaśiṅgabhaṭṭa, who glosses *aṅgabhāvam* with *bhagavatparivāratām* in his commentary on the same verse in the ĪS. See *Sātvatārthaprakāśikā* on ĪS 4.2.
 
 *[p. 127]* ^pg146
@@ -438,7 +476,9 @@ with the gatekeepers and ending with Viṣvaksena, assuredly causes distress to 
 It is difficult to draw any firm conclusions from this passage, the bulk of which is also found in the *Īśvarasaṃhitā*.[^63-p127] Indeed, we cannot even be certain that “Ekāntin” here is to be understood as meaning “Ekāyana.” However, there are good reasons for believing this to be the case. First of all, there are other places in the *Pārameśvarasaṃhitā* where the term *ekāntin* is used to refer to the Ekāyanas. Indeed, these include the only uses of the term *ekāntin* which occur in the *Pārameśvarasaṃhitā* prior to the above passage. Both instances belong to the first chapter, where the Ekāyanaveda 
 
 [^61]: Again, I follow Alaśiṅgabhaṭṭa here in taking *api* together with *śiṣyāṇām* rather than with *prakṛtasya*, which would be, grammatically speaking, the more orthodox reading. See *Sātvatārthaprakāśikā* on ĪS 4.4cd.
+
 [^62-p127]: PārS 6.125c–133b: *vāstukṣetreśagaruḍadvārśrīcaṇḍapracaṇḍakān* || 125 *abhya-rcyārghyādibhir devān prāsādasthāṃś ca pūjayet | prāsāde ’tha caturdvāre maṇḍape cetareṣu ca* || 126 *dvāratraye ’tha dhātāraṃ vidhātāraṃ jayaṃ tathā* | *vijayaṃ cāpi bhadraṃ ca subhadraṃ ca gaṇeśvaram* || 127 *yad aṅgabhāvam abhyeti dvārsthādyaṃ devatāgaṇam* | *viṣvaksenāvasānaṃ ca narāṇām alpamedhasām* || 128 *jantor ekāntinas tad vai cittakhedakṛd arcanam* | *vighnakṛt prakṛtasyāpi śiṣyāṇāṃ tadanarcanam* || 129 *atas tadanukampārthaṃ devabhṛtyadhiyārcanam* | *bhaktiśraddhojjhitaṃ caiva vihitaṃ tv evam eva hi* || 130 *te tatpāṇicyutaṃ* (corr. *tatprāṇicyutaṃ*, cf. ĪS 4.5c) *prahvā dattam apy avahelayā* | *gṛhṇanti manasā śreyaḥ paraṃ dhyātvā dhiyā hṛdi* || 131 *yataḥ sarve* *’cyutamayās taccittārpitamānasāḥ* | *etāvad arcanāt teṣāṃ guror ekāntinas tu vai* || 132 *syād virodhanirāsas tu yato bhṛtyas tu te hareḥ* |.
+
 [^63-p127]: PārS 6.125c–126b → ĪS 3.101; PārS 6.128–133b → ĪS 4.2c–7.
 
 *[p. 128]* ^pg147
@@ -448,7 +488,9 @@ is called the *dharma* of the Ekāntins (*ekāntidharma*, PārS 1.60) and the *d
 The passage appears to indicate that Ekāntins or Ekāyanas were being criticised in some quarters for worshipping the subordinate members of Viṣṇu’s entourage, such as Viṣvaksena, the gatekeepers to the temple, and other temple deities.[^65] Presumably, if such criticism genuinely existed, it was based on the notion that worshipping these deities compromised the Ekāyanas’ commitment to monotheism and, by extension (since the subordinate deities cannot grant liberation), to liberation as the exclusive goal to be sought. It is to be noted that in his *Āgamaprāmāṇya*, Yāmuna also makes the point that the subordinate deities are, like the lord of Viṣṇu’s retinue (Viṣvaksena), “dependent upon Viṣṇu.”[^66] However, Yāmuna does not make this point in response to a specific criticism of the practice of worshipping Viṣṇu’s subordinate deities. Indeed, there is no indication in the *Āgamaprāmāṇya* that the Pāñcarātra’s traditionalist opponents included this practice among the litany of those which earned their opprobrium. If the criticism of the Ekāyana worship of Viṣṇu’s entourage was not coming from traditionalist outsiders, then from where was it coming? This is a difficult question to answer, but we should not discount the possibility that it came from other Ekāyanas, perhaps those who were less flexible or less willing to adapt to the changing circumstances in which they found themselves. The author’s strategy in the above passage appears to be to legitimate the Ekāyana worship of the subordinate deities by providing scriptural
 
 [^64]: See also the first use of the term *ekāntin* which occurs after the quoted passage from the sixth chapter of the *Pārameśvarasaṃhitā*. Here, at PārS 10.285–289, the names *ekāntin* and *ekāyana* are used interchangeably.
+
 [^65]: On the mythical plane Caṇḍa, Pracaṇḍa, Dhātṛ, Vidhātṛ, Jaya, Vijaya, Bhadra, and Subhadra are the gatekeepers of Vaikuṇṭha, Viṣṇu’s heaven.
+
 [^66]: ĀP 168.6–7: *devatāgaṇaḥ* || *guṇabhūtaḥ śruto viṣṇor viṣṇupāriṣadeśavat* |.
 
 *[p. 129]* ^pg148
@@ -458,8 +500,11 @@ authority for it, but he also attempts to minimise the “distress” that this 
 Finally, I turn to Vedāntadeśika’s *Pāñcarātrarakṣā*, most likely composed in Śrīraṅgam during the early decades of the fourteenth century (HARI RAO 1976: 116–117). After quoting the PādS (4.19.131–132) to the effect that a Brahmin who is initiated into one Tantra or Siddhānta should not perform rites prescribed by another, Vedāntadeśika goes on to qualify this statement: “Having said this, it is also said, however, that there is authority in the lower Tantras for those following a higher Tantra.”[^68] He then quotes, without attribution, a passage which claims that there is an ascending order of Pāñcarātra initiates, beginning with those who belong to the Tantrāntarasiddhānta and culminating in those who follow the Āgamasiddhānta, and that all initiates are qualified to perform the rites not only of their own Siddhānta but also, as far as possible, of those Siddhāntas which are lower than their own. Thus, since the Āgamasiddhānta is at the top of the hierarchy, its followers are always entitled to worship God in accordance with the other three Siddhāntas, a Mantrasiddhāntin is additionally qualified for the Tantra and Tantrāntara Siddhāntas, and a Tantra-siddhāntin is also eligible for the Tantrāntarasiddhānta. A Tantrān-tarasiddhāntin is qualified only for his own Siddhānta and must worship in his own home.[^69] Vedāntadeśika reports that it is also said here (i.e. in the same unnamed text) that members of each Siddhānta have the authority to worship in temples (*sthāna*) which have been established by a Siddhānta “inferior” (*apakṛṣṭa*) to their own,[^70] which would mean that Āgamasiddhāntins are entitled to worship in any Pāñcarātra temple. 
 
 [^67]: There are echoes here of a process which GRANOFF (2000: 409) describes as an “acknowledgement that rituals cross sectarian boundaries and that some explanation for this that preserves those boundaries is required.” In this case, a boundary is preserved by the instruction that the subordinate deities should be worshipped “without devotion, trust, and respect.”
+
 [^68]: PRR 13.9: *ity uktvā punar apy uparyupari tantrasthitānām adho ’dhas tantrā-dhikāritvam uktam.*
+
 [^69]: PRR 13.10–14.2.
+
 [^70]: PRR 14.3–4: *atrāpy utkṛṣṭasiddhāntasthitenāpy apakṛṣṭasiddhāntasthāneṣu tattatsiddhāntaprakāreṇaiva pūjanīyatvam uktam.*
 
 *[p. 130]* ^pg149
@@ -469,7 +514,9 @@ According to Vedāntadeśika’s anonymous source, therefore, members of the Āg
 The period of mutual animosity between the Āgamasiddhānta and the Mantrasiddhānta, which was probably current for a period during the twelfth and thirteenth centuries, did not last long, and the main reason for this appears to have been that the Āgamasiddhāntins or Ekāyanas could not compete effectively with their more orthodox rivals.[^73] This was, no doubt, primarily due to the fact that they could not claim affiliation with a recognised Vedic school (*śākhā*), and in the Śrīvaiṣṇava-influenced conservative religious environment of South India at this time were therefore less attractive than the Mantrasiddhāntins in the eyes of prospective patrons. However
 
 [^71]: See e.g. PRR 9.6ff., where Vedāntadeśika reports that the *Caryāpāda* (the fourth section) of the *Pādmasaṃhitā* explains in detail the “offence” (*doṣa*) involved in the mixing of Siddhāntas and Tantras (*siddhāntasaṃkara* and *tantrasaṃkara*); and PRR 18.15–19.5, which quotes the PārS (19.545–548b) on the prohibition of the “mixing of Siddhāntas” (*siddhāntasāṃkarya*).
+
 [^72]: PRR 14.6: *mukhyādhikāriṇaḥ santi yadi gauṇādhikāriṇaḥ*.
+
 [^73]: By “orthodox” here, I am referring to the way in which Mantrasiddhāntins position themselves with regard to the Veda. For them, the latter remains, at least nominally, the highest textual authority.
 
 *[p. 131]* ^pg150
@@ -635,8 +682,11 @@ During the final phase of Buddhism in India, monastic communities started to int
 Such must have been the situation in a typical Buddhist community when Maitrīpa (986–1063 CE)[^4-p137] interrupted his career as a monk-scholar at 
 
 [^1-p137]: In other words, great accomplished adepts. The term \**mahāsiddha* refers to any one of a group of Indian Tantric masters. Many of these were historical figures. See BUSWELL & LOPEZ 2014: 508–509.
+
 [^2-p137]: In his *Tattvaratnāvalī*, Maitrīpa includes Tantra within mainstream Mahāyāna by dividing the latter into non-Tantric Mahāyāna, which he calls Pāramitānaya, and Tantric Mahāyāna, which he calls Mantranaya. See TRĀ 3429–10 and MATHES 2015: 59.
+
 [^3-p137]: Lit. “anointment,” a term originally used to refer to the anointment of a king. By extension it was applied to the anointment of a Bodhisattva as a Buddha (see BUSWELL & LOPEZ 2014: 12). In Mantranaya, an *abhiṣeka* refers to a ritual that allows the adept to employ Tantric means of practice, such as visualising himself as a deity, reciting its magical formula (*mantra*), or generating exemplifying bliss in sexual *yoga* (see MATHES 2015: 10–14).
+
 [^4-p137]: ROERICH (1949–53: 842) settled on 1007/10–1084/1087, while TATZ (1994: 65) suggested ca. 1007 – ca. 1085. ROBERTS (2014: 4 and 212, n. 8) rightly points out, however, that ’Gos Lo tsā ba gZhon nu dpal’s (1392–1481) Tibetan historical survey, called the *Blue Annals* (Tib. *Deb ther sngon po*), does not give any precise information on the specific elements attributed to the year, and that according to the life stories of Maitrīpa’s disciples their master must have passed away already before Vajrapāṇi reached Nepal in 1066. See also MATHES 2015: 1.
 
 *[p. 138]* ^pg157
@@ -646,8 +696,13 @@ Vikramapura Monastery[^5-p138] to search out the great Siddha Śavaripa. Having 
 A key role in this process is played by the *Tattvadaśaka*, or “Ten Verses on True Reality,” a text in which Maitrīpa combines an analytic Madhyamaka path of excluding what true reality is not (via negationis) with a direct approach of experiencing true reality as luminosity (via eminentiae
 
 [^5-p138]: According to some Tibetan sources (the biography in the *‘Bri gung bka’ brgyud chos mdzod*, Dpa’ bo Gtsug lag phreng ba’s *Chos byung mkhas pa pa’i dga’ ston* and the one in the Tucci Tibetan fund (ms 1095) being an exception), Maitrīpa did not leave Vikramapura but was expelled from Vikramalaśīla for being involved with alcohol and women (BRUNNHÖLZL 2007: 511).
+
 [^6-p138]: In its Tantric context, *mahāmudrā* stands for the fruition of the path, but for \*Sahajavajra the term is also used to qualify pith instructions and the true reality they reveal. See MATHES 2015: 229.
+
 [^7-p138]: Later known as the collection of texts on non-conceptual realisation (*amanasikāra*). For an edition and translation of this corpus, see MATHES 2015.
+
 [^8-p138]: This is very clear from the *Sekanirdeśapañjikā* of Rāmapāla (one of the four main disciples of Maitrīpa), who glosses *apratiṣṭhāna* as “not to become mentally engaged” and “not to superimpose.” See *Sekanirdeśapañjikā* on SN 29 (SNP 1926): *apratiṣṭhānam amanasikāro ’nāropaḥ*.
+
 [^9]: This will be further explained below. See also MATHES 2015: 20 and 247.
+
 [^10]: SNP 1925–6: *sarvasminn iti pratītyasamutpannaskandhadhātvāyatanādau*... which the term is used in a similar context) we find the Sanskrit equivalent *a-nusāreṇa*. (MATHES 2015: 451).

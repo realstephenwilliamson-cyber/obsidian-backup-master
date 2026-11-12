@@ -100,62 +100,118 @@ Even if [a person] told two others, "I saw one of you take a nazirite vow, but I
 **19.** When does the above apply? When he was walking. If, however, he was riding or carrying a burden, he is impure.[^56] [The rationale is that] it is possible for a person who is walking on his feet not to touch the corpse, have his body pass over it, nor move it. When, by contrast, a person is carrying a burden or riding, it is impossible for him not to touch the corpse, have his body pass over it, nor move it, for the corpse is lying across the path.[^57] ^9-19
 
 [^1]: I.e., he set aside money to pay for the sacrifices of poor nazirites.
+
 [^2]: Even if there are not enough funds remaining to purchase an entire sacrifice, the remaining funds should be contributed toward the purchase of a sacrifice.
+
 [^3]: Since the money was set aside for that purpose, it should be used accordingly.
+
 [^4]: See Halachah 4 for more details concerning this concept.
+
 [^5]: Voluntary burnt offerings whose sacrifice embellishes the altar. Since the money was set aside for use for his own offerings, it should not be used for the offerings of another person. This is the meaning of the phrase *Shekalim* 2:5: "What is left over from a nazirite's [offerings] should go for the sake of that nazirite.
+
 [^6]: Brought to a place where it is impossible to benefit from it. It must be noted that at times the Rambam interprets the term *Yam HaMelach* as referring to the Mediterranean Sea.  
     The rationale for this ruling is that once a person has received atonement, it is forbidden to benefit from any funds designated for his sin offering. See *Hilchot Pesulei HaMukdashim* 4:1. The commentaries also note that in *Hilchot Pesulei HaMukdashim* 5:9, the Rambam writes that money left over from a sin offering should be used to purchase freewill offerings.
+
 [^7]: As the nazirite's peace offering must be accompanied (see Chapter 8, Halachah 1).
+
 [^8]: Like the peace offering brought by a nazirite in contrast to an ordinary peace offering which may be eaten for two days and one night.
+
 [^9]: Although a certain amount of the funds would have been used for a sin offering, since they have not been designated for that purpose, it does not become prohibited to use them for other purposes.
+
 [^10]: As is the law when the owner of a sin offering dies (*Hilchot Pesulei HaMukdashim* 4:1).
+
 [^11]: Since it is known that he is required to bring these sacrifices, it is considered as an appropriate amount has been allotted for each offering. Hence the money set aside for the burnt offering and peace offering should be used for such sacrifices and the money set aside for the sin offering should be taken to the Dead Sea.
+
 [^12]: I.e., a blemish that disqualifies it as an offering. See *Hilchot Issurei Mizbeiach*, chs. 1-2.
+
 [^13]: Since the animal is available for immediate sale, it is considered as if the owner has cash in hand.
+
 [^14]: In which case, she has no obligation to bring the sacrifices.
+
 [^15]: Although there are funds for a sin offering involved, since the purpose was not specified, they may be used for freewill offerings.
+
 [^16]: It is considered as an entirely ordinary animal, as if it had never been consecrated.
+
 [^17]: *Hilchot Arachin* 6:34.
+
 [^18]: It is considered as an entirely ordinary animal, as if it had never been consecrated.
+
 [^19]: This is a general principle, applicable in many contexts with regard to sacrifices. See *Hilchot Arachin* 6:21, 24; *Hilchot Temurah* 1:3.
+
 [^20]: Generally, all of a woman's property is placed in her husband's care during their marriage and all her earnings belong to him. How then can she have money or property that is entirely her own? When a person gives it to her as a present with the above stipulation. See *Hilchot Ishut* 22:27; Hilchot Nedarim *7:17; Hilchot Zechiyah UMatanah* 3:13-14.
+
 [^21]: It is forbidden to benefit from the animal or to use it for any other purpose. Hence, it is left to die. See *Hilchot Pesulei HaMukdashim* 4:1.
+
 [^22]: See Halachah 3.
+
 [^23]: The rationale is that when a husband nullifies a vow, his nullification does not uproot the vow from its source. Instead, his nullification affects only the future. Hence, she is liable for the repercussions of becoming impure and must bring a sacrifice. If, by contrast, she were to have had her vow nullified by a sage, it would have been nullified at its source and it would be as if she was never a nazirite. Hence she would not have to bring a sacrifice. See *Hilchot Nedarim* 13:2 (Radbaz).
+
 [^24]: See Chapter 2, Halachot 13-14.
+
 [^25]: See *ibid.*:15.
+
 [^26]: See Halachah 9.
+
 [^27]: The Radbaz explains that the Rambam interprets our Sages' statements in *Nazir* [[Nazir 13#13a|13a]] as applying when the events occurred in this order. Others interpret the Talmud as speaking about a situation where the sacrifices were set aside after the woman miscarried. According to the Radbaz, the Rambam would not argue with that view. Instead, he is stating that the law applies even in the instance mentioned.
+
 [^28]: See Chapter 1, Halachah 17.
+
 [^29]: Since he is not bound by his nazirite vow after the miscarriage as stated in the cited halachah, it is possible that the consecration of the sacrifices is nullified. On the other hand, that is not a definite fact. Hence our Sages debated this issue.
+
 [^30]: These prohibitions apply with regard to all consecrated animals. Since these prohibitions are Scriptural in origin, they must be observed because of the doubt regarding these animals' status. See *Hilchot Me'ilah* 1:7-8.
+
 [^31]: See Halachot 16-17 which describe how such a situation could arise.
+
 [^32]: As the Rambam proceeds to explain, the nazirite who completed his vow in ritual purity is obligated to bring one set of sacrifices, while the one who became impure must bring a different set. Since it is not known which of these individuals became impure, there is a question which sacrifices they should bring. Neither can bring the sacrifices required by the other as a freewill offering, because the guilt offering that is required when emerging from impurity may not be brought as a freewill offering, nor may the sin offering that is required after completing one's nazirite vow in a state of purity.
+
 [^33]: I.e., sharing the costs equally.
+
 [^34]: This applies when they both took a nazirite vow for the same number of days at the same time (Radbaz). If their nazirite vows conclude at different times, they must wait to the latest date.
+
 [^35]: The other makes similar statements and they both perform all of the rituals necessary in the bringing of the sacrifices. In this way, the one has fulfilled the obligation to bring the sacrifices required when emerging from impurity and the other, the obligation to bring the sacrifices that mark the completion of the nazirite vow.
+
 [^36]: In which they observe all the prohibitions incumbent on a nazirite.
+
 [^37]: In this way, the nazirite who became ritually impure has fulfilled the obligations incumbent on him at the conclusion of his nazirite vow.
+
 [^38]: I.e., sharing the costs equally.
+
 [^39]: The other one makes a similar statement and they each perform all the rites required when bringing these sacrifices.
+
 [^40]: More precisely, the person who was ritually pure was obligated to pay for half the sacrifices of the person who was ritually impure. Thus although no extra sacrifices were offered, he did suffer a slight loss. Nevertheless, this is obviously far preferential than for each one to have to bring the sacrifices required when emerging from ritual impurity on his own as stated in the following halachah.
+
 [^41]: This is the practice followed whenever there is a question whether one is obligated to bring a sin offering or not. This sacrifice is burnt and not eaten (*Hilchot Pesulei HaMukdashim* 19:10). If he was impure, he will have discharged his responsibility by bringing this sacrifice, because after the fact, this is sufficient. The burnt offering and the peace offering are not absolute necessities. See Chapter 10, Halachah 5.
+
 [^42]: This is for the sake of the offerings he is required to bring if he completed his nazirite vow in a state of purity. The peace offering and guilt offering are not absolute necessities. See Chapter 6, Halachah 12; Chapter 10, Halachah 8.
+
 [^43]: In which they observe all the prohibitions incumbent on a nazirite.
+
 [^44]: All three sacrifices, as the Rambam proceeds to explain.
+
 [^45]: The nazirites who entered a situation in which a doubt arouse which of them was impure.
+
 [^46]: Who are not bound by the prohibition against shaving the corners of their heads. See *Hilchot Avodat Kochavim* 12:5.
+
 [^47]: Although a nazirite who is ritually impure and one who completes his nazirite vow in purity is allowed to shave his head, that is permitted because there is a definite positive commandment which supercedes the prohibition. In these instances, however, we are unsure if there is a commandment obligating the nazirite to shave. Hence, no leniency is granted. The nazirite's failure to shave does not prevent him from bringing his sacrifices, as stated in Chapter 6, Halachah 5.
+
 [^48]: See *Hilchot Shaar Avot HaTumah* 16:1. We assume that if the nazirite knew that he was ritually impure, he would not deny it, because we operate under the assumption that a person would not consciously avoid bringing a sin offering if he knew that he was liable (*Keritot* [[Keritot 12#12a|12a]]).
+
 [^49]: *Ibid.*. The Ra'avad differs with the Rambam concerning this principle. The *Kessef Mishneh* justifies the Rambam's view.
+
 [^50]: See *Hilchot Shaar Avot HaTumah* 14:11.
+
 [^51]: For the person's own word supercedes the testimony of one witness.
+
 [^52]: The rationale is that since, because of the doubt inspired by the testimony of the witness, the person willingly accepted the observance of the nazirite vow, he is obligated to observe it (Radbaz).
+
 [^53]: I.e., even if the corpse is in full public view.
+
 [^54]: Thus he would contract ritual impurity by covering the corpse with his body (*ohel*).  
     The Ra'avad differs with the Rambam concerning this issue, citing *Nazir* [[Nazir 63#63b|63b]] as support. The Radbaz and the *Kessef Mishneh* offer interpretations of the Talmud that support the Rambam's position. In that source, the Talmud differentiates between a corpse that is visible and a corpse whose existence is unknown, as explained in Chapter 6, Halachot 18-19. The Rambam maintains that the distinctions apply only after the fact, when the blood from the sacrifices has already been sprinkled on the person. Before then, the ruling depends on the principle: When there is a doubt concerning ritual impurity in the public domain, the person is considered pure. If such a doubt arises concerning a question in a private domain, he is considered as impure.  
     In explanation of the Rambam's position, the *Kessef Mishneh* states that we are speaking about an instance where it is possible for the nazirite, albeit with difficulty, to pass by the corpse without touching it or passing over it. If that is not the case, he is certainly impure. The Radbaz states that we are speaking about any instance where the person could have - and we presume he did - move off the path so as not to touch the corpse.
+
 [^55]: In contrast, if it was not known that a corpse was located there, the nazirite is pure in the case of a doubt.
+
 [^56]: Because, as the Rambam proceeds to explain, it is almost impossible for the person not to contract ritual impurity.
+
 [^57]: And when riding or carrying a burden, the person will not be able to squeeze by.

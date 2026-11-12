@@ -131,95 +131,168 @@ Similarly, one should not cut radishes or other sharp foods[^69] with it at the 
 **21.** When meat has been salted in a bowl,[^70] one is forbidden to eat hot food[^71] in it for all time,[^72] for the blood has already been absorbed in its clay.[^73] [This applies] even if [the utensil] is coated with lead.[^74] ^6-21
 
 [^1]: Although blood is a liquid, the Rambam mentions an olive-sized portion, i.e., a measure of mass, rather than a fourth of a *lug*, a liquid measure. It is possible to explain that since the Torah uses the word "eat" while stating the prohibition, the intent is the same measure that applies with regard to other prohibitions involving "eating," an olive-sized portion.
+
 [^2]: The soul is cut off in this world (i.e., the person dies prematurely) and in the world to come (*Hilchot Teshuvah* 8:1). Whenever a person is liable for *karet*, he is punished by lashes if he was warned before committing the transgression. If lashed, he is absolved from *karet*.  
     *Sefer HaMitzvot* (negative commandment 184) and *Sefer HaChinuch* (mitzvah 148) include this prohibition among the 613 mitzvot of the Torah.
+
 [^3]: This term is used to differentiate this offering from a guilt offering whose value is adjusted according to the person's means.
+
 [^4]: In contrast to the prohibition against partaking of *cheilev*, forbidden fat, which applies only with regard to kosher species of domesticated animals.
+
 [^5]: I.e., the verse uses the term *behemah* which more specifically refers to domesticated animals and mentions both domesticated animals and wild beasts.
+
 [^6]: One may, however, be liable for another prohibition as the Rambam continues to explain.
+
 [^7]: The Ra'avad and the *Maggid Mishneh* note that *Keritot* [[Keritot 21#21a|21a]] states that it is permitted to partake of fish blood that has been collected only when fish scales are placed in it. Otherwise, it is forbidden because of the impression that may be created. The *Shulchan Aruch* (*Yoreh De'ah* 66:9) quotes this view.
+
 [^8]: As apparent from Chapter 3, Halachot 1 and 6, although this prohibition is of Scriptural origin, it is not punishable by lashes. See also Chapter 3, Halachah 22.
+
 [^9]: Chapter 2, Halachot 9-10.
+
 [^10]: I.e., the same blood that he is permitted to swallow.
+
 [^11]: See the Rambam's Commentary to the Mishnah (*Keritot* 5:1) where he states that this is the blood of fundamental importance. See also Halachot 5-6.
+
 [^12]: I.e., blood that flows slowly after the majority of the animal's blood has already been discharged. See the Rambam's Commentary to the Mishnah (*loc. cit.*).
+
 [^13]: There is a difference of opinion among the Rabbis if the prohibition against the blood of the liver is Scriptural or Rabbinic in origin. See the gloss of Rav Moshe HaCohen.
+
 [^14]: The term "blood within the limbs" appears to refer to blood that is absorbed within the meat and organs of the animal. As indicated later in this chapter and as stated in the *Shulchan Aruch* (*Yoreh De'ah* 67:1, this blood is forbidden only when it emerges from the meat or moves from place to place within the meat. See the notes to Halachah 12.
+
 [^15]: There is a distinction between the blood of a fetus and its fat (which is permitted in certain circumstances, see Chapter 7, Halachah 3). The rationale is that the verse forbidding blood prohibits "any blood" (*Lechem Mishneh*).
+
 [^16]: As stated in Halachah 3.
+
 [^17]: According to the *Maggid Mishneh*, even if one slaughters the fetus after removing it from its mother's womb, he is not liable for partaking of its blood.
+
 [^18]: As stated in Halachah 12, the Rambam maintains that even when one roasts meat, he must salt it first. As stated in the notes to that halachah, there are other Rabbis who differ with that point and require salting only when one cooks meat. See also the Rama (*Yoreh De'ah* 72:1) which quotes certain authorities that forbid eating a cooked heart, even if it was cut open and salted.
+
 [^19]: *Pesachim* [[Pesachim 74#74b|74b]] states that the meat of the heart is smooth and hard and will not absorb the blood. Other substances that are cooked with it, however, are forbidden (*Maggid Mishneh* in the name of the Rashba). The Ra'avad and others differ with the Rambam and consider a heart cooked with its blood as forbidden. This is the view cited by the *Shulchan Aruch* (*Yoreh De'ah* 72:2).
+
 [^20]: The heart of a fowl is not large enough for there to be an olive-sized portion of blood absorbed within its meat before slaughter. And it is only that blood for which one is liable for *karet*. If an olive-sized portion of blood collects there when the animal is slaughtered, one is liable for lashes.
+
 [^21]: This indicates that according to the Rambam, even when one cooks blood, one is liable for *kereit* for partaking of it (*Lechem Mishneh*). Other authorities differ and maintain that if blood has been cooked or salted, one is not liable according to Scriptural Law (*Siftei Cohen* 87:15).
+
 [^22]: The *Shulchan Aruch* (*Yoreh De'ah* 73:1) states: "The liver has an abundance of blood. Therefore at the outset, it is not a sufficient measure to prepare it for cooking by salting."  
     The liver must be cut open thoroughly so that the blood contained in the blood vessels inside of it will flow out. Afterwards, placing it in vinegar or hot water causes the blood to be sealed in its place and not to flow into other portions of the liver. It is only blood that flows from place to place within the meat itself that is forbidden (*Kessef Mishneh*).
+
 [^23]: Implied is that if one desires to roast it, there is no difficulty (*Maggid Mishneh*).  
     Many opinions maintain that we are not knowledgeable with regard to the process of casting a liver in vinegar or boiling water in the present age and should not rely on this practice. This view is quoted in the *Shulchan Aruch* (*Yoreh De'ah* 73:2).
+
 [^24]: See the Rambam's Commentary to the Mishnah (*Terumot* 10:11) where the Rambam mentions ordinary roasting and not singeing for the liver to be permitted.
+
 [^25]: The Rama (*Yoreh De'ah* 73:1) states that it must be roasted to the extent that it is fit to be eaten. The *Siftei Cohen* 73:2 explains that this means that it must be roasted at least half the extent to which one would normally roast it.
+
 [^26]: The *Maggid Mishneh* states that this custom is not as widespread as the custom of singeing the liver. Instead, he writes that it is customary to cut open the membrane surrounding it and then to salt it thoroughly. See the *Shulchan Aruch* (*Yoreh De'ah* 71:3).
+
 [^27]: The *Shulchan Aruch* (*Yoreh De'ah* 73:2) follows the opinion that the liver itself is permitted if it is cooked after being salted, though everything cooked with it is forbidden. The Rama, however, states that the Rambam's view should be followed.
+
 [^28]: For then the blood will not flow from the liver to the other meat. Hence, even at the outset, this is permitted. The *Shulchan Aruch* (*Yoreh De'ah* 73:4) states that this ruling applies with regard to the ovens that existed in the Talmudic era. In the present era, however, it is common to turn the spit upside down. Hence, one should not roast the liver together with other meat.
+
 [^29]: That has been salted [*Shulchan Aruch* (*Yoreh De'ah* 74:1)].
+
 [^30]: I.e., the animal suffers internal bleeding when its neck is broken. Since it is in the midst of expiring, it does not have the potential to expel this blood from its system. Instead, it becomes absorbed in its meat [*Tur* (*Yoreh De'ah* 67)].
+
 [^31]: By casting it into vinegar or boiling water.  
     To explain the difficulty the Rambam is addressing: There is a certain amount of blood absorbed in the meat of an animal. It is forbidden to partake of blood that has moved from place to place within an animal's body and cooking meat will certainly cause such movement. To avoid this difficulty, we salt meat, for this removes the blood. Casting meat in vinegar or boiling water does not remove blood, but instead causes it to be sealed in its place without moving even when the meat is cooked. Hence, according to the Rambam, this process is effective for ordinary meat. It is not, however, effective in this instance, for the internal bleeding that resulted from the breakage of the neck leaves blood that is not in its natural place (*Kessef Mishneh*, see also his gloss to Halachah 12).
+
 [^32]: Our translation follows the gloss of the *Lechem Mishneh* who states that one should cut open the meat to allow its blood to flow out. The *Maggid Mishneh* states that it is unnecessary to cut open the meat and his view is accepted by the *Shulchan Aruch* (*Yoreh De'ah* 67:3). The Rama, however, states that at the outset, one should be stringent.
+
 [^33]: It is then permitted, because the salting removes all the blood.
+
 [^34]: Chapter 4, Halachah 13. In that chapter, the emphasis was that the animal was not dead when slaughtered. Here the Rambam is restating the law to emphasize that we do not fear that the blood became absorbed within the meat and will not be released through salting.
+
 [^35]: Among the reasons given for this initial washing are:  
     a) it removes the blood on the external surface of the meat;  
     b) it softens the meat and enables the blood inside to flow out more easily;  
     c) it enables the salt to adhere well to the surface of the meat.
+
 [^36]: A *mil* is a Talmudic measure equivalent to approximately a kilometer. According to many Rabbinic opinions, it takes 18 minutes to walk a *mil*. [This view is cited in the present context by the *Shulchan Aruch* (*Yoreh De'ah* 69:6).] The Rambam, however, follows a more stringent view [see his Commentary to the Mishnah (*Pesachim* 3:2)] and requires 24 minutes.  
     The Rama states that these measures are acceptable only after the fact or when there is an urgent need to prepare meat quickly. Otherwise, meat should be allowed to soak in water for at least half an hour.
+
 [^37]: This washing removes the salt and blood from the meat. The *Shulchan Aruch* (*Yoreh De'ah* 69:7) states that the meat should be washed twice and the Rama requires a third washing.
+
 [^38]: This follows the Rambam's view that we are knowledgeable in the process of casting meat into hot water to seal it in its place. (As mentioned above, there are many who maintain that we lack that knowledge.) Moreover, in this instance, once the meat has been salted, there is no need for this measure, because all its blood has been released. For this reason, the Ra'avad and the *Maggid Mishneh* object to the Rambam's ruling. It is, however, mentioned by the *Shulchan Aruch* (*Yoreh De'ah* 69:19).
+
 [^39]: So that the blood will drain out and not be reabsorbed by the meat. If one salted meat in utensil that did not have holes, all the meat lying in the brine is forbidden. Moreover, the outer surface of the meat above the brine becomes forbidden [*Shulchan Aruch* (*Yoreh De'ah* 69:18)]. The Rama maintains that the entire piece of meat becomes forbidden.
+
 [^40]: The *Shulchan Aruch* (*Yoreh De'ah* 69:3) states that one should be careful not to use salt with overly large crystals for they will not adhere to the meat. The Rama adds that if one has only thin salt, it is permitted to salt meat using it.
+
 [^41]: For the water will stop the meat from releasing blood. Afterwards, the salt may cause the blood on the surface to be reabsorbed into the meat (*Siftei Cohen* 69:27).
+
 [^42]: When meat is cooked, the blood will enter the pot in which it is being cooked and cause the meat and any other substances to become forbidden. When it is being roasted, the blood will flow down from the spit without being absorbed.  
     The *Maggid Mishneh* states that the Rambam's words imply that he maintains that one must salt meat before roasting it. There are other Rabbinic opinions that do not accept that approach. (They are favored by the *Shulchan Aruch* (*Yoreh De'ah* 76:1).  
     The Rashba emphasizes that if one salts meat and does not roast it immediately, he should wash off the salt and the blood. Otherwise, the blood may become reabsorbed. The Rama rules that one should wash meat and salt it slightly before roasting it and should roast it directly after salting it.
+
 [^43]: The Rambam's statements have attracted the attention of the commentaries, for they appear to contradict his approach in Halachah 9 and in the latter clause of this halachah. To explain: From Halachah 9, it would appear that it is forbidden to eat raw meat that is not salted only when there is internal bleeding while the animal is being slaughtered. For although the meat contains blood, that blood is forbidden only when it moves from one part of the meat to another while cooking. If one eats the meat raw, such a transfer will not take place.  
     Similarly, the latter clause of this halachah permits meat when it is cast into vinegar because the blood becomes sealed in its place. Implied is that the blood itself is permitted.  
     This clause, by contrast, states that one must salt the meat to remove the blood even when one eats the meat without cooking it. Implied is that the blood is forbidden even though it has not moved from place to place within the meat. The *Kessef Mishneh* resolves the contradiction, explaining that since the blood is fit to move from place to place, it is forbidden. Hence, the latter clause which speaks about blood that is sealed in its place does not represent a contradiction. Similarly, this interpretation allows Halachah 9 to be understood in a manner that does not produce a contradiction.  
     It must be emphasized that the Ra'avad and many other authorities object to the Rambam's ruling and maintain that as long as the blood has not actually moved from place to place, it is not forbidden. Therefore it is permitted to partake of raw meat without salting it. It must, however, be washed thoroughly to remove all blood on its surface. This view is cited by the *Shulchan Aruch* (*Yoreh De'ah* 67:2).
+
 [^44]: As mentioned previously, in the Ashkenazic community (and also among many Sefardim), the custom of sealing blood by casting meat into vinegar is no longer practice. See Rama (*Yoreh De'ah* 67:6).
+
 [^45]: For its power has been weakened (Rashi, *Chulin* [[Chullin 33#33a|33a]]).
+
 [^46]: The Ra'avad objects to the Rambam's ruling, maintaining that it is based on an improper interpretation of *Chulin* [[Chullin 93#93b|93b]]. The *Shulchan Aruch* (*Yoreh De'ah* 67:4-5 appears to think that the interpretations are not mutually exclusive, for it accepts both of them.
+
 [^47]: An indication that it has absorbed additional blood.
+
 [^48]: For they also contain large quantities of blood. See *Chulin* [[Chullin 93#93a|93a]].
+
 [^49]: Literally, the place where the animal was slaughtered.
+
 [^50]: The Rama (*Yoreh De'ah* 68:1) states that, as an initial and preferred measure, it is customary to be stringent and not to roast the head while it is whole at all, even if the opening to the neck is positioned downward.
+
 [^51]: If, however, a hole is made in the skull and its membranes so that the blood can drain off, the brain is permitted [Rashba, as quoted by the *Maggid Mishneh*; *Shulchan Aruch* (*Yoreh De'ah* 68:1)].
+
 [^52]: The brain must, however, be removed from the skull, before the skull is cooked (*Maggid Mishneh* in the name of the Ramban).
+
 [^53]: That has not been salted and left to let the blood drain off.
+
 [^54]: For if one waits until there is no trace of the blood, the fat that one wishes to collect will also have drained off.
+
 [^55]: One should use only a small amount of salt. If one uses a large amount, the blood will become mixed with the fat (*Maggid Mishneh*).
+
 [^56]: Because it is mixed with blood. Since the fat does not mix with the other liquids but instead floats above them, it remains a distinct entity and is permitted.  
     The *Maggid Mishneh* writes that there are opinions that we are not familiar with the details of this process. Hence one should not rely on this leniency. This approach is followed by the *Tur* and the *Shulchan Aruch* (*Yoreh De'ah* 76:6) which state that one should not place a utensil under the meat until the meat is roasted to the extent that it can be eaten.
+
 [^57]: I.e., once the meat is roasted to the extent that it is fit to be eaten, we assume that all the forbidden blood has drained off.
+
 [^58]: Generally, when pieces of meat are being salted together and the utensil has holes so that the blood can run off, the meat is permitted even if the blood from other meat flows over it. The rationale is that since it is expelling its own blood and/or other juices, it will not absorb blood. Fish, however, will expel its blood and juices far faster than meat or fowl and will complete that process before the meat completes expelling its blood. Hence, we fear that it will absorb the blood from the meat or fowl (*Maggid Mishneh*).  
     All that is forbidden is the external surface of the fish (*kedai kelipah*). Once that is cut off, the remainder of the fish is permitted [*Shulchan Aruch* (*Yoreh De'ah* 70:1)]. The Rama rules that all the fish are forbidden. This stringency applies when the fishes' scales have been removed. If they have not been removed, the fish are permitted.
+
 [^59]: I.e., into the stuffings. Afterwards, the blood will become reabsorbed into the fowl itself and cause it to become forbidden.
+
 [^60]: The *Maggid Mishneh* interprets the Rambam's ruling as being dependent on his ruling in Halachah 10 that after being salted, meat must be placed in hot water. In this instance, the fowl's stuffing prevents the boiling water from having the desired effect on the fowl.  
     Alternatively, the Rambam's ruling can be understood according to the statements of the *Shulchan Aruch* (*Yoreh De'ah* 77:1) who rules that initially one must salt both sides of the fowl. If the fowl was already stuffed, salting just the exterior is not sufficient, because it will not effect the blood on the inside. See also the Rama who rules that at the outset, fowl must be salted properly and any meat placed within it must be salted properly. Only in such a situation should one cook a fowl with stuffing.
+
 [^61]: For the fire will cause all the blood to drain out.
+
 [^62]: Even in such a position, the power of the fire will cause the blood to drain downward.
+
 [^63]: Hence salting is not required.
+
 [^64]: The *Maggid Mishneh* interprets this halachah as referring to fowl that were salted, but were not placed in water after the salting. According to the *Shulchan Aruch* (*Yoreh De'ah* 78:1), it applies to fowl that were not salted. The *Shulchan Aruch* continues, stating that according to the present custom, one should not coat meat that is being roasted unless it has been salted and washed first.
+
 [^65]: I.e., it will not stick thoroughly to the sides of the fowl. Thus there will be space for the blood to drain through.
+
 [^66]: In which instance, the flour is very thin and hence, clings tightly to the fowl.
+
 [^67]: Even if they are not white like silver.
+
 [^68]: The Rambam's ruling is based on the following points. There is a difference of opinion among our Sages (*Chullin* [[Chullin 8#8b|8b]]) whether the portion of the animal's neck where it is slaughtered is considered as "hot" at the time of slaughter, in which instance, when the animal is slaughtered some of its blood would be absorbed into the knife. Or it is not hot, in which instance, there is no such absorption.  
     From the Rambam's ruling (here and in Chapter 17, Halachah 7), it appears that he maintains that the animal's neck is not "hot." Nevertheless, he requires certain safeguards in consideration of the other views.  
     This issue is a matter of concern only when the meat being cut itself is hot. For otherwise, the blood absorbed in the knife will not be transferred to it.  
     The *Maggid Mishneh* mentions that there is another opinion which maintains that even though the animal's neck is cold, the pressure of cutting causes the knife to absorb some blood. See the *Shulchan Aruch* (*Yoreh De'ah* 10:2) and commentaries.
+
 [^69]: Since these foods are sharp, they produce an effect similar to actual heat and have the potential to affect forbidden foods absorbed in a knife. Therefore safeguards should be taken.
+
 [^70]: Seemingly this refers to a bowl that does not have holes. Nevertheless, there are authorities who also forbid using a bowl that has holes. The Rama (*Yoreh De'ah* 69:17) states that at the outset, one should not use even a bowl that has holes, but after the fact, the food is permitted.
+
 [^71]: The *Shulchan Aruch* (*Yoreh De'ah* 69:16) also quotes an opinion that forbids using the bowl for cold food at the outset if it has not been washed.
+
 [^72]: One of the fundamental principles of the laws of kashrut is that an earthenware vessel can never be kashered. Once it absorbs forbidden matter, it will never be dislodged from it (see Chapter 17, Halachah 2). Hence once the bowl has absorbed the blood, there is no way that the earthenware utensil will be permitted again.
+
 [^73]: And will be released when the hot food is placed in it, causing that food to become forbidden.
+
 [^74]: Were the utensil to be made of lead alone, it could be kashered by boiling water in it (*hagalah*), as is the law with regard to metal utensils. In this instance, however, the metal is just a coating and the blood will penetrate to the earthenware base. Hence, it remains forbidden.

@@ -19,7 +19,9 @@ It is no simple thing, however, to identify what is first about the first poem. 
 Two other considerations bear on the question of the *R1mayaâa*’s first-ness. The verse-form that the text celebrates as V1lmEki’s invention (the eight-syllable *anuù•ubh*) in fact antedates the work by a millennium or more. Since later Sanskrit poets such as R1jaéekhara in the early tenth century continued to frame V1lmEki’s primacy in terms of metrics (chapter 5.2), they likely meant this as a kind of synecdoche for the formal innovations of the work as a whole, and these are indeed substantial. Another dimension of newness may lie in its being one of the first major texts committed to writing after the invention of writing in the mid-third century b.c.e. (as already noted and argued further later), the earliest credible date of the text.[^8] The carefully constructed image of a purely oral culture in the prelude—a text unquestionably dated later than the main body of the work—cannot mean what it literally says. When V1lmEki is shown to compose his poem after meditating and to transmit it orally to two young singers, who learn and perform it exactly as he taught it to them, we are being given not a realist depiction but a sentimental “fiction of written culture” (as the phenomenon has been described in the case of the *chansons de geste*). For it clearly cognizes orality as such from outside orality, so to speak, and in a way impossible to do in a world ignorant of any alternative—ignorant, that is, of writing. Nostalgia for the oral and a desire to continue to share in its authenticity and authority, with the same lingering effects of remembered oral poetry, mark other first moments of literary invention across Eurasia. The actual manuscript history of V1lmEki’s poem, then, should be seen as a record of just how difficult and discrepant such inscription turned out to be in the moment of transition to a new, literate, literary culture.[^9]
 
 [^7]: *R1m1yaâa* 1.2.17: *éok1rtasya pravótto me éloko bhavatu n1nyath1.* In the old Indian conceptual universe the phonetic echo indicates an ontological connection.
+
 [^8]: The monumental text by V1lmEki shares too much of the Ashokan spirit to push it back earlier, see Pollock 1986: 23 ff.
+
 [^9]: On the “staging” of an oral communicative situation in vernacularizing Europe, see chapter 11.1 and n. 5 (the quote here is from Gumbrecht 1983, especially 168). A brief account of the manuscript tradition of the *R1m1yaâa* is given in Pollock 1984. A very different state of affairs confronts us with the Sanskrit *Mah1bh1rata,* where the majority of *parvan*s (*Vir1•a* and *Karâa* excepted) clearly descend from a written archetype. The faux orality of textual performance is preserved in the narrative framework, however, with such devices as listener’s questions and narrator’s answers.
 
 *[p. 79]* ^pg100
@@ -31,6 +33,7 @@ We have seen that for the first three centuries of literacy in South Asia, Sansk
 To repeat, what epigraphical evidence therefore establishes is not the date
 
 [^10]: For further detail on the specificity of *k1vya* see Pollock 2003: 41 ff.
+
 [^11]: See the painstaking reconsideration of the R1mgaóh evidence by Falk 1991. For the quasi *praéasti* of the S1tav1hana ç1takarâi by GautamE B1laérE, already considered by Bühler in 1890, see Sircar 1965–83, vol. 1: 203 ff., and Mirashi 1981: 178 (who oddly claims that the inscription was first written in Sanskrit and then converted into Prakrit notwithstanding his view that the S1tav1hanas knew little Sanskrit). Lévi more reasonably observes that the authors of these inscriptions “seem rather to guard against \[writing Sanskrit\] than try to write it; but they resolutely avoid overstepping the precise limit which separates their Pr1krit from classical Sanskrit” (1904: 170). Compare also the nearly contemporaneous inscription of King Kh1ravela (*EI* 8: 60 ff.; chapter 6.2), which differs from classical prose poetry only in dialect (Bloch 1965: 22).
 
 *[p. 80]* ^pg101
@@ -40,8 +43,11 @@ To repeat, what epigraphical evidence therefore establishes is not the date
 Large quantities of early Sanskrit texts survive, and nothing they report conclusively establishes the existence of *k1vya* before the last centuries b.c.e. Some of the oldest textual citations from Sanskrit *k1vya* are found in Patañjali’s *Mah1bh1ùya.* These materials, if astonishingly meager for a treatise on the Sanskrit language some 1500 printed pages long, do attest to a culture of *k1vya* reasonably developed in form and convention.[^14] The problem here is not the data but the date of the *Mah1bh1ùya* itself. The evidence usually adduced for placing Patañjali around 150 b.c.e. is subject to a number of uncertainties, not least the possibility that the grammarian might have been citing predecessors in the passages taken as grounds for early dating. Arguments placing him as late as the middle of the second century c.e. are entirely credible.[^15]
 
 [^12]: The former view has prevailed since Bühler. A recent history gives the standard narrative, dating *k1vya* to the sixth century b.c.e. (Lienhard 1984: 53 ff.).
+
 [^13]: Lévi 1904 (with more cautious allusion to Greek influence, p. 174, but see chapter 7.1); Sircar 1939b.
+
 [^14]: The line “The cocks are crowing, my lovely” (in *m1latE* meter), for example, likely formed part of an aubade; “sword in hand, he ran in pursuit of the P1âbava” (in *vaÅéasthavila* meter) probably comes from a *Mah1bh1rata*- derived poem (*Mah1bh1ùya* vol. 1: 283 and 426). All the literary citations are collected in Kielhorn 1885.
+
 [^15]: Patañjali refers only once to a poet by name, *v1rarucaÅ k1vyam* (on 4.3.101, which is also his sole use of the word *k1vya* in the sense of literature), and he refers to only three literary works (*1khy1yik1*s, on 4.2.60). Since the grammarian could be citing older grammatical materials (even as he elsewhere cites older philosophical materials) in two key historical passages (see chapter 4.1), Frauwallner argues for a mid-second- century c.e. date (1960, especially pp. 111 ff.); so Sircar 1939a. If the *Mah1bh1ùya* is taken as a composite work (denied by Cardona 1978), any precise dating of course becomes impossible. At all events, Patañjali’s is hardly “the only really firm initial date known in Sanskrit writing” (Zvelebil 1992: 102).
 
 *[p. 81]* ^pg102
@@ -53,7 +59,9 @@ Inscriptions, *testimonia,* citations in literature, philology, the history of l
 One factor in determining the beginnings of Sanskrit *k1vya* that has been mentioned so far only in passing needs detailed consideration: the place of writing in the constitution of this particular cultural form and the date of the invention of writing itself in India.[^18] We have seen that a new scholarly consensus places the latter at the Maurya chancery around 260 b.c.e. (chapter 1.2). Whether or not this consensus is true in all particulars, nothing suggests
 
 [^16]: See Tieken 1993. For a pre-fifth- century b.c.e. date for the *R1m1yaâa* see Goldman 1984: 18–23; on “P1âini,” Warder 1972: 103 ff.; equally credulous is his early-third-century b.c.e. dating for a Sanskrit drama by “Subandhu” (pp. 110 –11).
+
 [^17]: The date of one poet thought to be earlier, Candra\[ka\], cannot be fixed with any certainty.
+
 [^18]: On the literacy of *k1vya,* see Pollock 2003: 88 ff. This issue, crucial to the history of vernacularization, is revisited in part 2.
 
 *[p. 82]* ^pg103
@@ -63,7 +71,9 @@ a date for Indic writing before that period, and much evidence from after that d
 By contrast, in the world of Sanskrit culture, grammaticality was divorced from literacy to a far greater degree, and accordingly, literacy and learning were never directly correlated. Whether or not P1âini’s grammar was composed in a nonliterate environment continues to be debated, but there is no doubt that the outright memorization of the grammar and associated texts such as dictionaries remained a feature of elementary Sanskrit education into the modern era. Long after writing became an everyday practice in the Sanskrit world, a bias toward the oral persisted; knowledge that is *kaâ•hastha,* “in the throat,” or memorized, was invariably privileged over knowledge that is *granthastha,* “in a book.” Moreover, the representation of knowledge (or understanding or awareness) itself as impregnated by language-as-speech—and never language-as-text —radically differentiates the medieval Indian world from Latinate Europe of the same epoch. In perhaps the sixth century Bhartóhari, the great philosopher of language, declared that “Understanding has the form of speech, and if everlasting speech were to disappear, light would go out. For it is speech that reflects. Speech-informed awareness is the foundation of all knowledges, arts, and artisanal practices.” This sentiment was echoed a few generations later by the literary theorist Daâbin: “This entire triple world would become pitch darkness if ever to the end of days the light called speech should cease to shine.” Contrast with these normative statements the view of Latin grammarians of the ninth century that “letters are the foundation of all learning,” and “the foundation of wisdom is the letter.”[^21] It is possible to chart how these two very different perspectives derived
 
 [^19]: For example, Gombrich 1990 links the rise of Mah1y1na Buddhism (second to first century b.c.e.) to the new availability of writing, which preserved doctrinally innovative texts that in an oral age would simply have vanished.
+
 [^20]: See Irvine 1994 passim, especially pp. 2 ff.
+
 [^21]: *V1kyapadEya* 1.117–18, “understanding has the form of speech,” *v1gr\[pat1 avabodhasya;* *K0* 1.4, “the light called speech,” *éabd1hvayaÅ jyotin.* Such terminology admittedly refers to language as such, rather than spoken language, but the fact that no distinction is made between the two (and written language is ignored altogether) corroborates the contrast I want to draw. For the (anonymous) Latin grammarians see Irvine 1994: 461.
 
 *[p. 83]* ^pg104
@@ -73,6 +83,7 @@ from a far more archaic conceptual divergence: between a moral order revealed at
 The contrast many draw between India and Europe on the place of writing in culture, then, clearly contains some truth, but it should not be exaggerated. Orality in India sometimes seems as much an ideology as a fact of practice, for the oral ideal persisted long after writing had become fundamental to the Sanskrit tradition itself. The Daâbin and Bhartóhari who celebrated the spoken lived in a world where the written had permeated both *k1vya* and *é1stra* for centuries. Many of the foundational texts of the Sanskrit intellectual tradition were composed in a literate environment even as they bear the shadow of the oral. We have already seen how V1lmEki’s *R1m1yaâa* purports to offer an account of its own oral creation, though a reflexive representation of orality of this sort is possible only in a world aware of literacy as an alternative. Something similar is found in the *Mah1bh1ùya,* a core work of Sanskrit systematic thought that, although indubitably a written text from the first, stylistically memorializes, even mimics, an oral pedagogy.[^22] There is thus no little irony in the fact that Sanskrit culture, in the form in which it became *Sanskrit*—and not just *vaidika*—culture, was centrally based on writing, given the *idée reçu* long dominant in Indology of the culture’s allegiance to orality.[^23] What made *k1vya* historically possible as a cultural practice at all was writing itself; indeed, one could say that *k1vya* was the name given to an expressive text that was written down—and the text was the kind it was precisely because it was written down.
 
 [^22]: Which was in fact based on writing. When discussing *tantra* (where two agents use one object simultaneously), Bhoja cites an exemplum, “those studying grammar \[can do so by using\] a single lamp in the study hall” (*çP* 492), that goes back to çabara (see Raghavan ed., ad loc.). For comparable arguments about Plato’s dialogue genre in relation to a consolidating culture of literacy see Havelock 1963, especially 97.
+
 [^23]: The various components of this belief—whether the supposed prohibition on transmitting the Veda in written form, the valorization of the disembodied *éabdabrahma,* or the indifference to calligraphy—need not testify to primary orality. The MEm1Ås1 argument that the Veda’s efficacy was destroyed if the text was learned *any1yavijñ1t1d ved1l lekhy1dip\[rvak1t,* “in ways contrary to reason, as for example through a written text,” rather than by the rightful *gurumukhocc1raâ1n\[cc1raâa,* “repeating what has been pronounced by the mouth of the guru” (*Tantrav1rttika* on *PMS* 1.3.7, p. 123), implies that literate Vedic learning occurred (which it did, as early as the fifth century c.e., see Falk 1993: 284). Some scholars seem overcredulous in accepting the reality of the image of orality in Sanskrit texts (e.g., Rocher 1994).
 
 *[p. 84]* ^pg105
@@ -88,6 +99,7 @@ Profound meanings never penetrate the heart so intensely as when they flash fort
 Therefore we prize poets far more than actors, and poetry more than dramatic representations.[^25] A century later, the Kashmiri poet and lexicographer Maãkha (fl. 1140) in his courtly epic, the *çrEkaâ•hacarita,* shows that a poem was “published” only
 
 [^24]: *KM* p. 50 line 18. The ready availability of palm leaf and other writing materials (preferred even after the introduction of paper in the thirteenth century) contrasts sharply with the high cost of parchment in Europe, which constituted a serious obstacle to literacy (see chapter 11.1).
+
 [^25]: *çP* pp. 5–6.
 
 *[p. 85]* ^pg106
@@ -99,7 +111,9 @@ He spread out his manuscript-book . . . The letters—black pearls of the jewelr
 The importance of oral performance is also widely attested in Sanskrit literar y theor y. R1jaéekhara’s tenth- centur y *K1vyamEm1Ås1* (Inquir y into Literature) devotes a whole chapter to the foundations of recitation. It opens with a discussion of *k1ku,* intonation, understood in all its complex functionality as communicating emotional, grammatical, informational, and other aspects of the message. The reciter is then described: he may be someone other than the author but he must possess as perfect a command of language as the author. He should modulate his voice depending on the emotional register of the text (even and steady when the action is slow and calm, shriller when the action is faster), pause when the sense demands it, distinctly articulate the sounds the way a tigress carries her cubs in her jaws, careful not to harm them and ever anxious lest they fall and hurt themselves. Even people who do not know the language, from cowherds to women, should be able to enjoy an accomplished recitation. Using a format that recapitulates the spatial domain of Sanskrit systematic knowledge and literary culture (chapter 5), R1jaéekhara closes with a geography of recitative styles.[^27] Whereas authors like Maãkha often performed their own works, the recitation of *k1vya* was also the business of professionals, much as the performance of the *Mah1bh1rata, R1m1yaâa,* and the *pur1âa*s was in the hands of professionals.[^28] One last but by no means least significant feature of this oral-performative dimension, as Maãkha’s account so dramatically demonstrates, is that it rendered Sanskrit *k1vya* a preeminently social, almost congregational, phenomenon. There was a content to this form, too: whatever particular narrative concerns it might have, thematically a *k1vya* typically spoke to the concerns of the social collectivity as such—
 
 [^26]: See respectively *0dipur1âa* ch. 1, esp. 126 ff.; *çrEkaâ•hacarita* 25.10 and 25.143.
+
 [^27]: The various topics are discussed in *KM* pp. 28–34; cf. chapter 5.2.
+
 [^28]: Professional reciters of Sanskrit poetry figure in the twelfth- century *M1nasoll1sa* (see chapter 4.3); the *Harùacarita* of B1âa (c. 650) describes a professional *pur1âa* reader (Pollock 2003: 89). From Bengal to Tamil country we find families who specialized in the recitation and exposition of the *Mah1bh1rata* (chapter 6.1), as in vernacular epics like Kampaç’s *R1m1yaâa* (see chapter 14 n. 61).
 
 *[p. 86]* ^pg107
@@ -109,6 +123,7 @@ a collectivity that, accordingly, became a matrix of Sanskrit cultural theor y a
 The persistent oral aspect of *k1vya* should therefore not be minimized. At the same time, there is no doubt that the written form of *k1vya* was central to its existence and that it was also read, perhaps even read in private, from a very early date. Among the oldest Sanskrit manuscript remains are second-century palm-leaf fragments of Buddhist drama and poetry preserved from Chinese Turkestan, some of which carry interlinear glosses of a Tocharian reader. These texts were disseminated across central Asia in purely written form and, evidently, were privately studied. Nothing suggests that in the following centuries the great Sanskrit genres of *k1vya* ever circulated orally, in any sense of that term familiar to us from preliterate societies. If many individual verses *(muktaka)* were included in the citation repertory of cultural virtuosos, the transmission history evinced by manuscripts of the great genres—*mah1k1vya*s (courtly epics), *camp\[*s (prose-verse narratives), *1khy1yik1*s (dynastic prose-poems)*,* even *n1•aka*s (epic dramas)—is completely literate. The textual biography of one of K1lid1sa’s *mah1k1vya*s (fourth or fifth century), for example, differs utterly from that of the *Vir1•aparvan* of the *Mah1bh1rata,* a book transmitted orally for centuries. The stability, even inviolability, of the *k1vya* text removes it entirely from the world of primary orality. Moreover, the fact that, generally speaking, the participants in Sanskrit literary culture—at the latest, from the time of the Tocharian reader—were thoroughly familiar with writing is repeatedly confirmed by casual references in *k1vya* itself. While almost never mentioned in the earlier era (until we reach the more recent strata of the *Mah1bh1rata* and the later *dharma* texts), literacy is referred to in *k1vya* almost from the beginning. In the works of K1lid1sa, again, reading and writing are represented as entirely commonplace skills. Moreover, some basic features of Sanskrit literary art can be properly understood only when read, and not when heard. This phenomenology of the constitutive literacy of *k1vya* is entirely consistent with the historical argument in favor of placing the beginnings of *k1vya* after the technology of writing was disseminated in the subcontinent in the last centuries b.c.e.[^30]
 
 [^29]: See chapter 5; on the social foundations of *k1vya* generally, Pollock 2001c.
+
 [^30]: For the Tocharian manuscripts of Aévaghoùa see Hartmann 1988. References in *k1vya* to literacy are collected in Malamoud 1997. No scholarship exists on the demographics of pre-modern Indian literacy, but the casualness with which it is mentioned (see also chapter 8.2 at n. 45) implies that it was far more widespread than the mass illiteracy of modern India might suggest (compare the suggestive revisionist account of “Dark Age” literacy in Europe in McKitterick 1989). The phenomenological literacy of *k1vya* is entirely unstudied. One kind of paronomasia, *sabhaãgaéleùa* (e.g., *a-sv-1pa- phala; a-sv1pa- phala*) cannot, by the system’s own rules on accentuation (however obsolete), be transmitted efficaciously in speech (likewise, some forms of *pr1sa* in medieval Telugu texts are meaningful only visually, according to V. Narayana Rao, in conversation).
 
 *[p. 87]* ^pg108
@@ -118,7 +133,9 @@ In short, the world of *k1vya* was a world of literacy, and was so from the very
 Dhanap1la was completing his soon-to-be famous tale, the *TilakamañjarE,* when one day he brought to court the manuscript of the first part. King Bhoja had him read it out and explain it, and then insisted the poet make him the hero of the story, promising to pay any price if he agreed. Dhanap1la flew into a rage and burned the sole exemplar of the original. But his daughter rewrote the first half, since she remembered it from having written out the first manuscript; the second half the poet had to write anew.[^32] Writing thoroughly conditioned the Sanskrit literary text in both its production and its preservation, so much so that a work ceased to exist when separated from its physical embodiment. At the same time, literature was something orally performed—Dhanap1la, like Maãkha, recites his work (no doubt from the manuscript copy), simultaneously providing the running commentary expected of the poets themselves and often an essential complement to the literary text.[^33] In addition, as the account of Dhanap1la’s daughter and her feat of reconstructing the work from memory are meant to suggest (and note that in its modern edition the first half of *TilakamañjarE* covers 125 densely printed pages), *k1vya* was conceived of as remaining, ideally, within the sphere of memorization that informs a tradition in which texts are objects for listening.
 
 [^31]: Dhanap1la’s literary activity covered more than three decades, from the time of V1kpatir1ja (r. c. 975– 95), who awarded him the title “Sarasvati,” to that of Bhoja (contrast Vogel 1979: 322).
+
 [^32]: *Pur1tanaprabandhasaÅgraha,* p. 41. no. 60 (“the first manuscript,” *pratham1daréaprati-;* “exemplar of the original,” *m\[laprati-*). Bhoja was partially successful, for although he was not made the hero —it was impossible for a great çaiva devotee to be the protagonist in a tale of Jain moral perfection—Dhanap1la made him the principal recipient of the work (*TilakamañjarE* v. 50). Another version of their disagreement (*Prabh1vakacarita* p. 145; see also Granoff 1995: 372–75) is hard to reconcile with Dhanap1la’s statement in his own book.
+
 [^33]: Poets were traditionally expected to explain their own poems (*sad1 svak1vyavy1khy1nam,* Kùemendra, *Kavikaâ•h1bharaâam* 2.14 \[in *Kùemendralaghuk1vyasaÅgraha*\]). In the *Prabh1vakacarita,* when Hemacandra recited a poem before King JayasiÅha Siddhar1ja, “he adorned it with a commentary, as good conduct is adorned with \[good\] accounts of it” (185.17).
 
 *[p. 88]* ^pg109
@@ -144,6 +161,7 @@ to do in a way that pained Indian intellectuals from an early date.[^35] It is t
 2.2 literary language as a closed set The components of the literary culture that came into being at the beginning of the Common Era, helping to establish the Sanskrit cosmopolis and define its character, themselves became the object of systematic analysis only some five or six centuries later. While the lateness of literary theory *(alaãk1ra-* or *s1hitya-é1stra)* may well indicate the lateness of *k1vya* itself, it is still unclear how to account for the time lag between them—something especially curious in the Sanskrit thought world, where successful enactment of any cultural practice presupposed mastery of local theorization, conceived of as an organized and usually textualized body of knowledge.[^36] There is no evidence that important early works have been lost; the oldest extant text, Bh1maha’s *K1vy1laãk1ra* (Ornament of Literature) of the seventh century,
 
 [^35]: The Maharashtrian scholar R. G. Bhandarkar noted in 1887 the “very strong disinclination” on the part of European scholars “to admit the high antiquity of any book, thought, or institution \[in India\], and a tendency to trace Greek influence everywhere in our literature” (Bhandarkar 1933: 349).
+
 [^36]: This postulate is argued out in Pollock 1985. For a clear statement in the realm of literature, see the *KM,* cited in chapter 5.2 and n. 27.
 
 *[p. 90]* ^pg111
@@ -165,8 +183,11 @@ The language of Mah1r1ù•ra is the best Prakrit, a very ocean of beautiful ver
 Daâbin’s definition of Apabhramsha explains the term’s etymological
 
 [^38]: The former is more common generally; see for example SiÅhadevagaâi on *V1gbha•1laãk1ra* 2.3: *prakóten saÅskót1d 1gataÅ pr1kótam;* or M1rkaâbeya, *Pr1kótasarvasva* 1.1: *prakótin saÅskótaÅ tatra bhavaÅ pr1kótam ucyate;* so çeùakóùâa in the *Pr1kótacandrik1* 1.4. The latter is more common among Jain scholars (Namis1dhu on *K1vy1laãk1ra* of Rudra•a 2.12; cf. Cardona 1999: 112 n.); so also, however, Abhinavagupta: *prakóter asaÅsk1rar\[p1y1 1gatam,* “derived from the primal linguistic matter that is devoid of grammatical refinement” (on *Nç* 17.3).
+
 [^39]: *K0* 1.34–35: “come into play . . . ,” *y1ti pr1kótam ity eva vyavah1reùu sannidhim.* The *Setubandha* is a fifth- century courtly epic by Pravarasena of the V1k1•aka dynasty.
+
 [^40]: Aside from the rare experiment, such as R1jaéekhara’s *Karp\[ramañjarE,* which is usually held to be composed mainly in Shauraseni (but see von Hinüber 1986: 51 and references there).
+
 [^41]: Such as Uddyotanas\[ri’s *Kuvalayam1l1* discussed later in the section. See *K0* 1.32 and 1.37.
 
 *[p. 92]* ^pg113
@@ -176,7 +197,9 @@ signification in order to neutralize its negative connotations: “ What is call
 In addition to these definitional elaborations on Bh1maha, Daâbin includes a fourth language for literature, Bhutabhasha, elsewhere known as Paishachi (the speech of the Bh\[tas/Pié1cas). Linguists have identified this as everything from an eastern Middle-Indic dialect close to Pali to a Munda language of inhabitants of the Vindhya Mountains; traditional commentators invariably understand it to be the language of the semidivine attendants of çiva, the *pramatha*s or *gaâa*s*.* In fact there is little reason to bother to choose between science and tradition*.* Paishachi is the joker in the deck of South Asian discourses on language, having an exclusively legendary status, since it is associated with a single lost text, the *Bóhatkath1* (The Great Tale), which seems to have existed less as an actual text than as a conceptual category signifying the *Volksgeist,* the Great Repository of Folk Narratives, which may indeed be the source of its entry into the literary language taxonomy. In any event, aside from this legendary work (which “survives” only in one Jain Maharashtri
 
 [^42]: *K0* 1.36.
+
 [^43]: *Amarakoéa* 1.6.2: *apabhraÅéo ’paéabdan sy1t* (curiously Amara does not define Prakrit). For Kum1rila on Buddhist Apabhramsha, see chapter 1.1.
+
 [^44]: *V1gbha•1laãk1ra* 2.3 (see n. 95 for the Sanskrit).
 
 *[p. 93]* ^pg114
@@ -188,7 +211,9 @@ Although written probably some two to three centuries earlier than Bh1maha and D
 \[A poet\] may show \[anyone\] from among any of the pure castes making use of the Shauraseni language in literary texts. Or playwrights can employ the languages of Place as they will, for poetry in the drama can happen to arise in any number of places. These languages \[of Place\] are seven: Magadhi, Avanti, Eastern, Shauraseni, Ardhamagadhi, Vahika, and Southern. There are moreover \[seven\] sublanguages *(vibh1ù1)* used in drama: those deriving from the çak1ra, 0bhEra, Caâb1la, çabara, Dramila, 0ndhra, and the low language of forest- dwellers.[^47]
 
 [^45]: “Mixed” in *K0* 1.32 (see at n. 41, this chapter) does not include Paishachi, pace RatnaérEjñ1na, which is defined only in 1.38. Ratna does refer to other Paishachi texts but none is extant (at 1.38 he mentions a *Ratnaprabh1;* see also v. 32 \[an “altogether pure form,” read *éuddhyadhik1;* the reference is to a monoglot text; Rudra•a gives a verse combining Paishachi with Sanskrit, *K1vy1laãk1ra* 4.19\]); Raghavan believed Bhoja cited the opening of the *Bóhatkath1* (see *çP* 167 n. 2); and Nannaya, among others, was credited with mastery of Paishachi (in an inscription of 1053, *EI* 4: 302 ff.). Von Hinüber takes Guâ1bhya’s Paishachi to represent the failed attempt to turn an eastern dialect of “Buddhist Middle Indic” into a “ worldly literary language” (1986: 69–70; cf. Lin 1949 cited in n. 56, this chapter); so already Master 1943, who believed this was Pali (which in fact had hardly any *k1vya* tradition until the early second millennium, see Collins 2003).
+
 [^46]: See *Nç* 17.3. The later history of the three-part division of lexemes—*tatsama, tadbhava,* and *deéE* (with this terminology first it seems in *K0* 1.33)—is discussed in chapter 10.2.
+
 [^47]: *Nç* 17. 46–49. Abhinava here calls the *bh1ù1*s “dialects of Sanskrit” *(saÅskót1pabhraÅéa)* and the *vibh1ù1*s “dialects of the *bh1ù1*s”; a subsequent verse prohibits the use of “Barbara, Kir1ta, 0ndhra, Dramila” and related languages for poetry in drama (17.57; discussed in section 3), and Abhinava tries to reconcile this with v. 17.49, but it is clear there was some uncertainty about whether south Indian languages should appear at all in northern drama. “V1hEk1,” i.e., from the Punjab, v. l. B1hlEk1, “from Balkh” (the two names are often interchanged, the latter usually falsely driving out the former). Languages of the northwest, such as Gandhari (Swat Valley), to say nothing of those of more distant areas like Balkh, eventually dropped out of the cultural-linguistic consciousness of South Asia after contacts with the region diminished, presumably with the breakup of the Kuù1âa empire. They are never discussed by grammarians and are absent from most language lists. See von Hinüber 1986: 54. On the dramatic Prakrits as “nonreal dramaturgical components” *(alaukikE n1•yadharmE),* see Bansat-Boudon 1992: 161 ff., and Bhoja’s discussion in section 3.
 
 *[p. 94]* ^pg115
@@ -200,6 +225,7 @@ The restriction of literary language to three languages (or four if Paishachi is
 This conception of a closed set of literary languages, proclaimed at the very beginning of the critical tradition and undoubtedly present from the
 
 [^48]: Contrast Namis1dhu’s comment on Rudra•a’s *K1vy1laãk1ra* 1.11–12.
+
 [^49]: *KM* 48.25–26.
 
 *[p. 95]* ^pg116
@@ -215,6 +241,7 @@ The languages used for drama *(n1•ya)* are the following five, six, or seven \
 The restrictions that found expression in literary theory for centuries from
 
 [^50]: ç1rad1tanaya’s residence was “the village of M1•hara, to the south of the great people-place *\[ janapada\]* of Mer\[ttara” (*Bh1vaprak1éana* 1.5–6; Mer\[ttara is probably Uttarameru; that he goes on to locate this in 0ry1varta indicates how vastly that geographical category had expanded by this time (compare chapter 5.1)
+
 [^51]: *Bh1vaprak1éana* 10.172–77, pp. 452–53. Introducing a distinction between *apabhraÅéa* and Apabhramsha (as in Daâbin) seems necessary. The one cultural role for the remaining languages is song; see further chapter 8.1, 2.
 
 *[p. 96]* ^pg117
@@ -226,6 +253,7 @@ This work is composed in the Prakrit language, written down in the letters of th
 Identical presuppositions about the languages of literature underlie the account of the origins of the Paishachi *Bóhatkath1* as found in the Sanskrit
 
 [^52]: *Kuvalayam1l1* p. 4. vv. 12–13: *p1iyabh1s1raiy1 maraha••hayadesivaââayaâibaddh1* | *suddh1 sayalakaha cciya t1vasajiâasatthav1hill1* || *ko\[haleâa katthai paravayaâavaseâa sakkayaâibaddh1* | *kiÅci avabbhaÅsakay1 d1viyapes1yabh1sill1* || (cf. Master 1949–51: 1003, who, however, understands v. 12c as “in some parts in Sanskrit under the influence of alien expressions”; though *sakalakath1* later becomes the name of a specific genre, it probably does not have that sense here). See also 16.22, where (as Upadhye 1965: 317 takes it) “bards reciting in these \[three\] languages are introduced in the *0sth1na* of King Dódhavarman.” For the interesting “reportage” of the *apabhraù•a* language of Vedic students see Master 1949–51: 1009 ff.
+
 [^53]: *Kuvalayam1l1* 152.22 ff. (cf. Master 1949–51: 414). The languages are those of the Golle (0bhEra pastoralists), Majjhadese (Midlanders, or people of the Gangetic plain), M1gahe (i.e., Biharis), AÅtavee (?), KEre (Kashmiris), ahakke (Punjabis), SeÅdhave (Sindhis), M1rue (Mar-waris), Gujjare (\[northern\] Gujaratis), L1be (L1•is \[southern Gujaratis\]), M1lave (Malwas), Kaâ-â1bae (Kannadigas), T1ie (T1jiks, i.e., Persians), Kosalae (Kosalans, here apparently “Greater Kosala,” i.e., Chattisgarh), AÅdhe (Andhras), and Maraha••he (Marathas, Maharashtrians).
 
 *[p. 97]* ^pg118
@@ -235,6 +263,7 @@ adaptations of the work, most notably the *Bóhatkath1mañjarE* of Kùemendra (K
 A final example of the conceptual reality of the restriction on literary language and its functioning as a basic component of the self-understanding of creators of literature is provided by the *SaÅdeéar1saka* (c. 1300). Abdul Rahman, the author of this messenger poem and one of the first Muslim poets to write in a South Asian literary language, migrated from the “Place of the uncultured *(mlecchadeéa)* in the West,” where his father had been born, to Multan (in today’s Pakistan) and the new cosmopolitan world (v. 3). He identifies himself as an Apabhramsha poet and makes it clear that he considered himself part of the lineage of those who “became poets in Apabhramsha, Sanskrit, Prakrit, and Paishachi” (1.4–6). To be sure, by the fourteenth
 
 [^54]: Also called *K1l1pa* or *Kal1paka,* because it consists of a *kal1pa,* or four parts, but also later taken as associating the work with K1rttikeya via his peacock mount (*kal1pa* meaning also peacock’s tail). On the names of the *K1tantra* see Lüders 1940: 717–18 (he takes it as originally the work of the Buddhist grammarian Kum1ral1ta; see chapter 4.1).
+
 [^55]: *Bóhatkath1mañjarE* 1.3.46 and 51: *bh1ù1traye bhaviùy1mi maunE* . . . *paié1cEm anapabhraÅéasaÅskótapr1kót1Å éritan.* In Somadeva’s *Kath1sarits1gara,* a version of the *Bóhatkath1* written also in Kashmir in the generation following Kùemendra, the three languages renounced are Sanskrit, Prakrit, and language of Place *(deéabh1ù1)* (1.6.148), but Somadeva clearly recognizes the three literary languages in 5.129.
 
 *[p. 98]* ^pg119
@@ -244,6 +273,7 @@ century such statements had become as much a *topos* of the literary system as t
 The choice from among the three primary literary languages was, for all theorists, largely determined by the genre in which one wrote. Particular forms of literature required particular linguistic vehicles—a tendency reproduced in early vernacularization, where different languages of Place were held to be suitable for different song genres (chapter 8.2), or for different deities (Avadhi for R1ma, for example, or Brajbhasha for Kóùâa). Thus the *mah1k1vya,* or courtly epic, and the *1khy1yik1,* the dynastic prose-poem, were to be written only in Sanskrit; the *skandhaka* (also a courtly epic genre but differing from the *mah1k1vya* in metrical organization) and the *g1th1* (a type of erotic verse) only in Prakrit, the *r1saka* and *avaskandha* (two “pastoral” genres) only in Apabhramsha. No other language could be used as the “primary” code for such genres, and no secondary uses of language are to be found in them; they are counted as *éuddha,* “pure,” or monoglot literary forms. Undoubtedly, some slippage can be found in the language-genre rule, which sometimes threatens to render it irrelevant. A *kath1* may be written in any of the three (or four) languages (and sometimes the others find place for secondary purposes, as in Uddyotana’s work), and so can the independent lyric *(muktaka).*[^57] But by and large the genre rule held firm. Whatever other factors may have conditioned the choice among the three literary languages, one that was unambiguously irrelevant during the first millennium—in the case of literature no less than in that of public inscription—was an author’s religious affiliation. For reasons we do not yet fully understand, this long-term ecumenicism eventually did weaken along with the cosmopolitan formation itself, so much so that by the middle of the second millennium Apabhramsha and to a lesser degree Prakrit had become options available almost exclusively to Jains, whereas Brahmans began again to reassert their archaic monopolization of Sanskrit. But during the cosmopolitan epoch, one
 
 [^56]: The epigraphical record is also in accord on the triad of literary languages. Typical is a *praéasti* to Guhasena (*IA* 1881: 284), whose “mind was adept at creating literary texts composed in the three languages, Sanskrit, Prakrit, and Apabhramsha” (cf. Deshpande 1979: 60). The Tibetan account of four languages used by four Buddhist schools (Sanskrit by the M\[lasarv1stiv1din; Prakrit by the Mah1saãghika; Apabhramsha by the SammatEya; Paishachi by the Sthavira; see Lin 1949: 176–77) may well be modeled on that of Sanskrit literary theory (contrast Renou 1956: 89 n.). (Different is the story of the conversion of the four celestial kings, where the Buddha uses Sanskrit to address two, *dr1vibabh1ù1* the third, and *mlecchabh1ù1* the last, Lamotte 1976: 608– 9.)
+
 [^57]: See Bh1maha’s *K1vy1laãk1ra* 1.28 (perhaps read *saÅskót1 pr1kót1 ceti* in *p1da* c, with V1bhi-jaãgh1ladeva on *K0* 1.38); *K0* 1.37–38, with Ratna there; *çP* pp. 725–27; Abhinavagupta on *Dhvany1loka* 3.7.
 
 *[p. 99]* ^pg120
@@ -283,9 +313,13 @@ selves on Vararuci well into the second millennium.[^61] Indeed, in thinking abo
 At the level of ethnomethodology, too, it was precisely the grammaticization of certain Prakrits that made them *s1dhu,* “correct,” and thus endowed with an autonomous signifying power and accordingly fit for poetry. Early MEm1Ås[^1], like other Sanskrit intellectual disciplines that share the same quasi-historical view of language development, viewed dialect *(apabhraÅéa)* as only indirectly expressive, that is, by means of the Sanskrit word it (somehow) called to mind: according to the standard example, dialectal *gavi* could signify “cow” only because it reminded the listener of the correct —Sanskrit —form, *gaun.*[^64] For a writer like Kavikarâap\[ra in late-sixteenth- century Bengal
 
 [^61]: Harivóddha’s lost grammar was one of the few actually written in Prakrit (Ratna on *K0*
+
 [^1]: 33ff. cites him extensively; cf. Bhayani 1993: 162–66, who knows him only as a poet and prosodist). The prototype of Caâba’s grammar may also have been in Prakrit (Nitti-Dolci 1938: 209; von Hinüber 1986: 55).
+
 [^62]: Nitti-Dolci 1938: 8; 50.
+
 [^63]: See von Hinüber 1986: 66 for remarks on the unification of both the literary and inscriptional Prakrits.
+
 [^64]: The theorem is discussed in more detail in chapter 8.2; see also Pollock 2001b: 26 ff. That Prakrit was grammaticized relatively early is suggested by the fact that a *deéEé1stra,* very possibly a grammar, was attributed to an author mentioned in H1la’s *SattasaE,* the anthology produced at the S1tav1hana court (Pischel 1965: 11).
 
 *[p. 103]* ^pg124
@@ -299,7 +333,9 @@ Whether it was owing to philology or some other mechanism, however, Prakrit and 
 Accordingly, what in the first instance qualified these few translocal codes for literary work was some sense that literature itself must be a translocal phenomenon for a translocal public. Writing at the court of his Cedi patron in TripurE (in eastern Madhya Pradesh), the same R1jaéekhara who recounted the origins of the Primal Being of Literature and his journey through the
 
 [^65]: *Alaãk1rakaustubha* p. 31.
+
 [^66]: Shackle 1993: 266, and Bhayani 1993: 294; see also Hardy 1994: 5, and Masica 1991: 53–5. I adduce the *Doh1koéa* only as evidence of Apabhramsha’s supraregionalism, not because the texts it contains were seen as *k1vya,* and I ignore here the long-standing disputes on whether its language is not Apabhramsha but really Bangla, Oriya, or Maithili.
+
 [^67]: *úabbh1ù1candrik1* 1.29–30.
 
 *[p. 104]* ^pg125
@@ -333,6 +369,7 @@ It is precisely because Bhoja summarized the earlier history of literary thought
 The place of literature among the welter of forms of discourse in the world is considered in chapter 3 of the *çóãg1raprak1éa,* which reviews the set of literary languages and genres (see appendix A.1 for the translation). To grasp the structural principles that distinguish the different realms of discourse identified here (those relating to “revelation,” to “the seers,” and to “the world”) requires knowledge of a range of topics Bhoja addresses elsewhere in his analysis of the literary function. One is discursive prominence *(pr1dh1nya):* whether the defining feature of a discourse is its actual wording (as in the case of revealed texts such as *mantra,* which do not have to be understood in order to be efficacious) or its meaning (as in the case of seers’ texts, which can be reworded without loss) or both wording and meaning (as in the case of *k1vya,* as Bh1maha had long ago defined it). Another is the nature of the intention *(vivakù1)* underlying the discourse: in *k1vya* this is particularized *(viéiù•avivakù1)* with respect to both word and meaning, in seers’ texts it is pure and unequivocal *(vivakù1m1tra),* and in revealed texts it is nonexistent, since such texts, having no author, can have no authorial intention *(vaktur abh1v1d vivakù1 nopapadyate).* A third issue concerns a more specific threefold division of the literary into modes of expressivity *(ukti),* whether “natural” and direct, “indirect” and troped, or “affective.”[^71] Making sense of the particular examples Bhoja has chosen—rather odd examples, after all—requires knowing something about his overall argument with respect to emotion and how it comes to be embodied in a literary text. Since Bhoja regards desire and passion as primary emotions underlying all others, he chooses passages, in all but a few cases, that deal with the agents and objects of these emotions. The Vedic *mantra* posits the mysterious microcosmic-macrocosmic equivalents *(upaniùad)* where semen, the prime material sign
 
 [^70]: An initial attempt is made in Pollock 1998, 2001b.
+
 [^71]: *svabh1vokti, vakrokti, rasokti,* respectively. This three-part division is considered further in chapters 5.3 and 9.2. See also Pollock 2003: 48 ff. on *vivakù1.*
 
 *[p. 107]* ^pg128
@@ -354,6 +391,7 @@ Equally obscure are the principles by which the varieties of Apabhramsha are dis
 Most important, the now-familiar limit on languages included in the classification of literary codes is evident from the start of Bhoja’s discussion. Not all of the wide variety of speech forms available in quotidian life come within the scope of his analysis, because obviously not all of them did or could function
 
 [^73]: Some Jain authors understand *tadbhava* as “existing \[eternally\] in Sanskrit,” eliding any suggestion of temporal change, see n. 38, and Kahrs 1992. Not everyone understood the word this way, however, certainly not Kannada grammarians (chapters 9.4, 10.2).
+
 [^74]: Prakrit grammatical and prosodical texts, as noted, were typically written in Sanskrit. It is curious, given the Jain presence at his court, that Bhoja ignores earlier Jain traditions of canonical and exegetical writing in Ardhamagadhi and Jain Maharashtri. Among contemporaneous *t1ntrika*s Prakrit and even Apabhramsha were occasionally used in philosophical texts (e.g., in Abhinavagupta’s *Tantras1ra;* cf. Hardy 1994 on *YogEndu*). A discussion of the reasons for choosing Prakrit occurs in the twelfth-century çaiva tantric *Mah1rthamañjarE:* Sanskrit is obligatory only in discussing Vedic materials; in reflections on God and self, any language, however solecistic *(yatkiñcidbh1ùopar\[ùita),* can be more than serviceable (pp. 185–86; I thank Whitney Cox for calling my attention to this work).
 
 *[p. 109]* ^pg130
@@ -365,6 +403,7 @@ Such an assumption would be false. The exclusion of regional languages from the 
 Bhoja argues this point out in his even more detailed analysis of literary language in *SarasvatEkaâ•h1bharaâa.* This (chronologically probably earlier) account is embedded in a larger problematic, the ornamentation *(alaãk1ra)* of literary discourse, which forms the central organizing principle behind Bhoja’s conception of literariness. Ornamentation is said to consist of external, internal, and external-internal language properties. As the body is beautified by external attributes such as clothing or jewelry, by internal attributes such as clean teeth or manicured nails, and by attributes that may be said to function intermediately, such as perfume or cream, so literary language
 
 [^75]: On the Kaly1âa C1zukyas see chapter 3.3. An intriguing reference to Bhoja’s court is found in the *Karâ1•ak1dambarE* of N1gavarma (I?), who reports that Bhojar1ja, in his admiration for the Kannada poem, made him a “gift suitable to the Lady of Poetry” (cf. *-kótivadhu* in *KRM* 2.1) consisting of horses “from Kalinga, Kamboja, and Balkh” (v. 96, p. 305). This almost certainly refers to Bhoja of Dh1r1: what other Bhoja could have been called “lord of the earth” presiding over a “circle of learned men” in the first half of the eleventh century, the period in which most scholars place the *Karn1•ak1d1mbarE?* Bhoja made grants to Brahmans from Karnataka (in 1021 to a “Karâ1•a \[Brahman\] who emigrated from çrEv1ba”; in 1022 to a Brahman “ who had come from the royal city M1nyakhe•a” (*CII* 7.2: 44 lines 17–18; 48 lines 14–15). Yet the improbability of a Kannada poet presenting his work at Bhoja’s court, let alone his being sufficiently understood to be honored for the beauty of his work, remains high.
+
 [^76]: See the discussion of the *R1ulavela* in chapter 8.2.
 
 *[p. 110]* ^pg131
@@ -382,6 +421,7 @@ The discourses BhEùma once gave now rest in the mouths of the learned Like lotu
 And then he comments, “Here the words in the first half of the verse are Sanskrit alone \[i.e., they may not be read as Prakrit or any other language, in contrast to the “common” type\], those in the second half are Prakrit alone.
 
 [^77]: This is the typical attitude even of his advocates; “indeed strange” is Raghavan’s comment on Bhoja’s conception of *alaãk1ra* (1978: 345), and the exasperation is typical (cf. chapter 5.3 n. 53).
+
 [^78]: At least half of his citations can be traced to real works, and the rest could probably be traced if we had his library (it was looted by JayasiÅha of Gujarat, chapter 4.2).
 
 *[p. 111]* ^pg132
@@ -405,6 +445,7 @@ What the poet-theorist is concerned with here is precisely the mimetic usage of 
 There are the four languages *that may constitute the body* of a literary work: Sanskrit, the language of the heavenly beings, which is determinate \[in its form\] due to the sciences of language; Prakrit, which is multiform: born \[of Sanskrit\] \[i.e., *tadbhava*\], identical with it \[i.e., *tatsama*\], or of a Place *(deéE* or *deéya);* Apabhramsha, which is a pure form of language spoken in different regions; and Bhautika \[Paishachi\], which is said to be a language spoken by certain spirits *\[bh\[ta\].*[^81] These precepts invite us to distinguish, and to read traditional accounts of literary language as distinguishing, between primary and secondary languages for literature. Primary languages were those that could serve as the foundation for a literary work, and were chosen for a given work on the basis of its genre. Secondary languages made occasional appearances according to the proprieties of sociological representation. It is especially in the direct discourse of drama that secondary, imitative language usage occurs (ruffians in the Sanskrit theater speak Magadhi, as gangsters in American-English theater
 
 [^80]: *B1lar1m1yaâa* 1.11: *sarvabh1ù1vicakùaâaé ca sa evam 1ha,* and he lists them: the divine language, sweet Prakrit, lovely Apabhramsa, and the delightful Bhuta language. The preceding quote is *KM* 50.26 ff. Recall that four languages only are found in the body of his Primal Being of Literature (chapter 5.3).
+
 [^81]: *V1gbha•1laãk1ra* 2.1–3 (my emphasis): *iti bh1ù1é catasro ’pi y1nti k1vyasya k1yat1m* . . . *apabhraÅéas tu yac chuddhaÅ tattaddeéeùu bh1ùitam.* The same contrast seems to have been at work in the far earlier *Nç* in what otherwise would seem to be a self- contradictory passage: “ With respect to the Barbara, Kir1ta, 0ndhra, Draviba, and other peoples, one should not produce poetry in their vernaculars for the staging of drama. In the case of these peoples, and for Brahmans at a funeral dinner, the language to be used in drama is Shaurasena *\[sic\].* Or, if preferred, languages of Place can be used by those who stage dramas, since poetry used in a drama can arise in various places” (*Nç* \[Bombay ed.\] 17. 44cd–45ab, 46cd–47ab: *na barbarakir1t1ndhradravib1dy1su j1tiùu* | *n1•yayoge tu kartavyaÅ k1vyaÅ bh1ù1sam1érayam* || *athav1 chandatan k1ry1 deéa-bh1ù1\[n\] prayoktóbhin* | *n1n1deéasamutthaÅ hi k1vyaÅ bhavati n1•ake* ||
 
 *[p. 113]* ^pg134
@@ -444,7 +485,9 @@ The last sign of Prakrit in inscriptions in north India is in the hybrid Kuù1â
 The language practices of the Ikùv1kus, the ruling lineage of southeast Andhra that succeeded the S1tav1hana dynasty around 225 c.e. (and were themselves followed by the Pallavas within a couple of generations), are slightly asynchronous with respect to the disappearance of Prakrit, but they
 
 [^1-p116]: For an exhaustive bibliographical survey see Salomon 1998.
+
 [^2]: Not relevant to this discussion are the later ornamental engravings of Prakrit poetry briefly in vogue in the educational environment of Bhoja’s Dh1r1 (e.g., *EI* 8: 241–60).
+
 [^3]: The two early Prakrit inscriptions are found in *EC* 7: 251–52 (cf. also Sankaranarayanan 1994: 102–3). A date of 258 c.e. is ascribed to the May\[raéarman record in *MAR* 1931: 50 –60, but on shaky grounds (Gai places it between 300 and 400). Gai’s edition of the dynasty’s second extant record shows that it is virtually Sanskrit (*IEK* p. 61; contrast Sircar 1965–83, vol. 1: 473). On the puzzlement over May\[raéarman’s Prakrit, see *MAR* 1931: 57 n. 4. The T1zagunda inscription was first published by Bühler in *IA* 25: 29 ff.; see now *IEK* pp. 64 ff.
 
 *[p. 117]* ^pg138
@@ -456,8 +499,11 @@ Among the V1k1•akas, who ruled over what is now eastern Maharashtra and southe
 By order of the righteous great king of the V1k1•akas, Vindhyaéakti, the son of çrE Sarvasena the righteous great king, the grandson of çrE Pravarasena the
 
 [^4]: See *EI* 31: 63, CaÅtamula is the performer of Vedic sacrifices *(agihota, agi•homa, asamedha)*, the donor of ten thousand cows *(gosatasahasa)*, etc. This record adorned a Buddhist *st\[pa*.
+
 [^5]: The three Sanskrit epigraphs are found in *EI* 33: 149; 34: 19; 35: 12–13. See also Srinivasan and Sankaranarayanan 1979.
+
 [^6]: On the date of the B1sim record see *CII* 5: vi. V1k1•aka poets include Pravarasena II (*Setubandha,* c. 400), Sarvasena of the Vatsagulma branch (fragments of his *Harivijaya,* c. 330, have been collected in Kulkarni 1991 from Bhoja’s works), and others whose verses are included in the *G1h1sattasaE* (see *CII* 5: lvii).
+
 [^7-p117]: The earliest instance of this division in the realm of Prakrit seems to be the step -well inscription mentioned in chapter 1 n. 58. This opens with a documentary portion in Prakrit, followed by a literary passage in Sanskrit commemorating the construction of a *éailaÅ* . . . *góham* of the *vóùâEn1Å pañcavEr1â1m.* Other contemporary documents found at the same site, including identifications of images of the gods, are in Prakrit (*EI* 24: 201, 204, 205). Note that inscriptions in the same place that are associated with the çakas are in Sanskrit (*EI* 24: 206, 207).
 
 *[p. 118]* ^pg139
@@ -473,4 +519,5 @@ The record demonstrates once more, and unambiguously, that Sanskrit and Prakrit 
 The tendencies in evidence in the V1k1•aka plates, especially the new prominence given to Sanskrit in enunciating the political self-identification of rulership, the incipient literariness with which it executed that function, and the relegation of nonliterary, documentary tasks to other, quasi-local
 
 [^8-p118]: The Prakrit portion is Mirashi’s translation (*EI* 26: 154–55) slightly altered.
+
 [^9-p118]: See Sircar in *EI* 34: 197–98. So, too, in Southeast Asia: if in çrEvijaya the earliest inscription is in Old Malay and Buddhist ( *JASB* 1935: 61), in Khmer country Buddhist inscriptions in Sanskrit are found from an early date (e.g., Vat Prey Vier, 664 c.e.).

@@ -221,186 +221,336 @@ A curtain[^141] used to close a window[^142] may be employed for that purpose ev
 A person who filters using an Egyptian basket[^150] should not lift the bottom of the basket above the utensil on the Sabbath so that he will not be creating a temporary tent.[^151] ^22-33
 
 [^1]: See Chapter 3, Halachah 18, and Chapter 5, Halachah 19, where this subject is discussed at length. As the *Shulchan Aruch* (*Orach Chayim* 254:5) states, if one places the loaf of bread into the oven in time for it to form a crust, there is no prohibition against removing it on the Sabbath. When, however, there was not enough time for a crust to form, one must follow the instructions mentioned by the Rambam.
+
 [^2]: Note the parallel in Chapter 23, Halachah 24.
+
 [^3]: I.e., according to the Torah, there is no prohibition against bathing.
+
 [^4]: Even one without attendants (*Shulchan Aruch HaRav* 326:1).
+
 [^5]: As *Shabbat* [[Shabbat 40#40a|40a]] relates, a series of Rabbinic decrees were passed regarding bathhouses. When the Sages saw that the bath attendants would heat up water on the Sabbath, they forbade bathing, but allowed the people to enter a bathhouse to use as a steam bath. Afterwards, they saw that because of this leniency their original prohibition was not being observed, and they forbade entering a bathhouse altogether.  
     The Rambam permits bathing in cold water, and this ruling is accepted by the *Shulchan Aruch* (*Orach Chayim* 326:1). Nevertheless, most of the later Ashkenazic halachic authorities (*Shulchan Aruch HaRav* 326:6; *Mishnah Berurah* 326:21) state that it is customary not to bathe on the Sabbath at all, even in cold water. As is mentioned in Chapter 23, Halachah 8, an exception to the above rules is made regarding immersion in the *mikveh*.
+
 [^6]: I.e., even when one does not enter a bath.
+
 [^7]: Or other select portions of the body. A woman may wash her vaginal area in preparation for a *hefsek taharah*.
+
 [^8]: Similarly, leniency is granted regarding open bodies of water that have been heated by the sun, as stated in Halachah 9.
+
 [^9]: Note *Shulchan Aruch HaRav* 326:2 and the *Mishnah Berurah* 326:11, which favor opinions that do not accept this restriction.
+
 [^10]: See the following halachah and notes, which deal with the question whether this restriction applies after rinsing, not only one's entire body, but even a single limb.
+
 [^11]: The *Maggid Mishneh* emphasizes that in this instance, it is not heating the water in itself that is forbidden, since one is heating it to a minimal temperature. (See the following halachah.) Rather, the problem stems from the resemblance to bathing in warm water.
+
 [^12]: I.e., a duct or pipe containing cold water passes through a body of hot water and thus becomes warm. Even if one does not take the water from the duct itself, but has the duct flow into a pool, the water is forbidden (*Shulchan Aruch, loc. cit.*:3). *Shabbat* 3:3 relates that the inhabitants of Tiberias actually had such a heating system constructed, but the Sages forbade its use.
+
 [^13]: The *Shulchan Aruch* (*loc. cit.*) mentions that even if the pipe was brought into the hot water on Friday, the water may not be used on the Sabbath.
+
 [^14]: The Rambam's intent is that the water or the oil may be heated to the point that it becomes hot enough to burn a infant's belly.  
     This decision is questioned by the Rabbis. Rashi and the Rambam interpret the Talmudic passage (*Shabbat* [[Shabbat 40#40b|40b]]) that serves as the source for this halachah as meaning that one may not allow the temperature of the liquid to reach the point where it could burn an infant's belly. The Rashba, *Tosafot* and others, however, follow a more stringent ruling and forbid placing a liquid in a place where the potential exists for it to become hot enough to burn a infant's belly, even if one removes it before that time. The *Shulchan Aruch* (*Orach Chayim* 318:14) accepts the latter view.
+
 [^15]: The *Shulchan Aruch* (*Orach Chayim* 326:5) mentions opinions that differ and maintain that the restriction mentioned in the previous halachah applies not only after rinsing one's entire body, but after washing a single limb. For example, a person who washes his hands should not warm them by a fire. *Shulchan Aruch HaRav* 326:4 counsels following this stringency.
+
 [^16]: This is the halachic definition of the term יד סולדת בו. In contemporary measure, this is defined as 42 to 45 degrees centigrade by contemporary authorities.
+
 [^17]: With this statement, the Rambam emphasizes that the tub is very hot and contains a large amount of water. Therefore, even though it is a כלי שני - i.e., not a vessel that was itself heated on a fire, but a vessel into which hot water was poured - there are still restrictions, as the Rambam explains. Implied is that even though we generally follow the rule that the heat of a כלי שני is not sufficient to cook something placed within, a tub in a bathhouse is an exception.  
     The above represents the interpretation of the *Maggid Mishneh*. In the *Kessef Mishneh*, by contrast, Rav Yosef Karo explains that the tub we are speaking about is a כלי ראשון, a vessel in which water was heated. Were it to be a כלי שני, there would be no restrictions. His ruling in the *Shulchan Aruch* (*Orach Chayim* 318:11), appears to reflect this same view. The Ramah differs and clarifies in his gloss that the tub here is a כלי שני, adopting the explanation of the *Maggid Mishneh*.
+
 [^18]: The Ramah 318:12 states that if the amount of cold water the person adds at one time is so great that the it will not become hot, there is no prohibition against adding it, even to a כלי ראשון.
+
 [^19]: *Shabbat* [[Shabbat 40#40b|40b]] mentions that oil that is placed in a כלי שני does not cook. The *Kessef Mishneh* thus uses this as a support for his thesis that the Rambam is speaking about a tub that is a כלי ראשון. Others explain that, as stated above, even though in most instances we follow the rule that the heat of a כלי שני is not sufficient to cook something placed within, a tub in a bathhouse is an exception.  
     See also *Hilchot Ma'aser* 3:15, where it appears that the Rambam maintains that if a כלי שני is hot enough to burn a person's hand, oil that is placed inside will be cooked. The Radbaz, however, explains that the laws applying to cooking on the Sabbath are different from those applying to cooking regarding *ma'aser*.
+
 [^20]: Even according to the opinions that the Rambam is referring to a כלי ראשון, this is permitted. Although there are restrictions against pouring water from a כלי ראשון onto spices and the like, these restrictions do not apply when water is poured into other water. The rationale is that the waters mix and there is no time when the heat of the water from the כלי ראשון will be concentrated in a single space (*Shulchan Aruch HaRav* 318:20; *Mishnah Berurah* 318:78).
+
 [^21]: According to Rav Yosef Karo (in the *Kessef Mishneh* and in the *Shulchan Aruch* 318:12), this refers to a heating urn that was emptied entirely of hot water. One might think that pouring cold water in it would be forbidden, since the possibility exists that by doing so one will refine the metal of the urn. (See Chapter 12, Halachah 2, and notes.) Nevertheless, since this is not one's intent (אינו מתכוין), nor is it absolutely certain that this will take place (i.e., it is not a פסיק רישא), this is permitted (Chapter 1, Halachah 6).  
     The *Maggid Mishneh* and the Ramah accept this law, but they explain that it is also possible to interpret the Rambam's words as referring to an urn that was partially emptied of the water that was cooked in it, and then cold water was added. Even though the urn is a כלי ראשון, as long as so much cold water is poured in that it cannot become hot enough to burn an infant's belly, there is no prohibition involved.
+
 [^22]: I.e., even hot water that is in a כלי ראשון.
+
 [^23]: Which is in a כלי שני.
+
 [^24]: The *Mishnah Berurah* 318:82 emphasizes that if there is a small quantity of cold water, the restriction against using water from a כלי ראשון applies in both instances. One may not pour a small amount of cold water into a large amount of hot water, nor may one pour a large amount of hot water into a small amount of cold water. This ruling is not, however, accepted by all authorities. As mentioned above, according to the Ramah, one may pour hot water into a large amount of cold water, and a large amount of cold water into hot water, even if the hot water is in a כלי ראשון.
+
 [^25]: This law applies to most other substances, for most substances will cook in a כלי ראשון even after it is removed from a fire.
+
 [^26]: There is a difference of opinion concerning this matter among the Rabbis. The *Tur* (*Orach Chayim* 318) and *Tosafot* (*Shabbat* [[Shabbat 40#40b|40b]]) differ and maintain that salt requires only a minimal amount of cooking and should not even be placed in a כלי שני. The later authorities emphasize that this depends on the type of salt used. In many communities, it is common to follow the more stringent ruling.
+
 [^27]: It must be emphasized that our Sages mention that there are certain substances that do not require much cooking and can be cooked even in a כלי שני. For that reason, some authorities maintain that we should be stringent and not place any uncooked articles in a כלי שני, for we are unsure of which substances are included in the category of foods that do not require much cooking. See Ramah, *Orach Chayim* 318:5.
+
 [^28]: See Chapter 21, Halachah 22.
+
 [^29]: From the Rambam's placement of this halachah in this chapter, it would appear that he sees this as falling into the category of prohibitions instituted as a safeguard against cooking on the Sabbath, and not as one of the prohibitions instituted because it is forbidden to prepare remedies on the Sabbath.
+
 [^30]: Since soaking *chiltit* in cold water is forbidden only because of a Rabbinic prohibition, this prohibition is overridden because of the possibility of the person's becoming ill.
+
 [^31]: This law touches on the principle, אין בישול אחר בישול, "One is not liable for cooking something that is already cooked." Although this principle is accepted by all authorities, the scope of its application varies. To focus on the approach of the Rambam and to compare it to the perspective of other authorities, it is worthy to focus on each point in particular:  
     **When food has been cooked before the Sabbath -** According to the *Shulchan Aruch* (*Orach Chayim* 318:4), this refers only to food that has been thoroughly cooked.  
     **or soaked in hot water before the Sabbath -** In contrast to the Rambam's decision, the *Mishnah Berurah* 318:31 rules that food that was soaked in hot water before the Sabbath may be placed in hot water in a כלי שני, but should not be placed in hot water in a כלי ראשון.  
     **one is permitted to soak it in hot water -** This refers to water in a כלי ראשון that was removed from its cooking surface. It is forbidden to place any food in a pot on a cooking surface after the Sabbath has commenced (*Shulchan Aruch HaRav* 318:9; *Mishnah Berurah* 318:33).  
     **on the Sabbath even though it is presently cold. -** The *Shulchan Aruch* (*loc. cit.*) states that this leniency applies only to cooked food that is dry. If the food is liquid, placing it in a כלי ראשון that is hot is considered to be cooking. From the Rambam's Commentary on the Mishnah (*Shabbat* 22:2), it would appear that he also accepts this limitation. The *Beit Yosef* (*Orach Chayim* 318), however, maintains that the Rambam does not hold one liable, even when one reheats foods that are not dry.
+
 [^32]: From the Rambam's wording, it is unclear if this refers to water that was in a כלי ראשון or in a כלי שני. From his Commentary on the Mishnah (*Shabbat* 3:4), it would appear that he maintains that it is permitted to pour water from a כלי ראשון directly on foods.  
     According to the Ashkenazic authorities, we are permitted to pour hot water on uncooked foods only from a כלי שני (*Shulchan Aruch HaRav* 318:11; *Mishnah Berurah* 318:35). Hot water from a כלי ראשון will cook the surface of the food onto which it is poured.
+
 [^33]: This clause comes to eliminate foods like aged salted fish or sole, whose preparation is completed by washing them with hot water. As the Rambam writes in Chapter 9, Halachah 2, one is liable for violating the forbidden labor of cooking merely by rinsing these foods with hot water.
+
 [^34]: The prohibition applies only to soaking the food in hot water. One may soak it in cold water (*Shulchan Aruch HaRav* 318:11; *Mishnah Berurah* 318:37).
+
 [^35]: See Chapter 9, Halachah 3. This prohibition was instituted lest one err and think that just as it is permitted to cook using articles heated by the sun, it is permitted to cook using articles heated by fire.
+
 [^36]: I.e., the leniency of placing water in the sun will not cause one to think that it is permitted to place food on a fire.
+
 [^37]: In his Commentary on the Mishnah (*Shabbat* 22:4), the Rambam emphasizes that this law is mentioned because one might think that placing the water in the sun is forbidden, lest one place food in hot ashes.  
     On this basis, many authorities allow the use of water that has been heated by solar energy units on the Sabbath. Even the more stringent opinions, which object to such use, have no difficulty with the concept of using water heated by the sun. They base their objections on other rationales, among them:  
     That water heated by the solar energy units is heated by an object heated by the sun and not by the sun itself.  
     The water in the urn of the solar energy unit is very hot. When cold water enters that unit, it will be heated by the water and produce a situation resembling that of the tub mentioned in Halachah 5.
+
 [^38]: The bracketed additions are taken from Rashi's commentary (*Shabbat* [[Shabbat 146#146b|146b]]).
+
 [^39]: Rashi (*loc. cit.*) explains that were the food left in the sun, it might spoil. By placing it in the cistern, one preserves it.  
     In his Commentary on the Mishnah (*loc. cit.*, based on *Shabbat* [[Shabbat 146#146b|146b]]), the Rambam emphasizes that this law is mentioned because one might think that placing the food in the cistern is forbidden lest one smooth out the cistern's floor.
+
 [^40]: Enough for one meal (*Ba'er Heteiv* 321:4).
+
 [^41]: Significantly, Rashi (*Shabbat* [[Shabbat 108#108b|108b]]) explains that the rationale for all the laws in this halachah is that salting or pickling foods is comparable to processing leather. This rationale is mentioned by the *Shulchan Aruch* (*Orach Chayim* 321:2). The Rambam, however, maintains that the forbidden labor of processing does not apply with regard to food (Chapter 11, Halachah 5).
+
 [^42]: In the *Kessef Mishneh* and in the *Shulchan Aruch* (*loc. cit.*), Rav Yosef Karo states that it is forbidden to make even a small amount of such a mixture.
+
 [^43]: In the *Kessef Mishneh*, Rav Yosef Karo explains that usually fish-brine is preserved. Hence, it would appear that one is pickling food.
+
 [^44]: Included in the latter category are any vegetables that salt softens or makes less bitter. This includes onions, cucumbers, and most vegetables used for salads (*Magen Avraham* 321:7).
+
 [^45]: The Rambam's intent is not that pickling is forbidden as a derivative of cooking, but that there is a Rabbinic prohibition against doing so (*Shulchan Aruch HaRav* 321:3; *Mishnah Berurah* 321:16). Note, however, *Karti Ufalti* 105:2, which maintains that the Rambam considers that there is a Torah prohibition involved.
+
 [^46]: Similarly, a mixture of salt, vinegar, and oil (or other substances used for salad dressings) may be placed on these vegetables, because it no longer appears that one is salting the vegetables to pickle them (*Shulchan Aruch HaRav* 321:4; *Mishnah Berurah* 321:14).
+
 [^47]: Note the *Mishnah Berurah* 321:69, which permits making this mixture only when one does not undertake much effort in doing so.
+
 [^48]: Hence, this mixture, like any other remedy, may not be drunk on the Sabbath even if it was prepared before the Sabbath.
+
 [^49]: The Rambam appears to be saying that one may stir the mixture. The *Mishnah Berurah* 321:58, however, quotes this law as meaning that one may add water or wine to the mixture. Although the Rambam would probably accept that ruling as well, based on his conception of the Rabbinic prohibitions against kneading (see Chapter 21, Halachot 33-34 and notes), this is not likely his intent here.
+
 [^50]: The Hebrew word כלי can be rendered as either "utensil" or "container." On this basis, the *Kessef Mishneh* mentions the interpretation of *Terumat HaDeshen* (Responsum 53), which explains that one may shake a container to blend the mixture, but one may not stir it by hand. He does not, however, accept this as reflecting the Rambam's intent.
+
 [^51]: I.e., whip it forcefully by hand to produce a smooth, evenly flowing mixture.
+
 [^52]: A leafy vegetable that is used as a spice or dip when mixed with the abovementioned substances.
+
 [^53]: As explained in Chapter 9, Halachot 8-9.
+
 [^54]: A fragrant spice, noted for its cleansing powers.
+
 [^55]: This follows the principle of פסיק רישא stated in Chapter 1, Halachah 6 - i.e., since one's act will surely result in the performance of a prohibited act, it is considered as if this is one's intent. Although a Rabbinic prohibition is involved here, the same principle still holds.
+
 [^56]: This decision is based on the principle of אינו מתכוין, that an act that results in the performance of a forbidden labor is permitted if it is not a certainty that the forbidden labor will indeed come about. Indeed, the Rambam uses this law to exemplify this principle in Chapter 1, Halachah 5.
+
 [^57]: This is the version in the standard published texts of the *Mishneh Torah*. The *Maggid Mishneh* notes that there is another version of the text which reverses the order in this clause, stating, "If the majority was a substance that will not necessarily remove hair, it is permitted." There is a difference in the rulings resulting from these two versions of the text when the amount of both substances is equal. The *Shulchan Aruch* (*Orach Chayim* 326:9) follows the version of the standard text.  
     *Sefer HaKovetz* questions why such a leniency is allowed, and explains that all prohibitions based on the principle of פסיק רישא are merely Rabbinic in origin. Accordingly, since the substances that undoubtedly remove hair are not in the majority, leniency is granted. (It must be noted that it is difficult to reconcile the statements of *Sefer HaKovetz* with the Rambam's own statements, Chapter 1, Halachah 6, that one is **liable** for performing such an act.)
+
 [^58]: I.e., as *Shabbat* [[Shabbat 149#149b|149b]] emphasizes, the difficulty is because a metal mirror can serve as a cutting article itself.
+
 [^59]: The Sages desired that their decrees be applied uniformly.
+
 [^60]: This includes a glass mirror, as is used today (*Maggid Mishneh; Mishnah Berurah* 302:63).
+
 [^61]: See Chapter 9, Halachah 11.
+
 [^62]: Rav Moshe Cohen of Lunil questions the Rambam's ruling, since one's intent is not to wring out the liquid, but to plug the flask. *Shulchan Aruch HaRav* 320:22 states that when one plugs the opening firmly, one will certainly squeeze water from it. Hence, this is considered a פסיק רישא. Furthermore, our Sages forbade plugging the opening loosely, lest one plug it firmly.
+
 [^63]: The *Kessef Mishneh* (in the gloss on Chapter 9, Halachah 11) uses this law to refute the *Maggid Mishneh's* thesis that, according to the Rambam, the prohibition against wringing out liquids applies only to water, since it is generally beverages other than water that are contained in a flask.
+
 [^64]: As evident from his Commentary on the Mishnah (*Shabbat* 21:3), the Rambam explains that if the sponge does not have a handle, it is a פסיק רישא that one will squeeze water from it when cleaning with it. If it has a handle, that is not a certainty. This interpretation is also reflected in Rashi's commentary, *Shabbat* [[Shabbat 143#143a|143a]].  
     Although the Ra'avad accepts the law, he objects to this explanation, maintaining that whether or not the sponge has a handle, one will squeeze water out when cleaning with it. Why then is one allowed to use it? Once the handle is attached, it is no longer considered to be a piece of fabric, but rather a container that is made to hold water. By using it, one is not squeezing the water directly, but merely causing it to be squeezed.
+
 [^65]: Note *Shulchan Aruch HaRav* 320:21, which states that this decree applies only to a jug of water, but not to one containing other beverages. See, however, the *Kessef Mishneh's* statements cited in note 63.
+
 [^66]: I.e., unless the cloth was designated for this purpose, it is possible that if it gets wet, one will wring out the water so that one can use it for another purpose. If, however, one has set aside the cloth for this use, one will not be concerned with its getting wet.
+
 [^67]: Based on the ruling of *Tosafot* (*Shabbat* [[Shabbat 143#143b|143b]]), the Ramah (*Orach Chayim* 335:1) emphasizes that this law applies only when the cask breaks. If it has a slow leak, there are no restrictions. Since there is no possibility of the person's losing the entire contents of the cask at once, our Sages did not fear that he would panic and violate the Sabbath laws to save his property.  
     The Ramah also mentions the ruling of *Terumat HaDeshen* (Responsum 196) that these restrictions apply only when one desires to bring containers from one courtyard to another. There are, however, no restrictions on using different containers within one's own property. This leniency is accepted by the later Ashkenazic authorities.
+
 [^68]: According to the *Shulchan Aruch* (*Orach Chayim* 335:1), one may save enough for one's Sabbath needs and the needs of one's guests, even if it is necessary to use several containers. As Rabbi Akiva Eiger notes in his gloss, the Rambam's wording does not appear to fit this interpretation.
+
 [^69]: The *Shulchan Aruch* (*loc. cit.*) states that this restriction applies even when a sponge has a handle. (See the previous halachah.) Since the person is distressed about the loss of his property, our Sages fear that he might violate the Sabbath laws in this instance.
+
 [^70]: I.e., there are two restrictions: that one may save only a limited amount of wine or oil, and that the manner in which one saves these liquids must differ from one's ordinary practice.
+
 [^71]: According to the *Shulchan Aruch* (*loc. cit.*), there is no restriction on the size of this container. Any container may be used, regardless of the amount it can hold. As mentioned, the Rambam's wording does not appear to fit this interpretation.
+
 [^72]: I.e., invite guests who he knows will not want to partake of the liquids. In this way, he will be able to save the liquids because of them, even though they will not partake of them. (See *Hilchot Sh'vitat Yom Tov* 3:17, where the Rambam mentions a similar instance where the Sages permitted one to act with guile.)
+
 [^73]: The *Shulchan Aruch* (*loc. cit.*:3) states that it is forbidden to invite guests with this intent. If, however, one does so, it is permitted to use the wine. It is possible that this is the Rambam's intent. (The *Shulchan Aruch's* leniency is actually even more encompassing, and allows one to use the wine if one invites the guests after collecting it.) Based on the *Maggid Mishneh*, the *Magen Avraham* 335:2, however, states that according to the Rambam, one is permitted to act with guile in this manner.  
     (*Kinat Eliyahu* objects to this interpretation, noting the difference in the Rambam's wording in this halachah, "If one acted with guile in this matter, it is permitted," and his wording in Chapter 23, Halachah 3, "It is permitted to act with guile in this matter.")
+
 [^74]: Since the person rubs it from the inside, it is not obvious that his intent is to launder the garment (*Shulchan Aruch, Orach Chayim* 302:7).
+
 [^75]: Even from the outside.
+
 [^76]: Or with a knife (*Shulchan Aruch HaRav* 302:17; *Mishnah Berurah* 302:34).
+
 [^77]: The *Shulchan Aruch* (*loc. cit.*) quotes the opinion of the *Tur*, which states that both rubbing the inside of a garment and scraping off mud are permitted only when the mud is moist. When the mud has dried, these acts are forbidden, because it is as if one is grinding the mud.
+
 [^78]: The Ramban and the Ra'avad follow a different version of the text of *Shabbat* [[Shabbat 140#140a|140a]], and therefore rule that it is also permitted to rub a scarf. The *Shulchan Aruch* (*loc. cit:*5) follows the Rambam's decision, explaining that when rubbing a scarf, one's intent is to make it glistening clean.  
     The *Be'ur Halachah* cites support for the Rambam's ruling from *Mo'ed Katan* [[Moed Katan 10#10b|10b]], which states that it is permitted to rub clean one's garments on *Chol HaMo'ed* (see *Hilchot Sh'vitat Yom Tov* 8:14). This indicates that such an act is forbidden on the Sabbath.
+
 [^79]: I.e., a cloak becomes stiff after being laundered, and before putting it on one generally rubs it (*Shulchan Aruch, loc. cit.*).
+
 [^80]: Note Chapter 9, Halachah 11, where the Rambam states that one is not liable for wringing out leather. Similarly, the fact that he mentions the prohibition against laundering leather in this chapter appears to indicate that he considers it to be merely a Rabbinic prohibition. This perspective is also quoted by *Shulchan Aruch HaRav* 302:19. The *Be'ur Halachah* 302, however, explains that one is liable for laundering leather.
+
 [^81]: The Rambam appears to allow one to scrape old shoes. The Ra'avad and the *Maggid Mishneh* object to this ruling, based on *Shabbat* [[Shabbat 141#141a|141a]]-b, which states that it is forbidden to scrape both new and old shoes.  
     The commentaries offer several resolutions of this difficulty. Some point to manuscript copies of the *Mishneh Torah* that omit the word "new" entirely (Radbaz, Vol. V, Responsum 1628). Others explain that the Rambam mentions "new" shoes for specific reasons, but not to imply that scraping old shoes is permitted (Rabbenu Meir of Padua). Others find sources to substantiate the Rambam's ruling (*Sefer HaKovetz*).  
     The *Shulchan Aruch* (*Orach Chayim* 302:8) forbids scraping both old and new shoes. Significantly, however, the prohibition is associated with the forbidden labor of removing hair. Note also the *Magen Avraham* 302:17 who emphasizes that the prohibition applies only when using a knife. Using dull metal is permitted.
+
 [^82]: See Chapter 23, Halachah 10, which appears to contradict this ruling. Similarly, the Ra'avad and others question the text here. Significantly, Rav Kapach mentions that the Yemenite manuscripts of the *Mishneh Torah* follow an alternate version of the text, which does not present a difficulty.
+
 [^83]: Care must be taken not to press the rag firmly, lest one squeeze out water from it (*Shulchan Aruch, loc. cit.:*9).
+
 [^84]: One may not, however, rub them under water to remove the stain (*Maggid Mishneh*). Washing a cloth in water would be considered as laundering, even according to Torah law (*Shulchan Aruch HaRav* 302:20).
+
 [^85]: The *Mishnah Berurah* 302:57 states that one may also use a rag that is of no importance.
+
 [^86]: I.e., the prohibition was not instituted because of the act of washing one's hands with the cloth, but because one might wash the cloth later.
+
 [^87]: The *Magen Avraham* 301:58 focuses on this law as an example of the relation of the principles of Rabbinic authority to the changes in the cultural conditions under which Jews lived. Originally, this leniency was granted, because in the Talmudic era washing every day was considered a necessity, and a person who washes himself must dry himself. In his own time, washing was not considered as great a necessity. Hence, some thought of ruling that using a towel would be prohibited. Nevertheless, since the Sages of the Talmud did not institute a prohibition in this regard, the later Rabbis left the status quo unchanged. The *Magen Avraham*, however, concludes that it is preferable to dry oneself with a towel that one would not normally wring out during the week.
+
 [^88]: I.e., from rain, or because he fell into a body of water.
+
 [^89]: He must, however, be careful not to shake the water from them.
+
 [^90]: We are not, however, obligated to remove clothes that were hanging on a clothesline before the Sabbath (*Shulchan Aruch, Orach Chayim* 301:45).
+
 [^91]: The *Mishnah Berurah* 301:165 cites authorities who maintain that this applies only with respect to a safeguard instituted because of the possibility that an observer might think a prohibition from the Torah was violated. When the question revolves around a Rabbinic prohibition, there is room for leniency.
+
 [^92]: For the Sages wanted to established a uniform standard, applicable at all times.
+
 [^93]: The *Kessef Mishneh* explains that since the person desires to connect the two *mikvaot*, he will not insert the plug firmly to the extent that he will squeeze water from it.
+
 [^94]: In this instance, the person's concern is to prevent the food and utensils from being inundated by the flow of water. Accordingly, his intent will be to plug the drain in a manner that will prevent a great flow. He, however, is not concerned that there will be a slight leak and will not necessarily plug the drain tightly (*Kessef Mishneh*).  
     *Merkevet HaMishneh* offers a different interpretation. The Rambam is referring to a plug for a hole in a cistern. The person sees that the drain pipes leading to the cistern are full and soon the water level will reach the hole. He therefore plugs the hole so that the water will not flow out and flood the courtyard. Although he plugs the hole tightly, since the water level has not yet reached this height, there is no possibility that he will squeeze out water in the process.
+
 [^95]: I.e., there is a drain-pipe that leads in two directions. By plugging one end, the water can be directed into a cistern.
+
 [^96]: Since in this instance, the person wants to direct the flow of the water and preserve all of it, he will plug the other end of the pipe tightly. When doing so, the possibility exists that he will squeeze water from the plug.
+
 [^97]: Our translation is based on Rashi's commentary, *Beitzah* [[Beitzah 23#23a|23a]].
+
 [^98]: See *Hilchot Sh'vitat Yom Tov* 8:14, which states that this is forbidden on *Chol HaMo'ed* because it requires professional expertise.
+
 [^99]: This appears to refer to folding a garment with the intent of smoothing out wrinkles that already exist. Similarly, one may fold a garment after removing it, in order that it remain uncreased so it can be worn again on the Sabbath (*Shulchan Aruch HaRav* 302:8).
+
 [^100]: One may fold and refold a garment several times on the Sabbath (*Shabbat* 15:3). If, however, there is no need to wear a garment again on the Sabbath, one may not fold it so that it will remain uncreased for the following day. For this reason, it is forbidden to fold one's *tallit* on the Sabbath after the morning prayers (*Shulchan Aruch HaRav* 302:8; *Mishnah Berurah* 302:13).
+
 [^101]: Note Rashi (*Shabbat* [[Shabbat 113#113a|113a]]), who offers a different explanation of the Talmudic passage that serves as the source for the Rambam's ruling.
+
 [^102]: When two people fold a garment, the possibility exists that one will smooth out the creases by hand. This is forbidden (*Shulchan Aruch HaRav* 302:9).
+
 [^103]: See Chapter 9, Halachah 13.
+
 [^104]: Similarly, the application of other forms of makeup is forbidden (*Shulchan Aruch, Orach Chayim* 303:25 and commentaries).
+
 [^105]: See Chapter 10, Halachah 9.
+
 [^106]: Note Rashi (*Shabbat* [[Shabbat 48#48a|48a]]), who offers a different rationale for this restriction: that this resembles making a utensil.
+
 [^107]: The *Mishnah Berurah* 340:32 emphasizes that one may return them to the same pillow or blanket, but may not transfer them to another one on the Sabbath.
+
 [^108]: See Chapter 10, Halachah 10.
+
 [^109]: Our translation has parallels in the Rambam's Commentary on the Mishnah, *D'mai* 6:6 and *Kilayim* 9:5. The *Merkevet HaMishneh*, however, renders this word as "modestly" - i.e., so others will not see him and think that he is tearing.
+
 [^110]: As mentioned several times, a person is not liable for performing a forbidden labor without intention. In this instance, there is an even greater reason for leniency, since the concept of intent is particularly important regarding this category of forbidden labor. As the Rambam mentions in Chapter 10, the forbidden labor of tearing consists of tearing for the sake of resewing.
+
 [^111]: See Chapter 10, Halachot 12-14.
+
 [^112]: The *Maggid Mishneh* questions the Rambam's statements here, noting that from the halachot cited above, it would appear that by returning the doors to their place one would be liable for performing the forbidden labor of building.
+
 [^113]: According to the Ramah (*Orach Chayim* 314:1), this law applies only to small cabinents and chests, those smaller than 40 *seah*, approximately .375 square meters in modern measure.  
     In a related matter, *Shulchan Aruch HaRav* 308:34-35 emphasizes that in contrast to the doors of a building, the doors of cabinets, chests, and the like are not considered *muktzeh* on the Sabbath. Since they were part of a utensil before they were removed, they are still considered to be utensils afterwards. In contrast, the doors of a building were not considered utensils before the commencement of the Sabbath. Hence, if they are removed on the Sabbath, it is forbidden to carry them.
+
 [^114]: If, however, it slips off entirely, it may not be returned outside the Temple (*Shulchan Aruch, Orach Chayim* 313:5).
+
 [^115]: Since the prohibitions in the category of *sh'vut* need not be observed in the Temple.
+
 [^116]: I.e., even in the Temple. This is an exception to the principle mentioned in the previous note, because, in this instance it is very likely that one will perform a forbidden labor (*Tosafot, Eruvin* 102b).
+
 [^117]: There is a greater concern that one will attach the upper hinge firmly, because if it becomes detached the door will fall. If, by contrast, the upper hinge remains attached but the lower hinge slips off, the door will still remain hanging.
+
 [^118]: Our translation is based on the Rambam's Commentary on the Mishnah (*Shabbat* 10:7). Rashi interprets this term to refer to "parting the hair." Note also the *Mishnah Berurah* 303:83, which discusses whether this restriction applies regarding only a woman's natural hair, or also regarding a wig.
+
 [^119]: See also *Shulchan Aruch* (*Orach Chayim* 315:5), which - albeit in a different context - allows the use of folding chairs on the Sabbath. One may add a leaf to a table, but one may not construct a table by placing the table board on its legs.
+
 [^120]: Many other authorities differ and explain that the prohibition was instituted lest one firmly attach the parts to each other. Were one to do so, one would be liable for performing the forbidden labor of מכה בפטיש, completing a utensil (*Shulchan Aruch, Orach Chayim* 313:6).
+
 [^121]: It appears that, accordingly to the Rambam, even if a person were to attach the parts firmly to each other, he would not be liable. As mentioned, others differ.
+
 [^122]: The Rambam's perspective on this issue requires clarification: *Beitzah* [[Beitzah 22#22a|22a]] states, "There is no [concept of] building regarding utensils."  
     The Rambam explains that this refers only to putting together a utensil that is made up of several component parts. Fashioning a new utensil, by contrast, is surely considered building, as explained in Chapter 10, Halachah 13 and notes. As mentioned, others differ and maintain that a person who fashions a new utensil is liable for performing the forbidden labor of מכה בפטיש, completing a utensil.
+
 [^123]: According to the Rambam, the rationale for the leniency appears to be that since the parts hang loosely, one would not confuse assembling such a structure with erecting a building. According to the other authorities, the rationale is that since the parts of the utensil hang loosely, there is little likelihood that one will attach the parts firmly to each other.
+
 [^124]: This refers to adjusting the child's limbs by hand. As mentioned in Chapter 21, Halachah 31, one may tie clothes around the child to adjust his limbs. Furthermore, on the day of a child's birth, it is permitted to adjust his limbs (*Shulchan Aruch HaRav* 330:10; *Mishnah Berurah* 330:34). Even afterwards, many authorities allow the adjustment of other limbs, with the exception of the backbone.
+
 [^125]: See Chapter 10, Halachah 13.
+
 [^126]: In this context, the word "temporary" is defined as "not constructed to remain for a prolonged period" (*Shulchan Aruch HaRav* 315:1). It would appear that, according to the Rambam, even if a tent has a roof that is a handbreadth wide, its classification as permanent or temporary depends on the intent of the person who erects it. (See the *Noda BiY'hudah*, Vol. II, *Orach Chayim*, Responsum 30.)  
     Based on this restriction, the *Noda BiY'hudah* (*loc. cit.*) forbids opening an umbrella on the Sabbath. Similarly, because of the appearance that might be created, he forbids carrying an umbrella on the Sabbath even when: a) it was opened before the Sabbath, and b) the community possesses an *eruv* that makes it permitted to carry.
+
 [^127]: If, however, the overhang was not at all extended before the commencement of the Sabbath, it may not be extended on the Sabbath. Although it was suspended above the wall before the Sabbath, since it was completely rolled up, it may not be used.
+
 [^128]: Similarly, it is permitted to place a table-top on its legs (*Maggid Mishneh*). Note, however, the *Shulchan Aruch* (*Orach Chayim* 315:3), which forbids placing a table-top on legs that appear as walls.
+
 [^129]: I.e., a space is covered by a surface supported by four legs.
+
 [^130]: Since one does not use the space below them (*Maggid Mishneh*).  
     Note the apparent contradiction between the Rambam's ruling here and his ruling in *Hilchot Sh'vitat Yom Tov* 4:15, and the resolution offered by the *Lechem Mishneh* there.
+
 [^131]: I.e., the walls of the tent slant downward, and it does not have a straight roof that is a handbreadth wide.
+
 [^132]: Based on the principle of *l'vud*, the space within three handbreadths is considered to be a single entity. Thus, were it to be a handbreadth wide, the tent would be considered as having a roof of significant size (*Shulchan Aruch HaRav* 315:15).
+
 [^133]: This follows the opinion of Rabbenu Yitzchak Alfasi and Rabbenu Chanan'el. Rashi and Rabbenu Asher, by contrast, maintain that since the tent does not have a roof that is a handbreadth wide, it can never be considered even a temporary tent, and there is no prohibition in constructing it. The *Shulchan Aruch* (*Orach Chayim* 315:8) follows the Rambam's ruling.
+
 [^134]: I.e., there is a beam in the middle of a room on which a cloth is rolled that will be spread out to serve as a cover for a bed. Cords are attached to the cloth, and when they are pulled it is extended to form the canopy. Needless to say, such a canopy must meet the criteria mentioned in the first clause of this halachah regarding the width of its roof (*Shulchan Aruch HaRav* 315:16; *Mishnah Berurah* 315:37).
+
 [^135]: As implied by the first clause, had the cloth not been hanging before the commencement of the Sabbath, hanging it on the Sabbath itself would have been forbidden. Nevertheless, since it was hanging before the Sabbath and the cords that extend it are already in place, it is considered already to have been extended the length of a handbreadth. Therefore, extending it further is permitted, as mentioned in Halachah 27 (*ibid.*).
+
 [^136]: Since spreading out the cloth is not considered to be building a tent, closing it is not considered to be demolishing one (*Shulchan Aruch HaRav* 315:16; *Mishnah Berurah* 315:38). This and all the other leniencies associated with a temporary tent apply when the roof of the temporary tent is less than a handbreadth wide (*Shulchan Aruch HaRav* 315:17; *Mishnah Berurah* 315:38). This ruling is also reflected in the following halachah.
+
 [^137]: Note the Ramah (*Orach Chayim* 315:1), who states that one may hang a curtain on the Sabbath, even if one intends to leave it hanging permanently, provided there is no halachic significance to its being hung - e.g., to hang a curtain in front of a toilet so that one could pray in that same room.  
     Note also the *Mishnah Berurah* 315:38, which states that the wording of this halachah indicates that the cords from which a curtain hangs must be prepared before the commencement of the Sabbath, as the cords of the cloth mentioned immediately before. There are, however, other authorities who do not accept this view. (See also Halachah 32, which describes the manner in which a curtain may be hung.)
+
 [^138]: Thus, it meets the criteria of a temporary tent mentioned in the previous halachah.
+
 [^139]: This represents a greater leniency than the previous halachah. In that halachah, leniency was granted only because the ends of the canopy were hanging from the curtain rods and attached by strings. In this instance, the canopy was not hanging before the Sabbath. Nevertheless, since it was prepared to serve this purpose, it is permitted.
+
 [^140]: The *Maggid Mishneh* cites the interpretation of the Rashba, who explains that this refers to a canopy that hangs down a handbreadth below the bed. The part that hangs down is thus considered to be a wall - and the slanted portion of the canopy, a roof.  
     Based on this interpretation, he finds it necessary to differentiate between such a canopy and a sheet or blanket extended over a bed that is used at present. In the latter instance, even though the sheet or blanket extends more than a handbreadth on either side of the bed, it is not considered a tent, since it was not spread out with the purpose of enclosing space. The canopy, by contrast, was spread out for that purpose and hence is considered a tent in certain instances.  
     Although this interpretation is accepted by the later authorities (*Shulchan Aruch HaRav* 315:18; *Mishnah Berurah* 315:42), Rav Kapach notes that it does not fit the wording used by the Rambam, "provided it does not hang more than a handbreadth **above** the bed." He thus explains that if the canopy hangs more than a handbreadth above the bed, that open space is considered a wall, and the canopy, its roof.
+
 [^141]: Our translation is taken from the Rambam's Commentary on the Mishnah (*Shabbat* 17:7). Others render this as "a shutter." It would, however, appear that the Rambam would not object to the use of a shutter for this purpose. Indeed, as indicated by *Shabbat* 24:5, it is permitted to use any utensil for this purpose. Compare also to Chapter 26, Halachah 10.
+
 [^142]: The rationale for this leniency is that this is considered equivalent to closing a window or a door which is permitted on the Sabbath (*Shabbat* [[Shabbat 125#125b|125b]]).  
     The same rules apply regarding an aperture in the roof (*Shulchan Aruch HaRav* 313:1; *Mishnah Berurah* 313:1).
+
 [^143]: In this instance, we have adopted the version of this halachah found in the Yemenite manuscripts of the *Mishneh Torah*. The version of the standard published texts would be rendered "on one's garments."
+
 [^144]: The *Maggid Mishneh* and similarly, the *Shulchan Aruch* (*Orach Chayim* 301:40), interpret this as referring to a hat with a brim less than a handbreadth. According to their interpretation, putting on such a hat is forbidden even in one's home. The *Noda BiY'hudah* (Vol. II, *Orach Chayim*, Responsum 30), however, explains that there is no prohibition against putting on a hat, regardless of how wide its brim is.
+
 [^145]: Note the Radbaz (Vol. V, Responsum 1450), who explains that both of these stipulations are derived from the Hebrew word מהודק used in *Shabbat* [[Shabbat 138#138b|138b]], the source for this halachah. מהודק means "firm," and in this context, the use of the word implies both "firmly attached" and that the brim is firm. When both these stipulations are fulfilled, the garment resembles a tent.  
     Note Rashi, however, who explains that the head-covering must be firmly attached to one's head. Otherwise, one may not wear it in the public domain, lest the wind blow it from one's head. Rashi's interpretation is followed by most later commentaries and accepted by the *Shulchan Aruch* (*loc. cit.*:41).
+
 [^146]: I.e., there is no prohibition against hanging the curtain if one holds it upright. This, however, is difficult when hanging a large curtain. Inevitably, one will hold one portion of the curtain with one's left hand and fold at least a handbreadth or more over with one's right hand while hanging it. Thus, a temporary tent will have been created.  
     This represents the Rambam's conception of the passage in *Shabbat* [[Shabbat 138#138b|138b]], the source for this halachah. Although the Ra'avad and others interpret that passage differently, the Rambam's view is accepted by the *Shulchan Aruch* (*Orach Chayim* 315:12). (See also the final clause of Halachah 29 and notes.)
+
 [^147]: I.e., in contrast to the canopy described in Halachah 29.
+
 [^148]: Similarly, removing the cover is forbidden, since it is considered to be demolishing a tent (*Shulchan Aruch HaRav* 315:19).
+
 [^149]: The *Maggid Mishneh* mentions that this restriction applies only when there is a handbreadth or more of empty space in the jug. This qualification is accepted by the *Shulchan Aruch* (*Orach Chayim* 315:13).  
     The *Maggid Mishneh* also mentions that the Rashba and the Ra'avad interpret *Shabbat* [[Shabbat 139#139b|139b]], the source for this halachah, differently, and therefore reach a more lenient decision. Although their view is mentioned by the later authorities, the general consensus is to follow the Rambam's ruling.
+
 [^150]: See Chapter 21, Halachah 17, and notes.
+
 [^151]: Rashi (*Shabbat, loc. cit.*) interprets the passage that serves as the source for this halachah as the Rambam does. Others, however, explain that this restriction was instituted to make one deviate from one's ordinary practice as a safeguard associated with the forbidden labor of sifting.

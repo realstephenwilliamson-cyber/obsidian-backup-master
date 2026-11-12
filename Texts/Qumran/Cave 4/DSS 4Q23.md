@@ -35,6 +35,19 @@ aliases:
 | Frag. 21 ii, 22-23 | Lev 27:5-13 |
 | Frag. 24-26 | Lev 27:14-22 |
 | Frag. 27 | Num 1:1-5 |
+| Frag. 28 | Num 1:21-22 |
+| Frag. 29 | Num 1:36-40 |
+| Frag. 30 | Num 2:18-20 |
+| Frag. 31, 32 i, 33 | Num 2:31-32, 3:3-19 |
+| Frag. 32 ii, 34 i-43 | Num 3:51 - 4:12 |
+| Frag. 34 ii, 44-50 | Num 4:40 - 5:9 |
+| Frag. 51 | Num 8:7-12 |
+| Frag. 52 | Num 8:21-22 |
+| Frag. 53-54 | Num 9:3-10 |
+| Frag. 55 | Num 9:19-20 |
+| Frag. 56 | Num 10:13-23 |
+| Frag. 57 | Num 11:4-5 |
+| Frag. 58-59 | Num 11:16-22 |
 | Frag. 60-61 | Num 12:3-11 |
 | Frag. 62 | Num 13:21 |
 | Frag. 63 | Num 22:5-6 |
@@ -49,26 +62,5 @@ aliases:
 | Frag. 72-74 | Num 33:52-54 |
 | Frag. 74 | Num 35:4-5 |
 | Frag. 75-104 | ? |
-| Frag. 28 | Num 1:21-22 |
-| Frag. 29 | Num 1:36-40 |
-| Frag. 30 | Num 2:18-20 |
-| Frag. 31, 32 i, 33 | Num 2:31-32, |
-| Frag. 34 ii, 44-50 | Num 4:40 - 5:9 |
-| Frag. 51 | Num 8:7-12 |
-| Frag. 52 | Num 8:21-22 |
-| Frag. 53-54 | Num 9:3-10 |
-| Frag. 55 | Num 9:19-20 |
-| Frag. 56 | Num 10:13-23 |
-| Frag. 57 | Num 11:4-5 |
-| Frag. 58-59 | Num 11:16-22 |
-| Frag. 21 | Lev 23:40 |
-| Frag. 20 ii, 22-25 | Lev 24:2-23 |
-| Frag. 26 | Lev 25:28-29 |
-| Frag. 27-28 | Lev 25:45-49.51-52 |
-| Frag. 29-30 | ? |
-| Frag. 1 i | Lev 1:1-7 |
-| Frag. 1 ii | ? |
-| Frag. 2 | Lev 3:16 - 4:6 |
-| Frag. 3 | Lev 4:12-14 |
 
 [[DSS 4Q22|← 4Q22]] · [[Qumran|index]] · [[DSS 4Q24|4Q24 →]]

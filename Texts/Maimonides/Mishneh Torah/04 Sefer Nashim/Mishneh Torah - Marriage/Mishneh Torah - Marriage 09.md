@@ -173,57 +173,107 @@ Similar [rules apply with regard to] a woman who comes [to a new community] and 
     The *Maggid Mishneh* notes that *Kiddushin* [[Kiddushin 51#51a|51a]] equates this law with the following ruling: When one person tells another, "You and this animal will acquire this object," the person acquires half. The correspondence is explained as follows. Although the animal is not fit to acquire the property, the person still acquires the half. Similarly, although some of the women are not fit to be consecrated, the others are, and they should be consecrated.  
     On this basis, the *Maggid Mishneh* asks: Since in *Hilchot Mechirah* 22:12, the Rambam rules that the person acquires the property although the animal does not, seemingly he should agree that the women who are fit to be married should be consecrated. In resolution, he explains that monetary laws are governed by different principles from marital laws, and therefore there is no contradiction between the two rulings.  
     Because of this contradiction, although the *Shulchan Aruch* (*Even HaEzer* 41:4) mentions the Rambam's opinion, it also mentions a view that states that the women who are not related are consecrated. It concludes that because of the conflicting opinions, the status of the *kiddushin* is doubtful. The same applies with regard to the law mentioned in the second portion of this halachah.
+
 [^2]: Since the man was not specific as to which of the sisters he was consecrating, there is no way to determine which of them was intended. [Even if the man specifies his intent afterwards, his word is not accepted (Ramah, *Even HaEzer* 37:16).] Therefore, there is doubt as to the status of both of the women.
+
 [^3]: The *Shulchan Aruch* (*Even HaEzer* 37:16) states that this rule applies even when the man consecrating the daughters was engaged to one of them. Since he did not specify his intent at the time of the *kiddushin*, all the daughters require a divorce.
+
 [^4]: In the previous instance, the man was not able to marry either of the women he consecrated, because they were related and it is forbidden to marry one's divorcee's mother, sister or daughter.
+
 [^5]: The Ramah (*Even HaEzer* 35:11) quotes the opinion of Rabbenu Nissim, who maintains that if the relatives state that they were never consecrated and the man marries the woman, they are permitted to remain married.
+
 [^6]: If the girls are below the age of *bagrut*, their father has the privilege of consecrating them. If they are above the age of *bagrut*, it is possible that they appointed him as an agent to receive their *kiddushin*. Note, however, the following halachah.
+
 [^7]: For perhaps the brother who died was her betrothed.
+
 [^8]: A girl between the ages of twelve and twelve and a half, who has manifested signs of physical maturity.
+
 [^9]: A girl past the age of twelve and a half, who has manifested signs of physical maturity.  
     In the Rambam's Commentary on the Mishnah (*Kiddushin* 3:8), he states that if the man has several daughters below the age of *bagrut*, they all require a divorce, because of the doubt mentioned in the previous halachot, but the daughter above the age of *bagrut* does not require a divorce.
+
 [^10]: *Kiddushin* [[Kiddushin 51#51b|51b]] explains the rationale for this ruling. A person will not abandon a mitzvah for which he is responsible (the consecration of his younger daughter) to fulfill a mitzvah for which he is not responsible (the consecration of his elder daughter).
+
 [^11]: The *Shulchan Aruch* (*Even HaEzer* 37:15) states that this law applies only when the daughter who is above *bagrut* does not specify the identity of a man she desires to marry. If, however, she makes such a specification, and the above situation occurs with regard to this individual, she also requires a divorce.
+
 [^12]: I.e., none of them has reached the age of *bagrut* (*Beit Yosef, Even HaEzer* 37). (See *Beit Shmuel* 37:42.)
+
 [^13]: Although the Hebrew words גדולה and קטנה can mean both "older" and "oldest" and "younger" and "youngest" respectively, in this context the man's intent is clear, and the intent is the oldest and the youngest.
+
 [^14]: *Kiddushin* [[Kiddushin 64#64a|64a]] derives this concept from [[Torah 49 - Ki Teitzei#^22-16|Deuteronomy 22:16]], "I gave my daughter to this man," the verse that teaches that the father has the prerogative of consecrating his daughter until she becomes a *bogeret*. From "I gave my daughter," we learn that because of her father's words, the woman is forbidden to marry anyone but her intended. From "this man," we learn that he can clarify the identity of the intended.
+
 [^15]: The rationale is that since the prohibition comes on the basis of her father's statements, the license to marry is also granted on that basis.
+
 [^16]: I.e., not only may he free the girl of the prohibition by divorcing her, he may consummate the marriage if he desires. We do not suspect that he is making this statement merely because he is attracted to the woman (*Kiddushin* [[Kiddushin 63#63b|63b]]). The man is given this prerogative because we assume that he would not lie, lest the father protest and deny his claim.
+
 [^17]: He must, however, consecrate the woman again (Rashba, Ramah, *Even HaEzer* 37:22).
+
 [^18]: The Rashba states that this ruling applies even if the marriage was not yet consummated. As long as the license for the marriage was granted, the third person's claims do not cause it to be rescinded. The *Shulchan Aruch* (*Even HaEzer* 37:23) quotes both views, but appears to favor that of the Rambam.
+
 [^19]: If, however, he consummates the marriage and the couple live together as man and wife, we do not force them to separate because of the suspicions mentioned (Rashba, *Shulchan Aruch, Even HaEzer* 37:24).
+
 [^20]: I.e., the relatives he would be forbidden to marry if she were his wife. Since according to his statements they are man and wife, he must uphold any prohibitions that such a relationship would bring about.
+
 [^21]: For she denies the matter.
+
 [^22]: I.e., those who are not forbidden to him because of his statements regarding her mother. Since he does not acknowledge the consecration of the daughter, he is not bound by the mother's statements.
+
 [^23]: For the mother's statements are not binding for the daughter. Although Scriptural law gives a father the prerogative to make binding statements regarding his daughter's status, a mother's statements do not have this power even according to Rabbinic law (Rambam's Commentary on the Mishnah, *Kiddushin* 3:11).
+
 [^24]: Chapter 4, Halachah 6.
+
 [^25]: Once the man divorces the woman, he is forbidden to marry her close relatives. Nevertheless, this is not considered a significant loss, since there are many other women he could marry. And yet, because of this factor, he cannot be compelled to divorce the woman (*Maggid Mishneh*; Ramah, *Even HaEzer* 48:6). Others [Rabbenu Eliyahu Mizrachi and the Maharshal (Responsum 25)] differ and maintain that since he divorced the woman only as a favor to her, he is not forbidden to marry her relatives.
+
 [^26]: I.e., without being asked to by others.
+
 [^27]: The *Maggid Mishneh* notes that there are several points that require clarification with regard to the Rambam's statements. As stated in Chapter 10, Halachah 11, a man is not ordinarily obligated to pay a marriage contract until the second stage of the marriage (*nisu'in*). If merely *kiddushin* were given, he is not under such an obligation. It is only when he wrote the woman a *ketubah* and gave it together with the *kiddushin*, that he is obligated.  
     This, however, raises a question: If he wrote the woman a *ketubah*, how can he deny the *kiddushin*? The *Maggid Mishneh* explains that this law applies only in a place where it is customary to write the *ketubah* before the *kiddushin* are given. Because in most instances there is no obligation to give a *ketubah* after *kiddushin*, the *Shulchan Aruch* does not mention this law at all (*Chelkat Mechokek* 48:2).
+
 [^28]: See *Hilchot Mechirah* 7:10.
+
 [^29]: The Ra'avad maintains that the man must always appoint an agent in the presence of witnesses. He therefore interprets the phrase *huchzak hashaliach* to mean that the appointment of the agent was public knowledge.
+
 [^30]: As in Halachah 15.
+
 [^31]: For his agent states that he did not consecrate the woman on behalf of the principal.
+
 [^32]: The *Maggid Mishneh* states that even though the woman is considered to be consecrated to the principal, the agent is still forbidden to marry the woman's relatives. The Ramah (*Even HaEzer* 35:15) quotes this ruling.  
     Rabbenu Asher does not accept the Rambam's ruling, stating that if the agent explicitly states that he did not consecrate the woman on behalf of the principal, there is no way that the *kiddushin* can be binding.
+
 [^33]: Because of the doubt, he is not required to pay each of them the sum required by the marriage contract.
+
 [^34]: Because he violated our Sages' instructions not to consecrate with sexual relations.
+
 [^35]: The *Beit Shmuel* 49:2 questions why this ruling differs from the ruling delivered (*Hilchot Gezelot* 4:9) when a man says that he stole from one of five people, and does not know from whom he stole. In such an instance, although the thief is required to reimburse each of the five, this is only when each of the recipients takes an oath that the money was stolen from him. The *Beit Shmuel* leaves the question unresolved.
+
 [^36]: For, as stated in Chapter 10, Halachah 11, a man is not ordinarily required to pay the money due because of a marriage contract until *nisu'in*, the second stage of the marriage relationship. If the woman has merely been consecrated, this obligation is not incumbent upon him unless he wrote a marriage contract for her.
+
 [^37]: The Ra'avad states that there is no need for the marriage contract to have been written. If the man made a verbal agreement to that effect when consecrating the woman, he is obligated. The *Maggid Mishneh* explains that the Rambam would also accept the Ra'avad's law, and was merely giving one of several possible settings in which the law stated could be applied.
+
 [^38]: As the *Shulchan Aruch* (*Even HaEzer* 46:1) states, the woman is bound by the same rules as all those whose status of their *kiddushin* is in doubt. She may not marry any one other than the man to whom the report says she is consecrated, but before she may consummate the marriage with him, she must be consecrated again.
+
 [^39]: I.e., it is possible for many rumors to be spread. When is credence given to a rumor? When it can be substantiated in court with testimony, as mentioned below. (See Rashi, *Gittin* 99b.)
+
 [^40]: In this part of the halachah (in contrast to its beginning), the Rambam does not mention that the witnesses state to whom the woman was consecrated. The later authorities (*Chelkat Mechokek* 46:1; *Beit Shmuel* 46:1) maintain that this information must also be stated; otherwise the woman is not considered to be consecrated.
+
 [^41]: I.e., according to the Rambam, it is sufficient for two witnesses to hear from one person who originally heard the report from another person. The Rashba and Rabbenu Asher maintain that unless a report is spread by at least two individuals, it cannot be substantiated in court. The *Shulchan Aruch* (*Even HaEzer* 46:2) quotes the Rambam's view and the Ramah quotes the other opinions.
+
 [^42]: I.e., there is a question whether the *kiddushin* were worth a *p'rutah*, or the youth consecrating her had reached the age of majority (*Gittin* 9:9; *Shulchan Aruch, Even HaEzer* 46:3).
+
 [^43]: If the first man does not divorce her, the second is not allowed to consummate the marriage. If he does not heed this ruling and marries her before she receives a divorce, the Rabbis ruled that the woman is forbidden to him, and he is required to divorce her (*Shulchan Aruch, Even HaEzer* 46:5).
+
 [^44]: This is forbidden, as explained in *Hilchot Gerushin* 11:12. If the first man does not heed this ruling and marries her, the Rabbis are unresolved whether or not the marriage is allowed to stand (*Chelkat Mechokek* 46:13).
+
 [^45]: I.e., although the presents are worth more than a *p'rutah*, they themselves do not establish a bond of *kiddushin*, because they are not given with that intent. Nevertheless, the fact that the presents were given indicates that there is a possibility that *kiddushin* had been given previously.
+
 [^46]: Since there are a number of men who send presents after consecrating, we suspect that perhaps this person also followed that practice. Although rulings of Torah law are ordinarily determined by the practice of the majority, an exception is made in this case, because of the severity of the laws of marriage and divorce (*Tosafot, Kiddushin* 50b), or because this majority practice is not fixed and may change at the whim of the people (Rabbenu Nissim).
+
 [^47]: I.e., the marriage contract, like the gifts mentioned in the previous halachah, are a sign that perhaps the woman was consecrated (*Maggid Mishneh*).
+
 [^48]: In this instance, the testimony of one witness is not accepted when the woman denies his statements. If her words were not true, she would not dare to contradict the witness's testimony (*Maggid Mishneh*).
+
 [^49]: The Rambam's ruling appears to be based on the rationale that since the woman has a witness who supports her, we suspect that she might contradict the other witness even when she is not telling the truth (*Maggid Mishneh*).  
     This rationale is not accepted by the Ra'avad and other authorities, who object to the Rambam's ruling. They maintain that since the woman's statements are accepted when she has no support, surely they should be accepted when they are supported by another witness. They explain that *Ketubot* [[Ketubot 23#23a|23a]], the source for this halachah, is referring to an instance when a man threw *kiddushin* to a woman, one witness claims that the *kiddushin* were closer to the woman (and hence, she was consecrated), the other claims that they were closer to the man (and thus she was not consecrated), and the woman herself does not know. This is the view accepted by the *Shulchan Aruch (Even HaEzer* 47:3).
+
 [^50]: *Ketubot* [[Ketubot 22#22a|22a]] gives an example of a rationale that the Sages accepted. A very attractive woman at first said that she was consecrated, and afterwards accepted *kiddushin*. When asked to account for her behavior, she explained that her suitors were originally not worthy people, and she therefore wanted nothing to do with them. When a worthy suitor came, she was happy to accept his offer.
+
 [^51]: Note the ruling of the Ramah (*Even HaEzer* 47:4), who states that this law applies only when the woman says "I was consecrated," but does not state to whom. If she mentions the name of a person who she claims to have consecrated her, her retraction is not accepted even when the rationale she offers appears to have substance.

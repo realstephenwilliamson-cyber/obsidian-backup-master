@@ -115,26 +115,49 @@ This is hinted at in the practice of Israel to wear two head coverings (a strict
 **Torah:** [[Torah 39 - Chukat#^21-26|Numbers 21:26]]
 
 [^1]: The Torah is called “a tree of life for those who hold on to it.” For the present consciousness, life is defined by connection to the Torah.
+
 [^2]: This is the same *Choq* of which Rashi said, “we may not contemplate its meaning.”
+
 [^3]: The root of cow, *par*, is also the root of fruitfulness, *priya*, hence life, as the Holy Isbitser mentions elsewhere.
+
 [^4]: Later the Isbitser adds to this “joy.”
+
 [^5]: The body here is both physical and spiritual, the 248 limbs of the body associated with the 248 positive mitzvot.
+
 [^6]: This is not to deny the great suffering in the world, which the author well knew, but rather the messianic time represents a time of complete clarity of understanding of all the events in the world and God’s intentions. See the second selection in *Parshat Vayigash*, “and Yehuda drew close to him.”
+
 [^7]: On this, it may be asked, does it not say “the testimony of God is sure, making the simple wise”? Yet *Pirkei Avot* says that Moshe delivered the Torah to Yehoshua, and not directly to the elders. It could only be transmitted through Yehoshua.
+
 [^8]: As the Isbitser later mentions, just as a mentally deficient *Cohen*, once called a “fool,” is disqualified from service, so any action done in foolishness is deficient.
+
 [^9]: Two olive trees stood on either side of his vision of the menorah, standing for the “anointed ones standing by the Master of all,” *moshiach*. Perhaps what the holy Isbitser is saying is that just as the two olives stand solidly and effortlessly, so will it be clear with the redemption that all the toil and strife was as nothing, that we were always receiving God’s providence.
+
 [^10]: The *Cohen*, in a state of purity, by sprinkling the waters of purification on the one who became impure through contact with the dead, in turn becomes impure for a day.
+
 [^11]: The laws are temporarily suspended in order that the Torah can later be strengthened. (Steinsaltz)
+
 [^12]: See [[I Kings 18#^18-1|Kings 1, Ch. 18]], where though the building of an altar outside of the temple was not permitted at that time, still Eliyahu had to do it to show the greatness of God.
+
 [^13]: This is one of the classic teachings of the Mei HaShiloach and the one that has perhaps engaged him in more controversy with his opponents than any other. It could be easily misinterpreted as being antinomian, that God forbid the Torah is not absolute and we may choose to act based on our own perception of what God wants. This is not what he is saying. It is rather the deepest expression of how one may at times be drawn after God’s will, what Reb Shlomo Carlebach ZTs’L used to call being “beyond choice.” As the author mentions twice, it only happens in a state of complete clarity and after a process of being purified from any affliction or ulterior selfish motive. Then, once this has been clarified, he must start over and inspect himself again. Of course it is not a way to make anything permitted, as only a fool would interpret it, and some fools in our generation have. It is relevant when we find examples of our holy forefathers seemingly “breaking” the Torah, when in fact they are doing God’s will. Take Lot and his daughters, an act of incest, which created the line of David. Yehuda and Tamar, also making way for the Moshiach. Tslofchad, who was killed for gathering wood on Shabbat, actually making us aware of the awesome greatness and depth of Shabbat. Aharon and Miriam’s “little foolishness” [see the end of Mei HaShiloach *bha’alotcha*] speaking against Moshe, which made us aware of the greatness of Moshe, and Korach’s challenge of Aharon, which revealed to us the great depth of the level of Aharon haCohen. One would also include Zimri, who is described in *Parshat Pinchas* as one who was on the highest level of separation from licentious behavior, so his incident with Cosbi can only be understood as an act of God’s will. The author mentions Eliyahu on Mount Carmel. This is a central theme of the Mei HaShiloach, and one that must be investigated further.
+
 [^14]: This is expression of God’s will, where the clouds went, they went.
+
 [^15]: This is what the Author seems to have been referring to in the “removal of all affliction.”
+
 [^16]: Tekifut. See note 61, *Sefer Shemot*.
+
 [^17]: This is referring to arriving at Be’er, where they merited receiving a spring of water, and sang [*Bamidbar*, [[Torah 39 - Chukat#^21-17|21:17]]].
+
 [^18]: We see that God must also act according to His own order. We see, in order to be ethical, God creates His own limitations. An example quoted above concerns the sin of the prophet Hoshea who said (*Pesachim*, [[Pesachim 87#87a|87a]]), “exchange them [Israel] for a different people.” “The Holy One, blessed be He, said to Hoshea, ‘Your children have sinned,’ to which he should have replied, ‘They are Your children, they are the children of Your beloved ones, they are the children of Avraham, Yitzchak, and Yaakov. Show them Your mercy.’ It was not enough that he did not say this, but he said to Him: ‘Master of the Universe! The whole world is yours. Exchange them for a different people.’ The Holy One, blessed be He, said, ‘What shall I do with this old man [who does not know how to defend his people]? I will order him: ‘Go and marry a whore and raise children of whoredom’; and then I will order him: ‘Send her away from your presence.’ If he will be able to send her away, then I too will send Israel away.’ For it is said, And the Lord said unto Hoshea, ‘Go, take unto thee a wife of whoredom and children of whoredom,’ and it is written, ‘So he went and took Gomer the daughter of Divlaim.’”
+
 [^19]: A well of water connotes Joy, as in the verse ([[Isaiah 12#^12-3|Yeshaya, 12:3]]
+
 [^20]: Principally from this action of dressing his son in his garments before his death.
+
 [^21]: “Avraham established the Morning Prayer, Yitzchak the afternoon prayer, and Yaakov the evening prayer.” Prayer is the device through which man connects with God. “Avraham established the Morning Prayer” means that man expresses thanks over the past and prays for the future, that God should increase his good. “Yitzchak established the afternoon prayer” means that man shows that he has received the light that was increased for him today, and he is happy with his portion. “Yaakov established the evening prayer,” means that man needs God at every second, and will only see light in His light. Therefore the evening prayer is not fixed, and would it only were that man would pray the entire day. On this it is said, “Ekev anava Yirat Hashem,” “Following [or on the heels of, or because of] humility is the fear of God.” In childhood, when the main struggle is the control of lust, then the principal wisdom is the fear of God. When this struggle is no longer necessary, then he must follow the middle path, meaning *Ekev*, following, or the heel, (though corresponding to Yitzchak, the connection between *Ekev* and Yaakov, *Tiferet*, the middle column, is also relevant) meaning a balance between love and fear. Afterwards, when man’s heart is sufficiently purified so as to be drawn after God’s will, then he is permitted to expand into the world and taste of its good. There were the levels of the Patriarchs. Avraham was “the beginning of wisdom is the fear of God,” Yitzchak was “following humility,” and Yaakov could taste from all the delights of the world and experience the taste of the source of life.
+
 [^22]: *Kelipa* means peel or husk that surround the sparks, in Lurianic Kabbalah, meaning forces of “the other side,” impurity, or evil.
+
 [^23]: Every force in holiness has a corresponding force in evil. The source of this phrase is [[Ecclesiastes 07#^7-14|Kohellet 7:14]].
+
 [^24]: The seven nations who dwelled in the land of Canaan before the arrival of Israel, Hitti, Emori, etc., which we were commanded to eradicate.

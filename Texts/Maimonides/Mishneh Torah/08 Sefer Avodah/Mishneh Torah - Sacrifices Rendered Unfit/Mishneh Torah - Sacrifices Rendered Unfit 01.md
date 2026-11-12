@@ -205,91 +205,175 @@ Casting [the blood on the altar] is effective with regard to [the obligation to 
 **37.** When the sun sets and the blood from a sacrificial animal [slaughtered that day] has not been cast [on the altar], the sacrifice is disqualified. If [the blood] is cast [on the altar afterwards],[^85] [the sacrifice] is not received with favor [Above]. ^1-37
 
 [^1]: A non-priest or a priest who was disqualified for various reasons. See *Hilchot Bi'at HaMikdash* 9:15 for a detailed list of such individuals.
+
 [^2]: The wording of *Zevachim* 3:1 (the source for this ruling) could be interpreted as implying that the slaughter is acceptable only after the fact. In his Commentary to the Mishnah (based on *Zevachim* [[Zevachim 31#31b|31b]]), the Rambam explains that this restriction applies only to a person who is ritually impure.
+
 [^3]: And thus does not violate the prohibition against entering the Temple Courtyard while ritually impure (see *Hilchot Bi'at HaMikdash* 3:6).
+
 [^4]: Where the sacrificial animals must be slaughtered. As stated in *ibid.* 3:18, it is forbidden for an impure person to insert his hand into the Temple Courtyard according to Rabbinic Law. Nevertheless, this person was willing to transgress. Significantly, in his Commentary to the Mishnah (*loc. cit.*) the Rambam offers an interpretation that does not require that the person transgress: he slaughtered with a long knife.
+
 [^5]: In which instance he would make the sacrifice impure and disqualify it. That is forbidden.
+
 [^6]: Seemingly, implying that the slaughter must be performed by a High Priest. Nevertheless, Aaron's name is explicitly associated with the verb *vihikriv,* "and he shall offer." According to the Rambam, the verse should be interpreted as meaning that the offering of the bull must be performed by the High Priest, not necessarily its slaughter.
+
 [^7]: Nevertheless, as an initial preference, the slaughter should be performed by a priest (*Hilchot Parah Adumah* 3:2; 4:17).
+
 [^8]: I.e., using a long knife so that the two are slaughtered with the same movements of the knife.
+
 [^9]: I.e., after the fact. This applies only with regard to sacrificial animals. Ordinary animals may be sacrificed in this manner as an initial preference. See *Chullin* [[Chullin 29#29a|29a]].
+
 [^10]: See *Hilchot Shechitah* 2:10.
+
 [^11]: Such slaughter is acceptable for ordinary animals after the fact (*Hilchot Shechitah* 4:5).
+
 [^12]: This is a principle applicable in many different contexts of Jewish Law, e.g., *Hilchot Tuma'at Ochalin* 3:10, 14:2; *Hilchot Keilim* 2:1.
+
 [^13]: For burnt-offerings may only be slaughtered in the northern portion of the Temple Courtyard (*Hilchot Ma'aseh HaKorbanot* 5:2-3). Thus he obviously had the intent to slaughter the animal as a burnt offering.
+
 [^14]: *Zevachim* [[Zevachim 48#48b|48b]] interprets [[Torah 24 - Vayikra#^1-11|Leviticus 1:11]] as implying that what is significant is the place where the animal is standing and not where the slaughterer is standing.
+
 [^15]: *Zevachim, op. cit.*, interprets the above verse as implying that with regard to the receiving of the blood, what is important is where the person performing that act is standing.
+
 [^16]: This reflects a general principle of Torah Law: the majority of a person's body is considered as his entire body (Rav Yosef Corcus).
+
 [^17]: For the slaughter was performed in the appropriate place.
+
 [^18]: The fact that between the slaughter and the receiving of the blood, it entered the southern portion of the courtyard does not disqualify it.
+
 [^19]: Where it is required that they be slaughtered (*Hilchot Ma'aseh HaKorbanot* 5:4).
+
 [^20]: For the blood must be received in the Temple Courtyard.
+
 [^21]: This translation is necessary, because we are speaking of a portion of the person's body and not his garments. See [[Ezekiel 08#^8-3|Ezekiel 8:3]] for a similar usage.
+
 [^22]: Significantly, *Zevachim* [[Zevachim 26#26a|26a]], the source for this law, uses a different prooftext. Some commentaries have suggested that perhaps a printing error crept into the text of the *Mishneh Torah*.
+
 [^23]: Implied is that if an animal moved out of the Temple Courtyard before its blood was received, it is disqualified.
+
 [^24]: See Halachot 32-33 of this chapter.
+
 [^25]: See *Hilchot Ma'aseh HaKorbanot* 18:15.
+
 [^26]: From the sacrifices of the most sacred order.
+
 [^27]: He should not, however, cut off the bone, because that would render the animal as blemished before the reception of the blood and thus disqualify it (see *Zevachim* [[Zevachim 26#26a|26a]] and commentaries).
+
 [^28]: As indicated by *Zevachim, op. cit.*, the problem is not because of the blood from the meat that was outside the Temple Courtyard, because our Sages made a distinction between the blood that flows from the animal at the time of ritual slaughter and the blood that remains within its body (see *Hilchot Ma'achalot Assurot* 6:4). Nevertheless, the fat from the portion of the animal that is outside the Temple Courtyard becomes mixed with its blood. This blood could also be part of the blood which is received, causing that blood to be disqualified (*Kessef Mishneh*).  
     The Ra'avad objects to the Rambam's ruling, maintaining that sacrificial animals of the highest degree of sanctity become disqualified when they are removed from the Temple Courtyard whether before the blood was presented on the altar or afterwards. Moreover, even if the meat is cut off as the Rambam suggests, the animal will become ritually impure, because there is an unresolved doubt whether our Sages decreed that any animal that is removed from the Temple Courtyard becomes ritually impure. Hence, because of the doubt, we should rule stringently (see *Pesachim* [[Pesachim 85#85a|85a]]). The *Kessef Mishneh* and Rav Yosef Corcus resolve the Rambam's ruling.
+
 [^29]: Provided of course that the animal was returned to the Temple Courtyard, and the blood received there. Even if a portion of the animal was outside the Courtyard, as long as the blood was received inside the Temple Courtyard, the sacrifice is not disqualified. Nevertheless, the portion that was outside the Temple Courtyard is forbidden to be eaten (see Halachah 32).  
     The Ra'avad states that after the blood was cast on the altar, the meat may be taken out of the Temple Courtyard. Rav Yosef Corcus states that this is obvious, because the meat of sacrifices of a less degree of sanctity may be eaten throughout the city of Jerusalem (*Hilchot Ma'aseh HaKorbanot* 11:5-6).
+
 [^30]: Based on *Zevachim* [[Zevachim 26#26a|26a]], the *Kessef Mishneh* interprets this halachah as referring only to sacrifices of the most sacred order. (This is reflected also in the prooftext which refers to such a sacrifice.) Sacrifices of a lesser degree of sanctity, by contrast, may be slaughtered if they are hoisted in the air, as long as they are within the space above the Temple Courtyard.
+
 [^31]: Based on *Zevachim, op. cit.*, the *Kessef Mishneh* - and his objections are also seconded by Rav Yosef Corcus - suggests emending the text of this halachah. As stated in Halachah 19, there is a difficulty in receiving the blood of a sacrifice while hanging in the air, because this is not befitting to the Temple service. Nevertheless, slaughtering an animal is not a formal part of the Temple service (and hence can be performed by a non-priest). Therefore there is no difficulty in performing it while hoisted in the air. And as stated in Halachah 20, the open space of the Temple Courtyard is considered as the Temple Courtyard, so it is as if the slaughterer is standing in the Temple Courtyard.
+
 [^32]: The windpipe and the gullet.
+
 [^33]: For an animal to be sacrificed as a sacrifice of a lesser degree of sanctity.
+
 [^34]: Of an animal to be slaughtered as a sacrifice of the most sacred order.
+
 [^35]: See *Hilchot Shechitah* 4:13 for another application of this principle.
+
 [^36]: This applies both with regard to sacrifices of the most sacred order and those of a lesser degree of sanctity.
+
 [^37]: Thus the animal's blood is considered to have been received in the Temple Courtyard.
+
 [^38]: It is considered as if one was holding the receptacle in which the blood was received in one's hands.
+
 [^39]: This is a general principle, applying in several areas of Torah Law (e.g., *Hilchot Shofar Sukkah ViLulav* 1:5; 7:12).
+
 [^40]: The difference is that the blood will flow through the fibers, but the flour will not.
+
 [^41]: I.e., they are considered integral parts of the process of offering a sacrifice and therefore require a priest's involvement.
+
 [^42]: See *Hilchot Ma'aseh HaKorbanot* 12:23; 13:12.
+
 [^43]: The *Kessef Mishneh* states that this refer to *ibid.*, ch. 6. The *Lechem Mishneh* states that he does not understand where in that chapter there is an allusion to the need for a priest to perform that service.
+
 [^44]: Our translation is based on authoritative manuscripts of the *Mishneh Torah*. The standard published text states *kohen gadol*. Translating that term as "the High Priest" would not be appropriate in the present context. Some have suggested that the intent is a large priest, but most consider it a printing error. However, see Likkutei Sichos, Vol. 7, p. 205, where an explanation is given that justifies the wording *kohen gadol*.
+
 [^45]: Even if the blood was cast on the appropriate place.
+
 [^46]: And continue the service with it. If he received the blood while holding the receptacle with his left hand, the sacrifice is disqualified.
+
 [^47]: He may then continue the service; the sacrifice is not disqualified.
+
 [^48]: Since initially it was received in the proper manner, the fact that it spilled is not considered significant.
+
 [^49]: Since initially, it was not received in the proper manner.
+
 [^50]: For, after the fact, it is not necessary to receive all of the animal's blood (*Kessef Mishneh*). This is, however, the initial preference (see *Hilchot Ma'aseh HaKorbanot* 4:8).
+
 [^51]: In *Hilchot Ma'achalot Assurot* 6:3, the Rambam defines this term as "blood that flows out [from the animal] when it is slaughtered, killed, or decapitated as long as it is tinted red." See also the Rambam's Commentary to the Mishnah (*Keritot* 5:1).
+
 [^52]: Blood that flows slowly after the majority of the animal's blood has already been discharged. See the Rambam's Commentary to the Mishnah (*loc. cit.*).
+
 [^53]: A non-priest or a priest who was disqualified. See *Hilchot Bi'at HaMikdash* 9:15.
+
 [^54]: Once sacrificial blood has been cast on the altar as required by law, the blood remaining in the receptacle is considered merely as remnants and it is no longer able to be used to fulfill the service associated with this sacrifice.  
     One might object because, from Halachah 28, it appears that a person who is unfit to carry out Temple service does not cause the remainder of the blood to be considered as remnants. Hence, in the situation at hand, it would appear that if there is sufficient blood left in the receptacle, the sacrifice should not be disqualified. A distinction can however be made between Halachah 28 which speaks about blood that remains in the body of the sacrificial animal and this situation where the blood is remaining in the receptacle from which other blood was taken (*Tosafot, Zevachim* 92a). If the blood was not cast on the altar as required by law, the sacrifice is not disqualified and it is acceptable if that service is performed properly by an acceptable priest (*Kessef Mishneh*).
+
 [^55]: Who should then bring it to the altar. The fact that the person who was unacceptable held it does not disqualify the sacrifice.
+
 [^56]: With which the service may not be performed.
+
 [^57]: See *Hilchot Bi'at HaMikdash* 4:10.
+
 [^58]: The *Kessef Mishneh* maintains that the intent is that the impure priest received the blood and cast it on the altar. Receiving the blood alone does not disqualify the animal. He bases his interpretation on *Hilchot Me'ilah*3:2-3 where this concept is stated explicitly. In this manner, he resolves the Ra'avad's objections to the Rambam's ruling.
+
 [^59]: I.e., in a manner which would cause the animal to be disqualified as physically blemished. See *Hilchot Bi'at HaMikdash*, ch. 7, for a list of such blemishes.
+
 [^60]: Note the gloss of Rabbi Akiva Eiger who maintains that it is possible that it be necessary also to bring the blood to the altar while the animal is whole.
+
 [^61]: An olive-sized portion is considered significant. If even that small a portion of the meat can be eaten or the organs and fats can be offered on the altar, the purpose of the sacrifice will be consummated. Hence, it is appropriate to cast the blood on the altar.
+
 [^62]: The remnants are not considered as significant.
+
 [^63]: Hence the fat and the meat can be combined.
+
 [^64]: The sacrifice is disqualified and if the person was bringing it to fulfill an obligation, he must bring another one.
+
 [^65]: And the organs and fat to be offered on the altar.
+
 [^66]: In this instance, casting the blood on the altar is sufficient to cause the sacrifice to be considered acceptable. See also the following halachah.
+
 [^67]: I.e., the organs and the fats should be offered on the altar and the person bringing the sacrifice is considered to have fulfilled his obligation.
+
 [^68]: For sacrifices of a lesser degree of sanctity may be eaten throughout the city of Jerusalem.
+
 [^69]: Generally, when a sacrifice was disqualified, it would have to be burnt immediately. If, however, it was disqualified because of a difficulty with the casting of the blood or because the owners were disqualified, it should be kept until its form decomposes and then it is burnt (Rashi, *Me'ilah* [[Meilah 7#7b|7b]]-8a).
+
 [^70]: I.e., casting the blood of sacrifices of a lesser degree enables the meat of the animal to be eaten. This applies, however, only when the animal was in the Temple Courtyard at the time the blood was cast on the altar. If not, the sacrifice is acceptable, but the meat may not be eaten (Rav Yosef Corcus). The *Kessef Mishneh* (see also Ra'avad) offers a different interpretation, saying the intent could be sacrificial meat taken out of the city of Jerusalem.
+
 [^71]: The Ra'avad objects to the Rambam's ruling, questioning why these organs and fats should be offered on the altar's pyre. The Rambam's maintains that since the prohibition of *me'ilah* and the prohibitions mentioned in this halachah apply, the sacrifice is not disqualified. Hence, there is no reason why these organs and fats should not be offered (*Kessef Mishneh*).  
     Rav Yosef Corcus avoids this difference of opinion by explaining that this is referring to an instance where the organs and the fats were returned to the Temple Courtyard before the blood was cast upon the altar. According to all authorities, the fats and the organs should be offered in this instance.
+
 [^72]: These transgressions apply when the blood is cast on the altar in the proper manner. The Rambam is emphasizing that even in this instance when the fats and organs are outside the Temple Courtyard at the time the blood is cast on the altar - and therefore disqualified - these prohibitions still apply.
+
 [^73]: *As will be explained in chs. 14-16, when a person slaughters an animal with the intent of partaking of its meat at times other than those which are permitted, the sacrifice is considered as piggul and it is forbidden to partake of its meat.*
+
 [^74]: As explained in Chapter 18, Halachot 9-10, when sacrificial meat is left beyond the time when it should be eaten, it is called *notar* and it is forbidden to partake of it.
+
 [^75]: As stated in *ibid.*:12, when sacrificial meat becomes impure, it is forbidden to partake of it.
+
 [^76]: Even if these organs and fats were outside the Temple Courtyard at the time the blood was cast upon the altar, the casting of the blood caused them to be considered as sacrificial meat.
+
 [^77]: I.e., if either the meat could be eaten (or offered on the altar in the instance of a burnt-offering) or the fats could be offered on the altar, there will be some positive value to the sacrifice.
+
 [^78]: In *Hilchot Korban Pesach* 4:2, the Rambam writes that if a priest cast the blood on the altar when he knows that the Paschal sacrifice is impure, the forehead plate does not cause it to be considered acceptable, while in this instance, he does not make such a distinction. Nevertheless, the reason for this distinction is evident from the Rambam's statements in *Hilchot Korban Pesach*: the Paschal sacrifice is offered solely that it be eaten, while with regard to other sacrifices there is a positive dimension to the offering of the fats and organs on the altar even if the sacrifice is not eaten.
+
 [^79]: The initial preference is that they should not be offered on the altar.
+
 [^80]: See *Hilchot Bi'at HaMikdash* 4:7.
+
 [^81]: In this instance as well, it is the High Priest's forehead plate that arouses the positive spiritual influences that cause the sacrifice to be accepted. In contrast to individual sacrifices, however, with regard to communal sacrifices, one should cast the blood on the altar as an initial preference even though both the fats and the meat have been disqualified, for the restrictions against ritual impurity are superseded by the obligation to offer communal sacrifices (*Kessef Mishneh*; Rav Yosef Corcus).
+
 [^82]: And another sacrifice must be brought in its place. The forehead plate does not cause such sacrifices to be acceptable (*Zevachim* 8:12).
+
 [^83]: Even if it comes in direct contact with a source of impurity, it does not become impure. In his Commentary to the Mishnah (*Ediot* 8:4), the Rambam states that there are some Talmudic references to the blood of sacrificial animals becoming impure, but all of those statements were made before the testimony given by Rabbi Yossi ben Yoezar which stated that they never become impure. Once that statement was made, the principle was accepted without argument.
+
 [^84]: Instead, it is poured on the altar.
+
 [^85]: Whether at night or on the next day.

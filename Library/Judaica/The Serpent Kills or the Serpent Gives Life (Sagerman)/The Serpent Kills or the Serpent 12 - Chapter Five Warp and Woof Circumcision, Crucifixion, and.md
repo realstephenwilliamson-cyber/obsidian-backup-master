@@ -19,8 +19,11 @@ Eden” and “man and woman \[are\] witnesses in the garden.”[^212] A clear i
 context of Abulafia’s discussion of Moses, the demiurgic *sefira Yesod* and the *prima materia*, either semen or blood. For, with respect to the theosophic paradigm of the hypostatization of the righteous in the *sefira Tif \[illegible\] Yesod* figures prominently. It remains the divine phallic potency within this conceptual framework; *Yesod* is wielded by the male entity *Tif eret* in the course of erotic union with the divine female element, the *Shekhinah* or the *sefira Malkhut*.[^215] Thus, Abulafia’s discussion has not strayed far from our main concern, as it pertains to *Yesod*, and his discussion of *Tif Feret* will serve to directly inform our reading of what 
 
 [^212]: Abulafia observes that the number of letters in the ten commandments, six hundred and twenty, is equivalent to the numerical value of the word “crown.” Additionally, there are one hundred and seventy-two words in the ten commandments. If one adds the number ten, for the number of commandments themselves, to these other two sums, the resulting sum is eight hundred and two, the same as that for the words “crown of Jacob” and for “Holy Spirit in the Garden of Eden” (if one discounts the letter *vav* from either the word for “holy” or “spirit”) and “man and woman \[are\] witnesses in the garden.”
+
 [^213]: *Sefer Y: esirah,* Gruenwald ed., 2:1 (para. 23). See n. 211 above.
+
 [^214]: Comparing the current passage to the earlier one where Esau—representing, as we saw, Christendom—stood for the two hands that surrounded Jacob, signifying the covenant of the tongue, we see that an alternate model is presented here. Though, in that earlier case as well, Jacob, or *Tif Peret,* represented the harmonization of the polarities embodied by the *sefirot* of the left and right, in the current case Jacob stands, not for the center, but for the right side as encompassing the left, while Isaac, and not Esau, stands for the left. See above, pp. 266–269. See E. Fishbane, *As Light before Dawn*, pp. 72–73, where Isaac of Acre, drawing upon the influence of Nahmanides, articulates the conception that *Tif Peret* partakes of the right side, given that it receives its efflux from *\[illegible\]*
+
 [^215]: See Scholem, *Major Trends in Jewish Mysticism*, pp. 27–28; *On the Kabbalah and Its Symbolism*, pp. 104, 143; Idel, *Kabbalah: New Perspectives*, pp. 65, 134, 227; Wolfson, *Through a Speculum That Shines*, pp. 335–344, 387–392.
 
 *[p. 324]* ^pg339
@@ -38,8 +41,11 @@ will be completed in the fiftieth year. And the Christians will complete it \[as
 The words, “his hand,” Abulafia transforms into the word “ink,” which conforms to what we will see concerning the theme of the inscription in writing of prophetic pronouncements. Here, Abulafia simply says that the ink pertains to the period of Jewish exile.[^218] The letters for “I will bless” he considers as numbers (taking the letter *alef* for *elef,* or one thousand), yielding what he contends will be the number of years until the end of the exile. It is apparent that the year 68CE is his starting point for the exile, because he considers its end to be the year 1290 of the Christian calendar, and he declares that it will last one thousand two hundred and twenty-two years. The note regarding the “fiftieth year,” the year 1290, refers to what will be his own age at that time.[^219] Earlier, Abulafia had referred to the fiftieth year with respect to the redemptive jubilee year, as discussed in [[Torah 32 - Behar#^25-10|Leviticus 25:10]].
 
 [^216]: *Gan Na ul,* MS Munich-BS 58 fol. 327a; printed edition, p. 37.
+
 [^217]: The phrase and the name Avram both have a numerical value of two hundred and forty-three.
+
 [^218]: Another valence to the significance of this ink is relevant. Abulafia will frequently pair the words blood and ink (*dam ve-diyo*), blood representing base corporeality in such a context, ink standing for intellection. See, for instance, just a few pages later, ibid., MS Munich-BS 58 fol. 328a; printed edition, p. 41. An intellective conception of ink vis-à-vis the conclusion of exile, and of Abulafia’s prophecy itself, is likely intended here. For blood and ink, see Idel, *The Mystical Experience in Abraham Abulafia*, pp. 97–98; *Absorbing Perfections*, pp. 342–343, 443–444.
+
 [^219]: See Berger, “The Messianic Self-Consciousness of Abraham Abulafia,” p. 58.
 
 *[p. 325]* ^pg340
@@ -86,8 +92,11 @@ In his reference to the transformation of the left into the right and to the ins
 Abulafia goes on to write, “And from what I wrote in the revolution of many matters (*be-gilgulei \[illegible\]* jumping (*medolagim*) and skipping (meqofšim) from this to this, and hinting, you will understand my intention . . .” Abulafia refers to the methodology behind his writing of this section itself of *Gan Naul,* where the successive hermeneutical outcomes of letter permutation are manipulated in a process referred to as “skipping” or “jumping.”[^224] In thereafter discussing the varying levels of mystical attainment, Abulafia refers to the process by which the intellect is actualized:[^225]
 
 [^222]: See above, pp. 110, 111 n. 16.
+
 [^223]: See above, p. 313. *Shomer Misvah,* MS Paris-BN héb. 853, fol. 41a; printed edition, p. 4. *Shem perati* is the phrase used there by Abulafia.
+
 [^224]: Scholem, *Major Trends in Jewish Mysticism*, pp. 135–136.
+
 [^225]: *Gan Nail,* MS Munich-BS 58 fols. 328a–b; printed edition, pp. 40–41.
 
 *[p. 329]* ^pg344
@@ -107,6 +116,7 @@ That section of *Gan Na ul* that has been of interest here concludes, not surpri
 Regarding the latter phrase, Abulafia explains that the words ([[Torah 14 - Vaera#^7-11|Ex. 7:11]]) “sorcerers of Egypt with their secret arts \[illegible\] should be understood in terms of the flaming sword (lahat *ha-herev)* of [[Torah 01 - Bereshit#^3-24|Genesis 3:24]]. This sword Abulafia refers to regularly, in its revolving action, as a symbol for the procedure of letter permutation.[^228] The phrase “prince of day and night,” Abulafia explains “. . . hints to the flaming sword that revolves from day \[to\] night, from night \[to\] day, from light to darkness, from darkness to light.” The Egyptian sorcerers are seen 
 
 [^227]: Both yield a numerical total of three hundred and seventy-one.
+
 [^228]: Wolfson discusses this motif as representative of the mystic’s transformation of the attribute of judgment into that of mercy, these attributes representing Metatron’s two faces. Wolfson, *Abraham Abulafia*, pp. 172–173 n. 213. See above, p. 173.
 
 *[p. 331]* ^pg346
@@ -132,6 +142,7 @@ As mentioned, the sorcerers are discussed not only in terms of their “secret a
 The sacred power of the blood of circumcision, as against the sorcerial blood of the Teli and Jesus, is here overtly discussed. The blood of circumcision is the cause of the Nile’s turning to blood, just as it had 
 
 [^231]: Both phrases, along with “blood of the dead” and “blood of sorcery,” have a numerical value of four hundred and forty-five.
+
 [^232]: Ibid., MS Munich-BS 58 fol. 331a; printed edition, p. 51.
 
 *[p. 333]* ^pg348
@@ -141,7 +152,9 @@ been implicitly identified elsewhere with the protective blood of the paschal la
 The passage alludes clearly to the sacrality and power of the blood of circumcision in the coming into perfection of man in the model of the *saddiq* and of *Yesod*. The righteous, demiurgical and messianic blood of circumcision held, for Abulafia, a central symbolic role in his reading of the Exodus story, functioning in direct opposition to the unclean blood of the demiurgical Teli, to be equated with the blood shed by Jesus at his crucifixion. Indeed, the good and evil types of blood both relate directly to the cruciform configuration, *sheti va- erev,* discussed earlier, and both types of blood bear directly on the procreative potency of the demiurge with respect to its two types of semen. 
 
 [^233]: See above, pp. 307–310.
+
 [^234]: The words “circumcision” and “the foundation” (*ha-yesod*) both have the same numerical value, eighty-five.
+
 [^235]: The correctness of this approach to the passage seems to be confirmed by another, this from *Or ha-Sekhel*: “And the blood is the first thing created in man, and thus ‘man’ (adam) and ‘blood’ (*dam*) are related in their concern. Also ‘imagination’ (*dimyon*) includes them, also ‘earth’ \[illegible\] also ‘likeness’ (*demut*) and ‘silence’ (*demamah*).” MS Vatican-BA ebr. 233, fol. 42a; printed edition, p. 38. As to the meaning of the apparent “secret” linked, in the passage from *Gan \[illegible\]* to the first letter of “the foundation,” Abulafia may refer to the letter *yod* of the word *yesod*. Wolfson has elucidated the kabbalistic signification of the letter *yod* in terms of the corona of the phallus and the covenant of circumcision. Since Abulafia establishes here a connection between the words “circumcision” and *yesod*, this could easily be his intent with respect to the letter *yod*. Wolfson, *Language, Eros, Being*, pp. 73, 137, 186, 267, 365, 379; *Through a Speculum That Shines*, pp. 336–345, 357–377, 384–392; *Circle in the Square*, pp. 29–48. Wolfson makes another observation that is noteworthy in the current context, referring to a doctrine by which the letter *yod* is conceived of as botha graphic and a hypostatic component of the letter *alef..* Idem, *Language, Eros*, *Being*, pp. 282–283.
 
 *[p. 334]* ^pg349
@@ -155,6 +168,7 @@ Abulafia’s doctrines concerning the bodily fluids blood and semen, focused upo
 Wolfson has examined in detail the notion of the visionary manifestation of the divine name, often conceived of as the revelation of the 
 
 [^236]: Concerning the place of this conception of divine corporealization in kabbalah, see the notes that follow below.
+
 [^237]: Rubin observes that European medieval culture had placed a heightened focus upon what she terms “the fragmented body.” Emphasis on the visceral reality of the pain and suffering of Jesus’ body were of a piece with wider cultural phenomena. In visual terms, this found expression in representations of Jesus’ tortured body “. . . as a series of wounds or wounded body parts surrounded by wounding instruments; hand, foot, side, sweaty brow. This was the way through which Christ’s suffering body was apprehended, in the breaking up, in the *corps morcelé.*” Rubin, “The Person in the Form,” p. 113. The evocative power of blood played a particularly prominent role, in this regard, in cultural consciousness. Rubin notes that an increased emphasis on the facts of Jesus’ corporeal reality led to internal conflict for some Christians. The contrast between this mode of apprehending Jesus, so commensurate with the individual’s rising perceptions of his or her own physical vulnerability, and the notion of Jesus’ essential status as impeccably immaterial sometimes became irreconcilable. Ibid., pp. 111–113. In this there is an echo of the type of difficulty that Abulafia sought to navigate in reconciling motifs of divine corporealization with those of God’s utter transcendence. As well, the motif of the *corps morcelé* well recalls Abulafia’s anxieties regarding the demonic threat to his own body should he fail to successfully surmount this challenge to faith.
 
 *[p. 335]* ^pg350
@@ -164,8 +178,11 @@ divine body, during the Jewish mystical experience.[^238] Perhaps most often thi
 We have already noted Abulafia’s insistence upon the link to the material of the lower portion of the Tetragrammaton, the VH. Such a link, we have seen, was accompanied by associations with Jesus and with the idolatrous conception of an incarnate deity. In this sense, 
 
 [^238]: Wolfson, *Language, Eros, Being*, pp. 219, 257; “God, the Demiurge and the Intellect,” pp. 88, 108; *Along the Path*, pp. 29, 44; *Through a Speculum That Shines*, pp. 192, 198, 202, 263. Intimately connected to this notion is another, that the divine name is identical with the Torah, which in turn is conceived of as the divine corpus or, at times, as the divine hypostatic feminine element. Idem, *Language, Eros, Being*, pp. 205, 223, 250, 256; “The Mystical Significance of Torah Study,” pp. 53–54, 57–63, 61–66, 73–77; “Metatron and Shiur Qomah,” p. 74; *Through a Speculum That Shines*, pp. 248, 263; *Abraham Abulafia*, pp. 63, 167, 212; Scholem, *On the Kabbalah and Its Symbolism*, pp. 37, 39–50, 58; Idel, *Kabbalah: New Perspectives*, pp. 227–230; *Language, Torah, Hermeneutics*, pp. 33, 36. Twersky observes that R. Abraham ben David of Posquières objected to Maimonides’ strident contention that those who spoke of God in anthropomorphic terms should be deemed heretics. Rabad noted that there were outstanding sages who had done just that, and suggested the need for a more nuanced stance on the question. Twersky, “Rabbi Abraham ben David of Posquières,” pp. 188–192.
+
 [^239]: Scholem, *Major Trends in Jewish Mysticism*, pp. 110–116.
+
 [^240]: Altmann, “Maimonides’ Attitude Toward Jewish Mysticism,” p. 204; M. Fishbane, *The Kiss of God*, pp. 27, 29; Scholem, *Major Trends in Jewish Mysticism*, p. 139; Wolfson, *Abraham Abulafia*, pp. 44–47; Idel, “Abulafia’s Secrets of the Guide,” p. 295; *Language, Torah, Hermeneutics*, p. 45; Klein-Braslavy, *King Solomon and the Philosophical Esotericism*, pp. 119–121.
+
 [^241]: See, for instance, Scholem’s discussion of the *Shi'ur Qomah* precedent. *Major Trends in Jewish Mysticism*, pp. 63–67.
 
 *[p. 336]* ^pg351
@@ -179,7 +196,9 @@ From the outset, the human body is understood as the corrupt receptacle for the 
 Abulafia proceeds from here to explain how the conception of the soul thus outlined constitutes the basis for a proper understanding of the afterlife. He who errs in this understanding, believing in a bodily afterlife, and “. . . sins with regard to the revival of the dead, is he who dies, and he has no portion in the world to come.”[^244] To believe in bodily resurrection is, itself, to fall prey to the seductions of corporeal delusion. One who does this sins, as Abulafia states it here, and falls short with respect to an intellective apprehension of the divine. Such 
 
 [^242]: M. Fishbane, *The Kiss of God*, pp. 24–29. Idel, *The Mystical Experience in Abraham Abulafia*, pp. 180–184. The kabbalist Ezra of Gerona makes reference to the cleaving of the soul with the Active Intellect through the kiss. Scholem, *Origins of the Kabbalah*, pp. 377–378. For Ezra’s influence on Abulafia, see ibid., p. 371; Pedaya, *Vision and Speech*, pp. 195–197 (in Hebrew).
+
 [^243]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fol. 31b; printed edition, p. 61.
+
 [^244]: Ibid., MS NY-JTSA Mic. 2367, fol. 31b; printed edition, p. 62.
 
 *[p. 337]* ^pg352
@@ -203,7 +222,9 @@ And perhaps this was a great matter, and it is very strange, that there were amo
 The fact that greater men than Enoch and Elijah are not characterized as designated to return bodily to earth inclines Abulafia to hold either that it cannot, therefore, be true regarding Enoch and Elijah or that such a destiny is reserved only for these two and not for a group of the elect.[^248] Abulafia is not exactly clear on this, although it is 
 
 [^246]: Lachs notes R. Abbahu’s response to a heretic’s challenge concerning the hypostatization of Enoch and Elijah in *Genesis Rabbah*. R. Abbahu, Lachs perceives, is sensitive to the implicit connection between Enoch, who at least by the time of *3Enoch* was seen to have been transformed into the divine Metatron, and Jesus, and so he refutes the claim that Enoch was hypostatized. Lachs, “Rabbi Abbahu and the *Minim*,” pp. 202–203.
+
 [^247]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fol. 32a; printed edition, pp. 63–64.
+
 [^248]: The discussion bears some resemblance to a passage found in the polemical work *Sefer Nestor ha-Komer*, which points to Biblical figures more worthy of divinity than Jesus. See Lasker, “Jewish-Christian Polemics at the Turning Point,” p. 167; Rembaum, “The Influence of *Sefer Nestor Hakomer* on Medieval Jewish Polemics,” pp.
 
 *[p. 339]* ^pg354
@@ -229,7 +250,9 @@ In *Mafieah \[illegible\]* Abulafia considers *Sefer \[illegible\]* enumeration 
 Abulafia’s discussion of the letters of the Tetragrammaton clearly suggests his opinion that they themselves together possess the attributes of a physical body. It is not merely that they give rise to such bodies, but that such bodies arise through their correspondence with 
 
 [^250]: See above, pp. 218–220.
+
 [^251]: *Sefer Yesirah,* Gruenwald ed., 1:9–14 (paragraphs 10–16). The text delineates a fourfold process of emanation—breath, breath from breath, fire from breath, water from fire—which seems to correspond to four *sefirot*, given that six spatial directions are next considered.
+
 [^252]: *Mafteah \[illegible\]* MS Vatican-BA ebr. 291, fol. 32b; printed edition, p. 33.
 
 *[p. 341]* ^pg356
@@ -253,7 +276,9 @@ Abulafia is fully aware of the apparent implications of his discussion, that the
 . . . Although it is known to every enlightened one that these three extensions \[length, breadth and depth, with which the “world is sealed”\] are not a body except incidentally from the incidence of quantity, and there is to them also a portion from the incidence of quality. But the body is that which is composed from matter and form, and the matter is in ink. And it is known that they require a place and time, and the place is the boundary within which the body moves or rests. And there is a place for the place, until the arrival at the first place, which has no place, only position (maʻamid). And this position is called *belimah*, place, with a shared name (*shem meshutaf* ). Because that which is not a body nor a potency in a body has no place, and has no boundary, and does not fall under time. Because time is composed of parts, and they do not occur in time, and they are moments and hours and times and days and nights and weeks and months. And the movement moves in a place, and time instructs regarding what happens from the movements of the moving body . . . Abulafia writes that the three constituents of corporeality do not themselves inherently comprise a body. They do so only incidentally, 
 
 [^255]: *\[illegible\] ha-Ra'ayon,* MS Vatican-BA ebr. 291, fol. 32a; printed edition, p. 31.
+
 [^256]: There are two types of “breath,” or air, mentioned in *Sefer Yesirah.* Gruenwald ed., 1:9–10 (paragraphs 10–12). See above, n. 251.
+
 [^257]: *Mafteah ha-Raʻayon,* MS Vatican-BA ebr. 291, fol. 33a; printed edition, p. 34.
 
 *[p. 343]* ^pg358
@@ -263,7 +288,9 @@ through the attributes of quality and quantity. Abulafia suggests that the three
 Abulafia next suggests that the applicability of temporality and spatiality is, as well, a hallmark of the bona fide corporeality which the Tetragrammaton’s letters transcend. Abulafia contends that that which is the source for subsequent place—and presumably he refers here to the letters of the Tetragrammaton—resides itself in a place, which in some sense is only a “position,” called *belimah*. The latter term is used in *Sefer Yesirah,* seemingly, to describe the incorporeality of the *sefirot*,[^258] but Abulafia here suggests the presence of a correspondence between the words “place” and *belimah*.[^259] Thus, the letters of the Tetragrammaton stand in a place that lacks the features to be associated with corporeality, namely, as we have seen, tridimensionality, in that this place is *belimah*.[^260] Yet tridimensionality, as Abulafia suggests, is inherent to any notion of place.
 
 [^258]: *Sefer K esirah,* Gruenwald ed., 1:2–6, 8–9, 14; 2:1 (paragraphs 2–5, 7, 8–11, 16).
+
 [^259]: *Belimah* has a numerical value of eighty-seven. *Maqom*, “place,” has a numerical value of one hundred and eighty-six. If, with respect to the latter value, one transposes the digit for the number one hundred, converting it into the number one, the numerical values for *belimah* and “place” are rendered equal.
+
 [^260]: Wolfson discusses Abulafia’s drawing of an equivalence between *be-milah* (“with circumcision”) and *belimah*, such that knowledge of the name is attained through the covenant. Wolfson, *Abraham Abulafia*, p. 89. In the context of the current passage, the connection with circumcision would once again evoke notions of the immateriality of the higher covenant, as against the purely corporeal one. We should note the insistence of Baruch Togarmi, who instructed Abulafia concerning *Sefer Yesirah* in Spain, that the divine essence is in no way to be associated with the *sefirot*: “God, may He be blessed, is not Himself counted among the *sefirot* and is not at their level; rather He is above all of them.” *Sefer \[illegible\] ha-Kabbalah*, p. 231.
 
 *[p. 344]* ^pg359
@@ -273,7 +300,9 @@ Thus, the letters of the Tetragrammaton are seen here to reside in a hazily defi
 Abulafia subsequently describes how true corporeality inheres not only in the attribute of place, but in temporality and motion as well, suggesting that the letters of the divine name are hypostatic constituents of the intellective realm. Nevertheless, it is important to note that Abulafia has already made different claims for the essential nature possessed by the letters of the Tetragrammaton and for their resultant relationship to place and to corporeality, given the fact that they compose the dimensions of the world, which is “a created body.” And indeed, later in *Mafteah ha-Ra'ayon* Abulafia will appear to return to this perception of the three letters that seal the six spatial directions. He writes,[^263] It is His nature, may He be blessed, that He wishes and desires to seal in it \[the name\] six sides, and He is the seventh, because He sets up the six, and the six have movement and tendency, and the seventh does not have in its essence either movement or tendency because it is in all of them and all of them are in it.
 
 [^261]: Among many examples, see *\[illegible\] ha-Olam ha-Bo’,* MS Oxford-BL 1582, fols. 4b–5a; printed edition, p. 49, regarding God, the “souls of the pious of the nations” and the “souls of the righteous of Israel.” The locution derives from Maimonides, as in his discussion of the Active Intellect in *The Guide of the Perplexed* 2:18.
+
 [^262]: We may observe, however, that the three elements fire, water and air, related above by Abulafia to the three letters comprising the Tetragrammaton, are elsewhere identified by him as “resembling” the Teli. *Mafteah ha-Sefirot*, MS Milan-BA 53, fol. 181b; printed edition, p. 93. By implication, then, the Tetragrammaton and the Teli may be seen once again to share the same identity, so that the former has a kind of an independent demiurgical existence, one with, yet apart from, God.
+
 [^263]: *Mafteah ha-Raʻayon,* MS Vatican-BA ebr. 291, fol. 42b; printed edition, p. 62.
 
 *[p. 345]* ^pg360
@@ -285,6 +314,7 @@ Again in *M afteah \[illegible\]* Abulafia considers the difference between the 
 In the coincidence of opposites described here, that which is a product of pure intellection is seen to be indistinguishable from God, even if it is realized in the form of an intellective image. Recalling the backdrop to this discussion, it is apparent that Abulafia alludes to the nature of the letters here. We may surmise that the letters are the intellective images referred to, and that they are bound to God’s essence. At least this is the case with the letters in their intellective status. With the inscription of letters, we may surmise, the dimensionality inherent in their intellective status is realized. This possibility ensues, to return to 
 
 [^264]: Wolfson observes Abulafia’s tendency to privilege the phonetic utilization of letters over the graphic. *Abraham Abulafia*, p. 67.
+
 [^265]: *Mafteah ha-Raʻwon,* MS Vatican-BA ebr. 291, fol. 43b; printed edition, p. 64.
 
 *[p. 346]* ^pg361
@@ -314,6 +344,7 @@ Abulafia refers at the outset of this passage to the divine name אנקתם ,פ�
 first five words of the priestly blessing, [[Torah 35 - Nasso#^6-24|Numbers 6:24–26]].[^268] Abulafia is particularly concerned with those entities, angelic and demonic, that establish or disrupt, respectively, man’s relationship with God, and he states that this twenty-two letter name is edifying on the subject. Those disruptive “powers” or “differences” are material in either a 
 
 [^267]: Ibid., MS Paris-BN héb. 853, fol. 52a; printed edition, p. 17.
+
 [^268]: The intricate method by which letter operations are used to construct this name based on these verses is detailed in Cordovero, *Pardes Rimmonim*, ch. 21, sect. 14.
 
 *[p. 348]* ^pg363
@@ -353,7 +384,9 @@ The distinction is reinforced between seeking after God, Himself, as reflected i
 We have observed Abulafia’s active interest in many names for God aside from the Tetragrammaton, and it does appear that these names correspond to God’s attributes, as we have already noted. What we may understand from the current passage is that, in a certain respect, these divine names possess a material nature, in Abulafia’s judgment. An imaginative engagement with the names in the quest to fathom the divine leads one into a fixation upon their materiality and, apparently, throws one’s very life into jeopardy, most certainly at the hands of the demons who prey upon idolators. We may now better understand the passage brought earlier from *Shomer M isvah,* which discussed the body and soul of man. There, it was the soul’s dedication to knowledge of the name that brought man to prophecy. This was contingent upon the subordination of the body to the soul, which is analogous to the repression of the temptation to seek after God’s attributes.[^277]
 
 [^275]: See above, pp. 239–241.
+
 [^276]: *Shomer Misvah,* MS Paris-BN héb. 853, fol. 66a; printed edition, p. 34.
+
 [^277]: See Wolfson’s discussion concerning those who engage in the non-intellective approach to the divine names. *Abraham Abulafia*, p. 99. Some ambivalence on this point in Abulafia’s thought is noteworthy and, perhaps, indicative of a struggle regarding the question of the propriety of seeking after the *middot*, which, as we see, bear corporeal associations for Abulafia. For, later in *Shomer Misvah,* Abulafia will describe the knowledge of the attributes as the “root of all wisdom.” It is achieved through the performance of the *mişvot,* which, in turn, are dependent upon man’s bodily limbs. *Shomer Misvah,* MS Paris-BN héb. 853, fol. 67b; printed edition, p. 37. The connection of the attributes with corporeality is thus again established, this time through man’s own limbs, though it is given a positive interpretation by dint of the restraining effect of the performance of the *\[illegible\]*
 
 *[p. 351]* ^pg366
@@ -369,6 +402,7 @@ This does not resolve a great difficulty in distinguishing the Tetragrammaton fr
 By way of emphasis concerning the pervasiveness of Christian influence upon Abulafia with respect to a corporeal dimension to the divine name, I will close with one final passage. It concerns the visual perception of the divine in Abulafia’s thought, a theme which implies the divine’s embodiment. The passage is from *Mafteah ha-Shemot*, written approximately two years before Abulafia disappears from our view. It addresses the Passover recitation of the phrase “this is the bread of affliction.” Abulafia draws an analogy between the indexed bread and the divine name, to which a teacher points when he seeks to instruct a student regarding its nature. Writes Abulafia,[^279]
 
 [^278]: Idel, *The Mystical Experience in Abraham Abulafia*, p. 140; *Language, Torah, Hermeneutics*, p. 80; Wolfson, *Abraham Abulafia*, p. 113.
+
 [^279]: Translated in ibid., p. 166, from MS NY-JTSA Mic. 1897, fol. 65a; printed
 
 *[p. 352]* ^pg367
@@ -382,7 +416,9 @@ Regarding the related notion of the kabbalistic equation of the Torah with the n
 Assuredly, one must be on guard against making definitive claims regarding the origin of kabbalistic motifs, given the sophisticated exegetical prowess of kabbalists and the intricate ways they develop secret traditions 
 
 [^280]: Wolfson refers to both rabbinic precedents for this pointing to God with one’s finger and to other instances in Abulafia’s work where the visual apprehension of God’s name is suggested. *Abraham Abulafia*, pp. 166 n. 193, p. 167 n. 197. See also above, p. 135. We may add to these insights the observation that Abulafia distinguishes between a proper and an improper mode of visually apprehending the Tetragrammaton. He writes, “And behold I was shown YH YHVH VH YHVH VH YHVH YH. . . . And God spoke to me at the time of my seeing His explicit and unique name in the blood of my heart to distinguish between blood and ink and between ink and blood.” Apparent here is the notion that prophetic seeing must entail the capacity to distinguish between the YH and the VH of the name, an idea in keeping with what we have seen of Abulafia’s interest in apprehending the intellective image, as against the imaginary. The YH and the VH correspond respectively, as we have seen, to ink/righteous semen/the masculine and blood/fetid drop/the feminine. These correspond as well, Abulafia suggests, to the “image” and the “likeness” of God that he beheld. Abulafia indicates that a battle ensues in the heart of the would-be prophet between ink and blood, and, for the successful prophet, ink prevails, resulting, we may understand, in the subordination of the VH to the YH. Jellinek, “Sefer ha-Ôt,” p. 81.
+
 [^281]: [[Matthew 26#^26-26|Matt. 26:26]], [[Mark 14#^14-22|Mark 14:22]], [[Luke 22#^22-19|Luke 22:19]], 1Cor. 22:19. See above, pp. 125–126 n. 52, for relevant observations concerning remarkable parallels between Jewish Passover motifs and Christian conceptions of the eucharist. See also above, pp. 125–126, 150–151, 183–184, 297 n. 122, 306 n. 158 regarding the eucharist. See also Wolfson, *Language, Eros, Being*, p. 543 n. 433, regarding other Jewish and kabbalistic motifs indebted to Christian notions of the eucharist.
+
 [^282]: Ibid., p. 256.
 
 *[p. 353]* ^pg368
@@ -398,6 +434,7 @@ Abulafia slips from our view in the early 1290s, some time after his messianic e
 Abulafia might have been greatly heartened to see that his work ultimately did impact the papacy greatly. This would occur under the auspices of Egidio da Viterbo, Pope Julius II’s chief theological advisor and the foremost Christian kabbalist of the Renaissance, although 
 
 [^283]: Idel as well cautions against mistaking immanently Jewish esoteric traditions for those formed under Christian influence. *Messianic Mystics*, pp. 86–89. As well, the influence of rabbinic mythical conceptions, Idel observes, should not be overlooked in a hasty effort to detect inter-religious influences upon kabbalah. “Rabbinism versus Kabbalism,” p. 291.
+
 [^284]: Hames, *Like Angels on Jacob’s Ladder*, p. 53.
 
 *[p. 354]* ^pg369
@@ -407,10 +444,15 @@ Abulafia’s efforts would not bear fruit in this manner for another two centuri
 Egidio found expression for his kabbalistic, syncretic project in different ways, not least of which was in the conceptualization of the Sistine Chapel Ceiling program. The latter project he perceived in messianic terms similar to Abulafia’s.[^289] Evidence for such a messianic view of syncretism on Egidio’s part is apparent in his oration of 1507.[^290] Abulafia’s kabbalistic recourse to Christian modalities, which 
 
 [^285]: For Egidio’s unrivalled stature in the court of Pope Julius II, see O’Malley, *Giles of Viterbo on Church and Reform*, pp. 6, 9, 91. Hames mentions Egidio’s part in arranging an audience for two would-be Jewish messiahs, David ha-Reubeni and Solomon Molcho, with the Pope. *Like Angels on Jacob’s Ladder*, p. 89. Egidio would very likely have drawn a connection between these figures and Abulafia.
+
 [^286]: The positing of an equivalence between Metatron and Jesus, drawn from Abulafia, for instance, would become a recurring feature of Christian kabbalah. Idel, *Studies in Ecstatic Kabbalah*, p. 54. See also idem, “Egidio da Viterbo e gli scritti di Avraham Abulafia,” pp. 48–50. The motif finds its way into Egidio’s *Scechina.* Abrams, “The Boundaries of Divine Ontology,” pp. 317–318 n. 98.
+
 [^287]: O’Malley, *Giles of Viterbo on Church and Reform*, p. 74; Secret, *Les kabbalistes chretiens de la Renaissance*, pp. 117–119.
+
 [^288]: For Abulafia’s active engagement with Joachimists, see Hames, *Like Angels on Jacob’s Ladder*, pp. 26, 28, 43–44, 89–96. On Egidio’s interest in synthesizing Joachimism with kabbalah, see O’Malley, “Giles of Viterbo: A Reformer’s Thought on Renaissance Rome,” pp. 6–7. On Egidio’s intense interest in Joachimism, see Bull, “The Iconography of the Sistine Chapel Ceiling,” pp. 602, 604–605. Some have articulated the possibility that Joachim may have himself been influenced by Jewish thought, to include even kabbalah. Such a circumstance would make it apparent how first Abulafia and then Egidio would find so powerful an affinity between the two doctrines. Hames, *Like Angels on Jacob’s Ladder*, pp. 110–111 n. 10, 105–106. See also above, pp. 52–53 n. 84.
+
 [^289]: Sagerman, “A Kabbalistic Reading of the Sistine Chapel Ceiling,” pp. 91, 99, 175–177.
+
 [^290]: The *Libellus de Aurea Aetate* of 1508, edited in1969 by O’Malley, was written by Egidio at Julius II’s request, and was based on an oration delivered by Egidio in St. Peter’s Cathedral in 1507. O’Malley, “Fulfillment of the Christian Golden Age under Pope Julius II: Text of a Discourse of Giles of Viterbo, 1507,” p. 267. O’Malley notes the intensive engagement with numerology on Egidio’s part in the *Libellus.* Ibid., pp. 269 n. 13, 273. Egidio derived these numerologies from kabbalistic sources, including from Joseph Gikatilla, Abulafia’s protégé. Sagerman, “The Syncretic Esotericism of Egidio da Viterbo,” pp. 54–57. Egidio’s syncretic impulse in the *Libellus* encompasses Roman Classicism, Hermeticism, and kabbalah. See, for instance, *Libellus* 25v. This integration under Christianity signified for Egidio the arrival of the messianic Golden Age, a parallel to Abulafia’s messianic and universalist expectations for Judaism.
 
 *[p. 355]* ^pg370

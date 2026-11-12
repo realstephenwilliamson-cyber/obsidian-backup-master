@@ -206,232 +206,454 @@ It is forbidden to use the light of an oil lamp[^1] for anything that requires c
 **93.** You may not make your bed on Shabbos for use after Shabbos. Even if there is still time left in the day during which you can sleep while it is still Shabbos, nevertheless, since it is not your intention to sleep on it until after Shabbos, you are preparing something on Shabbos for weekdays, and this is forbidden.[^223] ^80-93
 
 [^1]: Even if the oil lamp is placed very high and is quite inaccessible. (See *Taz* and *Biur Halachah* 275)
+
 [^2]: Reading portions of the prayers that are somewhat familiar to you is permitted. (*Shulchan Aruch*, 1 *Mishnah Berurah*)
+
 [^3]: *Deoraisa* refers to something that is prohibited by the Torah.
+
 [^4]: Most *poskim* permit this only for such reading that is a mitzvah, such as Torah study or reciting Psalms. (*Magein Avraham, Peri Megadim, Mishnah Berurah*)
+
 [^5]: Candles of superior quality are permitted, for they never need adjustment. (*Mishnah Berurah*)
+
 [^6]: Many *poskim* disagree [*Vilna Gaon*] and it should be avoided where there is no particular necessity (*Magein Avraham, Mishnah Berurah*). All the *poskim* agree that wax and tallow candles are prohibited for reading in the synagogue or in other public places. (*Peri Megadim, Mishnah Berurah*)
+
 [^7]: This prohibition is called *mesakein manah*, fixing a utensil [*Vilna Gaon* 514]. This is prohibited only when part of the charred wick is snipped off, but if the piece of charcoal on top is removed without removing a piece of the wick, there is no transgression. However, since most likely a piece of wick will be removed, many *poskim* prohibit it and this is our custom. (*Mishnah Berurah* 514)
+
 [^8]: For the wind from outside may blow out the candle. Thus it is forbidden even to open the door slowly [*Magein Avraham, Eliyahu Rabbah, Chayei Adam*, etc]. Where there is no wind blowing, *Mishnah Berurah* rules that you may be lenient, provided you open the door slowly so as not to create a draft that could blow out the candle.
+
 [^9]: *Maharsha* (*Maseches Shabbos* 120b) states that it is almost certain that the candle will be blown out.
+
 [^10]: Even if closing the door removes the source of wind and the fire is extinguished. (*Mishnah Berurah*)
+
 [^11]: In the case of smoldering coals, opening the oven door is unanimously prohibited, and most *poskim* agree that closing it is also prohibited. (*Mishnah Berurah* 259)
+
 [^12]: This may also apply to modern thermostat controlled gas and electric ovens, where opening and closing the oven door has an almost immediate effect on the intensity of the flame. A competent halachic authority should be consulted.
+
 [^13]: The author holds the stringent view of the *Yerei’im* and *Semag* who maintain that the prohibition of cooking on Shabbos applies also to food that was already baked. (see *Shulchan Aruch* 318: 5)
+
 [^14]: The gravy must be sufficiently cooled off so that a person’s hand will not recoil when touching it. This is called *yad soledes*. We are not sure as to the exact temperature of *yad soledes*, but it is approximately 45 degrees c. or 113 degrees f. According to Rav Moshe Feinstein it is 43 degrees c. or 110–160 degrees f. In this *halachah*, the author follows *Rema* 318: 5. You should, therefore, not put soup nuts into soup or dip bread into *cholent* if the soup and *cholent* are *yad soledes* (45 degrees c.). If you did, you may eat it, even if you put the bread into the pot itself [*keli rishon*]. (see *Mishnah Berurah* 318: 45)
+
 [^15]: The pot in which it is cooked is called a *keli rishon*. The bowl into which it is poured is called a *keli sheini*. The third vessel into which it is put is called a *keli shelishi*.
+
 [^16]: *Peri Megadim* (A.A. 318: 28) rules that it is better not to put bread etc. into a vessel that is on the fire, even if it is cooler than *yad soledes*.
+
 [^17]: Regarding putting raw food into a *keli rishon, Magein Avraham* 318: 28 is *machmir* [stringent] even when the *keli rishon* is off the fire and even if it is not *yad soledes*.  
     *Mishnah Berurah* is lenient in the case when the *keli rishon* is removed from the fire and is not *yad soledes*. The *Yerei’im* rules that easily cooked foods, like onions, etc. may not be put into a *keli sheini* when it is *yad soledes*, and since we are not experts in knowing what is considered easily cooked, you should not put any raw food into a *keli sheini* that is *yad soledes. Chayei Adam* and *Magein Avraham* 318: 18 agree with the *Yerei’im*.
+
 [^18]: *Mishnah Berurah* 318: 71 rules that salt which was processed by boiling, may be put into a *keli sheini* even if it is *yad soledes*, but it should not be put into a *keli rishon*.
+
 [^19]: The *Rema* says this refers to regularly mined salt.
+
 [^20]: The reason is that since sugar is usually eaten in its dissolved state, it is not considered thoroughly cooked until it is dissolved and thus, you are cooking it by pouring in the boiling water [*Maharam Schick* Resp. 133]. According to *Siddur Ha Tanya*, the reason is that sugar dissolves before it cooks and, therefore, has the law of a liquid, which even when previously cooked, may not be re-cooked. [This reason may apply to salt processed through boiling and probably is the reason why the *Kitzur Shulchan Aruch* is *machmir* regarding salt].
+
 [^21]: If you already did it, you may drink the tea or coffee, even if it is not necessary (e.g. you can make other cups of tea etc.), since some *poskim* permit it even initially. See this general rule in *Magein Avraham* 254: 11 and *Chayei Adam* 9: 11.
+
 [^22]: I.e. you might forget to remove them before they are cooked or roasted.
+
 [^23]: If you did it already and removed it before it attained the heat of *yad soledes*, you may probably use it. (*Tehilah LeDavid* 318: 29)
+
 [^24]: According to *Magen Avraham* 259: 12, even to place it on an oven in a place where it cannot reach *yad soledes*, nevertheless requires a separation (like a *blech*) between the pot and the oven. On *Erev Shabbos*, you may place it in such a spot without a separation [*Shulchan Aruch Harav*]. The *Magen Avraham* may be referring only to food not thoroughly cooked. (*Tehila LeDovid* 253)
+
 [^25]: This is in accordance with *Shulchan Aruch* 318: 16 and *Ramban* etc. Even though you may not crush ice to make ice water, because you would be changing it from a solid to a liquid [changing a form is called *nolad*, creating], in this instance you are not actually doing it, rather it happens by itself (from the warmth) [*Mishnah Berurah* 318: 102]. The *Rema* says our custom is to be *machmir* [stringent] unless it is very necessary for you to do it. The *Shaarei Teshuva* 318: 7—says there are no grounds to be *machmir* in this if it is not *yad soledes*. This is probably the intention of the *Kitzur Shulchan Aruch*.
+
 [^26]: The *Keli Rishon*. But you may put it into a *keli sheini* and wrap it in towels that do not increase the heat. You may even put it back into the original pot and wrap it, etc. (*Magein Avraham, Mishnah Berurah* 257: 28)
+
 [^27]: If the food in the *keli rishon* is less than *yad soledes*, you may wrap it if you really need to. (*Mishnah Berurah*)
+
 [^28]: This is the opinion of the *Peri Megadim* and *Nishmas Adam*. But *Mishnah Berurah* 318: 37 rules according to *Beis Yosef, Perisha, Eliyahu Rabbah, Levush*, etc., that you are allowed to make it edible by rinsing it with cold water, for there is no prohibition of *makeh bepatish* (applying the finishing touches) regarding food.
+
 [^29]: Putting in liquid is prohibited because of *losh* (kneading), (one of the thirty-nine *melachos*).
+
 [^30]: If you put some liquid in before Shabbos, you may add more on Shabbos [*Taz, Mishnah Berurah* 321: 64]. A few drops, however, is insufficient for this purpose, there must be a noticeable quantity. (*Magein Avraham*, see *Biur Halachah*.
+
 [^31]: If you did put in the liquid on Shabbos, (*bediavad*), you may eat it [*Biur Halachah*]. This is because many *poskim* rule that the prohibition of *losh* applies only to kneading but not to pouring in liquid. (The opinion of the *Semag, Semok, Seifer Haterumah* and *Yerei’im*)
+
 [^32]: A *safeik* (doubt) is also prohibited. (*Peri Megadim and Mishnah Berurah*—*Yerushalmi*)
+
 [^33]: It is prohibited for two reasons: (1) *muktzeh* (see Chapter 88), (2) you might come to pick them from the tree. (*Magein Avraham* 322)
+
 [^34]: See *Maseches Shevi’is* 10: 7. The Sages hold that this act is not prohibited by Biblical law, but is Rabbinically imposed. *Rambam* (*Shabbos* 21: 6) and *Shulchan Aruch* (321: 13) agree. The *Chachamim* [Sages] maintain that a beehive has the status of something that is attached to the ground, and, therefore, it is forbidden to detach it on Shabbos.
+
 [^35]: If you crushed the honeycomb before Shabbos, you may use the honey that flows from the comb on Shabbos, even though it is still connected to the hive. (*Magein Avraham*)
+
 [^36]: Crushing before Shabbos must be thorough, otherwise, you may not use the honey on Shabbos, lest you come to further crush the comb. (see *Biur Halachah* 321: 13)
+
 [^37]: Even into a basket. (see *Shulchan Aruch* 335: 5)
+
 [^38]: Because this is considered *uvda dechol. Uvda dechol* implies any weekday type of activity. These are Rabbinical prohibitions. The *Rambam* in an *Igeres* (Letter) lists three types of *uvda dechol*: (1) activities that resemble a *melachah* of Shabbos, (2) one that may lead to an act of desecrating the Shabbos, (3) a very bothersome activity.
+
 [^39]: One or two at a time. (*Shulchan Aruch*)
+
 [^40]: The *Vilna Gaon* holds that it is only permitted to eat them, but according to *Tosafos* and the *Rosh*, it is permitted to put the fruits into a garment, etc., but definitely not into a basket.
+
 [^41]: Gathering fruits together into a pile or heap is a *melachah* called מְעַמֵר (*me’ameir*). *Rambam, Or Zarua* (*Maseches Shabbos* Ch. 57), *Meiri-Yesh Omrim* rule that this is prohibited even when done not in the place where they grew. *Tosafos* (*Maseches Beitzah* 31), *Semag* and *Tur* 340 rule that it is prohibited only in the place in which they grew. The *Eglei Tal* rules that it is best to be *machmir*.  
     The *halachah* of *uvda dechol*, however, merely concerns the actual gathering of the fruit, but does not deal with the piling or heaping of the fruit.
+
 [^42]: When the peels are not edible, you are not allowed to remove the peas from their pods, for then it is prohibited because of the *melachah* of *mefareik* (extracting) which is a *toldah* (an off-shoot *melachah* of the *melachah*) of *dosh* (threshing). (see *Biur Halachah* 319: 6)
+
 [^43]: This is מְפַרֵק (*mefareik*). (see footnote 42)
+
 [^44]: The green shell is the one that covers the very hard shell.
+
 [^45]: This is considered *mefareik* (*toldah* of *dosh*).
+
 [^46]: This ruling is according to *Rashi, Tosafos*, and *Taz* (320).
+
 [^47]: According to most *poskim*, it is permitted to squeeze lemon juice into sugar (because liquid into food is like food into food). (*Radvaz* etc., *Mishnah Berurah*)
+
 [^48]: See *Rema* 320: 1. Those *poskim* who permit sucking out fruit juice say that it is not the regular way of squeezing, hence, it is permitted.
+
 [^49]: This also applies to olives (*Eliyahu Rabba*).
+
 [^50]: You may squeeze it even into an empty container, provided you intend to discard it. (see *Shulchan Aruch* 320: 7)
+
 [^51]: According to most *Rishonim*, milking is מְפַרֵק (*mefareik*), a *toldah* of *dosh*, threshing.
+
 [^52]: Milking into an empty cup is a *deoraisa*. Milking into food is a *shevus* (Rabbinic prohibition).
+
 [^53]: You are not allowed to milk into an empty vessel even with the intention to discard it. [see *Chazon Ish* 55: 6—(also see footnote 50)]
+
 [^54]: Even though nursing is *mefareik*, it is permitted to nurse a baby on Shabbos, for it is considered an irregular form of *mefareik*. See *Biur Halachah* 328: 34.  
     The *Chelkas Yoav* (Resp. 9) says that a baby may nurse on Shabbos, for since this is its way of eating, it is not considered *mefareik*. But for an adult, it would be considered *mefareik*.
+
 [^55]: Into the mouth of the baby. (*Shibolei Haleket* Ch. 123, *Chayei Adam* 69: 10, *Mishnah Berurak* 328: 112)
+
 [^56]: In case the mother is in pain, she may express the milk with a manual breast pump, even though the milk goes into the pump before being discarded. [see *Avnei Neizer* (*Orach Chaim* Vol. I Resp. 47)]
+
 [^57]: This is permitted only in a *keli sheini* [*Misgeres Hashulchan*]. (see *Kitzur Shulchan Aruch*, Chapter 72)
+
 [^58]: *Shulchan Aruch* 318: 16. Our custom is to be stringent and not to do this even when the fat will not ever heat up to *yad soledes*. We are lenient, however, when necessary. [For example, *oneg Shabbos* (*Shaarei Tziyon* 318: 133), or when a guest arrives (see *Rema* 333: 1) etc.]. (see *Rema* 318: 16 and *Mishnah Berurah*)
+
 [^59]: The *Kitzur Shulchan Aruch* permits placing congealed fat upon hot foods because the melting is accomplished by itself, and not directly by anyone’s action. Fat and ice have almost identical Halachos in this regard. (see *Mishnah Berurah*)
+
 [^60]: *Mishnah Berurah* 320: 33 rules that crushing ice is forbidden because it is similar to creating water. Another reason it is forbidden is because it might lead one to think it is permissible to squeeze fruits for juice (*Rambam*). Therefore, merely putting an ice cube in a cup of wine or water, is permitted because the Sages saw no reason to enact such a prohibition. (*Vilna Gaon*)
+
 [^61]: Because the water is not derived as a result of the ice. (*Beis Yosef, Vilna Gaon*)
+
 [^62]: Because the snow will surely melt as a direct result of this act. However, if there is a problem about finding another place, it is permissible to urinate on snow. (*Mishnah Berurah*)
+
 [^63]: Because of the *melachah* of *losh* (לָשׁ), kneading. (see *Peri Megadim* (321: 19) and *Chayei Adam* 19: 4)
+
 [^64]: *Pesoles*, which means waste, refers to matter that is presently unwanted.
+
 [^65]: Even if the majority is *pesoles*. (*Peri Megadim* 319: 3) However, most *poskim* disagree with this ruling.
+
 [^66]: Using a utensil designed for selection (e.g. a strainer, etc.) is prohibited, even for separating food from *pesoles* for immediate use. Even if you intend to eat both species immediately, you may not use such utensils according to *Biur Halachah* 319: 1.  
     Using utensils not designed primarily for selection but which make it easier, is a *deoraisa* violation except when separating food from *pesoles* to eat immediately. In this case it would be a Rabbinic prohibition lest it lead to using a strainer or sieve [see *Shulchan Aruch Harav*]. The use of cutlery to facilitate the process of selection is a *shevus* (Rabbinic prohibition) and should not be used to separate the food from the *pesoles*, even for immediate use [see *Igros Moshe* Resp. 124]. This is only if the utensil essentially enhances the selection process; but if it is used because of cleanliness, it may be used to separate food from *pesoles* when eaten immediately.
+
 [^67]: Or fork, etc. If they do not, in essence, facilitate the selection process. (see *Igros Moshe*, Resp. 124 and footnote 66)  
     You may hand-select the food from the *pesoles* to eat immediately because this is considered the normal way of eating and is not considered a *melachah* of *boreir* (selecting). The classic case of *boreir* is when one selects or separates something for later usage, and does so with a helpful utensil, or removes *pesoles* from food. (*Magein Avraham* 320: 7, *Mishnah Berurah* 320: 10 etc.)
+
 [^68]: Immediately, in this case, has various definitions: some say it means for the following meal of that day, even if it is many hours later [*Beis Yosef* according to the *Bach*]. Others say no more than one hour before the meal [*Meiri Maseches Beitzah* 14b], *Shulchan Aruch Horav*, see *Eglei Tal*. Still others maintain it has to be exactly before the meal. See *Eglei Tal*. Others hold that an hour in this instance is not absolute, but only represents the normal way of preparing the meal, which can be much less than an hour [*Igros Moshe*]. Extreme care should be taken to avoid this unclear situation, since it is a *safeik* (doubt) of a *deoraisa* violation.  
     However, if it is impossible to eat without separating the *pesoles* from the food (bony fish for the very young or old), they may remove the *pesoles* from the food and eat it immediately [from hand to mouth. Initially, however, you should try to remove the bones while leaving some of the flesh on it.] This is the only way you eat it without violating the *melachah* of *boreir* (selection) [see *Mishnah Berurah* 321: 84—*Peri Megadim*]. This is probably permitted only if you are feeding yourself, but if you are feeding someone else, you may not be allowed to remove the *pesoles* from the food and put it into his mouth.
+
 [^69]: According to *Mishnah Berurah*, Rambam’s view is that doing so constitutes a definite violation of *Boreir*.
+
 [^70]: *Rema* (321: 19) —*Semag*, etc.
+
 [^71]: Even though you are separating the *pesoles* from the food, which is prohibited even if done for an immediate meal, since there is no other way to remove it from its peel, this is the way it is eaten and it is not considered *boreir*. (*Biur Halachah* 321: 19)
+
 [^72]: *Magein Avraham* considers apples in the same category as garlic or onions and so does the *Mishnah Berurah* 321: 84.
+
 [^73]: *Mefareik*, even for immediate use is prohibited. (*Magein Avraham* 320: 7)
+
 [^74]: The *melachah* of *dosh* (threshing) is done with a utensil. When extraction of the *pesoles* is done by hand, it is *mefareik*, a *toldah*. (*Shulchan Aruch Harav* 319: 9)
+
 [^75]: Most *poskim* [*Chayei Adam* 16, *Mishnah Berurah*, and *Aruch Hashulchan*, etc,] agree that *boreir* applies to clothing, silverware, dishes, seforim, etc. If you do not know which item to take, you should take whatever comes to hand and walk with it a little and then see if it is what you want. If it is not, you can take another one until you find the one you want. It should not be done in a way that looks as though you are selecting.
+
 [^76]: Straining a liquid from its dregs is a *toldah* of *boreir* or *merakeid* (sifting). [*Rambam* (*Shabbos* 8: 11)]
+
 [^77]: In this case, it is not just a *shinui* (unusual method of doing the *melachah*), rather, it is not a *melachah* at all. (see *Eglei Tal*)
+
 [^78]: This is a *toldah* of *melabein*, (bleaching).
+
 [^79]: Since your intention is not to wash the cloth by drinking through it, most *poskim* also hold that soaking is not like washing if the cloth is not dirty. (*Shaarei Tziyun* 319: 52 and *Biur Halachah* 320: 18)
+
 [^80]: Since you would be uncomfortable wearing a shirt with a wet sleeve. (*Chayei Adam* 22: 4)
+
 [^81]: Squeezing out water from clothing is *melabein* (bleaching).
+
 [^82]: When you pour off the clear liquid and leave the *pesoles*, some of the liquid remains mixed with the *pesoles*. Pouring out these drops constitutes *boreir* [Shulchan Aruch 319: 14]. It is not considered *boreir* when the other water is poured out because, according to the *Chazon Ish* 53, the other water was considered separate from the sediment and *boreir* applies only to the drops mixed in with the sediment.
+
 [^83]: *Mishnah Berurah* 319: 55 and *Eglei Tal* rule that if you pour it off to drink immediately, you may even pour out the last drops.
+
 [^84]: This is the halachah with regard to cream on top of milk. (See *Magein Avraham* 510: 13)
+
 [^85]: You may take it all if you take some of the milk with it. (*Acharonim*, *Mishnah Berurah* 319: 62)
+
 [^86]: You may remove the skin-like membrane that forms on boiled milk in order to drink the milk because it, too, is edible and is separate from the milk itself. Cream is different, for it is wet and not separate from the milk. (*Rav Moshe Feinstein*)
+
 [^87]: The *Kitzur Shulchan Aruch* and *Mishnah Berurah* 321: 28 compare salt to pepper and rule that it must be crushed in a very irregular way with two deviations from the normal procedure.
+
 [^88]: Two deviations: Handle instead of pestle, and tabletop (or plate) instead of mortar. Pressing garlic should be done with two deviations, if possible. See *Shulchan Aruch Harav* and *Minchas Shabbos*.
+
 [^89]: It is also forbidden to cut them very fine with a knife (blade). If you want to cut them (peppers, spices) to put in the food for immediate use, it is permitted. (*Shaar Hatziyun—Mogen Avraham* and *Vilna Gaon* [and *Kilkeles Shabbos*])
+
 [^90]: Salt or sugar that was pre-cooked and is considered pre-ground may be crumbled by hand if they get lumpy because of humidity. See *Shaarei Teshuvah* 328: 30 and *Rema* 321: 8 and *Mishnah Berurah* 321: 29—*Shibolei Haleket*.
+
 [^91]: The author indicates that unless it is needed for the meal, it is forbidden to cut them even in larger slices. Later *poskim* maintain that cutting vegetables is not considered “grinding” unless it is done very fine. (*Igros Moshe*)
+
 [^92]: However, the *Rema* 321: 12, *Magein Avraham, Peri Megadim, Vilna Gaon, Shulchan Aruch Harav, Mishnah Berurah* and *Aruch Hashulchan* maintain that it is permitted to cut them very fine before the meal. *Rav Moshe Feinstein* ruled that even a scrupulous person need not be *machmir* in this regard. However, this is valid only when using a regular knife, but regarding the use of a chopping knife (specially designed for chopping), *Biur Halachah* is not sure that it is permitted even before the meal, for it may be similar to selection (*boreir*) with a strainer which is not permitted, even near the meal. *Aruch Hashulchan* 321: 9 permits using a chopping knife, but *Rav Moshe Feinstein* ruled that it is befitting to be *machmir* if the necessity is not great.
+
 [^93]: Cooked meat may be cut with a knife into very fine pieces. (*Shulchan Aruch* 321: 9)
+
 [^94]: This rule encompasses any change in its nature, such as hardening, etc. (*Shulchan Aruch Harav* 321: 4)
+
 [^95]: Tanning hides is an *av melachah*. Salting food, as described here, is a *shevus* (Rabbinical) [*Tosafos Maseches Shabbos* 75b].
+
 [^96]: Salting more than one at a time or letting them remain in salt are situations associated with מְעַבֵּד (tanning) and are prohibited.
+
 [^97]: It is forbidden to salt raw meat, even if it will spoil by not salting it. (*Magein Avraham-Rishonim, Mishnah Berurah*)
+
 [^98]: The author rules like the *Shibolei Haleket*—*Gaonim, Taz* and *Magein Avraham*. However, *Raavan, Eliyahu Rabbah* and *Vilna Gaon* permit salting the foods for another meal to be eaten on that day. They hold that it is forbidden only when it is done for a meal to be eaten after Shabbos. *Mishnah Berurah* relies on this opinion in case of hot weather, when it will spoil if not salted, for then even the *Taz* permits it to be salted for another meal on that Shabbos.
+
 [^99]: If they were cooked in their shells [*Shulchan Aruch* 321: 6], for then they benefit by being softened by the salt. (*Taz*)
+
 [^100]: Building (*Boneh*) is an *av melachah*.
+
 [^101]: *Magein Avraham* 253: 41 rules that only if there are (congealed) fats on the plates, is it forbidden to pour boiling water on them; because this will cause the fats to melt, which is *nolad*. See *Machatzis Hashekel*. Perhaps the *Kitzur Shulchan Aruch* ruled not to pour boiling water on all dirty dishes, because it could possibly be a violation by cooking the liquid or food that is left on the plate. The source of the *Kitzur Shulchan Aruch* is the *Chayei Adam* 20: 19.
+
 [^102]: The source of this ruling is the *Magein Avraham* 302: 27.
+
 [^103]: According to *Mishnah Berurah*, even if you need only one cup, you are permitted to wash a number of them. (323: 26)
+
 [^104]: See *Kitzur Shulchan Aruch*, Chapter 73 for details.
+
 [^105]: According to *Shulchan Aruch* 276: 5, you may tell the non-Jew to light the oven to heat your home only when it is bitter cold. When a house is that cold, the people in the house have the *halachah* of a sick person, and they are permitted to tell the non-Jew to do something to alleviate the situation. If the cold is not bitter and the non-Jew lights the oven on Shabbos to heat the house, if he is hired on a contractual basis (hired to take care of heating the house for the winter), whereby what he does is considered that he did so for himself and not for you, you may enjoy its benefits on Shabbos. (*Mishnah Berurah* 276: 45)
+
 [^106]: *Taz, Vilna Gaon*.
+
 [^107]: *Shulchan Aruch Harav*.
+
 [^108]: זוֹרֵעַ (*zorei’a*), sowing, is an *av melachah*.
+
 [^109]: The *Kitzur Shulchan Aruch* rules like *Rambam* and *Or Zarua* that, in this case, the person is guilty only of sowing and not for the *melachah* of plowing. However, *Semag, Hagahos, Maimoni, Rokeach* and *Gra* rule that a person is also in violation of the law against plowing, because the ground is softened with the liquid. This is also the ruling of the *Mishnah Berurah* 336: 26. Therefore, even if the ground has not yet been sown, you must not spill water on it because of the law against plowing (if it is fit for agriculture).
+
 [^110]: *Magein Avraham* rules that it is best to be careful with all liquids, but *Eliyahu Rabbah* maintains you need not be careful with wine because its alcoholic content does not enhance growth.
+
 [^111]: This refers to a garden of 70 *amohs* [*Taz*]. (see *Kitzur Shulchan Aruch* Chapter 83)
+
 [^112]: For this reason it is also *muktzeh* and it may not be moved [*Peri Megadim* 320: 22]. (see *Kitzur Shulchan Aruch*, Chapter 88.
+
 [^113]: According to the *Talmud Maseches Shabbos* 143, squeezing of a wet sponge is inevitable. (see *Shulchan Aruch* 320: 17 and *Magein Avraham, Vilna Gaon*.)
+
 [^114]: If a sponge has a handle, squeezing is no longer inevitable. (*Rashi, Rambam*)
+
 [^115]: It is a *toldah* of זוֹרֶה (*zoreh*) which means winnowing [*Rema* 319: 17, *Yerushalmi*]. The *poskim* do not cite this *Yerushalmi* and the *Birkei Yosef* cites *poskim* who do not agree with this *Rema. Rabbi Akiva Eiger*, Responsum 20, rules that *zoreh* does not apply to water or spit, etc. Also when spitting, a person has no intent to scatter it in the wind and, even if it is inevitable, many *poskim* permit doing something when there is no intention.  
     *Mishnah Berurah* tends to agree with *Rabbi Akiva Eiger*.
+
 [^116]: *Shulchan Aruch* 303: 26. See *Masechet Shabbos* 94. According to most *poskim*, this is a *shevus*. The *Rabbanan* prohibited this because it is similar to *boneh* (building). Braiding a wig is also considered weaving (one of the *melachos*). Since it may not be considered permanent, it is a *shevus* and not a *deoraisa*.
+
 [^117]: *Tosafos* (*Maseches Shabbos* 57), *Shulchan Aruch* 303: 26.
+
 [^118]: *Rema* 303. She can also put her hair in a tiara or put a ribbon in the hair on Shabbos.
+
 [^119]: It should be special for Shabbos so it should not look like עוּבְדָא דְחוֹל (weekday *melachah* activity). (*Peri Megadim, Mishnah Berurah* 303: 87)
+
 [^120]: The wording is somewhat unclear. The *halachah* is, that even a soft brush is permitted only to flatten down the hair a little, but it is forbidden to comb or brush, even with a soft brush. It is forbidden to do anything to your hair with a hard brush. See *Shulchan Aruch* 303: 27, *Mishnah Berurah*. A wig should not be straightened with a comb, but with the fingers [*Eglei Tal* (*Gozeiz*, par. 10)]. See *Rema* 337: 2, *Mishnah Berurah*. It is preferable to be *machmir*. (also see *Minchas Shabbos* 117)
+
 [^121]: It may be wiped lightly, so as not to squeeze the dirt (oil etc.) out of the garment.
+
 [^122]: This rule applies to other liquids as well.
+
 [^123]: See paragraph forty for details about leather, plastic, etc.
+
 [^124]: *Shulchan Aruch* 302: 10—This ruling accommodates the opinion of the *Yere’im* that even as part of the soiling process, it is forbidden (even if the towel is clean anyway). This is a proper custom, but according to *halachah*, it is permitted to dry your hands, even when all the water is on them and even with an unclean towel. (*see Peri Megadim* and *Biur Halachah*)
+
 [^125]: If the garment is dirty, even if it has no value, it is forbidden, for soaking is like washing [*Machatzis Hashekel* (302)].
+
 [^126]: If there is a tablecloth you must also make sure not to spread the water any further [see *Peri Megadim m. z*. 302: 12]. But the *Biur Halachah* (320: 18) rules that you can be *meikil* if necessary (if the part it is spread on is clean).
+
 [^127]: Even if they are not of any value. See *Magein Avraham* 302: 27.
+
 [^128]: See *Mishnah Berurah* (301: 164) concerning infants’ clothing.
+
 [^129]: Someone may suspect you washed them on Shabbos [see *Shulchan Aruch* 301: 45].
+
 [^130]: This is similar to squeezing out the water [see *Shulchan Aruch* (302: 1).]
+
 [^131]: Only when it is very wet are we afraid you may do so [*Mishnah Berurah* 301: 171].
+
 [^132]: *Shulchan Aruch* 301: 3.
+
 [^133]: *Rema* 301: 46.
+
 [^134]: When going to do a mitzvah some *poskim* say you may either cross the stream, or go around it, as you choose [see *Peri Megadim* 613: 10—*Rema*]. Most *poskim* rule that it is better to go around the stream [*Mishnah Berurah - Maharshal, Bach, Taz, Magein Avraham* (613)].
+
 [^135]: *Shulchan Aruch* 301: 4.
+
 [^136]: This act would be a rabbinic prohibition, thus it would be permitted to tell a non-Jew to do it in order to avoid the embarrassment of wearing dirty clothing [*Mishnah Berurah* (302: 36)—Acharonim] [*Kalkeles Shabbos*].
+
 [^137]: This applies only when there is a clod of dirt and not just a spot of dirt [*Taz*]. *Mishnah Berurah* (301: 36) says it is forbidden to rub off a spot of dirt because this is considered *cleaning*.
+
 [^138]: If the snow has not melted, it is permitted, for then it is considered as feathers. [*Mishnah Berurah* (302: 1)] See note 139.
+
 [^139]: For feathers are not embedded in the fabric [*Levush, Mishnah Berurah*].
+
 [^140]: This applies only to a stone wall but on a wooden wall it is permitted. It is forbidden on a stone wall because it appears as though you are adding to the wall [*Magein Avraham, Eliyahu Rabbah, Mishnah Berurah* (302: 28)].
+
 [^141]: For by doing so you may fill up a hole in the ground.
+
 [^142]: *Mishnah Berurah* 302: 28 rules you can rely on the vast majority of *Rishonim* who permit it.
+
 [^143]: Even a blunt edged knife is forbidden (*Shabbos* [[Shabbat 141#141b|141b]]).
+
 [^144]: If it is as sharp as the blunt edge of a knife [*Shulchan Aruch,Harav, Mishnah Berurah* (302: 38)].
+
 [^145]: *Rambam*. But you may use a rag that you are not concerned with [see *Peri Megadim m.z*. 302: 3].
+
 [^146]: This constitutes a rabbinic prohibition according to most *poskim*. The *Behag* rules that it is a *de’oraisa*. See *Maseches Shabbos* (95).
+
 [^147]: Even to darken previously reddened lips is prohibited [*Yerushalmi Maseches Shabbos* (7: 2)].
+
 [^148]: *Shulchan Aruch* 328: 48. This should not be done as an initial act [*Magein Avraham*], but if there is no satisfactory alternative, you may be lenient since it is the way of soiling, not dyeing [*Eliyahu Rabbah* etc., *Mishnah Berurah* 328: 146].
+
 [^149]: See *Kitzur Shulchan Aruch* ch. 91: 11.
+
 [^150]: The *Shulchan Aruch*, however, and most *poskim*, say that there is no prohibition against coloring food on Shabbos. However, you may not color water for decorative purposes [*Peri Megadim, Mishnah Berurah* (320: 56)].
+
 [^151]: Weaving threads is a *melachah de’oraisa* but weaving hair is a rabbinical prohibition.
+
 [^152]: According to *Mishnah Berurah*, something that is tied Friday night and will be untied on Shabbos during the day is also permitted because if it is less than twenty four hours it is considered the same day. (317: 5, 6)
+
 [^153]: Within 24 hours [*Peri Megadim* (317: 2)].
+
 [^154]: You may make a loop (or loops) over a single tie if you intend to untie it that day [*Mishnah Berurah* (317: 29) —Acharonim].
+
 [^155]: If very necessary it may be untied by a non-Jew [*Taz* 317: 5].
+
 [^156]: Completing a *melachah* (in this case tailoring) is in violation of the *melachah* called *makeh bepatish* (final touch of the hammer).
+
 [^157]: See preceeding note.
+
 [^158]: You may put a belt through a new pair of pants since you will not let it remain there permanently as part of the garment [*Mishnah Berurah* 317: 16]. See *Rema* 317: 2 and *Biur Halachah*.
+
 [^159]: Safety pins may be used because they are not made to remain closed. See *Shaarei Teshuvah*—*Ginas Veradim* and *Taz* (*Yoreh Dei’ah* 300: 3). Some *poskim* say you may not draw the pin through three places, for that is like sewing (מִדְרַבָּנָן—rabbinically).
+
 [^160]: If stuck together over a letter you may not separate them for it is like writing the letter [*Mishna Berurah* (340: 2)].
+
 [^161]: But you may not cut open the pages [*Peri Megadim* (340: 18)].
+
 [^162]: There are numerous details involved in this *halachah* and you should ask a *poseik* if you have any doubt whatsoever. The main rules are: (1) whatever may be opened must be opened in a way that the wrapper etc. cannot be used after being opened; (2) you do not tear letters or pictures; (3) you may not open a bag on its seam; (4) you may not open something in a way that will form a spout.
+
 [^163]: In a place where many ants are found you must be careful not to step on them [*Shulchan Aruch Harav* 316: 21].
+
 [^164]: Because fleas are found there too and you may come to kill a flea [*Magein Avraham* (316: 21)].
+
 [^165]: *Taz*, see *Biur Halachah*.
+
 [^166]: Since most of the nail is separated it is almost certain to separate completely. [*Mishnah Berurah* (328: 96)]
+
 [^167]: It is also prohibited to do so with your teeth.
+
 [^168]: *Taz* 321: 3 because this is considered pickling which (rabbinically) is similar to cooking. See *Mishnah Berurah* (321: 15).
+
 [^169]: Meat must be salted within three days after the slaughter. If it was not salted it must be thoroughly rinsed or else it becomes *treife*, forbidden.
+
 [^170]: Some people use liquid soap on Shabbos but *Igros Moshe* (Vol. I, 113) says that it is better not to use it.
+
 [^171]: See *Igros Moshe* (Vol. I, 112). It is forbidden to use toothpaste on Shabbos.
+
 [^172]: Only by hand and only to increase its fragrance, not to create its fragrance [*Magein Avraham* (322: 6)].
+
 [^173]: And not even edible for animals [*Mishnah Berurah* 322: 18].
+
 [^174]: Lest you pick fruits and leaves. The *Rabbanan* prohibited the use of any trees [*Shulchan Aruch* 336: 1, *Rashi* (*Eruvin* 100)].
+
 [^175]: Sides here refers to anything stuck into or tied to the tree. The real side of the tree is like the tree in all respects [*Mishnah Berurah* 336: 59].
+
 [^176]: For example, to set it down on some object or platform [*Shulchan Aruch* 336: 8]. But from place to place on the ground it is permitted. *Peri Megadim* as quoted by *Mishnah Berurah* rules that there may be a violation of *muktzeh* if it is moved.
+
 [^177]: *Biur Halachah* (336: 2) says if you only intend to leave it on the ground a day or two, or if it is dry there and not fit for growing, you may place it there. (The problem of *muktzeh* mentioned earlier, however, remains).
+
 [^178]: According to *Rashi, Tosafos* and *Shulchan Aruch* (312: 3), even when the vessel has an opening it is a rabbinic prohibition. However *Rambam* maintains that it would be a *de’oraisa* violation.
+
 [^179]: Anything used as a sign is considered writing (like numbers, shorthand etc.).
+
 [^180]: *Dagul Meirevava* (340: 3). *Rema* prohibits this (unless the letters are made from the cake itself [*Acharonim, Mor Uktziya* (340) etc.]). *Mishnah Berurah* is lenient when the letters are written with fruit juice etc. But if written with frosting you should not cut or break it in the place of the letters, but you may bite into it in the normal way of eating.
+
 [^181]: Such as birthday cakes, etc.
+
 [^182]: Also, if you have another similar *seifer* you should use it rather than use the one with the writing [*Mishnah Berurah* (340: 17)]. If not, at least open and close it with your left hand [*Eliyahu Rabbah*].
+
 [^183]: Even if you give him the money in the beginning of the week. See *Mishnah Berurah* 307: 15.
+
 [^184]: But you should not mention the name of the measuring vessel or fraction of it. [*Rema* 323: 2, *Mishnah Berurah*].
+
 [^185]: The *Magein Avraham* and *Shulchan Aruch Harav* prohibit only a permanent addition.
+
 [^186]: If the door is made of more than one plank, even if there is no doorsill, it is permitted [*Misgeres Hashulchan*].
+
 [^187]: Halachically, once in 30 days is considered a long time [*Tosafos Shabbos, Biur Halachah* (313: 3)].
+
 [^188]: *Taz* (313: 5) *Magein Avraham* (308: 22).
+
 [^189]: *Rema* (337: 2). However, *Biur Halachah* rules that if your house and most of the houses in your city have floors (not dirt) you may sweep it with a soft bristled broom (whose bristles won’t break).
+
 [^190]: Even to sweep a dirt floor. Even though it inevitably will make grooves, since it is not your intent, it may be done by a non-Jew [*Mishnah Berurah* (313: 10)].
+
 [^191]: The *Maharshal* forbids this too. The *Rema* permits it since they are light and make no grooves. *Biur Halachah* rules that you may be lenient when doing so in an entirely unusual manner.
+
 [^192]: *Tosafos* (*Maseches Shabbos* 125), *Shulchan Aruch* (315: 1).
+
 [^193]: Ten *tefachim* high.
+
 [^194]: It is forbidden only when the partition is ten *tefachim* high and does *not* block out the light from above, for then marital relations are permitted only because of the partition which acts as a wall separating them from the light. [Because of the “wall,” the light is considered as coming from another room and in such a case, they must be totally covered when engaging in marital relations. In this case the curtain must be tied down so that it will not blow in the wind for otherwise it is not considered a wall. If, however, the partition completely blocks out the candlelight, it permits marital relations not because it serves as a wall, but rather because it covers the light. Therefore you may make such a partition on Shabbos. The same rule applies to *sefarim* [*Magein Avraham* (315) and *Shulchan Aruch Harav*]. *Mishnah Berurah* (315: 10) agrees that we may be lenient when it is absolutely necessary since the *Rambam* permits making a temporary wall for this purpose.
+
 [^195]: It is permitted to make a partition between men and women in order for them to listen to a sermon [*Mordechai, Mishnah Berurah* (315: 5)].
+
 [^196]: See Glossary for dimension of *tefach*.
+
 [^197]: More exactly it is not there to serve as a wall [*Chayei Adam, Mishnah Berurah* (315: 11)].
+
 [^198]: Folding wall (accordion type wall).
+
 [^199]: At least a *tefach*.
+
 [^200]: This is a rabbinic prohibition, lest you come to make a permanent tent (roof).
+
 [^201]: It is permitted to open and close the hood of a carriage because it is on hinges and is like opening and closing a door [*Chazon Ish* (52: 6) also see *Rema* (627: 3)].
+
 [^202]: According to *Tosafos Shabbos* this is only forbidden when the opening is three *tefachim* wide, but if less than that, *lavud* applies and it is considered closed and covered already and you may cover it. *Mishnah Berurah* (315: 20) relies on this.
+
 [^203]: This refers only to a garment specifically used for this purpose.
+
 [^204]: Even if they screw on and off.
+
 [^205]: This is a rabbinical decree, lest you put it in tightly, thereby doing the *melachah* of בּנֶה (building) or מַכָּה בְּפֵּטִישׁ (final hammer blow—completion) [*Magein Avraham, Beis Yosef* (308)].
+
 [^206]: If the leg broke or fell out and is no longer useful, you may move the stool and lean it on another stool [*Taz, Shulchan Aruch Harav, Mishnah Berurah*].
+
 [^207]: This ruling is based on *Rema* (308: 16). Even according to this ruling, if you do not move it you may sit on it as is. [*Eliyahu Rabbah, Mishnah Berurah*].
+
 [^208]: For then we do not fear you will put in its leg [*Magein Avraham* (308: 33)].
+
 [^209]: According to *Mishnah Berurah* (338: 15) it is also forbidden to shake the watch in order to get it moving again.
+
 [^210]: So that he will know when to take his medicine [*Kalkeles Shabbos*].
+
 [^211]: Even on Shabbos, provided it is still going.
+
 [^212]: It may be wound for a sick person, by a non-Jew, even if it stopped. See *Shulchan Aruch* 328: 17, *Mishnah Berurah* (338: 15). See *Shulchan Aruch* and *Rema* (338: 1).
+
 [^213]: *Shulchan Aruch* (339: 3). It is forbidden lest it cause you to fix musical instruments so that they will play. To clap in an irregular manner is permitted but everything else mentioned is prohibited even in an irregular manner [*Biur Halachah* (339)].
+
 [^214]: I.e., such as on *Simchas Torah*, but for no other *Simchah* [*Mishnah Berurah* (339: 8)].
+
 [^215]: *Rema* (339: 3) —*Tosafos. Mishnah Berurah* rules that this applies only to clapping and dancing but not to rattling nuts etc.
+
 [^216]: *Biur Halachah* rules that you may do so if you have no other means of getting into your house. However, care should be taken to avoid such situations.
+
 [^217]: Lest you throw a rock at them in a *reshus harabbim* (public domain—see chapter 81) [*Shulchan Aruch* (338: 4)].
+
 [^218]: In an irregular manner it is permissible [*Mishnah Berurah* 338: 17].
+
 [^219]: *Shulchan Aruch* (338: 5). For fear that holes will be made in the ground. Even if it is not a dirt floor the Sages prohibited it, since it is not an important activity. They prohibited this on all floors for fear that it will be played on a dirt floor [*Shulchan Aruch Harav*].
+
 [^220]: *Rema* (338) —*Tosafos*.
+
 [^221]: I.e., on its creases. You may fold your *tallis* but not on its creases. See *Shulchan Aruch* (302: 3).
+
 [^222]: This includes other liquids that clean, for fear that you will squeeze it or because soaking it is like washing it.
+
 [^223]: If the bed is in the living room, it is permissible for it is embarrassing and thus is considered a Shabbos need [*Magein Avraham* 302: 6].

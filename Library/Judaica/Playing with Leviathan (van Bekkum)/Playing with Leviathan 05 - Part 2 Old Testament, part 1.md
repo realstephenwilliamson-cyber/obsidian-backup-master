@@ -41,6 +41,7 @@ Seraphim
 Leviathan and Rahab are not the only mythical creatures in the book of Isaiah. In the vision underlying his call Isaiah sees several Seraphim \[illegible\] [[Isaiah 06#^6-2|Isa 6:2]]). Traditionally these Seraphim have been interpreted as angels, but we will have to think of snake-like creatures.[^1] Ancient seal impressions have been found, displaying gods who are flanked by one or two snake-like creatures, usually depicted with four wings.[^2] Such snake-figures fascinated the ancients and also received worship (cf. Nehushtan in [[II Kings 18#^18-4|2 Kgs 18:4]]). In this vision of Isaiah each of the Seraphim even has six wings. In ancient Near Eastern culture such creatures would have possessed supreme holiness. Paradoxically, however, these 
 
 [^1]: O. Keel, *Jahwe-Visionen und Siegelkunst. Eine neue Deutung der Majestätsschilderungen in Jes 6, Ez 1 und 10 und Sach 4* (SBS, 84/85), Stuttgart 1977; T.N.D. Mettinger, “Seraphim \[illegible\] in: K. van der Toorn, B. Becking, P.W. van der Horst (eds.), *Dictionary of Deities and Demons in the Bible (DDD)*, 2nd rev. ed., Leiden 1999, 742–744.
+
 [^2]: For pictures, see O. Keel, “Das Land der Kanaanäer mit der Seele suchend,” *ThZ* 57 (2001), 258–259 and the inclusion of these by W.A.M. Beuken, *Jesaja 1–12* (HThKAT), Freiburg 2003, 170.
 
 *[p. 22]* ^pg50
@@ -58,6 +59,7 @@ Before the texts themselves are discussed, it is useful to outline who Leviathan
 that occurs in mythological texts from the ancient city of Ugarit. He is one of the helpers of Yam who represents the power of the sea and against whom the god Baal has to fight. Yam and Leviathan together symbolize the forces of chaos that has always been a threat to life on earth. Ancient pictures display Leviathan as a multi-headed serpent (cf. [[Psalms 074#^74-13|Ps 74:13–14]]). Under Egyptian influence he also came to be depicted as a sort of crocodile (cf. [[Job 40#^40-25|Job 40:25–41:26]]), but the idea of a multi-headed sea serpent is regarded as the most original. According to one text the goddess Anat claims that she has defeated Leviathan, the twisting serpent, the monster with the seven heads (*KTU* 1.3.IV:38–46), according to other texts Baal has defeated it (*KTU* 1.2.IV:[^4]–30; 1.5.I:1–4). From Mesopotamia similar representations are known, dating already from the third millennium BCE. This reveals how far back into antiquity we find the mythological motif of the sea monster that is vanquished by a deity, and its wide distribution.4
 
 [^3]: Cf. J. Day, *God’s Conflict with the Dragon and the Sea. Echoes of a Canaanite Myth in the Old Testament*, Cambridge 1985. See also the contribution of Marjo Korpel and Johannes de Moor to this volume.
+
 [^4]: C. Uehlinger, “Leviathan \[illegible\] *DDD*2, 511–515; E. Lipiński, “ \[illegible\] *liwjāṯān*,” *TWAT* IV (1983),
 
 *[p. 23]* ^pg51
@@ -67,7 +69,9 @@ Thus far the name Rahab \[illegible\] has not been found in extra-biblical texts
 In [[Isaiah 27#^27-1|Isa 27:1]] and 51:9 Leviathan and Rahab are both called Tannin ( \[illegible\] This is also the case in [[Psalms 074#^74-13|Ps 74:13–14]]. Most translations do not handle this as a proper name, but translate “(sea) monster” (NRSV) or “dragon” (KJV). In Ugaritic texts the dragon is also called *tunnānu*, a designation that can be translated “snake.” As a multi-headed snake *tunnānu* appears in Ugaritic incantation texts as well. This presupposes a representation of *tunnānu* as a demonic power that is still present and against which people have to protect themselves.[^7] Not in all Old Testament texts does \[illegible\] allude to a concrete mythical creature, although 
 
 [^5]: This formulation is borrowed from B.F. Batto, “Kampf and Chaos. The Combat Myth in Israelite Tradition Revisited,” in: J. Scurlock, R.H. Beal (eds.), *Creation and Chaos. A Reconsideration of Hermann Gunkel’s* Chaoskampf *Hypothesis*, Winona Lake, IN 2013, 217–236. Since Hermann Gunkel’s epoch-making book *Schöpfung und Chaos in Urzeit und Endzeit*, Göttingen 1895 (English translation: *Creation and Chaos in the Primeval Era and the Eschaton: Religio-* *Historical Study of [[Torah 01 - Bereshit#^1-1|Genesis 1]] and Revelation 12*, Grand Rapids, MI 2006) it has been assumed for many years that the mythological motif of struggle against chaos was related to the act of creation. Recently, however, this assumption has been severely criticized, resulting in a plea for a thorough reconsideration of the Gunkel hypothesis concerning the relationship between Creation and Chaos. Cf. D.T. Tsumura, *Creation and Destruction*, Winona Lake, IN 2005 and R.S. Watson, *Chaos Uncreated. A Reassessment of the Theme of “Chaos” in the Hebrew Bible* (BZAW, 341), Berlin 2012. The primeval struggle against the forces of chaos probably did not focus on the act of creation, but on the preservation of the stability of the created order. Therefore these forces can accurately be designated as ‘forces of anti-creation.’
+
 [^6]: K. Spronk, “Rahab \[illegible\] *DDD*2, 684–686; U. Rüterswörden, \[illegible\] *rāhaḇ*,” *TWAT* VII (1990), 372–378. Because of the continuous presence of the powers of evil, Levenson describes God’s sovereignty in a dynamic way as “a dramatic enactment: the absolute power of God realizing itself in achievement and relationship” (J.D. Levenson, *Creation and the Persistence of Evil.* *The Jewish Drama of Divine Omnipotence*, 2nd ed., Princeton, NJ 1994, xiv).
+
 [^7]: H. Niehr, “ \[illegible\] *tannîn*,” *TWAT* VIII (1995), 715–720; G.C. Heider, “Tannin \[illegible\] *DDD*2, 834–836.
 
 *[p. 24]* ^pg52
@@ -128,6 +132,7 @@ Unlike the Baal myth [[Isaiah 27#^27-1|Isa 27:1]] presents the victory over Levi
 [[Isaiah 26#^26-21|Isa 26:21]] then describes that Yhwh leaves his dwelling in order to punish the iniquity of the inhabitants of the earth. The earth will disclose the blood shed on her and will no longer cover her slain. The lexical relationship we signalled between [[Isaiah 26#^26-21|Isa 26:21]] and 27:1 is important here. The coming of Yhwh to punish \[illegible\] the iniquity of the inhabitants of the earth and the coming of Yhwh to 
 
 [^13]: O. Procksch (*Isaiah I*, Leipzig 1930) considers the possibility that the mentioned sea monsters symbolize the three superpowers of the time, namely Egypt, Babylonia and Greece. This interpretation assumes that Isa 24–27 is essentially apocalyptic. Cf. U. Steffen, *Der Drachenkampf. Der Mythos vom Bösen*, Zürich 1984, 129.
+
 [^14]: *KTU* 1.5 I:1–2.
 
 *[p. 27]* ^pg55
@@ -153,6 +158,7 @@ Mount Zion ([[Isaiah 24#^24-23|Isa 24:23]]) that Yhwh will come to punish all po
 In addition, with regard to content and redaction this prophecy is closely connected to the foregoing of [[Isaiah 30#^30-1|Isa 30:1–5]]. In both prophecies the prophet turns vigorously against attempts of the leaders of Judah to seek the help of Egypt against an Assyrian threat. This connection is redactionally reflected in the characterization of Egypt as “ \[illegible\] a people that cannot profit them” which both prophecies make use of ([[Isaiah 30#^30-5|Isa 30:5]],[[Isaiah 30#^30-6|6]]).18 The root \[illegible\] \[illegible\] also connects 
 
 [^16]: R.E. Clements, *[[Isaiah 01#^1-1|Isaiah 1]]–39* (NCBC), Grand Rapids, MI 1980, 218.
+
 [^17]: J. Dekker, *Zion’s Rock-solid Foundations. An Exegetical Study of the Zion Text in [[Isaiah 28#^28-16|Isaiah 28:16]]* (OTS, 54), Leiden 2007, 180–190. In [[Isaiah 30#^30-5|Isa 30:5]] the phrase is actually a bit longer: \[illegible\] \[illegible\] The word \[illegible\] “ \[illegible\] him” (singular!) refers to \[illegible\] \[illegible\] at the beginning of the phrase: “everyone comes to shame.”
 
 *[p. 29]* ^pg57
@@ -211,6 +217,7 @@ In the Old Testament Egypt is often characterized as the sea monster (cf. [[Psal
 The prophecy of [[Isaiah 51#^51-9|Isa 51:9–16]] is made up of two parts. The first part is a supplication (verses 9–11). The second part expresses the reaction of Yhwh to this supplication constituted as a salvation prophecy (verses 12–16). Form-critically these two genres must be regarded as a textual unit. They correspond with each other in this passage also stylistically: The double \[illegible\] “ \[illegible\] I, I am” at 
 
 [^22]: Cf. Dekker, *Zion’s Rock-solid Foundations*, 166–177.
+
 [^23]: Cf. Day, *God’s Conflict*, 88–89. For the identification of the mythical monster and Egypt in the book of Ezekiel, see the contribution of Ben van Werven to this volume.
 
 *[p. 32]* ^pg60
@@ -222,9 +229,13 @@ the beginning of verse 12 corresponds to the double \[illegible\] \[illegible\] 
 6.2 The supplication of [[Isaiah 51#^51-9|Isa 51:9–11]] originates from a group among the exiles in Babylon, which is willing to seek Yhwh.[^24] They have been addressed already in [[Isaiah 51#^51-1|Isa 51:1–8]] and should be distinguished from the people as a whole.[^25] They are referred to successively as “pursuers of righteousness” and “seekers of Yhwh” (verse 1), as “my people and my nation” (verse 4), as “connoisseurs of righteousness” and “people who have my teachings in their heart” (verse 7). The people as a whole, however, had continuously responded skeptically to the liberation that Yhwh had announced in many variations (cf. [[Isaiah 49#^49-14|Isa 49:14]]) and which already became apparent in the advance of the Persian King Cyrus from 550 BCE onwards (cf. [[Isaiah 41#^41-1|Isa 41:1–7]]). Yhwh was very upset and disappointed about this negative attitude of his people (see [[Isaiah 50#^50-1|Isa 50:1–3]]). Until now, only the prophetic servant of Yhwh had shown obedience.[^26] In [[Isaiah 51#^51-1|Isaiah 51]] for the first time a group comes forward that is willing to align itself with this servant and put trust in God (cf. [[Isaiah 50#^50-10|Isa 50:10–11]]).[^27] As seekers of Yhwh they look forward to the consolation of Israel[^28] and dare to hope for Yhwh’s intervention. The supplication of [[Isaiah 51#^51-9|Isa 51:9–11]] originates from this group and can be dated in 545–540 BCE. They may receive the message of God’s comfort in [[Isaiah 51#^51-12|Isa 51:12]] (see plural suffix in \[illegible\] .) \[illegible\] 
 
 [^24]: U. Berges, *Jesaja 49–54* (HThKAT), Freiburg 2015, 148. The exegesis of J. Goldingay, *The Message of [[Isaiah 40#^40-1|Isaiah 40]]–55. A Literary-Theological Commentary*, London 2005, 430–431, that Yhwh himself would address his arm, seems artificial. He assumes that because Yhwh speaks in [[Isaiah 51#^51-1|Isa 51:1–8]], the same will be the case in [[Isaiah 51#^51-9|Isa 51:9–16]], but a change of speaker fits very well in the dramatic structure of this section.
+
 [^25]: Berges, *Jesaja 49–54*, 113–114, 137.
+
 [^26]: Cf. J. Dekker, “The Servant and the Servants in the Book of Isaiah,” *Sárospataki Füzetek* 2012/3–4, 33–45.
+
 [^27]: W.A.M. Beuken, *Jesaja deel IIB* (PredOT), Nijkerk 1983, 105–106, 121; J.L. Koole, *Isaiah III.* *Volume 2: [[Isaiah 49#^49-1|Isaiah 49]]–55* (HCOT), Leuven 1998, 138.
+
 [^28]: Cf. the use of this expression in [[Luke 02#^2-25|Luke 2:25]]. 29 30 — It is preferable to conceive verse <sup>1</sup>as an integral part of the supplication. The verbal forms 7121W” and 717" can be understood as iussiva, after which the perfecta 182 and 103 express the certainty of the expectation.
 
 *[p. 33]* ^pg61
@@ -294,10 +305,15 @@ The crossing of the Red Sea is referred to as a drying up of the sea and of the 
 35\. In fact they cried: “Lord, save us! We are perishing!” (cf. [[Matthew 08#^8-25|Matt 8:25]]).
 
 [^36]: Cf. Day, “God and Leviathan in [[Isaiah 27#^27-1|Isaiah 27:1]],” 436: “Canaanite mythic imagery was the most impressive means in that ancient cultural milieu whereby to display the sovereignty and transcendence of Yahweh, along with His superiority over Baal and all other earthly contenders.”
+
 [^37]: Cf. [[Isaiah 63#^63-11|Isa 63:11–14]].
+
 [^38]: Cf. M. Bauks, “ ‘Chaos’ als Metapher für die Gefährdung der Weltordnung,” in: B. Janowski, B. Ego (Hrsg.), *Das biblische Weltbild und seine altorientalische Kontexte* (FAT, 32), Tübingen 2001, 431–464.
+
 [^39]: Cf. B.S. Childs, *Isaiah. A Commentary* (OTL), Louisville, KY 2001, 404: “A unified ontological witness to the one purpose of God concerning his people.”
+
 [^40]: See [[Torah 01 - Bereshit#^1-2|Gen 1:2]]; Job 28:14; 38:16,30; [[Job 41#^41-24|41:24]]; [[Psalms 033#^33-7|Ps 33:7]]; [[Proverbs 03#^3-20|Prov 3:20]]; [[Proverbs 08#^8-24|8:24]],[[Proverbs 08#^8-27|27–28]].
+
 [^41]: See [[Torah 02 - Noach#^7-11|Gen 7:11]]; [[Torah 02 - Noach#^8-2|8:2]]; [[Psalms 104#^104-6|Ps 104:6–9]]; cf. [[Psalms 036#^36-7|Ps 36:7]]. See [[Torah 16 - Beshalach#^15-5|Exod 15:5]],[[Torah 16 - Beshalach#^15-8|8]]; [[Psalms 077#^77-17|Ps 77:17]]; 78:15; 106:9; [[Isaiah 63#^63-13|Isa 63:13]]. Noteworthy are the texts mentioning \[illegible\] in the context of blessing: [[Torah 12 - Vayechi#^49-25|Gen 49:25]]; [[Torah 54 - V'Zot HaBerachah#^33-13|Deut 33:13]] (cf. [[Ezekiel 31#^31-4|Ezek 31:4]],[[Ezekiel 31#^31-15|15]]).
 
 *[p. 36]* ^pg64
@@ -311,7 +327,9 @@ explicit. Even more than the mention of the drying up of the sea, the making of 
 Now that we have discussed each of the dragon-texts in the book of Isaiah separately, we can draw some conclusions and describe how the statements about the sea monsters relate to each other.
 
 [^43]: Cf. A. Schoors, *Jesaja II* (BOT), Roermond 1973, 314.
+
 [^44]: 1QIsaa uses the preposition \[illegible\] Then it’s about making a pathway in the depths (cf. [[Isaiah 43#^43-16|Isa 43:16]]) instead of changing the water depths into a pathway. The Versions support the Masoretic text.
+
 [^45]: Cf. C.H. Gordon, “Leviathan: Symbol of Evil,” in: A. Altmann (ed.), *Biblical Motifs. Origins and Transformations*, Cambridge, MA 1966, 1–9: “God’s triumph over Leviathan helped to give men a sense of security for thousands of years. Now that Leviathan has become merely a symbol, we are not better off. It becomes more difficult to remove evil from our lives, once evil becomes, as it has become, a concept which can be symbolized, but not concretized and crushed.” (p. 9).
 
 *[p. 37]* ^pg65
@@ -323,7 +341,9 @@ Now that we have discussed each of the dragon-texts in the book of Isaiah separa
 (3) It is striking that the sea monsters in the book of Isaiah bear different names, though no different beings are meant.[^47] Leviathan occurs only in the most recent text. Though the number of available texts is too limited to draw firm conclusions, the use of the name Rahab may go back to Isaiah himself[^48] and could also have been used by the Judean exiles, along with the name Tannin. Maybe in Israel the dragon was known as Rahab, while the names Tannin and Leviathan entered the Hebrew language under the influence of the surrounding cultures. In any case, clear counterparts of Tannin and Leviathan are attested in the Ugaritic texts.
 
 [^46]: Cf. Batto, “Kampf and Chaos,” 227; Day, *God’s Conflict*, 92.
+
 [^47]: Cf. Clements, *[[Isaiah 01#^1-1|Isaiah 1]]–39*, 218: “The two dragons scarcely have entirely separate identities.”
+
 [^48]: Cf. H. Wildberger, *Jesaja 28–39* (BKAT), Neukirchen-Vluyn 1982, 1164. The name Rahab then obviously must be older than Isaiah, otherwise his audience would not have understood the message.
 
 *[p. 38]* ^pg66
@@ -355,9 +375,13 @@ As a Fish on Dry Land
 At first glance Ezekiel’s *tannîn*,[^1-p40] as described in Ezek 29 and 32, resembles a fish—dying because it is removed from its natural habitat. Although *tannîn* has indeed been identified as a *tuna*,[^2-p40] a wide range of other possible identifications has been offered. H. Gunkel’s *Schöpfung und Chaos* (1895) encouraged some commentators to presume a direct relation between the ancient Near Eastern myths and the biblical *tannîn*, while others interpret the creature as a crocodile. The precise interrelation between the *tannîn* and the proper names of Rahab and Leviathan is key to our understanding of the *tannîn’s* nature, but remains disputed.[^3-p40] Wakeman, in a rather broad statement, says that in poetic passages *tannîn* “can be read (alone, parallel or in apposition to Rahab or Leviathan) as a generic term, ‘the monster’ ” and concludes that *tannîn* is “properly a mythological term” referring to the monster defeated by Yhwh “when he established his dominion.”[^4-p40] Boadt also sees a mythological creature in the *tannîn*: “Ezekiel chooses his mythic imagery to express this personification of original evil opposed to God and not to portray a ruler troublesome as a crocodile.”[^5-p40] Because of, *inter alia*, the connection between the *tannîn* and the overtly mythological Rahab / Leviathan, and the alleged use of the term 
 
 [^1-p40]: :21, as monsters, see the contribution to this volume by Marjo Korpel and Johannes de Moor.
+
 [^2-p40]: For the Septuagint interpreting fish, including \[illegible\] “the great tunnies” of Gen
+
 [^3-p40]: Cf. C.G. Heider, “Tannîn,” in: K. van der Toorn, B. Becking, P.W. van der Horst (eds.), *Dictionary of Deities and Demons in the Bible (DDD)*, 2nd rev. ed., Leiden 1999, 834–836, and H. Niehr, “Tannîn,” in: G.J. Botterweck, H. Ringgren, H. Fabry (eds.), *Theological Dictionary of the Old Testament (TDOT)*, Vol. 15, Grand Rapids, MI 2006, 726–731.
+
 [^4-p40]: M.K. Wakeman, *God’s Battle with the Monster*, Leiden 1973, 72–73. To make things even more unclear, Wakeman also identifies the *tannîn* as ‘a master jackal’ (76 n. 7).
+
 [^5-p40]: Boadt, *Ezekiel’s Oracles*, 29. 6 J. Day, *God’s Conflict with the Dragon And The Sea*, Cambridge 1985, 94–95. 7 Day, *God’s Conflict*, 95. 8 Ph. Guillaume, “Animadversiones: Metamorphosis of a Ferocious Pharaoh,” *Bib* 85 (2004), 232–236. 9 Among others: W. Eichrodt, *Ezekiel, A Commentary*, Philadelphia 1970, 403; W. Zimmerli, *Ezechiel 25–48*, Neukirchen-Vluyn 1979, 708; D.I. Block, *The Book of Ezekiel, Chapters 25–48*, Grand Rapids, MI 1998, 135 n. 26. Cf. *ANET*, 347. Less certain of the importance of this hymn is Day, *God’s Conflict*, 95 n. 31.
 
 *[p. 41]* ^pg69
@@ -367,6 +391,7 @@ At first glance Ezekiel’s *tannîn*,[^1-p40] as described in Ezek 29 and 32, r
 Generally speaking, commentators find it hard to disregard the *tannîn’s* “mythological connection,” but at the same time do not want to ignore the historical and cultural reality of Ezek 29–32. However, Ezek 29 and 32 seem to resist a characterization as either myth or reality. Is it possible, instead of assuming a historicization of a mythical monster, or a categorical rejection 
 
 [^10]: T.R. Yoder, “[[Ezekiel 29#^29-3|Ezekiel 29:3]] and Its Ancient Near Eastern Context,” *VT* 63 (2013), 486–496.
+
 [^11]: S. Marzouk, *Egypt as a Monster in the Book of Ezekiel* (FAT 2, 76), Tübingen 2015.
 
 *[p. 42]* ^pg70
@@ -386,7 +411,9 @@ of the natural crocodile because of the “mythological vocabulary,”[^12-p42] 
 See, I am against you, Pharaoh, king of Egypt,
 
 [^12-p42]: Block, *[[Ezekiel 25#^25-1|Ezekiel 25]]–48*, 201.
+
 [^13-p42]: Cf. R. Poser, *Das Ezechielbuch als Trauma-Literatur*, Leiden 2012, 489. Poser, reading Ezekiel as ‘Trauma-Literature,’ sees the description of the defeat of the *tannîn* (and Tyre, Babylon, et cetera) as a familiar part of the process needed to recover from a trauma (‘traumatherapeutischen Arbeit’). Therefore, she interprets Ezekiel’s description of the Pharaoh as “Nildrache, Löwe bzw. Seeungeheuer” as “Manifestationen des verschluckten Täters”: the projection (in fact a ‘mental picture’) of the enemy onto the inner stage (‘Inneren Bühne’) of the trauma victim. By subsequently imagining the downfall of this enemy, a trauma victim may be able to integrate in his life what has happened.
+
 [^14-p42]: Cf. a ‘space-based reading’ of [[Isaiah 01#^1-1|Isaiah 1]]–39 by M.E. Mills, *Alterity, Pain, and Suffering in Isaiah, Jeremiah, and Ezekiel*, New York, NY 2007, 3–62.
 15\. For arguments for this delineation of the relevant passages of Ezek 29 and 32, see Block, *[[Ezekiel 25#^25-1|Ezekiel 25]]–48*, 131 and 197.
 
@@ -416,7 +443,9 @@ To the beasts of the field and the birds of the air I have consigned you as food
 Then all who live in Egypt will know that I am YHWH.” Ezekiel’s sketch of Yhwh’s encounter with the *tannîn* in [[Ezekiel 29#^29-3|Ezek 29:3–5]] gives the following references to space, including movement between different spaces or locations. In 29:3 it is said the *tannîn* lies in the midst of his streams. The basic meaning of the verb \[illegible\] is “to lie down” (cf. [[Ezekiel 34#^34-14|Ezek 34:14–15]]).[^18] When used of animals it usually denotes a secure environment wherein they can be at rest. Here it suggests that the *tannîn*, living in its Nile-streams, has nothing to fear. [[Ezekiel 29#^29-3|Ezek 29:3]] can be read as a portrait of a king with a home base that is strong 
 
 [^16-p43]: Yoder interprets ‘*the great tannîn*’ as “a Hebrew version of a Mesopotamian epithet” despite grammatical difficulties and lack of comparative material. “Replicating the Akkadian *ušumgallu* ‘great dragon’ as efficiently as possible and drawing upon Israelite cosmological history (i.e. [[Torah 01 - Bereshit#^1-21|Gen 1:21]]), he feigned incorporating Pharaoh into a long, venerable line of Mesopotamian kings and deities to receive this title.” This may or may not be true. However, even without the use of a Mesopotamian honorary title it is clear that with *tannîn* a royal figure is intended. It is not clear why the benign portrayal of the \[illegible\] in [[Torah 01 - Bereshit#^1-21|Gen 1:21]] should disqualify a pejorative meaning of \[illegible\] in [[Ezekiel 29#^29-3|Ezek 29:3]], as Yoder claims. Further, the question remains unanswered why Ezekiel would use a uniquely Mesopotamian epithet if Ezek 29–32 is totally focused on (or: against) Egypt to convey a message, not to the Pharaoh (contra Yoder, “[[Ezekiel 29#^29-3|Ezekiel 29:3]],” 496, n. 51), but to the exiled Jewish community.
+
 [^17-p43]: On the singular and plural of ‘stream’ \[illegible\] see Boadt, *Ezekiel’s Oracles*, 28–29.
+
 [^18]: Contra Boadt, *Ezekiel’s Oracles*, 28, \[illegible\] \[illegible\] in [[Ezekiel 29#^29-3|Ezek 29:3]] has mythological connections because of its association with the Sea in [[Torah 12 - Vayechi#^49-25|Gen 49:25]] and [[Torah 54 - V'Zot HaBerachah#^33-13|Dt 33:13]] and because of the Akk. *rabiṣum*, meaning ‘demon.’
 
 *[p. 44]* ^pg72
@@ -426,8 +455,11 @@ enough to be “opportunistic and ambitious.”[^19-p44] This is consistent with
 [[Ezekiel 29#^29-4|Ezek 29:4]] surveys Yhwh’s reaction to the *tannîn* and its statement. Yhwh catches the *tannîn* by placing hooks. Meanwhile the fish will certainly (note the repetition of \[illegible\] stick to the scales of the *tannîn*, indicating that the removal of the *tannîn* will not leave his habitat untouched. After the catch, three verbs picture a movement in three stages in [[Ezekiel 29#^29-4|Ezek 29:4–5]] in which the *tannîn* is forced to leave his territory: haul up, leave (into) and fall \[illegible\] \[illegible\] \[illegible\] and \[illegible\] The expression \[illegible\] \[illegible\] offers an interesting challenge. The \[illegible\] is hardly compatible with a straightforward translation of the verbal form \[illegible\] as “I will abandon you.” Still, the much used alternatives “to hurl” and “to cast” obscure the spatial aspect of \[illegible\] 23 Yhwh will not only change the *tannîn’*s position (as dethronement), he will also leave him behind in the wilderness (KJV: “I will leave thee thrown into the wilderness”). After the 
 
 [^19-p44]: Block, *[[Ezekiel 25#^25-1|Ezekiel 25]]–48*, 134.
+
 [^20-p44]: J. Malek, “Sais,” in: W. Helck, E. Otto (eds.), *Lexikon der Ägyptologie*, Vol. 5, Wiesbaden 1984, 355–357.
+
 [^21-p44]: Block, *[[Ezekiel 25#^25-1|Ezekiel 25]]–48*, 135.
+
 [^22-p44]: B.K. Waltke, M. O’Connor, *An Introduction to Biblical Hebrew Syntax*, Winona Lake, IN 1990, 206. In Ezekiel \[illegible\] \[illegible\] is used four times, only within the carefully constructed seven ‘Oracles 23 against Egypt’ of Ezek 29–32, providing lexical coherence to this textual unit. Except in 29:5 and 32:4 it is used twice in 31:12 in relation to the cedar. The verb \[illegible\] \[illegible\] seems in Ezekiel reserved for personified leaders and their territory, specifically denoting their abandonment as part of Yhwh’s judgment. As [[Ezekiel 28#^28-17|Ezek 28:17]] suggests ( \[illegible\] Ezekiel could have used 9( \[illegible\] times in Ezekiel, but not in Ezek 29–32) instead of \[illegible\] \[illegible\] to describe Yahweh dethroning a foreign ruler.
 
 *[p. 45]* ^pg73
@@ -485,7 +517,9 @@ The sketch of the *tannîn* and Yhwh’s intervention in [[Ezekiel 32#^32-2|Ezek
 Compared to Ezek 29, the passage in Ezek 32 concerning the *tannîn* has an expanded range of view, since it mentions twice “the nations” and describes cosmic signs. The main argument, however, remains the same as in Ezek 29. The mentioning of two (closely related) fishing methods other than the hooks of [[Ezekiel 29#^29-4|Ezek 29:4a]] (i.e. fishing with a “casting *net*” and a “*dragnet*,” resp. \[illegible\] and \[illegible\] seems at first sight superfluous. The effect, however, is a subtle receding of Yhwh as actor in favor of the nations. Despite the many predicates in first person plural in vv. 4–8, the supreme moment of getting hold of the 
 
 [^27-p46]: Literally: “in your extinguishing.”
+
 [^28-p46]: Only by isolation from its context (v. 2), the reference to ‘the seas’ may suit a mythological dragon as Day, *God’s Conflict*, 95 suggests.
+
 [^29]: Fragment *CTA* 2, transl.: J.C.L. Gibson, *Canaanite Myths and Legends*, Edinburgh 1977, 44.
 30\. A dragnet needs a crew of fisherman in contrast to a casting net which can be operated alone. Here the nations (plural) are Yahweh’s crew.
 
@@ -527,7 +561,9 @@ To summarize, Ezek 29 stresses the irreversibility of Yhwh’s action; the creat
 3 Several commentators, including Wakeman, Boadt and Day, have seen a connection between Yhwh’s encounter with the *tannîn* in Ezek 29 and 32 and some well-known battle scenes from ancient Near Eastern myths of Canaanite and Ugaritic origin.[^34] Characteristic for this position is Boadt: “The original *Chaoskampf* becomes moralized into the battle of Yhwh to manifest his hegemony over the foreign idols.”[^35-p48] Uncertainty remains, however, regarding to what extent this mythological content has been demythologized. Besides, seen from this perspective, does the *Chaoskampf* motif indeed belong to the core of the text in terms of its structure and message? To put it briefly: is Ezekiel an independent text or not? As evidence shows, spatial references in [[Ezekiel 29#^29-2|Ezek 29:2–6a]] and 32:2–8 constitute a solid framework within which the encounter between Yhwh and the *tannîn* takes place. This textual backbone is one of the reasons that allow for Ezekiel’s account to be heard and interpreted on its own terms, 
 
 [^33-p48]: M. Greenberg, *Ezekiel 21–37*, New Haven 1997, 610; cf. 657: “the doom takes the form of the fatal separation of the monster and his dependents from their natural environment.”
+
 [^34]: Wakeman, *God’s Battle*, 73; Boadt, *Ezekiel’s Oracles*, 27; Day, *God’s Conflict*, 95.
+
 [^35-p48]: Boadt, *Ezekiel’s Oracles*, 27.
 
 *[p. 49]* ^pg77
@@ -539,7 +575,9 @@ Recently, Watson called for a reassessment of the *Chaoskampf* motif, because �
 The unsuitability of *Chaoskampf* as the explanatory term does not, however, imply the absence of allusions to the motif of the slaying of a dragon in the Old Testament. Although sensitive of the difficulties involving the dating of 
 
 [^36-p49]: R.S. Watson, *Chaos Uncreated. A Reassessment of the Theme of “Chaos” in the Hebrew Bible* (BZAW, 341), Berlin 2012, 259. Contra Yoder, “[[Ezekiel 29#^29-3|Ezekiel 29:3]],” 496. Greenberg, *Ezekiel 21–37*, 648 already warned against the “powerful critical impulse to suppose that there is always something behind a text, that every text must be derivative (a reflection of the critics’ contingent creativity?).”
+
 [^37-p49]: This ambiguity is also part of the concept of ‘The Force’ in the Starwars films: it is a ‘Force’ with two sides. See the contribution of Reinier Sonneveld in this volume.
+
 [^38-p49]: Marzouk, *Egypt as a Monster in the Book of Ezekiel*, 93.
 39\. Korpel and De Moor in chapter 1 of this volume. See, for example, also their discussion regarding the Jewish Aramaic incantation bowls and amulets, which may indicate that not everyone accepted Ezekiel’s message.
 
@@ -557,9 +595,13 @@ even more pressing, not only because [[Ezekiel 29#^29-3|Ezek 29:3–6a]] and 32:
 40\. Watson, *Chaos Uncreated*, 394.
 
 [^41-p50]: Watson, *Chaos Uncreated*, 395.
+
 [^42]: Gibson, *Canaanite Myths*, 44.
+
 [^43-p50]: Baal I.iii. See J.C. de Moor, *An Anthology of Religious Texts From Ugarit*, Leiden 1987, 11.
+
 [^44-p50]: Boadt, *Ezekiel’s Oracles*, 177: “Besides the colourful imagery used as part of the accusation, geographical images seem to predominate throughout.” Cf. the spatial language of Ezek 36.
+
 [^45-p50]: Cf. T.D. Meyer, *Literary Structure and Setting in Ezekiel*, Tübingen 2010, 194, n. 14.
 
 *[p. 51]* ^pg79
@@ -575,7 +617,9 @@ Instead of a “battle of the gods,” one movement carried out by Yhwh serves t
 To be separated from the discussion about mythological imagery in Ezekiel is the discussion about the Egyptian crocodile-god Sobek in relation to Ezekiel’s *tannîn*. The origin of this link between the creature in the Book of Ezekiel and one of Egypt’s many gods lies in the self-proclamation of the *tannîn* as “creator of the nile” in [[Ezekiel 29#^29-3|Ezek 29:3]] (“*My Nile is mine, I made it for myself* ”). Surely this proclamation encompasses an ordinary Nile-crocodile (so Boadt in line with Gunkel’s *Schöpfung und Chaos*). But is it really “still tempting to see” in the *tannîn* an allusion to Sobek?[^47-p51] Sobek originated as a primeval crocodile and god of the water / Nile. In later times he was associated with the creator sun god: Atum, Re or Khepri.[^48-p51] Qualities of lesser gods (including the crocodile-god) were ascribed to Re, forming a new amalgamate. It remains to be seen, however, whether the crocodile as such was credited with divine *creative* powers. Moreover, divine creative powers were also directly ascribed to the Pharaoh himself, making him capable of creating things such as the Nile and its streams. This makes it possible to see Ezekiel’s *tannîn* as referring to a *human* being to whom divine powers were attributed and not unequivocally to 
 
 [^46-p51]: D.I. Block, *Ezekiel, Chapters 1–24*, Grand Rapids, MI 1997, 15.
+
 [^47-p51]: Block, *[[Ezekiel 25#^25-1|Ezekiel 25]]–48*, 137.
+
 [^48-p51]: F. Dunand, C. Zivie-Coche, *Gods and Men in Egypt: 3.000 bce to 395 ce*, New York, NY 2004, 49; P. Remler, *Egyptian Mythology A to Z*, New York, NY 2010, 180. Sobek was already worshipped during the Old Kingdom period (2686 BCE–2181 BCE) for Sobek is mentioned in the Pyramid Texts of Sakkara. Cf. A.W. Budge, *The Gods of the Egyptians: Studies in Egyptian Mythology*, Vol. 1, New York, NY 1969, 78.
 
 *[p. 52]* ^pg80
@@ -589,10 +633,15 @@ a member of the Egyptian pantheon.[^49] Day rightly remarks that “the Pharaoh 
 A space-based reading of a text is by no means the only viable approach, but in the case of Ezek 29 and 32 it serves well as a fresh reading of these texts. One of the results is that the text portrays Yhwh’s action as a displacement. Yhwh does not fight for his victory; he instead organizes it. As it turns out, he even owns the dragons lair. In this way, the oracle stresses the absolute sovereignty of Yhwh, which is also the main thrust of the book of Ezekiel as a whole. In its view of divine sovereignty the book differs significantly from ancient Near Eastern myths, which do not depict a final victory over evil and in which hope is nearly absent.[^54] Concerning the *tannîn* itself, Watson’s research gives ample reason to be very careful in suspecting *dependence* on Canaanite myths. Terminology like “the mythic nature of . . .” tends to deny the basic independence of a text. In the Book of Ezekiel, the *tannîn* is a term strongly connected with a pretentious Pharaoh / Egypt and their downfall. Darr correctly says: “Exploiting the weakness implicit in a familiar image and matching metaphor and mode of punishment with deadly perfection, the prophet depicts 
 
 [^49]: Watson, *Chaos Uncreated*, 298 n. 128, quotes Oswalt: “The Arabic word for ‘crocodile’ is a derivative of the word ‘Pharaoh’ ”. See J.N. Oswalt, *The Book of Isaiah, Chapters 40–66*, Grand Rapids, MI 1998, 342, n. 45. Cf. Greenberg, *Ezekiel 21–37*, 602.
+
 [^50]: Day, *God’s Conflict*, 95, n. 31.
+
 [^51]: N.R. Bowen, *Ezekiel*, Nashville, TN 2010, 180.
+
 [^52]: Cf. R.H. Wilkinson, *Die Welt der Götter im alten Agypten. Glaube, Macht, Mythologie*, Stuttgart 2003, 30.
+
 [^53]: G. Pinch, *Handbook of Egyptian Mythology*, Santa Barbara, CA 2002, 201.
+
 [^54]: See the contribution by Korpel and De Moor.
 
 *[p. 53]* ^pg81
@@ -602,10 +651,15 @@ YHWH’s utter destruction of a presumptuous monarch.”[^55] Ezekiel describes 
 Although Ezek 29–32 are addressed to the Pharaoh / Egypt, the first audience of these words were Israel’s exiles in Babylon.[^58] Conceivably, their reaction to Ezekiel’s oracle’s and specifically to the figure of the *tannîn* depended on at least two factors. Firstly, the extent of their knowledge of contemporary mythology (“extratextual repertoire”)[^59] influenced the depth of their understanding of Ezekiel’s message. Determining the extent of this repertoire is difficult. Secondly, the personal narrative (biography) of each exile would have shaped the reaction to what Ezekiel said. As mentioned earlier, it is possible that myths involving a battle with a dragon became relatively widely accepted prior to the Exile, even among Israel’s leadership. Although Ezekiel does not seem to use “strongly mythological material” to “mock the mythical plots” (so Boadt), the mythological connotations of the *tannîn* certainly will have been noticed by those who meddled with “foreign cults.”[^60] In addition to this, it is feasible to think of the community of exiles not only as a religious diverse 
 
 [^55]: K.R. Darr, “Literary Perspectives on Prophetic Literature,” in: K. May, *Old Testament Interpretation, Past, Present and Future. Essays in Honour of Gene M. Tucker*, Nashville, TN 1995, 141.
+
 [^56]: Watson, *Chaos Uncreated*, 165.
+
 [^57]: Wakeman, *Gods’ Battle*, 22.
+
 [^58]: Block, *[[Ezekiel 01#^1-1|Ezekiel 1]]–24*, 5. Bowen, *Ezekiel*, 180 seems to skip this important phase in the reception of Ezekiel’s words and mentions only ‘the readers’: “Since in Egypt Pharaoh was deified, readers might think of the crocodile deity Sobek.”
+
 [^59]: K.R. Darr, “Literary Perspectives,” 140.
+
 [^60]: Boadt, *Ezekiel’s Oracle’s*, 170–171.
 
 *[p. 54]* ^pg82
@@ -633,7 +687,9 @@ Habakkuk’s Prayer (Hab 3) is generally acknowledged to be a poetic masterpiece
 The question is how these images are to be understood. Can the depictions be qualified as metaphorical language, so that Yhwh is in reality fighting human opponents, although the “waters” are mentioned?[^2-p55] Or does the personification of water in this and similar descriptions of the Flood (*Tĕhōm*), the Sea (*Yām*), the River (*Nāhār*), the sea monsters (*Tannin*), and of Leviathan and Rahab reflect an ancient Israelite perception of the powers of the waters that is more personal in character and refers to a common ancient Near Eastern awareness of a mythical past?[^3-p55] Despite its complexity, the poem of Hab 
 
 [^1-p55]: Cf. A.S. van der Woude, *Habakuk, Zefanja* (PredOT), Nijkerk 1978, 70.
+
 [^2-p55]: E.g. [[Psalms 114#^114-3|Ps 114:3]],[[Psalms 114#^114-5|5]] (the sea flees before Yhwh).
+
 [^3-p55]: E.g. [[Job 26#^26-8|Job 26:8–13]] (God having bound up the water in the clouds, divided the sea and pierced the serpent); [[Psalms 074#^74-13|Ps 74:13–17]] (Yhwh having broken the sea, shattered the heads of the sea monsters and of Leviathan, having cleft the fountain and the brook, established the light of the sun and set the borders of the earth); [[Psalms 089#^89-10|Ps 89:10–11]] (Yhwh God Sebaoth is ruling the sea, having crushed Rahab); [[Psalms 104#^104-26|Ps 104:26]] (Yhwh created the Leviathan as a toy); [[Psalms 148#^148-7|Ps 148:7]] (the sea monsters live to praise Yhwh); [[Isaiah 51#^51-9|Isa 51:9–10]] (Yhwh having cut Rahab in pieces and pierced the dragon, having dried up the sea and the waters of the deep).
 
 *[p. 56]* ^pg84
@@ -641,8 +697,11 @@ The question is how these images are to be understood. Can the depictions be qua
 3 seems to offer some light on this issue. It starts with a description of the “coming of Eloah from Teman” ([[Habakkuk 3#^3-3|Hab 3:3]]), a well-known biblical motif connecting Yhwh to a south called Sinai, Paran, Edom, and Teman.[^4-p56] This tradition appears also in the 7th century BCE inscriptions from the (possibly Northern Israelite) caravanserai of Kuntillet ʾAjrud in the Sinai desert, which mention a “Yhwh of Teman.” At least in a canonical context, the motif most likely refers to Israel’s deliverance from Egypt and to Yhwh’s theophany at Mount Sinai, although there is discussion about its actual religious-historical background.[^5-p56] The passage in the poem attracting most attention, however, is the depiction of ‘Eloah’ and ‘Yhwh’ in imagery that is also prominent in the mythology of Canaan as known from the tablets and pictures that have been excavated since 1929 in Rash Shamra, the location of the Late Bronze Canaanite city of Ugarit. The poetic forms and style of Hebrew poetry parallel those of the Ugaritic epic traditions.[^6-p56] Moreover, it seems that the depiction of Yhwh and his entourage in this ancient Israelite poem resembles the portrait of the Canaanite storm-god Baal, who is also in combat with the waters and who is accompanied by lesser divine beings.[^7-p56] Several lines within the theophany of [[Habakkuk 3#^3-3|Hab 3:3–15]] even give the impression of mentioning these gods by name:
 
 [^4-p56]: [[Torah 54 - V'Zot HaBerachah#^33-2|Deut 33:2]]; [[Judges 05#^5-4|Judg 5:4]]; [[Psalms 068#^68-8|Ps 68:8–9]],[[Psalms 068#^68-18|18]]. For elements in [[Habakkuk 3#^3-2|Hab 3:2–7]] alluding to poetic descriptions and narratives regarding Yhwh’s revelation at Sinai, see Shmuel Aḥituv, “The Sinai Theophany in the Psalm of Habakkuk,” in: Chaim Cohen *et al.* (eds.), *Birkat Shalom. Studies in the Bible,* *Ancient Near Eastern Literature, and Postbiblical Judaism*, Winona Lake, IN 2008, 225–232.
+
 [^5-p56]: Cf. [[Torah 16 - Beshalach#^15-7|Exod 15:7–17]]; [[Psalms 068#^68-5|Ps 68:5]],[[Psalms 068#^68-8|8–9]]; [[Psalms 077#^77-15|Ps 77:15–20]]. For the discussion, see Karel van der Toorn, *Family Religion in Israel and Babylonia* (SHCANE, 7), Leiden 1996, 266–315; Mark S. Smith, *The Origins of Biblical Monotheism. Israel’s Polytheistic Background and the Ugaritic Texts*, New York, NY 2001, 135–148. For the inscriptions at Kuntillet ʾAjrud, see Zeʾev Meshel, *Kuntillet ʾAjrud:* *An Iron Age II Religious Site on the Judah-Sinai Border*, Jerusalem 2012, 86–135.
+
 [^6-p56]: Cf. e.g. W.G.E. Watson, *Traditional Techniques in Classical Hebrew Verse* ( JSOT.S, 170), Sheffield 1994, passim; Dennis Pardee, *The Ugaritic Texts and the Origin of West Semitic Literary Composition*, Oxford 2012, 79–106.
+
 [^7-p56]: See *KTU* 1.2:IV.13–14,24; 1.3:IV.25–28; 1.4:V.6–9, VII.25–31.
 
 *[p. 57]* ^pg85
@@ -724,9 +783,13 @@ So the text bears the suggestion of mentioning six to eight Canaanite divine bei
 These observations are not without consequences for the question to what extent biblical descriptions of Yhwh’s rage against rivers and sea resemble the ancient Near Eastern motif of a battle between the god of the thunderstorm and the sea from which this god emerges victoriously. At the beginning of the 20th century, many scholars were convinced that Babylon was the source of this divine combat imagery in the Bible, because of the prominence of the god Tiâmat in the epic *Enūma eliš*, and its interpretation by the German scholar Hermann Gunkel in his book *Schöpfung und Chaos in Urzeit und Endzeit* (1895).[^13-p58] The initial publication of the Baal Cycle in 1935, however, raised doubts about this solution. Now, the Syrian coast also appeared to be a potential original environment to have produced this motif, mainly for meteorological reasons, although it seemed too “early to reach any definite conclusion with regard to the motif and original provenience” of the battle between the storm-god and the sea and its monsters.[^14-p58] Soon articles comparing Hab 3 with the Canaanite myth appeared.[^15-p58] In 1950 William Foxwell Albright even made a reconstruction of what he thought to be the original version of the ancient poem that was used by the prophet Habakkuk.[^16-p58] More than sixty years later Albright’s emendations in Hab 3 creating the most explicit evidence of a 
 
 [^12-p58]: *KTU* 1.5:V.6–11. For a nuanced discussion of the Ugaritic epithet *rkb ʿrpt*, “Rider of the clouds” for Baal and its most direct parallel \[illegible\] “ \[illegible\] Rider of the wilderness” for Yhwh in [[Psalms 068#^68-5|Ps 68:5]], see W. Herrmann, “Rider Upon the Clouds,” in: K. van der Toorn, B. Becking, P.W. van der Horst (eds.), *Dictionary of Deities and Demons in the Bible (DDD)*, 2nd rev. ed., Leiden 1999, 703–705.
+
 [^13-p58]: H. Gunkel, *Schöpfung und Chaos in Endzeit und Urzeit. Eine religionsgeschichtliche Untersuchung über Gen 1 und Ap Joh 12*, Göttingen 1895. Cf. JoAnn Scurlock, Richard H. Beal (eds.), *Creation and Chaos. A Reconsideration of Hermann Gunkel’s* Chaoskampf *Hypothesis*, Winona Lake, IN 2013.
+
 [^14-p58]: W.F. Albright, “Zabûl Yam and Thâpiṭ Nahar in the Combat between Baal and the Sea,” *JPOS* 16 (1936), 18.
+
 [^15-p58]: T.L.H. Gaster, “The Battle of the Rain and the Sea. An Ancient Semitic Nature-Myth,” *Iraq* 4 (1937), 21–32; U. Cassuto, “Il capitolo 3 di Habaquq e i testi di Rash Shamra,” *Annuario di studi Ebraici* 2 (1935–1937) \[1938\], 7–22 (= “Chapter III of Habakkuk and the Rash Shamra texts,” in: idem, *Biblical and Oriental Studies. Vol. 2*, Jerusalem 1975, 3–15).
+
 [^16-p58]: W.F. Albright, “The Psalm of Habakkuk,” in: H.H. Rowley (ed.), *Studies in Old Testament Prophecy*, Edinburgh 1950, 6–18. E.g. the reading \[illegible\] “ \[illegible\] Mot,” instead of \[illegible\] “ \[illegible\] of the house,” in [[Habakkuk 3#^3-13|Hab 3:13]]. Cf. J.F. Healey, 17 “Mot,” *DDD*2, 602.
 
 *[p. 59]* ^pg87
@@ -740,7 +803,9 @@ The imagery derives directly from Canaanite tradition, but the texts also reflec
 Yhwh is described as a warrior king fighting with enemies symbolized by destructive waters. Accordingly, the texts are primarily metaphorical and reflect battle imagery rather than a certain Canaanite myth.[^20-p59]
 
 [^18-p59]: E.g. Carola Kloos, *Yhwh’s Combat with the Sea. A Canaanite Tradition in the Religion of Israel*, Amsterdam–Leiden 1986, 94–124, 191–212. Cf. John Day, *God’s Conflict with the Dragon and the Sea. Echoes of a Canaanite Myth in the Old Testament*, Cambridge 1985, 104–109; idem, *Yahweh and the Gods and Goddesses of Canaan* ( JSOT.S, 265), Sheffield 2000, 226–233; A.R.W. Green, *The Storm-God in the Ancient Near East* (BJS, 8), Winona Lake, IN 2003, 258–280; Reinhard Müller, *Jahwe als Wettergott. Studien zur althebräischen Kultlyrik anhand ausgewählter Psalmen* (BZAW, 387), Berlin 2008, 237–250.
+
 [^19-p59]: E.g. Johannes de Moor, *The Rise of Yahwism. The Roots of Israelite Monotheism* (BEThL, 91), Leuven 19972, 198–206, 370–376; Marjo C.A. Korpel, *A Rift in the Clouds. Ugaritic and Hebrew Descriptions of the Divine* (UBL, 8) Münster 1990, 621–631. A highly influential earlier version of this view was offered by Frank Moore Cross, *Canaanite Myth and Hebrew Epic. Essays in the History of the Religion of Israel*, Cambridge, MA 1973, 147–169, and further developed with regard to Hab 3 in Theodore Hiebert, *God of My Victory. The Ancient Hymn in [[Habakkuk 3#^3-1|Habakkuk 3]]* (HSM, 38), Atlanta, GA 1986, 136–139, and Smith, *Origins of Biblical Monotheism*, 23–24, 145–148, 157–159.
+
 [^20-p59]: E.g. David Tsumura, *Creation and Destruction. A Reappraisal of the* Chaoskampf *Theory in the Old Testament*, Winona Lake, IN 2005, 164–181; idem, “The ‘Chaoskampf ’ Motif in Ugaritic and Hebrew Literatures,” in: Jean-Marc Michaud (ed.), *Le Royaume d’Ougarit de la Crète à l’Euphrate. Nouveaux Axes de Recherches* (Proche-Orient et Littérature Ougarithique), Sherbrooke, Québec 2007, 492–499.
 
 *[p. 60]* ^pg88
@@ -762,7 +827,9 @@ within the well-known Israel-versus-Canaan paradigm of the Albrightean School, w
 Interestingly, these observations perfectly reflect the general development in comparative religion during the last decades of the 20th century. Postmodernism denounced order and ordering principles in favour of otherness and difference and created a substantial distance between language and reality. Hence, it was highlighted that cross-cultural comparison is often implicitly imperialistic, because it takes the compared objects from their original cultural matrix and construes an abstraction, which often can be deconstructed as a political act aimed at domination. Needless to say, scholars still trying to connect religion and history rightly countered with the claim that such criticism, based on the assumption that “everything human is foreign to me,” easily leads to intellectual relativism, for as a consequence there can be no real communication between religions, cultures and even among human beings. This, however, did not mean that the issues raised by the postmodern approach of anthropology and the history of religions were dealt within a satisfactory way. Therefore, the methodological question arose, how comparison could be more than just a kind of magic or an affair of recollection of similarity.[^24-p61] In a famous essay addressing this quest for method in comparative studies, the historian of religion Jonathan Z. Smith intriguingly refers in a positive way to the Pan-Babylonian School of the *Babel-Bibel* debate. This school was 
 
 [^22-p61]: See e.g. Neil A. Silberman, “Power, Politics, and the Past,” in: Thomas E. Levy (ed.), *Archaeology of Society in the Holy Land*, London 1995, 16–17; Bruce Kuklick, *Puritans in Babylon. The Ancient Near East and American Intellectual Life*, Princeton 1996, 176–195.
+
 [^23-p61]: Mark S. Smith, “Recent Study of the Israelite Religion in the Light of the Ugaritic Texts,” in: K. Lawson Younger (ed.), *Ugarit at Seventy-Five*, 5.
+
 [^24-p61]: For an overview of the debate, see K.C. Patton, B.C. Ray (eds.), *A Magic Still Dwells.* *Comparative Religion in the Postmodern Age*, Berkley, CA 2000.
 
 *[p. 62]* ^pg90
@@ -772,8 +839,11 @@ definitely wrong on botha factual and a theoretical level. But at the same time 
 to ground comparison and patterns in a historical process, to develop a complex model of tradition and the mechanisms for its transmission, to balance generalities and particularities in a structure which integrates both, and to prioritize comparative systematics over the catalogue of isolated comparative exempla, and to see the power of pattern as a device for interpretation. This creates a rich range of possibilities and also makes us familiar to the problems as well.[^25-p62] During the last century, the research of ancient Near Eastern religions and cultures indeed developed slowly in this direction. This already started in 1926 with a dense and often misunderstood essay by the Assyriologist Benno Landsberger on the *Eigenbegrifflichkeit* of the Babylonian world.[^26-p62] Many years later, it was followed by the development of a two-sided comparative method and the more fine-tuned and multifocal contextual approach.[^27-p62] As a result, it is generally acknowledged nowadays that all textual (and iconographic) phenomena should be studied in their own context first, while a cross-cultural comparison should reckon with both differences and similarities, genre, function, geographical and chronological distance, and with spheres of cultural contact and channels of transmission.[^28-p62] With regard to literary similarities this means that they are more often explained successfully by assuming a 
 
 [^25-p62]: Jonathan Z. Smith, “In Comparison A Magic Dwells,” in: *Imagining Religion. From Babylon to Jonestown*, Chicago, IL 1982, 28–29 (= Patton, Ray \[eds.\], *A Magic Still Dwells*, 33–34).
+
 [^26-p62]: B. Landsberger, “Die Eigenbegrifflichkeit der babylonischen Welt,” *Islamica* 2 (1926), 355–372.
+
 [^27-p62]: See e.g. S. Talmon, “The ‘Comparative Method’ in Biblical Interpretation: Principles and Problems,” in: Congress Volume Göttingen 1977 (VT.S, 29), Leiden 1978, 320–356; M. Malul, *The Comparative Method in Ancient Near Eastern and Biblical Legal Studies* (AOAT, 227), Neukirchen-Vluyn 1990; W.W. Hallo, “Compare and Contrast: the Contextual Approach to Biblical Literature,” in: W.W. Hallo *et al.* (eds.), *The Bible in the Light of the Cuneiform Literature* (Scripture in Context, 3), Lewiston, NY 1990, 1–30; idem, “Sumer and the Bible. A Matter of Proportion,” in: W.W. Hallo, K.L. Younger (eds.), *The Context of Scripture.* *Vol. 3. Archival Documents from the Biblical World*, Leiden 2003, xlix–liv.
+
 [^28-p62]: See e.g. K.L. Younger, “The ‘Contextual Method.’ Some West Semitic Reflections,” in: Hallo, Younger (eds.), *The Context of Scripture. Vol. 3*, xxxv–xlii; John H. Walton, *Ancient Near Eastern Thought and the Old Testament. The Conceptual World of Hebrew Bible*, Grand Rapids, MI 2006, 19–28.
 
 *[p. 63]* ^pg91
@@ -815,4 +885,5 @@ with water(monsters) always coincides with creation. Accordingly, it becomes har
 Similar remarks can be made with regard to the political readings of the Baal Cycle. Over the years, it has become clear that a so-called cosmogonic interpretation of the Ugaritic myth fails to see that the battle between Baal and the Sea in this 13th century BCE poem does not imply creation and also does not lead to a restructuring of the universe. Moreover, the “olden gods” are not overcome by the “younger gods.” Hence, the combat motif clearly functions as a description of a recurring struggle in the current world order. So far, no evidence was found that the poem was used in the cult. Rather the Baal Cycle appears to be the creation of the ingenious scribe and priest ʾIlimilku, who used well-known motifs and a wide range of seasonal and ritual information in order to compose a literary work mirroring the actual political-theological situation in Ugarit. There is no consensus about how exactly the divine characters in the cycle run parallel to worldly political relationships. Some view the poem as a story of royal succession in the palatial city, others connect it to the vassalage of Ugarit to both Egypt and Hatti during the Bronze Age. Nevertheless, scholars agree that the ideological spin of the story is more concerned with Ugarit than with Canaan as a whole.[^33-p66] This raises another issue, namely, to what extent 
 
 [^32]: Tsumura, *Creation and Destruction*, 42–53; John H. Walton, “Creation in [[Torah 01 - Bereshit#^1-1|Genesis 1:1–2:3]]. Order out of Disorder after *Chaoskampf*,” *Calvin Theological Journal* 43 (2008), 52–53; Lambert, *Babylonian Creation Myths*, 460–461; Richard Averbeck, “The Three ‘Daughters’ of Baal and the Transformation of Chaoskampf in the Early Chapters of Genesis,” in: Scurlock, Beal (eds.), *Creation and Chaos*, 248–250; JoAnn Scurlock, “*Chaoskampf* Lost– *Chaoskampf* Regained. The Gunkel Hypothesis Revisited,” in: Scurlock, Beal (eds.), *Creation and Chaos*, 264–265, 267–268. Gunkel’s view—with adaptations—is still maintained by Batto, who offers a critical review of its deconstruction by Rebecca S. Watson, *Chaos Uncreated. A Reassessment of the Theme of Chaos in the Hebrew Bible* (BZAW, 341), Berlin 2005, in Bernard F. Batto, “The Combat Myth in Israelite Tradition Revisited,” in: Scurlock, Beal (eds.), *Creation and Chaos*, 217–236.
+
 [^33-p66]: See e.g. Mark S. Smith, *The Ugaritic Baal Cycle. Vol. 1. Introduction with Text, Translation and Commentary of KTU 1.1–1.2* (VT.S, 55), Leiden 1994, 74–114; Pardee, *Ugaritic Texts and the Origin of West Semitic Literary Composition*, 72–77; Aaron Tugendhaft, “Unsettling Sovereignty: Politics and Poetic in the Baal Cycle,” *JAOS* 132 (2012), 367–384; idem, “Babel-Bible-Baal,” in: Scurlock, Beal (eds.), *Creation and Chaos*, 193–196; Wayne T. Pitard, “The Combat Myth as a Succession Story,” in: Scurlock, Beal (eds.), *Creation and Chaos*, 199– 205. For a different view, see Nicholas Wyatt, “Ilimilku’s Ideological Programme: Ugaritic Royal Propaganda, and a Biblical Postscript,” *UF* 29 (1997), 775–796; idem, “The Religious Role of the King in Ugarit,” *UF* 37 (2005), 695–727.

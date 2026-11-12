@@ -22,10 +22,10 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 i | Gen 1:1-25 |
-| Frag. 3 i | Gen 4:2-11 |
 | Frag. 2 | Gen 1:25-28 |
-| Frag. 3 ii | Gen 5:13 ? |
 | Frag. 1 ii | Gen 2:14-19 |
+| Frag. 3 i | Gen 4:2-11 |
+| Frag. 3 ii | Gen 5:13 ? |
 | Frag. 4 | ? |
 
 [[DSS 4Q1|← 4Q1]] · [[Qumran|index]] · [[DSS 4Q3|4Q3 →]]

@@ -22,10 +22,10 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Ezek 1:8-10 |
-| Frag. 3b, 6 | Ezek 5:11-17 |
 | Frag. 2 | Ezek 4:3-5 |
-| Frag. 7 | Ezek 7:9-12 |
 | Frag. 3a | Ezek 4:6 |
 | Frag. 4-5 | Ezek 4:9-10 |
+| Frag. 3b, 6 | Ezek 5:11-17 |
+| Frag. 7 | Ezek 7:9-12 |
 
 [[DSS 11Q3|← 11Q3]] · [[Qumran|index]] · [[DSS 11Q5|11Q5 →]]

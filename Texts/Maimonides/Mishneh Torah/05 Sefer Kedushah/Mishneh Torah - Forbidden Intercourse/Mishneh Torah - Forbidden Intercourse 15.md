@@ -192,120 +192,226 @@ When does the above apply? When her faithfulness has been established and an obj
 **33.** It is a clear matter that a *shituki* is forbidden to marry a *shituki* and an *asufi* is forbidden to marry an *asufi*, because their status is doubtful.[^106] Nevertheless, even *mamzerim* of a definite status and *netinim* may intermarry. The offspring is a *mamzer*.[^107] A *shituki* or an *asufi* are permitted to marry *netinim* and other converts. The offspring is considered as [a *mamzer*] of doubtful status. ^15-33
 
 [^1]: These refer to a variety of incestuous and adulterous relationships as listed in the beginning of this text.
+
 [^2]: I.e., he has a spiritual taint to his character.
+
 [^3]: The difference between whether relations were willful, forced, or inadvertent is relevant only with regard to the punishment received by the man and woman. The child born of the offspring is considered as a *mamzer* regardless. This law teaches us an important lesson with regard to sexual morality. The effects of our deeds on our offspring is binding, regardless of whether we repent and/or seek to refine ourselves afterwards.
+
 [^4]: As is the punishment for the violation of any Scriptural commandment.
+
 [^5]: For the consecration alone does not involve the violation of a Scriptural commandment.
+
 [^6]: Here the Rambam mentions both the man and the woman, for both are forbidden to engage in relations. In the former clause, he refers to the man, because the consecration is his responsibility.
+
 [^7]: The Rambam's wording implies that the couple do receive lashes for their relations, for they have violated the prohibition: "There shall not be a promiscuous woman" ([[Torah 49 - Ki Teitzei#^23-18|Deuteronomy 23:18]] which forbids relations that are not carried out for the sake of marriage (*Maggid Mishneh*, based on *Hilchot Ishut* 1:4).  
     The Rambam's opinion is that the prohibition against relations with a *mamzer* applies only within the context of marriage - depends on the prooftext cited above: "A *mamzer* shall not enter the congregation of God," i.e., shall not marry among the Jewish people. According to the Rambam, the implication is that the prohibition must involve marriage (Rav Avraham, the son of the Rambam, as quoted in the *Kessef Mishneh*).  
     The Ra'avad, the Ramban, Rav Moshe HaCohen, and others do not agree with the Rambam's ruling and maintain that this prohibition applies even if there was no consecration. Relations alone are sufficient to establish liability. See the discussion of the issue in the *Maggid Mishneh* and *Kessef Mishneh*.
+
 [^8]: Chapter 17, Halachah 3.
+
 [^9]: I.e., and her second husband died or divorced her. The Rambam describes the prohibition against a man remarrying his divorcee after she was consecrated by another man in *Hilchot Gerushin* 11:12. The *Maggid Mishneh* states that the Rambam feels it necessary to emphasize that the offspring of such relations are not *mamzerim* even though the prohibition is not punishable by *kereit*, because [[Torah 49 - Ki Teitzei#^24-4|Deuteronomy 24:4]], the source for the prohibition describes such relations as "an abomination." That term is often used with regard to the *ariot*, the more severe sexual prohibitions.
+
 [^10]: Thus although the woman committed adultery and is forbidden to her husband, the child is not considered as a *mamzer*. The rationale is that we pay no attention to the seed of the gentile or the servant, as stated in Halachah 4. Halachicly, it is as if the woman conceived the child independently.
+
 [^11]: This law is based on the same rationale. Since we pay no attention to the seed of the servant or the gentile, the child takes on the same quality as the mother. Just as she is disqualified, so, too, is he.
+
 [^12]: For there is no difference between him and other gentiles. See the following halachah.
+
 [^13]: Whether Jewish, gentile, or a servant.  
     The *Maggid Mishneh* and *Shulchan Aruch* (*Even HaEzer* 7:17) quote views which state that if the offspring is female, she may not marry into the priesthood.
+
 [^14]: The *mamzer* will purchase the servant and treat her as his wife. The children she bears him will be his property and they will not be *mamzerim*. If he desires, he may free them, at which point, their status is the same as other converts. If, by contrast, a *mamzer* would marry a convert, although there is no prohibition involved, the offspring would be *mamzerim* (Halachah 7).
+
 [^15]: As she is forbidden to an ordinary Jewish male by Rabbinic decree (Chapter 12, Halachah 11).
+
 [^16]: There are Rabbis today who advise that this practice should be followed by *mamzerim*. They should meet gentile woman, have them convert as servants, and live with them.
+
 [^17]: E.g., a slave was owned by two partners, one of whom freed him and one did not. See *Hilchot Avadim* 5:4.
+
 [^18]: The dimension of the father which was free causes him to have a dimension of *mamzerut*. For a free man who engages in relations with a married woman conceives a *mamzer*.
+
 [^19]: For when a servant engages in relations with a married woman, the offspring are acceptable.
+
 [^20]: This is forbidden to him as to other acceptable Jews, because of the dimension of his being that shares that status.  
     Rashi differs with this approach and maintains that he should be permitted to engage in relations with a maid-servant. See *Chelkat Mechokek* 4:19, *Beit Shmuel* 4:28.
+
 [^21]: He may marry a convert or a freed servant, but their offspring share his status as stated in the Halachah 7.
+
 [^22]: The *Beit Shmuel* 4:35 emphasizes that although such marriages are permitted, there is a certain unadvisable dimension to it, for it is undesirable to increase the number of *mamzerim* among the Jewish people.
+
 [^23]: I.e., although he and his parents are considered as full Jews with regard to all matters, the prohibition against marrying a *mamzer* does not apply to him.
+
 [^24]: The *Shulchan Aruch* (*Even HaEzer* 4:22) quotes the Rambam's view, but also that of Rabbenu Asher which states that after ten generations a convert is forbidden to marry a female *mamzer*.
+
 [^25]: See Chapter 13, Halachah 11.
+
 [^26]: Although there are some Rishonim who differ with the Rambam, the *Shulchan Aruch* (*loc. cit.*) quotes the Rambam's view.
+
 [^27]: In Halachah 1 of this chapter.
+
 [^28]: See *Hilchot Ishut* 4:21-22 for examples of such questionable consecrations.
+
 [^29]: See *Hilchot Gerushin* 5:13 for examples of such questionable divorces.
+
 [^30]: See *Hilchot Gerushin* 10:7 which explains this situation. Although the marriage of the second husband is not valid, for a married woman cannot be married to another man, our Sages decreed that the second marriage be considered binding with regard to this point: That a child fathered by her first husband be considered a *mamzer*.
+
 [^31]: The *Maggid Mishneh* quotes an opinion that maintains that this ruling applies only after the fact. As an initial and preferred option, a native-born Jewess should not marry such a person. The *Shulchan Aruch* (*Even HaEzer* 4:26) quotes the Rambam's ruling. See also Chapter 18, Halachot 13-15.  
     Despite the fact that we have no existing presumption regarding the child's lineage, we rule that he or she is acceptable. The rationale is that the child has no alternative; its status depends on this ruling (*Maggid Mishneh*).
+
 [^32]: E.g., they are *mamzerim*.
+
 [^33]: For we have no way of determining the status of the father and it is possible that the father was a *mamzer*.
+
 [^34]: I.e., her word is not effective in conclusively determining the child's status as a *mamzer* for the reason the Rambam proceeds to state. Her word is accepted in having the child deemed as legitimate, but not in having him deemed as a *mamzer*. See also Halachah 14 and Chapter 18, Halachah 14.
+
 [^35]: We assume that she was promiscuous with more than one person and thus we have no way of determining the identity of the child's father. Thus the presumed father has no way of knowing whether or not the child was actually his (*Maggid Mishneh*).  
     The Rambam maintains that this rule applies even when the woman does not have a reputation for promiscuity. See *Chelkat Mechokek* 4:25 and *Beit Shmuel* 4:40 which discuss this issue.
+
 [^36]: *Shituki* means "one who is silenced." Rashi, *Yevamot* [[Yevamot 37#37a|37a]], explains that this name is given because the child will call out for his father and his mother will silence him.
+
 [^37]: The term *asufi* means "one who was gathered in," i.e., the child was taken in from the street.
+
 [^38]: Halachah 31 qualifies this ruling, stating that it applies only when it appears that the parents abandoned the child to die. If it is evident that the parents desired the child to live, e.g., they circumcised it, they gave it medical treatment, and/or placed it in a location where it was likely to be found, we assume that it was of acceptable lineage and was abandoned only because its parents were unable to provide for it.
+
 [^39]: I.e., he does not inherit the named person's property, nor is his wife freed from the obligation of *chalitzah* if he dies childless (*Maggid Mishneh*). See *Hilchot Yibbum ViChalitzah* 3:4 where the latter law is discussed.
+
 [^40]: See Halachah 12.
+
 [^41]: I.e., he is not my son, but born from an adulterous relationship.
+
 [^42]: Note *Hilchot Nachalot* 4:3 which states that once a father acknowledges a child as his son, he cannot declare him as illegitimate afterwards.
+
 [^43]: For by invalidating the legitimacy of the son, he would automatically be invalidating the lineage of his offspring and the Torah did not give him that power as the Rambam continues to explain. See also *Hilchot Nachalot* 4:2.
+
 [^44]: The verse speaks of a father recognizing his heirs in connection with the division of his estate. If the father states that he did not father a son that was presumed to be his, that son is thus identified as a *mamzer*, for he will have been conceived through adultery.
+
 [^45]: The latter two concepts are relevant with regard to the sons of priests as will be explained in Chapter 19.
+
 [^46]: His statement is not accepted as testimony, for a person may not testify against himself. Nevertheless, the restrictions he placed against himself are binding. It is as if he took a vow, forbidding himself to marry a native-born Jewess (*Beit Shmuel* 4:53)
+
 [^47]: For we fear that he made these statements in order to be granted this leniency.
+
 [^48]: According to Jewish Law, marriage is a two-staged process involving: a) consecration, *kiddushin* or *erusin*, and b) marriage, *nissuin*, when the couple begin living together as man and wife. From the time of consecration onward, however, the woman is forbidden to engage in relations with other men.
+
 [^49]: These laws differ from those applying to a married woman, as stated in Halachot 19-20. The rationale is that we do not assume that a couple that is merely consecrated share intimacy with the same degree of consistency as a married couple. Nor is a consecrated woman likely to the same degree of fidelity as a married woman.
+
 [^50]: He is forbidden to marry a native-born Jewess for it is possible that he is a *mamzer*. He is forbidden to marry a female *mamzer*, because it is possible that he is an acceptable Jewish male.
+
 [^51]: As in Halachah 11. In this instance, since a bond has already been established between the couple, it is even more reasonable to accept her statements. This is speaking about a situation where the husband is not present to be questioned (*Shulchan Aruch* (*Even HaEzer* 4:27). The Rama states that the child is also considered as the presumed father's son with regard to receiving a share in the inheritance.
+
 [^52]: As stated in Halachah 15. In contrast to a situation where the presumed father could not be asked, this child is definitely a *mamzer* and is forbidden to marry a native-born Jew or Jewess (*ibid.*).
+
 [^53]: The term literally means "promiscuous woman," but has a specific halachic meaning, as the Rambam states in Chapter 18, Halachah 1: "A woman who entered into relations with a man who she is forbidden to marry." After consecration, every man would be prohibited to this woman.  
     The Torah gave the husband the right to determine his son's status. He does not, however, have the right to determine that of the woman (*Ketubot* [[Ketubot 13#13a|13a]]).
+
 [^54]: After her first husband died.
+
 [^55]: Nevertheless, since the man who consecrated her contradicts her statements, the initial and preferred option is for her not to marry a priest (*Beit Shmuel* 4:47). Similarly, if the person who consecrated her is a priest, he is forbidden to marry her.
+
 [^56]: If the woman had been forbidden to the priesthood, her offspring would not be considered priests, as stated in Chapter 19.
+
 [^57]: This is speaking about an instance when we cannot clarify the child's status by asking the mother.
+
 [^58]: We have translated the term according to the prevalent understanding of the Rambam's ruling. Note, however, the Rama (*Even HaEzer* 4:29) who questions whether these laws also apply with regard to a woman who was only consecrated.
+
 [^59]: And thus could not have fathered the child.
+
 [^60]: The *Beit Shmuel* 4:52 interprets the Rambam's words as meaning "the child is a *mamzer* of questionable status," for the possibility exists that he was conceived by a gentile.
+
 [^61]: As indicated by Halachah 11, the woman's word is accepted with regard to defining the legitimacy of her child's lineage.
+
 [^62]: He does not know with how many people and with whom she was promiscuous.
+
 [^63]: Although a full-term pregnancy is nine months, our Sages spoke of the possibility of a woman carrying a baby for twelve months. Although this is abnormal, when a man left his home between nine and twelve months before a child was born, they desired to consider that possibility rather than deem the child as a *mamzer*. See *Yevamot* [[Yevamot 80#80b|80b]].  
     Rama (*Even HaEzer* 4:14) states that the above leniency is granted only when we do not see moral lapses in the woman's conduct. If, however, she conducts herself in an unbecoming manner, we suspect the child's lineage.
+
 [^64]: Rashi (*Yevamot* [[Yevamot 27#27b|27b]]) states that one should marry the offspring only when there is no other alternative.
+
 [^65]: And hence may not marry a priest. Even an Israelite should refrain from marrying such a woman (*Maggid Mishneh*). After the fact, if she marries a priest, we do not require a divorce (*Beit Shmuel* 4:24).
+
 [^66]: *Sotah* [[Sotah 27#27b|27b]] raises this question, but leaves the matter unresolved. Accordingly, it is appropriate to be stringent (*Maggid Mishneh*).
+
 [^67]: According to the Rambam, the general principle is that according to Scriptural Law, whenever there is a doubt whether an act is forbidden, there is no prohibition. Our Rabbis, however, decreed that when there is a doubt with regard to a Scriptural prohibition, we are stringent. Others differ and maintain that according to Scriptural Law, if there is a doubt concerning a prohibition, it must be observed. There is a special leniency, stemming from a verse from the Torah, when a doubt arises whether a person is a *mamzer* or not. See Chapter 18, Halachah 17.
+
 [^68]: See Halachah 10.
+
 [^69]: See Halachah 12.
+
 [^70]: See Halachah 13.
+
 [^71]: For there is no Scriptural prohibition involved.
+
 [^72]: As the Rambam continues to explain in the following halachah.
+
 [^73]: For the marriage, though forbidden, is binding according to Jewish Law.
+
 [^74]: As stated in Halachah 7.
+
 [^75]: We treat him as neither a Jew nor a gentile as the Rambam continues to illustrate. The *Maggid Mishneh* explains that the ruling follows the principle: Whenever a doubt arises and the permitted and the forbidden entities are fixed, we do not follow the majority, but instead, consider the situation as equally balanced.
+
 [^76]: I.e., the couple are not allowed to remain married for perhaps he is a gentile, but a formal divorce is necessary, for perhaps he is a Jew and the consecration is binding.
+
 [^77]: For perhaps he is a gentile.
+
 [^78]: As is the law which applies with regard to any child convert (Chapter 13, Halachah 7).
+
 [^79]: He is bound by the restrictions applying to a *mamzer* whose status is doubtful despite the possibility that they might not apply because he is a convert.  
     The Ra'avad rules that in such a situation, he is considered as any other convert and allowed to marry a native-born Jewesses The *Maggid Mishneh* explains the rationale for the Ra'avad's position, stating that there is a multiple doubt involved: Maybe he is not of Jewish origin, and if he is of Jewish origin, maybe he is not a *mamzer*. Moreover, the entire prohibition against an *asufi* is Rabbinic in origin. (For according to Scriptural Law, only a *mamzer* whose status is definite is forbidden). The *Shulchan Aruch* (*Even HaEzer* 4:33) quotes the Rambam's view. The *Chelkat Mechokek* 4:31 questions why the Ra'avad's view is not cited, but the *Beit Shmuel* 4:54 explains that according to the Rambam, with regard to questions of lineage, we are stringent even in such situations.
+
 [^80]: This and the following laws apply when the person did not convert (*Maggid Mishneh*). For the principle that we consider the populations as equally balanced applies only with regard to questions of lineage.
+
 [^81]: The *Kessef Mishneh* notes that *Ketubot* [[Ketubot 15#15b|15b]], the source for the Rambam's ruling, could be interpreted as making such a statement only in a situation where the majority of the inhabitants are Jewish. He, however, offers an interpretation of the passage which conforms to the Rambam's ruling.
+
 [^82]: I.e., we must support him in situations of need.
+
 [^83]: To save his life even though doing so involves violation of the Sabbath laws.  
     The *Maggid Mishneh* cites opinions which maintain that this ruling applies even if the majority of the inhabitants are gentiles. For when a question of life and death is involved, we do not require a majority. See *Hilchot Shabbat* 2:20-21 and notes for an explanation of the matter.
+
 [^84]: There are certain situations where the laws applying to gentiles are more severe than those applying to a Jew. For example, if an ox belonging to a gentile that is not known to gore does in fact gore an ox belonging to a Jew, the gentile is required to pay full damages. A Jew, by contrast, would be required to pay only partial damages. If such a situation would arise with regard to a person whose identity is in doubt, he could tell the plaintiff: "If you prove I am not a Jew, I will pay full damages."
+
 [^85]: Halachah 23. I.e., if he marries without undergoing conversion (*Chelkat Mechokek* 4:36).
+
 [^86]: For perhaps he is a gentile or a servant. Just as he could have been born by a Jewish mother, he could have been born by one of these. We do not consider the degree of probability involved.
+
 [^87]: Needless to say, such relations are forbidden. The Rambam is emphasizing that punishment is not meted out. Because punishment is not given unless we are certain there is a prohibition involved.  
     The Ra'avad differs with the Rambam's view and maintains that even with regard to capital punishment, we follow the probability. Hence if the majority of the inhabitants of the city are Jewish, we assume that the *asufi* is Jewish and his consecration of the woman is binding. The *Maggid Mishneh* justifies the Rambam's ruling, explaining that in all instances, the *asufi* is not considered as definitely Jewish.
+
 [^88]: A woman who could be a close relative with whom relations are forbidden. See the following halachah.
+
 [^89]: For perhaps the woman he marries is his sister (since he does not know the identity of his father, it is possible that her father was also his father) or the sister of his father.
+
 [^90]: I.e., before she was divorced or widowed her husband (or her husband's brother) fathered the *shituki*.
+
 [^91]: The license the Rambam speaks about applies according to Scriptural Law. According to Rabbinic Law, a *shituki* is forbidden to marry a native-born Jew or Jewess (Halachot 21-23).
+
 [^92]: See Halachah 11.
+
 [^93]: *Yevamot* [[Yevamot 37#37b|37b]]. The verse refers to a situation where a father allows his daughter to act promiscuously and thus it will not be known who is the father of her child. If this would happen in numerous instances, there would be many children who did not know the identity of their fathers and it would be possible for a brother to marry his sister.
+
 [^94]: For if a man who did not know the identity of his father were restricted in the above manner, there would be no room for our Sages' concern, for he would be prohibited against marrying any woman whose ties could in any way be incestuous.
+
 [^95]: I.e., from the fact that our Sages did not enforce such a restriction.
+
 [^96]: Before the child was brought home.
+
 [^97]: It was customary in the Talmudic era to apply salt to newborn babies to strengthen their limbs.
+
 [^98]: This substance was used in the Talmudic era for both medicinal and cosmetic purposes.
+
 [^99]: I.e., the mystical writing in the amulet was intended to protect the child.
+
 [^100]: We assume that a mother may want to abandon a child who is a *mamzer* so that it will die and there will be no sign of her sin. If, however, she and/or the father performed acts which indicate that they desired the child to live - even though they did not desire to care for it themselves - we assume that the child was of legitimate origin.
+
 [^101]: I.e., in a place where it would most likely die or be killed.
+
 [^102]: See Chapter 12, Halachot 22-23.
+
 [^103]: The *Beit Shmuel* 4:60 explains that generally, the protest of one witness is not accepted against testimony which was previously accepted. In this instance, however, the child's identity is not known at all and there is no existing presumption regarding his status. Hence the protest cancels out the original testimony.
+
 [^104]: Even though the midwidfe said that he was a *mamzer*.
+
 [^105]: If the midwife said he was of this lineage.
+
 [^106]: I.e., it is possible that one of them will be acceptable and one illegitimate.
+
 [^107]: For the child takes on the blemished identity, as stated in Halachah 7.

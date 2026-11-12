@@ -95,56 +95,101 @@ If, by contrast, she washes in a bath - even if all the water in the world passe
 For this reason, she should not eat with him from the same plate, nor should he touch her flesh, lest this lead to sin. Similarly, she should not perform these three tasks for him during her seven "spotless" days. It is permitted for a woman to adorn herself during her "days of *niddah*," so that she does not become unattractive to her husband. ^11-19
 
 [^1]: I.e., to the Temple in Jerusalem. See *Hilchot Mamrim*, chs. 1 and 4, which discuss the authority of the Supreme *Sanhedrin* and how it served as the final governing body for Jewish Law.
+
 [^2]: Chapter 4, Halachah 4.
+
 [^3]: As stated in Chapter 5, Halachah 7-12, in the Talmudic era, our Sages felt capable of distinguishing between different shades of red and were able to identify some shades as pure and others as impure. In the Rambam's era and certainly in later ages, the Rabbis felt incapable of making such distinctions.
+
 [^4]: The *Maggid Mishneh* relates that the Rambam did not clarify his statements concerning this Rabbinic ordinance because it was only a temporary measure. It does not reflect Scriptural Law, nor does it reflect Rabbinic Law as practice, because it was later supplanted by the stringency Jewish women accepted upon themselves as stated in the following halachah.  
     To explain: *Niddah* [[Niddah 66#66a|66a]] relates that Rabbi Yehudah *HaNasi* ordained that any woman who discovers uterine bleeding should wait six "spotless" days before immersing herself . If, however, she discovers bleeding for three consecutive days, she must wait seven "spotless" days. Thus if the bleeding had come in her days of *niddah*, she would have waited the seven days required by Scriptural Law (the day she discovered the bleeding and the six "spotless" days). And if the bleeding had come in her days of *zivah*, all that is required by Scriptural Law is for her to wait one spotless day. This is the ordinance to which the Rambam referred.
+
 [^5]: The stringency implied by this practice is that even if bleeding is sighted for only one day, the woman counts seven "spotless" days.
+
 [^6]: According to Scriptural Law, there is no need for her to count seven "spotless" days in such a situation. Instead, she may immerse after the seventh day regardless. Nevertheless, women accepted this stringency upon themselves.
+
 [^7]: I.e., according to Scriptural Law, a *zavah* may immerse herself during the day on the seventh day. She need not wait until evening. Nevertheless, since a *niddah* is required to wait until the evening to immerse herself, women standardized their conduct and ordained that all immersion be performed at night unless there are extenuating circumstances. Note, however, Halachah 17.
+
 [^8]: Chapter 4, Halachah 8.
+
 [^9]: Chapter 7, Halachah 5.  
     According to Scriptural Law, if a women is not a *zavah* when she gives birth, she may immerse herself after seven or fourteen days, even if she was bleeding the entire time. In the Talmudic era, however, it became customary to observe the stringency described by the Rambam. The rationale is that since every discovery of bleeding renders her a *zavah*, she is always considered as having given birth in that state (*Maggid Mishneh*).  
     When quoting this law, *Shulchan Aruch* (*Yoreh De'ah* 194:1) emphasizes that this practice does not supplant Scriptural Law. Thus if a woman counts seven "spotless" days directly after giving birth to a girl, she must still wait the fourteen days required by the Torah before immersing.
+
 [^10]: *Eretz Yisrael*.
+
 [^11]: Morocco and North Africa.
+
 [^12]: The Hebrew term used by the Rambam has a specific meaning, the days between the seventh and fortieth days after a woman gives birth to a male or the days between the fourteenth and eightieth days after she gives birth to a female.
+
 [^13]: Chapter 7, Halachah 7.
+
 [^14]: Whose halachic tradition differed from that of the Sephardic community in many particulars.
+
 [^15]: The Rambam is referring to one of the principles mentioned in his introduction to the *Mishneh Torah*: Laws ordained by the Sages of the Talmud must be accepted universally throughout the Jewish community. Laws ordained by later authorities are subject to the halachic review of the local authorities.  
     The Rama (*Yoreh De'ah* 194:1) writes that it has already become universal Jewish practice to forbid relations when a woman discovers bleeding during her days of purity.
+
 [^16]: I.e., the first time the couple engage in relations. As explained in Chapter 5, Halachot 18-25, according to Scriptural Law, hymeneal bleeding does not represent any difficulty for it is not at all related to *niddah* or *zivah*. Hence, according to Talmudic Law, when the wife is a minor, the couple may engage in relations until the hymeneal bleeding ceases. Even a girl who gets married at the age of twelve is granted certain leniency. The later Rabbis, however, required all couples to separate because of hymeneal bleeding.  
     The *Maggid Mishneh* emphasizes that the groom may complete relations and withdraw while erect even if he knows that bleeding has commenced. Although our Rabbis ordained this stringency, they did not apply it to the first time the couple engaged in relations.  
     He also states that even if no bleeding is discovered, if the bride was a virgin, we assume that there was a slight amount of blood that was not noticed and rule that she is impure. These laws are quoted by *Shulchan Aruch* (*Yoreh De'ah* 193:1).
+
 [^17]: I.e., if all the hymeneal blood was not released during the first time the couple engaged in relations and bleeding was discovered after subsequent relations.
+
 [^18]: The day after she consents is the first of these seven days. If she becomes engaged and there is a considerable time between the engagement and the marriage, the days are counted from the time wedding preparations are made in earnest (*Maggid Mishneh*; *Shulchan Aruch* (*Yoreh De'ah* 192:1-2).
+
 [^19]: This stringency applies to a young girl who never menstruated or an older girl who already experienced seven "spotless" days after her last menstruation.
+
 [^20]: The *Kessef Mishneh* and the *Maggid Mishneh* maintain that the Rambam would agree that not only relations, but also remaining alone with one's wife is forbidden in this situation. The Ra'avad and the *Tur* (*Yoreh De'ah* 192) infer that the Rambam is not paying heed to this prohibition. Hence, they differ with his ruling.
+
 [^21]: In Chapter 9.
+
 [^22]: The Rambam is saying that for a stain a woman is not required to make a *hefsek taharah* or count seven days. Instead, it is sufficient for her to count six "spotless" days as described in Halachah 3 and notes. For as he explains, the discovery of a stain is not the same as the discovery of bleeding.  
     The Ra'avad differs with the Rambam and maintains that the laws applying to the discovery of bleeding also apply with regard to the discovery of a stain. The *Maggid Mishneh* offers theoretical support for the Rambam's approach, but states that since other *Rishonim* follow the Ra'avad's view, we should be stringent and accept it. This opinion is followed by *Shulchan Aruch* (*Yoreh De'ah* 188:3, 190:1).
+
 [^23]: See Chapter 5, Halachah 15; Chapter 10, Halachah 8.
+
 [^24]: The Rambam maintains that the Rabbis did not issue a decree concerning such a situation, nor was this included in the stringency which Jewish women accepted upon themselves. The Ra'avad differs, explaining that in the present era, we are not knowledgeable concerning the distinctions between the forms which our Sages made. Hence, because of the doubt, we rule that a woman is impure after any miscarriage.  
     In this instance as well, the Ra'avad's view is accepted by the Ramban and the Rashba and is cited as halachah by *Shulchan Aruch* (*Yoreh De'ah* 194:3).
+
 [^25]: See Chapter 5, Halachah 6. This ruling is accepted by all authorities.
+
 [^26]: See Chapter 5, Halachah 13. This ruling is also disputed by the Ra'avad and other *Rishonim*. For they maintain that it is impossible for the uterus to open without there being any bleeding. This view is accepted by *Shulchan Aruch* (*Yoreh De'ah* 194:2).
+
 [^27]: See Chapter 4, Halachah 20.
+
 [^28]: See Chapter 5, Halachah 17. Other Rabbis also do not require stringency with regard to these matters in the present age.
+
 [^29]: As stated in Halachah 3, the later Rabbis felt incapable of distinguishing between different shades of red as the Sages of the Talmud were capable of doing.
+
 [^30]: The Rama (*Yoreh De'ah* 196:11) also mentions the practice cited by the Rambam. He also negates it saying: "There is no reason for the practice. A person who is lenient earns a reward and hastens his [involvement in] the mitzvah."
+
 [^31]: Although the halachic authorities are unanimous in their support of the Rambam's ruling. The custom he quotes has a Rabbinic source in *Midrash Tanchuma, Parshat Metzora,* sec. 7.
+
 [^32]: The Rama (*loc. cit.*) mentions that the Ashkenazic custom is not to begin counting seven until the fifth day after the woman discovered menstrual bleeding.
+
 [^33]: By this practice, they distort the meaning of Leviticus, ch. 12, as interpreted in Chapter 4, Halachah 5.
+
 [^34]: For as indicated by the association with the Sadducees, they undermine the authority of the Oral Law.
+
 [^35]: A deviant sect which tried to sway our people from Jewish practice by denying the authority of the Oral Law.
+
 [^36]: For an immersion can be disqualified when there are substances intervening between one's flesh and the waters of a *mikveh*. See *Hilchot Mikveot* 1:7 and the laws that follow.
+
 [^37]: As explained in Halachot 3 and 4 and notes.
+
 [^38]: Since a *niddah* or a *zavah* does not change her state if she immerses herself before the required time, we apply this same ruling to a woman in the present age.
+
 [^39]: I.e., after sunrise.
+
 [^40]: We fear that she may discover uterine bleeding after engaging in relations, but before nightfall, and thus nullify the entire seven "spotless" days. In that instance, her immersion is of no consequence.
+
 [^41]: For according to Scriptural Law, a *zavah* may immerse at this time, as stated in Chapter 6, Halachah 11. And if the woman is a *niddah*, she may certainly immerse according to Scriptural Law, for the time of her impurity has passed.
+
 [^42]: This and the following restrictions were imposed lest they lead to relations, as the Rambam states in the following halachah.
+
 [^43]: The Ra'avad states: "Our custom is that [they may not eat] even on the same table." The *Shulchan Aruch* (*Yoreh De'ah* 195:3) quotes the Ra'avad's ruling, but offers the following leniency. One may place an object between the two to make a distinction.
+
 [^44]: In Halachah 16.
+
 [^45]: Implied is that if he is not present, she may make his bed. Outside his presence, making his bed is a household task. In his presence, it could suggest an invitation for intimacy. See *Shulchan Aruch* (*Yoreh De'ah*, ch. 195) and commentaries for a further delineation of stringencies that must be observed until a woman purifies herself.
+
 [^46]: I.e., relations.

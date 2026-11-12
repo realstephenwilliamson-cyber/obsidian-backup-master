@@ -19,8 +19,11 @@ goddesses (*kuleśvarī* ) headed by Sarvasiddhipradā,[^11] ten goddesses heade
 It has been already pointed out by Sanderson and also Golovkova that the mature cult of Tripurasundarī developed against the backdrop of the *nityā* cult, evidence for which is available in the *Nityākaulatantra* and the *Siddhakhaṇḍa* of the *Manthānabhairavatantra*. In those texts Tripurasundarī is accompanied
 
 [^11]: Again, the list can be completed with the help of the *Vāmakeśvaratantra*, but these goddesses are here simply called *śakti*s. The other nine following Sarvasiddhipradā are: Sarvasampatpradā, Sarvapriyaṃkarī, Sarvamaṅgalakāriṇī, Sarvakāmapradā, Sarvaduḥkha-vimocinī, Sarvamṛtyupraśamanī, Sarvavighnanivāriṇī, Sarvāṅgasundarī, and Sarvasau-bhāgyadāyinī (cf. 1.169–171).
+
 [^12]: Sarvajñā is followed by Sarvaśakti, Sarvaiśvaryapradāyinī, Sarvajñānamayī, Sarvavyādhi-vināśinī, Sarvādhārasvarūpā, Sarvapāpaharā, Sarvānandamayī, Sarvarakṣāsvarūpiṇī, and Sarvepsitaphalapradā (cf. *Vāmakeśvaratantra* 1.173–175).
+
 [^13]: The names of these eight can be retrieved from the *mantroddhāra* section of the *Vāmakeśvaratantra* (cf. 1.77–80). They are Vaśinī, Kāmeśvarī, Modinī, Vimalā, Aruṇā, Jayinī, Sarveśvarī, and Kaulinī.
+
 [^14]: Neither the *Vāmakeśvaratantra* nor any of the *paddhati*s of that tradition give visualisations of these deities.
 
 *[p. 368]* ^pg403
@@ -32,6 +35,7 @@ The inclusion of Śaṅkhanidhi and Padmanidhi (verse 6), Padmā (verse 7), and 
 Now I come to the issue of the poet’s identity. The fact that he is a king and was perhaps somewhat distressed at the time of composition of the *stuti* can be known from the text itself (cf. verse 40). Furthermore, in the colophon the text is attributed to Mahārājādhirāja Vidyādharacakravarti Vatsarāja.[^16] Apparently, the first epithet is royal—he is the king of great kings—while the second is mantric: he is sovereign among the *vidyādhara*s, who are supposed to possess esoteric mantric knowledge and due to this have supernatural powers. Vatsarāja is his personal name. The most famous Vatsarāja, the mythical king of Ujjayinī, does not fit the context. Another is King Vatsarāja of the Gurjara-Pratihāra dynasty (c. 775–805 ce), the father of Mahārājādhirāja Nāgabhaṭa II (805–833 ce). Vatsarāja is always called *paramamāheśvara*, but in the Pra-tāpagaḍh Stone Inscription of Mahendrapāla II (dated Year 1003 = 946 ce),
 
 [^15]: cf. Sanderson 2009, 47–49; Golovkova 2012, 816–817.
+
 [^16]: It is interesting to note that a fifteenth-century inscription from Vijayanagara remembers a king called Vatsarāja blessed by Tripurāmbā. As Sinopoli (2010, 22) cites, “ ‘As Vani blesses king Bhoka, Tripuramba king Vatsaraja, and Kali king Vikramarka, so does Pampa now bless Devaraya’ (trans. Rajasekhara 1992: 27).”
 
 *[p. 369]* ^pg404
@@ -57,9 +61,13 @@ a. sarvānugrāhiṇīṃ\] *em*.; sarvān grāhiṇī Ms. d. °karīṃ\] *em*.
 I revere the Nityā Śakti of the Lord, i.e. Paramaśiva. She possesses all powers and carries out the five tasks \[for him\].[^21] She bestows grace upon all, is eternal, and is the motherly origin of all good.
 
 [^17]: cf. Sircar 1983, 251.
+
 [^18]: There is another poet of the same name who flourished in the second half of the twelfth and the first quarter of the thirteenth century ce (cf. Dalal 1918, vi–vii), but he is a minister, not a king. He served the Kālañjara King Paramardideva and wrote some dramatic pieces. Six of such pieces have been published in one volume under the title *Rūpakaṣaṭkam* (see Dalal 1918). He does not mention Nityā, Sundarī, or Tripurasundarī in his dramas.
+
 [^19]: The manuscript begins with an invocation, ||*oṃ namo gaṇapataye*||, preceded by a *siddhi* sign. I do not think that this invocation is part of the text.
+
 [^20]: The manuscript reads *niḥśāmānanda*- and I have emended it to *niḥsīmānanda*. I have found this compound used at least in one more text, the *Adhikaraṇasārāvalī* of Vedāntadeśika.
+
 [^21]: The five tasks of Śiva include punishment (*nigraha*) and grace (*anugraha*), besides creation, maintenance, and destruction.
 
 *[p. 370]* ^pg405
@@ -91,7 +99,9 @@ I worship the three-eyed sharp-natured Kṣetreśa. His body is black, he has de
 I resort to Śaṅkhanidhi and Padmanidhi, who who sit upon a conch and lotus \[respectively\] as their seats. They are patient, bear the gestures of generosity and protection in their hands, and bring about everyone’s dreams.
 
 [^22]: *pāramaiśvarya*° is equally possible.
+
 [^23]: Finding the manuscript reading *pāṇipādan tu nanditam* problematic, I have conjectured *pāṇipadmaṃ tu maṇḍitam*.
+
 [^24]: This description reveals that Kṣetreśa has the form of Bhairava. I assume that he is Baṭuka-bhairava on the basis of his Bhairava-like appearance and companionship with Gaṇeśa.
 
 *[p. 371]* ^pg406
@@ -326,7 +336,9 @@ c. itthaṃ trikā°\] *conj*.; itthan nrikā° Ms. ● °dvayāṅke\] *em*.; �
 O goddess, though you are one and simple,[^28] you are \[also\] nine,[^29] you are ten, you are again ten, and again you are fourteen. Thus you, the benefactor of poets, dwell in the sea of Śaktis marked with forty-three triangles.
 
 [^27]: These two verses depict the goddess as the stream of consciousness or immortality in the human body, known widely as Kuṇḍalinī, originating from the *brahmarandhra*, the abode of Śiva, flowing through various channels and reaching to the six bases. It is in this light that these verses should be read.
+
 [^28]: I have conjectured *api* in place of *asi* to provide a concessive tone. Perhaps this is not even necessary. In any case, on her own the goddess is singular and unembellished, but the poet appears to imply that all goddesses in different retinues of the Śrīcakra are her projections.
+
 [^29]: The central triangle and the immediately following retinue of eight triangles are obviously counted together as nine.
 
 *[p. 379]* ^pg414
@@ -367,6 +379,7 @@ O Goddess! With your energy the sun burns, the moon expands the immortal essence
 *sadyo bhavanti na bhavanti samastamūrter unmīlanena tava devi nimīlanena*|| 37a ||\][^32]
 
 [^31]: The underlying digit of the moon (*antaścarī śaśikalā*) in all likelihood is the sixteen innermost digit beyond the waning and waxing process.
+
 [^32]: The late Pundit Vraja Vallabha Dwivedi (1985, 45) presents this verse in his preface (originally written in 1968) to the *Nityāṣoḍaśikārṇava* as cited in the *Aruṇāmodinī* commentary of the *Saundaryalaharī* and attributed to the *Kāmasiddhistotra* of Vatsarāja (cf. Śāstrī 1957, 221), and suggests that it should be located in the Nepalese palm-leaf manuscript of the text (the same manuscript I am editing now). However, in 1983 in the *Luptāgamasaṃgraha*, a collection of citations from lost Āgamic texts he prepared, he writes that the verse is not found in the palm-leaf manuscript and so must come from a different text (cf. Dwivedi 1983, 25). I think Dwivedi arrived at this conclusion without reading the implied name of the *stuti*. The author of the *Aruṇāmodinī* writes that it is a verse from the *Kāmasiddhistotra* of Vatsarāja, and the same name is alluded to in the last verse of our text. I conclude that the verse therefore belongs to this text even though it is not found in the palm-leaf manuscript. I assume that it was dropped in the process of transmission. It is thus just possible that there are still a few more verses missing from the latter part of the *stuti*.
 
 *[p. 381]* ^pg416
@@ -390,7 +403,9 @@ Any person who is hanging on to the ultimate \[reality of yours\] (*paramapravil
 *abhyarcya devi bhavatīṃ vibhavāmi bhūmim āmnāyadarśitapathena yathā-kathañcit* |
 
 [^33]: Our poet is using the root *spṛś* as if it belongs to the fourth class. We cannot emend it to *saṃspṛśati*, because that would be unmetrical.
+
 [^34]: The word *vibhu* is treated here clearly as a noun.
+
 [^35]: This reminds me of a verse attributed to the now lost *Trikahṛdaya* and cited by Kṣemarāja in his commentaries (e.g., *Śivasūtravimarśinī*, p. 9): *svapadā svaśiraśchāyāṃ yadval laṅghi-tum īhate | pādoddeśe śiro na syāt tatheyam baindavī kalā ||*.
 
 *[p. 382]* ^pg417
@@ -445,6 +460,7 @@ Mindful men call you Kledanī, Kulakuṇḍalinī, Kā, Nityā, Nīti, Nau,[^36]
 a. °kalāṃ\] *em*.; °kalā Ms. b. bālām atulya°\] *em*.; bālātulya° Ms. (*unmetrical*) ● °bahumaṅ-galāḍhyām\] *conj*.; °bahu\[pa\]lāḍhyā MSpc, °bahulāḍhyā MSac (*both unmetrical*) cd. °hetum ādyāṃ°\] *em*.; °hetuṃm ādyāṃ Ms.
 
 [^36]: The original reading of the manuscript *gaurīti* is unmetrical. The scribe has corrected it to *gaur iti* which is just possible, but I conjecture *naur iti* because of the following word *nāviketi*. Thus, also, the syllabic rhyme of the line is restored.
+
 [^37]: Thus, there are three deities in this tradition who can be called by this name: the chief goddess Nityā, one of the goddesses in the central triangle, and one of the goddesses of speech in the retinue of eight triangles.
 
 *[p. 384]* ^pg419
@@ -557,7 +573,9 @@ omy between ‘inner’ and ‘outer’ processes in terms of gnosis and ritual:
 Although many of Abhinavagupta’s citations of the *BraYā* may be identified precisely,[^4] in this case the passage he had in mind remains uncertain. *BraYā* 87.140 is perhaps the strongest candidate:
 
 [^2]: Personal communication, 2003.
+
 [^3]: *Tantrāloka* 15.42–43b: *śivābhimānitopāyo bāhyo hetur na mokṣadaḥ | śivo ’yaṃ śiva evāsmīty evam ācāryaśiṣyayoḥ || hetutadvattayā dārḍhyābhimāno mocako hy aṇoḥ |* (“Conviction of one’s identity with Śiva is the means; no external cause bestows liberation. ‘He is Śiva, and I am nothing but Śiva’: \[in the rite of initiation,\] this firm conviction of the guru and disciple is indeed what liberates a soul, by way of \[the guru’s conviction\] being the cause and \[the disciple’s\] the effect (? *hetutadvattayā*)”).
+
 [^4]: See Hatley 2018, Appendix B.
 
 *[p. 389]* ^pg424
@@ -579,7 +597,9 @@ It is conceivable that Abhinavagupta has conflated these two sources, though he 
 Regardless of which passage Abhinavagupta had in mind, a point of significant interest emerges from considering this question, namely that the *Tantrāloka*, *Tantrasadbhāva*, and *Brahmayāmala* all appear to mean something different by the distinction between *adhyātma*, “inner/directed towards the self,” and *bāhya*, “external.” For the *Tantrasadbhāva*, the performative acts and paraphernalia of ritual have superior, inner (*adhyātma*) equivalents: the outer (*bāhya*) finds its true meaning in the inner processes of yoga. Thus, for instance, in the section of *Tantrasadbhāva* 6 quoted above in excerpt, the external rosary made
 
 [^5]: See the discussion in Hatley 2018, 100–104.
+
 [^6]: For the full passage with critical apparatus, see note 8 below.
+
 [^7]: *Tantrasadbhāva* 6.218d—*tadbhāvabhāvabhāvitaḥ* (or *tadbhava*°)—is unmetrical and problematic; I have understood *tad* as *tayoḥ*, referring to the pair of *adhyātma* and *bāhya* (inner and outer).
 
 *[p. 390]* ^pg425
@@ -587,6 +607,7 @@ Regardless of which passage Abhinavagupta had in mind, a point of significant in
 of conch (*śaṃkha*) has as its inner form the subtle *śaṃkhā* or *śaṃkhiṇī* channel (*nāḍī* ) of the yogic anatomy, which extends into the crown of the head.[^8] The ‘outer’ thus finds true purpose in the ‘inner’ realities of yoga, which supersede the outer entirely. This principle applies to sacred geography as well, for the *Tantrasadbhāva* transposes into the yogic body a series of cremation grounds closely related to those of the *BraYā*.[^9] Access to these inner levels of meaning is a form of knowledge: the inner sacred geography is *understood* ( *jñātavyaṃ*) by those who *know* the self (*viditātmanāṃ*), while only “one who knows \[the identity of inner and outer\] attains success” ( *yo jānāti sa siddhyeta*). Knowledge ( *jñāna*) thus transforms ritual into an inner process through which it
 
 [^8]: *Tantrasadbhāva* 6.217–220b (based on the draft edition of Marc Dyczkowski, which reports the readings of three manuscripts, k, kh, and g): *ete cāṣṭādaśa proktā akṣasūtrā bahisthitāḥ* | *adhyātme ca gatās tv ete sāṃprataṃ tān nibodha me* ||217|| *adhyātmaṃ bāhyato dṛṣṭvā bāhyam adhyātmasaṃsthitam* | *yo jānāti sa siddhyeta tadbhāvabhāvabhāvitaḥ* ||218|| *ekaivādhyātmagaṃ sūtraṃ prāg eva kathitaṃ mayā* | *śaṃkhāvartā tu yā nāḍī śikhānte tu vyavasthitā* ||219|| *tena śaṃkhamayī proktā akṣasūtraṃ varānane* | 217b *bahisthitāḥ*\] em.; *vahisthitā* k, kh, g 217c *tv ete*\] k, g; *tvate* kh 218a *adhyātmaṃ*\] corr.; *adhyātma* mss. 218b °*saṃsthitam*\] em. (Dcyzkowski); *saṃsthitā* mss. 218d *tadbhāva*°\] k; *tadbhava*° kh, g 219b *prāg eva*\] kh; *prog eva* k, g 219c *śaṃkhāvartā*\] kh; *saṃkhyāvartā* k, g 219d *śikhānte tu*\] k, g; *śikhāntera* kh 220a *śaṃkhamayī* \] k, g; *śaṃkhamayaṃ* kh 220b *akṣasūtraṃ*\] em. (Dyczkowski); *makṣasūtraṃ* mss. On *śaṃkhāvartā* as a *nāḍī*, see *Amaraughaśāsana* 60, which describes it as “having the measure of a lotus fibre” (*mṛṇālasūtraparimāṇā*). The more commonly attested name is *śaṃkhiṇī*.
+
 [^9]: See especially *Tantrasadbhāva* 15.62–67: *prayāgā nābhisaṃsthā tu varuṇā hṛtpradeśata\[ḥ\]* | *kolagiryāṃ tu kaṇṭhasthaṃ bhīmanādaṃ tu tāluke* ||65|| *bindusthāne jayantyāṃ tu nādākhye tu caritrakam* | *ekāmrakaṃ śaktimadhye jñātavyaṃ viditātmanām* ||66|| *guruvaktragataṃ proktaṃ koṭivarṣaṃ tathāṣṭamam* | *ete sthānā mayā proktā adhyātme pudgalāśrayāḥ* ||67|| For those who know the Self, Prayāga should be understood as located in the \[cakra of the\] navel, Varuṇā \[i.e. Vārāṇasī\] in the heart region, Kolagiri in the throat, Bhīmanāda in the palate, Jayantī in the place of Bindu, Caritra in \[the plexus\] called Nāda, and Ekāmraka in \[the plexus of\] Śakti. The eighth, Koṭivarṣa, is likewise said to be in the Mouth of the Guru. These are the places I have declared to be present in the person internally (*adhyātme*). This list of eight *pīṭha*s overlaps with the nine *śmaśāna*s or *pīṭha*s of the *BraYā*’s principal maṇḍala (as outlined in chapter 3; see Kiss 2015, 24); however, it corresponds more precisely to the eight delineated in *BraYā* 87 (see Hatley 2018, 134, table 1.16). Cf., also, *Tantrasadbhāva* 15.70: *kulūttamoḍḍiyānaṃ ca eruḍī pulivallabham | tāny eva tu samastāni* \[em.; *saman tāni* mss.\] *svadehe saṃsthitāni tu ||*.
 
 *[p. 391]* ^pg426
@@ -605,9 +626,13 @@ Knowledge is here conceptualized neither in processual nor gnostic terms: *jñā
 The *BraYā* likewise embraces the twofold division of *kriyā* into inner and outer—*adhyātma* and *bāhya*—which refer in its usage to subjective processes performed mentally and to the somatic performance of ritual, respectively. In contrast to the *Tantrasadbhāva*, the *BraYā* draws no overt hierarchy between the two. The inner does not represent a higher meaning or reality; the inner and outer rather represent complemetary arenas for the performance of ritual whose integration is essential. The inner and outer find their fullest integration in the performance of *yāga* or *yajana*, “pantheon worship,” the paradigmatic mode of ritual whose limitless possibilities for inflection account for much of the *BraYā*’s bulk. Yet the principle of their unity applies widely, extending to all
 
 [^10]: *phaladā*\] em.; *phaladāḥ* mss.
+
 [^11-p391]: Cf. Śrīkaṇṭha’s *Ratnatrayaparīkṣā*, 129ab: *kriyā hi phaladā puṃsāṃ na jñānaṃ syāt phalapradam*.
+
 [^12-p391]: *smṛtā*\] em.; *smṛtāḥ* mss.
+
 [^13-p391]: *bāhyā*\] em.; *bāhya* mss.
+
 [^14-p391]: °*vratādibhiḥ*\] k, kh; *vratedibhiḥ* g.
 
 *[p. 392]* ^pg427
@@ -677,6 +702,7 @@ Paramā/Aghorī (hā)
 Virtually all ritual begins with the instruction to enter into a state of meditative concentration, called *nirācāra*, and to take on a body of *śakti*, called the *avadhūtatanu*.[^16-p393] Śiva is the *nirācārapada*, “the state beyond regulated conduct,” while the Goddess is *avadhūtā*, “the stainless/unblemished one.”[^17-p393] The *avadhūta*-body, the body of *śakti*, is a body of mantra (*mantravigraha*) engendered by the placement of mantra-syllables in a series of bodily lotuses. The process of taking on the *avadhūta*-body culminates in assumption of one’s inner identity as Kapālīśabhairava at the heart of a maṇḍala of goddesses, all of whom collectively comprise the Nine-Syllable Vidyā. Although framed as a
 
 [^16-p393]: Note, for example, *BraYā* 3.187c–189b: *ekākī vijane tasmiṃ dakṣiṇābhimukhasthitaḥ* ||187|| *muktakeśaś ca digvāsaḥ kṛtanyāso vidhānavit | avadhūtanur bhūtvā nirācāras tu sādhakaḥ* ||188|| *prathamaṃ pūjayed devaṃ karṇṇikāyāṃ paraṃ śivaṃ |*. Cf., e.g., 8.3–4b: *tato hy ekamanā bhūtvā avadhūtatanuḥ sthitaḥ | nirācāreṇa bhāvena yadā paśyati sarvvataḥ* ||3|| *tadā karoti karmāṇi vicitrāṇi mahītale |*; cf. also 47.17c–18b: *tataḥ ekāgracittas tu avadhūta-tanusthitaḥ* ||17|| *nirācāreṇa bhāvena smared vidyāṃ suyantritaḥ |*.
+
 [^17-p393]: *BraYā* 2.2cd: *avadhūtā tu sā śakti nirācārapadaḥ śivaḥ* (= 62.98ab).
 
 *[p. 394]* ^pg429
@@ -688,8 +714,11 @@ First one visualizes the *avadhūtaṃ* (i.e. the *avadhūtā śakti*), whose fu
 Next is installed a second series of seven lotuses, the garland of Yoginīs (figure 16.2b).[^21-p394] In contrast to the first lotus garland, these do not lie in a vertical axis. Three form a kind of girdle: one lotus is placed in the center
 
 [^18-p394]: Concerning the *ādhāraśakti*, see the article on this term in *Tāntrikābhidhānakośa*, vol. I.
+
 [^19-p394]: *BraYā* 4.497c–501b: *adhunā* \[em.; *adhuna* ms.\] *sampravakṣyāmi padmamālāvidhikramaṃ* \[em.; °*vidhiḥ kramaṃ* ms.\] ||497|| *śikhādipādayor antaṃ* \[em.; *antā* ms.\] *avadhūtaṃ vicintayet | navagranthivibhāgena tayā* \[?\] *proktā punaḥ kramāt* ||498|| *navapadmāni saṃ-cintya aṣṭapatrāṇi sādhakaḥ | yuktāni keśaraiś caiva caturvvinsatibhiḥ kramāt* ||499|| *ka-rṇṇikāyāṃ yutānīha cintanīyāni mantriṇā | śikhāpadmaṃ* \[em.; °*padma* ms.*\] samārabhya āsanāni prakalpayet* ||500|| *vakṣyamānena nyāyena padme padme na saṃśayaḥ |*.
+
 [^20-p394]: *BraYā* 4.516–517b: *vāmapārśve tatas tasyā kapālīśasya vinyaset | bījamātraṃ mahāprājña vaktranetrāṅgavarjitam* ||516|| *tasyopari nyased devi bhairavaṃ mantravigraham* |.
+
 [^21-p394]: *BraYā* 4.523c–529.
 
 *[p. 395]* ^pg430
@@ -709,7 +738,9 @@ What renders the lotuses into garlands (*padmamālā*) is the thread which binds
 A concept seemingly unique to the *BraYā*, the *śaktitantu* or *śaktisūtra* receives minimal explication. References to it occur almost entirely in the context of the “method of the lotus garlands” (*padmamālāvidhi*). In what manner the cord connects the lotuses of the three garlands is somewhat ambiguous. For the first garland, whose lotuses form a vertical series, the *śaktitantu* must
 
 [^22-p395]: *BraYā* 4.530–538.
+
 [^23-p395]: *BraYā* 4.532cd: *aṣṭaman tu tathā pṛṣṭhe kalpayen mantravit kramāt*.
+
 [^24-p395]: *BraYā* 4.538: *sarvvāṅge paramā śakti vaktranetrāṅgavarjitā | padmāsananvihīnā tu vinyasen mantravit kramāt ||*.
 
 *[p. 396]* ^pg431
@@ -735,8 +766,11 @@ string them together vertically from crest to feet (figure 16.1). In the case of
 The principal series of nine lotuses spans the body’s axis from crest (*śikhā*) to feet, linked by the *śaktitantu* and thus forming a vertical strand (figure 16.1). This vertical sequence of bodily lotuses connected by a cord of *śakti* has obvious similarities with models of the yogic body in which *suṣumnā nāḍī*, the central channel, links together an ascending series of cakras or lotuses. This ubiquitous paradigm is exemplified by the system of seven cakras common to Śrīvidyā and Haṭhayoga, identified by Sanderson (1988, 687–688) as being first attested in the *Kubjikāmata*. Like the *śaktitantu*, the *suṣumnā* is closely identified with *śakti*, especially in the form of the bodily *kuṇḍalinī*. The *suṣumnā* of yoga and the *BraYā*’s *śaktitantu* both unite a vertical series of lotuses situated at particular “knots” (*granthi*s) in the body, including such standard locations as the crest, forehead, throat, heart, navel, and genital region. While the *suṣumnā* came to be envisioned as a vertical channel extending upwards from the heart, navel region, or base of the torso,[^28-p399] there is an old precedent for the idea that it extends, like the *śaktitantu*, to the feet: the *Mataṅgapārameśvara*, a comparatively early *Siddhāntatantra*, envisions the *suṣumnā* running from
 
 [^25-p399]: *BraYā* 4.530: *bhruvo madhye tataḥ padmaṃ śaktiśūtreṇa pūrvvavat | bheditaḥ -m- āditaḥ* *(?) kṛtvā anyāny api tathaiva hi* ||530||.
+
 [^26-p399]: *BraYā* 4.536cd: *pṛṣṭipadme tu devesi carccikāṃ vinyased budhaḥ*.
+
 [^27-p399]: *BraYā* 4.527c–529: *vīran tu trikapadme tu kaṭipṛṣṭhe tato nyaset* ||527|| *vaktranetrāṅgasa-ṃyuktaṃ vīraśaktyā samanvitaṃ | bījamātraniviṣṭāyāṃ vāmapārśve tathaiva ca* ||528|| *vāmakaṭyādim ārabhya yoginyo vinyaset tathā | vaktranetrāṅgasaṃyuktāḥ padme padme na saṃśayaḥ* ||529||.
+
 [^28-p399]: See *Tāntrikābhidhānakośa*, vol. III, entries for *piṅgalā*, *nāḍī*, *nābhi*, and *nābhikanda*.
 
 *[p. 400]* ^pg435
@@ -748,9 +782,13 @@ It should perhaps be emphasized that the *BraYā*’s series of lotuses do not i
 Nonetheless, while the *BraYā* does not treat the lotus garlands as fixtures of a subtle body, it does posit the existence of such structures: the body’s channels (*nāḍī* ) and vital airs (*vāyu*, *prāṇa*), for instance, and more pertinently, points known as *granthi*s (“knots” or “joints”). A particular series of nine *granthi*s forms the locus for installing the nine lotuses of the primary *padmamālā*. That *granthi*s were considered to be anatomical realities is suggested by their treatment as points in the body rather than as objects to be placed/installed (*nyas*-) in the body or engendered through meditation (*kalp-*, *cint-*, etc.).[^33-p400] Integral to the idea of the *padmamālā* is this correlation between a vertical sequence of
 
 [^29-p400]: *Mataṅgapārameśvara, vidyāpāda* 20.21c–22b: *pādāṅguṣṭhāgrato vyaktā nābhito hṛdayaṃ gatā* || 21|| *suṣumnā nāma sā jñeyā brahmarandhrābjanirgatā |*.
+
 [^30-p400]: *BraYā* 21.125ab: *hṛdaye bhairavo nyasya vaktranetrāṅgasaṃyutaṃ* (understanding *bhairavo* as accusative in sense).
+
 [^31-p400]: In *BraYā* 45.390–397, the sequence of installation (*nyāsa*) for inner worship is from feet (Bhairava) to head (Paramā Śakti). See the notes of Kiss (2015, 281–282).
+
 [^32-p400]: *BraYā* 21.128–129: *nābhyām vai vīra vinyasya tato vāmādi-m-āśṛtāḥ | mekhalākṛtisaṃsthānā kaṭyāṃ vai yoginī nyaset* || 128|| *dakṣiṇāpārśvakaṃ yāvad vāran tu varavarṇini | vaktrane-trāṅgasaṃyuktā kartavyā nātra saṃśayaḥ* ||129||.
+
 [^33-p400]: The *granthi*s are referred to solely by their locations in the body. Take for example *BraYā* 4.564c–565, which specifies the “knot of the throat” (*kaṇṭhagranthi*) as locus for the lotus of goddess Karālī: *anenaiva vidhānena karālīṃ* \[em.; *karālī* ms.\] *vinyaset punaḥ || kaṇṭha-granthigate* \[em.; °*sate* ms.\] *padme nātra kārya vicāraṇāt | nābhipadme* \[em.; °*padmes* ms.\] *tathaiveha caṇḍākṣīṃ* \[em.; °*ākṣī* ms.\] *vinyased budhaḥ ||*. (Emendation of *sate* to *gate* is trivial, given the frequent confusion of *śa* and *ga* in the old manuscript, and the interchangability of *śa* and *sa*.)
 
 *[p. 401]* ^pg436
@@ -760,8 +798,11 @@ lotuses and the body’s nine knots, which are repeatedly described as dividing 
 Although archaic tantric conceptions of the yogic body may have inspired the *BraYā*’s lotus garlands and cord of power, the concept primarily describes the practitioner’s assumption of a divine body of mantra. This *avadhūtatanu*, “body of pure *śakti*,” is formed by lotuses of the three garlands and united by the *śaktitantu*, shown as whole in figure 16.3. This embodies the entire pantheon of deities as well as the hierarchy of ontic levels (*tattvakrama*), from the earth element to *paramaśiva*.[^36-p401] The *avadhūtatanu* taken on by the *sādhaka* mirrors, in part, the mantra-body of the deity as Sadāśiva; his divine form is composed of a garland of nine lotuses pierced by the cord of power, further augmented by a triad of cosmological powers—*vāmā*, *raudrī*, and *jeṣṭhā*.[^37-p401] To assume the
 
 [^34-p401]: Note for instance *BraYā* 21.123c–124b: *śaktitantunibaddhān tu padmamālāṃ* \[em.; *mālā* ms.\] *vicintayet* ||123|| *navagranthivibhāgena tato nyāsaṃ prakalpayet |* (“One should visualize the garland of lotuses as bound by the cord of *śakti*, then one should perform mantra-installation, according to the division of the nine knots \[where are positioned the lotuses\]”).
+
 [^35-p401]: Key to this issue is the question of whether and by what other names the *BraYā* conceives of a central channel (*nāḍī* ). While the *BraYā* does attest the common *nāḍī* triad of *iḍā*, *piṅgalā*, and *suṣumnā*, the expression *suṣumnā* (which in most sources refers to the central channel) occurs only once (18.80) in the earlier stratum of the *BraYā*—its first fifty chapters. Its meaning in later chapters, where it does occur several times, is ambiguous. It may not (always) be the middle channel: it is never specifically designated as such, and *BraYā* 85.138cd seemingly refers to an unmamed middle channel between *iḍā* and *suṣumnā* (*iḍā-suṣumnayor madhye muktimārggānusāriṇī* ). Concerning the early history of *suṣumnā*, see the preliminary remarks of Goodall et al. (2015, 33–34).
+
 [^36-p401]: Note e.g. *BraYā* 45.104ab: *śaktitantu tato dhyātvā śivādyavanigocare*. Similar expressions abound in the *BraYā*.
+
 [^37-p401]: *BraYā* 32.42–46: *evaṃsvarūpasaṃpannaṃ cintayīta sadāśivam* | *evaṃsthito mahādevi ādidevaḥ sadāśivaḥ* ||42|| *svayaṃsthito sthitiṃ kuryā trailokye tu na saṃśayaḥ* | *saṃhāraṃ tu sadā kuryād icchayā caiva saṃharet* ||43|| *dahyātmanaḥ punas sarvaṃ trailokyaṃ sacarācaram* | *sṛjate tu yadātmānaṃ trailokyaṃ sṛjate sadā* ||44|| *vāmayā sṛjate sarvaṃ raudryā caiva tu saṃharet* | *jeṣṭhayā ca sthitiṃ kuryā tritattvatanusaṃsthitaḥ* ||45|| *navāṃbhojakṛtāṃ mālāṃ śaktisūtreṇa bheditām* | *navagranthivibhāgena bibhrāṇo parameṣvaraḥ* ||46|| 43d *icchayā*\] em.; *icchayo* ms. 44a *sarvaṃ*\] em.; *savaṃ* ms. 44c *sṛjate*\] corr.; *śṛjate* ms. 45a *sṛjate*\] corr.; *śṛjate* ms. 45c *jeṣṭhayā ca sthitiṃ*\] em.; *jeṣṭayāvasthitaṃ* ms. 46d *bibhrāṇo*\] em.; *bibhraṇau* ms.
 
 *[p. 402]* ^pg437
@@ -777,9 +818,13 @@ While the *sādhaka* seeks apotheosis as Bhairava, the divine body he takes on, 
 The best of *sādhaka*s should install the supreme *sakti* \[hāṃ\] on the entire body, without face, eye, or limb mantras, devoid of a lotus seat; one should \[also\] envision her in each lotus, conjoining/possessing the lotus garlands.
 
 [^38]: E.g. *BraYā* 4.515, concerning the lotus in the forehead of goddess Raktā: *vāmapārśve tatas tasyāḥ kapālīsasya vinyaset | bījamātraṃ mahāprājña vaktranetrāṅgavarjjitaṃ ||*.
+
 [^39]: *BraYā* 1.1b: *dūtīnāṃ padmaṣaṇḍe ’samasukhavilasal liṅgarūpaṃ bibharti*; see the discussion in Hatley 2018, 383–385.
+
 [^40]: *BraYā* 2.17–18: *hākāreṇa parā śaktir etā yasyā vinirgatāḥ | mātaras te mayā proktā yāge ucchuṣmapūjite* ||17|| *yā sā eva mayā proktā mātṝṇāñ caiva pūraṇī | tasyedaṃ kathitaṃ sarvaṃ yaṃ jñātvā nāvasīdati* ||18||.
+
 [^41]: *śaktir*\] em.; *śakti* ms.
+
 [^42]: *varjitā*\] corr.; *varjitāḥ* ms.
 
 *[p. 403]* ^pg438
@@ -795,9 +840,13 @@ The “method of the lotus garlands” (*padmamālāvidhi*) has more and less el
 While the *padmamālāvidhi* represents a basic template for ritual and the empowerment of the body, ritual may be patterned by divergent pantheons, especially the practitioner’s personal pantheon (*svayāga*), a configuration of the mantra-deities established through initiation. These personalized inflections of the root pantheon (the *mūlayāga*) are nine in number, based on the predominance of each of the nine major deities in turn.[^47] In the obligatory daily worship (*nityakarman*) and much other ritual, inner worship (*hṛdyāga*)of this specific pantheon forms the standard preliminary to *bahirnyāsa*, the act of
 
 [^43]: See the discussion of Kiss (2015, 20–22), a section fittingly titled “Where is Caṇḍā Kāpālinī?”
+
 [^44]: This minimal (*svalpa*) form of *nyāsa* is described in *BraYā* 18.75–79.
+
 [^45]: *BraYā* 12.1–3: *athātaḥ saṃpravakṣyāmi āsanaṃ pūrvvam eva hi | yāgaṃ caiva mahādevi sādhakānāṃ hitāya vai* ||1|| *pūrvvokte maṇḍale caiva gandhamaṇḍalake pi vā | puṣpa-maṇḍalake vāpi śaktitantu vicintayet* ||2|| *tasyādho praṇavaṃ dadyā kālāgnin tatra vinyaset* *| kṣīrodaṃ tan tu vinyasya avadhūtaṃ tato nyaset* ||3||.
+
 [^46]: *BraYā* 12.29 ff.
+
 [^47]: Concerning the nine pantheons (*navayāgāḥ*), see the brief remarks in Kiss 2015, 16–18, and the article *navayāga* in *Tāntrikābhidhānakośa*, vol. III.
 
 *[p. 404]* ^pg439
@@ -807,8 +856,11 @@ installing the mantra-syllables upon the body or another substratum, whether the
 Given the integral unity of outer and inner ritual, of somatic acts and subjective processes, the question arises as to whether and in what manner ‘yoga’ represents, for the *BraYā*, a domain of practice meaningfully distinct from ‘ritual’ (*kriyā* or *karman*). The evidence is ambiguous, at least for what seems likely to be the core, early stratum of the text (chapters 1–50, more or less).[^50] Occurrences of the term *yoga* in the sense of meditational practice—often in the phrase *yogamārgeṇa*, “via the path of/by way of meditation”—generally seem synonymous with inner ritual (*adhyātmakriyā*). Chapter 12, for instance, describes the procedure of the inner *padmamālā* as “installation of the *sakti*” (*śaktinyāsa*) through “visualizing by way of yoga” ( *yogamārgeṇa saṃciṃtya*, 12.35cd).[^51] On the whole, meditational disciplines are so well integrated into
 
 [^48]: E.g. *BraYā* 4.366c–367b: *yāgasthānaṃ tato gatya hṛdyāgan tu prakalpayet* ||366|| *svayāgo-tthena mārgeṇa bahi nyāsaṃ tathaiva ca |*. A detailed description of inner worship (*hṛdyāga*) of one’s own pantheon (*svayāga*) appears in *BraYā* 38.24c–31, in this case as a preliminary to fire ritual (*agnikārya*).
+
 [^49]: To give an example, I quote from my remarks on *parakāyapraveśa* (“entry into the body of another”) in *Tāntrikābhidhānakośa*, vol. III: “PBY(H) \[*Picumata-Brahmayāmala*\] 14.254– 263ab describes a practice in which one should fuse ( *yojayet*) the *nāḍī*s of the yogic body with those of a *cakra* of the *kulavidyā*-mantra of this system, inscribed on cloth, metal or wood (PBY(H) 14.240). In this case the purpose is the extraction of ‘nectars’: ‘The *sādhaka*, thus exiting the body through the tip of the nose, should enter the body of another and perform the extraction of nectars, after fusing \[his with the victim’s\] *nāḍī*s; about this, there is no need for deliberation’ (*evaṃ dehā\[d\] viniṣkramya nāsikāgreṇa sādhakaḥ* *|| paradeham vi\[ś\]et mantrī amṛtākṛṣṭiñ ca kārayet | nāḍīsaṃdhānakaṃ kṛtvā nātra kārya vicāraṇāt*, PBY(H) 14.259cd–260).”
+
 [^50]: See Hatley 2018, 64–71, concerning the *BraYā*’s likely stratification.
+
 [^51]: *BraYā* 12.35c–40b: *yogamārggeṇa saṃciṃtya śaktinyāsan tu kārayet* || 35|| *padmāsano-paviṣṭas tu cintayitvā tu sādhakaḥ | avadhūtaṃ nyasen mantrī pādayor ubhayor api* ||36|| *pañcātmikā mahādevi guhye caturgguṇan tathā | hṛdayaṃ tṛguṇaṃ nyasya lalāṭe dvigu-ṇaṃ nyaset*|| 37|| *ekātmikā tathā caiva śikhāyāṃ sādhakottamaḥ | sakṛt sakṛt tathā caiva vaktrasthāneṣu vinyaset* ||38|| *netrasthāneṣu vai dadyād aṅgasthāneṣu caiva hi | śaktitantu tato dhyātvā nmastakāt pādayo ntikā* ||39|| *bahirbhūtaṃ śarīrasthaṃ padmamālān tu cintayet |*.
 
 *[p. 405]* ^pg440
@@ -818,9 +870,13 @@ the *BraYā*’s ritual systems that to treat these as a distinct domain of prac
 The *Brahmayāmala* likely has two or more distinct textual strata,[^54] and yoga proves to be an area in which stark contrasts emerge between these: later chapters of the text introduce yogic practices and emphases seemingly unanticipated in the core fifty-odd chapters. These include systems of meditation focused on a series of inner voids and resonances,[^55] a yoga system based on internalization of visionary encounters with the goddesses ( *yogin-īmelaka*),[^56] yogic practices for cheating death (a system which, in contrast
 
 [^52]: These are chapters 36 (*nāḍīsañcārapaṭala*), 41 (*bindupaṭala*), and 44 (*krīḍākarmapaṭala*). The latter, for instance, describes meditation upon the self in the lotus of the heart; merging with bindu, one gains the ability to traverse the universe in various forms. *BraYā* 44.2– 3, 8: *hṛddeśe kamalaṃ dhyātvā vyomapaṅkajasaṃyutaṃ | bindumadhye nyase ’tmānaṃ* \[em.; *nyasen mānaṃ* ms.\] *viśvadeham ayaṃ śubhaṃ* ||2|| *śaktibhiḥ kiraṇopetaṃ tārā-ṣṭakavibhūṣitaṃ | taṃ dhyāyet paramaṃ rūpaṃ bindulīnaṃ śivātmakaṃ* ||3|| … *antarīkṣe tathā bhūmau pātāleṣu ca dehiṣu | anya-m-anyeṣu rūpeṣu vicaren nātra saṃśayaḥ* ||8||. For another example of the separation of meditation and ritual, *BraYā* 24.16c–17b speaks of meditative absorption (*samādhi*) as an activity one may engage in during interludes between the daily rites: *japayukto kṣapen mantrī prāta\[r\]madhyāhṇikottaraṃ* ||16|| *śāstra-saṅgena vā saṃstho atha vā samādhiṣu sthitaḥ* \[em.; *sthitau* ms.\] *|*.
+
 [^53]: *BraYā* 25.341c–342: *kevalasya mahādevi śivasya paramātmanaḥ* || 341|| *bhairavākhyasya saṃprokto yāgo ’yaṃ muktilakṣaṇaṃ | etad yāgatrayaṃ proktaṃ mumukṣo sādhakasya tu* *| nānyaḥ karmanivṛttasya yogamārgasthitasya tu* ||342||. (Perhaps read *anyakarmanivṛtta-sya*, “desisting from other rituals”?)
+
 [^54]: As argued in Hatley 2018, 64–71.
+
 [^55]: Chapters 92 and 99, respectively.
+
 [^56]: Chapter 100.
 
 *[p. 406]* ^pg441
@@ -828,6 +884,9 @@ The *Brahmayāmala* likely has two or more distinct textual strata,[^54] and yog
 to the core chapters, attests the bodily *kuṇḍalinī* ),[^57] and a kind of “yoga of absorption” (*layayoga*) based on the *granthi*s of the principal *padmamālā*.[^58] While not embeded within critiques of outer ritual, these diverse yogas of the text’s later stratum tend to eschew external supports and somatic, performative acts. Far from being disciplines limited to the liberation seeker, these yogas offer the possibility of accomplishing the *sādhaka*’s aims through inner acts alone, potentially superceding outer ritual. This is particularly evident in chapter 100, which teaches a “rite for mastery of the clans of goddesses through yoga” ( *yogena kulasādhanam*). Attainment of direct, power-bestowing encounters (*melaka*) with the goddesses is one of the *BraYā*’s dominant ritual aims, as illustrated by the “rite for the mastery of *vetāla*s” (*vetālasādhana*, ch. 15), “rite of the great churning” (*mahāmanthāna*, ch. 46), “pavilion of power” (*siddhi-maṇḍapikā*, ch. 47), and “worship in the pit \[of power\]” (*\[siddhi\]garttāyāga*, ch. 48). These virtuoso and macabre performances may culminate with the goddesses manifesting bodily before the *sādhaka* and granting boons. Belying this pattern, the yoga of chapter 100 offers the possibility of accomplishing mastery over the clans of goddesses through a process of inner realization alone.[^59] Similarly, the yoga of *BraYā* 99 (called *vijñānapañcaka*, “the five knowledges”) promises the ability to enter the bodies of others without recourse to external supports (*cakra* or *yantra*), through manipulation of a series of inner resonances (*rāva*).[^60] Incorporation of such meditational disciplines into the text’s latter strata marks a trend towards increasing differentiation between meditation and ‘ritual’—between *yoga* and *kriyā*—and the subversion of outer forms of ritual. The possibility of attaining all ritual aims through yoga alone brings the vulgate *BraYā* closer to the *Tantrasadbhāva*’s hierarchical dichotomy of the inner and outer, whereby the externalities of ritual are subsumed by inner realities. It is thus possible in this literature to trace early steps in the direction of Abhinavagupta’s gnostic nondualism, which further overlays the dichotomy of *jñāna* and *kriyā* upon that of inner and outer ritual.
 
 [^57]: Chapter 104.
+
 [^58]: Chapter 53 (cf. 99.19–35).
+
 [^59]: *BraYā*100.2–3b, 25–26: *kulānāṃ sādhanaṃ nātha kathitan tu purā yathā | tat tathā vidi-taṃ sarvaṃ kulasiddhipradāyakam* ||2|| *sāmprataṃ sarahasyan tu yogena kulasādhanam* *| … mātṛyoginikāyāni śākinīnāṅ kulāni tu | sidhyanti sādhakendrasya yogenānena suvrate* ||25|| *yena* \[conj.; *– na* ms.\] *sarvagato bhūtvā yoginīsiddhim āpnuyāt | kathayanti ca sad-bhāvaṃ kulajaṃ jñānam uttamam* ||26||.
+
 [^60]: *BraYā* 99.30cd: *kṛtābhyāsas tu vai mantrī dehād deham vrajet kṣaṇāt ||*.

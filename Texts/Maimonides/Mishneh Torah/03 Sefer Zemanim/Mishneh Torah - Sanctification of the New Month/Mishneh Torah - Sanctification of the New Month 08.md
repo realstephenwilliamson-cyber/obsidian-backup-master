@@ -64,19 +64,33 @@ Whenever Rosh HaShanah is celebrated on the Sabbath or on a Monday, [the months 
 [The following rules apply when] Rosh HaShanah falls on a Thursday. If the year is an ordinary year, it is impossible for its months to be lacking.[^14] If it is a leap year, it is impossible for its months to proceed in order.[^15] ^8-10
 
 [^1]: Chapter 6, Halachah 3.
+
 [^2]: *Megillah* [[Megillah 5#5a|5a]].
+
 [^3]: This supports the Rambam's contention that it is the first Adar that is the extra month of the year. (See the notes on Chapter 4, Halachah 1.)
+
 [^4]: For all the months of the year from Marcheshvan onward proceed in sequence, one full and one lacking.
+
 [^5]: The Rambam gives examples in Halachah 9 to illustrate this situation and those that follow. When there are two days between the days on which Rosh HaShanah is celebrated in successive years, the year is 50 weeks and three days - i.e., 353 days - long.
+
 [^6]: When there are three days between the days on which Rosh HaShanah is celebrated in successive years, the year is 50 weeks and four days - i.e., 354 days - long.
+
 [^7]: When there are four days between the days on which Rosh HaShanah is celebrated in successive years, the year is 50 weeks and five days - i.e., 355 days - long. The remainder of an ordinary lunar year is slightly more than four days, producing a year whose months proceed in order. Frequently, however, the year will contain an extra day, if, because of the reasons mentioned in the previous chapter, the celebration of Rosh HaShanah is postponed. Similarly, it may lack a day, because the celebration of Rosh HaShanah was postponed in the previous year.
+
 [^8]: In such a situation, there will be 54 weeks and five days in the year, a total of 383 days.
+
 [^9]: For there are three days - Friday, the Sabbath, and Sunday - between the days on which Rosh HaShanah is celebrated in the years in question.
+
 [^10]: For there are four days - Friday, the Sabbath, Sunday, and Monday - between the days on which Rosh HaShanah is celebrated in these successive years.
+
 [^11]: For there are only two days between them.
+
 [^12]: As mentioned, Rosh HaShanah cannot fall on Sunday, Wednesday, or Friday. Therefore, in an ordinary year, if Rosh HaShanah falls on a Tuesday, the following year it cannot fall on a Thursday, for then there would be only one day between them, producing a year of only 352 days. Nor can it fall on a Monday, for then the year would be 356 days long. Thus, the only day on which it can fall is the Sabbath, producing a year of 354 days. In such a year, the months proceed in order.  
     When Rosh HaShanah falls on Tuesday in a leap year, it cannot fall on Thursday or the Sabbath in the following year, for that would produce a year that is too short (380 or 382) days. Nor can it fall on Tuesday itself, for Rosh HaShanah falls on Tuesday only when the conjunction takes place not later than Tuesday, before noon. When the remainder of a leap year - 5 days, 21 hours, and 589 units - is added to noon time on Tuesday, the result is that the conjunction of the following year will take place on Sunday. Since Rosh HaShanah is never celebrated on Sunday, the holiday will be postponed until Monday. Thus, the length of the leap year will be 384 days, the length of a year whose months proceed in order.
+
 [^13]: For the months of an ordinary year to proceed in order, the year must be 354 days long. That means that if Rosh HaShanah fell on the Sabbath, it would have to fall on Wednesday in the following year, which is impossible. Similarly, if Rosh HaShanah fell on Monday, it would have to fall on Friday in the following year, which is also impossible.  
     For the months of a leap year to proceed in order, the year must be 384 days long. That means that if Rosh HaShanah had fallen on the Sabbath, in the following year it would have to fall on Friday, which is impossible. Similarly, if Rosh HaShanah had fallen on Monday, in the following year it would have to fall on Sunday, which is also impossible.
+
 [^14]: When the months of an ordinary year are lacking, the year has only 353 days. Thus, if Rosh HaShanah fell on Thursday, it would have to fall on Sunday in the following year, which is impossible.
+
 [^15]: When the months of a leap year are lacking, the year has 383 days. Thus, if Rosh HaShanah fell on Thursday, it would have to fall on Wednesday in the following year, which is impossible.

@@ -71,10 +71,15 @@ The birth of Gaṇeśa (*vināyakotpattiḥ* )
 1 The addition of a chapter on Gaṇeśa in R and A is not wholly unexpected.[^7] The birth of Gaṇeśa is a popular purāṇic story, which is nevertheless conspicuously absent in some demonstrably early *purāṇa*s (in the *Vāyupurāṇa* for instance), just as it is in the earliest known recension of the *Skandapurāṇa*. Gaṇeśa himself is also left out of the critical edition of the *Mahābhārata*, and his role as the scribe of the epic is most probably a later addition.[^8] As numerous studies on Gaṇeśa have shown, this god is a relative late-comer in mythology, even if his cult and image may be dated from around the fourth century of the common era.[^9] It seems that the textual history of Gaṇeśa in the *Mahābhārata* repeated
 
 [^4]: It has been mentioned in SP vol. I. p. 44 that some of the additional material is likely to be old and to have been lost, perhaps accidentally, in a hyparchetype of the Nepalese MSS.
+
 [^5]: Bisschop’s article in this volume presents convincing evidence for the relative lateness of the bulk of the R and A recensions compared to the S recension. See especially his argument about the recurrent vocative of Vyāsa as son of Kālī in R / A as opposed to S.
+
 [^6]: For a discussion on the titles of the R and A recensions, see Harimoto’s article in this volume.
+
 [^7]: For this chapter in the MSS, see fol. 253v4-255r7 in R; 266v1-269r3 in A1; 428v2-431v9 in A2; 166v10-167v16 in A3; 222r6-223v6 in A4. For a description of these MSS, see SP vol. I. pp. 34-35.
+
 [^8]: The first to draw attention to this problem was Winternitz 1898, p. 382.
+
 [^9]: For some shorter surveys, see A.K. Narain 1991, Dhavalikar 1991 and Rocher 1991. For useful references and additional details, see also Hazra 1948 and Krishan 1999.
 
 *[p. 3]* ^pg4
@@ -88,9 +93,13 @@ The most important myth in which and through which Gaṇeśa rises to prominence
 The summary of the story is as follows. Śiva comforts the dejected Devī and promises her to beget a child. He then plunges into deep thought and a dwarfish, elephant-like creature arises before him. He bows down in front of Śiva, but lifts up his trunk again and again because he is afraid of snakes entering it. He also pays homage to Umā. When the goddess touches him to make him rise, milk starts flowing from her breasts. Umā asks him to introduce himself, but out of bashfulness, he remains silent. Therefore, Umā requests Śiva to explain who the creature is. Śiva gives a somewhat enigmatic reply, in which he points out that because Umā was abandoned by her husband, she was given this child;[^13] and since the child was born without the husband present (*nāyakena vinā*),[^14] he is called Vināyaka. Moreover, since his nose is as long as an elephant’s trunk, he shall become the king of elephants. Then Śiva bestows his grace upon Vināyaka: he will be immortal, invincible and the like; and he will be able to fulfill wishes. He is also predicted to consume alcohol and meat, and to become a favourite of women, children, cows and the twice-born. He will be worshipped with meat and alcohol offerings, flowers, fragrances etc. In return,
 
 [^10]: The chapter receives the title *Skandābhiṣekavyāsedha* in the colophons, and is to be found on fol. 233v7 ff. in A4.
+
 [^11]: Gaṇeśa is called Skanda’s elder brother, *skandāgraja*, also in *Liṅgapurāṇa* 1.105.30.
+
 [^12]: Let us note that a Gaṇeśa accompanied by Śiva and Kumāra is depicted in Dun Huang, on the western wall of Mogaoku Cave 285. There are two inscriptions on the northern wall, dated 538 and 539 AD. According to Dr Kouki Yamagishi, to whom I am grateful for this information, the images may be dated somewhat earlier than these inscriptions. Thus, it seems that as early as the beginning of the sixth century Gaṇeśa was associated with Śiva’s family. The material on the caves was published in China, between 1993 and 1998. The ISBN of the relevant volume is 7534405572, in which one can also read some introductory remarks by Duan Wenjie on this particular cave. I should also like to thank Y. Yokochi for drawing my attention to this painting.
+
 [^13]: *vinākṛtā nāyakena yat tvaṃ devi mayā śubhe / eṣa tatra samutpannas tava putro* *’rkasaṃnibhaḥ // 25 //*
+
 [^14]: *nāyakena vinā jāto yasmād eva gajānanaḥ / so ’smād vināyako nāmnā bhaviṣyati sureśvari // 26 //* (so ’smād *em* : so smān R : so smad A1A3A4: sā smad A2)
 
 *[p. 4]* ^pg5
@@ -104,8 +113,11 @@ There are three elements in this Gaṇeśa myth which suggest that it is perhaps
 165\. 59b: *grahaṃ grahāṇām api kāryavairiṇam*
 
 [^17]: *vināyakasyemam anuttamodbhavaṃ śubhodayaṃ yaḥ paṭhatīha harṣitaḥ / gaṇeṣu sarveṣu sa vittadapriyo gaṇeśvaras te bhavitā gaṇeśvari* (gaṇeśvari R : gaṇeśvaraḥ A1A2A3: gaṇeśvara A4)
+
 [^18]: For a list of other occurrences and more details on the problem, see Hazra 1948, pp. 263-268.
+
 [^19]: This is unlike in some other stories, such as in that of the *Liṅgapurāṇa* 1.105, in which he is created to remove the obstacles of the gods.
+
 [^20]: ab); *kapole ghrāya vaiyāghrīm idaṃ vacanam abravīt* (23cd); *nr̄. ṇāṃ ca loke lokeśi nityaṃ guṇasukhāvahaḥ* (38ab); *tatraivaṃ mānavā dhanyā dhanārthaṃ dhanadārcite* (39ab); *tam evaṃvādinaṃ devaṃ śarvaṃ sarvasurādhipam* (45ab); *sā taṃ pramathavṛndānāṃ nāyakaṃ vai vināyakam* (48ab); *pūjayiṣyanti ye cainaṃ mānavā mānavārcite* (53ab) However, more examples from other chapters and a statistical comparison would be needed to confirm this statement.
 
 *[p. 5]* ^pg6
@@ -117,7 +129,9 @@ Finally, some purāṇic parallels must be mentioned. Just as in the *Matsya-pur
 As for the etymology of the name Vināyaka, I have found only one parallel: the account of the *Vāmanapurāṇa* (28.41-42). However, apart from the etymology, the *Vāmanapurāṇa*’s story is not related textually to our *Skandapurāṇa*. It must also be noted that the *Vāmanapurāṇa* has a curious version of the narrative in that it presents two explanations of the birth simultaneously and the chapter gives the impression of having undergone much cutting and pasting. Y. Yokochi has drawn my attention to the fact that there are some other parallel stories shared by our *Skanda-* and the *Vāmanapurāṇa*, although the wording is never exactly the same. Thus, it seems that the *Vāmana* was somehow influenced by our *Skanda*, but without borrowing from it in a direct way. The
 
 [^21]: The other, earlier, occurrence (of the late 6th or early 7th century perhaps) can be found in the second opening verse of the fourth Ucchvāsa of the *Harṣacarita*. See also A.K. Narain 1991, p. 31. Narain says in note 126 that the elephantine face is not explicitly mentioned in the *Mālatīmādhava*, but it seems to me that the whole image, particularly the snake taking refuge in Vināyaka’s ‘nose’ and the bees flying up from his temples, implies that Vināyaka has an elephant’s head.
+
 [^22]: *sānandaṃ Nandi-hastāhata-muraja-ravāhūta-kaumāra-barhi-trāsān nāsāgra-randhraṃ viśati Phaṇi-patau bhoga-saṃkoca-bhāji / gaṇḍoḍḍīnālimālā-mukharita-kakubhas tāṇḍave Śūla-pāṇer vaināyakyaś ciraṃ vo vadanavidhutayaḥ pāntu cītkāravatyaḥ //* For a translation, see M.R. Kale 1967, p. \[1\].
+
 [^23]: *Matsyapurāṇa* 154.501-505, using the expression *naraṃ cakre gajānanam*. Here, the goddess fashions Vināyaka from the unguent rubbed on her body (*udvartanaka*), Gaṅgā makes his body grow huge and Pitāmaha appoints him as the leader of *vināyaka* demons. In the subsequent verses, the story in which the Goddess adopts the Aśoka tree as a son is also related, which is a topic treated in SP*Bh* chapter 158. Moreover, the goddess then adopts a *gaṇeśa* called Vīraka, while Vināyaka is not called *gaṇeśa*. There is another passage in the *Matsyapurāṇa* on Vināyaka (260.52-55ab in a chapter on *pratimālakṣaṇa*), which gives his iconography; but that passage is independent of the birth story and probably belongs to a different text layer.
 
 *[p. 6]* ^pg7
@@ -133,10 +147,15 @@ There are three main points for which this chapter is of particular interest: it
 Although the sage is not named in this version, the myth is clearly identifiable with what is otherwise known as the story of the sage Maṅkaṇaka. The oldest version of this story is probably the one in the *Mahābhārata* (3.81.97-118 and 9.37 33-50),[^28] which was taken over almost word for word in the *Padma-* and *Vāmanapurāṇa*s.[^29] The *Skandamahāpurāṇa*’s two versions (SkP 6.40.27-52
 
 [^24]: For this chapter in the MSS, see fol. 242r1-244r1 in R; 407v16-411v9 in A2; 158v2-159v16 in A3; 213r2-214v5 in A4. In A1, the first 14 verses seem to have been lost, and we have the text only from 15 on fol. 250r1. The chapter ends on fol.252v1.
+
 [^25]: *bhūter anugrahaṃ deva kuru bhūtimatāṃ vara* (deva A : caiva R). Note the vocative chosen to fit the context.
+
 [^26]: In Śiva’s words, who relates the story: *tato ’haṃ tasya viprasya priyārthaṃ supriye tadā* */ snātaḥ snānavariṣṭhena snāneneṣṭena sundari* (*snāneneṣṭena* R : *snānānnaṣṭena* A). A does not yield much sense, but R seems to mean that the god takes the bath the sage wishes him to take.
+
 [^27]: These citations have been identified by P. Bisschop, who has kindly drawn my attention to them.
+
 [^28]: The two passages are textually related and represent two variants of basically the same text.
+
 [^29]: See *Padmapurāṇa* 1.18.134-159 and *Vāmanapurāṇa Saromāhātmya* 17.1-23. For a list of various versions, see *Kūrmapurāṇa Pariśiṣṭam* 2. (p.793). The story also appears in *Kūrmapurāṇa* 2.34.
 
 *[p. 7]* ^pg8
@@ -152,10 +171,15 @@ This theme, namely the origin of Śiva’s ashes (*bhasmodbhavaḥ* ),[^32] figu
 Now, if the R and A recensions contain an additional chapter that corresponds to a contents item already listed in the earliest recension, does this imply that the longer R and A recensions go back to an earlier original and that the Nepalese manuscripts have handed down a shortened or less complete text? Although an affirmative answer would be a tempting solution to the problem, a number of elements suggest that this is not the case. Chapters such as the one on Gaṇeśa-Vināyaka – who is never mentioned in the Nepalese recension and is also missing from the contents chapter – point to a later date for the bulk of the material added in R and A.[^35] It should also be considered that the
 
 [^30]: Including the textually unrelated passage in *Vāmanapurāṇa Saromāhātmya* 36.45-58.
+
 [^31]: The story and its relation to other versions of the Maṅkaṇaka myth would deserve more than these cursory remarks. However, the purpose and scope of the present study being different, such an analysis must be postponed to when the text of these *śaiva* chapters is established. I intend to produce a critical edition of the *śaiva* chapters added by R and A, before the chapter on the birth of Skanda (*Skandajanmādhyāya*).
+
 [^32]: Let us note that the *anukramaṇikā* uses the common word *bhasman* for ashes, while the chapter treating this subject in R and A appears to prefer the words *bhūti / vibhūti*. This stylistic difference may again suggest that the additional chapters in R and A come from a different writer or redactor and possibly from a different period.
+
 [^33]: R has a lacuna there, but the contents chapter was most probably there originally. For S, only one manuscript is available, but again, the other S manuscripts have a lacuna at this point, and they probably contained the passage.
+
 [^34]: See e.g. Brockington 1998, p. 135.
+
 [^35]: It is interesting to note that in the *Bhairavotsava* chapter as cited by Lakṣmīdhara (p.417), Pārvatī once receives the vocative ‘mother of the big-bellied (i.e. of Gaṇeśa)’ (*lambodarāraṇi*). The word is also transmitted by Caṇḍeśvara, who glosses it with *vināyakamātaḥ* . This line and some subsequent ones are omitted in A, probably accidentally, while R is very corrupt here and transmits *dattayathāraṇi*. If we accept Lakṣmīdhara’s and Caṇḍeśvara’s reading, the presence of this vocative shows that RA probably included Vināyaka at various levels of the text. Since this vocative of the goddess is neither very common, nor particularly appropriate in the context of the *bhairavotsava*, it may be used by the author or redactor to confirm Vināyaka’s presence throughout the text. It also suggests, although by no means proves, that Lakṣmīdhara’s version may have included the Vināyaka chapter in some form.
 
 *[p. 8]* ^pg9
@@ -187,8 +211,11 @@ Looking at the second quotation, however, it is undeniable that R and A have a d
 In R and A, the following first line can be reconstructed, which is practically identical with Lakṣmīdhara’s:
 
 [^36]: Chapter 114 in SP*Bh*.
+
 [^37]: In the extra passage of R/A (for which see fol. 212r1-213r1 in A4), the second explanation of the black throat is coupled with a topic promised in the contents but left untreated in S: the explanation of why Śiva wears the crescent moon on his head. Thus, while R and A have managed to supply a promised but previously untreated topic in their versions, it resulted in some repetition, in a second story about Śiva’s black throat. For other thematic repetitions in R and A, see Bisschop’s article in this volume.
+
 [^38]: See KK, NK, p.54.
+
 [^39]: Identified in the Prolegomena to SP vol. I. p.12, see GR, p. 204.
 
 *[p. 10]* ^pg11
@@ -206,8 +233,11 @@ As the longer passage on the *Bhairavotsava* will show, Lakṣmīdhara seems to 
 Naturally, at this stage, all this remains a matter of speculation. Nevertheless, while the text Lakṣmīdhara had in front of him was a recension closely
 
 [^40]: This vocative is better, for the Goddess is often called ‘She Who Is Worshipped By Kubera’, see e.g. in the *Vināyakotpatti* chapter, verse 39b: *dhanadārcite*.
+
 [^41]: It must be noted that R’s version retains more of Lakṣmīdhara’s, which is a feature that was emphasised by P. Bisschop 2002, p. 234 when he examined the citation on Avimuk-taka. However, I find that R is not just less corrupt than A, but is closer to Lakṣmīdhara’s text in other respects. This would need further investigations, but some of the following examples may be used to prove this point (all are taken from the *Bhairavotsava* chapter): *tasyāś cintayamānāyā* in R and Lakṣmīdhara, against *tasyā vicintyamānāyā* in A; *hṛdayāmbusamudbhavā* in R and Lakṣmīdhara against *hṛdayāmbujasaṃbhavā* in A; *uṣṇārttām iva padminīṃ* R and Lakṣmīdhara against *uṣṇām / usrām iva payasvinīm* A; *rājamārgeṣu* in R and Lakṣmīdhara against *ratimārgeṣu* in A; *kulastrīṇāṃ* in R and Lakṣmīdhara against *duhitr̄. ṇām* in A; *paṭhed vipro dvijadevasaṃsadi* in R and Lakṣmīdhara against *paṭhen naro dvijasadevasaṃsadi* in A. While in a few cases one could argue that R may be just trying to purify or rationalise the text in the same way as Lakṣmīdhara, this argument is not applicable in all the above cases.
+
 [^42]: These questions are inter-related because one of the criteria to be fulfilled when one tries to find the primary reading is that the change to what is considered to be secondary should be explicable.
+
 [^43]: One must also add that a number of deliberate changes may occur simply when a scribe or redactor is sure he has a corrupt reading in his exemplar.
 
 *[p. 11]* ^pg12
@@ -219,10 +249,15 @@ related to RA, which justifies the preparation of one single edition based on th
 The feast of Bhairava and Udakasevikā, including the story of their birth (*utpattiḥ* ) This chapter[^45] provides a unique opportunity to compare our R and A recensions of the *Skandapurāṇa* with two long citations of dated Dharmanibandha authors: one by Lakṣmīdhara from Varanasi at the beginning of the 12th century[^46] and one by Caṇḍeśvara who wrote his work in Mithilā and/or Nepal, in the first half of the 14th century.[^47] Since it is not very likely that the transmission of Lakṣmīdhara’s *Kṛtyakalpataru* or Caṇḍeśvara’s *Kṛtyaratnākara* has been heavily conflated with the readings of the MSS of the *purāṇa*,[^48] the citations are likely to give independent evidence about the state of the text at two given periods. As our *Skandapurāṇa* became almost completely forgotten a few centuries after Lakṣmīdhara’s time, it is even more unlikely that Lakṣmīdhara’s or Caṇḍeśvara’s citations were much conflated with the evidence of manuscripts other than the manuscripts of these Dharmanibandha works. Nevertheless, this does not exclude other changes: Lakṣmīdhara or Caṇḍeśvara themselves or any of the copyists may have recast some passages, and corruptions must have also crept in during the transmission of the *Kṛtyakalpataru* and the *Kṛtyaratnākara*.[^49]
 
 [^44]: As Bisschop 2002, p. 237 concludes.
+
 [^45]: See fol. 251v3-253v4 in R; fol. 263r5-266v1 in A1; fol. 425r3-428r16 in A2; fol. 165r8- 166v10 in A3; fol. 220r10-222r6 in A4.
+
 [^46]: On Lakṣmīdhara, see e.g. P.V. Kane, vol. I. p. 687ff. For the citation, see KK, NK, pp.413-421.
+
 [^47]: For a discussion and survey, see SP vol. I. pp. 7-13. For the citation, see KR, pp. 386-395.
+
 [^48]: It is not unreasonable to assume that most scribes of Dharmanibandha texts would not work as philologists and that they would not always compare the readings of their text with various purāṇic MSS. They do, however, check readings occasionally.
+
 [^49]: Some corruptions in the manuscript tradition of the *Kṛtyakalpataru* can be reconstructed from the evidence of the R and A MSS, as Bisschop 2002, pp. 233-234 showed with reference to an example in which R has the correct \[’\]*vimuktake* for Lakṣmīdhara’s corrupt *vimuktaye* according to the edition of the *Kṛtyakalpataru*. Ideally, one should of course prepare a critical edition of the *Kṛtyakalpataru* to make such comparisons, as Bisschop remarks thereon. Let us note here that some linguistic features have probably been changed deliberately, either by a Dharmanibandha author or by a scribe in the transmission, in order to purify the Sanskrit of our text. One such purāṇic feature that Dharmanibandha authors may have corrected is the frequent use of the dative pronouns – especially *mahyam* – for the possessive genitive in predicates, as in the following example about Pārvatī’s worries: *cintā samabhavan mahyaṃ na putro duhitāpi vā* (R/A) vs. *cintā samabhavat tasyā na putro duhiteti vā* (Lakṣmīdhara). Cf. the same kind of change in a passage which is shared by R/A and Caṇḍeśvara’s text, but not by Lakṣmīdhara’s. Here, Caṇḍeśvara or a scribe in the transmission may have made a similar ‘correction’ of the Sanskrit of our *purāṇa*: *mānasy asi sutā mahyam* (R/A) vs. *mānasy asi mama sutā* (Caṇḍeśvara).
 
 *[p. 12]* ^pg13
@@ -232,7 +267,9 @@ The situation is further complicated by the fact that Caṇḍeśvara admits hav
 The first part of the chapter relates the story of the birth of Udakasevikā and Bhairava. Udakasevikā is Pārvatī’s daughter, born while the goddess was reflecting on the fact that she had no offspring. Udakasevikā is born from the water of Pārvatī’s heart (*hṛdayāmbu-* perhaps meaning her tears?), which explains her name “Servant of Water”. At this point in the story, the R and A MSS have an extra passage compared to Lakṣmīdhara’s citation. This short addition appears with variants in Caṇḍeśvara’s citation of the *Skandapurāṇa* as given in the *Kṛtyaratnākara* and it has therefore been reprinted in the edition of Lakṣmīdhara’s *Kṛtyakalpataru*. Oddly, three lines of the extra verses have been printed as part of Lakṣmīdhara’s version in spite of the evidence of the manuscripts of that text, while a further ten lines have been given in a footnote. This additional passage gives more details about Udakasevikā’s appearance, describing that she rises from mud, is ugly and has her hair unbound. There is also a short conversation between Udakasevikā and Pārvatī. Next, Pārvatī mentions the feast of Udakasevikā, and another passage is added to what Lakṣmīdhara has by the R and A recensions, most of which corresponds again to Caṇḍeśvara’s citation. This passage gives more details about the feast: people will be disguised as madmen and will rejoice. The celebrations are to take place in autumn, after the Indramahotsava. Then, in a passage shared by all recensions, it is related that the terrible desire (*kāmo bhairavaḥ* ) of Śiva and Pārvatī became personified as Bhairava and took Udakasevikā’s hand. At
 
 [^50]: On this, see e.g. P.V. Kane, vol. I. p. 786.
+
 [^51]: See also SP vol. I. p. 12.
+
 [^52]: Harimoto argues in this volume (in Part 3 of his paper) that Caṇḍeśvara may not have had direct access to the SP and that he may have only copied text cited by Lakṣmīdhara, for all their extracts from the SP correspond in a rather suspicious way, with very small differences. He points out that in some SP citations, Lakṣmīdhara’s work transmits passages in which some *śloka*s were certainly omitted from the original, probably accidentally, but were retained in Caṇḍeśvara’s work. This implies, he reasons, that Caṇḍeśvara could well have copied all his citations of the SP from Lakṣmīdhara at a point when Lakṣmīdhara’s citations were still not truncated. Harimoto concludes that even in the case of the *Bhairavotsava* chapter, it is possible that Lakṣmīdhara’s shorter text is simply corrupted and reduced by the transmission, and that it served as Caṇḍeśvara’s source when it was still in its complete form. Yet, as Harimoto admits upon examining the contents of the passages in question, the extra verses in the *Bhairavotsava* chapter are more likely to have been added after Lakṣmīdhara’s recension than to have been lost from it.
 
 *[p. 13]* ^pg14
@@ -244,7 +281,9 @@ The main subject of the second part of the chapter is a detailed description of 
 As mentioned above, a cursory comparison of the R and A recensions on the one hand, and the citations in Lakṣmīdhara’s *Kṛtyakalpataru* and in Caṇḍeśvara’s *Kṛtyaratnākara* on the other, shows that our MSS transmit a recension close to the slightly expanded one available to Caṇḍeśvara, and not the shorter recension given by Lakṣmīdhara.[^54] It is important to note that all these relatively longer extra passages are to be found in the first half of the chapter, which describes the birth of the goddess Udakasevikā and her would-be husband, Bhairava. It is probably due to this expansion of the first half of the chapter that we find the above mentioned small caption[^55] in the R and A MSS and the colophon in Caṇḍeśvara’s citation to indicate the end of the birth-stories. This phenomenon
 
 [^53]: The festivities take place after the festival of the god of love (*kāmamahotsava*), and Śiva explains that women’s hearts are attached to *liṅga*s, and men’s to *bhaga*s. Moreover, he declares the world to be qualified by or made up of *liṅga*s and *bhaga*s. It seems that the festival of Bhairava is in fact at the beginning and at the end of Udakasevikā’s festivities, if we follow Lakṣmīdhara’s interpretation.
+
 [^54]: As it is remarked in SP vol. I. pp. 8-13.
+
 [^55]: The caption and Caṇḍeśvara’s colophon has already been pointed out in SP vol. I. p. 12 note 45).
 
 *[p. 14]* ^pg15
@@ -267,8 +306,11 @@ L/C: *yaḥ kāmo bhairavaś cāsīd bhagavatyā bhavasya ca* /
 R/A: *yaḥ kāmo bhairavas tv āsīd bhagavatyā bhavasya ca /* *sa pumān bhairavo bhūtvā kanyāṃ gṛhya kare sthitaḥ* //
 
 [^56]: On the story-telling tendency in R/A, see also Bisschop’s article in this volume.
+
 [^57]: This assumption would go against certain general principles such as that accidental omissions usually disturb the metre. Yet, in most cases I cannot see any particular reason why a redactor would omit the lines in question on purpose.
+
 [^58]: I am aware that this statement is not only hypothetical, but may sound absurd. However, this is the only explanation I can propose for the fact that R, which generally appears somewhat less faithful to its original than A and more inclined to remedy textual corruptions, still has two *śloka*s cited by Lakṣmīdhara, albeit in a very bad state.
+
 [^59]: In the passages below, L denotes Lakṣmīdhara’s text according to the edition, and C is used for Caṇḍeśvara. I have quoted only major variants in the R and A MSS. Orthographical variants are also ignored. The references are as given in notes 45, 46 and 47.
 
 *[p. 15]* ^pg16
@@ -319,7 +361,9 @@ R/A : *sarvābharaṇasaṃpūrṇā rājayogyanarās tadā /* *divyān gandhān
 As is shown in the above citations, the differences between R/A and the citations of the Dharmanibandha authors should not always be seen as corruptions of the R and A recensions, even if both of these recensions are in a rather bad state of transmission. It is possible that the text of the *Skandapurāṇa* had several recensions already in Lakṣmīdhara’s time; and in spite of the fact that
 
 [^63]: A is not available for a passage of 6 lines including this one, which describes how people disguise themselves in royal clothes, clothes of various low castes etc. But since these lines are cited by both Dharmanibandha authors, they are likely to have been present and were perhaps accidentally dropped in A. R may be inventing the hunter disguise (*vyādhaveṣa-*) instead of the low caste one (*antyaveṣa-*), but they are synonymous to some extent in this context. Isaacson has suggested that R may be trying to purify the Sanskrit of the text and to avoid what looks like a double *sandhi* (i.e. *rājaveṣā ”ntyaveṣāś ca*) in L/C. In any case, it would again involve too much interference to reduce the two different readings to one.
+
 [^64]: The textual problems of the passage which describes how people should disguise themselves continue. In the first half, all our texts agree that people can wear barber’s clothes at the festivities. In the second half, Lakṣmīdhara envisages the clothes of fools or of the sick, Caṇḍeśvara has the clothes of the naked (an odd expression), and R/A transmit ‘actors’ clothes’. Although textual corruption is likely to have occurred here, it is difficult to see in which direction, and again it may be wiser to maintain all readings as meaningful variants of various periods.
+
 [^65]: While these lines appear at the same place in the chapter, they are totally different in R/A compared to L/C, except for the last two words. This is yet another passage where it is obvious that RA represents a different recension, in spite of the fact that the chapter as a whole corresponds mostly to the citations of the Dharmanibandha authors.
 
 *[p. 17]* ^pg18

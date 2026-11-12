@@ -161,103 +161,193 @@ If he said: "Like the vows of the upright," his statement is of no consequence, 
 If, however, he tells her: "I am taking a vow, forbidding all pleasure from you"[^90]or "The pleasure of relations with you is forbidden to me," she is forbidden to him, as will be explained.[^91] ^1-30
 
 [^1]: For the intent of a vow is not to forbid what the Torah has prohibited, and certainly not to permit what the Torah has prohibited (Radbaz).
+
 [^2]: I.e., it need not be stated in *Lashon HaKodesh* (Biblical Hebrew).
+
 [^3]: As stated in *Hilchot Sh'vuot* 2:2, an oath must mention God's name or one of the terms used to describe Him.
+
 [^4]: I.e., he is personally responsible to bring a sacrifice; there is no set animal designated for that purpose.
+
 [^5]: I.e., the animal is designated to be offered as a sacrifice; there is no obligation on the person.
+
 [^6]: I.e., if the animal which he originally intended to be sacrificed is lost, he must provide another one, because he accepted personal responsibility. See Halachot 25 and 26 with regard to the distinction between the two terms.
+
 [^7]: For it was only the one animal that was designated as a sacrifice.
+
 [^8]: See Chapters 6 and 9 of those halachot which explain the difference between these types of sacrifices. There are also occasional references to such vows in these halachot. See, for example, Halachah 17 of this chapter.
+
 [^9]: *Sefer HaMitzvot* (positive commandment 94) and *Sefer HaChinuch* (mitzvah 575) include this commandment among the 613 mitzvot of the Torah.
+
 [^10]: Although there are two different verses which point to the same commandment, they are counted only as one mitzvah. For the verse from Deuteronomy could be interpreted as a reinforcement for the negative commandment mentioned in the following verse and the verse from Numbers can be interpreted as referring only to vows involving prohibitions (Radbaz). In his *Hasagot* to *Sefer HaMitzvot*, the Ramban considers these as two separate mitzvot.
+
 [^11]: As is the punishment prescribed for the violation of any negative commandment. *Sefer HaMitzvot* (negative commandment 157) and *Sefer HaChinuch* (mitzvah 407) include this prohibition among the 613 mitzvot of the Torah.
+
 [^12]: As evident from the continuation of the Rambam's statements, were the person to have mentioned "eating" in his vow, we would have interpreted the prohibition as involving an olive-sized portion, the minimum measure for eating that applies with regard to other prohibitions. Since he did not, the implication is that even the slightest amount is forbidden. Compare to *Hilchot Sh'vuot* 4:1.
+
 [^13]: This does not apply with regard to oaths (*Hilchot Sh'vuot* 4:8). Even with regard to vows, it applies only when one uses the expression "eating." The Ra'avad differs with the Rambam and maintains that the law applies only when the two are included in the same oath. Their difference of opinion revolves around the understanding of *Sh'vuot* [[Shevuot 22#22a|22a]].
+
 [^14]: I.e., the person wants to forbid himself from eating together with his colleague.
+
 [^15]: Just as a person cannot partake of a sacrifice until it is offered, so, too, he cannot partake of an entity forbidden by a vow. Just as the consecration of a sacrifice comes about because of a person's vow and his vow is what causes the sacrifice to become forbidden, so too, a vow causes an entity to be forbidden.  
     See *Hilchot Meilah* 4:9-10 which explains that with regard to the person forbidden by the vow, the article becomes like consecrated property. Hence, he is obligated to bring a sacrifice in atonement if he benefits from the article.
+
 [^16]: For these substances are inherently forbidden; they do not become prohibited because of man's statements. An animal consecrated as a sacrifice, by contrast, is inherently permitted. It is only man's statements that cause it to become forbidden.
+
 [^17]: As a person can cause a sacrifice to become forbidden.  
     The Rambam is explaining a fundamental principle with regard to vows. A vow becomes effective when a person establishes an equation between an entity (e.g., produce) and another entity (e.g., a sacrifice), provided it is possible for him to cause the latter entity to become forbidden on the basis of his vow alone.
+
 [^18]: I.e., objects which are inherently forbidden.
+
 [^19]: See *Hilchot Ma'aseh HaKorbanot* 14:8, *Hilchot Shegagot* 1:1. These sacrifices are required when a person transgresses a prohibition. If he does not transgress, he may not bring such a sacrifice and if he does transgress, he is compelled to do so. Offering it is not dependent on his vow.
+
 [^20]: *Hilchot Nazirut* 6:11; 8:1.
+
 [^21]: Due to contact with a human corpse (*ibid.* 7:2).
+
 [^22]: *Ibid.* 6:11; see also *Hilchot Shegagot* 9:1.
+
 [^23]: And thus bringing them is obviously dependent on his making a vow.
+
 [^24]: *Challah* refers to a portion that must be separated from dough and given to a priest. *Terumah* refers to a portion of grain that must be separated and given to a priest. Since they may not be eaten by a non-priest, one might think that they could be the subject of a vow. Aaron is mentioned, because he is the progenitor of the priestly family.
+
 [^25]: A person is required to separate these portions from his dough or grain. Although the amount he gives and the designation of the priest to whom he gives them is dependent on his will, he is obligated to make the gift. The Ra'avad offers a different rationale for this law.
+
 [^26]: Sacrificial meat that was left after its prescribed time and hence, forbidden to be eaten.
+
 [^27]: Sacrifices that were offered with the intent that they be eaten at a time when it was forbidden to do so and hence, become forbidden to be eaten.
+
 [^28]: And is thus forbidden to be eaten.
+
 [^29]: It is beyond his capacity to make the object concerning which he is taking a vow bound by any of the prohibitions mentioned. Nevertheless, all of these prohibitions involve sacrificial meat and sacrificial meat is forbidden to be eaten before it was offered in a proper way, because of his oath as above. Hence, the vow can take effect.
+
 [^30]: As [[Torah 33 - Bechukotai#^27-32|Leviticus 27:32]] states, a person must bring every tenth animal born to his herd as a tithe offering. See also Chapter 2, Halachah 9.
+
 [^31]: Although we are required to separate these offerings, the tithing process through which the holiness is conveyed upon the animal is a result of man's actions.  
     It is possible to differentiate between such offerings and *terumah*, for even before the *terumah* was separated, the grain was not permitted to be eaten, because it was *tevel*. The animals, by contrast, could have been slaughtered, before the tithe was separated (see Radbaz, quoting Rabbenu Asher).
+
 [^32]: Which is sanctified from birth and offered as a sacrifice.
+
 [^33]: Instead, it is sanctified from birth.
+
 [^34]: The *Kessef Mishneh* quotes a responsum from the Rambam's son, Rav Avraham who addresses the following question that was posed to him: The prooftext from Leviticus has been interpreted by the *Sifri* as teaching that a firstborn may not be consecrated as another sacrifice (see *Hilchot Temurah* 4:11 where the Rambam quotes this concept). Moreover, although the firstborn is intrinsically holy, it is a mitzvah to consecrate it for that sacrifice (quoted by the Rambam in *Hilchot Bechorot* 1:5), and thus seemingly, the holiness is conveyed upon it by a mortal's actions.  
     Rav Avraham replies that since the holiness of the firstborn is inherent and it cannot be changed to that of another sacrifice, that is a proof that a vow cannot affect it. With regard to using a first born as the basis for a vow, see also Halachah 15 and notes.
+
 [^35]: See *Hilchot Arachin V'Charamim* 6:1 for a description of the nature of this pledge.
+
 [^36]: And are forbidden to be used for mundane purposes. Thus they represent an entity that was forbidden by man's pledge.
+
 [^37]: The Hebrew term *terumat halishkah* refers to the money collected from the half-*shekel* donations collected from the Jewish people and used for the communal sacrifices offered in the Temple. See *Hilchot Shekalim*, ch. 2.
+
 [^38]: I.e., the chambers in the Temple. This and several of the following interpretations are based on the Rambam's Commentary to the Mishnah (*Nedarim* 1:3).
+
 [^39]: For the altar.
+
 [^40]: I.e., the portions of the sacrifices offered on the Temple altar.
+
 [^41]: Used to rake the ashes on the altar.
+
 [^42]: Used to collect the blood from the sacrifices and then pour it on the altar.
+
 [^43]: Used to move portions of the sacrifices around on the altar's fire, so that they would be consumed by it.
+
 [^44]: I.e., like the sacrifices offered in the Temple.
+
 [^45]: Like the sacrifices eaten in Jerusalem.
+
 [^46]: Since fundamentally, before its blood was poured on the altar, the meat was forbidden, that is the factor that we consider. We do not take into consideration the fact that afterwards it became permitted. This ruling is the subject of an unresolved question in *Nedarim* [[Nedarim 11#11b|11b]]. Hence, we rule stringently (Radbaz, *Kessef Mishneh*).
+
 [^47]: For then it is forbidden to everyone. Hence one might say that just as his designation of the firstborn causes the meat to be forbidden, making a vow using a firstborn sacrifice as a basis is effective.  
     This ruling has created difficulty among the commentaries, because in Halachah 13 the Rambam ruled that a firstborn animal cannot be used as the basis of a vow. Similarly, as the Ra'avad points out, the Rambam's ruling does not appear to be consistent with either of the positions mentioned in *Nedarim* [[Nedarim 12#12b|12b]], the source for this halachah. This leads the *Kessef Mishneh* to conclude that there was a printing error in the text of the *Mishneh Torah* and the proper version is "[the produce] is permitted." He states that he found an ancient text that reads this way. Similarly, the Yemenite manuscripts of the *Mishneh Torah* read in that manner, omitting the last phrase entirely.  
     The *Kessef Mishneh*, however, notes that the Rambam's son, Rav Avraham defends the ruling in the existing text of the *Mishneh Torah*, explaining that there is a difference between a firstborn sacrifice and the meat of a firstborn sacrifice.
+
 [^48]: For this is representative of the person's intent. Taking this concept further, the Rama *Yoreh De'ah* 207:1) quotes opinions that maintain that this surely applies to vows made in gentile languages. And conversely, he also mentions views that maintain that if someone makes a vow using the wording of our Sages without understanding what he is saying, it does not take effect.
+
 [^49]: *Nedarim* [[Nedarim 10#10b|10b]] gives examples: *miknamna, miknachna,* and *miknasna*.
+
 [^50]: For they are very distant from the original wording [*Shulchan Aruch* (*Yoreh De'ah* 207:1)]. *Kin'at Eliyahu* states that apparently, they also would not have been recognized universally as having the desired intent.
+
 [^51]: The Rambam states this expression twice: once in Aramaic and once in *Lashon HaKodesh*.
+
 [^52]: I.e., the opposite of ordinary food is sacrificial food that is consecrated. Similarly with regard to his statement about impure food, we assume that his intent is an impure sacrifice in which instance, his vow is effective. Although it is possible that his intent is impure *terumah* (in which instance, his vow would not be binding), we follow the principle (Chapter 2, Halachah 7): Whenever there is a doubt concerning the effectiveness of a vow, we rule stringently (Rabbenu Nissim).
+
 [^53]: See Halachah 11 for a definition of these terms.
+
 [^54]: I.e., we interpret his statement as the Rambam explains.
+
 [^55]: And hence, forbidden to be eaten (*Nedarim* [[Nedarim 11#11b|11b]]).
+
 [^56]: Even though none of these expressions is precise, they are still close enough to imply that his intent is that he is forbidding eating with his colleague like a sacrifice is forbidden.
+
 [^57]: I.e., his oath is not binding, for the reasons the Rambam continues to explain.
+
 [^58]: Because he does not mention a sacrifice in any of these expressions. The Ra'avad mentions that from *Nedarim* [[Nedarim 11#11a|11a]], it would appear that some of these expressions would involve a vow. The Radbaz and the *Kessef Mishneh* justify the Rambam's rulings.
+
 [^59]: Based on *Nedarim* [[Nedarim 10#10b|10b]], the *Lechem Mishneh* explains that we offer this interpretation, because we assume that a person will not make statements unnecessarily. Hence, since his statements could be interpreted as implying a vow, we offer such an interpretation. The *Kessef Mishneh* struggles with the meaning of the Rambam's words and suggests that perhaps an error crept into the text.
+
 [^60]: For he is forbidding himself from eating with his colleague, like he is forbidden to partake of the Temple's sacrifices.
+
 [^61]: Concluding with a negative expression implies that this is his intent, as in Halachah 19 (Radbaz). In this instance as well, the *Kessef Mishneh* questions the Rambam's wording.
+
 [^62]: This and the subsequent statements of this clause do not imply that he is forbidden to partake of the other person's food.
+
 [^63]: For this restriction applies when a person is under a ban of ostracism (see *Hilchot Talmud Torah* 7:4).  
     The *Turei Zahav* 206:1 mentions the opinion of Rabbenu Asher who maintains that these vows are not effective at all.
+
 [^64]: He may, however, speak to him (Radbaz).  
     Although the person does not mention the terms "prohibition" or "sacrifice" in his vow, since his intent is obviously to prohibit himself from benefiting from the other person, that prohibition takes effect. This reflects the principle (*Nedarim* [[Nedarim 3#3a|3a]]): "The handles of vows are as vows." The intent is that even a statement that, like a handle to a cup, is merely an auxiliary to a vow is binding like a vow itself. See also a responsum authored by the Rambam's son, Rav Avraham, which explains that even when the intent of one's statements are not entirely clear, as in the present instance, they may constitute a vow, provided their intent is somewhat clear. This principle is also quoted by the *Shulchan Aruch* (*Yoreh De'ah* 206:1).
+
 [^65]: From *Nedarim* [[Nedarim 7#7a|7a]], it appears that this expression creates an unresolved question whether the one taking the vow was merely promising not to come within four cubits of the other person or whether he intended to forbid partaking of that person's property. Because of the doubt, he is forbidden to partake of the property, but is not given lashes.
+
 [^66]: The term the Rambam uses relates to the Hebrew words *na* and *nad* which mean "wander" and "roam." Nevertheless, *Nedarim* [[Nedarim 7#7a|7a]] states that all authorities agree that this expression creates a binding commitment.
+
 [^67]: Since he does not use the words "eat" or "partake," we assume that he intended to create a more encompassing prohibition.  
     The Ra'avad differs and maintains that the expression means that he is not allowed to partake of his property in his presence. That interpretation is also discussed by the *Kessef Mishneh*.
+
 [^68]: The Rambam is referring to the wording of the Mishnah (*Nedarim* 1:1). The wicked make vows hastily and moreover, obligate themselves for vows which constitute a commitment incumbent on their person (Halachah 2). See also Chapter 13, Halachah 25, which states that it is undesirable to make vows.
+
 [^69]: I.e., he must accept a nazirite vow, bring a burnt offering, and is liable for lashes for taking a false *sh'vuat bitui*.
+
 [^70]: See Chapter 13, Halachah 23.
+
 [^71]: The term the Rambam refers to "donations," i.e., animals which the person designates as a sacrifices, but if lost do not create a lien on his person (Halachah 2).
+
 [^72]: To uphold a nazirite vow and to bring a sacrifice. He is not, however, liable for an oath, because he did not mention an oath in his statements, since the upright do not take oaths casually.
+
 [^73]: In either case, his statement implies a binding commitment for the wicked make vows and the upright make pledges.
+
 [^74]: I.e., he did not explicitly attach his vow to a sacrifice. This is another example of "the handles of vows" mentioned above (Radbaz).
+
 [^75]: Since the nazirite was passing before him, we assume that this was his intent.
+
 [^76]: This applies even when an animal is not in his sight, for this appears to be his intent (Radbaz).
+
 [^77]: I.e., a loaf of bread [*Shulchan Aruch* (*Yoreh De'ah* 206:4)].
+
 [^78]: I.e., if he partakes of the food, he is liable for taking a false *sh'vuat bitui*.
+
 [^79]: I.e., a Torah scroll.
+
 [^80]: For the holiness of a Torah scroll is inherent. It is not established by man's actions.
+
 [^81]: See Chapter 4, Halachah 5, and *Hilchot Sh'vuot*, ch. 6, which describe this practice.
+
 [^82]: I.e., the vow is not binding. Nevertheless, we make it appear that it is and require him to seek to be released for the reason stated by the Rambam. See the parallels in Chapter 2, Halachot 12-13 and *Hilchot Sh'vuot* 12:4-5.
+
 [^83]: The Rambam's explanation is based on the Jerusalem Talmud (*Nedarim* 1:3). With regard to oaths, by contrast, his intent is focused on God's name.
+
 [^84]: Since he knows what is written in the Torah and is holding it in a reverent manner, we assume that he is not making his statements in vain. Hence, we interpret them as referring to an option for which he would be liable.
+
 [^85]: *Nedarim* [[Nedarim 8#8a|8a]] derives this concept from [[Ezekiel 03#^3-22|Ezekiel 3:22-23]] which states: "And He said to me: "Arise and go out to the valley and there I will speak to you. I arose and I went out to the valley and there the glory of God was standing." Since God promised to reveal Himself to Ezekiel, He kept his word, appearing even before Ezekiel arrived there.
+
 [^86]: From *Nedarim* [[Nedarim 8#8a|8a]], it appears that although this statement establishes a binding commitment, it does not have the full power of a vow. The *Tur* and the Rama (*Yoreh De'ah* 213:2) consider this statement as an actual vow.  
     The Rambam's perspective appears to be that a vow involves making an object forbidden. This instance where the person accepts a commitment upon himself bears a closer resemblance to the obligation incurred when making an oath. Nevertheless, since the person did not employ the wording associated with an oath, it is not binding as an oath. Nonetheless, since a mitzvah is involved, a binding commitment is established.
+
 [^87]: With whom it is forbidden for him to engage in relations.
+
 [^88]: Of which it is forbidden to partake. See [[Torah 30 - Kedoshim#^19-23|Leviticus 19:23]], [[Torah 49 - Ki Teitzei#^22-9|Deuteronomy 22:9]].
+
 [^89]: Halachot 8-9. See also Chapter 2, Halachah 13.
+
 [^90]: A man is obligated to give his wife conjugal rights. Hence, he is not allowed to forbid himself from engaging in relations with her. Nevertheless, in this instance, since the vow also involves satisfaction that he could forbid him, it also includes this form of satisfaction.
+
 [^91]: For he did not forbid relations, but instead, the satisfaction relations bring him. See Chapter 12, Halachah 9.

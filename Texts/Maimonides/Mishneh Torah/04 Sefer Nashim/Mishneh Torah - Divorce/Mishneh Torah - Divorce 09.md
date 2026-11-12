@@ -216,87 +216,164 @@ The [first] agent has not been appointed as an agent to effect the divorce.[^75]
 If, however, the marriage bond has been consummated, we suspect that perhaps the husband appeased her. Therefore, the agent should not appoint another agent within the 30 days unless the husband said: "I accept the word of my wife if she says that I did not appease her." After 30 days pass, [the agent] should give her the *get*. However, we suspect [that perhaps it was nullified], as explained,[^78] unless [the husband] said, "I accept the word of my wife if she says that I did not appease her." ^9-41
 
 [^1]: See the notes on Chapter 8, Halachah 1.
+
 [^2]: If the husband dies she is not divorced, because a divorce must take effect before death. If the *get* is destroyed, she is not divorced because it is the *get* that serves as the medium of divorce, and at the time when the *get* must take effect, it no longer exists.
+
 [^3]: The public domain was a marketplace with pillars on either side. At the side of the pillars, there was space that though ownerless, could be used to acquire property, because it was not common for people to walk in that space. (See *Hilchot Gezelah Va'Avedah* 17:9.)
+
 [^4]: The *Maggid Mishneh*, the *Kessef Mishneh* and others contrast the Rambam's ruling here, that the divorce is not retroactively effective from the time the husband gave the *get*, to his ruling in *Hilchot Mechirah* 2:9. That source states that a sale can be effective when made with the stipulation that it take effect after 30 days, only when the stipulation is that it take effect retroactively. The *Maggid Mishneh* differentiates between the two instances, explaining that a sale requires an act of contract to effect a transfer, and that act took place when the sale was originally made, not 30 days afterwards. In contrast, with regard to a *get*, the fundamental aspect of the divorce is effected by the writing of the *get*.
+
 [^5]: Had the *get* been placed by the woman in the public domain itself, it would not be effective even if it existed when the time specified by the husband arrived. Since it left the woman's domain entirely, the giving of the *get* originally performed by the husband is no longer considered significant. And, as stated at the beginning of these laws, one of the requirements of a divorce is that the *get* be given to the woman by her husband.
+
 [^6]: I.e., in this instance as well, there is a resemblance to the laws of a conditional divorce. Nevertheless, since different wording is used, the laws vary.
+
 [^7]: Moreover, the action specified by the husband may be something that does not require anything to be done by his wife. For example, he may tell her that the divorce will take effect after the first rainfall (Jerusalem Talmud, *Kiddushin* 3:3).
+
 [^8]: Chapter 8, Halachah 1. See the notes on that halachah.
+
 [^9]: Halachah 3. If the *get* is not in the woman's possession at this time, the divorce is not effective according to the Rambam. Nevertheless, other authorities have a different conception of these laws, and according to them, the status of the divorce would be doubtful (*Maggid Mishneh; Beit Shmuel* 146:3).
+
 [^10]: For their relations are considered adulterous.
+
 [^11]: For he did not preface his statements by saying: "This is your *get*," or "You are divorced...." Hence, he is not considered to have given the *get* for the sake of divorce. Although such an intent could be deduced from his words, since his statements were not explicit, they are of no consequence. Indeed, making such a statement is less effective than not saying anything at all (*Maggid Mishneh; Kiryat Melech Rav*).
+
 [^12]: I.e., he desires that the *get* not take effect until a specific time, but does not want the restrictions mentioned in the previous halachah to apply. This is not merely a theoretical situation. Such *gittin* were given frequently in previous generations when a man undertook an overseas journey and wished to spare his wife from having to remain unmarried if he was killed, kidnapped by pirates or in other ways prevented from returning against his will.
+
 [^13]: *Gittin* [[Gittin 30#30a|30a]] cites an example of a man who divorced his wife on condition that he not return within 30 days. A river washed away the bridge leading to his city. Although he stood on the river banks and called to his townsmen: "See, I have returned," our Sages ruled that he is not considered to have returned, and they considered the divorce binding.
+
 [^14]: According to Scriptural law, a person who is prevented from fulfilling a condition by forces beyond his control is not considered as having failed to fulfill it. Nevertheless, our Sages ruled that the laws of divorce are an exception to this principle, because modest women might presume that their husbands were prevented from fulfilling their condition by forces beyond their control and never remarry (*Ketubot* [[Ketubot 2#2b|2b]]).  
     The *Maggid Mishneh* quotes the opinion of *Tosafot* (*Ketubot* [[Ketubot 2#2b|2b]]) and others, who state that this principle applies only with regard to events beyond mortal control that one could possibly foresee - e.g., illness or flood. It does not apply with regard to events beyond a person's control that are totally unlikely - e.g., earthquakes. The *Maggid Mishneh* cites statements by the Rambam in *Hilchot Mechirah*, Chapter 19, which indicate that he would also accept this restriction.  
     The *Maggid Mishneh's* premise is accepted by the *Shulchan Aruch* (*Even HaEzer* 144:1). It appears that the determination of what is an event beyond a person's control that is totally unlikely is dependent on the sociological conditions of the age. For example, the Ramah rules that being held as a captive is not a totally unlikely occurrence.
+
 [^15]: As will be explained, this law applies when the husband stated "on condition that..." when giving the *get*.
+
 [^16]: Since ultimately the condition was fulfilled.
+
 [^17]: If he entered into privacy with her, the *get* would be nullified. See Chapter 3, Halachah 5, Chapter 8, Halachah 2.
+
 [^18]: In such an instance, if the woman were to say that she never agreed to her husband's spending more than 30 days away from her, the *get* would be effective after the condition is fulfilled.
+
 [^19]: The husband gave his wife the *get* because he was going away on a journey and knew that she would not desire to be alone. If he was able to appease her and she was willing to remain alone for 30 days, he is able to nullify the *get*. Usually, once a *get* is given "on condition that...," it cannot be nullified once it has been given. Nevertheless, in this instance, since the condition was made for the sake of the woman, if she is willing to forego seeing her husband, the husband may nullify the *get* (*Maggid Mishneh*).
+
 [^20]: I.e., according to Scriptural law, since the condition was fulfilled, and there is no evidence that the couple resolved their differences, the *get* is binding. Our Sages, nevertheless, disqualified the *get* for the reasons stated above.
+
 [^21]: Hence, the divorce is unacceptable.
+
 [^22]: And we assume that because of their familiarity, he knows how to appease her, and she is more willing to accept his overtures.
+
 [^23]: The Rambam's decision is based on his interpretation of *Gittin* [[Gittin 76#76b|76b]]. The Ra'avad interprets that passage more stringently and requires the husband to have accepted his wife's statements as to whether or not he came as binding. Otherwise, we suspect that he came in secrecy. The *Shulchan Aruch* (*Even HaEzer* 144:7) follows the Rambam's view, but states that *a priori*, it is customary to include the condition mentioned by the Ra'avad.
+
 [^24]: If she desires to marry within the twelve months, she must undergo the rite of *chalitzah* first.
+
 [^25]: The *Shulchan Aruch* (*Even HaEzer* 145:8) quotes the Rashba, who states that even if a sick person does not specify that he die from the illness afflicting him, we assume that this is his intent.
+
 [^26]: I.e., the advantage of such a *get* would be to free his wife of the obligation of *yibbum* or *chalitzah*. Similarly, the subsequent halachot refer to *gittin* given for this purpose.
+
 [^27]: The Ra'avad differs with the Rambam's ruling. He maintains that the date of the *get* indicates that the husband desires that the *get* take effect retroactively. The *Shulchan Aruch* (*Even HaEzer* 145:1) quotes the Rambam's view, but mentions a minority opinion that takes the Ra'avad's view into consideration.
+
 [^28]: The *Hagahot Maimoniot* quote Rabbenu Tam as stating that it is preferable for the person to say: "from the present time," rather than "from the present day," lest he die before the conclusion of the day. The *Shulchan Aruch* (*Even HaEzer* 145:2) quotes this suggestion.
+
 [^29]: Therefore, if childless, she must perform the rite of *chalitzah* before marrying, and may not perform the rite of *yibbum*. As stated in *Hilchot Ishut* 18:25, such a woman is not entitled to receive support from her husband's estate after his death.
+
 [^30]: For the *get* does not become effective until the morning. Since he died beforehand, a *get* cannot be effective after death.
+
 [^31]: For a *get* given "on the condition that" becomes effective retroactively from the time it was originally given, once the condition is fulfilled.
+
 [^32]: A *get* given according to the rules of conditional agreements is not effective until the condition is fulfilled.
+
 [^33]: As stated in *Hilchot Zechiyah UMatanah* 8:14, when a person who is mortally ill gives away all of his property as a present and then recovers, the present is automatically retracted, for we assume that his intent was solely to distribute his property after his death.
+
 [^34]: Thus, the two laws are in direct contradiction. A present given by a dying man does not take effect until after he dies, and a divorce that he grants cannot take effect after he dies.
+
 [^35]: For the condition that he stated was not fulfilled (*Gittin* [[Gittin 73#73a|73a]]).
+
 [^36]: On the one hand, he did not arise from his sickbed. On the other hand, there is reason to assume that his intent was that he is giving the *get* on the condition that he die from the illness afflicting him, and this was not the case (*Gittin* [[Gittin 73#73a|73a]]).
+
 [^37]: This applies even if he walks in the marketplace without any support. Since he did not regain his health entirely, it is necessary to determine whether or not he died from the first illness. Note the contrast to *Hilchot Zechiyah UMatanah* 8:26.
+
 [^38]: Note the *Beit Shmuel* 145:14, who states that, according to the Rambam, for the divorce to be effective the man must still be afflicted with the first illness when he dies. Note the contrast to *Hilchot Zechiyah UMatanah* 8:27.
+
 [^39]: I.e., he has none of the privileges of a husband - e.g., he is not entitled to her earnings, he may not nullify her vows, and if he is a priest, he may not become impure because of her in the event of her death. With regard to paying for the woman's support, most authorities maintain that the husband is liable. There is no explicit statement from the Rambam regarding this issue.
+
 [^40]: In such an instance, we suspect that the couple may have engaged in marital relations, and that the husband nullified the *get* beforehand.
+
 [^41]: I.e., the requirement is not that the positive factor be stated first, but that it be stated before the negative factor. This is accomplished by restating the condition that would negate the *get*.
+
 [^42]: The *Maggid Mishneh* questions the Rambam's ruling, noting that from his previous decisions, it appears that unless the man says that the *get* will take effect retroactively *me'achshav*, "from this time onward," the *get* is not effective, because it does not take effect until after the man's death. Apparently, the Rambam maintains that the restatement of the condition resolves that difficulty, but this concept is not accepted by many other authorities. When stating this law, the *Shulchan Aruch* (*Even HaEzer* 145:5) quotes the Rambam's wording, but adds the word *me'achshav*.
+
 [^43]: I.e., the colleague was not appointed by the wife to serve as an agent to receive the *get*. The husband appointed him as her agent, because he felt that she would not desire to marry her *yavam*. According to Torah law, one may perform an action on a person's behalf without his knowledge if it is to his advantage - e.g., one may take possession of an ownerless object on behalf of a colleague without asking him. Hence, it is possible to assume that the agent can act on behalf of the woman without her knowledge (*Yevamot* [[Yevamot 118#118b|118b]]).
+
 [^44]: Because by writing it within this time, they deviated from the instructions with which they were charged (*Gittin* [[Gittin 76#76b|76b]]).
+
 [^45]: I.e., although the wording of the Hebrew original could possibly be interpreted otherwise, the commentaries agree that the Rambam's intent is that the *get* may be written immediately after the time specified and should not be written after a prolonged period has elapsed from that time.
+
 [^46]: The *get* is unacceptable because the husband's words also imply a restriction, that the *get* should be written directly afterwards and not after a prolonged period. Indeed, for this reason, Rabbenu Nissim [and the *Shulchan Aruch* (*Even HaEzer* 144:6)] rule that in such a situation, the status of the divorce is in doubt. In defense of the Rambam's ruling, the commentaries explain that even though the husband's intent may have been that the *get* be given immediately, since the wording he used could be interpreted to mean after a prolonged period, the *get* is acceptable according to Scriptural law.
+
 [^47]: The Rambam is referring to his statements in Chapter 8, Halachah 2. There, however, he uses the expression, "the status of the *get* is in doubt."
+
 [^48]: The commentaries question the Rambam's decision, explaining that although there is a possibility that the couple engaged in marital relations and the husband consecrated her at that time (see Chapter 10, Halachah 18), it is also possible that this did not take place. Indeed, in Chapter 3, Halachah 5, with reference to a *get* given by a husband after he entered into privacy with his wife, the Rambam rules that after the fact, the *get* is acceptable.  
     [It is possible to differentiate between the two instances, because in that halachah, the husband himself gave the woman the *get*. This is a greater indication that he did not nullify it (*Maggid Mishneh*). Even after that explanation, however, the Rambam's ruling in this halachah raises questions.]  
     When referring to this law, the *Shulchan Aruch* (*Even HaEzer* 149:7) accepts the ruling that at the outset, the witnesses should not have such a *get* written, but follows the ruling of the Ramban and the Rashba, who maintain that if they had the *get* written and gave it to the woman, the status of the divorce is in doubt.
+
 [^49]: This is the ruling according to Scriptural law. See, however, Halachah 28.
+
 [^50]: There are many authorities who object to this ruling, maintaining that the scribe cannot sign as a witness to the *get*. In his *Kessef Mishneh*, Rav Yosef Karo states that even the Rambam agrees that at the outset, a scribe should not sign as a witness. After the fact, however, the Rambam maintains that his signature does not disqualify the *get*. In his *Shulchan Aruch* (*Even HaEzer* 130:18), Rav Yosef Karo writes: "One should be careful not to have the scribe sign as a witness, because there are authorities who disqualify this."
+
 [^51]: I.e., speaking to the people, he said: "One, two, three, four, write a *get*..." (*Chelkat Mechokek* 120:18).
+
 [^52]: According to the Rambam, it appears that not only must the signatures of the acceptable witnesses be first chronologically, but they must also appear first on the *get*. Other authorities do not make this requirement and maintain that it is only chronological precedence that is significant (*Beit Shmuel* 120:14).
+
 [^53]: The two witnesses whose signatures are required must sign the *get* on the day that it was written (Chapter 1, Halachah 25).
+
 [^54]: The *Shulchan Aruch* (*Even HaEzer* 120:9) states that they may sign the *get* to fulfill the condition even after it was given to the woman. The Ramah adds that this may be done even after she has remarried.
+
 [^55]: *Tosafot* and subsequent Ashkenazic authorities differ and maintain that for the *get* to be valid, all the witnesses must be acceptable. The *Shulchan Aruch* (*Even HaEzer* 120:10) mentions both views, but appears to favor that of the Rambam. The Ramah follows *Tosafot's* ruling.
+
 [^56]: Because the instructions that the husband gave concerning the *get* were not fulfilled.
+
 [^57]: See *Hilchot Edut* 5:6-7, which states that if persons who are unacceptable as witnesses signed a legal document with the intent of serving as witnesses, the document is disqualified, even if two acceptable witnesses signed it first. If, however, the persons who were unacceptable did not sign the document with the intent of serving as witnesses, the document is acceptable, even if the signature of the unacceptable person appears first.
+
 [^58]: As stated in Chapter 1, Halachah 15. With regard to other legal documents, the witnesses who sign the contract are of paramount importance, and they must all therefore be acceptable. The witnesses who observe its transfer are less significant. But with regard to *gittin*, it is the witnesses who observe the transfer who are of primary importance. Therefore, if the initial two signatures to the *get* are acceptable, we are not concerned with those who sign subsequently (*Maggid Mishneh; Kessef Mishneh, Hilchot Edut*).
+
 [^59]: These rules were instituted lest the the husband tell a group of people that they all should write, sign or bring a *get*, and they not appreciate that they were all charged with this responsibility. Lest some of them fail to discharge this responsibility and thus cause the *get* to be void, our Sages required that whenever many people are instructed to be involved in a *get*, they all must take full participatory roles.
+
 [^60]: See Chapter 1, Halachah 24, based on *Gittin* [[Gittin 10#10b|10b]]. If the witnesses do not sign in each other's presence, the *get* is unacceptable (*Shulchan Aruch*, *Even HaEzer* 130:13).
+
 [^61]: The father and the son may not both sign as witnesses, because witnesses may not be related to each other.
+
 [^62]: The Rambam is referring to Rabbenu Yitzchak Alfasi's interpretation of *Gittin* [[Gittin 63#63b|63b]]. Significantly, the standard published texts of the Talmud available to us follow Rabbenu Yitzchak Alfasi's version. The *Shulchan Aruch* (*Even HaEzer* 141:36) follows Rabbenu Yitzchak Alfasi's conception and rules that the status of the divorce is in doubt. (See the notes of the *Beit Shmuel* 141:99, which explain the Rambam's interpretation.)
+
 [^63]: And thus the *get* is not signed by witnesses.
+
 [^64]: According to the Rambam (Chapter 6, Halachah 4), the appointment of such an agent need not be observed by witnesses.
+
 [^65]: See Chapter 7, Halachah 24. Note the question of the *Beit Shmuel* 141:17, who asks why the Rambam distinguishes between this instance and an agent charged with consecrating a woman, whose word is accepted, as stated in *Hilchot Ishut* 3:15. The *Beit Shmuel* explains that the fact that the *get* is not signed detracts from the agent's credibility. For although a *get* is acceptable when it has not been signed, this is not desirable. Hence, we are more suspicious of the possibility of forgery.
+
 [^66]: As long as there are witnesses who observe the transfer of the *get*, the agent's actions are considered to be equivalent to those of the husband himself. Hence, just as a *get* given by the husband is acceptable after the fact if its transfer was observed by witnesses, even if the *get* was not signed, this same ruling applies when his agent gives the *get*.
+
 [^67]: For the wording the husband used implies that he is stipulating that the *get* must be given in that place.
+
 [^68]: From the contrast with the following clause, the *Beit Shmuel* 141:63 and others rule that, in this instance, the *get* is binding if it is given after that date. Note, however, the *Mishneh LaMelech* who differs and rules that the divorce is disqualified by the Sages.
+
 [^69]: By accepting the *get* from the agent in the place she receives it, the woman shows that she is not particular about where she receives it (*Maggid Mishneh* in his gloss on Chapter 6, Halachah 4). The Rambam's ruling indicates a slight textual difference from the popular version of *Gittin* 6:3, the source for this halachah. There is, however, no difference in principle between them.
+
 [^70]: If, however, the agent is not prevented from discharging his agency, he should not charge another person with that responsibility. (See Chapter 7, Halachah 4 and notes.)
+
 [^71]: For it is likely that the principal would not desire that anyone other than the person he designated be given his article to guard. Rashi (*Gittin* [[Gittin 29#29a|29a]]) offers a different interpretation. (See *Beit Shmuel* 141:65.)
+
 [^72]: Since the second agent did not deviate from the husband's instructions, the *get* is acceptable, despite the fact that a person other than the one appointed by the husband gave the *get* to the woman.  
     Rabbenu Asher rules that even if the second agent takes the article before giving the woman the *get*, the divorce is not effective. Although Rabbenu Asher's ruling is also mentioned, the *Shulchan Aruch* (*Even HaEzer* 141:51) appears to follow the Rambam's decision.
+
 [^73]: I.e., the husband was in effect saying, "Make sure you get the article before you give her the *get*." Since the agent did not fulfill these instructions, the divorce is not valid. See the *Beit Shmuel* 141:66, who quotes opinions that state that if the husband's wording does not indicate that he definitely wants the agent to secure possession of the article before giving the *get*, the divorce is binding.
+
 [^74]: For in this instance, there is no obvious advantage to the principal in having the agent give the *get* first.  
     As mentioned in the *Maggid Mishneh*, the Ramban differs and maintains that for the divorce to be binding the woman must give the agent the article first.
+
 [^75]: According to the Rambam, if the first agent gives the woman the *get*, the divorce is not effective. As mentioned in the notes on Halachah 31, other opinions differ and maintain that in this instance, the status of the divorce is in doubt.
+
 [^76]: Needless to say, the second agent should not give the woman the *get* until the original 30 days have passed.  
     Rav Meir HaLevi states that we suspect that the first agent will not convey these instructions clearly to the second agent. Therefore, the first agent should entrust the *get* to the court, which will appoint a second agent after the 30 days have passed. Although the *Shulchan Aruch* (*Even HaEzer* 141:37) mentions this view, it appears that the Rambam's view is favored.
+
 [^77]: See Halachot 10 and 11.
+
 [^78]: See Halachah 9.

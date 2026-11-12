@@ -159,76 +159,130 @@ With regard to this person who [outwardly] refuses to divorce [his wife] - he wa
 
 [^1]: In most matters of Torah law, a person is able to charge an agent to act on his behalf. From the Rambam's wording, *Terumat HaDeshen* (Responsum 228) and the *Kovetz* deduce that the Rambam requires that not only the person who gives the *get*, but also the scribe, must be appointed as agents. This decision is quoted by the *Shulchan Aruch* (*Even HaEzer* 120:1). Moreover, the *Shulchan Aruch* continues, stating that in addition, the scribe must write the *get* with paper and ink belonging to the husband.  
     There are, however, other opinions, which maintain that the scribe need not be appointed as an agent. (See Chapter 3, Halachah 16 and notes.)
+
 [^2]: There is a difficulty in this instance, for the scribe must also act as one of the witnesses who sign the *get*. *Tosafot* and many other authorities rule that a *get* signed by a scribe is unacceptable. In the *Beit Yosef* (*Even HaEzer* 130), Rav Yosef Karo explains that the Rambam agrees that *a priori*, the scribe should not act as one of the witnesses who sign the *get*. When there is no alternative, however, it is acceptable. (See *Lechem Mishneh*.)
+
 [^3]: In this instance, the act the agent effects does not concern him. Therefore, there is no difficulty in his serving as a witness to it. (See also *Hilchot Ishut* 3:16.)
+
 [^4]: There are two points of clarification that must be made with regard to this ruling: First, if the husband enters into privacy with his wife after having the *get* written, the *get* is nullified, for we assume that the couple engaged in sexual relations, as reflected in Chapter 3, Halachah 5.  
     Second, there is the problem that the *get* is predated - i.e., although it was dated on the day it was written, it is the giving of the *get* and not the writing of the *get* that effects the divorce. Thus, the date on which the *get* was given and the date of the divorce are not the same.  
     With regard to that issue, we are forced to say that the Rambam does not consider it to be problematic. Indeed, when discussing the issue of predated *gittin* (Chapter 1, Halachah 25), the Rambam makes no mention of this matter at all. Other authorities differ, and it is their view that is accepted by the *Shulchan Aruch* (*Even HaEzer* 127:5), which states that if a *get* is not given on the day on which it was written, it is acceptable only when given by an agent. (See *Beit Shmuel* 127:7.)
+
 [^5]: See *Hilchot Malveh V'Loveh* 24:3-4. The *Kessef Mishneh* emphasizes that there are several points to be derived from an analysis of the Rambam's choice of wording in the present halachah and in that source:  
     a) Even if the man is accompanied by a woman he claims to be his wife, the witnesses may not sign a *get* for her until this fact is established.  
     b) It is not significant whether or not the scribe knows the identity of the man and his wife. When the scribe does not sign the *get* (see the notes to the previous halachah), it is the witnesses alone who must be aware of the identity of the husband and wife.  
     c) As long as a person's name has been established in a city for thirty days - even if it is only according to his own statements - this is sufficient.  
     d) The witnesses must also know the names of the father of the husband and of the wife.  
     e) The person's father's name can also be established on the basis of his own statements.
+
 [^6]: From the Rambam's Commentary on the Mishnah (*Bava Batra* 10:3), it appears that the intent is to prevent the woman receiving the *get* from engineering such an act of deception.  
     Our translation is based on authoritative manuscripts and early printings of the *Mishneh Torah*. The standard printed text states "causing her to be forbidden to him," i.e., she will think that she has been divorced, and on that basis, she will marry another man, and thus become forbidden to her first husband.
+
 [^7]: A time of danger means an instance when the husband is in danger of dying and asks to have a *get* written for his wife, so that she will not have to undergo the rites of either *yibbum* or *chalitzah* (*Gittin* [[Gittin 66#66a|66a]]).
+
 [^8]: Although according to Scriptural law it is the husband who should pay for the writing of the *get* (for it is his responsibility), *Bava Batra* [[Bava Batra 168#168a|168a]] explains that our Sages transferred this obligation to the woman, lest the husband lack the financial resources and cause the woman to wait unnecessarily for her *get*.
+
 [^9]: The Rambam mentions a court of law to indicate that in this instance, their authority is no greater than that of an ordinary person.
+
 [^10]: The bracketed addition is made on the basis of the gloss of the *Kessef Mishneh*.
+
 [^11]: The husband charged these individuals with the composition and the signing of the *get*. They do not have the authority to convey this responsibility to someone else.  
     In other instances, an agent can transfer his agency to another person, but here the scribe and the witness were charged with only a verbal command, and a verbal command cannot be transferred to another agent (*Gittin* [[Gittin 66#66b|66b]]).
+
 [^12]: For the difficulty is with the composition of the *get* itself.
+
 [^13]: In contrast to the previous halachah, in which the *get* is deemed void, here the Rambam rules that it is unacceptable. This more lenient ruling is given because in this instance, the husband's colleagues carried out his instructions.  
     The Ra'avad and many other authorities also consider this *get* to be void, for they maintain that the scribe must hear his appointment from the husband directly. The Rambam, however, maintains that the divorce is acceptable according to Scriptural law. As a safeguard, the Rabbis did not accept it, lest a woman hire agents who will tell the scribe and witnesses to compose a *get* in the husband's name, even though he did not convey such instructions (*Gittin* [[Gittin 67#67a|67a]]).
+
 [^14]: For the husband did not convey the instructions to the scribe himself.
+
 [^15]: Rav David HaCohen interprets this to mean that this case is judged more severely than other *gittin* that are unacceptable, and the status of the woman's divorce is in doubt. This is also the ruling of the Ramah. Rav Moshe Alshacar, however, differs and maintains that there is no difference between this instance and others in which the *get* is deemed unacceptable.
+
 [^16]: The practical difference between these two terms is explained in Chapter 10, Halachot 1 and 2. When a *get* is void, the woman's first marriage is not annulled, and she must leave her second husband if she has remarried. Any children she bears the second husband are considered to be *mamzerim*. When the *get* is deemed unacceptable by our Rabbis, by contrast, the woman should not remarry, but if she does remarry she is allowed to remain married to her second husband.
+
 [^17]: We do not suspect that the husband had a void or unacceptable *get* composed and gave it to his wife to cause her difficulties (*Kessef Mishneh*).
+
 [^18]: We do not say that the agency with which they were entrusted involved only the composition of one *get*, and that they must receive a new charge from the husband before writing another one.  
     The *Shulchan Aruch* (*Even HaEzer* 122:1) states that if the *get* is not unacceptable, but does not conform with the standard demanded by the local Rav, the scribe does not have the right to write a second *get*, for the agency with which he was charged by the husband has already been discharged. Therefore, it is customary for a husband to tell the scribe and the witnesses to write as many *gittin* as necessary, until one finds favor in the eyes of the Rav arranging the divorce.
+
 [^19]: If the husband had in fact given them only such a limited agency, were they to have another *get* written, they would no longer be acting in the agency of the husband, but rather on their own initiative.  
     Rav Moshe HaCohen differs with the Rambam on this point, maintaining that since they did not write an acceptable *get*, their agency was not completed. For the husband did not charge them with writing a worthless piece of paper; he wanted them to write a *get*. Note the *Beit Shmuel* 122:7, who interprets the disqualifying factor mentioned by the Rambam as referring to a disqualification that occurred after the *get* was given to the agent. He maintains that if a *get* that was void or unacceptable was given to the agent, even the Rambam would allow the writing of another *get*.  
     The *Shulchan Aruch* (*Even HaEzer* 122:2) quotes the ruling of the Rambam, while the Ramah follows the opinion of Rav Moshe HaCohen.
+
 [^20]: We are not certain that their agency was limited in scope. Perhaps the husband's intent was that they effect the divorce.
+
 [^21]: This and the following term are acceptable, because they are Aramaic equivalents of the word "divorce."
+
 [^22]: These expressions do not convey adequately enough the intent that the husband desires to divorce his wife for them to be considered effective in bringing about the appointment of the agents for this purpose.
+
 [^23]: Note the *Beit Shmuel* 141:21, who quotes authorities who maintain that even in such instances the status of the divorce should be considered doubtful.
+
 [^24]: For the husband has not charged them with effecting the divorce.
+
 [^25]: In his Commentary on the Mishnah (*Gittin* 6:5), the Rambam interprets this as referring to a person taken from jail in chains to be judged by a gentile magistrate.
+
 [^26]: We assume that, in all these instances, his intent was to divorce his wife, lest he die and she be required to undergo the rite of either *yibbum* or *chalitzah*. Alternatively, he knew that he was entering a dangerous situation, and feared that he might die, without there being any witnesses of his death. In order to prevent his wife from being forced to remain unmarried for the rest of her life, he charges witnesses with the composition of a *get*.  
     He surely wanted to tell the witnesses to give the *get*, and it was only because of his concern with his personal situation that he forgot to do so (*op. cit.*). (See *Hilchot Zechiyah UMatanah* 8:24, which relates similar concepts with regard to a person's division of his estate.)
+
 [^27]: In this instance as well, we assume that the person intended to say that the *get* should be given, but failed to mention the point because of his preoccupation with his own concerns.
+
 [^28]: For his intent is not clear, and it is possible that he wanted to deliberate before having the *get* given.
+
 [^29]: The Rambam's ruling is debated by the commentaries, for it is questionable why the *get* would be considered valid, in light of the doubt that exists. Indeed, there are commentaries that suggest that the text before us is a printing error and that the Rambam considers the status of the divorce to be in doubt. The *Shulchan Aruch* (*Even HaEzer* 141:18) rules that if the husband falls immediately afterwards, the *get* is acceptable. If not, the status of the divorce is in doubt.
+
 [^30]: The *Shulchan Aruch* (*loc. cit.*:19) states that the man must state his name, the name of his wife, the name of the city in which he lives and the name of the city in which she lives.
+
 [^31]: E.g., his face had been cut to the point where his identity was no longer recognizable.
+
 [^32]: The slitting of these organs are the two signs that determine whether or not ritual slaughter is acceptable.
+
 [^33]: The *Beit Shmuel* 121:11 interprets this to mean that the man shakes his head in response to questions (see Halachah 16) and thus indicates that he desires to divorce his wife.
+
 [^34]: The *get* is not considered to have been given after the man died, and his wife is not required to undergo the rites of *yibbum* or *chalitzah*. See Chapter 6, Halachah 28.
+
 [^35]: For a person's actions to have halachic significance, he must be mentally competent at the time he performs them.
+
 [^36]: Whom Genesis, Chapter 19, describes as having become so drunk that he was not aware of having sex with his daughters.
+
 [^37]: The Rambam appears to be saying that if we are certain that the person is drunk, but see that he is conscious enough to have some control over his behavior, a *get* that he orders to be given is of doubtful status.  
     The commentaries question this understanding, noting that in *Hilchot Ishut* 4:18, the Rambam rules that *kiddushin* given by a drunk are viable, unless he reaches Lot's state. Similarly, with regard to the entire Torah, a drunk is considered responsible for his conduct. If he commits a transgression punishable by death while drunk, he is executed. Despite these questions, the *Shulchan Aruch* (*Even HaEzer* 121:1) quotes the Rambam's wording. On this basis, the *Beit Shmuel* states that both a husband and a wife should not drink alcoholic beverages on the day of their divorce.
+
 [^38]: While the husband (the principal) is incapacitated, his agent (the scribe) cannot act on his behalf. Therefore, the *get* should not be written until he regains his health. Nevertheless, once he regains his health, the agency that he originally gave is unaffected, and the *get* should be written and delivered.
+
 [^39]: In the *Kessef Mishneh*, Rav Yosef Karo questions why the Rambam uses the term "unacceptable" (*pasul*). Seemingly, based on *Gittin* [[Gittin 70#70b|70b]], this ruling should apply only when we have a means of healing the afflicted person. Otherwise, the *get* should be void. Indeed, in the *Shulchan Aruch* (*Even HaEzer* 121:2), Rav Yosef Karo rules accordingly. Note, however, the *Beit Shmuel* 121:2, who justifies the Rambam's ruling.  
     [The difference between these two opinions revolves around the fundamental conception of an agent's authority. Is he acting independently of the principal (in which case the principal's state is not of concern to us) or is he considered to be an extension of the principal (in which case, if the principal is unable to perform an act, neither is his agent). See *Lekach Tov*, Section 1.]  
     Based on the above, the *Shulchan Aruch* (*Even HaEzer* 121:4) writes that we should check that a person who is giving a *get* when terminally ill is sound of mind.
+
 [^40]: According to the *Kessef Mishneh*, the intent is three questions in which at least one of the answers differs from the other two. There are other authorities who require two sets of three questions. Also, based on *Gittin* [[Gittin 70#70b|70b]], the Ramah (*Even HaEzer* 121:5) suggests that the person should be asked questions about fruit - e.g., would he desire a summer fruit in winter? His ability to discern with regard to these matters will serve as an indicator of whether or not he is of sound mind.
+
 [^41]: A deaf-mute is not considered to be of sound mind and is not held responsible for his conduct.
+
 [^42]: For the marriage bond he established is binding according to Scriptural law, and he is not capable of initiating divorce proceedings that have that power.
+
 [^43]: See *Hilchot Edut* 9:9, where the Rambam defines the term *shoteh* as including not only maniacs whose behavior is totally beyond control, but also those who are confused and lack the stability to function normally.
+
 [^44]: *Hilchot Ishut* 4:9.
+
 [^45]: Just as the Torah gives him authority to consecrate her, he is responsible for taking part in the divorce, for [[Torah 49 - Ki Teitzei#^24-2|Deuteronomy 24:2]] establishes an association between the forging of the marriage bond and its dissolution (*Ketubot* [[Ketubot 47#47a|47a]]).  
     This applies, however, only before the marriage bond is consummated. After *nisu'in*, the consummation of the marriage, the father no longer has any authority over his daughter even though she is below the age of majority. (See *Hilchot Ishut* 3:12.)  
     We may conclude that, before *nisu'in*, the Rambam does not consider the girl as having the authority to receive her own *get*. This opinion is accepted by most authorities and is quoted by the *Shulchan Aruch* (*Even HaEzer* 141:4). The *Shulchan Aruch*, however, also mentions the opinion of *Tosafot*, who maintain that the girl possesses this authority.
+
 [^46]: I.e., a girl between the age of twelve and twelve and a half, who has manifested signs of physical maturity. She is already considered to be past majority with regard to certain dimensions of Torah law. Nevertheless, her father is still granted authority over her in certain contexts. (See *Hilchot Ishut* 2:1, 3:11.)
+
 [^47]: A married girl below the age of majority, by contrast, may not appoint an agent to receive her *get* even if her father dies or her marriage has been consummated (*Shulchan Aruch*, *Even HaEzer* 141:3.)
+
 [^48]: If the girl's father consecrates her, the *kiddushin* are effective according to Scriptural law, and a divorce is required. If, by contrast, the girl's father died, and her mother, her brother or she herself established a marriage bond, it is not binding according to Scriptural law and a *get* is not required. Instead, this marriage can be dissolved through the rite of *mi'un*, as described in *Hilchot Ishut* 4:7.
+
 [^49]: The Ramah (*Even HaEzer* 141:6) states that this refers to a girl of six or seven, depending on her intellectual capacities.
+
 [^50]: If, however, a minor's father is alive, he can accept a *get* on her behalf regardless of her age or degree of understanding. Rashi (*Gittin* [[Gittin 64#64b|64b]]) differs and maintains that if she is unable to make distinctions, she cannot be divorced even via her father. Although the *Shulchan Aruch* (*Even HaEzer* 141:6) quotes both opinions, it appears to favor that of the Rambam.
+
 [^51]: E.g., a man whose wife says she is repulsed by him (*Hilchot Ishut* 14:8), a man who was married to a woman for ten years without her bearing a child (*Hilchot Ishut* 15:7), a man who becomes afflicted by [constant] bad breath or an odor from his nose, one who becomes a collector of dog feces, a miner of copper or a tanner or one who becomes a leper (*Hilchot Ishut* 25:11-12) or a priest who marries a divorcee (*Hilchot Issurei Bi'ah* 17:7).
+
 [^52]: The application of this law is not confined to *Eretz Yisrael* or to the era when the *Sanhedrin* (the High Court of Law) was in power.
+
 [^53]: Rav Mesharshia states that the Rabbis deemed the *get* unacceptable, lest women become accustomed to hiring gentiles for this purpose (*Bava Batra* [[Bava Batra 48#48a|48a]]). In the *Kessef Mishneh*, Rav Yosef Karo notes that *Gittin* [[Gittin 88#88b|88b]] appears to reject Rav Mesharshia's view and states that a *get* that was forced on a man by gentiles is void entirely. (This indeed is the ruling of Rashi, Rabbenu Nissim and Rabbenu Asher.) In his *Shulchan Aruch* (*Even HaEzer* 134:5), Rav Yosef Karo's wording is not specific when dealing with this issue. The *Beit Shmuel* 134:10 states that such a *get* is void.
+
 [^54]: See *Hilchot Mechirah* 10:1, which states that such a sale is acceptable, after the fact. Nevertheless, if the seller notifies the witnesses that he was compelled to sell against his will, the sale is nullified.
+
 [^55]: The Rambam's statements have implications far beyond their immediate halachic context. The Rambam is saying that the fundamental desire of every Jew is to affirm his Jewishness and observe the Torah and its mitzvot. Even when a person's conscious mind does not necessarily consent to this inner motivation, it is at work, molding his character without his knowledge. And at times, either because of undesirable circumstances - being compelled against his will as above - or because of desirable ones - an expression of Divine favor - this inner drive will surface.

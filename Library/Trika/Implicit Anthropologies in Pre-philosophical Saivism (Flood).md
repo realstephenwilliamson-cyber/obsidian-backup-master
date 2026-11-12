@@ -87,8 +87,11 @@ Nevertheless, the distinction is useful for identifying the thought worlds out f
 While both revelaed text or scripture and philosophy may operate within a broad cultural rationality, philosophy is more systematic and directional in its argumentative strategy: philosophy needs to be a universalizing mode of thinking, whereas pre-philosophy, while being within a rational paradigm, is less systematically engaged in a dialogical or even confrontational enterprise. Pre-philosophy is a deeper resource of rational reflection that persists through time and is more concerned with categorization than reasoning per se. This pre-philosophy/philosophy division that is consonant with categorization/reasoning, is close to Heidegger’s distinction between worldview (die Weltanschaung) and philosophy, where philosophy has developed out of worldview, the difference being that, according to Heidegger, philosophy aims at achieving a universal understanding of life.[^5] My appeal to Heidegger is not to impose his distinction on the Indic material but to exemplify the difference between pre-philosophical and philosophical discourse. We can legitimately distinguish philosophy from the ambient thought world articulated in revealed texts, in which philosophy exists, which it presupposes, and which provide the necessary conditions for understanding. The questions of philosophy concerning the nature of the person are explicit and reflective in
 
 [^2]: Watson (2006, pp. 51–69). Cabezon calls this intellectual context Scholasticism. Cabezón (1998). On the dialogue between the non-dual Śaivas and the Buddhists see the definitive book on the Pratyabhjñā by Isabelle Ratié (2011).
+
 [^3]: Indeed, scriptures such as the Kiraṇa-tantra were inspired by philosophical schools, particularly Sāṁkhya. See Goodall (1998, p. li). The Parākhya (1.5), for example, offers a programmatic treatment of five topics, the bound soul (paśuḥ), the Lord (īśvaraḥ), pure knowledge (vidyā), and liberation (muktiḥ). Goodall (2004, pp. 139–140).
+
 [^4]: Ganeri (2001, p. 4).
+
 [^5]: Heidegger (1988, pp. 8–11).
 
 *[p. 4]* ^pg4
@@ -100,7 +103,9 @@ contrast to a general awareness of self, or implicit philosophies of the person 
 Over the last thirty years or so there has been a great deal of work done in the social sciences and humanities focused on the body and there is an extensive literature on this.[^7] While this shift of focus has been in many ways commendable and has supported questions being asked about the past that have contemporary relevance, concerning, for example, gender equality and social justice, I would, however, like to shift attention from the category ‘body’ to the category ‘person’ because this allows us to look for the relational and social nature of persons and the ways they are embedded in the historical longue durée. The ‘person’ – at least in the Western sense of embodied social actor – is not a privileged category in Indic thought; rather Indian philosophy tends to focus on the category of the self (ātmā, jīvaḥ, puruṣaḥ), impersonal absolute (brahma), or being (bhāvaḥ), but using the category ‘person’ as a lens through which to view textual material from the past, allows us to examine not only ideas about body, but ideas about self and moral agency too.[^8] It also allows us to raise philosophical questions about historical understandings of person, and whether the category can be legitimately used as a lens through which to view the world of the text. An implicit anthropology is a theory of persons that might remain unthematized in a culture, to uncover which is the task of the analyst. In exposing pre-philosophical, implicit anthropologies we are inevitably using a prima facie notion of person as operating in moral and legal discourse. That is, the category ‘person’ is more than a synonym for ‘human being,’ as Charles Taylor observes,
 
 [^6]: The Pratyabhijñā philosophers claim to transform a delusional insight about one’s sense of self, who I am, into a recognition of one’s true nature. Ratié puts this well, that I know that I am myself but the nature of what I am escapes me. This is an alienation that deprives me of a freedom that only the complete realization of my true nature can restore to me, that the Pratyabhijñā philosophy claims to provide. The Netra-tantra does not articulate this idea but is nevertheless orientated towards a non-dualistic view in chapter 8. Ratié identifies the Pratyabhijñā position succinctly: ‘Je sais que je suis moi-même - faute de quoi je n’aurais pas à me reconnaître. J’ai conscience de mon identité, et c’est cette conscience qui sourd dans toute reconnaissance de soi, mais l’essence qui rend possible ma permanence en tant que sujet m’échappe. Et c’est parce que, tout en sachant que je demeure le même, j’ignore ce qui fonde réellement cette identité, que je suis un être souffrant, asservi, aliéné au sens propre du terme: c’est dans la mesure où je demeure étranger à moi-même qu je suis privé d’une liberté que seule peut me restituer la réalisation complète de ma véritable nature. Les philosophes de la Pratyabhiñā opposent ainsi à la reconnaissance de soi ordinaire, présenteé à la fois comme l’indice de ma véritable identité et comme le symptôme d’une fondamentale méconnaissance de soi, une Reconnaissance d’un ordre supérieur parce qu’elle implique la prise de conscience complète de définitive de ce que je suis.’ Ratié, Le Soi et l‘Autre, pp. 5–6.
+
 [^7]: See, for example, Turner (1984), Shilling (1993), Coakley (1997) and Feher et al. (1989). With the focus on the body in Indian religions we have: Boullier and Tarabout (2002), Botto et al. (2004) and Michaels and Wulf (2011).
+
 [^8]: On the idea of categorization see Frazier (2014).
 
 *[p. 5]* ^pg5
@@ -112,9 +117,13 @@ Many years ago, Michael Carrithers, Steven Lukes and the late Steve Collins publ
 While Sanderson’s essay has been significant in understanding the history of Indian religions, and the distinction between purity and power is an important one, I wish to capture something more of what post-Gupta or medieval tantric texts understand a person to be. If we look more closely at Sanderson’s view that the Brahman at this time is highly individualistic, this means that he is the bearer of certain obligations and capacities to behave in accordance with an understanding of himself and the world he lives in, generally to live in ways consonant with duty, with vārṇāśrama-dharma,[^12] and to pursue legitimate goals of life (puruṣārthaḥ) of duty (dharmaḥ), success (arthaḥ), and pleasure (kāmaḥ) and even, perhaps finally, salvation (mokṣaḥ).[^13] This is the orthodox Brahman conforming to the cultural values of the wider society. But there is also the tantric practitioner seeking power
 
 [^9]: Taylor articulates well what the English word designates: ‘A person is a being with a certain moral status, or bearer of rights. But underlying the moral status, as its condition, are certain capacities. A person is a being who has a sense of self, has a, notion of the future and the past, can hold values, make choices; in short, can adopt life-plans’ (Taylor (1985, pp. 97–114). While we cannot assume that this conceptualization is shared across cultures and throughout history, it is a succinct summary of what the word ‘person’ indicates, from which one can begin to measure differences and similarities in other contexts. It seems to me that the category of the person as having moral status and certain capacities, such as language, reason, and judgement, is a necessary assumption for such inquiry.
+
 [^10]: Sanderson (1985, pp. 190–216).
+
 [^11]: Sanderson, ‘Purity and Power’: ‘We see that the forces of self-representation in the Kashmirian community of this period, manifest in the poles of this duality of the orthodox and heterodox and in the dialectic of their convergence, were contained within a fundamental structure of values which, arguably, underlies a far wider range of cultural forms in the kingdoms of medieval India’ (p. 192).
+
 [^12]: Sanderson (2019, pp. 1–48).
+
 [^13]: On the importance of these values see McClish (2019, pp. 150–170).
 
 *[p. 6]* ^pg6
@@ -128,8 +137,11 @@ The Netra-tantra contains both models of the person; the person as agent with ca
 But both the agential self of the tantric Brahmanical practitioner and the passive self of the possessed are themselves set within a broader anthropology that we might characterise as a cosmological view of a person: the view that each person in social relationships is the subject of massive forces beyond them, a cosmological hierarchy that controls each level of the universe into what it is.[^16] Even the Brahman agent is the recipient of past karmic action but is not determined by those actions because the powers of the person recapitulate the powers of Śiva.[^17] The person in this traditional cosmology contains an imago dei and through spiritual practices such as those of the supreme and subtle meditations in the Netra-tantra, he recognizes this within himself through Śiva’s grace, and, for the Netra-tantra, in so doing is freed.
 
 [^14]: Sanderson, ‘Purity and Power,’ p. 199.
+
 [^15]: For a contemporary account see Freeman (1998, pp. 73–98).
+
 [^16]: This important question of the what are the constraints that control an outcome into its particularity is raised by Bowker in his work. See Bowker (2015, pp. 146–164).
+
 [^17]: It is not possible to develop this here, but Śiva has five capacities of creation maintenance, destruction, concealment and grace that are recapitulated in the person. See Kṡemarāja, Pratyabhijñāhṛdaya sūtra 10.
 
 *[p. 7]* ^pg7
@@ -155,8 +167,11 @@ Abhinavagupta perceives as purity obsessed concerns of highly orthodox Brahmans.
 In quoting from the text, I present a positive apparatus, citing the Nepalese witnesses and citing the Kashmir published text where there are differences. I sometimes refer to Kṡemarāja’s commentary on the Kashmir recension as an aid to understanding, although we need to be cautious in that he attempts to impose a univocity on the text consonant with his non-dualist metaphysics. Indeed, he
 
 [^19]: See the Appendix, Sanderson (2004, pp. 229–300).
+
 [^20]: Amṛtīśvaratantra f. 89v4-5: Viśveśvara was the author of an initiatory text, the Amṛteśvaradīkṣāvidhi, a Nepalese text on initiation and ritual for the royal family and specifically for the initiation of the kings Arimalla (b. 1153, r. 1200/01-1216) and/or his son Abhayamalla (b. 1183, r. 1216-1255) for whom the text would have been copied (Sanderson 2005, p. 241-42). Indeed, the latter had himself composed a ritual manual on regular worship after initiation (Sanderson 2005, p. 242). Kīrttidhara writes at the conclusion of his work (f. 89): ‘This injunction by the Lord of Immortality, Mṙtyuñjit, is completed, full, and auspicious. This book, commissioned by Viśveśvara, was written by me, the scholar Kīrttidhara, in the bright fortnight of the month of March/April, 320.’ (samāptam idaṃ mṛtyuñjidamṛtīśavidhānaṃ saṃpūrṇam iti śubhaṃ. saṃvat 320 caitra śudi 9 śanidine++ viśveśvaralikhāpitaṃ idaṃ pustakaṃ paṃḍitakīrttidharalikhitaṃ mayā).
+
 [^21]: Abhinavagupta cites the text three times in his Tantrāloka under the name of Mṛtyuñjaya (16.59 and 224; 21.11) and under the name Netra (citing 8.30b) in his Īśvarapratyabhijñāvivṛtti-vimarśini vol. 3 pp. 311 and 313. References from Brunner (1974, pp. 125–197), herself citing Lilian Silburn.
+
 [^22]: The Netra-tantra was first published in the KSTS in 1936 (vol 46) and 1939 (vol 61) edited by Madhusūdan Kaul based on two manuscripts, although he gives no details of them. There are four manuscripts, along with Kṡemarāja’s commentary, to my knowledge in the Oriental Research Library, Srinagar. These are publicly available in digitized form at http://www.archive.org courtesy of eGangotri and McIntosh Skipper Roth. All are on paper and so later than the Nepalese witnesses.
 
 *[p. 9]* ^pg9
@@ -166,6 +181,7 @@ comments on it in order, he says, to bring the text within the sphere of his Ś�
 I have chosen to privilege the Nepalese witnesses for conceptual reasons, that it expresses a range of perspectives which contain contrasting, if not conflictual, views, and because the Nepalese recension reflects an earlier stage of the text’s development. While there are mostly not significant semantic divergencies from the Kashmir editio princeps, there are some (such as 7.13 where the use of the different verbs virecayet and nirodhayet might indicate different conceptualisations, as we will see). Furthermore, through referring back to manuscript sources whose date we know, we are on surer ground of making claims about the text during a particular period. There is also a methodological principle that ideally, we refer to source material where possible, which means we examine manuscripts. Privileging the Nepalese witnesses over the Kashmir witnesses is justified on those grounds. Thus, the oldest Nepalese manuscript (Na) is the editio princeps of that recension. I will draw into the discussion parallel passages from other sources, namely scriptures of the Śaiva Siddhānta, Non-dualistic Śaivism, and some yogic texts (see below for details of precisely which sources and the primary source section of the references). I do this because these parallels lend support to the presentation of implicit anthropologies in the Netra-tantra and indicate that what the Netra-tantra exposits is not idiosyncratic but can be taken as a sign of wider conceptualisations and practices at the time of its formation and during the time of its transmission.[^24] Often the Kashmir reading is better semantically and grammatically, but in the following quotations I have preserved the Nepalese recension as it stands, noting the Kashmir edition variants, which allows modern readers access to the basic textual material from which ideas of personhood can be generated. Alexis Sanderson has shown how the text was primarily connected with royalty and used in the courts of kings by Śaiva officiants in the role of the royal priest or rājapurohita. That Śaiva and Mahāyāna gurus performed ‘apatropaic, restorative and aggressive Mantra rituals’ for the protection of king and kingdom is well attested in the kingdoms of
 
 [^23]: Sanderson (2007, pp. 231– 582): ‘… Kṡemarāja stresses that his motive is to re-establish what he sees as the true, non-dualistic perspective of these texts \[such as the Netra-tantra\], which, he says, had been overshadowed by the prevailing view, that of the Saiddhāntika dualists, an unjustifiable inroad into non-Saiddhāntika territory that had both imposed a less enlightened reading of their teachings and led to the suppression of elements of non-dualistic practice (advaitācāraḥ), such as the offering of fermented liquor to Svacchandabhairava, that were vital to the proper performance of their rites’ (p. 398).
+
 [^24]: We know, for example, that it was copied for the King of Nepal in 1200 and that further texts came from it focused on practice, namely Amṛteśvarapūjanavidhi, a ritual manual based on the Netra, a palm leaf manuscript in Newari script, dated Nepalīya Saṁvat 336 and Vikrama 1273, thus dating it to 1216 or 1217. There is also the Netrodbhava dated Nepalīya Saṁvat 279 and so is dated to 1159 AD before, or contemporaneous with, the copying of Na.
 
 *[p. 10]* ^pg10
@@ -177,10 +193,15 @@ Amṙtīśa in the Nepalese recensions, also known as Amṙteśabhairava, Mṙty
 Within the Netra we can identify three implicit anthropologies, three models of what a person is, that I shall call permeable, processual, and gnostic views of the self. What concerns me here is not so much the deity visualisations, nor the chapters on possession, but three chapters that form a group: the chapters on the gross (sthūla-), subtle (sūkṣma-) and supreme (para-) meditations (dhyānam), six, seven, and eight. It seems to me that this threefold hierarchical structure is an attempt to order a range of practices and understandings of the person, that the Netra is incorporating and it does so with some coherence, the lowest level of meditation practice being concerned with magical protection, the subtle level with the visualisation of the body and the powers moving within it, and the supreme meditation being principally a gnostic reinterpretation of the ‘limbs’ of classical yoga and understanding the self’s identification with Śiva. The subtle meditation is especially interesting because it presents two different systems of visualisation, one in which subtle energy rises up through the body and a second in which that same
 
 [^25]: Sanderson, ‘Religion and the State,’ p. 233.
+
 [^26]: Brunner, ‘Un Tantra du Nord: le Netra Tantra.’
+
 [^27]: White (2012, pp. 145–171)
+
 [^28]: ISG Mantrapāda, 2.42,3b-8.
+
 [^29]: Sanderson, ’Religion and the State,’ p. 239, n. 18.
+
 [^30]: For example, it describes Nārāyaṅa as a naked, ithyphallic youth, a ‘handsome child’ (bālarūpaṃ), standing on a ram (13.10-13b), as well as visualisations of Tumburu and his sisters (chapter 11).
 
 *[p. 11]* ^pg11
@@ -190,10 +211,15 @@ power rising through the body releases nectar at the crown of the head that then
 But let us set the scene with two opening verses from a later section of the text, the longest chapter nineteen, on possession. The Goddess is asking the Lord Amṙteśvara about the supernatural goddesses who can possess people.
 
 [^31]: I have benefitted from Bäumer’s excellent study and translation of chapters seven and eight. See Bäumer (2019).
+
 [^32]: See Sanderson ‘The Śaiva and Tantric Traditions,’ p. 682.
+
 [^33]: Sanderson, ‘Purity and Power,’ pp. 203–205.
+
 [^34]: Netra-tantra chapter 1, Na f. 3, colophon. The text calls itself the essence of the collection of all the streams of revelation (sarvasrotasaṃgrahasāram).
+
 [^35]: Brunner (1975, pp. 411–443).
+
 [^36]: E.g. NT 5.3: … adhikārārtham ācārye sādhake siddhikāmataḥ // 3 // ‘For the teacher, his purpose is authority, for the Sādhaka, his desire is power.
 
 *[p. 12]* ^pg12
@@ -203,10 +229,15 @@ But let us set the scene with two opening verses from a later section of the tex
 19.2. idānīṁ śrotum icchāmi saṁśayaṁ me hṙdi sthitam/dṙṡṫipātaṁ prakurvanti jantūnāṁ mātaraḣ sadā // 19.3. asaṁkhyātās tu tā devyo hy aprameyabalānvitāḣ/chāyāchidreṅa bādhante yoginyo balavattarāḣ //[^37] 19. 2-3. Now I want to hear \[the dispelling of\] doubt remaining in my heart, \[how\] the mothers are always casting an eye on people. Those goddesses are truly innumerable, furnished with immeasurable strength. The Yoginīs, possessing greater strength, force \[their way\] through the hole of the shadow. Immediately we see what we are up against. The person’s ambient environment is pervaded by supernatural powers that constantly threaten misfortune.[^38] I have translated dṛṣtipāta literally here, although Brunner renders the term as ‘the evil eye’ (le mauvais oeil),[^39] no doubt following Kṡemarāja’s gloss as jighāṃsayā nirīkṣaṇam, a look with a desire to harm, which clearly seems to be what the term means in this context.[^40] I have rendered the chāyāchidreṇa as a genitive tatpuruṡa, ‘through hole of the shadow,’ or it could also be rendered as a karmādharaya, ‘by means of the hole which is the shadow.’ But Kṡemarāja takes chāyā and chidram as distinct terms. Shadow for him seems to mean that if a shadow were to be cast by women during their courses, or during parturition, or wicked people, this could be a cause of possession. The ‘hole’ he declares to be beings crying in the forest. In this case, we might render chāyāchidrena as a dvandva compound, as Kṡemarāja does, that the Yoginīs attack ‘through the hole \[which denotes\] beings crying in the forest, and through the casting of a shadow.’[^41] The shadow here is the vulnerable entry point, the point of permeability in which external powers can become established within the person. All beings are subject to this kind of affliction, and the text particularly notes the kings, princes, and queens who are afflicted by sudden death and ‘killed by the snares of time’ (kālapāśair jighāṃsitāḥ),[^42] or if we are to take the desiderative meaning of jighāṃsitāḥ seriously, become desirous of being
 
 [^37]: NT 19.2-3. Na f. 60, Nb f. 39. 19.2ab: saṃśayaṃ\] Na, Nb: saṃśayo K; sthitaṃ\] Na, Nb: sthitaḥ K; 19.2cd: jantūnām\] Na, Nb: manuje K; 19.3ab: aprameyabalānvitāḥ\] Na, Nb: hyaprameyabalānvtāḥ K. I am grateful to the readers for their comments on this passage and for discussion with Wernicke-Olesen.
+
 [^38]: On the yogiṅīs see Törzsök (1999).
+
 [^39]: Brunner, ‘Un Tantra du Nord,’ p. 175.
+
 [^40]: But the term does not always have a negative connotation. For example, in the Lakṣmī-tantra 21.26ab the mantras lead (nayanti) the man with controlled senses who is under the gaze of the teacher (ācārya-dṛṣṭipāta-sthaṃ puruṣaṃ saṃyatendriyam) where the dṛṣṭipāta is clearly of benefit.
+
 [^41]: NTU vol. 2, p. 128 by Kṡemarāja: ‘The shadow is the reason for possession of praised people by elemental spirits and so on, being given by the most wicked, by \[women\] who have given birth, and by \[women\] during menses. The hole \[refers to\] beings who cry in the forest.’ chāyā rajas-valāsūtikāpāpiṣṭhādibhir dīyamānā praśastasya jantor bhūtādisvīkṛtihetuḥ, chidram araṇye rodanādi. Brunner thinks that we cannot interpret chidram literally as ‘hole’ but that it conveys the idea that the shadow can bring up from the ground elemental spirits that can attack vulnerable people. Brunner (1975, p. 175, note 2).
+
 [^42]: NT 2.15ab.
 
 *[p. 13]* ^pg13
@@ -218,13 +249,21 @@ In the opening verses of the sixth chapter, Amṙteśvara speaks of how poor peo
 This is a world in which the boundaries of person are permeable (as arguably was the case in all pre-modern societies), in which the normative goals of fulfilling one’s social obligation, worldly success, and enjoying pleasure, attested in other kinds of literature such as the Brahmanical Smṙtis and texts of the Śivadharma genre, are to be preserved from adverse supernatural interference.[^51] The inevitability of human misfortune is explained through a model of self in which human agency is limited because of the threat of such incursions in which the person is almost the passive recipient of external forces. In the Netra, agency is invested in the wielders of counter powers, the mantrins or masters of mantra, who protect and expel obstacles to success in life, where ‘obstacles’ are indeed supernatural powers, the Vighneśas. This worldview pervades all social levels as we see here, the Netra being
 
 [^43]: NT 6.5-6. Na f. 12 recto – f.13 verso, Nb f. 9: apamṛtyuśatākrāntā janā dāridryasaṃyutāḥ ādhivyādhibhayodvignāḥ pāpaughair vinipīḍitāḥ // 5 // mucyante tu yathā sarve pūrvoktair māraṇaiḥ priye/ trividhaṃ tad upāyaṃ tu sthūlaṃ sūkṣmaṃ paraṃ ca yat // 6 //. 6a: tu\] Na, Nb: ca K; 6b: māraṇaiḥ\] Na, Nb: dāruṇaiḥ K; 6cd: yat\] Na, Nb: tat K.
+
 [^44]: NT 2.7b
+
 [^45]: NT 6.7. The construction of the netra mantra, OṀ JUṀ SAḢ , has been described in chapter two.
+
 [^46]: NT 6.9c
+
 [^47]: NT 6.11cd-12ab.
+
 [^48]: NT 6.17-20.
+
 [^49]: NT 6.18.
+
 [^50]: NT 6.46-48.
+
 [^51]: Sanderson (2009, pp. 41–350).
 
 *[p. 14]* ^pg14
@@ -238,8 +277,11 @@ A second model of person is articulated in the Netra’s subtle meditation. We m
 In chapter seven on the subtle meditation the body is immediately presented as a hierarchical structure for the support (ādhāra) of the soul, pervaded by various loci of power, the six ‘seasons’ or centres, twelve knots, five voids, three luminous abodes, and so on.[^55] But there is a contrast between the impure body and the purified body that becomes divine, which the Yogin needs to achieve.
 
 [^52]: ISG Mantrapāda, 2.42. 3-8.
+
 [^53]: See the classic argument that we find possession in marginalized groups, by Lewis (1971): ‘In peripheral cults these pressures arise from the oppression to which subordinate members of the community are subject’ (p. 176).
+
 [^54]: See Padoux (2002, pp.163–187). Also, Flood (2011, pp. 70–83).
+
 [^55]: NT 7.1-3. Na f. 15, Nb f. 10: ataḥ paraṃ pravakṣyāmi dhyānaṃ sūkṣmam anuttamam/ṛtuṣaṣṭha svarādhāraṃ trilakṣaṃ vyomapañcakaṃ //1// granthidvādaśasamyuktam śaktitrayasamanvitam/dhāma-trayapathākrāntaṃ nāḍitrayasamanvitaṃ jñātvā śarīraṃ suśroṇi daśanāḍipathānugaṃ/dvāsaptatisahasrais tu saptakoṭyārdhasaṃyutaṃ//3// 7.1c ṛtuṣaṣṭha\] Na, Nb: ṛtucakram K; 7.1d Footnote 55 continued trilakṡaṁ \] Na, Nb: trilakṣyaṃ K; 7.2b daśanāḍipathānugaṃ \] Na, Nb: daśanāḍipathāvṛtam K; 7.3c dvāsaptatisahasrais\] Na, Nb: dvāsaptatyā sahasrais K; 7.3c saptakoṭyādhasaṃyutaṃ Na, Nb: sārd-hakoṭitrayeṇa ca K. ‘Now I will tell you about the excellent, supreme, subtle visualization \[of the body which comprises\] that with sixteen supports \[the vowels\], the six seasons, the three objects, and the five voids. 7.2. \[That body is\] accompanied by twelve knots, associated with three powers, perfused by the path of three luminous abodes \[sun, moon, and fire, and\] permeated by three channels. 7.3. Having known the body, O one with beautiful hips, that follows the path of ten channels, with seventy-two thousand, and 3,500,000 \[channels\] \[the yogi can create a divine body\].’ I have rendered ṛtuṣaṣṭha as ‘six seasons’ although ṣaṣṭha means ‘sixth.’ The Kashmir edition reads ṛtucakraṃ where ṛtu is simply a synonym for ‘six’. The term sūkṣmadhyāna is attested elsewhere including the general, hierarchical structure of the subtle body, e.g. in the later Gheraṇḍasaṃhitā 6.18ab: tejodhyānaṃ śrutaṃ caṇḍa sūkṣmadhyānaṃ vadāmyaham, ‘You have heard the luminous dhyana, Chanda; I shall describe the subtle dhyana’ (Mallinson’s translation); 6.20cd sūkṣmadhyānam idaṃ gopyaṃ devānām api durlabham, ‘This subtle dhyana is to be kept secret. It is hard for even the gods to attain’ (Mallinson’s translation.). See Birch (2011, pp. 527–554.
 
 *[p. 15]* ^pg15
@@ -254,6 +296,7 @@ In the process, the Yogin establishes the supreme power (parā śaktiḥ) within
 5\. d: tu\] Na, Nb: sa K.
 
 [^57]: Brunner, ‘Le Netra Tantra,’ p. 143.
+
 [^58]: Also see the Wernicke-Olesen Śākta traditions website, http://saktatraditions.org/netratantra-chapter-
 
 *[p. 16]* ^pg16
@@ -265,10 +308,15 @@ The text then goes on to describe two processes that Kṡemarāja identifies as 
 7\. 13. viśrāmyānubhavaṃ prāpya tasmāt sthānāt pravāhayet/sarvaṃ tad amṛtaṃ vegāt sarvatraiva nirodhayet //
 
 [^59]: NT 7.7.
+
 [^60]: NT 7.8. The term abhimāna generally designates an erroneous evaluation of the self, a pride or high opinion of oneself, but in the Pratyabhijñā it is taking oneself for less than what one truly is and is the root of the ego. Ratié explains this well: ‘Ici, le sense du terme est en quelque sorte renversé, puisque l’abhimana dont parlent les philosophes de la Pratyabhijñā consiste à se prendre pour moins que ce que l’on est (c’est-a-dire pour un corps particulier, un intellect particulier etc, au lieu de s’appréhender comme la totalité d l’être), mais ce renversement n’est qu’apparent: le terme abhimana sugère une inflation de l’ego, or c’est cette conviction erronée qui est à la racine du sens de l’ego précisément - de la conviction d’être un ’moi’ par opposition au reste du monde.’ Ratié, Le Soi et l’Autre, pp. 206–207, note 76.
+
 [^61]: The tantraprakriyā is the normative, liturgical system of the Trika tradition of Śaivism, referring to the Śaiva initiate’s daily worship (nityavidhiḥ), while the kulaprakriyā represents a more esoteric tradition only for the suitable person (adhikārī). Sanderson, ‘Maṅḋala and Āgamic Identity in the Trika of Kashmir,’ p. 169 note 2.
+
 [^62]: Wernicke-Olesen and Einarsen (2018, pp. 241–257). Also see Mallinson (2015, pp. 109–140).
+
 [^63]: On this see Mallinson (2007).
+
 [^64]: Wernick-Olesen and Einarsen (2018, pp. 249–251.
 
 *[p. 17]* ^pg17
@@ -285,9 +333,13 @@ virecyāpūrya
 āpādamastakaṁ devi plāvayet plāvanaṁ bhavet //39//[^69]
 
 [^65]: NT 7.13, Na f. 16, recto, Nb f. 11. 7.13a viśrāmyānubhavaṃ\] Na, Nb: viśrāmānubhavaṃ K; 7.13d: nirodhāyet\] Na, Nb: virecayet, K.
+
 [^66]: NTU vol. 1, p. 175.
+
 [^67]: NTU vol. 1, p. 175: Kṡemarāja’s commentary: tataḥ sarvaromakūpaiḥ prasṛtyāntarbahirāsāditavyāpti sarvadikkam amṛtārṇavaplāvanasamarasībhūtaparamāmṛtarūpam, icchā-jñāna-kriyāśaktikacitaṃ para-maśivarūpaṃ nirāmayamātmānaṃ cintayet. ‘One should meditate on the self as free from disease, having the nature of the Supreme Śiva, aligned with the powers of will, cognition and action, whose nature is the supreme nectar, whose being is the taste of sameness \[resulting from\] the flooding by the ocean of the nectar of immortality in all directions, being the condition of pervasion diffused through all the pores of the skin, inside and out.’
+
 [^68]: Sanderson writes that this text marks the development of a new kind of Kaulism claiming superiority over earlier forms. Sanderson (2012–2013, pp. 1–113).
+
 [^69]: Kulārṇava-tantra 15.335-39.
 
 *[p. 18]* ^pg18
@@ -301,9 +353,13 @@ Here we have a Kaula text that has integrated the plāvana practice with haṫha
 purification of the elements within the body (bhūtaśuddhi) in which, as a preliminary to the creation of a divine body, inner and outer worship, the body is burned in the imagination and the ashes washed away by the flood arising from mantra utterance. This practice is well attested throughout Śaiva literature but perhaps its best, and possibly its earliest, articulations comes with the Pāñcarātra text, the Jayākhya-saṃhitā, which speaks of the symbolic destruction of the body through being burned from the ‘fire of time’ (kālāgniḥ) in the big toe; the resulting pile of ashes is then washed away by the liquid born from the visualization that the
 
 [^70]: For example, the twelfth century Śāradātilaka 4.27-28: tataḥ saṃśoṣayed dehaṃ vāyubījena vāyunā/vahnibījena tenaiva saṃharet sakalāṃ tanum //27// viśleṣayet tadā doṣān amṛtenāmṛtāmbhasā/āplāvyāplāvayed deham āpādatalamastakam //28//. ‘Then he should dry the body with wind, with the wind seed mantra, with the fire seed mantra he should destroy the entire body, then he should dissolve the faults with nectar, with the fluid of nectar, flooding the body, he should inundate it from head to toe.’ The commentator Rāgavabhaṫṫa (composed 1494) cites a source that he names simply ‘saṃhitā’ and cites teachers (ācāryāś ca) who say: athavā śoṣaṇa-dahana-plāvana-bhedena śodhite dehe, ‘or he should purify the body with the division of drying, burning and flooding.’ On the place of the text in the history of Śaiva literature see Sanderson, ‘Śaiva Literature,’ pp. 82–83. There are other attestations of these three together, for example the Śiva Purāṇa 28.10cd; Maheśvarānanda, Mahārthamañjari 44; Paraśurāmakalpasūtra 3.12. Even the Śaiva Siddhānta text, the Suprabhedāgama 4.23 bears witness to ‘burning and flooding’ after the imposition of mantras on the hands (karanyāsaḥ). The Bhairava tantra, the Svacchandatantra also describes the three practices 2.30-38ab.
+
 [^71]: Sanderson, ‘Śaiva Literature,’ pp. 36–38.
+
 [^72]: Svacchandoddyota 2.37ab.
+
 [^73]: Svacchandoddyota 2.36, p. 23: tanoḥ śoṣo’hantābhimānarasatanūbhāvaḥ.
+
 [^74]: Svacchanddoyota 2.39cd, p. 25: ‘plāvayet’ bhairavābhedaparāmarśamayaṃ kuryādityarthaḥ. ‘“He should flood” means he should perform that which comprises the supreme awareness of the non-duality of Bhairava.’
 
 *[p. 19]* ^pg19
@@ -313,8 +369,11 @@ practitioner imagines flooding the directions.[^75] This symbolic burning of the
 We have, therefore, three closely related practices: the Kaula plāvana attested in the Netra-tantra, the Haṫha yogic plāvana performed in conjunction with śośaṇa and dahana, and the pan-tantric, ritual practice of the bhūtaśuddhi. All of these are predicated upon a particular understanding of the person that I have called processual in so far as the Yogin as the exemplar of human accomplishment undergoes a process of inner transformation or realization through a process of change in which visualization practices are thought to facilitate an existential shift in the condition of the practitioner. Philosophical articulations and arguments about metaphysics – the Pratyabhijñā arguments for the identification of self with pure consciousness for example – are predicated upon an overall model of the self as having porous boundaries and thereby being transformable through a process that entails the manipulation of powers within the body. In particular, the nectar of immortality located at the crown of the head comes to be released, filling the body with happiness and creating a sense of identification with that power. The philosophical arguments for non-dualism expressed particularly in Abhinavagupta’s Īśvarapratyabhijñāvimarśinī and the position summarized in Kṡemarāja’s Pratyabhijñāhṛdaya,[^76] are easy developments from this pre-philosophical understanding of both the porous and processual self. Both of these conceptions of self entail the idea of transhuman powers having the ability to enter into the person thereby changing their nature, either in terms of negative moral value, as in the case of the malevolent possessing deities, or of positive moral value in the case of the yogic process of imbuing the self with the nectar of immortality. Both entail a ‘container’ metaphor of the body[^77] that can be filled with powers—even conceptualized as a fluid in the plāvana case—and both entail the integration of person with structure of cosmos and also the integration of the hierarchical cosmos into the self. From the porous and processual models, it is but a small step to developing a philosophical conception of non-dualism such that, in a citation by Kṡemarāja, aham eva paro haṃsaḥ śivaḥ paramakāraṇam, ‘the supreme cause is the supreme self Śiva, which is that very I \[which is myself\].’[^78] It is also reflected in Abhinavagupta’s interpretation of the term samāveśa as immersion in pure consciousness rather than possession by external
 
 [^75]: Jayākhya-saṃhitā 10.77: dhyānajenodakenātha bhūtiṃ saṃplāvya diggatām vinipātāt svamantreṇa siktena kṣīrarūpiṇā, ‘Then having flooded the ashes \[left from the burning of the body\] he should \[make the fluid\] flow down to the directions, sprinkled with his own mantra, whose form is milk.’ See Flood (2002, pp. 25–43).
+
 [^76]: On the philosophical development see Ratié (2013).
+
 [^77]: Lakof and Johnson (2003, pp. 29–30).
+
 [^78]: Svacchandoddyota 2.36, citing 4.399.
 
 *[p. 20]* ^pg20
@@ -330,9 +389,13 @@ spandanam), withdrawal is cutting the noose of becoming
 (bhavapāśanikṛntanam), meditation (dhyānam) the reflexive awareness (svasaṃvedyam) that is the Lord (vibhum), the supporting concentration (dhāraṇam) is meditation on the supreme self (paramātmānam), and concentration (samādhānam) is placing consciousness equally in all beings.[^83] I have not come across this kind of
 
 [^79]: See Alexis Sanderson (1986, pp. 176–177) and Wallis (2008, pp. 247–295).
+
 [^80]: Somadeva Vasudeva has written on the six ancillaries of yoga. Concerning those in the Netra-tantra he observes that ’it may actually be more appropriate to compare the eight ancillaries of the Netratantra with the formulaic dhāraṇās taught in the Vijñānabhairava, which show an even greater tendency towards the transcendence of the inherited complex of ritual and yogic procedures’ (Vasudeva (2004, p. 382).
+
 [^81]: NT 8.1-6.
+
 [^82]: NT. 8.7-9.
+
 [^83]: NT. 8.10-17.
 
 *[p. 21]* ^pg21
@@ -365,8 +428,11 @@ cānyo’sti dhyeyaṁ cātra na vidyate/ānandapadasaṁlīnaṁ sama-rasīgata
 The creation of the plurality of the universe is called sarvābhāsa, the manifestation of all, yet it is also nirābhāsa, beyond manifestation, which the text goes on to explain means that this is a condition beyond self and other, which becomes the object of the Yogin’s meditation. Here the conception of the self is that it is identical to Śiva who is beyond manifestation yet who becomes plural as manifestation. The Netra-tantra is open to Kṡemarāja’s non-dualist reading, although in itself it presents an emanationism rather than a pure metaphysical non-dualism. This is a pre-philosophical discourse in which the self is conceptualised as Śiva at the highest level: the boundaries of person are extensible beyond individuality. The text goes on to describe meditations in which the Yogin does not focus the mind above or below, with eyes neither shut nor open, focussing on the sense of self as universal.[^87] Having practiced these three methods (the gross, subtle, and supreme) the Yogin becomes a conqueror of death, a practice that is called ‘the cheating of time’ (kālasya vañcanam).[^88] This is consonant with the Pratyabhijñā doctrine of the experienced
 
 [^85]: NT 8.38-40. Na f. 21, Nb f. 14, verso. 38b: vicared\] Na, Nb: vimṛśed, K. 38c: sarvābhāsa\] Na, Nb: sa sābhāsa, K. 39a: caivanyo\] Na, Nb: cānyo'sti, K. 39b: nirābhāso yathā\] Na, Nb: nirābhāsas tadā, K. 40d: jñānam\] Na, Nb: manaḥ, K.
+
 [^86]: This would seem to be a stock phrase, attested earlier in the text at 3.14. It is cited by the Śaiva Siddhānta Bhaṫṫa Nārāyaṅakaṅtha in his commentary on the Mṛgendrāgama, Yogapāda 59, in Abhinavagupta’s [[Tantraloka 29.064|Tantrāloka 29.64a]] which adds kevalāḥ śaktayas tv aham, ‘I am merely powers,’ and the Tantrasadbhāva 1.328.
+
 [^87]: NT.8.41-43.
+
 [^88]: NT 8.50.
 
 *[p. 23]* ^pg23

@@ -67,43 +67,78 @@ Moreover, even if one planted barley in his own field next to wheat and extended
 Similarly, if a corner [of a portion] of one's field [sown] with one species touches a block [of the field sown] with another species, it is permitted, because they appear separate from each other.[^35] Needless to say, if the corner [of a portion of one's field sown] with one species touches a corner [of the field sown] with another species, it is permitted without setting them apart or making a distinction as we explained,[^36] because it appears that it is the end of one field that touched the end of another field. ^3-18
 
 [^1]: In his Commentary to the Mishnah (*Kilayim* 1:2), the Rambam defines this as "mountain lettuce." The examples cited by the Rambam in this and following halachot are all taken from *Kilayim*, ch. 1. Our translation is largely dependent on the Rambam's Commentary to the Mishnah and Rav Kappach's notes to that text.
+
 [^2]: This squash has a bitter taste and is made edible only by putting it in a *remetz*, a pit filled with smoldering ashes (*ibid.*).
+
 [^3]: Two types of wild beans.
+
 [^4]: See Halachah 6.
+
 [^5]: The Rambam also states this principle in his Commentary to the Mishnah (*Kilayim* 3:1). According to his understanding, it is our perception which determines whether one is mixing species or not. Their biological nature is a secondary factor.
+
 [^6]: The Ra'avad differs on the principle explained by the Rambam and considers these species as *kilayim*.
+
 [^7]: The Rambam is stating a general principle with which he introduces the coming halachot.
+
 [^8]: I.e., slightly more than that sum (*Kessef Mishneh*).
+
 [^9]: Our translation is based on the gloss of the *Kessef Mishneh* who cites the Rambam's Commentary to the Mishnah (*Kilayim* 3:3) as a source.  
     The Radbaz and the *Kessef Mishneh* cite the Jerusalem Talmud (*Kilayim* 2:7) which states that if one species surrounds the other on all four sides, such a separation is not sufficient. They say that one could understand the Rambam as alluding to that view. The *Aruch HaShulchan* 297:32, however, explains that the Rambam differs.
+
 [^10]: I.e., unless it is less than the smaller figure, it is not forbidden by Scriptural Law. Nevertheless, as a safeguard, our Sages required an even greater separation.
+
 [^11]: Whose leaves spread very far (see Halachah 13).
+
 [^12]: Although the Ra'avad rules stringently, stating that the measures mentioned in the previous halachah apply in this instance as well, the Radbaz and the *Kessef Mishneh* justify the Rambam's approach.
+
 [^13]: Since there is grain involved, we rule stringently (Radbaz).
+
 [^14]: Here the Rambam does not define what constitutes a field. In *Hilchot Matanot Aniyim* 3:4, he states that a small field is 50 cubits by 2 cubits and in *Hilchot Shechenim* 1:4, he defines a field as a place that is fit to sow nine *kabbim*. In his Commentary to the Mishnah (*Bava Basra* 1:6), he defines that as being 3750 sq. cubits.
+
 [^15]: If he wants to sow this row in the middle of the field, he must leave such a trench on either side (Radbaz).
+
 [^16]: For a separation this size is sufficient to set the row apart as a distinct entity [the Rambam's Commentary to the Mishnah (*Kilayim* 3:3)].
+
 [^17]: The trench must be at least a handbreadth deep.  
     The Ra'avad differs with the Rambam's interpretation of this concept, but the Radbaz and the *Kessef Mishneh* substantiate the Rambam's understanding.
+
 [^18]: See Chapter 4, Halachah 3, and notes.
+
 [^19]: The Radbaz explains that he could also cut off the extensions of the squash plants, but apparently, he would suffer a greater loss from doing that than from uprooting the grain. Hence, the Rambam is simply giving him good advice.
+
 [^20]: The Radbaz mentions that this also refers to the concepts mentioned in the previous halachah. It is, nevertheless, placed here to teach that even though there is grain involved (see Halachah 9), since we are speaking only of one row, there is no need for additional stringency.
+
 [^21]: Even though there is an appropriate separation, the species appear to be mixed [the Rambam's Commentary to the Mishnah (*Kilayim* 3:11)].
+
 [^22]: Our translation follows the gloss of the Radbaz. Others interpret the term *bor* as referring to an unplowed field.
+
 [^23]: Which is four cubits wide (see *Hilchot Matanot Aniyim* 3:3).
+
 [^24]: And thus it appears as a tent [the Rambam's Commentary to the Mishnah (*Kilayim* 3:11)].
+
 [^25]: This ruling is an outgrowth of the rationale for the prohibition against mixed species: not to intermingle the different spiritual powers that give energy to the various crops (see the commentary of Rabbenu Bachaye to [[Torah 30 - Kedoshim#^19-19|Leviticus 19:19]] . If the properties belong to two different people - even though the land on which the different crops grow are adjacent - the two spiritual mediums of nurture will not be intermingled (*Yayin Malchut*).  
     The Ra'avad does not accept the Rambam's ruling. He accepts the following clause - for it is an explicit mishnah (*Kilayim* 2:7) - but maintains that the sowing of the two species next to each other are acceptable in that instance, because at the outset, there was a clear distinction. In this instance, by contrast, there is no distinction at the outset, and it appears that a prohibition was violated. The Radbaz justifies the Rambam's ruling, stating that if one is allowed to sow mixed species in his own field, because it appears to be an extension of his colleague's field, certainly, his colleague is allowed to plant a different species in his own field.
+
 [^26]: And thus they will not appear as mixed species to an onlooker.
+
 [^27]: Despite the fact that the two fields appear to be one continuous field of wheat, planting the one row of flax is permitted for the rationale explained by the Rambam (Radbaz).
+
 [^28]: I.e., he is not intending to reap any benefit from planting this flax. For this reason, the prohibition against *kilayim* does not apply.
+
 [^29]: I.e., since the reason for the leniency is that everyone can see that he has no benefit from the row of flax, when that rationale does not apply, the leniency is not granted.
+
 [^30]: I.e., a species other than flax that people might commonly sow only one row of.
+
 [^31]: Our text is based on authoritative manuscripts of the *Mishneh Torah*. The version in the standard printed text is slightly different.
+
 [^32]: Needless to say, this applies when the fields are sown with the same species (Radbaz).
+
 [^33]: I.e., these are crops for which there is a benefit in sowing a single row. Hence, in contrast to the flax mentioned in the previous halachah, a prohibition exists.  
     The commentaries note that the Rambam's statements here appear to contradict his statement in Chapter 1, Halachah 9, in which he states that it is customary to sow entire fields of mustard seed. They are, however, reinforced by his statements in *Hilchot Matnot Aniyim* 3:11.
+
 [^34]: Since mustard seed and safflower seed have a harmful effect on other crops, there is no prohibition. Significantly, in his Commentary on the Mishnah (*Kilayim* 2:8), the Rambam writes the direct opposite that mustard seed and safflower seed have a harmful effect on grain, but not on other crops.  
     Rav Yosef Corcus notes that from the previous halachah, one might think that it is permitted to plant only a row of flax, but not of other species, because only flax is planted as an experiment. And from this halachah, one might think only mustard seed and safflower seed are forbidden, for otherwise, there would be no reason to single them out individually, but other species are permitted. In resolution, he explains that here the emphasis is on mustard seed and flax seed individually. Since they are permitted next to other species, one might think that they are also permitted next to grain. Hence, it is necessary to emphasize that this is not so.
+
 [^35]: Even though they are adjacent, the manner in which they are planted makes a clear distinction.
+
 [^36]: In Halachah 16.

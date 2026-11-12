@@ -93,93 +93,153 @@ They walked on, checking the entire Temple Courtyard.[^55] Both groups [met when
 **12.** [^59] This pattern was followed each night except on Sabbath eve. [Then,] they did not hold torches in their hands.[^60] Rather, they checked by the light of the candles, which remained burning from the Sabbath eve.[^61] ^8-12
 
 [^1]: The Rambam (*Sefer HaMitzvot*, positive commandment 22) and the *Sefer HaChinuch* (mitzvah 388) list this as one of the 613 commandments.
+
 [^2]: The *Kessef Mishneh* mentions another reason for guarding the Temple: to prevent those who are forbidden to enter from entering.  
     The place where both the Mishnah and the Rambam describe the watch which the priests and the Levites kept over the Temple has aroused the attention of the commentaries: The Mishnah repeats its description of the watch in two places: at the beginning of the tractate of *Tamid*, which relates the order of the priests' service, and the beginning of the tractate of *Middot*, which defines the structure of the Temple. The Rambam describes this mitzvah in *Hilchot Beit HaBechirah*, which describes the construction of the Temple, but not the details of the priests' service.  
     On this basis, the commentaries explain, we can understand two dimensions implicit in this mitzvah:  
     a) The priests' responsibility to prevent those forbidden to enter from entering; and  
     b) The responsibility incumbent on the entire Jewish people to construct and maintain the Temple in the most fitting manner.  
     Since the presence of guards enhances the glory of the Sanctuary, the mitzvah of guarding the Sanctuary can be seen as an aspect of its very structure. See *Likkutei Sichot*, Vol. 13, p. 56-65.
+
 [^3]: In his commentary to *Tamid*, the Ra'avad states that the priests and Levites also stood watch during the day. The *Minchat Chinuch* mentions that view, explaining that the Rambam explained that the reason for the priestly watch was to show deference to the Temple during the day as well. Just as a palace of an earthly king is guarded both at day and at night, so too, it is proper to keep watch over the Temple in this manner.  
     Nevertheless, the *Tifferet Yisrael* (*Middot* 1:1) explains that since the priests were involved in the Temple service throughout the entire day, that in itself is a clear sign of honor and respect to the Temple, and no further measures were necessary.  
     This view is supported by the commentary of the Rabbenu Asher at the beginning of the tractate of *Tamid*. He explains that the reason for keeping watch over the Temple was to have our attention focused on it at all times. That purpose is surely accomplished by the Temple service, and hence, watchmen are not required then.  
     Accordingly, it appears that the watch would be maintained until the service in the Temple began, with the removal of the Altar's ashes at dawn. Thus, we can understand the last halachah of this chapter, which deals with the preparation of the Sanctuary for the service of the following day, as describing the final aspects of the nightly watch. See *Likkutei Sichot, loc. cit.*
+
 [^4]: The places where the priests and Levites kept watch are described in Halachot 4-9.
+
 [^5]: This verse begins: "And the Lord said to Aaron," thus, indicating the responsibility of Aaron and his sons, the priests, to keep watch over the Sanctuary.
+
 [^6]: Indicating that the Levites were also charged with that responsibility.
+
 [^7]: A Levite.
+
 [^8]: Priests.
+
 [^9]: Thus, this verse indicates that the task was shared by the Priests and Levites together (*Tamid* [[Tamid 26#26a|26a]]).  
     It must be noted that, in order to emphasize the concept he wishes to communicate, the Rambam does not quote the latter verse exactly.
+
 [^10]: (*Sefer HaMitzvot* (negative commandment 67) and the *Sefer HaChinuch* (mitzvah 391) list this as one of the 613 commandments.
+
 [^11]: See *Menachot* [[Menachot 36#36b|36b]].
+
 [^12]: According to the simple meaning "inside" and "outside" refer to the Temple Courtyard. The Levites stood guard outside the Courtyard and the priests, inside. However, the *Minchat Chinuch* renders "inside" as within a building, and "outside" as in the open.
+
 [^13]: *Tamid* [[Tamid 27#27a|27a]] explains the derivation of this practice as [[I Chronicles 26#^26-17|I Chronicles 26:17-18]]), which states:  
     To the east there were six Levites, to the north, four..., to the south, four..., towards Assupin, two and two. At Parber to the west, there were four at the winding stairway and two at the Parber.  
     Thus, there were a total of twenty-four guard positions. Even though this verse describes the watch over the Sanctuary constructed in David's time, and not the Temple itself, the same basic pattern was followed in the later structure.
+
 [^14]: As described in the following three Halachot.  
     Although the above verse specifically mentions Levites, the priests are sometimes (e.g., [[Ezekiel 44#^44-15|Ezekiel 44:15]] referred to as Levites (*Tamid, loc. cit.*).  
     *Tamid* [[Tamid 26#26a|26a]] offers two different explanations why the priests would be placed in three different positions. The first explains that the command to keep watch over the Sanctuary was originally given to Aharon and his sons, a total of three individuals. The second notes that the command to guard the Temple mentions the words "keep watch," three times in the same verse.
+
 [^15]: As described in Halachot 8 and 9.
+
 [^16]: See *Tamid* 1:1, *Middot* 1:1.
+
 [^17]: This structure was located on the south side of the Temple Courtyard, adjacent to the Water Gate.
+
 [^18]: This was the westernmost gate on the northern side of the Temple Courtyard. See Chapter 5, Halachah 4.
+
 [^19]: The reason why these were two-floor structures can be explained in terms of the Rambam's words above, Chapter 6, Halachah 7. There, the Rambam writes that the roofs and upper floors of the structures in the Temple Courtyard were not consecrated. This is very significant, for were they to have been consecrated, it would have been forbidden for the priests to sit or lie there, as stated in Chapter 7, Halachah 6.
+
 [^20]: According to *Tamid* [[Tamid 27#27a|27a]], the term, "young priests," refers to youth who were too young to participate in the Temple services. According to the Ra'avad, these youth were not even thirteen years of age.  
     The *Mishneh LiMelech* rejects that opinion, declaring that this Mitzvah would not be entrusted to children that young. He explains that until the age of twenty, priests were not granted the opportunity to take part in the Temple services. Thus, the "young priests" were youth below that age, but past majority. See also the *Minchat Chinuch*.
+
 [^21]: See Chapter 5, Halachot 10 and 11.
+
 [^22]: As mentioned above, half of the Chamber of the Hearth was considered consecrated, while half was not. According to the principle that one could not lie or sit in the consecrated areas of the Courtyard, it would appear that only half of the chamber was surrounded by these projections.
+
 [^23]: As mentioned in the commentary to Chapter 7, Halachah 4, there were 24 priestly watches. Each served in the Temple for a week, and then another watch was given a chance to serve. There was a set pattern of rotation.  
     Within these watches, there were further subdivisions. Each weekly watch was broken down into six daily watches for each day of the week. On the Sabbath, all the priests of that watch served together.
+
 [^24]: *Tamid* [[Tamid 26#26b|26b]] explains that they slept on these protrusions, because it was disrespectful to bring beds into the Temple complex.
+
 [^25]: The gates to the Temple Courtyard were locked at night.
+
 [^26]: The Vilna Gaon renders this expression as "in their possession." This change is made on the basis of *Middot* 1:9, which states that the keys to the Temple Courtyard were kept on a special ring in the Chamber of the Hearth.
+
 [^27]: From the Rambam's statements, it appears that the priests would be permitted to sleep while on guard duty. This is difficult to accept, for the following reasons:  
     a) The purpose for posting guards around the Temple was to show respect. That objective is not fulfilled by sleeping.  
     b) Halachah 10, which quotes *Middot* 1:2, states that the guards would be punished for sleeping while on duty. Although the Rambam and the Mishnah specifically mention "Levites," it is reasonable to assume that term was used because the majority of the guards were Levites.  
     For these reasons, the *Mishneh LiMelech* explains that all of the guards were not required to remain awake the entire night. Rather, at any particular time, there would be one or two guards awake at each station and the others were permitted to sleep.
+
 [^28]: This refers to the four priestly garments which an ordinary priest was required to wear while serving in the Temple.
+
 [^29]: The priests could not place their priestly garments under their heads to serve as pillows, for they were forbidden to derive benefit from them. See *Yoma* [[Yoma 69#69a|69a]].  
     In his commentary to *Tamid*, Chapter 1, Mishnah 1, the Rambam explains that this prohibition was instituted because the priestly garments contained *Sha'atnez*, a mixture of linen and wool. Hence, though a priest was permitted to use them during the Temple service, once that service was concluded, he was forbidden to do so. See also the *Kessef Mishneh*.
+
 [^30]: [[Torah 28 - Metzora#^15-16|Leviticus 15:16]] explains that a man who has a seminal emission becomes ritually impure. To purify himself, he must immerse his entire body in a *mikveh* and wait until the end of the day.
+
 [^31]: Which lead to a natural *mikveh* positioned under the Temple Courtyard.
+
 [^32]: As explained in Chapter 6, Halachah 7. This passageway passed below the Courtyard. However, since it opened up to the portion of the Chamber of the Hearth that was not consecrated, there was no prohibition in entering while ritually impure.
+
 [^33]: There was no prohibition against remaining in the non-consecrated portion of the Chamber of the Hearth. As stated in Chapter 6, Halachah 17, a person who has already immersed himself in the *mikveh*, but must wait for the day to pass before becoming ritually pure, may remain on the Temple Mount and proceed until the Women's Courtyard.
+
 [^34]: Though there was no prohibition against him remaining in the Chamber of the Hearth, it was proper for him to leave so that no one would think that he was prepared to participate in the Temple services (*Tifferet Yisrael*, *Tamid* 1:1).
+
 [^35]: This halachah is based on *Middot* 1:1.
+
 [^36]: See Chapter 5, Halachah 2, for a description of the gates to the Temple Mount.
+
 [^37]: See the commentary to Halachah 4.
+
 [^38]: See the commentary to Chapter 5, Halachah 4.
+
 [^39]: *Tifferet Yisrael* (*Middot* 1:1) explains that this refers to the Chamber of the Lambs, one of the four smaller chambers in the Chamber of the Hearth. See Chapter 5, Halachah 10.
+
 [^40]: This chamber is not mentioned in Chapter 5, Halachah 17, as one of the chambers within the Temple Courtyard. Similarly, *Tifferet Yisrael* (*op. cit.*) states: "I do not know where it was located."
+
 [^41]: As a sign of respect for the *Shechinah*.
+
 [^42]: He was given the keys to all the gates of the Temple complex.
+
 [^43]: *Tifferet Yisrael* (*Middot* 1:2) explains that the torches were not carried before him, but positioned as lights at the guard stations. Although there is no evidence that the Rambam accepts this view, a comparison with the following halachah indicates this possibility.
+
 [^44]: Chapter 7, Halachah 2, states that it was forbidden to enter the Temple Mount with a staff. Nevertheless, an exception was made to allow "the officer of the Temple Mount" to perform his task (*Yeriot Shlomo*).
+
 [^45]: Although generally, one may not destroy things of value (*bal tashchit*), an exception is made in this case to allow the Temple to be guarded properly.  
     The "officer of the Temple Mount" could be authorized to destroy private property on the basis of the principle: *Hefker Beit Din, Hefker*, i.e., a Jewish court may forfeit a person's ownership over an article (Rabbenu Asher, Commentary to *Middot* 1:1).  
     The *Ezrat Kohanim* does not accept this explanation because the prohibition against destroying things of value applies even in regard to ownerless articles.  
     Another possible explanation is that this step is taken for the watchmen's own good. A father or a teacher is allowed to hit a student to shape his character. Similarly, in this instance, "the officer of the Temple Mount" was entitled to burn a watchman's clothing so that he will perform his task more effectively (*Likkutei Sichot*, Vol. 18, p.465).
+
 [^46]: As mentioned in the commentary to Halachah 6, there is a debate among the Rabbis if the priests were allowed to sleep on their watch or not. Rav Ovadiah of Bartinura (*Shekalim* 5:1) states that both priests and Levites would be beaten for sleeping. However, the *Tosafot Yom Tov* argues that this punishment was only administered to Levites.  
     It would appear that the Rambam subscribes to the latter view. In *Hilchot Klei HaMikdash* (7:4), he writes: "The officer of the Temple Mount walked around, [checking on] the Levites..."
+
 [^47]: The Temple services began with the removal of the ashes from the Altar. Generally, this was done at dawn.  
     The term dawn, *alot hashachar*, refers to the time before sunrise when the first rays of the sun begin to illuminate the horizon. This is more than an hour before sunrise.
+
 [^48]: This does not refer to the "officer of the Temple Mount" mentioned above. In *Hilchot Temidim U'Musafim* 6:1, the Rambam describes this entire procedure a second time. There, he ascribes the waking of the priests to the priest responsible for delegating different sacrificial functions. See also *Tamid* [[Tamid 26#26a|26a]].
+
 [^49]: From the *chayl*.
+
 [^50]: On the external gate of the Chamber of the Hearth,
+
 [^51]: As explained in Halachot 5 and 6.
+
 [^52]: *Middot* 1:7 mentions that the keys to the Courtyard were hung on a ring in the Chamber of the Hearth. See also the notes to Halachah 5.
+
 [^53]: *Tamid* [[Tamid 28#28a|28a]] relates that there was a small wicket next to the large gate leading from the Chamber of the Hearth to the Temple Courtyard. The large gate would not be opened until dawn. Therefore, the priests entered through the wicket to prepare the Courtyard for the service of the coming day.
+
 [^54]: As explained in Chapter 5, the Chamber of the Hearth was positioned on the north side of the Temple Courtyard, slightly beyond the entrance of the Temple building. From this point, one group would proceed westward, towards the western end of the Courtyard. The other group walked towards the east, in the direction of the Gate of Nicanor, the major entrance to the Courtyard. Both groups walked near the walls, so that they would make a complete circuit around the Courtyard.
+
 [^55]: To make sure all of the sacred utensils were in their proper places.
+
 [^56]: See Chapter 5, Halachah 17, where this chamber is described.  
     The Chamber of the Bakers of the Chavitin was located on the southern side of the Courtyard's eastern wall. Thus, the group of priests who turned westward had a much longer route than those who proceeded to the east.
+
 [^57]: The Ra'avad in his commentary to *Tamid* [[Tamid 28#28a|28a]] explains that each group would greet the other in this manner.
+
 [^58]: The *Chavitin* was offered each day by the High Priest shortly after the morning sacrifice.  
     A general question may be asked concerning this and the following halachah: Why did the Rambam include them in *Hilchot Beit HaBechirah* which describes the construction of the Temple? It would appear more appropriate to mention them in *Hilchot Temidim UMusafim*, where the laws governing the daily service in the Temple are described. Indeed, we find that these laws are repeated there.  
     The reason is based on the explanation of Halachah 1. There, the Rambam states that the watch kept over the Temple was an act of deference, enhancing the glory of the Temple. Thus, maintaining that the watch is part of the responsibility of the entire Jewish people to construct and maintain the Temple in the most fitting manner.  
     A similar principle can be explained in regard to this inspection of the Courtyard. Over and above the need for checking to see that all the sacred utensils were in there appropriate positions, this inspection was an act of deference and honor which enhanced the importance of the Temple (Likkutei Sichot, Vol. 18, p. 244-249).
+
 [^59]: **This is the final halachah of *Hilchot Beit HaBechirah*. There are a total of 7 halachot in the text. The latter figure matches the age of Levi when he passed away. Levi was the ancestor of the priests and the Levites who served in the Temple.**
+
 [^60]: Because it is forbidden to carry a flame on the Sabbath.
+
 [^61]: The *Kessef Mishnah, Tosafot Yom Tov*, and other commentaries, question why they were not permitted to carry the torches with them. Although carrying fire is prohibited on the Sabbath, the prohibition is only Rabbinic in origin in the category of *shvut*. The Rambam states (*Hilchot Shabbat* 21:27) that all Rabbinic prohibitions of this nature were suspended in the Temple.  
     Among the explanations offered are: Since it was possible to use candles which were lit before the Sabbath, there is no need to violate even a Rabbinic prohibition. Alternatively, this inspection was carried out in preparation for the service of the entire day to follow and, as above, it was an act of deference to the Temple. Therefore, to emphasize the holiness of the Temple, it was proper that it be carried out without violating any prohibition whatsoever.  
     The structure of the final chapter of *Hilchot Beit HaBechirah* can be explained homiletically: It begins with the obligation to guard the Temple at night, and concludes with the preparations for the Temple services at dawn.  

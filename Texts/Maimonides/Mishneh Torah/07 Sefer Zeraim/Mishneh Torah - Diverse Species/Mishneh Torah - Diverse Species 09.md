@@ -86,36 +86,65 @@ According to Rabbinic Law, however, whenever it is forbidden to mate two species
 **11.** When an animal has been sanctified but disqualified [and then redeemed][^30] even though it is one animal, the Torah considers it as two bodies. For it is consecrated and it is as if it is both a consecrated and an ordinary animal mixed as one. Thus this animal is like a non-kosher animal and a kosher animal mixed together and \[[[Torah 33 - Bechukotai#^27-11|Leviticus 27:11]]] states: "If any impure animal that may not be offered as a sacrifice." According to the Oral Tradition, [the verse] was interpreted as referring to animals that had been sanctified, but disqualified. Accordingly, a person who plows with an ox that had been sanctified but disqualified or mates such an ox is liable for lashes because of the prohibition against mixed species. This prohibition is part of the received tradition. ^9-11
 
 [^1]: Even if both species are kosher (see *Minchat Chinuch*, mitzvah 244); see *Sifei Cohen, Yoreh De'ah* 294:1.
+
 [^2]: But not fish (*Kessef Mishneh*).
+
 [^3]: I.e., he transgresses a negative commandment, included as one of the 365 negative commandments by *Sefer HaMitzvot* (negative commandment 217) and *Sefer HaChinuch* (mitzvah 244).
+
 [^4]: In contrast to the laws regarding sowing mixed species of crops (Chapter 1, Halachah 1) and sowing mixed species in a vineyard (Chapter 5, Halachah 2).
+
 [^5]: Although the prooftext states "your animal," this is not meant as an exclusion (*Sifra* to that verse).
+
 [^6]: The punishment given for violating a Rabbinic ordinance.
+
 [^7]: For the owner is not involved in their mating. The Rama (*Yoreh De'ah* 297:3) states that in a place where there is a suspicion that others will cause the two animals to mate, it is forbidden to place them in the same corral.
+
 [^8]: Based on *Bava Metzia* [[Bava Metzia 90#90a|90a]], the Radbaz and the *Kessef Mishneh* state that the difficulty is that it is forbidden to give a gentile instructions to perform a prohibited activity. According to the Rambam (*Hilchot Melachim* 10:6), it is forbidden for a gentile to crossbreed species. The Rama (*loc. cit.*:4), however, states that if the act is performed for the benefit of the gentile, there is no prohibition.
+
 [^9]: I.e., if the mated species are not kosher.
+
 [^10]: *Hilchot Ma'achalot Assurot* 1:13.  
     Here we see another difference with produce that grows from mixed species. The latter is forbidden, while in this instance, the mixed offspring is permitted. Implied is that the prohibition against mixed produce affects the *cheftza*, the actual substance of the forbidden entity, while the prohibition against mating mix species applies only to the *gavra*, the person performing the mating.
+
 [^11]: In the text of the *Mishneh Torah*, this phrase is repeated a second time.
+
 [^12]: Our translation is taken from the Rambam's Commentary to the Mishnah (*Kilayim* 1:6).
+
 [^13]: Our translation is taken from the Rambam's Commentary to the Mishnah (*Kilayim* 1:6).
+
 [^14]: The Radbaz notes that the term "wild ox" is sometimes used to refer to a buffalo which is considered a separate species and not part of the ox species. He states that here the intent is different and the Rambam is referring to a species of domesticated animal. See also *Siftei Cohen* 297:6.
+
 [^15]: A *ko'i* is a hybrid born from breeding a deer and a goat. There is an unresolved question among our Sages if it is considered as a domesticated animal (*behemah*) or a wild beast [(*chayah*) the Rambam's Commentary to the Mishnah, *Bikkurim* 2:8]. In *Hilchot Ma'achalot Assurot* 1:13, he states that the term refers to any hybrid that comes from mating a domesticated animal with a wild beast.
+
 [^16]: In *Hilchot Nazirut* 2:10-11, the Rambam writes:  
     In certain matters, a *ko'i* resembles a wild beast. In other matters, it resembles a domesticated animal. In still other matters, it resembles both a wild beast and a domesticated animal and in still other matters, it resembles neither a domesticated animal, nor a wild beast....  
     What is implied? [When] a *ko'i* [is slaughtered, its] blood must be covered as the blood of a wild beast must. Its fat is forbidden as is the fat of a domesticated animal. It is considered a union of mixed species if it is mated with either a domesticated animal or a wild beast, as if it were neither a wild beast or a domesticated animal. And it must be ritually slaughtered as is required for both a domesticated animal or a wild beast. Similarly, there are other halachic considerations that apply with regard to it and they will all be explained in their appropriate place.  
     See *Hilchot Shechitah* 12:8-9; *Hilchot Bikkurim* 9:5; 10:7; *Hilchot Sha'ar Avot HaTumah* 1:6, *et al*, which mention other laws applying to this animal.
+
 [^17]: As the Rambam emphasizes in his Commentary to the Mishnah (*Kilayim* 8:4), the fundamental principle is that the species of the mother is the determining factor whether the union is considered as mixed species or not.
+
 [^18]: The *Kessef Mishneh*suggests that since the determining factor is the species of the mother, the text should read "he is not liable for lashes." According to that interpretation, the bracketed additions in the translation are inappropriate.
+
 [^19]: Which comes from mating a horse and a donkey.
+
 [^20]: I.e., according to the Rambam - other *Rishonim* differ - according to Scriptural Law, one is permitted to work with two animals from two different kosher species. It is only mating them which is forbidden. The Rambam's understanding is based on his interpretation of the Mishnah (*Kilayim* 8:2) which he understands to be divided in half, the first clauses referring to the prohibition of mating stated in the previous halachah, and the latter clauses to the prohibition against working with different species. The commentaries note that the Rambam's perspective is shared by the *Tikkunei Zohar, Tikkun* 14.
+
 [^21]: I.e., he transgresses a negative commandment, included as one of the 365 negative commandments by *Sefer HaMitzvot* (negative commandment 218) and *Sefer HaChinuch* (mitzvah 550).
+
 [^22]: I.e., not only in *Eretz Yisrael* (see *Kiddushin* [[Kiddushin 36#36b|36b]]).
+
 [^23]: In which instance, one might think that one is not liable because he did not perform a deed.
+
 [^24]: For that implies a combined activity [the Rambam's Commentary to the Mishnah (*Kilayim* 8:2)].
+
 [^25]: For he has not had them perform a forbidden task.
+
 [^26]: The Radbaz and the *Kessef Mishneh* emphasize that the animals from the two must be yoked or tied together in some way for one to be liable for leading them. If they are separate, he is not liable.
+
 [^27]: *Hilchot Ma'achalot Assurot* 6:1 quotes [[Torah 47 - Re'eh#^14-4|Deuteronomy 14:4-5]] which states: "These are the animals that you may eat: an ox... a gazelle and a deer," including both domesticated animals and beasts in the general category "animals."
+
 [^28]: *Bava Kama* [[Bava Kamma 55#55a|55a]] raises the question whether one is liable for stripes for rebellious conduct for such an action or not, for the two cannot function as a team in the ordinary sense, sense the fish cannot leave the water and the goat will not enter it. Since the question is left unresolved, the Rambam maintains that the person is not liable.
+
 [^29]: I.e., he was holding the reins of the animals.
+
 [^30]: I.e., an animal was sanctified as an offering, but then developed a blemish that disqualifies it. It was redeemed and thus is considered as an ordinary animal in that after it is slaughtered, it may be eaten without any of the strictures associated with consecrated food. While alive, however, it is forbidden to work with it or shear it, like consecrated animals. See Rashi, *Makkot* [[Makkot 22#22a|22a]]. The Ra'avad and *Tosafot* offer different interpretations.

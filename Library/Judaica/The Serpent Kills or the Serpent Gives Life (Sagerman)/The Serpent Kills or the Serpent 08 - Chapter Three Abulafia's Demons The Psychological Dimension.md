@@ -28,6 +28,7 @@ To contextualize within his wider corpus Abulafia’s account of his own initial
 Recent scholarly work has opened the way for an extended consideration of the connection between Abulafia’s demonology and Christianity. Wolfson has written at length about the zoharic authorship’s view of the Jewish mystic’s succumbing to the idolatrous and demonological temptations posed by the Christian other.[^2] In regard to Abulafia, Wolfson, following upon the work of Scholem and Idel, has as well investigated Abulafia’s conception of the bipartite composition 
 
 [^1]: *\[illegible\] Eden Ganuz*, MS Oxford-BL 1580, fol. 165a; printed edition, pp. 369–370. See Scholem, *Major Trends in Jewish Mysticism*, p. 127.
+
 [^2]: See above, pp. 7–8, 27 n. 9.
 
 *[p. 108]* ^pg123
@@ -53,9 +54,13 @@ The refinement of the mystic’s being, in Abulafia’s estimation, comes from t
 5\. *\[illegible\] ha-Nefesh*, MS Munich-BS 408 fol. 69a; printed edition, p. 121. See above, p. 100; Scholem, *Kabbalah*, p. 180.
 
 [^6]: Wolfson, *Abraham Abulafia*, p. 199.
+
 [^7]: Ibid., p. 209. See also pp. 197–204, 225.
+
 [^8]: Note again *\[illegible\] ha-Nefesh*, MS Munich-BS 408 fol. 69a; printed edition, p. 121, where refinement and permutation were seen to operate “through the Torah.”
+
 [^9]: Idel, for instance, writes of Abulafia’s conception of the binding of Isaac as a trial imposed upon Abraham, representing “. . . the intellect overpowering the imagination, or by the overpowering of the positive inclination over the evil inclination.” *Language,* *Torah, and Hermeneutics in Abraham Abulafia*, pp. 61, 67.
+
 [^10]: Additionally, Idel adduces a passage from *Mafteah ha-Hokhmot* which states that the purpose of the trial is for the mystic to acquire self-knowledge. Ibid., p. 122.
 
 *[p. 110]* ^pg125
@@ -77,9 +82,13 @@ in every respect, \[to see\] whether or not it is proper to make of him a righte
 We may understand, then, that the failure to see the divine efflux’s evil as a genuine good is tantamount to falling victim to idolatry by failing to uphold God’s unity, the transgression which Abulafia and other kabbalists refer to as “cutting the plantings.”[^18] Abulafia enjoins the mystic to perceive properly that that which is of God and that which is not—that is, that which is satanic—are united in the Holy 
 
 [^14]: Idel discusses Abulafia’s, and his disciples’, conception of Metatron as comprising good and evil aspects. *The Mystical Experience in Abraham Abulafia*, pp. 117, 166 n. 219. Wolfson discusses Metatron’s identification as both judge, or Samael, and as merciful one. As well, he stands at once for the first and tenth of the *sefirot*. *Abraham Abulafia*, pp. 59 n. 167, 83, 172 n. 213.
+
 [^15]: So it is that Abulafia reports that “the demonic efflux,” which is the “strange fire,” is “the first power” that the mystic receives. *Sefer ha-Melammed*, MS Paris-BN héb. 680, fol. 292a; printed edition, p. 12. For the further significance of this “strange fire,” see below.
+
 [^16]: Abulafia consistently upholds general principles (*kelalim*) over particulars l (perațim) in his writings, suggesting that the former partake of a supernal nature, while the latter are terrestrial and illusory. Thus the human individual, by which I understand his usage of the term *perat* here, is lost in false appearances and does not recognize evil for good, while the hypostases, the *sefirot*, recognize evil for what it is in its essence, good. See *\[illegible\] ha-Shemot*: “. . . it \[matter\] is good in general but it is called evil in the examination of its particulars . . .” MS NY-JTSA Mic. 1897, fol. 51a; printed edition, p. 18.
+
 [^17]: See above, pp. 82, 104.
+
 [^18]: Wolfson connects this motif directly with his aforecited discussion of the representation of the demonic threat as a sword-bearing combatant. *Language, Eros, Being*,
 
 *[p. 112]* ^pg127
@@ -135,9 +144,13 @@ ment” \[illegible\] ) that results from esoteric practice, that is, from lette
 And a man may not understand and grasp the height of the true examination except according to what you will hear: And it is that you must first believe in your heart, in every way that you are able to believe, that the letters are signs and hints in the likeness of attributes and allegories in their essences. And they are found to be tools for man, to instruct in the way of apprehension. And for us they are in the likeness of strings of a lyre, which, from the bringing out of its voice, with the drawing of the bow in the hand upon the strings, and in the changing of this bowing from string to string, and in the permutation (seruf ) of the sounds that are born from it, rouses to joy and pleasure the soul of the man who seeks to rejoice. And it \[the soul\] will receive from its \[the instrument’s\] delight, and great enjoyment of the soul results from this, because the joy is natural for every man. And if he is not roused to it from the image of thought, the soul will not be moved to joy. And if the man is sorrowful and indolent at the time of the movement of his heart to the goal of receiving the joy, he will not receive it at all. Because the sorrow and lassitude that are engraved in his thought, in one way among others, are very strong, and they are the opposite of joy. And if the opposite is well-founded and strong, how will it be possible to find the opposite in actualization, whose potentiality is in utmost weakness? 
 
 [^24]: *Hayyei ha- ‘Olam ha-Ba’,* MS Oxford-BL 1582, fol. 34a; printed edition, p. 116. Wolfson mentions the modes of perfection delineated by Abulafia for the worthy student. *Abraham Abulafia*, p. 69.
+
 [^25]: *\[illegible\] \[illegible\] ha-Ba’,* MS Oxford-BL 1582, fol. 35a; printed edition, p. 117.
+
 [^26]: BT. *Berakhot* [[Berakhot 55#55a|55a]]. For the craftsman Besalel, s see Exodus, chapters 31, 35 through 39.
+
 [^27]: Wolfson adduces this passage in order to demonstrate that Abulafia understands letter permutation to be suggested by the rabbinic sages as a *\[illegible\]* through which a person may be purified. *Abraham Abulafia*, p. 199.
+
 [^28]: *Sefer ha-Hesheq,* MS NY-JTSA Mic. 1801, fols. 32a–b; printed edition, p. 63.
 
 *[p. 117]* ^pg132
@@ -147,7 +160,9 @@ Abulafia extends the notion of “permutation” further here, applying it to mu
 Notwithstanding the emphasis that we have seen Abulafia place upon the human intellect and on the interpretive faculty with respect to the conjunction with the Active Intellect, Abulafia is clear here that the emotional dimension of letter permutation is the trigger to prophetic experience. Overwhelming joy is not simply an accompaniment to the mystical experience, as might seem to be the case from some of Abulafia’s other descriptions of the attainment of prophecy.[^31] Here we see that the mystic’s engagement with the letters and their significations is aimed specifically toward the consummation of an ecstatic state. The level of prophecy, an intellective and hermeneutical outpouring, flows from this ecstasy. Thus Abulafia avails himself of *Shabbat* [[Shabbat 30#30b|30b]], “Prophecy does not prevail within grief or lassitude, only within joy.” Writes Abulafia regarding those attributes associated with such a state of well-being, “These are without a doubt the attributes appropriate for every prophet before the fact \[illegible\] *lehiyotan* 
 
 [^29]: Scholem has noted Abulafia’s keen interest in this analogy, pointing to its being indicative of Abulafia’s removal of the letters from any sense of literary or interpretive context. *Major Trends in Jewish Mysticism*, p. 133. They become, as Scholem describes them, “meaningless,” and they come thereby to comprise a “music of pure thought.” Idel also notes Abulafia’s comparison of letter permutation and music. This stems from the harmony produced between two elements (two letters, or two instruments), from the joy that results from either, and from the fact that each is an external activity that brings about internal effects on the soul. “The Writings of Abraham Abulafia and His Teaching,” p. 278 (in Hebrew). Prophecy, Idel notes, is for Abulafia like the hearing of music, while music may also serve as a vehicle for prophecy. Ibid., pp. 279–280. See also the parallel discussion, “Music and Ecstatic Kabbalah,” in, idem, *The Mystical Experience in Abraham Abulafia*, pp. 55–73.
+
 [^30]: This flies in the face of Scholem’s perspective, I believe, on the musical analogy found in the preceding note.
+
 [^31]: Scholem, *Major Trends in Jewish Mysticism*, pp. 123, 134.
 
 *[p. 118]* ^pg133
@@ -163,8 +178,11 @@ Behold the wonders of Torah and how it reveals our nature with respect to the ma
 Abulafia suggests that demons and their associated powers are hindrances to the apprehension of God, obtained via His names.[^35] We have already examined Abulafia’s perspective that communion with divine names is the route to prophetic knowledge. Such knowledge 
 
 [^32]: *Sefer ha-Hesheq,* MS NY-JTSA Mic. 1801, fol. 32b; printed edition, p. 64.
+
 [^33]: Abulafia also emphasizes the importance of the elimination of all doubts to success in mystical practice in *Mafteah ha-Shemot*, MS NY-JTSA Mic. 1897, fol. 64b; printed edition, p. 66.
+
 [^34]: *\[illegible\] ha-Tokhahot,* MS Oxford-BL 1605, fol. 56a; printed edition, p. 59.
+
 [^35]: See Scholem, *The Kabbalah of Sefer Temunah*, p. 179 (in Hebrew). Wolfson presents a passage from *Mafieah ha-Shemot* which presents the flipside of this formulation: One must make use of one’s intellect to ensnare these demons by means of an “intelligible image.” *Abraham Abulafia*, p. 163.
 
 *[p. 119]* ^pg134
@@ -180,6 +198,7 @@ On the subject of demonic “obstruction,” Abulafia writes elsewhere as follow
 Abulafia informs us that the only obstruction to successful attunement to God’s will, achieved through the divination of secrets embedded within holy names, is the will of Satan.[^37] On a technical level, Abulafia alludes again to letter permutation, to which names are to be 
 
 [^36]: *\[illegible\] Eden Ganuz*, MS Oxford-BL 1580, fol. 28a; printed edition, pp. 57–58.
+
 [^37]: Elsewhere, *\[illegible\] ha-Tokhahot,* MS Oxford-BL 1605, fol. 69b; printed edition, p. 82, it is the demonic entity Sandalfon who is referred to as the obstruction.
 
 *[p. 120]* ^pg135
@@ -191,6 +210,7 @@ In a noteworthy passage from *Mafteah ha- Tokhahot,* Abulafia discusses at some 
 . . . And then you will find that He, may He be blessed, will cause all of your enemies to fall beneath you, as He did to pharaoh and to his people. And the cause of your enemies falling beneath you is ([[Torah 46 - Eikev#^7-21|Deut. 7:21]]), “. . . because the Lord your God is among you, a mighty and terrible God.” And study its speaking of a lofty hint concerning the ban on idolatry in the matter of the \[destruction of the idols of the nations, whose\] ([[Torah 46 - Eikev#^7-25|Deut. 7:25]]), “. . . silver or gold that is on them \[you should not desire\], or take it for yourself, lest you be snared with it; because it is an abomination to the Lord your God. And you shall not bring an abomination to your house . . .” etc. “All the commandments ([[Torah 46 - Eikev#^8-8|Deut. 8:8]]) . . .” etc. See what I have said to you, that all is contained in the name of one *\[illegible\]* And see its mention of the matter of the trial \[of the Israelites in the desert\] in its saying ([[Torah 46 - Eikev#^8-2|Deut. 8:2]]), “. . . to humble you, and to try you, to know \[what was in your heart\], whether you would keep His commandments or not.” . . . And its explanation is to know in the trial of your essence what is in your heart, established in the keeping of the special *misvah* which we mentioned above, which is the goal of man, whether you will keep it in the turning over upon you (ba-hithafah 
 
 [^38]: Idel as well observes the martial cast with which Abulafia imbues the struggle against his evil inclination. “Inner Peace through Inner Struggle,” pp. 66–74.
+
 [^39]: *Mafieah ha-Tokhahot,* printed edition, MS Oxford-BL 1605, fols. 46a–b; printed edition, pp. 42–43.
 
 *[p. 121]* ^pg136
@@ -202,7 +222,9 @@ Counterpoised by Abulafia against this danger are the *misvot.* They are referen
 We have noted the autobiographical dimension to such discussions on Abulafia’s part. A question begins to emerge as to how to reconcile Abulafia’s call to resist the lure of the nations with the observation that his writings are replete with Christian borrowings. One possible resolution to this problem is that Abulafia failed in the trial that he 
 
 [^40]: *Sefer Ke esirah,* Gruenwald ed., 6:1–2 (para. 59).
+
 [^41]: Idel notes this with respect to pharaoh. *Language, Torah, and Hermeneutics in Abraham Abulafia*, p. 67.
+
 [^42]: *Mafteah ha-Tokhahot,* MS Oxford-BL 1605, fol. 45a; printed edition, p. 41.
 
 *[p. 122]* ^pg137
@@ -215,6 +237,7 @@ As he continues in *M: afteah ha-Tokhahot,* Abulafia describes the trial of the 
 44\. Idel makes note of a passage in *Hayyei ha- ‘Olam ha-Ba ?* wherein Abulafia prescribes breathing methods which kill Satan and other demons. *The Mystical Experience in Abraham Abulafia*, p. 27. Given Abulafia’s perception of the “one *misvah,”* the achievement of prophecy, even such a seemingly technical exercise comes into conformity with Wolfson’s notion of a hypernomian basis to Abulafia’s project. His emphasis in the current passage on performative action as part of the trial by demon could readily include such breathing practices.
 
 [^45]: The locution is discussed by Wolfson, *Abraham Abulafia*, pp. 172–173, with respect to the “inversion of the attributes.”
+
 [^46]: Idel observes the link between the threat from demonic phantasms, to be associated with Sandalfon, and the imaginative faculty. Both Idel and Scholem observe the same tendency in Sufi thought. Idel notes the presence of images, in *Likkutei ha-Ran*, linked to both Metatron and Sandalfon, the former being good images, the latter evil. *Studies in Ecstatic Kabbalah*, pp. 74–76. See also Scholem, *Major Trends in Jewish Mysticism*, p. 147. Idel observes as well that, in *\[illegible\] Sedeq,* written by a disciple of Abulafia, Sandalfon obstructs successful manipulation of names and that he stands behind the demonic threat. *Studies in Ecstatic Kabbalah*, p. 78.
 
 *[p. 123]* ^pg138
@@ -236,7 +259,9 @@ Abulafia explains that he places his faith in intellective thought, as against i
 In the present passage, manna serves as an example for Abulafia of that which is sensate yet purely intellective. [[Torah 46 - Eikev#^8-3|Deuteronomy 8:3]] affords Abulafia the means to effect a connection between words received from God—that is, prophetic revelation—and the sensory product of the intellect, manna. The degree to which this conceptualization of manna is in accord with contemporary Christian ones is striking. 
 
 [^48]: See *Mafteah ha-Ra'ayon* (*The Key of Speculation*), MS Vatican-BA ebr. 291, fols. 21a–b; printed edition, p. 5, for a discussion of the “intellective image.”
+
 [^49]: Idel evinces a passage from *\[illegible\] \[illegible\] ha-Bo’,* in which Abulafia indicates that Satan attempts to create phantasms to distract the mystic, and even to generate physical illusions that may disrupt the mystic’s concentration. Nevertheless, because of the rigors required of the mystic in Abulafia’s technique, Idel believes that it would have been “almost impossible” for the mystic’s attention to wander, for which reason “this danger is not emphasized much in Abulafia’s works.” *The Mystical Experience in Abraham Abulafia*, p. 121.
+
 [^50]: Maimonides pointed to the difficulty in distinguishing imaginative from intellective “mental representations,” writing, “. . . one individual claims that they are intellectual representations, whereas another affirms that they are imaginative representations.” *The Guide of the Perplexed* 1:73.
 
 *[p. 125]* ^pg140
@@ -270,7 +295,9 @@ Every enlightened one, within whom is the Holy Spirit, is obligated, from the pe
 Abulafia avers that the mystic must distinguish properly, at the time of his reception of the efflux from the Active Intellect, between those things that lead him toward the realization of his goal, cast here in terms of communion with the *Shekhinah*,[^55] and those which are obstructions. In this connection, the mystic must as well examine features of his own psyche, some of which will enable him to make this distinction and some of which will not. This discussion runs parallel, 
 
 [^53]: *\[illegible\] ha- Tokhahot,* MS Oxford-BL 1605, fol. 48a; printed edition, p. 45.
+
 [^54]: *\[illegible\] ha-Ra'ayon,* MS Vatican-BA ebr. 291, fol. 21a; printed edition, p. 4.
+
 [^55]: Literally, “Indwelling,” the *Shekhinah* was understood by the theosophic kabbalists to be the hypostatic feminine principle of the divine, manifested terrestrially and equated with the lowest of the *sefirot, Malkhut.* The mystic was to seek erotic union with the *Shekhinah*, by which as well the *Shekhinah* would be unified with the upper *sefirot*, particularly the masculine *Tiferet,* through the agency of the phallic potency *Yesod* (Foundation), which served as well as the conduit for divine sustenance. Abulafia equated the *Shekhinah* with the Active Intellect. Scholem, *Major Trends in Jewish Mysticism*, pp. 143, 229–235.
 
 *[p. 128]* ^pg143
@@ -282,6 +309,7 @@ And in finding it \[the proper power or spirit within the mystic\], the one who 
 At the outset, the consequences of mustering the proper inner quality are expressed in a manner which recalls the unification of knower, knowledge and known, a formulation applied by Abulafia to the unification of the mystic with the divine Active Intellect during *devequt* (“cleaving” or “adhesion”).[^56] The mystic will come then to an insight regarding the true identity of the one “who apprehends,” that is, himself. Likely, Abulafia has in mind the realization of the mystic’s self-identification as Metatron or as Raziel, a phenomenon that expresses the mystic’s uniting within himself knower, knowledge and known.[^57] This may happen, Abulafia relates here, only when the mystic assigns 
 
 [^56]: Idel, *The Mystical Experience in Abraham Abulafia*, p. 126.
+
 [^57]: Scholem discusses Abulafia’s description of his visions of his own self projected before him and imparting revelation. *Major Trends in Jewish Mysticism*, pp. 141–142. See also Idel, *The Mystical Experience in Abraham Abulafia*, p. 90; Wolfson, *Abraham Abulafia*,
 
 *[p. 129]* ^pg144
@@ -293,6 +321,7 @@ Abulafia next refers above to the misconceptions of “most men” with respect 
 Because this matter that is sought is not from the truth of wisdom, and two like opinions are not found in the truth of the telling of a master of that name regarding the name of a demon. Because there are those that 
 
 [^58]: Abulafia apparently senses in this habit of “most men” a corruption of a time-honored Jewish mystical principle, that Hebrew, as the sacred *prima lingua*, proffers the names of things that embody their essence. As Wolfson observes, this notion encapsulates the sense that word and matter are essentially correlated through the sacred language. *Language, Eros, Being*, p. 197. The further sense of the letters of the Hebrew alphabet as components of the body, just as they are participants in the divine name, is relevant here as well. See ibid., pp. 208–209.
+
 [^59]: See previous note.
 
 *[p. 130]* ^pg145
@@ -338,9 +367,13 @@ Elsewhere, in *Sefer ha-Melammed*, written not long after *Mafteah* *\[illegible
 Rav said one exceptional thing, and this is what it is. He said,[^66] “There is no name with us that is not derived except this, and it is *Yod He Vav He’,* which is the complete explicit name; do not think anything besides this. And let not arise in your thought the madness of the writers of amulets, and what you have heard from them or will find in their strange books from the names that they have composed, and they will not instruct regarding any matter and not in any respect, and they will call them names and think that they require holiness and purity, and that they will perform wonders. All of these things, it is not fit for a man to hear them, all the moreso to believe them.” Thus are the words of Rav, blessed be his memory, in our language.[^67] At the outset here, Abulafia’s chief objection to magical texts has to do with the demonic or angelic[^68] names that they use. He points out, by way of contrast, that only the Tetragrammaton is an essential and 
 
 [^64]: Writes Idel, “While combining letters, the mystic is likely to be inadvertently turned into a magician, by means of the incorrect use of the Names: such an act is a serious distortion of the goal of the Names, and brings about the sinking of the sinner into the material over which he wishes to rule.” *The Mystical Experience in Abraham Abulafia*, p. 122. Magic in this context appears to be synonymous with idolatrous practice, particularly with respect to its materialistic orientation.
+
 [^65]: *Sefer ha-Melammed*, MS Paris-BN héb. 680, fols. 292a–b; printed edition, p. 13.
+
 [^66]: *The Guide of the Perplexed* 1:61.
+
 [^67]: Altmann addresses Maimonides’ distaste for “practical” mysticism, astrology and the magical use of amulets. “Maimonides’ Attitude toward Jewish Mysticism,” p. 201.
+
 [^68]: The distinction in this context is not a significant one, in that, in such texts, a demon is most often not deemed to be satanic but is simply viewed as a potency or a messenger, that is, a *daemon*.
 
 *[p. 134]* ^pg149
@@ -356,7 +389,9 @@ and backward seven times on the fourth night at the first hour of the night, whi
 Abulafia goes on to harshly criticize the “great rabbis” who hide such texts as if they were gems and fear them as if they were powerful. He writes, following again the influence of Maimonides,[^70] that such rabbis lead themselves to madness and death. Abulafia confines himself solely to the names used in the magical formula above, not concerning himself with the elaborate rituals prescribed, taking to task, rather, those who believe that these names are “holy of holies.” He refers to Maimonides’ opinion that these names are not in the least instructive; they contain no “divine wisdom of use to the soul, nor to the corrupt body.”[^71] Here Abulafia suggests that names must be subjected to analysis in order to extract intellective teachings from them, an idea that was already implicit in *Mafieah ha-Ra ayon.* Demonic names are, naturally, incapable of providing such an intellective experience, but 
 
 [^69]: *Sefer ha-Melammed*, MS Paris-BN héb. 680, fol. 292b; printed edition, pp. 13–14. See Idel, *Kabbalah and Eros*, p. 44.
+
 [^70]: *The Guide of the Perplexed* 1:61–62.
+
 [^71]: *Sefer ha-Melammed*, MS Paris-BN héb. 680, fol. 293a; printed edition, p. 15.
 
 *[p. 135]* ^pg150
@@ -370,6 +405,7 @@ The names are not simply to be spoken, as if the utterance alone invoked their p
 And indeed what I announce to you in the matter of the secret of the permutation is that in your uttering the permuted words, the spirit of God will rest upon you within the warming of the heart, even though you will not understand what these words teach that you will utter. Also, that this is true there is no doubt, but not in the way of uttering the names to perform through them deceitful bodily deeds, but to awaken the soul to the warming of the exceptional learning. And know in truth that he who does not know how to permute the letters properly, if he boasts to you regarding prophecy, do not believe it in any respect, and even if he performs signs. And take this as a rule, all who are not accustomed to permutation and do not know it are not able to know a thing 
 
 [^72]: There is something of a conflict here with Abulafia’s earlier assertion that only the Tetragrammaton was essential. In order for these other names of God to embody some intellective truth concerning Him, we should expect them to have some essential nature. We should expect that something of that which is named ought to be embodied, in these cases as well, in the names themselves, since they do impart truths concerning the named, God. For another example of Abulafia’s instruction concerning the visualization of names, this one in *\[illegible\] \[illegible\] ha-Bo’,* see Scholem, *Major Trends in Jewish Mysticism*, p. 136. See also Idel, “A Unique Abulafia Manuscript,” pp. 13–14; Wolfson, *Abraham Abulafia*, pp. 166–167, to be discussed more fully below.
+
 [^73]: *Sefer ha-Melammed*, MS Paris-BN héb. 680, fols. 293a–b; printed edition, pp.
 
 *[p. 136]* ^pg151
@@ -383,6 +419,7 @@ But the strongly emphasized distinction that is based on the practitioner’s us
 Certainly, Abulafia felt compelled to outline a clear division between his own mysticism and heretical, demonic or idolatrous practice. Nevertheless, he ventured into terrain in which such distinctions 
 
 [^74]: Idel makes mention of Abulafia’s concern with the mystic’s falling into the “temptation to make magical use of the Divine Names.” *The Mystical Experience in Abraham Abulafia*, pp. 121–121.
+
 [^75]: *Sefer ha-Melammed*, MS Paris-BN héb. 680, fol. 293a; printed edition, p. 15.
 
 *[p. 137]* ^pg152
@@ -396,6 +433,7 @@ Given what we have seen to this point concerning Abulafia’s doctrine of the hi
  . . . if we desire \[to inquire\] of the letters of that name one matter that is exceptional or a secret or the teaching of why this man is called by this name that is in accord with him, this permission is in our hands to do it. \[Here follow the examples of the names “Adam,” “Eve,” “Cain,” and “Abel.”\] . . . And the end of the thing is that the sages of blessed memory 
 
 [^76]: Regarding the necessity that a name possess some intellective content, see also *Sitrei Torah*, MS NY-JTSA Mic. 2367, fol. 35b; printed edition, p. 77. Wolfson discusses Abulafia’s belief that the names of things, assigned during creation, conceal secrets. *Abraham Abulafia*, p. 63.
+
 [^77]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fols. 20b–21a; printed edition, p. 24.
 
 *[p. 138]* ^pg153
@@ -405,6 +443,7 @@ called them \[referring to Cain and Abel\] spirits, and Rav explained them to be
 Abulafia here discusses a series of names,[^79] and among them he demonstrates an interest in demonic names. He takes as a springboard Maimonides’ usage of the word “demons” with reference to Cain and Abel, and subsequently explicates the name Lilith, whom Maimonides does not mention. Abulafia observes that Lilith is nowhere explicitly mentioned in Scripture, but he indicates that teachings about her may be unearthed on the basis of words in Scripture that bear a likeness to her name. Thus, the secrets of Lilith are part and parcel of the hidden mysteries of Torah; likewise, the letters of her name may be investigated in order to bring forth their hidden teachings. Abulafia seeks to illustrate that the letters of a given name reveal something of the nature of the entity that is called by this name. Here we may modify Abulafia’s earlier position: A demonic name may contain an intellective content after all, but it will be one that betrays the demonic status of the being who bears it. In this, our basic sense of the exercise remains intact. A name must be analyzed in order to discern whether it is purely imaginative, and hence profane and proscribed. Similarly, a name must be analyzed so that, if it is found to be demonic, the entity with which it is associated may be unmasked and thwarted. It is apparent how this procedure may be applied to the mystical encounter, 
 
 [^78]: *The Guide of the Perplexed* 1:7. Maimonides refers to these demons, the sons of Adam prior to Seth, as lacking the former’s complete image. Thus, for Maimonides, they are human beings who wrought mischief through their imperfection.
+
 [^79]: Idel notes Abulafia’s view that the names of the patriarchs should be subject to analysis in order to discern the presence of divine names therein. *Language, Torah, and Hermeneutics in Abraham Abulafia*, p. 113.
 
 *[p. 139]* ^pg154
@@ -428,8 +467,11 @@ Abulafia embarks upon an examination of the Teli’s own name. He suggests that 
 Abulafia urges caution whenever one engages in mystical contemplation of the cosmic serpent, who seeks to “tempt” the mystic and deceive him, presumably in an effort to lead him into idolatry. The mystic is protected against this threat by God, or, more precisely, by His name, which is to be placed between the eyes. An allusion is present here to the talismanic power of the head tefillin. This power was understood traditionally to stem from the name of God “Shaddai,” the latter being suggested by the letter *shin* inscribed on the head tefillin.[^85] To this point, then, we have found that the Teli attacks by means of a name, while the mystic defends himself by the same means.
 
 [^82]: Each has a numerical value of four hundred and thirty.
+
 [^83]: Each has a numerical value of four hundred and forty-five.
+
 [^84]: The name and the phrase each have a numerical value of four hundred and eighty. The *\[illegible\]* is likely derived from Baruch Togarmi, *Sefer Maftehot ha-Kabbalah*, p. 237.
+
 [^85]: BT. *Minahot* 35b, *Berakhot* [[Berakhot 6#6a|6a]]. Wolfson notes the tradition wherein the name Shaddai and the tefillin, mezuzah and circumcision were all perceived as apotropaic with respect to the demonic threat. “Circumcision and the Divine Name,” pp.
 
 *[p. 141]* ^pg156
@@ -443,6 +485,7 @@ Despite his positive appraisal of evil, soon after in *Sitrei Torah*, Abulafia b
 And, God forbid, if you see within yourself a strong and mighty power, alien to you, calling you by name, do not answer like a humble man, and do not give to it your wholeness, but rely upon God and God will be with you. Only be on guard, and guard your soul greatly, lest much more than what your understanding may bear should come upon you from the intellective efflux. Because you will not receive it, and you will not fear its power, but the Lord your God you will fear. And with your 
 
 [^86]: Idel, “The Writings of Abraham Abulafia and His Teaching,” p. 322 (in Hebrew).
+
 [^87]: *Sitrei Torah*, MS Paris-BN héb. 774, fol. 157b; printed edition, p. 145.
 
 *[p. 142]* ^pg157
@@ -454,6 +497,7 @@ Abulafia advocates great care when coming into contact with an “alien” entit
 The connection between a demon and an overpowering intellective influx seems, on the face of it, to be a strange one, given the demon’s characterization as purely imaginative. However, we have already noted other intellective ramifications to encounters with demons. That which is learned through the analysis of a demonic name, as in the case of Lilith, for instance, is intellective in nature.[^89] A demon, as a component of the Active Intellect, does have wisdom to impart, but he seeks to do so in an injurious fashion. Abulafia professed that there was 
 
 [^88]: Idel cites the “great fire” here vis-à-vis the danger faced by the mystic. “The Writings of Abraham Abulafia and His Teaching,” p. 323 (in Hebrew).
+
 [^89]: Abulafia implies a connection between demons and intellective inundation in still another fashion elsewhere. We have seen that the demon, for Abulafia, is to be understood as an “obstruction” \[illegible\] to the mystic. The same appellation, we noted, was assigned to the specula through which the prophets experienced revelation.
 
 *[p. 143]* ^pg158
@@ -465,6 +509,7 @@ On this point, there is more to be said concerning Abulafia’s view that one mu
 And if an understood matter comes to you \[during mystical practice\], guard it and remember it, and if not \[that is, if it is not understood\], remember it by its number, because it is the Holy Spirit, and it will direct you to one understood thing. And if you do not understand it today, you will understand it tomorrow, because it is not a vain thing, and if it is vain, it is vain because of you \[plural\], it is vain because of you \[singular\]. But it is all holy, and even the evil that is in it is good. Abulafia reiterates the theme that the evil within the efflux from the Active Intellect is, in fact, good, since it emanates from the Holy Spirit. He relates that that which is evil (or “vain”) in the received efflux is perceived as such only because it is not understood. That which is received and not understood, but is perceived to be evil, is to be remembered and subjected to later analysis. Abulafia clearly suggests here that delving into potentially demonic matters is not to be shied 
 
 [^90]: From a passage in *Mafieah ha-Ra'ayon,* one may derive a connection between the conception of the demon as an “obstruction” (moneia), « one which can inundate the mystic’s intellect, and the particular intellective investigation which is “barred” \[illegible\] ) from the mystic because it exceeds his capacities. “The barred is that which is not in the soul’s nature to apprehend at all in any way of the ways of apprehending the nature of God, may He be blessed. Because this is barred naturally from all creatures.” In this context, it becomes apparent that too rarefied an investigation is “barred” because it comes to rely too heavily upon the imagination. From this we may sense a relationship to the demonic threat that takes the form of potentially damaging intellective inundation. *\[illegible\] \[illegible\]* MS Vatican-BA ebr. 291, fols. 22a–23a, printed edition, pp. 6–8.
+
 [^91]: *Sitrei Torah*, MS NY-JTSA Mic. 2367, fol. 49b; printed edition, p. 141.
 
 *[p. 144]* ^pg159
@@ -478,7 +523,9 @@ Following his exhortations to, first, turn to God and away from the demonic infl
 And beware always of the trial, because it stands between your eyes and your heart, like Satan, who dances between the horns of the ox when it rises in Nissan from the reeds. Because it is in the nature of your creation to be examined by him and tried by his hand. And if you are able, answer properly before him, standing before your enemy, who seeks your soul. Because ([[Proverbs 17#^17-3|Prov. 17:3]]), “The refining pot is for silver, and 
 
 [^92]: Ibid., MS Paris-BN héb. 774, fol. 157b; printed edition, p. 145.
+
 [^93]: Similar cautionary remarks are present in *merkabah* literature. See *Hekhalot Rabbati*, section 159, translated in Schäfer, *The Hidden and Manifest God*, pp. 16–17.
+
 [^94]: *Sitrei Torah*, MS Paris-BN héb. 774, fols. 157b–158a; printed edition, pp. 146–147.
 
 *[p. 145]* ^pg160
@@ -500,6 +547,7 @@ In a significant passage from *Sefer ha-Hesheq,* Abulafia discusses further the 
 . . . And examine it well, and look into the form of these *sefirot* according to these, their levels, and understand their secret . . . \[Here Abulafia writes the first ten letters of the Hebrew alphabet.\] And here is this unique, simple arrangement of its number in its tripartite totality, and it is necessarily called from three heads according to the teaching of this form . . . \[Here Abulafia writes a sequence of the letter *alef* alone; first appears a row of ten *\[illegible\]* then one of nine, etc., down to a row containing one *\[illegible\]* When you begin to count this number from one side, you begin from *alef,* because it instructs regarding one simple, unique head. And once more you begin from *alef* as well, and once more you begin from *alef* from a third side. Thus they comprise in your hand three beginnings, whose secret is one plus two ( ,)אב and the remaining are fifty-two ( .)נב And this is the secret of “my” great “God” ÇElohi ), and if God bestows upon you “one spirit,” which is “spirit of nine” (ruah )טת and it is the “Holy Spirit.” And its secret contains “three spirits” in the secret of the fourfold triad, about which it is said, three times are one. The thrust of this complicated passage is somewhat familiar, although Abulafia is less clear and seemingly more reticent on the subject of the trinitarian signification of the *sefirot* than we have seen elsewhere. What is clear is that he refers to a triad of letter *alef.* These he parses as one and two (totaling three), thus “ ”,אב the Hebrew word for “father.” The *\[illegible\]* that remain from the ten descending rows of *alef,* representative of the ten *sefirot*, are fifty-two in number. This latter number 
 
 [^95]: It is worth recalling the connection drawn earlier between Christianity, the idolatrous sacrifices that Abulafia linked with Esau, and the shedding of blood, which was also linked to Esau’s violent nature. See above, pp. 42–43. Idel notes that the nature of the mystical trial, for Abulafia, may be conceived of as the battle to defeat the blood, representative, as we have seen, of corporeality and the imagination. Idel, *Absorbing Perfections*, p. 343.
+
 [^96]: *Sefer ha-Hesheq,* MS NY-JTSA Mic. 1801, fols. 26b–27a; printed edition, p. 54.
 
 *[p. 147]* ^pg162
@@ -513,6 +561,7 @@ To summarize, Abulafia has wedded some readily apparent references to the Christ
 You will know immediately that God reveals this, His secret. Only be warned from the error that destroys the souls in this and in its like, because already many have erred in it and been destroyed. And guard yourself and your soul well, lest your reason be unable to bear the secret of the unity, and you think that this instructs on the divinity’s being threefold, and you be destroyed with those destroyed in the faith from the sons of men. And if a man should say to you that the divinity is 
 
 [^97]: Bonadventure, for instance, conceives of Jesus as consisting of all three persons of the Trinity. Hayes, *Hidden Center*, pp. 59–60. Such a notion is particularly consistent with Abulafia’s here with respect to the Holy Spirit because, in Abulafia’s system, the Holy Spirit, representing the Active Intellect, is the Jewish mystic’s intermediary with respect to God, the same role occupied by Jesus in Bonadventure’s thought.
+
 [^98]: See above, pp. 49–50. Abulafia alludes as well to this notion a bit earlier, where the letters YHV are seen as a fourfold triad insofar as their numerical total is equivalent to that of the four letters that make up the divine name \[illegible\] (AHYH). *Sefer ha-Hesheq,* MS NY-JTSA Mic. 1801, fol. 26a; printed edition, p. 52. Along similar lines, Wolfson has noted a zoharic tradition wherein this quaternary quality to the Tetragrammaton is implicitly seen to be superior to the Christian Trinity. Wolfson, *Language, Eros, Being*, p. 286.
 
 *[p. 148]* ^pg163
@@ -522,6 +571,7 @@ threefold, he speaks a falsehood and a lie to you, because “three” by *gema�
 There can be little doubt from this example that the idolatrous threat is understood to signify Christianity.[^100] Abulafia’s own seemingly irresistible attraction to this transgressive terrain appears to require of him that he risk the destruction of his soul, as he understands the danger. It is possible to see the current passage as exemplifying the position that the mystic must welcome the demonic trial. Equally possible, however, is that Abulafia’s irresistible attraction to Christian doctrine precedes and requires the justificatory doctrine that the mystic must pursue the challenge of heretical temptation. The view that one must draw near to one’s own idolatrous proclivities in order, paradoxically, to redeem them could be nothing more than a rationalization of the attraction to the forbidden other. Abulafia’s position here, however, constitutes just one example in a larger current in Jewish mystical thought. It holds that engagement with evil is requisite to the mystical/theurgical quest to reconstitute both one’s own being and God’s as whole and androgynous. We are left to ask whether the need to justify 
 
 [^99]: This *\[illegible\]* is cited by Scholem. *Major Trends in Jewish Mysticism*, p. 380 n. 37. See also Hames, *Like Angels on Jacob’s Ladder*, p. 82.
+
 [^100]: Hames refers to Abulafia’s inner struggle between intellect and imagination, framed as the battle between two kings in *Sefer ha-Melis* (*The Book of the Interpreter*). Hames links the imagination here to the Pope, though elsewhere he suggests Jesus as a party to this inner battle. *Like Angels on Jacob’s Ladder*, pp. 87–88.
 
 *[p. 149]* ^pg164
@@ -537,7 +587,9 @@ Near the beginning of *Sefer \[illegible\]* a linkage is forged between the haza
 Abulafia conveys a close connection between the body and letter permutations. Within the body is housed the soul, the potency fueling the 
 
 [^101]: As a similar example, in an early kabbalistic text analyzed by Wolfson, failure to integrate the evil female element within the self leads to the mistaken belief that there are two powers in heaven. Wolfson, “Woman-The Feminine as Other,” pp. 173–174. As for later Jewish mystical currents, Sabbatianism most dramatically represents the doctrinal approach to the other articulated by Abulafia.
+
 [^102]: *Oşar Eden Ganuz*, MS Oxford-BL 1580, fol. 165a; printed edition, pp. 369–370. See Scholem, *Major Trends in Jewish Mysticism*, p. 127.
+
 [^103]: *Sefer ha-Hesheq,* MS NY-JTSA Mic. 1801, fol. 8a; printed edition, pp. 12–13.
 
 *[p. 150]* ^pg165
@@ -561,8 +613,11 @@ is to begin to conceive of the physical jeopardy to which the mystic subjects hi
 The damaging of the mystic’s body at the hands of demons constitutes the counterpoint to the mystical goal of achieving the divine likeness. The latter, held to have been the form with which Adam was endowed initially, prior to Eve’s being physically separated from him, was understood to consist of the balanced mingling of masculine and feminine aspects.[^106] Abulafia recognized this ideal union of man’s two component parts, male and female, as erotic in nature, and he conceived of it as operating in concert with the erotic union of man with God.[^107] The converse of this conception was widely held; idolatry committed by Jews was seen to signify sexual infidelity with respect to God.[^108] Given the erotic essence to mystical union, there is a certain 
 
 [^105]: Marcus notes the Jewish awareness at this time of Christian conceptions regarding the significance of the eucharist. “Jews and Christians Imagining the Other in Medieval Europe,” pp. 211, 221. Stacey notes that, by the early twelfth century, with the Christian conception having begun to solidify that the eucharist represented the actual body of Christ, Jews began to be thought of in the Christian sphere as enemies of Christ’s body as it was manifested in the eucharist. This would ultimately lead, by the end of the thirteenth century, to Christian charges of Jewish host desecration. “From Ritual Crucifixion to Host Desecration,” p. 13. Looked at from a different angle, we can detect in this fanciful charge a Christian belief that the Jews recognized the theological significance of the eucharist (reacting to it with hostility), although we cannot be sure to what degree their assumption was correct.
+
 [^106]: Wolfson notes the zoharic contention that the Torah, the embodiment of the divine name, is the model for Adam’s bipartite image, composed as he is of male and female, written and oral aspects, or of male and female sets of commandments. Wolfson indicates that this conception constituted a polemical response to the Christian notion of the enfleshed Logos. *Language, Eros, Being*, pp. 257–260.
+
 [^107]: Scholem had noted already Abulafia’s predilection for seeing God, during *devequt*, as groom, with the mystic, or his soul, more particularly, as bride. *The Kabbalah of Sefer Temunah*, p. 165 (in Hebrew). See also Idel, *The Mystical Experience in Abraham Abulafia*, p. 205.
+
 [^108]: Wolfson, *Language, Torah, Hermeneutics*, pp. 341, 258, 374; *Alef, Mem, Tau*, p. 102. This erotic perspective on idolatry—that is, on the Christian temptation—was taken up in the Jewish leadership’s response in Narbonne to forced Christian preaching in a synagogue in the late 1250s or early 1260s. Chazan, “Confrontation in the Synagogue of Narbonne,” pp. 443, 457. For the rabbinic antecedents of this conception, see Koren, “The Woman from Whom God Wanders,’ ” p. 67 n. 19. This conception of idolatry operates hand and hand with the notion that the Jewish people’s relationship to God is erotic. Idel points to a midrash, which describes the *\[illegible\]* as amorous seductions on Israel’s part directed toward God, as exemplifying the rabbinic conception of the erotic relationship between a hypostatic Israel and God. “Rabbinism versus Kabbalism: On G. Scholem’s Phenomenology of Judaism,” p. 287. For biblical and rabbinic themes relating to the erotic relationship of Israel and God as antecedents of kabbalistic conceptions, see idem, *Kabbalah and Eros*, pp. 16–35.
 
 *[p. 152]* ^pg167
@@ -574,7 +629,9 @@ Wolfson has observed a matrix of interconnected themes in the *Zohar* that run r
 Nadab and Abihu, the zoharic authors relate, chose the “other moment,” *et ahra’,* to present their offering, a phrase whose resemblance to the *sitra ? \[illegible\]* the “other side,” that is, the side of the demonic element, is readily discernible.[^110] Thus, Nadab and Abihu, as Wolfson parses the zoharic discussion, were guilty of supplanting the *Shekhinah*, the virtuous feminine potency that is united to the divine phallus, the *saddiq,* as the theurgical consequence of the bringing of the pious offering. In fact, they substituted the demonic feminine potency, typically represented as Lilith in zoharic discourse, in this act of unification, resulting, as Wolfson explains it, in the prohibited intermingling of the holy with the unholy.[^111] 
 
 [^109]: Wolfson, *Alef, Mem, Tau*, pp. 99–105.
+
 [^110]: Ibid., p. 100.
+
 [^111]: Ibid., p. 101.
 
 *[p. 153]* ^pg168
@@ -586,8 +643,11 @@ In the symbolic imaginary of the zoharic kabbalists, the expression from Proverb
 It is now worth recalling our earlier discussion of *Sitrei Torah*,[^115] where we surmised that the “strange blood” to which Abulafia referred alluded to prohibited idolatrous sacrifices and to demonic temptations. We have already observed that such idolatrous acts and demonic influences represent, for Abulafia, the lure of Christianity. And we are just entering upon a discussion of the sexual dimension to these threats. 
 
 [^112]: Ibid., p. 101.
+
 [^113]: Ibid., p. 102. See as well, idem, “Woman-The Feminine as Other,” pp. 168–169. There, a zoharic discussion concerning the Edomite kings—that is, Christianity—is analyzed. Christendom is presented as emasculated or feminized by dint of its being idolatrous. We may recall that Abulafia makes the same charge against Christians, that Jesus has brought about their feminization.
+
 [^114]: Among other evidence for such anxiety, we see that Nahmanides had contended that Jewish men who had sexual relations with gentiles “desecrate the covenant of Abraham.” Nirenberg, “Love between Muslim and Jew in Medieval Spain,” p. 129. Nirenberg makes note as well of the *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-3a|2:3a–b]], [[Zohar 4.07 - Parashat Yitro#^z2-87b|87b]], in this connection. See also idem, *Communities of Violence*, pp. 134–135. For anxiety on the part of the Jewish elite in Spain concerning the phenomenon of Jews having sexual relations with Christians, see Biale, *Eros and the Jews*, p. 88. Eleazar of Worms prescribed penances for sexual intercourse with a Christian consisting of forty days with no meat, wine or bathing. Penances were somewhat more tempered for intercourse with a Christian servant. Ibid., p. 75. Marcus observes the evidence that Jews and Christians were sexually attracted to one another. See “Jews and Christians Imagining the Other in Medieval Europe,” p. 211.
+
 [^115]: See above, pp. 145–146. *Sitrei Torah*, MS Paris-BN héb. 774, fol. 158a; printed
 
 *[p. 154]* ^pg169
@@ -601,6 +661,7 @@ Writes Abulafia in *Hayyei ha- Olam ha-Ba’,!!8*
 And the messiah is the priest higher than his brothers, and is he who knows the name and blesses Israel through the explicit name, as he writes it in the sanctuary, and with its epithets in the country, according to the received tradition (*qabbalah*) and this divine path of the name, which is written and permuted with ten permutations, five opposite five. And every path instructs in the explicit name, which is wholly perfect, and 
 
 [^116]: Elsewhere, Wolfson refers to a related and equally pertinent zoharic formulation regarding Nadab and Abihu, wherein the zoharic authorship comes to the conclusion that the sin of these sons of Aaron rested in their offering a sacrifice while being yet unmarried. Nadab and Abihu were thus in an incomplete state, one which precluded proper erotic unification with the *Shekhinah*; the sacrifice that they offered was consequently a “strange fire,” one which fractured the divine unity after the fashion of our prior discussion of their sin. The rectification of the sin of Nadab and Abihu came, as the zoharic authorship recounts, in their reincarnation together in the person of Pinehas, who, Scripture informs us, avenged Zimri’s cohabitation with a “strange woman.” Here too, the sense is confirmed that the idolatrous transgression of Nadab and Abihu must have been their cohabitation with gentile women, by which they defiled their covenant with God and disrupted the divine order, in a manner akin to the “cutting of the plantings” to which Abulafia makes mention. Wolfson, *Language,* *Eros, Being*, pp. 266–267.
+
 [^117]: See above, n. 114. Wolfson notes that the zoharic authorship suggested that the erotic transgression committed by Nadab and Abihu was situated within the letter *yod* of the Tetragrammaton, the letter linked by tradition with the phallus and with circumcision. Thus, their sin, and by extension that of those Jewish men who fall to the lure of Christian women, represented a debasement of the covenant. Idem, *Alef,* *Mem, Tau*, p. 5. See also idem, *Language, Eros, Being*, pp. 266–267.
 118\. *\[illegible\] \[illegible\] ha-Ba’,* MS Oxford-BL 1582, fols. 13a–b; printed edition, p. 67. The beginning of this passage is discussed by Wolfson. *Abraham Abulafia*, p. 206.
 
@@ -616,9 +677,13 @@ That five paths are understood while five are not is somewhat obscure. But we ma
 It is worth observing that, immediately before this current passage from *Hayyei ha- Olam ha-Ba’,* Abulafia engages in a closely related discussion. He first relates that it is incumbent upon the Jew to honor the divine name; those who “know this explicit name and guard it in sanctity and purity” will inherit the world to come. Conversely, he warns, 
 
 [^119]: Idel discusses these “wheels,” based on the seventy-two letter name, and their probable derivation from Ibn Ezra. *The Mystical Experience in Abraham Abulafia*, p. 23.
+
 [^120]: For Abulafia’s conception of himself as priest and messiah, see idem, *Messianic Mystics*, pp. 94–97.
+
 [^121]: *Sefer Yesirah,* Gruenwald ed., 1:3 (para. 3). See above, pp. 86–88. Wolfson, *Abraham Abulafia*, pp. 135, 140 n. 122, 142.
+
 [^122]: Ibid., pp. 140 n. 123, 207.
+
 [^123]: Compare *Sefer Yesirah,* Gruenwald ed., 1:3 (para. 3) and 2:1 (para. 23).
 
 *[p. 156]* ^pg171
@@ -630,8 +695,11 @@ In Abulafia’s allusion to the apparent bodily risks attendant upon the mystic�
 To return to *Hayyei ha- Olam ha-Ba’,* Abulafia next proceeds to draw again from *Sefer Yesirah,* referring to its consideration of the three so-called “mothers” within the Hebrew alphabet, the letters alef, *mem* 
 
 [^124]: *Hayyei ha- ‘Olam ha-Ba’,* MS Oxford-BL 1582, fol. 12b; printed edition, p. 64.
+
 [^125]: See Wolfson, *Abraham Abulafia*, pp. 74, 200. For earlier precedents, see idem, “The Mystical Significance of Torah Study,” pp. 48–51. For possible Christian influence on Nahmanides, see idem, *Language, Eros, Being*, p. 543 n. 433.
+
 [^126]: The Torah is also equated by Abulafia with the Active Intellect and with the *sefirot*, with both of the latter two being equated as well with the mystic whose intellect has been actualized. Scholem, *Major Trends in Jewish Mysticism*, p. 141; Idel, *Language,* *Torah, and Hermeneutics in Abraham Abulafia*, p. 33; Wolfson, *Abraham Abulafia*, p. 141. See idem, “The Mystical Significance of Torah Study,” p. 55, where the Torah is characterized as the *Kavod*. The mystic’s coming into the likeness of the Torah is conceived of as a type of reactivation of the covenant of circumcision, by which his flesh had originally been imprinted with the divine name. See also idem, *Venturing Beyond*, p. 151, *Language, Eros, Being*, p. 237. See also ibid., p. 241, where Metatron is equated with the Torah.
+
 [^127]: Idem, *Abraham Abulafia*, p. 225; *Language, Eros, Being*, pp. 246, 248.
 
 *[p. 157]* ^pg172
@@ -646,6 +714,7 @@ A trial by demon of a physical nature is thus encapsulated. Passing successfully
 129\. Ibid., 3:4 (para. 30).
 
 [^130]: *\[illegible\] ha-Olam ha-Ba’,* MS Oxford-BL 1582, fols. 12b–13a; printed edition, pp. 64–66. The transgressive use of the crown is referred to in *Masekhet Avot* 1:13, 4:5. See also Maimonides’ commentary, ad loc. See also *Avot de-Rabbi Natan*, ch. 12; BT. *Megillah*, [[Megillah 28#28b|28b]].
+
 [^131]: Idel evinces several passages from Abulafia which refer to the danger of being burned by fire, while the idea of being drowned by water is ascribed to Abulafia’s students. *The Mystical Experience in Abraham Abulafia*, pp. 121–123. Wolfson discusses the purificatory role of fire in the mystical trial. *Abraham Abulafia*, p. 200. Scholem mentions the danger of being burned by fire in connection with the *Hagigah* discussion of engaging in speculation on the *merkabah. The Kabbalah of Sefer Temunah*, p. 179 (in Hebrew).
 
 *[p. 158]* ^pg173
@@ -659,7 +728,9 @@ During Abulafia’s discussion, in *\[illegible\] \[illegible\] ha-Ba ,* of the 
 And if he utters the letter and errs, God forbid, in the calling of the letter that rules over that limb, which is in the head of the man who called,[^134] God forbid, that limb will be cut off ' (hayyah *netoq*), and he changes its place and he changes its nature immediately, and gives it another form, and the man, because of this, becomes a cripple, and thus the name VHV \[the beginning of the seventy-two letter name of God\] is sealed with the word MVM \[the end of this name, *mum* being the Hebrew word for “crippled”\], in order to warn concerning its utterance, and \[it is\] also the secret of Elohim’ who judges concerning this matter of the 
 
 [^132]: In this regard, it is worth noting Abulafia’s assertion that the pious kabbalist must embrace the claim of the sages of the nations that nature itself is essentially sorcerous; \[illegible\] *mekashef*.” This perspective is “true without a doubt,” writes Abulafia. It is only that prophetic revelation affords further insights to the kabbalist which are denied to these sages, whether they be Jewish or gentile, so that science, linked here with sorcery, is but a step in the kabbalist’s progression. *\[illegible\] ha-Sefirot* (*The Key of the* Sefirot), MS Milan-BA 53, fol. 180b; printed edition, p. 90.
+
 [^133]: *Hoyyei ha-Olam ha-Ba’,.* MS Oxford-BL 1582, fol. 14b; printed edition, p. 70.
+
 [^134]: “. . . *asher \[illegible\] ha-’adam \[illegible\]* . . .” Alternatively, one might read this as “. . . which at first the man who called \[it\] . . .”
 
 *[p. 159]* ^pg174
@@ -685,7 +756,9 @@ On the relationship between circumcision and castration, Wolfson indexes Lacan�
 It is in this, observes Wolfson, that one may locate the significance of the symbol of the phallus in kabbalah. There, the notion of revelation through occlusion, because of the ineffability of secrets concerning the divine, and occlusion in revelation, for the same reason, is linked particularly to the phallus. The latter is associated with the *sefira Yesod*, 
 
 [^135]: Given the tradition of interpreting circumcision as the inscription of the divine name upon the human body, we can see that the association between letters and the phallus served Abulafia’s sense of a punishment suitable to the crime. Wolfson, *Abraham Abulafia*, pp. 87, 89, 216–217.
+
 [^136]: See idem, *Language, Eros, Being*, pp. 133–141, 381–384. See also idem, *Through a Speculum That Shines*, pp. 357–377.
+
 [^137]: Idem, *Language, Eros, Being*, pp. 128, 129.
 
 *[p. 161]* ^pg176
@@ -697,7 +770,9 @@ was important as well for Abulafia. We have already noted that, for Abulafia, th
 That Abulafia refers to a particular threat to each of man’s limbs, and not strictly to the phallus, in the passages that we have inspected thusfar in no way problematizes the surmise that a castration anxiety is operative in these instances. Put another way, the maiming that coincides with the disuniting of the hypostatic realm is inherently a castration. We will shortly see the threat specified more overtly, but we would do well now to make note of a commonplace of contemporary psychology:[^140]
 
 [^138]: Ibid., pp. 131, 132–5. *Yesod* is referenced in the theosophic kabbalah as the “All,” a designation adopted by Abulafia as well. Abulafia refers to the Active Intellect, embodying all of the separate intellects, as the “All” as well, such that he implicitly identifies *Yesod* with the Active Intellect. Wolfson, *Abraham Abulafia*, pp. 144–145, 218 n. 119. As well, both the Active Intellect and *Yesod* are assigned the divine name Shaddai by Abulafia. The theosophic kabbalists also apply the name Shaddai to *Yesod*. Abulafia, as we shall see, is explicit in connecting the name Shaddai with the Active Intellect, while his equation of the name Shaddai with the phallus is strongly suggested in his emphasis on the name’s procreative propensity. By a *gematria,* the name Shaddai is equivalent to the name Metatron, who represents the Active Intellect. Ibid., pp. 204–205.
+
 [^139]: See Wolfson, *Language, Eros, Being*, p. 319. See also idem, *Abraham Abulafia*, pp.
+
 [^140]: Muskin, “The Medical Hospital,” p. 73.
 
 *[p. 162]* ^pg177
@@ -707,6 +782,7 @@ As we know, both men and women experience castration anxiety, or the fear of los
 I do not believe it anachronistic to recognize much the same psychological mechanisms operative for Abulafia as are described in modern psychoanalytic theory.[^142] The testimony provided by Abulafia in his 
 
 [^141]: See, for instance, Arlow, “The Structural Model,” pp. 69–70; Coen, “Sexual Disorders,” p. 365; Melchiode, “The Patient with a Neurosis,” p. 202.
+
 [^142]: On this topic, a critique offered by Idel bears analysis. Although Idel refers primarily to a purportedly homogenizing anachronistic approach to medieval kabbalah, wherein psychological modalities, explicable through modern theories, are perceived as currents prevailing widely among groups of kabbalists, there is a critique in his perspective that applies as well to the application of modern psychoanalytic theory even to a medieval individual. *Kabbalah and Eros*, pp. 100–101, 129–131. As Wolfson observes, the critique is twofold, comprising not just generalization but anachronism as well. “Structure, Innovation, and Diremptive Temporality,” p. 155. My approach to the latter question raised by Idel, that of anachronism, is a relatively straightforward one. If the psychological dynamic that Abulafia manifests appears to conform with precision to a modern psychological model, then we would be remiss if we failed to explore the latter for what it might offer as a mode of explication of the former. In this case, the theme of attraction/repulsion to the forbidden other is well served by plumbing its apparent psychoanalytic affinities. Wolfson responds to the question of anachronism by indicating that kabbalistic production possesses a crucial atemporal component. Innovation takes the form of traditionalism in kabbalah, and vice versa. Indeed, Wolfson points, among other figures, to Abulafia in this regard. And likewise does the scholar of kabbalah immerse himself or herself in this atemporal milieu, where the old is the new and the new the old, in his or her own confrontation with the open text. In such a milieu, as Wolfson puts it, “the charge of anachronism itself becomes anachronistic.” Ibid., p. 159.
 
 *[p. 163]* ^pg178
@@ -726,8 +802,11 @@ That Abulafia understands Christianity as both feminine and feminizing has been 
 The Christian doctrine regarding Jesus’ maternalism may have furnished Abulafia with ready psychological fodder, fueling both his attraction and his repulsion to the religious other. Abulafia’s negative reaction to Jesus’ maternal status constitutes a parallel to that of other kabbalists in their response to monastic asceticism.[^146] The model of monasticism, understood by Christians in terms of masculinization 
 
 [^143]: For the notion of God as father within the oedipal dynamic, see Freud, *Totem and Taboo*, pp. 182–183, 187; *The Future of an Illusion*, p. 24; *Civilization and Its Discontents*, pp. 22, 88.
+
 [^144]: Imagery of the suckling and nurturing by Jesus of the faithful constitutes an important element in his being conceived of in maternal terms. See, for instance, Bynum, *Jesus as Mother*, pp. 115, 117. See also Wolfson, *Language, Eros, Being*, p. 456 n. 231. The femininity with which Abulafia imbued Jesus was of a piece with that with which he associated Eve, the archetypal mother. Abulafia saw them both as partaking of an intimate relationship to the tree of the knowledge of good and evil; Abulafia wrote that Jesus hanged himself on this tree. In this sense as well, then, Jesus bore a maternal and evil association for Abulafia. See Berger, “The Messianic Self-Consciousness of Abraham Abulafia,” p. 57.
+
 [^145]: Bynum points out that the maternal imagery associated with Jesus neither resulted from nor did it cause an increased valuation of women by Christian men. *Jesus as Mother*, p. 143. Abulafia, then, merely extended the negative assessment of femininity that prevailed in his day to include Jesus within it.
+
 [^146]: Bynum observes that “. . . it seems clear that the psychological needs of religious males provide a partial explanation for the Cistercian theme of mother-Jesus and the concern for union that it expresses.” Ibid., p. 162. What I mean to suggest here is that Abulafia reacted as well to the theme of mother-Jesus in terms of a psychological need. He was able to redirect a range of emotions onto this figure of Jesus.
 
 *[p. 165]* ^pg180
@@ -737,7 +816,9 @@ through a kind of spiritualized castration, one expressed through asceticism, wa
 It is tempting to speculate that Abulafia’s invective against Jesus’ femininity, and his conflicted response to Christianity, arose from an earlier mix of unresolved feelings. But not enough is known about Abulafia’s childhood to make any judgments about whether his attraction and aversion to the femininity embodied in Jesus and Christianity actually represented a transference of feelings originally associated with his mother. Fortunately, it is not necessary for us to make such a determination. We can recognize that Abulafia’s intense conflict is a hallmark of the oedipal complex, and we can cast our minds back to Ricoeur’s remarks. The latter noted how the act of symbolization was intertwined with the oedipal complex through the themes of defilement, guilt and sin. Abulafia’s descent into an “archaic mythology” in order to achieve an inner rectification was, as Ricoeur would see it, fated inevitably to “take place in the field of the Oedipal complex.”[^149] Abulafia’s struggle therein is dramatically evidenced in his evocation of the themes of defilement, guilt and anxiety in one particular section 
 
 [^147]: Wolfson, *Language, Eros, Being*, pp. 302–3, 307, 309–12. See also idem, “Eunuchs Who Keep the Sabbath,” pp. 152, 154. Wolfson notes that the *Zohar* links Christianity, and Satan as well, with impotence, femininity and castration. Ibid., p. 153. Idel notes that an extreme asceticism, one within which sexual abstinence would figure prominently, would have been antithetical to Abulafia’s approach to the imaginative faculty. *The Mystical Experience in Abraham Abulafia*, pp. 143–144. Wolfson observes the significance of marriage and sexual intercourse for the Jewish mystic; reconstitution in Adam’s image, and thus God’s, is dependent upon these. “Eunuchs Who Keep the Sabbath,” pp. 154–156. Nevertheless, Wolfson does observe that a reining in of the sexual impulse, a curtailment connected by Abulafia with circumcision, does bear at least some resemblance to the ascetic attitude. Wolfson, *Abraham Abulafia*, pp. 90, 219–220. A further Jewish attack leveled against the Christian ideal of monastic celibacy consisted of the charge that it led to clandestine licentiousness. Biale, *Eros and the Jews*, p. 98.
+
 [^148]: Though the connection is not drawn explicitly, Bernard of Clairvaux, for instance, spoke of both monks and Jesus in terms of the feminine. Bynum, *Jesus as Mother*, pp. 115, 128.
+
 [^149]: Rigby, “Paul Ricoeur, Freudianism, and Augustine’s *Confessions*,” p. 100. See above, pp. 22–24.
 
 *[p. 166]* ^pg181
@@ -769,6 +850,7 @@ The angel’s prospective vengeance corresponds with a rejection of the mystic�
 And he comes upon you and asks you to give to him his portion from yourself, and he is half of your existence, speaking allegorically, and he seeks to cut off your limbs, one after the other, and you see it all with 
 
 [^152]: See above, p. 157.
+
 [^153]: Other cases that we have examined also contrast proper intent with idolatry as the alternative. In *Mafteah ha-Tokhahot,* we had encountered a discussion in which the “aim of the intention” was to hear God’s voice, a goal that could not be attained “. . . if you do not first remove idolatry from the heart.” MS Oxford-BL 1605, fol. 48a; printed edition, p. 45. In *Sefer ha-Hesheq,* demons threatened to overthrow the mystic’s capacity to bear the “secret of the unity.” MS NY-JTSA Mic. 1801, fol. 27a; printed edition, p. 54. In this context, demons may be understood with respect to the “errors that destroy the soul” by overwhelming the rational faculty. And in *Sefer ha-Melammed*, the appropriate “intention” was akin to “. . . the utterance of the holy words in terror and trembling among those who fear God,” as against the idolator’s usage of the names without any intellective approach or understanding. MS Paris-BN héb. 680, fol. 293a; printed edition, p. 15.
 
 *[p. 169]* ^pg184
@@ -778,6 +860,7 @@ your eyes. And thus you despise all of your limbs and all of their bodily powers
 Abulafia explains that the avenging angel is actually a feature of the mystic’s own inner being; it is his evil inclination.[^154] In this is recalled our observation that demons possess, for Abulafia, a quasi-existent status. The threat that they pose is genuine and mortal, but they nevertheless embody the mystic’s own inner predilection toward idolatrous tendencies.[^155] In this, Abulafia adopts a view of the imagination that contrasts with the one propounded earlier. Initially, the imagination had been seen as utilized in the modeling of the mystic’s attributes after God’s likeness, a notion that we took to represent the imaginative bodily resumption of Adam’s perfect form. Here, the angel, now understood as Satan, is itself identified as the mystic’s personified imaginative faculty, with the result that the mystic’s body, inextricably linked to the imagination, as we have suggested, is to be despised. By the same token, Satan, we are informed, is actually entitled to a 
 
 [^154]: Idel refers to another passage, from *Sitrei Torah*, regarding the battle within the mystic between good and evil angels. *The Mystical Experience in Abraham Abulafia*, pp. 96–97. In another context, Idel writes, “Those descriptions and interpretations of visions which have reached us belong to the ‘positive’ type of experience.” Idel here expresses the belief that the demonic visions that came to Abulafia during his fifteen year ordeal are not of the type that we find in his writings, that only those visions which bear an intellective content were preserved by Abulafia. Ibid., p. 145.
+
 [^155]: Altmann observes that a fundamental difference between medieval philosophy and mysticism rested in respective attitudes toward evil and the demonic, such that mystics saw demons as real, with the result that they adopted a dualistic perspective. “Maimonides’ Attitude toward Jewish Mysticism,” p. 210. From this observation, we may perhaps understand Abulafia’s assigning of a qualified reality to demons, in that Abulafia’s attitudes frequently straddled the two worlds of philosophy and mysticism.
 
 *[p. 170]* ^pg185
@@ -791,6 +874,7 @@ In the latter of the two castration scenarios, that of Satan as opposed to that 
 Satan is described here by Abulafia as masculine, but Satan’s links to the imaginative faculty, the evil inclination and the body are quite strong in this passage, all of these being distinctly feminine attributes, in Abulafia’s estimation. Indeed, as was also the case with Jesus, Satan epitomizes femininity. Nevertheless, despite Satan’s feminine nature, his description here as masculine makes it also possible to consider the anxiety-fraught dynamic as homoerotic. Just as the relationship 
 
 [^156]: Idel makes reference to Abulafia’s disciple, Isaac of Acre, with respect to the efforts of demons to come to the mystic and attempt to confuse him. *The Mystical Experience in Abraham Abulafia*, p. 167 n. 226.
+
 [^157]: Coen, “Sexual Disorders,” p. 365.
 
 *[p. 171]* ^pg186
@@ -802,8 +886,11 @@ The fear of the castrating female—Satan here specifically, but, we should bear
 Nevertheless, despite Zipporah’s redemptive act, the demonic mortal threat may lie permanently in wait, as Abulafia informs us at the 
 
 [^158]: See Wolfson, “Crossing Gender Boundaries in Kabbalistic Ritual and Myth,” pp. 312–321, for the construal of the mystic’s relationship to God in homoerotic terms. In that context, zoharic texts are considered in which the feminine element within the divine is located in the phallus, such that “. . . the female images related to God must be transposed into a masculine key.” Ibid., p. 312. See also idem, “Eunuchs Who Keep the Sabbath,” p. 170. See idem, “Crossing Gender Boundaries in Kabbalistic Ritual and Myth,” p. 322 for one of several examples in which the zoharic authors conceive of the mystic as feminine with respect to the divinity.
+
 [^159]: Biale notes the Targum Pseudo-Jonathan’s contention that Zipporah’s act saved Moses from the destroying angel. *Blood and Belief*, p. 72.
+
 [^160]: Freud, *Complete Introductory Lectures*, pp. 165, 550–551; *Moses and Monotheism*, p. 156; *Totem and Taboo*, p. 189 n. 61. See also Wolfson, *Language, Eros, Being*, p. 485
+
 [^161]: See above, p. 152.
 
 *[p. 172]* ^pg187
@@ -857,7 +944,9 @@ In a closely related passage written slightly earlier, in *Hayyei ha-* *Nefesh*,
 And the serpent did not approach the man and there was no speech between them, but his approach and his speech was with Eve alone. And Eve murdered her husband through the cunning of the adulterous serpent . . . And the adulterer hates her because he was cursed because of her, and the adulteress hates him in that she committed adultery, and necessarily received death for her adultery, because of his seduction; because her death was not from the sin of transgressing against a commandment, because she was not commanded, but the man was. As it was said ([[Torah 01 - Bereshit#^2-16|Gen. 2:16]]), “And the Lord God commanded the man . . .” The man and not the woman . . . And Adam acted evilly, until he transgressed God’s commandments and engaged in idolatry . . . And thus three kinds of sin were comprised in the beginning of creation, idolatry, the secrets of sexual transgression and the shedding of blood,[^170] and so too in the secret of circumcision are these three, because from it is the beginning of the creation of the species and its perpetual continuance. Abulafia describes Eve’s death as resulting from her role in Adam’s coming into sin, from which he too received a death sentence. Distinguished, but essentially identical at their root, are the two types of sin against which Abulafia cautions with respect to the demonic temptation. Eve consorted sexually with the demonic element, while Adam committed idolatry. That their sin in Genesis is the same, in that they both ate from the tree of the knowledge of good and evil, reinforces our understanding that the two sins enumerated by Abulafia are two sides of the same coin.[^171] The third type of sin referenced, the spilling of blood, is seemingly encapsulated in the deaths that ensued from 
 
 [^169]: *Hayyei ha-Nefesh*, MS Munich-BS 408 fols. 10b, 10a; printed edition, pp. 14–15.
+
 [^170]: BT. *Sanhedrin*. 74a; Maimonides, *The Guide of the Perplexed* 2:30.
+
 [^171]: Abulafia characterizes the tree of the knowledge of good and evil in terms of the sensory and of lust. *Mafteah \[illegible\]* MS NY-JTSA Mic. 1686, fol. 111b; printed edition, p. 56. Idel offers a similar assessment from *\[illegible\] Eden Ganuz. The Mystical Experience in Abraham Abulafia*, p. 204. Maimonides describes Adam’s sin as a transgression against the “arayot restrictions; that is, he gave in to his imagination and to sensual pleasures. Idem, “*Sitre Arayot* in Maimonides’ Thought,” p. 82. Abulafia’s conception of the *sitrei \[illegible\]* is clearly related to Maimonides’, but Maimonides’ tendency is, in fact, to rid the “arayot restriction of the tinge of esotericism, at least in *The Guide of the Perplexed*, while Abulafia accords the *sitrei \[illegible\]* pride of place among esoteric doctrines.
 
 *[p. 176]* ^pg191
@@ -869,6 +958,7 @@ Abulafia does not clearly explain how the three types of sin, assigned to the be
 Death, which represents failure in this effort, we see, results from the loss of the distinguishing mark of the Jewish people, of which the mystic is stripped through idolatry, synonymous with the giving in to forbidden demonic—that is, Christian—seductions. This death is equivalent to the pollutedness of the gentile nations, who did not stand upon Mt. Sinai, and it is irrevocably feminine in nature—it represents being tempted “after the knowledge of the woman,” as Abulafia puts it. The link between femininity, physically violent demons, and the stripping from one’s person of his circumcision evokes clearly enough once more the castration motif. Noteworthy it is that this place of castration, the demonic Other Side, is the domain of the other nations. 
 
 [^172]: See above, pp. 42–43, 145–146. See also Biale, *Blood and Belief*, p. 28, for the further link of bloodshed and idolatry with sexual infidelity with respect to God.
+
 [^173]: In fact, it appears that the latter two of these revolve around the secrets of sexual transgression as the most primary of the three. Wolfson analyzes a closely related passage from *Sitrei Torah*, where circumcision, signifying the secrets of sexual transgression, is seen by Abulafia to comprise within itself as well the head phylacteries, signifying the secrets of the chariot, and the arm phylacteries, signifying the secrets of creation. Wolfson demonstrates that circumcision thereby stands as “the mark of esotericism par excellence,” a distinction encapsulated as well in the exposure of the corona during the procedure. *Abraham Abulafia*, p. 88. See also ibid., pp. 192–195 for several similar examples.
 
 *[p. 177]* ^pg192

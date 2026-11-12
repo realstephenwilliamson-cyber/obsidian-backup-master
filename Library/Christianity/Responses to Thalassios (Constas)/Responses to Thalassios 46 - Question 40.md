@@ -33,8 +33,11 @@ Response
 40.2. God, who created human nature, simultaneously gave it being and the power of intention,[^2] and thus joined to this nature the creative power\[1\] to realize what is proper to it. The six jars signify this natural creative power to perform the divine commandments. Human beings, however, poured out the knowledge of this power in their vain preoccupation with material things, and came to possess this power as something empty and waterless.[^3] This is why they did not know how to cleanse themselves from the stain of evil, because someone who has no share in knowledge is completely ignorant of the way in which virtue cleanses vice. This was the situation that prevailed until the arrival of the Word, the creator of nature, who filled\[2\] the power of natural knowledge (which is able to perform the things proper to it) and changed[^4] it into wine, by which I mean 
 
 [^1]: [[John 02#^2-6|Jn 2.6]]. For a parallel interpretation of the “mysteries” of the Wedding at Cana, cf. *QD.* 35 (CCSG 10:28–29).
+
 [^2]: “Power of intention” here renders the Greek word βούλησ ς, a technical term designating the starting point of an actual act of willing. Strictly speaking, the προα ρεσ ς, the faculty of free choice, is related to the means by which one’s wished-for goals may be attained; βούλησ ς is not unlike γνώ η, since it manifests the intention of a freely acting human being; cf. Thunberg, *Microcosm and Mediator,* 219–20.
+
 [^3]: Cf. [[LXX Psalms 62|Ps. 62.1]].
+
 [^4]: “Changed” translates ετέβαλεν, which is the word used to describe the transformation of the Eucharistic gifts from bread and wine into the Body and Blood of Christ in the Divine Liturgy of St. John Chrysostom.
 
 *[p. 231]* ^pg251
@@ -44,8 +47,11 @@ the principle of knowledge, which is beyond nature and the law, and the principl
 40.3. With respect to the number six, we understand it to signify the creative power of nature, not simply because God created heaven and earth in six days,[^6] but also because the number six alone is the most perfect number contained in the decad of numbers, and as a number is constituted from its own parts.[^7] Further, Scripture says that the “ jars held two or three measures,”[^8] since they contain, according to natural contemplation, as if it were two measures, the natural potential of practice, which is the entire knowledge\[4\] of created beings (by which I mean they contain the knowledge of corporeal natures composed of matter and form), and the intelligible essences
 
 [^5]: [[John 02#^2-10|Jn 2.10]].
+
 [^6]: [[Torah 01 - Bereshit#^1-1|Gn 1.1–25]]; [[Torah 17 - Yitro#^20-11|Ex 20.11]].
+
 [^7]: On the symbolism of the number six, cf. Philo, *On the Creation of the World* 3.13–14 (LCL 1:12–15); idem, *On the Allegorical Interpretation of Genesis* 1.3 (LCL 1:148–50); idem, *On the Decalogue* 8.6 (LCL 7:18–19); Nicomachus of Gerasa, *Introduction to Arithmetic* 1.16.3 (trans. Martin Luther D’Ooge \[London: Mac-Millan, 1926\], 209–10); David, *Prolegomenon to Philosophy* (CAG 18/2:22, line 22; 51, line 18); Pseudo-Iamblichos, *Theology of Arithmetic* (ed. De Falco and Klein \[Leipzig: Teubner, 1975\]; trans. Robin Waterfield \[Grand Rapids: Phanes Press, 1988\], 75–85 = “On the Hexad”); and Constas, DOML 2:359, n. 6. See also below, Qu. 49.9–10; Qu. 55.15; *Amb.* 66.2 (DOML 2:282–85); *QD.* 29; 35; 49; 176; 191 (CCSG 10:24–25; 29; 42; 121; 132–33); and Peter van Deun, “La symbolique des nombres dans l’oeuvre de Maxime le Confesseur,” *Byzantinoslavica* 53 (1992): 237–42. The Johannine jars are cited by Origen, *On First Principles* 4.2.5 (SC 268:316–18, a passage excerpted in the Cappadocian *Philokalia* \[SC 302:182–83\]), who sees in them the basic principles of his biblical exegesis, so that the two measures of water allude to the psychological and spiritual levels of Scripture, while the third points to the corporeal level, which he says this particular passage lacks. That there are six jars refers to “those being purified in this world, which was created in six days, a perfect number.”
+
 [^8]: [[John 02#^2-6|Jn 2.6]]. Two to three Greek “measures” are approximately twenty to thirty gallons, or 75 to 115 liters.
 
 *[p. 232]* ^pg252
@@ -57,9 +63,13 @@ composed of substance and accidents, which is to say comprehensive knowledge of 
 40.5. They say that love is the most general of the virtues,[^13] 
 
 [^9]: “Theological mystagogy” is the supernatural revelation of divine mysteries, which nature may receive by divine grace, but which it cannot produce through its own power.
+
 [^10]: [[John 02#^2-7|Jn 2.7]].
+
 [^11]: [[John 02#^2-8|Jn 2.8]].
+
 [^12]: [[John 02#^2-3|Jn 2.3]].
+
 [^13]: Cf. *Ascet.* 6 (CCSG 40:15); *Ep.* 2 (PG 91:393B–96D); *Carit.* 4.74 (ed. Caresa-Gastaldo, 226); and *Amb*. 21.9 (DOML 1:432–35).
 
 *[p. 233]* ^pg253
@@ -67,8 +77,11 @@ composed of substance and accidents, which is to say comprehensive knowledge of 
 and that the most general power of nature productive of love is reason, which, holding on tightly to its own Cause,\[6\] is parted through its activity into six more general modes, encompassing the various forms by which the principle of love is distinguished,\[7\] namely, attending physically and spiritually to the hungry and the thirsty, to strangers, to the naked, the sick, and to those in prisons.[^14] This is because the principle of virtue is not limited to bodies alone, neither is the power of nature concerned solely with sensation.[^15] Thus the most general power of nature gives form to the most general virtue, and it does this by dividing virtue into six forms that are analogous to nature’s own six modes. Through these forms, nature is unified in the unity of the will’s inclination,\[8\] showing that the principle of creation is indivisible and of equal honor in all, and is gathered into itself by giving and receiving benefits. When the intellect, through the requisite labors, takes hold of this principle in all its force, it cuts off all the extremes and deficiencies of nature, which were contrived by self-love through the voluntary inclination of each person, transforming our incomparably gentle nature into a savage beast, and dividing the one essence of human nature into multiple and opposing parts, which—and there is nothing worse that one could say—are mutually destructive. By removing these extremes, the intellect bears and brings to light an unwavering mean,\[9\] in accordance with which the natural laws of the virtues were written in the beginning by God. Perhaps this is the mystery that Scripture is hinting at when it introduces six jars empty and without water,[^16] alluding to the inactivity of our nature’s most general power with respect to the good. In this way, then, the most general power of our nature, divided in practice into six modes, fashions the most general virtue into the same number of forms, in such a way that the whole of nature encompasses the whole of virtue. Being conformed to virtue, nature receives its own most general law as the infallible judge of the truth,\[10\] a law which Scripture called the “master of the banquet,”[^17] who clearly discerned the “good 
 
 [^14]: Cf. [[Matthew 25#^25-35|Mt 25.35–36]].
+
 [^15]: Cf. *Amb*. 10.2 (DOML 1:150–53).
+
 [^16]: Cf. [[John 02#^2-7|Jn 2.7]].
+
 [^17]: [[John 02#^2-8|Jn 2.8]].
 
 *[p. 234]* ^pg254
@@ -82,8 +95,11 @@ wine,”[^18] which the Word, through His own proper manifestation, subsequently
 40.8. The mother of the Word is the true and unsullied faith. Just as the Word, who, as God, is by nature the creator of His mother who gave birth to Him according to the flesh, and made her His mother out of love for mankind, and accepted to be born from her as man, so too the Word first creates faith within 
 
 [^18]: [[John 02#^2-10|Jn 2.10]].
+
 [^19]: I.e., *logos,* followed by *logoi* (“principles”).
+
 [^20]: I.e., *logos,* followed by *logoi* (“reasons”).
+
 [^21]: [[John 02#^2-9|Jn 2.9]].
 
 *[p. 235]* ^pg255
@@ -99,6 +115,7 @@ Scholia
 \[2\] When the Word of God became man, He filled human nature anew with the knowledge it had formerly received but did not retain, and, fortifying this knowledge so that it might be immutable, He divinized it, not in terms of its nature, but in terms of its quality, fully giving it the characteristic properties of His own Spirit, mingling them together, so that nature might be strengthened, just as water is mingled with the quality of wine. For this is why in truth He became man, so that He might by grace establish us as Gods.[^23]
 
 [^22]: Cf. *QD.* 35: “But when the Lord came, he elevated even nature into what is beyond nature through faith. And this holds true in the person of the Theotokos. For just as the Theotokos, who exists because she was created by her Lord and Son, herself gave birth to Him according to the flesh, so too faith, which exists from the Word, through actual practice actualizes the Word” (CCSG 10:29, lines 23–30).
+
 [^23]: The water became wine not from its own substance or power, but through a divine power imbuing it with a new quality, which points to the divinization of human nature, which is transformed not through its own natural power or capacity, but through divine grace.
 
 *[p. 236]* ^pg256
@@ -116,7 +133,9 @@ Scholia
 \[8\] He is saying that whoever, through virtue and the voluntary inclination of his will, has become equal to all human beings manifests within himself God’s equal treatment of all, for just as God has created one nature according to one and the same principle, so too has He established a single movement for the voluntary inclination of our will, with respect to which 
 
 [^24]: Cf. [[Philippians 02#^2-7|Phil 2.7]].
+
 [^25]: Cf. [[Matthew 25#^25-35|Mt 25.35–36]].
+
 [^26]: Cf. [[Romans 13#^13-8|Rom 13.8–9]].
 
 *[p. 237]* ^pg257

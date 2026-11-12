@@ -219,142 +219,267 @@ All this stems from Rabbinic decree as we explained.[^124] Therefore if a man en
 
 [^1]: In contrast to Rabbinic Law as defined by the following halachah.  
     The *Turei Zahav* 190:1 interprets the gloss of the *Maggid Mishneh* as stating that even if we are certain that a woman experienced uterine bleeding, if she did not experience the physical sensations that accompany menstruation, she is not impure according to Scriptural Law.
+
 [^2]: The physical sensation described here is not the heaviness, nausea, or stomach contractions which sometimes precipitate a woman's menstrual bleeding. [These sensations are also halachicly significant, but are related to another aspect of the *niddah* laws - the determination of *vesetos*, the time when her menstruation could be expected to begin (see Chapter 8, Halachah 2).] Instead, here the intent is either: a) an awareness of the opening of the uterus, or b) shivers or shudders as in a state of shock. Certain authorities also speak of a third sensation: that of a flow of moisture in the uterine channel. See the commentaries to *Shulchan Aruch* (*Yoreh De'ah* 183:1). It must be emphasized that today, many authorities rule that a woman is unable to identify these sensations.
+
 [^3]: Chapter 5, Halachah 2.
+
 [^4]: I.e., according to Scriptural Law, she does not become impure retroactively.
+
 [^5]: Carrying out the internal examination, however, prevented her from feeling that sensation.
+
 [^6]: Chapter 5, Halachah 5, which states that the discovery of bleeding in the vaginal channel renders her impure.
+
 [^7]: As clarified in Halachah 8.
+
 [^8]: As clarified in Halachot 9-11.
+
 [^9]: We do not say that the fact that she did not discover any internal signs of bleeding indicates that the bleeding originated elsewhere.
+
 [^10]: Since we are speaking about a Rabbinic institution and there is doubt involved, there is some room for leniency as will be explained.  
     The *Kessef Mishneh* questions why we do not consider this a question of multiple doubt (*s'fek s'feika*) in which case we rule leniently. In this instance, it is possible that the blood came from her flesh and it is possible that it came from an outside source. And even if it came from her flesh, it is possible it came from the uterus and it is possible it came from the ovaries.  
     The *Kessef Mishneh* offers two resolutions: a) because of the serious nature of the prohibition involved, our Sages were stringent despite the multiple doubt;  
     b) when the woman has no outside factors to which the blood can be attributed, our Sages ruled stringently and maintained that it is considered as if the bleeding is definitely from her flesh. Thus there is only one doubt: whether the bleeding comes from the uterus or the ovaries.  
     *Kin'at Eliyahu* offers a third resolution: Essentially, there is one question involved? Did the bleeding originate in the uterus or elsewhere? Where elsewhere - the ovaries or an outside source - does not multiply the doubt involved.
+
 [^11]: If she discovers bleeding at the time of her *veset*, we assume that she began menstruating then, since that is when she ordinarily menstruates, as stated in the following halachah. Otherwise, we assume she began menstruating beforehand.
+
 [^12]: I.e., any articles that she touched within that time are considered as if they are ritually impure. We assume that she began menstruating before she discovered the bleeding and therefore consider her impure retroactively.
+
 [^13]: I.e., we reduce the time of impurity from 24 hours, because she conducted an internal examination in the interim. Nevertheless, we still follow the basic premise that she is considered impure retroactively.
+
 [^14]: Chapter 8, Halachah 13. Note *Hilchot Mitamei Mishkav UMoshav* 3:8 which states that although the man who engages in relations with her is not governed by the severe rules that apply to one who had relations with a *niddah*, he is still considered ritually impure for touching the woman.
+
 [^15]: As stated in Chapter 8, a woman must calculate the day on which she is expected to begin menstruated. In this instance, she cannot do so, for she does not know whether to begin counting anew from the time she discovered the stain or perhaps her original cycle has not changed.
+
 [^16]: These terms are defined in this and the following halachah. The rationale is that these women are not expected to menstruate. Hence, we do not show concern for the possibility that they menstruated at an earlier time.
+
 [^17]: Even if she discovers her pregnancy earlier, she must take the bleeding into consideration until three months.
+
 [^18]: Conversely, although a woman continues nursing beyond this times, she is not granted this leniency (*Hilchot Mitamei Mishkav UMoshav* 4:1).
+
 [^19]: I.e., hymeneal bleeding.
+
 [^20]: As stated in *Hilchot Mitamei Mishkav UMoshav* 4:3, this principle applies the first two times she menstruates.
+
 [^21]: I.e., once three months pass without her menstruating, we assume that she will no longer menstruate according to a set pattern.
+
 [^22]: She becomes impure no matter how small it is.
+
 [^23]: A *gris* is half a bean. Cilik is a place where beans grow very large [the Rambam's Commentary to the Mishnah (*Keilim* 17:112)]. Most contemporary experts consider this to be the size of an American dime.
+
 [^24]: It is possible that the blood came from a louse that was inadvertently killed (see Halachah 23). Since the question is one of Rabbinic Law, we rule leniently and consider the woman pure. When, however, the stain is on her flesh, we rule stringently, because lice are not usually found on one's flesh (*Kessef Mishneh*).  
     The distinction between a stain on one's body and on one's clothes is not accepted by all authorities. Ra'avad, Ramban, and Rashba differ and maintain that there is no difference between the two. The *Shulchan Aruch* (*Yoreh De'ah* 190:6) quotes both opinions without stating which one is favored.
+
 [^25]: I.e. unless one of the spots is the size of a *gris*, the woman is considered pure. We are not concerned with the combined area of the spots.
+
 [^26]: In this instance, if the combined area of the stain is the size of a *gris*, the woman is considered as impure.
+
 [^27]: All of the following are examples of articles that are not susceptible to ritual impurity. The Rambam discusses all of these types of utensils in *Hilchot Keilim*. Commenting on the citation of this law in the *Shulchan Aruch* (*Yoreh De'ah* 190:10), the Rama (and *Pitchei Teshuvah* 190:19) also give the example of a toilet seat as an article that is not susceptible to ritual impurity.
+
 [^28]: For an earthenware utensil only contracts ritual impurity from its inside.
+
 [^29]: A cloth of this size is considered too small to serve any purpose and hence, is not considered as a garment or utensil.
+
 [^30]: And found there were no bloodstains on it.
+
 [^31]: As mentioned above, the designation of a woman as impure because of a stain that is discovered is a Rabbinic decree. When our Sages instituted the decree, they allowed for leniency in certain instances.
+
 [^32]: *Niddah* [[Niddah 61#61b|61b]] relates that originally our Sages thought to prohibit women from wearing colored garments as part of the mourning customs introduced because of the destruction of the Temple. Afterwards, they reconsidered and recommended that they wear such garments as the Rambam explains.
+
 [^33]: On days other than her seven "spotless" days.
+
 [^34]: In the Talmudic era, people would sit on rugs on cushions on the ground and when sitting in this manner, it is possible that a woman's foot will touch her genital area.
+
 [^35]: And it is possible that unknowingly, she touched a place on her body where there was menstrual blood (*Maggid Mishneh*).
+
 [^36]: When restating this law, the *Shulchan Aruch* (*Yoreh De'ah* 190:11) uses the wording "if it is found above her genital area." It also states that if a woman lifted her legs above her waist, she is impure even if a stain is found on the upper portion of her body.
+
 [^37]: I.e., we assume that the blood came from an external source. For it is not ordinary that her menstrual blood would spatter to these portions of her body.
+
 [^38]: I.e., the shape of the stain appeared to indicate that the blood was spattered upward, rather than dripped downward.
+
 [^39]: I.e., even when the shape of the stain appears to indicate that it came from an external source, as long as its position leaves open the possibility that it came from uterine bleeding, we rule stringently.
+
 [^40]: The *Shulchan Aruch* (*Yoreh De'ah* 190:12) rules that this law applies even when the stain is found on only the external part of her garment.
+
 [^41]: For the possibility exists that it came as a result of uterine bleeding. See Halachot 19-20 which explain that when there is justified reason to suspect that the stain came from an external source, she is pure, even though the stain is found on the lower portion of her garment.
+
 [^42]: Even when she bends (*Maggid Mishneh* in the name of the Rashba).
+
 [^43]: Because it is possible that she and the blanket both shifted position while she was sleeping.
+
 [^44]: I.e., it is three times the size of a *gris*.
+
 [^45]: She must wait seven "spotless" days before engaging in relations. She brings the sacrifice required of a *zavah*, but because of the doubt concerning her status, it is not eaten.
+
 [^46]: Three stains are sufficient to render her a major *zavah*. She is not, however, definitely given this status, for it is possible that the three stains came on one day.
+
 [^47]: I.e., she wore the three garments at the same time, one on top of the other.
+
 [^48]: For it is possible that she experienced bleeding on three successive days.
+
 [^49]: And thus it is likely that the three stains came from the same bleeding. Nevertheless, since we are not certain of this, she is considered a *zavah* because of the doubt.
+
 [^50]: I.e., it is smaller than three times the size of a *gris*.
+
 [^51]: *Bein hashamashot* refers to the time between sunset and the appearance of the stars. The intent is not that a woman should continue to inspect herself throughout this entire time. Instead, what is meant is that she should insert a small cloth into her vagina and leave it there for this entire time.
+
 [^52]: For she will have verified that she had not experienced bleeding on the first day.
+
 [^53]: Since she was wearing the garment for three days, the possibility exists that she experienced bleeding for three days, but all the stains were in the same place.
+
 [^54]: Since on one of the days, she became impure because of a stain without feeling the physical sensations associated with menstruation, her impurity is not of Scriptural status. For to be considered as a *zavah* according to Scriptural Law, she must experience these physical sensations.
+
 [^55]: If the bleeding was discovered within 24 hours of the stain, we assume that the stain came about because of the subsequent bleeding and therefore she is governed by the same laws that would apply had she experienced only the bleeding as stated in Halachah 16.
+
 [^56]: The Rambam's ruling is dependent on his understanding of *Niddah* [[Niddah 53#53b|53b]]. The Ra'avad does not accept the Rambam's interpretation of this passage and harshly dismisses the Rambam's conclusions. The *Maggid Mishneh* both supports and explains the Rambam's position.
+
 [^57]: But if she does not discover blood on Monday, she is not a major *zavah*, i.e., we pay no attention to the stain that she discovered on Friday.  
     (Any time the term *zavah* is mentioned subsequently in this chapter, she is considered as a *zavah*.)
+
 [^58]: She is not definitely placed in that category, because one of the days is associated with a stain, as stated in Halachah 14.
+
 [^59]: Because she experienced either a stain or bleeding on three consecutive days..
+
 [^60]: Because she experienced either a stain or bleeding on three consecutive days..
+
 [^61]: I.e., instead of being concerned that she discovered stains on three consecutive days, she associates the stain of the Sabbath and that of Sunday and counts them only as one.
+
 [^62]: For each of the stains is considered individually.
+
 [^63]: The principles mentioned in this halachah are illustrated in the halachot that follow.
+
 [^64]: Since the impurity associated with a stain is a matter of Rabbinic Law, we follow the principle: Whenever there is a doubt involved a matter of Rabbinic Law, we rule leniently [*Shulchan Aruch* (*Yoreh De'ah* 190:18)].
+
 [^65]: Since the stain is found on her flesh and not on her clothes, we assume that it is more likely to come from the uterus than from an external factor.
+
 [^66]: E.g., she has a wound on her flesh.
+
 [^67]: Provided the stain is found on a portion of her body from which the blood could have dripped from the uterus as stated in Halachah 8.
+
 [^68]: This phrase was not found in the texts of the *Mishneh Torah* possessed by the Ra'avad and the *Maggid Mishneh*. Therefore they raised objections to the Rambam's ruling.
+
 [^69]: Ordinarily, however, such a stain does not alter her status even though it is found on her flesh alone.
+
 [^70]: E.g., if it was scratched [*Shulchan Aruch* (*Yoreh De'ah* 190:18)].
+
 [^71]: And thus her status does not change. Note, however, Halachah 25.
+
 [^72]: For we can assume that it came from the outside first to her garments and then to her flesh. Hence she may attribute the blood to any of the factors mentioned in Halachah 20, as if the blood was found on her garments alone.
+
 [^73]: This applies even if she did not see that she killed a louse. If she knows that she killed an insect and it is possible that it produced a stain larger than a *gris*, she may attribute the stain to that [the Rambam's Commentary to the Mishnah (*Niddah* 8:2)].
+
 [^74]: For it is an accepted principle that a louse contains no more than a *gris* of blood. Hence if the stain is larger, that is an indication that the blood came from another source. Note *Shulchan Aruch* (*Yoreh De'ah* 190:28) which rules leniently and explains that it is possible that there were two lice here, one which she killed previously and the one which is found crushed on her garment.
+
 [^75]: As indicated by the Rambam's explanation, even if she did not know that they touched her with soiled hands, if their hands were soiled, she may assume that this is the fact. For it is likely for a husband to touch his wife and a child to touch his mother.
+
 [^76]: If, however, their hands are not soiled, we do not attribute a stain to them unless the blood could have spattered upon her [*Maggid Mishneh*; *Shulchan Aruch* (*Yoreh De'ah* 190:19)].
+
 [^77]: It is highly improbable that blood dripped from her shoulder to her calf.
+
 [^78]: There are instances where we postulate that a person's hands are active and the possibility exists that one transferred impurity from one place to another. Nevertheless, this concept is used only to lead to a stringency, not as a source for leniency.
+
 [^79]: The *Maggid Mishneh* states that if it is possible that the garment passed over the wound when it was removed, we can attribute a stain on a garment to such a wound. The *Shulchan Aruch* (*Yoreh De'ah* 190:16) quotes this conclusion.
+
 [^80]: Since the fowl did not contain enough blood to produce two stains of this size, we assume that one came from another source and attribute it to menstrual bleeding. Since we don't know which of the women was soiled by the fowl and which was not, we rule that they are both impure.  
     The *Bayit Chadash* (*Yoreh De'ah* 190) rules that this law applies only when the two women come to inquire about their status together. If they come one after the other, he rules that they are both considered pure. The *Turei Zahav* 190:17 differs, maintaining that although the ruling of the *Bayit Chadash* has parallels in other contexts, the logic should not be applied in this instance. The *Nekudot HaKessef*, however, accepts the ruling of the *Bayit Chadash*.
+
 [^81]: As stated in Halachah 23. The Rama (*Yoreh De'ah* 190:26) states that although there are opinions which rule that a woman is impure in such an instance, we follow the more lenient view, for the entire issue is one of Rabbinic Law.
+
 [^82]: Although there is reason to say that if the stain came from the outside, it would certainly be found on the outer garment as well, we still rule leniently, because there is the possibility that the outer garment was raised up at the time the blood was spattered.
+
 [^83]: Thus had the stain come from the woman's body, it would be far more likely to be found on the lower garment.
+
 [^84]: Although we rule leniently in questions involving stains, that is when we know that there is definitely a factor that could cause a stain involved. In this instance, we are not certain that there is indeed such a factor involved.  
     When quoting this law, the *Shulchan Aruch* (*Yoreh De'ah* 190:22) adds that this ruling applies only in a city where there is a set place for butchering and the like. In places where these activities are carried out in many different places, a woman can attribute a stain to such a factor even if she is not certain that she passed such a place.
+
 [^85]: For the pigs eat small crawling animals and spatter their blood on passersby. Needless to say in most modern cities, this law does not apply.
+
 [^86]: According to Scriptural Law, the laws of *niddah* do not apply to gentile woman, but according to Rabbinic Law, every gentile women is considered as if she is a *niddah*. The *Maggid Mishneh* quotes opinions which maintain that even if the gentile woman is not known to be a *niddah*, the stain can still be attributed to her, because her halachic status is that of a *niddah*. This opinion is also reflected in the ruling of the *Shulchan Aruch* (*Yoreh De'ah* 190:41). Even according to this conception, the gentile woman must be of the age that it is possible that she will experience menstrual bleeding. See Halachah 33 for further clarification regarding the fundamental principle on which this halachah is based.
+
 [^87]: The Rambam's wording teaches us another concept: We are not concerned about stains on clothing unless the clothes were checked first (*Maggid Mishne*).
+
 [^88]: Since the *niddah* and the gentile woman are already impure and will not suffer any difficulty if the stain is attributed to them, we indeed consider them as the source of the bleeding.
+
 [^89]: The day on which she experienced uterine bleeding.
+
 [^90]: This was the law in the era of the Talmud when the laws of "the blood of purity" were observed after childbirth. As will be explained in Chapter 11 and notes, at present, this leniency is no longer observed.
+
 [^91]: In all these instances, attributing the stain to the borrower does not change her halachic status. The minor *zavah* is impure and the woman after childbirth and the virgin are pure regardless of the stain.  
     As stated in Chapter 11, the concept of a minor *zavah* does not apply in the present age and instead, she is considered as equivalent to a major *zavah*. Hence a stain can certainly be attributed to her. The laws concerning a woman with hymeneal bleeding or a woman after childbirth are different, for in the present age, we do not consider such woman as ritually pure. Instead, uterine bleeding - and even a stain - renders them ritually impure. Accordingly, since the status of these woman will be impaired because of the discovery of the stain, there is reason to assume that it should not be attributed to them alone, but instead, both the borrower and the lender should be considered impure as in the following clause. {See the *Tur* (*Yoreh De'ah* 190) which cites such views.} The commentaries explain, however, that according to the Rambam, this law applies even in the present era. Indeed, it is quoted by the *Shulchan Aruch* (*Yoreh De'ah* 190:42) and the *Shulchan Aruch* only quotes laws that apply in the present era.  
     The *Siftei Cohen* 190:54 explains that even though the halachic status of these women changed in the present era, their physical tendency did not change. They frequently experience uterine bleeding and hence, we attribute the stain to them.
+
 [^92]: Both the lender and the borrower are not likely to experience uterine bleeding and for both, it will impair their halachic status. Since we do not know which one is responsible for the stain, both share the resulting halachic liability.  
     The *Tur* and the *Shulchan Aruch* (*Yoreh De'ah, loc. cit.*) differ with the Rambam's ruling and maintain that the owner of the garment is pure. Since the status of the woman who is seeking to attain ritual purity is already impaired when compared to that of the owner, the stain is attributed to her alone despite the fact that her status will become further impaired by this ruling.
+
 [^93]: Although a woman is considered impure because of a stain, we do not consider it a certain enough sign of uterine bleeding to attribute another stain to it.
+
 [^94]: When quoting this law, the *Shulchan Aruch* (*Yoreh De'ah* 190:40) omits mention of the fact that the woman inspected herself as well as her garment.
+
 [^95]: I.e., the owner is definitely impure; in this instance, the borrower is also impure, because it is possible that the stain comes from her.
+
 [^96]: Since there is no reason to attribute the stain to one more than the other and they all share the same halachic status, they are all considered as impure.
+
 [^97]: With their bodies intertwined [see *Maggid Mishneh*; *Shulchan Aruch* (*Yoreh De'ah* 190:50) based on *Niddah* 61a].
+
 [^98]: Based on *Niddah, loc. cit.*, the *Maggid Mishneh* and the *Shulchan Aruch* (*loc. cit.*) interpret this as referring to an instance when the woman all climbed into the bed from the same side. See Halachah 34.
+
 [^99]: The *Maggid Mishneh* and the *Kessef Mishneh* interpret this as meaning that she inspected herself within the same day or night as the stain was discovered. The *Shulchan Aruch* (*Yoreh De'ah* 190:51) states that the inspection must be made immediately thereafter.
+
 [^100]: For we assume that the woman who found herself impure is the source of the stain.  
     The commentaries question if this clause applies only with regard to the bed or also with regard to the garment. The *Maggid Mishneh* asserts that it applies to the garment as well. The *Kessef Mishneh*, however, argues against his position.
+
 [^101]: See Halachah 4 for the definition of this term in the present context.
+
 [^102]: For she is unlikely to experience uterine bleeding.
+
 [^103]: For we assume that the woman who found herself impure is the source of the stain.  
     The commentaries question if this clause applies only with regard to the bed or also with regard to the garment. The *Maggid Mishneh* asserts that it applies to the garment as well. The *Kessef Mishneh*, however, argues against his position.
+
 [^104]: See Halachah 4 for the definition of this term in the present context.
+
 [^105]: See Halachah 5 for the definition of this term in the present context.
+
 [^106]: See Halachah 4 for the definition of this term in the present context.
+
 [^107]: This is the meaning of the term *betulah* in this context. See Halachah 5.
+
 [^108]: See Halachah 4 for the definition of this term in the present context.
+
 [^109]: Since there is no reason to favor one over the other, we rule stringently with regard to all of them.
+
 [^110]: And thus each one did not pass over the place where the other slept. See the notes to Halachah 32.
+
 [^111]: Because either of the woman on the sides could have shifted position slightly and the blood have come from her.
+
 [^112]: If, however, the stain was discovered on the top sheet, they are all impure, because the top sheet is likely to shift position during their sleep.
+
 [^113]: For it is unlikely that one twisted and turned to that degree.
+
 [^114]: The *Maggid Mishneh* interprets the Rambam's words as follows: If a stain that appears to be blood is discovered, a woman must consider herself impure. If, however, there is a question in the minds of the experts whether or not she is truly impure, they could verify the woman's status through the test the Rambam mentions. It is not, as the Ra'avad appeared to understand that the Rambam maintained, that a woman should not consider herself impure unless she verified that the stain was blood through the process described. This interpretation is quoted by *Shulchan Aruch* (*Yoreh De'ah* 190:31). See also *Hilchot Mitamei Mishkav UMoshav*, ch. 4.
+
 [^115]: I.e., the sages to whom women would turn to determine whether a stain was blood or not.
+
 [^116]: See the Rambam's Commentary to the Mishnah (*Niddah* 9:6).
+
 [^117]: The Ra'avad also differs with the Rambam concerning this point, maintaining that the seven cleansing agents are used to help purify a garment, not to determine whether a woman is pure. As explained in *Hilchot Mitamei Mishkav UMoshav, loc. cit.*, the Rambam also appreciates the role of these cleansing agents in restoring the ritual impurity of a garment. If, however, the cleansing agents are not effective, it becomes obvious that the stain is not blood. Hence, not only the garment, but also the woman is considered as pure.
+
 [^118]: We have given the popular translation. In his edition of the Rambam's Commentary to the Mishnah (*Niddah* 9:6), Rav Kappach identifies the Arabic term used by the Rambam as a cleaning agent made from the plant "althaea officinalis."
+
 [^119]: Again, we have used the common translation. In his Commentary to the Mishnah (*Keilim* 2:1), the Rambam defines the term is referring to a blue stone that becomes dissolved in water easily and which is used to clean hair and garments.
+
 [^120]: Again, we have used the common term. Rav Kappach (*loc. cit.*) defines the Arabic term used by the Rambam as referring to a plant known as anabis setifera.
+
 [^121]: Rav Kappach (*loc. cit.*) defines the Arabic term used by the Rambam as referring to a plant known as saponaria officinalis.
+
 [^122]: I.e., the fact that the stain remains is not considered evidence that it is not blood.  
     Note *Shulchan Aruch* (*Yoreh De'ah* 190:31) which states that because we are unsure of the identity of some of these seven cleansing agents, we do not employ this examination process in the present age.
+
 [^123]: Halachot 12-18.
+
 [^124]: Halachah 2.
+
 [^125]: The punishment given for violating a Rabbinic commandment.
+
 [^126]: If he engaged in relations with her inadvertantly.

@@ -61,6 +61,7 @@ this explicit, to instill confidence in the *Tantrāloka*’s audience regarding
 This focus on the individual revealer of a text and the context within which it is revealed is bolstered by Abhinavagupta’s articulation of a decidedly Kaula orientation towards scriptural transmission: the realization of revelatory truth must, “without exception,” be delineated according to a qualified individual located in space and time.[^690] The autobiographical epilogue accomplishes just this by giving Abhinavagupta’s dispensation a spatial and temporal address, and an occasion to formulate his own credentials and qualifications. Bearing in mind that the revelation under consideration here is the most subtle and precious teaching on offer, the conditions for its current iteration via the *Tantrāloka* must also be prodigious. This interpretation of the purpose of Abhinavagupta’s autobiographical passage, based on a close reading of its 
 
 [^689]: Abhinavagupta argues that this is the function of Utpaladeva’s self-reference as the son of Udayākara in the final verse of the *Īśvarapratyabhijñākārikā*. See Abhinavagupta’s *vimarśinī* ad *Īśvarapratyabhijñākārikā* 4.18: *udayākarasya putras śrīmān utpaladevo ‘smat paramagurur idam śāstram akārṣīd iti tatprasiddhyā janaḥ pravartata iti pravartanadvāreṇa so ‘nugṛhāto bhavatīti ubhayanāmanirdeśaḥ* ‘The son of Udayākara, the illustrious Utpaladeva who is our guru’s guru, composed this *śāstra*. By means of a firm belief (*prasiddhi*) in this \[author\], a person will engage \[this text\]. By engaging it, they will receive grace. That is the reason for the mention of both the names \[of the author and his father\].’
+
 [^690]: See RATIE (2013), p. 409, footnote 75: “ĪPV II 82-83: *sarva eva hy āgamo niyatādhikārideśakālasahakāryādiniyantritam eva vimarśaṃ vidhatte vidhirūpo niṣedhātmā vā*.” RATIE‘s translation of this statement is given in chapter four. See also *Tantrāloka* 35.25: *tasmin viṣayavaiviktyād vicitraphaladāyini | citropāyopadeśo 'pi na virodhāvaho bhavet* ‘Even though this teaching has many different means when it comes to bestowing different types of goals on the basis of particular contexts, a contradiction does not result \[from this\].’ In *Tantrālokaviveka* ad *Tantrāloka* 35.25, Jayaratha elaborates what Abhinavagupta means by “particular contexts”: *deśakālādhikāryādiviṣayabhedam āśritya* ‘with reference to different contexts such as a given place, time, or a specific person who is qualified.’
 
 *[p. 287]* ^pg299
@@ -140,8 +141,11 @@ to one hundred years after Harṣavardhana’s reign (i.e., the eighth century).
 the Gaṅgā \[breaks through\] the Himālaya, his army proceeded with ease to the eastern ocean.”
 
 [^699]: On the dating of Yaśovarman’s “dethronement” not long after 736 A.D., see STEIN (1900), volume 1, p. 89 of introduction.
+
 [^700]: See above footnote with the translation of *Rājataraṅgiṇī* 4.144-146.
+
 [^701]: For an assessment of legendary nature of Lalitāditya-Muktāpīḍa’s world conquest (*digvijaya*) in the *Rājataraṅgiṇī*, with reference to independent historical sources, see STEIN (1900), volume 1, pp. 90-92.
+
 [^702]: Kalhaṇa mentions Suvrata’s compendium of earlier chronicles of Kashmirian dynasties in *Rājataraṅgiṇī* 1.11-12, and Kṣemendra’s *Nṛpāvali* at *Rājataraṅgiṇī* 1.13. In *Rājataraṅgiṇī* 1.14 he tells us that he has consulted eleven texts in all on the dynastic history of the region. *Rājataraṅgiṇī* 1.17 refers to the *Pārthivāvali* of a certain Helārāja whom he describes as a Mahāvratin. It appears the *Rājataraṅgiṇī* may have successfully supplanted these earlier accounts, given that they are no longer extant.
 
 *[p. 291]* ^pg303
@@ -155,7 +159,9 @@ The next person in this exceptional family line that Abhinavagupta briefly portr
 703\. On Kalhaṇa’s range of sources for the *Rājataraṅgiṇī*, see STEIN (1900), vol. 1, pp. 24-27.
 
 [^704]: *Tantrāloka* 37.52: *tasmin kuberapuracārisitāṃśumaulisāṃmukhyadarśanavirūḍhapavitrabhāve |* *vaitastarodhasi nivāsam amuṣya cakre rājā dvijasya parikalpitabhūrisaṃpat* ‘ In that \[Pravarapura = Śrīnagara\], on the bank of the Vitastā \[river\] which is purified and elevated thanks to faceto-face encounters with \[Śiva\] crowned by white moon-beams (*sitāṁśumauli*) who roams in the northern region, King \[Lalitāditya\] built a greatly endowed estate for that Brahmin \[Atrigupta\].’
+
 [^705]: *Tantrāloka* 37.53: *tasyānvaye mahati ko 'pi varāhaguptanāmā babhūva bhagavān svayam antakāle* *| gīrvāṇasindhulaharīkalitāgramūrdhā yasyākarot param anugraham āgraheṇa* ‘In that great lineage of that \[Atrigupta\], there was a certain person named Varāhagupta to whom \[Śiva\]—whose crown is decorated by the waves of the heavenly Gaṅgā—himself bestowed supreme grace out of affection at the end of his life.’ This bestowal of grace at the end of his life by Śiva “himself”, i.e. without the mediation of a guru, may imply that Abhinavagupta’s grandfather achieved full liberation directly from Śiva at the moment of death.
+
 [^706]: [[Tantraloka 37.054|TĀ 37.54]]: *tasyātmajaś cukhalaketi jane prasiddhaś candrāvadātadhiṣaṇo narasiṃhaguptaḥ | yaṃ sarvaśāstrarasamajjanaśubhracittaṃ māheśvarī param alaṃkurute sma bhaktiḥ*.
 
 *[p. 292]* ^pg304
@@ -189,7 +195,9 @@ rendering of his father is his role as an archetypal Śaiva scholar and devotee,
 It is of interest to note that when Abhinavagupta describes his position and place in this kin-based lineage, he often refers to his body;[^713] it is as if the superior conditions of his birth, both in terms of his ancestral heritage and ideal parentage, primed the vessel of his body for eventually becoming the perfect 
 
 [^711]: *Tantrāloka* 37.59. This verse will be translated below.
+
 [^712]: *Tantrāloka* 1.12: *yaḥ pūrṇānandaviśrāntasarvaśāstrārthapāragaḥ | sa śrīcukhulako diśyād iṣṭaṁ me gurur uttamaḥ* ‘May auspicious Cukhulaka, that superlative guru who reposes in perfect bliss and has mastered the doctrines of all the *śāstra*s, teach me what I desire \[to know\].’ See also *Mālinīślokavārttika* 1.5: *gurubhyo 'pi garīyāṃsaṃ yuktaṃ śrīcukhalābhidham | vande yatkṛtasaṃskāraḥ sthito 'smi galitagrahaḥ* ‘I adore \[my father\], a scholar whose name is Cukhala and who is more venerable than even the teachers. It is through his education (*saṃskāra*), that I have become free from attachment.’ Translation of HANNEDER (1998), p. 59.
+
 [^713]: *Parātrīśikāvivaraṇa*, closing verse 13: *tasmād vivecitasamastapadārthajātāl labdhvāpi dehapadavīṃ parameśapūtām | prāptābhayo 'bhinavaguptapadābhidhānaḥ prāveśayat trikasatattvam idaṃ nigūḍham* ‘In receiving a body that is purified by Lord Śiva from that \[Cukhala\] by whom the catalogue of all existent things was discerned, the one named Abhinavagupta who has become fearless has introduced this secret truth of the Trika system.’ See also the second opening verse of Abhinavagupta’s *vivṛtivimarśinī* on the *Īśvarapratyabhijñākārikā*: *labdhvānugraham īśvarān nijamahaḥsaṃbhārasaṃdīpino dehe 'smin narasiṃhaguptaghaṭite labdhāspadaḥ paścime | śrīmallakṣmaṇaguptadarśitapathaḥ śrīpratyabhijñāvidhau ṭīkārthapravimarśinīṃ racayate vṛttiṃ praśiṣyo guroḥ* ‘Having received divine favor from Lord blazing with the fullness of his innate power, \[Abhinavagupta\] whose authority has \[thus\] been attained in this final body produced by \[his father\] Narasiṁhagupta, \[and\] who has learned the path of the auspicious system of Recognition from venerable Lakṣmaṇagupta, that grand-pupil of the Guru \[Utpaladeva\], now composes a commentary that elucidates the meaning of \[Utpaladeva’s\] extensive auto-commentary.’ Abhinavagupta also mentions his body in tandem with his father in the second concluding verse of the *Īśvarapratyabhijñākārikāvivṛtivimarśinī*, which will be translated below. Abhinavagupta is his \[i.e. Narasiṃhagupta’s\] renowned son who was purified by the pollen of the lotus feet of the auspicious moon-crowned \[Śiva\]. His mother was suddenly torn away from him during childhood. Indeed, fate refines a person in preparation for their future destiny. The mother is the most important relationship, so the saying goes. Indeed, affection \[for one’s mother\] tightly fastens one’s bonds. When the root bond of those \[attachments\] fell away for him \[i.e. Abhinavagupta\], indeed, I consider that liberation in this very life was \[then\] secured.
 
 *[p. 294]* ^pg306
@@ -199,7 +207,9 @@ vehicle for the Śaiva revelatory tradition. In fact, we have evidence that in a
  After charting his paternal line and ruminating on his father’s excellences, at this juncture in the *Tantrāloka* Abhinavagupta narrates an event in his childhood that left an indelible impression:[^716] 
 
 [^714]: SANDERSON (2005) is dedicated to a study of this signature benediction.
+
 [^715]: Ibid., p. 100: “By claiming that he is himself the product of such a union he asserts that he is specifically competent to instruct his readers in the nature and means of liberation. For he tells us elsewhere that the body of one conceived in such a union is the receptacle of enlightenment even before birth. That for which others must strive is his instinctively. For the experience of the heart in Kaula union animates the united emissions of semen and menstrual blood which form the embryo.”
+
 [^716]: *Tantrāloka* 37.56-57: *tasyātmajo 'bhinavagupta iti prasiddhaḥ śrīcandracūḍacaraṇābjaparāgapūtaḥ | mātā vyayūyujad amuṃ kila bālya eva daivaṃ hi bhāviparikarmaṇi saṃskaroti || mātā paraṃ bandhur iti pravādaḥ sneho 'tigāḍhīkurute hi pāśān |* *tanmūlabandhe galite kilāsya manye sthitā jīvata eva muktiḥ.*
 
 *[p. 295]* ^pg307
@@ -217,6 +227,7 @@ seen as proof of Abhinavagupta’s innate talent as a Śaiva scholar.[^717] This
 In the *Tantrāloka* epilogue, describing his ancestor Atrigupta’s emigration to Kashmir gives Abhinavagupta occasion to compose an extended and glowing description of the Himālayan vale.[^718] This section of the *Tantrāloka* epilogue that pays tribute to Kashmir shares themes touched upon in the genres of local Purāṇas, story-literature (*kathā*), and Kashmirian Māhātmyas; some of his descriptions of Kashmir find parallels, for example, in the *Nīlamata*, *Śāradāmāhātmya*, *Kathāsaritsāgara*, and *Vitastāmāhātmya*. However, the literary form of his ode to Kashmir and the city of Pravarapura (Śrīnagara), which utilizes complex metrical verses accumulated with figures of speech, has even 
 
 [^717]: Here we should note that Abhinavagupta does not give much credence to caste when it comes to access to the Śaiva teachings or eligibility for liberation, and so the emphasis on family lineage, birth, and the unique features of his “body” are not specifically related to the fact that he is a brahmin. That said, Abhinavagupta’s status as a brahmin, we must imagine, did little to impede his pursuit of the finest education. For a clear statement that no one can be excluded from the liberating teachings of his Śaiva philosophical tradition on the basis of caste, see Abhinavagupta’s *vimarśinī* ad *Īśvarapratyabhijñākārikā* 4.1.18: *nātra jātyādyapekṣā kācid iti sarvopakāritvam uktam* ‘In this system there is no specific consideration given to the class, etc. \[of a qualified audience\]. Therefore, we teach that \[this text\] can benefit all.’
+
 [^718]: This segment of the autobiographical epilogue runs thirteen verses, from *Tantrāloka* 3*7*.39- 37.51.
 
 *[p. 297]* ^pg309
@@ -226,9 +237,13 @@ greater affinity with the literary techniques of courtly literature (*kāvya*). 
 As we will illustrate, this section of Abhinavagupta’s autobiographical epilogue has a great deal of affinity—stylistically and thematically—with the literary portrayals of Kashmir found in two Kashmirian *kāvya*s that postdate him, Bilhaṇa’s *Vikramāṅkadevacarita* (ca. 1085)[^720] and Maṅkha’s *Śrīkaṇṭhacarita* (ca. 1128-1144).[^721] There are also compelling parallels with the poetic portrayal of Kashmir in Kalhaṇa’s *Rājataraṅgiṇī* (1148-1150)[^722] and Jayadratha’s *Haracaritacintāmaṇi* (thirteenth century),[^723] which will be highlighted below. 
 
 [^719]: A description of the environment or locale of the main character is found in the beginning of Bāṇa’s *Kādambarī*, the *Kumārasaṃbhava* of Kālidāsa, and in the third chapter of Māgha’s *Śiśupālavadha*. Bhāravi’s *Kirātārjunīya*, slightly altering this pattern, opts for a description of the city of the enemy. On these and other references, see SMITH (1985), p. 30.
+
 [^720]: On this dating of Bilhaṇa’s composition of the *Vikramāṅkadevacarita*, see BÜHLER (1875), p. 23.
+
 [^721]: On this date range for the *Śrīkaṇṭhacarita*, see STEIN (1900), volume 1, p. 12.
+
 [^722]: This dating is noted in STEIN (1900), volume 1, p. 6, and is based on the text’s start and finish dates furnished by Kalhaṇa himself, in *Rājataraṅgiṇī* 1.52 and 8.3404.
+
 [^723]: Jayadratha is the brother of the author of the *Tantrālokaviveka*, Jayaratha. For the dating of Jayaratha \[and therefore his brother\] to the thirteenth century, see SANDERSON (2007), pp. 418-419. On the fraternal relation of these two authors, and a brief description of the *Haracaritacintāmaṇi*, see SANDERSON (2007), p. 378, footnote 475: “From Jayaratha’s brother Jayadratha we have the *Haracaritacintāmaṇi*, a collection of accounts of Śiva’s deeds in the world of men, the majority of which are told in versions that associate them with local sites of pilgrimage and the local religious calendar. The Śaivism of initiates transcends this level of common observance. But Jayadratha integrates it by introducing these narratives with verses that present their content as symbolic of the higher truths taught in the Śaiva scriptures.”
 
 *[p. 298]* ^pg310
@@ -242,10 +257,15 @@ Local descriptions of the region also frequently refer to the legendary creation
 <sup>724</sup> *Rājataraṅgiṇī* 1.25-1.43. 
 
 [^725]: *Rājataraṅgiṇī* 1.42: *vidyā veśmāni tuṅgāni kuṅkumaṃ sahimaṃ payaḥ* | *drākṣeti yatra sāmānyam asti tridivadurlabham*. Translation of STEIN (1900), volume 1, p. 10 of translation.
+
 [^726]: *Nīlamatapurāṇa* 1.12-13; *Śrīkaṇṭhacarita* 3.1; *Rājataraṅgiṇī* 1.25-27. This event is not alluded to in Abhinavagupta’s regional descriptions.
+
 [^727]: On the theme of Kāmadeva’s presence in the region, see *Śrīkaṇṭhacarita* 3.5, 3.8, 3.31. On the beauty of the women of Kashmir, see *Śrīkaṇṭhacarita* 3.15, 3.22-23, 3.25; *Vikramāṅkadevacarita* 18.11-13, 18.17, 18.20-21. For references to both Kāmadeva and women, see *Śrīkaṇṭhacarita* 3.27, 3.29-30.
+
 [^728]: On the identification of Pravarapura as Śrīnagara, see STEIN (1900), volume 1, p. 98 of the translation, footnotes to vv. 3.339-349.
+
 [^729]: *Tantrāloka* 37.47-48; *Vikramāṅkadevacarita* 18.28; *Śrīkaṇṭhacarita* 3.21; *Rājataraṅgiṇī* 3.336ff.
+
 [^730]: *Tantrāloka* 37.50-51: *rodhaḥpratiṣṭhitamaheśvarasiddhaliṅgasvāyaṃbhuvārcanavilepanagandha-puṣpaiḥ | āvarjyamānatanuvīcinimajjanaughavidhvastapāpmamunisiddhamanuṣyavandyā ||* *bhogāpavargaparipūraṇakalpavallī bhogaikadānarasikāṃ surasiddhasindhum | nyakkurvatī harapinākakalāvatīrṇā yad bhūṣayaty avirataṃ taṭinī vitastā* ‘Where the river Vitastā constantly adorns that \[land\] together with the fragrant blossoms that are the ritual ointment for the adoration of the Shiva and Siddha liṅga that are established on its banks. \[That river is\] descended from the crescent \[moon\] on the trident of Śiva. When it comes to the fruition of enjoyment and liberation it is a wish-fulfilling creeper that puts to shame the \[divine\] river of the Gods and the Siddhas \[the heavenly Gaṅgā\], which has *rasa* only inasmuch as it gives enjoyment \[and not liberation\]. \[That river\] is praised by sages, siddhas, and humans \[since\] their deep faults are destroyed from immersing themselves in its delicate ripples which wash \[those faults\] away.’ For the Vitastā river in the imagination of other Kashmirian poets, see *Śrīkaṇṭhacarita* 3.7, 3.20, & 3.24; *Vikramāṅkadevacarita* 18.22; *Rājataraṅgiṇī* 1.29; *Haracaritacintāmaṇi* 1.27 & chapter 12, which is dedicated to the story of the Goddess’s incarnation as the Vitastā.
 
 *[p. 299]* ^pg311
@@ -255,7 +275,9 @@ Kashmirian summers,[^731] and numerous major and minor regional shrines, temples
 Abhinavagupta is now turning to a description of “place” (*deśa*), a key criterion in his Kaula conception of revelation. To establish the eminence of Kashmir as an auspicious abode for the genesis of the *Tantrāloka*, Abhinavagupta has recourse to a poetic style and literary topos that have regional precedents, but are totally absent from his extant Śaiva sources. This code-switching, shifting to a high literary register at the conclusion of his monumental Śaiva compendium,[^732] is indicative of Abhinavagupta’s recourse to literary sources beyond the horizon of tantric Śaivism. Abhinavagupta is here adopting a literary practice of regional representation well-attested in Kashmir, a fact that has led scholars to frequently remark on the augmented “local” awareness of premodern Kashmirian authors.[^733] Moreover, this amplified attention of Kashmirian poets to 
 
 [^731]: *Rājataraṅgiṇī* 1.41.
+
 [^732]: The vast majority of the *Tantrāloka* is composed in *anuṣṭubh* meter, but Abhinavagupta does use other meters on occasion. In his autobiographical excerpt, on the other hand, a major shift in his compositional practice is noticeable in his sudden use of a vast array of complex meters (e.g. *upajāti*, *hariṇī*, *śārdūlavikrīḍita*, *mandākrāntā*, *vasantatilakā*, *vaṃśasthavila*, etc.) and figures of speech.
+
 [^733]: Reference to a heightened regional self-awareness in Kashmir is often in conjunction with discussions of the *Rājataraṅgiṇī* of Kalhaṇa, but a close study of the poetic portrayals of Kashmir in the literary works of Ratnākara, Somadeva, Kṣemendra, Bilhaṇa, Maṅkha, and Jayadratha is still a desideratum. Such a study would also benefit from a survey of the local customs, shrines, and *tīrtha*s detailed in the *Nīlamata*, *Vitastāmāhātmya*, and the *Śāradāmāhātmya*.
 
 *[p. 300]* ^pg312
@@ -269,8 +291,11 @@ To impress upon his audience that not only the preeminence of his familial genea
 Abhinavagupta here refers to a famous Kashmirian shrine of the Goddess Śāradā,[^736] and the devoted pilgrim and beneficiary of this sacred site, Śāṇḍilya,[^737] who features in local narratives that promote the shrine’s transformative power. Abhinavagupta speaks directly to the efficacy of the presence of Śāradā-Sarasvatī on Kashmir: She unites all people with her own powers of learning. What this statement illuminates, Jayaratha tells us, is that the abode of Kashmir is an 
 
 [^734]: [[Tantraloka 37.041|Tantrāloka 37.41]]: *yatra svayaṃ śāradacandraśubhrā śrīśāradeti prathitā janeṣu |* *śāṇḍilyasevārasasuprasannā sarvaṃ janaṃ svair vibhavair yunakti*. This translation benefits from consulting with Dominic GOODALL.
+
 [^735]: Another rendering of this compound, *śāṇḍilyasevārasasuprasannā*, could be “made bright \[/spotless\] by the flow of Śāṇḍilya’s service.”
+
 [^736]: For a memorable description of his journey to this shrine, which includes an excellent description of its surviving structure and surrounding environs, see Stein (1900), volume 2, pp. 279-289 (appendix B).
+
 [^737]: See SANDERSON’s 2010 edition of the *Śāradāmāhātmya*, published on Academia.edu, which gives an account of Śāṇḍilya’s devoted service and its results.
 
 *[p. 301]* ^pg313
@@ -310,7 +335,9 @@ Where everyone is either a poet or a scholar, where even warriors are eloquent, 
 \[Śiva,\] the beloved of Gaurī, inhabits that \[region\] in order to spontaneously repel attacks on his kingdom (*bhoga*) together with \[his\] instruments, \[the Rudras\] such as
 
 [^744]: For references, see footnote 727.
+
 [^745]: *Śrīkaṇṭhacarita* 3.19: *kaṭākṣite śāradayā dayāmṛtadravārdradṛṣyā śrutiśaṣkulīpadam | na śāstrabhogānaśanavratakriyāsahiṣṇu bālāpi yatra bibhrati* ‘In that \[region of Kashmir\] which is glanced at side-longingly by Śāradā whose eyes are moist with the nectarean flow of compassion, even the little children do not have auditory channels \[made for\] listening \[to knowledge\] that are subject to the austerity of fasting from the food that is the *śāstra*s.’
+
 [^746]: *Tantrāloka* 37.39cd: *adhivasati yad gaurīkāntaḥ karair vijayādibhir | yugapad akhilaṃ bhogāsāraṃ rasāt paricarcitum*.
 
 *[p. 303]* ^pg315
@@ -322,8 +349,11 @@ In this double entendre, Śiva’s presence in Kashmir is referred to in conjunc
 The implication of this verse is that the practice of the Trika is especially efficacious in this region. This is due to the distinctive beauty of the land, celebrated for its harvest of saffron and grapes, providing the perfect natural stage for the Śākta liturgy. In this instance, Abhinavagupta is relating a common trope, the radiance of Kashmirian saffron,[^750] to the Trika tradition he has 
 
 [^747]: For further references to this site, see *Rājataraṅgiṇī* 1.38 & 1.105-106, and STEIN’s footnotes ad loc.; *Haracaritacintāmaṇi* 1.5 & chapter ten, which narrates the story of the inception of this form of Śiva; the third concluding verse of the *Abhinavabhāratī* on the *Nāṭyaśāstra*; and a brief reference in SANDERSON (2009), p. 34, which cites evidence that the Vijayeśvara temple was under the jurisdiction of the Śaiva Saiddhāntikas during the thirteenth century.
+
 [^748]: *Tantrāloka* 37.48cd: *sadvṛttasāragurutaijasamūrtayo hi tyaktā api prabhuguṇān adhikaṃ dhvananti* ‘Indeed, \[that is the abode where\] the solid metallic images \[of the deities\] that are beautifully formed powerfully suggest the qualities of God, even though they have been abandoned \[i.e., are no longer worshipped\].’
+
 [^749]: *Tantrāloka* 37.45: *udyadgaurāṅkuravikasitaiḥ śyāmaraktaiḥ palāśair antargāḍhāruṇarucilasat-kesarālīvicitraiḥ | ākīrṇā bhūḥ pratipadam asau yatra kāśmīrapuṣpaiḥ samyag devītritayayajanodyānam āviṣkaroti*.
+
 [^750]: See *Vikramāṅkadevacarita* 18.72; *Śrīkaṇṭhacarita* 3.6, 3.17; *Rājataraṅgiṇī* 1.42.
 
 *[p. 304]* ^pg316
@@ -335,8 +365,11 @@ In that \[region\] where the wine that is \[a form of\] Bhairava is shining inte
 Given frequent statements of the deities’ adoration of wine as a premier ritual substance in the scriptures of the Vidyāpīṭha, it is sometimes identified with Bhairava.[^753] Kashmir, famed for its grape vineyards, not to mention a wine festival, which according to the *Nīlamata*[^754] was celebrated after the first snow 
 
 [^751]: On references to wine vineyards and grapes, see *Vikramāṅkadevacarita* 18.72; *Śrīkaṇṭhacarita* 3.5; and *Rājataraṅgiṇī* 1.42, which is cited above.
+
 [^752]: *Tantrāloka* 37.42: *nāraṅgāruṇakānti pāṇḍuvikacadballāvadātacchavi prodbhinnāmalamātuluṅga-kanakacchāyābhirāmaprabham | kerīkuntalakandalīpratikṛtiśyāmaprabhābhāsvaraṃ yasmiñ śakticatuṣṭayojjvalamalaṃ madyaṃ mahābhairavam*. Along with GNOLI (1999), p. 639, footnote 6, I am uncertain of the botanical referent of *kerīkuntala* in this verse.
+
 [^753]: *Tantrāloka* 29.12cd-29.13: *drākṣotthaṃ tu paraṃ tejo bhairavaṃ kalpanojjhitam || etat svayaṃ rasaḥ śuddhaḥ prakāśānandacinmayaḥ | devatānāṃ priyaṃ nityaṃ tasmād etat pibet sadā*. On this identification, and the use of wine in Kula ritual, see also DUPUCHE (2003), pp. 87-89: “The rejection of the terms ‘pure’ and ‘impure’ is first expressed in the use of the forbidden ingredients and particularly in the use of wine which is described as ambrosia or nectar-ofthe-left (*vāma-amṛta*)... Wine has a series of other associations which start with *soma*... However, generally speaking alcohol is proscribed so that the significance of alcohol in the Kula ritual lies not so much in its intoxicating effect as in its sinfulness, for even a small amount, even a whiff, is gravely wrong. The most important of the alcohols is wine which takes on all the ambiguity associated with alcohol... Abhinavagupta explains the import of alcohol by associating it with both liberation and enjoyment. He further explains the overriding importance of wine by linking it with consciousness and Bhairava.”
+
 [^754]: *Nīlamata* 1.469-471 describes the festival known as *navamadyapāna* (‘Drinking of the new wine’) which is celebrated when the first snow has fallen, and includes vocal and instrumental music, congregating in the snow, honoring women, and various entertainments such as the dancing of courtesans.
 
 *[p. 305]* ^pg317
@@ -350,7 +383,9 @@ Therefore, I am of the opinion that for either the realization of all the supern
 The emphasis on earthly pleasures, wine, the sport of tantric consorts,[^756] often in conjunction with the influential presence of Kāmadeva,[^757] all expand upon Abhinavagupta’s vision of Kashmir as the ideal environment for spiritual realization by also billing it as a paradise of worldly enjoyments. 
 
 [^755]: *Tantrāloka* 37.40cd: *tan manye 'haṃ samabhilaṣitāśeṣasiddher na siddhyai kaśmīrebhyaḥ param atha puraṃ pūrṇavṛtter na tuṣṭyai*.
+
 [^756]: *Tantrāloka* 37.49: *saṃpūrṇacandravimaladyutivīrakāntāgāḍhāṅgarāgaghanakuṅkumapiñjaraśrīḥ* *| proddhūtavetasalatāsitacāmaraughai rājyābhiṣekam aniśaṃ dadatī smarasya* ‘Where \[it is as if\] the golden shine of saffron excessively applied thickly all over the bodies of the beloved consorts of \[tantric\] heroes, similar to the pure rays of the full moon, is continuously performing the royal consecration of Kāmadeva \[as King of Kashmir\], in concert with the collection of white chowries that are the \[white puffy\] reeds waving around.’
+
 [^757]: For a memorable verse in this section of Abhinavagupta’s autobiographical excerpt, in which he relates the effects of wine to Kāmadeva’s power, see *Tantrāloka* 37.43: *trinayana-mahākopajvālāvilīna iha sthito madanaviśikhavrāto madyacchalena vijṛmbhate | katham itarathā rāgaṃ mohaṃ madaṃ madanajvaraṃ vidadhad aniśaṃ kāmātaṅkair vaśīkurute jagat* ‘It is here that Kāma’s collection of \[flower\] arrows, which incinerated by the blaze of Shiva’s intense anger, survive under the guise of wine. How else can we account for the fact that \[wine\], which constantly produces passion, delusion, intoxication, and the fever of love, could hold sway over people through these afflictions of Kāma?’
 
 *[p. 306]* ^pg318
@@ -386,6 +421,7 @@ In this context I myself am an example, since in my search for knowledge in the 
 In Abhinavagupta’s narration of his own education we find references to these two domains as foundational to his training, both his mastery of the “supermundane” Śaiva revelatory sources and his command of the “worldly” Sanskrit scholastic traditions of grammar (*pada*), logic (*pramāṇa*), and Vedic exegesis (*vākya*). Regarding the mundane sciences, these three fields of scholarship form something of a classical trivium[^760] of Sanskrit knowledges that is prescribed across Indian intellectual and religious traditions, especially by erudite exegetes. Sanskrit grammar (*padaśāstra*), the gateway to any systematic Sanskrit education, is a natural starting point for any pupil’s study. Logic (*māna* / *pramāṇa-śāstra*), which refers to the classical system of Nyāya, provides post-scriptural authors like Śaṅkarācārya, Bhaṭṭa Rāmakaṇṭha, Utpaladeva, and Abhinavagupta the tools for apologetics, i.e. defending their scriptural corpus against hypothetical critiques. By extension, this training also supplies methods for rationally establishing the validity of Śaiva axioms on the basis of a canon of 
 
 [^759]: Jayaratha’s *viveka* ad *Tantrāloka* 13.342: *atra cāham evodāharaṇaṃ yad vijñānārthinā mayā lokottare dvayādvayātmani śaivaśāstrādāv abhikhyāmātraprakhyāpitaparaśreyaḥsaṃśrayaḥ śrīmān kalyāṇaḥ pūrṇavijñānavān eka eva gurur labdhaḥ padavākyapramāṇādau laukike śrīmān sugṛhītanāmadheyaḥ śaṅkhadharaś ceti*.
+
 [^760]: For the characterization of these three fields as the traditional “trivium” of Sanskrit knowledge, see POLLOCK (2001a), p. 5.
 
 *[p. 310]* ^pg322
@@ -395,6 +431,7 @@ rational proofs that were widely-accepted. Mīmāṃsā (*vākyaśāstra*), for 
 In marked contrast to the disparagement of scholasticism in Kaula literature, referred to as the snare of learning (*śāstrajāla*) in the Krama tradition, Abhinavagupta reiterates[^761] his own mastery of grammar, logic, and exegesis throughout his texts as key features of his edification that qualify him as an author. In an illuminating verse that concludes both of his commentaries on the *Īśvarapratyabhijñākārikā*, Abhinavagupta argues for the indispensability of these two fields of discourse, worldly scholastics and otherworldly revelation, in the process of Self-realization:[^762] 
 
 [^761]: See second closing verse of Abhinavagupta’s *vivṛtivimarśinī* ad *Īśvarapratyabhijñākārikā*: *tajjanmadehapadabhāk padavākyamānasaṁskārasaṁskṛtamatiḥ parameśaśakteḥ | sāmarthyataḥ śivapadāmbujabhaktibhāgī dārātmajaprabhṛtibandhukathām anāptaḥ* ‘\[Abhinavagupta\] is endowed with the vessel of the body that was born of that \[kind of person, namely Cukhalaka\], his intelligence refined by his training in grammar, Mīmāṁsā, and Nyāya. Endowed with devotion to the lotus feet of Śiva because of the inherent capacity of the energy of the supreme Lord, he never entertained the drama of family \[life\], \[taking\] a wife, \[having\] a son, and so on.’; Cf. The second closing verse of the *Dhvanyālokalocana*: *śrīsiddhicelacaraṇābdjaparāgapūtabhaṭṭendurājamatisaṁskṛtabuddhileśaḥ | vākyapramāṇapada-vediguruprabandhasevāraso vyaracayad dhvanivastuvṛttim* ‘His limited intelligence refined by the intellect of Bhaṭṭendurāja who was purified by the pollen of the lotus feet of Siddhicela, \[Abhinavagupta\], who delights in devoting himself to the texts of the masters who are experts of scriptural exegesis, logic, and grammar, composed this commentary on the topic of poetic suggestion (*dhvani*).’
+
 [^762]: Closing verse 12 of the *vivṛtivimarśinī* and closing verse 2 of the *vimarśinī* ad *Īśvarapratyabhijñākārikā*: *vākyapramāṇapadatattvasadāgamārthāḥ svātmopayogam amutaḥ kila yānti śāstrāt | bhaumān rasāñ jalamayāṁś ca na sasyapuṣṭyai muktvārkam ekam iha yojayituṃ kṣamo* *‘nyaḥ*. My understanding and interpretation of this verse benefits from reading and discussing it with Dominic GOODALL.
 
 *[p. 311]* ^pg323
@@ -424,6 +461,7 @@ In these evocative verse, the study of grammar and logic is mentioned in tandem 
 A similar comprehensive portfolio of training, calling attention to Abhinavagupta’s scholastic and literary proficiency as an author, is broached at the beginning of his longer commentary (*vivṛtivimarśinī*) on the *Īśvarapratyabhijñākārikā*:[^766] 
 
 [^765]: *Tantrāloka* 37.60-62: \**āmardasaṃtatimahārṇavakarṇadhāraḥ saddaiśikairakavarātmajavāmanāthaḥ* (*āmarda* em. : *ānanda* Ed.) *|* *śrīnāthasaṃtatimahāmbaragharmakāntiḥ śrībhūtirājatanayaḥ svapitṛprasādaḥ ||* *traiyambakaprasarasāgaraśāyisomānandātmajotpalajalakṣmaṇaguptanāthaḥ |* *turyākhyasaṃtatimahodadhipūrṇacandraḥ \*śrīsaumataḥ* (em. : *śrīsomataḥ* Ed.) *sakalavit kila śaṃbhunāthaḥ* ‘(1) Vāmanātha, son of the excellent Guru Eraka, \[my\] helmsman over the ocean of the \[Saiddhāntika\] Āmardaka \[alias Ānanda\] lineage, (2) the son of Bhūtirāja, initiated by his father, \[my\] sun in the vast sky of the Śrīnātha lineage, (3) Lakṣmaṇaguptanātha, disciple of Utpala, the disciple of Somānanda, \[my Viṣṇu\] lying on the ocean of the lineage of Tryambaka, (4) \[the Kaula lineage\] Śambhunātha who was known to be omniscient, descended from Sumati\[nātha\], \[my\] full moon over the ocean of the Kaula lineage (5) Candraśarman, (6) Bhavabhaktivilāsa, (7) Yogānanda, (8) Abhinanda, (9) Śivaśakti, (10) Vicitranātha, and other great \[scholars\] such as (11) Dharmaśiva, (12) Vāmanaka, (13) Udbhaṭaśrī, (14) Bhūteśa, and (15) Bhāskara.’ Emendations and translation of SANDERSON. See SANDERSON (2007a), pp. 327-328, footnote 316. For further detail on the second rather consequential emendation, see SANDERSON (2005), pp. 132-133, footnote 106.
+
 [^766]: Opening verse 5 of Abhinavagupta’s *vivṛtivimarśinī* ad *Īśvarapratyabhijñākārikā*: *pūrṇavyākaraṇāvagāhanaśuciḥ sattarkamūlonmiṣatprajñākalpalatāvivekakusumair abhyarcya hṛddevatām | pīyūṣāsavasārasundaramahāsāhityasauhityabhāg viśrāmyāmy aham īśvarādvayakathākāntāsakhaḥ sāṁpratam.*
 
 *[p. 314]* ^pg326
@@ -459,7 +497,9 @@ It is in virtue of studying with many of the best gurus (*nānāgurupravara*) th
 This verse is first cited by Abhinavagupta at the conclusion of chapter thirteen of the *Tantrāloka*, in an ancillary discussion dedicated to Śiva’s power of occlusion 
 
 [^770]: See *Tantrāloka* 37.60-62, cited and translated above.
+
 [^771]: Third closing verse of Abhinavagupta’s *vivṛtivimarśinī* ad *Īśvarapratyabhijñākārikā*: *nānāgurupravarapādanipātajātasaṁvitsaroruhavikāsaniveśitaśrīḥ | śrīśāstrakṛdghaṭita-lakṣmaṇaguptapādasatyopadarśitaśivādvayavādadṛptaḥ*.
+
 [^772]: *Tantrāloka* 13.335: *āmodārthī yathā bhṛṅgaḥ puṣpāt puṣpāntaraṁ vrajet | vijñānārthī tathā śiṣyo guror gurvantaraṃ vrajet*. For the scriptural source of this quote, *Ṣaṭsāhasrasaṃhitā* 20.16cd- 19ab, see DYCZKOWSKI (2009), vol. 3, p. 21. Abhinavagutpa’s transformation of the content and meaning of this verse is notable.
 
 *[p. 318]* ^pg330
@@ -497,6 +537,7 @@ Upon merging only the intuitive insights of many gurus and streams of revelation
 This verse suggests that studying with multiple gurus is not just about ascending from lower to higher strata of revelation; it is about merging the essential part of 
 
 [^776]: *Tantrāloka* 22.43-22.44: *yo 'pi hṛtsthamaheśānacodanātaḥ suvistṛtam | śāstrajñānaṃ samanvicchet so 'pi yāyād bahūn gurūn || taddīkṣāś cāpi gṛhṇīyād abhiṣecanapaścimāḥ |* *jñānopodbalikās tā hi tattajjñānavatā kṛtāḥ* ‘Whoever seeks out the knowledge of the *śāstra*s which is exceptionally vast, because of prompting of Śiva who abides in their heart, that person should avail themselves of many gurus and also receive initiations \[from them\] which culminate in consecration \[as a guru\]. For those \[initiations\] performed by various \[gurus\] possessed of insight corroborate their knowledge.’
+
 [^777]: *Tantrāloka* 13.343: *nānāgurvāgamasrotaḥpratibhāmātramiśritam | kṛtvā jñānārṇavaṁ svābhir vipruḍbhiḥ plāvayen na kim*.
 
 *[p. 320]* ^pg332
@@ -510,6 +551,7 @@ This is the verdict of the blessed guru Kallaṭa \[Bhaṭṭa\]: “I who have 
 Here Abhinavagupta cites one of Kallaṭabhaṭṭa’s few self-referential statements in his ninth-century *Spandakārikāvṛtti*.[^779] Kallaṭa boasts that he was a disciple of 
 
 [^778]: *Tantrāloka* 13.344-13.346 & 13.349ab: *ā tapanān moṭakāntaṃ yasya me ‘sti gurukramaḥ |tasya me sarvaśiṣyasya nopadeśadaridratā || śrīmatā kallaṭenetthaṃ guruṇā tu nyarūpyata | aham apy ata evādhaḥśāstradṛṣṭikutūhalāt || tārkikaśrautabauddhāṁadvaiṣṇavādīnn aseviṣi ... tasmān na gurubhūyastve viśaṅketa kadācana*.
+
 [^779]: *Spandakārikāvṛtti* third concluding verse.
 
 *[p. 321]* ^pg333
@@ -563,6 +605,7 @@ Abhinavagupta represents himself as someone whose thirst for more knowledge is e
  The argument to study with multiple gurus, therefore, can be understood as proceeding in two directions. One must abandon gurus, as needed, upon realizing that they are situated on lower scriptural tiers, which is a part of grand ascendant arc culminating in the acquisition of a Trika Kaula guru 
 
 [^783]: *Tantrāloka* 37.80: *bhrātā tadīyo 'bhinavaś ca nāmnā na kevalaṃ saccaritair api svaiḥ | pītena vijñānarasena yasya tatraiva tṛṣṇā vavṛdhe nikāmam*.
+
 [^784]: *Tantrāloka* 37.70: *ācāryam abhyarthayate sma gāḍhaṃ saṃpūrṇatantrādhigamāya samyak |* *jāyeta daivānugṛhītabuddheḥ saṃpat prabandhaikarasaiva saṃpat* ‘\[Another group of people\] intensely petitioned \[me as their\] teacher \[to write the *Tantrāloka*\] to give rise to an all-encompassing comprehension of the tantras. \[Indeed,\] the success that manifests for a person whose intellect is favored by destiny is a success comprised of nothing but the unique relish of texts.’ The subject of this verse, *anyajana*, is supplied by the previous verse, *Tantrāloka* 37.69. The word “success” (*saṃpat*) is a technical term, referring to the incomparable realization that is liberation in the non-dual Śaiva system. For more on this concept, see Abhinavagupta’s *vimarśinī* ad *Īśvarapratyabhijñākārikā*, in particular his gloss of *samastasaṃpat*.
 
 *[p. 324]* ^pg336
@@ -584,6 +627,7 @@ Abhinavagupta here narrates his inception as a Śaiva teacher: upon receiving th
 Although this verse suggests that Abhinavagupta is a living receptacle of the transmissions of multiple gurus, which in turn invests him with unique 
 
 [^785]: *Tantrāloka* 37.63-64: *ete sevārasaviracitānugrahāḥ śāstrasāraprauḍhādeśaprakaṭasubhagaṃ svādhikāraṃ kilāsmai | yat saṃprādur yad api ca janānn aikṣatākṣetrabhūtān svātmārāmas tad ayam aniśaṃ tattvasevāraso 'bhūt || so 'nugrahītum atha śāṃbhavabhaktibhājaṃ svaṃ bhrataram akhilaśāstravimarśapūrṇam | yāvan manaḥ praṇidadhāti manorathākhyaṃ tāvaj janaḥ katipayas tam upāsasāda.*
+
 [^786]: Listed in *Tantrāloka* 37.60-62.
 
 *[p. 326]* ^pg338
@@ -689,6 +733,7 @@ Abhinavagupta proves that he is the product of an extraordinary place, tenth- to
 This brings us to our second major insight. Abhinavagupta is not content to remain within the grooves of a Kaula framework in his self-presentation as a model guru. In portraying his own education, in tandem with his argument for studying with multiple gurus, we encounter an ideal Kaula guru, now situated in the urbane environment of Śrīnagara, with new muses and novel tastes. Abhinavagupta assures his readers that, in addition to mastering the canons of Śaiva tantric literature, he was well-studied in the classical Sanskrit sciences of grammar, Vedic exegesis, and logic, and even mentions reveling in[^794] the study of the texts of these classical Sanskrit sciences. The implication of this portrayal is that these traditions comprise a vital scholastic foundation in the training of any Kaula master intent on effectively carrying forward the tradition. Abhinavagupta goes even further to suggest that refinement in these disciplines (earth)—in tandem with scriptural study (water) and Śaiva philosophy (sunlight)—constitutes a non-negotiable component of the process of realizing the Self (harvest of grains).[^795] This inclusion of a scholastic foundation for a well-rounded Śaiva religious education is especially pertinent in the wake of Somānanda’s, and 
 
 [^794]: The second closing verse of the *Dhvanyālokalocana*: \[...\] *vākyapramāṇapadavediguru-prabandhasevāraso*.
+
 [^795]: See closing verse 12 of the *vivṛtivimarśinī* and closing verse 2 of the *vimarśinī* ad *Īśvarapratyabhijñākārikā*: *vākyapramāṇapadatattvasadāgamārthāḥ svātmopayogam amutaḥ kila yānti śāstrāt | bhaumān rasāñ jalamayāṁś ca na sasyapuṣṭyai muktvārkam ekam iha yojayituṃ kṣamo* *‘nyaḥ*. This verse is translated and analyzed above.
 
 *[p. 333]* ^pg345
@@ -708,6 +753,7 @@ Some of the underlying logic behind Abhinavagupta’s cosmopolitan update of the
 Abhinavagupta evokes Kallaṭa who claimed to be disciple of everyone (*sarvaśiṣya*), a tribute that doubles as an authorization based on the precedent of the practice of an esteemed Kashmirian guru of nondual Śaivism. In the course of his works, Abhinavagupta enumerates a host of different gurus with which he 
 
 [^797]: Proof that Abhinavagupta consciously uses suggestion or poetic manifestation (*dhvani*) in his Śaiva exegesis is found in the *Dhvanyālokalocana*, where he cites one of his own verses from the end of the first chapter of the *Tantrāloka* as an example of the suggestion of a state of affairs (*vastudhvani*). See *locana* ad *Dhvanyāloka* 1.13 = *Tantrāloka* 1.332: *bhāvavrāta haṭhāj janasya hṛdayānyākramya yannartayan bhaṅgībhir vividhābhir ātmahṛdayaṃ pracchādya saṃkrīḍase| yas tvām āha jaḍaṃ jaḍaḥ sahṛdayaṃ manyatvaduḥśikṣito manye' muṣya jaḍātmatā stutipadaṃ tvatsāmyasambhāvanāt* ‘O things of the world, concealing your real nature by means of many disguises and forcefully taking hold of the hearts of people you play by means \[of your\] dancing. Those who call you insentient are themselves insentient \[a fool\], passing themselves off as sensitive they are not learned. I consider their stupidity to be a praise \[for them\] because it makes them similar to you.’ The identification of this verse in the *Tantrāloka* is mentioned in BAÜMER (1995).
+
 [^798]: In the *Tantrāloka* Abhinavagupta refers to an aesthetically sensitive person (*sahṛdaya*), the ideal audience of poetry and plays, in relationship to Śaiva practices found in texts such as the *Vijñānabhairava* (which Jayaratha cites in his commentary) that have a clear Kaula flavor. See *Tantrāloka* 3.209cd-210: *tathā hi madhure gīte sparśe vā candanādike || mādhyasthyavigame yāsau hṛdaye spandamānatā | ānandaśaktiḥ saivoktā yataḥ sahṛdayo janaḥ* ‘To explain, the subtle pulsation in a heart that is free of indifference in the presence of sweet music or the \[delightful\] touch of sandalwood is taught \[in this system\] as *ānandaśakti*, the power of bliss. Through that (*ānandaśakti*) a person becomes a connoisseur (*sahṛdaya*).’
 
 *[p. 335]* ^pg347

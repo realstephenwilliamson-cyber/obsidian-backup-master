@@ -35,7 +35,9 @@ The Leviathan in the Ancient Near East[^1]
 The term Leviathan (Hebrew \[illegible\] occurs only six times in the Hebrew Bible ([[Isaiah 27#^27-1|Isa 27:1]] \[2×\]; [[Psalms 074#^74-14|Ps 74:14]]; [[Psalms 104#^104-26|104:26]]; [[Job 03#^3-8|Job 3:8]]; [[Job 40#^40-25|40:25]] \[tr. 40:20\].[^2] In all these instances the Septuagint renders it δράκων “dragon, sea-serpent,” with the exception of [[Job 03#^3-8|Job 3:8]] where the translators have chosen τὸ µέγα κῆτος “the great sea monster,” probably because they wanted to connect this text with [[Torah 01 - Bereshit#^1-21|Gen 1:21]] where the Septuagint has τὰ κήτη τὰ µεγάλα “the great sea monsters” for \[illegible\] \[illegible\] “the great tunnies.”[^3] Also the great fish \[illegible\] that swallowed Jonah becomes a great sea monster in the Septuagint (κήτει µεγάλῳ, [[Jonah 2#^2-1|Jonah 2:1]]; cf. 11). The author of the New Testament book of Revelation seems to have taken over this Greek reinterpretation of the Hebrew name of the monster (δράκων µέγας “a great dragon” in [[Revelation 12#^12-3|Rev 12:3]]; see also verses 4, 7, 9, etc.).
 
 [^1]: 5:i 1–8 and its Significance for Ugaritic and Biblical Studies,” *UF* 38 (2006), 41–52, all with further bibliography.
+
 [^2]: Some earlier studies on the subject of this contribution: O. Kaiser, *Die mythische Bedeutung des Meeres in Ägypten, Ugarit und Israel* (BZAW, 28), 2. Aufl., Berlin 1962; J. Day, *God’s Conflict with the Dragon and the Sea*, Cambridge 1985; C. Kloos, *Yhwh’s Combat with the Sea:* *A Canaanite Tradition in the Religion of Ancient Israel*, Leiden 1986; M.C.A. Korpel, *A Rift in the Clouds: Ugaritic and Hebrew Descriptions of the Divine* (UBL, 8), Münster 1990, 553–559, 562–563; M.C.A. Korpel, “Diepzee-angsten,” *Schrift* (266) 45/2 (2013), 66–69; O. Loretz, *Ugarit und die Bibel: Kanaanäische Götter und Religion im Alten Testament*, Darmstadt 1990, 92–93; C. Uehlinger, “Leviathan,” in: K. van der Toorn, B. Becking, P.W. van der Horst (eds.), *Dictionary of Deities and Demons in the Bible (DDD)*, 2nd rev. ed., Leiden 1999, 511–514; W.D. Barker, “Slaying the Hero to Build the Temple: A New Assessment of the Tell Asmar Cylinder Seal and the Temple-Building Motif in the Light of the Ninğirsu/Ninurta Myths,” *UF* 38 (2006), 27–39; W.D. Barker, “ ‘And thus You Brightened the Heavens . . .’: A New Translation of *KTU*
+
 [^3]: According to the Syriac *Apocalypse of Baruch* (2 Baruch), dating from the early second century CE, Behemoth (male) and Leviathan (female) were the sea monsters that God created on the fifth day. 4
 
 *[p. 4]* ^pg32
@@ -61,6 +63,7 @@ In Fig. 1.2 two horned divine heroes fight the flaming monster with spears. The 
 About a thousand years later the seven-headed monster reappears in a text from Ugarit, a Canaanite city located at the coast of present-day Syria, approximately opposite the “finger” of the island of Cyprus. He is called *Ltn* there and since this differs from the Hebrew consonantal spelling *lwytn* an explanation of the etymology of the name of the Leviathan is called for.
 
 [^5]: According to several witnesses of the *Book of Jubilees* the serpent in Eden originally also had four legs that were cut off as punishment. See O.S. Wintermute, “Jubilees (Second Century B.C.: A New Translation and Introduction,” in: J.H. Charlesworth, (ed.), *The Old Testament Pseudepigrapha* (2 vol.), Peabody 2009 (repr. of 1983 edition), 60, note d.
+
 [^6]: Cf. W.G. Lambert, *Babylonian Creation Myths* (Mesopotamian Civilizations, 16), Winona Lake, IN 2013, 202–204.
 
 *[p. 6]* ^pg34
@@ -82,6 +85,7 @@ Figure 1.4 *The three-headed serpent Apophis encircles the lifeless body of the 
 The monster has lost its legs here. Apparently the number of heads did not matter much to the Ancients. Both in Ugarit and in Israel the Leviathan was designated as “the Fleeing Serpent” (*bṯn brḥ* / \[illegible\] [[Isaiah 27#^27-1|Isa 27:1]]).[^8] In our opinion the name of the Leviathan must be derived from the root *lwy* / \[illegible\] “to follow, surround.” The great sea serpent encircling the cosmos had the form of a “wreath” (Hebrew \[illegible\] and \[illegible\] so its tail is perpetually fleeing (*brḥ*) from its own biting mouth.[^9]
 
 [^8]: Since in Ugaritic and Hebrew the verb *brḥ* can mean only “to flee,” other proposals have to be abandoned (with G. Del Olmo Lete, J. Sanmartín, *A Dictionary of the Ugaritic Language in the Alphabetic Tradition* (2 vols), Leiden 2003, 236–237).
+
 [^9]: On this monster which the Greeks called Ouroboros, see Stricker, *De grote zeeslang*; Keel, *altorientalischen Bildsymbolik*, 36, Figs. 38–39; 37, Fig. 40; 38, Fig. 41; Lambert, *Babylonian Creation Myths*, 238–240. For later representations, see K.W. Whitney, *Two Strange Beasts:* *Leviathan and Behemoth in Second Temple and Early Rabbinic Judaism* (HSM, 63), Winona Lake, IN 2006, 114–123. Figure 1.5 *The snake Ladon encircling the apple tree of the Hesperides. Okeanos (ocean) and Strymon (a river)* *are sitting left and right of the tree (date* ca. *475 BCE, from H.-G. Buchholz, “Furcht vor Schlangen und Umgang mit Schlangen in Altsyrien, Altkypros und dem Umfeld,”* UF *32 \[2000\], 36–168 \[166\],* *fig. 23).* 1 0 1 1
 
 *[p. 8]* ^pg36
@@ -89,6 +93,7 @@ The monster has lost its legs here. Apparently the number of heads did not matte
 The Ugaritic form *Ltn* may have been vocalized *Lîtānu*,[^10] but the Greek Ladon is probably a dissimilated form of the Semitic *Lôtān*. Ladon was the name of the serpent guarding the tree with the golden apples in the garden of the Hesperides. It is certainly significant that according to Hesiod (eighth century BCE) and Pseudo-Apollodoros of Alexandria (second century CE) this was an immortal dragon with a hundred heads which spoke with many and diverse sorts of voices.[^11]
 
 [^10]: So J.A. Emerton, “Leviathan and LTN: The Vocalization of the Ugaritic Word for the Dragon,” *VT* 32 (1982), 328–331.
+
 [^11]: Hesiod, *Theogony*, 820–868; Pseudo-Apollodoros, *Library*, 2.5. Figure 1.6 *Hercules defeats the serpent guarding the Tree of Life (terracotta plate, 2nd to 3rd century CE; Staatliche Antikensammlungen,* *Munich, Room 2, Accession Number SL 89, Loeb Collection).*
 
 *[p. 9]* ^pg37
@@ -110,6 +115,7 @@ Figure 1.7 *Cylinder seal in the British Museum depicting Marduk’s victory ove
 An Old-Anatolian myth relates how the storm-god defeated the sea-dragon Illuyanka.
 
 [^14]: En. el. I.134–144; II.19–30; III.23–34, 81–92.
+
 [^15]: See e.g. B. Teissier, *Ancient Near Eastern Cylinder Seals from the Marcopoli Collection*, Berkeley, CA 1984, 168–169, No. 224; Ḫ. Ḫammade, *Cylinder Seals from the Collections of the Aleppo Museum, Syrian Arab Republic*, Vol. 1: Seals of Unknown Provenience (BAR international Series, 335), Oxford 1987, 116–117, No. 226; Ḫ. Ḫammade, *Cylinder Seals from the Collections of the Aleppo Museumw Syrian Arab Republic*, Vol. 2: Seals of Known Provenience (BAR International Series, 597), Oxford 1994, 99, No. 424.
 
 *[p. 11]* ^pg39
@@ -125,6 +131,7 @@ This resembles the description Job gives of God’s victory over all evil powers
 In the Canaanite city of Ugarit it is the young weather-god Baal who is described as the one who killed the sea-serpent and its helpers,[^17] according to some texts with the help of his consort Anat: (*KTU* 1.3:III.38–46; 1.2; 1.5:I.1–5; 1.82).
 
 [^16]: H.A. Hoffner, *Hittite Myths* (SBL.WAW, 2), Atlanta 1990, 12.
+
 [^17]: In mythological thought Yam (Sea) and his helpers are not clearly distinguished, see *KTU* 1.83 below where Yam is described as a marine monster with a forked tongue and a fishtail.
 
 *[p. 12]* ^pg40
@@ -196,6 +203,7 @@ This exploit is depicted on the well-known stele (Fig. 1.9) from Ugarit, though 
 In Ramesside Egypt the somewhat ambiguous god Seth was equated with the Canaanite god Baal. So here Seth became the hero defeating the great marine serpent every night. In partly theriomorphic shape he stood in the prow of the bark in which the Sun-god Re travelled through the Netherworld and thrust his spear into the mouth of the great serpent Apophis, thus saving Re and his entourage from this terrible sea monster (Fig. 1.10).
 
 [^18]: The name means “Expel anyone!”.
+
 [^19]: Compare [[I Samuel 17#^17-49|1 Sam 17:49]].
 
 *[p. 13]* ^pg41
@@ -245,10 +253,15 @@ You should put Tunnan to the muzzle,
 Apparently the person who commissioned this short text hoped for a definitive removal of the threatening Sea who is clearly identified here with the serpentine monsters living in his watery body. Ugarit entertained close connections with the Bashan area. The Ugaritians were acquainted with the Bashan and the Ḥauran as areas connected with the Canaanite cult of the dead.[^26] We think that scholars in Antiquity have racked their brains about this very peculiar chain of mountains. They found a solution in assuming that it was the solidified body of a giant sea monster, the Leviathan. The very fact that here a supplicant is praying for a repetition of this miraculous transformation of the Sea/Leviathan proves that he did not believe that its petrification had removed its threat once and for all. The great Ugaritic Baal Myth that formed the central piece of the religious traditions of Ugarit can hardly be called a joyful message of salvation to all mankind.[^27] On the contrary, this myth was never intended as testimony of any final victory over the forces of evil and it was never understood as a 
 
 [^22]: We deal with this passage in much greater detail in the study mentioned in footnote 1.
+
 [^23]: Apparently Mahanayim in the Bashan area.
+
 [^24]: On the derivation of *ṯrp* see note 1. Since “Bashan” means “serpent dragon” (Akkadian *bašmu*) and is a designation of Yam’s sea monster(s) in Ugarit (*bṯn*) the underlying myth might be that the dark and sometimes glassy looking volcanic rocks of Bashan consist of the petrified body of the sea monster.
+
 [^25]: The throne of Death.
+
 [^26]: J.C. de Moor, *The Rise of Yahwism: The Roots of Israelite Monotheism*, 2nd ed. (BEThL, 91A), Leuven 1997, 103–207, with earlier literature.
+
 [^27]: This section is based partly on De Moor, *Rise of Yahwism*, 88–91.
 
 *[p. 16]* ^pg44
@@ -278,7 +291,9 @@ Baal was ashamed for her.
 So it is his own consort Astarte who prevented Baal from finishing off his monstrous opponent. Later on Ilu’s wife Asherah seems to fear that Yam might escape again (*KTU* 1.4:III.1–6). In a still later episode Baal himself refuses to let the divine artisan Kothar put a window in his palace lest Yam might insult his daughters again (*KTU* 1.4:VI.7–14), so Yam is still alive. As a matter of fact, Baal himself would not have been able to slay the sea-god. When he is imprisoned with Yam he himself confesses that all his strength had left him (*KTU* 1.2:IV.1, 5). It was only through an automatically striking weapon provided by Kothar that Baal was able to knock out his opponent (*KTU* 1.2:IV.18–26). So the victory over the Sea and his monsters had been only a Pyrrhic one. Eventually the god Môt (Death) exploits this fact to his advantage in his famous speech at the beginning of Tablet V.
 
 [^28]: We maintain this interpretation of J.C. de Moor, *The Seasonal Pattern in the Ugaritic Myth of Ba‘lu According to the Version of Ilimilku* (AOAT, 16), Neukirchen-Vluyn 1971, 138 (with earlier literature); Del Olmo Lete, Sanmartín, *Dictionary*, 721. Contrast M.S. Smith, *The Ugaritic Baal Cycle*, Vol. 1 (VT.S, 55), Leiden 1994, 351–356. Baal drags the dead body of the sea monster on dry land, just as Marduk does with the corpse of Tiāmat: *šá-lam-ta id-da-a* ugu*-šá iz-ziza* “he flung down her corpse, he took his stand on it” (En. el. IV.104).
+
 [^29]: From a philological point of view this is the best rendering. One should not bend the text to avoid this parallel to [[Torah 31 - Emor#^24-11|Lev 24:11]] (against D. Pardee, “The New Canaanite Myths and Legends,” *Bibliotheca Orientalis* 37 (1980), 269–291 (274); Smith *Baal Cycle*, 356). Deliberate anonymity to avoid blasphemy was quite normal in the ancient world (E. Brunner-Traut, “Anonymität (der Götter),” *Lexikon der Ägyptologie* (Bd. 1), Wiesbaden 1975, 281–291). Astarte and Anat correct Baal also in *KTU* 1.2:I.40, but there they only grasp his hands and do not scold him.
+
 [^30]: Captives ought not be put to death ([[II Kings 06#^6-22|2 Kgs 6:22]]).
 
 *[p. 17]* ^pg45
@@ -294,8 +309,11 @@ Maliciously Môt reminds Baal of the present status of Yam: he is a cupbearer of
 Therefore it is most remarkable that the myth ends with a prayer to Kothar to assist (again!) in defeating Yam’s monsters Tunnan and Arish (*KTU* 1.6:VI. 51–53). The struggle between the god of life, Baal, and his formidable opponents representing chaos and death, will never end. This continuing threat to ordered life explains Anat’s explosive reaction to the mere arrival of messengers of Baal at the beginning of the myth.[^32] She displays a disproportionate apprehension that Yam and his monsters might have mounted yet another attack on Baal whereas she believed to have destroyed them all, including Tunnan, Arish and Lôtān (*KTU* 1.3:III.32–IV.4).[^33] Thus not even the gods could be certain that Yam would not break loose again. As a consequence man still had to fear the sea-god whose satellites might come along any time to take away not only a daring sailor, but also unsuspecting others, even pregnant women (*KTU*3 1.14:I.14–15). The same evil powers are warded off again and again in the Jewish Aramaic incantation bowls and amulets of a much later date. The Sea, the Leviathan, the Tannin, we meet them all again here.[^34] This folk-religion apparently was a remnant of the ancient Canaanite belief that Yam and his monsters had never been defeated in a really conclusive way.
 
 [^31]: For different translations of this phrase see Barker “ ‘And thus You Brightened the Heavens . . .’ ”
+
 [^32]: On the order of the tablets of the Baal Myth, see J.C. de Moor, “The Order of the Tablets of the Ba‘lu Myth,” in: G. Del Olmo Lete et. al., (eds.), *The Perfumes of Seven Tamarisks:* *Studies in Honour of Wilfred G.E. Watson*, (AOAT, 394), Münster 2012, 131–141.
+
 [^33]: In *KTU* 1.2:I.22–23 the fiery appearance of the monstrous (lines 12–13) messengers of Yam is described. Anat claims to have defeated “Fire” in *KTU* 1.3:III.45.
+
 [^34]: C.D. Isbell, *Corpus of the Aramaic Incantation Bowls*, Missoula, MA 1975; C.D. Isbell, “Two New Aramaic Incantation Bowls,” *BASOR* 223 (1976), 15–23; J. Naveh, S. Shaked, *Amulets and Magic Bowls*, Jerusalem 1985; C. Müller-Kessler, *Die Zauberschalentexte in der Hilprecht-* *Sammlung*, Wiesbaden 2005; G. Bohak, *Ancient Jewish Magic: A History*, Cambridge 2008.
 
 *[p. 18]* ^pg46
@@ -303,4 +321,5 @@ Therefore it is most remarkable that the myth ends with a prayer to Kothar to as
 However, the same was true of the other arch-enemy of Baal, the god of death Môt. Even though Anat did destroy him as effectively as she could,[^35] after seven years Môt rose to challenge Baal again (*KTU* 1.6:V.7–VI.16). In the ensuing struggle the god of life and the god of death appear to be equally strong (*KTU* 1.6:VI.16–22). To human beings, however, it sometimes looked as if Môt was the stronger.[^36] It should be noted that at the end of the myth the god of death does not succumb to Baal. It is expressly stated that he gives in only because he fears the wrath of his father El (*KTU* 1.6:VI.22–23). Neither in this case nor in the earlier episode describing the victory over Yam is it Baal himself who overpowers his opponent. Yam is defeated only with the help of the automatic magical axe of Kothar. Môt is forced to give up as a result of the intervention of the sun-goddess. With such an unreliable champion, humanity had to fear that one time Baal might fail again, leaving the earth to the god of death for seven or more consecutive years (*KTU* 1.19:I.39–46). The equilibrium between life and death attained in the Baal-myth can hardly be called stable. People could derive very little reassurance from it. There was always a new Leviathan to be conquered.
 
 [^35]: *KTU* 1.6:II.30–37. The passage was clearly inspired by the Egyptian cult of Osiris, cf. J.C. de Moor, *An Anthology of Religious Texts from Ugarit* (Nisaba, 16), Leiden 1987, 87, n. 422; 88, n. 430; 89, n. 435; 90, n. 436.
+
 [^36]: *KTU* 2.10:12–13, see e.g. E. Lipiński, “Allusions historiques dans la correspondence ougaritique de Ras Shamra: Lettre de Ewri-šarri à Pilsiya,” *UF* 13 (1981), 123–126; D. Pardee, “As Strong as Death,” in: J.H. Marks, R.M. Good (eds.), *Love and Death in the Ancient Near East*, Fs M.H. Pope, Guilford 1987, 65–69.

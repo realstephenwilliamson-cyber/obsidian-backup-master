@@ -130,67 +130,129 @@ If the father died and left many sons, they should divide the money that was not
 **20.** If one says: "[I am a nazirite and][^63] it is my responsibility to [provide the means for] half the shaving for a nazirite," and his colleague hears and says: "And I also am a nazirite and I also accept the responsibility to [provide the means for] half the shaving for a nazirite," [they are both nazirites]. If they are clever, one should bring half the sacrifices of the other and the second should bring half the sacrifices of the first and then each one should complete the [required] sacrifices [from his own resources]. If not, [in addition to bringing their own sacrifices,] each one must bring half the sacrifices of any nazirite he chooses. ^8-20
 
 [^1]: Both the ewe and the lamb must be less than a year old ([[Torah 35 - Nasso#^6-14|Numbers 6:14]] .
+
 [^2]: See *Hilchot De'ot* 3:1 where the Rambam quotes *Ta'anit* [[Taanit 11#11a|11a]] that states that a nazirite is required to bring a sin offering, because he abstained from drinking wine and elaborates on the negative aspects of an ascetic existence.
+
 [^3]: At least two years old.
+
 [^4]: Although the ewe is also fit to be brought as a peace offering, since it is the only one fit to be brought as a sin offering, we designate it for such and use the male lamb for the peace offering.
+
 [^5]: An *isaron* is equivalent to the size of 43.2 eggs. In modern measure, the size of an egg is 57.6 cc according to *Shiurei Torah*, and 99.5 cc according to *Chazon Ish*.
+
 [^6]: These loaves were made from a mixture of flour, water, and oil. The oil was added to the batter before they were baked (*Hilchot Ma'aseh HaKorbanot* 9:21).
+
 [^7]: These wafers were made with flour and water. After they were baked, oil was poured over them (*ibid.*:23).
+
 [^8]: [[Torah 35 - Nasso#^6-17|Numbers 6:17]] speaks of "the basket of matzot."
+
 [^9]: The order of the rituals outlined by the Rambam follows the order in which they are mentioned in [[Torah 35 - Nasso#^6-15|Numbers 6:15-18]]. This explanation may clarify the questions raised by the *Kessef Mishneh*.
+
 [^10]: Rav Avraham MinHaHer interprets this term as meaning boiling it with water alone, without spices.
+
 [^11]: Although [[Torah 35 - Nasso#^6-15|Numbers 6:15]] mentions the peace offering since uses the word *zevach*, offering and that term can also be applied to the sin offering, putting the hair under the sin offering is acceptable (*Nazir* [[Nazir 45#45b|45b]]).
+
 [^12]: The courtyard before the Temple itself. It was given this name, because women were allowed to congregate on balconies there at certain times. See *Hilchot Beit HaBechirah* 5:7-9.
+
 [^13]: The sin offerings had to be cooked within the Temple Courtyard and the burnt offerings were placed on the fire of the altar.
+
 [^14]: We have translated the term *mikdash* as "Temple," for that is the most apparent meaning and most authorities understand it being used in this context. The Radbaz, however, notes that in certain contexts (see the Rambam's Commentary to the Mishnah, *Rosh HaShanah* 4:1), the Rambam interprets the term *mikdash* as referring to the city of Jerusalem as a whole. And in his commentary to *Ma'aser Sheni* 3:4, he states that the term *medinah* (the term used in this halachah) refers to cities outside Jerusalem.
+
 [^15]: The Radbaz understands the Rambam as implying that even when one shaves outside of Jerusalem, he should send his hair to have it cast under the fire in the Chamber of the Nazirites. Not all authorities share this view.
+
 [^16]: The Hebrew words *petach*, "entrance," and *patuach*, "open," share the same root. Seemingly, the gate to the Temple building must also be open. See *Hilchot Ma'aseh HaKorbanot* 5:5.
+
 [^17]: The Chamber of the Nazirites where he would shave is, by contrast, a private place.
+
 [^18]: The Rambam is quoting [[Torah 35 - Nasso#^6-19|Numbers 6:19-20]]. See *Hilchot Ma'aseh HaKorbanot* 9:9, where the Rambam writes that (because it is a peace offering) he must also wave the ram's breast and thigh and the inner portions of the animal that were offered on the altar.
+
 [^19]: The priest puts his hand beneath the hand of the nazirite and moves these sacred articles up, down, and to each of the four compass directions. See the Rambam's Commentary to the Mishnah (*Menachot* 5:5).
+
 [^20]: To shave.
+
 [^21]: To wave the sacrifices.
+
 [^22]: The Radbaz states that this is understandable if he brings his offerings on the thirtieth day of his nazirite vow, for until he completes thirty days of observance, he is bound by the terms of the vow. He questions why, however, the sacrifice in itself is not sufficient if it is brought on the thirty-first day or afterwards.  
     The *Or Sameach* explains that on any day, until sunset, he is given the option of bringing his hair to the Chamber of the Nazirites and burning it there. From the evening onward, that option is no longer viable. Hence until he either burns his hair there or the evening arrives, he is not able to drink wine.
+
 [^23]: *Sefer HaMitzvot* (positive commandment 93) and *Sefer HaChinuch* (mitzvah 377) include this commandment among the 613 mitzvot of the Torah. The mitzvah includes both the shaving performed after the conclusion of the nazirite vow in purity and that performed after a nazirite emerges from impurity.
+
 [^24]: From the fact that [[Torah 35 - Nasso#^6-9|Numbers 6:9]] mentions a razor in the prohibition against a nazirite cutting his hair, *Nazir* [[Nazir 40#40a|40a]] deducts that a razor should be used in the shaving process.
+
 [^25]: For in several halachic contexts, two hairs are considered as significant entities.
+
 [^26]: Since he let his hair grow back, he must shave his entire head, not merely the two hairs left initially. Note the Radbaz and the *Kessef Mishneh* who explain that the Rambam shares the approach of *Tosafot* with regard to the interpretation of *Nazir* [[Nazir 42#42a|42a]].
+
 [^27]: Before his hair started to grow back.
+
 [^28]: Since there were two hairs at the time he started shaving and ultimately, there were none remaining, he is considered to have fulfilled the mitzvah.
+
 [^29]: For at the time he began acting, the mitzvah of shaving no longer applied.
+
 [^30]: E.g., its blood was spilled before it was poured on the altar; alternatively, it came in contact with impurity and was thus invalidated.
+
 [^31]: The rationale is that since he cut his hair off in an unacceptable manner, i.e., since the sacrifice was unacceptable, his shaving was unacceptable, the sacrifices he offers afterwards are also not acceptable.
+
 [^32]: But rather for the sake of another type of sacrifice. This disqualifies the sin offering (*Hilchot Pesulei Hamukdashim* 15:1).
+
 [^33]: Since the sin offering was unacceptable, the shaving is unacceptable. Accordingly, the sacrifices he offered afterwards are also unacceptable.
+
 [^34]: In such an instance, the sacrifices are acceptable (i.e., the appropriate portions can be offered on the altar and the others eaten), but the person who brings them is not considered to have fulfilled his obligation (*ibid.*). Accordingly, the nazirite is considered as having shaved his head before he was allowed to.
+
 [^35]: Since the shaving is unacceptable, the sin offering he brought afterwards is also unacceptable.
+
 [^36]: For as stated in Halachah 5, as long as one of the sacrifices was brought in an acceptable manner, he is considered to have concluded his nazirite vow.
+
 [^37]: Chapter 6, Halachah 1.
+
 [^38]: Shaving his hair again.
+
 [^39]: E.g., it was not offered for the sake of a peace offering or the ram was less than two years old.
+
 [^40]: The portions appropriate for the altar may be offered there and one may partake of the meat. They are considered as peace offerings that were offered voluntarily.
+
 [^41]: To fulfill the obligations of his nazirite vow, he must bring a different sacrifice.
+
 [^42]: As is the rule governing the peace offerings of a nazirite. Peace offerings that are brought voluntarily may be eaten for two days and the intervening night.
+
 [^43]: As is required for a peace offering of a nazirite (see Halachah 1).
+
 [^44]: As is required for a peace offering of a nazirite (see Halachah 4). This interpretation is based on the explanations of the *Or Sameach*. The *Merkevet HaMishneh* quotes the *Orach Mishor* who suggests amending the text so that it reads "they require presents" - i.e., the breast and the thigh that are given to a priest in connection with a voluntarily peace offering - "but not the foreleg" - which is given to the priest in connection with a Nazirite's peace offering.
+
 [^45]: I.e., the sacrificial animals may not have been consecrated previously and the bread may not come from *terumah* or the second tithe.
+
 [^46]: *Hilchot Ma'aseh HaKorbanot* 16:15. The rationale is that since he is obligated to bring these offerings, they must be brought from resources that belong to him entirely (Radbaz).
+
 [^47]: The second tithe must be brought to Jerusalem and eaten there in a state of ritual purity. If a person lives outside Jerusalem, the Torah gives him the option of redeeming the second tithe with its worth and taking that money to Jerusalem to purchase food to be eaten there in a state of ritual purity. Although money with which the second tithe was redeemed may be used to purchase voluntary peace offerings, it may not be used to purchase the peace offerings of a nazirite, as indicated by the previous halachah.
+
 [^48]: The rationale is that as soon as he says: "I am becoming a nazirite," he must observe the restrictions associated with a nazirite vow. The statement: "on the condition that..." does not take effect, because it was made after he had become obligated to observe the nazirite restrictions (Rashi, *Beitzah* [[Beitzah 20#20a|20a]]). From this, *Tosafot* concludes that if he reverses the order of the clauses, saying: "On the condition that when I perform the shaving, I will be able to bring my sacrifices using [money exchanged for] the second tithe, I will become a nazirite," he may bring his sacrifices from such funds.
+
 [^49]: This law applies when the nazirite is the sole heir, as stated at the conclusion of the halachah.
+
 [^50]: Even if she is her father's sole heir (*Nazir* [[Nazir 30#30a|30a]]).
+
 [^51]: I.e., he did not specify which coins should used to purchase a particular type of sacrifice. See Chapter 9, Halachot 3-4.
+
 [^52]: I.e., even though when he took the nazirite vow, he did not have the intent to use the money set aside by his father - because his father was alive at that time - he may use it for his vow.
+
 [^53]: Even if he was a nazirite himself (Radbaz).
+
 [^54]: Burnt offerings brought as an embellishment to the altar.
+
 [^55]: The remainder of the costs of the sacrifices, he must add from his own funds.
+
 [^56]: As he does with regard to other aspects of the inheritance. It is necessary to clarify this point, because one might think that since this money is not the sons' personal property, he would not be given this extra portion.
+
 [^57]: See Chapter 3, Halachot 11-12, which explain that a nazirite for all time performs a shaving once a year and brings three sacrifices at that time.
+
 [^58]: He may, however, use the funds to bring the sacrifices required when he becomes impure and emerges from impurity.
+
 [^59]: The commentaries raise questions regarding this ruling, because the unresolved doubt raises questions in either direction. For just as it is possible that he did not fulfill his obligation by bringing the sacrifices with the money set aside by his father, it is possible that he did. Hence, were he to bring sacrifices with his own funds, they would be unnecessary and he would be slaughtering ordinary animals in the Temple courtyard (a serious transgression). There is a way to avoid this difficulty, for him to offer his second set of sacrifices conditionally, i.e., making a stipulation: "If the first set of sacrifices were acceptable, then these are voluntarily offerings. If, however, the first set were unacceptable, then these are the offerings required" (*Kessef Mishneh*).  
     This approach is, however, still somewhat problematic, because a sin offering may not be brought as a voluntary offering. Therefore, the *Lechem Mishneh* (in his gloss to the conclusion of Chapter 10) states that he should bring only a sin offering of a fowl which is brought when there is a doubt (see Chapter 10, Halachah 8, and notes). And the *Lechem Mishneh* continues, he need not bring a burnt offering and a peace offering at all. They are not of fundamental importance and the offerings he brought originally are sufficient for him.
+
 [^60]: We have chosen a translation that reflects more the halachic meaning of the person's statements than the words' literal meaning.
+
 [^61]: See Chapter 3, Halachah 8. The Ra'avad questions the Rambam's ruling, but the Radbaz and the *Kessef Mishneh* justify it, based on the interpretation of *Nazir* [[Nazir 12#12b|12b]].
+
 [^62]: By bringing each other's sacrifices, they fulfill their vows to provide for the shaving of another nazirite and fulfill their obligations for their own nazirite vows. If they do not do this, they must each bring the sacrifices for their own vows and the sacrifices for another nazirite.
+
 [^63]: This addition is made on the basis of the gloss of the Radbaz.

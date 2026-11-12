@@ -72,7 +72,9 @@ Among the many quotations, we adduce only three: (i) *ego kai ho pater en esmen*
 Ego et Pater unum sumus (Vg.)
 
 [^91]: Once again stressed by Massa (1995) 2.
+
 [^92]: Dupuis (1994) 52 writes that if we are not certain of the *ipsissima verba* the *ipsissima intentio* ‘can be safely ascertained\*.
+
 [^93]: Suffice to mention Arthur Drews’ name *( The Christ Myth* of 1909) with all the ‘religionswissenschaftliche’ discussions which are still relevant today.
 
 *[p. 148]* ^pg166
@@ -92,6 +94,7 @@ The Father is in me, and I in the Father (NEB) Jn X.38
 In another germane text this unity is extended to all those who shall believe in him:
 
 [^94]: We may compare with other translations: “I and the Father are one” (RV). “My Father and 1 are one” (NEB). “Le Pere et moi, nous sommes un” (BJ) “Ich und der Vater sind eins” (Neue Jerusalemer Bibel, also Rosch and Stier). “Jo i el Pare som una sola cosa” (Montserat). “Jo i el Pare som u” (M ateos/Rius Camps). “Yo y el Padre somos una sola cosa” (Nacar/Colunga). “Io e il Padre siamo una sola cosa” (Barbaglio).
+
 [^95]: Cp. Botterweck-Ringgen (1973) in a multitude of places (vgr. I, 681) and Strack-Billerbeck II, 542 sq. and III 223 sq. of the jewish context.
 
 *[p. 149]* ^pg167
@@ -155,6 +158,7 @@ What appears clearly in those words is the traditional *perichoresis* which here
 From a monotheistic pespective, the radical separation between the human and the divine seemed threatened by those blasphemous confessions. This was Christ’s challenge. The first Christian thinkers understood it well. “God becomes Man in order that Man become God”.[^101]. There is a bridge
 
 [^100]: &lt;Quaecumque sunt a Deo ordinem habent ad invicem et ad ipsum Deum\* (‘Whatever is from God is related to each other and to the same G od1) was a common Christian belief. D. Thom. *Sum. Theol.* I, q. 47, a.
+
 [^101]: Cp. Clement Alex. *Protept* 1, 9 who seems to be the first to have ex-
 
 *[p. 152]* ^pg170
@@ -180,6 +184,7 @@ but they are not different either. They could be different only over against a c
 Here the expression ‘my Father’ acquires its most profound meaning. He had received the retort: ‘our father is Abraham’ (Jn VIII.39). He answered: “If God were your Father, you would love me” (Jn VIII.42), you would understand that the power comes from the Father (Jn V.19). The expression *my* Father coresponds to the controversial *mono* *genes, unigenitus*, ([[John 01#^1-14|Jn 1.14]]; 18; III.16; 18; I Jn IV .9)[^104] and
 
 [^103]: The oblivion of tradition is sometimes intriguing not to say suspect. Cp. one single example: *oute ousias onoma ho Pater . .* . *oute energeias,* *scheseos de kai tou pos echei pros ion Hyion ho Pater, e ho Hyios pros ton Patera* . . . “ Nec essentiae nomen est Pater, o viri acutissimi, nec actionis; sed relationem earn indicat, quara Pater erga Filium habet, vel Filius erga R\^trem. \[And the example is enligliening\] Ut enim apud nos haec nomina german am quamdam coniunctionem et necessitudinem declarant, ad eumdem modum illic quoque genitorem ac genitum earadem naturam habere significant” . Gregorius Nazianzenus, *Oratio theologica*, III, 16 (PG 36, 96). The name ‘Father5 is not a substance \[not an essence, not a thing\]. Nor it is an action \[an energy, a power\], O most learned of people! *(ho sophotatoi* ). It is a relation from the Father to the Son and from the Son to the Father. . . meaning that begetter and begotten have the same nature *(homophyian).* It is the same saint who said: “Do you want some time to become a theologian? . . . Keep the commandments!” giving also the reason: “the praxis is the way to contemplation” , *ibid.* XX, 12 (PG 35, 1080 B). This is why I expressed not only intrigue, but suspicion.
+
 [^104]: The NEB translates as “Father’s only Son” . This does not render the idea which still is dimly conserved in “only begotten of (from) the Father” (AV *k* RV).
 
 *[p. 154]* ^pg172
@@ -195,7 +200,9 @@ The Experience
 I experience that I live because of that link. It is the link of life.[^107] I experience that this life has not been bestowed upon me, it has made me, so that it is me, and I can say ‘my
 
 [^105]: The NEB also evades the literal translation: “his is the primacy over all created things” \[in note: “born before”\]. “T he first born of every creature (of all creation)” (AV *k* RV respectively). Cp. [[Colossians 01#^1-15|Col 1.15]]; Rom VIII.29.
+
 [^106]: Commenting on [[John 01#^1-1|Jn 1.1-2]] Eckhart writes: “et si semper in prindpio, semper nascitur, semper generatur” (LW III.9).
+
 [^107]: “Prius vita quam doctrina” wrote Thomas Aquinas, adding: “vita enim dudt ad cognitionem veritatis” because, as he himself said “vita viventibus est esse”.
 
 *[p. 155]* ^pg173
@@ -209,7 +216,9 @@ This experience is far from pantheism, which would be a merely conceptual interp
 Let me try my own words: I and the Father are one in the measure that my ego disappears; and my ego disappears to the degree that it allows itself to be shared by anyone who comes to me, ‘eats’ me, or seeing me does not see me, but what I say or rather what I am. This happens when I have that transparency which is all the more pure the more I am rid of my little self.[^110] When my ego is obtrusive, people
 
 [^108]: Cp. St Augustin, *In Ioannis Evangelium Tractatus* XXVI, 19, commenting that if Jesus can say “I live because of the Father" ( “vivo proter Patrem” Jn VI.57) while the Father is greater than he (Jn XIV.28) we can also ‘live because of Christ\* who nevertheless is greater than us.
+
 [^109]: St Augustine expresses it in a traditional manner: “Quae est ergo doctrina Patris, nisi verbum Patris? Ipse ergo Christus doctrina Patris. Sed, quia Verbum non potest esse nullius sed alicuius, et suam doctrinam dixit seipsum et non suam, quia Patris est Verbum. Quid enim tarn tuum est quam tu? et quid tam non tuum quam tu, alicuius es quod es?” *August, Tract,* in /oan., XXIX (PL, 35.1629). ( “Which is the Father’s doctrine if not the Father’s Word? Christ himself is the Father’s doctrine, if he is the Father’s Word. As it is impossible that the Word be of nobody, but it has to be of somebody, he declared that he himself is his doctrine and not his doctrine, because he is the Father’s Word. W hat is more yours than yourself? But what is less yours than yourself, if what you are is som ebody’s?”). Augustin is commenting upon “my doctrine is not mine, but his who sent me” (Jn V II.16).
+
 [^110]: We may now complete the quotation of Gregory of Nazi&nz: “Vis theologus aliquando fieri ac divinitate dignus?” *(tés theotétos axios) Loe*. *cit.* To be worthy of the Godhead is the requisite for doing authentic *theo-logy* , to utter worthy words about the ultimate mystery.
 
 *[p. 156]* ^pg174
@@ -223,6 +232,7 @@ Certainly the person who listens to me hears my voice, sees my face, reads my th
 This is only possible if this intimate union is not selfish,
 
 [^111]: Cp. the daring statem ent of Juan de la Cruz saying that all is his: “T he heavens are mine, the earth is mine, and the peoples . . . God himself is mine, because Christ is mine and all for me” *Máximas y sentencias* , 25.
+
 [^112]: 1 see a homeomorphic equivalent to this experience in the Maháyánic insight of equating *nirvana* and *samsara.* Who truely experiences *samsara* discovers *nirvana.* Nágárjuna, *Madhyamikakárika¡* XXV. 19-20.
 
 *[p. 157]* ^pg175
@@ -234,6 +244,7 @@ Christ did come not so much to ‘teach’ doctrines, but to communicate life, e
 I insist that none of those experiences are foreign or inaccessible to us. We truly understand what he was talking about. And now, what we said at the beginning may become more plausible, that even if we cannot be sure that our Man of Galilee had uttered such words, we have heard them in our hearts; that message pervades our life and reveals the ultimate experience of the human being. Should I quote not a sentimental mystical writer but Thomas Aquinas: “If Christ would have entrusted his doctrine to writing, people would imagine that there is nothing else in his doctrine than what Scripture contains.”[^113] All this is not at all demeaning for a symbol which claims to have reached the supreme *kenosis*.[^114]
 
 [^113]: uSi autem Christus scripto suara doctrinam mandaret, nihil alius de eius doctrina homines existimarent quam quod scriptura contineret” , Sum. Tlieol. Ill, q. 42, a. 4. He reminds us of texts (Jn XXI.25 and II Cor III.3, and cites Pythagoras and Socrates as ‘excellentissimi doctores\* who did the same. We could add Buddha, MahavTra and others.
+
 [^114]: 1 spare the reader of my indignation when consulting most of the modern tanslations of Phil. II, 7, a fundamental text for a true encounter with many religions of Asia, specially buddhism, as thinkers of such cultures begin to discover.
 
 *[p. 158]* ^pg176

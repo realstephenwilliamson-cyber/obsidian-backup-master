@@ -22,25 +22,25 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Exod 7:17-19 |
-| Frag. 8-9 | Exod 8:16-18 |
 | Frag. 2-3 | Exod 7:20-23 |
-| Frag. 10 | Exod 8:22 |
 | Frag. 4 | Exod 7:26 - 8:1 |
-| Frag. 11 | Exod 9:10-11 |
 | Frag. 5-7 | Exod 8:5-14 |
+| Frag. 8-9 | Exod 8:16-18 |
+| Frag. 10 | Exod 8:22 |
+| Frag. 11 | Exod 9:10-11 |
 | Frag. 12-15 | Exod 9:15-20 |
 | Frag. 16 | Exod 9:22-25 |
-| Frag. 31 | Exod 12:12-16 |
 | Frag. 17-19 | Exod 9:27-35 |
-| Frag. 32 i | Exod 12:31-48 |
 | Frag. 20-21 | Exod 10:1-5 |
-| Frag. 33 i | Exod 13:18 - 14:3 |
 | Frag. 22-23 | Exod 10:7-9 |
-| Frag. 32 ii, 34 | Exod 14:3-13 |
 | Frag. 24-28 | Exod 10:12-19 |
-| Frag. 35-36 | Exod 17:1 - 18:12 |
 | Frag. 29 | Exod 10:23-24 |
-| Frag. 37-45 | ? |
 | Frag. 30 | Exod 11:9-10 |
+| Frag. 31 | Exod 12:12-16 |
+| Frag. 32 i | Exod 12:31-48 |
+| Frag. 33 i | Exod 13:18 - 14:3 |
+| Frag. 32 ii, 34 | Exod 14:3-13 |
+| Frag. 35-36 | Exod 17:1 - 18:12 |
+| Frag. 37-45 | ? |
 
 [[DSS 4Q13|← 4Q13]] · [[Qumran|index]] · [[DSS 4Q15|4Q15 →]]

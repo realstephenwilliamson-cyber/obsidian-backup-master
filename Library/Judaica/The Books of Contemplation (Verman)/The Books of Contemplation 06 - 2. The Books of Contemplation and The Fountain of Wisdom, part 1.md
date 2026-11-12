@@ -60,6 +60,7 @@ The transcription that follows is based on Mousayeff 63, which was deemed to be 
 The earliest citations from *Contemplation-Short* are found in other writings of the "Circle of Contemplation." For example, text 6, which represents an intriguing reworking of *Contemplation-Short's* introduction, constitutes the preface of the *Commentary on the Tetragrammaton.* It was composed in the latter half of the thirteenth century and has been preserved in an early fourteenth-century manuscript. [^3]Interestingly, when *The Book oJContemplation* was originally published in 1798 in *SeJer Likkutei me-R. Rai Ga'on,* the opening lines of this edition were drawn from *Contemplation-Short;* however, the rest of the text published therein was derived from *Contemplation-Standard.* Since no manuscript exhibits this composite pattern, one must assume that the editor possessed manuscripts of both of these recensions, and shifted from one to the other. 
 
 [^2]: Only a poorly filmed copy of this codex is available at the Microfilm Institute in Jerusalem's National Library. Fortunately, I was able to work directly from the manuscript, which though damaged is for the most part legible. I am grateful to Allon Mousayeff for his assistance in this regard.
+
 [^3]: See G. Scholem, *Origins,* 323, n. 255.
 
 *[p. 34]* ^pg47
@@ -294,6 +295,7 @@ from the Aramaic ~ad *'ila'a* in Dan. 7:25. This term is also found in R. Azriel
 *ma'alah,* (the exalted level), i.e., the highest of the *sefirot,* namely *keter.* 
 
 [^28]: ha-davuk.* Dan *(lfugei,* 93) has pointed out that Ibn Ezra in his *Yesod Mora',* ch. 12, uses the term *devekut* in the specialized meaning of emanation, which may also be appropriate for our passage. A similar usage is also evident in Judah ha-Levi's *Kuzari* 1:1, Zefaroni ed., 6. *'or mufla'.* This expression, though not in technical sense, is found in *29.* *Hekhalot Rabbati, Battei Midrashot,* 1 :84. R. Abraham bar Hiyya propounds a theory of five successive worlds, the first of which is called *ha-'or ha-nifla',* *Megillat ha-Megalleh,* 22. In *The Fountain of Wisdom, 'or mufla'* appears as the first of a series of ten lights, which emanated from the primordial darkness, see below p. 59; see also, R. Jacob Cohen, *Perush ha-'Otiyyot,* In Scholem's *Kabbalot, 42.*
+
 [^30]: Dan 40) interprets the parallel statement in *(lfugei,* *Contemplation-Standard,* as God did not need to create, for such a need would have diminished His perfection.
 31\. lfashmal* is usually translated as electrum or amber. M. Greenberg in *Ezekiel 1-20* (Garden City 1983), 43, suggests that the Akkadian *elmesu,* indicating an undefinded precious stone, may be a cognate. In the Bible it is only found in Ezekiel's visions. It assumed a special significance in Jewish esoteric literature, stemming from the Talmudic discussion found in *B. lfagigah,* 13af., which was oft-cited in *The Books of Contemplation.*
 
@@ -306,8 +308,11 @@ effect on every direction-from the middle to the top and the top to the middle; 
 Moreover, the ~ashmal corresponds to the *yod* of the Tetragrammaton,[^34] since it possesses ten powers. [^35]They are \[as follows\]. \[The first is\] *tav,* which is *temunah* (image). Concerning this it says, "And it stood but I could not discern its appearance, an image was before my eyes" (Job 4: 16). The second is *gimel-gedullah* (greatness); then *heh-ha-gevurah* (the valor). This is based on what is stated, "For You, Lord, are the greatness and the valor and the beauty and the endurance and the majesty ... and the dominion ... and the wealth and the glory" (1 Chron. 29: 11-12). "And the impalpable whisper" (1 Kings 19: 12). Furthermore, ~shmal corresponds to Michael,[^36] and is 
 
 [^33]: In *Contemplation-Long* this angel is identified as *'Arafi'ell'Anafi'el;* see below, p. 75.
+
 [^34]: This basic construct, namely that there are four central powers: ~ashmal, *'ara/el, kisei ha-nogah* and *'o/an ha-gedullah,* corresponding to the letters of the Tetragrammation, is derived from the *kabbalah* of R. Meshullam the Zadokite; see below p. 209. This theory parallels the kabbalists who related various *sefirot* to the Tetragrammaton; cf. R. Ezra's comments in J.T.S. ms. 1878, f. 12a-b, and the *Perush* ha-Yi~ud, presumably by R. Azriei, J.T.S. ms. 2194, f. 29a-b.
+
 [^35]: Most of these powers that are enumerated are derived from the verses 1 Chron. 29: 11 f, which were cited at the start of Ibn Gabirol's poem *Keter Malkhut* that authors of the "Circle" read and utilized; cf. G. Scholem, *"'Ikvotav shel Gavirol ba-Kabbalah," Me'ase/ So/rei* 'Ere~ *Yisra'el (1940),* 160-178. These verses also provided the kabbalists with the names for most of the *se/irot.* On the parallel kabbalistic notion of two sets of ten powers, see M. Idel, *"Se/irot she-me-'Al ha-Sefirot,"* Tarbi~, 51 (1982),239-280.
+
 [^36]: Each of the four powers is linked with a specific archangel. This series of four archangels is derived from *hekhalot* literature; cf. *Ma'aseh Merkavah,* *Battei Midrashot,* 1:59. This text, which is also known as *Mesekhet Hekhalot,* was also utilized by the authors of *Contemplation-Long* and *Contemplation-Standard.* It was R. Meshullam the Zadokite, who connected these powers with the archangels; see below p. 209.
 
 *[p. 45]* ^pg58
@@ -359,7 +364,9 @@ After the Wheel of Greatness, the Cherub was generated. It is like a curtain rev
 *52. yesodot;* also fundamental elements; see below, R. Meshullam's 
 
 [^53]: This analogy of the soul in the body is found in R. Ezra's *Perush le-Shir ha-Shirim, 507.*
+
 [^54]: This passage was cited by Nachmanides' correspondent; see below, pp.182-183. *hekhal ha-kodesh ha-penimi.* This concept seems to be rooted in a dis- *55.* cussion by Ibn Ezra, in his commentary on Dan. 10:21. According to Ibn Ezra there was a threefold emanational sequence: the first world, the middle world, and the lower world. He designated the middle realm as *hekhal ha-kodesh.* Note the discussion in *Contemplation-Burgos,* lines 45-47, which refers to *hekhal ha-kodesh ha-penimi, hekhal ha-kodesh ha-tikhon,* and *hekhal ha-kodesh ha- 'alJaron;* see below, p. 229. See also R. Asher b. David, who refers to "the inner Glory which is called the Holy Palace," Parma ms. 1420 109bf., which seems to be an allusion to *tiferet,* or an even higher *sefirah.*
+
 [^56]: This statement also reflects the oral tradition that underlies the treatise; see above, n. 38. The source of this comment appears to be R. Azriel of Gerona's *Perush,* 82; see the extended discussion below, p. 194.
 57\. R. Elhanan b. Yakar, in his *Sod ha-Sodot,* describes the final stage of the Celestial Chariot in similar terms, "in a circle, and it became like a curtain surrounding all of the Chariot *(ma'aseh merkavah),"* in *Tekstim,* J. Dan ed.,20.
 
@@ -449,6 +456,7 @@ Now I shall return to the first principle, which is prior to its vocalization. F
 Know, understand, investigate, consider, comprehend, and juxtapose one thing against another and consider the analogies, until you fathom the explanation of these matters. For all wisdom and understanding, all comprehension and thought, inquiry, knowledge, vocalization, reflection, speech, whispering, voice, action, guarding, and undertaking-all are found in this Name. When you want to comprehend
 
 [^73]: Perhaps this is intended to correspond to the two ethers, present in each decade.
+
 [^74]: Some manuscripts state seventy Names. While this corresponds to the ancient tradition as noted above, p. 45, its mathematics is nonetheless problematic.
 
 *[p. 53]* ^pg66
@@ -476,6 +484,7 @@ How does each and every vocalization become equated, divided,
 adhering, dispersed, collected, whitened, and mixed [^78]-emanating in numerous hidden crowns that are crowned and adorned? They are indicative of allotted matters: all are successive, hidden, obscure, and revealed. All return to one source and one matter, until all branches of the flame return-two as one. The one corresponds to thirteen and the thirteen to one. This is like the calculation of ten. How so? The *'a* is two, as we said. The five *'a, 'a, 'a,* *'a, 'a* all double, yielding ten. If you divide these ten into three groups, one will remain. This one is the *'ale!* Moreover, the numerical
 
 [^77]: Sefer Ye?irah, 1:9.*
+
 [^78]: There are numerous variant readings for this particular word-none of them satisfactory.
 
 *[p. 55]* ^pg68
@@ -502,6 +511,7 @@ Since He generated Himself, we can comprehend and conduct an investigation into 
 This is the root-principle that everything turns backwards and proceeds to dissolve until it returns to ether, as it once was. The Ether is the root-principle. Prior to the creation of the supernal heavens, which are called the 370 quarters[^82]that constitute the dwelling-place of the Holy One, blessed be He; prior to the fashioning of *'arafel,* *IJashmal,* Curtain, Throne, Angel, Seraph, *'afan,* Living Creature, Star,[^83] Constellation, Quadrangle that is squared, and from which issued forth the waters; prior to the creation of the waters, lakes, fountains, reservoirs, rivers, streams; prior to the creation of the wild and domesticated animals, birds, fish, reptiles, insects, Adam, shades, demons, night spirits, ghosts, and types of ether; prior \[to all of the above\] there was the Ether, which is the root-principle. From it emerged a light, more refined than a thousand thousands thousands and ten thousand myriads of varieties of light. This is the Primal Ether. It is the root-principle. Accordingly, it is called the Holy Spirit. 
 
 [^82]: Some manuscripts read 377, whereas the printed editions read 390. Joseph Dan offers the reading 377. He notes that 390 corresponds to the numerical value of *shamayim* (Heavens) and that 377 can be derived by subtracting the thirteen attributes from 390, *Early Kabbalah,* 53, n. 2. If, in fact, 370 is correct, perhaps this alludes to the constellation *'ash,* referred to in Job 9:9, whose letters correspond to 370; see below, p. 78, for a discussion of ~ashmal = 378 in *Contemplation-Long.*
+
 [^83]: Some manuscripts read instead "cherub." This list is significant owing to its similarity to the hierarchy of powers that are characteristic of *The Book of Contemplation.* Assuming that the author of *Fountain* had in fact read *Contemplation,* this would obviously provide a *terminus a quo* for the dating of *Fountain.*
 
 *[p. 57]* ^pg70
@@ -555,7 +565,9 @@ This is the *tikkun* that we began to speak about. It is necessary for the act t
 The root-principle of all of them is *YHVH.* It has the numerical value twenty-six, corresponding to the twenty-six movements which emerged from the Primal Ether that divided into two parts-each part separate unto itself. Each part has the numerical value thirteen, corresponding to the thirteen sources that separated from *'a.* For we have already stated that the *'a* has the numerical value four insofar as the two movements within it are divided into four. When you calculate their square value in order to empower it, you will discover sixteen. Subtract from them three, which are the Voice, Breath, and Speech[^87]-representing their root-principle-and the thirteen attributes remain. [^88]
 
 [^86]: That is *YeYa'eY.*
+
 [^87]: Seier Ye?irah, 1:9.*
+
 [^88]: See above, n. 80.
 
 *[p. 62]* ^pg75
@@ -780,8 +792,11 @@ R. Hammai, of blessed memory, explicated the topic of the Innermost in the compo
 Blessed and exalted is the Name which is majestic in valor, for He is One, being unified in the balanced unity. He is primordial, without any beginning, and He is the beginning of all that can be scrutinized, stemming from inscrutability. He is the start of all boundaries and He is without boundary. He is able to exist by Himself
 
 [^92]: Until this point the treatise is the same as *Contemplation-Short.*
+
 [^93]: See *Contemplation-Short,* p. 4l.
+
 [^94]: In *Contemplation-Short,* p. 43f., this description is revealed to a lower power, *lJashmal.*
+
 [^95]: Ma'aseh merkavah,* referring to Ezekiel, ch. 1, cf. *B. Jfagigah,* 13a, and Scholem, *Kabbalah,* 11 f.
 
 *[p. 70]* ^pg83
@@ -791,7 +806,9 @@ Blessed and exalted is the Name which is majestic in valor, for He is One, being
 All of them are called crowns of Glory, revolving around the borders of the bridal canopy, as is said, "For over the entire Glory is a bridal canopy" (Isa. 4:5). They are the Celestial Orchard,[^98] the treasurehouse of holiness, indicating the quality of the existence of the One, for everything stemmed from His Unity. He is united as one, and everything is perfected as one, and everything is one intelligence, and every creature is as one, and every utterance is as one, and each name is as one, and each law is as one, and each place is 
 
 [^96]: See *Contemplation-Short,* p. 43.
+
 [^97]: In *Contemplation-Long* there is an explicit statement that there are ten powers, whereas in *Contemplation-Short* it is merely implicit. Although in general *Contemplation-Long* follows the doctrines of *Contemplation-Short,* one can notice certain innovations. Foremost is the general neglect of the concept of Primordial Wisdom, the supreme power in *Contemplation-Short,* and the treatise's focus. is conspicuously absent from It *Contemplation-Long's* listing of the powers and is only mentioned in passing later on in the treatise, based on material borrowed directly from *Contemplation-Short.* Instead, *Contemplation-Long* focuses its attention on Marvellous Light. One can only speculate as to what motivated the author of *Contemplation-Long* to minimize the importance of Primordial Wisdom. It is clear that he was heavily influenced by contemporary philosophical inquiry, as evidenced by his discussion of Divine providence. Perhaps he was also reacting to a trend among contemporary Jewish philosophers who attacked the concept of the hypostatization of Wisdom; cf. the sources listed by A. Ravitzky, *"Ha-Hypostezah shel ha-lfokhmah ha-'Elyonah," Italia 3* (1982), 22, n. 73.
+
 [^98]: pardes,* also connected with "paradise"; cf. *B. lfagigah,* 14b, G. Scholem, *Gnosticism,* 16f, and I. Gruenwald, *Apocalyptic and Merkavah Mysticism,* 86ff. *ra;on.* This is subsequently discussed in more detail. The equation of *99.* will with the highest of the powers appears to reflect the influence of R. Azriel; see his *Perush ha- 'Aggadot,* 81, 84, 107f. and 116. See also R. Asher b. David, who writes, "the will, which is the end point of Thought, namely the Supreme Crown," see *Kabbalat,* J. Dan ed., 53.
 
 *[p. 71]* ^pg84
@@ -801,6 +818,7 @@ as one. And the basis of everything is one will<sup>99</sup>that is the Marvello
 Before the Holy One, blessed be He, created any power from amongst these powers, His power was indiscernible-until something appeared from nothing, in the actuality of the Primordial Wisdom, called faith and mystery.[^100] It came into being from inscrutability through the power of the balanced unicity,IOI as is written, "And wisdom, from nothingness it shall come into being" (Job 28: 12).[^102] Elevated above all that is hidden, "it shall come into being." It is hidden in the mysteries of wisdom, as is written, "And He told you the mysteries of wisdom" (Job 11 :6). "From nothingness it shall come into being"-from diminution lo3 "it shall come into being," since it constitutes the barriers of the exalted realm, within the balanced unity. This side is called *'omen,* meaning the Father of Faith, since faith was 
 
 [^100]: These two aspects of Primordial Wisdom are likewise discussed in *Contemplation-Short.* Yi~ud *ha-shaveh,* identical to 'a~dut *ha-shaveh* (balanced unity). This *101.* exemplifies a tendency of the author of *Contemplation-Long* to rework standard terms; see below, n. 106 and n. 114.
+
 [^102]: It is worth noting that of the two dozen citations in *Contemplation-Long,* from both biblical and postbiblical literature, more than half are from the book of *Job.* On *Job* as a focus for cosmological exegesis, cf. R. Ezra, *Perush le-Shir ha-Shirim,* Third Introduction, 481f., as well as Nachmanides' commentary on *Job.*
 103\. me-mi'ut.* The initial stage in the process of creation, called *'ayin* (Nothingness), following Job 28:12, seems to be interpreted herein as representing a diminution of the infinite nature of the Divinity. If this is a correct reading of the passage, then it represents one of the earliest formulations of the seminal, mystical doctrine of *;im;um,* "contraction." Scholem asserted that "the oldest source of this idea" is to be found in another of the treatises of the "Circle," 32 *Paths,* Florence ms. 2:18, f. lOla; see *Origins,* 450, n. 202. It seems, however, that this particular passage is actually from a different and later work and that the "Circle's" text does not begin until f. 103a; cf. other mss. of this treatise: Vatican 291, f. lIb, J.T.S. 1990:27, and Hebrew U. 8° 488, f. 15b. An indication of the relative lateness of the material to which Scholem referred is a citation of Nachmanides' commentary on *Sefer Ye?irah,* Florence 2: 18, f. 102b. It is conceivable that *Contemplation-Long* was influenced by the doctrine of the diminution of the moon, discussed in *B. /fullin,* 60b.
 
@@ -814,7 +832,9 @@ Moreover, He bears all the foundations of the cosmos and His attributes are in t
 He is the cause and the marvel, marvellously causing marvels, that are in the secrets of the hidden actions called counsels. 108 From them a cause shall issue forth that causes all causes, hidden and revealed. These are the ten hidden powers that are emanated from the Supreme Realm, that is exceedingly hidden and not revealed. 
 
 [^104]: See *Contemplation-Short,* p. 40. *P. /fagigah* 2: l. For various kabbalistic sources that used this image, *105.* see G. Scholem, *Kabbalot,* 39, n. 3.
+
 [^106]: seter ha-kedoshah ha- 'elyonah* is a variant of *seter 'elyon ha-ne'elam;* see below p. 153.
+
 [^107]: These two sentences are based on *Contemplation-Short,* p.42.
 108\. This is based on a statement in R. Azriel's letter to Burgos, "and to give thanks for the marvels of marvels that are in the secrets of the hidden
 

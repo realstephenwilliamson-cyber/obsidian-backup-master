@@ -22,27 +22,27 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Deut 1:9-13 |
-| Frag, 10 | Deut 28:44-48 |
 | Frag. 2 | Deut 8:8-9 |
-| Frag. 11 | Deut 29:9-11 |
 | Frag. 3 | Deut 9:10 |
-| Frag. 12-13 i | Deut 29:12-20 |
 | Frag. 4 | Deut 11:30-31 |
-| Frag. 13 ii | Deut 30:19 - 31:6 |
 | Frag. 5 | Deut 15:14-15 |
-| Frag. 14 | Deut 31:7-10 |
 | Frag. 6 | Deut 17:16 |
-| Frag. 15 | Deut 31:12-13 |
 | Frag. 7 | Deut 21:8-9 |
-| Frag. 16 | Deut 32:17-21 |
 | Frag. 8 | Deut 24:10-16 |
-| Frag. 17 | Deut 32:21-22 |
 | Frag. 9 | Deut 25:13-18 |
+| Frag. 10 | Deut 28:44-48 |
+| Frag. 11 | Deut 29:9-11 |
+| Frag. 12-13 i | Deut 29:12-20 |
+| Frag. 13 ii | Deut 30:19 - 31:6 |
+| Frag. 14 | Deut 31:7-10 |
+| Frag. 15 | Deut 31:12-13 |
+| Frag. 16 | Deut 32:17-21 |
+| Frag. 17 | Deut 32:21-22 |
 | Frag. 18-19 | Deut 32:22-29 |
 | Frag. 20 | Deut 33:12-17 |
-| Frag. 23 | Deut 33:24 |
 | Frag. 21 | Deut 33:18-19 |
-| Frag. 24-50 | ? |
 | Frag. 22 | Deut 33:21-23 |
+| Frag. 23 | Deut 33:24 |
+| Frag. 24-50 | ? |
 
 [[DSS 1Q4|← 1Q4]] · [[Qumran|index]] · [[DSS 1Q6|1Q6 →]]

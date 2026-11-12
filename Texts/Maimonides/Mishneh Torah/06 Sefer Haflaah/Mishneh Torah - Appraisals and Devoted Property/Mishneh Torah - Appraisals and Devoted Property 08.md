@@ -95,46 +95,85 @@ If one designated landed property as a dedication offering for the priests in th
 **13.** A person should never consecrate all of his property or designate it as a dedication offering. A person who does so violates the Torah's guidance, for \[[[Torah 33 - Bechukotai#^27-28|Leviticus 27:28]]] speaks [of a person designating a dedication offering] "*from* all that is his." [Implied is that he should not give] "all that is his," as our Sages explained.[^34] This is not piety, but foolishness, for he will lose all his money and become dependent on others.[^35] We should not show mercy to such a person. In a similar vein, our Sages said:[^36] "A man of foolish piety is among those who destroy the world." Instead, a person who distributes his money for mitzvot should not distribute more than a fifth,[^37] and he should conduct himself as our Prophets advised [cf. [[Psalms 112#^112-5|Psalms 112:5]]]: "He arranges his affairs with judgment," both with regard to matters involving Torah and worldly concerns.[^38] Even with regard to the sacrifices for which a person is liable, the Torah showed compassion for [a person's] resources and dictated that the type of sacrifice be offered according to a person's financial capacity.[^39] How much more so should this approach be followed with regard to matters which a person is obligated only because of his vows. He should take such vows only in a manner appropriate for him, as [implied by [[Torah 47 - Re'eh#^16-17|Deuteronomy 16:17]]]: "Each man according to his generosity, according to the blessings of God, your Lord, which He has granted you."[^40] ^8-13
 
 [^1]: I.e., the *Sanhedrin*, Israel's highest court.
+
 [^2]: There is a certain lack of clarity in the Rambam's words. For the donation of the half-*shekel* that was announced and collected in the month of Adar was for the sake of the communal offerings (*Hilchot Shekalim* 4:10).
+
 [^3]: See Chapter 3, Halachah 14.
+
 [^4]: A second opinion is always valuable lest one person err and a third is necessary, lest the two differ. None of the three is required to be a priest (Radbaz).
+
 [^5]: *Megilah* [[Megillah 23#23b|23b]] derives this from the fact that Leviticus, ch. 27, mentions the word "priest" ten times when speaking of all of these types of evaluations.
+
 [^6]: It is not, however, necessary that all ten be priests (*Megilah, loc. cit.*).
+
 [^7]: In such an instance, the person - or his limb's - worth is evaluated like a servant being sold in the marketplace. Based on [[Torah 32 - Behar#^25-46|Leviticus 25:46]], an equation is established between landed property and servants. Hence, the same evaluation process is used (*Megilah, loc. cit.*).
+
 [^8]: Note the contrast to Chapter 3, Halachot 19-20.
+
 [^9]: I.e., although he merely pledged the fifty, we follow the principle (*Kiddushin* [[Kiddushin 28#28b|28b]], *et al*): "A pledge to the Temple treasury is like transferring the article to an ordinary person." Nevertheless, he is only required to pay ten, since the Temple treasury can collect the forty from the other person.
+
 [^10]: I.e., since they retracted at the same time, the loss suffered by the Temple treasury is divided equally between them. The Ra'avad and Rashi (*Arachin* [[Arakhin 27#27b|27b]]) offer a different interpretation of how the sum is divided between the two. The Radbaz and the *Kessef Mishneh*, however, justify the Rambam's view.
+
 [^11]: And thus if the original owner and another person pledge the same amount, the Temple treasury will receive more if the original owner is allowed to redeem it.
+
 [^12]: They are given the opportunity to redeem it, because the Temple treasury will benefit more from their redemption than that of the other person.
+
 [^13]: A copper coin of minimal value.  
     The Ra'avad and Rashi (*Arachin* [[Arakhin 27#27b|27b]]) maintain that even if the original owners do not raise the bid, they are liable for 26 *selaim* for they are liable for the *sela* added by the other bidder. The Radbaz and the *Kessef Mishneh* justify the Rambam's approach.
+
 [^14]: Since this is the article's worth, it is appropriate that the fifth be calculated accordingly.
+
 [^15]: I.e., a fourth of 25 *selaim* is six *selaim* and a *dinar*. This is the additional fifth that the original owner is required to pay.
+
 [^16]: More precisely, anything above 25, so that his increase benefits the Temple treasury.
+
 [^17]: In Halachah 5.
+
 [^18]: This refers to dedication offerings for the sake of the Temple. With regard to dedication offerings to the priests, see Halachah 11.
+
 [^19]: Since the property was consecrated, it is forbidden to benefit from it. Hence, it must be disposed of in a manner in which no one will benefit. The Ra'avad emphasizes that the advice given by the Rambam applies in an instance when one does not desire to redeem the consecrated property. If one desires to redeem it, it is preferable to do so, following the guidelines set down in Halachah 10. The *Kessef Mishneh* states that the Rambam would not differ with this concept. See also the Rama (*Yoreh De'ah* 258:1) who suggests that if a person consecrates an article in the present age, he should ask a sage to repeal his vow.
+
 [^20]: I.e., a place where the money will be lost to human hands forever.
+
 [^21]: I.e., a gentile servant who is circumcised and immersed in the *mikveh* and then required to observe all the mitzvot incumbent upon women. See *Hilchot Issurei Bi'ah* 13:11.
+
 [^22]: In this way, the holiness associated with the servant will be transferred to the article and the article left in a place where no one will benefit from it.
+
 [^23]: As the Rambam states in *Hilchot Issurei Bi'ah* 14:9, after being purchased by a Jew, a gentile servant is given a year in which to decide whether he wishes to observe the mitzvot. The Rambam is speaking about the laws that apply in the midst of that year.
+
 [^24]: The Rambam makes similar statements with regard to idol-worshiping gentiles in *Hilchot Avodat Kochavim* 10:1; *Hilchot Rotzeach* 4:11. The Radbaz interprets the Rambam's intent in citing these concepts here as implying that the owner should not redeem the servant. Since he remains consecrated, it is forbidden to benefit from his labor.
+
 [^25]: In the present era, since nothing can be done with the money, our Sages allowed the consecrated property to be redeemed in this manner. Note the Rama (*Yoreh De'ah* 258:1) who rules that consecrated property cannot be redeemed in the present age. The *Siftei Cohen* 258:3, however, cites the Rambam's view.
+
 [^26]: Chapter 7, Halachah 8.
+
 [^27]: See Chapter 6, Halachah 1.
+
 [^28]: The Ra'avad cites a view that maintains that even though the field is not given to the priests, it becomes consecrated and can no longer be used by the person for his individual concerns.
+
 [^29]: See *Hilchot Shemitah ViYovel* 10:9.
+
 [^30]: See the *Tur* (*Choshen Mishpat* 95) and commentaries which debate whether this principle applies in all matters or only in this limited context.
+
 [^31]: As listed at the beginning of this set of halachot.
+
 [^32]: See The Guide to the Perplexed, Vol. III, ch. 39, which states that the purpose for these mitzvot is to cultivate the trait of generosity. Also by consecrating his property, one uses his wealth for a holy purpose rather than his own indulgence.
+
 [^33]: Compare to the conclusion of *Hilchot Nedarim*.
+
 [^34]: *Arachin* [[Arakhin 28#28a|28a]].
+
 [^35]: The Rambam is very critical of those who can support themselves on their own, but instead, make wrong choices in the name of piety and thus, require others to support them. See for example, *Hilchot Matanot Aniyim* 10:18 which states:  
     Even a dignified sage who becomes poor should work in a profession, even a degrading profession, rather than seek public assistance. It is better to skin the hides of dead animals rather than tell people: "I am a sage, support me."
+
 [^36]: *Sotah* [[Sotah 20#20a|20a]].
+
 [^37]: *Ketubot* [[Ketubot 50#50a|50a]] derives this concept from Jacob's vow to tithe ([[Torah 07 - Vayetzei#^28-22|Genesis 28:22]] . There the verb which conveys the promise to tithe is repeated, allowing for the concept of giving two tithes. See also *Hilchot Matanot Aniyim* 7:5.  
     *Yayin Malchut* notes that in his Commentary to the Mishnah (*Pe'ah* 1:1), the Rambam writes that as an act of piety, a person may give more than a fifth. Nevertheless, there is not necessarily a contradiction between the two. In his Commentary to the Mishnah, the Rambam is speaking about giving to a needy who asks for alms. In response to that acute need, one may give more that a fifth. Here the Rambam is speaking about giving to charity when there is no acute need. Hence the limit should be adhered to.  
     In *Iggeret HaTeshuvah*, Rav Shneur Zalman of Liadi states that one may give more than a fifth of his resources to charity to atone for his sins, for just as one is not concerned with the amount one gives when it comes to healing a physical wound or blemish, so too, one should not be worried about cost when healing a spiritual blemish.
+
 [^38]: See *Hilchot De'ot* 5:10.
+
 [^39]: I.e., there are different obligations for certain sacrifices, e.g., the adjustable guilt offering ([[Torah 24 - Vayikra#^5-6|Leviticus 5:6-11]]), depending on one's means.
+
 [^40]: This verse specifically applies to the festive sacrifices a person brings for the pilgrimage festivals (see *Hilchot Chagigah* 1:2), but in an expanded sense, it applies to all offerings to the Temple.

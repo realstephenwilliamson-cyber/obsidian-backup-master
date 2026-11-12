@@ -27,9 +27,13 @@ The sensuous and anthropomorphic images of the Bible presented a problem for exe
 carnal love could be crossed by invoking a set of ‘spiritual senses’. So, the erotic and bodily images contained in this text are ‘actually a message about the inner person’s relation to the Word because this person possesses “spiritual senses” analogous to the senses of taste and touch, hearing, smell, and sight by which the outer person relates to the material world’.[^4] This idea was later elaborated by Origen (ca. \[illegible\] 254), who felt that a distinction should be made between the inner ‘real’ or spiritual person, and the outer material body; as such, it was an analogue to the distinction between the letter of the biblical text and its internal, or ‘mystical’ meaning. In Bernard of Clairvaux’s presentation of the Song of Songs this dichotomous understanding became a single ‘set’ of senses, or sensorium.[^5] As a Cistercian monk steeped in the Augustinian tradition, Bernard envisaged God as being the essence of 
 
 [^1]: The following discussion is taken from McGinn, *Flowering of Mysticism*, pp. 153ff.
+
 [^2]: Ibid., p. 155.
+
 [^3]: Ibid., p. 226.
+
 [^4]: McGinn, *Foundations of Mysticism*, p. 121.
+
 [^5]: McGinn, *Flowering of Mysticism*, pp. 155–56.
 
 *[p. 34]* ^pg42
@@ -41,13 +45,18 @@ The theme of sweet love was enhanced by the mediaeval women mystics, who describ
 For Barbara Newman the characteristic feature of what she calls *la mystique courtoise* is ‘Lady Love’: Frau Minne for Hadewijch and Mechthild, and Dame Amour for Marguerite Porete. ‘She appears in various contexts as a double for the mystic herself, her “transcendent I”; as a double for Christ, the Beloved; and as ultimate being, the Absolute, in which Lover and Beloved are one.’[^11] Mediaeval Latin had three nouns for ‘love’, namely *amor* (m.), *dilectio* (f.), and *caritas* (f.). *Amor* is personified in secular poetry as Cupid, the God of Love, while *caritas* became a reification of the Goddess in the hands of the beguines. The Old French *amour* ‘is usually feminine, so that in troubadour and trouvère lyrics personified Love and the beloved Lady could become practically interchangeable’.[^12] In German and Dutch, Frau Minne inherited the mantle of Venus, and ‘she was by turns the lover’s all-bountiful mistress and tyrannical dominatrix’.[^13] Newman observes that Minne is, simply speaking, just the alter ego and projection of the ideal to which the soul aspires. This ‘specular Minne’ is an irresistable force for Hadewijch, and for Mechthild is the object of intense desire as embodied in the bridegroom, Christ. Minne and the Bridegroom reverse conventional gender roles: ‘\[t\]he opposite of the gentle adolescent Christ, \[Lady Minne\] seems a Western manifestation of the Hindu goddess Kālī insofar as she is a divine force, fierce, unrelenting and merciful…. Lady Minne, as image within an image, appears to reflect back to the mystical onlooker a notion of femininity that is strong-willed, single-minded, 
 
 [^6]: McGinn, *Growth of Mysticism*, p. 198.
+
 [^7]: Jantzen, *Power, Gender and Mysticism*, p. 128.
+
 [^8]: Ibid., pp. 128ff.
+
 [^9]: McGinn, *Flowering of Mysticism*, p. 156.
 10\. Ibid.
 
 [^11]: Barbara Newman*, From Virile Woman to WomanChrist* (Philadelphia: University of Pennsylvania Press, 1995), p. 153.
+
 [^12]: Ibid., p. 154.
+
 [^13]: Ibid.
 
 *[p. 35]* ^pg43
@@ -63,16 +72,27 @@ The movement of the beguines was shortlived, flourishing from about 1220 to 1318
 Mechthild, it is generally believed, was born into a noble family in the vicinity of Magdeburg in Lower Saxony in 1208.[^22] In 1230 she went to the town of Magdeburg and became a beguine.[^23] At the age of twelve she was ‘greeted’ by the Holy Spirit, a term she used for mystical union or experience of ecstasy; and these episodes continued daily for the next thirty-one years.[^24] About 1250 she revealed these experiences to her confessor, Heinrich of Halle, a Dominican and *lector* of Neuruppin, who had been a student of Albertus Magnus, and who commanded her to write about her experiences;[^25] she eventually 
 
 [^14]: Ulrike Wiethaus, ‘Sexuality, Gender and the Body’, p. 45. Quoted by Newman, *From Virile Woman*, p. 156.
+
 [^15]: Newman, *From Virile Woman*, p. 156.
+
 [^16]: *FL*, p. 1.
+
 [^17]: Neel, ‘Origins of the Beguines’, p. 326.
+
 [^18]: McGinn, *Flowering of Mysticism*, p. 36. Mary had a profound influence on James’ religiosity, since she encouraged him to join the priesthood and improved his otherwise poor preaching skills. After her death he carried her relics with him on his journeys (McDonnell, *Beguines and Beghards*, pp. 20–39).
+
 [^19]: Wiethaus, ‘Sexuality, Gender and the Body’, p. 43. This can be seen in the case of Beatrice, who was a prioress in the Cistercian convent at Nazareth in Antwerp, and whose text, *The Seven Manners of Loving*, written in the vernacular, addressed a mixed audience who were advanced in speculative mystical thought (Petroff, *Medieval Women’s Visionary Literature*, p. 176). This book was ‘perhaps the first text written by a woman that can be described as essentially mystagogical, that is, designed to guide others along the path of interior transformation toward direct contact with God, or, in her words, “the fruition of love” (*gebrechen der minne*)’ (McGinn, *Flowering of Mysticism*, p. 168).
+
 [^20]: Wiethaus, *Ecstatic Transformation*, p. 23.
+
 [^21]: Ibid., p. 24.
+
 [^22]: She may have had a brother, Baldwin, who became a Dominican, according to the introduction to the Latin version of her book*.* See Tobin’s note 44 (p. 355) in *FL* IV, 26.
+
 [^23]: She eventually served as the head of a beguine community, as shown by an allusion to a disobedient person in *FL* VI, 7. See Tobin’s note no. 10 (p. 360).
+
 [^24]: *FL* IV, 2; p. 139.
+
 [^25]: *FL* IV, 2; pp. 143–44. As Tobin notes in this regard, citing Ursula Peters, this is probably a literary *topos*, which Mechthild emphasized to deflect the charge of arrogance. This may be the same Heinrich who expresses surprise at the sayings and writings of Mechthild (see *FL* V, 12). Mechthild held the Dominicans, and especially its founder, in high esteem (IV, 20–22). In chap. 22 she tells of a vision of a recently deceased brother being crowned in heaven by St Dominic. That she was favoured with viewing this experience was a response to the ‘malicious contempt by the friends of God’; an allusion to the trenchant criticisms being directed at her.
 
 *[p. 36]* ^pg44
@@ -90,11 +110,17 @@ If one did not watch out, It could be burned….[^29]
 God defends Mechthild and declares that ‘no one can burn the truth’, and anyone who would try doing so must be mightier than he. She further laments that if she ‘were a learned religious man’ the material would be readily accepted.[^30] Tobin glosses this by saying that these words, ‘learned religious man’, convey the three major difficulties Mechthild faced in writing her book: she has little education; she does not belong to a religious order approved by and under the jurisdiction of the church; and as a woman she is not seen as innately authoritative.[^31] She complains about being contemned and calumnized;[^32] but she did not 
 
 [^26]: Tobin, *Mechthild von Magdeburg*, pp. 2–3. Helfta was originally founded in 1229 by Count Burkhard of Mansfeld and his wife Elizabeth as a convent for Cistercian nuns, and located near their castle in Thuringia, Saxony; it had technically to be a Benedictine convent, as the Cistercian General Chapter of 1228 prohibited any further foundation or incorporation of houses for women into the order. It moved to Helfta, near the town of Eisleben in Saxony, in 1258 (McGinn, *Flowering of Mysticism*, p. 267). Shortly after Mechthild’s death in 1282, Dominican friars of the Halle community made a translation of the first six books into Latin: *Lux divinitatis fluens in cordem veritatis* (Tobin, *Mechthild von Magdeburg*, p. 4). In the mid–fourteenth century the secular priest Heinrich of Nördlingen translated it into the Alemannic dialect of Middle High German (p. 6). A copy of this translation was sent to the *Waldschwestern*, or Forest Sisters in the valley of Einsiedeln, in Switzerland, and it was in the library of the monastery there that it was discovered in 1861 by Carl Greith (pp. 9–10). The monastery librarian, Peter Gall Morell, published a transcription in 1869 (*Offenbarung der Schwester Mechthild von Magdeburg oder Das fliessende Licht der Gottheit* \[Regensburg, 1869; reprinted Darmstadt: Wissenschaftliche Buchgesellschaft, 1963\]), which was unfortunately much flawed in its rendering (p. 12; the Latin version was not known to Morell, only being published in two volumes in 1875 and 1877 by Solesmes monks; he was also unaware that the ‘high German’ was not the original language). This edition was reprinted three times (1963, 1976, and 1980) before finally a definitive two volume critical edition was produced in 1990 (Text) and 1993 (Investigations) (pp. 13–14); see p. 25, n. 104.
+
 [^27]: McGinn, *Flowering of* Mysticism, p. 229. Cf. Lucy Menzies, trans., *The Revelations of Mechthild of Magdeburg (1210–1297); or, The Flowing Light of the Godhead* (London, New York: Longmans, Green, 1953), p. xviii: ‘Of this romantic and visionary tendency \[in the thirteenth century\] . . . Mechthild \[was\] its most inspired spirit’.
+
 [^28]: *Mystical Transformations*, p. 12.
+
 [^29]: *FL* II, 26; p. 96.
+
 [^30]: Ibid., p. 97.
+
 [^31]: *FL*, p. 348, n. 58. She delineates this belief for example when she says, in later life: ‘My dear Schoolmaster, who taught me this book, silly stupid person though I be…’ (*FL* VII, 3; p. 278).
+
 [^32]: *FL* III, 16; VI, 38.
 
 *[p. 37]* ^pg45
@@ -116,12 +142,19 @@ By the time she writes her last chapter she has had enough of the torment of sep
 In the following sections I shall consider more closely the purport of Mechthild’s book, *The Flowing Light of the Godhead*. As has been noted earlier, its writing spans a period of two or more decades, and the changing motives and style of the author are evident over that time. It does not fit easily any single genre, or sub-genre, composed as it is of a mixture of visionary 
 
 [^33]: In a curiously interesting chapter (VI, 7) she complains to God about a certain person who is causing her distress ‘because of her contrary disposition’, and she wonders how this person could be so disobedient. God pointed out that it was because of a devil, which clung to the person, and which derived its power merely from the person’s own selfish will. Indeed, there was a legion of these devils, endearingly named Barbed Hook, who delighted in pursuing religious hypocrites. Mechthild sought out God and asked him to ameliorate her distress and change the person’s attitude with his ‘divine sweetness’. He refused to do so on the grounds that the person was not worthy of his sweetness; instead, he would ‘make her body sick, and the pain will so paralyze her that only with great difficulty will she continue on her sinful path. And I shall strike her dumb, that she not utter spiteful words. She shall also become so blind that she will be ashamed to see frivolity.’ And lo, fourteen days later this actually happened. In an inquisitorial age this could easily have been construed as Mechthild casting a spell over the recalcitrant. Actually, a former heretic turned Dominican, Robert le Bougre, ‘conducted extensive heresy hunts in northern France and the Low Countries during the 1230s and early 1240s’ (Lerner, *Heresy*, p. 64). He had condemned to execution a beguine named Aeleis, in Cambrai, in 1236 (McGinn, *Flowering of Mysticism*, p. 221).
+
 [^34]: *FL* V, 34; p. 216.
+
 [^35]: Wiethaus*, Ecstatic Transformation*, pp. 39–40.
+
 [^36]: *FL* IV, 12; p. 154.
+
 [^37]: *FL* IV, 2; p. 143.
+
 [^38]: *FL* VI, 20.
+
 [^39]: *FL* VII, 3; p. 277.
+
 [^40]: *FL* VII, 65.
 
 *[p. 38]* ^pg46
@@ -135,15 +168,25 @@ The first two books of *FL* deal mainly with her unfolding mystical experiences;
 The notion of flowing is clearly the central motif in the entire work, and informs a range of metaphors. Indeed, Mechthild might be described as the ‘flowing mystic’.[^49] She engages with the presence of God: ‘This is a greeting that has many streams. It pours forth from the flowing God into the poor parched soul unceasingly with new knowledge, in new contemplations, and in the special enjoyment of the new presence’.[^50] God in his triune self is a flowing movement of love. The Son sings of being a ‘constantly recurring richness that no one can contain except the boundlessness which always flowed and shall ever flow from God’.[^51] As the source of creation, Jesus Christ flows spiritually out of the heart of his eternal 
 
 [^41]: Wolfgang Mohr, ‘Darbietungsformen der Mystik bei Mechthild von Magdeburg’, in *Märchen, Mythos,* *Dichtung: Festschrift zum 90*. *Geburtstag Friedrich von der Leyens*, ed. Hugo Kuhn and Kurt Schier (Munich: Beck, 1963), pp. 375–99; quoted by Tobin in *FL*, p. 10.
+
 [^42]: *Flowering of Mysticism*, p. 226.
+
 [^43]: Ibid., p. 227.
+
 [^44]: *FL* VI, 1.
+
 [^45]: *FL* V, 14. There is an even more grim depiction in III, 15; while a full description is given in III, 21.
+
 [^46]: *FL* V, 15.
+
 [^47]: *FL* I, 2. She uses the homely metaphor of the world as kitchen again in VI, 1 in her urging of religious to take care of the needs of the community.
+
 [^48]: McGinn, *Flowering of Mysticism*, p. 230. The notion of ‘quilting’ (cited by McGinn) is used by Wiethaus, *Ecstatic Transformation*, pp. 43ff.
+
 [^49]: McGinn, *Flowering of Mysticism*, p. 231.
+
 [^50]: *FL* I, 2; pp. 41–42.
+
 [^51]: *FL* V, 26; p. 208.
 
 *[p. 39]* ^pg47
@@ -183,13 +226,18 @@ You well know I must hold back my might And hide my splendor To let you remain i
 God is to be praised ‘from the heart’, even, and indeed most importantly, when one is ‘in poverty, in disgrace, in loneliness, in times of suffering, in spiritual aridity . . . and in all kinds of bitterness both within and without’.[^59] Loving God gives the soul power to overcome adversity; this is the same power that is exemplified in Jesus Christ. 
 
 [^52]: *FL* V, 6.
+
 [^53]: *FL* II, 3; p. 71. Also see VII, 1; p. 274.
 54\. *FL* VI, 32.
 
 [^55]: *FL* V, 20.
+
 [^56]: *FL* V, 35; p. 217.
+
 [^57]: *FL* VII, 45; p. 314. This chapter is duplicated in VI, 22 of the ms E. See Tobin’s note no. 46, p. 366.
+
 [^58]: *FL* V, 18. The ‘vehemence’ of love is a recurring theme in bridal mysticism. See note 67 below (p. 41).
+
 [^59]: *FL* V, 25; p. 206.
 
 *[p. 40]* ^pg48
@@ -227,9 +275,13 @@ How long must I be so dry?
 An hour is much too hard for me, 
 
 [^60]: McGinn’s description (in Katz, *Mysticism and Language*, p. 204). See Appendix E for the full text of this chapter.
+
 [^61]: In *FL* VII, 37 Christ is depicted as a youth of eighteen whom the pure loving virgins follow ‘with bliss-filled tenderness into the blossoming meadow of their pure conscience’ (p. 308).
+
 [^62]: Howard, ‘The German Mystic’, p. 158.
+
 [^63]: In *bhakti* devotion the intense feeling of love is likened to drunkeness. Mechthild acknowledges such feelings as well. She composes a dialogue between herself and the bride of Song of Songs, where she asks ‘Mistress Bride’ why she said to her lover (pictured as a gazelle or young stag \[Sg 2:17\] that he should flee from her. The Bride responded: ‘Listen to me, dear Playmate! I was pleasantly half-drunk with love; this is why I speak tenderly from the senses. But whenever I become totally inebriated I cannot even think of my body; for love commands me’ (*FL* III, 3).
+
 [^64]: *FL* I, 5; p. 44.
 
 *[p. 41]* ^pg49
@@ -261,9 +313,13 @@ God gives too much:
 Now you leave me, Lord, lying in my misery, My wounds untended, in great torment.’[^69] 
 
 [^65]: *FL* II, 2; p. 69.
+
 [^66]: *FL* II, 25; p. 92.
+
 [^67]: *FL* I, 29. The violent nature of love is attested by another beguine, Beatrice of Nazareth (1200–1268). She writes that love is so powerful, and can move so ‘mightily and violently’ in the heart, ‘that it seems to the soul that the heart is wounded again and again, and that these wounds increase every day in bitter pain and in fresh intensity’ (chap. 5, *There are Seven Manners of Loving*, quoted in Petroff, *Medieval Women’s Visionary Literature*, p. 203).
+
 [^68]: *FL* III, 9; pp. 114–15.
+
 [^69]: *FL* II, 25; p. 94. John of the Cross refers to the soul’s being ‘wounded’ in ‘its deepest center’. The soul-asentity is, in John’s words, burned by God who is the cauter; and in this cauterizing process God deifies the soul’s substance, making it divine (Pike, *Mystic Union*, pp. 9, 40, 51f., 81). In the Franciscan text *Stimulus Amoris* by James of Milan the mystical union of ‘soul and God is figured as a joining of wounds in a mystical act of copulation’ (Lochrie, ‘Mystical Acts, Queer Tendencies’, p. 189). Here, and elsewhere, the wound itself is made an object of desire. Lochrie refers to the visual rendering of this in the fourteenth century illustration of the Man of Sorrows, where the wound is depicted as detached from Christ’s side, enlarged, and placed alongside his image (in the Psalter and Hours of Bonne of Luxembourg it is shown alone). There is a striking resemblance to the vulva. As Lochrie warns, ‘\[s\]uffering and love are conjoined in acts of violence inflicted not only on the body of Christ, but also, by implication, against the feminized wound/vulva’ (p. 190).
 
 *[p. 42]* ^pg50
@@ -295,10 +351,15 @@ Thus shall we remain forever content.’[^73]
 In an echo of the earthly court, Mechthild writes of the soul’s journey to the Court of God, where the sovereign reveals his divine heart, which resembles ‘red gold burning in a great fire of coals’.[^74] As God ‘places her into his glowing heart’, she exalts in his embrace, becoming ‘united as water and wine’.[^75] A paean follows: 
 
 [^70]: *FL* II, 15. McGinn’s translation of this passage is rather more poetic: Whoever there is who at some hour /Has felt true love’s wounding power, / His health will never again flower, / Unless he kisses those same lips /From which his soul its wound dips (*Flowering of Mysticism*, p. 230).
+
 [^71]: *FL* V, 30.
+
 [^72]: *FL* V, 31; pp. 212–13.
+
 [^73]: *FL* III, 5; p. 111.
+
 [^74]: *FL* I, 4; p. 43.
+
 [^75]: Tobin notes that this is an allusion to the offertory of the Mass, where ‘a drop of water is added to the wine in the chalice and loses itself in the wine’. The passage recalls Bernard of Clairvaux’s discussion of union with God in *De diligendo Deo* (*On Loving God*) 10.28 (*FL*, p. 340, n. 20).
 
 *[p. 43]* ^pg51
@@ -320,11 +381,17 @@ In a long-standing religious metaphor God is most often depicted as fire. At one
 The Godhead is so blazing hot, As you well know, That all the fire and all the glowing embers 
 
 [^76]: *FL* I, 4; p. 44.
+
 [^77]: *FL* II, 25; p. 95.
+
 [^78]: *FL* III, 10; p. 118.
+
 [^79]: *FL* IV, 5; p. 149.
+
 [^80]: That the sun has been ascribed to the male and the moon to the female is a cultural artefact. Consider for example the Japanese sun goddess Amaterasu Oho-mi-kam, ‘the great august shining one’, and her brother, the (minor) moon-god, Tsukiyomi-no-Mikota (Pierre Grimal, ed. *Larousse World Mythology* \[London: Hamlyn, 1989 {1965}\], p. 301). On this see also Lotte Motz, *The Faces of the Goddess* (New York: Oxford University Press, 1997), pp. 165–78. In Hindu mythology the substance of the moon, and its fluid, *rasa*, has been identified since at least the time of *Taittirīya Saṁhitā* with semen (2.3.5.2, cited by White, *Alchemical Body*, p. 24).
+
 [^81]: Franklin, *Mystical Transformations*, p. 117.
+
 [^82]: Ibid., pp. 117–18.
 
 *[p. 44]* ^pg52
@@ -338,19 +405,33 @@ The soul retorts in part by saying that ‘gold in fire does not perish’. She 
 as in those pre-electricity days the firelight was well familiar. Mechthild is exhilarated by God’s dazzling countenance.[^86] Beams of light emanate from the Godhead.[^87] God appears in her soul as a ‘great majesty and indescribable brightness’.[^88] He places the light of himself into the lantern (her breast), and for those who look upon it ‘a special beam shall shine from the light into the eye of their knowledge’.[^89] In contrasting the two kinds of religious people on earth, those with pure or impure hearts, God offers his Holy Spirit to the pure; and here two pure natures meet: the hot fire of the Godhead and the flowing wax of the loving soul; Mechthild goes on to say that ‘\[i\]f a pure wick of constant humility is there, a beautiful light shall burn by which one shall see far’.[^90] A sinner who feels the sorrows of guilt, penance, and love for God, shall receive the honour of God, who ‘lets his fiery spirit shine forth unceasingly from his Holy Trinity into this loving soul, just like a bright sunbeam shining forth from the hot sun lights up a new golden shield’.[^91] The soul is ‘permeated by the radiant heat of long love’.[^92] The second person of the Trinity, Christ, ‘sparkles in the whole Holy Trinity, just like the delightful flashing in the beautiful sun that no one can see who does not have the fairest of eyes’.[^93] The heavenly light of God shines in Mary’s countenance.[^94] The conscience can only shine with the light of the Holy Spirit.[^95] To the extent that a person lives a holy life the light of God shall shine in her or his soul.[^96] As Mechthild prepares to meet her death she envisions heaven, where amongst the saints ‘a powerful light was shining’.[^97] 
 
 [^83]: *FL* I, 44; p. 61. It is interesting that she conceptualizes the passage of time. It indicates that this is an interpretation of her experience, since mystical events are non-temporal.
+
 [^84]: *FL* II, 22.
+
 [^85]: *FL* VII, 34; p. 303.
+
 [^86]: *FL* I, 22; p. 49.
+
 [^87]: *FL* II, 3. This allusion is confusingly rendered. She writes (p. 71) that four beams are ‘shot forth continuously from the crossbow of the Holy Trinity from the divine throne through the nine choirs \[of angels\]’, but the idea of a singular beam is also used at the same time. It is easy to understand that three beams are collapsible into one, given the ‘undivided’ nature of God; but four beams does not make sense; in addition, three is a factor of nine, a number that has some significance for Mechthild. Cf. III, 9 (p. 114): ‘The Three Persons sent forth beautifully the beams of light in unison, each of them illumined by the other while remaining utterly one’.
+
 [^88]: *FL* II, 7.
+
 [^89]: *FL* III, 12; p. 120.
+
 [^90]: *FL* III, 24; p. 135.
+
 [^91]: *FL* V, 1; p. 179.
+
 [^92]: *FL* V, 4; p. 183.
+
 [^93]: *FL* V, 27.
+
 [^94]: *FL* VI, 39.
+
 [^95]: *FL* VII, 27; p. 296.
+
 [^96]: *FL* VII, 32.
+
 [^97]: *FL* VII, 63; p. 334.
 
 *[p. 45]* ^pg53
@@ -396,7 +477,9 @@ Rather, a blissful abiding Prevails between us.[^99]
 Not only will she become wet, but she will swim in his flowingness. At one point she highlights the life-giving quality of the watery flow, since ‘\[a\] fish cannot remain alive and stay fresh long on the sand’.[^100] The fish is a traditional symbol used by Christians.<sup>101</sup> 
 
 [^98]: *FL* IV, 21; p. 166.
+
 [^99]: *FL* II, 6. Tobin cautions that the reference to the soul and God becoming ‘one being’ should not be taken in a theological sense, but rather as a lyrical expression by God as Lover (p. 345, n. 18).
+
 [^100]: *FL* III, 1; p. 101.
 
 *[p. 46]* ^pg54
@@ -422,12 +505,19 @@ Heaven itself is vibrating, and is a creative force. Elsewhere, God as Trinity i
 101\. It came into use during the second century. From the Greek word for fish, *ichthys*, arose the acrostic \[illegible\] = \[illegible\] \[illegible\] \[illegible\] \[illegible\] Zoni P (Jesus Christ, Son of God, Saviour), which was used in the Gnostic Sibylline Oracles. In the fourth and fifth centuries it became an emblem of the Eucharist (*Oxford Dictionary of the Christian Church*, 2nd rev. ed., s.v. ‘fish’).
 
 [^102]: *FL* V, 26; p. 207. Note the allusion to the ‘restless Godhead’. Franklin (*Mystical Transformations*, pp. 119– 20) maintains that the image of water is present everywhere except in heaven and hell; that is, it is found in earth, in purgatory, and in paradise. He takes it to be a symbol of hope for Mechthild, and its absence in heaven ‘reinforces Mechthild’s conception of motion: motion is found only in the intermediate levels of existence’. He concludes that in this hypothesis ‘earth possesses the stasis of confinement; God, on the other hand, is ultimately and transcendently motionless’. The reference to the ‘restless Godhead’ above would seem to negate such an assertion.
+
 [^103]: *FL* VI, 2; p. 229.
+
 [^104]: *FL*, IV, 12; p. 152. Cf. *FL* III, 9, which refers to the pre-fall condition, where the children of Adam and Eve were begotten in sacred love, ‘just as the rays of the sun play upon the water, though the water remains intact’ (p. 115).
+
 [^105]: I include ‘sound’ in this section, and count it as elementary on the basis that the fifth element, ether, is occultly understood to carry divine sound.
+
 [^106]: *FL* II, 2; p. 70.
+
 [^107]: *FL* II, 3; p. 71.
+
 [^108]: *FL* III, 9.
+
 [^109]: *FL* V, 26.
 
 *[p. 47]* ^pg55
@@ -449,18 +539,31 @@ We might say that the soul can be construed as a harmonic of God: she will vibra
 Mechthild evinces due humility and self-effacement before God, claiming to be unworthy. He spoke ‘many a mighty word to her’, and she ‘took them in with the feeble ears of \[her\] lowliness’;[^115] she sees herself as a ‘sinful, lazy creature’;[^116] in describing the Passion of the soul she ‘recognizes herself to be worthless and unworthy / And despises herself with the great army of her thoughts’;[^117] she is ‘the most worthless person \[God\] ever created’;[^118] the vision of the kingdom of heaven ‘appears to \[her\] eyes like a wretched box on the ears, because \[the Lord’s\] most sublime gift here makes \[her\] seem so worthless’;[^119] she is the ‘most unworthy of all human beings’;[^120] compared to God’s greatness, she sees only ‘the sinful immensity of \[her\] wickedness’;[^121] she is not worthy of the caresses of her ‘lawful husband’, the Lord.[^122] It is hardly surprising she is so hard on herself, given such strictures as, ‘When you do something good, you should think yourself bad’.[^123] 
 
 [^110]: *FL* V, 30; p. 211.
+
 [^111]: *FL* III, 2; p. 107.
+
 [^112]: *FL* V, 17.
+
 [^113]: *FL* V, 18; p. 194.
+
 [^114]: *FL* VI, 8; p. 234.
+
 [^115]: *FL* II, 3; p. 70.
+
 [^116]: *FL* II, 7.
+
 [^117]: *FL* III, 9; p. 117.
+
 [^118]: *FL* III, 12; p. 119.
+
 [^119]: *FL* IV, 5; p. 149.
+
 [^120]: *FL* V, 6; p. 185.
+
 [^121]: *FL* V, 10.
+
 [^122]: *FL* V, 17.
+
 [^123]: *FL* VI, 12. ‘And when you do something bad, you should immediately seek forgiveness.’
 
 *[p. 48]* ^pg56
@@ -474,15 +577,25 @@ Rise up, my dearly beloved, and be healed of All your sufferings, All your days 
 The two, body and soul, are integrally linked. For ‘\[t\]he soul is formed in the body with human qualities but has a divine shimmer about it and shines through the body as radiant gold shines through pure crystal’.[^134] 
 
 [^124]: *FL* II, 20; p. 84.
+
 [^125]: *FL* II, 23; p. 87.
+
 [^126]: *FL* III, 5; p. 112.
+
 [^127]: *FL* IV, 1.
+
 [^128]: *FL* II, 4; p. 74. This appears to indicate an interpretation on prior experience, given the grammatical tense.
+
 [^129]: *FL* IV, 2; p. 141.
+
 [^130]: *FL* IV, 8.
+
 [^131]: *FL* VI, 1; p. 223. It is not difficult to imagine the genesis of such an idea given the poor sanitary conditions of the time.
+
 [^132]: *FL* IV, 14; p. 157.
+
 [^133]: *FL* VI, 35.
+
 [^134]: *FL* VII, 1; p. 274.
 
 *[p. 49]* ^pg57
@@ -502,8 +615,11 @@ Indian philosophical thought is premised upon the concept of the universe as bei
 Theologically, Tantrism conceives of an Absolute, or Supreme One, which at the phenomenal level appears diametrically opposed; and these two, Śiva and Śakti, are representative cosmic versions of man and woman.[^2-p50] Brooks sums it: ‘\[c\]reation is understood as a process of self-expansion (*prapañca*) in which the universe is considered identical to *and* different from the Absolute. Put differently, the Absolute creates a reflection (*vimarśa*) projecting its own inherent self-illumination (*prakāśa*)’.[^3-p50] This creation, or rather emanation, is mediated by *kuṇḍalinī*, a subtle form of pervasive energy. There are some affinities with the older philosphical system of Sāṁkhya, in which the universe is said to consist of only two principles, namely matter (*prakṛti*) and pure consciousness (*puruṣa*). Metaphysically, there is a radical dualism between these two reference points; and it is the realization of their proximity, yet ultimate distinctiveness, which leads to the cessation of suffering and the round of rebirths. The real self is transcendent to the cognizing self of ‘I’ statements, and is thus beyond *prakṛti* (a concept that actually includes the Western idea of ‘mind’).[^4-p50] As with Śakti and Śiva, *prakṛti* and *puruṣa* are representative of the feminine and masculine order; and they are mutually dependent and activating principles. So hence, according to the *Śiva Purāṇa*, the Goddess Pārvatī says to Śiva, ‘With my blessings you 
 
 [^1-p50]: *SL* (Guru), p. 38. Heraclitus (fl. ca. 500 BCE) believed in a unique divine intelligence, who may or may not be called Zeus, but whose thunderbolt directed all things. He held the cosmos to be eternally existent, and its continuance dependent upon the sustained differentiation of opposites. However, due to the underlying unity, these apparent opposites are really aspects of the same things (John Boardman, Jaspar Griffin, and Oswyn Murray, eds, *The Oxford History of the Classical World* \[Oxford University Press, 1986\], pp. 117–18).
+
 [^2-p50]: Bharati, *Tantric Traditions*, p. 200. This scheme does however vary. According to the Śaiva Siddhānta there are three distinct categories of existence: the Lord (*pati*), souls (*paśu*), and the mental and material universe that binds them (*paśa*). The Lord creates the universe through his regent, the Lord Ananta, ‘who activates *māyā*, the material cause and substance of which the universe is a transformation’. The soteriological goal is liberation from rebirth, and upon that liberation the soul becomes omniscient and omnipotent like Śiva, yet ontologically distinct. Women are not allowed to participate in this sect, and can only be liberated through vicarious attachment to their husband (Flood, *Introduction to Hinduism*, pp. 162–64).
+
 [^3-p50]: *Auspicious Wisdom*, p. 60.
+
 [^4-p50]: Flood, *Introduction to Hinduism*, p. 234.
 
 *[p. 51]* ^pg59
@@ -535,10 +651,15 @@ While Brahman remains forever unified it is at the level of epistemological dual
 As Brooks explains: 
 
 [^5-p51]: Chap. 13, vv. 19–20, quoted by Kartikeya C. Patel, ‘Women, Earth and the Goddess: A Shākta–Hindu Interpretation of Embodied Religion’, *Hypatia* 9, no. 4 (1994): 72.
+
 [^6-p51]: In truth, the sense of polarizing effects can be endlessly constructed. Such binary constructions have been criticized by feminist theorists, who have ‘shown in a variety of ways that the two terms in a binary can be said to “construct” each other by virtue of their necessary exclusion of the other’ (Miller, *Eroticized Violence*, p. 44, n. 79). Axiomatically for Tantrism the polar opposites are *essentially* the same, because at the meta-mind level a line can be dimensionally viewed as being bent into a circle.
+
 [^7-p51]: Bharati, *Tantric Traditions*, pp. 200ff. The reverse applies in the Buddhist Tantras. It is not known for certain which tradition originally influenced the other or appeared first. The generally accepted current opinion is that sexual polarity symbolism was originally Buddhist and that left-handed Hindu Tantric schools were inspired by them. The difference between the two outlooks is starkly reported by Lama Govinda: ‘…the conception of Śakti, of divine power, of the female-creative potentiality of the supreme god (Śiva) or of one of the many subordinate (Hindu) gods plays no role of any sort in Buddhism. Whereas the notion of power (*śakti*) is the pivot of interest in Hindu Tantrism, the central idea of Tantric Buddhism is realization: *prajñā* (*śes rab* \[supreme wisdom\]) joined to *upāya* (*thabs* \[the method\])’ (ibid., p. 214).
+
 [^8-p51]: Adapted from Bharati, *Tantric Traditions*, p. 208. He supplies Buddhist correspondences not shown here.
+
 [^9-p51]: Brooks, *Auspicious Wisdom*, p. 122.
+
 [^10-p51]: Ibid.
 
 *[p. 52]* ^pg60
@@ -550,12 +671,19 @@ The triune nature of reality is reflected in the three aspects of tantric medita
 Structures in the universe are representable in graphical form, known as *yantras*. The word ‘yantra’ derives from the root ‘yam’, meaning to sustain, hold or support the energy inherent in a particular element, object or concept; this being so, it can refer to any machine or instrument used in architecture, astronomy, alchemy, chemistry, warfare or recreation. When used in a theological sense the mystic *yantra* becomes an aid and chief instrument for meditative discipline. It is configured as a geometrical shape of certain proportions, and understood as a ‘dwelling’ or receptacle of *iśṭādevatā* (the chosen, tutelar deity); it is, again, an iconographic, rather than anthropomorphic, representation.[^16-p52] The diagram moreover is reality itself in pictorial form; and by its worship, the devotee is enabled to realize his or her identification with absolute being. The optical focus of the *yantra* is its centre, and the *devatā* image is depicted by the mathematically extensionless dot, the *bindu*. This symbolically represents the One, out of which the unity of the static (male, Śiva) and the kinetic (female, Śakti) cosmic principles expand to create the universe of matter and spirit. When viewed subjectively, from the viewpoint of the *sādhaka* (practitioner) ‘the bindu corresponds to the energy centre of the subtle or psychic body which is visualized as located in the forehead’.[^17-p52] The most often used shape in the construction of a *yantra* is the triangle (*trikoṇa*) since this is conceived ‘as the first symbolic form to emerge from the cataclysmic chaos preceding creation’.[^18-p52] Where the upward triangle is symbolic of the male principle, 
 
 [^11-p52]: Brooks, *Secret of the Three Cities*, p. 68.
+
 [^12-p52]: Bharati, *Tantric Traditions*, p. 103.
+
 [^13-p52]: Flood, *Introduction to Hinduism*, p. 221.
+
 [^14-p52]: Ibid., p. 222.
+
 [^15-p52]: Bharati, *Tantric Traditions*, p. 112.
+
 [^16-p52]: Madhu Khanna, *Yantra: The Tantric Symbol of Cosmic Unity* (London: Thames and Hudson, 1981), pp. 11– 12.
+
 [^17-p52]: Ibid., p. 31.
+
 [^18-p52]: Ibid., p. 32. That is, three arises out of the two which is one.
 
 *[p. 53]* ^pg61
@@ -569,11 +697,17 @@ A basic concept in Śaiva–Śākta Tantrism is the system of *cakras* (‘circl
 The alchemical Tantric tradition in India represents another stream of thought, somewhat different to that which has been discussed so far, and of especial importance here.[^25-p53] It is said 
 
 [^19-p53]: Ibid., p. 121. Madhu Khanna refers to the planes of existence as ‘ascending’ and as hierarchical; but this is an unsatisfying interpretation; and, in fact, a non–relativistic one. It is more accurate to think in terms of frequency distribution, or dimensional depth, than spatial location. The actual number of *cakras* can vary amongst sects, but that refinement need not concern us here, except to note that Śrīvidyā posits nine *cakras* to correspond to the nine triangles (see below, section on Śrīyantra/Śrīcakra, pp. 61–63).
+
 [^20-p53]: Ajit Mookerjee, *Kundalini: The Arousal of the Inner Energy*, 2nd ed. (New York: Destiny Books, 1983), p. 44. It is still a part of the body owing to the aural envelope that is generated by the *śakti* energy.
+
 [^21-p53]: The hexagon has six end points and six crossover points, making twelve. This number, and its multiples, is the mathematically perfect mystical number (cf. seven as 4 + 3 and twelve as 4 5 s 3). Esoterically, twelve is the number of spirit (*ātman*) and seven is the number of soul (*jīva*). It is prevalent in the New Testament; e.g., the twelve apostles; the twenty four elders surrounding the throne of God ([[Revelation 04#^4-4|Rev. 4:4]]); and the 144,000 servants of God ([[Revelation 07#^7-4|Rev. 7:4]]). Mechthild, modelling herself on Jesus, has her first vision at the age of twelve (*FL* IV, 2), at the age that Jesus is supposed to have first preached in the temple. The number seven of course refers to the number of individual books Mechthild composed to make up *The Flowing Light*; having written six books she might have felt compelled to write a seventh book, notwithstanding her illness while at Helfta.
+
 [^22-p53]: Lilian Silburn, *Kuṇḍalinī: Energy of the Depths* (Albany: State University of New York Press, 1988), p. 26.
+
 [^23-p53]: I have followed here the transliteration by Silburn (except for *iḍā*, which she gives as *idā*), ibid., p. 124.
+
 [^24-p53]: Eliade, *Yoga*, p. 236ff.
+
 [^25-p53]: Although a number of scholars deny that *haṭha yoga* or alchemy is properly speaking a component of Hindu Tantra White argues convincingly otherwise (*Alchemical Body*, pp. 142–44). David White’s recent book, *The Alchemical Body: Siddha Traditions in Medieval India* (Chicago: University of Chicago Press, 1996), is a fascinating investigation of this esoteric mode of practice, and rewards a close reading. As to the origins of alchemy he cites Joseph Needham as pointing to the first century Chinese techniques of *kim* or *chin*, ‘aurifaction’, which were carried to the west and the Mediterranean in perhaps the third century. Pseudo-Zosimus transliterated these terms as *chymeia* or *chemeia*, which was later arabicized into *al-chymeia*, and introduced into European tradition as *alchymia*, alchemy. Syria later exported its extraction techniques to the east and China by the seventeenth century, completing the circle. There are consequently common traditions, which White discusses at pp. 203–6.
 
 *[p. 54]* ^pg62
@@ -583,14 +717,23 @@ that while orthodox Śaiva Siddhānta offers liberation at death, and the Kaula 
 It appears that the goal of Tantric alchemy is the spiritual perfection of the body through sexual transformation processes; indeed, what is sought is ‘the production of an immortal yet concrete *diamond body* that transcends the laws of nature’.[^33-p54] The ‘diamond body’ is allusively condign in this regard, since the human being is a carbon-based life-form.[^34-p54] Diamond is a crystallized form of pure carbon, which at the atomic level exhibits stable, covalent bonding; consequently, it is the hardest, strongest known substance. Given the correspondence theories of Tantrism, it follows that an adamantine quality can be imputed to the Godhead; and the diamond is an appropriate symbol for this semblance owing to its strength.[^35-p54] Diamond crystallizes from rock melts rich in magnesium, and saturated in carbon 
 
 [^26-p54]: Ibid., p. 173.
+
 [^27-p54]: Ibid., pp. 188–89. Śiva is called Pāradeśvara, ‘Lord of Mercury’, in the *Bhūtiprakaraṇa* (5.27; cited by White, *Alchemical Body*, p. 439, n. 28).
+
 [^28-p54]: *Rasahṛdaya Tantra* 1.33, quoted in White, *Alchemical Body*, p. 199. He includes the brackets in his quotation.
+
 [^29-p54]: White, *Alchemical* Body, p. 190. Chemically, gold dissolves readily in mercury to form amalgams (*McGraw-Hill Encyclopedia of Science and Technology*, 7th ed., s.v. ‘gold’, p. 158).
+
 [^30-p54]: *dvitiya iva Śaṅkaraḥ*. White, *Alchemical* Body, p. 188. He is quoting *Rasārṇava* 16.25b.
+
 [^31-p54]: White, *Alchemical Body*, pp. 279–80.
+
 [^32-p54]: The Nāths bend their lives towards cultivating union with Śiva as Pure Consciousness, and they decry outer religious practices and scriptural knowledge in favour of intuition and *sahajasamādhi*, the spontaneous absorption. They also emphasize simplicity of heart and mind, and practise breath control. In order to attain supernatural powers they believe it is necessary to transfigure the body, hence it must be ‘pure, refined, and adamantine’ (Silburn*, Kuṇḍalinī*, pp. 121–23). See chap. 7, Kamil V. Zvelebil, *The Poets of the Powers* (Lower Lake, California: Integral, 1993), for a list of the powers sought by Siddhas in Tamil Nadu. Nāth Siddhas are unfortunately ‘overtly misogynous, treating sexuality (epitomized by the vulva) as a trap into which the yogin could fall and thereby lose all the benefits of his prior efforts (in the form of his precious semen)’ (White, *Alchemical Body*, p. 235). Also, they are ‘anti-Śākta to the extreme, and deny whenever possible any constructive role to the feminine’ (ibid, p. 465, n. 7).
+
 [^33-p54]: White, *Alchemical Body*, p. 72. Buddhist Tantras also utilize this image. A whole school is devoted to the ‘Diamond Vehicle’, or Vajrayāna, which is practised especially in Tibet. It is said that the Buddhist philosopher Nāgārjuna attained such success ‘that his body became as hard as a diamond (*vajrakāyasiddhi*)’ (ibid., p. 71).
+
 [^34-p54]: It is notable that carbon has an atomic weight of 12.01115.
+
 [^35-p54]: *Adamant* derives ultimately from the Greek *adamas*, meaning invincible; diamond has a cognate history; thus it can be said that diamond is quintessentially adamant in quality. In the Buddhist *Advayavajra-Saṁgraha* the *śūnyatā*, or void, is ‘firm, substantial, indivisible and inpenetratable, proof against fire and imperishable’, and is called *vajra* (diamond) (Eliade, *Yoga*, p. 206).
 
 *[p. 55]* ^pg63
@@ -610,12 +753,19 @@ In the non-philosophical Purāṇas and Tantras, *śakti* appears as a personifi
 A defining characteristic of Śākta Tantrism is the prominence given to the Goddess Śakti. Whereas in the various different schools of Śaivism, Śiva is principal and Śakti is represented as his consort, this conception is reversed in the Śākta tradition. Here, Śiva is effectively a substratum, ‘an entity taken for granted as a background for His own manifestation as power or Śakti, represented as the Divine Mother’.[^42-p55] Furthermore, Śiva is metaphysically inactive without the presence of Śakti. It is said that ‘Śiva is a corpse without Śakti’ (*śivaḥ śaktivihīnah śavaḥ*). Categorically, if *śakti* is accepted as the defining element of Tantra, then Śaivism and Vaiṣṇavism may be defined as ‘dependent Śāktism’, and Śāktism itself is ‘independent Śāktism’.[^43-p55] Be that as it may, the precise nature of the relationship between Śiva and Śakti is a point of contention between the Kaula and Samaya systems of thought within Śākta Tantrism. The former takes the view that Śakti and Śiva are Principal and Accessory, while the latter would give them parity. On this 
 
 [^36-p55]: *McGraw-Hill Encyclopedia of Science and Technology*, 7th ed., s.v. ‘diamond’.
+
 [^37-p55]: 6.65–66. Quoted by White, *Alchemical Body*, p. 190.
+
 [^38-p55]: Tigunait, ‘Concept of *Śakti’*, pp. 4–5.
+
 [^39-p55]: Ibid., see pp. 6–10. Śaṅkara’s tendency is to treat *śakti* as unreal.
+
 [^40-p55]: Ibid., p. 5.
+
 [^41-p55]: Ibid, p. 10.
+
 [^42-p55]: *SL* (Tapasyananda), p. 8.
+
 [^43-p55]: Tigunait, ‘Concept of *Śakti*’, p. 32, citing N.N. Bhattacharyya.
 
 *[p. 56]* ^pg64
@@ -625,9 +775,13 @@ question the view of the philosophy expressed in *Saundaryalaharī* is rather di
 Cosmically speaking, Śakti is understood as the *power* of Śiva, and this is paralleled at the human level, where the power or *śakti* of the individual embodied self (*jīva*) is called *kuṇḍalinī*. It is called *Kuṇḍalinī* or the Coiled-up Power because the *śakti* force, once it has finished the evolution of the body together with the nervous system, lies coiled up in the *mūlādhāra* (root *cakra*). In this state the *jīva* is established in body-consciousness, and has awareness of the physical world as the sole reality; moreover, as it is imprisoned within the nervous system, and apprehends reality only through that, it is in a state of ignorance and involvement in *saṁsāra*.[^45-p56] *Kuṇḍalinī* may be said to be the concrete realization of the lifeforce, that which holds a human being together, and that which dissipates at the time of death.[^46-p56] On the path to realization, as the *kuṇḍalinī*, which is depicted as a snake, is raised up, it prepares to strike the ignorant self and inject it with its poison. The self (ego) dies, but the spirit (Self, *ātman*) absorbs the poison without an adverse, but rather liberatory, effect.[^47-p56] The motion of *kuṇḍalinī* as she moves up from *mūlādhāra* to *anāhata cakra*, shining like molten gold, is known as Fire Kuṇḍalinī; from *anāhata* to *viśuddha*, as bright as a million suns, as Sun Kuṇḍalinī; and from *viśuddha* to the end of *suṣumnā-nāḍī*, lustrous as a million moons, as Moon Kuṇḍalinī. As *kuṇḍalinī* moves out of the *suṣumnā* it becomes supraconscious, embracing all forms of sound and light.[^48-p56] The *SL*, not being a tantric manual, does not elaborate on the particularities of the action of *kuṇḍalinī*, but many texts and commentaries do. Lilian Silburn provides an excellent analysis of the various modes of *kuṇḍalinī* in Kashmir Śaivism. The *kuṇḍalinī* of Consciousness (*citkuṇḍalinī*) is said to be experienced by the disinterested yogin who is free of worldly desires; here, through perfect vigilance, the fully awakened *kuṇḍalinī* shoots like lightning towards the *brahmarandhra*, hardly touching the intermediate *cakras*, which consequently do not vibrate; this becomes an 
 
 [^44-p56]: So Tapasyananda asserts (*SL*, pp. 8–9). He cites vv. 1, 23, 24, 34, and 35 as evincing Kaula thought, but conversely vv. 36–41 as indicating equality (p. 10). Tigunait agrees that the ‘overall tone’ of *SL* seems to advocate the supremacy of *śakti*, although it still mentions the inseparability and equal status of Śakti and Śiva (‘Concept of *Śakti*’, p. 81; see his discussion at pp. 82–85).
+
 [^45-p56]: Tapasyananda, *SL*, p. 39.
+
 [^46-p56]: Cf. Silburn, *Kuṇḍalinī*, p. 63, where she says that the ‘yogin is swallowed up by *śaktikuṇḍalinī* at the time of death’.
+
 [^47-p56]: Cf. Silburn, *Kuṇḍalinī*, pp. 15, 27. In the vein of comparing the *kuṇḍalinī* to a snake, Silburn writes: When it wants to bite, the serpent swings round, forming a circle with its tail for support. Once it stands erect it is no longer dangerous at all. In the same way, as soon as Kuṇḍalinī uncoils and rises – straight like a staff – to the top of the head, not only does she become harmless, but as the evil nature of her power is transformed, she proves to be a priceless treasure. (ibid., p. 15.) In suppport of this view, the Kashmirian commentator Jayaratha (fl. ca. 1225–75) observes: ‘When you strike a snake with a rod, it draws itself up, as stiff as a rod…’ (ibid., p. 57); according to the *Śāktavijñāna* of Somānanda, the *yogin* is instructed to ‘. . . concentrate upon the fully awakened energy, the supreme Goddess \[straight\] like a staff’ (ibid., p. 108; see also p. 112); analysing the *Amaraughaśāsana*, Silburn writes that ‘through the intense heat released \[in awakening\], Kuṇḍalinī becomes firm, erect, straight as a staff’ (ibid., p. 131); finally, the *Haṭhayogapradīpikā* likewise states ‘that the *mahā-mudrā* causes the *kuṇḍalinī* suddenly \[to\] become straight just as a coiled snake when struck by a rod straightens itself out like a stick’ (quoted by White, *Alchemical Body*, pp. 220–21). Reading cross-culturally, it might be said that Moses had a *kuṇḍalinī* experience when, in the presence of the Lord, he took his staff and threw it on the ground, whereupon it turned into a snake, coiled and dangerous; when he seized it by the tail it turned back into a staff (i.e., became erect) ([[Torah 13 - Shemot#^4-2|Ex. 4:2–4]]). Moses could safely lift up the snake (*kuṇḍalinī*) because God was with him (he was a holy man). John’s writing that, ‘Just as Moses lifted up the serpent in the wilderness, so the Son of Man must be lifted up…’ (3:14), might be thought of as (gnostically) recognizing that Jesus must uplift the *kuṇḍalinī* to realize himself as the Christ.
+
 [^48-p56]: Mookerjee, *Kuṇḍalinī*, p. 44. This typology is taken from *Gandharvatantra* (Chap. XI).
 
 *[p. 57]* ^pg65
@@ -643,16 +797,27 @@ II. *School of Çrīvidyā*
 There are affinities between the teachings of various schools of Kashmir Śaivism (Kaula, Trika, and Krama) and Śrīvidyā.[^59-p57] Upon the adoption of the Kaula tradition by the southern Vedānta monastic order of the Daśanāmis at Śṛṅgerī and Kāñcīpuram, traditionally said to have been founded by Śaṅkara, the *smārta* brahmans[^60-p57] of this sect moved to adapt it to 
 
 [^49-p57]: Silburn, *Kuṇḍalinī*, pp. 63–64.
+
 [^50-p57]: Ibid., pp. 64–65.
+
 [^51-p57]: Ibid., p. 66.
+
 [^52-p57]: Ibid., pp. 96–97.
+
 [^53-p57]: Ibid., p. 68. Cf. the account by Ezekiel, who saw in one of his visions: ‘The appearance of the creatures was as if fire from burning coals or torches were darting to and fro among them; the fire was radiant, and out of the fire came lightning’ (Ez. 1:13).
+
 [^54-p57]: In fact, the spinning of wheels is actually found only in Kashmir Śaiva systems, where great emphasis is placed on notions of vibratory sound (Silburn, *Kuṇḍalinī*, p. 67, n. 13).
+
 [^55-p57]: Ibid., p. 99.
+
 [^56-p57]: Brooks, *Auspicious* Wisdom, p. xiii; Brooks, *Secret of the Three Cities*, p. 9.
+
 [^57-p57]: Brooks, *Auspicious Wisdom*, p. 81.
+
 [^58-p57]: Brooks, *Secret of the Three Cities*, p. 75.
+
 [^59-p57]: Flood, *Introduction to Hinduism*, p. 187f. For example, in the *SL* and *LSN*, there are similarities of the Goddess Tripurasundarī with the Trika goddess Parā, who is described as ‘white, beautiful and benevolent’, and depicted as holding a sacred text and exhibiting the gesture of self-realization (see illustration in Sanderson, ‘Śaivism’, p. 673).
+
 [^60-p57]: That is, those brahmans who identify with traditions that follow the exoteric rituals of the *smṛtis* or recollected scriptures, and who worship the *pañcāyatrana devatas* or five divinities (Sūrya the Sun god, Śiva, Viṣṇu, Gaṇeśa, and Durgā or Devī) (Brooks, *Secret of the Three Cities*, p. 67).
 
 *[p. 58]* ^pg66
@@ -664,12 +829,19 @@ The hallmark of tantric worship is to be found in its ritual activity, and so a 
 His approach to this divide is thus more embracing than Lakṣmīdhara’s dogmatism. For example, in Bhāskararāya’s commentary on *Lalitāsahasranāma* (‘The Thousand Names of Lalitā’),[^67-p58] for name 97, ‘Living in the *samaya* (*samayāntaḥsthā*)’, he notes, ‘*Samaya* is commonly (lit. traditional custom) explained as offering worship, etc. to a *cakra* in the ether of the heart. That (worship) is unanimously decided by all the Yogins as the supreme, hence it is called *samaya*.’[^68-p58] In addition, *samaya* is composed of *sama*, equality, and *ya*, he who attains; that is, he who attains to both Śiva and Devī. In his commentary to the next name 
 
 [^61-p58]: Brooks, *Auspicious Wisdom*, p. 149.
+
 [^62-p58]: See the discussion by Brooks in *Secret of the Three Cities* at pp. 17–26.
+
 [^63-p58]: Tigunait, ‘Concept of *Śakti*’, p. 49.
+
 [^64-p58]: Brooks, *Auspicious Wisdom*, p. 23.
+
 [^65-p58]: For a detailed discussion of Lakṣmīdhara’s understanding of this demarcation see Tigunait, ‘Concept of *Śakti*’, pp. 48–56. The brevity of my discussion here cannot hope to convey the philosophical subtleties of the Kaula/Samaya divide.
+
 [^66-p58]: Brooks, *Auspicious Wisdom*, p. 24. The discussion in the following paragraph follows Brooks’ analysis, at pp. 24–27.
+
 [^67-p58]: *Lalitā-Sahasranāman*, with Bhāskararāya’s Commentary translated into English, by R. Ananthakrishna Sastry (Adyar, Madras: The Theosophical Publishing House, 1970 \[fourth reprint\]). The translation by Sastry used here was originally conceived while he was a *pandit* (Sanskrit scholar) at the Theosophical Society’s Library in Adyar, Madras, between 1891 and 1902. The consulted edition is the second, published in 1951; this was the only English translation available to me. The *LSN* was supposedly written by Śaṅkara (Flood, *Introduction to Hinduism*, p. 187).
+
 [^68-p58]: *LSN*, p. 90.
 
 *[p. 59]* ^pg67
@@ -687,10 +859,15 @@ lobes of young elephants,
 slender of waist, with face like the full moon of autumn, bearing on the palms of her hands bow, arrows, noose, and goad, let there be seated before us the pride of him who shook the cities.[^74-p59] 
 
 [^69-p59]: *Auspicious Wisdom*, p. 26.
+
 [^70-p59]: See *SL*, v. 31.
+
 [^71-p59]: *Auspicious Wisdom*, p. 17; *HTSL*, p. 9; Gupta, Hoens and Goudriaan, *Hindu Tantrism*, p. 46.
+
 [^72-p59]: David Kinsley (*Tantric Visions of the Divine Feminine: The Ten Mahāvidyās* \[Berkeley/Los Angeles: University of California Press, 1997\], p. 9) enumerates the ten as follows: Kālī, Tārā, Tripura-sundarī (Ṣoḍaśī), Bhuvaneśvarī, Chinnamastā, Bhairavī, Dhūmāvatī, Bagalāmukhī, Mātaṅgī, Kamalā. He observes that ‘\[t\]he impression is difficult to avoid that each Mahāvidyā is one facet of a multi-faceted Great Goddess and that each facet contains all the others – that if one observes intensely and carefully enough, one will find all forms inhering in each particular form’ (ibid., p. 39).
+
 [^73-p59]: Quoted by Bhāskararāya in his commentary on name 1000 (*LSN*, p. 374).
+
 [^74-p59]: *SL* (Brown), v. 7. An obviously Vedāntically inspired intrepretation by Kuppuswami is that these items symbolically represent desire, hate (anger), the mind, and the five senses. Meditating on these the devotee can discern the noose that is greed and passion, which then leads to anger at the vicissitudes of the mind as harbour of the wayward senses. In other words, the ego has to be conquered by the liberating spirit of the *śakti* (*SL*, pp. 11–14). Compare v. 13 of *Tripurā Upaniṣad*: \[She\] has, as it were, a white goad and is the Mother of the Universe. The desirous \[she\] binds bound by the noose \[of their own desires\]. \[She\] strikes down with a bow and five arrows \[desire\]. \[She is\] red, the primordial power, and \[has a\] universal view \[of all beings’ karma\]. (Brooks, *Secret of the Three Cities*, p. 181)
 
 *[p. 60]* ^pg68
@@ -706,12 +883,19 @@ She encompasses multiple trinities, and whatever is in the world that is threefo
 Lalitā Tripurasundarī is also called Ṣoḍaśī, ‘she who is sixteen’, or ‘she who has sixteen (good) qualities’; under this rubric, she can be pictured as a woman of sixteen years of age.[^80-p60] The esoteric numerological significance of the alternate name lies in its reference to the phases of the moon, or lunar *tithis*, of which there are fifteen in the bright half of the lunar month (*śukla pakṣa*) and fifteen in the dark half (*kṛṣṇa pakṣa*). Since *tithis* are often personified as goddesses, Ṣoḍaśī (‘she who is the sixteenth’) may be understood as ‘that which is beyond the phases, or the rhythms of time’.[^81-p60] Ṣoḍaśī is also said to represent the full moon, as against Kālī’s representing the new moon.[^82-p60] 
 
 [^75-p60]: *Auspicious Wisdom*, p. 77.
+
 [^76-p60]: Ibid. Śivānanda was a Kashmirian commentator of uncertain date, probably between the eleventh and thirteenth centuries (Brooks, *Auspicious Wisdom*, pp. 39–40).
+
 [^77-p60]: Khanna, *Yantra*, p. 77.
+
 [^78-p60]: Brooks, *Auspicious Wisdom*, p. 65.
+
 [^79-p60]: Ibid., p. 67.
+
 [^80-p60]: Kinsley, *Tantric Visions*, p. 121.
+
 [^81-p60]: Ibid. For a discussion of the importance of the lunar cipher sixteen in Veda, Yoga and Tantrism see White, *The Alchemical Body*, pp. 36–44. He offers this explanation, that ‘the fifteen nights are taken to be the spokes of a wheel, with its felly, the sixteenth, identified with the *ātman*’ (p. 37).
+
 [^82-p60]: Kinsley, *Tantric Visions*, p. 45.
 
 *[p. 61]* ^pg69
@@ -739,15 +923,25 @@ Each set of triads corresponds to three aspects of body, speech and mind.[^89-p6
 This is the appearance of the Goddess in yantric form. The Śrīyantra, or Śrīcakra (literally the ‘wheel of Śrī’ or ‘prosperity’)[^93-p61] is a complex diagram of Reality that is used by 
 
 [^83-p61]: *LSN*, n. 88.
+
 [^84-p61]: Brooks, *Auspicious Wisdom*, p. 86.
+
 [^85-p61]: Ibid., p. 104.
+
 [^86-p61]: Brooks, *Secret of the Three Cities*, p. 169.
+
 [^87-p61]: Ibid., p. 119.
+
 [^88-p61]: Compare the Ṛg Vedic *gāyatrī* mantra, which is indeed semantically meaningful: *tát savitúr várenyam bhárgo devásya dhīmahī dhíyo yó naḥ pracodáyāt*, ‘Let us contemplate the lovely splendor of the God Savitṛ that he may inspire our minds’ (3.62.10; quoted in Brooks, *Auspicious Wisdom*, p. 93).
+
 [^89-p61]: Brooks, *Auspicious Wisdom*, p. 90.
+
 [^90-p61]: Ibid., p. 92.
+
 [^91-p61]: See ibid., pp. 97–103.
+
 [^92-p61]: Ibid., pp. 107–8.
+
 [^93-p61]: Ibid., p. 115.
 
 *[p. 62]* ^pg70
@@ -757,9 +951,13 @@ practitioners of the Śrīvidyā tradition. It is an architectural representatio
 \[t\]here is both an explicit and esoteric sexual symbolism expressed here. The five downward facing Śakti triangles are the ‘aspect of desire’ (*kāmakalā*) and represent the female organ. The four upward facing Śiva triangles are symbolic of the *liṅga*. The combination represents the sexual embrace formed by their joining. However unambiguously sexual this image may be, the predominate image of embodiment acknowledges Śiva and Śakti’s sexual union but defies the *appearance* of explicit eroticism. The *śrīcakra* is an anerotic image whose sexual valences require an intellectual leap of imagination. It is little wonder that such an ‘encoded’ eroticism appealed to the conservative morality of high caste brahmanism.[^95-p62] In *pūjā* worship the objective is divinization of the self through identification with the image of *śrīcakra*. A Tantric proverb has it that ‘one cannot venerate a god unless one is a god oneself (*nādevo devam arcayet*)’.[^96-p62] The human body is considered the most perfect and powerful of all *yantras*. In the Śākta (and hence Śrīvidyā) tradition, the body is seen as foundationally important to *sādhana* (spiritual discipline); as a microcosmic reflection of macrocosmic being, it is a locus of divinity, and a ‘tool’ (*yantra*) for achieving integration with God.[^97-p62] The *śrīcakra* is not only the Goddess in pictorial or representational form, but also, by translation, the body of the practitioner; accordingly, the body is to be treated with deference, and not reviled;[^98-p62] asceticism is not counselled. 
 
 [^94-p62]: For a detailed explanation of its functioning see Khanna, *Yantra*, pp. 109–18 (esp. Pl. 62 for a beautiful illustration); see also Brooks, *Auspicious Wisdom*, chap. 6.
+
 [^95-p62]: Brooks, *Auspicious Wisdom*, p. 120.
+
 [^96-p62]: Padoux, *Vāc*, p. 47; Elaide, *Yoga*, p. 208. Likewise in Platonic teaching, as accepted by much of the Christian spiritual tradition, it is said that like can only be known by like. By being pure in heart one can know God, and be known by God; union of the self and God is effected through a corresponding divinization (see Jantzen, *Power, Gender and Mysticism*, p. 94).
+
 [^97-p62]: Khanna, *Yantra*, p. 119.
+
 [^98-p62]: Curiously, there can be an inconsistency in this attitude, as seen in the description of *samānya pūjā*, ordinary or regular worship of the goddess, as described in the *Kālikā-purāṇa*, a fourteenth century text devoted to the goddess in the form of Kālī. Kinsley (*Tantric Visions*, pp. 51–53) describes this as a fourfold ceremony involving 1) preparation, 2) meditation, 3) worship of the goddess herself, and 4) concluding rites. In the second phase of the ceremony, the adept performs a series of acts that are primarily mental, so as further to purify himself. In general, this part of the rite aims at the adept’s symbolic death and dissolution. The text says that the body is composed of impure elements – mucus, faeces, urine, and so on – and as such is unfit to be an instrument of worship. The adept goes on to imagine the dissolution of ‘his’ body through burning away, and being replaced by a purified body in the image of the goddess; that is, it becomes a divine body in the sense that the adept has achieved identification with her essence. It is not clear how this changes the facts of the ‘unclean’ emissions as the adept still lives as an embodied being, and since the *pūjā*’s effects are understood as not being permanent, the process needs to be repeated. There still appears to be a remnant of anti–bodiliness here, in that transcendence through mentalized imagery is pursued, rather than grounding it in simple acceptance of the body as a *whole* creation of the Goddess. Kinsley further comments that in *samānya pūjā* the worshipper is deified through identification with the goddess, and in that sense one is effectively revering ‘one’s highest or most essential nature, which is identified with the goddess’ (p. 54). This demonstrates an inadequate grasp of the Śākta Tantric belief system, because the ‘highest and most essential nature’ *is* the body, which incorporates *ātman*, just because the Goddess *pervades* the universe, as Kinsley acknowledges elsewhere (p. 55).
 
 *[p. 63]* ^pg71
@@ -775,7 +973,9 @@ An illuminating description of the meaning of *Saundaryalaharī* for contemporar
 *Saundaryalaharī* is a poem extolling the praises of Devī \[i.e., Tripurasundarī\] and giving some of the details of Śrīvidyā without going into the intricacies of the *pūjā* or the theory. This is why it lacks the sort of technical descriptions you see in other texts such as *Vāmakeśvara Tantra*. We must remember that this is a *stotra*, not a Tantra, it was meant to be read with secret and special teachings included *only* in the oral tradition. Lakṣmīdhara provides many of these details. Those who view the text from the purely literary point of view will not be able to appreciate these hidden and unstated matters. In fact, we can say that those who reject that these secret or implicit teachings are actually in the text have been led purposefully to this conclusion by Śaṅkara. He wished to protect the uninitiated and leave the text open to all. He accomplished this by leaving out all the technicalities and instead using the secret and suggestive method of teaching. Those who think it is just a poem praising Devī and not an exposition of Śrīvidyā have seen only the surfaces, they appreciate merely the waves of beauty (*Saundaryalaharī*) but not the ocean of meaning.[^101-p63] As this comment admits, there is an exoteric and esoteric meaning to the *Saundaryalaharī*, as with all tantric poetry and verse. It can be appreciated at a literary level, or as a catalyst 
 
 [^99-p63]: *SL* (Brown), p. 1.
+
 [^100-p63]: *SL* (Guru), p. 3.
+
 [^101-p63]: Quoted in Brooks, *Auspicious Wisdom*, p. 49. Cf. below at note 106 (p. 64).
 
 *[p. 64]* ^pg72
@@ -835,9 +1035,13 @@ your self I take to be the flawless self of Bhava \[= Śiva\], O blessed lady; h
 The text of *Ānandalaharī* is basically a celebration of the joy entailed by the cosmic union of Śiva and Śakti. This union is able to be experienced reflexively by the devotee (*yogin*) through the microcosmic activation of *kuṇḍalinī*, who is just the macrocosmic power Śakti.[^106-p64] As stated earlier, the *kuṇḍalinī* is depicted as a sleeping serpent at the base 
 
 [^102-p64]: *SL* (Brown), v. 8.
+
 [^103-p64]: *SL* (Brown).
+
 [^104-p64]: *SL* (Brown).
+
 [^105-p64]: Ibid., v. 34. My bracketed interpolations.
+
 [^106-p64]: Norman Brown points out that there is no clear warrant in the *SL* for the idea of Śakti (Devī) being present microcosmically in the human body. And ‘to assume that this is the intention of the text requires one to transcend the wording of the text itself’ (*SL*, p. 19; also p. 21). The allusion to the raising of the *kuṇḍalinī* given in vv 9 and 10, and 36 to 41 actually refers to the evolutionary creative activity of Devī and Śiva within the *cakras* of Devī’s body apportioned as the Universe itself. Furthermore, there is very little that can justifiably be claimed as Tantric in the *SL* (see *SL* \[Brown\], pp. 20–24). These are fairly valid criticisms, but in the context of this thesis it will be accepted that the subsequently devised tantric interpretations of *SL* are meaningful.
 
 *[p. 65]* ^pg73
@@ -887,8 +1091,11 @@ the world, with her inner darkness dispelled, seems like a female
 cakora bird \[which drinks moonlight\]. 
 
 [^107-p65]: Sanderson, ‘Śaivism’, pp. 702–3.
+
 [^108-p65]: *SL* (Brown), v. 9.
+
 [^109-p65]: An alternative reading not invoking the concept of karma would simply be that it is not possible to function at the body-mind plane if the *kuṇḍalinī* remained in contact with the *sahasrāra cakra*. According to Kashmir Śaivism the supreme *kuṇḍalinī* is only experienced after death (Silburn, *Kuṇḍalinī*, p. 63).
+
 [^110-p65]: *SL* (Brown), v. 10. The *bindu* (centrifugal spot) in the centre of the *mūlādhāra* lotus of triangular shape known as *kulakuṇḍa*, which resembles the hollow in the centre of the lotus-stalk, is the sleeping spot of *kuṇḍalinī.* Depicted as a snake, it has its tail caught in its mouth. The three coils are the three sounds A,U,M, and the half coil is the sound of the combination (*SL* \[Kuppuswami\] p. 22).
 
 *[p. 66]* ^pg74
@@ -942,7 +1149,9 @@ Significantly here, the direction of flow is downwards \[illegible\] rather than
 the ‘evolutionary order of the constituent categories of the Cakras (*sṛṣṭi-krama*)’, in which the subtler is supposed to precede the grosser.[^112-p66] This is cited by a contemporary Śrīvidyā practitioner as one proof that the *SL* is a Tantric text suitable for use by Samayācārins, since the downward route is opposite to that upward route promoted by the ‘inferior’ Kaula system.[^113-p66] Notably and curiously, Lakṣmīdhara names the fourth *cakra* (v. 39, above) as *svādhiṣṭhāna*, and not *maṇipūra*, as it is usually called. He similarly transposes the names in verse 9 (see above, p. 65). It is not clear why he should have done this. Perhaps it is because Devī, as the complementary of Śiva, is capable with her cooling glance of quenching the ‘fierce saṁvarta fire’ of Śiva. Brown further conjectures that as the word adhiṣṭhāna (the second part of the compound svādhiṣṭhāna) means ‘the act of taking one’s 
 
 [^111-p66]: *SL* (Brown).
+
 [^112-p66]: Tapasyananda’s gloss to verse 36, at p. 93 of his translation of *SL*.
+
 [^113-p66]: From an interview conducted by Tigunait with Swami Veda Bharati (‘Concept of *Śakti*’, p. 74; see pp. 73– 74, for other adduced ‘proofs’).
 
 *[p. 67]* ^pg75
@@ -988,10 +1197,15 @@ as letters become the components of your name, O Mother.[^118-p67]
 In the following verse the fifteen-syllabled mantra is converted into eighteen syllables by prefacing three *bīja* syllables, *klīṁ*, *hrīṁ* and *srīṁ*, given by the code words, Smara, Yoni and Lakṣmī. Lakṣmīdharā, and the Samayins, see in this mantra the route to worldly prosperity, which is to be attained through mental worship without resorting to the practices of the sixty-four (Kaula) Tantras.[^119-p67] Thus, 
 
 [^114-p67]: *SL* (Brown), pp. 14–15.
+
 [^115-p67]: *SL* (Brown).
+
 [^116-p67]: *SL* (Tapasyananda), p. 50.
+
 [^117-p67]: Khanna, *Yantra*, p. 135. She illustrates this diagrammatically on pp. 74–75.
+
 [^118-p67]: *SL* (Brown), v. 32. Lakṣmīdhara points out that an additional, sixteenth, letter should be given by the guru to the disciple privately, and so the mantra is really *Ṣoḍaśākṣarī* (sixteen-lettered), rather than fifteen-lettered (*pañcadaśākṣarī*) (*SL* \[Tapasyananda\], pp. 83–85).
+
 [^119-p67]: *SL* (Tapasyananda), pp. 86–88.
 
 *[p. 68]* ^pg76
@@ -1033,8 +1247,11 @@ as if from your heart
 there flowed an ocean of the milk of poesy; when the Draviḍa child tasted this as you gave it to him in compassion, he became the poet laureate of the master poets.[^123-p68] 
 
 [^120-p68]: *SL* (Brown), v. 33.
+
 [^121-p68]: Ibid., v. 96.
+
 [^122-p68]: Bharati, *Tantric Traditions*, p. 112.
+
 [^123-p68]: *SL* (Brown), v. 75.
 
 *[p. 69]* ^pg77

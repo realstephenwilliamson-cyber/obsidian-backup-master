@@ -60,29 +60,55 @@ In the following stage these emotions would actually become manifest in his hear
 Another meaning behind the four letters as applied to man: the contemplation endeavoring to understand and conceive of His true being derives also from Torah, for Torah proceeds from *chochmah*,[^27] represented by the *yud* of the Name of *Havaya*….
 
 [^1]: Above, beg. ch. 2.
+
 [^2]: *Raaya Mehemna* 122a.
+
 [^3]: Torah is interpreted on four planes, the first is *peshat* (simple meaning); the second is *remez* (allusion, hint); the third is *drush* (homily); and the fourth is *sod* (the esoteric, mystic interpretation). The simple, literal meaning of *teshuvah* has been expressed as the abandonment of sin, contrition. Now the *sod* approach will be presented.
+
 [^4]: This subject will be discussed shortly in the text, but the reader may wish some clarification at this point. The source of the creative power is the Infinite, called by *Havaya*, the Ineffable Name of G–d, consisting of four letters: *yud*, *hey*, *vav*, *hey*. These letters describe the descent of the Infinite into the corporeal world (among other interpretations). The *yud*, a “point,” symbolizes seminal wisdom, the flash of intellectual illumination, the first revelation, the start of the process. The first *hey*, in form having dimension, represents *binah*, i.e., understanding, comprehension, and development of the germ-thought into detailed ramification, expansion. *Vav*, in shape extending downward, represents the descent of the Light into lower worlds, those that appear to be “apart” from the Infinite. The final *hey*, again expansion and dimension, is the creative power exercised, manifest in the world created. Through sin, as will be discussed, there is a “dislocation” of the latter *hey*, a diversion of creative power, of vivifying force, into undesirable channels of evil. “Returning the *hey*,” both in the lower sense of repudiation of evil and in the superior sense of true unity with G–d (later discussed), are the two types of *teshuvah*, returning each *hey* to its respective state of unity. (The *Zohar’s* interpretation cited in the text is a division of the word *teshuvah* into two*—tashuv hey*, with the final letter considered an independent word.)
+
 [^5]: Cf. *Sanhedrin* [[Sanhedrin 99#99a|99a]].
+
 [^6]: Cf. Jerusalem Talmud, *Peah* 1:1.
+
 [^7]: *Moed Kattan* [[Moed Katan 28#28a|28a]].
+
 [^8]: Ch. 28.
+
 [^9]: [[Torah 53 - Ha'Azinu#^32-9|Deuteronomy 32:9]].
+
 [^10]: [[Torah 01 - Bereshit#^2-7|Genesis 2:7]].
+
 [^11]: See *Likkutei Amarim*, Part I, ch. 2 (above).
+
 [^12]: Cf. Maimonides, *Hilchot Yesodei HaTorah* 1; Liturgy, the *Yigdal* hymn.
+
 [^13]: *Berachot* [[Berakhot 31#31b|31b]].
+
 [^14]: The “worlds” mentioned above describe states and existences at different removes from G–d, each accordingly less conscious of His presence and infinity. The last three (*Beriah*, *Yetzirah*, and *Asiyah* (Creation, Formation, and Action)) parallel thought, speech, and deed respectively as manifestations of man’s soul. Thought is internal, united with the thinker; speech is intermittent and directed outward, to another; deed is farther from the performer, and his works exist independently of him. On each of these planes, or worlds, there are beings, for example, the soul before it inhabits a body and after the death of the body. Another example is what we commonly call “angels.” These are spiritual beings with spiritual dimensions, for instance, intellectual or emotional characteristics that define and bind them. (The threefold Holy Holy Holy in [[Isaiah 06#^6-3|Isaiah 6:3]] indicates different apprehensions of His abstract being. See also the blessing preceding the Morning *Shema*.) In terms of absolute comprehension of the Creator, they are superior to mortals. In terms of potential, of volition, man is the superior. They are bounded, foreordained. Man can choose—and grow. As the text will note, all beings, including the most exalted spiritual beings, are inferior in their source to man.
+
 [^15]: [[Psalms 033#^33-6|Psalms 33:6]].
+
 [^16]: *Avot* 5:1. “Speech” indicates the existence of some being besides the speaker, for speech is communication directed to another, reveals to another. (“Thought,” in contrast, is not revelatory and can exist in isolation; no other being is needed.) The “utterances” here, the Biblical “And the L–rd said, ‘Let there be…’ ” and all the Biblical declarations about creating through speech (e.g., [[Psalms 033#^33-6|Psalms 33:6]], 9; 148:5, etc.)—convey this concept of the new existence of “another” being, the created universe apparently independent. The creative power acts through “speech.” Furthermore, speech is of necessity a limitation on thought. Although it reveals to the listener, one cannot, however, convey all his thought. On the pre-verbalizing level, one can think briefly and rapidly on ideas that can be articulated only at great length. “Letters” (a variant term for “speech”) are instruments, dimensioned, finite. Beings issuing from “speech” bear these speech characteristics—separateness rather than unity and limitation in their potential. (See *On Learning Chassidus* for a discussion of thought and speech in terms of the origin of man and other beings, and see also *The Tzemach Tzedek and the Haskalah Movement*, p. 114, note 8.)
+
 [^17]: [[Torah 01 - Bereshit#^1-26|Genesis 1:26]].
+
 [^18]: [[Torah 46 - Eikev#^10-17|Deuteronomy 10:17]].
+
 [^19]: [[Psalms 136#^136-2|Psalms 136:2]].
+
 [^20]: [[Job 01#^1-6|Job 1:6]].
+
 [^21]: *Tikkunei Zohar* speaks of the “concealed” and “revealed” worlds. The “concealed” are those united with Him, having no existence apart from Him. (An analogy is the fish of the sea, who cannot exist outside their element.) The “revealed” worlds appear to exist independently of the Creator. The *yud* and *hey* of G–d’s name indicate intellect, which is internal, united with the thinker, hence these letters are related to the “concealed” worlds. The *vav* and the latter *hey* are the extension of the process initiated in the first letter; they relate to “speech,” separateness, “revealed” worlds.
+
 [^22]: See the Explanatory Notes to *On Learning Chassidus* for the Chabad exposition of the process of development of intellect and emotion.
+
 [^23]: [[I Chronicles 29#^29-11|I Chronicles 29:11]].
+
 [^24]: [[Ecclesiastes 08#^8-4|Ecclesiastes 8:4]]; see *The Tzemach Tzedek and the Haskalah Movement*, p. 110, note 3.
+
 [^25]: *Sefer Yetzirah* 2:3.
+
 [^26]: Liturgy, the *Akdamot* hymn.
+
 [^27]: *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-85a|II:85a]], [[Zohar 5.04 - Sava de-Mishpatim#^z2-121a|121a]].

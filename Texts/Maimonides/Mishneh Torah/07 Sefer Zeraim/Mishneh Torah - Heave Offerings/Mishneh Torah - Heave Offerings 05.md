@@ -150,129 +150,247 @@ Similarly, if a person other than a priest ate both of them, he should make rest
 [^1]: *Chelbo*, translated as "most choice portion," literally means "fat."  
     When quoting this law, the *Shulchan Aruch* (*Yoreh De'ah* 331:52) states that in the present age, when *terumah* will be destroyed regardless, there is no need to separate the most choice portions as *terumah*.  
     See also the Ramban's *Hosafot* to *Sefer HaMitzvot* (Negative Mitzvah 7) which considers the adjuration against separating lower quality produce as *terumah* as one of the Torah's 613 prohibitions.
+
 [^2]: And thus the *terumah* will not be able to be given to the priest immediately.
+
 [^3]: I.e., since there is no priest immediately available, it is preferable to separate produce that will not spoil, so that ultimately, it can be given to a priest.
+
 [^4]: For fresh figs are tastier and considered as a higher grade produce.
+
 [^5]: I.e., since there is no priest immediately available, it is preferable to separate produce that will not spoil, so that ultimately, it can be given to a priest.
+
 [^6]: For he will dry the figs himself and prevent them from spoiling before they are given to the priest.
+
 [^7]: A whole onion is considered more important and choicer than a portion of an onion [the Rambam's Commentary to the Mishnah (*Terumot* 2:5)].
+
 [^8]: I.e., in places where a priest is present or those where he is not present, for a whole onion will keep longer than a cut one (*ibid.*).
+
 [^9]: Implied is that the *terumah* and the produce for which it is being separated must be of the same species.
+
 [^10]: They are also considered as one species with regard to the prohibition against *kilayim* (*Hilchot Kilayim* 3:3).
+
 [^11]: I.e., light figs and dark figs.
+
 [^12]: Because wheat and barley are different species. Moreover, it is considered as if *terumah* has not been separated even from the wheat alone. The rationale is that separating *terumah* is considered equivalent to taking a vow and if a portion of a vow has been nullified, the entire vow is nullified.
+
 [^13]: A coarse species of wild wheat.
+
 [^14]: At which point the obligation to separate *terumah* and the tithes falls upon it (see Chapter 1, Halachah 11, and notes).
+
 [^15]: The commentaries note that the order of the clauses employed by the Rambam deviates slightly from the order of his source, *Terumot* 1:10.
+
 [^16]: The Rambam and previous Rabbinic sources cite several prooftexts for this law. Nevertheless, the *Siftei Cohen* 331:80 maintains that the law is a Rabbinic decree and the prooftexts are merely *asmachteot*, allusions cited for support. For that reason, after the fact, the separation is effective.
+
 [^17]: See Halachot 18-20 for more particulars concerning this issue.
+
 [^18]: When the grain has been threshed and winnowed and then the kernels separated from the chaff. Different commentaries suggest a slight change in the Rambam's wording which would cause the produce to be considered as complete at an earlier stage.
+
 [^19]: Because they will not be processed any further.
+
 [^20]: For then, the wine has been separated from the grapes.
+
 [^21]: For then, the oil has been separated from the olives.
+
 [^22]: The Jerusalem Talmud (*Terumot* 2:1) derives this concept from the prooftext cited above: "As grain from the granary and as wine from the vat." It is impossible that a vat will be partially pure and partially impure, so, too, *terumah* and the produce for which it is being separated must be either pure or impure."
+
 [^23]: In his Commentary to the Mishnah (*Terumot* 2:1), the Rambam explains the rationale for this law. Since the cake of figs is made from several discrete elements, it is not considered as a single entity with regard to the laws of ritual impurity. Hence, the fact that one portion has been touched by a source of ritual impurity does not cause another portion to become impure. Nevertheless, since it is one body of produce, *terumah* can be separated from one portion for the other.
+
 [^24]: In these instances as well, since the whole is made up of discrete entities, the fact that they are connected or somewhat associated is not of consequence (*ibid.*; see also *Hilchot Tuma'at Ochalin* 6:14).
+
 [^25]: For the two are not considered as being "in the same place" (*min hamukaf*). After the fact, however, the separation is acceptable.
+
 [^26]: The verse indicates that when one is separating *terumat ma'aser*, it is possible that there be a "sacred." i.e., pure, portion, and a portion that is not "sacred," i.e., impure, and the pure should be separated for the impure. As stated at the conclusion of ch. 3, the produce separated as *terumat ma'aser* need not be located together with the produce for which it is being separated.
+
 [^27]: The Radbaz states that this is a Rabbinic decree instituted so that the priest will not suffer a loss.
+
 [^28]: For according to Scriptural Law, the separation is effective. In his Commentary to the Mishnah (*Terumot* 2:2), the Rambam explains that this is speaking about a situation where initially, at the time the obligation to separate *terumah* took effect, the produce separated as *terumah* was pure. If, however, it became impure before the work associated with its preparation was completed, even if it was inadvertently separated as *terumah*, the separation is not effective.
+
 [^29]: And he must make another separation.
+
 [^30]: The *Sifri* derives this from the exegesis of [[Torah 38 - Korach#^18-26|Numbers 18:26]]: "And you shall separate from it...." Since the produce is still attached to the earth, it is not considered as the same type as the produce which is detached.
+
 [^31]: To reconcile the apparent contradiction between the Rambam's ruling here and that in the following clause, the commentaries explain that here we are speaking of attached produce that does not belong to the person who wishes to separate *terumah*. Ordinarily, if a person separated *terumah* from produce belonging to him for produce that does not belong to him, his separation is valid, as stated in Chapter 4, Halachah 2. In this instance, however, since the attached produce does not belong to him and he has no control of when it will be detached, he does not have the potential to designate his own produce as *terumah* for it.
+
 [^32]: This is his own produce which he is allowed to detach.
+
 [^33]: For until produce reaches this size, there is no obligation to separate *terumah*, as stated in Chapter 2, Halachah 10. Therefore, even if one separated *terumah* for it, the separation is not effective.
+
 [^34]: The *Siftei Cohen* 331:83 states that this is a Rabbinic decree, enacted as a safeguard so that one will not separate produce from one type over another. Hence, after the fact, the separation is effective.
+
 [^35]: To clarify the point under discussion in this halachah: As indicated by the concluding phrase of the halachah, "produce from the previous year" does not necessarily mean produce that is a year old. Instead, every Rosh HaShanah, the year of the agricultural cycle changes with regard to vegetables (*Rosh HaShanah* [[Rosh Hashanah 14#14b|14b]]). As the Rambam proceeds to explain, a Scriptural decree causes such produce to be considered as a discrete entity, distinct from the same type of produce harvested in the present year.
+
 [^36]: Even after the fact.
+
 [^37]: In its entirety, the verse reads: "Tithe all the crops of your sowing produced by the field, year by year." Implied is an exclusion: that the produce of each year is a separate entity. Although the verse refers to the tithes, the same principles also apply to *terumah*.  
     In his Commentary to the Mishnah (*Terumot* 1:5), the Rambam cites a different prooftext for the derivation of this principle.
+
 [^38]: In that era, *esrogim* were eaten as fruit, not only used for the mitzvah on Sukkot.
+
 [^39]: An *esrog* is singled out, because unlike other fruit, the time when it is picked - and not the time it reaches the stage of development when we are required to separate the tithes - determines the year of the agricultural cycle we follow. See *Hilchot Ma'aser Sheni* 1:1-4.
+
 [^40]: In his Commentary to the Mishnah (*Terumot* 1:5), the Rambam explains that this concept is derived from [[Torah 33 - Bechukotai#^27-30|Leviticus 27:30]]: "All the tithes of the land from the plantings of the land." Implied is that both the tithes and the produce must be from "the land," from *Eretz Yisrael*. Although the verse speaks of the tithes, the principle derived is also applied to *terumah*.
+
 [^41]: For according to Scriptural Law, Syria is also part of the Diaspora.
+
 [^42]: See Chapter 2, Halachah 9.
+
 [^43]: In this instance, the fundamental point the Rambam is emphasizing is the following clause: that even if the *terumah* was separated, the separation is not of consequence.
+
 [^44]: I.e., *terumah ma'aser*, the *terumah* that must be separated from the tithes.
+
 [^45]: In his Commentary to the Mishnah (*Terumot* 1:5, Rav Kapach's edition), the Rambam explains that this is referring to a situation in which a Levite took produce that he had been given as tithes by an Israelite, but from which he had not separated *terumat ma'aser* and desired to use it to separate *terumah* for produce from his own field from which he is obligated to separate *terumah*. This is unacceptable, because there is no longer any obligation to separate *terumah* from the produce given as tithes, even though there is an obligation to separate *terumat ma'aser* from it.  
     This explanation is somewhat unique. Most commentaries interpret the mishnah as referring to a situation where the person tithed his crop, but did not separate *terumah* from it. Nor did he separate *terumat ma'aser*. Afterwards, he desired to separate *terumah* for other produce from the tithes. The Rambam's interpretation avoids several difficulties that arise according to the other approach.
+
 [^46]: Produce separated as the second tithe must be eaten in Jerusalem in a state of ritual purity. It is not considered as the person's private property.
+
 [^47]: Since it is consecrated, there is no obligation to separate *terumah* or the tithes from it.
+
 [^48]: In all these instances, the produce that is being separated is holy and is not the owner's individual property. (For even the tithes which the Levites own have a dimension of holiness to them, because of the *terumat ma'aser* that has not been separated.) The Ra'avad raises objections to the Rambam's ruling. The Radbaz and the *Kessef Mishneh* respond to them. If, however, they would have followed the Rambam's explanation in his Commentary to the Mishnah as explained above, the difficulties would not arise.
+
 [^49]: According to Scriptural Law, there is no obligation to separate *terumah* from this produce. Hence, it is as if one is separating *terumah* from produce obligated in *terumah* for produce for which there is no obligation. The *Kessef Mishneh* explains that this general principle is derived from the law quoted in the following halachah.
+
 [^50]: For this is as if one is separating *terumah* from produce for which there is no obligation to separate *terumah*, for produce for which such an obligation exists.
+
 [^51]: This is a Rabbinic stringency. According to Scriptural Law, the separation is of no consequence at all.
+
 [^52]: According to the Radbaz and the *Kessef Mishneh*, this applies only to the second clause. The laws regarding the situation described in the first clause are explained in Halachah 16.  
     In the situation described in the second clause, the priest is allowed to partake of the produce, for although according to Scriptural Law, the separation is insignificant, there is no difficulty in having the priest partake of the produce for there is no obligation incumbent upon it.
+
 [^53]: Because the nurture from the power of growth in the earth is drawn to the earth in the flowerpot through the hole. This concept is relevant not only in this particular context, but in many others.
+
 [^54]: For then it can be considered to have derived nurture from the earth through its root. Hence, we are obligated to separate *terumah* from produce which grows within such a flowerpot according to Scriptural Law [the Rambam's Commentary to the Mishnah (*Demai* 5:10)].
+
 [^55]: If produce grows in a flowerpot without a hole, there is no obligation to separate *terumah* from it according to Scriptural Law (*ibid.*). Here a question arises, because the flowerpot was perforated afterwards. The Rambam clarifies that as long as the produce reaches a third of its growth, the point at which we are obligated to separate *terumah*, under conditions in which we are not obligated to separate *terumah*, an obligation is not incurred even though afterwards, those conditions change. See Halachah 9; see also Chapter 1, Halachot 11-13.
+
 [^56]: And thus enabled the produce to derive nurture from the earth.
+
 [^57]: For in both instances, we are obligated to separate *terumah* from both sets of produce according to Scriptural Law.
+
 [^58]: This is a Rabbinic decree, as stated in Halachah 14 and notes.
+
 [^59]: In order to fulfill the obligation of *terumah* as stated in Halachah 14.
+
 [^60]: The setting aside of the produce as *terumah* is not effective according to Scriptural Law. Hence, according to Scriptural Law, not only is this produce not *terumah*, it remains *tevel*, produce from which *terumah* and the tithes were not separated. Although our Sages ruled stringently and determined that it must be considered as *terumah*, they did not change its status as *tevel*. Hence, for the priest to partake of it, it is necessary that he separate *terumah* and tithes for it from other produce [see the Rambam's Commentary to the Mishnah (*Demai* 5:10)].  
     The *terumah* and the tithes for this produce must be separated from other produce, lest one think that what remains is ordinary produce and can be eaten be a person other than a priest (*Tosafot, Yevamot* 89b).
+
 [^61]: The term *demai* refers to produce concerning which we are uncertain whether the tithes were separated from it or not. According to Rabbinic Law, we are required to separate *terumat ma'aser*, *terumah* which the Levites are required to separate from the tithes from such produce (see *Hilchot Ma'aserot*, Chapter 9).
+
 [^62]: By Rabbinic decree. According to Scriptural Law, the produce separated is not *terumat ma'aser*, because it is possible that previously tithes and *terumat ma'aser* had been separated from the produce that was *demai*. Were that to be the case, one would be separating *terumat ma'aser* from produce for which one is obligated to make a separation from produce for which no such obligation exists. See the Rambam's Commentary to the Mishnah (*loc. cit.*).
+
 [^63]: Since it is possible that the separation of the *terumat ma'aser* is not effective, the owner must make a second separation.  
     In this instance, the priest is allowed to partake of the produce given him. The rationale is that in the second instance, when one separates *terumat ma'aser* from produce that is *demai* for produce from which we are certain that the tithes were not separated, the priest is certainly allowed to partake of the produce given him. If *terumat ma'aser* had not been separated from such produce previously, it is being made at present. And if it had been made previously, according to Scriptural Law, the produce to be given the priest is ordinary produce that may be consumed.  
     If the separation was made from produce that is *demai* for other produce that is *demai*, there is a difficulty, for it is possible that a separation had previously been made for the produce for which the *terumat ma'aser* is being separated, but not from the produce from which the separation is being made at present. Since such a separation is invalid according to Scriptural Law, in such an instance, the priest is being given produce from which tithes and *terumat ma'aser* have not been separated. Nevertheless, since the majority of the people do in fact separate tithes and the prohibition of *demai* is just a stringency, in this instance, our Sages were lenient (Rabbi Akiva Eiger).
+
 [^64]: This is a Rabbinic stringency as mentioned above.
+
 [^65]: For as in the previous halachah, if the original separation of *terumat ma'aser* is not effective - as would be the case if a separation had been made from the produce classified as *demai* - there is an obligation to separate *terumat ma'aser* from the produce being separated as *terumat ma'aser*. Hence, until that separation is made, the priest is forbidden to partake of the produce given him.  
     There is, however, a difference between this halachah and the previous one. In the previous instance, the separation had to be made from other produce, while in this instance, the separation can be made from the produce given to the priest. In the previous instance, care had to be taken because of the impression that might be created, i.e., an onlooker might not realize that there is a Rabbinic obligation to separate *terumot* and tithes from produce growing in a flowerpot that is not perforated. No such difficulty exists in this instance, because the obligations incumbent on *demai* are well known. See the gloss of Ra'avad to *Hilchot Ma'aser* 13:19.
+
 [^66]: This applies even if one separates a measure of produce sufficient to produce the said quantity of wheat, wine, or oil.
+
 [^67]: The Radbaz states that, after the fact, if a priest agrees to accept such produce, the separation is acceptable, for there are times when one will consider that preferable.
+
 [^68]: But have not been squeezed yet.
+
 [^69]: This is permissible as stated in Halachah 3.
+
 [^70]: In his Commentary to the Mishnah (*Terumot* 2:6), the Rambam explains that the Hebrew terms refers to olives that contain much oil and their oil is of high quality.
+
 [^71]: I.e., these olives have little oil. Hence, they are set aside to be used for pickling. Thus making such a separation would be considered as separating *terumah* from higher quality produce for lower quality produce which is permitted as stated above.
+
 [^72]: For this is considered as separating *terumah* from lower quality produce for higher quality produce which is forbidden as an initial preference, as stated in Halachah 3.
+
 [^73]: Boiling detracts from wine's flavor. Hence, one is separating *terumah* from higher quality produce for lower quality produce.
+
 [^74]: I.e., does not have dregs suspended in it.
+
 [^75]: When a priest is present and he is being given the figs, fresh figs are obviously considered as more desirable than dried figs.
+
 [^76]: For the measure of dried figs will be more compact than that of fresh figs. Thus the priest will be receiving a greater quantity of fruit.
+
 [^77]: E.g., giving and produce of a higher quality or giving more ample portions.
+
 [^78]: Kernels of wheat are considered as having an advantage over grain, because a) one can use them for whatever purposes one desires, and b) they store longer than grain.
+
 [^79]: i.e., how many kernels of wheat it would take to produce this quantity of bread.
+
 [^80]: As stated in Halachah 3. The *Shulchan Aruch* (*loc. cit.*:63) states that in the present era when the produce separated as *terumah* is discarded, there is no need to show these precautions.
+
 [^81]: See Halachah 4 above. In the situation described in that halachah, the person is not required to make a second separation, because our Sages felt that people understood that *terumah* should not be separated in such an instance and did not see the need for an additional safeguard. In this situation, since work with that produce has already begun, they felt that a safeguard was necessary (*Rambam LeAm*). Other commentaries offer different rationales for the difference in the rulings.
+
 [^82]: I.e., after he completed pressing the olives or treading the grapes, he should separate *terumah* a second time for that oil or wine [the Rambam's Commentary to the Mishnah (*Terumot* 1:8)].
+
 [^83]: A mixture of *terumah* and ordinary produce, as mentioned in Chapter 13, Halachah 2.
+
 [^84]: I.e., even if it is not mixed with the produce separated a second time in contrast to the situation described in Halachah 22. The rationale is that, in this instance, after the fact, the first separation is effective, as stated in Halachah 4 above.
+
 [^85]: See Chapter 6, Halachah 6.
+
 [^86]: For it is *terumah* only as a result of Rabbinic decree.
+
 [^87]: For at the time the *terumah* was separated, the work associated with this produce was completed according to his intent at that time [the Rambam's Commentary to the Mishnah (*Terumot* 1:9)]. Although he changed his mind, we do not penalize him for making such a decision (Radbaz).
+
 [^88]: For this is equivalent to separating produce of inferior quality for produce of superior quality which should not be done at the outset, as stated in Halachah 3. Nevertheless, if one made such a separation, after the fact, the separation s effective.
+
 [^89]: For when wine sours, it becomes vinegar.
+
 [^90]: For his separation was made in error and the error lowers the quality of the *terumah* (*Kessef Mishneh*).
+
 [^91]: For in this instance, his error improves the quality of the *terumah* (*Kessef Mishneh*; *Siftei Cohen* 331:95).
+
 [^92]: As in the previous halachah, this is speaking about an instance where the person had the intent of separating wine as *terumah*. If, however, he intended to separate vinegar, the separation is effective after the fact (Radbaz).
+
 [^93]: For at the time of the separation, wine was separated as the person intended. The fact that it soured afterwards is not his responsibility.
+
 [^94]: Because of the doubt involved. Perhaps it had not become sour at the time it was separated and the first separation was effective.
+
 [^95]: For perhaps it was sour before the first separation was made and thus the separation was not effective.
+
 [^96]: I.e., its contents are not fit for consumption [the Rambam's Commentary to the Mishnah (*Terumot* 3:1)].
+
 [^97]: In which instance, we fear that the holes were made by a poisonous snake which deposited its venom in the watermelon.
+
 [^98]: Because of the danger involved. We fear that perhaps a poisonous snake or the like deposited venom in it (*Hilchot Rotzeach UShemirat Nefesh* 12:2).
+
 [^99]: This appears to be speaking about a situation in which he is unsure when the snake drank from the wine before the *terumah* was separated or not.
+
 [^100]: I.e., since we are unsure which of the separations is effective, neither alone is considered as *terumah*.
+
 [^101]: As is required when one partakes of *terumah* inadvertently, as stated in Chapter 6, Halachah 6.
+
 [^102]: Although one of the two is obviously *dimua*, since we do not know which one, we rule leniently with regard to both.
+
 [^103]: In this instance, the *terumah* has obviously become mixed with the ordinary produce. Nevertheless, since we do not know which of the two is *terumah*, we require him to be concerned only with the smaller amount.
+
 [^104]: As is required when one partakes of *terumah* inadvertently, as stated in Chapter 6, Halachah 6.
+
 [^105]: Although both must be considered as *terumah*, because he does not have a definite obligation to give either to a priest.
+
 [^106]: For he is obligated to give at least the value of the smaller portion to the priest; for the remainder the priest must pay. Nevertheless, the price he pays for produce designated as *terumah* is less than that than he would pay for ordinary produce.
+
 [^107]: To make sure that it had not become vinegar.
+
 [^108]: I.e., the person took a barrel of wine and set it aside with the intent that he would consider an appropriate measure of wine from it as *terumah* for all the wine that he would continue to produce until the barrel became *terumah* in its entirety.
+
 [^109]: Thus there is a question regarding the status of the produce that he separated previously. For if the barrel had become vinegar earlier, the separation of *terumah* would not be effective, as stated above.
+
 [^110]: As explained above.
+
 [^111]: I.e., the person took a barrel of wine and set it aside with the intent that he would consider an appropriate measure of wine from it as *terumah* for all the wine that he would continue to produce until the barrel became *terumah* in its entirety.
+
 [^112]: When the flowers of the grape vine fall and the actual fruit begins to form.
+
 [^113]: When the juice of the grape begins to collect within the fruit.  
     Since these are times of change for grapes, there is also a possibility that wine will also be affected.
+
 [^114]: I.e., freshly squeezed grape juice.
+
 [^115]: For it is unlikely to turn into vinegar before then.
+
 [^116]: I.e., he sets aside produce to serve the same purpose as the wine mentioned in Halachah 24.
+
 [^117]: See Chapter 3, Halachah 17. As explained there, after the fact, such a separation is acceptable.
+
 [^118]: I.e., he should entertain the possibility that perhaps from the outset, the separation of the *terumah* was not acceptable.
+
 [^119]: As explained in Halachah 22.

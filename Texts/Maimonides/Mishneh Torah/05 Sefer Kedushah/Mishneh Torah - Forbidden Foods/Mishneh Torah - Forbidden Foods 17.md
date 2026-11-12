@@ -163,96 +163,177 @@ When does the above apply? When he acts on his own initiative.[^73] It is, howev
 **32.** Whoever is careful concerning these matters[^82] brings an additional measure of holiness and purity to his soul and purges his soul for the sake of the Holy One, blessed be He, as \[[[Torah 26 - Shmini#^11-44|Leviticus 11:44]]] states: "And you shall sanctify yourselves and you will be holy, for I am holy." ^17-32
 
 [^1]: If the pot was made out of metal, it is possible to purge the flavor of the non-kosher food the pot absorbed through *hagaalah*. This process is not effective with regard to an earthenware pot.
+
 [^2]: Since the dish contains meat and the flavor of the forbidden meat was absorbed in the pot, the laws applying to a forbidden substance mixed with its own type apply. Since we do not know how much of the forbidden substance is absorbed in the pot, we assume that the entire pot is forbidden. For this reason, the Rambam does not mention that if there is 60 times the amount of the forbidden food in the kosher food, the kosher food is permitted. For it is very rare that a pot be able to contain sixty times its own volume (Radbaz).
+
 [^3]: According to the Rambam, it should be tasted by a gentile to determine whether the forbidden flavor is detectable or not, as stated in Chapter 15, Halachah 30. As mentioned, the *Shulchan Aruch* (*Yoreh De'ah* 98:1) accepts the Rambam's premise, but the Rama states that in the present age, we do not rely on the statements of a non-Jew who tasted food to determine whether it is kosher or not.
+
 [^4]: The meaning of the Rambam's words is not clear. Rashi (*Avodah Zarah* [[Avodah Zarah 75#75b|75b]]) interprets the term as meaning "which has not been left overnight." *Tosafot*, by contrast, states that it means "that has not been left for 24 hours." The *Shulchan Aruch* (*Yoreh De'ah* 103:5) follows the latter view.
+
 [^5]: After that time, however, the flavor is impaired and thus will not cause a substance cooked in the pot to become forbidden.
+
 [^6]: This is a safeguard less cooking in a pot that had not been used for non-kosher food for a day lead to cooking in one that had been used for non-kosher food that day (*Avodah Zarah*, loc. cit.).
+
 [^7]: Our Sages did not enforce their decree after the fact. Nevertheless, at the outset, an earthenware pot that was used for non-kosher food may never be used.
+
 [^8]: See Halachah 5 regarding the obligation for this immersion.
+
 [^9]: Lest any forbidden food be stuck to them.
+
 [^10]: This will purge any forbidden food that was absorbed in them. There should be at least one day between the last time a pot was used for non-kosher food and the time when *hagaalah* is performed.
+
 [^11]: See *Shulchan Aruch* (*Yoreh De'ah* 121:2 which discusses what must be done if they were immersed in the *mikveh* before *hagaalah* was performed.
+
 [^12]: That the forbidden article and the utensil were in direct contact with fire without a medium of water or any other liquid.
+
 [^13]: Only then will the forbidden flavor that was absorbed be purged.
+
 [^14]: In that way, there will not be any portion of it that is not exposed to the water.
+
 [^15]: I.e., we follow the principle: "As it absorbed a forbidden flavor, so it purges it." Hence boiling it thoroughly will cause any forbidden taste that is absorbed to be purged.
+
 [^16]: And thus it would be difficult to submerge it a larger pot.
+
 [^17]: And thus the boiling water will also cover the edge.
+
 [^18]: In Halachah 2.
+
 [^19]: As the Jerusalem Talmud (*Avodah Zarah* 5:15) states, this immersion was instituted to mark the article's transition from the impurity of the gentiles.
+
 [^20]: Most commentaries understand the Rambam as explaining that the requirement for immersion is an *asmachta*, i.e., an obligation that is essentially Rabbinic in origin. Although our Sages cited a verse that can be seen to allude to it, the intent is not that the obligation is derived from the verse. Instead, the verse is merely a hint which the Rabbis found to allude to their teaching (Rabbenu Nissim).  
     There are, however, others who note that the Rambam occasionally employs the term he employs here - *midvrei sofrim* - to refer to obligations and laws that are of Scriptural origin. They are not explicitly stated in the verse, but instead derived through the principles of Biblical exegesis. According to this view, the obligation is of Scriptural origin (the Rashba, Vol. III, Responsum 255, 259).
+
 [^21]: I.e., after you have purged it from the taste absorbed because of gentile cooking, add another dimension of purity through immersion.
+
 [^22]: This requirement also applies to glass dinnerware, as stated in Halachah 3.  
     *Avodah Zarah* [[Avodah Zarah 75#75b|75b]] explains the association with metal utensils as follows. Our Sages associated this obligation with the purification of the spoil taken in the war against Midian and the verse which mentions those spoils ([[Torah 42 - Matot#^31-22|Numbers 31:22]] refers to metal utensils. Glass utensils are also included, because, halachically, they share similarities to metal utensils.
+
 [^23]: I.e., utensils used to prepare, serve, or partake of food. Even utensils that are used in the preliminary phases of preparation of food, e.g., a knife used to slaughter or skin an animal, are required to be immersed according to certain authorities [*Shulchan Aruch* (*Yoreh De'ah* 120:5)].
+
 [^24]: For even though he has permission to use them, he has not become their owner. The *Kessef Mishneh* quotes certain opinions that maintain that utensils taken as security must be immersed, because if the debt is not repaid, they are considered as payment [see *Shulchan Aruch* (*Yoreh De'ah* 120:5).  
     In this context, there are many authorities who question why the utensils that are "purchased" by a gentile before Pesach are not required to be immersed.
+
 [^25]: Needless to say, plastic utensils need not be immersed.
+
 [^26]: The Rama ((*Yoreh De'ah* 120:1) states that they should be immersed without a blessing.
+
 [^27]: By exposing the knife to fire, the person will burn away any non-kosher substances. By honing it, he will grind away its surface and together with it, the taste of the forbidden substance it absorbed.
+
 [^28]: One must insert it in ten different places in the earth. It is not sufficient to insert it in the same place ten times [*Tur* and *Shulchan Aruch* (*Yoreh De'ah* 121:7)].
+
 [^29]: For sticking it into the earth will remove any traces of forbidden fat on its surface and the taste of forbidden food that is absorbed will not be released when it is used for cold food.
+
 [^30]: These activities may cause any forbidden taste absorbed by the knife to be released. Hence before the knife is used, the traces of the forbidden flavor must be removed as above.  
     The Rama (*Yoreh De'ah* 121:7) quotes opinions that maintain that honing the knife is not sufficient to allow it to be used for hot foods. He states that this is accustomed practice. Even so, after the fact, if a person slaughtered an animal with a knife that was honed in a grinder, thre is no prohibition involved (*Siftei Cohen* 121:20).
+
 [^31]: To remove any traces of forbidden fat that might be present.  
     This is permitted only after the fact. At the outset, it is forbidden to slaughter with such a knife unless measures are taken to remove the absorbed fat (*Siftei Cohen* 10:8).
+
 [^32]: For according to some opinions, through the slaughter of the animal, the forbidden fat on the knife can become absorbed in the surface of the meat where the animal was slaughtered. Hence it is necessary that it be removed. The Rama (*Yoreh De'ah* 10:1) rules that it is necessary to take this measure and remove the surface of the meat.
+
 [^33]: To remove any trace of forbidden blood or fat. Nothing more is necessary, we do not say that the blood or fat became absorbed in the knife.  
     The *Turei Zahav* 10:15 states that unlike a knife used by gentiles mentioned in the previous halachah, it was not used frequently with a non-kosher substance. Hence washing it thoroughly is sufficient.
+
 [^34]: These decrees were about the eighteen decrees passed when the students of the School of Shammai outnumbered the students of the School of Hillel, as related in *Shabbat* 1:3 (the Rambam's Commentary to the Mishnah, *Avodah Zarah* 2:6).
+
 [^35]: See the following halachah.
+
 [^36]: See Halachot 12-24.
+
 [^37]: E.g., the food was cooked by gentiles on Jewish premises (the Rambam's Commentary to the Mishnah, *loc. cit.*).
+
 [^38]: See Chapter 11, Halachah 9.
+
 [^39]: The *Tur* and the *Shulchan Aruch* do not mention this restriction or the accompanying leniency. The *Beit Yosef* (*Yoreh De'ah* 112) explains the Rambam's logic as follows: *Avodah Zarah* [[Avodah Zarah 30#30a|30a]] relates that one of the Sages, Shmuel was sitting with Abalat, a gentile. They were served boiled wine. Abalat withdrew, lest he touch the wine and cause it to become forbidden. Shmuel called him back, telling him there was no prohibition against boiled wine.  
     Rabbenu Asher asks: Since the prohibition against gentile wine was instituted as a protection against intermarriage, what difference does it make whether the wine is boiled or not? He answers that boiled wine is not common. Hence our Sages did not include it in their decree.  
     Rambam maintains that boiled wine is common and hence included in our Sages' decree. For this reason, it is forbidden to drink it together with gentiles. How then could Shmuel drink with Abalat? Because there were a majority of Jews at the gathering and such a situation is not included in our Sages' decree.
+
 [^40]: Thus according to the Rambam [and the *Shulchan Aruch* (*Yoreh De'ah* 114:1) who quotes his ruling, it is forbidden to drink at a bar frequented primarily by gentiles. The Rama mentions that it is customary in the Ashkenazic community to rule leniently with regard to alcoholic beverages made from honey and grain.
+
 [^41]: Hence a gentile's touch renders it forbidden.
+
 [^42]: Because bread is a staple of life and there is no Jewish bread available, our Sages allowed for leniency when purchasing bread from a commercial baker. For buying from him will not lead to close personal relationships. Nevertheless, according to the Rambam, this leniency is granted only: where there is no Jewish bakers and in the fields, not in the cities. The *Shulchan Aruch* (*Yoreh De'ah* 112:2) rules more leniently and does not forbid this in a city. The Rama rules even more leniently and allows the purchase of bread from a gentile baker even in places where bread from a Jewish baker is available.
+
 [^43]: There are opinions which maintain when there is no bread from a commercial baker available, one may even use bread baked by a gentile homeowner [*Shulchan Aruch* (*Yoreh De'ah* 112)]. The Rama states that one may accept this leniency.
+
 [^44]: The Radbaz states that this leniency applies only with regard to baking bread. With regard to cooking, a Jew must take a more active role in the cooking process. This ruling is quoted by the *Shulchan Aruch* (*Yoreh De'ah* 113:7). The Rama, however, differs and maintains that kindling the oven is sufficient for cooking as well.
+
 [^45]: There is a slight difficulty with the Rambam's statements, because quince are only edible when cooked.
+
 [^46]: Today, when monarchy is a point of history, the phrase "fit to be served on the table of kings" refers to food served at a dinner for the President or dignitaries of similar status.
+
 [^47]: *Avodah Zarah* [[Avodah Zarah 38#38a|38a]] gives this and the leniency mentioned in the previous halachah as alternate explanations when food cooked by gentiles is permitted. Since the matter is left unresolved by the Talmud, the Rambam and the subsequent authorities rule leniently in both situations.
+
 [^48]: A legume used as cattle fodder, but also served to humans on occasion.
+
 [^49]: The Kessef Mishneh states that this is speaking about fish that are frequently served salted even without being cooked (e.g., sardines or herring served in brine). It is permitted to eat such fish for, as the Rambam states in the following halachah, in this context, salting is not considered as cooking. This leniency does not apply to large fish, for they are unfit to be eaten unless they are cooked or roasted. The *Shulchan Aruch* (*Yoreh De'ah* 103:12) mentions this ruling, but also a dissenting view that allows leniency even with regard to large fish.
+
 [^50]: Since they were fit to be eaten before they were roasted, the fact that they were roasted by a gentile afterwards does not cause them to be forbidden. This applies even when a gentile performed the salting. For that salting did not cause the fish to become forbidden and yet, it made it fit to be eaten (*ibid.*).
+
 [^51]: In his *Kessef Mishneh*, R. Yosef Caro rules that this applies only when the cooking process would have been completed without the gentile's activity; the gentile merely hastened it. He does not, however, quote this ruling in his *Shulchan Aruch*. The Rama (*Yoreh De'ah* 113:6) rules that even if the food would not have cooked without the gentile's activity, it is permitted. The *Turei Zahav* 113:6 and the *Siftei Cohen* 113:8, however, raise questions concerning that leniency.
+
 [^52]: In contrast to certain other halachic contexts.
+
 [^53]: See the conclusion of Halachah 15.
+
 [^54]: Implied is that the designation of a food as important enough to be served on the tables of kings is a relative matter, determined by each locale in accordance with its own practice (*Makor Mayim Chayim*).
+
 [^55]: For this is frequently done in order to flavor beans.
+
 [^56]: I.e., cooked that day. The *Kessef Mishneh* states that, according to the Rambam, we assume that a pot owned by a gentile had been used to cook non-kosher food that day. This is not the view of the majority of Halachic authorities.
+
 [^57]: For we fear that the gentile used non-kosher fat or that the fryer in which they are prepared was used that day for non-kosher meat.
+
 [^58]: When quoting this law, *Shulchan Aruch* (*Yoreh De'ah* 113:5) emphasizes that if the gentile intends to cook, even if he did not intend to cook a particular substance, that substance is forbidden. For example, when a gentile lit an oven with the intent of cooking food without realizing that there was meat in the oven, the meat is forbidden.
+
 [^59]: Since they can be eaten fresh, they are not forbidden when cooked (Halachah 14).
+
 [^60]: *Avodah Zarah* [[Avodah Zarah 38#38b|38b]] relates that it was customary to eat a dish made from roasted lentils mixed with vinegar. This was considered like cooking. As a safeguard against partaking of such a mixture, they also forbade roasted lentils mixed with water. It was not, however, customary to partake of grain mixed with vinegar. Hence, there was no reason to forbid grain mixed with water.
+
 [^61]: The wording the Rambam uses alludes to the Biblical prohibition of the rebellious elder (see Deuteronomy, ch. 17, and *Hilchot Mamrim*, ch. 3). The Jerusalem Talmud (*Avodah Zarah* 2:8) relates that Rav once refused to partake of gentile oil. Shmuel ordered him to do so. "If not," he threatened, "I will have you labeled a rebellious elder."
+
 [^62]: *Avodah Zarah* [[Avodah Zarah 35#35b|35b]] states that Rabbi Yehudah HaNasi and his court permitted gentile oil to be used.
+
 [^63]: I.e., the flavor of forbidden meat absorbed in the pot.
+
 [^64]: I.e., because it is ordinarily eaten raw and because meat spoils its flavor.
+
 [^65]: Which would be boiled to make beer.
+
 [^66]: *Avodah Zarah* [[Avodah Zarah 38#38b|38b]] originally postulates that only date dregs cooked in small pots with openings too narrow to put in non-kosher meat are forbidden. The conclusion of the passage, however, permits even date dregs cooked in large pots for the reason mentioned by the Rambam.
+
 [^67]: In some halachic contexts, pickling is considered as cooking. Nevertheless, with regard to this prohibition, our Sages ruled leniently. We do not forbid them because of the suspicion that wine or vinegar will be sprinkled over them, because wine or vinegar would not be sprinkled over them in the storeroom, only in a retail outlet [Rashi (*Avodah Zarah* [[Avodah Zarah 39#39b|39b]])].
+
 [^68]: Because of the gentile wine.
+
 [^69]: As stated in Chapter 11, Halachah 13, vinegar made from gentile wine is forbidden. And as indicated in the next halachah, other types of vinegar are also forbidden.
+
 [^70]: For if wine dregs were cast into the vinegar in the storage room, it would spoil (*Avodah Zarah* [[Avodah Zarah 32#32b|32b]]). In a store, however, we assume that it will be sold quickly and in that brief time, it will not spoil (*Turei Zahav* 114:5).
+
 [^71]: Although the Rambam's wording in *Hilchot Shabbat* 24:11 might lead one to think that one must rebuke a child for performing a task forbidden by Scriptural Law, both the *Maggid Mishneh* and the *Kessef Mishneh* explain that his statements there should be interpreted within the context of his statements here.
+
 [^72]: Hence, he is not responsible for his actions.
+
 [^73]: Note, however, the Rama (*Orach Chayim* 243:1) which quotes opinions that maintain that once a child has reached the age where he is fit to be educated in the observance of the mitzvot, the court - and every individual person - is obligated to rebuke for transgressing.
+
 [^74]: To give a contemporary example, a parent cannot have a child turn lights on and off on the Sabbath.
+
 [^75]: As the Rambam explains in *Hilchot Shabbat* 21:1, the term *shvut* refers to activities forbidden by Rabbinic Law, because they resemble forbidden labors or because they might lead one to commit a forbidden labor.  
     Note, however, the *Shulchan Aruch HaRav* 243:1 which rules that when there is a necessity, not even a severe necessity, Rabbinic prohibitions can be overstepped with regard to a child.
+
 [^76]: This is a general charge, applying to the Torah and its mitzvot in their totality.
+
 [^77]: See the notes to the following halachah with regard to whether these restrictions are of Scriptural or Rabbinic origin.
+
 [^78]: The Radbaz states that one partake of such foods for curative purposes if necessary.
+
 [^79]: The *Bayit Chadash* (*Yoreh De'ah* 116) states that this also applies to metal utensils. The Rambam mentions glass only because that was the ordinary practice at that time.
+
 [^80]: See the *Beit Yosef* (*Yoreh De'ah* 116) who debates whether the prohibition mentioned in this and the previous halachah are of Rabbinic or Scriptural origin. It is possible to explain that the restrictions were instituted by the Rabbis and they employed the Biblical verse merely as an *asmachta*, an allusion and a hint, but not a source per se.  
     The wording of the Rambam here and his statements in *Sefer HaMitzvot* (negative commandment 179) imply that the prohibition itself is Scriptural in origin. The only reason a person is not given lashes is because the simple meaning of the verse refers to the prohibition against teeming animals.
+
 [^81]: See *Shulchan Aruch HaRav, Mahadura Basra* 3:11 which mentions several points concerning this restriction:  
     a) Our Sages did not, however, require their ordinance to override considerations of public embarrassment. For example, [a person is allowed to wait] until he finds a private place to relieve himself or until he will not be causing an interruption in prayer.  
     b) The Rashba maintains that the prohibition "not [to] make your souls detestable" does not apply to deferring urination. c) Whenever one can contain himself, whether from urinating or from eliminating, for the length of time it takes to walk a parsah (a Persian measure equal to approximately four kilometers), all opinions agree that the prohibition "not [to] make yourselves loathsome" does not apply.
+
 [^82]: It would appear that the Rambam's intent is not only the subjects spoken about in the last halachot, but also the totality of the laws of kashrut.

@@ -23,10 +23,12 @@ aliases:
 |---|---|
 | Frag. 1-7 | Lev 1:11 - 3:1 |
 | Frag. 8 | Lev 3:8-14 |
-| Frag. 9 i, 10-17 | Lev 21:17-20; |
-| Frag. 4 | Lev 4:23-28 |
-| Frag. 5 | Lev 5:12-13 |
-| Frag. 6 | Lev 8:26-28 |
-| Frag. 7-9 | ? |
+| Frag. 9 i, 10-17 | Lev 21:17-20; 21:24 - 23:1 |
+| Frag. 9 ii, 11 ii, 18-20 i | Lev 23:2-25 |
+| Frag. 21 | Lev 23:40 |
+| Frag. 20 ii, 22-25 | Lev 24:2-23 |
+| Frag. 26 | Lev 25:28-29 |
+| Frag. 27-28 | Lev 25:45-49.51-52 |
+| Frag. 29-30 | ? |
 
 [[DSS 4Q23|← 4Q23]] · [[Qumran|index]] · [[DSS 4Q25|4Q25 →]]

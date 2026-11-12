@@ -132,115 +132,223 @@ Whenever we have said that a person must make restitution for the principal and 
 Whenever he makes restitution, he must pay for the worth of the grain at the time he partook of it whether its value depreciated at the time he made restitution or appreciated.[^109] ^10-26
 
 [^1]: As stated in Halachah 26, the intent is one fifth of the new total. Thus if a person eats the value of four measures of grain, he must pay five. Moreover, he may not use grain that is *terumah* to make restitution, he must use ordinary grain (which is more expensive). This fifth becomes considered as *terumah* itself and must be eaten in a state of ritual purity. See also Halachah 15.
+
 [^2]: At the hand of heaven.
+
 [^3]: Since these are the ways in which one may benefit from *terumah* (see Chapter 11, Halachah 1), these are the ways for which one is liable for partaking of it.
+
 [^4]: The implication of the verse is that just as eating involves tangible physical satisfaction, so too, smearing oneself produces tangible physical satisfaction.
+
 [^5]: It appears that in contrast to the intentional violation of the prohibition mentioned in Halachah 5, in this instance, the transgressor should pay the full value of the *terumah* even if it is ritually impure. The rationale is that here a person is receiving atonement for his transgression. Hence, he is required to make full payment.
+
 [^6]: The Radbaz explains at length why although with regard to most prohibitions, the minimum measure for which one is liable for drinking is a *revi'it* of a *log*, a larger measure than an olive-sized portion, in this instance an exception is made. The basis of his explanation is that this prohibition focuses on "eating" *terumah*, and as stated above, intaking an olive-sized portion constitutes eating.
+
 [^7]: I.e., an equivalent of three egg-sized portions. If a person stretches out his consumption of an olive-sized beyond this time span, it s not considered as "eating," for he will not have ingested a significant amount at once. The Rabbis mention different opinions with regard to this time span, referred to as *k'dai achilat pras*, some as brief as 2 minutes and some as long as 9 minutes. Based on Shiurei Torah, the suggested practice is to consider *k'dai achilat pras* as 4 minutes with regard to eating matzah on Pesach, but 9 minutes with regard to eating on Yom Kippur. See also *Hilchot Ma'achalot Assurot* 14:9 and notes.
+
 [^8]: The time to drink a *revi'it* is much less than *k'dai achilat pras*. The Ra'avad objects to the Rambam's ruling, maintaining that the latter measure of time should be applied in this instance as well. The Radbaz and the *Kessef Mishneh* cite sources to support the Rambam's view and note that he mentions this measure of time for drinking both with regard to the prohibition against drinking on Yom Kippur (*Hilchot Shevitat Esor* 2:4) and the prohibition against drinking gentile wine (*Hilchot Ma'achalot Assurot* 14:9). They do note, however, that in *Hilchot Sha'ar Avot HaTumah* 8:11, however, the Rambam mentions the time span of *k'dai achilat pras* even with regard to drinking.  
     They differentiate between the rulings as follows: In all the instances involving prohibitions against eating, the Rambam mentions the time to drink a *revi'it* because a person will not feel satisfaction if his drinking the minimum measure is stretched out over a longer span of time. In *Hilchot Sha'ar Avot HaTumah*, by contrast, the concept involves considering a person ritually impure because of his having ingested a quantity of liquid. As long as he does not wait longer than *k'dai achilat pras*, the liquid is still collected in his digestive system and has not begun to circulate throughout his body.
+
 [^9]: Produce that we are unsure whether or not the tithes have been separated. The Rama (*Yoreh De'ah* 331:59) explains that the term is a composite of two Aramaic words *da mai* which mean: "What is this?", i.e., the person is unaware of the status of the produce with which he is dealing.
+
 [^10]: The portion of dough separated and given to the priests.
+
 [^11]: I.e., if one eats a little bit of any combination of these forbidden substances and the entire amount is an olive-sized portion, one is liable.
+
 [^12]: If the transgression was intentional.
+
 [^13]: If the transgression was performed unknowingly.
+
 [^14]: *Challah* is referred to as *terumah* in [[Torah 37 - Sh'lach#^15-20|Numbers 15:20]] and the first fruits are referred to as *terumah* in [[Torah 47 - Re'eh#^12-17|Deuteronomy 12:17]].
+
 [^15]: *Hilchot Ma'aser Sheni* 5:4. Since we are speaking about *d'mai*, produce from which separations are being made because of a doubt, there is no obligation according to Scriptural Law to add a fifth. With regard to *ma'aser sheni*, our Sages felt that if the obligation of an additional fifth was imposed, people would ignore the obligation to separate *ma'aser sheni* from *d'mai* entirely. With regard to *terumat ma'aser* from *d'mai*, they felt the converse is true. Were the obligation of an additional fifth not imposed, people would not treat the obligation to separate *d'mai* seriously.
+
 [^16]: A person never receives both corporal punishment and a financial penalty. Hence, he is liable only for lashes. See the notes to Chapter 6, Halachah 6, which explain why here he is punished by lashes and not required to make restitution.
+
 [^17]: When he makes restitution, the produce he gives the priest is considered as ordinary produce and not as *terumah* (*Terumot* 7:1).
+
 [^18]: An addition of a fifth was required only in the case of inadvertent transgression. In his Commentary to the Mishneh (*Terumot* 7:1), the Rambam explains that the additional fifth was instituted for atonement and that was possible only when the transgression was violated unintentionally. When it was violated intentionally, the sin is too great for atonement to be granted in an ordinary manner.
+
 [^19]: For *terumah* can only be eaten only when it is ritually pure.
+
 [^20]: Since they have no value, there is no need for restitution.
+
 [^21]: The Ra'avad objects to the Rambam's decision, noting that it is the subject of a difference of opinion between the Sages of the Mishneh (see *Pesachim* [[Pesachim 32#32a|32a]]) and the opinion stated by the Rambam does not appear to be accepted in a definitive manner. The Radbaz and the *Kessef Mishneh* provide interpretations of that passage that justify the Rambam's ruling.
+
 [^22]: *Pesachim, loc. cit.,* speaks about an instance where a person steals *terumah* that is matzah from a priest and ate it. Even if it became *chametz* in the thief's domain in which instance, the thief caused the priest a loss, the thief is not liable financially.
+
 [^23]: See *Hilchot Chametz UMatzah* 1:2,4, *et al*.
+
 [^24]: When a person is forbidden to eat. In this instance, the prohibition rests on the person (the *gavra* in yeshivah terminology) and not the *cheftza*, the article in question. Hence he is liable.
+
 [^25]: I.e., dough that is *terumah* is discovered with holes in it. Our Sages fear that the holes were made by a poisonous snake who deposited his venom in the dough. Hence, they forbade partaking of it (*Hilchot Rotzeach UShemirat Nefesh* 12:1).
+
 [^26]: This too was forbidden for a similar reason. We fear that a poisonous snake drank from it and deposited his venom there (*ibid.*:6-7). In these two instances, although the substances are forbidden, they are forbidden only in consideration for the person's wellbeing. There is no ritual prohibition resting on the foods. Hence one is liable.
+
 [^27]: Halachah 11 states that one drinks oil or smears oneself with wine, he is liable only for the principal, for as the commentaries state there, that is not the customary manner of benefiting from these substances. In this halachah, the Rambam clarifies that if one combines the substances as he states here, this is considered as the normal pattern and one is liable.
+
 [^28]: The Ra'avad notes that there is a difference of opinion concerning this matter in the Jerusalem Talmud (*Terumot* 6:1). The opinion cited by the Rambam is advanced by Rabbi Yehudah HaNasi while the majority of the Sages differ. Hence, he maintains that the Sages' view should be followed for, as stated in the following halachah with regard to barley, eating uncooked kernels of wheat is harmful. The Radbaz and the *Kessef Mishneh* justify the Rambam's view. As stated in *Hilchot Berachot* 3:2, one is required to make a blessing when eating such kernels. This indicates one is deriving benefit and if one derives benefit from *terumah*, he is required to make restitution.
+
 [^29]: It is uncommon to partake of these foods in this manner. Nevertheless, it is not so infrequent a practice to reduce one's liability.
+
 [^30]: Note the parallel with regard to the prohibition against eating on Yom Kippur (*Hilchot Shivitat Esor* 2:7). There too the Rambam rules that consuming food in such a state is not considered as "eating."
+
 [^31]: If, however, he chewed them before swallowing them, the second person is not liable at all. For once they have been chewed, they are entirely worthless (Radbaz).
+
 [^32]: For swallowing the fruit whole is also considered eating.
+
 [^33]: After the person swallowed the prunes, the sanctity of *terumah* within them is considered to have been desecrated. For that reason, the first person who swallowed them is required to make restitution. They become his property and the second one is liable as one who damages the property of the first.
+
 [^34]: Whom he agreed to supply with meals in addition to their wages.
+
 [^35]: In his Commentary to the Mishnah (*Terumot* 6:3), the Rambam elaborates on why the guests and not the host are responsible, citing the principle (*Kiddushin* [[Kiddushin 42#42b|42b]]) that a person cannot act as an agent to perform a transgression for a colleague. Instead, the transgression is solely the responsibility of the person who performed it, in this instance, the people who partook of the food.
+
 [^36]: I.e., the full price of the meal were it to have been prepared from ordinary produce.
+
 [^37]: For this reason, it is preferable for the workers to have the employer pay them rather than having him pay the principal for the *terumah* (Radbaz).
+
 [^38]: Note a similar ruling in *Hilchot Mechirah* 16:14. This principle is stated by the Jerusalem Talmud (*Terumot, loc. cit.*) in explanation of the reason the employer is required to reimburse his workers. Seemingly, he was required to provide them with a meal. He did and they ate to their satisfaction, why then is he liable to them? Our Sages explain, based on the above principle, that since the food was forbidden, their souls did not derive true satisfaction from it and hence, he is required to give them a meal.
+
 [^39]: The children are not liable, for they are not obligated in the observance of the mitzvot.
+
 [^40]: The servants are not liable, for they have no independent financial capacity.
+
 [^41]: See Halachah 15 which states that whenever a person is required to pay only the principal, the grain that he pays is not considered as *terumah*.
+
 [^42]: For it is forbidden only according to Rabbinic Law and the Sages did not require this additional payment.
+
 [^43]: One is not liable in this instance, because the prooftext requiring payment of the additional fifth mentions "eating," and eating or drinking less than an olive-sized portion is not considered as "eating" [the Rambam's Commentary to the Mishnah (*Terumot* 7:3)].
+
 [^44]: Wine is forbidden to a nazirite whether it is *terumah* or not and our Sages explain that eating a forbidden substance is not considered "eating." In this context, a distinction can be made between eating on Yom Kippur which is an *issur gavra*, i.e., the food is not forbidden, the person is forbidden to partake of it, and wine for a nazirite, which is an *issur cheftza*, the wine itself becomes forbidden for him (*Pri Megadim, Eshel Avraham* 202:11). This explanation resolves an objection lodged by the Ra'avad who cites a *Tosefta* that rules differently than the Rambam.
+
 [^45]: In the latter two instances, these are not ordinary ways of benefiting from these products.
+
 [^46]: Since she was entitled to partake of *terumah* previously, a distinction is made between her and other non-priest. See the *Sifra* to [[Torah 31 - Emor#^22-12|Leviticus 22:12]].
+
 [^47]: The daughter of an Israelite married to a priest who was therefore entitled to partake of *terumah* [the Rambam's Commentary to the Mishnah (*Terumot* 8:1)].
+
 [^48]: As in the previous clause.
+
 [^49]: The *Kessef Mishneh* explains that since it is a pressing time, it is considered as if the transgression was violated due to forces beyond her control (*ones*).
+
 [^50]: E.g., his son was a *challal* or he had no sons and his daughter was married to an Israelite (*ibid.*).
+
 [^51]: With regard to the servant, the same logic that applies with regard to the women mentioned previously applies to him. Since he was allowed to partake of *terumah* previously, he is not held responsible for the additional fifth. With regard to the priest who was disqualified, we find that he still has a certain vestige of connection to the priesthood, as evidenced by the fact that were he to bring an offering in the Temple, it would be acceptable after the fact (*Hilchot Bi'at HaMikdash* 6:10). Therefore it is sufficient for him to make restitution for the principal [the Rambam's Commentary to the Mishnah (*loc. cit.*)].
+
 [^52]: Even though by spitting it out, he is spoiling the *terumah*, that is preferable to swallowing it. For until he swallows it, he is not considered to have partaken of it (Radbaz).
+
 [^53]: In these instances, when he began eating, he was permitted to do so, it is only afterwards, that he or the *terumah* became impure.
+
 [^54]: Thus from the outset, he should not have partaken of the *terumah*.
+
 [^55]: In which instance, it is forbidden to partake of it until the appropriate separations are made.
+
 [^56]: The second tithe which cannot be eaten outside of Jerusalem unless it is redeemed.
+
 [^57]: And the disgusting taste of the bug prevented him from swallowing the *terumah* [the Rambam's Commentary to the Mishnah (*loc. cit.*)].
+
 [^58]: In this instance, although there is reason to suspect that the *terumah* fell into the other container, we consider it as ordinary produce. The rationale is that we were operating under the *chazzakah*, prevailing assumption, that the container was filled with ordinary produce. Hence, unless there is a strong likelihood otherwise, we continue to operate under that perspective.  
     This reflects a principle that has ramifications beyond the laws of *terumah*. Although generally, we maintain that when there is a doubt regarding a Scriptural prohibition, we rule stringently, in this instance, since there is a plausible explanation for the lenient ruling, it is accepted. See also Chapter 13, Halachah 13-14, and the *Tur* and the *Shulchan Aruch, Yoreh De'ah*, sec. 111.  
     There is, however, a point that has to be clarified. In Chapter 13, it is explained that this principle applies with regard to matters of Rabbinic Law, but not matters of Scriptural Law, and yet, here we are dealing even with questions involving *terumah* of Scriptural status. Nevertheless, there is no difficulty, because here we are not speaking about whether it is permissible to partake of the mixture or not. That question was discussed in Chapter 13, and the ruling was rendered that it is forbidden. Here the question concerns financial restitution: Is the non-priest required to pay for the produce that he ate? With regard to this point, the Rambam explains that we can use the above reasoning.
+
 [^59]: For the additional fifth. The principal, i.e., the remaining container, must certainly be given to the priest. For if the one which was eaten was *terumah*, the second one should be given to him as payment for the first. And if the one that was eaten was not *terumah*, than the remaining one is and it must be given to the priest.
+
 [^60]: Thus if the priest seeks to expropriate the additional fifth, he must prove that the container consumed was *terumah*.  
     This is a fundamental principle in Jewish Law. Whenever there is a doubt with regard to the ownership of money or movable property, the person in physical possession of the property in question is allowed to maintain possession until the claimant proves his claim. See *Hilchot Mechirah* 20:5, *et al*.
+
 [^61]: From the additional fifth. For in this instance as well, we are not certain that he partook of *terumah*.
+
 [^62]: For he definitely partook of *terumah*. Nevertheless, since we do not know which one was *terumah*, he can only be held liable for the smaller one, because of the principle stated above.
+
 [^63]: For the fifth originally added becomes considered as *terumah* and compensation must be made for it.
+
 [^64]: I.e., it must be eaten in a state of ritual purity.
+
 [^65]: When [[Torah 24 - Vayikra#^5-24|Leviticus 5:24]] speaks of adding a fifth, it uses a form that could be interpreted as plural, "its fifths." The implication is that he may have to add many fifths [the Rambam's Commentary to the Mishnah (*Terumot* 6:1)].
+
 [^66]: I.e., if it becomes mixed with ordinary grain, the laws of *dimua* (the mixture of *terumah*) apply (*ibid.*).
+
 [^67]: In contrast, grain growing from *terumah* is considered as *terumah* (Chapter 11, Halachah 21).
+
 [^68]: For we are not speaking about a mere financial payment owed the priest, but a means of attaining atonement.
+
 [^69]: See Halachah 5 and Halachot 11-12.
+
 [^70]: I.e., none of the restrictions of *terumah* apply to it.
+
 [^71]: I.e., it had been separated, but had not been given to a priest.
+
 [^72]: She must separate this grain to receive atonement. Nevertheless, since as a priest's wife, she is entitled to partake of *terumah*, she may take the *terumah* she separates as her own.
+
 [^73]: That priest.
+
 [^74]: Or she was widowed and left childless (Radbaz).
+
 [^75]: See *Hilchot Matanot Aniyim* for a definition of these terms. They are acceptable for this purpose, because once they are acquired by a poor person, they become his private property.
+
 [^76]: *Terumah* need not be separated from such grain or from the presents for the poor.
+
 [^77]: The *Kessef Mishneh* explains that we are referring to an instance where the person separated the first tithe while the crop is still stalks of grain and gave it to the Levite before it has been winnowed. As explained in Chapter 3, Halachah 13, in such an instance, it is not necessary to separate the great *terumah*. If, however, it is ordinary grain from which the separations were not made in the proper order, it cannot be used to make restitution for *terumah*.
+
 [^78]: In his Commentary to the Mishnah (*Terumot* 6:5), the Rambam explains that this refers to the second tithe that was redeemed using an unminted coin or consecrated property that was redeemed with land. The commentaries have questioned this interpretation, noting that usually redemption with such articles is not effective at all (see *Hilchot Ma'aser Sheni* 4:9; *Hilchot Arachin* 7:1). They cite the Rambam's Commentary to *Berachot* 7:1 which interprets this term as referring to a situation where the principal was paid, but the additional fifth that is required was not.
+
 [^79]: New grain refers to grain harvested after the *omer* offering. Old grain refers to grain from the previous harvest.
+
 [^80]: In the seventh year and thus there is no way he can acquire the zucchini of the sixth year.
+
 [^81]: See *Hilchot Shemitah VeYovel* 6:10 which states that the crops of the Sabbatical year may not be used to pay debts, for this is comparable to using them for commercial purposes which is forbidden.
+
 [^82]: The produce he gives as restitution will be considered as impure *terumah*. Hence, there is no difficulty in him giving impure produce.
+
 [^83]: For if the grain is impure, it will not be an adequate replacement.
+
 [^84]: A person who is careful to observe the laws of ritual purity. See Chapter 6, Halachah 2; *Hilchot Ma'aser*, ch. 10.
+
 [^85]: Who is not necessarily careful concerning the laws of ritual purity.
+
 [^86]: So that the laws of ritual purity are adhered to.
+
 [^87]: So that he is reimbursed for his loss.
+
 [^88]: Even though he is an heir, since we are speaking about stolen property, he may not maintain possession of it, but instead must remove it from his domain and give it to someone else. Note the parallel in *Hilchot Gezeilah* 8:2-3.
+
 [^89]: Since the *terumah* belonged to his maternal grandfather, it is not appropriate that the restitution be given to someone who does not share a family connection with him. Hence he may give it to any member of the family who is a priest, e.g., one of his uncles (Radbaz).
+
 [^90]: This is speaking about an instance where the person did not know that the produce he ate was *terumah* and thus transgressed unknowingly.
+
 [^91]: To explain this ruling: Since these individuals are not entitled to partake of *terumah*, they must atone for partaking of it by making restitution and adding a fifth. Nevertheless, the *terumah* legitimately belonged to them. Hence, after the priest receives the grain given for atonement, he should reimburse the person for the worth of the *terumah*.
+
 [^92]: As is required when making restitution for theft ([[Torah 18 - Mishpatim#^22-3|Exodus 22:3]] .
+
 [^93]: Although *terumah* is consecrated, it belongs to its owners. For even an Israelite has the right to give it to the priest he desires.
+
 [^94]: Which is less expensive than ordinary grain. When making restitution to atone for partaking of *terumah*, it is necessary to pay with ordinary grain. In this instance, however, he need not atone for partaking of *terumah*. All that is necessary is to pay twice the amount of the article he stole.
+
 [^95]: To atone for partaking of *terumah*.
+
 [^96]: To atone for the theft.
+
 [^97]: I.e., a priest was given *terumah* and consecrated it to the Temple treasury [the Ramban's Commentary to the Mishnah (*Terumot* 6:4)]. We are forced to say this because *terumah* separated by an Israelite must be given to a priest and may not be given to the Temple treasury.
+
 [^98]: *Hilchot Geneivah* 2:1. When speaking about the thief's obligation to pay double, [[Torah 18 - Mishpatim#^22-8|Exodus 22:8]] states: "He shall pay his colleague double," i.e., his colleague, another human, and not the Temple treasury (*Bava Metzia* [[Bava Metzia 57#57b|57b]]).
+
 [^99]: This is the standard penalty to atone for this transgression (*Hilchot Meilah* 1:3,5).
+
 [^100]: For the liability for *terumah* depends on the produce being the size of an olive.
+
 [^101]: For the liability of misusing consecrated property depends on it being worth a *p'rutah*,
+
 [^102]: The Rambam's question is based on the principle that, generally, once an object is forbidden because of one prohibition, it does not become forbidden again, because of a second one (see *Keritot* [[Keritot 14#14a|14a]]).
+
 [^103]: See *Hilchot Issurei Bi'ah* 17:9; *Hilchot Ma'achalot Assurot* 14:19. In these sources, it is explained that one of the exceptions to this principle is an *issur mosif*, a negative commandment that increases the scope of the prohibition, including entities that were not originally forbidden. See the Ramban's Commentary to the Mishnah (*loc. cit.*).
+
 [^104]: The difference between *geneivah* (theft) and *gezeilah* (robbery) can be explained as follows: Theft implies taking a colleague's property discreetly. Robbery, by contrast, involves taking something by force against the will of its owner (*Hilchos Geneivah* 1:3).
+
 [^105]: And only one fifth, in contrast to the law regarding a thief in Halachah 23, where he is required to atone for the theft as well.
+
 [^106]: The Ra'avad questions the Rambam's ruling, asking why the person is not liable for an additional fifth to atone for taking a false oath concerning the robbery, as required by *Hilchot Gezeilah* 7:1-2. The commentaries explain that according to the Rambam, it is sufficient to give one fifth, for that atones for both transgressions. Although in Halachah 24, the Rambam requires two different fifths to be given, that is because one is required to atone for partaking of consecrated property. That is a different type of transgression and that requirement is not paralleled with regard to the transgression against taking a false oath.
+
 [^107]: For he must atone for partaking of *terumah* unknowingly, as in Halachah 10.
+
 [^108]: I.e., the fifth is one fifth of the new total. See parallels in *Hilchot Arachin* 4:5; *Hilchot Meialah* 1:5, *Hilchot Gezeilah* 7:5, *et al*.
+
 [^109]: The Ra'avad questions the Rambam's ruling, asking why is the person not required to pay the worth at the time of the robbery if the grain depreciated in price. The Radbaz explains that this is, in fact, the Rambam's intent and this halachah is speaking about an instance when he ate the *terumah* directly after stealing it. The *Kessef Mishneh* states that this halachah is not necessarily speaking about a thief, but about any person who partakes of *terumah* unknowingly. The time when he partakes of the *terumah* is equivalent to the time of theft.

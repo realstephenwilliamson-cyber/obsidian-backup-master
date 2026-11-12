@@ -23,8 +23,11 @@ The purpose of the research presented in this thesis is to investigate the role 
 The beguines were women who led lives of voluntary poverty, chastity and religious devotion, without joining an approved religious order.[^4] They were the female counterparts 
 
 [^1]: Louis Bouyer, ‘Mysticism/An Essay on the History of the Word’, in *Understanding Mysticism*, ed. Richard Woods (London: The Athlone Press, 1981). Abridged from *Mystery and Mysticism* (London: Blackfriars, 1956); originally published as ‘Mysterium’, *La Vie Spirituelle*, 1952.
+
 [^2]: For a full discussion of the various approaches to the modern study of mysticism see the Appendix, ‘Theoretical Foundations: The Modern Study of Mysticism’, in Bernard McGinn, *The Foundations of Mysticism* (New York: Crossroad, 1991).
+
 [^3]: This is the generally accepted date of her death, but 1294 has also been proposed.
+
 [^4]: There is no final agreement on the derivation of the term *beguina*; it may perhaps derive from *Al-bigen-ses*, Latin for the Cathar heretics who the new *mulieres religiosae* (religious women) were accused of resembling (Bernard McGinn, *The Flowering of Mysticism* \[New York: Crossroad, 1994\], p. 334, n. 5). François Vandenbrouck deems this unlikely, observing that its first use seems to date from 1199, where the *Dialogus miraculorum* of Caesar of Heisterbach relates how a woman cried out, *Quid vultis videre istas beguinas?*, ‘Why do you want to see those béguines?’, referring pejoratively to some Cistercian nuns. Since the Cathar heresy was unknown in the Low Countries at the end of the twelfth century, he thinks it more probable that the term is associated with the beige colour of the women’s habits; it was only the later stigmatization of Albigensians that led to disparaging associations with beguines (François Vandenbroucke, ‘New Milieux, New Problems’, in *The Spirituality of the Middle Ages*, Jean Leclerq, François Vandenbroucke and Louis Bouyer \[London: Burns & Oates, 1968\]; the Latin quotation appears at p. 355). Carol Neel notes Jean-Claude Schmitt as suggesting that the name came from the French word for ‘chatter’ (‘The Origins of the Beguines’, *Signs* 14, no. 2 \[1989\], p. 328, n. 22). The term *beguine* was used as well for the lay followers – women and men – of the radical Spiritual Franciscans in southern France and Catalonia. However, mediaevalists generally use the term *beguins* in reference to these people. See McGinn, *Flowering of Mysticism*, pp. 183–86, where he considers the experience of one *beguin* visionary Na Prous Boneta, whose claims to redemptive activity led to her execution for heresy in 1325. For an abridged translation of her ‘moving’ confession see Elizabeth Alvilda Petroff, ed., *Medieval Women’s Visionary Literature* (New York: Oxford University Press, 1986), pp. 284–90.
 
 *[p. 2]* ^pg10
@@ -36,12 +39,19 @@ There are considered to be four chronological phases in the development of the B
 As time went on opposition mounted. It was considered scandalous that unschooled beguines should occupy themselves with reading and explaining Biblical texts.[^10] But they were also accused of hypocrisy and laziness for living on alms, and charged that their ‘false piety cloaked lives of gross sensuality’.[^11] Church synods at Magdeburg (1261), Trier (1277), and Eichstatt (1284) all took issue with the perceived danger of false doctrine. The Council of Vienne in 1311–12 issued two condemnatory decrees against the Beguines and Beghards: *Cum de quibusdam mulieribus* and *Ad nostrum*.[^12] The members abjured these sects as non–
 
 [^5]: McGinn, *Flowering of Mysticism*, pp. 32–33.
+
 [^6]: Ibid., pp. 158–59.
+
 [^7]: Neel, ‘Origins of the Beguines’. The effort to discern a continuity is against the ahistorical assumptions sometimes found in studies of beguine spirituality.
+
 [^8]: McGinn, *Flowering of Mysticism*, p. 32. Also Ernest W. McDonnell, *The Beguines and Beghards* (New York: Octagon Books, 1969), pp. 5–6. This schema was first proposed in 1918 by L.J.M. Philippen.
+
 [^9]: McDonnell, *Beguines and Beghards*, pp. 81–100.
+
 [^10]: Saskia M. Murk–Jansen, ‘The Use of Gender and Gender-Related Imagery in Hadewijch’, in *Gender and Text in the Middle Ages*, ed. Jane Chance (Gainesville: University Press of Florida, 1996), p. 62. They may have been ‘unschooled’, but they were not necessarily illiterate. Beatrice of Nazareth for example was well trained in the liberal arts, and read and cited Latin with ease (McGinn, *Flowering of Mysticism*, p. 167), while Hadewijch of Brabant was ‘familiar with the Latin language, rules of rhetoric, numerology, Ptolemaic astronomy, and the theory of music’ (Petroff, *Medieval Women’s Visionary Literature*, p. 177).
+
 [^11]: *The Flowing Light of the Godhead*, trans. Frank Tobin (New York: Paulist Press, 1998), p. 3. Hereafter abbreviated as *FL*. See further on this point, Robert E. Lerner, *The Heresy of the Free Spirit in the Later Middle Ages* (Berkeley/Los Angeles: University of California Press, 1972), pp. 36–44.
+
 [^12]: These came to be known as the ‘Clementines’, after Pope Clement V, who presided at Vienne (Lerner, *Heresy*, p. 47 and pp. 81–84).
 
 *[p. 3]* ^pg11
@@ -51,12 +61,19 @@ religious because they gave no obedience and did not follow an approved rule. In
 Hindu Tantrism is a complex amalgam of elements derived from the Vedas, Purāṇas, and Upaniṣads. When and where exactly it arose is not known for certain. Eliade believes it developed in the peripheral, still un-Hinduized areas of India, even to the extent of showing Gnostic influences via Iran. He considers that ‘more than one curious parallel can be noted between Tantrism and the great Western mysterio-sophic current that, at the beginning of the Christian era, arose from the confluence of Gnosticism, Hermetism, Greco-Egyptian alchemy, and the traditions of the Mysteries’.[^16] The Tantric verbal tradition understands that the doctrines imparted in the Tantras are of divine origin, coming from Śiva, or one of his divine manifestations (Bhairava, Aghora, etc.). At some stage that tradition was written down, but when, exactly, is undetermined; the oldest preserved Tantric manuscripts seem to date from about the ninth century, while references to older authoritative texts suggest that the literature existed two or more centuries earlier.[^17] Kashmir and Nepal nurtured the mediaeval explosion of Tantric religions, but Bengal and Assam in the east of India were also important centres. By the tenth or eleventh centuries the Tantric orders and practices had penetrated to the South and were translated into Tamil.[^18] The Muslim incursions after the twelfth century saw a decline of Tantra in northern and central India; but in the south it has been integrated into the social matrix.[^19] Overall, Tantrism has managed to pervade so the Hindu thought that the distinction between it and mainstream brahmanism has in some cases become problematic. Effectively, this means that one does not have to renounce one’s religion to follow the Tantric path (*mārga*). The Buddhist Tantras form the basis of Vajrayāna (the Diamond Vehicle) and are the predominant mode of understanding in Tibetan lineages.[^20] There are also Jain Tantras (though never of the ‘left-hand’, or 
 
 [^13]: See Vandenbrouck’s summary in ‘New Milieux, New Problems’, pp. 355–57.
+
 [^14]: Amy Hollywood, *The Soul as Virgin Wife* (Chicago: University of Chicago Press, 1995), p. 12. This is an accusation that was also levelled at Meister Eckhart (ibid., pp. 160–66). Mechthild suggests that she, that is her soul, is of the same nature as her Father, in a speech by the soul (*FL* I, 44; see Appendix E, where this chapter is reproduced in full). In response to her accusers, whom she quotes as charging instead that ‘\[e\]verything that God has done with us is completely a matter of grace and not of nature’, she constructs a retort in VI, 31.
+
 [^15]: John Howard, ‘The German Mystic: Mechthild of Magdeburg’, in *Medieval Women Writers*, ed. Katharina M. Wilson (Athens, Georgia: University of Georgia Press, 1984), p. 160, n. 5.
+
 [^16]: Mircea Eliade, *Yoga: Immortality and Freedom* (Princeton: Princeton University Press, 1969), p. 202.
+
 [^17]: Teun Goudriaan and Sanjukta Gupta, *Hindu Tantric and Śākta Literature* (Wiesbaden: Otto Harrossowitz, 1981), pp. 4, 20. Hereafter abbreviated as *HTSL*.
+
 [^18]: Gavin Flood, *An Introduction to Hinduism* (Cambridge: Cambridge University Press, 1996), p. 159.
+
 [^19]: Ibid., p. 161.
+
 [^20]: The Buddhist Tantras will not generally be dealt within this thesis, except as an occasional point of comparison. For a useful overview of Buddhist Tantrism see S.B. Dasgupta, *An Introduction to Tantric Buddhism* (Calcutta: Calcutta University Press, 1950). There has historically been little communication between the proponents of Hindu and Buddhist Tantra (Agehananda Bharati, *Tantric Traditions* \[Bombay: Hindustan Publishing Company, 1993\]).
 
 *[p. 4]* ^pg12
@@ -66,11 +83,17 @@ antinomian, kind), and Tantras dedicated to the Sun (Sūrya), which however are 
 Broadly, Hindu Tantrism is a system or rule which refers to a gamut of practices – ritual, magical and yogic – indulged in by practitioners belonging to one of three divisions: the Vaiṣṇavite, Śaivite, or Śākta; that is, respectively, worshippers of Viṣṇu, Śiva, or Devī.[^22] Strictly speaking, the Tantras refer to those traditions of northern and southern India that give supreme prominence to the Goddess in her various forms, rather than to the traditions that extol Śiva (Āgamas) or Viṣṇu (Saṁhitās). Unless otherwise indicated the term ‘tantra’ in this thesis is to be understood as referring to the Śāktas or Śāktaśaivas.[^23] At any rate, the numerous sects within these schools utilize a vast number of obscurely written revelatory texts, many of which still remain to be critically edited from their manuscript forms, much less to be translated into English. It is likely much more has been lost over time.[^24] The Tantras are deliberately designed to be secretive and ambiguous: they are ‘encrypted’ teachings, the key to which can only be supplied by a guru, who may or may not be actually present in physical form. So-called ‘intentional language’ (*sandhābhāṣā*) is used to convey meaning.[^25] Hence, for a Westerner unfamiliar with the concepts and terminology a commentary is a prerequisite, and indeed indispensable. Moreover, the study of tantric texts should not be divorced from the adjunct of oral interpretation provided by living initiates; and indeed ‘Tantrics’, according to Brooks, ‘have never intended texts to function as autonomous authorities or as complete descriptions of instantiated practice or ideology’.[^26] The teaching of Śiva, which defines the Śaiva Āgamas, is divided between two branches or ‘streams’: the Outer Path (Atimārga), and the Path of Mantras (Mantramārga). Whereas the first way is available only to ascetics seeking salvation, the second way is open to married home dwellers as well; and besides mere salvation, the mantric path promises the attainment of supernatural powers (*siddhi*s), with the experience of special pleasures in the worlds of one’s choice. The Mantramārga is diagrammatically represented by Sanderson:[^27] 
 
 [^21]: Flood, *Introduction to Hinduism*, p. 158; Eliade, *Yoga*, p. 200.
+
 [^22]: This can represent a sequence of acceptability. In the *Yoni Tantra*, 4.20, there occurs the maxim, ‘privately a *śākta*, outwardly a *śaiva*, and a *vaiṣṇava* in court; bearing various outward appearances, the followers of the *kula*-system spread over the earth’ (quoted by David Gordon White, *The Alchemical Body: Siddha Traditions in Medieval India* \[Chicago: University of Chicago Press, 1996\], p. 357, n. 19); and, according to the *Kulārṇavatantra* 11.83: ‘Keep your *Kaula* identity secret, / outwardly behave like a Śaiva, but when in society / behave like a Vaiṣṇava’ (quoted by Sanjukta Gupta, ‘Women in the Śaiva/Śākta Ethos’, in *Roles and Rituals for Hindu Women*, ed. Julie Leslie \[London: Pinter, 1991\], p. 205).
+
 [^23]: André Padoux uses this latter term to indicate the proximity of many Śākta and Śaiva beliefs (*Vāc: The Concept of the Word in Selected Hindu Tantras*, trans. Jacques Gontier \[Albany: State University of New York Press, 1990\], p. 52).
+
 [^24]: *HTSL*, p. 33.
+
 [^25]: Bharati explains this in chapter 6 of *Tantric Traditions*, where he notes that while older scholars referred to the writings as *sandhyābhāṣā* (‘twilight language’), the preferred contemporary understanding is that of ‘intentional language’ (*sandhābhāṣā*) (p. 165). There are two prevalent views about the purpose of such language: one is that it is used to camouflage instruction which might otherwise be read by the orthodox, non-initiated public; the other is that it is aimed at initiated adepts, in order to protect the non-initiate who might be tempted to dabble in dangerous practice. Bharati classifies *sandhā-*terminology into two categories, which he calls ‘afferent’ and ‘efferent’. ‘A *sandhā*-term which employs object-language and “intends” the conceptual or mystical absolute is an afferent term as when *lalanā* (woman) is to mean *nirvāṇa*. Conversely, a *sandhā*-term employing the philosophical or theological language and “intending” an objective thing or event or an action is an efferent term, as when *bodhicitta* is to mean “*semen virile*”.’ (p. 173.)
+
 [^26]: Douglas Renfrew Brooks, *Auspicious Wisdom: The Texts and Traditions of Śrīvidyā Śākta Tantrism in South India* (Albany: State University of New York Press, 1992), p. xvi.
+
 [^27]: Alexis Sanderson, ‘Śaivism and the Tantric Traditions’, in *The World’s Religions*, eds. Stewart Sutherland, et al. (London: Routledge, 1988), p. 669.
 
 *[p. 5]* ^pg13
@@ -94,7 +117,9 @@ This arrangement is hierarchical. Whatever is above and to the left sees whateve
 For the purposes of this thesis it will be presumed that there are patent similarities between mystical states and sexual experiences. It has been said that sexuality represents ‘an altered state of consciousness \[which\] is characterized by absolute focus upon the moment and feelings of ecstasy, peace, and contentment’;[^30] likewise, spirituality is a desire ‘to become intimate or connected with others, with the transcendent and with our authentic 
 
 [^28]: Ibid. He outlines the approaches of the various sects on pp. 664–90.
+
 [^29]: White, *Alchemical Body*, p. 79. On the problem of classification and definitions of Tantra see Douglas Renfrew Brooks, *The Secret of the Three Cities: An Introduction to Hindu Śākta Tantrism* (Chicago: University of Chicago Press, 1990), pp. 52–72.
+
 [^30]: P.B. Anderson and M. Morgan, ‘Spirituality and Sexuality: The Healthy Connection’, *Journal of Religion and Health* 33 (1994): 115–21 at 117. Quoted by Chuck M. MacKnee, ‘Peak Sexual and Spiritual Experience: Exploring the Mystical Relationship’, *Theology & Sexuality*, no. 5 (September 1996): 99.
 
 *[p. 6]* ^pg14
@@ -106,10 +131,15 @@ The use of erotic or romantic language as metaphor is rather prevalent in the Ch
 Consequently, the body as a locus of action is also crucially important in the context of this thesis. The attitude of Christianity to the body has been fraught with ambivalence. It is ironic that ‘the very religion that believes God came in the flesh, is the most consistently negative in its relatedness to human flesh’.[^35] Be that as it may, the antecedent of Christian attitudes to the body can be found in Plato’s *Timaeus*. Here, ‘the cosmos is understood as the analogy of the human person’; that is, ‘the human person is a copy, reflection, image of the cosmos, which is a living creature endowed with soul and reason’.[^36] Also, ‘the body is seen psychological energy \[illegible\] and desire \[illegible\] Sexual activity was not just an as giving physical expression to the soul and undergirding its threefold nature as reason, 
 
 [^31]: MacKnee, ‘Peak Sexual and Spiritual Experience’, p. 99.
+
 [^32]: The reference to a ‘dualist’ Christian tradition here is not to be understood theologically, but only semantically. It is ‘dual’ in contradistinction to the monistic outlook of the Tantras, which posits no distinction at all between ‘spirit’ and ‘matter’. See further below, the section on *Translating a Metaphysic Paradigm*, pp. 83–86.
+
 [^33]: As the nineteenth century saint Ramakrishna was wont to do. See Jeffrey J. Kripal, *Kālī’s Child: The Mystical and the Erotic in the Life and Teachings of Ramakrishna*, 2nd ed. (Chicago: University of Chicago Press, 1998). See also below at p. 73, n. 25.
+
 [^34]: Essentially, the idea of ‘manifestation’ encompasses the spiritual and material realms, so called.
+
 [^35]: MacKnee, ‘Peak Sexual and Spiritual Experience’, p. 111.
+
 [^36]: Andrew Louth, ‘The Body in Western Catholic Christianity’, in *Religion and the* Body, ed. Sarah Coakley (Cambridge: Cambridge University Press, 1992), p. 112.
 37\. Ibid. Louth (p. 112) cites the comment by Peter Brown that in late antiquity the bodies of men and women were imagined as ‘little fiery universes, through whose heart, brain, and veins . . . pulsed the same heat and vital spirit as found in the stars’ (Peter Brown, *The Body and Society: Men, Women, and Sexual Renunciation in Early Christianity* \[New York: Columbia University Press, 1988\], p. 17).
 
@@ -123,11 +153,17 @@ For Augustine, the body becomes the focal point for overcoming, through ascetic 
 Louth argues that in the early Christian period the idea of virginity, or celibacy, was an accepted condition on the basis of Jesus’ saying, ‘When they rise from the dead, men and women do not marry; they are like angels in heaven’.[^43] In other words, since the postmortem angelic state is anticipated while still in the body, the celibate state is considered superior to the married life. Origen’s idea of double creation rather provides a justification for the celibate life, in that this state foreshadows a return to the primal condition, before the Fall, when sexual differentiation did not exist. Augustine altered this viewpoint, abandoning the notion of double creation and the paramountcy of virginity. He thought that sexual differentiation was a part of the created order, and would in fact characterize the bodies of men and women in the Resurrection. Moreover, created things are unambiguously good, and this naturally includes physicality and sexuality; evil is just the result of the Fall. In practice, due to the prevailing masculine bias, the stricture of virginity served as a way of controlling women’s sexuality. Even in the thirteenth century, in one devotional manual for religious women, *Holy Maidenhead*, the virgin is warned against losing that which joins her to Christ: ‘And you, blessed maiden, assigned to him with the mark of maidenhood, break not that seal which seals you together’.[^44] This is an allusion to the unbroken hymen, which ‘guarantees 
 
 [^38]: Ibid., p. 114.
+
 [^39]: Ibid., pp. 119–22.
+
 [^40]: Ibid., p. 125.
+
 [^41]: Ibid., p. 129.
+
 [^42]: More accurately perhaps Tantrism has affinity with the philosophy of Sāṁkhya, which parallels the Platonic philosophy. See the section on Polar Creation in chapter five below, esp. pp. 50–51.
+
 [^43]: Louth, ‘The Body in Western Catholic Christianity’, pp. 115ff. The biblical quotation is from [[Mark 12#^12-25|Mark 12:25]]. (The version of the Bible used in this thesis is the Revised English Bible.)
+
 [^44]: See Karma Lochrie, ‘Mystical Acts, Queer Tendencies’, in *Constructing Medieval Sexuality*, ed. Karma Lochrie, Peggy McCracken and James A. Schultz (Minneapolis: University of Minnesota Press, 1997), p. 190.
 
 *[p. 8]* ^pg16
@@ -139,13 +175,21 @@ In Hinduism, the Ṛg Veda celebrates the body exuberantly, while the later Upan
 The use of images is an especial component of the writings of mediaeval women mystics. In order to analyse this motif it is necessary to utilize a suitable theory of imagery. Murk– Jansen holds that for one such theory ‘symbols and images \[are\] models of the world or society as they are, or models for the way they should be’.[^53] Scholars have used this theory to analyse what it might reveal ‘about the actual role of women in medieval society, \[and\] about the authors’ underlying conceptions of women, or about the author’s subconscious desires concerning the role of women’ (p. 52). Murk–Jansen finds this to be an 
 
 [^45]: Ibid., p. 192.
+
 [^46]: Wendy Doniger, ‘Medical and Mythical Constructions of the Body in Hindu Texts’, *Religion and the Body* (Cambridge: Cambridge University Press, 1997), p. 168.
+
 [^47]: *Manu* 6.76–77, quoted in ibid., pp. 169–70.
+
 [^48]: Ibid., p. 170.
+
 [^49]: David Smith, ‘Aspects of the Interrelationship of Divine and Human Bodies in Hinduism’, *Religion* 19 (1989): 216.
+
 [^50]: Brooks, *Auspicious Wisdom*, p. 155.
+
 [^51]: Gavin Flood, ‘Techniques of Body and Desire in Kashmir Śaivism’, *Religion* 22 (1992): 49. Flood studies the particular approach or understanding of the Trika school of the Śaiva tradition. It is notable that this school accepts that liberation can be attained through mystical experience and gnosis, without having to follow prescribed rituals (Sanderson, ‘Śaivism’, p. 692).
+
 [^52]: Geoffrey Samuel, ‘The Body in Buddhist and Hindu Tantra: Some Notes’, *Religion* 19 (1989): 197–210. He puts it nicely when he says, ‘\[t\]he mind rides on the currents of *prāṇa*; where the mind goes *prāṇa* goes’ (202). It is as if one is in a boat on the lake; and without oars one will invariably drift with the current. He also notes that ‘\[t\]he use of sexuality as a spiritual technique in a tradition that has a strong orientation towards renunciation, celibacy and ascetic practices suggests a deliberately antinomian tinge to these practices’ (206). He argues that the mind–body practices in Hindu and Buddhist Tantras have consequences for the society and individual, and there is no dichotomy between individuals and society; it represents a single theme.
+
 [^53]: Murk–Jansen, ‘Use of Gender’, p. 52. She does not name the theory.
 
 *[p. 9]* ^pg17

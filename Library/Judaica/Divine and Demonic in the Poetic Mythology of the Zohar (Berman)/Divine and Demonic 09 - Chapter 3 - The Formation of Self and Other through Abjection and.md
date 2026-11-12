@@ -139,7 +139,9 @@ refuse \[ \]פסלת through procreation. It portrays the three sons of Eve as s
 the way to purification: Cain an attempt to purge the refuse from the Left, Abel 
 
 [^479]: Matt Translation V, 469 (translation substantially modified).
+
 [^480]: *Zohar* I, 17a.
+
 [^481]: See, e.g., *Zohar* I, 15b; I, 29b.
 
 *[p. 187]* ^pg202
@@ -194,7 +196,9 @@ The co-existence of the two portrayals of the generation of “Adam” lend them
 487\. *Zohar* II, 167b.
 
 [^488]: For example, one Lurianic interpretation associates this term with Mother and Father and their non-gendered emergence with processes that transpire in the beard of *Atik* \[the Ancient One\]. Vital, *Sha’ar Ma’amere Rashbi*, 104. Margoliot in the *Nitsotse Zohar* on *Zohar* II, 167b refers us to a passage in the *Tikune Ha-Zohar* 120a that associates the notion of the primordial Adam with *Keter*. On the complexities of interpreting the term “*Adam*” or “*Adam Kadma’ah*” in the Zohar, see Liebes, *Perakim,* 14.
+
 [^489]: *Or Yakar*, X, 92.
+
 [^490]: *Zohar* I, 29b. I note, though, that this passage does not mention the refuse of the afterbirth.
 
 *[p. 189]* ^pg204
@@ -214,7 +218,9 @@ that was not “perfected” \[ .\]שלים This image, like that of the birth o
 to Seth,[^493] rests on the recurrent Zoharic imperative of an initial emission of refuse before a proper form can be produced. I note also that, while such an emission might be expected in the case of parents like Eve or Isaac, since the 
 
 [^491]: *Bereshit Rabah*, I, 73d (63:8) and Rashi’s commentary to Genesis 25:26.
+
 [^492]: *Zohar* III, 55b.
+
 [^493]: *Zohar* II, 167b–168a.
 
 *[p. 190]* ^pg205
@@ -234,7 +240,9 @@ and David – both of whom the Bible calls “ruddy” \[ ,\]אדמוני 498 a 
 closeness and opposition are evoked a few pages earlier through a pun on the 
 
 [^494]: See, e.g., *Zohar* I, 115b; III, 215a. See also *Ra’ya Mehemena* in *Zohar* III, 111b.
+
 [^495]: *Zohar* I, 118b.
+
 [^496]: *Zohar* I, 138a.
 497\. *Zohar* I, 138b.
 
@@ -257,7 +265,9 @@ A passage in the *Pikudin* \[*Commandments*\] section of the Zoharic literature 
 500\. *Zohar* III, 56a.
 
 [^501]: *Ibid*.: וזמין לאתפרעא ראשון מראשון And the *first* is destined to punish the *first*.
+
 [^502]: I note that another passage, *Zohar* II, 78b, goes to some lengths to deny a twinning relationship between Jacob and Esau. This passage focuses on the fact that, in Genesis 25:24, the word “twins” describing the two brothers is written in the defective form (“ ”תומים rather than “ .)”תאומים The passage declares that this shows that Esau was not Jacob’s true “twin.” Rather, Jacob contains “twins” within himself since he includes both the right and left sides, here represented by the “white” and “red” lights. Esau, by contrast, “turned aside by himself and strayed to the Other Side in nothingness and destruction” \[ אתפרשא .\]לחודיה וסטא לסטרא אחרא באפיסה ושממון This passage follows the basic structure of abjection in the “afterbirth” passage: Jacob is the “Central Column” who reconciles the two cosmic sides, with Esau as the unreconciled abject, who takes up residence in the autonomous domain of the Other Side. I note that an important context for this exploitation of the orthographic displacement between תאומים and תומים may be found in the Moshe of Burgos text I discussed in the Introduction, in which the first Sefirah of the demonic realm is called both *Te’omiel*, ,תאומיאל and *Tomi’el*, ,תומיאל which I interpreted as signifying the paradoxical juxtaposition of identity and radical difference between the divine and the demonic.
+
 [^503]: *Zohar* III, 97a (note that, in the printed editions, this passage is labeled as part of the *Ra’ya Mehemena*).
 
 *[p. 192]* ^pg207
@@ -315,7 +325,9 @@ gical pronouncement after the *Sh’ma* (“blessed be the Name” “.… )"ב�
 whispered. The text declares that this requirement was enacted so that the 
 
 [^507]: Max Ernst, ‘Au-delà de la peinture’, 256.
+
 [^508]: The “suckling” imagery recurs in numerous passages. Some commentators have interpreted the term Other Side in these passages as referring to the side of Judgment, rather than the demonic, an interpretation that at times seems plausible and at times seems designed to soften the passages’ import. A small sample of such passages include II, 125a; III, 58a; III, 62a; III, 72a; III, 291b. III, 74a contains a use of “tasting” imagery strikingly close to that of the “suckling” imagery in these passages. See my discussion below.
+
 [^509]: *Zohar* II, 134a.
 
 *[p. 195]* ^pg210
@@ -339,7 +351,9 @@ strong form of the slime \[*zohama*\] of hard judgment” \[, סטרא אחרא 
 Other Side as the crystallization, the “strong form,” of the abject, the “slime.” Reading this passage in conjunction with that portraying the sexual intimacy of the demonic as the “casting of slime \[*zohama*\]” yields an infernal cycle of the abject and crystallized demonic: the personified Other Side, a crystallization of the abject *zohama*, engages in sexual contact through the medium of *zohama*, which would thus be a partial regression of the crystallized demonic back into the *zohama*’s abject formlessness – precisely as a means to degrade the subjectivity of the divine, to render it abject.
 
 [^510]: *Zohar* II, 133b.
+
 [^511]: E.g., *Zohar* I, 46b, III, 47a.
+
 [^512]: *bShabbat*, 146a.
 513\. *Zohar* I, 46b.
 
@@ -355,7 +369,9 @@ This kind of perverse intimacy also undermines the coherent selfhood of the divi
  תאנא יומא חד הוו אזלי חברייא עמיה דר' שמעון. אמר ר' שמעון חמינא אלין עמין כלהו עלאי וישראל תתאה מכלהו מ"ט בגין דמלכא אשדי למטרוניתא מניה ואעיל ט"ו\]…. תחת עבד כי ימלוך…. ושפחה כי תירש - אמהו באתרה הה"ד \[משלי ל:י"א גבירתה … בכה ר' שמעון ואמר מלכא בלא מטרוניתא לא אקרי מלכא מלכא דאתדבק באמהו דילה דמטרוניתא אן הוא יקרא דיליה. רזא דמלה זמינא קלא לבשרא למטרוניתא ולימא (זכריה ט: א) גילי מאד בת ציון הריעי בת ירושלם הנה מלכך יבא לך צדיק ונושע הוא … כלומר צדיק הוא נושע בגין דהוה רכיב עד השתא באתר דלא דיליה באתר נוכראה ויניק לה. ועל דא כתיב עני ורוכב על חמור… כמא דאוקימנא אינון
 
 [^515]: *Zohar* II, 135a–b.
+
 [^516]: *Zohar* II, 135b: ואיהי וכל דינין מתעברין מינה, איהי אתיחדת ואתפרשת מסטרא אחרא, כד עייל שבתא, אשתארת ביחודא דנהירו קדישא When Sabbath enters, She unites herself and separates herself from the Other Side, and all judgments pass away from her. And She remains in the unity of the holy light.
+
 [^517]: “A king without a queen is not called a king” \[ .\]מלכא בלא מטרוניתא לא אקרי מלכא *Zohar* III, 69a.
 
 *[p. 197]* ^pg212
@@ -387,8 +403,11 @@ In the “turban” passage I briefly discussed in Chapter 2, Moshe of Burgos de
 A spirit of seduction, as it were, passed from Lilith the accuser over the attribute of Foundation of the World \[*Yesod Olam*\] … By this means, the inner holy power was covered over \[and prevented\] from going from potentiality to actuality, for the power of the spiritual[^525] turban \[or mitre\] became enclothed in it. And from that time on, strange and evil bands were born, destroyers of the world above and below.
 
 [^520]: See *Or Yakar* XIII, 57–58.
+
 [^521]: *Zohar* II, 60b–61a: דגרים לצדיק דיתדבק בשפחה (משלי ל כג) ותחת שפחה כי תירש גבירתה, דכתיב As it is written, (Prov. 30:23), “And a bondwoman who supplants her mistress,” for it causes the Righteous One to cleave to the bondwoman.
+
 [^522]: Compare *Ets Ḥayim*, 66a, where the idea is stated without more reservation than an “as it were” \[ ,\]כביכול with *Sha’ar Ma’amere Rashbi*, 191b, where substantial reservations are stated.
+
 [^523]: On Moshe of Burgos, see Liebes, ‘Ha-Mashiaḥ shel ha-Zohar’, 35–38; on Joseph of Hamadan, see Liebes, ‘Ketsad Nitḥaber’, 32–67. See also Mopsik, ‘Introduction’ in Joseph de Hamadan, *Fragment d’un commentaire sur la Genèse*, 8–11.
 524\. Moshe of Burgos, ‘Ma’amar al Sod “Hasir Mitsnefet, Harim ha-Atarah”‘, 50.
 
@@ -409,6 +428,7 @@ The Moshe of Burgos passage is manifestly structured by the kinds of ontological
 526\. *bEruvin*, 18b.
 
 [^527]: *Bereshit Rabah* I, 24b–c (20:11); *bPesahim* 54a; *mAvot* 5:6.
+
 [^528]: *Bereshit Rabah*, I, 8c (7:5); *Yalkut Shim’oni* 1:12. Note the irony expressed, in the first place, in the very image of God running out of time. In addition, the midrash tells us that we can learn “manners” \[ \]דרך ארץ from the *shedim* – even though it means that we should learn from God’s conduct in relation to their creation. It then goes on to compare the half-finished *shedim* to a “gem” \[ \]מרגלית that a person finds in his pocket on the eve of the Sabbath, and which he should throw away rather than violate the prohibition on carrying on the Sabbath.
 
 *[p. 200]* ^pg215
@@ -447,7 +467,9 @@ tion of their transformation into *shedim*. In Kristeva’s terms, the *shedim* 
 Another text in the *Idra Raba*, just before the “inclusion in the Body” excerpt, Zoharically reappropriates the midrashic *shedim* tales in a manner which brings together almost the entire range of mythic motifs I have touched upon in this section.[^534] The text appears in the midst of an extended transposition 
 
 [^530]: On the Other Side as that which is not “included in the body,” see Liebes, *Perakim*, 262.
+
 [^531]: See, e.g., *Zohar* III, 81b; III, 143b; III, 296a;
+
 [^532]: Kristeva, *Pouvoirs*, 127.
 533\. *Zohar* I, 55a.
 
@@ -470,6 +492,7 @@ proper Matronita marks the end of the journey of *Ze’er Anpin* from his abject
 The generation of *shedim* through the earthly or divine primordial man’s improper emissions vividly expresses the production of menacing entities through “abjection” of that which precedes, exceeds, or is inassimilable to the subject, byproducts of the inevitably pyrrhic effort to create a seamlessly bounded Self, a “clean and proper body.” Throughout the Zoharic literature, such a body requires a proper union between proper male and female consorts. When the human or divine male is blocked from such a union due to the fig-leaf belt, the “turban,” Lilith, or the “heart of stone,” it prevents him from properly constituting his “Body.” In the midrashic tales, the *shedim* are creatures which Adam/*Ze’er Anpin* both cannot and must acknowledge as his offspring: creatures that he “begat” but which were not in “his image.”[^536] In 
 
 [^535]: The passage thus reads the Hebrew in Genesis 2:21, “ “ ,”תחתנה in place of it,” as referring to the “heart of stone,” in the Ezekiel passage.
+
 [^536]: *bEruvin*, 18b.
 
 *[p. 203]* ^pg218
@@ -479,7 +502,9 @@ transferring this notion to the divine Self and its relation to the demonic, kab
 I make a final, somewhat speculative, observation on a significant difference between the Zoharic and Moshe of Burgos passages. While Moshe of Burgos attributes the blockage of proper union by the “turban” to Lilith, the *Idra Raba* passage is more allusive, attributing it to the “heart of stone.” The subsequent arrival of the Matronita “in her *tikunin*” as the moment of the interruption of the abject emissions suggests that the “heart of stone” is none other a deficient, pre-*tikun* version of the future Matronita.[^537] That the deficient Matronita and Lilith could play the same role should not, by this point in this book, be surprising. It is, moreover, supported by another Zoharic passage, closely related to the one under discussion, which portrays the transformation of the Shekhinah into a Lilith-like figure, arousing punitive, perhaps demonic, forces in the world.[^538] This kind of image of the divine female as something of a twin of the demonic female, twins that can be mistaken for one another or turn into one another, is one I have now identified in a number of variant forms.[^539]
 
 [^537]: This reading is somewhat speculative and would make this passage stand in tension with two other passages. : 1) *Tikune Ha-Zohar* 96a, which refers to Adam’s “two wives,” Eve and Lilith, as emerging, respectively, “from the side of the flesh” and “from the side of the bone”; and 2) *Midrash Ha-Ne’elam*, in *Zohar Ḥadash*, 16:c, interpreting “ ”תחתנה in the same verse from the Genesis, as “in place of *her*” – i.e., as replacing Lilith with Eve. *Zohar* I, 34b also alludes to the same notion.
+
 [^538]: *Zohar* I, 223b.
+
 [^539]: Thus, *Zohar* III, 79b describes the effect on the divine female of the casting of “filth” into her by the “snake”: ונוקבא אסתאבת, ושערה רבא, וטופרהא סגיאו, וכדין דינין שריין לאתערא בעלמא, ויסתאבון כלא, הדא הוא דכתיב (במדבר יט כ) כי את מקדש יהו"ה טמא, מקדש יהו"ה אסתאב בחובייהו דבני נשא … דתנינן אלף וארבע מאה וחמש זינין בישין, מתאחדן בההוא זוהמא דאטיל חויא תקיפא, וכלהו מתערין בההוא זוהמא דטופרי   And the female is contaminated, and her hair is long and her nails are large, and then judgments begin to arouse in the world, and contaminate everything. This is as it is written: “because he hath defiled the Temple of YHVH” (Ex. 19:20). The Temple of YHVH is contaminated due to the sins of human beings … As we have learned, one thousand four hundred and five evil species unite in that filth that the fierce *ḥivya* cast and all are aroused in that filth of the nails.
 
 *[p. 204]* ^pg219
@@ -491,9 +516,13 @@ C I now turn to Joseph of Hamadan. This 13th century kabbalist portrays very exp
 In his commentary on Genesis, Joseph of Hamadan recounts that the blessed Holy One took two wives, the Shekhinah and one “from the sect not that of purity,” otherwise known as Lilith.[^540] He offers no explanatory preface or theological apology for this tale, apparently presuming its self-evidence. Joseph stresses the abject nature of the “impure” wife by designating her as a byproduct of her divine counterpart. She is a mere “shadow” who has nonetheless also crystallized as a “whore” and a “concubine”[^541] – and whose union with the blessed Holy One produces evil and murderous offspring. Although Joseph states that, in taking two wives, the blessed Holy One resembled Adam (apparently referring to the Pseudo-Ben Sira tale and earlier rabbinic allusions to a “first Eve”), the pre-kabbalistic myths recounting Adam’s liaisons never depict him as married both to Eve and Lilith at the same time. Joseph tells his tale as an exegesis of the obscure biblical anecdote of the antediluvian Lemekh and his two wives, Ada and Tsilah.[^542] A midrash on this story declares that antediluvian men would take two wives, one for bearing children, the other for sex, a tale that may underlie Joseph’s characterization of Tsilah as a “whore.”[^543] I need not belabor here the implications of these classical Madonna/whore dynamics in imagery of this kind.[^544] Here, I simply recall that the Shekhinah is no virgin in Zoharic myth – or, more precisely, a condition of sexual abstinence with her true consort, the blessed Holy One, is a catastrophic condition, for herself, her consort, and the cosmos as a whole.
 
 [^540]: Joseph de Hamadan, *Fragment d’un commentaire*, 22 (pagination from the Hebrew sec- וכת שאינו של טהרה tion): .
+
 [^541]: *Ibid*.: ’ “ – יושבים בצל שכינה ולפי’ נקר’ ‘צלה they \[the ‘impure sects’\] sit in the shadow of the Shekhinah and therefore she \[Lilith\] is called ‘Tsilah’ \[read hyper-literally as “her shadow”\].
+
 [^542]: Genesis 4, 19–23.
+
 [^543]: *Breishit Rabah*, I:27b \[23:2\].
+
 [^544]: Ruth Kara-Ivanov Kaniel has masterfully explored these dynamics in the Jewish tradition, from the Bible to the Zohar and beyond, in *Kedeshot u-Kedoshot*.
 
 *[p. 205]* ^pg220
@@ -507,7 +536,9 @@ Joseph of Hamadan makes graphically explicit the nature of the two “channels�
  תחות רתיכא דמלכא קדישא איהי רזא דברית קדישא דקודשא בריך הוא דאתקרי צדיק יסוד עולם ואיהו מבועא דשאיב לבירא קדישא דאיהי מטרוניתא. והנהו תרי ראשין דע’ אינהו רזא דהני ב’ נקבין דאיכא בפומיה דאמה. ואינון תרין מבועין מבועא דימינא קדישא יניקו דמטרוניתא ומתמן ינקי נביאי וחסידי ותמימי וצדיקי דמתפנקא בגנתא דעדן. ומבועא תניינא יניקו דכתות מסאבותא ומלאכין דמקטרגין בעלמא. ומתמן יניקו דבלעם רשיעא 548 
 
 [^545]: Idel, ‘Seridim Nosafim Mi-Kitve R. Yosef ha-ba mi-Shushan ha-Birah,’ 47–48: כי גלוי לכל שהיא אשתו ובת זוגו וכשבא לפילגשו בא בצנעא בלילה משום כבוד אשתו .
+
 [^546]: *Ibid*.: .צנורות הטהורים … צנורות מכוסים … טומאה The theme of the two channels is also contained in the work of Moshe of Burgos. See ‘Sefer Amud Ha-Semali’, 217 & n. 10.
+
 [^547]: Idel, ‘Seridim Nosafim’, 48: .\[יש\]לטו במלכותך
 548\. *Sefer Tashak*, 267–268. This passage is quoted by Cordovero, with incorrect attribution, in *Pardes*, I, 34b.
 
@@ -552,8 +583,11 @@ One can only speculate about Cordovero’s seemingly incompatible stances in rel
 Nonetheless, the tension between Cordovero’s rejection of the Zoharic notion of the substitution of Lilith for the Shekhinah, on the one hand, and his endorsement of the imagery of the “two channels,” on the other, remains quite striking – especially in light of the emphasis on objective and subjective ambivalence that informs much of this book. Divine/demonic relationships of intense desire appear to be both indispensable and yet unacceptable. It is also striking that in Lurianic writings, in which a very similar tension appears,[^554] 
 
 [^551]: *Or Yakar* XIII, 57–58.
+
 [^552]: Though he misattributes the quotations.
+
 [^553]: *Pardes*, I, 34b.
+
 [^554]: Compare *Sha’ar Ma’amere Rashbi*, 46b, on the two channels with the same work, 193a, on the bondwoman. Of course, in the Lurianic schema, one can with agility limit the tension by placing the processes at different levels – e.g., in the first passage on the two channels, we are told that it is limited to the world of *Asiyah*.
 
 *[p. 209]* ^pg224
@@ -565,6 +599,7 @@ One can speculate, of course, as to whether a variety of prevalent patriarchal n
 Elsewhere in the *Pardes*, Cordovero discusses the “two channels” in a manner that sheds light on his affinity for this image as well as on the relationship between ambivalences of origin, ambivalences of intimacy, and the ongoing sustenance of the demonic by the divine.[^556] In that passage, he declares that the theory of the two channels helps explain the puzzling mechanics of the nourishment of the demonic from the divine. He rejects what one might call a conventional Neoplatonic account, in which evil would simply be the lowest rung in the ladder of being, even a mere privation of being. For Cordovero, referring to the post-Zoharic cosmology of the “four worlds,” such a stance is impossible, due to the fact that the demonic originates in the Sefirah of *Gevurah* of the highest world, the World of Emanation \[*Atsilut*\] and that there are many divine levels below that. The theory of the two channels puts the demonic side directly in touch with this quite high level of the divine side, circumventing the need for impure nourishment to traverse divine levels on its way to the demonic side. It thus serves to shore up the kabbalistic affirmation of the reality of the demonic, its parallelism with the divine, and its source in the divine – even while paying the price of apparently positing direct and intimate contact of the divine with the demonic, a notion firmly rejected by Cordovero as theologically unacceptable in the context of the Zoharic passage 
 
 [^555]: *Sha’ar Ma’amere Rashbi*, 46b: ושתי הצנורו' האלו הם סמוכין זה לזה כי אין ביניהם אלא כקליפת השום … זה קדש וזה חול … ובדבר מועט אפשר להתערב קדש בחול ח"ו   And these two channels are contiguous to each other, for between them is barely a garlic skin … this holy, this profane … and in a thing so slight, it is possible to mix the holy in with the profane, God forbid …
+
 [^556]: *Pardes*, I, 53c-d.
 
 *[p. 210]* ^pg225
@@ -584,6 +619,7 @@ The Zoharic literature often portrays active relationships between the divine an
 However, although Haskell does not discuss this feature, it is also one of the main verbs used by Zoharic and some related texts to portray divine/demonic relationships – considerably complicating the import of the various meanings of the term. In Zoharic texts, the term may be read in a number of different ways: “literally,” evoking maternal and nutritive imagery; figuratively, evoking 
 
 [^557]: Indeed, in another passage in the *Pardes*, I, 56a–b, he uses the notion of the two channels to interpret the passages in the Zoharic literature that refer to the coupling of the *kelipah*, specifically, the *ḥivya*, with the Shekhinah. According to Cordovero, rather than literally referring to the snake coupling with the Shekhinah, the passages actually refer to the nourishment of the Shekhinah from the impure channel of *Yesod*. This interpretation clearly runs contrary to the plain meaning of the Zoharic passages.
+
 [^558]: See, e.g., *Pardes*, I, 80c.
 559\. I note at the outset the following linguistic curiosity. In English, the verb “to suckle” can refer both to the maternal giving of milk to the infant and to the infantile taking of milk from the mother. In Hebrew, this ambiguity generally disappears through distinguishing between הנקה for the former and יניקה for the latter. The Zohar’s Aramaic, however, contains the potential for something like the ambiguity of the English verb. For example, the verb לינקא and the third person singular יניק may be used for both senses – though, in the case of the infinitive, different vowelizations may distinguish the two.
 
@@ -606,7 +642,9 @@ Before discussing suckling in divine/demonic relationships, however, we must mak
 For Ellen Haskell, suckling in 13th century texts constructs “sefirotic and human relationships as nurturing, sustaining, and interdependent.”[^563] Haskell’s study shows the evolution of suckling imagery from a more metaphoric usage in earlier kabbalistic writing, to a more literal, maternal meaning in Zoharic writing. Zoharic texts, for Haskell, are replete with fully developed imagery of nursing by a “breasted God.”
 
 [^561]: Kristeva, *Pouvoirs*, 12.
+
 [^562]: See, e.g., *Zohar* I, 28b–29a, III, 87a.
+
 [^563]: Haskell, *Suckling at My Mother’s Breasts*, 40.
 
 *[p. 212]* ^pg227
@@ -622,7 +660,9 @@ into the masculine divine *persona* – specifically, into the corona of the div
 Haskell acknowledges that Wolfson’s reading may at times be appropriate, but rejects it as the dominant meaning of suckling in the Zoharic literature. For Haskell, the “nurture, tenderness, duty and dependence” associated with nursing imagery “do an admirable job of expressing the interdependent 
 
 [^564]: *Ibid*., 87.
+
 [^565]: Wolfson, *Circle in the Square*, 109.
+
 [^566]: *Ibid*., 79–121.
 
 *[p. 213]* ^pg228
@@ -656,6 +696,7 @@ prohibition? Rabbi Yehuda’s question seems to point to a theological, as well 
 571 ערא לעילא 
 
 [^569]: Derrida, *Points: Interviews 1974–1994*, 385. On his own writing as marked by monstrous catachresis, see Derrida, ‘Deconstruction and the Other’, 123.
+
 [^570]: *Zohar* II, 124b–125a.
 571\. *Zohar* II, 125a.
 
@@ -698,6 +739,7 @@ From a Kristevan perspective, it is highly significant that both perverse mixtur
 575\. *Zohar* II, 125a.
 
 [^576]: Kristeva, *Pouvoirs*, 123–124.
+
 [^577]: *Ibid*., 124.
 
 *[p. 217]* ^pg232
@@ -709,8 +751,11 @@ The Zoharic interpretation of the verse dovetails with the psychoanalytic in thr
 My foregrounding of the often maleficent character of suckling, and the protean use of the term to portray different kinds of relationships, brackets the interpretive choice between its lactic and seminal character. One could even make sense of the “kid/milk” passage by reading both instances of suckling in the passage – that of the Shekhinah from the Other Side and that of the demonic “kid” from the Shekhinah – as relating *either* to nourishment *or* to copulation, or to both at once. This interpretive indeterminacy also characterizes numerous other Zoharic passages in which the Shekhinah is said to suckle from the Other Side.[^581] Even the references to “his mother” do not 
 
 [^578]: *Ibid*.
+
 [^579]: *Ibid*.
+
 [^580]: Note that the *Sefer Ha-Peli’ah*, a 14th century kabbalistic work, explicitly links the “Thou shalt not seethe a kid” prohibition to incest. See *Sefer Ha-Peli’ah*, 32b–33d.
+
 [^581]: See, e.g., *Zohar* III, 58a, III, 62a, III, 72a, III, 180b, III, 291b.
 
 *[p. 218]* ^pg233
@@ -748,7 +793,9 @@ I now turn to the suckling relationship of the divine male to the demonic female
 the junction of its sexual and nutritive meanings. It may be a simple reiteration 
 
 [^584]: This maleficent shift from milk to blood may also be intended to evoke the Talmudic dictum that women’s blood turns into milk after childbirth. See, e.g., *bNidah*, 9a.
+
 [^585]: Commenting on a related passage in the *Tikune Ha-Zohar*, Cordovero explicitly portrays the process whereby the “filth” cast into the Shekhinah in the course of her coupling with the serpent becomes menstrual blood. *Pardes*, II, 56a–b.
+
 [^586]: On the depictions of menstruation in classical kabbalah, see generally, Koren, *Forsaken :* *the Menstruant in Medieval Jewish Mysticism*, Part II.
 587\. *Zohar* III, 69a.
 
@@ -828,7 +875,9 @@ In light of these associations, we can see that the *Hakdamah* passage presents 
 We can even identify fairly precisely the moment in Zoharic mythology at which this demonic theurgy occurs. It is a moment at which Sama’el and Lilith have already been constituted, and thus somewhat subsequent to the stage portrayed in the “smoke” narrative in Zohar *Pekude* or the “scorching noon” narrative in Zohar *Va-Yetse*. Yet, it is also a moment at which Sama’el and Lilith have not fully acquired their place in the cosmos, or rather in which they are, at best, resident in the “great abyss.” The construction of their domain of the “vain firmament,” and their taking up of residence in it, is a result of the premature and perverse emission by the improper kabbalist. Finally, we should note that the movement from the “great abyss” to the “vain firmament” is a 
 
 [^592]: See, e.g., *bSanherdrin* 73a.
+
 [^593]: *bAvodah Zarah*, 19b and *bSotah*, 22a.
+
 [^594]: Rashi, commentary on *bSotah*, 22a.
 
 *[p. 224]* ^pg239

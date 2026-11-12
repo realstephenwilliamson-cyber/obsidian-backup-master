@@ -121,76 +121,132 @@ In this vein, our Sages said,[^53] "'The sun knows the time of its setting'; the
 These texts are presently in the hands of the sages. The texts written by the Sages of Israel in the age of the prophets from the tribe of Yissachar[^55] have not been transmitted to us. Nevertheless, since these concepts can be proven in an unshakable manner, leaving no room for question, the identity of the author, be he a prophet or a gentile, is of no concern.[^56] For a matter whose rationale has been revealed and has proven truthful in an unshakable manner, we do not rely on [the personal authority of] the individual who made these statements or taught these concepts, but on the proofs he presented and the reasons he made known.[^57] ^17-24
 
 [^1]: Our translation is based on authentic manuscript editions of the *Mishneh Torah* and early printings. There is a printing error in the standard published text.
+
 [^2]: In this instance as well, our translation is based on authentic manuscript editions of the *Mishneh Torah* and early printings. There is a printing error in the standard published text, where the words "and the first latitude" were added unnecessarily.
+
 [^3]: Note the apparent contradiction to the figures the Rambam mentions in Chapter 15, Halachah 2, and the resolution suggested in Note 4 of that chapter.
+
 [^4]: In these months, the ecliptic (the plane of the sun's orbit as extended to the celestial sphere) is inclined to the north. After the conjunction, the moon proceeds away from the position of the sun. When the inclination of the ecliptic is northward, this movement places it in a more northerly position. Therefore, the moon will set later than would be foreseen otherwise, resulting in a greater possibility of seeing the new moon.  
     As mentioned in the notes of Chapter 16, as the longitude of the moon increases, seeing the moon also becomes easier. In these months, however, a lesser longitude is required.
+
 [^5]: In these months, the ecliptic is inclined to the south. As the moon proceeds away from the position of the sun after conjunction, it will be in a more southerly position in these months. Therefore,the moon will set earlier than would be foreseen otherwise, resulting in a lesser possibility of seeing the new moon. To compensate for this difference, a greater longitude is required.
+
 [^6]: Our translation is based on authentic manuscript editions of the *Mishneh Torah* and early printings. There is a printing error in the standard published text, and the word "latitude" was added unnecessarily.
+
 [^7]: To summarize the Rambam's statements to this point: When the longitude of the moon (the angular distance between the moon and the sun) is minimal, the moon's crescent will be small and the interval between the time of its setting and that of the sun will be small. Hence, it is unlikely that the moon will be sighted.  
     When the longitude of the moon is greater, the size of the moon's crescent will increase, as will the interval between the time of its setting and that of the sun. Accordingly, the possibility of sighting the moon will increase.  
     When the longitude is significantly large, it is obvious that the moon will be seen and no other calculations are necessary. When, however, the longitude is of intermediate size, there is a question whether the moon will be seen. The resolution of this question depends on the inclination of the ecliptic and the latitude of the moon - i.e., the angle - and the direction of that angle - to which the moon is inclined from the plane of the sun.  
     [In this context, it is worthy to mention a question raised by several contemporary commentaries on *Hilchot Kiddush HaChodesh*: Seemingly, there is a direct connection between the concepts mentioned at the conclusion of Chapter 15 and those mentioned at the beginning of this chapter. Why does the Rambam interpose the discussion of the moon's latitude (the subject matter of Chapter 16, which becomes relevant only in subsequent halachot) between them?]
+
 [^8]: The sighting adjustment for longitude is based on two different factors: a) whether the constellation is inclined to the north or to the south as it intersects the horizon of Jerusalem, and b) the extent of the southerly position of that constellation.  
     To explain: The constellations intersect the horizon at different angles, reflecting the pattern of their inclination in the heavenly sphere. The constellations from Capricorn until Gemini intersect the horizon at a northerly angle, and the constellations from Cancer to Sagittarius intersect the horizon at a southerly angle.  
     With regard to the second factor, all the constellations are located to the south of Jerusalem. Jerusalem is located 32 degrees north, and the constellation of Cancer, the most northerly of the constellations, is located 23 1/2 degrees north. The more northerly a constellation is located, however, the greater the need for a subtraction from its longitude.
+
 [^9]: This is the constellation that the moon enters at the vernal (spring) equinox. It is inclined to the north and is not located in an extremely southerly position. Hence, a large sighting adjustment is necessary.
+
 [^10]: Since the constellation of Taurus intersects the horizon at a northerly inclination and it is located in a relatively northerly position, the largest adjustment is necessary.
+
 [^11]: Although this constellation is located in a very northerly position, its northerly inclination is less. Hence, a smaller subtraction is made.
+
 [^12]: Here, too, our translation is an emendation of the standard published text, based on authentic manuscript editions of the *Mishneh Torah* and early printings.  
     Although Cancer is located in the most northerly position of all the constellations, since it has a southerly inclination the sighting adjustment required is less.
+
 [^13]: This and the four constellations that follow have southerly inclinations. Hence, the figure subtracted from their longitude is less.
+
 [^14]: This is the smallest sighting adjustment, because this constellation is located in a more southerly position than the others with a southerly inclination.
+
 [^15]: From this point on, the sighting adjustment increases, because these constellations have a northerly inclination.
+
 [^16]: The commentaries have noted that although the general thrust of the adjustments suggested by the Rambam conform to the calculations of the astronomers, the exact figures he gives follow neither the classic Greek figures nor those of modern astronomy. It is possible to explain that the Rambam was speaking merely in approximations, giving us a figure useful enough to calculate the position where the moon would be sighted, but not an exact scientific measure. This theory is borne out by the fact that he does not provide different measures for northern and southern latitudes, although according to science these figures vary.
+
 [^17]: To explain: The true position of the moon reflects the line extending from the center of the earth through the center of the moon, as it is projected against the heavenly sphere. Since Jerusalem (or for that matter, any other location on the earth's surface) is not located at the center of the earth, but rather 4000 miles away, there will be a slight difference between the line described previously and the line extending from a person standing in Jerusalem to the center of the moon, as it is projected against the heavenly sphere. The closer the moon is to the horizon, the larger the sighting adjustment that has to be made.  
     [The same concept applies with regard to the sun. Nevertheless, since the distance between the earth and the sun is great, the angular difference between these two lines is not of consequence. The moon, by contrast, is located much closer to the earth and, at times, a difference of close to a degree can arise.]  
     In the evening, the moon will always appear slightly closer to the horizon than it actually is - i.e., it will appear closer to the position of the sun. Therefore, the angular difference between the two lines mentioned above should be subtracted from the moon's true position. As explained above, the extent of the adjustment to be made depends on the inclination at which constellation intersects the horizon and its latitude in the heavenly sphere.
+
 [^18]: This principle applies during all the PM hours. During the AM hours, by contrast, the sighting adjustment should be added to the position of the moon (Ralbach).
+
 [^19]: The sighting adjustment for the moon's latitude is derived by creating a parallax - i.e., a line directly parallel to the line running from the point of the moon's first longitude to its first latitude is drawn from the point of its second longitude. A second line is drawn from the position of an onlooker in Jerusalem through the point of the first latitude and intersecting the line of the moon's second latitude. The point where these two lines intersect is the moon's second longitude. The adjustment mentioned in the following halachah represents the angle between these two lines.
+
 [^20]: Because Jerusalem is situated in a more northerly position than all the Zodiac constellations, the moon will always appear more southerly than it actually is. Therefore, if its latitude is northerly, a subtraction is necessary. To use geometric terms: When the moon's latitude is northerly, its second latitude will always be closer to the point of its longitude than to its first latitude.
+
 [^21]: Since the moon will always appear more southerly, an addition is required when its original latitude is southerly. In geometric terms: When the moon's latitude is southerly, its second latitude will always be further removed from the point of its longitude than its first latitude.
+
 [^22]: This is the point directly after the vernal (spring) equinox, when the sun is inclined northward and enters the northern part of its orbit.
+
 [^23]: This is the point directly after the autumnal equinox, when the sun is inclined southward and enters the southern part of its orbit.
+
 [^24]: Here, too, our translation is an emendation of the standard published text, based on authentic manuscript editions of the *Mishneh Torah* and early printings.
+
 [^25]: The Rambam is speaking about the second latitude, since it is possible for the sighting adjustment to change a northerly latitude to a southerly one.
+
 [^26]: The purpose of the calculations that follow (reaching a third longitude and a fourth longitude) is to calculate the time between the setting of the sun and the setting of the moon. The first longitude is sufficient to inform us whether or not the crescent of the moon will be large enough to be visible. The subsequent calculations are necessary to determine whether or not there will be sufficient time for actually sighting the moon. For when the crescent is small, it is difficult to detect unless there is ample time before it sets.  
     The third longitude reflects the point in the celestial sphere that will set at the same time as the moon does, as seen by a person standing on the equator. This is not the point in the celestial sphere where the moon appears to be located, but rather a point in the celestial sphere that is reached by drawing a line originating at the equator, running parallel to the horizon of the equator, and extending through the center of the moon. The point where this line intersects the celestial sphere is the third longitude.  
     The reason for associating the moon's position with the equator is to establish a connection with a standard measure of time. In Jerusalem (and for that matter, anywhere else in the northern or southern hemisphere), the apparent movement of the celestial sphere varies with the seasons. On the equator, by contrast, the movement of the celestial sphere is constant at all times, 15 minutes to the hour.
+
 [^27]: Cf. [[Proverbs 02#^2-15|Proverbs 2:15]].
+
 [^28]: The angle between each particular constellation in the celestial sphere and the equator varies. The size of the adjustment to be made for the third longitude depends on that angle.
+
 [^29]: These are the points in the celestial sphere that intersect the horizon of the equator at the greatest angle. Therefore, the largest adjustment is necessary.
+
 [^30]: These are the points within the celestial sphere that are more or less parallel to the equator.
+
 [^31]: This means that when the moon's latitude is northerly, the third longitude will always be closer to the equator.
+
 [^32]: This means that when the moon's latitude is southerly, the third longitude will always be further removed from the equator.
+
 [^33]: These are the constellations that are inclined in a northerly direction.
+
 [^34]: I.e., the constellations that are inclined in a southerly direction.
+
 [^35]: This means that when the moon's latitude is northerly, the third longitude will always be further removed from the equator.
+
 [^36]: This means that when the moon's latitude is southerly, the third longitude will always be closer to the equator.
+
 [^37]: As happens when the moon is located in the beginning of the constellations of Cancer and Capricorn.
+
 [^38]: The Rambam's intent in these sets of calculations is to reach a point on the equator that will set at the same time the third longitude sets in Jerusalem. For although the third longitude was able to relate the moon's position to the equator, it did not take into consideration the difference between the horizon of the equator and the horizon of Jerusalem. This is accomplished by drawing a line from the third longitude to the equator, which is parallel to the horizon of Jerusalem.
+
 [^39]: Two factors are significant in determining the fourth longitude: a) The angle of the constellation's inclination to the horizon of the equator. The greater the inclination of the constellation, the closer the fourth longitude will be located to the equator.  
     b) whether the constellation is inclined to the north or to the south.  
     If the constellation is inclined to the north, the third longitude, and hence the place on the equator parallel to it, will be located further away from the horizon, resulting in a later setting and thus an extended fourth longitude. Conversely, if the inclination is southerly, the third longitude will be located closer to the horizon, resulting in a shortened fourth longitude.  
     Of these two factors, the latter is more significant, and causes a larger correction. To explain these factors with regard to the constellations of Pisces and Aries: These constellations are inclined to a great degree, a factor that would reduce the fourth longitude. Since, however, they are northerly inclined, and this is the stronger factor, a modest increase is required.
+
 [^40]: These constellations are inclined to the north, and the degree of their inclination is less than that of Pisces and Aries. Hence, a greater increase is required.
+
 [^41]: Here, the constellations begin a southerly inclination. Hence, although they are more parallel to the horizon of the equator, no addition is made.
+
 [^42]: In this instance, the degree of inclination of these constellations is great and their inclination is southerly. Both of these factors lead to a reduction in the fourth longitude. Hence, the greatest subtraction is required.
+
 [^43]: The Ralbach questions why the Rambam refers to the first latitude. Seemingly, it would be appropriate to make this correction based on the second latitude, for there is a significant difference between it and the first latitude. According to trigonometry, it also would appear that the calculations should be based on the second latitude.
+
 [^44]: Although the fourth longitude established a relationship between the equator and Jerusalem, it is still dependent on the third longitude, which relates to the moon and the celestial sphere as they set on the horizon of the equator. Through the correction mentioned here, we find a place on the extension of the equator that will set at the same as the moon sets in Jerusalem. Having reached this point, we can calculate the difference in time (15 degrees to the hour) between the setting of the sun and this point (which will set at the same time as the setting of the moon). Accordingly, we will be able to determine whether or not this interval will allow for the sighting of the moon.  
     The correction for geographic longitude is reached by drawing a line from the position of the moon parallel to the horizon of Jerusalem. One might ask: If this was the Rambam's intent, why were so many intermediate steps - the definition of the second, third, and fourth latitudes - necessary? Why didn't he suggest drawing the above- mentioned line at the very beginning of his calculations?  
     The explanation is that the Rambam allowed an individual to follow his own steps in arriving at this final figure. I.e., these lines and distances are all artificial and can be determined only by calculations. Through trigonometry, if one knows the length of one side of a triangle and two angles, or the length of two sides and one angle, it is possible to calculate the size of all three angles and all three sides. To find the line extending from the moon to the equator parallel to the horizon of Jerusalem, the Rambam had to build sets of triangles, and calculate angles based on the relationship of one triangle to another. The process he followed is reflected in the series of corrections he offers.
+
 [^45]: A northerly latitude means that the actual position of the moon is further removed from the horizon than the third longitude. This will result in a later setting of the moon. Accordingly, the correction based on geographic latitude will require addition to the fourth longitude. This applies regardless of whether the inclination of the constellation in which the moon is located is northerly or southerly.
+
 [^46]: A southerly latitude means that the actual position of the moon is closer to the horizon than the third longitude. This will result in an earlier setting of the moon. Accordingly, the correction based on geographic latitude will require subtraction from the fourth longitude. This applies regardless of whether the inclination of the constellation in which the moon is located is northerly or southerly.
+
 [^47]: Our translation represents a correction of the standard printed text of the *Mishneh Torah*.
+
 [^48]: It is possible that the Rambam's wording alludes to a concept mentioned previously, that the calculations he suggests are applicable only at the beginning of the month, when the new moon might be sighted.
+
 [^49]: I.e., barring clouds, as explained at the beginning of the following chapter.
+
 [^50]: As mentioned at the beginning of this chapter, the first longitude gives us information regarding the size of the moon's crescent and the difference between the moon's setting and that of the sun. When the first longitude is sufficiently large or when it is sufficiently small, it is possible to determine whether or not the moon will be sighted without considering extenuating factors - e.g., its longitude, the inclination of the constellation in which it is located, and the extent of that inclination. When, however, the first longitude is of intermediate length, these extenuating factors must be considered. The establishment of a systematic method of considering these factors is the purpose of all the computations mentioned in this chapter.
+
 [^51]: See Halachot 13 and 14.
+
 [^52]: As the Rambam mentioned at the very beginning of this discussion (Chapter 11, Halachah 6), the figures that he gives are not exact. They do, however, give us sufficient information to determine when and where the moon will be sighted.
+
 [^53]: *Rosh HaShanah* [[Rosh Hashanah 25#25a|25a]], commenting on [[Psalms 104#^104-19|Psalms 104:19]].
+
 [^54]: *Loc. cit.*
+
 [^55]: Commenting on [[I Chronicles 12#^12-32|I Chronicles 12:32]], "From the descendants of Yissachar, men who had understanding of the times...," *Bereshit Rabbah* 72:5 explains that the sages of the tribe of Yissachar were those responsible for the determination of the calendar. (See also the commentary of the Radak on this verse.)
+
 [^56]: The context of this commentary is not a proper place for a full discussion of the Rambam's perspective on the supposed conflicts between science and the Torah. It must be noted, however, that the statements made here, emphasizing the importance of the empirical evidence of science, should not be interpreted as indicating that the perspective science adopts at any given time should be accepted in place of the Torah's teachings. In this context, it is worthy to quote the Rambam's statements in *Hilchot Shechitah* 10:13:  
     Similarly, with regard to the conditions that we have enumerated as causing an animal to be *trefah* (unable to live for an extended period): Even though it appears from the medical knowledge available to us at present that some of these conditions are not fatal... all that is significant to us is what our Sages said, as [implied by [[Torah 48 - Shoftim#^17-11|Deuteronomy 17:11]]]: "[You shall act] according to the instructions that they will give you."
+
 [^57]: Our translation is based on authoritative manuscripts and early printings of the *Mishneh Torah*; it differs slightly from the standard printed text.

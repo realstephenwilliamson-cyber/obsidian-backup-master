@@ -22,18 +22,18 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Ps 5:9 - 6:4 |
-| Frag. 9 | Ps 38:16-23; |
 | Frag. 2 | Ps 25:8-12 |
 | Frag. 3 | Ps 25:15 |
-| Frag. 10 | Ps 47:2 |
 | Frag. 4 i | Ps 31:23-25; 33:1-12 |
-| Frag. 11-12 | Ps 53:2 - 54:6 |
 | Frag. 5 | Ps 34:21 - 35:2 |
-| Frag. 13 | Ps 56:4 |
 | Frag. 6 | Ps 35:13-20 |
-| Frag. 14 i-15 | Ps 62:13 - 63:4 |
 | Frag. 4 ii | Ps 35:26 - 36:9 |
 | Frag. 7-8 | Ps 38:2-12. |
+| Frag. 9 | Ps 38:16-23; |
+| Frag. 10 | Ps 47:2 |
+| Frag. 11-12 | Ps 53:2 - 54:6 |
+| Frag. 13 | Ps 56:4 |
+| Frag. 14 i-15 | Ps 62:13 - 63:4 |
 | Frag. 19 ii-20 | Ps 69:1-19 |
 
 [[DSS 4Q82|← 4Q82]] · [[Qumran|index]] · [[DSS 4Q84|4Q84 →]]

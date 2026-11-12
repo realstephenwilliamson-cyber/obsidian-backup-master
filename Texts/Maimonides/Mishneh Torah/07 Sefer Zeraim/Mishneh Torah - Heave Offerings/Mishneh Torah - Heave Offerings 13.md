@@ -89,65 +89,119 @@ If there were two *se'ah* of grain and one grainheap before a person and he said
     Why did [the Sages] choose the figure of 100 for *terumot*? For *terumat ma'aser* is one hundredth of the entire crop, and yet it causes the entire crop to be "sanctified," as \[[[Torah 38 - Korach#^18-29|Numbers 18:29]]] states: "its sacred part." Our Sages said: "An entity which must be separated from it sanctifies it, if it returns to it.
 
     Nevertheless, from Halachah 13-14, it appears that according to Scriptural Law, *terumah* is nullified when mixed with a majority of ordinary produce and the verse is cited merely as a support.
+
 [^2]: Obviously, if the produce which is *terumah* is distinct, it is sufficient for him to remove it.
+
 [^3]: In *Hilchot Ma'achalot Assurot* 15:15, the Rambam explains: "Why is it necessary to separate [a measure of] *terumah* and not a measure of *orlah* or mixed species from a vineyard? Because *terumah* is the property of the priests." I.e., from a ritual perspective, it is not necessary to remove the *se'ah*, for the existence of the *terumah* has been nullified. Nevertheless, from a financial perspective, it is necessary to give the priest his due. This is the explanation of the concluding clause.
+
 [^4]: And it is forbidden for a non-priest to partake of it.  
     In his Commentary to the Mishnah (*Demai* 1:3), the Rambam explains that [[Torah 18 - Mishpatim#^22-23|Exodus 22:23]] uses the term *dima* as a synonym for *terumah*. Hence our Sages referred to a mixture of *terumah* and ordinary produce in this manner.
+
 [^5]: Which is far less than the price of ordinary produce. Since the *terumah* is not nullified, we have to consider the possibility that every kernel is *terumah*.
+
 [^6]: Which is given to him without cost.
+
 [^7]: Since the flavor of the *terumah*is not recognizable, it is considered as nullified. This principle applies with regard to all the Torah's prohibitions [the Rambam's Commentary to the Mishnah (*Orlah* 2:7)].
+
 [^8]: As required by Halachah 1.
+
 [^9]: Even though the *se'ah* was taken out to be given to the priest, it is not considered as *terumah*. Instead, we calculate the proportion of *terumah* in the first mixture, on that basis, determine how much of the *se'ah* that fell is considered to be *terumah* and then see if that amount is one hundredth of the new mixture or not. For example, if one *se'ah* fell in one hundred *se'ah*, we consider the *se'ah* that was removed as slightly less than 1/100th *terumah*. Thus if it fell into a *se'ah* or more of ordinary produce, the second mixture is permitted [the Rambam's Commentary to the Mishnah (*Terumot* 5:5)].
+
 [^10]: And thus a *se'ah* of *terumah* is being mixed with less than 100 *se'ah* of ordinary produce.
+
 [^11]: In this instance, every entity remains discrete. It's only that an observer cannot distinguish between the *terumah* and the ordinary produce (see Radbaz).
+
 [^12]: I.e., instead of calculating the percentage of *terumah* alone in the new mixture, we consider the first mixture as if it were *terumah*. Only if the second mixture is 100 times as large as the first is it permitted.
+
 [^13]: We do not calculate the percentage of *terumah* in the second mixture. Even if the *terumah* is more than one hundredth of the second mixture, that mixture is permitted.
+
 [^14]: Since the mixture was permitted, it is considered as if the *se'ah* of *terumah* that fell into it does not exist. We do not consider it as existing within the mixture, so that were it to be combined with other *terumah*, the entire mixture would be considered *miduma*.
+
 [^15]: The Ra'avad differs with the Rambam concerning this figure, maintaining that the mixture is considered as *miduma* if 51 *se'ah* of *terumah* fall into the ordinary produce in the above manner. His rationale is that since a *se'ah* is removed from the mixture, it is possible that he is removing a *se'ah* of ordinary produce. Hence, after 51 *se'ah* fell and 50 *se'ah* were removed, it is possible that there is a majority of *terumah* in the mixture. The Radbaz justifies the Rambam's ruling, explaining that it is logical to assume that each *se'ah* that is removed has an proportionate amount of *terumah* and ordinary produce.
+
 [^16]: And thus the entire mixture would be considered as permitted.
+
 [^17]: The Ra'avad comments on the Rambam's ruling, noting that he is following what appears to be the minority opinion in *Terumot* 5:8. The *Kessef Mishneh* questions the intent of the Ra'avad's comments and asserts that according to the *Tosefta*, the majority opinion also accepts the distinction the Rambam makes here. This interpretation is borne out by the Rambam's Commentary to that mishnah.
+
 [^18]: For high quality grain produces more flour and less bran than lower quality grain. Thus more of the lower quality grain is bran and more of the higher quality grain is flour.
+
 [^19]: The Ra'avad notes that the Jerusalem Talmud (*Terumot* 5:9) goes even further and says that the bran in the *terumah*, since it is considered waste and not food, can be considered as part of the ordinary produce and if there is 100 times the weight of the flour from the *terumah* when this bran is added to the ordinary produce, the *terumah* is nullified. The Radbaz and the *Kessef Mishneh* suggest that the Rambam does not mention this point, because he feels that the Babylonian Talmud - according to which halachah is decided - does not accept it. Nevertheless, it appears that the *Shulchan Aruch* (*Yoreh De'ah* 99:1) follows the Ra'avad's view, although the Rama states that as a stringency, the Rambam's perspective should be followed.
+
 [^20]: A measure of liquid weight of the Talmudic period.
+
 [^21]: I.e., the dregs had been removed from the wine that is *terumah*, but had not been removed from the wine which was ordinary produce.
+
 [^22]: Counting the dregs of the ordinary produce as part of the mixture.
+
 [^23]: The Rambam is apparently saying that in this instance, the dregs of the *terumah* wine are counted and unless the ordinary wine is 100 times the amount of that wine including its dregs, it is considered as *miduma*. See Chapter 11, Halachah 13, which states that the dregs are considered as *terumah*.  
     The Ra'avad differs and maintains that in this instance, like the one described in the previous halachah, the dregs of the *terumah* are not counted, because they are wastes. The Radbaz justifies the Rambam's ruling, explaining that wine dregs are different than the wastes mentioned in the previous halachah, because they have the flavor of wine and can produce wine.
+
 [^24]: The Ra'avad explains the rationale for this ruling as follows: The water is not considered as the same type as wine. Hence, it cannot nullify it unless the flavor of the wine is no longer noticeable. The wine, by contrast, is considered its type and it requires 100 times the weight of the *terumah*. The *Kessef Mishneh* explains that this can be understood as the Rambam's intent.
+
 [^25]: The Radbaz notes that in *Hilchot Ma'achalot Assurot* 15:25, the Rambam writes:
 
     It is forbidden to nullify a substance forbidden by Scriptural Law as an initial and preferred measure. If, however, one nullified it, the mixture is permitted. Nevertheless, our Sages penalized such a person and forbade the entire mixture. It appears to me that since this is a penalty, we forbid this mixture only to the person who transgressed and nullified the prohibited substance. For others, however, the entire mixture is permitted.
 
     In the present instance, however, it appears that the produce is considered as *miduma*, not only for the person who mixed together, but for everyone. The Radbaz differentiates between the two situations, explaining that in *Hilchot Ma'achalot Assurot*, the Rambam is speaking about a forbidden substance. Hence, if it was considered forbidden, it would have no value entirely. In our halachah, even if the mixture is considered *miduma*, it can be sold to priests and thus, it will not be wasted entirely.
+
 [^26]: I.e., since the prohibition is of Rabbinic origin, one may nullify it as an initial preference, as stated in *Hilchot Ma'achalot Assurot* 15:26.
+
 [^27]: The Radbaz explains that the mixture may be eaten by a priest even when he is ritually impure or by a non-priest.
+
 [^28]: And the wine that is *terumah* is nullified, because it is mixed with a majority of ordinary produce.
+
 [^29]: The Ra'avad differs, maintaining that once there is no longer a majority of ordinary produce, the mixture is forbidden. The *Kessef Mishneh* justifies the Rambam's ruling, explaining that once the *terumah* is nullified, it does not become a factor again if other *terumah* is added.
+
 [^30]: The rationale is that the produce that grows from *terumah* is not *terumah* and is forbidden to non-priests only as a stringency (Chapter 11, Halachot 21-22). Hence, if there is any confusion about which produce is *terumah*, it is all permitted.
+
 [^31]: For then there is no trace of the original plant.
+
 [^32]: In which instance, the new plant grows from a bulb of the original one and that original plant never decomposes entirely.
+
 [^33]: For the *terumah* is distinct and has not become mixed with the ordinary produce [the Rambam's Commentary to the Mishnah (*Terumot* 9:5)].
+
 [^34]: Without paying attention to the prohibition.
+
 [^35]: For as stated above, as an initial preference, a prohibited substance should not be nullified. It must, however, be emphasized, the Rambam's intent is not to let the produce remain in the ground forever. Instead, it should be harvested as produce which is *miduma* and sold to priests at the price of *terumah*.
+
 [^36]: Since we are unsure of the identity of the produce that fell into the mixture, we do not rule it forbidden because of the doubt. Instead, we say that the ordinary produce fell into it.  
     This halachah involves produce that is forbidden as *terumah* according to Rabbinic decree, e.g., *terumah* from the Diaspora or a mixture of *terumah*and a majority of ordinary produce. These principles are also applied in other contexts, see Chapter 10, Halachah 14, and *Shulchan Aruch* (*Yoreh De'ah* 111:1).
+
 [^37]: Even if the original was *terumah*
+
 [^38]: Because of the doubt applying to its status.
+
 [^39]: The same principle applies here. Since we are unsure if the identity of the produce which fell into the mixture, we do not rule that it is forbidden because of the doubt.
+
 [^40]: Since each person asks concerning the status of the produce that he sowed individually, both are permitted, because in each instance, there is a doubt.
+
 [^41]: I.e., if the larger container contained one *se'ah* and the smaller container contained half a *se'ah*, we require the mixture to contain 50 ½ *se'ah* to be permitted, not 101 *se'ah*.
+
 [^42]: And thus the same person is asking about both plantings of produce. Hence, there is more room for stringency.
+
 [^43]: Since no trace of the original produce remains, we rule leniently.
+
 [^44]: Since the produce concerning which a doubt arose originally continues to exist, stringency is called for.
+
 [^45]: For then it is considered as if he sowed them both together.
+
 [^46]: But rather they are of the same weight. Were there to be a majority of ordinary produce, according to Scriptural Law, the existence of the *terumah* would already be nullified and thus there would be greater room for leniency. Nevertheless, as the Rambam continues to explain, even when there is not a majority, since the entire question is one of Rabbinic Law, we allow leniency. If, however, there is a majority of *terumah*, even when it is forbidden only according to Rabbinic Law, the mixture is forbidden.
+
 [^47]: See Chapter 1, Halachah 26.
+
 [^48]: In such an instance, the existence of the *terumah* would already be nullified and thus there would be greater room for leniency, since then the question is one of Rabbinic Law. The above leniency applies only with regard to such questions and not to questions involving Scriptural Law.
+
 [^49]: From which *terumah* and the tithes have not been separated.
+
 [^50]: Though in and of itself, the amount of *terumah* which fell in the grainheap would not disqualify it, when it is combined with the *terumah* that was designated it does.  
     The Ra'avad appears to have had a different version of the Jerusalem Talmud, *Terumot* 3:3, the Rambam's source. Hence he differs with the Rambam's ruling..
+
 [^51]: This law applies even if no *terumah* has fallen into the grainheap.
+
 [^52]: Because there is less than one hundred times the weight of the *terumah* in that corner.
+
 [^53]: The one which contains the *terumah* is certainly *miduma*. Since we do not know which one that is, they are both considered as *miduma*.
+
 [^54]: Hence he must observe the restrictions of *terumah* with regard to both of them.
+
 [^55]: Hence *terumah* must be separated in a conditional manner. One must bring other produce and say: "If *terumah* has not been separated for this grainheap, than this is *terumah* for it. But if it is the other grainheap from which *terumah* has not been separated, it is *terumah* for that."

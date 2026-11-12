@@ -159,7 +159,9 @@ To the above sources, I would like to add a passage from the *Mahābhārata* (fi
 *kālīṃ raktāsyanayanāṃ raktamālyānulepanām |* *raktāmbaradharām ekāṃ pāśahastāṃ śikhaṇḍinīm ||* *dadṛśuḥ kālarātriṃ te smayamānām avasthitām |* *narāśvakuñjarān pāśair baddhvā ghoraiḥ pratasthuṣīm ||* *harantīṃ vividhān pretān pāśabaddhān vimūrdhajān ||* *svapne suptān nayantīṃ tāṃ rātriṣv anyāsu māriṣa |* *dadṛśur yodhamukhyās te ghnantaṃ drauṇiṃ ca nityadā ||* *yataḥ pravṛttaḥ saṃgrāmaḥ kurupāṇḍavasenayoḥ |* *tataḥ prabhṛti tāṃ kṛtyām apaśyan drauṇim eva ca ||*
 
 [^11]: Ibid., 226–258.
+
 [^12]: Ibid., 258–270.
+
 [^13]: See Couture and Schmid 2001, Schmid 2002, Yokochi 2004 and Sarkar 2017, 41–69, for the incorporation of Durgā in Vaiṣṇava traditions.
 
 *[p. 330]* ^pg365
@@ -175,6 +177,7 @@ Towering over the nightmarish battlefield, a grinning image of Death, Kālarātr
 The Tantricization of Durgā’s worship must have been well established by 700 CE, by which time it must have already been correlated with worship of Śiva, rather than Viṣṇu. Such is the impression created by a minutely detailed description of Durgā’s shrine and her worshipper in Bāṇa’s *Kādambarī* (pp. 224–228[^15]). On his way from Hemakūṭa to Ujjayinī, the hero of the work, Candrāpīḍa, stops for shelter at a shrine of the Goddess that comes midway. The shrine is nestled in the midst of a densely wooded forest, and the narrative, through a telescoping of perspective from outside to inside the shrine, provides a leisurely description of its design, appearance and atmosphere. From afar Candrāpīḍa first sees a “crimson ensign,” “inscribing the sky with a gold trident, from which swung a terrifying bell making a raucous clanging (*gharghararava*) that dangled down from an iron chain attached to the tip, arranged with a yak-tail whisk as splendid as a lion’s mane” (*dolāyitaśṛṅgasaṅgilohaśṛṅkhalā-valambamānagharghararavaghoraghaṇṭayā ca ghaṭitakesarisaṭāruciracāma-rayā kāñcanatriśūlikayā likhitanabhaḥsthalam … raktadhvajam*; p. 224). Going ahead a little, he then sees that the Goddess Caṇḍikā “was enclosed by a door made from the ivory of wild elephants, as yellowish-white as fragments
 
 [^14]: This appears to be a play with Rātri, another name for this goddess.
+
 [^15]: All references to the *Kādambarī* in this paragraph are from Peterson’s edition of 1889.
 
 *[p. 331]* ^pg366
@@ -204,8 +207,11 @@ wider context for this attitude of ambivalence is a historical transition: the G
 Regarding the Southern Navarātra, it is tempting to conjecture that the roots of worshiping the Goddess in Devagiri and Vijayanagara drew also upon the older cult of Koṛṛavai, the stag-borne goddess described in the old Tamil poem, the *Cīlapattikāram.*[^17] In fact many salient elements of Durgā’s rituals in general (especially, though, in the East), such as the transactional nature of worship, trance, possession, ecstatic dancing, singing hymns, the important role of women, virgin-worship and heroic self-sacrifice involving blood are to be found even here, which suggest that among all elements of the Navarātra, these appear to be the earliest. In Canto XII Koṛṛavai is said to be worshipped by cattle-raiders for victory in their missions.[^18] The canto, called “Vēṭṭuvavari” (The Hunter’s Song), portrays the Eyinar community worshipping their protective goddess for victory before setting off on a raid. The chapter describes vividly the stages of *pūjā* at the shrine of Aiyai (Koṛṛavai), eulogized throughout the canto as Durgā, the slayer of Mahiṣa, the sister of Viṣṇu and the consort of Śiva. First, a respected Maravar lady Śālinī, an oracle, becomes possessed and dances, singing a hymn urging the hunters to offer tribute to the Goddess.[^19] In the hymn Śālinī rebukes the men for growing weak and no longer robbing passers-by,[^20] the implication being that the Goddess will re-invigorate them with heroic zeal. After the oracle performs, a virgin is selected from the Eyi-nars, in what appears to be an early form of the *kumārīpūjā*, and treated with especial care as the Goddess. Dressed in tiger skin, with a snake of silver and a wild hog’s tooth in her matted hair, a necklace of tiger-tooth, a bow of wood and
 
 [^17]: See Dikshitar 1939 and Danielou 2009. All references to the *Cīlapattikāram* are from Dikshitar 1939. I am grateful to Professor Goodall for kindly indicating the need to include mention of this work within this account.
+
 [^18]: *Cīlapattikāram*, p. 180. See also Danielou 2009, 76–85, and Mahalakshmi 2011, 68–71.
+
 [^19]: *Cīlapattikāram*, XII.6–11; Danielou 2009, 77; Mahalakshmi 2011, 69.
+
 [^20]: *Cīlapattikāram*, XII.12–19; Danielou 2009, 77.
 
 *[p. 335]* ^pg370
@@ -215,12 +221,19 @@ seated on a stag, the *kumārī* is brought before the shrine of the Goddess, se
 Koṛṛavai appears. She bore a moon on her hair, a third eye on her forehead; her lips were red, her throat blue with poison like that of her consort Śiva. The snake Vāsukī was her girdle and she wore a bodice resembling snake-teeth, an elephant’s hide over her upper body and a tiger skin over her hips; she carried a trident. There are rich ornaments on her feet. Dark in hue as a sapphire,[^24] bejewelled, youthful, beautiful, ascendant on the head of the buffalo demon, she is called, among many names, the sister of Kṛṣṇa, Durgā, Gaurī, the giver of victory, worshipped by Viṣṇu and Brahmā,[^25] and also the defeater of Kaṃsa.[^26] The names and descriptions indicate that even at this early period, circa 450 CE, when the poem is thought to have been composed,[^27] the Goddess, whose initial sectarian affiliation was with Kṛṣṇa, had already become associated with Śiva, and moreover had acquired an independent identity as a supreme divinity, worshipped by all the gods. Another hymn is sung by a girl to the virgin dressed as the Goddess, in which the duality of Koṛṛavai-Durgā is emphasised in a series of rhetorical questions or paradoxical contrasts: she is worshipped by gods and is an exalted repository of Vedic knowledge, yet also stands on a buffalo head adorned with wild animal hides; standing as light above the trinity of Viṣṇu, Śiva and Brahmā, she stands also on a humble stag with twisted black horns, holding aloft, with hands adorned with delicate bangles, a cruel sword; she who is consort of Śiva with three eyes also has a fierce red-eyed lion and the Vaiṣṇava conch and the discus.[^28] She is also said to have danced the *marakkāl*,
 
 [^21]: For the trees see *Cīlapattikāram* XII verse not indicated, p. 184; Danielou 2009, p. 79.
+
 [^22]: *Cilapattikāram* XII.20–53; Danielou 2009, 78; Mahalakshmi 2011, 71.
+
 [^23]: *Cilapattikāram* XII.51–53; Danielou 2009, 78.
+
 [^24]: *Cīlapattikāram* XII, verse not indicated, p. 188; Danielou 2009, 83–84.
+
 [^25]: *Cīlapattikāram* XII, verse not indicated, p. 188; Danielou 2009, 83–84.
+
 [^26]: *Cīlapattikāram* XII. verse not indicated, p. 188; Danielou 2009, 84.
+
 [^27]: Regrettably the dating of this fine work has not yet been settled. Dikshitar (1939, 8–10) suggests sometime in the second century CE. Here I have cited the date proposed by Zvelebil (1977, 132), which nevertheless is inconclusive. I am grateful to Dominic Goodall for explaining the issues concerning the problem of dating this text and providing me with Zvelebil’s study.
+
 [^28]: *Cīlapattikāram* XII, verse not indicated, p. 185; Danielou 2009, 80–81.
 
 *[p. 336]* ^pg371
@@ -232,7 +245,9 @@ Four things illuminated by the description are worth pointing out. Koṛṛavai 
 A historical survey of the Navarātra’s developmental pattern reveals that it acquired its characteristic shape from a confluence of two different traditions: first, a festival of the goddess Nidrā-Kālarātri on the ninth *tithi* of the dark half of a monsoon month, centred on sanguinary rites exhibiting heroism, and second, a military tradition celebrated in autumn centred on lustrating weapons and armies with fire to ward away ill omens. In this way, through a gradual process of coalescence and subsequent transformation, the Navarātra acquired two of its hallmarks: the central place of the Goddess as the deity to whom all the rituals were dedicated, and the autumnal season as its most favourable and appropriate time. The phases by which this confluence occurred and then further developed show us how a relatively small single-day civic festival, performed by Vaiṣṇavas as part of the celebrations of Janmāṣṭamī
 
 [^29]: *Cīlapattikāram* XII, verse not indicated, p. 186; Danielou 2009, 82.
+
 [^30]: *Cīlapattikāram*, XII, verse not indicated, p. 186; Danielou 2009, 83; Mahalakshmi 2011, 68.
+
 [^31]: *Cīlapattikāram* XII, verse not indicated, pp. 187–188; Danielou 2009, 84–85.
 
 *[p. 337]* ^pg372
@@ -242,6 +257,7 @@ A historical survey of the Navarātra’s developmental pattern reveals that it 
 We can map out two broad regional traditions to have matured later in courts: an Eastern and a Deccan one. By and large these formed the basic blueprint for localized variations. As descriptions of Rajput rites of the *śamī* tree and the weapon-shooting on Daśamī from colonial ethnographic reports from the nineteenth century show, many of the Rajasthani royal rituals were extremely similar to the template of the Southern Navarātra.[^33] The most splendid Navarātras seem to have flowered in the ornately ritualized Tantricized environments of Eastern India, among which the kingdom of Mithilā provides us with the most detailed testimonia. These appear to have percolated (in as much as this is reflected through citations) into traditions as far afield as the Deccan. In Mithilā the ten-day structure seems to have matured, and the ferocious identity of the Goddess took a central place in the Tantric rites of Mahāṣṭamī and Mahānavamī. This North-Eastern tradition developed into the Eastern or Gauḍīya tradition—a trend evidenced by a fifteenth-century Bengali work, the *Durgāpūjātattva* by Raghunandana, which incorporates rituals of a Bengali character, such as summoning goddesses and worshipping them in nine leaves from crops. A separate, even more markedly Tantric tradition, with elements borrowed from the Kubjikā cult, developed later in the Navarātra or Dasain of Nepal, but for the time being this will remain excluded from the discussion. In the South, rituals of a Tantric character were largely eschewed. The Navarātra was choreographed around the public display of the king, his court, his weapons and war-animals and magnificent parades, while the worship of the Goddess, and indeed the summoning of the Goddess into the king, occurred privately. During these days the king would worship nine virgins considered vessels of nine forms of the Goddess (different from the Navadurgās of Mithilā and Nepal) for powers such as mastery over enemies, knowledge, riches
 
 [^32]: The rituals of Navamī appear in the *Śivadharma*, and in a parallel in an early Śaiva scripture, the *Niḥśvāsamukhatattva*; these are treated in greater detail in Sarkar 2017, 72–76.
+
 [^33]: Report of Alexander Forbes, in Kinsley 1988, 106–107.
 
 *[p. 338]* ^pg373
@@ -269,9 +285,13 @@ community profiting from the worship are the Eyinār hunters, a representative o
 ferent religious affiliations is through allowing optionality: nearly all manuals
 
 [^36]: *Devīpurāṇa* 91.1: *brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdro vā yadi vā striyaḥ | pūjayen mātaro bhaktyā sa sarvāṃl labhatepsitān ||* (*labhatepsitān* should be understood as *labhate+īpsi-tān*; the Sanskrit of this work is idiosyncratic).
+
 [^37]: *Devīpurāṇa* 35.17cd: *kanyā devyā svayaṃ proktā kanyārūpā tu śūlinī* |.
+
 [^38]: *Devīpurāṇa* 22.24: *sarveṣu sarvavarṇeṣu tava bhaktyā prakīrtitā | kṛtvāpnoti yaśo rājyaṃ putrāyurdhanasampadaḥ ||* (-*sampadaḥ* is the reading of Sharma’s edition, adopted by the suggestion of S. Hatley; the Bengali edition reads -*sampannaḥ. Bhaktyā* is used as nominative singular for *bhakti*).
+
 [^39]: *Devīpurāṇa* 88.1–3: *vedaiś śivāgamais tv etāḥ pūjitāś ca mumukṣubhiḥ |* *gāruḍe bhūtatantre ca bālatantre ca pūjitāḥ |* *sādhyante sarvakāryāṇi cintāmaṇisamāḥ śivāḥ ||* *pāṣaṇḍibhir bhaviṣyais tu bauddhagāruḍavādibhiḥ |* *svadharmaniratair vatsa svena nyāyena pūjitāḥ ||* *yena yena hi bhāvena pūjayanti manīṣiṇaḥ |* *tena tena phalaṃ dadyuḥ dvijānām antyajām api ||* Quoted from unpublished draft critical edition prepared by S. Hatley. This passage concerns worship of the Seven Mothers, who are included in the worship of Durgā, even during the Navarātra, as her attendants. A translation, citing the working draft of Hatley ( *forthcoming*), is as follows: “People desiring liberation worship the Mothers by way of the Vedas and the Śaiva Tantric revelation. They are also worshipped in accordance with the *Gāruḍatantra*s, *Bhūtatantra*s, and *Bālatantra*s. Beneficent, they bring all endeavors to fruition, and are like wish-fulfilling jewels. Heretics of the future—\[viz.\] the Buddhist proponents of Gāruḍa Tantra—will worship them according to their own methods, devoted to their own ways, dear child. They give rewards that accord with any disposition wise people worship them with, whether they be Brahmins or even lowborn outcastes.” I am grateful to Dr. Hatley for sharing his draft translation and edition with me and indicating the need to include mention of the *Devīpurāṇa*.
+
 [^40]: For a discussion of the iconography, *kāvya* and narratives in Cālukya-era inscriptions portraying the goddess favouring a ruler, see the Introduction, Chapter 1, Chapter 3 and Chapter 6 of my book *Heroic Shāktism* (Sarkar 2017). One of the arguments therein is that prior to the *Devīmāhātmya*, the worship of the goddess seems to have been non-sectarian and open to all rulers regardless of their caste. It is from the fourteenth century that we find restrictions concerning who could worship the goddess and in what way in Dharmaśāstric literature such as the *Puruṣārthacintāmaṇi*, also treated in my book.
 
 *[p. 341]* ^pg376
@@ -433,8 +453,11 @@ What we are to understand here, one must suppose, is that in modern times Śāri
 Unfortunately fieldwork of this kind does not disclose the history of the cult. We know that the first scriptures of the cult of Tripurā were written not before the eleventh century;[^3] needless to say, they make no mention of Śārikā. On the other hand, the local Kashmirian cult of Śārikā is at least as old as the *Kathāsaritsāgara* (second half of the twelfth century),[^4] and it is rather doubtful that the two goddesses’ association is this old.
 
 [^1]: See Sanderson 2009, 111.
+
 [^2]: For instance, Lakṣmīdhara in his commentary on the *Saundaryalaharī* reads the third pāda as *vṛttatribhūpurayutaṃ paritaś caturdvāḥ* and in the fourth *śrīcakram etad* \[…\].
+
 [^3]: Sanderson 2015, 32.
+
 [^4]: See 12.6.111: *yena pradyumnaśikharaṃ śārikākūṭam ity api* \[…\], and 12.6.116: *tatra snātvā vita-stāyām arcayitvā vināyakam saṃpūjya śārikāṃ devīṃ digbandhādipuraḥsaram*.
 
 *[p. 350]* ^pg385
@@ -446,8 +469,11 @@ figure 14.1
 For finding out more about the cult of Śārikā, including her ritual and possibly doctrinal details, we have a single published source, the *Devīrahasya*,[^5] which contains passages on the cult of the Kashmirian lineage deities. In particular, the ritual texts appended to the edition of the *Devīrahasya* give the *mantroddhāra, sahasranāma* and other typical elements of the worship of these deities. In this text Śārikā is clearly identified as having the form of a stone (*śilārūpā*)[^6] on the Pradyumna hill. Her worship is said to remove the impurity (*mala*) stemming from such capital offences as the murder of a Brahmin or drinking alcohol, or eating what is forbidden.[^7] The details of the mantra are given, as are the Ṛṣi, etc., a *dhyānaśloka*, her *yantra*, and how to employ the mantra for the magic acts of immobilizing (*stambhana*) and so forth.[^8] This is followed by a *Śārikāpūjāpaddhati* (pp. 412–419).
 
 [^5]: *Devīrahasya*, pp. 407 ff.
+
 [^6]: Op. cit., p. 407.
+
 [^7]: Op. cit., p. 408.
+
 [^8]: Op. cit., pp. 410 ff.
 
 *[p. 351]* ^pg386
@@ -465,14 +491,23 @@ Further sources are difficult to trace or remain unpublished. First is a so-call
 *oṃ jaya bhagavatyai vindhyavāsini kailāsavāsini śmaśānavāsini huṅkāriṇi kā-lāyini kātyāyani himagiritanaye kumāramātaḥ govindabhagini śitikaṇṭha*[^16-p351] *bharaṇe aṣṭādaśabhuje bhujagavalayamaṇḍite keyūrahārābharaṇe jaya-kha-ḍgā-triśūla-ḍamaru*[^17-p351]*-mudgara-paraśu-caṣaka-kalaśa-śaracāpa-varadābhaya-pāśa-pustaka-kapāla-khaṭvāṅga-gadā-musula-tomaravarahaste kṛpāpare pra-bhūtavividhāyuddhe kṛpāprāgbhūtavigrahe caṇḍike caṇḍaghaṇṭe kirātaveśe brahmāṇi rudrāṇi nārāyaṇi brahmacāriṇi divyatapovidhāyini vedamātaḥ gāya-tri bhāvitri sarasvati sarvādhāre sarveśvari viśvakartā (sic) samādhiviśrāntimaye cinmaye cintāmaṇisvarūpe kaivalye kaivalyasvarūpe śivasvarūpe śive nirāśraye nirupādhimaye nirāmayapade brahmaviṣṇumaheśvaranimitte*[^18-p351] *mohani tosaṇi*
 
 [^9]: Aithal 1999, 35. Aithal gives a Kashmirian edition (*Bhaktivivekasāra*, Śrīnagar/Bombay: 1927), but this work has not made it into a catalogued and accessible library.
+
 [^10-p351]: *Verzeichnis der orientalischen Handschriften in Deutschland* 2.2.711 and 712.
+
 [^11-p351]: Oriental Research Library, University Campus Hazaratbal, Srinagar, National Mission for Mss. DSO 0000/5517.
+
 [^12-p351]: There are other sources that utilize the same material, but with variations: the *Siddhalakṣmīpūjāpaddhati*—I have merely access to the transcription of ms. “Kashmir Research Center accession no: 2376” by the Muktabodha Institute—has for instance a completely different third pāda of the starting verse. The *Agnikāryapaddhati* also transmits this verse.
+
 [^13-p351]: *saptasapti*\] em. The ms. reads *saptasapta* as does the one in the Lindenmuseum, Stuttgart.
+
 [^14-p351]: *paṅkaja*\] em.; *paṅka* ms.
+
 [^15-p351]: *ārtihā*\] S; *āśrayā* VOHD.
+
 [^16-p351]: *śiti*\] em.; *śati* ms.
+
 [^17-p351]: *ḍamaru*\] em.; *ḍumara* ms.
+
 [^18-p351]: *nimitte*\] em.; *nimite* ms.
 
 *[p. 352]* ^pg387
@@ -493,14 +528,23 @@ The main information on a deity for ritual purposes is of course her mantra. Her
 So it seems the cult of Śārikā is fairly old, but it has been influenced by the cult of Tripurā or Śrīvidyā. One such influence must have been the Kashmirian Kauls, a clan that migrated to Kashmir not before the fifteenth century[^24-p352] and brought their own cults with them, which were then fused with the local Kashmirian cults.[^25-p352] The most important figure in this group, Sāhib Kaul, is credited with three ritual handbooks and furthermore fused Advaita Vedāntic ideas with the Kashmirian *Pratyabhijñā*.[^26-p352] Sāhib Kaul has also composed a further text on the deity, a *Śārikāstotra*[^27-p352] in eighteen verses which, as he says, gives the derivation of her Mantra.[^28-p352]
 
 [^19-p352]: *yogeśvari*\] em.; *yogaśvari-* ms.
+
 [^20-p352]: We have to count the bow and arrow as one item held in the same hand.
+
 [^21-p352]: *Agnikāryapaddhati*. Manuscript no. 781, Research Library of the Jammu and Kashmir Government, Shrinagar. Transcription of the Muktabodha Indological Research Institute.
+
 [^22-p352]: *asya śrīśārikāmantrasya | śrīmahādeva ṛṣiḥ | triṣṭupchandaḥ || śrīśārikābhagavatī devatā ||* *śāṃ bījaṃ || āṃ śaktiḥ hrāṃ kīlakam || home viniyogaḥ ||*
+
 [^23-p352]: *oṃ hrīṃ śārikāyai vidmahe | saptākṣaryai dhīmahi || tan naḥ śilā pracodayāt* ||3||
+
 [^24-p352]: Sanderson 2003–2004, 362–366.
+
 [^25-p352]: Sanderson 2009, 124–125.
+
 [^26-p352]: See Hanneder 2001.
+
 [^27-p352]: Not to be confused with the *Śārikāstotra* given above.
+
 [^28-p352]: There are further *stotra*s and other minor works of Sāhib Kaul, an edition of which is under preparation by the present author.
 
 *[p. 353]* ^pg388
@@ -617,8 +661,11 @@ He who recites your syllable with pure heart and proper devotion, O Śārikā, w
 He who recites your syllable, consisting of *abja* and *vaktravṛtta*, and called *asthyātmā*, O Śārikā, is liberated in life and, enjoying supreme *bhoga*s,[^33-p355] will later dissolve in your state, O Bhavānī.
 
 [^30-p355]: In context, this may mean the enjoyment of powers (*siddhi*).
+
 [^31-p355]: I understand the term in the sense of *ātmavicāra* as used in the *Mokṣopāya* (5.5.27), a text which Sāhib Kaul occasionally refers to.
+
 [^32-p355]: *prauḍham* is of course an adverb, but to translate “stays ripely” would not really capture the intended sense.
+
 [^33-p355]: This could again denote the *siddhi*s, but in a less technical register the enjoyment of the pleasures of liberation.
 
 *[p. 356]* ^pg391
@@ -761,8 +808,11 @@ Despite the fact that the *stotra* contains the *mantroddhāra*, it is quite dif
 *trayodaśārṇo manur asti gopyaḥ* ||
 
 [^35-p359]: See Stanislav Jager in Hanneder, Jager and Sanderson, 2012, 23.
+
 [^36-p359]: Aithal, 1999, 35.
+
 [^37-p359]: Judging from the excerpts a similar ms. is described in *Catalogue of the Sanskrit Manuscripts in the Library of the India Office. Part IV. A.VIII Tantra*. See Windisch, 1894, 861–
+
 [^38-p359]: *Devīrahasya*, p. 407.
 
 *[p. 360]* ^pg395
@@ -812,7 +862,9 @@ The code words—*parā* for *hrīṃ*, *aśmarī* for *namaḥ* etc.—are expl
 The problem arises when we try to decode the remainder as follows: (1) the element present in all definitions is *abja* and there is only one sound common to all five *bījas*, that is, *ṃ*. Apart from that nos. 6–8 have only one element in common, so *vaktravṛtta* stands for *ā*. Taking now elements that occur only once, it follows that in 8 *asthy-* must signify *ś*, *vāmakarṇa-* in 5 means *ū*, and *vahni*
 
 [^39-p360]: Op. cit., pp. 19–21.
+
 [^40-p360]: Op. cit., p. 13.
+
 [^41]: There is, of course, the counter-evidence of one manuscript of a *Śārikāstavarāja* (VOHD 2.2.116), which gives the mantra with the misspelling or wrong transcription of *hrūṃ* for *hūṃ*.
 
 *[p. 361]* ^pg396
@@ -924,7 +976,9 @@ The manuscript containing this *stuti* text is preserved in the National Archive
 This manuscript contains 46 verses of the *stuti* and one more verse (numbered here as 38a) can be retrieved from a citation.[^3-p364] A little less than the half of the *stuti* covering the first 21 verses is in Anuṣṭubh metre and the rest in
 
 [^1-p364]: A number of *pūjāstuti*s of the Tripurā traditon can be found in the appendix section of Dwivedi 1985. Aghoraśiva’s *Pañcāvaraṇastava*, published from Pondicherry (see Goodall et al. 2005), is a good example of a Siddhānta Śaiva *pūjāstuti*.
+
 [^2-p364]: See footnote 32 for further discussion on the name, extent and circulation of the text.
+
 [^3-p364]: See foonote 32 for details.
 
 *[p. 365]* ^pg400
@@ -934,7 +988,9 @@ Vasantatilakā. Verses 31 and 32 form a *yugalaka* as the finite verb comes only
 The *stuti* opens with a pair of verses invoking Paramaśiva and Nityā Śakti. These verses already tell us of the poet’s understanding of the nature of Nityā and inseparability of Paramaśiva and Śakti, a point highlighted in the second half of the text, particularly verses 31–32 and 42. In verse 3 the poet states that he approaches the temple of Mṛḍānī from the west gate (*paścimadvāra*).[^4-p365] The next two verses invoke Gaṇeśa and Kṣetreśa. The latter, who has the form of Bhairava, can be identified as Baṭuka. Gaṇeśa and Baṭuka together are identified as the goddess’s sons in Śākta systems and serve as her doorkeepers.[^5-p365] To our surprise, verse 6 invokes the Vaiṣṇava doorkeepers Śaṅkhanidhi and Padmanidhi, who bear the Vaiṣṇava emblems of the conch and lotus on their heads.[^6-p365] Verses 7–9 invoke respectively three goddesses: Padmā, a Vaiṣṇava version of Durgā carrying a conch and discus, and Bhāratī. Verses 10 and 11 invoke Manobhava, namely, the Indian love-god Kāmadeva, and describe him as the
 
 [^4-p365]: This should be the intended meaning, because one is supposed to enter a temple from the western or southern gate facing east or north. Therefore, many of the early Śaiva-Śākta temples, even though they face east, have an older western or southern entry. For more discussions, see Goodall et al. 2005, 103–107 and Goodall et al. 2015, 366 (*Niśvāsa, Uttarasūtra* 3:8 and annotation thereon). Another possible interpretation of *paścimadvāra* is “the last door to resort to.” Perhaps, the poet is punning.
+
 [^5-p365]: For Gaṇeśa and Baṭuka as the Goddess’ sons, See, e.g., Jayaratha on *Tantrāloka* 1.6b.
+
 [^6-p365]: Śaṃkhanidhi and Padmanidhi have strong associations with the cult of Yakṣas. In the *Megha-dūta*, Kālidāsa’s Yakṣa tells the cloud-messenger that the marks of conch (*śaṃkha*) and lotus (*padma*) are painted on the sides of the gate of his house in the city of Alakā, as he provides a number of clues for the identification of his house. In the form of emblems as well as human forms, Śaṃkhanidhi and Padmanidhi are depicted in the Ajaṇṭā caves and are associated with Yakṣa deities (cf. Bautze-Picron 2002, 225–231). Besides, the Buddhist *Vasudhārā Dhāraṇī* enjoins worship Śaṅkhanidhāna and Padmanidhāna with the goddess Vasudhārā encircled by a group of eight unspecified Yakṣiṇīs. Some other texts name Śaṃkhanidhi and Padmanidhi as male consorts of Vasudhārā and Vasumatī, respectively. Anyway, these two are adopted by the Vaiṣṇavas as doorkeepers or attendants of Viṣṇu along with the other pairs of Jaya and Vijaya, Caṇḍa and Pracaṇḍa, Nanda and Sunanda. They also feature in some comparatively late Tantric texts of other traditions, particularly those from the south. They are listed also among the twelve Vaiṣṇava *nidhi*s found in some Puranic and Vaiṣṇava texts. Professor Dominic Goodall kindly informs me (personal communication of November 20, 2019) that what is now called the Kailāsanātha temple in Kancheepuram seems to have Śaṅkhanidhi and Padmanidhi framing the doorway. According to him, that temple now has an eastern entrance to the enclosure, but there is an older western entry, now blocked up. For an example of images of Śaṃkhanidhi and Padmanidhi from Anurādhapur, Sri Lanka, See Paranavitana 1955.
 
 *[p. 366]* ^pg401
@@ -942,6 +998,9 @@ The *stuti* opens with a pair of verses invoking Paramaśiva and Nityā Śakti. 
 beloved husband of Rati and Prīti.[^7-p366] Here we are told that the love-god forms the circular base of the Śrīcakra, the maṇḍala of the goddess Nityā Sundarī. With these verses the text enters the process of installation of various deities in the Śrīcakra. It does not specify where these deities are installed, but from the order of verses we know that we are starting from the periphery and moving towards the centre. Verses 12–14 respectively praise eight *siddhi*s, beginning with Aṇimā (in personified forms), eight mother-goddesses, and the deities of ten gestures of the goddess.[^8-p366] Verses 15 and 16 venerate sixteen goddesses of attraction (*ākarṣaṇa*) and eight powers of the bodiless love-god (*anaṅgaśakti*), respectively, all in personified forms.[^9-p366] We know from the *Vāmakeśvaratantra* and other Tripurā texts that these are installed on the petals of the sixteen- and eight-petalled lotuses. The next four verses, 17–20, respectively praise the set of fourteen goddesses/powers (*śakti*s) headed by Sarvasaṃkṣobhaṇī,[^10-p366] ten Kula
 
 [^7-p366]: For Rati and Prīti as Kāmadeva’s wives, see, e.g. *Brahmāṇḍa Purāṇa* III.44.33. A Śuṅga period teracotta plaque of Kāmadeva with Rati and Prīti is also preserved in the Mathura Musuem (accession no. 34–2552).
+
 [^8-p366]: It is possible that these three sets of deities are installed on the three lines forming the outermost retinue of the rectangular boundary. The *Vāmakeśvaratantra*, also known as *Nityāṣoḍaśikārṇava*, enjoins installing the eight mother-goddesses as well as the eight *siddhis* in the four directions and four sub-directions, and does not instruct one to worship the goddesses of the gestures. Bhāskararāya (p. 99), however, mentions that according to some other system the outermost boundary is made of three lines and these three sets of goddesses are installed there. According to its commentators, the *Vāmakeśvaratantra* teaches that one should build the boundary with only two lines. Although the *Vāmakeśvaratantra* does not assign a place for the gestures (*mudrā*) in the maṇḍala, it does describe them and asks the worshipper to use them during the worship. As found in the third chapter of the *Vāmakeśvaratantra*, these ten gestures are *trikhaṇḍā, kṣobhiṇī, vidrāviṇī, ākarṣiṇī,* *āveśakarī, unmādinī, mahāṅkuśā, khecarī, bīja*, and *yoni*. As listed in many texts, including the *Niśvāsaguhya* (7.204–205), the eight siddhis are *aṇimā, laghimā, mahimā, īśitva, vaśitva, prāpti, prākāmya*, and *yatrakāmāvasāyitā*. The *Vāmakeśvaratantra* (1.153–155) makes them ten by adding two more, *bhukti* and *icchā*, and prescribes worshipping them in ten directions. According to the latter (1.156–157), the eight mother-goddesses are Brahmāṇī, Māheśī, Kaumārī, Vaiṣṇavī, Vārāhī, Indrāṇī, Cāmuṇḍā, and Mahālakṣmī.
+
 [^9-p366]: These are not individually named in this text, but, as listed in the *Vāmakeśvaratantra*, the first set is made of Kāmākarṣiṇī, Budhyākarṣiṇī, Ahaṃkārākarṣiṇī, Śabdākarṣiṇī, Sparśā-karṣiṇī, Rūpākarṣiṇī, Rasākarṣiṇī, Gandhākarṣiṇī, Cittākarṣiṇī, Dhairyākarṣiṇī, Smṛtyā-karṣiṇī, Nāmākarṣiṇī, Bījākarṣiṇī, Ātmākarṣiṇī, Amṛtākarṣiṇī, and Śarīrākarṣiṇī (cf. 1.158– 161), and the second set is made of Anaṅgakusumā, Anaṅgamekhalā, Anaṅgamadanā, Madanāturā, Anaṅgarekhā, Anaṅgaveginī, Anaṅgāṅkuśā, and Anaṅgamālinī (cf. 1.163– 164).
+
 [^10-p366]: We know only the name of the first from this text but the rest can be known from the *Vāmakeśvaratantra* (1.165–168). They are: Sarvavidrāviṇī, Sarvākarṣiṇī, Sarvāhlādinī, Sarvasaṃmohinī, Sarvastambhanī, Sarvajambhanī, Sarvatovaśinī, Sarvarañjanī, Sarvon-mādinī, Sarvārthasādhanī, Sarvasampattipūraṇī, Sarvamantramayī, and Sarvadvandva-kṣayaṃkarī.

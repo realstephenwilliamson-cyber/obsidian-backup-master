@@ -24,6 +24,7 @@ Modern scholarship on medieval Jewish mysticism has paved the way for a thorough
 on Abulafia’s relationship to Christianity that subsequent scholarship has challenged. Scholem briefly articulated the views that Abulafia was openly hostile toward Christianity and that traces of Christian doctrine in Abulafia’s work should not be taken as suggestive of any 
 
 [^1]: I refer most specifically to the chapter, “Christian Influences on the *Zohar*,” in Liebes’ *Studies in the Zohar*. The chapter investigates two key features of this quintessential textual example of medieval theosophic kabbalah. One of these concerns zoharic representations of a tripartite divine unity, to include a notion of a messianic “son” as Logos. The other concerns formulations, applied to the zoharic sage R. Simeon bar Yohai, that are suggestive of a traditional representation of Jesus as the *saddiq,* or demiurgic righteous one. Both of these features are as well deeply important in Abulafia’s work. Wolfson has elucidated the presence of a closely related Jewish-Christian stratum to the foundational theosophic work, the *Bahir*. See *Along the Path*, p. 84; *Alef,* *Mem, Tau*, p. 146. Wolfson’s more recent work concerning Jewish mystical conceptions relating to the Christian notion of the enfleshed Logos will be analyzed in detail in the next chapter. See for instance, *Language, Eros, Being*, pp. 236–242, which concerns Abulafia specifically. Green asserted that medieval Jewish kabbalists’ characterizations of the *Shekhinah*, the feminine manifestation of the divine presence, were constructed in response to Christian conceptions of Mary. “*Shekhinah*, the Virgin Mary, and the *Song of Songs*,” pp. 1–52.
+
 [^2]: I allude most specifically to Hames’ *Like Angels on Jacob’s Ladder: Abraham Abulafia,* *the Franciscans and Joachimism.* Though he had begun to broach the issue in some earlier work, this book presents a thorough study of what the author perceives to be Abulafia’s relationship to the Franciscans of his day and to Joachimist eschatology; Hames believes that Abulafia had close contact with these groups and that their influence may be detected in Abulafia’s own messianic doctrines. Hames contends that prior work on Abulafia has tended to eschew contextual investigation in favor of a “primarily phenomenological” approach, with the result that “. . . the milieu in which he lived and developed his teachings is, surprisingly, almost totally ignored.” See p. 4.
 
 *[p. 26]* ^pg41
@@ -35,10 +36,15 @@ Idel would observe later that Jesus figured prominently in Abulafia’s thought.
 No modern study of Abulafia can ignore Scholem’s observation that Abulafia expressed hostility toward Christianity. Abulafia’s derogations 
 
 [^3]: Scholem, *Major Trends in Jewish Mysticism*, pp. 129, 377–378 nn. 35, 43. See Raz-Krakotzkin, “ ‘Without Regard for External Considerations’—The Question of Christianity in Scholem and Baer’s Writings,” pp. 73–96 (in Hebrew).
+
 [^4]: See Idel, “Abraham Abulafia on the Jewish Messiah and Jesus,” in *Studies in Ecstatic Kabbalah*, to be analyzed in detail in chapter four, below.
+
 [^5]: Berger, “The Messianic Self-Consciousness of Abraham Abulafia.”
+
 [^6]: See Wolfson, *Abraham Abulafia*, pp. 131–133 n. 101.
+
 [^7]: See above, n. 1.
+
 [^8]: See above, n. 2.
 
 *[p. 27]* ^pg42
@@ -48,7 +54,9 @@ of Christianity are readily found.[^9] When we begin to investigate Abulafia’s
 It must be noted that Scholem himself seemed to have been aware, at least at times, that simple animosity somehow did not fully encapsulate Abulafia’s attitude toward Christianity. Scholem ascribed Abulafia’s penchant for Christian motifs and doctrines to what he referred to as Abulafia’s “predilection for paradox.” Scholem did not explain this view in detail, but he seemed to be suggesting that Abulafia’s interest in key Christian touchstones resulted from a larger impulse to juxtapose elements in seeming contradiction.[^10] Toward that end alone, Scholem maintained, Abulafia interspersed Christian-sounding ideas alongside his attacks upon Christianity. Scholem, in this regard, specifically addresses the appearance of trinitarian doctrines in Abulafia’s corpus. But Abulafia, Scholem suggested, always provided clues to his ultimate disinterest in such Christian principles: “He sometimes, indeed intentionally makes use—among many other associations—of formulae which sound quite Trinitarian, immediately giving them a meaning which has nothing whatsoever to do with the Trinitarian idea of God.”[^11] As noted, Wolfson’s study of these tendencies suggests, to the contrary, that they must be taken seriously, that answers should be 
 
 [^9]: Abulafia’s outward position toward Christianity is consistent with that of the theosophic kabbalah, wherein the non-Jewish nations are conceived of as demonic. Wolfson, “Ontology, Alterity, and Ethics in Kabbalistic Anthropology,” p. 135.
+
 [^10]: This perspective appears very much in keeping with remarks of Brammer concerning de Certeau’s conceptualization of mysticism generally. Writes Brammer, “DeCerteau hypothesizes that perhaps mysticism is itself a paradoxical relationship between the particular and the essential, the exceptional and the universal, the manifest and the hidden, the phenomenal and the invisible, the surprising and the familiar: ‘Mysticism cannot be reduced to either of the aspects that always comprise this paradox. It is held within their relation. It is undoubtedly this relation itself. It is therefore an object that escapes.’ ” “Michel de Certeau and the Theorization of Mysticism,” p. 34. See also Scholem himself, *Major Trends in Jewish Mysticism*, p. 14.
+
 [^11]: Ibid., p. 129. See also idem, *The Kabbalah of Sefer ha-Temunah and of Abraham Abulafia*, p. 184 (in Hebrew), where Scholem describes Abulafia’s trinities as “anti-Christian.”
 
 *[p. 28]* ^pg43
@@ -62,6 +70,7 @@ The appearance of these trinitarian doctrines in Abulafia’s writings will ulti
 There is little that we can say for certain regarding Abulafia’s personal encounters with Christians beyond what he himself tells us (and even there a healthy skepticism is in order). Abulafia relates that, following his departure from Spain, he was imprisoned by the Pope’s forces but, through a fortuitous circumstance, was released shortly thereafter.[^12] He also tells us that he had theological discussions with Christians, and, following his departure from Spain, he had some Christian students, of whom he had a favorable impression.[^13] Assuredly, these reports from Abulafia relate two radically different modes of experience, occurring within two different social contexts. The former experience bore a violent, coercive cast; indeed, Abulafia, as he relates it, very nearly lost his life in the episode. Contrariwise, the latter 
 
 [^12]: Scholem summarizes Abulafia’s account of these events. *Major Trends in Jewish Mysticism*, p. 128.
+
 [^13]: Hames’ *Like Angels on Jacob’s Ladder* puts forth the thesis that Abulafia’s contacts with Christian monks and clerics were close enough that Abulafia was able both to learn much about Joachimist apocalypticism and to attempt to influence his Franciscan neighbors, particularly in southern Italy and Sicily. Regarding Abulafia’s stated interactions with Christians, see pp. 43, 100–103. Scholem had observed Abulafia’s attestation to some level of intellectual discourse with Christians and had noted as well some surprisingly favorable appraisals of some Christians on Abulafia’s part. *Major Trends in Jewish Mysticism*, p. 129. Idel had noted Abulafia’s apparent interest in interacting with Christians. *Messianic Mystics*, p. 99. See also idem, *Studies in Ecstatic Kabbalah*, p. 47. See also Wolfson, *Abraham Abulafia*, pp. 188–189, to be discussed below.
 
 *[p. 29]* ^pg44
@@ -91,10 +100,15 @@ the same neighborhoods (sometimes in the same house), established business partn
 He \[the Jew\] was not so isolated a figure as he once seemed, cut off in an onerous financial role, presumably an object of resentment and envy . . . Even as financier and tax collector in Valencia, the Jew was in the mainstream of a common Christian activity. His operations there assimilated him to, rather than divided him from, his fellow Valencians.
 
 [^16]: Interested in Jewish kabbalistic absorption of marian themes, Green noted the degree to which such Christian devotional symbols would have been visible to Jews on churches, in shrines, and in religious processions, among many other places. Green, “*Shekhinah*, the Virgin Mary, and the *Song of Songs*,” pp. 27–28. Writes Green, “All this was seen by the Jews, who could not but have been aware of this new outgrowth of pious devotion among their Christian neighbors. While they might have been theologically offended by what seemed like worship of an admittedly human woman . . . I would suggest that there might also have been an attractive side to the love, beauty and simple piety associated with the cult of the Virgin.” See Idel, *Kabbalah and Eros*, p. 46, for the perspective that the marian cult could have been influenced by much older Jewish conceptions of the *Shekhinah.*
+
 [^17]: Burns, *Muslims, Christians, and Jews in the Crusader Kingdom of Valencia*, p. 126.
+
 [^18]: Ibid., p. 127.
+
 [^19]: Ibid., p. 136.
+
 [^20]: Burns relates several accounts of Jews and Christians amicably doing business together, and of Jews accumulating impressive wealth in the process. Ibid., pp. 141, 144–145, 148. Baer notes the resemblance between the lifestyles of Spanish Christians and Jews at this time. *The History of the Jews in Christian Spain*, p. 197. In a number of Spanish towns at this time, there was no separate quarter for the Jews. Ibid., p. 198. Baer also describes wealthy Jews attended to by both Jewish and Christian courtiers.
+
 [^21]: Burns, *Muslims, Christians, and Jews in the Crusader Kingdom of Valencia*, p. 133.
 
 *[p. 32]* ^pg47
@@ -104,9 +118,13 @@ The picture of thirteenth century inter-religious relations in Italy and Sicily�
 David Abulafia observes that, during the time of Abraham Abulafia’s sojourn in Sicily, Jews continued to speak in Arabic there, despite the Christian accession. This we would naturally suspect to be symptomatic of a level of alienation between Jews and Christians. Nevertheless, “. . . they \[ Jews\] do not seem to have been socially or economically isolated from their Christian neighbors, at least in the smaller towns, until the mid-fourteenth century.”[^22] Jews engaged in the same range of occupations as Christians. In the case of the Sicilian town of Erice, Jews lived side by side with Christians until the turn of the fourteenth century, when, as with other communities in the region, hostilities began to deepen.[^23] Prior to this, the general picture was one of vibrant interaction as well between Christians and Catalan Jews, who came to Majorca and then to Sicily in increasing numbers.[^24] A similar picture holds for southern Italy prior to the 1290s. As David Abulafia writes, “There is little evidence for popular hostility to the Jews, whose communities in Apulia were very ancient. All the signs are that this campaign was led from the front by the royal court and by the Dominicans . . .”[^25] The campaign to which Abulafia refers was one of mass conversion of the Jews of the region, instituted by Charles II on the heels of his expulsion of the Jews from Anjou and Maine in 1289. Charles’ justification for these new policies was threefold. First, Jews sought to lead Christians from their religion. Second, they committed usury. And, third, they engaged in the seduction of Christian maidens.[^26]
 
 [^22]: D. Abulafia, “The End of Muslim Sicily,” pp. 117–118. Roth notes that the Jews of Sicily spoke not only Arabic, but Italian and Greek as well. “Jewish Intellectual Life in Medieval Sicily,” p. 319.
+
 [^23]: Ibid., p. 119.
+
 [^24]: Idem, “Una comunità ebraica della Sicilia occidentale: Erice 1298–1304,” p. 162.
+
 [^25]: Idem, “Monarchs and Minorities in the Christian Western Mediterranean around
+
 [^26]: Ibid., pp. 234, 250–251. Chazan, *Church, State and Jew in the Middle Ages*, pp.
 
 *[p. 33]* ^pg48
@@ -116,10 +134,15 @@ We may wonder if there was something to Charles’ fear of sexual promiscuity be
 Almost everywhere in Umbria we find Jews sentenced to financial punishment for having sexual relations with Christian women . . . A survey of the other Italian regions with centers of Jewish settlement reveals a similar picture at this time . . . Only rarely did there seem to be any possibility that the accusation might be punished by anything more than a fine.[^31] Toaff writes that “extent and frequency of these relations . . . is a fact that cannot be ignored by anyone who wants to form an accurate picture of everyday relationships between Jews and Christians in late medieval Italy.”[^32] We can see from the nature of Charles II’s charges against the Jews that anxiety had grown in certain Christian quarters as a consequence of the close interactions between Jews and Christians in the thirteenth century. Two of Charles’ accusations pertained to Jewish modes of seduction. The notion that intimacy between Jews 
 
 [^27]: For the situation in Spain, see above, p. 30 n. 15.
+
 [^28]: Toaff, *Love, Work, and Death: Jewish Life in Medieval Umbria*, p. 143. In *Sefer Hasidim*, we find a similar characterization of the situation in northern Europe. When Jews settled in Christian towns, the text records, they have a tendency to adopt local mores, whether for good or ill. Biale, *Eros and the Jews*, p. 77.
+
 [^29]: Toaff, *Love, Work, and Death: Jewish Life in Medieval Umbria*, p. 7. For the same state of affairs with respect to documentary evidence in Spain, see Burns, *Muslims, Christians,* *and Jews in the Crusader Kingdom of Valencia*, p. 135.
+
 [^30]: Toaff, *Love, Work, and Death: Jewish Life in Medieval Umbria*, p. 8.
+
 [^31]: Toaff does point to a mid-thirteenth century legal ruling in Perugia. There, a Christian woman took up with a Jew and abandoned her family. The woman’s Christian husband found his recourse to legal authorities futile, with the result that he attacked the Jewish man. The court in this case fined the Jewish man one hundred lire for adultery, the Christian man twenty-five lire for assault. Ibid., p. 10.
+
 [^32]: Ibid., p. 11.
 
 *[p. 34]* ^pg49
@@ -131,8 +154,11 @@ In other phases of life, Toaff points as well to a level of harmony between Jews
 The thirteenth century saw the rise of rationalistic theological debate between Jews, Christians and Muslims.[^36] Barcelona in the 1270s, the 
 
 [^33]: Ibid., pp. 79, 166.
+
 [^34]: Ibid., p. 249.
+
 [^35]: Ibid., p. 78.
+
 [^36]: On the role that an intensified rationalism played in the polemical religious discourse of the thirteenth century, see Chazan, *Daggers of Faith*, pp. 15, 17. Glick observes that Christian-Jewish debate appears often to have been impromptu, good natured and cordial. Such an inference is in accord with some of Abulafia’s claims regarding his own interactions with Christians. See Glick, “ ‘My Master, the Jew’: Observations on Interfaith Scholarly Interaction in the Middle Ages,” pp. 158, 160, 178. For the rise of rationalistic polemics beginning with Anslem of Canterbury, see Funkenstein, “Changes in the Patterns of Christian Anti-Jewish Polemics in the Twelfth Century,” pp. 129–132. Lasker notes the countering of Christian *ratio* with Jewish *sekhel* already in twelfth century Jewish polemical works. Lasker, “Jewish-Christian Polemics at the Turning Point,” p. 169.
 
 *[p. 35]* ^pg50
@@ -152,6 +178,7 @@ with his idolatrous inner demons began at the same time and in the same place as
 Against this backdrop, we may constructively analyze some key passages from Abulafia’s oeuvre. What are most immediately apparent are those overtly negative and hostile appraisals of Christianity of which we have spoken. These conform well to those attitudes that seem to have prevailed elsewhere in the larger Jewish community. Nevertheless, although more tempered and somewhat more approving remarks Abulafia reserves primarily for Islam,[^39] two tendencies mitigate against the ostensibly antagonistic stance that Abulafia takes toward Christendom. One is the type of credence that Abulafia accords to the wisdom possessed by the sages of the seventy nations. Christians were the gentiles with whom Abulafia had the most contact, so we may understand that they figure prominently in his mind whenever he discusses the seventy nations. The other mitigating feature against his hostility was, of course, the intense influence that Christian theological principles had upon Abulafia’s own formulations.[^40]
 
 [^39]: See *Sefer ha-Melammed*, MS Paris-BN héb. 680, fol. 304a; printed edition, p. 37. The probable influence of the Sufi doctrine of Ibn \[illegible\] upon Abulafia has been discussed by Hames. “A Seal within a Seal.” A tempered position regarding Islam is occasionally apparent in the *Zohar*. See Wolfson, “Ontology, Alterity, and Ethics in Kabbalistic Anthropology,” pp. 135 n. 14, 150 n. 56. Lasker notes that, on the whole for this period, there are relatively few Jewish anti-Muslim polemical statements, either because the two groups lived cooperatively together, or “. . . because theologically there is not such a great disparity between Judaism and Islam.” “The Jewish Critique of Christianity under Islam in the Middle Ages,” p. 122 n. 3.
+
 [^40]: As regards the relationship between cultural interactions and the inevitable penetration of doctrines belonging to the other into one’s own religious identity, see Marcus, “Jews and Christians Imagining the Other in Medieval Europe,” p. 210, where the author proffers the notion of “inward acculturation,” in which alien doctrines are internalized without any damage to one’s own identity. Marcus points to the example of a contemporary medieval Jewish text which, he observes, stylized a rabbi as a Christ figure. Ibid., p. 212. This observation is noteworthy in terms of the suggestion that Abulafia stylized himself as Jesus. See Yuval, *Two Nations in Your Womb*, pp. 36–37, for precedents concerning Jewish internalization of messianic motifs related to Jesus.
 
 *[p. 37]* ^pg52
@@ -163,7 +190,9 @@ To begin, Abulafia explains that *Hayyei ha-Nefesh* (*The Life of the Soul* ), o
 . . . my observing that the root is forgotten, and the inconsequential is remembered; and the root is the knowledge of the name, and the apprehension of His actions, and the preservation of His *misvot,* may He be blessed. Because from this the enlightened one will inherit the final reward, and this is the life of the soul, the eternal life to come. And the inconsequential is all that stands against this, and which obstructs its existence, \[so that he\] seeks power and honor and pursues pleasure, the sphere of food and drink and sexual intercourse and the cleaving to things of the body. And these are matters which are not natural or necessary; rather they damage and kill the soul, and neither do they sustain the body. And thus they are all evil. And this is as the holy Rav \[Maimonides\] perceived this evil matter, which is very foreign from 
 
 [^41]: Wolfson, *Abraham Abulafia*, p. 79.
+
 [^42]: Wolfson observes the zoharic contention that the distinctive marker of Judaism, the covenant of circumcision, renders the Jew fully human, while the other nations, consequently, are beasts. See, for instance, *Venturing Beyond*, pp. 83, 89. Christians, of course, levied the same charges at Jews, referring to them as utterly given over to instinct, as gluttonous and as irrational. Sapir Abulafia, “Bodies in the Jewish-Christian Debate,” pp. 125, 127.
+
 [^43]: *\[illegible\] ha-Nefesh*, MS Munich-BS 408 fols. 4a–b; printed edition, p. 5.
 
 *[p. 38]* ^pg53
@@ -175,6 +204,7 @@ That base and non-intellective sphere to which Abulafia refers is that of those 
 Much later in *Hayyei ha-Nefesh*, Abulafia returns again to the theme of Christendom’s carnality. Here, the issue is cast in terms of the Jew’s covenantal relationship with God, as against the submission to the idolatrous impulse, the latter exemplified by Esau. Recourse to the figure of Esau as a reference to Christendom is a commonplace in Abulafia’s writing.[^44] Concerning [[Torah 53 - Ha'Azinu#^32-8|Deuteronomy 32:8]], which refers to the portions allotted to the nations, Abulafia writes,[^45]
 
 [^44]: See, for instance, *Sefer ha-Melammed*, MS Paris-BN héb. 680, fol. 304a; printed edition, p. 37. For Edom and Esau as Jewish representations of Christendom, see G. Cohen, “Esau as Symbol in Early Medieval Thought;” Yuval, *Two Nations in Your Womb*, p. 10.
+
 [^45]: *\[illegible\] ha-Nefesh*, MS Munich-BS 408 fols. 70a–b; printed edition, p. 123.
 
 *[p. 39]* ^pg54
@@ -190,7 +220,9 @@ Abulafia’s initial allusion to a rabbinic motif, the image of Jacob engraved u
 pre-kabbalistic, esoteric text *Sefer Yesirah.* There, twelve diagonal lines are said to extend infinitely between the six directions north, south, east, west, above and below, thus comprising a cube which constitutes the created world.[^47] Abulafia states subsequently regarding Jacob, “He is the lord of action \[or, perhaps, actualization; *baal ma'aseh\] .* ‘Heel’ \[aqev, from [[Torah 06 - Toldot#^25-26|Genesis 25:26]]\] should be read ‘cubic’ (me'uqav), and it is the end of the supernal ones.” Jacob is associated by Abulafia with that which is “cubic” on the basis of a manipulation of the letters of the word “heel.” The meaning for this association, Abulafia relates, is that Jacob is linked with “the end of the supernal ones.” The “supernal ones” are the *sefirot*, the ten divine emanations of the theosophic kabbalah.[^48] The last, or “end,” of these is *Malkhut* (Kingdom). Jacob is the “lord of action” because he represents the Active Intellect, reigning over creation; Abulafia understood the *sefirot* to be the ten intellects, with the last *sefira, Malkhut*, standing as the Active Intellect.[^49] Taken together then, Jacob’s (Israel’s) heavenly overlordship over the universe is expressed in terms of divine rulership over *Malkhut* and in terms of mastery of the three dimensional lower world. The latter is characterized as a cube with twelve edges, which Abulafia describes 
 
 [^47]: *Sefer Yesirah,* Gruenwald ed., 5:1 (para. 47).
+
 [^48]: The term *sefirot* (singular, *sefira*) makes its first appearance in *Sefer Yesirah* in antiquity. There, the *sefirot* were presented as hypostatic entities, “ten elementary and primordial numbers,” as Scholem characterizes them in that text. *Major Trends in Jewish Mysticism*, p. 76. Along with the letters of the Hebrew alphabet, the *sefirot* were understood in *Sefer Yesirah* as the means by which God enacted creation. The influence of evolving doctrine concerning the *sefirot* would prove formative upon a Jewish mystical school that coalesced in Provence in the twelfth century. This school, the theosophic kabbalah, would elaborate upon the *sefirot* in terms that Scholem characterized as mythic. Ibid., pp. 224–230. See above, p. 7 n. 13 for theosophic kabbalah. Each *sefira* was characterized by a particular set of distinguishing attributes; *Hesed* (Mercy) and *Gevurah* (Strength), for instance, were *sefirot* seen to embody opposed natures, the former linked with kindness and goodness, the latter with severity and with the forces of evil. See below. Among the theosophic kabbalists, the *sefirot* were understood in a variety of different ways. At times they were seen to be aspects of God’s own being, His *middot* (attributes). At other times they were understood as vessels that channeled divine sustenance down to the created world, into the *sefira Malkhut.* The *sefirot* were described as interacting with each other in a complex fashion, and theosophic kabbalists conceived of their mystical practice as a theurgical effort to perfect the alignment and interrelationships of the *sefirot.* Successful results yielded the flow of blessings into the lower world, it was believed, and led to the mystic’s ascent to a state of communion with the *sefirot.*
+
 [^49]: For the Active Intellect as *Malkhut*, see Idel, “The Writings of Abraham Abulafia and His Teaching,” p. 89 (in Hebrew). As well, Abulafia, following in the theosophic tradition, frequently links the *sefira Tif ’eret* (Beauty) with Jacob. See, for instance, *\[illegible\]* *li-Yehudah* (*And this is for Judah*), in Jellinek, *Auswahl kabbalisticher*, p. 23.
 
 *[p. 41]* ^pg56
@@ -200,10 +232,15 @@ in terms of the twelve tribes stemming from Jacob. Abulafia issues an esoteric d
 That Abulafia has in mind a sefirotic conception of Jacob is next reinforced by his emphasis on Jacob’s “dwelling in tents.” As Abulafia relates elsewhere,[^51] he keeps with kabbalistic tradition in taking this scriptural phrase to refer to Jacob’s reconciling within himself the two opposing attributes embodied in the *sefirot Hesed* (Mercy) and *Gevurah* (Strength), such that Jacob stands as the perfected androgynous man, reconstituted in the image of Adam, represented by the *sefira Tif ’eret* (Beauty).[^52] In the current context, the motif of the tents is employed by Abulafia to express the perfected intellective status of Jacob/Israel, the Active Intellect; the tents symbolize Jacob’s endeavors in the *bet midrash.*[^53] Jacob’s status as the supernal intellective principle is then reasserted with the statement that Jacob is Metatron. This angelic and demiurgic entity Abulafia regularly identifies with the Active Intellect.[^54] The identification of Esau with Sandalfon is telling in that this angelic entity Abulafia understands as the demonic component of the Active Intellect.[^55] While the Jewish people partake of divine 
 
 [^50]: Elsewhere Abulafia frames the relegation of the nations to the physical world, with Israel assigned a higher status, in terms of the attribution of matter to the nations but form to Israel. *\[illegible\] ha-Shemot* (*The Key of Names*), MS NY-JTSA Mic. 1897, fol.
+
 [^53]: See, for instance, Rashi on [[Torah 06 - Toldot#^25-27|Genesis 25:27]]: Jacob studied Torah while Esau pursued idolatry.
+
 [^51]: See *Mafteah ha-Tokhahot* (*The Key of Rebukes*), MS Oxford-BL 1605, fols. 57a–b; printed edition, pp. 61–62.
+
 [^52]: Wolfson, *Abraham Abulafia*, pp. 118–121. See above, nn. 48, 49.
+
 [^54]: Abulafia was preceded in this identification, in Jewish mystical circles, by Jacob and Isaac ha-Cohen, by members of the *Dyun* Circle, and by his teacher, Baruch Togarmi. Idel, “The Writings of Abraham Abulafia and His Teaching,” p. 88 (in Hebrew). Pedaya, *Vision and Speech*, p. 96 (in Hebrew). See also Wolfson, *Abraham Abulafia*, pp. 59 n. 167, 71 n. 217, 83 n. 264. It is noteworthy in the current context that Israel is an alternate appellation used by Abulafia to refer to the Active Intellect. Ibid., p. 89.
+
 [^55]: Elsewhere, Abulafia forges the identification of Israel with Metatron and the nations with Sandalfon through a *gematria;,* that is to say, he adds up the numerical values of the letters composing particular words and then draws connections between words or phrases possessing the same numerical value. The phrases “Israel, nations (*goyim*)” and “Metatron and Sandalfon” have the same numerical value (six hundred). *Hotam ha-Haftarah* (*The Seal of the Addition*), MS Munich-BS 285 fol. 33b; printed edition \[illegible\] *ha-Sekhel* ), p. 127. For Sandalfon as the demonic component of the Active Intellect, see Idel, *Studies in Ecstatic Kabbalah*, p. 77; Wolfson, *Abraham Abulafia*, p. 144 n.
 
 *[p. 42]* ^pg57
@@ -227,7 +264,9 @@ Another signification of Esau’s going “forth by means of the blood” has a 
 to the point where Jewish women are lured to Christian men. *Communities of Violence*, p. 157 n. 111. In this we can see both associations of Christians with the carnal and anxiety regarding the sexual temptations posed by the religious other. This anxiety appears to have been a significant feature of the thirteenth century Spanish cultural landscape. See ibid., pp. 134–135, 142, 152, 158.
 
 [^58]: *Mafieah ha-Tokhahot,* MS Oxford-BL 1605, fols. 56b, 57b; printed edition, pp.
+
 [^60]: , 62; Lasker, “The Jewish Critique of Christianity under Islam in the Middle Ages,” p. 128. For the Christian polemical response, see Sapir Abulafia, “Jewish-Christian Disputations and the Twelfth-Century Renaissance,” pp. 115–116. Christian women
+
 [^59]: Idel, “The Writings of Abraham Abulafia and His Teaching,” p. 102 (in Hebrew). were the targets in Abulafia’s day of Jewish invective for their purported uncleanness. Nirenberg, “Love between Muslim and Jew in Medieval Spain,” p. 131. See Wolfson, *Venturing Beyond*, pp. 136–140, for kabbalistic associations of Christendom with the menstruant. Charges of physical repulsiveness or uncleanness were levied against the other on both sides of the religious divide. For the Christian perspective, see Nirenberg, *Communities of Violence*, p. 62; Sapir Abulafia, “Bodies in the Jewish-Christian Debate,” p. 125. The linkage of Jews with lepers is noteworthy in that leprosy was regarded as a sexually transmitted disease stemming from an impure womb. Ibid., p. 96. In rabbinic literature as well we find the notion that a child contracts leprosy when his mother conceives him while menstruating. Koren, “ ‘The Woman from Whom God Wanders,’ ” p. 92 n. 88. Christianity itself was linked with leprosy. Cuffel, “Filthy Words/Filthy Bodies,” p. 128.
 
 *[p. 44]* ^pg59
@@ -237,6 +276,7 @@ for the contention that Christian doctrine was not only irrational but also dish
 Abulafia leaves off by pointing to the end that awaits carnal Esau. He gives a fresh turn to Esau’s statement that he was hungry to the point of death and had no need for his inheritance in such a state ([[Torah 06 - Toldot#^25-32|Gen. 25:32]]). Esau, as “a hairy (sai *ir*) man” ([[Torah 06 - Toldot#^27-11|Gen. 27:11]]), writes Abulafia, “. . . attacks \[m ista er, a play on *sa q ir*\], and his end is to die.” That is to say, because of Esau’s barbarity, “. . . his end is to die . . . and he had no birthright and no blessing.” Abulafia’s contention is that, because Esau is of a base and purely corporeal nature, he will not inherit the spiritual life of the world to come. The “birthright” and “blessing” bequeathed to Jacob is understood by Abulafia as spiritual redemption in the afterlife, while only death awaits Esau. Abulafia here enters into another of the polemical exchanges of the day, that concerning who will merit resurrection at the end time. Abulafia’s words may be read as an implicit response to Christian argumentation. All things linked with the body, he suggests, such as Christendom’s physical nature—that is, its strength—are to be associated with this world alone, and not with the reward of heaven, which is granted instead to those who are like Jacob.[^62] The earthly conquests achieved by Christians through their brutishness, consistent with Esau’s nature, should not be read as an 
 
 [^61]: For another example of this tendency, see Weinstock, *Perush* Sefer Yetzirah *Almoni mi-Yesodo shel Rabbi Avraham Abulafiya’,* p. 28.
+
 [^62]: In the *Zohar*, Esau is associated with gluttony at table. By contrast, the food consumption of the pious Jew is of a spiritual nature. Hecker, “ ‘Each Man Ate an Angel’s Meal,’ ” p. 221.
 
 *[p. 45]* ^pg60
@@ -250,7 +290,9 @@ One of the main sources for Abulafia’s implicit charge of Jesus’ impurity, a
 To set the stage, the discussion immediately preceding Abulafia’s mention of Jesus in *Sefer ha-Hayyım* is primarily concerned with the angel Raziel and with the enlightened figure who is privy to revelation therefrom. Both of these are to be understood as Abulafia himself, or as his alter ego.[^65] As a result of prophetic experience derived from 
 
 [^63]: Chazan, *Daggers of Faith*, p. 11, notes Augustine’s argument that the lowly status of the Jew and the rising power of Christendom were indicative of the passage of God’s favor to the latter. The twelfth century Jewish texts *Milhamot ha-Shem* and *Sefer ha-Brit* had both addressed this issue, maintaining that the power distribution of the day was merely a temporary state of affairs, pending the messiah’s arrival. Ibid., p. 20. See also ibid., pp. 53, 65 and 64, where Chazan notes that the task of rebutting Christian arguments concerning their ascendancy is a “major preoccupation” in *Milhemet Misvah.* One Jewish strategy was to point out that the Christians once argued the opposing perspective, that their willingness to suffer marked the truth of their beliefs. Lasker, “The Jewish Critique of Christianity under Islam in the Middle Ages,” p. 130. See also above, pp. 42–43 n. 57.
+
 [^64]: Idel, *Studies in Ecstatic Kabbalah*, p. 45. Charges of sexual impurity are heaped upon Jesus in the Talmud as well. There it is stated that Mary was a prostitute, that Jesus entertained lascivious thoughts as a student and that the Christian cult was based upon orgiastic and occult rites. The Talmud relates that Jesus is condemned to sit in boiling excrement forever, along with Titus, who is eternally burned, and Balaam, who is eternally immersed in boiling semen. Schäfer, *Jesus in the Talmud*, pp. 10–13.
+
 [^65]: Idel, *The Mystical Experience in Abraham Abulafia*, pp. 140, 200–201; Wolfson, *Abraham Abulafia*, pp. 56, 81–82, 167 n. 197, 196.
 
 *[p. 46]* ^pg61
@@ -264,8 +306,11 @@ For forty years Raziel ben Samauel punished his limbs, recognizing the blessing 
 In association with prophetic revelation, Abulafia suggests, comes insight concerning the nature of the composite “Jesus/Muhammad.” The numerical value of these two names is equivalent to the phrase “bastard son of the menstruant.”[^69] That Abulafia has made use of the traditional Jewish derogation of Jesus is not surprising, but in the current context he has gone further by impugning Muhammad as well. It would appear that Jesus and Muhammad are here considered to be one twofold demonic entity. But Abulafia provides a further dimension to these associations: The phrase “the blessing and the curse” from the same passage clearly operates in connection with the phrase 
 
 [^66]: *Sefer ha-Hayyim,* MS Munich-BS 285 fol. 22a; printed edition (Masref *ha-Sekhel* ), p. 83.
+
 [^67]: Ibid., MS Munich-BS 285 fol. 22a; printed edition, pp. 83–84.
+
 [^68]: See the same phrase in, for instance, *Mafteah ha-Shemot*, MS NY-JTSA Mic. 1897, fol. 81b; printed edition, 130.
+
 [^69]: Both equal four hundred and eight.
 
 *[p. 47]* ^pg62
@@ -287,6 +332,7 @@ Abulafia’s reference to Jewish circumcision’s superiority goes to the larger
 Worship of God out of love is the most desirable worship and the one received in truth, and it is the most perfect and quintessential, because of which all intellective life was created, and which makes man man. And it is known and apparent to all who possess knowledge that this true worship is nothing other than the knowledge of wisdom and the soul’s becoming acclimated to the knowledge of this inner knowledge. Abulafia contended that love underlies the worship practiced by the pious. Love is correlated with a mode of worship consisting of the 
 
 [^71]: As noted by Hames, Abulafia elsewhere adopts a more charitable assessment of both Islam and Christianity, saying that these faiths as well believe in God’s unity. Hames, *Like Angels on Jacob’s Ladder*, p. 60. See also ibid., p. 64, concerning a passage to be considered below.
+
 [^72]: *\[illegible\] ha-Nefesh*, MS Munich-BS 408 fol. 69b; printed edition, p. 117. Parallel formulations are present in both rabbinic and zoharic literature. See Wolfson, “Ontology, Alterity, and Ethics in Kabbalistic Anthropology,” pp. 138–141. In *\[illegible\]* *ha-Hokhmot,* MS NY-JTSA Mic. 1686, fols. 107b–108a; printed edition, p. 48, Abulafia indicates his awareness of the Christian position on the *\[illegible\]* “And the Christians say that their messiah said to them, together with his disciples, that the Torah is truthful and that it is proper to honor its words, because its words are the words of the living God, except that some of the *\[illegible\]* that are in it should not be understood literally \[illegible\] *ke-feshutam*).” Abulafia suggests that he had conversations with Christians who saw the matter properly, meaning that they understood that there were three levels to a thorough understanding of Torah, the literal, the allegorical and the prophetic: “And there is no doubt that there are among the Christians some sages who know this secret and they spoke with me secretly and revealed to me that this is their understanding without a doubt.” Ibid. See Wolfson’s discussion of these passages, *Abraham Abulafia*, pp. 188–189. For medieval Christian anti-legalistic polemics, in which Jewish halakhah was seen as carnal, see Sapir Abulafia, “Jewish-Christian Disputations and the Twelfth-Century Renaissance,” pp. 109–113.
 
 *[p. 49]* ^pg64
@@ -301,7 +347,9 @@ Muhammad, the measure of the moon in the border of the sun, and upon them you wi
 The reference to the moon and the sun may be understood in terms of the traditional kabbalistic associations of these two heavenly bodies with the female and male elements, respectively, and thus with the evil and good components of the Active Intellect.[^74] The parsing discussed earlier of Jesus and Muhammad, the curse and the blessing, respectively, is consistent then with these notions of the sun and moon. Abulafia’s recourse to the phrase “quadruple in threefoldness” augments the theme of the Active Intellect’s bifold composition. In this phrase, Abulafia alludes to the Tetragrammaton, YHVH, the divine name that he identifies with the Active Intellect.[^75] The Tetragrammaton, Abulafia observes, is a triad of letters (YHV) that comprise a 
 
 [^73]: *Sefer ha-Hayyim,* MS Munich-BS 285 fol. 22a; printed edition (Masref *ha-Sekhel* ), p. 83.
+
 [^74]: Wolfson, “By Way of Truth,” p. 168.
+
 [^75]: Writes Wolfson, “Apprehension of the Active Intellect . . . entails comprehension of the divine essence that is iconically concretized in the letters of the Tetragrammaton.” *Abraham Abulafia*, p. 176. See also ibid., pp. 142, 147, 154, 159, 172 for the interconnectedness of the Active Intellect, the *sefirot* and the Tetragrammaton. For the Active Intellect in its relationship to the *sefirot* and, particularly, to the *Shekhinah*, see Scholem, *Major Trends in Jewish Mysticism*, p. 143. The link of the Tetragrammaton to the *sefirot* and, hence, to the Active Intellect is apparent from Abulafia’s writings. See, for instance, *\[illegible\] Eden Ganuz*, MS Oxford-BL 1580, fols. 23b–24a; printed edition, pp. 47–48; *\[illegible\] Shefer*, MS Munich-BS 285 fols. 71a–b; MS Munich-BS 40 fols. 240a, 241b; printed edition, pp. 77–78. The link of the Tetragrammaton with the *sefirot* is suggested in the current passage as well, where the reference to the sun and moon encrypts a sefirotic allusion, to be investigated more fully below. For the link of the Active Intellect with divine names, see Idel, *Kabbalah: New Perspectives*, pp. 235–237.
 
 *[p. 50]* ^pg65
@@ -329,6 +377,7 @@ It is not entirely clear whose circumcision Abulafia refers to as “life and de
 In his determination to see the Pope, we can already detect Abulafia’s active interest in interacting with the Christian world. It may be that Abulafia took note of the Christian side of some of the contemporary discourse concerning the messiah, and that this influenced his formulation of a mission to Rome. In this connection, some attention should be paid to the Barcelona Disputation of 1263. The Disputation marks the real beginning of opportunistic Christian engagement with rabbinic literature. As is apparent from the extant accounts of the Disputation, there was a Christian eagerness to perceive, in a rabbinic story concerning the messiah’s prior presence in Rome, a literal truth.[^79] Friar Paul contended that the aggadah, which relates that the messiah had been found outside the gates of that city, was to be taken literally. This Christian approach resonates with Abulafia’s apparent feeling that a mission to Rome was to be central to his own messianic calling.
 
 [^78]: *Sefer \[illegible\]* MS Munich-BS 285 fols. 22a, 23b; printed edition (Masref *ha-* *Sekhel* ), p. 85.
+
 [^79]: See BT. *Sanhedrin* [[Sanhedrin 98#98a|98a]]. Berger, “Captive at the Gate of Rome,” pp. 3–4, 12–13.
 
 *[p. 52]* ^pg67
@@ -338,9 +387,13 @@ From a certain perspective, however, Abulafia’s conception of the messiah’s 
 Nevertheless, at times Abulafia deviates from the view of the messiah offered by NŅNahmanides, seeming to hold a view more in keeping with the approach taken by Friar Paul in the Disputation. Vahmanides sought to blunt the Christian claim that the messiah possesses an ontological status above that of the angels, asserting that all of Israel, in fact, enjoys this lofty status. This disagreement concerned, of course, the pivotal question as to the human or divine nature of the messiah.[^83] Abulafia, quite to the contrary of Nahmanides held as a core doctrine the notion that he himself had achieved, through his mystical practice, a state that was at once angelic, divine and messianic.[^84]
 
 [^80]: Idel, *Messianic Mystics*, p. 61. Roth suggests that the notion of a messianic mission to Rome must have been in wide circulation at this time, and that Abulafia need not have been “necessarily influenced” specifically by the Disputation. Roth, “The Disputation of Barcelona (1263),” p. 130 n. 24. Of course, the Disputation, which was widely attended, as Roth notes (ibid., p. 135), would most assuredly have played a large role in disseminating this conception, particularly in Abulafia’s town of residence in the 1270s, Barcelona. See also Chazan, *Daggers of Faith*, pp. 69, 87. Here, R. Isaac b. Yedaiah’s *Commentary on the Aggadot of the Talmud* is discussed. This mid-thirteenth century text also suggests that there was a widely disseminated Jewish belief, following after the talmudic reference to which \[illegible\] addressed himself, that the true messiah would present himself in Rome.
+
 [^81]: See n. 80.
+
 [^82]: See Scholem, *Major Trends in Jewish Mysticism*, p. 128; Idel, *Messianic Mystics*, p. 61; *Studies in Ecstatic Kabbalah*, p. 55 n. 7.
+
 [^83]: See Chazan, *Daggers of Faith*, pp. 91–92 for Nahmanides’ argumentation on this subject.
+
 [^84]: That Abulafia’s messianic conception was influenced by other aspects of the contemporary discourse may also be apparent from his prediction that the redemp-
 
 *[p. 53]* ^pg68
@@ -372,8 +425,11 @@ Along similar lines, Abulafia relates that, due to their deficient intellects, t
 ibn Tibbon rejected, in favor of an approach that always inclined toward the traditional religious perspective, the approach of his father Samuel toward *The Guide of the Perplexed*. The latter had sought to balance Maimonides’ more Aristotelian assertions against sometimes contradictory religious ones. For ambivalence among early kabbalists toward philosophy, see Dan, “Gershom Scholem’s Reconstruction of Early Kabbalah,” pp. 45–46. See also E. Wolfson, “Hebraic and Hellenic Conceptions of Wisdom in *Sefer ha-Bahir*.” Philosophical and mythological notions are here seen to be present side by side, and the reaction of kabbalists to philosophy is seen to manifest itself in botha positive and a negative fashion; pp. 152–154. For Isaac of Acre, a second generation disciple of Abulafia, and his perception of philosophy’s inferiority to mysticism, see E. Fishbane, *As Light before Dawn*, p. 89.
 
 [^87]: See, for instance, Wolfson, *Abraham Abulafia*, pp. 73–80.
+
 [^88]: *\[illegible\] ha-Nefesh*, MS Munich-BS 408 fols. 67b, 67a; printed edition, pp. 113– 114.
+
 [^89]: Ibid., MS Munich-BS 408 fol. 66a; printed edition, p. 112.
+
 [^90]: It is worthy of note here that, at least by implication, Abulafia leaves open the possibility for the identification between Jesus and the Active Intellect. Christians, he suggests, understand Jesus (or the Active Intellect) as the divine son; it is simply that they misguidedly take literally this appellation. Abulafia himself to a certain extent identified Jesus with the Active Intellect, as we have already seen in connection with his association of the Jesus/Muhammad composite with the curse and blessing, respectively, harbored therein.
 
 *[p. 56]* ^pg71
@@ -383,7 +439,9 @@ It is not that there is between them \[the Active Intellect and God\] a closenes
 Key to the distinction, for Abulafia, between the gentile sage and the Jewish kabbalist is the Hebrew language. This is already apparent from the earlier passage’s placing of emphasis on the importance of the Hebrew alphabet for wisdom concerning Metatron. More particularly, a facility with the kabbalistic methods of letter permutation, which a knowledge of Hebrew makes possible, distinguishes the Jewish kabbalist from the gentile sage. Nevertheless, it is significant to note that Abulafia believes it possible for the sages of the other nations to engage in letter permutations of a lesser order by making use of the letters of their own alphabets.[^92] We must presume that some form of lesser engagement with the Active Intellect results from such a process, which does seem to go beyond the bounds of what Abulafia understands as philosophy and science. Abulafia’s strict taxonomical, indeed ontological,[^93] distinction between the Jewish kabbalist and the gentile 
 
 [^91]: *Sefer ha-Seruf* (*The Book of Refinement*), MS Munich-BS 22 fol. 219a; printed edition, p. 130. Abulafia explains somewhat earlier in the text that the son to which he refers is the Active Intellect and the Prince of the World, that is, Metatron. Ibid., MS Munich-BS 22 fol. 219a; printed edition, p. 129. See also ibid., MS Munich-BS 22 fol. 218a; printed edition, p. 127. For Metatron as Prince of the World in Nahmanides, see Abrams, “The Boundaries of Divine Ontology,” pp. 312–313. See also Idel, “The Writings of Abraham Abulafia and His Teaching,” p. 88 (in Hebrew).
+
 [^92]: Idem, *Language, Torah, Hermeneutics*, p. 101; Wolfson, *Abraham Abulafia*, p. 62. Wolfson notes a statement by Abulafia concerning the fact that languages aside from Hebrew also carry an esoteric dimension. Idem, *Venturing Beyond*, p. 188.
+
 [^93]: It is, in fact, the linguistic superiority of the Jews, endowed as they are with the only language that is natural, and not conventional, that gives rise to their quasi-angelic status. Idem, *Abraham Abulafia*, pp. 61–62.
 
 *[p. 57]* ^pg72
@@ -395,7 +453,9 @@ In this regard, Abulafia’s assertion should be noted that, at the apogee of my
 Abulafia’s sense of the connectedness between Hebrew and the other languages also implies a historical messianic dimension to his thought. Abulafia felt that the diaspora of the Jews among the nations was divinely orchestrated for the purpose of diffusing the Hebrew language among the nations. Through this global proximity of Hebrew to the other languages, the latter could ultimately be returned to the 
 
 [^94]: Ibid., p. 63.
+
 [^95]: As Wolfson summarizes Abulafia’s view, “. . . one may speak of the *misvot* as the mystical means to attain knowledge of God.” Ibid., p. 192. Idel adopts the view of the *\[illegible\]* as essential preliminaries, for Abulafia, to the mystical project. “Inner Peace through Inner Struggle,” p. 81. See above, p. 5 n. 8.
+
 [^96]: Wolfson observes the tension between Abulafia’s notion of the ontological distinction between Hebrew and the other languages and the idea that the “. . . latter are thought to be contained in the former.” It is this containment of the other languages within Hebrew that justifies the possibility for the attainment of revelation through a language other than Hebrew; when one achieves revelation through a non-Hebrew language, one has located something of the primordial essence that still survives in that corrupted language. That is to say, one has hit upon something that in its essence is reflected only in Hebrew. *Venturing Beyond*, p. 64.
 
 *[p. 58]* ^pg73
@@ -407,6 +467,7 @@ former, primordial tongue, with redemptive consequences.[^97] The exclusivity of
 Abulafia appears to suggest that there are difficulties that arise with regard to the distinctions that he seeks to draw between the enlightened Jew, who cleaves to the Active Intellect, and the gentile sage, for whom pure divine intellection is impossible.[^98] In one passage from *Hayyei ha-Nefesh*, Abulafia laments what he perceives to be a confused state in the religious sphere with respect to what constitutes true revelatory intellection. The improper beliefs held by the gentiles, Abulafia professes, may be difficult for all but the truly enlightened Jew to distinguish from true and pious beliefs, and so the former may come to pervade the latter. There is, Abulafia observes, a cross-pollination among religious faiths, to include Judaism, which arises from difficulties in distinguishing that which is intellective, and thus divine, from that which is corrupted. Abulafia’s sense of this fluid inter-religious 
 
 [^97]: Idel, *Language, Torah, Hermeneutics*, pp. 23, 108.
+
 [^98]: Idel and Hames offer similar interpretations of Abulafia’s story of a pearl that is the inheritance of a man’s son, as against his two servants, a variation on the medieval story of three rings for three sons. The single pearl here is the inheritance of the Jews, God’s favored ones, as against Christians and Muslims. Idel views the story as implying that Christianity and Islam “. . . are a vain pretense, having no theological basis at all,” this because of their status as servants, without rings or pearls of their own, and not as sons. Idel observes that the fact that the pearl is hidden away in Abulafia’s telling of the story reveals the sentiment that even the Jews lack full enlightenment. Ultimately, however, with the recovery of the pearl, an ingathering of the nations into Judaism will occur, as Idel reads the story. *Studies in Ecstatic Kabbalah*, pp. 48–50. Hames as well sees the story as suggesting that the Jews enjoy a uniquely superior position, although in the present they are not living up to it, due to their lack of understanding of Scripture. In the eschatological future, through knowledge of the divine name, this understanding will be realized, and universal forgiveness and unity will be possible. *Like Angels on Jacob’s Ladder*, pp. 66–69. Idel observes that, for Abulafia, Jewish identity is contingent upon knowledge of the name. “ ‘The Time of the End,’ ” p. 172. Given that Abulafia considered his generation to be lacking in knowledge of the name, we may see that he understands Jewish identity as unconsummated.
 
 *[p. 59]* ^pg74
@@ -450,6 +511,7 @@ Abulafia relates here that peril awaits those who fall victim to the ratiocinati
 According to Abulafia, the gentile intellectual threatens to throw the Jew’s reason into confusion, while “faith and imaginative thought” counter this threat. Despite the fact that the imagination, at least in part, then, is to be harnessed in order to attain proper understanding, it is nevertheless the imagination that is at the root of the threat posed by the gentile nations, as is apparent elsewhere in *Hayyei ha-Nefesh.* This is suggested in the context of a discussion of the risks faced during the visionary encounter with the divine. The passage begins as follows:[^105] And thus I report to you that the obstruction to apprehension is the material that is clothed in form and which strips off form. And if it is clear and illumined it is called “speculum.” Thus it is divided into two kinds in place and height, supernal and terrestrial, shining and not shining. And all of the prophets saw in the speculum that does not shine, and Moses our rabbi, may peace be upon him, saw in the speculum \[that shines\]. And the name of the vision \[mareh, or, “mirror,” *mar’ah\]* in the 
 
 [^104]: Hames notes Abulafia’s awareness of the difficulties involved in discerning true revelation, which rises above any proofs that may be advanced from reason alone. *Like Angels on Jacob’s Ladder*, p. 61.
+
 [^105]: *\[illegible\] ha-Nefesh*, MS Munich-BS 408 fols. 51b, 51a; printed edition, pp.
 
 *[p. 63]* ^pg78
@@ -479,5 +541,7 @@ Abulafia continues in *Hayyei ha-Nefesh* by referring to two other groups of peo
 And these masses see God with their evil imaginations, like he who sees the form of the face of a man drawn on a wall in colors, and it is a partial form. Or like one who sees it drawn impressed or raised upon a seal of gold. And regarding this, it is necessary for most of the nations to draw the vision of the nature of God, may He be blessed, from their evil imagination and their deceitful image, \[in\] forms of different bodies, upon tree and stone and silver and gold, in their courts and fortresses 
 
 [^108]: See, for instance, *\[illegible\] Eden Ganuz*, MS Oxford-BL 1580, fol. 92b; printed edition, p. 190, although in that context the lowest echelon among the Jews is still ranked above the nations.
+
 [^109]: See *The Guide of the Perplexed* 1:7, regarding this notion and Adam’s three sons, to which Abulafia will allude subsequently.
+
 [^110]: *Hoyei ha-Nefesh*, MS Munich-BS 408 fols. 52b, 52a; printed edition, pp.

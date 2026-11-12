@@ -24,10 +24,10 @@ aliases:
 | Frag. 1 | Isa 2:1-4 |
 | Frag. 2-3 | Isa 7:17-20 |
 | Frag. 4-10 | Isa 8:2-14 |
-| Frag. 20-22 | Isa 14:1-13 |
 | Frag. 7 ii, 11-16 i | Isa 9:17 - 10:10 (11?) |
 | Frag. 16 ii | Isa 11:14-15 |
-| Frag. 25 | Isa 59:15-16 |
 | Frag. 17, 18 i, 19 | Isa 12:1 - 13:4 |
+| Frag. 20-22 | Isa 14:1-13 |
+| Frag. 25 | Isa 59:15-16 |
 
 [[DSS 4Q58|← 4Q58]] · [[Qumran|index]] · [[DSS 4Q60|4Q60 →]]

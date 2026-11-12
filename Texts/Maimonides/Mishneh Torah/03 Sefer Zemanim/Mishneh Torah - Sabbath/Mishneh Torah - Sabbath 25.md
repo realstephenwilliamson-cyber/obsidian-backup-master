@@ -200,134 +200,242 @@ On the Sabbath one may overturn a basket onto which chicks[^102] may climb and d
 One may support[^108] calves and ponies as they walk. One may not, however, hold a chicken that fled [as one directs] it [to return to its coop]. [This prohibition was instituted] because [the chicken tries] to free itself from [the person's] hand, and [in the process, causes] its wings to be torn off.[^109] One may, however, push it until it enters [its coop]. ^25-26
 
 [^1]: In many manuscript copies of the *Mishneh Torah*, the text reads "a hammer to crack open nuts." A blacksmith's hammer is considered as a utensil that is used for purposes that are forbidden (see Halachah 7). Nevertheless, a hammer specifically used to crack nuts is placed in a different category. The need to make this distinction is avoided by our version of the text which refers to a hatchet.
+
 [^2]: As mentioned in the conclusion of the previous chapter, the *Maggid Mishneh* interprets the Rambam's statements as meaning that we are not allowed to carry a utensil for no purpose at all, even one that is generally used for a permitted purpose. This law is quoted by the *Shulchan Aruch* (*Orach Chayim* 308:4).
+
 [^3]: There are, however, several leniencies suggested by the later authorities - e.g., using such a utensil for a permitted purpose and then placing it down where one desires (*Shulchan Aruch HaRav* 308:12; *Mishnah Berurah* 308:16). Alternatively, one may move it with one's feet or in a manner that is considered irregular (*Shulchan Aruch HaRav* 308:15).
+
 [^4]: I.e., utensils that are used for a forbidden purpose, as mentioned in Halachah 2.
+
 [^5]: After one picks up such a utensil and uses it for a permitted purpose, one may continue carrying it and place it wherever one desires (*Maggid Mishneh*).
+
 [^6]: They may not be moved at all, even if one desires to use them for a purpose that is permitted, or one requires the place that they are occupying (Ramah, *Orach Chayim* 308:7).
+
 [^7]: I.e., as indicated in the subsequent halachot, if a person set aside or prepared a stone or board for a specific purpose, it is considered a utensil and may be moved on the Sabbath.
+
 [^8]: No matter how large a utensil is, it is permitted to be carried it on the Sabbath if one would ordinarily carry such a utensil during the week (*Shulchan Aruch, Orach Chayim* 308:2). (See, however, Chapter 26, Halachah 11, and notes.)
+
 [^9]: *Shabbat* [[Shabbat 122#122b|122b]] differentiates between the doors of a chest - which are permitted to be carried if removed on the Sabbath (see Halachah 12) - and the doors of a house, which are not. The Rambam explains that the reason for this distinction is that, even though the doors of a house are considered utensils, it is unlikely that before the Sabbath commenced, one considered using them on the Sabbath. Therefore, they are considered *muktzeh,* as is explained in Halachah 9 and notes.  
     Rashi, by contrast, maintains that these doors are not utensils, and that is the reason it is forbidden to carry them.
+
 [^10]: The Rambam uses the word "even" both here and in his Commentary on the Mishnah (*Shabbat* 17:1). It would appear that his intent is that it is taken for granted that doors that were removed before the Sabbath and were not prepared to be used for another purpose may not be used on the Sabbath. Even doors that were removed on the Sabbath and had been used as doors on this Sabbath may not be carried if they are removed.
+
 [^11]: See the *Shulchan Aruch* (*Orach Chayim* 311), which mentions certain leniencies regarding moving a corpse if one fears that it will begin to decompose.
+
 [^12]: *Yevamot* [[Yevamot 80#80b|80b]] states that a child born after only eight months will surely die. Therefore, even while he is still living, it is forbidden to carry him on the Sabbath.  
     *Tosafot, Shabbat* 135a, states that this ruling is no longer followed, since at present it is impossible to determine exactly when a child was conceived. Therefore, we cannot be certain of the length of time the mother was pregnant. Furthermore, the advances in medical technology have enabled us to save the lives of many babies who would surely not have survived in previous generations. At present, it is a mitzvah to attempt to save the lives of all premature babies, even if doing so involves performing a forbidden labor on the Sabbath.
+
 [^13]: Our translation of the above terms is based on the Rambam's Commentary on the Mishnah (*Shabbat* 17:2).
+
 [^14]: Significantly, this is the only one of the examples given by the Rambam that is not mentioned in the Mishnah (*op. cit.*). The Rabbis cite *Eruvin* [[Eruvin 102#102b|102b]] or *Shabbat* [[Shabbat 124#124b|124b]] as possible sources.
+
 [^15]: In his Commentary on the Mishnah (*loc. cit.*), the Rambam uses this statement as proof that there is no prohibition against removing a splinter on the Sabbath.
+
 [^16]: Because it is no longer useful as a utensil (*Shabbat* [[Shabbat 123#123a|123a]]). Thus it resembles a stone which cannot be carried on the Sabbath. See Halachah 12.
+
 [^17]: Since there are times when it is preserved in this state for the purpose of removing thorns and the like (Rashi, *Shabbat, loc. cit.*).
+
 [^18]: Note *Shulchan Aruch HaRav* 308:3, which states that not all utensils that are set aside as merchandise are intended solely for that purpose. Many storekeepers consider making personal use of the wares in their shops. In such an instance, one would be allowed to move the article on the Sabbath.
+
 [^19]: The word *muktzeh* means "set aside." Since a person would ordinarily have no thought of using such a utensil on the Sabbath, it is placed in this category. Even if he changes his mind afterwards and decides to use it on the Sabbath, this is forbidden. Since at the commencement of the Sabbath it was not his intent to use it, it may not be moved for the entire day.  
     The commentaries compare this law regarding merchandise to Chapter 26, Halachah 14, which states that food, even when set aside to be sold, is never considered *muktzeh*.
+
 [^20]: All these utensils are used for professional purposes that are forbidden on the Sabbath. Since they are delicate instruments, their owners will not use them for other purposes, lest they become damaged.
+
 [^21]: For these same reasons, it is forbidden to use the oil in the lamp, as stated in Chapter 5, Halachah 12.  
     It must be emphasized that, because the articles mentioned in this halachah were involved with the performance of a forbidden activity on the Sabbath itself, the prohibitions governing it are more severe than those applying to an article used for a forbidden labor. It is forbidden to move the articles mentioned in this halachah, even when it is necessary to use the place where they are located or one desires to use them for a permitted purpose.
+
 [^22]: As evident from Halachah 17, the present halachah refers to an instance when money was intentionally placed on the table. If it was forgotten there, more lenient rules apply.
+
 [^23]: Rashi, *Beitzah* [[Beitzah 26#26b|26b]], derives this concept from [[Torah 16 - Beshalach#^16-5|Exodus 16:5]], "On Friday, they will prepare what they have brought," which implies that the Sabbath preparations are completed on Friday, before the Sabbath's commencement. An article that is not prepared for use at that time may not be used throughout the Sabbath.
+
 [^24]: Kerosene produces an unpleasant odor. Therefore, even a metal lamp that uses it for fuel is considered repulsive.
+
 [^25]: This halachah grants permission to carry the repulsive article for other purposes. One is allowed to remove an article that contains filth from a room regardless, as stated in the *Shulchan Aruch* (*Orach Chayim* 279:6, 308:34-35).
+
 [^26]: Although one would generally not think of using such a utensil because it is repulsive, since its use is not totally out of the question, it is not forbidden as *muktzeh*. According to the *Shulchan Aruch* (*Orach Chayim* 308:35), however, this leniency does not apply to a chamber pot. It is considered as too repulsive to use for other purposes.
+
 [^27]: Note the gloss of Rabbi Akiva Eiger, which states that it appears that such entities may be moved only when one desires to use them for a purpose and not when one merely desires to use the place in which they are being kept. The *Mishnah Beruah* 279:19, however, differs and also permits moving the article when one desires to use its place.
+
 [^28]: Compare to Halachah 6.
+
 [^29]: The *Merkevet HaMishneh* notes that in this clause the Rambam mentions "before the Sabbath" after "on the Sabbath," because it is the greater inclusion. Since the doors were not fixed before the Sabbath, one might think that they are no longer considered part of a utensil, and hence it would be forbidden to carry them on the Sabbath. Nevertheless, since they are fit to be attached to their original utensil, they may be moved.  
     In the following clause, the Rambam mentions "on the Sabbath" after "before the Sabbath," because it is the greater inclusion, as explained in the following note.
+
 [^30]: When an article breaks on the Sabbath and it is no longer fit to be used for its original purpose, there is a difficulty. There is a difference of opinion among the Sages whether an object that is *nolad* - i.e., "comes into existence initially" on the Sabbath - is permitted or not. Since it was on the Sabbath that it first became possible to use the broken pieces of the utensils for this new purpose, it is possible to consider them as *nolad* (*Magen Avraham* 308:14).  
     The prevailing view is that objects that are *nolad* are permitted to be moved on the Sabbath. They are, however, forbidden to be moved on a festival. Accordingly, if an article breaks on a festival, it would be forbidden to move its broken pieces even if they were fit to be used for a constructive (other than one resembling the article's original) purpose *Shulchan Aruch HaRav* 308:24].  
     It must, however, be noted that the *Magen Avraham's* conception is not accepted by all authorities. Many maintain that since these pieces were always fit for use - either as part of the larger utensil or in their own right - they should not be considered *nolad* (*Be'ur Halachah* 308).
+
 [^31]: Our translation follows the standard printed text of the *Mishneh Torah*, even though there appears to be a printing error. To explain: In the Mishnah (*Shabbat* 17:5), there is a difference of opinion between the Sages. The first opinion of the Mishnah states that the broken pieces of a utensil may be carried provided they can be used for any constructive purpose. Rabbi Yehudah differs and maintains that the broken pieces may be carried only when they can be used for a purpose that resembles the intent for which they had originally been used.  
     Although the wording of the standard printed text follows Rabbi Yehudah's opinion, the examples he gives and the continuation of the halachah follow the other view. Significantly, many manuscripts and early printings of the *Mishneh Torah* state "provided the pieces can be used for a constructive purpose."  
     Although the *Baal Halachot Gedolot* and other sages of the early generations follow Rabbi Yehudah's opinion, in the later generations almost all the authorities accept the other view.
+
 [^32]: For they are no longer a utensil, and hence may not be carried, as stated in Halachah 6. Note the Ramah (*Orach Chayim* 308:6), who mentions that if the broken pieces of the utensil present a danger, they may be moved.
+
 [^33]: With the latter clause, the Rambam excludes objects that were never used as the coverings of utensils before the Sabbath, nor were they prepared for to be used for this purpose. Furthermore, if it is not common practice to use an object for this purpose - e.g., a stone - it may not be moved on the Sabbath despite the fact that it was used as a covering several times during the week (*Shulchan Aruch HaRav* 308:36).  
     (See also Rashi (*Shabbat* [[Shabbat 126#126b|126b]]), who states that we may carry a cover only when it is fit to be used as a utensil in its own right. His opinion is not shared by other authorities.)
+
 [^34]: According to the *Maggid Mishneh*, this refers to a utensil that is buried entirely within the ground and does not protrude at all. Since it is built in this manner, the Sages apply the laws governing pits and vats to it, lest people be unable to distinguish between them. If, however, a utensil that is attached to the ground projects from the ground, its cover does not require a handle, as will be explained (*Shulchan Aruch, Orach Chayim* 308:10).
+
 [^35]: This refers to covers that are not attached with a hinge, as is obvious from Chapter 10, Halachah 14.
+
 [^36]: By mentioning this law in this context, it would appear that the Rambam considers the rationale for the prohibition to be that without handles, the cover is not considered a utensil (Rav David Arameah).  
     Other authorities explain that when a cover lacks handles, its removal or placement resembles building. If, however, the cover has a handle, it is clearly distinguished as a separate entity that is intended to be handled (*Shulchan Aruch HaRav* 308:37; *Mishnah Berurah* 308:42). The Rambam touches on the latter prohibition, albeit in a slightly different manner, in Chapter 22, Halachah 25.
+
 [^37]: In Talmudic times, an oven was a separate utensil whose base was attached to the ground, but which protruded from the ground entirely. Therefore, it could not be confused with a pit or a vat (*Maggid Mishneh*). As the structure of ovens has changed throughout the ages, there has also been a variation in the laws governing their covers.
+
 [^38]: Based on *Tosafot, Shabbat* 43b, the *Shulchan Aruch* (*Orach Chayim* 311:8) describes these laws with the term טלטול מן הצד, "carrying in an indirect manner."
+
 [^39]: An article that is permitted to be carried.
+
 [^40]: An article that is forbidden to be carried, because it is used for construction. More precisely, the term פגה refers to an unripe fig that is placed in the straw to ripen.
+
 [^41]: The commentaries question whether or not this refers to an instance where the coals are burning. Were the coals to be burning, there is the possibility that by removing the cake, one will extinguish the upper coals and cause the lower coals to burn. The *Maggid Mishneh* quotes Rashi (*Eruvin* [[Eruvin 77#77a|77a]]) as explaining that the coals have already been extinguished.  
     The *Kessef Mishneh* notes that the wording chosen by the Rambam differs slightly from that of the Talmud. The Talmud states "a cake buried in coals," while the Rambam speaks of a cake "**lying on** coals." Therefore, he maintains that the law stated by the Rambam applies even when the coals are burning.  
     Rabbenu Avraham, the Rambam's son (*Birkat Avraham*, Responsum 9), also shares that opinion, explaining that it is not absolutely necessary that the person will cause the coals to move, and this is not his intention. Therefore, there is no prohibition involved, as stated in Chapter 1, Halachah 5. (See also *Hilchot Shegagot*, Chapter 7.) Significantly, however, when Rav Yosef Karo mentions these laws in the *Shulchan Aruch* (*Orach Chayim* 311:9), he cites the example of the fig and the straw, but omits mention of the cake and the coals entirely.
+
 [^42]: The *Shulchan Aruch* (*Orach Chayim* 311:8) emphasizes that this refers to an instance where the vegetables were placed in the earth for storage purposes and they had not yet become rooted there. Were they to have taken root in the earth, it would be forbidden to remove them.
+
 [^43]: If, however, a portion of its leaves is not protruding, it is not permitted to pierce them with a spindle and remove them. By doing so, one would appear to be creating a pit in the earth.  
     This is the opinion of the *Maggid Mishneh*. The *Magen Avraham* 311:21, however, mentions the opinion of the *Tosafot, Shabbat* 50b, from which it appears that this leniency would be allowed.
+
 [^44]: This is an example of the second principle mentioned in the previous halachah, that one may not carry a forbidden object because of a permitted object lying upon it. Note Chapter 26, Halachah 21, which mentions that exceptions to this principle are made to save a corpse from the heat or from a fire.
+
 [^45]: The bracketed additions were made on the basis of *Shabbat* [[Shabbat 141#141b|141b]].
+
 [^46]: *Shabbat* [[Shabbat 141#141b|141b]] explains that this refers to a situation where the son might become sick if his father does not pick him up. If there is no danger of the child's becoming sick, the father is forbidden to pick him up (*Magen Avraham* 309:1).
+
 [^47]: A coin of the Talmudic period.
+
 [^48]: *Shulchan Aruch HaRav* 309:2 mentions that it is even forbidden to hold the child by the hand that is not holding the coin.
+
 [^49]: The *Magen Avraham* 309:3 states that this refers to an instance where one firmly attached the stone in the hole, making it a permanent part of the basket. Otherwise, carrying the stone in the basket is forbidden.  
     Note the Rambam's Commentary on the Mishnah (*Shabbat* 21:1), where the Rambam interprets this law and the one that follows as a single concept (as the Ra'avad does in his notes). According to that understanding, the leniency of using the stone as part of a container is permitted only when the basket contains fruit that will spoil if the container is overturned. Thus, the Rambam's decision here reflects a change of mind in favor of a more lenient ruling.
+
 [^50]: The *Shulchan Aruch* (*Orach Chayim* 309:3) mentions the converse of this principle. When the fruits are firm and will not be spoiled if the basket is overturned and they are spilled to the earth, the basket should be overturned before it is carried.
+
 [^51]: As mentioned above, the Ra'avad objects to this decision, based on his interpretation of *Shabbat* [[Shabbat 142#142a|142a]]. The *Maggid Mishneh* states that according to the text of the Talmud we have, the Ra'avad's interpretation must be accepted. It is, however, possible that the Rambam's text of the Talmud had a different version of this passage. Both the *Tur* and the *Shulchan Aruch* (*Orach Chayim* 309:3) follow the Rambam's approach.
+
 [^52]: The *Shulchan Aruch* (*loc. cit.*) also mentions that if one needs to use the place where the basket with the stone is placed, one may move it without overturning it, even though it contains fruit that will not be spoiled. (See Halachot 17 and 20).
+
 [^53]: *Shabbat* [[Shabbat 142#142b|142b]] emphasizes that we are required to tilt the jug only when it is moved for the sake of its wine. If one moves it to use the place where it is located, there is no need to dislodge the stones. This ruling is quoted in the *Shulchan Aruch* (*Orach Chayim* 309:5).
+
 [^54]: Were he to tilt the jug there, the falling stone might break other jugs.
+
 [^55]: *Shulchan Aruch HaRav* 309:6 and the *Mishnah Berurah* 309:14 emphasize that if one's intent is only that the money should not be stolen, it is forbidden to shake it from the pillow.
+
 [^56]: The Ramah (*Orach Chayim* 309:4) states that the following restrictions apply only when one places a forbidden article on an article of one's own, and not when one places a forbidden article on an article belonging to a colleague. For a person cannot cause an article belonging to a colleague to become forbidden.
+
 [^57]: Note the *Magen Avraham* 309:6, which states that the word "intentionally" must be interpreted to mean "for a useful purpose." If, however, a person put down an article on another object intentionally, but with no particular purpose in mind, it is considered as if he forgot it there.
+
 [^58]: Since the article is forbidden *beyn hash'mashot,* the time of the commencement of the Sabbath, it remains forbidden for the entire Sabbath.  
     The *Shulchan Aruch* (*Orach Chayim* 309:4) also mentions the opinion of *Tosafot,* who maintain that a base for a forbidden object is created only when one's intent was that the forbidden object remain on the base for the entire Sabbath. If one intended to shake it off the base, or have it transferred by a gentile over the course of the Sabbath, it is not considered a base.  
     Although the Rambam's opinion is accepted by the later authorities, the more lenient view may be followed if there is a possibility that a loss will be caused - e.g., a lamp falls on a table (*Shulchan Aruch HaRav* 309:7).
+
 [^59]: Our translation is based on the Rambam's Commentary on the Mishnah (*Shabbat* 17:6) and *Hilchot Keilim* 20:1. Rashi and others render the Hebrew קרויה as a "gourd."
+
 [^60]: I.e., since the bucket is made of earthenware, it is not necessarily heavy enough to sink. Therefore, the stone is used as a weight.
+
 [^61]: In such an instance, the bucket itself becomes forbidden, because it serves as a base for a forbidden object (*Mishnah Berurah* 309:8).
+
 [^62]: This refers to a reed that was not altered to serve as a hanger. It is not considered a utensil and is therefore deemed *muktzeh*.
+
 [^63]: The intent is that one must hold the garment that is not *muktzeh,* and not the reed that is (*Shulchan Aruch, Orach Chayim* 308:16). The *Mishnah Berurah* 308:64 mentions that one must remove the garment without moving the reed. It is questionable, however, whether the Rambam would agree to that stringency, for this appears to resemble the other instances of טלטול מן הצד, "carrying in an indirect manner," described above.
+
 [^64]: I.e., produce other than grain, wine, or olive oil.
+
 [^65]: After the tithes have been given to the Levites, they are required to separate a tenth of the produce that they have been given. This produce is given to the priests and is governed by same laws as *terumah.* (See [[Torah 38 - Korach#^18-25|Numbers 18:25-32]].)
+
 [^66]: Once *terumah* has contracted ritual impurity, the priests are forbidden to partake of it and it must be burnt.
+
 [^67]: The produce separated as the second tithe must be eaten in Jerusalem. When a person lives far from Jerusalem, produce that has been separated as the second tithe can be redeemed by exchanging it for money ([[Torah 47 - Re'eh#^14-24|Deuteronomy 14:24-27]]).
+
 [^68]: With the exception of the first fruits (*bikkurim*), produce is not offered in the Temple. If a person consecrates produce, his intent is that it be sold, and the proceeds given to the Temple.
+
 [^69]: Produce purchased from an individual on whom we cannot depend to have separated tithes.
+
 [^70]: When one redeems the second tithe or consecrated property, it is necessary to add a fifth of its value to the sum. (One pays 125%.) Nevertheless, as long as one has given the value of the produce, it is considered to have been redeemed, and the additional fifth is considered a debt. Note a parallel in *Hilchot Eruvin* 1:15.  
     It must, however, be noted that in *Hilchot Ma'aser Sheni* 5:12, the Rambam writes that the sacred dimension of the second tithe is considered to have departed from the produce after it has been redeemed, even though one has not paid the additional fifth. Nevertheless, one should not partake of this produce, even on the Sabbath, unless one pays that fifth.  
     In contrast, in *Hilchot Arachin* 7:3, the Rambam writes that one is permitted to partake of consecrated produce after it has been redeemed, despite the fact that one has not paid the additional fifth.
+
 [^71]: The presence of an article that is forbidden to be carried does not cause the entire container to become forbidden.
+
 [^72]: Our translation follows the standard published text of the *Mishneh Torah*. The *Kessef Mishneh* mentions that the version of this halachah in the texts of the *Mishneh Torah* commonly available in his time read: "When does the above apply? When the impure [*terumah*] was below...." He, however, prefers the version found in our standard texts, because it parallels the text of *Shabbat* [[Shabbat 141#141b|141b]]. Significantly, Rav Kapach notes that both versions appear in ancient manuscripts.  
     The *Maggid Mishneh* explains that if the pure *terumah* is above, one should remove the pure *terumah* by hand, and then leave the remainder.
+
 [^73]: That were not cemented in place. Hence, there is a possibility that one will move them when one sits down.  
     The *Magen Avraham* 308:41 emphasizes that if one will not move the stones when sitting, there is no prohibition. Moreover, the *Magen Avraham* emphasizes that the prohibition against *muktzeh* pertains only to carrying objects with one's hands, and not to moving it with one's body. (See the following halachah.) Therefore, the intent in both clauses of this halachah is to carry the stones or the branches in order to sit on them.
+
 [^74]: I.e., performed a deed preparing them.
+
 [^75]: Although the Ramah (*Orach Chayim* 308:21) desires to equate the row of stones with the date branches, the *Magen Avraham* (*loc. cit.*) justifies the Rambam's ruling.
+
 [^76]: In contrast to the previous law, thought is sufficient to change the status of the date branches. This leniency is granted because date branches are often used to sit on. It was the person's thought to use the branches for kindling that caused them to be forbidden. Hence, his thought itself is sufficient to remove that prohibition.  
     By contrast, a row of stones is generally used for construction and not as a seat. Therefore, one must perform a deed that indicates one's desire to use the row to sit upon. Consequently, in the present era, when it is no longer customary to sit on date branches, in this instance as well one must perform a deed to indicate one's intent (*Magen Avraham* 306:40).
+
 [^77]: The person did not intend to use them as a mat in the future when he sat upon them. Nevertheless, since date branches are commonly used for that purpose, that is sufficient to cause them to be considered as a useful object (*Shulchan Aruch HaRav* 308:51).
+
 [^78]: In the Talmudic era, straw was generally used for the purpose of kindling. Therefore, it is classified as *muktzeh*. The *Magen Avraham* 308:53 notes that in his era, straw was used most commonly for animal fodder. Therefore it should not be classified as *muktzeh*.
+
 [^79]: For the prohibition against moving *muktzeh* applies only when one moves it with one's hands.
+
 [^80]: I.e., placing the pillow or sheet on it is a clear indication that one intends to use it as a mattress. Note *Shulchan Aruch HaRav* 311:15 and the *Mishneh Berurah* 311:31, which state that if one puts straw on a bed with the intention of sleeping on it, one may spread it out by hand.
+
 [^81]: The bracketed addition is made on the basis of the *Shulchan Aruch* (*Orach Chayim* 308:35), which states that unless the person sets aside a corner of the house for the earth, it is considered part of the floor of the house. This implies that the person emptied out the container, for otherwise the earth would remain a distinct entity.
+
 [^82]: This act indicates that the person plans to use the earth on the Sabbath. Therefore it is considered a designated article (מוכן). (See *Hilchot Sh'vitat Yom Tov* 2:18.)
+
 [^83]: In the ages prior to household plumbing, earth was necessary to cover urine, feces, and other wastes.
+
 [^84]: This law has already been explained in Chapter 5, Halachah 13. Were one to place the receptacle there before the commencement of the Sabbath, it would be permitted.
+
 [^85]: According to most authorities, *nolad*, an article that first comes into existence on the Sabbath, is not forbidden. Nevertheless, an egg laid on the Sabbath is forbidden to be moved. This is a decree enacted as a safeguard, lest one move an egg laid on a festival, as explained in the Rambam's Commentary on the Mishnah (*Beitzah* 1:1).
+
 [^86]: One must, however, be careful not to move the forbidden article when covering it (*Shulchan Aruch, Orach Chayim* 310:6; note the gloss of the Ra'avad to this halachah).
+
 [^87]: Although there is an opinion in *Shabbat* [[Shabbat 43#43a|43a]] that states that one may carry an article only for the sake of an object that may itself be carried, this opinion is not accepted as halachah (*Maggid Mishneh*). (Note, however, the gloss of the *Kessef Mishneh* on Chapter 26, Halachah 22.)
+
 [^88]: I.e., water dripping from a leaking roof or the like.
+
 [^89]: There is no prohibition against carrying rainwater. Thus, in placing the receptacle there one does not nullify the possibility of using the receptacle later (*Mishnah Berurah* 338:30).
+
 [^90]: This pattern may be repeated any number of times.
+
 [^91]: Water with which one bathes need not be as clean as water that one drinks. Nevertheless, one will not bathe with water that is soiled. Although the *Tur* (*Orach Chayim* 338) differs with the Rambam and does not require the water to be clear, the Rambam's view is accepted by the *Shulchan Aruch* (*Orach Chayim* 338:8) and the later authorities.
+
 [^92]: The reason for the prohibition against placing a receptacle to collect the water is that one is invalidating the utensil for future use. The commentaries question this decision, noting that ultimately, when the receptacle becomes full, one is permitted to move it because it is repulsive. They explain that this restriction was instituted because, at the outset, it is forbidden to cause an article to become repulsive (*Shulchan Aruch HaRav* 339:9, *Be'ur Halachah* 339).
+
 [^93]: These leniencies are granted only within a person's permanent dwelling, as reflected in the *Shulchan Aruch, Orach Chayim* 308:34.
+
 [^94]: Literally, "a chamber pot."
+
 [^95]: Leniency is granted if there is a possibility of loss involved (*Shulchan Aruch, loc. cit.* 308:37).
+
 [^96]: Produce from *Eretz Yisrael* from which the agricultural requirements (*terumah* and the tithes) have not been separated. Until these requirements are separated, the produce is not fit to eat and it is considered as *muktzeh* as explained in Halachah 19.
+
 [^97]: See Chapter 23, Halachah 15.
+
 [^98]: See Chapter 5, Halachah 13.
+
 [^99]: The *Shulchan Aruch* (*Orach Chayim* 313:7) emphasizes that one may use these utensils only to prevent the beam from falling further. It is forbidden to raise the beam to its original position, because that would be considered as if one were building.
+
 [^100]: Unless there is ample space, we fear that the pressure will be so great that it will be impossible to remove them later. Therefore, one will have nullified all future possibilities of using them (*Shabbat* [[Shabbat 43#43a|43a]]).
+
 [^101]: Based on Chapter 1, Halachah 6, one must add that the person must place down the mat in a manner that will not inevitably cause the bees to be snared (פסיק רישא). Were that to be the case, the person who places down the mat would be liable for snaring.
+
 [^102]: Which are *muktzeh* like all animals and fowl.
+
 [^103]: Although one is forbidden to carry the basket while the chicks are in it, one is not considered to have invalidated the possibility of using the receptacle, because one may move it after the chicks descend.
+
 [^104]: If, however, the chicks are in the basket throughout *beyn hash'mashot* on Friday, the basket becomes *muktzeh* (*Mishnah Berurah* 308:148).
+
 [^105]: Rashi and the Rashba (*Shabbat* [[Shabbat 128#128b|128b]]) explain the problem differently from the Rambam: that while the animal is standing on the cushions, it is impossible to move them. This interpretation is difficult, because one may move them after the animal departs,. According to the Rambam's interpretation, by contrast, there is no difficulty, because once the cushions are wet, they cannot be used. The Rambam's interpretation is quoted by the *Shulchan Aruch* (*Orach Chayim* 305:19).
+
 [^106]: Although the prohibition against carrying an animal by hand is also Rabbinic in origin, it is more severe. Therefore, our Sages did not nullify it despite the suffering caused to the animal.  
     There are authorities who are more lenient and maintain that even the latter prohibition is waived because of the animal's suffering. The later authorities rule that one may rely on this decision in a situation where a great loss will be incurred. Moreover, they add that all agree that one may instruct a gentile to lift the animal from the cistern. This is preferable to placing the cushions and blankets there (*Shulchan Aruch HaRav* 305:26; *Mishnah Berurah* 305:70).
+
 [^107]: Needless to say, this is forbidden in the public domain, because it is forbidden to carry an animal there (*Shabbat, loc. cit*).
+
 [^108]: I.e., hold them by the necks or shoulders and direct them (*Shulchan Aruch, loc. cit.* 308:40).
+
 [^109]: This is the Rambam's interpretation of *Shabbat* (*loc. cit.*). Rashi and the Ra'avad offer a different rationale for the prohibition against lifting a chicken: that the chicken will lift up its legs from the ground, causing one to carry it. This interpretation is quoted by the *Shulchan Aruch* (*loc. cit.*).

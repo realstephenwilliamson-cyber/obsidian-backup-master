@@ -55,22 +55,38 @@ chapter: 127
 **18.** Fasting is beneficial when accompained with repentance for nullifying the portents of a bad dream,[^17] just as fire consumes the refuse of flax; but only if [you fast] on the day [you had the dream]. However, you are not required to fast, for (the Amora) Samuel said: "Dreams speak falsehood," (Maseches Berachos 55b). You are, however, required to repent and to devote the entire day to the study of Torah and in prayer. Concerning fasting on Shabbos for a worrisome dream, see *Orach Chaim*, chapter 288. ^127-18
 
 [^1]: If you do not make this commitment, it is not considered a fast. Thus, if you are fasting to fulfill a vow, and you fasted without making a prior commitment, you have not fulfilled your vow to fast. (see *Mishnah Berurah* 562:23)
+
 [^2]: It is preferable to do so at a *Minchah Ketanah Shemoneh Esrei* (nine and one half hours after sunrise), but, if not, you can do so at an earlier *Minchah*. (*Ibid.* 562:27)
+
 [^3]: If you forgot to say this prayer, but you did, however, make a mental commitment to fast, it is sufficient. (*Shulchan Aruch* 562:6; *Mishnah Berurah* 562:30,31)
+
 [^4]: See *Ramah* 562:8. The prevailing custom is, however, that one acceptance is sufficient.
+
 [^5]: This applies, even if this is the first time you are fasting on one of these days. So long as it is an accepted custom in your community, you may join and rely on those who have fasted. (*Biyur Halachah* 562:2)
+
 [^6]: See Paragraph 4, and, accordingly, it would seem that it is best to be stringent, if you had in mind to fast when you answered *Amein*, even without a verbal commitment. (See *Mishnah Berurah* 562:39)
+
 [^7]: You should be careful to control your anger and to conduct your business activities in such manner, as not to become angry. (*Ibid*. 568:50)
+
 [^8]: *Ramah*, however, rules, according to the *Poskim*, who maintain that on *erev Shabbos*, it is sufficient to fast until the congregation leaves the synagogue, after they accepted Shabbos (*Kabbolas Shabbos*). (*Ibid*. 249:21 and also *Biyur Halachah* 249:4)
+
 [^9]: However, if you are asked if you are fasting, it would seem that you are permitted to acknowledge that you are. *Mishnah Berurah*, however, indicates that you should deny that you are fasting, unless you are asked to join someone in a meal, in which case you have no choice but to state you are fasting. On public fast days, however, you may say you are fasting in order to encourage others to do so. (*Mishnah Berurah* 565:14)
+
 [^10]: These are the words of the prayer: רִבּוֹן כָּל הָעוֹלָמִים גָלוּי וְיָדוּעַ לְפָנֶיךָ שֶׁבִּזְמַן שֶׁבֵּית הַמִקְדָשׁ הָיָה קַיָם אָדָם חוֹטֶא מִקְרִיב קָרְבָּן וְאֵין מְבִיאִים מִמֶנוּ אֶלָא  
     חֶלְבּוֹ וְדָמוֹ, וְאַתָּה בְּרַחֲמֶיךָ הָרַבִּים מְכַפֵּר . וְעַתָּה בַּעֲוֹנוֹתֵינוּ חָרַב בֵּית מִקְדָשֶׁךָ וְאֵין לָנוּ מִקְדָשׁ וְלֹּא כֹהֵן שֶׁיְכַפֵּר בַּעֲדֵינוּ, לָכֵן  
     יְהִי רָצוֹן מִלְפָנֶיךָ שֶׁיְהֵא חֶלְבִּי וְדָמִי שֶׁנִתְמַעֵט הַיוֹם כְּחֵלֶב מוּנַח עַל הַמִזְבֵּחַ לְפָנֶיךָ וְתִרְצֵנִי.  
     Master of the Universe, we know that during the time the Holy Temple stood, if a person sinned, he brought a sacrifice. The only part of the animal to be offered on the Altar was its blood and its fat, and in Your great compassion, You forgave him. But, now, because of our sins, the Holy Temple was destroyed, and we have no temple service to atone for us. Therefore, may it be Your will, that my blood and fat, that are diminished by fasting this day, be considered as though they were offered before You on the Altar, and, thus, may I find acceptance before you.
+
 [^11]: You should, however, fast a part of the day, and it is sufficient, therefore, if you eat at a later hour than you are accustomed; for example, if you usually eat at 10 A.M., you should eat at 11 A.M. In this way, at least, some of your vow will be fulfilled on the day you selected. (*Mishnah Berurah* 568:9,10)
+
 [^12]: In such a case, you need not even repay the fast on a later day. (*Ibid*. 568:17)
+
 [^13]: This rule applies only if you ate a *kazayis* of food, but if you ate less than that, you need not fast another day as an atonement. Similarly, in regard to drinking, if you drank less than a cheekful, you may continue the fast, and it is not required that you fast on another day. (*Ibid*. 568:5)
+
 [^14]: *Mishnah Berurah* makes no mention of the need to fast on Monday, Thursday and Monday as an atonement. It would seem that one day is sufficient as an atonement.
+
 [^15]: This rule is not mentioned in *Mishnah Berurah*. (See *Ramah, Yoreh Deiah* 220:15)
+
 [^16]: However, if the cause for fasting passed after you made the commitment, even though you had not actually started the fast, you must, nevertheless, complete the fast. (*Mishnah Berurah* 569:7)
+
 [^17]: A pregnant woman, or a woman after child-birth should not be told to fast, but, rather, to give charity in lieu of fasting. (*Ibid*. 220:5)

@@ -19,8 +19,11 @@ the teacher of Ruru himself.[^177] Interestingly, the *Raurava* includes interte
 The necessity of this mediation of gods, the goddess, and sages, a story of progressive condensation of scriptural wisdom,[^179] is represented in the *Raurava*, in consonance with the Purāṇas and the *Niśvāsatattvasaṃhitā*, as the limited capacities of human beings. Endowed with feeble intellects, human beings could never fathom the pure mantric revelation in its original form and thus require a discursive encapsulation of that truth in the form of a “scripture.”[^180] 
 
 [^177]: *Rauravasūtrasaṅgraha* 3.6-3.9: *śivānalaviniṣkrāntam adhūmajyotirūpiṇam | jagataḥ kāraṇaṃ devam ananteśaṃ paraṃ gurum || tenoktaṃ parameśānaśrīkaṇṭhāya mahātmane | surāsurāṇāṃ guruṇā devyai sarvam udāhṛtam || devī ca prāha nandīśaskandayor guhyam uttamam | nandīśād brahmaṇāvāptaṃ śakreṇa ca mahātmanā|| tasmād avāptam ūrveṇa ṛcīkena tataḥ punaḥ | tasmād avāptaṃ rāmeṇa rāmāc cāham adhītavān*. N.R. Bhatt, the editor of this text, opts for *śakreṇa* in 3.8, but notes manuscript witnesses that give *śukreṇa*, which I find to be the better reading. This is because the name is followed by a number of Vedic seers, all of whom are found listed in the *Niśvāsatattvasaṃhitā*, uttarasūtra, 1.37-39; and in that list we also find Śukra.
+
 [^178]: *Rauravasūtrasaṅgraha* 3.14ab: *ye ca te guravaḥ proktās tantre svāyaṃbhuve purā*.
+
 [^179]: *Rauravasūtrasaṅgraha* 10.104-106 describes the contraction of scripture from ten million verses to twelve-hundred, the final redaction being Ruru’s teaching.
+
 [^180]: *Rauravasūtrasaṅgraha* 3.27: *na mīmāṃsyā vicāryā vā mantrāḥ svalpadhiyā naraiḥ |* *pramāṇam āgamaṃ kṛtvā śraddhātavyā hitaiṣibhiḥ* ‘Human beings are not able to examine or inquire into the nature of mantras given their impoverished intellects. Taking scripture as an authority, \[those mantras\] should be taken to heart by those who desire to benefit \[the world\].’
 
 *[p. 69]* ^pg81
@@ -28,8 +31,11 @@ The necessity of this mediation of gods, the goddess, and sages, a story of prog
 The *Svāyaṃbhuvasūtrasaṅgraha* (‘Svayaṃbhū’s Redaction of Pithy Scriptural Teachings’), before enumerating[^181] the classical Saiddhāntika division of the Śaiva scriptural corpus into twenty-eight revealed texts, ten (Śivabhedas) and eighteen (Rudrabhedas), describes God as a deity of the letters (*śabdarāśi*).[^182] This formulation of God as pure sound is consistent with the tantric conception of deity as mantra and the characterization of the transcendent aspect of deity found in both the *Niśvāsatattvasaṃhitā* and *Rauravasūtrasaṅgraha*. This sonic nature of the deity encompasses all the syllables, the sixteen vowels (or ‘seed’ \[bīja\]) and thirty four consonants (or ‘womb’ \[yoni\]).[^183] The power of this supreme deity permeates the universe and His scriptural wisdom is the most subtle and efficacious when it comes to liberation.[^184] In light of the unique distinction afforded to Śaiva revelation, this supreme sonic deity, similar to a wish-fulfilling gem on earth, is described as the universal cause (*kāraṇa*) of 
 
 [^181]: *Svāyaṃbhuvasūtrasaṅgraha* 5.6-12. See Appendix III of GOODALL (1998) for a critically edited version of these verses.
+
 [^182]: *Svāyaṃbhuvasūtrasaṅgraha* 5.1-3: *athādāv abhavac chabdaḥ kāraṇād akṣaraṃ tataḥ | kāraṇaṃ mokṣadaṃ brahman brahma brahmavido viduḥ || tasmāt sarvaprado devaḥ śabdarāśir iti śrutaḥ |* *navaparvaśatārdhātmā yonibījātmakaḥ paraḥ || akārādivisargāntaṃ bījaṃ tat ṣoḍaśākṣaram |* *śeṣā yoniś catustriṃśat avyayā hy akṣarātmikā* ‘Now in the beginning there arose the word. From this \[primordial\] cause there was the \[divine\] syllable\[s\]. Those who know brahman understand that \[primordial\] cause as the absolute, brahman, which bestows liberation. Therefore, God, who gives forth everything, known \[in this form\] as the “mass of syllables,” has the nature of the fifty divisions \[of the letters\] characterized as both the supreme “womb” and “seed.” The “seed,” beginning with the letter ‘a’ and ending with ‘ḥ’, totals sixteen letters. The remaining members \[of the syllabary\], the “womb,” consists of thirty-four letters.’
+
 [^183]: See the immediately preceding footnote.
+
 [^184]: *Svāyaṃbhuvasūtrasaṅgraha* 5.4: *sā śaktir devadevasya tayā vyāptam idaṃ jagat | jñānaṃ śaivaṃ paraṃ sūkṣmaṃ yat tat tārakam uttamam* ‘That is the Śakti of the Lord of lords; this universe is pervaded by Her. That Śaiva scripture wisdom, which is supreme and subtle, is the best vehicle of liberation.’
 
 *[p. 70]* ^pg82
@@ -63,6 +69,7 @@ teaching of the Vedic sage Ruru, the dialogical structure of the *Svāyaṃbhuva
 The *Kiraṇatantra*, together with the other extant Siddhānta scripture identifiable from the canonical list of twenty-eight, the *Parākhya*, shows evidence[^189] of being later than the Siddhānta scriptures treated above. One factor that corroborates a later dating is the dialectical prodding of the main interlocutor, Garuḍa, the legendary chief of birds, who—instead of simply accepting the statements of Lord Śiva as unquestioned dogma—interrogates “inconsistencies” in the Lord’s teaching.[^190] The revelatory setting of the *Kiraṇa* is the same peak as the *Niśvāsatattvasaṃhitā*, the iconic Kailāsa, where the praise 
 
 [^189]: GOODALL (1998), p. lxxiv.
+
 [^190]: WATSON (2006), pp. 74-75: “Although there is little śāstric discussion in the *Svāyambhuvasūtrasaṅgraha*, the *Rauravasūtrasaṅgraha*, the *Niśvāsa*, the *Pauṣkarapārameśvara*, the *Sārdhatriśatikālottara* or the *Sarvajñānottara*, when we move to the *Kiraṇa*, we find at least that the questioner, Garuḍa, points to what he perceives as inconsistencies in the sermon he is hearing from the Lord, prompting him to clarify. Then in the *Parākhya*, the *Mataṅga* and the *Mṛgendra* the dialectical dimension becomes more pronounced, and we find the questioners putting objections from the point of view of non-Śaiva traditions such as Buddhism, Sāṅkhya, Vedānta, Nyāya, Lokāyata and Mīmāṃsā. Garuḍa’s questions confine themselves to the details of the system, but the questioners in these three Tantras challenge fundamentals such as the existence of God and Self. The former challenge is not in fact completely absent in the *Kiraṇa*. Garuḍa had there asked Śiva how he could be known. One verse of Śiva’s response asserts that the universe, being gross and diverse, is an effect, and thus requires a cause. That the cause could be past actions is ruled out owing to them being insentient... But apart from that one verse, there is nothing by way of argument that would need to be addressed by those traditions that denied the existence of God. The rest is theology for the already committed: Śiva explains to Garuḍa his nature, his activities at the time of creation, his dispensing of grace, his three forms, and his mantra-body. In the *Parākhya*, by contrast, the theology is supplemented by lengthy śāstric digressions.”
 
 *[p. 72]* ^pg84
@@ -98,7 +105,9 @@ description of the descent of scripture and the dialogical structure of the *Kir
 Garuḍa, curious to know the logic of this narrative of scriptural transmission, asks why the twenty-eight scriptures were further subdivided. The answer that Garuḍa himself suggests is that these divisions are based upon differences in the mentalities or human capacities of the recipients of a given scriptural form or redaction.[^196] Although Śiva’s response undercuts the importance of divisions with a grand unified theory of Śaiva revelation,[^197] the customization of scriptural wisdom to the mental capacities of various audiences confirms a fundamental proposition incipient in the logic of the descent of 
 
 [^195]: *Kiraṇatantra* 10.28cd-29ab: *eṣu bhedeṣu yo bheda upabhedaḥ sa ucyate || atisaṃkṣiptavistīrṇa ṛṣidevagaṇātmakaḥ* ‘The \[further\] division of that \[original\] division \[of twenty-eight tantras\] is known as the “supplementary” \[scriptures\]. That supplementary corpus has a vast amount of highly condensed texts and consists of \[various text transmitted by\] Vedic sages, gods, and \[Śiva’s\] entourage.’ I am grateful to Dominic GOODALL,whose suggestions helped improve this translation.
+
 [^196]: *Kiraṇatantra* 10.29cd-10.30ab: *kasmāt khyāto ‘tra bhedaś ca bhedo ‘yam cittabhedataḥ ||* *puṃpravṛtter ayam bhedaḥ śrotṛṇāṃ tu vibhedataḥ*.
+
 [^197]: *Kiraṇatantra* 10.30cd-10.31ab: *bhedo ‘yam upacāreṇa kalpitaḥ sa yatas tataḥ | phalabhedo na kalpyo ‘tra jñānabhedaḥ prakalpyate* ‘This division should be understood as \[purely\] metaphorical. Since that is the case, you should not imagine a division regarding the results \[of these Tantras\]. \[All that is\] propounded here is the division of \[the unitary\] scriptural wisdom.’
 
 *[p. 74]* ^pg86
@@ -106,6 +115,7 @@ Garuḍa, curious to know the logic of this narrative of scriptural transmission
 scripture. The source of scriptural wisdom is an extremely subtle and prediscursive resonance (*nāda*),[^198] incomprehensible to a human intellect, which emerges from on high, well beyond the form of Śiva seated on Kailāsa. Only subsequently is this purely sonic revelation versified into a massive scripture propounded by this form of Śiva to either the Goddess, a Rudra, one of his chief attendants (i.e. Nandi or another Gaṇeśvara), or his regents (i.e. the Vidyeśa Ananta). The self-differentiation of the pure sound progressively contracts into more manageable abridgements of tantric knowledge and practice. Thus, the further away from the source of revelation an auditor stands, the weaker his or her capacity for comprehension, which in turn demands a more contracted and simplified version of the original revelation.[^199] Following this logic, the early sūtras of the *Niśvāsatattvasaṃhitā* that are dialogically driven by Śiva’s answers to the Goddess’s inquiries are more intimate with the source of revelation, but Nandi, who received that transmission and initiation from the Goddess and taught it to the Vedic sages in the *Niśvāsamukha*, represents a more ontologically distant expression of revelation. The same would apply to Ruru’s compilation 
 
 [^198]: This original subtle revelatory sound (*nāda*), in addition to being featured in the revelation narratives of the *Niśvāsatattvasaṃhitā* and other Siddhānta scriptural sources, is treated in chapter eleven of the *Kiraṇatantra.*
+
 [^199]: 2), p. 5: “These texts therefore have Śiva as their author; and though their content has suffered progressive simplification during the handing down process, to allow for the decreasing faculties of the recipients, it is assumed that they are composed of the very words of Śiva and nothing else.” With this in mind, I will continue to interrogate the underlying logic of this model of revelation, reflecting on the significance of the various choices of main interlocutors, especially as a way of tracking developments in the Bhairava, Yāmala, and Śakti tantras in this chapter, and the Kaula model of revelation in chapter three.
 
 *[p. 75]* ^pg87
@@ -115,8 +125,11 @@ and teaching of the *Rauravasūtrasaṅgraha* to Vedic sages, which is at an eve
 Two more Siddhānta scriptures, likely among the latest[^200] of the early extant revealed sources of this tradition (in its pre-twelfth century stage), provide comparatively elaborate frame-stories: the *Mṛgendratantra* and the *Mataṅgapārameśvara*. The *Mṛgendra* begins in the Himalayan setting of Nārāyaṇa hermitage (*āśrama*), a sacred residence known for ascetic discipline in the Purāṇas, where a group of Vedic seers led by Bharadvāja are performing austerities.[^201] Indra, disguised as an ascetic, challenges the sages’ devotions to the deity Rudra, asking why they ignore the scriptural injunctions to observe Vedic sacrifices.[^202] When the sages cite the Vedic pedigree of devotional worship of Rudra,[^203] Indra (disguised as an ascetic) presents a standard *Mīmāṃsā* critique, reminiscent of Kumārila’s position explored above, which reduces God to 
 
 [^200]: GOODALL (1998), p. lviii: “Both the Mṛgendra and the Mataṅga are polished works of *śāstra* in comparison with all other demonstrably early Siddhāntas. Their sophistication and the fact that the organisation of their subject matter shows that they were conceived in four sections, each dealing with one of the four pādas of *jñāna*, *kriyā*, *yoga* and *caryā*, suggest that they are later compositions than the other early works listed above.”
+
 [^201]: *Mṛgendratantra* 1.1.2: *nārāyaṇāśrame puṇye bharadvājādayo dvijāḥ | tepuḥ śivaṃ pratiṣṭhāpya tadekāhitamānasāḥ* ‘In the hermitage of Nārāyaṇa, the twice-born led by Bharadvāja, upon installing Śiva, their minds set upon the \[Lord\] alone, performed their austerities.’
+
 [^202]: *Mṛgendratantra* 1.1.3-1.1.4: *atha tān bhāvitān matvā kadācit tridaśādhipaḥ | tadāśramapadaṃ bheje svayaṃ tāpasaveṣabhṛt || sa taiḥ saṃpūjitaḥ pṛṣṭvā tāṃś ca sarvān anāmayam | provāca codanādharmaḥ kimarthaṃ nānuvartyate* ‘Now one time Indra, thinking about their good disposition, himself assuming the garb of an ascetic, went to their hermitage. Worshipped by them, having confirmed they were all in good health, that \[Indra in disguise\] said: what is the reason that the *dharma* that is commanded \[in the Vedas\] is not practiced \[here\]?’
+
 [^203]: *Mṛgendratantra* 1.1.5-1.1.6: *ta ūcur nanv ayaṃ dharmaś codanāvihito mune |* *devatārādhanopāyas tapasābhīṣṭasiddhaye || vede 'sti saṃhitā raudrī vācyā rudraś ca devatā |* *sāṃnidhyakaraṇe 'py asmin vihitaḥ kālpiko vidhiḥ* ‘They replied: O sage, surely this dharma is prescribed through Vedic injunction. It is a means of propitiating God in order to realize the desired goal through \[this\] austerity. There is a scripture in the Veda that is referred to as pertaining to Rudra and Rudra is the deity \[there\]. And the appropriate ritual procedure is performed with respect to this \[Rudra\] who is made present \[by it\].’
 
 *[p. 76]* ^pg88
@@ -130,7 +143,9 @@ Thus assailed by this tide of waters of this godless speech by the ocean-like In
 From this point forward, the Vedic sages provide a comprehensive response to 
 
 [^204]: *Mṛgendratantra* 1.1.7-1.1.9: *ity ukte 'pi paraṃ bhāvaṃ jijñāsuḥ prahasan prabhuḥ | tān āha mithyā jñānaṃ vaḥ śabdamātraṃ hi devatā || śabdetaratve yugapadbhinnadeśeṣu yaṣṭṛṣu | na sā prayāti sāṃnidhyaṃ mūrtatvād asmadādivat || na ca tatsādhakaṃ kiṃcit pramāṇaṃ bhāty abādhitam | vākyaṃ tad anyathāsiddhaṃ lokavādāḥ kva sādhavaḥ* ‘When addressed in that way, Lord \[Indra\], testing them regarding the supreme state, said to them while laughing, “your knowledge is false for the God \[you describe\] is nothing more than a word. If \[the deity\] were different than a word \[i.e., if it were a bodily form\], given that the worshippers \[of that deity\] are in different places simultaneously, that \[deity\] cannot be present \[in each of them\] because of having a form like us. And there is no valid means of knowledge that proves him in a way that would not be subject to contradiction. That statement \[of the scriptures\] can be accounted for in other ways. How can these worldly doctrines \[about Rudra that you propound\] be correct?
+
 [^205]: *Mṛgendratantravṛtti* ad 1.1.9ab: *anekāntaś ca hetus te taccharīrādinā bhavet*. The source of the citation is Kumārila’s *Mīmāṃsāślokavārttika*, Sambandhākṣepaparihāra, v. 77ab. In fact, one quarter verse of the *Mṛgendratantra* itself appears to echo Kumārila (or they may share a similar source). Compare *Mṛgendratantra*: 1.1.8cd: *mūrtatvād asmadādivat* with two pādas that directly follow Nārāyaṇabhaṭṭa’s citation in *Mīmāṃsāślokavārttika*, Sambandhākṣepaparihāra, v. 77cd: *dehatvād asmadādivat*.
+
 [^206]: *Mṛgendratantra* 1.1.10: *ity anīśavacovārivelānunno 'bdhineva saḥ | śakreṇa na cacālaiṣāṃ dhīśailaḥ sāragauravāt*.
 
 *[p. 77]* ^pg89
@@ -170,6 +185,7 @@ The original scriptural revelation is an invisible mass of knowledge or pure rev
 Maheśvara? Did the Lord, after establishing it in his heart, compose this \[scriptural wisdom\]?’
 
 [^211]: *Mṛgendratantra* 1.1.23: *sṛṣṭikāle maheśānaḥ puruṣārthaprasiddhaye | vidhatte vimalaṃ jñānaṃ pañcasroto 'bhilakṣitam* ‘At the moment of creation, Maheśvara made that which was pure knowledge \[in the form of awareness\] visible as five streams \[of scriptures\] for the realization of the aims of human life.
+
 [^212]: *Mṛgendratantra* 1.1.27-1.1.28: *śivodgīrṇam idaṃ jñānaṃ mantramantreśvareśvaraiḥ |* *kāmadatvāt kāmiketi pragītaṃ bahuvistaram || tebhyo 'vagatya dṛgjyotirjvālālīḍhasmaradrumaḥ |* *dadāv umāpatir mahyaṃ sahasrair bhavasaṃmitaiḥ* ‘This scriptural wisdom that issued forth from Śiva was taught as vastly manifold by Īśvaras (Mantramaheśvaras), Mantras, and Mantreśas; \[that was taught\] as the Kāmika because it grants their desires. After learning it from them, Umāpati whose fiery \[third\] eye engulfed Kāmadeva like a tree with its flames, imparted \[that scriptural wisdom\] to me \[in a contracted form\] as eleven thousand \[verses\].’
 
 *[p. 79]* ^pg91
@@ -179,6 +195,7 @@ Rudra (the sages’ worship and reverence of Rudra), finally culminating with ch
 The *Mataṅgapārameśvara* also begins with an elaborate introductory frame-story. Like the *Mṛgendra* it displays an exceptional degree of narrative development adorned with charming poetic flourishes, but it also provides suggestive elaborations on the identity of the main interlocutor, the sage Mataṅga. Mataṅga, a marginal figure in the Purāṇas and an enigmatic ascetic of questionable family origins featured briefly in both Indian epics, the *Mahābhārata*[^213] and *Rāmāyaṇa*,[^214] becomes the focal figure of the revelation frame-narrative and the eponymous sagely mediator of this scripture. We met him briefly in the *Niśvāsamukha* as the sage who reported to Ṛcīka the great marvel of the Vedic sages departing from Naimiṣa forest for Devadāruvana, where both Brahmā and Viṣṇu had received initiation into a new revelatory tradition. 
 
 [^213]: For the story of Mataṅga in the great epic, see *Mahābhārata* 13.28.1-13.30.16. The tale is narrated by Bhīṣma to Yudhiṣṭhira in response to Yudhiṣṭhira’s question about the possibility of transforming one’s status from a lower caste into a Brahmin. Bhīṣma replies with the story of Mataṅga. While fetching sacrificial materials for his father, Mataṅga came to know from a female donkey that he was born of a female Brahmin who, in the heat of the moment, copulated with a Śūdra (*vṛṣala*) barber (*Mahābhārata* 13.28.16). As a result, the female donkey proclaims him a Caṇḍāla. This initiates Mataṅga’s superhuman quest to achieve the status of a Brahmin through ascetic practice. After thousands of years of asceticism and multiple boons on the part of Indra (with the exception of transforming Mataṅga into a Brahmin, which Indra reiterates, again and again, is impossible), Mataṅga finally settles for the power to roam freely, assume any form, take flight, become the object of worship of Brahmins and Kṣātriyas, and enjoy deathless fame (*Mahābhārata* 13.30.13).
+
 [^214]: The mention of Mataṅga in the Rāmāyaṇa is brief. In the Āraṇyakāṇḍa Mataṅga is presented as the venerable sage and guru of a group of seers whom Śabarī served. See *Rāmāyaṇa* 3.69.16-3.69.19. Rāma and Lakṣmaṇa are sent by Kabandha to the “grove of Mataṅga” (*mataṅgavana*) by the river Pampā to meet Śabarī en route to Ṛṣyamūka mountain where Sugrīva is in residence.
 
 *[p. 80]* ^pg92
@@ -218,7 +235,9 @@ For many reasons the scriptures of the Śaiva Siddhānta provide a critical tran
 218\. *Mataṅgapārameśvara* 1.14: *tadbhaktimanyor āveśān nayanāmalavāriṇā | pādau prakṣālya tam ataḥ stotum ārabdhavān muniḥ* ‘On account of being possessed by intense feelings of devotion to Him, bathing \[the Lord’s\] feet with the pure tears in his eyes, the sage began to sing his praises.’
 
 [^219]: *Mataṅgapārameśvara* 1.15-1.21ab.
+
 [^220]: *Mataṅgapārameśvara* 1.26: *jñānam ajñānahaṃ tāraṃ sukhabodhyam anākulam | vipulārtham asaṃdigdhaṃ samāsoktyā bravīhi me* ‘Teach me, with certainty and concise expression, that scriptural wisdom that destroys ignorance, which is salvific, easy to comprehend and not subject to doubt, and whose meaning is vast.’ This translation benefits from consulting with Dominic GOODALL.
+
 [^221]: *Mataṅgapārameśvara* 1.32-1.33ab: *anuṣṭupchandasā pūrvaṃ nibaddhaṃ koṭisaṃkhyayā|* *sadāśivena devena tato ‘nantena dhīmatā || bhāṣitaṃ lakṣamātreṇa tad evāhaṃ tavādhunā |* *upasaṃhṛtya saṃkṣepād vakṣye vai pārameśvaram || sahasrāṇāṃ trayeṇātha pañcabhiś ca śataiḥ param* ‘Previously Sadāśiva composed \[this scripture\] in the anuṣṭup meter, totaling ten million verses. After that it was taught by the wise deity Ananta as a mere one hundred thousand \[verses\]. Now, I will concisely teach that (*Mataṅga*)*pārameśvara*, having redacted it into three thousand and five hundred \[verses\].’
 
 *[p. 82]* ^pg94
@@ -250,6 +269,7 @@ original exchange between Śiva and the Goddess that Nandi is recollecting. Excl
 The *Kiraṇatantra* introduces a significant shift in the dialectical nature of the Siddhānta scriptures from a teaching that is received as unquestioned authority to one that is open to the scrutiny of the interlocutor, Garuḍa. In the *Mṛgendratantra* and *Mataṅgapārameśvara* the Vedic sages take this polemicism to a new plateau; suddenly schooled in the postulates of Vedānta, Mīmāṃsā, Sāṅkhya, Buddhism, and Nyāya, they pose outright objections to the authoritative teachings of Śiva from the standpoint of these philosophical and religious traditions.[^224] The adoption of scholastic modes of discourse in the latest strata of early Siddhānta scriptures allows these revelatory traditions to begin to validate their theological axioms to a broader audience. But it also inadvertently introduces a significant shift in the status and identity of the interlocutors: the Vedic seers. No longer simply passive recipients of scriptural knowledge, they now play a more dynamic role as instruments of theological justification, and the latter function lends greater cogency and explanatory power to the core tenets and principles of the system. From faithful propounders of a timeless Vedic truth 
 
 [^223]: In addition to the *Rauravasūtrasaṅgraha*, *Svāyaṃbhuvasūtrasaṅgraha* (according to the *ṭīkā* of Sadyojyotis), *Mṛgendratantra*, and the *Mataṅgapārameśvaratantra*, a Vedic sage is also present in the dialogical structure of the *Parākhya-* or *Saurabheya-tantra*, which was not considered above. In that scripture the interlocutors are Prakāśa (the sun) and Pratoda, whom Sanderson identifies as the famous Vedic sage, Vasiṣṭha. For further analysis of this identification, see GOODALL (2004), pp. xxxvi-xxxvii.
+
 [^224]: WATSON (2006), pp. 74-75.
 
 *[p. 86]* ^pg98
@@ -269,6 +289,7 @@ role.[^226] This greater interest in the character of Mataṅga is a departure f
 The next major threshold of the Śaiva Tantras to review is the Mantrapīṭha or Bhairava tantras. The Mantrapīṭha was elevated by subsequent traditions as a scriptural corpus above and beyond the twenty-eight canonical Siddhānta scriptures. It is sometimes catalogued as a canon of sixty-four revealed texts, although this classification is likely more formulaic than empirical.[^227] Of the sixty-four hypothetical Bhairava tantras only one early witness of this class of scriptures is currently extant, the *Svacchandabhairavatantra* (‘Scripture of the Autonomous Bhairava’). It is listed as the premier exemplar in various scriptural 
 
 [^226]: One possible reason for the choice of Mataṅga in particular is the ambiguity of his social status, and thus making him the focus of an extensive narrative may constitute an implicit statement about the fact that Śaiva initiation is open, with certain stipulations in the Śaiva Siddhānta, to the members of all castes.
+
 [^227]: Abhinavagupta registers a basic difference between the ten Śivabhedas and eighteen Rudrabhedas of the Siddhānta in contrast to the sixty-four Bhairava tantras. He also sees the Trika as the essence of the latter, and the *Mālinīvijayottaratantra* as the quintessence of the Trika. See *Tantrāloka* 1.18: *daśāṭādaśavasvaṣṭabhinnaṁ yacchāsanaṁ vibhoḥ | tatsāraṁ trikaśāstraṁ hi tatsāraṁ mālinīmatam* ‘The teachings of the Lord are divided into the ten, eighteen, and sixty-four \[tantras\]; the essence of those is the Trika scriptures, and the essence of them is the *Mālinīvijaya*.’ Cf. *Tantrāloka* 37.17. See also ARRAJ (1988), p. 6: “the number sixty-four associated with the non-dualistic scriptures revealed by Bhairavaḥ, which is then divided into eight subgroups, appears to be a factitious and retrospective construction. It may have been based in part on traditional numeric associations, such as the eight bhairavāḥ, expanded by correlation with the sixty-four yoginyaḥ associated with Bhairavaḥ.”
 
 *[p. 88]* ^pg100
@@ -312,6 +333,7 @@ deity of Siddhānta tantric liturgies.[^231] This iconic display of preeminence 
 One other component of worship in the *Svacchandabhairava* is worth mention before we consider the scripture’s model of revelation. Unlike the Siddhānta’s ritual substances, which are lacto-vegetarian, the *Svacchandabhairava* prescribes rites for solitary adepts sojourning in the wilds that require paraphernalia such as skulls and the use of substances deemed highly impure by Brahminical orthopraxy, such as human flesh and wine. Such rites, moreover, culminate in Bhairava forcefully entering the supplicant, engendering a state of possession that endows him or her with supernatural powers—not all 
 
 [^231]: Ibid., p. 669.
+
 [^232]: Ibid., p. 670.
 
 *[p. 91]* ^pg103
@@ -321,8 +343,11 @@ beneficent—as well as liberation.[^233] These features all demonstrate that th
 Given this added distance between the Bhairava tantras and Vedic religion, it is not surprising that the Vedic sages are not featured in the revelation narrative of the *Svacchandabhairavatantra*. The only exception is a single passing mention to generic seers (*ṛṣi*s) in the narrative of the descent of the tantras (*tantrāvatāra*) in the eighth chapter.[^234] And ARRAJ argues that given its location and sudden departure from a more “properly Bhairava view” of revelation that structures the rest of the text, this prototypical account of the descent of the tantras[^235] has been appended in a later phase of the of the *Svacchandabhairava*’s redaction.[^236] The “properly Bhairava” model of revelation, the *devīdevasaṃvāda* 
 
 [^233]: ARRAJ (1988), pp. 48-49.
+
 [^234]: *Svacchandabhairava* 8.36cd-8.38: *mayāpi tava deveśi sādhikāraṃ samarpitam || tvam api skandarudrebhyo dadasva vidhipūrvakam | brahmaviṣṇvindradevānāṃ vasumātṛdivākṛtām || loke saṃgṛhya nāgānāṃ yakṣāṇāṃ parameśvari | kathayasva ṛṣīṇāṃ ca ṛṣibhyo manujeṣv api* ‘O Goddess, I am entrusting that \[scriptural wisdom\] with its attendant authority to you. You should transmit it to Skanda and the Rudras according to the ritual requirements \[of initiation and consecration\]. Having then redacted \[that scriptural wisdom\] in this world for Brahmā, Viṣṇu, Indra and the gods \[as well as\] the Vasus, mother Goddesses and Sūrya, teach it to the Nāgas, Yakṣas, and the seers. And from the seers \[it should be transmitted\] to human beings.’
+
 [^235]: *Svacchandabhairava* 8.26cd-8.39.
+
 [^236]: ARRAJ (1988), p. 207: “This section, recognized as a separate and additional topic by Kṣemarājaḥ, may have been constructed by later redactors or interpolated from another source in order to make the Svacchandatantram conform to the structure of other scriptures. It presents the scriptural Śaiva view of revelation, that complements the short and more properly Bhairava view given in the first book. Perhaps compilers placed this section here because they recognized the similarity between the notion of portion, presented in the first part of this book, and this view of revelation. Just as the first considers the different deities to
 
 *[p. 92]* ^pg104
@@ -354,8 +379,11 @@ be fractional manifestations of a supreme Lord, so the second considers scriptur
 initiatory rites[^239] and expedients for tantric adepts seeking mastery of cosmic powers as well as liberation. Although the *Svacchandabhairava* includes a standard account of the descent of the tantra, it only makes a gesture to generic Vedic seers.[^240] In this way it elides their individual identities or specific roles in mediating the scripture beyond the convention of transmitting the scripture to humanity. In the more aggressively anti-Vedic milieu of the Bhairava tantras it is perhaps not surprising to encounter marginal interest in the Vedic seers. The dialogical structure of God-Goddess dialogue, as we will see, comes to be a norm for non-Saiddhāntika Śaiva tantras. In addition to this general shift,[^241] in the Yāmala cult, to which we now turn, we find an alternate collection of scriptural 
 
 [^238]: ARRAJ (1988), pp. 20-21.
+
 [^239]: Although it may not be the first to do so. Rites and *sādhana*s of this character are also found in the *Guhyasūtra* of the Niśvāsa corpus. I thank Shaman HATLEY for this important qualification.
+
 [^240]: Umāpati first narrates (*Svacchandabhairava* 8.27-8.36ab) how he received the scripture through the following succession: A supremely subtle sound arising from Śiva as supreme cause to Sadāśiva to Īśvara to Śrīkaṇṭha. He then goes on to describe how the Vedic seers transmit it to humanity at the end of the following verse, which he addresses to the Goddess. See *Svacchandabhairava* 8.36cd-8.38, cited and translated above.
+
 [^241]: However, we should remember that the *Niśvāsatattvasaṃhitā*, which is given as one of the canonical twenty-eight Siddhānta scriptures in many lists, did also utilize a *devadevīsaṃvāda* structure. In other Siddhānta scriptures where Vedic seers do not act as primary interlocutors we also find a *devadevasaṃvāda* (god-god dialogue) model. Certain commentators elaborate on these various configurations under the rubric of various “relationships” (*saṃbandha*).
 
 *[p. 94]* ^pg106
@@ -369,7 +397,9 @@ The Yāmala (‘Union’) tantras, as represented by a single early surviving ar
 (*madhyamasrotas*)[^242] comprising the Siddhānta scriptures and the “Left Stream,” which centered on Śiva in the form of Tumburu and four Goddesses.[^243] The Right Stream of the tantras was divided into two major branches, the Mantrapīṭha or the cult of Bhairava (e.g. the *Svacchandabhairava*) and the Vidyāpīṭha, in which feminine deities come to the fore and male forms of the godhead are either subordinated or displaced.[^244] The *Brahmayāmalatantra* situates itself in the domain of the latter, the Vidyāpīṭha, as a revelatory transmission at once more esoteric and efficacious than the Bhairava scriptures. 
 
 [^242]: *Brahmayāmalatantra* 39.22-26: *sārdhakoṭitrayan devi mantrāṇāṃ parisaṃkhyayā |* *madhyamasrotasaṃbhūto evaṃ vai bhairavo ‘bravīt || navāṣṭakaṃ tathāvāpya sarvasiddhāntajātakam | kriyāmantraprabhedena saṃsthitaṃ varavarṇṇini || aṣṭāviṃśatibhedena bheditañ ca tathā punaḥ | śākhopaśākhabhedena prabhinnaṃ vistareṇa tu || kathitāni kathiṣyanti śrīkaṇṭhād yā gurus tathā | śivabhedasthitāni syuḥ kāmikādvaravarṇṇini || rudrabhedena cānyāni saṃsthitāni tathaiva ca | yatra bhede śivo yājyaḥ śivabhedas tu saḥ smṛtaḥ.*
+
 [^243]: By the period of tantric exegesis in Kashmir, i.e. the tenth century, the scriptures of the Vāma (left) stream appear to have been long obsolete, although Abhinavagupta refers to the tradition as a fundamental step in his hierarchicization of initiatory tantric cults. *Brahmayāmalatantra* 39.75 lists the following scriptures, the *Saṃmoha*, *Naya*, and *Nayottara*, as emerging from the leftward stream: *sanmohaṃ ca tathā proktaṃ nayo caiva nayottaram |* *śaukraṃ caiva tathā proktaṃ vāmasrotād vinirgatam | eteṣāṃ bahavo bhedāḥ saṃśritā* {*nirgame*} *sthitāḥ*. One scripture of this stream does survive, the *Vīṇāśikhatantra*, edited and translated by Teun GOUDRIAAN. See GOUDRIAAN (1985).
+
 [^244]: On the details and relevant textual citations that delineate these divisions, see HATLEY (2007), pp. 7-8.
 
 *[p. 95]* ^pg107
@@ -377,7 +407,9 @@ The Yāmala (‘Union’) tantras, as represented by a single early surviving ar
 At the heart of the *Brahmayāmalatantra*’s ritual program is the divine couple Kapālīśa Bhairava (‘Skull-Lord Bhairava’) and Caṇḍā Kāpālinī (‘Wrathful Goddess of the Skull’),[^245] but unlike the predominantly male retinue of deities that encircled Svacchanda Bhairava and Aghoreśvarī in the Mantrapīṭha, here the retinue is female (with or without subservient male consorts). The male deity, Kapālīśa Bhairava, is iconically portrayed as the power-holder (*śaktimat*) of the great horde of female powers that populate the visionary universe of the *Brahmayāmalatantra*. That said, the mantra that represents the “nine deities who form the core of the greater maṇḍala and are the pantheon of daily worship” is a feminine formula (*vidyā*). As a result, the entire pantheon is ultimately conceived as “aspects of a feminine power which transcend the male-female dichotomy which patterns the lower revelations.”[^246] Although the divine couple represent the pinnacle of the cosmic hierarchy, like other early texts that identify with the Vidyāpīṭha class of scriptures—the *Siddhayogeśvarīmata*, *Tantrasadbhāva*, and *Jayadrathayāmala*—the *Brahmayāmala* is largely dedicated to a religious cult of Yoginīs. Much of the text prescribes ceremonies to be performed by itinerant adepts in macabre sites designed to seduce magical female beings (Yoginīs) into transformative encounters. These divine rendezvous result in the receipt of extraordinary power and on occasion secret teachings.[^247] Indeed, akin to other 
 
 [^245]: The following description of the central deities of the *Brahmayāmalatantra* is indebted to the description found in SANDERSON (1988), p. 672.
+
 [^246]: Ibid., p. 672.
+
 [^247]: On this class of divine female beings, which includes human and super-human members, see HATLEY (2013), “What is a Yoginī? Towards a Polythetic Definition.” See also HATLEY
 
 *[p. 96]* ^pg108
@@ -389,8 +421,11 @@ The account of the descent of the scripture, which initiates the *Brahmayāmalat
 200\. 7), p.18, which makes the following important distinction: “Yoginīs, however, do not figure as cultic foci in the manner of most tantric divinities: their cult is integrated within those of ‘high’ deity or deities who form the primary focus of a given ritual system.”
 
 [^248]: This centrality of *siddhi* as the most eminent goal is stated clearly at the outset of the text. See *Brahmayāmalatantra* 1.6 and 1.11-13. See also *Brahmayāmalatantra* 1.118: “But those who are unfit for *siddhi*, whether a man or women, shall not attain even the mere *vidyā*-mantra, O great queen. Those fit for *siddhi* shall learn this secret, O Mahādevī.” Translation of HATLEY (2007), p. 365.
+
 [^249]: *Brahmayāmalatantra* 1.34-35: *acintyasya parā śaktiḥ śivasya paramātmanaḥ | icchā nāmena saṃjātā tayā binduḥ prabodhitaḥ || prabuddhasya tato bindor jñānaughaṃ niṣkalaṃ tataḥ |* *abhivyakto mahādevi akasmān mantravigrahaḥ | jñānasaṃpūrṇadehas tu sadāśivapade sthitaḥ*.
+
 [^250]: *Brahmayāmalatantra* 1.38-39: *anuṣṭhupchandabandhena sapādena mahātmane | lakṣasaṃkhyena saṃkṣepān mantrajñānakriyātmakam || nirācārapade bhūtvā punaś cobhayadarśanāt | parāpareṇa devena śrīkaṇṭhāya prabhāṣitam*. Cf. *Brahmayāmalatantra* 39.91: *ādimo jñānasandohas tribhiḥ strotair vinirgataḥ | sadāśivena devena śrīkaṇṭhāya prabhāṣitam.*
+
 [^251]: As we saw the Siddhānta scriptures, Śrīkaṇṭha is a key mediator of scriptural truths, often located a few levels below the original pure sonic source of the scriptural wisdom, supreme Śiva. See *Brahmayāmalatantra* 1.40-41: *asmāj jñānān mahādevi śrīkaṇṭhena hitāya vai |* *koṭikoṭipravistārair lokānāṃ hitakāmyayā || pṛcchakāśrayabhedena kriyābhedavibhāgaśaḥ |* *śuddhāśuddhena mārgeṇa asattvena ca suvrate | vistāritāni tantrāṇi jñātvā sadāśivāt padāt* ‘From this scripture, O Mahādevī, seeking the good, Śrīkaṇṭha made manifold the *tantras*, learnt from the state of Sadāśiva, with millions and millions of elaborations for the good of all, because of differences in the interlocutors and recipients, on account of the divisions of types of ritual, because of the pure and impure paths, and because of lack of *sattva*, O pious lady.’ Translation of HATLEY (2007), p. 350.
 
 *[p. 97]* ^pg109
@@ -400,7 +435,9 @@ recapitulating the basic God-Goddess interlocutional structure of the *Svacchand
 Bhairava informs the Goddess that he had cursed her in the past when, without prior authorization and in a burst of enthusiasm, she shared with her attendants the scriptural wisdom with which he had entrusted her.[^253] In response to her pleadings to be pardoned, Bhairava assures her he would favor her again, but only after she had incarnated into a human family. Born as Sattikā in the village of Karṇavīra near Prayāga to a certain Meghadatta of the chāndogya Brahmin caste, she achieved supernatural powers at the tender age of thirteen, which bring her back into the Lord’s presence.[^254] Bhairava reminds her of her original divine status and then teaches the scripture to her yet again, but this time with explicit instructions on whom She must transmit the teachings to in the 
 
 [^252]: *Brahmayāmalatantra* 1.42-43: *ayaṃ tu jñānasandohaṃ svarūpāvasthitaṃ priye |* *sapādalakṣasaṃkhyātaṃ mayā jñātaṃ yathārthataḥ || tavāpi jñānabhraṣṭāyāḥ saṃpravakṣyāmi sāmpratam | sapādalakṣabhedena ślokānāṃ saṃsthitaṃ tu yat*.
+
 [^253]: *Brahmayāmalatantra* 1.20-21: *tatas tvayā hitārthāya ādeśena vinā priye | parijanasya samākhyātuṃ prārabdhaṃ bhaktihṛṣṭayā || viplāpyamānaṃ taṃ dṛṣṭvā mahātantraṃ mayā punaḥ |* *krodhāviṣṭena śaptāsi jñānaṃ te nāśitaṃ yayā.*
+
 [^254]: *Brahmayāmalatantra* 1.22-30.
 
 *[p. 98]* ^pg110
@@ -410,7 +447,9 @@ future.[^255] Bhairava’s description[^256] of a prospective transmission to be
 Among brahmin disciples of the Goddess the *Brahmayāmala* mentions Kapālabhairava (previously Śrīdhara) of Kurukṣetra, Padmabhairava (previously Devadatta) of Oḍra, Raktabhairava, Jvālābhairava, and Helābhairava of Madhyadeśa, and Caṇḍabhairava of Sindhu.[^257] Two śūdras, Vāmabhairava and Vijayabhairava hailing from Saurāṣṭra, are also entrusted with the scriptural teaching, as well as a couple of Rājput kṣatriyas, Bhībatsabhairava and Gajakarṇabhairava of Sindhu. We also hear of other Brahmin teachers that the Goddess’s scriptural teaching will be transmitted to located in Kāśmīra, Lampā, Kāśī, and Oḍḍiyāna. The narrative ends in the Kali Yuga with the commissioning of scriptural propagation to a certain brahmin, Svacchandabhairava (previously 
 
 [^255]: *Brahmayāmalatantra* 1.45: *divyādivyasvabhāvena sthitayā śaktyanujñayā |* *krodhabhairavadevasya siddhasyaiva śivecchayā | sapādalakṣasaṃkhyātam evaṃ vai bhairavo ‘bravīt*.
+
 [^256]: The following condensed account of the intended recipients, including their initiation names, caste, geographical locations, and information on their families, follows *Brahmayāmalatantra* 1.45-119.
+
 [^257]: *Brahmayāmalatantra* 1.59-70 provides narrative embellishments on the identity of Caṇḍabhairava, including how he came to receive the *vidyā*-mantra (1.63) and became authorized as a teacher of the scripture, before enumerating some of his prominent disciples.
 
 *[p. 99]* ^pg111
@@ -452,7 +491,9 @@ of the scripture, brief stories on how both Caṇḍabhairava and Svacchandabhai
  The Vedic seers’ presence in the dialogical framework and the portrayal of the process of revelation in the Siddhānta tantras disclose a number of 
 
 [^260]: HATLEY provides an excellent synopsis of Svacchandabhairava’s story. HATLEY (2007), pp. 229-231: “In the final quarter of the Kaliyuga, the initiate Svacchandabhairava comes to learn the scripture. Having had numerous miscarriages, a certain Deikā of Ujjayinī prays for a son before the Mother goddesses, and they place in her womb the child called ‘Without a Mantra’ (Amantrī)—an accomplished initiate who in previous birth had broken the initiatory Pledges and failed to achieve *siddhi*. Reborn, Amantrī attains *siddhi* through practice of the *vidyā*-mantra. Consecrated as Svacchandabhairava, he learns the ‘Tantra of Twelve-thousand Verses’ from Krodhabhairava, the primordial disciple of the Goddess. His own disciples preside over ever-diminishing redactions of the scripture at the twilight of the cosmic cycle, at the end of which yoginīs hide away the teachings altogether. Concealed throughout the Kṛta, Tretā, and Dvāpara ages of the subsequent cycle, at the beginning of the next Kaliyuga the Goddess reveals the unabbreviated scripture of 125,000 verses to (the new incarnation of) Svacchandabhairava. He teaches a redaction of 12,000 verses to a certain Viṣṇubhairava in a legendary village of Kalāpa, renowned as an abode of sages.”
+
 [^261]: It should be mentioned that the village of Kalāpa, which is where Svacchandabhairava teaches the scripture to Viṣṇubhairava, is associated with Kali Yuga in *Bhāgavatapurāṇa* 9.12.6, 9.22.17, 10.87.7, and 12.2.37-38. See HATLEY (2007), p. 231, footnote 104.
+
 [^262]: HATLEY (2007), p. 233.
 
 *[p. 101]* ^pg113
@@ -464,6 +505,7 @@ rhetorical purposes. It demonstrates the superiority of initiatory Śaivism, a p
  The “Power tantras” (*śaktitantra*)[^263] almost exclusively revolve around female tantric deities and their earliest (pre-ninth century) scriptures can be divided into two major cults. One was focused upon a triad (Trika) of Goddesses, Parā, Parāparā, and Aparā, visualized[^264] on lotuses balanced on the three tips of a trident. The second was dedicated to various embodiments of the Goddess Kālī (i.e. Kālasaṃkarṣiṇī, Vīrya-Kālī, etc.) whose worship is elaborated in the 
 
 [^263]: The following brief introduction is indebted to the description found in SANDERSON (1988), pp. 672-678.
+
 [^264]: For a translation of *Siddhayogeśvarīmata* 6.19cd-28, which describes the visualization of these three Goddesses in detail, see TÖRZSÖK (1999), p. xvi.
 
 *[p. 102]* ^pg114
@@ -473,6 +515,7 @@ voluminous and unedited *Jayadrathayāmala*. The former cult, originally set out
  With the Śakti tantras of the Vidyāpīṭha we have also arrived at the most radical and transgressive of the tantric traditions considered thus far, in which “the cult of Yoginīs permeates all levels.”[^266] These powerful female spirits, which form a radiant network (*jāla*) of power that animates and governs the phenomenal universe, are subordinate to the primary Goddesses that crown the cult of worship, as well as to various sets of presiding Mother Goddesses. These female spirits (Yoginīs) are pivotal in the transmission of *siddhi* or supernatural powers, the preeminent goal of the earliest Vidyāpīṭha scriptures. Moreover, Yoginī encounters are facilitated through “impure” ritual technologies and offerings that effectively entice these protean female spirits. TÖRZSÖK describes a ritual convocation with Yoginīs as it is prescribed in the *Siddhayogeśvarīmata*: “The Sādhaka must be naked, smeared with ashes, and he should lure female spirits by offerings of impure substances such as meat or the ‘perfect nectar’ 
 
 [^265]: SANDERSON, p. 678.
+
 [^266]: Ibid., p. 627. See also TÖRZSÖK (1999), p. xviii: “The *Siddhayogeśvarīmata* is chiefly concerned with how to attain supernatural powers, usually with the help of female spirits called *yoginī*s, *ḍākinī*s or *śākinī*s. This topic occupies almost two thirds of the text, the remaining one third mainly describing mantras and initiation.” evolved from an exorcistic base... in which the pure goddess, Parā, was also a leader of the eight impure Yoginīs. Through the adoption of the iconography and powers of the orthodox goddess, Sarasvatī, into the figure of Parā, an element of the orthodox domain was also colonised... This colonization of a brahminical deity and the
 
 *[p. 103]* ^pg115
@@ -482,7 +525,9 @@ voluminous and unedited *Jayadrathayāmala*. The former cult, originally set out
 TÖRZSÖK speculatively deconstructs the Trika’s triad of Goddesses in the tradition’s Ur-text, the *Siddhayogeśvarīmata*, by noting a paradigmatic difference between the main Goddess Parā who is strategically adapted from the Brahminical Goddess Sarasvatī, and Parāparā and Aparā, both terrifying Kāpālika Goddesses modeled on the cremation ground cult of Yoginīs.[^268] She proposes that the *Siddhayogeśvarīmata*’s triadic Goddess cult...[^269] 
 
 [^267]: TÖRZSÖK (1999), p. xix.
+
 [^268]: Ibid., pp. xxiii-xxiv.
+
 [^269]: Ibid., pp. xxiv-xxv
 
 *[p. 104]* ^pg116
@@ -524,8 +569,11 @@ Brahminical territory. It does so by subordinating Rāma, arguably the most impo
 Like the *Svacchandabhairava* and *Brahmayāmalatantra*, the main dialogical frame of the *Siddhayogeśvarīmata* consists of Bhairava’s responses to his beloved Bhairavī’s queries. In the last chapter (thirty-two) of the text, a brief revelation narrative describes how Bhairava’s original teaching was transmitted from Bhairavī to Garuḍa, Garuḍa to Śukra, Śukra to Kaca, and Kaca to Śrī Rāma.[^271] Rāma, for his part, is commissioned with disseminating the scripture throughout the world. Briefly mentioned in this narrative are Śukra and Kaca, together with an oblique reference to a myth regarding them, which is recorded in the *Mahābhārata*.[^272] An elaborate form of the revelation narrative is recorded by Abhinavagupta in the *Tantrāloka*,[^273] adopted from a longer recension whose manuscript witnesses have not survived. There we find mention of a few more Vedic sages in the transmission of the text, such as Bhārgava,[^274] and also further detail on how Rāma came by the scripture and transmitted it. This version of the narrative, as well as the presence of the Vedic seers as interlocutors in the later 
 
 [^271]: *Siddhayogeśvarīmata* 32.6-8: *nānena sadṛśaṃ jñānaṃ nānena sadṛśaṃ phalam | bhairavāt bhairavīprāptaṃ tantraṃ svacchandabhairavam || tasmāt ca garuḍaprāptaṃ tasmāt śukraṃ avāpnuyāt | tasmāt kacena cūrṇena ... nāvāptavān || tasmāt avāptaṃ rāmeṇa tena loke prakāśitam* *| śṛṇute vā paṭhati vā kurute vā ca bhāvanām.*
+
 [^272]: TÖRZSÖK (1999), pp. 184-185, footnote 8.
+
 [^273]: *Tantrāloka* chapter 36.
+
 [^274]: *Tantrāloka* 36.3-4.
 
 *[p. 106]* ^pg118
@@ -553,6 +601,7 @@ In select Siddhānta scriptures we find a full-scale adoption of the Vedic seers
 But the Vedic seers, beyond fulfilling these important symbolic roles, do not leave meaningful trace of a regionally specific or temporally locatable human 
 
 [^275]: The order of these figures is mutable across different revelation narratives cited above.
+
 [^276]: BONAZZOLI (1983), p. 96.
 
 *[p. 109]* ^pg121

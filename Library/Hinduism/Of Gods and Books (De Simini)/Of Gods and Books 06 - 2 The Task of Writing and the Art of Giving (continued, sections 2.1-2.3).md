@@ -19,6 +19,7 @@ is the procession described for the icon of the goddess in chapter 31 of the *De
  That said, the two procedures also reveal important differences. The description of the *Devīpurāṇa* puts a substantially greater stress on devotion towards the ritual focus, resulting in the prescription of a series of cultic activities addressed to the image of the goddess—from invoking her protection to the bathing and 
 
 [^300]: A detailed account of the procession described by the *Devīpurāṇa* is in Sarkar 2011, pp. 132– 33.
+
 [^301]: *Śivadharmottara* 2.58: ‘It will be declared improper to cut the trees. \[The king\] should banish all kind of violence and the prisoners have to be freed, the \[internal\] enemies like anger and so on have to be abandoned. For two days he should celebrate a *kaumudī* at an improper time, for the Lord’; *acchedyās taravaḥ kāryāḥ sarvahiṃsāṃ nivārayet* | *bandhanasthāś ca moktavyā varjyāḥ krodhādiśatravaḥ* | *akālakaumudīṃ kuryād divasadvayam īśvare* || 58. The parallel stanzas from the *Devīpurāṇa* are without substantial changes and read as follows: ‘At this point, it will be declared improper to cut the trees. \[The king\] should condemn any violence against living creatures. The prisoners have to be freed, the \[internal\] enemies like anger and so on have to be slain. At the conclusion of the chariot procession he should perform a *kaumudī* out of season, o mighty \[king\]’; *acchedyās taravas tasmin prāṇihiṃsā vivarjayet* | *bandhanasthā vimoktavyā vadhyā krodhādiśatravaḥ* || 31 *akālakaumudīṃ śakra rathayātrānte kārayet. Śivadharmottara* 2.58 also has a literal parallel in *Atharvavedapariśiṣṭa* 19 b (see Appendix 2). ||
 
 *[p. 116]* ^pg129
@@ -28,6 +29,7 @@ smearing of the icon (see *Devīpurāṇa* 31.17-22)—that are not echoed in th
 Chapter 91 of the *Devīpurāṇa* prescribes similar activities for the post-production phase, although its description is deeply influenced by the profound differences characterizing the *Devīpurāṇa*’s sectarian understanding of the gift of knowledge. Following the completion of the transcription, this text also prescribes that the manuscript should be venerated and placed on a very sumptuous ‘vehicle of knowledge’ (*vidyāvimāna*, *Devīpurāṇa* 91.57), then be brought to the place where it is to be donated:[^303] 
 
 [^302]: On this topic, see Jacobsen 2008.
+
 [^303]: *Devīpurāṇa* 91.61–69 (=*Dānakāṇḍa* 12.36cd–39): *tathā taṃ pustakaṃ* \[pustake ed.\] *vastre vinyased vidhipūjitam* | *evaṃ kṛtvā tathā cintyāḥ mātaraḥ priyatāṃ mama* || 61 *yasyaiva śaktaṃ* || \[con.; śaṃke ed.\] *tacchāstraṃ pustakaṃ parikalpayet* \[em.; pravikalpayet ed.\] | *tathā tapasvinaḥ pūjyāḥ sarvaśāstrārthapāragāḥ* || 62 *śivavratadharā mukhyā viṣṇudharmaparāyaṇāḥ* | *mahatā janasaṅghena rathasthaṃ dṛḍhavāhanaiḥ* || 63 *yuvānair* \[yuvānair ms.ख in apparatus; pradhānair ed.\] *vāpi taṃ neyaṃ yasya devasya cāśramam* \[conj.; aṃśajam ed.\] | *sāmānyaṃ śivatīrtheṣu mātarābhavaneṣu ca* || 64.
 
 *[p. 117]* ^pg130
@@ -37,6 +39,7 @@ He should place that manuscript, worshipped according to procedure, on a cloth. 
 The *Devīpurāṇa* replaces the ‘Śaiva exclusivism’ characterizing the approach of the *Śivadharmottara* with a more eclectic attitude towards religious sectarianism, and places stronger emphasis on the cult of the divine Mothers. The manuscript which is to be used in the rite can therefore belong to any of the main currents of medieval devotion (for more details, see § 2.5) in the same manner that the place where the actual gift is performed is dedicated to the god of one’s own choice. Moreover, the *Devīpurāṇa* highlights the iconic value of manuscripts by prescribing that they should function as external supports for the visualization of the deity to whom they are dedicated (see *Devīpurāṇa* 91.62). Another striking difference from the account of the *Śivadharmottara*, although it occurs in the context of an almost identical ritual scheme, is the absence of any specific references to the king as being involved in these procedures, an absence that becomes even more meaningful once we shift our attention to the following steps. In the *Śiva-*
 
 [^304]: In translating this passage, I follow the interpretation of Lakṣmīdhara in his commentary *ad loc.* (Brick 2014, p. 305): ‘‘exactly to whom it belongs’ \[means\] the god to whom it belongs, viz. with whom it is connected. ‘He should imagine the manuscript’ \[means\] he should imagine, viz. he should meditate upon the manuscript as that god. This is the meaning’; *yasyaiva saktaṃ yasya devasya saktaṃ saṃbandhitam* | *pustakaṃ parikalpayet pustakaṃ taṃ devaṃ parikalpayed bhāvayed ity arthaḥ*. On the basis of Lakṣmīdhara’s understanding, I have emended the reading *pravikalpayet* of the *Devīpurāṇa* edition into *parikalpayet*.
+
 [^305]: Here, I conjecture *cāśramam* instead of the meaningless *aṃśajam* in the edition and the reading *cāgamam* of the *Dānakāṇḍa* quotation. My conjecture was mainly inspired by the parallel with *Śivadharmottara* 2.48 (‘Having lifted the vehicle of this \[manuscript\], he should bring \[it\] with devotion to the *āśrama* of Śiva, well firm by means of the best chariots or strong men’; *samutkṣipyānayed bhaktyā tadvimānaṃ śivāśramam* | *susthitaṃ rathamukhyena puruṣair vā balānvitaiḥ*). Manuscripts of the *Dānakāṇḍa* alternate the readings *cāgamaḥ* (IO) and *rāgamat* (J, L).
 
 *[p. 118]* ^pg131
@@ -60,7 +63,9 @@ human beings.[^307] This is most likely the text whose reading is required by th
 ||
 
 [^307]: For an introductory study of this chapter, see Bisschop 2014.
+
 [^308]: Examples of single-text manuscripts of the *Śivadharmaśāstra*’s *Śāntyadhyāya* in the NGMCP collection are: NAK 6–2301 (NGMPP A 1120/12); NAK 1–1376 (NGMPP A 1158/8); NAK 5– 7344 (NGMPP A 1174/14); NAK 1–1108 (NGMPP A 1299/9); E 6489 (NGMPP E 321/26); 366 (NGMPP G 19/16); and I 963 (NGMPP I 54/4). One manuscript from the collection of the Cambridge University Library (Add. 2836) contains the *Śāntyadhyāya* in an anthology of Purāṇic chapters, while one Bengali manuscript of the *Śivadharmaśāstra*’s *Śāntyadhyāya* is held at the Asiatic Society of Calcutta (Shastri 1928, p. 714). For more details, see De Simini 2016.
+
 [^309]: Regmi 1966, p. 332. I am grateful to Alexis Sanderson for drawing my attention to this document. ||
 
 *[p. 120]* ^pg133
@@ -74,6 +79,7 @@ There, having practiced worship for the spear-holder god of gods, one should hon
 In spite of the great importance this text attributes to monarchy, the *Devīpurāṇa* thus seems to offer a less politically relevant variant of the ritual that the *Śivadha-rmottara* describes. Even so, the *Devīpurāṇa* remarks that the practice of the gift of knowledge and of the attached appeasement rite results in a great benefit to the whole country. Chapter 91 of the *Devīpurāṇa* only mentions kings in order to highlight the attainment of monarchical status as a reward for the donors in their future lives on earth (see e.g. 91.10, 91.20, 91.81); moreover, the king and the citizens are mentioned in stanza 91.51, in an enumeration of beings to be revered before the copying of the manuscript commences. While the *Devīpurāṇa* does not mention the monarch among the performers of the ritual, a rather generic allusion to his connection with the practice of the gift of knowledge is made at 91.26, where the text states,[^311] ‘The kings who really master the examination of knowledge walk on the right path; they also take delight in enjoyments and they head 
 
 [^310]: *Devīpurāṇa* 91.65–69 (= *Dānakāṇḍa* 12.40–43): *tasmin pūjya* \[pūjyaṃ ed.\] *tathā kṛtvā devadevasya śūlinaḥ* | *samarpayet praṇamyeśaṃ mātaraḥ prīyatām iti* || 65 *sadādhyayanayuktāya vidyādānaratāya ca* | *vidyāsaṃgrahayuktāya kṛtaśāstraśramāya ca* \[sarvaśāstrakṛtaśrame ed.\] || 66 *tenaiva vartate yas tu tasya taṃ vinivartayet* | *jagaddhitāya vai śāntiṃ sandhyāyāṃ vācayet tathā* || 67 *tena toyena dātāraṃ mūrdhni samyanniṣecayet* \[samabhiṣiṃcayet ed.\] | *śivaṃ vadet tataḥ śabdaṃ* \[sarvaṃ ed.\] *uccāryaṃ jagatas tathā* || 68 *evaṃ kṛte mahāśāntir deśasya nagarasya ca* \[tu ed.\] | *jāyate nātrā sandehaḥ sarvabādhāḥ śamanti ca* || 69.
+
 [^311]: *Devīpurāṇa* 91.26: *vidyāvicāratattvajño rājñaḥ sanmārgagāminaḥ* | *bhuñjate ’pi hi bhogāni gacchanti paramāṃ gatim* || 26. ||
 
 *[p. 121]* ^pg134
@@ -83,6 +89,7 @@ to a supreme destiny (26)’. This verse may be interpreted as implying that a k
  This may contrast with the depiction of the *Devīpurāṇa* as a ‘politically oriented Purāṇa’ offered and motivated in § 1.3, where it was shown that the *Devīpurāṇa* was in fact generally aware of the necessity of consolidating the connections between the cult of the goddess and the dominant power. It would also be possible to quote one example from the text in which the power of a manuscript gives rise to such a consolidation, yet the example is not found in the chapter on the gift of knowledge. Chapter 28 includes this crucial passage. The Devanāgarī printed edition reads the chapter’s title as ‘Glorification of the Recitation of the Praises of the Goddess’ (p. 109, *devyā<ḥ> stavapaṭhanamāhātmyaṃ*); the 
 
 [^312]: *Devīpurāṇa* 91.96ab: *tasmāt sarvaprayatnena vidyā deyā sadā narair*.
+
 [^313]: *Śivadharmottara* 2.193, the last stanza of the chapter: ‘Thus it has been explained this multiform gift of knowledge; according to \[this\] rule people of all *varṇa*s ought to perform it (193)’*;* *evam etad bahuvidhaṃ vidyādānaṃ prakīrtitam* | *sarveṣām eva varṇānāṃ vidhinānena tad bhavet* || 193. ||
 
 *[p. 122]* ^pg135
@@ -94,7 +101,9 @@ Then, having addressed a benediction to them, having worshipped the manuscript w
 These worship ceremonies, which take place in the presence of an image of the goddess, are conceived as a preparation for the reading of the manuscript, as can be deduced by the presence both of the reciter and the *daṇḍayantra,* literally a ‘stick-tool’, a ‘stick-shaped tool’, a lectern, or any kind of physical support for the manuscript. This word recalls the *daṇḍāsana* mentioned by the *Śivadharmottara* (2.24) as one of the two possible supports for the worship of the manuscripts, and is again attested in the *Devīpurāṇa* in the context of the gift of knowledge (91.80). In spite of the presence of a professional reciter, and while everything seems to 
 
 [^314]: *Devīpurāṇa* 28.4cd: *devyāyatane devasya śaṅkarasya harer api* || 4.
+
 [^315]: *Devīpurāṇa* 28.6ab: *tadbhaktibhāvitān viprān sadvṛttāñ chāstratatparān*.
+
 [^316]: *Devīpurāṇa* 28.7–9ab: *tatas tān svasti vācayitvā pūjayitvā tu pustakam* | *sugandhagandha-dhūpena puṣpamālyaiḥ sucandanaiḥ* || 7 *ghaṇṭācāmaraśobhāḍhyai darpaṇair upaśobhite* | *dukūle vastrābharaṇe daṇḍayantre niveśayet* || 8 *vācakaṃ pūjaitvā tu yathāvibhavavistaraiḥ*. ||
 
 *[p. 123]* ^pg136
@@ -109,7 +118,9 @@ The merits subsequently listed are huge: the king will get one hundred times the
  According to chapter 28 of the *Devīpurāṇa*, the manuscript from which the king must read contains the ‘Praises of the Goddess’. In addition to being an expression that as such refers to a eulogistic composition devoted to the goddess, it is also used to denote the *Devīmāhātmya* par excellence. This is a short work of 13 chapters that is included in the *Mārkaṇḍeyapurāṇa* (corresponding to chapters 81 to 93) and has become an independent work. It is considered one of the main scriptures of the Durgā cult and is often referred to under the titles of *Durgā-saptaśatī* and *Caṇḍīsaptaśatī*.[^318] Given the uncertain relative and absolute chronology of these texts,[^319] it is almost impossible to establish whether this mention 
 
 [^317]: *Devīpurāṇa* 28.9cd–12ab: *vācayeta tato rājā devīmāhātmyam uttamam* || 9 *tadante śāntiśabdas tu janasya sanṛpasya ca* | *gobrāhmaṇapūjānān tu vanaspatimukheṣu ca* || 10 *kṣatra-viṭśūdrabālānāṃ sarvam eva śubhaṃ tu vaḥ* | *anena vidhinā rājā yaḥ paṭhet śṛṇuyād api* || 11 *cintayed vācayed vāpi tasya puṇyaphalaṃ śṛṇu*.
+
 [^318]: On the *Devīmāhātmya*, see Coburn 1984 and 1991 and Yokochi 1999.
+
 [^319]: As regards the *Devīmāhātmya* of the *Mārkaṇḍeyapurāṇa*, the issue of dating has been reconsidered by Yokochi (1999, pp. 89–90) who, on the basis of the iconography of the goddess and the relative chronology of parallel texts, proposes the early eighth century as a plausible date of composition. In the same study, Yokochi agrees with the former attempts at placing the formation of the *Devīmāhātmya* in northern India, and stresses its connections with the political powers of the region. ||
 
 *[p. 124]* ^pg137
@@ -119,6 +130,7 @@ in chapter 28 of the *Devīpurāṇa* was actually meant as a reference to the *
 In conclusion, the *Devīpurāṇa* does indeed also target monarchical sponsors for the performance of rituals focused on the use of manuscripts, but this aspect becomes less relevant in the practice of the gift of knowledge. One main difference, which possibly also influenced the choice made in this regard by the Purāṇic authors, is that the gift of knowledge as intended in the *Devīpurāṇa* does not just include the scriptures of a specific sectarian group, as the *Śivadha-rmottara* does*,* but, as observed above, is rather ecumenical in its approach. It even includes mundane literature, which makes it less valuable as a strategy aimed at attracting powerful supporters for the Dharma of the goddess, as chapter 127 expressly requests. By contrast, when the involvement of a monarch in the performance of a ritual focusing on manuscripts is stressed, which happens in 
 
 [^320]: As observed by Yokochi (1999, pp. 90–91), if considered in the context of the *Mārkaṇḍeyapurāṇa*, the *Devīmāhātmya* conveys an important message to the kings to whom it ultimately seems to be addressed. Before the section on the *Devīmāhātmya*, the *Mārkaṇḍeyapurāṇa* tells the story of king Suratha losing his kingdom; this monarch is evoked again at the end of the *Devīmāhātmya*, where the goddess says that, thanks to his devotion to her, Suratha will regain his kingdom in this life and become the eighth *manu* in the next life. The devotion to the goddess is therefore directly connected to the practice of power.
+
 [^321]: The whole chapter 12 of the *Devīmāhātmya* is devoted to praising the merits derived from listening and reciting this text. Among the ‘practical’ uses of the text, stanzas 15 to 17 list: ‘My glorification has to be listened to every time during an appeasement rite (*śāntikarman*), as well as when one sees nightmares and when there are very negative calamities \[deriving from\] planets. (15) / Evil portents and frightful calamities \[deriving from\] planets are appeased, and an evil dream experienced by somebody turns into a good dream. (16) / \[My glorification\] is an instrument for the appeasement (*śāntikāraka*) of children possessed by the Bālagrahas, and the foremost supporter of friendship between people who have infringed their union. (17)’; *śāntikarmaṇi sarvatra tathā duḥsvapnadarśane* | *grahapīḍāsu cogrāsu māhātmyaṃ śrụyān mama* || 15 *upasargāḥ śamaṃ yānti grahapīḍāś ca dāruṇāḥ* | *duḥsvapnaṃ ca nṛbhir dṛṣṭaṃ susvapnam upajāyate* || 16 *bālagrahābhibhūtānāṃ bālānāṃ śāntikārakam* | *saṃghatabhede ca nṛṇāṃ maitrīkaraṇam uttamam* || 17. ||
 
 *[p. 125]* ^pg138
@@ -132,7 +144,9 @@ Having presented, according to \[his\] faith and wealth, even just one of the au
 A wooden box and a tablet for writing are other writing implements that can be made in lieu of the donation of a manuscript (2.105-106).[^324] Similar statements are 
 
 [^322]: *Śivadharmottara* 2.73: ‘And \[also\] a poor person who applies this procedure in accordance \[with his personal wealth\], without deceitfulness in money matters, with devotion, will obtain the fruit of a gift of knowledge.’; *daridraś cānusāreṇa vittaśāṭhyavivarjitaḥ* | *kṛtvā vidhim imaṃ bhaktyā vidyādānaphalaṃ labhet* || 73.
+
 [^323]: *Śivadharmottara* 2.85–89: *yat patrayantrasūtrādyaṃ maṣībhājanalekhanī* | *śarayantrāsanābhyaṅgaśayyāsadbhaktavetanam* || 85 *ityevamādi yac cānyat tadartham upayujyate* | *yadvā tadvā mahat sūkṣmaṃ vidhānena tu yad bhavet* || 86 *tad ekam api vidyāṅgaṃ śraddhāvittānusārataḥ* | *nivedya sa mahābhogaiḥ śivaloke mahīyate* || 87 *pustakāstaraṇaṃ dattvā sadvastraṃ ca pramāṇataḥ* | *tadvāsanavitānaṃ vā śivaloke mahīyate* || 88 *yāvat tadvastratantūnāṃ parisaṃkhyā samantataḥ* | *tāvad yugasahasrāṇi mahābhogān avāpnuyāt* || 89.
+
 [^324]: *Śivadharmottara* 2.105–106: ‘One who will donate with devotion a box made of *śrīparṇī* wood, dug out, well assembled, as well as made of leather, (105) / To one who is versed in the || knowledge of Śiva, with the purpose of teaching this \[Śaiva knowledge\], as well as \[if he donates\] a very smooth tablet for writing on, will obtain the fruit of a gift of knowledge. (106)’; *yaḥ śrīparṇīsamudbhūtaṃ nimnakhātaṃ susaṃcayam* | *dadyāt sampuṭakaṃ bhaktyā carmaṇā vāpi nirmitam* || 105 *śivajñānābhiyuktāya tadadhyāpanahetunā* | *suślakṣṇaṃ phalakam vāpi vidyādānaphalaṃ labhet* || 106.
 
 *[p. 126]* ^pg139
@@ -156,7 +170,9 @@ He has to offer this to \[a teacher\] who is always reciting \[the Vedas\], who 
 This person, clearly identified as a professional teacher, is the same one who performs the appeasement ritual after receiving the manuscript in the temple. The *Śivadharmottara* also seemingly suggests that the recipient of the manuscript is a Brahmin teacher, since it qualifies the donee of various items in the context of a gift of knowledge as a *śivajñānābhiyukta* (*Śivadharmottara* 2.83c, 2.90a and 2.106a), ‘one versed in the Śaiva knowledge’; this was also the definition of the recipient of a manuscript in *Śivadharmaśāstra* 12.81 (see § 2.5). The *Nandipurāṇa*, like the *Devīpurāṇa*, clearly indicates that the recipient is a teacher by stating that the main procedure for the performance of a gift of knowledge is the donation of a manuscript ‘to a very virtuous Brahmin, a teacher endowed with intelligence, knower of logic, who recites the Veda’.[^328] However, this text had introduced a further
 
 [^326]: As one of the many possible examples, we refer to *Devīpurāṇa* 91.50cd, where the genitive *viprāṇāṃ,* ‘Brahmins’, accounts for the recipients of different kinds of offers, among which is also a manuscript. See also *Matsyapurāṇa* 53.19 (§ 3.1), which addresses the gift of the *Skandapurāṇa* ‘to a Brahmin’ (*brāhmaṇāya*).
+
 [^327]: *Devīpurāṇa* 91.66-67ab (= *Dānakāṇḍa* 12.41-42ab): *sadādhyayanayuktāya vidyādānaratāya ca* | *vidyāsaṃgrahayuktāya kṛtaśāstraśramāya ca* \[sarvaśāstrakṛtaśrame ed.\] || 66 *tenaiva vartate yas tu tasya taṃ vinivedayet* |.
+
 [^328]: *Dānakāṇḍa* 12.168–69: \[…\] *brāhmaṇe śīlaśālini* || 168 *prabodhayati dhīyukte yuktijñe vedavādini* |. For further considerations on this verse, see § 2.4. ||
 
 *[p. 128]* ^pg141
@@ -172,6 +188,7 @@ The first recipient of the gift of the manuscript is, therefore, the god.
 Although the *Śivadharmottara* makes its first reference to a ritual focused on the use of manuscripts in stanza 2.13, the text already alludes to written knowledge in stanzas 2.6 to 2.12. The text stresses here the importance of preserving the integrity of the Śaiva knowledge and, consequently, of the manuscripts through which this is transmitted. This concern finds expression in a list of faults (*doṣa*) that can damage the transmission of knowledge, and that a teacher is supposed to emend in order to restore its former correctness. This notion is formulated in the text of the *Śivadharmottara* with the word *saṃskāra*, which evokes a context of ritual and linguistic purity. The only word attested in the following stanzas that can be linked coherently to the semantic field of ‘correction’ is the causative passive past participle *śodhita*, literally ‘made pure’, from the verbal root *śudh*, ‘to purify’, ‘to polish’ from defects. The errors mentioned in this short passage range from mechanical mistakes (for example, the omission of syllables or the presence of redundancies) to logical contradictions and metrical inaccuracies, which are all considered as ultimately being rooted in human carelessness and incompetence:[^330] 
 
 [^329]: *Dānakāṇḍa* 12.130: \[…\] *mahāśobhasamanvitam* | *purato nṛtyagītena nānāvādyaraveṇa ca* | *maṅgalair vedaghoṣaiś ca devāya vinivedayet* || 130.
+
 [^330]: *Śivadharmottara* 2.6–12: *yo ’śuddham ātmanādhītya jñānam adhyāpayet param* | *sa yāti narakaṃ ghoraṃ pāpīyāṃ jñānanāśakaḥ* || 6 *śivajñānasya kālena vinaṣṭasya pramādataḥ* | *ūnātiriktavarṇasya mūḍhair durlikhitasya ca* || 7 *pramādādhītapāṭhasya nāśitasyālpabuddhibhiḥ* | *jñānāvalepamānāndhair ācāryaiḥ śodhitasya ca* || 8 *vyarthaiḥ padair upetasya punaruktasya cārthataḥ* | *pūrvottaraviruddhasya svasiddhāntavirodhinaḥ* || 9 *chandasātīvanaṣṭasya śabdārtharahitasya ca* | *ityevamādibhir doṣair upetasya kva cit kva cit* || 10 *yaḥ karoti punaḥ samyak saṃskāraṃ pūrvavad guruḥ* | *śivatantrārthavid dhīmān sa vidyāparameśvaraḥ* || 11 *na cāsya puṇyamāhātmyaṃ vaktuṃ śakyaṃ hi kena cit* | *yathā śivas tathaivāyam asmin nityaṃ śivaḥ sthitaḥ* || 12.
 
 *[p. 129]* ^pg142
@@ -242,7 +259,9 @@ The last stanza asserts the oneness of the triad formed by Śiva, the teacher, a
 ||
 
 [^336]: These stanzas resort to a terminology that is reminiscent of the one used in *Dānakāṇḍa* 12.122–128NP: the teacher is for instance said to be ‘the explainer of the meaning of the topic under discussion’ (*prakṛtārthapravartakaḥ*, 12.139, glossed by Lakṣmīdhara with *prastutārthābhi-dhāyī*).
+
 [^337]: *Śivadharmottara* 2.14–15: *śivaṃ sampūjya vidhivat tadvidyāṃ pūjayet tataḥ* | *guruṃ ca śivavad bhaktyā tulyam etat trayaṃ yataḥ* || 14 *yathā śivas tathā vidyā yathā vidyā tathā guruḥ* | *śivavidyāgurūṇāṃ hi pūjayā sadṛśaṃ phalam* || 15.
+
 [^338]: Examples of recurrent uses of *Śivadharmottara* 2.15 can be found in *Liṅgapurāṇa* 1.85.164cd–165ab: ‘The one who is a teacher, this is said to be Śiva, the one who is Śiva, this is taught to be a teacher. Like Śiva is knowledge, like knowledge is the teacher; and therefore \[one can gain\] the same fruit through devotion \[paid\] to the teacher of the Śaiva knowledge’; *yo guruḥ sa śivaḥ prokto yaḥ śivaḥ sa guruḥ smṛtaḥ* | *yathā śivas tathā vidyā yathā vidyā tathā guruḥ* || 164 *śivavidyāguros tasmād bhaktyā ca sadṛśaṃ phalam*. The translation of the penultimate *pāda* is slightly different because the text of the *Liṅgapurāṇa*, for which I rely on the printed edition, gives a genitive singular (°*guros*) where the *Śivadharmottara* gives a plural (°*gurūṇāṃ*); as a consequence, the latter can be interpreted as a *dvandva* compound, while the former, if we accept the reading of the printed edition—which the parallel with the *Śivadharmottara* would however
 
 *[p. 136]* ^pg149
@@ -316,7 +335,9 @@ The compounds used in these stanzas to denote the precious case assembled for th
 ||
 
 [^345]: Note that modern reports on Indian traditional libraries witness the use of metal boxes for the manuscripts in Nepal and in Jain libraries, whereas wood and cardboard were the materials predominantly used for the production of boxes for the manuscripts (Bühler 1904, p. 118).
+
 [^346]: The term °*ratnakaraṇḍaka*, ‘jewel box’, is also attested in later Tantric Śaiva and Buddhist literature with reference to the foundational scriptures of a tradition: see e.g. the use of the compound *siddharatnakaraṇḍaka*, the ‘jewel box of the perfect beings’, in the following passage from *Svacchandatantra* 8.39: ‘Thus the best teaching, divine, a jewel box for the perfect beings, has to be kept by you like the biggest secret, not to be revealed by anyone to anybody’; *evaṃ tantravaraṃ divyaṃ siddharatnakaraṇḍakam* | *tvayā guptataraṃ kāryaṃ na deyaṃ yasya kasyacit* || 39. Another occurrence of the term is in the *Hevajratantra*, where it is attested in the compound *buddharatnakaraṇḍaka* (2.2.38, Snellgrove 1959, p. 48): *vihare ’haṃ sukhāvatyāṃ sadva-jrayoṣito bhage* | *ekārākṛtirūpe tu buddharatnakaraṇḍake* || 38.
+
 [^347]: *Śivadharmottara* 2.117–22: *vidyākośagṛhasyāpi vidyāyatanam uttamam* | *bhavet suśobhanaṃ ramyam aṣṭahastapramāṇataḥ* || 117 \[…\] *tatra taṃ tūryaghoseṇa maṅgalair vividhair api* | *ānīya sthāpayed bhaktyā vidyāratnakaraṇḍakam* || 121 *tataḥ sugandhapuṣpādyaiḥ śivavat pratipūjayet* | *śivavidyāṃ sadākālaṃ trisandhyam upacārataḥ* || 122. ||
 
 *[p. 142]* ^pg155
@@ -326,7 +347,9 @@ Also for the treasure-house of knowledge there is a wonderful abode of knowledge
 The name ‘abode of knowledge’ (*vidyāyatana*, 2.117) strongly resembles the compounds used in the previous stanzas to describe the precious box into which the manuscript is inserted. However, here it is undoubtedly intended as a place with dimensions amounting to eight *hasta*s. This measurement roughly corresponds to 3.6 meters, but the reader is not informed whether it applies to breadth, length, or both*.* Although the text is not explicit about the functions of this place and never clearly refers to the storage of manuscripts (which, however, could be implicit in its name), such dimensions would be sufficient to qualify the small building mentioned by *Śivadharmottara* 2.117 as a ‘library’ that could serve as a storage place for manuscripts rather than a place suitable for studying them. This is confirmed by the scarce archaeological remains in the territories of Indic culture.[^348] The small buildings annexed to the eastern entrances of Cambodian temples are a pertinent example: as remarked by Goodall, secondary literature has often identified these spaces with libraries, on the sole basis of two tenth-century Sanskrit epigraphs (K. 958 and K. 355) mentioning a *pustakāśrama*, literally a ‘resting place for manuscripts’;[^349] the second of these records even seems to identify as *pustakāśrama* the particular building where it is inscribed, in the southeast of a Śaiva temple compound. Goodall further notes that two inscriptions from Angkor accounting for the ‘hermitages’ (*āśrama*s) founded by the king Yaśovarman in the mid-tenth century (K. 701 and K. 279) refer to the provision of writing implements and the employment of scribes (*lekhaka*), librarians (*pustakarakṣiṇa*), and ‘preparers of leaves’ (*pattra-kāraka*).[^350] 
 
 [^348]: From the modern accounts on traditional libraries we learn, for instance, that Jain libraries were limited to small, dark—and sometimes even subterranean—rooms; see Delhey forth. for this and for an overall treatment of the topic of Indian libraries. The archaeological remains identified as temple libraries in Cambodia have limited dimensions, which suggest that these places did not allow the use of manuscripts *in situ* for personal study (see Goodall forth. and below).
+
 [^349]: Goodall forth., referring to Cœdès 1964, pp. 141–47. Both these inscriptions record the generosity of Hiraṇyagarbha.
+
 [^350]: Goodall forth., referring to Cœdès 1932, p. 92 and 103–104. The writing implements mentioned in the charter are blank palm leaves (*riktapattra*), ink (*maṣī*), and chalk or clay (*mṛtsnā*); the inscription prescribes that two librarians and six ‘preparers of leaves’ can be hired for each *āśrama*.
 
 *[p. 143]* ^pg156
@@ -364,7 +387,9 @@ are also stored, this chapter of the *Śivadharmottara* would reflect a situatio
  Even though, once again, the *Śivadharmottara* does not offer an explicit qualification of the ‘abode of knowledge’ as a storage-room, a parallel with an extant ‘manuscript repository’ from the early history of Indian manuscript cultures might shed some light on this point. I am referring to the renowned Buddhist ‘library’ at Gilgit, which is ‘the only one extant from ancient India’.[^354] The hypotheses about the functions and formation of the Gilgit collection furnish an instructive point of comparison with the *Śivadharmottara*’s ‘abode of knowledge’. The hypotheses presented by scholars to date consist of the idea (which has indeed been met with support) that the Gilgit manuscripts were produced and used for ritual purposes, and that the collection might have emerged as a result of the manuscripts’ ritual functions. A famous passage from the *Cīvaravastu* of the *Vinaya* of the *Mūlasarvāstivādins*, which was preserved in a manuscript from Gilgit, is another element that invites comparison with the *Vidyādānādhyāya* of the *Śivadharmottara* and, in particular, with its part about the worship and hypothetical storage of manuscripts. This text refers to the existence of private collections of manuscripts as well as collections administered by the Buddhist monastic community (*saṅgha*), and is framed by a story concerning inheritance matters;[^355] while referring to the monastic ‘library’, the *Cīvaravastu* evokes the cultic uses of manuscripts by mentioning an implement—the ‘lion-throne’, *siṃhāsana*[^356]—to which the *Śivadharmottara* alludes in the stanzas concerning the veneration of manuscripts, even when the cultic use happens in the ‘abode of knowledge’ (2.114). In spite of the almost self-evident differences separating the testimony of the *Śivadharmottara* from 
 
 [^354]: Von Hinüber 2014, p. 83. The collection of manuscripts found at Naupur, close to Gilgit in modern Pakistan, during archaeological excavations in 1931 and 1938 (though the most recent finding occurred in 1998; for an accurate overview on the discoveries of the manuscripts of Gilgit, see Fussman 2004) has been and is still the object of intensive research. It would go beyond the scope of this study and the competence of its author to exhaustively introduce the topic or survey the relevant secondary literature. For these endeavours I refer the reader to von Hinüber 1979, Fussman 2004 and von Hinüber 2014, which give a comprehensive overview of the Gilgit collection, past and ongoing research projects, as well as the most recent developments.
+
 [^355]: Dutt 1942, pp. 139–44.
+
 [^356]: These references are in Dutt 1942, p. 143 ll. 4 and 14, and further at p. 146, ll. 4–5. ||
 
 *[p. 147]* ^pg160
@@ -374,9 +399,13 @@ that of the Gilgit collection, these parallels nevertheless make it possible to 
  In his insightful study on the archaeological site where the Gilgit collection manuscripts were retrieved, Fussman rejects the theory that had previously identified the ruins of the building originally containing the manuscripts as a *stūpa*.[^357] This hypothesis entailed that the presence of the manuscripts at this location was due to the performance of a ritual burial in accordance with the Tibetan custom of the *gter ma* (‘concealed treasures’).[^358] According to Fussman’s reconstruction, the building should rather be interpreted as a tower.[^359] He described it as[^360] ‘une chapelle isolée, chapelle d’ermitage ou chapelle détachée d’un monastère plus compact comme on a tant d’exemples dans le sites de montagne, au Gandhāra (Takht-i Bahai), au Ladakh, au Tibet’, where only a hermitic teacher (*ācārya*), part of a lineage of *ācārya*s officiating rituals for the laypeople, could have lived before it was abandoned for good.[^361] This is relevant to our study because Fussman
 
 [^357]: See Fussman 2004.
+
 [^358]: On the notion of *gter ma*, see Bentor 1995. Fussman (2004, p. 105) reports the theory of Jettmar (1993), according to which the manuscripts were brought to Gilgit and buried there as *gter ma*s, after having been copied at a monastery near Skardu (Jettmar 1993, p. 94). However, Fussman argues that this notion is later than the case under investigation, and that it is only typical of Tibetan Buddhism and Tibetan Buddhist texts (Fussman 2004, p. 105).
+
 [^359]: The whole site would thus consist of three *stūpa*s (buildings A, B, and D according to the reports) and then a quadrangular tower (building C) containing the manuscripts (Fussman 2004, p. 121). Only derelict ruins remain from these buildings, hence the difficulties in identifying them. Understanding the ‘bâtiment C’ as a tower, according to Fussman, has the advantage of resolving the nonsense of having to postulate a *stūpa* filled with manuscripts in its inner, inaccessible part (Fussman 2004, p. 122).
+
 [^360]: Fussman 2004, p. 121.
+
 [^361]: According to Fussman’s evaluations, the place was simply too small and filled with manuscripts to host more people, and could have been abandoned at the death of the last monk of this lineage, who might not have been replaced for reasons connected to the decline of the Buddhist community in that area (Fussman 2004, p. 123). Von Hinüber counters that the place could have hosted at least a very small community of monks acting as priests for the local Buddhist devotees (von Hinüber 2014, p. 80). Fussman, however, admits that the fact that no traces of a monastic building have so far been identified in the surroundings is a weak point in his reconstruction (Fussman 2004, p. 121). ||
 
 *[p. 148]* ^pg161
@@ -386,9 +415,13 @@ links the nature of this building, the ‘bâtiment C’, to the function of the
  The reconstruction proposed by Fussman for this collection of manuscripts at the boundaries of the Indian world thus implies that it had emerged and grown mainly thanks to the ritual function attributed to the composition, donation, and/or recitation of the manuscripts, and that all this happened through the medium of a monastic community, albeit a small one. This is comparable to the picture painted by the *Vidyādānādhyāya* of the *Śivadharmottara,* a text that was written by Śaiva communities in search of power and prestige in a different yet still unspecified geographical area of northern India, at a not so different time in history;[^366] their doctrines
 
 [^362]: As he puts it, ‘Connaître la nature du bâtiment dans lequel furent découverts en 1931 les manuscrits de Gilgit ne relève pas sulement de l’anecdote ou de l’histoire locale. C’est un moyen de comprendre pourquoi ces manuscrits étaient réunis là et ce qu’ils représentaient dans la vie d’un monastère situé aux frontières du monde indianisé’ (Fussman 2004, p. 144).
+
 [^363]: His views on the topic are mainly expressed in Fussman 2004, pp. 131–34.
+
 [^364]: See Fussman 2004, p. 132. In his view, the use of these manuscripts for performing rituals of healing would also be confirmed by the presence of certain texts that were used for that specific purpose, such as the 21 exemplars of the *Uṣṇīṣavimaladhāraṇī* and the many *Bhaiṣajagu-rusūtra*s.
+
 [^365]: According to the formulas of these colophons, a donor (who might have also been a monarch) associated him or herself with another person (sometimes even a dead person) by giving the manuscript as a gift, and the merits deriving from this donation would be shared by all living beings (Fussman 2004, p. 133).
+
 [^366]: The collection of Gilgit grew in the course of perhaps one century, starting from the sixth century CE, as deducible from a study of both the colophons and the scripts (von Hinüber 2014, p. 84). ||
 
 *[p. 149]* ^pg162
@@ -398,8 +431,11 @@ were significantly divergent from those of the Buddhist Mahāyāna communities, 
  Meanwhile, several adjustments have been proposed to Fussman’s theory on the formation of the Gilgit collection,[^367] while not questioning the ritual function of many of its manuscripts. The most relevant critique has been expressed by Schopen. In particular, he observes how Mahāyāna texts mentioning the cult of the manuscript do not allude to manuscripts being remitted to monasteries after worship, nor do they prescribe that the performance of ritual healing through Buddhist *sūtra*s would necessarily require the mediation of a monk.[^368] As already observed in § 1.1, Schopen’s claim is thus a lay dimension for the ritual uses of manuscripts in the context of Mahāyāna Buddhism: emphasizing the absence of archaeological remains to account for the presence of a monastic building in the area of the ‘bâtiment C’, which Fussman also acknowledges ‘un inconvénient’ to his reconstruction,[^369] Schopen proposes to understand this building as[^370] ‘\[…\] a kind of sacred workshop, a combination of genizah and scriptorium, where old, unusable, or returned manuscripts (i.e., those with donor colophons or donors’ names in them) were kept, along with some master copies, and where new manuscripts were manufactured and were for sale (i.e., those without donor colophons or donors’ 
 
 [^367]: See, for example, von Hinüber 2014, p. 83ff., remarking on the presence of non-ritualistic and non-religious literature in the Gilgit collection, such as medical and grammatical texts, whose manuscripts attest annotations and interlinear corrections. This means that they were not used for ritual purpose, but for studying and teaching.
+
 [^368]: Schopen 2009, pp. 196–98. The textual authorities that Schopen quotes in support of his argument (Schopen 2009, p. 197) are the *Aparamitāyuḥsūtra*, where the ritual actions prescribed for the manuscript—its reading and worship—do not include its donation, but instead preserving the manuscript at home (Konow 1916, p. 299, p. 301); the *Bhaiṣajyagurusūtra* (referred to as Schopen forth., § 13), again prescribing the worship of the manuscript and the uncountable merits deriving from it, but not its donation; and the *Aṣṭasāhasrikā*, in a passage (Wogihara 1932– 1935: 254.8–258.21) in which three places are listed among those to be protected by the powers of the manuscript, namely a house (*gṛha*), a cell (*layana*), and a palace (*prāsāda*). As Schopen notes (Schopen 2009, p. 198), Haribhadra’s commentary on this passage glosses *layana* with *bhikṣūṇāṃ sthānavāsam*, the ‘dwelling place of monks’ (Wogihara 1932–35, 258.23). As for the performance of rites, he (Schopen 2009, p. 198) refers, among others, to the *Bhaiṣajyagurusūtra*, where an elaborate *pūjā* for the ill, dying, or dead person is not said to be performed by monks, but by friends, relatives, and kinsmen (Schopen forth. a § 18); and to the *Ratnakeṭu* (Kurumiya 1978, 137.7), whose list of possible performers of rites includes both monks (*bhiḳsu,* *bhikṣuṇī*) and lay devotees (*upāsaka, upāsikā*).
+
 [^369]: Fussman 2004, p. 121.
+
 [^370]: Schopen 2009, p. 203. ||
 
 *[p. 150]* ^pg163
@@ -409,8 +445,11 @@ names in them)’. Relying on an analysis of the surviving colophons of the manu
  The *Cīvaravastu*, a section from the *Vinayavastu* of the sixth-century canon of the Buddhist Mūlasarvāstivādin,[^372] is another work that contains parallels to the functions of the ‘abode of knowledge’ as it’s described in the *Vidyādānādhyāya*, as well as the rituals characterizing both its formation and its daily cultic functions—the manuscripts of the Śaiva knowledge are supposed to be worshipped there three times a day, according to *Śivadharmottara* 2.122. Its sole connection with Gilgit consists of the fact that it is the source of the only extant Sanskrit manuscript of the text of our interest. The *Cīvaravastu* narrates a situation in which the Buddha is in charge of distributing the property of a wealthy layman who passed away before having children and completing his ordination as a monk. The items of his estate are duly identified by the layman in a written document that is sent to the Buddhist *saṅgha*. The Buddha bequeaths some of the estate to the king, while leaving the major part to the monastic community. According to the following passage, which is often discussed in the context of how matters pertaining to property, Buddhist libraries, and writing culture in general are to be handled,[^373] some of the items left by the deceased are to be divided into several parts, which are to be used as follows:[^374] 
 
 [^371]: Schopen 2009, p. 203.
+
 [^372]: For a detailed introduction on the *Vinayavastu* of the *Mūlasarvāstivādin*, its manuscript transmission, ancient translations, secondary literature, and editions, see Wille 1990.
+
 [^373]: Here we refer to, among others, Schopen 1994, 1995, 1997, 2000, von Hinüber 2014, Strauch 2014.
+
 [^374]: I have transcribed the text of the following lines directly from the manuscript, as reproduced in Clarke 2014, p. 169, right column. It is well known that the editor of the text (Dutt 1942) did not include a proper critical apparatus in his edition, and silently corrected the Sanskrit text
 
 *[p. 151]* ^pg164
@@ -435,5 +474,7 @@ The text presents two ways of enriching the monastery’s collection of manuscri
 ||
 
 [^376]: The text is the *Nanhai jigui neifa-zhuan*, ‘An Account of the Dharma Sent Back from the Southern Seas’. The passages referred to in the next lines, as well as the dating of Yijing’s life and work, are based on Takakusu 1896.
+
 [^377]: Note that passages from this chapter, including the portion on the manuscripts and the lion-throne, are also quoted by Dutt 1942, pp. IX–XI, to show the (almost) literal closeness between the Sanskrit text and Yijing’s rendering.
+
 [^378]: Takakusu 1896, p. 192. ||

@@ -19,8 +19,11 @@ converted: 2026-10-07
 The same terminology used in the *Vidyādānādhyāya* of the *Śivadharmottara*, in particular stanzas 2.109 onward, which had also been reused in the *Uttarakāmika*, is easily detectible in these lines. The scheme of the ritual styled by the *Śivārcanācandrikā*/*Kriyāsāra* has so far indeed been close to the one described in the *Uttarakāmika*; but the following lines of the text testify to a further evolution in the rite, since they also envisage the possibility of performing the worship of the Śaiva scriptures without manuscripts (‘in absence of manuscripts’, *pustakālābhe*). In this case, the sacrificer is instructed to draw a lotus provided with 18 leaves, enclosing a smaller one provided with only 10 leaves. Then, he should first worship Śiva and the goddess of speech in the pericarp of the lotus by uttering the respective *mantra*s, following which he will worship the 10 scriptures belonging to the *śivabheda* in 10 of the leaves of the lotus, starting from the 
 
 [^914]: *Kriyāsāra*, vol. 2 p. 306 (=*Śivārcanācandrikā*, p. 104): *eteṣāṃ śivajñānapustakānāṃ pūjanāya śivasya dakṣiṇapaścime vāyavyabhāge* \[…\] *vidyākośagṛhaṃ kṛtvā*.
+
 [^915]: *Kriyāsāra*, vol. 2 p. 306 (=*Śivārcanācandrikā*, p. 104): *sugandhicandanādyanuliptabhitti-kasya tasya madhye nāgadantādiracitaṃ suvarṇarekhādicitritaṃ vidyāsiṃhāsanaṃ nidhāya*.
+
 [^916]: *Kriyāsāra*, vol. 2 p. 306 (=*Śivārcanācandrikā*, p. 104): *tatra dukūlādikam āstīrya tanmadhye suvarṇaraupyatāmrakāṃsyārakūṭalohadāruveṇuvidalanādikṛtāṃ vidyāratnakaraṇḍarūpāṃ mañjūṣāṃ nidhāya tasyāṃ pustakāni nidadhyāt.*
+
 [^917]: *Kriyāsāra*, vol. 2 pp. 306–307 (=*Śivārcanācandrikā*, p. 104): *teṣu sarvebhyaḥ śivajñānebhyo nama iti gandhapuṣpadhūpadīpanaivedyaiḥ saṃpūjya —sarvajñānapradaṃ śambhuṃ sarvājñā-navighātakam* | *kāyena manasā vācā vidyāpīṭhāśrayaṃ bhaje* || *iti stutvā namaskuryāt*. ||
 
 *[p. 358]* ^pg371
@@ -30,7 +33,9 @@ east, and the 18 scriptures belonging to the *rudrabheda* in the remaining 18.[^
  Sixteenth-century Tamil Nadu has produced what is possibly the most comprehensive treatment of the subject of manuscript worship and manuscript rituals in premodern India. It is contained in the ‘Ritual Manual of Private Worship’ (*Ātmārthapūjāpaddhati*), a work by Vedajñāna II of Cidambaram.[^920] The text is, in and of itself, not particularly original: being composed in the style of a digest, it mostly relies on quotations from authoritative sources, which are combined one after the other in order to convey information about the relevant topics. Its 
 
 [^918]: *Kriyāsāra,* vol. 2 p. 307 (*Śivārcanācandrikā,* pp. 104–105): ‘In absence of a manuscript, having drawn within a quadrangular *maṇḍala* a lotus with eight leaves, and a lotus with 18 leaves covering this, in the pericarp of the lotus having worshipped at the same time Śiva together with the goddess of speech by saying ‘*Hauṃ*, obeisance to Śiva!’, ‘*Hāṃ*, obeisance to the goddess of speech!’; having worshipped in the 10 leaves starting from east the divine scriptures named after Śiva, starting with the *Kāmika* and ending with the *Suprabheda*, for their having been produced directly by Śiva, regardless of \[the presence of\] another chief deity (*adhikaraṇa*?), he should worship in the 18 leaves \[the scriptures\] named after Rudra for having been produced by Śiva, who is the chief of the endless Rūdras.’; *pustakālabhe caturaśramaṇḍale aṣṭādaśapadmaṃ tadāvārakam daśadalapadmaṃ ca likhitvā karṇikāyāṃ hauṃ śivāya namaḥ* | *hāṃ vāgīśāya namaḥ* | *iti vāgīśvarasaṃhitaṃ śivaṃ saṃpūjya pūrvādiṣu daśasu daleṣu kāmikādīn suprab-hedāntān śivenādhikaraṇāntaranirapekṣeṇa sākṣān nirmitatayā śaivasaṃjñān divyāgamān saṃpūjya aṣṭādaśasu daleṣu vijayādivātulān tān anādirūdrādyadhikaraṇena śivena nirmitatayā raudrasaṃjñān pūjayet*.
+
 [^919]: *Kriyāsāra*, vol. 2 p. 308 (=*Śivārcanācandrikā*, p. 206): *gurugṛhavidyāpīṭhasaptaguru-mahālakṣmīgaṇapatidvārapālebhyo ’pi parāṅmukhārghyaṃ datvā*.
+
 [^920]: For an introduction on this author and a summary of the works attributed to him, see Ganesan 2009. ||
 
 *[p. 359]* ^pg372
@@ -48,10 +53,15 @@ meagre originality is not due solely to its reliance on quoted texts, which is a
  As is usual for these texts, and following a pattern that we have already observed in other sources, the description of the ritual starts with an account of the location where this has to take place. In the paragraph on the ‘worship of the throne of knowledge’ (*vidyāpīṭhapūjā*), a quotation from the *Kāmika*, which is not traceable in the published text, establishes that a *jñānakośa*, a ‘treasure of knowledge’, has to be arranged either in the northwest or in the south.[^927] On the authority of *Śivadharmottara* 2.109–16, one can construe this *jñānakośa* as a metaphor 
 
 [^922]: *Ātmārthapūjāpaddhati*, T 321 pp. 273–76.
+
 [^923]: *Ātmārthapūjāpaddhati*, T 371 pp. 1162–67.
+
 [^924]: *Ātmārthapūjāpaddhati*, T 371 pp. 972–86.
+
 [^925]: *Ātmārthapūjāpaddhati*, T 371 pp. 1152–62.
+
 [^926]: *Ātmārthapūjāpaddhati*, T 371 pp. 1168–71.
+
 [^927]: *Atmārthapūjāpaddhati*, T 321 p. 273: *kāmike tu*: *vāyavye dakṣiṇe vāpi jñānakoṣaṃ prakalpayet*. This line is quoted in opposition to a preceding one establishing that the throne of knowledge has to be worshipped in the western sector of a temple: *devasya paścime bhāge* || *vidyāpīṭhan tato yajet*. A space left blank in the manuscript immediately before this stanza makes it difficult to understand to which work Vedajñāna attributes it; in the *Sakalāgamasārasaṃgraha,* p. 146, the same line is referred to the *Kāmika*, but then followed by different stanzas than those quoted in this section of the *Ātmārthapūjāpaddhati*.
 
 *[p. 361]* ^pg374
@@ -59,7 +69,9 @@ meagre originality is not due solely to its reliance on quoted texts, which is a
 for a manuscript (see § 2.3), as it also seems to be pointed out by the following verse, which states that ‘a spot for the Śaiva knowledge, which starts with the *Kāmika*, has to be located in the south’.[^928] The section of the *Śivadharmottara* which extends from 2.109 to 2.118 and deals with the insertion of the manuscript into its box and its ritualised conveyance into a small building, the ‘abode of knowledge’ (*vidyāyatana*, 2.117), is amply quoted in this chapter of the *Ātmārthapūjāpaddhati*, which mixes the description of the *vidyāyatana* in *Śivadharmottara* 2.118 with *Uttarakāmika* 67.40–43, on the dimensions of the ‘hall of knowledge’ (*vidyāśālā*, see above) and of the throne of knowledge.[^929] Thus, in the interpretation given by the *Ātmārthapūjāpaddhati*, the ‘abode of knowledge’ described by the *Śivadharmottara* has only ritual functions, and is specifically employed for the veneration of the manuscript on its throne. This role complies with the prescriptions given by *Śivadharmottara* 2.118–22, although in this case we argued that this place could have in fact also functioned as a storehouse for the manuscripts (§ 2.3). In the *Ātmārthapūjāpaddhati*, this reference is immediately followed by the *Śivadharmottara*’s description of the lion-throne of knowledge (*vidyāsiṃhāsana*, 2.21–22), an implement that is now eventually subsumed under the tantric *pīṭha*-worship. This subsumption is additionally stressed by the line that Vedajñāna attaches to this quotation, in which the author gives a *mantra* for the veneration of the manuscripts and some instructions:[^930] ‘*Oṃ hāṃ*, obeisance to the descents of the Śaiva knowledge starting with the *Kāmika*! \[Obeisance to their\] seat! Having thus worshipped, one should later place on top of it a case \[containing\] the treasure of knowledge.’ Due to the assimilation of the lion-throne of knowledge and the throne of knowledge, *Śivadharmottara* 2.109–116 now becomes the core ritual description in this section of the *Ātmārthapūjāpaddhati*, so that the procedures of insertion of the manuscript in its box—manuscripts that, in Vedajñāna’s interpretation, are those of the 28 tantric scriptures ‘starting with the Kāmika’—and its installation in the ‘abode of knowledge’ now have to be reinterpreted as the basic sequence of activities of which the cult of the throne of knowledge consists. 
 
 [^928]: *Ātmārthapūjāpaddhati*, T 321 p. 273: *kāmikādiśivajñānaṃ sthānaṃ yāmyadiśi sthitaṃ*.
+
 [^929]: See *Ātmārthapūjāpaddhati*, T 321 p. 273.
+
 [^930]: *Ātmārthapūjāpaddhati*, T 321 pp. 273–74: *oṃ hāṃ kāmikādiśivajñānāvatārakebhyo āsanaṃ namaḥ* \[p274\] *iti saṃpūjya paścāt tadupari vidyākośamañjūṣaṃ sthāpayet*. ||
 
 *[p. 362]* ^pg375
@@ -69,9 +81,13 @@ for a manuscript (see § 2.3), as it also seems to be pointed out by the followi
  The *siddhāntaśravaṇavidhi* is more complex, as it involves topics that, from a simple ritualistic scheme, branch out into questions concerning scriptural authority and its classification. However, Vedajñāna maintains a taxonomic approach, never venturing into an elaborate doctrinal analysis. Connections with the chapter on the throne of knowledge, even though the two sections are not contiguous, can be immediately discerned in the first stanzas, which Vedajñāna 
 
 [^931]: *Ātmārthapūjāpaddhati*, T 321 p. 274: *atra vidyāpīṭhapūjā dvividhā* | *aparokṣā parokṣā ceti* | *tatra pratyakṣalikhitakāmikāditantraviṣayā pūjāparokṣā* | *maṇḍalapadmapīṭhādiviṣayā parokṣā.*
+
 [^932]: *Ātmārthapūjāpaddhati*, T 321 p. 274: *prathamāyām api sarvasaṃhitā vā svasaṃhitā vā pūjanīyā.*
+
 [^933]: *Ātmārthapūjāpaddhati*, T 321 pp. 274–75.
+
 [^934]: *Ātmārthapūjāpaddhati*, T 321 pp. 275–76.
+
 [^935]: *Ātmārthapūjāpaddhati*, T 321 p. 276. The author compounds into a single stanza two originally separated hemistiches, corresponding to *Śivadharmottara* 2.28cd and 2.29cd: ‘Having worshipped in this way the knowledge of Śiva, he should then worship the teacher’ (*sampūjyaivaṃ śivajñānaṃ guruṃ sampūjayet tataḥ* || 28); ‘One will worship with devotion \[him\] who reveals the knowledge of Śiva as if he were Śiva’ (*śivavat pūjayed bhaktyā śivajñānaprakāśakam* || 29). ||
 
 *[p. 363]* ^pg376
@@ -79,10 +95,12 @@ for a manuscript (see § 2.3), as it also seems to be pointed out by the followi
 attributes to a ‘section on rituals’ (*Kriyākāṇḍa*), stating that the study (of scriptures) has to take place at midday, after worshipping knowledge with flowers, perfumes and garlands, and after the veneration of the lotus-feet of the teacher.[^936] The manuscript of the scriptures is therefore ushered in to play its iconic role immediately before its teaching begins. The prescriptions concerning the procedures for studying and teaching the scriptures are started by the injunctions of *Svacchandatantra* 5.50–51ab, according to which[^937] ‘one should constantly meditate upon the scripture, and constantly teach it to devotees. A rite to be performed at the junction of the sun (*saṃdhi*) should not break off the daily rite, o beautiful face! One should not proclaim the practical illustration of a scripture (*śāstrapa-ddhati*) in front of the non-initiates!’. The text of the *Ātmārthapūjāpaddhati* continues by establishing some basic notions about the identification of scriptures according to their internal division into sections (*bheda*).[^938] After this, Vedajñāna again shifts the focus of attention to the material aspects of the transmission of knowledge, for manuscripts are regarded as the main focus of the whole process of teaching and learning, as will be stated later on by means of a quotation from the *Mṛgendra* (see below). As Vedajñāna simply puts it,[^939] ‘the Śaiva scriptures (*śivajñānāni*), after having been produced as manuscripts with leaves made of copper and so on, or with birchbark leaves, or with leaves made of Śrītāla; having produced manuscripts according to one’s own wealth and so on and to possibilities, with these characteristics; having written into them with a pen or with ink and so on, by using the Nāgara script and so on, they have to be recited’. Before illustrating the process of learning, the author therefore quotes texts that describe the different steps of the production of a manuscript, its copying, and its reading. This replicates the same basic pattern illustrated by the *Vidyādānādhyāya*—notably also the reference to the ‘Nandināgara’ script—although the 
 
 [^936]: *Ātmārthapūjāpaddhati*, T 371 p. 987: *tad uktaṃ kriyākāṇḍe* | *atha* \[em.: adhi° Cod.\] *vidyāṃ samabhyarcya puṣpagandhasṛgādibhiḥ* | *samyak saṃpūjayed bhaktyā guroś caraṇapaṃkaje* || *madhyāhnasamayaṃ yāvat kuryāt svādhyāyam īpsitam iti*.
+
 [^937]: *Svacchandatantra* 5.50–51ab (quoted in *Ātmārthapūjāpaddhati*, T 371 p. 987): *saṃhitāṃ cintayen nityaṃ bhaktānāṃ śrāvayet sadā* | *āhnikaṃ na vilumpet tu saṃdhyākarma varānane* ||
 50\. *adīkṣitānāṃ purato noccarec chāstrapaddhatim*. Kṣemarāja, in his commentary *ad loc*., glosses *saṃhitāṃ* (lit. ‘collection’) with *śaivaṃ śāstram*, the ‘Śaiva scripture’, and *śāstrapaddha-tim* with *pārameśaśāstraprakriyām*, the ‘procedures \[taught\] in the scriptures of the Supreme Lord’.
 
 [^938]: *Ātmārthapūjāpaddhati*, T 371 pp. 987–90.
+
 [^939]: *Ātmārthapūjāpaddhati*, T 371 p. 990: *atha śivajñānāni tāmrādinirmitapatrair vā bhūrja-pattrair vā śrītālapatrair vā yathāyādisaṃbhavaṃ salakṣaṇaṃ pustakāni saṃpādya teṣu sala-kṣadhā lekhinyā vā maṣyādinā vā nāgarādilipinā vilikhya paṭhitavyāni*. ||
 
 *[p. 364]* ^pg377
@@ -94,7 +112,9 @@ crucial element defining the *Śivadharmottara*’s version of the ritual, the g
  While the foregoing stanzas on the material components of manuscripts are devoid of any ritual elements, the situation changes when it comes to the phase 
 
 [^940]: *Ātmārthapūjāpaddhati*, T 371 pp. 990–91.
+
 [^941]: See, for instance, *Acintyaviśvasādākhya* 6.121–22, quoted in *Ātmārthapūjāpaddhati*, T 371 p. 992: ‘It has to be made out of palm leaf and so on according to its own measures (*scil*. of the measures of that kind of palm leaf), or alternatively out of copper, endowed with two holes. (121) / Having divided into four parts the length of the leaf, this will again be \[made\] into three parts \[by its height\], and there will be a median hole in the middle of both sectors \[resulting from the division\] into four and three parts. (122)’; *svapramāṇena kartavyaṃ tālapatrādinā bhavet* | *tāṃreṇa vātha kartavyaṃ suṣiradvayasaṃyutam* || 121 *patramānaṃ catuṣkṛtvā tat punas trividhaṃ bhavet* | *catustribhāgayor madhye madhyaṃ ca suṣiraṃ bhavet* || 122.
+
 [^942]: In the same way as manuscripts, cords can also be classified into a ‘major’ (*uttamā*), a ‘middle’ (*madhyamā*), and a ‘minor’ (*adhamā*) type: the first is made out of 27 cotton threads, the second of 18, while the last consists of 9 threads; see *Santāna*, quoted in *Ātmārthapūjāpaddhati,* T 371 p. 992: *kārpāsasūtraṃ gṛhṇīyād rajjuṃ kṛtvā viśeṣataḥ* | *saptaviṃśatisūtrais tu uttamā rajjur ucyate* || *aṣṭādaśe ca sūtreṇa madhyamā rajjur ucyate* | *navasūtreṇa saṃyuktā adhamā rajjur ucyate* ||. Also the following passage from the *Acintyaviśvasādākhya* concerns the topic of the *rajjupramāṇa*, the measure of the cord (see *Ātmārthapūjāpaddhati,* T 371 pp. 992–93). Having placed the manuscript, the secret, good scripture, on top of this \[spot of earth\], (32) / He should say \[to a student\] ‘Come, my son, read!’. Once he has fulfilled his duty, with his ||
 
 *[p. 365]* ^pg378
@@ -102,7 +122,9 @@ crucial element defining the *Śivadharmottara*’s version of the ritual, the g
 of transcription, as the act of copying and ‘transferring the scripture’ has to be carried out in the domesticated arena of the ritual. However, the *Ātmārthapūjāpaddhati* chooses not to rely on the lengthy procedures taught in the *Śivadharmottara*, the latter only being mentioned in stanzas 2.39–41, concerning the worship of the manuscript on the *śarayantra* and the injunctions to use the script ‘from the town of Nandi’. As for the writing procedures, Vedajñāna resorts to the already mentioned *Uttarakāmika* 67.7–18,[^943] while a brief citation from chapter 3 of the *Śivadharmottara* concerning the five divisions of the daily ‘sacrifice of knowledge’ (*jñānayajña*)[^944] marks the shift to the paragraph on reading and teaching procedures. The first part of this subsection of the *siddhāntaśravaṇa* is called the ‘sequence of teaching’ (*vyākhyākrama*), and is introduced by a short prose passage by Vedajñāna borrowing directly from *Mṛgendra*, *Caryāpāda* 1.31– 33, and Nārāyaṇakaṇṭha’s commentary on it. Vedajñāna refers to this chapter from the *Mṛgendra* more than once while treating this topic and deals extensively with the rules to follow when teaching the tantras, establishing in the first place that the recipients of such teachings are the Śaiva devotees who adhere to the rules (ś*ivabhaktebhyas* … *nyāyavartibhyaḥ*, 1.29). Pureness of the teacher (1.30) and of the spot where the teaching takes place (1.31) are essential requirements for starting; the teaching session can be carried out ‘in a place whose soil has been purified (*pūte mahītale,* 1.31)’, and ‘far from the ears of the non-initiates’ (*paśuśravaṇavarjite,* 1.31). It is at this point that the text makes its sole reference to the use of manuscripts as teaching tools, when it prescribes that, after worshipping Śiva, Ganeśa, and the teacher,[^945] 
 
 [^943]: See *Ātmārthapūjāpaddhati*, T 371 pp. 993–95.
+
 [^944]: *Śivadharmottara* 3.15, 16cd and 21, as quoted in *Ātmārthapūjāpaddhati*, T 371 p. 395: ‘Teaching, reciting, explaining, listening, meditating: thus is this sacrifice to knowledge (*jñānayajña*), renown as fivefold. (15) / \[…\] Out of really all rituals, the sacrifice to knowledge is the one conferring liberation (16)’; *adhyāpanam adhyayanaṃ vyākhyāṃ śravaṇacintanam* | *iti pañcaprakā-ro’yaṃ jñānayajñaḥ prakīrtitaḥ* || 15 \[…\] *sarveṣāṃ api yajñānāṃ jñānayajño vimuktidaḥ* || 16; *Śivadharmottara* 3.21: ‘At the beginning, \[he has to practice\] the listening; still during the performance, the meditation; \[then\] for him (*scil*. the student), in the end there is the raising of the awareness, \[namely\] the purification’; *ārambhakāle śravaṇaṃ kriyākāle ’pi cintanam* | *niścayodbhāvanaṃ tasya niṣṭhākāle prasannatā* || 21.
+
 [^945]: *Mṛgendra*, *Caryāpāda* 1.32cd–33: *pustakaṃ guptasatsūtraṃ vidhāyopari kasyacit* || 32 *brūyād aṅga paṭhasveti kṛtārthaḥ* \[em., kṛtārthaṃ ed.\] *prāgudaṅmukhaḥ* | *prārabheta gurur vyākhyāṃ saṃbandhārthoktipūrvikām* || 33. ||
 
 *[p. 366]* ^pg379
@@ -114,6 +136,7 @@ The text of the last stanzas is borrowed literally in the introductory prose pas
  Following the prescriptions of the *Mṛgendra,* the manuscript therefore exercises its textual function during the teaching, in which a student is charged with the reading. Vedajñāna only evokes these stanzas of the *Mṛgendra* in the introductory passage, but then he quotes it immediately after a block of quotations dealing with the five different currents (*srota*s) that correspond to the five faces of Śiva. The scriptures are classified according to the five faces of Sadāśiva from which they have allegedly been emitted.[^947] The prescriptions concerning the beginning of a teaching session are then drawn from the *Mataṅga* (*Caryāpāda* 
 
 [^946]: *Ātmārthapūjāpaddhati*, T 371 p. 395: ‘On a spot of earth that is devoid of defects such as worn-out \[structures\] and so on, purified from deformed things by means of unguents and so on, which has been kept away from the hearing of the non-initiated, having worshipped the supreme Lord who stays within the enclosure consisting in the boundaries set † by these purification \[rules\]†, \[as well as\] the teacher and the lord of the Gaṇas, having placed a manuscript of the scriptures etc. that are used during the performance of the teaching, \[namely\] a secret, good scripture, on top of something, he should say to an accomplished person, ‘Young man, \[read\]!’, facing eastwards’; *jīrṇādidoṣarahite* \[em.; °rahito Cod.\] *kurūpalepanādipavitrite* \[pavitrate Cod.\] *adīkṣitaśravaṇavarjite* \[em., °śravaṇe varjite Cod.\] *bhūtale tacchodhanakṛtamaryādātmakapa-ridhyantarasthaṃ* \[em.; tacchodana° Cod.\] *parameśvaraṃ guruṃ gaṇeśvarañ cābhyarcya vyākhyākriyopayogisūtrādipustakaṃ guptasatsūtraṃ vidhāyopari kasyacit brūyād aṅga* &lt;paṭha> *vastveti kṛtārthaḥ* \[em., kṛtārthaṃ Cod.\] *prāṅmukhaḥ* |. Instead of *tacchodanakṛtamaryādātmakaparidhyantarasthaṃ,* Nārāyaṇakaṇṭha has *sūtroccāṭa-nakṛtamaryādātmakaparidhyantarasthaṃ*, an expression that Brunner-Lachaux interprets as ‘au centre de barriers constituées par des raies-frontières obtenues en lânchant un cordonnet \[imprégnè de poudre de riz\]’ (Brunner-Lachaux 1985, pp. 361–62).
+
 [^947]: On this, Vedajñāna quotes *Mṛgendra*, *Caryāpāda* 1.34–37 (*Ātmārthapūjāpaddhati*, T 371 pp. 995–96), according to which (see stanzas 34–35) the scriptures starting with the *Kāmika* are part of the upward current, those starting with the *Asitaṅga* are part of the southern current, while those starting with the *Saṃmoha* constitute the northern current; the scriptures starting with the *Trotala* are further classified into the eastern current, while those starting with the *Caṇḍāsidhāra* belong to the western current. A further classification of scriptures into eight currents, referred to Śiva, the Mantreśvaras, the Gaṇas, the gods, the seers, the Guhyas, the Yoginīs, and the Siddhas, is given in stanzas 36cd–37.
 
 *[p. 367]* ^pg380
@@ -125,9 +148,13 @@ The text of the last stanzas is borrowed literally in the introductory prose pas
 || 
 
 [^948]: *Ātmārthapūjāpaddhati*, T 371 pp. 996–98.
+
 [^949]: *Mataṅga*, *Caryāpāda* 3.7cd–8, see *Ātmārthapūjāpaddhati*, T 371 p. 996: ‘\[The student\] should read, commanded by him (*scil.* the teacher), in a pure place with pure soil, (7) / Concealed, free from people, beautiful; \[he should read\] with a well-disposed mind. A wise man should not teach in the presence of non-initiates (8)’; *paṭhet tu tadanujñāta*<ḥ> *śucau deśe śucisthale* \[śuciḥ sadā Mat\] || 7 *pracchanne* \[pracchade Cod.\] *vijane ramye bhāvitenāntarātmanā* || *samīpe na* \[na samīpe Mat\] *paśūnāṃ tu kuryād adhyāpanaṃ* \[Mat; na kuryād dhyāpanam Cod.\] *budhaḥ* || 8. A *varia lectio* in the last stanza highlights a difference in the interpretation between the text of the critical edition of the *Mataṅga* and the text transmitted in the manuscript of the *Ātmārthapūjāpaddhati*, although the latter originates most likely from a corruption of the former: according to the *Ātmārthapūjāpaddhati*, a wise teacher should not allow meditation to be performed in the presence of non-initiates, while the text of the *Mataṅga* reads, more coherently, that he should not teach (*adhyāpanam*). Given the bad state of preservation of the *Ātmārthapūjāpaddhati*, accessible to me only through recent paper transcripts, and the easy confusion between these two very similar readings, I have reintroduced here the reading of the critical edition of the *Mataṅga*. I have not done so, however, in the case of the first variant in stanza 7, as it is less obvious there that the reading of the *Ātmārthapūjāpaddhati* originates from a corruption of the *Mataṅga*’s text.
+
 [^950]: Here the text prescribes that, on the first day, the teacher explaining a tantra should not be too quick in his exposition, nor students should ask too many questions; rather, he should pause after explaining one, two, or three ‘root-*sūtra*s’ (*mūlasūtra*).
+
 [^951]: *Ātmārthapūjāpaddhati,* T 371 p. 978: *saṃskṛtaprākṛtāditattaddeśocitabhāṣārūpaiś śiṣyānu-rūpair vākyaiḥ.*
+
 [^952]: *Ātmārthapūjāpaddhati*, T 371 pp. 999–1000.
 
 *[p. 368]* ^pg381
@@ -150,6 +177,7 @@ initiation, nor do they prohibit the access to manuscripts of non-initiates. Rat
 ||
 
 [^956]: *Ātmārthapūjāpaddhati*, T 371 p. 1006: *uttamaṃ sarvaśāstrāṇāṃ śivaśāstrārthaṃ guha* | \[c.m.\] *guhyataraṃ guhyātavyaṃ prayatnataḥ* || \[c.m.\] *nāśiṣyāya pradātavyaṃ nābhaktāvya na nāstike* | *na gurudveṣiṇe caiva nānyaśāstraratāya ca* ||. The source of this quotation is *Sarva-jnānottara* 15.30cd–31. A comparison with the latter can thus help in reconstructing the correct text, which should be: *uttamaṃ sarvaśāstrāṇāṃ śivaśāstrāmṛtaṃ guha* || 30 *guhyaguhyataraṃ guhyaṃ gūhitavyaṃ prayatnataḥ* | *sa śiṣyāya pradātavyo nābhaktāya na nāstike* || 31.
+
 [^957]: *Ātmārthapūjāpaddhati*, T 371 pp. 1162–68. ||
 
 *[p. 370]* ^pg383
@@ -159,7 +187,9 @@ initiation, nor do they prohibit the access to manuscripts of non-initiates. Rat
  In the first place, the installation of the throne of knowledge, in addition to the production of a manuscript, also encompasses its copying, which is then followed by a revision, modelled precisely after the ceremony outlined in *Uttarakāmika* 67. In order to describe (and prescribe) the transcription of the manuscript, Vedajñāna quotes from *Acintyaviśvasādākhya* 65.7cd–11ab, parallel to *Uttarakāmika* 67.6cd–9 (see Appendix 2), on the use of letters ‘originating from various places’ (*nānādeśasamudbhūtair*, see above, *Uttarakāmika* 67.9), and 
 
 [^958]: For this Vedajñāna refers to *Acintyaviśvasādākhya* 65.2–5, parallel to *Uttarakāmika* 67.2–4 (see this chapter, fn. 0 and Appendix 2 for the parallels); see *Ātmārthapūjāpaddhati*, T 371 p. 1162–63.
+
 [^959]: *Vīratantra*, quoted in *Ātmārthapūjāpaddhati*, T 371 p. 1163: *yajamānasya ṛkṣeṇa nakṣatraṃ cānukūlakam* | *evaṃ parīkṣya bahudhā kartavyaṃ pustakaṃ param* ||.
+
 [^960]: On this topic, Vedajñāna quotes from the same *Santāna* passage on the cords that he had used in the chapter on the *siddhāntaśravaṇa*, followed by the *Yogaja* and *Uttarakāmika* 67.5–6 concerning writing materials (see *Ātmārthapūjāpaddhati*, T 371 pp. 1163–64). The *Yogaja* differs from the already discussed stanzas of the *Uttarakāmika* inasmuch as it classifies the materials for writing according to the usual tripartite scheme: ‘And the best is the golden leaf, the middle the silver leaf, whereas the copper leaf and the palm leaf are the lesser: thus has been taught’; *uttamaṃ hemapātrañ ca madhyamaṃ raupyapātrakam* | *tāmrapātraṃ tālapātraṃ kanyasan tv iti kīrtitam* || (see *Yogaja* quoted in *Ātmārthapūjāpaddhati*, T 371 p. 1163). ||
 
 *[p. 371]* ^pg384
@@ -169,10 +199,15 @@ initiation, nor do they prohibit the access to manuscripts of non-initiates. Rat
  The description of the ritual procedures of which the installation of the throne of knowledge essentially consists relies in part on the account given by *Uttarakāmika* 75.38–48, and in part on a parallel account provided by the *Vīratantra*.[^966] The first to be quoted is a passage from the latter dealing with setting up the ground where the ritual will take place: a pillared pavilion has to be built in front of (the temple) of Śiva, either in the northeast or in the south and, dividing this *maṇḍapa* into three sections, a *vedī*-altar has to be arranged in the middle, and five *kuṇḍa*s 
 
 [^961]: See *Ātmārthapūjāpaddhati*, T 371 pp. 1164–65.
+
 [^962]: *Vīratantra* quoted in *Ātmārthapūjāpaddhati*, T 371 p. 1165: ‘Then one should write a manuscript with six lines, or five. \[…\]’; *ṣaṭpaṅktiṃ vātha pañcaiṣā* (?) *lekhayet pustakaṃ tataḥ* | \[...\].
+
 [^963]: As a continuation of the former hemistich on the number of lines to inscribe on the page of a manuscript, the *Vīratantra* declares: ‘\[…\] \[the manuscript\] thus endowed with \[good\] features \[causes\] the growth of the king’s kingdom’; \[…\] *evaṃ lakṣaṇasaṃyuktaṃ rājarāṣṭravivardhanam* || (see *Vīratantra* quoted in *Ātmārthapūjāpaddhati*, T 371 p. 1165). The verse is not a literal parallel of *Uttarakāmika* 67.32, but it conveys a very close idea.
+
 [^964]: See *Ātmārthapūjāpaddhati*, T 371 p. 1165 (corresponding to *Acintyaviśvasādākhya* 65.13cd– 14ab): ‘One who is part of the *śuddhaśaiva*s should write the manuscript of the Śaiva knowledge or \[practice its\] recitation, because of \[its\] old age after a long time’; *śuddhaśaivasamāyukto likhed vā pāṭhadhāraṇam* | *dīrghakālena jīrṇatvāc chivajñānasya pustakam* ||. Here, the text seems to exhort the copying and recitation of a manuscript in order to counter the damages caused by time.
+
 [^965]: *Ātmārthapūjāpaddhati*, T 371 pp. 1165–66.
+
 [^966]: *Ātmārthapūjāpaddhati*, T 371 pp. 1166–68. ||
 
 *[p. 372]* ^pg385
@@ -180,7 +215,9 @@ initiation, nor do they prohibit the access to manuscripts of non-initiates. Rat
 all around; the sacrificial ground has to be prepared with rice in the southwest. [^967] The officiant will then lay the manuscripts of the Scriptures on a bed, accompanying this operation by the recitation of their ‘seed *mantra*s’ (*bījamantra*), which are expounded in the following stanzas. At this point, Vedajñāna quotes *Uttarakāmika* 67.45–48, prescribing the different steps of the installation (see above): the worship of Śiva’s eight aspects and the deities presiding over them, as well as the worship of Śiva in the Śaiva section of the scriptures and of Rudra in the Raudra section, then the worship by means of vases, the worship of the Vidyeśas, and the performance of a *homa*oblation.[^968] The *Vīratantra* further prescribes that, after the oblation, one should sprinkle the manuscripts of the Scriptures with the *vardhanī*-water—note that the *Uttarakāmika* had referred to a worship of two *vardhanī*-vessels in 67.46b; however, in order to perform their consecration (*abhi-ṣeka*), it is not the manuscripts that are directly sprinkled, but the reflection of their images in a mirror.[^969] 
 
 [^967]: See *Vīratantra*, quoted in *Ātmārthapūjāpaddhati*, T 371 p. 1166: *śivāgre maṇṭapaṃ kuryād īśāne dakṣiṇe ’pi vā* | *maṇṭapaṃ nu tridhā kṛtvā madhye vedīṃ prakalpayet* || *vedibāhye tu paritaḥ pañca kuṇḍāni kārayet* | *maṇṭapān naiṛraiṃte bhāge śālinā sthaṇḍilaṃ kuru* ||.
+
 [^968]: *Ātmārthapūjāpaddhati*, T 371 p. 1167.
+
 [^969]: *Vīratantra* quoted in *Ātmārthapūjāpaddhati*, T 371 p. 1165: ‘In order to perform the worship of the various scriptures, one should sprinkle \[them\] with the *vardhanī*-waters in a mirror \[placed\] nearby; one will \[thus\] perform its consecration’; *tattadāgamapūjane* \[em.; pūjena Cod.\] *prokṣayed vardhanījalaiḥ* || *saṃnidhau darpaṇe tasya abhiṣekaṃ tu kārayet*.
 
 *[p. 373]* ^pg386

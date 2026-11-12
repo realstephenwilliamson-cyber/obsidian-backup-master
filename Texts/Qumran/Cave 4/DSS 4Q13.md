@@ -23,7 +23,8 @@ aliases:
 |---|---|
 | Frag. 1 | Exod 1:1-6 |
 | Frag. 2 | Exod 1:16-21 |
-| Frag. 6 ii | Exod 5:3-14 |
 | Frag. 3 i-4 | Exod 2:2-18 |
+| Frag. 3 ii, 5-6 i | Exod 3:13 - 4:8 |
+| Frag. 6 ii | Exod 5:3-14 |
 
 [[DSS 4Q12|← 4Q12]] · [[Qumran|index]] · [[DSS 4Q14|4Q14 →]]

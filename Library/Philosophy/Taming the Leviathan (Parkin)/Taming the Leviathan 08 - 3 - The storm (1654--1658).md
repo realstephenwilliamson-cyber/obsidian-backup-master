@@ -29,10 +29,15 @@ One of the most decisive political changes to affect the reception of Leviathan 
 Too little is known of Hobbes’s activities in the early 1650s to say with any certainty that the philosopher himself, then engaged in writing De Corpore in London, involved himself with the new regime, although the suggestion that he did would become a feature of attacks upon him after the Restoration.[^2] What is clear is that many of Hobbes’s friends, who often shared his political and religious views, were keen supporters of, or at least happy to be associated with, the Protectorate. Hobbes’s friend Edmund Waller was Cromwell’s second cousin, and expressed enthusiasm to Hobbes about his kinsman’s regime[^3] whilst William Davenant appears to have enjoyed the personal favour of the Protector.[^4] William Petty, who had been part of the Cavendish circle in France and who had provided some of the drawings for Hobbes’s optical treatises, served the Cromwellian government in Ireland.[^5] Then there were the English Catholic natural philosophers Hobbes had known in exile, Kenelm Digby and Thomas White. By 1652 White was back in England and, according to Wood, frequently in Hobbes’s company.[^6] As we shall see shortly, White would seek to justify his obedience to Cromwell’s regime using a theory close to Hobbes’s own. Digby returned to England in 1654 and became an intimate of Cromwell, serving as a diplomatic representative of the Protectorate.[^7] In addition to old friends, Hobbes appears to have been associating with other anti-clerical supporters of the new regime including the translator John Davies of Kidwelly, and his friend the Mercurius Politicus war correspondent John Hall of Durham. Davies may well have known Hobbes in France; Hall had, of course, picked out Hobbes’s ambivalence about monarchy in De Cive, but his defence of the dissolution of the Rump suggests that he had become more sympathetic to Hobbesian ideas of
 
 [^2]: For evidence of Hobbes’s complicity with the new regime, see chapter 5 of Collins’s The allegiance of Thomas Hobbes. For Restoration attacks on Hobbes’s conduct see John Dowel, Leviathan heretical, p. 137, Ursa major and minor 19. See also Samuel Morland’s comments in 1691 about Hobbes’s hopes for a government pension. Lambeth MS 931 f.6.
+
 [^3]: For Waller’s enthusiasm for Cromwell, see J. R. Collins, The Allegiance of Thomas Hobbes, (Oxford, 2005), pp. 177–8.
+
 [^4]: M. Edmond, Rare Sir William Davenant: Poet Laureate, Playwright, Civil War General, Restoration Theatre Manager (Manchester, 1987), p. 133, J. R. Jacob and T. Raylor, ‘Opera and Obedience: Thomas Hobbes and ‘‘A propositon for Advancement of moralitie’’ by William Davenant’, Seventeenth-century Studies, 61 (1991), pp. 207–8.
+
 [^5]: For Petty’s career see E. Strauss, Sir William Petty: Portrait of a Genius (1954), and the comments in Collins, The Allegiance of Thomas Hobbes, pp. 192–4.
+
 [^6]: Wood, Athenae Oroniensis, III, col. 1247; see J. Peacey, ‘Nibbling at Leviathan: Politics and Theory in England in the 1650s’, Huntington Library Quarterly 61: 2, p. 250.
+
 [^7]: Collins, The Allegiance of Thomas Hobbes, pp. 178–9.
 
 *[p. 138]* ^pg151
@@ -44,7 +49,9 @@ That said, although recognisably Hobbesian ideas do appear in works sympathetic 
 This process can be seen in one of the most influential ‘Cromwellian’ works, Thomas White’s The grounds of obedience and government (1655), written at the behest of Kenelm Digby and with the purpose of legitimating submission to Cromwell’s regime. Critics of The grounds would quickly move to convict White of cribbing his argument from Leviathan.[^9] Although there was some truth in this, it is also important to recognise the considerable differences of emphasis and occasional downright disagreements between the two writers.[^10] In general what Hobbes and White share is a scepticism about the possibility of rational agreement in the state
 
 [^8]: Peacey, ‘Nibbling’, pp. 246–7. Hall’s Confusion confounded (1654) refers to Hobbes in passing as a ‘learned Modern’ (p. 9) and has a distinctively Hobbesian ‘tone’, attacking the religious fundamentalism of the Rump’s MPs (p. 3) and making the case for an Erastian civil religion (p. 18).
+
 [^9]: George Leyburn, Henrietta Maria’s chaplain, commented that The grounds was ‘cut out of Mr Hobbe’s Leviathan’. For more on White see particularly B. C. Southgate, ‘ ‘‘That Damned Booke’’, the Grounds of obedience and government (1655) and the Downfall of Thomas White’, Recusant History 17 (1985), pp. 238–53. Leyburn is quoted on p. 245. See also the comments in Collins, The Allegiance of Thomas Hobbes, p. 180.
+
 [^10]: This is consistent with Wood’s remarks that when Hobbes and White met, they ‘seldom parted in cool blood: for they would wrangle, squabble and scold about philosophical matters like young Sophisters’. Wood, Athenae, p. 497.
 
 *[p. 139]* ^pg152
@@ -56,9 +63,13 @@ Government is, naturally, a power or right of directing the common affaires of a
 White’s repeated emphasis upon the common good is another feature of his neo-Aristotelian theory in tension with Hobbes’s distinctive individualism. For White, the focus upon the common good is what binds the interests of subjects and governors together. White’s sovereign is entrusted with the task of identifying and pursuing the common good and this is the source of his supreme power, but also the condition of his rule. The governor’s determination of what the common good is allows him the power to override oaths and laws,[^15] but at the same time a governor’s failure to pursue the common good leads to his own downfall. Just as the common
 
 [^11]: T. White, The grounds of obedience and government (1655), pp. 47–8.
+
 [^12]: Ibid. See also p. 79. For discussion of this point see S. State, Thomas Hobbes and the Debate Over Natural Law and Religion (New York, 1991), pp. 132–3.
+
 [^13]: White, The grounds of obedience and government, pp. 42–4.
+
 [^14]: Ibid., p. 44.
+
 [^15]: Ibid., pp. 88–94.
 
 *[p. 140]* ^pg153
@@ -72,11 +83,17 @@ reductive effects of Hobbes’s individualism but at the same time delivered an 
 We can find a similar combination of critique and adaptation in a work published in 1654 by another and rather different John Hall. John Hall of Richmond had been a minor courtier before the civil war, working as comptroller of the royal household. During the 1640s he was a servant to
 
 [^16]: Ibid., p. 123.
+
 [^17]: Ibid., pp. 135–7.
+
 [^18]: Ibid., p. 154.
+
 [^19]: Ibid., pp. 65–7.
+
 [^20]: Ibid., pp. 53–67.
+
 [^21]: Ibid., p. 66.
+
 [^22]: See pp. 158–171; on p. 159, White attacks those who cite the Book of Samuel’s tyrannical jus regis as a description of the power of monarchs; a move, of course, made by Hobbes in chapter 20 of Leviathan, p. 143.
 
 *[p. 141]* ^pg154
@@ -88,9 +105,13 @@ nature is immediately evident; it is usually supposed to be a ‘confused condit
 Therefore that which hath hitherto been spoken of the original of Government . . . must be understood onely as supposing it to have its Reason in Nature, and that thereby it might have been known, although the same had been by no other light or positive Law found out and appointed: and not as determining that ever men were, or could be left by a careful God in such a confused condition, where, like a brood of Cadmus, wanting all manner of Breeding and Instruction, they should
 
 [^23]: J. Hall, Of government and obedience as they stand directed and determined by Scripture and reason four books ( 1654), A2r.
+
 [^24]: For Hall’s linguistic limitations see Duppa’s comments. G. Isham (ed.), The Corrrespondence of Bishop Brian Duppa and Sir Justinian Isham 1650–1660 (Northamptonshire Record Society 17 (1951)), Duppa to Isham, 20 January 1656, p. 118.
+
 [^25]: Hall, Of government and obedience, p. 9.
+
 [^26]: Ibid., p. 10.
+
 [^27]: Compare Hall’s remarks on willing (p. 10) with p. 4 of Digges’s The unlawfulnesse of subjects taking up armes against their soveraigne.
 
 *[p. 142]* ^pg155
@@ -102,11 +123,17 @@ For if John say to Thomas, I give you all my right in governing my self, on cond
 Having arrived at that conclusion, Hall liberally helps himself to arguments that Hobbes had used to legitimate his account of absolute sovereignty. Like Hobbes, Hall thought that many mistaken ideas in politics and Christianity stemmed from the inappropriate use of Greek ideas, and he appeals to the thought that accusations of tyranny and slavery were empty charges levelled at legitimate regimes the republican Greeks simply disliked.[^33] He also argues less convincingly that slaves could often be better off than ‘free’ men.[^34] Further Hobbesian consequences followed from Hall’s dim view of liberty, not least the thought that in obeying the prince the
 
 [^28]: Hall, Of government and obedience, p. 79; see also pp. 95 and 110.
+
 [^29]: Ibid., p. 28.
+
 [^30]: Ibid., p. 166, cf. Leviathan, p. 120.
+
 [^31]: Hall, Of government and obedience, p. 167, cf. Filmer, Observations, p. 185.
+
 [^32]: Hall, Of government and obedience, p. 58; indeed Hall argues that any other forms (e.g. aristocracy and democracy) are simply anarchy by another name.
+
 [^33]: Ibid., p. 94; Cf. Leviathan, pp. 470–1.
+
 [^34]: Hall, Of government and obedience, pp. 124, 126–7.
 
 *[p. 143]* ^pg156
@@ -120,11 +147,17 @@ When it came to the tricky question of obeying de facto powers, Hall’s theory,
 since the destruction of their former government must be acknowledged unlawful, they are to consider that till they return to that form again they are in no true political way, but do altogether depend upon the natural way of continual force.[^39] In practice this meant that the English republic represented an illegitimate exercise of force. That said, Hall’s analysis may have brought a smile to the faces of Cromwellians when he pointed out that once monarchic rule was restored, in any form, so was legitimacy.[^40] Hall’s theory differs from Hobbes’s in this exclusive focus on the role of one-man rule, but although Hall rejects Leviathan’s contractarianism and its theory of representation (which allowed Hobbes to countenance non-monarchic forms of sovereign representative), he nevertheless takes on board some of the more controversial features of Hobbes’s absolutism, not least his authoritarianism and his Erastianism. It was probably for that reason that Brian Duppa commented to Justinian Isham that compared with Leviathan Hall had ‘better grounds laid, though I do not approve all his super-structions’.[^41] Hall’s
 
 [^35]: Ibid., p. 121.
+
 [^36]: Ibid., pp. 132, 136.
+
 [^37]: Ibid., pp. 227, 240–1, 243–4, 254, 259–60.
+
 [^38]: Ibid., pp. 341, 339.
+
 [^39]: Ibid., pp. 188–9.
+
 [^40]: Ibid., p. 204.
+
 [^41]: Isham, Correspondence, Duppa to Isham, 1 August 1654, p. 91.
 
 *[p. 144]* ^pg157
@@ -136,13 +169,21 @@ Ironically the return to favour of monarchist thought may well have made De Cive
 and as Mr Hobs, a sure and irresistible power conferreth the right of dominion and ruling over those cannot resist; and the conqueror may by right compel the conquered, unless he will choose to dye, or give caution of his future obedience, which is a just right and title, surmounting and swallowing all other rights.[^47] Hawke then follows this up with an extravagant paean to monarchy and the benefits of unitary control that echoes Hall.[^48] True natural liberty, argues Hawke, can only be found by living in accordance with the rules of the state.[^49] Kings and emperors were originally priests and in England the king is a ‘mixed person’ with a priest.[^50] Hawke would make the same use of De Cive to vindicate Cromwell’s right to rule in his 1657 pamphlet Killing is
 
 [^42]: Mercurius Politicus 208 (1–8 June 1654), 3540 see also Peacey, ‘Nibbling’, p. 255.
+
 [^43]: M. Hawke, The right of dominion, and property of liberty, whether natural, civil, or religious (1655), p. 25. Hobbes is also cited in support of the peaceable quality of natural law on pp. 27, 30.
+
 [^44]: Ibid., pp. 32–4.
+
 [^45]: Ibid., p. 45.
+
 [^46]: Ibid., p. 41.
+
 [^47]: Ibid., p. 50.
+
 [^48]: Ibid., pp. 70–7.
+
 [^49]: Ibid., pp. 105–6.
+
 [^50]: Ibid., pp. 137–9.
 
 *[p. 145]* ^pg158
@@ -156,7 +197,9 @@ H O B B E S A N D T H E U N I V E R S I T I E S
 Hobbes may have been gaining a more attentive readership amongst Cromwellian supporters of the Protectorate, but the anxiety that those in power might take Hobbes’s views seriously may have prompted Hobbes’s Anglican and Presbyterian opponents to launch a more systematic assault upon both his reputation and his philosophy. One area where Leviathan posed a particular threat was in Hobbes’s hostility towards the universities. This had been a feature of Hobbes’s political theory from the very beginning and his early readers had all taken note of it.[^53] For Hobbes the false doctrines inculcated in the clerically dominated universities had been one of the main sources of political and religious conflict, and by the time he wrote Leviathan he had developed an elaborate historical and sociological
 
 [^51]: M. Hawke, Killing is murder, and no murder (1657), pp. 7 (where Hawke now argues that the Hobbesian state of war began after the Fall), 12.
+
 [^52]: See, for example, Lord Saye and Sele’s comments to Lord Wharton in December 1657, where he complains that the maxim ‘whear thear is might thear is right, it is dominion if it succeed, but rebellion if it miscarry’ is ‘fitter for hobbs & athiests then good men and christians’. C. H. Firth, ‘A Letter from Lord Saye and Sele to Lord Wharton’, English Historical Review 10 (1895), p. 107.
+
 [^53]: Hobbes, Elements of Law, 28.8.
 
 *[p. 146]* ^pg159
@@ -168,7 +211,9 @@ a Joyning together, and an Incorporation under one Government of many Publique S
 profitably printed, and more profitably taught in the Universities . . . For seeing the Universities are the Fountains of Civill, and Morall Doctrine, from whence the Preachers, and the Gentry, drawing such water as they find, use to sprinkle the same (both from the Pulpit, and in their Conversation) upon the People, there ought to be great care taken, to have it pure, both from the Venime of Heathen Politicians, and from the Incantation of Deceiving Spirits.[^55] Although Hobbes was unusual in suggesting the imposition of his own views upon the universities, he was not alone in his view that the universities were in need of reform. Similar demands were also emerging from religious radicals, and this led to serious discussions in the Nominated Assembly about the ‘propriety of suppressing universities and all Schools for learning as heathenish and unnecessary’.[^56] The suggestion provoked a pamphlet discussion in the autumn of 1653 where two radical ex-army chaplains, John Webster and William Dell (now intruded Master of Gonville and Caius College in Cambridge), argued the case for radical reform. The most celebrated product of the debate, Webster’s Academiarum examen, was addressed to Major General John Lambert and appeared a few days after Cromwell was installed as Lord
 
 [^54]: Hobbes, Leviathan, ch. 46, p. 462 \[370 O.P.\].
+
 [^55]: Ibid., p. 491.
+
 [^56]: Barbara Shapiro, John Wilkins 1614–72 (Berkeley, 1969), p. 97; N. Malcolm, Aspects of Hobbes (Oxford, 2002), p. 326.
 
 *[p. 147]* ^pg160
@@ -180,8 +225,11 @@ yea even our own Countreyman master Hobbs hath pieces of more exquisiteness, and
 Ward’s main tactic is to steal Hobbes’s thunder, elaborating in print the arguments that he had put to Hobbes in person shortly after his return
 
 [^57]: Thomason received his copy on 19 December; Webster’s address to Lambert was dated 21 October.
+
 [^58]: J. Webster, Academiarum examen (1654), p. 88.
+
 [^59]: Thomason received his copy on May 26.
+
 [^60]: S. Ward, Vindiciae academiarum containing some briefe animadversions upon Mr Websters book stiled, The examination of academies (Oxford, 1654), p. 51.
 
 *[p. 148]* ^pg161
@@ -193,10 +241,15 @@ Ward gives a similar treatment to Hobbes’s claim in chapter 47 of Leviathan th
 This strategy is followed in Ward’s dissection of the argument of chapter 46 of Leviathan, which forms an extended attempt to demonstrate that the universities actually do all the things that Hobbes claims that they do not. In the first instance this involves denying the thought that the Greek intellectual heritage decried by Hobbes had, as he claimed, retarded the development of geometry. Ward cites a roll call of ancient geometers to falsify Hobbes’s position, and to suggest that Hobbes’s ignorance betrays the fact that he may not be as good a mathematician as he pretends to be. With regard to Hobbes’s definition of a university, Ward argues that it is defective in that English universities are regulated by the civil power, and that the universities have opposed the Roman Catholic church. Aristotle was not the sole authority and university dons knew more about geometry than Hobbes would find comfortable.[^66] Ward suggests that Hobbes’s sketch of university backwardness may have been true when he was a
 
 [^61]: See above, pp. 117–18.
+
 [^62]: Hobbes’s charge is made in Leviathan, chapter 4.
+
 [^63]: Ibid., p. 53; see also p. 7 where the same charge is made by Wilkins.
+
 [^64]: For discussion of the plagiarism charge see J. Prins, ‘Ward’s Polemic with Hobbes on the Sources of his Optical Theories’, Revue d’histoire des sciences 46: 2 (1993) and D. Jesseph, Squaring the Circle: The War between Hobbes and Wallis (Chicago, 1999), p. 68.
+
 [^65]: Ward, Vindiciae, p. 54.
+
 [^66]: Ibid., p. 58.
 
 *[p. 149]* ^pg162
@@ -206,6 +259,7 @@ student at Oxford in the early part of the century but it certainly wasn’t the
 Nevetheless, another major aim of the Vindiciae was to paint a picture of Hobbes designed to ruin his reputation and remove his authority as a mathematician and a scientist, thus neutralising one major source of his influence. In a portrait that would become one of the standard images of the philosopher, Ward portrayed Hobbes as an old man who was out of date and out of touch, whose useful scientific theories were stolen from others, and whose assault upon the universities was simply the result of an extraordinary arrogance. In his preface John Wilkins had made the usual reference to Hobbes’s ‘good ability and solid parts’, but had followed it up by observing that Hobbes was ‘otherwise highly magisteriall, and one that will be very angry with all that do not presently submit to his dictates’.[^68] The Vindiciae’s portrait of Hobbes would become one of the most influential descriptions of the philosopher, fusing popular understandings of Hobbes’s political doctrine with his personal character. The correspondence networks were soon buzzing with news of the attack. In August, Brian
 
 [^67]: Ibid., pp. 59–60. The list of theological positions includes the following propositions: ‘That any body may be in many places, many in one; That gravity is the cause of heavinesse; That quality is put into Body already made; That the Soule of man is Poured into the body, meaning it literally and grossely; That the power of willing is the (totall) cause of Actual willing; That Fortune or Ignorance, is an occult cause of things, although we may professe to know the causes of all things.’ The moral errors listed by Ward from Hobbes text are: ‘That one makes things Incongruent, and the other Incongruity; That private appetite is the rule of publick good; Lawfull Marriage is unchastity; That all Government but Popular is Tyranny; That not Men but Law Governes; That humane Lawes ought to extend to the inquisition of mens Thoughts and Consciences, notwithstanding the conformity of their Speeches and Actions; That private men may interpret the Law, and restraine where the Soveraign hath left a liberty.’
+
 [^68]: Ibid., p. 6.
 
 *[p. 150]* ^pg163
@@ -217,8 +271,11 @@ The anti-Hobbes strategy revealed in the Vindiciae did not augur well for the re
 Hobbes was unable to resist counter-attacking Ward, assaulting one of his demonstrations of the finitude of the world from the Philosophicall essay, but more disastrously taking up the geometrical challenge laid down in the Vindiciae. One of Hobbes’s ambitions for his new materialist geometry was that it would allow the solution of some of the traditional problems in mathematics, such as the quadrature of the circle. Chapter 20 of De Corpore included several attacks upon Ward together with what Hobbes hoped would be the first successful demonstration of the squaring of the circle. Unfortunately, as some of Hobbes’s friends pointed out to
 
 [^69]: Isham, Correspondence, Duppa to Isham, 1 August 1654, pp. 91–2. Duppa refers to the insults delivered by Ward on p. 54 of the Vindiciae.
+
 [^70]: The dedication, to William Cavendish, is dated 23 April 1655; Thomason dated his copy 31 May. See K. Schuhmann, Hobbes, une chronique (Paris, 1998), p. 136.
+
 [^71]: Hobbes, EW, I, p. 70.
+
 [^72]: Jesseph, Squaring the Circle, p. 74.
 
 *[p. 151]* ^pg164
@@ -230,8 +287,11 @@ Hobbes’s new work soon attracted the attention of a man who would become one o
 The Elenchus is a lengthy condemnation and rejection of Hobbes’s novel approach to mathematics and natural philosophy. ‘Who ever, before you’, asked Wallis, ‘defined a point to be a body? Who ever seriously asserted that mathematical points have any magnitude?’[^75] Wallis showed no mercy over Hobbes’s errors in the quadrature, lampooning Hobbes’s failure to deliver the mathematical goods.[^76] But Wallis’s comments weren’t simply restricted to Hobbes’s mathematical failings. Hobbes’s extravagant claims
 
 [^73]: Schuhmann suggests that it was William Brereton 1997, Introduction, p. xlv, n. 65.
+
 [^74]: J. Wallis, Elenchus geometriae Hobbianae (Oxford, 1655), Ep. Ded.
+
 [^75]: Ibid., p. 6; quoted in Jesseph, Squaring the Circle, p. 79.
+
 [^76]: Wallis, Elenchus, pp. 2–3.
 
 *[p. 152]* ^pg165
@@ -241,8 +301,11 @@ about his natural philosophy were ridiculed and his arrogance described in an ac
 Who does not see that thereby you not only deny (and not just in words) angels and immortal souls, but the great and good God himself; and if you were not wary of the laws (which to you is the highest ‘rule of honouring and worshipping God’) you would profess this openly. And however much you may mention God and the Holy Scriptures now and again (although I do not recall your mentioning the immortal soul), it is nevertheless to be doubted whether you do this ironically and for sake of appearance rather than seriously and from conviction.[^81] Wallis’s comments indicate some of the problems with identifying Hobbes as an atheist. Nevertheless, Hobbes’s avowed doctrine of upholding legally approved positions gave plenty of reasons to suspect that his nominal statements concealed very different private opinions, and this view seems to be supported by Hobbes’s own comments about the utility of withholding his opinion on matters such as free will. Every serious charge of atheism levelled at Hobbes had to work from the consequence of his doctrines rather than from any of his written statements, a point that
 
 [^77]: Ibid., p. 116.
+
 [^78]: Wallis, Elenchus, Sig A2 quoted in Jesseph, Squaring the Circle, p. 312.
+
 [^79]: Wallis, Elenchus, p. 89.
+
 [^81]: Ibid., pp. 89–90, quoted in Jesseph, Squaring the Circle, p. 314.
 
 *[p. 153]* ^pg166
@@ -266,8 +329,11 @@ The publication of Hobbes’s work prompted Bramhall, still enduring a miserable
 The reappearance of Bramhall’s ten-year-old critique in 1655 thus added to the public denunciations of Hobbes’s project coming from Oxford. Ward, Wallis and Bramhall had insinuated that Hobbes was an atheist, the first time that this suggestion had been made seriously in print. The charges undoubtedly marked an important development in the reception of Hobbes’s work in that they drew attention to it and made his supposed atheism a prominent feature of the public discussion of his arguments. Although it seems clear that Hobbes was not in any real danger of prosecution for his views, the potential damage to his reputation and to his philosophical projects spurred him to respond. This in turn was an important change in Hobbes’s attitude towards his critics. Up to this point Hobbes’s stated strategy concerning his critics had been to engage in dialogue with those he regarded as rational, but to simply ignore assailants who he felt were attacking him on the basis of their own agendas. The increasing persistence and virulence of these assaults resulted in a change of tactics: Hobbes was now determined to have a showdown with the forces of priestcraft. He explains his own view of the situation at the end of his 1656
 
 [^83]: Hobbes, Of Libertie and Necessitie, a Treatise (1654), Sig. A3r.
+
 [^84]: Ibid., Sig. A7v.
+
 [^85]: Davies was nevertheless still prepared to defend Leviathan, on the grounds that no one had refuted it ‘which till it is done, we shall not count the Author an Heretick’. Ibid., Sig. A8v.
+
 [^86]: A defence of true liberty from ante-cedent and extrinsecall necessity, being an answer to a late book of Mr. Thomas Hobbs of Malmsbury, intituled, A treatise of liberty and necessity.The book was entered into the Stationers’ Register on 2 March; Thomason received his copy on 2 May 1655.
 
 *[p. 155]* ^pg168
@@ -277,7 +343,9 @@ response to Bramhall. Hobbes argued that in spite of going to some trouble in Le
 I have been publicly injured by many of whom I took no notice, supposing that that humour would spend itself; but seeing it last, and grow higher in this writing I now answer, I thought it necessary at last to make of some of them, and first this Bishop, an example.[^88] With hindsight Hobbes’s retaliation looks like an extraordinary mistake. All three of Hobbes’s assailants would strike back at him repeatedly in the following years, creating a literature that would do much to structure the hostility aimed at Hobbes for the rest of the century. But at the time, Hobbes’s decision to take on his opponents made a lot more sense. It was far from clear that either the Presbyterians or the Episcopalians would ever wield significant political or religious power again, and in 1656 Hobbes’s attackers were all in positions of significant political weakness. Bramhall was an impoverished Royalist exile and the Royalist and Episcopalian cause was at an extremely low ebb. Hobbes’s Oxford opponents were similarly on the back foot. A microcosm of national politics, Oxford in the mid-1650s was dominated by the Independent faction under the leadership of John Owen. Ward was an Episcopalian, Wallis an Independent-hating Presbyterian and neither of them enjoyed much wider political favour. They were also Cambridge men originally, intruded into the Chairs of ejected Royalists. Their intellectual allegiance to neo-scholastic moral theology made them objects of suspicion to more radical Protestant dons.[^89] Set in this context, Hobbes’s determination to do battle with the residual forces of priestcraft makes more sense. Not only would it allow him to rescue his damaged reputation and clear himself of atheism, but it
 
 [^87]: Hobbes, EW, V, p. 454.
+
 [^88]: Ibid., p. 455.
+
 [^89]: Ward’s biographer noted that Ward and his colleagues were subject to criticism from ‘peevish people’ to whom they were ‘mere moral men’. Walter Pope, The Life of Seth, Lord Bishop of Salisbury
 
 *[p. 156]* ^pg169
@@ -289,8 +357,11 @@ Hobbes tackled Bramhall first, in Questions Concerning Liberty, Necessity and Ch
 And though by the reformed Churches instructed by Luther, Calvin, and others this opinion was cast out, yet not many years since it began again to be reduced by Arminius and his followers, and became the readiest way to ecclesiastical promotion; and by discontenting those who held the contrary, was in some part the cause of the following troubles.[^90] Here Hobbes makes an explicit attack upon Laudian churchmen, of whom Bramhall was a leading representative. Bramhall’s own views on free will, Hobbes argued, were simply derived from Roman Catholic theologian Suarez, a charge that Hobbes repeats on several occasions with the clear intention of making the common and damaging association between the Arminian clergy and the Roman church.[^91] By contrast, Hobbes cites the Protestant Reformers in support of his position, arguing that he ‘always very much reverenced and admired’ Luther, Melanchthon, Calvin and William Perkins, enlisting them as allies in his fight against the doctrines of scholasticism in general and free will in particular.[^92] As Jurgen Overhoff has stressed in his examination of the controversy, Hobbes’s claims about the Reformers’ position were by no means ill-founded.[^93] Some of Hobbes’s
 
 [^90]: Hobbes, EW, V, p. 1.
+
 [^91]: Ibid., V, pp. 11, 18, 37. Hobbes argues that the source of Bramhall’s doctrine is Suarez’s Opuscula varia opuscula theologica (1600).
+
 [^92]: Hobbes, EW, V, pp. 266, 64–5.
+
 [^93]: J. Overhoff, Hobbes’s Theory of the Will: Ideological Reasons and Historical Circumstances (Lanham,
 
 *[p. 157]* ^pg170
@@ -302,9 +373,13 @@ Setting his views in this context, Hobbes was unrepentant about his basic positi
 A wooden top that is lashed by the boys, and runs about sometimes to one wall, sometimes to another, sometimes spinning, sometimes hitting men in the shins, if it were sensible of its own motion, would think it proceeded from its own will, unless it felt what lashed it. And is a man any wiser, when he runs to one place for a benefice, to another for a bargain, and troubles the world with writing errors and requiring answers, because he thinks he doth it without other cause than his own will, and seeth not what are the lashings that cause his will?[^95] But Hobbes did not restrict himself to defending his philosophical position; he also responded to the attacks upon his theology and his politics, transforming his answers into assaults upon the bishop’s own political and ecclesiological views. In one example, Hobbes attacks Bramhall’s attempt to argue that there is a distinction between God’s general causal power and the specific power of individual free will. In theological terms Hobbes felt that the distinction was meaningless and he likens it to the argument that bishops have a divine right to ordain priests independent of the sovereign and his laws: ‘they say they get it from Christ, and yet acknowledge that it is unlawful if the civil power forbid them; but how have they right to ordain, when they cannot do it lawfully.’[^96] Theology and ecclesiology were intimately related, and Hobbes was determined to make this clear. The same went for politics: Bramhall’s constitutional Royalist theory about self-obligating monarchs had reflected his theological belief in a self-binding God. Hobbes attacked both simultaneously in his reductive account of obligation: ‘For he that can oblige, can also, when he will, release; and he that can release himself when he will, is not obliged.’[^97] To speak of self-obligating sovereigns of any sort, be they gods or kings, was just another example of scholastic absurdity. Hobbes was happy to dwell upon the seditious consequences of Bramhall’s theology. To argue that right reason constituted some independent and divinely ordained standard of justice, was an error ‘that hath cost many thousands of men their lives. Was there ever a King, that made a law which in right reason had been better unmade? And shall those laws therefore not be obeyed? Shall we rather rebel?’[^98]
 
 [^94]: Ibid.
+
 [^95]: Hobbes, EW, V, p. 55.
+
 [^96]: Ibid., pp. 142–3.
+
 [^97]: Ibid., p. 144.
+
 [^98]: Ibid., p. 176, see also p. 194.
 
 *[p. 158]* ^pg171
@@ -316,7 +391,9 @@ Questions Concerning Liberty, Necessity and Chance was more than a simple refuta
 The sixth lesson mounted a defence of Hobbes’s reputation and the orthodoxy of his political and religious thought. He noted that a summary version of De Cive had appeared in France under the title ‘Ethics Demonstrated’; he also noted the approving remarks made about the book itself by Sorbie\`re, Gassendi and Mersenne. De Cive’s doctrine, Hobbes argued, ‘is generally received by all but those of the clergy who think their interest concerned in being made subordinate to the civil power; whose testimonies therefore are invalid’.[^100] Hobbes was similarly unrepentant about promoting the political theory of Leviathan, and in a remark that can only have been calculated to emphasise the political utility of the book to the Cromwellian regime, Hobbes argued that ‘as it is, I believe it hath framed the minds of a thousand gentlemen to a conscientious obedience to present government, which otherwise would have wavered in that point.’[^101] Equally he wouldn’t apologise for Leviathan’s doctrine, ‘That all men that live in a Commonwealth, and receive protection of their lives and fortunes from the supreme governor thereof, are
 
 [^99]: Ibid., V, p. 447. Hobbes was referring to John Serjeant’s Schism dis-arm’d of the defensive weapons, lent it by Doctor Hammond, and the Bishop of Derry by S. W. (Paris, 1655).
+
 [^100]: Hobbes, EW, VII, p. 332.
+
 [^101]: Ibid., p. 336. This comment also gives an interesting insight into the target readership (‘gentlemen’) and the size of the print run of the first edition of Leviathan (1,000 copies). Hobbes perhaps attempts to cover himself by referring simply to ‘present government’ rather than ‘the present government’, but this wouldn’t stop his post-Restoration critics accusing him of complicity with the Cromwellian regime. See particularly Hyde’s use of the passage in his Brief view and survey (1676),
 
 *[p. 159]* ^pg172
@@ -330,6 +407,7 @@ Perhaps the crucial charge that Hobbes sought to rebut at the end of the Six Les
 But do not many other men, as well as you, read my Leviathan, and my other books? And yet they all find not such enmity in them against religion. Take heed of calling all atheists that have read and approved my Leviathan. Do you think I can be an atheist and not know it? Or knowing it, durst have offered my atheism to
 
 [^102]: Hobbes, EW, VII, p. 344.
+
 [^103]: Ibid., p. 348.
 
 *[p. 160]* ^pg173
@@ -343,8 +421,11 @@ N E C E S S I T Y A N D C H A N C E
 Bramhall replied to Questions in 1657 in his Castigations of Mr Hobbes, a lengthy restatement of his views that involved churning through the various passages of scripture cited on each side together with more general attacks upon Hobbes’s political and religious project. Although little in Bramhall’s substantial argument about the character of free will had changed, it was clear that Hobbes’s challenge to Bramhall’s Protestant orthodoxy, and his response to the insinuations of atheism, had hit home. Bramhall needed to defuse the charge that he was the one who had departed from orthodoxy and the views of the Protestant Reformers, in showing allegiance to the Catholic philosophy of the Schools. He simply, and perhaps slightly disingenuously, denied knowing anything about Suarez’s view of free will. On the issue of fidelity to the Reformers, Bramhall was forced to concede that Luther and Melanchthon and particularly Calvin had indeed held the opinions that Hobbes had attributed to them, but he took refuge in references to revised versions of Luther’s views published later.[^105] Pinning his Protestant credentials upon these passages, Bramhall attempted to turn the point against Hobbes: ‘Either he did know of Luther’s retraction, and then it was not ingenuously done to conceal it; or (which I rather believe) he did not know of it, and then he is but meanly versed in the doctrine and affairs of the Protestants.’[^106] In fact, as Jürgen Overhoff has pointed out, Bramhall was skating on very thin ice here. Hobbes had represented the Reformer’s views correctly, and when Bramhall attempted to argue that the Protestant discussion of necessitarianism did not apply to ‘natural or civil actions’, he was simply incorrect.[^107] If Bramhall found it hard to lay a glove upon Hobbes’s use of Protestant authority, the obvious alternative move was to demonstrate that Hobbes
 
 [^104]: Ibid., p. 350.
+
 [^105]: Luther’s Visitatio Saxonica.
+
 [^106]: Bramhall, Works, IV, p. 218.
+
 [^107]: Overhoff, Hobbes’s Theory of the Will, p. 157.
 
 *[p. 161]* ^pg174
@@ -358,7 +439,9 @@ Although much of the Castigations rehearses well-worn philosophical argument, Br
 In the end Bramhall concedes that he doesn’t deny some of Hobbes’s key political propositions, namely that the sovereign is keeper of both tables, that he has an ‘architectonical power’ to see that his subjects do their duty; that doctrines compatible with peace are taught and seditious ones discouraged; that sovereign princes owe no account to mortal man but to God alone; and that kings of England are supreme governors over ecclesiastical as well as civil causes.[^110] That said, he nevertheless utterly denies that true
 
 [^108]: Bramhall, Works, IV, p. 382.
+
 [^109]: Ibid., p. 323.
+
 [^110]: Ibid., p. 499.
 
 *[p. 162]* ^pg175
@@ -372,9 +455,13 @@ But in spite of the attacks, there are signs that Hobbes’s remarketing of his 
 Another supporter of Hobbes’s position on liberty and necessity was the former Royalist-turned-republican James Harrington, who in spite of his critique of Hobbes’s political project, explicitly praised Hobbes’s work on the topic as ‘the greatest of new lights, and those which I have followed and
 
 [^111]: Ibid., pp. 418–19.
+
 [^112]: See for example, John Whitefoote’s attack upon Hobbes in Bishop Joseph Hall’s funeral sermon, Israea agchithanes (1656), pp. 30–1. Here Hobbes’s necessitarianism is linked to the heretical content of Leviathan (particularly chapter 42).
+
 [^113]: CTH, II, pp. 902–4.
+
 [^114]: CTH, I, p. 277.
+
 [^115]: Ibid., p. 278.
 
 *[p. 163]* ^pg176
@@ -386,11 +473,17 @@ In fact, despite Bramhall’s criticism and the controversy over the philosopher
 As for the Six Lessons, it is unlikely that more than a very small and specialist audience fully understood the mathematical and scientific issues disputed between Hobbes and Wallis, but there was nevertheless plenty of material for non-specialist readers to get to grips with. It is clear that the book did little to mend Hobbes’s relationships with the Episcopalians, but Hobbes had not sought to appease his Episcopalian or Presbyterian audience.[^122] Perhaps more representative of Hobbes’s target audience was
 
 [^116]: J. Harrington, The Political Works of James Harrington, ed. J. G. A. Pocock (Cambridge, 1977), p. 423.
+
 [^117]: CTH, I, pp. 497–8.
+
 [^118]: See Noel Malcolm’s comments in CTH, II, p. 783.
+
 [^119]: Samuel Pepys, The Diary of Samuel Pepys, ed. R. C. Latham and W. Matthews, 11 vols. (1970–83), II, p. 217, 20 November 1661.
+
 [^120]: See chapter 5 below.
+
 [^121]: See for example, Thomas Pierce’s Eautontimoroumenos (1658), pp. 70–1, and his Autokatakrisis (1658). For Restoration discussion of the issue, see Bishop Laney’s observations on Liberty and Necessity in A letter about liberty and necessity (1676). The latter may well have been a response to the apparent misuse of Hobbesian fatalism in the popular culture of the 1670s.
+
 [^122]: See Brian Duppa’s response, Isham, Correspondence, p. 118.
 
 *[p. 164]* ^pg177
@@ -404,7 +497,9 @@ In Oxford, Wallis, Ward and their allies were already preparing the next assault
 Ward’s opening letter to John Wilkins attributes to the latter the desire that Ward should examine Hobbes’s opinions and comment upon them. It also indicates that opinion about Hobbes was far from uniformly hostile, Ward referring to the ‘large number of highly divergent opinions held by great numbers of men’ about Hobbes’s works.[^125] Indeed, Ward saw any attack upon Hobbes as a perilous task, in that however he goes about it ‘I shall not be able to escape the censure of those men who appear to have sworn allegiance either to Hobbes or (the majority) his opponents.’ In contrast to the increasingly abusive exchanges between Wallis and Hobbes,
 
 [^123]: CTH, I, p. 295. William Lucy’s Examinations, censures, and confutations of divers errours in the two first chapters of Mr. Hobbes his Leviathan (1656 \[Thomason’s copy is dated 21 July\]), was the first of a series of rambling critical commentaries on chapters of Leviathan. Hobbes apparently expected that Lucy, writing under the pseudonym Christopher Pike (a play on the Latin ‘Lucius’), would put up a better performance than Ward and Wallis, flagging the forthcoming publication of Lucy’s work in Six lessons (p. 64). Lucy’s critique was largely a bewildered restatement of Aristotelian positions in response to Hobbes’s natural philosophy. Lucy sent a second work (probably dealing with chapters 3–11 of Leviathan) to Oxford, but according to Henry Stubbe (writing to Hobbes in January 1657) he ‘did receiue no great incouragement to print it, being told, yt many things which he stopped at as absurd, were not only yor principles, but admitted generally, by those who have learned to search into nature, & not to acquiesce in ye traditions of others. I heare he is very angry at it’, CTH, I, p. 440, see also p. 441, n. 16. Lucy went on to reissue his original critique in 1658 and to publish Observations, censvres & confutations of divers errors in the 12, 13, and 14 chap. of Mr. Hobs his Leviathan (1657 \[Thomason’s copy is dated 1 January, i.e. 1658\]). The critiques were reprinted as part of the much longer Observations, censures, and confutations of notorious errours in Mr. Hobbes his Leviathan (1663), discussed below, pp. 233–7.
+
 [^124]: S. Ward, In Thomae Hobbii philosophiam exercitatio epistolica (Oxford, 1656), p. 14.
+
 [^125]: Ward, Exercitatio, p. 1.
 
 *[p. 165]* ^pg178
@@ -428,10 +523,15 @@ Ward’s treatment of Hobbes’s political theory is brief and deals with the ar
 Ward’s faith in our natural ability to identify good and evil marks out a crucial difference between his approach to the issue of natural obligation
 
 [^128]: Ibid., pp. 272–3.
+
 [^129]: Ibid., pp. 274–80.
+
 [^130]: Ibid. p. 287, referring to Leviathan (1651), p. 63, see also p. 312.
+
 [^131]: Ward, Exercitatio, p. 287, referring to Leviathan (1651), p. 178.
+
 [^132]: Ward refers to [[Romans 05#^5-12|Romans 5:12–14]] where human sinfulness appears to precede law.
+
 [^133]: Ibid., p. 293; Hobbes had used the formula in ch. 42 of Leviathan (p. 282 O.P.).
 
 *[p. 167]* ^pg180
@@ -447,7 +547,9 @@ judgment of any one man, (who has no intention of giving them any guarantee abou
 In the chapter on religion, Ward sets himself the question of working out whether Hobbes’s doctrine is friendly or hostile towards Christianity. Ward suggests that a theory hostile to Christianity is one that perverts its rule, diminishes or destroys its authority, disorders the Christian church or attempts to root out the spiritual exercise of the religion. Predictably he finds Hobbes guilty on all counts; Hobbes ‘strives utterly to destroy the whole system and force of the Christian religion (by perverting its entire object)’. Ward’s main objection is that Hobbes makes the sovereign the arbiter of all religious matters, a move that puts his theory completely at odds with a serious faith. As he puts it: ‘Religion is a sacred and serious thing, belonging to the innermost reaches of souls; nor can it in any way consist with this opinion, which holds that religion should take its origin from the will of some man and from a civil institution.’[^135] In spite of Hobbes’s claims to take Christianity and scripture seriously, his treatment of it reveals his true intent, particularly in chapter 33 of Leviathan where the sovereign effectively authorises revelation. Ward examines the way that Hobbes progressively undermines the independent authority of scripture, prophecy and Christ himself in favour of the sovereign. Referring to Alexander Ross’s work, Ward similarly concludes that Hobbes’s theology is a mass of heresies and ‘wicked dogmas’, not least Hobbes’s treatment of the Trinity. Like Ross Ward refers to Hobbes’s theory as ‘quasi-muslim’, an alien and deformed version of faith that seeks to overturn Christianity.[^136] That said, Ward finally holds back from a bald accusation of atheism:
 
 [^134]: Ward, Exercitatio, p. 312.
+
 [^135]: Ibid., p. 319.
+
 [^136]: Elsewhere in the text Ward makes much of the similarity with Islamic political and philosophical views to reinforce the alien character of Hobbes’s religious discourse. Ibid., pp. 128–9.
 
 *[p. 169]* ^pg182
@@ -467,9 +569,13 @@ defended the broader features of a Thomist worldview with a new kind of scientif
 work, Wallis’s Due correction for Mr Hobbes,[^140] which came out in October 1656 reached new lows in terms of abusive rhetoric. Wallis lambasted Hobbes for responding to the Latin Elenchus in English, suggesting that one reason for doing this was Hobbes’s lack of ability in the learned language.[^141] In response to Hobbes’s claims about his reputation, Wallis marshalled testimony from various sources attesting to Hobbes’s mistakes and plagiarism.[^142] Unmoved by Hobbes’s attempts to deflect the accusation of atheism, Wallis also returned to the charge that Hobbes’s materialism left him in a difficult position when it came to talking about God. Was it the case that Hobbes was claiming God to be somewhere and finite, or nowhere and nothing? ‘If you say the first, you deny God to be Infinite: if the second you deny him to bee. And, either way, you may without injury be affirmed to maintain horrid opinions concerning God.’[^143] Paradoxically, although Wallis was in fact getting the better of the mathematical argument, the obscurity of the technical issues meant that it was far from clear to some observers that Hobbes was being beaten, or, especially in the light of his recent statements, that he was as unacceptable as Wallis and Ward were suggesting. Given Hobbes’s attempts to realign himself in political and religious terms, it is perhaps not surprising that at least one of Hobbes’s supporters at Oxford saw an opportunity to bring about a rapprochement between Hobbes and the university Independents.
 
 [^139]: E. Elys, a friend of Henry More, commented in 1694 that Ward’s Exercitatio ‘prov’d a most effectual Antidote against the Plague of the Hobbian Errors, which at that time began to spread most dreadfully.’ H. More, Letters on several subjects (1694), p. 94.
+
 [^140]: J. Wallis, Due correction for Mr Hobbes. Or schoole discipline, for not saying his lessons right (Oxford, printed by Leonard Lichfield printer to the University for Tho: Robinson, 1656).
+
 [^141]: Ibid., pp. 1–2, 13–26.
+
 [^142]: Ibid., 4–8.
+
 [^143]: Ibid., 31–2.
 
 *[p. 171]* ^pg184
@@ -481,7 +587,9 @@ Henry Stubbe (1632–76) was another young disciple of Hobbes; like Edward Bagsh
 John Owen asked Stubbe to attack Mens sobria, which he did, to be rewarded in 1657 with the position of Deputy-Keeper of the Bodleian under Thomas Barlow.[^144] Stubbe passed Wallis’s book to Hobbes, commenting that Wallis ‘assumes an authority beyond y\[e\] Pope . . . if euer they preuayle, their jurisdiction will bee ample, for euery Parish-priest is now Oecumenicall, \[nor sh\]all it bee a marke of AntiXt to bee an vniversall bishop . . . ’[^145] He also invited Hobbes to contribute a short letter to his own refutation, on the grounds that it would ‘doe much to disgrace ye d:r’.[^146] Even though Hobbes didn’t provide the letter for Stubbe’s book (so rude that it remained unpublished), it is evident that the two men were agreed in their attitude towards Wallis’s ecclesiology and when Hobbes decided to compose a response to Due correction, he included an attack upon the arguments of Mens sobria. Stubbe, who had agreed to contribute a
 
 [^144]: CTH, I, p. 311.
+
 [^145]: Ibid., pp. 333–4.
+
 [^146]: Ibid., p. 337.
 
 *[p. 172]* ^pg185
@@ -491,7 +599,9 @@ letter to Hobbes’s work attacking Wallis’s Latin grammar, urged Hobbes to pu
 In the letter suggesting that Hobbes had admirers in Oxford, Stubbe had indicated to Hobbes that Thomas Barlow was one of their number, and that he would be pleased to receive a copy of the English De Corpore. Hobbes sent the volume to be delivered by Stubbe. Stubbe’s story about Barlow’s enthusiasm had been so convincing that Hobbes even appears to have asked in his letter whether Barlow might openly defend him. As Stubbe confessed to Hobbes, he had had to blot out ‘openly’, a comment
 
 [^147]: Ibid., p. 383.
+
 [^148]: Ibid., p. 384.
+
 [^149]: Ibid., p. 395.
 
 *[p. 173]* ^pg186
@@ -503,9 +613,13 @@ I haue read your bookes constantly as they came out, and doe thankefully acknowl
 It is also extremely doubtful that Hobbes’s anti-Presbyterianism was enough to make him any more than an undesirable fellow-traveller for Stubbe’s patron Owen. Owen did not approve of Stubbe’s project to translate Leviathan, and the latter was forced to conceal his activities from the Vice-Chancellor.[^154] Writing to Hobbes, Stubbe reported that
 
 [^150]: Ibid., p. 420.
+
 [^151]: Ibid., p. 421.
+
 [^152]: Ibid., p. 430.
+
 [^153]: As Noel Malcolm points out, the fact that Barlow could recommend Ross’s Leviathan drawn out with a hook to students rather suggests where his sympathies lay. CTH, II, p. 786.
+
 [^154]: Ibid., I, pp. 383, 459.
 
 *[p. 174]* ^pg187
@@ -515,10 +629,15 @@ Owen had commented that Leviathan ‘was a booke ye most full of excellent remar
 The upshot of this was that the Presbyterian position on Hobbes was effectively hegemonic, at least in terms of public discourse. No one apart from Stubbe was prepared to stand up for Hobbes in public, in spite of the librarian’s best efforts to reconcile Hobbes to possible sympathisers. The means by which the Presbyterians exercised such power over public statements are revealed in a letter from Stubbe to Hobbes in February 1657, discussing, and deterring, the possibility of Hobbes visiting the university: ‘I could bee very glad to see you here’, wrote Stubbe, ‘but it is hardly seasonable yet, & ye Presbyterians haue so filled men’s eares agt you, yt none would dare to exhibite yt respect wch they haue for you, least they might suffer in their preferment.’[^159] Such considerations may ultimately have swayed Stubbe himself. After contributing to Hobbes’s pamphlet he was accused of Hobbism by the Presbyterian Daniel Cawdry.[^160] Stubbe replied in a private letter denying that he had done any more than defend Hobbes’s Latin and Greek. Anyone who read Cawdry’s book, he complained, might ‘apprehend that I own the Leviathan, and have defended the
 
 [^155]: Ibid., p. 459.
+
 [^156]: Hobbes wrote to Stubbe commending Owen’s ecclesiological writings during this period, particularly Owen’s Of schism, a fact that Stubbe sought to make much of around Oxford. Ibid., pp. 448–9.
+
 [^157]: Noel Malcolm suggests that in Of the divine originall, authority, self-evidencing light, and power of the scriptures, Owen framed some of his arguments against Hobbes’s scriptural criticism. See Malcolm, ‘Hobbes, Ezra and the Bible’, in Aspects of Hobbes, p. 429, n. 160.
+
 [^158]: Hobbes Dialogus Physicus LW, IV, pp. 273–4, translated in S. Shapin and S. Schaffer, Leviathan and the Air-pump: Hobbes, Boyle and the Experimental Life (Princeton, 1985), p. 370.
+
 [^159]: CTH, I, p. 449.
+
 [^160]: D. Cawdrey, Independency \[further\] proved to be schism (1658), pp. 129–30.
 
 *[p. 175]* ^pg188
@@ -530,6 +649,7 @@ The story of Hobbes’s fate in Oxford offers a revealing glimpse into the micro
 That said, it needs to be stressed that although being tarred with accusations of Hobbism might well damage an argument or one’s job prospects in Oxford, there is no evidence at this stage that Hobbism would result in any more serious legal sanction. Although the Presbyterians exercised indirect and local forms of censorship, Hobbes remained unmolested, fearing only that the accusations of atheism might
 
 [^161]: Stubbe to Cawdry, 17 March 1657, Bod. MS Savile 104, fol. 1. See the discussion in Collins, The Allegiance of Thomas Hobbes, pp. 236–9.
+
 [^162]: Henry Stubbe, Clamor, rixa, joci, mendacia, furta, cachini, p. 1.
 
 *[p. 176]* ^pg189
@@ -563,6 +683,7 @@ The noisy polemic against the ideas of classical republicanism in chapter 21 of 
 James Harrington was educated at Oxford and became a gentleman of Charles I’s bedchamber at some point in the later 1630s, serving the king as a personal attendant in the later 1640s until his execution in 1649.[^166] Harrington’s biographers indicate that the regicide severely affected Harrington, prompting him to withdrawal that turned into study of the events that had brought about this cataclysmic event. By the mid-1650s Harrington was associated with individuals who had become discontented with the authoritarianism of the Protectorate; radical army officers like
 
 [^165]: Leeds ML MSS Political and Miscellaneous II, f. 39. The letter comes from the Marten-Loder papers, and of those individuals who refused Cromwell’s summons, Luke Robinson had the closest links with Henry Marten.
+
 [^166]: Harrington, Political Works, p. 4.
 
 *[p. 179]* ^pg192
@@ -572,6 +693,7 @@ Colonel Okey and the republican Henry Neville, who on some accounts is credited 
 It was these preoccupations that provided the fertile soil for Harrington’s reading of Hobbes. In some ways Hobbes’s own project might be regarded as a highly original variant of conservative republican themes. Hobbes’s early work, both in the Horae Subsecivae and in his translation of Thucydides, speaks to the anxieties central to the tradition. Peace and stability are central to Hobbes’s project as they would be to Harrington’s; they are delivered through a carefully poised system that seeks to balance the desires of self-interested rational calculators to produce the utopian image of perpetual peace celebrated in the preface to De Cive. That said, there are obvious differences, and as will become clear, much of Harrington’s engagement of Hobbes is about correcting Leviathan’s attempt to pivot his system around unitary sovereign power rather than a constitutional mechanism and a material balance of property. But as Scott has pointed out, these disputes are more akin to sibling rivalry than a clash of ideological opposites,[^168] and in the process of reacting to Hobbes, Harrington at the same time adopts distinctive Hobbesian conceptual relationships and distinctively Hobbesian perspectives upon the traditional elements that they have in common, a process that Harrington’s
 
 [^167]: Ibid., p. 161.
+
 [^168]: J. Scott, England’s Troubles, p. 330.
 
 *[p. 180]* ^pg193
@@ -583,10 +705,15 @@ We know that Harrington was an enthusiastic reader of Hobbes’s political and p
 Harrington opens Oceana with a concerted attack upon Leviathan. One of Harrington’s major problems with Hobbes is his rejection of classical political thought. Hobbes’s contextualist critique of the relevance of Greek and Roman writers was that they had derived their theories not from nature, but from their own particular democratic political communities.[^173] Harrington’s counter-claim was that there was no reason to suppose that there was nothing natural about what Aristotle and Cicero had described. Hobbes’s statement was like that of a man who should tell Harvey ‘that he transcribed his circulation of the blood not out of the principles of nature, but out of this or that body’.[^174] A shared project to identify the principles of
 
 [^169]: What follows is inspired by Jonathan Scott’s seminal treatments of the relationship between Harrington and Hobbes; see particularly ‘The Rapture of Motion: James Harrington’s Republicanism’, in N. Phillipson and Q. Skinner (eds.), Political Discourse in Early Modern Britain (Cambridge, 1993), pp. 139–63; ‘The Peace of Silence: Thucydides and the English Civil War’ in G. A. J. Rogers and T. Sorell (eds.), Hobbes and History (Cambridge, 2000), pp. 112–36.
+
 [^170]: For Humane Nature see Harrington, Political Works, pp. 171, 423; for the reference to De Corpore Politico, see p. 712. For discussion of Harrington’s Hobbesian debts see A. Fukuda, Sovereignty and the Sword: Harrington, Hobbes & Mixed Government in the English Civil Wars (Oxford, 1997), p. 71, n. 6.
+
 [^171]: For the reference to De Corpore see Harrington, Political Works, p. 183; for the reference to the Six Lessons, see p. 185.
+
 [^172]: Harrington, Political Works, pp. 422–3.
+
 [^173]: Hobbes, Leviathan, pp. 149–50.
+
 [^174]: Harrington, Political Works, p. 162. Harrington also comments that Hobbes himself appeared to take his own model from the Rump Parliament, ibid., 205.
 
 *[p. 181]* ^pg194
@@ -600,9 +727,13 @@ Leviathan . . . hath caught hold of the public sword, unto which he reduceth all
 The encounter is typical of Harrington’s relationship with Hobbes; less of a simple rejection of the sort that we have seen with many of Hobbes’s
 
 [^175]: Ibid., p. 161.
+
 [^176]: Ibid., pp. 161–2; cf. Hobbes, Leviathan, ch. 46, p. 471 (pp. 377–8 O.P.).
+
 [^177]: Harrington, Political Works, p. 165.
+
 [^178]: Fukuda, Sovereignty and the Sword, p. 76.
+
 [^179]: Harrington, Political Works, p. 174.
 
 *[p. 182]* ^pg195
@@ -614,7 +745,9 @@ Oceana accepts Hobbes’s project, but answers that Leviathan’s politics don�
 But if Harrington had problems with Leviathan’s political mechanism, there were more obvious similarities between the ecclesiologies of the two thinkers. As an Erastian Independent Harrington shared with Hobbes the connected aims of collapsing the distinction between civil and ecclesiastical authority and the destruction of the independent authority of the clergy. The major difference was that where Hobbes had settled civil authority on
 
 [^180]: Ibid., p. 180.
+
 [^181]: Ibid., pp. 184–5.
+
 [^182]: This is indicated by Harrington’s use of Hobbes’s doctrine in The Prerogative of Popular Government (1658), ibid., p. 422. See also Jonathan Scott’s comments in Commonwealth Principles: Republican Writing of the English Revolution (Cambridge, 2004), particularly pp. 162–6.
 
 *[p. 183]* ^pg196
@@ -624,8 +757,11 @@ a unitary sovereign, Harrington invested that authority in a law-bound republica
 For readers of Oceana this kinship was probably most apparent where Harrington argued that the word ecclesia ‘was also anciently and properly used for the civil congregations or assemblies of the people’ and his argument that ordination was a process of election by the congregation (chirotonia) rather than the laying on of hands (chirothesia) insisted upon by the Presbyterians and Episcopalians. The first argument had been insisted upon by Hobbes since De Cive and the second had appeared in chapter 42 of Leviathan.[^184] In addition, Harrington’s portrayal of God’s rule of Israel by covenant recalled Hobbes’s account, even if Hobbes invested Moses with sovereign authority where Harrington wrote of a theocratic republic of divine law. In spite of the formal differences in the constitution of the state/church, Harrington was soon picked up on the correspondence. The Royalist Episcopalian Henry Ferne, archdeacon of Leicester, wrote a private letter to Harrington’s sister which Harrington published,[^185] in which Ferne commented that ‘what is said in relation to the church, or religion in the point of government, ordination, excommunication, had better beseemed Leviathan and is below the parts of this gentleman, to retain and sit down with those little things and poor mistakes which the ignorance or wilfulness of many in these days hath broached in way of quarrel against the Church of England.’[^186] Harrington didn’t respond to Ferne’s jibe about Hobbes in Pian piano, but that wasn’t the end of the accusations of Hobbism. In August 1657 Matthew Wren, son of the Laudian Bishop of Ely, also noted that although Harrington ‘professes a great Emnity to Mr Hobs his politiques, underhand notwithstanding he holds a correspondence with him, and does silently swallow down such
 
 [^183]: M. Goldie, ‘The Civil Religion of James Harrington’, in Anthony Pagden (ed.), The Languages of Political Theory in Europe (Cambridge, 1987), pp. 197–224 at p. 215, referring to Pian Piano in Harrington, Political Works, p. 372.
+
 [^184]: See the discussion of Hammond above, pp. 116–17.
+
 [^185]: As preface to its refutation in Pian Piano (1657), an extraordinary breach of manners; see Pocock, introduction to Harrington, Political Works, pp. 77–8.
+
 [^186]: Ibid., pp. 370–1.
 
 *[p. 184]* ^pg197
@@ -635,7 +771,9 @@ Notions as Mr. Hobs hath chewed for him’. Wren identified Harrington’s deplo
 It is true I have opposed the politics of Mr. Hobbes, to show him what he taught me, with as much disdain as he opposed those of the greatest authors, in whose wholesome fame and doctrine the good of mankind being concerned, my conscience bears me witness that I have done my duty. Nevertheless in most other things I firmly believe that Mr Hobbes is, and will in future ages be accounted, the best writer at this day in the world; and for his treatises of human nature, and of liberty and necessity, they are the greatest of new lights, and those which I have followed and shall follow.[^189] Here Harrington’s intellectual relationship with Hobbes is laid bare with a surprising candour. It is almost impossible to come across a similar public statement of unqualified admiration for the non-political parts of Hobbes’s ideas at this time, even amongst the many who shared Harrington’s view that works like Humane Nature were great achievements. For many anti-clerical Independents, Leviathan’s theology was still far too extreme for Hobbes to be cited, even if they agreed with his ecclesiology. Harrington, by contrast, was happy to make himself a target for the Episcopalians and Presbyterians, and demonstrated this by taking on Henry Hammond and Lazarus Seaman, the Presbyterian Master of Peterhouse, over the question of ordination. Harrington examined some of Hammond’s scriptural arguments against Hobbes in the Six quaeres of 1653 and challenged Hammond’s interpretation, upholding the thought that the power of election was in the congregation. Although Harrington’s exegesis sought
 
 [^187]: Matthew Wren, Considerations on Mr. Harrington’s Commonwealth of Oceana (1659), p. 41.
+
 [^188]: Harrington, Political Works, p. 423. Harrington cites Jacques Cappel, the contemporary theologian, as an alternative source for the doctrine of God’s political rule.
+
 [^189]: Ibid., p. 423.
 
 *[p. 185]* ^pg198
@@ -649,9 +787,13 @@ L A W S O N ’ S E X A M I N A T I O N
 This strategy was a feature of what was perhaps the most significant Presbyterian response to Hobbes’s political thought during this period, George Lawson’s An examination of the political part of Mr Hobbs his Leviathan, published at the end of May 1657.[^194] Lawson (1598–1678), a Yorkshireman by birth, had been educated at Emmanuel College Cambridge, and eventually became minister to the village of More in Shropshire in the 1630s, where he remained until his death. Although Lawson had enjoyed some court patronage early in his career, his position at More involved him with a patron who supported Parliament and with
 
 [^190]: Ibid., p. 563.
+
 [^191]: Hobbes’s only recorded reaction to Oceana is preserved by Aubrey: ‘Mr T. Hobbes was wont to say that Henry Nevill had a finger in that pye . . .’ John Aubrey, Brief Lives, ed. A. Clark, 2 vols., I, p. 289.
+
 [^192]: Wren, Considerations, p. 14.
+
 [^193]: Baxter, The crucifying of the world, by the cross of Christ (1658), f1r–v.
+
 [^194]: Both of Thomason’s copies (E1591 (3) and E1723 (2)) were purchased in May – E1591 on the 31st. The best discussion of Lawson is Conal Condren’s George Lawson’s Politica and the English Revolution (Cambridge, 1989); see also Condren’s discussion of the Examination in his article ‘Confronting the Monster; George Lawson’s Reactions to Hobbes’s Leviathan’, Political Science 40:1 (1988),
 
 *[p. 186]* ^pg199
@@ -665,9 +807,13 @@ Lawson’s aim in the Examination is not to offer a comprehensive refutation of 
 As Conal Condren points out, Lawson’s main concern was to undermine Hobbes’s authoritarian absolutism: ‘the logic of Lawson’s riposte to Hobbes is that if God is the absolute ruler of the universe, then human power must be held provisionally and contingently; if human power is absolute then it can compel sacrilegious behaviour.’[^199] Lawson’s own
 
 [^195]: Essentially a conformist rather than a Presbyterian zealot, Lawson would conform to the Episcopal Church of England after the Restoration.
+
 [^196]: Lawson, Examination, Sig. A2r: ‘upon perusal of the Political part of his Leviathan, I conceived, that as little good was to be expected, so little harm was to be feared from that book.’
+
 [^197]: Ibid., Sig. A2r-v.
+
 [^198]: Baxter cites Lawson’s Examination in his Holy Commonwealth (1659), pp. 82, 196.
+
 [^199]: Condren, ‘Confronting the Monster’, p. 69.
 
 *[p. 187]* ^pg200
@@ -681,7 +827,9 @@ Crucial to Lawson’s critique was a distinction between sovereign power as vest
 Inevitably this meant that Hobbes’s absolutism was deeply unacceptable at a number of levels. Surveying the series of extreme propositions about sovereignty in chapter 18 of Leviathan, Lawson rejected Hobbes’s assertion that the people could not change the form of government; admittedly this was not in their capacity as subjects but as the original community in a state of liberty.[^202] Lawson was predictably circumspect about allowing the possibility of resistance (on the grounds that the remedy might prove to be worse than the disease), but nevertheless made it clear that if rulers
 
 [^200]: Lawson, Examination, pp. 3–4.
+
 [^201]: Ibid., p. 29.
+
 [^202]: Ibid., p. 15.
 
 *[p. 188]* ^pg201
@@ -693,8 +841,11 @@ Lawson’s hostility to absolutism also meant that Hobbes’s attempted reconcil
 Lawson repeatedly stressed that God was the ultimate arbiter of political authority and that revealed and natural law inevitably took precedence over any form of human law. This very traditional view made a nonsense of Hobbes’s complicated claims about the interdependence of natural and civil law in chapter 26 of Leviathan. Unlike Hobbes, Lawson never had any doubts about what constituted the obligatory force of natural law. Lawson argued that natural laws bind ‘not as commanded by the magistrate, but as
 
 [^203]: Ibid., pp. 19, 25.
+
 [^204]: Ibid., p. 34.
+
 [^205]: Ibid., pp. 40–3.
+
 [^206]: Ibid., p. 69.
 
 *[p. 189]* ^pg202
@@ -706,8 +857,11 @@ If Lawson’s political analysis of Hobbes involved the restoration of categorie
 Lawson is perhaps at his critical best, however, when he takes Hobbes to task over his reading of scripture. Where the rest of the book consists of occasionally weary reiterations of his own political theory, Lawson had a sharp eye for Hobbes’s abuse of scripture and for some of his sources. Lawson did not take a particularly charitable view towards the scriptural scholarship in Leviathan; Hobbes’s supposed political demonstrations from scripture were made ‘in such a loose and impious abusive manner, that I verily perswade my self, he doth not believe them to be revealed and written from heaven, or that Jesus Christ was an ordinary just man, much less the Eternal Son of God Incarnate.’[^211] For example, Lawson notes that
 
 [^207]: Ibid., p. 98.
+
 [^208]: Ibid., p. 125.
+
 [^209]: Ibid., p. 139.
+
 [^211]: Ibid., p. 50.
 
 *[p. 190]* ^pg203
@@ -717,8 +871,11 @@ when Hobbes famously evokes 1 Samuel 8’s description of kingship (effectively 
 Lawson’s Examination served a number of functions; it was designed to wean disciples off Hobbes’s brand of absolutism and to give them a more appropriate framework for thinking about politics. This was important at a time when critics of the Protectorate felt a need to propose alternatives to an authoritarianism symbolised above all by Leviathan. In Harrington’s case the alternative was a conservative republican form; in Lawson’s a constitutionally flexible model that reserved real sovereignty to the community. Lawson would go on to develop his theory in the Politica sacra et civilis in 1660, but with the political radicalism of his critique of Hobbes toned down in what by then was a debate not about the present dangers of absolutism, but a new political settlement. Nevertheless Leviathan’s symbolic role as the exemplar of arbitrary absolutism would persist and this ensured a future for tracts like Lawson’s in the Restoration period. When anxiety about arbitrary government re-emerged in the 1670s, so too did the anxiety about Hobbesian absolutism. It was thus no accident that a reader
 
 [^212]: Ibid., pp. 51–3. See also Lawson’s despair at Hobbes’s reading of [[Matthew 21#^21-2|Matthew 21.2–3]], ibid., p. 55.
+
 [^213]: Ibid., p. 161.
+
 [^214]: Ibid., p. 202.
+
 [^215]: Ibid., p. 22.
 
 *[p. 191]* ^pg204
@@ -730,8 +887,11 @@ J O H N B R A M H A L L ’ S T H E C A T C H I N G O F L E V I A T H A N ( 1658
 Bramhall suggests that Hobbes has already been refuted,[^218] and that he is simply completing the process of burial by throwing ‘on two or three spadefuls of earth towards the final interment of his pernicious principles and other mushroom errors’.<sup>219</sup> The bishop identifies Hobbes with Leviathan,[^220] the true king over the children of pride, and sets out to hunt his errors in chapters dealing with theology and politics, finishing with a chapter demonstrating the inconsistency between his various positions. It is clear that this structure mirrors the substance and arrangement of Bramhall’s original critique of De Cive which put together about sixty objections divided into political and theological categories. This was probably one reason for Bramhall’s metaphorical conflation of Hobbes with Leviathan; the book itself does not take centre-stage. When Leviathan does feature, it is usually as an extension of the more original arguments
 
 [^216]: Locke owned all of Lawson’s published works. See below, p. 366.
+
 [^217]: Bramhall, Works, IV, p. 513.
+
 [^218]: Bramhall refers to an English work by DRC, and a planned Catholic work by PIS, although it isn’t clear to whom these initials refer. Bramhall’s nineteenth-century editor makes the plausible suggestion that DRC might be Dr Ralph Cudworth. PIS may refer to Father John Sargeant. Bramhall, Works, IV, pp. 515–16.
+
 [^220]: Ibid., p. 517.
 
 *[p. 192]* ^pg205
@@ -745,10 +905,15 @@ Dealing with Leviathan’s exotic theology, Bramhall condemns Hobbes’s account
 Summarising what was most offensive about Hobbes’s depiction of religion, Bramhall isolates six propositions resulting from Hobbes’s extreme Erastianism. The first was Hobbes’s suggestion that no man need hazard himself for his faith; the second that Christians could deny Christ if commanded to do so; the third that a Christian might commit
 
 [^221]: Ibid., p. 521.
+
 [^222]: Bramhall makes use of this argument twice; ibid., pp. 523–5 and 535–6.
+
 [^223]: Ibid., p. 525.
+
 [^224]: Ibid., p. 526.
+
 [^225]: Ibid., p. 528.
+
 [^226]: Ibid., p. 538. The ‘merciful doctors’ to whom Bramhall, following Augustine, refers include Origen.
 
 *[p. 193]* ^pg206
@@ -762,8 +927,11 @@ Constructing Hobbes as a resistance theorist involved putting together the equiv
 Either it must be left to the sovereign’s determination, whether the subject’s security be sufficiently provided for . . . or to the discretion of the subject (as the words themselves do seem to import); and then there need no other bellows to kindle a fire of a civil war, and put a whole commonwealth into a combustion, but this seditious article.[^229] Bramhall had identified a resistance theory in De Cive’s claim that no one could be bound not to resist anyone who threatened ‘death, or wounds or other bodily harm’.[^230] Leviathan merely confirmed the doctrine. Bramhall drew attention to the passage in chapter 21, which Filmer had also noticed, where Hobbes had argued that a group of rebels who expected execution if caught had the liberty to join together and defend each other. Although their initial rebellion was unjust, their attempts to defend their lives were
 
 [^227]: In order the references are to Leviathan, ch. 43; ch. 42; ch. 45; ch. 31; ch. 38; De Cive 12.1.
+
 [^228]: Bramhall, Works, IV, p. 544.
+
 [^229]: Ibid., p. 554.
+
 [^230]: Ibid., p. 555, cf. De Cive, 2.18.
 
 *[p. 194]* ^pg207
@@ -779,7 +947,9 @@ When he eventually comes to Hobbes’s absolutism, Bramhall regards it as a tric
 Bramhall completes his analysis by demonstrating from chapter 9 of De Cive that Hobbes’s theory not only subverted political relationships but
 
 [^231]: Bramhall, Works, IV, p. 555, cf. Leviathan, ch. 21.
+
 [^232]: Bramhall, Works, IV, p. 558.
+
 [^233]: Ibid., p. 559.
 
 *[p. 195]* ^pg208
@@ -791,9 +961,13 @@ In his third and final chapter, Bramhall attempts to convict Hobbes of inconsist
 The same paradoxes emerge in Hobbes’s treatment of religion, where Bramhall finds him arguing that true religion consists in obedience to the magistrate and yet at the same time he exempts from this all things that are contrary to the laws of God. Equally Hobbes argues in De Cive that if a subject be commanded to do something that is contumelious to God, or should forbid him to worship God, he ought not to obey, and yet in Leviathan the same subject might be commanded to deny Christ with his tongue. Bramhall was suitably indignant about the contradiction: ‘Hath he so soon forgot himself? Is not the denial of Christ ‘‘contumelious to God?’’’[^238]
 
 [^234]: Ibid., p. 575.
+
 [^235]: Ibid., p. 578, quoting De Cive 3.29 against 5.2.
+
 [^236]: Bramhall, Works, IV, p. 577, quoting Leviathan, ch. 30, De Cive 2.1.
+
 [^237]: Bramhall, Works, IV, p. 577, quoting De Cive 3.33 (the same point is made in Leviathan, ch. 15).
+
 [^238]: Bramhall, Works, IV, p. 579 quoting De Cive 15.18 against Leviathan, ch. 42.
 
 *[p. 196]* ^pg209
@@ -805,8 +979,11 @@ Hobbes’s ecclesiology makes a good hunting ground for the bishop. In chapter 4
 Bramhall points up some genuine difficulties with Hobbes’s accounts, not all of which can be explained away simply, but Bramhall argued that where Hobbes did appear to be equivocal, he was often leaving himself an alibi. The bishop compared Hobbes’s tactics to those of a fortune-teller: ‘He setteth down his opinion just as gipsies tell fortunes, both ways; that if the one miss, the other may be sure to hit; that when they are accused of falsehood by one, they may appeal to another.’[^242] There is no doubt that Hobbes did this, and Bramhall had first-hand experience in Hobbes’s Questions Concerning Liberty, Necessity and Chance. Using such means, Hobbes was able to put across potentially unacceptable doctrine under the cover of more conventional statements.
 
 [^239]: Bramhall, Works, IV, p. 584.
+
 [^240]: Ibid., p. 586.
+
 [^241]: Ibid., p. 587, cf. De Cive, 18.13.
+
 [^242]: Bramhall, Works, IV, p. 592.
 
 *[p. 197]* ^pg210
@@ -820,6 +997,7 @@ Although it seems that More had initially regarded Hobbes and Leviathan as a der
 That it is impossible that there should be any God, or Soule, or Angel, Good or Bad; or any Immortality or Life to come. That there is no Religion, no Piety nor Impiety, no Vertue nor Vice, Justice nor Injustice, but what it pleases him that has the longest Sword to call so. That there is no Freedome of Will, nor consequently any Rational remorse of Conscience in any Being whatsoever, but that all that is, is nothing but Matter and corporeal Motion.[^244] Although the consequences of Hobbes’s positions were atheism and immorality, it should be noted that More never once attempts to make a direct accusation of atheism or vice against Hobbes. He also never resorts to the abusive language of the Oxford critics. Indeed, More’s attitude towards Hobbes is surprisingly respectful, politely referring to ‘the
 
 [^243]: For useful discussions of More’s work see the introduction and accompanying notes to the modern edition of More’s work: H. More, The Immortality of the Soul, ed. A. Jacob (Kluwer, 1987).
+
 [^244]: More, The immortality of the soul, so farre forth as it is demonstrable from the knowledge of nature and the light of reason by Henry More (1659), p. 56.
 
 *[p. 198]* ^pg211
@@ -831,7 +1009,9 @@ More begins his treatment of Hobbes with a long and detailed exegesis of his vie
 Hobbes’s materialism, by contrast, simply could not account for all natural phenomena, particularly the intellectual activities of the mind and soul. More points out that mere matter is incapable of perception. Hobbes’s attempts to render a coherent account of perception and memory as functions of motion in matter carry with them the absurd consequence that a ringing bell or a bent bow must have the same properties of imagination and recall. More argues that matter by itself simply cannot do the job even if we do think that these faculties are related to motion; spirit is needed to make sense of them. Spirit can also make sense of the existence of purely intellectual objects such as those found in mathematics. Hobbes’s materialist empiricism is simply unable to deal with the real existence of innate ideas. More also brought his anti-materialist critique to
 
 [^245]: Ibid., p. 57.
+
 [^246]: Ibid., I.ix.
+
 [^247]: For discussion of this aspect of More’s work see A. Gabbey, ‘Philosophia Cartesiana Triumphata: Henry More (1646–1671)’, in T. Lennon (ed.), Problems of Cartesianism (Kingston, Ontario, 1982), pp. 171–250; J. Henry, ‘A Cambridge Platonist’s Materialism: Henry More and the Concept of Soul’, Journal of the Warburg and Courtauld Institutes 49 (1986), pp. 172–95.
 
 *[p. 199]* ^pg212
@@ -841,4 +1021,5 @@ bear upon the free will issue. In contrast to Bramhall, More points out that Hob
 More’s rejection of Hobbes’s materialism was less remarkable than the theory that he deployed to counter it. When The immortality of the soul occasioned any sustained comment, it was about this rather than his rejection of Hobbes. Readers saw danger in attempts to render the mysteries of religion in rational scientific terms, which could ultimately end up favouring the sceptics.[^248] In particular More’s conception of extended spirit seemed to concede a little too much to the materialism that he sought to combat. Hobbes himself may well have been aware of this. Richard Ward, More’s biographer, recorded that ‘even Mr Hobbes himself, as I have been informed, hath been heard to say, That if his own Philosophy was not True, he knew of none that he should sooner like than MORE’s of Cambridge’.[^249] Ward presents this as a genuine sentiment, but it sounds more like a double-edged response by Hobbes (or someone else) drawing attention to the philosophical dangers that More found himself in. More’s project to demonstrate the compatibility between religion and science began as an attempt to head off the dangerous potential of Cartesianism by adopting the guise of the mechanical naturalist. In Hobbes More found an opponent whose thoroughgoing materialism led many to question whether such a synthesis was in fact possible without corrupting the traditional meaning of religion altogether. It would be a question that would haunt many of those individuals whose science was uncomfortably close to Hobbes, and it would become one of the main reasons why they became some of his most persistent critics.
 
 [^248]: Hartlib to Worthington, 22 February 1660.
+
 [^249]: R. Ward, The Life of Henry More (1710), p. 80.

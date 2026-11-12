@@ -65,6 +65,7 @@ In the *Mahābhārata*, there is no evidence for the emergence of the Brahmanica
 By the fifth century, a particular heptad of Mother goddesses coalesces with identities mirroring those of a series of major Brahmanical gods—Brahmā, Śiva, Skanda, Viṣṇu, Varāha (or Yama), and Indra. As do their iconic forms, the names of the Mothers mirror those of their male counterparts: Brāhmī, Māheśvarī, Kaumārī, Vaiṣṇavī, Vārāhī (or Yāmī), and Aindrī, each name having several variants. Exceptional is the seventh goddess, Cāmuṇḍā, the fierce and skeletal hag who is “leader of the Mothers” (*mātṛ-nāyikā*) and the counterpart of no male deity. Her identity appears closely linked to that of the warrior goddess Caṇḍī or Caṇḍikā,[^4] one of the principle ciphers for emergent conceptions of the singular Mahādevī, “Great Goddess.” As a set, they become known as the “Seven Mothers”—*saptamātṛ* (plural *saptamātaraḥ*) or *saptamātṛkā*.[^5] It should be emphasized that the Seven Mothers are not “wives” of the gods they mirror, but counterparts; the *Devīmāhātmya*, for instance, describes them as the *śakti*s or “powers” of the gods, marking the entry of tantric Śaiva conceptions of *śakti* into the purāṇic theology of goddesses (*Mārkaṇḍeyapu-*
 
 [^4]: Note, for instance, that the *Brahmayāmala* (c. 7–8th century) uses the names Caṇḍikā, Carcikā (or Carcā), and Cāmuṇḍā interchangeably (Hatley 2007, 376).
+
 [^5]: The expression *saptamātṛ* occurs frequently in purāṇic and tantric texts, and in a number of inscriptions, such as the Navsari plates of Yuvarāja Śryāśrayaśīlāditya (published in *Corpus Inscriptionum Indicarum*, vol. IV). In contrast, the collocation *saptamātṛkā* occurs seldom in early Sanskrit sources, though common today.
 
 *[p. 5]* ^pg5
@@ -78,8 +79,11 @@ As Meister argues (1986, 239, 244–245), this new configuration of Mother godde
 Though no clear sculptural evidence of a pre-Gupta *mātṛ*-heptad survives,[^9] the number seven does have old associations with Mother 
 
 [^6]: *Mālinīvijayottaratantra* 3.14 lists a set of eight Mothers that includes Yāmyā, headed by Yogeśī, while *Netratantra* 19.56, for instance, instead includes Vārāhī among the seven. The *Brahmayāmala* attests both conventions (Hatley 2007, 33, 376).
+
 [^7]: Note, e.g., that Sadyojyotis (*Mokṣakārikā* 79) refers to the hundred *rudra*s as “headed by Vīrabhadra” (*śatarudrāṃś ca vīrabhadrapuraḥsarān* \[em; *°purastarān* Ed.\]). The *Mataṅga-pārameśvara*, which refers to him as one of the *lokanāyaka*s, “world lords” (*vīrabhadrādayaś caiva brahmāntā lokanāyakāḥ*, 23.26cd), also describes the *gaṇa*s as “headed by Vīrabhadra” (*vīrabhadrapuraḥsara*, 23.47b). His role as a *gaṇa*-lord is prominent in the early *Skandapurāṇa*.
+
 [^8]: Given the central position the *Devīmāhātmya* is often assigned in discussions of textual evidence for Mother goddesses, it is important to note Yokochi’s cogent argument that it was not composed as early as has often been assumed (2004, 21–23).
+
 [^9]: From the Kuṣāṇa-era Mathura environs survives what appears to be a set of seven Mothers with Skanda; but this unique panel is broken on the right and might hence have contained additional images (Bautze 1987, 25).
 
 *[p. 6]* ^pg6
@@ -90,9 +94,13 @@ Indra, Agni, Vāyu, Kumāra/Skanda, and Brahmā.[^12] In this *mātṛ* taxonomy
 In the elite traditions represented in sculpture and inscriptions of the Gupta- and early post-Gupta period, the Seven Mothers come to eclipse the diverse Mothers popular in the Kuṣāṇa era. Royal patronage of the cult of the Mothers finds attestation in Gupta-era inscriptions,[^14] copper plates,<sup>15</sup> and 
 
 [^10]: See the discussions of Harper (1989, 56), Meister (1986, 240), Pannikar (1997, 55–58), White (2003, 39), and Mann 2003, 37–38).
+
 [^11]: Note also the *Śalyaparvan*'s reference to *saptamātṛgaṇāḥ*, probably meaning “the groups of Seven Mothers,” the plural suggesting multiple groups of seven (*saptamātṛgaṇāś caiva samājagmur viśāṃ pate*, 43.29ab)*.* The context is a list of divinities who come to see Skanda. As Harunaga Isaacson draws to my attention (personal communication, May 2009), in the vulgate *Mahābhārata*, this is printed as two words, *sapta mātṛgaṇāḥ* (“the seven groups of Mothers”; *Śalyaparvan* 44.27).
+
 [^12]: Not accepted in the critical edition are, in addition, the epithets *vaiṣṇavyaḥ*, *sauryaḥ*, and *vārāhyaḥ*, in a verse that would follow 45.36ab. This might have been interpolated to harmonize the passage with later conceptions of the Mothers; the absence of Vaiṣṇavī and Vārāhī, in particular, might have been inexplicable to a Gupta-era or later audience familiar with the Seven Mothers (cf. Yokochi 2004, 101).
+
 [^13]: On the tantric *diṅmātaraḥ*, see Hatley (*forthcoming*). Statuary of the Mother-goddesses of the Directions features, for instance, on the outer walls of Orissan temples from the thirteenth century (Donaldson 2002, 817–20).
+
 [^14]: Inscriptions associate the Udayagiri Śaiva cave complex of the early fifth century with the emperor Candragupta II, a site having multiple sets of the Seven Mothers. Another royal Gupta inscription, that of the mid fifth-century Bihar Stone Pillar erected by Skandagupta, also appears to include a profession of devotion to the Mothers and Skanda. See *Corpus Inscriptionum Indicarum*, vol. III, inscription nos. 7, 11, and 49.
 
 *[p. 7]* ^pg7
@@ -104,6 +112,7 @@ While the rise of the Seven Mothers has been studied in relation to myth, sectar
 15\. See Ramesh and Tewari (1990, 4–6, 21–23 \[plate nos. II and X\]). Scholars who have discussed these include Yokochi (2004, 110), Chattopadhyay (2005, 257–58), and Sanderson (*forthcoming*).
 
 [^16]: While this passage does not specify the Mothers’ identities, elsewhere the *Bṛhatsaṃhitā* speaks of constructing the images of Mothers in accordance with the appearances of the deities they are named after (*mātṛgaṇaḥ kartavyaḥ svanāmadevānurūpakṛtacihnaḥ*, 57.56ab). It therefore seems likely that Varāhamihira knows of and refers to the Brahmanical Seven Mothers. His terminology for describing specialists in the cult of Mothers, “knowers of the *maṇḍala*-sequence” (*maṇḍalakramavidaḥ*) or “knowers of the Mother-*maṇḍala*” (*mātṛmaṇ-ḍalavidaḥ*, edition of H. Kern), has been taken by Harper (1989, 122) as an indication of a tantric cultic orientation. However, the mere occurrence of the term *maṇḍala* does not warrant this; here it probably means “the group/set \[of Mothers\].” Note the same terminology in the inscription of the contemporaneous *saptamātaraḥ* shrine at Deogarh, which in its benedictory verse refers to the enshrined deities as a *maṇḍala* of Mothers (*Epigraphia Indica* XXX.15, 125–27).
+
 [^17]: Navsari plates of Yuvarājaśryāśrayaśīlāditya, found in the Surat district of modern Gujarat. *Corpus Inscriptionum Indicarum,* vol. IV.
 
 *[p. 8]* ^pg8
@@ -119,6 +128,7 @@ The temple cult of the Mothers bears an uncertain relationship to the tantric or
 The significance of the Mothers in Tantric Śaivism extends beyond chronology, for *mātṛ*-veneration appears to underlie, in part, the medieval cult of the flying, shapeshifting goddesses or female spirits known as *yoginīs*. Representations of *yoginī*s in tantric Śaiva literature are extremely diverse, but some of the most common characteristics of this deity typology include occurrence in groups (sextets, initially, with configurations of sixty-four 
 
 [^18]: *Mātṛ* shrines (*veśman,* etc*.*) are often mentioned in lists of locales appropriate for the practice of *sādhana,* examples of which include *Brahmayāmala* 14.11cd–13ab and *Siddhayogeśvarīmata* 6.2–4.
+
 [^19]: For Yogeśī as the name of the eighth Mother, see *Brahmayāmala* 46.32b, *Tantrasadbhāva* 14.155b, *Tantrāloka* 29.52d, and the *Bṛhatkālottara* (on which see Sanderson 2004, 267).
 
 *[p. 9]* ^pg9
@@ -128,7 +138,9 @@ becoming typical by the tenth century), organization into “clans” (*kula,* *
 The close connection between the Mother goddesses and emergent conceptions of *yoginī*s is evident in numerous ways. Early Tantric Śaiva treatises on “the characteristics of *yoginī*s” (*yoginīlakṣaṇa*)[^20] classify these goddesses according to clans (*kula*, *gotra*) that have the Seven or Eight Mothers as matriarchs, clan mothers in whose natures the *yoginī*s partake as *aṃśa*s, “portions” or “partial manifestations.” Tantric practitioners too establish kinship with the Mothers, leaving behind their conventional clan and caste identities and entering during initiation into what one might call “initiatory kinship” with the deities.[^21] It is possible that the most fundamental initiation maṇḍala of the Śaiva *yoginī* cult comprised Bhairava in a circle of the Eight Mothers. In the *Brahmayāmala*, while deities called the Four Devīs and Four Consorts (Dūtī) form the primary maṇḍala’s inner circuit of goddesses, the initiatory clans remain nonetheless those of the Eight Mothers and Bhairava.[^22] This scenario’s historical plausibility is corroborated by 
 
 [^20]: *Siddhayogeśvarīmata* 29, *Brahmayāmala* 74, and *Tantrasadbhāva* 16.
+
 [^21]: A *yoginī* of the clan of Brāhmī/Brahmāṇī is said to be *brahmāṇyaṃśā*, “possessing a portion of Brahmāṇī.” Cf., e.g., *Tantrasadbhāva* 16.253cd. An initiate too is said to be “connected to” or “possess” (*yukta*) an *aṃśa* of a Mother goddess. Cf., e.g., *Brahmayāmala* 74.47cd: *brahmāṇīku-lajā devi svāṃśasiddhipradāyikā* (“\[She is\] a *yoginī* of the clan of Brahmāṇī, O Goddess, who bestows *siddhi* upon those \[*sādhaka*s\] of her own \[Mother-goddess\] *aṃśa*”).
+
 [^22]: *Brahmayāmala* 4.888–898, especially 890cd–894ab: *raktāyās tu yadā pāto gotrā māheśvarā hitam //890//* *karālāyā yadā pāto brahmagotraḥ sa ucyate /* *karālyāyā yadā pāto vaiṣṇavīgotrako hi saḥ //891//* *danturāyā yadā pātaḥ kaumārīgotrasambhavā /* *caṇḍākṣyāyā yadā pāto vaivasvatikulodbhavā //892//* *bhīmavaktrāprapātena māhendragotra ucyate /* *mahocchuṣmāprapāte tu carcikāgotrako hi saḥ //893//* *mahābalā yadā pātaḥ pūraṇīgotra ucyate /* 891b °*gotraḥ*\] corr*.;* °*gotras* Cod. 892c *caṇḍākṣyāyā*\] em*.*; *caṇḍākṣāyā* Cod. “When the \[flower cast into the maṇḍala during initiation\] lands on Raktā, the clan of Māheśvarī is enjoined. When it lands upon Karālā, he is said to be of the *brahmā*-clan \[i.e. the clan of Brahmāṇī\]. When it lands on Karālī, he is of the clan of Vaiṣṇavī. When it lands on Danturā, she is born of the clan of Kaumārī. When it lands on Caṇḍākṣī, she is born of the clan of Vaivasvatī \[i.e. Yāmī\]. By landing on Bhīmavaktrā, the clan of the great Indra \[i.e. the clan of Indrāṇī\] is enjoined. If it lands on Mahocchuṣmā, he has the clan of Carcikā \[i.e. Cāmuṇḍā\]. If its fall \[indicates\] Mahābalā, the clan of She Who Completes \[the Mothers\] is enjoined \[i.e. the clan of Bhairavī\].” Subsequent verses provide a concordance of Mother-goddess clans and the Six Yoginīs of the maṇḍala. The confusion of grammatical gender in this passage is remarkable, and probably to a large degree original.
 
 *[p. 10]* ^pg10
@@ -152,7 +164,9 @@ That Mother goddesses have old connections with tantric ritual and female spirit
 Significant information concerning transformations in conceptions of the Mothers, and their connections with Tantric Śaivism, emerges in the old *Skandapurāṇa* (c. 6–7th century).[^25] As Yokochi points out (2004, 99–113), this preserves the pre-Gupta conception of countless diverse Mother goddesses alongside the “Hinduized” or Brahmanical Seven Mothers. It also attests a process by which important local goddesses were given Śaiva identities 
 
 [^23]: This inscription was first published by John F. Fleet in *Corpus Inscriptionum Indicarum*, vol. III (72–78), and subsequently by Sircar (1965, vol. 1, 399–405).
+
 [^24]: Borrowing an expression from the title of an article of Chitgopekar (2002).
+
 [^25]: The “early” or “old” *Skandapurāṇa* should not be confused with the better-known published text by this name; the latter was in fact somewhat artificially assembled by paṇḍits in the colonial period from various medieval tracts having the *Skandapurāṇa* as locus of ascription (Adriaensen et al. 1998, 3–4, 24–25).
 
 *[p. 12]* ^pg12
@@ -204,7 +218,9 @@ In *tantra*s of the Vidyāpīṭha,[^32] Mother goddesses recede somewhat to the
 A woman who has three lines on her forehead touching the hair’s part, on top; who is fair-complexioned, having the scent of the *campaka* flower, and ever fond of celibacy; always fond of the sound of the Veda, imperturbable, speaking the truth; \[she has\] a staff, water-pot, antelope skin, yoga-cloth, ritual ladles, *darbha* grass, and a sacred thread; and on her house is drawn a lotus. She should be carefully noted as belonging to the clan of \[the Mother goddess\] Brahmāṇī, O fair woman.[^33]
 
 [^31]: Sanderson points out that this reference to the Mothers is absent from the recension of the *Svacchandatantra* preserved in Nepalese manuscripts (personal communication, January 2007).
+
 [^32]: Four Vidyāpīṭha works appear extant: the *Brahmayāmala*, *Siddhayogeśvarīmata*, *Tantrasadbhāva*, and *Jayadrathayāmala*, among which the *Siddhayogeśvarīmata* has been partially edited by Törzsök (1999), while the present author has edited several chapters of the *Brahmayāmala* (Hatley 2007).
+
 [^33]: *Brahmayāmala* 74.44–46: *tisro rekhā lalāṭe tu ūrdhvasīmantam āśritāḥ /* *gaurī campakagandhī ca brahmacaryaratā sadā //44//* *vedaghoṣapriyā nityam akṣobhyā satyavādinī /* *daṇḍaṃ kamaṇḍaluñ caiva ajinaṃ yogapaṭṭakam //45//* *srucīdarbhopavītaṃ tu padmañ ca likhitaṃ gṛhe /* *lakṣitavyā prayatnena brahmāṇyaṃśā varānane //46//* For the critical apparatus and notes, see Hatley (2007, 329, 406–407).
 
 *[p. 17]* ^pg17
@@ -218,7 +234,9 @@ Kaula scriptures continue to attach considerable significance to *yoginī*s, and
 Despite trends toward interiorization in Kaula practice, Kaula conceptions of *yoginī*s appear to inform the monumental temples dedicated to these goddesses beginning, most probably, from the tenth century. It is in the latter literature of the Kaula cult of the goddess Kubjikā that we find the earliest Śaiva textual references to visual representation of sixty-four *yoginī*s, the numerical configuration best attested in temples. In particular, the unpublished fifteenth chapter of the *Ṣaṭsāhasrasaṃhitā*, as identified by Alexis Sanderson, provides a detailed account of the iconography of sixty-four *yoginī*s, linked to the Eight Mothers. The context concerns private ritual rather than the temple worship.[^36] Significantly, Gudrun Bühnemann (2003) 
 
 [^34]: See, e.g., *Brahmayāmala* 74.47cd, quoted in n. 21 above.
+
 [^35]: Note, for instance, the four- or fivefold series beginning with the *bhūcarī* (“terrestrial *yoginī”*) common in Krama texts (Törzsök, *forthcoming*), or the classification of *yoginī*s as *kṣetrajā* (“born in sacred fields,“ etc.), *pīṭhajā* (“born in sacred mounds”) and so forth in the *Kaulajñānanirṇaya* (Hatley 2007, 159–161).
+
 [^36]: See Serbaeva, who quotes *Ṣaṭsāhasrasaṃhitā* 15 from a draft edition of Sanderson (2006, 75 in “Cited Sanskrit Passages” and 56–61 in Appendix 7.6).
 
 *[p. 18]* ^pg18

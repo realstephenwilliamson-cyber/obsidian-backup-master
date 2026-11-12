@@ -71,6 +71,7 @@ The Uruguay Round negotiations, which lasted from 1986 to 1994, envisioned a gra
 In both Europe and the United States, the trade law concept of *safeguards* has provided the principal means of resisting the now-matured textiles obligations. This concept emphasizes both the softness as well as the constraints of trade law obligations. It permits states to derogate from their obligations in cases where sudden surges of imports cause especially great domestic harm.
 
 [^3]: Agreement on Textiles and Clothing, April 15, 1994, http://www.wto.org/english/docs e/legal e/16tex e.htm (last visited September 1, 2005).
+
 [^4]: For a review of this background, see Henry R. Zheng, *Defining Relationships and Resolving Conflicts Between Interrelated Multinational Trade Agreements: The Experience of the MFA and the GATT*, 25 Stan. J. Int’l L. 45 (1988).
 
 *[p. 185]* ^pg195
@@ -84,7 +85,9 @@ We do not know how the liberalization of textiles trade will play out, but it se
 For critics who object to trade liberalization, the stakes in the debate over textiles are high. Some see textiles manufacturers as the epitome of exploitive capitalists.[^6] They believe that any reduction in labor costs will result only in greater profits for the corporations that make these goods, and not in lower prices for consumers or higher wages for workers in the developing world. This, of course, is an empirical claim, and the incidence of gains from liberalizing textiles trade can (and will) be assessed. We note, however, that the historical record for other industries that have gone through liberalization indicates that the gains generally are not limited to the suppliers of capital.[^7]
 
 [^5]: For domestic litigation challenging the U.S. restrictions to no avail, see *U.S. Ass’n of Importers of Textiles and Apparel v. U.S. Dept. of Commerce*, 413 F.3 rd 1344 (Fed. Cir. 2005). For the EC regulation that postponed enforcement of the quota to accommodate already shipped products, see Commission Regulation (EC) No. 1478/2005, 2005 O.J. (L 236) 3.
+
 [^6]: *E.g.*, Naomi Klein, No Logo: Taking Aim at the Brand Bullies (1999).
+
 [^7]: For a review of the claim, see Thomas A. Pugel & Peter H. Lindert, International Economics 61 –76 (11th ed. 2000).
 
 *[p. 186]* ^pg196
@@ -146,6 +149,7 @@ The problem with the effective capacity standard, as illuminated by these questi
 If, as we argue, the main problem with the ICC is its self-judging of its jurisdiction, then the question becomes how to contrive a solution. Simply
 
 [^11]: Statute of the International Criminal Court, arts.5, 17, published at http://www.icc-cpi.int/library/about/officialjournal/Rome Statute 120704-EN.pdf (last visited September 19, 2005).
+
 [^12]: For discussion of the dispute and its implications for international law generally, see Paul B. Stephan, *Process Values, International Law, and Justice*, 23 Social Phil. & Pol’y 131 (2006).
 
 *[p. 191]* ^pg201
@@ -173,6 +177,7 @@ Even though the new structure has generated some reservations, several respected
 These proposals to privatize the WTO DSB are not so far fetched. The Appellate Body has embraced the principle that nongovernmental groups can make submissions, as long as at least one party to a proceeding consents to their participation. The United States, one of the more frequent parties before the WTO DSB, generally has promoted public participation in its proceedings, even in instances where a group does not support the U.S. position. These concessions do not amount to a power to initiate and sustain a dispute in the face of governmental opposition, but they do represent the first step toward the sharing of control over the prosecution and defense of disputes before the WTO DSB. As for private sanctions, in one case the United States offered, and the EC accepted, a lump-sum payment to settle a dispute after a finding that the United States had violated its obligations.[^15] This single instance does not
 
 [^14]: *E.g.*, Gregory Shaffer, Defending Interests: Public-Private Partnerships in WTO Litigation (2003); Andrew T. Guzman, *A Compliance-Based Theory of International Law*, 90 Calif. L. Rev. 1823, 1872–75 (2002); Andrew T. Guzman, *The Cost of Credibility: Explaining Resistance to Interstate Dispute Resolution Mechanism*, 31 J. Legal Stud. 303 (2002); Joel P. Trachtman & Philip M. Moremen, *Costs and Benefits of Private Participation in WTO Dispute Settlement: Whose Right Is It Anyway?* 44 Harv. Int’l L.J. 221 (2003).
+
 [^15]: United States – Section 110(5) of the US Copyright Act, WT/DS160/23 (2003).
 
 *[p. 193]* ^pg203
@@ -210,6 +215,7 @@ Extending the NAFTA international review mechanism to all WTO members, which is 
 To be sure, the NAFTA enforcement mechanism is not an exact model for our proposal. Under Article 1904(2) of NAFTA, the binational panels are
 
 [^17]: 19 U.S.C. §1516a(f)(3), (g)(7),(8)(2001). *See* American Coalition for Competitive Trade v. Clinton, 128 F.3 rd 761 (D.C. Cir. 1997) (dismissing on standing grounds lawsuit claiming that Title 19 binational panel review violated various provisions of U.S. constitution).
+
 [^18]: To be precise, this was the percentage of imported goods for 2004.
 
 *[p. 196]* ^pg206
@@ -225,7 +231,9 @@ Our broader point is that existing proposals to privatize the enforcement of all
 In the previous chapter, we described the controversy over the validity of the several ICJ decisions regarding U.S. fulfilment of its obligations under the Vienna Convention on Consular Relations. The response to the latest ICJ decision has been mixed and is still ongoing. The President both repudiated the Optional
 
 [^19]: In the case of the United States, this point is reinforced by Section 102 of the North American Free Trade Agreement Act, *codified at* 29 U.S.C. §3312 (2001), which declares in essence that none of the NAFTA obligations has direct effect in U.S. law except to the extent that Congress has incorporated them by statute.
+
 [^20]: Erie R. Co. v. Tompkins, 304 U.S. 64 (1938) (in exercising diversity jurisdiction, federal courts must apply the law as they believe the relevant State would, rather than develop an independent body of federal common law).
+
 [^21]: Murray v. The Charming Betsy, 6 U.S. (2 Cranch) 64, 118 (1804) (“\[A\]n act of Congress ought never to be construed to violate the law of nations if any other possible construction remains *. . .*”).
 
 *[p. 197]* ^pg207
@@ -237,6 +245,7 @@ We are not interested in the particulars of the litigation currently in the U.S.
 To begin with, the Vienna Convention deals with a classic collective action problem. In the abstract, all states probably prefer that other states treat their subjects well and that they have a free hand when dealing with foreign criminal suspects. The Vienna Convention takes a modest, if somewhat indirect, step toward setting minimum standards in the treatment of criminal suspects. The Optional Protocol in turn designates the ICJ as a tribunal with the authority to ascertain the specifics of what the Convention requires in particular instances. The signatories to that Protocol presumably understood that the ICJ had no enforcement powers of its own. Did the decision to join the Optional Protocol nonetheless represent, as one U.S. court has suggested, a commitment by each signatory state to require its own courts to implement any decisions that the ICJ might make?
 
 [^22]: As we write, the Supreme Court is considering the question of whether it should embrace the ICJ’s interpretation of the Vienna Convention as, among other things, forbidding the application of a procedural default rule to foreclose post-conviction consideration of a claim under that treaty. Bustillo v. Johnson, 126 S. Ct. 621 (2005) (granting certiorari). We should disclose that in both *Medellín* and Bustillo one of us participated as an *amicus curiae* in both the Supreme Court litigation and the Texas Court of Appeal’s consideration of the subsequent application for postconviction relief. Brief for Professors of International Law, Federal Jurisdiction and the Foreign Relations Law of the United States as *Amici Curiae* on Behalf of Respondent, Sanchez-Llamas v. State, No. 04-10566, and Bustillo v. Johnson, No. 05 -51, Feb. 1, 2006 (Paul B. Stephan, counsel of record); Brief for Professors of International Law, Federal Jurisdiction and the Foreign Relations Law of the United States as *Amici Curiae* on Behalf of Respondent, Medellín v. Dretke, No. 04–5928, Feb. 28, 2005 (Paul B. Stephan, counsel of record); Brief for Professors of International Law, Federal Jurisdiction and the Foreign Relations Law of the United States as *Amici Curiae* on behalf of Respondent, *Ex parte* Medellín, No. AP-75,207.
+
 [^23]: Jogi v. Voges, 425 F.3 rd 367, 384 (7th Cir. 2005).
 
 *[p. 198]* ^pg208
@@ -272,7 +281,9 @@ The problem, put broadly, is that not knowing when its domestic court will choos
 The U.S. experience with proposals for formal enforcement of the UN Charter during the 1940s and 1950s and of the GATT during the 1960s, recounted in Chapter 6, seems relevant here. Uncertainty about whether domestic judges would enforce these rules induced greater caution in their development. Similarly, we anticipate further U.S. retrenchment on ICJ jurisdiction, and perhaps withdrawal from other tribunal-based dispute-resolution arrangements, if domestic courts give any indication that they will act as the ICJ’s enforcement agents. On balance, then, policy makers who find our theory helpful should wish for courts to wait on the political branches before finding themselves empowered to carry out the will of the ICJ.[^27]
 
 [^25]: Committee of U.S. Citizens Living in Nicaragua v. Reagan, 859 F.2nd 929 (D.C. Cir. 1988) (rejecting lawsuit on grounds that ICJ decisions have no domestic effect in U.S. law).
+
 [^26]: Mark Weisburd, *International Courts and American Courts*, 21 Mich. J. Int’l L. 877 (2000). As we noted earlier, *Jogi v. Voges* 425 F.3 rd 367 (7th Cir. 2005), seems to have endorsed an argument for asserting this power, but the court took no such action.
+
 [^27]: We express no view on whether, in the specific instance of the *Medellín* dispute, President Bush’s order constitutes a sufficient authorization on the part of the political branches. This is a matter of the domestic constitutional law of the United States, a subject on which we profess no special expertise.
 
 *[p. 201]* ^pg211
@@ -286,9 +297,13 @@ There remain, however, a significant number of agreements where the intention of
 Courts and commentators tend to approach defaults from one of two directions. The *proactive approach*, as we shall term it, presumes the efficacy of domestic judicial enforcement of international agreements and puts the burden of proof on those arguing against intervention. It focuses only on capacity issues such as verifiability, asking whether an agreement contains “sufficiently
 
 [^28]: *See* Portuguese Republic v. Council (Case C-149/96), \[1999\] E.C.R. I-8395 (analyzing deliberate decision of Uruguay Round parties not to have agreements directly enforceable).
+
 [^29]: Convention for the Unification of Certain Rules Relating to International Transportation by Air, Oct. 12, 1929, 49 Stat. 3000, T.S. No. 876, 137 L.N.T.S. 11; Articles of Agreement of the International Monetary Fund, July 22, 1944, 60 Stat. 1401, 2 U.N.T.S. 39, *as amended*, 20 U.S.T. 2775; 29 U.S.T. 2203, T.I.A.S. NO. 11898.
+
 [^30]: Convention for the Unification of Certain Rules of Law Relating to Bills of Lading, Aug. 25, 1924, 51. Stat. 233, 120 L.N.T.S. 155, *implemented by* Carriage of Goods at Sea Act of 1936, 46 U.S.C. app. §§1300–1315 (2001).
+
 [^31]: For a review of international agreements involving private commercial transactions, see Paul B. Stephan, *The Futility of Unification and Harmonization in International Commercial Law*, 39 Va. J. Int’l L. 743 (1999).
+
 [^32]: For a debate on whether the treaties permit this limitation, compare Curtis A. Bradley & Jack L. Goldsmith, *Treaties, Human Rights, and Conditional Consent*, 149 U. Pa. L. Rev. 399 (2000), with Ryan Goodman, *Human Rights Treaties, Invalid Reservations, and State Consent*, 96 Am. J. Int’l L. 531 (2002), and Louis Henkin, *U.S. Ratification of Human Rights Treaties: The Ghost of Senator Bricker,* 89 Am. J. Int’l L. 341 (1995). *See also* Sosa v. Alvarez-Machain, 542 U.S 692, 728, 735 (2004) (giving effect to Senate reservation). *But see* Igartua-De La Rosa v. United States, 415 F.3 rd 145, 189–90 (1 st Cir. 2005) (Howard, J., dissenting) (rejecting authority to impose reservations).
 
 *[p. 202]* ^pg212
@@ -302,6 +317,7 @@ As in our discussion of the Vienna Convention, the distinction between first-ord
 As we already have suggested, were one to ignore enforcement risk, the case for formal enforcement of the Geneva Convention on prisoners of war would
 
 [^33]: Carlos Manuel Vázquez, *The Four Doctrines of Self-Executing Treaties*, 89 Am. J. Int’l L. 695, 713 –15 (1995) (citing cases).
+
 [^34]: Geneva Convention Relative to the Treatment of Prisoners of War, Aug. 12, 1949, 6 U.S.T. 3316; Enemy Prisoners of War, Retained Personnel, Civilian Internees and Other Detainees, Army Reg. 190–8, §§1 –5, 1 –6 (1997); Hamdi v. Rumsfeld, 542 U.S. 507, 549-51 (2004) (Souter, J., concurring) (discussing U.S. implementation of Geneva Convention).
 
 *[p. 203]* ^pg213
@@ -317,6 +333,7 @@ To be sure, current doctrine on when U.S. courts will find judicially enforceabl
 When there is domestic enforcement of an international instrument, disagreements over the extent of the agreement’s domain still can arise. If a treaty specifies an obligation and designates courts as the proper agents for sanctioning noncompliance, how seriously should courts take the question of whether
 
 [^35]: Johnson v. Eisentrager, 339 U.S. 763 (1950) (applying earlier prisoner of war convention and finding no judicially enforceable rights); Hamdan v. Rumsfeld, 415 F.3 rd 33 (D.C. Cir.) (1949 Convention not judicially enforceable), *cert. granted*, 126 S. Ct. 622 (2005); Hamdi v. Rumsfeld, 316 F.3 rd 450 (4th Cir. 2003) (same), *vacated and remanded on other grounds*, 542 U.S. 507 (2004). For academic commentary, see Derek Jinks & David Sloss, *Is the President Bound by the Geneva Conventions?* 90 Cornell L. Rev. 97 (2004).
+
 [^36]: Carlos Manuel Vázquez, note 33 *supra*, at 695.
 
 *[p. 204]* ^pg214
@@ -330,8 +347,11 @@ All this may seem straightforward, but the Warsaw Convention also presents a pre
 A recent case illustrates the problem. In *Chubb & Sons, Inc. v. Asiana Airlines*,[^40] the court had to decide what law governed a dispute over the misdelivery of goods shipped by international air carrier. The flight originated in South Korea and ended in the United States, presumptively bringing the transaction under the Warsaw Convention. But the United States acceded only to the 1929 version of the Convention, while South Korea had joined only the
 
 [^37]: Convention for the Unification of Certain Rules Relating to International Transportation by Air, Oct. 12, 1929, 49 Stat. 3000, T.S. No. 876.137 L.N.T.S. 11, *reprinted in note following* 49 U.S.C. §40105 (2001).
+
 [^38]: Convention for the Unification of Certain Rules of Law Relating to Bills of Lading, Aug. 25, 1924, 51 Stat. 233, 120 L.N.T.S. 155 \[hereinafter Hague Rules\], implemented by Carriage of Goods at Sea Act, Apr. 16, 1936, 49 Stat. 1207,46 U.S.C. app. §§1300–1315 (2001).
+
 [^39]: For description and analysis of the Warsaw Convention, see Paul B. Stephan, *The Futility of Unification and Harmonization in International Commercial Law*, 39 Va. J. Int’l L. 743, 768–72 (1999).
+
 [^40]: 214 F.3 rd 301 (2nd Cir. 2000), *cert. denied*, 533 U.S. 928 (2001). For a later case raising similar issues, see *Avero Belgium Ins. v. American Airlines, Inc.*, 423 F.3 rd 73 (2nd Cir. 2005) (Hague Protocol to Warsaw Convention did not apply to relations between Belgium and United States at time of contract; U.S. ratification of subsequent Montreal Protocol did not have the effect of ratification of separate Hague Protocol).
 
 *[p. 205]* ^pg215
@@ -343,7 +363,9 @@ A proactive approach would invoke a pro-agreement default on the theory that jud
 On appeal, the Second Circuit took a bargaining approach, requiring something closer to the common law’s mirror-image rule to limit treaty relations to instances where states had assumed identical obligations. This default implements the idea that parties might regard the total bargain as motivating performance and correspondingly consider partial enforcement as an unwanted outcome. As with our other examples, we applaud the court’s willingness to employ a second-order analysis to limit the domain of a concededly effective treaty. Because the United States had endorsed a treaty that applied only to flights originating in one party and ending in another, and because South
 
 [^41]: Protocol to Amend the Convention for the Unification of Certain Rules Relating to International Carriage by Air signed at Warsaw on 12 October 1929, Sep. 28, 1955, 478 U.N.T.S. 371.
+
 [^42]: The existence of treaty relations determined both the subject matter jurisdiction of the federal court that heard the case and the substantive rules for determining liability and damages.
+
 [^43]: Uniform Commercial Code §2–207(3). The trial court in *Chubb* did precisely this, although it based its decision on an interpretation of the Warsaw Convention and the Vienna Convention on the Law of Treaties, May 23, 1969, 1155 U.N.T.S. 331. Chubb & Son, Inc. v. Asiana Airlines, 1998 WL 647185 (S.D.N.Y.1998). The United States was (and is) not a party to the latter instrument, although the Department of State maintains that some portions of it have the force of customary international law.
 
 *[p. 206]* ^pg216
@@ -361,6 +383,7 @@ If one accepts that customary international law results from state consent, it i
 The issue remains whether federal courts should look actively for customary rules to enforce or, in most cases, fall back on other sources of law to resolve disputes before it. How does our theory help courts to choose between a quick
 
 [^44]: Schooner Exchange v. McFaddon, 11 U.S. (7 Cranch) 116 (1812) (vessel belonging to French navy not subject to attachment by U.S. courts).
+
 [^45]: The statement in text recognizes that some take the position that customary international law does not, simply by its status as customary international law, constitute federal law for purposes of federal court jurisdiction under Article III of the Constitution or 28 U.S.C. §1331 (2001). For the controversy, see the authorities cited in note 29 of Chapter Two.
 
 *[p. 207]* ^pg217
@@ -416,7 +439,9 @@ The indeterminate nature of customary international law is not just a general pr
 Several conclusions result from this analysis. First, either the United States or the United Kingdom reasonably might consider amending their statutory law of sovereign immunity to block enforcement of sovereign debt obligations in cases that satisfy a narrow and clear definition of odiousness. A precedent of sorts exists in the 1996 amendment to the U.S. Foreign Sovereign Immunity Act, which lifted immunity for certain acts of terrorism and other gross human rights abuses.[^50] Symmetrically, the United States might extend immunity to debts incurred by prior regimes that engage in comparable misconduct. The sanctions regime of Title III of the Helms-Burton legislation, which provides a cause of action against persons who “traffick” in property seized by the Cuban government as part of its revolution but also eliminates this action once the President determines that Cuba has enjoyed a democratic restoration, also provides a model for this hypothetical legislation.[^51] Our point is simply that legislation designed to implement a manageable and valuable form of the odious debt doctrine is feasible and not without precedent.
 
 [^49]: Curtis A. Bradley & Jack L. Goldsmith, *Customary International Law as Federal Common Law: A Critique of the Modern Position*, 110 Harv. L. Rev. 816, 839–40 (1997).
+
 [^50]: Antiterrorism and Effective Death Penalty Act of 1996, §221 (a)(1), Pub. L. 104–132, 110 Stat. 1214, codified at 28 U.S.C. §1605 (a)(7) (2001).
+
 [^51]: Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, §302(h)(1)(B), Pub. L. 104–114, 110 Stat. 788, codified at 22 U.S.C. §6082(h)(1)(B) (2001).
 
 *[p. 212]* ^pg222

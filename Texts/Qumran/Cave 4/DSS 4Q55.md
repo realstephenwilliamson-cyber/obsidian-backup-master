@@ -22,13 +22,13 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Isa 1:1-3 |
-| Frag. 6 | Isa 6:4-8 |
 | Frag. 2-3 | Isa 2:7-10 |
-| Frag. 7 | Isa 11:11-15 |
 | Frag. 4-5 | Isa 4:5 - 5:1 |
+| Frag. 6 | Isa 6:4-8 |
+| Frag. 7 | Isa 11:11-15 |
 | Frag. 8 | Isa 12:4 - 13:16 |
 | Frag. 9 | Isa 17:9-14 |
-| Frag. 17 | Isa 33:16-17 (?) |
 | Frag. 11 ii | Isa 22:13 - 23:12 |
+| Frag. 17 | Isa 33:16-17 (?) |
 
 [[DSS 4Q54|← 4Q54]] · [[Qumran|index]] · [[DSS 4Q56|4Q56 →]]

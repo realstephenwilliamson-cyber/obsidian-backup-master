@@ -67,56 +67,105 @@ When does the above apply? To one who sells in his store or at the entrance to h
 What is implied? If they were equal partners and one takes 200 *log* as his portion, he should separate one *log* as *terumat ma'aser*and ten[^48] *log* as the second tithe for the 100 *log* [of the common person]. [This is all that is required,] for he already separated the tithes for the produce that was definitely not tithed for half of the entire quantity in the vat.[^49] Similarly, if his share was a third or a fourth, he must separate [the tithes from the produce he takes] proportionately.[^50] ^9-13
 
 [^1]: I.e., not the Hasmonean High Priest of that name who became a Sadducee (*Kessef Mishneh*).
+
 [^2]: Since it is punishable by death at the hand of heaven, people were meticulous in separating it [the Rambam's Commentary to the Mishnah (*Demai* 1:1).
+
 [^3]: The majority of the common people would separate the tithes as well. Nevertheless, because there was a significant minority who did not, our Sages imposed this stringency.
+
 [^4]: See Chapter 10, Halachot 1-2.
+
 [^5]: I.e., if such people say that their produce was tithed, we accept their word.
+
 [^6]: The name *demai* is a composite of the Aramaic words *da mai*, meaning "This, what is its status?" (Radbaz).  
     See also *Hilchot Berachot* 1:20 which states that it is necessary to recite a blessing before partaking of *demai*. That indicates that although our Sages ordained that one should separate the tithes before partaking of it, they did not consider partaking of it an outright prohibition. For if so, reciting a blessing would not be in place.
+
 [^7]: I.e., to whom these tithes would be given.
+
 [^8]: I.e., the Sages ordained this stringency with regard to the tithe for the poor, so that the people will be careful in their observance of the second tithe.
+
 [^9]: Although one's observance fulfills a decree of our Sages and blessings are recited for the observance of Rabbinic commandments, e.g., the recitation of Hallel, lighting Shabbat and Chanukah candles, washing hands, and the like, a blessing is not recited in this instance, because this obligation was instituted only because of doubt, not as a practice with inherent positive virtue.
+
 [^10]: I.e., were a blessing required, one would be forbidden to separate it in such a state, because a blessing could not be recited [the Rambam's Commentary to the Mishnah (*Demai* 1:4)].
+
 [^11]: The Radbaz emphasizes that he need not set the remainder of the tithes aside. Indeed, he continues, doing so would be an indication that he should give this produce to the Levite.
+
 [^12]: As a present. There is reason to say that since the matter is one of doubt, one is not required to give it to the priest, but instead, could sell it to him, our Sages ordained that it be given away. See the commentaries to *Sotah* [[Sotah 48#48a|48a]].
+
 [^13]: See *Hilchot Terumot* 3:23.
+
 [^14]: Generally, the tithes must be separated in the appropriate order (*ibid.*). An exception is made with regard to *demai*, for the obligation to separate it is only a Rabbinic stringency (the Jerusalem Talmud, *Demai* 1:4). See also *Hilchot Ma'aser Sheni* 11:13.
+
 [^15]: i.e., if rather than partaking of the produce in Jerusalem as is required with regard to the second tithe, he chooses to redeem it, transferring its holiness to money. That money should be taken to Jerusalem and used to purchase food there. See *Hilchot Ma'aser Sheni*, chs. 4-5.
+
 [^16]: I.e., it is not necessary to actually take this produce to Jerusalem and partake of it as the second tithe. Instead, its holiness could be transferred to money and used to purchase food there.
+
 [^17]: I.e., a baker who is a common person in whose instance the precautions concerning *demai* must be taken.
+
 [^18]: In his Commentary to the Mishnah (*Demai* 5:1), the Rambam states that one should separate this portion from the loaf. Instead, one should slice a piece from the loaf, without cutting the slice away entirely. The commentaries question whether this is the intent here or that here, the Rambam changed his mind and is speaking of a complete separation.
+
 [^19]: As stated in *Hilchot Bikkurim* 5:1-2, before one is permitted to partake of bread, one must separate a portion as *challah*. According to Scriptural Law, there is no minimum amount required for this separation. According to the Rabbis, a private person must separate one twenty-fourth of the loaf and a baker one forty-eighth. In this instance, the latter amount should be separated together with one hundredth for *terumat ma'aser*.
+
 [^20]: As in Halachah 5.
+
 [^21]: When it is forbidden to separate tithes (*Hilchot Shabbat* 23:14).
+
 [^22]: Although a person who is meticulous in his observance of the tithes should not eat in a common person's home (Chapter 10, Halachah 1), it can be explained that this is speaking about an instance where the person accepted the invitation without knowing that the host was not meticulous in his observance of the mitzvah. We are, however, speaking about a situation where the guest merely suspects that his host is not meticulous in his observance. If he is certain that he is not meticulous, different rules apply, as the Rambam states in the final clause of the halachah. The leniencies to follow were granted only for the sake of the Sabbath, but not during the week.
+
 [^23]: This leniency is granted because the obligation to make these separations is Rabbinic in origin.
+
 [^24]: I.e., how can a stipulation be made before the Sabbath for produce that we know is *tevel* to be tithed on the Sabbath?
+
 [^25]: And thus he cannot physically separate them before the onset of the Sabbath.
+
 [^26]: He may not, however, partake of the figs and then leave the tithes. The rationale is that in questions of Scriptural Law, the principle of *bereirah* is not applied and we do not consider it as if the separation that he will ultimately make was made from the outset [the Rambam's Commentary to the Mishnah (*Demai* 7:5)]. See also Chapter 1, Halachah 9.
+
 [^27]: Stating that he had made a stipulation on the previous day.
+
 [^28]: The reason it is forbidden to separate tithes on the Sabbath.
+
 [^29]: If, however, such a stipulation was not made before the onset of the Sabbath, it is forbidden to move the *tevel*. Since it is forbidden to partake of it on the Sabbath, it is comparable to a stone (*Hilchot Shabbat* 25:19).
+
 [^30]: Since after the separations will be made, it will be permitted to partake of it, one never diverted his attention from using it on the Sabbath.
+
 [^31]: Even if the tithes have not been taken away from the produce, since they have already been separated and their place is distinct, it is as if they have been separated already. We do not have to rely on the principle of *bereirah* (Radbaz).
+
 [^32]: This is an extension of the principles stated in Halachah 7. In this instance as well, the common person had invited him to dine with him on the Sabbath and thus he was unable to make the separations before the Sabbath.
+
 [^33]: Since *demai* is a Rabbinic decree, we may rely on the principle of *bereirah*, that a separation made afterwards is retroactively considered as if was made beforehand. Thus the wine in the cup is not considered as *tevel* even though the tithes were not actually separated until later [the Rambam's Commentary to the Mishnah (*Demai* 72:2)].
+
 [^34]: I.e., the money he has set aside at home for the redemption of the second tithe.
+
 [^35]: 1/100th of the cup.
+
 [^36]: The Radbaz questions why the Rambam deviates from the wording used by the Mishnah (*Demai* 7:1) which speaks of a person inviting a colleague to dine.
+
 [^37]: We are speaking about a situation in which the worker is entitled to partake of the produce as a result of a contractual stipulation and not because the Torah gives him the right to do so. See Chapter 5, Halachah 9.
+
 [^38]: In contrast to the previous halachot, this is not speaking about a situation where the person partakes of the food on the Sabbath. Instead, it is speaking about a situation during the week and the separation is made at the time the tithes are designated.
+
 [^39]: Actually, the nine.
+
 [^40]: Here also, the intent is nine. See Chapter 7, Halachah 1.
+
 [^41]: Since he will use this money for food in Jerusalem, he will not suffer a loss by separating it from his own.
+
 [^42]: I.e., the worker is entitled to take an extra fig from the employer as reimbursement for the produce he gives the priest as *terumat ma'aser*.
+
 [^43]: In his Commentary to the Mishnah (*Demai* 2:4, based on *Yoma* [[Yoma 9#9a|9a]]), the Rambam writes that this leniency was instituted because the local officials would keep steady watch over the bakers and regulate their sales, preventing them from charging higher prices. In consideration of their position, our Sages did not require them to separate the second tithe.
+
 [^44]: For he will not be suffering a loss, for he will use the money from the second tithe to purchase food in Jerusalem. For the baker, however, making this separation would be a severe loss, for he would never spend all the money for the grain he uses on his own provisions in Jerusalem.
+
 [^45]: In which instance, the initial baker is not pressured to lower his price to the same degree.
+
 [^46]: I.e., they divided the grapes originally and he tithed his grapes before they were crushed and made into wine.
+
 [^47]: I.e., he must separate tithes for the share of his partner.
+
 [^48]: Actually, the nine.
+
 [^49]: We assume that each drop of wine is equally blended between the tithed portion and the portion that is *demai*. Thus the share to be tithed is no more than half the amount the person is taking, for he already separated the tithes for his own share.  
     In his gloss to this halachah, the Ra'avad questions the Rambam's ruling, noting that the restrictions regarding *demai* are Rabbinic in origin and that the principle of *bereirah* can be applied in questions of Rabbinic Law. Hence, based on this principle, we could say that retroactively, it could be considered that when the person separated the tithes for his portion, he was separating the tithes for the portion that he would ultimately receive.  
     The Ra'avad explains that it is possible to say that this principle is not applied as a penalty to the person. He is penalized, because he should not have mixed his produce with that of a common person. The Radbaz amplifies this explanation, stating that by mixing his produce together with that of a common person he caused the *terumat ma'aser* that will be separated to become impure. The *Kessef Mishneh* explains that initially when the separation was first made, the two batches of produce were not mixed together. Hence, it is not appropriate to say that the separation he is making now will affect the entire quantity.  
     If, however, they were full partners and did not make a division until the wine was produce, the person who is conscientious in his observance need not separate more than the tithes for his own portion. There is no need for him to be concerned about the share of the common person. For within this context, we apply the principle of *bereirah* and assume that retroactively, each one is receiving his own share and hence has no responsibility for the share of his colleague.
+
 [^50]: If his share of the produce was one-third, he would have separated that amount of the total yield. Thus he would have to tithe two-thirds of the produce he receives.

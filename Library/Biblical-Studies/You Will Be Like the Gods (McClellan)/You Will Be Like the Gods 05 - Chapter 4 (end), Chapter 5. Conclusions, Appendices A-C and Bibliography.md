@@ -23,9 +23,13 @@ In the patriarchal narratives we find a different usage of אלהים, particula
 31:30, 32; 35:2, 4. The first of these pericopae describes Laban’s confrontation of Jacob after the latter 
 
 [^11]: This pericope has a long history of interpretation stretching back to the Dead Sea Scrolls and the New Testament. For scholarly analyses, see P. Alexander, “The Targumim and Early Exegesis of ‘Sons of God’ in [[Torah 01 - Bereshit#^6-1|Genesis 6]],” *JJS* 23 (1972): 60–71; D. Peterson, “[[Torah 01 - Bereshit#^6-1|Genesis 6:1–4]], Yahweh and the Organization of the Cosmos,” *JSOT* 13 (1979): 47–64; L. Eslinger, “A Contextual Identification of the *bene ha’elohim* and *benoth ha’adam* in [[Torah 01 - Bereshit#^6-1|Genesis 6:1–4]],” *JSOT* 13 (1979): 65–73; R. Hendel, “Of Demigods and the Deluge: Toward an Interpretation of [[Torah 01 - Bereshit#^6-1|Genesis 6:1–4]],” *JBL* 106.1 (1987): 13–26; H. Kvanvig, “Gen 6,1–4 as an Antediluvian Event,” *SJOT* 16 (2002): 79–112; Hendel, “The Nephilim Were on the Earth,” 11–34; A. Wright, *The Origin of Evil Spirits: The Reception of [[Torah 01 - Bereshit#^6-1|Genesis 6.1–4]] in Early Jewish Literature* (Tübingen: Mohr Siebeck, 2005), 51–95; S. Fockner, “Reopening the Discussion: Another Contextual Look at the Sons of God,” *JSOT* 32 (2008): 435–56; C. Kaminski, “Beautiful Women or ‘False Judgment’? Interpreting [[Torah 01 - Bereshit#^6-2|Gen 6:2]] in the Context of the Primeval History,” *JSOT* 32 (2008): 457–73; H. Kvanvig, *Primeval History: Babylonian, Biblical, and Enochic. An Intertextual Reading* (Leiden: Brill, 2011), 274–310.
+
 [^12]: One possible reading understands God’s anger to result from the overpopulation of the earth. Another sees his anger stemming from the threat against the boundaries separating the divine from the human (a theme repeated in the primeval history). Neither is without exegetical issue, however. For a recent interpretation of the “sons of אלהים” as humans, see Fockner, “Reopening the Discussion,” 435–56.
+
 [^13]: The story is not perfectly consistent with the description of the state of the earth in vv. 5–6, but attempts to harmonize the pericope by reading the “sons of אלהים” as humans in general neglect their divine literary profile, which is consistent throughout the Hebrew Bible and cognate literature (see, particularly, Cho, *Lesser Deities in the Ugaritic Texts and the Hebrew Bible*). The story’s relationship to the flood tradition appears to be assumed by the author to be known.
+
 [^14]: Discomfort with this observation would inspire later interpretations of the “sons of אלהים” as humans (cf. Alexander, “The Targumim and Early Exegesis of ‘Sons of God’ in [[Torah 01 - Bereshit#^6-1|Genesis 6]],” 67–69)
+
 [^15]: This supports the conceptual identification of the “sons of אלהים” with the second-tier deities of the Ugaritic texts, who are portrayed in much the same way (although even El is presented as a deity given to women and wine).
 
 *[p. 113]* ^pg120
@@ -63,7 +67,9 @@ use other pejorative terms in narration, the characters themselves, whether Isra
 appear to be comfortable with the designation אלהים. 
 
 [^16]: singular pronominal suffices are used to refer to the תרפים, which may suggest another concretized abstract plural.
+
 [^17]: See K. van der Toorn, “The Nature of the Biblical Teraphim in the Light of the Cuneiform Evidence,” *CBQ* 52 (1990): 203–22; H. Rouillard, “Rephaim רפאים,” *DDD*, 699–700; T. Lewis, “Teraphim תרפים,” *DDD*, 844–50.
+
 [^18]: Micah does the same in [[Judges 18#^18-24|Judg 18:24]] after men from the tribe of Dan steal his cultic goods and recruit his Levitical priest.
 
 *[p. 114]* ^pg121
@@ -83,6 +89,7 @@ and non-prototypical examples.
 The ascription of divinity to cultic statues and other objects is well known within the field of Assyriology, and has actually been a focus of discussion in recent years. The main questions have been related to (1) the nature of the relationship shared by the deity and its associated cultic objects, and (2) the nature of the divinity ascribed to non-anthropomorphic objects. While scholars have long 
 
 [^19]: The word פסל, “image,” appears in [[Torah 17 - Yitro#^20-4|Exod 20:4]]; [[Torah 32 - Behar#^26-1|Lev 26:1]]; [[Torah 45 - Vaetchanan#^4-16|Deut 4:16]], [[Torah 45 - Vaetchanan#^4-23|23]], [[Torah 45 - Vaetchanan#^4-25|25]]; [[Torah 45 - Vaetchanan#^5-8|5:8]]; [[Torah 50 - Ki Tavo#^27-15|27:15]]; [[Judges 17#^17-3|Judg 17:3]], [[Judges 17#^17-4|4]]; [[Judges 18#^18-14|18:14]], [[Judges 18#^18-17|17]], [[Judges 18#^18-18|18]], [[Judges 18#^18-20|20]], [[Judges 18#^18-30|30]], [[Judges 18#^18-31|31]]; [[II Kings 21#^21-7|2 Kgs 21:7]]; [[Isaiah 40#^40-9|Isa 40:9]], [[Isaiah 40#^40-20|20]]; [[Isaiah 42#^42-17|42:17]]; [[Isaiah 44#^44-9|44:9]], [[Isaiah 44#^44-10|10]], [[Isaiah 44#^44-15|15]], [[Isaiah 44#^44-17|17]]; [[Isaiah 45#^45-20|45:20]]; [[Isaiah 48#^48-5|48:5]]; [[Jeremiah 10#^10-14|Jer 10:14]]; [[Jeremiah 51#^51-17|51:17]]; [[Nahum 1#^1-14|Nah 1:14]]; [[Habakkuk 2#^2-18|Hab 2:18]]; [[Psalms 097#^97-7|Ps 97:7]]; [[II Chronicles 33#^33-7|2 Chr 33:7]]. אליל, commonly translated “idol,” occurs in [[Torah 30 - Kedoshim#^19-4|Lev 19:4]]; [[Torah 32 - Behar#^26-1|26:1]]; [[Isaiah 02#^2-8|Isa 2:8]], [[Isaiah 02#^2-18|18]], [[Isaiah 02#^2-20|20]]; [[Isaiah 10#^10-10|10:10]], [[Isaiah 10#^10-11|11]]; [[Isaiah 19#^19-1|19:1]], [[Isaiah 19#^19-3|3]]; [[Isaiah 31#^31-7|31:7]]; [[Jeremiah 14#^14-14|Jer 14:14]]; [[Ezekiel 30#^30-13|Ezek 30:13]]; Had 2:18; [[Zechariah 11#^11-17|Zech 11:17]]; [[Psalms 096#^96-5|Ps 96:5]]; [[Psalms 097#^97-7|97:7]]; [[Job 13#^13-4|Job 13:4]]; [[I Chronicles 16#^16-26|1 Chr 16:26]].
+
 [^20]: S. Allen, “The Splintered Divine: A Study of Ištar, Baal and Yahweh Divine Names and Divine Multiplicity in the Ancient Near East” (PhD diss., University of Pennsylvania, 2011), 18. Allen cites (19–20, n. 8) B. Porter’s recent suggestion that Mesopotamian deities have been treated far too anthropomorphically due to the prioritization of myths and hymns over the data provided by other cultic texts and objects. Porter argues that a personality was not a necessary feature of a deity. See Porter, “Blessings from a Crown, Offerings to a Drum: Were There Non-Anthropomorphic Deities in Ancient Mesopotamia?” in *What is a God?* 158–59.
 
 *[p. 115]* ^pg122
@@ -108,8 +115,11 @@ This text does not otherwise repeat any divine names, raising the question of wh
 This brings us back to B. Pongratz-Leisten’s proposal, which suggests divinity, as a result of our cognitive predisposition to the attribution of agency to natural events and processes, operated in Mesopotamia as a communicable kind of agency with which inanimate and non-anthropomorphic 
 
 [^21]: J. Bottéro explicitly calls for scholars to turn to hymns and prayers to determine the nature of the gods in ancient Mesopotamia (Bottéro, *Religion in Ancient Mesopotamia* \[T. Fagan, trans.; Chicago: University of Chicago Press, 2001\], 59).
+
 [^22]: For instance, see Dick, “The Mesopotamian Cult Statue,” 46: “The Mesopotamian gods possess corporeality: they share with us size, age, gender, attractiveness, and even in rare cases mortality.” Bottéro also insists that divine objects are inferior expressions of divinity and do not experience “true divinity” (Bottéro, *Religion in Ancient Mesopotamia*, 63).
+
 [^23]: Porter, “Introduction,” in *What is a God?* 1.
+
 [^24]: This example and its translation are taken from Allen, “The Splintered Divine,” 20–21.
 
 *[p. 116]* ^pg123
@@ -121,10 +131,15 @@ May the water stoup of Asalluhi bestow favor upon me, May the censer and torch o
 The eighth century BCE inscriptions from Kuntillet ʿAjrud[^29] and Khirbet el-Qôm[^30] may provide an Israelite analogue to this view of divine agency. The inscriptions mention blessings “by YHWH and *lʾšrth*” (“by his *asherah*”): 
 
 [^25]: Pongratz-Leisten, “Divine Agency and Astralization of the Gods in Ancient Mesopotamia,” 147.
+
 [^26]: Pongratz-Leisten, “Divine Agency and Astralization of the Gods in Ancient Mesopotamia,” 149.
+
 [^27]: Pongratz-Leisten suggests that the secondary agents functioned “as media in the cult—that is, the context of social interaction—facilitating communication between the human and the divine spheres” (“Divine Agency and Astralization of the Gods in Ancient Mesopotamia,” 148).
+
 [^28]: Quoted in Pongratz-Leisten, “Divine Agency and Astralization of the Gods in Ancient Mesopotamia,” 148. Original text is B. Foster, *Before the Muses* (Bethesda, Md.: CDL, 2005), 682–86. In support of reading these cult objects as secondary agents of Marduk, rather than independent deities, note that this particular prayer is addressed to Marduk, and Asalluhi is one of his fifty names, according to *Enūma Eliš* (1.185–93). For the relationship between Marduk and Asalluhi, see T. Oshima, *Babylonian Prayers to Marduk* (Tübingen: Mohr Siebeck, 2011), 42–47 (for the full text and translation of the prayer, see pp. 357–62).
+
 [^29]: Emerton, ‘New Light on Israelite Religion,” 2–20; J. Hadley, “Some Drawings and Inscriptions on Two Pithoi from Kuntillet ʿAjrud,” *VT* 37.2 (1987): 185–86.
+
 [^30]: W. Dever, “Iron Age Epigraphic Material from the Area of Khirbet El-Kôm,” *HUCA* 40-41 (1970): 139–204; A. Lemaire, “Les inscriptions de Khirbet El-Qom et l'Ashérah de Yhwh,” *RB* 84 (1977): 597–608; Z. Zevit, “The Khirbet el-Qôm Inscription Mentioning a Goddess,” *BASOR* 255 (1984): 39–47; J. Hadley, “The Khirbet el-Qom Inscription,” *VT* 37.1 (1987): 50–62; B. Margalit, “Some Observations on the Inscription and Drawings from Khirbet el-Qôm,” *VT* 39.3 (1989): 371–78; W. Shea, “The Khirbet el-Qom Tomb Inscription Again,” *VT* 40.1 (1990): 110–16.
 
 *[p. 117]* ^pg124
@@ -158,9 +173,13 @@ The biblical witness is less explicit and can be read a number of ways, but the 
 From a canonical point of view, such texts take priority and provide the interpretive lens for the 
 
 [^32]: Cf. Dever, *Did God Have A Wife? Archaeology and Folk Religion in Ancient Israel* (Grand Rapids, Mich.: Eerdmans, 2005), 197–208; R. Hess, “Asherah or Asheratah?” *Or* 65 \[1996\]: 209–19); Hadley, *The Cult of Asherah in Ancient Israel and Judah*, 84–187; Emerton, “‘Yahweh and His Asherah,’” 315–37.
+
 [^33]: J. Tigay notes a conceptual parallel in rabbinic texts: “According to Tannaitic sources, the altar was addressed on the seventh day of Sukkoth: ‘When they departed, what did they say? “Praise to you, 0 Altar! Praise to you, 0 Altar!”’ (Mishnah Suk. 4:5). According to Rabbi Eliezer b. Jacob, they said ‘To Yah and to you, 0 Altar! To Yah and to you, 0 Altar!' (Tosefta Suk. 3:1 end).” See Tigay, “A Second Temple Parallel to the Blessing from Kuntillet ʿAjrud,” *IEJ* 40 (1986): 11.
+
 [^34]: Consider, for instance, [[Psalms 096#^96-5|Ps 96:5]]: אלילים העמים כל־אלהי כי, “For all the gods of the peoples are idols.” The rendering “worthless” may better fit the term אלילים, which approximates אלים while still denigrating the gods of the nations. The association with idols likely developed out of its repeated use in reference to divine images, but it is unlikely the author is suggesting all divine beings are just handmade objects to which deity has been falsely attributed.
+
 [^35]: But this is not entirely consistent. Exod 20:23, for instance, reads, לכם תעשׂו לא זהב ואלהי כסף אלהי, “Gods of silver and gods of gold you shall not make for yourselves.” . היעשׂה־לו אדם אלהים והמה לא אלהים <sup>36</sup>
+
 [^37]: See Dick, “Prophetic Parodies of Making the Cult Image,” 1–54; Smith, “The Polemic of Biblical Monotheism,” 201–34.
 
 *[p. 119]* ^pg126
@@ -182,8 +201,11 @@ Rather than the deity himself, his authority, or divine agency—conceptualized 
 Another example, obscured over the years by heavy redaction, is the Ark of the Covenant, originally conceived of as functioning on multiple levels as an idol, or divine image.[^41] As one example, treaties and pacts were commonly deposited “before,” or “at the feet of,” the idols of the ancient Near 
 
 [^38]: The possibility exists that מזבח represents an alteration of an original מצבה. While there is no textual evidence to support this, the verb נצב occurs with מצבה rather than מזבח, which are “built” (בנה). See van der Toorn, *Family Religion in Babylonia, Syria, and Israel*, 258, n. 94.
+
 [^39]: Compare [[Torah 16 - Beshalach#^17-15|Exod 17:15]] (נסי יהוה, “YHWH is My Refuge/Banner”) and [[Judges 06#^6-24|Judg 6:24]] (שׁלום יהוה, “YHWH is Peace”).
+
 [^40]: B. Sommer has pointed to the *betyl* (אל באת or βαίτυλος) as evidence of an early Israelite belief in divine inhabitation of stone cultic objects (Sommer, *The Bodies of God and the World of Ancient Israel*, 28–29).
+
 [^41]: This discussion draws from Aaron, *Biblical Ambiguities*, 170–79.
 
 *[p. 120]* ^pg127
@@ -209,7 +231,9 @@ Note the grammatical parallelism of these verses: Moses will *give to* (אל נ�
 here is delivery to, or placement before, the ark, rather than a depositing within. It should also be pointed out that there is no indication in [[I Samuel 05#^5-1|1 Samuel 5]] that the ark functioned as a container. The tablets of the covenant are also nowhere detectable. This supports the conclusion that the notion of the ark as a container for Moses’ tablets was a secondary interpretation of the object’s function that was 
 
 [^42]: Smith, God in Translation, 56–57.
+
 [^43]: T. Lewis, “The Identity and Function of El/Baal Berith,” *JBL* 115.3 (1996): 404–10.
+
 [^44]: Aaron states that he was unable to find any occurrences in the MT of the verb נתן occurring with the preposition אל with the sense of the placement of one object inside another (*Biblical Ambiguities*, 172–73), but several such occurrences exist: [[Torah 09 - Vayeshev#^39-20|Gen 39:20]]; [[Torah 20 - Tetzaveh#^28-30|Exod 28:30]]; [[Torah 34 - Bamidbar#^4-10|Num 4:10]]; [[Torah 49 - Ki Teitzei#^23-25|Deut 23:25]]; etc.
 
 *[p. 121]* ^pg128
@@ -227,7 +251,9 @@ next to the altar, which also indicates proximity to, and association with, the 
 YHWH in early Israelite cultic installations.[^47] The אשׁרה in [[II Kings 23#^23-6|2 Kings 23:6]] is distinguished, however, from 
 
 [^45]: Aaron, *Biblical Ambiguities*, 175–78; C. Broyles, “The Psalms and Cult Symbolism: The Case of the Cherubim-Ark,” in *Interpreting the Psalms* (edited by P. Johnson and D. Firth; Downers Grove, Ill.: InterVarsity, 2005): 139–56.
+
 [^46]: References to the destruction of the cultic אשׁרה incorporate words like “uprooted” ([[Micah 5#^5-13|Mic 5:13]]), “cut down” ([[Torah 21 - Ki Tisa#^34-13|Exod 34:13]]), “hewn to pieces” ([[Torah 45 - Vaetchanan#^7-5|Deut 7:5]]), and “burned” ([[II Kings 23#^23-4|2 Kgs 23:4]]). See P. McCarter, “Aspects of the Religion of the Israelite Monarchy: Biblical and Epigraphic Data,” in *Ancient Israelite Religion: Essays in Honor of Frank Moore Cross* (edited by P. Miller, et al.; Philadelphia: Fortress Press, 1987), 144–46; Dever, *Did God Have A Wife?* 222–32.
+
 [^47]: See G. Gilmour, “The Archaeology of Religion in the Southern Levant: An Analytical and Comparative Approach” (DPhil diss., University of Oxford, 1995), 59–61; Zevit, *The Religions of Ancient Israel*, 223–24, 247–49.
 
 *[p. 122]* ^pg129
@@ -239,8 +265,11 @@ Some scholars have suggested that by the eighth century BCE the goddess’ divin
 1\. \[•••\]*ʾrk . ymm . wyšbʿw\[*•••\]*ytnw . l*\[*y*\]*hwh . tymn wlʾšrt\[h\]* 2. *w*\]*hyṭb . yhwh . hty*\[*mn*•••\] . . . \] longevity, and may they be sated \[ . . . \] be granted by \[Y\]hwh of Teman and by *ʾšrt\[h* and*\]* may YHWH of (the) Te\[man\] favor[^51] \[ . . . 
 
 [^48]: See Keel and Uehlinger, *Gods, Goddesses, and Images of God*, 236–37: “The iconographically important evidence, referring transparently to the goddess by means of a stylized tree, but which even more frequently represents a gender-neutral symbol of numinous power, can best be understood if we interpret the Iron Age IIB *asherah* as a *mediating entity* associated with Yahweh, rather than as a personal, independently active, female deity.” Cf. Hadley, *The Cult of Asherah in Ancient Israel and Judah*, 80.
+
 [^49]: Another inscription from the edge of a 200 kg stone bowl found near Pithos 1 mentions only YHWH: *lʿbdyw bn ʿdnh brk hʾ lyhw*, “(Belonging) to ʿObadyaw, the son of ʿAdnah. Blessed be he by Yhw.”
+
 [^50]: While the subjects follow the verb, and “YHWH of (the) Teman” is the last word before the lacuna in the Hebrew, the verb is singular.
+
 [^51]: “Favor” here renders *hyṭb*, literally “do good.”
 
 *[p. 123]* ^pg130
@@ -266,9 +295,13 @@ And when you look up to the heavens and see the sun, the moon, and the stars, al
 This reflects a view of the gods as objects of worship by virtue of their sovereignty over political entities. This concept was quite fundamental to the ancient Near Eastern worldview and is well represented outside the Hebrew Bible.[^53] In the Mesha Inscription, for instance, the Moabite king explains that Israel was allowed to oppress Moab because “Chemosh was angry with his land,”[^54] namely Moab. The inscription of Eshmunazar from Sidon refers to Dor and Joppa as the “lands of Dagan.”[^55] The Yeḥawmilk inscription mentions “the gods of Byblos,”[^56] while the Sefire inscription is 
 
 [^52]: The celestial nature of the gods is also introduced here. While Israelite religion had long had astral characteristics, that aspect of Assyrian religion was here being emphasized and polemicized by the Deuteronomistic Historian as a foreign element. See Cooley, “Astral Religion in Ugarit and Ancient Israel,” 281–87; F. Rochberg, “The Heavens and the Gods in Ancient Mesopotamia: The View from a Polytheistic Cosmology,” in *Reconsidering the Concept of Revolutionary Monotheism*, 117–36; Pongratz-Leisten, “Divine Agency and Astralization of the Gods in Ancient Mesopotamia,” 137–87.
+
 [^53]: See D. Block, *The Gods of the Nations. Second Edition* (Grand Rapids, Mich.: Baker Academic, 2000), 21–74.
+
 [^54]: בארצה כמש יאנף. See K. Jackson and A. Dearman, “The Text of the Meshaʿ Inscription,” in *Studies in the Mesha Inscription and Moab* (edited by A. Dearman; Atlanta, Ga.: Scholars Press, 1989), 94; cf. Jackson, “The Language of the Meshaʿ Inscription,” in *Studies in the Mesha Inscription and Moab*, 107.
+
 [^55]: *KAI* 14:19.
+
 [^56]: *KAI* 4:4, 7; “The Inscription of King Yaḥimilk,” translated by S. Segert (*COS* 2.29).
 
 *[p. 125]* ^pg132
@@ -282,12 +315,19 @@ or peoples is suggested by the occurrence of phrases like “gods of the nations
 Bible are explicitly identified with specific nations. Chemosh is linked with Moab in almost every occurrence of the name ([[Torah 39 - Chukat#^21-9|Num 21:9]]; [[I Kings 11#^11-7|1 Kgs 11:7]], [[I Kings 11#^11-33|33]]; [[II Kings 23#^23-13|2 Kgs 23:13]]; [[Jeremiah 48#^48-7|Jer 48:7]], [[Jeremiah 48#^48-13|13]], [[Jeremiah 48#^48-46|46]]),[^62] as is Milcom with Ammon ([[I Kings 11#^11-5|1 Kgs 11:5]], [[I Kings 11#^11-33|33]]; [[II Kings 23#^23-13|2 Kgs 23:13]]; [[Jeremiah 49#^49-1|Jer 49:1]], [[Jeremiah 49#^49-3|3]]),[^63] Ashtoreth with Sidon ([[I Kings 11#^11-5|1 Kgs 11:5]], [[I Kings 11#^11-33|33]]; [[II Kings 23#^23-13|2 Kgs 23:13]]),[^64] Baʿal-
 
 [^57]: *KAI* 222 B:5–6; “The Inscriptions of Bar-Gaʾyah and Matiʿel from Sefire,” translated by J. A. Fitzmyer (*COS* 2.82).
+
 [^58]: “The Vassal-Treaties of Esarhaddon,” translated by D. J. Wiseman (*ANET* 534–35).
+
 [^59]: [[Torah 51 - Nitzavim#^29-17|Deut 29:18]]; [[II Kings 18#^18-33|2 Kgs 18:33]]; [[II Kings 19#^19-12|19:12]]; [[Isaiah 36#^36-18|Isa 36:18]]; [[Isaiah 37#^37-12|37:12]]; [[II Chronicles 32#^32-14|2 Chr 32:14]].
+
 [^60]: [[Torah 45 - Vaetchanan#^6-14|Deut 6:14]]; 13:18; [[Judges 02#^2-12|Judg 2:12]]; [[Psalms 096#^96-5|Ps 96:5]]; [[I Chronicles 16#^16-26|1 Chr 16:26]]; [[II Chronicles 25#^25-15|2 Chr 25:15]].
+
 [^61]: There are three occurrences of the feminine plural ([[Torah 21 - Ki Tisa#^34-16|Exod 34:16]] \[2x\]; [[Torah 40 - Balak#^25-2|Num 25:2]]) and seventeen occurrences of the masculine plural ([[Torah 18 - Mishpatim#^23-33|Exod 23:33]]; [[Torah 21 - Ki Tisa#^34-15|34:15]] \[2x\]; [[Torah 46 - Eikev#^7-16|Deut 7:16]], [[Torah 46 - Eikev#^7-25|25]]; [[Torah 47 - Re'eh#^12-2|12:2]], [[Torah 47 - Re'eh#^12-3|3]], [[Torah 47 - Re'eh#^12-30|30]] \[2x\]; [[Joshua 23#^23-7|Josh 23:7]]; [[Judges 03#^3-6|Judg 3:6]]; [[I Kings 11#^11-2|1 Kgs 11:2]]; [[II Kings 19#^19-18|2 Kgs 19:18]]; [[Isaiah 37#^37-19|Isa 37:19]]; [[Daniel 11#^11-8|Dan 11:8]]; [[I Chronicles 10#^10-10|1 Chr 10:10]]; [[I Chronicles 14#^14-12|14:12]]).
+
 [^62]: [[Judges 11#^11-24|Judg 11:24]], with its second person singular pronominal suffices, seems to identify Chemosh as the god of the Ammonites, the antagonist of the chapter (cf. vv. 27–28), but this conflicts with all other references to the national deities of the Moabites and Ammonites and is understood as a misidentification. See H.-P. Müller, “Chemosh כמושׁ,” *DDD*, 187–88; Smith, *God in Translation*, 110–11.
+
 [^63]: In [[Jeremiah 49#^49-1|Jer 49:1]], [[Jeremiah 49#^49-3|3]]; [[Zephaniah 1#^1-5|Zeph 1:5]], MT vocalizes מַלְכָּם, “their king,” but most modern translations render “Milcom,” given the explicit association with Ammon in the immediate context. [[Zephaniah 1#^1-5|Zeph 1:5]] is less explicit, as Ammon is not mentioned until [[Zephaniah 2#^2-8|Zeph 2:8]], [[Zephaniah 2#^2-9|9]] (cf. E. Puech, “Milkom מלכם,” *DDD*, 576). In [[I Kings 11#^11-7|1 Kgs 11:7]], Molech is identified as the “abomination of the ). שׁקץ בני עמון Ammonites” (
+
 [^64]: The singular עשׁתרת refers to Astarte, who is linked in multiple inscriptions to Sidon (G. Jones, *1 and 2 Kings* \[Grand Rapids, Mich.: Eerdmans, 1984\], 235; J. W. Betlyon, “The Cult of ʾAšerah/ʾĒlat at Sidon,” *JANES* 44.1 \[1985\]: 53–56). J. M. Hadley notes that these verses are all generic and polemical Deuteronomistic references to Solomon’s “going after” other deities. Chronicles lacks such references, which may indicate the Deuteronomist’s fabrication of the polemic (Hadley, “The De-Deification of Deities in Deuteronomy,” 159–66, esp. 160). [[Judges 02#^2-13|Judg 2:13]]; [[Judges 10#^10-6|10:6]] link the plural Ashtaroth (עשׁתרות) with the “Baalim” (בעלים) and with Syria, distinguishing them from the “gods of Sidon” (cf. [[I Samuel 07#^7-4|1 Sam 7:4]], [[I Samuel 07#^7-5|5]]; [[I Samuel 12#^12-10|12:10]]; [[I Samuel 31#^31-10|31:10]]; cf. usage as a toponym in Josh 9:10; 12:4; 12:12, 31, [[I Chronicles 06#^6-56|1 Chr 6:71]]). It may be that the plural usage (occurring only in Judges and 1 Samuel) is to be rendered with the generic “goddess.” This is the sense in the Akkadian *ilāni u-ištarāti*, and *CAD* lists the singular *ištaru* as a common noun (“goddess”) similar to the Hebrew אל (“*ištaru*,” *CAD* 7.272–73). This is supported if we understand Baalim to refer generically to foreign deities (see [[Judges 02#^2-11|Judg 2:11]]; [[Judges 03#^3-7|3:7]]; [[Judges 08#^8-33|8:33]]; [[Judges 10#^10-6|10:6]], [[Judges 10#^10-10|10]]; [[I Samuel 07#^7-4|1 Sam 7:4]]; [[I Samuel 12#^12-10|12:10]]; [[I Kings 18#^18-18|1 Kgs 18:18]]; [[Jeremiah 02#^2-23|Jer 2:23]]; [[Jeremiah 09#^9-13|9:14]]; [[Hosea 02#^2-15|Hos 2:13]], [[Hosea 02#^2-19|17]]; [[II Chronicles 34#^34-4|2 Chr 34:4]]).
 
 *[p. 126]* ^pg133
@@ -305,11 +345,17 @@ child would be known as “Wonderful, Counselor, Mighty God (גבור אל), Eve
 Peace.” This text is most commonly understood among critical scholars as having reference to the 
 
 [^65]: Baʿal-zebub (“Lord of Flies”) is widely understood to be a polemical corruption of Baʿal-zebul (Baʿal the Prince), cognate with the Ugaritic *zbl bʿl*, “Prince Baʿlu” (KTU 1.2.I.28, 43; 1.2.IV.8; 1.3.I.3; 1.5.VI.10; Day, *Yahweh and the Gods and Goddesses of Canaan*, 77–81; Rahmouni, *Divine Epithets in the Ugaritic Alphabetic Texts*, 159–61). The original epithet appears to be preserved in the epithet βεεζεβουλ, found in Symmachus’ translation of [[II Kings 01#^1-2|2 Kgs 1:2]], [[II Kings 01#^1-3|3]], [[II Kings 01#^1-6|6]], [[II Kings 01#^1-16|16]], and in [[Matthew 10#^10-25|Matt 10:25]]; [[Matthew 12#^12-24|12:24]], [[Matthew 12#^12-27|27]]; [[Mark 03#^3-22|Mark 3:22]]; [[Luke 11#^11-15|Luke 11:15]], [[Luke 11#^11-18|18–19]].
+
 [^66]: More specifically, Dagan is associated with Ashdod in 1 Sam 5;3, 5, 7. Cf. Rahmouni, *Divine Epithets in the Ugaritic Alphabetic Texts*, 94–97, 180–81; B. Crowell, “The Development of Dagan: A Sketch,” *JANER* 1 (2001): 32–83; L. Feliu, *The God Dagan in Bronze Age Syria* (W. Watson, trans.; Leiden: Brill, 2003).
+
 [^67]: Bel is a title meaning “Lord” that is assumed by Marduk at his enthronement in *Enuma Eliš*. Bel is also mentioned in [[Isaiah 46#^46-1|Isa 46:1]] alongside Nebo, although no mention of Babylon is made.
+
 [^68]: For instance, [[Torah 08 - Vayishlach#^33-20|Gen 33:20]]; [[Torah 13 - Shemot#^5-1|Exod 5:1]]; [[Torah 38 - Korach#^16-9|Num 16:9]]; [[Joshua 07#^7-13|Josh 7:13]]; [[Judges 04#^4-6|Judg 4:6]]; [[I Samuel 01#^1-17|1 Sam 1:17]]; [[I Kings 01#^1-30|1 Kgs 1:30]]; [[Isaiah 17#^17-6|Isa 17:6]]; [[Jeremiah 07#^7-3|Jer 7:3]]; [[Ezekiel 08#^8-4|Ezek 8:4]]; [[Zephaniah 2#^2-9|Zeph 2:9]]; [[Malachi 2#^2-16|Mal 2:16]]; [[Psalms 041#^41-14|Ps 41:14]]; [[Ruth 2#^2-12|Ruth 2:12]]; [[Daniel 02#^2-18|Dan 2:18]], [[Daniel 02#^2-19|19]], [[Daniel 02#^2-37|37]], [[Daniel 02#^2-44|44]]; [[Ezra 01#^1-3|Ezra 1:3]]; [[Ezra 05#^5-11|5:11]], [[Ezra 05#^5-12|12]]; [[Ezra 06#^6-9|6:9]], [[Ezra 06#^6-10|10]]; [[Ezra 07#^7-12|7:12]], [[Ezra 07#^7-21|21]], [[Ezra 07#^7-23|23]]; [[I Chronicles 04#^4-10|1 Chr 4:10]].
+
 [^69]: For instance, [[Torah 13 - Shemot#^5-3|Exod 5:3]]; [[Torah 44 - Devarim#^1-6|Deut 1:6]]; [[Joshua 18#^18-6|Josh 18:6]]; [[Judges 10#^10-10|Judg 10:10]]; [[I Samuel 07#^7-8|1 Sam 7:8]]; [[I Kings 08#^8-57|1 Kgs 8:57]]; [[Isaiah 01#^1-10|Isa 1:10]]; [[Jeremiah 03#^3-22|Jer 3:22]]; [[Micah 4#^4-5|Mic 4:5]]; [[Psalms 018#^18-32|Ps 18:32]]; [[Daniel 09#^9-9|Dan 9:9]]; [[Ezra 08#^8-17|Ezra 8:17]]; [[Nehemiah 03#^3-36|Neh 4:4]]; [[I Chronicles 13#^13-2|1 Chr 13:2]].
+
 [^70]: For instance, [[Torah 10 - Miketz#^43-23|Gen 43:23]]; [[Torah 14 - Vaera#^6-7|Exod 6:7]]; [[Torah 26 - Shmini#^11-44|Lev 11:44]]; [[Torah 36 - Beha'alotcha#^10-9|Num 10:9]]; [[Torah 44 - Devarim#^1-10|Deut 1:10]]; [[Joshua 01#^1-11|Josh 1:11]]; [[Judges 06#^6-10|Judg 6:10]]; [[I Samuel 10#^10-19|1 Sam 10:19]]; [[II Kings 17#^17-39|2 Kgs 17:39]]; [[Isaiah 40#^40-1|Isa 40:1]]; [[Jeremiah 13#^13-16|Jer 13:16]]; [[Ezekiel 20#^20-5|Ezek 20:5]]; [[Joel 1#^1-13|Joel 1:13]]; Zech 16:5; [[Psalms 076#^76-12|Ps 76:11]]; [[Nehemiah 08#^8-9|Neh 8:9]]; [[I Chronicles 22#^22-18|1 Chr 22:18]].
+
 [^71]: The Hebrew אלהים occurs eleven times ([[Isaiah 21#^21-9|Isa 21:9]]; [[Isaiah 36#^36-18|36:18]], [[Isaiah 36#^36-19|19]] (2x), 20; 37:12, 19 (2x); 41:23; 42:17; 45:21). אל occurs ten times ([[Isaiah 09#^9-5|Isa 9:6]]; 31:3; 43:10, 12; 44:10, 15, 17 (2x); 45:20; 46:6), with all but two occurrences contained in Deutero-Isaiah (Isa 40–55).
 
 *[p. 127]* ^pg134
@@ -329,8 +375,11 @@ terms like גלולים, “dung idols” (Ezek 6:9; 20:16), שׁקוצים, “
 אלהים and אל each 0ccur three times, twice in v. 2 and once in v. 9, respectively: 
 
 [^72]: Some have argued the text refers not to birth, but to an enthronement, as in [[Psalms 002#^2-7|Ps 2:7]]. For a helpful discussion, see A. Collins and J. Collins, *King and Messiah as Son of God* (Grand Rapids, Mich.: Eerdmans, 2008), 10–15, 36–42. The conservative Christian messianic reading of the text can only be found through Christian typological exegesis.
+
 [^73]: “Your throne, O God, is forever and ever. A scepter of uprightness is the scepter of your kingdom. You have loved righteousness and hated wickedness; therefore, O God, your God has anointed you with joy above your friends.”
+
 [^74]: Collins and Collins, *King and Messiah as Son of God*, 22–24; N. Wyatt, “Royal Religion in Ancient Judah,” in *Religious Diversity in Ancient Israel and Judah*, 61–81.
+
 [^75]: J. Kutsko, *Between Heaven and Earth: Divine Presence and Absence in the Book of Ezekiel* (Winona Lake, Ind.: Eisenbrauns, 2000), 32–42; Middlemas, “Exclusively Yahweh,” 309–10, n. 2.
 
 *[p. 128]* ^pg135
@@ -380,6 +429,7 @@ Fig. 4.1.
 Deities thus derive their sovereignty from a higher plane of being that maps to the heavenly realms and is conceived of as *above* (physically and in terms of authority) the terrestrial plane. Underworld deities represent an antithetical reflection of this spectrum in places within the Hebrew 
 
 [^78]: Apart, of course, from the many Near Eastern deities of chaos. Such deities are muted within the biblical conceptualization of the divine.
+
 [^79]: Smith, Origins of Biblical Monotheism, 103.
 
 *[p. 132]* ^pg139
@@ -391,6 +441,7 @@ Fig. 4.2
 While the profile *human* does not necessarily have this schema as its semantic base, it does successfully profile against it within the context of the divine/human relationship. That such a hierarchy was active within the Israelite conceptualization of the cosmos is evinced by the assertion 
 
 [^80]: While this model is adequate for the conceptualizations of deity found in the Hebrew Bible, the Christian scriptures present a distinct view. There divinity has been wholly consolidated within the God of Israel and has been separated from the created order. God himself does not (or cannot) personally visit the earth. He can appear from heaven and can send angelic representatives in person and in dreams, but the dichotomizing effects of the Platonic worldview seem to be in full force by the time of the later New Testament authors. Cf. Peppard, *The Son of God in the Roman World*, 10–14.
+
 [^81]: For a recent discussion of humanity as the repository of that divine agency in P (rhetorically over and against cultic images), see S. Herring, *Divine Substitution: Humanity as the Manifestation of Deity in the Hebrew Bible and the Ancient Near East* (Göttingen: Vandenhoeck & Ruprecht, 2013).
 
 *[p. 133]* ^pg140
@@ -428,7 +479,9 @@ Should you not possess what your god Chemosh gives you to possess? And should we
 The cross-cultural functional equivalence of YHWH and Chemosh in this verse is sometimes referred to as “translatability.” [^83] In short, the deities are profiled against the same conceptual backdrop. The profile here is the patron deity. The primary domains activated in this verse are the notions of a deity as warrior and provider. These would be central to the conceptualization of deity within this verse, but in the background are other domains associated with the broader ancient Near Eastern concept of divine warfare, such as full access to strategic information.[^84] National deities, within this conceptualization, also act as saviors, defending the nation from the patron deities of other nations. They may be conceived of as anthropomorphic, or as a storm or a raging bull, depending upon the context and the rhetorical stylings and needs of the author. Here the deities are likely anthropomorphic by default. They are also sources of blessings and are generally considered immortal within this context. (The mortality of the gods relates mostly to cosmogonic battles rather than national warfare.) This semantic matrix may be illustrated as follows, with the darker shades reflecting more prominent domains:[^85] 
 
 [^83]: Smith, *God in Translation*, 110–12.
+
 [^84]: The deity dictates strategy based on their knowledge of the campaign’s future outcomes; cf. [[II Kings 03#^3-18|2 Kgs 3:18–19]].
+
 [^85]: I only illustrate the matrix for this first example. The others could be illustrated as well, but the structure would not change much, just the labeling of the domains.
 
 *[p. 135]* ^pg142
@@ -466,6 +519,7 @@ they walk around in darkness; all the foundations of the earth are shaken.
 6 I say, “You are gods, 
 
 [^86]: Smith, *God in Translation*, 131–39. On this psalm, see above, n. 8.
+
 [^87]: Literally, עדת ־אל , “council of El.” Cf. *ʿdt ʾilm* in KTU 1.15.ii.7. LXX [[LXX Psalms 81#^81-1|Ps 81:1]] renders συναγωγῇ θεῶν, “assembly of the gods,” which may indicate עדת־אלים in its *Vorlage*.
 
 *[p. 136]* ^pg143
@@ -485,8 +539,11 @@ The setting is the heavenly assembly, or divine council, which evokes that domai
 The final semantic matrix we will construct draws from the conceptualization of the gods as angels in [[Daniel 10#^10-5|Dan 10:5–21]]. That text, dating to the mid-second century BCE,[^91] appeals to imagery associated with several semantic domains of deity, but relocates the habitation of the divine beings to 
 
 [^88]: I depart from NRSV in rendering v. 8’s תנחל with the future tense. The sense is obviously that YHWH will take over the stewardships evacuated by the deposed gods (cf. [[Torah 53 - Ha'Azinu#^32-8|Deut 32:8–9]] \[4QDeut<sup>j</sup>\]).
+
 [^89]: For the possibility that YHWH is here subordinate to El, see Smith, *God in Translation*, 135–36; Machinist, “How Gods Die,” 195–203; cf. D. Frankel, “El as the Speaking Voice in [[Psalms 082#^82-6|Psalm 82:6–8]],” *JHS* 10 \[http://www.arts.ualberta.ca/JHS/\] (2010).
+
 [^90]: The contrast in vv. 6–7 between their nature as gods and their impending mortality highlights the fundamental immortality of divinity. The gods are usually understood as the referents in v. 5, but a forthcoming article from Brent Strawn argues for understanding the peoples of the various nations as the unknowing and the lost (Strawn, “The Poetics of [[Psalms 082#^82-1|Psalm 82]]: Three Notes (and a Plea for the Poetic),” *RB* \[forthcoming 2013\]). The deities’ full access to strategic information would be rhetorically rejected with the traditional reading, but the shift in pronominal suffices undermines such a reading.
+
 [^91]: The best analysis of its dating is Collins, *Daniel: A Commentary on Daniel* (Minneapolis: Fortress Press, 1993), 24–33.
 
 *[p. 137]* ^pg144
@@ -532,6 +589,7 @@ the movement away from more broad and generic conceptualizations of deity and to
 Nationalism would soon become a driving force in the care and maintenance of the resulting divine profile. YHWH’s cross-cultural translatability became a casualty of this campaign of reinvention as the state and the priesthood emphasized more and more Israel’s insularity and autonomy, and fought to preserve the cultic loyalty of their constituencies.[^1] As the scope of this campaign breached the borders of Israel and had to accommodate for worshippers located throughout the Near East, the image of YHWH expanded to assimilate the hegemonies of the national deities of surrounding nations.[^2] While the theology of early Israel and Judaism is more accurately labeled monolatrous, the compartmentalization of the divine category and the exaltation of YHWH 
 
 [^1]: §3.3 provides a number of examples of how different authors made use of existing divine imagery and innovated new concepts of God in order to achieve their rhetorical goals.
+
 [^2]: [[Psalms 082#^82-1|Psalm 82]] represents the literary expression of this hostile takeover.
 
 *[p. 141]* ^pg148
@@ -563,8 +621,11 @@ authority and power deriving from super-human spheres—could be called a deity,
 This conclusion has significant implications for the study of the development of monotheism in early Judaism and Christianity. Among other things, it demands a fresh evaluation of the meaning of the phrase “one God” in a religious environment that accommodated innumerable divine beings occasionally referred to soberly as “gods.” The possession of divine agency by humans also betrays an occasional overlap of the human and divine categories, which provides an attractive conceptual framework for the development within early Judaism and Christianity of concepts of messianism and divinization.[^5] Current trends in christological research emphasize the notion of Jesus’ shared “divine identity” with YHWH, the God of Israel, [^6] but this attempts to force the square peg of later trinitarianism into the round hole of first century Jewish and Christian theology. Christ as “divine agent” has been evaluated by some scholars of early Christianity in recent years,[^7] but the insights provided by research in the cognitive sciences have yet to be incorporated into that field.[^8] 
 
 [^5]: On this, see, particularly, Herring, *Divine Substitution*, 216–18.
+
 [^6]: Most fervently, R. Bauckham, *Jesus and the God of Israel: God Crucified and Other Studies on the New Testament’s Christology of Divine Identity* (Grand Rapids, Mich.: Eerdmans, 2008).
+
 [^7]: P. Borgen, “God’s Agent in the Fourth Gospel,” in *The Interpretation of John* (ed. J. Ashton; London: SPCK, 1986), 67–78; A. E. Harvey, “Christ as Agent,” in *The Glory of Christ in the New Testament* (ed. L. Hurst and N. Wright; Oxford: Clarendon, 1987), 239–50; J. Collins, “Jewish Monotheism and Christian Theology,” in *Aspects of Monotheism: How God is One* (ed. H. Shanks and J. Meinhardt; Washington: Biblical Archaeology Society, 1997), 81–105; Hurtado, *One God, One Lord*, 17–70; J. Dunn, *Did the Early Christians Worship Jesus? The New Testament Evidence* (London: SPCK, 2010), 60–90.
+
 [^8]: Pongratz-Leisten’s incorporation of cognitive science into her discussion of deity in Mesopotamia (Pongratz-Leisten, “Divine Agency and Astralization of the Gods,” 140–52) is an important recent example of the significance of this research to the question of monotheism in antiquity.
 
 *[p. 144]* ^pg151
@@ -648,7 +709,9 @@ Hebrew Words for “Deity” Not in Reference to YHWH
 אלהים נצב A בעדת אל B בקרב אלהים B′ ישׁפט A′
 
 [^1-p149]: While the *nomen rectum*, אלהים, does itself refer to YHWH, the referent of the genitive construction as a whole is not YHWH (cf. [[Psalms 029#^29-1|Ps 29:1]]; [[Psalms 089#^89-7|89:7]]; [[Job 01#^1-6|Job 1:6]]; [[Job 02#^2-1|2:1]]; [[Job 38#^38-7|38:7]]).
+
 [^2-p149]: Following NRSV and others, I interpret both occurrences of אלה ים and both occurrences of אל in this verse as indeterminate generic nouns, rather than designations for YHWH (or the Phoenician El).
+
 [^3]: While אל עדת is likely a frozen formula (*ʿdt ʾilm* is attested at KTU 1.15.ii.7), by this time period the original connotation is unlikely to have had currency. The generic sense of “divine assembly” is the better reading in light of the inverted parallelism:
 
 *[p. 150]* ^pg157

@@ -148,41 +148,71 @@ If she is standing in a domain belonging to her [prospective] husband, he must p
 What is meant by "closer to him," or "closer to her"? A situation in which he can guard [the *kiddushin*] and she cannot is considered as "closer to him." One in which she can guard them and he cannot is considered to be "closer to her."[^31] One in which they can both guard them or neither can guard them is considered to be "halfway between the two of them." ^4-22
 
 [^1]: *Bava Batra* [[Bava Batra 48#48b|48b]] states that since it was possible for a man to divorce his wife without her consent (in Talmudic times), there was no need for the Sages to abrogate the man's *kiddushin*. Even if he was forced into consecrating the woman, he could end their relationship at will. With regard to the woman, by contrast, since she cannot initiate a divorce, our Sages abrogated the marriage bond when she was compelled to establish it against her will.
+
 [^2]: The first woman is consecrated based on the principle stated in the following halachah, that a woman may tell a person to give the *kiddushin* to an agent acting on her behalf. The second woman is consecrated, because she accepted the *kiddushin* in silence, which is interpreted as acquiescence.
+
 [^3]: The fact that she discarded the *kiddushin* is a clear indication of her rejection of his proposal.
+
 [^4]: Telling the person to give the *kiddushin* to someone else also indicates that she does not desire them, nor the consequences of accepting them (*Tosafot, Kiddushin* 8b).
+
 [^5]: I.e., that the recipient should act as her agent.
+
 [^6]: The Ramah (*Even HaEzer* 30:11) quotes the opinion of the *Tur*, who maintains that if at the outset the woman says, "Put money down in this place and I will be consecrated to you," or "Give food to this dog and I will be consecrated to you," the status of the *kiddushin* is doubtful. Since the man spent money because of her wishes, one might presume that this can be compared to the law stated in the previous halachah. Nevertheless, since the *kiddushin* were not given to a person, it is possible that the comparison is not in place, and the *kiddushin* are not definitely binding. (See also Chapter 5, Halachah 21.)
+
 [^7]: The Ramah (*Orach Chayim* 42:2) quotes an opinion that requires stringency in such an instance, but states that leniency should be granted if following the stringent view will cause a woman great difficulty in getting married.  
     Although the need for witnesses with regard to marriage and divorce is derived from an analogy (*gezerah shavah*) to claims of monetary law, a difference exists between the two. With regard to a financial claim, no witnesses are necessary if both litigants agree regarding a matter.  
     As stated in this halachah, this concept does not apply with regard to the laws of marriage and divorce. Two rationales are given for this matter:  
     a) When the man and woman agree with regard to the establishment of a marriage bond, they are limiting the privileges of others, for they are unable to consecrate the woman. With regard to financial matters, by contrast, the rights of others are not restricted (Rashba).  
     b) There is a fundamental difference between the function of witnesses in cases involving financial matters and their function with regard to wedding and divorce. With regard to financial matters, the function of witnesses is to clarify the truth (*eidei berur*). With regard to marriage and divorce, by contrast, the witnesses' function is to notarize the event (*eidei kiyyum*). For a marriage bond to be established - or broken - even when the husband and wife agree that the event took place, witnesses must observe the proceedings (*Tumim* 90:14, *Tzaphnat Paneach, Kallei HaTorah*).
+
 [^8]: This ruling sheds light on a theme of larger scope: the interrelation between Rabbinic law and Scriptural law. For the fact that a woman needs a *get* to marry another person appears to indicate that according to Scriptural law, the *kiddushin* are effective.
+
 [^9]: Many of the manuscript copies and early printings of the *Mishneh Torah* state that the obligation to give a *get* is of Rabbinic origin. This view would appear to be supported by the Rambam's ruling in Chapter 5, Halachah 1.
+
 [^10]: If she is not an orphan and has never been married, the right to consecrate her belongs to her father, not to her.
+
 [^11]: I.e., she was married, the marriage was consummated, and then she was either divorced or widowed. In this and the above instance, the girl does not have sufficient authority to create a marriage bond that is binding according to Scriptural law. Nevertheless, a bond that is binding according to Rabbinic law may be established, as the halachah continues to explain.  
     The Ramah (*Even HaEzer* 155:2) quotes opinions that maintain that the above applies only when the girl's marriage was arranged by her brother or her mother. If she arranged the marriage herself, it is not binding, even according to Rabbinic law. The Ra'avad mentions a third opinion, which states that for a girl between the ages of six and ten, the marriage must be arranged by her family to be binding. After the age of ten, it is binding even if she arranged it herself.
+
 [^12]: Our translation is based on the commentary of *Metzudot* on [[Isaiah 03#^3-3|Isaiah 3:3]].
+
 [^13]: The annulment of a marriage that a girl below the age of majority initiates, as explained in the following halachah.  
     When a girl is below the age of six, we assume that she does not have sufficient understanding of the nature of marriage to make a commitment that is binding in any way.
+
 [^14]: Chapter 11, Halachah 8.
+
 [^15]: As the Rambam states in *Hilchot Gerushin* 11:6, if the girl reaches majority before she states that she desires to nullify the marriage bond, Rabbinic law requires her to receive a *get* before she marries another person. If she continues living with her husband and they engage in sexual relations after she attains majority, the marriage bond is binding according to Scriptural law.
+
 [^16]: The Ra'avad objects to the Rambam's decision, stating that the woman should not be allowed to remain married to her deaf mute husband. The *Maggid Mishneh* justifies the Rambam's decision, explaining that since the marriage of a deaf mute is a Rabbinic institution, our Sages did not impose the same restrictions that would apply had the marriage been effective according to Scriptural law.  
     Others state that the Rambam's ruling applies only when the mentally competent man merely consecrated the deaf mute's wife. If he consummated the marriage (*nisu'in*), the deaf mute is forbidden to continue living with her after her divorce.
+
 [^17]: Our Sages differentiated between the marriage of a deaf mute and that of a mentally incompetent person as follows: the marriage of a deaf mute may be harmonious and has the possibility of enduring. The marriage of a mentally incompetent person, by contrast, will surely be plagued by friction and will not endure. For a mentally competent will never be comfortable living with a mentally incompetent person. (See Chapter 11, Halachah 6 and *Yevamot* [[Yevamot 112#112b|112b]].)  
     The Ramah (*Even HaEzer* 44:2) states that this is a sensitive matter, for it is difficult to determine when a person is completely incompetent or not.
+
 [^18]: All the terms mentioned in this halachah are explained in Chapter 2. Although *s'ris adam* (a person who has been castrated) is forbidden to marry, if he violates this prohibition, the marriage bond is binding and a *get* is required for severing the relationship. With regard to an *aylonit*, see Chapter 24, Halachot 1-2, and the accompanying notes.
+
 [^19]: The Ramah (*Even HaEzer* 44:5) quotes the *Tur* as stating that an *androgynous* is considered to be a male, and the *kiddushin* that he gives are binding.
+
 [^20]: This ruling is relevant in the present age, for it is frequent that a woman is a *niddah* at the time of a marriage. A wedding should never be planned to coincide with the woman's *niddah* state. Nevertheless, since weddings are often planned well in advance, and women's menstrual cycles are flexible, it is possible that the calculations will be in error, and the wedding will be scheduled for the time when the woman is a *niddah*. In such a situation, the commonly accepted ruling is to hold the wedding. Nevertheless, restrictions are placed on the couple's being in private until the woman purifies herself. Needless to say, sexual relations are forbidden.
+
 [^21]: The Ra'avad states that the woman's word should be accepted only insofar as to require her to receive a *get* from the second person. She is not allowed to marry him, nor may she collect her *ketubah* from her first husband unless she proves that she has been divorced. The Ramah (*Even HaEzer* 17:2) states that in the present age, since brazen behavior is more common, the presumption upon which the Rambam's ruling rests is no longer a viable support.
+
 [^22]: The situation is as follows: A man who was married to two women died while childless. As required by Deuteronomy, Chapter 5, one of his brothers (the *yavam*) marries one of his widows (the *yevamah*). Afterwards, neither the *yavam* nor any other of the deceased's brothers is allowed to marry the deceased's second wife. (See *Hilchot Yibbum* 1:12.)
+
 [^23]: Rav David Cohen (Section 9, Responsum 1) states that the intent is that we are obligated to force the apostate to divorce his wife, lest he cause her to violate Torah law.
+
 [^24]: E.g., a Canaanite maidservant who was owned in partnership by two masters. One granted the woman her freedom, but the other did not.
+
 [^25]: Our translation follows the commentary of the *Maggid Mishneh*, who explains that there is a question whether or not the *kiddushin* of the first person are valid. Nevertheless, if the couple marry and consummate their relationship, this establishes their wedding bond.
+
 [^26]: Who was totally unaware of what he was doing (Genesis, Chapter 19).
+
 [^27]: The commentaries (see *Beit Shmuel* 31:6) debate the status of the *kiddushin* when one knows for a fact that they are worth a *p'rutah* in another place. Some maintain that they are absolutely binding, and others maintain that their status remains doubtful.
+
 [^28]: The *Tur* (*Even HaEzer* 30) states that the woman's field or courtyard must be protected. It is possible to state that this is the Rambam's opinion as well, and he relies on the statements he makes in *Hilchot Zechiyah UMatanah* 4:9 regarding giving a present (*Kessef Mishneh*). Nevertheless, it is possible to differentiate between the two and explain that the laws governing *kiddushin* are more lenient. The *Beit Shmuel* 30:3 maintains that this is the view of the *Shulchan Aruch* (*Even HaEzer* 30:1). See *Chelkat Mechokeik* 30:2.
+
 [^29]: Although this would not be acceptable with regard to a business transaction (*Hilchot Mechirah*, Chapter 4), an exception is made here, because of the possibility that the man lent the woman rights to his share of the property.
+
 [^30]: See the *Beit Shmuel* 29:9, which interprets this as meaning that two pairs of witnesses observed the throwing of the *kiddushin*, one maintained that the *kiddushin* were able to be guarded by the man, and one that they were able to be guarded by the woman. If, however, there was only one pair of witnesses, and they were unsure whether the woman could guard them, the *kiddushin* are not effective, because it is as if they were given without being observed by witnesses.
+
 [^31]: The *Makneh* states that the Rambam relies on his statements in *Hilchot Gerushin* 5:13, which state that the woman must be able to bend over and take the object. Others do not make such a stipulation.

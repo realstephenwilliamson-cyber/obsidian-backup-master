@@ -22,11 +22,11 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 i | Exod 38:18-22 |
-| Frag. 1 ii | Exod 39:20-24 |
 | Frag. 2 i | Exod 39:3-19 |
+| Frag. 1 ii | Exod 39:20-24 |
 | Frag. 2 ii | Exod 40:8-27 |
 | Frag. 3 | Lev 1:13-15 |
-| Frag. 5 | ? |
 | Frag. 4 | Lev 1:17 - 2:1 |
+| Frag. 5 | ? |
 
 [[DSS 4Q16|← 4Q16]] · [[Qumran|index]] · [[DSS 4Q18|4Q18 →]]

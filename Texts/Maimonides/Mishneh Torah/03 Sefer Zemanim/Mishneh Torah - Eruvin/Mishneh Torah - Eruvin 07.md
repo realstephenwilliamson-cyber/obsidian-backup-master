@@ -80,26 +80,43 @@ Needless to say, a person who traveled by foot and actually stood at the locatio
 They may walk two thousand cubits from the house of study in all directions. [The rationale is] that were it possible for them to eat in the house of study, they would not go to the fields at all. They consider the house of study alone as their dwelling. ^7-10
 
 [^1]: As mentioned in Halachah 9, there is no need to make an explicit statement. It is sufficient to make a mental resolve.
+
 [^2]: This point is the subject of a difference of opinion among our Sages (*Eruvin* 4:9). Rabbi Meir maintains that the fundamental provision for establishing an *eruv t'chumin* involves depositing food. An allowance was made, however, for a poor person who could not afford to deposit food; he was permitted to establish an *eruv* by actually going to the desired place.  
     Rabbi Yehudah differs and states that the fundamental provision involves actually being at the place. Our Sages granted a leniency to a rich man, however, and allowed him to employ an agent to deposit food. As the Rambam states, the halachah follows Rabbi Yehudah.
+
 [^3]: I.e., the person could not reach the intended place before nightfall if he continued at his present pace, but could reach it if he ran with all his might. We do not require him to make this effort, and allow him to establish the *eruv* by intent and continue walking at his normal pace (*Shulchan Aruch, Orach Chayim* 409:11).
+
 [^4]: I.e., if at the outset he was at home, but was simply too lax about establishing an *eruv*. (See *Shulchan Aruch*, *loc. cit.*:13.)
+
 [^5]: See Halachot 5-7.
+
 [^6]: The Rambam's ruling implies that the person's intent is of no consequence whatsoever, and his "place" for the Sabbath is the place where he is standing at nightfall.  
     The Ra'avad differs regarding the instance when there are more than two thousand cubits between the person and the location he intended to be his "Sabbath place." The person's intent establishes that location as his "Sabbath place." Since there are more than two thousand cubits between the person and his "place," he is compared to one who has gone beyond his Sabbath limits and is entitled to walk only within a square of four cubits. (See *Hilchot Shabbat* 27:11.)  
     Although the *Shulchan Aruch* (*loc. cit.*:11) mentions both views, it appears to favor that of the Ra'avad. The *Be'ur Halachah* notes that the Ra'avad's views are shared by the Rashba, Rabbenu Asher, and many others. Hence, he suggests that it be followed.
+
 [^7]: I.e., 5000 square cubits.
+
 [^8]: I.e., there is no difference between it and an ordinary private domain.
+
 [^9]: Because of its size, and the fact that it was not enclosed for the purpose of habitation, our Sages feared that it might become confused with a private domain. Hence, they applied more stringent rules. (See *Hilchot Shabbat*, Chapter 16.)
+
 [^10]: From the Rambam's wording in *Hilchot Shabbat* 27:4, the *Maggid Mishneh* infers that if the person stands within a large private domain that was not enclosed for the purpose of habitation on Friday and establishes it as his "Sabbath place," he may walk throughout its entire area and two thousand cubits in all directions. This opinion is not accepted by the Rashba and other authorities, and it is their view that is cited by the *Shulchan Aruch* 396:2.
+
 [^11]: Based on their interpretation of *Eruvin* [[Eruvin 49#49b|49b]], the Ra'avad, the Rashba, Rabbenu Asher, and others differ with the Rambam's ruling in this instance. Rather than totally ignore the person's intent, these authorities maintain that he is allowed to consider the distant location as his "Sabbath place." There is, however, a restriction. Since he did not specify his place, he is penalized according to the size of the location.  
     To cite the example mentioned in the following halachah: a person desires to establish a tree as his "Sabbath place." He does not specify his place and there are 20 cubits under the tree. According to the Rambam, his intent is ignored entirely, and his Sabbath limits are measured from the place where he is standing at nightfall. According to the other authorities, his "Sabbath place" is considered to be the tree, and it is from there that his Sabbath limits are measured. Nevertheless, because he did not specify his desired location, instead of being granted two thousand cubits in all directions, he is granted only 1980 cubits [i.e., 2000 minus 20 (the size of the area under the tree)].  
     The *Shulchan Aruch* (*Orach Chayim* 409:11) mentions both views, but appears to favor that of the other authorities. The *Eliyahu Rabba* states that the view of the other authorities should be followed. The *Be'ur Halachah*, by contrast, states that consideration should also be given to the Rambam's view.
+
 [^12]: We are not concerned with which of the eight cubits the person will use while under the tree, for all these eight cubits are within the person's Sabbath limits. The question is which four of these eight cubits will be considered to be one's "Sabbath place" regarding the determination of the Sabbath limits. For this, the precise determination of one's "Sabbath place" is the matter of focus (See the Rambam's Commentary on the Mishnah, *Eruvin* 4:7.)
+
 [^13]: I.e., regardless of the side from which one measures the two thousand cubits of the Sabbath limits, a portion of the four cubits that a person is granted will be included in the four cubits from which the Sabbath limits are measured. This must be so, for there are less than eight cubits under the tree (*ibid.*).
+
 [^14]: See Halachah 2. However, Rashi (*Eruvin* [[Eruvin 52#52a|52a]]), Rabbenu Yehonatan, the Rashba and many other authorities maintain that the leniency mentioned in Halachah 2 applies only when a person is on a journey, but not when the entire purpose for his setting out is to deposit an *eruv*. Their views are cited in the *Mishnah Berurah* 410:2.
+
 [^15]: Halachah 2.
+
 [^16]: *Eruvin* [[Eruvin 52#52a|52a]] relates that Rav Yehudah bar Ishtata brought Rav Natan bar Oshaya a basket of fruit for the Sabbath. Although it was late on Friday afternoon, Rav Yehudah turned to leave so that he could establish an *eruv t'chumin* to enable himself to return home on the following day. Rav Natan let him descend a single step and then told him to stay.
+
 [^17]: Rashi (*Eruvin* [[Eruvin 52#52a|52a]]) and other authorities differ, and state that this leniency applies only when a person has two homes whose Sabbath limits are adjoining. In this instance, it is clear that even though a colleague prevailed upon him to return, his intent was to establish his "Sabbath place" at the desired location so that he could proceed to his other home.  
     When, however, a person does not own a home in the adjoining area, and a colleague is able to prevail upon him to return, he is not able to establish a "Sabbath place" in a distant location, unless he makes an explicit statement to that effect. The *Shulchan Aruch* (*Orach Chayim* 410:2) quotes the Rambam's view, while the *Mishnah Berurah* 410:7 mentions the other opinions.
+
 [^18]: This applies even if during *beyn hash'mashot* they are at the homes of their hosts (*Mishnah Berurah* 409:39).

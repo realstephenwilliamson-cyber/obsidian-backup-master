@@ -31,10 +31,15 @@ This doctrine affirms that a person is a whole of form and matter, soul and body
 What is the relationship of the body and soul as conveyed in Mechthild’s mystical outlook? It is plainly one of disdain if not contempt. In an early account of her mystical flight her body is awakened upon the enforced return of her soul, and the following conversation ensues: 
 
 [^1]: Brown, *Body and Society*, p. 31.
+
 [^2]: Ibid., p. 26.
+
 [^3]: Jane Chance, ‘Introduction’, in *Gender and Text in the Later Middle Ages*, ed. Jane Chance (Gainesville: University Press of Florida, 1996), p. 4.
+
 [^4]: Bynum, *Fragmentation and Redemption*, p. 144.
+
 [^5]: Cf. Mechthild’s fervent desire for God, which sees her coming on fire, ‘unquenchable in \[his\] burning love’, while God seeks to cool himself in Mechthild’s ‘limpid soul’ (*FL* II, 25; p. 93). Also cf. *FL* IV, 12, p. 155, ‘Our Lord said to \[Mechthild’s soul\]: “Grant me this: that I might cool the heat of my Godhead, the longing of my humanity, and the pleasure of my Holy Spirit in you”’.
+
 [^6]: Elizabeth Robertson, ‘Medieval Medical Views of Women and French Spirituality in the *Ancrene Wisse* and Julian of Norwich’s *Showings*’, in *Feminist Approaches to the Body in Medieval Literature*, eds. Linda Lomperis and Sarah Stanbury (Pennsylvania: University of Pennsylvania Press, 1993), p. 144.
 
 *[p. 71]* ^pg79
@@ -54,12 +59,19 @@ For Mechthild the body is seen as the key area for the cause of sin. In likening
 What of the relationship of the body and soul to God, or the Absolute? Orthodox Catholic doctrine denies a complete and utter separation of body and soul, and Mechthild must accept this. When she narrates the force of God’s greeting through the Holy Trinity she is careful to say that even though it is powerful enough to force the soul out of the body it still leaves ‘the tiniest bit of her life force . . . with the body as in a sweet sleep’.[^14] The intimacy of the 
 
 [^7]: *FL* I, 2; p. 41.
+
 [^8]: *FL* IV, 2; p. 143. Also V, 4, p. 183: ‘\[t\]he body . . . sinks far down when it serves its enemy’, which is the soul.
+
 [^9]: *FL* IV, 2; p. 143.
+
 [^10]: *FL* IV, 12; p. 156.
+
 [^11]: The celebrated mystic Hildegard of Bingen (1098-1179) saw the soul as accomplishing its tasks in harmonious cooperation with the body (Vision Four: 95): ‘Before the soul was sent into the body, it had no special functions. And it will again have no special functions when it has left the body’. For its part the body has its life through the soul. (Hildegard of Bingen, *Hildegard of Bingen’s Book of Divine Works, With Letters and Songs*, edited and introduced by Matthew Fox \[Santa Fe, NM: Bear & Company, 1987\], pp. 118–20.)
+
 [^12]: *FL* IV, 18; p. 161.
+
 [^13]: *FL*, V, 22.
+
 [^14]: *FL* I, 2; p. 40.
 
 *[p. 72]* ^pg80
@@ -75,9 +87,13 @@ indistinguishable from Śakti, the source of Life.
 A correspondence may be alleged between *minne* and *śakti*, and their personifications. Love is personified as Frau Minne, Lady Love, and is portrayed as forceful and unrelenting, mediating the desire of the soul and God for conjunction. For example, Mechthild speaks of ‘the violent force of love, which pressed me so intensely with these marvels that I did not dare 
 
 [^15]: *FL* II, 5. Mechthild also uses this allusion in reference to her personification of pain, who did arise ‘from the soul and the body like a gloomy shine and \[ascend\] to God’. He meets her ‘before the door of the kingdom, saying: “Welcome, Lady Pain, you are the garment I wore next to my skin on earth and the whole world’s contempt was my finest mantle. Despite how much I loved you there, you are not entering here \[i.e., into the Kingdom\]…”’. (*FL* IV, 12; p. 155.)
+
 [^16]: *FL* V, 4.
+
 [^17]: The belief in a complete embodiment with at the same time an ultimate separativeness (allowing a transmigrating soul) is philsophically problematic.
+
 [^18]: Quoted by Wiethaus, *Ecstatic Transformation*, pp. 43–44. Her reference is unhelpful as the cited edition does not appear in the bibliography. McGinn (*Flowering of Mysticism*, p. 429, n. 149) however gives the source as Margot Schmidt, ‘Versinnlichte Transzendenz bei Mechthild von Magdeburg’, in ‘*Minnichlichiu gotes erkennusse*’: *Studien zur frühen abendländischen Mystiktradition*, ed. Dietrich Schmidtke (Stuttgart-Bad Canstatt: frommann-holzboog, 1990), pp. 62–88.
+
 [^19]: Cf. Hadewijch, who wrote: O Love, were I but love, / And could I but love you, Love, with love! / O Love, for love’s sake grant that I, / Having become love, may know Love wholly as Love! (Poem in Couplets 15, quoted in Newman, *From Virile Woman*, p. 155).
 20\. *The McGraw-Hill Encyclopedia of Science and Technology*, 7th ed., s.v. ‘gold’ and ‘diamond’. The occult identification of spirit and matter is reinforced by the symbolism in the fact that at sufficiently high temperatures diamond inverts to graphite, especially in the presence of cobalt – and in tantric metallurgy cobalt is associated with the *sahasrāra cakra*.
 
@@ -103,11 +119,17 @@ Similarly, the Bengali saint, Śrī Rāmakṛṣṇa, describes the experience o
 In Christian theology the soul is believed to partake of the same nature as God. It is the *imago Dei*, or image of God.[^26] Mechthild also refers to Jesus as her ‘most handsome Image’.[^27] When she praises God, 
 
 [^21]: *FL*, IV, 2; p. 143. Similarly, ‘love passes through the senses and storms the soul with all its might’ (V, 4; p. 182). It is not only for Mechthild that love is a power, indeed the supreme power. McGinn refers to Hadewijch, who ‘taught that the mystical encounter with God in this life maintains, rather, even heightens, the sense of *tremendum*, the terror of those who are “lost in the storms of love” so deeply that they are totally “lovers lost in hell”’ (*Flowering of Mysticism*, p. 205; citing Hadewijch’s Poems in Couplets 16.203–205).
+
 [^22]: In the Trika school the final stage of liberation is called ‘divine pervasion’ (*śivavyāpti*), where ‘the Self dissolves into Śiva and the latter remains alone on completion of this total fusion termed *mahāvyāpti*’ (Silburn, *Kuṇḍalinī*, p. 59).
+
 [^23]: *FL* V, 31; p. 213. *Kuṇḍalinī* has sometimes been likened to a bird (phoenix perhaps).
+
 [^24]: *FL* III, 1; p. 101.
+
 [^25]: See *The Gospel of Sri Ramakrishna, Originally recorded in Bengali by M., A Disciple of the Master*, trans. into English with an introduction by Swami Nikhilananda (New York: Ramakrishna–Vivekananda Center, 1977), p. 829. Rāmakṛṣṇa was a devotee of the Goddess Kālī. His famous disciple Vivekānanda founded the Ramakrishna Order in 1887, and also spoke at the World’s Parliament of Religions in Chicago in 1893; while in the U.S. he established the Vedānta Society in New York. A recent reassessment of Ramakṛṣṇa’s life has been offered by Jeffrey Kripal (*Kālī’s Child*), where he suggests that a number of episodes in Rāmakṛṣṇa’s life were suppressed by his followers, especially those that implied homoerotic tendencies.
+
 [^26]: See *FL* I, 22.
+
 [^27]: *FL* III, 2; p. 107.
 
 *[p. 74]* ^pg82
@@ -139,9 +161,13 @@ An esoteric reading, and a phenomenographically dangerous one (if understood onl
 In the literature of Tantrism and *kuṇḍalinī* yoga the process of liberation is accompanied by sensations of bliss, which are akin in their sweetness to honey (nectar). As the normally uncoiled serpent resting at the base of the spine in the subtle body unwinds, and travels up the 
 
 [^28]: *FL* V, 6; p. 186.
+
 [^29]: *FL*, V, 7.
+
 [^30]: Brooks, *Auspicious Wisdom*, p. 91.
+
 [^31]: The Latin adjective *lūcifer* means light-bringing, and is used as a proper name of the morning star; it is formed on *lūc(i)-*, *lūx* light + -*fer* bearing. According to the *Oxford English Dictionary*, it was probably formed on the basis of the equivalent Gk*.* P adj., Si ! light + *D* bringing, adopted into Latin as *phosphorus* ‘the morning star’ (i.e., Venus). At one point Mechthild equates Mary with the morning star (*FL* VI, 35).
+
 [^32]: *FL* III, 9; p. 116. It is not exactly clear from Tobin’s translation whether or not Lucifer is to be understood as the bridegroom of the soul. For the sake of caution, the lack of access to the original language, and further investigation of Mechthild’s use of the word goddess (*goetinne*), I have refrained from inferring that particular understanding.
 
 *[p. 75]* ^pg83
@@ -169,11 +195,17 @@ In *The Life of Marie d’Oignies*, written in 1215, James of Vitry summarized t
 You saw some of these women dissolved with such a particular and marvellous love toward God that they languished with desire, and for years had rarely been able to rise from their cots. They had no other infirmity, save that their souls were melted with desire for Him, and, sweetly resting with the Lord, as they were comforted in spirit they weakened in body…. The cheeks of one were seen to waste away, while her soul was melted with the greatness of her love. Many had the taste of honey on their tongues when their hearts experienced the sweetness of meditation…. Another’s flow of tears had made visible furrows down her face…. I saw another who sometimes was seized with ecstasy five-and-twenty times a day, in which state she was motionless, and on returning to herself was so enraptured that she could not keep from displaying her inner joy with movements of the body, like David leaping before the Ark. Some in receiving the bread of Him who came down from heaven, obtained not only refreshments in their hearts, but a sensation in their mouths sweeter than honey and the honey-comb…. So eagerly did they hasten after the fragrance of the sacrament that they were unable to go without it long: they found neither consolation nor rest, 
 
 [^33]: *SL* (Brown), v. 20.
+
 [^34]: Ibid., v. 21.
+
 [^35]: *FL* I, 14.
+
 [^36]: *FL* II, 10; p. 83. The first heaven is an illusion created by the Devil. The second heaven is created by the ‘longing of the senses’ and is ‘the first stage of love’; if, at this stage, the soul exhibits due humility, she will be taken to the third heaven (as was St. Paul \[[[2 Corinthians 12#^12-2|2 Cor 12:2]]\]).
+
 [^37]: *FL* IV, 12; p. 153.
+
 [^38]: *FL* V, 11; p. 190.
+
 [^39]: *FL* VI, 1; p. 224.
 
 *[p. 76]* ^pg84
@@ -191,13 +223,21 @@ If we accept the two types of mysticism, beguine and tantric, as ‘sensational�
 The most compelling similarity lies in the dynamic allusions to the divine, in the sense of flowingness. It is abundantly related by Mechthild, and present, if only by implication, in the *Anandalaharī*, as the Tantric tradition elaborates the *kuṇḍalinī* experience in practice. Of importance here is the common understanding of energy flows; although, it has to be acknowledged that such notions are more developed in Tantrism than in Christianity. Tantric metaphysics envisions the universe as a tensile web of energies, and the apparent dichotomy 
 
 [^40]: Quoted in McDonnell, *Beguines and Beghards*, p. 330.
+
 [^41]: Silburn, *Kuṇḍalinī*, pp. 113–14. She notes without reference that St John of the Cross mentioned ‘limbs oscillat\[ing\] at the joints’. Ajit Mookerjee (*Kundalini*, chap. 5) devotes a whole chapter to describing the weird and wonderful experiences of contemporary *yogins* in this regard.
+
 [^42]: Silburn, *Kuṇḍalinī*, p. 139.
+
 [^43]: *FL* I, 13.
+
 [^44]: *FL* III, 15; p. 122.
+
 [^45]: *FL* IV, 12; p. 152.
+
 [^46]: See below, p. 80.
+
 [^47]: Abraham Maslow, *The Farther Reaches of Human Nature* (New York: Penguin, 1971), p. 36; quoted by Wiethaus, *Ecstatic Transformation*, p. 85.
+
 [^48]: *FL* VII, 3; p. 277.
 
 *[p. 77]* ^pg85
@@ -215,9 +255,13 @@ The soul or ‘spiritual’ component of human beings is then energy. If Christ 
 Mystics commonly perceive a spiritual light,[^53] and seek to relate that to sensory physical manifestations of light, most obviously sunlight; accordingly, Mechthild uses the image of the sun, and by extension fire, to connote heat. But whereas Mechthild was only familiar with the chemical manifestation of energy (fire), a more contemporary understanding of spiritual light would be to see this energy in atomic terms. The universe is a vast electromagnetic field in which human beings are immersed; equally though, the human body is a universe in miniature. Śiva and Śakti constitute respectively the magnetic and electric components of 
 
 [^49]: Analogously, Einstein viewed mass as concentrated energy and energy as deconcentrated mass (Ernest R. Toon and George L. Ellis, *Foundations of Chemistry* \[New York: Holt, Rinehart and Winston, 1973\], p. 692). The formula E=mc<sup>2</sup> expresses this direct relationship between energy and mass; energy is, so to speak, a transformational state of mass. By analogy, the novel equation, S=mc<sup>2</sup>, expresses the direct relationship between spirit and matter; that is to say, spirit is simply a transformational state of matter.
+
 [^50]: *FL* II, 3; p. 71.
+
 [^51]: *FL* III, 1; p. 105.
+
 [^52]: *FL* V, 1. Tobin explains that by ‘innate chastity’ is meant the state of Adam and Eve before the fall; and being the more perfect chastity it is put on the same level as the highest angels, the Seraphim. ‘Acquired chastity’ on the other hand is second best, and all that humans can expect to achieve; thus it refers to the second highest class of angels, the Cherubim.
+
 [^53]: For Mechthild, compare her allusion: ‘The choirs each have a special light illuminating them and heaven has its own as well. The light is so extraordinarily glorious that I cannot and may not describe it’ (*FL* III, 1; p. 105).
 
 *[p. 78]* ^pg86
@@ -239,8 +283,11 @@ The action of *kuṇḍalinī* is traditionally understood to be akin to lightni
 As hinted earlier, there are some parallels between the figures of the Virgin Mary and Tripurasundarī. Mary is the ‘queen of heaven’,[^57] a goddess on the throne, yet still subordinate 
 
 [^54]: *FL* V, 32; p. 214. My emphasis.
+
 [^55]: Cf. Christ at the resurrection: ‘His face shone like lightning; his garments were white as snow’ ([[Matthew 28#^28-3|Mt 28:3]]). Cf. also the allusion to the Son of Man: ‘Like a lightning-flash, that lights the sky from east to west, will be the coming of the Son of Man’ ([[Matthew 24#^24-27|Mt 24:27]]); and its parallel at [[Luke 17#^17-24|Lk 17:24]], where Jesus admonishes the Pharisees that the Kingdom of God is among them, but they do not realize it: ‘For like a lightning-flash, that lights up the earth from end to end, will the Son of Man be in his day’. These passages indicate that Jesus becomes infused with *śakti* in his realization. (I am assuming the equivalence of Christ and the Son of Man figure.)
+
 [^56]: On lasers see Kurt Nassau, *The Physics and Chemistry and Color: The Fifteen Causes of Color* (New York: John Wiley & Sons, 1983), pp. 58–63, 102–5, 367–72.
+
 [^57]: *FL* II, 4; p. 74. MHG equals *himelsche kúneginne*; at 43.69 of the Neumann edition, *Das fließende Licht*. Earlier, she is said to stand ‘at the throne to the left hand of the heavenly Father’ (II, 3; p. 71), which is the traditional sinister (formerly pronounced with the accent on the second syllable, si’nister) assignment to the feminine. Pagan customs in Europe favoured left, counterclockwise or moonwise motion, as against dextral, solar motions for the male (Barbara G. Walker, *The Woman’s Encyclopedia of Myths and Secrets* \[San Francisco: Harper & Row, 1983\], s.v. ‘left hand’).
 
 *[p. 79]* ^pg87
@@ -276,12 +323,19 @@ mountain king;
 wherefore the two \[sons of yours\] drinking \[from them\] and never having 
 
 [^58]: *FL* III, 1; p. 103: ‘Her Son is God and she a goddess’ = ‘Ir sun ist got und si goetinne’. (In his remarks on this passage – that Mechthild ‘daringly’ calls Mary a ‘goddess’– McGinn incorrectly cites *FL* I, 22 \[*Flowering of Mysticism*, p. 233\]; however, he correctly cites Neumann at 75.78.) Why is the German *got*, god, rendered as God, while *goetinne*, goddess, rendered with the lower case? Mechthild refers to Mary elsewhere as a ‘noble Goddess’ (*FL* III, 4; p. 110), which is translated from ‘*edel goetinne*’ (N. 82.10). This capitalization seems to be inconsistently applied.
+
 [^59]: *FL* III, 4; p. 110; *erlichú keyserinne* at N. 82.3.
+
 [^60]: *FL* VII, 20; *himmelschú keyserinne* at N. 273.2. Also in the same chapter, ‘noble Empress’, or *edelú keyserin* (N. 273.12–13).
+
 [^61]: *FL* VII, 26; p. 296; *himelschú keyserin* at N. 276.12.
+
 [^62]: *SL* (Brown), v. 42.
+
 [^63]: *FL* I, 22; p. 52.
+
 [^64]: *FL* V, 23; pp. 199–200. In the following chapter (24) Holy Christianity is personified as a nursing mother, whose two breasts represent the old law and new law (or the Old and New Testament).
+
 [^65]: *SL* (Brown), v. 72.
 
 *[p. 80]* ^pg88
@@ -311,12 +365,19 @@ and breathes a sweet perfume, the eyes of Smara’s vanquisher revel
 like bees. [^73] 
 
 [^66]: Ibid., v. 73.
+
 [^67]: Mechthild depicts the garments of the virgins in the kingdom of heaven as being ‘white as lilies’ (*FL* III, 1; p. 104). She asks the Lord to receive and approach his brides ‘with the lilies of pure chastity all their days’ (*FL* VII, 30).
+
 [^68]: *FL* II, 19; p. 81.
+
 [^69]: *FL* VII, 19.
+
 [^70]: *SL* (Brown), v. 57.
+
 [^71]: See *FL* IV, 3; pp. 144–45.
+
 [^72]: For this allusion Tobin laconically notes, ‘A more literal translation would be: “and her nostrils are stuffed with sweet violets.” I doubt, however, that such a rendering captures the spirit of the image.’ Indeed! (*FL*, p. 353, n. 8.)
+
 [^73]: *SL* (Brown), v. 45.
 
 *[p. 81]* ^pg89
@@ -348,9 +409,13 @@ Mysticism serves to highlight in stark terms the flexible linguistic boundaries 
 The relationship between language and mysticism is a complex and variable one. Outside the influence of Augustine in the fifth century, the understanding of mystical experience was that it related basically to the esoteric or hidden meaning of a text. The task of the reader or listener was to elucidate or intuit that mysterious meaning, and thereby realize God through a sympathetic appreciation. In that sense the text (or discourse), as mystical imprint, may be construed as mere (verbal) imagery; and such is evident in the prophetic visions of the Bible, but most especially in the Book of Revelations.[^77] The later monastic tradition, as promulgated by Gregory the Great and St Bernard, allowed visual imagery only the role of a didactic or mnemonic function; at best, it could be considered a stimulus to devotion, and as ‘an aid to an illiterate populace unable to penetrate the mysteries of the Word’.[^78] By the thirteenth century however images came to acquire a certain legitimacy, and even potency; and their use for devotional purposes was facilitated by monks and especially nuns. This change in 
 
 [^74]: Ibid., v. 46.
+
 [^75]: Ibid., v. 49.
+
 [^76]: Metaphysically, and from an ‘electromagnetic perspective’, the male can be thought of as vertically polarized light and the female as horizontally polarized light; innately, the world (reality) is viewed through polarizing lenses. In other words, human perception (ontological awareness) is mentally polarized. One’s outlook is, then, normatively restricted, and only liberation (removing the glasses) frees one from these constraints.
+
 [^77]: The Jewish esoteric tradition is markedly imagistic: from the Merkabah through to the Kabbalah and Zohar.
+
 [^78]: Jeffrey Hamburger, ‘The Visual and the Visionary: The Image in Late Medieval Monastic Devotions’, *Viator* 20 (1989): 162. As Gregory opined in his epistle to Serenus: ‘in the image those who do not know letter are able to read’ (ibid). This characterization of imagery as the Bible of the illiterate is ‘unfair’, Hamburger urges (*The Rothschild Canticles: Art and Mysticism in Flanders and the Rhineland circa 1300* \[New Haven, Conn.: Yale University Press, 1990\], p. 4 and n. 37).
 
 *[p. 82]* ^pg90
@@ -360,8 +425,11 @@ understanding coincided with the rise of the Mendicant orders, which drew upon a
 Mechthild’s book evokes strong images based around the theme of love and the soul’s intense desire for God; her chiaroscuro of allusions is not the mark of an indescribable or ineffable set of experiences. It is useful at this point to revisit Stace’s simple classification of mystical experience as either ‘introvertive’ or ‘extrovertive’. This scheme might be modified to reflect the visual approach. An introvertive experience may rightly be said to be ineffable because it is an attempt to void the mind, and so there can be no linguistic explication of this state; the extrovertive experience however is founded on a sensory experience, and so is linguistically explicable. Since this particular mode lends itself readily to imagery we might call it a ‘paintable’ experience; while the other mode is an ‘unpaintable’ experience. On occasions, Mechthild does admit to the ‘mysterious’ quality of her experiences; for example, personified knowledge asks the soul to speak of the ‘ineffable intimacy that exists between God and you’, which the soul refuses to do, claiming that ‘Brides may not tell everything they experience…/ My privileged experience of God must always be hidden / From you and from all creatures except myself’;[^81] in the throne-hall of heaven she comprehends the mystery of the Trinity, but is ‘able to say no more about this’;[^82] she laments to her confessor that she can only describe ‘this authentic knowledge and these holy sublime contemplations to no one except through these words’, which seem ‘all too feeble’ to her, as compared to eternal 
 
 [^79]: See further the excellent survey by Hamburger, ‘The Visual and the Visionary’. He argues for the integral relationship between devotional imagery depicted in art, *Andachtsbilder*, and late mediaeval mysticism in the region of Flanders and Germany. This aspiration to realize the divine through the function of visual imagery was manifested in both the monastic and secular spheres. It is worth noting that the use of sculptured images also played an important part in beguine devotion. On this, see Joanna E. Ziegler (‘Reality as Imitation: The Role of Religious Imagery Among the Beguines of the Low Countries’, in Ulrike Wiethaus, ed., *Maps of Flesh and Light: The Religious Experience of Medieval Women Mystics* \[Syracuse: Syracuse University Press, 1993\], pp. 112–26), who considers the use of the sculptures *Christurkindje*, *Pietá*, and *Virgin and Child*, the worship of which enabled women to externalize rather than internalize their spiritual experiences, and thereby gain ecclesiastical approbation.
+
 [^80]: The link between art, visionary imagination, and mysticism is clearly shown in the *Rothschild Canticles*, a visionary handbook created in Franco-Flemish lands around 1300, most likely for a woman religious or beguine, possibly a Dominican nun (Hollywood, *Soul as Virgin Wife*, p. 17). It consists of fifty full page miniatures (of which forty-six have survived), one hundred and sixty smaller vignettes, forty–one historical initials, and extensive marginalia, as well as twenty-three tinted drawings added later to the manuscript (Hamburger, *Rothschild Canticles*, pp. ix, 8). Additionally, it is composed of Biblical and liturgical citations, with the intent of being an aid to stimulating the interplay of reading, meditation, and contemplation. As a *florilegium*, literally, a ‘bunch of flowers’ (p. 2), it is ‘an anthology of edifying texts united around a common theme or purpose’ (p. 19). In a pretty simile, Hamburger writes that ‘the *Rothschild Canticles* can be considered a bouquet of texts and images picked and arranged by the compiler for the delectation of the reader’ (p. 2). Such images are intended to ‘function as instruments of visionary experience, in other words, to induce, channel, and focus that experience’ (Hamburger, ‘Visual and Visionary’, p. 174). There are indications that early beguines and Cistercian nuns made some ‘use of pictures and paintings as aids for meditation, and as foundational images for visionary experience’ (Hollywood, *Soul as Virgin Wife*, p. 18).
+
 [^81]: *FL* II, 19; p. 82.
+
 [^82]: *FL* III, 1; p. 103.
 
 *[p. 83]* ^pg91
@@ -395,7 +463,9 @@ Frequently, polarized attributes are given to the male and female.[^86] For inst
 83\. *FL* V, 12.
 
 [^84]: *FL* II, 3; pp. 70–71.
+
 [^85]: *FL* II, 26; p. 97.
+
 [^86]: The following discussion is taken from Bynum, *Fragmentation and Redemption*, pp. 155ff.
 
 *[p. 84]* ^pg92
@@ -407,13 +477,21 @@ At this time woman was a ‘marked category’, in that the female was contraste
 Continuing this analysis, the ‘heterosexual crisis’[^94] in Christianity arises because God is gendered as male.[^95] Karma Lochrie argues that for mediaeval men who would speak of unification with this God, the metaphor of sexual union presented a problem, since homosexual allusions were unacceptable. One way round this problem was to see God as female parent; in which case, the union could be represented as akin to being in the womb, or suckling at the breast; significantly, this notion of Jesus as Mother was first elaborated by male devotional writers. The Cistercians managed in this way to eliminate sexuality from the 
 
 [^87]: Ibid., p. 156.
+
 [^88]: Jo Ann McNamara, ‘Rhetoric of Orthodoxy: Clerical Authority and Female Innovation in the Struggle with Heresy’, in Ulrike Wiethaus, ed., *Maps of Flesh and Light: The Religious Experience of Medieval Women Mystics* (Syracuse: Syracuse University Press, 1993), pp. 13–14. The view of a sexually differentiated heaven and earth, as masculine and feminine, is found generally in the Bible, and likewise in pagan mythologies. A notable exception is the Egyptian female goddess *Nut*, representing Heaven, who arches over the male Earth, *Geb*. See the discussion in Stephen Benko, *The Virgin Goddess: Studies in the Pagan and Christian Roots of Mariology* (Leiden: E.J. Brill, 1992), pp. 87–95.
+
 [^89]: Bynum, *Fragmentation and* Redemption, pp. 166–68.
+
 [^90]: Jantzen expatiates on this in chapter 4 of *Power, Gender and Mysticism*.
+
 [^91]: Logion 114, in *The Nag Hammadi Library in English*, third, completely revised edition; gen. ed. James M. Robinson (San Francisco: Harper & Row, 1988).
+
 [^92]: Bynum, *Fragmentation and Redemption*, p. 172.
+
 [^93]: Ibid.
+
 [^94]: Lochrie, ‘Mystical Acts, Queer Tendencies’, p. 187. Lochrie criticises the ‘heterosexual’ bias in paradigmatic readings of mystical experiences; she asserts that in order for these to be maintained, ‘an awful lot of adjustments need to be made’ (p. 188).
+
 [^95]: Of course, we are to understand that, theologically, masculine language is a mere convention, and is not meant to be taken literally. Popular usage however does not always admit such a fine distinction. Even though references to God are supposedly metaphorical, there is usually an outcry at any feminine pronomial usage. And using ‘it’ is understandably not allowable, as the Christian tradition emphasizes the relational aspect of God. On this issue see the succinct presentation by Gail Ramshaw Schmidt, ‘De Divinis Nominibus: The Gender of God’, *Worship* 56 (1982): 117–31. A critical conservative response to her, and those like her who proffer similar arguments, can be found in Donald Hook and Alvin F. Kimel Jr., ‘The Pronouns of Deity: A Theolinguistic Critique of Feminist Proposals’, *Scottish Journal of Theology* 46 (1993): 297–323.
 
 *[p. 85]* ^pg93
@@ -449,7 +527,9 @@ outlook)
 This model utilizes understandings conceptualized by male writers. Historically and practically in the Christian tradition, the spiritual realm has been considered superior to the material realm, and men, often thinking themselves to be superior to women, have assigned to themselves the quality of spiritualness, and to women the quality of materialness. Such a view is socially and metaphysically relative. The Christian tradition is paradigmatically inflexible in that Jesus Christ, as exemplar, was historically embodied as a male – an evident fact. If therefore he innately represents spirituality, then, from a binary perspective, women are confined to the oppositely polarized state of materiality. Furthermore, to the extent that the physical is maligned, women are left in a powerless situation. In an effort to overcome the 
 
 [^96]: Bynum, *Jesus as Mother*, pp. 111–12. There are occasional examples of monks describing an apparent sexual union with a male God. Bynum cites (rather obscurely) Rupert of Dietz, who in a vision embraced the crucifix (ibid., p. 161).
+
 [^97]: McGinn, *Flowering of Mysticism*, p. 315.
+
 [^98]: *Ātman* is here thought of as the crystallization of Brahman, and therefore analogous to the Christian Spirit. I shall take ‘spirit’ as being equivalent to the idea of soul as the higher self; but it ought to be noted that the question of terminology in this regard is obviously more subtle. *Ätman* is the mirrored image of Brahman, via Śiva–Śakti, in the human being; while *jīva* is the embodied self of mind and body, which can be understood roughly as equivalent to the ego, or lower self (which includes by implication the body). The philosophical and metaphysical support for this conceptual correspondence is beyond the scope of this study.
 
 *[p. 86]* ^pg94
@@ -468,6 +548,7 @@ In theory, tantric systems view women as being equal with men, since they reflec
 100\. It is interesting, though inconclusive, that Mechthild refers to her body once using the masculine pronoun: ‘One should also not complain about the trouble one sees, for *he* is by nature a coward. Rather, one should treat him like an old pensioner who can no longer serve at court, and so gives him alms purely for the love of God’ (*FL* III, 1; p. 107; my emphasis).
 
 [^101]: John Woodroffe came close to this when he wrote, ‘If the ultimate reality is the One which exists in two aspects of quiescence of the Self, in liberation from all form and active enjoyment of objects, that is, as pure spirit and spirit in matter, then a complete union with Reality demands such union in both of Its aspects’ (*Shakti and Shakta: Essays and Addresses on the Shakta Tantrashastra* \[Madras: Ganesh & Co., 1969\], p. 439). A possibly useful contemporary analogy lies in the electromagnetic spectrum, which is just a continuum of energies. Physicists have arbitrarily classified and demarcated electromagnetic waves as visible, ultraviolet, x-rays, etc.
+
 [^102]: Quoted by Kinsley, *Tantric Visions*, p. 254, n. 18. Other texts stipulate kind and respectful treatment of women, with violators of this law being consigned to hell (see Gupta, ‘Women in the Śaiva–Śākta Ethos’, p. 207, who cites *Kulacuḍāmanitantra* 3.46–57 in this regard). By extension, according to *Prāṇatoṣaṇītantra*, chapter 2, women gurus are preferred in Tantra (ibid*.*, p. 208).
 
 *[p. 87]* ^pg95
@@ -481,15 +562,25 @@ As the activity is deprived of its emotional content and becomes just functional
 Further detailed descriptions of the ritual refer to the woman as the silent object upon whom things are done; for example, the ‘sādhaka sits cross-legged while his śakti sits opposite him’;[^108] ‘\[h\]aving purified the element of his own body the sādhaka proceeds gradually to purify the body of his śakti…’.[^109] In this scenario the woman, who is acknowledged as representing the Goddess, has no identity in the process, no subjectivity; she is merely an object of worship for the male. The adept is to see her ‘as a mental screen onto which is projected a series of personifications’, which has the effect of altering his perception of her ‘into a special kind of perception’, namely Śakti.[^110] At the next, the highest, level, he can envisage her as a *yantra* of the Devī as he worships her with food and mantra offerings.[^111] After consummation, he is transformed into Bhairava (Śiva);[^112] that is, he is one but she is still zero, a diffuse non-singular being who serves only the function of reificatory object in this theology.[^113] It is not surprising that some male practitioners internalized the whole process. While the goal is often stated in the texts to be the union of Śiva with Śakti, and complementarity is stressed, there is little mention of the achievement for women. Is this just because the texts are written by men, or is Tantra really a one-sided event? If it is 
 
 [^103]: Ajit Mookerjee and Madhu Khanna, *The Tantric Way: Art, Science, Ritual* (London: Thames and Hudson, 1977), p. 163.
+
 [^104]: Ibid., p. 165. For this last allusion they are citing *Lalaita Vistāra*.
+
 [^105]: Ibid.
+
 [^106]: Bharati (*Tantric Traditions*, p. 312) relates how the tantric scholar Sanjukta Gupta once spoke at Syracuse University, on the place of women in Śāktism and the Hindu Tantras in general. In questioning her adherence to the male bias in the tradition, he makes the point that the masculine term *sādhaka* is used exclusively with no indication that *sādhikā* is the corresponding feminine term, which in fact does not appear in the texts. Proof, if more be needed, that woman is the object and not the subject of tantric discourse.
+
 [^107]: Mookerjee and Khanna, *Tantric Way*, p. 166. What the prior sub-heading reference on this same page – to the retention of sexual energy through ‘Control of semen and *ova* in the human body’ (my emphasis) – might mean for the woman is not explained.
+
 [^108]: Ibid., p. 168.
+
 [^109]: Ibid., p. 170.
+
 [^110]: Ibid., p. 175.
+
 [^111]: Ibid., pp. 175–77.
+
 [^112]: Ibid., p. 184.
+
 [^113]: This kind of tantric love might be called programmatic, or digital, and the non-tantric (sentimentalized or loving) kind, as analogue.
 
 *[p. 88]* ^pg96
@@ -501,9 +592,13 @@ It might be argued that objectification is often built into languages as they ev
 In determining basic qualifications for initiation, issues of gender are not emphasized in tantric sources. Still, many conservative tantric traditions in practice do not admit women as full initiates, especially those still in childbearing years, due to brāhmaṇical taboos regarding periodic ritual impurity.[^118] No such reticence exists in alchemical tantras, where the woman’s menstrual and sexual emissions are prized for their transformative powers; it is freely admitted that women, as embodiments of the Goddess, and bearers of life, exercise a greater power than men. As White submits, ‘\[b\]ecause women are naturally endowed with a greater abundance of vital breath (*prāṇa*) than men, the raising of the *kuṇḍalinī* is easier, even 
 
 [^114]: Bharati ponders the male-centredness question as well when he asks: ‘What’s in all this for women’, and answers despairingly, ‘pretty little’ (*Tantric Traditions*, p. 316). In chapter 6 he makes a similar point to that which I am making in these passages.
+
 [^115]: See Ann Bodine (‘Androcentrism in Prescriptive Grammar: Singular “they”, Sex-indefinite “he”, and “he or she”’, *Language in Society* 4 \[1975\]: 129–46) and Dennis Baron (*Grammar and Gender* \[New Haven, Conn: Yale University Press, 1986\] pp. 190–216) for insightful analyses of this issue. Despite prolonged attempts by prescriptive grammarians to stigmatize the use of ‘they’ as a singular pronoun, or to dismiss ‘he or she’ as awkward, both these constructions are common, in speech and/or writing. Indeed, one often encounters in print *she* being used in a generic sense; and it may only be a matter of time before it appears in popular speech. At any rate, this outcome seems more likely than that a novel or artificial word will ever gain currency (Baron gives a list of such odd neologisms at pp. 205–9).
+
 [^116]: If it had once been argued that women should simply understand that they are included within the term ‘he’ it would seem more logical to use ‘she’ as a generic, since it is at least spelt ‘s-he’, and has the advantage of having inclusivity built in, so to speak. Certainly, it is not as strange as the attempt by a pseudonymous eighteenth century writer who tried to relate *he* to the Biblical instance of Eve’s being born out of Adam’s rib; this writer opined that the word *she* is formed by adding ‘a line symbolic of grace and beauty’, namely the letter *s*, ‘the most perfectly curved letter of the alphabet’, to the word *he* (Baron, *Grammar and Gender*, p. 19).
+
 [^117]: The nominative feminine singular had several forms in Middle English, in various dialects in England and Scotland. It seems that the form ‘sh’ arose out of a palatization process of both *héo* and *sío.* See Joseph Wright and Elizabeth Mary Wright, *An Elementary Middle English Grammar*, 2nd ed. (Oxford: Oxford University Press, 1979 \[1928\]), pp. 160–162. Beyond the uncertain linguistic explanations, Julia Stanley and Susan Robbins (‘Going through the Changes: The Pronoun *She* in Middle English’, *Papers in Linguistics* 11 \[1978\]: 71–88) argue for a sociological cause for the extraneous introduction of a morphologically different type into the Old English paradigm.
+
 [^118]: Brooks, *Secret of the Three Cities*, pp. 71–72.
 
 *[p. 89]* ^pg97
@@ -513,13 +608,21 @@ natural, for them…’.[^119] Not coincidentally, women have often been perceiv
 The paradigm presented in the previous section can be grounded in the psychoanalysis of the French feminist theorist Luce Irigaray, who charts a ‘sexuality of difference’.[^122] She asserts that man confirms his identity through the negative alter ego that is the mirror wherein woman is reflected. This is the location of the A/not-A dichotomies that are prevalent in his thinking; and his positive attributes are supported by his negative attributes being shifted onto the other, who is woman. Man, so to say, ‘displaces his material, passionate, unreliable and sensuous nature onto the figure of the feminine’.[^123] Irigaray additionally asserts that man’s identity is defined by his relationship in opposition to a transcendent God, who, as a projection of the masculine ideal, functions as his ‘guarantor’. God is a perfect ideal, ‘immortal where man is mortal, infinite where man is finite, disembodied where man is embodied’.[^124] She sees this unattainable ideal, this discontinuity or schism between man and God, as the source of the diminished condition of woman and the feminine. It is necessary then to reconceptualize man/divine relations and woman/divine relations; furthermore, it is necessary to develop a ‘feminine divine’, which would see the divine as continuous with the human, rather than as severed from it. Instead of transcendence between the human and divine, there ought to be transcendence between man and woman.[^125] By ‘transcendence’ is meant ‘limit’, ‘difference’, the ‘beyond’; and wonder (*jouissance*) forged in relating; of ‘love of the other-as-difference, and not of the other as a variation of, or reflection of, the self’.[^126] Irigaray explores the implications of the dialogue between Diotima and Socrates, as reported in Plato’s *The Symposium*.[^127], 128 Here, Diotima argues that Eros, or Love (*erôs*, desire), is a spirit, or *daimôn*, who is a being halfway between mortal and immortal, and a 
 
 [^119]: *Alchemical Body*, p. 200.
+
 [^120]: V, 148. Cited by Julia Leslie, ‘Essence and Existence: Women and Religion in Ancient Indian Texts’, in *Women’s Religious Experience*, ed. Pat Holden (London: Croom Helm; Totowa, NJ: Barnes & Noble, 1983), p. 100.
+
 [^121]: Brooks, *Secret of the Three Cities*, p. 65.
+
 [^122]: I shall follow Penelope Deutscher’s interpretative summary. See Penelope Deutscher, ‘“The Only Diabolical thing about Women…”: Luce Irigaray on Divinity’, *Hypatia* 9, no. 4 (1994).
+
 [^123]: Ibid., p. 93.
+
 [^124]: Ibid., p. 94.
+
 [^125]: Ibid., p. 97.
+
 [^126]: Ibid., p. 98.
+
 [^127]: See Luce Irigaray, *An Ethics of Sexual Difference*, trans. Carolyn Burke and Gillian C. Gill (London: The Athlone Press, 1993), pp. 20–33.
 128\. The consulted edition is Plato, *The Symposium*, trans. Christopher Gill (London: Penguin, 1999; see pp. 37– 50, 201d–212b, for the dialogue in question). Diotima was a legendary priestess at Mantinea, and her presence in the book seems to be a fictional contrivance, according to Gill (*Symp*., p. xxviii). In other words, she serves as a mouthpiece for Socratic thought. The *symposion*, or male drinking group, was a main focus of social life in Classical Greece, and each man would take his turn in speaking on a chosen theme. Women were not admitted, but slave-girls, *hetairai*, often were. ‘After the evening was over, the party often ended with a drunken riot through the streets, in which innocent bystanders might get beaten up…’ (see Oswyn Murray, pp. 224–26, in *The Oxford History of the Classical World*, eds. John Boardman, Jaspar Griffin and Oswyn Murray \[Oxford: Oxford University Press, 1986\]).
 
@@ -533,10 +636,17 @@ mediator between gods and humans.[^129] As the son of Resource and Poverty, he s
 In conclusion, I believe it is fair to say that there is a basic level of correspondence between the traditions of bridal mysticism, as exemplified in the writings of Mechthild of Magdeburg, and the tantric ideas on unification, which have been developed out of yogic sexual practices, whether in a physical or mental capacity. The correspondence, it is true, lies mainly in the imagery employed, and not in the theologies; although, even here, a ‘stretched’ correspondence has been devised. Fundamentally at least, the urge towards union with the divine, however that concept is understood, seems to be a universal trait. 
 
 [^129]: *Symp.* 202c–202e.
+
 [^130]: *Symp*. 203d–204b.
+
 [^131]: *Symp.* 204e–208b.
+
 [^132]: Within the Greek milieu, Diotima–Socrates confines this beauteous love to boys and men.
+
 [^133]: *Symp.* 209a–211d.
+
 [^134]: *Symp*. 211e.
+
 [^135]: Irigaray, *Ethics*, pp. 32–33. Cf. Margot Schmidt’s ‘sensualized transcendence’. See above, p. 72.
+
 [^136]: Ibid., p. 148.

@@ -119,22 +119,37 @@ A person must honor a Torah scroll [to the full extent] of his potential. The Sa
 Blessed be God who offers assistance. ^10-11
 
 [^1]: each in its own right - can disqualify a Torah scroll. If a scroll contains one of these factors, it does not have the sanctity of a Torah scroll, but rather is considered like a chumash used to teach children - i.e., although it is still considered to be a sacred text, it does not have the same degree of holiness as a Torah scroll. (See also Chapter 7, Halachah 14, and *Hilchot Tefillah* 11:14.)
+
 [^2]: There is an apparent contradiction between this ruling and one of the Rambam's responsa, which states:  
     It is permitted to recite a blessing when reading from a Torah scroll that has been invalidated. This practice was carried out in the presence of the geonim, Rav Yosef HaLevi and Rav Yitzchak Alfasi, without protest....The blessing is not dependent on the scroll from which the scroll is read... but on the reading itself....  
     The *Kessef Mishneh* attempts to resolve this difficulty, explaining that the responsum deals with a circumstance when there is no proper Torah scroll available. In contrast, the decision rendered here is *a priori* in nature (לכתחילה) The *Shulchan Aruch* (*Orach Chayim* 143:2-3), however, rules that a blessing may not be recited on such a scroll. See also *Hilchot Tefillah* 12:23.
+
 [^3]: See Chapter 1, Halachah 10.
+
 [^4]: See Chapter 1, Halachot 6-9 and 14.
+
 [^5]: See Chapter 1, Halachah 11.
+
 [^6]: See Chapter 1, Halachah 9
+
 [^7]: See Chapter 1, Halachah 9.
+
 [^8]: See Chapter 7, Halachah 4.
+
 [^9]: See Chapter 1, Halachah 12, and Chapter 7, Halachah 4.
+
 [^10]: See Chapter 1, Halachah 5.
+
 [^11]: See Chapter 1, Halachah 19.
+
 [^12]: See Chapter 1, Halachah 13.
+
 [^13]: See Chapter 1, Halachah 15.
+
 [^14]: See Chapter 1, Halachah 2, and Chapter 7, Halachah 9.
+
 [^15]: See Chapter 1, Halachah 19, and the conclusion of Chapter 8.
+
 [^16]: See Chapter 1, Halachot 19-20; Chapter 7, Halachah 9; and Chapter 9, Halachah 15.  
     **p) that additional space was left between letters, so that a word would appear as two words, or that too little space was left between words, so that two words appear as one; -** See the conclusion of Chapter 8.  
     **q) that the form of the passages; -** i.e., one wrote a passage that should have appeared *p'tuchah* as *s'tumah*, or vice versa  
@@ -144,51 +159,93 @@ Blessed be God who offers assistance. ^10-11
     **s) that other passages were written in the form of the songs -** See Chapter 7, Halachah 11.  
     **t) that the parchments were sewn together using [thread made from anything other] than animal sinews.; -** See Chapter 9, Halachah 13.  
     **Any other factors were mentioned only as the most proper way of fulfilling the mitzvah and are not absolute requirements. -** *Sefer Kovetz* adds one more disqualification: that a Torah scroll was written with half of God's name within the line and half added outside the line (Chapter 1, Halachah 16).
+
 [^17]: This general principle is the foundation for the remaining halachot in this chapter.
+
 [^18]: The Rambam's words (quoted from *Megillah* [[Megillah 27#27a|27a]]) should not be taken absolutely literally. Surely, if a person is in danger of dying of hunger, he may sell a Torah scroll. Rather, this refers to an instance when a person lacks a source of income and is required to sustain himself from charity (*Kessef Mishneh*). (See also Ramah, *Yoreh De'ah* 270:1; *Siftei Cohen* 270:2.)
+
 [^19]: Rabbenu Manoach explains that the reason for the latter ruling is that, despite one's resolve, circumstances may arise, and ultimately, one may never buy the new scroll. Accordingly, if the new scroll has already been completed and an agreement concluded, the old scroll may be sold. The *Siftei Cohen* 270:3, however, forbids a sale even under these circumstances. (Compare to *Hilchot Tefillah* 11:12.)
+
 [^20]: *Tosafot* (*Bava Batra* [[Bava Batra 8#8b|8b]]) states that a Torah scroll may also be sold to redeem captives. From *Hilchot Matnot Ani'im* 8:10-11, it appears questionable whether the Rambam would accept this point.
+
 [^21]: for Torah study leads to the performance of mitzvot. This is the purpose of a person's life (*Megillah*, ibid.).
+
 [^22]: An unmarried person leads an unstable, unsatisfied existence (*Megillah*, ibid.).
+
 [^23]: *Megillah*, ibid., states that a person will never see any blessings from the proceeds of this sale. See also *Shulchan Aruch* (*Yoreh De'ah* 282:18), which quotes a debate whether a person is allowed to use the proceeds of the sale for his personal use.  
     Note the *Turei Zahav* 282:13, which states that it is forbidden to use one sacred text as a prop for another one.
+
 [^24]: Thus, it will be preserved (*Megillah* [[Megillah 26#26b|26b]]).
+
 [^25]: The precise translation of the term *mitpachat* is a matter of question. Among the alternative translations that appear possible from different Talmudic sources are the curtains hanging on the ark, clothes placed within the ark on which the scrolls are placed, the cloth on which the Torah is placed on the reading platform, and the sash used to tie the Torah closed.
+
 [^26]: In *Hilchot Eivel* 3:8, the Rambam discusses the laws regarding a corpse that has no one to bury it. Here, however, the term appears to refer to a poor person whose family cannot afford shrouds. (See *Mishnah Berurah* 154:21).
+
 [^27]: The *Beit Yosef* (*Yoreh De'ah* 282) states that although this ruling allows a person to use a mantle for this purpose, there is no obligation to entomb it in this fashion. It may be buried with other sacred articles.
+
 [^28]: The Rambam is alluding to the concepts mentioned in Chapter 4, Halachah 9, that for an article to be considered as sacred in nature, it must have been made for a holy intent and actually used for that purpose. The container he mentions refers to the Sephardic custom in which a Torah scroll is held in a wooden or metal box.
+
 [^29]: Our translation follows Rav Kapach's commentary, which explains that a *teivah* is a movable ark with a flat roof; a *migdal*, a movable ark with a slanted roof. Others have noted that the term*migdal* could refer to the permanent ark described in *Hilchot Tefillah* 11:2-3.
+
 [^30]: When two scrolls are taken out for the communal Torah reading, one is placed on this chair while the other is being read. Many authorities require the second scroll to be held by a person while the first scroll is being read.
+
 [^31]: See *Hilchot Tefillah* 11:3.
+
 [^32]: This would appear to refer to tablets used to teach children to read. If the tablets contain a Biblical verse, they also must be treated as sacred articles.
+
 [^33]: They do not have the same level of holiness as a Torah scroll. They are endowed - as are all elements of a synagogue - with a certain dimension of holiness, as explained in *Hilchot Tefillah* 11:15.
+
 [^34]: If, when purchasing these articles, the congregation or donors made a stipulation that they could ultimately be used for mundane purposes, it is permitted to do so. (See *Hilchot Tefillah*, ibid.; *Shulchan Aruch*, *Orach Chayim* 154:8.)
+
 [^35]: This applies to scrolls on which between one and four of the five books of the Torah are written, and not to printed texts.
+
 [^36]: Books of the Prophets and the Sacred Writings may be placed upon each other without distinction.
+
 [^37]: From *Eruvin* [[Eruvin 98#98a|98a]] and *Soferim* 3:12, it would appear that the meaning of this statement is that one should hand sacred texts to a colleague rather than throw them. Nevertheless, there are authorities who also interpret this as a prohibition against wantonly discarding the texts. (See also *Hilchot Yesodei Torah* 6:8 and commentary.)
+
 [^38]: See Chapter 4, Halachah 17, which explains these concepts with regard to tefillin. Although the passages in tefillin are covered by leather, there are distinct differences between them and these amulets:  
     a) The compartments of the tefillin are also holy and are made for the specific purpose of holding the tefillin. Therefore, they are not considered to be a container. See Halachah 7 (*Kinat Eliyahu*).  
     b) The *shin* - one of the letters of God's name - is embossed on the tefillin (Rabbenu Manoach).
+
 [^39]: since it is unbecoming to bring a Torah scroll into such places. (See also Chapter 7, Halachah 3.)
+
 [^40]: It is forbidden to perform mitzvot next to a corpse or in a cemetery, because by doing so, one appears to be mocking the dead, who cannot serve God in this manner (*Berachot* [[Berakhot 18#18a|18a]]). Holding a Torah scroll itself fulfills a mitzvah even when one does not study from it (*Kessef Mishneh*).
+
 [^41]: As explained in the previous and the following halachot, a Torah scroll that is covered by its usual containers is considered as if it is openly revealed.
+
 [^42]: See Chapter 4, Halachah 23; *Hilchot Kri'at Shema* 3:2.
+
 [^43]: See Chapter 4, Halachah 17; *Hilchot Kri'at Shema* 3:8.  
     There are certain versions of the *Mishneh Torah* that state: "until he moves four cubits away from the corpse, bathhouse, or lavatory." Since the Rambam does not mention the obligation of moving away from a bathhouse in Chapter 4 or in Chapter 3 of *Hilchot Kri'at Shema*, we can assume that he does not feel that it is necessary, and that as soon as one steps outside of the bathhouse he may recite words of Torah.
+
 [^44]: *Megillah* [[Megillah 32#32a|32a]] states: "A person who holds a Torah scroll while naked is buried naked." Noting the difficulty with the simple interpretation of this statement, the Talmud interprets it to mean, "buried naked of the merit of this mitzvah."  
     Our translation follows the *Bnei Binyamin*, who interprets "naked" as modifying "a person," and not the scroll. There are authorities who interpret the Talmud's statement to mean that one should not hold a Torah scroll while the scroll is uncovered. See the *Shulchan Aruch* (*Orach Chayim* 147:1). Note also the *Noda BiYhudah* (*Orach Chayim*, Responsum 7), who discusses the Rambam's perspective on this law. (See *Hilchot Sha'ar Avot HaTum'ah* 9:5; the Rambam's Commentary on the Mishnah, *Yadayim* 3:3.)
+
 [^45]: The Jerusalem Talmud (*Berachot* 3:5) relates that Rabbi Eliezer accidentally sat down on a couch on which a Torah scroll was placed. When he discovered it, he recoiled in shock as if facing a snake.  
     The *Siftei Cohen* 282:8 relates that this law does not apply if the Torah scroll is placed on another article that lifts it up at least a handbreadth (three handbreadths is more desirable) above the couch. The Ramah (*Yoreh De'ah* 282:7) states that the same restriction applies to other sacred texts as well. (See also *Siftei Cohen* 282:9.)
+
 [^46]: See Chapter 4, Halachah 24.
+
 [^47]: Significantly, the *Shulchan Aruch* (*Yoreh De'ah* 282:8) does not accept the Rambam's view on this issue and forbids relations under these circumstances. Placing a sacred article in two containers is sufficient for tefillin or other sacred texts, but not for a Torah scroll.
+
 [^48]: The *Pit'chei Teshuvah* 282:10 states that a curtain is not acceptable as a divider.
+
 [^49]: Note a slightly different application of this concept in *Hilchot Kri'at Shema* 4:8.
+
 [^50]: *Kiddushin* [[Kiddushin 33#33b|33b]] states: If we stand in honor of a Torah sage, surely we should stand before the Torah itself. (Compare to the laws governing standing before a sage, *Hilchot Talmud Torah* 5:7, 6:1.)
+
 [^51]: Note the *Shulchan Aruch* (*Orach Chayim* 149:1), which states that after the Torah is read, it is customary to accompany it back to where it is kept.
+
 [^52]: This applies to the construction of an ark. Wherever a Torah scroll is held, in a home as well as a synagogue, such a structure should be built.
+
 [^53]: The *Shulchan Aruch* (*Yoreh De'ah* 282:1) emphasizes that "it" refers to the place of the Torah scroll. The ark must be treated with honor.
+
 [^54]: Our translation follows the standard published text of the *Mishneh Torah*. Other versions read, "stretch out one's feet before it."
+
 [^55]: The proof-text chosen by the Rambam is somewhat difficult. It states that the Torah will be "testimony for you," while previously he spoke of its being "testimony for all the inhabitants of the earth." This difficulty can be resolved by interpreting the proof-text, "It will be testimony about you" - i.e., the Torah will be testimony to all the inhabitants of the world that an essential bond exists between God and the Jewish people. The awareness that the Torah communicates this concept should naturally, without effort, bring a person to "sit with respect, awe, and fear" in the presence of a Torah scroll (*Likkutei Sichot*, Shavuot 5747).
+
 [^56]: *Avot* 4:6. Significantly, in his Commentary on the Mishnah, the Rambam interprets this statement slightly differently.
+
 [^57]: גופו translated as "person," literally means "body." Honoring a Torah scroll, the body of the Torah as it were, will bring honor to one's physical being.
+
 [^58]: The Rambam reverses the order of the Mishnah in order to conclude positively.

@@ -47,21 +47,38 @@ If the sun is located between midway in the constellation of Virgo and midway in
 
 [^1]: As mentioned in Chapter 11, the rate of the advance of the sun, the moon, and the other planets does not appear to be uniform. For the sun, the deviation is relatively minor and can be resolved by postulating that the Earth is not at the center of the sun's orbit. The deviations of the moon from its mean rate of advance, however, are larger than that of the sun, and more irregular. (According to modern science, these deviations result from the gravitational pull of the sun and other celestial bodies.)  
     To resolve this difficulty, some ancient astronomers (Ptolemy and Aristotle, among others) postulated that with regard to the moon, two orbits were involved: One orbit encompassed the Earth, although the Earth was not at its center. Around this orbit existed one (and according to some opinions, more than one) smaller orbit, within which the moon rotated. This smaller orbit is referred to as an epicycle. Because of the moon's position in this smaller orbit, it would appear to be either ahead of or behind the mean position of the center of this orbit.
+
 [^2]: This refers to the rate of progress that is apparent to an observer on the Earth. In theory, however, this figure is a result of two different motions. The entire orbit of the moon is moving in the heavens. (The orbit of the sun is also moving, as reflected in the movement of the sun's apogee, as mentioned in Chapter 12, Halachah 2. The sun's orbit is moving at a very slow pace, one and a half seconds a day. In contrast, the moon's orbit moves much faster, slightly more than 11 degrees each day. This movement is from east to west, opposite to the movement of the heavenly sphere.)  
     Within this larger orbit revolves the epicycle, the smaller orbit around which the moon revolves. The epicycle is revolving at approximately 24 1/2 degrees a day, from west to east. Thus, an observer on the Earth would see the epicycle as moving 13 degrees and a fraction (i.e., 24 1/2 - 11 1/5) forward (eastward) in the heavenly sphere every day, as the Rambam states.
+
 [^3]: I.e., after the multiples of 360 have been subtracted.
+
 [^4]: It appears that the Rambam has added three seconds. This addition was made because the rate of progress also includes three thirds not mentioned in the original figure, but included in this calculation.
+
 [^5]: On this basis, we can understand why a lunar month is slightly longer than 29 1/2 days. The mean distance traveled by the sun in 29 days is approximately 28 1/2 degrees (Chapter 12, Halachah 1), approximately 6 1/2 degrees more than the remainder of the progress of the moon's mean. This distance (and the additional approximately almost half a degree traveled by the sun during this time) is travelled by the moon's mean in slightly longer than twelve hours on the following day.
+
 [^6]: This distance is figured east to west, opposite to the movement of the heavenly sphere.
+
 [^7]: It appears that the Rambam has subtracted seven seconds. This subtraction was carried out because his figure for the rate of progress had been rounded off. In fact, the rate is seven thirds less than the figure mentioned originally. The lack of these thirds was taken into consideration in this calculation.
+
 [^8]: Although we have followed the standard printed text of the *Mishneh Torah* and included this paragraph in Halachah 4, it is clearly part of the previous halachah.
+
 [^9]: As mentioned in Chapter 12, Halachah 2, and notes, the sun does not always reach its mean position at sunset. In the summer, when the days are longer, it reaches its mean position slightly earlier, and in the winter slightly later. In the following halachah, the Rambam states the values that allow us to compensate for these differences.
+
 [^10]: This corresponds to the month of Nisan, the time of the vernal equinox, when the sun sets at approximately 6 PM. Hence, there is no need to adjust the position of the moon's mean.
+
 [^11]: This corresponds to the beginning of the summer, when the days are longer. Since the moon is moving slightly more than thirteen degrees per day away from the sun, its rate of progress per hour is thus slightly more than 30 minutes. When the sun's rate of progress per hour - for it is moving (eastward) in the same direction as the moon - is also taken into consideration, it is proper to consider the moon's progress as thirty minutes per hour. Thus, the Rambam is saying that in these months, the sun will set approximately half an hour after 6 PM.
+
 [^12]: This corresponds to the middle of the summer, the longest days of the year. To compensate for the further delay in the setting of the sun, an additional fifteen minutes should be added to the moon's mean. [It must be noted that the number 30 in our translation is based on authentic manuscripts of the *Mishneh Torah*. Most of the standard published texts mention 15 minutes in this clause as well.]
+
 [^13]: At this time of year, the summer days are beginning to become shorter. Hence, an adjustment of only fifteen minutes is necessary.
+
 [^14]: This corresponds to the month of Tishrei, the time of the autumnal equinox, when the sun sets at approximately 6 PM. Hence, there is no need to adjust the position of the moon's mean.
+
 [^15]: This represents the beginning of the winter, when the sun sets at an earlier time. Hence, rather than add minutes to the moon's mean, we subtract them.
+
 [^16]: This period represents the middle of the winter, the shortest days of the year. To compensate for the further precipitance of the setting of the sun, an additional fifteen minutes should be subtracted from the moon's mean. [It must be noted that, in this instance as well, the number 30 in our translation is a deviation from the standard published texts, based on authentic manuscripts of the *Mishneh Torah*.]
+
 [^17]: At this point, the days are beginning to get longer. Therefore, only a fifteen-minute adjustment is necessary.
+
 [^18]: This is the time when the stars begin to appear in *Eretz Yisrael*.

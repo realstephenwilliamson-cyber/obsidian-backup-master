@@ -107,54 +107,99 @@ It is permissible for a man to marry two paternal sisters who converted, for our
 A person may give his maid-servant to his own servant or to a servant belonging to his colleague. At the outset, he may give one maid-servant to two servants.[^45] Nor must they follow any restrictions. Instead, they are like animals. There is no difference whether a maid-servant is set aside for a servant or not, for there is no concept of marriage except within the Jewish people or among gentiles themselves,[^46] but not among servants themselves or between servants and the Jewish people. ^14-19
 
 [^1]: See Chapter 13, Halachah 14.
+
 [^2]: See Chapter 13, Halachah 14.
+
 [^3]: The halachah is quoted from *Yevamot* [[Yevamot 47#47a|47a]]. As early as the Talmudic era, potential converts were dissuaded in this manner.
+
 [^4]: Our translation is based on Rashi's commentary to *Yevamot, loc. cit.*
+
 [^5]: Because they are the fundamentals of our faith (*Maggid Mishneh*).
+
 [^6]: This law, quoted by the *Shulchan Aruch* (*Yoreh De'ah* 268:2) indicates that even the opinions which require a convert to accept the observance of the mitzvot do not require him to accept all of the mitzvot individually. Instead, he must make a general commitment to confirm to Jewish practice.
+
 [^7]: These refer to different obligations from the crops that must be left for the poor. See *Hilchot Matanot Aniyim*, ch. 1.
+
 [^8]: Although this is the version in the standard published text of the *Mishneh Torah*, many manuscripts and early printings state "the tithe for the poor." This fits both the context and the Rambam's source, *Yevamot* [[Yevamot 47#47a|47a]].  
     These mitzvot are mentioned because the giver has no control over them. When a prospective convert sees that Judaism places such financial obligations upon him, he may regret his choice (Rashi, *Yevamot*, loc. cit.).
+
 [^9]: This can be interpreted as referring to the warnings concerning the transgressions.
+
 [^10]: And this to the encouragement based on the knowledge of the reward for mitzvot.
+
 [^11]: The commentaries have questioned the Rambam's statements here noting that in *Hilchot Teshuvah* 3:5 and other sources, he states that the pious among the gentiles have a share in the World to Come. Among the resolutions offered is that "All of Israel have a share in the World to Come" (*Sanhedrin* 10:1). By virtue of the essential Godliness of the Jewish soul, they are granted a portion in this eternal good. A gentile must, however, earn his portion through his deeds. It is not "hidden away" for him.
+
 [^12]: I.e., the outcome of prosperity was not increased observance, but the opposite: rebellion against God's will.
+
 [^13]: For we do not postpone the performance of a mitzvah.
+
 [^14]: I.e., a small wound is made on his male organ to draw blood for the sake of the covenant. The expression "the blood of the covenant" is derived from [[Torah 18 - Mishpatim#^24-8|Exodus 24:8]]. See also [[Zechariah 09#^9-11|Zechariah 9:11]].
+
 [^15]: For we fear that, otherwise, the immersion might cause the wound to become infected (Rashi, *Yevamot* [[Yevamot 47#47b|47b]]).  
     The commentaries ask: Why don't we have him immerse first and then circumcise himself? In this way, he will not have to delay his conversion any longer. The Ramban (cited by *Turei Zahav* 268:4) states that we fear that he might refuse to become circumcised. This will be problematic for the immersion will have completed the conversion process. Hence, we have him become circumcised before the conversion is irreversible.
+
 [^16]: Rashi (*loc. cit.*) explains that since the immersion completes his conversion, the convert must accept the yoke of mitzvot at that time.
+
 [^17]: And thus it would be immodest for her to enter the *mikveh* in the presence of the judges.
+
 [^18]: See *Hilchot Avodat Kochavim* 10:6 which states that in an era when the Jews have undisputed authority over *Eretz Yisrael*, they may not allow an idolater to dwell in the holy land. Only when a gentile accepts these seven universal laws is he granted this privilege. The rationale for the Rambam's ruling is derived from the prooftext he cites ([[Torah 18 - Mishpatim#^23-33|Exodus 23:33]] : "They shall not dwell in your land, lest they cause you to sin against Me." Since gentiles may turn into a negative spiritual influence, they should be prevented from dwelling in the land. If, however, a gentile has made a commitment to the observance of these seven laws, he will not lower the moral climate of the land.  
     As explained by the commentaries to *Hilchot Avodat Kochavim*, the Rambam's opinion is not universally accepted. The Ra'avad interprets the prooftext as referring to the seven Canaanite nations alone. Never, he claims, were other gentiles prohibited from living among us.
+
 [^19]: The Jubilee must be observed only when the entire Jewish people are dwelling in *Eretz Yisrael*. Therefore when the tribes of Reuven and Gad, and half the tribe of Menasheh were exiled by the kingdom of Assyria (this took place approximately 150 years before the destruction of the First Temple), the laws of the Jubilee ceased to be observed according to Scriptural Law (*Hilchot Shemitah ViYoval* 10:8).
+
 [^20]: The Rambam's source ( *Bechorot* [[Bekhorot 30#30b|30b]]) states: "one minor point of Rabbinic Law." The commentaries question why the Rambam omits this point.
+
 [^21]: As the Rambam states in *Hilchot Avodat Kochavim, loc. cit.,* in the present era, we accept only full converts. Implied is that in the present era, were we to have the authority, we should prevent gentiles from living in *Eretz Yisrael*.  
     The Ra'avad differs with the Rambam concerning this point, explaining that with regard to certain matters the status of a gentile who accepts the observance of the seven mitzvot in the present age is more severe than that before the revocation of the Jubilee laws and in other matters, it is more lenient. According to his opinion, however, there is no reason why a gentile should be prohibited against living in *Eretz Yisrael*. In his gloss to *Hilchot Avodat Kochavim*, the *Kessef Mishneh* states that even the Rambam would agree. For since the gentile is living a moral lifestyle, there is no reason to fear that he will lead a Jew to sin. The Rambam's directive here is directed at the courts. They cannot formalize a resident alien's status in the present age.  
     In that vein, it must be emphasized that although the concept of a resident alien does not apply in the present age, we are obligated to teach the gentiles the seven universal laws commanded to Noah's descendants, as the Rambam states in *Hilchot Melachim* 8:10.
+
 [^22]: As we tell a prospective convert. We do not make this statement to a servant, for he is not coming to convert on his own volition.
+
 [^23]: A male servant is also circumcised before conversion. It is questionable why the Rambam does not mention this point.
+
 [^24]: He must be sold to the Diaspora or to a gentile (*Hilchot Avadim* 8:12).
+
 [^25]: The Rama (*Yoreh De'ah* 267:4) writes that in the lands where he lived (Central Europe), it was forbidden to convert a gentile to Judaism. Therefore it is taken for granted that the servant was purchased on the condition that his status not be altered. Hence, he may be maintained indefinitely as a gentile.
+
 [^26]: *Hilchot Melachim* 9:5.
+
 [^27]: See Halachah 17 which emphasizes that even while a servant, a servant need not show concern for these prohibitions.
+
 [^28]: I.e., it would appear that he was bound by more severe prohibitions before conversion.
+
 [^29]: This applies even to maternal relatives. Since they were married before, we do not force them to separate (*Siftei Cohen* 269:2). We do not fear that these converts will say that they entered a lower level of holiness, because there are relations - a mother and a sister - which they are forbidden. This makes it obvious that the distinction in the laws results from their change in status (*Kessef Mishneh*).
+
 [^30]: I.e, one might say that the reason for the prohibition is that one is certain that he is related to his maternal relatives. Those reputed to be his paternal relatives, however, might in fact not be related to him at all, because the man reputed to be his father may not be his parent. For the gentiles are known to be promiscuous. This is not the reason for the leniency. Instead, the Torah does not have any conceptual of paternal lineage with regard to a gentile (*Maggid Mishneh*).
+
 [^31]: There are opinions which forbid the wife of the convert's father [*Tur*, Rama (*Yoreh De'ah* 269:3)]. The *Siftei Cohen* 269:4 adds that the convert should also refrain from relations with the sister of his father.
+
 [^32]: For their conversion is of no consequence in this context. They are considered as having no family ties.
+
 [^33]: But was never married to the brother according to Jewish Law.
+
 [^34]: I.e., they were conceived before their mother converted and born after she converted.
+
 [^35]: For it is considered as if the two brothers are ordinary Jews and bound by the laws that apply to members of our people. Nevertheless, they may not fulfill the mitzvah of *yibbum*, for they are not brothers in the complete sense [*Shulchan Aruch* (*Yoreh De'ah* 269:4)].
+
 [^36]: This is a Rabbinic decree. According to Scriptural Law, the marriages are valid. Nevertheless, our Rabbis were stringent and forbade this union, for were the women to be native-born Jewesses, this would be forbidden. Hence, formal divorce proceedings are necessary.
+
 [^37]: In this instance, as well, were the women to be native-born Jewesses, this would be forbidden. See *Siftei Cohen* 269:10 which cites opinions that maintain that the Rabbinic prohibition applies after the woman's death as well.
+
 [^38]: In Halachah 13. Note the contrast to the previous clause which speaks about relations with maternal sisters.
+
 [^39]: This term refers to relatives more distantly removed than those forbidden by Scriptural Law. Relations with them are forbidden by Rabbinic decree, as explained in Chapter 1, Halachah 8; *Hilchot Ishut* 1:6. Since the prohibition is a Rabbinic safeguard, our Sage's did not add a further safeguard with regard to a convert. For we do not ordain a safeguard for a safeguard.
+
 [^40]: Our translation follows the text of the authoritative manuscripts of the *Mishneh Torah*. The *Siftei Cohen* 269:12 justifies this reading, explaining that relations with a woman's maternal grandmother (the version in the standard published text of the *Mishneh Torah*) is a Scriptural prohibition, not a Rabbinic safeguard.
+
 [^41]: I.e., before he is freed.
+
 [^42]: See Chapter 12, Halachah 11.
+
 [^43]: This phrase points to a conclusion deduced by the Rambam for which he has no explicit source in previous Rabbinic literature. The Ra'avad, however, considers the concept as blatantly obvious.  
     The *Maggid Mishneh* adds that he is also executed for relations with a married Jewish woman and questions why the Rambam does not mention this transgression.
+
 [^44]: The word "executed" is plural. Both men or the man and the animal are executed (*Or Sameach*).
+
 [^45]: I.e., we do not enforce monogamy.
+
 [^46]: See *Hilchot Melachim* 9:5.

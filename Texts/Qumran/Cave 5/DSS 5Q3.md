@@ -22,5 +22,6 @@ aliases:
 | Fragment | Text |
 |---|---|
 | Frag. 1 | Isa 40:16.18-19 |
+| Frag. 2 | unidentified |
 
 [[DSS 5Q2|← 5Q2]] · [[Qumran|index]] · [[DSS 5Q4|5Q4 →]]

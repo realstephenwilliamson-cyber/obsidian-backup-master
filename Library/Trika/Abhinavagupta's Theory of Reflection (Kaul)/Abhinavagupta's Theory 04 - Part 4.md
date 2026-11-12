@@ -388,8 +388,11 @@ colonial enactments of sovereignty”
 British India. The most famous among these were the Kashi Sanskrit Series, Trivandrum 
 
 [^1]: cf. Cat. Report 1877
+
 [^2]: See Pandey (1962:XIV)
+
 [^3]: About the politics of archaeology in the colonial India, particularly in case of Kashmir, see ‘Contested Sites - Religious Shrines and the Archaeological Mapping of Kashmiri Muslim Protest’ (p. 183-223) in Rai (2004).
+
 [^4]: Kabir (2009:88)
 
 *[p. 137]* ^pg149
@@ -405,13 +408,21 @@ Jammu and Kashmir State, Maharaja Pratap Singh (1848-1925 CE), established the J
 and Kashmir Archaeological and Research Department JKARD and also of Sardar Pratap Singh Museum in 1898 were, as Ananya Kabir maintains, not only the “Dogra responses to European scholarly practices”[^11] but also had the intention of propagating knowledge of the Hindu texts.[^12] The main purpose of this department was to publish the unknown and unpublished texts from Kashmir. Even though the JKARD had plans of publishing literature of the local vernacular languages as well, it clearly focused on Sanskrit alone.[^13] The choice of Hindu texts over Islamic texts—or, more precisely, Sanskrit 
 
 [^5]: They published around 100 titles in a span of 20 years.
+
 [^6]: Published by Royal Asiatic Society, Bengal. They published around 277 titles up until 1953.
+
 [^7]: For a list of such series please see Banerji (1989:633). This list also includes the series published from outside India.
+
 [^8]: On the Sanskrit title pages of the KSTS volumes, an equivalent of ‘Kashmir Series of Texts and Studies’ was used as ‘*kāśmīra-saṃskṛta-granthāvaliḥ*’.
+
 [^9]: Since its inception in 1904, the Jammu and Kashmir Archaeological and Research Department (JKARD) changed its name and structure many times. For a detailed history of this organization, see Rai (2004:196 f)
+
 [^10]: For the reasons mentioned in n. 8 above, I have chosen to refer to the organization as Jammu and Kashmir Archaeological and Research Department (JKARD) throughout, even though most KSTS publications do clearly bear the name ‘Research and Publication Department’ as publisher.
+
 [^11]: Kabir (2009:89)
+
 [^12]: Note Chatterjee saying that the Mahārāja wanted to publish the work titled ‘*The Raṇavīra Prāyashchitta-Nibandha*’ which he adds, “forms part of a great work entitled Dharma Shāstra Prapañcha, complied by order of His late Highness Mahārājā Raṇavīra Siṃha, and consists largely of quotations from nearly all branches of Hindu Scriptures.” See The *Śivasūtra Vimarshinī,* KSTS No. 1, p. 1 of the ‘A Full List of Works in the Press and in Preparation’ and *Pratyabhijñāhṛdaya* KSTS No. III, p. 1 of the ‘A Full List of Works in the Press and in Preparation’. Also, cf. Śāstrī saying “...it is the muniicence of the Kashmir Durbar which, in fact, is to be applauded for publication of such philosophical works, and deserves the heartfelt thanks of the students of Hindu Philosophy all over the world.” Preface to the *Parātriṃśikāvivaraṇa*, KSTS No. XVIII, 1918. Also, Kaul mentioning “….which I hope will be useful not only to the general Hindu public but also to….” p. iii, Preface to *Mālinīvijayottaravārttikam*, KSTS No. XXXI, 1921.
+
 [^13]: See ‘A Full List of Works in the Press and in Preparation’ mentioned in the end of The *Śivasūtra Vimarshinī*, KSTS No. 1; *Pratyabhijñāhṛdaya* KSTS No. III.
 
 *[p. 138]* ^pg150
@@ -474,7 +485,9 @@ KSTS, as had been intended.
 introducing the Śaiva tradition of Kashmir to the world, and the fact that the book was written in English aided the rapid dissemination of ‘Kashmir Śaivism’. Chatterjee, basing his study of the texts that were still in their unpublished forms of manuscripts, made the irst historical and philosophical study of the Śaiva tradition. Pandits of the department, Paṇḍita 
 
 [^20]: Preface by Kaul to *Śivadṛṣṭi*, p. i, KSTS Vol. LIV.
+
 [^21]: This term is quite problematic and modern scholarship has reasons to believe it. Muller-Ortega (1989:17f) has a discussion on why the term ‘Kashmir Śaivism’ is problematic.
+
 [^22]: Chatterjee mentions that his book was to be published together with the *Śivasūtra Vimarśinī* (KSTS No. I) as a single volume, but this was not possible. Chatterjee mentions reasons for this. See The *Śivasūtra Vimarshinī*, KSTS No. 1, p. III (Introduction), fn marked with \*.
 
 *[p. 141]* ^pg153
@@ -496,12 +509,16 @@ bear the same publishing year, 1918, except one case which indicates publication
 volumes edited by Paṇḍit Jagaddhar Zadoo, all ten publication as 1947. Another possibility, as suggested by Shaman Hatley, is of course to keep in mind the two strategic years —1918 and 1947—1918 the irst World War ended and 1947 the British left India. In the irst case a possibility of delay in getting the volumes printed because of the World War might sound plausible, but in the second case, however, reasons might have been diferent. By 1947 printing was also introduced in Kashmir and in fact all the volumes edited by Zadoo were printed in Srinagar itself. The Indian war of independence against the British had hardly any repercussions in the Kashmir valley. 
 
 [^23]: *ibid*. Also see *Tantrasāra*, KSTS No. XVII, p. III and *Parātriṃśikāvivaraṇa*, KSTS No. 18, p. 2.
+
 [^24]: Such lists are mentioned in the back of The *Śivasūtra Vimarshinī,* KSTS No. 1; *Paramārthasāra* KSTS No. VII; *Pratyabhijñāhṛdaya* KSTS No. III.
+
 [^25]: Preface by Kaul to *Śivadṛṣṭi*, p. i, KSTS Vol. LIV.
+
 [^26]: Preface of Chatterjee to *Pratyabhijñāhṛdaya*, KSTS No. III, 1911. Here Chatterjee says that a Ms used in preparing the PHṛ sigla ‘*ṅa*’ was obtained by Śāstrī from Lahore who was already a head pandit of the department.
 27\. The case of *Spandasaṃdoha*, KSTS No. XVI, 1917.
 
 [^28]: Paṇḍit Dinānāth Yaccha (1921-2004) served in the JKARD irst as a copyist and then as the head-paṇḍita from 1948?-1976.
+
 [^29]: All the ten titles are mentioned in the bibliography.
 
 *[p. 142]* ^pg154
@@ -517,8 +534,11 @@ be categorized into three: those where the variant readings and the details of c
 those where no Ms details are furnished and the variants are also completely absent. Unfortunately, as also pointed out by Rastogi,[^35] our text, the TĀV falls into the category where manuscript details are completely absent but variants are listed. It is hard to speculate why Śāstrī chose not to follow a uniform editorial policy in spite of the fact that he also, like Chatterjee, was evidently a careful and meticulous editor. As already mentioned, he had assisted many western-trained scholars and was already conversant with modern methods of philological research. In fact a majority of his edited texts make this very clear when on 
 
 [^30]: ĪPV, Vol. I, KSTS No. 00, p. I-II (preface).
+
 [^31]: This is the case of *Spandakārikā Rāmakaṇṭha Vṛtti*, Vol. VI, 1913.
+
 [^32]: 1. *Tantrasāra* No. XVII, 2. *Amaraughaśāsana* No. XX, 3. ĪPV, Vol I, No. (Ms details listed by Kaul in his preface to the volume), 4. *Janmamaranavicāra* No. XIX and 5. *Parātriśikāvivaraṇa* No. XVIII.
+
 [^33]: 1. *Spanda Saṃdoha* No. XVII, 2. *Vijñānabhairava* No. IX, 3. *Vijñānabhairava* No. VIII, 4. *Bhāvopahāra*, 5. *Mahānayaprakāśa* No. XXI, 6. *Mahārthamañjarī* No. XI, 7. *Parāprāveśikā* No. XV, 8. *Tantrāloka* Vol. 1 No. XX, 9. *Stavacintāmaṇi* No. X and 10. *Tantravaṭadhānikā* No. XXIV.
 34\. 1. *Bodhapañcadaśikā*, 2. *Anuttaraprakāśapañcāśikā*, 3. *Kāmakalāvilāsa* No. XII, 4. *Lalavākyāṇi*, and 5. *Ṣaṭtriṃśattattvasaṃdoha* No. XIII.
 
@@ -536,6 +556,7 @@ Having said that one still wonders why both the proliic editors chose not to ofe
 37\. See fn 44 below.
 
 [^38]: ĪPV, Vol. I, KSTS No. 00, p. I-II (preface).
+
 [^39]: Thus we have: *Laugākṣi*, Vol I, KSTS No. XLIX, 1928; ĪPVV, Vol. I, LX, 1938; *Deśopadeśa* and *Narmamālā*, KSTS No. 40, 1923; *Vātulanāthasūtra*, KSTS No. 39, 1923. *Netratantra*, Vol. II, KSTS No. LXI, 1939; *Ghaṭakarpara* KSTS No. LXVII, 1945.
 
 *[p. 144]* ^pg156
@@ -555,8 +576,11 @@ A closer look at the variant readings noted by the editors gives an impression t
 noted the variant readings from the likely four Mss. This choice of using negative apparatus by the editors turns out to be misleading for later scholars so much so that the occurrence of as many as ive variant readings from the Ms *gha* can easily be overlooked. Likewise Rastogi (1987:160) has also noted that the KSTS edition has used four MSS but the ive readings of the Ms *gha* have been overlooked. Upon a closer scrutiny of only the irst volume (containing 
 
 [^40]: Thus we have: *Śivadṛṣṭi*, KSTS No. LIV, 1934; ĪPV, Vol. II, KSTS No. XXXIII, 1921; *Devīnāmavilāsa*, KSTS No. LXIII, 1942.
+
 [^41]: Only the irst volume KSTS No. XXIII (1918).
+
 [^42]: KSTS Nos. XXVIII (1921), XXX (1921), XXXVI (1922), XXXV (1922), XXIX (1921), XLI (1924), XLVII (1926), LIX (1938), LII (1933), LVII (1936), LVIII (1938).
+
 [^43]: TĀ, KSTS vol. XXIII, containing irst two *āhnika*s and edited by Mukund Rām Śāstrī. p. 250 fn. 1, p. 285, fn 2, p. 289, fn. 1, p. 292, fn 1 and in second *āhnika* p. 10, fn. 1. 44
 
 *[p. 145]* ^pg157
@@ -581,8 +605,11 @@ As pointed out by Rastogi, it is also important to keep in mind that the TĀ had
 [^47] Goodall and Isaacson,[^48] have already noted the importance scholars such Gnoli,
 
 [^45]: Rastogi (1987:108, 142-146)
+
 [^46]: “I manuscritti si sono moltiplicati e con essi gli errori o le improprie transcrizioni degli scribi.” Gnoli (1999: LXXXII)
+
 [^47]: “La plupart de ces textes, il est vrai, étaient alors considérés comme perdus, ou étaient inaccessibles. Ce n'est que récemment que certains ont été retrouvés, en manuscrits, au Népal ou dans les bibliothèques d'Europe, que l'on a pu les consulter et commencer à les étudier. Une nouvelle édition du TĀ et de son commentaire, qui serait fort désirable, serait dès lors maintenant possible. Mais elle nécessiterait la consultation de manuscrits au Cachemire, auxquels on ne peut guère accéder aujourd'hui, et elle exigerait une grande érudition et un travail considérable. Il faut donc pour le moment se contenter de l'édition existante, qui n'est d'ailleurs pas mauvaise.” (p. 60-61) Silburn - Padoux
+
 [^48]: “but we think that it is high time for an entirely fresh treatment of Abhinavagupta’s masterpiece – one which does not rely solely on the KSTS edition, laudable pioneering attempt though it is, but makes use of the plentiful manuscript material that is available, some of which was not at the disposal of the editor and his assistants.” (p. 130) Goodall and Isaacson
 
 *[p. 147]* ^pg159
@@ -600,6 +627,7 @@ printing of the *editio princeps*. Rastogi has already pointed out some printing
 49\. Rastogi (1987:245-246)
 
 [^50]: Rastogi (1987:161-163)
+
 [^51]: Thus the verses 3.29, 3.23, 3.25-34 are quoted in ĪPVV, vol. I, p. 164, 168, 165. [[Tantraloka 03.025|TĀ 3.25cd]] is missing in the quoted text in ĪPVV.
 
 *[p. 148]* ^pg160

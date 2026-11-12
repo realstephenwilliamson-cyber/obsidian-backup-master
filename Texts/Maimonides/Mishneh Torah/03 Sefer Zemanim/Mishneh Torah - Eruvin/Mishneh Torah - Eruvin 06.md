@@ -160,98 +160,175 @@ If, however, the person told [the agent], "Establish an *eruv* for me," without 
 If he is establishing the *eruv* on behalf of many individuals, he should say, "With this *eruv*, it will be possible for 'so and so'..." or "for the people of this community..." or "for the inhabitants of this city to proceed two thousand cubits in every direction from this location." ^6-24
 
 [^1]: Note Chapter 7, Halachah 1, which states that one may establish an *eruv t'chumin* by actually going on Friday afternoon to the location one desires to establish as one's place for the Sabbath. The possibility of depositing food was instituted by our Sages to expedite the process of establishing an *eruv t'chumin*, by allowing a person to have an agent deposit food for him.
+
 [^2]: See Halachah 5 regarding both these factors.
+
 [^3]: In his introduction to these halachot, the *Maggid Mishneh* questions why two seemingly separate concepts, *eruv chatzerot* and *eruv t'chumin*, are considered to be part of the same mitzvah and are described together. He explains that since both are Rabbinic ordinances that involve placing food in a specific place so that the place will be considered to be one's base for the Sabbath, they can be considered to be a single mitzvah.
+
 [^4]: A cubit is 48 centimeters according to *Shiurei Torah* and 57.6 centimeters according to the *Chazon Ish*.
+
 [^5]: A person is always allowed to proceed 2000 cubits in all directions from the place where he spends the Sabbath. (See *Hilchot Shabbat* 27:1.) Since the place where the person's *eruv* is located is considered his base for the Sabbath, his 2000 cubits are calculated from this place.
+
 [^6]: The Rambam's statements here parallel his statements in *Hilchot Shabbat* 27:5, which explain that if a person's Sabbath limits end within a private domain, he is not entitled to proceed to the end of the domain. If, however, that domain is included within his 2000 cubits, it is considered to be only four cubits.  
     The Ramah (*Orach Chayim* 408:1) quotes the view of the *Tur*, the *Hagahot Maimoniot*, and other Ashkenazic authorities, who differ and maintain that one is allowed to proceed to the end of the private domain, even if it is further than 2000 cubits from one's *eruv t'chumin*. The *Mishnah Berurah* 408:12 mentions that many authorities support this ruling. See note 8.
+
 [^7]: The *Maggid Mishneh* (in his gloss on this halachah and on *Hilchot Shabbat* 27:5) mentions the fact that when one establishes the Sabbath limits of a city, an imaginary square is constructed around the furthermost points in the city's area, and the Sabbath limits are calculated from that square. Thus, it is possible that land that is outside the city's urban limits may still be within the square from which its Sabbath limits are calculated.  
     Although a leniency is used in the calculation of the city's Sabbath limits, and these outlying areas are considered to be part of the city proper, this leniency is not turned into a stringency. If a person's 2000 cubits end beyond the city's urban area, but not beyond these outlying areas, the city is considered to be included within his Sabbath limits, and thus only four cubits in length. This concept is quoted by the Ramah (*Orach Chayim* 408:1).
+
 [^8]: As mentioned above, the *Tur* and the Ramah (*Orach Chayim* 408:1) differ with the Rambam on this point and allow a person to walk throughout the entire city where his house is located, provided he sleeps in his home (*Mishnah Berurah* 408:11).
+
 [^9]: The rationale for this decision can be explained as follows: As explained in *Hilchot Shabbat* 27:1, the prohibition against proceeding more than 2000 cubits from one's place of residence on the Sabbath is derived from the verse ([[Torah 16 - Beshalach#^16-29|Exodus 16:29]] : "No man should leave his place on the seventh day." The term "his place" refers to the private domain in which he is located, regardless if it be a house, a city, or any other location.  
     By making an *eruv t'chumin*, a person redefines the location of "his place" on the Sabbath. Even if he is not located at that place at the commencement of the Sabbath or shortly thereafter, the location where he deposits his *eruv* is considered to be "his place" for this Sabbath. Therefore, if that location is a private domain, that entire domain is considered to be "his place," and the calculation of his Sabbath limits begins from its boundaries.
+
 [^10]: If his acts had been considered significant, he would have decreased his Sabbath limits, and not increased them. For without the *eruv*, he would be allowed to proceed two thousand cubits from the city limits. This follows the Rambam's conception, in contrast to that of the *Tur* mentioned above.
+
 [^11]: In *Hilchot Shabbat* 27:5 (see also note 6), it is explained that the Sabbath limits of a city are calculated from an imaginary square that may include several uninhabited areas in the city's periphery. If the *eruv* is placed in these outlying areas, it is as if it were placed in the city proper.
+
 [^12]: Since the *eruv* is beyond his Sabbath limits, i.e., over 2000 cubits from the city's periphery, he may not reach it during *beyn hash'mashot*, the time when the acquisition of the *eruv* takes effect (*Mishnah Berurah* 408:30). Therefore, the *eruv* is not valid. Instead, his Sabbath limits are defined from his home (Ramah, *Orach Chayim* 408:4).
+
 [^13]: The *Maggid Mishneh* quotes the Rashba as saying that this applies only when one establishes one's *eruv* by using food. If, however, one actually walks to a place beyond a city's boundaries *beyn hash'mashot,* and in this manner establishes this location as one's place for the Sabbath, it is acceptable even if one's intent is not associated with a mitzvah. Although this view is not accepted by all authorities, the *Mishnah Berurah* 415:1 rules that in a pressing situation, one may rely on the more lenient view.
+
 [^14]: The expression "a purpose associated with a mitzvah" is used in a very extended sense in this context. As an example, the Ramah (*Orach Chayim* 415:1) mentions a desire to take a stroll in a pleasant orchard.
+
 [^15]: E.g., to proceed toward the end of one's Sabbath limits, so that one will be closer to a destination to which one desires to travel for business purposes after the Sabbath.
+
 [^16]: Although this is a matter of disagreement among the Rabbis, the *Shulchan Aruch* (*Orach Chayim* 415:1) follows the Rambam's view.  
     It must be emphasized that the "fear" mentioned by the Rambam refers to a situation when there is not an obvious danger to the person's life. Were that to be the case, he would be allowed to proceed beyond the 2000 cubits even if he had not established an *eruv*, for a threat to life takes precedence over the observance of all the Torah's laws with the exception of idol worship, sexual immorality, and murder.
+
 [^17]: In contrast to an *eruv chatzerot*, for which bread alone may be used, all foods may used for an *eruv t'chumin* and a *shituf*, with the exception of water, salt, and mushrooms (Chapter 1, Halachah 8).
+
 [^18]: See Chapter 1, Halachah 9. There is, however, a distinction. Regarding a *shituf*, even when there are thousands of inhabitants involved, it is necessary to provide two meals only for eighteen people. In contrast, regarding an *eruv t'chumin*, food must be set aside for every person who desires to use the *eruv*.
+
 [^19]: See Chapter 1, Halachah 10.
+
 [^20]: This does not mean the person's home, or the place where he is standing *beyn hash'mashot*, but rather the place where he would partake of his *eruv*. There are times when it is impossible for him to partake of the *eruv* in the domain in which it is located - to cite the example given by the Mishnah, *Eruvin* 3:3: the *eruv* was placed in a tree more than ten handbreadths above the ground. In such instances, since it is not permissible to carry the *eruv* from the place where it was deposited to the place where the person would partake of it, the *eruv* is not valid.
+
 [^21]: This is the time when the Sabbath commences, and it is at this hour that the *eruv* must be established.
+
 [^22]: See *Hilchot Shabbat* 24:10.
+
 [^23]: And, as mentioned in Halachah 6, it is only in situations such as these that it is permissible to establish an *eruv t'chumin*.
+
 [^24]: If, however, he must perform a labor forbidden by the Torah to obtain the *eruv*, it is not valid. (See Chapter 1, Halachah 22.)
+
 [^25]: Although Rabbinic prohibitions are not normally enforced *beyn hash'mashot* when a mitzvah is involved, our Sages maintained their decree in this instance. For one might think that the reed has already been detached, and it is likely that one might break it (Rambam's Commentary on the Mishnah, *Eruvin* 3:3).
+
 [^26]: Provided that they are not implanted in the public domain and there is not a basket, four handbreadths by four handbreadths, at their top (*Mishnah Berurah* 409:14).
+
 [^27]: The Ra'avad objects to the Rambam's ruling, noting that the matter is the subject of a difference of opinion between our Sages (*Eruvin* [[Eruvin 45#45a|45a]]): Rabbi Eliezer maintains that a person is considered to be located in the midst of the four cubits he is granted. Therefore, as the Rambam states here, he is granted only two cubits in either direction. Rabbi Yehudah differs and maintains that he is granted four cubits in either direction. It is Rabbi Yehudah's view that is accepted as halachah.  
     The *Maggid Mishneh* notes that in *Hilchot Shabbat* 12:15 and 27:11, the Rambam follows Rabbi Yehudah's view. There is, the *Maggid Mishneh* maintains, a difference between the ruling regarding the laws of carrying and the ruling regarding the Sabbath limits. His distinction is explained by the Radbaz (Vol. VI, Responsum 2237), who states that for an *eruv t'chumin* to be effective a person must be able to reach it while standing within the Sabbath limits. If the *eruv* is within two cubits of the Sabbath limits, the person can bend over and reach it. If it is further away, he would have to leave his Sabbath limits to reach it. Hence, it is not valid.  
     The Ra'avad's decision is quoted by the *Shulchan Aruch* (*Orach Chayim* 409:5).
+
 [^28]: Halachah 5.
+
 [^29]: As explained in the previous halachah.
+
 [^30]: Impure *terumah* may not be eaten.
+
 [^31]: If it is valid at this time, what happens to it afterwards is of no consequence (Rambam's Commentary on the Mishnah, *Eruvin* 3:4).
+
 [^32]: Since the *eruv* was acceptable when deposited, it is granted a *chezkat kiyyum* - i.e., we assume that the *status quo* remained the same and that it remained acceptable until immediately before the difficulty was discovered (*ibid.*).  
     (Although the Rambam mentions this concept in his Commentary on the Mishnah, his ruling in the following halachah implies that he does not accept this as a hard and fast rule.)
+
 [^33]: They both empowered him to act as a *shaliach* (agent) and establish an *eruv* for them.
+
 [^34]: This situation represents a paradox: If *beyn hash'mashot* is considered to be before the commencement of the Sabbath, the *eruv* that was eaten *beyn hash'mashot* is not valid. If *beyn hash'mashot* is considered to be after the commencement of the Sabbath, the *eruv* that was established *beyn hash'mashot* is not valid.
+
 [^35]: If, however, the *eruv* that was established *beyn hash'mashot* was eaten *beyn hash'mashot*, it is not valid. (See *Shulchan Aruch*, *Orach Chayim* 393:3.)
+
 [^36]: *Beyn hash'mashot* is the period between sunset and the appearance of three stars. There is a question if this period is considered to be part of the day or part of the night. See *Hilchot Shabbat* 5:4.
+
 [^37]: This ruling (based on *Shabbat* [[Shabbat 34#34a|34a]]) reflects a difference of opinion among the Rabbis. As mentioned in the notes on the previous halachah, most authorities maintain that an *eruv t'chumin* (in contrast to an *eruv chatzerot*) is acceptable when there is a doubt involved, only because it possesses a *chezkat kiyyum* - i.e., we knew that it was acceptable beforehand, and we presume that its status remained the same until we know otherwise. (See also Halachah 15.)  
     Therefore, other authorities (Rabbenu Chanan'el, Rabbenu Tam, Rashba) interpret this law as referring to an *eruv chatzerot*. There a *chezkat kiyyum* is not necessary, for an *eruv chatzerot* is only a Rabbinic institution (in contrast to an *eruv t'chumin*, which involves a prohibition that has its source in the Torah itself).  
     Nevertheless, it is possible to justify the Rambam's decision, for the prohibition against going beyond two thousand cubits is Rabbinic in origin (*Hilchot Shabbat* 27:1). Accordingly, since we are sure that the food set aside for the *eruv* can be eaten before the commencement of the Sabbath, and the doubt is merely whether the *eruv* was made at the proper time, the question concerns a matter of Rabbinic law. Therefore, we follow the principle, "Whenever there is a doubt concerning a point of Rabbinic law, the more lenient opinion is followed."  
     The *Shulchan Aruch* (*Orach Chayim* 415:3) quotes both views (although the Rambam's appears to be favored). The *Mishnah Berurah* 415:11 favors the other view.
+
 [^38]: Although at the outset, an *eruv chatzerot* may be established *beyn hash'mashot* (see Chapter 1, Halachah 21), the laws regarding an *eruv t'chumin* are more severe (Rambam's Commentary on the Mishnah, *Shabbat* 2:6).
+
 [^39]: Although the stones are *muktzeh* and removing them on the Sabbath would be forbidden, since a mitzvah is involved there is no prohibition against removing them *beyn hash'mashot*.
+
 [^40]: For at the time the *eruv* was established it was valid, and what happens afterwards is of no consequence. (See also Chapter 1, Halachah 21.)
+
 [^41]: As mentioned above, it is forbidden to partake of *terumah* if it is ritually impure. In this instance, however, there is a doubt and we do not know if, in fact, the *terumah* has contracted ritual impurity or not.
+
 [^42]: With this phrase, the Rambam clarifies his position with regard to a question asked by many authorities based on the situation described in Halachah 13. As mentioned in the notes on that halachah, many authorities maintain that an *eruv* is considered acceptable when there is a doubt regarding its validity only when it possesses a *chezkat kiyyum*. As proof, they point to this law, which appears to indicate that the *eruv* is not considered acceptable because it was never known to be valid.  
     The Rambam explains that the reason why the *eruv* is not acceptable in this instance is not that it lacks a *chezkat kiyyum*, but because it may never be eaten. Because of the doubt involved, it is forbidden to partake of this loaf.  
     To summarize, in the instances mentioned in the previous halachot, the doubt revolves around the acceptability of the *eruv*. Therefore, we follow the principle, "when there is a doubt [with regard to the validity of] an *eruv*, it is considered acceptable." In this halachah, the doubt is whether the *terumah* may be eaten. This is a question of Torah law, and we are required to rule stringently (*Noda BiY'hudah, Yoreh De'ah*, Vol. I, Responsum 65).
+
 [^43]: Although there is a pure loaf there, since we do not know which loaf it is, the meal is not fit to be eaten.
+
 [^44]: We are not certain that the sanctity with which it had been endowed has departed until nightfall. At that time, it is too late to establish an *eruv*.
+
 [^45]: Food from which *terumah* and/or the other agricultural requirements were not separated. It is forbidden to be eaten until these separations are made.
+
 [^46]: See Chapter 1, Halachah 22.
+
 [^47]: This ruling is the subject of a debate among our Sages (*Eruvin* [[Eruvin 26#26b|26b]]). The Rambam follows the more stringent view. Although other authorities accept the more lenient ruling, the *Shulchan Aruch* (*Orach Chayim* 409:1) cites the Rambam's decision. (See *Be'ur Halachah*.)
+
 [^48]: The difficulty is not in the actual placement of the *eruv beyn hash'mashot,* for the placement of an *eruv* is a mitzvah and the mitzvot were not given for our personal benefit. The difficulty arises afterwards. Since the person desires that the *eruv* be maintained in the cemetery, he is deriving benefit from it. Hence, it is forbidden to establish an *eruv* in this manner (*Eruvin* [[Eruvin 31#31a|31a]]; Rambam's Commentary on the Mishnah, *Eruvin* 3:1).  
     (See the gloss of Rabbi Akiva Eiger, who asks why the *eruv* is unacceptable. Although it is forbidden to derive benefit from the cemetery in this manner, the fact that a person violates this prohibition should not invalidate his *eruv*.)
+
 [^49]: A field or yard that was plowed despite the fact that a grave was located there. Our Sages feared that some of the bones of the corpse became strewn throughout the field. Hence, they considered it to be impure ground (*Hilchot Tum'at Meit* 10:1).
+
 [^50]: A compartment carried by other people or animals. Since there is a board below him, he does not contract ritual impurity when he passes above a grave or a corpse (*tum'at ohel*). (See the Rambam's Commentary on the Mishnah, *ibid.*.)
+
 [^51]: Our translation is based on the Rambam's Commentary on the Mishnah (*ibid.*). Others explain that this refers to blowing away any chips of bone.
+
 [^52]: In contrast to an *eruv chatzerot*, the equivalent of two meals is required for every participant in the *eruv*, regardless of the number of the participants. The rationale is that through depositing the *eruv*, the person establishes the place in which he has deposited it as his "place" for the Sabbath. This must be done for every person participating in the *eruv* (Rambam's Commentary on the Mishnah, *Eruvin* 8:1).
+
 [^53]: Note the parallel to Chapter 1, Halachah 17.
+
 [^54]: As in Chapter 1, Halachah 20.
+
 [^55]: In contrast to an *eruv chatzerot*, which, in most circumstances, is considered to be a benefit to a person unless he explicitly objects, an *eruv t'chumin* is dependent on the person's consent. For by extending his Sabbath boundaries in one direction, it reduces them in the other direction.
+
 [^56]: The *Mishnah Berurah* 413:6 cites opinions that state that it is acceptable if one received notification *beyn hash'mashot*.
+
 [^57]: *Eruvin* [[Eruvin 82#82a|82a]], explains that this is dependent on the principle of *b'reirah* - i.e., when a person decides to rely on the *eruv* retroactively, it becomes clarified that this was his original intent.
+
 [^58]: See Chapter 1, Halachah 20.
+
 [^59]: In contrast to a storekeeper or a baker, we assume a private person will fulfill the request made of him.  
     Generally, our Sages ordained that even when a purchaser has already paid for the item he purchased, the transaction is not finalized until he draws the item he purchased after him [(*meshichah*), *Hilchot Mechirah* 3:1]. In this instance, they allowed leniency, accepting the Torah's ruling that a sale is finalized by the purchaser's payment of money.
+
 [^60]: For it is possible that the storekeeper will forget and not have another person acquire a share in the *eruv* (Rambam's Commentary on the Mishnah). Note the *Maggid Mishneh*, who offers a different explanation.  
     See also the *Tur* and the *Shulchan Aruch* (*Orach Chayim* 369:1), who interpret these laws as referring to an *eruv chatzerot* and do not mention them within the context of an *eruv t'chumin*.
+
 [^61]: Since the person makes an explicit statement, we assume that the storekeeper will remember to do so.
+
 [^62]: The *Maggid Mishneh* explains that, in contrast to a transaction made with money, a transaction made by exchanging articles is completed at the moment of the exchange. (See *Hilchot Mechirah* 5:1.) Therefore, the bread belongs to the person and can be used for the *eruv*.  
     Based on the Rambam's Commentary on the Mishnah cited previously, Rav Kapach offers a different interpretation: that since he will have to appraise the utensil or sell it, the storekeeper will remember to establish the *eruv*.
+
 [^63]: Children below the age of majority do not have an independent halachic status.
+
 [^64]: Canaanite servants are obligated to fulfill all the negative commandments of the Torah (including the obligation to keep the Sabbath limits). They are not, however, granted any independent decision-making capacity, and instead are considered as their owner's property.
+
 [^65]: The *Shulchan Aruch* 414:1 states that this ruling applies even if they do not depend on their father or master for their sustenance.
+
 [^66]: All these individuals possess the halachic right to make their own decisions, and their relationship with their father, master, or husband is no different from that between two other individuals.
+
 [^67]: Since there is a high probability that these individuals will desire to rely on this *eruv*, there is no need for them to express their consent. The failure to object is sufficient. The *Mishnah Berurah* 414:4 adds a further leniency. Even if they were not notified about the *eruv* until after nightfall, since it can be assumed that they will desire to rely on the *eruv*, it is acceptable.
+
 [^68]: In other halachic contexts as well (see *Hilchot Sukkah* 6:1), a child is considered to be dependent on his mother until the age of six. (See the *Mishnah Berurah* 414:7, which cites other opinions that require a separate *eruv* to be established for a child below the age of six.)
+
 [^69]: And having charged the agent with this mission, he can rely on the agent to have deposited the *eruv*. He need not check to see if he has, in fact, done so (*Eruvin* [[Eruvin 32#32b|32b]]).
+
 [^70]: These individuals are not considered to be responsible for their actions and may not serve as agents. There is, however, a difference regarding an *eruv chatzerot*, for in that context, all that is necessary is that they collect the food.
+
 [^71]: I.e., a Sadducee or a Samaritan (Rambam's Commentary on the Mishnah, *Eruvin* 3:2). Needless to say, a gentile may not serve in this capacity, for he can never serve as an agent.
+
 [^72]: The only reason it is necessary for him to watch is so that he knows that the *eruv* has in fact reached his agent (*Eruvin, ibid.*).
+
 [^73]: The *Maggid Mishneh* explains that since this is a question of Rabbinic law, the principle of *b'reirah* is employed. This means that retroactively, it is considered that the decision made by the agent expressed the intent of the person who charged him with establishing the *eruv*.
+
 [^74]: Even if they did not know the direction in which the *eruv* was established until after nightfall (*Maggid Mishneh, Mishnah Berurah* 409:52).
+
 [^75]: Because the agent did not carry out the instructions given to him. These rulings apply regardless of whether the agent establishes the *eruv* with food belonging to him or with food belonging to the person who sent him (*Mishnah Berurah* 409:53).
+
 [^76]: Chapter 1, Halachah 16. The very same blessing is recited for an *eruv t'chumin*. See also the notes on that halachah, which explain why a blessing is recited before the performance of a Rabbinic commandment.
+
 [^77]: Note the Ra'avad, who objects to the recitation of a blessing for this mitzvah, for in contrast to other Rabbinic mitzvot, the institution of an *eruv t'chumin* does not introduce any new practice. Even an *eruv chatzerot* makes one conscious of the prohibition against carrying in a public domain. An *eruv t'chumin*, by contrast, merely grants a person a leniency.  
     The *Maggid Mishneh* explains the rationale for the Rambam's ruling. In practice, as stated in the *Shulchan Aruch* (*Orach Chayim* 415:4), the custom is to recite a blessing.
+
 [^78]: Note the *Mishnah Berurah* 415:15, which states that if a person fails to make a statement of this nature, the *eruv* is not acceptable. As mentioned in the notes on the following chapter, this applies, however, only when one has deposited food for the *eruv*, and not when one has actually walked there oneself.  
     See also the *Mishnah Berurah* 415:16, which mentions that in his statement the person should specify that he is establishing the *eruv* for the following day, or for all the Sabbaths of the coming year.

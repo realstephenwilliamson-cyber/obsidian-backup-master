@@ -51,6 +51,7 @@ rhetoric of the many psalms that express the joy of and yearning for seeing the 
 Despite the prescription in [[Torah 21 - Ki Tisa#^34-23|Exod 34:23]] and [[Torah 47 - Re'eh#^16-16|Deut 16:16]] to see the face of the deity three times a year,[^3] there was still a tension inherent in the deity’s cultic visibility.[^4] The use of non-anthropomorphic imagery could potentially have been rationalized as a prophylactic practice meant to shield the common viewer from the deity’s anthropomorphic form (Ornan 2005). It would have served the interests of those in positions of authority over the cult to limit the perception of access to the deity. Indeed, concerns about the degree to which a cultic object facilitated that access may sit at the root of preexilic attempts to reflectively compartmentalize the loci of the deity’s self and agency (see the next chapter). Asserting the deadly nature of the deity’s face would address this ([[Torah 21 - Ki Tisa#^33-20|Exod 33:20]]), as would confining the deity’s location to the heavens ([[Torah 45 - Vaetchanan#^4-36|Deut 4:36]]). Restricting entry to the inner sanctuary to a single individual on a single day was one of many ways biblical authors and cultic authorities protected the privacy of the divine presence, and even for that single individual, there is a text that insists incense was required so that a cloud of smoke obscured the ark from view ([[Torah 29 - Achrei Mot#^16-13|Lev 16:13]]). Narratives suggesting a fundamentally anthropomorphic nature for the deity—a deity that walks, talks, smells, and gets angry (Stavrakopoulou 2021)—also would have contributed to the perception that the cultic object (which did not do those things) afforded only partial access to the divine presence. So, while Israel and 
 
 [^3]: The verbal root *r’h* in these passages is vocalized in MT as the passive niphal stem (i.e., “appear before my face”), but the consonantal text was likely originally understood in the active qal stem (i.e., “see my face”). This is most directly indicated by the allusion to the requirement in [[Isaiah 01#^1-12|Isa 1:12]], which has the root in the infinitive construct—*lērā’ôt*—and is vocalized as a niphal in MT, but it lacks the preformative *he* required by the niphal stem (we would expect *lǝhērā’ôt*). There is also no preposition in Isaiah to support interpreting it as “appear *before* my face.” (The articulations of the commandment in Exodus and Deuteronomy only have the direct object marker *’et*.)
+
 [^4]: Note Ornan’s (2005, 173) observations regarding cult images in Mesopotamia: “Most men or women, therefore, rarely saw the anthropomorphic images of their deities in ninth– sixth-century Assyria and Babylonia. In their daily lives, Babylonians and Assyrians were not surrounded by figures of their prominent gods, but instead by clay statuettes of minor deities, by composite apotropaic creatures and by divine symbols engraved on seals. The ancients saw their prominent human-shaped gods on special occasions, such as cultic processions, but as a rule, cult statues in Mesopotamia were kept closed in shrines and temples, into which ordinary people could not have entered.” Figure 4.1. Bronze and gold foil deity figurines (fourteenth–thirteenth century BCE) in the “enthroned” and “smiting” poses. Drawing by the author.
 
 *[p. 113]* ^pg136
@@ -68,7 +69,9 @@ THE CONCEPTUAL DOMAINS AND PROFILES OF YHWH
 DEITY. In the Hebrew Bible, YHWH is the prototypical representative of the conceptual domain of DEITY.[^6] Thus, the most common profile for the terms for deity is “YHWH.” We see this demonstrated in places like [[Isaiah 13#^13-19|Isa 13:19]]: “And Babylon, the splendor of kingdoms, / the beauty and pride of the Chaldeans, / will be as when Deity overthrew Sodom and Gomorrah.”[^7] The informed hearer/reader 
 
 [^5]: Middlemas (2014) and Schaper (2019) both make the case that this abstraction was the answer to the anxiety associated with divine imagery. In the next few chapters I will argue that abstractions absolutely played a role, but with two caveats: first, abstractions only served this function to the degree that institutions and texts could maintain and enforce the desired associations; second, material presencing media were not abandoned, they were simply adapted.
+
 [^6]: An exception may be [[Torah 08 - Vayishlach#^33-20|Gen 33:20]]: *’ēl ’ĕlōhê yiśrā’ēl*, which may be translated “El, the deity of Israel,” or as a verbless clause: “El is the deity of Israel.” The former would represent the only El-oriented variation on the formula “YHWH, the deity of Israel” (*YHWH ’ĕlōhê yiśrā’ēl*), which occurs 119 times, but not in Genesis, suggesting its association with Israel’s more developed national identity. This analogy also suggests *’el* is functioning as a DN and not the appellative “deity.” Wardlaw argues for the appellative use of *’el* in [[Torah 08 - Vayishlach#^33-20|Gen 33:20]] on analogy with the arthrous *ha-’ēl ’ĕlōhê ’ābika* in [[Torah 11 - Vayigash#^46-3|Gen 46:3]], which he translates “God the God of your father.” While Wardlaw acknowledges that a HIGH GOD domain was likely associated with the lexeme *’el* in ancient Israel, he only identifies five passages where it is plausible ([[Torah 08 - Vayishlach#^33-20|Gen 33:20]]; [[Torah 45 - Vaetchanan#^7-9|Deut 7:9]], [[Torah 46 - Eikev#^7-21|21]]; [[Torah 46 - Eikev#^10-17|10:17]]; [[Torah 54 - V'Zot HaBerachah#^33-26|33:26]]), and ultimately concludes that it is not used as a DN (Wardlaw 2008, 132–34).
+
 [^7]: Here the profile YHWH refers not to the (putative) real-world instantiation of the concept, but to the individual’s conceptualization of it. In other words, it refers to the conceptual package evoked by the lexeme, not to its actual referent.
 
 *[p. 115]* ^pg138
@@ -88,6 +91,7 @@ The paradigm shift in YHWH’s territorialism came with their universalization i
 DIVINE WAR. Some of the earliest texts in the Hebrew Bible present the deity of Israel as a warrior. [[Torah 16 - Beshalach#^15-1|Exodus 15:1–12]]—the earliest portions of the Song of the Sea—may represent the most archaic of these, describing YHWH’s defeat of 
 
 [^8]: Of course, by this time, the population was primarily Judahite, and identified itself as such, even if Israelite identity had been appropriated.
+
 [^9]: The need to rationalize this exclusive relationship became the seedbed for the ideologies that are frequently identified by modern scholars as the necessary and sufficient features of monotheism. Cf. MacDonald 2003, 151–81.
 
 *[p. 117]* ^pg140
@@ -99,9 +103,13 @@ The Song of the Sea’s description of the deity’s manipulation of the sea for
 Apart from [[II Kings 03#^3-27|2 Kgs 3:27]], one of the most conspicuous examples of war between divine combatants in the Hebrew Bible is the so-called *Chaoskampf* motif, which pits YHWH against a divine sea monster of some kind that is generally 
 
 [^10]: See Flynn 2014, 47–58. Ronald Hendel (2015) has suggested that the Song of the Sea represents the accretion of poetic tradition to social memories regarding the collapse of Egypt’s hegemony over the hill country in the Late Bronze Age.
+
 [^11]: Although note [[Isaiah 63#^63-1|Isa 63:1–6]] describes the deity returning from battle, covered in blood, castigating those who failed to show up in support and boasting of their singlehanded victory. The actual means of the victory are elided, however, and the hearer/reader is left to imagine the scene themselves.
+
 [^12]: Pantoja 2017, 56–62. See also Green 2003; Schwemer 2008a, 2008b. On YHWH as storm-deity, see Dion 1991; Müller 2008.
+
 [^13]: In places like the Southwest Asian hill countries, where rainfall was the central lifeblood of agriculture and, thus, civilization, the balance between prosperity and destruction became increasingly delicate as the size and complexity of a society increased. It is no wonder the storm-deity began to predominate in these regions after the development of the secondary states of the tenth century BCE.
+
 [^14]: For instance, in the Ugaritic stories of Baal’s battle with Yamm, the craftsman deity Kothar-wa-Hasis fashions two maces that Baal uses to defeat Yamm (*KTU* 1.2.iv.10–30). Mark Smith and Wayne Pitard (2009, 57) suggest, however, that these weapons represent Baal’s lightning.
 
 *[p. 118]* ^pg141
@@ -115,7 +123,9 @@ you finished off the writhing serpent, the powerful one with seven heads.
 *šlyṭ.d.šb‘t.rašm* While the final passage refers to a powerful one with seven heads rather than to a *tannîn*, “monster,” that lives in the sea, the epithet *šlyṭ* occurs elsewhere in connection with the Ugaritic *tnn* (*KTU* 1.3.iii.40), which is cognate with the Hebrew *tannîn* and has similar reference to the notion of chaos and disorder (Smith and Pitard 2009, 250–54). There can be little doubt that a tradition directly related to the one underlying *KTU* 1.5.i.1–3 is reflected in [[Isaiah 27#^27-1|Isa 27:1]] (Tsumura 2005, 192–95), again demonstrating that the traditions undergirding YHWH’s divine profile were drawn from the broader conceptual matrices for deity. [[Psalms 074#^74-12|Psalm 74:12–14]] similarly describes the deity’s defeat of *tannînîm* and Leviathan, although in that exilic text the tradition begins to bleed into rhetoric about the deity’s creative prowess, particularly in verses 15–17 (Tsumura 2015; cf. Greene 2017). In the Ugaritic literature, divine warfare is tied to rule over the pantheon, and not to creation, although the Babylonian Enuma Elish incorporates both.[^17] The figures prominent in the *Chaoskampf* motif are present in the Priestly account of creation, but those authors seem reticent to describe creation as a product of a battle against antagonistic divine forces, and so while the figures were retained, they were only conceptual husks, stripped of their agency and 
 
 [^15]: Recall that the danger and chaos of the sea conceptually contrasts with the order and safety of civilization. On the use of “chaos” in the Hebrew Bible, see Watson 2005.
+
 [^16]: This translation is my own, but cf. Wyatt 2002, 115; Smith and Pitard 2009, 252. The second and third lines appear almost identically in *KTU* 1.3.iii.41–42 (the verb at the beginning of line 2 is different \[*mḫšt*\], as well as being in the first person). Lotan is cognate with the Hebrew *liwyātān* (Emerton 1982).
+
 [^17]: For a brief outline of some different ways the Ugaritic and Akkadian literature treat the rise to divine kingship, see Smith and Pitard 2009, 16–19. David Tsumura (2005) argues that scholars have been too eager to find Enuma Elish in Gen 1. Cf. Day 1985, but against Tsumura, see Cho 2019.
 
 *[p. 119]* ^pg142
@@ -128,8 +138,11 @@ Returning to the Song of the Sea, we see in this poem an appeal to the deity as 
 Mountains quaked before YHWH,[^21] / one of Sinai, before YHWH, / the deity of Israel.” Similar imagery abounds in reference to YHWH’s military might. The psalmist in Ps 18 cries to YHWH from the temple for help ([[Psalms 018#^18-7|Ps 18:7]]), using storm 
 
 [^18]: “Rather, their purpose was at once to allude to the world of the sea myth, not only to that of the Babylonian Enuma Elish but also more generally to that of the common sea myth tradition, so as to make it visible to the reader’s mind, but simultaneously to challenge and replace that world with a fresh vision of creation with YHWH, not Marduk, the god of their hated captors, enthroned in the cosmic temple” (Cho 2019, 78).
+
 [^19]: This story is known from Ugarit, involving Baal and Yamm, from Old-Babylonia, involving Haddu and Temtum, from Neo-Babylonia, involving Marduk and Tiamat, and from a variety of myths from Anatolia. See Schwemer 2008b, 24–27; Greenstein 1982.
+
 [^20]: See *KTU* 1.2.iv.32: *ym.lmt.b‘lm. yml*\[*k*, “Yamm surely is dead! Baal rei\[gns!(?)\]” (Smith 1994, 319, 324). Note Smith’s discussion (95–96) of the levels of kingship.
+
 [^21]: My translation follows the LXX reading of *nozlû* as the niphal of *zll*, rather than MT’s reading of qal *nzl*.
 
 *[p. 120]* ^pg143
@@ -139,9 +152,13 @@ imagery to describe YHWH’s arrival.[^22] The skies bowed and thick darkness wa
 YHWH’s warrior status thus finds expression in a variety of ways that draw from and adapt features from the broader sociocultural matrix associated with divine war. The literary conventions associated with the storm-deity are among the most common means of reflecting that warrior nature, but battle can take place between deities, between YHWH and de-deified natural phenomena such as the sea or vague sea creatures like Leviathan, and between YHWH and human opponents. YHWH is also frequently called *YHWH ṣǝbā’ôt*, “YHWH of Hosts,” a reference to their command of military hosts. [^25] While the securing of sovereignty was certainly one of the central purposes of employing warrior motifs, they also functioned in later texts as conceptual channels for YHWH’s acts of creation and salvation.[^26] ACCESS TO STRATEGIC INFORMATION. Like other socially concerned deities, YHWH was understood to have full access to strategic information. Rhetoric regarding this access finds expression in many different ways in the Hebrew Bible. [[Isaiah 40#^40-13|Isaiah 40:13]], for instance, uses rhetorical questions to assert YHWH’s incomparability regarding knowledge: “Who has ordered the *rûaḥ* of YHWH, and 
 
 [^22]: See Cross and Freedman 1953; Cross 1973, 158–62; Miller 1973, 121–23; Klingbeil 1999, 57–74; Green 2003, 269–71; Tsumura 2005, 149–51; Watson 2005, 74–83; Gray 2014.
+
 [^23]: The majority of the scholarship on Ps 29 addresses its unity and poetic structures. See Craigie 1972; Freedman and Hyland 1973; Day 1979; Kloos 1986; Pardee 2005; Pardee and Pardee 2009; Barbiero 2016.
+
 [^24]: In Ugaritic, *rkb ‘rpt* (*KTU* 1.2.iv.8, 29; 1.3.ii.40; iii.38 // iv.4; see Rahmouni 2008, 288– 91). The resonance with Baal specifically is suggested by the Akkadian convention for the storm-deity to ride storms, not clouds (Rahmouni 2008, 290, n. 7). On the interchange of *bet* and *pe*, cf. [[Isaiah 05#^5-30|Isa 5:30]], where *‘ărîpîim* is used for “clouds.” For more detail in this title in Ugaritic, see Wyatt 2007, 32–36.
+
 [^25]: 260 occurrences, including [[I Samuel 01#^1-3|1 Sam 1:3]], [[I Samuel 01#^1-11|11]]; [[II Kings 23#^23-5|2 Kgs 23:5]]; [[Psalms 046#^46-7|Pss 46:7]]; [[Psalms 084#^84-12|84:12]]; [[Torah 45 - Vaetchanan#^4-19|Deut 4:19]]; [[Torah 48 - Shoftim#^17-3|17:3]]; [[Judges 05#^5-20|Judg 5:20]].
+
 [^26]: While I am referring to battle with various forces, the relationship specifically between chaos and creation is not so clear. See Watson 2005, 19–25; Tsumura 2005. On the sea myth and its relationship to creation, see Cho 2019, 67–87. The convergence of divine battle, salvation, and creation occurs in [[Psalms 074#^74-12|Ps 74:12–17]] (cf. Flynn 2014, 71–73).
 
 *[p. 121]* ^pg144
@@ -151,6 +168,7 @@ what person being his counselor has instructed him?” Other passages assert YHW
 One of the primary purposes of this access to strategic information was to benefit humanity by informing their decision-making. In the biblical literature, the verbs *drš*, “inquire, search, seek” ([[Torah 06 - Toldot#^25-22|Gen 25:22]]; [[I Kings 22#^22-5|1 Kgs 22:5–8]]; [[Ezekiel 20#^20-1|Ezek 20:1–3]]), and *š’l*, “ask” ([[Judges 18#^18-5|Judg 18:5]]; [[Judges 20#^20-18|20:18]]; [[I Samuel 22#^22-13|1 Sam 22:13]], [[I Samuel 22#^22-15|15]]; [[Isaiah 07#^7-11|Isa 7:11–12]]) are used to refer to the accessing that information.[^27] There were a variety of means available to inquire regarding YHWH’s will, with some sanctioned by the authorities responsible for the biblical texts and some prohibited (although there was diachronic and synchronic variation on this). The previous chapter focused on some of the means of divination considered to be illicit by biblical authors and editors, but there were multiple cultic objects and agents that could be considered appropriate media for facilitating YHWH’s full access to strategic information. In [[Torah 41 - Pinchas#^27-21|Num 27:21]], for instance, Moses is instructed to have Aaron represent the concerns of the community before the high priest Eleazar, who would inquire (*š’l*) by means of the *’ûrîm*, “Urim,” in the deity’s presence (*lipnê YHWH*). [[Judges 20#^20-27|Judges 20:27]] suggests the ark of the covenant facilitated an inquiry (*š’l*) to YHWH. For Saul, it was YHWH’s refusal to answer his inquiries through the Urim ([[I Samuel 28#^28-6|1 Sam 28:6]]) or through dreams or prophets that compelled him to seek out the necromancer of En-dor.[^28] This convention of inquiring of YHWH seems to have conceptually broadened in some texts to a more generic notion of “seeking” (*drš*) YHWH for purposes of communion or increased righteousness ([[Isaiah 55#^55-6|Isa 55:6]]; [[Isaiah 58#^58-2|58:2]]; 
 
 [^27]: In many places, no method of inquiry is specified. For instance, in [[Judges 01#^1-1|Judg 1:1–2]], the author simply states that the Israelites asked (*wayyiš’ălû*) YHWH, and YHWH responded (*wayyō’mer YHWH*). The inquiry takes place after the death of Joshua, and they are asking who will function in Joshua’s place, so the author may have needed to show the Israelites receiving divine guidance without acknowledging that they had no authorized means of doing so.
+
 [^28]: [[Torah 36 - Beha'alotcha#^12-6|Num 12:6]] is an example of a connection between prophets and dreams.
 
 *[p. 122]* ^pg145
@@ -162,8 +180,11 @@ Prophets represent perhaps the most well-known medium for consulting the deity f
 The representation of prophets in the biblical texts is distinct in a variety of other ways (Sanders 2017).[^31] For instance, the prophets of the Bible represent only a single deity, rather than an entire pantheon. How much of this exclusivity is editorial in origin is unclear, but an occasional accusation against prophets who utilized illicit means or consulted other deities was that they dealt in some manner of false prophecy, which represents a degree of innovation on the genre (Huffmon 2012).[^32] Next, while prophets outside of Israel and Judah tended to operate in groups and directly in the service of the crown and/or temple, the biblical prophets are frequently portrayed as operating alone, and often independently of and even 
 
 [^29]: According to Lisbeth Fried (2013, 293), the infinitive construct *lidrôš*, “occurs 36 times in the Hebrew Bible and in all but three instances it is used to denote the act of seeking an oracle from a god, either directly or by means of a medium or prophet.”
+
 [^30]: Ecstatic prophets would be given access to information through ecstatic trances, while technical diviners studied texts in order to be able to divine information from the observation of material circumstances, such as the flight path of birds or the shape, color, and consistency of a sheep’s liver.
+
 [^31]: On the terms for “prophet,” see Stökl 2012, 155–200. Note, particularly, the following comment (167): “I have argued that *nabī* in Emar and Mari is related to some form of ancestor worship. If the word did not change its meaning in the process of borrowing, it would follow that the נביא was originally linked to some form of ancestor cult. A provisional, if very literal, translation of נביא is ‘the called.’”
+
 [^32]: For instance, [[Jeremiah 05#^5-31|Jer 5:31]] states, “the prophets prophesy falsely \[*nibb’û-baššeqer*\]!” [[Ezekiel 12#^12-24|Ezek 12:24]] asserts, “there will no longer be any false vision \[*ḥăzôn šāwǝ’*\] or flattering divination \[*miqsam ḥālāq*\] within the house of Israel.” Huffmon (2012, 71–74) describes the prophets’ fidelity to YHWH alone as a reflection of the vassal/king relationship.
 
 *[p. 123]* ^pg146
@@ -173,7 +194,9 @@ antagonistically towards the royal court.[^33] The contrast with the broader pat
 SOCIAL MONITORING AND PUNISHMENT. Perhaps the clearest illustration of how social monitoring informed the representation of YHWH in the Hebrew Bible is the Neo-Babylonian- or Achaemenid-period story of Achan from Josh 7.[^34] In the story, Joshua’s troops are routed in what was expected to be an easy victory at Ai ([[Joshua 07#^7-4|Josh 7:4–5]]). Joshua complains to YHWH, who informs him that they abandoned the troops in battle because someone stole from the spoils of Jericho. These were supposed to be *ḥerem*, or foreign spoils (or people) ritually devoted to destruction or to exclusively cultic use ([[Joshua 07#^7-11|Josh 7:11–12]]).[^35] This term occurs also on the Mesha Stele (Monroe 2007; Del Monte 2005; Fleming 2021, 238–44). YHWH instructs Joshua to muster all Israel the next day so they can identify the guilty party and expunge the *ḥerem*, which is framed as a contaminant that infects the whole Israelite camp (cf. MacDonald 2003, 116–17). When Achan is identified, he confesses, “I sinned against YHWH, the deity of Israel” ([[Joshua 07#^7-20|Josh 7:20]]). Joshua then gathers at the Valley of Achor the recovered spoils, Achan, his family, and his 
 
 [^33]: See Albertz 2007, 361: “Such fundamental prophetic opposition during the ninth century against the ruling king is a new phenomenon in Israel’s history. In the tenth century the prophets we hear about were ecstatic groups with no visible social function ([[I Samuel 10#^10-5|1 Sam. 10.5– 6]], [[I Samuel 10#^10-10|10–12]]; [[I Samuel 19#^19-18|19.18–24]]), or court prophets like Nathan and Gad employed by the state, who predominantly functioned to stabilize the institution of monarchy (2 Sam. 7; 1 Kgs 1). Such prophets in the service of the kings are also mentioned later (1 Kgs 22). Only during the ninth century did individual prophets and prophetic groups with no ties to institutions emerge alongside these. Such prophets had largely detached themselves from ties of kinship and profession ([[I Kings 19#^19-19|1 Kgs 19.19–21]]) in order to earn their living as itinerant miraculous healers, exorcists, or oracle givers.”
+
 [^34]: On this dating, see Dozeman 2015, 350–61. Cf. Römer 2007, 87–88, which refers to the story of Achan as a “later interpolation” to the Deuteronomistic account of the conquest of Ai.
+
 [^35]: On *ḥerem*, see Stern 1991; Crouch 2009, 174–89. Note Crouch (174–75) highlights that a national context is more likely for the development of these features of “holy war” than a tribal one. She also notes the “deuteronom(ist)ic” context for the majority of *ḥerem* narratives (177). On this last point, see MacDonald 2003, 108–22.
 
 *[p. 124]* ^pg147
@@ -193,8 +216,11 @@ council.[^36] The earliest iterations of this divine council appear to have been
 between the early iteration of the divine council in Deut 32 and the much later iteration in Ps 82. Perhaps the most significant difference is that YHWH appears to direct the council in the latter witness but is subordinate in the earlier. There has been a great deal of debate regarding the distinction of YHWH and El in Ps 82, but if El is identifiable in the psalm, they are utterly inoperative, and the exilic (or later) dating of the psalm renders unlikely the preservation of a firm distinction. There may be a relic of YHWH’s subordination preserved in the 
 
 [^36]: As Robert Gordon (2007, 190) notes, “Old Testament references to this Divine Council … are too widely distributed among the individual books and across the canonical divisions for them to be regarded as simple ‘vestigial’ and immaterial to the presentation of God in the Hebrew scriptures. The Pentateuch, Former and Latter Prophets, Psalms, Job and Daniel all draw directly on the concept of the DC in their portrayal of the God of Israel.”
+
 [^37]: MT begins [[Torah 53 - Ha'Azinu#^32-9|Deut 32:9]] with *kî* (“because,” “that,” “but”), the interpretation of which has been a subject of some debate (Tsevat 1969, 132; Heiser 2006, 5–8), but it has largely facilitated identifying YHWH with Elyon and reading the passage to indicate YHWH reserved one of the allotments for themselves. The Septuagint, however, begins the verse with *kai egenēthē*, “and it happened that,” which almost exclusively renders the narrative marker *wayǝhî*.
+
 [^38]: The number seventy was a conventionalized way to refer to a large number of something.
+
 [^39]: Fleming (2021, 269) points out that a high deity distributing sovereignty over lands or peoples is “unknown from any ancient writing.”
 
 *[p. 126]* ^pg149
@@ -214,8 +240,11 @@ societies: “Now I know that YHWH is greater than all the deities \[*gādôl YH
 The sense of holiness as overwhelming radiance is most frequently connected to the description of YHWH’s appearance as like fire, although apart from 
 
 [^41]: For instance, Hewel Clifford (2010) argues that Deutero-Isaiah is adopting conventional rhetoric of incomparability, but is using it to assert divine exclusivity, since idol polemic elsewhere “encourages reading the exclusivity formulae with an absolute monotheism” (276). His argument relies on Rechenmacher (1997) but does not adequately engage discussions such as MacDonald’s (2003, 82–85) regarding negating particles.
+
 [^42]: Most explicit is “The Great Cairo Hymn of Praise to Amun-Re” (*COS* 1.25.i, iii).
+
 [^43]: [[Isaiah 01#^1-4|Isa 1:4]]; [[Isaiah 05#^5-19|5:19]], [[Isaiah 05#^5-24|24]]; [[Isaiah 10#^10-17|10:17]], [[Isaiah 10#^10-20|20]]; [[Isaiah 12#^12-6|12:6]]; [[Isaiah 17#^17-7|17:7]]; [[Isaiah 29#^29-19|29:19]], [[Isaiah 29#^29-23|23]]; [[Isaiah 30#^30-11|30:11–12]], [[Isaiah 30#^30-15|15]]; [[Isaiah 31#^31-1|31:1]]; [[Isaiah 37#^37-23|37:23]]; 40:25;
+
 [^44]: NRSV here renders, “they will stand in awe of the God of Israel.”
 
 *[p. 128]* ^pg151
@@ -237,7 +266,9 @@ The description in [[II Kings 18#^18-4|2 Kgs 18:4]] of the later destruction of 
 I suggest the entities that presenced that agency could be profiled along a spectrum from deity to divine image, depending on how independently the hearer/reader understood the cultic object and the agency it presenced to be operating from the primary loci of the deity’s self. The rhetorical compartmentalization of those loci from the vehicles of the deity’s agency subordinated and 
 
 [^46]: “Mercy” is admittedly an imperfect gloss for *ḥesed*. For a helpful cognitive linguistic interrogation of the term, see Ziegert 2020.
+
 [^47]: On the relationship of the sounds used in the story to broader sociocultural notions of the “magic” of words, see Hurowitz 2004.
+
 [^48]: This is in reference to Jacobsen’s “is” and “is not” dichotomy (see introduction).
 
 *[p. 130]* ^pg153

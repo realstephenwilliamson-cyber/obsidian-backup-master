@@ -208,102 +208,186 @@ This is the common custom. Whenever a man marries, he accepts responsibility for
 A husband has the right to compel some of the servants and maidservants who belong to his wife to serve him[^84] in the home of another woman he has married.[^85] [This applies] regardless of whether the servants are classified as *nichsei m'log* or *nichsei tzon barzel*. The husband may not, however, take these servants to another city without his wife's consent. ^22-35
 
 [^1]: As explained in Chapter 12, Halachah 3 and notes, this is one of the four privileges our Sages granted a husband as part of the marriage contract. (See also *Hilchot Nachalot* 1:8.)
+
 [^2]: The second phase of marriage, *nisu'in*, does not start until the woman enters the *chuppah*, and it is only at that time that the marriage contract takes effect. Nevertheless, an exception is made in this instance, as explained in the following halachot and notes.
+
 [^3]: The Ramah (*Even HaEzer* 57:1) cites the opinion of the *Tur* and other Ashkenazic authorities, which is that the husband does not have a right to inherit his wife's dowry until it enters his possession.
+
 [^4]: Moreover, if the courtyard belongs to the husband, it is assumed that the couple entered for the sake of marriage, even when they do not explicitly state so. This is the view of all authorities, and the *Maggid Mishneh* explains that it is also shared by the Rambam.
+
 [^5]: If the courtyard belonged to her, this intent is understood even when it is not explicitly stated.
+
 [^6]: This law applies even if the widow is still a minor, as reflected in Chapter 3, Halachah 12.
+
 [^7]: Once she is met by her husband or his agents, however, he is entitled to inherit her estate.
+
 [^8]: See Chapter 1, Halachot 6 and 7; Chapter 4, Halachah 14.
+
 [^9]: Or after she becomes divorced or widowed in her father's lifetime (Chapter 4, Halachot 7 and 8).
+
 [^10]: The rationale is that she is not entitled to a *ketubah* (Chapter 11, Halachah 4). Moreover, since she is not responsible for her actions, she has no right to transfer her property.
+
 [^11]: Although the Ra'avad objects to this ruling, the *Shulchan Aruch* (*Even HaEzer* 90:3) quotes the Rambam's view.
+
 [^12]: Chapter 3, Halachah 13.
+
 [^13]: See Chapter 14, Halachah 8.
+
 [^14]: The advantage in the purchaser's continuing to own the land itself is that if the husband dies before his wife, her sale is binding, and the land becomes the purchaser's property. From this time onward, he is entitled to benefit from the land as well.  
     Rabbenu Asher differs with the Rambam on this issue and maintains that the husband has the right to take the property from the purchaser, even during his wife's lifetime. The *Shulchan Aruch* (*Even HaEzer* 90:9) follows the Rambam's view, while the Ramah quotes that of Rabbenu Asher.
+
 [^15]: Even the Ramah and Rabbenu Asher accept this ruling.
+
 [^16]: There is a difference of opinion with regard to this matter among the *geonim*, but all the later authorities accept this view. The rationale is that the husband's right to the land supersedes that of the purchaser. The money that the purchaser paid is considered to have become a debt owed him by the woman's estate, and the husband is not required to pay his wife's debts.
+
 [^17]: A husband is entitled to any ownerless object discovered by his wife. His claim is not accepted, however, if he states that money that appears to have come from the sale of property came from the discovery of a lost object. There is no need for witnesses to testify that this is the money from the sale. It is sufficient that it appears to be so. If, however, the money has been changed into a different coinage or currency, the husband is not required to return it (*Maggid Mishneh*).
+
 [^18]: In his Commentary on the Mishnah (*Ketubot* 8:2), the Rambam states that this refers to property located in the bride and groom's city or the surrounding locale, as opposed to property owned by her in more distant locales. It is questionable, however, if the same geographic restrictions apply in today's global village.
+
 [^19]: The *Shulchan Aruch* (*Even HaEzer* 90:11) states that preferably, a woman should not sell this property, because her husband is entitled to inherit it.  
     The commentaries explain that when the husband knows of his wife's financial holdings, it is an implicit part of the marriage contract - and perhaps part of his intent in entering into the marriage relationship - that he will inherit this property. When, however, he is unaware of her ownership of property, this motive cannot be given as the reason for his desire to enter this relationship.  
     It must be added that as soon as the husband becomes aware of this property, it is considered to be part of the woman's *nichsei m'log* and is bound by all the laws pertaining to such property (*Shulchan Aruch*, *loc. cit.*:12). Moreover, if the woman dies without selling this property, her husband is entitled to inherit it, although he was never aware of his wife's ownership of it during her lifetime.
+
 [^20]: The *Tur* (*Even HaEzer* 90) states that the woman has the full right to sell any property that she owned before she was consecrated. With regard to property that she acquired after she was consecrated, it is preferable that she not sell it - but if she sells it, the husband has no claim to it.
+
 [^21]: As explained in *Hilchot Zechiyah UMatanah*, slightly different rules apply if the woman signed over only a portion of her property.
+
 [^22]: *Hilchot Zechiyah UMatanah* 6:12. It is clearly obvious that the woman's intent in giving the present is to protect her holdings from being inherited by her husband.
+
 [^23]: In his gloss on *Ketubot* [[Ketubot 79#79a|79a]], Rabbenu Nissim explains that the Rambam equates this provision with the one mentioned in the previous clause. The only difference between the two is one of tact. The provision in this clause is more gently worded, so that the intent to free the woman's holdings from her husband is less obvious.
+
 [^24]: Unlike the Rambam, Rabbenu Asher and other authorities maintain that the woman need not explicitly mention her consent to the present. All that is necessary is that she refrain from nullifying it.
+
 [^25]: Rabbenu Nissim asks, according to the approach of the Rambam (in contrast to the approach of Rabbenu Asher mentioned in the previous note): If the woman did not explicitly mention her consent to the present before her death, why does her husband have no right to inherit her property? The provision on which the present was based was never fulfilled.  
     Seemingly, this property can be compared to a woman's property of which her husband was unaware. As mentioned in the notes on the previous halachah, the husband has the right to inherit such property, and thus he should also inherit the property mentioned in this clause.  
     Rabbenu Nissim explains that since the Rambam maintains that a husband's right to inherit his wife's property is a Rabbinical ordinance, there is room for leniency when, as in the present case, it is obvious that the woman did not desire her husband to inherit her estate. Obviously motivated by the same question, but unwilling to offer such a resolution, Rav David Arameah explains that the Rambam's ruling applies in an instance when the woman in fact expressed her consent to the present before her death.
+
 [^26]: As mentioned in the notes on Halachah 8, preferably a woman should not sell property she acquires after her consecration. One might think that the same principle applies to a *yevamah*, for she also shares a bond to her *yavam*. There is, however, a distinction between the two: a woman who is consecrated will most likely be married, while a *yevamah* may be freed from her obligation through *chalitzah*. Hence, there are no restrictions placed upon her with regard to the sale of her holdings.
+
 [^27]: The difference between *nichsei m'log* and *nichsei tzon barzel* is that with regard to *nichsei m'log*, the object itself belongs to the woman, while the property regarded as *nichsei tzon barzel* is considered to belong to her late husband. He was, however, obligated to pay his wife for the value designated at the time of marriage (Chapter 16, Halachah 1).  
     Since the *nichsei tzon barzel* are considered to belong to the *yevamah's* late husband's estate, one might think that the *yavam* would have a right to them. Hence, it is necessary to clarify that he is given this right only after marriage.  
     As mentioned by the Ra'avad and the *Maggid Mishneh*, most authorities differ with the Rambam on this point. The *Maggid Mishneh* maintains that the *yavam* is entitled to half of the benefit that accrues from the *nichsei tzon barzel*. This opinion is quoted by the *Shulchan Aruch* (*Even HaEzer* 160:6). (The Rambam's opinion is also quoted, but it appears that the other opinion is favored.) The Ramah mentions the opinion of the Ra'avad which goes even further and gives the *yavam* rights to half the benefits of *nichsei m'log* that the *yevamah* acquired while she was married to her deceased husband.
+
 [^28]: For this property belongs to her outright.
+
 [^29]: A division is necessary because this property is considered to belong to the *yevamah's* late husband, as explained above. Therefore, his heirs have a claim to it. Nevertheless, since he died in his wife's lifetime, and she did not receive payment for this property, her own heirs also have a claim.  
     This ruling is also disputed by other authorities, who maintain that all the *nichsei tzon barzel* are considered the property of the husband's heirs, together with the woman's *ketubah*. The *Shulchan Aruch* (*loc. cit.*:7) quotes the Rambam's view, while the Ramah quotes that of the other authorities.  
     The Ramah also adds that these laws do not apply in the Ashkenazic community in the present era - or in other communities - where the rite of *yibbum* is not practiced, and instead, the *yevamah* is freed from her obligation through the rite of *chalitzah*. Since the *yevamah* will not marry the *yavam*, he has no rights with regard to her property.
+
 [^30]: I.e., both the essential requirement of the *ketubah* and any additional amount added by her deceased husband.
+
 [^31]: For our Sages associated a woman's burial with the inheritance of her *ketubah* (Chapter 12, Halachah 14).
+
 [^32]: Even if the value of the property left by the deceased brother is many times the value of the woman's *ketubah*, none of the property may be sold, lest the remaining property be destroyed and the woman have difficulty collecting the money due her by virtue of her *ketubah* from the purchasers (*Ketubot* [[Ketubot 81#81b|81b]]).
+
 [^33]: I.e., since the produce requires the land, it is considered as if it were landed property, and the money received from the sale has the same status as the landed property mentioned in the previous halachah.
+
 [^34]: The *Maggid Mishneh*, the Rivash (Responsa 365 and 366), and the *Shulchan Aruch* (*Even HaEzer* 168:5) emphasize that the law stated by the Rambam applies only when the husband did not follow the suggestion (Chapter 16, Halachah 8) of stating explicitly in the *ketubah* that the woman may collect from movable property the money due her by virtue of her *ketubah*. (There are other authorities who differ with the Rambam and maintain that even if the provision is not stated explicitly in the woman's *ketubah*, the movable property should be sold and land purchased.)
+
 [^35]: E.g., he died after he consecrated her, but before he consummated the marriage - in which instance, the woman is obligated to undergo either *yibbum* or *chalitzah*, and yet her deceased husband was not obligated to grant her a *ketubah*.
+
 [^36]: Since she has no claim to her deceased husband's property, she is not judged by the laws pertaining to a *yevamah*, but rather by those pertaining to other women.
+
 [^37]: If she sells the land to her husband, the sale is rescinded because she can claim that she did not sell it willingly; she did so only to appease her husband (*Bava Batra* [[Bava Batra 49#49b|49b]]). If she sells the land to others, the sale is rescinded because her husband has a right to benefit from her property, and she cannot take away this right from him without his consent. If, however, the husband agrees to her sale, it is binding, as stated in *Hilchot Mechirah* 30:3).  
     Note the ruling of the Ramah (*Even HaEzer* 90:13), who writes that if the husband dies, the sale made by the woman is effective retroactively. (But see also the gloss of the *Beit Shmuel* 90:46.)
+
 [^38]: With regard to *nichsei m'log*, it is obvious that the husband's sale is of no consequence, for the woman owns this type of property. With regard to *nichsei tzon barzel*, which are considered to be the husband's property, there are authorities (e.g., the Ra'avad) who differ with the Rambam and maintain that the sale is valid until the time comes when the woman desires to collect the money due her by virtue of her *ketubah*.  
     The commentaries support the Rambam's opinion, explaining that even though the woman has the potential to expropriate the property afterwards by force of law, the sale should be nullified. For women are not comfortable presenting claims in court. If the sale were allowed to remain binding, the only way the woman could receive her due would be by lodging a legal claim. The *Shulchan Aruch* (*Even HaEzer* 90:13) quotes the Rambam's view.
+
 [^39]: If the woman is divorced, she is entitled to this property. Hence, the husband does not have the prerogative of selling it.
+
 [^40]: The husband is allowed to destroy this property through frequent use. Therefore, the woman does not rely on receiving this property, and thus if he sells it the sale is binding (*Maggid Mishneh*, gloss on *Hilchot Mechirah* 30:5; *Chelkat Mechokek* 90:45).  
     This is the opinion of the Rambam and Rabbenu Tam, and is quoted by the *Shulchan Aruch* (*Even HaEzer* 90:14). Rabbenu Asher, the Rashba and others differ and maintain that the sale is of no consequence. Their view is quoted by the Ramah.
+
 [^41]: Although both the husband and his wife have a share in the property, since the purchaser dealt with both of them, the sale is binding.
+
 [^42]: Since this property itself belongs to her, there is no reason for her husband to become upset if she does not desire to sell it to him.
+
 [^43]: See Chapter 23, Halachah 11; *Hilchot Mechirah* 30:3.  
     There is a difference of opinion among the Rabbis if similar laws apply when a woman waives her claim to property mentioned in her *ketubah* in favor of her husband. The Ra'avad and Rabbenu Asher maintain that her deed is of consequence, while the Rashba and the Ramban state that it is not. The *Maggid Mishneh* maintains that the Rambam subscribes to the latter view.
+
 [^44]: The *Kessef Mishneh* emphasizes that until the woman recants, the transaction is binding. The *Beit Meir*, however, objects, explaining that the Rambam's wording in *Hilchot Mechirah* 30:3 does not indicate such a distinction.
+
 [^45]: Her husband will pressure her by saying, "You are either planning my death or considering a divorce. Otherwise, you would not hesitate to sell this property to me" (*Bava Batra* [[Bava Batra 49#49b|49b]], 50a).
+
 [^46]: Even if he has a deed or witnesses that testify to the claim, his wife may also negate his claim based on the above rationale.
+
 [^47]: The *Shulchan Aruch* (*Even HaEzer* 90:16) states that if the woman explicitly accepts responsibility for the field if expropriated from the husband, then the transaction is binding.
+
 [^48]: Based on the Rambam's statements in Chapter 17, Halachah 19, it is questionable why witnesses are necessary. See *Chelkat Mechokek* 90:1, *Beit Shmuel* 90:6.
+
 [^49]: A husband is not obligated to pay for *nichsei m'log* that have been destroyed, lost or stolen, while in such situations, he is obligated to pay the original value for *nichsei tzon barzel*. Thus, by changing the status of her property, the woman is in effect waiving a financial obligation due her from her husband.  
     There is reason to say that just as a woman can say that she was forced to give or sell this property to her husband to appease him, she could also say that she was also forced to waive her husband's obligation in the loss or theft of this property. The Rambam, however, does not accept this rationale. Since this obligation is due only after the husband's death or divorce, there is nothing pressuring her husband to pay it. If he demands that his wife waive this obligation, she may refuse, asking him: "Is it because you want to divorce me that you are asking me to waive this obligation?" (*Maggid Mishneh*).
+
 [^50]: The Ra'avad objects to the Rambam's ruling. Nevertheless, it is the Rambam's decision which is accepted by the *Shulchan Aruch* (*Even HaEzer* 90:18).
+
 [^51]: If, at the outset, the husband sold the rights to benefit from the property for a lump sum, it is possible that all that money would be spent in a short period of time and that afterwards, there would be nothing left for household expenses (*Chelkat Mechokek* 85:41).
+
 [^52]: For their value is explicitly stated in the woman's *ketubah* and will be returned to her in the event of divorce or her husband's death.
+
 [^53]: For money that a woman acquires while married is automatically considered to be *nichsei m'log*.
+
 [^54]: In this way, the woman is assured that the principal will remain hers. If the husband desires to use the money for commercial enterprises, he may afterwards sell the right to benefit from the property, as mentioned in the previous halachah.
+
 [^55]: E.g., people other than her husband. If her husband himself injures her, he is not entitled to benefit from the proceeds of her property, as mentioned in Halachah 28.
+
 [^56]: *Hilchot Chovel UMazik* 4:15. As stated in that source, the husband also has a right to receive a certain portion of the damages as his own funds to which his wife has no right.
+
 [^57]: Although in most instances, produce that is still attached to land is considered equivalent to landed property, an exception is made in this case, because the husband is entitled to the benefit that accrues from his wife's property.
+
 [^58]: For he is entitled to receive all the benefit from her property throughout the duration of their marriage.
+
 [^59]: See *Hilchot Avadim* 9:7, which states that a husband does not have the prerogative of telling a servant: "Work for me, but I will not provide for your sustenance."
+
 [^60]: The Rambam's wording implies that the concept of maintaining the honor of one's household applies only with regard to the children of one's servants, and not to the offspring of one's livestock. See the *Beit Shmuel* 85:38, which quotes a difference of opinion among the Rabbis on this issue.
+
 [^61]: *Bava Batra* [[Bava Batra 51#51b|51b]] states that a person who gives a present gives with a generous spirit. Therefore, we may assume that the husband gives the gift to his wife without wanting to restrict her in any way.
+
 [^62]: The specific wording of the provision that the giver must make is discussed in *Hilchot Zechiyah UMatanah* 3:13.
+
 [^63]: The person purchasing the rights to the woman's *ketubah* is taking a risk, because it is possible that she will die in her husband's lifetime and then he will not receive anything.
+
 [^64]: Our Sages entitled a husband to derive the benefit that would ordinarily accrue from property belonging to his wife - e.g., produce that grows on a field, rent from a home, labor from a servant. They did not grant him rights to benefits that arise from abnormal circumstances.
+
 [^65]: The Rambam does not mention two other payments that a person who inflicts an injury would ordinarily pay: *shevet* - reimbursement for the wages that were not earned during the period of convalescence, because the husband is entitled to his wife's wages - and *ripui* - payment for the medical treatment required, because a husband is always required to pay for his wife's medical care.
+
 [^66]: *Hilchot Chovel UMazik* 4:16. This differs from instances in which the injury is inflicted by other parties, in which case the husband also has a right to receive a certain portion of the damages as his own funds, to which his wife has no right.
+
 [^67]: The husband cannot claim that the funds belonged to him, but since he could not take them from his wife in any other way, he sold the property to her as a ruse. This applies even if he makes a definite claim (*ta'anat bari*) that the funds belong to him (*Chelkat Mechokek* 85:22,24).
+
 [^68]: This ruling depends on the halachah to follow, which states that a woman's claim is accepted with regard to money found in her possession.
+
 [^69]: The Rambam's ruling is cited by the *Shulchan Aruch* (*Even HaEzer* 85:9). The Ramah mentions the opinion of Rabbenu Asher, who states that if the husband makes a definite claim that the hidden funds belong to him, his claim is accepted.
+
 [^70]: The Jerusalem Talmud (*Ketubot* 6:1) states that a present will be spoken about. Therefore, the woman will be afraid to claim that she was given a present unless the claim was true.
+
 [^71]: He cannot, however, require his wife to take an oath unless he lodges a definite claim against her (*Maggid Mishneh*).
+
 [^72]: If, however, a woman was given responsibility to deal freely with the property belonging to her husband's household, and she claims that funds discovered in her possession belong to her privately, her claim is not accepted (*Bava Batra* [[Bava Batra 52#52b|52b]]; Ramah, *Even HaEzer* 85:12).
+
 [^73]: Although the giving of a present will become public knowledge, the details of the present might not. Therefore, the woman is required to substantiate her statements. Otherwise, we assume that this present was given without any extraordinary conditions (*Ma'aseh Rokeach*).  
     The *Maggid Mishneh* mentions the opinion of the Rashba, who differs and maintains that the woman's claim is also accepted in this instance as well. This opinion is mentioned by the later authorities.
+
 [^74]: The rationale is that a woman will not be brazen enough to make false statements in her husband's presence with regard to a matter that he knows to be true (*Maggid Mishneh*).
+
 [^75]: For the likelihood is that the article belongs to the husband, master or father, respectively. It is forbidden to assist a person who takes property that is not his or her own. Moreover, if no one accepts the article for safekeeping, it is likely that it will be returned (*Bava Batra* [[Bava Batra 51#51b|51b]]).
+
 [^76]: For there is no proof that the article was stolen.
+
 [^77]: For even if the article is rightfully hers, he inherits her property.
+
 [^78]: The entrusted article should not be given to the minor, for it is possible that he will not care for it properly and it will be destroyed (Rashbam, *Bava Batra* [[Bava Batra 52#52a|52a]]).
+
 [^79]: In every society, the nature of the type of article purchased depends on the conditions prevalent at that time (*Chelkat Mechokek* 85:33).
+
 [^80]: The Hebrew literally means "whose bark is renewed" - i.e., reaping the benefits one year will not prevent them from being reaped in the future.
+
 [^81]: I.e., in this instance, the goat's milk is not sold and the money used to purchase property that produces benefit, but rather the goat's milk is used for the household.
+
 [^82]: Even if they are worth substantially less than they were originally.
+
 [^83]: As the *Kessef Mishneh* emphasizes, at different times and in different countries, other customs have prevailed. It is the prevalent custom in one's own locale that is binding.
+
 [^84]: The servants may be compelled to serve the husband; they may not, however, be compelled to serve his second wife (*Beit Yosef, Even HaEzer* 85).
+
 [^85]: For having the woman's servants serve her husband in his other wife's home, also elevates the woman's own standard of living (*Ketubot* [[Ketubot 80#80b|80b]]).

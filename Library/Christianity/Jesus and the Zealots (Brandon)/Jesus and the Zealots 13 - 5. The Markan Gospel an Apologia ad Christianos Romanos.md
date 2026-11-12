@@ -31,6 +31,7 @@ originated in some important centre of early Christianity and Mark is the only G
 The question of the date of Mark, however, is far more obscure, and its elucidation involves a long and complicated inquiry. The general consensus of expert opinion dates its composition and publication for the period A.D. 6o to 75.a Now, these fifteen years cover the period of the Jewish War against Rome, i.e. 66-70, which includes that great climacteric event, the destruction of Jerusalem in the year 70. On *a priori* grounds, therefore, it would seem that the production of the first Christian Gospel might be in some way related to these tremendous happenings which resulted in the ruin of the Jewish state and its metropolis, where the Mother Church of Christianity was situated. The Gospel of Mark, however, contains no reference or allusion to these events which is so obvious as to constitute definitive proof that its author was writing after their occurrence. But, it must be asked, is it reasonable to expect that Mark should have referred or alluded very clearly to such events? The assumption has certainly been made by some New Testament scholars, particularly British scholars; and, because such obvious evidence is not to be found, they have concluded that the Markan Gospel must have been written before A.D. 70.[^4]The validity of this 
 
 [^1]: Cf. Bacon, *Is Mark a Roman Gospel?,* pp. 7-33; Streeter, *Four Gospels,* pp. 9-15, and *The Primitive Church,* pp. 62, 229.
+
 [^2]: Cf. C. H. Turner, in *New Comm. N.T.* p. *46a;* Streeter, *Four Gospels,* pp. 34D-I.
 3\. Cf. Taylor, *St Mark,* pp. 31-2.
 
@@ -123,6 +124,7 @@ If Mark was here using traditional Palestinian material relating 1 The rending o
 p. I35). Cf. Brandon in *N. T.S.* vn, 133 ff.
 
 [^4-p230]: See above, pp. 88 ff.
+
 [^5]: See below, pp. 233 ff.
 
 *[p. 231]* ^pg261
@@ -134,6 +136,7 @@ The first incident, in the order in which Josephus record~ them, occurred when T
 The other incident must have happened shortly after. While the sanctuary and the adjacent buildings were still burning, the victorious
 
 [^1-p231]: Jos. *War,* VI. 260.
+
 [^2-p231]: Cf. Taylor, *St Mark,* pp. 55-66; Black, *An Aramaic Approach to the Gospels and Acts,* pp. I 53-62. a On the significant use of the masculine participle E&lt;rrT\]KOTa to qualify the neuter noun j36eA.vy1Ja see below, p. 232, n. 3· Pompey, accompanied by his staff, had entered the Holy Place (els TOV va6v), after his conquest of Jerusalem in 63 B.c. J osephus records that the Jews had been more deeply affected by this sacrilege than by all the other calamities which then befell them *(War,* I. I 52). Herod had been careful to preserve the Temple from profanation when he captured it, with the help of Roman forces, in 37B.c.: cf.Jos. *War,* I. 354·
 
 *[p. 232]* ^pg262
@@ -181,8 +184,11 @@ concerned both to intimate that the end of the world and the coming of the myste
 As we have suggested, the *mise en scene* presented in these verses creates an impression of artificiality of composition. A disciple is represented as specially drawing the attention of Jesus to the size or quality of the stones (1ToTcrnoi i\\i6ot) of which the Temple was constructed, and the magnificence of the buildings (1ToTcrncxi oiKo5o1J.cxi). Now, considering that most Palestinian Jews, even those living in Galilee, would have been familiar with the Temple from childhood, since it was the custom to go there for the greater festivals, as [[Luke 02#^2-41|Luke ii. 41 ff.]] graphically shows, it is patently naive to think of a disciple pointing out to Jesus the splendour of the Temple as though they were seeing it for the first time. [^2-p236]However, this emphasis upon the grandeur and beauty of the Jerusalem Temple would be intelligible in Mark, when writing for the Christians of Rome, who had just seen representations of the Temple and its magnificent treasures, the Menorah, the golden table of shew-bread and the trumpets, paraded through the streets of the city by the victorious legionaries of Titus. [^3-p236]The Jerusalem Temple was 'in the news' for them, and they had been impressed by the evidence of its greatness and splendour, and also by its catastrophic destruction. Now Mark told them that this signal disaster which had befallen the Jewish nation had been foretold by their divine Lord, Jesus, and that it was one of the signs that heralded his Second Coming and the end of the present world-order. [^4-p236]
 
 [^1-p236]: xiii. 7: 5ei yevecrea~, &fill' ovmJJ To Teflos (' das Ende des gegenwartigen Aons und damit zugleich der Anbruch der zukiinftigen Welt', Klostermann, *Markusevangelium,* p. rgg). Cf. H. Conzelmann in *,Z.N.T.W.* so (rgsg), pp. 214-15.
+
 [^2-p236]: G. R. Beasley-Murray *(Commentary on Mark Thirteen,* pp. rg-2o) endeavours to meet this objection by arguing thatJosephus gives a long account of the splendours of the Temple; but he forgets that J osephus is writing for Gentile readers who had not seen the Templ~as, indeed, Mark was doing.
+
 [^3-p236]: See Plate xr.
+
 [^4-p236]: 'fiir die Weissagung der Tempelzersti:irung Mk rg, 2 besteht mindestens die Moglichkeit, da~ sie \[die W orte\] erst von der Gemeinde Jesus in den Mund gelegt worden sind' (Bultmann, *Gesch. d • .ryn. Trad.* p. 132). Wort nicht urspriinglich zusammengehorten ... Also diirfte V. 17 eine altiiberlieferten Szene V. 15 f. sein, wie Joh 2, I7 eine weitere solche Deutung hinzugekommen ist' (Bultmann, *Gesch. d.* ~n. *Trad.* p. 36).
 
 *[p. 237]* ^pg267
@@ -192,6 +198,7 @@ This preoccupation with the Temple, in a writing addressed to the Christian comm
 2 'Kal eoioacrKSV Kal e/.eyev erweckt den Eindruck, als ob Handlung und nachtriigliche Deutung - wenn man will, ein "Predigtspruch" - der 
 
 [^3-p237]: 1TCXO"IV TO iS e6vecrtv. Cf. Matt. xxi. I 3; [[Luke 19#^19-46|Luke xix. 46]]; E. Schweizer, 'Mark's Contribution to the Quest of the Historical Jesus', *N. T.S.* x (1963-4), 429·
+
 [^4-p237]: I7: cf. Loeb ed. of Josephus, m, 258, n. *c.* One of these inscriptions was found in I87I: see illustration in Ricciotti, *Flavio Giuseppe,* IV, 44: cf. Eisler, IH~OY~ BA~IJ\\EY~, I, Tafel L (29), n, 535-6. Is it too fanciful to suppose that one of these inscriptions had been brought to Rome and displayed in the triumphal procession as evidence of Jewish religious intolerance? On the attitude towards Gentiles which these inscriptions expressed see E.J. Bickerman, 'The Warning Inscription of Herod's Temple', *J.Q.R.* XXXVII (1946-7), 390, and S. Zeitlin, 'The Warning Inscription of the Temple', xxxvm, II6.
 
 *[p. 238]* ^pg268
@@ -201,8 +208,11 @@ all: when he wrote, that sanctuary had been destroyed in consequence of the Jewi
 The Temple, then, was 'in the news' at Rome, when the Gospel of Mark was written; its destruction, however, had not only to be explained in terms of the past for the Roman Christians, it had also to be· interpreted to them relative to the future. So signal a catastrophe had clearly excited the eschatological hopes of the Christian community; it was being related to other recent events, and regarded as an indubitable portent that the end of the existing world-order was imminent and the return of Christ at hand. [^4-p238]The author of Mark clearly shared in these views; but it is evident that he realised that such expectation could be dangerous for the life and well-being of the community, if it became too fervent and prompted indiscreet utterance or action. His handling of the situation in the apocalyptic discourse which he attributes to Jesus as he sits on the Mount of Olives, contemplating the ill-fated Temple, is a masterly balance of recognition that the 'signs of the times' did indeed point to the imminence of the end, and of wise caution concerned to control 
 
 [^1-p238]: See above, pp. 132, 137, n. r, 140 ff.
+
 [^2-p238]: Jos. *War,* rv. 201, 323-4.
+
 [^3-p238]: It is significant that Mark calls the two men crucified with Jesus A1;lo-ral (xv. 27); since they appear to have been connected with the insurrection in the city, they were probably Zealots. Cf. Hengel, *Die Z,eloten,* p. 30; also below, p. 351, n. r.
+
 [^4-p238]: [[Mark 13#^13-4|Mark xiii. 4]]· See below, p. 240.
 
 *[p. 239]* ^pg269
@@ -224,11 +234,17 @@ Thus, starting from Jesus' prophecy concerning the fate of the Temple, the actua
 The author of Mark, accordingly, leads his readers through a survey of recent events and experience, showing their eschatological significance in terms of the 'birth-pangs of the Messiah' .[^6]Thus he approaches the signal event which had provided the impetus to all this eschatological excitement. In *v.* 14 he introduces the apocalyptic oracle which had originated from the attempt of Gaius to desecrate the Temple in 39, and, by his discreet parenthetic comment, he reminds his readers how this oracle had been fulfilled by the actions of Titus and the Roman legionaries at the taking of the Temple, as we have also seen. [^7]The warnings contained in this 
 
 [^1-p240]: xiii. 7-8 (R.S.V.). S.B. *Kommentar,* I, 950, see in apx'l't wS!vc.ov Tcxiha the Rabbinical concept of' the birth-pangs of the Messiah', thereby assuming its currency at this period. Cf. Klausner, *Jesus of Nazareth,* p. I99; Klostermann, *Markusevangelium,* p. I 33·
+
 [^2-p240]: Josephus gives a summary description of the critical state of the Roman world at the time of the Jewish revolt, *War,* I. 4-5. Cf. *C.A.H.* x, chh. xxiv, xxv; A. Peretti, *La Sibilla babilonese,* pp. I8-2o.
+
 [^3-p240]: See the Chronological Table in *C.A.H.* x.
+
 [^4-p240]: Tacitus, *Ann.* XIV. 27, xv. 22. Cf. Peretti, *La Sibilla babilonese,* p. 470. It is significant that the Jews interpreted the famous eruption of Vesuvius in A.D. 79 as divine punishment upon the Romans for their treatment of Israel *(Sib. Orae.* IV. I 30).
+
 [^5-p240]: Cf. Taylor, *St Mark,* pp. 88, 509-Io.
+
 [^6]: See above, n. I.
+
 [^7]: See above, pp. I43, 23I-3. It is significant that Beasley-Murray, in his attempt to date the Markan Apocalypse before A.D. 70, seeks to emend the text ofxiii. I4, despite its being attested by the best MSS (cf. *Jesus and the Future,* pp. 255-7). the destruction of the Temple had an eschatological significance. The of the Temple was still regarded as the prelude to the *Parousia.*
 
 *[p. 241]* ^pg271
@@ -248,8 +264,11 @@ the approach of summer, so recent events announced the imminence of the Second A
 The cumulative witness of all this evidence is unmistakable. It points indubitably to a *Sitz im Leben* for the Markan Gospel which corresponds exactly to that of the Christian community at Rome in the years immediately following the Flavian triumph of A.D. 71 over insurgent Judaea. The graphic ocular proof which the Roman Christians had then received of the Jewish overthrow affected them profoundly in two closely related ways, besides stimulating their eschatological expectations. It brought, disturbingly, to their 
 
 [^1-p242]: xiii. 28-g. Meyer *(Ursprung,* I, 127) is right in seeing that the eschatology of this passage is universal in its reference: 'Es handelt sich ja auch garnicht urn eine Katastrophe, sondern urn das Weltende.' However, in concluding that it indicates a pre-A.D. 70 date, he falls into the fallacy of expecting from Mark the same degree of detachment from the events of A.D. 70 of which Luke was capable when writing more than a decade later: he fails to take account of the possibility that Mark was too closely involved in those events to write as Luke does in xxi. 20, 23 f. See above, pp. 222 ff. According to Taylor, *St Mark,* p. 520, 'The reference to hrl 6Vpcns is also obscure, for it is not clear whether a person or an event, or even a series of events, is meant. These ambiguities strongly suggest that the parable is used by the compiler for a purpose for which it was not originally intended.'
+
 [^2-p242]: xiii. 30-1. The assurance given in the words ov l-\\ll ncxpef..&i;l,; yevea CXVT'Il l-\\EXPIS oi:i Tcxihcx TIClVTCX yev'I'ITCXI would only be intelligible to a Christian community at a period when many of its members had died and doubt was beginning to form as to whether its surviving. members would witness the *Parousia.* 'A genuine saying has been adapted in the interests of contemporary apocalyptic' (Taylor, *St Mark,* p. 521). Cf. Bultmann, *Gesch.* *d • .ryn. Trad.* pp. 130, 132; Klostermann, *Markusevangelium,* p. 138.
+
 [^3-p242]: xiii. 32-3. 'V. 33 ist zweifellos eine redaktionelle Bildung des Mk.' (Bultmann, *Gesch. d • .ryn. Trad.* pp. 187-8). Cf. Taylor, *St Mark,* pp. 522-3.
+
 [^4-p242]: xiii. 34-7. Cf. Klostermann, *Markusevangelium,* p. 139. still at this period in Rome, Christianity in the popular mind was assofigure of an ass in the Temple *(Hist.* v. 3-4). The *graffito* would suggest the currency of a popular belief concerning Christianity, which embodied the twin facts of the crucifixion of the founder and its Jewish origin. Cf. H. Leclercq, *La vie chretienne primitive* (Paris, 1928), p. 85, plate XLIX. On the continuing identification of Christianity as a form of Judaism cf. Frend, *Martyrdom and Persecution,* pp. 1 63-4.
 
 *[p. 243]* ^pg273
@@ -259,6 +278,7 @@ attention the fact that their faith stemmed from this Jewish people who had so f
 As we shall see, the author of Mark was profoundly concerned with the problem which the crucifixion of Jesus thus constituted; but his Gospel also reveals his embarrassment about another matter, and his manner of dealing with it is particularly illuminating with regard to the motive that informs his account of the Roman trial and execution of Jesus. The matter concerned, to which reference has already been made, is Mark's handling of the fact that one of the Twelve Apostles of Jesus was a Zealot. In giving a list of the Twelve, whom Jesus appointed 'that they might be with him, and that he might send them out to preach the Gospel (t&lt;T)pv&lt;rcmv), and to have authority to cast out demons', one, Simon, is given the title' the Kananaios' (Tov Kc:xvc:xva:iov) .[^2-p243]No explanation is provided of this strange title, which must have been quite incomprehensible to the Creek-speaking Christians of Rome. [^3-p243]This omission is the more 1 Cf. p. 226, n. 4 above. The *graffito* traced on the wall of a room in the imperial palace on the Palatine, representing a crucified man, with the head of an ass, adored by a young man, accompanied by the caption 'Alexander worships his god', raises an interesting question in this connection. It appears to date from about the end of the second century and to be a blasphemous caricature of Christian worship. It may indicate that, ciated withjudaism: for Tacitus had asserted thatthejewsworshipped the 
 
 [^2-p243]: iii. 18. It is of some interest to note that certain Old Latin MSS give *iudas zelotes* for 9a!i!iaios in *v.* 18: cf. Taylor, *St Mark,* p. 233·
+
 [^3-p243]: The article would have informed Mark's readers that *Kananaios* was a title, and must, therefore, have some significance. In the previous *v.* 17 the strange title *Boanerges* had been explained to them, although Ytol BpoVTfjS may be a euphemistic interpretation of the enigmatic original which was perhaps more compromising.
 
 *[p. 244]* ^pg274
@@ -274,6 +294,7 @@ remarkable, for it is the custom of the author of Mark to explain all Hebrew or 
 *the Apostles,* p. 73· 
 
 [^4-p244]: Luke vi. IS; Acts i. I3. Cf.J. M. Creed, *St Luke,* p. 88; F. F. Bruce, *Acts of*
+
 [^5-p244]: That Matthew (x. 4) also describes Simon only as 6 Kavavaios is susceptible of two (complementary) explanations. Since his Gospel is addressed to a predominantly Jewish-Christian community, the meaning of 6 Kavavaios would need no explanation; if Matthew was written in Alexandria (see below, pp. 289 ff.), it would also have been expedient tllere, as in Rome, not to give tlle term its Greek equivalent, i.e. 6 Z'I'\]AC:oYrl)s, because the Sicarii had caused great trouble tllere after A.D. 70 (cf. Jos. *War,* VII. 409 ff.).
 
 *[p. 245]* ^pg275
@@ -293,8 +314,11 @@ If Paul's Epistle to the Romans was indeed addressed to the Christian community 
 1\. Cf. Sanday and Headlam, *Epistle to the Romans,* pp. xxv-xxxi; Weiss, *Martyrdom and Persecution,* pp. 160 ff.
 
 [^2-p246]: Cf. Sanday and Headlam, *Epistle to the Romans,* p. xxvi; Bruce in *B.J.R.L.* 44 (1962), pp. 317-18; Brandon, *Fall of Jerusalem,* pp. 145 ff.
+
 [^3-p246]: See above, pp. 177 ff.
+
 [^4-p246]: Suet. *Claudius,* 25. 4; [[Acts 18#^18-2|Acts xviii. 2]]. Cf. P. de .Labriolle, *La reaction paienne,* pp. 42-3; V. M. Scramuzza in *B.C.* v, 295-6; Bruce in *B.J.R.L.* 44 (1962), pp. 315-18.
+
 [^5-p246]: Whether the Epistle to the Romans, in its extant form, was originally addressed to the Christian community in Rome or not (cf . .T. W. Manson, *Studies,* pp. 227 ff.), it was evidently sent to Rome and envisages Jewish-Christian readers. According to V. M. Scramuzza, 'The practical difficulty of expelling all the Jews, which Dio points out, suggests that Suetonius's statement should be interpreted in the sense that only those individuals were expelled who took actual part in the disorders' (in *B.C.*
 
 *[p. 247]* ^pg277
@@ -304,6 +328,7 @@ is to be trusted, when Paul came to Rome, the Jewish community there spoke as th
 A most pressing need, then, existed in the Christian community in Rome at this time for an explanation of Pilate's condemnation and execution of Jesus as a revolutionary against Rome's suzerainty over Judaea. Such an explanation the author of Mark undertakes to supply, and the effect of his explanation has been incalculable for all subsequent Christian thinking. So far as we know, his was a pioneer attempt, and it set the pattern for the other Gospels. That 
 
 [^1-p247]: [[Acts 28#^28-17|Acts xxviii. 17-30]]. Cf. G. W. H. Lampe in *Peake's Commentary2,* 8o3d; Preuschen, *Apostelgeschichte,* p. 158. See also Bruce in *B.J.R.L.* 46 (1964), pp. 342-5· a See above, pp. 183 ff.; cf. Brandon, *Fall rif Jerusalem,* eh. IV, and *History,* *Time and Deity,* pp. I SD-I, 159-69.
+
 [^3-p247]: Cf. Brandon, *Fall of Jerusalem,* pp. 152-3, 199-200.
 
 *[p. 248]* ^pg278
@@ -315,6 +340,7 @@ Briefly, Mark's account of the trial of Jesus may be said to show that, although
 The author of Mark carefully prepares his readers for the decisive part which the Jewish leaders play, according to his account, in the Roman condemnation of Jesus. Thus, in the early days of Jesus' ministry in Galilee, we are told that, angered that Jesus should have healed a man with a withered hand on the sabbath, 'the Pharisees immediately took counsel with the Herodians against him, in order to destroy him (oTIOO) *aU-rov* chroMcroocnv) '. [^2-p248]The statement reveals more of the mind of Mark than it does of the event described. For, in the first place, it seems incredible that, after only their fourth encounter with Jesus over fairly trivial issues, the Pharisees become so hostile that they plan to destroy him. The statement is undoubtedly proleptic, being designed to prepare the way for the 
 
 [^1-p248]: Cf. Bultmann, *Gesch. d . .ryn. Trad.* pp. 297-308, Ergiinzungsheft, p. 42; Taylor, *Formation of the Gospel Tradition,* pp. 44-59.
+
 [^2-p248]: iii. 6. T. A. Burkill, in interpreting iii. 1-5 as a Christian defence for 'la pratique de la guerison le jour du sabbat', is obliged to describe *v.* 6 as 'la note de l'editeur', which 'pointe reellement vers le resultat final du conflit qui sera decrit en detail clans le recit de la passion' (' L'antisemitisme clans l'evangile selon saint Marc', *R.H.R.* 154, 1958, pp. 24-6). Cf. P. Winter, *On the Trial of Jesus,* pp. 111 ff.
 
 *[p. 249]* ^pg279
@@ -336,8 +362,11 @@ Having thus made clear the theme of his *apologia,* the author of Mark makes equ
 Accordingly, Mark provides by his own interpretation of the Jewish catastrophe of A.D. 70, which he attributes to Jesus, the cause for the resentment of the Jewish leaders and their desire to arrest him. The fact that they were then frustrated in their intention, because of Jesus' position with the multitude, is a matter which we must examine later. What we have to notice now is that, after this episode, the narrative goes on to tell how Jesus countered the efforts of various influential groups, namely, the Pharisees, the Herodians and the Sadducees, to discredit him, thus providing further cause for their hostility. <sup>5</sup>The opportunity to give practical effect to their hatred of Jesus soon came to the Jewish leaders, according to Mark, 
 
 [^1-p250]: xi. 27 ff.
+
 [^2-p250]: xii. g. Commenting upon *v.* g, with reference to the destruction of Jerusalem, Klostermann remarks *(Markusevangelium,* p. 122): 'Die Drohrede ist mit V. g vi.illig abgeschlossen.'
+
 [^3-p250]: xii. 6. A maturity of Christological thinking is implied in this term which is consistent with the Roman community and Paul's connection with it. Cf. E. Hoskyns and N. Davey, *The Riddle of the New Testament* (London, 1931), p. 148; Bacon, *Is Mark a Roman Gospel?,* p. 88; Taylor, p. 162.
+
 [^4-p250]: xii. 12. Cf. Taylor, *Formation of Gospel Tradition,* pp. 17g-8o.
 6\. xii. 13-27. If cmoaTei\\i\\ovow in *v.* 13 is an impersonal plural, as Taylor suggests *(St Mark,* p. 478), it is indicative of Mark's attitude, namely, of setting Jesus over against a hostile collective 'they', comprising various groups, representative of Judaism, on both its national and religious
 
@@ -371,7 +400,9 @@ The repudiation had probably been embodied in an *apologia,* which went on to sh
 The indisputable fact is that Jesus was put to death by the Romans, and by crucifixion, as guilty of sedition against their government. Consequently, if Jesus had originally been arrested at the orders of the high priest and had been condemned for his claims and actions as being those of a Messianic pretender, there must have been some reason for his subsequent condemnation as a rebel against Rome and his execution by the Romans. But the author of Mark does not supply this reason. Instead, without explanation, he relates that the Jewish sacerdotal authorities delivered Jesus, bound, the next morning to the Roman procurator Pontius Pilate. [^3-p253]In doing so, they 
 
 [^1-p253]: xiv. 60-4. The affirmative reply ascribed to Jesus, followed by the thoroughly Jewish concept of the glorious manifestation of the Messiah, clearly expresses, as we have seen, the eschatological hopes of the Jerusalem Christians, and provides a logical sequel to the repudiation of the 'Temple destruction' charge in a Jewish Christian apologetic concerning the condemnation of Jesus by the Sanhedrin. Cf. Meyer, *Ursprung,* I, 194; Klausner, *Jesus of Nazareth,* pp. 341-3; Manson, *Teaching of Jesus,* pp. 134, 214, 266, 278 ff.; Taylor, *St Mark,* pp. 567-9; Bultmann, *Gesch. d. syn.* *Trad.* pp. 291-2; Blinzler, *Trial of Jesus,* pp. IOI-4.
+
 [^2-p253]: As, for example, in the case of Stephen, [[Acts 07#^7-56|Acts vii. 56-8]]; see also Sanhedrin, 6. 4-5 (in Danby, *Mishnah,* pp. 391-2). For a discussion of death penalties according to Rabbinic law cf. Winter, *On the Trial of Jesus,* pp. 67-74; see also Klausner, *Jesus of Nazareth,* pp. 344-5; Taylor, *St Mark,* p. 645.
+
 [^3-p253]: xv. 1, Mark appears to summarise his source here by mentioning that the Jewish authorities consulted together, without stating the subject of their consultation or its outcome. Presumably they met to prepare the charge to be laid before Pilate. Cf. Taylor, *St Mark,* p. 578. 'Accusations are duly made by *delatores,* the chief priests and the elders of the people acting as such' (A. N. Sherwin-White, *Roman Society and Roman Law in the New Testament,* Oxford, 1963, p. 24). Jesus Re-examined', *J.Q\_.R.* XXXI, 344-5, and *Who Crucified Jesus?* (New
 
 *[p. 254]* ^pg284
@@ -415,9 +446,13 @@ If we are right in thinking that Mark had followed, up to this point, a Jewish C
 The suggestion of reluctance is given in the statement that, when Jesus did not answer his question, Pilate wondered ( ooOTe 6CXV!-lCx3EIV). [^5-p257] No reason is offered by Mark for this unexpected reaction by the procurator towards a prisoner against whom a formidable case of seditious behaviour had been made out. However, Mark's statement here has an evasive air about it which excites suspicion. It may fairly be asked: if Mark had evidence that Pilate had refused to accept the accusations of the Jewish authorities against Jesus, why did he not unequivocally say so? Indeed, to be able to produce such evidence would most powerfully have assisted his case that the Roman execution was really due to the implacable hatred of the 
 
 [^1-p257]: See pp. 261 ff.
+
 [^2-p257]: xv. 7·
+
 [^3-p257]: xv. 3·
+
 [^4-p257]: See p. 254, n. I above.
+
 [^5-p257]: xv. 5· It is uncertain what Mark intends to convey by oocne 6avj..lcqEIV TOV ne!Afrrov: whether the governor was impressed by the bearing of Jesus or whether his silence in the face of the accusations puzzled him.
 
 *[p. 258]* ^pg288
@@ -441,7 +476,9 @@ The other objection is equally serious. The practice of such a custom would so d
 Mark, as we have already observed, suddenly introduces the Barabbas episode after his elusive suggestion that Pilate had perceived that Jesus was guiltless of the charge preferred against him. 
 
 [^1-p259]: Even if he had by chance forgotten to mention so extraordinary a privilege, it is strange that throughout his long circumstantial narrative J osephus never records an instance of the release of a prisoner on such
+
 [^2-p259]: xv. 7· Cf. Hengel, *Die :(,eloten,* p. 347· grounds.
+
 [^3-p259]: *Apol.* v. 3; see p. 258, n. 3 above. The attempts made to find parallels to the custom elsewhere are pathetic for the paucity and irrelevance of the supposed instances: cf. A. Deissmann, *Licht vom Osten* (Tiibingen, 1923), pp. 229-31; Taylor, *St Mark,* pp. 58o-1; Goguel, *Jesus,* p. 519; Guignebert, *Jesus,* pp. 573-4; Blinzler, *Trial of Jesus,* pp. 205-8, 218-21; Winter, *On the Trial of Jesus,* pp. 92-4; Stauffer, *Jesus and His Story,* p. 107.
 
 *[p. 260]* ^pg290
@@ -453,6 +490,7 @@ Having thus made quite clear the murderous intent of the chief 1 xv. 6. It may w
 39\. are undoubtedly improvements on the original Markan account.
 
 [^3-p260]: xv. 10. Cf. Goguel, *Life of Jesus,* pp. 5I8-Ig; Burkill, *Mysterious Revelation,* p. 294; Klostermann, *Markusevangelium,* p. I 59: 'Die Barabbasepisode client dazu, die Ri:imer zu entschuldigen und die Juden zu belasten.' It is surprising that Sherwin-White ('The Trial of Christ', *Historicity and Chronology in the New Testament,* p. I I5) should not see that it was fear that motivated Mark to transfer the responsibility for the execution from the Romans to the Jews. In seeking to evaluate the Gospel accounts of the Trial of Jesus, at their face value, as a specialist on Roman law, he fails to appreciate the unique character of the Markan Gospel. His failure to deal with the Barabbas episode has a similar significance.
+
 [^4-p260]: xv. IO: seep. 258, n. I above.
 
 *[p. 261]* ^pg291
@@ -474,6 +512,7 @@ Such, then, is the way in which the author of Mark sought to explain to the Chri
 We have been concerned to evaluate the Barabbas episode in the 
 
 [^1-p262]: See below, p. 271. The expression 'pro-Roman pacifist' is justified. Mark's presentation of the Tribute Money episode shows Jesus as endorsing the , Roman rule inJudaea, while the contrast he suggests between the warlike Barabbas and the guiltless Jesus serves to portray Jesus as pacifist. However, Mark does not stress the pacifism of Jesus as Matthew and Luke do: see pp. 305ff.
+
 [^2-p262]: This aspect of the matter is always overlooked by those scholars who accept the traditional view that Pilate condemned Jesus because he feared an uprising of the people, or, alternatively, on the strength of [[John 19#^19-12|John xix. 12]], that Pilate feared that the matter would be reported to the emperor, if he freed Jesus. *Matthiiusevangelium,* pp. 218, 220-1; Taylor, *St Mark,* p. 581; Winter, *On Jesus,* pp. 473-6.
 
 *[p. 263]* ^pg293
@@ -507,10 +546,15 @@ by an absolution of his sins, Jesus provokes the scribes, who are present, into 
 the sabbath. [^4-p266]It is probable that the Jewish Christians had insisted on the strict observance of the Jewish sabbath, which must have been difficult and irksome for the Gentile Christians in Rome, immersed as they were in a completely pagan environment, where cessation of work on the seventh day was not provided for. [^5-p266]Hence the Dominica! pronouncement 'The sabbath was made for man, not man for the sabbath; so the Son of man is lord even of the sabbath' was botha welcome dispensation for the Roman Christians and further evidence of the detachment of Jesus from Jewish customs. [^6-p266]To illustrate this difference still further, Mark follows the 
 
 [^1-p266]: ii. fr'.7.
+
 [^2-p266]: ii. 2 I, 22: cf. Klostermann, *Markusevangelium,* p. 28: 'Man kann das alte Kleid des Judentums nicht mit neuen Flicken konservieren, und man kann den neuen Wein des Christentums nicht in alten Schliiuchen konservieren.'
+
 [^3-p266]: The significance of this parable depends on the events of A.D. 70, a fact which escapes the notice of those who put Mark before this date.
+
 [^4-p266]: ii. 23-8.
+
 [^5-p266]: Considerable hostility is shown towards the Jewish Sabbath by certain Greek and Latin writers. If it was difficult for Jews in the Diaspora to observe the Sabbatical rest, it must have been infinitely harder, and more dangerous, for Gentile Christians: cf. I. Abrahams in *E.R.E.* x, 8g2 *a;* H. Riesenfeld, 'Sabbat et Jour du Seigneur', *New Testament Essays* (ed. A.J. B. Higgins), pp. 210-17.
+
 [^6-p266]: Taylor, *St Mark,* p. 220, thinks that Mark found *v.* 27 'supplemented by a Christian comment expressing the conviction that Jesus is the Lord of all that belongs to man, including the Sabbath'. Such a view could certainly not have arisen in the Jerusalem Church, which was distinguished for its zeal for the Torah.
 
 *[p. 267]* ^pg297
@@ -525,10 +569,12 @@ The opportunity is next taken of ridiculing and condemning certain Jewish custom
 2\. iii. 6: see above, pp. 248-g.
 
 [^3-p267]: •••
+
 [^4-p267]: ••• 111. 22. 111. 22-g.
 5\. Bultmann *(Gesch. d . .ryn. Trad.* p. 138, n. x) cites A. Friedrichsen: 'Die Mk-Form., .identifiziertjesus und den Geist und polemisiert gegen den heidnischen Vorwurf, Jesus sei ein Magier gewesen.'
 
 [^6-p267]: iii. 30. 'Erkliirlicher ware dieser redaktionelle Schlul3 zu V. 28-30, wenn das Stuck einst nicht roit V. 22-27 zusammengehangen hiitte' (Klostermann, *Markusevangelium,* p. 38).
+
 [^7-p267]: vii. 1-4. Cf. Bacon, *Is Mark a Roman Gospel?,* pp. 58-g; Taylor, *St Mark,* p. 335·
 
 *[p. 268]* ^pg298
@@ -538,9 +584,13 @@ me; in vain do they worship me, teaching as doctrines the precepts ofmen.' [^1-p
 Another encounter with the Pharisees soon follows, when they came and began to argue with him, seeking from him a sign from heaven, to test him (mtp[^6-p268]:3oVTES cx\\rr6v). <sup>2</sup>What the Pharisees sought here is obscure; very probably the sign (crT)J,!Eiov) was some demonstration of miraculous power attesting the Messianic claim of Jesus such as Theudas and others performed, as we have seen. [^3-p268] Whatever its nature, for us Mark's editorial comment is significant, emphasising the evil intent (mtp6:30VTES cx\\rr6v) of these Jewish religious leaders. This encounter is followed by the puzzling account of the dialogue that ensues between Jesus and his disciples, when it is discovered that they had forgotten to take sufficient bread for their voyage across the lake. The discovery draws forth the enigmatic admonition from Jesus: 'Take heed, beware of the leaven of the Pharisees and the leaven of Herod.' [^4-p268]The saying has challenged the ingenuity of scholars who have sought to interpret it, and some have argued that its incomprehensibility attests its primitive authenticity. So far as it concerns us, we can reasonably conclude that, since no explanation is given, Mark evidently felt that the meaning was clear to his readers in Rome. Accordingly, in view of the fact that leaven (3Vll'l1) is generally used metaphorically in a bad sense, its use ,here in connection with the Pharisees continues Mark's policy of denigrating them, either by direct statement or by innuendo, in relation to Jesus. [^5-p268]The opprobrious reference to Herod would have seemed appropriate to Mark's readers, who had just previously, in the narrative, learned of Herod's wickedness in connection with John the Baptist.6 
 
 [^1-p268]: vii. 6-7. On the possibility of Pauline influence here see Bacon, *Is Mark a Roman Gospel?,* pp. 66, 6g, 70-I, 72. Cf. Taylor, *St Mark,* pp. 337-8. 2 ••• Vlll. I I.
+
 [^3-p268]: See above, pp. I ID-I3. 'Die Pharisaer stellen Jesus vor die Entscheidung, indem sie iiber seine bisherigen Taten hinaus eine Beglaubigung seiner Messiantat durch ein au13erordentliches Zeichen, namlich ein *Zeichen vom Himmel* (S.B. *Kommentar,* I, 726 f.) verlangen' (Klostermann, *Markusevangelium,* p. 76).
+
 [^4-p268]: viii. I 5·
+
 [^5-p268]: Cf. Taylor, *St Mark,* p. 365; Klausner, *Jesus of Nazareth,* p. 297; Klostermann, *Markusevangelium,* p. 77·
+
 [^6-p268]: vi. I 4-29. The inclusion in Mark's short Gospel of the comparatively long story of the occasion which led to the death of the Baptist is puzzling. The story is certainly colourful, but it has little religious value. Perhaps the fact that it contains a Latinism ( O"lTEKovi\\6:Topa, vi. 27: cf. Taylor, *St Mark,* pp. 3I6-I7) indicates that it circulated in Rome. This hostility towards the Herodian dynasty and its supporters, which characterises Mark, would be understandable, as we have noted (pp. 248-g), in Rome, where Agrippa II and Berenice held court and the latter's liaison with Titus was a cause of scandal. Bacon *(Is Mark a Roman Gospel?)* did not apparently take account of this last factor in his comments on pp. 64-5.
 
 *[p. 269]* ^pg299
@@ -551,7 +601,9 @@ Jesus is represented as foretelling the manner of his death. The author of Mark 
 1\. Pp. 277ff.
 
 [^2-p269]: viii. 3 I. This saying has been the subject of much debate, since conservative scholars have been intent on defending it, or parts of it, as an authentic utterance of Jesus: cf. Taylor, *B\_t Mark,* pp. 377-9; Klostermann, *Markusevangelium,* pp. 8o-2; Bultmann, *Gesch. d . .ryn. Trad.* pp. I63, 357; Manson, *Teaching of Jesus,* p. 226. However, what concerns us here is beyond dispute, namely, that Mark wrote this saying, containing its clear ascription of the death of Jesus to the Jewish authorities, in his Gospel for the Christians at Rome.
+
 [^3-p269]: viii. 34: it is to be noted that the idea of' cross-bearing' is not found in the older Rabbinic literature (cf. S.B. *Kommentar,* I, 587; Klausner, *Jesus of Nazareth,* p. 302).
+
 [^4-p269]: See above, pp. 57ff. The comment ofT. W. Manson is interesting in this connection: 'The implication of the words is that Jesus is aware of an irreconcilable hostility between the Kingdom for which He stands and the Empire represented by Pontius Pilate' *(The Sayings of Jesus,* p. I3I). The saying may well have been uttered by Jesus, and preserved in show that Jesus foretold that the Jewish leaders would cause him to be executed by the Romans, thus preparing his readers for the strange transaction that his account of the trial before Pilate constitutes.
 
 *[p. 270]* ^pg300
@@ -563,7 +615,9 @@ The tragedy for which Mark had thus prepared his readers quickly begins to move 
 This incident is followed in Mark by the hostile encounter with the Pharisees and Herodians over the tribute and with the Sadducees about the resurrection of the dead. [^3-p270]In the sequence of Mark's narrative, these incidents really constitute a kind of anticlimax to the preceding one, since that had ended with a practical declaration by the Jewish authorities of their intention to destroy Jesus. However that may be, what specially concerns us here is Mark's explanatory comments on the Tribute Money episode. He begins his Jewish Christian tradition; however, in using it here, Mark sought to 
 
 [^1-p270]: x. 33· Even Taylor admits that 'in its precision \[x. 33\] ... is a *vaticinium ex eventu' (St Mark,* p. 437, cf. p. 438). Cf. Bultmann, *Gesch. d.* ~n. *Trad.* pp. 23, 163.
+
 [^2-p270]: xi. 27-xii. 12: see above, pp. 249-50.
+
 [^3-p270]: xii. 13-27.
 
 *[p. 271]* ^pg301
@@ -591,6 +645,7 @@ are inspired by an antipathy to the followers of Agrippa 11 and Berenice
 3 [[Romans 01#^1-3|Rom. i. 3]]· 5 If the 'Chrestus' of Suetonius, *Claudius,* 25, is meant for 'Christus ', thus 
 
 [^4-p272]: See pp. 246-7. indicating the existence of Messianic disturbances among the Jews of Rome (see pp. 96, 246), emphasis on the Davidic descent by the Jewish Christians could have been a potent cause of the troubles.
+
 [^6-p272]: It is likely that the term ypCXIJIJa&lt;EiS was well known to the Roman Christians as a designation for the official exponents ofJudaism in Rome: cf. Brandon, *Fall of Jerusalem,* p. 190.
 
 *[p. 273]* ^pg303
@@ -644,6 +699,7 @@ replacing by disciple-relationship is truly amazing, when it is recalled what th
 (Taylor, *St Mark,* p. 236). *gelica,* II, I ss-7; Bur kill, *Mysterious Revelation,* pp. I 36-7; E. Schweizer in *N. T.S.* X (I963-4), 425·
 
 [^3-p275]: iii. 3I-5. Goguel, *La naissance du Christianisme,* pp. I30-3, interprets thes11 passages as expressive of an early anti-dynastic polemic, but he does not connect this specifically with Mark.
+
 [^4-p275]: Pp. I6S-7· *18-z* his list of bishops of Jerusalem *(ibid.* rv. v) are eloquent in this connection.
 
 *[p. 276]* ^pg306
@@ -653,8 +709,11 @@ but he also shows a certain animus towards these members of the family of Jesus.
 This defamation of the family of Jesus is paralleled by a derogatory presentation of his Apostles, who formed the essential nucleus of the Jerusalem Church. Although Jesus is described as specially choosing these twelve men, 'to be with him, and to be sent out to preach and to have authority to cast out demons ',2 they show themselves, according to Mark, as signally failing to justify their selection. They generally fail to understand their Master's true nature and mission, and they lack his miraculous power. [^3-p276]They quarrel among themselves over precedence and their future rewards, [^4-p276]one of them finally betrays him, [^5-p276]and, when he is arrested, they all desert him and seek their own safety. [^6-p276]It is indeed a most depressing picture of spiritual insensitivity, ambition, greed, and moral cowardice, and 1 See above, pp. 2o8ff. The traditions recorded by Eusebius of the status of the Lord's family in the time of Domitian *(Hist. eccl.* m. xix-xx) and 2 iii. 14. 
 
 [^3-p276]: ix. 6, 10, 18, x. 13-16, 28-31, 32. Cf. Bacon, *Jesus and Paul,* pp. 149-50.
+
 [^4-p276]: ix. 34, x. 35-45·
+
 [^5-p276]: xiv. 10, II, 20, 21, 43-5·
+
 [^6-p276]: xiv. so. 1 •.• Vl11. 33·
 
 *[p. 277]* ^pg307
@@ -664,7 +723,9 @@ it is unrelieved by any final rehabilitating act of courage or faithfulness. Par
 It seems likely that the Caesarea Philippi episode provides the best clue to understanding this derogatory presentation · of the Twelve Apostles, and particularly of Peter, by the author of Mark. On analysis, the episode witnesses to two related facts which were 
 
 [^2-p277]: ix. 5-7. It is difficult to understand the purpose of the Transfiguration in the structure of the Markan Gospel. It is, in effect, one of the divine attestations of the Divine Sonship ofJesus, the other being at his baptism (i. u). On that occasion the divine voice was heard by Jesus only ('The subject of e\\Sev is Jesus', Taylor, *St Mark,* p. 160). At the Transfiguration the living witnesses were the three leading disciples, but they did not understand. As we shall see, the first human being who recognises the Divine Sonship is the Roman centurion on Calvary (xv. 39). There is much reason for agreeing with H. Baltensweiler in his monograph on the Transfiguration *(Die Verkliirung Jesu: historisches Ereignis und synoptische Berichte,* Zurich, 1959, p. 115): 'Markus hat also deutlich einen Gegensatz herausgestellt. Auf der einen Seite stehen die Gestalten der drei "unwissenden und sich fiirchtenden" Jiinger, die gerade dadurch in ihrem Un-glauben und in ihrer Verhlirtung gezeichnet. Auf der andern Seite aber steht uiTISo hoher und iiberlegener die Gestalt des Messias als des " Sohnes Gottes ".'It would, accordingly, appear that the episode has its place in Mark's apologetical theme, namely, that the Jewish disciples recognised Jesus as the Messiah but failed to comprehend his divinity. See below, pp. 278ff. Cf. Burkill, *Mysterious Revelation,* pp. 168-72.
+
 [^3-p277]: xiv. 66-72 (cf. *vv.* 29-31). Goguel thought that the story of Peter's denial is not historical, but grew out of the dialogue recorded in xiv. 29-30. In the context of our subject what is important is that Mark chose to include this derogatory story about Peter.
+
 [^4-p277]: Cf. Cullmann, *Petrus2,* pp. 78-178 (E.T. pp. 7o-152). 1 ... Vlll. 29, 31-2.
 
 *[p. 278]* ^pg308
@@ -674,6 +735,7 @@ undoubtedly of crucial significance to the author. These facts find expression i
 All this evidence of intent to diminish, and even to controvert, the authority and prestige of the original disciples, must also be seen in conjunction with the Markan presentation of the family of Jesus. Thus, although he does not actually mention James, the brother of Jesus, the author of Mark represents, either by direct statement or by implication, the two outstanding members of the Jerusalem Church, namely, )ames and Peter, as men who failed to understand the true nature and mission of Jesus. 
 
 [^2-p278]: viii. 31: Ked ~ETa Tpeis Tj~epo:s &vo:cnfjvo:t. Cf. Bultmann, *Gesch. d . .ryn. Trad.* p. 163, n. 2.
+
 [^3-p278]: 'Car au moment meme ou Pierre a fait la declaration "tu es le Messie ", il devait, d'apres le recit de Marc, deja a voir la *conception diabolique* du role du Messie, celle que la majorite des Juifs partageaient et qui excluait sa souffrance' (0. Cullmann, 'L'ap6tre Pierre instrument du diable et instrument de Dieu: la place de [[Matthew 16#^16-16|Matt. 16: 16-19]] clans la tradition primitive', *New Testament Essays,* ed. A.J. B. Higgins, p. g6). See above,
 
 *[p. 279]* ^pg309
@@ -703,9 +765,13 @@ Although, in the interests of his apologetical theme, the author of Mark thus re
 How far the author of the Markan Gospel was influenced by Paul's teaching has often been discussed by New Testament scholars. [^2-p281] This discussion seems frequently to have suffered from the tendency to seek in Mark clear indications of ideas that are known to us through Paul's Epistles. But it is improbable, in view of the state of the *Corpus Paulinum,* that many of these writings would have been available in Rome at this time. [^3-p281]The more likely situation would be that Paul's sojourn in the city would have made his main ideas known to the Christians there. [^4-p281]These would have been that Jesus was a divine being, incarnated to fulfil God's plan for mankind's salvation, and that this salvation had been accomplished by his crucifixion. The manner of this soteriological transaction involved much esoteric thought, as we have seen,[^5-p281]and it is probable that it was not clearly understood by the Christians of Rome. But what was important is that they had learned from Paul to see in Jesus a divine being who had saved them from spiritual perdition, and not 
 
 [^1-p281]: Pp. 310ff.
+
 [^2-p281]: Cf. Bacon, *Jesus and Paul,* pp. r6, 143-54; Moffatt, *Introduction to the New Testament,* pp. 235-6; M. Werner, *Der Einflufi paulinischer Theologie im Markusevangelium (passim);* Taylor, *St Mark,* pp. r6-r7, 125-g; Burkill, *Mysterious Revelation,* pp. r 73-4.
+
 [^3-p281]: Cf. Brandon, *Fall of Jerusalem,* pp. 213 ff.; G. Zuntz, *The Text of the Epistles* (London, I 953), pp. 2 I 7-20, 225-6.
+
 [^4-p281]: Whatever may have been the fate of Paul, according to [[Acts 28#^28-30|Acts xxviii. 30-1]] he spent at least two full years (SteTicxv OAT)V) teaching in Rome.
+
 [^5-p281]: Pp. 151 ff.
 
 *[p. 282]* ^pg312

@@ -31,7 +31,9 @@ converted: 2026-10-07
 (b106.)[^164]/: The Lord continued to tell about an incident with a certain king, having as wife an oracle filled with \[all the\] sciences. That king lived more than 1000 years, and
 
 [^162]: Zohar 2.99 is a likely source for these tales of the hidden princess and her aspirant.
+
 [^163]: [[Torah 07 - Vayetzei#^29-15|Gen. 29. 15 ff.]]
+
 [^164]: 68 lacks this dictum; 69/1 fails to include the "close interpolation" mark at the end, cp 44.
 
 *[p. xlii]* ^pg42
@@ -45,10 +47,15 @@ then he made a statue, ordering 7 provinces he had conquered to bow down to it a
 110\. You have not come yet to *Das*, since *Das* is that hidden *Das* and the *explication* of the word *Das* means knowledge, that is, Know before whom you stand.[^170] And if you
 
 [^165]: [[Psalms 034#^34-22|Ps 34.22]]
+
 [^166]: Jb 19.26
+
 [^167]: Cf. [[Torah 08 - Vayishlach#^32-31|Gen 32.31]]
+
 [^168]: 68 lacks the two interpolations in this dictum
+
 [^169]: 69/1 lacks *Przez Cień* (by means of a shadow)
+
 [^170]: [[Pirkei Avot 02#^2-14|Avot 2.14]] (but *‘amel* vs *‘omed*); or, Ber 25b (in plural); *otzar ha midrashim, eliezer, 20*
 
 *[p. xliii]* ^pg43
@@ -62,8 +69,11 @@ already were in this *Das*, you would no longer be subject to defect, to sicknes
 112.[^174] I have set you up \[made you\] just like a mirror which is transparent and I myself would have been the backing; that is, the silver foil of that mirror. You, in your turn, ought to have been like that for the Company and afterwards for the whole world. Now I have had to remove that silver foil and you have been left like plain glass in which it is not possible to see oneself. If, for example, several lords should come {with their servants} to a certain lord to pay him a visit /:and this lord would be coming out with his servant to welcome them:/ and if this servant {one of the servants} should jump out in front of his lord {and the one who was receiving the visit} and himself would start talking with the guests, /:and the lord would be left behind saying nothing:/ would that be right? But you were doing so. {So it is with you.} I came from Lwów to Warsaw in \[17\]60, I was doing {I was to have done} what I needed to do to stir the lords to anger at all costs, I was working {I was to have worked} all kinds of unpleasantnesses on them, and you jumped out in front, 6 of you in Lwów and 6 in Warsaw, and you were telling things about me which I did not order you to, and from the start you already began to oppose me. From that time I remind you, if you want to be whole don't listen to any people, for there is no man who could be a degree higher than you because the soul has not yet been infused, as I was telling you before. Follow only the true God, be obedient to everything that you hear from me, then you will be able to reach a good result, and I tell you this, Let all your deeds be \[done\] in truth and wholeness, without deceit, and when you see that one of you is speaking evil, you should scold him for it, and if this doesn't help, you must distance yourselves completely from his ways. When I came out of Częstochowa, I told you that I would take off your heads, but God forbid that I do it. I did not come to kill anybody, only to put you down so that you not \[act like\] chiefs over the Company.
 
 [^171]: 68 has *mieyscu* (place) and the mistake has been corrected by a different hand to *miesiącu* as 69/1.
+
 [^172]: [[Psalms 002#^2-7|Ps 2.7]]; 68 lacks the interpolation, the translation as well as the Hebrew transliteration.
+
 [^173]: [[Ecclesiastes 11#^11-9|Eccl 11.9]]
+
 [^174]: I have inserted material from 68 here using braces; the interpolations of 69/1 are marked with the usual /:...:/. In its rendition of the parable, 68 has a servant of the visiting nobles leap out between them and the host; in the historical passage relating the occurrences in Warsaw in 1760, 68 uses an irrealis form.
 
 *[p. xliv]* ^pg44
@@ -73,10 +83,15 @@ already were in this *Das*, you would no longer be subject to defect, to sicknes
 114\. My present journey must be openly revealed to everybody, and the one who follows me, even though he might conceal however he acted badly, there will come a time when all his bad deeds will be openly revealed. Those, however, who have good deeds, those likewise will be revealed, like a pump that pours water out at a farm so is it with you, If your deeds will be naughty then you will come to a low thing, and if they will be good then you will come to a pure thing and beautiful, as it clearly stands, Make yourselves holy and you will be holy;[^178] just as the proverb says, As we to our God, so God \[is\] to us. Similarly, as a husband loves his wife, so she \[loves him\] in response; they counsel each other together and rejoice in what befalls them; so, he who pays \[me\] honor, him will I honor in return. Also, when you are told something then 6 of you should come together and consider well whether you should heed it or not, as it stands, Weigh \[carefully\] the steps of your path.[^179] On the other hand however you have intelligence, you should say, We have come to this estate following our leader, why should we listen to another man now? At the beginning also, when you came to me in Dziurdziów, you should have inquired, saying these words, The Truebelievers who are now in Poland, are now in difficulties, What do you advise? and I should have answered. But you came to me and began to sing songs. It is however customary to do only what the host says, therefore I had to distance myself from you right away. At the beginning as well, after having come to Rohatyn at the Polish border, at that time you had disputes with the Jews, and you sent messengers to me. Why did you not, in a natural way, ask, Why have you come here to us? and Give us advice; but you asked me whether I had come by the orders of those who were left of the Second, the priest[^180]*etc*? and therefore I had to chase you out to Walachia with a mighty hand to people whose language you did not even know, and you very nearly fell into the hands of Tatars, if it had not been for a special favor from God which protected you. And therefore you had to bear hard imprisonment and to take flogging and be bound by chains until God took pity on you and your children. And I sent a weak man
 
 [^175]: Nb 23.9
+
 [^176]: From this it seems clear that Pol. *narodów*, “peoples”, translates Heb/Yid *goyim*, “non-Jews” in many of the dicta. *Narodów* also translates Heb. *‘amim*, “peoples,” this term meaning “non-Jews” as well, cf 622.
+
 [^177]: The word “estate” is used here and elsewhere in the sense of “caste,” primarily indicating “religious community” to translate Pol *stan*, “position, status,” e.g., “Turkish estate” means Islamic religion.
+
 [^178]: [[Torah 30 - Kedoshim#^20-7|Lev 20.7]]
+
 [^179]: [[Proverbs 04#^4-26|Prv 4.26]]
+
 [^180]: *Kaplan*.
 
 *[p. xlv]* ^pg45
@@ -86,7 +101,9 @@ named Osman to save you from that place where you were thrown and he led you thr
 115\. I told you in Iwanie that there is a certain herb in the earth which cannot be pulled up except in silence. King Solomon said that also, A time to speak, a time to be silent.[^183] You should not have uttered a word among \[other\] people. I also told you that a certain lord asked me whether the true God is among you? and I answered him that it stands in prophecies and is written in the Bible. He told me, I know it even without you, because I already read about it a long time ago, and I studied it, but I am asking you whether there is some new thing among you, if there is a God who is able to give eternal life? But you did not draw any wisdom from my simple tales. One must understand and study well in order to understand my simple stories. Therefore, from now on I will not reveal anything to you unless you will be worthy. If I would see that lord now then I would show him the truth and he would give me half of his riches. Be you worthy to see with your own eyes, and every one of you will see and will understand, as each heart dictates. Similarly, I told you a few adventures from Bucharest; it was for you to determine whether I, who came to lead you to religion, was telling idle things. It was for you to understand that in this foolishness hidden wisdom was found, and everything which appears from above as a deadly herb, inside \[it\] there is contained the herb of life. I gave you a good thing but I covered it on the outside with a screen which in your eyes was ugly, and therefore you did not understand anything and did not find anything. Before you were born, I felt birth pains with you, and now, when you have almost been born, I still feel pains with you.
 
 [^181]: 68 lacks the interpolation; 69/1 lacks the material from 68 which follows (in braces), *y mowiliscie ze juz Dusza iest na Swiecie y poznali, u kogo jaka iest, y daliscie Pomazanie*.
+
 [^182]: 68 lacks the interpolation; it has *wraz*, (together, at the same time).
+
 [^183]: [[Ecclesiastes 03#^3-7|Eccl. 3.7]]
 
 *[p. xlvi]* ^pg46
@@ -100,9 +117,13 @@ named Osman to save you from that place where you were thrown and he led you thr
 119\. I am still weak in the breach[^188] because I am waiting and hoping for the thing which was prepared for me in Iwanie, the one that those two women saw with me, two bulges emerging and a third began to emerge and so on until there would have emerged five.
 
 [^184]: 2 S 6.20
+
 [^185]: Gen. 26. In the Zohar the well is often a symbol of the sefira Malkhut, the sefira of the Shekhina.
+
 [^186]: Jacob is the choicest of the patriarchs, Gen R 76.1
+
 [^187]: Cf. [[Zohar 4.03 - Parashat Shemot#^z2-12b|Zohar 2.12b]]
+
 [^188]: I.e., hernia. 68 has *na bróch* (as if from German); 69, *na broch* (Yiddish, cp. Hebrew *shever*).
 
 *[p. xlvii]* ^pg47
@@ -112,6 +133,7 @@ The majority /:the egress:/ of the bulge /:was:/[^189] would have reached above 
 120\. There was \[once\] a bear. During its absence its children were taken from the lair. Out of the great pain of not finding the children \[when she came\] back, the bear fell upon the village and wounded animals and people. The elders of the village sent to it the following order, If you will not leave us, then we'll bring two districts together and destroy you. The bear laughed and sneered at it. They sent the same message again with a memorandum that, We'll gather 4 or more districts. The bear made fun of it again. Finally it was sent to \[the bear\] with these words, saying, In our village there are 4 brothers. We shall send them against you. When \[the bear\] heard this, it collected itself and went off on its way, after having withdrawn from the village right away. So it is with you. I set you up as Brothers so that I myself would not go upon these dangerous roads, so that you would be my helpers, but you did not want it. From now on I admonish you that you be whole with God and people with all your heart, without falseness as you have been till now; at that time you'll be worthy to see what God does in this world, and everything, particularly his miracles and his greatness. If, God forbid, you turn away to the other side and you don't listen to that which I order you, then you'll see everything but will understand nothing. Even those who stand outside will understand more than you do; but after having heard what they talk about with each other, you'll understand it yourselves. Be therefore in wholeness; you will be worthy to see and know the clothing of Esau. That robe is stored away here in this world, not in any other; You will also understand why the kings divided Poland among themselves; most especially I remind you not to have an unfeeling heart towards what I order you, because he who hardens his heart, that one, God forbid, falls into the evil power. When a man hardens his heart against one thing, then even if somebody comes to him and tells him some good thing from God himself, this nevertheless does not reach his ears and he listens no more and does not accept it, because he has blunted his heart to one thing already. Therefore, I remind you, be careful. I tell you this, If you will be in wholeness with God with all your heart, no powers will be able either to hold you back, nor to hurt you. A proof of that is the mission of Jakubowski and Ludwik[^190] to Constantinople. Despite the fact that the vizier set himself against them and sought to destroy them, he fell from his office and was killed by the order of the sultan that same day. And so they have returned to me in peace, because they were messengers from me by the order of God. And who can do evil to such? I had also the power such that whatever I would just let out of my mouth, be it bad, or be it good, it was carried out right away, as it stands, He commands and it is fulfilled immediately, and that power was prepared for you, and I had hopes to acquire higher power, but, seeing that you had fallen in this net, and I had to become angry with you and curse you, because you would have, God forbid, perished in the twinkling of an eye, therefore I had to let that power slip from my hands. You say that we are doing the will of God. Who ordered you and from where do you know which deed is the will of God? Indeed, it stands, To do
 
 [^189]: 68 lacks the interpolations.
+
 [^190]: Ludwik Wołowski (Shor)
 
 *[p. xlviii]* ^pg48
@@ -127,12 +149,19 @@ your will, o my God, I long,[^191] which is interpreted, When God orders, and no
 124\. All efforts of the ancestors were dedicated to this, that they might pursue that Maiden, upon whom the whole of life depended and who gives protection from all evil; no weapon has any power over men because of her help. Just as the Patriarchs dug a well,
 
 [^191]: [[Psalms 040#^40-9|Ps 40.9]]
+
 [^192]: 68 lacks the interpolation.
+
 [^193]: Gen 34
+
 [^194]: [[Torah 10 - Miketz#^42-25|Gen 42.25]]; cf 43.12
+
 [^195]: On the Seventy Languages, see Ginzberg, index; on Jacob’s loss of these languages, see [[Zohar 12.06 - Piqqudin#^z2-41b|Zohar 2.41b]].
+
 [^196]: Cf 185 n
+
 [^197]: [[Torah 08 - Vayishlach#^32-12|Gen 32.12]], Rashi ad loc. and Gen R 76.6
+
 [^198]: [[Torah 08 - Vayishlach#^32-26|Gen 32.26]] (Frank is referring to his own illness as well.)
 
 *[p. xlix]* ^pg49
@@ -146,9 +175,13 @@ and Jacob found a well, and at it Rachel, and removed the rock from that well;[^
 127\. Since the beginning of the world there has not yet been even one man such as would know the true God, the one whom we hope to see in his splendor; His name is not known yet, even his byname is known to no one and no one knows the place of his habitation,
 
 [^199]: [[Torah 07 - Vayetzei#^29-2|Gen 29.2-10]]
+
 [^200]: [[Torah 13 - Shemot#^2-16|Ex 2.16-21]]
+
 [^201]: In addition to the thirteen years he spent in prison in Częstochowa, Frank spent thirteen years in Brno before moving to Offenbach. The first part of the dictum belongs to 1773; the last, to 1786.
+
 [^202]: [[Ecclesiastes 09#^9-8|Eccl. 9.8]]; 52n
+
 [^203]: [[Torah 30 - Kedoshim#^20-7|Lev. 20.7]]
 
 *[p. l]* ^pg50
@@ -168,9 +201,13 @@ only that in this world there are very many gods and they look like people, they
 132\. It stands, that Jacob loved Rachel,[^208] and it does not stand, that Rachel loved him.
 
 [^204]: [[Zohar 9.11 - Parashat Pinehas#^z3-246b|Zohar 3.246b]], Tik 70.232a
+
 [^205]: [[Isaiah 02#^2-10|Isa. 2.10]], [[Isaiah 02#^2-19|19]], [[Isaiah 02#^2-21|21]] all have before/from the fear of God. (None have the phrase, “they will hide” directly preceding this.) The compound preposition *mipne* can be understood as “from” or as “(from) before,” and is equivocal as to the government of time/place, while the preposition *mi(n)* can also be separated from *pne* and support Frank’s reading.
+
 [^206]: 68 lacks this interpolation, set beneath the dictum as here.
+
 [^207]: This would seem to refer to the establishment of the Sisters (see Doktór). Perhaps Frank associates the seven maidens of Esther (Est 2.9; i.e., the planets, the seven lower sefirot, cf. Zohar 3.251) and the seven sisters of Zipporah, the wife of Moses, with these (invented) seven sisters of Rachel. ([[Zohar 4.03 - Parashat Shemot#^z2-12b|Zohar 2.12b]] associates Rachel and Zipporah with the well.)
+
 [^208]: [[Torah 07 - Vayetzei#^29-18|Gen 29.18]]
 
 *[p. li]* ^pg51
@@ -188,6 +225,7 @@ only that in this world there are very many gods and they look like people, they
 138\. There was once a prince to whom a dream appeared three times. He was carrying a quiver carved with the sun on one side and the moon on the other. When he awoke he begged his father to have that quiver brought to him, at any cost. His father summoned his most important nobles and sent them off to many countries, over seas, to find the quiver of the sun and moon. They went, but came back having gained nothing and lost everything. Next he selected his greatest senators. But these too returned, likewise unsuccessful, tired to death and worn out as well. It so chanced that a certain prostak named Iwan Iwaniewicz, a Russian prince, happened by. He began making fun of the gentlemen, laughing at them. They, being completely worn out, were on their way back. He repeated his acts several times until he had aroused their anger and they began to beat him. But he, in his turn, thrashed them all. The gentlemen, greatly offended, went to the king and reported that, A vile man has appeared here laughing at us and several times making fun of us. The king had him summoned. When asked why he had made light of the gentlemen he answered, Why shouldn't I have a little fun with people who set out to search for something without knowing the path or way that leads to it? And the king asked him, And do you know the place? He answered, I know there are three bridges, one of brass, the second of copper and the third of iron. I must first cross them and only then will I be able to find that thing the king seeks. /:Here the Lord added, The Truebelievers know nothing. There are black, red, copper, iron, silver and golden people, and mountains likewise.:/After a long ride, they came to the first bridge, the one of brass. Iwan said to his two men, Stay here on this side of the bridge, but do not fall asleep during the whole of the night. Amuse yourselves however you choose, play cards or anything else, but do not sleep. He stretched a white towel above their heads and said, As
 
 [^209]: [[Zohar 9.06 - Parashat Qorah#^z3-178a|Zohar 3.178a]]
+
 [^210]: 1 S 22
 
 *[p. lii]* ^pg52
@@ -203,7 +241,9 @@ teaching, but only to bear the burden of silence.[^212] By my parable you see th
 139\. To this thing, to which they were going, one must necessarily go at night, that is in the darkness, because during the day this thing would be exposed to everybody; and first Iwan came to the iron bridge. He showed it to his colleagues, Its length was 3 leagues, and near that bridge there was a little house in which he told them to wait, and he himself went under the bridge. When Three-heads came to the bridge, his horse, being frightened, jumped a whole league back. The one sitting on his horse said to his steed; Why are you afraid? Is Iwan causing you fright? I have destroyed so many already that I'll get rid of him easily. At these words Iwan flew out from under the bridge, shouting, Not to lose, but to take have I come here. The second was a bronze bridge, its length was also 3 leagues. The horse of the sevenheaded knight jumped back one and a half leagues. And again it was said and done, as above. Likewise Seven-heads was killed, just like Three-heads, by Iwan, his comrades arriving at the signal. Iwan, having come to the third bridge, found it all gold, and at each bridge he rested himself with his people 3 times for 24 hours. Having come to the 3rd, golden, bridge, Iwan leaned his head upon his hands as though he were worried and afraid. The men asked him why he was afraid? You have crossed two bridges already and God helped you, \[Surely\] You will overcome the third? Iwan answered, Here it is all golden, and the one who comes to oppose me has 9 heads, And again, as before, he ordered them to watch and to stand in the gate and at the ringing of the bell on the gate, he commanded \[them\] to hurry and rush to his aid. I warn you, said Iwan, be brave and fearless of heart so that, God prevent \[it\], you might not perish, because one cannot flee from the field. Iwan came to the golden bridge. The nine-headed knight jumped back with his horse also a league and a half. Same questions to the steed. NB. The first /:the second:/,[^213] the one which had 7 heads, wounded Iwan in his arm. The nine-headed one, fighting with him, wounded him some more. Iwan, with the help of wisdom /:that he hit him every time from a different side, Thrashed him:/ cut him from this side and that side; and \[by the time\] his people came to him according to the sign, he had already cut off three heads of that nine-headed one. After they came, the remainder of the heads fell beneath his sword. Wisdom itself dictated to him to take people, dogs, and birds, so that one would fight the other. And so did I take you, so that you would help me and keep guard against a very terrible thing, against which I must go, so that everyone would do what belongs to him and you /:would:/[^214] have guarded against that one thing,
 
 [^212]: [[Isaiah 21#^21-11|Isa 21.11]]. Frank takes the themes of the burden of silence according to the reading of this verse in the [[Zohar 2.05 - Parashat Toledot#^z1-144a|Zohar, 1.144a]] treats of Jacob’s rule over the day and Esau’s over the night; 2.130b, of the difficulty of the burden and its secrecy; 3.22a identifies the matter with the Edomic (i.e., Christian) exile.
+
 [^213]: Added to 69/1 by a later reader.
+
 [^214]: 68 lacks this interpolation and the preceding one.
 
 *[p. liv]* ^pg54
@@ -215,8 +255,11 @@ and if only as much of it as the point of a needle had appeared to you, then aft
 141\. A man who had the gift of supernatural vision set out to ask the Sun a question. On his way he met a man who asked him where he was going. The wiseman answered, I am going to the planet of the Sun. The man asked, Ask the Sun as well why it is that my neighbors' fields yield so richly while from my own I gather[^218] less than enough to satisfy the needs of my own house? The one who had the power of seeing all promised to do so. He then went on and came to a river. The river asked, Where would you be going? To the Sun, he answered. The river asked him the following question, Why is it that every sort of water holds fish but I cannot produce them? Ask that of the Sun. He promised. He
 
 [^215]: On 138, 139 (137-8) see Sela.
+
 [^216]: 68 lacks this interpolation.
+
 [^217]: Mateusz Matuszewski (dic. 12); Michal Wołowski (Natan Shor) (dic. 45); Franciszek Wołowski (Shlomo Shor), another of the sons of Elisha Shor of Rohatyn, a close companion of Frank’s and probably one of the Brothers.
+
 [^218]: 69/1 changes hand here to a less ornate style, drops page numbering and though it seems unlikely another recension has been introduced, this compares to 69/2 etc.
 
 *[p. lv]* ^pg55
@@ -228,9 +271,13 @@ went on. He came upon a beautiful tree, but it was barren and dry. The tree, too
 143\. At the beginning we needed a plain baptism. But now it is necessary for us to go to *Das*, and I am with you, except that I am already baptized, and you are not yet. Why is that so? Because you were not following the one sent by God. For this thing, however, we need \[both\] masculine and feminine genders. It is impossible to do without them. Because we must say to one, You do this, and to the other, You carry out that, \[and\] exactly the same to the women. Now, however, this must wait days or years yet, before it will reach that thing. However, I will not be able to bring you closer, as it was at the beginning, unless you will be so humble and meek[^223]as a threshold upon which everybody treads; if you will be able to bear it, maybe you will come to a good thing. Now I tell you, when the good God will reveal himself on this world, your joy will be great. But if you see the one thing lost by you, you will become sad and will be very
 
 [^219]: 68 *odkąd* , 69/1, *od kiedy*
+
 [^220]: 68 lacks *i mnozyć*, (and to multiply).
+
 [^221]: 68 lacks *zowie* (called).
+
 [^222]: [[Torah 49 - Ki Teitzei#^22-6|Dt 22.6]], cf. *otsar ha-midrashim*, *gan ‘eden ve-gehinom* 10 (among others), e.g. [[Zohar 4.03 - Parashat Shemot#^z2-7b|Zohar 2.7b-8a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-196b|3.196b]].
+
 [^223]: 68 lacks *pokorni* (meek).
 
 *[p. lvi]* ^pg56
@@ -242,9 +289,13 @@ sorry. After this talk, the Lord began to sing these words, *Hukiem alma iehiduh
 145\. At the beginning the Lord referred to a certain rock, to which innumerable people gathered, but only one in a thousand returned from it. He, who could have intercourse with that rock and bear it, such a one could live several thousand years, and these people live till today.[^227] There is also another rock of masculine gender, which is called *Affra*, because they fasted at it and fell into its hands. There is also one who lives in a deep, dark hollow, fear and blackness surround her; she herself is black and her eyes are white.[^228] She stays alone, without anybody, always sad, and the criminals of the other side cannot do any evil until they make a sacrifice to her; at that time, she gives them the power of carrying out their vileness. A great many thousands of men and women fall there. If God had not guarded you, then you would have, God save you, been near that fall, for she knows that if you should approach that thing to which I lead you, then she would be destroyed. She prevented you to go from Warsaw to Częstochowa, so that you would not come close to that great power beneath which she stands. There are yet 4 maidens and another 4. If you want to understand this, attend to that mirror with that white \[silvering\] foil, When it is \[there\], one can see oneself, without it one can see nothing. \[It is\] enough for a wise man. If you understand it, you understand. I cannot reveal to you any more. I ordered you and the whole Company to go to Częstochowa; why did I do it? I will tell you in parable, There was a king who had in his court room a statue in which was found
 
 [^224]: 68 transliterates the Aramaic, *Hokem almo iehidoho weachabesch bechabschuso moro dechaio bischmaio weschalit beiabeschto.* (68 uses a Germanic transliteration scheme, as opposed to one based on Polish orthography.). The verses from the hymn for the first day of Shavuot (‘*akdamut milin* by R. Meir b. R. Yitzhak of Worms) have been reversed and the (Aramaic) word preceding (*murro*) *marei*, *hadar* has been deleted and the original phrase, *marei shmaya*, “lord of heaven,” has become “Lord in Heaven” instead of “Glorious Lord of Heaven. The text of 69 differs from the common text. Frank (?) has also inserted what appears to be the word *dehaya* (*dehoio*) following *murro*, i.e., the 3 ms perf., “that was.” This Shabatian rendering of the verses would appear to be like the adaptations of other prayers, cf. those published by G. Scholem, 1941 or the hymns, Attias, Scholem. On the other hand, Professor Liebes has written me that he believes that the differences are simply due to mis-remembering the text. This happens as often as it happens that Frank constructs his own quotations from traidtional literature.
+
 [^225]: In 1778 Frank wrote to followers in Warsaw, demanding 3000 zl. See Chronicle, 99.
+
 [^226]: [[Song of Songs 6#^6-3|Song 6.3]]. Doktór points out that Shabtai Zvi opened his first letters after conversion to Islam in this fashion.
+
 [^227]: 68 lacks *i ci ludzie dotąd zyią* (and these people live till today).
+
 [^228]: While trapped in evil and in blackness, some aspect of her essence is white. See 52, 63 n
 
 *[p. lvii]* ^pg57
@@ -258,8 +309,11 @@ the power of the Maiden. When people came to trial, the king looked at the statu
 148\. In May of 1783 the Lord said, What is that dream which Jacob saw and what is it that he said, Oh, how fearful is that place. It can be nothing else but the house of God!![^232] Know this, if I am Jacob, then you are my children. Be in wholeness, and you will become worthy to enter openly that which Jacob saw in a dream; you will see openly; because everything that Jacob saw was as accurate as is a drawing from a picture, which must be filled in, and therefore he saw it only in his dream. But now the house of God will be visible in the open, and you will rejoice. Seeing that in the open, you will understand and recognize that we go now along that road which Jacob drew for us. Jacob
 
 [^229]: 68 lacks the *-by*- particle here and below, *powinibyście* (you should have been/covered)
+
 [^230]: [[Torah 07 - Vayetzei#^28-17|Gen. 28.17]]
+
 [^231]: [[Torah 08 - Vayishlach#^32-30|Gen. 32.30]]
+
 [^232]: [[Torah 07 - Vayetzei#^28-17|Gen. 28.17]]
 
 *[p. lviii]* ^pg58
@@ -271,15 +325,25 @@ saw a ladder,[^233] but he did not step upon it even onto its first rung; if you
 149\. Jacob did his thing *regularly* \[properly\] in that he, going to Esau, placed his servant girls with their children in the front, then Leah with her children behind them, and at the end he arranged Rachel and Joseph.[^235] He put Rachel in front of Joseph so that Esau would see her, and he acted as was proper. Through her a great good would have come to the world, but Joseph, not being aware of it, was afraid that Esau might see her and concealed his mother with himself.[^236] That which Joseph did was not good and at the end he regretted it himself, because he did it against his father's will. Because of that he had to be sold by his brothers, and from that they went to Egypt—he, the father, all the brothers, and all of Israel.[^237] Equally Balak, who listened to Balaam's advice, which was for the good of the whole world, saying, Do what this people will do to your people in the last days.[^238] Balak took a daughter from Tyre,[^239] and dressed her in various hieroglyphs with the power of enslaving and working charms, admonishing her that she must absolutely have union only with Moses himself.[^240] If Moses had done it, great good would have come to the world; Moses did wrong, therefore so many Israelites fell, and therefore Phineas killed those two.[^241] Also \[concerning\] Esther this thing did not go well. Mordechai likewise did wrong, because he passed her to Ahasuerus.[^242] If these things had gone properly then there would have been no death in the world. But now we must go in wholeness and although you will see with your own eyes that a thing may be bad according to your thinking, do not question nor test \[it\], because my thoughts are not your thoughts. This is a new road, which has never yet come to man's thought since the beginning. Undoubtedly, this is a difficult road, because in that one road there are two roads, as it is clearly expressed, The ways of God are just. The righteous will go along them, and the godless will perish.[^243]
 
 [^233]: [[Torah 07 - Vayetzei#^28-10|Gen. 28.10 ff]] and Zohar 1.149
+
 [^234]: [[Torah 29 - Achrei Mot#^16-3|Lev. 16.3]].
+
 [^235]: [[Torah 08 - Vayishlach#^33-1|Gen. 33.1f]]
+
 [^236]: [[Zohar 9.10 - Commentary on Balaq, continued#^z3-202b|Zohar 3.202b]], which includes the decription of Jacob’s act as proper. Frank inverts the midrash (cf. BR 78) as well as the Zohar text concerning the gaze of Esau. He also supplies an etiology for the descent into Egypt and the enslavement there completely different from that of the midrash.
+
 [^237]: The earliest occurrence of this idea is in the apocryphal work, Testaments of the Twelve Patriarchs, Testament of Naphtali 1-2.
+
 [^238]: [[Torah 40 - Balak#^24-14|Num. 24.14]]
+
 [^239]: Rashi to [[Torah 40 - Balak#^25-6|Num 25.6]]
+
 [^240]: Sanh 82a, Num R 20.24f
+
 [^241]: [[Torah 40 - Balak#^25-8|Num. 25.8]]
+
 [^242]: Est 2.7-8 with Meg 13a which has Mordecai betrothed to Esther
+
 [^243]: [[Hosea 14#^14-10|Hos. 14.10]]
 
 *[p. lix]* ^pg59
@@ -291,9 +355,13 @@ saw a ladder,[^233] but he did not step upon it even onto its first rung; if you
 152\. Once some Jewish preachers, highly learned, assembled in Bucharest. Old Rabbi Leiba asked me to receive them in my apartment during \[the holiday of\] trumpets.[^246] I did it, and took care of them at my house for 4 weeks, giving them a small apartment where they could read; and there was a privy not far away. There was some furniture, sofas, cloth hangings in the rooms. They stayed there; not knowing what was \[happening\] near them, they read endlessly. After having reported that to the rabbi, he told me, If they are unaware, give them a room and just let them stay there. So it is here. We entered a foreign country not knowing who is here a leader and who is the lowest sort, unless there be a leader who will point it out, and you did not ask me where you should go, and went off on your own. In your own eyes you were great and wise, you had got yourself into a deadly place, but the sea cannot hide dead things in it, therefore you were thrown out immediately, because I talked to you only about life, and not about death, therefore you must go *de novo* to rejoin the Company, as Solomon said, Go on the heels of the sheep *etc*.[^247] And when you will be worthy to get across those three steps,[^248] which we hope to walk, only then will you be worthy to reach Life. Because I called you by the name Brothers, so the whole Company followed you, and all fell. Now when I do not call you Brothers, you will all follow me step by step, and every day I will tell you, or will write what you have to do that day, the next day, and so forth. Only be careful to follow, heed
 
 [^244]: 68 lacks *za mną temie słowy* (the following words about me).
+
 [^245]: The theme of the pearl or precious stone recurs frequently. Frank employs it to address his unknown nature in particular (as here and in 41) and, in general, the unknown existence of objects of power and splendor hidden within others of the same sort but rough and unlovely (as in 334).
+
 [^246]: I.e., Rosh Hashana
+
 [^247]: [[Song of Songs 1#^1-8|Song 1.8]]. This verse, “If you yourself do not know, O fairest of women, go, follow the tracks of the sheep,” is referred to several times in the dicta. In the Zohar the “fairest of women” (the “moon”, 1.20a or the sefirah Malkhut, i.e. the Shekinah, 3.17b, 197-8) is set in a secondary position receiving nurture from the agency or agencies above her, nurturing those beneath.
+
 [^248]: Cf [[Torah 18 - Mishpatim#^21-11|Ex 21.11]]; cf 158, 319.
 
 *[p. lx]* ^pg60
@@ -305,8 +373,11 @@ and be obedient to me, because he who follows a man, that one surely has no atta
 154\. That golden thread, that is the tree of life, but those are strange deeds, which is to be understood, foreign in the eyes of \[other\] people.[^250] It is necessary to hold on to them, then all the winds will not be able to shake us.[^251] Whatever is now honorable and revered in the world, all this will fall and will perish. I established you 12, because what 2 eyes see is not equal to 24 eyes. You would be able to see with your own eyes how she holds her hands and how she looks with her eyes, although she might not speak with you for 8 days or 2 weeks, and only then talk with you. Steadfastness, means that though it may last 2 or 9 years, you must be steadfast. She is called the beautiful Maiden who has no eyes[^252] but she herself is a special eye.
 
 [^249]: [[Torah 03 - Lech Lecha#^12-2|Gen. 12.2]]
+
 [^250]: The “strange” (Pol. *cudzi*, Heb. *zarim*) deeds, here interpreted to mean “foreign,” are discussed by Scholem, 1971 esp. 132-3 (*The Messianic Idea in Judaism*, New York, 1971). See also Scholem, 1967 index, sv. *ma’asim zarim*. References to the concept occur in several following dicta. Strange rituals—see the English edition of the latter work, p. 160—are distinct from odd, even antinomian, behaviors.
+
 [^251]: 69 has *was*, “you.”
+
 [^252]: [[Zohar 5.03 - Parashat Mishpatim#^z2-95a|Zohar 2.95a]], i.e., that no eye can see her. As far as the Shekhina (or the Torah, as in the Zohar passage) being a single all-containing eye, see Cordovero, *pardes ha-rimonim*, *sha’ar* 23, “‘*ayin*” cp. [[Song of Songs 4#^4-9|Song 4.9]]. K 1.386 has Aramaic: *alümte schüperte deles lo ainen*.
 
 *[p. lxi]* ^pg61
@@ -316,16 +387,27 @@ and be obedient to me, because he who follows a man, that one surely has no atta
 156\. It stands with you, When the high priest came out from the holiest of places on the judgment day, the whole world rejoiced and it was said, *Aschre aïn roïso kol ele*—Blessed is the eye, which saw it[^259]—that was only a sign and a drawing for the present, when they will drag out the high priest from Rome and the whole world will rejoice at that time and praise God, saying, Fortunate is the eye which sees it.[^260] But you were only present at the likeness of that thing, but do not be mistaken and do not say that this is already from God. God forbid it, because when we shall come to Esau, only there will it be fulfilled, *Merochauk Adonay nero li* From afar God appeared to me.[^261] Only there[^262] and then shall we take up the robe of Esau. At that time the crippled will jump like rams and the blind will see.[^263] And when it will be revealed above the belly button, who can speak of it? Or who is of a degree able to reach that? Of there is it said, I will tread this vineyard myself.[^264]
 
 [^253]: *pesikta de-rav kahana* 2.6, 4.12; *pesikta rabbati* 14.8; but [[Zohar 2.05 - Parashat Toledot#^z1-142b|Zohar 1.142b]] is probably more relevant to the dictum since it compares Yakov to Adam ha-rishon. Frank reads *‘dm* as Edom, i.e., Esau
+
 [^254]: 68 *do* (to), 69/1 *od* (from) In either case, the reference is to the heel and leg of Adam Kadmon/the True Edom. See Attias, Scholem 59, poem 37n1
+
 [^255]: [[Torah 08 - Vayishlach#^33-3|Gen 33.3]]
+
 [^256]: Ob 1.21 and siddur, following the reading of Ex 15.
+
 [^257]: Prps. [[Psalms 077#^77-19|Ps 77.19]]
+
 [^258]: See Hag 12b (cp. *midrash konen*, 11) and [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-203b|Zohar 2.203b]]
+
 [^259]: From the piyut of Meshulam bar Kalonymus to the avoda of the musaf service of Yom Kippur.
+
 [^260]: The overthrow of Rome/Christianity is associated with the coming of the messiah. See Pesikta R. 37.7, etc.
+
 [^261]: [[Jeremiah 31#^31-3|Jer 31.3]]
+
 [^262]: 68 lacks *Tam* (there).
+
 [^263]: See *pirke de-rav kahana* 12.19.
+
 [^264]: See 69 n.
 
 *[p. lxii]* ^pg62
@@ -345,10 +427,15 @@ and be obedient to me, because he who follows a man, that one surely has no atta
 163\. All gods which are here in this world, even these three that govern the world, don't know about this deed, which that one will do. The Patriarchs will greatly rejoice when they will see this. In Poland, he will not work and I, likewise, won't act there. There will be such who will do this. At that time you will say, Since we are not worthy to see the lion himself, we see now the place of the lion. And it is not as it was said, that the revenge on Edom will be through murder and killing, God forbid, only by the mouth will the godless perish, even the talk to him will go tenderly. At that time all the noblemen in Edom will fear. Terror will embrace them and they will fall silent as a stone,[^270] wishing death for themselves rather than such life. They will look for help on the right and on the left hand, but they will not find it. No arms will help them, but you, who have attachment
 
 [^265]: Hebrew, “alien, stranger, foreigner,” “diadem.” This would seem to be a pun on the word “Czar” and the Hebrew word /zer/ or /zar/ which mean “(one who is) strange”, the latter prps related to the teaching concerning “strange deeds,” *ma’asim zarim;* 742.
+
 [^266]: 154 n
+
 [^267]: [[Torah 15 - Bo#^12-29|Ex. 12.29]] and the Haggadah
+
 [^268]: Prps. [[Torah 15 - Bo#^12-14|Ex. 12.14]]
+
 [^269]: Bbat 73b
+
 [^270]: Cf [[Torah 16 - Beshalach#^15-15|Ex. 15. 15-16]]
 
 *[p. lxiii]* ^pg63
@@ -364,12 +451,19 @@ to God, will sing and rejoice, saying, To you, o God, belongs the beauty, greatn
 166\. In May of 1783 the Lord said, I came to Poland for the first time in 1756. Surely, a man, going to a foreign country, must have a guard and a leader who would direct him, I also had a guard and a leader who stands before God. Without her nothing in this world can be opened, just as it clearly stands, *Pischi li Achoysi*—Open to me, my sister[^278]—Open to me only so much as the tip of a needle may pierce through, and I will open thereafter the high, great gates for you. It stands with you, *Hite de kike*—Hold on to
 
 [^271]: [[I Chronicles 29#^29-11|1 Chr 29.11]], but here, probably, from its use in synagogue before the reading of the Torah.
+
 [^272]: [[Psalms 079#^79-6|Ps. 79.6]], but here, probably, from the Haggadah
+
 [^273]: *sefer yetzira* 2.4 originally, but often repeated (Nachmanides to Dt 18, Zohar Tik 21.58a)
+
 [^274]: [[Torah 07 - Vayetzei#^28-12|Gen. 28.12]]
+
 [^275]: [[Zohar 2.06 - Parashat Va-Yetse#^z1-149b|Zohar 1.149b]]
+
 [^276]: 1 K 19.11-12
+
 [^277]: The theme of the voice/sound (of Jacob) causing other voices/sounds to join with it and bringing about change in the upper sefirot can be found in several passages in the Zohar; 3.38b and 99b-100a associate this verse ([[Torah 06 - Toldot#^27-22|Gen 27.22]], “the voice is the voice of Jacob, but the hands are the hands of Esau”) with the sounding of the shofar on Rosh Hashana, for example. See also [[Zohar 1.08 - Parashat Noah#^z1-74a|Zohar 1.74a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-151a|151a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-246b|246b]]. The general principle of the Zohar (3.31b is that “through an action below an action above is aroused.”
+
 [^278]: [[Song of Songs 5#^5-2|Song 5.2]]
 
 *[p. lxiv]* ^pg64
@@ -379,17 +473,29 @@ a thin thread[^279]—but I tell you that it is necessary to hold on to a golden
 167\. All roads, which we must walk, will be truly from God, but you will be led by a man. Just like that journey to Esau, to Edom, to the father of Edom; also that stick which the angel Gabriel stuck in the sea,[^291] must be ripped out by a man, from that place, where
 
 [^279]: The “thin thread”is at once the soul of the Messiah and the line that leads out from Eyn Sof into the “empty” world, after the contraction (removal) of God from the space but before creation. See Attias, Scholem, 35, 36 and index, s.v. *hut*. See also 214 n.
+
 [^280]: 68 lacks *które iey usluguią* (who serve her).
+
 [^281]: [[Psalms 103#^103-5|Ps 103.5]]
+
 [^282]: 68, *Cantica Canticorum*
+
 [^283]: [[Song of Songs 5#^5-15|Song 5.15]]
+
 [^284]: Song 11.9, note the alteration of the third word (*beyaldusecho*\*) to include the name of Frank’s “belief, knowledge,” *Das*.
+
 [^285]: [[Isaiah 61#^61-10|Isa 61.10]]
+
 [^286]: Cf. 1 K 7.25
+
 [^287]: [[Torah 03 - Lech Lecha#^12-2|Gen 12.2]]
+
 [^288]: Song, 1.8 etc.
+
 [^289]: 68 lacks *tak jak teraz* (as it is now).
+
 [^290]: [[Psalms 127#^127-1|Ps 127.1]]
+
 [^291]: Shab 56b and see further [[Zohar 9.11 - Parashat Pinehas#^z3-251b|Zohar 3.251b-252a]]. The reed is that on which Rome/Edom is built.
 
 *[p. lxv]* ^pg65
@@ -403,10 +509,15 @@ it is stuck. I greatly desire to tell the Truebelievers first, 4 years before I 
 170\. In Częstochowa I saw in a dream that a doe came to me which afterwards changed itself into a maiden of a particular beauty, while I was leading you before her, and immediately after having arrived, you turned your back towards the door, while two of you fell at a sign, two like those came again and she turned her face away from one completely while from the other one only a little, therefore I did not expel him totally; and, therefore, in time that thing could have come to your hands, but you have turned away. From now on be in wholeness and attend to my words, from the smallest to the biggest, perhaps she will join you and take you under her wings.[^294] Jacob did not come to this thing in wholeness, because if he would have received it in wholeness, he would not have raised that stone, but surely would have laid it down.[^295] Jacob fled from Laban because he could not bear it there, and he chose rather to die than to live. And this flight brought about a great loss. Jacob said, They have changed my wages on me 10 times;[^296] but they are changing mine 1000 times an hour. But when God will grant me rest and will help me to come over you will see with your own eyes. At the time I sent you to Moscow, you should have kissed the earth and given praise to God that he remembers us and our ancestors by wishing to do good for us. You should know that we have[^297] the eternal and living God. But some of you were still committing sacrilege against him; even if the good God would reveal himself already, I would not want you; at that time you would know by that what you committed. Likewise, after having sent you to the
 
 [^292]: [[Torah 13 - Shemot#^1-1|Ex. 1.1]]
+
 [^293]: [[Proverbs 05#^5-19|Prv 5.19]]. K 1.387 has Hebrew as *Ayeles ahovim*.
+
 [^294]: A frequent image; see Shab 31a etc.
+
 [^295]: [[Torah 07 - Vayetzei#^29-10|Gen. 29.10]]. The stone on the well (and off it) in the dicta is derived from two different sources, from the Zohar where it must be replaced on the well in order to control the flow of life; and from Shabatian usage where its removal symbolizes redemption, see Attias, Scholem 176, poem 189n3. Frank plays with this scene from [[Torah 07 - Vayetzei#^29-2|Gen 29.2-10]] more than once as do the Jewish commentaries. (The Zohar in particular 1.151b, 152b, 3.62a, Tik 50 86b.) Here, cp 359 n, Prb Frank says that Jacob should have let Esau have Rachel from the beginning.
+
 [^296]: [[Torah 07 - Vayetzei#^31-7|Gen 31.7]], [[Torah 07 - Vayetzei#^31-41|41]]
+
 [^297]: 69/1 has *znamy* (we know), 68 *mamy* (we have).
 
 *[p. lxvi]* ^pg66
@@ -432,8 +543,11 @@ must be a good stone. So it is with me and you. I told you base things about Buc
 176\. I spoke to you in Iwanie, and asked, Where shall we get money for our needs? You advised me to send to Hungary. It was very painful for me because you should have answered, You have come to lead us and you know that we are poor, why do you ask us what you have to do? Do what you think is best to do. Now, however, I will reveal to you that when I was still in Dziurdziów it was told to me, You must not take any treasures from this country, but on the Polish border, in the village of Iwanie, there you can take one treasure which lies there, and the place of this treasure was revealed to me. I searched among people from Poland who came to me, wanting to reveal to one of them the place of that treasure, so that he could take it from there, but seeing that they were still entangled in the old teachings, I was afraid that they might reveal that to their brothers,
 
 [^299]: 68 has *lutrować* \[!\], prps. *lustrować* (polish, cleanse, purge) or *lutować* (braze); 69, *filtrować*
+
 [^300]: Zach 13.9; the translation changes the verb from first person to third.
+
 [^301]: [[Torah 16 - Beshalach#^17-16|Ex 17.16]] and see [[Zohar 1.025a|Zohar 1.25a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-67a|2.67a]].
+
 [^302]: [[Proverbs 27#^27-5|Prv 27.5]]
 
 *[p. lxviii]* ^pg68
@@ -447,8 +561,11 @@ and then those would expose it among the peoples, so they would not let me in an
 179\. After having crossed the roads upon which we must go, only at that time will our fathers, the Patriarchs, be thankful to me. Jacob, the Patriarch, himself admonished me not to move from my place, to remain in the same spot, telling me that you also will stand against me, but don't you move, and stay in wholeness. But I am not that way with you. Be only in wholeness and obedient. Even if I saw that this thing will yet be delayed 20 years, so that you might reach the first degree, and the fathers, the Patriarchs, might be as thankful to you as they were to me, I will take that upon myself, because you must know that we must get through one place, and at this place there is a little river whose width is only a span. He who will be wholehearted with God and people, at that time the fathers, the Patriarchs will stand up, Jacob will look on, Abraham and Isaac will support \[him\] on
 
 [^303]: [[Torah 05 - Chayei Sara#^24-5|Gen 24.5]], [[Torah 05 - Chayei Sara#^24-8|8]]
+
 [^304]: The episode (see Kraushar, 1.111) is related in the Chronicle, 33. See the important information in Levine ad loc. n. 74, concerning Frank’s conduct, the song he sang (part of which appears in Attias, Scholem, 161) and the matter of the “red heifer” and its traditions in Shabatianism.
+
 [^305]: [[Torah 17 - Yitro#^20-12|Ex 20.12]]/[[Torah 45 - Vaetchanan#^5-16|Dt 5.16]]
+
 [^306]: 68 lacks *i tego czciy* (so honor him).
 
 *[p. lxix]* ^pg69
@@ -472,11 +589,17 @@ the right and left, and will bless their children so that they might cross that 
 185\. Neither you nor the whole world knows anything of Esau, who he is and what he is. It was not in vain that Jacob bowed down to him 7 times;[^310] and, concerning the 400 men who were with him, do you know nothing of who they are?[^311] Pay heed, when those wondrous garments were put into his \[Jacob's\] hands, he was entrusted with that which we pursue.[^312] But just because the robes are of a certain nature should we assume that the one who wears them is of that nature as well? For a fool looks only at the costume; but one who is wise, at the one who wears the costume.[^313] Jacob could not receive the blessing except by being dressed *incognito* in those robes. The proof of which is that
 
 [^307]: 68 lacks *zlotę ztoby* (golden trough).
+
 [^308]: Mahlat appears in Pes 112b and in aggadot, e.g., Num R 12.3, and in the Zohar (1.55a, 3.114a), as the mother (not grandmother) of ‘Igrat, a demonness with many servants. Frank might have made an additional connection between her and Esau, who marries a woman of this name, a daughter of Ishmael ([[Torah 06 - Toldot#^26-9|Gen. 26.9]]).
+
 [^309]: See Doktór’s note,ad loc., and Chronicle, 81, concerning this episode, (described in Kraushar 1.299f).
+
 [^310]: [[Zohar 3.03 - Parashat Va-Yishlah#^z1-171b|Zohar 1.171b]] (on [[Torah 08 - Vayishlach#^33-3|Gen 33.3]]) says that Jacob was actually bowing to the Shekina; Frank sees it differently and may be identifying Esau with the “other God,” Christianity, of the Zohar text.
+
 [^311]: Gen R. 75.12 asserts that the 400 men accompanying Esau ([[Torah 08 - Vayishlach#^33-1|Gen 33.1]]) are kings, governors, commanders; [[Zohar 3.03 - Parashat Va-Yishlah#^z1-177b|Zohar 1. 177b]], that they might be angels.
+
 [^312]: Cf. Gen R 75.11, 17 and [[Zohar 2.05 - Parashat Toledot#^z1-142b|Zohar 1.142b]] on [[Torah 06 - Toldot#^27-13|Gen 27.13]].
+
 [^313]: [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-152a|Zohar 3.152a]]
 
 *[p. lxxi]* ^pg71
@@ -490,13 +613,21 @@ Isaac smelled the odor of the clothing and blessed him.[^314] I want you to meri
 188\. From what place did Isaac take the blessing which he gave to Jacob and Esau? Surely from a high and precious place. Isaac knew that Jacob was a whole man and would dwell in both tents.[^317] But Esau was the sort of man who knew only hunting, and was a man of the fields; then why did Isaac love him more than Jacob?[^318] Likewise, when Isaac had nothing to eat, he asked only Esau to take his weapon and hunt and cook for him a dish from his hunting, so that he would bless him, and did not say that to Jacob.[^319] And thereafter, when Jacob stood before him, dressed in Esau's clothing, Isaac asked him, Is it you that is my son Esau? He smelled the odor of his clothing, then blessed him.[^320] From this, you can see how deep was his love for Esau. If Isaac was so great a man, one who could grant blessings, how could he be so mistaken then and give the blessing to Jacob? And when Jacob received that blessing and was told, You will be lord over your brothers,[^321] why was that not fulfilled? What is more, Jacob is now living under his rule, even though Esau said, What do I care about the birthright? *etc*.[^322] But you must know that at the palaces of great lords a curtain is always hung in front of the door, and before the door is opened the curtain must be drawn aside; and likewise, precious stones are generally hidden in little caskets; and such is the case here, Is there only one Esau? You must know that there is Esau and there is a second in front of him, and there are two at every place, one to help and a second to harm. The herb of life is hidden within the herb of death. But I wish that we might be worthy to see the Esau to whom we go as soon as possible, for he who is worthy to see him will receive eternal life; but not that Esau who is in front of Esau.
 
 [^314]: [[Zohar 2.05 - Parashat Toledot#^z1-142b|Zohar 1.142b]] to [[Torah 06 - Toldot#^27-27|Gen 27.27]] and Gen R 75.17. Frank disregards the Zohar’s interpretation that only when Jacob put on the robes did their original, Adamic, odor return to them.
+
 [^315]: The reference is to [[Isaiah 63#^63-1|Isa. 63.1 ff.]] Gen R 17.4 connects the vineyard with Edom (Esau) as does Ex R 15.17 and Num R 11.7 and many others and [[Zohar 3.07 - Parashat Va-Yhi#^z1-238a|Zohar 1.238a]] where it is said that God alone will tread down Edom in judgement and retribution.
+
 [^316]: The phrase “true man” means only “an actual man, a man in actuality” here and not, as elsewhere pre-Adamic man (as in 66, and see 81 n).
+
 [^317]: [[Torah 06 - Toldot#^25-27|Gen 25.27]], [[Zohar 5.05 - Parashat Terumah#^z2-175b|Zohar 2.175b]]
+
 [^318]: [[Torah 06 - Toldot#^25-27|Gen 25.27f]]
+
 [^319]: [[Torah 06 - Toldot#^27-3|Gen 27.3f]]
+
 [^320]: [[Torah 06 - Toldot#^27-24|Gen 27.24]], [[Torah 06 - Toldot#^27-27|27]]
+
 [^321]: [[Torah 06 - Toldot#^27-29|Gen 27.29]]
+
 [^322]: [[Torah 06 - Toldot#^25-32|Gen 25.32]]
 
 *[p. lxxii]* ^pg72
@@ -510,11 +641,17 @@ Isaac smelled the odor of the clothing and blessed him.[^314] I want you to meri
 192\. I came to Edom[^328] with only a small handful of people. I sent not nor sought permission from any king to enter that country. No one prohibited me when I entered there. Moses had 600,000 men with him and had to seek permission. Having sent to the king of Edom that he be permitted to cross through his country, (but) the king refused him, saying, I'll come out against you with arms.[^329]
 
 [^323]: See the tale of the king’s treasure and the serpent in [[Zohar 5.05 - Parashat Terumah#^z2-173b|Zohar 2.173b]]
+
 [^324]: [[Lamentations 2#^2-17|Lam 2.17]], and Uceda, commentary to Lam (*lehem dim’a*) ad loc.; 832
+
 [^325]: [[Proverbs 30#^30-23|Prv 30.23]], Zohar 3.265bf; [[Zohar 7.08 - Parashat Aharei Mot#^z3-69a|Zohar 3.69a]] associates the servant girl with Lilith. In any case, Frank probably intends the Virgin Mary.
+
 [^326]: [[Torah 09 - Vayeshev#^38-2|Gen 38.2]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-186a|Zohar 1.186a]]
+
 [^327]: [[Torah 10 - Miketz#^41-50|Gen 41.50]], Zohar 2.67bf. The implication might be that each of these married into the *sitra ahra*. (cf 242 n) or took wives from the sisters of the Big Brother, and were the progenitors of messiahs.
+
 [^328]: That is, to Poland.
+
 [^329]: [[Torah 39 - Chukat#^20-14|Num 20.14ff]]
 
 *[p. lxxiii]* ^pg73
@@ -524,6 +661,7 @@ Isaac smelled the odor of the clothing and blessed him.[^314] I want you to meri
 194\. When I came at first to you, to Iwanie, I told you, I am a messenger from God and I revealed to you that we must be baptized. According to natural wisdom you should have asked me, What will we do in this religion? To whom shall we pray and how? What will we live on? I would have had to answer your every point and, after having called you to a certain little and separate room, except the 2 which I have now separated—those I would have put aside at that time, and then would have revealed to you about my approaching imprisonment in Częstochowa, and would have divided the whole Company into 12 parts and in each part I would have put one of you after having ordered that each part go to a different region to find a livelihood there for themselves—and each one would have had assured sufficiency—and I would have ordered the clothing in which each part had to be dressed, and would have admonished you that no one should reveal that he is from my people, only that they be as other converts. Only thereafter would I have called 3 from you at a time to come to me to Częstochowa, and I would have given you an order not to come directly to the fortress, but to stay for a while in the little town beneath the fortress. Being there over the duration of that time you would have bought a little portrait for yourselves and after having shut yourselves in well, with the windows closed in a small room and in the most quiet silence among yourselves, you would have had to stay there for 3 days and 3 nights without eating, drinking or sleeping, experiencing nothing but only kneeling to repeat the prayer which I would have ordered you before that portrait, 3 hours before noon, 3 in the afternoon and likewise at night. Doing so, you would have seen one \[certain\] thing. Only thereafter would I have told you—after having taken a good bath, trimmed the fingernails and the toenails and dressed in white—to go to the main gate of the fortress in the following way, with eyes lowered to the ground and hands hanging downwards, in absolute silence among yourselves, as well as with regard to others. Everybody would have said that you had gone mad. That position would have lasted for some time until you could have come within the walls.[^331] Only some time thereafter would you have entered the fortress. There would again be some delay until you would have been called to me. Only thereafter would you have been alone with me. I would have set a thing before you, so you would have looked at her and stared powerfully into it. You would have stood so for 6 hours in a row, on your feet, with lowered eyes and hands, paying no attention to any other thing and being absolutely motionless. Even if flies were to bite you, or if a snake were to circle around your legs you must not only not have recoiled but also not have looked at it during all those 6 hours. God forbid that there might have been someone at that time who would not have been able to bear it all, because it would have been all prepared to throw such a man out of the room and beyond the wall. You would have been obliged to do this during the day; and the women, at night. And although it is not in man's power to stand it, nevertheless
 
 [^330]: Here 6969/1 ends.
+
 [^331]: The posture is similar to those adopted by the sect of *khlysty*; see the Introduction: Non-Jewish sects.
 
 *[p. lxxiv]* ^pg74
@@ -537,8 +675,11 @@ you would have had to try to do it with all your possible strength and power to 
 197\. I was sent out from a powerful place, and when I say that you are to heed my orders, it seems to you that this is against nature. Even in the worldly things you must not think twice, for my leader will correct everything to come out right, as it stands, Everything that he does, God makes succeed in his hands,[^335] Much more in divine things should you heed everything without the slightest doubt.
 
 [^332]: [[Torah 04 - Vayera#^21-10|Gen 21.10]]
+
 [^333]: [[Torah 07 - Vayetzei#^28-10|Gen 28.10]] and [[Zohar 2.05 - Parashat Toledot#^z1-146b|Zohar 1.146b]]-148
+
 [^334]: [[Torah 07 - Vayetzei#^28-17|Gen 28.17]]
+
 [^335]: Said of Joseph, [[Torah 09 - Vayeshev#^39-3|Gen 39.3]]
 
 *[p. lxxv]* ^pg75
@@ -552,17 +693,29 @@ you would have had to try to do it with all your possible strength and power to 
 201\. Until the present there is a quarrel in the world concerning which place, who, and where one must go, and what may one wear, and who are those who will have the power to see with their own eyes. Just as those 2 sages who argued with each other. One said, I would like him to come so I may see him. And the other said, Let him come, but I would not see him.[^346] Why? Because he will come to a wasteland, deprived of water, and water means teaching,[^347] all his words will seem empty, simple/crude, and full of nonsense. But if a sage were there he would surely protect them; that is, if God is pleased with him he will realize that those very things are knotted up parables, and only thereafter will wisdom find its glory in stupidity. Therefore there is a dispute about who those are who will be in the estate of turning bitterness into sweetness.[^348] However he who will be wise, at that time let him be silent and bear it. If you had gone along the simple/straight/crude road then, even though you should have come to a place such that one cannot turn either
 
 [^336]: Sic, for *noifes*.
+
 [^337]: [[Proverbs 05#^5-3|Prv 5.3]], cf. [[Zohar 12.05 - Heikhalot Pequdei#^z2-266b|Zohar 2.266b]] among others.
+
 [^338]: [[Proverbs 07#^7-5|Prv. 7.5]], [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-38b|Zohar 1.38b]]
+
 [^339]: Cp. [[Psalms 103#^103-1|Ps. 103.1]], [[Torah 46 - Eikev#^11-13|Dt. 11.13]] and in the *nishmat* prayer of the *shaharit* service.
+
 [^340]: [[Jeremiah 31#^31-22|Jer. 31.22]], cf. Zohar 1.257a (*hashmatot*)
+
 [^341]: [[Psalms 085#^85-12|Ps. 85.12]]
+
 [^342]: The Polish, *urnę*, almost certainly mistranslates, Heb *‘aron*/Yid *orn*/*urn*, “coffin.”
+
 [^343]: Various midrashim (see Ginzberg, *Legends* index). [[Zohar 4.06 - Parashat Be-Shallah#^z2-46a|Zohar 2.46a]] connects the matter with redemption inter alia. Prps. the matter is one of the resurrection of the dead in the Land of Israel, see, Tishby, *tzitzat novel tzvi*, 196.11 and n.3.
+
 [^344]: Gen R 78.5 etc., commentary to [[Torah 08 - Vayishlach#^33-2|Gen 33.2]]
+
 [^345]: [[Torah 18 - Mishpatim#^24-3|Ex. 24.3]] (cf. Targums *ad loc*., Mekhilta, *bahodesh* 3, 63b)(one pillar for each of the tribes of Israel). While Frank describes himself as the last of the patriarchs—Joseph, of whom the midrash speaks as the best loved—he says that the Brothers are only at the level of the commonality of Israel.
+
 [^346]: See Sanh 98b
+
 [^347]: Varr, cf Bq 82a, AZ 5b
+
 [^348]: [[Isaiah 05#^5-20|Isa. 5.20]] (?)
 
 *[p. lxxvi]* ^pg76
@@ -592,8 +745,11 @@ fly from your head by itself. Have your eyes closed until you hear the sound of 
 207\. When God will open the gates for me, then this will be that gate about which it is written, *Ze aschar l'Adonay. Zadikim iewoiu boï*—That gate is to God. The righteous ones will enter it[^354]—And if you had been so mixed up as you were till now, then you would have fallen from fear. Now, I have hope that when I show you this place and reveal to you that God is found in this place, no fear will touch you. Until now also I could not look at you. But now, as it was in Iwanie when you all were attached to me, now you all are attached to me. Even though you may go far away from me to distant countries, I will bring you back to me in three days, if I need you; and from then on I'll be able to look at you and talk to you a little.
 
 [^351]: 189
+
 [^352]: [[Torah 01 - Bereshit#^1-1|Gen 1.1]]
+
 [^353]: Doktór argues that the reference here and in dictum 114 is to Wolf Eybeschuetz.
+
 [^354]: [[Psalms 118#^118-20|Ps 118.20]]
 
 *[p. lxxix]* ^pg79
@@ -609,12 +765,19 @@ fly from your head by itself. Have your eyes closed until you hear the sound of 
 212\. We have hopes for that day which is called “great.” But nothing can be disclosed to you beforehand. If you would've asked me what is that great day, then I would've answered you and then it would have come forth because everything that is from my mouth comes out to the world. One voice/sound[^362] clashing with another causes a hastening in the fulfillment of the thing.
 
 [^355]: [[Torah 07 - Vayetzei#^28-10|Gen 28.10]]
+
 [^356]: [[Song of Songs 1#^1-3|Song 1.3]]; On the use and meaning of this passage in Shabatianism see Kraus 1.278, (cf. Sokolov, 255 n), and cp dicta 421, 887, 1133 and 1203 and the n here in Doktór. See also Zohar 1.15 a (*hashmatot*, 1.251a) (*tehiru*), 3.58b f. The *reshimu*, the “impression” or that which remains of a process, is employed in the figure of the *tzimtzum*. As the Creator withdraws from the pleroma to allow creation to take place, a remnant remains. An image of this appears in Lurianic texts (Shabatian?) as the odor that remains in a perfume bottle that has been emptied.
+
 [^357]: Gen. 28.10, 196 n
+
 [^358]: 170 n
+
 [^359]: Cp. Attias’ translation from the Ladino of poem 43, l. 4 (Attias, Scholem 64), *la’ ‘elaha’ ‘ela’ hu’*, and, in Islamic practice, the opening of the *dhikr*, *la’ ‘ilaha ‘il ‘alla*.. (See also the conclusion of poem 200, p 183 f.)
+
 [^360]: See 2136 (of the Lublin ms)
+
 [^361]: [[Torah 54 - V'Zot HaBerachah#^33-2|Dt. 33.2]], understanding Seir as Edom (=Christianity), Paran as Ishmael (=Islam).
+
 [^362]: Pol. *głos* (as here) means “voice”, and “sound” less commonly (cp. Heb. *kol*); *dźwięk,* “sound”; 165 n
 
 *[p. lxxx]* ^pg80
@@ -626,7 +789,11 @@ fly from your head by itself. Have your eyes closed until you hear the sound of 
 215\. That great day,[^366] for which we wait, is like a black dawn, and that day is for me and for one other, and it is that morning of Abraham,[^367] and that is the morning of that great day. However, it is my recollection that God will open those gates to me, and that must come first, after that, just like Abraham I will go to that morning and the whole world
 
 [^363]: [[Torah 03 - Lech Lecha#^12-1|Gen 12.1]]
+
 [^364]: Cf. [[Torah 03 - Lech Lecha#^17-1|Gen 17.1]]. The explication of this divine name and Frank’s preachings about it recur several times. See particularly 493, 755, 767 and the notes. Additionally,—see 1266—Shabtai (Zvi) found that his own name was the numerical equivalent of Shaddai and proclaimed himself as that divinity. Frank seems to distance himself from that claim and, instead, to draw a connection between this divine name and the world of the demons (*shedim*) that his Big Brother rules.
+
 [^365]: A reference to the “three knots of faith that make a single strand.” Frank says that the following had been introduced or converted to Shabatianism—that one single strand—when he came to Poland but not to Islam or Chrisitianity; or perhaps, not to Christianity and to the Religion of the True Esau/Edom. See (following 2188) the “additional dictum” n.
+
 [^366]: Cf. Jo 2.1, 11
+
 [^367]: [[Torah 04 - Vayera#^22-3|Gen 22.3]]; [[Zohar 3.05 - Parashat Mi-Qets#^z1-204a|Zohar 1.204a]] (inter alia). The light of that morning is said to be the light of the sefira Hesed (symbolized by Abraham) and delivers mercy to all except those of the other side, [[Zohar 3.05 - Parashat Mi-Qets#^z1-203b|Zohar 1.203b]]. Abraham himself is a prefiguration (and psychic component) of Shabtai Zvi (see Scholem 1973, esp. p. 804) and continues to be so in the Doenmeh hymnal, (Attias, Scholem, 70, no. 50 and 181, no. 197 among others)

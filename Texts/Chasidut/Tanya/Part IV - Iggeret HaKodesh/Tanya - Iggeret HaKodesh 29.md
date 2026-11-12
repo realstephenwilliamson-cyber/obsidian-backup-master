@@ -75,66 +75,129 @@ Now this is the meaning of “A woman of valor is the crown of her husband.” F
 They all are the aspect of the manifestation of the will of the Supreme One, blessed is He, concealed in the Written Torah. And the will of the Supreme One, blessed is He, is exceedingly more sublime than the rank of the supreme *chochmah*, just as a crown (*keter*) and wreath (*atarah*) is above the brains in the head.[^64] The *halachot*, therefore, are referred to as “crown,” and “crown of the Torah,” and “Whoever studies *halachot* is assured of life in the World to Come,” by investing his *nefesh*, *ruach*, and *neshamah* in the the will of the Supreme One, blessed is He, as stated above.
 
 [^1]: [[Proverbs 11#^11-4|Proverbs 11:4]].
+
 [^2]: Folio 28b.
+
 [^3]: *Avot* 1:13.
+
 [^4]: Folio 99b.
+
 [^5]: See above, Epistle 5, note 103.
+
 [^6]: See above, Epistle 7, note 37.
+
 [^7]: See above, Epistle 3, note 5, on the “garments” of the soul.
+
 [^8]: Par. [[Isaiah 34#^34-16|Isaiah 34:16]].
+
 [^9]: *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-210a|II:210a]]-b and [[Zohar 6.06 - Parashat Pequdei#^z2-229a|229a]]-b.
+
 [^10]: See above, Epistle 5, note 53, on these terms.
+
 [^11]: *Zohar* [[Zohar 8.09 - Idra Rabba#^z3-128b|III:128b]] ff. Cf. above, Epistle 20, note 74.
+
 [^12]: [[Daniel 07#^7-9|Daniel 7:9]].
+
 [^13]: Par. [[Ecclesiastes 11#^11-7|Ecclesiastes 11:7]].
+
 [^14]: [[Psalms 027#^27-4|Psalms 27:4]].
+
 [^15]: [[Isaiah 58#^58-14|Isaiah 58:14]].
+
 [^16]: Ibid., 11. The *Zohar* ([[Zohar 6.05 - Parashat Va-Yaqhel#^z2-209a|II:209a]]) quotes these two verses in this order.
+
 [^17]: Parched with thirst ([[Isaiah 05#^5-13|Isaiah 5:13]]); see comment., ad loc.
+
 [^18]: *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-210b|II:210b]].
+
 [^19]: [[Torah 18 - Mishpatim#^24-18|Exodus 24:18]]; see *Zohar* [[Zohar 6.06 - Parashat Pequdei#^z2-229a|II:229a]] and [[Zohar 1.08 - Parashat Noah#^z1-66a|I:66a]].
+
 [^20]: The preceding discourse dealing with the garments of the soul.
+
 [^21]: See *Chagigah* [[Chagigah 12#12a|12a]]; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-45b|I:45b]] and [[Zohar 5.05 - Parashat Terumah#^z2-148b|II:148b]], (above, Epistle 27, and notes 33 and 34 ad loc.).
+
 [^22]: *Zohar* [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-123b|I:123b]]; [[Zohar 8.09 - Idra Rabba#^z3-128b|III:128b]] and [[Zohar 9.15 - Idra Zuta#^z3-288a|288a]].
+
 [^23]: [[Torah 05 - Chayei Sara#^23-15|Genesis 23:15]].—כסף (silver) is etymologically related to לכסוף (to long; to desire).
+
 [^24]: Brackets appear in the text.
+
 [^25]: The above may be summarized as follows: In the soul there is a faculty of delight. This faculty is most deep-seated and innate to the soul, beyond any apprehension. The propensity to like or dislike, that something will appeal to a person or not, is a natural disposition and innate part of the soul. In fact, it is the most basic faculty of the soul. Based on it is man’s will. By nature man wills that which is agreeable to him; what he likes; that which realizes his capacity for delight. Will itself expresses itself on two levels. Most often it is subject to reason. Man wills what reason dictates to him as being most agreeable. First he reasons what would be in his best interest and best agrees with his natural disposition for delight. Then he focuses his will on this rational goal. This is the “lower” or “inferior” will (so called because it is dependent on, thus lower than, reason). The second type of will is not subject to reason. It does not express itself after a rational calculation but transcends it. It is supra-rational and may even act against the dictates of reason (stubbornness would be an example; see above, Epistle 22, note 60). This second type of will, the “superior” or “supreme” will, is the very basic or natural disposition of willing; the “will of will,” or the “will to will,” as it were. (Cf. also *Siddur Im Dach*, pp. 161a ff.)
+
 [^26]: *Berachot* [[Berakhot 31#31b|31b]].
+
 [^27]: *Mechilta* and *Tanchuma* on [[Torah 17 - Yitro#^19-18|Exodus 19:18]].
+
 [^28]: See above, beg. of Epistle 15, and notes, ad loc.
+
 [^29]: *Zohar* [[Zohar 2.158a|II:158a]]; Cf. above, Epistle 5.
+
 [^30]: *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-85a|II:85a]]; see above, Epistle 19, note 35.
+
 [^31]: *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-90b|II:90b]]; above, Epistle 23, note 23.
+
 [^32]: *Chachmei HaEmet*, in the Hebrew—lit., the “sages of the truth” (i.e., of Kabbalah).
+
 [^33]: The numerical value (*gematria*) of *keter* is 620.
+
 [^34]: See *Masechet Atzilut*, near the end; R. Shem Tov ibn Shem Tov, *Sefer Haemunot* 4:7; R. Moses Cordovero, *Pardes Rimonim* 8:3; and *Shiur Komah*, ch. 93, s.v. *Keter* and *Ratzon*; *Likkutei Amarim*, Part I, ch. 53.
+
 [^35]: See *Etz Chaim* 23:1, 2; ibid. 25:5; above, Epistle 17 (note 27, ad loc.).
+
 [^36]: Thus 620 precepts corresponding to the 620 pillars of light.
+
 [^37]: *Sanhedrin* [[Sanhedrin 65#65a|65a]].
+
 [^38]: See *Eruvin* [[Eruvin 22#22a|22a]].
+
 [^39]: Or to evil.
+
 [^40]: See *Etz Chaim* 26:1; *Likkutei Amarim*, Part I, ch. 37.
+
 [^41]: [[I Samuel 25#^25-29|I Samuel 25:29]]; see *Likkutei Torah*, Shelach 51d.
+
 [^42]: Brackets appear in the text.
+
 [^43]: See *Likkutei Amarim*, Part I, ch. 23.
+
 [^44]: See ref. cited above, Epistle 20, note 36.
+
 [^45]: [[Torah 47 - Re'eh#^13-1|Deuteronomy 13:1]]; Maimonides, *Hilchot Yesodei HaTorah* 9:1.
+
 [^46]: [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-210b|II:210b]].
+
 [^47]: See above, Epistle 12, note 17.
+
 [^48]: *Sanhedrin* [[Sanhedrin 65#65a|65a]]; *Berachot* [[Berakhot 20#20b|20b]].
+
 [^49]: *Hilchot Talmud Torah* 2:12; see *Eruvin* [[Eruvin 54#54a|54a]].
+
 [^50]: See above, Epistle 25, note 61.
+
 [^51]: [[Torah 45 - Vaetchanan#^6-8|Deuteronomy 6:8]].
+
 [^52]: [[Torah 17 - Yitro#^20-10|Exodus 20:10]]; [[Torah 45 - Vaetchanan#^5-14|Deuteronomy 5:14]].
+
 [^53]: See Mishnah, *Shabbat* 7:2.
+
 [^54]: [[Proverbs 01#^1-8|Proverbs 1:8]].
+
 [^55]: See *Zohar* II:276b. See also ibid. [[Zohar 6.06 - Parashat Pequdei#^z2-238b|238b]], and cf. ibid. [[Zohar 4.07 - Parashat Yitro#^z2-85a|85a]]. (This verse is explicitly interpreted thus, in *Midrash Mishlei* 1:8.)
+
 [^56]: See *Zohar* [[Zohar 8.04 - Parashat Emor#^z3-93a|III:93a]]; cf. *Niddah* [[Niddah 31#31a|31a]].
+
 [^57]: See ref. cited above, note 55, and *Yalkut Shimoni* on Proverbs (ad loc.; sect. 929).
+
 [^58]: See ref. cited above, note 30.
+
 [^59]: See above, Epistle 15, note 9.
+
 [^60]: [[Song of Songs 6#^6-8|Song of Songs 6:8]].
+
 [^61]: Maidens.
+
 [^62]: Worlds.
+
 [^63]: *Tikkunei Zohar*, Introduction 14b.
+
 [^64]: See above, note 35.

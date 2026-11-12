@@ -167,82 +167,152 @@ For this reason, when a person slaughters many animals or many fowl,[^55] he mus
 **29.** When a person inadvertently slaughters on Yom Kippur or the Sabbath,[^68] his slaughter is acceptable,[^69] even though were he to have been acting willfully he would be liable for his life[^70] or for lashes [for slaughtering] on Yom Kippur.[^71] ^1-29
 
 [^1]: *Sefer HaMitzvot* (positive commandment 146) and *Sefer HaChinuch* (mitzvah 451) include this among the 613 mitzvot of the Torah. As mentioned at the beginning of the *Mishneh Torah*, the Ra'avad differs and does not consider this a mitzvah.
+
 [^2]: The Rambam's wording echo his statements in *Hilchot Berachot* 11:2: "There are other mitzvot that are not obligations, but resemble voluntary activities, for example, the mitzvah of *mezuzah*.... A person is not obligated to dwell in a house that requires a *mezuzah* in order to fulfill this mitzvah." Similarly, in the instance at hand, a person is not obligated to slaughter. If, however, he desires to eat meat, he must fulfill this mitzvah.
+
 [^3]: Note the *Kessef Mishneh* who elaborates, explaining that although Rashi does not interpret the verse in the same manner the Rambam does, there is support for the Rambam's interpretation.
+
 [^4]: I.e., in both instances, ritual slaughter is required. The *Kessef Mishneh* notes that *Chulin* [[Chullin 27#27b|27b]] derives this equivalence from another source and explains why the Rambam cites this verse instead.
+
 [^5]: See the gloss of the *Kessef Mishneh* who explains that there are some differences between the laws governing the slaughter of each of these types of animals.
+
 [^6]: For the blessings for all mitzvot must be recited before their observance (*Pesachim* [[Pesachim 7#7b|7b]]).
+
 [^7]: We do not, however, say "to slaughter," for, as above, the mitzvah to slaughter is not obligatory. It is dependent on the person's desire (*Hilchot Berachot* 11:15).
+
 [^8]: For after the fact, the recitation of the blessings is not essential (*Kessef Mishneh*).
+
 [^9]: Partaking of the meat at this time does not, however, represent a transgression of the prohibitions against eating a limb or flesh from a living animal (see *Hilchot Ma'achalot Assurot*, ch. 5). For once the animal has been slaughtered, these prohibitions no longer apply.
+
 [^10]: This prohibition is considered as a prohibition of a general nature (*Hilchot Sanhedrin* 18:2-3), i.e., prohibitions that include several diverse and unrelated acts, and lashes are not given for the violation of such prohibitions.
+
 [^11]: The Rambam's words provoke a question: Of course, this meat must be salted thoroughly as must all meat so that its blood will be removed (*Hilchot Ma'achalot Assurot* 6:10). Why would one think that this meat is different?  
     It would appear that the explanation is that other meat may be eaten if it is roasted or its blood sealed by being cast into vinegar (*ibid.*:12) and these options do not apply with regard to the meat in question.
+
 [^12]: One might think that man would have to gather them alive for them to be permitted. Hence the Rambam emphasizes that this is not so (*Kessef Mishneh*). The general principle is: Whenever the mitzvah of ritual slaughter does not apply, the prohibitions against eating flesh from a living animal and eating a dead animal do not apply.
+
 [^13]: The commentaries note that *Shabbat* [[Shabbat 90#90b|90b]] states that one who eats a live locust violates the prohibition: "Do not make your souls detestable." [See also Rama (*Yoreh De'ah* 13:1) who issues a similar warning with regard to partaking of live fish.) How then can the Rambam say that it is permitted?  
     Among the resolutions of this question are:  
     a) The passage in *Shabbat* refers only to a non-kosher locust, not a kosher one.  
     b) The Rambam, here, is saying that one may cut off part of a living locust and eat it, but not that one may eat an entire locust alive.  
     c) Here the Rambam is speaking with regard to the laws regarding ritual slaughter. He is not focusing on those involving other prohibitions.
+
 [^14]: In the following chapters, the Rambam proceeds to answer all of these questions.
+
 [^15]: I.e., in the Introduction that precedes *Hilchot Yesodei HaTorah*. There the Rambam explains that the Oral Law is called "the mitzvah," because it gives us instruction concerning the observance of the mitzvot. Without it, we would not know how to fulfill them.
+
 [^16]: As will be explained in Halachah 9, ritual slaughter involves cutting the gullet and the windpipe. In this halachah, the Rambam defines where the gullet may be cut.
+
 [^17]: In contrast to the surface of the gullet which is smooth.
+
 [^18]: I.e., the end of the throat, where it is attached to the jaw..
+
 [^19]: The animal is considered a *nevelah* and it is forbidden to partake of it. See Chapter 3, Halachah 18 (*Kessef Mishneh*, note *Siftei Cohen* 20:5).
+
 [^20]: This is the Rambam's interpretation of *Chulin* [[Chullin 44#44a|44a]]. Rashi interprets that passage as referring to a space the size of four fingers. The *Shulchan Aruch* (*Yoreh De'ah* 20:2) follows the Rambam's understanding, while the Rama cites that of Rashi.
+
 [^21]: The first of the fowl's stomachs. The crop is not considered part of the gullet and it is forbidden to slaughter there.
+
 [^22]: The windpipe is made up of a series of rings. Above the top ring, there is a slanted covering that is called the cap.
+
 [^23]: When the animal extends its neck, the flanks of its lungs rise upward.
+
 [^24]: See *Chulin* [[Chullin 45#45a|45a]] which discusses these questions but leaves them unresolved.
+
 [^25]: I.e., the place of slaughter on the neck should be aligned with the place of slaughter on the windpipe and the gullet in their natural position. In this instance, the external place of slaughter - the position on the neck - was correct, but the signs were not cut in the usual place.
+
 [^26]: This applies only after the fact. At the outset, one must slaughter in the center of the neck.
+
 [^27]: Since the acceptability of the slaughter is dependent on them, they are referred to as the *simanim*, "signs," i.e., indications that the slaughter is acceptable.
+
 [^28]: But not the majority.
+
 [^29]: See the *Turei Zahav* 21:2 who emphasizes that the difference in size need not be significant. As long as more than half is cut, the slaughter is acceptable.
+
 [^30]: But no more than half.
+
 [^31]: This is speaking about a situation where the animal is alive. The fact that an animal's windpipe is slit slightly does not cause it to be considered as a *trefe*. The Rama (*Yoreh De'ah* 21:5) adds that we must be careful that the gullet has not been punctured, for that would render the animal *trefe*. See the *Turei Zahav* 21:4 and the *Siftei Cohen* 21:5 who debate whether it is possible to rely on this leniency at present. See also Chapter 3, Halchot 6-7.
+
 [^32]: To make sure that the minimal measure for slaughter was slit.
+
 [^33]: Obviously, once the head is cut off, it is no longer possible to check.
+
 [^34]: Because of the doubt involved. See the following halachah.
+
 [^35]: This is the rationale for the stringency stated in the previous halachah (*Kessef Mishneh*).
+
 [^36]: The *Kessef Mishneh* notes that many marsh plants splinter easily and they are unacceptable for they will perforate the gullet.
+
 [^37]: Generally, it is accepted that a spike that can be detected by a fingernail disqualifies an animal. Nevertheless, the Rambam appears to be referring to an even smaller measure. His approach is followed by the *Shulchan Aruch* (*Yoreh De'ah* 18:2) which speaks of a spike that is even the size of a hairsbreadth being sufficient to disqualify a knife.  
     Alternatively, it can be understood that the two are synanomous. This understanding is reflected by *Hilchot Beit HaBechirah* 1:14 which speaks about "a stone being blemished so that a fingernail would become caught in it like a knife used for ritual slaughter."
+
 [^38]: For the spike will perforate the gullet, rendering the animal *trefe* before the slaughter was completed (*Maggid Mishneh*).
+
 [^39]: The commentaries offer two explanations for this ruling. The Rambam's position is that when the spike is felt only on one side of the knife, one may slaughter with that side. Others add that the blemish must be positioned to the very far end of the knife, either near its point or near its handle. In such an instance, it is possible that the blemish never actually touched the signs and thus did not disqualify the ritual slaughter. See *Shulchan Aruch* [*Yoreh De'ah* and Rama (18:4)].
+
 [^40]: Who raises his head and tail, creating a curve for its body (*Kessef Mishneh*).
+
 [^41]: Since it does not have a blemish, it will not disqualify the signs.
+
 [^42]: Provided one does not interrupt the slaughter in the middle as stated in Chapter 3, Halachah 2.
+
 [^43]: The Rama (*Yoreh De'ah*18:6) writes that since it is difficult to understand what exactly is meant by such a knife, we do not permit this leniency.
+
 [^44]: As apparent from Halachah 14.
+
 [^45]: For example, by passing the animal's neck back and forth below the knife [*Shulchan Aruch* (*Yoreh De'ah* 6:4)].
+
 [^46]: As indicated by the following halachah, an entity may not be used for ritual slaughter if it is connected to its source. When an entity is stuck into the ground, it is not connected to its source and hence, after the fact, the slaughter is acceptable. Nevertheless, because of the similarity to the forbidden situation, initially, one should not use such an entity for slaughter.
+
 [^47]: *Chulin* [[Chullin 16#16a|16a]] states that it is a Scriptural decree that the cutting edge used for slaughter must be a separate entity, something that one could take in his hand.
+
 [^48]: I.e., a blade with a jagged edge which is unacceptable as stated above.
+
 [^49]: Since the jaw as a whole is moveable, we are not concerned with the fact that the tooth is in a fixed position (*Kessef Mishneh*).
+
 [^50]: We do not say that rather than cut the signs, the knife burnt them. The latter would disqualify the slaughter.  
     It must be noted that the *Tur* (see also the gloss of the Radbaz) quotes the Rambam as ruling that the slaughter is unacceptable for the above reason. This approach is also followed by many other *Rishonim*. In his *Kessef Mishneh*, Rav Yosef Caro states that the Rambam rules that the slaughter is acceptable. In his *Shulchan Aruch* (*Yoreh De'ah* 9:1), however, he quotes both views without stating which should be followed. All authorities agree that such a knife should not be used as an initial and preferred option.
+
 [^51]: Using the same motions as he would use to slaughter an animal.
+
 [^52]: The Ra'avad differs with the Rambam, maintaining that after ritual slaughter, no inspection is necessary unless the person desires to use the knife to slaughter another animal immeidately. In his *Kessef Mishneh*, Rav Yosef Caro justifies the Rambam's ruling and he cites it in his *Shulchan Aruch* (*Yoreh De'ah* 18:3).
+
 [^53]: This ruling also depends on the principle stated in Halachah 13, that during its lifetime, an animal is forbidden. Hence it is not permitted unless we are certain that it was slaughtered in a proper manner (Radbaz; *Siftei Cohen* 18:2).
+
 [^54]: And this would cause the slaughter to be unacceptable as mentioned above.
+
 [^55]: The *Kessef Mishneh* notes that since the skin of a fowl is soft, it is not very probable that this caused the blemish on the knife. Nevertheless, our Sages adopted this stringency.
+
 [^56]: See Chapter 3, Halachah 18, for the ramifications of this ruling.
+
 [^57]: I.e., it is possible that the knife could have become blemished when cutting the skin of the first animal. Hence, that animal - and all the subsequent ones - were slaughtered with an unacceptable knife.
+
 [^58]: Since he checked the knife at the outset and it was acceptable, we rely on probability. As long as we have a way of explaining how the knife was blemished, we do not say it was blemished on the animal's skin, for the likelihood of that happening is very low.
+
 [^59]: Here also, since the knife was inspected initially, there is no reason to suspect that the slaughter was unacceptable, we do not disqualify it [*Shulchan Aruch* (*Yoreh De'ah* 18:12)] .
+
 [^60]: This is referring to a slaughterer who slaughters on behalf of people at large, not only for his own private purposes.
+
 [^61]: The Radbaz notes that the Rambam's words appear to differ slightly from the simple meaning of *Chullin* [[Chullin 18#18a|18a]], his source. From *Chullin*, it appears that the necessity to show the knife to the wise man is a mere token of respect, while from the Rambam it appears that it is a necessary safeguard to check that the slaughter is kosher.  
     The difference between these approaches can lead to a variance in practice. If we say that this inspection is merely for the sake of respect, then the sages may forgo the respect due them and allow an expert to slaughter even though he does not present his knife. If, however, it is a necessary precaution to insure that the slaughter is performed correctly, an inspection is always necessary.  
     Both of these perspectives have continued to be given emphasis throughout the Rabbinic literature, although the halachah as prescribed by the *Shulchan Aruch* (*Yoreh De'ah* 18:17) is that a sage may forgo the honor due him. The present custom in many slaughtering houses today is for the slaughterers to work in pairs and for one to check the knife of the other. At times, a visiting Rabbinic authority comes and he inspects the knives of all of the slaughterers.
+
 [^62]: I.e., we assume that not only on this occasion, but on others, he slaughtered using an unacceptable knife, thus disqualifying the meat.
+
 [^63]: As will be explained, ritual slaughter is accomplished by drawing the knife back and forth across the neck. If a knife is two small to enable this, it should not be used [*Shulchan Aruch* (*Yoreh De'ah* 8:1)].
+
 [^64]: See the Ramah (*Yoreh De'ah* 24:2) who quotes opinions that require a knife used to slaughter a animal to be twice the length of the animal's neck. The custom is also to use a knife of such measure for a fowl.
+
 [^65]: Two candles are considered a torch [Rama (*Yoreh De'ah* 11:1)].
+
 [^66]: Otherwise, it is possible that the animal will be slaughtered incorrectly without him realizing.
+
 [^67]: Nevertheless, it is forbidden to do so as an initial and preferred option [*Shulchan Aruch* (*Yoreh De'ah* 11:1)].
+
 [^68]: I.e., he was not aware that the day was either the Sabbath or Yom Kippur; alternatively, he did not know that it was forbidden to slaughter on these holy days.
+
 [^69]: The *Turei Zahav* 11:2 states that one must, nevertheless, wait until the conclusion of the Sabbath or Yom Kippur before partaking of the meat, as is the law when one cooks on the Sabbath.
+
 [^70]: For slaughtering on the Sabbath.
+
 [^71]: If he does so intentionally, he is considered as an apostate who desecrates the Sabbath and his slaughter is disqualified (the Rambam's Commentary to the Mishnah, *Chullin* 1:1; see Chapter 4, Halachah 14). The *Siftei Cohen* 11:3 states that in certain instances the leniency would also apply if he slaughters intentionally.

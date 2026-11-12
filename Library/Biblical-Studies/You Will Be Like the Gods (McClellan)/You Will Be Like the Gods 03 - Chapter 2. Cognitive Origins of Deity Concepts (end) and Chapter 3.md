@@ -19,9 +19,13 @@ commonly anthropomorphized. Barrett and Keil concluded that “subjects do use a
 *2.1.2 Agency Detection* Others have criticized the emphasis on anthropomorphism as cognitively foundational.[^11] Although a marked *tendency* toward anthropomorphism can be empirically shown, it has not been shown to be universal or evolutionarily fundamental. P. Boyer points out that, “anthropologists know that the *only* feature of humans that is *always* projected onto supernatural beings is the mind.”[^12] For Boyer, the nature of this mind is not automatically inferred, just its influence; rather than “faces in the clouds” (Guthrie’s phrase),[^13] people see “traces in the grass.” In other words, humans “do not so much visualize 
 
 [^9]: Barrett and Keil, “Conceptualizing a Nonnatural Entity,” 240.
+
 [^10]: An objection that may be raised to these conclusions is the role of narrative in influencing the results. Historical narrative promotes a social conceptualization, tending toward anthropomorphism. While Barrett and Keil introduce controls in order to detect such influence, the nature of the narratives themselves may have influenced subjects. For instance, one narrative discussed a boy who became stuck while swimming in a river. He prayed to be saved. The narrative continues, “Though God was answering another prayer in another part of the world when the boy started praying, before long God responded by pushing one of the rocks so the boy could get his leg out” (Barrett and Keil, “Conceptualizing a Nonnatural Entity,” 239). Responses that suggested the deity in the story was physically discreet and unable to do two things at the same time were interpreted as incorrectly anthropomorphizing the character, but the narrative is obviously designed to strongly imply such anthropomorphism. Some subjects’ responses qualified their anthropomorphic readings as the position implied by the narrative, not their own. Despite these methodological concerns, much of the data securely establishes an anthropomorphic bias (cf. J. Barrett, “Theological Correctness: Cognitive Constraint and the Study of Religion,” *MTSR* 11 \[1999\]: 325–39).
+
 [^11]: E.g., P. Westh, “Anthropomorphism in God Concepts: The Role of Narrative,” unpublished manuscript.
+
 [^12]: Boyer, *Religion Explained*, 144; cf. Tremlin, *Minds and Gods*, 101.
+
 [^13]: Guthrie, *Faces in the Clouds: A New Theory of Religion* (Oxford: Oxford University Press, 1993).
 
 *[p. 35]* ^pg42
@@ -31,8 +35,11 @@ what supernatural agents must be like as detect traces of their presence in many
 T. Tremlin follows Boyer in acknowledging this sensitivity to agency, but the two also agree on a more important contribution to our discussion. Our sensitivity to agency derives from our fundamental social nature—humans are social/interactive creatures. “Objects, events, and even mental concepts related to intentional agents automatically activate the mental mechanisms involved in social cognition and cause us to take note.”[^15] The most important social interactions are those that furnish us with strategic information, which Boyer defines as “*the subset of all the information currently available (to a particular agent, about a particular situation) that actives the mental systems that regulate social interaction*.”[^16] That information that helps us to make decisions about how we interact socially (on whatever level) is strategic. We commonly seek from others strategic information we do not have, whether directly or through inference or observation. We also make choices in our social interactions about how much strategic information to make available to others, although we may unintentionally reveal what we intend to conceal. The gods, on the other hand, are presumed to have full access to such information. According to Boyer and Tremlin, from a cognitive point of view, this is the single most salient characteristic of the gods.[^17] Religion is fundamentally pragmatic, and the most important gods are those that provide the most aid. Strategic information represents, as far as social psychologists can tell, the most important aid that can be offered. Good or bad, the gods that matter 
 
 [^14]: Boyer, *Religion Explained*, 144. Thus Goodall’s chimps were not arriving at a concrete concept of what was causing the storm; they were just reacting to a perceived agent of some kind.
+
 [^15]: Tremlin, *Minds and Gods*, 110.
+
 [^16]: Boyer, *Religion Explained*, 152, emphasis in original.
+
 [^17]: Boyer, *Religion Explained*, 155–60; Tremlin, *Minds and Gods*, 113–18.
 
 *[p. 36]* ^pg43
@@ -44,6 +51,7 @@ A final consideration concerns theories regarding the way people move from these
 *2.1.3 The Next Step* The frameworks for filling out the divine ontological categories developed as assumptions were made about the unobservable natures and functions of particular deities as members of a particular taxonomy. That taxonomy was usually a hybrid form based on the combination of a known ontological category and the most salient nonintuitive properties. “The basic assumptions needed to understand supernatural beings are supplied by intuitive knowledge about quite natural ones.”[^19] New and unilaterally unique taxonomies are rarely able to take root within a culture, and thus rarely survive. The majority of cultures produce ontological assumptions that conceive of the gods as human-like in form and behavior: social entities that experience emotion and are organized according 
 
 [^18]: Tremlin, *Minds and Gods*, 115.
+
 [^19]: Tremlin, *Minds and Gods*, 99; cf. P. Boyer, *The Naturalness of Religious Ideas: A Cognitive Theory of Religion* (Berkeley: University of California Press, 1994), 91–94.
 
 *[p. 37]* ^pg44
@@ -53,7 +61,9 @@ to significant cultural institutions. Given the intuitive bias toward anthropomo
 At this point we may begin to correlate these cognitive data with the biblical material. The evidence points to the cognitive origins of several of the Hebrew Bible’s fundamental conceptualizations of deity. We certainly find anthropomorphic god concepts throughout the Hebrew Bible, and particularly in earlier strata.[^22] YHWH made noise as he walked through the garden of Eden ([[Torah 01 - Bereshit#^3-8|Gen 3:8]]); he covered Moses’ face with his hand, revealing only the back of his body ([[Torah 21 - Ki Tisa#^33-22|Exod 33:22–23]]); the gods were attracted to human woman and procreated with them ([[Torah 01 - Bereshit#^6-2|Gen 6:2–4]]). Many 
 
 [^20]: Basic image-schemas guide the configuration of these conceptualizations (see next section).
+
 [^21]: That some societies entirely avoid anthropomorphism in conceptualizing their most prominent deities attests to the influence of culture.
+
 [^22]: J. Barr, “Theophany and Anthropomorphism in the Old Testament,” in *Congress Volume: Oxford 1959* (ed. G. W. Anderson, et al.; Leiden: Brill, 1967), 31–38; E. Yamauchi, “Anthropomorphism in Ancient Religions,” *BibSac* 125 (1968): 29– 44; M. Korpel, *A Rift in the Clouds: Ugaritic and Hebrew Descriptions of the Divine* (Münster: Ugarit-Verlag, 1990); O. Keel and C. Uehlinger, *Gods, Goddesses, and Images of God in Ancient Israel* (translated by T. A. Trapp; Edinburgh: T&T Clark, 1998); S. Friedman, “Anthropomorphism and Its Eradication,” in *Iconoclasm and Iconoclash: Struggle for Religious Identity* (ed. W. van Asselt, et al.; Leiden: Brill, 2007), 157–78; E. Hamori, *“When Gods Were Men”: The Embodied God in Biblical and Near Eastern Literature* (Berlin: de Gruyter, 2008).
 
 *[p. 38]* ^pg45
@@ -67,6 +77,7 @@ The notion of an entity with full access to strategic information is uniquely de
 In chapter 1 image-schemas were described as structures that “shaped and construed” semantic content. There are several primitive image schemas that are generally thought to be universal to 
 
 [^23]: L. Handy, *Among the Host of Heaven: The Syro-Palestinian Pantheon as Bureaucracy* (Winona Lake, Ind.: Eisenbrauns, 1994); K. van der Toorn, *Family Religion in Babylonia, Syria, and Israel*, 236–86; M. Smith, *The Origins of Biblical Monotheism: Israel’s Polytheistic Background and the Ugaritic T*exts (Oxford: Oxford University Press, 2001), 54–61.
+
 [^24]: Recent scholarship related to the concept of the divine council has addressed the cultural institutions undergirding the council’s structure. Handy, for instance, finds Syro-Palestinian bureaucracy at the foundation (Handy, *Among the Host of Heaven*, 10–15), while Smith argues for the royal household (Smith, *Origins of Biblical Monotheism*, 58–66).
 
 *[p. 39]* ^pg46
@@ -76,7 +87,9 @@ human conceptualization of the abstract world, likely as a result of shared bodi
 *2.2.1 The UP-DOWN Image-Schema* The more ubiquitous of these image-schemas is the UP-DOWN schema. As explained in chapter 1, this schema maps abstract concepts in terms of a vertical relationship. That which is sovereign, which is more, and which is better tends to be conceptualized as higher than, or above, that which is submissive, which is less, and which is worse. Studies of contemporary subjects have shown that concepts of the divine show a strong tendency toward the upper end of the verticality scale,[^26] while concepts of wickedness and humiliation tend strongly toward the lower end. This culturally independent trend indicates the universality of the image-schema. Kenneth McElhanon lists several “primary conceptual metaphors based upon the VERTICALITY image-schema” from the Hebrew Bible, with the following reflecting the mapping of deity:[^27] 
 
 [^25]: M. Johnson, *The Body in the Mind. The Bodily Basis of Meaning, Imagination and Reason* (Chicago: University of Chicago Press, 1987); T. Regier, *The Human Semantic Potential: Spatial Language and Constrained Connectionism* (Cambridge, Mass.: MIT Press, 1996); E. Dodge and G. Lakoff, “Image Schemas: From Linguistic Analysis to Neural Grounding,” in *From Perception to Meaning: Image Schemas in Cognitive Linguistics* (ed. B. Hampe; Berlin: de Gruyter, 2005), 57–91; B. P. Meier and S. Dionne, “Downright Sexy: Verticality, Implicit Power, and Perceived Physical Attractiveness,” *SCog*
+
 [^27]: 6 (2009): 883–92; D. Pecher, et al., “Abstract Concepts: Sensory-Motor Grounding, Metaphors, and Beyond,” in *The Psychology of Learning and Motivation* (ed. B. Ross; Burlington: Academic Press, 2011), 217–48.
+
 [^26]: See, recently, B. P. Meier, et al., “What’s ‘Up’ With God? Vertical Space as a Representation of the Divine,” *JPSP* 93.5 (2007): 699–710; see also K. A. McElhanon, “From Simple Metaphors to Conceptual Blending: The Mapping of Analogical Concepts and the Praxis of Translation,” *JT* 2.1 (2006): 38–40; K. Zanolie, et al., “Mighty Metaphors: Behavioral and ERP Evidence That Power Shifts Attention on a Vertical Dimension,” *BCog* 78.1 (2012): 50–58.
 
 *[p. 40]* ^pg47
@@ -120,6 +133,7 @@ But you are brought down to Sheol, to the depths of the Pit.
 The imagery in these verses draws from the UP-DOWN image-schema inherent in the ancient Jewish conceptualization of the cosmos. The high god dwells above the stars, themselves understood as symbols of second-tier deities, but he also sits enthroned on mount Ṣaphon, overseeing the council of the gods. Humanity is located at ground-level, whence comes the would-be usurper.[^29] The “Shining One” manages to ascend to heaven, at least rhetorically (cf. [[Torah 02 - Noach#^11-3|Gen 11:3–6]]), but falls. His fate is to be brought down to Sheol—to the underworld, the realm of death and sorrow ([[Proverbs 05#^5-5|Prov 5:5]]; [[Proverbs 09#^9-18|9:18]]; [[Isaiah 05#^5-14|Isa 5:14]]). Conceptual space has been found below the zero-point for the mapping of the divine antithesis to the exalted YHWH.[^30] We may illustrate this UP-DOWN scale in the following way: 
 
 [^29]: This tradition is usually held to reflect a mythological background wherein a subordinate deity seeks to usurp the divine royal throne (e.g., KTU 1.6:1:54ff; E. T. Mullen, *The Assembly of the Gods* (Chico, Calif.: Scholars Press, 1980), 149; although cf. Heiser, “The Mythological Provenance of Isa. XIV 12–15: A Reconsideration of the Ugaritic Material,” *FPP* 280 \[2001\]: 354–69, who argues that no usurpation is in view, only divine arrogance on the part of ʿAthtar). In the context of [[Isaiah 14#^14-1|Isaiah 14]] the hubris is attributed to the human king (considered divine within his own culture).
+
 [^30]: For the contrasting of the height of heaven against the lowness of hell, see [[Job 11#^11-8|Job 11:8]]; [[Psalms 139#^139-8|Ps 139:8]]; [[Amos 9#^9-2|Amos 9:2]].
 
 *[p. 42]* ^pg49
@@ -129,7 +143,9 @@ Fig. 2.1
 *2.2.2 The CENTER-PERIPHERY Image-Schema* The content of this scale may also be mapped against horizontal conceptual space, and particularly our other prominent image-schema: the CENTER-PERIPHERY image-schema.[^31] This schema reflects the experience of the body as central to some value or another that decreases with distance.[^32] That which is near and central is familiar and important, while that which is peripheral and far is unknown and unimportant (or dangerous). This schema is mapped most explicitly against geographic and cosmological space. Throughout the Hebrew Bible the land of Canaan is represented as centrally located. It is the geographic point of reference in the text. Israel was placed in the center of the nations by God, surrounded on all sides by the people of the earth ([[Ezekiel 05#^5-5|Ezek 5:5]]).[^33] Although the patriarchs came from outside Canaan, they were promised the land, which became theirs through 
 
 [^31]: A helpful discussion of this conceptual schema as it relates to biblical and Syro-Palestinian notions of deity, from which some of the above discussion is drawn, is found in Smith, *The Memoirs of God*, 88–91.
+
 [^32]: It is closely linked with the CONTAINER and NEAR-FAR schemas. M. Kimmel, “Culture Regained: Situated and Compound Image Schemas,” in *From Perception to Meaning: Image Schemas in Cognitive Linguistics* (ed. B. Hampe; Berlin: de Gruyter, 2005), 289.
+
 [^33]: In several places this centrality is manifested in “Zion Theology,” or the notion of Jerusalem (Zion) as God’s chosen holy city. This guaranteed God’s protection and favor. The destruction of the temple in the early sixth century BCE dealt a significant blow to this ideology, and much of the exilic literature grapples with the implications. See C. Broyles, *Psalms:* *New International Biblical Commentary* (Peabody, Mass.: Hendrickson, 1999), 24–25; R. Albertz, *Israel in Exile: The History and Literature of the Sixth Century B.C.E.* (Atlanta, Ga.: Society of Biblical Literature, 2003), 133, 157, 294.
 
 *[p. 43]* ^pg50
@@ -151,6 +167,7 @@ And my daughters from the end of the earth.”
 While the periphery in this mapping is linked with the borders of Israel and the other nations of the earth, the beyond—the antithesis to the center—is represented by the concept of the wilderness, which was harsh and barren ([[Job 38#^38-26|Job 38:26]]), and was inhabited by marginalized/reviled peoples ([[Torah 04 - Vayera#^21-20|Gen 21:20–21]]; [[Jeremiah 03#^3-2|Jer 3:2]]; [[Jeremiah 09#^9-25|9:26]]) and undomesticated animals ([[Isaiah 34#^34-14|Isa 34:14–15]]).[^35] Some texts reflect the wider Near Eastern concept of the wilderness as the realm of demons and ghosts ([[Torah 29 - Achrei Mot#^16-8|Lev 16:8]], [[Torah 29 - Achrei Mot#^16-10|10]], [[Torah 29 - Achrei Mot#^16-26|26]]; [[Isaiah 13#^13-21|Isa 13:21]]; [[Isaiah 34#^34-14|34:14]]; [[Jeremiah 50#^50-39|Jer 50:39]]).<sup>36</sup> The wilderness was so antithetical to the values of developed Israel that the threatened demises of cities like Jerusalem and Edom were described with images of desiccation and a lack of civilization, concepts drawn from the wilderness ([[Isaiah 13#^13-19|Isa 13:19–22]]; [[Isaiah 34#^34-9|34:9–15]]). S. Talmon summarizes the *midbār* motif in the following way: 
 
 [^34]: [[Torah 03 - Lech Lecha#^13-3|Gen 13:3–4]]; [[Torah 03 - Lech Lecha#^15-7|15:7]], [[Torah 03 - Lech Lecha#^15-16|16]]; [[Torah 04 - Vayera#^21-34|21:34]]; [[Torah 11 - Vayigash#^46-4|46:4]]; [[Torah 12 - Vayechi#^50-24|50:24–25]]; cf. E. R. Kennedy, *Seeking a Homeland: Sojourn and Ethnic Identity in the Ancestral Narratives of Genesis* (Leiden: Brill, 2011), 55–60.
+
 [^35]: A recent attempt to salvage the biblical image of the wilderness is L. Feldt, “Wilderness and Hebrew Bible Religion—Fertility, Apostasy, and Religious Transformation in the Pentateuch,” in *Wilderness in Mythology and Religion: Approaching Religious Spatialities, Cosmologies, and Ideas of Wild Nature* (ed. L. Feldt; Boston: de Gruyter, 2012), 55–94.
 
 *[p. 44]* ^pg51
@@ -162,9 +179,13 @@ The location of all of Israel’s cultural institutions in the mountains and val
 As an example, the perpetuation of the throne as well as the priesthood was dynastic. Further, the Davidic kingdom was the “house of David,”[^41] while the temple/tabernacle was conceptualized as God’s 
 
 [^37]: S. Talmon, “Har and Midbār: An Antithetical Pair of Biblical Motifs,” in *Figurative Language in the Ancient Near East* (ed. M. Mindlin, et al.; London: School of Oriental and African Studies, 1987), 114.
+
 [^38]: See Feldt, “Wilderness and Hebrew Bible Religion, 58: “What is so interesting about the Hebrew Bible desert wilderness is exactly that it oscillates between a real and a fantasmatic presentation, in between cosmology, literary motif, spatial practice and geography.”
+
 [^39]: According to A. de Pury, the “promise of the land” was “a promise of sedentarization” (De Pury, “The Jacob Story and the Beginning of the Formation of the Pentateuch,” in *A Farewell to the Yahwist?* 53). Nomadism was an unwanted state that the relationship with YHWH remedied.
+
 [^40]: N. Wyatt, citing S. Talmon, asserts there is no “nomadic ideal” in the Hebrew Bible (Talmon, “The ‘Desert Motif’ in the Bible and in Qumran Literature,” in *Biblical Motifs, Origins and Transformations* \[ed. A. Altmann, Cambridge, Mass.: Harvard University Press, 1966\], 34–38; N. Wyatt, “Sea and Desert: Symbolic Geography in West Semitic Religious Thought,” in *The Mythic Mind: Essays on Cosmology and Religion in Ugaritic and Old Testament Literature* \[London: Equinox, 2005\], 47–48).
+
 [^41]: [[I Samuel 20#^20-16|1 Sam 20:16]]; [[II Samuel 03#^3-1|2 Sam 3:1]]; [[I Kings 12#^12-19|1 Kgs 12:19–20]], [[I Kings 12#^12-26|26]]; [[I Kings 14#^14-18|14:18]]; [[II Chronicles 21#^21-7|2 Chr 21:7]]. Cf. ביתדוד in line 9 of the Tel Dan inscription (against G. Athas, who reads the word as a toponym. See G. Athas, *The Tel Dan Inscription: A Reappraisal and a New Interpretation* \[London: T&T Clark, 2003\], 280–81).
 
 *[p. 45]* ^pg52
@@ -178,8 +199,11 @@ was conceived of as dwelling בתוך, “in the midst” of Israel ([[Torah 19 
 The physical symbol of the presence of deity in Israel—the medium for his dwelling amidst Israel—was the temple. As the house of God and the source of divine guidance, the temple took on 
 
 [^42]: The rhetoric of transcendence eclipses the notion of the temple as God’s dwelling-place, but the notion endured in its later conceptualization as the dwelling-place for God’s name ([[Torah 47 - Re'eh#^12-11|Deut 12:11]]; [[II Samuel 07#^7-13|2 Sam 7:13]]; [[I Kings 05#^5-19|1 Kgs 5:5]]; [[Ezra 06#^6-12|Ezra 6:12]]).
+
 [^43]: J. D. Schloen, *The House of the Father as Fact and Symbol: Patrimonialism in Ugarit and the Ancient Near East* (Winona Lake, Ind.: Eisenbrauns, 2001), 256–62.
+
 [^44]: Smith, *The Memoirs of God*, 89.
+
 [^45]: Schloen remarks that “urban-rural” is roughly synonymous with “center-periphery” (Schloen, *The House of the Father as Fact and Symbol*, 317, n. 1). Here the concept of the container comes into play. They remain “inside” society as long as they are not beyond the periphery.
 
 *[p. 46]* ^pg53
@@ -187,9 +211,13 @@ The physical symbol of the presence of deity in Israel—the medium for his dwel
 functions as the “central, organizing, unifying institution in ancient Near Eastern society.”[^46] It could represent the religious, economic, judicial, and even political core of a city or nation. Often this conceptual centrality was accompanied by physical centrality: the temple would occupy the center of a city or fortress, both for the building’s protection and for symbolic reasons.[^47] A cult structure of some kind or another was important in early Israel to a city’s independent identity. Despite the ultimately successful Deuteronomistic campaign to centralize worship in one single temple in Jerusalem,[^48] ancient Israel commonly offered worship in a number of different cultic structures.[^49] The biblical texts describe several encounters with deity in the patriarchal and later narratives that were commemorated with the construction of an altar or standing stone ([[Torah 03 - Lech Lecha#^12-7|Gen 12:7]]; [[Torah 07 - Vayetzei#^28-18|28:18]], [[Torah 07 - Vayetzei#^28-22|22]]; [[Torah 07 - Vayetzei#^31-13|31:13]]; [[Torah 08 - Vayishlach#^33-20|33:20]]; [[Torah 08 - Vayishlach#^35-1|35:1]], [[Torah 08 - Vayishlach#^35-7|7]]), meant to delineate space that had been sacralized by the presence of deity. Settlements would accrete around these cultural and cultic foci (or so the traditions go),[^50] most significantly at Mount Moriah, where the messenger of YHWH—“standing between the earth and the heavens” (1 Chr 
 
 [^46]: J. M. Lundquist, “What is a Temple? A Preliminary Typology,” in *The Quest for the Kingdom of God: Studies in Honor of George E. Mendenhall* (ed. H. Huffmon, et al.; Winona Lake, Ind.: Eisenbrauns, 1983), 212.
+
 [^47]: Cf. J. C. de Vos, “‘Holy Land’ in [[Joshua 18#^18-1|Joshua 18:1–10]],” in *The Land of Israel in Bible, History, and Theology: Studies in Honour of Ed Noort* (ed. J. T. A. G. M. van Ruiten and J. C. de Vos; Leiden: Brill, 2009), 61–72. De Vos argues that the “divine presence” in Shiloh was the “holy centre,” laying between the land of Joseph and of Judah, surrounded by the lands of the other tribes.
+
 [^48]: That campaign would not be universally successful until around the turn of the era. Archaeological and textual data assert the existence of Jewish cultic installations at Elephantine and Leontopolis from the post-exilic and Greco-Roman periods: B. Porten, “The Structure and Orientation of the Jewish Temple at Elephantine—A Revised Plan of the Jewish District,” *JAOS* 18.1 (1966): 38–42; A. Wassertstein, “Notes on the Temple of Onias at Leontopolis,” *ICS* 18 (1993): 119–29.
+
 [^49]: See M. Haran, *Temples and Temple Service in Ancient Israel* (Winona Lake, Ind.: Eisenbrauns, 1985); Z. Zevit, *The Religions of Ancient Israel: A Synthesis of Parallactic Approaches* (London: Continuum, 2001), 123–266.
+
 [^50]: Early Israelite cultural centers included Bethel, Shechem, Gibeon, and Shiloh. Cf. G. Wright, “The Myhtology of Pre-Israelite Shechem,” *VT* 20.1 (1970): 75–82; Haran, *Temples and Temple Service in Ancient Israel*, 49–52; N. Na’aman, “Beth-Aven, Bethel, and Early Israelite Sanctuaries,” *ZDP-V* 103 (1987): 13–21; D. G. Schley, *Shiloh: A Biblical City in Tradition and History* (Sheffield: JSOT Press, 1989), 185–200; van der Toorn, “Saul and the Rise of Israelite State Religion,” *VT* 43.4 (1993): 519–42; J. Gomes, *The Sanctuary of Bethel and the Configuration of Israelite Identity* (Berlin: de Gruyter, 2006), 62–140.
 
 *[p. 47]* ^pg54
@@ -339,7 +367,9 @@ Zech:
 11 
 
 [^53]: The only known direct cognate is the Ugaritic *ʾlhm* (KTU 1.39:9; 1.41:6, 12, 14, 18, 30; 1.87:16).
+
 [^54]: I include all uses of the term that may be classified as the adjectival genitive (I do not consider אלהים to appear in a “superlative” sense; cf. Burnett, *A Reassessment of Biblical Elohim*, 57–60; Wardlaw, *Conceptualizing Words for “God”*, 106– 07). Wardlaw identifies 2,602 (Wardlaw, *Conceptualizing Words for “God”*, 97). Several scholars count 2,570 occurrences (K. van der Toorn, “God (I) אלהים,” *DDD* 352; Davies, “‘God’ in the Old Testament,” 178; A. J. Schmutzer, “Did the Gods Cause Abraham’s Wandering? An Examination of אלהים אתי התעו in Genesis 20.13,” *JSOT* 35.2 \[2010\]: 151, n. 3; M. Byrne, *The Names of God in Judaism, Christianity, and Islam* \[London: Continuum, 2011\], 27).
+
 [^55]: “Appellative” is defined by the OED as “a ‘common’ noun or name applicable to any one member of a whole class.” Thus it may function as a generic noun or a title (cf. Wardlaw, *Conceptualizing Words for “God”*, 129, n. 86). Personal names, as a general rule, do not appear in the construct. Epithets may be an exception to this rule (J. H. Choi, “Resheph and *YHWH ṢĔBĀʾÔT*,” *VT* 54.1 \[2004\]: 17–28), but there is no indication pronominal suffices ever appear with names. The word also appears around 375 times with the definite article, with 100 of those occurrences representing the vocative, and eight referring to other deities ([[Torah 17 - Yitro#^18-11|Exod 18:11]]; [[Torah 46 - Eikev#^10-17|Deut 10:17]]; [[Judges 10#^10-4|Judg 10:4]]; [[I Samuel 04#^4-8|1 Sam 4:8]] \[2x\]; [[Jeremiah 11#^11-12|Jer 11:12]]; [[Psalms 136#^136-2|Ps 136:2]]; [[II Chronicles 02#^2-4|2 Chr 2:4]]).
 
 *[p. 50]* ^pg57
@@ -359,10 +389,15 @@ God” > “God” \[DN\]),[^59] but the development is not linear (e.g., P rare
 the Hebrew Bible, as well, even in reference to YHWH (cf. אלהינו, [[Torah 45 - Vaetchanan#^6-4|Deut 6:4]]; [[Daniel 09#^9-9|Dan 9:9]]; [[Joel 1#^1-6|Joel 1:6]]; Mic 4;5; [[Zechariah 09#^9-7|Zech 9:7]]). In light of this, אלהים is best understood as a common noun that appears often in a titular 
 
 [^56]: Burnett, *A Reassessment of Biblical Elohim*, 2, n. 4; Wardlaw, *Conceptualizing Words for “God”*, 92–97, n. 4. The root \*ʾW/YL, meaning “to be in front” (and by semantic extension, “to be strong”), was most commonly cited in early scholarship in light of the conceptual proximity to איל (“leader,” “chief,” or “ram”), but the explanation has no evidentiary support and has little to no explanatory power for the term in the other Semitic languages (cf. Ringgren, “אלהים *ʾ*<sup>e</sup>*lōhîm*,” 273). Other suggestions, like \*ʾLH and the Arabic root *ʾillun* have been equally unsuccessful (On the latter, see F. Zimmerman, “*ʾEl* and *Adonai*,” *VT* 12.2 \[1962\]: 190–95).
+
 [^57]: Cf. Ringgren, “אלהים *ʾ*<sup>e</sup>*lōhîm*,” 273: “It is usually assumed that el and elohim are related.” While Ringgren acknowledges that this theory is not without problems, no more secure solution is available.
+
 [^58]: Pope, *El in the Ugaritic Texts*, 19 (cf. pp. 19–20 for discussion of אלהים as a plural form of אל).
+
 [^59]: See, for instance, Arnold and Choi, *GBHS*, 30–31: “The definite article can mark a common noun as a proper noun. . . . Related to this category is the solitary use of the definite article . . . in which appellatives referring to unique persons, places, or things are on their way to becoming a name: הָאֱלהִים, ‘God \[literally: *the* God\].’” Cf. Gesenius, *GKC* §125*f*: “In a few instances original appellatives have completely assumed the character of real proper names, and are therefore used without the article; thus הָאֱלהִים *God*.”
+
 [^60]: It does appear, for instance, in [[Torah 01 - Bereshit#^6-4|Gen 6:4]], [[Torah 02 - Noach#^6-9|9]]; [[Torah 03 - Lech Lecha#^17-18|17:18]]; [[Torah 13 - Shemot#^2-23|Exod 2:23]] (following the outline of P given in W. H. C. Propp, “The Priestly Source Recovered Intact?” *VT* 46.4 \[1994\]: 477). [[Torah 01 - Bereshit#^6-4|Gen 6:4]] is omitted from P by Friedman, Guillaume, Lohfink, and Pola (see P. Guillaume, *Land and Calendar: The Priestly Document from [[Torah 01 - Bereshit#^1-1|Genesis 1]] to [[Joshua 18#^18-1|Joshua 18]]* \[New York: T&T Clark, 2009\], 193–95; R. E. Friedman, *The Bible with Sources Revealed* \[New York: HarperCollins, 2003\], 42).
+
 [^61]: Ninety-six of the 375 occurrences with the article are in 1 & 2 Chronicles.
 
 *[p. 51]* ^pg58
@@ -412,10 +447,15 @@ synonymous with the singular אל and אלוה, but as Burnett notes, an abstrac
 otherwise left unexplained by the plural of majesty. The adjectival genitive use of אלהים is also better 
 
 [^67]: The notion of intensification seems to sit at the root of most arguments for the plural of majesty (Waltke and O’Connor, *IBHS* §7.4.3a–b; Wardlaw, *Conceptualizing Words for “God”*, 104), with contradictory data dismissed as “exceptions” (Waltke and O’Connor, *IBHS* §7.4.3b n. 16). The predominance of the plural in reference to YHWH over and against other deities is a product only of the paucity of references to single foreign deities.
+
 [^68]: That is, the words are synonyms, alternated for stylistic rather than semantic reasons. Burnett, *A Reassessment of Biblical Elohim*, 24.
+
 [^69]: Burnett, *A Reassessment of Biblical Elohim*, 7–53.
+
 [^70]: In essence, the abstract sense expressed the salient abstract qualities associated with the noun. Concretization took place through the firm or repeated association of those qualities with some entity. Burnett cites as another example of a concretized abstract plural the word בתולים ([[Torah 49 - Ki Teitzei#^22-15|Deut 22:15]]), meaning “evidences of virginity,” rather than the abstract “virginity” (Burnett, *A Reassessment of Biblical Elohim*, 22).
+
 [^71]: Burnett, *A Reassessment of Biblical Elohim*, 57–60.
+
 [^72]: Burnett quotes two such texts (Burnett, *A Reassessment of Biblical Elohim*, 27): *bbt ʾlm ʿštrt*, “in the house of the deity Ashtart”; *lrbty lʾlm ʾdrt ʾš ʾlm ʿštrt wʾlnm ʾš*, “to my Lady, to the majestic deity Isis, the deity Ashtart and the deities who . . .” Note the use of the variant plural form *ʾlnm* following the occurrences of the singular *ʾlm* in the latter text.
 
 *[p. 53]* ^pg60
@@ -439,7 +479,9 @@ doorpost; and his master shall pierce his ear with an awl; and he shall serve hi
 \[8\] If the thief is not caught, the owner of the house shall be brought אל־האלהים, to determine 
 
 [^73]: Burnett, *A Reassessment of Biblical Elohim*, 57–59; cf. Joüon and Muraoka, *GBH* §141*n*.
+
 [^74]: This tendency appears to have developed in the Rabbinic period. The Septuagint renders κριτήριον τοῦ θεοῦ, “tribunal of God,” at [[Torah 18 - Mishpatim#^21-6|Exod 21:6]], but 22:8 has only τοῦ θεοῦ. Targum Onqelos is the first translator of whom I am aware who renders “judges” (דיניה), which he does at [[Torah 01 - Bereshit#^3-5|Gen 3:5]]; [[Torah 18 - Mishpatim#^21-6|Exod 21:6]]; [[Torah 18 - Mishpatim#^22-7|22:7–8]], etc. Miamonides, citing Onqelos, insists that “every Hebrew” knows אלהים is a homonym that refers to God, angels, judges, and rulers (*Guide for the Perplexed* 1.2). In contemporary scholarship the “judges” reading has been all but abandoned outside of fundamentalist and apologetic publications (cf. J. R. Vannoy, “The Use of the Word *hāʾ*<sup>e</sup>*lōhîm* in [[Torah 18 - Mishpatim#^21-6|Exodus 21:6]] and 22:7, 8,” in *The Law and the Prophets* \[Philadelphia: Presbyterian and Reformed Publishing Co., 1974\], 225–41).
+
 [^75]: The phase אלהים בני, “sons of God,” “divine beings,” or “deities,” is sometimes interpreted as a reference to humans (cf. S. Fockner, “Reopening the Discussion: Another Contextual Look at the Sons of God,” *JSOT* 32.4 \[2008\]: 435–56), but this reading must be considered to be precluded in several instances, such as [[Job 38#^38-7|Job 38:7]], where the אלהים בני shout for joy at the creation of the earth, or [[Torah 01 - Bereshit#^6-2|Gen 6:2]], [[Torah 01 - Bereshit#^6-4|4]], where the אלהים בני are contrasted with the האדם בנות, “daughters of Adam/humanity.” Fockner’s attempt to read [[Torah 01 - Bereshit#^6-2|Gen 6:2]], [[Torah 01 - Bereshit#^6-4|4]] as references to distinct human lineages demands a series of unsupportable and question-begging presuppositions.
 
 *[p. 54]* ^pg61
@@ -467,9 +509,13 @@ pronouns, or adjectives is not unheard of (cf. [[Torah 04 - Vayera#^20-13|Gen 20
 [[Torah 18 - Mishpatim#^22-9|Exod 22:10–11]] stipulate an “oath of YHWH” for a strikingly similar situation. Specifically, if an animal is entrusted to another, and it disappears or dies, the borrower must swear an oath that he has 
 
 [^76]: One of two arguments undergirds this theory: (1) the etymological fallacy is employed, and the notion of “strength,” or “might” is asserted for the root אל (cf. KJV [[Psalms 029#^29-1|Ps 29:1]]); or (2) as representatives of God, Israelite judges may be metonymically referred to as “gods” (cf. [[Torah 14 - Vaera#^7-1|Exod 7:1]]).
+
 [^77]: For instance, see C. H. Gordon, “ אלהי ם in Its Reputed Meaning of Rulers, Judges,” *JBL* 54.3 (1935): 139–44; A. E. Draffkorn, “Ilāni/Elohim,” *JBL* 76.3 (1957): 216–24.
+
 [^78]: There are no plural verbal forms to complicate the interpretation of [[Torah 18 - Mishpatim#^21-5|Exod 21:5–6]]. See B. Childs, *Myth and Reality in the Old Testament* (London: SCM, 1962), 34–37; B. Levinson, *Deuteronomy and the Hermeneutics of Legal Innovation* (New York: Oxford University Press, 1997), 113 n. 43; Wright, *Inventing God’s Law*, 255–56.
+
 [^79]: See Levinson, *Deuteronomy and the Hermeneutics of Legal Innovation*, 113 n. 43; Wright, *Inventing God’s Law*, 255–58 and n. 78; Heiser, “Should אלהים (*ʾĔLŌHÎM*) with Plural Predication Be Translated ‘Gods’?” BT 61.3 (2010): 123–36. On [[Torah 04 - Vayera#^20-13|Gen 20:13]]; [[Torah 07 - Vayetzei#^31-53|31:53]]; [[Torah 08 - Vayishlach#^35-7|35:7]], cf. Schmutzer, “Did the Gods Cause Abraham’s Wandering?,” 149–66.
+
 [^80]: See Heiser, “Should אלהים (*ʾĔLŌHÎM*) with Plural Predication Be Translated ‘Gods’?” 129–32.
 
 *[p. 55]* ^pg62
@@ -481,8 +527,11 @@ Through what means, then, does God “condemn” (hiphil רשׁע) a guilty part
 swearing of an oath before deity to determine guilt or innocence was quite common to the ancient Near East. As an example, requirements very similar to those of [[Torah 18 - Mishpatim#^22-7|Exod 22:8–9]] are found for a variety of legal situations in the laws of Hammurabi (LH).[^82] According to section 120, if a man stores grain with another, and somehow the amount of grain is reduced, the former may declare the original amount “before the god” (*maḫar ilim*)[^83] and be restored double that amount. According to section 249, if a man rents an ox, and it dies through no fault of the renter,[^84] he may go free if he swears an oath “before the god” (*nīš ilim*) that he was not at fault. The oath was a test of the swearer’s belief in their own innocence. One who had the courage to swear an oath before God/the gods, or who could do so without divine intervention, must not be guilty. On the other hand, one who knew their own guilt 
 
 [^81]: This was the consideration the compelled J. R. Vannoy to determine [[Torah 18 - Mishpatim#^22-7|Exod 22:8–9]] must be referring to human judges as representatives of God (Vannoy, “The Use of the Word *hāʾ*<sup>e</sup>*lōhîm*,” 225–41, esp. 240).
+
 [^82]: Wright argues convincingly for the literary dependence of the Covenant Code on the laws of Hammurabi (Wright, *Inventing God’s Law*). While the laws are not imported verbatim, but are adapted to serve the authors’ cultural and rhetorical needs, dependence is evident in many places. Relevant to the above discussion, LH §282 commands the severing of a slave’s ear should he reject the ownership of his master. CC reverses the relevance of the mutilated ear to the slave/master relationship, having the ear pierced to indicate lifelong commitment (Wright, *Inventing God’s Law*, 133–35 and n. 57). Note, particularly, the discussion of appearance (*ina*) *maḥar ilim*, “before the god” (pp. 135–37; 245–48; 252–58).
+
 [^83]: Cf. *Laws of Eshnunna* 37. I understand the singular sense of *ilim* to be intended, but the discussion is hardly undermined by a plural reading.
+
 [^84]: Literally, *ilum imḫaṣma imtūt*, “a god strike it and it die.”
 
 *[p. 56]* ^pg63
@@ -492,11 +541,17 @@ would fear the consequences of swearing falsely before the deity or deities. The
  *אל 2.3.2* אל is the most lexically basic term for “deity” in Biblical Hebrew. A search using the Groves-Wheeler Westminster Hebrew Morphology identifies 236 occurrences of the word אל in the Hebrew Bible, but I add [[Ezekiel 32#^32-21|Ezek 32:21]][^86] and [[Psalms 058#^58-2|Ps 58:2]][^87] to bring the total to 238.[^88] Not included in this tally are possible uses in [[Torah 54 - V'Zot HaBerachah#^33-2|Deut 33:2]];[^89] [[Judges 09#^9-46|Judg 9:46]];[^90] and [[Torah 07 - Vayetzei#^31-29|Gen 31:29]] (and related).[^91] The term’s frequency by book is as follows: 
 
 [^85]: “\[27\] When he has made her drink the water, then, if she has defiled herself and has been unfaithful to her husband, the water that brings the curse shall enter into her and cause bitter pain, and her womb shall discharge, her uterus drop, and the woman shall become an execration among her people. \[28\] But if the woman has not defiled herself and is clean, then she shall be immune and be able to conceive children.”
+
 [^86]: שׁאול מתוך גבורים אלי לו ידברו, “The gods of the mighty will speak to him from the midst of Sheol.”
+
 [^87]: תדברון צדק אלם האמנם, “Truly, O gods, do you decree what is just?” Most recent translations read אלים (ESV, JPS, NASB, NIV, NRSV), although some read אלם as “silent,” or “muteness,” and more conservative translations preserve outdated renderings like “rulers” (NIV), or “mighty ones” (JPS). J. Kselman and M. Barré have argued that the form is intentionally ambiguous in order to suggest both “muteness” (לם א) and “gods” (אלים): Kselman and Barré, “A Note on *ʾēlem* in Ps LVIII 2,” *VT* 54.3 (2004): 400–402. See also Heiser, “Should אלהים (*ʾĔLŌHÎM*) with Plural Predication Be Translated ‘Gods’?” 135–36.
+
 [^88]: The usual number is 238 (G. Davies, “‘God’ in Old Testament Theology,” in *Congress Volume: Leiden 2004* \[ed. A. Lemaire; Leiden: Brill, 2006\], 177), but that number appears to be based on *Strong’s Concordance*.
+
 [^89]: MT preserves למו אשׁדת מימינו, but BHS restores אלים אשׁרו מימינו, P. D. Miller restores אלם אשׁד מימינו (Miller, “Two Critical Notes on Psalm 68 and Deuteronomy 33,” *HTR* 57.3 \[1964\]: 240–43 \[note אלים גבורי in 1QM xv:14\]), and Cross restores אלם אשׁר מימינו (Cross, *CMHE*, 101).
+
 [^90]: ברית אל בית צריח אל באווי, “And they went into the tunnel of the house of El-Berith.” Most render El-berith (ESV, JPS, NASB, RSV; note that v. 4 refers to the temple of Baal-berith), but cf. Davies, “‘God’ in Old Testament Theology,” 177. That Davies follows *Strong’s Concordance* may be supported by the KJV’s rendering of this phrase as “the god Berith.” *Strong’s Concordance* and its dictionary are based on the KJV translation.
+
 [^91]: ידנו לאל ואין. Related phrases also occur in [[Torah 50 - Ki Tavo#^28-32|Deut 28:32]]; [[Micah 2#^2-1|Mic 2:1]]; [[Proverbs 03#^3-27|Prov 3:27]]; [[Nehemiah 05#^5-5|Neh 5:5]]. Cross confidently suggests a redivision of the words to read לידנו לא אין, with לא understood as the root \*LʾY (Cross, “אל *ʾēl*,” *TDOT* 1:260–61), but this view has garnered few adherents. Wardlaw, citing Schmidt, notes that “there is not enough evidence to draw any firm conclusions” regarding this usage (Wardlaw, *Conceptualizing Words for “God”*, 155; cf. W. H. Schmidt, “אל,” *THAT* 1:142). It is therefore omitted from consideration.
 
 *[p. 57]* ^pg64
@@ -596,9 +651,13 @@ criticisms have been leveled against this line of thinking on the grounds that l
 borrowing do not indicate referential equality.[^96] In other words, Israelites may have adopted the 
 
 [^92]: ; J. G. McConville, “Yahweh and the Gods in the Old Testament,” *EuroJTh* 2 (1993): 107–17; Wardlaw, *Conceptualizing Words for “God”*, 124–29.
+
 [^93]: Arthrous אל appears twenty times: [[Torah 07 - Vayetzei#^31-13|Gen 31:13]]; [[Torah 11 - Vayigash#^46-3|46:3]]; [[Torah 45 - Vaetchanan#^7-9|Deut 7:9]]; [[Torah 46 - Eikev#^10-17|10:17]]; [[II Samuel 22#^22-31|2 Sam 22:31]], [[II Samuel 22#^22-33|33]], [[II Samuel 22#^22-48|48]]; [[Isaiah 05#^5-16|Isa 5:16]]; [[Isaiah 42#^42-5|42:5]]; [[Jeremiah 32#^32-18|Jer 32:18]]; [[Psalms 018#^18-31|Ps 18:31]], 33, 48; [[Psalms 068#^68-20|68:20]], [[Psalms 068#^68-21|21]]; [[Psalms 077#^77-15|77:15]]; [[Psalms 085#^85-9|85:9]]; [[Daniel 09#^9-4|Dan 9:4]]; [[Nehemiah 01#^1-5|Neh 1:5]]; [[Nehemiah 09#^9-32|9:32]]. The first common singular pronominal suffix appears eleven times: [[Torah 16 - Beshalach#^15-2|Exod 15:2]]; [[Isaiah 44#^44-17|Isa 44:17]]; [[Psalms 018#^18-3|Ps 18:3]]; [[Psalms 022#^22-2|22:2]], [[Psalms 022#^22-11|11]]; [[Psalms 063#^63-2|63:2]]; [[Psalms 068#^68-25|68:25]]; [[Psalms 089#^89-27|89:27]]; [[Psalms 102#^102-25|102:25]]; 118:28; [[Psalms 140#^140-7|140:7]].
+
 [^94]: The name Jacob gives to the altar in [[Torah 08 - Vayishlach#^33-20|Gen 33:20]], אלהי־ישׂראל אל, seems *prima facie* to include a proper name followed by an appositive construct phrase: “El, the god of Israel.” Other interpretations have been offered, though.
+
 [^95]: Pope, *El in the Ugaritic Texts*; O. Eissfeldt, "El and Yahweh,” *JSS* 1 (1956): 25–37; Cross, *CMHE*, 1–75; van der Toorn, *Family Religion in Babylonia, Syria, and Israel*, 258–59; M. Smith, *The Early History of God*, 19–43; Smith, *Origins of Biblical Monotheism*, 137–40.
+
 [^96]: R. Rendtorff, “El, Baʿal und Jahwe. Zum Verhältnis von kanaaäischer und israelitischer Religion,” *ZAW* 78 (1966): 277–
 
 *[p. 58]* ^pg65
@@ -612,9 +671,13 @@ The Pentateuch in particular contains several ostensibly early El-epithets, incl
 6:15; cf. [[Joshua 24#^24-19|Josh 24:19]]).[^97] Many have understood these epithets to reflect the borrowing or perpetuation of designations for the Canaanite ʾIlu, but that view is not without significant criticism. Several scholars have argued that proper nouns cannot appear in the construct state,[^98] mitigating the range of possible interpretations of these epithets as containing the proper name El (although not eliminating appositive readings). Careful consideration of the data, however, undermines such an absolute grammatical proscription. “YHWH of Teman” and “YHWH of Samaria” appear in the Kuntillet ʿAjrud inscriptions,[^99] showing the proper name YHWH may be modified by place names.[^100] Additionally, an Ugaritic epithet, *ršp ṣbʾi* (“Reseph of the Host”),[^101] provides a remarkable parallel to the Hebrew 
 
 [^97]: On these epithets, see Cross, *CMHE*, 44–60; P. D. Miller, *Israelite Religion and Biblical Theology: Collected Essays* (Sheffield: Sheffield Academic Press, 2000), 73; Day, *Yahweh and the Gods and Goddesses of Canaan*, 32–41; Smith, *The Early History of God*, 41–43; Wardlaw, *Contextualizing Words for “God”*, 134–50;
+
 [^98]: Gesenius, *GKC* §125*d*; Joüon and Muraoka, *GBH* §131*n*.
+
 [^99]: J. A. Emerton, “New Light on Israelite Religion: The Implications of the Inscriptions from Kuntillet ʿAjrud,” *ZAW* 94
+
 [^100]: This phenomenon also occurs in epithets associated with Baal and Anat (Choi, “Resheph and *YHWH ṢĔBĀʾÔT*,” 17–18).
+
 [^101]: KTU 1.91:15. Cf. Choi, “Resheph and *YHWH ṢĔBĀʾÔT*,” 19 n. 11.
 
 *[p. 59]* ^pg66
@@ -632,10 +695,15 @@ clear example of a proper name with a construct phrase in apposition: “El, the
 and perhaps indicating the intended sense of the construction in [[Torah 08 - Vayishlach#^33-20|Gen 33:20]]. Ultimately, [[Torah 08 - Vayishlach#^33-20|Gen 33:20]] does not provide conclusive evidence that Biblical Hebrew אל should be taken as a personal name.[^107] The possibility certainly exists that it was understood as a proper noun—that appears to be the case with the Ugaritic use of the lexeme—but the appellative sense dominates in the Hebrew Bible, and I see no clear method for definitively identifying a particular instantiation as a proper name. As a result, this thesis will consider the noun to function fundamentally as a generic and common noun. 
 
 [^102]: The Ugaritic epithet also shows there is no need to posit the suppression of an “appellative idea contained in the name” (Gesenius, *GKC* §125*h*), or insist on an original causitive verbal sense for the name YHWH (Cross, *CMHE*, 70).
+
 [^103]: The text has “altar,” but verb used to refer to the erecting of the altar, נצב, “to stand,” does not occur elsewhere with “altar,” suggesting the text originally had מצבה, “stela” (cf. [[Torah 08 - Vayishlach#^35-14|Gen 35:14]], [[Torah 08 - Vayishlach#^35-20|20]]; [[II Samuel 18#^18-18|2 Sam 18:18]]; [[II Kings 17#^17-10|2 Kgs 17:10]]; van der Toorn, *Family Religion in Babylonia, Syria, and Israel*, 257, n. 93).
+
 [^104]: Cf. [[Torah 38 - Korach#^16-22|Num 16:22]] (הרוחת אלהי אל), and Wardlaw, *Conceptualizing Words for “God”*, 144–46. Van der Toorn cites Köckert’s rejection of the *nomen proprium* usage in [[Torah 08 - Vayishlach#^33-20|Gen 33:20]] and 46:3 and asserts he “fails to explains \[*sic*\] the resulting redundancy of El and Elohim” (van der Toorn, *Family Religion in Babylonia, Syria, and Israel*, 258 n. 98, referring to M. Köckert, *Vatergott und Vaterverheissungen: eine Auseinandersetzung mit Albrecht Alt und seinen Erben* \[Göttingen: Vandenhoech & Ruprecht, 1988\], 83, 86–87).
+
 [^105]: Waltke and O’Connor, *IBHS*, §12.5a.
+
 [^106]: Wardlaw suggests this reading, drawing from Rashi’s interpretation and Van Seters’ updating of the argument, which marshals the name of Gideon’s altar from [[Judges 06#^6-24|Judg 6:24]] as an analogue: שׁלום יהוה (Wardlaw, *Conceptualizing Words for “God”*, 144; Van Seters, “The Religion of the Patriarchs in Genesis,” *Bib* 61.2 \[1980\]: 222–23; van der Toorn, *Family Religion in Babylonia, Syria, and Israel*, 257).
+
 [^107]: Rahmouni draws a clear distinction between an epithet and a divine name (Rahmouni, *Divine Epithets in the Ugaritic Texts*, xix–xx). As long as the construction contains at least one element that is a common noun, it is an epithet (e.g., “Rašap of the Army” is an epithet, while “Rašap of \[the city\] Ribiti” is not). Note individual elements within the epithet may themselves represent divine names.
 
 *[p. 60]* ^pg67
@@ -735,7 +803,9 @@ designation YHWH by Abraham, Isaac, and Jacob within the Genesis narratives (e.g
 This chapter thus proceeds with separate analyses of the patriarchal and exodus traditions. Both will be shown to rely directly and heavily on broader Near Eastern divine imagery. While the primary expression of these divine profiles is found in the books of Genesis and Exodus, respectively, 
 
 [^3]: See Carr, *Reading the Fractures of Genesis*; K. L. Sparks, *God’s Word in Human Words: An Evangelical Appropriation of Critical Biblical Scholarship* (Grand Rapids, Mich.: Baker, 2008), 82–88; Baden, *The Composition of the Pentateuch*, 34–44.
+
 [^4]: This suggests the original merging of the patriarchal and exodus traditions was executed by P, which complicates the view that the J or E sources represented coordinated pentateuchal macro-narratives. Rather, they appear to be narrative fragments that were limited to portions of Genesis and later supplemented the growing textual tradition of the Pentateuch. Unfortunately, there is not space to fully address this fascinating area of study, but see the contributions of Schmid and Blum in *A Farewell to the Yahwist?* as well as the responses by Levin, Van Seters, and Carr. For the most extended criticism of Schmid, see J. S. Baden, “The Continuity of the Non-Priestly Narrative from Genesis to Exodus,” *Bib* 93.2 (2012): 161–86. For Baden’s broader campaign to revive the Documentary Hypothesis, see Baden, *The Composition of the Pentateuch*.
+
 [^5]: Such as יצחק פחד, “Fear of Isaac” (31:42); יעקב אביר, “Bull of Jacob” (49:24); ישׂראל אבן, “Stone of Israel” (49:24). In Genesis, the El epithets include עליון אל, “God Most High” (14:18, 19, 20, 22); ראי אל, “God of Seeing” (16:13); שׁדי אל, “God of the Mountains/Wilderness” (17:1; 28:3; 35:11; 43:14; 48:3); עולם אל, “God Eternal” (21:33); אב אל, “God of the Father” (49:25).
 
 *[p. 64]* ^pg71
@@ -763,6 +833,7 @@ blessings of the breasts and of the womb.
 Several epithets here evoke imagery associated with divine patriarchy and the broader Syro-Palestinian notion of the ancestral deity, especially in his procreative capacity. God is called “Bull of Jacob,”[^7] “God of your father,”<sup>8</sup> and “Shaddai.”<sup>9</sup> The title “Bull of Jacob” likely educes the concept of 
 
 [^6]: This translation departs from NRSV only in literally rendering the divine epithets, rather than using traditional titles like “Almighty,” or “Mighty One of Jacob.”
+
 [^7]: יעקב אביר. Cf. [[Isaiah 01#^1-24|Isa 1:24]]; [[Isaiah 49#^49-26|49:26]]; [[Isaiah 60#^60-16|60:16]]; [[Psalms 132#^132-2|Ps 132:2]], [[Psalms 132#^132-5|5]]. For this reading, see P. D. Miller, “Animal Names as Designations in Ugaritic and Hebrew,” *UF* 11 (1979): 177*–*86; T. J. Mafico, “The Divine Compound Name יְהוָה אֱל ֹהִים and Israel’s Monotheistic
 
 *[p. 65]* ^pg72
@@ -828,10 +899,15 @@ his patron deity.[^17-p66] The epithet is invoked four times in total—once by 
 with the title וארץ שׁמים קנה, “Creator of Heaven and Earth.”[^18-p66] Later Yahwistic authors altered the 
 
 [^13-p66]: See T. N. D. Mettinger, *In Search of God: The Meaning and the Message of the Everlasting Names* (trans. by F. H. Cryer; Philadelphia: Fortress Press, 1987), 66–67; Heiser, “The Divine Council,” 86–87; D. Tasker, *Ancient Near Eastern Literature and the Hebrew Scriptures About the Fatherhood of God* (New York: Peter Lang, 2004), 81–87; A. Curtis, “Encounters with El,” in *“He Unfurrowed His Brow and Laughed”: Essays in Honour of Professor Nicolas Wyatt* (ed. W. G. E. Watson; Münsten: Ugarit-Verlag, 2007), 59–72.
+
 [^14-p66]: The rendering “who begot you” for קנך in [[Torah 53 - Ha'Azinu#^32-6|Deut 32:6]] reflects a contemporary scholarly conclusion that the verbal root קנה has a procreative nuance in certain contexts: W. Irwin “Where Shall Wisdom Be Found?” *JBL* 80.2 (1961): 133–42; N. Habel, “‘Yahweh, Maker of Heaven and Earth’: A Study in Tradition Criticism,” *JBL* 91.3 (1972): 326–32; S. Paas, *Creation and Judgment: Creation Texts in Some Eighth Century Prophets* (Leiden: Brill, 2003), 68–69; Bokovoy, “Did Eve Acquire, Create, or Procreate with Yahweh? A Grammatical and Contextual Reassessment of קנה in Genesis 4:1,” *VT* 63.1 (2013): 22–30.
+
 [^15-p66]: According to Rahmouni, seven times the phrase *ṯr ʾl abh*/*k*/*y* is parallel to another procreative epithet (Rahmouni, *Divine Epithets in the Ugaritic Alphabetic Texts*, 324–26).
+
 [^16-p66]: YHWH in v. 22 may be a late interpolation. It is absent from the Greek, the Syriac, and Qumran’s *Genesis Apocryphon*.
+
 [^17-p66]: The Semitic divine names *ʾl* and *ʿlyn* elsewhere designate distinct but associated deities. They are listed beside each other in the Aramaic Sefire inscription (J. Fitzmyer, *The Aramaic Inscriptions of Sefire* \[Rome: Editrice Pontificio Istituto Biblico, 1995\], 42). In Philo of Byblos’ *Phoenician History*, Elioun is the grandfather of El, whose mother is “Earth” and father is “Heaven” (Eusebius, *Praeperatio evangelica* 1.10.14–30). Cf. G. Della Vida, “El ’Elyon in [[Torah 03 - Lech Lecha#^14-18|Genesis 14:18–20]],” *JBL* 63.1 (1944): 1– 9; Pope, *El in the Ugaritic Texts* (VTSup 2; Leiden: Brill, 1955), 49–58; Habel, “‘Yahweh, Maker of Heaven and Earth,’” 321–24.
+
 [^18-p66]: This epithet no doubt derives from the Syro-Palestinian *ʾl qn ʾrṣ*, found in the Azatiwada Inscription (KAI 26 A.3:18–19; A. Schade, “A Text Linguistic Approach to the Syntax and Style of the Phoenician Inscription of Azatiwada,” *JSS* 50.1 \[2005\]:
 
 *[p. 67]* ^pg74
@@ -845,8 +921,11 @@ Before moving on to the conceptualization of the god of the exodus, we may illus
 53\. –54; “The Azatiwada Inscription,” translated by K. Lawson Younger, Jr. \[*COS* 2.150\]) and in an eighth/seventh century BCE Jerusalem inscription (P. Miller, “El, Creator of the Earth,” *BASOR* \[1980\]: 239 43–46). Cf. the Hittite rendering Elkunirša, from a thirteenth century BCE text (CTH 342; “Elkunirša and Ašertu,” translated by G. Beckman \[*COS* 1.149\]).
 
 [^19-p67]: [[Psalms 115#^115-15|Ps 115:15]]; [[Psalms 131#^131-2|131:2]]; [[Psalms 124#^124-8|124:8]]; [[Psalms 134#^134-3|134:3]]; [[Psalms 146#^146-6|146:6]].
+
 [^20-p67]: The overlapping notion of theogony may very well underlie the title וארץ שׁמים קנה, which can be rendered “Procreator of Heaven and Earth.” See Bokovoy, “Did Eve Acquire, Create, or Procreate with Yahweh?” 22–26.
+
 [^21-p67]: He is the “God of Abraham” ([[Torah 06 - Toldot#^26-24|Gen 26:24]]) and “God of Abraham, Isaac, and Jacob” ([[I Kings 18#^18-36|1 Kgs 18:36]]). Note the similar Yahwistic appropriation of the “god of PN” formula: “YHWH, the god of Shem” (שׁם אלהי יהוה, [[Torah 02 - Noach#^9-26|Gen 9:26]]); “YHWH, the god of Elijah” (אליהו אלהי יהוה, [[II Kings 02#^2-14|2 Kgs 2:14]]); “YHWH, the god of David” (דוד אלהי יהוה, [[II Kings 20#^20-5|2 Kgs 20:5]]).
+
 [^22-p67]: Cf. Schloen, *The House of the Father as Fact and Symbol*, 255–61; Smith, *Origins of Biblical Monotheism*, 52–61.
 
 *[p. 68]* ^pg75
@@ -938,8 +1017,11 @@ thick darkness was under his feet.
 he came swiftly upon the wings of the wind. 
 
 [^24-p70]: L. Axelsson, *The Lord Rose up from Seir: Studies in the History and Traditions of the Negev and Southern Judah* (Stockholm: Almqvist & Wicksell, 1987); van der Toorn, *Family Religion*, 281–86.
+
 [^25-p70]: Note, too, the sympathetic representation of the ethnic groups from that region within the earliest exodus tradition: Moses was married the daughter of a Midianite priest and received his priesthood training from him (Exod 2–3; cf. 18:7); the Israelites are commanded not to abhor the Edomites, who are their brothers ([[Torah 49 - Ki Teitzei#^23-8|Deut 23:7]]); several early Israelite heroes are identified as Kenites (Caled: [[Torah 42 - Matot#^32-12|Num 32:12]]; [[Joshua 14#^14-6|Josh 14:6]], [[Joshua 14#^14-14|14]]; Othniel: [[Judges 03#^3-9|Judg 3:9]]; Jael: Judg 4;17; 5:24; the Rechabites: [[II Kings 10#^10-15|2 Kgs 10:15–17]], [[II Kings 10#^10-23|23]]; [[Jeremiah 35#^35-1|Jer 35:1–19]]; [[I Chronicles 02#^2-55|1 Chr 2:55]]).
+
 [^26-p70]: The earliest witnesses come from thirteenth and fourteenth century BCE Egypt, and designate a portion of Edomite territory with *tꜢ šꜢśw yhwꜢ*, “the land of the Shasu, namely YhwꜢ.” See Axelsson, *The Lord Rose up from Seir;* T. Schneider, “The First Documented Occurrence of the God Yahweh? (Book of the Dead, Princeton ‘Roll 5’),” *JANER* 7.2 (2008): 113–14; Blenkinsopp, “The Midianite-Kenite Hypothesis Revisited,” 131–53; Smith, *God in Translation*, 96–98, n. 22.
+
 [^27-p70]: For the most thorough treatments of this imagery, see P. Dion, “YHWH as Storm-god and Sun-god: The Double Legacy of Egypt and Canaan as Reflected in [[Psalms 104#^104-1|Psalm 104]],” *ZAW* 103.1 (1991): 48–58; A. Green, *The Storm-God in the Ancient Near East* (Winona Lake, Ind.: Eisenbrauns, 2003); and D. Schwemer’s extended critique of the latter in Schwemer, “The Storm-Gods of the Ancient Near East: Summary, Synthesis, Recent Studies. Part 1,” *JANER* 7.2 (2008): 121–68, and Schwemer, ““The Storm-Gods of the Ancient Near East: Summary, Synthesis, Recent Studies. Part 2,” *JANER* 8.1 (2008): 1–44. Cf. Klingbeil, “Mapping the Literary to the Literary Image,” *DWdO* 39.2 (2009): 205–22.
 
 *[p. 71]* ^pg78
@@ -983,10 +1065,15 @@ may have developed out of the powers arrogated to those who succeeded in battle 
 the Ugaritic literature Baʿlu accedes to the throne after defeating his fraternal challenger, Yammu 
 
 [^28-p71]: “Hailstones and coals of fire” are repeated here in [[Psalms 018#^18-14|Ps 18:14]], but NRSV follows [[II Samuel 22#^22-14|2 Sam 22:14]] in omitting the dittography.
+
 [^29-p71]: [[Torah 46 - Eikev#^11-17|Deut 11:17]]; [[I Kings 08#^8-35|1 Kgs 8:35]]//[[II Chronicles 06#^6-26|2 Chr 6:26]]; [[II Chronicles 17#^17-1|17:1–18:2]]; [[Isaiah 05#^5-6|Isa 5:6]]; [[Jeremiah 03#^3-3|Jer 3:3]]; [[Zechariah 14#^14-17|Zech 14:17–18]]; [[II Chronicles 07#^7-13|2 Chr 7:13]].
+
 [^30-p71]: [[Torah 01 - Bereshit#^2-5|Gen 2:5–6]]; [[Torah 33 - Bechukotai#^26-4|Lev 26:4]]; [[Torah 46 - Eikev#^11-14|Deut 11:14]]; [[Torah 50 - Ki Tavo#^28-12|28:12]]; [[I Kings 18#^18-1|1 Kgs 18:1]]; [[Isaiah 30#^30-23|Isa 30:23]]; [[Jeremiah 05#^5-24|Jer 5:24]]; [[Jeremiah 10#^10-13|10:13]]; [[Zechariah 10#^10-1|Zech 10:1]]; [[Psalms 065#^65-10|Ps 65:10–11]]; [[Psalms 068#^68-10|68:10]]; [[Job 05#^5-10|Job 5:10]]; [[Job 37#^37-6|37:6]]; [[Job 38#^38-26|38:26]].
+
 [^31-p71]: In the Sargonic period, the storm-deity’s attendant animal began to shift from the lion-dragon to the bull. The fertility aspects of bull imagery were particularly dominant in northern Syria in the Early Iron Age (Keel and Uehlinger, *Gods,* *Goddesses, and Images of God*, 118–20; T. Ornan, “The Bull and Its Two Masters: Moon and Storm Deities in Relation to the Bull in Ancient Near Eastern Art,” *IEJ* 51.1 \[2001\]: 1–26).
+
 [^32-p71]: Van der Toorn, *Family Religion*, 288–91; Smith, *The Memoirs of God*, 35; B. Sommer, *The Bodies of God and the World of Ancient Israel* (Cambridge: Cambridge University Press, 2009), 53; cf. S. Cook, *The Social Roots of Biblical Yahwism* (Atlanta, Ga.: Society of Biblical Literature, 2004), 251–59.
+
 [^33-p71]: This according to Jacobsen: “When attack threatened, a young noble was chosen *pro tem* to lead the community in battle and was granted supreme powers during the emergency” (Jacobsen, *Treasures of Darkness: A History of Mesopotamian Religion* \[New Haven, Conn.: Yale University Press, 1976\], 83; appearing without quotations in Kang, *Divine War in the Old Testament* \[Berlin: de Gruyter, 1989\], 12).
 
 *[p. 72]* ^pg79
@@ -1002,7 +1089,11 @@ The imagery central to YHWH’s conceptualization thus appears to be grounded in
 A final and critical aspect of YHWH’s conceptualization was his limited purview. The earliest references to his worship indicate that his authority was limited to the land of Israel. [^38-p72] The 
 
 [^34-p72]: The deity is also referred to as *nhr*, “river” (KTU 1.2.iii 9–10). On the conflict between Baʿlu and Yammu, see Smith, *The Ugaritic Baal Cycle. Volume I* (Leiden: Brill, 1994), 319–62; Green, *The Storm-God in the Ancient Near East*, 178–88.
+
 [^35-p72]: ישׁב למבול יהוה. The word מבול occurs only in the context of the deluge ([[Torah 02 - Noach#^6-17|Gen 6:17]]; 7;6, 7, 10, 17; 9:11, 15, 28; 10:1, 32; 11:10). Another possible rendering, “YHWH has reigned *since* the flood,” is proposed by Gary Rendsburg as part of an argument for a northern origin for the Psalm. In that region the inseparable prefix ל- may signify “from,” or “since” (Rendsburg, *Linguistic Evidence for the Northern Origin of Selected Psalms* \[Atlanta, Ga.: Scholars Press, 1990\], 36). Cf. KTU 1.2.iv:10, where the craftsman deity Kothar wa-Hasis proclaims before Baal’s battle, *tqḥ.mlk.ʿmk* / *drkt.dt.dr.drk*, “You will take your eternal kingship / your dominion will be forever and ever.” For [[Psalms 029#^29-1|Psalm 29]], see F. M. Cross, “Notes on a Canaanite Psalm in the Old Testament,” *BASOR* 117 (1950): 19–21; Green, *The Storm-God in the Ancient Near East*, 261–64; but cf. P. C. Craigie, “Psalm XXIX in the Hebrew Poetic Tradition,” *VT* 22.2 (1972): 143–51; and D. Pardee, “On [[Psalms 029#^29-1|Psalm 29]]: Structure and Meaning,” in *The Book of Psalms: Composition and Reception* (ed. P. W. Flint and P. D. Miller, Jr.; Leiden: Brill, 2005), 153–83.
+
 [^36]: J. Day, *God’s Conflict with the Dragon and the Sea* (London: Cambridge: 1985).
+
 [^37-p72]: [[I Samuel 01#^1-3|1 Sam 1:3]], [[I Samuel 01#^1-11|11]]; [[II Kings 23#^23-5|2 Kgs 23:5]]; [[Psalms 046#^46-8|Ps 46:7]]; [[Psalms 084#^84-13|84:12]]; [[Torah 45 - Vaetchanan#^4-19|Deut 4:19]]; [[Torah 48 - Shoftim#^17-3|17:3]]; [[Judges 05#^5-20|Judg 5:20]]. On the occurrence of a personal name in the construct, see Choi, “Resheph and *YHWH Ṣĕbāʾôt*,” 17–28.
+
 [^38-p72]: M. Tsevat, “God and the Gods in Assembly: An Interpretation of [[Psalms 082#^82-1|Psalm 82]],” *HUCA* 40–41 (1969–1970): 123; R. Albertz, *A History of Israelite Religion in the Old Testament Period. Volume I: From the Beginnings to the End of the Monarchy* (translated by J. Bowden; Louisville, Kent.: Westminster John Knox, 1994), 228; J. Blenkinsopp, “The Age of the Exile,” in *The Biblical World. Volume I* (ed. J. Barton; London: Routledge, 2002), 430; Smith, *God in Translation*, 120–25.

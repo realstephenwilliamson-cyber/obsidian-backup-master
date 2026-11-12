@@ -47,6 +47,7 @@ The church of God that temporarily resides in Rome, to the church of God that te
 2 For this reason a deep and rich peace was given to all, along with an insatiable desire for doing good; and a full outpouring of the Holy Spirit came upon everyone. 
 
 [^a]: Or: *presbyters*
+
 [^2]: [[Acts 20#^20-35|Acts 20:35]].
 
 *[p. 169]* ^pg173
@@ -88,16 +89,27 @@ The church of God that temporarily resides in Rome, to the church of God that te
 9 Jealousy caused Joseph to be perse
 
 [^b]: Or: *conscientiously;* meaning obscure
+
 [^c]: Or: *the presbyters*.
+
 [^d]: Or: *If you brought the proper sacrifice but did not divide it up properly, have you not sinned?* Or, *If you have rightly brought an offering but have not brought the right portion, have you not sinned?* Or *If you have brought, as was right, an offering but have not correctly discerned which one to bring, have you not sinned?* Meaning obscure, both in the Hebrew of Genesis and in this Greek translation.
+
 [^e]: Or: *It will turn to you and you will rule over it;* meaning obscure
+
 [^3]: [[Titus 03#^3-1|Titus 3:1]].
+
 [^4]: [[Proverbs 07#^7-3|Prov 7:3]].
+
 [^5]: [[Torah 53 - Ha'Azinu#^32-15|Deut 32:15]].
+
 [^6]: [[Isaiah 03#^3-5|Isa 3:5]].
+
 [^7]: [[Isaiah 59#^59-14|Isa 59:14]].
+
 [^8]: [[LXX Wisdom of Solomon 02#^2-24|Wis 2:24]].
+
 [^9]: [[Torah 01 - Bereshit#^4-3|Gen 4:3–8]].
+
 [^10]: [[Torah 06 - Toldot#^27-41|Gen 27:41ff.]]
 
 *[p. 170]* ^pg174
@@ -135,11 +147,17 @@ cuted to the point of death and to enter into slavery.[^11]
 4 Jealousy and strife overturned great cities and uprooted great nations. 
 
 [^f]: The author’s meaning is unclear. Some scholars have suggested that he is referring to Christian women martyred under Nero, who was known for his creatively brutal excesses \[see Suetonius, *Nero* 11, 12\]. If so, women executed as Dircae may have been dragged to death in the arena, bound to the horns of a bull, like Dirce of Greek myth. The reference to the Danaids is more puzzling. Some scholars have seen it as an allusion to the legend that the daughters of Danaus were taken by men against their will—i.e. that the Christian women were publicly raped before being put to death. Others have thought that it refers to the punishment of Danaus’s daughters in the afterlife, where they were compelled perpetually to fill leaking vessels—i.e., that the Christian women were subject to pointless and seemingly endless torments prior to their deaths. In either event, the text is so difficult that several emendations have been suggested to eliminate the reference to “Danaids and Dircae” altogether, the most popular of which changes the text to read: “persecuted as women, maidens, and slave-girls.”
+
 [^11]: [[Torah 09 - Vayeshev#^37-1|Genesis 37]].
+
 [^12]: [[Torah 13 - Shemot#^2-14|Exod 2:14]].
+
 [^13]: Numbers 12.
+
 [^14]: [[Torah 38 - Korach#^16-13|Num 16:13]].
+
 [^15]: 1 Samuel 18ff.
+
 [^16]: [[Torah 01 - Bereshit#^2-23|Gen 2:23]].
 
 *[p. 171]* ^pg175
@@ -175,10 +193,15 @@ cuted to the point of death and to enter into slavery.[^11]
 3 We should consider Enoch, who was transported to another place because he was found to be righteous in his obedience; and his death was never found.[^22] 
 
 [^17]: [[Torah 02 - Noach#^7-1|Genesis 7]].
+
 [^18]: Jonah 3.
+
 [^19]: Cf. [[Ezekiel 33#^33-11|Ezek 33:11]].
+
 [^20]: Possibly drawn from [[Ezekiel 33#^33-1|Ezekiel 33]].
+
 [^21]: [[Isaiah 01#^1-16|Isa 1:16–20]]
+
 [^22]: [[Torah 01 - Bereshit#^5-24|Gen 5: 24]]; [[Hebrews 11#^11-5|Heb 11:5]].
 
 *[p. 172]* ^pg176
@@ -206,13 +229,21 @@ cuted to the point of death and to enter into slavery.[^11]
 4 When the king’s men arrived and said, “Those who are scouting out our land came into your house; bring them out, for so the king has ordered,” she replied, “The men you are seeking did come in to see me, but they left right 
 
 [^g]: Or: *fine linen;* or: *flax*.
+
 [^23]: [[Torah 01 - Bereshit#^6-8|Gen 6:8]]; [[Hebrews 11#^11-7|Heb 11:7]].
+
 [^24]: Cf. [[Isaiah 41#^41-8|Isa 41:8]]; [[James 02#^2-23|Jas 2:23]].
+
 [^25]: [[Torah 03 - Lech Lecha#^12-1|Gen 12:1–3]].
+
 [^26]: [[Torah 03 - Lech Lecha#^13-14|Gen 13:14–16]].
+
 [^27]: [[Torah 03 - Lech Lecha#^15-5|Gen 15:5–6]]; [[Romans 04#^4-3|Rom 4:3]].
+
 [^28]: [[Torah 04 - Vayera#^18-21|Gen 18:21]]; [[Torah 04 - Vayera#^22-1|Genesis 22]]; [[Hebrews 11#^11-17|Heb 11:17]].
+
 [^29]: The following account is drawn from [[Torah 04 - Vayera#^19-1|Genesis 19]].
+
 [^30]: The following account is drawn from Joshua 2. Cf. [[Hebrews 11#^11-31|Heb 11:31]]; [[James 02#^2-25|Jas 2:25]].
 
 *[p. 173]* ^pg177
@@ -244,10 +275,15 @@ away and are going on down the road.” And she pointed them in the wrong direct
 5 And again it says, “I saw one who was impious greatly exalted and raised high as the cedars of Lebanon. Then I passed by and look! He was no more. And I searched for his place, but did not find it. Protect what is innocent and focus on what is upright, because the one who lives in peace will have a posterity.”[^35] . . . 
 
 [^h]: Or: *in addition they told her to give a sign*
+
 [^31]: [[Jeremiah 09#^9-22|Jer 9:23–24]]; [[1 Corinthians 01#^1-31|1 Cor 1:31]]; [[2 Corinthians 10#^10-17|2 Cor 10:17]].
+
 [^32]: [[Matthew 05#^5-7|Matt 5:7]]; 6: 14–15; 7:1–2, 12; [[Luke 06#^6-31|Luke 6:31]], [[Luke 06#^6-36|36–38]].
+
 [^33]: [[Isaiah 66#^66-2|Isa 66:2]].
+
 [^34]: [[Proverbs 02#^2-21|Prov 2:21–22]]; [[Psalms 037#^37-9|Ps 37:9]], [[Psalms 037#^37-38|38]].
+
 [^35]: [[Psalms 037#^37-35|Ps 37:35–37]].
 
 *[p. 174]* ^pg178
@@ -289,9 +325,13 @@ away and are going on down the road.” And she pointed them in the wrong direct
 3 We should realize how near he is, and that none of our thoughts or the disputes we have had is hidden from him. 
 
 [^i]: Or: *stations*
+
 [^j]: Or: *have sexual intercourse*
+
 [^36]: Cf. [[Hebrews 12#^12-1|Heb 12:1–2]].
+
 [^37]: [[Job 38#^38-11|Job 38:11]].
+
 [^38]: [[Proverbs 20#^20-27|Prov 20:27]].
 
 *[p. 175]* ^pg179
@@ -333,9 +373,13 @@ away and are going on down the road.” And she pointed them in the wrong direct
 5 In truth, his plan will come to completion quickly and suddenly, as even the Scripture testifies, when it says, “He will 
 
 [^k]: Or: *the presbyters*
+
 [^l]: Or: *in him*
+
 [^39]: [[Psalms 034#^34-12|Ps 34:11–17]], [[Psalms 034#^34-20|19]].
+
 [^40]: [[Psalms 032#^32-10|Ps 32:10]].
+
 [^41]: Source unknown. Cf. 2 Clem 11:2–3.
 
 *[p. 176]* ^pg180
@@ -373,11 +417,17 @@ come quickly and not delay. And suddenly the Lord will come to his temple—he w
 4 What then? Can a mortal be pure before the Lord? Or can a man be blameless in what he does, when he does not trust his own servants and detects something crooked in his own messengers?[^m] 5 Not even heaven is pure before him. But see! We who inhabit clay houses are ourselves made from the same clay. He smashed them like a moth, and from 
 
 [^m]: Meaning obscure
+
 [^42]: Cf. [[LXX Isaiah 13#^13-22|Isa 13:22]] (LXX); [[Malachi 3#^3-1|Mal 3:1]].
+
 [^43]: [[1 Corinthians 15#^15-20|1 Cor 15:20]].
+
 [^44]: [[Mark 04#^4-3|Mark 4:3]]; cf. [[1 Corinthians 15#^15-36|1 Cor 15:36ff.]]
+
 [^45]: [[Psalms 028#^28-7|Ps 28:7]].
+
 [^46]: [[Psalms 003#^3-6|Ps 3:5]].
+
 [^47]: [[Job 19#^19-26|Job 19:26]].
 
 *[p. 177]* ^pg181
@@ -415,7 +465,9 @@ dawn to dusk they are no more. They perished, unable to come to their own assist
 4 And as they preached throughout the countryside and in the cities, they appointed the first-fruits of their ministries as bishops and deacons of those who 
 
 [^n]: Or: *his wrath*
+
 [^o]: Or: *his zeal*
+
 [^48]: [[Job 04#^4-16|Job 4:16–18]]; [[Job 15#^15-15|15:15]]; [[Job 04#^4-19|4:19–5:5]].
 
 *[p. 178]* ^pg182
@@ -447,8 +499,11 @@ were about to believe, testing them by the Spirit.
 6 But we see that you have deposed 
 
 [^p]: The text appears here to be corrupt, and several emendations have been proposed.
+
 [^49]: [[LXX Isaiah 60#^60-17|Isa 60:17]] (LXX).
+
 [^50]: [[Torah 36 - Beha'alotcha#^12-7|Num 12:7]]; [[Hebrews 03#^3-5|Heb 3:5]].
+
 [^51]: The following account is drawn from Numbers 17.
 
 *[p. 179]* ^pg183
@@ -490,11 +545,17 @@ some from the ministry held blamelessly in honor among them, even though they ha
 2 What did he write to you at first, at 
 
 [^q]: Or: *You are contentious, brothers, and envious*
+
 [^52]: [[Daniel 06#^6-17|Dan 6:16]].
+
 [^53]: [[Daniel 03#^3-19|Dan 3:19ff.]]
+
 [^54]: Source unknown.
+
 [^55]: [[Psalms 018#^18-26|Ps 18:25–26]].
+
 [^56]: [[Ephesians 04#^4-4|Eph 4:4–6]].
+
 [^57]: [[Matthew 26#^26-24|Matt 26:24]]; Luke 17:
 
 *[p. 180]* ^pg184
@@ -538,10 +599,15 @@ the beginning of his proclamation of the gospel?
 2 For after Moses went up onto the mountain and spent forty days and nights in fasting and humility,[^62] God said to him, “Moses, Moses, go down from here at 
 
 [^r]: Or: *with spiritual concerns*
+
 [^58]: [[1 Corinthians 01#^1-12|1 Cor 1:12]].
+
 [^59]: [[Psalms 118#^118-19|Ps 118:19–20]].
+
 [^60]: [[1 Peter 04#^4-8|1 Pet 4:8]].
+
 [^61]: Cf. [[1 Corinthians 13#^13-4|1 Cor 13:4–7]].
+
 [^62]: The following account is drawn from [[Torah 21 - Ki Tisa#^32-7|Exod 32:7–10]], [[Torah 21 - Ki Tisa#^32-31|31–32]] and [[Torah 46 - Eikev#^9-12|Deut 9:12–14]].
 
 *[p. 181]* ^pg185
@@ -575,7 +641,9 @@ once: your people, whom you brought out of the land of Egypt, have broken the La
 2 But we ourselves will be innocent of this sin, and we will ask with a fervent prayer and petition that the Creator of all may safeguard the number of those counted among his elect throughout the entire world, through his beloved child Jesus Christ, through whom he called us 
 
 [^63]: [[Psalms 024#^24-1|Ps 24:1]].
+
 [^64]: The account is drawn from Judith 8ff.
+
 [^65]: The account is drawn from Esther 7; 4:16.
 
 *[p. 182]* ^pg186

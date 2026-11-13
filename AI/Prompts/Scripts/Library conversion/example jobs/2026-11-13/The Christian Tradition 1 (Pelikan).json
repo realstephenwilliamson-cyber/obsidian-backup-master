@@ -1,0 +1,298 @@
+{
+ "route": "ocr",
+ "langs": "eng",
+ "grc_words": "eng+grc",
+ "margin_col": true,
+ "no_headlike": true,
+ "no_sup": true,
+ "footnotes": false,
+ "labels": false,
+ "psm_ranges": [
+  [
+   17,
+   27,
+   6
+  ],
+  [
+   405,
+   407,
+   6,
+   "halves"
+  ]
+ ],
+ "entry_ranges": [
+  [
+   17,
+   27,
+   1,
+   4
+  ],
+  [
+   386,
+   404,
+   1
+  ],
+  [
+   405,
+   407,
+   2
+  ],
+  [
+   408,
+   422,
+   2
+  ]
+ ],
+ "out": "/home/claude/p4/out",
+ "date": "2026-11-13",
+ "ctype": "book",
+ "single": false,
+ "max_chapter": 10000,
+ "skip_unmatched_sub": true,
+ "authors": [
+  "Jaroslav Pelikan"
+ ],
+ "pdf": "/home/claude/p4/pdf/ct1.pdf",
+ "pdf_vault": "Library/Christianity/Pelikan - The Christian Tradition 1 - The Emergence of the Catholic Tradition (100-600).pdf",
+ "catalog": "Pelikan - The Christian Tradition (vols 1-3)",
+ "title": "The Christian Tradition, 1: The Emergence of the Catholic Tradition (100–600)",
+ "byline": "Jaroslav Pelikan. University of Chicago Press, Chicago, 1971.",
+ "folder": "Library/Christianity/The Christian Tradition 1 - The Emergence of the Catholic Tradition (Pelikan)",
+ "index_name": "The Christian Tradition 1 - The Emergence of the Catholic Tradition (Pelikan)",
+ "prefix": "Christian Tradition 1",
+ "text_source": "fresh OCR with Tesseract 5 (eng) of the Internet Archive scan (2018), Greek words read again with eng+grc; the scan's own OCR layer was not used (margin references mixed into the text)",
+ "callout": "> [!note] Text from a fresh OCR of the scan\n> Read by Tesseract from the Internet Archive's 2018 scan of a library copy. Words can be misread, most often figures in the margin references and the indexes (the print's old-style 1 can come out as i, I or l) and Greek. A previous reader's pencil underlining, mostly in chapter 1, can spoil a word or break a paragraph. For exact readings, check the PDF (the *Open the PDF* button on the catalog note).",
+ "toc": [
+  [
+   1,
+   "Preface",
+   13
+  ],
+  [
+   1,
+   "Primary Sources",
+   17
+  ],
+  [
+   1,
+   "Some Definitions",
+   29
+  ],
+  [
+   1,
+   "Chapter 1. Praeparatio Evangelica",
+   39
+  ],
+  [
+   2,
+   "The True Israel",
+   40
+  ],
+  [
+   2,
+   "The Christian Dispute with Classical Thought",
+   55
+  ],
+  [
+   2,
+   "The Triumph of Theology",
+   69
+  ],
+  [
+   2,
+   "The Expectation of the Nations",
+   83
+  ],
+  [
+   1,
+   "Chapter 2. Outside the Mainstream",
+   96
+  ],
+  [
+   2,
+   "The Separation of Law and Gospel",
+   99
+  ],
+  [
+   2,
+   "Systems of Cosmic Redemption",
+   109
+  ],
+  [
+   2,
+   "The New Prophecy",
+   125
+  ],
+  [
+   2,
+   "Criteria of Apostolic Continuity",
+   136
+  ],
+  [
+   1,
+   "Chapter 3. The Faith of the Church Catholic",
+   149
+  ],
+  [
+   2,
+   "The Apocalyptic Vision and Its Transformation",
+   151
+  ],
+  [
+   2,
+   "The Supernatural Order",
+   160
+  ],
+  [
+   2,
+   "The Meaning of Salvation",
+   169
+  ],
+  [
+   2,
+   "The Church and the Means of Grace",
+   183
+  ],
+  [
+   1,
+   "Chapter 4. The Mystery of the Trinity",
+   200
+  ],
+  [
+   2,
+   "Christ as Divine",
+   201
+  ],
+  [
+   2,
+   "Christ as Creature",
+   219
+  ],
+  [
+   2,
+   "Christ as Homoousios",
+   228
+  ],
+  [
+   2,
+   "The Three and the One",
+   239
+  ],
+  [
+   1,
+   "Chapter 5. The Person of the God-Man",
+   254
+  ],
+  [
+   2,
+   "Presuppositions of Christological Doctrine",
+   256
+  ],
+  [
+   2,
+   "Alternative Theologies of the Incarnation",
+   271
+  ],
+  [
+   2,
+   "The Dogma of the Two Natures in Christ",
+   284
+  ],
+  [
+   2,
+   "The Continuing Debate",
+   294
+  ],
+  [
+   1,
+   "Chapter 6. Nature and Grace",
+   306
+  ],
+  [
+   2,
+   "The State of Christian Anthropology",
+   307
+  ],
+  [
+   2,
+   "The Paradox of Grace",
+   320
+  ],
+  [
+   2,
+   "Grace and Perfection",
+   335
+  ],
+  [
+   2,
+   "Natural Endowment and Superadded Gift",
+   346
+  ],
+  [
+   1,
+   "Chapter 7. The Orthodox Consensus",
+   360
+  ],
+  [
+   2,
+   "Ubique, Semper, Ab Omnibus",
+   361
+  ],
+  [
+   2,
+   "Catholic Orthodoxy in the East",
+   367
+  ],
+  [
+   2,
+   "Orthodox Catholicism in the West",
+   377
+  ],
+  [
+   1,
+   "Selected Secondary Works",
+   386
+  ],
+  [
+   1,
+   "Index: Biblical",
+   405
+  ],
+  [
+   1,
+   "Index: General",
+   408
+  ],
+  [
+   1,
+   "Back matter",
+   423
+  ]
+ ],
+ "grc_pages": [
+  13,
+  422
+ ],
+ "pnum_override": {
+  "11": "vii",
+  "12": "viii",
+  "13": "ix",
+  "14": "x",
+  "15": "xi",
+  "16": "xii",
+  "17": "xiii",
+  "18": "xiv",
+  "19": "xv",
+  "20": "xvi",
+  "21": "xvii",
+  "22": "xviii",
+  "23": "xix",
+  "24": "xx",
+  "25": "xxi",
+  "26": "xxii",
+  "27": "xxiii",
+  "28": "xxiv",
+  "29": "1",
+  "139": "111"
+ }
+}

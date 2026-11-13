@@ -7,7 +7,7 @@ What each AI session changed in the vault, newest first, in a few lines: the dat
 
 On 3 Nov 2026, at Stephen's word, the records of the build (6 Oct – 3 Nov 2026) were cut to what a later session will use: this log's earlier entries and the build's reports, decisions and finished prompts went to `.trash`. Their last versions stay in the vault's Git history (for this note: `git log -p -- "AI/AI log.md"`).
 
-**Next free job number: pf937.**
+**Next free job number: pf949.**
 
 ## Open work
 
@@ -27,6 +27,24 @@ Left unfinished on purpose, with where its data is. Each item is a session of it
 - **Finn's footnotes** (corrected 11–12 Nov 2026): `[^220]` is printed as 222 (the label follows the call; Stephen, 12 Nov 2026: no remark in the note); `[^305]` and `[^470]` carry placeholders for glyphs drawn in the print.
 - **Smart Connections' exclusions** (audit D-04): Qumran, the Mālinīvijayottara and Pseudepigrapha are not excluded; Stephen will decide later (12 Nov 2026). Smart Connections is off on the laptop.
 - **Stephen's own:** [[Open items]]; the Bible references left plain: [[Bible references to decide later]].
+
+## 13 Nov 2026 (11:58–12:50): Pelikan vols. 2 and 3 re-split by chapter from a fresh OCR (Opus lead in the cloud)
+
+- **Stephen:** clean up vols. 2 and 3 as suggested (session 40 %, week 57 % at 11:50).
+- **Replaced (pf944 read-only survey, pf945 dry, pf946):** both Markdown copies, now by the printed contents instead of 40-page parts: 15 notes each (the index note rewritten in place, so the catalog's links hold; front matter, preface, primary sources, the introduction, chapters 1–6 with their 24 sections as headings, bibliography, the two indexes, back matter). Fresh Tesseract OCR with the converter options of 13 Nov: margin references as their own lines, no headings guessed from type size, lists read by entry, Greek from a second eng+grc reading (167 words in vol. 2; vol. 3 prints none). Paragraphs broken mid-sentence: 912 → 10 (vol. 2) and 800 → 10 (vol. 3); dictionary words 96.0 → 97.2 % and 97.1 → 98.0 %. Every page marker checked (vol. 2: pp. v–xxv, 1–315, 317–329, the scan lacking the blank p. 316; vol. 3: pp. v–xxviii, 1–333). Post-fixes (`postfix_ct23.py`): two section headings, the spines, a Greek title, and 20 misreads in margin abbreviations read off the page images (italic letters read as #, and one "::" that Dataview would take for a field).
+- **Old notes:** the 18 part notes went to `.trash` after a backup in `.work/backup-pelikan23-2026-11-13/` (with the two index notes and the list below). Only four links pointed in from outside: the catalog's two (the index paths kept) and two rows of [[Bible references to decide later]], which now point at vol. 3's chapter 4 note with their new line numbers.
+- **Checked:** 356/356 and 365/365 page blocks, every note with frontmatter, no unresolved link in the two folders or the list, unresolved links 15/25 before and after.
+- **Left:** the backups stay in `.work` until the next Git commit. Job files and results pf943–pf947 went to `.trash/work-2026-11-13/`; pf948's are left for the next clean-up. **Next free job number pf949.**
+
+## 13 Nov 2026 (10:48–11:55): Pelikan vol. 1, the Archive scan swapped in and a Markdown copy made (Opus lead in the cloud)
+
+- **Stephen:** compare the Pelikan PDF in Downloads (`Add to Obsidian/christiantraditi00peli_0.pdf`) with the vault's vol. 1, then swap it in and make a Markdown copy from it. No other AI, runner on; week 51 % at the start, 57 % at 11:50.
+- **PDF (pf938 dry, pf939):** vol. 1's file, same name, now holds the Internet Archive's 2018 scan of a Boston Public Library copy (428 pages, colour, about 2,700×4,370 px a page, 31.6 MB). The old file (1-bit, about 560×880 px a page; p. 71 twice, pp. 190 and 317 missing; 63 % of its OCR words real words) is in `.work/backup-pelikan1-2026-11-13/`. The new scan has a previous reader's pencil underlining, mostly in chapter 1. The Downloads original is left for Stephen to delete.
+- **Markdown copy (pf940 dry, pf941):** `Library/Christianity/The Christian Tradition 1 - The Emergence of the Catholic Tradition (Pelikan)/`, 16 notes: the index and one note per part of the printed contents (front matter, preface, primary sources, Some Definitions, chapters 1–7 with their 27 sections as headings, bibliography, the two indexes, back matter); vol. 2's copy is in 40-page parts. Fresh Tesseract OCR (eng; the Archive's own layer mixes the margin references into the text), 86 Greek words on 53 pages from a second eng+grc reading, margin references as their own lines at the top of each page; 97.6 % of body words are dictionary words. All 428 page markers checked against the print (pp. vii–xxiv, 1–394; covers and endpapers `[PDF K]`, their OCR noise replaced by a bracketed description). The divine name occurs three times in Latin script, as printed.
+- **Catalog note:** vol. 1's copy added to `files:` (the copies now in volume order), the year 1971 confirmed from the new copyright page, a dated paragraph on the swap.
+- **Tools:** `conv.py` has six new options (`grc_words`/`grc_pages`, `margin_col`, `no_sup`, `no_headlike`, `psm_ranges`, `entry_ranges`; old behaviour unchanged without them), described in [[Library conversion scripts]] (13 Nov section); the job, `postfix_ct1.py` and `prefill.py` are in `example jobs/2026-11-13/`.
+- **Checked:** 428/428 page blocks found, all 16 notes with frontmatter, the catalog note's link to the index resolves, no note name taken twice in the vault, unresolved links 15/25 before and after.
+- **Left:** the backup (old PDF, catalog note, scripts note, conv.py) stays in `.work/backup-pelikan1-2026-11-13/` until the next Git commit. This session's job files and results (pf937–pf942) went to `.trash/work-2026-11-13/`; pf943's are left for the next clean-up. **Next free job number pf944.**
 
 ## 12 Nov 2026 (15:35–16:00): the JANT's 2 and 3 Enoch and *Hodayot* references linked (Opus lead in the cloud)
 

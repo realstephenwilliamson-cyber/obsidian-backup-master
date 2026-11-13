@@ -1,6 +1,6 @@
 ---
 type: prompt
-updated: 2026-10-22
+updated: 2026-11-13
 ---
 # Library conversion scripts
 
@@ -73,3 +73,20 @@ Options that already existed, used in new ways that day:
 - `Page labels/` ([[Page labels]]): read-only scans of the index labels and of the `[PDF K]` markers inside numbered runs, with their results of 26 Oct (not applied).
 - `example jobs/2026-10-26/`: the four re-split jobs of 26 Oct (second session).
 - `example jobs/2026-10-29/`: the two Levinas jobs of 29 Oct (*Totality and Infinity*, 19 notes; *The Levinas Reader*, 24 notes; `legacy_fonts: false` for the Reader).
+
+## Added 13 Nov 2026 (Pelikan, *The Christian Tradition*, vol. 1)
+
+`conv.py` gained six options for a fresh OCR of a book that prints its references in a left margin column and has Greek words in English pages; without them it behaves as before. The job, the post-fix script and the OCR prefill are in `example jobs/2026-11-13/`.
+
+| Option | What it does |
+|---|---|
+| `grc_words` | The page read again with the given languages (`eng+grc`); a Greek word from that reading replaces the English reading's non-word in the same place when it is bracketed, or has five or more Greek letters at confidence 50 or more, or stands in a line with such a word. `grc_pages` [first, last] limits it (covers and endpapers gave junk) |
+| `margin_col` | A line read across the margin and the text is split; margin lines go first on the page, as separate paragraphs, and are never taken for running heads; the text's edges are measured without them. Old-style 1 read as i, t, I or l before a book abbreviation or a colon is made 1 |
+| `no_sup` | Figures are never raised as note calls (old-style 0, 1, 2 are x-high) |
+| `no_headlike` | No headings guessed from type size (OCR sizes are word heights, so lines with many ascenders came out as headings); headings come from `toc` |
+| `psm_ranges` | [first, last, psm] for some pages, or [first, last, psm, "halves"] to read each half of the page on its own (a two-column table: the biblical index) |
+| `entry_ranges` | [first, last, ncols(, indent)]: list pages (abbreviations, bibliography, indexes): a line at its column's edge, measured near the line so a skewed scan does not count, starts an entry; `indent` (default 0.6 body sizes) widens the allowance where sub-entries are indented |
+
+`prefill.py pdf langs first last` fills the OCR cache ahead of `conv.py` (two in parallel: one per language set). `postfix_ct1.py` holds the vol. 1 corrections made after conversion (two section headings, covers and endpapers, three misreads of t and i as #).
+
+Vols. 2 and 3 of the same set followed the same afternoon: `The Christian Tradition 2 (Pelikan).json`, `The Christian Tradition 3 (Pelikan).json` and `postfix_ct23.py` in the same folder (section headings, the spines, a Greek title, and margin abbreviations whose italic letters the OCR read as # or ::, read off the page images). `prefill.py` makes the PDF's path absolute itself: the OCR cache is keyed on the path, so a relative path there and an absolute one in the job meant every page was read again.

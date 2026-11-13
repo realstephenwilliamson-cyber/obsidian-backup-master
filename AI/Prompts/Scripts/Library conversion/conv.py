@@ -620,6 +620,77 @@ def wants_san(pg, ls):
     return False
 
 
+GRC_L = re.compile('[Ͱ-Ͽἀ-῿]')
+GRC_LOWER = re.compile('[ά-ώἀ-῾]')
+
+
+def grc_words(doc, i, ls, langs, dpi=300, stats=None):
+    """(13 Nov 2026, Pelikan vol. 1) English pages with Greek words in them: the page read again with English+Greek
+    ('eng+grc'), and a Greek word from that reading put in place of the English reading's word(s) in the same place.
+    A Greek word is taken when it is in brackets or parentheses, or has at least five Greek letters and confidence 50 or
+    more, or stands in the same line as such a word (a Greek phrase); and only where the English reading there is not an
+    English word, has at least two letters, no digits and no full stop between letters (an abbreviation like 'V.Macr.').
+    Greek words need three Greek letters, one lower case: the Greek model turns 'to' into 'Ἴο' and '71' into 'ΤΙ', and
+    pencil marks and other Latin-script words ('otci', 'kyânâ') into short Greek-looking words, which these rules refuse."""
+    lg = ocr_page(doc, i, langs, dpi=dpi)
+    cand = []
+    for li, L in enumerate(lg):
+        for sp in L.spans:
+            t = sp['text'].strip(); g = GRC_L.findall(t)
+            if len(g) >= 3 and GRC_LOWER.search(t) and len(g) >= 0.7 * len(re.findall(r'\w', t)):
+                strong = bool(re.search(r'[\[\](){}]', t)) or (len(g) >= 5 and sp.get('conf', 0) >= 50)
+                cand.append((li, sp, strong))
+    lines_ok = {li for li, _, st in cand if st}
+    gw = [sp for li, sp, st in cand if st or li in lines_ok]
+    if not gw: return ls
+    en = english()
+    def ov(a, b):
+        w = min(a[2], b[2]) - max(a[0], b[0]); h = min(a[3], b[3]) - max(a[1], b[1])
+        if w <= 0 or h <= 0: return 0
+        return w * h / max(1e-6, min((a[2] - a[0]) * (a[3] - a[1]), (b[2] - b[0]) * (b[3] - b[1])))
+    for G in gw:
+        hits = [(L, sp) for L in ls for sp in L.spans if ov(sp['bbox'], G['bbox']) > 0.5]
+        if not hits: continue
+        if any(re.search(r'\d', sp['text']) or GRC_L.search(sp['text']) for _, sp in hits): continue
+        if any(re.search(r'[A-Za-z]\.[A-Za-z]', sp['text']) for _, sp in hits): continue
+        if len(re.findall(r'[A-Za-z]', ''.join(sp['text'] for _, sp in hits))) < 2: continue
+        if any(re.sub(r'[^A-Za-z]', '', sp['text']).lower() in en and len(re.sub(r'[^A-Za-z]', '', sp['text'])) > 1 for _, sp in hits): continue
+        hits.sort(key=lambda h: h[1]['bbox'][0])
+        trail = ' ' if hits[-1][1]['text'].endswith(' ') else ''
+        hits[0][1]['text'] = G['text'].strip() + trail
+        for _, sp in hits[1:]: sp['text'] = ''
+        for L in {id(L): L for L, _ in hits}.values(): L.text = ''.join(sp['text'] for sp in L.spans).strip()
+        if stats is not None: stats.append((i + 1, G['text'].strip()))
+    return ls
+
+
+def margin_col(ls, W):
+    """(13 Nov 2026, Pelikan vol. 1) Books that print their references in a narrow column left of the text: a line that
+    Tesseract read across the margin and the text ('i Cor.13:13 What the church ...') is split in two, and the margin lines
+    go first on the page, in their order down the page (vol. 2 of the same set has them so). The body's left edge is the
+    median left edge of the page's wide lines."""
+    wide = [L.x0 for L in ls if L.x1 - L.x0 > 0.45 * W]
+    if len(wide) < 5: return ls
+    left = statistics.median(wide); edge = left - 0.012 * W
+    if left < 0.15 * W: return ls
+    marg, body = [], []
+    for L in ls:
+        ms = [sp for sp in L.spans if sp['bbox'][2] <= edge]; bs = [sp for sp in L.spans if sp['bbox'][2] > edge]
+        if ms and bs:
+            ms[-1] = dict(ms[-1], text=ms[-1]['text'].rstrip()); M = Line(ms); M.size = L.size; M.kind = 'margin'; marg.append(M)
+            B = Line(bs); B.size = L.size; body.append(B)
+        elif ms: L.kind = 'margin'; marg.append(L)
+        else: body.append(L)
+    for M in marg:   # Tesseract reads the old-style figure 1 as i, t, I or l: '1 Cor.', '(Harvey 1:55)'
+        for k, sp in enumerate(M.spans):
+            t = sp['text']
+            if re.fullmatch(r'[itIl] ?', t) and k + 1 < len(M.spans) and re.match(r'(Cor|Tim|Thess|Pet|Joh|John|Kings|Kgs|Sam|Chron|Chr|Clem|Apol|Macc|Esd)\b', M.spans[k + 1]['text']):
+                sp['text'] = '1' + t[1:]
+            sp['text'] = re.sub(r'(?<=[ (])[Il](?=:\d)', '1', ' ' + sp['text'])[1:]
+        M.text = ''.join(sp['text'] for sp in M.spans).strip()
+    return sorted(marg, key=lambda L: L.y0) + body
+
+
 OCR_PREP = None   # job option ocr_prep ('norm-sauvola'); part of the cache key only when set
 
 
@@ -677,7 +748,7 @@ def ocr_page(doc, i, langs, dpi=300, clip=None, psm=3):
         for j, w in enumerate(ws):
             t = w['text'] + (' ' if j < len(ws) - 1 else '')
             h = w['bbox'][3] - w['bbox'][1]
-            sup = bool(re.fullmatch(r'\d{1,3}', w['text'])) and h < med * 0.7 and j > 0
+            sup = bool(re.fullmatch(r'\d{1,3}', w['text'])) and h < med * 0.7 and j > 0 and not OPTS.get('no_sup')   # no_sup (13 Nov 2026): old-style figures 0, 1, 2 are x-high, not raised
             sp.append(dict(text=t, size=med * 0.75, flags=0, bbox=w['bbox'], font='ocr', sup=sup, conf=w['conf']))
         L = Line(sp); L.size = med * 0.75
         out.append(L)
@@ -873,7 +944,7 @@ def _yq(v):
 def convert(job):
     global OCR_PREP
     OCR_PREP = job.get('ocr_prep')
-    OPTS.clear(); OPTS.update({k: job[k] for k in ('drop_nums', 'col_segments', 'baseline_sort', 'bidi_runs') if k in job})
+    OPTS.clear(); OPTS.update({k: job[k] for k in ('drop_nums', 'col_segments', 'baseline_sort', 'bidi_runs', 'no_sup') if k in job})
     doc = fitz.open(job['pdf'])
     N = len(doc)
     route = job['route']
@@ -881,7 +952,7 @@ def convert(job):
     font_re = re.compile(job['font_re']) if job.get('font_re') else None
     pages = []  # per page: dict(lines=[Line], W, H)
     ocr_conf = []
-    stats_fill = [0]; stats_latin = [0]
+    stats_fill = [0]; stats_latin = [0]; stats_grc = []
     subj_ = job['pdf_vault'].split('/')[1]
     cand_langs = ('grc', 'heb', 'Latin', 'san') if subj_ in ('Trika', 'Hinduism', 'Sanskrit') else ('grc', 'heb', 'Latin', 'chi_sim')
     bad_fonts = legacy_fonts(doc, langs=cand_langs) if route == 'pymupdf' and job.get('legacy_fonts', True) else {}
@@ -936,8 +1007,14 @@ def convert(job):
                 ls = ocr_page(doc, i, langs, dpi=job.get('dpi', 300), clip=fitz.Rect(0, 0, W / 2, H), psm=job.get('psm', 3)) + \
                      ocr_page(doc, i, langs, dpi=job.get('dpi', 300), clip=fitz.Rect(W / 2, 0, W, H), psm=job.get('psm', 3))
             else:
-                ls = ocr_page(doc, i, langs, dpi=job.get('dpi', 300), psm=job.get('psm', 3))
+                _pr = next((r for r in job.get('psm_ranges', []) if r[0] <= i + 1 <= r[1]), None)   # [first, last, psm(, 'halves')] (13 Nov 2026)
+                if _pr and len(_pr) > 3 and _pr[3] == 'halves':   # a two-column table (an index of references and pages): each half read row by row
+                    ls = ocr_page(doc, i, langs, dpi=job.get('dpi', 300), clip=fitz.Rect(0, 0, W / 2, H), psm=_pr[2]) + \
+                         ocr_page(doc, i, langs, dpi=job.get('dpi', 300), clip=fitz.Rect(W / 2, 0, W, H), psm=_pr[2])
+                else:
+                    ls = ocr_page(doc, i, langs, dpi=job.get('dpi', 300), psm=_pr[2] if _pr else job.get('psm', 3))
             if job.get('latin_fix'): ls = latin_fix(doc, i, ls, job['latin_fix'], dpi=job.get('dpi', 300), stats=stats_latin)
+            if job.get('grc_words') and (not job.get('grc_pages') or job['grc_pages'][0] <= i + 1 <= job['grc_pages'][1]): ls = grc_words(doc, i, ls, job['grc_words'], dpi=job.get('dpi', 300), stats=stats_grc)   # 13 Nov 2026: Greek words in English pages
             if job.get('san_pages') and wants_san(pg, ls):
                 # Devanagari on this page: read it again with Latin+san and take only the lines that come out in Devanagari
                 ls2 = ocr_page(doc, i, langs + '+san', dpi=job.get('dpi', 300))
@@ -978,6 +1055,11 @@ def convert(job):
         top = [L for L in ls[:3] if L.y1 < max(p['H'] * 0.12, y_top + p['H'] * 0.05)]
         bot = [L for L in ls[-3:] if L.y0 > min(p['H'] * 0.88, y_bot - p['H'] * 0.05)]
         return top, bot
+    def _marg_line(p, L):   # (margin_col) a line wholly left of the body's left edge
+        if '_edge' not in p:
+            wide = [M.x0 for M in p['lines'] if M.x1 - M.x0 > 0.45 * p['W']]
+            p['_edge'] = statistics.median(wide) - 0.012 * p['W'] if len(wide) >= 5 else -1
+        return L.x1 <= p['_edge']
     tails = collections.Counter()
     for p in pages:
         top, bot = zone_lines(p)
@@ -998,6 +1080,7 @@ def convert(job):
     for i, p in enumerate(pages):
         top, bot = zone_lines(p)
         for z, L in [('t', L) for L in top] + [('b', L) for L in bot]:
+            if job.get('margin_col') and _marg_line(p, L): continue   # 13 Nov 2026: a reference in the margin column is never a running head
             k = norm_hf(L.text)
             ltxt = re.sub(r'(?<=\d) (?=\d)', '', L.text.strip()) if re.fullmatch(r'[\d ]{3,9}', L.text.strip()) else L.text
             num = page_number_token(ltxt) if len(ltxt) < 120 else None
@@ -1095,7 +1178,7 @@ def convert(job):
         for L in top + bot:
             if L.kind == 'hf' or len(L.text) > 120: continue
             toks = re.findall(r'\b[\dIVXLCivxlc]+\b', L.text)
-            if pnum[i] in toks and len(L.text) < 90: L.kind = 'hf'
+            if pnum[i] in toks and len(L.text) < 90 and not (job.get('margin_col') and _marg_line(p, L)): L.kind = 'hf'
     for k_, v_ in (job.get('pnum_override') or {}).items():   # {pdf page: printed page(s)}, e.g. a two-page spread "22–23"
         pnum[int(k_) - 1] = v_; psrc[int(k_) - 1] = 'given'
     # --- per page: footnotes and paragraphs
@@ -1126,6 +1209,8 @@ def convert(job):
         if job.get('gutter_bands'): ls = order_gutter_bands(ls, p['W'], p['H']); twocol = False
         elif job.get('ncols') and (not job.get('ncols_landscape') or p['W'] > p['H'] * 1.15): ls = order_ncols(ls, p['W'], job['ncols']); twocol = False   # ncols_landscape: only the two-page spreads (22 Oct 2026)
         elif route == 'ocr' or not job.get('columns', True): twocol = False
+        _er = next((r for r in job.get('entry_ranges', []) if r[0] <= i + 1 <= r[1]), None)   # [first, last, ncols]: list pages (13 Nov 2026)
+        if job.get('margin_col') and route == 'ocr' and not _er: ls = margin_col(ls, p['W'])   # 13 Nov 2026: references in a left margin column
         else: ls, twocol = order_columns(ls, p['W'])
         hebl = [L for L in ls if len(HEB.findall(L.text)) > 0.5 * max(1, len(re.findall(r'[A-Za-z\u0590-\u05FF]', L.text)))]
         latl = [L for L in ls if L not in hebl]
@@ -1246,16 +1331,21 @@ def convert(job):
         refs = []
         paras = []  # list of [text, kind]
         prev = None; prev_kind = 'p'; pending_head = None; cur_first_x0 = 0; cur_n = 0
-        if job.get('entry_lines'):
+        _entry = bool(job.get('entry_lines') or _er)
+        if _entry:
             # glossaries: every line that starts at its column's left edge is an entry of its own (wrapped lines are indented)
-            _nc = job.get('ncols', 1); _cw = p['W'] / _nc
+            _nc = _er[2] if _er else job.get('ncols', 1); _cw = p['W'] / _nc
             _band = lambda L: min(_nc - 1, int(((L.x0 + L.x1) / 2) / _cw))
             _cleft = {}
             for L in ls: _cleft[_band(L)] = min(_cleft.get(_band(L), 1e9), L.x0)
+            if _er:   # entry_ranges: the column's edge near the line, so a skewed scan's drift is not read as an indent
+                _near = lambda L: min((M.x0 for M in ls if _band(M) == _band(L) and abs(M.y0 - L.y0) < body * 8), default=L.x0)
+                _cleft = None
         gaps = [b.y0 - a.y1 for a, b in zip(ls, ls[1:]) if 0 <= b.y0 - a.y1 < body * 3]
         med_gap = statistics.median(gaps) if gaps else body * 0.3
-        left = min((L.x0 for L in ls), default=0)
-        right = max((L.x1 for L in ls), default=p['W'])
+        _bl = [L for L in ls if L.kind != 'margin'] if job.get('margin_col') else ls   # margin_col: the text's edges, not the margin's
+        left = min((L.x0 for L in _bl), default=0)
+        right = max((L.x1 for L in _bl), default=p['W'])
         cb = {}
         if twocol and job.get('col_bounds', True):
             # the column's own margins: a line ending short of the page's right margin is not a paragraph end in the left column
@@ -1299,7 +1389,7 @@ def convert(job):
                     break
             new = False
             letters = re.findall(r'[A-Za-zÀ-ɏḀ-ỿ]', L.text)
-            headlike = (not heading and len(L.text) <= 100 and (L.x1 - L.x0) < (right - left) * 0.8 and len(letters) >= 3
+            headlike = (not job.get('no_headlike') and not heading and len(L.text) <= 100 and (L.x1 - L.x0) < (right - left) * 0.8 and len(letters) >= 3
                         and not re.search(r'[,;]$', L.text.strip())
                         and ((size_steady and L.size >= body * 1.12) or (not bold_common and all((sp_['flags'] & 16) for sp_ in L.spans if sp_['text'].strip()))
                              or (sum(1 for c in letters if c.isupper()) > 0.85 * len(letters) and len(letters) >= 6)))
@@ -1316,7 +1406,8 @@ def convert(job):
                 elif L.x0 <= lf + body * 0.3 and prev.x0 > lf + body * 0.8 and cur_first_x0 <= lf + body * 0.3 and cur_n >= 2 and not col_jump: new = True  # hanging indent: next entry
                 elif prev.x1 < rgt(prev) - (p['W'] * 0.12 if not cb else (rgt(prev) - lft(prev)) * 0.1) and re.search(r'[.?!:"”’)]\s*$', prev.text): new = True
                 elif re.match(r'^\d{1,3}\.\s+[A-Z‘“"(]', L.text) and re.search(r'[.)”’]\s*$', prev.text) and L.x0 <= lf + body * 1.5: new = True   # numbered notes or list items
-            if job.get('entry_lines') and prev is not None and not new and L.x0 <= _cleft.get(_band(L), L.x0) + body * 0.6: new = True
+            if job.get('margin_col') and prev is not None and (L.kind == 'margin') != (prev.kind == 'margin'): new = True   # a margin reference is never part of a text paragraph
+            if _entry and prev is not None and not new and L.x0 <= (_near(L) if _cleft is None else _cleft.get(_band(L), L.x0)) + body * (_er[3] if _er and len(_er) > 3 else 0.6): new = True   # entry_ranges' 4th value: how far (in body sizes) an entry line may be indented
             if heading:
                 lvl, title = heading
                 if (lvl, title) in [(a, b) for a, b in hl]: hl = [x for x in hl if x != heading]
@@ -1499,7 +1590,7 @@ def convert(job):
             idx.append(f'- [[{ch["name"]}|{md_escape(ch["title"])}]] ({("pp. " + ch["pages"]) if ch["pages"] else ("PDF " + str(ch["start"] + 1) + "–" + str(ch["end"] + 1))})')   # 26 Oct 2026: PDF pages where nothing is printed
         open(os.path.join(outdir, job['index_name'] + '.md'), 'w', encoding='utf-8').write('\n'.join(idx).rstrip() + '\n')
         written.append((job['folder'] + '/' + job['index_name'] + '.md', os.path.join(outdir, job['index_name'] + '.md')))
-    rep = dict(fn_pages=fn_pages, fill_ocr_pages=stats_fill[0], latin_fixed_lines=stats_latin[0], pdf=job['pdf_vault'], folder=job['folder'], pages=N, notes=len(chapters) + 1, body_size=body, stats=dict(stats),
+    rep = dict(fn_pages=fn_pages, fill_ocr_pages=stats_fill[0], latin_fixed_lines=stats_latin[0], grc_words=stats_grc, pdf=job['pdf_vault'], folder=job['folder'], pages=N, notes=len(chapters) + 1, body_size=body, stats=dict(stats),
                page_src=dict(collections.Counter(psrc)), labels_used=bool(use_labels), chapters=[(c['name'], c['start'] + 1, c['end'] + 1) for c in chapters],
                ocr_conf_mean=round(statistics.mean(ocr_conf), 1) if ocr_conf else None, pnum=pnum, written=written)
     json.dump(rep, open(os.path.join(outdir, '_report.json'), 'w'), ensure_ascii=False, indent=1)
